@@ -1,0 +1,8 @@
+{
+  "methodology_version": "current-approved",
+  "earliest_supported_season": 2024,
+  "transaction_start_week": 0,
+  "transaction_end_week": 18,
+  "expected_team_count": 16,
+  "minimum_completed_trades": 61
+}
