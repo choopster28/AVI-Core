@@ -1,10 +1,12 @@
-name: Update Sleeper Data
+name: Update AVI Source Data
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 10 * * *"
 
 jobs:
-  update-sleeper:
+  update-avi-data:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,21 +18,49 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: python -m pip install -r requirements.txt
+      - name: Install AVI Core
+        run: python -m pip install -e .
 
-      - name: Download Sleeper data
+      - name: Download Sleeper history
         env:
           SLEEPER_LEAGUE_ID: ${{ secrets.SLEEPER_LEAGUE_ID }}
-          AVI_SEASON: "2026"
+          AVI_EARLIEST_SEASON: "2024"
           TRANSACTION_START_WEEK: "0"
           TRANSACTION_END_WEEK: "18"
-        run: python run_sleeper_update.py
+          AVI_EXPECTED_TEAM_COUNT: "16"
+          AVI_MINIMUM_COMPLETED_TRADES: "61"
+          AVI_SEASON: "2026"
+          AVI_SCORING: "HALF"
+          AVI_METHODOLOGY_VERSION: "2026.1"
+        run: python -m avi.cli sleeper-update
 
-      - name: Upload Sleeper snapshot
+      - name: Validate Sleeper history
+        env:
+          SLEEPER_LEAGUE_ID: ${{ secrets.SLEEPER_LEAGUE_ID }}
+          AVI_EARLIEST_SEASON: "2024"
+          AVI_EXPECTED_TEAM_COUNT: "16"
+          AVI_MINIMUM_COMPLETED_TRADES: "61"
+          AVI_SEASON: "2026"
+          AVI_SCORING: "HALF"
+          AVI_METHODOLOGY_VERSION: "2026.1"
+        run: python -m avi.cli validate-sleeper
+
+      - name: Download FantasyPros data
+        env:
+          FANTASYPROS_API_KEY: ${{ secrets.FANTASYPROS_API_KEY }}
+          FANTASYPROS_API_KEY_HEADER: "x-api-key"
+          FANTASYPROS_BASE_URL: "https://api.fantasypros.com/public/v2/json"
+          AVI_SEASON: "2026"
+          AVI_SCORING: "HALF"
+          AVI_METHODOLOGY_VERSION: "2026.1"
+        run: python -m avi.cli fantasypros-update
+
+      - name: Upload AVI source snapshot
         uses: actions/upload-artifact@v4
         with:
-          name: avi-sleeper-snapshot
-          path: data/raw/
+          name: avi-source-snapshot
+          path: |
+            data/raw/
+            data/processed/
           if-no-files-found: error
           retention-days: 30

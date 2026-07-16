@@ -30,3 +30,7 @@ def main() -> None:
         update_fantasypros(config)
     elif args.command == "validate-sleeper":
         validate_sleeper_outputs(config)
+
+
+if __name__ == "__main__":
+    main()
