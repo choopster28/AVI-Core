@@ -2,24 +2,28 @@ from __future__ import annotations
 
 from datetime import UTC, datetime
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 from avi.config import AviConfig
+from avi.fantasypros.checkpoint import (
+    is_completed,
+    load_checkpoint,
+    mark_completed,
+    mark_failed,
+    reset_checkpoint,
+)
 from avi.fantasypros.client import FantasyProsClient
 from avi.io import write_json
 
 
-RAW_ROOT = Path("data/raw/fantasypros")
+RAW = Path("data/raw/fantasypros")
 
-OFFENSIVE_POSITIONS = (
+POSITIONS = (
     "QB",
     "RB",
     "WR",
     "TE",
     "K",
-)
-
-IDP_POSITIONS = (
     "DL",
     "LB",
     "DB",
@@ -40,289 +44,232 @@ PLAYER_POINT_POSITIONS = (
 )
 
 
-def _record_count(payload: Any) -> int | None:
+def download_dataset(
+    *,
+    checkpoint: dict[str, Any],
+    dataset_key: str,
+    output_path: Path,
+    downloader: Callable[[], Any],
+) -> Any | None:
     """
-    Return a useful count when the FantasyPros response exposes
-    a common collection field.
-    """
-    if isinstance(payload, list):
-        return len(payload)
+    Download one FantasyPros dataset.
 
-    if not isinstance(payload, dict):
+    Completed datasets are skipped when both the checkpoint entry and
+    output file exist. Failed datasets remain available for the next run.
+    """
+    if is_completed(checkpoint, dataset_key) and output_path.exists():
+        print(f"Skipping completed dataset: {dataset_key}")
         return None
 
-    for key in (
-        "players",
-        "rankings",
-        "news",
-        "injuries",
-        "results",
-        "data",
-    ):
-        value = payload.get(key)
+    print(f"Downloading: {dataset_key}")
 
-        if isinstance(value, list):
-            return len(value)
+    try:
+        payload = downloader()
+    except Exception:
+        mark_failed(checkpoint, dataset_key)
+        raise
 
-        if isinstance(value, dict):
-            return len(value)
+    write_json(output_path, payload)
+    mark_completed(checkpoint, dataset_key)
 
-    return None
+    return payload
 
 
-def update_fantasypros(
-    config: AviConfig,
-) -> dict[str, Any]:
+def update(config: AviConfig) -> dict[str, Any]:
     client = FantasyProsClient(
-        base_url=config.fantasypros_base_url,
-        api_key=config.fantasypros_api_key,
-        api_key_header=config.fantasypros_api_key_header,
+        config.fantasypros_base_url,
+        config.fantasypros_api_key,
+        config.fantasypros_api_key_header,
+        max_requests_per_run=(
+            config.fantasypros_max_requests_per_run
+        ),
     )
 
-    downloaded_at = datetime.now(UTC)
+    checkpoint = load_checkpoint()
+    warnings: list[str] = []
 
     print("=" * 60)
     print("AVI FANTASYPROS UPDATE")
     print("=" * 60)
-    print(f"Season: {config.avi_season}")
-    print(f"Scoring: {config.avi_scoring}")
+    print(
+        "Previously completed datasets: "
+        f"{len(checkpoint.get('completed', []))}"
+    )
     print()
 
-    dataset_counts: dict[str, int | None] = {}
-    warnings: list[str] = []
-
-    print("Downloading NFL player directory...")
-
-    players = client.get_players()
-
-    write_json(
-        RAW_ROOT / "players.json",
-        players,
+    download_dataset(
+        checkpoint=checkpoint,
+        dataset_key="players",
+        output_path=RAW / "players.json",
+        downloader=client.players,
     )
 
-    dataset_counts["players"] = _record_count(
-        players
+    download_dataset(
+        checkpoint=checkpoint,
+        dataset_key="injuries",
+        output_path=RAW / "injuries.json",
+        downloader=lambda: client.injuries(
+            config.avi_season
+        ),
     )
 
-    print("Downloading injuries...")
-
-    injuries = client.get_injuries(
-        season=config.avi_season,
-        week=0,
+    download_dataset(
+        checkpoint=checkpoint,
+        dataset_key="news",
+        output_path=RAW / "news.json",
+        downloader=client.news,
     )
 
-    write_json(
-        RAW_ROOT / "injuries.json",
-        injuries,
-    )
-
-    dataset_counts["injuries"] = _record_count(
-        injuries
-    )
-
-    print("Downloading news...")
-
-    news = client.get_news(
-        limit=500,
-    )
-
-    write_json(
-        RAW_ROOT / "news.json",
-        news,
-    )
-
-    dataset_counts["news"] = _record_count(
-        news
-    )
-
-    print()
-    print("Downloading full-season projections...")
-
-    projection_positions = (
-        OFFENSIVE_POSITIONS
-        + IDP_POSITIONS
-    )
-
-    for position in projection_positions:
-        print(
-            f"Downloading {position} projections..."
+    for position in POSITIONS:
+        dataset_key = f"projections_{position}"
+        output_path = (
+            RAW
+            / "projections"
+            / f"{position}.json"
         )
 
         try:
-            projections = client.get_projections(
-                season=config.avi_season,
-                position=position,
-                week=0,
-                ros=False,
+            download_dataset(
+                checkpoint=checkpoint,
+                dataset_key=dataset_key,
+                output_path=output_path,
+                downloader=lambda position=position: (
+                    client.projections(
+                        config.avi_season,
+                        position,
+                    )
+                ),
             )
         except Exception as exc:
-            if position in IDP_POSITIONS:
+            if position in {"DL", "LB", "DB"}:
                 warning = (
                     f"{position} projections unavailable: "
                     f"{type(exc).__name__}: {exc}"
                 )
                 warnings.append(warning)
                 print(f"WARNING: {warning}")
+
+                # Preserve the approved IDP baseline and do not repeatedly
+                # spend requests on an unsupported projection dataset.
+                mark_completed(
+                    checkpoint,
+                    dataset_key,
+                )
                 continue
 
             raise
 
-        write_json(
-            RAW_ROOT
-            / "projections"
-            / f"{position}.json",
-            projections,
+    for position in POSITIONS:
+        dataset_key = f"dynasty_rankings_{position}"
+
+        download_dataset(
+            checkpoint=checkpoint,
+            dataset_key=dataset_key,
+            output_path=(
+                RAW
+                / "rankings"
+                / "dynasty"
+                / f"{position}.json"
+            ),
+            downloader=lambda position=position: (
+                client.consensus_rankings(
+                    config.avi_season,
+                    position,
+                    "DYNASTY",
+                    config.avi_scoring,
+                    position in {"DL", "LB", "DB"},
+                )
+            ),
         )
 
-        dataset_counts[
-            f"projections_{position}"
-        ] = _record_count(projections)
+    for position in POSITIONS:
+        dataset_key = f"redraft_rankings_{position}"
 
-    print()
-    print("Downloading dynasty consensus rankings...")
-
-    for position in projection_positions:
-        print(
-            f"Downloading {position} dynasty rankings..."
+        download_dataset(
+            checkpoint=checkpoint,
+            dataset_key=dataset_key,
+            output_path=(
+                RAW
+                / "rankings"
+                / "redraft"
+                / f"{position}.json"
+            ),
+            downloader=lambda position=position: (
+                client.consensus_rankings(
+                    config.avi_season,
+                    position,
+                    "DRAFT",
+                    config.avi_scoring,
+                    position in {"DL", "LB", "DB"},
+                )
+            ),
         )
-
-        dynasty_rankings = (
-            client.get_consensus_rankings(
-                season=config.avi_season,
-                position=position,
-                ranking_type="DYNASTY",
-                scoring=config.avi_scoring,
-                week=0,
-                include_idp=(
-                    position in IDP_POSITIONS
-                ),
-            )
-        )
-
-        write_json(
-            RAW_ROOT
-            / "consensus_rankings"
-            / "dynasty"
-            / f"{position}.json",
-            dynasty_rankings,
-        )
-
-        dataset_counts[
-            f"dynasty_rankings_{position}"
-        ] = _record_count(
-            dynasty_rankings
-        )
-
-    print()
-    print("Downloading redraft consensus rankings...")
-
-    for position in projection_positions:
-        print(
-            f"Downloading {position} redraft rankings..."
-        )
-
-        redraft_rankings = (
-            client.get_consensus_rankings(
-                season=config.avi_season,
-                position=position,
-                ranking_type="DRAFT",
-                scoring=config.avi_scoring,
-                week=0,
-                include_idp=(
-                    position in IDP_POSITIONS
-                ),
-            )
-        )
-
-        write_json(
-            RAW_ROOT
-            / "consensus_rankings"
-            / "redraft"
-            / f"{position}.json",
-            redraft_rankings,
-        )
-
-        dataset_counts[
-            f"redraft_rankings_{position}"
-        ] = _record_count(
-            redraft_rankings
-        )
-
-    print()
-    print("Downloading player points...")
 
     for position in PLAYER_POINT_POSITIONS:
-        print(
-            f"Downloading {position} player points..."
+        dataset_key = f"player_points_{position}"
+
+        download_dataset(
+            checkpoint=checkpoint,
+            dataset_key=dataset_key,
+            output_path=(
+                RAW
+                / "player_points"
+                / f"{position}.json"
+            ),
+            downloader=lambda position=position: (
+                client.player_points(
+                    config.avi_season,
+                    position,
+                    config.avi_scoring,
+                )
+            ),
         )
 
-        points = client.get_player_points(
-            season=config.avi_season,
-            position=position,
-            scoring=config.avi_scoring,
-            start_week=1,
-            end_week=18,
-        )
-
-        write_json(
-            RAW_ROOT
-            / "player_points"
-            / f"{position}.json",
-            points,
-        )
-
-        dataset_counts[
-            f"player_points_{position}"
-        ] = _record_count(points)
+    downloaded_at = datetime.now(UTC)
 
     manifest = {
         "snapshot_id": downloaded_at.strftime(
             "%Y-%m-%dT%H-%M-%SZ"
         ),
-        "downloaded_at_utc": (
-            downloaded_at.isoformat()
-        ),
+        "downloaded_at_utc": downloaded_at.isoformat(),
         "season": config.avi_season,
         "scoring": config.avi_scoring,
         "methodology_version": (
             config.methodology_version
         ),
+        "request_budget": {
+            "used": client.requests_used,
+            "maximum": (
+                client.max_requests_per_run
+            ),
+        },
         "player_points": {
             "collected": True,
-            "currently_used_in_c_avi": False,
-            "activation_rule": (
-                "Activate only after verified "
-                "regular-season player points exist."
-            ),
             "preseason_weight": 0.0,
             "in_season_weight": 0.10,
+            "currently_used_in_c_avi": False,
         },
-        "projection_weights": {
-            "preseason": 0.50,
-            "in_season": 0.40,
-        },
-        "dataset_counts": dataset_counts,
         "warnings": warnings,
         "status": "passed",
     }
 
     write_json(
-        RAW_ROOT / "manifest.json",
+        RAW / "manifest.json",
         manifest,
     )
+
+    # A fully successful update is complete. Clear the checkpoint so the
+    # next scheduled FantasyPros refresh downloads fresh source data.
+    reset_checkpoint()
 
     print()
     print("=" * 60)
     print("FANTASYPROS UPDATE COMPLETED")
     print("=" * 60)
     print(
-        "Player points collected but not "
-        "currently used in C-AVI."
+        "Requests used this invocation: "
+        f"{client.requests_used}/"
+        f"{client.max_requests_per_run}"
     )
-
-    if warnings:
-        print(
-            f"Warnings: {len(warnings)}"
-        )
 
     return manifest

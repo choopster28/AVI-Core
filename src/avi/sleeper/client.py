@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 from typing import Any
-
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -25,28 +24,29 @@ class SleeperClient:
 
     def get_json(self, endpoint: str) -> Any:
         response = self.session.get(
-            f"{self.BASE_URL}{endpoint}", timeout=self.timeout_seconds
+            f"{self.BASE_URL}{endpoint}",
+            timeout=self.timeout_seconds,
         )
         response.raise_for_status()
         return response.json()
 
-    def get_league(self, league_id: str) -> dict[str, Any]:
+    def league(self, league_id: str) -> dict[str, Any]:
         return self.get_json(f"/league/{league_id}")
 
-    def get_users(self, league_id: str) -> list[dict[str, Any]]:
+    def users(self, league_id: str) -> list[dict[str, Any]]:
         return self.get_json(f"/league/{league_id}/users")
 
-    def get_rosters(self, league_id: str) -> list[dict[str, Any]]:
+    def rosters(self, league_id: str) -> list[dict[str, Any]]:
         return self.get_json(f"/league/{league_id}/rosters")
 
-    def get_traded_picks(self, league_id: str) -> list[dict[str, Any]]:
+    def traded_picks(self, league_id: str) -> list[dict[str, Any]]:
         return self.get_json(f"/league/{league_id}/traded_picks")
 
-    def get_drafts(self, league_id: str) -> list[dict[str, Any]]:
+    def drafts(self, league_id: str) -> list[dict[str, Any]]:
         return self.get_json(f"/league/{league_id}/drafts")
 
-    def get_transactions(self, league_id: str, week: int) -> list[dict[str, Any]]:
+    def transactions(self, league_id: str, week: int) -> list[dict[str, Any]]:
         return self.get_json(f"/league/{league_id}/transactions/{week}")
 
-    def get_nfl_players(self) -> dict[str, dict[str, Any]]:
+    def nfl_players(self) -> dict[str, dict[str, Any]]:
         return self.get_json("/players/nfl")

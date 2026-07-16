@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 .pytest_cache/
@@ -7,23 +6,15 @@ __pycache__/
 dist/
 build/
 *.egg-info/
-
-# Secrets
 .env
-config/avi.json
-
-# Editors
 .vscode/
 .idea/
+*.tmp
+*.log
 
-# Generated data
 data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
 data/snapshots/*
 !data/snapshots/.gitkeep
-
-# Temporary
-*.tmp
-*.log

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import time
 from typing import Any
 
 import requests
@@ -8,14 +9,17 @@ from urllib3.util.retry import Retry
 
 
 class FantasyProsClient:
-    """Client for the FantasyPros Public API v2."""
+    """FantasyPros Public API v2 client with rate-limit protection."""
 
     def __init__(
         self,
         base_url: str,
         api_key: str,
-        api_key_header: str = "x-api-key",
+        api_key_header: str,
         timeout_seconds: int = 60,
+        minimum_request_interval: float = 2.0,
+        maximum_attempts: int = 6,
+        max_requests_per_run: int = 20,
     ) -> None:
         if not api_key:
             raise RuntimeError(
@@ -24,23 +28,30 @@ class FantasyProsClient:
 
         self.base_url = base_url.rstrip("/")
         self.timeout_seconds = timeout_seconds
+        self.minimum_request_interval = minimum_request_interval
+        self.maximum_attempts = maximum_attempts
+        self.max_requests_per_run = max_requests_per_run
+        self.requests_used = 0
+        self.last_request_time = 0.0
+
         self.session = requests.Session()
 
         self.session.headers.update(
             {
                 api_key_header: api_key,
                 "Accept": "application/json",
-                "User-Agent": "AVI-Core/0.2.0",
+                "User-Agent": "AVI-Core/1.0.0",
             }
         )
 
+        # Retry temporary server/network errors here.
+        # HTTP 429 is handled explicitly in get().
         retry_strategy = Retry(
             total=4,
             connect=4,
             read=4,
             backoff_factor=1,
             status_forcelist=[
-                429,
                 500,
                 502,
                 503,
@@ -56,144 +67,182 @@ class FantasyProsClient:
             ),
         )
 
-    def get_json(
+    def _wait_before_request(self) -> None:
+        elapsed = time.monotonic() - self.last_request_time
+
+        remaining = (
+            self.minimum_request_interval - elapsed
+        )
+
+        if remaining > 0:
+            time.sleep(remaining)
+
+    @staticmethod
+    def _retry_after_seconds(
+        response: requests.Response,
+        attempt: int,
+    ) -> float:
+        retry_after = response.headers.get(
+            "Retry-After",
+            "",
+        ).strip()
+
+        if retry_after.isdigit():
+            return max(float(retry_after), 1.0)
+
+        # Fallback exponential wait:
+        # 5, 10, 20, 40, 60 seconds.
+        return min(
+            5.0 * (2 ** attempt),
+            60.0,
+        )
+
+    def get(
         self,
-        endpoint: str,
+        path: str,
         params: dict[str, Any] | None = None,
     ) -> Any:
         url = (
             f"{self.base_url}/"
-            f"{endpoint.lstrip('/')}"
+            f"{path.lstrip('/')}"
         )
 
-        response = self.session.get(
-            url,
-            params=params,
-            timeout=self.timeout_seconds,
+        for attempt in range(
+            self.maximum_attempts
+        ):
+            self._wait_before_request()
+
+            if self.requests_used >= self.max_requests_per_run:
+                raise RuntimeError(
+                    "FantasyPros request budget exhausted: "
+                    f"{self.requests_used}/"
+                    f"{self.max_requests_per_run} requests used."
+                )
+
+            self.requests_used += 1
+
+            print(
+                "FantasyPros request budget: "
+                f"{self.requests_used}/"
+                f"{self.max_requests_per_run}"
+            )
+
+            response = self.session.get(
+                url,
+                params=params,
+                timeout=self.timeout_seconds,
+            )
+
+            self.last_request_time = time.monotonic()
+
+            if response.status_code == 429:
+                wait_seconds = (
+                    self._retry_after_seconds(
+                        response,
+                        attempt,
+                    )
+                )
+
+                if attempt == self.maximum_attempts - 1:
+                    response.raise_for_status()
+
+                print(
+                    "FantasyPros rate limit reached. "
+                    f"Waiting {wait_seconds:.0f} seconds..."
+                )
+
+                time.sleep(wait_seconds)
+                continue
+
+            response.raise_for_status()
+            return response.json()
+
+        raise RuntimeError(
+            "FantasyPros request failed after "
+            f"{self.maximum_attempts} attempts."
         )
 
-        response.raise_for_status()
-        return response.json()
-
-    def get_players(
-        self,
-    ) -> dict[str, Any]:
-        """
-        Download the NFL player directory.
-
-        FantasyPros only accepts one external ID provider per request,
-        so AVI requests NFL IDs here.
-        """
-        return self.get_json(
+    def players(self) -> Any:
+        return self.get(
             "nfl/players",
-            params={
+            {
                 "ecr": "included",
                 "show": "pos_rank",
                 "external_ids": "nfl",
             },
         )
 
-    def get_projections(
+    def projections(
         self,
         season: int,
         position: str,
-        week: int = 0,
-        ros: bool = False,
-    ) -> dict[str, Any]:
-        """
-        Download projections for one position.
-
-        week=0 requests preseason/full-season projections.
-        """
-        return self.get_json(
+    ) -> Any:
+        return self.get(
             f"nfl/{season}/projections",
-            params={
+            {
                 "position": position,
-                "week": week,
-                "ros": str(ros).lower(),
+                "week": 0,
             },
         )
 
-    def get_consensus_rankings(
+    def consensus_rankings(
         self,
         season: int,
         position: str,
         ranking_type: str,
         scoring: str,
-        week: int = 0,
-        include_idp: bool = False,
-    ) -> dict[str, Any]:
-        """
-        Download consensus rankings for one position.
-
-        Examples of ranking_type:
-        - DYNASTY
-        - DRAFT
-        - PRESEASON
-        - ROS
-        """
+        include_idp: bool,
+    ) -> Any:
         params: dict[str, Any] = {
             "position": position,
             "type": ranking_type,
             "scoring": scoring,
-            "week": week,
+            "week": 0,
         }
 
         if include_idp:
             params["include_idp"] = "true"
 
-        return self.get_json(
+        return self.get(
             f"nfl/{season}/consensus-rankings",
-            params=params,
+            params,
         )
 
-    def get_player_points(
+    def player_points(
         self,
         season: int,
         position: str,
         scoring: str,
-        start_week: int = 1,
-        end_week: int = 18,
-    ) -> dict[str, Any]:
-        """
-        Download actual NFL fantasy points.
-
-        AVI stores these immediately, but they do not affect C-AVI
-        until verified regular-season games have been played.
-        """
-        return self.get_json(
+    ) -> Any:
+        return self.get(
             f"nfl/{season}/player-points",
-            params={
+            {
                 "position": position,
                 "scoring": scoring,
-                "start": start_week,
-                "end": end_week,
+                "start": 1,
+                "end": 18,
                 "min": "false",
             },
         )
 
-    def get_injuries(
+    def injuries(
         self,
         season: int,
-        week: int = 0,
-    ) -> dict[str, Any]:
-        return self.get_json(
+    ) -> Any:
+        return self.get(
             "nfl/injuries",
-            params={
+            {
                 "year": season,
-                "week": week,
+                "week": 0,
                 "include_probabilities": "true",
             },
         )
 
-    def get_news(
-        self,
-        limit: int = 500,
-    ) -> dict[str, Any]:
-        return self.get_json(
+    def news(self) -> Any:
+        return self.get(
             "nfl/news",
-            params={
-                "limit": limit,
+            {
+                "limit": 500,
                 "order_by": "updated",
             },
         )

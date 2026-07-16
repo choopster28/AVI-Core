@@ -1,35 +1,98 @@
 from __future__ import annotations
 
 import argparse
+import json
 
+from avi.calculate_avi import build_avi_players
 from avi.config import load_config
-from avi.fantasypros.updater import update_fantasypros
-from avi.sleeper.updater import update_sleeper
-from avi.validation.sleeper import validate_sleeper_outputs
+from avi.fantasypros.updater import update as update_fantasypros
+from avi.identity.builder import build_player_identity_map
+from avi.identity.registry import build_player_registry
+from avi.league.loader import load_league_structure
+from avi.sleeper.updater import update as update_sleeper
+from avi.validation.source import (
+    validate_fantasypros,
+    validate_sleeper,
+)
+from avi.valuation.picks import first_round_pick_table
 
 
-def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(
-        prog="avi",
-        description="Autobots Value Index automation",
+def parser() -> argparse.ArgumentParser:
+    root = argparse.ArgumentParser(prog="avi")
+
+    commands = root.add_subparsers(
+        dest="command",
+        required=True,
     )
-    commands = parser.add_subparsers(dest="command", required=True)
-    commands.add_parser("sleeper-update", help="Download Sleeper data from 2024 onward")
-    commands.add_parser("fantasypros-update", help="Download configured FantasyPros data")
-    commands.add_parser("validate-sleeper", help="Validate Sleeper and trade outputs")
-    return parser
+
+    commands.add_parser("update-sleeper")
+    commands.add_parser("validate-sleeper")
+    commands.add_parser("update-fantasypros")
+    commands.add_parser("validate-fantasypros")
+
+    commands.add_parser("build-identities")
+    commands.add_parser("build-registry")
+    commands.add_parser("calculate-avi")
+
+    commands.add_parser("show-pick-values")
+    commands.add_parser("show-league-structure")
+
+    return root
 
 
 def main() -> None:
-    args = build_parser().parse_args()
+    args = parser().parse_args()
     config = load_config()
 
-    if args.command == "sleeper-update":
+    if args.command == "update-sleeper":
         update_sleeper(config)
-    elif args.command == "fantasypros-update":
-        update_fantasypros(config)
+
     elif args.command == "validate-sleeper":
-        validate_sleeper_outputs(config)
+        validate_sleeper(config)
+
+    elif args.command == "update-fantasypros":
+        update_fantasypros(config)
+
+    elif args.command == "validate-fantasypros":
+        validate_fantasypros()
+
+    elif args.command == "build-identities":
+        build_player_identity_map()
+
+    elif args.command == "build-registry":
+        build_player_registry()
+
+    elif args.command == "calculate-avi":
+        build_avi_players()
+
+    elif args.command == "show-pick-values":
+        print(
+            json.dumps(
+                first_round_pick_table(),
+                indent=2,
+            )
+        )
+
+    elif args.command == "show-league-structure":
+        structure = load_league_structure()
+
+        print(
+            json.dumps(
+                {
+                    "league_id": structure.league_id,
+                    "league_name": structure.league_name,
+                    "season": structure.season,
+                    "team_count": structure.team_count,
+                    "starter_counts": structure.starter_counts,
+                    "bench_spots": structure.bench_spots,
+                    "reserve_spots": structure.reserve_spots,
+                    "playoff_teams": structure.playoff_teams,
+                    "playoff_start_week": structure.playoff_start_week,
+                    "trade_deadline_week": structure.trade_deadline_week,
+                },
+                indent=2,
+            )
+        )
 
 
 if __name__ == "__main__":

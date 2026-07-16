@@ -1,0 +1,27 @@
+{
+  "aliases": [
+    {
+      "fantasypros_name": "Hollywood Brown",
+      "sleeper_name": "Marquise Brown"
+    },
+    {
+      "fantasypros_name": "Bam Knight",
+      "sleeper_name": "Zonovan Knight"
+    }
+  ],
+  "position_overrides": [],
+  "ignored_players": [
+    {
+      "fantasypros_name": "Tommy Myers",
+      "reason": "Not present in current Sleeper player directory"
+    },
+    {
+      "fantasypros_name": "Kyle Juszczyk",
+      "reason": "Retired and excluded from the AVI player universe"
+    },
+    {
+      "fantasypros_name": "Hunter Luepke",
+      "reason": "Retired and excluded from the AVI player universe"
+    }
+  ]
+}

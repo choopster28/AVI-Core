@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "autobots-avi-core"
-version = "0.2.0"
-description = "Automation for the Autobots Value Index"
+version = "1.0.0"
+description = "Autobots Value Index automation engine"
 requires-python = ">=3.12"
 dependencies = [
   "requests>=2.32.3,<3",

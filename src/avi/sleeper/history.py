@@ -2,7 +2,6 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from typing import Any
-
 from avi.sleeper.client import SleeperClient
 
 
@@ -14,67 +13,48 @@ class LeagueSeason:
     league_data: dict[str, Any]
 
 
-def normalize_previous_league_id(value: Any) -> str | None:
+def _previous(value: Any) -> str | None:
     if value is None:
         return None
-    league_id = str(value).strip()
-    if not league_id or league_id == "0":
-        return None
-    return league_id
+    text = str(value).strip()
+    return None if not text or text == "0" else text
 
 
-def discover_league_history(
+def discover(
     client: SleeperClient,
     current_league_id: str,
-    earliest_supported_season: int = 2024,
-    maximum_seasons: int = 20,
+    earliest_season: int,
 ) -> list[LeagueSeason]:
-    discovered: list[LeagueSeason] = []
+    found: list[LeagueSeason] = []
     visited: set[str] = set()
-    league_id: str | None = current_league_id.strip()
+    league_id: str | None = current_league_id
 
-    if not league_id:
-        raise ValueError("current_league_id cannot be empty.")
-
-    while league_id is not None:
+    while league_id:
         if league_id in visited:
-            raise RuntimeError(f"League-history cycle detected at {league_id}.")
-        if len(visited) >= maximum_seasons:
-            raise RuntimeError(
-                f"League history exceeded the configured maximum of {maximum_seasons}."
-            )
-
+            raise RuntimeError(f"League history cycle detected at {league_id}.")
         visited.add(league_id)
-        league_data = client.get_league(league_id)
-        if not isinstance(league_data, dict) or not league_data:
-            raise RuntimeError(f"Unable to retrieve league metadata for {league_id}.")
 
-        season_text = str(league_data.get("season", "")).strip()
+        data = client.league(league_id)
+        season_text = str(data.get("season", "")).strip()
         if not season_text.isdigit():
-            raise RuntimeError(f"League {league_id} returned invalid season data.")
-
+            raise RuntimeError(f"Invalid season for league {league_id}.")
         season = int(season_text)
-        previous = normalize_previous_league_id(
-            league_data.get("previous_league_id")
-        )
+        previous = _previous(data.get("previous_league_id"))
 
-        if season < earliest_supported_season:
+        if season < earliest_season:
             break
 
-        discovered.append(
+        found.append(
             LeagueSeason(
                 league_id=league_id,
                 season=season,
                 previous_league_id=previous,
-                league_data=league_data,
+                league_data=data,
             )
         )
         league_id = previous
 
-    if not discovered:
-        raise RuntimeError(
-            f"No linked Sleeper seasons were found from {earliest_supported_season} onward."
-        )
+    if not found:
+        raise RuntimeError("No supported Sleeper seasons discovered.")
 
-    discovered.sort(key=lambda item: (item.season, item.league_id))
-    return discovered
+    return sorted(found, key=lambda row: (row.season, row.league_id))
