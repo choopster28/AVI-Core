@@ -179,3 +179,23 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# AVI generated data
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+data/snapshots/*
+!data/snapshots/.gitkeep
+
+# AVI secrets and local configuration
+.env
+config/league.json
+
+# Editor settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
