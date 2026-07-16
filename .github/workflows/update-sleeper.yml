@@ -1,0 +1,36 @@
+name: Update Sleeper Data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-sleeper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out AVI Core
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Download Sleeper data
+        env:
+          SLEEPER_LEAGUE_ID: ${{ secrets.SLEEPER_LEAGUE_ID }}
+          AVI_SEASON: "2026"
+          TRANSACTION_START_WEEK: "0"
+          TRANSACTION_END_WEEK: "18"
+        run: python run_sleeper_update.py
+
+      - name: Upload Sleeper snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: avi-sleeper-snapshot
+          path: data/raw/
+          if-no-files-found: error
+          retention-days: 30
