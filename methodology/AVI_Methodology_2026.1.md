@@ -15,6 +15,13 @@ opposing GM motivation test, lineup replacement test, competitive-window
 classification, package-match analysis, acceptance-probability weights,
 elimination rule, empty-result rule, and delivery format remain preserved.
 
+## Package Match
+
+Evaluate: - market demand - scarcity - positional value - age -
+perceived dynasty value - current league environment
+
+Do not rely on summed AVI.
+
 ## C-AVI
 
 Preseason:
