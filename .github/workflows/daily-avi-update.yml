@@ -19,7 +19,7 @@ jobs:
       SLEEPER_BASE_URL: "https://api.sleeper.app/v1"
       FANTASYPROS_BASE_URL: "https://api.fantasypros.com/public/v2/json"
       FANTASYPROS_API_KEY_HEADER: "x-api-key"
-      FANTASYPROS_MAX_REQUESTS_PER_RUN: "100"
+      FANTASYPROS_MAX_REQUESTS_PER_RUN: "50"
 
       AVI_EARLIEST_SEASON: "2024"
       TRANSACTION_START_WEEK: "0"
@@ -28,7 +28,7 @@ jobs:
       AVI_MINIMUM_COMPLETED_TRADES: "61"
 
       AVI_SEASON: "2026"
-      AVI_SCORING: "HALF"
+      AVI_SCORING: "FULL"
       AVI_METHODOLOGY_VERSION: "2026.1"
 
     steps:
