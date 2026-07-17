@@ -28,7 +28,7 @@ jobs:
       AVI_MINIMUM_COMPLETED_TRADES: "61"
 
       AVI_SEASON: "2026"
-      AVI_SCORING: "FULL"
+      AVI_SCORING: "PPR"
       AVI_METHODOLOGY_VERSION: "2026.1"
 
     steps:
