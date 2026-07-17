@@ -1,0 +1,70 @@
+[
+  {
+    "created": 1767211927953,
+    "creators": [
+      "736993578450030592",
+      "737531831641128960",
+      "863881053000011776"
+    ],
+    "draft_id": "1312185568045580288",
+    "draft_order": {
+      "1129546394534158336": 1,
+      "1132141719354535936": 6,
+      "1178861684281753600": 3,
+      "308805697879937024": 16,
+      "471824466389757952": 7,
+      "736992907139158016": 9,
+      "736993578450030592": 15,
+      "736994691492519936": 12,
+      "737531831641128960": 10,
+      "863881053000011776": 14,
+      "872351659366539264": 2,
+      "872509429436829696": 13,
+      "986498458162970624": 4,
+      "990097041671892992": 11,
+      "992908759074680832": 8,
+      "998253660243054592": 5
+    },
+    "last_message_id": "1312185568045580288",
+    "last_message_time": 1767211927953,
+    "last_picked": 1784044057495,
+    "league_id": "1312185568032997376",
+    "metadata": {
+      "description": "",
+      "name": "Autobots",
+      "scoring_type": "idp_1qb",
+      "show_team_names": "0"
+    },
+    "season": "2026",
+    "season_type": "regular",
+    "settings": {
+      "alpha_sort": 0,
+      "autopause_enabled": 0,
+      "autopause_end_time": 960,
+      "autopause_start_time": 240,
+      "autostart": 0,
+      "cpu_autopick": 1,
+      "enforce_position_limits": 1,
+      "nomination_timer": 60,
+      "pick_timer": 120,
+      "player_type": 0,
+      "reversal_round": 0,
+      "rounds": 20,
+      "slots_bn": 8,
+      "slots_db": 1,
+      "slots_dl": 1,
+      "slots_flex": 2,
+      "slots_k": 1,
+      "slots_lb": 1,
+      "slots_qb": 1,
+      "slots_rb": 2,
+      "slots_te": 1,
+      "slots_wr": 2,
+      "teams": 16
+    },
+    "sport": "nfl",
+    "start_time": 1786237245000,
+    "status": "pre_draft",
+    "type": "linear"
+  }
+]

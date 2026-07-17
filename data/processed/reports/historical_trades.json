@@ -1,0 +1,5285 @@
+{
+  "generated_at_utc": "2026-07-17T01:23:31.456343+00:00",
+  "statistics": {
+    "owner_trade_participations": 123,
+    "partner_matrix": [
+      {
+        "partner_count": 2,
+        "partners": [
+          "Mile High Royal Lions"
+        ],
+        "roster_id": 8,
+        "team_name": "All Hail King Jesus"
+      },
+      {
+        "partner_count": 2,
+        "partners": [
+          "DMV Fantasy"
+        ],
+        "roster_id": 7,
+        "team_name": "Badland Banditos "
+      },
+      {
+        "partner_count": 5,
+        "partners": [
+          "DMV Fantasy"
+        ],
+        "roster_id": 9,
+        "team_name": "Big Balder Brand"
+      },
+      {
+        "partner_count": 5,
+        "partners": [
+          "Northside Kings "
+        ],
+        "roster_id": 1,
+        "team_name": "Conquistadors"
+      },
+      {
+        "partner_count": 4,
+        "partners": [
+          "Big Balder Brand"
+        ],
+        "roster_id": 11,
+        "team_name": "Corgi Loaf Baking Co. "
+      },
+      {
+        "partner_count": 1,
+        "partners": [
+          "Conquistadors",
+          "Ravens Regime ",
+          "Northside Kings ",
+          "Lightskin Legends ✊🏽",
+          "Badland Banditos "
+        ],
+        "roster_id": 16,
+        "team_name": "Crimson Tide Pods"
+      },
+      {
+        "partner_count": 5,
+        "partners": [
+          "Big Balder Brand"
+        ],
+        "roster_id": 12,
+        "team_name": "DMV Fantasy"
+      },
+      {
+        "partner_count": 1,
+        "partners": [
+          "Big Balder Brand"
+        ],
+        "roster_id": 15,
+        "team_name": "Gringo’s Goblins "
+      },
+      {
+        "partner_count": 1,
+        "partners": [
+          "Conquistadors",
+          "Northside Kings ",
+          "SmokyValleyWheatWarriors",
+          "Corgi Loaf Baking Co. ",
+          "Crimson Tide Pods"
+        ],
+        "roster_id": 6,
+        "team_name": "Lightskin Legends ✊🏽"
+      },
+      {
+        "partner_count": 2,
+        "partners": [
+          "Northside Kings ",
+          "All Hail King Jesus"
+        ],
+        "roster_id": 4,
+        "team_name": "Mile High Royal Lions"
+      },
+      {
+        "partner_count": 5,
+        "partners": [
+          "Conquistadors"
+        ],
+        "roster_id": 5,
+        "team_name": "Northside Kings "
+      },
+      {
+        "partner_count": 1,
+        "partners": [
+          "Ravens Regime "
+        ],
+        "roster_id": 14,
+        "team_name": "Phalhala or Bust"
+      },
+      {
+        "partner_count": 3,
+        "partners": [
+          "Corgi Loaf Baking Co. "
+        ],
+        "roster_id": 2,
+        "team_name": "Rapid Valley Annihilation"
+      },
+      {
+        "partner_count": 3,
+        "partners": [
+          "Northside Kings ",
+          "Corgi Loaf Baking Co. "
+        ],
+        "roster_id": 3,
+        "team_name": "Ravens Regime "
+      },
+      {
+        "partner_count": 2,
+        "partners": [
+          "Conquistadors"
+        ],
+        "roster_id": 10,
+        "team_name": "SmokyValleyWheatWarriors"
+      },
+      {
+        "partner_count": 1,
+        "partners": [
+          "Ravens Regime "
+        ],
+        "roster_id": 13,
+        "team_name": "Southside Savages"
+      }
+    ],
+    "team_stats": [
+      {
+        "by_season": {
+          "2024": 7,
+          "2025": 4,
+          "2026": 5
+        },
+        "firsts_in": 7,
+        "firsts_out": 10,
+        "owner_display_name": "awang1900",
+        "picks_in": 9,
+        "picks_out": 18,
+        "players_in": 26,
+        "players_out": 24,
+        "roster_id": 11,
+        "team_name": "Corgi Loaf Baking Co. ",
+        "total": 16
+      },
+      {
+        "by_season": {
+          "2024": 7,
+          "2025": 2,
+          "2026": 6
+        },
+        "firsts_in": 5,
+        "firsts_out": 8,
+        "owner_display_name": "Choopski",
+        "picks_in": 9,
+        "picks_out": 13,
+        "players_in": 24,
+        "players_out": 27,
+        "roster_id": 9,
+        "team_name": "Big Balder Brand",
+        "total": 15
+      },
+      {
+        "by_season": {
+          "2024": 6,
+          "2025": 5,
+          "2026": 4
+        },
+        "firsts_in": 6,
+        "firsts_out": 5,
+        "owner_display_name": "srsmith95",
+        "picks_in": 16,
+        "picks_out": 9,
+        "players_in": 17,
+        "players_out": 12,
+        "roster_id": 5,
+        "team_name": "Northside Kings ",
+        "total": 15
+      },
+      {
+        "by_season": {
+          "2024": 3,
+          "2025": 3,
+          "2026": 7
+        },
+        "firsts_in": 8,
+        "firsts_out": 5,
+        "owner_display_name": "Mentomorii",
+        "picks_in": 14,
+        "picks_out": 8,
+        "players_in": 10,
+        "players_out": 16,
+        "roster_id": 3,
+        "team_name": "Ravens Regime ",
+        "total": 13
+      },
+      {
+        "by_season": {
+          "2024": 6,
+          "2025": 2,
+          "2026": 4
+        },
+        "firsts_in": 4,
+        "firsts_out": 5,
+        "owner_display_name": "Thecan",
+        "picks_in": 8,
+        "picks_out": 15,
+        "players_in": 11,
+        "players_out": 13,
+        "roster_id": 1,
+        "team_name": "Conquistadors",
+        "total": 12
+      },
+      {
+        "by_season": {
+          "2024": 4,
+          "2025": 4,
+          "2026": 1
+        },
+        "firsts_in": 3,
+        "firsts_out": 3,
+        "owner_display_name": "IcebergSlim69",
+        "picks_in": 5,
+        "picks_out": 10,
+        "players_in": 9,
+        "players_out": 11,
+        "roster_id": 7,
+        "team_name": "Badland Banditos ",
+        "total": 9
+      },
+      {
+        "by_season": {
+          "2024": 5,
+          "2025": 2,
+          "2026": 2
+        },
+        "firsts_in": 4,
+        "firsts_out": 2,
+        "owner_display_name": "TacticsNoob",
+        "picks_in": 8,
+        "picks_out": 3,
+        "players_in": 15,
+        "players_out": 11,
+        "roster_id": 12,
+        "team_name": "DMV Fantasy",
+        "total": 9
+      },
+      {
+        "by_season": {
+          "2025": 8
+        },
+        "firsts_in": 2,
+        "firsts_out": 5,
+        "owner_display_name": "shawnh56",
+        "picks_in": 10,
+        "picks_out": 11,
+        "players_in": 9,
+        "players_out": 11,
+        "roster_id": 4,
+        "team_name": "Mile High Royal Lions",
+        "total": 8
+      },
+      {
+        "by_season": {
+          "2025": 4,
+          "2026": 1
+        },
+        "firsts_in": 1,
+        "firsts_out": 2,
+        "owner_display_name": "Hofer51",
+        "picks_in": 3,
+        "picks_out": 8,
+        "players_in": 6,
+        "players_out": 3,
+        "roster_id": 8,
+        "team_name": "All Hail King Jesus",
+        "total": 5
+      },
+      {
+        "by_season": {
+          "2024": 2,
+          "2025": 3
+        },
+        "firsts_in": 0,
+        "firsts_out": 1,
+        "owner_display_name": "MadDawgMatt",
+        "picks_in": 3,
+        "picks_out": 5,
+        "players_in": 5,
+        "players_out": 3,
+        "roster_id": 6,
+        "team_name": "Lightskin Legends ✊🏽",
+        "total": 5
+      },
+      {
+        "by_season": {
+          "2025": 3,
+          "2026": 2
+        },
+        "firsts_in": 4,
+        "firsts_out": 1,
+        "owner_display_name": "FuzzyRaptor",
+        "picks_in": 10,
+        "picks_out": 4,
+        "players_in": 9,
+        "players_out": 9,
+        "roster_id": 2,
+        "team_name": "Rapid Valley Annihilation",
+        "total": 5
+      },
+      {
+        "by_season": {
+          "2025": 1,
+          "2026": 3
+        },
+        "firsts_in": 4,
+        "firsts_out": 0,
+        "owner_display_name": "nickas",
+        "picks_in": 7,
+        "picks_out": 1,
+        "players_in": 5,
+        "players_out": 5,
+        "roster_id": 16,
+        "team_name": "Crimson Tide Pods",
+        "total": 4
+      },
+      {
+        "by_season": {
+          "2024": 2,
+          "2025": 2
+        },
+        "firsts_in": 0,
+        "firsts_out": 1,
+        "owner_display_name": "AlexPete6800",
+        "picks_in": 5,
+        "picks_out": 2,
+        "players_in": 1,
+        "players_out": 3,
+        "roster_id": 10,
+        "team_name": "SmokyValleyWheatWarriors",
+        "total": 4
+      },
+      {
+        "by_season": {
+          "2026": 1
+        },
+        "firsts_in": 1,
+        "firsts_out": 0,
+        "owner_display_name": "Burnfaze",
+        "picks_in": 1,
+        "picks_out": 1,
+        "players_in": 3,
+        "players_out": 3,
+        "roster_id": 15,
+        "team_name": "Gringo’s Goblins ",
+        "total": 1
+      },
+      {
+        "by_season": {
+          "2026": 1
+        },
+        "firsts_in": 0,
+        "firsts_out": 0,
+        "owner_display_name": "PIFYAF",
+        "picks_in": 2,
+        "picks_out": 0,
+        "players_in": 1,
+        "players_out": 1,
+        "roster_id": 14,
+        "team_name": "Phalhala or Bust",
+        "total": 1
+      },
+      {
+        "by_season": {
+          "2025": 1
+        },
+        "firsts_in": 0,
+        "firsts_out": 1,
+        "owner_display_name": "GGEZGoNext",
+        "picks_in": 0,
+        "picks_out": 2,
+        "players_in": 1,
+        "players_out": 0,
+        "roster_id": 13,
+        "team_name": "Southside Savages",
+        "total": 1
+      }
+    ],
+    "three_team_trades": 1,
+    "trades_by_season": {
+      "2024": 21,
+      "2025": 22,
+      "2026": 18
+    },
+    "two_team_trades": 60,
+    "unique_completed_trades": 61
+  },
+  "trades": [
+    {
+      "created_at_utc": "2024-08-27T12:14:48.750000+00:00",
+      "created_timestamp_ms": 1724760888750,
+      "roster_ids": [
+        1,
+        10
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 10,
+              "round": 15,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 15,
+              "season": "2027"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [],
+          "roster_id": 1,
+          "season": 2024,
+          "team_name": "Amon the Run"
+        },
+        {
+          "owner_display_name": "AlexPete6800",
+          "owner_id": "308805697879937024",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 15,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 10,
+              "round": 15,
+              "season": "2027"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [],
+          "roster_id": 10,
+          "season": 2024,
+          "team_name": "Murray had a little Lamb"
+        }
+      ],
+      "transaction_id": "1134133004517064704",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2024-09-04T13:34:17.320000+00:00",
+      "created_timestamp_ms": 1725456857320,
+      "roster_ids": [
+        9,
+        11
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4137",
+              "player_name": "James Conner"
+            },
+            {
+              "player_id": "9502",
+              "player_name": "Tank Dell"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5859",
+              "player_name": "A.J. Brown"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2024,
+          "team_name": "King Shitter ‘24"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "5859",
+              "player_name": "A.J. Brown"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4137",
+              "player_name": "James Conner"
+            },
+            {
+              "player_id": "9502",
+              "player_name": "Tank Dell"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2024,
+          "team_name": "Dimes -> Pennies "
+        }
+      ],
+      "transaction_id": "1137052108274458624",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2024-09-12T22:46:28.143000+00:00",
+      "created_timestamp_ms": 1726181188143,
+      "roster_ids": [
+        3,
+        7
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "JtotheLoe",
+          "owner_id": "872337122680606720",
+          "picks_received": [
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4981",
+              "player_name": "Calvin Ridley"
+            },
+            {
+              "player_id": "5848",
+              "player_name": "Marquise Brown"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11632",
+              "player_name": "Malik Nabers"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2024,
+          "team_name": "SpiritFingerz"
+        },
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11632",
+              "player_name": "Malik Nabers"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4981",
+              "player_name": "Calvin Ridley"
+            },
+            {
+              "player_id": "5848",
+              "player_name": "Marquise Brown"
+            }
+          ],
+          "roster_id": 7,
+          "season": 2024,
+          "team_name": "Dakota Danglers "
+        }
+      ],
+      "transaction_id": "1140090171942694912",
+      "week": 2
+    },
+    {
+      "created_at_utc": "2024-09-25T20:29:56.792000+00:00",
+      "created_timestamp_ms": 1727296196792,
+      "roster_ids": [
+        7,
+        12
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "6803",
+              "player_name": "Brandon Aiyuk"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4983",
+              "player_name": "DJ Moore"
+            }
+          ],
+          "roster_id": 7,
+          "season": 2024,
+          "team_name": "Dakota Danglers "
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4983",
+              "player_name": "DJ Moore"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "6803",
+              "player_name": "Brandon Aiyuk"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2024,
+          "team_name": "TacticsNoob"
+        }
+      ],
+      "transaction_id": "1144766857179029504",
+      "week": 4
+    },
+    {
+      "created_at_utc": "2024-09-25T22:56:55.503000+00:00",
+      "created_timestamp_ms": 1727305015503,
+      "roster_ids": [
+        11,
+        12
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4983",
+              "player_name": "DJ Moore"
+            },
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5859",
+              "player_name": "A.J. Brown"
+            },
+            {
+              "player_id": "9221",
+              "player_name": "Jahmyr Gibbs"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2024,
+          "team_name": "Dimes -> Pennies "
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "5859",
+              "player_name": "A.J. Brown"
+            },
+            {
+              "player_id": "9221",
+              "player_name": "Jahmyr Gibbs"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4983",
+              "player_name": "DJ Moore"
+            },
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2024,
+          "team_name": "TacticsNoob"
+        }
+      ],
+      "transaction_id": "1144803845533741056",
+      "week": 4
+    },
+    {
+      "created_at_utc": "2024-09-26T21:43:58.657000+00:00",
+      "created_timestamp_ms": 1727387038657,
+      "roster_ids": [
+        9,
+        12
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "11628",
+              "player_name": "Marvin Harrison"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4035",
+              "player_name": "Alvin Kamara"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2024,
+          "team_name": "King Shitter ‘24"
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4035",
+              "player_name": "Alvin Kamara"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11628",
+              "player_name": "Marvin Harrison"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2024,
+          "team_name": "TacticsNoob"
+        }
+      ],
+      "transaction_id": "1145147875576545280",
+      "week": 4
+    },
+    {
+      "created_at_utc": "2024-09-26T23:37:43.245000+00:00",
+      "created_timestamp_ms": 1727393863245,
+      "roster_ids": [
+        1,
+        5
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "5892",
+              "player_name": "David Montgomery"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7611",
+              "player_name": "Rhamondre Stevenson"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2024,
+          "team_name": "Amon the Run"
+        },
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "7611",
+              "player_name": "Rhamondre Stevenson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5892",
+              "player_name": "David Montgomery"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2024,
+          "team_name": "Steven "
+        }
+      ],
+      "transaction_id": "1145176499970048000",
+      "week": 4
+    },
+    {
+      "created_at_utc": "2024-09-27T12:55:19.448000+00:00",
+      "created_timestamp_ms": 1727441719448,
+      "roster_ids": [
+        7,
+        12
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "5859",
+              "player_name": "A.J. Brown"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8112",
+              "player_name": "Drake London"
+            },
+            {
+              "player_id": "8154",
+              "player_name": "Brian Robinson"
+            }
+          ],
+          "roster_id": 7,
+          "season": 2024,
+          "team_name": "Dakota Danglers "
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8112",
+              "player_name": "Drake London"
+            },
+            {
+              "player_id": "8154",
+              "player_name": "Brian Robinson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5859",
+              "player_name": "A.J. Brown"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2024,
+          "team_name": "TacticsNoob"
+        }
+      ],
+      "transaction_id": "1145377223436906496",
+      "week": 4
+    },
+    {
+      "created_at_utc": "2024-10-02T00:10:37.537000+00:00",
+      "created_timestamp_ms": 1727827837537,
+      "roster_ids": [
+        1,
+        5
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 3,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "8131",
+              "player_name": "Isaiah Likely"
+            },
+            {
+              "player_id": "9226",
+              "player_name": "De'Von Achane"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2024,
+          "team_name": "Amon the Run"
+        },
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 3,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8131",
+              "player_name": "Isaiah Likely"
+            },
+            {
+              "player_id": "9226",
+              "player_name": "De'Von Achane"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 5,
+          "season": 2024,
+          "team_name": "Steven "
+        }
+      ],
+      "transaction_id": "1146996720082169856",
+      "week": 4
+    },
+    {
+      "created_at_utc": "2024-10-18T06:16:37.668000+00:00",
+      "created_timestamp_ms": 1729232197668,
+      "roster_ids": [
+        5,
+        9
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 9,
+              "round": 2,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "1373",
+              "player_name": "Geno Smith"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4892",
+              "player_name": "Baker Mayfield"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2024,
+          "team_name": "Steven "
+        },
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 9,
+              "round": 2,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4892",
+              "player_name": "Baker Mayfield"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "1373",
+              "player_name": "Geno Smith"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2024,
+          "team_name": "King Shitter ‘24"
+        }
+      ],
+      "transaction_id": "1152887033396948992",
+      "week": 7
+    },
+    {
+      "created_at_utc": "2024-10-18T20:18:39.655000+00:00",
+      "created_timestamp_ms": 1729282719655,
+      "roster_ids": [
+        1,
+        11
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4984",
+              "player_name": "Josh Allen"
+            },
+            {
+              "player_id": "5846",
+              "player_name": "DK Metcalf"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "2216",
+              "player_name": "Mike Evans"
+            },
+            {
+              "player_id": "8408",
+              "player_name": "Jordan Mason"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2024,
+          "team_name": "Amon the Run"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "2216",
+              "player_name": "Mike Evans"
+            },
+            {
+              "player_id": "8408",
+              "player_name": "Jordan Mason"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4984",
+              "player_name": "Josh Allen"
+            },
+            {
+              "player_id": "5846",
+              "player_name": "DK Metcalf"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2024,
+          "team_name": "Dimes -> Pennies "
+        }
+      ],
+      "transaction_id": "1153098937969037312",
+      "week": 7
+    },
+    {
+      "created_at_utc": "2024-10-29T20:26:34.107000+00:00",
+      "created_timestamp_ms": 1730233594107,
+      "roster_ids": [
+        9,
+        11
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11637",
+              "player_name": "Keon Coleman"
+            },
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4988",
+              "player_name": "Nick Chubb"
+            },
+            {
+              "player_id": "8146",
+              "player_name": "Garrett Wilson"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2024,
+          "team_name": "King Shitter ‘24"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4988",
+              "player_name": "Nick Chubb"
+            },
+            {
+              "player_id": "8146",
+              "player_name": "Garrett Wilson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11637",
+              "player_name": "Keon Coleman"
+            },
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2024,
+          "team_name": "Dimes -> Pennies "
+        }
+      ],
+      "transaction_id": "1157087194486693888",
+      "week": 8
+    },
+    {
+      "created_at_utc": "2024-10-29T20:33:21.353000+00:00",
+      "created_timestamp_ms": 1730234001353,
+      "roster_ids": [
+        1,
+        10
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 3,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4037",
+              "player_name": "Chris Godwin"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 1,
+          "season": 2024,
+          "team_name": "Amon the Run"
+        },
+        {
+          "owner_display_name": "AlexPete6800",
+          "owner_id": "308805697879937024",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 3,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "4037",
+              "player_name": "Chris Godwin"
+            }
+          ],
+          "roster_id": 10,
+          "season": 2024,
+          "team_name": "Murray had a little Lamb"
+        }
+      ],
+      "transaction_id": "1157088902600163328",
+      "week": 8
+    },
+    {
+      "created_at_utc": "2024-10-29T20:48:02.005000+00:00",
+      "created_timestamp_ms": 1730234882005,
+      "roster_ids": [
+        5,
+        6
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 6,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "6813",
+              "player_name": "Jonathan Taylor"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2024,
+          "team_name": "Steven "
+        },
+        {
+          "owner_display_name": "MadDawgMatt",
+          "owner_id": "872509429436829696",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 6,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "6813",
+              "player_name": "Jonathan Taylor"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 6,
+          "season": 2024,
+          "team_name": "Epstein Island "
+        }
+      ],
+      "transaction_id": "1157092596322459648",
+      "week": 8
+    },
+    {
+      "created_at_utc": "2024-10-30T01:24:59.422000+00:00",
+      "created_timestamp_ms": 1730251499422,
+      "roster_ids": [
+        3,
+        5
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "JtotheLoe",
+          "owner_id": "872337122680606720",
+          "picks_received": [
+            {
+              "original_roster_id": 5,
+              "round": 8,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "5844",
+              "player_name": "T.J. Hockenson"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2024,
+          "team_name": "SpiritFingerz"
+        },
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 5,
+              "round": 8,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "5844",
+              "player_name": "T.J. Hockenson"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 5,
+          "season": 2024,
+          "team_name": "Steven "
+        }
+      ],
+      "transaction_id": "1157162294821015552",
+      "week": 8
+    },
+    {
+      "created_at_utc": "2024-11-07T23:59:16.300000+00:00",
+      "created_timestamp_ms": 1731023956300,
+      "roster_ids": [
+        3,
+        11
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "JtotheLoe",
+          "owner_id": "872337122680606720",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "7569",
+              "player_name": "Nico Collins"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2024,
+          "team_name": "SpiritFingerz"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "7569",
+              "player_name": "Nico Collins"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 11,
+          "season": 2024,
+          "team_name": "Dimes -> Pennies "
+        }
+      ],
+      "transaction_id": "1160402213794467840",
+      "week": 10
+    },
+    {
+      "created_at_utc": "2024-11-14T15:56:27.283000+00:00",
+      "created_timestamp_ms": 1731599787283,
+      "roster_ids": [
+        7,
+        9
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "11631",
+              "player_name": "Brian Thomas"
+            },
+            {
+              "player_id": "5850",
+              "player_name": "Josh Jacobs"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11632",
+              "player_name": "Malik Nabers"
+            }
+          ],
+          "roster_id": 7,
+          "season": 2024,
+          "team_name": "Dakota Danglers "
+        },
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11632",
+              "player_name": "Malik Nabers"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11631",
+              "player_name": "Brian Thomas"
+            },
+            {
+              "player_id": "5850",
+              "player_name": "Josh Jacobs"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2024,
+          "team_name": "King Shitter ‘24"
+        }
+      ],
+      "transaction_id": "1162817423989579776",
+      "week": 11
+    },
+    {
+      "created_at_utc": "2024-11-14T16:35:40.323000+00:00",
+      "created_timestamp_ms": 1731602140323,
+      "roster_ids": [
+        6,
+        11
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "MadDawgMatt",
+          "owner_id": "872509429436829696",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 4,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "2216",
+              "player_name": "Mike Evans"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5967",
+              "player_name": "Tony Pollard"
+            }
+          ],
+          "roster_id": 6,
+          "season": 2024,
+          "team_name": "Epstein Island "
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 4,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "5967",
+              "player_name": "Tony Pollard"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "2216",
+              "player_name": "Mike Evans"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2024,
+          "team_name": "Dimes -> Pennies "
+        }
+      ],
+      "transaction_id": "1162827293354512384",
+      "week": 11
+    },
+    {
+      "created_at_utc": "2024-11-15T03:59:10.127000+00:00",
+      "created_timestamp_ms": 1731643150127,
+      "roster_ids": [
+        9,
+        12
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 9,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8112",
+              "player_name": "Drake London"
+            },
+            {
+              "player_id": "9221",
+              "player_name": "Jahmyr Gibbs"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11628",
+              "player_name": "Marvin Harrison"
+            },
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2024,
+          "team_name": "King Shitter ‘24"
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [
+            {
+              "original_roster_id": 9,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "11628",
+              "player_name": "Marvin Harrison"
+            },
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8112",
+              "player_name": "Drake London"
+            },
+            {
+              "player_id": "9221",
+              "player_name": "Jahmyr Gibbs"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2024,
+          "team_name": "TacticsNoob"
+        }
+      ],
+      "transaction_id": "1162999300940754944",
+      "week": 11
+    },
+    {
+      "created_at_utc": "2024-11-15T21:10:35.227000+00:00",
+      "created_timestamp_ms": 1731705035227,
+      "roster_ids": [
+        9,
+        11
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 2,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "7526",
+              "player_name": "Jaylen Waddle"
+            },
+            {
+              "player_id": "7569",
+              "player_name": "Nico Collins"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11632",
+              "player_name": "Malik Nabers"
+            },
+            {
+              "player_id": "9502",
+              "player_name": "Tank Dell"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2024,
+          "team_name": "King Shitter ‘24"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 2,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11632",
+              "player_name": "Malik Nabers"
+            },
+            {
+              "player_id": "9502",
+              "player_name": "Tank Dell"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7526",
+              "player_name": "Jaylen Waddle"
+            },
+            {
+              "player_id": "7569",
+              "player_name": "Nico Collins"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2024,
+          "team_name": "Dimes -> Pennies "
+        }
+      ],
+      "transaction_id": "1163258865862328320",
+      "week": 11
+    },
+    {
+      "created_at_utc": "2024-11-18T00:39:45.591000+00:00",
+      "created_timestamp_ms": 1731890385591,
+      "roster_ids": [
+        1,
+        5
+      ],
+      "season": 2024,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "9226",
+              "player_name": "De'Von Achane"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "6806",
+              "player_name": "J.K. Dobbins"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2024,
+          "team_name": "Amon the Run"
+        },
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "6806",
+              "player_name": "J.K. Dobbins"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "9226",
+              "player_name": "De'Von Achane"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2024,
+          "team_name": "Steven "
+        }
+      ],
+      "transaction_id": "1164036281635553280",
+      "week": 11
+    },
+    {
+      "created_at_utc": "2025-07-08T20:05:20.463000+00:00",
+      "created_timestamp_ms": 1752005120463,
+      "roster_ids": [
+        4,
+        5
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "shawnh56",
+          "owner_id": "736992907139158016",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 4,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 4,
+              "round": 2,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 4,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 4,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "6794",
+              "player_name": "Justin Jefferson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "2449",
+              "player_name": "Stefon Diggs"
+            }
+          ],
+          "roster_id": 4,
+          "season": 2025,
+          "team_name": "Captain Jahmyrica"
+        },
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 4,
+              "round": 1,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 4,
+              "round": 2,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 4,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 4,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "2449",
+              "player_name": "Stefon Diggs"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "6794",
+              "player_name": "Justin Jefferson"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2025,
+          "team_name": "Steven "
+        }
+      ],
+      "transaction_id": "1248403594567221248",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2025-07-09T18:52:47.303000+00:00",
+      "created_timestamp_ms": 1752087167303,
+      "roster_ids": [
+        4,
+        7
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "shawnh56",
+          "owner_id": "736992907139158016",
+          "picks_received": [
+            {
+              "original_roster_id": 7,
+              "round": 3,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "7635",
+              "player_name": "Jaelan Phillips"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4070",
+              "player_name": "T.J. Watt"
+            }
+          ],
+          "roster_id": 4,
+          "season": 2025,
+          "team_name": "Captain Jahmyrica"
+        },
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 7,
+              "round": 3,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4070",
+              "player_name": "T.J. Watt"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7635",
+              "player_name": "Jaelan Phillips"
+            }
+          ],
+          "roster_id": 7,
+          "season": 2025,
+          "team_name": "Dakota Danglers "
+        }
+      ],
+      "transaction_id": "1248747723956420608",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2025-07-09T19:31:33.263000+00:00",
+      "created_timestamp_ms": 1752089493263,
+      "roster_ids": [
+        1,
+        8
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 8,
+              "round": 3,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8137",
+              "player_name": "George Pickens"
+            },
+            {
+              "player_id": "9509",
+              "player_name": "Bijan Robinson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7547",
+              "player_name": "Amon-Ra St. Brown"
+            },
+            {
+              "player_id": "9753",
+              "player_name": "Zach Charbonnet"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2025,
+          "team_name": "Dijon Bijan"
+        },
+        {
+          "owner_display_name": "Hofer51",
+          "owner_id": "736994691492519936",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 8,
+              "round": 3,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "7547",
+              "player_name": "Amon-Ra St. Brown"
+            },
+            {
+              "player_id": "9753",
+              "player_name": "Zach Charbonnet"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8137",
+              "player_name": "George Pickens"
+            },
+            {
+              "player_id": "9509",
+              "player_name": "Bijan Robinson"
+            }
+          ],
+          "roster_id": 8,
+          "season": 2025,
+          "team_name": "Tucker Kraft Mac & Cheese"
+        }
+      ],
+      "transaction_id": "1248757479739772928",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2025-07-10T21:09:54.243000+00:00",
+      "created_timestamp_ms": 1752181794243,
+      "roster_ids": [
+        2,
+        11
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "FuzzyRaptor",
+          "owner_id": "1178861684281753600",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 3,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 2,
+              "round": 2,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 2,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11560",
+              "player_name": "Caleb Williams"
+            },
+            {
+              "player_id": "4983",
+              "player_name": "DJ Moore"
+            },
+            {
+              "player_id": "7528",
+              "player_name": "Najee Harris"
+            },
+            {
+              "player_id": "7553",
+              "player_name": "Kyle Pitts"
+            },
+            {
+              "player_id": "8146",
+              "player_name": "Garrett Wilson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "10229",
+              "player_name": "Rashee Rice"
+            },
+            {
+              "player_id": "4033",
+              "player_name": "David Njoku"
+            },
+            {
+              "player_id": "4034",
+              "player_name": "Christian McCaffrey"
+            },
+            {
+              "player_id": "4881",
+              "player_name": "Lamar Jackson"
+            },
+            {
+              "player_id": "5947",
+              "player_name": "Jakobi Meyers"
+            }
+          ],
+          "roster_id": 2,
+          "season": 2025,
+          "team_name": "FuzzyRaptor"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 2,
+              "round": 2,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 2,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 3,
+              "season": "2025"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2025"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "10229",
+              "player_name": "Rashee Rice"
+            },
+            {
+              "player_id": "4033",
+              "player_name": "David Njoku"
+            },
+            {
+              "player_id": "4034",
+              "player_name": "Christian McCaffrey"
+            },
+            {
+              "player_id": "4881",
+              "player_name": "Lamar Jackson"
+            },
+            {
+              "player_id": "5947",
+              "player_name": "Jakobi Meyers"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11560",
+              "player_name": "Caleb Williams"
+            },
+            {
+              "player_id": "4983",
+              "player_name": "DJ Moore"
+            },
+            {
+              "player_id": "7528",
+              "player_name": "Najee Harris"
+            },
+            {
+              "player_id": "7553",
+              "player_name": "Kyle Pitts"
+            },
+            {
+              "player_id": "8146",
+              "player_name": "Garrett Wilson"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2025,
+          "team_name": "What tf is a draft pick "
+        }
+      ],
+      "transaction_id": "1249144618109390848",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2025-07-29T18:48:23.251000+00:00",
+      "created_timestamp_ms": 1753814903251,
+      "roster_ids": [
+        9,
+        12
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4137",
+              "player_name": "James Conner"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2025,
+          "team_name": "King Shitter ‘24"
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4137",
+              "player_name": "James Conner"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2025,
+          "team_name": "TacticsNoob"
+        }
+      ],
+      "transaction_id": "1255994373749882880",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2025-08-28T14:53:54.553000+00:00",
+      "created_timestamp_ms": 1756392834553,
+      "roster_ids": [
+        2,
+        4
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "FuzzyRaptor",
+          "owner_id": "1178861684281753600",
+          "picks_received": [
+            {
+              "original_roster_id": 4,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "1426",
+              "player_name": "DeAndre Hopkins"
+            },
+            {
+              "player_id": "1479",
+              "player_name": "Keenan Allen"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4983",
+              "player_name": "DJ Moore"
+            },
+            {
+              "player_id": "8146",
+              "player_name": "Garrett Wilson"
+            }
+          ],
+          "roster_id": 2,
+          "season": 2025,
+          "team_name": "FuzzyRaptor"
+        },
+        {
+          "owner_display_name": "shawnh56",
+          "owner_id": "736992907139158016",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 4,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4983",
+              "player_name": "DJ Moore"
+            },
+            {
+              "player_id": "8146",
+              "player_name": "Garrett Wilson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "1426",
+              "player_name": "DeAndre Hopkins"
+            },
+            {
+              "player_id": "1479",
+              "player_name": "Keenan Allen"
+            }
+          ],
+          "roster_id": 4,
+          "season": 2025,
+          "team_name": "Captain Jahmyrica"
+        }
+      ],
+      "transaction_id": "1266807001321590784",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2025-08-28T22:52:21.311000+00:00",
+      "created_timestamp_ms": 1756421541311,
+      "roster_ids": [
+        10,
+        11
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "AlexPete6800",
+          "owner_id": "308805697879937024",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 10,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4034",
+              "player_name": "Christian McCaffrey"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8150",
+              "player_name": "Kyren Williams"
+            }
+          ],
+          "roster_id": 10,
+          "season": 2025,
+          "team_name": "Murray had a little Lamb"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 10,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8150",
+              "player_name": "Kyren Williams"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4034",
+              "player_name": "Christian McCaffrey"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2025,
+          "team_name": "What tf is a draft pick "
+        }
+      ],
+      "transaction_id": "1266927406195679232",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2025-09-20T12:19:54.741000+00:00",
+      "created_timestamp_ms": 1758370794741,
+      "roster_ids": [
+        5,
+        7
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 7,
+              "round": 3,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 4,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8143",
+              "player_name": "Jerome Ford"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11589",
+              "player_name": "Trey Benson"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2025,
+          "team_name": "Steven "
+        },
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 7,
+              "round": 3,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 4,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11589",
+              "player_name": "Trey Benson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8143",
+              "player_name": "Jerome Ford"
+            }
+          ],
+          "roster_id": 7,
+          "season": 2025,
+          "team_name": "Dakota Danglers "
+        }
+      ],
+      "transaction_id": "1275103167654162432",
+      "week": 3
+    },
+    {
+      "created_at_utc": "2025-09-23T14:38:41.718000+00:00",
+      "created_timestamp_ms": 1758638321718,
+      "roster_ids": [
+        4,
+        8
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "shawnh56",
+          "owner_id": "736992907139158016",
+          "picks_received": [
+            {
+              "original_roster_id": 8,
+              "round": 3,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "96",
+              "player_name": "Aaron Rodgers"
+            }
+          ],
+          "roster_id": 4,
+          "season": 2025,
+          "team_name": "Captain Jahmyrica"
+        },
+        {
+          "owner_display_name": "Hofer51",
+          "owner_id": "736994691492519936",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 8,
+              "round": 3,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "96",
+              "player_name": "Aaron Rodgers"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 8,
+          "season": 2025,
+          "team_name": "Tucker Kraft Mac & Cheese"
+        }
+      ],
+      "transaction_id": "1276225257119682560",
+      "week": 3
+    },
+    {
+      "created_at_utc": "2025-09-23T22:03:50.879000+00:00",
+      "created_timestamp_ms": 1758665030879,
+      "roster_ids": [
+        2,
+        7
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "FuzzyRaptor",
+          "owner_id": "1178861684281753600",
+          "picks_received": [
+            {
+              "original_roster_id": 7,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 2,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12497",
+              "player_name": "Tory Horton"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "1479",
+              "player_name": "Keenan Allen"
+            }
+          ],
+          "roster_id": 2,
+          "season": 2025,
+          "team_name": "FuzzyRaptor"
+        },
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [
+            {
+              "original_roster_id": 2,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 7,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "1479",
+              "player_name": "Keenan Allen"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12497",
+              "player_name": "Tory Horton"
+            }
+          ],
+          "roster_id": 7,
+          "season": 2025,
+          "team_name": "Dakota Danglers "
+        }
+      ],
+      "transaction_id": "1276337283460513792",
+      "week": 3
+    },
+    {
+      "created_at_utc": "2025-09-24T01:35:52.090000+00:00",
+      "created_timestamp_ms": 1758677752090,
+      "roster_ids": [
+        1,
+        6
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11624",
+              "player_name": "Xavier Worthy"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8125",
+              "player_name": "Calvin Austin"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2025,
+          "team_name": "Dijon Bijan"
+        },
+        {
+          "owner_display_name": "MadDawgMatt",
+          "owner_id": "872509429436829696",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8125",
+              "player_name": "Calvin Austin"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11624",
+              "player_name": "Xavier Worthy"
+            }
+          ],
+          "roster_id": 6,
+          "season": 2025,
+          "team_name": "Hit & Ruggs 🏎️"
+        }
+      ],
+      "transaction_id": "1276390640090890240",
+      "week": 3
+    },
+    {
+      "created_at_utc": "2025-09-30T15:16:26.857000+00:00",
+      "created_timestamp_ms": 1759245386857,
+      "roster_ids": [
+        6,
+        16
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "MadDawgMatt",
+          "owner_id": "872509429436829696",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 6,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 6,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "5846",
+              "player_name": "DK Metcalf"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7525",
+              "player_name": "DeVonta Smith"
+            }
+          ],
+          "roster_id": 6,
+          "season": 2025,
+          "team_name": "Hit & Ruggs 🏎️"
+        },
+        {
+          "owner_display_name": "BradJohns",
+          "owner_id": "587319065165475840",
+          "picks_received": [
+            {
+              "original_roster_id": 6,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 6,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "7525",
+              "player_name": "DeVonta Smith"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5846",
+              "player_name": "DK Metcalf"
+            }
+          ],
+          "roster_id": 16,
+          "season": 2025,
+          "team_name": "Back 2 School"
+        }
+      ],
+      "transaction_id": "1278771472864649216",
+      "week": 4
+    },
+    {
+      "created_at_utc": "2025-10-08T20:45:24.058000+00:00",
+      "created_timestamp_ms": 1759956324058,
+      "roster_ids": [
+        3,
+        11
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Unknown Owner",
+          "owner_id": "None",
+          "picks_received": [
+            {
+              "original_roster_id": 10,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 2,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "12514",
+              "player_name": "Emeka Egbuka"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2025,
+          "team_name": "Roster 3"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 10,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 2,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12514",
+              "player_name": "Emeka Egbuka"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 11,
+          "season": 2025,
+          "team_name": "What tf is a draft pick "
+        }
+      ],
+      "transaction_id": "1281753359606378496",
+      "week": 6
+    },
+    {
+      "created_at_utc": "2025-10-14T13:41:38.425000+00:00",
+      "created_timestamp_ms": 1760449298425,
+      "roster_ids": [
+        7,
+        8
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "3198",
+              "player_name": "Derrick Henry"
+            }
+          ],
+          "roster_id": 7,
+          "season": 2025,
+          "team_name": "Dakota Danglers "
+        },
+        {
+          "owner_display_name": "Hofer51",
+          "owner_id": "736994691492519936",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "3198",
+              "player_name": "Derrick Henry"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 8,
+          "season": 2025,
+          "team_name": "Tucker Kraft Mac & Cheese"
+        }
+      ],
+      "transaction_id": "1283821043969966080",
+      "week": 6
+    },
+    {
+      "created_at_utc": "2025-10-14T19:21:16.708000+00:00",
+      "created_timestamp_ms": 1760469676708,
+      "roster_ids": [
+        3,
+        13
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Unknown Owner",
+          "owner_id": "None",
+          "picks_received": [
+            {
+              "original_roster_id": 13,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 13,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "12526",
+              "player_name": "Tetairoa McMillan"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2025,
+          "team_name": "Roster 3"
+        },
+        {
+          "owner_display_name": "GGEZGoNext",
+          "owner_id": "998253660243054592",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 13,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 13,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12526",
+              "player_name": "Tetairoa McMillan"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 13,
+          "season": 2025,
+          "team_name": "Dont Touchdown There"
+        }
+      ],
+      "transaction_id": "1283906516683853824",
+      "week": 6
+    },
+    {
+      "created_at_utc": "2025-10-14T20:25:39.370000+00:00",
+      "created_timestamp_ms": 1760473539370,
+      "roster_ids": [
+        3,
+        5
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Unknown Owner",
+          "owner_id": "None",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 4,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "1339",
+              "player_name": "Zach Ertz"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12518",
+              "player_name": "Tyler Warren"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2025,
+          "team_name": "Roster 3"
+        },
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 4,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12518",
+              "player_name": "Tyler Warren"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "1339",
+              "player_name": "Zach Ertz"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2025,
+          "team_name": "Steven "
+        }
+      ],
+      "transaction_id": "1283922717862551552",
+      "week": 6
+    },
+    {
+      "created_at_utc": "2025-10-15T16:45:27.396000+00:00",
+      "created_timestamp_ms": 1760546727396,
+      "roster_ids": [
+        4,
+        9
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "shawnh56",
+          "owner_id": "736992907139158016",
+          "picks_received": [
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4066",
+              "player_name": "Evan Engram"
+            },
+            {
+              "player_id": "8112",
+              "player_name": "Drake London"
+            },
+            {
+              "player_id": "9221",
+              "player_name": "Jahmyr Gibbs"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4866",
+              "player_name": "Saquon Barkley"
+            },
+            {
+              "player_id": "6794",
+              "player_name": "Justin Jefferson"
+            },
+            {
+              "player_id": "8130",
+              "player_name": "Trey McBride"
+            }
+          ],
+          "roster_id": 4,
+          "season": 2025,
+          "team_name": "Captain Jahmyrica"
+        },
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4866",
+              "player_name": "Saquon Barkley"
+            },
+            {
+              "player_id": "6794",
+              "player_name": "Justin Jefferson"
+            },
+            {
+              "player_id": "8130",
+              "player_name": "Trey McBride"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4066",
+              "player_name": "Evan Engram"
+            },
+            {
+              "player_id": "8112",
+              "player_name": "Drake London"
+            },
+            {
+              "player_id": "9221",
+              "player_name": "Jahmyr Gibbs"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2025,
+          "team_name": "King Shitter ‘24"
+        }
+      ],
+      "transaction_id": "1284229690688540672",
+      "week": 7
+    },
+    {
+      "created_at_utc": "2025-10-17T03:27:22.579000+00:00",
+      "created_timestamp_ms": 1760671642579,
+      "roster_ids": [
+        5,
+        11
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 3,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "11655",
+              "player_name": "Tyrone Tracy"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12504",
+              "player_name": "Kaleb Johnson"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2025,
+          "team_name": "Steven "
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 3,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12504",
+              "player_name": "Kaleb Johnson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11655",
+              "player_name": "Tyrone Tracy"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2025,
+          "team_name": "What tf is a draft pick "
+        }
+      ],
+      "transaction_id": "1284753622940262400",
+      "week": 7
+    },
+    {
+      "created_at_utc": "2025-10-21T11:46:59.185000+00:00",
+      "created_timestamp_ms": 1761047219185,
+      "roster_ids": [
+        4,
+        8
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "shawnh56",
+          "owner_id": "736992907139158016",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 3,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "6801",
+              "player_name": "Tee Higgins"
+            }
+          ],
+          "roster_id": 4,
+          "season": 2025,
+          "team_name": "Captain Jahmyrica"
+        },
+        {
+          "owner_display_name": "Hofer51",
+          "owner_id": "736994691492519936",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 3,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "6801",
+              "player_name": "Tee Higgins"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 8,
+          "season": 2025,
+          "team_name": "Tucker Kraft Mac & Cheese"
+        }
+      ],
+      "transaction_id": "1286328905405317120",
+      "week": 7
+    },
+    {
+      "created_at_utc": "2025-10-28T14:02:01.879000+00:00",
+      "created_timestamp_ms": 1761660121879,
+      "roster_ids": [
+        6,
+        10
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "MadDawgMatt",
+          "owner_id": "872509429436829696",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "9504",
+              "player_name": "Kayshon Boutte"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 6,
+          "season": 2025,
+          "team_name": "Hit & Ruggs 🏎️"
+        },
+        {
+          "owner_display_name": "AlexPete6800",
+          "owner_id": "308805697879937024",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "9504",
+              "player_name": "Kayshon Boutte"
+            }
+          ],
+          "roster_id": 10,
+          "season": 2025,
+          "team_name": "Murray had a little Lamb"
+        }
+      ],
+      "transaction_id": "1288899605622165504",
+      "week": 8
+    },
+    {
+      "created_at_utc": "2025-10-29T23:10:58.683000+00:00",
+      "created_timestamp_ms": 1761779458683,
+      "roster_ids": [
+        4,
+        5
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "shawnh56",
+          "owner_id": "736992907139158016",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 4,
+              "round": 7,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "6806",
+              "player_name": "J.K. Dobbins"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8122",
+              "player_name": "Zonovan Knight"
+            }
+          ],
+          "roster_id": 4,
+          "season": 2025,
+          "team_name": "Captain Jahmyrica"
+        },
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 4,
+              "round": 7,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8122",
+              "player_name": "Zonovan Knight"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "6806",
+              "player_name": "J.K. Dobbins"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2025,
+          "team_name": "Steven "
+        }
+      ],
+      "transaction_id": "1289400140460728320",
+      "week": 9
+    },
+    {
+      "created_at_utc": "2025-10-30T01:56:58.167000+00:00",
+      "created_timestamp_ms": 1761789418167,
+      "roster_ids": [
+        4,
+        12
+      ],
+      "season": 2025,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "shawnh56",
+          "owner_id": "736992907139158016",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11628",
+              "player_name": "Marvin Harrison"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8136",
+              "player_name": "Rachaad White"
+            }
+          ],
+          "roster_id": 4,
+          "season": 2025,
+          "team_name": "Captain Jahmyrica"
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8136",
+              "player_name": "Rachaad White"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11628",
+              "player_name": "Marvin Harrison"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2025,
+          "team_name": "TacticsNoob"
+        }
+      ],
+      "transaction_id": "1289441913560141824",
+      "week": 9
+    },
+    {
+      "created_at_utc": "2025-12-31T22:36:06.335000+00:00",
+      "created_timestamp_ms": 1767220566335,
+      "roster_ids": [
+        3,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4881",
+              "player_name": "Lamar Jackson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12545",
+              "player_name": "Tyler Shough"
+            },
+            {
+              "player_id": "4046",
+              "player_name": "Patrick Mahomes"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "12545",
+              "player_name": "Tyler Shough"
+            },
+            {
+              "player_id": "4046",
+              "player_name": "Patrick Mahomes"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4881",
+              "player_name": "Lamar Jackson"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1312221800045764608",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-01-05T14:23:25.838000+00:00",
+      "created_timestamp_ms": 1767623005838,
+      "roster_ids": [
+        3,
+        16
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 3,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "9997",
+              "player_name": "Zay Flowers"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "2216",
+              "player_name": "Mike Evans"
+            },
+            {
+              "player_id": "4018",
+              "player_name": "Joe Mixon"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "nickas",
+          "owner_id": "471824466389757952",
+          "picks_received": [
+            {
+              "original_roster_id": 3,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "2216",
+              "player_name": "Mike Evans"
+            },
+            {
+              "player_id": "4018",
+              "player_name": "Joe Mixon"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "9997",
+              "player_name": "Zay Flowers"
+            }
+          ],
+          "roster_id": 16,
+          "season": 2026,
+          "team_name": "Crimson Tide Pods"
+        }
+      ],
+      "transaction_id": "1313909753667153920",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-04-24T22:02:56.525000+00:00",
+      "created_timestamp_ms": 1777068176525,
+      "roster_ids": [
+        1,
+        5
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 4,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "11624",
+              "player_name": "Xavier Worthy"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 4,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11624",
+              "player_name": "Xavier Worthy"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 5,
+          "season": 2026,
+          "team_name": "Northside Kings "
+        }
+      ],
+      "transaction_id": "1353525670856101888",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-05-04T05:37:25.638000+00:00",
+      "created_timestamp_ms": 1777873045638,
+      "roster_ids": [
+        3,
+        14
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 4,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8121",
+              "player_name": "Romeo Doubs"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "10232",
+              "player_name": "Michael Wilson"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "PIFYAF",
+          "owner_id": "1132141719354535936",
+          "picks_received": [
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 4,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "10232",
+              "player_name": "Michael Wilson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8121",
+              "player_name": "Romeo Doubs"
+            }
+          ],
+          "roster_id": 14,
+          "season": 2026,
+          "team_name": "Phalhala or Bust"
+        }
+      ],
+      "transaction_id": "1356901536596242432",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-05-26T23:18:30.592000+00:00",
+      "created_timestamp_ms": 1779837510592,
+      "roster_ids": [
+        5,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8154",
+              "player_name": "Brian Robinson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11655",
+              "player_name": "Tyrone Tracy"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2026,
+          "team_name": "Northside Kings "
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11655",
+              "player_name": "Tyrone Tracy"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8154",
+              "player_name": "Brian Robinson"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1365141099814850563",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-05-27T17:24:21.080000+00:00",
+      "created_timestamp_ms": 1779902661080,
+      "roster_ids": [
+        9,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "10229",
+              "player_name": "Rashee Rice"
+            },
+            {
+              "player_id": "12514",
+              "player_name": "Emeka Egbuka"
+            },
+            {
+              "player_id": "8150",
+              "player_name": "Kyren Williams"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "6790",
+              "player_name": "D'Andre Swift"
+            },
+            {
+              "player_id": "6794",
+              "player_name": "Justin Jefferson"
+            },
+            {
+              "player_id": "8167",
+              "player_name": "Christian Watson"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "6790",
+              "player_name": "D'Andre Swift"
+            },
+            {
+              "player_id": "6794",
+              "player_name": "Justin Jefferson"
+            },
+            {
+              "player_id": "8167",
+              "player_name": "Christian Watson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "10229",
+              "player_name": "Rashee Rice"
+            },
+            {
+              "player_id": "12514",
+              "player_name": "Emeka Egbuka"
+            },
+            {
+              "player_id": "8150",
+              "player_name": "Kyren Williams"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1365414360763080704",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-06-18T15:54:19.206000+00:00",
+      "created_timestamp_ms": 1781798059206,
+      "roster_ids": [
+        2,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "FuzzyRaptor",
+          "owner_id": "1178861684281753600",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "9754",
+              "player_name": "Quentin Johnston"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7553",
+              "player_name": "Kyle Pitts"
+            }
+          ],
+          "roster_id": 2,
+          "season": 2026,
+          "team_name": "Rapid Valley Annihilation"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "7553",
+              "player_name": "Kyle Pitts"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "9754",
+              "player_name": "Quentin Johnston"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1373364236708745216",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-06-24T19:33:48.082000+00:00",
+      "created_timestamp_ms": 1782329628082,
+      "roster_ids": [
+        7,
+        16
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [
+            {
+              "original_roster_id": 16,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8151",
+              "player_name": "Kenneth Walker"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "10219",
+              "player_name": "Chris Rodriguez"
+            }
+          ],
+          "roster_id": 7,
+          "season": 2026,
+          "team_name": "Badland Banditos "
+        },
+        {
+          "owner_display_name": "nickas",
+          "owner_id": "471824466389757952",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 16,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "10219",
+              "player_name": "Chris Rodriguez"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8151",
+              "player_name": "Kenneth Walker"
+            }
+          ],
+          "roster_id": 16,
+          "season": 2026,
+          "team_name": "Crimson Tide Pods"
+        }
+      ],
+      "transaction_id": "1375593798167461888",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-06-25T16:15:13.866000+00:00",
+      "created_timestamp_ms": 1782404113866,
+      "roster_ids": [
+        9,
+        12
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [
+            {
+              "original_roster_id": 12,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 12,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 9,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8148",
+              "player_name": "Jameson Williams"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4866",
+              "player_name": "Saquon Barkley"
+            },
+            {
+              "player_id": "8130",
+              "player_name": "Trey McBride"
+            },
+            {
+              "player_id": "8134",
+              "player_name": "Khalil Shakir"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [
+            {
+              "original_roster_id": 9,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 12,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 12,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4866",
+              "player_name": "Saquon Barkley"
+            },
+            {
+              "player_id": "8130",
+              "player_name": "Trey McBride"
+            },
+            {
+              "player_id": "8134",
+              "player_name": "Khalil Shakir"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8148",
+              "player_name": "Jameson Williams"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2026,
+          "team_name": "DMV Fantasy"
+        }
+      ],
+      "transaction_id": "1375906214189207552",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-06-28T01:56:02.990000+00:00",
+      "created_timestamp_ms": 1782611762990,
+      "roster_ids": [
+        1,
+        3
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 10,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8142",
+              "player_name": "Alec Pierce"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12534",
+              "player_name": "Kyle Monangai"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 10,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12534",
+              "player_name": "Kyle Monangai"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8142",
+              "player_name": "Alec Pierce"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        }
+      ],
+      "transaction_id": "1376777157744812032",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-06-30T14:15:46.059000+00:00",
+      "created_timestamp_ms": 1782828946059,
+      "roster_ids": [
+        1,
+        5,
+        16
+      ],
+      "season": 2026,
+      "team_count": 3,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 10,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12501",
+              "player_name": "Matthew Golden"
+            },
+            {
+              "player_id": "12506",
+              "player_name": "Harold Fannin"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11610",
+              "player_name": "Malik Washington"
+            },
+            {
+              "player_id": "8142",
+              "player_name": "Alec Pierce"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 5,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11610",
+              "player_name": "Malik Washington"
+            },
+            {
+              "player_id": "2216",
+              "player_name": "Mike Evans"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12501",
+              "player_name": "Matthew Golden"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2026,
+          "team_name": "Northside Kings "
+        },
+        {
+          "owner_display_name": "nickas",
+          "owner_id": "471824466389757952",
+          "picks_received": [
+            {
+              "original_roster_id": 10,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8142",
+              "player_name": "Alec Pierce"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12506",
+              "player_name": "Harold Fannin"
+            },
+            {
+              "player_id": "2216",
+              "player_name": "Mike Evans"
+            }
+          ],
+          "roster_id": 16,
+          "season": 2026,
+          "team_name": "Crimson Tide Pods"
+        }
+      ],
+      "transaction_id": "1377688089559846912",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-08T15:23:33.139000+00:00",
+      "created_timestamp_ms": 1783524213139,
+      "roster_ids": [
+        9,
+        15
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [
+            {
+              "original_roster_id": 15,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12507",
+              "player_name": "Omarion Hampton"
+            },
+            {
+              "player_id": "4037",
+              "player_name": "Chris Godwin"
+            },
+            {
+              "player_id": "5859",
+              "player_name": "A.J. Brown"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12509",
+              "player_name": "Tre' Harris"
+            },
+            {
+              "player_id": "12514",
+              "player_name": "Emeka Egbuka"
+            },
+            {
+              "player_id": "8150",
+              "player_name": "Kyren Williams"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        },
+        {
+          "owner_display_name": "Burnfaze",
+          "owner_id": "990097041671892992",
+          "picks_received": [
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 15,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12509",
+              "player_name": "Tre' Harris"
+            },
+            {
+              "player_id": "12514",
+              "player_name": "Emeka Egbuka"
+            },
+            {
+              "player_id": "8150",
+              "player_name": "Kyren Williams"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12507",
+              "player_name": "Omarion Hampton"
+            },
+            {
+              "player_id": "4037",
+              "player_name": "Chris Godwin"
+            },
+            {
+              "player_id": "5859",
+              "player_name": "A.J. Brown"
+            }
+          ],
+          "roster_id": 15,
+          "season": 2026,
+          "team_name": "Gringo’s Goblins "
+        }
+      ],
+      "transaction_id": "1380604251050356736",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-09T05:32:46.354000+00:00",
+      "created_timestamp_ms": 1783575166354,
+      "roster_ids": [
+        2,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "FuzzyRaptor",
+          "owner_id": "1178861684281753600",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 2,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [],
+          "roster_id": 2,
+          "season": 2026,
+          "team_name": "Rapid Valley Annihilation"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 2,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1380817964328034304",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-09T20:57:23.662000+00:00",
+      "created_timestamp_ms": 1783630643662,
+      "roster_ids": [
+        1,
+        9
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 9,
+              "round": 20,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 20,
+              "season": "2026"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 20,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 9,
+              "round": 20,
+              "season": "2026"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        }
+      ],
+      "transaction_id": "1381050653018685440",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-13T18:44:38.827000+00:00",
+      "created_timestamp_ms": 1783968278827,
+      "roster_ids": [
+        3,
+        8
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 13,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "3198",
+              "player_name": "Derrick Henry"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8205",
+              "player_name": "Isiah Pacheco"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "Hofer51",
+          "owner_id": "736994691492519936",
+          "picks_received": [
+            {
+              "original_roster_id": 13,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8205",
+              "player_name": "Isiah Pacheco"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "3198",
+              "player_name": "Derrick Henry"
+            }
+          ],
+          "roster_id": 8,
+          "season": 2026,
+          "team_name": "All Hail King Jesus"
+        }
+      ],
+      "transaction_id": "1382466797541818368",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-14T23:26:58.825000+00:00",
+      "created_timestamp_ms": 1784071618825,
+      "roster_ids": [
+        3,
+        9
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8148",
+              "player_name": "Jameson Williams"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4217",
+              "player_name": "George Kittle"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4217",
+              "player_name": "George Kittle"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8148",
+              "player_name": "Jameson Williams"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        }
+      ],
+      "transaction_id": "1382900236908769280",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-15T18:23:51.626000+00:00",
+      "created_timestamp_ms": 1784139831626,
+      "roster_ids": [
+        9,
+        12
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8130",
+              "player_name": "Trey McBride"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4217",
+              "player_name": "George Kittle"
+            },
+            {
+              "player_id": "9480",
+              "player_name": "Brenton Strange"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4217",
+              "player_name": "George Kittle"
+            },
+            {
+              "player_id": "9480",
+              "player_name": "Brenton Strange"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8130",
+              "player_name": "Trey McBride"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2026,
+          "team_name": "DMV Fantasy"
+        }
+      ],
+      "transaction_id": "1383186342132842496",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-15T20:56:47.307000+00:00",
+      "created_timestamp_ms": 1784149007307,
+      "roster_ids": [
+        3,
+        5
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 2,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12518",
+              "player_name": "Tyler Warren"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12489",
+              "player_name": "RJ Harvey"
+            },
+            {
+              "player_id": "12490",
+              "player_name": "Bhayshul Tuten"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 2,
+              "round": 2,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "12489",
+              "player_name": "RJ Harvey"
+            },
+            {
+              "player_id": "12490",
+              "player_name": "Bhayshul Tuten"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12518",
+              "player_name": "Tyler Warren"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2026,
+          "team_name": "Northside Kings "
+        }
+      ],
+      "transaction_id": "1383224827728367616",
+      "week": 1
+    }
+  ]
+}

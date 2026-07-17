@@ -18,3 +18,10 @@ data/processed/*
 !data/processed/.gitkeep
 data/snapshots/*
 !data/snapshots/.gitkeep
+
+# Allow committed data outputs for the website
+!data/
+!data/processed/
+!data/processed/**
+!data/raw/
+!data/raw/**

@@ -1,0 +1,914 @@
+[
+  {
+    "avi_id": "AVI-00006828",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "AJ Dillon"
+  },
+  {
+    "avi_id": "AVI-00004199",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Aaron Jones"
+  },
+  {
+    "avi_id": "AVI-00013302",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Adam Randall"
+  },
+  {
+    "avi_id": "AVI-00004035",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Alvin Kamara"
+  },
+  {
+    "avi_id": "AVI-00012527",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Ashton Jeanty"
+  },
+  {
+    "avi_id": "AVI-00011579",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Audric Estime"
+  },
+  {
+    "avi_id": "AVI-00004663",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Austin Ekeler"
+  },
+  {
+    "avi_id": "AVI-00012490",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Bhayshul Tuten"
+  },
+  {
+    "avi_id": "AVI-00009509",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Bijan Robinson"
+  },
+  {
+    "avi_id": "AVI-00011586",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Blake Corum"
+  },
+  {
+    "avi_id": "AVI-00011576",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Braelon Allen"
+  },
+  {
+    "avi_id": "AVI-00012455",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Brashard Smith"
+  },
+  {
+    "avi_id": "AVI-00008155",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Breece Hall"
+  },
+  {
+    "avi_id": "AVI-00008154",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Brian Robinson"
+  },
+  {
+    "avi_id": "AVI-00011584",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Bucky Irving"
+  },
+  {
+    "avi_id": "AVI-00012481",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Cam Skattebo"
+  },
+  {
+    "avi_id": "AVI-00009224",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Chase Brown"
+  },
+  {
+    "avi_id": "AVI-00011370",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Chris Brooks"
+  },
+  {
+    "avi_id": "AVI-00010219",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Chris Rodriguez"
+  },
+  {
+    "avi_id": "AVI-00004034",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Christian McCaffrey"
+  },
+  {
+    "avi_id": "AVI-00007594",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Chuba Hubbard"
+  },
+  {
+    "avi_id": "AVI-00006790",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "D'Andre Swift"
+  },
+  {
+    "avi_id": "AVI-00012471",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "DJ Giddens"
+  },
+  {
+    "avi_id": "AVI-00008129",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Dameon Pierce"
+  },
+  {
+    "avi_id": "AVI-00005892",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "David Montgomery"
+  },
+  {
+    "avi_id": "AVI-00009226",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "De'Von Achane"
+  },
+  {
+    "avi_id": "AVI-00013347",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Demond Claiborne"
+  },
+  {
+    "avi_id": "AVI-00003198",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Derrick Henry"
+  },
+  {
+    "avi_id": "AVI-00012476",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Devin Neal"
+  },
+  {
+    "avi_id": "AVI-00006130",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Devin Singletary"
+  },
+  {
+    "avi_id": "AVI-00012515",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Donovan Edwards"
+  },
+  {
+    "avi_id": "AVI-00011574",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Dylan Laube"
+  },
+  {
+    "avi_id": "AVI-00012469",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Dylan Sampson"
+  },
+  {
+    "avi_id": "AVI-00007561",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Elijah Mitchell"
+  },
+  {
+    "avi_id": "AVI-00011435",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Emanuel Wilson"
+  },
+  {
+    "avi_id": "AVI-00011199",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Emari Demercado"
+  },
+  {
+    "avi_id": "AVI-00013337",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Emmett Johnson"
+  },
+  {
+    "avi_id": "AVI-00011573",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Frank Gore"
+  },
+  {
+    "avi_id": "AVI-00012048",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "George Holani"
+  },
+  {
+    "avi_id": "AVI-00011651",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Isaac Guerendo"
+  },
+  {
+    "avi_id": "AVI-00011571",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Isaiah Davis"
+  },
+  {
+    "avi_id": "AVI-00008205",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Isiah Pacheco"
+  },
+  {
+    "avi_id": "AVI-00006806",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "J.K. Dobbins"
+  },
+  {
+    "avi_id": "AVI-00011237",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jacob Saylors"
+  },
+  {
+    "avi_id": "AVI-00012533",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jacory Croskey-Merritt"
+  },
+  {
+    "avi_id": "AVI-00013286",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jadarian Price"
+  },
+  {
+    "avi_id": "AVI-00009221",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jahmyr Gibbs"
+  },
+  {
+    "avi_id": "AVI-00013403",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jam Miller"
+  },
+  {
+    "avi_id": "AVI-00004137",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "James Conner"
+  },
+  {
+    "avi_id": "AVI-00008138",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "James Cook"
+  },
+  {
+    "avi_id": "AVI-00011569",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jarquez Hunter"
+  },
+  {
+    "avi_id": "AVI-00007588",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Javonte Williams"
+  },
+  {
+    "avi_id": "AVI-00011588",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jawhar Jordan"
+  },
+  {
+    "avi_id": "AVI-00012457",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jaydon Blue"
+  },
+  {
+    "avi_id": "AVI-00008228",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jaylen Warren"
+  },
+  {
+    "avi_id": "AVI-00011643",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jaylen Wright"
+  },
+  {
+    "avi_id": "AVI-00013287",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jeremiyah Love"
+  },
+  {
+    "avi_id": "AVI-00004219",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jeremy McNichols"
+  },
+  {
+    "avi_id": "AVI-00008143",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jerome Ford"
+  },
+  {
+    "avi_id": "AVI-00013345",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jonah Coleman"
+  },
+  {
+    "avi_id": "AVI-00006813",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jonathan Taylor"
+  },
+  {
+    "avi_id": "AVI-00011583",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jonathon Brooks"
+  },
+  {
+    "avi_id": "AVI-00012467",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jordan James"
+  },
+  {
+    "avi_id": "AVI-00008408",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Jordan Mason"
+  },
+  {
+    "avi_id": "AVI-00005850",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Josh Jacobs"
+  },
+  {
+    "avi_id": "AVI-00005995",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Justice Hill"
+  },
+  {
+    "avi_id": "AVI-00013414",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Kaelon Black"
+  },
+  {
+    "avi_id": "AVI-00012504",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Kaleb Johnson"
+  },
+  {
+    "avi_id": "AVI-00013405",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Kaytron Allen"
+  },
+  {
+    "avi_id": "AVI-00009511",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Keaton Mitchell"
+  },
+  {
+    "avi_id": "AVI-00009757",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Kendre Miller"
+  },
+  {
+    "avi_id": "AVI-00008151",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Kenneth Walker"
+  },
+  {
+    "avi_id": "AVI-00007567",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Kenny Gainwell"
+  },
+  {
+    "avi_id": "AVI-00011647",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Kimani Vidal"
+  },
+  {
+    "avi_id": "AVI-00012534",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Kyle Monangai"
+  },
+  {
+    "avi_id": "AVI-00008150",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Kyren Williams"
+  },
+  {
+    "avi_id": "AVI-00012544",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "LeQuint Allen"
+  },
+  {
+    "avi_id": "AVI-00008800",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Malik Davis"
+  },
+  {
+    "avi_id": "AVI-00011581",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "MarShawn Lloyd"
+  },
+  {
+    "avi_id": "AVI-00013305",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Mike Washington"
+  },
+  {
+    "avi_id": "AVI-00007528",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Najee Harris"
+  },
+  {
+    "avi_id": "AVI-00013288",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Nicholas Singleton"
+  },
+  {
+    "avi_id": "AVI-00012495",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Ollie Gordon"
+  },
+  {
+    "avi_id": "AVI-00012507",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Omarion Hampton"
+  },
+  {
+    "avi_id": "AVI-00012738",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Phil Mafah"
+  },
+  {
+    "avi_id": "AVI-00012512",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Quinshon Judkins"
+  },
+  {
+    "avi_id": "AVI-00012489",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "RJ Harvey"
+  },
+  {
+    "avi_id": "AVI-00008136",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Rachaad White"
+  },
+  {
+    "avi_id": "AVI-00011570",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Rasheen Ali"
+  },
+  {
+    "avi_id": "AVI-00011575",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Ray Davis"
+  },
+  {
+    "avi_id": "AVI-00007611",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Rhamondre Stevenson"
+  },
+  {
+    "avi_id": "AVI-00007021",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Rico Dowdle"
+  },
+  {
+    "avi_id": "AVI-00010235",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Roschon Johnson"
+  },
+  {
+    "avi_id": "AVI-00004147",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Samaje Perine"
+  },
+  {
+    "avi_id": "AVI-00004866",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Saquon Barkley"
+  },
+  {
+    "avi_id": "AVI-00009506",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Sean Tucker"
+  },
+  {
+    "avi_id": "AVI-00013424",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Seth McGowan"
+  },
+  {
+    "avi_id": "AVI-00012543",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Tahj Brooks"
+  },
+  {
+    "avi_id": "AVI-00009225",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Tank Bigsby"
+  },
+  {
+    "avi_id": "AVI-00005967",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Tony Pollard"
+  },
+  {
+    "avi_id": "AVI-00007543",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Travis Etienne"
+  },
+  {
+    "avi_id": "AVI-00012529",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "TreVeyon Henderson"
+  },
+  {
+    "avi_id": "AVI-00012531",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Trevor Etienne"
+  },
+  {
+    "avi_id": "AVI-00011589",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Trey Benson"
+  },
+  {
+    "avi_id": "AVI-00008230",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Ty Chandler"
+  },
+  {
+    "avi_id": "AVI-00006039",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Ty Johnson"
+  },
+  {
+    "avi_id": "AVI-00009508",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Tyjae Spears"
+  },
+  {
+    "avi_id": "AVI-00008132",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Tyler Allgeier"
+  },
+  {
+    "avi_id": "AVI-00011655",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Tyrone Tracy"
+  },
+  {
+    "avi_id": "AVI-00011577",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Will Shipley"
+  },
+  {
+    "avi_id": "AVI-00012474",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Woody Marks"
+  },
+  {
+    "avi_id": "AVI-00009753",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Zach Charbonnet"
+  },
+  {
+    "avi_id": "AVI-00011299",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Zavier Scott"
+  },
+  {
+    "avi_id": "AVI-00008122",
+    "missing_components": [
+      "public_market",
+      "elite_upside"
+    ],
+    "player_name": "Zonovan Knight"
+  }
+]

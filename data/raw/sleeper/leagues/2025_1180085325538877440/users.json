@@ -1,0 +1,277 @@
+[
+  {
+    "avatar": "7fb450a5b9acf255a2a563067dcd7bbe",
+    "display_name": "AlexPete6800",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/images/mascots_v2/06_Trash/idle-mobile-small.gif",
+      "mention_pn": "on",
+      "team_name": "Murray had a little Lamb"
+    },
+    "settings": null,
+    "user_id": "308805697879937024"
+  },
+  {
+    "avatar": "d3848957b5b8f25f350d45aec6cc4960",
+    "display_name": "BradJohns",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "off",
+      "avatar": "https://sleepercdn.com/uploads/651a13feec51001411cb4cbe9131504d.jpg",
+      "league_report_pn": "on",
+      "mascot_message": "on",
+      "mention_pn": "on",
+      "player_like_pn": "on",
+      "player_nickname_update": "on",
+      "team_name": "Back 2 School",
+      "team_name_update": "on",
+      "trade_block_pn": "on",
+      "transaction_commissioner": "on",
+      "transaction_free_agent": "on",
+      "transaction_trade": "on",
+      "transaction_waiver": "on",
+      "user_message_pn": "off"
+    },
+    "settings": null,
+    "user_id": "587319065165475840"
+  },
+  {
+    "avatar": "f08b945ea948ae6d2c7a9e20196bc0df",
+    "display_name": "shawnh56",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Captain Jahmyrica"
+    },
+    "settings": null,
+    "user_id": "736992907139158016"
+  },
+  {
+    "avatar": "7308291b2025f511b1cae36286c44578",
+    "display_name": "Thecan",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/252909ce37f55aa71ddb849f349faa5a.jpg",
+      "mention_pn": "on",
+      "team_name": "Dijon Bijan"
+    },
+    "settings": null,
+    "user_id": "736993578450030592"
+  },
+  {
+    "avatar": "41fb1c4c64878a6e29bd00e21ac4226d",
+    "display_name": "Hofer51",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Tucker Kraft Mac & Cheese"
+    },
+    "settings": null,
+    "user_id": "736994691492519936"
+  },
+  {
+    "avatar": "8c38e4692d066ce79405671a37b863e0",
+    "display_name": "IcebergSlim69",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/0e859324db1d23c368e7dc189d11d53b.jpg",
+      "mention_pn": "on",
+      "team_name": "Dakota Danglers "
+    },
+    "settings": null,
+    "user_id": "737531831641128960"
+  },
+  {
+    "avatar": "fea80c67f9c2577c6416866038e8dc97",
+    "display_name": "Choopski",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/5e7602f160e73b2ce18acb186312795f.jpg",
+      "mention_pn": "on",
+      "team_name": "King Shitter ‘24"
+    },
+    "settings": null,
+    "user_id": "863881053000011776"
+  },
+  {
+    "avatar": "e7af4deab0289b4f5505646424895246",
+    "display_name": "srsmith95",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/9f0a329d85e3a1167740a2f2aec9026a.jpg",
+      "mascot_item_type_id_leg_1": "doge",
+      "mascot_item_type_id_leg_10": "doge",
+      "mascot_item_type_id_leg_11": "doge",
+      "mascot_item_type_id_leg_12": "doge",
+      "mascot_item_type_id_leg_13": "doge",
+      "mascot_item_type_id_leg_14": "doge",
+      "mascot_item_type_id_leg_15": "doge",
+      "mascot_item_type_id_leg_16": "doge",
+      "mascot_item_type_id_leg_17": "doge",
+      "mascot_item_type_id_leg_18": "doge",
+      "mascot_item_type_id_leg_2": "doge",
+      "mascot_item_type_id_leg_3": "doge",
+      "mascot_item_type_id_leg_4": "doge",
+      "mascot_item_type_id_leg_5": "doge",
+      "mascot_item_type_id_leg_6": "doge",
+      "mascot_item_type_id_leg_7": "doge",
+      "mascot_item_type_id_leg_8": "doge",
+      "mascot_item_type_id_leg_9": "doge",
+      "mascot_message_emotion_leg_1": "idle",
+      "mention_pn": "on",
+      "show_mascots": "on",
+      "team_name": "Steven "
+    },
+    "settings": null,
+    "user_id": "872351659366539264"
+  },
+  {
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+    "display_name": "MadDawgMatt",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/718b2816a6bd4b70a137a5e001e1374f.jpg",
+      "mention_pn": "on",
+      "team_name": "Hit & Ruggs 🏎️"
+    },
+    "settings": null,
+    "user_id": "872509429436829696"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "awang1900",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/35ea685687c9142b8414b328c7b8ea00",
+      "mention_pn": "on",
+      "team_name": "What tf is a draft pick "
+    },
+    "settings": null,
+    "user_id": "986498458162970624"
+  },
+  {
+    "avatar": "1f3e74ed5dc4f13ac9f9e68fc77f9e72",
+    "display_name": "Burnfaze",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "990097041671892992"
+  },
+  {
+    "avatar": "3f4de8c8bd21837f0f2790b6c3daeb57",
+    "display_name": "GGEZGoNext",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "off",
+      "avatar": "https://sleepercdn.com/uploads/d09892d59ca3171bac4f743900f97bd9.jpg",
+      "league_report_pn": "on",
+      "mascot_message": "on",
+      "mention_pn": "on",
+      "player_like_pn": "on",
+      "player_nickname_update": "on",
+      "team_name": "Dont Touchdown There",
+      "team_name_update": "on",
+      "trade_block_pn": "on",
+      "transaction_commissioner": "on",
+      "transaction_free_agent": "on",
+      "transaction_trade": "on",
+      "transaction_waiver": "on",
+      "user_message_pn": "on"
+    },
+    "settings": null,
+    "user_id": "998253660243054592"
+  },
+  {
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+    "display_name": "TacticsNoob",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1129546394534158336"
+  },
+  {
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+    "display_name": "PIFYAF",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1132141719354535936"
+  },
+  {
+    "avatar": "6f8e91a963197984decc54d681fc1571",
+    "display_name": "FuzzyRaptor",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "allow_pn": "off",
+      "league_report_pn": "off",
+      "mascot_message": "on",
+      "mention_pn": "on",
+      "player_like_pn": "off",
+      "player_nickname_update": "on",
+      "team_name_update": "on",
+      "trade_block_pn": "off",
+      "transaction_commissioner": "on",
+      "transaction_free_agent": "off",
+      "transaction_trade": "off",
+      "transaction_waiver": "on",
+      "user_message_pn": "off"
+    },
+    "settings": null,
+    "user_id": "1178861684281753600"
+  }
+]

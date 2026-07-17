@@ -1,0 +1,699 @@
+{
+  "count": "43",
+  "players": [
+    {
+      "filename": "brandon-aubrey.php",
+      "fpid": 26068,
+      "mflid": 16414,
+      "name": "Brandon Aubrey",
+      "position_id": "K",
+      "stats": {
+        "fg": 35.16,
+        "fga": 39.88,
+        "points": 152.98,
+        "points_half": 152.98,
+        "points_ppr": 152.98,
+        "xpt": 47.5
+      },
+      "team_id": "DAL"
+    },
+    {
+      "filename": "jason-myers.php",
+      "fpid": 14003,
+      "mflid": 12437,
+      "name": "Jason Myers",
+      "position_id": "K",
+      "stats": {
+        "fg": 34.7,
+        "fga": 39.96,
+        "points": 150.35,
+        "points_half": 150.35,
+        "points_ppr": 150.35,
+        "xpt": 46.26
+      },
+      "team_id": "SEA"
+    },
+    {
+      "filename": "kaimi-fairbairn.php",
+      "fpid": 15756,
+      "mflid": 12860,
+      "name": "Ka'imi Fairbairn",
+      "position_id": "K",
+      "stats": {
+        "fg": 36.3,
+        "fga": 40.46,
+        "points": 144.46,
+        "points_half": 144.46,
+        "points_ppr": 144.46,
+        "xpt": 35.56
+      },
+      "team_id": "HOU"
+    },
+    {
+      "filename": "cameron-dicker.php",
+      "fpid": 23901,
+      "mflid": 15979,
+      "name": "Cameron Dicker",
+      "position_id": "K",
+      "stats": {
+        "fg": 34.65,
+        "fga": 38.6,
+        "points": 144.12,
+        "points_half": 144.12,
+        "points_ppr": 144.12,
+        "xpt": 40.17
+      },
+      "team_id": "LAC"
+    },
+    {
+      "filename": "harrison-mevis.php",
+      "fpid": 26638,
+      "mflid": 16843,
+      "name": "Harrison Mevis",
+      "position_id": "K",
+      "stats": {
+        "fg": 27.32,
+        "fga": 30.15,
+        "points": 136.88,
+        "points_half": 136.88,
+        "points_ppr": 136.88,
+        "xpt": 54.93
+      },
+      "team_id": "LAR"
+    },
+    {
+      "filename": "jake-bates.php",
+      "fpid": 26075,
+      "mflid": 16846,
+      "name": "Jake Bates",
+      "position_id": "K",
+      "stats": {
+        "fg": 28.28,
+        "fga": 33.81,
+        "points": 135.86,
+        "points_half": 135.86,
+        "points_ppr": 135.86,
+        "xpt": 51.03
+      },
+      "team_id": "DET"
+    },
+    {
+      "filename": "chase-mclaughlin.php",
+      "fpid": 19058,
+      "mflid": 14717,
+      "name": "Chase McLaughlin",
+      "position_id": "K",
+      "stats": {
+        "fg": 31.52,
+        "fga": 36.49,
+        "points": 132.86,
+        "points_half": 132.86,
+        "points_ppr": 132.86,
+        "xpt": 38.29
+      },
+      "team_id": "TB"
+    },
+    {
+      "filename": "cairo-santos.php",
+      "fpid": 13731,
+      "mflid": 11945,
+      "name": "Cairo Santos",
+      "position_id": "K",
+      "stats": {
+        "fg": 29.99,
+        "fga": 34.49,
+        "points": 132.81,
+        "points_half": 132.81,
+        "points_ppr": 132.81,
+        "xpt": 42.84
+      },
+      "team_id": "CHI"
+    },
+    {
+      "filename": "eddy-pineiro.php",
+      "fpid": 17575,
+      "mflid": 13719,
+      "name": "Eddy Pineiro",
+      "position_id": "K",
+      "stats": {
+        "fg": 31.04,
+        "fga": 34.69,
+        "points": 132.63,
+        "points_half": 132.63,
+        "points_ppr": 132.63,
+        "xpt": 39.51
+      },
+      "team_id": "SF"
+    },
+    {
+      "filename": "tyler-loop.php",
+      "fpid": 27534,
+      "mflid": 17222,
+      "name": "Tyler Loop",
+      "position_id": "K",
+      "stats": {
+        "fg": 28.43,
+        "fga": 32.48,
+        "points": 131.95,
+        "points_half": 131.95,
+        "points_ppr": 131.95,
+        "xpt": 46.67
+      },
+      "team_id": "BAL"
+    },
+    {
+      "filename": "harrison-butker.php",
+      "fpid": 16712,
+      "mflid": 13354,
+      "name": "Harrison Butker",
+      "position_id": "K",
+      "stats": {
+        "fg": 31.28,
+        "fga": 36.22,
+        "points": 131.76,
+        "points_half": 131.76,
+        "points_ppr": 131.76,
+        "xpt": 37.93
+      },
+      "team_id": "KC"
+    },
+    {
+      "filename": "will-reichard.php",
+      "fpid": 26341,
+      "mflid": 16681,
+      "name": "Will Reichard",
+      "position_id": "K",
+      "stats": {
+        "fg": 30.9,
+        "fga": 33.84,
+        "points": 130.66,
+        "points_half": 130.66,
+        "points_ppr": 130.66,
+        "xpt": 37.97
+      },
+      "team_id": "MIN"
+    },
+    {
+      "filename": "cam-little.php",
+      "fpid": 26475,
+      "mflid": 16680,
+      "name": "Cam Little",
+      "position_id": "K",
+      "stats": {
+        "fg": 28.78,
+        "fga": 32.45,
+        "points": 129.9,
+        "points_half": 129.9,
+        "points_ppr": 129.9,
+        "xpt": 43.57
+      },
+      "team_id": "JAC"
+    },
+    {
+      "filename": "evan-mcpherson.php",
+      "fpid": 23297,
+      "mflid": 15368,
+      "name": "Evan McPherson",
+      "position_id": "K",
+      "stats": {
+        "fg": 27.67,
+        "fga": 32.15,
+        "points": 128.68,
+        "points_half": 128.68,
+        "points_ppr": 128.68,
+        "xpt": 45.66
+      },
+      "team_id": "CIN"
+    },
+    {
+      "filename": "nick-folk.php",
+      "fpid": 9491,
+      "mflid": 8851,
+      "name": "Nick Folk",
+      "position_id": "K",
+      "stats": {
+        "fg": 30.01,
+        "fga": 32.82,
+        "points": 128.52,
+        "points_half": 128.52,
+        "points_ppr": 128.52,
+        "xpt": 38.49
+      },
+      "team_id": "ATL"
+    },
+    {
+      "filename": "wil-lutz.php",
+      "fpid": 16026,
+      "mflid": 12956,
+      "name": "Wil Lutz",
+      "position_id": "K",
+      "stats": {
+        "fg": 28.99,
+        "fga": 33.67,
+        "points": 128.36,
+        "points_half": 128.36,
+        "points_ppr": 128.36,
+        "xpt": 41.4
+      },
+      "team_id": "DEN"
+    },
+    {
+      "filename": "trey-smack.php",
+      "fpid": 28507,
+      "mflid": 17668,
+      "name": "Trey Smack",
+      "position_id": "K",
+      "stats": {
+        "fg": 28.59,
+        "fga": 34.13,
+        "points": 125.4,
+        "points_half": 125.4,
+        "points_ppr": 125.4,
+        "xpt": 39.62
+      },
+      "team_id": "GB"
+    },
+    {
+      "filename": "tyler-bass.php",
+      "fpid": 19760,
+      "mflid": 14983,
+      "name": "Tyler Bass",
+      "position_id": "K",
+      "stats": {
+        "fg": 25.61,
+        "fga": 30.53,
+        "points": 123.53,
+        "points_half": 123.53,
+        "points_ppr": 123.53,
+        "xpt": 46.7
+      },
+      "team_id": "BUF"
+    },
+    {
+      "filename": "charlie-smyth.php",
+      "fpid": 26444,
+      "mflid": 17424,
+      "name": "Charlie Smyth",
+      "position_id": "K",
+      "stats": {
+        "fg": 29.55,
+        "fga": 35.01,
+        "points": 122.82,
+        "points_half": 122.82,
+        "points_ppr": 122.82,
+        "xpt": 34.18
+      },
+      "team_id": "NO"
+    },
+    {
+      "filename": "jake-moody.php",
+      "fpid": 24009,
+      "mflid": 16286,
+      "name": "Jake Moody",
+      "position_id": "K",
+      "stats": {
+        "fg": 27.58,
+        "fga": 33.82,
+        "points": 121.39,
+        "points_half": 121.39,
+        "points_ppr": 121.39,
+        "xpt": 38.65
+      },
+      "team_id": "WAS"
+    },
+    {
+      "filename": "andres-borregales.php",
+      "fpid": 27291,
+      "mflid": 17220,
+      "name": "Andy Borregales",
+      "position_id": "K",
+      "stats": {
+        "fg": 26.13,
+        "fga": 31.21,
+        "points": 121.33,
+        "points_half": 121.33,
+        "points_ppr": 121.33,
+        "xpt": 42.95
+      },
+      "team_id": "NE"
+    },
+    {
+      "filename": "jake-elliott.php",
+      "fpid": 16540,
+      "mflid": 13303,
+      "name": "Jake Elliott",
+      "position_id": "K",
+      "stats": {
+        "fg": 26.05,
+        "fga": 31.83,
+        "points": 119.8,
+        "points_half": 119.8,
+        "points_ppr": 119.8,
+        "xpt": 41.66
+      },
+      "team_id": "PHI"
+    },
+    {
+      "filename": "chris-boswell.php",
+      "fpid": 13029,
+      "mflid": 11936,
+      "name": "Chris Boswell",
+      "position_id": "K",
+      "stats": {
+        "fg": 28.12,
+        "fga": 32.37,
+        "points": 118.19,
+        "points_half": 118.19,
+        "points_ppr": 118.19,
+        "xpt": 33.82
+      },
+      "team_id": "PIT"
+    },
+    {
+      "filename": "jason-sanders.php",
+      "fpid": 17533,
+      "mflid": 13832,
+      "name": "Jason Sanders",
+      "position_id": "K",
+      "stats": {
+        "fg": 28.71,
+        "fga": 32.7,
+        "points": 117.49,
+        "points_half": 117.49,
+        "points_ppr": 117.49,
+        "xpt": 31.37
+      },
+      "team_id": "NYJ"
+    },
+    {
+      "filename": "zane-gonzalez.php",
+      "fpid": 16548,
+      "mflid": 13347,
+      "name": "Zane Gonzalez",
+      "position_id": "K",
+      "stats": {
+        "fg": 28.3,
+        "fga": 32.61,
+        "points": 115.43,
+        "points_half": 115.43,
+        "points_ppr": 115.43,
+        "xpt": 30.53
+      },
+      "team_id": "MIA"
+    },
+    {
+      "filename": "joey-slye.php",
+      "fpid": 19028,
+      "mflid": 14600,
+      "name": "Joey Slye",
+      "position_id": "K",
+      "stats": {
+        "fg": 27.41,
+        "fga": 33.13,
+        "points": 113.78,
+        "points_half": 113.78,
+        "points_ppr": 113.78,
+        "xpt": 31.55
+      },
+      "team_id": "TEN"
+    },
+    {
+      "filename": "chad-ryland.php",
+      "fpid": 25354,
+      "mflid": 16292,
+      "name": "Chad Ryland",
+      "position_id": "K",
+      "stats": {
+        "fg": 26.63,
+        "fga": 33.09,
+        "points": 111.71,
+        "points_half": 111.71,
+        "points_ppr": 111.71,
+        "xpt": 31.82
+      },
+      "team_id": "ARI"
+    },
+    {
+      "filename": "matt-gay.php",
+      "fpid": 18545,
+      "mflid": 14244,
+      "name": "Matt Gay",
+      "position_id": "K",
+      "stats": {
+        "fg": 25.84,
+        "fga": 32.47,
+        "points": 108.13,
+        "points_half": 108.13,
+        "points_ppr": 108.13,
+        "xpt": 30.6
+      },
+      "team_id": "LV"
+    },
+    {
+      "filename": "ryan-fitzgerald.php",
+      "fpid": 27261,
+      "mflid": 17277,
+      "name": "Ryan Fitzgerald",
+      "position_id": "K",
+      "stats": {
+        "fg": 25.51,
+        "fga": 29.82,
+        "points": 106.95,
+        "points_half": 106.95,
+        "points_ppr": 106.95,
+        "xpt": 30.43
+      },
+      "team_id": "CAR"
+    },
+    {
+      "filename": "andre-szmyt.php",
+      "fpid": 25713,
+      "mflid": 16419,
+      "name": "Andre Szmyt",
+      "position_id": "K",
+      "stats": {
+        "fg": 24.64,
+        "fga": 28.13,
+        "points": 102,
+        "points_half": 102,
+        "points_ppr": 102,
+        "xpt": 28.09
+      },
+      "team_id": "CLE"
+    },
+    {
+      "filename": "spencer-shrader.php",
+      "fpid": 26763,
+      "mflid": 16896,
+      "name": "Spencer Shrader",
+      "position_id": "K",
+      "stats": {
+        "fg": 17,
+        "fga": 19.5,
+        "points": 76.5,
+        "points_half": 76.5,
+        "points_ppr": 76.5,
+        "xpt": 25.5
+      },
+      "team_id": "IND"
+    },
+    {
+      "filename": "blake-grupe.php",
+      "fpid": 25533,
+      "mflid": 16444,
+      "name": "Blake Grupe",
+      "position_id": "K",
+      "stats": {
+        "fg": 18.85,
+        "fga": 22.48,
+        "points": 73.94,
+        "points_half": 73.94,
+        "points_ppr": 73.94,
+        "xpt": 17.39
+      },
+      "team_id": "IND"
+    },
+    {
+      "filename": "riley-patterson.php",
+      "fpid": 23370,
+      "mflid": 15369,
+      "name": "Riley Patterson",
+      "position_id": "K",
+      "stats": {
+        "fg": 18,
+        "fga": 20.67,
+        "points": 73,
+        "points_half": 73,
+        "points_ppr": 73,
+        "xpt": 19
+      },
+      "team_id": "MIA"
+    },
+    {
+      "filename": "ben-sauls.php",
+      "fpid": 27798,
+      "mflid": 17434,
+      "name": "Ben Sauls",
+      "position_id": "K",
+      "stats": {
+        "fg": 15.33,
+        "fga": 18.67,
+        "points": 58.5,
+        "points_half": 58.5,
+        "points_ppr": 58.5,
+        "xpt": 12.5
+      },
+      "team_id": "NYG"
+    },
+    {
+      "filename": "cade-york.php",
+      "fpid": 24549,
+      "mflid": 15882,
+      "name": "Cade York",
+      "position_id": "K",
+      "stats": {
+        "fg": 12,
+        "fga": 15,
+        "points": 36,
+        "points_half": 36,
+        "points_ppr": 36,
+        "xpt": 0
+      },
+      "team_id": "NYJ"
+    },
+    {
+      "filename": "dominic-zvada.php",
+      "fpid": 28176,
+      "mflid": 17736,
+      "name": "Dominic Zvada",
+      "position_id": "K",
+      "stats": {
+        "fg": 7,
+        "fga": 9,
+        "points": 30,
+        "points_half": 30,
+        "points_ppr": 30,
+        "xpt": 9
+      },
+      "team_id": "NYG"
+    },
+    {
+      "filename": "matt-prater.php",
+      "fpid": 9443,
+      "mflid": 8930,
+      "name": "Matt Prater",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "graham-gano.php",
+      "fpid": 9232,
+      "mflid": 9694,
+      "name": "Graham Gano",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "brandon-mcmanus.php",
+      "fpid": 13274,
+      "mflid": 11947,
+      "name": "Brandon McManus",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "younghoe-koo.php",
+      "fpid": 16910,
+      "mflid": 13403,
+      "name": "Younghoe Koo",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "lucas-havrisik.php",
+      "fpid": 25222,
+      "mflid": 16043,
+      "name": "Lucas Havrisik",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "GB"
+    },
+    {
+      "filename": "tanner-brown.php",
+      "fpid": 25616,
+      "mflid": 16410,
+      "name": "Tanner Brown",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "NO"
+    },
+    {
+      "filename": "joshua-karty.php",
+      "fpid": 26478,
+      "mflid": 16775,
+      "name": "Joshua Karty",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    }
+  ],
+  "positions": "K",
+  "public_api_limited": true,
+  "scoring": "STD",
+  "season": "2026",
+  "tier": "premium",
+  "week": "0"
+}

@@ -1,0 +1,392 @@
+{
+  "count": 22,
+  "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
+  "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-16 15:56:30",
+      "created_formated": "Thu, Jul 16th 3:56pm UTC",
+      "desc": "Ian Rapoport reportedly believes that Chiefs QB Patrick Mahomes is \"on track to be on the field Week 1.\"",
+      "id": 596423,
+      "impact": "Per Rapoport, \"Mahomes has been spending seven hours or so in the building rehabbing as much as humanly possible.\" If he does make it back in that time, it will be roughly a nine month recovery for him. ",
+      "link": "https://www.fantasypros.com/nfl/news/596423/patrick-mahomes-ii-knee-on-track-to-be-ready-week-1.php",
+      "player_id": 16413,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "Patrick Mahomes II (knee) on track to be ready for Week 1"
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-15 23:08:26",
+      "created_formated": "Wed, Jul 15th 11:08pm UTC",
+      "desc": "George Pickens will officially play the 2026 season on a $27.3 million franchise tag for the Dallas Cowboys.",
+      "id": 596403,
+      "impact": "Pickens and the Cowboys could not agree upon a long-term extension this summer, so he will head into the year effectively on a 1-year deal. The wideout is coming off a career year in which he hauled in 93 catches for 1,429 yards and nine touchdowns. He will head into this season with Dallas firmly in the WR1 conversation in fantasy.",
+      "link": "https://www.fantasypros.com/nfl/news/596403/george-pickens-to-play-2026-season-on-franchise-tag-with-cowboys.php",
+      "player_id": 22963,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "George Pickens to play 2026 season on franchise tag with Cowboys"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-15 20:26:03",
+      "created_formated": "Wed, Jul 15th 8:26pm UTC",
+      "desc": "Alvin Kamara will be playing for the Saints in 2026 after he and the team reworked his deal.",
+      "id": 596379,
+      "impact": "Kamara will be playing behind newcomer Travis Etienne this season. However, he should find himself with a role as a pass catcher, that has always been specialty. Don't be surprised if he puts up sneaky RB3 numbers in 2026.",
+      "link": "https://www.fantasypros.com/nfl/news/596379/alvin-kamara-staying-with-new-orleans-saints.php",
+      "player_id": 16421,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Alvin Kamara staying with New Orleans Saints"
+    },
+    {
+      "author": "Brenton Kemp",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-15 20:02:21",
+      "created_formated": "Wed, Jul 15th 8:02pm UTC",
+      "desc": "Carolina Panthers quarterback Will Grier is retiring.",
+      "id": 596368,
+      "impact": "Grier began his career with the Panthers, making his lone two NFL career starts in the 2019 season. He also spent time as a backup with the Cowboys, Chargers, and Eagles before re-signing with the Panthers. The 31-year-old was drafted in the third round by his hometown Panthers in the 2019 NFL Draft.",
+      "link": "https://www.fantasypros.com/nfl/news/596368/will-grier-retires.php",
+      "player_id": 18241,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Will Grier retires"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-14 18:50:32",
+      "created_formated": "Tue, Jul 14th 6:50pm UTC",
+      "desc": "There have reportedly been at least five teams that have been checking in on Stefon Diggs nearly two weeks out from training camp. ",
+      "id": 596353,
+      "impact": "Diggs is coming off an 1,000 yard season in New England after tearing his ACL. Per Fowler, Diggs believes he can be even better due to offseason training with no injury concern.",
+      "link": "https://www.fantasypros.com/nfl/news/596353/stefon-diggs-drawing-interest-from-least-five-teams.php",
+      "player_id": 13981,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Stefon Diggs drawing interest from at least five teams"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-14 00:58:33",
+      "created_formated": "Tue, Jul 14th 12:58am UTC",
+      "desc": "Baker Mayfield revealed he played with a sprained MCL and PCL after Week 2 of last season.",
+      "id": 596351,
+      "impact": "Mayfield revealed the injury while speaking on the Netflix series Quarterback, per Bucs beat reporter Rick Stroud. He added that Mayfield also had a \"bad biceps contusion\" that affected his velocity, in addition to the left shoulder injury he suffered in Week 12 against the Rams. He should be back to full health heading into this upcoming season. ",
+      "link": "https://www.fantasypros.com/nfl/news/596351/baker-mayfield-played-with-sprained-mcl-pcl-after-week-2-last-season.php",
+      "player_id": 17237,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Baker Mayfield played with sprained MCL and PCL after Week 2 last season"
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-13 19:00:44",
+      "created_formated": "Mon, Jul 13th 7:00pm UTC",
+      "desc": "Isaiah McDuffie has signed a one-year extension with the Green Bay Packers.",
+      "id": 596332,
+      "impact": "McDuffie's extension keeps him in Green Bay for the next two seasons, paying him $8.8 million along the way. The linebacker is coming off a season in which he totaled 92 combined tackles in 17 games played.",
+      "link": "https://www.fantasypros.com/nfl/news/596332/isaiah-mcduffie-signs-extension-with-green-bay-packers.php",
+      "player_id": 23292,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Isaiah McDuffie signs extension with Green Bay Packers"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-12 04:13:39",
+      "created_formated": "Sun, Jul 12th 4:13am UTC",
+      "desc": "The Bears signed TE Sam Roush to a four-year, $7.35 million contract.",
+      "id": 596139,
+      "impact": "Roush was selected No. 69 overall by Chicago in this year's draft. He will figure to compete for a depth role in the Bears tight end room. ",
+      "link": "https://www.fantasypros.com/nfl/news/596139/sam-roush-signs-rookie-contract-with-bears.php",
+      "player_id": 28161,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Sam Roush signs rookie contract with Bears"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-12 04:12:07",
+      "created_formated": "Sun, Jul 12th 4:12am UTC",
+      "desc": "Adam Schefter reported free agent CB Terrion Arnold \"took a physical in Houston\" for the Texans on Thursday.",
+      "id": 596138,
+      "impact": "Arnold is scheduled to visit with two more teams next week. He is awaiting his trial for the multiple felonies he's facing. Arnold was waived by the Lions on June 29th and became an outright free agent after going unclaimed on waivers. ",
+      "link": "https://www.fantasypros.com/nfl/news/596138/terrion-arnold-takes-physical-texans.php",
+      "player_id": 26133,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Terrion Arnold takes physical for Texans"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-12 04:04:32",
+      "created_formated": "Sun, Jul 12th 4:04am UTC",
+      "desc": "Aaron Donald worked out at the Rams facility on Friday.",
+      "id": 596137,
+      "impact": "Donald has been hinting at a return with the Rams following the team's trade for Myles Garrett. This will remain a situation to monitor heading into the start of training camp later in July. ",
+      "link": "https://www.fantasypros.com/nfl/news/596137/aaron-donald-works-out-rams-facility.php",
+      "player_id": 12205,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Aaron Donald works out at Rams facility"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-06-26 14:58:52",
+      "created_formated": "Fri, Jun 26th 2:58pm UTC",
+      "desc": "The Broncos reached an agreement with third-round pick Tyler Onyedim on his rookie contract. ",
+      "id": 593454,
+      "impact": "Onyedim reaches a deal worth $7.39 million over four years with a $1.83 million signing bonus.",
+      "link": "https://www.fantasypros.com/nfl/news/593454/tyler-onyedim-signs-rookie-deal-with-broncos-.php",
+      "player_id": 28306,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Tyler Onyedim signs rookie deal with Broncos "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-06-26 14:56:50",
+      "created_formated": "Fri, Jun 26th 2:56pm UTC",
+      "desc": "Carson Beck is the last unsigned player of the Cardinals 2026 NFL Draft class. ",
+      "id": 593453,
+      "impact": "Kaleb Proctor was recently the second to last rookie to sign with Arizona. They should look to get a deal done with Beck by training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/593453/carson-beck-has-not-signed-rookie-contract-with-cardinals-.php",
+      "player_id": 22953,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Carson Beck has not signed rookie contract with Cardinals "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-06-26 14:54:44",
+      "created_formated": "Fri, Jun 26th 2:54pm UTC",
+      "desc": "The Cardinals signed fourth-Round pick DL Kaleb Proctor to his rookie contract. ",
+      "id": 593452,
+      "impact": "Proctor is currently sidelined by a meniscus injury and won't be ready by training camp.",
+      "link": "https://www.fantasypros.com/nfl/news/593452/kaleb-proctor-signs-rookie-contract-with-cardinals-.php",
+      "player_id": 28442,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Kaleb Proctor signs rookie contract with Cardinals "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-06-24 19:53:25",
+      "created_formated": "Wed, Jun 24th 7:53pm UTC",
+      "desc": "The Jaguars signed Brenton Strange to a three-year contract extension.",
+      "id": 593133,
+      "impact": "The deal is worth \"up to\" $48 million with $25 million guaranteed. Strange missed five games last season, but emerged as a top threat in the passing game when he was healthy for Trevor Lawrence last season. Strange profiles as a borderline TE1 for fantasy managers with Nate Boerkircher and Tanner Koziol competing for snaps behind him. ",
+      "link": "https://www.fantasypros.com/nfl/news/593133/brenton-strange-signs-three-year-extension-with-jaguars-.php",
+      "player_id": 25345,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Brenton Strange signs three-year extension with Jaguars "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-06-24 15:30:14",
+      "created_formated": "Wed, Jun 24th 3:30pm UTC",
+      "desc": "DeForest Buckner's return for the start of training camp is reportedly \"very much up in the air.\" ",
+      "id": 593083,
+      "impact": "Buckner underwent neck surgery late last season which has limited him so far in the Colts offseason program. This will remain a situation to monitor over the next month. ",
+      "link": "https://www.fantasypros.com/nfl/news/593083/deforest-buckner-neck-may-not-be-ready-start-training-camp-.php",
+      "player_id": 15494,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "DeForest Buckner (neck) may not be ready for start of training camp "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-06-24 15:28:00",
+      "created_formated": "Wed, Jun 24th 3:28pm UTC",
+      "desc": "Tucker Kraft is on track to be a full-go by Week 1 to begin the season. ",
+      "id": 593082,
+      "impact": "Kraft could still begin training camp on the PUP list. He tore his ACL in Week 9 of last season. His status will need to be monitored heading into training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/593082/tucker-kraft-knee-on-track-to-be-full-go-by-week-1.php",
+      "player_id": 25298,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Tucker Kraft (knee) on track to be full go by Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-06-24 15:24:19",
+      "created_formated": "Wed, Jun 24th 3:24pm UTC",
+      "desc": "Ja'Tavion Sanders reportedly looked good running around in the early offseason.",
+      "id": 593081,
+      "impact": "Sanders is working his way back from a broken ankle he suffered in Week 17 last season. He appears to be on track to being a full-go in training camp at this rate. ",
+      "link": "https://www.fantasypros.com/nfl/news/593081/jatavion-sanders-ankle-looked-good-running-early-offseason-.php",
+      "player_id": 24334,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Ja'Tavion Sanders (ankle) looked good running early in offseason "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-06-23 20:59:59",
+      "created_formated": "Tue, Jun 23rd 8:59pm UTC",
+      "desc": "Kyle Pitts Sr. has agreed to a 3-year, $54 million extension with the Atlanta Falcons.",
+      "id": 592923,
+      "impact": "After coming off arguably his best season as a pro, Pitts gets the bag. He will operate as the teams second target behind Drake London and TE1 in a tight end friendly Stefanski system. It's wheels up for the still young Pitts.",
+      "link": "https://www.fantasypros.com/nfl/news/592923/kyle-pitts-sr-agrees-to-3-year-54-million-extension-with-falcons.php",
+      "player_id": 20164,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Kyle Pitts Sr. agrees to 3-year, $54 million extension with Falcons"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-06-22 15:55:32",
+      "created_formated": "Mon, Jun 22nd 3:55pm UTC",
+      "desc": "Cardinals coach Mike LaFleur said he expects TE Tip Reiman to be \"ready to roll\" when training camp starts.",
+      "id": 592671,
+      "impact": "Reiman figures to remain in a primary blocking role in the Cardinals tight end room. He has been mentioned multiple times this offseason by LaFleur. ",
+      "link": "https://www.fantasypros.com/nfl/news/592671/tip-reiman-ankle-expected-to-be-ready-training-camp-.php",
+      "player_id": 26432,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Tip Reiman (ankle) expected to be ready for training camp "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-06-22 15:53:31",
+      "created_formated": "Mon, Jun 22nd 3:53pm UTC",
+      "desc": "Bills S Cole Bishop is expected to be able to participate on the field during training camp. ",
+      "id": 592670,
+      "impact": "Bishop underwent offseason knee surgery which he is working his way back from. He has been sidelined so far in the Bills offseason program. ",
+      "link": "https://www.fantasypros.com/nfl/news/592670/cole-bishop-knee-expected-to-be-ready-training-camp-.php",
+      "player_id": 26229,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Cole Bishop (knee) expected to be ready for training camp "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-06-22 15:49:23",
+      "created_formated": "Mon, Jun 22nd 3:49pm UTC",
+      "desc": "John Keim of ESPN believes the Commanders are expected to involve tight ends more in the passing game this season. ",
+      "id": 592669,
+      "impact": "Chig Okonkwo is expected to lead the Commanders tight end room this season. He will be a tight end sleeper to monitor in the double-digit rounds of drafts this year. ",
+      "link": "https://www.fantasypros.com/nfl/news/592669/chig-okonkwo-commanders-expected-to-involve-tes-more-passing-game.php",
+      "player_id": 23982,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Chig Okonkwo: Commanders expected to involve TE's more in passing game"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-06-22 15:48:37",
+      "created_formated": "Mon, Jun 22nd 3:48pm UTC",
+      "desc": "The NFL could still suspend Falcons EDGE James Pearce Jr.",
+      "id": 592668,
+      "impact": "Pearce Jr. returned to the Falcons' training facility to participate in the team's mandatory minicamp. This will remain a situation to monitor into training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/592668/james-pearce-jr-could-still-be-suspended-by-nfl-.php",
+      "player_id": 27018,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "James Pearce Jr. could still be suspended by NFL "
+    }
+  ],
+  "public_api_limited": true,
+  "sport": "NFL",
+  "tier": "premium",
+  "title": "Fantasy Player News"
+}

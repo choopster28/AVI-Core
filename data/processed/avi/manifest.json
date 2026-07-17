@@ -1,0 +1,59 @@
+{
+  "generated_at_utc": "2026-07-17T01:23:31.290085+00:00",
+  "league_id": "1312185568032997376",
+  "methodology_status": "provisional_v1",
+  "methodology_version": "2026.1",
+  "player_points_active": false,
+  "record_counts": {
+    "calculated_players": 436,
+    "registry_players": 436,
+    "unresolved_players": 0
+  },
+  "replacement_levels": {
+    "flex_allocations": {
+      "RB": 5,
+      "TE": 3,
+      "WR": 24
+    },
+    "replacement_ranks": {
+      "DB": 16,
+      "DL": 16,
+      "K": 16,
+      "LB": 16,
+      "QB": 16,
+      "RB": 37,
+      "TE": 19,
+      "WR": 56
+    },
+    "replacement_values": {
+      "DB": 0.0,
+      "DL": 0.0,
+      "K": 0.0,
+      "LB": 0.0,
+      "QB": 287.27,
+      "RB": 155.9,
+      "TE": 148.67,
+      "WR": 152.44
+    },
+    "starter_demand": {
+      "DB": 16,
+      "DL": 16,
+      "K": 16,
+      "LB": 16,
+      "QB": 16,
+      "RB": 32,
+      "TE": 16,
+      "WR": 32
+    }
+  },
+  "season": 2026,
+  "season_phase": "preseason",
+  "status": "passed",
+  "weights": {
+    "elite_upside": 0.1,
+    "league_context": 0.1,
+    "player_points": 0.0,
+    "projections": 0.5,
+    "public_market": 0.3
+  }
+}

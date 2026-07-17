@@ -1,0 +1,69 @@
+[
+  {
+    "created": 1735716775835,
+    "creators": [
+      "736993578450030592"
+    ],
+    "draft_id": "1180085325538877441",
+    "draft_order": {
+      "1129546394534158336": 10,
+      "1132141719354535936": 2,
+      "1178861684281753600": 5,
+      "308805697879937024": 15,
+      "587319065165475840": 1,
+      "736992907139158016": 14,
+      "736993578450030592": 13,
+      "736994691492519936": 12,
+      "737531831641128960": 16,
+      "863881053000011776": 6,
+      "872351659366539264": 9,
+      "872509429436829696": 8,
+      "986498458162970624": 7,
+      "990097041671892992": 3,
+      "998253660243054592": 4
+    },
+    "last_message_id": "1265537386209607681",
+    "last_message_time": 1756090134721,
+    "last_picked": 1756090105198,
+    "league_id": "1180085325538877440",
+    "metadata": {
+      "description": "",
+      "elapsed_pick_timer": "4906",
+      "is_autopaused": "false",
+      "name": "Autobots",
+      "scoring_type": "idp",
+      "show_team_names": "0"
+    },
+    "season": "2025",
+    "season_type": "regular",
+    "settings": {
+      "alpha_sort": 0,
+      "autopause_enabled": 0,
+      "autopause_end_time": 960,
+      "autopause_start_time": 240,
+      "autostart": 0,
+      "cpu_autopick": 1,
+      "enforce_position_limits": 1,
+      "nomination_timer": 60,
+      "pick_timer": 60,
+      "player_type": 0,
+      "reversal_round": 0,
+      "rounds": 20,
+      "slots_bn": 8,
+      "slots_db": 1,
+      "slots_dl": 1,
+      "slots_flex": 2,
+      "slots_k": 1,
+      "slots_lb": 1,
+      "slots_qb": 1,
+      "slots_rb": 2,
+      "slots_te": 1,
+      "slots_wr": 2,
+      "teams": 16
+    },
+    "sport": "nfl",
+    "start_time": 1756087204384,
+    "status": "complete",
+    "type": "linear"
+  }
+]

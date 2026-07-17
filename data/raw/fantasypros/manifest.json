@@ -1,0 +1,19 @@
+{
+  "downloaded_at_utc": "2026-07-17T01:23:30.843096+00:00",
+  "methodology_version": "2026.1",
+  "player_points": {
+    "collected": true,
+    "currently_used_in_c_avi": false,
+    "in_season_weight": 0.1,
+    "preseason_weight": 0.0
+  },
+  "request_budget": {
+    "maximum": 45,
+    "used": 38
+  },
+  "scoring": "HALF",
+  "season": 2026,
+  "snapshot_id": "2026-07-17T01-23-30Z",
+  "status": "passed",
+  "warnings": []
+}
