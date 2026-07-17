@@ -9,6 +9,11 @@ from avi.fantasypros.updater import update as update_fantasypros
 from avi.identity.builder import build_player_identity_map
 from avi.identity.registry import build_player_registry
 from avi.league.loader import load_league_structure
+from avi.pipeline import run_daily_update
+from avi.reports.draft_pick_values import build_draft_pick_values
+from avi.reports.historical_trades import build_historical_trades
+from avi.reports.player_lookup import build_player_lookup
+from avi.reports.team_profiles import build_team_profiles
 from avi.sleeper.updater import update as update_sleeper
 from avi.validation.source import (
     validate_fantasypros,
@@ -33,6 +38,11 @@ def parser() -> argparse.ArgumentParser:
     commands.add_parser("build-identities")
     commands.add_parser("build-registry")
     commands.add_parser("calculate-avi")
+    commands.add_parser("build-team-profiles")
+    commands.add_parser("build-player-lookup")
+    commands.add_parser("build-historical-trades")
+    commands.add_parser("build-draft-pick-values")
+    commands.add_parser("daily-update")
 
     commands.add_parser("show-pick-values")
     commands.add_parser("show-league-structure")
@@ -64,6 +74,21 @@ def main() -> None:
 
     elif args.command == "calculate-avi":
         build_avi_players()
+
+    elif args.command == "build-team-profiles":
+        build_team_profiles()
+
+    elif args.command == "build-player-lookup":
+        build_player_lookup()
+
+    elif args.command == "build-historical-trades":
+        build_historical_trades()
+
+    elif args.command == "build-draft-pick-values":
+        build_draft_pick_values()
+
+    elif args.command == "daily-update":
+        run_daily_update(config)
 
     elif args.command == "show-pick-values":
         print(
