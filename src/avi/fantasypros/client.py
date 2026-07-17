@@ -17,7 +17,7 @@ class FantasyProsClient:
         api_key: str,
         api_key_header: str,
         timeout_seconds: int = 60,
-        minimum_request_interval: float = 5.0,
+        minimum_request_interval: float = 80,
         maximum_attempts: int = 6,
         max_requests_per_run: int = 20,
     ) -> None:
