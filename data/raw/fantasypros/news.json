@@ -6,6 +6,57 @@
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
+        "News"
+      ],
+      "created": "2026-07-17 21:46:06",
+      "created_formated": "Fri, Jul 17th 9:46pm UTC",
+      "desc": "Ethan Pocic is signing a one-year deal with the Baltimore Ravens.",
+      "id": 596580,
+      "impact": "Pocic started 97 games in nine NFL seasons before tearing his Achilles last year. He is expected to be healthy and figures to replace former Ravens center Tyler Linderbaum.",
+      "link": "https://www.fantasypros.com/nfl/news/596580/ethan-pocic-signs-one-year-deal-with-ravens.php",
+      "player_id": 16752,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Ethan Pocic signs one-year deal with Ravens"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-17 18:51:55",
+      "created_formated": "Fri, Jul 17th 6:51pm UTC",
+      "desc": "Levi Wallace retired from the NFL after seven seasons.",
+      "id": 596535,
+      "impact": "Wallace last played for the Broncos in 2024. After being an undrafted free agent in 2018, he appeared in 96 games during his career with 72 starts.  ",
+      "link": "https://www.fantasypros.com/nfl/news/596535/levi-wallace-retires-from-nfl.php",
+      "player_id": 17638,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Levi Wallace retires from NFL"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-17 18:50:23",
+      "created_formated": "Fri, Jul 17th 6:50pm UTC",
+      "desc": "The Panthers re-signed OG Brady Christensen.",
+      "id": 596534,
+      "impact": "Christensen made four starts across eight appearances last season. He will remain in a depth role for Carolina. ",
+      "link": "https://www.fantasypros.com/nfl/news/596534/brady-christensen-re-signs-with-panthers.php",
+      "player_id": 22805,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Brady Christensen re-signs with Panthers"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
         "News",
         "Injury"
       ],
@@ -331,58 +382,6 @@
       "sport_id": "NFL",
       "team_id": "ARI",
       "title": "Tip Reiman (ankle) expected to be ready for training camp "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-06-22 15:53:31",
-      "created_formated": "Mon, Jun 22nd 3:53pm UTC",
-      "desc": "Bills S Cole Bishop is expected to be able to participate on the field during training camp. ",
-      "id": 592670,
-      "impact": "Bishop underwent offseason knee surgery which he is working his way back from. He has been sidelined so far in the Bills offseason program. ",
-      "link": "https://www.fantasypros.com/nfl/news/592670/cole-bishop-knee-expected-to-be-ready-training-camp-.php",
-      "player_id": 26229,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Cole Bishop (knee) expected to be ready for training camp "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-06-22 15:49:23",
-      "created_formated": "Mon, Jun 22nd 3:49pm UTC",
-      "desc": "John Keim of ESPN believes the Commanders are expected to involve tight ends more in the passing game this season. ",
-      "id": 592669,
-      "impact": "Chig Okonkwo is expected to lead the Commanders tight end room this season. He will be a tight end sleeper to monitor in the double-digit rounds of drafts this year. ",
-      "link": "https://www.fantasypros.com/nfl/news/592669/chig-okonkwo-commanders-expected-to-involve-tes-more-passing-game.php",
-      "player_id": 23982,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Chig Okonkwo: Commanders expected to involve TE's more in passing game"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-06-22 15:48:37",
-      "created_formated": "Mon, Jun 22nd 3:48pm UTC",
-      "desc": "The NFL could still suspend Falcons EDGE James Pearce Jr.",
-      "id": 592668,
-      "impact": "Pearce Jr. returned to the Falcons' training facility to participate in the team's mandatory minicamp. This will remain a situation to monitor into training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/592668/james-pearce-jr-could-still-be-suspended-by-nfl-.php",
-      "player_id": 27018,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "James Pearce Jr. could still be suspended by NFL "
     }
   ],
   "public_api_limited": true,

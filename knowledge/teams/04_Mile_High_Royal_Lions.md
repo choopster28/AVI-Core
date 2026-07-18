@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-07-17
+- Last updated from Sleeper exports: 2026-07-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 672.8
-- championship_lineup_c_avi_avg: 84.10
-- offensive_roster_c_avi_sum: 888.1
-- offensive_roster_c_avi_avg: 74.01
-- offensive_roster_d_avi_sum: 935.7
-- offensive_roster_d_avi_avg: 77.98
+- championship_lineup_c_avi_sum: 672.1
+- championship_lineup_c_avi_avg: 84.01
+- offensive_roster_c_avi_sum: 887.0
+- offensive_roster_c_avi_avg: 73.92
+- offensive_roster_d_avi_sum: 933.0
+- offensive_roster_d_avi_avg: 77.75
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jalen Hurts | C-AVI: 91.1 | D-AVI: 85.5
 - RB: Jahmyr Gibbs | C-AVI: 99.6 | D-AVI: 92.1
-- RB: J.K. Dobbins | C-AVI: 59.8 | D-AVI: 71.5
-- WR: Drake London | C-AVI: 97.9 | D-AVI: 90.3
-- WR: Garrett Wilson | C-AVI: 90.3 | D-AVI: 86.9
-- TE: Travis Kelce | C-AVI: 84.8 | D-AVI: 80.5
-- FLEX: DJ Moore | C-AVI: 76.2 | D-AVI: 79.6
-- FLEX: Courtland Sutton | C-AVI: 73.1 | D-AVI: 75.6
+- RB: J.K. Dobbins | C-AVI: 59.2 | D-AVI: 70.8
+- WR: Drake London | C-AVI: 97.8 | D-AVI: 90.2
+- WR: Garrett Wilson | C-AVI: 90.4 | D-AVI: 86.8
+- TE: Travis Kelce | C-AVI: 85.0 | D-AVI: 80.4
+- FLEX: DJ Moore | C-AVI: 76.1 | D-AVI: 79.3
+- FLEX: Marvin Harrison | C-AVI: 72.9 | D-AVI: 79.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 59.8
-- Dynasty AVI (D-AVI, 0-100): 71.5
+- Championship AVI (C-AVI, 0-100): 59.2
+- Dynasty AVI (D-AVI, 0-100): 70.8
 - Projected PPR points: 170.6
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 97.9
-- Dynasty AVI (D-AVI, 0-100): 90.3
+- Championship AVI (C-AVI, 0-100): 97.8
+- Dynasty AVI (D-AVI, 0-100): 90.2
 - Projected PPR points: 289.2
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 90.3
-- Dynasty AVI (D-AVI, 0-100): 86.9
+- Championship AVI (C-AVI, 0-100): 90.4
+- Dynasty AVI (D-AVI, 0-100): 86.8
 - Projected PPR points: 245.3
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -172,26 +172,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 76.2
-- Dynasty AVI (D-AVI, 0-100): 79.6
+- Championship AVI (C-AVI, 0-100): 76.1
+- Dynasty AVI (D-AVI, 0-100): 79.3
 - Projected PPR points: 207.6
-- Category: offense
-- Valuation status: PROVISIONAL_V1
-
-### PLAYER: Courtland Sutton
-- Player name: Courtland Sutton
-- Player ID: 5045
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 30.0
-- Championship AVI (C-AVI, 0-100): 73.1
-- Dynasty AVI (D-AVI, 0-100): 75.6
-- Projected PPR points: 204.4
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
@@ -206,9 +189,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 73.1
-- Dynasty AVI (D-AVI, 0-100): 80.1
+- Championship AVI (C-AVI, 0-100): 72.9
+- Dynasty AVI (D-AVI, 0-100): 79.8
 - Projected PPR points: 197.3
+- Category: offense
+- Valuation status: PROVISIONAL_V1
+
+### PLAYER: Courtland Sutton
+- Player name: Courtland Sutton
+- Player ID: 5045
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: DEN
+- Active: True
+- Status: Active
+- Age: 30.0
+- Championship AVI (C-AVI, 0-100): 72.8
+- Dynasty AVI (D-AVI, 0-100): 75.1
+- Projected PPR points: 204.4
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 36.0
-- Championship AVI (C-AVI, 0-100): 84.8
-- Dynasty AVI (D-AVI, 0-100): 80.5
+- Championship AVI (C-AVI, 0-100): 85.0
+- Dynasty AVI (D-AVI, 0-100): 80.4
 - Projected PPR points: 183.7
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 45.3
-- Dynasty AVI (D-AVI, 0-100): 64.1
+- Championship AVI (C-AVI, 0-100): 45.2
+- Dynasty AVI (D-AVI, 0-100): 63.5
 - Projected PPR points: 76.4
 - Category: offense
 - Valuation status: PROVISIONAL_V1

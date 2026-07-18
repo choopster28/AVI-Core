@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "candidate_count": 0,
+    "candidates": [],
+    "fantasypros_id": "14191",
+    "name": "Michael Burton",
+    "normalized_name": "michael burton",
+    "position": "RB",
+    "team": "CLE"
+  },
+  {
+    "candidate_count": 0,
+    "candidates": [],
+    "fantasypros_id": "18571",
+    "name": "Alec Ingold",
+    "normalized_name": "alec ingold",
+    "position": "RB",
+    "team": "LAC"
+  }
+]

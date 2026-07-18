@@ -9703,7 +9703,7 @@
     }
   ],
   "public_api_limited": true,
-  "scoring": "HALF",
+  "scoring": "PPR",
   "season": "2025",
   "tier": "premium"
 }

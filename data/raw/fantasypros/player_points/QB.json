@@ -91,7 +91,7 @@
       "games": 14,
       "player_id": 16413,
       "player_name": "Patrick Mahomes II",
-      "points": 296.18,
+      "points": 296.68,
       "position_id": "QB",
       "team_id": "KC",
       "weeks": {
@@ -99,7 +99,7 @@
         "11": 14.3,
         "12": 18.1,
         "13": 29.4,
-        "14": 8.8,
+        "14": 9.3,
         "15": 14.1,
         "2": 23.1,
         "3": 13.2,
@@ -355,16 +355,16 @@
       }
     },
     {
-      "average": 21.1,
+      "average": 21.2,
       "filename": "drake-maye.php",
       "games": 17,
       "player_id": 23046,
       "player_name": "Drake Maye",
-      "points": 359.46,
+      "points": 359.96,
       "position_id": "QB",
       "team_id": "NE",
       "weeks": {
-        "1": 16.3,
+        "1": 16.8,
         "10": 19.1,
         "11": 15.4,
         "12": 17,
@@ -411,12 +411,12 @@
       }
     },
     {
-      "average": 11.5,
+      "average": 11.6,
       "filename": "spencer-rattler.php",
       "games": 9,
       "player_id": 23081,
       "player_name": "Spencer Rattler",
-      "points": 103.63999999999999,
+      "points": 104.14,
       "position_id": "QB",
       "team_id": "NO",
       "weeks": {
@@ -425,7 +425,7 @@
         "2": 21.7,
         "3": 12.7,
         "4": 13.9,
-        "5": 15.6,
+        "5": 16.1,
         "6": 11.1,
         "7": 13.5,
         "8": 3.6
@@ -475,7 +475,7 @@
       "games": 16,
       "player_id": 9001,
       "player_name": "Aaron Rodgers",
-      "points": 233.57999999999998,
+      "points": 234.07999999999998,
       "position_id": "QB",
       "team_id": "PIT",
       "weeks": {
@@ -483,7 +483,7 @@
         "10": 8.4,
         "11": 9.4,
         "13": 2.7,
-        "14": 21,
+        "14": 21.5,
         "15": 17,
         "16": 15.5,
         "17": 7.3,
@@ -853,7 +853,7 @@
       "games": 17,
       "player_id": 23084,
       "player_name": "Caleb Williams",
-      "points": 324.17999999999995,
+      "points": 325.17999999999995,
       "position_id": "QB",
       "team_id": "CHI",
       "weeks": {
@@ -873,7 +873,7 @@
         "6": 19.9,
         "7": 5.7,
         "8": 12.8,
-        "9": 37.7
+        "9": 38.7
       }
     },
     {
@@ -1230,17 +1230,17 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 1.1,
       "filename": "anthony-richardson.php",
       "games": 2,
       "player_id": 24347,
       "player_name": "Anthony Richardson Sr.",
-      "points": 1.66,
+      "points": 2.1599999999999997,
       "position_id": "QB",
       "team_id": "IND",
       "weeks": {
         "3": -0.1,
-        "5": 1.8
+        "5": 2.3
       }
     },
     {
@@ -1383,17 +1383,17 @@
       }
     },
     {
-      "average": 8.9,
+      "average": 9,
       "filename": "quinn-ewers.php",
       "games": 4,
       "player_id": 23680,
       "player_name": "Quinn Ewers",
-      "points": 35.68,
+      "points": 36.18,
       "position_id": "QB",
       "team_id": "MIA",
       "weeks": {
         "16": 8.9,
-        "17": 15.3,
+        "17": 15.8,
         "18": 9.4,
         "7": 2.1
       }
@@ -1553,17 +1553,17 @@
       }
     },
     {
-      "average": 14.9,
+      "average": 15.1,
       "filename": "jameis-winston.php",
       "games": 3,
       "player_id": 13891,
       "player_name": "Jameis Winston",
-      "points": 44.78,
+      "points": 45.28,
       "position_id": "QB",
       "team_id": "NYG",
       "weeks": {
         "11": 12,
-        "12": 32.7,
+        "12": 33.2,
         "15": 0
       }
     },
@@ -1731,7 +1731,7 @@
     }
   ],
   "public_api_limited": true,
-  "scoring": "HALF",
+  "scoring": "PPR",
   "season": "2025",
   "tier": "premium"
 }
