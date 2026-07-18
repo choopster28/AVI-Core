@@ -18,15 +18,15 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - kickers: 1
 - idp: 2
 - other: 0
-- keepers: 14
+- keepers: 13
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 724.8
 - championship_lineup_c_avi_avg: 90.60
-- offensive_roster_c_avi_sum: 862.9
-- offensive_roster_c_avi_avg: 78.45
-- offensive_roster_d_avi_sum: 891.9
-- offensive_roster_d_avi_avg: 81.08
+- offensive_roster_c_avi_sum: 875.0
+- offensive_roster_c_avi_avg: 79.55
+- offensive_roster_d_avi_sum: 904.5
+- offensive_roster_d_avi_avg: 82.23
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -59,20 +59,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
-### PLAYER: Jacoby Brissett
-- Player name: Jacoby Brissett
-- Player ID: 3257
+### PLAYER: Baker Mayfield
+- Player name: Baker Mayfield
+- Player ID: 4892
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: QB
 - Fantasy positions: ['QB']
-- NFL team: ARI
+- NFL team: TB
 - Active: True
 - Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 42.1
-- Dynasty AVI (D-AVI, 0-100): 59.0
-- Projected PPR points: 232.4
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 54.2
+- Dynasty AVI (D-AVI, 0-100): 71.6
+- Projected PPR points: 282.0
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 

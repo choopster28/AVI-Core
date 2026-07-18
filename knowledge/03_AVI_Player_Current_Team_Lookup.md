@@ -72,9 +72,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Baker Mayfield
 - Player ID: 4892
 - Position: QB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Bhayshul Tuten
 - Player name: Bhayshul Tuten
@@ -544,9 +544,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jacoby Brissett
 - Player ID: 3257
 - Position: QB
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Jacory Croskey-Merritt
 - Player name: Jacory Croskey-Merritt
@@ -1725,6 +1725,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 69.0
 - Availability: available
 
+## AVAILABLE PLAYER: Mike Washington
+- Player name: Mike Washington
+- Player ID: 13305
+- Position: RB
+- NFL team: LVR
+- Championship AVI (C-AVI, 0-100): 43.3
+- Dynasty AVI (D-AVI, 0-100): 61.6
+- Availability: available
+
 ## AVAILABLE PLAYER: Troy Franklin
 - Player name: Troy Franklin
 - Player ID: 11627
@@ -1732,15 +1741,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: DEN
 - Championship AVI (C-AVI, 0-100): 43.3
 - Dynasty AVI (D-AVI, 0-100): 62.7
-- Availability: available
-
-## AVAILABLE PLAYER: Mike Washington
-- Player name: Mike Washington
-- Player ID: 13305
-- Position: RB
-- NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 43.2
-- Dynasty AVI (D-AVI, 0-100): 61.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Geno Smith
@@ -1919,8 +1919,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11647
 - Position: RB
 - NFL team: LAC
-- Championship AVI (C-AVI, 0-100): 39.1
-- Dynasty AVI (D-AVI, 0-100): 58.4
+- Championship AVI (C-AVI, 0-100): 39.0
+- Dynasty AVI (D-AVI, 0-100): 58.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Chris Bell
@@ -2136,7 +2136,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 35.3
-- Dynasty AVI (D-AVI, 0-100): 60.9
+- Dynasty AVI (D-AVI, 0-100): 61.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Pat Bryant
@@ -2738,8 +2738,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12476
 - Position: RB
 - NFL team: NO
-- Championship AVI (C-AVI, 0-100): 24.2
-- Dynasty AVI (D-AVI, 0-100): 52.3
+- Championship AVI (C-AVI, 0-100): 24.3
+- Dynasty AVI (D-AVI, 0-100): 52.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Xavier Hutchinson

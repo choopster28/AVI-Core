@@ -3,6 +3,59 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-18 21:00:50",
+      "created_formated": "Sat, Jul 18th 9:00pm UTC",
+      "desc": "The San Francisco 49ers have placed Khalil Dinkins on the active/non-football injured list.",
+      "id": 596807,
+      "impact": "Dinkins signed with the 49ers as an undrafted free agent this offseason, and he has now been placed on the injured list. He had dealt with an injury during his time at Penn State, but the nature and extent of this injury remain unknown.",
+      "link": "https://www.fantasypros.com/nfl/news/596807/khalil-dinkins-placed-on-activenon-football-injured-list.php",
+      "player_id": 28436,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Khalil Dinkins placed on active/non-football injured list"
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-18 20:56:51",
+      "created_formated": "Sat, Jul 18th 8:56pm UTC",
+      "desc": "Jack Bouwmeester has signed a 3-year contract with the San Francisco 49ers.",
+      "id": 596806,
+      "impact": "Bouwmeester is the second punter the 49ers have signed this offseason, as he joins a depth chart that also features Corliss Waitman. In a corresponding move, Khalil Dinkins was placed on the active/non-football injured list.",
+      "link": "https://www.fantasypros.com/nfl/news/596806/jack-bouwmeester-signs-3-year-deal-with-49ers.php",
+      "player_id": 28566,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Jack Bouwmeester signs 3-year deal with 49ers"
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-18 20:43:21",
+      "created_formated": "Sat, Jul 18th 8:43pm UTC",
+      "desc": "Deven Eastern has been placed on the physically unable to perform list with an unspecified injury.",
+      "id": 596803,
+      "impact": "The injury is unknown, so Eastern's timetable for return is currently up in the air. Eastern was taken by the Seattle Seahawks in the seventh round of the 2026 NFL Draft.",
+      "link": "https://www.fantasypros.com/nfl/news/596803/deven-eastern-placed-on-pup-list.php",
+      "player_id": 28281,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Deven Eastern placed on PUP list"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -328,60 +381,6 @@
       "sport_id": "NFL",
       "team_id": "GB",
       "title": "Tucker Kraft (knee) on track to be full go by Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-06-24 15:24:19",
-      "created_formated": "Wed, Jun 24th 3:24pm UTC",
-      "desc": "Ja'Tavion Sanders reportedly looked good running around in the early offseason.",
-      "id": 593081,
-      "impact": "Sanders is working his way back from a broken ankle he suffered in Week 17 last season. He appears to be on track to being a full-go in training camp at this rate. ",
-      "link": "https://www.fantasypros.com/nfl/news/593081/jatavion-sanders-ankle-looked-good-running-early-offseason-.php",
-      "player_id": 24334,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Ja'Tavion Sanders (ankle) looked good running early in offseason "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Breaking"
-      ],
-      "created": "2026-06-23 20:59:59",
-      "created_formated": "Tue, Jun 23rd 8:59pm UTC",
-      "desc": "Kyle Pitts Sr. has agreed to a 3-year, $54 million extension with the Atlanta Falcons.",
-      "id": 592923,
-      "impact": "After coming off arguably his best season as a pro, Pitts gets the bag. He will operate as the teams second target behind Drake London and TE1 in a tight end friendly Stefanski system. It's wheels up for the still young Pitts.",
-      "link": "https://www.fantasypros.com/nfl/news/592923/kyle-pitts-sr-agrees-to-3-year-54-million-extension-with-falcons.php",
-      "player_id": 20164,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Kyle Pitts Sr. agrees to 3-year, $54 million extension with Falcons"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-06-22 15:55:32",
-      "created_formated": "Mon, Jun 22nd 3:55pm UTC",
-      "desc": "Cardinals coach Mike LaFleur said he expects TE Tip Reiman to be \"ready to roll\" when training camp starts.",
-      "id": 592671,
-      "impact": "Reiman figures to remain in a primary blocking role in the Cardinals tight end room. He has been mentioned multiple times this offseason by LaFleur. ",
-      "link": "https://www.fantasypros.com/nfl/news/592671/tip-reiman-ankle-expected-to-be-ready-training-camp-.php",
-      "player_id": 26432,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Tip Reiman (ankle) expected to be ready for training camp "
     }
   ],
   "public_api_limited": true,

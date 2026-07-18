@@ -18,15 +18,15 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - kickers: 0
 - idp: 1
 - other: 0
-- keepers: 13
+- keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 707.6
 - championship_lineup_c_avi_avg: 88.45
-- offensive_roster_c_avi_sum: 937.4
-- offensive_roster_c_avi_avg: 72.11
-- offensive_roster_d_avi_sum: 996.6
-- offensive_roster_d_avi_avg: 76.66
+- offensive_roster_c_avi_sum: 925.3
+- offensive_roster_c_avi_avg: 71.18
+- offensive_roster_d_avi_sum: 984.0
+- offensive_roster_d_avi_avg: 75.69
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -59,20 +59,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
-### PLAYER: Baker Mayfield
-- Player name: Baker Mayfield
-- Player ID: 4892
+### PLAYER: Jacoby Brissett
+- Player name: Jacoby Brissett
+- Player ID: 3257
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: QB
 - Fantasy positions: ['QB']
-- NFL team: TB
+- NFL team: ARI
 - Active: True
 - Status: Active
-- Age: 31.0
-- Championship AVI (C-AVI, 0-100): 54.2
-- Dynasty AVI (D-AVI, 0-100): 71.6
-- Projected PPR points: 282.0
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 42.1
+- Dynasty AVI (D-AVI, 0-100): 59.0
+- Projected PPR points: 232.4
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 

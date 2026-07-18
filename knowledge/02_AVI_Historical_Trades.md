@@ -17,25 +17,25 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **61**
-- Owner trade participations: **123**
-- Two-team trades: **60**
+- Unique completed trades: **62**
+- Owner trade participations: **125**
+- Two-team trades: **61**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **18**
+- 2026 completed trades: **19**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-07-15T20:56:47.307000+00:00**
+- Latest verified trade: **2026-07-18T22:40:23.550000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co.  | awang1900 | **16** | 7 | 4 | 5 | 26 | 24 | 9 | 18 | 7 | 10 |
-| 2 | Big Balder Brand | Choopski | **15** | 7 | 2 | 6 | 24 | 27 | 9 | 13 | 5 | 8 |
+| 1 | Big Balder Brand | Choopski | **16** | 7 | 2 | 7 | 25 | 28 | 9 | 13 | 5 | 8 |
+| 2 | Corgi Loaf Baking Co.  | awang1900 | **16** | 7 | 4 | 5 | 26 | 24 | 9 | 18 | 7 | 10 |
 | 3 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 16 | 9 | 6 | 5 |
-| 4 | Ravens Regime  | Mentomorii | **13** | 3 | 3 | 7 | 10 | 16 | 14 | 8 | 8 | 5 |
-| 5 | Conquistadors | Thecan | **12** | 6 | 2 | 4 | 11 | 13 | 8 | 15 | 4 | 5 |
+| 4 | Conquistadors | Thecan | **13** | 6 | 2 | 5 | 12 | 14 | 8 | 15 | 4 | 5 |
+| 5 | Ravens Regime  | Mentomorii | **13** | 3 | 3 | 7 | 10 | 16 | 14 | 8 | 8 | 5 |
 | 6 | Badland Banditos  | IcebergSlim69 | **9** | 4 | 4 | 1 | 9 | 11 | 5 | 10 | 3 | 3 |
 | 7 | DMV Fantasy | TacticsNoob | **9** | 5 | 2 | 2 | 15 | 11 | 8 | 3 | 4 | 2 |
 | 8 | Mile High Royal Lions | shawnh56 | **8** | 0 | 8 | 0 | 9 | 11 | 10 | 11 | 2 | 5 |
@@ -70,6 +70,24 @@
 | Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1384338064138043392
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-07-18T22:40:23.550000+00:00
+- Teams involved: 2
+
+#### Conquistadors (Thecan)
+- Players received: Baker Mayfield
+- Players sent: Jacoby Brissett
+- Picks received: None
+- Picks sent: None
+
+#### Big Balder Brand (Choopski)
+- Players received: Jacoby Brissett
+- Players sent: Baker Mayfield
+- Picks received: None
+- Picks sent: None
 
 ### TRADE: 1383224827728367616
 - Season: 2026
