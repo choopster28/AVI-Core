@@ -3,7 +3,8 @@ name: Daily AVI Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: "08 11 * * *"
+    - cron: "08 12 * * *"   # 5:08 AM MST
+    - cron: "15 22 * * *"   # 3:15 PM MST
 
 permissions:
   contents: write
