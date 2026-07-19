@@ -17,9 +17,9 @@ class FantasyProsClient:
         api_key: str,
         api_key_header: str,
         timeout_seconds: int = 60,
-        minimum_request_interval: float = 80,
+        minimum_request_interval: float = 5,
         maximum_attempts: int = 6,
-        max_requests_per_run: int = 20,
+        max_requests_per_run: int = 50,
     ) -> None:
         if not api_key:
             raise RuntimeError(
