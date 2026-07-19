@@ -9,15 +9,15 @@
     2027,
     2028
   ],
-  "generated_at_utc": "2026-07-18T23:38:22.826259+00:00",
+  "generated_at_utc": "2026-07-19T03:48:36.484249+00:00",
   "league_id": "1312185568032997376",
   "max_rounds": 10,
   "pick_count": 480,
   "picks": [
     {
       "avi_category": "Elite Franchise Asset",
-      "current_owner_roster_id": 9,
-      "current_owner_team": "Big Balder Brand",
+      "current_owner_roster_id": 1,
+      "current_owner_team": "Conquistadors",
       "draft_pick_avi": 95.0,
       "original_roster_id": 12,
       "original_team": "DMV Fantasy",
@@ -1108,8 +1108,8 @@
     },
     {
       "avi_category": "Replacement / Watch List",
-      "current_owner_roster_id": 1,
-      "current_owner_team": "Conquistadors",
+      "current_owner_roster_id": 9,
+      "current_owner_team": "Big Balder Brand",
       "draft_pick_avi": 1.4,
       "original_roster_id": 1,
       "original_team": "Conquistadors",

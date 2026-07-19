@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-18T23:38:22.990805+00:00",
+  "generated_at_utc": "2026-07-19T03:48:36.907321+00:00",
   "statistics": {
-    "owner_trade_participations": 125,
+    "owner_trade_participations": 127,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -147,18 +147,18 @@
         "by_season": {
           "2024": 7,
           "2025": 2,
-          "2026": 7
+          "2026": 8
         },
         "firsts_in": 5,
-        "firsts_out": 8,
+        "firsts_out": 9,
         "owner_display_name": "Choopski",
-        "picks_in": 9,
-        "picks_out": 13,
-        "players_in": 25,
-        "players_out": 28,
+        "picks_in": 10,
+        "picks_out": 14,
+        "players_in": 26,
+        "players_out": 29,
         "roster_id": 9,
         "team_name": "Big Balder Brand",
-        "total": 16
+        "total": 17
       },
       {
         "by_season": {
@@ -198,18 +198,18 @@
         "by_season": {
           "2024": 6,
           "2025": 2,
-          "2026": 5
+          "2026": 6
         },
-        "firsts_in": 4,
+        "firsts_in": 5,
         "firsts_out": 5,
         "owner_display_name": "Thecan",
-        "picks_in": 8,
-        "picks_out": 15,
-        "players_in": 12,
-        "players_out": 14,
+        "picks_in": 9,
+        "picks_out": 16,
+        "players_in": 13,
+        "players_out": 15,
         "roster_id": 1,
         "team_name": "Conquistadors",
-        "total": 13
+        "total": 14
       },
       {
         "by_season": {
@@ -407,10 +407,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 19
+      "2026": 20
     },
-    "two_team_trades": 61,
-    "unique_completed_trades": 62
+    "two_team_trades": 62,
+    "unique_completed_trades": 63
   },
   "trades": [
     {
@@ -5335,6 +5335,86 @@
         }
       ],
       "transaction_id": "1384338064138043392",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-19T02:51:50.316000+00:00",
+      "created_timestamp_ms": 1784429510316,
+      "roster_ids": [
+        1,
+        9
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 12,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 5,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "3257",
+              "player_name": "Jacoby Brissett"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4892",
+              "player_name": "Baker Mayfield"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 5,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 12,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4892",
+              "player_name": "Baker Mayfield"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "3257",
+              "player_name": "Jacoby Brissett"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        }
+      ],
+      "transaction_id": "1384401342625226752",
       "week": 1
     }
   ]

@@ -72,9 +72,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Baker Mayfield
 - Player ID: 4892
 - Position: QB
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Bhayshul Tuten
 - Player name: Bhayshul Tuten
@@ -544,9 +544,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jacoby Brissett
 - Player ID: 3257
 - Position: QB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Jacory Croskey-Merritt
 - Player name: Jacory Croskey-Merritt

@@ -3333,14 +3333,14 @@
       "c_avi": 54.2,
       "d_avi": 71.6,
       "nfl_team": "TB",
-      "owner_id": "736993578450030592",
+      "owner_id": "863881053000011776",
       "player_name": "Baker Mayfield",
       "position": "QB",
-      "roster_id": 1,
+      "roster_id": 9,
       "sleeper_id": "4892",
       "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -4277,14 +4277,14 @@
       "c_avi": 42.1,
       "d_avi": 59.0,
       "nfl_team": "ARI",
-      "owner_id": "863881053000011776",
+      "owner_id": "736993578450030592",
       "player_name": "Jacoby Brissett",
       "position": "QB",
-      "roster_id": 9,
+      "roster_id": 1,
       "sleeper_id": "3257",
       "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,

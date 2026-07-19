@@ -17,8 +17,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Slot: 1
 - Original team: DMV Fantasy
 - Original roster ID: 12
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
 - Draft Pick AVI: 95.0
 - AVI category: Elite Franchise Asset
 - Validation status: verified_current_draft_order
@@ -1031,8 +1031,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Slot: 15
 - Original team: Conquistadors
 - Original roster ID: 1
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
 - Draft Pick AVI: 1.4
 - AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
