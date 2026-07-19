@@ -1,4 +1,4 @@
-name: Update Sleeper Data
+name: Manual Sleeper Update
 
 on:
   workflow_dispatch:
@@ -7,44 +7,77 @@ permissions:
   contents: write
 
 jobs:
-  update-sleeper:
+  manual-sleeper-update:
     runs-on: ubuntu-latest
 
     env:
       SLEEPER_LEAGUE_ID: ${{ secrets.SLEEPER_LEAGUE_ID }}
 
+      SLEEPER_BASE_URL: "https://api.sleeper.app/v1"
+
+      AVI_EARLIEST_SEASON: "2024"
+      TRANSACTION_START_WEEK: "0"
+      TRANSACTION_END_WEEK: "18"
+      AVI_EXPECTED_TEAM_COUNT: "16"
+      AVI_MINIMUM_COMPLETED_TRADES: "61"
+
+      AVI_SEASON: "2026"
+      AVI_SCORING: "HALF"
+      AVI_METHODOLOGY_VERSION: "2026.1"
+
     steps:
-      - name: Checkout repository
+      - name: Check out AVI Core
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
 
-      - name: Install dependencies
+      - name: Install AVI Core
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          python -m pip install -e .
 
-      - name: Run Sleeper Update
+      - name: Update rosters and traded picks from Sleeper
+        run: python -m avi.cli update-sleeper
+
+      - name: Validate Sleeper data
+        run: python -m avi.cli validate-sleeper
+
+      - name: Rebuild player lookup
+        run: python -m avi.cli build-player-lookup
+
+      - name: Rebuild draft pick values
+        run: python -m avi.cli build-draft-pick-values
+
+      - name: Rebuild historical trades
+        run: python -m avi.cli build-historical-trades
+
+      - name: Upload manual Sleeper snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: avi-manual-sleeper-snapshot
+          path: |
+            data/raw/
+            data/processed/
+            knowledge/
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Commit updated Sleeper data
         run: |
-          PYTHONPATH=src python -m avi.cli update-sleeper
+          git config user.name "avi-automation"
+          git config user.email "avi-automation@users.noreply.github.com"
 
-      - name: Validate Sleeper Data
-        run: |
-          PYTHONPATH=src python -m avi.cli validate-sleeper
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add .
+          git add data knowledge
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No Sleeper data changes to commit."
           else
-            git commit -m "Manual Sleeper update"
+            git commit -m "Manual Sleeper roster, picks, lookup, and trades update"
             git push
           fi
