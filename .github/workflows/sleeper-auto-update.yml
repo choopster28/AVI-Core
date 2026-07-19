@@ -1,0 +1,87 @@
+name: Automatic Sleeper Update
+
+on:
+  schedule:
+    - cron: "0 0,3,6,9,12,15,18,21 * * *"
+    - cron: "30 1,4,7,10,13,16,19,22 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auto-sleeper-update:
+    runs-on: ubuntu-latest
+
+    env:
+      SLEEPER_LEAGUE_ID: ${{ secrets.SLEEPER_LEAGUE_ID }}
+
+      SLEEPER_BASE_URL: "https://api.sleeper.app/v1"
+
+      AVI_EARLIEST_SEASON: "2024"
+      TRANSACTION_START_WEEK: "0"
+      TRANSACTION_END_WEEK: "18"
+      AVI_EXPECTED_TEAM_COUNT: "16"
+      AVI_MINIMUM_COMPLETED_TRADES: "60"
+
+      AVI_SEASON: "2026"
+      AVI_SCORING: "PPR"
+      AVI_METHODOLOGY_VERSION: "2026.1"
+
+    steps:
+      - name: Check out AVI Core
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install AVI Core
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e .
+
+      - name: Update rosters and traded picks from Sleeper
+        run: python -m avi.cli update-sleeper
+
+      - name: Validate Sleeper data
+        run: python -m avi.cli validate-sleeper
+
+      - name: Rebuild player lookup
+        run: python -m avi.cli build-player-lookup
+
+      - name: Rebuild draft pick values
+        run: python -m avi.cli build-draft-pick-values
+
+      - name: Rebuild historical trades
+        run: python -m avi.cli build-historical-trades
+
+      - name: Upload Sleeper snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: avi-auto-sleeper-snapshot
+          path: |
+            data/raw/
+            data/processed/
+            knowledge/
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Commit updated Sleeper data
+        run: |
+          git config user.name "avi-automation"
+          git config user.email "avi-automation@users.noreply.github.com"
+
+          git add data knowledge
+
+          if git diff --cached --quiet; then
+            echo "No Sleeper data changes to commit."
+          else
+            git commit -m "Automatic Sleeper update"
+            git push
+          fi
