@@ -17,24 +17,24 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **63**
-- Owner trade participations: **127**
-- Two-team trades: **62**
+- Unique completed trades: **64**
+- Owner trade participations: **129**
+- Two-team trades: **63**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **20**
+- 2026 completed trades: **21**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-07-19T02:51:50.316000+00:00**
+- Latest verified trade: **2026-07-19T04:35:06.839000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Big Balder Brand | Choopski | **17** | 7 | 2 | 8 | 26 | 29 | 10 | 14 | 5 | 9 |
+| 1 | Big Balder Brand | Choopski | **18** | 7 | 2 | 9 | 26 | 29 | 11 | 15 | 6 | 9 |
 | 2 | Corgi Loaf Baking Co.  | awang1900 | **16** | 7 | 4 | 5 | 26 | 24 | 9 | 18 | 7 | 10 |
-| 3 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 16 | 9 | 6 | 5 |
-| 4 | Conquistadors | Thecan | **14** | 6 | 2 | 6 | 13 | 15 | 9 | 16 | 5 | 5 |
+| 3 | Conquistadors | Thecan | **15** | 6 | 2 | 7 | 13 | 15 | 10 | 17 | 5 | 6 |
+| 4 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 16 | 9 | 6 | 5 |
 | 5 | Ravens Regime  | Mentomorii | **13** | 3 | 3 | 7 | 10 | 16 | 14 | 8 | 8 | 5 |
 | 6 | Badland Banditos  | IcebergSlim69 | **9** | 4 | 4 | 1 | 9 | 11 | 5 | 10 | 3 | 3 |
 | 7 | DMV Fantasy | TacticsNoob | **9** | 5 | 2 | 2 | 15 | 11 | 8 | 3 | 4 | 2 |
@@ -70,6 +70,24 @@
 | Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1384427332722233344
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-07-19T04:35:06.839000+00:00
+- Teams involved: 2
+
+#### Conquistadors (Thecan)
+- Players received: None
+- Players sent: None
+- Picks received: 2026 Round 5 (original roster 1)
+- Picks sent: 2026 Round 1 (original roster 12)
+
+#### Big Balder Brand (Choopski)
+- Players received: None
+- Players sent: None
+- Picks received: 2026 Round 1 (original roster 12)
+- Picks sent: 2026 Round 5 (original roster 1)
 
 ### TRADE: 1384401342625226752
 - Season: 2026
