@@ -19,7 +19,7 @@ jobs:
 
       SLEEPER_BASE_URL: "https://api.sleeper.app/v1"
 
-      AVI_EARLIEST_SEASON: "2024"
+      AVI_EARLIEST_SEASON: "2025"
       TRANSACTION_START_WEEK: "0"
       TRANSACTION_END_WEEK: "18"
       AVI_EXPECTED_TEAM_COUNT: "16"
