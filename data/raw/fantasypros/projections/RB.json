@@ -1794,34 +1794,6 @@
       "team_id": "BAL"
     },
     {
-      "filename": "marshawn-lloyd.php",
-      "fpid": 23118,
-      "mflid": 16604,
-      "name": "MarShawn Lloyd",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.32,
-        "points": 52.39,
-        "points_half": 58.41,
-        "points_ppr": 64.44,
-        "rec_rec": 12.05,
-        "rec_tds": 0.56,
-        "rec_yds": 85.22,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 67.2,
-        "rush_tds": 2.09,
-        "rush_yds": 286.04,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "GB"
-    },
-    {
       "filename": "christopher-brooks.php",
       "fpid": 25823,
       "mflid": 16387,
@@ -2044,6 +2016,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "NO"
+    },
+    {
+      "filename": "marshawn-lloyd.php",
+      "fpid": 23118,
+      "mflid": 16604,
+      "name": "MarShawn Lloyd",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.16,
+        "points": 36.64,
+        "points_half": 39.91,
+        "points_ppr": 43.17,
+        "rec_rec": 6.53,
+        "rec_tds": 0.28,
+        "rec_yds": 48.61,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 50.6,
+        "rush_tds": 1.55,
+        "rush_yds": 211.52,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "GB"
     },
     {
       "filename": "george-holani.php",
@@ -2298,6 +2298,34 @@
       "team_id": "NYJ"
     },
     {
+      "filename": "jonah-coleman.php",
+      "fpid": 27320,
+      "mflid": 17477,
+      "name": "Jonah Coleman",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.16,
+        "points": 27.55,
+        "points_half": 34.1,
+        "points_ppr": 40.65,
+        "rec_rec": 13.1,
+        "rec_tds": 0.6,
+        "rec_yds": 94.09,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 24.53,
+        "rush_tds": 0.78,
+        "rush_yds": 101.76,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "DEN"
+    },
+    {
       "filename": "dj-giddens.php",
       "fpid": 27097,
       "mflid": 17060,
@@ -2380,34 +2408,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "NO"
-    },
-    {
-      "filename": "jonah-coleman.php",
-      "fpid": 27320,
-      "mflid": 17477,
-      "name": "Jonah Coleman",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.08,
-        "points": 24.62,
-        "points_half": 28.65,
-        "points_ppr": 32.67,
-        "rec_rec": 8.05,
-        "rec_tds": 0.3,
-        "rec_yds": 58.55,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 28.27,
-        "rush_tds": 0.89,
-        "rush_yds": 117.88,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "DEN"
     },
     {
       "filename": "elijah-mitchell-rb.php",
@@ -2718,6 +2718,34 @@
       "team_id": "CAR"
     },
     {
+      "filename": "deuce-vaughn.php",
+      "fpid": 22984,
+      "mflid": 16176,
+      "name": "Deuce Vaughn",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 21.2,
+        "points_half": 21.7,
+        "points_ppr": 22.2,
+        "rec_rec": 1,
+        "rec_tds": 0,
+        "rec_yds": 9,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 32,
+        "rush_tds": 1,
+        "rush_yds": 143,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "FA"
+    },
+    {
       "filename": "donovan-edwards.php",
       "fpid": 23014,
       "mflid": 17057,
@@ -2856,34 +2884,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "MIN"
-    },
-    {
-      "filename": "jeremy-mcnichols.php",
-      "fpid": 16445,
-      "mflid": 13143,
-      "name": "Jeremy McNichols",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 20.2,
-        "points_half": 23.7,
-        "points_ppr": 27.2,
-        "rec_rec": 7,
-        "rec_tds": 0,
-        "rec_yds": 54,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 17,
-        "rush_tds": 1,
-        "rush_yds": 88,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "WAS"
     },
     {
       "filename": "seth-mcgowan.php",
