@@ -29,21 +29,22 @@ jobs:
 
       - name: Run Sleeper Update
         run: |
-          python -m src.avi.cli update-sleeper
+          PYTHONPATH=src python -m avi.cli update-sleeper
 
       - name: Validate Sleeper Data
         run: |
-          python -m src.avi.cli validate-sleeper
+          PYTHONPATH=src python -m avi.cli validate-sleeper
 
-      - name: Commit updated Sleeper data
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add .
 
-          git diff --cached --quiet || git commit -m "Manual Sleeper data update"
-
-      - name: Push changes
-        run: |
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Manual Sleeper update"
+            git push
+          fi
