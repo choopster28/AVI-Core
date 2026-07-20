@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-07-19
+- Last updated from Sleeper exports: 2026-07-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 546.2
-- championship_lineup_c_avi_avg: 68.28
-- offensive_roster_c_avi_sum: 652.6
-- offensive_roster_c_avi_avg: 59.33
-- offensive_roster_d_avi_sum: 793.4
-- offensive_roster_d_avi_avg: 72.13
+- championship_lineup_c_avi_sum: 545.4
+- championship_lineup_c_avi_avg: 68.17
+- offensive_roster_c_avi_sum: 651.8
+- offensive_roster_c_avi_avg: 59.25
+- offensive_roster_d_avi_sum: 793.1
+- offensive_roster_d_avi_avg: 72.10
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Caleb Williams | C-AVI: 71.0 | D-AVI: 83.2
-- RB: Quinshon Judkins | C-AVI: 76.1 | D-AVI: 82.6
-- RB: Rhamondre Stevenson | C-AVI: 64.4 | D-AVI: 74.0
+- QB: Caleb Williams | C-AVI: 71.2 | D-AVI: 83.2
+- RB: Quinshon Judkins | C-AVI: 75.8 | D-AVI: 82.5
+- RB: Rhamondre Stevenson | C-AVI: 64.1 | D-AVI: 73.9
 - WR: Wan'Dale Robinson | C-AVI: 67.9 | D-AVI: 75.5
 - WR: Quentin Johnston | C-AVI: 59.0 | D-AVI: 70.4
 - TE: Colston Loveland | C-AVI: 98.1 | D-AVI: 91.1
 - FLEX: AJ Barner | C-AVI: 55.1 | D-AVI: 73.9
-- FLEX: Blake Corum | C-AVI: 54.6 | D-AVI: 71.9
+- FLEX: Blake Corum | C-AVI: 54.2 | D-AVI: 71.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,7 +53,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 71.0
+- Championship AVI (C-AVI, 0-100): 71.2
 - Dynasty AVI (D-AVI, 0-100): 83.2
 - Projected PPR points: 299.8
 - Category: offense
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 76.1
-- Dynasty AVI (D-AVI, 0-100): 82.6
+- Championship AVI (C-AVI, 0-100): 75.8
+- Dynasty AVI (D-AVI, 0-100): 82.5
 - Projected PPR points: 213.7
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 64.4
-- Dynasty AVI (D-AVI, 0-100): 74.0
+- Championship AVI (C-AVI, 0-100): 64.1
+- Dynasty AVI (D-AVI, 0-100): 73.9
 - Projected PPR points: 185.8
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 54.6
-- Dynasty AVI (D-AVI, 0-100): 71.9
+- Championship AVI (C-AVI, 0-100): 54.2
+- Dynasty AVI (D-AVI, 0-100): 71.8
 - Projected PPR points: 138.6
 - Category: offense
 - Valuation status: PROVISIONAL_V1

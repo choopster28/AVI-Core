@@ -153,15 +153,6 @@
     "sleeper_id": "2306"
   },
   {
-    "confidence": "verified",
-    "fantasypros_id": "13924",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "JAC",
-    "player_name": "Ameer Abdullah",
-    "position": "RB",
-    "sleeper_id": "2359"
-  },
-  {
     "confidence": "review",
     "fantasypros_id": "13971",
     "match_method": "exact_name_position",
@@ -1171,15 +1162,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "19471",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NO",
-    "player_name": "Ty Chandler",
-    "position": "RB",
-    "sleeper_id": "8230"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "19483",
     "match_method": "exact_name_position_unique",
     "nfl_team": "WAS",
@@ -1339,15 +1321,6 @@
     "player_name": "Darnell Mooney",
     "position": "WR",
     "sleeper_id": "7090"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "19844",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NE",
-    "player_name": "Reggie Gilliam",
-    "position": "RB",
-    "sleeper_id": "7204"
   },
   {
     "confidence": "verified",
@@ -2287,15 +2260,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "23812",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DEN",
-    "player_name": "Tyler Badie",
-    "position": "RB",
-    "sleeper_id": "8208"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "23837",
     "match_method": "exact_name_position_unique",
     "nfl_team": "CIN",
@@ -2575,6 +2539,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "24740",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PHI",
+    "player_name": "Tanner McKee",
+    "position": "QB",
+    "sleeper_id": "9230"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "24755",
     "match_method": "exact_name_position_unique",
     "nfl_team": "TEN",
@@ -2716,6 +2689,15 @@
     "player_name": "Tre Tucker",
     "position": "WR",
     "sleeper_id": "10213"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "25339",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SEA",
+    "player_name": "Jake Bobo",
+    "position": "WR",
+    "sleeper_id": "10867"
   },
   {
     "confidence": "verified",

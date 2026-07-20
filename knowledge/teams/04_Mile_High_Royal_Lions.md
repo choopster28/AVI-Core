@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-07-19
+- Last updated from Sleeper exports: 2026-07-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 671.2
-- championship_lineup_c_avi_avg: 83.90
-- offensive_roster_c_avi_sum: 885.7
-- offensive_roster_c_avi_avg: 73.81
-- offensive_roster_d_avi_sum: 932.5
-- offensive_roster_d_avi_avg: 77.71
+- championship_lineup_c_avi_sum: 671.0
+- championship_lineup_c_avi_avg: 83.88
+- offensive_roster_c_avi_sum: 886.3
+- offensive_roster_c_avi_avg: 73.86
+- offensive_roster_d_avi_sum: 932.8
+- offensive_roster_d_avi_avg: 77.73
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jalen Hurts | C-AVI: 91.1 | D-AVI: 85.5
 - RB: Jahmyr Gibbs | C-AVI: 99.6 | D-AVI: 92.1
-- RB: J.K. Dobbins | C-AVI: 59.1 | D-AVI: 70.8
+- RB: J.K. Dobbins | C-AVI: 58.8 | D-AVI: 70.7
 - WR: Drake London | C-AVI: 97.8 | D-AVI: 90.2
 - WR: Garrett Wilson | C-AVI: 90.2 | D-AVI: 86.8
 - TE: Travis Kelce | C-AVI: 84.8 | D-AVI: 80.4
 - FLEX: DJ Moore | C-AVI: 75.9 | D-AVI: 79.3
-- FLEX: Courtland Sutton | C-AVI: 72.7 | D-AVI: 75.0
+- FLEX: Marvin Harrison | C-AVI: 72.8 | D-AVI: 79.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -70,7 +70,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 38.0
-- Championship AVI (C-AVI, 0-100): 60.1
+- Championship AVI (C-AVI, 0-100): 60.3
 - Dynasty AVI (D-AVI, 0-100): 69.1
 - Projected PPR points: 294.0
 - Category: offense
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 36.8
-- Dynasty AVI (D-AVI, 0-100): 60.4
+- Championship AVI (C-AVI, 0-100): 37.4
+- Dynasty AVI (D-AVI, 0-100): 60.5
 - Projected PPR points: 83.5
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 59.1
-- Dynasty AVI (D-AVI, 0-100): 70.8
+- Championship AVI (C-AVI, 0-100): 58.8
+- Dynasty AVI (D-AVI, 0-100): 70.7
 - Projected PPR points: 170.6
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -178,6 +178,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
+### PLAYER: Marvin Harrison
+- Player name: Marvin Harrison
+- Player ID: 11628
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: ARI
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 72.8
+- Dynasty AVI (D-AVI, 0-100): 79.8
+- Projected PPR points: 197.3
+- Category: offense
+- Valuation status: PROVISIONAL_V1
+
 ### PLAYER: Courtland Sutton
 - Player name: Courtland Sutton
 - Player ID: 5045
@@ -192,23 +209,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 72.7
 - Dynasty AVI (D-AVI, 0-100): 75.0
 - Projected PPR points: 204.4
-- Category: offense
-- Valuation status: PROVISIONAL_V1
-
-### PLAYER: Marvin Harrison
-- Player name: Marvin Harrison
-- Player ID: 11628
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: ARI
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 72.7
-- Dynasty AVI (D-AVI, 0-100): 79.5
-- Projected PPR points: 197.3
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 

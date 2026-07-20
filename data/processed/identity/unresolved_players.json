@@ -16,22 +16,6 @@
     "team": "SF"
   },
   {
-    "candidate_count": 1,
-    "candidates": [
-      {
-        "name": "Michael Burton",
-        "position": "FB",
-        "sleeper_id": "2471",
-        "team": "CLE"
-      }
-    ],
-    "fantasypros_id": "14191",
-    "name": "Michael Burton",
-    "normalized_name": "michael burton",
-    "position": "RB",
-    "team": "CLE"
-  },
-  {
     "candidate_count": 0,
     "candidates": [],
     "fantasypros_id": "18226",
@@ -39,22 +23,6 @@
     "normalized_name": "hollywood brown",
     "position": "WR",
     "team": "PHI"
-  },
-  {
-    "candidate_count": 1,
-    "candidates": [
-      {
-        "name": "Alec Ingold",
-        "position": "FB",
-        "sleeper_id": "6109",
-        "team": "LAC"
-      }
-    ],
-    "fantasypros_id": "18571",
-    "name": "Alec Ingold",
-    "normalized_name": "alec ingold",
-    "position": "RB",
-    "team": "LAC"
   },
   {
     "candidate_count": 0,
