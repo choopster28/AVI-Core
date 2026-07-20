@@ -3,6 +3,74 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-20 14:32:08",
+      "created_formated": "Mon, Jul 20th 2:32pm UTC",
+      "desc": "Javonte Williams remains as Dallas' lead back by a comfortable margin headed into 2026 following a breakout campaign that ended with him signing a three year extension with the team.",
+      "id": 597066,
+      "impact": "Williams has the bell-cow, or at least the lead role, on lockdown. However, what's primarily in question is who will be backing him up, as Jaydon Blue, Malik Davis, and Phil Mafah are all vying for the role. It appears Dallas, while comfortable with Williams, doesn't want to put the same sort of workload on him again this season as he had in 2025. That could hurt his upside unless he becomes more proficient in the passing game, but on volume alone he should maintain RB2 status.",
+      "link": "https://www.fantasypros.com/nfl/news/597066/javonte-williams-remains-cowboys-lead-back-2026.php",
+      "player_id": 22739,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Javonte Williams remains Cowboys lead back in 2026"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-20 14:20:29",
+      "created_formated": "Mon, Jul 20th 2:20pm UTC",
+      "desc": "Can Skattebo said he is \"ready to go\" during an interview at Fantatics Fest this last weekend. His QB Jaxson Dart, who was also present, added that \"he looks good.\"",
+      "id": 597065,
+      "impact": "Skattebo is working his way back from a gruesome ankle injury, but has now gone viral for a trying to show off his healthy status during a somewhat failed backflip attempt at Fanatics Fest. If it's true that he's good to go, Skattebo could easily find himself as an RB1 on the cheap for drafters given the kind of workload he sustained last year and the current offensive system he finds himself in.",
+      "link": "https://www.fantasypros.com/nfl/news/597065/cam-skattebo-ready-to-go-training-camp.php",
+      "player_id": 27166,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Cam Skattebo 'ready to go' for training camp"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-20 14:12:43",
+      "created_formated": "Mon, Jul 20th 2:12pm UTC",
+      "desc": "Darnell Mooney is expected to be the Giants lead slot receiver in 2026, filling the void left by Wan'Dale Robinson.",
+      "id": 597064,
+      "impact": "Mooney had a down year in Atlanta in 2025, but has shown the ability to be a capable target in the past and could be a nice value in drafts. Wan'Dale Robinson was peppered with targets each of the  last two seasons (both with and without Malik Nabers), so this could lead to some nice stable PPR production for the veteran.",
+      "link": "https://www.fantasypros.com/nfl/news/597064/darnell-mooney-expected-to-be-giants-lead-slot-receiver.php",
+      "player_id": 19810,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Darnell Mooney expected to be Giants lead slot receiver"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-20 13:11:24",
+      "created_formated": "Mon, Jul 20th 1:11pm UTC",
+      "desc": "Makai Lemon said he is \"feeling great\" and will be \"100 percent\" ahead of Philadelphia's first practice after missing mandatory minicamp.",
+      "id": 597061,
+      "impact": "Lemon wasn't cleared to join minicamp due to a hamstring injury, but that appears to be behind him now. The first round rookie appears poised to be the secondary target of the Eagles offense behind Devonta Smith this season, and could be a nice sleeper pick in drafts.",
+      "link": "https://www.fantasypros.com/nfl/news/597061/makai-lemon-feeling-great-ahead-eagles-first-practice.php",
+      "player_id": 25420,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Makai Lemon 'feeling great' ahead of Eagles first practice"
+    },
+    {
       "author": "Diego Sandoval",
       "categories": [
         "Commentary",
@@ -311,76 +379,6 @@
       "sport_id": "NFL",
       "team_id": "ARI",
       "title": "Carson Beck has not signed rookie contract with Cardinals "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-06-26 14:54:44",
-      "created_formated": "Fri, Jun 26th 2:54pm UTC",
-      "desc": "The Cardinals signed fourth-Round pick DL Kaleb Proctor to his rookie contract. ",
-      "id": 593452,
-      "impact": "Proctor is currently sidelined by a meniscus injury and won't be ready by training camp.",
-      "link": "https://www.fantasypros.com/nfl/news/593452/kaleb-proctor-signs-rookie-contract-with-cardinals-.php",
-      "player_id": 28442,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Kaleb Proctor signs rookie contract with Cardinals "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-06-24 19:53:25",
-      "created_formated": "Wed, Jun 24th 7:53pm UTC",
-      "desc": "The Jaguars signed Brenton Strange to a three-year contract extension.",
-      "id": 593133,
-      "impact": "The deal is worth \"up to\" $48 million with $25 million guaranteed. Strange missed five games last season, but emerged as a top threat in the passing game when he was healthy for Trevor Lawrence last season. Strange profiles as a borderline TE1 for fantasy managers with Nate Boerkircher and Tanner Koziol competing for snaps behind him. ",
-      "link": "https://www.fantasypros.com/nfl/news/593133/brenton-strange-signs-three-year-extension-with-jaguars-.php",
-      "player_id": 25345,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Brenton Strange signs three-year extension with Jaguars "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-06-24 15:30:14",
-      "created_formated": "Wed, Jun 24th 3:30pm UTC",
-      "desc": "DeForest Buckner's return for the start of training camp is reportedly \"very much up in the air.\" ",
-      "id": 593083,
-      "impact": "Buckner underwent neck surgery late last season which has limited him so far in the Colts offseason program. This will remain a situation to monitor over the next month. ",
-      "link": "https://www.fantasypros.com/nfl/news/593083/deforest-buckner-neck-may-not-be-ready-start-training-camp-.php",
-      "player_id": 15494,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "DeForest Buckner (neck) may not be ready for start of training camp "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-06-24 15:28:00",
-      "created_formated": "Wed, Jun 24th 3:28pm UTC",
-      "desc": "Tucker Kraft is on track to be a full-go by Week 1 to begin the season. ",
-      "id": 593082,
-      "impact": "Kraft could still begin training camp on the PUP list. He tore his ACL in Week 9 of last season. His status will need to be monitored heading into training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/593082/tucker-kraft-knee-on-track-to-be-full-go-by-week-1.php",
-      "player_id": 25298,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Tucker Kraft (knee) on track to be full go by Week 1"
     }
   ],
   "public_api_limited": true,

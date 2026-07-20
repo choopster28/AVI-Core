@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 662.5
-- championship_lineup_c_avi_avg: 82.81
-- offensive_roster_c_avi_sum: 885.5
-- offensive_roster_c_avi_avg: 68.12
-- offensive_roster_d_avi_sum: 953.8
-- offensive_roster_d_avi_avg: 73.37
+- championship_lineup_c_avi_sum: 662.4
+- championship_lineup_c_avi_avg: 82.80
+- offensive_roster_c_avi_sum: 885.4
+- offensive_roster_c_avi_avg: 68.11
+- offensive_roster_d_avi_sum: 953.7
+- offensive_roster_d_avi_avg: 73.36
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Chris Olave | C-AVI: 94.1 | D-AVI: 88.1
 - TE: Mark Andrews | C-AVI: 71.2 | D-AVI: 78.6
 - FLEX: Dalton Kincaid | C-AVI: 69.3 | D-AVI: 81.4
-- FLEX: Rico Dowdle | C-AVI: 63.3 | D-AVI: 73.4
+- FLEX: Rico Dowdle | C-AVI: 63.2 | D-AVI: 73.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 63.3
-- Dynasty AVI (D-AVI, 0-100): 73.4
+- Championship AVI (C-AVI, 0-100): 63.2
+- Dynasty AVI (D-AVI, 0-100): 73.3
 - Projected PPR points: 184.5
 - Category: offense
 - Valuation status: PROVISIONAL_V1

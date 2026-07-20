@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 706.9
-- championship_lineup_c_avi_avg: 88.36
-- offensive_roster_c_avi_sum: 935.2
-- offensive_roster_c_avi_avg: 71.94
+- championship_lineup_c_avi_sum: 707.0
+- championship_lineup_c_avi_avg: 88.38
+- offensive_roster_c_avi_sum: 935.3
+- offensive_roster_c_avi_avg: 71.95
 - offensive_roster_d_avi_sum: 996.3
 - offensive_roster_d_avi_avg: 76.64
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -33,7 +33,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - QB: Jaxson Dart | C-AVI: 83.2 | D-AVI: 82.3
 - RB: Omarion Hampton | C-AVI: 92.1 | D-AVI: 88.9
 - RB: Breece Hall | C-AVI: 88.1 | D-AVI: 86.6
-- WR: Rashee Rice | C-AVI: 95.4 | D-AVI: 85.9
+- WR: Rashee Rice | C-AVI: 95.5 | D-AVI: 85.9
 - WR: A.J. Brown | C-AVI: 94.2 | D-AVI: 87.4
 - TE: Trey McBride | C-AVI: 99.5 | D-AVI: 92.0
 - FLEX: Nico Collins | C-AVI: 92.0 | D-AVI: 88.5
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 95.4
+- Championship AVI (C-AVI, 0-100): 95.5
 - Dynasty AVI (D-AVI, 0-100): 85.9
 - Projected PPR points: 273.2
 - Category: offense
