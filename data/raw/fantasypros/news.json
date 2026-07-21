@@ -3,6 +3,23 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-21 15:48:33",
+      "created_formated": "Tue, Jul 21st 3:48pm UTC",
+      "desc": "Jordyn Brooks has signed a three year, $51.3 million extension with the Miami Dolphins.",
+      "id": 597274,
+      "impact": "Brooks is coming off of a year in which he led the NFL in tackles and a First Team All-Pro selection. He should be an anchor for the Dolphins defense in what's largely seen as a rebuilding year.",
+      "link": "https://www.fantasypros.com/nfl/news/597274/jordyn-brooks-signs-three-year-51-million-deal-with-miami.php",
+      "player_id": 19292,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Jordyn Brooks signs three year, $51 million deal with Miami"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -417,23 +434,6 @@
       "sport_id": "NFL",
       "team_id": "GB",
       "title": "Isaiah McDuffie signs extension with Green Bay Packers"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-12 04:13:39",
-      "created_formated": "Sun, Jul 12th 4:13am UTC",
-      "desc": "The Bears signed TE Sam Roush to a four-year, $7.35 million contract.",
-      "id": 596139,
-      "impact": "Roush was selected No. 69 overall by Chicago in this year's draft. He will figure to compete for a depth role in the Bears tight end room. ",
-      "link": "https://www.fantasypros.com/nfl/news/596139/sam-roush-signs-rookie-contract-with-bears.php",
-      "player_id": 28161,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Sam Roush signs rookie contract with Bears"
     }
   ],
   "public_api_limited": true,

@@ -41,7 +41,7 @@
       "rank_adp": 0,
       "rank_adp_ppr": 227,
       "rank_ecr": 199,
-      "rank_ecr_half": 213,
+      "rank_ecr_half": 212,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 201,
       "reverse_name": "Ravens, Baltimore",
@@ -136,7 +136,7 @@
       ],
       "rank_adp": 0,
       "rank_adp_ppr": 291,
-      "rank_ecr": 365,
+      "rank_ecr": 366,
       "rank_ecr_half": 382,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 366,
@@ -211,7 +211,7 @@
       "rank_ecr": 160,
       "rank_ecr_half": 173,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 163,
+      "rank_ecr_ppr": 164,
       "reverse_name": "Broncos, Denver",
       "short_name": "Denver",
       "sportsdata_player_id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
@@ -352,8 +352,8 @@
       ],
       "rank_adp": 0,
       "rank_adp_ppr": 244,
-      "rank_ecr": 210,
-      "rank_ecr_half": 228,
+      "rank_ecr": 211,
+      "rank_ecr_half": 229,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 215,
       "reverse_name": "Chiefs, Kansas City",
@@ -424,7 +424,7 @@
       ],
       "rank_adp": 0,
       "rank_adp_ppr": 224,
-      "rank_ecr": 180,
+      "rank_ecr": 179,
       "rank_ecr_half": 205,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 185,
@@ -545,7 +545,7 @@
       "rank_adp": 0,
       "rank_adp_ppr": 235,
       "rank_ecr": 188,
-      "rank_ecr_half": 209,
+      "rank_ecr_half": 208,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 192,
       "reverse_name": "Chargers, Los Angeles",
@@ -595,7 +595,7 @@
       "rank_ecr": 287,
       "rank_ecr_half": 299,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 287,
+      "rank_ecr_ppr": 286,
       "reverse_name": "49ers, San Francisco",
       "short_name": "San Francisco",
       "sportsdata_player_id": "f0e724b0-4cbf-495a-be47-013907608da9",
@@ -712,7 +712,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 210,
+      "rank_adp": 0,
       "rank_adp_ppr": 196,
       "rank_ecr": 238,
       "rank_ecr_half": 224,
@@ -738,7 +738,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 326,
+      "rank_adp": 0,
       "rank_adp_ppr": 379,
       "rank_ecr": 422,
       "rank_ecr_half": 399,
@@ -764,7 +764,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 111,
+      "rank_adp": 131,
       "rank_adp_ppr": 100,
       "rank_ecr": 101,
       "rank_ecr_half": 103,
@@ -816,12 +816,12 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 264,
+      "rank_adp": 0,
       "rank_adp_ppr": 250,
       "rank_ecr": 308,
       "rank_ecr_half": 288,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 298,
+      "rank_ecr_ppr": 299,
       "reverse_name": "Cousins, Kirk",
       "short_name": "K. Cousins",
       "sportsdata_player_id": "bbd0942c-6f77-4f83-a6d0-66ec6548019e",
@@ -842,12 +842,12 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 116,
+      "rank_adp": 118,
       "rank_adp_ppr": 106,
       "rank_ecr": 105,
       "rank_ecr_half": 104,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 97,
+      "rank_ecr_ppr": 98,
       "reverse_name": "Kelce, Travis",
       "short_name": "T. Kelce",
       "sportsdata_player_id": "c3859e06-5f23-4302-a71b-04820a899d5f",
@@ -868,7 +868,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 236,
+      "rank_adp": 231,
       "rank_adp_ppr": 243,
       "rank_ecr": 292,
       "rank_ecr_half": 300,
@@ -894,9 +894,9 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 216,
+      "rank_adp": 0,
       "rank_adp_ppr": 240,
-      "rank_ecr": 241,
+      "rank_ecr": 240,
       "rank_ecr_half": 221,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 222,
@@ -920,7 +920,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 413,
+      "rank_adp": 0,
       "rank_adp_ppr": 410,
       "rank_ecr": 432,
       "rank_ecr_half": 408,
@@ -946,7 +946,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 386,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 388,
       "rank_ecr_half": 406,
@@ -972,7 +972,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 56,
+      "rank_adp": 62,
       "rank_adp_ppr": 58,
       "rank_ecr": 55,
       "rank_ecr_half": 54,
@@ -998,7 +998,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 409,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 453,
       "rank_ecr_half": 445,
@@ -1050,7 +1050,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 307,
+      "rank_adp": 0,
       "rank_adp_ppr": 270,
       "rank_ecr": 416,
       "rank_ecr_half": 427,
@@ -1104,7 +1104,7 @@
       ],
       "rank_adp": 0,
       "rank_adp_ppr": 320,
-      "rank_ecr": 214,
+      "rank_ecr": 215,
       "rank_ecr_half": 219,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 214,
@@ -1128,7 +1128,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 388,
+      "rank_adp": 0,
       "rank_adp_ppr": 503,
       "rank_ecr": 420,
       "rank_ecr_half": 419,
@@ -1154,7 +1154,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 358,
+      "rank_adp": 0,
       "rank_adp_ppr": 389,
       "rank_ecr": 424,
       "rank_ecr_half": 410,
@@ -1206,9 +1206,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 130,
+      "rank_adp": 128,
       "rank_adp_ppr": 134,
-      "rank_ecr": 183,
+      "rank_ecr": 182,
       "rank_ecr_half": 187,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 176,
@@ -1237,7 +1237,7 @@
       "rank_ecr": 198,
       "rank_ecr_half": 206,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 197,
+      "rank_ecr_ppr": 198,
       "reverse_name": "Myers, Jason",
       "short_name": "J. Myers",
       "sportsdata_player_id": "7af4c94b-529b-4403-ab66-2bfed3fcf0c7",
@@ -1258,7 +1258,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 316,
+      "rank_adp": 0,
       "rank_adp_ppr": 448,
       "rank_ecr": 431,
       "rank_ecr_half": 409,
@@ -1310,7 +1310,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 126,
+      "rank_adp": 148,
       "rank_adp_ppr": 116,
       "rank_ecr": 106,
       "rank_ecr_half": 111,
@@ -1336,7 +1336,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 20,
+      "rank_adp": 24,
       "rank_adp_ppr": 20,
       "rank_ecr": 13,
       "rank_ecr_half": 23,
@@ -1362,7 +1362,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 121,
+      "rank_adp": 100,
       "rank_adp_ppr": 136,
       "rank_ecr": 143,
       "rank_ecr_half": 148,
@@ -1414,7 +1414,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 92,
+      "rank_adp": 108,
       "rank_adp_ppr": 85,
       "rank_ecr": 77,
       "rank_ecr_half": 79,
@@ -1440,9 +1440,9 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 375,
+      "rank_adp": 0,
       "rank_adp_ppr": 344,
-      "rank_ecr": 335,
+      "rank_ecr": 334,
       "rank_ecr_half": 351,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 339,
@@ -1466,7 +1466,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 212,
+      "rank_adp": 230,
       "rank_adp_ppr": 193,
       "rank_ecr": 205,
       "rank_ecr_half": 177,
@@ -1492,7 +1492,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 374,
+      "rank_adp": 0,
       "rank_adp_ppr": 393,
       "rank_ecr": 440,
       "rank_ecr_half": 425,
@@ -1544,9 +1544,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 194,
+      "rank_adp": 163,
       "rank_adp_ppr": 183,
-      "rank_ecr": 253,
+      "rank_ecr": 254,
       "rank_ecr_half": 275,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 257,
@@ -1575,7 +1575,7 @@
       "rank_ecr": 271,
       "rank_ecr_half": 258,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 270,
+      "rank_ecr_ppr": 271,
       "reverse_name": "Lutz, Wil",
       "short_name": "W. Lutz",
       "sportsdata_player_id": "c4cf84d0-6022-4ac1-a9ba-85587921c53f",
@@ -1596,7 +1596,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 291,
+      "rank_adp": 0,
       "rank_adp_ppr": 285,
       "rank_ecr": 376,
       "rank_ecr_half": 371,
@@ -1648,7 +1648,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 258,
+      "rank_adp": 0,
       "rank_adp_ppr": 271,
       "rank_ecr": 304,
       "rank_ecr_half": 296,
@@ -1674,7 +1674,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 178,
+      "rank_adp": 146,
       "rank_adp_ppr": 201,
       "rank_ecr": 232,
       "rank_ecr_half": 220,
@@ -1700,7 +1700,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 91,
+      "rank_adp": 96,
       "rank_adp_ppr": 89,
       "rank_ecr": 93,
       "rank_ecr_half": 85,
@@ -1726,10 +1726,10 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 247,
+      "rank_adp": 0,
       "rank_adp_ppr": 281,
       "rank_ecr": 250,
-      "rank_ecr_half": 255,
+      "rank_ecr_half": 257,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 248,
       "reverse_name": "Engram, Evan",
@@ -1752,7 +1752,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 100,
+      "rank_adp": 113,
       "rank_adp_ppr": 103,
       "rank_ecr": 99,
       "rank_ecr_half": 99,
@@ -1778,7 +1778,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 215,
+      "rank_adp": 183,
       "rank_adp_ppr": 274,
       "rank_ecr": 320,
       "rank_ecr_half": 316,
@@ -1804,7 +1804,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 151,
+      "rank_adp": 133,
       "rank_adp_ppr": 149,
       "rank_ecr": 148,
       "rank_ecr_half": 146,
@@ -1830,12 +1830,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 257,
+      "rank_adp": 0,
       "rank_adp_ppr": 317,
       "rank_ecr": 268,
       "rank_ecr_half": 268,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 271,
+      "rank_ecr_ppr": 272,
       "reverse_name": "Perine, Samaje",
       "short_name": "S. Perine",
       "sportsdata_player_id": "e601812f-ce24-4e99-bee0-e33c1e9014e4",
@@ -1856,12 +1856,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 417,
+      "rank_adp": 0,
       "rank_adp_ppr": 493,
       "rank_ecr": 327,
       "rank_ecr_half": 323,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 328,
+      "rank_ecr_ppr": 327,
       "reverse_name": "Hunt, Kareem",
       "short_name": "K. Hunt",
       "sportsdata_player_id": "0ef0d0ca-2d2d-455b-ab63-a20c01303e37",
@@ -1882,10 +1882,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 218,
+      "rank_adp": 233,
       "rank_adp_ppr": 180,
       "rank_ecr": 235,
-      "rank_ecr_half": 227,
+      "rank_ecr_half": 228,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 223,
       "reverse_name": "Kupp, Cooper",
@@ -1934,7 +1934,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 166,
+      "rank_adp": 101,
       "rank_adp_ppr": 175,
       "rank_ecr": 192,
       "rank_ecr_half": 179,
@@ -1986,7 +1986,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 408,
+      "rank_adp": 0,
       "rank_adp_ppr": 452,
       "rank_ecr": 403,
       "rank_ecr_half": 395,
@@ -2012,7 +2012,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 320,
+      "rank_adp": 0,
       "rank_adp_ppr": 371,
       "rank_ecr": 298,
       "rank_ecr_half": 297,
@@ -2038,7 +2038,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 106,
+      "rank_adp": 110,
       "rank_adp_ppr": 98,
       "rank_ecr": 97,
       "rank_ecr_half": 107,
@@ -2116,7 +2116,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 397,
+      "rank_adp": 0,
       "rank_adp_ppr": 301,
       "rank_ecr": 439,
       "rank_ecr_half": 456,
@@ -2168,7 +2168,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 101,
+      "rank_adp": 91,
       "rank_adp_ppr": 110,
       "rank_ecr": 108,
       "rank_ecr_half": 110,
@@ -2220,7 +2220,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 297,
+      "rank_adp": 0,
       "rank_adp_ppr": 330,
       "rank_ecr": 354,
       "rank_ecr_half": 362,
@@ -2272,7 +2272,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 48,
+      "rank_adp": 42,
       "rank_adp_ppr": 45,
       "rank_ecr": 29,
       "rank_ecr_half": 34,
@@ -2298,7 +2298,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 163,
+      "rank_adp": 189,
       "rank_adp_ppr": 151,
       "rank_ecr": 141,
       "rank_ecr_half": 142,
@@ -2324,7 +2324,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 138,
+      "rank_adp": 160,
       "rank_adp_ppr": 126,
       "rank_ecr": 121,
       "rank_ecr_half": 122,
@@ -2350,7 +2350,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 14,
+      "rank_adp": 13,
       "rank_adp_ppr": 15,
       "rank_ecr": 18,
       "rank_ecr_half": 19,
@@ -2376,7 +2376,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 364,
+      "rank_adp": 0,
       "rank_adp_ppr": 487,
       "rank_ecr": 374,
       "rank_ecr_half": 373,
@@ -2402,7 +2402,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 79,
+      "rank_adp": 77,
       "rank_adp_ppr": 73,
       "rank_ecr": 79,
       "rank_ecr_half": 81,
@@ -2428,12 +2428,12 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 193,
+      "rank_adp": 202,
       "rank_adp_ppr": 171,
-      "rank_ecr": 181,
+      "rank_ecr": 180,
       "rank_ecr_half": 184,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 187,
+      "rank_ecr_ppr": 186,
       "reverse_name": "Ridley, Calvin",
       "short_name": "C. Ridley",
       "sportsdata_player_id": "926e2674-52d6-4cec-9991-46ee85cc8cfd",
@@ -2454,7 +2454,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 58,
+      "rank_adp": 61,
       "rank_adp_ppr": 56,
       "rank_ecr": 63,
       "rank_ecr_half": 60,
@@ -2480,7 +2480,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 245,
+      "rank_adp": 236,
       "rank_adp_ppr": 218,
       "rank_ecr": 265,
       "rank_ecr_half": 251,
@@ -2506,7 +2506,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 109,
+      "rank_adp": 105,
       "rank_adp_ppr": 123,
       "rank_ecr": 119,
       "rank_ecr_half": 126,
@@ -2532,12 +2532,12 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 114,
+      "rank_adp": 102,
       "rank_adp_ppr": 114,
       "rank_ecr": 116,
       "rank_ecr_half": 120,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 122,
+      "rank_ecr_ppr": 123,
       "reverse_name": "Goedert, Dallas",
       "short_name": "D. Goedert",
       "sportsdata_player_id": "e8029983-87cf-49a2-bc04-04c8233a0630",
@@ -2558,10 +2558,10 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 233,
+      "rank_adp": 0,
       "rank_adp_ppr": 300,
       "rank_ecr": 294,
-      "rank_ecr_half": 310,
+      "rank_ecr_half": 309,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 300,
       "reverse_name": "Gesicki, Mike",
@@ -2584,7 +2584,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 33,
+      "rank_adp": 31,
       "rank_adp_ppr": 26,
       "rank_ecr": 23,
       "rank_ecr_half": 27,
@@ -2610,7 +2610,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 137,
+      "rank_adp": 107,
       "rank_adp_ppr": 160,
       "rank_ecr": 191,
       "rank_ecr_half": 163,
@@ -2662,7 +2662,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 346,
+      "rank_adp": 0,
       "rank_adp_ppr": 443,
       "rank_ecr": 382,
       "rank_ecr_half": 369,
@@ -2740,7 +2740,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 337,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 481,
       "rank_ecr_half": 471,
@@ -2766,7 +2766,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 25,
+      "rank_adp": 34,
       "rank_adp_ppr": 24,
       "rank_ecr": 14,
       "rank_ecr_half": 14,
@@ -2792,12 +2792,12 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 76,
+      "rank_adp": 79,
       "rank_adp_ppr": 69,
       "rank_ecr": 73,
       "rank_ecr_half": 75,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 72,
+      "rank_ecr_ppr": 71,
       "reverse_name": "Metcalf, DK",
       "short_name": "DK Metcalf",
       "sportsdata_player_id": "754faf0f-40f7-45f0-b23b-6ce990ecaf26",
@@ -2818,7 +2818,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 280,
+      "rank_adp": 0,
       "rank_adp_ppr": 284,
       "rank_ecr": 295,
       "rank_ecr_half": 290,
@@ -2844,7 +2844,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 182,
+      "rank_adp": 221,
       "rank_adp_ppr": 159,
       "rank_ecr": 163,
       "rank_ecr_half": 159,
@@ -2896,10 +2896,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 165,
+      "rank_adp": 168,
       "rank_adp_ppr": 168,
       "rank_ecr": 218,
-      "rank_ecr_half": 231,
+      "rank_ecr_half": 232,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 211,
       "reverse_name": "Samuel, Deebo",
@@ -2922,7 +2922,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 251,
+      "rank_adp": 0,
       "rank_adp_ppr": 255,
       "rank_ecr": 256,
       "rank_ecr_half": 250,
@@ -2948,7 +2948,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 29,
+      "rank_adp": 20,
       "rank_adp_ppr": 33,
       "rank_ecr": 35,
       "rank_ecr_half": 36,
@@ -2974,12 +2974,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 398,
+      "rank_adp": 0,
       "rank_adp_ppr": 490,
-      "rank_ecr": 289,
+      "rank_ecr": 288,
       "rank_ecr_half": 293,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 299,
+      "rank_ecr_ppr": 298,
       "reverse_name": "Singletary, Devin",
       "short_name": "D. Singletary",
       "sportsdata_player_id": "a961b0d4-5d7c-438e-90f0-2e1fa09f6c89",
@@ -3026,7 +3026,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 152,
+      "rank_adp": 143,
       "rank_adp_ppr": 153,
       "rank_ecr": 208,
       "rank_ecr_half": 169,
@@ -3052,10 +3052,10 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 279,
+      "rank_adp": 0,
       "rank_adp_ppr": 334,
-      "rank_ecr": 254,
-      "rank_ecr_half": 265,
+      "rank_ecr": 253,
+      "rank_ecr_half": 260,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 255,
       "reverse_name": "Johnson, Ty",
@@ -3078,7 +3078,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 54,
+      "rank_adp": 58,
       "rank_adp_ppr": 46,
       "rank_ecr": 46,
       "rank_ecr_half": 46,
@@ -3130,9 +3130,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 293,
+      "rank_adp": 0,
       "rank_adp_ppr": 310,
-      "rank_ecr": 366,
+      "rank_ecr": 367,
       "rank_ecr_half": 377,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 379,
@@ -3182,7 +3182,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 372,
+      "rank_adp": 0,
       "rank_adp_ppr": 311,
       "rank_ecr": 446,
       "rank_ecr_half": 527,
@@ -3208,7 +3208,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 329,
+      "rank_adp": 0,
       "rank_adp_ppr": 554,
       "rank_ecr": 405,
       "rank_ecr_half": 405,
@@ -3286,7 +3286,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 94,
+      "rank_adp": 83,
       "rank_adp_ppr": 95,
       "rank_ecr": 109,
       "rank_ecr_half": 100,
@@ -3312,7 +3312,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 141,
+      "rank_adp": 173,
       "rank_adp_ppr": 129,
       "rank_ecr": 114,
       "rank_ecr_half": 114,
@@ -3364,7 +3364,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 273,
+      "rank_adp": 0,
       "rank_adp_ppr": 294,
       "rank_ecr": 345,
       "rank_ecr_half": 350,
@@ -3390,7 +3390,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 86,
+      "rank_adp": 94,
       "rank_adp_ppr": 87,
       "rank_ecr": 68,
       "rank_ecr_half": 68,
@@ -3416,7 +3416,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 336,
+      "rank_adp": 0,
       "rank_adp_ppr": 353,
       "rank_ecr": 406,
       "rank_ecr_half": 434,
@@ -3442,10 +3442,10 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 69,
+      "rank_adp": 67,
       "rank_adp_ppr": 76,
       "rank_ecr": 71,
-      "rank_ecr_half": 74,
+      "rank_ecr_half": 73,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 81,
       "reverse_name": "Pollard, Tony",
@@ -3468,7 +3468,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 269,
+      "rank_adp": 0,
       "rank_adp_ppr": 390,
       "rank_ecr": 274,
       "rank_ecr_half": 272,
@@ -3520,7 +3520,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 304,
+      "rank_adp": 0,
       "rank_adp_ppr": 468,
       "rank_ecr": 340,
       "rank_ecr_half": 336,
@@ -3598,9 +3598,9 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 64,
+      "rank_adp": 63,
       "rank_adp_ppr": 59,
-      "rank_ecr": 39,
+      "rank_ecr": 40,
       "rank_ecr_half": 45,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 44,
@@ -3624,9 +3624,9 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 234,
+      "rank_adp": 244,
       "rank_adp_ppr": 211,
-      "rank_ecr": 277,
+      "rank_ecr": 279,
       "rank_ecr_half": 254,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 258,
@@ -3650,7 +3650,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 176,
+      "rank_adp": 179,
       "rank_adp_ppr": 163,
       "rank_ecr": 156,
       "rank_ecr_half": 153,
@@ -3676,7 +3676,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 12,
+      "rank_adp": 14,
       "rank_adp_ppr": 9,
       "rank_ecr": 9,
       "rank_ecr_half": 8,
@@ -3702,7 +3702,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 52,
+      "rank_adp": 49,
       "rank_adp_ppr": 57,
       "rank_ecr": 58,
       "rank_ecr_half": 57,
@@ -3728,7 +3728,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 34,
+      "rank_adp": 36,
       "rank_adp_ppr": 37,
       "rank_ecr": 28,
       "rank_ecr_half": 29,
@@ -3754,7 +3754,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 5,
+      "rank_adp": 3,
       "rank_adp_ppr": 8,
       "rank_ecr": 7,
       "rank_ecr_half": 9,
@@ -3780,7 +3780,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 39,
+      "rank_adp": 56,
       "rank_adp_ppr": 30,
       "rank_ecr": 34,
       "rank_ecr_half": 28,
@@ -3806,7 +3806,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 299,
+      "rank_adp": 0,
       "rank_adp_ppr": 350,
       "rank_ecr": 346,
       "rank_ecr_half": 345,
@@ -3832,9 +3832,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 32,
+      "rank_adp": 29,
       "rank_adp_ppr": 40,
-      "rank_ecr": 47,
+      "rank_ecr": 48,
       "rank_ecr_half": 47,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 48,
@@ -3858,7 +3858,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 16,
+      "rank_adp": 18,
       "rank_adp_ppr": 11,
       "rank_ecr": 11,
       "rank_ecr_half": 10,
@@ -3884,7 +3884,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 87,
+      "rank_adp": 80,
       "rank_adp_ppr": 99,
       "rank_ecr": 86,
       "rank_ecr_half": 93,
@@ -3910,7 +3910,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 123,
+      "rank_adp": 142,
       "rank_adp_ppr": 128,
       "rank_ecr": 120,
       "rank_ecr_half": 121,
@@ -3936,12 +3936,12 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 207,
+      "rank_adp": 198,
       "rank_adp_ppr": 210,
       "rank_ecr": 237,
-      "rank_ecr_half": 256,
+      "rank_ecr_half": 255,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 234,
+      "rank_ecr_ppr": 236,
       "reverse_name": "Aiyuk, Brandon",
       "short_name": "B. Aiyuk",
       "sportsdata_player_id": "c90471cc-fa60-4416-9388-5aebb5d877eb",
@@ -3962,7 +3962,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 71,
+      "rank_adp": 74,
       "rank_adp_ppr": 65,
       "rank_ecr": 57,
       "rank_ecr_half": 59,
@@ -3988,7 +3988,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 105,
+      "rank_adp": 120,
       "rank_adp_ppr": 86,
       "rank_ecr": 113,
       "rank_ecr_half": 94,
@@ -4014,9 +4014,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 221,
+      "rank_adp": 191,
       "rank_adp_ppr": 264,
-      "rank_ecr": 297,
+      "rank_ecr": 296,
       "rank_ecr_half": 302,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 305,
@@ -4066,7 +4066,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 179,
+      "rank_adp": 151,
       "rank_adp_ppr": 209,
       "rank_ecr": 243,
       "rank_ecr_half": 236,
@@ -4118,7 +4118,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 349,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 469,
       "rank_ecr_half": 452,
@@ -4144,7 +4144,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 321,
+      "rank_adp": 0,
       "rank_adp_ppr": 432,
       "rank_ecr": 342,
       "rank_ecr_half": 340,
@@ -4196,7 +4196,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 136,
+      "rank_adp": 114,
       "rank_adp_ppr": 145,
       "rank_ecr": 150,
       "rank_ecr_half": 143,
@@ -4222,7 +4222,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 147,
+      "rank_adp": 138,
       "rank_adp_ppr": 158,
       "rank_ecr": 157,
       "rank_ecr_half": 158,
@@ -4274,9 +4274,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 74,
+      "rank_adp": 69,
       "rank_adp_ppr": 91,
-      "rank_ecr": 80,
+      "rank_ecr": 81,
       "rank_ecr_half": 83,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 87,
@@ -4300,7 +4300,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 310,
+      "rank_adp": 0,
       "rank_adp_ppr": 430,
       "rank_ecr": 369,
       "rank_ecr_half": 374,
@@ -4352,7 +4352,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 93,
+      "rank_adp": 103,
       "rank_adp_ppr": 88,
       "rank_ecr": 72,
       "rank_ecr_half": 72,
@@ -4378,7 +4378,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 298,
+      "rank_adp": 0,
       "rank_adp_ppr": 280,
       "rank_ecr": 355,
       "rank_ecr_half": 347,
@@ -4404,7 +4404,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 3,
+      "rank_adp": 6,
       "rank_adp_ppr": 3,
       "rank_ecr": 3,
       "rank_ecr_half": 3,
@@ -4430,9 +4430,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 43,
+      "rank_adp": 44,
       "rank_adp_ppr": 44,
-      "rank_ecr": 48,
+      "rank_ecr": 47,
       "rank_ecr_half": 43,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 37,
@@ -4456,7 +4456,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 72,
+      "rank_adp": 71,
       "rank_adp_ppr": 72,
       "rank_ecr": 78,
       "rank_ecr_half": 77,
@@ -4482,7 +4482,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 225,
+      "rank_adp": 229,
       "rank_adp_ppr": 238,
       "rank_ecr": 209,
       "rank_ecr_half": 218,
@@ -4508,7 +4508,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 102,
+      "rank_adp": 119,
       "rank_adp_ppr": 96,
       "rank_ecr": 92,
       "rank_ecr_half": 91,
@@ -4534,7 +4534,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 11,
+      "rank_adp": 16,
       "rank_adp_ppr": 7,
       "rank_ecr": 6,
       "rank_ecr_half": 6,
@@ -4560,7 +4560,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 205,
+      "rank_adp": 218,
       "rank_adp_ppr": 185,
       "rank_ecr": 204,
       "rank_ecr_half": 197,
@@ -4586,7 +4586,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 122,
+      "rank_adp": 86,
       "rank_adp_ppr": 157,
       "rank_ecr": 147,
       "rank_ecr_half": 155,
@@ -4612,7 +4612,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 31,
+      "rank_adp": 32,
       "rank_adp_ppr": 28,
       "rank_ecr": 26,
       "rank_ecr_half": 26,
@@ -4638,7 +4638,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 335,
+      "rank_adp": 0,
       "rank_adp_ppr": 424,
       "rank_ecr": 391,
       "rank_ecr_half": 400,
@@ -4664,7 +4664,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 363,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 461,
       "rank_ecr_half": 460,
@@ -4690,7 +4690,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 313,
+      "rank_adp": 0,
       "rank_adp_ppr": 329,
       "rank_ecr": 373,
       "rank_ecr_half": 379,
@@ -4716,7 +4716,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 21,
+      "rank_adp": 26,
       "rank_adp_ppr": 22,
       "rank_ecr": 12,
       "rank_ecr_half": 15,
@@ -4768,7 +4768,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 318,
+      "rank_adp": 0,
       "rank_adp_ppr": 512,
       "rank_ecr": 348,
       "rank_ecr_half": 338,
@@ -4794,12 +4794,12 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 222,
+      "rank_adp": 0,
       "rank_adp_ppr": 200,
       "rank_ecr": 231,
-      "rank_ecr_half": 207,
+      "rank_ecr_half": 215,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 235,
+      "rank_ecr_ppr": 234,
       "reverse_name": "Freiermuth, Pat",
       "short_name": "P. Freiermuth",
       "sportsdata_player_id": "04f0fefe-9d9d-44f5-94ea-6df2a42df3c6",
@@ -4820,7 +4820,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 90,
+      "rank_adp": 78,
       "rank_adp_ppr": 74,
       "rank_ecr": 84,
       "rank_ecr_half": 82,
@@ -4846,7 +4846,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 112,
+      "rank_adp": 106,
       "rank_adp_ppr": 113,
       "rank_ecr": 127,
       "rank_ecr_half": 117,
@@ -4872,9 +4872,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 67,
+      "rank_adp": 60,
       "rank_adp_ppr": 82,
-      "rank_ecr": 81,
+      "rank_ecr": 80,
       "rank_ecr_half": 76,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 83,
@@ -4924,7 +4924,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 35,
+      "rank_adp": 33,
       "rank_adp_ppr": 36,
       "rank_ecr": 37,
       "rank_ecr_half": 42,
@@ -4950,7 +4950,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 270,
+      "rank_adp": 0,
       "rank_adp_ppr": 316,
       "rank_ecr": 428,
       "rank_ecr_half": 428,
@@ -4976,7 +4976,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 377,
+      "rank_adp": 0,
       "rank_adp_ppr": 336,
       "rank_ecr": 396,
       "rank_ecr_half": 384,
@@ -5028,7 +5028,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 314,
+      "rank_adp": 0,
       "rank_adp_ppr": 327,
       "rank_ecr": 336,
       "rank_ecr_half": 343,
@@ -5054,7 +5054,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 370,
+      "rank_adp": 0,
       "rank_adp_ppr": 392,
       "rank_ecr": 380,
       "rank_ecr_half": 361,
@@ -5080,7 +5080,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 188,
+      "rank_adp": 223,
       "rank_adp_ppr": 166,
       "rank_ecr": 161,
       "rank_ecr_half": 160,
@@ -5106,12 +5106,12 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 66,
+      "rank_adp": 70,
       "rank_adp_ppr": 61,
       "rank_ecr": 51,
       "rank_ecr_half": 53,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 54,
+      "rank_ecr_ppr": 55,
       "reverse_name": "Daniels, Jayden",
       "short_name": "J. Daniels",
       "sportsdata_player_id": "bab8c65a-9fff-410d-8e34-dc2f636d890e",
@@ -5132,7 +5132,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 303,
+      "rank_adp": 0,
       "rank_adp_ppr": 455,
       "rank_ecr": 358,
       "rank_ecr_half": 360,
@@ -5158,12 +5158,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 162,
+      "rank_adp": 164,
       "rank_adp_ppr": 162,
       "rank_ecr": 144,
       "rank_ecr_half": 151,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 164,
+      "rank_ecr_ppr": 163,
       "reverse_name": "Bigsby, Tank",
       "short_name": "T. Bigsby",
       "sportsdata_player_id": "2034916c-8062-46e3-8d0c-d0dec694e2d1",
@@ -5184,12 +5184,12 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 118,
+      "rank_adp": 135,
       "rank_adp_ppr": 111,
       "rank_ecr": 98,
       "rank_ecr_half": 98,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 101,
+      "rank_ecr_ppr": 100,
       "reverse_name": "Nix, Bo",
       "short_name": "Bo Nix",
       "sportsdata_player_id": "f056c8ed-6ee5-492c-af11-3f7e3d97195c",
@@ -5210,10 +5210,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 242,
+      "rank_adp": 0,
       "rank_adp_ppr": 292,
       "rank_ecr": 267,
-      "rank_ecr_half": 264,
+      "rank_ecr_half": 265,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 281,
       "reverse_name": "Thornton, Tyquan",
@@ -5236,7 +5236,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 241,
+      "rank_adp": 0,
       "rank_adp_ppr": 248,
       "rank_ecr": 272,
       "rank_ecr_half": 271,
@@ -5262,7 +5262,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 40,
+      "rank_adp": 53,
       "rank_adp_ppr": 34,
       "rank_ecr": 33,
       "rank_ecr_half": 31,
@@ -5288,7 +5288,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 368,
+      "rank_adp": 0,
       "rank_adp_ppr": 476,
       "rank_ecr": 300,
       "rank_ecr_half": 301,
@@ -5314,7 +5314,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 311,
+      "rank_adp": 0,
       "rank_adp_ppr": 429,
       "rank_ecr": 392,
       "rank_ecr_half": 391,
@@ -5340,7 +5340,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 371,
+      "rank_adp": 0,
       "rank_adp_ppr": 437,
       "rank_ecr": 323,
       "rank_ecr_half": 322,
@@ -5366,7 +5366,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 22,
+      "rank_adp": 21,
       "rank_adp_ppr": 23,
       "rank_ecr": 21,
       "rank_ecr_half": 22,
@@ -5418,7 +5418,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 275,
+      "rank_adp": 0,
       "rank_adp_ppr": 266,
       "rank_ecr": 347,
       "rank_ecr_half": 342,
@@ -5445,7 +5445,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 23,
+      "rank_adp": 30,
       "rank_adp_ppr": 19,
       "rank_ecr": 16,
       "rank_ecr_half": 16,
@@ -5471,7 +5471,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 8,
+      "rank_adp": 5,
       "rank_adp_ppr": 10,
       "rank_ecr": 10,
       "rank_ecr_half": 11,
@@ -5497,7 +5497,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 24,
+      "rank_adp": 28,
       "rank_adp_ppr": 25,
       "rank_ecr": 19,
       "rank_ecr_half": 21,
@@ -5523,7 +5523,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 256,
+      "rank_adp": 0,
       "rank_adp_ppr": 259,
       "rank_ecr": 322,
       "rank_ecr_half": 324,
@@ -5549,7 +5549,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 1,
+      "rank_adp": 2,
       "rank_adp_ppr": 1,
       "rank_ecr": 1,
       "rank_ecr_half": 2,
@@ -5575,9 +5575,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 117,
+      "rank_adp": 124,
       "rank_adp_ppr": 122,
-      "rank_ecr": 110,
+      "rank_ecr": 111,
       "rank_ecr_half": 118,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 126,
@@ -5601,9 +5601,9 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 255,
+      "rank_adp": 243,
       "rank_adp_ppr": 223,
-      "rank_ecr": 288,
+      "rank_ecr": 289,
       "rank_ecr_half": 273,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 279,
@@ -5653,7 +5653,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 89,
+      "rank_adp": 85,
       "rank_adp_ppr": 81,
       "rank_ecr": 82,
       "rank_ecr_half": 84,
@@ -5679,7 +5679,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 125,
+      "rank_adp": 122,
       "rank_adp_ppr": 141,
       "rank_ecr": 128,
       "rank_ecr_half": 127,
@@ -5705,9 +5705,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 26,
+      "rank_adp": 27,
       "rank_adp_ppr": 29,
-      "rank_ecr": 40,
+      "rank_ecr": 39,
       "rank_ecr_half": 37,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 41,
@@ -5731,7 +5731,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 110,
+      "rank_adp": 117,
       "rank_adp_ppr": 102,
       "rank_ecr": 122,
       "rank_ecr_half": 108,
@@ -5757,7 +5757,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 142,
+      "rank_adp": 159,
       "rank_adp_ppr": 135,
       "rank_ecr": 123,
       "rank_ecr_half": 129,
@@ -5783,7 +5783,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 198,
+      "rank_adp": 184,
       "rank_adp_ppr": 203,
       "rank_ecr": 172,
       "rank_ecr_half": 174,
@@ -5809,7 +5809,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 70,
+      "rank_adp": 84,
       "rank_adp_ppr": 68,
       "rank_ecr": 76,
       "rank_ecr_half": 78,
@@ -5835,7 +5835,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 284,
+      "rank_adp": 0,
       "rank_adp_ppr": 539,
       "rank_ecr": 337,
       "rank_ecr_half": 335,
@@ -5861,7 +5861,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 80,
+      "rank_adp": 73,
       "rank_adp_ppr": 104,
       "rank_ecr": 85,
       "rank_ecr_half": 95,
@@ -5913,12 +5913,12 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 263,
+      "rank_adp": 241,
       "rank_adp_ppr": 213,
       "rank_ecr": 331,
       "rank_ecr_half": 327,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 327,
+      "rank_ecr_ppr": 328,
       "reverse_name": "McCarthy, J.J.",
       "short_name": "J.J. McCarthy",
       "sportsdata_player_id": "587cc3c3-aeda-4ac7-8803-a7e4db195534",
@@ -5939,7 +5939,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 108,
+      "rank_adp": 136,
       "rank_adp_ppr": 117,
       "rank_ecr": 115,
       "rank_ecr_half": 119,
@@ -5965,9 +5965,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 104,
+      "rank_adp": 132,
       "rank_adp_ppr": 109,
-      "rank_ecr": 111,
+      "rank_ecr": 110,
       "rank_ecr_half": 112,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 113,
@@ -5991,7 +5991,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 9,
+      "rank_adp": 7,
       "rank_adp_ppr": 17,
       "rank_ecr": 24,
       "rank_ecr_half": 24,
@@ -6017,7 +6017,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 57,
+      "rank_adp": 52,
       "rank_adp_ppr": 55,
       "rank_ecr": 31,
       "rank_ecr_half": 35,
@@ -6043,7 +6043,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 239,
+      "rank_adp": 212,
       "rank_adp_ppr": 308,
       "rank_ecr": 321,
       "rank_ecr_half": 320,
@@ -6069,7 +6069,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 259,
+      "rank_adp": 0,
       "rank_adp_ppr": 367,
       "rank_ecr": 338,
       "rank_ecr_half": 341,
@@ -6095,7 +6095,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 27,
+      "rank_adp": 25,
       "rank_adp_ppr": 32,
       "rank_ecr": 30,
       "rank_ecr_half": 33,
@@ -6121,10 +6121,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 46,
+      "rank_adp": 57,
       "rank_adp_ppr": 39,
       "rank_ecr": 36,
-      "rank_ecr_half": 40,
+      "rank_ecr_half": 39,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 38,
       "reverse_name": "Egbuka, Emeka",
@@ -6147,7 +6147,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 75,
+      "rank_adp": 88,
       "rank_adp_ppr": 67,
       "rank_ecr": 69,
       "rank_ecr_half": 71,
@@ -6173,7 +6173,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 45,
+      "rank_adp": 37,
       "rank_adp_ppr": 52,
       "rank_ecr": 61,
       "rank_ecr_half": 58,
@@ -6199,7 +6199,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 7,
+      "rank_adp": 9,
       "rank_adp_ppr": 5,
       "rank_ecr": 5,
       "rank_ecr_half": 5,
@@ -6225,12 +6225,12 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 160,
+      "rank_adp": 186,
       "rank_adp_ppr": 154,
       "rank_ecr": 138,
       "rank_ecr_half": 140,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 134,
+      "rank_ecr_ppr": 135,
       "reverse_name": "Stroud, C.J.",
       "short_name": "C.J. Stroud",
       "sportsdata_player_id": "7e91086f-9ca4-4bd9-a099-b88b2f37e6c6",
@@ -6251,7 +6251,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 38,
+      "rank_adp": 39,
       "rank_adp_ppr": 35,
       "rank_ecr": 50,
       "rank_ecr_half": 38,
@@ -6277,7 +6277,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 325,
+      "rank_adp": 0,
       "rank_adp_ppr": 488,
       "rank_ecr": 293,
       "rank_ecr_half": 308,
@@ -6304,10 +6304,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 246,
+      "rank_adp": 216,
       "rank_adp_ppr": 236,
       "rank_ecr": 273,
-      "rank_ecr_half": 279,
+      "rank_ecr_half": 278,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 263,
       "reverse_name": "Mims, Marvin",
@@ -6356,7 +6356,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 83,
+      "rank_adp": 99,
       "rank_adp_ppr": 75,
       "rank_ecr": 66,
       "rank_ecr_half": 65,
@@ -6382,10 +6382,10 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 167,
+      "rank_adp": 158,
       "rank_adp_ppr": 169,
       "rank_ecr": 212,
-      "rank_ecr_half": 214,
+      "rank_ecr_half": 213,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 243,
       "reverse_name": "Ferguson, Terrance",
@@ -6408,7 +6408,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 203,
+      "rank_adp": 192,
       "rank_adp_ppr": 206,
       "rank_ecr": 193,
       "rank_ecr_half": 176,
@@ -6434,12 +6434,12 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 144,
+      "rank_adp": 165,
       "rank_adp_ppr": 130,
       "rank_ecr": 125,
       "rank_ecr_half": 124,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 123,
+      "rank_ecr_ppr": 122,
       "reverse_name": "Shough, Tyler",
       "short_name": "T. Shough",
       "sportsdata_player_id": "94b8f9e1-3109-4429-8f71-4f79d7588237",
@@ -6460,9 +6460,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 278,
+      "rank_adp": 0,
       "rank_adp_ppr": 407,
-      "rank_ecr": 334,
+      "rank_ecr": 335,
       "rank_ecr_half": 332,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 331,
@@ -6486,12 +6486,12 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 202,
+      "rank_adp": 162,
       "rank_adp_ppr": 257,
       "rank_ecr": 269,
       "rank_ecr_half": 289,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 274,
+      "rank_ecr_ppr": 275,
       "reverse_name": "Johnson, Theo",
       "short_name": "T. Johnson",
       "sportsdata_player_id": "a5d4bb1d-c130-47c2-808a-2dd1f85005fb",
@@ -6512,7 +6512,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 81,
+      "rank_adp": 98,
       "rank_adp_ppr": 77,
       "rank_ecr": 88,
       "rank_ecr_half": 86,
@@ -6538,7 +6538,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 98,
+      "rank_adp": 109,
       "rank_adp_ppr": 105,
       "rank_ecr": 95,
       "rank_ecr_half": 106,
@@ -6564,7 +6564,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 28,
+      "rank_adp": 35,
       "rank_adp_ppr": 27,
       "rank_ecr": 27,
       "rank_ecr_half": 25,
@@ -6590,10 +6590,10 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 223,
+      "rank_adp": 0,
       "rank_adp_ppr": 242,
       "rank_ecr": 222,
-      "rank_ecr_half": 208,
+      "rank_ecr_half": 207,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 241,
       "reverse_name": "Lloyd, MarShawn",
@@ -6616,7 +6616,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 323,
+      "rank_adp": 0,
       "rank_adp_ppr": 428,
       "rank_ecr": 457,
       "rank_ecr_half": 393,
@@ -6642,7 +6642,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 97,
+      "rank_adp": 123,
       "rank_adp_ppr": 93,
       "rank_ecr": 91,
       "rank_ecr_half": 97,
@@ -6668,7 +6668,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 2,
+      "rank_adp": 1,
       "rank_adp_ppr": 2,
       "rank_ecr": 2,
       "rank_ecr_half": 1,
@@ -6694,7 +6694,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 333,
+      "rank_adp": 0,
       "rank_adp_ppr": 399,
       "rank_ecr": 395,
       "rank_ecr_half": 388,
@@ -6720,7 +6720,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 15,
+      "rank_adp": 10,
       "rank_adp_ppr": 13,
       "rank_ecr": 22,
       "rank_ecr_half": 17,
@@ -6746,7 +6746,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 180,
+      "rank_adp": 155,
       "rank_adp_ppr": 222,
       "rank_ecr": 257,
       "rank_ecr_half": 253,
@@ -6773,7 +6773,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 135,
+      "rank_adp": 111,
       "rank_adp_ppr": 132,
       "rank_ecr": 132,
       "rank_ecr_half": 133,
@@ -6799,7 +6799,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 211,
+      "rank_adp": 0,
       "rank_adp_ppr": 233,
       "rank_ecr": 264,
       "rank_ecr_half": 284,
@@ -6825,7 +6825,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 96,
+      "rank_adp": 90,
       "rank_adp_ppr": 84,
       "rank_ecr": 89,
       "rank_ecr_half": 88,
@@ -6877,7 +6877,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 262,
+      "rank_adp": 239,
       "rank_adp_ppr": 278,
       "rank_ecr": 480,
       "rank_ecr_half": 455,
@@ -6904,7 +6904,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 164,
+      "rank_adp": 185,
       "rank_adp_ppr": 147,
       "rank_ecr": 164,
       "rank_ecr_half": 164,
@@ -6930,7 +6930,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 6,
+      "rank_adp": 8,
       "rank_adp_ppr": 4,
       "rank_ecr": 4,
       "rank_ecr_half": 4,
@@ -6956,12 +6956,12 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 171,
+      "rank_adp": 166,
       "rank_adp_ppr": 192,
       "rank_ecr": 239,
-      "rank_ecr_half": 232,
+      "rank_ecr_half": 227,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 236,
+      "rank_ecr_ppr": 235,
       "reverse_name": "Otton, Cade",
       "short_name": "C. Otton",
       "sportsdata_player_id": "f23517bd-ae85-484a-8ecb-1f7a2d851e48",
@@ -6985,7 +6985,7 @@
       "rank_adp": 0,
       "rank_adp_ppr": 343,
       "rank_ecr": 216,
-      "rank_ecr_half": 230,
+      "rank_ecr_half": 231,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 219,
       "reverse_name": "McPherson, Evan",
@@ -7008,7 +7008,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 99,
+      "rank_adp": 93,
       "rank_adp_ppr": 94,
       "rank_ecr": 112,
       "rank_ecr_half": 102,
@@ -7034,7 +7034,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 146,
+      "rank_adp": 156,
       "rank_adp_ppr": 140,
       "rank_ecr": 136,
       "rank_ecr_half": 136,
@@ -7086,7 +7086,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 175,
+      "rank_adp": 174,
       "rank_adp_ppr": 197,
       "rank_ecr": 197,
       "rank_ecr_half": 185,
@@ -7112,7 +7112,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 393,
+      "rank_adp": 0,
       "rank_adp_ppr": 298,
       "rank_ecr": 494,
       "rank_ecr_half": 531,
@@ -7138,10 +7138,10 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 220,
+      "rank_adp": 190,
       "rank_adp_ppr": 286,
       "rank_ecr": 266,
-      "rank_ecr_half": 277,
+      "rank_ecr_half": 280,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 277,
       "reverse_name": "Neal, Devin",
@@ -7164,7 +7164,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 317,
+      "rank_adp": 0,
       "rank_adp_ppr": 470,
       "rank_ecr": 332,
       "rank_ecr_half": 331,
@@ -7190,9 +7190,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 129,
+      "rank_adp": 134,
       "rank_adp_ppr": 124,
-      "rank_ecr": 133,
+      "rank_ecr": 134,
       "rank_ecr_half": 128,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 117,
@@ -7216,7 +7216,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 268,
+      "rank_adp": 0,
       "rank_adp_ppr": 362,
       "rank_ecr": 339,
       "rank_ecr_half": 337,
@@ -7242,7 +7242,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 124,
+      "rank_adp": 126,
       "rank_adp_ppr": 119,
       "rank_ecr": 117,
       "rank_ecr_half": 123,
@@ -7268,12 +7268,12 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 85,
+      "rank_adp": 95,
       "rank_adp_ppr": 80,
       "rank_ecr": 70,
-      "rank_ecr_half": 73,
+      "rank_ecr_half": 74,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 73,
+      "rank_ecr_ppr": 72,
       "reverse_name": "Pierce, Alec",
       "short_name": "A. Pierce",
       "sportsdata_player_id": "a67ee8f8-e9de-4fb9-90b6-edca2f83f6d8",
@@ -7294,7 +7294,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 119,
+      "rank_adp": 129,
       "rank_adp_ppr": 121,
       "rank_ecr": 130,
       "rank_ecr_half": 130,
@@ -7320,7 +7320,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 283,
+      "rank_adp": 0,
       "rank_adp_ppr": 377,
       "rank_ecr": 386,
       "rank_ecr_half": 378,
@@ -7346,7 +7346,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 61,
+      "rank_adp": 68,
       "rank_adp_ppr": 64,
       "rank_ecr": 49,
       "rank_ecr_half": 62,
@@ -7372,7 +7372,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 120,
+      "rank_adp": 139,
       "rank_adp_ppr": 107,
       "rank_ecr": 107,
       "rank_ecr_half": 105,
@@ -7450,7 +7450,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 149,
+      "rank_adp": 152,
       "rank_adp_ppr": 150,
       "rank_ecr": 158,
       "rank_ecr_half": 149,
@@ -7528,7 +7528,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 127,
+      "rank_adp": 97,
       "rank_adp_ppr": 144,
       "rank_ecr": 129,
       "rank_ecr_half": 131,
@@ -7554,12 +7554,12 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 183,
+      "rank_adp": 222,
       "rank_adp_ppr": 161,
-      "rank_ecr": 201,
+      "rank_ecr": 200,
       "rank_ecr_half": 190,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 198,
+      "rank_ecr_ppr": 197,
       "reverse_name": "Nailor, Jalen",
       "short_name": "J. Nailor",
       "sportsdata_player_id": "3f9e3634-54d7-46a4-bf26-67274500c907",
@@ -7580,7 +7580,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 290,
+      "rank_adp": 0,
       "rank_adp_ppr": 340,
       "rank_ecr": 252,
       "rank_ecr_half": 259,
@@ -7606,10 +7606,10 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 63,
+      "rank_adp": 54,
       "rank_adp_ppr": 71,
       "rank_ecr": 74,
-      "rank_ecr_half": 70,
+      "rank_ecr_half": 69,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 69,
       "reverse_name": "Warren, Jaylen",
@@ -7632,7 +7632,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 324,
+      "rank_adp": 0,
       "rank_adp_ppr": 463,
       "rank_ecr": 411,
       "rank_ecr_half": 396,
@@ -7658,9 +7658,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 158,
+      "rank_adp": 170,
       "rank_adp_ppr": 146,
-      "rank_ecr": 134,
+      "rank_ecr": 133,
       "rank_ecr_half": 137,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 142,
@@ -7684,7 +7684,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 276,
+      "rank_adp": 0,
       "rank_adp_ppr": 290,
       "rank_ecr": 344,
       "rank_ecr_half": 354,
@@ -7710,7 +7710,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 244,
+      "rank_adp": 215,
       "rank_adp_ppr": 302,
       "rank_ecr": 319,
       "rank_ecr_half": 314,
@@ -7736,7 +7736,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 196,
+      "rank_adp": 187,
       "rank_adp_ppr": 178,
       "rank_ecr": 194,
       "rank_ecr_half": 195,
@@ -7763,10 +7763,10 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 200,
+      "rank_adp": 211,
       "rank_adp_ppr": 177,
       "rank_ecr": 248,
-      "rank_ecr_half": 262,
+      "rank_ecr_half": 263,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 262,
       "reverse_name": "Blue, Jaydon",
@@ -7816,7 +7816,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 174,
+      "rank_adp": 150,
       "rank_adp_ppr": 182,
       "rank_ecr": 155,
       "rank_ecr_half": 165,
@@ -7842,7 +7842,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 308,
+      "rank_adp": 0,
       "rank_adp_ppr": 505,
       "rank_ecr": 370,
       "rank_ecr_half": 357,
@@ -7868,7 +7868,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 402,
+      "rank_adp": 0,
       "rank_adp_ppr": 374,
       "rank_ecr": 372,
       "rank_ecr_half": 368,
@@ -7894,12 +7894,12 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 219,
+      "rank_adp": 0,
       "rank_adp_ppr": 246,
       "rank_ecr": 217,
-      "rank_ecr_half": 210,
+      "rank_ecr_half": 209,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 206,
+      "rank_ecr_ppr": 205,
       "reverse_name": "Wicks, Dontayvion",
       "short_name": "D. Wicks",
       "sportsdata_player_id": "ea3d1393-8c3b-4e81-a519-f636d28d692e",
@@ -7920,7 +7920,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 172,
+      "rank_adp": 182,
       "rank_adp_ppr": 186,
       "rank_ecr": 166,
       "rank_ecr_half": 162,
@@ -7946,7 +7946,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 231,
+      "rank_adp": 201,
       "rank_adp_ppr": 282,
       "rank_ecr": 281,
       "rank_ecr_half": 295,
@@ -7972,7 +7972,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 328,
+      "rank_adp": 0,
       "rank_adp_ppr": 511,
       "rank_ecr": 436,
       "rank_ecr_half": 443,
@@ -7999,7 +7999,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 186,
+      "rank_adp": 176,
       "rank_adp_ppr": 191,
       "rank_ecr": 202,
       "rank_ecr_half": 216,
@@ -8026,7 +8026,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 281,
+      "rank_adp": 0,
       "rank_adp_ppr": 337,
       "rank_ecr": 299,
       "rank_ecr_half": 303,
@@ -8079,7 +8079,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 296,
+      "rank_adp": 0,
       "rank_adp_ppr": 315,
       "rank_ecr": 305,
       "rank_ecr_half": 305,
@@ -8105,7 +8105,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 153,
+      "rank_adp": 181,
       "rank_adp_ppr": 137,
       "rank_ecr": 140,
       "rank_ecr_half": 144,
@@ -8131,7 +8131,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 115,
+      "rank_adp": 149,
       "rank_adp_ppr": 108,
       "rank_ecr": 124,
       "rank_ecr_half": 109,
@@ -8157,7 +8157,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 391,
+      "rank_adp": 0,
       "rank_adp_ppr": 475,
       "rank_ecr": 459,
       "rank_ecr_half": 0,
@@ -8183,9 +8183,9 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 170,
+      "rank_adp": 214,
       "rank_adp_ppr": 155,
-      "rank_ecr": 153,
+      "rank_ecr": 154,
       "rank_ecr_half": 152,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 147,
@@ -8209,9 +8209,9 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 230,
+      "rank_adp": 199,
       "rank_adp_ppr": 219,
-      "rank_ecr": 311,
+      "rank_ecr": 312,
       "rank_ecr_half": 318,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 314,
@@ -8286,7 +8286,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 103,
+      "rank_adp": 87,
       "rank_adp_ppr": 118,
       "rank_ecr": 103,
       "rank_ecr_half": 113,
@@ -8312,7 +8312,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 355,
+      "rank_adp": 0,
       "rank_adp_ppr": 431,
       "rank_ecr": 464,
       "rank_ecr_half": 437,
@@ -8338,7 +8338,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 343,
+      "rank_adp": 0,
       "rank_adp_ppr": 287,
       "rank_ecr": 394,
       "rank_ecr_half": 385,
@@ -8364,7 +8364,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 400,
+      "rank_adp": 0,
       "rank_adp_ppr": 338,
       "rank_ecr": 324,
       "rank_ecr_half": 325,
@@ -8390,9 +8390,9 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 78,
+      "rank_adp": 76,
       "rank_adp_ppr": 79,
-      "rank_ecr": 60,
+      "rank_ecr": 59,
       "rank_ecr_half": 66,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 70,
@@ -8416,7 +8416,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 340,
+      "rank_adp": 0,
       "rank_adp_ppr": 263,
       "rank_ecr": 343,
       "rank_ecr_half": 355,
@@ -8442,7 +8442,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 406,
+      "rank_adp": 0,
       "rank_adp_ppr": 400,
       "rank_ecr": 417,
       "rank_ecr_half": 403,
@@ -8468,7 +8468,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 148,
+      "rank_adp": 137,
       "rank_adp_ppr": 142,
       "rank_ecr": 149,
       "rank_ecr_half": 139,
@@ -8520,7 +8520,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 401,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 490,
       "rank_ecr_half": 461,
@@ -8546,7 +8546,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 369,
+      "rank_adp": 0,
       "rank_adp_ppr": 414,
       "rank_ecr": 359,
       "rank_ecr_half": 346,
@@ -8572,7 +8572,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 88,
+      "rank_adp": 81,
       "rank_adp_ppr": 92,
       "rank_ecr": 100,
       "rank_ecr_half": 92,
@@ -8598,7 +8598,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 261,
+      "rank_adp": 0,
       "rank_adp_ppr": 358,
       "rank_ecr": 314,
       "rank_ecr_half": 321,
@@ -8624,7 +8624,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 177,
+      "rank_adp": 209,
       "rank_adp_ppr": 164,
       "rank_ecr": 168,
       "rank_ecr_half": 161,
@@ -8676,7 +8676,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 133,
+      "rank_adp": 115,
       "rank_adp_ppr": 143,
       "rank_ecr": 142,
       "rank_ecr_half": 145,
@@ -8728,7 +8728,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 150,
+      "rank_adp": 167,
       "rank_adp_ppr": 176,
       "rank_ecr": 145,
       "rank_ecr_half": 147,
@@ -8754,10 +8754,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 201,
+      "rank_adp": 208,
       "rank_adp_ppr": 207,
       "rank_ecr": 223,
-      "rank_ecr_half": 212,
+      "rank_ecr_half": 211,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 217,
       "reverse_name": "Dell, Tank",
@@ -8780,7 +8780,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 267,
+      "rank_adp": 245,
       "rank_adp_ppr": 269,
       "rank_ecr": 362,
       "rank_ecr_half": 358,
@@ -8807,7 +8807,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 412,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 473,
       "rank_ecr_half": 519,
@@ -8833,12 +8833,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 185,
+      "rank_adp": 127,
       "rank_adp_ppr": 299,
       "rank_ecr": 284,
       "rank_ecr_half": 270,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 275,
+      "rank_ecr_ppr": 273,
       "reverse_name": "Benson, Trey",
       "short_name": "T. Benson",
       "sportsdata_player_id": "0c1253f2-1822-445d-8590-fea6fd32703f",
@@ -8859,7 +8859,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 51,
+      "rank_adp": 46,
       "rank_adp_ppr": 53,
       "rank_ecr": 54,
       "rank_ecr_half": 52,
@@ -8885,7 +8885,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 306,
+      "rank_adp": 0,
       "rank_adp_ppr": 411,
       "rank_ecr": 310,
       "rank_ecr_half": 304,
@@ -8911,7 +8911,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 13,
+      "rank_adp": 12,
       "rank_adp_ppr": 14,
       "rank_ecr": 20,
       "rank_ecr_half": 20,
@@ -8937,7 +8937,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 18,
+      "rank_adp": 15,
       "rank_adp_ppr": 21,
       "rank_ecr": 41,
       "rank_ecr_half": 32,
@@ -8964,7 +8964,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 30,
+      "rank_adp": 23,
       "rank_adp_ppr": 31,
       "rank_ecr": 44,
       "rank_ecr_half": 44,
@@ -8990,9 +8990,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 65,
+      "rank_adp": 72,
       "rank_adp_ppr": 63,
-      "rank_ecr": 59,
+      "rank_ecr": 60,
       "rank_ecr_half": 63,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 59,
@@ -9016,7 +9016,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 37,
+      "rank_adp": 38,
       "rank_adp_ppr": 38,
       "rank_ecr": 32,
       "rank_ecr_half": 30,
@@ -9042,12 +9042,12 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 169,
+      "rank_adp": 175,
       "rank_adp_ppr": 188,
-      "rank_ecr": 211,
-      "rank_ecr_half": 229,
+      "rank_ecr": 210,
+      "rank_ecr_half": 230,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 205,
+      "rank_ecr_ppr": 204,
       "reverse_name": "Williams, Antonio",
       "rookie": "Y",
       "short_name": "A. Williams",
@@ -9069,7 +9069,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 192,
+      "rank_adp": 207,
       "rank_adp_ppr": 174,
       "rank_ecr": 242,
       "rank_ecr_half": 240,
@@ -9096,7 +9096,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 73,
+      "rank_adp": 82,
       "rank_adp_ppr": 90,
       "rank_ecr": 96,
       "rank_ecr_half": 96,
@@ -9123,9 +9123,9 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 288,
+      "rank_adp": 0,
       "rank_adp_ppr": 482,
-      "rank_ecr": 296,
+      "rank_ecr": 297,
       "rank_ecr_half": 244,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 289,
@@ -9176,9 +9176,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 300,
+      "rank_adp": 0,
       "rank_adp_ppr": 309,
-      "rank_ecr": 291,
+      "rank_ecr": 290,
       "rank_ecr_half": 292,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 297,
@@ -9254,10 +9254,10 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 285,
+      "rank_adp": 0,
       "rank_adp_ppr": 313,
-      "rank_ecr": 260,
-      "rank_ecr_half": 257,
+      "rank_ecr": 259,
+      "rank_ecr_half": 256,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 266,
       "reverse_name": "Brooks, Chris",
@@ -9306,12 +9306,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 213,
+      "rank_adp": 180,
       "rank_adp_ppr": 214,
       "rank_ecr": 169,
       "rank_ecr_half": 175,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 186,
+      "rank_ecr_ppr": 187,
       "reverse_name": "Wilson, Emanuel",
       "short_name": "E. Wilson",
       "sportsdata_player_id": "05266280-f323-11ed-bd27-0bcbcaae8d67",
@@ -9358,7 +9358,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 392,
+      "rank_adp": 0,
       "rank_adp_ppr": 472,
       "rank_ecr": 442,
       "rank_ecr_half": 416,
@@ -9384,9 +9384,9 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 250,
+      "rank_adp": 242,
       "rank_adp_ppr": 184,
-      "rank_ecr": 302,
+      "rank_ecr": 303,
       "rank_ecr_half": 287,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 290,
@@ -9436,12 +9436,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 312,
+      "rank_adp": 0,
       "rank_adp_ppr": 492,
-      "rank_ecr": 279,
+      "rank_ecr": 278,
       "rank_ecr_half": 281,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 272,
+      "rank_ecr_ppr": 270,
       "reverse_name": "Davis, Isaiah",
       "short_name": "I. Davis",
       "sportsdata_player_id": "849789be-b8f0-4d97-a777-2fcf336efa6a",
@@ -9488,7 +9488,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 36,
+      "rank_adp": 22,
       "rank_adp_ppr": 48,
       "rank_ecr": 56,
       "rank_ecr_half": 55,
@@ -9540,7 +9540,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 287,
+      "rank_adp": 0,
       "rank_adp_ppr": 376,
       "rank_ecr": 229,
       "rank_ecr_half": 237,
@@ -9566,9 +9566,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 227,
+      "rank_adp": 195,
       "rank_adp_ppr": 217,
-      "rank_ecr": 215,
+      "rank_ecr": 214,
       "rank_ecr_half": 222,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 230,
@@ -9592,7 +9592,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 10,
+      "rank_adp": 11,
       "rank_adp_ppr": 12,
       "rank_ecr": 17,
       "rank_ecr_half": 12,
@@ -9618,7 +9618,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 113,
+      "rank_adp": 89,
       "rank_adp_ppr": 138,
       "rank_ecr": 146,
       "rank_ecr_half": 150,
@@ -9644,7 +9644,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 197,
+      "rank_adp": 153,
       "rank_adp_ppr": 221,
       "rank_ecr": 276,
       "rank_ecr_half": 286,
@@ -9670,7 +9670,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 49,
+      "rank_adp": 51,
       "rank_adp_ppr": 42,
       "rank_ecr": 38,
       "rank_ecr_half": 41,
@@ -9696,10 +9696,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 59,
+      "rank_adp": 64,
       "rank_adp_ppr": 60,
       "rank_ecr": 75,
-      "rank_ecr_half": 69,
+      "rank_ecr_half": 70,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 64,
       "reverse_name": "Tate, Carnell",
@@ -9723,7 +9723,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 277,
+      "rank_adp": 0,
       "rank_adp_ppr": 324,
       "rank_ecr": 385,
       "rank_ecr_half": 398,
@@ -9749,7 +9749,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 339,
+      "rank_adp": 0,
       "rank_adp_ppr": 401,
       "rank_ecr": 449,
       "rank_ecr_half": 431,
@@ -9776,7 +9776,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 224,
+      "rank_adp": 232,
       "rank_adp_ppr": 228,
       "rank_ecr": 245,
       "rank_ecr_half": 249,
@@ -9802,10 +9802,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 243,
+      "rank_adp": 225,
       "rank_adp_ppr": 267,
       "rank_ecr": 255,
-      "rank_ecr_half": 260,
+      "rank_ecr_half": 261,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 259,
       "reverse_name": "Horton, Tory",
@@ -9828,7 +9828,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 145,
+      "rank_adp": 178,
       "rank_adp_ppr": 115,
       "rank_ecr": 135,
       "rank_ecr_half": 135,
@@ -9855,7 +9855,7 @@
         "WR",
         "WR,CB"
       ],
-      "rank_adp": 159,
+      "rank_adp": 177,
       "rank_adp_ppr": 148,
       "rank_ecr": 171,
       "rank_ecr_half": 170,
@@ -9881,7 +9881,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 68,
+      "rank_adp": 75,
       "rank_adp_ppr": 70,
       "rank_ecr": 90,
       "rank_ecr_half": 87,
@@ -9908,7 +9908,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 352,
+      "rank_adp": 0,
       "rank_adp_ppr": 368,
       "rank_ecr": 438,
       "rank_ecr_half": 423,
@@ -9935,10 +9935,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 238,
+      "rank_adp": 228,
       "rank_adp_ppr": 220,
       "rank_ecr": 270,
-      "rank_ecr_half": 261,
+      "rank_ecr_half": 262,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 252,
       "reverse_name": "Bell, Chris",
@@ -9962,9 +9962,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 199,
+      "rank_adp": 217,
       "rank_adp_ppr": 179,
-      "rank_ecr": 240,
+      "rank_ecr": 241,
       "rank_ecr_half": 239,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 232,
@@ -9989,9 +9989,9 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 140,
+      "rank_adp": 121,
       "rank_adp_ppr": 139,
-      "rank_ecr": 182,
+      "rank_ecr": 181,
       "rank_ecr_half": 166,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 189,
@@ -10068,10 +10068,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 41,
+      "rank_adp": 48,
       "rank_adp_ppr": 41,
       "rank_ecr": 45,
-      "rank_ecr_half": 39,
+      "rank_ecr_half": 40,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 33,
       "reverse_name": "McConkey, Ladd",
@@ -10094,7 +10094,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 302,
+      "rank_adp": 0,
       "rank_adp_ppr": 395,
       "rank_ecr": 286,
       "rank_ecr_half": 282,
@@ -10120,7 +10120,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 131,
+      "rank_adp": 161,
       "rank_adp_ppr": 112,
       "rank_ecr": 118,
       "rank_ecr_half": 116,
@@ -10146,7 +10146,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 187,
+      "rank_adp": 188,
       "rank_adp_ppr": 199,
       "rank_ecr": 187,
       "rank_ecr_half": 182,
@@ -10198,7 +10198,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 301,
+      "rank_adp": 0,
       "rank_adp_ppr": 504,
       "rank_ecr": 315,
       "rank_ecr_half": 307,
@@ -10224,12 +10224,12 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 95,
+      "rank_adp": 92,
       "rank_adp_ppr": 97,
       "rank_ecr": 102,
       "rank_ecr_half": 101,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 98,
+      "rank_ecr_ppr": 97,
       "reverse_name": "Pearsall, Ricky",
       "short_name": "R. Pearsall",
       "sportsdata_player_id": "aca4c1b8-915f-4295-92e4-05b51feee6b1",
@@ -10250,7 +10250,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 181,
+      "rank_adp": 200,
       "rank_adp_ppr": 187,
       "rank_ecr": 173,
       "rank_ecr_half": 167,
@@ -10276,7 +10276,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 404,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 455,
       "rank_ecr_half": 446,
@@ -10302,9 +10302,9 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 354,
+      "rank_adp": 0,
       "rank_adp_ppr": 409,
-      "rank_ecr": 401,
+      "rank_ecr": 400,
       "rank_ecr_half": 383,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 400,
@@ -10328,7 +10328,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 214,
+      "rank_adp": 0,
       "rank_adp_ppr": 231,
       "rank_ecr": 230,
       "rank_ecr_half": 191,
@@ -10354,7 +10354,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 334,
+      "rank_adp": 0,
       "rank_adp_ppr": 339,
       "rank_ecr": 325,
       "rank_ecr_half": 330,
@@ -10380,7 +10380,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 356,
+      "rank_adp": 0,
       "rank_adp_ppr": 419,
       "rank_ecr": 371,
       "rank_ecr_half": 367,
@@ -10406,7 +10406,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 156,
+      "rank_adp": 140,
       "rank_adp_ppr": 167,
       "rank_ecr": 174,
       "rank_ecr_half": 171,
@@ -10435,7 +10435,7 @@
       "rank_adp": 0,
       "rank_adp_ppr": 318,
       "rank_ecr": 282,
-      "rank_ecr_half": 278,
+      "rank_ecr_half": 277,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 283,
       "reverse_name": "Reichard, Will",
@@ -10458,7 +10458,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 191,
+      "rank_adp": 157,
       "rank_adp_ppr": 195,
       "rank_ecr": 196,
       "rank_ecr_half": 180,
@@ -10484,7 +10484,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 373,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 463,
       "rank_ecr_half": 0,
@@ -10510,10 +10510,10 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 332,
+      "rank_adp": 0,
       "rank_adp_ppr": 440,
-      "rank_ecr": 312,
-      "rank_ecr_half": 309,
+      "rank_ecr": 311,
+      "rank_ecr_half": 310,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 313,
       "reverse_name": "Guerendo, Isaac",
@@ -10536,7 +10536,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 189,
+      "rank_adp": 224,
       "rank_adp_ppr": 190,
       "rank_ecr": 184,
       "rank_ecr_half": 172,
@@ -10562,7 +10562,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 139,
+      "rank_adp": 147,
       "rank_adp_ppr": 131,
       "rank_ecr": 139,
       "rank_ecr_half": 134,
@@ -10588,9 +10588,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 252,
+      "rank_adp": 235,
       "rank_adp_ppr": 265,
-      "rank_ecr": 290,
+      "rank_ecr": 291,
       "rank_ecr_half": 283,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 285,
@@ -10614,7 +10614,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 60,
+      "rank_adp": 59,
       "rank_adp_ppr": 50,
       "rank_ecr": 64,
       "rank_ecr_half": 56,
@@ -10770,7 +10770,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 42,
+      "rank_adp": 40,
       "rank_adp_ppr": 49,
       "rank_ecr": 53,
       "rank_ecr_half": 48,
@@ -10796,12 +10796,12 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 82,
+      "rank_adp": 66,
       "rank_adp_ppr": 78,
       "rank_ecr": 83,
       "rank_ecr_half": 80,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 71,
+      "rank_ecr_ppr": 73,
       "reverse_name": "Fannin, Harold",
       "short_name": "H. Fannin Jr.",
       "sportsdata_player_id": "8bdf2df7-b51c-4404-b153-8dc62b1e0845",
@@ -10822,7 +10822,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 237,
+      "rank_adp": 206,
       "rank_adp_ppr": 252,
       "rank_ecr": 234,
       "rank_ecr_half": 246,
@@ -10848,7 +10848,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 341,
+      "rank_adp": 0,
       "rank_adp_ppr": 397,
       "rank_ecr": 330,
       "rank_ecr_half": 326,
@@ -10874,7 +10874,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 134,
+      "rank_adp": 141,
       "rank_adp_ppr": 127,
       "rank_ecr": 126,
       "rank_ecr_half": 125,
@@ -10900,7 +10900,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 330,
+      "rank_adp": 0,
       "rank_adp_ppr": 386,
       "rank_ecr": 413,
       "rank_ecr_half": 389,
@@ -10927,10 +10927,10 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 265,
+      "rank_adp": 0,
       "rank_adp_ppr": 365,
       "rank_ecr": 263,
-      "rank_ecr_half": 263,
+      "rank_ecr_half": 264,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 261,
       "reverse_name": "Giddens, DJ",
@@ -10953,7 +10953,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 157,
+      "rank_adp": 144,
       "rank_adp_ppr": 181,
       "rank_ecr": 151,
       "rank_ecr_half": 141,
@@ -10979,7 +10979,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 173,
+      "rank_adp": 171,
       "rank_adp_ppr": 172,
       "rank_ecr": 225,
       "rank_ecr_half": 193,
@@ -11005,9 +11005,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 208,
+      "rank_adp": 213,
       "rank_adp_ppr": 232,
-      "rank_ecr": 200,
+      "rank_ecr": 201,
       "rank_ecr_half": 186,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 180,
@@ -11031,12 +11031,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 77,
+      "rank_adp": 65,
       "rank_adp_ppr": 101,
       "rank_ecr": 87,
       "rank_ecr_half": 90,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 100,
+      "rank_ecr_ppr": 101,
       "reverse_name": "Monangai, Kyle",
       "short_name": "K. Monangai",
       "sportsdata_player_id": "6edec23b-f938-40f7-a151-1db5374880dd",
@@ -11057,7 +11057,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 327,
+      "rank_adp": 0,
       "rank_adp_ppr": 506,
       "rank_ecr": 450,
       "rank_ecr_half": 397,
@@ -11083,7 +11083,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 62,
+      "rank_adp": 41,
       "rank_adp_ppr": 83,
       "rank_ecr": 94,
       "rank_ecr_half": 89,
@@ -11109,7 +11109,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 292,
+      "rank_adp": 0,
       "rank_adp_ppr": 447,
       "rank_ecr": 377,
       "rank_ecr_half": 366,
@@ -11135,7 +11135,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 295,
+      "rank_adp": 0,
       "rank_adp_ppr": 501,
       "rank_ecr": 328,
       "rank_ecr_half": 329,
@@ -11161,9 +11161,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 226,
+      "rank_adp": 194,
       "rank_adp_ppr": 333,
-      "rank_ecr": 259,
+      "rank_ecr": 258,
       "rank_ecr_half": 276,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 278,
@@ -11187,12 +11187,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 44,
+      "rank_adp": 43,
       "rank_adp_ppr": 43,
       "rank_ecr": 52,
       "rank_ecr_half": 50,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 55,
+      "rank_ecr_ppr": 54,
       "reverse_name": "Skattebo, Cam",
       "short_name": "C. Skattebo",
       "sportsdata_player_id": "e1f0c72d-f4d0-4c24-93a4-8a12b9a2efd2",
@@ -11213,7 +11213,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 195,
+      "rank_adp": 193,
       "rank_adp_ppr": 237,
       "rank_ecr": 219,
       "rank_ecr_half": 202,
@@ -11265,7 +11265,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 253,
+      "rank_adp": 234,
       "rank_adp_ppr": 275,
       "rank_ecr": 262,
       "rank_ecr_half": 245,
@@ -11291,7 +11291,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 235,
+      "rank_adp": 204,
       "rank_adp_ppr": 349,
       "rank_ecr": 301,
       "rank_ecr_half": 294,
@@ -11343,10 +11343,10 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 274,
+      "rank_adp": 0,
       "rank_adp_ppr": 319,
-      "rank_ecr": 303,
-      "rank_ecr_half": 280,
+      "rank_ecr": 302,
+      "rank_ecr_half": 279,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 282,
       "reverse_name": "Allen, LeQuint",
@@ -11369,7 +11369,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 357,
+      "rank_adp": 0,
       "rank_adp_ppr": 342,
       "rank_ecr": 356,
       "rank_ecr_half": 348,
@@ -11421,7 +11421,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 53,
+      "rank_adp": 45,
       "rank_adp_ppr": 62,
       "rank_ecr": 65,
       "rank_ecr_half": 64,
@@ -11447,12 +11447,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 240,
+      "rank_adp": 0,
       "rank_adp_ppr": 247,
-      "rank_ecr": 258,
+      "rank_ecr": 260,
       "rank_ecr_half": 266,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 273,
+      "rank_ecr_ppr": 274,
       "reverse_name": "James, Jordan",
       "short_name": "J. James",
       "sportsdata_player_id": "c16040c3-7534-4eeb-956c-8ed3be9972ec",
@@ -11473,7 +11473,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 228,
+      "rank_adp": 196,
       "rank_adp_ppr": 253,
       "rank_ecr": 227,
       "rank_ecr_half": 235,
@@ -11499,7 +11499,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 107,
+      "rank_adp": 104,
       "rank_adp_ppr": 120,
       "rank_ecr": 104,
       "rank_ecr_half": 115,
@@ -11525,9 +11525,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 143,
+      "rank_adp": 130,
       "rank_adp_ppr": 173,
-      "rank_ecr": 154,
+      "rank_ecr": 153,
       "rank_ecr_half": 154,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 159,
@@ -11552,7 +11552,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 384,
+      "rank_adp": 0,
       "rank_adp_ppr": 406,
       "rank_ecr": 399,
       "rank_ecr_half": 401,
@@ -11579,7 +11579,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 84,
+      "rank_adp": 112,
       "rank_adp_ppr": 66,
       "rank_ecr": 67,
       "rank_ecr_half": 67,
@@ -11606,7 +11606,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 132,
+      "rank_adp": 145,
       "rank_adp_ppr": 125,
       "rank_ecr": 137,
       "rank_ecr_half": 132,
@@ -11633,7 +11633,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 229,
+      "rank_adp": 203,
       "rank_adp_ppr": 204,
       "rank_ecr": 306,
       "rank_ecr_half": 313,
@@ -11660,7 +11660,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 161,
+      "rank_adp": 172,
       "rank_adp_ppr": 156,
       "rank_ecr": 159,
       "rank_ecr_half": 157,
@@ -11687,7 +11687,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 184,
+      "rank_adp": 205,
       "rank_adp_ppr": 189,
       "rank_ecr": 185,
       "rank_ecr_half": 183,
@@ -11713,7 +11713,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 322,
+      "rank_adp": 0,
       "rank_adp_ppr": 388,
       "rank_ecr": 326,
       "rank_ecr_half": 328,
@@ -11739,9 +11739,9 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 319,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
-      "rank_ecr": 367,
+      "rank_ecr": 368,
       "rank_ecr_half": 356,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 365,
@@ -11765,7 +11765,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 217,
+      "rank_adp": 226,
       "rank_adp_ppr": 261,
       "rank_ecr": 251,
       "rank_ecr_half": 252,
@@ -11792,7 +11792,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 376,
+      "rank_adp": 0,
       "rank_adp_ppr": 552,
       "rank_ecr": 489,
       "rank_ecr_half": 453,
@@ -11818,12 +11818,12 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 249,
+      "rank_adp": 219,
       "rank_adp_ppr": 328,
       "rank_ecr": 283,
       "rank_ecr_half": 298,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 286,
+      "rank_ecr_ppr": 287,
       "reverse_name": "Williams, Kyle",
       "short_name": "K. Williams",
       "sportsdata_player_id": "3aa9330e-5201-4e99-ba55-0102f76bfe05",
@@ -11844,12 +11844,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 128,
+      "rank_adp": 116,
       "rank_adp_ppr": 133,
       "rank_ecr": 131,
       "rank_ecr_half": 138,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 135,
+      "rank_ecr_ppr": 134,
       "reverse_name": "Marks, Woody",
       "short_name": "W. Marks",
       "sportsdata_player_id": "b900661b-b5df-47c8-819d-bb13b106a60b",
@@ -11873,7 +11873,7 @@
       "rank_adp": 0,
       "rank_adp_ppr": 312,
       "rank_ecr": 207,
-      "rank_ecr_half": 211,
+      "rank_ecr_half": 210,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 208,
       "reverse_name": "Loop, Tyler",
@@ -11898,7 +11898,7 @@
       ],
       "rank_adp": 0,
       "rank_adp_ppr": 378,
-      "rank_ecr": 400,
+      "rank_ecr": 401,
       "rank_ecr_half": 449,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 407,
@@ -11922,7 +11922,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 331,
+      "rank_adp": 0,
       "rank_adp_ppr": 279,
       "rank_ecr": 415,
       "rank_ecr_half": 438,
@@ -11948,7 +11948,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 260,
+      "rank_adp": 238,
       "rank_adp_ppr": 296,
       "rank_ecr": 329,
       "rank_ecr_half": 334,
@@ -11975,7 +11975,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 248,
+      "rank_adp": 237,
       "rank_adp_ppr": 198,
       "rank_ecr": 275,
       "rank_ecr_half": 274,
@@ -12002,7 +12002,7 @@
       "positions": [
         "QB"
       ],
-      "rank_adp": 190,
+      "rank_adp": 210,
       "rank_adp_ppr": 165,
       "rank_ecr": 261,
       "rank_ecr_half": 243,
@@ -12029,7 +12029,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 232,
+      "rank_adp": 227,
       "rank_adp_ppr": 276,
       "rank_ecr": 280,
       "rank_ecr_half": 269,
@@ -12056,7 +12056,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 309,
+      "rank_adp": 0,
       "rank_adp_ppr": 417,
       "rank_ecr": 381,
       "rank_ecr_half": 375,
@@ -12083,9 +12083,9 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 294,
+      "rank_adp": 0,
       "rank_adp_ppr": 454,
-      "rank_ecr": 368,
+      "rank_ecr": 365,
       "rank_ecr_half": 365,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 372,
@@ -12110,7 +12110,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 209,
+      "rank_adp": 197,
       "rank_adp_ppr": 208,
       "rank_ecr": 249,
       "rank_ecr_half": 267,
@@ -12137,7 +12137,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 155,
+      "rank_adp": 125,
       "rank_adp_ppr": 170,
       "rank_ecr": 186,
       "rank_ecr_half": 198,
@@ -12164,12 +12164,12 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 168,
+      "rank_adp": 154,
       "rank_adp_ppr": 194,
-      "rank_ecr": 179,
+      "rank_ecr": 183,
       "rank_ecr_half": 200,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 204,
+      "rank_ecr_ppr": 206,
       "reverse_name": "Washington, Mike",
       "rookie": "Y",
       "short_name": "M. Washington Jr.",
@@ -12191,7 +12191,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 348,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 361,
       "rank_ecr_half": 363,
@@ -12299,7 +12299,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 344,
+      "rank_adp": 0,
       "rank_adp_ppr": 485,
       "rank_ecr": 427,
       "rank_ecr_half": 402,
@@ -12326,7 +12326,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 266,
+      "rank_adp": 0,
       "rank_adp_ppr": 383,
       "rank_ecr": 307,
       "rank_ecr_half": 312,
@@ -12353,7 +12353,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 154,
+      "rank_adp": 169,
       "rank_adp_ppr": 152,
       "rank_ecr": 162,
       "rank_ecr_half": 156,
@@ -12380,7 +12380,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 305,
+      "rank_adp": 0,
       "rank_adp_ppr": 293,
       "rank_ecr": 352,
       "rank_ecr_half": 353,
@@ -12407,10 +12407,10 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 206,
+      "rank_adp": 220,
       "rank_adp_ppr": 234,
       "rank_ecr": 247,
-      "rank_ecr_half": 215,
+      "rank_ecr_half": 214,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 240,
       "reverse_name": "Hurst, Ted",
@@ -12434,7 +12434,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 272,
+      "rank_adp": 0,
       "rank_adp_ppr": 245,
       "rank_ecr": 384,
       "rank_ecr_half": 380,
@@ -12461,7 +12461,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 286,
+      "rank_adp": 0,
       "rank_adp_ppr": 272,
       "rank_ecr": 351,
       "rank_ecr_half": 344,
@@ -12488,7 +12488,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 271,
+      "rank_adp": 0,
       "rank_adp_ppr": 363,
       "rank_ecr": 333,
       "rank_ecr_half": 333,
@@ -12515,7 +12515,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 366,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 496,
       "rank_ecr_half": 567,
@@ -12542,7 +12542,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 204,
+      "rank_adp": 240,
       "rank_adp_ppr": 202,
       "rank_ecr": 224,
       "rank_ecr_half": 196,
@@ -12569,7 +12569,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 282,
+      "rank_adp": 0,
       "rank_adp_ppr": 381,
       "rank_ecr": 375,
       "rank_ecr_half": 372,
@@ -12596,7 +12596,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 380,
+      "rank_adp": 0,
       "rank_adp_ppr": 561,
       "rank_ecr": 419,
       "rank_ecr_half": 432,
@@ -12623,7 +12623,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 350,
+      "rank_adp": 0,
       "rank_adp_ppr": 422,
       "rank_ecr": 491,
       "rank_ecr_half": 465,
@@ -12650,7 +12650,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 338,
+      "rank_adp": 0,
       "rank_adp_ppr": 332,
       "rank_ecr": 353,
       "rank_ecr_half": 339,
@@ -12677,9 +12677,9 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 254,
+      "rank_adp": 0,
       "rank_adp_ppr": 260,
-      "rank_ecr": 278,
+      "rank_ecr": 277,
       "rank_ecr_half": 291,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 296,
@@ -12704,7 +12704,7 @@
       "positions": [
         "RB"
       ],
-      "rank_adp": 415,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 425,
       "rank_ecr_half": 451,
@@ -12731,7 +12731,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 289,
+      "rank_adp": 0,
       "rank_adp_ppr": 412,
       "rank_ecr": 397,
       "rank_ecr_half": 390,
@@ -12758,7 +12758,7 @@
       "positions": [
         "TE"
       ],
-      "rank_adp": 382,
+      "rank_adp": 0,
       "rank_adp_ppr": 0,
       "rank_ecr": 437,
       "rank_ecr_half": 436,
@@ -12837,7 +12837,7 @@
       "positions": [
         "WR"
       ],
-      "rank_adp": 315,
+      "rank_adp": 0,
       "rank_adp_ppr": 335,
       "rank_ecr": 465,
       "rank_ecr_half": 441,

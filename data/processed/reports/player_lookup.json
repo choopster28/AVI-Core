@@ -411,18 +411,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00013305",
-      "c_avi": 42.5,
-      "d_avi": 61.4,
-      "nfl_team": "LVR",
-      "player_name": "Mike Washington",
-      "position": "RB",
-      "sleeper_id": "13305",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00005995",
       "c_avi": 42.4,
       "d_avi": 50.6,
@@ -430,6 +418,18 @@
       "player_name": "Justice Hill",
       "position": "RB",
       "sleeper_id": "5995",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013305",
+      "c_avi": 42.4,
+      "d_avi": 61.3,
+      "nfl_team": "LVR",
+      "player_name": "Mike Washington",
+      "position": "RB",
+      "sleeper_id": "13305",
       "status": "Active"
     },
     {
@@ -615,18 +615,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012467",
-      "c_avi": 38.6,
-      "d_avi": 48.6,
-      "nfl_team": "SF",
-      "player_name": "Jordan James",
-      "position": "RB",
-      "sleeper_id": "12467",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011783",
       "c_avi": 38.6,
       "d_avi": 56.5,
@@ -646,6 +634,18 @@
       "player_name": "Darius Slayton",
       "position": "WR",
       "sleeper_id": "6149",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012467",
+      "c_avi": 38.5,
+      "d_avi": 48.5,
+      "nfl_team": "SF",
+      "player_name": "Jordan James",
+      "position": "RB",
+      "sleeper_id": "12467",
       "status": "Active"
     },
     {
@@ -1059,6 +1059,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011571",
+      "c_avi": 32.4,
+      "d_avi": 51.6,
+      "nfl_team": "NYJ",
+      "player_name": "Isaiah Davis",
+      "position": "RB",
+      "sleeper_id": "11571",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00009757",
       "c_avi": 32.4,
       "d_avi": 52.0,
@@ -1090,18 +1102,6 @@
       "player_name": "Carson Beck",
       "position": "QB",
       "sleeper_id": "13272",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011571",
-      "c_avi": 32.3,
-      "d_avi": 51.5,
-      "nfl_team": "NYJ",
-      "player_name": "Isaiah Davis",
-      "position": "RB",
-      "sleeper_id": "11571",
       "status": "Active"
     },
     {
@@ -1157,7 +1157,7 @@
       "availability": "available",
       "avi_id": "AVI-00013268",
       "c_avi": 31.1,
-      "d_avi": 58.8,
+      "d_avi": 58.9,
       "nfl_team": "BAL",
       "player_name": "Elijah Sarratt",
       "position": "WR",
@@ -1192,7 +1192,7 @@
       "active": true,
       "availability": "available",
       "avi_id": "AVI-00009506",
-      "c_avi": 30.7,
+      "c_avi": 30.8,
       "d_avi": 55.1,
       "nfl_team": "TB",
       "player_name": "Sean Tucker",
@@ -1335,18 +1335,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012455",
-      "c_avi": 28.2,
-      "d_avi": 49.6,
-      "nfl_team": "KC",
-      "player_name": "Brashard Smith",
-      "position": "RB",
-      "sleeper_id": "12455",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00009501",
       "c_avi": 28.2,
       "d_avi": 50.3,
@@ -1354,6 +1342,18 @@
       "player_name": "DeMario Douglas",
       "position": "WR",
       "sleeper_id": "9501",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012455",
+      "c_avi": 28.1,
+      "d_avi": 49.5,
+      "nfl_team": "KC",
+      "player_name": "Brashard Smith",
+      "position": "RB",
+      "sleeper_id": "12455",
       "status": "Active"
     },
     {
@@ -1492,8 +1492,8 @@
       "active": true,
       "availability": "available",
       "avi_id": "AVI-00013347",
-      "c_avi": 26.9,
-      "d_avi": 52.9,
+      "c_avi": 26.8,
+      "d_avi": 52.8,
       "nfl_team": "MIN",
       "player_name": "Demond Claiborne",
       "position": "RB",
@@ -1563,6 +1563,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00006130",
+      "c_avi": 25.7,
+      "d_avi": 47.6,
+      "nfl_team": "NYG",
+      "player_name": "Devin Singletary",
+      "position": "RB",
+      "sleeper_id": "6130",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008125",
       "c_avi": 25.6,
       "d_avi": 43.6,
@@ -1570,18 +1582,6 @@
       "player_name": "Calvin Austin",
       "position": "WR",
       "sleeper_id": "8125",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00006130",
-      "c_avi": 25.6,
-      "d_avi": 47.5,
-      "nfl_team": "NYG",
-      "player_name": "Devin Singletary",
-      "position": "RB",
-      "sleeper_id": "6130",
       "status": "Active"
     },
     {
@@ -1731,18 +1731,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012476",
-      "c_avi": 23.7,
-      "d_avi": 52.2,
-      "nfl_team": "NO",
-      "player_name": "Devin Neal",
-      "position": "RB",
-      "sleeper_id": "12476",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00007528",
       "c_avi": 23.7,
       "d_avi": 49.7,
@@ -1750,6 +1738,18 @@
       "player_name": "Najee Harris",
       "position": "RB",
       "sleeper_id": "7528",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012476",
+      "c_avi": 23.6,
+      "d_avi": 52.2,
+      "nfl_team": "NO",
+      "player_name": "Devin Neal",
+      "position": "RB",
+      "sleeper_id": "12476",
       "status": "Active"
     },
     {

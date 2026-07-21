@@ -8705,52 +8705,6 @@
   {
     "active": true,
     "aliases": [
-      "Mike Washington",
-      "Mike Washington Jr."
-    ],
-    "avi_id": "AVI-00013305",
-    "c_avi": 42.5,
-    "canonical_name": "Mike Washington",
-    "components": {
-      "age_lifecycle": 50.0,
-      "dynasty_market": 70.7182320441989,
-      "elite_upside": 40.537923038410526,
-      "league_context": 35.94594594594595,
-      "player_points": 0.0,
-      "projection": 28.37837837837838,
-      "public_market": 68.91019391181887,
-      "redraft_market": 65.29411764705883
-    },
-    "d_avi": 61.4,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_v1",
-    "nfl_team": "LVR",
-    "normalized_name": "mike washington",
-    "position": "RB",
-    "projection": {
-      "component_score": 28.37837837837838,
-      "percentile": 47.2972972972973,
-      "position_rank": 59,
-      "raw_points": 77.71
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26932,
-      "fantasypros_id": "28108",
-      "nfl_id": null,
-      "rotowire_id": 19300,
-      "sleeper_id": "13305",
-      "sportradar_id": "b783f45a-16ea-4145-9f3a-fafaa1bb0058",
-      "sportsdata_player_id": "b783f45a-16ea-4145-9f3a-fafaa1bb0058"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Justice Hill"
     ],
     "avi_id": "AVI-00005995",
@@ -8791,6 +8745,52 @@
       "sleeper_id": "5995",
       "sportradar_id": "528e71ec-8fb3-4928-ace5-fc5ffbf26eb3",
       "sportsdata_player_id": "528e71ec-8fb3-4928-ace5-fc5ffbf26eb3"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Mike Washington",
+      "Mike Washington Jr."
+    ],
+    "avi_id": "AVI-00013305",
+    "c_avi": 42.4,
+    "canonical_name": "Mike Washington",
+    "components": {
+      "age_lifecycle": 50.0,
+      "dynasty_market": 70.7182320441989,
+      "elite_upside": 40.47909950899876,
+      "league_context": 35.94594594594595,
+      "player_points": 0.0,
+      "projection": 28.37837837837838,
+      "public_market": 68.71411548044632,
+      "redraft_market": 64.70588235294117
+    },
+    "d_avi": 61.3,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_v1",
+    "nfl_team": "LVR",
+    "normalized_name": "mike washington",
+    "position": "RB",
+    "projection": {
+      "component_score": 28.37837837837838,
+      "percentile": 47.2972972972973,
+      "position_rank": 59,
+      "raw_points": 77.71
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26932,
+      "fantasypros_id": "28108",
+      "nfl_id": null,
+      "rotowire_id": 19300,
+      "sleeper_id": "13305",
+      "sportradar_id": "b783f45a-16ea-4145-9f3a-fafaa1bb0058",
+      "sportsdata_player_id": "b783f45a-16ea-4145-9f3a-fafaa1bb0058"
     }
   },
   {
@@ -9696,51 +9696,6 @@
   {
     "active": true,
     "aliases": [
-      "Jordan James"
-    ],
-    "avi_id": "AVI-00012467",
-    "c_avi": 38.6,
-    "canonical_name": "Jordan James",
-    "components": {
-      "age_lifecycle": 50.0,
-      "dynasty_market": 50.27624309392265,
-      "elite_upside": 37.139509350104085,
-      "league_context": 38.68468468468468,
-      "player_points": 0.0,
-      "projection": 30.54054054054054,
-      "public_market": 52.537103239085695,
-      "redraft_market": 57.05882352941177
-    },
-    "d_avi": 48.6,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_v1",
-    "nfl_team": "SF",
-    "normalized_name": "jordan james",
-    "position": "RB",
-    "projection": {
-      "component_score": 30.54054054054054,
-      "percentile": 50.9009009009009,
-      "position_rank": 55,
-      "raw_points": 93.21
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 25903,
-      "fantasypros_id": "27310",
-      "nfl_id": "2574540",
-      "rotowire_id": 18485,
-      "sleeper_id": "12467",
-      "sportradar_id": "c16040c3-7534-4eeb-956c-8ed3be9972ec",
-      "sportsdata_player_id": "c16040c3-7534-4eeb-956c-8ed3be9972ec"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Ryan Flournoy"
     ],
     "avi_id": "AVI-00011783",
@@ -9826,6 +9781,51 @@
       "sleeper_id": "6149",
       "sportradar_id": "82ed30a5-54a8-4ed0-b040-99c3a78fb055",
       "sportsdata_player_id": "82ed30a5-54a8-4ed0-b040-99c3a78fb055"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Jordan James"
+    ],
+    "avi_id": "AVI-00012467",
+    "c_avi": 38.5,
+    "canonical_name": "Jordan James",
+    "components": {
+      "age_lifecycle": 50.0,
+      "dynasty_market": 50.27624309392265,
+      "elite_upside": 37.08068582069232,
+      "league_context": 38.68468468468468,
+      "player_points": 0.0,
+      "projection": 30.54054054054054,
+      "public_market": 52.34102480771313,
+      "redraft_market": 56.470588235294116
+    },
+    "d_avi": 48.5,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_v1",
+    "nfl_team": "SF",
+    "normalized_name": "jordan james",
+    "position": "RB",
+    "projection": {
+      "component_score": 30.54054054054054,
+      "percentile": 50.9009009009009,
+      "position_rank": 55,
+      "raw_points": 93.21
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25903,
+      "fantasypros_id": "27310",
+      "nfl_id": "2574540",
+      "rotowire_id": 18485,
+      "sleeper_id": "12467",
+      "sportradar_id": "c16040c3-7534-4eeb-956c-8ed3be9972ec",
+      "sportsdata_player_id": "c16040c3-7534-4eeb-956c-8ed3be9972ec"
     }
   },
   {
@@ -11683,6 +11683,51 @@
   {
     "active": true,
     "aliases": [
+      "Isaiah Davis"
+    ],
+    "avi_id": "AVI-00011571",
+    "c_avi": 32.4,
+    "canonical_name": "Isaiah Davis",
+    "components": {
+      "age_lifecycle": 50.0,
+      "dynasty_market": 58.011049723756905,
+      "elite_upside": 30.74052473012499,
+      "league_context": 24.306306306306308,
+      "player_points": 0.0,
+      "projection": 19.18918918918919,
+      "public_market": 57.69364099230853,
+      "redraft_market": 57.05882352941177
+    },
+    "d_avi": 51.6,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_v1",
+    "nfl_team": "NYJ",
+    "normalized_name": "isaiah davis",
+    "position": "RB",
+    "projection": {
+      "component_score": 19.18918918918919,
+      "percentile": 31.98198198198198,
+      "position_rank": 76,
+      "raw_points": 37.6
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25064,
+      "fantasypros_id": "25977",
+      "nfl_id": "2572360",
+      "rotowire_id": 17057,
+      "sleeper_id": "11571",
+      "sportradar_id": "849789be-b8f0-4d97-a777-2fcf336efa6a",
+      "sportsdata_player_id": "849789be-b8f0-4d97-a777-2fcf336efa6a"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Kendre Miller"
     ],
     "avi_id": "AVI-00009757",
@@ -11813,51 +11858,6 @@
       "sleeper_id": "13272",
       "sportradar_id": "a67c28ce-9e03-46f1-9fb6-b5ef70eb20db",
       "sportsdata_player_id": "a67c28ce-9e03-46f1-9fb6-b5ef70eb20db"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Isaiah Davis"
-    ],
-    "avi_id": "AVI-00011571",
-    "c_avi": 32.3,
-    "canonical_name": "Isaiah Davis",
-    "components": {
-      "age_lifecycle": 50.0,
-      "dynasty_market": 58.011049723756905,
-      "elite_upside": 30.62287767130146,
-      "league_context": 24.306306306306308,
-      "player_points": 0.0,
-      "projection": 19.18918918918919,
-      "public_market": 57.30148412956343,
-      "redraft_market": 55.88235294117647
-    },
-    "d_avi": 51.5,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_v1",
-    "nfl_team": "NYJ",
-    "normalized_name": "isaiah davis",
-    "position": "RB",
-    "projection": {
-      "component_score": 19.18918918918919,
-      "percentile": 31.98198198198198,
-      "position_rank": 76,
-      "raw_points": 37.6
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 25064,
-      "fantasypros_id": "25977",
-      "nfl_id": "2572360",
-      "rotowire_id": 17057,
-      "sleeper_id": "11571",
-      "sportradar_id": "849789be-b8f0-4d97-a777-2fcf336efa6a",
-      "sportsdata_player_id": "849789be-b8f0-4d97-a777-2fcf336efa6a"
     }
   },
   {
@@ -12051,14 +12051,14 @@
     "components": {
       "age_lifecycle": 50.0,
       "dynasty_market": 71.1297071129707,
-      "elite_upside": 29.096515363811452,
+      "elite_upside": 29.13961881208731,
       "league_context": 16.06711409395973,
       "player_points": 0.0,
       "projection": 12.684563758389261,
-      "public_market": 67.39106910979656,
-      "redraft_market": 59.91379310344828
+      "public_market": 67.5347472707161,
+      "redraft_market": 60.3448275862069
     },
-    "d_avi": 58.8,
+    "d_avi": 58.9,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -12182,17 +12182,17 @@
       "Sean Tucker"
     ],
     "avi_id": "AVI-00009506",
-    "c_avi": 30.7,
+    "c_avi": 30.8,
     "canonical_name": "Sean Tucker",
     "components": {
       "age_lifecycle": 50.0,
       "dynasty_market": 63.53591160220994,
-      "elite_upside": 28.82641920438475,
+      "elite_upside": 28.885242733796517,
       "league_context": 17.45945945945946,
       "player_points": 0.0,
       "projection": 13.783783783783782,
-      "public_market": 63.925901852453684,
-      "redraft_market": 64.70588235294117
+      "public_market": 64.12198028382623,
+      "redraft_market": 65.29411764705883
     },
     "d_avi": 55.1,
     "match": {
@@ -12766,51 +12766,6 @@
   {
     "active": true,
     "aliases": [
-      "Brashard Smith"
-    ],
-    "avi_id": "AVI-00012455",
-    "c_avi": 28.2,
-    "canonical_name": "Brashard Smith",
-    "components": {
-      "age_lifecycle": 50.0,
-      "dynasty_market": 56.9060773480663,
-      "elite_upside": 26.584713084875577,
-      "league_context": 18.144144144144143,
-      "player_points": 0.0,
-      "projection": 14.324324324324323,
-      "public_market": 55.19228685949518,
-      "redraft_market": 51.76470588235294
-    },
-    "d_avi": 49.6,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_v1",
-    "nfl_team": "KC",
-    "normalized_name": "brashard smith",
-    "position": "RB",
-    "projection": {
-      "component_score": 14.324324324324323,
-      "percentile": 23.873873873873872,
-      "position_rank": 85,
-      "raw_points": 32.5
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 25899,
-      "fantasypros_id": "27259",
-      "nfl_id": "2574256",
-      "rotowire_id": 18529,
-      "sleeper_id": "12455",
-      "sportradar_id": "3170164a-1718-4a39-9ef2-e18104e35fef",
-      "sportsdata_player_id": "3170164a-1718-4a39-9ef2-e18104e35fef"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "DeMario Douglas"
     ],
     "avi_id": "AVI-00009501",
@@ -12851,6 +12806,51 @@
       "sleeper_id": "9501",
       "sportradar_id": "962496d4-9ffa-471b-8dd2-fc5e60fee84b",
       "sportsdata_player_id": "962496d4-9ffa-471b-8dd2-fc5e60fee84b"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Brashard Smith"
+    ],
+    "avi_id": "AVI-00012455",
+    "c_avi": 28.1,
+    "canonical_name": "Brashard Smith",
+    "components": {
+      "age_lifecycle": 50.0,
+      "dynasty_market": 56.9060773480663,
+      "elite_upside": 26.525889555463813,
+      "league_context": 18.144144144144143,
+      "player_points": 0.0,
+      "projection": 14.324324324324323,
+      "public_market": 54.99620842812263,
+      "redraft_market": 51.1764705882353
+    },
+    "d_avi": 49.5,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_v1",
+    "nfl_team": "KC",
+    "normalized_name": "brashard smith",
+    "position": "RB",
+    "projection": {
+      "component_score": 14.324324324324323,
+      "percentile": 23.873873873873872,
+      "position_rank": 85,
+      "raw_points": 32.5
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25899,
+      "fantasypros_id": "27259",
+      "nfl_id": "2574256",
+      "rotowire_id": 18529,
+      "sleeper_id": "12455",
+      "sportradar_id": "3170164a-1718-4a39-9ef2-e18104e35fef",
+      "sportsdata_player_id": "3170164a-1718-4a39-9ef2-e18104e35fef"
     }
   },
   {
@@ -13354,19 +13354,19 @@
       "Demond Claiborne"
     ],
     "avi_id": "AVI-00013347",
-    "c_avi": 26.9,
+    "c_avi": 26.8,
     "canonical_name": "Demond Claiborne",
     "components": {
       "age_lifecycle": 50.0,
       "dynasty_market": 62.430939226519335,
-      "elite_upside": 25.133246668833277,
+      "elite_upside": 25.074423139421512,
       "league_context": 12.666666666666668,
       "player_points": 0.0,
       "projection": 10.0,
-      "public_market": 60.44415556277759,
-      "redraft_market": 56.470588235294116
+      "public_market": 60.24807713140505,
+      "redraft_market": 55.88235294117647
     },
-    "d_avi": 52.9,
+    "d_avi": 52.8,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -13621,6 +13621,51 @@
   {
     "active": true,
     "aliases": [
+      "Devin Singletary"
+    ],
+    "avi_id": "AVI-00006130",
+    "c_avi": 25.7,
+    "canonical_name": "Devin Singletary",
+    "components": {
+      "age_lifecycle": 50.0,
+      "dynasty_market": 54.14364640883978,
+      "elite_upside": 24.140335005138382,
+      "league_context": 14.72072072072072,
+      "player_points": 0.0,
+      "projection": 11.621621621621621,
+      "public_market": 53.350666233344164,
+      "redraft_market": 51.76470588235294
+    },
+    "d_avi": 47.6,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_v1",
+    "nfl_team": "NYG",
+    "normalized_name": "devin singletary",
+    "position": "RB",
+    "projection": {
+      "component_score": 11.621621621621621,
+      "percentile": 19.36936936936937,
+      "position_rank": 90,
+      "raw_points": 27.25
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": 4040761,
+      "fantasy_data_id": 20941,
+      "fantasypros_id": "18280",
+      "nfl_id": "2562734",
+      "rotowire_id": 13449,
+      "sleeper_id": "6130",
+      "sportradar_id": "a961b0d4-5d7c-438e-90f0-2e1fa09f6c89",
+      "sportsdata_player_id": "a961b0d4-5d7c-438e-90f0-2e1fa09f6c89"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Calvin Austin",
       "Calvin Austin III"
     ],
@@ -13662,51 +13707,6 @@
       "sleeper_id": "8125",
       "sportradar_id": "a95271f7-6dae-4b43-94fd-3ff04b15d4c4",
       "sportsdata_player_id": "a95271f7-6dae-4b43-94fd-3ff04b15d4c4"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Devin Singletary"
-    ],
-    "avi_id": "AVI-00006130",
-    "c_avi": 25.6,
-    "canonical_name": "Devin Singletary",
-    "components": {
-      "age_lifecycle": 50.0,
-      "dynasty_market": 54.14364640883978,
-      "elite_upside": 24.08151147572662,
-      "league_context": 14.72072072072072,
-      "player_points": 0.0,
-      "projection": 11.621621621621621,
-      "public_market": 53.154587801971616,
-      "redraft_market": 51.1764705882353
-    },
-    "d_avi": 47.5,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_v1",
-    "nfl_team": "NYG",
-    "normalized_name": "devin singletary",
-    "position": "RB",
-    "projection": {
-      "component_score": 11.621621621621621,
-      "percentile": 19.36936936936937,
-      "position_rank": 90,
-      "raw_points": 27.25
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": 4040761,
-      "fantasy_data_id": 20941,
-      "fantasypros_id": "18280",
-      "nfl_id": "2562734",
-      "rotowire_id": 13449,
-      "sleeper_id": "6130",
-      "sportradar_id": "a961b0d4-5d7c-438e-90f0-2e1fa09f6c89",
-      "sportsdata_player_id": "a961b0d4-5d7c-438e-90f0-2e1fa09f6c89"
     }
   },
   {
@@ -14252,51 +14252,6 @@
   {
     "active": true,
     "aliases": [
-      "Devin Neal"
-    ],
-    "avi_id": "AVI-00012476",
-    "c_avi": 23.7,
-    "canonical_name": "Devin Neal",
-    "components": {
-      "age_lifecycle": 50.0,
-      "dynasty_market": 62.98342541436464,
-      "elite_upside": 21.92259923231649,
-      "league_context": 7.1891891891891895,
-      "player_points": 0.0,
-      "projection": 5.675675675675675,
-      "public_market": 59.832087531145056,
-      "redraft_market": 53.529411764705884
-    },
-    "d_avi": 52.2,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_v1",
-    "nfl_team": "NO",
-    "normalized_name": "devin neal",
-    "position": "RB",
-    "projection": {
-      "component_score": 5.675675675675675,
-      "percentile": 9.45945945945946,
-      "position_rank": 101,
-      "raw_points": 19.2
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 25888,
-      "fantasypros_id": "23682",
-      "nfl_id": "2574402",
-      "rotowire_id": 18521,
-      "sleeper_id": "12476",
-      "sportradar_id": "4ef874c1-50c3-4120-9199-0d5a4ae7c6dd",
-      "sportsdata_player_id": "4ef874c1-50c3-4120-9199-0d5a4ae7c6dd"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Najee Harris"
     ],
     "avi_id": "AVI-00007528",
@@ -14337,6 +14292,51 @@
       "sleeper_id": "7528",
       "sportradar_id": "48ec58c3-ec26-4434-b005-8d34035e6667",
       "sportsdata_player_id": "48ec58c3-ec26-4434-b005-8d34035e6667"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Devin Neal"
+    ],
+    "avi_id": "AVI-00012476",
+    "c_avi": 23.6,
+    "canonical_name": "Devin Neal",
+    "components": {
+      "age_lifecycle": 50.0,
+      "dynasty_market": 62.98342541436464,
+      "elite_upside": 21.86377570290472,
+      "league_context": 7.1891891891891895,
+      "player_points": 0.0,
+      "projection": 5.675675675675675,
+      "public_market": 59.6360090997725,
+      "redraft_market": 52.94117647058823
+    },
+    "d_avi": 52.2,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_v1",
+    "nfl_team": "NO",
+    "normalized_name": "devin neal",
+    "position": "RB",
+    "projection": {
+      "component_score": 5.675675675675675,
+      "percentile": 9.45945945945946,
+      "position_rank": 101,
+      "raw_points": 19.2
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25888,
+      "fantasypros_id": "23682",
+      "nfl_id": "2574402",
+      "rotowire_id": 18521,
+      "sleeper_id": "12476",
+      "sportradar_id": "4ef874c1-50c3-4120-9199-0d5a4ae7c6dd",
+      "sportsdata_player_id": "4ef874c1-50c3-4120-9199-0d5a4ae7c6dd"
     }
   },
   {
@@ -15072,12 +15072,12 @@
     "components": {
       "age_lifecycle": 50.0,
       "dynasty_market": 64.08839779005525,
-      "elite_upside": 19.246932340205007,
+      "elite_upside": 19.30575586961677,
       "league_context": 2.054054054054054,
       "player_points": 0.0,
       "projection": 1.6216216216216215,
-      "public_market": 60.37265735023291,
-      "redraft_market": 52.94117647058823
+      "public_market": 60.56873578160546,
+      "redraft_market": 53.529411764705884
     },
     "d_avi": 52.3,
     "match": {
@@ -17370,8 +17370,8 @@
       "league_context": null,
       "player_points": 0.0,
       "projection": null,
-      "public_market": 63.629586880200065,
-      "redraft_market": 60.3448275862069
+      "public_market": 63.48590871928053,
+      "redraft_market": 59.91379310344828
     },
     "d_avi": 0.0,
     "match": {
