@@ -2962,6 +2962,31 @@
   {
     "active": true,
     "aliases": [
+      "Drew Allar"
+    ],
+    "avi_id": "AVI-00013289",
+    "canonical_name": "Drew Allar",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "PIT",
+    "normalized_name": "drew allar",
+    "position": "QB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 28045,
+      "fantasypros_id": "24345",
+      "nfl_id": null,
+      "rotowire_id": 19286,
+      "sleeper_id": "13289",
+      "sportradar_id": "0667d256-9f37-4b21-b1c9-fb105aaf97a2",
+      "sportsdata_player_id": "0667d256-9f37-4b21-b1c9-fb105aaf97a2"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Drew Sample"
     ],
     "avi_id": "AVI-00006001",
@@ -7500,6 +7525,31 @@
       "sleeper_id": "6819",
       "sportradar_id": "1aefd5e2-1f85-471a-91a5-4aad4cf6fe6d",
       "sportsdata_player_id": "1aefd5e2-1f85-471a-91a5-4aad4cf6fe6d"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Michael Trigg"
+    ],
+    "avi_id": "AVI-00013401",
+    "canonical_name": "Michael Trigg",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "DAL",
+    "normalized_name": "michael trigg",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 28066,
+      "fantasypros_id": "23167",
+      "nfl_id": null,
+      "rotowire_id": 19346,
+      "sleeper_id": "13401",
+      "sportradar_id": "6bff41b0-4191-11f1-9de2-13456d982f5a",
+      "sportsdata_player_id": "6bff41b0-4191-11f1-9de2-13456d982f5a"
     }
   },
   {

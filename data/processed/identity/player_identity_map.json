@@ -2116,6 +2116,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "23167",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DAL",
+    "player_name": "Michael Trigg",
+    "position": "TE",
+    "sleeper_id": "13401"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23179",
     "match_method": "exact_name_position_unique",
     "nfl_team": "TB",
@@ -2419,6 +2428,15 @@
     "player_name": "Jaydon Blue",
     "position": "RB",
     "sleeper_id": "12457"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "24345",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PIT",
+    "player_name": "Drew Allar",
+    "position": "QB",
+    "sleeper_id": "13289"
   },
   {
     "confidence": "verified",

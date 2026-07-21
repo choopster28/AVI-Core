@@ -1,7 +1,130 @@
 {
-  "count": 22,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-20 23:01:36",
+      "created_formated": "Mon, Jul 20th 11:01pm UTC",
+      "desc": "Jordan Whitehead has been cleared to resume his NFL career after undergoing neck surgery. ",
+      "id": 597174,
+      "impact": "Whitehead suffered a serious neck injury in a car crash last year that led to him requiring surgery. He has visited the Colts and Texans with more visits expected to be coming up. ",
+      "link": "https://www.fantasypros.com/nfl/news/597174/jordan-whitehead-neck-cleared-to-resume-nfl-career.php",
+      "player_id": 17409,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jordan Whitehead (neck) cleared to resume NFL career"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-20 20:35:51",
+      "created_formated": "Mon, Jul 20th 8:35pm UTC",
+      "desc": "The Patriots have signed defensive end Isaiah Iton.",
+      "id": 597125,
+      "impact": "Iton didn't play in 2025 after being placed on Injured Reserve, but is getting a second chance in 2026. It's unlikely he is much more than a practice squad addition this season.",
+      "link": "https://www.fantasypros.com/nfl/news/597125/isaiah-iton-signs-with-new-england-patriots-.php",
+      "player_id": 26592,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Isaiah Iton signs with New England Patriots "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-20 20:33:11",
+      "created_formated": "Mon, Jul 20th 8:33pm UTC",
+      "desc": "The Seahawks placed Tyrone Broden on the PUP list. ",
+      "id": 597123,
+      "impact": "Broden is still recovering from an injury he suffered last season. ",
+      "link": "https://www.fantasypros.com/nfl/news/597123/tyrone-broden-placed-on-pup-list.php",
+      "player_id": 27780,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Tyrone Broden placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-20 20:32:14",
+      "created_formated": "Mon, Jul 20th 8:32pm UTC",
+      "desc": "The Seahawks placed RB Kenny McIntosh on the PUP list. ",
+      "id": 597122,
+      "impact": "McIntosh is continuing to work his way back from a knee injury he suffered last season. ",
+      "link": "https://www.fantasypros.com/nfl/news/597122/kenny-mcintosh-placed-on-pup-list.php",
+      "player_id": 25329,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Kenny McIntosh placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-20 20:31:11",
+      "created_formated": "Mon, Jul 20th 8:31pm UTC",
+      "desc": "The Seahawks placed Nick Emmanwori on the PUP list. ",
+      "id": 597121,
+      "impact": "It is unclear what Emmanwori is dealing with, but he won't be ready for the start of training camp. He made an immediate huge impact as a rookie last season for the Super Bowl champions. There should be an update on his status when available. ",
+      "link": "https://www.fantasypros.com/nfl/news/597121/nick-emmanwori-placed-on-pup-list.php",
+      "player_id": 27053,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Nick Emmanwori placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-20 20:26:03",
+      "created_formated": "Mon, Jul 20th 8:26pm UTC",
+      "desc": "The Packers are hopeful to land a contract extension with Tucker Kraft.",
+      "id": 597119,
+      "impact": "Kraft is entering the final year of his deal. He is working his way back from a knee injury and is on track to be ready for Week 1. ",
+      "link": "https://www.fantasypros.com/nfl/news/597119/tucker-kraft-hopeful-to-sign-extension-with-packers.php",
+      "player_id": 25298,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Tucker Kraft hopeful to sign extension with Packers"
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-20 19:13:06",
+      "created_formated": "Mon, Jul 20th 7:13pm UTC",
+      "desc": "Devonte Wyatt has agreed to a 3-year, $57 million contract extension with the Green Bay Packers.",
+      "id": 597095,
+      "impact": "Wyatt's extension also includes a $20-million signing bonus. The defensive tackle played in 10 games last season and totaled four sacks, six tackles for loss and seven quarterback hits.",
+      "link": "https://www.fantasypros.com/nfl/news/597095/devonte-wyatt-agrees-to-3-year-extension-with-packers.php",
+      "player_id": 23757,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Devonte Wyatt agrees to 3-year extension with Packers"
+    },
     {
       "author": "Garrett Ball",
       "categories": [
@@ -311,74 +434,6 @@
       "sport_id": "NFL",
       "team_id": "CHI",
       "title": "Sam Roush signs rookie contract with Bears"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-12 04:12:07",
-      "created_formated": "Sun, Jul 12th 4:12am UTC",
-      "desc": "Adam Schefter reported free agent CB Terrion Arnold \"took a physical in Houston\" for the Texans on Thursday.",
-      "id": 596138,
-      "impact": "Arnold is scheduled to visit with two more teams next week. He is awaiting his trial for the multiple felonies he's facing. Arnold was waived by the Lions on June 29th and became an outright free agent after going unclaimed on waivers. ",
-      "link": "https://www.fantasypros.com/nfl/news/596138/terrion-arnold-takes-physical-texans.php",
-      "player_id": 26133,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Terrion Arnold takes physical for Texans"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-12 04:04:32",
-      "created_formated": "Sun, Jul 12th 4:04am UTC",
-      "desc": "Aaron Donald worked out at the Rams facility on Friday.",
-      "id": 596137,
-      "impact": "Donald has been hinting at a return with the Rams following the team's trade for Myles Garrett. This will remain a situation to monitor heading into the start of training camp later in July. ",
-      "link": "https://www.fantasypros.com/nfl/news/596137/aaron-donald-works-out-rams-facility.php",
-      "player_id": 12205,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Aaron Donald works out at Rams facility"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-06-26 14:58:52",
-      "created_formated": "Fri, Jun 26th 2:58pm UTC",
-      "desc": "The Broncos reached an agreement with third-round pick Tyler Onyedim on his rookie contract. ",
-      "id": 593454,
-      "impact": "Onyedim reaches a deal worth $7.39 million over four years with a $1.83 million signing bonus.",
-      "link": "https://www.fantasypros.com/nfl/news/593454/tyler-onyedim-signs-rookie-deal-with-broncos-.php",
-      "player_id": 28306,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Tyler Onyedim signs rookie deal with Broncos "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-06-26 14:56:50",
-      "created_formated": "Fri, Jun 26th 2:56pm UTC",
-      "desc": "Carson Beck is the last unsigned player of the Cardinals 2026 NFL Draft class. ",
-      "id": 593453,
-      "impact": "Kaleb Proctor was recently the second to last rookie to sign with Arizona. They should look to get a deal done with Beck by training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/593453/carson-beck-has-not-signed-rookie-contract-with-cardinals-.php",
-      "player_id": 22953,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Carson Beck has not signed rookie contract with Cardinals "
     }
   ],
   "public_api_limited": true,

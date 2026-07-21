@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-07-20
+- Last updated from Sleeper exports: 2026-07-21
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,19 +21,19 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 486.9
-- championship_lineup_c_avi_avg: 81.15
-- offensive_roster_c_avi_sum: 543.8
-- offensive_roster_c_avi_avg: 67.97
-- offensive_roster_d_avi_sum: 565.6
-- offensive_roster_d_avi_avg: 70.70
+- championship_lineup_c_avi_sum: 487.1
+- championship_lineup_c_avi_avg: 81.18
+- offensive_roster_c_avi_sum: 544.3
+- offensive_roster_c_avi_avg: 68.04
+- offensive_roster_d_avi_sum: 565.8
+- offensive_roster_d_avi_avg: 70.72
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Dak Prescott | C-AVI: 76.5 | D-AVI: 79.3
+- QB: Dak Prescott | C-AVI: 76.6 | D-AVI: 79.3
 - RB: Jonathan Taylor | C-AVI: 97.6 | D-AVI: 89.8
 - RB: Chase Brown | C-AVI: 96.3 | D-AVI: 88.4
-- WR: DK Metcalf | C-AVI: 70.7 | D-AVI: 77.2
+- WR: DK Metcalf | C-AVI: 70.8 | D-AVI: 77.3
 - WR: Parker Washington | C-AVI: 64.8 | D-AVI: 75.0
 - FLEX: Javonte Williams | C-AVI: 81.0 | D-AVI: 82.3
 
@@ -51,7 +51,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 76.5
+- Championship AVI (C-AVI, 0-100): 76.6
 - Dynasty AVI (D-AVI, 0-100): 79.3
 - Projected PPR points: 306.0
 - Category: offense
@@ -68,8 +68,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 56.9
-- Dynasty AVI (D-AVI, 0-100): 73.6
+- Championship AVI (C-AVI, 0-100): 57.2
+- Dynasty AVI (D-AVI, 0-100): 73.7
 - Projected PPR points: 287.3
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -136,8 +136,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 70.7
-- Dynasty AVI (D-AVI, 0-100): 77.2
+- Championship AVI (C-AVI, 0-100): 70.8
+- Dynasty AVI (D-AVI, 0-100): 77.3
 - Projected PPR points: 194.7
 - Category: offense
 - Valuation status: PROVISIONAL_V1
