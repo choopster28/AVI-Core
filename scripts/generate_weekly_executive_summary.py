@@ -17,6 +17,10 @@ LINEUP_RE = re.compile(
     r"^- (QB|RB|WR|TE|FLEX): (.+?) \| C-AVI: ([0-9.]+) \| D-AVI: ([0-9.]+)$"
 )
 PLAYER_RE = re.compile(r"^### PLAYER: (.+)$")
+PICK_SIGNAL_RE = re.compile(
+    r"\b(20\d{2})\b.*\b(1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|round|pick|1\.\d{2})\b",
+    re.IGNORECASE,
+)
 
 
 def slugify(value: str) -> str:
@@ -46,12 +50,70 @@ def parse_fields(lines: list[str]) -> dict[str, str]:
     return fields
 
 
+def draft_knowledge_files() -> list[Path]:
+    files = []
+    for path in KNOWLEDGE.rglob("*"):
+        if not path.is_file() or OUTPUT in path.parents or TEAMS in path.parents:
+            continue
+        normalized = path.name.lower().replace("-", "_")
+        if normalized.startswith("01_") or "draft_pick" in normalized or "draft pick" in normalized:
+            files.append(path)
+    return sorted(set(files))
+
+
+def clean_asset_line(line: str, team_name: str) -> str:
+    cleaned = line.strip().lstrip("-*• ").strip()
+    cleaned = re.sub(re.escape(team_name), "", cleaned, flags=re.IGNORECASE)
+    cleaned = cleaned.lstrip(":|-–— ").strip()
+    return re.sub(r"\s+", " ", cleaned)
+
+
+def extract_draft_assets(team_name: str) -> tuple[list[str], list[str]]:
+    assets: list[str] = []
+    sources: list[str] = []
+    team_key = team_name.casefold()
+
+    for path in draft_knowledge_files():
+        try:
+            lines = path.read_text(encoding="utf-8").splitlines()
+        except UnicodeDecodeError:
+            continue
+
+        matched_in_file = False
+        for index, line in enumerate(lines):
+            if team_key not in line.casefold():
+                continue
+
+            # Capture the team-labelled line and the following team subsection until
+            # the next peer heading or another franchise label. Only retain lines
+            # with an explicit draft-pick signal; nothing is inferred from position.
+            window = [line]
+            for following in lines[index + 1 : index + 40]:
+                if following.startswith("#") and team_key not in following.casefold():
+                    break
+                if following.strip():
+                    window.append(following)
+
+            for candidate in window:
+                if not PICK_SIGNAL_RE.search(candidate):
+                    continue
+                cleaned = clean_asset_line(candidate, team_name)
+                if cleaned and cleaned not in assets:
+                    assets.append(cleaned)
+                    matched_in_file = True
+
+        if matched_in_file:
+            sources.append(str(path.relative_to(ROOT)))
+
+    return assets, sources
+
+
 def parse_team(path: Path) -> dict:
     lines = path.read_text(encoding="utf-8").splitlines()
     identity = parse_fields(section(lines, "## Team Identity"))
     counts = parse_fields(section(lines, "## Roster Counts"))
     scores = parse_fields(section(lines, "## Raw Team Score Inputs, Not Static Rankings"))
-    picks = [line[2:].strip() for line in section(lines, "## Current Draft Pick Assets") if line.startswith("- ")]
+    embedded_picks = [line[2:].strip() for line in section(lines, "## Current Draft Pick Assets") if line.startswith("- ")]
 
     lineup = []
     for line in section(lines, "## Championship Lineup Used For Raw C-AVI Input"):
@@ -87,6 +149,10 @@ def parse_team(path: Path) -> dict:
     if not lineup:
         raise ValueError(f"Missing championship lineup in {path}")
 
+    external_picks, pick_sources = extract_draft_assets(identity["Team name"])
+    usable_embedded = [pick for pick in embedded_picks if "will be attached" not in pick.lower()]
+    picks = external_picks or usable_embedded
+
     return {
         "source_file": str(path.relative_to(ROOT)),
         "team_name": identity["Team name"],
@@ -100,6 +166,7 @@ def parse_team(path: Path) -> dict:
         "lineup": lineup,
         "players": players,
         "picks": picks,
+        "pick_sources": pick_sources,
     }
 
 
@@ -133,14 +200,15 @@ def preseason_summary(team: dict, now: datetime) -> dict:
             "There is no knowledge-backed reason for an emergency replacement move this week."
         )
 
-    pick_detail = "; ".join(team["picks"])
-    if not pick_detail or "will be attached" in pick_detail.lower():
-        pick_body = (
-            "The team file does not yet contain attached draft-pick ownership. "
-            "No pick recommendation is published because the approved knowledge source does not verify one."
-        )
+    if team["picks"]:
+        pick_body = "The approved draft-pick knowledge file lists: " + "; ".join(team["picks"]) + "."
     else:
-        pick_body = f"Verified draft assets in the team file: {pick_detail}."
+        pick_body = (
+            "No franchise-labelled draft asset was found in the approved knowledge files. "
+            "The summary does not infer ownership from roster position or prior conversations."
+        )
+
+    source_files = [team["source_file"], *team["pick_sources"]]
 
     return {
         "schema_version": 2,
@@ -192,7 +260,7 @@ def preseason_summary(team: dict, now: datetime) -> dict:
         ],
         "source": {
             "policy": "AVI-Core/knowledge only",
-            "files": [team["source_file"]],
+            "files": source_files,
             "source_last_updated": team["source_updated"],
             "external_sources_used": False,
             "conversation_context_used": False,
