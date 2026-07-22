@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -10,12 +10,15 @@ ROOT = Path(__file__).resolve().parents[1]
 KNOWLEDGE = ROOT / "knowledge"
 TEAMS = KNOWLEDGE / "teams"
 OUTPUT = KNOWLEDGE / "franchise_summaries"
+HISTORICAL_TRADES = KNOWLEDGE / "02_AVI_Historical_Trades.md"
 MOUNTAIN = ZoneInfo("America/Denver")
 
 FIELD_RE = re.compile(r"^- ([^:]+):\s*(.*)$")
 LINEUP_RE = re.compile(r"^- (QB|RB|WR|TE|FLEX): (.+?) \| C-AVI: ([0-9.]+) \| D-AVI: ([0-9.]+)$")
 PLAYER_RE = re.compile(r"^### PLAYER: (.+)$")
 PICK_HEADING_RE = re.compile(r"^## PICK:\s*(.+?)(?:\s*\||$)")
+TRADE_HEADING_RE = re.compile(r"^### TRADE:\s*(\S+)")
+TRADE_TEAM_RE = re.compile(r"^####\s+(.+?)(?:\s+\(([^)]+)\))?\s*$")
 
 
 def slugify(value: str) -> str:
@@ -42,6 +45,12 @@ def fields(lines: list[str]) -> dict[str, str]:
         if match:
             result[match.group(1).strip()] = match.group(2).strip()
     return result
+
+
+def split_assets(value: str | None) -> list[str]:
+    if not value or value.strip().casefold() == "none":
+        return []
+    return [item.strip() for item in value.split(",") if item.strip()]
 
 
 def approved_support_files() -> list[Path]:
@@ -110,7 +119,187 @@ def extract_draft_assets(team_name: str, owner: str | None, roster_id: int) -> t
     return assets, sources
 
 
-def parse_team(path: Path) -> dict:
+def parse_historical_trades() -> list[dict]:
+    if not HISTORICAL_TRADES.exists():
+        return []
+
+    lines = HISTORICAL_TRADES.read_text(encoding="utf-8").splitlines()
+    trades: list[dict] = []
+    index = 0
+    while index < len(lines):
+        heading = TRADE_HEADING_RE.match(lines[index])
+        if not heading:
+            index += 1
+            continue
+
+        end = index + 1
+        while end < len(lines) and not TRADE_HEADING_RE.match(lines[end]):
+            end += 1
+        block = lines[index:end]
+
+        meta_lines: list[str] = []
+        team_blocks: list[dict] = []
+        cursor = 1
+        while cursor < len(block) and not TRADE_TEAM_RE.match(block[cursor]):
+            meta_lines.append(block[cursor])
+            cursor += 1
+
+        while cursor < len(block):
+            team_heading = TRADE_TEAM_RE.match(block[cursor])
+            if not team_heading:
+                cursor += 1
+                continue
+            team_end = cursor + 1
+            while team_end < len(block) and not TRADE_TEAM_RE.match(block[team_end]):
+                team_end += 1
+            team_fields = fields(block[cursor + 1 : team_end])
+            team_blocks.append(
+                {
+                    "team_name": team_heading.group(1).strip(),
+                    "owner": team_heading.group(2).strip() if team_heading.group(2) else None,
+                    "players_received": split_assets(team_fields.get("Players received")),
+                    "players_sent": split_assets(team_fields.get("Players sent")),
+                    "picks_received": split_assets(team_fields.get("Picks received")),
+                    "picks_sent": split_assets(team_fields.get("Picks sent")),
+                }
+            )
+            cursor = team_end
+
+        meta = fields(meta_lines)
+        created_raw = meta.get("Created at UTC")
+        try:
+            created_at = datetime.fromisoformat(created_raw) if created_raw else None
+        except ValueError:
+            created_at = None
+
+        trades.append(
+            {
+                "transaction_id": heading.group(1),
+                "season": int(meta.get("Season", "0") or 0),
+                "week": int(meta.get("Week", "0") or 0),
+                "created_at": created_at,
+                "teams": team_blocks,
+            }
+        )
+        index = end
+
+    return sorted(trades, key=lambda trade: trade["created_at"] or datetime.min, reverse=True)
+
+
+def player_value(player: dict) -> tuple[float | None, float | None]:
+    def number(key: str) -> float | None:
+        raw = player.get(key)
+        if raw in (None, "None", ""):
+            return None
+        try:
+            return float(raw)
+        except (TypeError, ValueError):
+            return None
+
+    return number("Championship AVI (C-AVI, 0-100)"), number("Dynasty AVI (D-AVI, 0-100)")
+
+
+def trade_relevance(trade: dict, side: dict, current_players: dict[str, dict]) -> float:
+    score = 0.0
+    for name in side["players_received"]:
+        player = current_players.get(name.casefold())
+        c_avi, d_avi = player_value(player) if player else (None, None)
+        score += max(c_avi or 0, d_avi or 0, 35)
+    score += 22 * len(side["players_sent"])
+    score += 35 * sum("round 1" in pick.casefold() for pick in side["picks_received"] + side["picks_sent"])
+    score += 10 * len(side["picks_received"] + side["picks_sent"])
+    return score
+
+
+def recent_trade_impacts(team: dict, now: datetime, ledger: list[dict]) -> list[dict]:
+    team_key = team["team_name"].casefold()
+    owner_key = (team.get("owner") or "").casefold()
+    current_players = {player["name"].casefold(): player for player in team["players"]}
+    lineup_by_name = {item["player"].casefold(): item for item in team["lineup"]}
+    candidates: list[tuple[float, dict, dict]] = []
+    cutoff = now.astimezone(ZoneInfo("UTC")) - timedelta(days=180)
+
+    for trade in ledger:
+        if trade["created_at"] and trade["created_at"] < cutoff:
+            continue
+        side = next(
+            (
+                entry
+                for entry in trade["teams"]
+                if entry["team_name"].casefold() == team_key
+                or (owner_key and (entry.get("owner") or "").casefold() == owner_key)
+            ),
+            None,
+        )
+        if not side:
+            continue
+        candidates.append((trade_relevance(trade, side, current_players), trade, side))
+
+    selected = sorted(
+        candidates,
+        key=lambda item: (item[0], item[1]["created_at"] or datetime.min),
+        reverse=True,
+    )[:3]
+    selected.sort(key=lambda item: item[1]["created_at"] or datetime.min, reverse=True)
+
+    impacts: list[dict] = []
+    for _, trade, side in selected:
+        counterparties = [entry["team_name"] for entry in trade["teams"] if entry is not side]
+        date_label = trade["created_at"].astimezone(MOUNTAIN).strftime("%B %-d") if trade["created_at"] else "Date unavailable"
+        acquired = side["players_received"] + side["picks_received"]
+        sent = side["players_sent"] + side["picks_sent"]
+
+        opening = f"On {date_label}, {team['team_name']}"
+        if counterparties:
+            opening += f" traded with {', '.join(counterparties)}"
+        if acquired:
+            opening += f" and acquired {', '.join(acquired)}"
+        if sent:
+            opening += f" while sending {', '.join(sent)}"
+        opening += "."
+
+        current_incoming: list[str] = []
+        for name in side["players_received"]:
+            player = current_players.get(name.casefold())
+            if not player:
+                continue
+            c_avi, d_avi = player_value(player)
+            lineup = lineup_by_name.get(name.casefold())
+            value_bits = []
+            if c_avi is not None:
+                value_bits.append(f"{c_avi:.1f} C-AVI")
+            if d_avi is not None:
+                value_bits.append(f"{d_avi:.1f} D-AVI")
+            role = f"the verified {lineup['slot']} starter" if lineup else "on the current roster"
+            current_incoming.append(f"{name} is now {role}" + (f" at {' and '.join(value_bits)}" if value_bits else ""))
+
+        impact_parts: list[str] = []
+        if current_incoming:
+            impact_parts.append("; ".join(current_incoming) + ".")
+        if side["picks_sent"]:
+            impact_parts.append(f"The transaction moved out {len(side['picks_sent'])} draft asset{'s' if len(side['picks_sent']) != 1 else ''}, which reduces the franchise's remaining draft flexibility relative to keeping those picks.")
+        if side["picks_received"]:
+            impact_parts.append(f"It added {len(side['picks_received'])} draft asset{'s' if len(side['picks_received']) != 1 else ''} to the franchise's asset base at the time of the deal.")
+        if not impact_parts:
+            impact_parts.append("The current knowledge files verify the asset exchange but do not provide enough current valuation detail for a stronger impact conclusion.")
+
+        impacts.append(
+            {
+                "transaction_id": trade["transaction_id"],
+                "created_at": trade["created_at"].isoformat() if trade["created_at"] else None,
+                "counterparties": counterparties,
+                "players_received": side["players_received"],
+                "players_sent": side["players_sent"],
+                "picks_received": side["picks_received"],
+                "picks_sent": side["picks_sent"],
+                "summary": opening + " " + " ".join(impact_parts),
+            }
+        )
+
+    return impacts
+
+
+def parse_team(path: Path, ledger: list[dict], now: datetime) -> dict:
     lines = path.read_text(encoding="utf-8").splitlines()
     identity = fields(section(lines, "## Team Identity"))
     counts = fields(section(lines, "## Roster Counts"))
@@ -152,7 +341,7 @@ def parse_team(path: Path) -> dict:
         identity["Team name"], identity.get("Owner display name"), roster_id
     )
 
-    return {
+    team = {
         "source_file": str(path.relative_to(ROOT)),
         "team_name": identity["Team name"],
         "roster_id": roster_id,
@@ -165,6 +354,8 @@ def parse_team(path: Path) -> dict:
         "draft_assets": draft_assets,
         "draft_sources": draft_sources,
     }
+    team["recent_trades"] = recent_trade_impacts(team, now, ledger)
+    return team
 
 
 def preseason_summary(team: dict, now: datetime) -> dict:
@@ -197,9 +388,18 @@ def preseason_summary(team: dict, now: datetime) -> dict:
         if team["draft_assets"]
         else "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     )
+    trade_body = (
+        " ".join(trade["summary"] for trade in team["recent_trades"])
+        if team["recent_trades"]
+        else "No recent franchise trade met the relevance threshold in the authoritative historical trade ledger."
+    )
+
+    source_files = [team["source_file"], *team["draft_sources"]]
+    if team["recent_trades"]:
+        source_files.append(str(HISTORICAL_TRADES.relative_to(ROOT)))
 
     return {
-        "schema_version": 2,
+        "schema_version": 3,
         "franchise_id": slugify(team["team_name"]),
         "franchise_name": team["team_name"],
         "roster_id": team["roster_id"],
@@ -214,6 +414,7 @@ def preseason_summary(team: dict, now: datetime) -> dict:
             f"led by {anchor_names}. The clearest lineup pressure point is the {pressure['slot']} slot "
             f"held by {pressure['player']} at {pressure['c_avi']:.1f} C-AVI."
         ),
+        "recent_trades": team["recent_trades"],
         "sections": [
             {
                 "id": "competitive-core",
@@ -223,6 +424,11 @@ def preseason_summary(team: dict, now: datetime) -> dict:
                     f"{anchors[1]['player']} ({anchors[1]['c_avi']:.1f}), and {anchors[2]['player']} "
                     f"({anchors[2]['c_avi']:.1f})."
                 ),
+            },
+            {
+                "id": "recent-trade-impact",
+                "title": "Recent Trade Impact",
+                "body": trade_body,
             },
             {
                 "id": "lineup-pressure-point",
@@ -245,7 +451,7 @@ def preseason_summary(team: dict, now: datetime) -> dict:
         ],
         "source": {
             "policy": "AVI-Core/knowledge only",
-            "files": [team["source_file"], *team["draft_sources"]],
+            "files": list(dict.fromkeys(source_files)),
             "source_last_updated": team["source_updated"],
             "external_sources_used": False,
             "conversation_context_used": False,
@@ -279,16 +485,17 @@ def main() -> None:
     if len(team_paths) != 16:
         raise RuntimeError(f"Expected 16 team files in {TEAMS}, found {len(team_paths)}")
 
+    ledger = parse_historical_trades()
     written = []
     for path in team_paths:
-        team = parse_team(path)
+        team = parse_team(path, ledger, now)
         summary = preseason_summary(team, now) if now.month < 9 else regular_season_summary(team, now)
         destination = OUTPUT / f"{summary['franchise_id']}.json"
         destination.write_text(json.dumps(summary, indent=2) + "\n", encoding="utf-8")
         written.append(destination.name)
 
     manifest = {
-        "schema_version": 1,
+        "schema_version": 2,
         "generated_at": now.isoformat(),
         "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
         "source_policy": "AVI-Core/knowledge only",
