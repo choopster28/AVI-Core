@@ -694,15 +694,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "17598",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DET",
-    "player_name": "Tyler Conklin",
-    "position": "TE",
-    "sleeper_id": "5133"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "18218",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NE",
@@ -1927,15 +1918,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "23081",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NO",
-    "player_name": "Spencer Rattler",
-    "position": "QB",
-    "sleeper_id": "11562"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "23084",
     "match_method": "exact_name_position_unique",
     "nfl_team": "CHI",
@@ -2554,15 +2536,6 @@
     "player_name": "Josh Downs",
     "position": "WR",
     "sleeper_id": "9500"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "24740",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "PHI",
-    "player_name": "Tanner McKee",
-    "position": "QB",
-    "sleeper_id": "9230"
   },
   {
     "confidence": "verified",

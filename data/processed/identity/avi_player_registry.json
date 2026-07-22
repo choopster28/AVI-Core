@@ -9289,31 +9289,6 @@
   {
     "active": true,
     "aliases": [
-      "Spencer Rattler"
-    ],
-    "avi_id": "AVI-00011562",
-    "canonical_name": "Spencer Rattler",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "NO",
-    "normalized_name": "spencer rattler",
-    "position": "QB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 23186,
-      "fantasypros_id": "23081",
-      "nfl_id": "2572327",
-      "rotowire_id": 17782,
-      "sleeper_id": "11562",
-      "sportradar_id": "e0eecf78-86b2-4ee8-8ac9-d7713a138765",
-      "sportsdata_player_id": "e0eecf78-86b2-4ee8-8ac9-d7713a138765"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Stefon Diggs"
     ],
     "avi_id": "AVI-00002449",
@@ -9434,31 +9409,6 @@
       "sleeper_id": "9502",
       "sportradar_id": "25e7b423-f716-4d1a-9623-cee3e7d822ab",
       "sportsdata_player_id": "25e7b423-f716-4d1a-9623-cee3e7d822ab"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Tanner McKee"
-    ],
-    "avi_id": "AVI-00009230",
-    "canonical_name": "Tanner McKee",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "PHI",
-    "normalized_name": "tanner mckee",
-    "position": "QB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24124,
-      "fantasypros_id": "24740",
-      "nfl_id": "2570206",
-      "rotowire_id": 16686,
-      "sleeper_id": "9230",
-      "sportradar_id": "93147c90-09c8-471d-a6b2-0b9d19739ba1",
-      "sportsdata_player_id": "93147c90-09c8-471d-a6b2-0b9d19739ba1"
     }
   },
   {
@@ -10287,31 +10237,6 @@
       "sleeper_id": "8132",
       "sportradar_id": "f4529909-1a02-4f4b-a1f3-315cad100683",
       "sportsdata_player_id": "f4529909-1a02-4f4b-a1f3-315cad100683"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Tyler Conklin"
-    ],
-    "avi_id": "AVI-00005133",
-    "canonical_name": "Tyler Conklin",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "DET",
-    "normalized_name": "tyler conklin",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": 3122920,
-      "fantasy_data_id": 19988,
-      "fantasypros_id": "17598",
-      "nfl_id": "2561027",
-      "rotowire_id": 12809,
-      "sleeper_id": "5133",
-      "sportradar_id": "f0d17dfa-ebf3-416c-a8d2-c6bc30675103",
-      "sportsdata_player_id": "f0d17dfa-ebf3-416c-a8d2-c6bc30675103"
     }
   },
   {

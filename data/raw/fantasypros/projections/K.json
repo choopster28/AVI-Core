@@ -178,22 +178,6 @@
       "team_id": "KC"
     },
     {
-      "filename": "will-reichard.php",
-      "fpid": 26341,
-      "mflid": 16681,
-      "name": "Will Reichard",
-      "position_id": "K",
-      "stats": {
-        "fg": 30.9,
-        "fga": 33.84,
-        "points": 130.66,
-        "points_half": 130.66,
-        "points_ppr": 130.66,
-        "xpt": 37.97
-      },
-      "team_id": "MIN"
-    },
-    {
       "filename": "cam-little.php",
       "fpid": 26475,
       "mflid": 16680,
@@ -208,6 +192,22 @@
         "xpt": 43.57
       },
       "team_id": "JAC"
+    },
+    {
+      "filename": "will-reichard.php",
+      "fpid": 26341,
+      "mflid": 16681,
+      "name": "Will Reichard",
+      "position_id": "K",
+      "stats": {
+        "fg": 30.56,
+        "fga": 33.84,
+        "points": 129.66,
+        "points_half": 129.66,
+        "points_ppr": 129.66,
+        "xpt": 37.97
+      },
+      "team_id": "MIN"
     },
     {
       "filename": "evan-mcpherson.php",
