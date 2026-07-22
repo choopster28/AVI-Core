@@ -14,17 +14,22 @@ on:
       - "scripts/generate_weekly_executive_summary_filtered.py"
       - ".github/workflows/weekly-franchise-executive-summary.yml"
   schedule:
-    # GitHub cron is UTC. Run both possible UTC hours, then enforce
-    # Wednesday 11:00 AM in America/Denver so DST never shifts local time.
+    # GitHub cron is UTC. Both hours are registered, then the job enforces
+    # Wednesday 11:00 AM America/Denver so DST cannot shift the local refresh.
     - cron: "0 17 * * 3"
     - cron: "0 18 * * 3"
 
 permissions:
   contents: write
 
+concurrency:
+  group: weekly-franchise-executive-summaries
+  cancel-in-progress: false
+
 jobs:
   generate-franchise-summaries:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -53,6 +58,38 @@ jobs:
       - name: Generate all 16 franchise summaries
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: python scripts/generate_weekly_executive_summary_filtered.py
+
+      - name: Verify complete, current output set
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          root = Path("knowledge/franchise_summaries")
+          files = sorted(path for path in root.glob("*.json") if path.name != "manifest.json")
+          if len(files) != 16:
+              raise SystemExit(f"Expected 16 franchise summaries, found {len(files)}")
+
+          manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
+          if manifest.get("franchise_count") != 16 or len(manifest.get("files", [])) != 16:
+              raise SystemExit("Manifest does not declare all 16 franchise summaries")
+
+          generated = datetime.fromisoformat(manifest["generated_at"])
+          if generated.tzinfo is None:
+              generated = generated.replace(tzinfo=timezone.utc)
+          age_seconds = (datetime.now(timezone.utc) - generated.astimezone(timezone.utc)).total_seconds()
+          if age_seconds > 900:
+              raise SystemExit(f"Generated manifest is stale by {age_seconds:.0f} seconds")
+
+          for path in [*files, root / "manifest.json"]:
+              text = path.read_text(encoding="utf-8")
+              json.loads(text)
+              if "original roster" in text.casefold():
+                  raise SystemExit(f"Untranslated roster ID found in {path}")
+          print("Verified 16 fresh summaries with franchise-name pick attribution.")
+          PY
 
       - name: Commit refreshed summaries
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
