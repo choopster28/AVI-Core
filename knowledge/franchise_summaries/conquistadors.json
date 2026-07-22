@@ -1,20 +1,89 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "franchise_id": "conquistadors",
   "franchise_name": "Conquistadors",
   "roster_id": 1,
   "owner_display_name": "Thecan",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:36:36.124737-06:00",
+  "generated_at": "2026-07-22T09:45:24.983538-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Conquistadors: Preseason Front Office Brief",
   "executive_summary": "Conquistadors carries a championship-lineup C-AVI average of 90.46, led by Josh Allen, Puka Nacua, and Bijan Robinson. The clearest lineup pressure point is the FLEX slot held by Juwan Johnson at 63.5 C-AVI.",
+  "recent_trades": [
+    {
+      "transaction_id": "1384401342625226752",
+      "created_at": "2026-07-19T02:51:50.316000+00:00",
+      "counterparties": [
+        "Big Balder Brand"
+      ],
+      "players_received": [
+        "Jacoby Brissett"
+      ],
+      "players_sent": [
+        "Baker Mayfield"
+      ],
+      "picks_received": [
+        "2026 Round 1 (original roster 12)"
+      ],
+      "picks_sent": [
+        "2026 Round 5 (original roster 1)"
+      ],
+      "summary": "On July 18, Conquistadors traded with Big Balder Brand and acquired Jacoby Brissett, 2026 Round 1 (original roster 12) while sending Baker Mayfield, 2026 Round 5 (original roster 1). Jacoby Brissett is now on the current roster at 42.9 C-AVI and 59.2 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
+    },
+    {
+      "transaction_id": "1377688089559846912",
+      "created_at": "2026-06-30T14:15:46.059000+00:00",
+      "counterparties": [
+        "Northside Kings",
+        "Crimson Tide Pods"
+      ],
+      "players_received": [
+        "Matthew Golden",
+        "Harold Fannin"
+      ],
+      "players_sent": [
+        "Malik Washington",
+        "Alec Pierce"
+      ],
+      "picks_received": [],
+      "picks_sent": [
+        "2028 Round 2 (original roster 1)",
+        "2027 Round 1 (original roster 10)"
+      ],
+      "summary": "On June 30, Conquistadors traded with Northside Kings, Crimson Tide Pods and acquired Matthew Golden, Harold Fannin while sending Malik Washington, Alec Pierce, 2028 Round 2 (original roster 1), 2027 Round 1 (original roster 10). Matthew Golden is now on the current roster at 53.4 C-AVI and 69.3 D-AVI; Harold Fannin is now the verified TE starter at 91.5 C-AVI and 88.3 D-AVI. The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks."
+    },
+    {
+      "transaction_id": "1353525670856101888",
+      "created_at": "2026-04-24T22:02:56.525000+00:00",
+      "counterparties": [
+        "Northside Kings"
+      ],
+      "players_received": [],
+      "players_sent": [
+        "Xavier Worthy"
+      ],
+      "picks_received": [
+        "2027 Round 1 (original roster 4)",
+        "2027 Round 1 (original roster 5)"
+      ],
+      "picks_sent": [
+        "2027 Round 1 (original roster 1)",
+        "2027 Round 3 (original roster 1)"
+      ],
+      "summary": "On April 24, Conquistadors traded with Northside Kings and acquired 2027 Round 1 (original roster 4), 2027 Round 1 (original roster 5) while sending Xavier Worthy, 2027 Round 1 (original roster 1), 2027 Round 3 (original roster 1). The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 2 draft assets to the franchise's asset base at the time of the deal."
+    }
+  ],
   "sections": [
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Josh Allen (99.6), Puka Nacua (99.6), and Bijan Robinson (99.4)."
+    },
+    {
+      "id": "recent-trade-impact",
+      "title": "Recent Trade Impact",
+      "body": "On July 18, Conquistadors traded with Big Balder Brand and acquired Jacoby Brissett, 2026 Round 1 (original roster 12) while sending Baker Mayfield, 2026 Round 5 (original roster 1). Jacoby Brissett is now on the current roster at 42.9 C-AVI and 59.2 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal. On June 30, Conquistadors traded with Northside Kings, Crimson Tide Pods and acquired Matthew Golden, Harold Fannin while sending Malik Washington, Alec Pierce, 2028 Round 2 (original roster 1), 2027 Round 1 (original roster 10). Matthew Golden is now on the current roster at 53.4 C-AVI and 69.3 D-AVI; Harold Fannin is now the verified TE starter at 91.5 C-AVI and 88.3 D-AVI. The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. On April 24, Conquistadors traded with Northside Kings and acquired 2027 Round 1 (original roster 4), 2027 Round 1 (original roster 5) while sending Xavier Worthy, 2027 Round 1 (original roster 1), 2027 Round 3 (original roster 1). The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 2 draft assets to the franchise's asset base at the time of the deal."
     },
     {
       "id": "lineup-pressure-point",
@@ -41,7 +110,8 @@
     "policy": "AVI-Core/knowledge only",
     "files": [
       "knowledge/teams/01_Conquistadors.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-21",
     "external_sources_used": false,

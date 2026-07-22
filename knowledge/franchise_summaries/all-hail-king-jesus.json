@@ -1,20 +1,45 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "franchise_id": "all-hail-king-jesus",
   "franchise_name": "All Hail King Jesus",
   "roster_id": 8,
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:36:36.124737-06:00",
+  "generated_at": "2026-07-22T09:45:24.983538-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
   "executive_summary": "All Hail King Jesus carries a championship-lineup C-AVI average of 78.25, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The clearest lineup pressure point is the RB slot held by Zach Charbonnet at 51.6 C-AVI.",
+  "recent_trades": [
+    {
+      "transaction_id": "1382466797541818368",
+      "created_at": "2026-07-13T18:44:38.827000+00:00",
+      "counterparties": [
+        "Ravens Regime"
+      ],
+      "players_received": [
+        "Isiah Pacheco"
+      ],
+      "players_sent": [
+        "Derrick Henry"
+      ],
+      "picks_received": [
+        "2026 Round 1 (original roster 13)"
+      ],
+      "picks_sent": [],
+      "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI. It added 1 draft asset to the franchise's asset base at the time of the deal."
+    }
+  ],
   "sections": [
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Amon-Ra St. Brown (98.6), and Tee Higgins (81.9)."
+    },
+    {
+      "id": "recent-trade-impact",
+      "title": "Recent Trade Impact",
+      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI. It added 1 draft asset to the franchise's asset base at the time of the deal."
     },
     {
       "id": "lineup-pressure-point",
@@ -41,7 +66,8 @@
     "policy": "AVI-Core/knowledge only",
     "files": [
       "knowledge/teams/08_All_Hail_King_Jesus.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-21",
     "external_sources_used": false,

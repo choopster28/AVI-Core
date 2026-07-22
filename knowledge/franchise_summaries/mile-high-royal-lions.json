@@ -1,20 +1,26 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "franchise_id": "mile-high-royal-lions",
   "franchise_name": "Mile High Royal Lions",
   "roster_id": 4,
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:36:36.124737-06:00",
+  "generated_at": "2026-07-22T09:45:24.983538-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
   "executive_summary": "Mile High Royal Lions carries a championship-lineup C-AVI average of 83.88, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The clearest lineup pressure point is the RB slot held by J.K. Dobbins at 58.8 C-AVI.",
+  "recent_trades": [],
   "sections": [
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Jahmyr Gibbs (99.6), Drake London (97.8), and Jalen Hurts (91.2)."
+    },
+    {
+      "id": "recent-trade-impact",
+      "title": "Recent Trade Impact",
+      "body": "No recent franchise trade met the relevance threshold in the authoritative historical trade ledger."
     },
     {
       "id": "lineup-pressure-point",

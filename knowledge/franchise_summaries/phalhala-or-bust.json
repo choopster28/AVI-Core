@@ -1,20 +1,46 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "franchise_id": "phalhala-or-bust",
   "franchise_name": "Phalhala or Bust",
   "roster_id": 14,
   "owner_display_name": "PIFYAF",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:36:36.124737-06:00",
+  "generated_at": "2026-07-22T09:45:24.983538-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Phalhala or Bust: Preseason Front Office Brief",
   "executive_summary": "Phalhala or Bust carries a championship-lineup C-AVI average of 69.36, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The clearest lineup pressure point is the QB slot held by C.J. Stroud at 49.2 C-AVI.",
+  "recent_trades": [
+    {
+      "transaction_id": "1356901536596242432",
+      "created_at": "2026-05-04T05:37:25.638000+00:00",
+      "counterparties": [
+        "Ravens Regime"
+      ],
+      "players_received": [
+        "Michael Wilson"
+      ],
+      "players_sent": [
+        "Romeo Doubs"
+      ],
+      "picks_received": [
+        "2026 Round 2 (original roster 3)",
+        "2026 Round 4 (original roster 7)"
+      ],
+      "picks_sent": [],
+      "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (original roster 3), 2026 Round 4 (original roster 7) while sending Romeo Doubs. Michael Wilson is now the verified WR starter at 62.6 C-AVI and 74.8 D-AVI. It added 2 draft assets to the franchise's asset base at the time of the deal."
+    }
+  ],
   "sections": [
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Ashton Jeanty (97.0), Sam LaPorta (86.2), and Rome Odunze (77.5)."
+    },
+    {
+      "id": "recent-trade-impact",
+      "title": "Recent Trade Impact",
+      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (original roster 3), 2026 Round 4 (original roster 7) while sending Romeo Doubs. Michael Wilson is now the verified WR starter at 62.6 C-AVI and 74.8 D-AVI. It added 2 draft assets to the franchise's asset base at the time of the deal."
     },
     {
       "id": "lineup-pressure-point",
@@ -41,7 +67,8 @@
     "policy": "AVI-Core/knowledge only",
     "files": [
       "knowledge/teams/14_Phalhala_or_Bust.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-21",
     "external_sources_used": false,

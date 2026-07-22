@@ -1,20 +1,51 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "franchise_id": "gringo-s-goblins",
   "franchise_name": "Gringo\u2019s Goblins",
   "roster_id": 15,
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:36:36.124737-06:00",
+  "generated_at": "2026-07-22T09:45:24.983538-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
   "executive_summary": "Gringo\u2019s Goblins carries a championship-lineup C-AVI average of 70.60, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The clearest lineup pressure point is the FLEX slot held by Jonathon Brooks at 52.6 C-AVI.",
+  "recent_trades": [
+    {
+      "transaction_id": "1380604251050356736",
+      "created_at": "2026-07-08T15:23:33.139000+00:00",
+      "counterparties": [
+        "Big Balder Brand"
+      ],
+      "players_received": [
+        "Tre' Harris",
+        "Emeka Egbuka",
+        "Kyren Williams"
+      ],
+      "players_sent": [
+        "Omarion Hampton",
+        "Chris Godwin",
+        "A.J. Brown"
+      ],
+      "picks_received": [
+        "2027 Round 1 (original roster 9)"
+      ],
+      "picks_sent": [
+        "2027 Round 2 (original roster 15)"
+      ],
+      "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the verified WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the verified RB starter at 83.3 C-AVI and 83.8 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
+    }
+  ],
   "sections": [
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Emeka Egbuka (85.5), Kyren Williams (83.3), and Davante Adams (80.3)."
+    },
+    {
+      "id": "recent-trade-impact",
+      "title": "Recent Trade Impact",
+      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the verified WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the verified RB starter at 83.3 C-AVI and 83.8 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
     },
     {
       "id": "lineup-pressure-point",
@@ -41,7 +72,8 @@
     "policy": "AVI-Core/knowledge only",
     "files": [
       "knowledge/teams/15_Gringo_s_Goblins.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-21",
     "external_sources_used": false,

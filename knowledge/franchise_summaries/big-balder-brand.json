@@ -1,20 +1,91 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "franchise_id": "big-balder-brand",
   "franchise_name": "Big Balder Brand",
   "roster_id": 9,
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:36:36.124737-06:00",
+  "generated_at": "2026-07-22T09:45:24.983538-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
   "executive_summary": "Big Balder Brand carries a championship-lineup C-AVI average of 88.39, led by Trey McBride, Rashee Rice, and A.J. Brown. The clearest lineup pressure point is the FLEX slot held by Chris Godwin at 62.4 C-AVI.",
+  "recent_trades": [
+    {
+      "transaction_id": "1383186342132842496",
+      "created_at": "2026-07-15T18:23:51.626000+00:00",
+      "counterparties": [
+        "DMV Fantasy"
+      ],
+      "players_received": [
+        "Trey McBride"
+      ],
+      "players_sent": [
+        "George Kittle",
+        "Brenton Strange"
+      ],
+      "picks_received": [],
+      "picks_sent": [
+        "2026 Round 1 (original roster 1)",
+        "2028 Round 1 (original roster 9)"
+      ],
+      "summary": "On July 15, Big Balder Brand traded with DMV Fantasy and acquired Trey McBride while sending George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9). Trey McBride is now the verified TE starter at 99.5 C-AVI and 92.0 D-AVI. The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks."
+    },
+    {
+      "transaction_id": "1380604251050356736",
+      "created_at": "2026-07-08T15:23:33.139000+00:00",
+      "counterparties": [
+        "Gringo\u2019s Goblins"
+      ],
+      "players_received": [
+        "Omarion Hampton",
+        "Chris Godwin",
+        "A.J. Brown"
+      ],
+      "players_sent": [
+        "Tre' Harris",
+        "Emeka Egbuka",
+        "Kyren Williams"
+      ],
+      "picks_received": [
+        "2027 Round 2 (original roster 15)"
+      ],
+      "picks_sent": [
+        "2027 Round 1 (original roster 9)"
+      ],
+      "summary": "On July 8, Big Balder Brand traded with Gringo\u2019s Goblins and acquired Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15) while sending Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9). Omarion Hampton is now the verified RB starter at 92.1 C-AVI and 88.9 D-AVI; Chris Godwin is now the verified FLEX starter at 62.4 C-AVI and 71.3 D-AVI; A.J. Brown is now the verified WR starter at 94.2 C-AVI and 87.4 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
+    },
+    {
+      "transaction_id": "1365414360763080704",
+      "created_at": "2026-05-27T17:24:21.080000+00:00",
+      "counterparties": [
+        "Corgi Loaf Baking Co."
+      ],
+      "players_received": [
+        "Rashee Rice",
+        "Emeka Egbuka",
+        "Kyren Williams"
+      ],
+      "players_sent": [
+        "D'Andre Swift",
+        "Justin Jefferson",
+        "Christian Watson"
+      ],
+      "picks_received": [],
+      "picks_sent": [],
+      "summary": "On May 27, Big Balder Brand traded with Corgi Loaf Baking Co. and acquired Rashee Rice, Emeka Egbuka, Kyren Williams while sending D'Andre Swift, Justin Jefferson, Christian Watson. Rashee Rice is now the verified WR starter at 95.5 C-AVI and 85.9 D-AVI."
+    }
+  ],
   "sections": [
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (95.5), and A.J. Brown (94.2)."
+    },
+    {
+      "id": "recent-trade-impact",
+      "title": "Recent Trade Impact",
+      "body": "On July 15, Big Balder Brand traded with DMV Fantasy and acquired Trey McBride while sending George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9). Trey McBride is now the verified TE starter at 99.5 C-AVI and 92.0 D-AVI. The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. On July 8, Big Balder Brand traded with Gringo\u2019s Goblins and acquired Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15) while sending Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9). Omarion Hampton is now the verified RB starter at 92.1 C-AVI and 88.9 D-AVI; Chris Godwin is now the verified FLEX starter at 62.4 C-AVI and 71.3 D-AVI; A.J. Brown is now the verified WR starter at 94.2 C-AVI and 87.4 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal. On May 27, Big Balder Brand traded with Corgi Loaf Baking Co. and acquired Rashee Rice, Emeka Egbuka, Kyren Williams while sending D'Andre Swift, Justin Jefferson, Christian Watson. Rashee Rice is now the verified WR starter at 95.5 C-AVI and 85.9 D-AVI."
     },
     {
       "id": "lineup-pressure-point",
@@ -41,7 +112,8 @@
     "policy": "AVI-Core/knowledge only",
     "files": [
       "knowledge/teams/09_Big_Balder_Brand.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-21",
     "external_sources_used": false,

@@ -1,20 +1,26 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "franchise_id": "lightskin-legends",
   "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:36:36.124737-06:00",
+  "generated_at": "2026-07-22T09:45:24.983538-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
   "executive_summary": "Lightskin Legends \u270a\ud83c\udffd carries a championship-lineup C-AVI average of 81.18, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The clearest lineup pressure point is the WR slot held by Parker Washington at 64.8 C-AVI.",
+  "recent_trades": [],
   "sections": [
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Jonathan Taylor (97.6), Chase Brown (96.3), and Javonte Williams (81.0)."
+    },
+    {
+      "id": "recent-trade-impact",
+      "title": "Recent Trade Impact",
+      "body": "No recent franchise trade met the relevance threshold in the authoritative historical trade ledger."
     },
     {
       "id": "lineup-pressure-point",

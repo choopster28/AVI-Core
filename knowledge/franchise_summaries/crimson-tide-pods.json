@@ -1,20 +1,69 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "franchise_id": "crimson-tide-pods",
   "franchise_name": "Crimson Tide Pods",
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:36:36.124737-06:00",
+  "generated_at": "2026-07-22T09:45:24.983538-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
   "executive_summary": "Crimson Tide Pods carries a championship-lineup C-AVI average of 65.45, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The clearest lineup pressure point is the FLEX slot held by Jerry Jeudy at 49.1 C-AVI.",
+  "recent_trades": [
+    {
+      "transaction_id": "1377688089559846912",
+      "created_at": "2026-06-30T14:15:46.059000+00:00",
+      "counterparties": [
+        "Conquistadors",
+        "Northside Kings"
+      ],
+      "players_received": [
+        "Alec Pierce"
+      ],
+      "players_sent": [
+        "Harold Fannin",
+        "Mike Evans"
+      ],
+      "picks_received": [
+        "2027 Round 1 (original roster 10)",
+        "2027 Round 2 (original roster 5)"
+      ],
+      "picks_sent": [],
+      "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (original roster 10), 2027 Round 2 (original roster 5) while sending Harold Fannin, Mike Evans. Alec Pierce is now the verified WR starter at 75.1 C-AVI and 78.5 D-AVI. It added 2 draft assets to the franchise's asset base at the time of the deal."
+    },
+    {
+      "transaction_id": "1375593798167461888",
+      "created_at": "2026-06-24T19:33:48.082000+00:00",
+      "counterparties": [
+        "Badland Banditos"
+      ],
+      "players_received": [
+        "Chris Rodriguez"
+      ],
+      "players_sent": [
+        "Kenneth Walker"
+      ],
+      "picks_received": [
+        "2026 Round 1 (original roster 11)",
+        "2026 Round 1 (original roster 8)"
+      ],
+      "picks_sent": [
+        "2027 Round 3 (original roster 16)"
+      ],
+      "summary": "On June 24, Crimson Tide Pods traded with Badland Banditos and acquired Chris Rodriguez, 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8) while sending Kenneth Walker, 2027 Round 3 (original roster 16). Chris Rodriguez is now on the current roster at 46.5 C-AVI and 64.9 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 2 draft assets to the franchise's asset base at the time of the deal."
+    }
+  ],
   "sections": [
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are DeVonta Smith (87.5), Alec Pierce (75.1), and Justin Herbert (72.2)."
+    },
+    {
+      "id": "recent-trade-impact",
+      "title": "Recent Trade Impact",
+      "body": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (original roster 10), 2027 Round 2 (original roster 5) while sending Harold Fannin, Mike Evans. Alec Pierce is now the verified WR starter at 75.1 C-AVI and 78.5 D-AVI. It added 2 draft assets to the franchise's asset base at the time of the deal. On June 24, Crimson Tide Pods traded with Badland Banditos and acquired Chris Rodriguez, 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8) while sending Kenneth Walker, 2027 Round 3 (original roster 16). Chris Rodriguez is now on the current roster at 46.5 C-AVI and 64.9 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 2 draft assets to the franchise's asset base at the time of the deal."
     },
     {
       "id": "lineup-pressure-point",
@@ -41,7 +90,8 @@
     "policy": "AVI-Core/knowledge only",
     "files": [
       "knowledge/teams/16_Crimson_Tide_Pods.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-21",
     "external_sources_used": false,

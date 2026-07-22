@@ -1,20 +1,26 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "franchise_id": "smokyvalleywheatwarriors",
   "franchise_name": "SmokyValleyWheatWarriors",
   "roster_id": 10,
   "owner_display_name": "AlexPete6800",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:36:36.124737-06:00",
+  "generated_at": "2026-07-22T09:45:24.983538-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
   "executive_summary": "SmokyValleyWheatWarriors carries a championship-lineup C-AVI average of 82.80, led by CeeDee Lamb, Christian McCaffrey, and James Cook. The clearest lineup pressure point is the FLEX slot held by Rico Dowdle at 63.3 C-AVI.",
+  "recent_trades": [],
   "sections": [
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are CeeDee Lamb (97.8), Christian McCaffrey (97.2), and James Cook (94.3)."
+    },
+    {
+      "id": "recent-trade-impact",
+      "title": "Recent Trade Impact",
+      "body": "No recent franchise trade met the relevance threshold in the authoritative historical trade ledger."
     },
     {
       "id": "lineup-pressure-point",
