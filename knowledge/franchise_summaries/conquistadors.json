@@ -1,99 +1,104 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "conquistadors",
   "franchise_name": "Conquistadors",
   "roster_id": 1,
   "owner_display_name": "Thecan",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Conquistadors: Preseason Front Office Brief",
-  "executive_summary": "Conquistadors carries a championship-lineup C-AVI average of 90.46, led by Josh Allen, Puka Nacua, and Bijan Robinson. The clearest lineup pressure point is the FLEX slot held by Juwan Johnson at 63.5 C-AVI.",
-  "recent_trades": [
-    {
-      "transaction_id": "1384401342625226752",
-      "created_at": "2026-07-19T02:51:50.316000+00:00",
+  "executive_summary": "Conquistadors is projected #1 of 16 with a 90.46 championship-lineup C-AVI average, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
+  "projected_power": {
+    "rank": 1,
+    "league_size": 16,
+    "score": 90.46,
+    "team_above": null,
+    "team_below": {
+      "name": "Big Balder Brand",
+      "rank": 2,
+      "score": 88.39,
+      "gap": 2.069999999999993
+    },
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1384427332722233344",
+    "created_at": "2026-07-19T04:35:06.839000+00:00",
+    "counterparties": [
+      "Big Balder Brand"
+    ],
+    "players_received": [],
+    "players_sent": [],
+    "picks_received": [
+      "2026 Round 5 (original roster 1)"
+    ],
+    "picks_sent": [
+      "2026 Round 1 (original roster 12)"
+    ],
+    "summary": "On July 18, Conquistadors traded with Big Balder Brand and acquired 2026 Round 5 (original roster 1) while sending 2026 Round 1 (original roster 12). The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+  },
+  "gap_closing_moves": [
+    "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 63.5 C-AVI.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+  ],
+  "rival_below": {
+    "franchise_name": "Big Balder Brand",
+    "projected_rank": 2,
+    "projected_score": 88.39,
+    "latest_trade": {
+      "transaction_id": "1384427332722233344",
+      "created_at": "2026-07-19T04:35:06.839000+00:00",
       "counterparties": [
-        "Big Balder Brand"
+        "Conquistadors"
       ],
-      "players_received": [
-        "Jacoby Brissett"
-      ],
-      "players_sent": [
-        "Baker Mayfield"
-      ],
+      "players_received": [],
+      "players_sent": [],
       "picks_received": [
         "2026 Round 1 (original roster 12)"
       ],
       "picks_sent": [
         "2026 Round 5 (original roster 1)"
       ],
-      "summary": "On July 18, Conquistadors traded with Big Balder Brand and acquired Jacoby Brissett, 2026 Round 1 (original roster 12) while sending Baker Mayfield, 2026 Round 5 (original roster 1). Jacoby Brissett is now on the current roster at 42.9 C-AVI and 59.2 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
+      "summary": "On July 18, Big Balder Brand traded with Conquistadors and acquired 2026 Round 1 (original roster 12) while sending 2026 Round 5 (original roster 1). The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
     },
-    {
-      "transaction_id": "1377688089559846912",
-      "created_at": "2026-06-30T14:15:46.059000+00:00",
-      "counterparties": [
-        "Northside Kings",
-        "Crimson Tide Pods"
-      ],
-      "players_received": [
-        "Matthew Golden",
-        "Harold Fannin"
-      ],
-      "players_sent": [
-        "Malik Washington",
-        "Alec Pierce"
-      ],
-      "picks_received": [],
-      "picks_sent": [
-        "2028 Round 2 (original roster 1)",
-        "2027 Round 1 (original roster 10)"
-      ],
-      "summary": "On June 30, Conquistadors traded with Northside Kings, Crimson Tide Pods and acquired Matthew Golden, Harold Fannin while sending Malik Washington, Alec Pierce, 2028 Round 2 (original roster 1), 2027 Round 1 (original roster 10). Matthew Golden is now on the current roster at 53.4 C-AVI and 69.3 D-AVI; Harold Fannin is now the verified TE starter at 91.5 C-AVI and 88.3 D-AVI. The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks."
-    },
-    {
-      "transaction_id": "1353525670856101888",
-      "created_at": "2026-04-24T22:02:56.525000+00:00",
-      "counterparties": [
-        "Northside Kings"
-      ],
-      "players_received": [],
-      "players_sent": [
-        "Xavier Worthy"
-      ],
-      "picks_received": [
-        "2027 Round 1 (original roster 4)",
-        "2027 Round 1 (original roster 5)"
-      ],
-      "picks_sent": [
-        "2027 Round 1 (original roster 1)",
-        "2027 Round 3 (original roster 1)"
-      ],
-      "summary": "On April 24, Conquistadors traded with Northside Kings and acquired 2027 Round 1 (original roster 4), 2027 Round 1 (original roster 5) while sending Xavier Worthy, 2027 Round 1 (original roster 1), 2027 Round 3 (original roster 1). The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 2 draft assets to the franchise's asset base at the time of the deal."
-    }
-  ],
+    "summary": "On July 18, Big Balder Brand traded with Conquistadors and acquired 2026 Round 1 (original roster 12) while sending 2026 Round 5 (original roster 1). The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #1 of 16 at 90.46 lineup C-AVI. Big Balder Brand is immediately behind at 88.39."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Josh Allen (99.6), Puka Nacua (99.6), and Bijan Robinson (99.4)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "On July 18, Conquistadors traded with Big Balder Brand and acquired Jacoby Brissett, 2026 Round 1 (original roster 12) while sending Baker Mayfield, 2026 Round 5 (original roster 1). Jacoby Brissett is now on the current roster at 42.9 C-AVI and 59.2 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal. On June 30, Conquistadors traded with Northside Kings, Crimson Tide Pods and acquired Matthew Golden, Harold Fannin while sending Malik Washington, Alec Pierce, 2028 Round 2 (original roster 1), 2027 Round 1 (original roster 10). Matthew Golden is now on the current roster at 53.4 C-AVI and 69.3 D-AVI; Harold Fannin is now the verified TE starter at 91.5 C-AVI and 88.3 D-AVI. The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. On April 24, Conquistadors traded with Northside Kings and acquired 2027 Round 1 (original roster 4), 2027 Round 1 (original roster 5) while sending Xavier Worthy, 2027 Round 1 (original roster 1), 2027 Round 3 (original roster 1). The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 2 draft assets to the franchise's asset base at the time of the deal."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On July 18, Conquistadors traded with Big Balder Brand and acquired 2026 Round 5 (original roster 1) while sending 2026 Round 1 (original roster 12). The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 63.5 C-AVI. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 63.5 C-AVI.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On July 18, Big Balder Brand traded with Conquistadors and acquired 2026 Round 1 (original roster 12) while sending 2026 Round 5 (original roster 1). The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 63.5. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 11 offensive players, with 3 outside the modeled starting eight. The offensive roster D-AVI average is 81.05."
+      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 63.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",

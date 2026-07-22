@@ -1,72 +1,115 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "rapid-valley-annihilation",
   "franchise_name": "Rapid Valley Annihilation",
   "roster_id": 2,
   "owner_display_name": "FuzzyRaptor",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Rapid Valley Annihilation: Preseason Front Office Brief",
-  "executive_summary": "Rapid Valley Annihilation carries a championship-lineup C-AVI average of 68.16, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The clearest lineup pressure point is the FLEX slot held by Blake Corum at 54.2 C-AVI.",
-  "recent_trades": [
-    {
-      "transaction_id": "1380817964328034304",
-      "created_at": "2026-07-09T05:32:46.354000+00:00",
-      "counterparties": [
-        "Corgi Loaf Baking Co."
-      ],
-      "players_received": [],
-      "players_sent": [],
-      "picks_received": [
-        "2027 Round 1 (original roster 11)",
-        "2028 Round 1 (original roster 11)"
-      ],
-      "picks_sent": [
-        "2026 Round 1 (original roster 2)"
-      ],
-      "summary": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11) while sending 2026 Round 1 (original roster 2). The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 2 draft assets to the franchise's asset base at the time of the deal."
+  "executive_summary": "Rapid Valley Annihilation is projected #14 of 16 with a 68.16 championship-lineup C-AVI average, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "projected_power": {
+    "rank": 14,
+    "league_size": 16,
+    "score": 68.16,
+    "team_above": {
+      "name": "Phalhala or Bust",
+      "rank": 13,
+      "score": 69.36,
+      "gap": 1.2000000000000028
     },
-    {
-      "transaction_id": "1373364236708745216",
-      "created_at": "2026-06-18T15:54:19.206000+00:00",
+    "team_below": {
+      "name": "Crimson Tide Pods",
+      "rank": 15,
+      "score": 65.45,
+      "gap": 2.7099999999999937
+    },
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1380817964328034304",
+    "created_at": "2026-07-09T05:32:46.354000+00:00",
+    "counterparties": [
+      "Corgi Loaf Baking Co."
+    ],
+    "players_received": [],
+    "players_sent": [],
+    "picks_received": [
+      "2027 Round 1 (original roster 11)",
+      "2028 Round 1 (original roster 11)"
+    ],
+    "picks_sent": [
+      "2026 Round 1 (original roster 2)"
+    ],
+    "summary": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11) while sending 2026 Round 1 (original roster 2). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+  },
+  "gap_closing_moves": [
+    "Raise the FLEX slot above Blake Corum's 54.2 C-AVI baseline; a replacement near 63.8 C-AVI would directly attack the 1.20-point projected gap to Phalhala or Bust.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+  ],
+  "rival_below": {
+    "franchise_name": "Crimson Tide Pods",
+    "projected_rank": 15,
+    "projected_score": 65.45,
+    "latest_trade": {
+      "transaction_id": "1377688089559846912",
+      "created_at": "2026-06-30T14:15:46.059000+00:00",
       "counterparties": [
-        "Corgi Loaf Baking Co."
+        "Conquistadors",
+        "Northside Kings"
       ],
       "players_received": [
-        "Quentin Johnston"
+        "Alec Pierce"
       ],
       "players_sent": [
-        "Kyle Pitts"
+        "Harold Fannin",
+        "Mike Evans"
       ],
       "picks_received": [
-        "2027 Round 2 (original roster 11)"
+        "2027 Round 1 (original roster 10)",
+        "2027 Round 2 (original roster 5)"
       ],
       "picks_sent": [],
-      "summary": "On June 18, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired Quentin Johnston, 2027 Round 2 (original roster 11) while sending Kyle Pitts. Quentin Johnston is now the verified WR starter at 59.0 C-AVI and 70.4 D-AVI. It added 1 draft asset to the franchise's asset base at the time of the deal."
-    }
-  ],
+      "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (original roster 10), 2027 Round 2 (original roster 5) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
+    },
+    "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (original roster 10), 2027 Round 2 (original roster 5) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #14 of 16 at 68.16 lineup C-AVI. Phalhala or Bust is immediately above at 69.36, a gap of 1.20. Crimson Tide Pods is immediately behind at 65.45."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Colston Loveland (98.0), Quinshon Judkins (75.8), and Caleb Williams (71.4)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11) while sending 2026 Round 1 (original roster 2). The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 2 draft assets to the franchise's asset base at the time of the deal. On June 18, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired Quentin Johnston, 2027 Round 2 (original roster 11) while sending Kyle Pitts. Quentin Johnston is now the verified WR starter at 59.0 C-AVI and 70.4 D-AVI. It added 1 draft asset to the franchise's asset base at the time of the deal."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11) while sending 2026 Round 1 (original roster 2). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the FLEX slot above Blake Corum's 54.2 C-AVI baseline; a replacement near 63.8 C-AVI would directly attack the 1.20-point projected gap to Phalhala or Bust. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the FLEX slot above Blake Corum's 54.2 C-AVI baseline; a replacement near 63.8 C-AVI would directly attack the 1.20-point projected gap to Phalhala or Bust.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (original roster 10), 2027 Round 2 (original roster 5) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Blake Corum is the lowest C-AVI starter in the verified championship lineup at 54.2. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 11 offensive players, with 3 outside the modeled starting eight. The offensive roster D-AVI average is 72.13."
+      "body": "Blake Corum is the lowest C-AVI starter in the verified championship lineup at 54.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",

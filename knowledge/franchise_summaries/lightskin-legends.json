@@ -1,36 +1,111 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "lightskin-legends",
   "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
-  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd carries a championship-lineup C-AVI average of 81.18, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The clearest lineup pressure point is the WR slot held by Parker Washington at 64.8 C-AVI.",
-  "recent_trades": [],
+  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #5 of 16 with a 81.18 championship-lineup C-AVI average, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
+  "projected_power": {
+    "rank": 5,
+    "league_size": 16,
+    "score": 81.18,
+    "team_above": {
+      "name": "SmokyValleyWheatWarriors",
+      "rank": 4,
+      "score": 82.8,
+      "gap": 1.6199999999999903
+    },
+    "team_below": {
+      "name": "Corgi Loaf Baking Co.",
+      "rank": 6,
+      "score": 80.86,
+      "gap": 0.3200000000000074
+    },
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1288899605622165504",
+    "created_at": "2025-10-28T14:02:01.879000+00:00",
+    "counterparties": [
+      "Murray had a little Lamb"
+    ],
+    "players_received": [
+      "Kayshon Boutte"
+    ],
+    "players_sent": [],
+    "picks_received": [],
+    "picks_sent": [
+      "2026 Round 3 (original roster 1)",
+      "2027 Round 2 (original roster 1)"
+    ],
+    "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1). The deal sent out 2 draft assets, reducing future flexibility."
+  },
+  "gap_closing_moves": [
+    "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 77.8 C-AVI would directly attack the 1.62-point projected gap to SmokyValleyWheatWarriors.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+  ],
+  "rival_below": {
+    "franchise_name": "Corgi Loaf Baking Co.",
+    "projected_rank": 6,
+    "projected_score": 80.86,
+    "latest_trade": {
+      "transaction_id": "1380817964328034304",
+      "created_at": "2026-07-09T05:32:46.354000+00:00",
+      "counterparties": [
+        "Rapid Valley Annihilation"
+      ],
+      "players_received": [],
+      "players_sent": [],
+      "picks_received": [
+        "2026 Round 1 (original roster 2)"
+      ],
+      "picks_sent": [
+        "2027 Round 1 (original roster 11)",
+        "2028 Round 1 (original roster 11)"
+      ],
+      "summary": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (original roster 2) while sending 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11). The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+    },
+    "summary": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (original roster 2) while sending 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11). The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #5 of 16 at 81.18 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 82.80, a gap of 1.62. Corgi Loaf Baking Co. is immediately behind at 80.86."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Jonathan Taylor (97.6), Chase Brown (96.3), and Javonte Williams (81.0)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "No recent franchise trade met the relevance threshold in the authoritative historical trade ledger."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1). The deal sent out 2 draft assets, reducing future flexibility."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 77.8 C-AVI would directly attack the 1.62-point projected gap to SmokyValleyWheatWarriors. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 77.8 C-AVI would directly attack the 1.62-point projected gap to SmokyValleyWheatWarriors.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (original roster 2) while sending 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11). The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Parker Washington is the lowest C-AVI starter in the verified championship lineup at 64.8. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 8 offensive players, with 2 outside the modeled starting eight. The offensive roster D-AVI average is 70.72."
+      "body": "Parker Washington is the lowest C-AVI starter in the verified championship lineup at 64.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -47,7 +122,8 @@
     "policy": "AVI-Core/knowledge only",
     "files": [
       "knowledge/teams/06_Lightskin_Legends.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-21",
     "external_sources_used": false,

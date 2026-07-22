@@ -1,36 +1,111 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "smokyvalleywheatwarriors",
   "franchise_name": "SmokyValleyWheatWarriors",
   "roster_id": 10,
   "owner_display_name": "AlexPete6800",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
-  "executive_summary": "SmokyValleyWheatWarriors carries a championship-lineup C-AVI average of 82.80, led by CeeDee Lamb, Christian McCaffrey, and James Cook. The clearest lineup pressure point is the FLEX slot held by Rico Dowdle at 63.3 C-AVI.",
-  "recent_trades": [],
+  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 82.80 championship-lineup C-AVI average, led by CeeDee Lamb, Christian McCaffrey, and James Cook. The immediate priority is improving the FLEX slot without weakening that core.",
+  "projected_power": {
+    "rank": 4,
+    "league_size": 16,
+    "score": 82.8,
+    "team_above": {
+      "name": "Mile High Royal Lions",
+      "rank": 3,
+      "score": 83.88,
+      "gap": 1.0799999999999983
+    },
+    "team_below": {
+      "name": "Lightskin Legends \u270a\ud83c\udffd",
+      "rank": 5,
+      "score": 81.18,
+      "gap": 1.6199999999999903
+    },
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1288899605622165504",
+    "created_at": "2025-10-28T14:02:01.879000+00:00",
+    "counterparties": [
+      "Hit & Ruggs \ud83c\udfce\ufe0f"
+    ],
+    "players_received": [],
+    "players_sent": [
+      "Kayshon Boutte"
+    ],
+    "picks_received": [
+      "2026 Round 3 (original roster 1)",
+      "2027 Round 2 (original roster 1)"
+    ],
+    "picks_sent": [],
+    "summary": "On October 28, SmokyValleyWheatWarriors traded with Hit & Ruggs \ud83c\udfce\ufe0f and acquired 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1) while sending Kayshon Boutte. The deal added 2 draft assets."
+  },
+  "gap_closing_moves": [
+    "Raise the FLEX slot above Rico Dowdle's 63.3 C-AVI baseline; a replacement near 71.9 C-AVI would directly attack the 1.08-point projected gap to Mile High Royal Lions.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+  ],
+  "rival_below": {
+    "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
+    "projected_rank": 5,
+    "projected_score": 81.18,
+    "latest_trade": {
+      "transaction_id": "1288899605622165504",
+      "created_at": "2025-10-28T14:02:01.879000+00:00",
+      "counterparties": [
+        "Murray had a little Lamb"
+      ],
+      "players_received": [
+        "Kayshon Boutte"
+      ],
+      "players_sent": [],
+      "picks_received": [],
+      "picks_sent": [
+        "2026 Round 3 (original roster 1)",
+        "2027 Round 2 (original roster 1)"
+      ],
+      "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1). The deal sent out 2 draft assets, reducing future flexibility."
+    },
+    "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1). The deal sent out 2 draft assets, reducing future flexibility."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #4 of 16 at 82.80 lineup C-AVI. Mile High Royal Lions is immediately above at 83.88, a gap of 1.08. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 81.18."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are CeeDee Lamb (97.8), Christian McCaffrey (97.2), and James Cook (94.3)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "No recent franchise trade met the relevance threshold in the authoritative historical trade ledger."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On October 28, SmokyValleyWheatWarriors traded with Hit & Ruggs \ud83c\udfce\ufe0f and acquired 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1) while sending Kayshon Boutte. The deal added 2 draft assets."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the FLEX slot above Rico Dowdle's 63.3 C-AVI baseline; a replacement near 71.9 C-AVI would directly attack the 1.08-point projected gap to Mile High Royal Lions. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the FLEX slot above Rico Dowdle's 63.3 C-AVI baseline; a replacement near 71.9 C-AVI would directly attack the 1.08-point projected gap to Mile High Royal Lions.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1). The deal sent out 2 draft assets, reducing future flexibility."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Rico Dowdle is the lowest C-AVI starter in the verified championship lineup at 63.3. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 14 offensive players, with 6 outside the modeled starting eight. The offensive roster D-AVI average is 73.38."
+      "body": "Rico Dowdle is the lowest C-AVI starter in the verified championship lineup at 63.3. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -47,7 +122,8 @@
     "policy": "AVI-Core/knowledge only",
     "files": [
       "knowledge/teams/10_SmokyValleyWheatWarriors.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-21",
     "external_sources_used": false,

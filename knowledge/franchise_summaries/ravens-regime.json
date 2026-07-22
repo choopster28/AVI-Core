@@ -1,92 +1,114 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "ravens-regime",
   "franchise_name": "Ravens Regime",
   "roster_id": 3,
   "owner_display_name": "Mentomorii",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Ravens Regime: Preseason Front Office Brief",
-  "executive_summary": "Ravens Regime carries a championship-lineup C-AVI average of 80.09, led by Lamar Jackson, Tyler Warren, and Derrick Henry. The clearest lineup pressure point is the RB slot held by Kyle Monangai at 55.6 C-AVI.",
-  "recent_trades": [
-    {
-      "transaction_id": "1383224827728367616",
-      "created_at": "2026-07-15T20:56:47.307000+00:00",
-      "counterparties": [
-        "Northside Kings"
-      ],
-      "players_received": [
-        "Tyler Warren"
-      ],
-      "players_sent": [
-        "RJ Harvey",
-        "Bhayshul Tuten"
-      ],
-      "picks_received": [],
-      "picks_sent": [
-        "2026 Round 2 (original roster 2)"
-      ],
-      "summary": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2). Tyler Warren is now the verified TE starter at 97.2 C-AVI and 90.5 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks."
+  "executive_summary": "Ravens Regime is projected #7 of 16 with a 80.09 championship-lineup C-AVI average, led by Lamar Jackson, Tyler Warren, and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
+  "projected_power": {
+    "rank": 7,
+    "league_size": 16,
+    "score": 80.09,
+    "team_above": {
+      "name": "Corgi Loaf Baking Co.",
+      "rank": 6,
+      "score": 80.86,
+      "gap": 0.769999999999996
     },
-    {
-      "transaction_id": "1382900236908769280",
-      "created_at": "2026-07-14T23:26:58.825000+00:00",
-      "counterparties": [
-        "Big Balder Brand"
-      ],
-      "players_received": [
-        "Jameson Williams"
-      ],
-      "players_sent": [
-        "George Kittle"
-      ],
-      "picks_received": [],
-      "picks_sent": [
-        "2026 Round 1 (original roster 1)"
-      ],
-      "summary": "On July 14, Ravens Regime traded with Big Balder Brand and acquired Jameson Williams while sending George Kittle, 2026 Round 1 (original roster 1). Jameson Williams is now the verified WR starter at 79.9 C-AVI and 81.1 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks."
+    "team_below": {
+      "name": "All Hail King Jesus",
+      "rank": 8,
+      "score": 78.25,
+      "gap": 1.8400000000000034
     },
-    {
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1383224827728367616",
+    "created_at": "2026-07-15T20:56:47.307000+00:00",
+    "counterparties": [
+      "Northside Kings"
+    ],
+    "players_received": [
+      "Tyler Warren"
+    ],
+    "players_sent": [
+      "RJ Harvey",
+      "Bhayshul Tuten"
+    ],
+    "picks_received": [],
+    "picks_sent": [
+      "2026 Round 2 (original roster 2)"
+    ],
+    "summary": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2). Tyler Warren is now the current TE starter at 97.2 C-AVI and 90.5 D-AVI; The deal sent out 1 draft asset, reducing future flexibility."
+  },
+  "gap_closing_moves": [
+    "Raise the RB slot above Kyle Monangai's 55.6 C-AVI baseline; a replacement near 65.6 C-AVI would directly attack the 0.77-point projected gap to Corgi Loaf Baking Co..",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+  ],
+  "rival_below": {
+    "franchise_name": "All Hail King Jesus",
+    "projected_rank": 8,
+    "projected_score": 78.25,
+    "latest_trade": {
       "transaction_id": "1382466797541818368",
       "created_at": "2026-07-13T18:44:38.827000+00:00",
       "counterparties": [
-        "All Hail King Jesus"
+        "Ravens Regime"
       ],
       "players_received": [
-        "Derrick Henry"
-      ],
-      "players_sent": [
         "Isiah Pacheco"
       ],
-      "picks_received": [],
-      "picks_sent": [
+      "players_sent": [
+        "Derrick Henry"
+      ],
+      "picks_received": [
         "2026 Round 1 (original roster 13)"
       ],
-      "summary": "On July 13, Ravens Regime traded with All Hail King Jesus and acquired Derrick Henry while sending Isiah Pacheco, 2026 Round 1 (original roster 13). Derrick Henry is now the verified RB starter at 92.8 C-AVI and 83.9 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks."
-    }
-  ],
+      "picks_sent": [],
+      "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
+    },
+    "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #7 of 16 at 80.09 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 80.86, a gap of 0.77. All Hail King Jesus is immediately behind at 78.25."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Lamar Jackson (97.2), Tyler Warren (97.2), and Derrick Henry (92.8)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2). Tyler Warren is now the verified TE starter at 97.2 C-AVI and 90.5 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. On July 14, Ravens Regime traded with Big Balder Brand and acquired Jameson Williams while sending George Kittle, 2026 Round 1 (original roster 1). Jameson Williams is now the verified WR starter at 79.9 C-AVI and 81.1 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. On July 13, Ravens Regime traded with All Hail King Jesus and acquired Derrick Henry while sending Isiah Pacheco, 2026 Round 1 (original roster 13). Derrick Henry is now the verified RB starter at 92.8 C-AVI and 83.9 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2). Tyler Warren is now the current TE starter at 97.2 C-AVI and 90.5 D-AVI; The deal sent out 1 draft asset, reducing future flexibility."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the RB slot above Kyle Monangai's 55.6 C-AVI baseline; a replacement near 65.6 C-AVI would directly attack the 0.77-point projected gap to Corgi Loaf Baking Co.. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the RB slot above Kyle Monangai's 55.6 C-AVI baseline; a replacement near 65.6 C-AVI would directly attack the 0.77-point projected gap to Corgi Loaf Baking Co..",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Kyle Monangai is the lowest C-AVI starter in the verified championship lineup at 55.6. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 9 offensive players, with 1 outside the modeled starting eight. The offensive roster D-AVI average is 80.34."
+      "body": "Kyle Monangai is the lowest C-AVI starter in the verified championship lineup at 55.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",

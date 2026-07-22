@@ -1,92 +1,113 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "corgi-loaf-baking-co",
   "franchise_name": "Corgi Loaf Baking Co.",
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. carries a championship-lineup C-AVI average of 80.86, led by Justin Jefferson, Kyle Pitts, and Malik Nabers. The clearest lineup pressure point is the FLEX slot held by Jakobi Meyers at 65.6 C-AVI.",
-  "recent_trades": [
-    {
-      "transaction_id": "1380817964328034304",
-      "created_at": "2026-07-09T05:32:46.354000+00:00",
-      "counterparties": [
-        "Rapid Valley Annihilation"
-      ],
-      "players_received": [],
-      "players_sent": [],
-      "picks_received": [
-        "2026 Round 1 (original roster 2)"
-      ],
-      "picks_sent": [
-        "2027 Round 1 (original roster 11)",
-        "2028 Round 1 (original roster 11)"
-      ],
-      "summary": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (original roster 2) while sending 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11). The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
+  "executive_summary": "Corgi Loaf Baking Co. is projected #6 of 16 with a 80.86 championship-lineup C-AVI average, led by Justin Jefferson, Kyle Pitts, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
+  "projected_power": {
+    "rank": 6,
+    "league_size": 16,
+    "score": 80.86,
+    "team_above": {
+      "name": "Lightskin Legends \u270a\ud83c\udffd",
+      "rank": 5,
+      "score": 81.18,
+      "gap": 0.3200000000000074
     },
-    {
-      "transaction_id": "1373364236708745216",
-      "created_at": "2026-06-18T15:54:19.206000+00:00",
-      "counterparties": [
-        "Rapid Valley Annihilation"
-      ],
-      "players_received": [
-        "Kyle Pitts"
-      ],
-      "players_sent": [
-        "Quentin Johnston"
-      ],
-      "picks_received": [],
-      "picks_sent": [
-        "2027 Round 2 (original roster 11)"
-      ],
-      "summary": "On June 18, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired Kyle Pitts while sending Quentin Johnston, 2027 Round 2 (original roster 11). Kyle Pitts is now the verified TE starter at 94.2 C-AVI and 88.0 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks."
+    "team_below": {
+      "name": "Ravens Regime",
+      "rank": 7,
+      "score": 80.09,
+      "gap": 0.769999999999996
     },
-    {
-      "transaction_id": "1365414360763080704",
-      "created_at": "2026-05-27T17:24:21.080000+00:00",
-      "counterparties": [
-        "Big Balder Brand"
-      ],
-      "players_received": [
-        "D'Andre Swift",
-        "Justin Jefferson",
-        "Christian Watson"
-      ],
-      "players_sent": [
-        "Rashee Rice",
-        "Emeka Egbuka",
-        "Kyren Williams"
-      ],
-      "picks_received": [],
-      "picks_sent": [],
-      "summary": "On May 27, Corgi Loaf Baking Co. traded with Big Balder Brand and acquired D'Andre Swift, Justin Jefferson, Christian Watson while sending Rashee Rice, Emeka Egbuka, Kyren Williams. D'Andre Swift is now the verified RB starter at 76.6 C-AVI and 79.2 D-AVI; Justin Jefferson is now the verified WR starter at 97.3 C-AVI and 90.8 D-AVI; Christian Watson is now the verified FLEX starter at 70.3 C-AVI and 78.5 D-AVI."
-    }
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1380817964328034304",
+    "created_at": "2026-07-09T05:32:46.354000+00:00",
+    "counterparties": [
+      "Rapid Valley Annihilation"
+    ],
+    "players_received": [],
+    "players_sent": [],
+    "picks_received": [
+      "2026 Round 1 (original roster 2)"
+    ],
+    "picks_sent": [
+      "2027 Round 1 (original roster 11)",
+      "2028 Round 1 (original roster 11)"
+    ],
+    "summary": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (original roster 2) while sending 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11). The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+  },
+  "gap_closing_moves": [
+    "Raise the FLEX slot above Jakobi Meyers's 65.6 C-AVI baseline; a replacement near 68.2 C-AVI would directly attack the 0.32-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
+  "rival_below": {
+    "franchise_name": "Ravens Regime",
+    "projected_rank": 7,
+    "projected_score": 80.09,
+    "latest_trade": {
+      "transaction_id": "1383224827728367616",
+      "created_at": "2026-07-15T20:56:47.307000+00:00",
+      "counterparties": [
+        "Northside Kings"
+      ],
+      "players_received": [
+        "Tyler Warren"
+      ],
+      "players_sent": [
+        "RJ Harvey",
+        "Bhayshul Tuten"
+      ],
+      "picks_received": [],
+      "picks_sent": [
+        "2026 Round 2 (original roster 2)"
+      ],
+      "summary": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2). Tyler Warren is now the current TE starter at 97.2 C-AVI and 90.5 D-AVI; The deal sent out 1 draft asset, reducing future flexibility."
+    },
+    "summary": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2). Tyler Warren is now the current TE starter at 97.2 C-AVI and 90.5 D-AVI; The deal sent out 1 draft asset, reducing future flexibility."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #6 of 16 at 80.86 lineup C-AVI. Lightskin Legends \u270a\ud83c\udffd is immediately above at 81.18, a gap of 0.32. Ravens Regime is immediately behind at 80.09."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Justin Jefferson (97.3), Kyle Pitts (94.2), and Malik Nabers (84.5)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (original roster 2) while sending 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11). The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal. On June 18, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired Kyle Pitts while sending Quentin Johnston, 2027 Round 2 (original roster 11). Kyle Pitts is now the verified TE starter at 94.2 C-AVI and 88.0 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. On May 27, Corgi Loaf Baking Co. traded with Big Balder Brand and acquired D'Andre Swift, Justin Jefferson, Christian Watson while sending Rashee Rice, Emeka Egbuka, Kyren Williams. D'Andre Swift is now the verified RB starter at 76.6 C-AVI and 79.2 D-AVI; Justin Jefferson is now the verified WR starter at 97.3 C-AVI and 90.8 D-AVI; Christian Watson is now the verified FLEX starter at 70.3 C-AVI and 78.5 D-AVI."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (original roster 2) while sending 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11). The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the FLEX slot above Jakobi Meyers's 65.6 C-AVI baseline; a replacement near 68.2 C-AVI would directly attack the 0.32-point projected gap to Lightskin Legends \u270a\ud83c\udffd. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the FLEX slot above Jakobi Meyers's 65.6 C-AVI baseline; a replacement near 68.2 C-AVI would directly attack the 0.32-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2). Tyler Warren is now the current TE starter at 97.2 C-AVI and 90.5 D-AVI; The deal sent out 1 draft asset, reducing future flexibility."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jakobi Meyers is the lowest C-AVI starter in the verified championship lineup at 65.6. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 14 offensive players, with 6 outside the modeled starting eight. The offensive roster D-AVI average is 74.85."
+      "body": "Jakobi Meyers is the lowest C-AVI starter in the verified championship lineup at 65.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",

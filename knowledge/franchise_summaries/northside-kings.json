@@ -1,98 +1,86 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "northside-kings",
   "franchise_name": "Northside Kings",
   "roster_id": 5,
   "owner_display_name": "srsmith95",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Northside Kings: Preseason Front Office Brief",
-  "executive_summary": "Northside Kings carries a championship-lineup C-AVI average of 61.44, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The clearest lineup pressure point is the QB slot held by Jordan Love at 52.4 C-AVI.",
-  "recent_trades": [
-    {
-      "transaction_id": "1383224827728367616",
-      "created_at": "2026-07-15T20:56:47.307000+00:00",
-      "counterparties": [
-        "Ravens Regime"
-      ],
-      "players_received": [
-        "RJ Harvey",
-        "Bhayshul Tuten"
-      ],
-      "players_sent": [
-        "Tyler Warren"
-      ],
-      "picks_received": [
-        "2026 Round 2 (original roster 2)"
-      ],
-      "picks_sent": [],
-      "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2) while sending Tyler Warren. RJ Harvey is now the verified RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the verified RB starter at 72.9 C-AVI and 78.7 D-AVI. It added 1 draft asset to the franchise's asset base at the time of the deal."
+  "executive_summary": "Northside Kings is projected #16 of 16 with a 61.44 championship-lineup C-AVI average, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
+  "projected_power": {
+    "rank": 16,
+    "league_size": 16,
+    "score": 61.44,
+    "team_above": {
+      "name": "Crimson Tide Pods",
+      "rank": 15,
+      "score": 65.45,
+      "gap": 4.010000000000005
     },
-    {
-      "transaction_id": "1377688089559846912",
-      "created_at": "2026-06-30T14:15:46.059000+00:00",
-      "counterparties": [
-        "Conquistadors",
-        "Crimson Tide Pods"
-      ],
-      "players_received": [
-        "Malik Washington",
-        "Mike Evans"
-      ],
-      "players_sent": [
-        "Matthew Golden"
-      ],
-      "picks_received": [
-        "2028 Round 2 (original roster 1)"
-      ],
-      "picks_sent": [
-        "2027 Round 2 (original roster 5)"
-      ],
-      "summary": "On June 30, Northside Kings traded with Conquistadors, Crimson Tide Pods and acquired Malik Washington, Mike Evans, 2028 Round 2 (original roster 1) while sending Matthew Golden, 2027 Round 2 (original roster 5). Malik Washington is now on the current roster at 42.0 C-AVI and 56.4 D-AVI; Mike Evans is now the verified WR starter at 70.8 C-AVI and 75.2 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
-    },
-    {
-      "transaction_id": "1353525670856101888",
-      "created_at": "2026-04-24T22:02:56.525000+00:00",
-      "counterparties": [
-        "Conquistadors"
-      ],
-      "players_received": [
-        "Xavier Worthy"
-      ],
-      "players_sent": [],
-      "picks_received": [
-        "2027 Round 1 (original roster 1)",
-        "2027 Round 3 (original roster 1)"
-      ],
-      "picks_sent": [
-        "2027 Round 1 (original roster 4)",
-        "2027 Round 1 (original roster 5)"
-      ],
-      "summary": "On April 24, Northside Kings traded with Conquistadors and acquired Xavier Worthy, 2027 Round 1 (original roster 1), 2027 Round 3 (original roster 1) while sending 2027 Round 1 (original roster 4), 2027 Round 1 (original roster 5). Xavier Worthy is now the verified FLEX starter at 58.1 C-AVI and 71.0 D-AVI. The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 2 draft assets to the franchise's asset base at the time of the deal."
-    }
+    "team_below": null,
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1383224827728367616",
+    "created_at": "2026-07-15T20:56:47.307000+00:00",
+    "counterparties": [
+      "Ravens Regime"
+    ],
+    "players_received": [
+      "RJ Harvey",
+      "Bhayshul Tuten"
+    ],
+    "players_sent": [
+      "Tyler Warren"
+    ],
+    "picks_received": [
+      "2026 Round 2 (original roster 2)"
+    ],
+    "picks_sent": [],
+    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the current RB starter at 72.9 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+  },
+  "gap_closing_moves": [
+    "Raise the QB slot above Jordan Love's 52.4 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 4.01-point projected gap to Crimson Tide Pods.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
+  "rival_below": null,
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #16 of 16 at 61.44 lineup C-AVI. Crimson Tide Pods is immediately above at 65.45, a gap of 4.01."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Bhayshul Tuten (72.9), Mike Evans (70.8), and RJ Harvey (62.3)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2) while sending Tyler Warren. RJ Harvey is now the verified RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the verified RB starter at 72.9 C-AVI and 78.7 D-AVI. It added 1 draft asset to the franchise's asset base at the time of the deal. On June 30, Northside Kings traded with Conquistadors, Crimson Tide Pods and acquired Malik Washington, Mike Evans, 2028 Round 2 (original roster 1) while sending Matthew Golden, 2027 Round 2 (original roster 5). Malik Washington is now on the current roster at 42.0 C-AVI and 56.4 D-AVI; Mike Evans is now the verified WR starter at 70.8 C-AVI and 75.2 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal. On April 24, Northside Kings traded with Conquistadors and acquired Xavier Worthy, 2027 Round 1 (original roster 1), 2027 Round 3 (original roster 1) while sending 2027 Round 1 (original roster 4), 2027 Round 1 (original roster 5). Xavier Worthy is now the verified FLEX starter at 58.1 C-AVI and 71.0 D-AVI. The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 2 draft assets to the franchise's asset base at the time of the deal."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the current RB starter at 72.9 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the QB slot above Jordan Love's 52.4 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 4.01-point projected gap to Crimson Tide Pods. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the QB slot above Jordan Love's 52.4 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 4.01-point projected gap to Crimson Tide Pods.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "This franchise is currently projected last, so there is no team immediately beneath it."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jordan Love is the lowest C-AVI starter in the verified championship lineup at 52.4. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 15 offensive players, with 7 outside the modeled starting eight. The offensive roster D-AVI average is 63.52."
+      "body": "Jordan Love is the lowest C-AVI starter in the verified championship lineup at 52.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",

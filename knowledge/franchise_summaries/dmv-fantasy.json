@@ -1,81 +1,121 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "dmv-fantasy",
   "franchise_name": "DMV Fantasy",
   "roster_id": 12,
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
-  "executive_summary": "DMV Fantasy carries a championship-lineup C-AVI average of 73.91, led by Jayden Daniels, Saquon Barkley, and George Kittle. The clearest lineup pressure point is the FLEX slot held by Rachaad White at 57.1 C-AVI.",
-  "recent_trades": [
-    {
-      "transaction_id": "1383186342132842496",
-      "created_at": "2026-07-15T18:23:51.626000+00:00",
-      "counterparties": [
-        "Big Balder Brand"
-      ],
-      "players_received": [
-        "George Kittle",
-        "Brenton Strange"
-      ],
-      "players_sent": [
-        "Trey McBride"
-      ],
-      "picks_received": [
-        "2026 Round 1 (original roster 1)",
-        "2028 Round 1 (original roster 9)"
-      ],
-      "picks_sent": [],
-      "summary": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9) while sending Trey McBride. George Kittle is now the verified TE starter at 79.5 C-AVI and 82.2 D-AVI; Brenton Strange is now the verified FLEX starter at 62.1 C-AVI and 77.4 D-AVI. It added 2 draft assets to the franchise's asset base at the time of the deal."
+  "executive_summary": "DMV Fantasy is projected #11 of 16 with a 73.91 championship-lineup C-AVI average, led by Jayden Daniels, Saquon Barkley, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core.",
+  "projected_power": {
+    "rank": 11,
+    "league_size": 16,
+    "score": 73.91,
+    "team_above": {
+      "name": "Badland Banditos",
+      "rank": 10,
+      "score": 77.33,
+      "gap": 3.4200000000000017
     },
-    {
-      "transaction_id": "1375906214189207552",
-      "created_at": "2026-06-25T16:15:13.866000+00:00",
+    "team_below": {
+      "name": "Gringo\u2019s Goblins",
+      "rank": 12,
+      "score": 70.6,
+      "gap": 3.3100000000000023
+    },
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1383186342132842496",
+    "created_at": "2026-07-15T18:23:51.626000+00:00",
+    "counterparties": [
+      "Big Balder Brand"
+    ],
+    "players_received": [
+      "George Kittle",
+      "Brenton Strange"
+    ],
+    "players_sent": [
+      "Trey McBride"
+    ],
+    "picks_received": [
+      "2026 Round 1 (original roster 1)",
+      "2028 Round 1 (original roster 9)"
+    ],
+    "picks_sent": [],
+    "summary": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9) while sending Trey McBride. George Kittle is now the current TE starter at 79.5 C-AVI and 82.2 D-AVI; Brenton Strange is now the current FLEX starter at 62.1 C-AVI and 77.4 D-AVI; The deal added 2 draft assets."
+  },
+  "gap_closing_moves": [
+    "Raise the FLEX slot above Rachaad White's 57.1 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 3.42-point projected gap to Badland Banditos.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+  ],
+  "rival_below": {
+    "franchise_name": "Gringo\u2019s Goblins",
+    "projected_rank": 12,
+    "projected_score": 70.6,
+    "latest_trade": {
+      "transaction_id": "1380604251050356736",
+      "created_at": "2026-07-08T15:23:33.139000+00:00",
       "counterparties": [
         "Big Balder Brand"
       ],
       "players_received": [
-        "Saquon Barkley",
-        "Trey McBride",
-        "Khalil Shakir"
+        "Tre' Harris",
+        "Emeka Egbuka",
+        "Kyren Williams"
       ],
       "players_sent": [
-        "Jameson Williams"
+        "Omarion Hampton",
+        "Chris Godwin",
+        "A.J. Brown"
       ],
       "picks_received": [
-        "2027 Round 3 (original roster 9)"
-      ],
-      "picks_sent": [
-        "2026 Round 1 (original roster 12)",
-        "2027 Round 2 (original roster 12)",
         "2027 Round 1 (original roster 9)"
       ],
-      "summary": "On June 25, DMV Fantasy traded with Big Balder Brand and acquired Saquon Barkley, Trey McBride, Khalil Shakir, 2027 Round 3 (original roster 9) while sending Jameson Williams, 2026 Round 1 (original roster 12), 2027 Round 2 (original roster 12), 2027 Round 1 (original roster 9). Saquon Barkley is now the verified RB starter at 92.0 C-AVI and 86.7 D-AVI; Khalil Shakir is now the verified WR starter at 59.4 C-AVI and 69.2 D-AVI. The transaction moved out 3 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
-    }
-  ],
+      "picks_sent": [
+        "2027 Round 2 (original roster 15)"
+      ],
+      "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+    },
+    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #11 of 16 at 73.91 lineup C-AVI. Badland Banditos is immediately above at 77.33, a gap of 3.42. Gringo\u2019s Goblins is immediately behind at 70.60."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Jayden Daniels (96.2), Saquon Barkley (92.0), and George Kittle (79.5)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9) while sending Trey McBride. George Kittle is now the verified TE starter at 79.5 C-AVI and 82.2 D-AVI; Brenton Strange is now the verified FLEX starter at 62.1 C-AVI and 77.4 D-AVI. It added 2 draft assets to the franchise's asset base at the time of the deal. On June 25, DMV Fantasy traded with Big Balder Brand and acquired Saquon Barkley, Trey McBride, Khalil Shakir, 2027 Round 3 (original roster 9) while sending Jameson Williams, 2026 Round 1 (original roster 12), 2027 Round 2 (original roster 12), 2027 Round 1 (original roster 9). Saquon Barkley is now the verified RB starter at 92.0 C-AVI and 86.7 D-AVI; Khalil Shakir is now the verified WR starter at 59.4 C-AVI and 69.2 D-AVI. The transaction moved out 3 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9) while sending Trey McBride. George Kittle is now the current TE starter at 79.5 C-AVI and 82.2 D-AVI; Brenton Strange is now the current FLEX starter at 62.1 C-AVI and 77.4 D-AVI; The deal added 2 draft assets."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the FLEX slot above Rachaad White's 57.1 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 3.42-point projected gap to Badland Banditos. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the FLEX slot above Rachaad White's 57.1 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 3.42-point projected gap to Badland Banditos.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Rachaad White is the lowest C-AVI starter in the verified championship lineup at 57.1. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 11 offensive players, with 3 outside the modeled starting eight. The offensive roster D-AVI average is 66.94."
+      "body": "Rachaad White is the lowest C-AVI starter in the verified championship lineup at 57.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",

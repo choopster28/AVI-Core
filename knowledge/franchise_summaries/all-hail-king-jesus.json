@@ -1,55 +1,112 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "all-hail-king-jesus",
   "franchise_name": "All Hail King Jesus",
   "roster_id": 8,
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
-  "executive_summary": "All Hail King Jesus carries a championship-lineup C-AVI average of 78.25, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The clearest lineup pressure point is the RB slot held by Zach Charbonnet at 51.6 C-AVI.",
-  "recent_trades": [
-    {
-      "transaction_id": "1382466797541818368",
-      "created_at": "2026-07-13T18:44:38.827000+00:00",
+  "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 78.25 championship-lineup C-AVI average, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
+  "projected_power": {
+    "rank": 8,
+    "league_size": 16,
+    "score": 78.25,
+    "team_above": {
+      "name": "Ravens Regime",
+      "rank": 7,
+      "score": 80.09,
+      "gap": 1.8400000000000034
+    },
+    "team_below": {
+      "name": "Southside Savages",
+      "rank": 9,
+      "score": 78.22,
+      "gap": 0.030000000000001137
+    },
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1382466797541818368",
+    "created_at": "2026-07-13T18:44:38.827000+00:00",
+    "counterparties": [
+      "Ravens Regime"
+    ],
+    "players_received": [
+      "Isiah Pacheco"
+    ],
+    "players_sent": [
+      "Derrick Henry"
+    ],
+    "picks_received": [
+      "2026 Round 1 (original roster 13)"
+    ],
+    "picks_sent": [],
+    "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
+  },
+  "gap_closing_moves": [
+    "Raise the RB slot above Zach Charbonnet's 51.6 C-AVI baseline; a replacement near 66.3 C-AVI would directly attack the 1.84-point projected gap to Ravens Regime.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+  ],
+  "rival_below": {
+    "franchise_name": "Southside Savages",
+    "projected_rank": 9,
+    "projected_score": 78.22,
+    "latest_trade": {
+      "transaction_id": "1283906516683853824",
+      "created_at": "2025-10-14T19:21:16.708000+00:00",
       "counterparties": [
-        "Ravens Regime"
+        "Roster 3"
       ],
       "players_received": [
-        "Isiah Pacheco"
+        "Tetairoa McMillan"
       ],
-      "players_sent": [
-        "Derrick Henry"
+      "players_sent": [],
+      "picks_received": [],
+      "picks_sent": [
+        "2026 Round 1 (original roster 13)",
+        "2026 Round 2 (original roster 13)"
       ],
-      "picks_received": [
-        "2026 Round 1 (original roster 13)"
-      ],
-      "picks_sent": [],
-      "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI. It added 1 draft asset to the franchise's asset base at the time of the deal."
-    }
-  ],
+      "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (original roster 13), 2026 Round 2 (original roster 13). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+    },
+    "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (original roster 13), 2026 Round 2 (original roster 13). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #8 of 16 at 78.25 lineup C-AVI. Ravens Regime is immediately above at 80.09, a gap of 1.84. Southside Savages is immediately behind at 78.22."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Amon-Ra St. Brown (98.6), and Tee Higgins (81.9)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI. It added 1 draft asset to the franchise's asset base at the time of the deal."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the RB slot above Zach Charbonnet's 51.6 C-AVI baseline; a replacement near 66.3 C-AVI would directly attack the 1.84-point projected gap to Ravens Regime. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the RB slot above Zach Charbonnet's 51.6 C-AVI baseline; a replacement near 66.3 C-AVI would directly attack the 1.84-point projected gap to Ravens Regime.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (original roster 13), 2026 Round 2 (original roster 13). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Zach Charbonnet is the lowest C-AVI starter in the verified championship lineup at 51.6. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 10 offensive players, with 2 outside the modeled starting eight. The offensive roster D-AVI average is 71.52."
+      "body": "Zach Charbonnet is the lowest C-AVI starter in the verified championship lineup at 51.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",

@@ -1,36 +1,113 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "mile-high-royal-lions",
   "franchise_name": "Mile High Royal Lions",
   "roster_id": 4,
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
-  "executive_summary": "Mile High Royal Lions carries a championship-lineup C-AVI average of 83.88, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The clearest lineup pressure point is the RB slot held by J.K. Dobbins at 58.8 C-AVI.",
-  "recent_trades": [],
+  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 83.88 championship-lineup C-AVI average, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
+  "projected_power": {
+    "rank": 3,
+    "league_size": 16,
+    "score": 83.88,
+    "team_above": {
+      "name": "Big Balder Brand",
+      "rank": 2,
+      "score": 88.39,
+      "gap": 4.510000000000005
+    },
+    "team_below": {
+      "name": "SmokyValleyWheatWarriors",
+      "rank": 4,
+      "score": 82.8,
+      "gap": 1.0799999999999983
+    },
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1289441913560141824",
+    "created_at": "2025-10-30T01:56:58.167000+00:00",
+    "counterparties": [
+      "TacticsNoob"
+    ],
+    "players_received": [
+      "Marvin Harrison"
+    ],
+    "players_sent": [
+      "Rachaad White"
+    ],
+    "picks_received": [],
+    "picks_sent": [
+      "2026 Round 2 (original roster 1)",
+      "2027 Round 1 (original roster 9)"
+    ],
+    "summary": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (original roster 1), 2027 Round 1 (original roster 9). Marvin Harrison is now the current FLEX starter at 72.8 C-AVI and 79.8 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+  },
+  "gap_closing_moves": [
+    "Raise the RB slot above J.K. Dobbins's 58.8 C-AVI baseline; a replacement near 94.9 C-AVI would directly attack the 4.51-point projected gap to Big Balder Brand.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+  ],
+  "rival_below": {
+    "franchise_name": "SmokyValleyWheatWarriors",
+    "projected_rank": 4,
+    "projected_score": 82.8,
+    "latest_trade": {
+      "transaction_id": "1288899605622165504",
+      "created_at": "2025-10-28T14:02:01.879000+00:00",
+      "counterparties": [
+        "Hit & Ruggs \ud83c\udfce\ufe0f"
+      ],
+      "players_received": [],
+      "players_sent": [
+        "Kayshon Boutte"
+      ],
+      "picks_received": [
+        "2026 Round 3 (original roster 1)",
+        "2027 Round 2 (original roster 1)"
+      ],
+      "picks_sent": [],
+      "summary": "On October 28, SmokyValleyWheatWarriors traded with Hit & Ruggs \ud83c\udfce\ufe0f and acquired 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1) while sending Kayshon Boutte. The deal added 2 draft assets."
+    },
+    "summary": "On October 28, SmokyValleyWheatWarriors traded with Hit & Ruggs \ud83c\udfce\ufe0f and acquired 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1) while sending Kayshon Boutte. The deal added 2 draft assets."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #3 of 16 at 83.88 lineup C-AVI. Big Balder Brand is immediately above at 88.39, a gap of 4.51. SmokyValleyWheatWarriors is immediately behind at 82.80."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Jahmyr Gibbs (99.6), Drake London (97.8), and Jalen Hurts (91.2)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "No recent franchise trade met the relevance threshold in the authoritative historical trade ledger."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (original roster 1), 2027 Round 1 (original roster 9). Marvin Harrison is now the current FLEX starter at 72.8 C-AVI and 79.8 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the RB slot above J.K. Dobbins's 58.8 C-AVI baseline; a replacement near 94.9 C-AVI would directly attack the 4.51-point projected gap to Big Balder Brand. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the RB slot above J.K. Dobbins's 58.8 C-AVI baseline; a replacement near 94.9 C-AVI would directly attack the 4.51-point projected gap to Big Balder Brand.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On October 28, SmokyValleyWheatWarriors traded with Hit & Ruggs \ud83c\udfce\ufe0f and acquired 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1) while sending Kayshon Boutte. The deal added 2 draft assets."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "J.K. Dobbins is the lowest C-AVI starter in the verified championship lineup at 58.8. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 12 offensive players, with 4 outside the modeled starting eight. The offensive roster D-AVI average is 77.75."
+      "body": "J.K. Dobbins is the lowest C-AVI starter in the verified championship lineup at 58.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -47,7 +124,8 @@
     "policy": "AVI-Core/knowledge only",
     "files": [
       "knowledge/teams/04_Mile_High_Royal_Lions.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-21",
     "external_sources_used": false,

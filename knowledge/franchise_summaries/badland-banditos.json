@@ -1,58 +1,118 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "badland-banditos",
   "franchise_name": "Badland Banditos",
   "roster_id": 7,
   "owner_display_name": "IcebergSlim69",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Badland Banditos: Preseason Front Office Brief",
-  "executive_summary": "Badland Banditos carries a championship-lineup C-AVI average of 77.33, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The clearest lineup pressure point is the FLEX slot held by Jayden Higgins at 51.4 C-AVI.",
-  "recent_trades": [
-    {
-      "transaction_id": "1375593798167461888",
-      "created_at": "2026-06-24T19:33:48.082000+00:00",
+  "executive_summary": "Badland Banditos is projected #10 of 16 with a 77.33 championship-lineup C-AVI average, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
+  "projected_power": {
+    "rank": 10,
+    "league_size": 16,
+    "score": 77.33,
+    "team_above": {
+      "name": "Southside Savages",
+      "rank": 9,
+      "score": 78.22,
+      "gap": 0.8900000000000006
+    },
+    "team_below": {
+      "name": "DMV Fantasy",
+      "rank": 11,
+      "score": 73.91,
+      "gap": 3.4200000000000017
+    },
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1375593798167461888",
+    "created_at": "2026-06-24T19:33:48.082000+00:00",
+    "counterparties": [
+      "Crimson Tide Pods"
+    ],
+    "players_received": [
+      "Kenneth Walker"
+    ],
+    "players_sent": [
+      "Chris Rodriguez"
+    ],
+    "picks_received": [
+      "2027 Round 3 (original roster 16)"
+    ],
+    "picks_sent": [
+      "2026 Round 1 (original roster 11)",
+      "2026 Round 1 (original roster 8)"
+    ],
+    "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (original roster 16) while sending Chris Rodriguez, 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+  },
+  "gap_closing_moves": [
+    "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.5 C-AVI would directly attack the 0.89-point projected gap to Southside Savages.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+  ],
+  "rival_below": {
+    "franchise_name": "DMV Fantasy",
+    "projected_rank": 11,
+    "projected_score": 73.91,
+    "latest_trade": {
+      "transaction_id": "1383186342132842496",
+      "created_at": "2026-07-15T18:23:51.626000+00:00",
       "counterparties": [
-        "Crimson Tide Pods"
+        "Big Balder Brand"
       ],
       "players_received": [
-        "Kenneth Walker"
+        "George Kittle",
+        "Brenton Strange"
       ],
       "players_sent": [
-        "Chris Rodriguez"
+        "Trey McBride"
       ],
       "picks_received": [
-        "2027 Round 3 (original roster 16)"
+        "2026 Round 1 (original roster 1)",
+        "2028 Round 1 (original roster 9)"
       ],
-      "picks_sent": [
-        "2026 Round 1 (original roster 11)",
-        "2026 Round 1 (original roster 8)"
-      ],
-      "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (original roster 16) while sending Chris Rodriguez, 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8). Kenneth Walker is now the verified RB starter at 87.5 C-AVI and 87.0 D-AVI. The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
-    }
-  ],
+      "picks_sent": [],
+      "summary": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9) while sending Trey McBride. George Kittle is now the current TE starter at 79.5 C-AVI and 82.2 D-AVI; Brenton Strange is now the current FLEX starter at 62.1 C-AVI and 77.4 D-AVI; The deal added 2 draft assets."
+    },
+    "summary": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9) while sending Trey McBride. George Kittle is now the current TE starter at 79.5 C-AVI and 82.2 D-AVI; Brenton Strange is now the current FLEX starter at 62.1 C-AVI and 77.4 D-AVI; The deal added 2 draft assets."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #10 of 16 at 77.33 lineup C-AVI. Southside Savages is immediately above at 78.22, a gap of 0.89. DMV Fantasy is immediately behind at 73.91."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.0), and Kenneth Walker (87.5)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (original roster 16) while sending Chris Rodriguez, 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8). Kenneth Walker is now the verified RB starter at 87.5 C-AVI and 87.0 D-AVI. The transaction moved out 2 draft assets, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (original roster 16) while sending Chris Rodriguez, 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.5 C-AVI would directly attack the 0.89-point projected gap to Southside Savages. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.5 C-AVI would directly attack the 0.89-point projected gap to Southside Savages.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9) while sending Trey McBride. George Kittle is now the current TE starter at 79.5 C-AVI and 82.2 D-AVI; Brenton Strange is now the current FLEX starter at 62.1 C-AVI and 77.4 D-AVI; The deal added 2 draft assets."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 51.4. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 12 offensive players, with 4 outside the modeled starting eight. The offensive roster D-AVI average is 75.23."
+      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 51.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",

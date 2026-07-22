@@ -1,61 +1,120 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "franchise_id": "gringo-s-goblins",
   "franchise_name": "Gringo\u2019s Goblins",
   "roster_id": 15,
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T09:45:24.983538-06:00",
+  "generated_at": "2026-07-22T10:00:02.723018-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
-  "executive_summary": "Gringo\u2019s Goblins carries a championship-lineup C-AVI average of 70.60, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The clearest lineup pressure point is the FLEX slot held by Jonathon Brooks at 52.6 C-AVI.",
-  "recent_trades": [
-    {
-      "transaction_id": "1380604251050356736",
-      "created_at": "2026-07-08T15:23:33.139000+00:00",
+  "executive_summary": "Gringo\u2019s Goblins is projected #12 of 16 with a 70.60 championship-lineup C-AVI average, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "projected_power": {
+    "rank": 12,
+    "league_size": 16,
+    "score": 70.6,
+    "team_above": {
+      "name": "DMV Fantasy",
+      "rank": 11,
+      "score": 73.91,
+      "gap": 3.3100000000000023
+    },
+    "team_below": {
+      "name": "Phalhala or Bust",
+      "rank": 13,
+      "score": 69.36,
+      "gap": 1.2399999999999949
+    },
+    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+  },
+  "latest_trade": {
+    "transaction_id": "1380604251050356736",
+    "created_at": "2026-07-08T15:23:33.139000+00:00",
+    "counterparties": [
+      "Big Balder Brand"
+    ],
+    "players_received": [
+      "Tre' Harris",
+      "Emeka Egbuka",
+      "Kyren Williams"
+    ],
+    "players_sent": [
+      "Omarion Hampton",
+      "Chris Godwin",
+      "A.J. Brown"
+    ],
+    "picks_received": [
+      "2027 Round 1 (original roster 9)"
+    ],
+    "picks_sent": [
+      "2027 Round 2 (original roster 15)"
+    ],
+    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+  },
+  "gap_closing_moves": [
+    "Raise the FLEX slot above Jonathon Brooks's 52.6 C-AVI baseline; a replacement near 79.1 C-AVI would directly attack the 3.31-point projected gap to DMV Fantasy.",
+    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+  ],
+  "rival_below": {
+    "franchise_name": "Phalhala or Bust",
+    "projected_rank": 13,
+    "projected_score": 69.36,
+    "latest_trade": {
+      "transaction_id": "1356901536596242432",
+      "created_at": "2026-05-04T05:37:25.638000+00:00",
       "counterparties": [
-        "Big Balder Brand"
+        "Ravens Regime"
       ],
       "players_received": [
-        "Tre' Harris",
-        "Emeka Egbuka",
-        "Kyren Williams"
+        "Michael Wilson"
       ],
       "players_sent": [
-        "Omarion Hampton",
-        "Chris Godwin",
-        "A.J. Brown"
+        "Romeo Doubs"
       ],
       "picks_received": [
-        "2027 Round 1 (original roster 9)"
+        "2026 Round 2 (original roster 3)",
+        "2026 Round 4 (original roster 7)"
       ],
-      "picks_sent": [
-        "2027 Round 2 (original roster 15)"
-      ],
-      "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the verified WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the verified RB starter at 83.3 C-AVI and 83.8 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
-    }
-  ],
+      "picks_sent": [],
+      "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (original roster 3), 2026 Round 4 (original roster 7) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.6 C-AVI and 74.8 D-AVI; The deal added 2 draft assets."
+    },
+    "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (original roster 3), 2026 Round 4 (original roster 7) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.6 C-AVI and 74.8 D-AVI; The deal added 2 draft assets."
+  },
   "sections": [
+    {
+      "id": "projected-power",
+      "title": "Projected Power Position",
+      "body": "Projected #12 of 16 at 70.60 lineup C-AVI. DMV Fantasy is immediately above at 73.91, a gap of 3.31. Phalhala or Bust is immediately behind at 69.36."
+    },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
       "body": "The three highest C-AVI starters are Emeka Egbuka (85.5), Kyren Williams (83.3), and Davante Adams (80.3)."
     },
     {
-      "id": "recent-trade-impact",
-      "title": "Recent Trade Impact",
-      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the verified WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the verified RB starter at 83.3 C-AVI and 83.8 D-AVI. The transaction moved out 1 draft asset, which reduces the franchise's remaining draft flexibility relative to keeping those picks. It added 1 draft asset to the franchise's asset base at the time of the deal."
+      "id": "latest-trade-impact",
+      "title": "Latest Trade Impact",
+      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (original roster 9) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (original roster 15). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+    },
+    {
+      "id": "close-the-gap",
+      "title": "Moves to Close the Gap",
+      "body": "Raise the FLEX slot above Jonathon Brooks's 52.6 C-AVI baseline; a replacement near 79.1 C-AVI would directly attack the 3.31-point projected gap to DMV Fantasy. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "items": [
+        "Raise the FLEX slot above Jonathon Brooks's 52.6 C-AVI baseline; a replacement near 79.1 C-AVI would directly attack the 3.31-point projected gap to DMV Fantasy.",
+        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+      ]
+    },
+    {
+      "id": "rival-watch",
+      "title": "Rival Watch",
+      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (original roster 3), 2026 Round 4 (original roster 7) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.6 C-AVI and 74.8 D-AVI; The deal added 2 draft assets."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jonathon Brooks is the lowest C-AVI starter in the verified championship lineup at 52.6. Any acquisition should clear that lineup threshold."
-    },
-    {
-      "id": "depth-and-flexibility",
-      "title": "Depth and Flexibility",
-      "body": "The team file contains 10 offensive players, with 2 outside the modeled starting eight. The offensive roster D-AVI average is 74.99."
+      "body": "Jonathon Brooks is the lowest C-AVI starter in the verified championship lineup at 52.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
