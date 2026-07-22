@@ -1,10 +1,10 @@
-name: Weekly Franchise Executive Summary
+name: Weekly Franchise Executive Summaries
 
 on:
   workflow_dispatch:
   schedule:
-    # GitHub cron is UTC. Check both UTC hours, then enforce 11:00 America/Denver
-    # in the job so daylight-saving changes do not move the local run time.
+    # GitHub cron is UTC. Run both possible UTC hours, then enforce
+    # Wednesday 11:00 AM in America/Denver so DST never shifts local time.
     - cron: "0 17 * * 3"
     - cron: "0 18 * * 3"
 
@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 jobs:
-  generate-big-balder-summary:
+  generate-franchise-summaries:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -39,20 +39,20 @@ jobs:
           print(f"Mountain time: {now.isoformat()} | allowed={allowed}")
           PY
 
-      - name: Generate Big Balder Brand summary
+      - name: Generate all 16 franchise summaries
         if: github.event_name == 'workflow_dispatch' || steps.local_time.outputs.allowed == 'true'
         run: python scripts/generate_weekly_executive_summary.py
 
-      - name: Commit refreshed summary
+      - name: Commit refreshed summaries
         if: github.event_name == 'workflow_dispatch' || steps.local_time.outputs.allowed == 'true'
         shell: bash
         run: |
-          if git diff --quiet -- data/reports/weekly_executive_summaries/big-balder-brand.json; then
-            echo "No summary changes to commit."
+          if git diff --quiet -- knowledge/franchise_summaries; then
+            echo "No franchise summary changes to commit."
             exit 0
           fi
           git config user.name "AVI-Automation"
           git config user.email "actions@users.noreply.github.com"
-          git add data/reports/weekly_executive_summaries/big-balder-brand.json
-          git commit -m "Refresh Big Balder weekly executive summary"
+          git add knowledge/franchise_summaries
+          git commit -m "Refresh weekly franchise executive summaries"
           git push
