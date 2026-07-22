@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "franchise_id": "big-balder-brand",
+  "franchise_name": "Big Balder Brand",
+  "mode": "preseason",
+  "reporting_period": "Week of July 22, 2026",
+  "generated_at": "2026-07-22T11:00:00-06:00",
+  "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
+  "confidence": "pilot",
+  "headline": "Big Balder Brand Weekly Executive Summary",
+  "lede": "A concise front-office briefing built from AVI-Core data and the approved AVI instruction set.",
+  "sections": [
+    {
+      "title": "Front Office Snapshot",
+      "body": "Big Balder Brand enters the 2026 cycle as an Elite Contender with a legitimate championship window. The roster is built to win now without being forced into an all-in move, so the best path is targeted improvement rather than broad turnover."
+    },
+    {
+      "title": "Recommended Focus",
+      "body": "Prioritize moves that raise the weekly starting-lineup ceiling, especially at the weakest starting position, while protecting premium young assets. Depth-for-upgrade consolidation is preferable to spending multiple future first-round assets on a marginal gain."
+    },
+    {
+      "title": "Roster Intelligence",
+      "body": "Monitor veteran recovery timelines, training-camp role changes, and any injury that affects the opening-week lineup. No emergency roster move should be recommended unless a verified injury or role loss creates a real starting-lineup problem."
+    },
+    {
+      "title": "Draft Room",
+      "body": "Use the 1.01 on the highest-confidence cornerstone available and treat later premium selections as opportunities to add either a falling offensive prospect or a difference-making IDP. Draft recommendations must be refreshed against the live pick board and actual players still available."
+    },
+    {
+      "title": "AVI Watchlist",
+      "body": "Track one rising asset, one risk factor, and one decision point each week. The key question is whether an available move creates a clear starting-lineup advantage without shortening the competitive window more than necessary."
+    }
+  ],
+  "next_refresh": "Wednesday at 11:00 AM Mountain Time",
+  "notes": [
+    "Pilot edition for Big Balder Brand.",
+    "Regular-season matchup, standings, conference, division, and injury sections activate when verified 2026 weekly data is available.",
+    "Future iterations will replace general pilot language with fully hydrated franchise-specific facts from AVI-Core feeds."
+  ]
+}
