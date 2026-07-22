@@ -6,7 +6,7 @@
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:00:02.723018-06:00",
+  "generated_at": "2026-07-22T10:04:33.103054-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
   "executive_summary": "Big Balder Brand is projected #2 of 16 with a 88.39 championship-lineup C-AVI average, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -29,20 +29,24 @@
     "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
   },
   "latest_trade": {
-    "transaction_id": "1384427332722233344",
-    "created_at": "2026-07-19T04:35:06.839000+00:00",
+    "transaction_id": "1383186342132842496",
+    "created_at": "2026-07-15T18:23:51.626000+00:00",
     "counterparties": [
-      "Conquistadors"
+      "DMV Fantasy"
     ],
-    "players_received": [],
-    "players_sent": [],
-    "picks_received": [
-      "2026 Round 1 (original roster 12)"
+    "players_received": [
+      "Trey McBride"
     ],
+    "players_sent": [
+      "George Kittle",
+      "Brenton Strange"
+    ],
+    "picks_received": [],
     "picks_sent": [
-      "2026 Round 5 (original roster 1)"
+      "2026 Round 1 (original roster 1)",
+      "2028 Round 1 (original roster 9)"
     ],
-    "summary": "On July 18, Big Balder Brand traded with Conquistadors and acquired 2026 Round 1 (original roster 12) while sending 2026 Round 5 (original roster 1). The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+    "summary": "On July 15, Big Balder Brand traded with DMV Fantasy and acquired Trey McBride while sending George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9). Trey McBride is now the current TE starter at 99.5 C-AVI and 92.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
     "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 2.07-point projected gap to Conquistadors.",
@@ -87,7 +91,7 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 18, Big Balder Brand traded with Conquistadors and acquired 2026 Round 1 (original roster 12) while sending 2026 Round 5 (original roster 1). The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+      "body": "On July 15, Big Balder Brand traded with DMV Fantasy and acquired Trey McBride while sending George Kittle, Brenton Strange, 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9). Trey McBride is now the current TE starter at 99.5 C-AVI and 92.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
     },
     {
       "id": "close-the-gap",
