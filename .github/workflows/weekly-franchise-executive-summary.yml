@@ -1,0 +1,58 @@
+name: Weekly Franchise Executive Summary
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub cron is UTC. Check both UTC hours, then enforce 11:00 America/Denver
+    # in the job so daylight-saving changes do not move the local run time.
+    - cron: "0 17 * * 3"
+    - cron: "0 18 * * 3"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-big-balder-summary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Enforce Wednesday 11 AM Mountain Time
+        id: local_time
+        shell: bash
+        run: |
+          python - <<'PY'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          import os
+
+          now = datetime.now(ZoneInfo("America/Denver"))
+          allowed = now.weekday() == 2 and now.hour == 11
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
+              handle.write(f"allowed={'true' if allowed else 'false'}\n")
+          print(f"Mountain time: {now.isoformat()} | allowed={allowed}")
+          PY
+
+      - name: Generate Big Balder Brand summary
+        if: github.event_name == 'workflow_dispatch' || steps.local_time.outputs.allowed == 'true'
+        run: python scripts/generate_weekly_executive_summary.py
+
+      - name: Commit refreshed summary
+        if: github.event_name == 'workflow_dispatch' || steps.local_time.outputs.allowed == 'true'
+        shell: bash
+        run: |
+          if git diff --quiet -- data/reports/weekly_executive_summaries/big-balder-brand.json; then
+            echo "No summary changes to commit."
+            exit 0
+          fi
+          git config user.name "AVI-Automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/reports/weekly_executive_summaries/big-balder-brand.json
+          git commit -m "Refresh Big Balder weekly executive summary"
+          git push
