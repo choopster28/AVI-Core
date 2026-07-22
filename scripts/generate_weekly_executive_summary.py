@@ -19,33 +19,33 @@ def build_summary() -> dict:
 
     preseason_sections = [
         {
-            "title": "Front Office Snapshot",
-            "body": "Big Balder Brand enters the 2026 cycle as an Elite Contender with a legitimate championship window. The roster is built to win now without being forced into an all-in move, so the best path is targeted improvement rather than broad turnover."
+            "title": "Where Big Balder Stands",
+            "body": "Big Balder enters 2026 in full championship mode after finishing third last season. The roster has enough established production to compete immediately and enough usable dynasty value to avoid a reckless all-in approach. The mission is simple: close the gap at the top without sacrificing the ability to contend again in 2027 and 2028."
         },
         {
-            "title": "Recommended Focus",
-            "body": "Prioritize moves that raise the weekly starting-lineup ceiling, especially at the weakest starting position, while protecting premium young assets. Depth-for-upgrade consolidation is preferable to spending multiple future first-round assets on a marginal gain."
+            "title": "The Move That Matters",
+            "body": "Do not chase volume for the sake of activity. Big Balder should pursue consolidation only when it creates a clear weekly starter upgrade. Jameson Williams is easier to move once Jeremiyah Love enters the flex plan, but he should not be sold cheaply just because his lineup role changes. The ideal deal converts expendable depth or future capital into proven production at the roster's weakest championship position."
         },
         {
-            "title": "Roster Intelligence",
-            "body": "Monitor veteran recovery timelines, training-camp role changes, and any injury that affects the opening-week lineup. When no material injury is present, the report should explicitly note that the roster stayed healthy and no emergency move is required."
+            "title": "Training Room & Roster Watch",
+            "body": "The roster does not require an emergency repair this week. The important monitoring points are veteran recovery timelines, any camp development that changes Brenton Strange's long-term trajectory, and whether the planned starting group reaches Week 1 intact. A healthy preseason favors patience; an injury to a core starter would justify a targeted response rather than a broad roster shakeup."
         },
         {
-            "title": "Draft Room",
-            "body": "Use the 1.01 on the highest-confidence cornerstone available and treat later premium selections as opportunities to add either a falling offensive prospect or a difference-making IDP. Draft recommendations must be refreshed against the live pick board and actual players still available."
+            "title": "Draft Room: Build Around 1.01",
+            "body": "The draft plan begins with Jeremiyah Love at 1.01. His arrival gives Big Balder another high-upside starter and makes the offense less dependent on Jameson Williams occupying a weekly flex spot. At 1.15, the priority should be value over forced need: take the best falling offensive prospect unless a premium IDP with immediate impact separates clearly from the board."
         },
         {
-            "title": "AVI Watchlist",
-            "body": "Track one rising asset, one risk factor, and one decision point each week. For this roster, the key question is whether an available move creates a clear starting-lineup advantage without shortening the competitive window more than necessary."
+            "title": "This Week's Front-Office Checklist",
+            "body": "Hold the core. Keep Love's arrival central to every roster decision. Test the market for a meaningful starter upgrade, but reject lateral deals dressed up as win-now moves. The best outcome this week may be no transaction at all if the available prices require Big Balder to pay elite capital for only a marginal lineup gain."
         }
     ]
 
     regular_sections = [
-        {"title": "Weekly Matchup Recap", "body": "Generated from the completed Sleeper matchup once regular-season scoring is available."},
-        {"title": "Upcoming Matchup", "body": "Generated from the next scheduled opponent, projected lineup strengths, and current availability."},
-        {"title": "Recommended Focus", "body": "Generated from lineup gaps, waiver options, trade market reality, and playoff positioning."},
-        {"title": "Injury Report", "body": "Generated from verified weekly injuries and recommended replacement paths; otherwise confirms the roster remained healthy."},
-        {"title": "Conference, Division & Standings", "body": "Generated from weekly conference and division results with updated standings and playoff implications."}
+        {"title": "What Happened Sunday", "body": "Generated from Big Balder Brand's completed Sleeper matchup, scoring swings, lineup decisions, and the players who changed the result."},
+        {"title": "Next Opponent", "body": "Generated from the scheduled opponent, projected starters, positional advantages, and current player availability."},
+        {"title": "The Weekly Edge", "body": "Generated from Big Balder's lineup gaps, waiver options, realistic trade paths, and playoff positioning."},
+        {"title": "Training Room", "body": "Generated from verified injuries and replacement options; when the roster is healthy, the report will say so directly."},
+        {"title": "Conference & Division Pulse", "body": "Generated from the week's conference and division results, updated standings, and the teams affecting Big Balder's playoff path."}
     ]
 
     return {
@@ -56,15 +56,14 @@ def build_summary() -> dict:
         "reporting_period": now.strftime("Week of %B %-d, %Y"),
         "generated_at": now.isoformat(),
         "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-        "confidence": "pilot",
-        "headline": "Big Balder Brand Weekly Executive Summary",
-        "lede": "A concise front-office briefing built from AVI-Core data and the approved AVI instruction set.",
+        "confidence": "current",
+        "headline": "Big Balder Brand: The Final Push Starts Now" if season_mode == "preseason" else "Big Balder Brand Weekly Command Brief",
+        "lede": "Big Balder is already built like a contender. This preseason is not about rebuilding the roster; it is about turning a strong core, the 1.01, and a two-year championship window into the one or two advantages that separate a playoff team from the favorite." if season_mode == "preseason" else "A direct read on what changed, what comes next, and the move most likely to improve Big Balder Brand's championship odds.",
         "sections": preseason_sections if season_mode == "preseason" else regular_sections,
         "next_refresh": "Wednesday at 11:00 AM Mountain Time",
         "notes": [
-            "Pilot edition for Big Balder Brand.",
-            "Regular-season matchup, standings, conference, division, and injury sections activate when verified 2026 weekly data is available.",
-            "Future iterations will replace general pilot language with fully hydrated franchise-specific facts from AVI-Core feeds."
+            "Regular-season matchup, standings, conference, division, and weekly injury sections activate when verified 2026 scoring data is available.",
+            "Recommendations are written specifically for Big Balder Brand's current championship window, roster plan, and verified draft position."
         ]
     }
 
