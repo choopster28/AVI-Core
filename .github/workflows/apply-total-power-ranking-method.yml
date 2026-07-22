@@ -47,17 +47,58 @@ jobs:
               'target = min(100.0, max(pressure["c_avi"] + score_gap, above_floor["c_avi"]))',
               1,
           )
+
+          rank_assignment = '''    ranked = sorted(teams, key=lambda team: (team["projected_score"], team["dynasty_score"], team["team_name"]), reverse=True)
+              for index, team in enumerate(ranked, start=1):
+                  team["projected_rank"] = index
+          '''
+          rank_replacement = '''    ranked = sorted(teams, key=lambda team: (team["projected_score"], team["dynasty_score"], team["team_name"]), reverse=True)
+              for index, team in enumerate(ranked, start=1):
+                  team["projected_rank"] = index
+
+              dynasty_ranked = sorted(teams, key=lambda team: (team["dynasty_score"], team["projected_score"], team["team_name"]), reverse=True)
+              for index, team in enumerate(dynasty_ranked, start=1):
+                  team["dynasty_rank"] = index
+          '''
+          if rank_assignment not in text:
+              raise SystemExit("Ranking assignment block not found")
+          text = text.replace(rank_assignment, rank_replacement, 1)
+
+          projected_power_block = '''        "projected_power": {
+                      "rank": team["projected_rank"],
+                      "league_size": 16,
+                      "score": team["projected_score"],
+                      "team_above": {"name": above["team_name"], "rank": above["projected_rank"], "score": above["projected_score"], "gap": above_gap} if above else None,
+                      "team_below": {"name": below["team_name"], "rank": below["projected_rank"], "score": below["projected_score"], "gap": max(0.0, team["projected_score"] - below["projected_score"])} if below else None,
+                      "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files",
+                  },
+          '''
+          projected_power_replacement = '''        "projected_power": {
+                      "rank": team["projected_rank"],
+                      "league_size": 16,
+                      "score": team["projected_score"],
+                      "team_above": {"name": above["team_name"], "rank": above["projected_rank"], "score": above["projected_score"], "gap": above_gap} if above else None,
+                      "team_below": {"name": below["team_name"], "rank": below["projected_rank"], "score": below["projected_score"], "gap": max(0.0, team["projected_score"] - below["projected_score"])} if below else None,
+                      "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files",
+                  },
+                  "dynasty_power": {
+                      "rank": team["dynasty_rank"],
+                      "league_size": 16,
+                      "score": team["dynasty_score"],
+                      "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files",
+                  },
+          '''
+          if projected_power_block not in text:
+              raise SystemExit("Projected power output block not found")
+          text = text.replace(projected_power_block, projected_power_replacement, 1)
+
           text = text.replace("championship-lineup C-AVI average", "projected-starting-lineup C-AVI total")
           text = text.replace("lineup C-AVI average", "projected-lineup C-AVI total")
-          text = text.replace(
-              '"method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files",',
-              '"method": "Sum of the eight verified projected starters’ C-AVI values from all 16 AVI-Core team files",',
-          )
+          text = text.replace('"schema_version": 4,', '"schema_version": 5,')
           text = text.replace(
               '"projected_power_method": "Verified championship-lineup C-AVI average",',
               '"projected_power_method": "Projected starting-lineup C-AVI total; full-roster D-AVI total",',
           )
-          text = text.replace('"schema_version": 4,', '"schema_version": 5,')
           path.write_text(text, encoding="utf-8")
           PY
 
@@ -77,14 +118,12 @@ jobs:
           for path in files:
               payload = json.loads(path.read_text(encoding="utf-8"))
               power = payload.get("projected_power") or {}
+              dynasty = payload.get("dynasty_power") or {}
               if not isinstance(power.get("score"), (int, float)):
-                  raise SystemExit(f"Missing projected power total in {path.name}")
-              if "average" in json.dumps(payload).lower() and "average age" not in json.dumps(payload).lower():
-                  raise SystemExit(f"Legacy average-based ranking language remains in {path.name}")
+                  raise SystemExit(f"Missing projected C-AVI total in {path.name}")
+              if not isinstance(dynasty.get("score"), (int, float)):
+                  raise SystemExit(f"Missing full-roster D-AVI total in {path.name}")
               c_ranks.append((power["rank"], payload["franchise_name"]))
-              dynasty = payload.get("dynasty_power")
-              if not dynasty or not isinstance(dynasty.get("rank"), int):
-                  raise SystemExit(f"Missing dynasty power ranking in {path.name}")
               d_ranks.append((dynasty["rank"], payload["franchise_name"]))
           if sorted(rank for rank, _ in c_ranks) != list(range(1, 17)):
               raise SystemExit("C-AVI ranks are not a complete 1-16 ordering")
@@ -103,3 +142,5 @@ jobs:
           fi
           git commit -m "Recalculate 2026 C-AVI and D-AVI power rankings"
           git push
+
+# Trigger production recalculation.
