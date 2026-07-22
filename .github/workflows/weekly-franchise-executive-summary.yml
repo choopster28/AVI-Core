@@ -2,6 +2,15 @@ name: Weekly Franchise Executive Summaries
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "knowledge/teams/**"
+      - "knowledge/01*"
+      - "knowledge/**/*draft*pick*"
+      - "scripts/generate_weekly_executive_summary.py"
+      - ".github/workflows/weekly-franchise-executive-summary.yml"
   schedule:
     # GitHub cron is UTC. Run both possible UTC hours, then enforce
     # Wednesday 11:00 AM in America/Denver so DST never shifts local time.
@@ -40,11 +49,11 @@ jobs:
           PY
 
       - name: Generate all 16 franchise summaries
-        if: github.event_name == 'workflow_dispatch' || steps.local_time.outputs.allowed == 'true'
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: python scripts/generate_weekly_executive_summary.py
 
       - name: Commit refreshed summaries
-        if: github.event_name == 'workflow_dispatch' || steps.local_time.outputs.allowed == 'true'
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         shell: bash
         run: |
           if git diff --quiet -- knowledge/franchise_summaries; then
