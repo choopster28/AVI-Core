@@ -27,13 +27,13 @@
     },
     "last_message_id": "1312185568045580288",
     "last_message_time": 1767211927953,
-    "last_picked": 1784670443156,
+    "last_picked": 1784742348792,
     "league_id": "1312185568032997376",
     "metadata": {
       "description": "",
       "name": "Autobots",
       "scoring_type": "idp_1qb",
-      "show_team_names": "0"
+      "show_team_names": "1"
     },
     "season": "2026",
     "season_type": "regular",
