@@ -9,7 +9,9 @@ on:
       - "knowledge/teams/**"
       - "knowledge/01*"
       - "knowledge/**/*draft*pick*"
+      - "knowledge/02_AVI_Historical_Trades.md"
       - "scripts/generate_weekly_executive_summary.py"
+      - "scripts/generate_weekly_executive_summary_filtered.py"
       - ".github/workflows/weekly-franchise-executive-summary.yml"
   schedule:
     # GitHub cron is UTC. Run both possible UTC hours, then enforce
@@ -50,7 +52,7 @@ jobs:
 
       - name: Generate all 16 franchise summaries
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
-        run: python scripts/generate_weekly_executive_summary.py
+        run: python scripts/generate_weekly_executive_summary_filtered.py
 
       - name: Commit refreshed summaries
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
