@@ -1,32 +1,38 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "franchise_id": "mile-high-royal-lions",
   "franchise_name": "Mile High Royal Lions",
   "roster_id": 4,
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:15:16.789522-06:00",
+  "generated_at": "2026-07-22T10:30:14.328020-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
-  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 83.88 championship-lineup C-AVI average, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 671.00 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 3,
     "league_size": 16,
-    "score": 83.88,
+    "score": 671.0,
     "team_above": {
       "name": "Big Balder Brand",
       "rank": 2,
-      "score": 88.39,
-      "gap": 4.510000000000005
+      "score": 707.1,
+      "gap": 36.10000000000002
     },
     "team_below": {
       "name": "SmokyValleyWheatWarriors",
       "rank": 4,
-      "score": 82.8,
-      "gap": 1.0799999999999983
+      "score": 662.4,
+      "gap": 8.600000000000023
     },
-    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+  },
+  "dynasty_power": {
+    "rank": 5,
+    "league_size": 16,
+    "score": 933.0,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
     "transaction_id": "1289441913560141824",
@@ -48,13 +54,13 @@
     "summary": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (Conquistadors), 2027 Round 1 (Big Balder Brand). Marvin Harrison is now the current FLEX starter at 72.8 C-AVI and 79.8 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
-    "Raise the RB slot above J.K. Dobbins's 58.8 C-AVI baseline; a replacement near 94.9 C-AVI would directly attack the 4.51-point projected gap to Big Balder Brand.",
+    "Raise the RB slot above J.K. Dobbins's 58.8 C-AVI baseline; a replacement near 94.9 C-AVI would directly attack the 36.10-point projected gap to Big Balder Brand.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "SmokyValleyWheatWarriors",
     "projected_rank": 4,
-    "projected_score": 82.8,
+    "projected_score": 662.4,
     "latest_trade": {
       "transaction_id": "1288899605622165504",
       "created_at": "2025-10-28T14:02:01.879000+00:00",
@@ -78,7 +84,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #3 of 16 at 83.88 lineup C-AVI. Big Balder Brand is immediately above at 88.39, a gap of 4.51. SmokyValleyWheatWarriors is immediately behind at 82.80."
+      "body": "Projected #3 of 16 at 671.00 lineup C-AVI. Big Balder Brand is immediately above at 707.10, a gap of 36.10. SmokyValleyWheatWarriors is immediately behind at 662.40."
     },
     {
       "id": "competitive-core",
@@ -93,9 +99,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above J.K. Dobbins's 58.8 C-AVI baseline; a replacement near 94.9 C-AVI would directly attack the 4.51-point projected gap to Big Balder Brand. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the RB slot above J.K. Dobbins's 58.8 C-AVI baseline; a replacement near 94.9 C-AVI would directly attack the 36.10-point projected gap to Big Balder Brand. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the RB slot above J.K. Dobbins's 58.8 C-AVI baseline; a replacement near 94.9 C-AVI would directly attack the 4.51-point projected gap to Big Balder Brand.",
+        "Raise the RB slot above J.K. Dobbins's 58.8 C-AVI baseline; a replacement near 94.9 C-AVI would directly attack the 36.10-point projected gap to Big Balder Brand.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },

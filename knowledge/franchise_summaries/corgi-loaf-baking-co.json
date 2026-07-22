@@ -1,32 +1,38 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "franchise_id": "corgi-loaf-baking-co",
   "franchise_name": "Corgi Loaf Baking Co.",
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:15:16.789522-06:00",
+  "generated_at": "2026-07-22T10:30:14.328020-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #6 of 16 with a 80.86 championship-lineup C-AVI average, led by Justin Jefferson, Kyle Pitts, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 646.90 projected-starting-lineup C-AVI total, led by Justin Jefferson, Kyle Pitts, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 6,
+    "rank": 5,
     "league_size": 16,
-    "score": 80.86,
+    "score": 646.9,
     "team_above": {
-      "name": "Lightskin Legends \u270a\ud83c\udffd",
-      "rank": 5,
-      "score": 81.18,
-      "gap": 0.3200000000000074
+      "name": "SmokyValleyWheatWarriors",
+      "rank": 4,
+      "score": 662.4,
+      "gap": 15.5
     },
     "team_below": {
       "name": "Ravens Regime",
-      "rank": 7,
-      "score": 80.09,
-      "gap": 0.769999999999996
+      "rank": 6,
+      "score": 640.7,
+      "gap": 6.199999999999932
     },
-    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+  },
+  "dynasty_power": {
+    "rank": 1,
+    "league_size": 16,
+    "score": 1047.9,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
     "transaction_id": "1380817964328034304",
@@ -46,13 +52,13 @@
     "summary": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (Rapid Valley Annihilation) while sending 2027 Round 1 (Corgi Loaf Baking Co.), 2028 Round 1 (Corgi Loaf Baking Co.). The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jakobi Meyers's 65.6 C-AVI baseline; a replacement near 68.2 C-AVI would directly attack the 0.32-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
+    "Raise the FLEX slot above Jakobi Meyers's 65.6 C-AVI baseline; a replacement near 81.1 C-AVI would directly attack the 15.50-point projected gap to SmokyValleyWheatWarriors.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Ravens Regime",
-    "projected_rank": 7,
-    "projected_score": 80.09,
+    "projected_rank": 6,
+    "projected_score": 640.7,
     "latest_trade": {
       "transaction_id": "1383224827728367616",
       "created_at": "2026-07-15T20:56:47.307000+00:00",
@@ -78,7 +84,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #6 of 16 at 80.86 lineup C-AVI. Lightskin Legends \u270a\ud83c\udffd is immediately above at 81.18, a gap of 0.32. Ravens Regime is immediately behind at 80.09."
+      "body": "Projected #5 of 16 at 646.90 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 662.40, a gap of 15.50. Ravens Regime is immediately behind at 640.70."
     },
     {
       "id": "competitive-core",
@@ -93,9 +99,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jakobi Meyers's 65.6 C-AVI baseline; a replacement near 68.2 C-AVI would directly attack the 0.32-point projected gap to Lightskin Legends \u270a\ud83c\udffd. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Jakobi Meyers's 65.6 C-AVI baseline; a replacement near 81.1 C-AVI would directly attack the 15.50-point projected gap to SmokyValleyWheatWarriors. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Jakobi Meyers's 65.6 C-AVI baseline; a replacement near 68.2 C-AVI would directly attack the 0.32-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
+        "Raise the FLEX slot above Jakobi Meyers's 65.6 C-AVI baseline; a replacement near 81.1 C-AVI would directly attack the 15.50-point projected gap to SmokyValleyWheatWarriors.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },

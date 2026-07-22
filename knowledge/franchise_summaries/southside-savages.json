@@ -1,32 +1,38 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "franchise_id": "southside-savages",
   "franchise_name": "Southside Savages",
   "roster_id": 13,
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:15:16.789522-06:00",
+  "generated_at": "2026-07-22T10:30:14.328020-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
-  "executive_summary": "Southside Savages is projected #9 of 16 with a 78.22 championship-lineup C-AVI average, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
+  "executive_summary": "Southside Savages is projected #8 of 16 with a 625.80 projected-starting-lineup C-AVI total, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
   "projected_power": {
-    "rank": 9,
+    "rank": 8,
     "league_size": 16,
-    "score": 78.22,
+    "score": 625.8,
     "team_above": {
       "name": "All Hail King Jesus",
-      "rank": 8,
-      "score": 78.25,
-      "gap": 0.030000000000001137
+      "rank": 7,
+      "score": 626.0,
+      "gap": 0.20000000000004547
     },
     "team_below": {
       "name": "Badland Banditos",
-      "rank": 10,
-      "score": 77.33,
-      "gap": 0.8900000000000006
+      "rank": 9,
+      "score": 618.6,
+      "gap": 7.199999999999932
     },
-    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+  },
+  "dynasty_power": {
+    "rank": 9,
+    "league_size": 16,
+    "score": 791.0,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
     "transaction_id": "1283906516683853824",
@@ -46,13 +52,13 @@
     "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Colby Parkinson's 45.3 C-AVI baseline; a replacement near 51.6 C-AVI would directly attack the 0.03-point projected gap to All Hail King Jesus.",
+    "Raise the TE slot above Colby Parkinson's 45.3 C-AVI baseline; a replacement near 51.6 C-AVI would directly attack the 0.20-point projected gap to All Hail King Jesus.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Badland Banditos",
-    "projected_rank": 10,
-    "projected_score": 77.33,
+    "projected_rank": 9,
+    "projected_score": 618.6,
     "latest_trade": {
       "transaction_id": "1375593798167461888",
       "created_at": "2026-06-24T19:33:48.082000+00:00",
@@ -80,7 +86,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #9 of 16 at 78.22 lineup C-AVI. All Hail King Jesus is immediately above at 78.25, a gap of 0.03. Badland Banditos is immediately behind at 77.33."
+      "body": "Projected #8 of 16 at 625.80 lineup C-AVI. All Hail King Jesus is immediately above at 626.00, a gap of 0.20. Badland Banditos is immediately behind at 618.60."
     },
     {
       "id": "competitive-core",
@@ -95,9 +101,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Colby Parkinson's 45.3 C-AVI baseline; a replacement near 51.6 C-AVI would directly attack the 0.03-point projected gap to All Hail King Jesus. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the TE slot above Colby Parkinson's 45.3 C-AVI baseline; a replacement near 51.6 C-AVI would directly attack the 0.20-point projected gap to All Hail King Jesus. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the TE slot above Colby Parkinson's 45.3 C-AVI baseline; a replacement near 51.6 C-AVI would directly attack the 0.03-point projected gap to All Hail King Jesus.",
+        "Raise the TE slot above Colby Parkinson's 45.3 C-AVI baseline; a replacement near 51.6 C-AVI would directly attack the 0.20-point projected gap to All Hail King Jesus.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },

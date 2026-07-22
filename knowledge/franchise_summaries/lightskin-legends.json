@@ -1,32 +1,33 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "franchise_id": "lightskin-legends",
   "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:15:16.789522-06:00",
+  "generated_at": "2026-07-22T10:30:14.328020-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
-  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #5 of 16 with a 81.18 championship-lineup C-AVI average, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
+  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #16 of 16 with a 487.10 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
-    "rank": 5,
+    "rank": 16,
     "league_size": 16,
-    "score": 81.18,
+    "score": 487.1,
     "team_above": {
-      "name": "SmokyValleyWheatWarriors",
-      "rank": 4,
-      "score": 82.8,
-      "gap": 1.6199999999999903
+      "name": "Northside Kings",
+      "rank": 15,
+      "score": 491.5,
+      "gap": 4.399999999999977
     },
-    "team_below": {
-      "name": "Corgi Loaf Baking Co.",
-      "rank": 6,
-      "score": 80.86,
-      "gap": 0.3200000000000074
-    },
-    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+    "team_below": null,
+    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+  },
+  "dynasty_power": {
+    "rank": 16,
+    "league_size": 16,
+    "score": 565.8,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
     "transaction_id": "1288899605622165504",
@@ -46,37 +47,15 @@
     "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
-    "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 77.8 C-AVI would directly attack the 1.62-point projected gap to SmokyValleyWheatWarriors.",
+    "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.2 C-AVI would directly attack the 4.40-point projected gap to Northside Kings.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
-  "rival_below": {
-    "franchise_name": "Corgi Loaf Baking Co.",
-    "projected_rank": 6,
-    "projected_score": 80.86,
-    "latest_trade": {
-      "transaction_id": "1380817964328034304",
-      "created_at": "2026-07-09T05:32:46.354000+00:00",
-      "counterparties": [
-        "Rapid Valley Annihilation"
-      ],
-      "players_received": [],
-      "players_sent": [],
-      "picks_received": [
-        "2026 Round 1 (Rapid Valley Annihilation)"
-      ],
-      "picks_sent": [
-        "2027 Round 1 (Corgi Loaf Baking Co.)",
-        "2028 Round 1 (Corgi Loaf Baking Co.)"
-      ],
-      "summary": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (Rapid Valley Annihilation) while sending 2027 Round 1 (Corgi Loaf Baking Co.), 2028 Round 1 (Corgi Loaf Baking Co.). The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
-    },
-    "summary": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (Rapid Valley Annihilation) while sending 2027 Round 1 (Corgi Loaf Baking Co.), 2028 Round 1 (Corgi Loaf Baking Co.). The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
-  },
+  "rival_below": null,
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #5 of 16 at 81.18 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 82.80, a gap of 1.62. Corgi Loaf Baking Co. is immediately behind at 80.86."
+      "body": "Projected #16 of 16 at 487.10 lineup C-AVI. Northside Kings is immediately above at 491.50, a gap of 4.40."
     },
     {
       "id": "competitive-core",
@@ -91,16 +70,16 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 77.8 C-AVI would directly attack the 1.62-point projected gap to SmokyValleyWheatWarriors. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.2 C-AVI would directly attack the 4.40-point projected gap to Northside Kings. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 77.8 C-AVI would directly attack the 1.62-point projected gap to SmokyValleyWheatWarriors.",
+        "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.2 C-AVI would directly attack the 4.40-point projected gap to Northside Kings.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 8, Corgi Loaf Baking Co. traded with Rapid Valley Annihilation and acquired 2026 Round 1 (Rapid Valley Annihilation) while sending 2027 Round 1 (Corgi Loaf Baking Co.), 2028 Round 1 (Corgi Loaf Baking Co.). The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+      "body": "This franchise is currently projected last, so there is no team immediately beneath it."
     },
     {
       "id": "lineup-pressure-point",

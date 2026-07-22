@@ -1,27 +1,38 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "franchise_id": "northside-kings",
   "franchise_name": "Northside Kings",
   "roster_id": 5,
   "owner_display_name": "srsmith95",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:15:16.789522-06:00",
+  "generated_at": "2026-07-22T10:30:14.328020-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Northside Kings: Preseason Front Office Brief",
-  "executive_summary": "Northside Kings is projected #16 of 16 with a 61.44 championship-lineup C-AVI average, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Northside Kings is projected #15 of 16 with a 491.50 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 16,
+    "rank": 15,
     "league_size": 16,
-    "score": 61.44,
+    "score": 491.5,
     "team_above": {
       "name": "Crimson Tide Pods",
-      "rank": 15,
-      "score": 65.45,
-      "gap": 4.010000000000005
+      "rank": 14,
+      "score": 523.6,
+      "gap": 32.10000000000002
     },
-    "team_below": null,
-    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+    "team_below": {
+      "name": "Lightskin Legends \u270a\ud83c\udffd",
+      "rank": 16,
+      "score": 487.1,
+      "gap": 4.399999999999977
+    },
+    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+  },
+  "dynasty_power": {
+    "rank": 4,
+    "league_size": 16,
+    "score": 952.8,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
     "transaction_id": "1383224827728367616",
@@ -43,15 +54,37 @@
     "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the current RB starter at 72.9 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Raise the QB slot above Jordan Love's 52.4 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 4.01-point projected gap to Crimson Tide Pods.",
+    "Raise the QB slot above Jordan Love's 52.4 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 32.10-point projected gap to Crimson Tide Pods.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
-  "rival_below": null,
+  "rival_below": {
+    "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
+    "projected_rank": 16,
+    "projected_score": 487.1,
+    "latest_trade": {
+      "transaction_id": "1288899605622165504",
+      "created_at": "2025-10-28T14:02:01.879000+00:00",
+      "counterparties": [
+        "Murray had a little Lamb"
+      ],
+      "players_received": [
+        "Kayshon Boutte"
+      ],
+      "players_sent": [],
+      "picks_received": [],
+      "picks_sent": [
+        "2026 Round 3 (Conquistadors)",
+        "2027 Round 2 (Conquistadors)"
+      ],
+      "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
+    },
+    "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
+  },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #16 of 16 at 61.44 lineup C-AVI. Crimson Tide Pods is immediately above at 65.45, a gap of 4.01."
+      "body": "Projected #15 of 16 at 491.50 lineup C-AVI. Crimson Tide Pods is immediately above at 523.60, a gap of 32.10. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 487.10."
     },
     {
       "id": "competitive-core",
@@ -66,16 +99,16 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above Jordan Love's 52.4 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 4.01-point projected gap to Crimson Tide Pods. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the QB slot above Jordan Love's 52.4 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 32.10-point projected gap to Crimson Tide Pods. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the QB slot above Jordan Love's 52.4 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 4.01-point projected gap to Crimson Tide Pods.",
+        "Raise the QB slot above Jordan Love's 52.4 C-AVI baseline; a replacement near 84.5 C-AVI would directly attack the 32.10-point projected gap to Crimson Tide Pods.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "This franchise is currently projected last, so there is no team immediately beneath it."
+      "body": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
     },
     {
       "id": "lineup-pressure-point",

@@ -1,32 +1,38 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "franchise_id": "crimson-tide-pods",
   "franchise_name": "Crimson Tide Pods",
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:15:16.789522-06:00",
+  "generated_at": "2026-07-22T10:30:14.328020-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #15 of 16 with a 65.45 championship-lineup C-AVI average, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 523.60 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 15,
+    "rank": 14,
     "league_size": 16,
-    "score": 65.45,
+    "score": 523.6,
     "team_above": {
       "name": "Rapid Valley Annihilation",
-      "rank": 14,
-      "score": 68.16,
-      "gap": 2.7099999999999937
+      "rank": 13,
+      "score": 545.3,
+      "gap": 21.699999999999932
     },
     "team_below": {
       "name": "Northside Kings",
-      "rank": 16,
-      "score": 61.44,
-      "gap": 4.010000000000005
+      "rank": 15,
+      "score": 491.5,
+      "gap": 32.10000000000002
     },
-    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+  },
+  "dynasty_power": {
+    "rank": 13,
+    "league_size": 16,
+    "score": 732.1,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
     "transaction_id": "1377688089559846912",
@@ -50,13 +56,13 @@
     "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jerry Jeudy's 49.1 C-AVI baseline; a replacement near 70.8 C-AVI would directly attack the 2.71-point projected gap to Rapid Valley Annihilation.",
+    "Raise the FLEX slot above Jerry Jeudy's 49.1 C-AVI baseline; a replacement near 70.8 C-AVI would directly attack the 21.70-point projected gap to Rapid Valley Annihilation.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Northside Kings",
-    "projected_rank": 16,
-    "projected_score": 61.44,
+    "projected_rank": 15,
+    "projected_score": 491.5,
     "latest_trade": {
       "transaction_id": "1383224827728367616",
       "created_at": "2026-07-15T20:56:47.307000+00:00",
@@ -82,7 +88,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #15 of 16 at 65.45 lineup C-AVI. Rapid Valley Annihilation is immediately above at 68.16, a gap of 2.71. Northside Kings is immediately behind at 61.44."
+      "body": "Projected #14 of 16 at 523.60 lineup C-AVI. Rapid Valley Annihilation is immediately above at 545.30, a gap of 21.70. Northside Kings is immediately behind at 491.50."
     },
     {
       "id": "competitive-core",
@@ -97,9 +103,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jerry Jeudy's 49.1 C-AVI baseline; a replacement near 70.8 C-AVI would directly attack the 2.71-point projected gap to Rapid Valley Annihilation. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Jerry Jeudy's 49.1 C-AVI baseline; a replacement near 70.8 C-AVI would directly attack the 21.70-point projected gap to Rapid Valley Annihilation. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Jerry Jeudy's 49.1 C-AVI baseline; a replacement near 70.8 C-AVI would directly attack the 2.71-point projected gap to Rapid Valley Annihilation.",
+        "Raise the FLEX slot above Jerry Jeudy's 49.1 C-AVI baseline; a replacement near 70.8 C-AVI would directly attack the 21.70-point projected gap to Rapid Valley Annihilation.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },

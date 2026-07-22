@@ -216,8 +216,11 @@ def parse_team(path: Path) -> dict:
 
     roster_id = int(identity["Roster ID"])
     draft_assets, draft_sources = extract_draft_assets(identity["Team name"], identity.get("Owner display name"), roster_id)
-    lineup_avg = number(scores.get("championship_lineup_c_avi_avg"))
-    roster_d_avg = number(scores.get("offensive_roster_d_avi_avg"))
+    lineup_total = round(sum(item["c_avi"] for item in lineup), 2)
+    roster_d_total = round(sum(
+        number(player.get("Dynasty AVI (D-AVI, 0-100)"))
+        for player in players
+    ), 2)
     return {
         "source_file": str(path.relative_to(ROOT)),
         "team_name": identity["Team name"],
@@ -230,8 +233,8 @@ def parse_team(path: Path) -> dict:
         "players": players,
         "draft_assets": draft_assets,
         "draft_sources": draft_sources,
-        "projected_score": lineup_avg,
-        "dynasty_score": roster_d_avg,
+        "projected_score": lineup_total,
+        "dynasty_score": roster_d_total,
     }
 
 
@@ -307,7 +310,7 @@ def gap_actions(team: dict, above: dict | None) -> list[str]:
     if above:
         score_gap = max(0.0, above["projected_score"] - team["projected_score"])
         above_floor = weak_point(above)
-        target = max(pressure["c_avi"] + score_gap * 8, above_floor["c_avi"])
+        target = min(100.0, max(pressure["c_avi"] + score_gap, above_floor["c_avi"]))
         actions.append(
             f"Raise the {pressure['slot']} slot above {pressure['player']}'s {pressure['c_avi']:.1f} C-AVI baseline; a replacement near {target:.1f} C-AVI would directly attack the {score_gap:.2f}-point projected gap to {above['team_name']}."
         )
@@ -374,7 +377,7 @@ def build_summary(team: dict, above: dict | None, below: dict | None, ledger: li
         ])
 
     return {
-        "schema_version": 4,
+        "schema_version": 5,
         "franchise_id": slugify(team["team_name"]),
         "franchise_name": team["team_name"],
         "roster_id": team["roster_id"],
@@ -384,14 +387,20 @@ def build_summary(team: dict, above: dict | None, below: dict | None, ledger: li
         "generated_at": now.isoformat(),
         "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
         "headline": f"{team['team_name']}: {'Preseason' if phase == 'preseason' else 'Weekly'} Front Office Brief",
-        "executive_summary": f"{team['team_name']} is projected #{team['projected_rank']} of 16 with a {team['projected_score']:.2f} championship-lineup C-AVI average, led by {anchors[0]['player']}, {anchors[1]['player']}, and {anchors[2]['player']}. The immediate priority is improving the {pressure['slot']} slot without weakening that core.",
+        "executive_summary": f"{team['team_name']} is projected #{team['projected_rank']} of 16 with a {team['projected_score']:.2f} projected-starting-lineup C-AVI total, led by {anchors[0]['player']}, {anchors[1]['player']}, and {anchors[2]['player']}. The immediate priority is improving the {pressure['slot']} slot without weakening that core.",
         "projected_power": {
             "rank": team["projected_rank"],
             "league_size": 16,
             "score": team["projected_score"],
             "team_above": {"name": above["team_name"], "rank": above["projected_rank"], "score": above["projected_score"], "gap": above_gap} if above else None,
             "team_below": {"name": below["team_name"], "rank": below["projected_rank"], "score": below["projected_score"], "gap": max(0.0, team["projected_score"] - below["projected_score"])} if below else None,
-            "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files",
+            "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files",
+        },
+        "dynasty_power": {
+            "rank": team["dynasty_rank"],
+            "league_size": 16,
+            "score": team["dynasty_score"],
+            "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files",
         },
         "latest_trade": own_trade,
         "gap_closing_moves": actions,
@@ -420,6 +429,10 @@ def main() -> None:
     for index, team in enumerate(ranked, start=1):
         team["projected_rank"] = index
 
+    dynasty_ranked = sorted(teams, key=lambda team: (team["dynasty_score"], team["projected_score"], team["team_name"]), reverse=True)
+    for index, team in enumerate(dynasty_ranked, start=1):
+        team["dynasty_rank"] = index
+
     written: list[str] = []
     for index, team in enumerate(ranked):
         above = ranked[index - 1] if index > 0 else None
@@ -435,7 +448,7 @@ def main() -> None:
         "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
         "source_policy": "AVI-Core/knowledge only",
         "franchise_count": len(written),
-        "projected_power_method": "Verified championship-lineup C-AVI average",
+        "projected_power_method": "Verified projected-starting-lineup C-AVI total",
         "files": sorted(written),
     }
     (OUTPUT / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")

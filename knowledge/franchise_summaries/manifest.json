@@ -1,10 +1,10 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-07-22T10:15:16.789522-06:00",
+  "generated_at": "2026-07-22T10:30:14.328020-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "source_policy": "AVI-Core/knowledge only",
   "franchise_count": 16,
-  "projected_power_method": "Verified championship-lineup C-AVI average",
+  "projected_power_method": "Verified projected-starting-lineup C-AVI total",
   "files": [
     "all-hail-king-jesus.json",
     "badland-banditos.json",

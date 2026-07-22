@@ -1,32 +1,38 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "franchise_id": "big-balder-brand",
   "franchise_name": "Big Balder Brand",
   "roster_id": 9,
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:15:16.789522-06:00",
+  "generated_at": "2026-07-22T10:30:14.328020-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
-  "executive_summary": "Big Balder Brand is projected #2 of 16 with a 88.39 championship-lineup C-AVI average, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Big Balder Brand is projected #2 of 16 with a 707.10 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 2,
     "league_size": 16,
-    "score": 88.39,
+    "score": 707.1,
     "team_above": {
       "name": "Conquistadors",
       "rank": 1,
-      "score": 90.46,
-      "gap": 2.069999999999993
+      "score": 723.7,
+      "gap": 16.600000000000023
     },
     "team_below": {
       "name": "Mile High Royal Lions",
       "rank": 3,
-      "score": 83.88,
-      "gap": 4.510000000000005
+      "score": 671.0,
+      "gap": 36.10000000000002
     },
-    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+  },
+  "dynasty_power": {
+    "rank": 2,
+    "league_size": 16,
+    "score": 996.4,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
     "transaction_id": "1383186342132842496",
@@ -49,13 +55,13 @@
     "summary": "On July 15, Big Balder Brand traded with DMV Fantasy and acquired Trey McBride while sending George Kittle, Brenton Strange, 2026 Round 1 (Conquistadors), 2028 Round 1 (Big Balder Brand). Trey McBride is now the current TE starter at 99.5 C-AVI and 92.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 2.07-point projected gap to Conquistadors.",
+    "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 16.60-point projected gap to Conquistadors.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Mile High Royal Lions",
     "projected_rank": 3,
-    "projected_score": 83.88,
+    "projected_score": 671.0,
     "latest_trade": {
       "transaction_id": "1289441913560141824",
       "created_at": "2025-10-30T01:56:58.167000+00:00",
@@ -81,7 +87,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #2 of 16 at 88.39 lineup C-AVI. Conquistadors is immediately above at 90.46, a gap of 2.07. Mile High Royal Lions is immediately behind at 83.88."
+      "body": "Projected #2 of 16 at 707.10 lineup C-AVI. Conquistadors is immediately above at 723.70, a gap of 16.60. Mile High Royal Lions is immediately behind at 671.00."
     },
     {
       "id": "competitive-core",
@@ -96,9 +102,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 2.07-point projected gap to Conquistadors. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 16.60-point projected gap to Conquistadors. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 2.07-point projected gap to Conquistadors.",
+        "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 16.60-point projected gap to Conquistadors.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },

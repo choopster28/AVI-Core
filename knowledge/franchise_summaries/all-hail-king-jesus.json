@@ -1,32 +1,38 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "franchise_id": "all-hail-king-jesus",
   "franchise_name": "All Hail King Jesus",
   "roster_id": 8,
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:15:16.789522-06:00",
+  "generated_at": "2026-07-22T10:30:14.328020-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
-  "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 78.25 championship-lineup C-AVI average, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "All Hail King Jesus is projected #7 of 16 with a 626.00 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 8,
+    "rank": 7,
     "league_size": 16,
-    "score": 78.25,
+    "score": 626.0,
     "team_above": {
       "name": "Ravens Regime",
-      "rank": 7,
-      "score": 80.09,
-      "gap": 1.8400000000000034
+      "rank": 6,
+      "score": 640.7,
+      "gap": 14.700000000000045
     },
     "team_below": {
       "name": "Southside Savages",
-      "rank": 9,
-      "score": 78.22,
-      "gap": 0.030000000000001137
+      "rank": 8,
+      "score": 625.8,
+      "gap": 0.20000000000004547
     },
-    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+  },
+  "dynasty_power": {
+    "rank": 15,
+    "league_size": 16,
+    "score": 715.2,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
     "transaction_id": "1382466797541818368",
@@ -47,13 +53,13 @@
     "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Zach Charbonnet's 51.6 C-AVI baseline; a replacement near 66.3 C-AVI would directly attack the 1.84-point projected gap to Ravens Regime.",
+    "Raise the RB slot above Zach Charbonnet's 51.6 C-AVI baseline; a replacement near 66.3 C-AVI would directly attack the 14.70-point projected gap to Ravens Regime.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Southside Savages",
-    "projected_rank": 9,
-    "projected_score": 78.22,
+    "projected_rank": 8,
+    "projected_score": 625.8,
     "latest_trade": {
       "transaction_id": "1283906516683853824",
       "created_at": "2025-10-14T19:21:16.708000+00:00",
@@ -77,7 +83,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #8 of 16 at 78.25 lineup C-AVI. Ravens Regime is immediately above at 80.09, a gap of 1.84. Southside Savages is immediately behind at 78.22."
+      "body": "Projected #7 of 16 at 626.00 lineup C-AVI. Ravens Regime is immediately above at 640.70, a gap of 14.70. Southside Savages is immediately behind at 625.80."
     },
     {
       "id": "competitive-core",
@@ -92,9 +98,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Zach Charbonnet's 51.6 C-AVI baseline; a replacement near 66.3 C-AVI would directly attack the 1.84-point projected gap to Ravens Regime. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the RB slot above Zach Charbonnet's 51.6 C-AVI baseline; a replacement near 66.3 C-AVI would directly attack the 14.70-point projected gap to Ravens Regime. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the RB slot above Zach Charbonnet's 51.6 C-AVI baseline; a replacement near 66.3 C-AVI would directly attack the 1.84-point projected gap to Ravens Regime.",
+        "Raise the RB slot above Zach Charbonnet's 51.6 C-AVI baseline; a replacement near 66.3 C-AVI would directly attack the 14.70-point projected gap to Ravens Regime.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },

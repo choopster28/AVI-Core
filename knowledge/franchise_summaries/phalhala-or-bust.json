@@ -1,32 +1,38 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "franchise_id": "phalhala-or-bust",
   "franchise_name": "Phalhala or Bust",
   "roster_id": 14,
   "owner_display_name": "PIFYAF",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:15:16.789522-06:00",
+  "generated_at": "2026-07-22T10:30:14.328020-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Phalhala or Bust: Preseason Front Office Brief",
-  "executive_summary": "Phalhala or Bust is projected #13 of 16 with a 69.36 championship-lineup C-AVI average, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Phalhala or Bust is projected #12 of 16 with a 554.90 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 13,
+    "rank": 12,
     "league_size": 16,
-    "score": 69.36,
+    "score": 554.9,
     "team_above": {
       "name": "Gringo\u2019s Goblins",
-      "rank": 12,
-      "score": 70.6,
-      "gap": 1.2399999999999949
+      "rank": 11,
+      "score": 564.8,
+      "gap": 9.899999999999977
     },
     "team_below": {
       "name": "Rapid Valley Annihilation",
-      "rank": 14,
-      "score": 68.16,
-      "gap": 1.2000000000000028
+      "rank": 13,
+      "score": 545.3,
+      "gap": 9.600000000000023
     },
-    "method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files"
+    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+  },
+  "dynasty_power": {
+    "rank": 12,
+    "league_size": 16,
+    "score": 735.7,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
     "transaction_id": "1356901536596242432",
@@ -48,13 +54,13 @@
     "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.6 C-AVI and 74.8 D-AVI; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the QB slot above C.J. Stroud's 49.2 C-AVI baseline; a replacement near 59.1 C-AVI would directly attack the 1.24-point projected gap to Gringo\u2019s Goblins.",
+    "Raise the QB slot above C.J. Stroud's 49.2 C-AVI baseline; a replacement near 59.1 C-AVI would directly attack the 9.90-point projected gap to Gringo\u2019s Goblins.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Rapid Valley Annihilation",
-    "projected_rank": 14,
-    "projected_score": 68.16,
+    "projected_rank": 13,
+    "projected_score": 545.3,
     "latest_trade": {
       "transaction_id": "1380817964328034304",
       "created_at": "2026-07-09T05:32:46.354000+00:00",
@@ -78,7 +84,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #13 of 16 at 69.36 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 70.60, a gap of 1.24. Rapid Valley Annihilation is immediately behind at 68.16."
+      "body": "Projected #12 of 16 at 554.90 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 564.80, a gap of 9.90. Rapid Valley Annihilation is immediately behind at 545.30."
     },
     {
       "id": "competitive-core",
@@ -93,9 +99,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above C.J. Stroud's 49.2 C-AVI baseline; a replacement near 59.1 C-AVI would directly attack the 1.24-point projected gap to Gringo\u2019s Goblins. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the QB slot above C.J. Stroud's 49.2 C-AVI baseline; a replacement near 59.1 C-AVI would directly attack the 9.90-point projected gap to Gringo\u2019s Goblins. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the QB slot above C.J. Stroud's 49.2 C-AVI baseline; a replacement near 59.1 C-AVI would directly attack the 1.24-point projected gap to Gringo\u2019s Goblins.",
+        "Raise the QB slot above C.J. Stroud's 49.2 C-AVI baseline; a replacement near 59.1 C-AVI would directly attack the 9.90-point projected gap to Gringo\u2019s Goblins.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
