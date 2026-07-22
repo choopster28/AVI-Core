@@ -6,7 +6,7 @@
   "owner_display_name": "PIFYAF",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:04:33.103054-06:00",
+  "generated_at": "2026-07-22T10:13:02.169367-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Phalhala or Bust: Preseason Front Office Brief",
   "executive_summary": "Phalhala or Bust is projected #13 of 16 with a 69.36 championship-lineup C-AVI average, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
@@ -41,11 +41,11 @@
       "Romeo Doubs"
     ],
     "picks_received": [
-      "2026 Round 2 (original roster 3)",
-      "2026 Round 4 (original roster 7)"
+      "2026 Round 2 (Ravens Regime)",
+      "2026 Round 4 (Badland Banditos)"
     ],
     "picks_sent": [],
-    "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (original roster 3), 2026 Round 4 (original roster 7) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.6 C-AVI and 74.8 D-AVI; The deal added 2 draft assets."
+    "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.6 C-AVI and 74.8 D-AVI; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
     "Raise the QB slot above C.J. Stroud's 49.2 C-AVI baseline; a replacement near 59.1 C-AVI would directly attack the 1.24-point projected gap to Gringo\u2019s Goblins.",
@@ -64,15 +64,15 @@
       "players_received": [],
       "players_sent": [],
       "picks_received": [
-        "2027 Round 1 (original roster 11)",
-        "2028 Round 1 (original roster 11)"
+        "2027 Round 1 (Corgi Loaf Baking Co.)",
+        "2028 Round 1 (Corgi Loaf Baking Co.)"
       ],
       "picks_sent": [
-        "2026 Round 1 (original roster 2)"
+        "2026 Round 1 (Rapid Valley Annihilation)"
       ],
-      "summary": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11) while sending 2026 Round 1 (original roster 2). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+      "summary": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (Corgi Loaf Baking Co.), 2028 Round 1 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Rapid Valley Annihilation). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
     },
-    "summary": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11) while sending 2026 Round 1 (original roster 2). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+    "summary": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (Corgi Loaf Baking Co.), 2028 Round 1 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Rapid Valley Annihilation). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
   },
   "sections": [
     {
@@ -88,7 +88,7 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (original roster 3), 2026 Round 4 (original roster 7) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.6 C-AVI and 74.8 D-AVI; The deal added 2 draft assets."
+      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.6 C-AVI and 74.8 D-AVI; The deal added 2 draft assets."
     },
     {
       "id": "close-the-gap",
@@ -102,7 +102,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11) while sending 2026 Round 1 (original roster 2). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+      "body": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (Corgi Loaf Baking Co.), 2028 Round 1 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Rapid Valley Annihilation). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
     },
     {
       "id": "lineup-pressure-point",

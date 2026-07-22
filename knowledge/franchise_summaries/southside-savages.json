@@ -6,7 +6,7 @@
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:04:33.103054-06:00",
+  "generated_at": "2026-07-22T10:13:02.169367-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
   "executive_summary": "Southside Savages is projected #9 of 16 with a 78.22 championship-lineup C-AVI average, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
@@ -40,10 +40,10 @@
     "players_sent": [],
     "picks_received": [],
     "picks_sent": [
-      "2026 Round 1 (original roster 13)",
-      "2026 Round 2 (original roster 13)"
+      "2026 Round 1 (Southside Savages)",
+      "2026 Round 2 (Southside Savages)"
     ],
-    "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (original roster 13), 2026 Round 2 (original roster 13). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+    "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
     "Raise the TE slot above Colby Parkinson's 45.3 C-AVI baseline; a replacement near 51.6 C-AVI would directly attack the 0.03-point projected gap to All Hail King Jesus.",
@@ -66,15 +66,15 @@
         "Chris Rodriguez"
       ],
       "picks_received": [
-        "2027 Round 3 (original roster 16)"
+        "2027 Round 3 (Crimson Tide Pods)"
       ],
       "picks_sent": [
-        "2026 Round 1 (original roster 11)",
-        "2026 Round 1 (original roster 8)"
+        "2026 Round 1 (Corgi Loaf Baking Co.)",
+        "2026 Round 1 (All Hail King Jesus)"
       ],
-      "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (original roster 16) while sending Chris Rodriguez, 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+      "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
     },
-    "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (original roster 16) while sending Chris Rodriguez, 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+    "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
   },
   "sections": [
     {
@@ -90,7 +90,7 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (original roster 13), 2026 Round 2 (original roster 13). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "body": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
     },
     {
       "id": "close-the-gap",
@@ -104,7 +104,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (original roster 16) while sending Chris Rodriguez, 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+      "body": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",

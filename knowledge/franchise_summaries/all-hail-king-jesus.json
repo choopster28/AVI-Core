@@ -6,7 +6,7 @@
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:04:33.103054-06:00",
+  "generated_at": "2026-07-22T10:13:02.169367-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
   "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 78.25 championship-lineup C-AVI average, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
@@ -41,10 +41,10 @@
       "Derrick Henry"
     ],
     "picks_received": [
-      "2026 Round 1 (original roster 13)"
+      "2026 Round 1 (Southside Savages)"
     ],
     "picks_sent": [],
-    "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
+    "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
     "Raise the RB slot above Zach Charbonnet's 51.6 C-AVI baseline; a replacement near 66.3 C-AVI would directly attack the 1.84-point projected gap to Ravens Regime.",
@@ -66,12 +66,12 @@
       "players_sent": [],
       "picks_received": [],
       "picks_sent": [
-        "2026 Round 1 (original roster 13)",
-        "2026 Round 2 (original roster 13)"
+        "2026 Round 1 (Southside Savages)",
+        "2026 Round 2 (Southside Savages)"
       ],
-      "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (original roster 13), 2026 Round 2 (original roster 13). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
     },
-    "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (original roster 13), 2026 Round 2 (original roster 13). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+    "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
   },
   "sections": [
     {
@@ -87,7 +87,7 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (original roster 13) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
+      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.5 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
     },
     {
       "id": "close-the-gap",
@@ -101,7 +101,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (original roster 13), 2026 Round 2 (original roster 13). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "body": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
     },
     {
       "id": "lineup-pressure-point",

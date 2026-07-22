@@ -6,7 +6,7 @@
   "owner_display_name": "nickas",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:04:33.103054-06:00",
+  "generated_at": "2026-07-22T10:13:02.169367-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
   "executive_summary": "Crimson Tide Pods is projected #15 of 16 with a 65.45 championship-lineup C-AVI average, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -43,11 +43,11 @@
       "Mike Evans"
     ],
     "picks_received": [
-      "2027 Round 1 (original roster 10)",
-      "2027 Round 2 (original roster 5)"
+      "2027 Round 1 (SmokyValleyWheatWarriors)",
+      "2027 Round 2 (Northside Kings)"
     ],
     "picks_sent": [],
-    "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (original roster 10), 2027 Round 2 (original roster 5) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
+    "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
     "Raise the FLEX slot above Jerry Jeudy's 49.1 C-AVI baseline; a replacement near 70.8 C-AVI would directly attack the 2.71-point projected gap to Rapid Valley Annihilation.",
@@ -71,12 +71,12 @@
         "Tyler Warren"
       ],
       "picks_received": [
-        "2026 Round 2 (original roster 2)"
+        "2026 Round 2 (Rapid Valley Annihilation)"
       ],
       "picks_sent": [],
-      "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the current RB starter at 72.9 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+      "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the current RB starter at 72.9 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
     },
-    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the current RB starter at 72.9 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the current RB starter at 72.9 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
   },
   "sections": [
     {
@@ -92,7 +92,7 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (original roster 10), 2027 Round 2 (original roster 5) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
+      "body": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
     },
     {
       "id": "close-the-gap",
@@ -106,7 +106,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (original roster 2) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the current RB starter at 72.9 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.2 D-AVI; Bhayshul Tuten is now the current RB starter at 72.9 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
