@@ -13,19 +13,16 @@ OUTPUT = KNOWLEDGE / "franchise_summaries"
 MOUNTAIN = ZoneInfo("America/Denver")
 
 FIELD_RE = re.compile(r"^- ([^:]+):\s*(.*)$")
-LINEUP_RE = re.compile(
-    r"^- (QB|RB|WR|TE|FLEX): (.+?) \| C-AVI: ([0-9.]+) \| D-AVI: ([0-9.]+)$"
-)
+LINEUP_RE = re.compile(r"^- (QB|RB|WR|TE|FLEX): (.+?) \| C-AVI: ([0-9.]+) \| D-AVI: ([0-9.]+)$")
 PLAYER_RE = re.compile(r"^### PLAYER: (.+)$")
-PICK_SIGNAL_RE = re.compile(
-    r"\b(20\d{2})\b.*\b(1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|round|pick|1\.\d{2})\b",
+PICK_RE = re.compile(
+    r"(?=.*\b20\d{2}\b)(?=.*\b(?:1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|round|pick|\d+\.\d{2})\b).+",
     re.IGNORECASE,
 )
 
 
 def slugify(value: str) -> str:
-    value = value.lower().replace("'", "")
-    return re.sub(r"[^a-z0-9]+", "-", value).strip("-")
+    return re.sub(r"[^a-z0-9]+", "-", value.lower().replace("'", "")).strip("-")
 
 
 def section(lines: list[str], heading: str) -> list[str]:
@@ -33,76 +30,67 @@ def section(lines: list[str], heading: str) -> list[str]:
         start = lines.index(heading) + 1
     except ValueError:
         return []
-    out: list[str] = []
+    output: list[str] = []
     for line in lines[start:]:
         if line.startswith("## "):
             break
-        out.append(line)
-    return out
+        output.append(line)
+    return output
 
 
-def parse_fields(lines: list[str]) -> dict[str, str]:
-    fields: dict[str, str] = {}
+def fields(lines: list[str]) -> dict[str, str]:
+    result: dict[str, str] = {}
     for line in lines:
         match = FIELD_RE.match(line)
         if match:
-            fields[match.group(1).strip()] = match.group(2).strip()
-    return fields
+            result[match.group(1).strip()] = match.group(2).strip()
+    return result
 
 
-def draft_knowledge_files() -> list[Path]:
-    files = []
+def clean_pick(line: str) -> str:
+    return re.sub(r"\s+", " ", line.strip().lstrip("-*• ").strip())
+
+
+def approved_support_files() -> list[Path]:
+    result: list[Path] = []
     for path in KNOWLEDGE.rglob("*"):
-        if not path.is_file() or OUTPUT in path.parents or TEAMS in path.parents:
+        if not path.is_file() or TEAMS in path.parents or OUTPUT in path.parents:
             continue
-        normalized = path.name.lower().replace("-", "_")
-        if normalized.startswith("01_") or "draft_pick" in normalized or "draft pick" in normalized:
-            files.append(path)
-    return sorted(set(files))
+        if path.suffix.lower() in {".md", ".txt", ".json"}:
+            result.append(path)
+    return sorted(result)
 
 
-def clean_asset_line(line: str, team_name: str) -> str:
-    cleaned = line.strip().lstrip("-*• ").strip()
-    cleaned = re.sub(re.escape(team_name), "", cleaned, flags=re.IGNORECASE)
-    cleaned = cleaned.lstrip(":|-–— ").strip()
-    return re.sub(r"\s+", " ", cleaned)
+def extract_draft_assets(team_name: str, owner: str | None, roster_id: int) -> tuple[list[str], list[str]]:
+    aliases = [team_name.casefold(), f"roster id: {roster_id}", f"roster_id: {roster_id}"]
+    if owner:
+        aliases.append(owner.casefold())
 
-
-def extract_draft_assets(team_name: str) -> tuple[list[str], list[str]]:
     assets: list[str] = []
     sources: list[str] = []
-    team_key = team_name.casefold()
 
-    for path in draft_knowledge_files():
+    for path in approved_support_files():
         try:
             lines = path.read_text(encoding="utf-8").splitlines()
-        except UnicodeDecodeError:
+        except (UnicodeDecodeError, OSError):
             continue
 
-        matched_in_file = False
+        matched = False
         for index, line in enumerate(lines):
-            if team_key not in line.casefold():
+            if not any(alias in line.casefold() for alias in aliases):
                 continue
 
-            # Capture the team-labelled line and the following team subsection until
-            # the next peer heading or another franchise label. Only retain lines
-            # with an explicit draft-pick signal; nothing is inferred from position.
-            window = [line]
-            for following in lines[index + 1 : index + 40]:
-                if following.startswith("#") and team_key not in following.casefold():
-                    break
-                if following.strip():
-                    window.append(following)
-
-            for candidate in window:
-                if not PICK_SIGNAL_RE.search(candidate):
+            # Draft files may be tables, owner blocks, or roster-ID records. Read
+            # both sides of the verified franchise label and retain only explicit picks.
+            for candidate in lines[max(0, index - 12) : min(len(lines), index + 120)]:
+                if not PICK_RE.search(candidate):
                     continue
-                cleaned = clean_asset_line(candidate, team_name)
-                if cleaned and cleaned not in assets:
-                    assets.append(cleaned)
-                    matched_in_file = True
+                item = clean_pick(candidate)
+                if item and item not in assets:
+                    assets.append(item)
+                    matched = True
 
-        if matched_in_file:
+        if matched:
             sources.append(str(path.relative_to(ROOT)))
 
     return assets, sources
@@ -110,63 +98,58 @@ def extract_draft_assets(team_name: str) -> tuple[list[str], list[str]]:
 
 def parse_team(path: Path) -> dict:
     lines = path.read_text(encoding="utf-8").splitlines()
-    identity = parse_fields(section(lines, "## Team Identity"))
-    counts = parse_fields(section(lines, "## Roster Counts"))
-    scores = parse_fields(section(lines, "## Raw Team Score Inputs, Not Static Rankings"))
-    embedded_picks = [line[2:].strip() for line in section(lines, "## Current Draft Pick Assets") if line.startswith("- ")]
+    identity = fields(section(lines, "## Team Identity"))
+    counts = fields(section(lines, "## Roster Counts"))
+    scores = fields(section(lines, "## Raw Team Score Inputs, Not Static Rankings"))
+
+    if not identity.get("Team name") or not identity.get("Roster ID"):
+        raise ValueError(f"Missing required Team Identity fields in {path}")
 
     lineup = []
     for line in section(lines, "## Championship Lineup Used For Raw C-AVI Input"):
         match = LINEUP_RE.match(line)
         if match:
-            lineup.append(
-                {
-                    "slot": match.group(1),
-                    "player": match.group(2),
-                    "c_avi": float(match.group(3)),
-                    "d_avi": float(match.group(4)),
-                }
-            )
+            lineup.append({
+                "slot": match.group(1),
+                "player": match.group(2),
+                "c_avi": float(match.group(3)),
+                "d_avi": float(match.group(4)),
+            })
+    if not lineup:
+        raise ValueError(f"Missing championship lineup in {path}")
 
     players = []
-    current: dict | None = None
+    current = None
     for line in section(lines, "## Current Roster — All Player Cards"):
         player_match = PLAYER_RE.match(line)
         if player_match:
             if current:
                 players.append(current)
             current = {"name": player_match.group(1)}
-            continue
-        if current:
+        elif current:
             field_match = FIELD_RE.match(line)
             if field_match:
                 current[field_match.group(1).strip()] = field_match.group(2).strip()
     if current:
         players.append(current)
 
-    if not identity.get("Team name") or not identity.get("Roster ID"):
-        raise ValueError(f"Missing required Team Identity fields in {path}")
-    if not lineup:
-        raise ValueError(f"Missing championship lineup in {path}")
-
-    external_picks, pick_sources = extract_draft_assets(identity["Team name"])
-    usable_embedded = [pick for pick in embedded_picks if "will be attached" not in pick.lower()]
-    picks = external_picks or usable_embedded
+    roster_id = int(identity["Roster ID"])
+    draft_assets, draft_sources = extract_draft_assets(
+        identity["Team name"], identity.get("Owner display name"), roster_id
+    )
 
     return {
         "source_file": str(path.relative_to(ROOT)),
         "team_name": identity["Team name"],
-        "roster_id": int(identity["Roster ID"]),
+        "roster_id": roster_id,
         "owner": identity.get("Owner display name"),
-        "division": identity.get("Division"),
-        "waiver_position": identity.get("Waiver position"),
         "source_updated": identity.get("Last updated from Sleeper exports"),
         "counts": counts,
         "scores": scores,
         "lineup": lineup,
         "players": players,
-        "picks": picks,
-        "pick_sources": pick_sources,
+        "draft_assets": draft_assets,
+        "draft_sources": draft_sources,
     }
 
 
@@ -176,39 +159,30 @@ def preseason_summary(team: dict, now: datetime) -> dict:
     anchors = sorted_lineup[:3]
     pressure = min(lineup, key=lambda item: item["c_avi"])
     anchor_names = ", ".join(item["player"] for item in anchors[:-1]) + f", and {anchors[-1]['player']}"
-    depth_count = max(int(team["counts"].get("offense", "0")) - len(lineup), 0)
     lineup_avg = float(team["scores"].get("championship_lineup_c_avi_avg", "0"))
     roster_d_avg = float(team["scores"].get("offensive_roster_d_avi_avg", "0"))
+    offense_count = int(team["counts"].get("offense", "0"))
+    depth_count = max(offense_count - len(lineup), 0)
 
-    active_players = [
-        player for player in team["players"]
-        if player.get("Status") == "Active" and player.get("Category") == "offense"
-    ]
     unavailable = [
         player["name"] for player in team["players"]
         if player.get("Status") not in (None, "Active")
     ]
+    active_count = sum(
+        1 for player in team["players"]
+        if player.get("Status") == "Active" and player.get("Category") == "offense"
+    )
+    health_body = (
+        f"The current team file flags {', '.join(unavailable)} outside Active status."
+        if unavailable
+        else f"All {active_count} offensive players in the current team file are marked Active."
+    )
 
-    if unavailable:
-        health_body = (
-            f"The source file flags {', '.join(unavailable)} outside Active status. "
-            "Those availability records should drive contingency planning until the next knowledge refresh changes them."
-        )
-    else:
-        health_body = (
-            f"All {len(active_players)} offensive players in the current team file are marked Active. "
-            "There is no knowledge-backed reason for an emergency replacement move this week."
-        )
-
-    if team["picks"]:
-        pick_body = "The approved draft-pick knowledge file lists: " + "; ".join(team["picks"]) + "."
-    else:
-        pick_body = (
-            "No franchise-labelled draft asset was found in the approved knowledge files. "
-            "The summary does not infer ownership from roster position or prior conversations."
-        )
-
-    source_files = [team["source_file"], *team["pick_sources"]]
+    draft_body = (
+        "Verified draft assets: " + "; ".join(team["draft_assets"]) + "."
+        if team["draft_assets"]
+        else "No franchise-labelled draft asset was found in the approved knowledge files."
+    )
 
     return {
         "schema_version": 2,
@@ -223,9 +197,8 @@ def preseason_summary(team: dict, now: datetime) -> dict:
         "headline": f"{team['team_name']}: Preseason Front Office Brief",
         "executive_summary": (
             f"{team['team_name']} carries a championship-lineup C-AVI average of {lineup_avg:.2f}, "
-            f"led by {anchor_names}. The immediate preseason decision is not broad roster turnover; "
-            f"it is whether the {pressure['slot']} slot currently occupied by {pressure['player']} "
-            f"({pressure['c_avi']:.1f} C-AVI) can be improved without weakening the verified core."
+            f"led by {anchor_names}. The clearest lineup pressure point is the {pressure['slot']} slot "
+            f"held by {pressure['player']} at {pressure['c_avi']:.1f} C-AVI."
         ),
         "sections": [
             {
@@ -234,33 +207,31 @@ def preseason_summary(team: dict, now: datetime) -> dict:
                 "body": (
                     f"The three highest C-AVI starters are {anchors[0]['player']} ({anchors[0]['c_avi']:.1f}), "
                     f"{anchors[1]['player']} ({anchors[1]['c_avi']:.1f}), and {anchors[2]['player']} "
-                    f"({anchors[2]['c_avi']:.1f}). That concentration gives {team['team_name']} a defined top-end identity."
+                    f"({anchors[2]['c_avi']:.1f})."
                 ),
             },
             {
                 "id": "lineup-pressure-point",
                 "title": "Lineup Pressure Point",
                 "body": (
-                    f"Among the eight verified championship-lineup slots, {pressure['player']} is the lowest C-AVI starter "
-                    f"at {pressure['c_avi']:.1f}. Any preseason acquisition should be measured against that exact lineup threshold, "
-                    "not against the bottom of the bench."
+                    f"{pressure['player']} is the lowest C-AVI starter in the verified championship lineup at "
+                    f"{pressure['c_avi']:.1f}. Any acquisition should clear that lineup threshold."
                 ),
             },
             {
                 "id": "depth-and-flexibility",
                 "title": "Depth and Flexibility",
                 "body": (
-                    f"The team file contains {team['counts'].get('offense', '0')} offensive players, leaving {depth_count} "
-                    f"offensive players outside the modeled starting eight. The offensive roster D-AVI average is {roster_d_avg:.2f}, "
-                    "which should be used to judge whether consolidation improves the lineup more than it reduces flexibility."
+                    f"The team file contains {offense_count} offensive players, with {depth_count} outside the modeled "
+                    f"starting eight. The offensive roster D-AVI average is {roster_d_avg:.2f}."
                 ),
             },
             {"id": "availability", "title": "Availability", "body": health_body},
-            {"id": "draft-assets", "title": "Draft Assets", "body": pick_body},
+            {"id": "draft-assets", "title": "Draft Assets", "body": draft_body},
         ],
         "source": {
             "policy": "AVI-Core/knowledge only",
-            "files": source_files,
+            "files": [team["source_file"], *team["draft_sources"]],
             "source_last_updated": team["source_updated"],
             "external_sources_used": False,
             "conversation_context_used": False,
@@ -272,20 +243,18 @@ def regular_season_summary(team: dict, now: datetime) -> dict:
     summary = preseason_summary(team, now)
     summary["season_phase"] = "regular_season"
     summary["headline"] = f"{team['team_name']}: Weekly Franchise Brief"
-    summary["sections"].extend(
-        [
-            {
-                "id": "matchup-recap",
-                "title": "Matchup Recap",
-                "body": "Not published: the approved team file does not contain a completed weekly matchup section.",
-            },
-            {
-                "id": "standings",
-                "title": "Standings and Playoff Position",
-                "body": "Not published: the approved team file does not contain current standings data.",
-            },
-        ]
-    )
+    summary["sections"].extend([
+        {
+            "id": "matchup-recap",
+            "title": "Matchup Recap",
+            "body": "Not published: no completed weekly matchup section exists in the approved knowledge files.",
+        },
+        {
+            "id": "standings",
+            "title": "Standings and Playoff Position",
+            "body": "Not published: no current standings section exists in the approved knowledge files.",
+        },
+    ])
     return summary
 
 
