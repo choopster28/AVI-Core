@@ -15,10 +15,7 @@ MOUNTAIN = ZoneInfo("America/Denver")
 FIELD_RE = re.compile(r"^- ([^:]+):\s*(.*)$")
 LINEUP_RE = re.compile(r"^- (QB|RB|WR|TE|FLEX): (.+?) \| C-AVI: ([0-9.]+) \| D-AVI: ([0-9.]+)$")
 PLAYER_RE = re.compile(r"^### PLAYER: (.+)$")
-PICK_RE = re.compile(
-    r"(?=.*\b20\d{2}\b)(?=.*\b(?:1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|round|pick|\d+\.\d{2})\b).+",
-    re.IGNORECASE,
-)
+PICK_HEADING_RE = re.compile(r"^## PICK:\s*(.+?)(?:\s*\||$)")
 
 
 def slugify(value: str) -> str:
@@ -47,27 +44,28 @@ def fields(lines: list[str]) -> dict[str, str]:
     return result
 
 
-def clean_pick(line: str) -> str:
-    return re.sub(r"\s+", " ", line.strip().lstrip("-*• ").strip())
-
-
 def approved_support_files() -> list[Path]:
-    result: list[Path] = []
-    for path in KNOWLEDGE.rglob("*"):
-        if not path.is_file() or TEAMS in path.parents or OUTPUT in path.parents:
-            continue
-        if path.suffix.lower() in {".md", ".txt", ".json"}:
-            result.append(path)
-    return sorted(result)
+    return sorted(
+        path
+        for path in KNOWLEDGE.rglob("*")
+        if path.is_file()
+        and TEAMS not in path.parents
+        and OUTPUT not in path.parents
+        and path.suffix.lower() in {".md", ".txt"}
+    )
 
 
 def extract_draft_assets(team_name: str, owner: str | None, roster_id: int) -> tuple[list[str], list[str]]:
-    aliases = [team_name.casefold(), f"roster id: {roster_id}", f"roster_id: {roster_id}"]
-    if owner:
-        aliases.append(owner.casefold())
-
     assets: list[str] = []
     sources: list[str] = []
+    owner_markers = {
+        team_name.casefold(),
+        f"current owner team: {team_name}".casefold(),
+        f"current owner roster id: {roster_id}".casefold(),
+        f"owner roster id: {roster_id}".casefold(),
+    }
+    if owner:
+        owner_markers.add(owner.casefold())
 
     for path in approved_support_files():
         try:
@@ -75,22 +73,38 @@ def extract_draft_assets(team_name: str, owner: str | None, roster_id: int) -> t
         except (UnicodeDecodeError, OSError):
             continue
 
-        matched = False
-        for index, line in enumerate(lines):
-            if not any(alias in line.casefold() for alias in aliases):
+        matched_file = False
+        index = 0
+        while index < len(lines):
+            heading = PICK_HEADING_RE.match(lines[index])
+            if not heading:
+                index += 1
                 continue
 
-            # Draft files may be tables, owner blocks, or roster-ID records. Read
-            # both sides of the verified franchise label and retain only explicit picks.
-            for candidate in lines[max(0, index - 12) : min(len(lines), index + 120)]:
-                if not PICK_RE.search(candidate):
-                    continue
-                item = clean_pick(candidate)
-                if item and item not in assets:
-                    assets.append(item)
-                    matched = True
+            end = index + 1
+            while end < len(lines) and not PICK_HEADING_RE.match(lines[end]):
+                end += 1
+            block = lines[index:end]
+            block_text = "\n".join(block).casefold()
 
-        if matched:
+            if any(marker in block_text for marker in owner_markers):
+                pick_label = heading.group(1).strip()
+                card_fields = fields(block[1:])
+                c_avi = card_fields.get("Championship AVI (C-AVI, 0-100)") or card_fields.get("C-AVI")
+                d_avi = card_fields.get("Dynasty AVI (D-AVI, 0-100)") or card_fields.get("D-AVI")
+                value_parts = [pick_label]
+                if c_avi and c_avi != "None":
+                    value_parts.append(f"C-AVI {c_avi}")
+                if d_avi and d_avi != "None":
+                    value_parts.append(f"D-AVI {d_avi}")
+                asset = " | ".join(value_parts)
+                if asset not in assets:
+                    assets.append(asset)
+                    matched_file = True
+
+            index = end
+
+        if matched_file:
             sources.append(str(path.relative_to(ROOT)))
 
     return assets, sources
@@ -181,7 +195,7 @@ def preseason_summary(team: dict, now: datetime) -> dict:
     draft_body = (
         "Verified draft assets: " + "; ".join(team["draft_assets"]) + "."
         if team["draft_assets"]
-        else "No franchise-labelled draft asset was found in the approved knowledge files."
+        else "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     )
 
     return {
