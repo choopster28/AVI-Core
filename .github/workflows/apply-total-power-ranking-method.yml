@@ -1,0 +1,105 @@
+name: Apply Total-Based Power Ranking Method
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/apply-total-power-ranking-method.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Align summary rankings with roster lineup totals
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path("scripts/generate_weekly_executive_summary.py")
+          text = path.read_text(encoding="utf-8")
+
+          old = '''    lineup_avg = number(scores.get("championship_lineup_c_avi_avg"))
+              roster_d_avg = number(scores.get("offensive_roster_d_avi_avg"))
+              return {'''
+          new = '''    lineup_total = round(sum(item["c_avi"] for item in lineup), 2)
+              roster_d_total = round(sum(
+                  number(player.get("Dynasty AVI (D-AVI, 0-100)"))
+                  for player in players
+              ), 2)
+              return {'''
+          if old not in text:
+              raise SystemExit("Team score source block not found")
+          text = text.replace(old, new, 1)
+          text = text.replace('"projected_score": lineup_avg,', '"projected_score": lineup_total,', 1)
+          text = text.replace('"dynasty_score": roster_d_avg,', '"dynasty_score": roster_d_total,', 1)
+
+          text = text.replace(
+              'target = max(pressure["c_avi"] + score_gap * 8, above_floor["c_avi"])',
+              'target = min(100.0, max(pressure["c_avi"] + score_gap, above_floor["c_avi"]))',
+              1,
+          )
+          text = text.replace("championship-lineup C-AVI average", "projected-starting-lineup C-AVI total")
+          text = text.replace("lineup C-AVI average", "projected-lineup C-AVI total")
+          text = text.replace(
+              '"method": "Verified championship-lineup C-AVI average from all 16 AVI-Core knowledge team files",',
+              '"method": "Sum of the eight verified projected starters’ C-AVI values from all 16 AVI-Core team files",',
+          )
+          text = text.replace(
+              '"projected_power_method": "Verified championship-lineup C-AVI average",',
+              '"projected_power_method": "Projected starting-lineup C-AVI total; full-roster D-AVI total",',
+          )
+          text = text.replace('"schema_version": 4,', '"schema_version": 5,')
+          path.write_text(text, encoding="utf-8")
+          PY
+
+      - name: Regenerate and validate all summaries
+        run: |
+          python scripts/generate_weekly_executive_summary_filtered.py
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          root = Path("knowledge/franchise_summaries")
+          files = sorted(path for path in root.glob("*.json") if path.name != "manifest.json")
+          if len(files) != 16:
+              raise SystemExit(f"Expected 16 franchise summaries, found {len(files)}")
+          c_ranks = []
+          d_ranks = []
+          for path in files:
+              payload = json.loads(path.read_text(encoding="utf-8"))
+              power = payload.get("projected_power") or {}
+              if not isinstance(power.get("score"), (int, float)):
+                  raise SystemExit(f"Missing projected power total in {path.name}")
+              if "average" in json.dumps(payload).lower() and "average age" not in json.dumps(payload).lower():
+                  raise SystemExit(f"Legacy average-based ranking language remains in {path.name}")
+              c_ranks.append((power["rank"], payload["franchise_name"]))
+              dynasty = payload.get("dynasty_power")
+              if not dynasty or not isinstance(dynasty.get("rank"), int):
+                  raise SystemExit(f"Missing dynasty power ranking in {path.name}")
+              d_ranks.append((dynasty["rank"], payload["franchise_name"]))
+          if sorted(rank for rank, _ in c_ranks) != list(range(1, 17)):
+              raise SystemExit("C-AVI ranks are not a complete 1-16 ordering")
+          if sorted(rank for rank, _ in d_ranks) != list(range(1, 17)):
+              raise SystemExit("D-AVI ranks are not a complete 1-16 ordering")
+          PY
+
+      - name: Commit recalculated summaries
+        run: |
+          git config user.name "AVI-Automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add scripts/generate_weekly_executive_summary.py knowledge/franchise_summaries
+          if git diff --cached --quiet; then
+            echo "No changes required."
+            exit 0
+          fi
+          git commit -m "Recalculate 2026 C-AVI and D-AVI power rankings"
+          git push
