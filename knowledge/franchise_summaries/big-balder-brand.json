@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "franchise_id": "big-balder-brand",
+  "franchise_name": "Big Balder Brand",
+  "roster_id": 9,
+  "owner_display_name": "Choopski",
+  "season_phase": "preseason",
+  "reporting_period": "Week of July 22, 2026",
+  "generated_at": "2026-07-22T11:00:00-06:00",
+  "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
+  "headline": "Big Balder Brand: Preseason Front Office Brief",
+  "executive_summary": "Big Balder Brand carries a championship-lineup C-AVI average of 88.39, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate preseason decision is not broad roster turnover; it is whether the FLEX slot currently occupied by Chris Godwin (62.4 C-AVI) can be improved without weakening the verified core.",
+  "sections": [
+    {
+      "id": "competitive-core",
+      "title": "Competitive Core",
+      "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (95.5), and A.J. Brown (94.2). Nico Collins (92.0), Omarion Hampton (92.1), and Breece Hall (88.1) give Big Balder Brand verified strength across TE, WR, and RB rather than dependence on one position group."
+    },
+    {
+      "id": "lineup-pressure-point",
+      "title": "Lineup Pressure Point",
+      "body": "Among the eight verified championship-lineup slots, Chris Godwin is the lowest C-AVI starter at 62.4. Any preseason acquisition should be measured against that exact FLEX threshold, not against the bottom of the bench."
+    },
+    {
+      "id": "depth-and-flexibility",
+      "title": "Depth and Flexibility",
+      "body": "The current team file contains 13 offensive players, leaving five offensive players outside the modeled starting eight. Baker Mayfield, Tyler Allgeier, Tank Bigsby, Jalen Coker, and Jalen Tolbert form the verified reserve group. The offensive roster D-AVI average is 76.65, so consolidation should only be pursued when the starting-lineup improvement outweighs the flexibility surrendered."
+    },
+    {
+      "id": "availability",
+      "title": "Availability",
+      "body": "All 13 offensive players in the current Big Balder Brand team file are marked Active. There is no knowledge-backed reason for an emergency replacement move this week."
+    },
+    {
+      "id": "quarterback-room",
+      "title": "Quarterback Room",
+      "body": "Jaxson Dart is the modeled starter at 83.3 C-AVI and 82.3 D-AVI, with Baker Mayfield behind him at 55.0 C-AVI and 72.3 D-AVI. The current file supports Dart as the championship-lineup option while Mayfield provides a verified second quarterback."
+    },
+    {
+      "id": "draft-assets",
+      "title": "Draft Assets",
+      "body": "The approved Big Balder Brand team file does not yet contain attached draft-pick ownership. No pick-specific recommendation is published because the required source does not verify one."
+    }
+  ],
+  "source": {
+    "policy": "AVI-Core/knowledge only",
+    "files": [
+      "knowledge/teams/09_Big_Balder_Brand.md"
+    ],
+    "source_last_updated": "2026-07-21",
+    "external_sources_used": false,
+    "conversation_context_used": false
+  }
+}

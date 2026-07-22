@@ -1,0 +1,67 @@
+name: Weekly Franchise Executive Summaries
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "knowledge/teams/**"
+      - "knowledge/01*"
+      - "knowledge/**/*draft*pick*"
+      - "scripts/generate_weekly_executive_summary.py"
+      - ".github/workflows/weekly-franchise-executive-summary.yml"
+  schedule:
+    # GitHub cron is UTC. Run both possible UTC hours, then enforce
+    # Wednesday 11:00 AM in America/Denver so DST never shifts local time.
+    - cron: "0 17 * * 3"
+    - cron: "0 18 * * 3"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-franchise-summaries:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Enforce Wednesday 11 AM Mountain Time
+        id: local_time
+        shell: bash
+        run: |
+          python - <<'PY'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          import os
+
+          now = datetime.now(ZoneInfo("America/Denver"))
+          allowed = now.weekday() == 2 and now.hour == 11
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
+              handle.write(f"allowed={'true' if allowed else 'false'}\n")
+          print(f"Mountain time: {now.isoformat()} | allowed={allowed}")
+          PY
+
+      - name: Generate all 16 franchise summaries
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        run: python scripts/generate_weekly_executive_summary.py
+
+      - name: Commit refreshed summaries
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        shell: bash
+        run: |
+          if git diff --quiet -- knowledge/franchise_summaries; then
+            echo "No franchise summary changes to commit."
+            exit 0
+          fi
+          git config user.name "AVI-Automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add knowledge/franchise_summaries
+          git commit -m "Refresh weekly franchise executive summaries"
+          git push
