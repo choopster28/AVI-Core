@@ -1,11 +1,25 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-22T11:00:00-06:00",
+  "generated_at": "2026-07-22T09:30:55.861687-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "source_policy": "AVI-Core/knowledge only",
-  "franchise_count": 1,
+  "franchise_count": 16,
   "files": [
-    "big-balder-brand.json"
-  ],
-  "generation_scope": "Big Balder Brand initial production run; the scheduled generator writes all 16 franchise files from knowledge/teams."
+    "conquistadors.json",
+    "rapid-valley-annihilation.json",
+    "ravens-regime.json",
+    "mile-high-royal-lions.json",
+    "northside-kings.json",
+    "lightskin-legends.json",
+    "badland-banditos.json",
+    "all-hail-king-jesus.json",
+    "big-balder-brand.json",
+    "smokyvalleywheatwarriors.json",
+    "corgi-loaf-baking-co.json",
+    "dmv-fantasy.json",
+    "southside-savages.json",
+    "phalhala-or-bust.json",
+    "gringo-s-goblins.json",
+    "crimson-tide-pods.json"
+  ]
 }

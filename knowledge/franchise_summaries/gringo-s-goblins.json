@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "franchise_id": "gringo-s-goblins",
+  "franchise_name": "Gringo\u2019s Goblins",
+  "roster_id": 15,
+  "owner_display_name": "Burnfaze",
+  "season_phase": "preseason",
+  "reporting_period": "Week of July 22, 2026",
+  "generated_at": "2026-07-22T09:30:55.861687-06:00",
+  "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
+  "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
+  "executive_summary": "Gringo\u2019s Goblins carries a championship-lineup C-AVI average of 70.60, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate preseason decision is not broad roster turnover; it is whether the FLEX slot currently occupied by Jonathon Brooks (52.6 C-AVI) can be improved without weakening the verified core.",
+  "sections": [
+    {
+      "id": "competitive-core",
+      "title": "Competitive Core",
+      "body": "The three highest C-AVI starters are Emeka Egbuka (85.5), Kyren Williams (83.3), and Davante Adams (80.3). That concentration gives Gringo\u2019s Goblins a defined top-end identity."
+    },
+    {
+      "id": "lineup-pressure-point",
+      "title": "Lineup Pressure Point",
+      "body": "Among the eight verified championship-lineup slots, Jonathon Brooks is the lowest C-AVI starter at 52.6. Any preseason acquisition should be measured against that exact lineup threshold, not against the bottom of the bench."
+    },
+    {
+      "id": "depth-and-flexibility",
+      "title": "Depth and Flexibility",
+      "body": "The team file contains 10 offensive players, leaving 2 offensive players outside the modeled starting eight. The offensive roster D-AVI average is 74.99, which should be used to judge whether consolidation improves the lineup more than it reduces flexibility."
+    },
+    {
+      "id": "availability",
+      "title": "Availability",
+      "body": "All 10 offensive players in the current team file are marked Active. There is no knowledge-backed reason for an emergency replacement move this week."
+    },
+    {
+      "id": "draft-assets",
+      "title": "Draft Assets",
+      "body": "No franchise-labelled draft asset was found in the approved knowledge files. The summary does not infer ownership from roster position or prior conversations."
+    }
+  ],
+  "source": {
+    "policy": "AVI-Core/knowledge only",
+    "files": [
+      "knowledge/teams/15_Gringo_s_Goblins.md"
+    ],
+    "source_last_updated": "2026-07-21",
+    "external_sources_used": false,
+    "conversation_context_used": false
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "franchise_id": "crimson-tide-pods",
+  "franchise_name": "Crimson Tide Pods",
+  "roster_id": 16,
+  "owner_display_name": "nickas",
+  "season_phase": "preseason",
+  "reporting_period": "Week of July 22, 2026",
+  "generated_at": "2026-07-22T09:30:55.861687-06:00",
+  "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
+  "headline": "Crimson Tide Pods: Preseason Front Office Brief",
+  "executive_summary": "Crimson Tide Pods carries a championship-lineup C-AVI average of 65.45, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate preseason decision is not broad roster turnover; it is whether the FLEX slot currently occupied by Jerry Jeudy (49.1 C-AVI) can be improved without weakening the verified core.",
+  "sections": [
+    {
+      "id": "competitive-core",
+      "title": "Competitive Core",
+      "body": "The three highest C-AVI starters are DeVonta Smith (87.5), Alec Pierce (75.1), and Justin Herbert (72.2). That concentration gives Crimson Tide Pods a defined top-end identity."
+    },
+    {
+      "id": "lineup-pressure-point",
+      "title": "Lineup Pressure Point",
+      "body": "Among the eight verified championship-lineup slots, Jerry Jeudy is the lowest C-AVI starter at 49.1. Any preseason acquisition should be measured against that exact lineup threshold, not against the bottom of the bench."
+    },
+    {
+      "id": "depth-and-flexibility",
+      "title": "Depth and Flexibility",
+      "body": "The team file contains 11 offensive players, leaving 3 offensive players outside the modeled starting eight. The offensive roster D-AVI average is 66.55, which should be used to judge whether consolidation improves the lineup more than it reduces flexibility."
+    },
+    {
+      "id": "availability",
+      "title": "Availability",
+      "body": "All 11 offensive players in the current team file are marked Active. There is no knowledge-backed reason for an emergency replacement move this week."
+    },
+    {
+      "id": "draft-assets",
+      "title": "Draft Assets",
+      "body": "No franchise-labelled draft asset was found in the approved knowledge files. The summary does not infer ownership from roster position or prior conversations."
+    }
+  ],
+  "source": {
+    "policy": "AVI-Core/knowledge only",
+    "files": [
+      "knowledge/teams/16_Crimson_Tide_Pods.md"
+    ],
+    "source_last_updated": "2026-07-21",
+    "external_sources_used": false,
+    "conversation_context_used": false
+  }
+}

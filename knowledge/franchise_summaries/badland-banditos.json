@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "franchise_id": "badland-banditos",
+  "franchise_name": "Badland Banditos",
+  "roster_id": 7,
+  "owner_display_name": "IcebergSlim69",
+  "season_phase": "preseason",
+  "reporting_period": "Week of July 22, 2026",
+  "generated_at": "2026-07-22T09:30:55.861687-06:00",
+  "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
+  "headline": "Badland Banditos: Preseason Front Office Brief",
+  "executive_summary": "Badland Banditos carries a championship-lineup C-AVI average of 77.33, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate preseason decision is not broad roster turnover; it is whether the FLEX slot currently occupied by Jayden Higgins (51.4 C-AVI) can be improved without weakening the verified core.",
+  "sections": [
+    {
+      "id": "competitive-core",
+      "title": "Competitive Core",
+      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.0), and Kenneth Walker (87.5). That concentration gives Badland Banditos a defined top-end identity."
+    },
+    {
+      "id": "lineup-pressure-point",
+      "title": "Lineup Pressure Point",
+      "body": "Among the eight verified championship-lineup slots, Jayden Higgins is the lowest C-AVI starter at 51.4. Any preseason acquisition should be measured against that exact lineup threshold, not against the bottom of the bench."
+    },
+    {
+      "id": "depth-and-flexibility",
+      "title": "Depth and Flexibility",
+      "body": "The team file contains 12 offensive players, leaving 4 offensive players outside the modeled starting eight. The offensive roster D-AVI average is 75.23, which should be used to judge whether consolidation improves the lineup more than it reduces flexibility."
+    },
+    {
+      "id": "availability",
+      "title": "Availability",
+      "body": "All 12 offensive players in the current team file are marked Active. There is no knowledge-backed reason for an emergency replacement move this week."
+    },
+    {
+      "id": "draft-assets",
+      "title": "Draft Assets",
+      "body": "No franchise-labelled draft asset was found in the approved knowledge files. The summary does not infer ownership from roster position or prior conversations."
+    }
+  ],
+  "source": {
+    "policy": "AVI-Core/knowledge only",
+    "files": [
+      "knowledge/teams/07_Badland_Banditos.md"
+    ],
+    "source_last_updated": "2026-07-21",
+    "external_sources_used": false,
+    "conversation_context_used": false
+  }
+}
