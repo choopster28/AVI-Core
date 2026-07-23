@@ -6,25 +6,25 @@
   "owner_display_name": "AlexPete6800",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:30:14.328020-06:00",
+  "generated_at": "2026-07-22T23:04:24.143397-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
-  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 662.40 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and James Cook. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 661.40 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and James Cook. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 4,
     "league_size": 16,
-    "score": 662.4,
+    "score": 661.4,
     "team_above": {
       "name": "Mile High Royal Lions",
       "rank": 3,
-      "score": 671.0,
-      "gap": 8.600000000000023
+      "score": 670.3,
+      "gap": 8.899999999999977
     },
     "team_below": {
       "name": "Corgi Loaf Baking Co.",
       "rank": 5,
-      "score": 646.9,
-      "gap": 15.5
+      "score": 646.4,
+      "gap": 15.0
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
@@ -52,13 +52,13 @@
     "summary": "On October 28, SmokyValleyWheatWarriors traded with Hit & Ruggs \ud83c\udfce\ufe0f and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) while sending Kayshon Boutte. The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Rico Dowdle's 63.3 C-AVI baseline; a replacement near 71.9 C-AVI would directly attack the 8.60-point projected gap to Mile High Royal Lions.",
+    "Raise the FLEX slot above Rico Dowdle's 63.3 C-AVI baseline; a replacement near 72.2 C-AVI would directly attack the 8.90-point projected gap to Mile High Royal Lions.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Corgi Loaf Baking Co.",
     "projected_rank": 5,
-    "projected_score": 646.9,
+    "projected_score": 646.4,
     "latest_trade": {
       "transaction_id": "1380817964328034304",
       "created_at": "2026-07-09T05:32:46.354000+00:00",
@@ -82,7 +82,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #4 of 16 at 662.40 lineup C-AVI. Mile High Royal Lions is immediately above at 671.00, a gap of 8.60. Corgi Loaf Baking Co. is immediately behind at 646.90."
+      "body": "Projected #4 of 16 at 661.40 lineup C-AVI. Mile High Royal Lions is immediately above at 670.30, a gap of 8.90. Corgi Loaf Baking Co. is immediately behind at 646.40."
     },
     {
       "id": "competitive-core",
@@ -97,9 +97,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Rico Dowdle's 63.3 C-AVI baseline; a replacement near 71.9 C-AVI would directly attack the 8.60-point projected gap to Mile High Royal Lions. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Rico Dowdle's 63.3 C-AVI baseline; a replacement near 72.2 C-AVI would directly attack the 8.90-point projected gap to Mile High Royal Lions. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Rico Dowdle's 63.3 C-AVI baseline; a replacement near 71.9 C-AVI would directly attack the 8.60-point projected gap to Mile High Royal Lions.",
+        "Raise the FLEX slot above Rico Dowdle's 63.3 C-AVI baseline; a replacement near 72.2 C-AVI would directly attack the 8.90-point projected gap to Mile High Royal Lions.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
@@ -131,7 +131,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-21",
+    "source_last_updated": "2026-07-22",
     "external_sources_used": false,
     "conversation_context_used": false
   }

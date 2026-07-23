@@ -6,32 +6,32 @@
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:30:14.328020-06:00",
+  "generated_at": "2026-07-22T23:04:24.143397-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
-  "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 564.80 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 564.20 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 11,
     "league_size": 16,
-    "score": 564.8,
+    "score": 564.2,
     "team_above": {
       "name": "DMV Fantasy",
       "rank": 10,
-      "score": 591.3,
-      "gap": 26.5
+      "score": 592.0,
+      "gap": 27.799999999999955
     },
     "team_below": {
       "name": "Phalhala or Bust",
       "rank": 12,
-      "score": 554.9,
-      "gap": 9.899999999999977
+      "score": 553.7,
+      "gap": 10.5
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 10,
     "league_size": 16,
-    "score": 749.9,
+    "score": 750.0,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -56,16 +56,16 @@
     "picks_sent": [
       "2027 Round 2 (Gringo\u2019s Goblins)"
     ],
-    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 41.0 C-AVI and 64.4 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jonathon Brooks's 52.6 C-AVI baseline; a replacement near 79.1 C-AVI would directly attack the 26.50-point projected gap to DMV Fantasy.",
+    "Raise the FLEX slot above Jonathon Brooks's 52.7 C-AVI baseline; a replacement near 80.5 C-AVI would directly attack the 27.80-point projected gap to DMV Fantasy.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Phalhala or Bust",
     "projected_rank": 12,
-    "projected_score": 554.9,
+    "projected_score": 553.7,
     "latest_trade": {
       "transaction_id": "1356901536596242432",
       "created_at": "2026-05-04T05:37:25.638000+00:00",
@@ -91,7 +91,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #11 of 16 at 564.80 lineup C-AVI. DMV Fantasy is immediately above at 591.30, a gap of 26.50. Phalhala or Bust is immediately behind at 554.90."
+      "body": "Projected #11 of 16 at 564.20 lineup C-AVI. DMV Fantasy is immediately above at 592.00, a gap of 27.80. Phalhala or Bust is immediately behind at 553.70."
     },
     {
       "id": "competitive-core",
@@ -101,14 +101,14 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 41.0 C-AVI and 64.4 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jonathon Brooks's 52.6 C-AVI baseline; a replacement near 79.1 C-AVI would directly attack the 26.50-point projected gap to DMV Fantasy. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Jonathon Brooks's 52.7 C-AVI baseline; a replacement near 80.5 C-AVI would directly attack the 27.80-point projected gap to DMV Fantasy. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Jonathon Brooks's 52.6 C-AVI baseline; a replacement near 79.1 C-AVI would directly attack the 26.50-point projected gap to DMV Fantasy.",
+        "Raise the FLEX slot above Jonathon Brooks's 52.7 C-AVI baseline; a replacement near 80.5 C-AVI would directly attack the 27.80-point projected gap to DMV Fantasy.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
@@ -120,7 +120,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jonathon Brooks is the lowest C-AVI starter in the verified championship lineup at 52.6. Any acquisition should clear that exact lineup threshold."
+      "body": "Jonathon Brooks is the lowest C-AVI starter in the verified championship lineup at 52.7. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -140,7 +140,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-21",
+    "source_last_updated": "2026-07-22",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -6,32 +6,32 @@
   "owner_display_name": "FuzzyRaptor",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:30:14.328020-06:00",
+  "generated_at": "2026-07-22T23:04:24.143397-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Rapid Valley Annihilation: Preseason Front Office Brief",
-  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 545.30 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 544.90 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 545.3,
+    "score": 544.9,
     "team_above": {
       "name": "Phalhala or Bust",
       "rank": 12,
-      "score": 554.9,
-      "gap": 9.600000000000023
+      "score": 553.7,
+      "gap": 8.800000000000068
     },
     "team_below": {
       "name": "Crimson Tide Pods",
       "rank": 14,
-      "score": 523.6,
-      "gap": 21.699999999999932
+      "score": 522.7,
+      "gap": 22.199999999999932
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 8,
     "league_size": 16,
-    "score": 793.4,
+    "score": 793.3,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -52,13 +52,13 @@
     "summary": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (Corgi Loaf Baking Co.), 2028 Round 1 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Rapid Valley Annihilation). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Blake Corum's 54.2 C-AVI baseline; a replacement near 63.8 C-AVI would directly attack the 9.60-point projected gap to Phalhala or Bust.",
+    "Raise the FLEX slot above Blake Corum's 54.3 C-AVI baseline; a replacement near 63.1 C-AVI would directly attack the 8.80-point projected gap to Phalhala or Bust.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Crimson Tide Pods",
     "projected_rank": 14,
-    "projected_score": 523.6,
+    "projected_score": 522.7,
     "latest_trade": {
       "transaction_id": "1377688089559846912",
       "created_at": "2026-06-30T14:15:46.059000+00:00",
@@ -78,20 +78,20 @@
         "2027 Round 2 (Northside Kings)"
       ],
       "picks_sent": [],
-      "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
+      "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 74.8 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
     },
-    "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
+    "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 74.8 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #13 of 16 at 545.30 lineup C-AVI. Phalhala or Bust is immediately above at 554.90, a gap of 9.60. Crimson Tide Pods is immediately behind at 523.60."
+      "body": "Projected #13 of 16 at 544.90 lineup C-AVI. Phalhala or Bust is immediately above at 553.70, a gap of 8.80. Crimson Tide Pods is immediately behind at 522.70."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Colston Loveland (98.0), Quinshon Judkins (75.8), and Caleb Williams (71.4)."
+      "body": "The three highest C-AVI starters are Colston Loveland (98.0), Quinshon Judkins (75.9), and Caleb Williams (71.0)."
     },
     {
       "id": "latest-trade-impact",
@@ -101,21 +101,21 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Blake Corum's 54.2 C-AVI baseline; a replacement near 63.8 C-AVI would directly attack the 9.60-point projected gap to Phalhala or Bust. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Blake Corum's 54.3 C-AVI baseline; a replacement near 63.1 C-AVI would directly attack the 8.80-point projected gap to Phalhala or Bust. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Blake Corum's 54.2 C-AVI baseline; a replacement near 63.8 C-AVI would directly attack the 9.60-point projected gap to Phalhala or Bust.",
+        "Raise the FLEX slot above Blake Corum's 54.3 C-AVI baseline; a replacement near 63.1 C-AVI would directly attack the 8.80-point projected gap to Phalhala or Bust.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 75.1 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
+      "body": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 74.8 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Blake Corum is the lowest C-AVI starter in the verified championship lineup at 54.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Blake Corum is the lowest C-AVI starter in the verified championship lineup at 54.3. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -135,7 +135,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-21",
+    "source_last_updated": "2026-07-22",
     "external_sources_used": false,
     "conversation_context_used": false
   }

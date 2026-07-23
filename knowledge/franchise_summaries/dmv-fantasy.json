@@ -6,25 +6,25 @@
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:30:14.328020-06:00",
+  "generated_at": "2026-07-22T23:04:24.143397-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
-  "executive_summary": "DMV Fantasy is projected #10 of 16 with a 591.30 projected-starting-lineup C-AVI total, led by Jayden Daniels, Saquon Barkley, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "DMV Fantasy is projected #10 of 16 with a 592.00 projected-starting-lineup C-AVI total, led by Jayden Daniels, Saquon Barkley, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 10,
     "league_size": 16,
-    "score": 591.3,
+    "score": 592.0,
     "team_above": {
       "name": "Badland Banditos",
       "rank": 9,
-      "score": 618.6,
-      "gap": 27.300000000000068
+      "score": 618.2,
+      "gap": 26.200000000000045
     },
     "team_below": {
       "name": "Gringo\u2019s Goblins",
       "rank": 11,
-      "score": 564.8,
-      "gap": 26.5
+      "score": 564.2,
+      "gap": 27.799999999999955
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
@@ -52,16 +52,16 @@
       "2028 Round 1 (Big Balder Brand)"
     ],
     "picks_sent": [],
-    "summary": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (Conquistadors), 2028 Round 1 (Big Balder Brand) while sending Trey McBride. George Kittle is now the current TE starter at 79.5 C-AVI and 82.2 D-AVI; Brenton Strange is now the current FLEX starter at 62.1 C-AVI and 77.4 D-AVI; The deal added 2 draft assets."
+    "summary": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (Conquistadors), 2028 Round 1 (Big Balder Brand) while sending Trey McBride. George Kittle is now the current TE starter at 80.3 C-AVI and 82.4 D-AVI; Brenton Strange is now the current FLEX starter at 61.9 C-AVI and 77.4 D-AVI; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Rachaad White's 57.1 C-AVI baseline; a replacement near 84.4 C-AVI would directly attack the 27.30-point projected gap to Badland Banditos.",
+    "Raise the FLEX slot above Rachaad White's 57.2 C-AVI baseline; a replacement near 83.4 C-AVI would directly attack the 26.20-point projected gap to Badland Banditos.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Gringo\u2019s Goblins",
     "projected_rank": 11,
-    "projected_score": 564.8,
+    "projected_score": 564.2,
     "latest_trade": {
       "transaction_id": "1380604251050356736",
       "created_at": "2026-07-08T15:23:33.139000+00:00",
@@ -84,44 +84,44 @@
       "picks_sent": [
         "2027 Round 2 (Gringo\u2019s Goblins)"
       ],
-      "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+      "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 41.0 C-AVI and 64.4 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
     },
-    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 41.0 C-AVI and 64.4 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #10 of 16 at 591.30 lineup C-AVI. Badland Banditos is immediately above at 618.60, a gap of 27.30. Gringo\u2019s Goblins is immediately behind at 564.80."
+      "body": "Projected #10 of 16 at 592.00 lineup C-AVI. Badland Banditos is immediately above at 618.20, a gap of 26.20. Gringo\u2019s Goblins is immediately behind at 564.20."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jayden Daniels (96.2), Saquon Barkley (92.0), and George Kittle (79.5)."
+      "body": "The three highest C-AVI starters are Jayden Daniels (96.1), Saquon Barkley (92.0), and George Kittle (80.3)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (Conquistadors), 2028 Round 1 (Big Balder Brand) while sending Trey McBride. George Kittle is now the current TE starter at 79.5 C-AVI and 82.2 D-AVI; Brenton Strange is now the current FLEX starter at 62.1 C-AVI and 77.4 D-AVI; The deal added 2 draft assets."
+      "body": "On July 15, DMV Fantasy traded with Big Balder Brand and acquired George Kittle, Brenton Strange, 2026 Round 1 (Conquistadors), 2028 Round 1 (Big Balder Brand) while sending Trey McBride. George Kittle is now the current TE starter at 80.3 C-AVI and 82.4 D-AVI; Brenton Strange is now the current FLEX starter at 61.9 C-AVI and 77.4 D-AVI; The deal added 2 draft assets."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Rachaad White's 57.1 C-AVI baseline; a replacement near 84.4 C-AVI would directly attack the 27.30-point projected gap to Badland Banditos. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Rachaad White's 57.2 C-AVI baseline; a replacement near 83.4 C-AVI would directly attack the 26.20-point projected gap to Badland Banditos. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Rachaad White's 57.1 C-AVI baseline; a replacement near 84.4 C-AVI would directly attack the 27.30-point projected gap to Badland Banditos.",
+        "Raise the FLEX slot above Rachaad White's 57.2 C-AVI baseline; a replacement near 83.4 C-AVI would directly attack the 26.20-point projected gap to Badland Banditos.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 40.9 C-AVI and 64.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 41.0 C-AVI and 64.4 D-AVI; Emeka Egbuka is now the current WR starter at 85.5 C-AVI and 86.5 D-AVI; Kyren Williams is now the current RB starter at 83.3 C-AVI and 83.8 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Rachaad White is the lowest C-AVI starter in the verified championship lineup at 57.1. Any acquisition should clear that exact lineup threshold."
+      "body": "Rachaad White is the lowest C-AVI starter in the verified championship lineup at 57.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -141,7 +141,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-21",
+    "source_last_updated": "2026-07-22",
     "external_sources_used": false,
     "conversation_context_used": false
   }

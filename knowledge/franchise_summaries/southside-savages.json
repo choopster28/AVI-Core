@@ -6,32 +6,32 @@
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:30:14.328020-06:00",
+  "generated_at": "2026-07-22T23:04:24.143397-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
-  "executive_summary": "Southside Savages is projected #8 of 16 with a 625.80 projected-starting-lineup C-AVI total, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
+  "executive_summary": "Southside Savages is projected #7 of 16 with a 626.50 projected-starting-lineup C-AVI total, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
   "projected_power": {
-    "rank": 8,
+    "rank": 7,
     "league_size": 16,
-    "score": 625.8,
+    "score": 626.5,
     "team_above": {
-      "name": "All Hail King Jesus",
-      "rank": 7,
-      "score": 626.0,
-      "gap": 0.20000000000004547
+      "name": "Ravens Regime",
+      "rank": 6,
+      "score": 640.3,
+      "gap": 13.799999999999955
     },
     "team_below": {
-      "name": "Badland Banditos",
-      "rank": 9,
-      "score": 618.6,
-      "gap": 7.199999999999932
+      "name": "All Hail King Jesus",
+      "rank": 8,
+      "score": 625.3,
+      "gap": 1.2000000000000455
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 791.0,
+    "score": 791.2,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -52,46 +52,43 @@
     "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Colby Parkinson's 45.3 C-AVI baseline; a replacement near 51.6 C-AVI would directly attack the 0.20-point projected gap to All Hail King Jesus.",
+    "Raise the TE slot above Colby Parkinson's 44.8 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 13.80-point projected gap to Ravens Regime.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
-    "franchise_name": "Badland Banditos",
-    "projected_rank": 9,
-    "projected_score": 618.6,
+    "franchise_name": "All Hail King Jesus",
+    "projected_rank": 8,
+    "projected_score": 625.3,
     "latest_trade": {
-      "transaction_id": "1375593798167461888",
-      "created_at": "2026-06-24T19:33:48.082000+00:00",
+      "transaction_id": "1382466797541818368",
+      "created_at": "2026-07-13T18:44:38.827000+00:00",
       "counterparties": [
-        "Crimson Tide Pods"
+        "Ravens Regime"
       ],
       "players_received": [
-        "Kenneth Walker"
+        "Isiah Pacheco"
       ],
       "players_sent": [
-        "Chris Rodriguez"
+        "Derrick Henry"
       ],
       "picks_received": [
-        "2027 Round 3 (Crimson Tide Pods)"
+        "2026 Round 1 (Southside Savages)"
       ],
-      "picks_sent": [
-        "2026 Round 1 (Corgi Loaf Baking Co.)",
-        "2026 Round 1 (All Hail King Jesus)"
-      ],
-      "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+      "picks_sent": [],
+      "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.6 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
     },
-    "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+    "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.6 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #8 of 16 at 625.80 lineup C-AVI. All Hail King Jesus is immediately above at 626.00, a gap of 0.20. Badland Banditos is immediately behind at 618.60."
+      "body": "Projected #7 of 16 at 626.50 lineup C-AVI. Ravens Regime is immediately above at 640.30, a gap of 13.80. All Hail King Jesus is immediately behind at 625.30."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Drake Maye (98.3), Josh Jacobs (87.9), and Tetairoa McMillan (85.6)."
+      "body": "The three highest C-AVI starters are Drake Maye (98.3), Josh Jacobs (88.0), and Tetairoa McMillan (85.6)."
     },
     {
       "id": "latest-trade-impact",
@@ -101,21 +98,21 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Colby Parkinson's 45.3 C-AVI baseline; a replacement near 51.6 C-AVI would directly attack the 0.20-point projected gap to All Hail King Jesus. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the TE slot above Colby Parkinson's 44.8 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 13.80-point projected gap to Ravens Regime. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the TE slot above Colby Parkinson's 45.3 C-AVI baseline; a replacement near 51.6 C-AVI would directly attack the 0.20-point projected gap to All Hail King Jesus.",
+        "Raise the TE slot above Colby Parkinson's 44.8 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 13.80-point projected gap to Ravens Regime.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.5 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.6 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Colby Parkinson is the lowest C-AVI starter in the verified championship lineup at 45.3. Any acquisition should clear that exact lineup threshold."
+      "body": "Colby Parkinson is the lowest C-AVI starter in the verified championship lineup at 44.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -135,7 +132,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-21",
+    "source_last_updated": "2026-07-22",
     "external_sources_used": false,
     "conversation_context_used": false
   }

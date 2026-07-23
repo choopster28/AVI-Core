@@ -6,32 +6,32 @@
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:30:14.328020-06:00",
+  "generated_at": "2026-07-22T23:04:24.143397-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
-  "executive_summary": "Big Balder Brand is projected #2 of 16 with a 707.10 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Big Balder Brand is projected #2 of 16 with a 706.90 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 2,
     "league_size": 16,
-    "score": 707.1,
+    "score": 706.9,
     "team_above": {
       "name": "Conquistadors",
       "rank": 1,
-      "score": 723.7,
-      "gap": 16.600000000000023
+      "score": 723.0,
+      "gap": 16.100000000000023
     },
     "team_below": {
       "name": "Mile High Royal Lions",
       "rank": 3,
-      "score": 671.0,
-      "gap": 36.10000000000002
+      "score": 670.3,
+      "gap": 36.60000000000002
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 2,
     "league_size": 16,
-    "score": 996.4,
+    "score": 996.5,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -55,13 +55,13 @@
     "summary": "On July 15, Big Balder Brand traded with DMV Fantasy and acquired Trey McBride while sending George Kittle, Brenton Strange, 2026 Round 1 (Conquistadors), 2028 Round 1 (Big Balder Brand). Trey McBride is now the current TE starter at 99.5 C-AVI and 92.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 16.60-point projected gap to Conquistadors.",
+    "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 78.5 C-AVI would directly attack the 16.10-point projected gap to Conquistadors.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Mile High Royal Lions",
     "projected_rank": 3,
-    "projected_score": 671.0,
+    "projected_score": 670.3,
     "latest_trade": {
       "transaction_id": "1289441913560141824",
       "created_at": "2025-10-30T01:56:58.167000+00:00",
@@ -79,15 +79,15 @@
         "2026 Round 2 (Conquistadors)",
         "2027 Round 1 (Big Balder Brand)"
       ],
-      "summary": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (Conquistadors), 2027 Round 1 (Big Balder Brand). Marvin Harrison is now the current FLEX starter at 72.8 C-AVI and 79.8 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "summary": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (Conquistadors), 2027 Round 1 (Big Balder Brand). Marvin Harrison is now on the current roster at 72.5 C-AVI and 79.7 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
     },
-    "summary": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (Conquistadors), 2027 Round 1 (Big Balder Brand). Marvin Harrison is now the current FLEX starter at 72.8 C-AVI and 79.8 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+    "summary": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (Conquistadors), 2027 Round 1 (Big Balder Brand). Marvin Harrison is now on the current roster at 72.5 C-AVI and 79.7 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #2 of 16 at 707.10 lineup C-AVI. Conquistadors is immediately above at 723.70, a gap of 16.60. Mile High Royal Lions is immediately behind at 671.00."
+      "body": "Projected #2 of 16 at 706.90 lineup C-AVI. Conquistadors is immediately above at 723.00, a gap of 16.10. Mile High Royal Lions is immediately behind at 670.30."
     },
     {
       "id": "competitive-core",
@@ -102,16 +102,16 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 16.60-point projected gap to Conquistadors. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 78.5 C-AVI would directly attack the 16.10-point projected gap to Conquistadors. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 16.60-point projected gap to Conquistadors.",
+        "Raise the FLEX slot above Chris Godwin's 62.4 C-AVI baseline; a replacement near 78.5 C-AVI would directly attack the 16.10-point projected gap to Conquistadors.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (Conquistadors), 2027 Round 1 (Big Balder Brand). Marvin Harrison is now the current FLEX starter at 72.8 C-AVI and 79.8 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "body": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (Conquistadors), 2027 Round 1 (Big Balder Brand). Marvin Harrison is now on the current roster at 72.5 C-AVI and 79.7 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
     },
     {
       "id": "lineup-pressure-point",
@@ -136,7 +136,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-21",
+    "source_last_updated": "2026-07-22",
     "external_sources_used": false,
     "conversation_context_used": false
   }

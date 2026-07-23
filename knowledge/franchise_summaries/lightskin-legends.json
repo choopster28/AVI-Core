@@ -6,19 +6,19 @@
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
   "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T10:30:14.328020-06:00",
+  "generated_at": "2026-07-22T23:04:24.143397-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
-  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #16 of 16 with a 487.10 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
+  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #16 of 16 with a 486.90 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
     "rank": 16,
     "league_size": 16,
-    "score": 487.1,
+    "score": 486.9,
     "team_above": {
       "name": "Northside Kings",
       "rank": 15,
-      "score": 491.5,
-      "gap": 4.399999999999977
+      "score": 491.1,
+      "gap": 4.2000000000000455
     },
     "team_below": null,
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
@@ -47,7 +47,7 @@
     "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
-    "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.2 C-AVI would directly attack the 4.40-point projected gap to Northside Kings.",
+    "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.0 C-AVI would directly attack the 4.20-point projected gap to Northside Kings.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": null,
@@ -55,12 +55,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #16 of 16 at 487.10 lineup C-AVI. Northside Kings is immediately above at 491.50, a gap of 4.40."
+      "body": "Projected #16 of 16 at 486.90 lineup C-AVI. Northside Kings is immediately above at 491.10, a gap of 4.20."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jonathan Taylor (97.6), Chase Brown (96.3), and Javonte Williams (81.0)."
+      "body": "The three highest C-AVI starters are Jonathan Taylor (97.6), Chase Brown (96.3), and Javonte Williams (81.1)."
     },
     {
       "id": "latest-trade-impact",
@@ -70,9 +70,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.2 C-AVI would directly attack the 4.40-point projected gap to Northside Kings. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.0 C-AVI would directly attack the 4.20-point projected gap to Northside Kings. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.2 C-AVI would directly attack the 4.40-point projected gap to Northside Kings.",
+        "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.0 C-AVI would directly attack the 4.20-point projected gap to Northside Kings.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
@@ -104,7 +104,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-21",
+    "source_last_updated": "2026-07-22",
     "external_sources_used": false,
     "conversation_context_used": false
   }
