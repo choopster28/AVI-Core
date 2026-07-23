@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: avi-data-updates
+  cancel-in-progress: false
+
 jobs:
   daily-avi-update:
     runs-on: ubuntu-latest
@@ -76,7 +80,25 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No AVI data changes to commit."
-          else
-            git commit -m "Automated daily AVI update"
-            git push
+            exit 0
           fi
+
+          git commit -m "Automated daily AVI update"
+
+          for attempt in 1 2 3; do
+            echo "Push attempt ${attempt} of 3"
+
+            git fetch origin main
+            git rebase origin/main
+
+            if git push origin HEAD:main; then
+              echo "AVI data pushed successfully."
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed."
+            sleep 5
+          done
+
+          echo "Failed to push AVI data after 3 attempts."
+          exit 1
