@@ -3,8 +3,11 @@ from __future__ import annotations
 
 TEAMS_PER_ROUND = 16
 MAX_DRAFT_ROUNDS = 10
-STARTING_PICK_VALUE = 95.0
-PICK_DEPRECIATION = 1.2
+
+STARTING_PICK_VALUE = 91.0
+EARLY_PICK_DEPRECIATION = 1.2
+MID_PICK_DEPRECIATION = 1.7
+LATE_PICK_DEPRECIATION = 2.0
 MINIMUM_PICK_VALUE = 0.0
 
 
@@ -39,11 +42,39 @@ def draft_pick_value(
         slot=slot,
     )
 
-    value = (
-        STARTING_PICK_VALUE
-        - PICK_DEPRECIATION
-        * (overall_number - 1)
-    )
+    if overall_number <= 4:
+        value = (
+            STARTING_PICK_VALUE
+            - EARLY_PICK_DEPRECIATION
+            * (overall_number - 1)
+        )
+    elif overall_number <= 11:
+        value_at_1_04 = (
+            STARTING_PICK_VALUE
+            - EARLY_PICK_DEPRECIATION * 3
+        )
+
+        value = (
+            value_at_1_04
+            - MID_PICK_DEPRECIATION
+            * (overall_number - 4)
+        )
+    else:
+        value_at_1_04 = (
+            STARTING_PICK_VALUE
+            - EARLY_PICK_DEPRECIATION * 3
+        )
+
+        value_at_1_11 = (
+            value_at_1_04
+            - MID_PICK_DEPRECIATION * 7
+        )
+
+        value = (
+            value_at_1_11
+            - LATE_PICK_DEPRECIATION
+            * (overall_number - 11)
+        )
 
     return round(
         max(
