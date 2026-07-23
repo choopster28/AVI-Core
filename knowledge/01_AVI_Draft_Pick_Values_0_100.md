@@ -5,10 +5,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - 2026 slots are assigned from the current Sleeper draft order.
 - 2026 ownership is rebuilt from the current Sleeper traded_picks export.
 - Future-year original teams and current owners remain TBD until that season's draft order is established.
-- Pick AVI resets to 91.0 at 1.01 for each draft year.
-- Picks 1.02 through 1.04 depreciate by 1.2 per pick.
-- Picks 1.05 through 1.11 depreciate by 1.7 per pick.
-- Picks 1.12 and later depreciate by 2.0 per overall pick.
+- Pick AVI resets to 95.0 at 1.01 for each draft year.
+- Every subsequent pick depreciates by 1.2.
 - Draft-pick AVI is floored at 0.0.
 - Rounds above the configured 10-round league depth are excluded.
 

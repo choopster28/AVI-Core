@@ -9,7 +9,7 @@
     2027,
     2028
   ],
-  "generated_at_utc": "2026-07-22T21:42:36.271265+00:00",
+  "generated_at_utc": "2026-07-23T07:45:56.160631+00:00",
   "league_id": "1312185568032997376",
   "max_rounds": 10,
   "pick_count": 480,
@@ -18,7 +18,7 @@
       "avi_category": "Elite Franchise Asset",
       "current_owner_roster_id": 9,
       "current_owner_team": "Big Balder Brand",
-      "draft_pick_avi": 95.0,
+      "draft_pick_avi": 91.0,
       "original_roster_id": 12,
       "original_team": "DMV Fantasy",
       "pick_id": "2026_01_01",
@@ -29,10 +29,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": 3,
       "current_owner_team": "Ravens Regime ",
-      "draft_pick_avi": 93.8,
+      "draft_pick_avi": 89.8,
       "original_roster_id": 5,
       "original_team": "Northside Kings ",
       "pick_id": "2026_01_02",
@@ -43,10 +43,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": 11,
       "current_owner_team": "Corgi Loaf Baking Co. ",
-      "draft_pick_avi": 92.6,
+      "draft_pick_avi": 88.6,
       "original_roster_id": 2,
       "original_team": "Rapid Valley Annihilation",
       "pick_id": "2026_01_03",
@@ -57,10 +57,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": 16,
       "current_owner_team": "Crimson Tide Pods",
-      "draft_pick_avi": 91.4,
+      "draft_pick_avi": 87.4,
       "original_roster_id": 11,
       "original_team": "Corgi Loaf Baking Co. ",
       "pick_id": "2026_01_04",
@@ -71,10 +71,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": 8,
       "current_owner_team": "All Hail King Jesus",
-      "draft_pick_avi": 90.2,
+      "draft_pick_avi": 85.7,
       "original_roster_id": 13,
       "original_team": "Southside Savages",
       "pick_id": "2026_01_05",
@@ -88,7 +88,7 @@
       "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": 14,
       "current_owner_team": "Phalhala or Bust",
-      "draft_pick_avi": 89.0,
+      "draft_pick_avi": 84.0,
       "original_roster_id": 14,
       "original_team": "Phalhala or Bust",
       "pick_id": "2026_01_06",
@@ -102,7 +102,7 @@
       "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": 16,
       "current_owner_team": "Crimson Tide Pods",
-      "draft_pick_avi": 87.8,
+      "draft_pick_avi": 82.3,
       "original_roster_id": 16,
       "original_team": "Crimson Tide Pods",
       "pick_id": "2026_01_07",
@@ -116,7 +116,7 @@
       "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": 3,
       "current_owner_team": "Ravens Regime ",
-      "draft_pick_avi": 86.6,
+      "draft_pick_avi": 80.6,
       "original_roster_id": 3,
       "original_team": "Ravens Regime ",
       "pick_id": "2026_01_08",
@@ -127,10 +127,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": 5,
       "current_owner_team": "Northside Kings ",
-      "draft_pick_avi": 85.4,
+      "draft_pick_avi": 78.9,
       "original_roster_id": 4,
       "original_team": "Mile High Royal Lions",
       "pick_id": "2026_01_09",
@@ -141,10 +141,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": 2,
       "current_owner_team": "Rapid Valley Annihilation",
-      "draft_pick_avi": 84.2,
+      "draft_pick_avi": 77.2,
       "original_roster_id": 7,
       "original_team": "Badland Banditos ",
       "pick_id": "2026_01_10",
@@ -155,10 +155,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": 15,
       "current_owner_team": "Gringo’s Goblins ",
-      "draft_pick_avi": 83.0,
+      "draft_pick_avi": 75.5,
       "original_roster_id": 15,
       "original_team": "Gringo’s Goblins ",
       "pick_id": "2026_01_11",
@@ -169,10 +169,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": 16,
       "current_owner_team": "Crimson Tide Pods",
-      "draft_pick_avi": 81.8,
+      "draft_pick_avi": 73.5,
       "original_roster_id": 8,
       "original_team": "All Hail King Jesus",
       "pick_id": "2026_01_12",
@@ -183,10 +183,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": 6,
       "current_owner_team": "Lightskin Legends ✊🏽",
-      "draft_pick_avi": 80.6,
+      "draft_pick_avi": 71.5,
       "original_roster_id": 6,
       "original_team": "Lightskin Legends ✊🏽",
       "pick_id": "2026_01_13",
@@ -197,10 +197,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": 12,
       "current_owner_team": "DMV Fantasy",
-      "draft_pick_avi": 79.4,
+      "draft_pick_avi": 69.5,
       "original_roster_id": 9,
       "original_team": "Big Balder Brand",
       "pick_id": "2026_01_14",
@@ -211,10 +211,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": 12,
       "current_owner_team": "DMV Fantasy",
-      "draft_pick_avi": 78.2,
+      "draft_pick_avi": 67.5,
       "original_roster_id": 1,
       "original_team": "Conquistadors",
       "pick_id": "2026_01_15",
@@ -225,10 +225,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": 10,
       "current_owner_team": "SmokyValleyWheatWarriors",
-      "draft_pick_avi": 77.0,
+      "draft_pick_avi": 65.5,
       "original_roster_id": 10,
       "original_team": "SmokyValleyWheatWarriors",
       "pick_id": "2026_01_16",
@@ -239,10 +239,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": 12,
       "current_owner_team": "DMV Fantasy",
-      "draft_pick_avi": 75.8,
+      "draft_pick_avi": 63.5,
       "original_roster_id": 12,
       "original_team": "DMV Fantasy",
       "pick_id": "2026_02_01",
@@ -253,10 +253,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": 5,
       "current_owner_team": "Northside Kings ",
-      "draft_pick_avi": 74.6,
+      "draft_pick_avi": 61.5,
       "original_roster_id": 5,
       "original_team": "Northside Kings ",
       "pick_id": "2026_02_02",
@@ -267,10 +267,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": 5,
       "current_owner_team": "Northside Kings ",
-      "draft_pick_avi": 73.4,
+      "draft_pick_avi": 59.5,
       "original_roster_id": 2,
       "original_team": "Rapid Valley Annihilation",
       "pick_id": "2026_02_03",
@@ -281,10 +281,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": 3,
       "current_owner_team": "Ravens Regime ",
-      "draft_pick_avi": 72.2,
+      "draft_pick_avi": 57.5,
       "original_roster_id": 11,
       "original_team": "Corgi Loaf Baking Co. ",
       "pick_id": "2026_02_04",
@@ -295,10 +295,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": 3,
       "current_owner_team": "Ravens Regime ",
-      "draft_pick_avi": 71.0,
+      "draft_pick_avi": 55.5,
       "original_roster_id": 13,
       "original_team": "Southside Savages",
       "pick_id": "2026_02_05",
@@ -312,7 +312,7 @@
       "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": 14,
       "current_owner_team": "Phalhala or Bust",
-      "draft_pick_avi": 69.8,
+      "draft_pick_avi": 53.5,
       "original_roster_id": 14,
       "original_team": "Phalhala or Bust",
       "pick_id": "2026_02_06",
@@ -326,7 +326,7 @@
       "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": 16,
       "current_owner_team": "Crimson Tide Pods",
-      "draft_pick_avi": 68.6,
+      "draft_pick_avi": 51.5,
       "original_roster_id": 16,
       "original_team": "Crimson Tide Pods",
       "pick_id": "2026_02_07",
@@ -337,10 +337,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": 14,
       "current_owner_team": "Phalhala or Bust",
-      "draft_pick_avi": 67.4,
+      "draft_pick_avi": 49.5,
       "original_roster_id": 3,
       "original_team": "Ravens Regime ",
       "pick_id": "2026_02_08",
@@ -351,10 +351,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": 4,
       "current_owner_team": "Mile High Royal Lions",
-      "draft_pick_avi": 66.2,
+      "draft_pick_avi": 47.5,
       "original_roster_id": 4,
       "original_team": "Mile High Royal Lions",
       "pick_id": "2026_02_09",
@@ -365,10 +365,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": 2,
       "current_owner_team": "Rapid Valley Annihilation",
-      "draft_pick_avi": 65.0,
+      "draft_pick_avi": 45.5,
       "original_roster_id": 7,
       "original_team": "Badland Banditos ",
       "pick_id": "2026_02_10",
@@ -379,10 +379,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": 15,
       "current_owner_team": "Gringo’s Goblins ",
-      "draft_pick_avi": 63.8,
+      "draft_pick_avi": 43.5,
       "original_roster_id": 15,
       "original_team": "Gringo’s Goblins ",
       "pick_id": "2026_02_11",
@@ -393,10 +393,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": 8,
       "current_owner_team": "All Hail King Jesus",
-      "draft_pick_avi": 62.6,
+      "draft_pick_avi": 41.5,
       "original_roster_id": 8,
       "original_team": "All Hail King Jesus",
       "pick_id": "2026_02_12",
@@ -407,10 +407,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": 16,
       "current_owner_team": "Crimson Tide Pods",
-      "draft_pick_avi": 61.4,
+      "draft_pick_avi": 39.5,
       "original_roster_id": 6,
       "original_team": "Lightskin Legends ✊🏽",
       "pick_id": "2026_02_13",
@@ -421,10 +421,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": 12,
       "current_owner_team": "DMV Fantasy",
-      "draft_pick_avi": 60.2,
+      "draft_pick_avi": 37.5,
       "original_roster_id": 9,
       "original_team": "Big Balder Brand",
       "pick_id": "2026_02_14",
@@ -435,10 +435,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": 12,
       "current_owner_team": "DMV Fantasy",
-      "draft_pick_avi": 59.0,
+      "draft_pick_avi": 35.5,
       "original_roster_id": 1,
       "original_team": "Conquistadors",
       "pick_id": "2026_02_15",
@@ -449,10 +449,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": 10,
       "current_owner_team": "SmokyValleyWheatWarriors",
-      "draft_pick_avi": 57.8,
+      "draft_pick_avi": 33.5,
       "original_roster_id": 10,
       "original_team": "SmokyValleyWheatWarriors",
       "pick_id": "2026_02_16",
@@ -463,10 +463,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": 12,
       "current_owner_team": "DMV Fantasy",
-      "draft_pick_avi": 56.6,
+      "draft_pick_avi": 31.5,
       "original_roster_id": 12,
       "original_team": "DMV Fantasy",
       "pick_id": "2026_03_01",
@@ -477,10 +477,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": 10,
       "current_owner_team": "SmokyValleyWheatWarriors",
-      "draft_pick_avi": 55.4,
+      "draft_pick_avi": 29.5,
       "original_roster_id": 5,
       "original_team": "Northside Kings ",
       "pick_id": "2026_03_02",
@@ -491,10 +491,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": 2,
       "current_owner_team": "Rapid Valley Annihilation",
-      "draft_pick_avi": 54.2,
+      "draft_pick_avi": 27.5,
       "original_roster_id": 2,
       "original_team": "Rapid Valley Annihilation",
       "pick_id": "2026_03_03",
@@ -505,10 +505,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": 5,
       "current_owner_team": "Northside Kings ",
-      "draft_pick_avi": 53.0,
+      "draft_pick_avi": 25.5,
       "original_roster_id": 11,
       "original_team": "Corgi Loaf Baking Co. ",
       "pick_id": "2026_03_04",
@@ -519,10 +519,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": 13,
       "current_owner_team": "Southside Savages",
-      "draft_pick_avi": 51.8,
+      "draft_pick_avi": 23.5,
       "original_roster_id": 13,
       "original_team": "Southside Savages",
       "pick_id": "2026_03_05",
@@ -533,10 +533,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": 14,
       "current_owner_team": "Phalhala or Bust",
-      "draft_pick_avi": 50.6,
+      "draft_pick_avi": 21.5,
       "original_roster_id": 14,
       "original_team": "Phalhala or Bust",
       "pick_id": "2026_03_06",
@@ -547,10 +547,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": 16,
       "current_owner_team": "Crimson Tide Pods",
-      "draft_pick_avi": 49.4,
+      "draft_pick_avi": 19.5,
       "original_roster_id": 16,
       "original_team": "Crimson Tide Pods",
       "pick_id": "2026_03_07",
@@ -561,10 +561,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": 3,
       "current_owner_team": "Ravens Regime ",
-      "draft_pick_avi": 48.2,
+      "draft_pick_avi": 17.5,
       "original_roster_id": 3,
       "original_team": "Ravens Regime ",
       "pick_id": "2026_03_08",
@@ -575,10 +575,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": 4,
       "current_owner_team": "Mile High Royal Lions",
-      "draft_pick_avi": 47.0,
+      "draft_pick_avi": 15.5,
       "original_roster_id": 4,
       "original_team": "Mile High Royal Lions",
       "pick_id": "2026_03_09",
@@ -589,10 +589,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": 5,
       "current_owner_team": "Northside Kings ",
-      "draft_pick_avi": 45.8,
+      "draft_pick_avi": 13.5,
       "original_roster_id": 7,
       "original_team": "Badland Banditos ",
       "pick_id": "2026_03_10",
@@ -603,10 +603,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": 15,
       "current_owner_team": "Gringo’s Goblins ",
-      "draft_pick_avi": 44.6,
+      "draft_pick_avi": 11.5,
       "original_roster_id": 15,
       "original_team": "Gringo’s Goblins ",
       "pick_id": "2026_03_11",
@@ -617,10 +617,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": 4,
       "current_owner_team": "Mile High Royal Lions",
-      "draft_pick_avi": 43.4,
+      "draft_pick_avi": 9.5,
       "original_roster_id": 8,
       "original_team": "All Hail King Jesus",
       "pick_id": "2026_03_12",
@@ -631,10 +631,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": 6,
       "current_owner_team": "Lightskin Legends ✊🏽",
-      "draft_pick_avi": 42.2,
+      "draft_pick_avi": 7.5,
       "original_roster_id": 6,
       "original_team": "Lightskin Legends ✊🏽",
       "pick_id": "2026_03_13",
@@ -645,10 +645,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": 9,
       "current_owner_team": "Big Balder Brand",
-      "draft_pick_avi": 41.0,
+      "draft_pick_avi": 5.5,
       "original_roster_id": 9,
       "original_team": "Big Balder Brand",
       "pick_id": "2026_03_14",
@@ -659,10 +659,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": 10,
       "current_owner_team": "SmokyValleyWheatWarriors",
-      "draft_pick_avi": 39.8,
+      "draft_pick_avi": 3.5,
       "original_roster_id": 1,
       "original_team": "Conquistadors",
       "pick_id": "2026_03_15",
@@ -673,10 +673,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": 10,
       "current_owner_team": "SmokyValleyWheatWarriors",
-      "draft_pick_avi": 38.6,
+      "draft_pick_avi": 1.5,
       "original_roster_id": 10,
       "original_team": "SmokyValleyWheatWarriors",
       "pick_id": "2026_03_16",
@@ -687,10 +687,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 12,
       "current_owner_team": "DMV Fantasy",
-      "draft_pick_avi": 37.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 12,
       "original_team": "DMV Fantasy",
       "pick_id": "2026_04_01",
@@ -701,10 +701,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 5,
       "current_owner_team": "Northside Kings ",
-      "draft_pick_avi": 36.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 5,
       "original_team": "Northside Kings ",
       "pick_id": "2026_04_02",
@@ -715,10 +715,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 2,
       "current_owner_team": "Rapid Valley Annihilation",
-      "draft_pick_avi": 35.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 2,
       "original_team": "Rapid Valley Annihilation",
       "pick_id": "2026_04_03",
@@ -729,10 +729,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 11,
       "current_owner_team": "Corgi Loaf Baking Co. ",
-      "draft_pick_avi": 33.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 11,
       "original_team": "Corgi Loaf Baking Co. ",
       "pick_id": "2026_04_04",
@@ -743,10 +743,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 13,
       "current_owner_team": "Southside Savages",
-      "draft_pick_avi": 32.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 13,
       "original_team": "Southside Savages",
       "pick_id": "2026_04_05",
@@ -757,10 +757,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 14,
       "current_owner_team": "Phalhala or Bust",
-      "draft_pick_avi": 31.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 14,
       "original_team": "Phalhala or Bust",
       "pick_id": "2026_04_06",
@@ -771,10 +771,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 16,
       "current_owner_team": "Crimson Tide Pods",
-      "draft_pick_avi": 30.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 16,
       "original_team": "Crimson Tide Pods",
       "pick_id": "2026_04_07",
@@ -785,10 +785,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 3,
       "current_owner_team": "Ravens Regime ",
-      "draft_pick_avi": 29.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 3,
       "original_team": "Ravens Regime ",
       "pick_id": "2026_04_08",
@@ -799,10 +799,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 4,
       "current_owner_team": "Mile High Royal Lions",
-      "draft_pick_avi": 27.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 4,
       "original_team": "Mile High Royal Lions",
       "pick_id": "2026_04_09",
@@ -813,10 +813,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 14,
       "current_owner_team": "Phalhala or Bust",
-      "draft_pick_avi": 26.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 7,
       "original_team": "Badland Banditos ",
       "pick_id": "2026_04_10",
@@ -827,10 +827,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 15,
       "current_owner_team": "Gringo’s Goblins ",
-      "draft_pick_avi": 25.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 15,
       "original_team": "Gringo’s Goblins ",
       "pick_id": "2026_04_11",
@@ -841,10 +841,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 8,
       "current_owner_team": "All Hail King Jesus",
-      "draft_pick_avi": 24.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 8,
       "original_team": "All Hail King Jesus",
       "pick_id": "2026_04_12",
@@ -855,10 +855,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 6,
       "current_owner_team": "Lightskin Legends ✊🏽",
-      "draft_pick_avi": 23.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 6,
       "original_team": "Lightskin Legends ✊🏽",
       "pick_id": "2026_04_13",
@@ -869,10 +869,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 9,
       "current_owner_team": "Big Balder Brand",
-      "draft_pick_avi": 21.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 9,
       "original_team": "Big Balder Brand",
       "pick_id": "2026_04_14",
@@ -883,10 +883,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 1,
       "current_owner_team": "Conquistadors",
-      "draft_pick_avi": 20.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 1,
       "original_team": "Conquistadors",
       "pick_id": "2026_04_15",
@@ -897,10 +897,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 10,
       "current_owner_team": "SmokyValleyWheatWarriors",
-      "draft_pick_avi": 19.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 10,
       "original_team": "SmokyValleyWheatWarriors",
       "pick_id": "2026_04_16",
@@ -911,10 +911,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 12,
       "current_owner_team": "DMV Fantasy",
-      "draft_pick_avi": 18.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 12,
       "original_team": "DMV Fantasy",
       "pick_id": "2026_05_01",
@@ -925,10 +925,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 5,
       "current_owner_team": "Northside Kings ",
-      "draft_pick_avi": 17.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 5,
       "original_team": "Northside Kings ",
       "pick_id": "2026_05_02",
@@ -939,10 +939,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 2,
       "current_owner_team": "Rapid Valley Annihilation",
-      "draft_pick_avi": 15.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 2,
       "original_team": "Rapid Valley Annihilation",
       "pick_id": "2026_05_03",
@@ -953,10 +953,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 11,
       "current_owner_team": "Corgi Loaf Baking Co. ",
-      "draft_pick_avi": 14.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 11,
       "original_team": "Corgi Loaf Baking Co. ",
       "pick_id": "2026_05_04",
@@ -967,10 +967,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 13,
       "current_owner_team": "Southside Savages",
-      "draft_pick_avi": 13.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 13,
       "original_team": "Southside Savages",
       "pick_id": "2026_05_05",
@@ -981,10 +981,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 14,
       "current_owner_team": "Phalhala or Bust",
-      "draft_pick_avi": 12.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 14,
       "original_team": "Phalhala or Bust",
       "pick_id": "2026_05_06",
@@ -995,10 +995,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 16,
       "current_owner_team": "Crimson Tide Pods",
-      "draft_pick_avi": 11.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 16,
       "original_team": "Crimson Tide Pods",
       "pick_id": "2026_05_07",
@@ -1009,10 +1009,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 3,
       "current_owner_team": "Ravens Regime ",
-      "draft_pick_avi": 9.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 3,
       "original_team": "Ravens Regime ",
       "pick_id": "2026_05_08",
@@ -1023,10 +1023,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 4,
       "current_owner_team": "Mile High Royal Lions",
-      "draft_pick_avi": 8.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 4,
       "original_team": "Mile High Royal Lions",
       "pick_id": "2026_05_09",
@@ -1037,10 +1037,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 7,
       "current_owner_team": "Badland Banditos ",
-      "draft_pick_avi": 7.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 7,
       "original_team": "Badland Banditos ",
       "pick_id": "2026_05_10",
@@ -1051,10 +1051,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 15,
       "current_owner_team": "Gringo’s Goblins ",
-      "draft_pick_avi": 6.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 15,
       "original_team": "Gringo’s Goblins ",
       "pick_id": "2026_05_11",
@@ -1065,10 +1065,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 8,
       "current_owner_team": "All Hail King Jesus",
-      "draft_pick_avi": 5.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 8,
       "original_team": "All Hail King Jesus",
       "pick_id": "2026_05_12",
@@ -1079,10 +1079,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 6,
       "current_owner_team": "Lightskin Legends ✊🏽",
-      "draft_pick_avi": 3.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 6,
       "original_team": "Lightskin Legends ✊🏽",
       "pick_id": "2026_05_13",
@@ -1093,10 +1093,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 9,
       "current_owner_team": "Big Balder Brand",
-      "draft_pick_avi": 2.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 9,
       "original_team": "Big Balder Brand",
       "pick_id": "2026_05_14",
@@ -1107,10 +1107,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 1,
       "current_owner_team": "Conquistadors",
-      "draft_pick_avi": 1.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 1,
       "original_team": "Conquistadors",
       "pick_id": "2026_05_15",
@@ -1121,10 +1121,10 @@
       "validation_status": "verified_current_draft_order"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": 10,
       "current_owner_team": "SmokyValleyWheatWarriors",
-      "draft_pick_avi": 0.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": 10,
       "original_team": "SmokyValleyWheatWarriors",
       "pick_id": "2026_05_16",
@@ -2258,7 +2258,7 @@
       "avi_category": "Elite Franchise Asset",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 95.0,
+      "draft_pick_avi": 91.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_01",
@@ -2269,10 +2269,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 93.8,
+      "draft_pick_avi": 89.8,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_02",
@@ -2283,10 +2283,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 92.6,
+      "draft_pick_avi": 88.6,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_03",
@@ -2297,10 +2297,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 91.4,
+      "draft_pick_avi": 87.4,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_04",
@@ -2311,10 +2311,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 90.2,
+      "draft_pick_avi": 85.7,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_05",
@@ -2328,7 +2328,7 @@
       "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 89.0,
+      "draft_pick_avi": 84.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_06",
@@ -2342,7 +2342,7 @@
       "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 87.8,
+      "draft_pick_avi": 82.3,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_07",
@@ -2356,7 +2356,7 @@
       "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 86.6,
+      "draft_pick_avi": 80.6,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_08",
@@ -2367,10 +2367,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 85.4,
+      "draft_pick_avi": 78.9,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_09",
@@ -2381,10 +2381,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 84.2,
+      "draft_pick_avi": 77.2,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_10",
@@ -2395,10 +2395,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 83.0,
+      "draft_pick_avi": 75.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_11",
@@ -2409,10 +2409,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 81.8,
+      "draft_pick_avi": 73.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_12",
@@ -2423,10 +2423,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 80.6,
+      "draft_pick_avi": 71.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_13",
@@ -2437,10 +2437,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 79.4,
+      "draft_pick_avi": 69.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_14",
@@ -2451,10 +2451,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 78.2,
+      "draft_pick_avi": 67.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_15",
@@ -2465,10 +2465,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 77.0,
+      "draft_pick_avi": 65.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_01_16",
@@ -2479,10 +2479,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 75.8,
+      "draft_pick_avi": 63.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_01",
@@ -2493,10 +2493,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 74.6,
+      "draft_pick_avi": 61.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_02",
@@ -2507,10 +2507,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 73.4,
+      "draft_pick_avi": 59.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_03",
@@ -2521,10 +2521,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 72.2,
+      "draft_pick_avi": 57.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_04",
@@ -2535,10 +2535,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 71.0,
+      "draft_pick_avi": 55.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_05",
@@ -2552,7 +2552,7 @@
       "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 69.8,
+      "draft_pick_avi": 53.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_06",
@@ -2566,7 +2566,7 @@
       "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 68.6,
+      "draft_pick_avi": 51.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_07",
@@ -2577,10 +2577,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 67.4,
+      "draft_pick_avi": 49.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_08",
@@ -2591,10 +2591,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 66.2,
+      "draft_pick_avi": 47.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_09",
@@ -2605,10 +2605,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 65.0,
+      "draft_pick_avi": 45.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_10",
@@ -2619,10 +2619,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 63.8,
+      "draft_pick_avi": 43.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_11",
@@ -2633,10 +2633,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 62.6,
+      "draft_pick_avi": 41.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_12",
@@ -2647,10 +2647,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 61.4,
+      "draft_pick_avi": 39.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_13",
@@ -2661,10 +2661,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 60.2,
+      "draft_pick_avi": 37.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_14",
@@ -2675,10 +2675,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 59.0,
+      "draft_pick_avi": 35.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_15",
@@ -2689,10 +2689,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 57.8,
+      "draft_pick_avi": 33.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_02_16",
@@ -2703,10 +2703,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 56.6,
+      "draft_pick_avi": 31.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_01",
@@ -2717,10 +2717,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 55.4,
+      "draft_pick_avi": 29.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_02",
@@ -2731,10 +2731,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 54.2,
+      "draft_pick_avi": 27.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_03",
@@ -2745,10 +2745,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 53.0,
+      "draft_pick_avi": 25.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_04",
@@ -2759,10 +2759,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 51.8,
+      "draft_pick_avi": 23.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_05",
@@ -2773,10 +2773,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 50.6,
+      "draft_pick_avi": 21.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_06",
@@ -2787,10 +2787,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 49.4,
+      "draft_pick_avi": 19.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_07",
@@ -2801,10 +2801,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 48.2,
+      "draft_pick_avi": 17.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_08",
@@ -2815,10 +2815,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 47.0,
+      "draft_pick_avi": 15.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_09",
@@ -2829,10 +2829,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 45.8,
+      "draft_pick_avi": 13.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_10",
@@ -2843,10 +2843,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 44.6,
+      "draft_pick_avi": 11.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_11",
@@ -2857,10 +2857,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 43.4,
+      "draft_pick_avi": 9.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_12",
@@ -2871,10 +2871,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 42.2,
+      "draft_pick_avi": 7.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_13",
@@ -2885,10 +2885,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 41.0,
+      "draft_pick_avi": 5.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_14",
@@ -2899,10 +2899,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 39.8,
+      "draft_pick_avi": 3.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_15",
@@ -2913,10 +2913,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 38.6,
+      "draft_pick_avi": 1.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_03_16",
@@ -2927,10 +2927,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 37.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_01",
@@ -2941,10 +2941,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 36.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_02",
@@ -2955,10 +2955,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 35.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_03",
@@ -2969,10 +2969,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 33.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_04",
@@ -2983,10 +2983,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 32.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_05",
@@ -2997,10 +2997,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 31.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_06",
@@ -3011,10 +3011,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 30.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_07",
@@ -3025,10 +3025,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 29.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_08",
@@ -3039,10 +3039,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 27.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_09",
@@ -3053,10 +3053,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 26.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_10",
@@ -3067,10 +3067,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 25.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_11",
@@ -3081,10 +3081,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 24.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_12",
@@ -3095,10 +3095,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 23.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_13",
@@ -3109,10 +3109,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 21.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_14",
@@ -3123,10 +3123,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 20.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_15",
@@ -3137,10 +3137,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 19.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_04_16",
@@ -3151,10 +3151,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 18.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_01",
@@ -3165,10 +3165,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 17.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_02",
@@ -3179,10 +3179,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 15.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_03",
@@ -3193,10 +3193,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 14.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_04",
@@ -3207,10 +3207,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 13.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_05",
@@ -3221,10 +3221,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 12.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_06",
@@ -3235,10 +3235,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 11.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_07",
@@ -3249,10 +3249,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 9.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_08",
@@ -3263,10 +3263,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 8.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_09",
@@ -3277,10 +3277,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 7.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_10",
@@ -3291,10 +3291,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 6.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_11",
@@ -3305,10 +3305,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 5.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_12",
@@ -3319,10 +3319,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 3.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_13",
@@ -3333,10 +3333,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 2.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_14",
@@ -3347,10 +3347,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 1.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_15",
@@ -3361,10 +3361,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 0.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2027_05_16",
@@ -4498,7 +4498,7 @@
       "avi_category": "Elite Franchise Asset",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 95.0,
+      "draft_pick_avi": 91.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_01",
@@ -4509,10 +4509,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 93.8,
+      "draft_pick_avi": 89.8,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_02",
@@ -4523,10 +4523,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 92.6,
+      "draft_pick_avi": 88.6,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_03",
@@ -4537,10 +4537,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 91.4,
+      "draft_pick_avi": 87.4,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_04",
@@ -4551,10 +4551,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Elite Franchise Asset",
+      "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 90.2,
+      "draft_pick_avi": 85.7,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_05",
@@ -4568,7 +4568,7 @@
       "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 89.0,
+      "draft_pick_avi": 84.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_06",
@@ -4582,7 +4582,7 @@
       "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 87.8,
+      "draft_pick_avi": 82.3,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_07",
@@ -4596,7 +4596,7 @@
       "avi_category": "Blue-Chip Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 86.6,
+      "draft_pick_avi": 80.6,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_08",
@@ -4607,10 +4607,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 85.4,
+      "draft_pick_avi": 78.9,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_09",
@@ -4621,10 +4621,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 84.2,
+      "draft_pick_avi": 77.2,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_10",
@@ -4635,10 +4635,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 83.0,
+      "draft_pick_avi": 75.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_11",
@@ -4649,10 +4649,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 81.8,
+      "draft_pick_avi": 73.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_12",
@@ -4663,10 +4663,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Blue-Chip Starter",
+      "avi_category": "Premium Starter",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 80.6,
+      "draft_pick_avi": 71.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_13",
@@ -4677,10 +4677,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 79.4,
+      "draft_pick_avi": 69.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_14",
@@ -4691,10 +4691,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 78.2,
+      "draft_pick_avi": 67.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_15",
@@ -4705,10 +4705,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 77.0,
+      "draft_pick_avi": 65.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_01_16",
@@ -4719,10 +4719,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 75.8,
+      "draft_pick_avi": 63.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_01",
@@ -4733,10 +4733,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 74.6,
+      "draft_pick_avi": 61.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_02",
@@ -4747,10 +4747,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 73.4,
+      "draft_pick_avi": 59.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_03",
@@ -4761,10 +4761,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 72.2,
+      "draft_pick_avi": 57.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_04",
@@ -4775,10 +4775,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Premium Starter",
+      "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 71.0,
+      "draft_pick_avi": 55.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_05",
@@ -4792,7 +4792,7 @@
       "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 69.8,
+      "draft_pick_avi": 53.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_06",
@@ -4806,7 +4806,7 @@
       "avi_category": "Useful Starter / High-Value Depth",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 68.6,
+      "draft_pick_avi": 51.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_07",
@@ -4817,10 +4817,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 67.4,
+      "draft_pick_avi": 49.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_08",
@@ -4831,10 +4831,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 66.2,
+      "draft_pick_avi": 47.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_09",
@@ -4845,10 +4845,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 65.0,
+      "draft_pick_avi": 45.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_10",
@@ -4859,10 +4859,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 63.8,
+      "draft_pick_avi": 43.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_11",
@@ -4873,10 +4873,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 62.6,
+      "draft_pick_avi": 41.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_12",
@@ -4887,10 +4887,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 61.4,
+      "draft_pick_avi": 39.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_13",
@@ -4901,10 +4901,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 60.2,
+      "draft_pick_avi": 37.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_14",
@@ -4915,10 +4915,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Rosterable Depth / Upside Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 59.0,
+      "draft_pick_avi": 35.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_15",
@@ -4929,10 +4929,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 57.8,
+      "draft_pick_avi": 33.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_02_16",
@@ -4943,10 +4943,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 56.6,
+      "draft_pick_avi": 31.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_01",
@@ -4957,10 +4957,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 55.4,
+      "draft_pick_avi": 29.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_02",
@@ -4971,10 +4971,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 54.2,
+      "draft_pick_avi": 27.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_03",
@@ -4985,10 +4985,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 53.0,
+      "draft_pick_avi": 25.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_04",
@@ -4999,10 +4999,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 51.8,
+      "draft_pick_avi": 23.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_05",
@@ -5013,10 +5013,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Useful Starter / High-Value Depth",
+      "avi_category": "Speculative Stash",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 50.6,
+      "draft_pick_avi": 21.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_06",
@@ -5027,10 +5027,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 49.4,
+      "draft_pick_avi": 19.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_07",
@@ -5041,10 +5041,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 48.2,
+      "draft_pick_avi": 17.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_08",
@@ -5055,10 +5055,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 47.0,
+      "draft_pick_avi": 15.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_09",
@@ -5069,10 +5069,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 45.8,
+      "draft_pick_avi": 13.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_10",
@@ -5083,10 +5083,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 44.6,
+      "draft_pick_avi": 11.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_11",
@@ -5097,10 +5097,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 43.4,
+      "draft_pick_avi": 9.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_12",
@@ -5111,10 +5111,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 42.2,
+      "draft_pick_avi": 7.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_13",
@@ -5125,10 +5125,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 41.0,
+      "draft_pick_avi": 5.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_14",
@@ -5139,10 +5139,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 39.8,
+      "draft_pick_avi": 3.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_15",
@@ -5153,10 +5153,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "Replacement / Watch List",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 38.6,
+      "draft_pick_avi": 1.5,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_03_16",
@@ -5167,10 +5167,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 37.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_01",
@@ -5181,10 +5181,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 36.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_02",
@@ -5195,10 +5195,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Rosterable Depth / Upside Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 35.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_03",
@@ -5209,10 +5209,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 33.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_04",
@@ -5223,10 +5223,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 32.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_05",
@@ -5237,10 +5237,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 31.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_06",
@@ -5251,10 +5251,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 30.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_07",
@@ -5265,10 +5265,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 29.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_08",
@@ -5279,10 +5279,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 27.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_09",
@@ -5293,10 +5293,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 26.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_10",
@@ -5307,10 +5307,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 25.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_11",
@@ -5321,10 +5321,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 24.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_12",
@@ -5335,10 +5335,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 23.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_13",
@@ -5349,10 +5349,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 21.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_14",
@@ -5363,10 +5363,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Speculative Stash",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 20.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_15",
@@ -5377,10 +5377,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 19.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_04_16",
@@ -5391,10 +5391,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 18.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_01",
@@ -5405,10 +5405,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 17.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_02",
@@ -5419,10 +5419,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 15.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_03",
@@ -5433,10 +5433,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 14.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_04",
@@ -5447,10 +5447,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 13.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_05",
@@ -5461,10 +5461,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 12.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_06",
@@ -5475,10 +5475,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 11.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_07",
@@ -5489,10 +5489,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 9.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_08",
@@ -5503,10 +5503,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 8.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_09",
@@ -5517,10 +5517,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 7.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_10",
@@ -5531,10 +5531,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 6.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_11",
@@ -5545,10 +5545,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 5.0,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_12",
@@ -5559,10 +5559,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 3.8,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_13",
@@ -5573,10 +5573,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 2.6,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_14",
@@ -5587,10 +5587,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 1.4,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_15",
@@ -5601,10 +5601,10 @@
       "validation_status": "future_order_tbd"
     },
     {
-      "avi_category": "Replacement / Watch List",
+      "avi_category": "No Current AVI",
       "current_owner_roster_id": null,
       "current_owner_team": "TBD",
-      "draft_pick_avi": 0.2,
+      "draft_pick_avi": 0.0,
       "original_roster_id": null,
       "original_team": "TBD",
       "pick_id": "2028_05_16",
