@@ -82,11 +82,17 @@ Elite upside:
 
 ## Draft Picks
 
-First-round pick value:
+First-round rookie-pick AVI resets to `91.0` at `1.01` for each draft year.
 
-`95.0 - 1.2 × (slot - 1)`
+Depreciation curve:
 
-Valid slots are 1.01 through 1.16.
+- Picks `1.02` through `1.04` depreciate by `1.2` per pick.
+- Picks `1.05` through `1.11` depreciate by `1.7` per pick.
+- Picks `1.12` through `1.16` depreciate by `2.0` per pick.
+- All picks after `1.16` continue depreciating by `2.0` per overall pick.
+- Draft-pick AVI is floored at `0.0`.
+
+Valid rounds are 1 through 10, with 16 picks per round.
 
 ## Update Rules
 
