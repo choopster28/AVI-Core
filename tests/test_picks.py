@@ -10,8 +10,13 @@ from avi.valuation.picks import (
 
 
 def test_first_round_pick_values() -> None:
-    assert first_round_pick_value(1) == 95.0
-    assert first_round_pick_value(16) == 77.0
+    assert first_round_pick_value(1) == 91.0
+    assert first_round_pick_value(2) == 89.8
+    assert first_round_pick_value(4) == 87.4
+    assert first_round_pick_value(5) == 85.7
+    assert first_round_pick_value(11) == 75.5
+    assert first_round_pick_value(12) == 73.5
+    assert first_round_pick_value(16) == 65.5
 
 
 def test_draft_pick_overall_number() -> None:
@@ -31,21 +36,53 @@ def test_draft_pick_overall_number() -> None:
     ) == 160
 
 
-def test_draft_pick_value_depreciates_across_rounds() -> None:
+def test_draft_pick_value_uses_segmented_depreciation_curve() -> None:
     assert draft_pick_value(
         round_number=1,
         slot=1,
-    ) == 95.0
+    ) == 91.0
 
     assert draft_pick_value(
         round_number=1,
         slot=2,
-    ) == 93.8
+    ) == 89.8
+
+    assert draft_pick_value(
+        round_number=1,
+        slot=4,
+    ) == 87.4
+
+    assert draft_pick_value(
+        round_number=1,
+        slot=5,
+    ) == 85.7
+
+    assert draft_pick_value(
+        round_number=1,
+        slot=11,
+    ) == 75.5
+
+    assert draft_pick_value(
+        round_number=1,
+        slot=12,
+    ) == 73.5
+
+
+def test_draft_pick_value_continues_depreciating_across_rounds() -> None:
+    assert draft_pick_value(
+        round_number=1,
+        slot=16,
+    ) == 65.5
 
     assert draft_pick_value(
         round_number=2,
         slot=1,
-    ) == 75.8
+    ) == 63.5
+
+    assert draft_pick_value(
+        round_number=2,
+        slot=2,
+    ) == 61.5
 
 
 def test_draft_pick_value_floors_at_zero() -> None:
@@ -61,7 +98,17 @@ def test_pick_tables() -> None:
 
     assert len(first_round) == 16
     assert len(full_table) == 160
-    assert full_table["1.01"] == 95.0
+
+    assert first_round["1.01"] == 91.0
+    assert first_round["1.04"] == 87.4
+    assert first_round["1.05"] == 85.7
+    assert first_round["1.11"] == 75.5
+    assert first_round["1.12"] == 73.5
+    assert first_round["1.16"] == 65.5
+
+    assert full_table["1.01"] == 91.0
+    assert full_table["1.16"] == 65.5
+    assert full_table["2.01"] == 63.5
     assert full_table["10.16"] == 0.0
 
 
