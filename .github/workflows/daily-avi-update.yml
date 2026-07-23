@@ -55,12 +55,25 @@ jobs:
           python -m pip install pytest
 
       - name: Run tests
+        id: tests
         run: python -m pytest -q
 
       - name: Run complete AVI daily update
+        id: daily_update
+        continue-on-error: true
         run: python -m avi.cli daily-update
 
+      - name: Report update result
+        if: always() && steps.tests.outcome == 'success'
+        run: |
+          echo "Daily update outcome: ${{ steps.daily_update.outcome }}"
+
+          if [ "${{ steps.daily_update.outcome }}" = "failure" ]; then
+            echo "::warning::The complete AVI daily update did not finish. Successfully written files will still be uploaded and committed."
+          fi
+
       - name: Upload complete AVI snapshot
+        if: always() && steps.tests.outcome == 'success'
         uses: actions/upload-artifact@v4
         with:
           name: avi-daily-snapshot
@@ -72,6 +85,9 @@ jobs:
           retention-days: 30
 
       - name: Commit updated AVI data
+        if: always() && steps.tests.outcome == 'success'
+        env:
+          UPDATE_OUTCOME: ${{ steps.daily_update.outcome }}
         run: |
           git config user.name "avi-automation"
           git config user.email "avi-automation@users.noreply.github.com"
@@ -83,13 +99,24 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Automated daily AVI update"
+          if [ "$UPDATE_OUTCOME" = "success" ]; then
+            COMMIT_MESSAGE="Automated daily AVI update"
+          else
+            COMMIT_MESSAGE="Automated partial AVI update"
+          fi
+
+          git commit -m "$COMMIT_MESSAGE"
 
           for attempt in 1 2 3; do
             echo "Push attempt ${attempt} of 3"
 
             git fetch origin main
-            git rebase origin/main
+
+            if ! git rebase origin/main; then
+              echo "Rebase conflict detected."
+              git rebase --abort
+              exit 1
+            fi
 
             if git push origin HEAD:main; then
               echo "AVI data pushed successfully."
