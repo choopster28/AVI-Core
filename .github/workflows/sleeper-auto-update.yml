@@ -10,6 +10,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: avi-data-updates
+  cancel-in-progress: false
+
 jobs:
   auto-sleeper-update:
     runs-on: ubuntu-latest
@@ -81,7 +85,25 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No Sleeper data changes to commit."
-          else
-            git commit -m "Automatic Sleeper update"
-            git push
+            exit 0
           fi
+
+          git commit -m "Automatic Sleeper update"
+
+          for attempt in 1 2 3; do
+            echo "Push attempt ${attempt} of 3"
+
+            git fetch origin main
+            git rebase origin/main
+
+            if git push origin HEAD:main; then
+              echo "Sleeper data pushed successfully."
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed."
+            sleep 5
+          done
+
+          echo "Failed to push Sleeper data after 3 attempts."
+          exit 1
