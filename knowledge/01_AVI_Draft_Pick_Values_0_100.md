@@ -5,8 +5,10 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - 2026 slots are assigned from the current Sleeper draft order.
 - 2026 ownership is rebuilt from the current Sleeper traded_picks export.
 - Future-year original teams and current owners remain TBD until that season's draft order is established.
-- Pick AVI resets to 95.0 at 1.01 for each draft year.
-- Every subsequent pick depreciates by 1.2.
+- Pick AVI resets to 91.0 at 1.01 for each draft year.
+- Picks 1.02 through 1.04 depreciate by 1.2 per pick.
+- Picks 1.05 through 1.11 depreciate by 1.7 per pick.
+- Picks 1.12 and later depreciate by 2.0 per overall pick.
 - Draft-pick AVI is floored at 0.0.
 - Rounds above the configured 10-round league depth are excluded.
 
@@ -19,7 +21,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 12
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
-- Draft Pick AVI: 95.0
+- Draft Pick AVI: 91.0
 - AVI category: Elite Franchise Asset
 - Validation status: verified_current_draft_order
 
@@ -32,8 +34,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 5
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
-- Draft Pick AVI: 93.8
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 89.8
+- AVI category: Blue-Chip Starter
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.03 | 2026_01_03
@@ -45,8 +47,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 2
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
-- Draft Pick AVI: 92.6
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 88.6
+- AVI category: Blue-Chip Starter
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.04 | 2026_01_04
@@ -58,8 +60,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 11
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
-- Draft Pick AVI: 91.4
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 87.4
+- AVI category: Blue-Chip Starter
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.05 | 2026_01_05
@@ -71,8 +73,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 13
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
-- Draft Pick AVI: 90.2
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 85.7
+- AVI category: Blue-Chip Starter
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.06 | 2026_01_06
@@ -84,7 +86,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 14
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
-- Draft Pick AVI: 89.0
+- Draft Pick AVI: 84.0
 - AVI category: Blue-Chip Starter
 - Validation status: verified_current_draft_order
 
@@ -97,7 +99,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 16
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
-- Draft Pick AVI: 87.8
+- Draft Pick AVI: 82.3
 - AVI category: Blue-Chip Starter
 - Validation status: verified_current_draft_order
 
@@ -110,7 +112,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 3
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
-- Draft Pick AVI: 86.6
+- Draft Pick AVI: 80.6
 - AVI category: Blue-Chip Starter
 - Validation status: verified_current_draft_order
 
@@ -123,8 +125,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 4
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
-- Draft Pick AVI: 85.4
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 78.9
+- AVI category: Premium Starter
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.10 | 2026_01_10
@@ -136,8 +138,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 7
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
-- Draft Pick AVI: 84.2
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 77.2
+- AVI category: Premium Starter
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.11 | 2026_01_11
@@ -149,8 +151,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 15
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
-- Draft Pick AVI: 83.0
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 75.5
+- AVI category: Premium Starter
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.12 | 2026_01_12
@@ -162,8 +164,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 8
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
-- Draft Pick AVI: 81.8
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 73.5
+- AVI category: Premium Starter
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.13 | 2026_01_13
@@ -175,8 +177,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 6
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
-- Draft Pick AVI: 80.6
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 71.5
+- AVI category: Premium Starter
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.14 | 2026_01_14
@@ -188,8 +190,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 9
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
-- Draft Pick AVI: 79.4
-- AVI category: Premium Starter
+- Draft Pick AVI: 69.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.15 | 2026_01_15
@@ -201,8 +203,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 1
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
-- Draft Pick AVI: 78.2
-- AVI category: Premium Starter
+- Draft Pick AVI: 67.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 1.16 | 2026_01_16
@@ -214,8 +216,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 10
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
-- Draft Pick AVI: 77.0
-- AVI category: Premium Starter
+- Draft Pick AVI: 65.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.01 | 2026_02_01
@@ -227,8 +229,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 12
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
-- Draft Pick AVI: 75.8
-- AVI category: Premium Starter
+- Draft Pick AVI: 63.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.02 | 2026_02_02
@@ -240,8 +242,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 5
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
-- Draft Pick AVI: 74.6
-- AVI category: Premium Starter
+- Draft Pick AVI: 61.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.03 | 2026_02_03
@@ -253,8 +255,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 2
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
-- Draft Pick AVI: 73.4
-- AVI category: Premium Starter
+- Draft Pick AVI: 59.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.04 | 2026_02_04
@@ -266,8 +268,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 11
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
-- Draft Pick AVI: 72.2
-- AVI category: Premium Starter
+- Draft Pick AVI: 57.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.05 | 2026_02_05
@@ -279,8 +281,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 13
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
-- Draft Pick AVI: 71.0
-- AVI category: Premium Starter
+- Draft Pick AVI: 55.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.06 | 2026_02_06
@@ -292,7 +294,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 14
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
-- Draft Pick AVI: 69.8
+- Draft Pick AVI: 53.5
 - AVI category: Useful Starter / High-Value Depth
 - Validation status: verified_current_draft_order
 
@@ -305,7 +307,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 16
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
-- Draft Pick AVI: 68.6
+- Draft Pick AVI: 51.5
 - AVI category: Useful Starter / High-Value Depth
 - Validation status: verified_current_draft_order
 
@@ -318,8 +320,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 3
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
-- Draft Pick AVI: 67.4
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 49.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.09 | 2026_02_09
@@ -331,8 +333,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 4
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
-- Draft Pick AVI: 66.2
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 47.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.10 | 2026_02_10
@@ -344,8 +346,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 7
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
-- Draft Pick AVI: 65.0
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 45.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.11 | 2026_02_11
@@ -357,8 +359,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 15
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
-- Draft Pick AVI: 63.8
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 43.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.12 | 2026_02_12
@@ -370,8 +372,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 8
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
-- Draft Pick AVI: 62.6
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 41.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.13 | 2026_02_13
@@ -383,8 +385,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 6
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
-- Draft Pick AVI: 61.4
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 39.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.14 | 2026_02_14
@@ -396,8 +398,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 9
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
-- Draft Pick AVI: 60.2
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 37.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.15 | 2026_02_15
@@ -409,8 +411,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 1
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
-- Draft Pick AVI: 59.0
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 35.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 2.16 | 2026_02_16
@@ -422,8 +424,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 10
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
-- Draft Pick AVI: 57.8
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 33.5
+- AVI category: Speculative Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.01 | 2026_03_01
@@ -435,8 +437,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 12
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
-- Draft Pick AVI: 56.6
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 31.5
+- AVI category: Speculative Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.02 | 2026_03_02
@@ -448,8 +450,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 5
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
-- Draft Pick AVI: 55.4
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 29.5
+- AVI category: Speculative Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.03 | 2026_03_03
@@ -461,8 +463,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 2
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
-- Draft Pick AVI: 54.2
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 27.5
+- AVI category: Speculative Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.04 | 2026_03_04
@@ -474,8 +476,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 11
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
-- Draft Pick AVI: 53.0
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 25.5
+- AVI category: Speculative Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.05 | 2026_03_05
@@ -487,8 +489,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 13
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
-- Draft Pick AVI: 51.8
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 23.5
+- AVI category: Speculative Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.06 | 2026_03_06
@@ -500,8 +502,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 14
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
-- Draft Pick AVI: 50.6
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 21.5
+- AVI category: Speculative Stash
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.07 | 2026_03_07
@@ -513,8 +515,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 16
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
-- Draft Pick AVI: 49.4
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 19.5
+- AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.08 | 2026_03_08
@@ -526,8 +528,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 3
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
-- Draft Pick AVI: 48.2
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 17.5
+- AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.09 | 2026_03_09
@@ -539,8 +541,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 4
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
-- Draft Pick AVI: 47.0
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 15.5
+- AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.10 | 2026_03_10
@@ -552,8 +554,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 7
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
-- Draft Pick AVI: 45.8
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 13.5
+- AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.11 | 2026_03_11
@@ -565,8 +567,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 15
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
-- Draft Pick AVI: 44.6
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 11.5
+- AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.12 | 2026_03_12
@@ -578,8 +580,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 8
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
-- Draft Pick AVI: 43.4
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 9.5
+- AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.13 | 2026_03_13
@@ -591,8 +593,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 6
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
-- Draft Pick AVI: 42.2
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 7.5
+- AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.14 | 2026_03_14
@@ -604,8 +606,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 9
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
-- Draft Pick AVI: 41.0
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 5.5
+- AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.15 | 2026_03_15
@@ -617,8 +619,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 1
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
-- Draft Pick AVI: 39.8
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 3.5
+- AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 3.16 | 2026_03_16
@@ -630,8 +632,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 10
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
-- Draft Pick AVI: 38.6
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 1.5
+- AVI category: Replacement / Watch List
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.01 | 2026_04_01
@@ -643,8 +645,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 12
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
-- Draft Pick AVI: 37.4
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.02 | 2026_04_02
@@ -656,8 +658,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 5
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
-- Draft Pick AVI: 36.2
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.03 | 2026_04_03
@@ -669,8 +671,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 2
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
-- Draft Pick AVI: 35.0
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.04 | 2026_04_04
@@ -682,8 +684,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 11
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
-- Draft Pick AVI: 33.8
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.05 | 2026_04_05
@@ -695,8 +697,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 13
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
-- Draft Pick AVI: 32.6
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.06 | 2026_04_06
@@ -708,8 +710,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 14
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
-- Draft Pick AVI: 31.4
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.07 | 2026_04_07
@@ -721,8 +723,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 16
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
-- Draft Pick AVI: 30.2
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.08 | 2026_04_08
@@ -734,8 +736,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 3
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
-- Draft Pick AVI: 29.0
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.09 | 2026_04_09
@@ -747,8 +749,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 4
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
-- Draft Pick AVI: 27.8
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.10 | 2026_04_10
@@ -760,8 +762,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 7
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
-- Draft Pick AVI: 26.6
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.11 | 2026_04_11
@@ -773,8 +775,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 15
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
-- Draft Pick AVI: 25.4
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.12 | 2026_04_12
@@ -786,8 +788,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 8
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
-- Draft Pick AVI: 24.2
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.13 | 2026_04_13
@@ -799,8 +801,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 6
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
-- Draft Pick AVI: 23.0
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.14 | 2026_04_14
@@ -812,8 +814,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 9
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
-- Draft Pick AVI: 21.8
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.15 | 2026_04_15
@@ -825,8 +827,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 1
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
-- Draft Pick AVI: 20.6
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 4.16 | 2026_04_16
@@ -838,8 +840,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 10
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
-- Draft Pick AVI: 19.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.01 | 2026_05_01
@@ -851,8 +853,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 12
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
-- Draft Pick AVI: 18.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.02 | 2026_05_02
@@ -864,8 +866,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 5
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
-- Draft Pick AVI: 17.0
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.03 | 2026_05_03
@@ -877,8 +879,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 2
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
-- Draft Pick AVI: 15.8
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.04 | 2026_05_04
@@ -890,8 +892,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 11
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
-- Draft Pick AVI: 14.6
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.05 | 2026_05_05
@@ -903,8 +905,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 13
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
-- Draft Pick AVI: 13.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.06 | 2026_05_06
@@ -916,8 +918,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 14
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
-- Draft Pick AVI: 12.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.07 | 2026_05_07
@@ -929,8 +931,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 16
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
-- Draft Pick AVI: 11.0
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.08 | 2026_05_08
@@ -942,8 +944,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 3
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
-- Draft Pick AVI: 9.8
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.09 | 2026_05_09
@@ -955,8 +957,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 4
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
-- Draft Pick AVI: 8.6
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.10 | 2026_05_10
@@ -968,8 +970,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 7
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
-- Draft Pick AVI: 7.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.11 | 2026_05_11
@@ -981,8 +983,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 15
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
-- Draft Pick AVI: 6.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.12 | 2026_05_12
@@ -994,8 +996,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 8
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
-- Draft Pick AVI: 5.0
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.13 | 2026_05_13
@@ -1007,8 +1009,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 6
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
-- Draft Pick AVI: 3.8
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.14 | 2026_05_14
@@ -1020,8 +1022,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 9
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
-- Draft Pick AVI: 2.6
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.15 | 2026_05_15
@@ -1033,8 +1035,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 1
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
-- Draft Pick AVI: 1.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 5.16 | 2026_05_16
@@ -1046,8 +1048,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: 10
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
-- Draft Pick AVI: 0.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: verified_current_draft_order
 
 ## PICK: 2026 6.01 | 2026_06_01
@@ -2099,7 +2101,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 95.0
+- Draft Pick AVI: 91.0
 - AVI category: Elite Franchise Asset
 - Validation status: future_order_tbd
 
@@ -2112,8 +2114,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 93.8
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 89.8
+- AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.03 | 2027_01_03
@@ -2125,8 +2127,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 92.6
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 88.6
+- AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.04 | 2027_01_04
@@ -2138,8 +2140,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 91.4
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 87.4
+- AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.05 | 2027_01_05
@@ -2151,8 +2153,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 90.2
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 85.7
+- AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.06 | 2027_01_06
@@ -2164,7 +2166,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 89.0
+- Draft Pick AVI: 84.0
 - AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
@@ -2177,7 +2179,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 87.8
+- Draft Pick AVI: 82.3
 - AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
@@ -2190,7 +2192,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 86.6
+- Draft Pick AVI: 80.6
 - AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
@@ -2203,8 +2205,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 85.4
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 78.9
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.10 | 2027_01_10
@@ -2216,8 +2218,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 84.2
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 77.2
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.11 | 2027_01_11
@@ -2229,8 +2231,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 83.0
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 75.5
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.12 | 2027_01_12
@@ -2242,8 +2244,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 81.8
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 73.5
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.13 | 2027_01_13
@@ -2255,8 +2257,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 80.6
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 71.5
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.14 | 2027_01_14
@@ -2268,8 +2270,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 79.4
-- AVI category: Premium Starter
+- Draft Pick AVI: 69.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.15 | 2027_01_15
@@ -2281,8 +2283,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 78.2
-- AVI category: Premium Starter
+- Draft Pick AVI: 67.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2027 1.16 | 2027_01_16
@@ -2294,8 +2296,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 77.0
-- AVI category: Premium Starter
+- Draft Pick AVI: 65.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.01 | 2027_02_01
@@ -2307,8 +2309,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 75.8
-- AVI category: Premium Starter
+- Draft Pick AVI: 63.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.02 | 2027_02_02
@@ -2320,8 +2322,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 74.6
-- AVI category: Premium Starter
+- Draft Pick AVI: 61.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.03 | 2027_02_03
@@ -2333,8 +2335,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 73.4
-- AVI category: Premium Starter
+- Draft Pick AVI: 59.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.04 | 2027_02_04
@@ -2346,8 +2348,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 72.2
-- AVI category: Premium Starter
+- Draft Pick AVI: 57.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.05 | 2027_02_05
@@ -2359,8 +2361,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 71.0
-- AVI category: Premium Starter
+- Draft Pick AVI: 55.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.06 | 2027_02_06
@@ -2372,7 +2374,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 69.8
+- Draft Pick AVI: 53.5
 - AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
@@ -2385,7 +2387,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 68.6
+- Draft Pick AVI: 51.5
 - AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
@@ -2398,8 +2400,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 67.4
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 49.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.09 | 2027_02_09
@@ -2411,8 +2413,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 66.2
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 47.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.10 | 2027_02_10
@@ -2424,8 +2426,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 65.0
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 45.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.11 | 2027_02_11
@@ -2437,8 +2439,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 63.8
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 43.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.12 | 2027_02_12
@@ -2450,8 +2452,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 62.6
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 41.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.13 | 2027_02_13
@@ -2463,8 +2465,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 61.4
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 39.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.14 | 2027_02_14
@@ -2476,8 +2478,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 60.2
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 37.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.15 | 2027_02_15
@@ -2489,8 +2491,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 59.0
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 35.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 2.16 | 2027_02_16
@@ -2502,8 +2504,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 57.8
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 33.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.01 | 2027_03_01
@@ -2515,8 +2517,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 56.6
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 31.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.02 | 2027_03_02
@@ -2528,8 +2530,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 55.4
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 29.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.03 | 2027_03_03
@@ -2541,8 +2543,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 54.2
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 27.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.04 | 2027_03_04
@@ -2554,8 +2556,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 53.0
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 25.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.05 | 2027_03_05
@@ -2567,8 +2569,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 51.8
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 23.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.06 | 2027_03_06
@@ -2580,8 +2582,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 50.6
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 21.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.07 | 2027_03_07
@@ -2593,8 +2595,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 49.4
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 19.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.08 | 2027_03_08
@@ -2606,8 +2608,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 48.2
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 17.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.09 | 2027_03_09
@@ -2619,8 +2621,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 47.0
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 15.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.10 | 2027_03_10
@@ -2632,8 +2634,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 45.8
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 13.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.11 | 2027_03_11
@@ -2645,8 +2647,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 44.6
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 11.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.12 | 2027_03_12
@@ -2658,8 +2660,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 43.4
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 9.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.13 | 2027_03_13
@@ -2671,8 +2673,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 42.2
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 7.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.14 | 2027_03_14
@@ -2684,8 +2686,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 41.0
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 5.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.15 | 2027_03_15
@@ -2697,8 +2699,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 39.8
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 3.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2027 3.16 | 2027_03_16
@@ -2710,8 +2712,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 38.6
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 1.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.01 | 2027_04_01
@@ -2723,8 +2725,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 37.4
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.02 | 2027_04_02
@@ -2736,8 +2738,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 36.2
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.03 | 2027_04_03
@@ -2749,8 +2751,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 35.0
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.04 | 2027_04_04
@@ -2762,8 +2764,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 33.8
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.05 | 2027_04_05
@@ -2775,8 +2777,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 32.6
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.06 | 2027_04_06
@@ -2788,8 +2790,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 31.4
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.07 | 2027_04_07
@@ -2801,8 +2803,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 30.2
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.08 | 2027_04_08
@@ -2814,8 +2816,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 29.0
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.09 | 2027_04_09
@@ -2827,8 +2829,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 27.8
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.10 | 2027_04_10
@@ -2840,8 +2842,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 26.6
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.11 | 2027_04_11
@@ -2853,8 +2855,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 25.4
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.12 | 2027_04_12
@@ -2866,8 +2868,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 24.2
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.13 | 2027_04_13
@@ -2879,8 +2881,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 23.0
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.14 | 2027_04_14
@@ -2892,8 +2894,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 21.8
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.15 | 2027_04_15
@@ -2905,8 +2907,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 20.6
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 4.16 | 2027_04_16
@@ -2918,8 +2920,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 19.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.01 | 2027_05_01
@@ -2931,8 +2933,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 18.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.02 | 2027_05_02
@@ -2944,8 +2946,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 17.0
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.03 | 2027_05_03
@@ -2957,8 +2959,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 15.8
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.04 | 2027_05_04
@@ -2970,8 +2972,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 14.6
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.05 | 2027_05_05
@@ -2983,8 +2985,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 13.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.06 | 2027_05_06
@@ -2996,8 +2998,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 12.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.07 | 2027_05_07
@@ -3009,8 +3011,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 11.0
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.08 | 2027_05_08
@@ -3022,8 +3024,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 9.8
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.09 | 2027_05_09
@@ -3035,8 +3037,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 8.6
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.10 | 2027_05_10
@@ -3048,8 +3050,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 7.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.11 | 2027_05_11
@@ -3061,8 +3063,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 6.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.12 | 2027_05_12
@@ -3074,8 +3076,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 5.0
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.13 | 2027_05_13
@@ -3087,8 +3089,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 3.8
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.14 | 2027_05_14
@@ -3100,8 +3102,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 2.6
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.15 | 2027_05_15
@@ -3113,8 +3115,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 1.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 5.16 | 2027_05_16
@@ -3126,8 +3128,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 0.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2027 6.01 | 2027_06_01
@@ -4179,7 +4181,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 95.0
+- Draft Pick AVI: 91.0
 - AVI category: Elite Franchise Asset
 - Validation status: future_order_tbd
 
@@ -4192,8 +4194,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 93.8
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 89.8
+- AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.03 | 2028_01_03
@@ -4205,8 +4207,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 92.6
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 88.6
+- AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.04 | 2028_01_04
@@ -4218,8 +4220,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 91.4
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 87.4
+- AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.05 | 2028_01_05
@@ -4231,8 +4233,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 90.2
-- AVI category: Elite Franchise Asset
+- Draft Pick AVI: 85.7
+- AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.06 | 2028_01_06
@@ -4244,7 +4246,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 89.0
+- Draft Pick AVI: 84.0
 - AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
@@ -4257,7 +4259,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 87.8
+- Draft Pick AVI: 82.3
 - AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
@@ -4270,7 +4272,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 86.6
+- Draft Pick AVI: 80.6
 - AVI category: Blue-Chip Starter
 - Validation status: future_order_tbd
 
@@ -4283,8 +4285,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 85.4
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 78.9
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.10 | 2028_01_10
@@ -4296,8 +4298,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 84.2
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 77.2
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.11 | 2028_01_11
@@ -4309,8 +4311,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 83.0
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 75.5
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.12 | 2028_01_12
@@ -4322,8 +4324,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 81.8
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 73.5
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.13 | 2028_01_13
@@ -4335,8 +4337,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 80.6
-- AVI category: Blue-Chip Starter
+- Draft Pick AVI: 71.5
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.14 | 2028_01_14
@@ -4348,8 +4350,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 79.4
-- AVI category: Premium Starter
+- Draft Pick AVI: 69.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.15 | 2028_01_15
@@ -4361,8 +4363,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 78.2
-- AVI category: Premium Starter
+- Draft Pick AVI: 67.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2028 1.16 | 2028_01_16
@@ -4374,8 +4376,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 77.0
-- AVI category: Premium Starter
+- Draft Pick AVI: 65.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.01 | 2028_02_01
@@ -4387,8 +4389,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 75.8
-- AVI category: Premium Starter
+- Draft Pick AVI: 63.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.02 | 2028_02_02
@@ -4400,8 +4402,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 74.6
-- AVI category: Premium Starter
+- Draft Pick AVI: 61.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.03 | 2028_02_03
@@ -4413,8 +4415,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 73.4
-- AVI category: Premium Starter
+- Draft Pick AVI: 59.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.04 | 2028_02_04
@@ -4426,8 +4428,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 72.2
-- AVI category: Premium Starter
+- Draft Pick AVI: 57.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.05 | 2028_02_05
@@ -4439,8 +4441,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 71.0
-- AVI category: Premium Starter
+- Draft Pick AVI: 55.5
+- AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.06 | 2028_02_06
@@ -4452,7 +4454,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 69.8
+- Draft Pick AVI: 53.5
 - AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
@@ -4465,7 +4467,7 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 68.6
+- Draft Pick AVI: 51.5
 - AVI category: Useful Starter / High-Value Depth
 - Validation status: future_order_tbd
 
@@ -4478,8 +4480,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 67.4
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 49.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.09 | 2028_02_09
@@ -4491,8 +4493,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 66.2
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 47.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.10 | 2028_02_10
@@ -4504,8 +4506,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 65.0
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 45.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.11 | 2028_02_11
@@ -4517,8 +4519,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 63.8
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 43.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.12 | 2028_02_12
@@ -4530,8 +4532,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 62.6
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 41.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.13 | 2028_02_13
@@ -4543,8 +4545,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 61.4
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 39.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.14 | 2028_02_14
@@ -4556,8 +4558,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 60.2
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 37.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.15 | 2028_02_15
@@ -4569,8 +4571,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 59.0
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 35.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 2.16 | 2028_02_16
@@ -4582,8 +4584,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 57.8
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 33.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.01 | 2028_03_01
@@ -4595,8 +4597,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 56.6
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 31.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.02 | 2028_03_02
@@ -4608,8 +4610,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 55.4
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 29.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.03 | 2028_03_03
@@ -4621,8 +4623,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 54.2
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 27.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.04 | 2028_03_04
@@ -4634,8 +4636,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 53.0
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 25.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.05 | 2028_03_05
@@ -4647,8 +4649,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 51.8
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 23.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.06 | 2028_03_06
@@ -4660,8 +4662,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 50.6
-- AVI category: Useful Starter / High-Value Depth
+- Draft Pick AVI: 21.5
+- AVI category: Speculative Stash
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.07 | 2028_03_07
@@ -4673,8 +4675,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 49.4
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 19.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.08 | 2028_03_08
@@ -4686,8 +4688,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 48.2
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 17.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.09 | 2028_03_09
@@ -4699,8 +4701,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 47.0
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 15.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.10 | 2028_03_10
@@ -4712,8 +4714,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 45.8
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 13.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.11 | 2028_03_11
@@ -4725,8 +4727,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 44.6
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 11.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.12 | 2028_03_12
@@ -4738,8 +4740,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 43.4
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 9.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.13 | 2028_03_13
@@ -4751,8 +4753,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 42.2
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 7.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.14 | 2028_03_14
@@ -4764,8 +4766,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 41.0
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 5.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.15 | 2028_03_15
@@ -4777,8 +4779,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 39.8
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 3.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2028 3.16 | 2028_03_16
@@ -4790,8 +4792,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 38.6
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 1.5
+- AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.01 | 2028_04_01
@@ -4803,8 +4805,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 37.4
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.02 | 2028_04_02
@@ -4816,8 +4818,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 36.2
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.03 | 2028_04_03
@@ -4829,8 +4831,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 35.0
-- AVI category: Rosterable Depth / Upside Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.04 | 2028_04_04
@@ -4842,8 +4844,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 33.8
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.05 | 2028_04_05
@@ -4855,8 +4857,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 32.6
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.06 | 2028_04_06
@@ -4868,8 +4870,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 31.4
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.07 | 2028_04_07
@@ -4881,8 +4883,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 30.2
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.08 | 2028_04_08
@@ -4894,8 +4896,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 29.0
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.09 | 2028_04_09
@@ -4907,8 +4909,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 27.8
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.10 | 2028_04_10
@@ -4920,8 +4922,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 26.6
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.11 | 2028_04_11
@@ -4933,8 +4935,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 25.4
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.12 | 2028_04_12
@@ -4946,8 +4948,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 24.2
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.13 | 2028_04_13
@@ -4959,8 +4961,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 23.0
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.14 | 2028_04_14
@@ -4972,8 +4974,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 21.8
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.15 | 2028_04_15
@@ -4985,8 +4987,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 20.6
-- AVI category: Speculative Stash
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 4.16 | 2028_04_16
@@ -4998,8 +5000,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 19.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.01 | 2028_05_01
@@ -5011,8 +5013,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 18.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.02 | 2028_05_02
@@ -5024,8 +5026,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 17.0
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.03 | 2028_05_03
@@ -5037,8 +5039,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 15.8
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.04 | 2028_05_04
@@ -5050,8 +5052,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 14.6
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.05 | 2028_05_05
@@ -5063,8 +5065,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 13.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.06 | 2028_05_06
@@ -5076,8 +5078,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 12.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.07 | 2028_05_07
@@ -5089,8 +5091,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 11.0
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.08 | 2028_05_08
@@ -5102,8 +5104,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 9.8
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.09 | 2028_05_09
@@ -5115,8 +5117,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 8.6
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.10 | 2028_05_10
@@ -5128,8 +5130,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 7.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.11 | 2028_05_11
@@ -5141,8 +5143,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 6.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.12 | 2028_05_12
@@ -5154,8 +5156,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 5.0
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.13 | 2028_05_13
@@ -5167,8 +5169,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 3.8
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.14 | 2028_05_14
@@ -5180,8 +5182,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 2.6
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.15 | 2028_05_15
@@ -5193,8 +5195,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 1.4
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 5.16 | 2028_05_16
@@ -5206,8 +5208,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Original roster ID: None
 - Current owner team: TBD
 - Current owner roster ID: None
-- Draft Pick AVI: 0.2
-- AVI category: Replacement / Watch List
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
 - Validation status: future_order_tbd
 
 ## PICK: 2028 6.01 | 2028_06_01
