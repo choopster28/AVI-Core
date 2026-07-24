@@ -784,29 +784,6 @@
       "team_id": "NE"
     },
     {
-      "filename": "jalon-walker.php",
-      "fpid": 27027,
-      "mflid": 17122,
-      "name": "Jalon Walker",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 19.31,
-        "def_ff": 1.9,
-        "def_fr": 1.23,
-        "def_int": 0.22,
-        "def_pd": 3,
-        "def_sack": 5.59,
-        "def_safety": 0,
-        "def_tackle": 45.61,
-        "def_td": 0.1,
-        "def_tlost": 0,
-        "points": 123.98,
-        "points_half": 123.98,
-        "points_ppr": 123.98
-      },
-      "team_id": "ATL"
-    },
-    {
       "filename": "adam-butler.php",
       "fpid": 16796,
       "mflid": 13448,
@@ -1934,6 +1911,29 @@
       "team_id": "CAR"
     },
     {
+      "filename": "jalon-walker.php",
+      "fpid": 27027,
+      "mflid": 17122,
+      "name": "Jalon Walker",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 17.16,
+        "def_ff": 1.45,
+        "def_fr": 1.12,
+        "def_int": 0.11,
+        "def_pd": 3,
+        "def_sack": 5.3,
+        "def_safety": 0,
+        "def_tackle": 37.81,
+        "def_td": 0.1,
+        "def_tlost": 0,
+        "points": 106.66,
+        "points_half": 106.66,
+        "points_ppr": 106.66
+      },
+      "team_id": "ATL"
+    },
+    {
       "filename": "jalyx-hunt.php",
       "fpid": 26337,
       "mflid": 16712,
@@ -2139,6 +2139,29 @@
         "points_ppr": 103.79
       },
       "team_id": "CHI"
+    },
+    {
+      "filename": "nic-scourton.php",
+      "fpid": 27020,
+      "mflid": 17119,
+      "name": "Nic Scourton",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 16.9,
+        "def_ff": 0.9,
+        "def_fr": 0.59,
+        "def_int": 0.21,
+        "def_pd": 2.48,
+        "def_sack": 4.92,
+        "def_safety": 0,
+        "def_tackle": 39.93,
+        "def_td": 0.09,
+        "def_tlost": 0,
+        "points": 103.52,
+        "points_half": 103.52,
+        "points_ppr": 103.52
+      },
+      "team_id": "CAR"
     },
     {
       "filename": "dremont-jones.php",
@@ -2530,29 +2553,6 @@
         "points_ppr": 97.05
       },
       "team_id": "BAL"
-    },
-    {
-      "filename": "nic-scourton.php",
-      "fpid": 27020,
-      "mflid": 17119,
-      "name": "Nic Scourton",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 21.45,
-        "def_ff": 0.95,
-        "def_fr": 0.3,
-        "def_int": 0.11,
-        "def_pd": 1.74,
-        "def_sack": 5.46,
-        "def_safety": 0,
-        "def_tackle": 33.47,
-        "def_td": 0.09,
-        "def_tlost": 0,
-        "points": 96.78,
-        "points_half": 96.78,
-        "points_ppr": 96.78
-      },
-      "team_id": "CAR"
     },
     {
       "filename": "derick-hall.php",

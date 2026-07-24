@@ -9,6 +9,42 @@
         "News",
         "Injury"
       ],
+      "created": "2026-07-24 07:14:46",
+      "created_formated": "Fri, Jul 24th 7:14am UTC",
+      "desc": "The Dolphins placed Darrell Baker Jr. on the PUP list. ",
+      "id": 597796,
+      "impact": "Baker won't be ready to go for the start of training camp. He can be activated at any time. ",
+      "link": "https://www.fantasypros.com/nfl/news/597796/darrell-baker-jr-placed-on-pup-list-.php",
+      "player_id": 24294,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Darrell Baker Jr. placed on PUP list "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-24 07:13:58",
+      "created_formated": "Fri, Jul 24th 7:13am UTC",
+      "desc": "The Dolphins placed Storm Duck on the PUP list. ",
+      "id": 597795,
+      "impact": "Duck missed the end of last season with a knee injury. He can be activated at any time during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/597795/storm-duck-knee-placed-on-pup-list.php",
+      "player_id": 26368,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Storm Duck (knee) placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
       "created": "2026-07-23 22:01:47",
       "created_formated": "Thu, Jul 23rd 10:01pm UTC",
       "desc": "The Browns say Quinshon Judkins will be a full-go at the start of training camp. ",
@@ -408,41 +444,6 @@
       "sport_id": "NFL",
       "team_id": "LV",
       "title": "Fernando Mendoza signs rookie contract with Raiders"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-23 16:36:32",
-      "created_formated": "Thu, Jul 23rd 4:36pm UTC",
-      "desc": "Jonathon Brooks impressed in his first ever training camp practice on Thursday. ",
-      "id": 597684,
-      "impact": "Brooks is coming off back-to-back season-ending injuries. Panthers coach Dave Canales said \"he looks like the guy I remember.\" Brooks will be competing for an immediate role in the Panthers backfield alongside Chuba Hubbard. ",
-      "link": "https://www.fantasypros.com/nfl/news/597684/jonathon-brooks-impresses-first-training-camp-practice-.php",
-      "player_id": 26148,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Jonathon Brooks impresses in first training camp practice "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-23 16:32:59",
-      "created_formated": "Thu, Jul 23rd 4:32pm UTC",
-      "desc": "Tetairoa McMillan was at practice on Thursday. ",
-      "id": 597683,
-      "impact": "The Panthers and Cardinals are the first teams to have veterans report to training camp. McMillan had missed most of the spring due to a foot injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/597683/tetairoa-mcmillan-foot-practices-thursday-.php",
-      "player_id": 25417,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Tetairoa McMillan (foot) practices Thursday "
     }
   ],
   "public_api_limited": true,

@@ -21,21 +21,21 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 670.5
-- championship_lineup_c_avi_avg: 83.81
-- offensive_roster_c_avi_sum: 884.6
-- offensive_roster_c_avi_avg: 73.72
-- offensive_roster_d_avi_sum: 932.7
-- offensive_roster_d_avi_avg: 77.73
+- championship_lineup_c_avi_sum: 670.6
+- championship_lineup_c_avi_avg: 83.83
+- offensive_roster_c_avi_sum: 885.0
+- offensive_roster_c_avi_avg: 73.75
+- offensive_roster_d_avi_sum: 932.9
+- offensive_roster_d_avi_avg: 77.74
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jalen Hurts | C-AVI: 91.0 | D-AVI: 85.5
 - RB: Jahmyr Gibbs | C-AVI: 99.6 | D-AVI: 92.1
-- RB: J.K. Dobbins | C-AVI: 58.8 | D-AVI: 70.7
+- RB: J.K. Dobbins | C-AVI: 58.7 | D-AVI: 70.7
 - WR: Drake London | C-AVI: 97.8 | D-AVI: 90.2
 - WR: Garrett Wilson | C-AVI: 90.2 | D-AVI: 86.8
-- TE: Travis Kelce | C-AVI: 84.6 | D-AVI: 80.3
+- TE: Travis Kelce | C-AVI: 84.8 | D-AVI: 80.4
 - FLEX: DJ Moore | C-AVI: 75.7 | D-AVI: 79.2
 - FLEX: Marvin Harrison | C-AVI: 72.8 | D-AVI: 79.8
 
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 58.8
+- Championship AVI (C-AVI, 0-100): 58.7
 - Dynasty AVI (D-AVI, 0-100): 70.7
 - Projected PPR points: 170.6
 - Category: offense
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 36.0
-- Championship AVI (C-AVI, 0-100): 84.6
-- Dynasty AVI (D-AVI, 0-100): 80.3
+- Championship AVI (C-AVI, 0-100): 84.8
+- Dynasty AVI (D-AVI, 0-100): 80.4
 - Projected PPR points: 183.7
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 44.7
-- Dynasty AVI (D-AVI, 0-100): 63.8
+- Championship AVI (C-AVI, 0-100): 45.0
+- Dynasty AVI (D-AVI, 0-100): 63.9
 - Projected PPR points: 76.4
 - Category: offense
 - Valuation status: PROVISIONAL_V1

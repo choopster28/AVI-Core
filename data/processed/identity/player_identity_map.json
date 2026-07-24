@@ -1207,15 +1207,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "19544",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "SF",
-    "player_name": "Patrick Taylor Jr.",
-    "position": "RB",
-    "sleeper_id": "6963"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "19562",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NO",
@@ -2674,15 +2665,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "25329",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "SEA",
-    "player_name": "Kenny McIntosh",
-    "position": "RB",
-    "sleeper_id": "10216"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "25332",
     "match_method": "exact_name_position_unique",
     "nfl_team": "HOU",
@@ -3943,15 +3925,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "28113",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "LAR",
-    "player_name": "Dean Connors",
-    "position": "RB",
-    "sleeper_id": "13315"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "28115",
     "match_method": "exact_name_position_unique",
     "nfl_team": "HOU",
@@ -4147,6 +4120,15 @@
     "player_name": "Trey Smack",
     "position": "K",
     "sleeper_id": "13545"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28717",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Dontae McMillan",
+    "position": "RB",
+    "sleeper_id": "13852"
   },
   {
     "confidence": "verified",

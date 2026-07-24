@@ -4165,7 +4165,7 @@
     {
       "cbs_player_id": "1737078",
       "player_bye_week": "13",
-      "player_ecr_delta": -21,
+      "player_ecr_delta": null,
       "player_eligibility": "WR",
       "player_filename": "deandre-hopkins.php",
       "player_id": 11606,
@@ -4570,7 +4570,7 @@
     {
       "cbs_player_id": "2966544",
       "player_bye_week": "7",
-      "player_ecr_delta": 27,
+      "player_ecr_delta": 29,
       "player_eligibility": "WR",
       "player_filename": "derius-davis.php",
       "player_id": 25334,
@@ -4624,7 +4624,7 @@
     {
       "cbs_player_id": "3168525",
       "player_bye_week": "6",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 24,
       "player_eligibility": "WR",
       "player_filename": "myles-price.php",
       "player_id": 27805,
@@ -4894,7 +4894,7 @@
     {
       "cbs_player_id": "3163221",
       "player_bye_week": "9",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 30,
       "player_eligibility": "WR",
       "player_filename": "xavier-restrepo.php",
       "player_id": 27066,
@@ -5002,7 +5002,7 @@
     {
       "cbs_player_id": "3126905",
       "player_bye_week": "14",
-      "player_ecr_delta": 20,
+      "player_ecr_delta": null,
       "player_eligibility": "WR",
       "player_filename": "jonathan-mingo.php",
       "player_id": 23030,
@@ -5083,7 +5083,7 @@
     {
       "cbs_player_id": "2969073",
       "player_bye_week": "8",
-      "player_ecr_delta": -23,
+      "player_ecr_delta": -21,
       "player_eligibility": "WR",
       "player_filename": "kevin-austin.php",
       "player_id": 23049,
@@ -5164,7 +5164,7 @@
     {
       "cbs_player_id": "3169784",
       "player_bye_week": "11",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 37,
       "player_eligibility": "WR",
       "player_filename": "montorie-foster-jr.php",
       "player_id": 27910,
@@ -5380,7 +5380,7 @@
     {
       "cbs_player_id": "2804813",
       "player_bye_week": null,
-      "player_ecr_delta": 27,
+      "player_ecr_delta": null,
       "player_eligibility": "WR",
       "player_filename": "gabriel-davis.php",
       "player_id": 19398,
@@ -5569,7 +5569,7 @@
     {
       "cbs_player_id": "2131796",
       "player_bye_week": null,
-      "player_ecr_delta": null,
+      "player_ecr_delta": -29,
       "player_eligibility": "WR",
       "player_filename": "josh-reynolds.php",
       "player_id": 16439,
@@ -6028,7 +6028,7 @@
     {
       "cbs_player_id": "2968474",
       "player_bye_week": "8",
-      "player_ecr_delta": -38,
+      "player_ecr_delta": -34,
       "player_eligibility": "WR",
       "player_filename": "ronnie-bell.php",
       "player_id": 23012,
@@ -6082,7 +6082,7 @@
     {
       "cbs_player_id": "2080270",
       "player_bye_week": null,
-      "player_ecr_delta": -45,
+      "player_ecr_delta": -39,
       "player_eligibility": "WR",
       "player_filename": "zay-jones.php",
       "player_id": 16431,

@@ -1654,7 +1654,7 @@
     {
       "cbs_player_id": "2180355",
       "player_bye_week": "10",
-      "player_ecr_delta": 13,
+      "player_ecr_delta": 11,
       "player_eligibility": "QB",
       "player_filename": "jake-browning.php",
       "player_id": 18557,
@@ -1708,7 +1708,7 @@
     {
       "cbs_player_id": "2865426",
       "player_bye_week": "11",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 7,
       "player_eligibility": "QB",
       "player_filename": "tommy-devito.php",
       "player_id": 25746,
@@ -1870,7 +1870,7 @@
     {
       "cbs_player_id": "3123797",
       "player_bye_week": "14",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -12,
       "player_eligibility": "QB",
       "player_filename": "sam-howell.php",
       "player_id": 23045,
@@ -1951,7 +1951,7 @@
     {
       "cbs_player_id": "1907522",
       "player_bye_week": "6",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -10,
       "player_eligibility": "QB",
       "player_filename": "carson-wentz.php",
       "player_id": 15520,

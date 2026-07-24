@@ -304,7 +304,7 @@
     {
       "cbs_player_id": "26699665",
       "player_bye_week": "11",
-      "player_ecr_delta": -2,
+      "player_ecr_delta": null,
       "player_eligibility": "K",
       "player_filename": "andres-borregales.php",
       "player_id": 27291,
@@ -547,7 +547,7 @@
     {
       "cbs_player_id": "2188356",
       "player_bye_week": "7",
-      "player_ecr_delta": 5,
+      "player_ecr_delta": null,
       "player_eligibility": "K",
       "player_filename": "tyler-bass.php",
       "player_id": 19760,

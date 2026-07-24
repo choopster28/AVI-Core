@@ -2535,31 +2535,6 @@
   {
     "active": true,
     "aliases": [
-      "Dean Connors"
-    ],
-    "avi_id": "AVI-00013315",
-    "canonical_name": "Dean Connors",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "LAR",
-    "normalized_name": "dean connors",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26949,
-      "fantasypros_id": "28113",
-      "nfl_id": null,
-      "rotowire_id": 19306,
-      "sleeper_id": "13315",
-      "sportradar_id": "faa89ce0-42a4-11f1-9d8f-414640fbdaef",
-      "sportsdata_player_id": "faa89ce0-42a4-11f1-9d8f-414640fbdaef"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Deebo Samuel",
       "Deebo Samuel Sr."
     ],
@@ -2907,6 +2882,31 @@
       "sleeper_id": "12541",
       "sportradar_id": "483606b2-c0c9-4da2-8fcf-73d2615756c7",
       "sportsdata_player_id": "483606b2-c0c9-4da2-8fcf-73d2615756c7"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Dontae McMillan"
+    ],
+    "avi_id": "AVI-00013852",
+    "canonical_name": "Dontae McMillan",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "BAL",
+    "normalized_name": "dontae mcmillan",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26813,
+      "fantasypros_id": "28717",
+      "nfl_id": null,
+      "rotowire_id": 19937,
+      "sleeper_id": "13852",
+      "sportradar_id": "e908cf50-431c-11f1-a29d-11fb11746e9d",
+      "sportsdata_player_id": "e908cf50-431c-11f1-a29d-11fb11746e9d"
     }
   },
   {
@@ -6370,31 +6370,6 @@
   {
     "active": true,
     "aliases": [
-      "Kenny McIntosh"
-    ],
-    "avi_id": "AVI-00010216",
-    "canonical_name": "Kenny McIntosh",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "SEA",
-    "normalized_name": "kenny mcintosh",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24373,
-      "fantasypros_id": "25329",
-      "nfl_id": "2570314",
-      "rotowire_id": 17002,
-      "sleeper_id": "10216",
-      "sportradar_id": "9956eabc-16da-4a1c-ab80-fe0910bcaa12",
-      "sportsdata_player_id": "9956eabc-16da-4a1c-ab80-fe0910bcaa12"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Kenyon Sadiq"
     ],
     "avi_id": "AVI-00013330",
@@ -8357,32 +8332,6 @@
       "sleeper_id": "4046",
       "sportradar_id": "11cad59d-90dd-449c-a839-dddaba4fe16c",
       "sportsdata_player_id": "11cad59d-90dd-449c-a839-dddaba4fe16c"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Patrick Taylor",
-      "Patrick Taylor Jr."
-    ],
-    "avi_id": "AVI-00006963",
-    "canonical_name": "Patrick Taylor",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "SF",
-    "normalized_name": "patrick taylor",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": 4039358,
-      "fantasy_data_id": 21823,
-      "fantasypros_id": "19544",
-      "nfl_id": "2564040",
-      "rotowire_id": 14573,
-      "sleeper_id": "6963",
-      "sportradar_id": "ef87e355-8e0c-40ed-a85d-bca4896d4f1e",
-      "sportsdata_player_id": "ef87e355-8e0c-40ed-a85d-bca4896d4f1e"
     }
   },
   {

@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 640.6
-- championship_lineup_c_avi_avg: 80.08
-- offensive_roster_c_avi_sum: 685.6
-- offensive_roster_c_avi_avg: 76.18
+- championship_lineup_c_avi_sum: 640.7
+- championship_lineup_c_avi_avg: 80.09
+- offensive_roster_c_avi_sum: 685.7
+- offensive_roster_c_avi_avg: 76.19
 - offensive_roster_d_avi_sum: 722.7
 - offensive_roster_d_avi_avg: 80.30
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,11 +32,11 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Lamar Jackson | C-AVI: 97.1 | D-AVI: 90.1
 - RB: Derrick Henry | C-AVI: 92.8 | D-AVI: 83.9
-- RB: Kyle Monangai | C-AVI: 55.6 | D-AVI: 73.2
+- RB: Kyle Monangai | C-AVI: 55.5 | D-AVI: 73.2
 - WR: Zay Flowers | C-AVI: 89.0 | D-AVI: 85.3
 - WR: Jameson Williams | C-AVI: 79.9 | D-AVI: 81.2
 - TE: Tyler Warren | C-AVI: 97.2 | D-AVI: 90.5
-- FLEX: Isaiah Likely | C-AVI: 72.9 | D-AVI: 81.2
+- FLEX: Isaiah Likely | C-AVI: 73.1 | D-AVI: 81.2
 - FLEX: Romeo Doubs | C-AVI: 56.1 | D-AVI: 68.7
 
 ## Current Roster — All Player Cards
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 55.6
+- Championship AVI (C-AVI, 0-100): 55.5
 - Dynasty AVI (D-AVI, 0-100): 73.2
 - Projected PPR points: 155.9
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 72.9
+- Championship AVI (C-AVI, 0-100): 73.1
 - Dynasty AVI (D-AVI, 0-100): 81.2
 - Projected PPR points: 165.4
 - Category: offense
