@@ -5,64 +5,64 @@
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T23:18:30.244926-06:00",
+  "reporting_period": "Week of July 24, 2026",
+  "generated_at": "2026-07-24T14:53:07.343126-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 522.70 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 523.30 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 14,
     "league_size": 16,
-    "score": 522.7,
+    "score": 523.3,
     "team_above": {
       "name": "Rapid Valley Annihilation",
       "rank": 13,
-      "score": 544.9,
-      "gap": 22.199999999999932
+      "score": 545.1,
+      "gap": 21.800000000000068
     },
     "team_below": {
       "name": "Northside Kings",
       "rank": 15,
-      "score": 491.1,
-      "gap": 31.600000000000023
+      "score": 490.5,
+      "gap": 32.799999999999955
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 732.0,
+    "score": 734.8,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
-    "transaction_id": "1377688089559846912",
-    "created_at": "2026-06-30T14:15:46.059000+00:00",
+    "transaction_id": "1386482894020542464",
+    "created_at": "2026-07-24T20:43:10.843000+00:00",
     "counterparties": [
-      "Conquistadors",
-      "Northside Kings"
+      "Corgi Loaf Baking Co."
     ],
     "players_received": [
-      "Alec Pierce"
+      "Gunnar Helm",
+      "Jakobi Meyers"
     ],
-    "players_sent": [
-      "Harold Fannin",
-      "Mike Evans"
-    ],
+    "players_sent": [],
     "picks_received": [
-      "2027 Round 1 (SmokyValleyWheatWarriors)",
-      "2027 Round 2 (Northside Kings)"
+      "2027 Round 3 (Corgi Loaf Baking Co.)",
+      "2028 Round 2 (Corgi Loaf Baking Co.)"
     ],
-    "picks_sent": [],
-    "summary": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 74.8 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
+    "picks_sent": [
+      "2026 Round 1 (Crimson Tide Pods)",
+      "2026 Round 1 (All Hail King Jesus)"
+    ],
+    "summary": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jerry Jeudy's 49.2 C-AVI baseline; a replacement near 71.4 C-AVI would directly attack the 22.20-point projected gap to Rapid Valley Annihilation.",
+    "Raise the FLEX slot above Jerry Jeudy's 49.3 C-AVI baseline; a replacement near 71.1 C-AVI would directly attack the 21.80-point projected gap to Rapid Valley Annihilation.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Northside Kings",
     "projected_rank": 15,
-    "projected_score": 491.1,
+    "projected_score": 490.5,
     "latest_trade": {
       "transaction_id": "1383224827728367616",
       "created_at": "2026-07-15T20:56:47.307000+00:00",
@@ -80,44 +80,44 @@
         "2026 Round 2 (Rapid Valley Annihilation)"
       ],
       "picks_sent": [],
-      "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.5 C-AVI and 75.3 D-AVI; Bhayshul Tuten is now the current RB starter at 73.0 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+      "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.3 D-AVI; Bhayshul Tuten is now the current RB starter at 72.8 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
     },
-    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.5 C-AVI and 75.3 D-AVI; Bhayshul Tuten is now the current RB starter at 73.0 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.3 D-AVI; Bhayshul Tuten is now the current RB starter at 72.8 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 522.70 lineup C-AVI. Rapid Valley Annihilation is immediately above at 544.90, a gap of 22.20. Northside Kings is immediately behind at 491.10."
+      "body": "Projected #14 of 16 at 523.30 lineup C-AVI. Rapid Valley Annihilation is immediately above at 545.10, a gap of 21.80. Northside Kings is immediately behind at 490.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are DeVonta Smith (87.5), Alec Pierce (74.8), and Justin Herbert (71.8)."
+      "body": "The three highest C-AVI starters are DeVonta Smith (87.5), Alec Pierce (74.9), and Justin Herbert (71.8)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On June 30, Crimson Tide Pods traded with Conquistadors, Northside Kings and acquired Alec Pierce, 2027 Round 1 (SmokyValleyWheatWarriors), 2027 Round 2 (Northside Kings) while sending Harold Fannin, Mike Evans. Alec Pierce is now the current WR starter at 74.8 C-AVI and 78.5 D-AVI; The deal added 2 draft assets."
+      "body": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jerry Jeudy's 49.2 C-AVI baseline; a replacement near 71.4 C-AVI would directly attack the 22.20-point projected gap to Rapid Valley Annihilation. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Jerry Jeudy's 49.3 C-AVI baseline; a replacement near 71.1 C-AVI would directly attack the 21.80-point projected gap to Rapid Valley Annihilation. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Jerry Jeudy's 49.2 C-AVI baseline; a replacement near 71.4 C-AVI would directly attack the 22.20-point projected gap to Rapid Valley Annihilation.",
+        "Raise the FLEX slot above Jerry Jeudy's 49.3 C-AVI baseline; a replacement near 71.1 C-AVI would directly attack the 21.80-point projected gap to Rapid Valley Annihilation.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.5 C-AVI and 75.3 D-AVI; Bhayshul Tuten is now the current RB starter at 73.0 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.3 D-AVI; Bhayshul Tuten is now the current RB starter at 72.8 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jerry Jeudy is the lowest C-AVI starter in the verified championship lineup at 49.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Jerry Jeudy is the lowest C-AVI starter in the verified championship lineup at 49.3. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -127,7 +127,7 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified draft assets: 2026 1.04; 2026 1.07; 2026 1.12; 2026 2.07; 2026 2.13; 2026 3.07; 2026 4.07; 2026 5.07; 2026 6.07; 2026 7.07; 2026 8.07; 2026 9.07; 2026 10.07."
+      "body": "Verified draft assets: 2026 1.04; 2026 1.07; 2026 2.07; 2026 2.13; 2026 3.07; 2026 4.07; 2026 5.07; 2026 6.07; 2026 7.07; 2026 8.07; 2026 9.07; 2026 10.07."
     }
   ],
   "source": {
@@ -137,7 +137,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-22",
+    "source_last_updated": "2026-07-24",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -5,33 +5,33 @@
   "roster_id": 8,
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T23:18:30.244926-06:00",
+  "reporting_period": "Week of July 24, 2026",
+  "generated_at": "2026-07-24T14:53:07.343126-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
-  "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 625.30 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 625.60 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 8,
     "league_size": 16,
-    "score": 625.3,
+    "score": 625.6,
     "team_above": {
       "name": "Southside Savages",
       "rank": 7,
-      "score": 626.5,
-      "gap": 1.2000000000000455
+      "score": 627.0,
+      "gap": 1.3999999999999773
     },
     "team_below": {
       "name": "Badland Banditos",
       "rank": 9,
-      "score": 618.2,
-      "gap": 7.099999999999909
+      "score": 618.5,
+      "gap": 7.100000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 15,
     "league_size": 16,
-    "score": 714.7,
+    "score": 714.8,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -50,16 +50,16 @@
       "2026 Round 1 (Southside Savages)"
     ],
     "picks_sent": [],
-    "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.6 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
+    "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.3 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Zach Charbonnet's 51.8 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 1.20-point projected gap to Southside Savages.",
+    "Raise the RB slot above Zach Charbonnet's 51.5 C-AVI baseline; a replacement near 52.9 C-AVI would directly attack the 1.40-point projected gap to Southside Savages.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Badland Banditos",
     "projected_rank": 9,
-    "projected_score": 618.2,
+    "projected_score": 618.5,
     "latest_trade": {
       "transaction_id": "1375593798167461888",
       "created_at": "2026-06-24T19:33:48.082000+00:00",
@@ -79,15 +79,15 @@
         "2026 Round 1 (Corgi Loaf Baking Co.)",
         "2026 Round 1 (All Hail King Jesus)"
       ],
-      "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.6 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+      "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.4 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
     },
-    "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.6 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+    "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.4 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #8 of 16 at 625.30 lineup C-AVI. Southside Savages is immediately above at 626.50, a gap of 1.20. Badland Banditos is immediately behind at 618.20."
+      "body": "Projected #8 of 16 at 625.60 lineup C-AVI. Southside Savages is immediately above at 627.00, a gap of 1.40. Badland Banditos is immediately behind at 618.50."
     },
     {
       "id": "competitive-core",
@@ -97,26 +97,26 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.6 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
+      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 47.3 C-AVI and 63.4 D-AVI; The deal added 1 draft asset."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Zach Charbonnet's 51.8 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 1.20-point projected gap to Southside Savages. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the RB slot above Zach Charbonnet's 51.5 C-AVI baseline; a replacement near 52.9 C-AVI would directly attack the 1.40-point projected gap to Southside Savages. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the RB slot above Zach Charbonnet's 51.8 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 1.20-point projected gap to Southside Savages.",
+        "Raise the RB slot above Zach Charbonnet's 51.5 C-AVI baseline; a replacement near 52.9 C-AVI would directly attack the 1.40-point projected gap to Southside Savages.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.6 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+      "body": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.4 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Zach Charbonnet is the lowest C-AVI starter in the verified championship lineup at 51.8. Any acquisition should clear that exact lineup threshold."
+      "body": "Zach Charbonnet is the lowest C-AVI starter in the verified championship lineup at 51.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -136,7 +136,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-22",
+    "source_last_updated": "2026-07-24",
     "external_sources_used": false,
     "conversation_context_used": false
   }

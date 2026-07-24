@@ -5,8 +5,8 @@
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 22, 2026",
-  "generated_at": "2026-07-22T23:18:30.244926-06:00",
+  "reporting_period": "Week of July 24, 2026",
+  "generated_at": "2026-07-24T14:53:07.343126-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
   "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #16 of 16 with a 486.90 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
@@ -17,8 +17,8 @@
     "team_above": {
       "name": "Northside Kings",
       "rank": 15,
-      "score": 491.1,
-      "gap": 4.2000000000000455
+      "score": 490.5,
+      "gap": 3.6000000000000227
     },
     "team_below": null,
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
@@ -26,7 +26,7 @@
   "dynasty_power": {
     "rank": 16,
     "league_size": 16,
-    "score": 565.8,
+    "score": 565.7,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -47,7 +47,7 @@
     "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
-    "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.0 C-AVI would directly attack the 4.20-point projected gap to Northside Kings.",
+    "Raise the WR slot above Parker Washington's 64.9 C-AVI baseline; a replacement near 68.5 C-AVI would directly attack the 3.60-point projected gap to Northside Kings.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": null,
@@ -55,12 +55,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #16 of 16 at 486.90 lineup C-AVI. Northside Kings is immediately above at 491.10, a gap of 4.20."
+      "body": "Projected #16 of 16 at 486.90 lineup C-AVI. Northside Kings is immediately above at 490.50, a gap of 3.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jonathan Taylor (97.6), Chase Brown (96.3), and Javonte Williams (81.1)."
+      "body": "The three highest C-AVI starters are Jonathan Taylor (97.6), Chase Brown (96.3), and Javonte Williams (81.0)."
     },
     {
       "id": "latest-trade-impact",
@@ -70,9 +70,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.0 C-AVI would directly attack the 4.20-point projected gap to Northside Kings. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the WR slot above Parker Washington's 64.9 C-AVI baseline; a replacement near 68.5 C-AVI would directly attack the 3.60-point projected gap to Northside Kings. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 69.0 C-AVI would directly attack the 4.20-point projected gap to Northside Kings.",
+        "Raise the WR slot above Parker Washington's 64.9 C-AVI baseline; a replacement near 68.5 C-AVI would directly attack the 3.60-point projected gap to Northside Kings.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
@@ -84,7 +84,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Parker Washington is the lowest C-AVI starter in the verified championship lineup at 64.8. Any acquisition should clear that exact lineup threshold."
+      "body": "Parker Washington is the lowest C-AVI starter in the verified championship lineup at 64.9. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -104,7 +104,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-22",
+    "source_last_updated": "2026-07-24",
     "external_sources_used": false,
     "conversation_context_used": false
   }
