@@ -1,8 +1,4 @@
 {
-  "completed": [
-    "players"
-  ],
-  "failed": [
-    "injuries"
-  ]
+  "completed": [],
+  "failed": []
 }

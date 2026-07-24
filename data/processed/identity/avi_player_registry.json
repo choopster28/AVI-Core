@@ -2460,6 +2460,31 @@
   {
     "active": true,
     "aliases": [
+      "DeAndre Hopkins"
+    ],
+    "avi_id": "AVI-00001426",
+    "canonical_name": "DeAndre Hopkins",
+    "match": {
+      "confidence": "review",
+      "method": "exact_name_position"
+    },
+    "nfl_team": "BAL",
+    "normalized_name": "deandre hopkins",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": 15795,
+      "fantasy_data_id": 14986,
+      "fantasypros_id": "11606",
+      "nfl_id": "2540165",
+      "rotowire_id": 8619,
+      "sleeper_id": "1426",
+      "sportradar_id": "5c48ade7-4b9a-4757-9643-87a6e3839e2b",
+      "sportsdata_player_id": "5c48ade7-4b9a-4757-9643-87a6e3839e2b"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "DeMario Douglas"
     ],
     "avi_id": "AVI-00009501",
@@ -7586,10 +7611,10 @@
     "avi_id": "AVI-00008202",
     "canonical_name": "Michael Woods",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
-    "nfl_team": "FA",
+    "nfl_team": "DEN",
     "normalized_name": "michael woods",
     "position": "WR",
     "source_ids": {
@@ -10493,6 +10518,31 @@
   {
     "active": true,
     "aliases": [
+      "Will Dissly"
+    ],
+    "avi_id": "AVI-00005010",
+    "canonical_name": "Will Dissly",
+    "match": {
+      "confidence": "review",
+      "method": "exact_name_position"
+    },
+    "nfl_team": "FA",
+    "normalized_name": "will dissly",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": 3127292,
+      "fantasy_data_id": 19950,
+      "fantasypros_id": "18049",
+      "nfl_id": "2561046",
+      "rotowire_id": 12986,
+      "sleeper_id": "5010",
+      "sportradar_id": "383f4814-6836-4766-a297-fc063e8509cc",
+      "sportsdata_player_id": "383f4814-6836-4766-a297-fc063e8509cc"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Will Shipley"
     ],
     "avi_id": "AVI-00011577",
@@ -10588,6 +10638,31 @@
       "sleeper_id": "11626",
       "sportradar_id": "0bb0c37c-e76b-4529-92b0-b026be4f7d6c",
       "sportsdata_player_id": "0bb0c37c-e76b-4529-92b0-b026be4f7d6c"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Xavier Restrepo"
+    ],
+    "avi_id": "AVI-00012520",
+    "canonical_name": "Xavier Restrepo",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "TEN",
+    "normalized_name": "xavier restrepo",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25926,
+      "fantasypros_id": "27066",
+      "nfl_id": "2574160",
+      "rotowire_id": 18466,
+      "sleeper_id": "12520",
+      "sportradar_id": "3ac9d7c0-2560-11f0-af22-1731557928d7",
+      "sportsdata_player_id": "3ac9d7c0-2560-11f0-af22-1731557928d7"
     }
   },
   {

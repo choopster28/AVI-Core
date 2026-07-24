@@ -55,6 +55,15 @@
   },
   {
     "confidence": "review",
+    "fantasypros_id": "11606",
+    "match_method": "exact_name_position",
+    "nfl_team": "BAL",
+    "player_name": "DeAndre Hopkins",
+    "position": "WR",
+    "sleeper_id": "1426"
+  },
+  {
+    "confidence": "review",
     "fantasypros_id": "11616",
     "match_method": "exact_name_position",
     "nfl_team": "LAC",
@@ -124,6 +133,15 @@
     "player_name": "Chris Boswell",
     "position": "K",
     "sleeper_id": "1945"
+  },
+  {
+    "confidence": "review",
+    "fantasypros_id": "13274",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Brandon McManus",
+    "position": "K",
+    "sleeper_id": "1433"
   },
   {
     "confidence": "verified",
@@ -657,6 +675,15 @@
     "sleeper_id": "5001"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "17420",
+    "match_method": "exact_name_position",
+    "nfl_team": "LVR",
+    "player_name": "Daniel Carlson",
+    "position": "K",
+    "sleeper_id": "5095"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "17508",
     "match_method": "exact_name_position_unique",
@@ -691,6 +718,15 @@
     "player_name": "Eddy Pineiro",
     "position": "K",
     "sleeper_id": "5189"
+  },
+  {
+    "confidence": "review",
+    "fantasypros_id": "18049",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Will Dissly",
+    "position": "TE",
+    "sleeper_id": "5010"
   },
   {
     "confidence": "verified",
@@ -2277,10 +2313,10 @@
     "sleeper_id": "8136"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "23893",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DEN",
     "player_name": "Michael Woods II",
     "position": "WR",
     "sleeper_id": "8202"
@@ -3427,6 +3463,15 @@
     "player_name": "Elic Ayomanor",
     "position": "WR",
     "sleeper_id": "12499"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "27066",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "TEN",
+    "player_name": "Xavier Restrepo",
+    "position": "WR",
+    "sleeper_id": "12520"
   },
   {
     "confidence": "verified",
