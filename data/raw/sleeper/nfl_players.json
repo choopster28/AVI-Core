@@ -107723,7 +107723,7 @@
       "genius_id": "1510452",
       "rookie_year": "2024"
     },
-    "news_updated": 1784920257800,
+    "news_updated": 1784926558299,
     "number": 65,
     "oddsjam_id": "031FA2720F65",
     "opta_id": null,
@@ -160899,10 +160899,10 @@
     "hashtag": "#chandlermartin-NFL-FA-45",
     "height": "72",
     "high_school": "Arabia Mountain (GA)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "d66f228c-d41b-4b4e-9b06-9cab208e144b",
     "last_name": "Martin",
     "metadata": {
@@ -160910,7 +160910,7 @@
       "genius_id": "1496589",
       "rookie_year": "2025"
     },
-    "news_updated": 1784841016480,
+    "news_updated": 1784928957847,
     "number": 45,
     "oddsjam_id": "3710B453DE79C597",
     "opta_id": null,
@@ -197877,7 +197877,7 @@
       "genius_id": "1484994",
       "rookie_year": "2026"
     },
-    "news_updated": 1778197504107,
+    "news_updated": 1784926558313,
     "number": 39,
     "oddsjam_id": null,
     "opta_id": null,
@@ -215114,7 +215114,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": null,
     "last_name": "Kibble",
     "metadata": {
@@ -337175,7 +337175,7 @@
       "genius_id": "941509",
       "rookie_year": "2016"
     },
-    "news_updated": 1771792509762,
+    "news_updated": 1784926558286,
     "number": 17,
     "oddsjam_id": "3E744D952C7F",
     "opta_id": null,
@@ -340907,7 +340907,7 @@
     "first_name": "Nick",
     "full_name": "Nick Vannett",
     "gsis_id": "00-0032394",
-    "hashtag": "#nickvannett-NFL-FA-38",
+    "hashtag": "#nickvannett-NFL-SEA-38",
     "height": "77",
     "high_school": "Central (OH)",
     "injury_body_part": null,
@@ -340921,7 +340921,7 @@
       "genius_id": "941547",
       "rookie_year": "2016"
     },
-    "news_updated": 1784925057267,
+    "news_updated": 1784927758313,
     "number": 38,
     "oddsjam_id": "EE1A41641905",
     "opta_id": null,
@@ -340942,7 +340942,7 @@
     "stats_id": 606488,
     "status": "Active",
     "swish_id": 606488,
-    "team": null,
+    "team": "SEA",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "257",
@@ -453717,7 +453717,7 @@
       "genius_id": "1005698",
       "rookie_year": "2018"
     },
-    "news_updated": 1767635411591,
+    "news_updated": 1784926558255,
     "number": 11,
     "oddsjam_id": "CEEF50BC317C",
     "opta_id": null,
@@ -684060,7 +684060,7 @@
       "genius_id": "1011964",
       "rookie_year": "2022"
     },
-    "news_updated": 1784925657791,
+    "news_updated": 1784927758302,
     "number": 13,
     "oddsjam_id": "269A362F5C64",
     "opta_id": null,
@@ -686822,7 +686822,7 @@
       "channel_id": "1116853494112845824",
       "years_exp_shift": "1"
     },
-    "news_updated": 1765315253114,
+    "news_updated": 1784926558271,
     "number": 0,
     "oddsjam_id": null,
     "opta_id": null,
