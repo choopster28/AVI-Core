@@ -6,6 +6,247 @@
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 17:13:47",
+      "created_formated": "Fri, Jul 24th 5:13pm UTC",
+      "desc": "The Steelers officially signed Drew Allar to his rookie contract. ",
+      "id": 597833,
+      "impact": "Allar lands his deal heading into training camp. He will be competing for the backup job behind Aaron Rodgers in the Steelers quarterback room. ",
+      "link": "https://www.fantasypros.com/nfl/news/597833/drew-allar-signs-rookie-contract-with-steelers-.php",
+      "player_id": 24345,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Drew Allar signs rookie contract with Steelers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 16:50:19",
+      "created_formated": "Fri, Jul 24th 4:50pm UTC",
+      "desc": "The Seahawks hosted Nick Vannett for a workout. ",
+      "id": 597831,
+      "impact": "Vannett was previously drafted by the Seahawks. He will compete for a spot in training camp with Seattle. ",
+      "link": "https://www.fantasypros.com/nfl/news/597831/nick-vannett-works-out-seahawks-.php",
+      "player_id": 15645,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Nick Vannett works out for Seahawks "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 16:49:15",
+      "created_formated": "Fri, Jul 24th 4:49pm UTC",
+      "desc": "The Seahawks hosted Nick Muse for a workout. ",
+      "id": 597830,
+      "impact": "Muse will compete for a spot in training camp with Seattle. ",
+      "link": "https://www.fantasypros.com/nfl/news/597830/nick-muse-works-out-seahawks-.php",
+      "player_id": 24239,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Nick Muse works out for Seahawks "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 16:48:28",
+      "created_formated": "Fri, Jul 24th 4:48pm UTC",
+      "desc": "The Seahawks hosted Josiah Deguara for a workout. ",
+      "id": 597829,
+      "impact": "Deguara will compete for a spot in training camp with Seattle. ",
+      "link": "https://www.fantasypros.com/nfl/news/597829/josiah-deguara-works-out-seahawks-.php",
+      "player_id": 19456,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Josiah Deguara works out for Seahawks "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 16:46:31",
+      "created_formated": "Fri, Jul 24th 4:46pm UTC",
+      "desc": "The Patriots hosted Eni Falayi for a workout. ",
+      "id": 597828,
+      "impact": "Falayi was an undrafted free agent out of Wake Forest. He will compete for a spot in training camp with New England. ",
+      "link": "https://www.fantasypros.com/nfl/news/597828/eni-falayi-works-out-patriots-.php",
+      "player_id": 28637,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Eni Falayi works out for Patriots "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 16:45:20",
+      "created_formated": "Fri, Jul 24th 4:45pm UTC",
+      "desc": "The Patriots hosted Tyler McLellan for a workout. ",
+      "id": 597827,
+      "impact": "McLellan will compete for a spot in training camp with New England. ",
+      "link": "https://www.fantasypros.com/nfl/news/597827/tyler-mclellan-works-out-patriots-.php",
+      "player_id": 26527,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Tyler McLellan works out for Patriots "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 16:44:08",
+      "created_formated": "Fri, Jul 24th 4:44pm UTC",
+      "desc": "The Patriots hosted Chamon Metayer for a workout. ",
+      "id": 597826,
+      "impact": "Metayer was released by the Steelers in early June. He'll compete for a spot with the Patriots in training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/597826/chamon-metayer-works-out-patriots-.php",
+      "player_id": 28171,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Chamon Metayer works out for Patriots "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 16:42:37",
+      "created_formated": "Fri, Jul 24th 4:42pm UTC",
+      "desc": "The Patriots worked out Tyler Moore.",
+      "id": 597825,
+      "impact": "Moore is competing to earn a spot in the Patriots training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/597825/tyler-moore-works-out-patriots-.php",
+      "player_id": 15008,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Tyler Moore works out for Patriots "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 16:32:29",
+      "created_formated": "Fri, Jul 24th 4:32pm UTC",
+      "desc": "The Ravens hosted free agent OL Hakeem Adeniji for a workout on Friday. ",
+      "id": 597824,
+      "impact": "Adeniji has 16 career starts across 55 career games played. ",
+      "link": "https://www.fantasypros.com/nfl/news/597824/hakeem-adeniji-works-out-ravens-friday-.php",
+      "player_id": 19295,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Hakeem Adeniji works out for Ravens Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-24 16:31:06",
+      "created_formated": "Fri, Jul 24th 4:31pm UTC",
+      "desc": "Robert Hunt is getting evaluated for a back injury",
+      "id": 597823,
+      "impact": "Hunt did not practice on Friday due to back tightness. There should be an update provided once he is evaluated. ",
+      "link": "https://www.fantasypros.com/nfl/news/597823/robert-hunt-back-to-be-further-evaluated-.php",
+      "player_id": 19265,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Robert Hunt (back) to be further evaluated "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-24 16:30:26",
+      "created_formated": "Fri, Jul 24th 4:30pm UTC",
+      "desc": "Mike Jackson Sr. is getting evaluated for a back injury. ",
+      "id": 597822,
+      "impact": "Jackson did not practice on Friday due to back tightness. There should be an update provided once he is evaluated. ",
+      "link": "https://www.fantasypros.com/nfl/news/597822/mike-jackson-sr-back-to-be-evaluated-.php",
+      "player_id": 18637,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Mike Jackson Sr. (back) to be evaluated "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 16:28:36",
+      "created_formated": "Fri, Jul 24th 4:28pm UTC",
+      "desc": "Patriots coach Mike Vrabel said he expects Christian Gonzalez to participate more in training camp then he did in minicamp.",
+      "id": 597821,
+      "impact": "Gonzalez and the Patriots are still working on a contract extension. It appears that a new deal should get done soon. ",
+      "link": "https://www.fantasypros.com/nfl/news/597821/christian-gonzalez-working-through-contract-to-participate-practice.php",
+      "player_id": 25238,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Christian Gonzalez working through contract, to participate in practice"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-24 16:27:07",
+      "created_formated": "Fri, Jul 24th 4:27pm UTC",
+      "desc": "Patriots coach Mike Vrabel said Brenden Schooler will be placed on the non-football injury list. ",
+      "id": 597820,
+      "impact": "Schooler will not practice to begin training camp. He can be activated at any time. ",
+      "link": "https://www.fantasypros.com/nfl/news/597820/brenden-schooler-to-be-placed-on-nfi-list.php",
+      "player_id": 24788,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Brenden Schooler to be placed on NFI list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-24 16:25:40",
+      "created_formated": "Fri, Jul 24th 4:25pm UTC",
+      "desc": "Patriots coach Mike Vrabel said the team and Gabe Jacas are working through a contract. ",
+      "id": 597819,
+      "impact": "Vrabel said he had no time frame  for when it would get done but was \"confident\" it would happen.",
+      "link": "https://www.fantasypros.com/nfl/news/597819/gabe-jacas-patriots-working-through-contract.php",
+      "player_id": 27959,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Gabe Jacas, Patriots working through contract"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
         "News",
         "Injury"
       ],
@@ -197,253 +438,6 @@
       "sport_id": "NFL",
       "team_id": "ARI",
       "title": "Trey Benson (ankle) avoids PUP list"
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-23 21:22:00",
-      "created_formated": "Thu, Jul 23rd 9:22pm UTC",
-      "desc": "The Cardinals have placed cornerback Garrett Williams (Achilles) on the physically unable to perform list.",
-      "id": 597754,
-      "impact": "The move isn't totally unexpected, as Williams suffered a season-ending torn Achilles in a Week 16 game against the Falcons last season. However, the expectation is that Williams will be ready to begin the regular season on time.",
-      "link": "https://www.fantasypros.com/nfl/news/597754/garrett-williams-achilles-placed-on-pup-list.php",
-      "player_id": 23855,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Garrett Williams (Achilles) placed on PUP list"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-23 21:19:56",
-      "created_formated": "Thu, Jul 23rd 9:19pm UTC",
-      "desc": "James Conner avoided being placed on the PUP list. ",
-      "id": 597753,
-      "impact": "Conner had missed time earlier in the Cardinals offseason program recovering from an ankle injury. His role in the Cardinals backfield remains up in the air heading into the season following the offseason additions of Jeremiyah Love and Tyler Allgeier. ",
-      "link": "https://www.fantasypros.com/nfl/news/597753/james-conner-ankle-avoids-pup-list.php",
-      "player_id": 16447,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "James Conner (ankle) avoids PUP list"
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-23 21:18:01",
-      "created_formated": "Thu, Jul 23rd 9:18pm UTC",
-      "desc": "The Cardinals have placed defensive end Josh Sweat on the physically unable to perform list ahead of training camp.",
-      "id": 597752,
-      "impact": "The Cardinals didn't disclose the nature of Sweat's ailment, but it is likely minor, as players can come off the PUP list at any point during training camp. The 29-year-old suited up for all 17 regular-season games last season, his first with the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/597752/josh-sweat-placed-on-pup-list.php",
-      "player_id": 17363,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Josh Sweat placed on PUP list"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-23 21:17:04",
-      "created_formated": "Thu, Jul 23rd 9:17pm UTC",
-      "desc": "The Patriots hosted Jeremiah Franklin for a workout. ",
-      "id": 597751,
-      "impact": "Franklin went undrafted out of Boston College. He'll look to earn a roster spot with New England in training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/597751/jeremiah-franklin-works-out-patriots-.php",
-      "player_id": 28162,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jeremiah Franklin works out for Patriots "
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-23 21:14:48",
-      "created_formated": "Thu, Jul 23rd 9:14pm UTC",
-      "desc": "The Cardinals have placed tackle Paris Johnson Jr. on the physically unable to perform list ahead of training camp.",
-      "id": 597750,
-      "impact": "The Cardinals didn't announced why Johnson is hitting the PUP list, but he did miss the final four games of last season due to a left MCL sprain. The 25-year-old has missed eight games over the last two seasons after suiting up for all 17 games as a rookie in the 2023 campaign.",
-      "link": "https://www.fantasypros.com/nfl/news/597750/paris-johnson-jr-placed-on-pup-list.php",
-      "player_id": 24712,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Paris Johnson Jr. placed on PUP list"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-23 21:08:25",
-      "created_formated": "Thu, Jul 23rd 9:08pm UTC",
-      "desc": "The Browns placed Maliek Collins on the PUP list. ",
-      "id": 597747,
-      "impact": "Collins suffered a season-ending quad injury in Week 13 of last season. He can be activated at any time during training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/597747/maliek-collins-quad-placed-on-pup-list.php",
-      "player_id": 15533,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Maliek Collins (quad) placed on PUP list"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-23 21:06:18",
-      "created_formated": "Thu, Jul 23rd 9:06pm UTC",
-      "desc": "The Eagles hosted LB Chandler Martin for a visit on Thursday. ",
-      "id": 597746,
-      "impact": "Martin was with the Eagles earlier this offseason but he was waived on June 10. He is seeking a spot in training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/597746/chandler-martin-visits-eagles-thursday-.php",
-      "player_id": 27870,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Chandler Martin visits Eagles Thursday "
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-23 21:05:22",
-      "created_formated": "Thu, Jul 23rd 9:05pm UTC",
-      "desc": "Cardinals defensive lineman Walter Nolen III (knee) is healthy and will avoid the physically unable to perform list entering training camp.",
-      "id": 597745,
-      "impact": "Nolen suffered a season-ending left knee injury on Dec. 21, one that required successful surgery. The 2025 16th overall pick was able to suit up for just six games in his rookie season as a result.",
-      "link": "https://www.fantasypros.com/nfl/news/597745/walter-nolen-iii-knee-healthy-entering-camp.php",
-      "player_id": 27030,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Walter Nolen III (knee) healthy entering camp"
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-23 21:01:16",
-      "created_formated": "Thu, Jul 23rd 9:01pm UTC",
-      "desc": "Titans tackle JC Latham (hip) has been placed on the physically unable to perform list ahead of camp.",
-      "id": 597742,
-      "impact": "Reports have indicated that the hip issue that Latham is dealing with is not serious, and he is eligible to come off the PUP list at any time during training camp. The 2024 seventh-overall pick appeared in all 17 games in his rookie season but missed four games due to injury a season ago.",
-      "link": "https://www.fantasypros.com/nfl/news/597742/jc-latham-hip-placed-on-pup-list.php",
-      "player_id": 26095,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "JC Latham (hip) placed on PUP list"
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-23 20:57:00",
-      "created_formated": "Thu, Jul 23rd 8:57pm UTC",
-      "desc": "Titans safety Amani Hooker has been placed on the physically unable to perform list prior to training camp.",
-      "id": 597737,
-      "impact": "Hooker is dealing with an undisclosed ailment, but doesn't appear to be in jeopardy of missing and regaulr-season games. The seven-year veteran suited up for 16 games last season, recording 81 total tackles, three of which were for a loss.",
-      "link": "https://www.fantasypros.com/nfl/news/597737/amani-hooker-undisclosed-placed-on-pup-list.php",
-      "player_id": 18589,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Amani Hooker (undisclosed) placed on PUP list"
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-23 20:50:22",
-      "created_formated": "Thu, Jul 23rd 8:50pm UTC",
-      "desc": "The Ravens have waived quarterback Diego Pavia.",
-      "id": 597730,
-      "impact": "The Ravens signed the undrafted quarterback out of Vanderbilt to a three-year deal in April, but have waived him prior to training camp. The 24-year-old should garner some interest on the open market for teams seeking depth in their quarterback room.",
-      "link": "https://www.fantasypros.com/nfl/news/597730/diego-pavia-waived-by-ravens.php",
-      "player_id": 28082,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Diego Pavia waived by Ravens"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-23 20:45:32",
-      "created_formated": "Thu, Jul 23rd 8:45pm UTC",
-      "desc": "Nic Scourton has been diagnosed with a torn ACL. He will get a second opinion to confirm it, and if it's confirmed, will have surgery in the next few weeks. His 2026 is all but over.",
-      "id": 597727,
-      "impact": "It's a brutal injury to have happen at any time, but especially when it happens within minutes of starting the first day of practice. He will look to rest and recover for next year, and hopefully we will see his breakout in 2027.",
-      "link": "https://www.fantasypros.com/nfl/news/597727/nic-scourton-diagnosed-with-torn-acl.php",
-      "player_id": 27020,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Nic Scourton diagnosed with torn-ACL"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-23 18:11:07",
-      "created_formated": "Thu, Jul 23rd 6:11pm UTC",
-      "desc": "Jack Plummer is scheduled to work out for the 49ers and Dolphins. ",
-      "id": 597702,
-      "impact": "Plummer was the MVP in the UFL. He is scheduled to workout for the 49ers on Friday and the Dolphins next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/597702/jack-plummer-working-out-49ers-dolphins-.php",
-      "player_id": 26386,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jack Plummer working out for 49ers, Dolphins "
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-23 16:50:03",
-      "created_formated": "Thu, Jul 23rd 4:50pm UTC",
-      "desc": "Fernando Mendoza signed his 4-year, $57.27 million rookie deal with the Las Vegas Raiders on Thursday.",
-      "id": 597688,
-      "impact": "Mendoza's first NFL contract is fully guaranteed and includes a fifth-year option. He will head into training camp in a positional battle with Kirk Cousins for who will be under center for the Raiders in Week 1.",
-      "link": "https://www.fantasypros.com/nfl/news/597688/fernando-mendoza-signs-rookie-contract-with-raiders.php",
-      "player_id": 28013,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Fernando Mendoza signs rookie contract with Raiders"
     }
   ],
   "public_api_limited": true,
