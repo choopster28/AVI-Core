@@ -472,9 +472,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Gunnar Helm
 - Player ID: 12502
 - Position: TE
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Harold Fannin
 - Player name: Harold Fannin
@@ -576,9 +576,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jakobi Meyers
 - Player ID: 5947
 - Position: WR
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Jalen Coker
 - Player name: Jalen Coker

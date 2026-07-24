@@ -9,7 +9,7 @@
     2027,
     2028
   ],
-  "generated_at_utc": "2026-07-24T17:14:11.848709+00:00",
+  "generated_at_utc": "2026-07-24T20:49:04.321661+00:00",
   "league_id": "1312185568032997376",
   "max_rounds": 10,
   "pick_count": 480,
@@ -100,8 +100,8 @@
     },
     {
       "avi_category": "Blue-Chip Starter",
-      "current_owner_roster_id": 16,
-      "current_owner_team": "Crimson Tide Pods",
+      "current_owner_roster_id": 11,
+      "current_owner_team": "Corgi Loaf Baking Co. ",
       "draft_pick_avi": 82.3,
       "original_roster_id": 16,
       "original_team": "Crimson Tide Pods",
@@ -170,8 +170,8 @@
     },
     {
       "avi_category": "Premium Starter",
-      "current_owner_roster_id": 16,
-      "current_owner_team": "Crimson Tide Pods",
+      "current_owner_roster_id": 11,
+      "current_owner_team": "Corgi Loaf Baking Co. ",
       "draft_pick_avi": 73.5,
       "original_roster_id": 8,
       "original_team": "All Hail King Jesus",

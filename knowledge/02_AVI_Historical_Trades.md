@@ -17,22 +17,22 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **64**
-- Owner trade participations: **129**
-- Two-team trades: **63**
+- Unique completed trades: **65**
+- Owner trade participations: **131**
+- Two-team trades: **64**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **21**
+- 2026 completed trades: **22**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-07-19T04:35:06.839000+00:00**
+- Latest verified trade: **2026-07-24T20:43:10.843000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Big Balder Brand | Choopski | **18** | 7 | 2 | 9 | 26 | 29 | 11 | 15 | 6 | 9 |
-| 2 | Corgi Loaf Baking Co.  | awang1900 | **16** | 7 | 4 | 5 | 26 | 24 | 9 | 18 | 7 | 10 |
+| 2 | Corgi Loaf Baking Co.  | awang1900 | **17** | 7 | 4 | 6 | 26 | 26 | 11 | 20 | 9 | 10 |
 | 3 | Conquistadors | Thecan | **15** | 6 | 2 | 7 | 13 | 15 | 10 | 17 | 5 | 6 |
 | 4 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 16 | 9 | 6 | 5 |
 | 5 | Ravens Regime  | Mentomorii | **13** | 3 | 3 | 7 | 10 | 16 | 14 | 8 | 8 | 5 |
@@ -40,9 +40,9 @@
 | 7 | DMV Fantasy | TacticsNoob | **9** | 5 | 2 | 2 | 15 | 11 | 8 | 3 | 4 | 2 |
 | 8 | Mile High Royal Lions | shawnh56 | **8** | 0 | 8 | 0 | 9 | 11 | 10 | 11 | 2 | 5 |
 | 9 | All Hail King Jesus | Hofer51 | **5** | 0 | 4 | 1 | 6 | 3 | 3 | 8 | 1 | 2 |
-| 10 | Lightskin Legends ✊🏽 | MadDawgMatt | **5** | 2 | 3 | 0 | 5 | 3 | 3 | 5 | 0 | 1 |
-| 11 | Rapid Valley Annihilation | FuzzyRaptor | **5** | 0 | 3 | 2 | 9 | 9 | 10 | 4 | 4 | 1 |
-| 12 | Crimson Tide Pods | nickas | **4** | 0 | 1 | 3 | 5 | 5 | 7 | 1 | 4 | 0 |
+| 10 | Crimson Tide Pods | nickas | **5** | 0 | 1 | 4 | 7 | 5 | 9 | 3 | 4 | 2 |
+| 11 | Lightskin Legends ✊🏽 | MadDawgMatt | **5** | 2 | 3 | 0 | 5 | 3 | 3 | 5 | 0 | 1 |
+| 12 | Rapid Valley Annihilation | FuzzyRaptor | **5** | 0 | 3 | 2 | 9 | 9 | 10 | 4 | 4 | 1 |
 | 13 | SmokyValleyWheatWarriors | AlexPete6800 | **4** | 2 | 2 | 0 | 1 | 3 | 5 | 2 | 0 | 1 |
 | 14 | Gringo’s Goblins  | Burnfaze | **1** | 0 | 0 | 1 | 3 | 3 | 1 | 1 | 1 | 0 |
 | 15 | Phalhala or Bust | PIFYAF | **1** | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 0 | 0 |
@@ -57,7 +57,7 @@
 | Big Balder Brand | DMV Fantasy | 5 |
 | Conquistadors | Northside Kings  | 5 |
 | Corgi Loaf Baking Co.  | Big Balder Brand | 4 |
-| Crimson Tide Pods | Conquistadors, Ravens Regime , Northside Kings , Lightskin Legends ✊🏽, Badland Banditos  | 1 |
+| Crimson Tide Pods | Conquistadors, Ravens Regime , Northside Kings , Lightskin Legends ✊🏽, Badland Banditos , Corgi Loaf Baking Co.  | 1 |
 | DMV Fantasy | Big Balder Brand | 5 |
 | Gringo’s Goblins  | Big Balder Brand | 1 |
 | Lightskin Legends ✊🏽 | Conquistadors, Northside Kings , SmokyValleyWheatWarriors, Corgi Loaf Baking Co. , Crimson Tide Pods | 1 |
@@ -70,6 +70,24 @@
 | Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1386482894020542464
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-07-24T20:43:10.843000+00:00
+- Teams involved: 2
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: None
+- Players sent: Gunnar Helm, Jakobi Meyers
+- Picks received: 2026 Round 1 (original roster 16), 2026 Round 1 (original roster 8)
+- Picks sent: 2027 Round 3 (original roster 11), 2028 Round 2 (original roster 11)
+
+#### Crimson Tide Pods (nickas)
+- Players received: Gunnar Helm, Jakobi Meyers
+- Players sent: None
+- Picks received: 2027 Round 3 (original roster 11), 2028 Round 2 (original roster 11)
+- Picks sent: 2026 Round 1 (original roster 16), 2026 Round 1 (original roster 8)
 
 ### TRADE: 1384427332722233344
 - Season: 2026

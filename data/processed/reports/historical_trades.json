@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-24T17:14:12.200132+00:00",
+  "generated_at_utc": "2026-07-24T20:49:04.673389+00:00",
   "statistics": {
-    "owner_trade_participations": 129,
+    "owner_trade_participations": 131,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -50,7 +50,8 @@
           "Ravens Regime ",
           "Northside Kings ",
           "Lightskin Legends ✊🏽",
-          "Badland Banditos "
+          "Badland Banditos ",
+          "Corgi Loaf Baking Co. "
         ],
         "roster_id": 16,
         "team_name": "Crimson Tide Pods"
@@ -164,18 +165,18 @@
         "by_season": {
           "2024": 7,
           "2025": 4,
-          "2026": 5
+          "2026": 6
         },
-        "firsts_in": 7,
+        "firsts_in": 9,
         "firsts_out": 10,
         "owner_display_name": "awang1900",
-        "picks_in": 9,
-        "picks_out": 18,
+        "picks_in": 11,
+        "picks_out": 20,
         "players_in": 26,
-        "players_out": 24,
+        "players_out": 26,
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. ",
-        "total": 16
+        "total": 17
       },
       {
         "by_season": {
@@ -295,6 +296,22 @@
       },
       {
         "by_season": {
+          "2025": 1,
+          "2026": 4
+        },
+        "firsts_in": 4,
+        "firsts_out": 2,
+        "owner_display_name": "nickas",
+        "picks_in": 9,
+        "picks_out": 3,
+        "players_in": 7,
+        "players_out": 5,
+        "roster_id": 16,
+        "team_name": "Crimson Tide Pods",
+        "total": 5
+      },
+      {
+        "by_season": {
           "2024": 2,
           "2025": 3
         },
@@ -324,22 +341,6 @@
         "roster_id": 2,
         "team_name": "Rapid Valley Annihilation",
         "total": 5
-      },
-      {
-        "by_season": {
-          "2025": 1,
-          "2026": 3
-        },
-        "firsts_in": 4,
-        "firsts_out": 0,
-        "owner_display_name": "nickas",
-        "picks_in": 7,
-        "picks_out": 1,
-        "players_in": 5,
-        "players_out": 5,
-        "roster_id": 16,
-        "team_name": "Crimson Tide Pods",
-        "total": 4
       },
       {
         "by_season": {
@@ -407,10 +408,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 21
+      "2026": 22
     },
-    "two_team_trades": 63,
-    "unique_completed_trades": 64
+    "two_team_trades": 64,
+    "unique_completed_trades": 65
   },
   "trades": [
     {
@@ -5475,6 +5476,104 @@
         }
       ],
       "transaction_id": "1384427332722233344",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-24T20:43:10.843000+00:00",
+      "created_timestamp_ms": 1784925790843,
+      "roster_ids": [
+        11,
+        16
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 16,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 3,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "12502",
+              "player_name": "Gunnar Helm"
+            },
+            {
+              "player_id": "5947",
+              "player_name": "Jakobi Meyers"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        },
+        {
+          "owner_display_name": "nickas",
+          "owner_id": "471824466389757952",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 3,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 11,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 16,
+              "round": 1,
+              "season": "2026"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12502",
+              "player_name": "Gunnar Helm"
+            },
+            {
+              "player_id": "5947",
+              "player_name": "Jakobi Meyers"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 16,
+          "season": 2026,
+          "team_name": "Crimson Tide Pods"
+        }
+      ],
+      "transaction_id": "1386482894020542464",
       "week": 1
     }
   ]

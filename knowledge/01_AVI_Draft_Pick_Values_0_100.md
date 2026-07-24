@@ -95,8 +95,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Slot: 7
 - Original team: Crimson Tide Pods
 - Original roster ID: 16
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
 - Draft Pick AVI: 82.3
 - AVI category: Blue-Chip Starter
 - Validation status: verified_current_draft_order
@@ -160,8 +160,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Slot: 12
 - Original team: All Hail King Jesus
 - Original roster ID: 8
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
 - Draft Pick AVI: 73.5
 - AVI category: Premium Starter
 - Validation status: verified_current_draft_order
