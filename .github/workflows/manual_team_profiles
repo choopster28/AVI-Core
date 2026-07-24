@@ -1,0 +1,117 @@
+name: Manual Team Profiles Update
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: avi-data-updates
+  cancel-in-progress: false
+
+jobs:
+  build-team-profiles:
+    runs-on: ubuntu-latest
+
+    env:
+      SLEEPER_LEAGUE_ID: ${{ secrets.SLEEPER_LEAGUE_ID }}
+      FANTASYPROS_API_KEY: ${{ secrets.FANTASYPROS_API_KEY }}
+
+      SLEEPER_BASE_URL: "https://api.sleeper.app/v1"
+      FANTASYPROS_BASE_URL: "https://api.fantasypros.com/public/v2/json"
+      FANTASYPROS_API_KEY_HEADER: "x-api-key"
+      FANTASYPROS_MAX_REQUESTS_PER_RUN: "45"
+
+      AVI_EARLIEST_SEASON: "2025"
+      TRANSACTION_START_WEEK: "0"
+      TRANSACTION_END_WEEK: "18"
+      AVI_EXPECTED_TEAM_COUNT: "16"
+      AVI_MINIMUM_COMPLETED_TRADES: "10"
+
+      AVI_SEASON: "2026"
+      AVI_SCORING: "PPR"
+      AVI_METHODOLOGY_VERSION: "2026.1"
+
+    steps:
+      - name: Check out AVI Core
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install AVI Core
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e .
+
+      - name: Build team profile files
+        run: python -m avi.cli build-team-profiles
+
+      - name: Verify team profile files
+        run: |
+          if [ ! -d "knowledge/teams" ]; then
+            echo "::error::knowledge/teams was not created."
+            exit 1
+          fi
+
+          TEAM_FILE_COUNT=$(find knowledge/teams -maxdepth 1 -type f | wc -l)
+
+          echo "Generated team files: ${TEAM_FILE_COUNT}"
+
+          if [ "${TEAM_FILE_COUNT}" -lt 16 ]; then
+            echo "::error::Expected at least 16 team files in knowledge/teams."
+            exit 1
+          fi
+
+          find knowledge/teams -maxdepth 1 -type f -print
+
+      - name: Upload team profile snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: avi-team-profiles
+          path: knowledge/teams/
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Commit updated team profiles
+        run: |
+          git config user.name "avi-automation"
+          git config user.email "avi-automation@users.noreply.github.com"
+
+          git add knowledge/teams
+
+          if git diff --cached --quiet; then
+            echo "No team profile changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Manual AVI team profiles update"
+
+          for attempt in 1 2 3; do
+            echo "Push attempt ${attempt} of 3"
+
+            git fetch origin main
+
+            if ! git rebase origin/main; then
+              echo "::error::Rebase conflict detected."
+              git rebase --abort
+              exit 1
+            fi
+
+            if git push origin HEAD:main; then
+              echo "Team profile files pushed successfully."
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed."
+            sleep 5
+          done
+
+          echo "::error::Failed to push team profile files after 3 attempts."
+          exit 1
