@@ -5,28 +5,28 @@
   "roster_id": 1,
   "owner_display_name": "Thecan",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 24, 2026",
-  "generated_at": "2026-07-24T14:53:07.343126-06:00",
+  "reporting_period": "Week of July 25, 2026",
+  "generated_at": "2026-07-25T12:04:06.249079-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Conquistadors: Preseason Front Office Brief",
-  "executive_summary": "Conquistadors is projected #1 of 16 with a 724.00 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Conquistadors is projected #1 of 16 with a 721.90 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 1,
     "league_size": 16,
-    "score": 724.0,
+    "score": 721.9,
     "team_above": null,
     "team_below": {
       "name": "Big Balder Brand",
       "rank": 2,
-      "score": 706.7,
-      "gap": 17.299999999999955
+      "score": 708.6,
+      "gap": 13.299999999999955
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 7,
     "league_size": 16,
-    "score": 891.4,
+    "score": 877.0,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -46,40 +46,37 @@
     "summary": "On July 9, Conquistadors traded with Big Balder Brand and acquired 2026 Round 20 (Big Balder Brand) while sending 2026 Round 20 (Conquistadors). The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 63.6 C-AVI.",
+    "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 62.6 C-AVI.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Big Balder Brand",
     "projected_rank": 2,
-    "projected_score": 706.7,
+    "projected_score": 708.6,
     "latest_trade": {
-      "transaction_id": "1383186342132842496",
-      "created_at": "2026-07-15T18:23:51.626000+00:00",
+      "transaction_id": "1386578462004772864",
+      "created_at": "2026-07-25T03:02:56.026000+00:00",
       "counterparties": [
         "DMV Fantasy"
       ],
       "players_received": [
-        "Trey McBride"
+        "Cam Little",
+        "Saquon Barkley"
       ],
       "players_sent": [
-        "George Kittle",
-        "Brenton Strange"
+        "Breece Hall"
       ],
       "picks_received": [],
-      "picks_sent": [
-        "2026 Round 1 (Conquistadors)",
-        "2028 Round 1 (Big Balder Brand)"
-      ],
-      "summary": "On July 15, Big Balder Brand traded with DMV Fantasy and acquired Trey McBride while sending George Kittle, Brenton Strange, 2026 Round 1 (Conquistadors), 2028 Round 1 (Big Balder Brand). Trey McBride is now the current TE starter at 99.5 C-AVI and 92.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "picks_sent": [],
+      "summary": "On July 24, Big Balder Brand traded with DMV Fantasy and acquired Cam Little, Saquon Barkley while sending Breece Hall. Cam Little is now on the current roster; Saquon Barkley is now the current RB starter at 91.7 C-AVI and 86.0 D-AVI."
     },
-    "summary": "On July 15, Big Balder Brand traded with DMV Fantasy and acquired Trey McBride while sending George Kittle, Brenton Strange, 2026 Round 1 (Conquistadors), 2028 Round 1 (Big Balder Brand). Trey McBride is now the current TE starter at 99.5 C-AVI and 92.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+    "summary": "On July 24, Big Balder Brand traded with DMV Fantasy and acquired Cam Little, Saquon Barkley while sending Breece Hall. Cam Little is now on the current roster; Saquon Barkley is now the current RB starter at 91.7 C-AVI and 86.0 D-AVI."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #1 of 16 at 724.00 lineup C-AVI. Big Balder Brand is immediately behind at 706.70."
+      "body": "Projected #1 of 16 at 721.90 lineup C-AVI. Big Balder Brand is immediately behind at 708.60."
     },
     {
       "id": "competitive-core",
@@ -94,21 +91,21 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 63.6 C-AVI. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 62.6 C-AVI. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 63.6 C-AVI.",
+        "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 62.6 C-AVI.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 15, Big Balder Brand traded with DMV Fantasy and acquired Trey McBride while sending George Kittle, Brenton Strange, 2026 Round 1 (Conquistadors), 2028 Round 1 (Big Balder Brand). Trey McBride is now the current TE starter at 99.5 C-AVI and 92.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "body": "On July 24, Big Balder Brand traded with DMV Fantasy and acquired Cam Little, Saquon Barkley while sending Breece Hall. Cam Little is now on the current roster; Saquon Barkley is now the current RB starter at 91.7 C-AVI and 86.0 D-AVI."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 63.6. Any acquisition should clear that exact lineup threshold."
+      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 62.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -128,7 +125,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-24",
+    "source_last_updated": "2026-07-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -5,33 +5,33 @@
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 24, 2026",
-  "generated_at": "2026-07-24T14:53:07.343126-06:00",
+  "reporting_period": "Week of July 25, 2026",
+  "generated_at": "2026-07-25T12:04:06.249079-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 523.30 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 533.60 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 14,
     "league_size": 16,
-    "score": 523.3,
+    "score": 533.6,
     "team_above": {
       "name": "Rapid Valley Annihilation",
       "rank": 13,
-      "score": 545.1,
-      "gap": 21.800000000000068
+      "score": 539.4,
+      "gap": 5.7999999999999545
     },
     "team_below": {
       "name": "Northside Kings",
       "rank": 15,
-      "score": 490.5,
-      "gap": 32.799999999999955
+      "score": 484.1,
+      "gap": 49.5
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 13,
+    "rank": 8,
     "league_size": 16,
-    "score": 734.8,
+    "score": 847.3,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -53,16 +53,16 @@
       "2026 Round 1 (Crimson Tide Pods)",
       "2026 Round 1 (All Hail King Jesus)"
     ],
-    "summary": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
+    "summary": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 49.4 C-AVI and 66.4 D-AVI; Jakobi Meyers is now the current FLEX starter at 64.6 C-AVI and 69.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jerry Jeudy's 49.3 C-AVI baseline; a replacement near 71.1 C-AVI would directly attack the 21.80-point projected gap to Rapid Valley Annihilation.",
+    "Raise the RB slot above Tyjae Spears's 48.9 C-AVI baseline; a replacement near 54.7 C-AVI would directly attack the 5.80-point projected gap to Rapid Valley Annihilation.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Northside Kings",
     "projected_rank": 15,
-    "projected_score": 490.5,
+    "projected_score": 484.1,
     "latest_trade": {
       "transaction_id": "1383224827728367616",
       "created_at": "2026-07-15T20:56:47.307000+00:00",
@@ -80,49 +80,49 @@
         "2026 Round 2 (Rapid Valley Annihilation)"
       ],
       "picks_sent": [],
-      "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.3 D-AVI; Bhayshul Tuten is now the current RB starter at 72.8 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+      "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 61.5 C-AVI and 72.8 D-AVI; Bhayshul Tuten is now the current RB starter at 72.1 C-AVI and 76.4 D-AVI; The deal added 1 draft asset."
     },
-    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.3 D-AVI; Bhayshul Tuten is now the current RB starter at 72.8 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 61.5 C-AVI and 72.8 D-AVI; Bhayshul Tuten is now the current RB starter at 72.1 C-AVI and 76.4 D-AVI; The deal added 1 draft asset."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 523.30 lineup C-AVI. Rapid Valley Annihilation is immediately above at 545.10, a gap of 21.80. Northside Kings is immediately behind at 490.50."
+      "body": "Projected #14 of 16 at 533.60 lineup C-AVI. Rapid Valley Annihilation is immediately above at 539.40, a gap of 5.80. Northside Kings is immediately behind at 484.10."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are DeVonta Smith (87.5), Alec Pierce (74.9), and Justin Herbert (71.8)."
+      "body": "The three highest C-AVI starters are DeVonta Smith (87.4), Alec Pierce (74.3), and Justin Herbert (71.6)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
+      "body": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 49.4 C-AVI and 66.4 D-AVI; Jakobi Meyers is now the current FLEX starter at 64.6 C-AVI and 69.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jerry Jeudy's 49.3 C-AVI baseline; a replacement near 71.1 C-AVI would directly attack the 21.80-point projected gap to Rapid Valley Annihilation. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the RB slot above Tyjae Spears's 48.9 C-AVI baseline; a replacement near 54.7 C-AVI would directly attack the 5.80-point projected gap to Rapid Valley Annihilation. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Jerry Jeudy's 49.3 C-AVI baseline; a replacement near 71.1 C-AVI would directly attack the 21.80-point projected gap to Rapid Valley Annihilation.",
+        "Raise the RB slot above Tyjae Spears's 48.9 C-AVI baseline; a replacement near 54.7 C-AVI would directly attack the 5.80-point projected gap to Rapid Valley Annihilation.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.3 C-AVI and 75.3 D-AVI; Bhayshul Tuten is now the current RB starter at 72.8 C-AVI and 78.7 D-AVI; The deal added 1 draft asset."
+      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 61.5 C-AVI and 72.8 D-AVI; Bhayshul Tuten is now the current RB starter at 72.1 C-AVI and 76.4 D-AVI; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jerry Jeudy is the lowest C-AVI starter in the verified championship lineup at 49.3. Any acquisition should clear that exact lineup threshold."
+      "body": "Tyjae Spears is the lowest C-AVI starter in the verified championship lineup at 48.9. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 11 offensive players in the current team file are marked Active."
+      "body": "All 13 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",
@@ -137,7 +137,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-24",
+    "source_last_updated": "2026-07-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -5,33 +5,33 @@
   "roster_id": 3,
   "owner_display_name": "Mentomorii",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 24, 2026",
-  "generated_at": "2026-07-24T14:53:07.343126-06:00",
+  "reporting_period": "Week of July 25, 2026",
+  "generated_at": "2026-07-25T12:04:06.249079-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Ravens Regime: Preseason Front Office Brief",
-  "executive_summary": "Ravens Regime is projected #6 of 16 with a 640.70 projected-starting-lineup C-AVI total, led by Tyler Warren, Lamar Jackson, and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Ravens Regime is projected #5 of 16 with a 635.90 projected-starting-lineup C-AVI total, led by Tyler Warren, Lamar Jackson, and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 6,
+    "rank": 5,
     "league_size": 16,
-    "score": 640.7,
+    "score": 635.9,
     "team_above": {
-      "name": "Corgi Loaf Baking Co.",
-      "rank": 5,
-      "score": 646.6,
-      "gap": 5.899999999999977
+      "name": "SmokyValleyWheatWarriors",
+      "rank": 4,
+      "score": 658.5,
+      "gap": 22.600000000000023
     },
     "team_below": {
-      "name": "Southside Savages",
-      "rank": 7,
-      "score": 627.0,
-      "gap": 13.700000000000045
+      "name": "Corgi Loaf Baking Co.",
+      "rank": 6,
+      "score": 626.6,
+      "gap": 9.299999999999955
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 14,
+    "rank": 13,
     "league_size": 16,
-    "score": 722.7,
+    "score": 709.1,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -51,69 +51,73 @@
     "picks_sent": [
       "2026 Round 2 (Rapid Valley Annihilation)"
     ],
-    "summary": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.2 C-AVI and 90.5 D-AVI; The deal sent out 1 draft asset, reducing future flexibility."
+    "summary": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.1 C-AVI and 90.1 D-AVI; The deal sent out 1 draft asset, reducing future flexibility."
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Kyle Monangai's 55.5 C-AVI baseline; a replacement near 65.7 C-AVI would directly attack the 5.90-point projected gap to Corgi Loaf Baking Co..",
+    "Raise the RB slot above Kyle Monangai's 54.5 C-AVI baseline; a replacement near 77.1 C-AVI would directly attack the 22.60-point projected gap to SmokyValleyWheatWarriors.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
-    "franchise_name": "Southside Savages",
-    "projected_rank": 7,
-    "projected_score": 627.0,
+    "franchise_name": "Corgi Loaf Baking Co.",
+    "projected_rank": 6,
+    "projected_score": 626.6,
     "latest_trade": {
-      "transaction_id": "1283906516683853824",
-      "created_at": "2025-10-14T19:21:16.708000+00:00",
+      "transaction_id": "1386482894020542464",
+      "created_at": "2026-07-24T20:43:10.843000+00:00",
       "counterparties": [
-        "Roster 3"
+        "Crimson Tide Pods"
       ],
-      "players_received": [
-        "Tetairoa McMillan"
+      "players_received": [],
+      "players_sent": [
+        "Gunnar Helm",
+        "Jakobi Meyers"
       ],
-      "players_sent": [],
-      "picks_received": [],
+      "picks_received": [
+        "2026 Round 1 (Crimson Tide Pods)",
+        "2026 Round 1 (All Hail King Jesus)"
+      ],
       "picks_sent": [
-        "2026 Round 1 (Southside Savages)",
-        "2026 Round 2 (Southside Savages)"
+        "2027 Round 3 (Corgi Loaf Baking Co.)",
+        "2028 Round 2 (Corgi Loaf Baking Co.)"
       ],
-      "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "summary": "On July 24, Corgi Loaf Baking Co. traded with Crimson Tide Pods and acquired 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus) while sending Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.). The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
     },
-    "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+    "summary": "On July 24, Corgi Loaf Baking Co. traded with Crimson Tide Pods and acquired 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus) while sending Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.). The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #6 of 16 at 640.70 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 646.60, a gap of 5.90. Southside Savages is immediately behind at 627.00."
+      "body": "Projected #5 of 16 at 635.90 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 658.50, a gap of 22.60. Corgi Loaf Baking Co. is immediately behind at 626.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Tyler Warren (97.2), Lamar Jackson (97.1), and Derrick Henry (92.8)."
+      "body": "The three highest C-AVI starters are Tyler Warren (97.1), Lamar Jackson (97.0), and Derrick Henry (92.0)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.2 C-AVI and 90.5 D-AVI; The deal sent out 1 draft asset, reducing future flexibility."
+      "body": "On July 15, Ravens Regime traded with Northside Kings and acquired Tyler Warren while sending RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.1 C-AVI and 90.1 D-AVI; The deal sent out 1 draft asset, reducing future flexibility."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Kyle Monangai's 55.5 C-AVI baseline; a replacement near 65.7 C-AVI would directly attack the 5.90-point projected gap to Corgi Loaf Baking Co.. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the RB slot above Kyle Monangai's 54.5 C-AVI baseline; a replacement near 77.1 C-AVI would directly attack the 22.60-point projected gap to SmokyValleyWheatWarriors. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the RB slot above Kyle Monangai's 55.5 C-AVI baseline; a replacement near 65.7 C-AVI would directly attack the 5.90-point projected gap to Corgi Loaf Baking Co..",
+        "Raise the RB slot above Kyle Monangai's 54.5 C-AVI baseline; a replacement near 77.1 C-AVI would directly attack the 22.60-point projected gap to SmokyValleyWheatWarriors.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.6 C-AVI and 87.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "body": "On July 24, Corgi Loaf Baking Co. traded with Crimson Tide Pods and acquired 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus) while sending Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.). The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Kyle Monangai is the lowest C-AVI starter in the verified championship lineup at 55.5. Any acquisition should clear that exact lineup threshold."
+      "body": "Kyle Monangai is the lowest C-AVI starter in the verified championship lineup at 54.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -133,7 +137,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-24",
+    "source_last_updated": "2026-07-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }
