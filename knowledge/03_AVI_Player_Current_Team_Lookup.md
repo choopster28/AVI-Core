@@ -120,9 +120,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Breece Hall
 - Player ID: 8155
 - Position: RB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: Brenton Strange
 - Player name: Brenton Strange
@@ -1192,9 +1192,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Saquon Barkley
 - Player ID: 4866
 - Position: RB
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Team file: 12_DMV_Fantasy.md
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Stefon Diggs
 - Player name: Stefon Diggs

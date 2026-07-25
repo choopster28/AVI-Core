@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-24T21:44:43.890917+00:00",
+  "generated_at_utc": "2026-07-25T06:09:23.212799+00:00",
   "statistics": {
-    "owner_trade_participations": 131,
+    "owner_trade_participations": 133,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -20,7 +20,7 @@
         "team_name": "Badland Banditos "
       },
       {
-        "partner_count": 5,
+        "partner_count": 6,
         "partners": [
           "DMV Fantasy"
         ],
@@ -57,7 +57,7 @@
         "team_name": "Crimson Tide Pods"
       },
       {
-        "partner_count": 5,
+        "partner_count": 6,
         "partners": [
           "Big Balder Brand"
         ],
@@ -148,18 +148,18 @@
         "by_season": {
           "2024": 7,
           "2025": 2,
-          "2026": 9
+          "2026": 10
         },
         "firsts_in": 6,
         "firsts_out": 9,
         "owner_display_name": "Choopski",
         "picks_in": 11,
         "picks_out": 15,
-        "players_in": 26,
-        "players_out": 29,
+        "players_in": 28,
+        "players_out": 30,
         "roster_id": 9,
         "team_name": "Big Balder Brand",
-        "total": 18
+        "total": 19
       },
       {
         "by_season": {
@@ -231,6 +231,23 @@
       },
       {
         "by_season": {
+          "2024": 5,
+          "2025": 2,
+          "2026": 3
+        },
+        "firsts_in": 4,
+        "firsts_out": 2,
+        "owner_display_name": "TacticsNoob",
+        "picks_in": 8,
+        "picks_out": 3,
+        "players_in": 16,
+        "players_out": 13,
+        "roster_id": 12,
+        "team_name": "DMV Fantasy",
+        "total": 10
+      },
+      {
+        "by_season": {
           "2024": 4,
           "2025": 4,
           "2026": 1
@@ -244,23 +261,6 @@
         "players_out": 11,
         "roster_id": 7,
         "team_name": "Badland Banditos ",
-        "total": 9
-      },
-      {
-        "by_season": {
-          "2024": 5,
-          "2025": 2,
-          "2026": 2
-        },
-        "firsts_in": 4,
-        "firsts_out": 2,
-        "owner_display_name": "TacticsNoob",
-        "picks_in": 8,
-        "picks_out": 3,
-        "players_in": 15,
-        "players_out": 11,
-        "roster_id": 12,
-        "team_name": "DMV Fantasy",
         "total": 9
       },
       {
@@ -408,10 +408,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 22
+      "2026": 23
     },
-    "two_team_trades": 64,
-    "unique_completed_trades": 65
+    "two_team_trades": 65,
+    "unique_completed_trades": 66
   },
   "trades": [
     {
@@ -5574,6 +5574,70 @@
         }
       ],
       "transaction_id": "1386482894020542464",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-25T03:02:56.026000+00:00",
+      "created_timestamp_ms": 1784948576026,
+      "roster_ids": [
+        9,
+        12
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "11786",
+              "player_name": "Cam Little"
+            },
+            {
+              "player_id": "4866",
+              "player_name": "Saquon Barkley"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11786",
+              "player_name": "Cam Little"
+            },
+            {
+              "player_id": "4866",
+              "player_name": "Saquon Barkley"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2026,
+          "team_name": "DMV Fantasy"
+        }
+      ],
+      "transaction_id": "1386578462004772864",
       "week": 1
     }
   ]
