@@ -9049,7 +9049,7 @@
       "genius_id": "1008998",
       "rookie_year": "2023"
     },
-    "news_updated": 1784920856884,
+    "news_updated": 1784991902473,
     "number": 0,
     "oddsjam_id": "5ED6CE4EDFBB",
     "opta_id": null,
@@ -52191,7 +52191,7 @@
       "genius_id": "1412504",
       "rookie_year": "2023"
     },
-    "news_updated": 1779150015381,
+    "news_updated": 1784989202366,
     "number": 17,
     "oddsjam_id": "872D94B3727D",
     "opta_id": null,
@@ -58727,7 +58727,7 @@
       "genius_id": "1463696",
       "rookie_year": "2024"
     },
-    "news_updated": 1784319920885,
+    "news_updated": 1784992202594,
     "number": 7,
     "oddsjam_id": "8542FBE776C7",
     "opta_id": null,
@@ -60054,7 +60054,7 @@
       "genius_id": "1075225",
       "rookie_year": "2024"
     },
-    "news_updated": 1784080835847,
+    "news_updated": 1784985602189,
     "number": 31,
     "oddsjam_id": "976403A17844",
     "opta_id": null,
@@ -123267,7 +123267,7 @@
     "injury_body_part": "Lower Leg",
     "injury_notes": "Fracture",
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "kalshi_id": "4876621f-4161-45cd-926f-df0858bfc705",
     "last_name": "Amos",
     "metadata": {
@@ -124682,7 +124682,7 @@
     "injury_body_part": "Knee - ACL",
     "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "kalshi_id": "d8f22159-a745-4753-a4a7-1e30a8f86bca",
     "last_name": "Norman-Lott",
     "metadata": {
@@ -169689,7 +169689,7 @@
       "rookie_year": "2026",
       "source_id": "34ee4830-92c4-11ed-8165-1b7b8311cdae"
     },
-    "news_updated": 1784922656361,
+    "news_updated": 1784987402203,
     "number": 4,
     "oddsjam_id": null,
     "opta_id": null,
@@ -170839,7 +170839,7 @@
       "rookie_year": "2026",
       "source_id": "7c73bff0-8b5e-11ec-84cd-2d772b2010bf"
     },
-    "news_updated": 1784574346322,
+    "news_updated": 1784988602341,
     "number": 10,
     "oddsjam_id": null,
     "opta_id": null,
@@ -173447,10 +173447,10 @@
     "hashtag": "#johnmichaelgyllenborg-NFL-KC-84",
     "height": "77",
     "high_school": "Rockhurst (MO)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "PUP",
     "kalshi_id": "7c5d5e57-449e-4d4f-a6e1-3ee0d28599e5",
     "last_name": "Gyllenborg",
     "metadata": {
@@ -173763,7 +173763,7 @@
       "rookie_year": "2026",
       "source_id": "c915add0-8921-11ec-a1ad-e7bb44b6038f"
     },
-    "news_updated": 1784405129158,
+    "news_updated": 1784994003171,
     "number": 21,
     "oddsjam_id": null,
     "opta_id": null,
@@ -178326,7 +178326,7 @@
       "rookie_year": "2026",
       "source_id": "5006311b-02c5-4c70-8126-fe099ed5d977"
     },
-    "news_updated": 1783603810529,
+    "news_updated": 1784986502354,
     "number": 26,
     "oddsjam_id": null,
     "opta_id": null,
@@ -398676,7 +398676,7 @@
       "genius_id": "999821",
       "rookie_year": "2017"
     },
-    "news_updated": 1783696219308,
+    "news_updated": 1784988002368,
     "number": 34,
     "oddsjam_id": "192F6515EE16",
     "opta_id": null,
@@ -400450,10 +400450,10 @@
     "hashtag": "#deatrichwise-NFL-WAS-91",
     "height": "77",
     "high_school": "Hebron (TX)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "PUP",
     "kalshi_id": "d08ac919-a972-442b-9c53-1416b3ad1370",
     "last_name": "Wise",
     "metadata": {
@@ -476162,7 +476162,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "kalshi_id": "dfc567fd-ea8d-4196-84c3-fb877f5a3d97",
     "last_name": "Armstrong",
     "metadata": {
@@ -478490,10 +478490,10 @@
     "hashtag": "#timsettle-NFL-WAS-97",
     "height": "75",
     "high_school": "Stonewall Jackson (VA)",
-    "injury_body_part": "Foot",
-    "injury_notes": "Surgery",
+    "injury_body_part": null,
+    "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "44d1b36c-6e9b-40bf-8ffb-f5fa0cafd1f0",
     "last_name": "Settle",
     "metadata": {
@@ -547404,7 +547404,7 @@
       "genius_id": "1130927",
       "rookie_year": "2019"
     },
-    "news_updated": 1782249623289,
+    "news_updated": 1784991302593,
     "number": 16,
     "oddsjam_id": "85083B8C757C",
     "opta_id": null,
@@ -590394,7 +590394,7 @@
       "injury_override_regular_2025_6": "Out",
       "rookie_year": "2020"
     },
-    "news_updated": 1784565045148,
+    "news_updated": 1784993402679,
     "number": 17,
     "oddsjam_id": "92C83622BC0E",
     "opta_id": null,
@@ -714438,7 +714438,7 @@
       "genius_id": "1398559",
       "rookie_year": "2023"
     },
-    "news_updated": 1784746804650,
+    "news_updated": 1784990402519,
     "number": 5,
     "oddsjam_id": "FD2C905B710A",
     "opta_id": null,

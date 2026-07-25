@@ -1,5 +1,5 @@
 {
-  "count": "130",
+  "count": "131",
   "players": [
     {
       "filename": "jahmyr-gibbs.php",
@@ -1794,6 +1794,34 @@
       "team_id": "BAL"
     },
     {
+      "filename": "marshawn-lloyd.php",
+      "fpid": 23118,
+      "mflid": 16604,
+      "name": "MarShawn Lloyd",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.32,
+        "points": 52.39,
+        "points_half": 58.41,
+        "points_ppr": 64.44,
+        "rec_rec": 12.05,
+        "rec_tds": 0.56,
+        "rec_yds": 85.22,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 67.2,
+        "rush_tds": 2.09,
+        "rush_yds": 286.04,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "GB"
+    },
+    {
       "filename": "christopher-brooks.php",
       "fpid": 25823,
       "mflid": 16387,
@@ -1988,34 +2016,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "DAL"
-    },
-    {
-      "filename": "marshawn-lloyd.php",
-      "fpid": 23118,
-      "mflid": 16604,
-      "name": "MarShawn Lloyd",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.16,
-        "points": 36.64,
-        "points_half": 39.91,
-        "points_ppr": 43.17,
-        "rec_rec": 6.53,
-        "rec_tds": 0.28,
-        "rec_yds": 48.61,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 50.6,
-        "rush_tds": 1.55,
-        "rush_yds": 211.52,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "GB"
     },
     {
       "filename": "kendre-miller.php",
@@ -2746,34 +2746,6 @@
       "team_id": "FA"
     },
     {
-      "filename": "donovan-edwards.php",
-      "fpid": 23014,
-      "mflid": 17057,
-      "name": "Donovan Edwards",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 20.9,
-        "points_half": 21.9,
-        "points_ppr": 22.9,
-        "rec_rec": 2,
-        "rec_tds": 0,
-        "rec_yds": 19,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 31,
-        "rush_tds": 1,
-        "rush_yds": 130,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "MIA"
-    },
-    {
       "filename": "carlos-washington-jr.php",
       "fpid": 25644,
       "mflid": 16864,
@@ -2800,6 +2772,62 @@
         "scrimage_yards_200": 0
       },
       "team_id": "MIA"
+    },
+    {
+      "filename": "audric-estime.php",
+      "fpid": 23054,
+      "mflid": 16595,
+      "name": "Audric Estime",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 20.6,
+        "points_half": 22.1,
+        "points_ppr": 23.6,
+        "rec_rec": 3,
+        "rec_tds": 0,
+        "rec_yds": 24,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 30,
+        "rush_tds": 1,
+        "rush_yds": 122,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "NO"
+    },
+    {
+      "filename": "najee-harris-rb.php",
+      "fpid": 19302,
+      "mflid": 15254,
+      "name": "Najee Harris",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 20.4,
+        "points_half": 21.4,
+        "points_ppr": 22.4,
+        "rec_rec": 2,
+        "rec_tds": 0,
+        "rec_yds": 18,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 28,
+        "rush_tds": 1,
+        "rush_yds": 126,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "LAC"
     },
     {
       "filename": "demond-claiborne.php",

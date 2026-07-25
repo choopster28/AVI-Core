@@ -1,5 +1,5 @@
 {
-  "count": "200",
+  "count": "199",
   "players": [
     {
       "filename": "jordyn-brooks.php",
@@ -2532,29 +2532,6 @@
       "team_id": "PHI"
     },
     {
-      "filename": "nic-scourton.php",
-      "fpid": 27020,
-      "mflid": 17119,
-      "name": "Nic Scourton",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 16.9,
-        "def_ff": 0.9,
-        "def_fr": 0.59,
-        "def_int": 0.21,
-        "def_pd": 2.48,
-        "def_sack": 4.92,
-        "def_safety": 0,
-        "def_tackle": 39.93,
-        "def_td": 0.09,
-        "def_tlost": 0,
-        "points": 103.52,
-        "points_half": 103.52,
-        "points_ppr": 103.52
-      },
-      "team_id": "CAR"
-    },
-    {
       "filename": "dremont-jones.php",
       "fpid": 18212,
       "mflid": 14164,
@@ -4326,6 +4303,29 @@
       "team_id": "SF"
     },
     {
+      "filename": "jaishawn-barham.php",
+      "fpid": 28200,
+      "mflid": 17606,
+      "name": "Jaishawn Barham",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 2.5,
+        "def_ff": 0.11,
+        "def_fr": 0.07,
+        "def_int": 0.02,
+        "def_pd": 0.29,
+        "def_sack": 0.79,
+        "def_safety": 0,
+        "def_tackle": 5.91,
+        "def_td": 0.01,
+        "def_tlost": 0,
+        "points": 15.22,
+        "points_half": 15.22,
+        "points_ppr": 15.22
+      },
+      "team_id": "DAL"
+    },
+    {
       "filename": "patrick-oconnell.php",
       "fpid": 25687,
       "mflid": 16443,
@@ -4485,29 +4485,6 @@
         "points_ppr": 8.7
       },
       "team_id": "DET"
-    },
-    {
-      "filename": "marist-liufau.php",
-      "fpid": 26312,
-      "mflid": 16707,
-      "name": "Marist Liufau",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 1.64,
-        "def_ff": 0.08,
-        "def_fr": 0.05,
-        "def_int": 0.02,
-        "def_pd": 0.12,
-        "def_sack": 0.09,
-        "def_safety": 0,
-        "def_tackle": 3.71,
-        "def_td": 0,
-        "def_tlost": 0,
-        "points": 7.96,
-        "points_half": 7.96,
-        "points_ppr": 7.96
-      },
-      "team_id": "DAL"
     },
     {
       "filename": "smael-mondon-jr.php",
