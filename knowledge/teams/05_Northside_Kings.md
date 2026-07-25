@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-07-24
+- Last updated from Sleeper exports: 2026-07-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -18,15 +18,15 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - kickers: 0
 - idp: 1
 - other: 0
-- keepers: 12
+- keepers: 13
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 490.5
 - championship_lineup_c_avi_avg: 61.31
-- offensive_roster_c_avi_sum: 741.6
-- offensive_roster_c_avi_avg: 49.44
-- offensive_roster_d_avi_sum: 953.1
-- offensive_roster_d_avi_avg: 63.54
+- offensive_roster_c_avi_sum: 741.7
+- offensive_roster_c_avi_avg: 49.45
+- offensive_roster_d_avi_sum: 953.3
+- offensive_roster_d_avi_avg: 63.55
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Jordan Addison | C-AVI: 60.2 | D-AVI: 74.8
 - TE: T.J. Hockenson | C-AVI: 58.0 | D-AVI: 72.9
 - FLEX: Xavier Worthy | C-AVI: 57.8 | D-AVI: 71.0
-- FLEX: Kenny Gainwell | C-AVI: 56.9 | D-AVI: 70.7
+- FLEX: Kenny Gainwell | C-AVI: 56.9 | D-AVI: 70.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 56.9
-- Dynasty AVI (D-AVI, 0-100): 70.7
+- Dynasty AVI (D-AVI, 0-100): 70.8
 - Projected PPR points: 166.3
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 43.0
-- Dynasty AVI (D-AVI, 0-100): 59.8
+- Championship AVI (C-AVI, 0-100): 43.1
+- Dynasty AVI (D-AVI, 0-100): 59.9
 - Projected PPR points: 93.0
 - Category: offense
 - Valuation status: PROVISIONAL_V1

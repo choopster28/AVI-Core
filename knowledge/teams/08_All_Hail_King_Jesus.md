@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-07-24
+- Last updated from Sleeper exports: 2026-07-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,17 +21,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 625.6
-- championship_lineup_c_avi_avg: 78.20
-- offensive_roster_c_avi_sum: 672.9
-- offensive_roster_c_avi_avg: 67.29
-- offensive_roster_d_avi_sum: 714.8
-- offensive_roster_d_avi_avg: 71.48
+- championship_lineup_c_avi_sum: 625.7
+- championship_lineup_c_avi_avg: 78.21
+- offensive_roster_c_avi_sum: 673.0
+- offensive_roster_c_avi_avg: 67.30
+- offensive_roster_d_avi_sum: 714.9
+- offensive_roster_d_avi_avg: 71.49
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 77.5 | D-AVI: 80.4
-- RB: Aaron Jones | C-AVI: 56.2 | D-AVI: 66.7
+- RB: Aaron Jones | C-AVI: 56.3 | D-AVI: 66.8
 - RB: Zach Charbonnet | C-AVI: 51.5 | D-AVI: 71.4
 - WR: Jaxon Smith-Njigba | C-AVI: 99.1 | D-AVI: 92.0
 - WR: Amon-Ra St. Brown | C-AVI: 98.6 | D-AVI: 91.4
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 56.2
-- Dynasty AVI (D-AVI, 0-100): 66.7
+- Championship AVI (C-AVI, 0-100): 56.3
+- Dynasty AVI (D-AVI, 0-100): 66.8
 - Projected PPR points: 168.0
 - Category: offense
 - Valuation status: PROVISIONAL_V1

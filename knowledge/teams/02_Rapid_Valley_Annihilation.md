@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-07-24
+- Last updated from Sleeper exports: 2026-07-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 545.1
-- championship_lineup_c_avi_avg: 68.14
-- offensive_roster_c_avi_sum: 651.9
-- offensive_roster_c_avi_avg: 59.26
-- offensive_roster_d_avi_sum: 793.5
-- offensive_roster_d_avi_avg: 72.14
+- championship_lineup_c_avi_sum: 545.0
+- championship_lineup_c_avi_avg: 68.12
+- offensive_roster_c_avi_sum: 651.8
+- offensive_roster_c_avi_avg: 59.25
+- offensive_roster_d_avi_sum: 793.4
+- offensive_roster_d_avi_avg: 72.13
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Quentin Johnston | C-AVI: 59.0 | D-AVI: 70.4
 - TE: Colston Loveland | C-AVI: 98.1 | D-AVI: 91.1
 - FLEX: AJ Barner | C-AVI: 55.1 | D-AVI: 73.9
-- FLEX: Blake Corum | C-AVI: 54.1 | D-AVI: 71.8
+- FLEX: Blake Corum | C-AVI: 54.0 | D-AVI: 71.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 54.1
-- Dynasty AVI (D-AVI, 0-100): 71.8
+- Championship AVI (C-AVI, 0-100): 54.0
+- Dynasty AVI (D-AVI, 0-100): 71.7
 - Projected PPR points: 138.6
 - Category: offense
 - Valuation status: PROVISIONAL_V1

@@ -9,33 +9,33 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1129546394534158336
 - Division: 4
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-07-24
+- Last updated from Sleeper exports: 2026-07-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 15
+- total_players: 14
 - offense: 11
-- kickers: 2
+- kickers: 1
 - idp: 2
 - other: 0
-- keepers: 15
+- keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 591.7
-- championship_lineup_c_avi_avg: 73.96
-- offensive_roster_c_avi_sum: 673.7
-- offensive_roster_c_avi_avg: 61.25
-- offensive_roster_d_avi_sum: 736.7
-- offensive_roster_d_avi_avg: 66.97
+- championship_lineup_c_avi_sum: 587.9
+- championship_lineup_c_avi_avg: 73.49
+- offensive_roster_c_avi_sum: 669.9
+- offensive_roster_c_avi_avg: 60.90
+- offensive_roster_d_avi_sum: 737.1
+- offensive_roster_d_avi_avg: 67.01
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 96.1 | D-AVI: 90.1
-- RB: Saquon Barkley | C-AVI: 92.0 | D-AVI: 86.7
+- RB: Breece Hall | C-AVI: 88.0 | D-AVI: 86.6
 - RB: Tony Pollard | C-AVI: 66.1 | D-AVI: 73.5
 - WR: Terry McLaurin | C-AVI: 78.9 | D-AVI: 80.3
 - WR: Khalil Shakir | C-AVI: 59.5 | D-AVI: 69.3
-- TE: George Kittle | C-AVI: 79.8 | D-AVI: 82.3
+- TE: George Kittle | C-AVI: 80.0 | D-AVI: 82.8
 - FLEX: Brenton Strange | C-AVI: 62.3 | D-AVI: 77.5
 - FLEX: Rachaad White | C-AVI: 57.0 | D-AVI: 69.7
 
@@ -59,20 +59,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
-### PLAYER: Saquon Barkley
-- Player name: Saquon Barkley
-- Player ID: 4866
+### PLAYER: Breece Hall
+- Player name: Breece Hall
+- Player ID: 8155
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: PHI
+- NFL team: NYJ
 - Active: True
 - Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 92.0
-- Dynasty AVI (D-AVI, 0-100): 86.7
-- Projected PPR points: 265.8
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 88.0
+- Dynasty AVI (D-AVI, 0-100): 86.6
+- Projected PPR points: 253.5
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 79.8
-- Dynasty AVI (D-AVI, 0-100): 82.3
+- Championship AVI (C-AVI, 0-100): 80.0
+- Dynasty AVI (D-AVI, 0-100): 82.8
 - Projected PPR points: 175.1
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -228,23 +228,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Cam Little
-- Player name: Cam Little
-- Player ID: 11786
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: K
-- Fantasy positions: ['K']
-- NFL team: JAX
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: kicker
-- Valuation status: EXCLUDED_FROM_AVI
 
 ### PLAYER: Jake Bates
 - Player name: Jake Bates

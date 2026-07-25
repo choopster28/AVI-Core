@@ -9,24 +9,24 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-07-24
+- Last updated from Sleeper exports: 2026-07-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 12
-- offense: 11
+- total_players: 14
+- offense: 13
 - kickers: 0
 - idp: 1
 - other: 0
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 523.3
-- championship_lineup_c_avi_avg: 65.41
-- offensive_roster_c_avi_sum: 617.0
-- offensive_roster_c_avi_avg: 56.09
-- offensive_roster_d_avi_sum: 734.8
-- offensive_roster_d_avi_avg: 66.80
+- championship_lineup_c_avi_sum: 539.3
+- championship_lineup_c_avi_avg: 67.41
+- offensive_roster_c_avi_sum: 733.3
+- offensive_roster_c_avi_avg: 56.41
+- offensive_roster_d_avi_sum: 876.1
+- offensive_roster_d_avi_avg: 67.39
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,9 +35,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Tyjae Spears | C-AVI: 50.4 | D-AVI: 64.7
 - WR: DeVonta Smith | C-AVI: 87.5 | D-AVI: 85.6
 - WR: Alec Pierce | C-AVI: 74.9 | D-AVI: 78.5
-- TE: Oronde Gadsden | C-AVI: 56.2 | D-AVI: 77.8
+- TE: Oronde Gadsden | C-AVI: 55.8 | D-AVI: 76.9
 - FLEX: Michael Pittman | C-AVI: 68.2 | D-AVI: 74.7
-- FLEX: Jerry Jeudy | C-AVI: 49.3 | D-AVI: 63.7
+- FLEX: Jakobi Meyers | C-AVI: 65.7 | D-AVI: 72.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 46.2
-- Dynasty AVI (D-AVI, 0-100): 64.8
+- Championship AVI (C-AVI, 0-100): 46.3
+- Dynasty AVI (D-AVI, 0-100): 64.9
 - Projected PPR points: 94.8
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -178,6 +178,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
+### PLAYER: Jakobi Meyers
+- Player name: Jakobi Meyers
+- Player ID: 5947
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: JAX
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 65.7
+- Dynasty AVI (D-AVI, 0-100): 72.1
+- Projected PPR points: 185.7
+- Category: offense
+- Valuation status: PROVISIONAL_V1
+
 ### PLAYER: Jerry Jeudy
 - Player name: Jerry Jeudy
 - Player ID: 6783
@@ -223,9 +240,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 56.2
-- Dynasty AVI (D-AVI, 0-100): 77.8
+- Championship AVI (C-AVI, 0-100): 55.8
+- Dynasty AVI (D-AVI, 0-100): 76.9
 - Projected PPR points: 122.0
+- Category: offense
+- Valuation status: PROVISIONAL_V1
+
+### PLAYER: Gunnar Helm
+- Player name: Gunnar Helm
+- Player ID: 12502
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 50.9
+- Dynasty AVI (D-AVI, 0-100): 70.0
+- Projected PPR points: 111.4
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 

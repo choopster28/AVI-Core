@@ -9,30 +9,30 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-07-24
+- Last updated from Sleeper exports: 2026-07-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 14
+- total_players: 15
 - offense: 13
-- kickers: 0
+- kickers: 1
 - idp: 1
 - other: 0
-- keepers: 14
+- keepers: 15
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 706.7
-- championship_lineup_c_avi_avg: 88.34
-- offensive_roster_c_avi_sum: 934.7
-- offensive_roster_c_avi_avg: 71.90
-- offensive_roster_d_avi_sum: 996.3
-- offensive_roster_d_avi_avg: 76.64
+- championship_lineup_c_avi_sum: 710.7
+- championship_lineup_c_avi_avg: 88.84
+- offensive_roster_c_avi_sum: 938.7
+- offensive_roster_c_avi_avg: 72.21
+- offensive_roster_d_avi_sum: 996.4
+- offensive_roster_d_avi_avg: 76.65
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jaxson Dart | C-AVI: 83.1 | D-AVI: 82.2
 - RB: Omarion Hampton | C-AVI: 92.0 | D-AVI: 88.9
-- RB: Breece Hall | C-AVI: 88.0 | D-AVI: 86.6
+- RB: Saquon Barkley | C-AVI: 92.0 | D-AVI: 86.7
 - WR: Rashee Rice | C-AVI: 95.5 | D-AVI: 85.9
 - WR: A.J. Brown | C-AVI: 94.2 | D-AVI: 87.4
 - TE: Trey McBride | C-AVI: 99.5 | D-AVI: 92.0
@@ -93,20 +93,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
-### PLAYER: Breece Hall
-- Player name: Breece Hall
-- Player ID: 8155
+### PLAYER: Saquon Barkley
+- Player name: Saquon Barkley
+- Player ID: 4866
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: NYJ
+- NFL team: PHI
 - Active: True
 - Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 88.0
-- Dynasty AVI (D-AVI, 0-100): 86.6
-- Projected PPR points: 253.5
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 92.0
+- Dynasty AVI (D-AVI, 0-100): 86.7
+- Projected PPR points: 265.8
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
@@ -262,6 +262,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 257.4
 - Category: offense
 - Valuation status: PROVISIONAL_V1
+
+### PLAYER: Cam Little
+- Player name: Cam Little
+- Player ID: 11786
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: JAX
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
 
 ### PLAYER: Jack Campbell
 - Player name: Jack Campbell

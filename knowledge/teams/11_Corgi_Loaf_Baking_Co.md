@@ -9,24 +9,24 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 16
-- Last updated from Sleeper exports: 2026-07-24
+- Last updated from Sleeper exports: 2026-07-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 14
-- offense: 14
+- total_players: 12
+- offense: 12
 - kickers: 0
 - idp: 0
 - other: 0
-- keepers: 14
+- keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 646.6
-- championship_lineup_c_avi_avg: 80.83
-- offensive_roster_c_avi_sum: 910.3
-- offensive_roster_c_avi_avg: 65.02
-- offensive_roster_d_avi_sum: 1047.1
-- offensive_roster_d_avi_avg: 74.79
+- championship_lineup_c_avi_sum: 630.5
+- championship_lineup_c_avi_avg: 78.81
+- offensive_roster_c_avi_sum: 793.7
+- offensive_roster_c_avi_avg: 66.14
+- offensive_roster_d_avi_sum: 905.0
+- offensive_roster_d_avi_avg: 75.42
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Malik Nabers | C-AVI: 84.5 | D-AVI: 87.2
 - TE: Kyle Pitts | C-AVI: 94.4 | D-AVI: 88.0
 - FLEX: Christian Watson | C-AVI: 70.3 | D-AVI: 78.5
-- FLEX: Jakobi Meyers | C-AVI: 65.7 | D-AVI: 72.1
+- FLEX: Tyrone Tracy | C-AVI: 49.6 | D-AVI: 67.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -212,23 +212,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
-### PLAYER: Jakobi Meyers
-- Player name: Jakobi Meyers
-- Player ID: 5947
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: JAX
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 65.7
-- Dynasty AVI (D-AVI, 0-100): 72.1
-- Projected PPR points: 185.7
-- Category: offense
-- Valuation status: PROVISIONAL_V1
-
 ### PLAYER: Isaac TeSlaa
 - Player name: Isaac TeSlaa
 - Player ID: 12535
@@ -260,23 +243,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 94.4
 - Dynasty AVI (D-AVI, 0-100): 88.0
 - Projected PPR points: 195.7
-- Category: offense
-- Valuation status: PROVISIONAL_V1
-
-### PLAYER: Gunnar Helm
-- Player name: Gunnar Helm
-- Player ID: 12502
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: TEN
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 50.9
-- Dynasty AVI (D-AVI, 0-100): 70.0
-- Projected PPR points: 111.4
 - Category: offense
 - Valuation status: PROVISIONAL_V1
 
