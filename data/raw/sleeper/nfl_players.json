@@ -60054,7 +60054,7 @@
       "genius_id": "1075225",
       "rookie_year": "2024"
     },
-    "news_updated": 1785010505139,
+    "news_updated": 1785090311471,
     "number": 31,
     "oddsjam_id": "976403A17844",
     "opta_id": null,
@@ -118110,7 +118110,7 @@
       "rookie_year": "2025",
       "source_id": "1d31d310-9428-11ec-a0a0-bfb4bc95dfd2"
     },
-    "news_updated": 1784053833331,
+    "news_updated": 1785090911765,
     "number": 10,
     "oddsjam_id": "18A47096F84B1326",
     "opta_id": null,
@@ -174180,10 +174180,10 @@
     "hashtag": "#chrisbrazzell-NFL-CAR-19",
     "height": "76",
     "high_school": "Midland Legacy (TX)",
-    "injury_body_part": null,
-    "injury_notes": null,
+    "injury_body_part": "Knee",
+    "injury_notes": "Soreness",
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "80d73f4b-c6d4-465d-86dd-d92b2a3e1a2b",
     "last_name": "Brazzell",
     "metadata": {
@@ -174191,7 +174191,7 @@
       "rookie_year": "2026",
       "source_id": "0ce29a20-8957-11ec-b4c8-9f80462526e1"
     },
-    "news_updated": 1785084013236,
+    "news_updated": 1785091811603,
     "number": 19,
     "oddsjam_id": null,
     "opta_id": null,
@@ -178515,7 +178515,7 @@
       "rookie_year": "2026",
       "source_id": "f0f9f984-0feb-4e43-9881-f075ca2b64e4"
     },
-    "news_updated": 1783948821171,
+    "news_updated": 1785089411418,
     "number": 15,
     "oddsjam_id": null,
     "opta_id": null,
@@ -308058,7 +308058,7 @@
       "genius_id": "835715",
       "rookie_year": "2015"
     },
-    "news_updated": 1783962323089,
+    "news_updated": 1785093311779,
     "number": 5,
     "oddsjam_id": "A7FE31CB03D5",
     "opta_id": null,
@@ -340935,7 +340935,7 @@
       "genius_id": "941271",
       "rookie_year": "2016"
     },
-    "news_updated": 1785077710403,
+    "news_updated": 1785092713286,
     "number": 7,
     "oddsjam_id": "9FF3592DDC0A",
     "opta_id": null,
@@ -390122,7 +390122,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2017"
     },
-    "news_updated": 1784037331420,
+    "news_updated": 1785090011384,
     "number": 4,
     "oddsjam_id": "E96B7CB81FFD",
     "opta_id": null,
@@ -451023,7 +451023,7 @@
       "injury_override_regular_2024_9": "IR",
       "rookie_year": "2018"
     },
-    "news_updated": 1784571345774,
+    "news_updated": 1785092413353,
     "number": 3,
     "oddsjam_id": "6535555F647D",
     "opta_id": null,
@@ -519837,7 +519837,7 @@
       "genius_id": "1013642",
       "rookie_year": "2019"
     },
-    "news_updated": 1784053833306,
+    "news_updated": 1785092111691,
     "number": 43,
     "oddsjam_id": "EFEA19FE377C",
     "opta_id": null,
@@ -520592,7 +520592,7 @@
     "college": "Penn State",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DL",
     "espn_id": 3929641,
     "fantasy_data_id": 20773,
     "fantasy_positions": [
@@ -607966,10 +607966,10 @@
     "hashtag": "#danchisena-NFL-CAR-88",
     "height": "75",
     "high_school": "Downingtown-East (PA)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "fb01a0a1-f259-4804-acc5-2b939e8fee47",
     "last_name": "Chisena",
     "metadata": {
@@ -636027,7 +636027,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "kalshi_id": "fa1b824c-8c30-461b-b0c3-12390de0d43a",
     "last_name": "Van Lanen",
     "metadata": {
@@ -659337,7 +659337,7 @@
       "genius_id": "1343505",
       "rookie_year": "2022"
     },
-    "news_updated": 1784053233063,
+    "news_updated": 1785090311473,
     "number": 1,
     "oddsjam_id": "2820805E8162",
     "opta_id": null,
@@ -682493,10 +682493,10 @@
     "hashtag": "#vederianlowe-NFL-SF-76",
     "height": "78",
     "high_school": "Auburn (IL)",
-    "injury_body_part": null,
+    "injury_body_part": "Ankle",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "c163c5be-901c-4d7c-9b49-9531ac8d06ce",
     "last_name": "Lowe",
     "metadata": {
