@@ -4037,14 +4037,14 @@
       "c_avi": 36.5,
       "d_avi": 55.5,
       "nfl_team": "DET",
-      "owner_id": "986498458162970624",
+      "owner_id": "992908759074680832",
       "player_name": "Isaac TeSlaa",
       "position": "WR",
-      "roster_id": 11,
+      "roster_id": 3,
       "sleeper_id": "12535",
       "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -4837,14 +4837,14 @@
       "c_avi": 93.7,
       "d_avi": 86.9,
       "nfl_team": "ATL",
-      "owner_id": "986498458162970624",
+      "owner_id": "992908759074680832",
       "player_name": "Kyle Pitts",
       "position": "TE",
-      "roster_id": 11,
+      "roster_id": 3,
       "sleeper_id": "7553",
       "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -5813,14 +5813,14 @@
       "c_avi": 97.0,
       "d_avi": 90.0,
       "nfl_team": "IND",
-      "owner_id": "992908759074680832",
+      "owner_id": "986498458162970624",
       "player_name": "Tyler Warren",
       "position": "TE",
-      "roster_id": 3,
+      "roster_id": 11,
       "sleeper_id": "12518",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,

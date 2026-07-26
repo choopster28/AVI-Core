@@ -496,9 +496,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Isaac TeSlaa
 - Player ID: 12535
 - Position: WR
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Isaiah Likely
 - Player name: Isaiah Likely
@@ -896,9 +896,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Kyle Pitts
 - Player ID: 7553
 - Position: TE
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Kyler Murray
 - Player name: Kyler Murray
@@ -1384,9 +1384,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Tyler Warren
 - Player ID: 12518
 - Position: TE
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Tyreek Hill
 - Player name: Tyreek Hill

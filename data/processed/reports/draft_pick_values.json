@@ -9,7 +9,7 @@
     2027,
     2028
   ],
-  "generated_at_utc": "2026-07-26T15:51:19.056480+00:00",
+  "generated_at_utc": "2026-07-26T18:15:22.009427+00:00",
   "league_id": "1312185568032997376",
   "max_rounds": 10,
   "pick_count": 480,
@@ -44,8 +44,8 @@
     },
     {
       "avi_category": "Blue-Chip Starter",
-      "current_owner_roster_id": 11,
-      "current_owner_team": "Corgi Loaf Baking Co. ",
+      "current_owner_roster_id": 3,
+      "current_owner_team": "Ravens Regime ",
       "draft_pick_avi": 88.6,
       "original_roster_id": 2,
       "original_team": "Rapid Valley Annihilation",
@@ -114,8 +114,8 @@
     },
     {
       "avi_category": "Blue-Chip Starter",
-      "current_owner_roster_id": 3,
-      "current_owner_team": "Ravens Regime ",
+      "current_owner_roster_id": 11,
+      "current_owner_team": "Corgi Loaf Baking Co. ",
       "draft_pick_avi": 80.6,
       "original_roster_id": 3,
       "original_team": "Ravens Regime ",
