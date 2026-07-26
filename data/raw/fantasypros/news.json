@@ -1,23 +1,60 @@
 {
-  "count": 22,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News"
+        "News",
+        "Injury"
       ],
-      "created": "2026-07-25 04:14:48",
-      "created_formated": "Sat, Jul 25th 4:14am UTC",
-      "desc": "Buccaneers beat reporter Scott Reynolds suggested the team may want to reduce Bucky Irving's workload to allow him to be more effective this season. ",
-      "id": 597945,
-      "impact": "Reynolds notes that there's a reason why Bucs head coach Todd Bowles has called Irving and Kenneth Gainwell 1A and 1B. The Bucs gave Gainwell a two-year, $14 million deal in free agency and he has reportedly impressed new offensive coordinator Zac Robinson. Gainwell emerged in a big way with the Steelers last season and it appears he could be in line for another similar role in the backfield for Tampa Bay. Irving is expected to be good to go in training camp, but he missed time earlier in the teams offseason program recovering from a shoulder injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/597945/bucky-irving-could-see-reduced-workload-to-be-more-effective-.php",
-      "player_id": 25981,
+      "created": "2026-07-26 01:55:43",
+      "created_formated": "Sun, Jul 26th 1:55am UTC",
+      "desc": "Josh Jones practiced on Saturday. ",
+      "id": 598186,
+      "impact": "Jones missed time earlier in the Seahawks offseason program. He'll be a full-go heading into training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598186/josh-jones-practices-saturday-.php",
+      "player_id": 19235,
       "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Bucky Irving could see reduced workload to be more effective "
+      "team_id": "SEA",
+      "title": "Josh Jones practices Saturday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-26 01:54:48",
+      "created_formated": "Sun, Jul 26th 1:54am UTC",
+      "desc": "Eric Saubert was able to practice at Seahawks training camp on Saturday. ",
+      "id": 598185,
+      "impact": "Saubert missed time earlier in the Seahawks offseason program. He'll hold a depth role in the Seahawks tight end room. ",
+      "link": "https://www.fantasypros.com/nfl/news/598185/eric-saubert-practices-saturday-.php",
+      "player_id": 16706,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Eric Saubert practices Saturday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-26 01:52:52",
+      "created_formated": "Sun, Jul 26th 1:52am UTC",
+      "desc": "AJ Barner was cleared for training camp.",
+      "id": 598184,
+      "impact": "Barner missed time earlier in the offseason after undergoing surgery. He'll be on the TE2 radar for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/598184/aj-barner-avoids-pup-list.php",
+      "player_id": 26335,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "AJ Barner avoids PUP list"
     },
     {
       "author": "Ari Koslow",
@@ -25,33 +62,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-07-24 21:48:19",
-      "created_formated": "Fri, Jul 24th 9:48pm UTC",
-      "desc": "The Patriots waive WR Jimmy Kibble with an injury designation.",
-      "id": 597905,
-      "impact": "Kibble signed as an unrestricted free agent in May. He will figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/597905/jimmy-kibble-waived-by-patriots-.php",
-      "player_id": 28820,
+      "created": "2026-07-25 21:50:01",
+      "created_formated": "Sat, Jul 25th 9:50pm UTC",
+      "desc": "The Patriots released OL Sebastian Gutierrez.",
+      "id": 598164,
+      "impact": "Gutierrez had two stints on the practice squad last season with New England. He'll figure to seek another opportunity heading into training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598164/sebastian-gutierrez-released-by-patriots-.php",
+      "player_id": 24814,
       "sport_id": "NFL",
       "team_id": "NE",
-      "title": "Jimmy Kibble waived by Patriots "
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 21:47:08",
-      "created_formated": "Fri, Jul 24th 9:47pm UTC",
-      "desc": "The Ravens are signing wide receiver Chris Moore.",
-      "id": 597904,
-      "impact": "Moore reunites with the Ravens, who drafted him in the fourth round in 2016 before he played five seasons with the team. He appeared in 14 games for the Commanders last season, making 11 catches for 207 yards and a touchdown.",
-      "link": "https://www.fantasypros.com/nfl/news/597904/chris-moore-signing-with-ravens.php",
-      "player_id": 24594,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Chris Moore signing with Ravens"
+      "title": "Sebastian Gutierrez released by Patriots "
     },
     {
       "author": "Ari Koslow",
@@ -59,206 +79,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-07-24 21:13:32",
-      "created_formated": "Fri, Jul 24th 9:13pm UTC",
-      "desc": "The Titans signed Nazeeh Johnson.",
-      "id": 597895,
-      "impact": "Johnson played only two games last season after injuring a shoulder in the preseason. He will compete for a depth role in the Titans secondary. ",
-      "link": "https://www.fantasypros.com/nfl/news/597895/nazeeh-johnson-signs-with-titans-.php",
-      "player_id": 24582,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Nazeeh Johnson signs with Titans "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 21:10:27",
-      "created_formated": "Fri, Jul 24th 9:10pm UTC",
-      "desc": "The Seahawks signed TE Nick Vannett.",
-      "id": 597894,
-      "impact": "Vannett earns a spot in training camp with the Seahawks following a tryout. He was drafted by Seattle back in 2016. ",
-      "link": "https://www.fantasypros.com/nfl/news/597894/nick-vannett-signs-with-seahawks-.php",
-      "player_id": 15645,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Nick Vannett signs with Seahawks "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 20:54:15",
-      "created_formated": "Fri, Jul 24th 8:54pm UTC",
-      "desc": "The Ravens hosted WR Dante Pettis for a tryout on Friday. ",
-      "id": 597886,
-      "impact": "Pettis caught 19 passes with the Bears last season. He will compete for a spot in training camp with Baltimore. ",
-      "link": "https://www.fantasypros.com/nfl/news/597886/dante-pettis-works-out-ravens-.php",
-      "player_id": 17264,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Dante Pettis works out for Ravens "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 20:52:25",
-      "created_formated": "Fri, Jul 24th 8:52pm UTC",
-      "desc": "The Ravens hosted WR Sterling Shepard for a tryout on Friday. ",
-      "id": 597883,
-      "impact": "Shepard caught 34 passes with the Bucs last season. He will compete for a spot in training camp with Baltimore. ",
-      "link": "https://www.fantasypros.com/nfl/news/597883/sterling-shepard-works-out-ravens-.php",
-      "player_id": 15569,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Sterling Shepard works out for Ravens "
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 20:49:08",
-      "created_formated": "Fri, Jul 24th 8:49pm UTC",
-      "desc": "The Panthers have claimed offensive lineman Ryan Hayes off waivers from the Titans.",
-      "id": 597881,
-      "impact": "Hayes was recently waived by Tennessee, but will land with the Panthers in the early stages of training camp. The 26-year-old has just one career NFL regular-season game on his resume from the 2024 season while with the Dolphins.",
-      "link": "https://www.fantasypros.com/nfl/news/597881/ryan-hayes-claimed-by-panthers.php",
-      "player_id": 24714,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Ryan Hayes claimed by Panthers"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 20:48:19",
-      "created_formated": "Fri, Jul 24th 8:48pm UTC",
-      "desc": "The Panthers signed DT Kyon Barrs.",
-      "id": 597880,
-      "impact": "Barrs had a successful workout with Carolina. He'll add depth on its offensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/597880/kyon-barrs-signs-with-panthers-.php",
-      "player_id": 26914,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Kyon Barrs signs with Panthers "
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 20:43:56",
-      "created_formated": "Fri, Jul 24th 8:43pm UTC",
-      "desc": "The Panthers have waived wide receiver Kobe Prentice.",
-      "id": 597877,
-      "impact": "The Panthers signed Prentice as an undrafted free agent, but he has been waived to make room for offensive lineman Ryan Hayes, who the team claimed off waivers from the Titans on Friday.",
-      "link": "https://www.fantasypros.com/nfl/news/597877/kobe-prentice-waived-by-panthers.php",
+      "created": "2026-07-25 21:48:42",
+      "created_formated": "Sat, Jul 25th 9:48pm UTC",
+      "desc": "The Patriots claimed rookie WR Kobe Prentice off waivers. ",
+      "id": 598163,
+      "impact": "Prentice had been waived by the Panthers. The rookie out of Baylor will compete for a depth role in the Patriots wide receiver room. ",
+      "link": "https://www.fantasypros.com/nfl/news/598163/kobe-prentice-claimed-off-waivers-by-patriots-.php",
       "player_id": 26016,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Kobe Prentice waived by Panthers"
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-24 20:39:22",
-      "created_formated": "Fri, Jul 24th 8:39pm UTC",
-      "desc": "Chiefs defensive lineman Omarr Norman-Lott (knee) will likely begin training camp on the physically unable to perform list.",
-      "id": 597873,
-      "impact": "Norman-Lott sustained a season-ending right ACL tear in a win over the Raiders in Week 7 last season. The 24-year-old will begin his second training camp on the PUP list, but it's unclear how long he will be out as players are eligible to come off the PUP list at any point during camp.",
-      "link": "https://www.fantasypros.com/nfl/news/597873/omar-norman-lott-knee-to-begin-camp-on-pup-list.php",
-      "player_id": 27176,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Omar Norman-Lott (knee) to begin camp on PUP list"
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-24 20:36:11",
-      "created_formated": "Fri, Jul 24th 8:36pm UTC",
-      "desc": "Chiefs wideout Rashee Rice (knee) is 'doing great' and is 'cleared to go', according to head coach Andy Reid.",
-      "id": 597872,
-      "impact": "Rice has been rehabbing his right knee this off-season after undergoing a cleanup procedure. The talented receiver also did a 30-day stint in jail after violating the terms of his probation this spring. Rice should once again form a quality duo with Patrick Mahomes, who was also cleared to practice following last season's ACL injury.",
-      "link": "https://www.fantasypros.com/nfl/news/597872/rashee-rice-knee-doing-great-cleared-to-go.php",
-      "player_id": 23113,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Rashee Rice (knee) 'doing great', cleared to go"
-    },
-    {
-      "author": "Brenton Kemp",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-24 20:31:48",
-      "created_formated": "Fri, Jul 24th 8:31pm UTC",
-      "desc": "Chiefs quarterback Patrick Mahomes (knee) has been cleared to participate in practice, according to head coach Andy Reid.",
-      "id": 597871,
-      "impact": "Reid informed the media that Mahomes has been cleared to practice to begin training camp after suffering a torn ACL last season. The two-time MVP certainly appears on track to start Week 1 against a tough Denver Broncos defense.",
-      "link": "https://www.fantasypros.com/nfl/news/597871/patrick-mahomes-knee-cleared-to-practice.php",
-      "player_id": 16413,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Patrick Mahomes (knee) cleared to practice"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 17:13:47",
-      "created_formated": "Fri, Jul 24th 5:13pm UTC",
-      "desc": "The Steelers officially signed Drew Allar to his rookie contract. ",
-      "id": 597833,
-      "impact": "Allar lands his deal heading into training camp. He will be competing for the backup job behind Aaron Rodgers in the Steelers quarterback room. ",
-      "link": "https://www.fantasypros.com/nfl/news/597833/drew-allar-signs-rookie-contract-with-steelers-.php",
-      "player_id": 24345,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Drew Allar signs rookie contract with Steelers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 16:49:15",
-      "created_formated": "Fri, Jul 24th 4:49pm UTC",
-      "desc": "The Seahawks hosted Nick Muse for a workout. ",
-      "id": 597830,
-      "impact": "Muse will compete for a spot in training camp with Seattle. ",
-      "link": "https://www.fantasypros.com/nfl/news/597830/nick-muse-works-out-seahawks-.php",
-      "player_id": 24239,
-      "sport_id": "NFL",
       "team_id": "FA",
-      "title": "Nick Muse works out for Seahawks "
+      "title": "Kobe Prentice claimed off waivers by Patriots "
     },
     {
       "author": "Ari Koslow",
@@ -266,16 +96,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-07-24 16:48:28",
-      "created_formated": "Fri, Jul 24th 4:48pm UTC",
-      "desc": "The Seahawks hosted Josiah Deguara for a workout. ",
-      "id": 597829,
-      "impact": "Deguara will compete for a spot in training camp with Seattle. ",
-      "link": "https://www.fantasypros.com/nfl/news/597829/josiah-deguara-works-out-seahawks-.php",
-      "player_id": 19456,
+      "created": "2026-07-25 21:46:04",
+      "created_formated": "Sat, Jul 25th 9:46pm UTC",
+      "desc": "The Giants waived DL C.J. Ravenell.",
+      "id": 598162,
+      "impact": "Ravenell will figure to seek another opportunity heading into training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598162/cj-ravenell-waived-by-giants.php",
+      "player_id": 26842,
       "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Josiah Deguara works out for Seahawks "
+      "team_id": "NYG",
+      "title": "C.J. Ravenell waived by Giants"
     },
     {
       "author": "Ari Koslow",
@@ -283,84 +113,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-07-24 16:46:31",
-      "created_formated": "Fri, Jul 24th 4:46pm UTC",
-      "desc": "The Patriots hosted Eni Falayi for a workout. ",
-      "id": 597828,
-      "impact": "Falayi was an undrafted free agent out of Wake Forest. He will compete for a spot in training camp with New England. ",
-      "link": "https://www.fantasypros.com/nfl/news/597828/eni-falayi-works-out-patriots-.php",
-      "player_id": 28637,
+      "created": "2026-07-25 21:45:15",
+      "created_formated": "Sat, Jul 25th 9:45pm UTC",
+      "desc": "The Giants waived LB Cam Jones. ",
+      "id": 598161,
+      "impact": "Jones will figure to seek another opportunity heading into training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598161/cam-jones-waived-by-giants-.php",
+      "player_id": 25768,
       "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Eni Falayi works out for Patriots "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 16:45:20",
-      "created_formated": "Fri, Jul 24th 4:45pm UTC",
-      "desc": "The Patriots hosted Tyler McLellan for a workout. ",
-      "id": 597827,
-      "impact": "McLellan will compete for a spot in training camp with New England. ",
-      "link": "https://www.fantasypros.com/nfl/news/597827/tyler-mclellan-works-out-patriots-.php",
-      "player_id": 26527,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Tyler McLellan works out for Patriots "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 16:44:08",
-      "created_formated": "Fri, Jul 24th 4:44pm UTC",
-      "desc": "The Patriots hosted Chamon Metayer for a workout. ",
-      "id": 597826,
-      "impact": "Metayer was released by the Steelers in early June. He'll compete for a spot with the Patriots in training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/597826/chamon-metayer-works-out-patriots-.php",
-      "player_id": 28171,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Chamon Metayer works out for Patriots "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 16:42:37",
-      "created_formated": "Fri, Jul 24th 4:42pm UTC",
-      "desc": "The Patriots worked out Tyler Moore.",
-      "id": 597825,
-      "impact": "Moore is competing to earn a spot in the Patriots training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/597825/tyler-moore-works-out-patriots-.php",
-      "player_id": 15008,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Tyler Moore works out for Patriots "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-24 16:32:29",
-      "created_formated": "Fri, Jul 24th 4:32pm UTC",
-      "desc": "The Ravens hosted free agent OL Hakeem Adeniji for a workout on Friday. ",
-      "id": 597824,
-      "impact": "Adeniji has 16 career starts across 55 career games played. ",
-      "link": "https://www.fantasypros.com/nfl/news/597824/hakeem-adeniji-works-out-ravens-friday-.php",
-      "player_id": 19295,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Hakeem Adeniji works out for Ravens Friday "
+      "team_id": "NYG",
+      "title": "Cam Jones waived by Giants "
     },
     {
       "author": "Ari Koslow",
@@ -369,16 +131,320 @@
         "News",
         "Injury"
       ],
-      "created": "2026-07-24 16:31:06",
-      "created_formated": "Fri, Jul 24th 4:31pm UTC",
-      "desc": "Robert Hunt is getting evaluated for a back injury",
-      "id": 597823,
-      "impact": "Hunt did not practice on Friday due to back tightness. There should be an update provided once he is evaluated. ",
-      "link": "https://www.fantasypros.com/nfl/news/597823/robert-hunt-back-to-be-further-evaluated-.php",
-      "player_id": 19265,
+      "created": "2026-07-25 21:43:02",
+      "created_formated": "Sat, Jul 25th 9:43pm UTC",
+      "desc": "The Ravens placed CB Bilhal Kone on the PUP list. ",
+      "id": 598160,
+      "impact": "Kone can be activated at any point during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598160/bilhal-kone-knee-placed-on-pup-list-.php",
+      "player_id": 27309,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Robert Hunt (back) to be further evaluated "
+      "team_id": "BAL",
+      "title": "Bilhal Kone (knee) placed on PUP list "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:41:41",
+      "created_formated": "Sat, Jul 25th 9:41pm UTC",
+      "desc": "The Ravens placed LB Adisa Isaac on the PUP list. ",
+      "id": 598159,
+      "impact": "Isaac missed all of last season with an elbow injury. He can be activated at any point during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598159/adisa-isaac-shoulder-placed-on-pup-list-.php",
+      "player_id": 26154,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Adisa Isaac (elbow) placed on PUP list "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:40:24",
+      "created_formated": "Sat, Jul 25th 9:40pm UTC",
+      "desc": "The Ravens placed LB Teddye Buchanan on the PUP list. ",
+      "id": 598158,
+      "impact": "Buchanan is working his way back from a torn ACL he suffered in December. He can be activated at any point during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598158/teddye-buchanan-knee-placed-on-pup-list-.php",
+      "player_id": 27146,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Teddye Buchanan (knee) placed on PUP list "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:39:07",
+      "created_formated": "Sat, Jul 25th 9:39pm UTC",
+      "desc": "The Ravens placed DL John Jenkins on the PUP list. ",
+      "id": 598157,
+      "impact": "Jenkins can be activated at any point during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598157/john-jenkins-placed-on-pup-list.php",
+      "player_id": 11728,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "John Jenkins placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:38:01",
+      "created_formated": "Sat, Jul 25th 9:38pm UTC",
+      "desc": "The Ravens placed DL Travis Jones on the PUP list. ",
+      "id": 598155,
+      "impact": "Jones can be activated at any point during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598155/travis-jones-placed-on-pup-list-.php",
+      "player_id": 23799,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Travis Jones placed on PUP list "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-25 21:35:46",
+      "created_formated": "Sat, Jul 25th 9:35pm UTC",
+      "desc": "The Ravens waived P Luke Elzinga. ",
+      "id": 598154,
+      "impact": "Elzinga will figure to seek another opportunity heading into training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598154/luke-elzinga-waived-by-ravens.php",
+      "player_id": 28449,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Luke Elzinga waived by Ravens"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-25 21:34:54",
+      "created_formated": "Sat, Jul 25th 9:34pm UTC",
+      "desc": "The Ravens waived OG Jared Penning. ",
+      "id": 598152,
+      "impact": "Penning will figure to seek another opportunity heading into training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598152/jared-penning-waived-by-ravens.php",
+      "player_id": 26199,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Jared Penning waived by Ravens"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:33:44",
+      "created_formated": "Sat, Jul 25th 9:33pm UTC",
+      "desc": "The Ravens placed DT Nnamdi Madubuike on the PUP list. ",
+      "id": 598151,
+      "impact": "Madubuike missed the last 15 games with a neck injury last season and underwent surgery in April. Ravens officials have expressed optimism in him recently, saying he's headed in the right direction.",
+      "link": "https://www.fantasypros.com/nfl/news/598151/nnamdi-madubuike-neck-placed-on-pup-list-.php",
+      "player_id": 19272,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Nnamdi Madubuike (neck) placed on PUP list "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:26:31",
+      "created_formated": "Sat, Jul 25th 9:26pm UTC",
+      "desc": "The Jets placed DL T'Vondre Sweat on the non-football injury list.",
+      "id": 598150,
+      "impact": "Sweat can be activated at any point during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598150/tvondre-sweat-placed-on-nfi-list.php",
+      "player_id": 26206,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "T'Vondre Sweat placed on NFI list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:25:32",
+      "created_formated": "Sat, Jul 25th 9:25pm UTC",
+      "desc": "The Jets placed EDGE Tyler Baron on the PUP list.",
+      "id": 598149,
+      "impact": "Baron finished last season on IR with a knee injury. He can be activated at any point during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598149/tyler-baron-knee-placed-on-pup-list.php",
+      "player_id": 27154,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Tyler Baron (knee) placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:24:15",
+      "created_formated": "Sat, Jul 25th 9:24pm UTC",
+      "desc": "The Jets placed WR Tim Patrick on the PUP list.",
+      "id": 598148,
+      "impact": "Patrick signed a deal with the Jets back in May. He can be activated at any point during training camp.",
+      "link": "https://www.fantasypros.com/nfl/news/598148/tim-patrick-placed-on-pup-list.php",
+      "player_id": 16556,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Tim Patrick placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:23:01",
+      "created_formated": "Sat, Jul 25th 9:23pm UTC",
+      "desc": "The Bears placed DL Shemar Turner on the PUP list.",
+      "id": 598147,
+      "impact": "Turner is working his way back from a torn ACL he suffered last October. He can be activated at any point during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598147/shemar-turner-knee-placed-on-pup-list.php",
+      "player_id": 27163,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Shemar Turner (knee) placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:21:57",
+      "created_formated": "Sat, Jul 25th 9:21pm UTC",
+      "desc": "The Bears placed OL Ozzy Trapilo on the PUP list.",
+      "id": 598146,
+      "impact": "Trapilo underwent surgery back in January. He can be activated at any point during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598146/ozzy-trapilo-placed-on-pup-list.php",
+      "player_id": 27232,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Ozzy Trapilo placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:21:01",
+      "created_formated": "Sat, Jul 25th 9:21pm UTC",
+      "desc": "The Bears placed LB Noah Sewell on the PUP list. ",
+      "id": 598145,
+      "impact": "Sewell underwent surgery to repair his torn Achilles back in January. His current timetable to return is unclear. ",
+      "link": "https://www.fantasypros.com/nfl/news/598145/noah-sewell-achilles-placed-on-pup-list.php",
+      "player_id": 24710,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Noah Sewell (Achilles) placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:19:36",
+      "created_formated": "Sat, Jul 25th 9:19pm UTC",
+      "desc": "The Bears placed DB Kyler Gordon on the PUP list.",
+      "id": 598144,
+      "impact": "Gordon also missed time during OTAs due to injury. He can be activated at any time during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598144/kyler-gordon-placed-on-pup-list.php",
+      "player_id": 23765,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Kyler Gordon placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:18:21",
+      "created_formated": "Sat, Jul 25th 9:18pm UTC",
+      "desc": "The Bears placed LB Keyshaun Elliott on the PUP list.",
+      "id": 598143,
+      "impact": "Elliott is not able to go to begin training camp for Chicago. He can be activated at any point during camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598143/keyshaun-elliott-placed-on-pup-list.php",
+      "player_id": 28433,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Keyshaun Elliott placed on PUP list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:16:12",
+      "created_formated": "Sat, Jul 25th 9:16pm UTC",
+      "desc": "The Bears placed LB T.J. Edwards on the non-football injury list.",
+      "id": 598142,
+      "impact": "Edwards is continuing to work his way back from a broken ankle suffered late last season. He can be activated at any point during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/598142/tj-edwards-ankle-placed-on-nfi-list.php",
+      "player_id": 18281,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "T.J. Edwards (ankle) placed on NFI list"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-25 21:02:13",
+      "created_formated": "Sat, Jul 25th 9:02pm UTC",
+      "desc": "The Seahawks are not placing WR Tory Horton on the PUP list.",
+      "id": 598137,
+      "impact": "Horton is good to go for training camp after suffering a season-ending shin injury last November. Horton was able to show flashes as a rookie, totaling five receiving touchdowns in seven games prior to his injury. He will be an upside WR4/WR5 for fantasy managers with the Seahawks since bringing in Rashid Shaheed. ",
+      "link": "https://www.fantasypros.com/nfl/news/598137/tory-horton-shin-avoids-pup-list.php",
+      "player_id": 26022,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Tory Horton (shin) avoids PUP list"
     }
   ],
   "public_api_limited": true,

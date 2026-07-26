@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-07-25
+- Last updated from Sleeper exports: 2026-07-26
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 635.9
-- championship_lineup_c_avi_avg: 79.49
-- offensive_roster_c_avi_sum: 680.5
-- offensive_roster_c_avi_avg: 75.61
+- championship_lineup_c_avi_sum: 635.8
+- championship_lineup_c_avi_avg: 79.47
+- offensive_roster_c_avi_sum: 680.4
+- offensive_roster_c_avi_avg: 75.60
 - offensive_roster_d_avi_sum: 709.1
 - offensive_roster_d_avi_avg: 78.79
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Lamar Jackson | C-AVI: 97.0 | D-AVI: 89.9
-- RB: Derrick Henry | C-AVI: 92.0 | D-AVI: 81.9
-- RB: Kyle Monangai | C-AVI: 54.5 | D-AVI: 70.4
+- QB: Lamar Jackson | C-AVI: 97.3 | D-AVI: 90.6
+- RB: Derrick Henry | C-AVI: 92.0 | D-AVI: 81.8
+- RB: Kyle Monangai | C-AVI: 54.5 | D-AVI: 70.3
 - WR: Zay Flowers | C-AVI: 88.7 | D-AVI: 84.4
 - WR: Jameson Williams | C-AVI: 79.4 | D-AVI: 79.9
-- TE: Tyler Warren | C-AVI: 97.1 | D-AVI: 90.1
-- FLEX: Isaiah Likely | C-AVI: 72.1 | D-AVI: 78.9
-- FLEX: Romeo Doubs | C-AVI: 55.1 | D-AVI: 66.1
+- TE: Tyler Warren | C-AVI: 97.0 | D-AVI: 90.0
+- FLEX: Isaiah Likely | C-AVI: 71.9 | D-AVI: 78.8
+- FLEX: Romeo Doubs | C-AVI: 55.0 | D-AVI: 65.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 97.0
-- Dynasty AVI (D-AVI, 0-100): 89.9
+- Championship AVI (C-AVI, 0-100): 97.3
+- Dynasty AVI (D-AVI, 0-100): 90.6
 - Projected PPR points: 324.6
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -88,7 +88,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 32.0
 - Championship AVI (C-AVI, 0-100): 92.0
-- Dynasty AVI (D-AVI, 0-100): 81.9
+- Dynasty AVI (D-AVI, 0-100): 81.8
 - Projected PPR points: 272.9
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 54.5
-- Dynasty AVI (D-AVI, 0-100): 70.4
+- Dynasty AVI (D-AVI, 0-100): 70.3
 - Projected PPR points: 155.9
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 55.1
-- Dynasty AVI (D-AVI, 0-100): 66.1
+- Championship AVI (C-AVI, 0-100): 55.0
+- Dynasty AVI (D-AVI, 0-100): 65.8
 - Projected PPR points: 164.3
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 97.1
-- Dynasty AVI (D-AVI, 0-100): 90.1
+- Championship AVI (C-AVI, 0-100): 97.0
+- Dynasty AVI (D-AVI, 0-100): 90.0
 - Projected PPR points: 201.7
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 72.1
-- Dynasty AVI (D-AVI, 0-100): 78.9
+- Championship AVI (C-AVI, 0-100): 71.9
+- Dynasty AVI (D-AVI, 0-100): 78.8
 - Projected PPR points: 165.4
 - Category: offense
 - Valuation status: PROVISIONAL_V1

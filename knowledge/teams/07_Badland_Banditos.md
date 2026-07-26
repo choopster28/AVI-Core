@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-07-25
+- Last updated from Sleeper exports: 2026-07-26
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 13
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 614.8
-- championship_lineup_c_avi_avg: 76.85
-- offensive_roster_c_avi_sum: 792.4
-- offensive_roster_c_avi_avg: 66.03
-- offensive_roster_d_avi_sum: 877.7
-- offensive_roster_d_avi_avg: 73.14
+- championship_lineup_c_avi_sum: 614.3
+- championship_lineup_c_avi_avg: 76.79
+- offensive_roster_c_avi_sum: 791.8
+- offensive_roster_c_avi_avg: 65.98
+- offensive_roster_d_avi_sum: 876.7
+- offensive_roster_d_avi_avg: 73.06
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Kenneth Walker | C-AVI: 87.2 | D-AVI: 86.2
 - RB: Bucky Irving | C-AVI: 77.8 | D-AVI: 79.0
 - WR: Ja'Marr Chase | C-AVI: 99.6 | D-AVI: 92.4
-- WR: Brian Thomas | C-AVI: 64.0 | D-AVI: 76.2
+- WR: Brian Thomas | C-AVI: 63.9 | D-AVI: 76.2
 - TE: Brock Bowers | C-AVI: 99.0 | D-AVI: 92.2
-- FLEX: Cade Otton | C-AVI: 52.5 | D-AVI: 64.7
-- FLEX: Jayden Higgins | C-AVI: 50.9 | D-AVI: 69.1
+- FLEX: Cade Otton | C-AVI: 52.3 | D-AVI: 64.5
+- FLEX: Jayden Higgins | C-AVI: 50.7 | D-AVI: 68.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 35.6
-- Dynasty AVI (D-AVI, 0-100): 51.8
+- Championship AVI (C-AVI, 0-100): 35.5
+- Dynasty AVI (D-AVI, 0-100): 51.6
 - Projected PPR points: 51.2
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 64.0
+- Championship AVI (C-AVI, 0-100): 63.9
 - Dynasty AVI (D-AVI, 0-100): 76.2
 - Projected PPR points: 175.3
 - Category: offense
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 50.9
-- Dynasty AVI (D-AVI, 0-100): 69.1
+- Championship AVI (C-AVI, 0-100): 50.7
+- Dynasty AVI (D-AVI, 0-100): 68.5
 - Projected PPR points: 138.0
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 48.0
-- Dynasty AVI (D-AVI, 0-100): 63.4
+- Championship AVI (C-AVI, 0-100): 47.9
+- Dynasty AVI (D-AVI, 0-100): 63.3
 - Projected PPR points: 133.7
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 44.9
-- Dynasty AVI (D-AVI, 0-100): 53.1
+- Championship AVI (C-AVI, 0-100): 45.0
+- Dynasty AVI (D-AVI, 0-100): 53.2
 - Projected PPR points: 142.0
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 52.5
-- Dynasty AVI (D-AVI, 0-100): 64.7
+- Championship AVI (C-AVI, 0-100): 52.3
+- Dynasty AVI (D-AVI, 0-100): 64.5
 - Projected PPR points: 128.8
 - Category: offense
 - Valuation status: PROVISIONAL_V1
