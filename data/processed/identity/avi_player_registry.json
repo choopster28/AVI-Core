@@ -5067,6 +5067,31 @@
   {
     "active": true,
     "aliases": [
+      "Jaydn Ott"
+    ],
+    "avi_id": "AVI-00013419",
+    "canonical_name": "Jaydn Ott",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "KC",
+    "normalized_name": "jaydn ott",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25891,
+      "fantasypros_id": "25394",
+      "nfl_id": null,
+      "rotowire_id": 19422,
+      "sleeper_id": "13419",
+      "sportradar_id": "261750e0-4199-11f1-bbb5-8b6de4cce956",
+      "sportsdata_player_id": "261750e0-4199-11f1-bbb5-8b6de4cce956"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Jaydon Blue"
     ],
     "avi_id": "AVI-00012457",
@@ -6365,6 +6390,31 @@
       "sleeper_id": "7567",
       "sportradar_id": "e2a5882a-dcc1-4800-889f-3b957b21834f",
       "sportsdata_player_id": "e2a5882a-dcc1-4800-889f-3b957b21834f"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Kenny McIntosh"
+    ],
+    "avi_id": "AVI-00010216",
+    "canonical_name": "Kenny McIntosh",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "SEA",
+    "normalized_name": "kenny mcintosh",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24373,
+      "fantasypros_id": "25329",
+      "nfl_id": "2570314",
+      "rotowire_id": 17002,
+      "sleeper_id": "10216",
+      "sportradar_id": "9956eabc-16da-4a1c-ab80-fe0910bcaa12",
+      "sportsdata_player_id": "9956eabc-16da-4a1c-ab80-fe0910bcaa12"
     }
   },
   {
@@ -10111,6 +10161,31 @@
       "sleeper_id": "7562",
       "sportradar_id": "7dc49535-f9dd-44b0-94f2-08ac6470130b",
       "sportsdata_player_id": "7dc49535-f9dd-44b0-94f2-08ac6470130b"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Ty Chandler"
+    ],
+    "avi_id": "AVI-00008230",
+    "canonical_name": "Ty Chandler",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "NO",
+    "normalized_name": "ty chandler",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 21852,
+      "fantasypros_id": "19471",
+      "nfl_id": "2567907",
+      "rotowire_id": 15979,
+      "sleeper_id": "8230",
+      "sportradar_id": "a0833a94-60ce-4a3a-a32a-d067fe7b253d",
+      "sportsdata_player_id": "a0833a94-60ce-4a3a-a32a-d067fe7b253d"
     }
   },
   {

@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 15
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 708.2
-- championship_lineup_c_avi_avg: 88.53
-- offensive_roster_c_avi_sum: 929.5
-- offensive_roster_c_avi_avg: 71.50
-- offensive_roster_d_avi_sum: 970.7
-- offensive_roster_d_avi_avg: 74.67
+- championship_lineup_c_avi_sum: 708.3
+- championship_lineup_c_avi_avg: 88.54
+- offensive_roster_c_avi_sum: 930.2
+- offensive_roster_c_avi_avg: 71.55
+- offensive_roster_d_avi_sum: 971.3
+- offensive_roster_d_avi_avg: 74.72
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jaxson Dart | C-AVI: 82.8 | D-AVI: 81.5
+- QB: Jaxson Dart | C-AVI: 82.9 | D-AVI: 81.6
 - RB: Omarion Hampton | C-AVI: 91.9 | D-AVI: 88.4
 - RB: Saquon Barkley | C-AVI: 91.4 | D-AVI: 85.1
 - WR: Rashee Rice | C-AVI: 95.4 | D-AVI: 85.7
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 82.8
-- Dynasty AVI (D-AVI, 0-100): 81.5
+- Championship AVI (C-AVI, 0-100): 82.9
+- Dynasty AVI (D-AVI, 0-100): 81.6
 - Projected PPR points: 311.5
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 46.1
+- Championship AVI (C-AVI, 0-100): 46.3
 - Dynasty AVI (D-AVI, 0-100): 62.9
 - Projected PPR points: 95.6
 - Category: offense
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 39.5
-- Dynasty AVI (D-AVI, 0-100): 55.4
+- Championship AVI (C-AVI, 0-100): 39.9
+- Dynasty AVI (D-AVI, 0-100): 55.9
 - Projected PPR points: 67.3
 - Category: offense
 - Valuation status: PROVISIONAL_V1

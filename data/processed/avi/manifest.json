@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-07-26T07:50:47.446063+00:00",
+  "generated_at_utc": "2026-07-26T15:51:19.041247+00:00",
   "league_id": "1312185568032997376",
   "methodology_status": "provisional_v1",
   "methodology_version": "2026.1",
   "player_points_active": false,
   "record_counts": {
-    "calculated_players": 431,
-    "registry_players": 431,
+    "calculated_players": 434,
+    "registry_players": 434,
     "unresolved_players": 0
   },
   "replacement_levels": {

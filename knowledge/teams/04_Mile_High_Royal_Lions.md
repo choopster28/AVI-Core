@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 666.5
-- championship_lineup_c_avi_avg: 83.31
-- offensive_roster_c_avi_sum: 876.5
-- offensive_roster_c_avi_avg: 73.04
-- offensive_roster_d_avi_sum: 911.2
-- offensive_roster_d_avi_avg: 75.93
+- championship_lineup_c_avi_sum: 666.6
+- championship_lineup_c_avi_avg: 83.33
+- offensive_roster_c_avi_sum: 876.6
+- offensive_roster_c_avi_avg: 73.05
+- offensive_roster_d_avi_sum: 911.3
+- offensive_roster_d_avi_avg: 75.94
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jalen Hurts | C-AVI: 90.9 | D-AVI: 85.0
 - RB: Jahmyr Gibbs | C-AVI: 99.6 | D-AVI: 92.0
-- RB: J.K. Dobbins | C-AVI: 57.4 | D-AVI: 66.8
+- RB: J.K. Dobbins | C-AVI: 57.5 | D-AVI: 66.9
 - WR: Drake London | C-AVI: 97.7 | D-AVI: 89.9
 - WR: Garrett Wilson | C-AVI: 90.0 | D-AVI: 86.1
 - TE: Travis Kelce | C-AVI: 83.4 | D-AVI: 77.4
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 57.4
-- Dynasty AVI (D-AVI, 0-100): 66.8
+- Championship AVI (C-AVI, 0-100): 57.5
+- Dynasty AVI (D-AVI, 0-100): 66.9
 - Projected PPR points: 170.6
 - Category: offense
 - Valuation status: PROVISIONAL_V1

@@ -1189,6 +1189,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "19471",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NO",
+    "player_name": "Ty Chandler",
+    "position": "RB",
+    "sleeper_id": "8230"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "19483",
     "match_method": "exact_name_position_unique",
     "nfl_team": "WAS",
@@ -2665,6 +2674,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "25329",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SEA",
+    "player_name": "Kenny McIntosh",
+    "position": "RB",
+    "sleeper_id": "10216"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "25332",
     "match_method": "exact_name_position_unique",
     "nfl_team": "HOU",
@@ -2788,6 +2806,15 @@
     "player_name": "Trevor Etienne",
     "position": "RB",
     "sleeper_id": "12531"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "25394",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "KC",
+    "player_name": "Jaydn Ott",
+    "position": "RB",
+    "sleeper_id": "13419"
   },
   {
     "confidence": "verified",
