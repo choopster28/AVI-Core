@@ -118,30 +118,12 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "12127",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NYG",
-    "player_name": "Odell Beckham Jr.",
-    "position": "WR",
-    "sleeper_id": "2078"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "13029",
     "match_method": "exact_name_position_unique",
     "nfl_team": "PIT",
     "player_name": "Chris Boswell",
     "position": "K",
     "sleeper_id": "1945"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "13274",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Brandon McManus",
-    "position": "K",
-    "sleeper_id": "1433"
   },
   {
     "confidence": "verified",
@@ -673,15 +655,6 @@
     "player_name": "Dalton Schultz",
     "position": "TE",
     "sleeper_id": "5001"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "17420",
-    "match_method": "exact_name_position",
-    "nfl_team": "LVR",
-    "player_name": "Daniel Carlson",
-    "position": "K",
-    "sleeper_id": "5095"
   },
   {
     "confidence": "verified",
@@ -2449,15 +2422,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "24345",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "PIT",
-    "player_name": "Drew Allar",
-    "position": "QB",
-    "sleeper_id": "13289"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "24346",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NYJ",
@@ -2806,15 +2770,6 @@
     "player_name": "Trevor Etienne",
     "position": "RB",
     "sleeper_id": "12531"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "25394",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "KC",
-    "player_name": "Jaydn Ott",
-    "position": "RB",
-    "sleeper_id": "13419"
   },
   {
     "confidence": "verified",
@@ -3346,15 +3301,6 @@
     "player_name": "Kimani Vidal",
     "position": "RB",
     "sleeper_id": "11647"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "26379",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NYJ",
-    "player_name": "Isaiah Williams",
-    "position": "WR",
-    "sleeper_id": "11608"
   },
   {
     "confidence": "verified",
@@ -3952,15 +3898,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "28115",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "HOU",
-    "player_name": "Noah Whittington",
-    "position": "RB",
-    "sleeper_id": "13437"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "28124",
     "match_method": "exact_name_position_unique",
     "nfl_team": "ATL",
@@ -4042,15 +3979,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "28137",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "JAC",
-    "player_name": "Josh Cameron",
-    "position": "WR",
-    "sleeper_id": "13394"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "28138",
     "match_method": "exact_name_position_unique",
     "nfl_team": "SF",
@@ -4075,15 +4003,6 @@
     "player_name": "Marlin Klein",
     "position": "TE",
     "sleeper_id": "13307"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "28161",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CHI",
-    "player_name": "Sam Roush",
-    "position": "TE",
-    "sleeper_id": "13322"
   },
   {
     "confidence": "verified",

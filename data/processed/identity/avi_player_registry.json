@@ -2987,31 +2987,6 @@
   {
     "active": true,
     "aliases": [
-      "Drew Allar"
-    ],
-    "avi_id": "AVI-00013289",
-    "canonical_name": "Drew Allar",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "PIT",
-    "normalized_name": "drew allar",
-    "position": "QB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 28045,
-      "fantasypros_id": "24345",
-      "nfl_id": null,
-      "rotowire_id": 19286,
-      "sleeper_id": "13289",
-      "sportradar_id": "0667d256-9f37-4b21-b1c9-fb105aaf97a2",
-      "sportsdata_player_id": "0667d256-9f37-4b21-b1c9-fb105aaf97a2"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Drew Sample"
     ],
     "avi_id": "AVI-00006001",
@@ -3961,31 +3936,6 @@
       "sleeper_id": "8131",
       "sportradar_id": "f9279edb-cfa7-4f7d-91df-b81cbf3e133e",
       "sportsdata_player_id": "f9279edb-cfa7-4f7d-91df-b81cbf3e133e"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Isaiah Williams"
-    ],
-    "avi_id": "AVI-00011608",
-    "canonical_name": "Isaiah Williams",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "NYJ",
-    "normalized_name": "isaiah williams",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 25205,
-      "fantasypros_id": "26379",
-      "nfl_id": "2573154",
-      "rotowire_id": 17977,
-      "sleeper_id": "11608",
-      "sportradar_id": "2ddb2f40-07bc-11ef-82d9-5f86367458d3",
-      "sportsdata_player_id": "2ddb2f40-07bc-11ef-82d9-5f86367458d3"
     }
   },
   {
@@ -5067,31 +5017,6 @@
   {
     "active": true,
     "aliases": [
-      "Jaydn Ott"
-    ],
-    "avi_id": "AVI-00013419",
-    "canonical_name": "Jaydn Ott",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "KC",
-    "normalized_name": "jaydn ott",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 25891,
-      "fantasypros_id": "25394",
-      "nfl_id": null,
-      "rotowire_id": 19422,
-      "sleeper_id": "13419",
-      "sportradar_id": "261750e0-4199-11f1-bbb5-8b6de4cce956",
-      "sportsdata_player_id": "261750e0-4199-11f1-bbb5-8b6de4cce956"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Jaydon Blue"
     ],
     "avi_id": "AVI-00012457",
@@ -5764,31 +5689,6 @@
       "sleeper_id": "4984",
       "sportradar_id": "3069db07-aa43-4503-ab11-2ae5c0002721",
       "sportsdata_player_id": "3069db07-aa43-4503-ab11-2ae5c0002721"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Josh Cameron"
-    ],
-    "avi_id": "AVI-00013394",
-    "canonical_name": "Josh Cameron",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "JAC",
-    "normalized_name": "josh cameron",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26805,
-      "fantasypros_id": "28137",
-      "nfl_id": null,
-      "rotowire_id": 19321,
-      "sleeper_id": "13394",
-      "sportradar_id": "29f6ab49-33a9-4fc8-838f-fc41e248829d",
-      "sportsdata_player_id": "29f6ab49-33a9-4fc8-838f-fc41e248829d"
     }
   },
   {
@@ -8082,57 +7982,6 @@
   {
     "active": true,
     "aliases": [
-      "Noah Whittington"
-    ],
-    "avi_id": "AVI-00013437",
-    "canonical_name": "Noah Whittington",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "HOU",
-    "normalized_name": "noah whittington",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26830,
-      "fantasypros_id": "28115",
-      "nfl_id": null,
-      "rotowire_id": 19305,
-      "sleeper_id": "13437",
-      "sportradar_id": "e656bff0-4322-11f1-a39d-09ec94a91f1f",
-      "sportsdata_player_id": "e656bff0-4322-11f1-a39d-09ec94a91f1f"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Odell Beckham",
-      "Odell Beckham Jr."
-    ],
-    "avi_id": "AVI-00002078",
-    "canonical_name": "Odell Beckham",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "NYG",
-    "normalized_name": "odell beckham",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": 16733,
-      "fantasy_data_id": 16389,
-      "fantasypros_id": "12127",
-      "nfl_id": "2543496",
-      "rotowire_id": 9255,
-      "sleeper_id": "2078",
-      "sportradar_id": "354dec38-b88b-4ba0-8974-859123f27c45",
-      "sportsdata_player_id": "354dec38-b88b-4ba0-8974-859123f27c45"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Olamide Zaccheaus"
     ],
     "avi_id": "AVI-00006271",
@@ -9058,31 +8907,6 @@
       "sleeper_id": "10859",
       "sportradar_id": "3059f1e5-1871-4458-9e90-9b9917874c61",
       "sportsdata_player_id": "3059f1e5-1871-4458-9e90-9b9917874c61"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Sam Roush"
-    ],
-    "avi_id": "AVI-00013322",
-    "canonical_name": "Sam Roush",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "CHI",
-    "normalized_name": "sam roush",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26938,
-      "fantasypros_id": "28161",
-      "nfl_id": null,
-      "rotowire_id": 19357,
-      "sleeper_id": "13322",
-      "sportradar_id": "b8b3edc8-986a-4702-84a7-b5193331aebb",
-      "sportsdata_player_id": "b8b3edc8-986a-4702-84a7-b5193331aebb"
     }
   },
   {

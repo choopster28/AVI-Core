@@ -25212,10 +25212,10 @@
     "hashtag": "#andrewfarmer-NFL-SF-50",
     "height": "76",
     "high_school": "First Coast (FL)",
-    "injury_body_part": null,
+    "injury_body_part": "Back",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "4b7ed6ec-99c5-4e87-9b5b-84b945eeda0d",
     "last_name": "Farmer",
     "metadata": {
@@ -25223,7 +25223,7 @@
       "genius_id": "1407984",
       "rookie_year": "2023"
     },
-    "news_updated": 1769753441080,
+    "news_updated": 1785174321915,
     "number": 50,
     "oddsjam_id": "D5A3EC6A548A",
     "opta_id": null,
@@ -118110,7 +118110,7 @@
       "rookie_year": "2025",
       "source_id": "1d31d310-9428-11ec-a0a0-bfb4bc95dfd2"
     },
-    "news_updated": 1785090911765,
+    "news_updated": 1785174019074,
     "number": 10,
     "oddsjam_id": "18A47096F84B1326",
     "opta_id": null,
@@ -169631,7 +169631,7 @@
       "rookie_year": "2026",
       "source_id": "0d044fc0-8953-11ec-a69b-29b9a26b6a2e"
     },
-    "news_updated": 1785120614072,
+    "news_updated": 1785173419530,
     "number": 8,
     "oddsjam_id": null,
     "opta_id": null,
@@ -184148,17 +184148,17 @@
     "hashtag": "#gracenhalton-NFL-SF-93",
     "height": "74",
     "high_school": "St. Augustine (CA)",
-    "injury_body_part": null,
-    "injury_notes": null,
+    "injury_body_part": "Knee",
+    "injury_notes": "Bruise",
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "a73b6ff4-b588-4cad-b252-93f759416f0f",
     "last_name": "Halton",
     "metadata": {
       "channel_id": "1353835911695077376",
       "rookie_year": "2026"
     },
-    "news_updated": 1777140921650,
+    "news_updated": 1785174321947,
     "number": 93,
     "oddsjam_id": null,
     "opta_id": null,
@@ -393710,7 +393710,7 @@
     "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": null,
     "kalshi_id": "b5774cc2-62b1-4544-8dc3-6fc525d8e941",
     "last_name": "White",
     "metadata": {
@@ -401602,7 +401602,7 @@
     "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": null,
     "kalshi_id": "f9925503-36cf-4f6f-8195-abe907d77cf4",
     "last_name": "Milano",
     "metadata": {
@@ -447200,7 +447200,7 @@
       "genius_id": "1013868",
       "rookie_year": "2018"
     },
-    "news_updated": 1784658006946,
+    "news_updated": 1785171022662,
     "number": 6,
     "oddsjam_id": "2F8FF2DF2E69",
     "opta_id": null,
@@ -451023,7 +451023,7 @@
       "injury_override_regular_2024_9": "IR",
       "rookie_year": "2018"
     },
-    "news_updated": 1785121814261,
+    "news_updated": 1785174619626,
     "number": 3,
     "oddsjam_id": "6535555F647D",
     "opta_id": null,
@@ -452087,7 +452087,7 @@
     "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": null,
     "kalshi_id": "ef972c6b-cb85-4a0d-9241-1b6ae24d489e",
     "last_name": "Chubb",
     "metadata": {
@@ -511556,7 +511556,7 @@
       "genius_id": "1013987",
       "rookie_year": "2019"
     },
-    "news_updated": 1785170421509,
+    "news_updated": 1785172819344,
     "number": 17,
     "oddsjam_id": "B3AC44EEA976",
     "opta_id": null,
@@ -530250,10 +530250,10 @@
     "hashtag": "#milessanders-NFL-FA-24",
     "height": "71",
     "high_school": "Woodland Hills (PA)",
-    "injury_body_part": "Knee",
-    "injury_notes": "Surgery",
+    "injury_body_part": null,
+    "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "2df1632b-d590-4d64-946d-103bf398ab3e",
     "last_name": "Sanders",
     "metadata": {
@@ -530263,7 +530263,7 @@
       "injury_override_regular_2025_6": "IR",
       "rookie_year": "2019"
     },
-    "news_updated": 1760208005237,
+    "news_updated": 1785174319179,
     "number": 24,
     "oddsjam_id": "F3E4A738DF59",
     "opta_id": null,
@@ -626001,7 +626001,7 @@
     "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": null,
     "kalshi_id": "edcf37df-fa9a-42dc-9be1-ba583d715b36",
     "last_name": "Phillips",
     "metadata": {
@@ -626369,7 +626369,7 @@
     "injury_body_part": "Knee - ACL",
     "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "f6c625be-527c-44b4-b991-578847b5071c",
     "last_name": "Parsons",
     "metadata": {
@@ -637831,7 +637831,7 @@
     "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": null,
     "kalshi_id": "725bb169-c11a-466b-8218-d95d1ffa782d",
     "last_name": "Hufanga",
     "metadata": {
@@ -695967,7 +695967,7 @@
       "genius_id": "1078561",
       "rookie_year": "2022"
     },
-    "news_updated": 1784732715071,
+    "news_updated": 1785170719167,
     "number": 88,
     "oddsjam_id": "A9F50580EAE8",
     "opta_id": null,
