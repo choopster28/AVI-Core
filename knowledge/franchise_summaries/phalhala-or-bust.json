@@ -5,8 +5,8 @@
   "roster_id": 14,
   "owner_display_name": "PIFYAF",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 25, 2026",
-  "generated_at": "2026-07-25T12:04:06.249079-06:00",
+  "reporting_period": "Week of July 26, 2026",
+  "generated_at": "2026-07-26T20:24:57.032556-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Phalhala or Bust: Preseason Front Office Brief",
   "executive_summary": "Phalhala or Bust is projected #12 of 16 with a 548.40 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
@@ -23,15 +23,15 @@
     "team_below": {
       "name": "Rapid Valley Annihilation",
       "rank": 13,
-      "score": 539.4,
-      "gap": 9.0
+      "score": 540.1,
+      "gap": 8.299999999999955
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 12,
     "league_size": 16,
-    "score": 714.9,
+    "score": 715.0,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -51,7 +51,7 @@
       "2026 Round 4 (Badland Banditos)"
     ],
     "picks_sent": [],
-    "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.0 C-AVI and 73.1 D-AVI; The deal added 2 draft assets."
+    "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.1 C-AVI and 73.4 D-AVI; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
     "Raise the QB slot above C.J. Stroud's 47.9 C-AVI baseline; a replacement near 57.8 C-AVI would directly attack the 9.90-point projected gap to Gringo\u2019s Goblins.",
@@ -60,7 +60,7 @@
   "rival_below": {
     "franchise_name": "Rapid Valley Annihilation",
     "projected_rank": 13,
-    "projected_score": 539.4,
+    "projected_score": 540.1,
     "latest_trade": {
       "transaction_id": "1380817964328034304",
       "created_at": "2026-07-09T05:32:46.354000+00:00",
@@ -84,17 +84,17 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #12 of 16 at 548.40 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 558.30, a gap of 9.90. Rapid Valley Annihilation is immediately behind at 539.40."
+      "body": "Projected #12 of 16 at 548.40 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 558.30, a gap of 9.90. Rapid Valley Annihilation is immediately behind at 540.10."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ashton Jeanty (96.9), Sam LaPorta (85.8), and Rome Odunze (77.1)."
+      "body": "The three highest C-AVI starters are Ashton Jeanty (96.9), Sam LaPorta (85.7), and Rome Odunze (77.1)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.0 C-AVI and 73.1 D-AVI; The deal added 2 draft assets."
+      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.1 C-AVI and 73.4 D-AVI; The deal added 2 draft assets."
     },
     {
       "id": "close-the-gap",
@@ -133,7 +133,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-25",
+    "source_last_updated": "2026-07-26",
     "external_sources_used": false,
     "conversation_context_used": false
   }

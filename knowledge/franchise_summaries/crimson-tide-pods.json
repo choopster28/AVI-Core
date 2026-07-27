@@ -5,33 +5,33 @@
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 25, 2026",
-  "generated_at": "2026-07-25T12:04:06.249079-06:00",
+  "reporting_period": "Week of July 26, 2026",
+  "generated_at": "2026-07-26T20:24:57.032556-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 533.60 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 533.70 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 14,
     "league_size": 16,
-    "score": 533.6,
+    "score": 533.7,
     "team_above": {
       "name": "Rapid Valley Annihilation",
       "rank": 13,
-      "score": 539.4,
-      "gap": 5.7999999999999545
+      "score": 540.1,
+      "gap": 6.399999999999977
     },
     "team_below": {
-      "name": "Northside Kings",
+      "name": "Lightskin Legends \u270a\ud83c\udffd",
       "rank": 15,
-      "score": 484.1,
-      "gap": 49.5
+      "score": 484.2,
+      "gap": 49.50000000000006
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 8,
     "league_size": 16,
-    "score": 847.3,
+    "score": 847.2,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -53,71 +53,69 @@
       "2026 Round 1 (Crimson Tide Pods)",
       "2026 Round 1 (All Hail King Jesus)"
     ],
-    "summary": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 49.4 C-AVI and 66.4 D-AVI; Jakobi Meyers is now the current FLEX starter at 64.6 C-AVI and 69.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
+    "summary": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 49.3 C-AVI and 66.8 D-AVI; Jakobi Meyers is now the current FLEX starter at 64.6 C-AVI and 69.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Tyjae Spears's 48.9 C-AVI baseline; a replacement near 54.7 C-AVI would directly attack the 5.80-point projected gap to Rapid Valley Annihilation.",
+    "Raise the RB slot above Tyjae Spears's 49.2 C-AVI baseline; a replacement near 55.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
-    "franchise_name": "Northside Kings",
+    "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
     "projected_rank": 15,
-    "projected_score": 484.1,
+    "projected_score": 484.2,
     "latest_trade": {
-      "transaction_id": "1383224827728367616",
-      "created_at": "2026-07-15T20:56:47.307000+00:00",
+      "transaction_id": "1288899605622165504",
+      "created_at": "2025-10-28T14:02:01.879000+00:00",
       "counterparties": [
-        "Ravens Regime"
+        "Murray had a little Lamb"
       ],
       "players_received": [
-        "RJ Harvey",
-        "Bhayshul Tuten"
+        "Kayshon Boutte"
       ],
-      "players_sent": [
-        "Tyler Warren"
+      "players_sent": [],
+      "picks_received": [],
+      "picks_sent": [
+        "2026 Round 3 (Conquistadors)",
+        "2027 Round 2 (Conquistadors)"
       ],
-      "picks_received": [
-        "2026 Round 2 (Rapid Valley Annihilation)"
-      ],
-      "picks_sent": [],
-      "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 61.5 C-AVI and 72.8 D-AVI; Bhayshul Tuten is now the current RB starter at 72.1 C-AVI and 76.4 D-AVI; The deal added 1 draft asset."
+      "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
     },
-    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 61.5 C-AVI and 72.8 D-AVI; Bhayshul Tuten is now the current RB starter at 72.1 C-AVI and 76.4 D-AVI; The deal added 1 draft asset."
+    "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 533.60 lineup C-AVI. Rapid Valley Annihilation is immediately above at 539.40, a gap of 5.80. Northside Kings is immediately behind at 484.10."
+      "body": "Projected #14 of 16 at 533.70 lineup C-AVI. Rapid Valley Annihilation is immediately above at 540.10, a gap of 6.40. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 484.20."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are DeVonta Smith (87.4), Alec Pierce (74.3), and Justin Herbert (71.6)."
+      "body": "The three highest C-AVI starters are DeVonta Smith (87.3), Alec Pierce (74.3), and Justin Herbert (71.6)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 49.4 C-AVI and 66.4 D-AVI; Jakobi Meyers is now the current FLEX starter at 64.6 C-AVI and 69.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
+      "body": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 49.3 C-AVI and 66.8 D-AVI; Jakobi Meyers is now the current FLEX starter at 64.6 C-AVI and 69.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Tyjae Spears's 48.9 C-AVI baseline; a replacement near 54.7 C-AVI would directly attack the 5.80-point projected gap to Rapid Valley Annihilation. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the RB slot above Tyjae Spears's 49.2 C-AVI baseline; a replacement near 55.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the RB slot above Tyjae Spears's 48.9 C-AVI baseline; a replacement near 54.7 C-AVI would directly attack the 5.80-point projected gap to Rapid Valley Annihilation.",
+        "Raise the RB slot above Tyjae Spears's 49.2 C-AVI baseline; a replacement near 55.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 61.5 C-AVI and 72.8 D-AVI; Bhayshul Tuten is now the current RB starter at 72.1 C-AVI and 76.4 D-AVI; The deal added 1 draft asset."
+      "body": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Tyjae Spears is the lowest C-AVI starter in the verified championship lineup at 48.9. Any acquisition should clear that exact lineup threshold."
+      "body": "Tyjae Spears is the lowest C-AVI starter in the verified championship lineup at 49.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -137,7 +135,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-25",
+    "source_last_updated": "2026-07-26",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -5,33 +5,33 @@
   "roster_id": 13,
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 25, 2026",
-  "generated_at": "2026-07-25T12:04:06.249079-06:00",
+  "reporting_period": "Week of July 26, 2026",
+  "generated_at": "2026-07-26T20:24:57.032556-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
-  "executive_summary": "Southside Savages is projected #7 of 16 with a 621.40 projected-starting-lineup C-AVI total, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
+  "executive_summary": "Southside Savages is projected #7 of 16 with a 621.30 projected-starting-lineup C-AVI total, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
   "projected_power": {
     "rank": 7,
     "league_size": 16,
-    "score": 621.4,
+    "score": 621.3,
     "team_above": {
       "name": "Corgi Loaf Baking Co.",
       "rank": 6,
       "score": 626.6,
-      "gap": 5.2000000000000455
+      "gap": 5.300000000000068
     },
     "team_below": {
       "name": "All Hail King Jesus",
       "rank": 8,
-      "score": 621.1,
-      "gap": 0.2999999999999545
+      "score": 620.6,
+      "gap": 0.6999999999999318
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 773.3,
+    "score": 772.8,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -52,13 +52,13 @@
     "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.4 C-AVI and 86.8 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Colby Parkinson's 43.0 C-AVI baseline; a replacement near 48.2 C-AVI would directly attack the 5.20-point projected gap to Corgi Loaf Baking Co..",
+    "Raise the TE slot above Colby Parkinson's 42.6 C-AVI baseline; a replacement near 48.3 C-AVI would directly attack the 5.30-point projected gap to Corgi Loaf Baking Co..",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "All Hail King Jesus",
     "projected_rank": 8,
-    "projected_score": 621.1,
+    "projected_score": 620.6,
     "latest_trade": {
       "transaction_id": "1382466797541818368",
       "created_at": "2026-07-13T18:44:38.827000+00:00",
@@ -75,20 +75,20 @@
         "2026 Round 1 (Southside Savages)"
       ],
       "picks_sent": [],
-      "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 45.6 C-AVI and 58.2 D-AVI; The deal added 1 draft asset."
+      "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 45.9 C-AVI and 58.6 D-AVI; The deal added 1 draft asset."
     },
-    "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 45.6 C-AVI and 58.2 D-AVI; The deal added 1 draft asset."
+    "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 45.9 C-AVI and 58.6 D-AVI; The deal added 1 draft asset."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #7 of 16 at 621.40 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 626.60, a gap of 5.20. All Hail King Jesus is immediately behind at 621.10."
+      "body": "Projected #7 of 16 at 621.30 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 626.60, a gap of 5.30. All Hail King Jesus is immediately behind at 620.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Drake Maye (98.3), Josh Jacobs (87.1), and Tetairoa McMillan (85.4)."
+      "body": "The three highest C-AVI starters are Drake Maye (98.3), Josh Jacobs (87.2), and Tetairoa McMillan (85.4)."
     },
     {
       "id": "latest-trade-impact",
@@ -98,21 +98,21 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Colby Parkinson's 43.0 C-AVI baseline; a replacement near 48.2 C-AVI would directly attack the 5.20-point projected gap to Corgi Loaf Baking Co.. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the TE slot above Colby Parkinson's 42.6 C-AVI baseline; a replacement near 48.3 C-AVI would directly attack the 5.30-point projected gap to Corgi Loaf Baking Co.. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the TE slot above Colby Parkinson's 43.0 C-AVI baseline; a replacement near 48.2 C-AVI would directly attack the 5.20-point projected gap to Corgi Loaf Baking Co..",
+        "Raise the TE slot above Colby Parkinson's 42.6 C-AVI baseline; a replacement near 48.3 C-AVI would directly attack the 5.30-point projected gap to Corgi Loaf Baking Co..",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 45.6 C-AVI and 58.2 D-AVI; The deal added 1 draft asset."
+      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 45.9 C-AVI and 58.6 D-AVI; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Colby Parkinson is the lowest C-AVI starter in the verified championship lineup at 43.0. Any acquisition should clear that exact lineup threshold."
+      "body": "Colby Parkinson is the lowest C-AVI starter in the verified championship lineup at 42.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -132,7 +132,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-25",
+    "source_last_updated": "2026-07-26",
     "external_sources_used": false,
     "conversation_context_used": false
   }

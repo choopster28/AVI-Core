@@ -5,8 +5,8 @@
   "roster_id": 15,
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 25, 2026",
-  "generated_at": "2026-07-25T12:04:06.249079-06:00",
+  "reporting_period": "Week of July 26, 2026",
+  "generated_at": "2026-07-26T20:24:57.032556-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
   "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 558.30 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -17,8 +17,8 @@
     "team_above": {
       "name": "DMV Fantasy",
       "rank": 10,
-      "score": 581.8,
-      "gap": 23.5
+      "score": 581.5,
+      "gap": 23.200000000000045
     },
     "team_below": {
       "name": "Phalhala or Bust",
@@ -31,7 +31,7 @@
   "dynasty_power": {
     "rank": 11,
     "league_size": 16,
-    "score": 725.3,
+    "score": 723.8,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -56,10 +56,10 @@
     "picks_sent": [
       "2027 Round 2 (Gringo\u2019s Goblins)"
     ],
-    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 39.8 C-AVI and 61.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.4 C-AVI and 86.1 D-AVI; Kyren Williams is now the current RB starter at 82.7 C-AVI and 82.3 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 39.8 C-AVI and 61.1 D-AVI; Emeka Egbuka is now the current WR starter at 85.4 C-AVI and 86.0 D-AVI; Kyren Williams is now the current RB starter at 82.8 C-AVI and 82.3 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jonathon Brooks's 51.3 C-AVI baseline; a replacement near 74.8 C-AVI would directly attack the 23.50-point projected gap to DMV Fantasy.",
+    "Raise the FLEX slot above Jonathon Brooks's 51.3 C-AVI baseline; a replacement near 74.5 C-AVI would directly attack the 23.20-point projected gap to DMV Fantasy.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
@@ -83,39 +83,39 @@
         "2026 Round 4 (Badland Banditos)"
       ],
       "picks_sent": [],
-      "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.0 C-AVI and 73.1 D-AVI; The deal added 2 draft assets."
+      "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.1 C-AVI and 73.4 D-AVI; The deal added 2 draft assets."
     },
-    "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.0 C-AVI and 73.1 D-AVI; The deal added 2 draft assets."
+    "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.1 C-AVI and 73.4 D-AVI; The deal added 2 draft assets."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #11 of 16 at 558.30 lineup C-AVI. DMV Fantasy is immediately above at 581.80, a gap of 23.50. Phalhala or Bust is immediately behind at 548.40."
+      "body": "Projected #11 of 16 at 558.30 lineup C-AVI. DMV Fantasy is immediately above at 581.50, a gap of 23.20. Phalhala or Bust is immediately behind at 548.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Emeka Egbuka (85.4), Kyren Williams (82.7), and Davante Adams (79.7)."
+      "body": "The three highest C-AVI starters are Emeka Egbuka (85.4), Kyren Williams (82.8), and Davante Adams (79.7)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 39.8 C-AVI and 61.2 D-AVI; Emeka Egbuka is now the current WR starter at 85.4 C-AVI and 86.1 D-AVI; Kyren Williams is now the current RB starter at 82.7 C-AVI and 82.3 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 39.8 C-AVI and 61.1 D-AVI; Emeka Egbuka is now the current WR starter at 85.4 C-AVI and 86.0 D-AVI; Kyren Williams is now the current RB starter at 82.8 C-AVI and 82.3 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jonathon Brooks's 51.3 C-AVI baseline; a replacement near 74.8 C-AVI would directly attack the 23.50-point projected gap to DMV Fantasy. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Jonathon Brooks's 51.3 C-AVI baseline; a replacement near 74.5 C-AVI would directly attack the 23.20-point projected gap to DMV Fantasy. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Jonathon Brooks's 51.3 C-AVI baseline; a replacement near 74.8 C-AVI would directly attack the 23.50-point projected gap to DMV Fantasy.",
+        "Raise the FLEX slot above Jonathon Brooks's 51.3 C-AVI baseline; a replacement near 74.5 C-AVI would directly attack the 23.20-point projected gap to DMV Fantasy.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.0 C-AVI and 73.1 D-AVI; The deal added 2 draft assets."
+      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.1 C-AVI and 73.4 D-AVI; The deal added 2 draft assets."
     },
     {
       "id": "lineup-pressure-point",
@@ -140,7 +140,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-25",
+    "source_last_updated": "2026-07-26",
     "external_sources_used": false,
     "conversation_context_used": false
   }
