@@ -53,6 +53,120 @@ SUPPORTED_POSITIONS = (
 )
 
 
+AGE_CURVES: dict[
+    str,
+    tuple[tuple[float, float], ...],
+] = {
+    "QB": (
+        (20, 74),
+        (22, 84),
+        (24, 93),
+        (26, 98),
+        (28, 100),
+        (30, 98),
+        (32, 94),
+        (34, 87),
+        (36, 77),
+        (38, 64),
+        (40, 48),
+    ),
+    "RB": (
+        (19, 84),
+        (20, 92),
+        (21, 98),
+        (22, 100),
+        (23, 99),
+        (24, 96),
+        (25, 91),
+        (26, 83),
+        (27, 72),
+        (28, 59),
+        (29, 45),
+        (30, 31),
+        (32, 10),
+    ),
+    "WR": (
+        (19, 82),
+        (20, 89),
+        (21, 95),
+        (22, 99),
+        (23, 100),
+        (24, 99),
+        (25, 98),
+        (26, 96),
+        (27, 93),
+        (28, 89),
+        (29, 83),
+        (30, 76),
+        (31, 67),
+        (32, 57),
+        (34, 35),
+        (36, 15),
+    ),
+    "TE": (
+        (20, 77),
+        (21, 83),
+        (22, 90),
+        (23, 95),
+        (24, 98),
+        (25, 100),
+        (26, 99),
+        (27, 97),
+        (28, 94),
+        (29, 90),
+        (30, 85),
+        (31, 78),
+        (32, 70),
+        (34, 52),
+        (36, 32),
+    ),
+    "K": (
+        (20, 65),
+        (23, 80),
+        (26, 92),
+        (29, 98),
+        (32, 100),
+        (35, 96),
+        (38, 88),
+        (41, 75),
+        (44, 58),
+    ),
+    "DL": (
+        (20, 82),
+        (22, 94),
+        (24, 100),
+        (26, 98),
+        (28, 93),
+        (30, 84),
+        (32, 70),
+        (34, 50),
+        (36, 28),
+    ),
+    "LB": (
+        (20, 84),
+        (22, 96),
+        (24, 100),
+        (26, 97),
+        (28, 90),
+        (30, 79),
+        (32, 64),
+        (34, 44),
+        (36, 24),
+    ),
+    "DB": (
+        (20, 85),
+        (22, 97),
+        (24, 100),
+        (26, 96),
+        (28, 88),
+        (30, 76),
+        (32, 60),
+        (34, 40),
+        (36, 20),
+    ),
+}
+
+
 def safe_float(value: Any) -> float | None:
     if value is None:
         return None
@@ -63,6 +177,158 @@ def safe_float(value: Any) -> float | None:
         return None
 
 
+def interpolate_curve(
+    value: float,
+    points: tuple[tuple[float, float], ...],
+) -> float:
+    if value <= points[0][0]:
+        return points[0][1]
+
+    if value >= points[-1][0]:
+        return points[-1][1]
+
+    for index in range(1, len(points)):
+        right_x, right_y = points[index]
+        left_x, left_y = points[index - 1]
+
+        if value <= right_x:
+            span = right_x - left_x
+
+            if span <= 0:
+                return clamp(right_y)
+
+            ratio = (
+                value - left_x
+            ) / span
+
+            return clamp(
+                left_y
+                + ratio
+                * (right_y - left_y)
+            )
+
+    return clamp(points[-1][1])
+
+
+def calculate_age_career_horizon(
+    age: float | None,
+    position: str,
+) -> float | None:
+    if age is None:
+        return None
+
+    curve = AGE_CURVES.get(position)
+
+    if curve is None:
+        return None
+
+    return round(
+        interpolate_curve(
+            age,
+            curve,
+        ),
+        1,
+    )
+
+
+def calculate_position_liquidity(
+    *,
+    position: str,
+    team_count: int,
+    starter_demand: dict[str, int],
+    flex_allocations: dict[str, int],
+) -> float:
+    if team_count < 1:
+        raise ValueError(
+            "Team count must be positive."
+        )
+
+    mandatory_per_team = (
+        starter_demand.get(
+            position,
+            0,
+        )
+        / team_count
+    )
+
+    flex_per_team = (
+        flex_allocations.get(
+            position,
+            0,
+        )
+        / team_count
+    )
+
+    score = (
+        35.0
+        + 25.0 * mandatory_per_team
+        + 20.0 * flex_per_team
+    )
+
+    caps = {
+        "QB": 62.0,
+        "K": 25.0,
+        "DL": 78.0,
+        "LB": 82.0,
+        "DB": 74.0,
+    }
+
+    if position in caps:
+        score = min(
+            score,
+            caps[position],
+        )
+
+    return round(
+        clamp(score),
+        1,
+    )
+
+
+def build_long_term_ceiling(
+    *,
+    dynasty_market: float,
+    projection_component: float,
+    age_career_horizon: float | None,
+) -> float:
+    inputs: list[
+        tuple[float, float]
+    ] = [
+        (
+            0.50,
+            dynasty_market,
+        ),
+        (
+            0.30,
+            projection_component,
+        ),
+    ]
+
+    if age_career_horizon is not None:
+        inputs.append(
+            (
+                0.20,
+                age_career_horizon,
+            )
+        )
+
+    total_weight = sum(
+        weight
+        for weight, _ in inputs
+    )
+
+    return round(
+        clamp(
+            sum(
+                weight * value
+                for weight, value in inputs
+            )
+            / total_weight
+        ),
+        1,
+    )
+
+
 def load_registry() -> list[dict[str, Any]]:
     if not REGISTRY_PATH.exists():
         raise RuntimeError(
@@ -70,17 +336,26 @@ def load_registry() -> list[dict[str, Any]]:
             "Run build-registry first."
         )
 
-    registry = read_json(REGISTRY_PATH)
+    registry = read_json(
+        REGISTRY_PATH
+    )
 
-    if not isinstance(registry, list):
+    if not isinstance(
+        registry,
+        list,
+    ):
         raise RuntimeError(
-            "AVI Player Registry must contain a JSON list."
+            "AVI Player Registry must contain "
+            "a JSON list."
         )
 
     return [
         record
         for record in registry
-        if isinstance(record, dict)
+        if isinstance(
+            record,
+            dict,
+        )
     ]
 
 
@@ -100,18 +375,29 @@ def load_ranking_records(
 
     payload = read_json(path)
 
-    if not isinstance(payload, dict):
+    if not isinstance(
+        payload,
+        dict,
+    ):
         return []
 
-    players = payload.get("players")
+    players = payload.get(
+        "players"
+    )
 
-    if not isinstance(players, list):
+    if not isinstance(
+        players,
+        list,
+    ):
         return []
 
     return [
         record
         for record in players
-        if isinstance(record, dict)
+        if isinstance(
+            record,
+            dict,
+        )
     ]
 
 
@@ -124,15 +410,25 @@ def load_rank_scores(
         position,
     )
 
-    valid: list[tuple[str, float]] = []
+    valid: list[
+        tuple[str, float]
+    ] = []
 
     for record in records:
-        player_id = record.get("player_id")
-        rank = safe_float(
-            record.get("rank_ecr")
+        player_id = record.get(
+            "player_id"
         )
 
-        if player_id is None or rank is None:
+        rank = safe_float(
+            record.get(
+                "rank_ecr"
+            )
+        )
+
+        if (
+            player_id is None
+            or rank is None
+        ):
             continue
 
         valid.append(
@@ -207,9 +503,11 @@ def calculate_projection_scores(
     ] = {}
 
     for position in OFFENSIVE_POSITIONS:
-        players = projections_by_position.get(
-            position,
-            [],
+        players = (
+            projections_by_position.get(
+                position,
+                [],
+            )
         )
 
         field = [
@@ -252,9 +550,11 @@ def calculate_projection_scores(
             ] = {
                 "raw_points": points,
                 "position_rank": rank,
-                "percentile": percentile_score(
-                    points,
-                    field,
+                "percentile": (
+                    percentile_score(
+                        points,
+                        field,
+                    )
                 ),
                 "component_score": component,
             }
@@ -307,73 +607,23 @@ def build_upside_score(
     )
 
 
-def calculate_age_lifecycle(
-    age: float | None,
-    position: str,
-) -> float:
-    if age is None:
-        return 50.0
-
-    prime_ranges = {
-        "QB": (24, 32),
-        "RB": (21, 26),
-        "WR": (22, 28),
-        "TE": (23, 29),
-        "K": (24, 34),
-        "DL": (23, 29),
-        "LB": (23, 29),
-        "DB": (23, 29),
-    }
-
-    prime_start, prime_end = prime_ranges.get(
-        position,
-        (23, 29),
-    )
-
-    if prime_start <= age <= prime_end:
-        return 100.0
-
-    if age < prime_start:
-        years_early = prime_start - age
-        return clamp(
-            100.0 - 8.0 * years_early
-        )
-
-    years_late = age - prime_end
-
-    decline_rates = {
-        "QB": 5.0,
-        "RB": 12.0,
-        "WR": 8.0,
-        "TE": 7.0,
-        "K": 4.0,
-        "DL": 7.0,
-        "LB": 8.0,
-        "DB": 8.0,
-    }
-
-    return clamp(
-        100.0
-        - decline_rates.get(
-            position,
-            8.0,
-        )
-        * years_late
-    )
-
-
 def build_avi_players() -> dict[str, Any]:
     registry = load_registry()
     league = load_league_structure()
 
     registry_by_fantasypros_id = {
         str(
-            record["source_ids"][
+            record[
+                "source_ids"
+            ][
                 "fantasypros_id"
             ]
         ): record
         for record in registry
-        if record.get("source_ids", {}).get(
+        if record.get(
+            "source_ids",
+            {},
+        ).get(
             "fantasypros_id"
         )
         is not None
@@ -399,8 +649,15 @@ def build_avi_players() -> dict[str, Any]:
         )
     )
 
-    dynasty_scores: dict[str, float] = {}
-    redraft_scores: dict[str, float] = {}
+    dynasty_scores: dict[
+        str,
+        float,
+    ] = {}
+
+    redraft_scores: dict[
+        str,
+        float,
+    ] = {}
 
     for position in SUPPORTED_POSITIONS:
         dynasty_scores.update(
@@ -417,8 +674,13 @@ def build_avi_players() -> dict[str, Any]:
             )
         )
 
-    output: list[dict[str, Any]] = []
-    unresolved: list[dict[str, Any]] = []
+    output: list[
+        dict[str, Any]
+    ] = []
+
+    unresolved: list[
+        dict[str, Any]
+    ] = []
 
     for fantasypros_id, player in (
         registry_by_fantasypros_id.items()
@@ -426,12 +688,16 @@ def build_avi_players() -> dict[str, Any]:
         avi_id = player["avi_id"]
         position = player["position"]
 
-        dynasty_score = dynasty_scores.get(
-            fantasypros_id
+        dynasty_score = (
+            dynasty_scores.get(
+                fantasypros_id
+            )
         )
 
-        redraft_score = redraft_scores.get(
-            fantasypros_id
+        redraft_score = (
+            redraft_scores.get(
+                fantasypros_id
+            )
         )
 
         market_score = build_market_score(
@@ -439,8 +705,10 @@ def build_avi_players() -> dict[str, Any]:
             redraft_score,
         )
 
-        projection = projection_scores.get(
-            avi_id
+        projection = (
+            projection_scores.get(
+                avi_id
+            )
         )
 
         if position in OFFENSIVE_POSITIONS:
@@ -473,7 +741,11 @@ def build_avi_players() -> dict[str, Any]:
                             "redraft_market": (
                                 redraft_score
                             ),
-                            "age_lifecycle": None,
+                            "age_career_horizon": None,
+                            "position_liquidity": None,
+                            "long_term_security": None,
+                            "health_outlook": None,
+                            "long_term_ceiling": None,
                         },
                         "reason": (
                             "No complete current "
@@ -484,13 +756,17 @@ def build_avi_players() -> dict[str, Any]:
                 )
                 continue
 
-            projection_component = projection[
-                "component_score"
-            ]
+            projection_component = (
+                projection[
+                    "component_score"
+                ]
+            )
 
-            projection_percentile = projection[
-                "percentile"
-            ]
+            projection_percentile = (
+                projection[
+                    "percentile"
+                ]
+            )
 
         elif position in IDP_POSITIONS:
             if market_score is None:
@@ -554,15 +830,14 @@ def build_avi_players() -> dict[str, Any]:
                 league_context=(
                     context_score
                 ),
-                public_market=market_score,
-                elite_upside=upside_score,
+                public_market=(
+                    market_score
+                ),
+                elite_upside=(
+                    upside_score
+                ),
             ),
             player_points_active=False,
-        )
-
-        raw = player.get(
-            "source_ids",
-            {},
         )
 
         sleeper_record = player.get(
@@ -571,12 +846,16 @@ def build_avi_players() -> dict[str, Any]:
         )
 
         age = safe_float(
-            player.get("age")
+            player.get(
+                "age"
+            )
         )
 
         if age is None:
             age = safe_float(
-                sleeper_record.get("age")
+                sleeper_record.get(
+                    "age"
+                )
                 if isinstance(
                     sleeper_record,
                     dict,
@@ -584,30 +863,64 @@ def build_avi_players() -> dict[str, Any]:
                 else None
             )
 
-        age_lifecycle = (
-            calculate_age_lifecycle(
+        age_career_horizon = (
+            calculate_age_career_horizon(
                 age,
                 position,
+            )
+        )
+
+        position_liquidity = (
+            calculate_position_liquidity(
+                position=position,
+                team_count=(
+                    league.team_count
+                ),
+                starter_demand=(
+                    replacement_levels.starter_demand
+                ),
+                flex_allocations=(
+                    replacement_levels.flex_allocations
+                ),
+            )
+        )
+
+        verified_dynasty_market = (
+            dynasty_score
+            if dynasty_score is not None
+            else market_score
+        )
+
+        long_term_ceiling = (
+            build_long_term_ceiling(
+                dynasty_market=(
+                    verified_dynasty_market
+                ),
+                projection_component=(
+                    projection_component
+                ),
+                age_career_horizon=(
+                    age_career_horizon
+                ),
             )
         )
 
         d_avi = calculate_d_avi(
             DAVIComponents(
                 dynasty_market=(
-                    dynasty_score
-                    if dynasty_score is not None
-                    else market_score
+                    verified_dynasty_market
+                ),
+                age_career_horizon=(
+                    age_career_horizon
+                ),
+                long_term_security=None,
+                position_liquidity=(
+                    position_liquidity
                 ),
                 current_c_avi=c_avi,
-                age_lifecycle=(
-                    age_lifecycle
-                ),
-                role_stability=market_score,
-                prior_d_avi=market_score,
-                health=market_score,
-                long_term_ceiling=max(
-                    market_score,
-                    projection_component,
+                health_outlook=None,
+                long_term_ceiling=(
+                    long_term_ceiling
                 ),
             )
         )
@@ -616,7 +929,7 @@ def build_avi_players() -> dict[str, Any]:
             {
                 **player,
                 "methodology_status": (
-                    "provisional_v1"
+                    "provisional_2026_2"
                 ),
                 "season_phase": "preseason",
                 "c_avi": c_avi,
@@ -642,8 +955,16 @@ def build_avi_players() -> dict[str, Any]:
                     "redraft_market": (
                         redraft_score
                     ),
-                    "age_lifecycle": (
-                        age_lifecycle
+                    "age_career_horizon": (
+                        age_career_horizon
+                    ),
+                    "position_liquidity": (
+                        position_liquidity
+                    ),
+                    "long_term_security": None,
+                    "health_outlook": None,
+                    "long_term_ceiling": (
+                        long_term_ceiling
                     ),
                 },
             }
@@ -651,6 +972,7 @@ def build_avi_players() -> dict[str, Any]:
 
     output.sort(
         key=lambda record: (
+            -record["d_avi"],
             -record["c_avi"],
             record["canonical_name"],
         )
@@ -659,22 +981,38 @@ def build_avi_players() -> dict[str, Any]:
     now = datetime.now(UTC)
 
     manifest = {
-        "methodology_version": "2026.1",
+        "methodology_version": "2026.2",
         "methodology_status": (
-            "provisional_v1"
+            "provisional_2026_2"
         ),
-        "generated_at_utc": now.isoformat(),
+        "generated_at_utc": (
+            now.isoformat()
+        ),
         "league_id": league.league_id,
         "season": league.season,
         "season_phase": "preseason",
         "player_points_active": False,
-        "weights": {
+        "c_avi_weights": {
             "player_points": 0.00,
             "projections": 0.50,
             "league_context": 0.10,
             "public_market": 0.30,
             "elite_upside": 0.10,
         },
+        "d_avi_weights": {
+            "dynasty_market": 0.35,
+            "age_career_horizon": 0.20,
+            "long_term_security": 0.15,
+            "position_liquidity": 0.10,
+            "current_c_avi": 0.10,
+            "health_outlook": 0.05,
+            "long_term_ceiling": 0.05,
+        },
+        "d_avi_missing_component_policy": (
+            "Redistribute missing optional "
+            "component weights proportionally "
+            "across verified components."
+        ),
         "replacement_levels": {
             "starter_demand": (
                 replacement_levels.starter_demand
@@ -690,14 +1028,14 @@ def build_avi_players() -> dict[str, Any]:
             ),
         },
         "record_counts": {
-            "registry_players": len(
-                registry
+            "registry_players": (
+                len(registry)
             ),
-            "calculated_players": len(
-                output
+            "calculated_players": (
+                len(output)
             ),
-            "unresolved_players": len(
-                unresolved
+            "unresolved_players": (
+                len(unresolved)
             ),
         },
         "status": (
@@ -739,6 +1077,9 @@ def build_avi_players() -> dict[str, Any]:
     )
     print(
         "Player points active: False"
+    )
+    print(
+        "D-AVI methodology: 2026.2"
     )
 
     return manifest
