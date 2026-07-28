@@ -2637,10 +2637,10 @@
     "sleeper_id": "9224"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "25329",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "SEA",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Kenny McIntosh",
     "position": "RB",
     "sleeper_id": "10216"

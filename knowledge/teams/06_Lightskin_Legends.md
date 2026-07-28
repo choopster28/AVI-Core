@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-07-27
+- Last updated from Sleeper exports: 2026-07-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 483.4
-- championship_lineup_c_avi_avg: 80.57
-- offensive_roster_c_avi_sum: 539.4
-- offensive_roster_c_avi_avg: 67.42
+- championship_lineup_c_avi_sum: 483.5
+- championship_lineup_c_avi_avg: 80.58
+- offensive_roster_c_avi_sum: 539.5
+- offensive_roster_c_avi_avg: 67.44
 - offensive_roster_d_avi_sum: 556.6
 - offensive_roster_d_avi_avg: 69.58
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Jonathan Taylor | C-AVI: 97.4 | D-AVI: 89.1
 - RB: Chase Brown | C-AVI: 96.0 | D-AVI: 87.6
 - WR: DK Metcalf | C-AVI: 69.9 | D-AVI: 75.6
-- WR: Parker Washington | C-AVI: 63.9 | D-AVI: 73.3
+- WR: Parker Washington | C-AVI: 64.0 | D-AVI: 73.3
 - FLEX: Javonte Williams | C-AVI: 80.3 | D-AVI: 80.0
 
 ## Current Roster — All Player Cards
@@ -153,7 +153,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 63.9
+- Championship AVI (C-AVI, 0-100): 64.0
 - Dynasty AVI (D-AVI, 0-100): 73.3
 - Projected PPR points: 178.7
 - Category: offense

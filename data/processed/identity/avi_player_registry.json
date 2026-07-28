@@ -6300,8 +6300,8 @@
     "avi_id": "AVI-00010216",
     "canonical_name": "Kenny McIntosh",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "SEA",
     "normalized_name": "kenny mcintosh",

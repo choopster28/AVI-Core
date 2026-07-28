@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-07-27
+- Last updated from Sleeper exports: 2026-07-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,18 +23,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 707.2
 - championship_lineup_c_avi_avg: 88.40
-- offensive_roster_c_avi_sum: 928.3
-- offensive_roster_c_avi_avg: 71.41
+- offensive_roster_c_avi_sum: 928.4
+- offensive_roster_c_avi_avg: 71.42
 - offensive_roster_d_avi_sum: 971.5
 - offensive_roster_d_avi_avg: 74.73
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jaxson Dart | C-AVI: 82.8 | D-AVI: 81.6
+- QB: Jaxson Dart | C-AVI: 82.7 | D-AVI: 81.5
 - RB: Omarion Hampton | C-AVI: 92.0 | D-AVI: 88.4
 - RB: Saquon Barkley | C-AVI: 91.6 | D-AVI: 85.5
 - WR: Rashee Rice | C-AVI: 95.4 | D-AVI: 85.7
-- WR: A.J. Brown | C-AVI: 93.2 | D-AVI: 85.9
+- WR: A.J. Brown | C-AVI: 93.3 | D-AVI: 86.0
 - TE: Trey McBride | C-AVI: 99.5 | D-AVI: 91.9
 - FLEX: Nico Collins | C-AVI: 91.4 | D-AVI: 88.0
 - FLEX: Chris Godwin | C-AVI: 61.3 | D-AVI: 69.1
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 82.8
-- Dynasty AVI (D-AVI, 0-100): 81.6
+- Championship AVI (C-AVI, 0-100): 82.7
+- Dynasty AVI (D-AVI, 0-100): 81.5
 - Projected PPR points: 311.5
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 93.2
-- Dynasty AVI (D-AVI, 0-100): 85.9
+- Championship AVI (C-AVI, 0-100): 93.3
+- Dynasty AVI (D-AVI, 0-100): 86.0
 - Projected PPR points: 257.4
 - Category: offense
 - Valuation status: PROVISIONAL_V1
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 50.5
+- Championship AVI (C-AVI, 0-100): 50.6
 - Dynasty AVI (D-AVI, 0-100): 64.6
 - Projected PPR points: 152.7
 - Category: offense
