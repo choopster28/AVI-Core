@@ -1468,6 +1468,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "22813",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PHI",
+    "player_name": "Elijah Mitchell",
+    "position": "RB",
+    "sleeper_id": "7561"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "22833",
     "match_method": "exact_name_position_unique",
     "nfl_team": "WAS",
@@ -2665,6 +2674,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "25334",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LAC",
+    "player_name": "Derius Davis",
+    "position": "WR",
+    "sleeper_id": "10234"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "25335",
     "match_method": "exact_name_position_unique",
     "nfl_team": "CIN",
@@ -2746,6 +2764,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "25387",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LVR",
+    "player_name": "Roman Hemby",
+    "position": "RB",
+    "sleeper_id": "13416"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "25388",
     "match_method": "exact_name_position_unique",
     "nfl_team": "ARI",
@@ -2770,6 +2797,15 @@
     "player_name": "Trevor Etienne",
     "position": "RB",
     "sleeper_id": "12531"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "25394",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "KC",
+    "player_name": "Jaydn Ott",
+    "position": "RB",
+    "sleeper_id": "13419"
   },
   {
     "confidence": "verified",
@@ -4075,6 +4111,15 @@
     "player_name": "Dontae McMillan",
     "position": "RB",
     "sleeper_id": "13852"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28757",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Elijah Tau-Tolliver",
+    "position": "RB",
+    "sleeper_id": "13909"
   },
   {
     "confidence": "verified",
