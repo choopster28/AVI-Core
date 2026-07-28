@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 587.5
-- championship_lineup_c_avi_avg: 73.44
-- offensive_roster_c_avi_sum: 669.5
-- offensive_roster_c_avi_avg: 60.86
-- offensive_roster_d_avi_sum: 738.8
-- offensive_roster_d_avi_avg: 67.16
+- championship_lineup_c_avi_sum: 587.6
+- championship_lineup_c_avi_avg: 73.45
+- offensive_roster_c_avi_sum: 669.0
+- offensive_roster_c_avi_avg: 60.82
+- offensive_roster_d_avi_sum: 779.6
+- offensive_roster_d_avi_avg: 70.87
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jayden Daniels | C-AVI: 96.0 | D-AVI: 90.1
-- RB: Breece Hall | C-AVI: 88.2 | D-AVI: 86.6
-- RB: Tony Pollard | C-AVI: 66.4 | D-AVI: 73.5
-- WR: Terry McLaurin | C-AVI: 78.7 | D-AVI: 80.2
-- WR: Khalil Shakir | C-AVI: 59.3 | D-AVI: 69.2
-- TE: George Kittle | C-AVI: 79.5 | D-AVI: 82.2
-- FLEX: Brenton Strange | C-AVI: 61.9 | D-AVI: 77.3
-- FLEX: Rachaad White | C-AVI: 57.5 | D-AVI: 70.0
+- QB: Jayden Daniels | C-AVI: 96.0 | D-AVI: 91.1
+- RB: Breece Hall | C-AVI: 88.2 | D-AVI: 92.9
+- RB: Tony Pollard | C-AVI: 66.5 | D-AVI: 79.3
+- WR: Terry McLaurin | C-AVI: 78.7 | D-AVI: 87.4
+- WR: Khalil Shakir | C-AVI: 59.3 | D-AVI: 76.5
+- TE: George Kittle | C-AVI: 79.5 | D-AVI: 83.3
+- FLEX: Brenton Strange | C-AVI: 62.0 | D-AVI: 78.5
+- FLEX: Rachaad White | C-AVI: 57.4 | D-AVI: 75.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,10 +54,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 96.0
-- Dynasty AVI (D-AVI, 0-100): 90.1
+- Dynasty AVI (D-AVI, 0-100): 91.1
 - Projected PPR points: 324.5
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Breece Hall
 - Player name: Breece Hall
@@ -71,10 +71,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 88.2
-- Dynasty AVI (D-AVI, 0-100): 86.6
+- Dynasty AVI (D-AVI, 0-100): 92.9
 - Projected PPR points: 253.5
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Tony Pollard
 - Player name: Tony Pollard
@@ -87,11 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 66.4
-- Dynasty AVI (D-AVI, 0-100): 73.5
+- Championship AVI (C-AVI, 0-100): 66.5
+- Dynasty AVI (D-AVI, 0-100): 79.3
 - Projected PPR points: 191.1
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Rachaad White
 - Player name: Rachaad White
@@ -104,11 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 57.5
-- Dynasty AVI (D-AVI, 0-100): 70.0
+- Championship AVI (C-AVI, 0-100): 57.4
+- Dynasty AVI (D-AVI, 0-100): 75.7
 - Projected PPR points: 167.4
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Terry McLaurin
 - Player name: Terry McLaurin
@@ -122,10 +122,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 30.0
 - Championship AVI (C-AVI, 0-100): 78.7
-- Dynasty AVI (D-AVI, 0-100): 80.2
+- Dynasty AVI (D-AVI, 0-100): 87.4
 - Projected PPR points: 214.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Khalil Shakir
 - Player name: Khalil Shakir
@@ -139,10 +139,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 59.3
-- Dynasty AVI (D-AVI, 0-100): 69.2
+- Dynasty AVI (D-AVI, 0-100): 76.5
 - Projected PPR points: 171.8
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jauan Jennings
 - Player name: Jauan Jennings
@@ -156,10 +156,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 29.0
 - Championship AVI (C-AVI, 0-100): 48.6
-- Dynasty AVI (D-AVI, 0-100): 64.6
+- Dynasty AVI (D-AVI, 0-100): 71.8
 - Projected PPR points: 134.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: George Kittle
 - Player name: George Kittle
@@ -173,10 +173,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 32.0
 - Championship AVI (C-AVI, 0-100): 79.5
-- Dynasty AVI (D-AVI, 0-100): 82.2
+- Dynasty AVI (D-AVI, 0-100): 83.3
 - Projected PPR points: 175.1
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Brenton Strange
 - Player name: Brenton Strange
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 61.9
-- Dynasty AVI (D-AVI, 0-100): 77.3
+- Championship AVI (C-AVI, 0-100): 62.0
+- Dynasty AVI (D-AVI, 0-100): 78.5
 - Projected PPR points: 151.4
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Tommy Tremble
 - Player name: Tommy Tremble
@@ -206,11 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 33.4
-- Dynasty AVI (D-AVI, 0-100): 45.1
+- Championship AVI (C-AVI, 0-100): 32.8
+- Dynasty AVI (D-AVI, 0-100): 43.1
 - Projected PPR points: 63.4
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jonnu Smith
 - Player name: Jonnu Smith

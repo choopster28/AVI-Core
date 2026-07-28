@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 553.3
-- championship_lineup_c_avi_avg: 69.16
-- offensive_roster_c_avi_sum: 629.3
-- offensive_roster_c_avi_avg: 62.93
-- offensive_roster_d_avi_sum: 734.2
-- offensive_roster_d_avi_avg: 73.42
+- championship_lineup_c_avi_sum: 553.6
+- championship_lineup_c_avi_avg: 69.20
+- offensive_roster_c_avi_sum: 629.8
+- offensive_roster_c_avi_avg: 62.98
+- offensive_roster_d_avi_sum: 780.0
+- offensive_roster_d_avi_avg: 78.00
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: C.J. Stroud | C-AVI: 47.8 | D-AVI: 68.5
-- RB: Ashton Jeanty | C-AVI: 97.1 | D-AVI: 91.1
-- RB: Jaylen Warren | C-AVI: 68.5 | D-AVI: 76.5
-- WR: Rome Odunze | C-AVI: 77.3 | D-AVI: 81.0
-- WR: Michael Wilson | C-AVI: 62.4 | D-AVI: 74.8
-- TE: Sam LaPorta | C-AVI: 86.0 | D-AVI: 86.7
-- FLEX: Hunter Henry | C-AVI: 62.0 | D-AVI: 73.4
-- FLEX: Jordan Mason | C-AVI: 52.2 | D-AVI: 66.8
+- QB: C.J. Stroud | C-AVI: 47.8 | D-AVI: 69.4
+- RB: Ashton Jeanty | C-AVI: 97.1 | D-AVI: 97.2
+- RB: Jaylen Warren | C-AVI: 68.5 | D-AVI: 82.5
+- WR: Rome Odunze | C-AVI: 77.3 | D-AVI: 88.6
+- WR: Michael Wilson | C-AVI: 62.4 | D-AVI: 82.4
+- TE: Sam LaPorta | C-AVI: 86.0 | D-AVI: 88.1
+- FLEX: Hunter Henry | C-AVI: 62.1 | D-AVI: 74.2
+- FLEX: Jordan Mason | C-AVI: 52.4 | D-AVI: 73.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,10 +54,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 47.8
-- Dynasty AVI (D-AVI, 0-100): 68.5
+- Dynasty AVI (D-AVI, 0-100): 69.4
 - Projected PPR points: 260.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: J.J. McCarthy
 - Player name: J.J. McCarthy
@@ -71,10 +71,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 31.6
-- Dynasty AVI (D-AVI, 0-100): 57.2
+- Dynasty AVI (D-AVI, 0-100): 58.5
 - Projected PPR points: 22.5
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Ashton Jeanty
 - Player name: Ashton Jeanty
@@ -88,10 +88,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 97.1
-- Dynasty AVI (D-AVI, 0-100): 91.1
+- Dynasty AVI (D-AVI, 0-100): 97.2
 - Projected PPR points: 276.8
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jaylen Warren
 - Player name: Jaylen Warren
@@ -105,10 +105,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 68.5
-- Dynasty AVI (D-AVI, 0-100): 76.5
+- Dynasty AVI (D-AVI, 0-100): 82.5
 - Projected PPR points: 192.5
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jordan Mason
 - Player name: Jordan Mason
@@ -121,11 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 52.2
-- Dynasty AVI (D-AVI, 0-100): 66.8
+- Championship AVI (C-AVI, 0-100): 52.4
+- Dynasty AVI (D-AVI, 0-100): 73.3
 - Projected PPR points: 138.3
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Rome Odunze
 - Player name: Rome Odunze
@@ -139,10 +139,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 77.3
-- Dynasty AVI (D-AVI, 0-100): 81.0
+- Dynasty AVI (D-AVI, 0-100): 88.6
 - Projected PPR points: 209.8
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Michael Wilson
 - Player name: Michael Wilson
@@ -156,10 +156,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 62.4
-- Dynasty AVI (D-AVI, 0-100): 74.8
+- Dynasty AVI (D-AVI, 0-100): 82.4
 - Projected PPR points: 173.5
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jalen Nailor
 - Player name: Jalen Nailor
@@ -172,11 +172,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 44.4
-- Dynasty AVI (D-AVI, 0-100): 58.2
+- Championship AVI (C-AVI, 0-100): 44.6
+- Dynasty AVI (D-AVI, 0-100): 65.8
 - Projected PPR points: 125.8
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Sam LaPorta
 - Player name: Sam LaPorta
@@ -190,10 +190,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 86.0
-- Dynasty AVI (D-AVI, 0-100): 86.7
+- Dynasty AVI (D-AVI, 0-100): 88.1
 - Projected PPR points: 183.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Hunter Henry
 - Player name: Hunter Henry
@@ -206,11 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 62.0
-- Dynasty AVI (D-AVI, 0-100): 73.4
+- Championship AVI (C-AVI, 0-100): 62.1
+- Dynasty AVI (D-AVI, 0-100): 74.2
 - Projected PPR points: 153.6
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jonathan Greenard
 - Player name: Jonathan Greenard

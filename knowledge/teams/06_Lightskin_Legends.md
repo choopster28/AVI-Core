@@ -25,17 +25,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - championship_lineup_c_avi_avg: 81.13
 - offensive_roster_c_avi_sum: 543.1
 - offensive_roster_c_avi_avg: 67.89
-- offensive_roster_d_avi_sum: 565.2
-- offensive_roster_d_avi_avg: 70.65
+- offensive_roster_d_avi_sum: 598.6
+- offensive_roster_d_avi_avg: 74.83
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Dak Prescott | C-AVI: 76.2 | D-AVI: 79.1
-- RB: Jonathan Taylor | C-AVI: 97.7 | D-AVI: 89.8
-- RB: Chase Brown | C-AVI: 96.4 | D-AVI: 88.5
-- WR: DK Metcalf | C-AVI: 70.5 | D-AVI: 77.2
-- WR: Parker Washington | C-AVI: 64.8 | D-AVI: 75.1
-- FLEX: Javonte Williams | C-AVI: 81.2 | D-AVI: 82.3
+- QB: Dak Prescott | C-AVI: 76.2 | D-AVI: 79.4
+- RB: Jonathan Taylor | C-AVI: 97.7 | D-AVI: 95.6
+- RB: Chase Brown | C-AVI: 96.4 | D-AVI: 94.3
+- WR: DK Metcalf | C-AVI: 70.5 | D-AVI: 84.6
+- WR: Parker Washington | C-AVI: 64.8 | D-AVI: 82.6
+- FLEX: Javonte Williams | C-AVI: 81.2 | D-AVI: 88.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -52,10 +52,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 32.0
 - Championship AVI (C-AVI, 0-100): 76.2
-- Dynasty AVI (D-AVI, 0-100): 79.1
+- Dynasty AVI (D-AVI, 0-100): 79.4
 - Projected PPR points: 306.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jared Goff
 - Player name: Jared Goff
@@ -69,10 +69,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 56.3
-- Dynasty AVI (D-AVI, 0-100): 73.2
+- Dynasty AVI (D-AVI, 0-100): 73.8
 - Projected PPR points: 287.3
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jonathan Taylor
 - Player name: Jonathan Taylor
@@ -86,10 +86,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 97.7
-- Dynasty AVI (D-AVI, 0-100): 89.8
+- Dynasty AVI (D-AVI, 0-100): 95.6
 - Projected PPR points: 309.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Chase Brown
 - Player name: Chase Brown
@@ -103,10 +103,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 96.4
-- Dynasty AVI (D-AVI, 0-100): 88.5
+- Dynasty AVI (D-AVI, 0-100): 94.3
 - Projected PPR points: 277.6
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Javonte Williams
 - Player name: Javonte Williams
@@ -120,10 +120,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 81.2
-- Dynasty AVI (D-AVI, 0-100): 82.3
+- Dynasty AVI (D-AVI, 0-100): 88.3
 - Projected PPR points: 235.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: DK Metcalf
 - Player name: DK Metcalf
@@ -137,10 +137,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 70.5
-- Dynasty AVI (D-AVI, 0-100): 77.2
+- Dynasty AVI (D-AVI, 0-100): 84.6
 - Projected PPR points: 194.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Parker Washington
 - Player name: Parker Washington
@@ -154,10 +154,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 64.8
-- Dynasty AVI (D-AVI, 0-100): 75.1
+- Dynasty AVI (D-AVI, 0-100): 82.6
 - Projected PPR points: 178.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Tyreek Hill
 - Player name: Tyreek Hill

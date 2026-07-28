@@ -126,6 +126,15 @@
     "sleeper_id": "1945"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "13274",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Brandon McManus",
+    "position": "K",
+    "sleeper_id": "1433"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "13731",
     "match_method": "exact_name_position_unique",
@@ -655,6 +664,15 @@
     "player_name": "Dalton Schultz",
     "position": "TE",
     "sleeper_id": "5001"
+  },
+  {
+    "confidence": "review",
+    "fantasypros_id": "17420",
+    "match_method": "exact_name_position",
+    "nfl_team": "LVR",
+    "player_name": "Daniel Carlson",
+    "position": "K",
+    "sleeper_id": "5095"
   },
   {
     "confidence": "verified",

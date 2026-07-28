@@ -1,24 +1,4 @@
 {
-  "completed": [
-    "players",
-    "injuries",
-    "news",
-    "projections_QB",
-    "projections_RB",
-    "projections_WR",
-    "projections_TE",
-    "projections_K",
-    "projections_DL",
-    "projections_LB",
-    "projections_DB",
-    "dynasty_rankings_QB",
-    "dynasty_rankings_RB",
-    "dynasty_rankings_WR",
-    "dynasty_rankings_TE",
-    "dynasty_rankings_K",
-    "dynasty_rankings_DL",
-    "dynasty_rankings_LB",
-    "dynasty_rankings_DB"
-  ],
+  "completed": [],
   "failed": []
 }

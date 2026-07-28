@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 723.1
-- championship_lineup_c_avi_avg: 90.39
-- offensive_roster_c_avi_sum: 859.9
-- offensive_roster_c_avi_avg: 78.17
-- offensive_roster_d_avi_sum: 890.8
-- offensive_roster_d_avi_avg: 80.98
+- championship_lineup_c_avi_sum: 723.0
+- championship_lineup_c_avi_avg: 90.38
+- offensive_roster_c_avi_sum: 860.1
+- offensive_roster_c_avi_avg: 78.19
+- offensive_roster_d_avi_sum: 942.3
+- offensive_roster_d_avi_avg: 85.66
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Josh Allen | C-AVI: 99.6 | D-AVI: 92.4
-- RB: Bijan Robinson | C-AVI: 99.5 | D-AVI: 92.4
-- RB: De'Von Achane | C-AVI: 97.4 | D-AVI: 90.4
-- WR: Puka Nacua | C-AVI: 99.6 | D-AVI: 91.9
-- WR: George Pickens | C-AVI: 92.6 | D-AVI: 88.1
-- TE: Harold Fannin | C-AVI: 91.3 | D-AVI: 88.3
-- FLEX: Ladd McConkey | C-AVI: 79.6 | D-AVI: 84.2
-- FLEX: Juwan Johnson | C-AVI: 63.5 | D-AVI: 75.2
+- QB: Josh Allen | C-AVI: 99.6 | D-AVI: 93.3
+- RB: Bijan Robinson | C-AVI: 99.5 | D-AVI: 98.4
+- RB: De'Von Achane | C-AVI: 97.4 | D-AVI: 96.6
+- WR: Puka Nacua | C-AVI: 99.6 | D-AVI: 99.4
+- WR: George Pickens | C-AVI: 92.6 | D-AVI: 95.6
+- TE: Harold Fannin | C-AVI: 91.3 | D-AVI: 89.7
+- FLEX: Ladd McConkey | C-AVI: 79.6 | D-AVI: 91.7
+- FLEX: Juwan Johnson | C-AVI: 63.4 | D-AVI: 75.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,10 +54,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 30.0
 - Championship AVI (C-AVI, 0-100): 99.6
-- Dynasty AVI (D-AVI, 0-100): 92.4
+- Dynasty AVI (D-AVI, 0-100): 93.3
 - Projected PPR points: 372.2
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jacoby Brissett
 - Player name: Jacoby Brissett
@@ -71,10 +71,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 33.0
 - Championship AVI (C-AVI, 0-100): 41.3
-- Dynasty AVI (D-AVI, 0-100): 58.3
+- Dynasty AVI (D-AVI, 0-100): 58.5
 - Projected PPR points: 232.4
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Bijan Robinson
 - Player name: Bijan Robinson
@@ -88,10 +88,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 99.5
-- Dynasty AVI (D-AVI, 0-100): 92.4
+- Dynasty AVI (D-AVI, 0-100): 98.4
 - Projected PPR points: 369.9
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: De'Von Achane
 - Player name: De'Von Achane
@@ -105,10 +105,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 97.4
-- Dynasty AVI (D-AVI, 0-100): 90.4
+- Dynasty AVI (D-AVI, 0-100): 96.6
 - Projected PPR points: 292.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Keaton Mitchell
 - Player name: Keaton Mitchell
@@ -121,11 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 42.3
-- Dynasty AVI (D-AVI, 0-100): 60.3
+- Championship AVI (C-AVI, 0-100): 42.5
+- Dynasty AVI (D-AVI, 0-100): 66.7
 - Projected PPR points: 70.8
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Puka Nacua
 - Player name: Puka Nacua
@@ -139,10 +139,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 99.6
-- Dynasty AVI (D-AVI, 0-100): 91.9
+- Dynasty AVI (D-AVI, 0-100): 99.4
 - Projected PPR points: 339.8
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: George Pickens
 - Player name: George Pickens
@@ -156,10 +156,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 92.6
-- Dynasty AVI (D-AVI, 0-100): 88.1
+- Dynasty AVI (D-AVI, 0-100): 95.6
 - Projected PPR points: 252.4
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Ladd McConkey
 - Player name: Ladd McConkey
@@ -173,10 +173,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 79.6
-- Dynasty AVI (D-AVI, 0-100): 84.2
+- Dynasty AVI (D-AVI, 0-100): 91.7
 - Projected PPR points: 212.5
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Matthew Golden
 - Player name: Matthew Golden
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 53.2
-- Dynasty AVI (D-AVI, 0-100): 69.3
+- Championship AVI (C-AVI, 0-100): 53.3
+- Dynasty AVI (D-AVI, 0-100): 77.0
 - Projected PPR points: 155.9
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Harold Fannin
 - Player name: Harold Fannin
@@ -207,10 +207,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 91.3
-- Dynasty AVI (D-AVI, 0-100): 88.3
+- Dynasty AVI (D-AVI, 0-100): 89.7
 - Projected PPR points: 190.6
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Juwan Johnson
 - Player name: Juwan Johnson
@@ -223,11 +223,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 63.5
-- Dynasty AVI (D-AVI, 0-100): 75.2
+- Championship AVI (C-AVI, 0-100): 63.4
+- Dynasty AVI (D-AVI, 0-100): 75.4
 - Projected PPR points: 154.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Ka'imi Fairbairn
 - Player name: Ka'imi Fairbairn

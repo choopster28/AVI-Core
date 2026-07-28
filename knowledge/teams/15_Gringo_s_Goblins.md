@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 13
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 564.4
-- championship_lineup_c_avi_avg: 70.55
-- offensive_roster_c_avi_sum: 653.8
-- offensive_roster_c_avi_avg: 65.38
-- offensive_roster_d_avi_sum: 748.9
-- offensive_roster_d_avi_avg: 74.89
+- championship_lineup_c_avi_sum: 564.8
+- championship_lineup_c_avi_avg: 70.60
+- offensive_roster_c_avi_sum: 654.3
+- offensive_roster_c_avi_avg: 65.43
+- offensive_roster_d_avi_sum: 804.8
+- offensive_roster_d_avi_avg: 80.48
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Bo Nix | C-AVI: 65.9 | D-AVI: 77.1
-- RB: Kyren Williams | C-AVI: 83.5 | D-AVI: 83.8
-- RB: David Montgomery | C-AVI: 68.5 | D-AVI: 77.3
-- WR: Emeka Egbuka | C-AVI: 85.3 | D-AVI: 86.5
-- WR: Davante Adams | C-AVI: 80.1 | D-AVI: 77.9
-- TE: Jake Ferguson | C-AVI: 74.4 | D-AVI: 80.7
-- FLEX: Jacory Croskey-Merritt | C-AVI: 53.6 | D-AVI: 68.7
-- FLEX: Jonathon Brooks | C-AVI: 53.1 | D-AVI: 70.8
+- QB: Bo Nix | C-AVI: 66.0 | D-AVI: 78.0
+- RB: Kyren Williams | C-AVI: 83.5 | D-AVI: 89.9
+- RB: David Montgomery | C-AVI: 68.5 | D-AVI: 83.2
+- WR: Emeka Egbuka | C-AVI: 85.3 | D-AVI: 94.3
+- WR: Davante Adams | C-AVI: 80.2 | D-AVI: 85.1
+- TE: Jake Ferguson | C-AVI: 74.4 | D-AVI: 81.7
+- FLEX: Jacory Croskey-Merritt | C-AVI: 53.8 | D-AVI: 75.3
+- FLEX: Jonathon Brooks | C-AVI: 53.1 | D-AVI: 77.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 65.9
-- Dynasty AVI (D-AVI, 0-100): 77.1
+- Championship AVI (C-AVI, 0-100): 66.0
+- Dynasty AVI (D-AVI, 0-100): 78.0
 - Projected PPR points: 297.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Kyren Williams
 - Player name: Kyren Williams
@@ -71,10 +71,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 83.5
-- Dynasty AVI (D-AVI, 0-100): 83.8
+- Dynasty AVI (D-AVI, 0-100): 89.9
 - Projected PPR points: 239.8
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: David Montgomery
 - Player name: David Montgomery
@@ -88,10 +88,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 29.0
 - Championship AVI (C-AVI, 0-100): 68.5
-- Dynasty AVI (D-AVI, 0-100): 77.3
+- Dynasty AVI (D-AVI, 0-100): 83.2
 - Projected PPR points: 191.9
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jacory Croskey-Merritt
 - Player name: Jacory Croskey-Merritt
@@ -104,11 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 53.6
-- Dynasty AVI (D-AVI, 0-100): 68.7
+- Championship AVI (C-AVI, 0-100): 53.8
+- Dynasty AVI (D-AVI, 0-100): 75.3
 - Projected PPR points: 143.6
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jonathon Brooks
 - Player name: Jonathon Brooks
@@ -122,10 +122,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 53.1
-- Dynasty AVI (D-AVI, 0-100): 70.8
+- Dynasty AVI (D-AVI, 0-100): 77.2
 - Projected PPR points: 133.5
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Alvin Kamara
 - Player name: Alvin Kamara
@@ -139,10 +139,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 48.9
-- Dynasty AVI (D-AVI, 0-100): 62.3
+- Dynasty AVI (D-AVI, 0-100): 68.4
 - Projected PPR points: 123.5
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Emeka Egbuka
 - Player name: Emeka Egbuka
@@ -156,10 +156,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 85.3
-- Dynasty AVI (D-AVI, 0-100): 86.5
+- Dynasty AVI (D-AVI, 0-100): 94.3
 - Projected PPR points: 227.8
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Davante Adams
 - Player name: Davante Adams
@@ -172,11 +172,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 80.1
-- Dynasty AVI (D-AVI, 0-100): 77.9
+- Championship AVI (C-AVI, 0-100): 80.2
+- Dynasty AVI (D-AVI, 0-100): 85.1
 - Projected PPR points: 222.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Tre' Harris
 - Player name: Tre' Harris
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 40.5
-- Dynasty AVI (D-AVI, 0-100): 63.8
+- Championship AVI (C-AVI, 0-100): 40.6
+- Dynasty AVI (D-AVI, 0-100): 71.7
 - Projected PPR points: 89.3
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jake Ferguson
 - Player name: Jake Ferguson
@@ -207,10 +207,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 74.4
-- Dynasty AVI (D-AVI, 0-100): 80.7
+- Dynasty AVI (D-AVI, 0-100): 81.7
 - Projected PPR points: 167.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Brandon Aubrey
 - Player name: Brandon Aubrey

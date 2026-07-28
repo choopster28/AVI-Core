@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 13
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 636.9
-- championship_lineup_c_avi_avg: 79.61
-- offensive_roster_c_avi_sum: 718.9
-- offensive_roster_c_avi_avg: 71.89
-- offensive_roster_d_avi_sum: 778.6
-- offensive_roster_d_avi_avg: 77.86
+- championship_lineup_c_avi_sum: 637.2
+- championship_lineup_c_avi_avg: 79.65
+- offensive_roster_c_avi_sum: 719.3
+- offensive_roster_c_avi_avg: 71.93
+- offensive_roster_d_avi_sum: 825.4
+- offensive_roster_d_avi_avg: 82.54
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Lamar Jackson | C-AVI: 97.0 | D-AVI: 90.0
-- RB: Derrick Henry | C-AVI: 92.9 | D-AVI: 83.9
-- RB: Kyle Monangai | C-AVI: 55.9 | D-AVI: 73.2
-- WR: Zay Flowers | C-AVI: 88.8 | D-AVI: 85.3
-- WR: Jameson Williams | C-AVI: 79.7 | D-AVI: 81.2
-- TE: Kyle Pitts | C-AVI: 94.0 | D-AVI: 87.9
-- FLEX: Isaiah Likely | C-AVI: 72.8 | D-AVI: 81.1
-- FLEX: Romeo Doubs | C-AVI: 55.8 | D-AVI: 68.5
+- QB: Lamar Jackson | C-AVI: 97.0 | D-AVI: 90.7
+- RB: Derrick Henry | C-AVI: 92.9 | D-AVI: 89.5
+- RB: Kyle Monangai | C-AVI: 55.9 | D-AVI: 79.5
+- WR: Zay Flowers | C-AVI: 88.9 | D-AVI: 92.7
+- WR: Jameson Williams | C-AVI: 79.7 | D-AVI: 88.6
+- TE: Kyle Pitts | C-AVI: 94.1 | D-AVI: 89.3
+- FLEX: Isaiah Likely | C-AVI: 72.9 | D-AVI: 82.8
+- FLEX: Romeo Doubs | C-AVI: 55.8 | D-AVI: 76.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,10 +54,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 29.0
 - Championship AVI (C-AVI, 0-100): 97.0
-- Dynasty AVI (D-AVI, 0-100): 90.0
+- Dynasty AVI (D-AVI, 0-100): 90.7
 - Projected PPR points: 324.6
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Cam Ward
 - Player name: Cam Ward
@@ -71,10 +71,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 44.4
-- Dynasty AVI (D-AVI, 0-100): 68.2
+- Dynasty AVI (D-AVI, 0-100): 69.3
 - Projected PPR points: 232.2
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Derrick Henry
 - Player name: Derrick Henry
@@ -88,10 +88,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 32.0
 - Championship AVI (C-AVI, 0-100): 92.9
-- Dynasty AVI (D-AVI, 0-100): 83.9
+- Dynasty AVI (D-AVI, 0-100): 89.5
 - Projected PPR points: 272.9
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Kyle Monangai
 - Player name: Kyle Monangai
@@ -105,10 +105,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 55.9
-- Dynasty AVI (D-AVI, 0-100): 73.2
+- Dynasty AVI (D-AVI, 0-100): 79.5
 - Projected PPR points: 155.9
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Zay Flowers
 - Player name: Zay Flowers
@@ -121,11 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 88.8
-- Dynasty AVI (D-AVI, 0-100): 85.3
+- Championship AVI (C-AVI, 0-100): 88.9
+- Dynasty AVI (D-AVI, 0-100): 92.7
 - Projected PPR points: 243.6
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jameson Williams
 - Player name: Jameson Williams
@@ -139,10 +139,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 79.7
-- Dynasty AVI (D-AVI, 0-100): 81.2
+- Dynasty AVI (D-AVI, 0-100): 88.6
 - Projected PPR points: 217.2
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Romeo Doubs
 - Player name: Romeo Doubs
@@ -156,10 +156,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 55.8
-- Dynasty AVI (D-AVI, 0-100): 68.5
+- Dynasty AVI (D-AVI, 0-100): 76.0
 - Projected PPR points: 164.3
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Isaac TeSlaa
 - Player name: Isaac TeSlaa
@@ -172,11 +172,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 37.6
-- Dynasty AVI (D-AVI, 0-100): 59.3
+- Championship AVI (C-AVI, 0-100): 37.7
+- Dynasty AVI (D-AVI, 0-100): 67.0
 - Projected PPR points: 85.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Kyle Pitts
 - Player name: Kyle Pitts
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 94.0
-- Dynasty AVI (D-AVI, 0-100): 87.9
+- Championship AVI (C-AVI, 0-100): 94.1
+- Dynasty AVI (D-AVI, 0-100): 89.3
 - Projected PPR points: 195.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Isaiah Likely
 - Player name: Isaiah Likely
@@ -206,11 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 72.8
-- Dynasty AVI (D-AVI, 0-100): 81.1
+- Championship AVI (C-AVI, 0-100): 72.9
+- Dynasty AVI (D-AVI, 0-100): 82.8
 - Projected PPR points: 165.4
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Evan McPherson
 - Player name: Evan McPherson

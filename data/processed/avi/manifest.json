@@ -1,8 +1,25 @@
 {
-  "generated_at_utc": "2026-07-28T17:16:34.791163+00:00",
+  "c_avi_weights": {
+    "elite_upside": 0.1,
+    "league_context": 0.1,
+    "player_points": 0.0,
+    "projections": 0.5,
+    "public_market": 0.3
+  },
+  "d_avi_missing_component_policy": "Redistribute missing optional component weights proportionally across verified components.",
+  "d_avi_weights": {
+    "age_career_horizon": 0.2,
+    "current_c_avi": 0.1,
+    "dynasty_market": 0.35,
+    "health_outlook": 0.05,
+    "long_term_ceiling": 0.05,
+    "long_term_security": 0.15,
+    "position_liquidity": 0.1
+  },
+  "generated_at_utc": "2026-07-28T22:26:04.017327+00:00",
   "league_id": "1312185568032997376",
-  "methodology_status": "provisional_v1",
-  "methodology_version": "2026.1",
+  "methodology_status": "provisional_2026_2",
+  "methodology_version": "2026.2",
   "player_points_active": false,
   "record_counts": {
     "calculated_players": 432,
@@ -48,12 +65,5 @@
   },
   "season": 2026,
   "season_phase": "preseason",
-  "status": "passed",
-  "weights": {
-    "elite_upside": 0.1,
-    "league_context": 0.1,
-    "player_points": 0.0,
-    "projections": 0.5,
-    "public_market": 0.3
-  }
+  "status": "passed"
 }

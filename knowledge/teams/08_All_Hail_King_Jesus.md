@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 625.7
-- championship_lineup_c_avi_avg: 78.21
-- offensive_roster_c_avi_sum: 673.7
-- offensive_roster_c_avi_avg: 67.37
-- offensive_roster_d_avi_sum: 715.0
-- offensive_roster_d_avi_avg: 71.50
+- championship_lineup_c_avi_sum: 625.6
+- championship_lineup_c_avi_avg: 78.20
+- offensive_roster_c_avi_sum: 673.5
+- offensive_roster_c_avi_avg: 67.35
+- offensive_roster_d_avi_sum: 758.5
+- offensive_roster_d_avi_avg: 75.85
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Brock Purdy | C-AVI: 77.4 | D-AVI: 80.4
-- RB: Aaron Jones | C-AVI: 56.8 | D-AVI: 67.0
-- RB: Zach Charbonnet | C-AVI: 52.0 | D-AVI: 71.3
-- WR: Jaxon Smith-Njigba | C-AVI: 99.1 | D-AVI: 92.0
-- WR: Amon-Ra St. Brown | C-AVI: 98.6 | D-AVI: 91.4
-- TE: Dallas Goedert | C-AVI: 81.0 | D-AVI: 80.1
-- FLEX: Tee Higgins | C-AVI: 81.7 | D-AVI: 82.9
-- FLEX: Tucker Kraft | C-AVI: 79.1 | D-AVI: 86.3
+- QB: Brock Purdy | C-AVI: 77.4 | D-AVI: 81.1
+- RB: Aaron Jones | C-AVI: 56.7 | D-AVI: 72.4
+- RB: Zach Charbonnet | C-AVI: 52.0 | D-AVI: 78.4
+- WR: Jaxon Smith-Njigba | C-AVI: 99.1 | D-AVI: 99.6
+- WR: Amon-Ra St. Brown | C-AVI: 98.6 | D-AVI: 98.9
+- TE: Dallas Goedert | C-AVI: 81.1 | D-AVI: 81.2
+- FLEX: Tee Higgins | C-AVI: 81.6 | D-AVI: 89.8
+- FLEX: Tucker Kraft | C-AVI: 79.1 | D-AVI: 87.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,10 +54,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 77.4
-- Dynasty AVI (D-AVI, 0-100): 80.4
+- Dynasty AVI (D-AVI, 0-100): 81.1
 - Projected PPR points: 306.2
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Aaron Jones
 - Player name: Aaron Jones
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 56.8
-- Dynasty AVI (D-AVI, 0-100): 67.0
+- Championship AVI (C-AVI, 0-100): 56.7
+- Dynasty AVI (D-AVI, 0-100): 72.4
 - Projected PPR points: 168.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Zach Charbonnet
 - Player name: Zach Charbonnet
@@ -88,10 +88,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 52.0
-- Dynasty AVI (D-AVI, 0-100): 71.3
+- Dynasty AVI (D-AVI, 0-100): 78.4
 - Projected PPR points: 123.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Isiah Pacheco
 - Player name: Isiah Pacheco
@@ -104,11 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 48.0
-- Dynasty AVI (D-AVI, 0-100): 63.6
+- Championship AVI (C-AVI, 0-100): 47.9
+- Dynasty AVI (D-AVI, 0-100): 69.6
 - Projected PPR points: 115.9
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jaxon Smith-Njigba
 - Player name: Jaxon Smith-Njigba
@@ -122,10 +122,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 99.1
-- Dynasty AVI (D-AVI, 0-100): 92.0
+- Dynasty AVI (D-AVI, 0-100): 99.6
 - Projected PPR points: 324.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Amon-Ra St. Brown
 - Player name: Amon-Ra St. Brown
@@ -139,10 +139,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 98.6
-- Dynasty AVI (D-AVI, 0-100): 91.4
+- Dynasty AVI (D-AVI, 0-100): 98.9
 - Projected PPR points: 319.4
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Tee Higgins
 - Player name: Tee Higgins
@@ -155,11 +155,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 81.7
-- Dynasty AVI (D-AVI, 0-100): 82.9
+- Championship AVI (C-AVI, 0-100): 81.6
+- Dynasty AVI (D-AVI, 0-100): 89.8
 - Projected PPR points: 221.3
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Deebo Samuel
 - Player name: Deebo Samuel
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 81.0
-- Dynasty AVI (D-AVI, 0-100): 80.1
+- Championship AVI (C-AVI, 0-100): 81.1
+- Dynasty AVI (D-AVI, 0-100): 81.2
 - Projected PPR points: 179.3
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Tucker Kraft
 - Player name: Tucker Kraft
@@ -207,10 +207,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 79.1
-- Dynasty AVI (D-AVI, 0-100): 86.3
+- Dynasty AVI (D-AVI, 0-100): 87.5
 - Projected PPR points: 171.8
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Josh Hines-Allen
 - Player name: Josh Hines-Allen

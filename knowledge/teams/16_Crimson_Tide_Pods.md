@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 538.8
-- championship_lineup_c_avi_avg: 67.35
-- offensive_roster_c_avi_sum: 733.0
+- championship_lineup_c_avi_sum: 538.6
+- championship_lineup_c_avi_avg: 67.33
+- offensive_roster_c_avi_sum: 732.9
 - offensive_roster_c_avi_avg: 56.38
-- offensive_roster_d_avi_sum: 877.0
-- offensive_roster_d_avi_avg: 67.46
+- offensive_roster_d_avi_sum: 940.6
+- offensive_roster_d_avi_avg: 72.35
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Justin Herbert | C-AVI: 71.5 | D-AVI: 82.5
-- RB: Chuba Hubbard | C-AVI: 65.2 | D-AVI: 74.4
-- RB: Tyjae Spears | C-AVI: 50.9 | D-AVI: 64.8
-- WR: DeVonta Smith | C-AVI: 87.4 | D-AVI: 85.8
-- WR: Alec Pierce | C-AVI: 74.7 | D-AVI: 78.5
-- TE: Oronde Gadsden | C-AVI: 55.8 | D-AVI: 77.7
-- FLEX: Michael Pittman | C-AVI: 68.0 | D-AVI: 74.7
-- FLEX: Jakobi Meyers | C-AVI: 65.3 | D-AVI: 71.7
+- QB: Justin Herbert | C-AVI: 71.5 | D-AVI: 83.2
+- RB: Chuba Hubbard | C-AVI: 65.2 | D-AVI: 80.5
+- RB: Tyjae Spears | C-AVI: 51.0 | D-AVI: 70.9
+- WR: DeVonta Smith | C-AVI: 87.4 | D-AVI: 93.1
+- WR: Alec Pierce | C-AVI: 74.7 | D-AVI: 86.0
+- TE: Oronde Gadsden | C-AVI: 55.6 | D-AVI: 78.6
+- FLEX: Michael Pittman | C-AVI: 67.9 | D-AVI: 81.7
+- FLEX: Jakobi Meyers | C-AVI: 65.3 | D-AVI: 79.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,10 +54,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 71.5
-- Dynasty AVI (D-AVI, 0-100): 82.5
+- Dynasty AVI (D-AVI, 0-100): 83.2
 - Projected PPR points: 300.3
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Chuba Hubbard
 - Player name: Chuba Hubbard
@@ -71,10 +71,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 65.2
-- Dynasty AVI (D-AVI, 0-100): 74.4
+- Dynasty AVI (D-AVI, 0-100): 80.5
 - Projected PPR points: 187.1
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Tyjae Spears
 - Player name: Tyjae Spears
@@ -87,11 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.9
-- Dynasty AVI (D-AVI, 0-100): 64.8
+- Championship AVI (C-AVI, 0-100): 51.0
+- Dynasty AVI (D-AVI, 0-100): 70.9
 - Projected PPR points: 136.4
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Chris Rodriguez
 - Player name: Chris Rodriguez
@@ -105,10 +105,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 47.0
-- Dynasty AVI (D-AVI, 0-100): 65.0
+- Dynasty AVI (D-AVI, 0-100): 71.1
 - Projected PPR points: 94.8
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Joe Mixon
 - Player name: Joe Mixon
@@ -139,10 +139,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 87.4
-- Dynasty AVI (D-AVI, 0-100): 85.8
+- Dynasty AVI (D-AVI, 0-100): 93.1
 - Projected PPR points: 236.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Alec Pierce
 - Player name: Alec Pierce
@@ -156,10 +156,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 74.7
-- Dynasty AVI (D-AVI, 0-100): 78.5
+- Dynasty AVI (D-AVI, 0-100): 86.0
 - Projected PPR points: 207.2
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Michael Pittman
 - Player name: Michael Pittman
@@ -172,11 +172,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 68.0
-- Dynasty AVI (D-AVI, 0-100): 74.7
+- Championship AVI (C-AVI, 0-100): 67.9
+- Dynasty AVI (D-AVI, 0-100): 81.7
 - Projected PPR points: 189.9
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jakobi Meyers
 - Player name: Jakobi Meyers
@@ -190,10 +190,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 29.0
 - Championship AVI (C-AVI, 0-100): 65.3
-- Dynasty AVI (D-AVI, 0-100): 71.7
+- Dynasty AVI (D-AVI, 0-100): 79.1
 - Projected PPR points: 185.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jerry Jeudy
 - Player name: Jerry Jeudy
@@ -206,11 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 49.0
-- Dynasty AVI (D-AVI, 0-100): 63.5
+- Championship AVI (C-AVI, 0-100): 49.1
+- Dynasty AVI (D-AVI, 0-100): 70.9
 - Projected PPR points: 144.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Travis Hunter
 - Player name: Travis Hunter
@@ -223,11 +223,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 47.6
-- Dynasty AVI (D-AVI, 0-100): 68.1
+- Championship AVI (C-AVI, 0-100): 47.7
+- Dynasty AVI (D-AVI, 0-100): 74.8
 - Projected PPR points: 111.7
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Oronde Gadsden
 - Player name: Oronde Gadsden
@@ -240,11 +240,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 55.8
-- Dynasty AVI (D-AVI, 0-100): 77.7
+- Championship AVI (C-AVI, 0-100): 55.6
+- Dynasty AVI (D-AVI, 0-100): 78.6
 - Projected PPR points: 122.0
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Gunnar Helm
 - Player name: Gunnar Helm
@@ -257,11 +257,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 50.6
-- Dynasty AVI (D-AVI, 0-100): 70.3
+- Championship AVI (C-AVI, 0-100): 50.5
+- Dynasty AVI (D-AVI, 0-100): 70.7
 - Projected PPR points: 111.4
 - Category: offense
-- Valuation status: PROVISIONAL_V1
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Carson Schwesinger
 - Player name: Carson Schwesinger
