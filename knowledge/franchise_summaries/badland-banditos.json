@@ -5,33 +5,33 @@
   "roster_id": 7,
   "owner_display_name": "IcebergSlim69",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 26, 2026",
-  "generated_at": "2026-07-26T20:24:57.032556-06:00",
+  "reporting_period": "Week of July 27, 2026",
+  "generated_at": "2026-07-27T22:07:37.415188-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Badland Banditos: Preseason Front Office Brief",
-  "executive_summary": "Badland Banditos is projected #9 of 16 with a 614.80 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Badland Banditos is projected #9 of 16 with a 614.20 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 614.8,
+    "score": 614.2,
     "team_above": {
-      "name": "All Hail King Jesus",
+      "name": "Southside Savages",
       "rank": 8,
-      "score": 620.6,
-      "gap": 5.800000000000068
+      "score": 620.3,
+      "gap": 6.099999999999909
     },
     "team_below": {
       "name": "DMV Fantasy",
       "rank": 10,
       "score": 581.5,
-      "gap": 33.299999999999955
+      "gap": 32.700000000000045
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 5,
+    "rank": 6,
     "league_size": 16,
-    "score": 877.7,
+    "score": 876.4,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -56,7 +56,7 @@
     "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.3 C-AVI and 86.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jayden Higgins's 50.7 C-AVI baseline; a replacement near 56.5 C-AVI would directly attack the 5.80-point projected gap to All Hail King Jesus.",
+    "Raise the FLEX slot above Jayden Higgins's 50.3 C-AVI baseline; a replacement near 56.4 C-AVI would directly attack the 6.10-point projected gap to Southside Savages.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
@@ -86,7 +86,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #9 of 16 at 614.80 lineup C-AVI. All Hail King Jesus is immediately above at 620.60, a gap of 5.80. DMV Fantasy is immediately behind at 581.50."
+      "body": "Projected #9 of 16 at 614.20 lineup C-AVI. Southside Savages is immediately above at 620.30, a gap of 6.10. DMV Fantasy is immediately behind at 581.50."
     },
     {
       "id": "competitive-core",
@@ -101,9 +101,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jayden Higgins's 50.7 C-AVI baseline; a replacement near 56.5 C-AVI would directly attack the 5.80-point projected gap to All Hail King Jesus. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Jayden Higgins's 50.3 C-AVI baseline; a replacement near 56.4 C-AVI would directly attack the 6.10-point projected gap to Southside Savages. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Jayden Higgins's 50.7 C-AVI baseline; a replacement near 56.5 C-AVI would directly attack the 5.80-point projected gap to All Hail King Jesus.",
+        "Raise the FLEX slot above Jayden Higgins's 50.3 C-AVI baseline; a replacement near 56.4 C-AVI would directly attack the 6.10-point projected gap to Southside Savages.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
@@ -115,7 +115,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 50.7. Any acquisition should clear that exact lineup threshold."
+      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 50.3. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -135,7 +135,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-26",
+    "source_last_updated": "2026-07-27",
     "external_sources_used": false,
     "conversation_context_used": false
   }

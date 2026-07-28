@@ -5,33 +5,33 @@
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 26, 2026",
-  "generated_at": "2026-07-26T20:24:57.032556-06:00",
+  "reporting_period": "Week of July 27, 2026",
+  "generated_at": "2026-07-27T22:07:37.415188-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 533.70 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 532.30 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 14,
     "league_size": 16,
-    "score": 533.7,
+    "score": 532.3,
     "team_above": {
       "name": "Rapid Valley Annihilation",
       "rank": 13,
-      "score": 540.1,
-      "gap": 6.399999999999977
+      "score": 539.6,
+      "gap": 7.300000000000068
     },
     "team_below": {
       "name": "Lightskin Legends \u270a\ud83c\udffd",
       "rank": 15,
-      "score": 484.2,
-      "gap": 49.50000000000006
+      "score": 483.4,
+      "gap": 48.89999999999998
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 8,
+    "rank": 7,
     "league_size": 16,
-    "score": 847.2,
+    "score": 846.9,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -53,16 +53,16 @@
       "2026 Round 1 (Crimson Tide Pods)",
       "2026 Round 1 (All Hail King Jesus)"
     ],
-    "summary": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 49.3 C-AVI and 66.8 D-AVI; Jakobi Meyers is now the current FLEX starter at 64.6 C-AVI and 69.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
+    "summary": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 49.5 C-AVI and 66.8 D-AVI; Jakobi Meyers is now the current FLEX starter at 64.2 C-AVI and 69.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Tyjae Spears's 49.2 C-AVI baseline; a replacement near 55.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation.",
+    "Raise the RB slot above Tyjae Spears's 49.1 C-AVI baseline; a replacement near 56.4 C-AVI would directly attack the 7.30-point projected gap to Rapid Valley Annihilation.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
     "projected_rank": 15,
-    "projected_score": 484.2,
+    "projected_score": 483.4,
     "latest_trade": {
       "transaction_id": "1288899605622165504",
       "created_at": "2025-10-28T14:02:01.879000+00:00",
@@ -86,24 +86,24 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 533.70 lineup C-AVI. Rapid Valley Annihilation is immediately above at 540.10, a gap of 6.40. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 484.20."
+      "body": "Projected #14 of 16 at 532.30 lineup C-AVI. Rapid Valley Annihilation is immediately above at 539.60, a gap of 7.30. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 483.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are DeVonta Smith (87.3), Alec Pierce (74.3), and Justin Herbert (71.6)."
+      "body": "The three highest C-AVI starters are DeVonta Smith (87.0), Alec Pierce (73.9), and Justin Herbert (71.4)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 49.3 C-AVI and 66.8 D-AVI; Jakobi Meyers is now the current FLEX starter at 64.6 C-AVI and 69.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
+      "body": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 49.5 C-AVI and 66.8 D-AVI; Jakobi Meyers is now the current FLEX starter at 64.2 C-AVI and 69.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Tyjae Spears's 49.2 C-AVI baseline; a replacement near 55.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the RB slot above Tyjae Spears's 49.1 C-AVI baseline; a replacement near 56.4 C-AVI would directly attack the 7.30-point projected gap to Rapid Valley Annihilation. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the RB slot above Tyjae Spears's 49.2 C-AVI baseline; a replacement near 55.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation.",
+        "Raise the RB slot above Tyjae Spears's 49.1 C-AVI baseline; a replacement near 56.4 C-AVI would directly attack the 7.30-point projected gap to Rapid Valley Annihilation.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
@@ -115,7 +115,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Tyjae Spears is the lowest C-AVI starter in the verified championship lineup at 49.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Tyjae Spears is the lowest C-AVI starter in the verified championship lineup at 49.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -135,7 +135,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-26",
+    "source_last_updated": "2026-07-27",
     "external_sources_used": false,
     "conversation_context_used": false
   }

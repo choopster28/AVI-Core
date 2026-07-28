@@ -5,33 +5,33 @@
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 26, 2026",
-  "generated_at": "2026-07-26T20:24:57.032556-06:00",
+  "reporting_period": "Week of July 27, 2026",
+  "generated_at": "2026-07-27T22:07:37.415188-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #6 of 16 with a 626.60 projected-starting-lineup C-AVI total, led by Justin Jefferson, Kyle Pitts, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #6 of 16 with a 629.70 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 6,
     "league_size": 16,
-    "score": 626.6,
+    "score": 629.7,
     "team_above": {
       "name": "Ravens Regime",
       "rank": 5,
-      "score": 635.9,
-      "gap": 9.299999999999955
+      "score": 631.9,
+      "gap": 2.199999999999932
     },
     "team_below": {
-      "name": "Southside Savages",
+      "name": "All Hail King Jesus",
       "rank": 7,
-      "score": 621.3,
-      "gap": 5.300000000000068
+      "score": 620.9,
+      "gap": 8.800000000000068
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 6,
+    "rank": 8,
     "league_size": 16,
-    "score": 877.6,
+    "score": 825.1,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -54,74 +54,75 @@
     "picks_sent": [
       "2026 Round 1 (Rapid Valley Annihilation)"
     ],
-    "summary": "On July 26, Corgi Loaf Baking Co. traded with Ravens Regime and acquired Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime) while sending Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+    "summary": "On July 26, Corgi Loaf Baking Co. traded with Ravens Regime and acquired Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime) while sending Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.1 C-AVI and 90.0 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Tyrone Tracy's 48.3 C-AVI baseline; a replacement near 57.6 C-AVI would directly attack the 9.30-point projected gap to Ravens Regime.",
+    "Raise the FLEX slot above Tyrone Tracy's 48.5 C-AVI baseline; a replacement near 54.6 C-AVI would directly attack the 2.20-point projected gap to Ravens Regime.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
-    "franchise_name": "Southside Savages",
+    "franchise_name": "All Hail King Jesus",
     "projected_rank": 7,
-    "projected_score": 621.3,
+    "projected_score": 620.9,
     "latest_trade": {
-      "transaction_id": "1283906516683853824",
-      "created_at": "2025-10-14T19:21:16.708000+00:00",
+      "transaction_id": "1382466797541818368",
+      "created_at": "2026-07-13T18:44:38.827000+00:00",
       "counterparties": [
-        "Roster 3"
+        "Ravens Regime"
       ],
       "players_received": [
-        "Tetairoa McMillan"
+        "Isiah Pacheco"
       ],
-      "players_sent": [],
-      "picks_received": [],
-      "picks_sent": [
-        "2026 Round 1 (Southside Savages)",
-        "2026 Round 2 (Southside Savages)"
+      "players_sent": [
+        "Derrick Henry"
       ],
-      "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.4 C-AVI and 86.8 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "picks_received": [
+        "2026 Round 1 (Southside Savages)"
+      ],
+      "picks_sent": [],
+      "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 46.0 C-AVI and 58.6 D-AVI; The deal added 1 draft asset."
     },
-    "summary": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.4 C-AVI and 86.8 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+    "summary": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 46.0 C-AVI and 58.6 D-AVI; The deal added 1 draft asset."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #6 of 16 at 626.60 lineup C-AVI. Ravens Regime is immediately above at 635.90, a gap of 9.30. Southside Savages is immediately behind at 621.30."
+      "body": "Projected #6 of 16 at 629.70 lineup C-AVI. Ravens Regime is immediately above at 631.90, a gap of 2.20. All Hail King Jesus is immediately behind at 620.90."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Justin Jefferson (97.2), Kyle Pitts (93.7), and Malik Nabers (84.4)."
+      "body": "The three highest C-AVI starters are Justin Jefferson (97.2), Tyler Warren (97.1), and Malik Nabers (84.1)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 26, Corgi Loaf Baking Co. traded with Ravens Regime and acquired Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime) while sending Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+      "body": "On July 26, Corgi Loaf Baking Co. traded with Ravens Regime and acquired Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime) while sending Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.1 C-AVI and 90.0 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Tyrone Tracy's 48.3 C-AVI baseline; a replacement near 57.6 C-AVI would directly attack the 9.30-point projected gap to Ravens Regime. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Tyrone Tracy's 48.5 C-AVI baseline; a replacement near 54.6 C-AVI would directly attack the 2.20-point projected gap to Ravens Regime. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Tyrone Tracy's 48.3 C-AVI baseline; a replacement near 57.6 C-AVI would directly attack the 9.30-point projected gap to Ravens Regime.",
+        "Raise the FLEX slot above Tyrone Tracy's 48.5 C-AVI baseline; a replacement near 54.6 C-AVI would directly attack the 2.20-point projected gap to Ravens Regime.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On October 14, Southside Savages traded with Roster 3 and acquired Tetairoa McMillan while sending 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages). Tetairoa McMillan is now the current WR starter at 85.4 C-AVI and 86.8 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "body": "On July 13, All Hail King Jesus traded with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) while sending Derrick Henry. Isiah Pacheco is now on the current roster at 46.0 C-AVI and 58.6 D-AVI; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Tyrone Tracy is the lowest C-AVI starter in the verified championship lineup at 48.3. Any acquisition should clear that exact lineup threshold."
+      "body": "Tyrone Tracy is the lowest C-AVI starter in the verified championship lineup at 48.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 12 offensive players in the current team file are marked Active."
+      "body": "All 11 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",
@@ -136,7 +137,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-26",
+    "source_last_updated": "2026-07-27",
     "external_sources_used": false,
     "conversation_context_used": false
   }

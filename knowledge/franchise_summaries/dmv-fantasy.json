@@ -5,8 +5,8 @@
   "roster_id": 12,
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 26, 2026",
-  "generated_at": "2026-07-26T20:24:57.032556-06:00",
+  "reporting_period": "Week of July 27, 2026",
+  "generated_at": "2026-07-27T22:07:37.415188-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
   "executive_summary": "DMV Fantasy is projected #10 of 16 with a 581.50 projected-starting-lineup C-AVI total, led by Jayden Daniels, Breece Hall, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -17,21 +17,21 @@
     "team_above": {
       "name": "Badland Banditos",
       "rank": 9,
-      "score": 614.8,
-      "gap": 33.299999999999955
+      "score": 614.2,
+      "gap": 32.700000000000045
     },
     "team_below": {
       "name": "Gringo\u2019s Goblins",
       "rank": 11,
-      "score": 558.3,
-      "gap": 23.200000000000045
+      "score": 557.9,
+      "gap": 23.600000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 14,
     "league_size": 16,
-    "score": 702.4,
+    "score": 702.6,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -52,13 +52,13 @@
     "summary": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 87.8 C-AVI and 85.7 D-AVI."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Rachaad White's 55.7 C-AVI baseline; a replacement near 89.0 C-AVI would directly attack the 33.30-point projected gap to Badland Banditos.",
+    "Raise the FLEX slot above Rachaad White's 55.8 C-AVI baseline; a replacement near 88.5 C-AVI would directly attack the 32.70-point projected gap to Badland Banditos.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Gringo\u2019s Goblins",
     "projected_rank": 11,
-    "projected_score": 558.3,
+    "projected_score": 557.9,
     "latest_trade": {
       "transaction_id": "1380604251050356736",
       "created_at": "2026-07-08T15:23:33.139000+00:00",
@@ -81,20 +81,20 @@
       "picks_sent": [
         "2027 Round 2 (Gringo\u2019s Goblins)"
       ],
-      "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 39.8 C-AVI and 61.1 D-AVI; Emeka Egbuka is now the current WR starter at 85.4 C-AVI and 86.0 D-AVI; Kyren Williams is now the current RB starter at 82.8 C-AVI and 82.3 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+      "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 39.2 C-AVI and 60.9 D-AVI; Emeka Egbuka is now the current WR starter at 85.0 C-AVI and 86.0 D-AVI; Kyren Williams is now the current RB starter at 82.8 C-AVI and 82.3 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
     },
-    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 39.8 C-AVI and 61.1 D-AVI; Emeka Egbuka is now the current WR starter at 85.4 C-AVI and 86.0 D-AVI; Kyren Williams is now the current RB starter at 82.8 C-AVI and 82.3 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 39.2 C-AVI and 60.9 D-AVI; Emeka Egbuka is now the current WR starter at 85.0 C-AVI and 86.0 D-AVI; Kyren Williams is now the current RB starter at 82.8 C-AVI and 82.3 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #10 of 16 at 581.50 lineup C-AVI. Badland Banditos is immediately above at 614.80, a gap of 33.30. Gringo\u2019s Goblins is immediately behind at 558.30."
+      "body": "Projected #10 of 16 at 581.50 lineup C-AVI. Badland Banditos is immediately above at 614.20, a gap of 32.70. Gringo\u2019s Goblins is immediately behind at 557.90."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jayden Daniels (95.8), Breece Hall (87.8), and George Kittle (79.0)."
+      "body": "The three highest C-AVI starters are Jayden Daniels (96.0), Breece Hall (87.8), and George Kittle (79.2)."
     },
     {
       "id": "latest-trade-impact",
@@ -104,21 +104,21 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Rachaad White's 55.7 C-AVI baseline; a replacement near 89.0 C-AVI would directly attack the 33.30-point projected gap to Badland Banditos. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Rachaad White's 55.8 C-AVI baseline; a replacement near 88.5 C-AVI would directly attack the 32.70-point projected gap to Badland Banditos. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Rachaad White's 55.7 C-AVI baseline; a replacement near 89.0 C-AVI would directly attack the 33.30-point projected gap to Badland Banditos.",
+        "Raise the FLEX slot above Rachaad White's 55.8 C-AVI baseline; a replacement near 88.5 C-AVI would directly attack the 32.70-point projected gap to Badland Banditos.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 39.8 C-AVI and 61.1 D-AVI; Emeka Egbuka is now the current WR starter at 85.4 C-AVI and 86.0 D-AVI; Kyren Williams is now the current RB starter at 82.8 C-AVI and 82.3 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 39.2 C-AVI and 60.9 D-AVI; Emeka Egbuka is now the current WR starter at 85.0 C-AVI and 86.0 D-AVI; Kyren Williams is now the current RB starter at 82.8 C-AVI and 82.3 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Rachaad White is the lowest C-AVI starter in the verified championship lineup at 55.7. Any acquisition should clear that exact lineup threshold."
+      "body": "Rachaad White is the lowest C-AVI starter in the verified championship lineup at 55.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -138,7 +138,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-26",
+    "source_last_updated": "2026-07-27",
     "external_sources_used": false,
     "conversation_context_used": false
   }
