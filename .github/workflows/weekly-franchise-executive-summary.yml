@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - "generate_weekly_executive_summary_filtered.py"
+      - ".generate_weekly_executive_summary_filtered.py"
       - ".github/workflows/weekly-franchise-executive-summary.yml"
   schedule:
     # GitHub cron is UTC. Both hours are registered, then the job enforces
