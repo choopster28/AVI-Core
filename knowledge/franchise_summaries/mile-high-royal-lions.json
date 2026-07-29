@@ -1,12 +1,12 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "franchise_id": "mile-high-royal-lions",
   "franchise_name": "Mile High Royal Lions",
   "roster_id": 4,
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T14:43:35.048236-06:00",
+  "generated_at": "2026-07-29T15:22:09.514567-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
   "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 666.60 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
@@ -32,12 +32,13 @@
     "rank": 8,
     "league_size": 16,
     "score": 896.7,
-    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
+    "player_d_avi": 896.7,
+    "future_pick_d_avi": 0.0,
+    "method": "Canonical Power Rankings D-AVI ladder: full verified roster D-AVI plus every verified owned 2027+ draft pick D-AVI"
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.30-point projected gap to Big Balder Brand.",
-    "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
+    "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.30-point projected gap to Big Balder Brand."
   ],
   "rival_below": {
     "franchise_name": "SmokyValleyWheatWarriors",
@@ -78,10 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.30-point projected gap to Big Balder Brand. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
+      "body": "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.30-point projected gap to Big Balder Brand.",
       "items": [
-        "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.30-point projected gap to Big Balder Brand.",
-        "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
+        "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.30-point projected gap to Big Balder Brand."
       ]
     },
     {
@@ -102,7 +102,7 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "No franchise-owned pick card was found in the approved draft-pick knowledge file."
+      "body": "No verified future draft assets are currently included in this summary."
     }
   ],
   "source": {

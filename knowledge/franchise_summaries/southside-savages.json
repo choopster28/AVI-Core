@@ -1,12 +1,12 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "franchise_id": "southside-savages",
   "franchise_name": "Southside Savages",
   "roster_id": 13,
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T14:43:35.048236-06:00",
+  "generated_at": "2026-07-29T15:22:09.514567-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
   "executive_summary": "Southside Savages is projected #7 of 16 with a 626.10 projected-starting-lineup C-AVI total, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
@@ -32,12 +32,13 @@
     "rank": 10,
     "league_size": 16,
     "score": 841.0,
-    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
+    "player_d_avi": 841.0,
+    "future_pick_d_avi": 0.0,
+    "method": "Canonical Power Rankings D-AVI ladder: full verified roster D-AVI plus every verified owned 2027+ draft pick D-AVI"
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 10.80-point projected gap to Ravens Regime.",
-    "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
+    "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 10.80-point projected gap to Ravens Regime."
   ],
   "rival_below": {
     "franchise_name": "All Hail King Jesus",
@@ -78,10 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 10.80-point projected gap to Ravens Regime. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
+      "body": "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 10.80-point projected gap to Ravens Regime.",
       "items": [
-        "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 10.80-point projected gap to Ravens Regime.",
-        "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
+        "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 10.80-point projected gap to Ravens Regime."
       ]
     },
     {
@@ -102,7 +102,7 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "No franchise-owned pick card was found in the approved draft-pick knowledge file."
+      "body": "No verified future draft assets are currently included in this summary."
     }
   ],
   "source": {
