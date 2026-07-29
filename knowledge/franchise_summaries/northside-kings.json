@@ -6,7 +6,7 @@
   "owner_display_name": "srsmith95",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T14:27:09.610241-06:00",
+  "generated_at": "2026-07-29T14:37:01.611991-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Northside Kings: Preseason Front Office Brief",
   "executive_summary": "Northside Kings is projected #15 of 16 with a 490.30 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
@@ -44,7 +44,14 @@
     "projected_rank": 16,
     "projected_score": 486.8,
     "latest_trade": null,
-    "summary": "No trade for Lightskin Legends \u270a\ud83c\udffd was found in the last 365 days of the authoritative ledger."
+    "latest_activity": {
+      "transaction_id": "1350169112709431296",
+      "created_at": "2026-04-15T15:45:10.701000+00:00",
+      "type": "commissioner",
+      "summary": "On April 15, Lightskin Legends \u270a\ud83c\udffd completed a roster transaction and dropped Jack Campbell, Kobie Turner, Ryan Flournoy, Dalton Schultz, Jessie Bates, Marquez Valdes-Scantling, David Sills, Calvin Austin, Luke Musgrave, Kayshon Boutte.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On April 15, Lightskin Legends \u270a\ud83c\udffd completed a roster transaction and dropped Jack Campbell, Kobie Turner, Ryan Flournoy, Dalton Schultz, Jessie Bates, Marquez Valdes-Scantling, David Sills, Calvin Austin, Luke Musgrave, Kayshon Boutte."
   },
   "sections": [
     {
@@ -74,7 +81,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "No trade for Lightskin Legends \u270a\ud83c\udffd was found in the last 365 days of the authoritative ledger."
+      "body": "On April 15, Lightskin Legends \u270a\ud83c\udffd completed a roster transaction and dropped Jack Campbell, Kobie Turner, Ryan Flournoy, Dalton Schultz, Jessie Bates, Marquez Valdes-Scantling, David Sills, Calvin Austin, Luke Musgrave, Kayshon Boutte."
     },
     {
       "id": "lineup-pressure-point",

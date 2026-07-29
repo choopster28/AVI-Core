@@ -6,7 +6,7 @@
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T14:27:09.610241-06:00",
+  "generated_at": "2026-07-29T14:37:01.611991-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
   "executive_summary": "DMV Fantasy is projected #10 of 16 with a 587.20 projected-starting-lineup C-AVI total, led by Jayden Daniels, Breece Hall, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -43,8 +43,21 @@
     "franchise_name": "Gringo\u2019s Goblins",
     "projected_rank": 11,
     "projected_score": 564.6,
-    "latest_trade": null,
-    "summary": "No trade for Gringo\u2019s Goblins was found in the last 365 days of the authoritative ledger."
+    "latest_trade": {
+      "transaction_id": "1380604251050356736",
+      "created_at": "2026-07-08T15:23:33.139000+00:00",
+      "type": "trade",
+      "summary": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams while sent Omarion Hampton, Chris Godwin, A.J. Brown.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "latest_activity": {
+      "transaction_id": "1380604251050356736",
+      "created_at": "2026-07-08T15:23:33.139000+00:00",
+      "type": "trade",
+      "summary": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams while sent Omarion Hampton, Chris Godwin, A.J. Brown.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams while sent Omarion Hampton, Chris Godwin, A.J. Brown."
   },
   "sections": [
     {
@@ -74,7 +87,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "No trade for Gringo\u2019s Goblins was found in the last 365 days of the authoritative ledger."
+      "body": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams while sent Omarion Hampton, Chris Godwin, A.J. Brown."
     },
     {
       "id": "lineup-pressure-point",
@@ -95,7 +108,8 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/12_DMV_Fantasy.md"
+      "AVI-Core/knowledge/teams/12_DMV_Fantasy.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-29",
     "external_sources_used": false,

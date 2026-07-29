@@ -6,7 +6,7 @@
   "owner_display_name": "FuzzyRaptor",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T14:27:09.610241-06:00",
+  "generated_at": "2026-07-29T14:37:01.611991-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Rapid Valley Annihilation: Preseason Front Office Brief",
   "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 545.30 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -43,8 +43,21 @@
     "franchise_name": "Crimson Tide Pods",
     "projected_rank": 14,
     "projected_score": 538.4,
-    "latest_trade": null,
-    "summary": "No trade for Crimson Tide Pods was found in the last 365 days of the authoritative ledger."
+    "latest_trade": {
+      "transaction_id": "1387942050321678336",
+      "created_at": "2026-07-28T21:21:20.815000+00:00",
+      "type": "trade",
+      "summary": "On July 28, Crimson Tide Pods completed a trade with Mile High Royal Lions, Corgi Loaf Baking Co..",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "latest_activity": {
+      "transaction_id": "1387942050321678336",
+      "created_at": "2026-07-28T21:21:20.815000+00:00",
+      "type": "trade",
+      "summary": "On July 28, Crimson Tide Pods completed a trade with Mile High Royal Lions, Corgi Loaf Baking Co..",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On July 28, Crimson Tide Pods completed a trade with Mile High Royal Lions, Corgi Loaf Baking Co.."
   },
   "sections": [
     {
@@ -74,7 +87,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "No trade for Crimson Tide Pods was found in the last 365 days of the authoritative ledger."
+      "body": "On July 28, Crimson Tide Pods completed a trade with Mile High Royal Lions, Corgi Loaf Baking Co.."
     },
     {
       "id": "lineup-pressure-point",
@@ -95,7 +108,8 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/02_Rapid_Valley_Annihilation.md"
+      "AVI-Core/knowledge/teams/02_Rapid_Valley_Annihilation.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-29",
     "external_sources_used": false,

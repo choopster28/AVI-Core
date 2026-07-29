@@ -6,7 +6,7 @@
   "owner_display_name": "IcebergSlim69",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T14:27:09.610241-06:00",
+  "generated_at": "2026-07-29T14:37:01.611991-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Badland Banditos: Preseason Front Office Brief",
   "executive_summary": "Badland Banditos is projected #9 of 16 with a 618.20 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -43,8 +43,21 @@
     "franchise_name": "DMV Fantasy",
     "projected_rank": 10,
     "projected_score": 587.2,
-    "latest_trade": null,
-    "summary": "No trade for DMV Fantasy was found in the last 365 days of the authoritative ledger."
+    "latest_trade": {
+      "transaction_id": "1386578462004772864",
+      "created_at": "2026-07-25T03:02:56.026000+00:00",
+      "type": "trade",
+      "summary": "On July 24, DMV Fantasy completed a trade with Big Balder Brand and acquired Breece Hall while sent Cam Little, Saquon Barkley.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "latest_activity": {
+      "transaction_id": "1386578462004772864",
+      "created_at": "2026-07-25T03:02:56.026000+00:00",
+      "type": "trade",
+      "summary": "On July 24, DMV Fantasy completed a trade with Big Balder Brand and acquired Breece Hall while sent Cam Little, Saquon Barkley.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On July 24, DMV Fantasy completed a trade with Big Balder Brand and acquired Breece Hall while sent Cam Little, Saquon Barkley."
   },
   "sections": [
     {
@@ -74,7 +87,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "No trade for DMV Fantasy was found in the last 365 days of the authoritative ledger."
+      "body": "On July 24, DMV Fantasy completed a trade with Big Balder Brand and acquired Breece Hall while sent Cam Little, Saquon Barkley."
     },
     {
       "id": "lineup-pressure-point",
@@ -95,7 +108,8 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/07_Badland_Banditos.md"
+      "AVI-Core/knowledge/teams/07_Badland_Banditos.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-29",
     "external_sources_used": false,

@@ -6,7 +6,7 @@
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T14:27:09.610241-06:00",
+  "generated_at": "2026-07-29T14:37:01.611991-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
   "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 659.50 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Cam Skattebo. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -43,8 +43,21 @@
     "franchise_name": "Ravens Regime",
     "projected_rank": 6,
     "projected_score": 636.9,
-    "latest_trade": null,
-    "summary": "No trade for Ravens Regime was found in the last 365 days of the authoritative ledger."
+    "latest_trade": {
+      "transaction_id": "1386987441226792960",
+      "created_at": "2026-07-26T06:08:04.271000+00:00",
+      "type": "trade",
+      "summary": "On July 26, Ravens Regime completed a trade with Rapid Valley Annihilation, Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts while sent Tyler Warren.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "latest_activity": {
+      "transaction_id": "1386987441226792960",
+      "created_at": "2026-07-26T06:08:04.271000+00:00",
+      "type": "trade",
+      "summary": "On July 26, Ravens Regime completed a trade with Rapid Valley Annihilation, Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts while sent Tyler Warren.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On July 26, Ravens Regime completed a trade with Rapid Valley Annihilation, Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts while sent Tyler Warren."
   },
   "sections": [
     {
@@ -74,7 +87,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "No trade for Ravens Regime was found in the last 365 days of the authoritative ledger."
+      "body": "On July 26, Ravens Regime completed a trade with Rapid Valley Annihilation, Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts while sent Tyler Warren."
     },
     {
       "id": "lineup-pressure-point",
@@ -95,7 +108,8 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md"
+      "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-29",
     "external_sources_used": false,

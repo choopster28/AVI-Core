@@ -6,7 +6,7 @@
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T14:27:09.610241-06:00",
+  "generated_at": "2026-07-29T14:37:01.611991-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
   "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 625.40 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
@@ -43,8 +43,21 @@
     "franchise_name": "Badland Banditos",
     "projected_rank": 9,
     "projected_score": 618.2,
-    "latest_trade": null,
-    "summary": "No trade for Badland Banditos was found in the last 365 days of the authoritative ledger."
+    "latest_trade": {
+      "transaction_id": "1375593798167461888",
+      "created_at": "2026-06-24T19:33:48.082000+00:00",
+      "type": "trade",
+      "summary": "On June 24, Badland Banditos completed a trade with All Hail King Jesus, Corgi Loaf Baking Co., Crimson Tide Pods and acquired Kenneth Walker while sent Chris Rodriguez.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "latest_activity": {
+      "transaction_id": "1375593798167461888",
+      "created_at": "2026-06-24T19:33:48.082000+00:00",
+      "type": "trade",
+      "summary": "On June 24, Badland Banditos completed a trade with All Hail King Jesus, Corgi Loaf Baking Co., Crimson Tide Pods and acquired Kenneth Walker while sent Chris Rodriguez.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On June 24, Badland Banditos completed a trade with All Hail King Jesus, Corgi Loaf Baking Co., Crimson Tide Pods and acquired Kenneth Walker while sent Chris Rodriguez."
   },
   "sections": [
     {
@@ -74,7 +87,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "No trade for Badland Banditos was found in the last 365 days of the authoritative ledger."
+      "body": "On June 24, Badland Banditos completed a trade with All Hail King Jesus, Corgi Loaf Baking Co., Crimson Tide Pods and acquired Kenneth Walker while sent Chris Rodriguez."
     },
     {
       "id": "lineup-pressure-point",
@@ -95,7 +108,8 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/08_All_Hail_King_Jesus.md"
+      "AVI-Core/knowledge/teams/08_All_Hail_King_Jesus.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
     "source_last_updated": "2026-07-29",
     "external_sources_used": false,
