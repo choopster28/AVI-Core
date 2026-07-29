@@ -1,8 +1,8 @@
 {
   "count": 753,
   "filters": "1402,394,241,1507,6463,6293,4224,5465",
-  "last_updated": "7/25",
-  "last_updated_ts": 1785004461,
+  "last_updated": "7/29",
+  "last_updated_ts": 1785294491,
   "players": [
     {
       "cbs_player_id": "2179267",
@@ -53,7 +53,7 @@
     {
       "cbs_player_id": "2186390",
       "player_bye_week": "11",
-      "player_ecr_delta": 1,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "jessie-bates-iii.php",
       "player_id": 17544,
@@ -76,7 +76,7 @@
     {
       "cbs_player_id": "3122466",
       "player_bye_week": "7",
-      "player_ecr_delta": -1,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "nick-cross.php",
       "player_id": 24198,
@@ -99,7 +99,7 @@
     {
       "cbs_player_id": "2139625",
       "player_bye_week": "14",
-      "player_ecr_delta": 2,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "budda-baker.php",
       "player_id": 16733,
@@ -122,7 +122,7 @@
     {
       "cbs_player_id": "28903245",
       "player_bye_week": "11",
-      "player_ecr_delta": -1,
+      "player_ecr_delta": null,
       "player_eligibility": "CB,S",
       "player_filename": "nick-emmanwori.php",
       "player_id": 27053,
@@ -467,7 +467,7 @@
     {
       "cbs_player_id": "3161550",
       "player_bye_week": "11",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "xavier-watts.php",
       "player_id": 27067,
@@ -904,7 +904,7 @@
     {
       "cbs_player_id": "28891495",
       "player_bye_week": "9",
-      "player_ecr_delta": 5,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "kevin-winston-jr.php",
       "player_id": 27035,
@@ -927,7 +927,7 @@
     {
       "cbs_player_id": "2221830",
       "player_bye_week": "7",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "chauncey-gardner-johnson.php",
       "player_id": 18649,
@@ -1042,7 +1042,7 @@
     {
       "cbs_player_id": "2071515",
       "player_bye_week": "9",
-      "player_ecr_delta": -7,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "jalen-ramsey.php",
       "player_id": 15491,
@@ -1272,7 +1272,7 @@
     {
       "cbs_player_id": "26705792",
       "player_bye_week": "8",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 8,
       "player_eligibility": "S",
       "player_filename": "jonas-sanker.php",
       "player_id": 27210,
@@ -1295,7 +1295,7 @@
     {
       "cbs_player_id": "2962842",
       "player_bye_week": "10",
-      "player_ecr_delta": 9,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "kyler-gordon.php",
       "player_id": 23765,
@@ -1341,7 +1341,7 @@
     {
       "cbs_player_id": "3127716",
       "player_bye_week": "11",
-      "player_ecr_delta": 11,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "craig-woodson.php",
       "player_id": 27242,
@@ -1387,7 +1387,7 @@
     {
       "cbs_player_id": "3133282",
       "player_bye_week": "6",
-      "player_ecr_delta": 8,
+      "player_ecr_delta": null,
       "player_eligibility": "S,CB",
       "player_filename": "daxton-hill.php",
       "player_id": 24197,
@@ -1410,7 +1410,7 @@
     {
       "cbs_player_id": "2139775",
       "player_bye_week": "13",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 8,
       "player_eligibility": "CB",
       "player_filename": "marlon-humphrey.php",
       "player_id": 16390,
@@ -1456,7 +1456,7 @@
     {
       "cbs_player_id": "2869797",
       "player_bye_week": "6",
-      "player_ecr_delta": -7,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "bryan-cook.php",
       "player_id": 23854,
@@ -1479,7 +1479,7 @@
     {
       "cbs_player_id": "3162769",
       "player_bye_week": "7",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -7,
       "player_eligibility": "S",
       "player_filename": "antonio-johnson-cb.php",
       "player_id": 24719,
@@ -1502,7 +1502,7 @@
     {
       "cbs_player_id": "2867170",
       "player_bye_week": "7",
-      "player_ecr_delta": 17,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "geno-stone.php",
       "player_id": 19390,
@@ -1525,7 +1525,7 @@
     {
       "cbs_player_id": "2185917",
       "player_bye_week": "7",
-      "player_ecr_delta": 23,
+      "player_ecr_delta": 10,
       "player_eligibility": "CB,S",
       "player_filename": "will-harris.php",
       "player_id": 18682,
@@ -1548,7 +1548,7 @@
     {
       "cbs_player_id": "2868296",
       "player_bye_week": "13",
-      "player_ecr_delta": 18,
+      "player_ecr_delta": 8,
       "player_eligibility": "S",
       "player_filename": "isaiah-pola-mao.php",
       "player_id": 23939,
@@ -1637,7 +1637,7 @@
     {
       "cbs_player_id": "2868542",
       "player_bye_week": "5",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -7,
       "player_eligibility": "S",
       "player_filename": "alohi-gilman.php",
       "player_id": 19379,
@@ -1660,7 +1660,7 @@
     {
       "cbs_player_id": "26699623",
       "player_bye_week": "6",
-      "player_ecr_delta": 18,
+      "player_ecr_delta": 9,
       "player_eligibility": "S",
       "player_filename": "dante-trader.php",
       "player_id": 27090,
@@ -1683,7 +1683,7 @@
     {
       "cbs_player_id": "3121247",
       "player_bye_week": "11",
-      "player_ecr_delta": 14,
+      "player_ecr_delta": 23,
       "player_eligibility": "S",
       "player_filename": "ronnie-hickman.php",
       "player_id": 25796,
@@ -1706,7 +1706,7 @@
     {
       "cbs_player_id": "3161516",
       "player_bye_week": "8",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -7,
       "player_eligibility": "CB",
       "player_filename": "upton-stout.php",
       "player_id": 27246,
@@ -1729,7 +1729,7 @@
     {
       "cbs_player_id": "28912466",
       "player_bye_week": "11",
-      "player_ecr_delta": 19,
+      "player_ecr_delta": 8,
       "player_eligibility": "S",
       "player_filename": "emmanuel-mcneil-warren.php",
       "player_id": 28081,
@@ -1774,7 +1774,7 @@
     {
       "cbs_player_id": "2830003",
       "player_bye_week": "14",
-      "player_ecr_delta": -14,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "daron-bland.php",
       "player_id": 24551,
@@ -1797,7 +1797,7 @@
     {
       "cbs_player_id": "1983762",
       "player_bye_week": "7",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -9,
       "player_eligibility": "S",
       "player_filename": "eric-murray.php",
       "player_id": 15653,
@@ -1820,7 +1820,7 @@
     {
       "cbs_player_id": "2251384",
       "player_bye_week": "6",
-      "player_ecr_delta": -11,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "byron-murphy.php",
       "player_id": 18220,
@@ -1843,7 +1843,7 @@
     {
       "cbs_player_id": "2179388",
       "player_bye_week": "5",
-      "player_ecr_delta": -13,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "michael-jackson-cb.php",
       "player_id": 18637,
@@ -1889,7 +1889,7 @@
     {
       "cbs_player_id": "2975557",
       "player_bye_week": "11",
-      "player_ecr_delta": -16,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "tyson-campbell.php",
       "player_id": 22706,
@@ -1912,7 +1912,7 @@
     {
       "cbs_player_id": "2133716",
       "player_bye_week": "13",
-      "player_ecr_delta": 20,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "taron-johnson.php",
       "player_id": 17431,
@@ -1935,7 +1935,7 @@
     {
       "cbs_player_id": "26696513",
       "player_bye_week": "8",
-      "player_ecr_delta": -19,
+      "player_ecr_delta": -9,
       "player_eligibility": "CB",
       "player_filename": "kool-aid-mckinstry.php",
       "player_id": 26098,
@@ -1958,7 +1958,7 @@
     {
       "cbs_player_id": "3166700",
       "player_bye_week": "11",
-      "player_ecr_delta": 9,
+      "player_ecr_delta": 15,
       "player_eligibility": "CB",
       "player_filename": "christian-gonzalez.php",
       "player_id": 25238,
@@ -1981,7 +1981,7 @@
     {
       "cbs_player_id": "3161741",
       "player_bye_week": "8",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -16,
       "player_eligibility": "CB",
       "player_filename": "andru-phillips.php",
       "player_id": 26164,
@@ -2004,7 +2004,7 @@
     {
       "cbs_player_id": "2867264",
       "player_bye_week": "10",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 12,
       "player_eligibility": "CB",
       "player_filename": "zyon-mccollum.php",
       "player_id": 24498,
@@ -2096,7 +2096,7 @@
     {
       "cbs_player_id": "3168790",
       "player_bye_week": "8",
-      "player_ecr_delta": 10,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "jiayir-brown.php",
       "player_id": 25258,
@@ -2164,7 +2164,7 @@
     {
       "cbs_player_id": "3129234",
       "player_bye_week": "13",
-      "player_ecr_delta": -15,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "nahshon-wright.php",
       "player_id": 23243,
@@ -2255,7 +2255,7 @@
     {
       "cbs_player_id": "3116813",
       "player_bye_week": "11",
-      "player_ecr_delta": -16,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "keisean-nixon.php",
       "player_id": 18495,
@@ -2300,7 +2300,7 @@
     {
       "cbs_player_id": "26724572",
       "player_bye_week": "5",
-      "player_ecr_delta": 92,
+      "player_ecr_delta": 30,
       "player_eligibility": "S",
       "player_filename": "jaden-hicks.php",
       "player_id": 26231,
@@ -2323,7 +2323,7 @@
     {
       "cbs_player_id": "3163862",
       "player_bye_week": "13",
-      "player_ecr_delta": 160,
+      "player_ecr_delta": 36,
       "player_eligibility": "LB,S",
       "player_filename": "jaylon-carlies.php",
       "player_id": 26465,
@@ -2346,7 +2346,7 @@
     {
       "cbs_player_id": "29145935",
       "player_bye_week": "13",
-      "player_ecr_delta": 19,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "dangelo-ponds.php",
       "player_id": 27992,
@@ -2369,7 +2369,7 @@
     {
       "cbs_player_id": "3150388",
       "player_bye_week": "6",
-      "player_ecr_delta": 110,
+      "player_ecr_delta": 29,
       "player_eligibility": "S",
       "player_filename": "kyle-dugger.php",
       "player_id": 19337,
@@ -2506,7 +2506,7 @@
     {
       "cbs_player_id": "3162273",
       "player_bye_week": "11",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 32,
       "player_eligibility": "S",
       "player_filename": "bud-clark.php",
       "player_id": 28212,
@@ -2529,7 +2529,7 @@
     {
       "cbs_player_id": "2866110",
       "player_bye_week": "11",
-      "player_ecr_delta": -19,
+      "player_ecr_delta": -11,
       "player_eligibility": "CB",
       "player_filename": "marcus-jones.php",
       "player_id": 23890,
@@ -2575,7 +2575,7 @@
     {
       "cbs_player_id": "28899124",
       "player_bye_week": "10",
-      "player_ecr_delta": -16,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "jacob-parrish.php",
       "player_id": 27257,
@@ -2598,7 +2598,7 @@
     {
       "cbs_player_id": "26699779",
       "player_bye_week": "13",
-      "player_ecr_delta": -23,
+      "player_ecr_delta": -15,
       "player_eligibility": "CB",
       "player_filename": "nate-wiggins.php",
       "player_id": 26100,
@@ -2713,7 +2713,7 @@
     {
       "cbs_player_id": "2963562",
       "player_bye_week": "13",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -10,
       "player_eligibility": "S",
       "player_filename": "andre-cisco.php",
       "player_id": 22715,
@@ -2782,7 +2782,7 @@
     {
       "cbs_player_id": "2139883",
       "player_bye_week": null,
-      "player_ecr_delta": 311,
+      "player_ecr_delta": 145,
       "player_eligibility": "S",
       "player_filename": "donovan--wilson.php",
       "player_id": 18704,
@@ -2805,7 +2805,7 @@
     {
       "cbs_player_id": "1737117",
       "player_bye_week": "7",
-      "player_ecr_delta": 22,
+      "player_ecr_delta": 28,
       "player_eligibility": "S",
       "player_filename": "tony-jefferson.php",
       "player_id": 11769,
@@ -2828,7 +2828,7 @@
     {
       "cbs_player_id": "1265468",
       "player_bye_week": null,
-      "player_ecr_delta": 308,
+      "player_ecr_delta": 142,
       "player_eligibility": "S",
       "player_filename": "harrison-smith.php",
       "player_id": 11260,
@@ -2851,7 +2851,7 @@
     {
       "cbs_player_id": "3121387",
       "player_bye_week": "10",
-      "player_ecr_delta": -23,
+      "player_ecr_delta": -14,
       "player_eligibility": "CB",
       "player_filename": "tyrique-stevenson.php",
       "player_id": 25263,
@@ -2874,7 +2874,7 @@
     {
       "cbs_player_id": "2818965",
       "player_bye_week": null,
-      "player_ecr_delta": 140,
+      "player_ecr_delta": 23,
       "player_eligibility": "CB",
       "player_filename": "kenny-moore.php",
       "player_id": 16801,
@@ -3214,7 +3214,7 @@
     {
       "cbs_player_id": "2261288",
       "player_bye_week": "6",
-      "player_ecr_delta": -31,
+      "player_ecr_delta": -23,
       "player_eligibility": "CB",
       "player_filename": "dj-reed.php",
       "player_id": 17375,
@@ -3282,7 +3282,7 @@
     {
       "cbs_player_id": "3116592",
       "player_bye_week": "10",
-      "player_ecr_delta": -27,
+      "player_ecr_delta": -18,
       "player_eligibility": "S",
       "player_filename": "marcus-epps.php",
       "player_id": 18575,
@@ -4010,7 +4010,7 @@
     {
       "cbs_player_id": "2186390",
       "player_bye_week": "11",
-      "player_ecr_delta": 1,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "jessie-bates-iii.php",
       "player_id": 17544,
@@ -4216,7 +4216,7 @@
     {
       "cbs_player_id": "3122466",
       "player_bye_week": "7",
-      "player_ecr_delta": -1,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "nick-cross.php",
       "player_id": 24198,
@@ -4307,7 +4307,7 @@
     {
       "cbs_player_id": "2139625",
       "player_bye_week": "14",
-      "player_ecr_delta": 2,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "budda-baker.php",
       "player_id": 16733,
@@ -4421,7 +4421,7 @@
     {
       "cbs_player_id": "28903245",
       "player_bye_week": "11",
-      "player_ecr_delta": -1,
+      "player_ecr_delta": null,
       "player_eligibility": "CB,S",
       "player_filename": "nick-emmanwori.php",
       "player_id": 27053,
@@ -4532,27 +4532,26 @@
       "sportsdata_id": "9e22bbe3-5323-42e0-a82e-03e3794ea67f"
     },
     {
-      "cbs_player_id": "2247190",
-      "player_bye_week": "13",
+      "cbs_player_id": "2866310",
+      "player_bye_week": "7",
       "player_ecr_delta": null,
-      "player_eligibility": "S",
-      "player_filename": "jeremy-chinn.php",
-      "player_id": 19429,
-      "player_name": "Jeremy Chinn",
-      "player_owned_avg": 42.5,
-      "player_owned_espn": 50.8,
-      "player_owned_yahoo": 25,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/jeremy-chinn.php",
-      "player_position_id": "S",
-      "player_positions": "S",
-      "player_short_name": "J. Chinn",
-      "player_team_id": "LV",
-      "player_yahoo_id": "32734",
-      "player_yahoo_positions": "S",
-      "pos_rank": "S89",
+      "player_eligibility": "LB",
+      "player_filename": "daiyanhenley.php",
+      "player_id": 25436,
+      "player_name": "Daiyan Henley",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/daiyanhenley.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "D. Henley",
+      "player_team_id": "LAC",
+      "player_yahoo_id": "40113",
+      "player_yahoo_positions": "LB",
+      "pos_rank": "LB25",
       "rank_ecr": 199,
-      "sportsdata_id": "5f623fbc-415e-4035-b423-7850cf1153b4",
-      "tier": 2
+      "sportsdata_id": "93f17bc5-55d5-441a-a29d-d419ed4725e7"
     },
     {
       "cbs_player_id": "2966771",
@@ -4670,26 +4669,27 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2866310",
-      "player_bye_week": "7",
+      "cbs_player_id": "2247190",
+      "player_bye_week": "13",
       "player_ecr_delta": null,
-      "player_eligibility": "LB",
-      "player_filename": "daiyanhenley.php",
-      "player_id": 25436,
-      "player_name": "Daiyan Henley",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/daiyanhenley.php",
-      "player_position_id": "LB",
-      "player_positions": "LB",
-      "player_short_name": "D. Henley",
-      "player_team_id": "LAC",
-      "player_yahoo_id": "40113",
-      "player_yahoo_positions": "LB",
-      "pos_rank": "LB25",
+      "player_eligibility": "S",
+      "player_filename": "jeremy-chinn.php",
+      "player_id": 19429,
+      "player_name": "Jeremy Chinn",
+      "player_owned_avg": 42.5,
+      "player_owned_espn": 50.8,
+      "player_owned_yahoo": 25,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/jeremy-chinn.php",
+      "player_position_id": "S",
+      "player_positions": "S",
+      "player_short_name": "J. Chinn",
+      "player_team_id": "LV",
+      "player_yahoo_id": "32734",
+      "player_yahoo_positions": "S",
+      "pos_rank": "S89",
       "rank_ecr": 205,
-      "sportsdata_id": "93f17bc5-55d5-441a-a29d-d419ed4725e7"
+      "sportsdata_id": "5f623fbc-415e-4035-b423-7850cf1153b4",
+      "tier": 2
     },
     {
       "cbs_player_id": "28867686",
@@ -6153,7 +6153,7 @@
     {
       "cbs_player_id": "3161550",
       "player_bye_week": "11",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "xavier-watts.php",
       "player_id": 27067,
@@ -6494,26 +6494,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2142864",
-      "player_bye_week": "6",
+      "cbs_player_id": "1984262",
+      "player_bye_week": "8",
       "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
-      "player_filename": "andrew-van-ginkel.php",
-      "player_id": 18573,
-      "player_name": "Andrew Van Ginkel",
+      "player_filename": "danielle-hunter.php",
+      "player_id": 14036,
+      "player_name": "Danielle Hunter",
       "player_owned_avg": 0,
       "player_owned_espn": 0,
       "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/andrew-van-ginkel.php",
-      "player_position_id": "LB",
-      "player_positions": "LB",
-      "player_short_name": "A. Van Ginkel",
-      "player_team_id": "MIN",
-      "player_yahoo_id": "31983",
+      "player_page_url": "https://www.fantasypros.com/nfl/players/danielle-hunter.php",
+      "player_position_id": "DE",
+      "player_positions": "DE",
+      "player_short_name": "D. Hunter",
+      "player_team_id": "HOU",
+      "player_yahoo_id": "28476",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB39",
+      "pos_rank": "DE6",
       "rank_ecr": 285,
-      "sportsdata_id": "7b47d190-168b-44bc-bb91-a688fe28f768"
+      "sportsdata_id": "ba7fe857-df63-4aed-803a-80993b157be4"
     },
     {
       "cbs_player_id": "3138177",
@@ -6585,26 +6585,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "1984262",
-      "player_bye_week": "8",
+      "cbs_player_id": "2142864",
+      "player_bye_week": "6",
       "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
-      "player_filename": "danielle-hunter.php",
-      "player_id": 14036,
-      "player_name": "Danielle Hunter",
+      "player_filename": "andrew-van-ginkel.php",
+      "player_id": 18573,
+      "player_name": "Andrew Van Ginkel",
       "player_owned_avg": 0,
       "player_owned_espn": 0,
       "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/danielle-hunter.php",
-      "player_position_id": "DE",
-      "player_positions": "DE",
-      "player_short_name": "D. Hunter",
-      "player_team_id": "HOU",
-      "player_yahoo_id": "28476",
+      "player_page_url": "https://www.fantasypros.com/nfl/players/andrew-van-ginkel.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "A. Van Ginkel",
+      "player_team_id": "MIN",
+      "player_yahoo_id": "31983",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "DE6",
+      "pos_rank": "LB39",
       "rank_ecr": 289,
-      "sportsdata_id": "ba7fe857-df63-4aed-803a-80993b157be4"
+      "sportsdata_id": "7b47d190-168b-44bc-bb91-a688fe28f768"
     },
     {
       "cbs_player_id": "3120873",
@@ -6922,26 +6922,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "3176952",
-      "player_bye_week": "7",
+      "cbs_player_id": "29128702",
+      "player_bye_week": "8",
       "player_ecr_delta": null,
-      "player_eligibility": "LB,DE",
-      "player_filename": "tuli-tuipulotu.php",
-      "player_id": 25364,
-      "player_name": "Tuli Tuipulotu",
+      "player_eligibility": "DL,LB",
+      "player_filename": "arvell-reese.php",
+      "player_id": 28053,
+      "player_name": "Arvell Reese",
       "player_owned_avg": 0,
       "player_owned_espn": 0,
       "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/tuli-tuipulotu.php",
-      "player_position_id": "DE",
-      "player_positions": "DE",
-      "player_short_name": "T. Tuipulotu",
-      "player_team_id": "LAC",
-      "player_yahoo_id": "40077",
-      "player_yahoo_positions": "LB,DE",
-      "pos_rank": "DE9",
+      "player_page_url": "https://www.fantasypros.com/nfl/players/arvell-reese.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "A. Reese",
+      "player_team_id": "NYG",
+      "player_yahoo_id": "42627",
+      "player_yahoo_positions": "LB",
+      "pos_rank": "LB44",
       "rank_ecr": 304,
-      "sportsdata_id": "8b3391ab-5126-4ed8-b181-59723f7f5a99"
+      "sportsdata_id": "8095554c-7eae-4e7c-9213-01f24ceb0185"
     },
     {
       "cbs_player_id": "2179332",
@@ -6990,6 +6990,28 @@
       "tier": 11
     },
     {
+      "cbs_player_id": "3176952",
+      "player_bye_week": "7",
+      "player_ecr_delta": null,
+      "player_eligibility": "LB,DE",
+      "player_filename": "tuli-tuipulotu.php",
+      "player_id": 25364,
+      "player_name": "Tuli Tuipulotu",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/tuli-tuipulotu.php",
+      "player_position_id": "DE",
+      "player_positions": "DE",
+      "player_short_name": "T. Tuipulotu",
+      "player_team_id": "LAC",
+      "player_yahoo_id": "40077",
+      "player_yahoo_positions": "LB,DE",
+      "pos_rank": "DE9",
+      "rank_ecr": 307,
+      "sportsdata_id": "8b3391ab-5126-4ed8-b181-59723f7f5a99"
+    },
+    {
       "cbs_player_id": "2253012",
       "player_bye_week": "8",
       "player_ecr_delta": null,
@@ -7008,7 +7030,7 @@
       "player_yahoo_id": "31848",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE10",
-      "rank_ecr": 307,
+      "rank_ecr": 308,
       "sportsdata_id": "dbf199a9-542e-4279-8764-3341b9f80910"
     },
     {
@@ -7030,30 +7052,8 @@
       "player_yahoo_id": "40894",
       "player_yahoo_positions": "DL,LB,DE",
       "pos_rank": "DE11",
-      "rank_ecr": 308,
-      "sportsdata_id": "6c0c2ab2-8333-4eb0-adb5-d8e0095d50ec"
-    },
-    {
-      "cbs_player_id": "29128702",
-      "player_bye_week": "8",
-      "player_ecr_delta": null,
-      "player_eligibility": "DL,LB",
-      "player_filename": "arvell-reese.php",
-      "player_id": 28053,
-      "player_name": "Arvell Reese",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/arvell-reese.php",
-      "player_position_id": "LB",
-      "player_positions": "LB",
-      "player_short_name": "A. Reese",
-      "player_team_id": "NYG",
-      "player_yahoo_id": "42627",
-      "player_yahoo_positions": "LB",
-      "pos_rank": "LB44",
       "rank_ecr": 309,
-      "sportsdata_id": "8095554c-7eae-4e7c-9213-01f24ceb0185"
+      "sportsdata_id": "6c0c2ab2-8333-4eb0-adb5-d8e0095d50ec"
     },
     {
       "cbs_player_id": "2260683",
@@ -7260,26 +7260,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2241393",
-      "player_bye_week": "9",
+      "cbs_player_id": "28890311",
+      "player_bye_week": "8",
       "player_ecr_delta": null,
-      "player_eligibility": "LB,DE",
-      "player_filename": "alex-highsmith.php",
-      "player_id": 19316,
-      "player_name": "Alex Highsmith",
+      "player_eligibility": "DE,LB",
+      "player_filename": "abdul-carter.php",
+      "player_id": 27022,
+      "player_name": "Abdul Carter",
       "player_owned_avg": 0,
       "player_owned_espn": 0,
       "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/alex-highsmith.php",
-      "player_position_id": "LB",
-      "player_positions": "LB",
-      "player_short_name": "A. Highsmith",
-      "player_team_id": "PIT",
-      "player_yahoo_id": "32772",
+      "player_page_url": "https://www.fantasypros.com/nfl/players/abdul-carter.php",
+      "player_position_id": "DE",
+      "player_positions": "DE",
+      "player_short_name": "A. Carter",
+      "player_team_id": "NYG",
+      "player_yahoo_id": "41788",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB47",
+      "pos_rank": "DE13",
       "rank_ecr": 319,
-      "sportsdata_id": "3f4025d1-5782-43e4-9f42-8eee2da66a95"
+      "sportsdata_id": "95fa8be3-3be8-45bb-9475-60a444e1af74"
     },
     {
       "cbs_player_id": "28926125",
@@ -7351,26 +7351,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "28890311",
-      "player_bye_week": "8",
+      "cbs_player_id": "2241393",
+      "player_bye_week": "9",
       "player_ecr_delta": null,
-      "player_eligibility": "DE,LB",
-      "player_filename": "abdul-carter.php",
-      "player_id": 27022,
-      "player_name": "Abdul Carter",
+      "player_eligibility": "LB,DE",
+      "player_filename": "alex-highsmith.php",
+      "player_id": 19316,
+      "player_name": "Alex Highsmith",
       "player_owned_avg": 0,
       "player_owned_espn": 0,
       "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/abdul-carter.php",
-      "player_position_id": "DE",
-      "player_positions": "DE",
-      "player_short_name": "A. Carter",
-      "player_team_id": "NYG",
-      "player_yahoo_id": "41788",
+      "player_page_url": "https://www.fantasypros.com/nfl/players/alex-highsmith.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "A. Highsmith",
+      "player_team_id": "PIT",
+      "player_yahoo_id": "32772",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "DE13",
+      "pos_rank": "LB47",
       "rank_ecr": 323,
-      "sportsdata_id": "95fa8be3-3be8-45bb-9475-60a444e1af74"
+      "sportsdata_id": "3f4025d1-5782-43e4-9f42-8eee2da66a95"
     },
     {
       "cbs_player_id": "26696237",
@@ -7874,26 +7874,26 @@
       "tier": 5
     },
     {
-      "cbs_player_id": "2925877",
-      "player_bye_week": "7",
+      "cbs_player_id": "26727428",
+      "player_bye_week": "6",
       "player_ecr_delta": null,
-      "player_eligibility": "LB",
-      "player_filename": "frankie-luvu.php",
-      "player_id": 17963,
-      "player_name": "Frankie Luvu",
+      "player_eligibility": "LB,DE",
+      "player_filename": "dallas-turner.php",
+      "player_id": 26097,
+      "player_name": "Dallas Turner",
       "player_owned_avg": 0,
       "player_owned_espn": 0,
       "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/frankie-luvu.php",
-      "player_position_id": "LB",
-      "player_positions": "LB",
-      "player_short_name": "F. Luvu",
-      "player_team_id": "WAS",
-      "player_yahoo_id": "31503",
-      "player_yahoo_positions": "LB",
-      "pos_rank": "LB52",
+      "player_page_url": "https://www.fantasypros.com/nfl/players/dallas-turner.php",
+      "player_position_id": "DE",
+      "player_positions": "DE",
+      "player_short_name": "D. Turner",
+      "player_team_id": "MIN",
+      "player_yahoo_id": "40904",
+      "player_yahoo_positions": "LB,DE",
+      "pos_rank": "DE15",
       "rank_ecr": 346,
-      "sportsdata_id": "717ebb17-f54f-4052-b9fb-af641a25ebe2"
+      "sportsdata_id": "1455441c-7e0e-484e-8e8a-5c7606b59709"
     },
     {
       "cbs_player_id": "29123817",
@@ -8120,10 +8120,32 @@
       "player_team_id": "HOU",
       "player_yahoo_id": "40105",
       "player_yahoo_positions": "LB,S",
-      "pos_rank": "LB53",
+      "pos_rank": "LB52",
       "rank_ecr": 356,
       "sportsdata_id": "5c55344a-6192-4def-9860-ffd5a571fe68",
       "tier": 11
+    },
+    {
+      "cbs_player_id": "2925877",
+      "player_bye_week": "7",
+      "player_ecr_delta": null,
+      "player_eligibility": "LB",
+      "player_filename": "frankie-luvu.php",
+      "player_id": 17963,
+      "player_name": "Frankie Luvu",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/frankie-luvu.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "F. Luvu",
+      "player_team_id": "WAS",
+      "player_yahoo_id": "31503",
+      "player_yahoo_positions": "LB",
+      "pos_rank": "LB53",
+      "rank_ecr": 357,
+      "sportsdata_id": "717ebb17-f54f-4052-b9fb-af641a25ebe2"
     },
     {
       "cbs_player_id": "3167563",
@@ -8144,7 +8166,7 @@
       "player_yahoo_id": "40997",
       "player_yahoo_positions": "DB,S",
       "pos_rank": "S129",
-      "rank_ecr": 357,
+      "rank_ecr": 358,
       "sportsdata_id": "b9500cb3-e259-4d5e-a75c-66b2611c0454",
       "tier": 6
     },
@@ -8167,31 +8189,9 @@
       "player_yahoo_id": "42633",
       "player_yahoo_positions": "S",
       "pos_rank": "S130",
-      "rank_ecr": 358,
+      "rank_ecr": 359,
       "sportsdata_id": "c354a922-5300-4dbc-80e6-d11208cdf386",
       "tier": 5
-    },
-    {
-      "cbs_player_id": "26727428",
-      "player_bye_week": "6",
-      "player_ecr_delta": null,
-      "player_eligibility": "LB,DE",
-      "player_filename": "dallas-turner.php",
-      "player_id": 26097,
-      "player_name": "Dallas Turner",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/dallas-turner.php",
-      "player_position_id": "DE",
-      "player_positions": "DE",
-      "player_short_name": "D. Turner",
-      "player_team_id": "MIN",
-      "player_yahoo_id": "40904",
-      "player_yahoo_positions": "LB,DE",
-      "pos_rank": "DE15",
-      "rank_ecr": 359,
-      "sportsdata_id": "1455441c-7e0e-484e-8e8a-5c7606b59709"
     },
     {
       "cbs_player_id": "2818165",
@@ -8653,7 +8653,7 @@
     {
       "cbs_player_id": "3121247",
       "player_bye_week": "11",
-      "player_ecr_delta": 14,
+      "player_ecr_delta": 23,
       "player_eligibility": "S",
       "player_filename": "ronnie-hickman.php",
       "player_id": 25796,
@@ -8995,7 +8995,7 @@
     {
       "cbs_player_id": "2071515",
       "player_bye_week": "9",
-      "player_ecr_delta": -7,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "jalen-ramsey.php",
       "player_id": 15491,
@@ -9083,6 +9083,28 @@
       "tier": 11
     },
     {
+      "cbs_player_id": "2179277",
+      "player_bye_week": "14",
+      "player_ecr_delta": null,
+      "player_eligibility": "LB,DE",
+      "player_filename": "josh-sweat.php",
+      "player_id": 17363,
+      "player_name": "Josh Sweat",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/josh-sweat.php",
+      "player_position_id": "DE",
+      "player_positions": "DE",
+      "player_short_name": "J. Sweat",
+      "player_team_id": "ARI",
+      "player_yahoo_id": "31101",
+      "player_yahoo_positions": "LB,DE",
+      "pos_rank": "DE18",
+      "rank_ecr": 399,
+      "sportsdata_id": "66a67b5d-500d-46e8-90c6-e2f127d38190"
+    },
+    {
       "cbs_player_id": "26701874",
       "player_bye_week": "5",
       "player_ecr_delta": null,
@@ -9101,13 +9123,13 @@
       "player_yahoo_id": "40956",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB60",
-      "rank_ecr": 399,
+      "rank_ecr": 400,
       "sportsdata_id": "578f063e-30e5-4a2c-b3cc-09aaaf3d0a7c"
     },
     {
       "cbs_player_id": "28891495",
       "player_bye_week": "9",
-      "player_ecr_delta": 5,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "kevin-winston-jr.php",
       "player_id": 27035,
@@ -9123,7 +9145,7 @@
       "player_yahoo_id": "41857",
       "player_yahoo_positions": "S",
       "pos_rank": "S145",
-      "rank_ecr": 400,
+      "rank_ecr": 401,
       "sportsdata_id": "1dd1308d-3ca4-4972-abc4-0dae40726900",
       "tier": 5
     },
@@ -9145,31 +9167,9 @@
       "player_team_id": "CAR",
       "player_yahoo_id": "33406",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "DE18",
-      "rank_ecr": 401,
-      "sportsdata_id": "2e0122de-812b-44fa-8bf9-084695be95e3"
-    },
-    {
-      "cbs_player_id": "2179277",
-      "player_bye_week": "14",
-      "player_ecr_delta": null,
-      "player_eligibility": "LB,DE",
-      "player_filename": "josh-sweat.php",
-      "player_id": 17363,
-      "player_name": "Josh Sweat",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/josh-sweat.php",
-      "player_position_id": "DE",
-      "player_positions": "DE",
-      "player_short_name": "J. Sweat",
-      "player_team_id": "ARI",
-      "player_yahoo_id": "31101",
-      "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE19",
       "rank_ecr": 402,
-      "sportsdata_id": "66a67b5d-500d-46e8-90c6-e2f127d38190"
+      "sportsdata_id": "2e0122de-812b-44fa-8bf9-084695be95e3"
     },
     {
       "cbs_player_id": "3168219",
@@ -9515,27 +9515,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2805656",
-      "player_bye_week": "8",
+      "cbs_player_id": "2181166",
+      "player_bye_week": "10",
       "player_ecr_delta": null,
-      "player_eligibility": "S",
-      "player_filename": "reed-blankenship.php",
-      "player_id": 22754,
-      "player_name": "Reed Blankenship",
-      "player_owned_avg": 15.5,
-      "player_owned_espn": 9,
-      "player_owned_yahoo": 9,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/reed-blankenship.php",
-      "player_position_id": "S",
-      "player_positions": "S",
-      "player_short_name": "R. Blankenship",
-      "player_team_id": "HOU",
-      "player_yahoo_id": "34376",
-      "player_yahoo_positions": "S",
-      "pos_rank": "S151",
+      "player_eligibility": "LB,DE",
+      "player_filename": "jonathan-greenard.php",
+      "player_id": 19276,
+      "player_name": "Jonathan Greenard",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/jonathan-greenard.php",
+      "player_position_id": "DE",
+      "player_positions": "DE",
+      "player_short_name": "J. Greenard",
+      "player_team_id": "PHI",
+      "player_yahoo_id": "32760",
+      "player_yahoo_positions": "LB,DE",
+      "pos_rank": "DE20",
       "rank_ecr": 418,
-      "sportsdata_id": "f67efd90-ce17-11ec-bebb-4fec1e38b0e5",
-      "tier": 6
+      "sportsdata_id": "bc69c92c-58ff-44b2-a18b-07a08ee78dc6"
     },
     {
       "cbs_player_id": "2961001",
@@ -9555,7 +9554,7 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "40123",
       "player_yahoo_positions": "S",
-      "pos_rank": "S152",
+      "pos_rank": "S151",
       "rank_ecr": 419,
       "sportsdata_id": "c9da2c23-478b-48a8-8a98-408caf3f0d16",
       "tier": 11
@@ -9607,31 +9606,32 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2181166",
-      "player_bye_week": "10",
+      "cbs_player_id": "2805656",
+      "player_bye_week": "8",
       "player_ecr_delta": null,
-      "player_eligibility": "LB,DE",
-      "player_filename": "jonathan-greenard.php",
-      "player_id": 19276,
-      "player_name": "Jonathan Greenard",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/jonathan-greenard.php",
-      "player_position_id": "DE",
-      "player_positions": "DE",
-      "player_short_name": "J. Greenard",
-      "player_team_id": "PHI",
-      "player_yahoo_id": "32760",
-      "player_yahoo_positions": "LB,DE",
-      "pos_rank": "DE20",
+      "player_eligibility": "S",
+      "player_filename": "reed-blankenship.php",
+      "player_id": 22754,
+      "player_name": "Reed Blankenship",
+      "player_owned_avg": 15.5,
+      "player_owned_espn": 9,
+      "player_owned_yahoo": 9,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/reed-blankenship.php",
+      "player_position_id": "S",
+      "player_positions": "S",
+      "player_short_name": "R. Blankenship",
+      "player_team_id": "HOU",
+      "player_yahoo_id": "34376",
+      "player_yahoo_positions": "S",
+      "pos_rank": "S152",
       "rank_ecr": 422,
-      "sportsdata_id": "bc69c92c-58ff-44b2-a18b-07a08ee78dc6"
+      "sportsdata_id": "f67efd90-ce17-11ec-bebb-4fec1e38b0e5",
+      "tier": 6
     },
     {
       "cbs_player_id": "2221830",
       "player_bye_week": "7",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "chauncey-gardner-johnson.php",
       "player_id": 18649,
@@ -9743,26 +9743,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2130978",
-      "player_bye_week": "11",
+      "cbs_player_id": "3122891",
+      "player_bye_week": "5",
       "player_ecr_delta": null,
-      "player_eligibility": "LB,DE",
-      "player_filename": "harold-landry.php",
-      "player_id": 17330,
-      "player_name": "Harold Landry III",
+      "player_eligibility": "DE",
+      "player_filename": "george-karlaftis-iii.php",
+      "player_id": 23501,
+      "player_name": "George Karlaftis III",
       "player_owned_avg": 0,
       "player_owned_espn": 0,
       "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/harold-landry.php",
-      "player_position_id": "LB",
-      "player_positions": "LB",
-      "player_short_name": "H. Landry III",
-      "player_team_id": "NE",
-      "player_yahoo_id": "31011",
-      "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB62",
+      "player_page_url": "https://www.fantasypros.com/nfl/players/george-karlaftis-iii.php",
+      "player_position_id": "DE",
+      "player_positions": "DE",
+      "player_short_name": "G. Karlaftis III",
+      "player_team_id": "KC",
+      "player_yahoo_id": "33985",
+      "player_yahoo_positions": "DE",
+      "pos_rank": "DE22",
       "rank_ecr": 428,
-      "sportsdata_id": "60d5e71e-e127-463b-8e6b-26a7dac3db76"
+      "sportsdata_id": "afb1f463-400e-4bdb-9028-717a563ba6f4"
     },
     {
       "cbs_player_id": "2071628",
@@ -9834,27 +9834,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2186838",
-      "player_bye_week": "8",
+      "cbs_player_id": "2130978",
+      "player_bye_week": "11",
       "player_ecr_delta": null,
-      "player_eligibility": "S",
-      "player_filename": "justin-reid.php",
-      "player_id": 17320,
-      "player_name": "Justin Reid",
-      "player_owned_avg": 7.6,
-      "player_owned_espn": 7.3,
-      "player_owned_yahoo": 3,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/justin-reid.php",
-      "player_position_id": "S",
-      "player_positions": "S",
-      "player_short_name": "J. Reid",
-      "player_team_id": "NO",
-      "player_yahoo_id": "31038",
-      "player_yahoo_positions": "S",
-      "pos_rank": "S155",
+      "player_eligibility": "LB,DE",
+      "player_filename": "harold-landry.php",
+      "player_id": 17330,
+      "player_name": "Harold Landry III",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/harold-landry.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "H. Landry III",
+      "player_team_id": "NE",
+      "player_yahoo_id": "31011",
+      "player_yahoo_positions": "LB,DE",
+      "pos_rank": "LB62",
       "rank_ecr": 432,
-      "sportsdata_id": "bb9db665-7f9f-425d-9e4b-df78c65c8b97",
-      "tier": 7
+      "sportsdata_id": "60d5e71e-e127-463b-8e6b-26a7dac3db76"
     },
     {
       "cbs_player_id": "2820396",
@@ -9874,7 +9873,7 @@
       "player_team_id": "NE",
       "player_yahoo_id": "34232",
       "player_yahoo_positions": "S",
-      "pos_rank": "S156",
+      "pos_rank": "S155",
       "rank_ecr": 433,
       "sportsdata_id": "d64354b0-c956-11ec-b1d2-d334745b4f4f",
       "tier": 11
@@ -9920,10 +9919,33 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "41987",
       "player_yahoo_positions": "S",
-      "pos_rank": "S157",
+      "pos_rank": "S156",
       "rank_ecr": 435,
       "sportsdata_id": "9fafb31c-10c8-4299-822c-8d532904b6fb",
       "tier": 11
+    },
+    {
+      "cbs_player_id": "2186838",
+      "player_bye_week": "8",
+      "player_ecr_delta": null,
+      "player_eligibility": "S",
+      "player_filename": "justin-reid.php",
+      "player_id": 17320,
+      "player_name": "Justin Reid",
+      "player_owned_avg": 7.6,
+      "player_owned_espn": 7.3,
+      "player_owned_yahoo": 3,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/justin-reid.php",
+      "player_position_id": "S",
+      "player_positions": "S",
+      "player_short_name": "J. Reid",
+      "player_team_id": "NO",
+      "player_yahoo_id": "31038",
+      "player_yahoo_positions": "S",
+      "pos_rank": "S157",
+      "rank_ecr": 436,
+      "sportsdata_id": "bb9db665-7f9f-425d-9e4b-df78c65c8b97",
+      "tier": 7
     },
     {
       "cbs_player_id": "2804169",
@@ -9944,7 +9966,7 @@
       "player_yahoo_id": "32714",
       "player_yahoo_positions": "S",
       "pos_rank": "S158",
-      "rank_ecr": 436,
+      "rank_ecr": 437,
       "sportsdata_id": "1bbe7ce0-3707-4d4d-b8f6-7577008f1763",
       "tier": 5
     },
@@ -9967,30 +9989,8 @@
       "player_yahoo_id": "40189",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB63",
-      "rank_ecr": 437,
-      "sportsdata_id": "b3523130-926a-4d1c-bfde-775975583398"
-    },
-    {
-      "cbs_player_id": "3122891",
-      "player_bye_week": "5",
-      "player_ecr_delta": null,
-      "player_eligibility": "DE",
-      "player_filename": "george-karlaftis-iii.php",
-      "player_id": 23501,
-      "player_name": "George Karlaftis III",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/george-karlaftis-iii.php",
-      "player_position_id": "DE",
-      "player_positions": "DE",
-      "player_short_name": "G. Karlaftis III",
-      "player_team_id": "KC",
-      "player_yahoo_id": "33985",
-      "player_yahoo_positions": "DE",
-      "pos_rank": "DE22",
       "rank_ecr": 438,
-      "sportsdata_id": "afb1f463-400e-4bdb-9028-717a563ba6f4"
+      "sportsdata_id": "b3523130-926a-4d1c-bfde-775975583398"
     },
     {
       "cbs_player_id": "26705419",
@@ -10062,27 +10062,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "3127681",
-      "player_bye_week": "14",
+      "cbs_player_id": "2136439",
+      "player_bye_week": "7",
       "player_ecr_delta": null,
-      "player_eligibility": "S",
-      "player_filename": "dadrion-taylor-demerson.php",
-      "player_id": 26346,
-      "player_name": "Dadrion Taylor-Demerson",
-      "player_owned_avg": 5.1,
-      "player_owned_espn": 4.9,
-      "player_owned_yahoo": 1,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/dadrion-taylor-demerson.php",
-      "player_position_id": "S",
-      "player_positions": "S",
-      "player_short_name": "D. Taylor-Demerson",
-      "player_team_id": "ARI",
-      "player_yahoo_id": "40999",
-      "player_yahoo_positions": "DB,S",
-      "pos_rank": "S160",
+      "player_eligibility": "LB,DE",
+      "player_filename": "bradley-chubb.php",
+      "player_id": 17277,
+      "player_name": "Bradley Chubb",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/bradley-chubb.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "B. Chubb",
+      "player_team_id": "BUF",
+      "player_yahoo_id": "30975",
+      "player_yahoo_positions": "LB",
+      "pos_rank": "LB64",
       "rank_ecr": 442,
-      "sportsdata_id": "ed59f931-fb26-4809-b862-a29fb7825942",
-      "tier": 6
+      "sportsdata_id": "66313049-299d-4e58-beb9-8e051ab6548a"
     },
     {
       "cbs_player_id": "29128902",
@@ -10131,6 +10130,29 @@
       "tier": 11
     },
     {
+      "cbs_player_id": "3127681",
+      "player_bye_week": "14",
+      "player_ecr_delta": null,
+      "player_eligibility": "S",
+      "player_filename": "dadrion-taylor-demerson.php",
+      "player_id": 26346,
+      "player_name": "Dadrion Taylor-Demerson",
+      "player_owned_avg": 5.1,
+      "player_owned_espn": 4.9,
+      "player_owned_yahoo": 1,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/dadrion-taylor-demerson.php",
+      "player_position_id": "S",
+      "player_positions": "S",
+      "player_short_name": "D. Taylor-Demerson",
+      "player_team_id": "ARI",
+      "player_yahoo_id": "40999",
+      "player_yahoo_positions": "DB,S",
+      "pos_rank": "S160",
+      "rank_ecr": 445,
+      "sportsdata_id": "ed59f931-fb26-4809-b862-a29fb7825942",
+      "tier": 6
+    },
+    {
       "cbs_player_id": "2966977",
       "player_bye_week": "7",
       "player_ecr_delta": null,
@@ -10149,13 +10171,13 @@
       "player_yahoo_id": "33418",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE23",
-      "rank_ecr": 445,
+      "rank_ecr": 446,
       "sportsdata_id": "c47a2147-d70d-4874-91b3-8548b26fb3ec"
     },
     {
       "cbs_player_id": "2139775",
       "player_bye_week": "13",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 8,
       "player_eligibility": "CB",
       "player_filename": "marlon-humphrey.php",
       "player_id": 16390,
@@ -10171,7 +10193,7 @@
       "player_yahoo_id": "30129",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB196",
-      "rank_ecr": 446,
+      "rank_ecr": 447,
       "sportsdata_id": "bf9749c6-6609-456e-a3eb-b8cab21dd76a",
       "tier": 7
     },
@@ -10193,31 +10215,54 @@
       "player_team_id": "SEA",
       "player_yahoo_id": "40730",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB64",
-      "rank_ecr": 447,
+      "pos_rank": "LB65",
+      "rank_ecr": 448,
       "sportsdata_id": "55023e20-f335-11ed-a768-e94cb2c005ac"
     },
     {
-      "cbs_player_id": "2136439",
-      "player_bye_week": "7",
+      "cbs_player_id": "2967590",
+      "player_bye_week": "11",
       "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
-      "player_filename": "bradley-chubb.php",
-      "player_id": 17277,
-      "player_name": "Bradley Chubb",
+      "player_filename": "micah-parsons.php",
+      "player_id": 19784,
+      "player_name": "Micah Parsons",
       "player_owned_avg": 0,
       "player_owned_espn": 0,
       "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/bradley-chubb.php",
+      "player_page_url": "https://www.fantasypros.com/nfl/players/micah-parsons.php",
       "player_position_id": "LB",
       "player_positions": "LB",
-      "player_short_name": "B. Chubb",
-      "player_team_id": "BUF",
-      "player_yahoo_id": "30975",
-      "player_yahoo_positions": "LB",
-      "pos_rank": "LB65",
-      "rank_ecr": 448,
-      "sportsdata_id": "66313049-299d-4e58-beb9-8e051ab6548a"
+      "player_short_name": "M. Parsons",
+      "player_team_id": "GB",
+      "player_yahoo_id": "33400",
+      "player_yahoo_positions": "LB,DE",
+      "pos_rank": "LB66",
+      "rank_ecr": 449,
+      "sportsdata_id": "b4eab0bf-9e1f-43f8-912f-d33ac517bc46"
+    },
+    {
+      "cbs_player_id": "2188199",
+      "player_bye_week": "6",
+      "player_ecr_delta": null,
+      "player_eligibility": "S",
+      "player_filename": "zayne-anderson.php",
+      "player_id": 23429,
+      "player_name": "Zayne Anderson",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/zayne-anderson.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "Z. Anderson",
+      "player_team_id": "MIA",
+      "player_yahoo_id": "33877",
+      "player_yahoo_positions": "S",
+      "pos_rank": "LB67",
+      "rank_ecr": 450,
+      "sportsdata_id": "6fd330e6-8cab-4351-b9e8-bc6ffb125b1c",
+      "tier": 11
     },
     {
       "cbs_player_id": "3123251",
@@ -10238,54 +10283,8 @@
       "player_yahoo_id": "41007",
       "player_yahoo_positions": "DB,S",
       "pos_rank": "S161",
-      "rank_ecr": 449,
-      "sportsdata_id": "8fbc9bcf-c367-46bc-8017-ce87e84aeaff",
-      "tier": 6
-    },
-    {
-      "cbs_player_id": "2188199",
-      "player_bye_week": "6",
-      "player_ecr_delta": null,
-      "player_eligibility": "S",
-      "player_filename": "zayne-anderson.php",
-      "player_id": 23429,
-      "player_name": "Zayne Anderson",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/zayne-anderson.php",
-      "player_position_id": "LB",
-      "player_positions": "LB",
-      "player_short_name": "Z. Anderson",
-      "player_team_id": "MIA",
-      "player_yahoo_id": "33877",
-      "player_yahoo_positions": "S",
-      "pos_rank": "LB66",
-      "rank_ecr": 450,
-      "sportsdata_id": "6fd330e6-8cab-4351-b9e8-bc6ffb125b1c",
-      "tier": 11
-    },
-    {
-      "cbs_player_id": "2979290",
-      "player_bye_week": "10",
-      "player_ecr_delta": null,
-      "player_eligibility": "CB",
-      "player_filename": "riley-moss.php",
-      "player_id": 25459,
-      "player_name": "Riley Moss",
-      "player_owned_avg": 9.2,
-      "player_owned_espn": 4.6,
-      "player_owned_yahoo": 8,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/riley-moss.php",
-      "player_position_id": "CB",
-      "player_positions": "CB",
-      "player_short_name": "R. Moss",
-      "player_team_id": "DEN",
-      "player_yahoo_id": "40112",
-      "player_yahoo_positions": "CB",
-      "pos_rank": "CB197",
       "rank_ecr": 451,
-      "sportsdata_id": "8f79eaa3-df62-4214-a497-1e13970e6b82",
+      "sportsdata_id": "8fbc9bcf-c367-46bc-8017-ce87e84aeaff",
       "tier": 6
     },
     {
@@ -10306,7 +10305,7 @@
       "player_team_id": "TEN",
       "player_yahoo_id": "34091",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB198",
+      "pos_rank": "CB197",
       "rank_ecr": 452,
       "sportsdata_id": "be77723f-3d5a-47aa-9949-433993879a6f",
       "tier": 11
@@ -10329,10 +10328,33 @@
       "player_team_id": "MIN",
       "player_yahoo_id": "41210",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB199",
+      "pos_rank": "CB198",
       "rank_ecr": 453,
       "sportsdata_id": "0b114d80-0584-11ef-8549-c35bdee1a640",
       "tier": 11
+    },
+    {
+      "cbs_player_id": "2979290",
+      "player_bye_week": "10",
+      "player_ecr_delta": null,
+      "player_eligibility": "CB",
+      "player_filename": "riley-moss.php",
+      "player_id": 25459,
+      "player_name": "Riley Moss",
+      "player_owned_avg": 9.2,
+      "player_owned_espn": 4.6,
+      "player_owned_yahoo": 8,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/riley-moss.php",
+      "player_position_id": "CB",
+      "player_positions": "CB",
+      "player_short_name": "R. Moss",
+      "player_team_id": "DEN",
+      "player_yahoo_id": "40112",
+      "player_yahoo_positions": "CB",
+      "pos_rank": "CB199",
+      "rank_ecr": 454,
+      "sportsdata_id": "8f79eaa3-df62-4214-a497-1e13970e6b82",
+      "tier": 6
     },
     {
       "cbs_player_id": "26701285",
@@ -10352,14 +10374,14 @@
       "player_team_id": "CHI",
       "player_yahoo_id": "41042",
       "player_yahoo_positions": "DL,DE",
-      "pos_rank": "LB67",
-      "rank_ecr": 454,
+      "pos_rank": "LB68",
+      "rank_ecr": 455,
       "sportsdata_id": "e062739b-9948-47aa-aa50-604483c45b8b"
     },
     {
       "cbs_player_id": "26696513",
       "player_bye_week": "8",
-      "player_ecr_delta": -19,
+      "player_ecr_delta": -9,
       "player_eligibility": "CB",
       "player_filename": "kool-aid-mckinstry.php",
       "player_id": 26098,
@@ -10375,7 +10397,7 @@
       "player_yahoo_id": "40927",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB200",
-      "rank_ecr": 455,
+      "rank_ecr": 456,
       "sportsdata_id": "db912dac-e488-4c39-806b-a10e990d6bf4",
       "tier": 8
     },
@@ -10398,14 +10420,14 @@
       "player_yahoo_id": "31063",
       "player_yahoo_positions": "DB,LB,S",
       "pos_rank": "S162",
-      "rank_ecr": 456,
+      "rank_ecr": 457,
       "sportsdata_id": "9b96ef63-04bd-41ae-b59c-acc0f2561d19",
       "tier": 8
     },
     {
       "cbs_player_id": "2868542",
       "player_bye_week": "5",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -7,
       "player_eligibility": "S",
       "player_filename": "alohi-gilman.php",
       "player_id": 19379,
@@ -10421,7 +10443,7 @@
       "player_yahoo_id": "32856",
       "player_yahoo_positions": "S",
       "pos_rank": "S163",
-      "rank_ecr": 457,
+      "rank_ecr": 458,
       "sportsdata_id": "f3a7ab39-ead2-4dbf-b760-d652b8a26853",
       "tier": 7
     },
@@ -10444,14 +10466,14 @@
       "player_yahoo_id": "32686",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB201",
-      "rank_ecr": 458,
+      "rank_ecr": 459,
       "sportsdata_id": "1eae2610-be1d-4f53-82a2-28cf4a2db352",
       "tier": 8
     },
     {
       "cbs_player_id": "2185917",
       "player_bye_week": "7",
-      "player_ecr_delta": 23,
+      "player_ecr_delta": 10,
       "player_eligibility": "CB,S",
       "player_filename": "will-harris.php",
       "player_id": 18682,
@@ -10467,7 +10489,7 @@
       "player_yahoo_id": "31913",
       "player_yahoo_positions": "S,CB",
       "pos_rank": "S164",
-      "rank_ecr": 459,
+      "rank_ecr": 460,
       "sportsdata_id": "cae34950-dcb7-4021-ad21-0a8ae7cf47f1",
       "tier": 7
     },
@@ -10490,14 +10512,14 @@
       "player_yahoo_id": "40948",
       "player_yahoo_positions": "S",
       "pos_rank": "S165",
-      "rank_ecr": 460,
+      "rank_ecr": 461,
       "sportsdata_id": "f53fd561-f47b-4db2-8318-022246e447ae",
       "tier": 7
     },
     {
       "cbs_player_id": "26705792",
       "player_bye_week": "8",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 8,
       "player_eligibility": "S",
       "player_filename": "jonas-sanker.php",
       "player_id": 27210,
@@ -10513,7 +10535,7 @@
       "player_yahoo_id": "41879",
       "player_yahoo_positions": "S",
       "pos_rank": "S166",
-      "rank_ecr": 461,
+      "rank_ecr": 462,
       "sportsdata_id": "910ab530-d255-47be-b041-135ee92b1abf",
       "tier": 7
     },
@@ -10535,31 +10557,9 @@
       "player_team_id": "NE",
       "player_yahoo_id": "33778",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB68",
-      "rank_ecr": 462,
-      "sportsdata_id": "c3ef92f7-29f7-43db-bbef-4e9875d756e9"
-    },
-    {
-      "cbs_player_id": "1860814",
-      "player_bye_week": "7",
-      "player_ecr_delta": null,
-      "player_eligibility": "LB",
-      "player_filename": "denzel-perryman.php",
-      "player_id": 14047,
-      "player_name": "Denzel Perryman",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/denzel-perryman.php",
-      "player_position_id": "LB",
-      "player_positions": "LB",
-      "player_short_name": "D. Perryman",
-      "player_team_id": "LAC",
-      "player_yahoo_id": "28436",
-      "player_yahoo_positions": "LB",
       "pos_rank": "LB69",
       "rank_ecr": 463,
-      "sportsdata_id": "9fc6e49f-c863-419d-9dca-8f0da3f3c9c7"
+      "sportsdata_id": "c3ef92f7-29f7-43db-bbef-4e9875d756e9"
     },
     {
       "cbs_player_id": "29125916",
@@ -10677,27 +10677,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2868296",
-      "player_bye_week": "13",
-      "player_ecr_delta": 18,
-      "player_eligibility": "S",
-      "player_filename": "isaiah-pola-mao.php",
-      "player_id": 23939,
-      "player_name": "Isaiah Pola-Mao",
-      "player_owned_avg": 24.2,
-      "player_owned_espn": 3.3,
-      "player_owned_yahoo": 49,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/isaiah-pola-mao.php",
-      "player_position_id": "S",
-      "player_positions": "S",
-      "player_short_name": "I. Pola-Mao",
-      "player_team_id": "LV",
-      "player_yahoo_id": "34556",
-      "player_yahoo_positions": "S",
-      "pos_rank": "S171",
+      "cbs_player_id": "1860814",
+      "player_bye_week": "7",
+      "player_ecr_delta": null,
+      "player_eligibility": "LB",
+      "player_filename": "denzel-perryman.php",
+      "player_id": 14047,
+      "player_name": "Denzel Perryman",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/denzel-perryman.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "D. Perryman",
+      "player_team_id": "LAC",
+      "player_yahoo_id": "28436",
+      "player_yahoo_positions": "LB",
+      "pos_rank": "LB70",
       "rank_ecr": 469,
-      "sportsdata_id": "03dc3660-d3a9-11ec-96a0-c3471a31202c",
-      "tier": 7
+      "sportsdata_id": "9fc6e49f-c863-419d-9dca-8f0da3f3c9c7"
     },
     {
       "cbs_player_id": "2239532",
@@ -10717,7 +10716,7 @@
       "player_team_id": "CAR",
       "player_yahoo_id": "32678",
       "player_yahoo_positions": "DB,LB,S",
-      "pos_rank": "LB70",
+      "pos_rank": "LB71",
       "rank_ecr": 470,
       "sportsdata_id": "b87d80b7-f129-4f3d-938a-1272f8122589",
       "tier": 11
@@ -10740,33 +10739,33 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "42066",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB71",
+      "pos_rank": "LB72",
       "rank_ecr": 471,
       "sportsdata_id": "10cef890-230a-11f0-96b2-7337577f8157",
       "tier": 11
     },
     {
-      "cbs_player_id": "2965625",
-      "player_bye_week": "10",
-      "player_ecr_delta": null,
-      "player_eligibility": "CB",
-      "player_filename": "patrick-surtain-ii.php",
-      "player_id": 23609,
-      "player_name": "Pat Surtain II",
-      "player_owned_avg": 20.5,
-      "player_owned_espn": 22.4,
-      "player_owned_yahoo": 16,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/patrick-surtain-ii.php",
-      "player_position_id": "CB",
-      "player_positions": "CB",
-      "player_short_name": "P. Surtain II",
-      "player_team_id": "DEN",
-      "player_yahoo_id": "33397",
-      "player_yahoo_positions": "CB",
-      "pos_rank": "CB203",
+      "cbs_player_id": "2868296",
+      "player_bye_week": "13",
+      "player_ecr_delta": 8,
+      "player_eligibility": "S",
+      "player_filename": "isaiah-pola-mao.php",
+      "player_id": 23939,
+      "player_name": "Isaiah Pola-Mao",
+      "player_owned_avg": 24.2,
+      "player_owned_espn": 3.3,
+      "player_owned_yahoo": 49,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/isaiah-pola-mao.php",
+      "player_position_id": "S",
+      "player_positions": "S",
+      "player_short_name": "I. Pola-Mao",
+      "player_team_id": "LV",
+      "player_yahoo_id": "34556",
+      "player_yahoo_positions": "S",
+      "pos_rank": "S171",
       "rank_ecr": 472,
-      "sportsdata_id": "5c753156-6ba2-4e25-9fbd-492c69e06ff0",
-      "tier": 9
+      "sportsdata_id": "03dc3660-d3a9-11ec-96a0-c3471a31202c",
+      "tier": 7
     },
     {
       "cbs_player_id": "2961006",
@@ -10786,7 +10785,7 @@
       "player_team_id": "DEN",
       "player_yahoo_id": "40566",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB204",
+      "pos_rank": "CB203",
       "rank_ecr": 473,
       "sportsdata_id": "ddcbf3f0-ec3b-11ed-aeaf-cb0dc6206dc5",
       "tier": 11
@@ -10809,33 +10808,33 @@
       "player_team_id": "KC",
       "player_yahoo_id": "42118",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB205",
+      "pos_rank": "CB204",
       "rank_ecr": 474,
       "sportsdata_id": "d6920940-23ab-11f0-92c8-a5c84f732fb0",
       "tier": 11
     },
     {
-      "cbs_player_id": "1983762",
-      "player_bye_week": "7",
+      "cbs_player_id": "2965625",
+      "player_bye_week": "10",
       "player_ecr_delta": null,
-      "player_eligibility": "S",
-      "player_filename": "eric-murray.php",
-      "player_id": 15653,
-      "player_name": "Eric Murray",
-      "player_owned_avg": 6.9,
-      "player_owned_espn": 9.7,
-      "player_owned_yahoo": 1,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/eric-murray.php",
+      "player_eligibility": "CB",
+      "player_filename": "patrick-surtain-ii.php",
+      "player_id": 23609,
+      "player_name": "Pat Surtain II",
+      "player_owned_avg": 20.5,
+      "player_owned_espn": 22.4,
+      "player_owned_yahoo": 16,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/patrick-surtain-ii.php",
       "player_position_id": "CB",
       "player_positions": "CB",
-      "player_short_name": "E. Murray",
-      "player_team_id": "JAC",
-      "player_yahoo_id": "29340",
-      "player_yahoo_positions": "S",
-      "pos_rank": "CB206",
+      "player_short_name": "P. Surtain II",
+      "player_team_id": "DEN",
+      "player_yahoo_id": "33397",
+      "player_yahoo_positions": "CB",
+      "pos_rank": "CB205",
       "rank_ecr": 475,
-      "sportsdata_id": "16e4ffec-959d-4210-8702-36c0bf20dda5",
-      "tier": 8
+      "sportsdata_id": "5c753156-6ba2-4e25-9fbd-492c69e06ff0",
+      "tier": 9
     },
     {
       "cbs_player_id": "2083380",
@@ -10855,7 +10854,7 @@
       "player_team_id": "SF",
       "player_yahoo_id": "31124",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB207",
+      "pos_rank": "CB206",
       "rank_ecr": 476,
       "sportsdata_id": "82100457-f4ee-4f24-8ca2-584bfdc85749",
       "tier": 11
@@ -10907,26 +10906,27 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2829228",
-      "player_bye_week": "8",
-      "player_ecr_delta": null,
-      "player_eligibility": "LB",
-      "player_filename": "pete-werner.php",
-      "player_id": 22809,
-      "player_name": "Pete Werner",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/pete-werner.php",
-      "player_position_id": "LB",
-      "player_positions": "LB",
-      "player_short_name": "P. Werner",
-      "player_team_id": "NO",
-      "player_yahoo_id": "33448",
-      "player_yahoo_positions": "LB",
-      "pos_rank": "LB72",
+      "cbs_player_id": "1983762",
+      "player_bye_week": "7",
+      "player_ecr_delta": -9,
+      "player_eligibility": "S",
+      "player_filename": "eric-murray.php",
+      "player_id": 15653,
+      "player_name": "Eric Murray",
+      "player_owned_avg": 6.9,
+      "player_owned_espn": 9.7,
+      "player_owned_yahoo": 1,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/eric-murray.php",
+      "player_position_id": "CB",
+      "player_positions": "CB",
+      "player_short_name": "E. Murray",
+      "player_team_id": "JAC",
+      "player_yahoo_id": "29340",
+      "player_yahoo_positions": "S",
+      "pos_rank": "CB207",
       "rank_ecr": 479,
-      "sportsdata_id": "09bdc469-0d82-4bce-8d49-810a44a550da"
+      "sportsdata_id": "16e4ffec-959d-4210-8702-36c0bf20dda5",
+      "tier": 8
     },
     {
       "cbs_player_id": "26699008",
@@ -10998,26 +10998,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "1243804",
-      "player_bye_week": "9",
+      "cbs_player_id": "2829228",
+      "player_bye_week": "8",
       "player_ecr_delta": null,
-      "player_eligibility": "DT,DE",
-      "player_filename": "cameron-heyward.php",
-      "player_id": 9862,
-      "player_name": "Cameron Heyward",
+      "player_eligibility": "LB",
+      "player_filename": "pete-werner.php",
+      "player_id": 22809,
+      "player_name": "Pete Werner",
       "player_owned_avg": 0,
       "player_owned_espn": 0,
       "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/cameron-heyward.php",
-      "player_position_id": "DT",
-      "player_positions": "DT",
-      "player_short_name": "C. Heyward",
-      "player_team_id": "PIT",
-      "player_yahoo_id": "24818",
-      "player_yahoo_positions": "DT,DE",
-      "pos_rank": "DT4",
+      "player_page_url": "https://www.fantasypros.com/nfl/players/pete-werner.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "P. Werner",
+      "player_team_id": "NO",
+      "player_yahoo_id": "33448",
+      "player_yahoo_positions": "LB",
+      "pos_rank": "LB73",
       "rank_ecr": 483,
-      "sportsdata_id": "9779acc7-ed88-4a16-b78d-230ace9ec3eb"
+      "sportsdata_id": "09bdc469-0d82-4bce-8d49-810a44a550da"
     },
     {
       "cbs_player_id": "3163424",
@@ -11043,27 +11043,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "3133282",
-      "player_bye_week": "6",
-      "player_ecr_delta": 8,
-      "player_eligibility": "S,CB",
-      "player_filename": "daxton-hill.php",
-      "player_id": 24197,
-      "player_name": "Dax Hill",
-      "player_owned_avg": 13.1,
-      "player_owned_espn": 12.5,
-      "player_owned_yahoo": 13,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/daxton-hill.php",
-      "player_position_id": "S",
-      "player_positions": "S",
-      "player_short_name": "D. Hill",
-      "player_team_id": "CIN",
-      "player_yahoo_id": "33986",
-      "player_yahoo_positions": "S,CB",
-      "pos_rank": "S176",
+      "cbs_player_id": "1243804",
+      "player_bye_week": "9",
+      "player_ecr_delta": null,
+      "player_eligibility": "DT,DE",
+      "player_filename": "cameron-heyward.php",
+      "player_id": 9862,
+      "player_name": "Cameron Heyward",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/cameron-heyward.php",
+      "player_position_id": "DT",
+      "player_positions": "DT",
+      "player_short_name": "C. Heyward",
+      "player_team_id": "PIT",
+      "player_yahoo_id": "24818",
+      "player_yahoo_positions": "DT,DE",
+      "pos_rank": "DT4",
       "rank_ecr": 485,
-      "sportsdata_id": "46b69ef9-920c-4645-abf7-139738e3fd9c",
-      "tier": 7
+      "sportsdata_id": "9779acc7-ed88-4a16-b78d-230ace9ec3eb"
     },
     {
       "cbs_player_id": "2869389",
@@ -11152,9 +11151,55 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "40278",
       "player_yahoo_positions": "S",
-      "pos_rank": "S177",
+      "pos_rank": "S176",
       "rank_ecr": 489,
       "sportsdata_id": "b9fbbcf2-35cb-4de4-9622-16630b51c792",
+      "tier": 11
+    },
+    {
+      "cbs_player_id": "3133282",
+      "player_bye_week": "6",
+      "player_ecr_delta": null,
+      "player_eligibility": "S,CB",
+      "player_filename": "daxton-hill.php",
+      "player_id": 24197,
+      "player_name": "Dax Hill",
+      "player_owned_avg": 13.1,
+      "player_owned_espn": 12.5,
+      "player_owned_yahoo": 13,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/daxton-hill.php",
+      "player_position_id": "S",
+      "player_positions": "S",
+      "player_short_name": "D. Hill",
+      "player_team_id": "CIN",
+      "player_yahoo_id": "33986",
+      "player_yahoo_positions": "S,CB",
+      "pos_rank": "S177",
+      "rank_ecr": 490,
+      "sportsdata_id": "46b69ef9-920c-4645-abf7-139738e3fd9c",
+      "tier": 7
+    },
+    {
+      "cbs_player_id": "2963477",
+      "player_bye_week": "7",
+      "player_ecr_delta": null,
+      "player_eligibility": "CB,S",
+      "player_filename": "percy-butler.php",
+      "player_id": 24199,
+      "player_name": "Percy Butler",
+      "player_owned_avg": 2.8,
+      "player_owned_espn": 0.1,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/percy-butler.php",
+      "player_position_id": "S",
+      "player_positions": "S",
+      "player_short_name": "P. Butler",
+      "player_team_id": "WAS",
+      "player_yahoo_id": "34069",
+      "player_yahoo_positions": "S",
+      "pos_rank": "S178",
+      "rank_ecr": 491,
+      "sportsdata_id": "5f70ae1d-2014-4f95-b0f5-26c9d4920ccc",
       "tier": 11
     },
     {
@@ -11175,56 +11220,10 @@
       "player_team_id": "DET",
       "player_yahoo_id": "34053",
       "player_yahoo_positions": "S",
-      "pos_rank": "S178",
-      "rank_ecr": 490,
+      "pos_rank": "S179",
+      "rank_ecr": 492,
       "sportsdata_id": "2e49dfd3-44e3-4554-a81c-de2f53460cc7",
       "tier": 6
-    },
-    {
-      "cbs_player_id": "2963477",
-      "player_bye_week": "7",
-      "player_ecr_delta": null,
-      "player_eligibility": "CB,S",
-      "player_filename": "percy-butler.php",
-      "player_id": 24199,
-      "player_name": "Percy Butler",
-      "player_owned_avg": 2.8,
-      "player_owned_espn": 0.1,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/percy-butler.php",
-      "player_position_id": "S",
-      "player_positions": "S",
-      "player_short_name": "P. Butler",
-      "player_team_id": "WAS",
-      "player_yahoo_id": "34069",
-      "player_yahoo_positions": "S",
-      "pos_rank": "S179",
-      "rank_ecr": 491,
-      "sportsdata_id": "5f70ae1d-2014-4f95-b0f5-26c9d4920ccc",
-      "tier": 11
-    },
-    {
-      "cbs_player_id": "3129234",
-      "player_bye_week": "13",
-      "player_ecr_delta": -15,
-      "player_eligibility": "CB",
-      "player_filename": "nahshon-wright.php",
-      "player_id": 23243,
-      "player_name": "Nahshon Wright",
-      "player_owned_avg": 11.7,
-      "player_owned_espn": 5.2,
-      "player_owned_yahoo": 14,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/nahshon-wright.php",
-      "player_position_id": "CB",
-      "player_positions": "CB",
-      "player_short_name": "N. Wright",
-      "player_team_id": "NYJ",
-      "player_yahoo_id": "33487",
-      "player_yahoo_positions": "CB",
-      "pos_rank": "CB213",
-      "rank_ecr": 492,
-      "sportsdata_id": "884b6094-1ebd-4b72-b957-ad33a3ab984f",
-      "tier": 8
     },
     {
       "cbs_player_id": "2260180",
@@ -11244,7 +11243,7 @@
       "player_team_id": "CHI",
       "player_yahoo_id": "34367",
       "player_yahoo_positions": "DB,CB",
-      "pos_rank": "CB214",
+      "pos_rank": "CB213",
       "rank_ecr": 493,
       "sportsdata_id": "d2e097f0-ce07-11ec-9598-03840dd5f387",
       "tier": 11
@@ -11267,7 +11266,7 @@
       "player_team_id": "PIT",
       "player_yahoo_id": "42026",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB215",
+      "pos_rank": "CB214",
       "rank_ecr": 494,
       "sportsdata_id": "87d18965-9526-474f-8657-4fe8c3f5c8a2",
       "tier": 11
@@ -11313,7 +11312,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "31411",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "CB216",
+      "pos_rank": "CB215",
       "rank_ecr": 496,
       "sportsdata_id": "e0248ecc-27b4-4368-bf97-47a73cb41ec2",
       "tier": 11
@@ -11342,27 +11341,27 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "3121278",
-      "player_bye_week": "7",
+      "cbs_player_id": "3129234",
+      "player_bye_week": "13",
       "player_ecr_delta": null,
       "player_eligibility": "CB",
-      "player_filename": "mike-sainristil.php",
-      "player_id": 26126,
-      "player_name": "Mike Sainristil",
-      "player_owned_avg": 12.7,
-      "player_owned_espn": 9.4,
-      "player_owned_yahoo": 10,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/mike-sainristil.php",
+      "player_filename": "nahshon-wright.php",
+      "player_id": 23243,
+      "player_name": "Nahshon Wright",
+      "player_owned_avg": 11.7,
+      "player_owned_espn": 5.2,
+      "player_owned_yahoo": 14,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/nahshon-wright.php",
       "player_position_id": "CB",
       "player_positions": "CB",
-      "player_short_name": "M. Sainristil",
-      "player_team_id": "WAS",
-      "player_yahoo_id": "40932",
-      "player_yahoo_positions": "DB,CB",
-      "pos_rank": "CB217",
+      "player_short_name": "N. Wright",
+      "player_team_id": "NYJ",
+      "player_yahoo_id": "33487",
+      "player_yahoo_positions": "CB",
+      "pos_rank": "CB216",
       "rank_ecr": 498,
-      "sportsdata_id": "f20bc1dc-7243-4c87-8274-a6e311c21ef9",
-      "tier": 6
+      "sportsdata_id": "884b6094-1ebd-4b72-b957-ad33a3ab984f",
+      "tier": 8
     },
     {
       "cbs_player_id": "3162360",
@@ -11405,7 +11404,7 @@
       "player_team_id": "GB",
       "player_yahoo_id": "41053",
       "player_yahoo_positions": "DB,CB",
-      "pos_rank": "CB218",
+      "pos_rank": "CB217",
       "rank_ecr": 500,
       "sportsdata_id": "ae33b86e-d67d-4b38-87e8-f7c666b4a88b",
       "tier": 11
@@ -11434,27 +11433,27 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2867264",
-      "player_bye_week": "10",
+      "cbs_player_id": "3121278",
+      "player_bye_week": "7",
       "player_ecr_delta": null,
       "player_eligibility": "CB",
-      "player_filename": "zyon-mccollum.php",
-      "player_id": 24498,
-      "player_name": "Zyon McCollum",
-      "player_owned_avg": 8.2,
-      "player_owned_espn": 11,
-      "player_owned_yahoo": 5,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/zyon-mccollum.php",
+      "player_filename": "mike-sainristil.php",
+      "player_id": 26126,
+      "player_name": "Mike Sainristil",
+      "player_owned_avg": 12.7,
+      "player_owned_espn": 9.4,
+      "player_owned_yahoo": 10,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/mike-sainristil.php",
       "player_position_id": "CB",
       "player_positions": "CB",
-      "player_short_name": "Z. McCollum",
-      "player_team_id": "TB",
-      "player_yahoo_id": "34113",
-      "player_yahoo_positions": "CB",
-      "pos_rank": "CB219",
+      "player_short_name": "M. Sainristil",
+      "player_team_id": "WAS",
+      "player_yahoo_id": "40932",
+      "player_yahoo_positions": "DB,CB",
+      "pos_rank": "CB218",
       "rank_ecr": 502,
-      "sportsdata_id": "76d1f310-5877-42d1-99b2-b9ab4b8d826b",
-      "tier": 8
+      "sportsdata_id": "f20bc1dc-7243-4c87-8274-a6e311c21ef9",
+      "tier": 6
     },
     {
       "cbs_player_id": "3126351",
@@ -11474,7 +11473,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "40229",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB220",
+      "pos_rank": "CB219",
       "rank_ecr": 503,
       "sportsdata_id": "a7140ce9-4841-4f7f-9bda-5dcd75899eec",
       "tier": 11
@@ -11497,7 +11496,7 @@
       "player_team_id": "NYJ",
       "player_yahoo_id": "33525",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB221",
+      "pos_rank": "CB220",
       "rank_ecr": 504,
       "sportsdata_id": "0589b224-bfc7-47a5-b89d-ff58ef2dcf21",
       "tier": 11
@@ -11520,7 +11519,7 @@
       "player_team_id": "CLE",
       "player_yahoo_id": "34449",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB222",
+      "pos_rank": "CB221",
       "rank_ecr": 505,
       "sportsdata_id": "bb6a7db0-133b-11ed-9919-531ded80fd4f",
       "tier": 11
@@ -11543,7 +11542,7 @@
       "player_team_id": "NYG",
       "player_yahoo_id": "41190",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB223",
+      "pos_rank": "CB222",
       "rank_ecr": 506,
       "sportsdata_id": "c3046dc0-0573-11ef-b660-4d07270c2b35",
       "tier": 11
@@ -11566,7 +11565,7 @@
       "player_team_id": "CHI",
       "player_yahoo_id": "34503",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB224",
+      "pos_rank": "CB223",
       "rank_ecr": 507,
       "sportsdata_id": "3a886c50-d3a0-11ec-96a0-c3471a31202c",
       "tier": 11
@@ -11589,7 +11588,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "34168",
       "player_yahoo_positions": "DB,CB",
-      "pos_rank": "CB225",
+      "pos_rank": "CB224",
       "rank_ecr": 508,
       "sportsdata_id": "874ab5e6-c943-4620-8c73-b11e6592bc69",
       "tier": 11
@@ -11612,7 +11611,7 @@
       "player_team_id": "HOU",
       "player_yahoo_id": "42361",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB226",
+      "pos_rank": "CB225",
       "rank_ecr": 509,
       "sportsdata_id": "4a8f6ad0-255b-11f0-9086-8b7ff6c4841b",
       "tier": 11
@@ -11635,32 +11634,32 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "42142",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB227",
+      "pos_rank": "CB226",
       "rank_ecr": 510,
       "sportsdata_id": "9c77de40-23cb-11f0-ba1d-ad6924f0cecc",
       "tier": 11
     },
     {
-      "cbs_player_id": "2830003",
-      "player_bye_week": "14",
-      "player_ecr_delta": -14,
+      "cbs_player_id": "2867264",
+      "player_bye_week": "10",
+      "player_ecr_delta": 12,
       "player_eligibility": "CB",
-      "player_filename": "daron-bland.php",
-      "player_id": 24551,
-      "player_name": "DaRon Bland",
-      "player_owned_avg": 20.6,
-      "player_owned_espn": 33.3,
-      "player_owned_yahoo": 11,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/daron-bland.php",
+      "player_filename": "zyon-mccollum.php",
+      "player_id": 24498,
+      "player_name": "Zyon McCollum",
+      "player_owned_avg": 8.2,
+      "player_owned_espn": 11,
+      "player_owned_yahoo": 5,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/zyon-mccollum.php",
       "player_position_id": "CB",
       "player_positions": "CB",
-      "player_short_name": "D. Bland",
-      "player_team_id": "DAL",
-      "player_yahoo_id": "34123",
+      "player_short_name": "Z. McCollum",
+      "player_team_id": "TB",
+      "player_yahoo_id": "34113",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB228",
+      "pos_rank": "CB227",
       "rank_ecr": 511,
-      "sportsdata_id": "5c2a334e-5fe6-4434-ac23-6b252356c48b",
+      "sportsdata_id": "76d1f310-5877-42d1-99b2-b9ab4b8d826b",
       "tier": 8
     },
     {
@@ -11681,7 +11680,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "41124",
       "player_yahoo_positions": "DB,CB",
-      "pos_rank": "CB229",
+      "pos_rank": "CB228",
       "rank_ecr": 512,
       "sportsdata_id": "4c467662-7d7c-4a5f-b453-b0c871c72d8b",
       "tier": 11
@@ -11704,7 +11703,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "42934",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB230",
+      "pos_rank": "CB229",
       "rank_ecr": 513,
       "sportsdata_id": "d6066da0-41a9-11f1-a265-01abfcf61716",
       "tier": 11
@@ -11727,7 +11726,7 @@
       "player_team_id": "NYJ",
       "player_yahoo_id": "42227",
       "player_yahoo_positions": "S",
-      "pos_rank": "CB231",
+      "pos_rank": "CB230",
       "rank_ecr": 514,
       "sportsdata_id": "50b0d800-2500-11f0-8ae1-fb7a38cec501",
       "tier": 11
@@ -11750,7 +11749,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "33012",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB232",
+      "pos_rank": "CB231",
       "rank_ecr": 515,
       "sportsdata_id": "e8b1322a-6162-4535-b6af-4ca60ce8b09c",
       "tier": 11
@@ -11773,32 +11772,32 @@
       "player_team_id": "GB",
       "player_yahoo_id": "42823",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB233",
+      "pos_rank": "CB232",
       "rank_ecr": 516,
       "sportsdata_id": "026dd00d-8aa0-488f-bee5-f7593eee0579",
       "tier": 11
     },
     {
-      "cbs_player_id": "2975557",
-      "player_bye_week": "11",
-      "player_ecr_delta": -16,
+      "cbs_player_id": "2830003",
+      "player_bye_week": "14",
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
-      "player_filename": "tyson-campbell.php",
-      "player_id": 22706,
-      "player_name": "Tyson Campbell",
-      "player_owned_avg": 22.5,
-      "player_owned_espn": 38.8,
-      "player_owned_yahoo": 14,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/tyson-campbell.php",
+      "player_filename": "daron-bland.php",
+      "player_id": 24551,
+      "player_name": "DaRon Bland",
+      "player_owned_avg": 20.6,
+      "player_owned_espn": 33.3,
+      "player_owned_yahoo": 11,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/daron-bland.php",
       "player_position_id": "CB",
       "player_positions": "CB",
-      "player_short_name": "T. Campbell",
-      "player_team_id": "CLE",
-      "player_yahoo_id": "33421",
+      "player_short_name": "D. Bland",
+      "player_team_id": "DAL",
+      "player_yahoo_id": "34123",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB234",
+      "pos_rank": "CB233",
       "rank_ecr": 517,
-      "sportsdata_id": "a887ad59-0e4b-4a9a-a7e4-cfd9f42fe7fb",
+      "sportsdata_id": "5c2a334e-5fe6-4434-ac23-6b252356c48b",
       "tier": 8
     },
     {
@@ -11819,7 +11818,7 @@
       "player_team_id": "LV",
       "player_yahoo_id": "42309",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB235",
+      "pos_rank": "CB234",
       "rank_ecr": 518,
       "sportsdata_id": "e2d06080-254a-11f0-bf93-999a1fb5633c",
       "tier": 11
@@ -11911,7 +11910,7 @@
       "player_team_id": "LV",
       "player_yahoo_id": "41225",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB236",
+      "pos_rank": "CB235",
       "rank_ecr": 522,
       "sportsdata_id": "eb6d2aa0-065d-11ef-89e4-19bb3aa6e36f",
       "tier": 11
@@ -11957,7 +11956,7 @@
       "player_team_id": "WAS",
       "player_yahoo_id": "29957",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB237",
+      "pos_rank": "CB236",
       "rank_ecr": 524,
       "sportsdata_id": "9bc107dc-1920-49db-b009-436d1a77955d",
       "tier": 11
@@ -11980,7 +11979,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "40960",
       "player_yahoo_positions": "DB,CB",
-      "pos_rank": "CB238",
+      "pos_rank": "CB237",
       "rank_ecr": 525,
       "sportsdata_id": "6e1e18d1-3dab-4333-aa02-97354d316c6f",
       "tier": 11
@@ -12009,26 +12008,26 @@
       "tier": 11
     },
     {
-      "cbs_player_id": "2179388",
-      "player_bye_week": "5",
-      "player_ecr_delta": -13,
+      "cbs_player_id": "2975557",
+      "player_bye_week": "11",
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
-      "player_filename": "michael-jackson-cb.php",
-      "player_id": 18637,
-      "player_name": "Mike Jackson Sr.",
-      "player_owned_avg": 14.4,
-      "player_owned_espn": 7.3,
-      "player_owned_yahoo": 16,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/michael-jackson-cb.php",
+      "player_filename": "tyson-campbell.php",
+      "player_id": 22706,
+      "player_name": "Tyson Campbell",
+      "player_owned_avg": 22.5,
+      "player_owned_espn": 38.8,
+      "player_owned_yahoo": 14,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/tyson-campbell.php",
       "player_position_id": "CB",
       "player_positions": "CB",
-      "player_short_name": "M. Jackson Sr.",
-      "player_team_id": "CAR",
-      "player_yahoo_id": "31990",
+      "player_short_name": "T. Campbell",
+      "player_team_id": "CLE",
+      "player_yahoo_id": "33421",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB239",
+      "pos_rank": "CB238",
       "rank_ecr": 527,
-      "sportsdata_id": "63fd7882-5d20-426e-9834-e85c0ebb4d5b",
+      "sportsdata_id": "a887ad59-0e4b-4a9a-a7e4-cfd9f42fe7fb",
       "tier": 8
     },
     {
@@ -12049,7 +12048,7 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "31978",
       "player_yahoo_positions": "DB,CB",
-      "pos_rank": "CB240",
+      "pos_rank": "CB239",
       "rank_ecr": 528,
       "sportsdata_id": "3e4c9bb7-6ff1-4bf8-bc25-cd6717ddf568",
       "tier": 11
@@ -12072,7 +12071,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "34177",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB241",
+      "pos_rank": "CB240",
       "rank_ecr": 529,
       "sportsdata_id": "2eb34969-3de2-454f-a822-bf1908dabcaa",
       "tier": 11
@@ -12095,7 +12094,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "41931",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB242",
+      "pos_rank": "CB241",
       "rank_ecr": 530,
       "sportsdata_id": "c603e45d-8112-4553-be24-42c3e0d858b5",
       "tier": 11
@@ -12124,6 +12123,29 @@
       "tier": 11
     },
     {
+      "cbs_player_id": "2179388",
+      "player_bye_week": "5",
+      "player_ecr_delta": null,
+      "player_eligibility": "CB",
+      "player_filename": "michael-jackson-cb.php",
+      "player_id": 18637,
+      "player_name": "Mike Jackson Sr.",
+      "player_owned_avg": 14.4,
+      "player_owned_espn": 7.3,
+      "player_owned_yahoo": 16,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/michael-jackson-cb.php",
+      "player_position_id": "CB",
+      "player_positions": "CB",
+      "player_short_name": "M. Jackson Sr.",
+      "player_team_id": "CAR",
+      "player_yahoo_id": "31990",
+      "player_yahoo_positions": "CB",
+      "pos_rank": "CB242",
+      "rank_ecr": 532,
+      "sportsdata_id": "63fd7882-5d20-426e-9834-e85c0ebb4d5b",
+      "tier": 8
+    },
+    {
       "cbs_player_id": "1996523",
       "player_bye_week": "11",
       "player_ecr_delta": null,
@@ -12142,30 +12164,8 @@
       "player_yahoo_id": "28394",
       "player_yahoo_positions": "DL,DT,DE",
       "pos_rank": "DT5",
-      "rank_ecr": 532,
-      "sportsdata_id": "2b5152aa-cbcc-439c-b72a-ac7577c8422b"
-    },
-    {
-      "cbs_player_id": "2182263",
-      "player_bye_week": "13",
-      "player_ecr_delta": null,
-      "player_eligibility": "LB",
-      "player_filename": "akeem-davis-gaither.php",
-      "player_id": 19261,
-      "player_name": "Akeem Davis-Gaither",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/akeem-davis-gaither.php",
-      "player_position_id": "LB",
-      "player_positions": "LB",
-      "player_short_name": "A. Davis-Gaither",
-      "player_team_id": "IND",
-      "player_yahoo_id": "32777",
-      "player_yahoo_positions": "LB",
-      "pos_rank": "LB73",
       "rank_ecr": 533,
-      "sportsdata_id": "d152b2d5-402d-47f4-a6d1-7870e5a32df5"
+      "sportsdata_id": "2b5152aa-cbcc-439c-b72a-ac7577c8422b"
     },
     {
       "cbs_player_id": "2829833",
@@ -12283,6 +12283,28 @@
       "tier": 11
     },
     {
+      "cbs_player_id": "2182263",
+      "player_bye_week": "13",
+      "player_ecr_delta": null,
+      "player_eligibility": "LB",
+      "player_filename": "akeem-davis-gaither.php",
+      "player_id": 19261,
+      "player_name": "Akeem Davis-Gaither",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/akeem-davis-gaither.php",
+      "player_position_id": "LB",
+      "player_positions": "LB",
+      "player_short_name": "A. Davis-Gaither",
+      "player_team_id": "IND",
+      "player_yahoo_id": "32777",
+      "player_yahoo_positions": "LB",
+      "pos_rank": "LB74",
+      "rank_ecr": 539,
+      "sportsdata_id": "d152b2d5-402d-47f4-a6d1-7870e5a32df5"
+    },
+    {
       "cbs_player_id": "2179346",
       "player_bye_week": "11",
       "player_ecr_delta": null,
@@ -12301,7 +12323,7 @@
       "player_yahoo_id": "31000",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB247",
-      "rank_ecr": 539,
+      "rank_ecr": 540,
       "sportsdata_id": "1f181c47-ad84-4758-a295-4c4f5c56120f",
       "tier": 9
     },
@@ -12323,8 +12345,8 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "34031",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB74",
-      "rank_ecr": 540,
+      "pos_rank": "LB75",
+      "rank_ecr": 541,
       "sportsdata_id": "54bd7952-4bec-4b5a-beb0-d65421408293"
     },
     {
@@ -12346,31 +12368,8 @@
       "player_yahoo_id": "31835",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT6",
-      "rank_ecr": 541,
-      "sportsdata_id": "b8e0fa49-1122-4e97-9fe2-d90f6b7cb444"
-    },
-    {
-      "cbs_player_id": "3176898",
-      "player_bye_week": "11",
-      "player_ecr_delta": null,
-      "player_eligibility": "CB",
-      "player_filename": "jaylen-watson.php",
-      "player_id": 24291,
-      "player_name": "Jaylen Watson",
-      "player_owned_avg": 4.2,
-      "player_owned_espn": 4.9,
-      "player_owned_yahoo": 1,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/jaylen-watson.php",
-      "player_position_id": "CB",
-      "player_positions": "CB",
-      "player_short_name": "J. Watson",
-      "player_team_id": "LAR",
-      "player_yahoo_id": "34199",
-      "player_yahoo_positions": "CB",
-      "pos_rank": "CB248",
       "rank_ecr": 542,
-      "sportsdata_id": "938beb66-29b3-4bf5-ac8e-1b36d21fdcde",
-      "tier": 9
+      "sportsdata_id": "b8e0fa49-1122-4e97-9fe2-d90f6b7cb444"
     },
     {
       "cbs_player_id": "28887515",
@@ -12390,15 +12389,38 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "41992",
       "player_yahoo_positions": "CB",
-      "pos_rank": "CB249",
+      "pos_rank": "CB248",
       "rank_ecr": 543,
       "sportsdata_id": "befc6f0c-3f07-4852-b719-01ae6cb1dc7d",
       "tier": 11
     },
     {
+      "cbs_player_id": "3176898",
+      "player_bye_week": "11",
+      "player_ecr_delta": null,
+      "player_eligibility": "CB",
+      "player_filename": "jaylen-watson.php",
+      "player_id": 24291,
+      "player_name": "Jaylen Watson",
+      "player_owned_avg": 4.2,
+      "player_owned_espn": 4.9,
+      "player_owned_yahoo": 1,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/jaylen-watson.php",
+      "player_position_id": "CB",
+      "player_positions": "CB",
+      "player_short_name": "J. Watson",
+      "player_team_id": "LAR",
+      "player_yahoo_id": "34199",
+      "player_yahoo_positions": "CB",
+      "pos_rank": "CB249",
+      "rank_ecr": 544,
+      "sportsdata_id": "938beb66-29b3-4bf5-ac8e-1b36d21fdcde",
+      "tier": 9
+    },
+    {
       "cbs_player_id": "2251384",
       "player_bye_week": "6",
-      "player_ecr_delta": -11,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "byron-murphy.php",
       "player_id": 18220,
@@ -12414,7 +12436,7 @@
       "player_yahoo_id": "31865",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB250",
-      "rank_ecr": 544,
+      "rank_ecr": 545,
       "sportsdata_id": "c025b513-9431-4097-bc25-9777bf08f846",
       "tier": 8
     },
@@ -12437,7 +12459,7 @@
       "player_yahoo_id": "33976",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB251",
-      "rank_ecr": 545,
+      "rank_ecr": 546,
       "sportsdata_id": "358bda61-ccb6-443a-a51c-3b14b3cadf22",
       "tier": 8
     },
@@ -12460,7 +12482,7 @@
       "player_yahoo_id": "31033",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB252",
-      "rank_ecr": 546,
+      "rank_ecr": 547,
       "sportsdata_id": "2df83b38-7b2b-4aea-91ee-bfc5974486a1",
       "tier": 9
     },
@@ -12482,8 +12504,8 @@
       "player_team_id": "DET",
       "player_yahoo_id": "33501",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB75",
-      "rank_ecr": 547,
+      "pos_rank": "LB76",
+      "rank_ecr": 548,
       "sportsdata_id": "16c53e66-de15-43da-931c-bf3a3e056505"
     },
     {
@@ -12505,7 +12527,7 @@
       "player_yahoo_id": "34065",
       "player_yahoo_positions": "S",
       "pos_rank": "CB253",
-      "rank_ecr": 548,
+      "rank_ecr": 549,
       "sportsdata_id": "e3de03f1-d749-4232-bf98-5ab9ba36df65",
       "tier": 7
     },
@@ -12528,14 +12550,14 @@
       "player_yahoo_id": "33560",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB254",
-      "rank_ecr": 549,
+      "rank_ecr": 550,
       "sportsdata_id": "d24bbe70-baba-4337-822e-c166a156f92e",
       "tier": 9
     },
     {
       "cbs_player_id": "3166700",
       "player_bye_week": "11",
-      "player_ecr_delta": 9,
+      "player_ecr_delta": 15,
       "player_eligibility": "CB",
       "player_filename": "christian-gonzalez.php",
       "player_id": 25238,
@@ -12551,7 +12573,7 @@
       "player_yahoo_id": "40052",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB255",
-      "rank_ecr": 550,
+      "rank_ecr": 551,
       "sportsdata_id": "e847f127-f5f4-41a0-87bb-b89e546e0df4",
       "tier": 8
     },
@@ -12574,7 +12596,7 @@
       "player_yahoo_id": "31208",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT7",
-      "rank_ecr": 551,
+      "rank_ecr": 552,
       "sportsdata_id": "c85c0efc-3391-4a8e-b8a4-370b32fd09ce"
     },
     {
@@ -12596,7 +12618,7 @@
       "player_yahoo_id": "31293",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB256",
-      "rank_ecr": 552,
+      "rank_ecr": 553,
       "sportsdata_id": "04f6abef-834f-470e-9c15-8c0cc62fde4e",
       "tier": 9
     },
@@ -12619,7 +12641,7 @@
       "player_yahoo_id": "40928",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB257",
-      "rank_ecr": 553,
+      "rank_ecr": 554,
       "sportsdata_id": "2b93704f-fab1-40b3-b13e-07d85303bb25",
       "tier": 9
     },
@@ -12642,14 +12664,14 @@
       "player_yahoo_id": "41812",
       "player_yahoo_positions": "S",
       "pos_rank": "S191",
-      "rank_ecr": 554,
+      "rank_ecr": 555,
       "sportsdata_id": "5a92d12b-a8df-47fb-9d07-93a042702a36",
       "tier": 6
     },
     {
       "cbs_player_id": "26699623",
       "player_bye_week": "6",
-      "player_ecr_delta": 18,
+      "player_ecr_delta": 9,
       "player_eligibility": "S",
       "player_filename": "dante-trader.php",
       "player_id": 27090,
@@ -12665,14 +12687,14 @@
       "player_yahoo_id": "41941",
       "player_yahoo_positions": "S",
       "pos_rank": "S192",
-      "rank_ecr": 555,
+      "rank_ecr": 556,
       "sportsdata_id": "a4eabafc-a847-4a0d-8f67-28d3b422c14f",
       "tier": 8
     },
     {
       "cbs_player_id": "1737117",
       "player_bye_week": "7",
-      "player_ecr_delta": 22,
+      "player_ecr_delta": 28,
       "player_eligibility": "S",
       "player_filename": "tony-jefferson.php",
       "player_id": 11769,
@@ -12688,14 +12710,14 @@
       "player_yahoo_id": "27081",
       "player_yahoo_positions": "S",
       "pos_rank": "S193",
-      "rank_ecr": 556,
+      "rank_ecr": 557,
       "sportsdata_id": "7690ab6a-2ae0-4449-abd5-74ec54403f2e",
       "tier": 9
     },
     {
       "cbs_player_id": "3127716",
       "player_bye_week": "11",
-      "player_ecr_delta": 11,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "craig-woodson.php",
       "player_id": 27242,
@@ -12711,14 +12733,14 @@
       "player_yahoo_id": "41897",
       "player_yahoo_positions": "S",
       "pos_rank": "S194",
-      "rank_ecr": 557,
+      "rank_ecr": 558,
       "sportsdata_id": "2ed92c83-4e76-4632-abb8-704a2c6c6a2c",
       "tier": 7
     },
     {
       "cbs_player_id": "26699779",
       "player_bye_week": "13",
-      "player_ecr_delta": -23,
+      "player_ecr_delta": -15,
       "player_eligibility": "CB",
       "player_filename": "nate-wiggins.php",
       "player_id": 26100,
@@ -12734,14 +12756,14 @@
       "player_yahoo_id": "40886",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB258",
-      "rank_ecr": 558,
+      "rank_ecr": 559,
       "sportsdata_id": "f6731363-93ed-4717-910c-317648e93139",
       "tier": 9
     },
     {
       "cbs_player_id": "3116813",
       "player_bye_week": "11",
-      "player_ecr_delta": -16,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "keisean-nixon.php",
       "player_id": 18495,
@@ -12757,7 +12779,7 @@
       "player_yahoo_id": "32348",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB259",
-      "rank_ecr": 559,
+      "rank_ecr": 560,
       "sportsdata_id": "e94ac14d-0122-4dc8-ad20-b71226cb8cfe",
       "tier": 9
     },
@@ -12780,7 +12802,7 @@
       "player_yahoo_id": "33956",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE24",
-      "rank_ecr": 560,
+      "rank_ecr": 561,
       "sportsdata_id": "23664980-63a6-4a63-b662-807fcd886f6f"
     },
     {
@@ -12802,14 +12824,14 @@
       "player_yahoo_id": "34178",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB260",
-      "rank_ecr": 561,
+      "rank_ecr": 562,
       "sportsdata_id": "ce4e14db-c509-4a67-9898-ecf64b5ef795",
       "tier": 9
     },
     {
       "cbs_player_id": "3162769",
       "player_bye_week": "7",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -7,
       "player_eligibility": "S",
       "player_filename": "antonio-johnson-cb.php",
       "player_id": 24719,
@@ -12825,14 +12847,14 @@
       "player_yahoo_id": "40166",
       "player_yahoo_positions": "S",
       "pos_rank": "S195",
-      "rank_ecr": 562,
+      "rank_ecr": 563,
       "sportsdata_id": "078c2a41-ec84-4425-b64e-8d92cee16305",
       "tier": 7
     },
     {
       "cbs_player_id": "2869797",
       "player_bye_week": "6",
-      "player_ecr_delta": -7,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "bryan-cook.php",
       "player_id": 23854,
@@ -12848,7 +12870,7 @@
       "player_yahoo_id": "34018",
       "player_yahoo_positions": "S",
       "pos_rank": "S196",
-      "rank_ecr": 563,
+      "rank_ecr": 564,
       "sportsdata_id": "21a56bce-7c06-44d7-b641-99f499111739",
       "tier": 7
     },
@@ -12871,7 +12893,7 @@
       "player_yahoo_id": "33959",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB261",
-      "rank_ecr": 564,
+      "rank_ecr": 565,
       "sportsdata_id": "9c32f8cb-807a-4864-bc0b-b846d279606d",
       "tier": 10
     },
@@ -12894,7 +12916,7 @@
       "player_yahoo_id": "40572",
       "player_yahoo_positions": "DT",
       "pos_rank": "DE25",
-      "rank_ecr": 565,
+      "rank_ecr": 566,
       "sportsdata_id": "15a85030-ec59-11ed-ae91-5be3a63bf6e6"
     },
     {
@@ -12916,7 +12938,7 @@
       "player_yahoo_id": "33945",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB262",
-      "rank_ecr": 566,
+      "rank_ecr": 567,
       "sportsdata_id": "8584c710-7259-11ec-80bb-7f28873a7ba2",
       "tier": 10
     },
@@ -12939,7 +12961,7 @@
       "player_yahoo_id": "40089",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB263",
-      "rank_ecr": 567,
+      "rank_ecr": 568,
       "sportsdata_id": "fbc596af-8abd-466f-9c01-7a38d11eb7a4",
       "tier": 10
     },
@@ -12962,7 +12984,7 @@
       "player_yahoo_id": "40115",
       "player_yahoo_positions": "DL,DE",
       "pos_rank": "DE26",
-      "rank_ecr": 568,
+      "rank_ecr": 569,
       "sportsdata_id": "9d1624c5-958f-42ec-965d-f6dbb85e0401"
     },
     {
@@ -12984,7 +13006,7 @@
       "player_yahoo_id": "41849",
       "player_yahoo_positions": "S",
       "pos_rank": "S197",
-      "rank_ecr": 569,
+      "rank_ecr": 570,
       "sportsdata_id": "0cb34ce3-42de-42d3-88a4-d242e43b2e34",
       "tier": 9
     },
@@ -13007,7 +13029,7 @@
       "player_yahoo_id": "33958",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB264",
-      "rank_ecr": 570,
+      "rank_ecr": 571,
       "sportsdata_id": "825de16d-4843-4c6d-80c2-da7c3191c542",
       "tier": 10
     },
@@ -13030,7 +13052,7 @@
       "player_yahoo_id": "34141",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB265",
-      "rank_ecr": 571,
+      "rank_ecr": 572,
       "sportsdata_id": "7c1aa6c9-6548-4192-b8aa-3749cab84b84",
       "tier": 10
     },
@@ -13053,7 +13075,7 @@
       "player_yahoo_id": "40035",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT8",
-      "rank_ecr": 572,
+      "rank_ecr": 573,
       "sportsdata_id": "1c443cd8-b9ad-4676-9a8e-8cee52b07637"
     },
     {
@@ -13074,8 +13096,8 @@
       "player_team_id": "LAR",
       "player_yahoo_id": "41449",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB76",
-      "rank_ecr": 573,
+      "pos_rank": "LB77",
+      "rank_ecr": 574,
       "sportsdata_id": "c24e8e40-07c3-11ef-b253-11c65affe8a4"
     },
     {
@@ -13097,14 +13119,14 @@
       "player_yahoo_id": "33396",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB266",
-      "rank_ecr": 574,
+      "rank_ecr": 575,
       "sportsdata_id": "90b71985-5235-4d5a-b95a-405129be496f",
       "tier": 10
     },
     {
       "cbs_player_id": "2963562",
       "player_bye_week": "13",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -10,
       "player_eligibility": "S",
       "player_filename": "andre-cisco.php",
       "player_id": 22715,
@@ -13120,7 +13142,7 @@
       "player_yahoo_id": "33453",
       "player_yahoo_positions": "S",
       "pos_rank": "S198",
-      "rank_ecr": 575,
+      "rank_ecr": 576,
       "sportsdata_id": "250da6c8-2222-4438-9800-60d7bbb449d7",
       "tier": 9
     },
@@ -13143,7 +13165,7 @@
       "player_yahoo_id": "33488",
       "player_yahoo_positions": "S,CB",
       "pos_rank": "CB267",
-      "rank_ecr": 576,
+      "rank_ecr": 577,
       "sportsdata_id": "0224c851-7e91-4e93-9bf8-89a8d72c55ef",
       "tier": 9
     },
@@ -13166,7 +13188,7 @@
       "player_yahoo_id": "40973",
       "player_yahoo_positions": "S",
       "pos_rank": "S199",
-      "rank_ecr": 577,
+      "rank_ecr": 578,
       "sportsdata_id": "c4c31524-3ac6-4337-bd99-4085f92d4a13",
       "tier": 7
     },
@@ -13189,7 +13211,7 @@
       "player_yahoo_id": "30205",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB268",
-      "rank_ecr": 578,
+      "rank_ecr": 579,
       "sportsdata_id": "7ff68f1d-204c-4d49-9179-ecb2514094dc",
       "tier": 9
     },
@@ -13212,7 +13234,7 @@
       "player_yahoo_id": "40895",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT9",
-      "rank_ecr": 579,
+      "rank_ecr": 580,
       "sportsdata_id": "d7cd56ba-a624-4149-83d0-a2c66df65804"
     },
     {
@@ -13234,7 +13256,7 @@
       "player_yahoo_id": "40135",
       "player_yahoo_positions": "LB",
       "pos_rank": "DE27",
-      "rank_ecr": 580,
+      "rank_ecr": 581,
       "sportsdata_id": "2d4593e4-b908-4b29-a88a-835d2566781f"
     },
     {
@@ -13256,13 +13278,13 @@
       "player_yahoo_id": "34034",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE28",
-      "rank_ecr": 581,
+      "rank_ecr": 582,
       "sportsdata_id": "1e3d482b-e619-4245-bc4e-b347b47dfeba"
     },
     {
       "cbs_player_id": "2261288",
       "player_bye_week": "6",
-      "player_ecr_delta": -31,
+      "player_ecr_delta": -23,
       "player_eligibility": "CB",
       "player_filename": "dj-reed.php",
       "player_id": 17375,
@@ -13278,7 +13300,7 @@
       "player_yahoo_id": "31112",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB269",
-      "rank_ecr": 582,
+      "rank_ecr": 583,
       "sportsdata_id": "17664e93-8236-4eb0-9505-4e71f43b5a7d",
       "tier": 10
     },
@@ -13301,7 +13323,7 @@
       "player_yahoo_id": "33492",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB270",
-      "rank_ecr": 583,
+      "rank_ecr": 584,
       "sportsdata_id": "c30da9e4-f0d5-472f-9c20-45f2bc7eaa54",
       "tier": 10
     },
@@ -13323,8 +13345,8 @@
       "player_team_id": "TB",
       "player_yahoo_id": "42668",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB77",
-      "rank_ecr": 584,
+      "pos_rank": "LB78",
+      "rank_ecr": 585,
       "sportsdata_id": "58320436-f09f-41b8-9179-4076cd3e136b"
     },
     {
@@ -13345,8 +13367,8 @@
       "player_team_id": "CHI",
       "player_yahoo_id": "34117",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB78",
-      "rank_ecr": 585,
+      "pos_rank": "LB79",
+      "rank_ecr": 586,
       "sportsdata_id": "64326335-69b6-4dff-9e02-42b8e2a5bd8d"
     },
     {
@@ -13368,7 +13390,7 @@
       "player_yahoo_id": "41051",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB271",
-      "rank_ecr": 586,
+      "rank_ecr": 587,
       "sportsdata_id": "a28d9b86-30ec-40be-98bc-48089b23ba9c",
       "tier": 11
     },
@@ -13391,7 +13413,7 @@
       "player_yahoo_id": "41936",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB272",
-      "rank_ecr": 587,
+      "rank_ecr": 588,
       "sportsdata_id": "93c12de7-1d9c-44a3-aaf4-0382eae0d917",
       "tier": 11
     },
@@ -13414,14 +13436,14 @@
       "player_yahoo_id": "31886",
       "player_yahoo_positions": "S,CB",
       "pos_rank": "CB273",
-      "rank_ecr": 588,
+      "rank_ecr": 589,
       "sportsdata_id": "acbf5978-d7da-4d01-8f1d-22dd65d4484c",
       "tier": 11
     },
     {
       "cbs_player_id": "2962842",
       "player_bye_week": "10",
-      "player_ecr_delta": 9,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "kyler-gordon.php",
       "player_id": 23765,
@@ -13437,7 +13459,7 @@
       "player_yahoo_id": "33994",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB274",
-      "rank_ecr": 589,
+      "rank_ecr": 590,
       "sportsdata_id": "85ce588a-b747-4307-84ee-f987f3abf456",
       "tier": 7
     },
@@ -13459,14 +13481,14 @@
       "player_team_id": "DEN",
       "player_yahoo_id": "32848",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB79",
-      "rank_ecr": 590,
+      "pos_rank": "LB80",
+      "rank_ecr": 591,
       "sportsdata_id": "f8f0760e-8f04-45bf-9371-fa33c945bc1c"
     },
     {
       "cbs_player_id": "3161516",
       "player_bye_week": "8",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -7,
       "player_eligibility": "CB",
       "player_filename": "upton-stout.php",
       "player_id": 27246,
@@ -13482,7 +13504,7 @@
       "player_yahoo_id": "41884",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB275",
-      "rank_ecr": 591,
+      "rank_ecr": 592,
       "sportsdata_id": "c2e8a5f9-98db-4f9d-8720-c919db450134",
       "tier": 8
     },
@@ -13505,7 +13527,7 @@
       "player_yahoo_id": "33424",
       "player_yahoo_positions": "S",
       "pos_rank": "S200",
-      "rank_ecr": 592,
+      "rank_ecr": 593,
       "sportsdata_id": "30915dd4-f19f-48cd-8425-f2cf29246b66",
       "tier": 6
     },
@@ -13528,7 +13550,7 @@
       "player_yahoo_id": "30128",
       "player_yahoo_positions": "S",
       "pos_rank": "S201",
-      "rank_ecr": 593,
+      "rank_ecr": 594,
       "sportsdata_id": "3cb26a5c-9c90-46ad-b539-e29ad6934e30",
       "tier": 11
     },
@@ -13551,31 +13573,9 @@
       "player_yahoo_id": "40147",
       "player_yahoo_positions": "S",
       "pos_rank": "CB276",
-      "rank_ecr": 594,
+      "rank_ecr": 595,
       "sportsdata_id": "7d06db84-b31e-4b68-a6cc-93fb87763a7f",
       "tier": 11
-    },
-    {
-      "cbs_player_id": "2249188",
-      "player_bye_week": "13",
-      "player_ecr_delta": null,
-      "player_eligibility": "DT,DE",
-      "player_filename": "justin-madubuike.php",
-      "player_id": 19272,
-      "player_name": "Nnamdi Madubuike",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/justin-madubuike.php",
-      "player_position_id": "DT",
-      "player_positions": "DT",
-      "player_short_name": "N. Madubuike",
-      "player_team_id": "BAL",
-      "player_yahoo_id": "32741",
-      "player_yahoo_positions": "DT,DE",
-      "pos_rank": "DT10",
-      "rank_ecr": 595,
-      "sportsdata_id": "904f702b-e8b1-4fef-a4a0-278d18cc15e3"
     },
     {
       "cbs_player_id": "3177340",
@@ -13601,6 +13601,28 @@
       "tier": 11
     },
     {
+      "cbs_player_id": "2249188",
+      "player_bye_week": "13",
+      "player_ecr_delta": null,
+      "player_eligibility": "DT,DE",
+      "player_filename": "justin-madubuike.php",
+      "player_id": 19272,
+      "player_name": "Nnamdi Madubuike",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/justin-madubuike.php",
+      "player_position_id": "DT",
+      "player_positions": "DT",
+      "player_short_name": "N. Madubuike",
+      "player_team_id": "BAL",
+      "player_yahoo_id": "32741",
+      "player_yahoo_positions": "DT,DE",
+      "pos_rank": "DT10",
+      "rank_ecr": 597,
+      "sportsdata_id": "904f702b-e8b1-4fef-a4a0-278d18cc15e3"
+    },
+    {
       "cbs_player_id": "3123028",
       "player_bye_week": "9",
       "player_ecr_delta": null,
@@ -13619,7 +13641,7 @@
       "player_yahoo_id": "33981",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE29",
-      "rank_ecr": 597,
+      "rank_ecr": 598,
       "sportsdata_id": "ca361691-b2ce-410f-9d96-2d18b8b48b4b"
     },
     {
@@ -13641,7 +13663,7 @@
       "player_yahoo_id": "30982",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT11",
-      "rank_ecr": 598,
+      "rank_ecr": 599,
       "sportsdata_id": "503eb9a7-83ed-4b96-b0f2-7afe4920bde9"
     },
     {
@@ -13663,7 +13685,7 @@
       "player_yahoo_id": "31105",
       "player_yahoo_positions": "DL,DE",
       "pos_rank": "DE30",
-      "rank_ecr": 599,
+      "rank_ecr": 600,
       "sportsdata_id": "e08d71dd-58d9-4295-bcf8-9a6faf59c333"
     },
     {
@@ -13685,7 +13707,7 @@
       "player_yahoo_id": "33983",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT12",
-      "rank_ecr": 600,
+      "rank_ecr": 601,
       "sportsdata_id": "5250f409-d4d7-48ac-adf4-35c3561ffad1"
     },
     {
@@ -13707,7 +13729,7 @@
       "player_yahoo_id": "29301",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT13",
-      "rank_ecr": 601,
+      "rank_ecr": 602,
       "sportsdata_id": "54f13aa1-4a2f-46a3-99ef-743c1d3ee234"
     },
     {
@@ -13729,7 +13751,7 @@
       "player_yahoo_id": "29280",
       "player_yahoo_positions": "DL,DT,DE",
       "pos_rank": "DT14",
-      "rank_ecr": 602,
+      "rank_ecr": 603,
       "sportsdata_id": "3f44e069-a9c7-40dc-bfa9-cd403ee9cdbd"
     },
     {
@@ -13751,7 +13773,7 @@
       "player_yahoo_id": "30130",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT15",
-      "rank_ecr": 603,
+      "rank_ecr": 604,
       "sportsdata_id": "5ba11bd2-e764-4dea-98e1-dad01a21cdd3"
     },
     {
@@ -13773,7 +13795,7 @@
       "player_yahoo_id": "31841",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT16",
-      "rank_ecr": 604,
+      "rank_ecr": 605,
       "sportsdata_id": "adabdc56-278f-48b9-a003-1329b7f2f663"
     },
     {
@@ -13794,14 +13816,14 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "40098",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB80",
-      "rank_ecr": 605,
+      "pos_rank": "LB81",
+      "rank_ecr": 606,
       "sportsdata_id": "2d51bf60-ea75-4142-a00a-8b152a91e59f"
     },
     {
       "cbs_player_id": "2866110",
       "player_bye_week": "11",
-      "player_ecr_delta": -19,
+      "player_ecr_delta": -11,
       "player_eligibility": "CB",
       "player_filename": "marcus-jones.php",
       "player_id": 23890,
@@ -13817,14 +13839,14 @@
       "player_yahoo_id": "34041",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB278",
-      "rank_ecr": 606,
+      "rank_ecr": 607,
       "sportsdata_id": "aec385c3-426d-41ff-927e-450ef2b23f04",
       "tier": 9
     },
     {
       "cbs_player_id": "28899124",
       "player_bye_week": "10",
-      "player_ecr_delta": -16,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "jacob-parrish.php",
       "player_id": 27257,
@@ -13840,7 +13862,7 @@
       "player_yahoo_id": "41869",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB279",
-      "rank_ecr": 607,
+      "rank_ecr": 608,
       "sportsdata_id": "5c292ee4-9ffa-4ee3-afe6-d7ce5001b003",
       "tier": 9
     },
@@ -13862,8 +13884,8 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "31844",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB81",
-      "rank_ecr": 608,
+      "pos_rank": "LB82",
+      "rank_ecr": 609,
       "sportsdata_id": "99847f76-5bf2-4cbe-8573-9a477f7fb472"
     },
     {
@@ -13885,7 +13907,7 @@
       "player_yahoo_id": "41790",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT17",
-      "rank_ecr": 609,
+      "rank_ecr": 610,
       "sportsdata_id": "5efacd9e-be9e-4711-8101-e5579ba3274f"
     },
     {
@@ -13907,7 +13929,7 @@
       "player_yahoo_id": "24811",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE31",
-      "rank_ecr": 610,
+      "rank_ecr": 611,
       "sportsdata_id": "543e5e1e-50e5-482d-a6ad-498d7fab497e"
     },
     {
@@ -13929,7 +13951,7 @@
       "player_yahoo_id": "30974",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB280",
-      "rank_ecr": 611,
+      "rank_ecr": 612,
       "sportsdata_id": "aefdc3d3-0851-4782-b298-f06f137d42c9",
       "tier": 11
     },
@@ -13952,7 +13974,7 @@
       "player_yahoo_id": "41960",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB281",
-      "rank_ecr": 612,
+      "rank_ecr": 613,
       "sportsdata_id": "51d70da6-cd09-4f2d-8b1a-1a458bea1d8a",
       "tier": 11
     },
@@ -13975,7 +13997,7 @@
       "player_yahoo_id": "41801",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT18",
-      "rank_ecr": 613,
+      "rank_ecr": 614,
       "sportsdata_id": "ec3a8edd-eda6-4cff-bd71-088a105f8a5a"
     },
     {
@@ -13997,7 +14019,7 @@
       "player_yahoo_id": "31897",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE32",
-      "rank_ecr": 614,
+      "rank_ecr": 615,
       "sportsdata_id": "f68685e7-9904-47bc-b39a-e1c813435385"
     },
     {
@@ -14019,13 +14041,13 @@
       "player_yahoo_id": "40994",
       "player_yahoo_positions": "DE",
       "pos_rank": "DT19",
-      "rank_ecr": 615,
+      "rank_ecr": 616,
       "sportsdata_id": "46ed0b03-015e-4d22-a034-4eeb242aa6a7"
     },
     {
       "cbs_player_id": "2133716",
       "player_bye_week": "13",
-      "player_ecr_delta": 20,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "taron-johnson.php",
       "player_id": 17431,
@@ -14041,7 +14063,7 @@
       "player_yahoo_id": "31091",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB282",
-      "rank_ecr": 616,
+      "rank_ecr": 617,
       "sportsdata_id": "3443dde2-23bc-4dba-b499-069d501a59cf",
       "tier": 8
     },
@@ -14064,30 +14086,8 @@
       "player_yahoo_id": "40057",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE33",
-      "rank_ecr": 617,
-      "sportsdata_id": "fb188308-cd65-4c61-b8c5-b9252b638b09"
-    },
-    {
-      "cbs_player_id": "2239779",
-      "player_bye_week": "10",
-      "player_ecr_delta": null,
-      "player_eligibility": "LB,DE",
-      "player_filename": "jonathon-cooper.php",
-      "player_id": 22821,
-      "player_name": "Jonathon Cooper",
-      "player_owned_avg": 0,
-      "player_owned_espn": 0,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/jonathon-cooper.php",
-      "player_position_id": "DE",
-      "player_positions": "DE",
-      "player_short_name": "J. Cooper",
-      "player_team_id": "DEN",
-      "player_yahoo_id": "33627",
-      "player_yahoo_positions": "LB,DE",
-      "pos_rank": "DE34",
       "rank_ecr": 618,
-      "sportsdata_id": "74ee9029-96c6-4a9b-bd20-1b2ba18c14b5"
+      "sportsdata_id": "fb188308-cd65-4c61-b8c5-b9252b638b09"
     },
     {
       "cbs_player_id": "3121983",
@@ -14113,9 +14113,31 @@
       "tier": 11
     },
     {
+      "cbs_player_id": "2239779",
+      "player_bye_week": "10",
+      "player_ecr_delta": null,
+      "player_eligibility": "LB,DE",
+      "player_filename": "jonathon-cooper.php",
+      "player_id": 22821,
+      "player_name": "Jonathon Cooper",
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/jonathon-cooper.php",
+      "player_position_id": "DE",
+      "player_positions": "DE",
+      "player_short_name": "J. Cooper",
+      "player_team_id": "DEN",
+      "player_yahoo_id": "33627",
+      "player_yahoo_positions": "LB,DE",
+      "pos_rank": "DE34",
+      "rank_ecr": 620,
+      "sportsdata_id": "74ee9029-96c6-4a9b-bd20-1b2ba18c14b5"
+    },
+    {
       "cbs_player_id": "3168790",
       "player_bye_week": "8",
-      "player_ecr_delta": 10,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "jiayir-brown.php",
       "player_id": 25258,
@@ -14131,7 +14153,7 @@
       "player_yahoo_id": "40106",
       "player_yahoo_positions": "S",
       "pos_rank": "S203",
-      "rank_ecr": 620,
+      "rank_ecr": 621,
       "sportsdata_id": "626586f3-5706-443e-a272-c6d9e6239784",
       "tier": 8
     },
@@ -14154,7 +14176,7 @@
       "player_yahoo_id": "40110",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT20",
-      "rank_ecr": 621,
+      "rank_ecr": 622,
       "sportsdata_id": "86f8915e-a09a-4cdf-ad41-13d72d217269"
     },
     {
@@ -14176,7 +14198,7 @@
       "player_yahoo_id": "41856",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT21",
-      "rank_ecr": 622,
+      "rank_ecr": 623,
       "sportsdata_id": "13a06c0d-d946-4a00-bd7a-e9131aaa09cb"
     },
     {
@@ -14198,7 +14220,7 @@
       "player_yahoo_id": "32730",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE35",
-      "rank_ecr": 623,
+      "rank_ecr": 624,
       "sportsdata_id": "8738c2cc-4ac6-4288-922d-ce4590d9af42"
     },
     {
@@ -14220,7 +14242,7 @@
       "player_yahoo_id": "40469",
       "player_yahoo_positions": "S",
       "pos_rank": "S204",
-      "rank_ecr": 624,
+      "rank_ecr": 625,
       "sportsdata_id": "2be7e030-ea16-11ed-8d34-41182339b277",
       "tier": 10
     },
@@ -14243,7 +14265,7 @@
       "player_yahoo_id": "41832",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB283",
-      "rank_ecr": 625,
+      "rank_ecr": 626,
       "sportsdata_id": "1a568fbe-4efb-4f67-9866-9b0b4e40b344",
       "tier": 11
     },
@@ -14265,8 +14287,8 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "27533",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB82",
-      "rank_ecr": 626,
+      "pos_rank": "LB83",
+      "rank_ecr": 627,
       "sportsdata_id": "33c74bf8-7621-48be-a769-e219703988d9"
     },
     {
@@ -14288,7 +14310,7 @@
       "player_yahoo_id": "41815",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB284",
-      "rank_ecr": 627,
+      "rank_ecr": 628,
       "sportsdata_id": "fee39f7c-63e9-4377-969f-a3e6aa520ebb",
       "tier": 11
     },
@@ -14311,7 +14333,7 @@
       "player_yahoo_id": "33118",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT22",
-      "rank_ecr": 628,
+      "rank_ecr": 629,
       "sportsdata_id": "bb01a04e-0d54-4fc6-98c8-2b8614d07afe"
     },
     {
@@ -14333,7 +14355,7 @@
       "player_yahoo_id": "32881",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB285",
-      "rank_ecr": 629,
+      "rank_ecr": 630,
       "sportsdata_id": "72100db3-2daa-4c17-aaa8-6c2c52bea5f3",
       "tier": 11
     },
@@ -14356,7 +14378,7 @@
       "player_yahoo_id": "34032",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT23",
-      "rank_ecr": 630,
+      "rank_ecr": 631,
       "sportsdata_id": "5ef5ab81-46ed-4092-9434-b7011f772bc4"
     },
     {
@@ -14378,7 +14400,7 @@
       "player_yahoo_id": "34037",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB286",
-      "rank_ecr": 631,
+      "rank_ecr": 632,
       "sportsdata_id": "3adb2e85-ff63-4644-8ca9-a10651e53c04",
       "tier": 11
     },
@@ -14401,7 +14423,7 @@
       "player_yahoo_id": "40049",
       "player_yahoo_positions": "DL,DE",
       "pos_rank": "DT24",
-      "rank_ecr": 632,
+      "rank_ecr": 633,
       "sportsdata_id": "cabe57e5-4675-40cf-9090-58c63f823e70"
     },
     {
@@ -14423,7 +14445,7 @@
       "player_yahoo_id": "28525",
       "player_yahoo_positions": "DL,DE",
       "pos_rank": "DT25",
-      "rank_ecr": 633,
+      "rank_ecr": 634,
       "sportsdata_id": "e1fe1900-fae3-414e-8530-55eece80471f"
     },
     {
@@ -14445,7 +14467,7 @@
       "player_yahoo_id": "31926",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB287",
-      "rank_ecr": 634,
+      "rank_ecr": 635,
       "sportsdata_id": "278a0811-98b8-42d2-96e9-160b7f364ae0",
       "tier": 11
     },
@@ -14468,7 +14490,7 @@
       "player_yahoo_id": "33417",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB288",
-      "rank_ecr": 635,
+      "rank_ecr": 636,
       "sportsdata_id": "35e016e2-c6cd-49c5-b1b5-73f03b81ff4d",
       "tier": 11
     },
@@ -14491,7 +14513,7 @@
       "player_yahoo_id": "32808",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB289",
-      "rank_ecr": 636,
+      "rank_ecr": 637,
       "sportsdata_id": "92b059b3-6b1b-4db4-a535-ceba629176d1",
       "tier": 11
     },
@@ -14514,7 +14536,7 @@
       "player_yahoo_id": "41878",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB290",
-      "rank_ecr": 637,
+      "rank_ecr": 638,
       "sportsdata_id": "90e8fdb2-7758-4293-b25c-0c6d6255261c",
       "tier": 11
     },
@@ -14537,7 +14559,7 @@
       "player_yahoo_id": "40091",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT26",
-      "rank_ecr": 638,
+      "rank_ecr": 639,
       "sportsdata_id": "fd3922bc-d7bf-4f2e-9255-d297a86b43d5"
     },
     {
@@ -14559,7 +14581,7 @@
       "player_yahoo_id": "32490",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE36",
-      "rank_ecr": 639,
+      "rank_ecr": 640,
       "sportsdata_id": "d9cf7aa3-71b1-4ef2-98c5-3db5d44b6f1e"
     },
     {
@@ -14580,8 +14602,8 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "40968",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB83",
-      "rank_ecr": 640,
+      "pos_rank": "LB84",
+      "rank_ecr": 641,
       "sportsdata_id": "b779251c-3250-405f-ae4a-3cadbf6925d9"
     },
     {
@@ -14603,7 +14625,7 @@
       "player_yahoo_id": "40062",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB291",
-      "rank_ecr": 641,
+      "rank_ecr": 642,
       "sportsdata_id": "194d2310-bc4e-4fc8-9a76-1fe506f35977",
       "tier": 11
     },
@@ -14626,7 +14648,7 @@
       "player_yahoo_id": "31903",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DT27",
-      "rank_ecr": 642,
+      "rank_ecr": 643,
       "sportsdata_id": "92c8bc67-756d-4e3c-981c-3df010e15e2d"
     },
     {
@@ -14648,7 +14670,7 @@
       "player_yahoo_id": "40937",
       "player_yahoo_positions": "DB,S",
       "pos_rank": "S205",
-      "rank_ecr": 643,
+      "rank_ecr": 644,
       "sportsdata_id": "0bf54af0-cd8f-48ac-96b9-b742562a3e53",
       "tier": 11
     },
@@ -14671,7 +14693,7 @@
       "player_yahoo_id": "30983",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT28",
-      "rank_ecr": 644,
+      "rank_ecr": 645,
       "sportsdata_id": "0a1be8da-5839-4768-bfe5-9fec74908268"
     },
     {
@@ -14693,14 +14715,14 @@
       "player_yahoo_id": "34574",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB292",
-      "rank_ecr": 645,
+      "rank_ecr": 646,
       "sportsdata_id": "62fb07e0-d253-11ec-b16e-cf7159baf83d",
       "tier": 11
     },
     {
       "cbs_player_id": "3161741",
       "player_bye_week": "8",
-      "player_ecr_delta": null,
+      "player_ecr_delta": -16,
       "player_eligibility": "CB",
       "player_filename": "andru-phillips.php",
       "player_id": 26164,
@@ -14716,7 +14738,7 @@
       "player_yahoo_id": "40969",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB293",
-      "rank_ecr": 646,
+      "rank_ecr": 647,
       "sportsdata_id": "3e7f9f29-7288-4963-b858-e284f051387a",
       "tier": 8
     },
@@ -14739,7 +14761,7 @@
       "player_yahoo_id": "40037",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE37",
-      "rank_ecr": 647,
+      "rank_ecr": 648,
       "sportsdata_id": "1f8b4936-d0f8-4e9e-9f6f-5f4138180d7d"
     },
     {
@@ -14761,7 +14783,7 @@
       "player_yahoo_id": "40879",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE38",
-      "rank_ecr": 648,
+      "rank_ecr": 649,
       "sportsdata_id": "9838dba3-f510-494b-b3ad-8639f792d182"
     },
     {
@@ -14783,7 +14805,7 @@
       "player_yahoo_id": "40906",
       "player_yahoo_positions": "DE",
       "pos_rank": "DT29",
-      "rank_ecr": 649,
+      "rank_ecr": 650,
       "sportsdata_id": "7ceb8b7a-9797-4186-8dbe-4446b415c0fb"
     },
     {
@@ -14805,7 +14827,7 @@
       "player_yahoo_id": "41146",
       "player_yahoo_positions": "S",
       "pos_rank": "S206",
-      "rank_ecr": 650,
+      "rank_ecr": 651,
       "sportsdata_id": "cc1d5cf0-0500-11ef-bb66-eba00fd362a6",
       "tier": 11
     },
@@ -14828,7 +14850,7 @@
       "player_yahoo_id": "33461",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT30",
-      "rank_ecr": 651,
+      "rank_ecr": 652,
       "sportsdata_id": "ebabfa18-7713-4002-8ac4-cf30cd4566fc"
     },
     {
@@ -14850,14 +14872,14 @@
       "player_yahoo_id": "40076",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB294",
-      "rank_ecr": 652,
+      "rank_ecr": 653,
       "sportsdata_id": "7db46644-05bb-41b5-938a-e93a50e1d6c4",
       "tier": 11
     },
     {
       "cbs_player_id": "3121387",
       "player_bye_week": "10",
-      "player_ecr_delta": -23,
+      "player_ecr_delta": -14,
       "player_eligibility": "CB",
       "player_filename": "tyrique-stevenson.php",
       "player_id": 25263,
@@ -14873,7 +14895,7 @@
       "player_yahoo_id": "40071",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB295",
-      "rank_ecr": 653,
+      "rank_ecr": 654,
       "sportsdata_id": "64d9cda4-1ff4-4b21-bdba-586877c70813",
       "tier": 9
     },
@@ -14896,7 +14918,7 @@
       "player_yahoo_id": "40916",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT31",
-      "rank_ecr": 654,
+      "rank_ecr": 655,
       "sportsdata_id": "32f98e05-a998-4e0c-8131-0e4b17cb7dd5"
     },
     {
@@ -14918,7 +14940,7 @@
       "player_yahoo_id": "30257",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT32",
-      "rank_ecr": 655,
+      "rank_ecr": 656,
       "sportsdata_id": "fae57441-a198-4674-8a37-401b64d17961"
     },
     {
@@ -14940,7 +14962,7 @@
       "player_yahoo_id": "41107",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT33",
-      "rank_ecr": 656,
+      "rank_ecr": 657,
       "sportsdata_id": "44d0ebd8-d1ca-4e6a-8af3-cbd55f6acc7d"
     },
     {
@@ -14962,7 +14984,7 @@
       "player_yahoo_id": "40045",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT34",
-      "rank_ecr": 657,
+      "rank_ecr": 658,
       "sportsdata_id": "98884f9f-5117-476a-a20a-809b38714e6d"
     },
     {
@@ -14984,31 +15006,8 @@
       "player_yahoo_id": "31057",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE39",
-      "rank_ecr": 658,
-      "sportsdata_id": "acc85868-4848-4de3-8e6f-5427e93c8d80"
-    },
-    {
-      "cbs_player_id": "2967442",
-      "player_bye_week": "6",
-      "player_ecr_delta": null,
-      "player_eligibility": "CB",
-      "player_filename": "roger-mccreary.php",
-      "player_id": 23713,
-      "player_name": "Roger McCreary",
-      "player_owned_avg": 3,
-      "player_owned_espn": 0.9,
-      "player_owned_yahoo": 0,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/roger-mccreary.php",
-      "player_position_id": "CB",
-      "player_positions": "CB",
-      "player_short_name": "R. McCreary",
-      "player_team_id": "DET",
-      "player_yahoo_id": "33990",
-      "player_yahoo_positions": "CB",
-      "pos_rank": "CB296",
       "rank_ecr": 659,
-      "sportsdata_id": "3ce6c2b1-9b17-4ff2-9787-a248119bc1e0",
-      "tier": 11
+      "sportsdata_id": "acc85868-4848-4de3-8e6f-5427e93c8d80"
     },
     {
       "cbs_player_id": "26701823",
@@ -15034,6 +15033,29 @@
       "tier": 11
     },
     {
+      "cbs_player_id": "2967442",
+      "player_bye_week": "6",
+      "player_ecr_delta": null,
+      "player_eligibility": "CB",
+      "player_filename": "roger-mccreary.php",
+      "player_id": 23713,
+      "player_name": "Roger McCreary",
+      "player_owned_avg": 3,
+      "player_owned_espn": 0.9,
+      "player_owned_yahoo": 0,
+      "player_page_url": "https://www.fantasypros.com/nfl/players/roger-mccreary.php",
+      "player_position_id": "CB",
+      "player_positions": "CB",
+      "player_short_name": "R. McCreary",
+      "player_team_id": "DET",
+      "player_yahoo_id": "33990",
+      "player_yahoo_positions": "CB",
+      "pos_rank": "CB296",
+      "rank_ecr": 661,
+      "sportsdata_id": "3ce6c2b1-9b17-4ff2-9787-a248119bc1e0",
+      "tier": 11
+    },
+    {
       "cbs_player_id": "2804551",
       "player_bye_week": "7",
       "player_ecr_delta": null,
@@ -15052,7 +15074,7 @@
       "player_yahoo_id": "32690",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE40",
-      "rank_ecr": 661,
+      "rank_ecr": 662,
       "sportsdata_id": "74439c42-a6db-4a9a-be25-559f3e03ef59"
     },
     {
@@ -15074,7 +15096,7 @@
       "player_yahoo_id": "27562",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE41",
-      "rank_ecr": 662,
+      "rank_ecr": 663,
       "sportsdata_id": "3e3bd10a-6462-47f8-8938-42518781d060"
     },
     {
@@ -15096,7 +15118,7 @@
       "player_yahoo_id": "33457",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE42",
-      "rank_ecr": 663,
+      "rank_ecr": 664,
       "sportsdata_id": "f46bc3a8-dbcc-4d96-8d6e-50034429de29"
     },
     {
@@ -15118,7 +15140,7 @@
       "player_yahoo_id": "41028",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB297",
-      "rank_ecr": 664,
+      "rank_ecr": 665,
       "sportsdata_id": "78778a0e-d4a1-4a31-9e72-6d226733ba9d",
       "tier": 11
     },
@@ -15141,7 +15163,7 @@
       "player_yahoo_id": "32787",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE43",
-      "rank_ecr": 665,
+      "rank_ecr": 666,
       "sportsdata_id": "68356887-b59e-4210-9726-828ea7f83928"
     },
     {
@@ -15163,7 +15185,7 @@
       "player_yahoo_id": "40898",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB298",
-      "rank_ecr": 666,
+      "rank_ecr": 667,
       "sportsdata_id": "93e6a6eb-a91e-4705-b5de-faa10f741913",
       "tier": 11
     },
@@ -15186,7 +15208,7 @@
       "player_yahoo_id": "30655",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT35",
-      "rank_ecr": 667,
+      "rank_ecr": 668,
       "sportsdata_id": "54814199-dd18-408f-9dc4-ce59a121431b"
     },
     {
@@ -15208,7 +15230,7 @@
       "player_yahoo_id": "40270",
       "player_yahoo_positions": "DE",
       "pos_rank": "DT36",
-      "rank_ecr": 668,
+      "rank_ecr": 669,
       "sportsdata_id": "a344e6d1-86a1-4ec6-b734-7a0a0f706206"
     },
     {
@@ -15230,7 +15252,7 @@
       "player_yahoo_id": "41846",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB299",
-      "rank_ecr": 669,
+      "rank_ecr": 670,
       "sportsdata_id": "84d2fb0a-3277-49e4-8625-9640923f33ea",
       "tier": 11
     },
@@ -15253,7 +15275,7 @@
       "player_yahoo_id": "29289",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT37",
-      "rank_ecr": 670,
+      "rank_ecr": 671,
       "sportsdata_id": "c02b49d3-ddc1-4ffc-9f40-487199882fa5"
     },
     {
@@ -15275,7 +15297,7 @@
       "player_yahoo_id": "41026",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB300",
-      "rank_ecr": 671,
+      "rank_ecr": 672,
       "sportsdata_id": "6fccf852-00cf-4c11-b856-8e4d56acc646",
       "tier": 11
     },
@@ -15298,7 +15320,7 @@
       "player_yahoo_id": "42628",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB301",
-      "rank_ecr": 672,
+      "rank_ecr": 673,
       "sportsdata_id": "0e016d2e-d1e1-4186-a503-c5baa9bd238e",
       "tier": 11
     },
@@ -15321,14 +15343,14 @@
       "player_yahoo_id": "31534",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB302",
-      "rank_ecr": 673,
+      "rank_ecr": 674,
       "sportsdata_id": "57a21028-b3a1-494b-ade8-7e94c7108823",
       "tier": 11
     },
     {
       "cbs_player_id": "3116592",
       "player_bye_week": "10",
-      "player_ecr_delta": -27,
+      "player_ecr_delta": -18,
       "player_eligibility": "S",
       "player_filename": "marcus-epps.php",
       "player_id": 18575,
@@ -15344,7 +15366,7 @@
       "player_yahoo_id": "32023",
       "player_yahoo_positions": "S",
       "pos_rank": "S208",
-      "rank_ecr": 674,
+      "rank_ecr": 675,
       "sportsdata_id": "4dcf9e8a-fc5c-43a2-9b83-4ca295490a9b",
       "tier": 10
     },
@@ -15366,8 +15388,8 @@
       "player_team_id": "JAC",
       "player_yahoo_id": "40155",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB84",
-      "rank_ecr": 675,
+      "pos_rank": "LB85",
+      "rank_ecr": 676,
       "sportsdata_id": "adcc651b-c635-4d09-a411-63452f8192fa"
     },
     {
@@ -15389,7 +15411,7 @@
       "player_yahoo_id": "34383",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB303",
-      "rank_ecr": 676,
+      "rank_ecr": 677,
       "sportsdata_id": "56d7af50-ce1a-11ec-bebb-4fec1e38b0e5",
       "tier": 11
     },
@@ -15411,8 +15433,8 @@
       "player_team_id": "KC",
       "player_yahoo_id": "41942",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB85",
-      "rank_ecr": 677,
+      "pos_rank": "LB86",
+      "rank_ecr": 678,
       "sportsdata_id": "fb38f3cd-8e90-4c41-b10e-0ed37d97c3bc"
     },
     {
@@ -15434,7 +15456,7 @@
       "player_yahoo_id": "32720",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB304",
-      "rank_ecr": 678,
+      "rank_ecr": 679,
       "sportsdata_id": "99b81b41-fb3b-4650-940b-9cb3770021ba",
       "tier": 11
     },
@@ -15457,7 +15479,7 @@
       "player_yahoo_id": "41915",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB305",
-      "rank_ecr": 679,
+      "rank_ecr": 680,
       "sportsdata_id": "3edaf8a7-e949-4f9b-be56-e0bf627ee7eb",
       "tier": 11
     },
@@ -15480,7 +15502,7 @@
       "player_yahoo_id": "40947",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB306",
-      "rank_ecr": 680,
+      "rank_ecr": 681,
       "sportsdata_id": "fc21a61f-75aa-4398-973f-7ff1058e6a9e",
       "tier": 11
     },
@@ -15503,7 +15525,7 @@
       "player_yahoo_id": "32939",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB307",
-      "rank_ecr": 681,
+      "rank_ecr": 682,
       "sportsdata_id": "6e0bbdc7-fa74-41d2-b3de-4eaa8e670f87",
       "tier": 11
     },
@@ -15526,7 +15548,7 @@
       "player_yahoo_id": "33414",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB308",
-      "rank_ecr": 682,
+      "rank_ecr": 683,
       "sportsdata_id": "2303e1eb-fa31-4cfe-b93d-7c2e1b683baa",
       "tier": 11
     },
@@ -15549,7 +15571,7 @@
       "player_yahoo_id": "32809",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB309",
-      "rank_ecr": 683,
+      "rank_ecr": 684,
       "sportsdata_id": "23525664-b547-413b-9221-b09091b90edf",
       "tier": 11
     },
@@ -15572,7 +15594,7 @@
       "player_yahoo_id": "40107",
       "player_yahoo_positions": "LB",
       "pos_rank": "DE44",
-      "rank_ecr": 684,
+      "rank_ecr": 685,
       "sportsdata_id": "62a727ba-8ffd-40bd-bad7-f49bf6a2edf7"
     },
     {
@@ -15594,7 +15616,7 @@
       "player_yahoo_id": "",
       "player_yahoo_positions": null,
       "pos_rank": "RB1",
-      "rank_ecr": 685,
+      "rank_ecr": 686,
       "sportsdata_id": null
     },
     {
@@ -15616,7 +15638,7 @@
       "player_yahoo_id": "33463",
       "player_yahoo_positions": "DT",
       "pos_rank": "DE45",
-      "rank_ecr": 686,
+      "rank_ecr": 687,
       "sportsdata_id": "5bc24739-494e-4d0c-beae-e15231743bcf"
     },
     {
@@ -15638,7 +15660,7 @@
       "player_yahoo_id": "29323",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT38",
-      "rank_ecr": 687,
+      "rank_ecr": 688,
       "sportsdata_id": "3f8e4972-2361-4939-b5e3-c5f6c63b9f68"
     },
     {
@@ -15660,7 +15682,7 @@
       "player_yahoo_id": "33419",
       "player_yahoo_positions": "LB",
       "pos_rank": "DE46",
-      "rank_ecr": 688,
+      "rank_ecr": 689,
       "sportsdata_id": "232b1ab6-7a50-48a3-b213-681e782d6daa"
     },
     {
@@ -15682,7 +15704,7 @@
       "player_yahoo_id": "33968",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT39",
-      "rank_ecr": 689,
+      "rank_ecr": 690,
       "sportsdata_id": "6528c7dc-2a02-4577-9246-b590be05eeeb"
     },
     {
@@ -15704,7 +15726,7 @@
       "player_yahoo_id": "33460",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT40",
-      "rank_ecr": 690,
+      "rank_ecr": 691,
       "sportsdata_id": "865d4bf9-5d13-42a6-a8f9-a4e9a93c7375"
     },
     {
@@ -15726,7 +15748,7 @@
       "player_yahoo_id": "41887",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT41",
-      "rank_ecr": 691,
+      "rank_ecr": 692,
       "sportsdata_id": "f2d4b707-f118-46b8-9697-e0506f29a987"
     },
     {
@@ -15748,7 +15770,7 @@
       "player_yahoo_id": "29354",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT42",
-      "rank_ecr": 692,
+      "rank_ecr": 693,
       "sportsdata_id": "08d27d1a-e039-4ccc-9ba7-65a22f6002fd"
     },
     {
@@ -15770,7 +15792,7 @@
       "player_yahoo_id": "40034",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE47",
-      "rank_ecr": 693,
+      "rank_ecr": 694,
       "sportsdata_id": "0f9883f3-bff3-4247-8e90-7df2066070c6"
     },
     {
@@ -15792,7 +15814,7 @@
       "player_yahoo_id": "32840",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT43",
-      "rank_ecr": 694,
+      "rank_ecr": 695,
       "sportsdata_id": "6f695364-f31f-420d-8baa-434539e2b12d"
     },
     {
@@ -15814,7 +15836,7 @@
       "player_yahoo_id": "34109",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB310",
-      "rank_ecr": 695,
+      "rank_ecr": 696,
       "sportsdata_id": "d31bfd09-b348-4b2b-ae39-7307f2c12ef8",
       "tier": 11
     },
@@ -15837,7 +15859,7 @@
       "player_yahoo_id": "41109",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT44",
-      "rank_ecr": 696,
+      "rank_ecr": 697,
       "sportsdata_id": "4b56e1ba-37e9-4f00-8782-717c6e6c4555"
     },
     {
@@ -15859,7 +15881,7 @@
       "player_yahoo_id": "31849",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT45",
-      "rank_ecr": 697,
+      "rank_ecr": 698,
       "sportsdata_id": "31bd7a4c-8eaf-4ea3-871c-b44420c804f8"
     },
     {
@@ -15881,7 +15903,7 @@
       "player_yahoo_id": "33426",
       "player_yahoo_positions": "DL,DE",
       "pos_rank": "DT46",
-      "rank_ecr": 698,
+      "rank_ecr": 699,
       "sportsdata_id": "39017237-0575-4984-b784-954a79c2bba2"
     },
     {
@@ -15903,7 +15925,7 @@
       "player_yahoo_id": "41044",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB311",
-      "rank_ecr": 699,
+      "rank_ecr": 700,
       "sportsdata_id": "ea3e1da8-9bae-43cc-9538-513976e968e5",
       "tier": 11
     },
@@ -15926,7 +15948,7 @@
       "player_yahoo_id": "41894",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT47",
-      "rank_ecr": 700,
+      "rank_ecr": 701,
       "sportsdata_id": "9514d4d4-f32a-477d-9eda-a76ae9e28a77"
     },
     {
@@ -15948,7 +15970,7 @@
       "player_yahoo_id": "33566",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB312",
-      "rank_ecr": 701,
+      "rank_ecr": 702,
       "sportsdata_id": "dc9d65a1-f955-4ef4-9b36-807c3ec73821",
       "tier": 11
     },
@@ -15971,7 +15993,7 @@
       "player_yahoo_id": "34529",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB313",
-      "rank_ecr": 702,
+      "rank_ecr": 703,
       "sportsdata_id": "97debc10-d3b9-11ec-96a0-c3471a31202c",
       "tier": 11
     },
@@ -15994,7 +16016,7 @@
       "player_yahoo_id": "41838",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB314",
-      "rank_ecr": 703,
+      "rank_ecr": 704,
       "sportsdata_id": "33859ece-2c7f-4fe2-9c16-aff3c1e0b9e0",
       "tier": 11
     },
@@ -16017,7 +16039,7 @@
       "player_yahoo_id": "30173",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB315",
-      "rank_ecr": 704,
+      "rank_ecr": 705,
       "sportsdata_id": "5e11c306-6387-46ed-8a6d-3ff7a8210ed5",
       "tier": 11
     },
@@ -16040,7 +16062,7 @@
       "player_yahoo_id": "41117",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB316",
-      "rank_ecr": 705,
+      "rank_ecr": 706,
       "sportsdata_id": "91fae7d2-6f40-4ad6-b49f-0d05405ada81",
       "tier": 11
     },
@@ -16063,7 +16085,7 @@
       "player_yahoo_id": "41826",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT48",
-      "rank_ecr": 706,
+      "rank_ecr": 707,
       "sportsdata_id": "78c91cbd-e8ab-42f9-bf92-6bc5f98a09f7"
     },
     {
@@ -16085,7 +16107,7 @@
       "player_yahoo_id": "29271",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT49",
-      "rank_ecr": 707,
+      "rank_ecr": 708,
       "sportsdata_id": "ef7b5ce8-a929-46be-b9f3-328752c6d125"
     },
     {
@@ -16107,7 +16129,7 @@
       "player_yahoo_id": "32684",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT50",
-      "rank_ecr": 708,
+      "rank_ecr": 709,
       "sportsdata_id": "1a8eff7a-1057-47c9-aa82-3dbf3f47a76c"
     },
     {
@@ -16129,7 +16151,7 @@
       "player_yahoo_id": "40246",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT51",
-      "rank_ecr": 709,
+      "rank_ecr": 710,
       "sportsdata_id": "01f15239-cd2c-4bd7-be5d-5ba7eed41331"
     },
     {
@@ -16151,7 +16173,7 @@
       "player_yahoo_id": "28405",
       "player_yahoo_positions": "DL,DT,DE",
       "pos_rank": "DT52",
-      "rank_ecr": 710,
+      "rank_ecr": 711,
       "sportsdata_id": "acb7169f-3ffa-4386-9866-e06af6ed7fef"
     },
     {
@@ -16172,8 +16194,8 @@
       "player_team_id": "DET",
       "player_yahoo_id": "34144",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB86",
-      "rank_ecr": 711,
+      "pos_rank": "LB87",
+      "rank_ecr": 712,
       "sportsdata_id": "654b6b85-44e3-4a6e-a7ff-ebcdaa49fe51"
     },
     {
@@ -16195,7 +16217,7 @@
       "player_yahoo_id": "29261",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT53",
-      "rank_ecr": 712,
+      "rank_ecr": 713,
       "sportsdata_id": "d848e4e6-ff3e-421c-9bd3-c2f62a16efd4"
     },
     {
@@ -16217,7 +16239,7 @@
       "player_yahoo_id": "33409",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE48",
-      "rank_ecr": 713,
+      "rank_ecr": 714,
       "sportsdata_id": "4c52a12f-6745-468e-86d9-977ffa512c4b"
     },
     {
@@ -16239,7 +16261,7 @@
       "player_yahoo_id": "41796",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DT54",
-      "rank_ecr": 714,
+      "rank_ecr": 715,
       "sportsdata_id": "b53b3aa5-5ef4-4d54-a4f1-8be678e980d2"
     },
     {
@@ -16261,7 +16283,7 @@
       "player_yahoo_id": "41811",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE49",
-      "rank_ecr": 715,
+      "rank_ecr": 716,
       "sportsdata_id": "1a3a8a05-9418-48ba-910e-db87caf00bfe"
     },
     {
@@ -16283,7 +16305,7 @@
       "player_yahoo_id": "33347",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT55",
-      "rank_ecr": 716,
+      "rank_ecr": 717,
       "sportsdata_id": "a78206af-6d78-4b4c-90e3-dc4bd62ac80b"
     },
     {
@@ -16305,7 +16327,7 @@
       "player_yahoo_id": "29246",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT56",
-      "rank_ecr": 717,
+      "rank_ecr": 718,
       "sportsdata_id": "3b1227f6-05c9-421f-a2c1-4c8f1368b80b"
     },
     {
@@ -16326,8 +16348,8 @@
       "player_team_id": "FA",
       "player_yahoo_id": "32154",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB87",
-      "rank_ecr": 718,
+      "pos_rank": "LB88",
+      "rank_ecr": 719,
       "sportsdata_id": "991410bd-6edd-415e-9ab1-fb03f0fccc21"
     },
     {
@@ -16348,8 +16370,8 @@
       "player_team_id": "CIN",
       "player_yahoo_id": "31058",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB88",
-      "rank_ecr": 719,
+      "pos_rank": "LB89",
+      "rank_ecr": 720,
       "sportsdata_id": "ab9bd5b1-eaf9-4f2d-8acd-fbc143980b17"
     },
     {
@@ -16370,8 +16392,8 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "41908",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB89",
-      "rank_ecr": 720,
+      "pos_rank": "LB90",
+      "rank_ecr": 721,
       "sportsdata_id": "3dbb3f2f-f605-4a09-bced-2c45d985c994"
     },
     {
@@ -16393,7 +16415,7 @@
       "player_yahoo_id": "40079",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT57",
-      "rank_ecr": 721,
+      "rank_ecr": 722,
       "sportsdata_id": "9fd22aa3-6cb6-4bae-af1b-cc0ba0511e08"
     },
     {
@@ -16415,7 +16437,7 @@
       "player_yahoo_id": "41911",
       "player_yahoo_positions": "S",
       "pos_rank": "S209",
-      "rank_ecr": 722,
+      "rank_ecr": 723,
       "sportsdata_id": "4f423d1f-622b-45e7-a8c7-18d37d27978b",
       "tier": 11
     },
@@ -16438,7 +16460,7 @@
       "player_yahoo_id": "31066",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT58",
-      "rank_ecr": 723,
+      "rank_ecr": 724,
       "sportsdata_id": "840b2183-02bc-4a2a-b415-c62ceecca1b2"
     },
     {
@@ -16460,7 +16482,7 @@
       "player_yahoo_id": "34098",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB317",
-      "rank_ecr": 724,
+      "rank_ecr": 725,
       "sportsdata_id": "26ec1dc1-dece-43bd-b588-db61f046b88c",
       "tier": 11
     },
@@ -16483,7 +16505,7 @@
       "player_yahoo_id": "33520",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT59",
-      "rank_ecr": 725,
+      "rank_ecr": 726,
       "sportsdata_id": "4a4f2ec4-b750-417c-8fa3-f1ec6386f032"
     },
     {
@@ -16505,7 +16527,7 @@
       "player_yahoo_id": "41876",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB318",
-      "rank_ecr": 726,
+      "rank_ecr": 727,
       "sportsdata_id": "8a80dfe2-96c3-4183-89a9-b2525917c263",
       "tier": 11
     },
@@ -16527,8 +16549,8 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "41800",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB90",
-      "rank_ecr": 727,
+      "pos_rank": "LB91",
+      "rank_ecr": 728,
       "sportsdata_id": "a1788f0e-f637-4333-846e-757b373b98a5"
     },
     {
@@ -16549,8 +16571,8 @@
       "player_team_id": "JAC",
       "player_yahoo_id": "31299",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB91",
-      "rank_ecr": 728,
+      "pos_rank": "LB92",
+      "rank_ecr": 729,
       "sportsdata_id": "48700b7b-210c-4ced-9c57-3e21162e7752"
     },
     {
@@ -16572,7 +16594,7 @@
       "player_yahoo_id": "30310",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT60",
-      "rank_ecr": 729,
+      "rank_ecr": 730,
       "sportsdata_id": "d2e2b313-6769-48c6-a217-d167f04068df"
     },
     {
@@ -16594,7 +16616,7 @@
       "player_yahoo_id": "41798",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT61",
-      "rank_ecr": 730,
+      "rank_ecr": 731,
       "sportsdata_id": "b785d238-2bb5-4265-8559-a78646273ae7"
     },
     {
@@ -16616,7 +16638,7 @@
       "player_yahoo_id": "34116",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT62",
-      "rank_ecr": 731,
+      "rank_ecr": 732,
       "sportsdata_id": "a99f605d-e128-4d9f-96b7-1e7c6d222303"
     },
     {
@@ -16638,7 +16660,7 @@
       "player_yahoo_id": "40053",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB319",
-      "rank_ecr": 732,
+      "rank_ecr": 733,
       "sportsdata_id": "e905a38b-bf94-4d46-b9e3-a7b534258a20",
       "tier": 11
     },
@@ -16661,7 +16683,7 @@
       "player_yahoo_id": "33995",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE50",
-      "rank_ecr": 733,
+      "rank_ecr": 734,
       "sportsdata_id": "6f62968f-4241-439f-b5c6-6723920ca5b2"
     },
     {
@@ -16683,7 +16705,7 @@
       "player_yahoo_id": "33583",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT63",
-      "rank_ecr": 734,
+      "rank_ecr": 735,
       "sportsdata_id": "23a30b80-1549-4ae8-afac-0fa99636c71e"
     },
     {
@@ -16704,8 +16726,8 @@
       "player_team_id": "MIA",
       "player_yahoo_id": "42665",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB92",
-      "rank_ecr": 735,
+      "pos_rank": "LB93",
+      "rank_ecr": 736,
       "sportsdata_id": "60d720f0-e962-43fb-82f3-9594e0a03d73"
     },
     {
@@ -16727,7 +16749,7 @@
       "player_yahoo_id": "41806",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT64",
-      "rank_ecr": 736,
+      "rank_ecr": 737,
       "sportsdata_id": "1fd56b66-3c11-4664-bb80-f0594f915923"
     },
     {
@@ -16749,7 +16771,7 @@
       "player_yahoo_id": "30168",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT65",
-      "rank_ecr": 737,
+      "rank_ecr": 738,
       "sportsdata_id": "6371b42c-2783-49e8-8def-ce4d7dc91081"
     },
     {
@@ -16771,7 +16793,7 @@
       "player_yahoo_id": "40274",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB320",
-      "rank_ecr": 738,
+      "rank_ecr": 739,
       "sportsdata_id": "b341ea01-741c-4ea8-8d4f-75ae79359d18",
       "tier": 11
     },
@@ -16793,8 +16815,8 @@
       "player_team_id": "SEA",
       "player_yahoo_id": "31018",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB93",
-      "rank_ecr": 739,
+      "pos_rank": "LB94",
+      "rank_ecr": 740,
       "sportsdata_id": "40941261-cfd0-4e8d-b895-21fb7e20b407"
     },
     {
@@ -16816,7 +16838,7 @@
       "player_yahoo_id": "30291",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT66",
-      "rank_ecr": 740,
+      "rank_ecr": 741,
       "sportsdata_id": "6e6dcc9c-06f5-40fd-9134-d0afd0e349d8"
     },
     {
@@ -16838,7 +16860,7 @@
       "player_yahoo_id": "41875",
       "player_yahoo_positions": "DT,DE",
       "pos_rank": "DT67",
-      "rank_ecr": 741,
+      "rank_ecr": 742,
       "sportsdata_id": "899433ed-9e60-4786-ac45-32c415da04c0"
     },
     {
@@ -16860,7 +16882,7 @@
       "player_yahoo_id": "32952",
       "player_yahoo_positions": "DT",
       "pos_rank": "DE51",
-      "rank_ecr": 742,
+      "rank_ecr": 743,
       "sportsdata_id": "632a8382-27d6-45ae-b3d2-a37157e09ab7"
     },
     {
@@ -16882,7 +16904,7 @@
       "player_yahoo_id": "41893",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT68",
-      "rank_ecr": 743,
+      "rank_ecr": 744,
       "sportsdata_id": "9808be58-a38d-463c-9d9c-537c0a03fb55"
     },
     {
@@ -16904,7 +16926,7 @@
       "player_yahoo_id": "27763",
       "player_yahoo_positions": "DT",
       "pos_rank": "DE52",
-      "rank_ecr": 744,
+      "rank_ecr": 745,
       "sportsdata_id": "20d66704-9c12-467f-a6ca-9cf9dc00730c"
     },
     {
@@ -16926,7 +16948,7 @@
       "player_yahoo_id": "40238",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT69",
-      "rank_ecr": 745,
+      "rank_ecr": 746,
       "sportsdata_id": "c76a4bef-3d1f-4326-82bd-81065b5cfb10"
     },
     {
@@ -16948,7 +16970,7 @@
       "player_yahoo_id": "41829",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE53",
-      "rank_ecr": 746,
+      "rank_ecr": 747,
       "sportsdata_id": "31076b50-c01e-4cce-9898-8bd2b04cf6e4"
     },
     {
@@ -16970,7 +16992,7 @@
       "player_yahoo_id": "32743",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT70",
-      "rank_ecr": 747,
+      "rank_ecr": 748,
       "sportsdata_id": "a94f0507-44b0-4fb5-9e8c-fd21157ec1a6"
     },
     {
@@ -16992,7 +17014,7 @@
       "player_yahoo_id": "41828",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT71",
-      "rank_ecr": 748,
+      "rank_ecr": 749,
       "sportsdata_id": "d81084a7-c3bd-4746-883c-12797db9859a"
     },
     {
@@ -17014,7 +17036,7 @@
       "player_yahoo_id": "31477",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT72",
-      "rank_ecr": 749,
+      "rank_ecr": 750,
       "sportsdata_id": "09b78e4f-e683-4c5d-b35e-35cc0dbbf7e5"
     },
     {
@@ -17036,7 +17058,7 @@
       "player_yahoo_id": "31069",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB321",
-      "rank_ecr": 750,
+      "rank_ecr": 751,
       "sportsdata_id": "5bde0a71-c7ec-465f-ad35-c195e1d10b29",
       "tier": 11
     },
@@ -17059,31 +17081,8 @@
       "player_yahoo_id": "40920",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT73",
-      "rank_ecr": 751,
-      "sportsdata_id": "ffb4ddbb-f7be-47e8-b5de-19c32d68fc49"
-    },
-    {
-      "cbs_player_id": "29145935",
-      "player_bye_week": "13",
-      "player_ecr_delta": 19,
-      "player_eligibility": "CB",
-      "player_filename": "dangelo-ponds.php",
-      "player_id": 27992,
-      "player_name": "D'Angelo Ponds",
-      "player_owned_avg": 7.7,
-      "player_owned_espn": 1.7,
-      "player_owned_yahoo": 1,
-      "player_page_url": "https://www.fantasypros.com/nfl/players/dangelo-ponds.php",
-      "player_position_id": "CB",
-      "player_positions": "CB",
-      "player_short_name": "D. Ponds",
-      "player_team_id": "NYJ",
-      "player_yahoo_id": "42672",
-      "player_yahoo_positions": "CB",
-      "pos_rank": "CB322",
       "rank_ecr": 752,
-      "sportsdata_id": "6c6ccb8b-2f70-4cd6-ab0d-701a4186ec6a",
-      "tier": 9
+      "sportsdata_id": "ffb4ddbb-f7be-47e8-b5de-19c32d68fc49"
     },
     {
       "cbs_player_id": "3171180",
@@ -17103,7 +17102,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "41023",
       "player_yahoo_positions": "DB,CB",
-      "pos_rank": "CB323",
+      "pos_rank": "CB322",
       "rank_ecr": 753,
       "sportsdata_id": "6393b3f5-c426-4895-81d2-b96e0320c450",
       "tier": 11

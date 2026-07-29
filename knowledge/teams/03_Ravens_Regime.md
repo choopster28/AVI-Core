@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-07-28
+- Last updated from Sleeper exports: 2026-07-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 13
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 637.2
-- championship_lineup_c_avi_avg: 79.65
-- offensive_roster_c_avi_sum: 719.3
-- offensive_roster_c_avi_avg: 71.93
+- championship_lineup_c_avi_sum: 636.9
+- championship_lineup_c_avi_avg: 79.61
+- offensive_roster_c_avi_sum: 719.0
+- offensive_roster_c_avi_avg: 71.90
 - offensive_roster_d_avi_sum: 825.4
 - offensive_roster_d_avi_avg: 82.54
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -35,8 +35,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Kyle Monangai | C-AVI: 55.9 | D-AVI: 79.5
 - WR: Zay Flowers | C-AVI: 88.9 | D-AVI: 92.7
 - WR: Jameson Williams | C-AVI: 79.7 | D-AVI: 88.6
-- TE: Kyle Pitts | C-AVI: 94.1 | D-AVI: 89.3
-- FLEX: Isaiah Likely | C-AVI: 72.9 | D-AVI: 82.8
+- TE: Kyle Pitts | C-AVI: 93.9 | D-AVI: 89.3
+- FLEX: Isaiah Likely | C-AVI: 72.8 | D-AVI: 82.8
 - FLEX: Romeo Doubs | C-AVI: 55.8 | D-AVI: 76.0
 
 ## Current Roster — All Player Cards
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 94.1
+- Championship AVI (C-AVI, 0-100): 93.9
 - Dynasty AVI (D-AVI, 0-100): 89.3
 - Projected PPR points: 195.7
 - Category: offense
@@ -206,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 72.9
+- Championship AVI (C-AVI, 0-100): 72.8
 - Dynasty AVI (D-AVI, 0-100): 82.8
 - Projected PPR points: 165.4
 - Category: offense

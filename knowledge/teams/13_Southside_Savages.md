@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-07-28
+- Last updated from Sleeper exports: 2026-07-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 626.4
-- championship_lineup_c_avi_avg: 78.30
-- offensive_roster_c_avi_sum: 738.3
-- offensive_roster_c_avi_avg: 73.83
+- championship_lineup_c_avi_sum: 626.1
+- championship_lineup_c_avi_avg: 78.26
+- offensive_roster_c_avi_sum: 738.0
+- offensive_roster_c_avi_avg: 73.80
 - offensive_roster_d_avi_sum: 841.0
 - offensive_roster_d_avi_avg: 84.10
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Travis Etienne | C-AVI: 81.8 | D-AVI: 89.2
 - WR: Tetairoa McMillan | C-AVI: 85.3 | D-AVI: 94.8
 - WR: Jaylen Waddle | C-AVI: 77.7 | D-AVI: 89.5
-- TE: Colby Parkinson | C-AVI: 45.2 | D-AVI: 60.8
+- TE: Colby Parkinson | C-AVI: 44.9 | D-AVI: 60.8
 - FLEX: Luther Burden | C-AVI: 77.2 | D-AVI: 90.4
 - FLEX: TreVeyon Henderson | C-AVI: 72.9 | D-AVI: 89.0
 
@@ -206,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 45.2
+- Championship AVI (C-AVI, 0-100): 44.9
 - Dynasty AVI (D-AVI, 0-100): 60.8
 - Projected PPR points: 91.9
 - Category: offense

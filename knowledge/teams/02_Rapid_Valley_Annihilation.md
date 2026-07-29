@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-07-28
+- Last updated from Sleeper exports: 2026-07-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 545.4
-- championship_lineup_c_avi_avg: 68.17
-- offensive_roster_c_avi_sum: 651.2
-- offensive_roster_c_avi_avg: 59.20
-- offensive_roster_d_avi_sum: 853.9
-- offensive_roster_d_avi_avg: 77.63
+- championship_lineup_c_avi_sum: 545.2
+- championship_lineup_c_avi_avg: 68.15
+- offensive_roster_c_avi_sum: 651.0
+- offensive_roster_c_avi_avg: 59.18
+- offensive_roster_d_avi_sum: 853.8
+- offensive_roster_d_avi_avg: 77.62
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Wan'Dale Robinson | C-AVI: 67.7 | D-AVI: 83.0
 - WR: Quentin Johnston | C-AVI: 59.0 | D-AVI: 78.0
 - TE: Colston Loveland | C-AVI: 98.0 | D-AVI: 92.6
-- FLEX: AJ Barner | C-AVI: 54.8 | D-AVI: 75.1
 - FLEX: Blake Corum | C-AVI: 54.7 | D-AVI: 78.6
+- FLEX: AJ Barner | C-AVI: 54.6 | D-AVI: 75.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 54.8
-- Dynasty AVI (D-AVI, 0-100): 75.1
+- Championship AVI (C-AVI, 0-100): 54.6
+- Dynasty AVI (D-AVI, 0-100): 75.0
 - Projected PPR points: 124.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

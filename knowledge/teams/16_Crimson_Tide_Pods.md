@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-07-28
+- Last updated from Sleeper exports: 2026-07-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 538.6
-- championship_lineup_c_avi_avg: 67.33
-- offensive_roster_c_avi_sum: 732.9
-- offensive_roster_c_avi_avg: 56.38
+- championship_lineup_c_avi_sum: 538.4
+- championship_lineup_c_avi_avg: 67.30
+- offensive_roster_c_avi_sum: 732.4
+- offensive_roster_c_avi_avg: 56.34
 - offensive_roster_d_avi_sum: 940.6
 - offensive_roster_d_avi_avg: 72.35
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Tyjae Spears | C-AVI: 51.0 | D-AVI: 70.9
 - WR: DeVonta Smith | C-AVI: 87.4 | D-AVI: 93.1
 - WR: Alec Pierce | C-AVI: 74.7 | D-AVI: 86.0
-- TE: Oronde Gadsden | C-AVI: 55.6 | D-AVI: 78.6
+- TE: Oronde Gadsden | C-AVI: 55.4 | D-AVI: 78.6
 - FLEX: Michael Pittman | C-AVI: 67.9 | D-AVI: 81.7
 - FLEX: Jakobi Meyers | C-AVI: 65.3 | D-AVI: 79.1
 
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 55.6
+- Championship AVI (C-AVI, 0-100): 55.4
 - Dynasty AVI (D-AVI, 0-100): 78.6
 - Projected PPR points: 122.0
 - Category: offense
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 50.5
+- Championship AVI (C-AVI, 0-100): 50.2
 - Dynasty AVI (D-AVI, 0-100): 70.7
 - Projected PPR points: 111.4
 - Category: offense

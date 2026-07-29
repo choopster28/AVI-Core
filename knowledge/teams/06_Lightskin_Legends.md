@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-07-28
+- Last updated from Sleeper exports: 2026-07-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 486.8
-- championship_lineup_c_avi_avg: 81.13
-- offensive_roster_c_avi_sum: 543.1
-- offensive_roster_c_avi_avg: 67.89
+- championship_lineup_c_avi_sum: 486.7
+- championship_lineup_c_avi_avg: 81.12
+- offensive_roster_c_avi_sum: 543.0
+- offensive_roster_c_avi_avg: 67.88
 - offensive_roster_d_avi_sum: 598.6
 - offensive_roster_d_avi_avg: 74.83
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Dak Prescott | C-AVI: 76.2 | D-AVI: 79.4
+- QB: Dak Prescott | C-AVI: 76.1 | D-AVI: 79.4
 - RB: Jonathan Taylor | C-AVI: 97.7 | D-AVI: 95.6
 - RB: Chase Brown | C-AVI: 96.4 | D-AVI: 94.3
 - WR: DK Metcalf | C-AVI: 70.5 | D-AVI: 84.6
@@ -50,8 +50,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: DAL
 - Active: True
 - Status: Active
-- Age: 32.0
-- Championship AVI (C-AVI, 0-100): 76.2
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 76.1
 - Dynasty AVI (D-AVI, 0-100): 79.4
 - Projected PPR points: 306.0
 - Category: offense

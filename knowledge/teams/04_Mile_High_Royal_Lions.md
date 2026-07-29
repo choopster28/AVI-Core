@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-07-28
+- Last updated from Sleeper exports: 2026-07-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 669.8
-- championship_lineup_c_avi_avg: 83.72
-- offensive_roster_c_avi_sum: 882.3
-- offensive_roster_c_avi_avg: 73.52
+- championship_lineup_c_avi_sum: 669.6
+- championship_lineup_c_avi_avg: 83.70
+- offensive_roster_c_avi_sum: 881.8
+- offensive_roster_c_avi_avg: 73.48
 - offensive_roster_d_avi_sum: 983.1
 - offensive_roster_d_avi_avg: 81.92
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: J.K. Dobbins | C-AVI: 59.1 | D-AVI: 76.7
 - WR: Drake London | C-AVI: 97.8 | D-AVI: 97.7
 - WR: Garrett Wilson | C-AVI: 89.9 | D-AVI: 94.2
-- TE: Travis Kelce | C-AVI: 84.5 | D-AVI: 80.9
+- TE: Travis Kelce | C-AVI: 84.3 | D-AVI: 80.9
 - FLEX: DJ Moore | C-AVI: 75.4 | D-AVI: 86.4
 - FLEX: Marvin Harrison | C-AVI: 72.6 | D-AVI: 87.4
 
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 36.0
-- Championship AVI (C-AVI, 0-100): 84.5
+- Championship AVI (C-AVI, 0-100): 84.3
 - Dynasty AVI (D-AVI, 0-100): 80.9
 - Projected PPR points: 183.7
 - Category: offense
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 44.5
+- Championship AVI (C-AVI, 0-100): 44.2
 - Dynasty AVI (D-AVI, 0-100): 64.6
 - Projected PPR points: 76.4
 - Category: offense
