@@ -63,13 +63,7 @@ def latest_non_blacklisted_trade(team: dict, ledger: list[dict], now):
 
 
 def future_pick_davi(draft_assets: list[str], current_year: int) -> tuple[float, list[str]]:
-    """Return verified D-AVI from picks after the current season only.
-
-    The team-level D-AVI model intentionally excludes current-year picks because
-    those assets are already represented by drafted/current player values. This
-    prevents double counting while allowing 2027+ firsts and seconds (and the
-    small value already assigned to later rounds) to affect dynasty standing.
-    """
+    """Return verified D-AVI from picks after the current season only."""
     total = 0.0
     included: list[str] = []
     for asset in draft_assets:
@@ -96,41 +90,89 @@ def parse_team_with_future_pick_davi(path):
     return team
 
 
+def apply_website_dynasty_ladder(teams: list[dict]) -> list[dict]:
+    """Replicate the Power Rankings webpage's canonical D-AVI ladder.
+
+    Website method:
+      * canonical franchise D-AVI = full roster D-AVI + controlled 2027+ picks
+      * dynasty ladder score = 65% canonical D-AVI + 35% C-AVI
+      * a team cannot improve beyond half of its C-AVI rank
+    """
+    championship_order = sorted(
+        teams,
+        key=lambda team: (team["projected_score"], team["dynasty_score"], team["team_name"]),
+        reverse=True,
+    )
+    for index, team in enumerate(championship_order, start=1):
+        team["projected_rank"] = index
+        team["minimum_dynasty_rank"] = max(1, (index + 1) // 2)
+        team["dynasty_ladder_score"] = round(
+            team["dynasty_score"] * 0.65 + team["projected_score"] * 0.35,
+            1,
+        )
+
+    pending = sorted(
+        teams,
+        key=lambda team: (team["dynasty_ladder_score"], team["dynasty_score"], team["team_name"]),
+        reverse=True,
+    )
+    placed: list[dict] = []
+    for rank in range(1, len(teams) + 1):
+        eligible_index = next(
+            (index for index, team in enumerate(pending) if team["minimum_dynasty_rank"] <= rank),
+            0,
+        )
+        team = pending.pop(eligible_index)
+        team["dynasty_rank"] = rank
+        placed.append(team)
+    return placed
+
+
 def build_summary_with_current_dynasty(team: dict, above: dict | None, below: dict | None, ledger: list[dict], now):
     summary = _original_build_summary(team, above, below, ledger, now)
     dynasty_rank = team["dynasty_rank"]
     player_total = team["player_dynasty_score"]
     pick_total = team["future_pick_dynasty_score"]
-    combined = team["dynasty_score"]
+    canonical_davi = team["dynasty_score"]
+    ladder_score = team["dynasty_ladder_score"]
+    cavi_total = team["projected_score"]
+    rank_floor = team["minimum_dynasty_rank"]
 
-    if pick_total > 0:
-        dynasty_body = (
-            f"Dynasty rank #{dynasty_rank} of 16 with {combined:.2f} verified D-AVI: "
-            f"{player_total:.2f} from rostered players plus {pick_total:.2f} from controlled "
-            f"{now.year + 1}+ draft picks. Current-year picks are excluded to prevent double counting."
-        )
-    else:
-        dynasty_body = (
-            f"Dynasty rank #{dynasty_rank} of 16 with {combined:.2f} verified roster D-AVI. "
-            f"No controlled {now.year + 1}+ pick D-AVI was found, so the dynasty position receives "
-            "no future-draft-capital boost."
-        )
+    pick_phrase = (
+        f"{player_total:.2f} roster-player D-AVI plus {pick_total:.2f} from controlled {now.year + 1}+ picks"
+        if pick_total > 0
+        else f"{player_total:.2f} roster-player D-AVI with no verified {now.year + 1}+ pick value"
+    )
+    dynasty_body = (
+        f"The Power Rankings D-AVI ladder places this franchise #{dynasty_rank} of 16 at {ladder_score:.1f}. "
+        f"That exact webpage score blends 65% of the {canonical_davi:.2f} canonical franchise D-AVI "
+        f"({pick_phrase}) with 35% of the {cavi_total:.2f} starting-lineup C-AVI. "
+        f"The C-AVI placement guardrail sets a best-possible dynasty rank of #{rank_floor}."
+    )
 
-    summary["executive_summary"] += f" The updated dynasty profile ranks #{dynasty_rank} of 16 at {combined:.2f} total D-AVI."
+    summary["executive_summary"] += (
+        f" On the website's D-AVI ladder, the franchise ranks #{dynasty_rank} of 16 "
+        f"with a {ladder_score:.1f} dynasty power score."
+    )
     summary["dynasty_power"] = {
         "rank": dynasty_rank,
         "league_size": 16,
-        "score": combined,
+        "score": ladder_score,
+        "canonical_franchise_d_avi": canonical_davi,
         "player_d_avi": player_total,
         "future_pick_d_avi": pick_total,
+        "starting_lineup_c_avi": cavi_total,
+        "d_avi_weight": 0.65,
+        "c_avi_weight": 0.35,
+        "minimum_dynasty_rank": rank_floor,
         "included_future_picks": team["future_pick_dynasty_assets"],
         "current_year_picks_excluded": True,
-        "method": f"Verified rostered-player D-AVI plus controlled {now.year + 1}+ draft-pick D-AVI; current-year picks excluded",
+        "method": "Power Rankings webpage D-AVI ladder: 65% canonical franchise D-AVI plus 35% starting-lineup C-AVI, with the championship-rank placement floor",
     }
 
     dynasty_section = {
         "id": "dynasty-position",
-        "title": "Dynasty Position",
+        "title": "D-AVI Power Ranking",
         "body": dynasty_body,
     }
     insert_at = next(
@@ -138,8 +180,50 @@ def build_summary_with_current_dynasty(team: dict, above: dict | None, below: di
         1,
     )
     summary["sections"].insert(insert_at, dynasty_section)
-    summary["schema_version"] = max(6, int(summary.get("schema_version", 0)))
+    summary["schema_version"] = max(7, int(summary.get("schema_version", 0)))
     return summary
+
+
+def aligned_main() -> None:
+    now = datetime.now(generator.MOUNTAIN)
+    generator.OUTPUT.mkdir(parents=True, exist_ok=True)
+    team_paths = sorted(generator.TEAMS.glob("*.md"))
+    if len(team_paths) != 16:
+        raise RuntimeError(f"Expected 16 team files in {generator.TEAMS}, found {len(team_paths)}")
+
+    ledger = generator.parse_historical_trades()
+    teams = [generator.parse_team(path) for path in team_paths]
+    ranked = sorted(
+        teams,
+        key=lambda team: (team["projected_score"], team["dynasty_score"], team["team_name"]),
+        reverse=True,
+    )
+    for index, team in enumerate(ranked, start=1):
+        team["projected_rank"] = index
+
+    apply_website_dynasty_ladder(teams)
+
+    written: list[str] = []
+    for index, team in enumerate(ranked):
+        above = ranked[index - 1] if index > 0 else None
+        below = ranked[index + 1] if index + 1 < len(ranked) else None
+        summary = generator.build_summary(team, above, below, ledger, now)
+        destination = generator.OUTPUT / f"{summary['franchise_id']}.json"
+        destination.write_text(json.dumps(summary, indent=2) + "\n", encoding="utf-8")
+        written.append(destination.name)
+
+    manifest = {
+        "schema_version": 4,
+        "generated_at": now.isoformat(),
+        "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
+        "source_policy": "AVI-Core/knowledge only",
+        "franchise_count": len(written),
+        "projected_power_method": "Verified projected-starting-lineup C-AVI total",
+        "dynasty_power_method": "Power Rankings webpage D-AVI ladder: 65% canonical franchise D-AVI + 35% starting-lineup C-AVI with championship-rank placement floor",
+        "files": sorted(written),
+    }
+    (generator.OUTPUT / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
+    print(f"Wrote {len(written)} website-aligned franchise summaries to {generator.OUTPUT.relative_to(generator.ROOT)}")
 
 
 def validate_outputs() -> None:
@@ -148,6 +232,7 @@ def validate_outputs() -> None:
     if len(franchise_files) != 16:
         raise RuntimeError(f"Expected 16 franchise summaries, found {len(franchise_files)}")
 
+    ranks: list[int] = []
     for path in summaries:
         text = path.read_text(encoding="utf-8")
         if "original roster" in text.casefold():
@@ -156,19 +241,29 @@ def validate_outputs() -> None:
         if path.name == "manifest.json":
             continue
         dynasty = payload.get("dynasty_power", {})
-        expected = round(float(dynasty.get("player_d_avi", 0)) + float(dynasty.get("future_pick_d_avi", 0)), 2)
-        if round(float(dynasty.get("score", -1)), 2) != expected:
-            raise RuntimeError(f"Dynasty score does not reconcile in {path}")
+        canonical = round(float(dynasty.get("player_d_avi", 0)) + float(dynasty.get("future_pick_d_avi", 0)), 2)
+        if round(float(dynasty.get("canonical_franchise_d_avi", -1)), 2) != canonical:
+            raise RuntimeError(f"Canonical franchise D-AVI does not reconcile in {path}")
+        expected_ladder = round(canonical * 0.65 + float(dynasty.get("starting_lineup_c_avi", 0)) * 0.35, 1)
+        if round(float(dynasty.get("score", -1)), 1) != expected_ladder:
+            raise RuntimeError(f"Website D-AVI ladder score does not reconcile in {path}")
+        if int(dynasty.get("rank", 99)) < int(dynasty.get("minimum_dynasty_rank", 1)):
+            raise RuntimeError(f"Dynasty placement floor violated in {path}")
+        ranks.append(int(dynasty["rank"]))
         for pick in dynasty.get("included_future_picks", []):
             year_match = PICK_YEAR_RE.search(pick)
             if not year_match or int(year_match.group(1)) <= datetime.now(generator.MOUNTAIN).year:
                 raise RuntimeError(f"Invalid current-year pick included in dynasty score for {path}: {pick}")
+
+    if sorted(ranks) != list(range(1, 17)):
+        raise RuntimeError(f"Dynasty ranks are not a complete 1-16 ladder: {sorted(ranks)}")
 
 
 generator.split_assets = split_assets_with_team_names
 generator.latest_trade = latest_non_blacklisted_trade
 generator.parse_team = parse_team_with_future_pick_davi
 generator.build_summary = build_summary_with_current_dynasty
+generator.main = aligned_main
 
 
 if __name__ == "__main__":
