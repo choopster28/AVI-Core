@@ -95,8 +95,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Slot: 7
 - Original team: Crimson Tide Pods
 - Original roster ID: 16
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
 - Draft Pick AVI: 82.3
 - AVI category: Blue-Chip Starter
 - Validation status: verified_current_draft_order

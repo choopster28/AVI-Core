@@ -17,28 +17,28 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **67**
-- Owner trade participations: **135**
-- Two-team trades: **66**
+- Unique completed trades: **68**
+- Owner trade participations: **137**
+- Two-team trades: **67**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **24**
+- 2026 completed trades: **25**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-07-26T06:08:04.271000+00:00**
+- Latest verified trade: **2026-07-28T21:21:20.815000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Big Balder Brand | Choopski | **19** | 7 | 2 | 10 | 28 | 30 | 11 | 15 | 6 | 9 |
-| 2 | Corgi Loaf Baking Co.  | awang1900 | **18** | 7 | 4 | 7 | 27 | 28 | 13 | 21 | 11 | 11 |
+| 2 | Corgi Loaf Baking Co.  | awang1900 | **19** | 7 | 4 | 8 | 28 | 28 | 13 | 22 | 11 | 12 |
 | 3 | Conquistadors | Thecan | **15** | 6 | 2 | 7 | 13 | 15 | 10 | 17 | 5 | 6 |
 | 4 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 16 | 9 | 6 | 5 |
 | 5 | Ravens Regime  | Mentomorii | **14** | 3 | 3 | 8 | 12 | 17 | 15 | 10 | 9 | 7 |
 | 6 | DMV Fantasy | TacticsNoob | **10** | 5 | 2 | 3 | 16 | 13 | 8 | 3 | 4 | 2 |
 | 7 | Badland Banditos  | IcebergSlim69 | **9** | 4 | 4 | 1 | 9 | 11 | 5 | 10 | 3 | 3 |
-| 8 | Mile High Royal Lions | shawnh56 | **8** | 0 | 8 | 0 | 9 | 11 | 10 | 11 | 2 | 5 |
+| 8 | Mile High Royal Lions | shawnh56 | **9** | 0 | 8 | 1 | 9 | 12 | 11 | 11 | 3 | 5 |
 | 9 | All Hail King Jesus | Hofer51 | **5** | 0 | 4 | 1 | 6 | 3 | 3 | 8 | 1 | 2 |
 | 10 | Crimson Tide Pods | nickas | **5** | 0 | 1 | 4 | 7 | 5 | 9 | 3 | 4 | 2 |
 | 11 | Lightskin Legends ✊🏽 | MadDawgMatt | **5** | 2 | 3 | 0 | 5 | 3 | 3 | 5 | 0 | 1 |
@@ -70,6 +70,24 @@
 | Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1387942050321678336
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-07-28T21:21:20.815000+00:00
+- Teams involved: 2
+
+#### Mile High Royal Lions (shawnh56)
+- Players received: None
+- Players sent: DJ Moore
+- Picks received: 2026 Round 1 (original roster 16)
+- Picks sent: None
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: DJ Moore
+- Players sent: None
+- Picks received: None
+- Picks sent: 2026 Round 1 (original roster 16)
 
 ### TRADE: 1386987441226792960
 - Season: 2026
