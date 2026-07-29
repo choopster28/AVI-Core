@@ -93,6 +93,14 @@ jobs:
 
           git commit -m "Manual AVI team profiles update"
 
+          # The profile generator may also modify tracked cache/source files that
+          # are intentionally not part of this workflow's commit. A rebase refuses
+          # to start while those edits remain in the worktree. Resetting to HEAD is
+          # safe here because the intended knowledge/teams changes are now committed.
+          echo "Discarding non-profile working-tree changes before rebase."
+          git reset --hard HEAD
+          git status --short
+
           for attempt in 1 2 3; do
             echo "Push attempt ${attempt} of 3"
 
@@ -100,7 +108,7 @@ jobs:
 
             if ! git rebase origin/main; then
               echo "::error::Rebase conflict detected."
-              git rebase --abort
+              git rebase --abort || true
               exit 1
             fi
 
