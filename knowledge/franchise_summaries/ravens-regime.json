@@ -5,33 +5,33 @@
   "roster_id": 3,
   "owner_display_name": "Mentomorii",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 27, 2026",
-  "generated_at": "2026-07-27T22:07:37.415188-06:00",
+  "reporting_period": "Week of July 28, 2026",
+  "generated_at": "2026-07-28T21:31:14.889986-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Ravens Regime: Preseason Front Office Brief",
-  "executive_summary": "Ravens Regime is projected #5 of 16 with a 631.90 projected-starting-lineup C-AVI total, led by Lamar Jackson, Kyle Pitts, and Derrick Henry. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Ravens Regime is projected #5 of 16 with a 637.20 projected-starting-lineup C-AVI total, led by Lamar Jackson, Kyle Pitts, and Derrick Henry. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 5,
     "league_size": 16,
-    "score": 631.9,
+    "score": 637.2,
     "team_above": {
       "name": "SmokyValleyWheatWarriors",
       "rank": 4,
-      "score": 657.8,
-      "gap": 25.899999999999977
+      "score": 661.6,
+      "gap": 24.399999999999977
     },
     "team_below": {
       "name": "Corgi Loaf Baking Co.",
       "rank": 6,
-      "score": 629.7,
-      "gap": 2.199999999999932
+      "score": 634.3,
+      "gap": 2.900000000000091
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 11,
     "league_size": 16,
-    "score": 760.7,
+    "score": 825.4,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -54,16 +54,16 @@
       "2026 Round 1 (Ravens Regime)",
       "2028 Round 1 (Ravens Regime)"
     ],
-    "summary": "On July 26, Ravens Regime traded with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) while sending Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime). Isaac TeSlaa is now on the current roster at 36.0 C-AVI and 55.6 D-AVI; Kyle Pitts is now the current TE starter at 93.9 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+    "summary": "On July 26, Ravens Regime traded with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) while sending Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime). Isaac TeSlaa is now on the current roster at 37.7 C-AVI and 67.0 D-AVI; Kyle Pitts is now the current TE starter at 94.1 C-AVI and 89.3 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Romeo Doubs's 54.6 C-AVI baseline; a replacement near 80.5 C-AVI would directly attack the 25.90-point projected gap to SmokyValleyWheatWarriors.",
+    "Raise the FLEX slot above Romeo Doubs's 55.8 C-AVI baseline; a replacement near 80.2 C-AVI would directly attack the 24.40-point projected gap to SmokyValleyWheatWarriors.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Corgi Loaf Baking Co.",
     "projected_rank": 6,
-    "projected_score": 629.7,
+    "projected_score": 634.3,
     "latest_trade": {
       "transaction_id": "1386987441226792960",
       "created_at": "2026-07-26T06:08:04.271000+00:00",
@@ -84,44 +84,44 @@
       "picks_sent": [
         "2026 Round 1 (Rapid Valley Annihilation)"
       ],
-      "summary": "On July 26, Corgi Loaf Baking Co. traded with Ravens Regime and acquired Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime) while sending Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.1 C-AVI and 90.0 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+      "summary": "On July 26, Corgi Loaf Baking Co. traded with Ravens Regime and acquired Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime) while sending Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.2 C-AVI and 91.9 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
     },
-    "summary": "On July 26, Corgi Loaf Baking Co. traded with Ravens Regime and acquired Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime) while sending Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.1 C-AVI and 90.0 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+    "summary": "On July 26, Corgi Loaf Baking Co. traded with Ravens Regime and acquired Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime) while sending Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.2 C-AVI and 91.9 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #5 of 16 at 631.90 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 657.80, a gap of 25.90. Corgi Loaf Baking Co. is immediately behind at 629.70."
+      "body": "Projected #5 of 16 at 637.20 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 661.60, a gap of 24.40. Corgi Loaf Baking Co. is immediately behind at 634.30."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Lamar Jackson (97.0), Kyle Pitts (93.9), and Derrick Henry (92.1)."
+      "body": "The three highest C-AVI starters are Lamar Jackson (97.0), Kyle Pitts (94.1), and Derrick Henry (92.9)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 26, Ravens Regime traded with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) while sending Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime). Isaac TeSlaa is now on the current roster at 36.0 C-AVI and 55.6 D-AVI; Kyle Pitts is now the current TE starter at 93.9 C-AVI and 87.0 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+      "body": "On July 26, Ravens Regime traded with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) while sending Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime). Isaac TeSlaa is now on the current roster at 37.7 C-AVI and 67.0 D-AVI; Kyle Pitts is now the current TE starter at 94.1 C-AVI and 89.3 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Romeo Doubs's 54.6 C-AVI baseline; a replacement near 80.5 C-AVI would directly attack the 25.90-point projected gap to SmokyValleyWheatWarriors. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Romeo Doubs's 55.8 C-AVI baseline; a replacement near 80.2 C-AVI would directly attack the 24.40-point projected gap to SmokyValleyWheatWarriors. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Romeo Doubs's 54.6 C-AVI baseline; a replacement near 80.5 C-AVI would directly attack the 25.90-point projected gap to SmokyValleyWheatWarriors.",
+        "Raise the FLEX slot above Romeo Doubs's 55.8 C-AVI baseline; a replacement near 80.2 C-AVI would directly attack the 24.40-point projected gap to SmokyValleyWheatWarriors.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 26, Corgi Loaf Baking Co. traded with Ravens Regime and acquired Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime) while sending Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.1 C-AVI and 90.0 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+      "body": "On July 26, Corgi Loaf Baking Co. traded with Ravens Regime and acquired Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime) while sending Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation). Tyler Warren is now the current TE starter at 97.2 C-AVI and 91.9 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Romeo Doubs is the lowest C-AVI starter in the verified championship lineup at 54.6. Any acquisition should clear that exact lineup threshold."
+      "body": "Romeo Doubs is the lowest C-AVI starter in the verified championship lineup at 55.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -141,7 +141,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-27",
+    "source_last_updated": "2026-07-28",
     "external_sources_used": false,
     "conversation_context_used": false
   }

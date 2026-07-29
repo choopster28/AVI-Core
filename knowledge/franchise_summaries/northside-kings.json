@@ -5,28 +5,33 @@
   "roster_id": 5,
   "owner_display_name": "srsmith95",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 27, 2026",
-  "generated_at": "2026-07-27T22:07:37.415188-06:00",
+  "reporting_period": "Week of July 28, 2026",
+  "generated_at": "2026-07-28T21:31:14.889986-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Northside Kings: Preseason Front Office Brief",
-  "executive_summary": "Northside Kings is projected #16 of 16 with a 482.90 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Northside Kings is projected #15 of 16 with a 490.50 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 16,
+    "rank": 15,
     "league_size": 16,
-    "score": 482.9,
+    "score": 490.5,
     "team_above": {
-      "name": "Lightskin Legends \u270a\ud83c\udffd",
-      "rank": 15,
-      "score": 483.4,
-      "gap": 0.5
+      "name": "Crimson Tide Pods",
+      "rank": 14,
+      "score": 538.6,
+      "gap": 48.10000000000002
     },
-    "team_below": null,
+    "team_below": {
+      "name": "Lightskin Legends \u270a\ud83c\udffd",
+      "rank": 16,
+      "score": 486.8,
+      "gap": 3.6999999999999886
+    },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 4,
+    "rank": 2,
     "league_size": 16,
-    "score": 905.2,
+    "score": 1029.2,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -46,47 +51,69 @@
       "2026 Round 2 (Rapid Valley Annihilation)"
     ],
     "picks_sent": [],
-    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 61.6 C-AVI and 72.6 D-AVI; Bhayshul Tuten is now the current RB starter at 72.2 C-AVI and 76.4 D-AVI; The deal added 1 draft asset."
+    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.7 C-AVI and 81.6 D-AVI; Bhayshul Tuten is now the current RB starter at 73.1 C-AVI and 84.9 D-AVI; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Raise the QB slot above Jordan Love's 50.9 C-AVI baseline; a replacement near 63.9 C-AVI would directly attack the 0.50-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
+    "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 99.3 C-AVI would directly attack the 48.10-point projected gap to Crimson Tide Pods.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
-  "rival_below": null,
+  "rival_below": {
+    "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
+    "projected_rank": 16,
+    "projected_score": 486.8,
+    "latest_trade": {
+      "transaction_id": "1288899605622165504",
+      "created_at": "2025-10-28T14:02:01.879000+00:00",
+      "counterparties": [
+        "Murray had a little Lamb"
+      ],
+      "players_received": [
+        "Kayshon Boutte"
+      ],
+      "players_sent": [],
+      "picks_received": [],
+      "picks_sent": [
+        "2026 Round 3 (Conquistadors)",
+        "2027 Round 2 (Conquistadors)"
+      ],
+      "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
+    },
+    "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
+  },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #16 of 16 at 482.90 lineup C-AVI. Lightskin Legends \u270a\ud83c\udffd is immediately above at 483.40, a gap of 0.50."
+      "body": "Projected #15 of 16 at 490.50 lineup C-AVI. Crimson Tide Pods is immediately above at 538.60, a gap of 48.10. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 486.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Bhayshul Tuten (72.2), Mike Evans (69.8), and RJ Harvey (61.6)."
+      "body": "The three highest C-AVI starters are Bhayshul Tuten (73.1), Mike Evans (70.7), and RJ Harvey (62.7)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 61.6 C-AVI and 72.6 D-AVI; Bhayshul Tuten is now the current RB starter at 72.2 C-AVI and 76.4 D-AVI; The deal added 1 draft asset."
+      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.7 C-AVI and 81.6 D-AVI; Bhayshul Tuten is now the current RB starter at 73.1 C-AVI and 84.9 D-AVI; The deal added 1 draft asset."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above Jordan Love's 50.9 C-AVI baseline; a replacement near 63.9 C-AVI would directly attack the 0.50-point projected gap to Lightskin Legends \u270a\ud83c\udffd. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 99.3 C-AVI would directly attack the 48.10-point projected gap to Crimson Tide Pods. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the QB slot above Jordan Love's 50.9 C-AVI baseline; a replacement near 63.9 C-AVI would directly attack the 0.50-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
+        "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 99.3 C-AVI would directly attack the 48.10-point projected gap to Crimson Tide Pods.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "This franchise is currently projected last, so there is no team immediately beneath it."
+      "body": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jordan Love is the lowest C-AVI starter in the verified championship lineup at 50.9. Any acquisition should clear that exact lineup threshold."
+      "body": "Jordan Love is the lowest C-AVI starter in the verified championship lineup at 51.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -106,7 +133,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-27",
+    "source_last_updated": "2026-07-28",
     "external_sources_used": false,
     "conversation_context_used": false
   }

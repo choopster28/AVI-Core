@@ -5,33 +5,33 @@
   "roster_id": 14,
   "owner_display_name": "PIFYAF",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 27, 2026",
-  "generated_at": "2026-07-27T22:07:37.415188-06:00",
+  "reporting_period": "Week of July 28, 2026",
+  "generated_at": "2026-07-28T21:31:14.889986-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Phalhala or Bust: Preseason Front Office Brief",
-  "executive_summary": "Phalhala or Bust is projected #12 of 16 with a 547.40 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Phalhala or Bust is projected #12 of 16 with a 553.60 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
     "rank": 12,
     "league_size": 16,
-    "score": 547.4,
+    "score": 553.6,
     "team_above": {
       "name": "Gringo\u2019s Goblins",
       "rank": 11,
-      "score": 557.9,
-      "gap": 10.5
+      "score": 564.8,
+      "gap": 11.199999999999932
     },
     "team_below": {
       "name": "Rapid Valley Annihilation",
       "rank": 13,
-      "score": 539.6,
-      "gap": 7.7999999999999545
+      "score": 545.4,
+      "gap": 8.200000000000045
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 713.3,
+    "score": 780.0,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -51,16 +51,16 @@
       "2026 Round 4 (Badland Banditos)"
     ],
     "picks_sent": [],
-    "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 61.8 C-AVI and 73.3 D-AVI; The deal added 2 draft assets."
+    "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.4 C-AVI and 82.4 D-AVI; The deal added 2 draft assets."
   },
   "gap_closing_moves": [
-    "Raise the QB slot above C.J. Stroud's 47.5 C-AVI baseline; a replacement near 58.0 C-AVI would directly attack the 10.50-point projected gap to Gringo\u2019s Goblins.",
+    "Raise the QB slot above C.J. Stroud's 47.8 C-AVI baseline; a replacement near 59.0 C-AVI would directly attack the 11.20-point projected gap to Gringo\u2019s Goblins.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "Rapid Valley Annihilation",
     "projected_rank": 13,
-    "projected_score": 539.6,
+    "projected_score": 545.4,
     "latest_trade": {
       "transaction_id": "1380817964328034304",
       "created_at": "2026-07-09T05:32:46.354000+00:00",
@@ -84,24 +84,24 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #12 of 16 at 547.40 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 557.90, a gap of 10.50. Rapid Valley Annihilation is immediately behind at 539.60."
+      "body": "Projected #12 of 16 at 553.60 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 564.80, a gap of 11.20. Rapid Valley Annihilation is immediately behind at 545.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ashton Jeanty (97.0), Sam LaPorta (85.8), and Rome Odunze (76.7)."
+      "body": "The three highest C-AVI starters are Ashton Jeanty (97.1), Sam LaPorta (86.0), and Rome Odunze (77.3)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 61.8 C-AVI and 73.3 D-AVI; The deal added 2 draft assets."
+      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.4 C-AVI and 82.4 D-AVI; The deal added 2 draft assets."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above C.J. Stroud's 47.5 C-AVI baseline; a replacement near 58.0 C-AVI would directly attack the 10.50-point projected gap to Gringo\u2019s Goblins. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the QB slot above C.J. Stroud's 47.8 C-AVI baseline; a replacement near 59.0 C-AVI would directly attack the 11.20-point projected gap to Gringo\u2019s Goblins. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the QB slot above C.J. Stroud's 47.5 C-AVI baseline; a replacement near 58.0 C-AVI would directly attack the 10.50-point projected gap to Gringo\u2019s Goblins.",
+        "Raise the QB slot above C.J. Stroud's 47.8 C-AVI baseline; a replacement near 59.0 C-AVI would directly attack the 11.20-point projected gap to Gringo\u2019s Goblins.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
@@ -113,7 +113,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "C.J. Stroud is the lowest C-AVI starter in the verified championship lineup at 47.5. Any acquisition should clear that exact lineup threshold."
+      "body": "C.J. Stroud is the lowest C-AVI starter in the verified championship lineup at 47.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -133,7 +133,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-27",
+    "source_last_updated": "2026-07-28",
     "external_sources_used": false,
     "conversation_context_used": false
   }

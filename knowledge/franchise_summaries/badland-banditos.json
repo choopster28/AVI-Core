@@ -5,33 +5,33 @@
   "roster_id": 7,
   "owner_display_name": "IcebergSlim69",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 27, 2026",
-  "generated_at": "2026-07-27T22:07:37.415188-06:00",
+  "reporting_period": "Week of July 28, 2026",
+  "generated_at": "2026-07-28T21:31:14.889986-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Badland Banditos: Preseason Front Office Brief",
-  "executive_summary": "Badland Banditos is projected #9 of 16 with a 614.20 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Badland Banditos is projected #9 of 16 with a 618.40 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 614.2,
+    "score": 618.4,
     "team_above": {
-      "name": "Southside Savages",
+      "name": "All Hail King Jesus",
       "rank": 8,
-      "score": 620.3,
-      "gap": 6.099999999999909
+      "score": 625.6,
+      "gap": 7.2000000000000455
     },
     "team_below": {
       "name": "DMV Fantasy",
       "rank": 10,
-      "score": 581.5,
-      "gap": 32.700000000000045
+      "score": 587.6,
+      "gap": 30.799999999999955
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 6,
+    "rank": 5,
     "league_size": 16,
-    "score": 876.4,
+    "score": 959.6,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": {
@@ -53,16 +53,16 @@
       "2026 Round 1 (Corgi Loaf Baking Co.)",
       "2026 Round 1 (All Hail King Jesus)"
     ],
-    "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.3 C-AVI and 86.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+    "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.7 C-AVI and 93.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jayden Higgins's 50.3 C-AVI baseline; a replacement near 56.4 C-AVI would directly attack the 6.10-point projected gap to Southside Savages.",
+    "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 7.20-point projected gap to All Hail King Jesus.",
     "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
   ],
   "rival_below": {
     "franchise_name": "DMV Fantasy",
     "projected_rank": 10,
-    "projected_score": 581.5,
+    "projected_score": 587.6,
     "latest_trade": {
       "transaction_id": "1386578462004772864",
       "created_at": "2026-07-25T03:02:56.026000+00:00",
@@ -78,44 +78,44 @@
       ],
       "picks_received": [],
       "picks_sent": [],
-      "summary": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 87.8 C-AVI and 85.7 D-AVI."
+      "summary": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 88.2 C-AVI and 92.9 D-AVI."
     },
-    "summary": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 87.8 C-AVI and 85.7 D-AVI."
+    "summary": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 88.2 C-AVI and 92.9 D-AVI."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #9 of 16 at 614.20 lineup C-AVI. Southside Savages is immediately above at 620.30, a gap of 6.10. DMV Fantasy is immediately behind at 581.50."
+      "body": "Projected #9 of 16 at 618.40 lineup C-AVI. All Hail King Jesus is immediately above at 625.60, a gap of 7.20. DMV Fantasy is immediately behind at 587.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.0), and Kenneth Walker (87.3)."
+      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.0), and Kenneth Walker (87.7)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.3 C-AVI and 86.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+      "body": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.7 C-AVI and 93.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jayden Higgins's 50.3 C-AVI baseline; a replacement near 56.4 C-AVI would directly attack the 6.10-point projected gap to Southside Savages. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 7.20-point projected gap to All Hail King Jesus. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
       "items": [
-        "Raise the FLEX slot above Jayden Higgins's 50.3 C-AVI baseline; a replacement near 56.4 C-AVI would directly attack the 6.10-point projected gap to Southside Savages.",
+        "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 7.20-point projected gap to All Hail King Jesus.",
         "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 87.8 C-AVI and 85.7 D-AVI."
+      "body": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 88.2 C-AVI and 92.9 D-AVI."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 50.3. Any acquisition should clear that exact lineup threshold."
+      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 51.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -135,7 +135,7 @@
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-27",
+    "source_last_updated": "2026-07-28",
     "external_sources_used": false,
     "conversation_context_used": false
   }
