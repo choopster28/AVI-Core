@@ -17,13 +17,13 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **68**
-- Owner trade participations: **137**
-- Two-team trades: **67**
+- Unique completed trades: **69**
+- Owner trade participations: **139**
+- Two-team trades: **68**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **25**
+- 2026 completed trades: **26**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
 - Latest verified trade: **2026-07-28T21:21:20.815000+00:00**
 
@@ -31,18 +31,18 @@
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Big Balder Brand | Choopski | **19** | 7 | 2 | 10 | 28 | 30 | 11 | 15 | 6 | 9 |
-| 2 | Corgi Loaf Baking Co.  | awang1900 | **19** | 7 | 4 | 8 | 28 | 28 | 13 | 22 | 11 | 12 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **20** | 7 | 4 | 9 | 29 | 28 | 14 | 23 | 11 | 13 |
+| 2 | Big Balder Brand | Choopski | **19** | 7 | 2 | 10 | 28 | 30 | 11 | 15 | 6 | 9 |
 | 3 | Conquistadors | Thecan | **15** | 6 | 2 | 7 | 13 | 15 | 10 | 17 | 5 | 6 |
 | 4 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 16 | 9 | 6 | 5 |
 | 5 | Ravens Regime  | Mentomorii | **14** | 3 | 3 | 8 | 12 | 17 | 15 | 10 | 9 | 7 |
 | 6 | DMV Fantasy | TacticsNoob | **10** | 5 | 2 | 3 | 16 | 13 | 8 | 3 | 4 | 2 |
 | 7 | Badland Banditos  | IcebergSlim69 | **9** | 4 | 4 | 1 | 9 | 11 | 5 | 10 | 3 | 3 |
 | 8 | Mile High Royal Lions | shawnh56 | **9** | 0 | 8 | 1 | 9 | 12 | 11 | 11 | 3 | 5 |
-| 9 | All Hail King Jesus | Hofer51 | **5** | 0 | 4 | 1 | 6 | 3 | 3 | 8 | 1 | 2 |
-| 10 | Crimson Tide Pods | nickas | **5** | 0 | 1 | 4 | 7 | 5 | 9 | 3 | 4 | 2 |
-| 11 | Lightskin Legends ✊🏽 | MadDawgMatt | **5** | 2 | 3 | 0 | 5 | 3 | 3 | 5 | 0 | 1 |
-| 12 | Rapid Valley Annihilation | FuzzyRaptor | **5** | 0 | 3 | 2 | 9 | 9 | 10 | 4 | 4 | 1 |
+| 9 | Rapid Valley Annihilation | FuzzyRaptor | **6** | 0 | 3 | 3 | 9 | 10 | 11 | 5 | 5 | 1 |
+| 10 | All Hail King Jesus | Hofer51 | **5** | 0 | 4 | 1 | 6 | 3 | 3 | 8 | 1 | 2 |
+| 11 | Crimson Tide Pods | nickas | **5** | 0 | 1 | 4 | 7 | 5 | 9 | 3 | 4 | 2 |
+| 12 | Lightskin Legends ✊🏽 | MadDawgMatt | **5** | 2 | 3 | 0 | 5 | 3 | 3 | 5 | 0 | 1 |
 | 13 | SmokyValleyWheatWarriors | AlexPete6800 | **4** | 2 | 2 | 0 | 1 | 3 | 5 | 2 | 0 | 1 |
 | 14 | Gringo’s Goblins  | Burnfaze | **1** | 0 | 0 | 1 | 3 | 3 | 1 | 1 | 1 | 0 |
 | 15 | Phalhala or Bust | PIFYAF | **1** | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 0 | 0 |
@@ -56,7 +56,7 @@
 | Badland Banditos  | DMV Fantasy | 2 |
 | Big Balder Brand | DMV Fantasy | 6 |
 | Conquistadors | Northside Kings  | 5 |
-| Corgi Loaf Baking Co.  | Ravens Regime , Big Balder Brand | 4 |
+| Corgi Loaf Baking Co.  | Rapid Valley Annihilation, Ravens Regime , Big Balder Brand | 4 |
 | Crimson Tide Pods | Conquistadors, Ravens Regime , Northside Kings , Lightskin Legends ✊🏽, Badland Banditos , Corgi Loaf Baking Co.  | 1 |
 | DMV Fantasy | Big Balder Brand | 6 |
 | Gringo’s Goblins  | Big Balder Brand | 1 |
@@ -64,7 +64,7 @@
 | Mile High Royal Lions | Northside Kings , All Hail King Jesus | 2 |
 | Northside Kings  | Conquistadors | 5 |
 | Phalhala or Bust | Ravens Regime  | 1 |
-| Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 3 |
+| Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 4 |
 | Ravens Regime  | Corgi Loaf Baking Co.  | 4 |
 | SmokyValleyWheatWarriors | Conquistadors | 2 |
 | Southside Savages | Ravens Regime  | 1 |
@@ -88,6 +88,24 @@
 - Players sent: None
 - Picks received: None
 - Picks sent: 2026 Round 1 (original roster 16)
+
+### TRADE: 1387232278626713600
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-07-26T22:20:58.055000+00:00
+- Teams involved: 2
+
+#### Rapid Valley Annihilation (FuzzyRaptor)
+- Players received: None
+- Players sent: Wan'Dale Robinson
+- Picks received: 2026 Round 1 (original roster 3)
+- Picks sent: 2026 Round 3 (original roster 2)
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: Wan'Dale Robinson
+- Players sent: None
+- Picks received: 2026 Round 3 (original roster 2)
+- Picks sent: 2026 Round 1 (original roster 3)
 
 ### TRADE: 1386987441226792960
 - Season: 2026

@@ -1408,9 +1408,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Wan'Dale Robinson
 - Player ID: 8126
 - Position: WR
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
-- Team file: 02_Rapid_Valley_Annihilation.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Woody Marks
 - Player name: Woody Marks

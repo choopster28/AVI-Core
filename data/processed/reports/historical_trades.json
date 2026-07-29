@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-29T20:40:22.804233+00:00",
+  "generated_at_utc": "2026-07-29T22:42:49.207638+00:00",
   "statistics": {
-    "owner_trade_participations": 137,
+    "owner_trade_participations": 139,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -38,6 +38,7 @@
       {
         "partner_count": 4,
         "partners": [
+          "Rapid Valley Annihilation",
           "Ravens Regime ",
           "Big Balder Brand"
         ],
@@ -111,7 +112,7 @@
         "team_name": "Phalhala or Bust"
       },
       {
-        "partner_count": 3,
+        "partner_count": 4,
         "partners": [
           "Corgi Loaf Baking Co. "
         ],
@@ -147,6 +148,23 @@
       {
         "by_season": {
           "2024": 7,
+          "2025": 4,
+          "2026": 9
+        },
+        "firsts_in": 11,
+        "firsts_out": 13,
+        "owner_display_name": "awang1900",
+        "picks_in": 14,
+        "picks_out": 23,
+        "players_in": 29,
+        "players_out": 28,
+        "roster_id": 11,
+        "team_name": "Corgi Loaf Baking Co. ",
+        "total": 20
+      },
+      {
+        "by_season": {
+          "2024": 7,
           "2025": 2,
           "2026": 10
         },
@@ -159,23 +177,6 @@
         "players_out": 30,
         "roster_id": 9,
         "team_name": "Big Balder Brand",
-        "total": 19
-      },
-      {
-        "by_season": {
-          "2024": 7,
-          "2025": 4,
-          "2026": 8
-        },
-        "firsts_in": 11,
-        "firsts_out": 12,
-        "owner_display_name": "awang1900",
-        "picks_in": 13,
-        "picks_out": 22,
-        "players_in": 28,
-        "players_out": 28,
-        "roster_id": 11,
-        "team_name": "Corgi Loaf Baking Co. ",
         "total": 19
       },
       {
@@ -281,6 +282,22 @@
       },
       {
         "by_season": {
+          "2025": 3,
+          "2026": 3
+        },
+        "firsts_in": 5,
+        "firsts_out": 1,
+        "owner_display_name": "FuzzyRaptor",
+        "picks_in": 11,
+        "picks_out": 5,
+        "players_in": 9,
+        "players_out": 10,
+        "roster_id": 2,
+        "team_name": "Rapid Valley Annihilation",
+        "total": 6
+      },
+      {
+        "by_season": {
           "2025": 4,
           "2026": 1
         },
@@ -325,22 +342,6 @@
         "players_out": 3,
         "roster_id": 6,
         "team_name": "Lightskin Legends ✊🏽",
-        "total": 5
-      },
-      {
-        "by_season": {
-          "2025": 3,
-          "2026": 2
-        },
-        "firsts_in": 4,
-        "firsts_out": 1,
-        "owner_display_name": "FuzzyRaptor",
-        "picks_in": 10,
-        "picks_out": 4,
-        "players_in": 9,
-        "players_out": 9,
-        "roster_id": 2,
-        "team_name": "Rapid Valley Annihilation",
         "total": 5
       },
       {
@@ -409,10 +410,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 25
+      "2026": 26
     },
-    "two_team_trades": 67,
-    "unique_completed_trades": 68
+    "two_team_trades": 68,
+    "unique_completed_trades": 69
   },
   "trades": [
     {
@@ -5737,6 +5738,76 @@
         }
       ],
       "transaction_id": "1386987441226792960",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-07-26T22:20:58.055000+00:00",
+      "created_timestamp_ms": 1785104458055,
+      "roster_ids": [
+        2,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "FuzzyRaptor",
+          "owner_id": "1178861684281753600",
+          "picks_received": [
+            {
+              "original_roster_id": 3,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 2,
+              "round": 3,
+              "season": "2026"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "8126",
+              "player_name": "Wan'Dale Robinson"
+            }
+          ],
+          "roster_id": 2,
+          "season": 2026,
+          "team_name": "Rapid Valley Annihilation"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 2,
+              "round": 3,
+              "season": "2026"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 3,
+              "round": 1,
+              "season": "2026"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8126",
+              "player_name": "Wan'Dale Robinson"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1387232278626713600",
       "week": 1
     },
     {

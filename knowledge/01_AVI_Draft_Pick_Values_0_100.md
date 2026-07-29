@@ -108,8 +108,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Slot: 8
 - Original team: Ravens Regime 
 - Original roster ID: 3
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
 - Draft Pick AVI: 80.6
 - AVI category: Blue-Chip Starter
 - Validation status: verified_current_draft_order
@@ -459,8 +459,8 @@ Retrieval purpose: official draft-pick AVI values and verified current-year owne
 - Slot: 3
 - Original team: Rapid Valley Annihilation
 - Original roster ID: 2
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
 - Draft Pick AVI: 27.5
 - AVI category: Speculative Stash
 - Validation status: verified_current_draft_order
