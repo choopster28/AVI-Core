@@ -6,7 +6,7 @@
   "owner_display_name": "srsmith95",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T17:01:44.218571-06:00",
+  "generated_at": "2026-07-29T17:50:55.730705-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Northside Kings: Preseason Front Office Brief",
   "executive_summary": "Northside Kings is projected #15 of 16 with a 490.30 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
@@ -15,10 +15,10 @@
     "league_size": 16,
     "score": 490.3,
     "team_above": {
-      "name": "Crimson Tide Pods",
+      "name": "Rapid Valley Annihilation",
       "rank": 14,
-      "score": 538.4,
-      "gap": 48.099999999999966
+      "score": 522.8,
+      "gap": 32.49999999999994
     },
     "team_below": {
       "name": "Lightskin Legends \u270a\ud83c\udffd",
@@ -29,7 +29,7 @@
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 2,
+    "rank": 3,
     "league_size": 16,
     "score": 1028.7,
     "player_d_avi": 1028.7,
@@ -38,7 +38,7 @@
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 99.3 C-AVI would directly attack the 48.10-point projected gap to Crimson Tide Pods."
+    "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 83.7 C-AVI would directly attack the 32.50-point projected gap to Rapid Valley Annihilation."
   ],
   "rival_below": {
     "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
@@ -58,7 +58,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #15 of 16 at 490.30 lineup C-AVI. Crimson Tide Pods is immediately above at 538.40, a gap of 48.10. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 486.80."
+      "body": "Projected #15 of 16 at 490.30 lineup C-AVI. Rapid Valley Annihilation is immediately above at 522.80, a gap of 32.50. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 486.80."
     },
     {
       "id": "competitive-core",
@@ -73,9 +73,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 99.3 C-AVI would directly attack the 48.10-point projected gap to Crimson Tide Pods.",
+      "body": "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 83.7 C-AVI would directly attack the 32.50-point projected gap to Rapid Valley Annihilation.",
       "items": [
-        "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 99.3 C-AVI would directly attack the 48.10-point projected gap to Crimson Tide Pods."
+        "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 83.7 C-AVI would directly attack the 32.50-point projected gap to Rapid Valley Annihilation."
       ]
     },
     {

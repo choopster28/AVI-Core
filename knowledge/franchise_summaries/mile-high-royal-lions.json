@@ -6,7 +6,7 @@
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T17:01:44.218571-06:00",
+  "generated_at": "2026-07-29T17:50:55.730705-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
   "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 666.60 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
@@ -44,21 +44,15 @@
     "franchise_name": "SmokyValleyWheatWarriors",
     "projected_rank": 4,
     "projected_score": 661.4,
-    "latest_trade": {
-      "transaction_id": "1377688089559846912",
-      "created_at": "2026-06-30T14:15:46.059000+00:00",
-      "type": "trade",
-      "summary": "On June 30, SmokyValleyWheatWarriors completed a trade with Conquistadors, Northside Kings, Crimson Tide Pods.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1377688089559846912",
-      "created_at": "2026-06-30T14:15:46.059000+00:00",
-      "type": "trade",
-      "summary": "On June 30, SmokyValleyWheatWarriors completed a trade with Conquistadors, Northside Kings, Crimson Tide Pods.",
+      "transaction_id": "1357352399894749184",
+      "created_at": "2026-05-05T11:28:59.825000+00:00",
+      "type": "commissioner",
+      "summary": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On June 30, SmokyValleyWheatWarriors completed a trade with Conquistadors, Northside Kings, Crimson Tide Pods."
+    "summary": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid."
   },
   "sections": [
     {
@@ -87,7 +81,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On June 30, SmokyValleyWheatWarriors completed a trade with Conquistadors, Northside Kings, Crimson Tide Pods."
+      "body": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid."
     },
     {
       "id": "lineup-pressure-point",
@@ -108,8 +102,7 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/04_Mile_High_Royal_Lions.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/04_Mile_High_Royal_Lions.md"
     ],
     "source_last_updated": "2026-07-29",
     "external_sources_used": false,

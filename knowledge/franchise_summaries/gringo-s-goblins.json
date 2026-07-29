@@ -6,7 +6,7 @@
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T17:01:44.218571-06:00",
+  "generated_at": "2026-07-29T17:50:55.730705-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
   "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 564.60 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -29,7 +29,7 @@
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 12,
+    "rank": 11,
     "league_size": 16,
     "score": 804.7,
     "player_d_avi": 804.7,
@@ -48,17 +48,17 @@
       "transaction_id": "1356901536596242432",
       "created_at": "2026-05-04T05:37:25.638000+00:00",
       "type": "trade",
-      "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime, Badland Banditos and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sent Romeo Doubs.",
+      "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
       "transaction_id": "1356901536596242432",
       "created_at": "2026-05-04T05:37:25.638000+00:00",
       "type": "trade",
-      "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime, Badland Banditos and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sent Romeo Doubs.",
+      "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime, Badland Banditos and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sent Romeo Doubs."
+    "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs."
   },
   "sections": [
     {
@@ -87,7 +87,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On May 3, Phalhala or Bust completed a trade with Ravens Regime, Badland Banditos and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sent Romeo Doubs."
+      "body": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs."
     },
     {
       "id": "lineup-pressure-point",

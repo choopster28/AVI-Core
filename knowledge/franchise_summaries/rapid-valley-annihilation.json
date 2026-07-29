@@ -6,65 +6,65 @@
   "owner_display_name": "FuzzyRaptor",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T17:01:44.218571-06:00",
+  "generated_at": "2026-07-29T17:50:55.730705-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Rapid Valley Annihilation: Preseason Front Office Brief",
-  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 545.30 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Rapid Valley Annihilation is projected #14 of 16 with a 522.80 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
-    "rank": 13,
+    "rank": 14,
     "league_size": 16,
-    "score": 545.3,
+    "score": 522.8,
     "team_above": {
-      "name": "Phalhala or Bust",
-      "rank": 12,
-      "score": 553.1,
-      "gap": 7.800000000000068
+      "name": "Crimson Tide Pods",
+      "rank": 13,
+      "score": 538.4,
+      "gap": 15.600000000000023
     },
     "team_below": {
-      "name": "Crimson Tide Pods",
-      "rank": 14,
-      "score": 538.4,
-      "gap": 6.899999999999977
+      "name": "Northside Kings",
+      "rank": 15,
+      "score": 490.3,
+      "gap": 32.49999999999994
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 9,
+    "rank": 14,
     "league_size": 16,
-    "score": 853.8,
-    "player_d_avi": 853.8,
+    "score": 770.8,
+    "player_d_avi": 770.8,
     "future_pick_d_avi": 0.0,
     "method": "Canonical Power Rankings D-AVI ladder: full verified roster D-AVI plus every verified owned 2027+ draft pick AVI from data/processed/reports/draft_pick_values.json"
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.4 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust."
+    "Raise the WR slot above Adonai Mitchell's 45.2 C-AVI baseline; a replacement near 60.8 C-AVI would directly attack the 15.60-point projected gap to Crimson Tide Pods."
   ],
   "rival_below": {
-    "franchise_name": "Crimson Tide Pods",
-    "projected_rank": 14,
-    "projected_score": 538.4,
+    "franchise_name": "Northside Kings",
+    "projected_rank": 15,
+    "projected_score": 490.3,
     "latest_trade": {
-      "transaction_id": "1387942050321678336",
-      "created_at": "2026-07-28T21:21:20.815000+00:00",
+      "transaction_id": "1383224827728367616",
+      "created_at": "2026-07-15T20:56:47.307000+00:00",
       "type": "trade",
-      "summary": "On July 28, Crimson Tide Pods completed a trade with Mile High Royal Lions, Corgi Loaf Baking Co..",
+      "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1387942050321678336",
-      "created_at": "2026-07-28T21:21:20.815000+00:00",
+      "transaction_id": "1383224827728367616",
+      "created_at": "2026-07-15T20:56:47.307000+00:00",
       "type": "trade",
-      "summary": "On July 28, Crimson Tide Pods completed a trade with Mile High Royal Lions, Corgi Loaf Baking Co..",
+      "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 28, Crimson Tide Pods completed a trade with Mile High Royal Lions, Corgi Loaf Baking Co.."
+    "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #13 of 16 at 545.30 lineup C-AVI. Phalhala or Bust is immediately above at 553.10, a gap of 7.80. Crimson Tide Pods is immediately behind at 538.40."
+      "body": "Projected #14 of 16 at 522.80 lineup C-AVI. Crimson Tide Pods is immediately above at 538.40, a gap of 15.60. Northside Kings is immediately behind at 490.30."
     },
     {
       "id": "competitive-core",
@@ -79,25 +79,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.4 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust.",
+      "body": "Raise the WR slot above Adonai Mitchell's 45.2 C-AVI baseline; a replacement near 60.8 C-AVI would directly attack the 15.60-point projected gap to Crimson Tide Pods.",
       "items": [
-        "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.4 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust."
+        "Raise the WR slot above Adonai Mitchell's 45.2 C-AVI baseline; a replacement near 60.8 C-AVI would directly attack the 15.60-point projected gap to Crimson Tide Pods."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 28, Crimson Tide Pods completed a trade with Mile High Royal Lions, Corgi Loaf Baking Co.."
+      "body": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "AJ Barner is the lowest C-AVI starter in the verified championship lineup at 54.6. Any acquisition should clear that exact lineup threshold."
+      "body": "Adonai Mitchell is the lowest C-AVI starter in the verified championship lineup at 45.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 11 offensive players in the current team file are marked Active."
+      "body": "All 10 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",

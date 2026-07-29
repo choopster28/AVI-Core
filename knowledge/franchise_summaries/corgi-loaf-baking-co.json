@@ -6,7 +6,7 @@
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T17:01:44.218571-06:00",
+  "generated_at": "2026-07-29T17:50:55.730705-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
   "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 659.50 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Cam Skattebo. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -29,10 +29,10 @@
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 4,
+    "rank": 1,
     "league_size": 16,
-    "score": 992.7,
-    "player_d_avi": 992.7,
+    "score": 1075.7,
+    "player_d_avi": 1075.7,
     "future_pick_d_avi": 0.0,
     "method": "Canonical Power Rankings D-AVI ladder: full verified roster D-AVI plus every verified owned 2027+ draft pick AVI from data/processed/reports/draft_pick_values.json"
   },
@@ -45,20 +45,20 @@
     "projected_rank": 6,
     "projected_score": 636.9,
     "latest_trade": {
-      "transaction_id": "1387232278626713600",
-      "created_at": "2026-07-26T22:20:58.055000+00:00",
+      "transaction_id": "1386987441226792960",
+      "created_at": "2026-07-26T06:08:04.271000+00:00",
       "type": "trade",
-      "summary": "On July 26, Ravens Regime completed a trade with Rapid Valley Annihilation, Corgi Loaf Baking Co..",
+      "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1387232278626713600",
-      "created_at": "2026-07-26T22:20:58.055000+00:00",
+      "transaction_id": "1386987441226792960",
+      "created_at": "2026-07-26T06:08:04.271000+00:00",
       "type": "trade",
-      "summary": "On July 26, Ravens Regime completed a trade with Rapid Valley Annihilation, Corgi Loaf Baking Co..",
+      "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 26, Ravens Regime completed a trade with Rapid Valley Annihilation, Corgi Loaf Baking Co.."
+    "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime)."
   },
   "sections": [
     {
@@ -87,7 +87,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 26, Ravens Regime completed a trade with Rapid Valley Annihilation, Corgi Loaf Baking Co.."
+      "body": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime)."
     },
     {
       "id": "lineup-pressure-point",
@@ -97,7 +97,7 @@
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 12 offensive players in the current team file are marked Active."
+      "body": "All 13 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",

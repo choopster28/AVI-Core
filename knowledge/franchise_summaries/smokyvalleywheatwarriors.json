@@ -6,7 +6,7 @@
   "owner_display_name": "AlexPete6800",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T17:01:44.218571-06:00",
+  "generated_at": "2026-07-29T17:50:55.730705-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
   "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 661.40 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and James Cook. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -29,7 +29,7 @@
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 3,
+    "rank": 4,
     "league_size": 16,
     "score": 1009.2,
     "player_d_avi": 1009.2,
@@ -48,17 +48,17 @@
       "transaction_id": "1387942050321678336",
       "created_at": "2026-07-28T21:21:20.815000+00:00",
       "type": "trade",
-      "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions, Crimson Tide Pods and acquired DJ Moore while sent 2026 Round 1 (Crimson Tide Pods).",
+      "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
       "transaction_id": "1387942050321678336",
       "created_at": "2026-07-28T21:21:20.815000+00:00",
       "type": "trade",
-      "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions, Crimson Tide Pods and acquired DJ Moore while sent 2026 Round 1 (Crimson Tide Pods).",
+      "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions, Crimson Tide Pods and acquired DJ Moore while sent 2026 Round 1 (Crimson Tide Pods)."
+    "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods)."
   },
   "sections": [
     {
@@ -87,7 +87,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions, Crimson Tide Pods and acquired DJ Moore while sent 2026 Round 1 (Crimson Tide Pods)."
+      "body": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods)."
     },
     {
       "id": "lineup-pressure-point",
