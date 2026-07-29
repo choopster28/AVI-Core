@@ -52,7 +52,7 @@ jobs:
 
       - name: Generate all 16 franchise summaries
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
-        run: python scripts/generate_weekly_executive_summary_filtered.py
+        run: python /generate_weekly_executive_summary_filtered.py
 
       - name: Verify complete, current output set
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
