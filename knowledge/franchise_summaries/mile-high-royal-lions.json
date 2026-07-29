@@ -1,15 +1,15 @@
 {
-  "schema_version": 7,
+  "schema_version": 8,
   "franchise_id": "mile-high-royal-lions",
   "franchise_name": "Mile High Royal Lions",
   "roster_id": 4,
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
   "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T21:49:54.681074-06:00",
+  "generated_at": "2026-07-28T22:42:05.405163-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
-  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 669.80 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core. On the website's D-AVI ladder, the franchise ranks #3 of 16 with a 873.4 dynasty power score.",
+  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 669.80 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core. On the Power Rankings webpage's D-AVI ladder, the franchise ranks #14 of 16 with a 45.0 team D-AVI score.",
   "projected_power": {
     "rank": 3,
     "league_size": 16,
@@ -29,19 +29,11 @@
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 3,
+    "rank": 14,
     "league_size": 16,
-    "score": 873.4,
-    "canonical_franchise_d_avi": 983.1,
-    "player_d_avi": 983.1,
-    "future_pick_d_avi": 0.0,
-    "starting_lineup_c_avi": 669.8,
-    "d_avi_weight": 0.65,
-    "c_avi_weight": 0.35,
-    "minimum_dynasty_rank": 2,
-    "included_future_picks": [],
-    "current_year_picks_excluded": true,
-    "method": "Power Rankings webpage D-AVI ladder: 65% canonical franchise D-AVI plus 35% starting-lineup C-AVI, with the championship-rank placement floor"
+    "score": 45.0,
+    "method": "Exact rank and team D-AVI score from the live Autobots HQ Power Rankings webpage ladder",
+    "source_url": "https://autobots.football/api/power-rankings"
   },
   "latest_trade": {
     "transaction_id": "1289441913560141824",
@@ -98,7 +90,7 @@
     {
       "id": "dynasty-position",
       "title": "D-AVI Power Ranking",
-      "body": "The Power Rankings D-AVI ladder places this franchise #3 of 16 at 873.4. That exact webpage score blends 65% of the 983.10 canonical franchise D-AVI (983.10 roster-player D-AVI with no verified 2027+ pick value) with 35% of the 669.80 starting-lineup C-AVI. The C-AVI placement guardrail sets a best-possible dynasty rank of #2."
+      "body": "The live Power Rankings webpage places Mile High Royal Lions #14 of 16 on the D-AVI ladder at 45.0. This section uses the webpage's exact team score and ordering rather than recalculating dynasty rank from the weekly-summary team files."
     },
     {
       "id": "competitive-core",
@@ -145,10 +137,11 @@
     "files": [
       "knowledge/teams/04_Mile_High_Royal_Lions.md",
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "knowledge/02_AVI_Historical_Trades.md",
+      "Autobots HQ live Power Rankings API"
     ],
     "source_last_updated": "2026-07-28",
-    "external_sources_used": false,
+    "external_sources_used": true,
     "conversation_context_used": false
   }
 }

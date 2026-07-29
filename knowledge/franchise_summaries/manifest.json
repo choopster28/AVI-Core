@@ -1,11 +1,10 @@
 {
-  "schema_version": 4,
-  "generated_at": "2026-07-28T21:49:54.681074-06:00",
+  "schema_version": 3,
+  "generated_at": "2026-07-28T22:42:05.405163-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "source_policy": "AVI-Core/knowledge only",
   "franchise_count": 16,
   "projected_power_method": "Verified projected-starting-lineup C-AVI total",
-  "dynasty_power_method": "Power Rankings webpage D-AVI ladder: 65% canonical franchise D-AVI + 35% starting-lineup C-AVI with championship-rank placement floor",
   "files": [
     "all-hail-king-jesus.json",
     "badland-banditos.json",

@@ -1,15 +1,15 @@
 {
-  "schema_version": 7,
+  "schema_version": 8,
   "franchise_id": "all-hail-king-jesus",
   "franchise_name": "All Hail King Jesus",
   "roster_id": 8,
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
   "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T21:49:54.681074-06:00",
+  "generated_at": "2026-07-28T22:42:05.405163-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
-  "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 625.60 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core. On the website's D-AVI ladder, the franchise ranks #14 of 16 with a 712.0 dynasty power score.",
+  "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 625.60 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core. On the Power Rankings webpage's D-AVI ladder, the franchise ranks #4 of 16 with a 296.0 team D-AVI score.",
   "projected_power": {
     "rank": 8,
     "league_size": 16,
@@ -29,19 +29,11 @@
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 14,
+    "rank": 4,
     "league_size": 16,
-    "score": 712.0,
-    "canonical_franchise_d_avi": 758.5,
-    "player_d_avi": 758.5,
-    "future_pick_d_avi": 0.0,
-    "starting_lineup_c_avi": 625.6,
-    "d_avi_weight": 0.65,
-    "c_avi_weight": 0.35,
-    "minimum_dynasty_rank": 4,
-    "included_future_picks": [],
-    "current_year_picks_excluded": true,
-    "method": "Power Rankings webpage D-AVI ladder: 65% canonical franchise D-AVI plus 35% starting-lineup C-AVI, with the championship-rank placement floor"
+    "score": 296.0,
+    "method": "Exact rank and team D-AVI score from the live Autobots HQ Power Rankings webpage ladder",
+    "source_url": "https://autobots.football/api/power-rankings"
   },
   "latest_trade": {
     "transaction_id": "1382466797541818368",
@@ -101,7 +93,7 @@
     {
       "id": "dynasty-position",
       "title": "D-AVI Power Ranking",
-      "body": "The Power Rankings D-AVI ladder places this franchise #14 of 16 at 712.0. That exact webpage score blends 65% of the 758.50 canonical franchise D-AVI (758.50 roster-player D-AVI with no verified 2027+ pick value) with 35% of the 625.60 starting-lineup C-AVI. The C-AVI placement guardrail sets a best-possible dynasty rank of #4."
+      "body": "The live Power Rankings webpage places All Hail King Jesus #4 of 16 on the D-AVI ladder at 296.0. This section uses the webpage's exact team score and ordering rather than recalculating dynasty rank from the weekly-summary team files."
     },
     {
       "id": "competitive-core",
@@ -148,10 +140,11 @@
     "files": [
       "knowledge/teams/08_All_Hail_King_Jesus.md",
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "knowledge/02_AVI_Historical_Trades.md",
+      "Autobots HQ live Power Rankings API"
     ],
     "source_last_updated": "2026-07-28",
-    "external_sources_used": false,
+    "external_sources_used": true,
     "conversation_context_used": false
   }
 }

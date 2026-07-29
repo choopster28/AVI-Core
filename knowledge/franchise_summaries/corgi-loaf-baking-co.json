@@ -1,15 +1,15 @@
 {
-  "schema_version": 7,
+  "schema_version": 8,
   "franchise_id": "corgi-loaf-baking-co",
   "franchise_name": "Corgi Loaf Baking Co.",
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
   "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T21:49:54.681074-06:00",
+  "generated_at": "2026-07-28T22:42:05.405163-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #6 of 16 with a 634.30 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Cam Skattebo. The immediate priority is improving the FLEX slot without weakening that core. On the website's D-AVI ladder, the franchise ranks #6 of 16 with a 811.1 dynasty power score.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #6 of 16 with a 634.30 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Cam Skattebo. The immediate priority is improving the FLEX slot without weakening that core. On the Power Rankings webpage's D-AVI ladder, the franchise ranks #15 of 16 with a 0.0 team D-AVI score.",
   "projected_power": {
     "rank": 6,
     "league_size": 16,
@@ -29,19 +29,11 @@
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 6,
+    "rank": 15,
     "league_size": 16,
-    "score": 811.1,
-    "canonical_franchise_d_avi": 906.3,
-    "player_d_avi": 906.3,
-    "future_pick_d_avi": 0.0,
-    "starting_lineup_c_avi": 634.3,
-    "d_avi_weight": 0.65,
-    "c_avi_weight": 0.35,
-    "minimum_dynasty_rank": 3,
-    "included_future_picks": [],
-    "current_year_picks_excluded": true,
-    "method": "Power Rankings webpage D-AVI ladder: 65% canonical franchise D-AVI plus 35% starting-lineup C-AVI, with the championship-rank placement floor"
+    "score": 0.0,
+    "method": "Exact rank and team D-AVI score from the live Autobots HQ Power Rankings webpage ladder",
+    "source_url": "https://autobots.football/api/power-rankings"
   },
   "latest_trade": {
     "transaction_id": "1386987441226792960",
@@ -101,7 +93,7 @@
     {
       "id": "dynasty-position",
       "title": "D-AVI Power Ranking",
-      "body": "The Power Rankings D-AVI ladder places this franchise #6 of 16 at 811.1. That exact webpage score blends 65% of the 906.30 canonical franchise D-AVI (906.30 roster-player D-AVI with no verified 2027+ pick value) with 35% of the 634.30 starting-lineup C-AVI. The C-AVI placement guardrail sets a best-possible dynasty rank of #3."
+      "body": "The live Power Rankings webpage places Corgi Loaf Baking Co. #15 of 16 on the D-AVI ladder at 0.0. This section uses the webpage's exact team score and ordering rather than recalculating dynasty rank from the weekly-summary team files."
     },
     {
       "id": "competitive-core",
@@ -148,10 +140,11 @@
     "files": [
       "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
       "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "knowledge/02_AVI_Historical_Trades.md",
+      "Autobots HQ live Power Rankings API"
     ],
     "source_last_updated": "2026-07-28",
-    "external_sources_used": false,
+    "external_sources_used": true,
     "conversation_context_used": false
   }
 }
