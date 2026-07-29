@@ -1,15 +1,15 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "franchise_id": "northside-kings",
   "franchise_name": "Northside Kings",
   "roster_id": 5,
   "owner_display_name": "srsmith95",
   "season_phase": "preseason",
   "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T21:31:14.889986-06:00",
+  "generated_at": "2026-07-28T21:39:07.365455-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Northside Kings: Preseason Front Office Brief",
-  "executive_summary": "Northside Kings is projected #15 of 16 with a 490.50 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Northside Kings is projected #15 of 16 with a 490.50 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core. The updated dynasty profile ranks #2 of 16 at 1029.20 total D-AVI.",
   "projected_power": {
     "rank": 15,
     "league_size": 16,
@@ -32,7 +32,11 @@
     "rank": 2,
     "league_size": 16,
     "score": 1029.2,
-    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
+    "player_d_avi": 1029.2,
+    "future_pick_d_avi": 0.0,
+    "included_future_picks": [],
+    "current_year_picks_excluded": true,
+    "method": "Verified rostered-player D-AVI plus controlled 2027+ draft-pick D-AVI; current-year picks excluded"
   },
   "latest_trade": {
     "transaction_id": "1383224827728367616",
@@ -85,6 +89,11 @@
       "id": "projected-power",
       "title": "Projected Power Position",
       "body": "Projected #15 of 16 at 490.50 lineup C-AVI. Crimson Tide Pods is immediately above at 538.60, a gap of 48.10. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 486.80."
+    },
+    {
+      "id": "dynasty-position",
+      "title": "Dynasty Position",
+      "body": "Dynasty rank #2 of 16 with 1029.20 verified roster D-AVI. No controlled 2027+ pick D-AVI was found, so the dynasty position receives no future-draft-capital boost."
     },
     {
       "id": "competitive-core",

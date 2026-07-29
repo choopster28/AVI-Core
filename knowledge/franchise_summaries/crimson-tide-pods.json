@@ -1,15 +1,15 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "franchise_id": "crimson-tide-pods",
   "franchise_name": "Crimson Tide Pods",
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "preseason",
   "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T21:31:14.889986-06:00",
+  "generated_at": "2026-07-28T21:39:07.365455-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 538.60 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 538.60 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the RB slot without weakening that core. The updated dynasty profile ranks #7 of 16 at 940.60 total D-AVI.",
   "projected_power": {
     "rank": 14,
     "league_size": 16,
@@ -32,7 +32,11 @@
     "rank": 7,
     "league_size": 16,
     "score": 940.6,
-    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
+    "player_d_avi": 940.6,
+    "future_pick_d_avi": 0.0,
+    "included_future_picks": [],
+    "current_year_picks_excluded": true,
+    "method": "Verified rostered-player D-AVI plus controlled 2027+ draft-pick D-AVI; current-year picks excluded"
   },
   "latest_trade": {
     "transaction_id": "1386482894020542464",
@@ -89,6 +93,11 @@
       "id": "projected-power",
       "title": "Projected Power Position",
       "body": "Projected #14 of 16 at 538.60 lineup C-AVI. Rapid Valley Annihilation is immediately above at 545.40, a gap of 6.80. Northside Kings is immediately behind at 490.50."
+    },
+    {
+      "id": "dynasty-position",
+      "title": "Dynasty Position",
+      "body": "Dynasty rank #7 of 16 with 940.60 verified roster D-AVI. No controlled 2027+ pick D-AVI was found, so the dynasty position receives no future-draft-capital boost."
     },
     {
       "id": "competitive-core",

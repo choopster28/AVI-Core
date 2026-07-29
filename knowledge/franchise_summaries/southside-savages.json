@@ -1,15 +1,15 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "franchise_id": "southside-savages",
   "franchise_name": "Southside Savages",
   "roster_id": 13,
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
   "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T21:31:14.889986-06:00",
+  "generated_at": "2026-07-28T21:39:07.365455-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
-  "executive_summary": "Southside Savages is projected #7 of 16 with a 626.40 projected-starting-lineup C-AVI total, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
+  "executive_summary": "Southside Savages is projected #7 of 16 with a 626.40 projected-starting-lineup C-AVI total, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core. The updated dynasty profile ranks #10 of 16 at 841.00 total D-AVI.",
   "projected_power": {
     "rank": 7,
     "league_size": 16,
@@ -32,7 +32,11 @@
     "rank": 10,
     "league_size": 16,
     "score": 841.0,
-    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
+    "player_d_avi": 841.0,
+    "future_pick_d_avi": 0.0,
+    "included_future_picks": [],
+    "current_year_picks_excluded": true,
+    "method": "Verified rostered-player D-AVI plus controlled 2027+ draft-pick D-AVI; current-year picks excluded"
   },
   "latest_trade": {
     "transaction_id": "1283906516683853824",
@@ -84,6 +88,11 @@
       "id": "projected-power",
       "title": "Projected Power Position",
       "body": "Projected #7 of 16 at 626.40 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 634.30, a gap of 7.90. All Hail King Jesus is immediately behind at 625.60."
+    },
+    {
+      "id": "dynasty-position",
+      "title": "Dynasty Position",
+      "body": "Dynasty rank #10 of 16 with 841.00 verified roster D-AVI. No controlled 2027+ pick D-AVI was found, so the dynasty position receives no future-draft-capital boost."
     },
     {
       "id": "competitive-core",

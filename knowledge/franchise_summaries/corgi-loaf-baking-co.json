@@ -1,15 +1,15 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "franchise_id": "corgi-loaf-baking-co",
   "franchise_name": "Corgi Loaf Baking Co.",
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
   "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T21:31:14.889986-06:00",
+  "generated_at": "2026-07-28T21:39:07.365455-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #6 of 16 with a 634.30 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Cam Skattebo. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #6 of 16 with a 634.30 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Cam Skattebo. The immediate priority is improving the FLEX slot without weakening that core. The updated dynasty profile ranks #8 of 16 at 906.30 total D-AVI.",
   "projected_power": {
     "rank": 6,
     "league_size": 16,
@@ -32,7 +32,11 @@
     "rank": 8,
     "league_size": 16,
     "score": 906.3,
-    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
+    "player_d_avi": 906.3,
+    "future_pick_d_avi": 0.0,
+    "included_future_picks": [],
+    "current_year_picks_excluded": true,
+    "method": "Verified rostered-player D-AVI plus controlled 2027+ draft-pick D-AVI; current-year picks excluded"
   },
   "latest_trade": {
     "transaction_id": "1386987441226792960",
@@ -88,6 +92,11 @@
       "id": "projected-power",
       "title": "Projected Power Position",
       "body": "Projected #6 of 16 at 634.30 lineup C-AVI. Ravens Regime is immediately above at 637.20, a gap of 2.90. Southside Savages is immediately behind at 626.40."
+    },
+    {
+      "id": "dynasty-position",
+      "title": "Dynasty Position",
+      "body": "Dynasty rank #8 of 16 with 906.30 verified roster D-AVI. No controlled 2027+ pick D-AVI was found, so the dynasty position receives no future-draft-capital boost."
     },
     {
       "id": "competitive-core",
