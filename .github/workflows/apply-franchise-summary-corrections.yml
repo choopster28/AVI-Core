@@ -1,0 +1,32 @@
+name: Apply Franchise Summary Corrections
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/apply_franchise_summary_corrections.py"
+      - ".github/workflows/apply-franchise-summary-corrections.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  apply-corrections:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply source corrections
+        run: python scripts/apply_franchise_summary_corrections.py
+      - name: Verify syntax
+        run: python -m py_compile generate_weekly_executive_summary_filtered.py
+      - name: Commit source corrections
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generate_weekly_executive_summary_filtered.py
+          git commit -m "Fix franchise summary trade attribution and grammar"
+          git push origin HEAD:main
