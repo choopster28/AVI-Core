@@ -1,15 +1,15 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "franchise_id": "mile-high-royal-lions",
   "franchise_name": "Mile High Royal Lions",
   "roster_id": 4,
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
   "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T21:43:20.698753-06:00",
+  "generated_at": "2026-07-28T21:49:54.681074-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
-  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 669.80 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core. The updated dynasty profile ranks #4 of 16 at 983.10 total D-AVI.",
+  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 669.80 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core. On the website's D-AVI ladder, the franchise ranks #3 of 16 with a 873.4 dynasty power score.",
   "projected_power": {
     "rank": 3,
     "league_size": 16,
@@ -29,14 +29,19 @@
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 4,
+    "rank": 3,
     "league_size": 16,
-    "score": 983.1,
+    "score": 873.4,
+    "canonical_franchise_d_avi": 983.1,
     "player_d_avi": 983.1,
     "future_pick_d_avi": 0.0,
+    "starting_lineup_c_avi": 669.8,
+    "d_avi_weight": 0.65,
+    "c_avi_weight": 0.35,
+    "minimum_dynasty_rank": 2,
     "included_future_picks": [],
     "current_year_picks_excluded": true,
-    "method": "Verified rostered-player D-AVI plus controlled 2027+ draft-pick D-AVI; current-year picks excluded"
+    "method": "Power Rankings webpage D-AVI ladder: 65% canonical franchise D-AVI plus 35% starting-lineup C-AVI, with the championship-rank placement floor"
   },
   "latest_trade": {
     "transaction_id": "1289441913560141824",
@@ -92,8 +97,8 @@
     },
     {
       "id": "dynasty-position",
-      "title": "Dynasty Position",
-      "body": "Dynasty rank #4 of 16 with 983.10 verified roster D-AVI. No controlled 2027+ pick D-AVI was found, so the dynasty position receives no future-draft-capital boost."
+      "title": "D-AVI Power Ranking",
+      "body": "The Power Rankings D-AVI ladder places this franchise #3 of 16 at 873.4. That exact webpage score blends 65% of the 983.10 canonical franchise D-AVI (983.10 roster-player D-AVI with no verified 2027+ pick value) with 35% of the 669.80 starting-lineup C-AVI. The C-AVI placement guardrail sets a best-possible dynasty rank of #2."
     },
     {
       "id": "competitive-core",
