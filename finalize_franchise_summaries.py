@@ -26,7 +26,8 @@ def number(value: Any) -> float:
         return 0.0
 
 
-def load_future_pick_totals() -> dict[int, float]:
+def load_owned_pick_totals() -> dict[int, float]:
+    """Total every verified currently owned pick from the current draft onward."""
     payload = json.loads(PICK_VALUES_PATH.read_text(encoding="utf-8"))
     totals: dict[int, float] = {}
 
@@ -34,7 +35,7 @@ def load_future_pick_totals() -> dict[int, float]:
         if not isinstance(pick, dict):
             continue
         season = int(pick.get("season") or 0)
-        if season <= CURRENT_SEASON:
+        if season < CURRENT_SEASON:
             continue
         try:
             roster_id = int(pick.get("current_owner_roster_id"))
@@ -100,7 +101,7 @@ def validate_rival(summary: dict[str, Any], path: Path) -> None:
 
 
 def main() -> None:
-    future_pick_totals = load_future_pick_totals()
+    owned_pick_totals = load_owned_pick_totals()
     paths = sorted(
         path
         for path in SUMMARY_DIR.glob("*.json")
@@ -119,23 +120,23 @@ def main() -> None:
         player_d_avi = number(
             dynasty.get("player_d_avi", dynasty.get("score"))
         )
-        future_pick_d_avi = future_pick_totals.get(roster_id, 0.0)
-        total = round(player_d_avi + future_pick_d_avi, 2)
+        owned_pick_d_avi = owned_pick_totals.get(roster_id, 0.0)
+        total = round(player_d_avi + owned_pick_d_avi, 2)
 
         summary["schema_version"] = max(
             int(summary.get("schema_version") or 0),
-            6,
+            7,
         )
         summary["dynasty_power"] = {
             "rank": 0,
             "league_size": EXPECTED_FRANCHISE_COUNT,
             "score": total,
             "player_d_avi": round(player_d_avi, 2),
-            "future_pick_d_avi": round(future_pick_d_avi, 2),
+            "future_pick_d_avi": round(owned_pick_d_avi, 2),
             "method": (
                 "Canonical Power Rankings D-AVI ladder: full verified roster "
-                "D-AVI plus every verified owned 2027+ draft pick AVI from "
-                "data/processed/reports/draft_pick_values.json"
+                "D-AVI plus every verified currently owned 2026+ draft pick AVI "
+                "from data/processed/reports/draft_pick_values.json"
             ),
         }
         remove_disallowed_pick_language(summary)
@@ -165,10 +166,10 @@ def main() -> None:
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     manifest["schema_version"] = max(
         int(manifest.get("schema_version") or 0),
-        4,
+        5,
     )
     manifest["dynasty_power_method"] = (
-        "Full roster D-AVI plus verified owned 2027+ draft-pick AVI"
+        "Full roster D-AVI plus verified currently owned 2026+ draft-pick AVI"
     )
     manifest_path.write_text(
         json.dumps(manifest, indent=2) + "\n",
@@ -177,7 +178,7 @@ def main() -> None:
 
     print(
         "Finalized 16 franchise summaries with canonical dynasty ranks, "
-        "future-pick values, and verified Rival Watch attribution."
+        "all currently owned draft-pick values, and verified Rival Watch attribution."
     )
 
 
