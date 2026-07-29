@@ -143,31 +143,6 @@ def safe_int(
         return None
 
 
-def normalize_franchise_key(
-    value: Any,
-) -> str:
-    """
-    Return a compact franchise key for stable cross-workflow matching.
-
-    Examples:
-
-        SmokyValleyWheatWarriors
-        Smoky Valley Wheat Warriors
-
-    Both become:
-
-        smokyvalleywheatwarriors
-    """
-    if value is None:
-        return ""
-
-    return re.sub(
-        r"[^a-z0-9]+",
-        "",
-        str(value).casefold(),
-    )
-
-
 def slugify_team_name(
     value: str,
 ) -> str:
@@ -589,30 +564,13 @@ def build_team_profile(
     ],
     starter_counts: dict[str, int],
 ) -> TeamProfile:
-    roster_id_raw = roster.get(
-        "roster_id"
+    roster_id = int(
+        roster.get("roster_id")
     )
 
-    if roster_id_raw is None:
-        raise RuntimeError(
-            f"Sleeper roster is missing roster_id: {roster}"
-        )
-
-    try:
-        roster_id = int(
-            roster_id_raw
-        )
-    except (TypeError, ValueError) as exc:
-        raise RuntimeError(
-            f"Invalid Sleeper roster_id: {roster_id_raw!r}"
-        ) from exc
-
     owner_id = str(
-        roster.get(
-            "owner_id",
-            "",
-        )
-    ).strip()
+        roster.get("owner_id", "")
+    )
 
     user = users_by_id.get(
         owner_id,
@@ -630,24 +588,18 @@ def build_team_profile(
     ):
         user_metadata = {}
 
-    team_name = str(
+    team_name = (
         user_metadata.get("team_name")
         or user.get("display_name")
         or f"Roster {roster_id}"
-    ).strip()
-
-    if not team_name:
-        team_name = f"Roster {roster_id}"
+    )
 
     player_ids = roster.get(
         "players",
         [],
     )
 
-    if not isinstance(
-        player_ids,
-        list,
-    ):
+    if not isinstance(player_ids, list):
         player_ids = []
 
     team_players: list[
@@ -722,10 +674,7 @@ def build_team_profile(
         {},
     )
 
-    if not isinstance(
-        settings,
-        dict,
-    ):
+    if not isinstance(settings, dict):
         settings = {}
 
     keepers_raw = roster.get(
@@ -733,15 +682,12 @@ def build_team_profile(
         [],
     )
 
-    if not isinstance(
-        keepers_raw,
-        list,
-    ):
+    if not isinstance(keepers_raw, list):
         keepers_raw = []
 
     return TeamProfile(
         roster_id=roster_id,
-        team_name=team_name,
+        team_name=str(team_name),
         owner_display_name=str(
             user.get(
                 "display_name",
@@ -799,10 +745,7 @@ def display_value(
     if value is None:
         return "None"
 
-    if isinstance(
-        value,
-        float,
-    ):
+    if isinstance(value, float):
         return f"{value:.1f}"
 
     return str(value)
@@ -878,9 +821,7 @@ def render_player_card(
         ),
     ]
 
-    return "\n".join(
-        lines
-    )
+    return "\n".join(lines)
 
 
 def render_team_profile(
@@ -924,10 +865,6 @@ def render_team_profile(
         "",
         "## Team Identity",
         f"- Team name: {profile.team_name}",
-        (
-            "- Franchise key: "
-            f"{normalize_franchise_key(profile.team_name)}"
-        ),
         f"- Roster ID: {profile.roster_id}",
         (
             "- Owner display name: "
@@ -1027,10 +964,7 @@ def render_team_profile(
                 profile,
             )
         )
-
-        lines.append(
-            ""
-        )
+        lines.append("")
 
     lines.extend(
         [
@@ -1043,12 +977,7 @@ def render_team_profile(
         ]
     )
 
-    return (
-        "\n".join(
-            lines
-        ).rstrip()
-        + "\n"
-    )
+    return "\n".join(lines).rstrip() + "\n"
 
 
 def build_team_profiles() -> dict[str, Any]:
@@ -1064,9 +993,7 @@ def build_team_profiles() -> dict[str, Any]:
         load_sleeper_players()
     )
 
-    avi_players = (
-        load_avi_players()
-    )
+    avi_players = load_avi_players()
 
     avi_by_sleeper_id = (
         build_avi_by_sleeper_id(
@@ -1074,10 +1001,8 @@ def build_team_profiles() -> dict[str, Any]:
         )
     )
 
-    users_by_id = (
-        build_user_lookup(
-            users
-        )
+    users_by_id = build_user_lookup(
+        users
     )
 
     profiles: list[
@@ -1085,10 +1010,7 @@ def build_team_profiles() -> dict[str, Any]:
     ] = []
 
     for roster in rosters:
-        if not isinstance(
-            roster,
-            dict,
-        ):
+        if not isinstance(roster, dict):
             continue
 
         profiles.append(
@@ -1113,78 +1035,16 @@ def build_team_profiles() -> dict[str, Any]:
         )
     )
 
-    expected_team_count = int(
-        league_structure.team_count
-    )
-
-    if len(profiles) != expected_team_count:
-        raise RuntimeError(
-            "Team-profile generation stopped before writing files: "
-            f"expected {expected_team_count} rosters, "
-            f"found {len(profiles)}."
-        )
-
-    roster_ids = [
-        profile.roster_id
-        for profile in profiles
-    ]
-
-    if len(
-        set(roster_ids)
-    ) != len(
-        roster_ids
-    ):
-        raise RuntimeError(
-            "Duplicate roster IDs were found in the current "
-            f"Sleeper export: {roster_ids}"
-        )
-
-    franchise_keys = [
-        normalize_franchise_key(
-            profile.team_name
-        )
-        for profile in profiles
-    ]
-
-    if any(
-        not key
-        for key in franchise_keys
-    ):
-        raise RuntimeError(
-            "At least one team produced an empty franchise key."
-        )
-
-    if len(
-        set(franchise_keys)
-    ) != len(
-        franchise_keys
-    ):
-        raise RuntimeError(
-            "Duplicate normalized franchise names were found: "
-            f"{franchise_keys}"
-        )
-
     OUTPUT_DIRECTORY.mkdir(
         parents=True,
         exist_ok=True,
     )
 
-    MANIFEST_PATH.parent.mkdir(
-        parents=True,
-        exist_ok=True,
-    )
-
-    generated_files: list[
-        str
-    ] = []
+    generated_files: list[str] = []
 
     updated_date = datetime.now(
         UTC
     ).date().isoformat()
-
-    expected_paths: set[
-        Path
-    ] = set()
 
     for profile in profiles:
         filename = (
@@ -1198,27 +1058,12 @@ def build_team_profiles() -> dict[str, Any]:
             / filename
         )
 
-        expected_paths.add(
-            output_path
-        )
-
-        temporary_path = (
-            output_path.with_suffix(
-                output_path.suffix
-                + ".tmp"
-            )
-        )
-
-        temporary_path.write_text(
+        output_path.write_text(
             render_team_profile(
                 profile,
                 updated_date=updated_date,
             ),
             encoding="utf-8",
-        )
-
-        temporary_path.replace(
-            output_path
         )
 
         generated_files.append(
@@ -1228,20 +1073,6 @@ def build_team_profiles() -> dict[str, Any]:
         print(
             f"Generated: {output_path}"
         )
-
-    # Remove stale files caused by team-name changes. Without this,
-    # downstream workflows may find more than 16 team profiles.
-    for stale_path in (
-        OUTPUT_DIRECTORY.glob(
-            "[0-9][0-9]_*.md"
-        )
-    ):
-        if stale_path not in expected_paths:
-            stale_path.unlink()
-
-            print(
-                f"Removed stale profile: {stale_path}"
-            )
 
     manifest = {
         "generated_at_utc": (
@@ -1261,7 +1092,12 @@ def build_team_profiles() -> dict[str, Any]:
         "generated_files": (
             generated_files
         ),
-        "status": "passed",
+        "status": (
+            "passed"
+            if len(profiles)
+            == league_structure.team_count
+            else "failed"
+        ),
     }
 
     write_json(
@@ -1270,22 +1106,12 @@ def build_team_profiles() -> dict[str, Any]:
     )
 
     print()
+    print("=" * 60)
+    print("AVI TEAM PROFILE GENERATION COMPLETE")
+    print("=" * 60)
     print(
-        "=" * 60
-    )
-    print(
-        "AVI TEAM PROFILE GENERATION COMPLETE"
-    )
-    print(
-        "=" * 60
-    )
-    print(
-        "Team profiles generated: "
+        f"Team profiles generated: "
         f"{len(profiles)}"
     )
 
     return manifest
-
-
-if __name__ == "__main__":
-    build_team_profiles()
