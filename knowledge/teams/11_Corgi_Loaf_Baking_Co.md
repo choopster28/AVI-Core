@@ -13,31 +13,31 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 11
-- offense: 11
+- total_players: 12
+- offense: 12
 - kickers: 0
 - idp: 0
 - other: 0
 - keepers: 11
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 634.2
-- championship_lineup_c_avi_avg: 79.28
-- offensive_roster_c_avi_sum: 759.5
-- offensive_roster_c_avi_avg: 69.05
-- offensive_roster_d_avi_sum: 906.3
-- offensive_roster_d_avi_avg: 82.39
+- championship_lineup_c_avi_sum: 659.5
+- championship_lineup_c_avi_avg: 82.44
+- offensive_roster_c_avi_sum: 835.0
+- offensive_roster_c_avi_avg: 69.58
+- offensive_roster_d_avi_sum: 992.7
+- offensive_roster_d_avi_avg: 82.73
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Patrick Mahomes | C-AVI: 73.7 | D-AVI: 83.0
+- QB: Patrick Mahomes | C-AVI: 73.8 | D-AVI: 83.0
 - RB: Cam Skattebo | C-AVI: 84.3 | D-AVI: 89.4
 - RB: D'Andre Swift | C-AVI: 77.0 | D-AVI: 85.4
 - WR: Justin Jefferson | C-AVI: 97.3 | D-AVI: 98.4
 - WR: Malik Nabers | C-AVI: 84.3 | D-AVI: 95.1
 - TE: Tyler Warren | C-AVI: 97.2 | D-AVI: 91.9
+- FLEX: DJ Moore | C-AVI: 75.4 | D-AVI: 86.4
 - FLEX: Christian Watson | C-AVI: 70.2 | D-AVI: 86.1
-- FLEX: Tyrone Tracy | C-AVI: 50.2 | D-AVI: 73.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,7 +53,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 73.7
+- Championship AVI (C-AVI, 0-100): 73.8
 - Dynasty AVI (D-AVI, 0-100): 83.0
 - Projected PPR points: 303.6
 - Category: offense
@@ -192,6 +192,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 84.3
 - Dynasty AVI (D-AVI, 0-100): 95.1
 - Projected PPR points: 224.3
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: DJ Moore
+- Player name: DJ Moore
+- Player ID: 4983
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: BUF
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 75.4
+- Dynasty AVI (D-AVI, 0-100): 86.4
+- Projected PPR points: 207.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 545.2
-- championship_lineup_c_avi_avg: 68.15
+- championship_lineup_c_avi_sum: 545.3
+- championship_lineup_c_avi_avg: 68.16
 - offensive_roster_c_avi_sum: 651.0
 - offensive_roster_c_avi_avg: 59.18
 - offensive_roster_d_avi_sum: 853.8
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Wan'Dale Robinson | C-AVI: 67.7 | D-AVI: 83.0
 - WR: Quentin Johnston | C-AVI: 59.0 | D-AVI: 78.0
 - TE: Colston Loveland | C-AVI: 98.0 | D-AVI: 92.6
-- FLEX: Blake Corum | C-AVI: 54.7 | D-AVI: 78.6
+- FLEX: Blake Corum | C-AVI: 54.8 | D-AVI: 78.6
 - FLEX: AJ Barner | C-AVI: 54.6 | D-AVI: 75.0
 
 ## Current Roster — All Player Cards
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 54.7
+- Championship AVI (C-AVI, 0-100): 54.8
 - Dynasty AVI (D-AVI, 0-100): 78.6
 - Projected PPR points: 138.6
 - Category: offense
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 40.3
+- Championship AVI (C-AVI, 0-100): 40.2
 - Dynasty AVI (D-AVI, 0-100): 67.8
 - Projected PPR points: 94.4
 - Category: offense

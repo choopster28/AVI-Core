@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 587.1
-- championship_lineup_c_avi_avg: 73.39
-- offensive_roster_c_avi_sum: 668.2
+- championship_lineup_c_avi_sum: 587.2
+- championship_lineup_c_avi_avg: 73.40
+- offensive_roster_c_avi_sum: 668.3
 - offensive_roster_c_avi_avg: 60.75
 - offensive_roster_d_avi_sum: 779.5
 - offensive_roster_d_avi_avg: 70.86
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 96.0 | D-AVI: 91.1
 - RB: Breece Hall | C-AVI: 88.2 | D-AVI: 92.9
-- RB: Tony Pollard | C-AVI: 66.4 | D-AVI: 79.3
+- RB: Tony Pollard | C-AVI: 66.5 | D-AVI: 79.3
 - WR: Terry McLaurin | C-AVI: 78.7 | D-AVI: 87.4
 - WR: Khalil Shakir | C-AVI: 59.3 | D-AVI: 76.5
 - TE: George Kittle | C-AVI: 79.3 | D-AVI: 83.2
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 66.4
+- Championship AVI (C-AVI, 0-100): 66.5
 - Dynasty AVI (D-AVI, 0-100): 79.3
 - Projected PPR points: 191.1
 - Category: offense
