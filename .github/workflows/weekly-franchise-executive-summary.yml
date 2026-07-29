@@ -8,6 +8,7 @@ on:
     paths:
       - "generate_weekly_executive_summary.py"
       - "generate_weekly_executive_summary_filtered.py"
+      - "finalize_franchise_summaries.py"
       - ".github/workflows/weekly-franchise-executive-summary.yml"
       - "knowledge/teams/**"
       - "knowledge/02_AVI_Historical_Trades.md"
@@ -61,6 +62,10 @@ jobs:
       - name: Generate all 16 franchise summaries
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: python generate_weekly_executive_summary_filtered.py
+
+      - name: Finalize canonical dynasty and rival data
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        run: python finalize_franchise_summaries.py
 
       - name: Verify complete, current output set
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
