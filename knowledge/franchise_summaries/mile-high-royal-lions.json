@@ -6,43 +6,43 @@
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T02:54:46.304192-06:00",
+  "generated_at": "2026-07-29T14:27:09.610241-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
-  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 669.60 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 666.60 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 3,
     "league_size": 16,
-    "score": 669.6,
+    "score": 666.6,
     "team_above": {
       "name": "Big Balder Brand",
       "rank": 2,
       "score": 709.9,
-      "gap": 40.299999999999955
+      "gap": 43.299999999999955
     },
     "team_below": {
       "name": "SmokyValleyWheatWarriors",
       "rank": 4,
-      "score": 661.5,
-      "gap": 8.100000000000023
+      "score": 661.4,
+      "gap": 5.2000000000000455
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 4,
+    "rank": 8,
     "league_size": 16,
-    "score": 983.1,
+    "score": 896.7,
     "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 99.4 C-AVI would directly attack the 40.30-point projected gap to Big Balder Brand.",
+    "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.30-point projected gap to Big Balder Brand.",
     "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
     "franchise_name": "SmokyValleyWheatWarriors",
     "projected_rank": 4,
-    "projected_score": 661.5,
+    "projected_score": 661.4,
     "latest_trade": null,
     "summary": "No trade for SmokyValleyWheatWarriors was found in the last 365 days of the authoritative ledger."
   },
@@ -50,7 +50,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #3 of 16 at 669.60 lineup C-AVI. Big Balder Brand is immediately above at 709.90, a gap of 40.30. SmokyValleyWheatWarriors is immediately behind at 661.50."
+      "body": "Projected #3 of 16 at 666.60 lineup C-AVI. Big Balder Brand is immediately above at 709.90, a gap of 43.30. SmokyValleyWheatWarriors is immediately behind at 661.40."
     },
     {
       "id": "competitive-core",
@@ -65,9 +65,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 99.4 C-AVI would directly attack the 40.30-point projected gap to Big Balder Brand. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
+      "body": "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.30-point projected gap to Big Balder Brand. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 99.4 C-AVI would directly attack the 40.30-point projected gap to Big Balder Brand.",
+        "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.30-point projected gap to Big Balder Brand.",
         "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },
@@ -84,7 +84,7 @@
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 12 offensive players in the current team file are marked Active."
+      "body": "All 11 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",

@@ -6,25 +6,25 @@
   "owner_display_name": "AlexPete6800",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T02:54:46.304192-06:00",
+  "generated_at": "2026-07-29T14:27:09.610241-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
-  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 661.50 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and James Cook. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 661.40 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and James Cook. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 4,
     "league_size": 16,
-    "score": 661.5,
+    "score": 661.4,
     "team_above": {
       "name": "Mile High Royal Lions",
       "rank": 3,
-      "score": 669.6,
-      "gap": 8.100000000000023
+      "score": 666.6,
+      "gap": 5.2000000000000455
     },
     "team_below": {
-      "name": "Ravens Regime",
+      "name": "Corgi Loaf Baking Co.",
       "rank": 5,
-      "score": 636.9,
-      "gap": 24.600000000000023
+      "score": 659.5,
+      "gap": 1.8999999999999773
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
@@ -36,21 +36,21 @@
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the FLEX slot above Rico Dowdle's 63.7 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 8.10-point projected gap to Mile High Royal Lions.",
+    "Raise the FLEX slot above Rico Dowdle's 63.7 C-AVI baseline; a replacement near 68.9 C-AVI would directly attack the 5.20-point projected gap to Mile High Royal Lions.",
     "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
-    "franchise_name": "Ravens Regime",
+    "franchise_name": "Corgi Loaf Baking Co.",
     "projected_rank": 5,
-    "projected_score": 636.9,
+    "projected_score": 659.5,
     "latest_trade": null,
-    "summary": "No trade for Ravens Regime was found in the last 365 days of the authoritative ledger."
+    "summary": "No trade for Corgi Loaf Baking Co. was found in the last 365 days of the authoritative ledger."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #4 of 16 at 661.50 lineup C-AVI. Mile High Royal Lions is immediately above at 669.60, a gap of 8.10. Ravens Regime is immediately behind at 636.90."
+      "body": "Projected #4 of 16 at 661.40 lineup C-AVI. Mile High Royal Lions is immediately above at 666.60, a gap of 5.20. Corgi Loaf Baking Co. is immediately behind at 659.50."
     },
     {
       "id": "competitive-core",
@@ -65,16 +65,16 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Rico Dowdle's 63.7 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 8.10-point projected gap to Mile High Royal Lions. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
+      "body": "Raise the FLEX slot above Rico Dowdle's 63.7 C-AVI baseline; a replacement near 68.9 C-AVI would directly attack the 5.20-point projected gap to Mile High Royal Lions. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the FLEX slot above Rico Dowdle's 63.7 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 8.10-point projected gap to Mile High Royal Lions.",
+        "Raise the FLEX slot above Rico Dowdle's 63.7 C-AVI baseline; a replacement near 68.9 C-AVI would directly attack the 5.20-point projected gap to Mile High Royal Lions.",
         "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "No trade for Ravens Regime was found in the last 365 days of the authoritative ledger."
+      "body": "No trade for Corgi Loaf Baking Co. was found in the last 365 days of the authoritative ledger."
     },
     {
       "id": "lineup-pressure-point",

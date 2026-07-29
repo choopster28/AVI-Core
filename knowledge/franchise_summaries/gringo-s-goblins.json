@@ -6,25 +6,25 @@
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T02:54:46.304192-06:00",
+  "generated_at": "2026-07-29T14:27:09.610241-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
-  "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 564.70 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 564.60 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 11,
     "league_size": 16,
-    "score": 564.7,
+    "score": 564.6,
     "team_above": {
       "name": "DMV Fantasy",
       "rank": 10,
-      "score": 587.1,
-      "gap": 22.399999999999977
+      "score": 587.2,
+      "gap": 22.600000000000023
     },
     "team_below": {
       "name": "Phalhala or Bust",
       "rank": 12,
       "score": 553.1,
-      "gap": 11.600000000000023
+      "gap": 11.5
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
@@ -36,7 +36,7 @@
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.5 C-AVI would directly attack the 22.40-point projected gap to DMV Fantasy.",
+    "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.7 C-AVI would directly attack the 22.60-point projected gap to DMV Fantasy.",
     "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
@@ -50,7 +50,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #11 of 16 at 564.70 lineup C-AVI. DMV Fantasy is immediately above at 587.10, a gap of 22.40. Phalhala or Bust is immediately behind at 553.10."
+      "body": "Projected #11 of 16 at 564.60 lineup C-AVI. DMV Fantasy is immediately above at 587.20, a gap of 22.60. Phalhala or Bust is immediately behind at 553.10."
     },
     {
       "id": "competitive-core",
@@ -65,9 +65,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.5 C-AVI would directly attack the 22.40-point projected gap to DMV Fantasy. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
+      "body": "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.7 C-AVI would directly attack the 22.60-point projected gap to DMV Fantasy. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.5 C-AVI would directly attack the 22.40-point projected gap to DMV Fantasy.",
+        "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.7 C-AVI would directly attack the 22.60-point projected gap to DMV Fantasy.",
         "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },

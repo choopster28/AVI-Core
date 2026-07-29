@@ -6,25 +6,25 @@
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T02:54:46.304192-06:00",
+  "generated_at": "2026-07-29T14:27:09.610241-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
-  "executive_summary": "DMV Fantasy is projected #10 of 16 with a 587.10 projected-starting-lineup C-AVI total, led by Jayden Daniels, Breece Hall, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "DMV Fantasy is projected #10 of 16 with a 587.20 projected-starting-lineup C-AVI total, led by Jayden Daniels, Breece Hall, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 10,
     "league_size": 16,
-    "score": 587.1,
+    "score": 587.2,
     "team_above": {
       "name": "Badland Banditos",
       "rank": 9,
       "score": 618.2,
-      "gap": 31.100000000000023
+      "gap": 31.0
     },
     "team_below": {
       "name": "Gringo\u2019s Goblins",
       "rank": 11,
-      "score": 564.7,
-      "gap": 22.399999999999977
+      "score": 564.6,
+      "gap": 22.600000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
@@ -36,13 +36,13 @@
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.5 C-AVI would directly attack the 31.10-point projected gap to Badland Banditos.",
+    "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.4 C-AVI would directly attack the 31.00-point projected gap to Badland Banditos.",
     "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
     "franchise_name": "Gringo\u2019s Goblins",
     "projected_rank": 11,
-    "projected_score": 564.7,
+    "projected_score": 564.6,
     "latest_trade": null,
     "summary": "No trade for Gringo\u2019s Goblins was found in the last 365 days of the authoritative ledger."
   },
@@ -50,7 +50,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #10 of 16 at 587.10 lineup C-AVI. Badland Banditos is immediately above at 618.20, a gap of 31.10. Gringo\u2019s Goblins is immediately behind at 564.70."
+      "body": "Projected #10 of 16 at 587.20 lineup C-AVI. Badland Banditos is immediately above at 618.20, a gap of 31.00. Gringo\u2019s Goblins is immediately behind at 564.60."
     },
     {
       "id": "competitive-core",
@@ -65,9 +65,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.5 C-AVI would directly attack the 31.10-point projected gap to Badland Banditos. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
+      "body": "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.4 C-AVI would directly attack the 31.00-point projected gap to Badland Banditos. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.5 C-AVI would directly attack the 31.10-point projected gap to Badland Banditos.",
+        "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.4 C-AVI would directly attack the 31.00-point projected gap to Badland Banditos.",
         "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },

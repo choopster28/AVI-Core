@@ -6,7 +6,7 @@
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T02:54:46.304192-06:00",
+  "generated_at": "2026-07-29T14:27:09.610241-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
   "executive_summary": "Southside Savages is projected #7 of 16 with a 626.10 projected-starting-lineup C-AVI total, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
@@ -15,10 +15,10 @@
     "league_size": 16,
     "score": 626.1,
     "team_above": {
-      "name": "Corgi Loaf Baking Co.",
+      "name": "Ravens Regime",
       "rank": 6,
-      "score": 634.2,
-      "gap": 8.100000000000023
+      "score": 636.9,
+      "gap": 10.799999999999955
     },
     "team_below": {
       "name": "All Hail King Jesus",
@@ -36,7 +36,7 @@
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 8.10-point projected gap to Corgi Loaf Baking Co..",
+    "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 10.80-point projected gap to Ravens Regime.",
     "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
@@ -50,7 +50,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #7 of 16 at 626.10 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 634.20, a gap of 8.10. All Hail King Jesus is immediately behind at 625.40."
+      "body": "Projected #7 of 16 at 626.10 lineup C-AVI. Ravens Regime is immediately above at 636.90, a gap of 10.80. All Hail King Jesus is immediately behind at 625.40."
     },
     {
       "id": "competitive-core",
@@ -65,9 +65,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 8.10-point projected gap to Corgi Loaf Baking Co.. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
+      "body": "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 10.80-point projected gap to Ravens Regime. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 8.10-point projected gap to Corgi Loaf Baking Co..",
+        "Raise the TE slot above Colby Parkinson's 44.9 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 10.80-point projected gap to Ravens Regime.",
         "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },

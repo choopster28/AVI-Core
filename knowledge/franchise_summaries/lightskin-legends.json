@@ -6,19 +6,19 @@
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T02:54:46.304192-06:00",
+  "generated_at": "2026-07-29T14:27:09.610241-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
-  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #16 of 16 with a 486.70 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
+  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #16 of 16 with a 486.80 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
     "rank": 16,
     "league_size": 16,
-    "score": 486.7,
+    "score": 486.8,
     "team_above": {
       "name": "Northside Kings",
       "rank": 15,
       "score": 490.3,
-      "gap": 3.6000000000000227
+      "gap": 3.5
     },
     "team_below": null,
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
@@ -31,7 +31,7 @@
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.4 C-AVI would directly attack the 3.60-point projected gap to Northside Kings.",
+    "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.3 C-AVI would directly attack the 3.50-point projected gap to Northside Kings.",
     "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": null,
@@ -39,7 +39,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #16 of 16 at 486.70 lineup C-AVI. Northside Kings is immediately above at 490.30, a gap of 3.60."
+      "body": "Projected #16 of 16 at 486.80 lineup C-AVI. Northside Kings is immediately above at 490.30, a gap of 3.50."
     },
     {
       "id": "competitive-core",
@@ -54,9 +54,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.4 C-AVI would directly attack the 3.60-point projected gap to Northside Kings. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
+      "body": "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.3 C-AVI would directly attack the 3.50-point projected gap to Northside Kings. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.4 C-AVI would directly attack the 3.60-point projected gap to Northside Kings.",
+        "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.3 C-AVI would directly attack the 3.50-point projected gap to Northside Kings.",
         "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },

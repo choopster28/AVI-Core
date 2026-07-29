@@ -6,7 +6,7 @@
   "owner_display_name": "srsmith95",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T02:54:46.304192-06:00",
+  "generated_at": "2026-07-29T14:27:09.610241-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Northside Kings: Preseason Front Office Brief",
   "executive_summary": "Northside Kings is projected #15 of 16 with a 490.30 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
@@ -23,8 +23,8 @@
     "team_below": {
       "name": "Lightskin Legends \u270a\ud83c\udffd",
       "rank": 16,
-      "score": 486.7,
-      "gap": 3.6000000000000227
+      "score": 486.8,
+      "gap": 3.5
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
@@ -42,7 +42,7 @@
   "rival_below": {
     "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
     "projected_rank": 16,
-    "projected_score": 486.7,
+    "projected_score": 486.8,
     "latest_trade": null,
     "summary": "No trade for Lightskin Legends \u270a\ud83c\udffd was found in the last 365 days of the authoritative ledger."
   },
@@ -50,7 +50,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #15 of 16 at 490.30 lineup C-AVI. Crimson Tide Pods is immediately above at 538.40, a gap of 48.10. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 486.70."
+      "body": "Projected #15 of 16 at 490.30 lineup C-AVI. Crimson Tide Pods is immediately above at 538.40, a gap of 48.10. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 486.80."
     },
     {
       "id": "competitive-core",

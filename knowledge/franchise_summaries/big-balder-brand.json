@@ -6,7 +6,7 @@
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T02:54:46.304192-06:00",
+  "generated_at": "2026-07-29T14:27:09.610241-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
   "executive_summary": "Big Balder Brand is projected #2 of 16 with a 709.90 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -23,8 +23,8 @@
     "team_below": {
       "name": "Mile High Royal Lions",
       "rank": 3,
-      "score": 669.6,
-      "gap": 40.299999999999955
+      "score": 666.6,
+      "gap": 43.299999999999955
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
@@ -42,7 +42,7 @@
   "rival_below": {
     "franchise_name": "Mile High Royal Lions",
     "projected_rank": 3,
-    "projected_score": 669.6,
+    "projected_score": 666.6,
     "latest_trade": null,
     "summary": "No trade for Mile High Royal Lions was found in the last 365 days of the authoritative ledger."
   },
@@ -50,7 +50,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #2 of 16 at 709.90 lineup C-AVI. Conquistadors is immediately above at 722.60, a gap of 12.70. Mile High Royal Lions is immediately behind at 669.60."
+      "body": "Projected #2 of 16 at 709.90 lineup C-AVI. Conquistadors is immediately above at 722.60, a gap of 12.70. Mile High Royal Lions is immediately behind at 666.60."
     },
     {
       "id": "competitive-core",

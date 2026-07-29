@@ -6,7 +6,7 @@
   "owner_display_name": "nickas",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T02:54:46.304192-06:00",
+  "generated_at": "2026-07-29T14:27:09.610241-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
   "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 538.40 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the RB slot without weakening that core.",
@@ -17,8 +17,8 @@
     "team_above": {
       "name": "Rapid Valley Annihilation",
       "rank": 13,
-      "score": 545.2,
-      "gap": 6.800000000000068
+      "score": 545.3,
+      "gap": 6.899999999999977
     },
     "team_below": {
       "name": "Northside Kings",
@@ -36,7 +36,7 @@
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the RB slot above Tyjae Spears's 51.0 C-AVI baseline; a replacement near 57.8 C-AVI would directly attack the 6.80-point projected gap to Rapid Valley Annihilation.",
+    "Raise the RB slot above Tyjae Spears's 51.0 C-AVI baseline; a replacement near 57.9 C-AVI would directly attack the 6.90-point projected gap to Rapid Valley Annihilation.",
     "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
@@ -50,7 +50,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 538.40 lineup C-AVI. Rapid Valley Annihilation is immediately above at 545.20, a gap of 6.80. Northside Kings is immediately behind at 490.30."
+      "body": "Projected #14 of 16 at 538.40 lineup C-AVI. Rapid Valley Annihilation is immediately above at 545.30, a gap of 6.90. Northside Kings is immediately behind at 490.30."
     },
     {
       "id": "competitive-core",
@@ -65,9 +65,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Tyjae Spears's 51.0 C-AVI baseline; a replacement near 57.8 C-AVI would directly attack the 6.80-point projected gap to Rapid Valley Annihilation. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
+      "body": "Raise the RB slot above Tyjae Spears's 51.0 C-AVI baseline; a replacement near 57.9 C-AVI would directly attack the 6.90-point projected gap to Rapid Valley Annihilation. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the RB slot above Tyjae Spears's 51.0 C-AVI baseline; a replacement near 57.8 C-AVI would directly attack the 6.80-point projected gap to Rapid Valley Annihilation.",
+        "Raise the RB slot above Tyjae Spears's 51.0 C-AVI baseline; a replacement near 57.9 C-AVI would directly attack the 6.90-point projected gap to Rapid Valley Annihilation.",
         "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },

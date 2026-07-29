@@ -6,25 +6,25 @@
   "owner_display_name": "FuzzyRaptor",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T02:54:46.304192-06:00",
+  "generated_at": "2026-07-29T14:27:09.610241-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Rapid Valley Annihilation: Preseason Front Office Brief",
-  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 545.20 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 545.30 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 545.2,
+    "score": 545.3,
     "team_above": {
       "name": "Phalhala or Bust",
       "rank": 12,
       "score": 553.1,
-      "gap": 7.899999999999977
+      "gap": 7.800000000000068
     },
     "team_below": {
       "name": "Crimson Tide Pods",
       "rank": 14,
       "score": 538.4,
-      "gap": 6.800000000000068
+      "gap": 6.899999999999977
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
@@ -36,7 +36,7 @@
   },
   "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.5 C-AVI would directly attack the 7.90-point projected gap to Phalhala or Bust.",
+    "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.4 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust.",
     "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
@@ -50,7 +50,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #13 of 16 at 545.20 lineup C-AVI. Phalhala or Bust is immediately above at 553.10, a gap of 7.90. Crimson Tide Pods is immediately behind at 538.40."
+      "body": "Projected #13 of 16 at 545.30 lineup C-AVI. Phalhala or Bust is immediately above at 553.10, a gap of 7.80. Crimson Tide Pods is immediately behind at 538.40."
     },
     {
       "id": "competitive-core",
@@ -65,9 +65,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.5 C-AVI would directly attack the 7.90-point projected gap to Phalhala or Bust. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
+      "body": "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.4 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.5 C-AVI would directly attack the 7.90-point projected gap to Phalhala or Bust.",
+        "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.4 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust.",
         "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },
