@@ -324,9 +324,11 @@ def transaction_roster_ids(record: dict[str, Any]) -> set[int]:
     for pick in record.get("draft_picks") or []:
         if not isinstance(pick, dict):
             continue
+        # Only the current and previous owners participated in the trade.
+        # roster_id identifies the franchise that originally owned the pick and
+        # must never be treated as a transaction counterparty.
         add(pick.get("owner_id"))
         add(pick.get("previous_owner_id"))
-        add(pick.get("roster_id"))
 
     return roster_ids
 
@@ -491,7 +493,7 @@ def summarize_transaction(
         if sent:
             details.append(f"sent {', '.join(sent)}")
         return opening + (
-            f" and {' while '.join(details)}."
+            f" and {' and '.join(details)}."
             if details
             else "."
         )
@@ -746,6 +748,33 @@ def validate_outputs() -> None:
                 raise RuntimeError(
                     f"Rival Watch is missing latest_activity in {path}"
                 )
+
+        rival_activity = (rival or {}).get("latest_activity") or {}
+        rival_summary = str(rival_activity.get("summary") or "")
+        if rival_activity.get("type") == "trade" and "completed a trade with" in rival_summary:
+            transaction_id = str(rival_activity.get("transaction_id") or "")
+            transaction = next(
+                (
+                    record for record in VERIFIED_TRANSACTIONS
+                    if str(record.get("transaction_id") or record.get("id") or "") == transaction_id
+                ),
+                None,
+            )
+            if transaction:
+                participant_ids = transaction_roster_ids(transaction)
+                original_only_ids = {
+                    int(pick.get("roster_id"))
+                    for pick in transaction.get("draft_picks") or []
+                    if isinstance(pick, dict)
+                    and pick.get("roster_id") is not None
+                    and int(pick.get("roster_id")) not in participant_ids
+                }
+                for original_id in original_only_ids:
+                    original_name = ROSTER_NAMES.get(original_id)
+                    if original_name and f"with {original_name}" in rival_summary:
+                        raise RuntimeError(
+                            f"Original pick franchise leaked into trade counterparties in {path}"
+                        )
 
         dynasty = payload.get("dynasty_power") or {}
         expected_total = round(
