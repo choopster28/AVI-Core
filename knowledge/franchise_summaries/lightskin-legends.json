@@ -6,7 +6,7 @@
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T15:22:53.427780-06:00",
+  "generated_at": "2026-07-29T15:29:09.624441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
   "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #16 of 16 with a 486.80 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
@@ -29,7 +29,7 @@
     "score": 598.6,
     "player_d_avi": 598.6,
     "future_pick_d_avi": 0.0,
-    "method": "Canonical Power Rankings D-AVI ladder: full verified roster D-AVI plus every verified owned 2027+ draft pick D-AVI"
+    "method": "Canonical Power Rankings D-AVI ladder: full verified roster D-AVI plus every verified owned 2027+ draft pick AVI from data/processed/reports/draft_pick_values.json"
   },
   "latest_trade": null,
   "gap_closing_moves": [
