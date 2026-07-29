@@ -13,20 +13,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 12
-- offense: 12
+- total_players: 13
+- offense: 13
 - kickers: 0
 - idp: 0
 - other: 0
-- keepers: 11
+- keepers: 13
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 659.5
 - championship_lineup_c_avi_avg: 82.44
-- offensive_roster_c_avi_sum: 835.0
-- offensive_roster_c_avi_avg: 69.58
-- offensive_roster_d_avi_sum: 992.7
-- offensive_roster_d_avi_avg: 82.73
+- offensive_roster_c_avi_sum: 902.7
+- offensive_roster_c_avi_avg: 69.44
+- offensive_roster_d_avi_sum: 1075.7
+- offensive_roster_d_avi_avg: 82.75
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -226,6 +226,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 70.2
 - Dynasty AVI (D-AVI, 0-100): 86.1
 - Projected PPR points: 190.9
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Wan'Dale Robinson
+- Player name: Wan'Dale Robinson
+- Player ID: 8126
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 67.7
+- Dynasty AVI (D-AVI, 0-100): 83.0
+- Projected PPR points: 188.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

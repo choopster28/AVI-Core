@@ -13,28 +13,28 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 12
-- offense: 11
+- total_players: 11
+- offense: 10
 - kickers: 1
 - idp: 0
 - other: 0
-- keepers: 12
+- keepers: 11
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 545.3
-- championship_lineup_c_avi_avg: 68.16
-- offensive_roster_c_avi_sum: 651.0
-- offensive_roster_c_avi_avg: 59.18
-- offensive_roster_d_avi_sum: 853.8
-- offensive_roster_d_avi_avg: 77.62
+- championship_lineup_c_avi_sum: 522.8
+- championship_lineup_c_avi_avg: 65.35
+- offensive_roster_c_avi_sum: 583.3
+- offensive_roster_c_avi_avg: 58.33
+- offensive_roster_d_avi_sum: 770.8
+- offensive_roster_d_avi_avg: 77.08
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 70.7 | D-AVI: 83.7
 - RB: Quinshon Judkins | C-AVI: 76.0 | D-AVI: 89.0
 - RB: Rhamondre Stevenson | C-AVI: 64.5 | D-AVI: 80.0
-- WR: Wan'Dale Robinson | C-AVI: 67.7 | D-AVI: 83.0
 - WR: Quentin Johnston | C-AVI: 59.0 | D-AVI: 78.0
+- WR: Adonai Mitchell | C-AVI: 45.2 | D-AVI: 69.8
 - TE: Colston Loveland | C-AVI: 98.0 | D-AVI: 92.6
 - FLEX: Blake Corum | C-AVI: 54.8 | D-AVI: 78.6
 - FLEX: AJ Barner | C-AVI: 54.6 | D-AVI: 75.0
@@ -107,23 +107,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 54.8
 - Dynasty AVI (D-AVI, 0-100): 78.6
 - Projected PPR points: 138.6
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Wan'Dale Robinson
-- Player name: Wan'Dale Robinson
-- Player ID: 8126
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: TEN
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 67.7
-- Dynasty AVI (D-AVI, 0-100): 83.0
-- Projected PPR points: 188.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
