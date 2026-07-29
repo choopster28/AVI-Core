@@ -1,125 +1,80 @@
 {
-  "schema_version": 8,
+  "schema_version": 5,
   "franchise_id": "dmv-fantasy",
   "franchise_name": "DMV Fantasy",
   "roster_id": 12,
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T22:52:17.523683-06:00",
+  "reporting_period": "Week of July 29, 2026",
+  "generated_at": "2026-07-29T02:24:03.724075-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
-  "executive_summary": "DMV Fantasy is projected #10 of 16 with a 587.60 projected-starting-lineup C-AVI total, led by Jayden Daniels, Breece Hall, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core. On the Power Rankings webpage's D-AVI ladder, the franchise ranks #13 of 16 with a 62.0 team D-AVI score.",
+  "executive_summary": "DMV Fantasy is projected #10 of 16 with a 587.10 projected-starting-lineup C-AVI total, led by Jayden Daniels, Breece Hall, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 10,
     "league_size": 16,
-    "score": 587.6,
+    "score": 587.1,
     "team_above": {
       "name": "Badland Banditos",
       "rank": 9,
-      "score": 618.4,
-      "gap": 30.799999999999955
+      "score": 618.2,
+      "gap": 31.100000000000023
     },
     "team_below": {
       "name": "Gringo\u2019s Goblins",
       "rank": 11,
-      "score": 564.8,
-      "gap": 22.800000000000068
+      "score": 564.7,
+      "gap": 22.399999999999977
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 62.0,
-    "method": "Exact rank and team D-AVI score from the live Autobots HQ Power Rankings webpage ladder",
-    "source_url": "https://autobots.football/api/power-rankings"
+    "score": 779.5,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
-  "latest_trade": {
-    "transaction_id": "1386578462004772864",
-    "created_at": "2026-07-25T03:02:56.026000+00:00",
-    "counterparties": [
-      "Big Balder Brand"
-    ],
-    "players_received": [
-      "Breece Hall"
-    ],
-    "players_sent": [
-      "Cam Little",
-      "Saquon Barkley"
-    ],
-    "picks_received": [],
-    "picks_sent": [],
-    "summary": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 88.2 C-AVI and 92.9 D-AVI."
-  },
+  "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.2 C-AVI would directly attack the 30.80-point projected gap to Badland Banditos.",
-    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+    "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.5 C-AVI would directly attack the 31.10-point projected gap to Badland Banditos.",
+    "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
     "franchise_name": "Gringo\u2019s Goblins",
     "projected_rank": 11,
-    "projected_score": 564.8,
-    "latest_trade": {
-      "transaction_id": "1380604251050356736",
-      "created_at": "2026-07-08T15:23:33.139000+00:00",
-      "counterparties": [
-        "Big Balder Brand"
-      ],
-      "players_received": [
-        "Tre' Harris",
-        "Emeka Egbuka",
-        "Kyren Williams"
-      ],
-      "players_sent": [
-        "Omarion Hampton",
-        "Chris Godwin",
-        "A.J. Brown"
-      ],
-      "picks_received": [
-        "2027 Round 1 (Big Balder Brand)"
-      ],
-      "picks_sent": [
-        "2027 Round 2 (Gringo\u2019s Goblins)"
-      ],
-      "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 40.6 C-AVI and 71.7 D-AVI; Emeka Egbuka is now the current WR starter at 85.3 C-AVI and 94.3 D-AVI; Kyren Williams is now the current RB starter at 83.5 C-AVI and 89.9 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
-    },
-    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 40.6 C-AVI and 71.7 D-AVI; Emeka Egbuka is now the current WR starter at 85.3 C-AVI and 94.3 D-AVI; Kyren Williams is now the current RB starter at 83.5 C-AVI and 89.9 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+    "projected_score": 564.7,
+    "latest_trade": null,
+    "summary": "No trade for Gringo\u2019s Goblins was found in the last 365 days of the authoritative ledger."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #10 of 16 at 587.60 lineup C-AVI. Badland Banditos is immediately above at 618.40, a gap of 30.80. Gringo\u2019s Goblins is immediately behind at 564.80."
-    },
-    {
-      "id": "dynasty-position",
-      "title": "D-AVI Power Ranking",
-      "body": "The live Power Rankings webpage places DMV Fantasy #13 of 16 on the D-AVI ladder at 62.0. This section uses the webpage's exact team score and ordering rather than recalculating dynasty rank from the weekly-summary team files."
+      "body": "Projected #10 of 16 at 587.10 lineup C-AVI. Badland Banditos is immediately above at 618.20, a gap of 31.10. Gringo\u2019s Goblins is immediately behind at 564.70."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jayden Daniels (96.0), Breece Hall (88.2), and George Kittle (79.5)."
+      "body": "The three highest C-AVI starters are Jayden Daniels (96.0), Breece Hall (88.2), and George Kittle (79.3)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 88.2 C-AVI and 92.9 D-AVI."
+      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.2 C-AVI would directly attack the 30.80-point projected gap to Badland Banditos. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.5 C-AVI would directly attack the 31.10-point projected gap to Badland Banditos. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.2 C-AVI would directly attack the 30.80-point projected gap to Badland Banditos.",
-        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+        "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.5 C-AVI would directly attack the 31.10-point projected gap to Badland Banditos.",
+        "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 40.6 C-AVI and 71.7 D-AVI; Emeka Egbuka is now the current WR starter at 85.3 C-AVI and 94.3 D-AVI; Kyren Williams is now the current RB starter at 83.5 C-AVI and 89.9 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+      "body": "No trade for Gringo\u2019s Goblins was found in the last 365 days of the authoritative ledger."
     },
     {
       "id": "lineup-pressure-point",
@@ -134,19 +89,16 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified draft assets: 2026 1.01; 2026 1.14; 2026 1.15; 2026 2.01; 2026 2.14; 2026 2.15; 2026 3.01; 2026 4.01; 2026 5.01; 2026 6.01; 2026 7.01; 2026 8.01; 2026 9.01; 2026 10.01."
+      "body": "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     }
   ],
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "knowledge/teams/12_DMV_Fantasy.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
-      "knowledge/02_AVI_Historical_Trades.md",
-      "Autobots HQ live Power Rankings API"
+      "AVI-Core/knowledge/teams/12_DMV_Fantasy.md"
     ],
-    "source_last_updated": "2026-07-28",
-    "external_sources_used": true,
+    "source_last_updated": "2026-07-29",
+    "external_sources_used": false,
     "conversation_context_used": false
   }
 }

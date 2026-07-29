@@ -1,103 +1,56 @@
 {
-  "schema_version": 8,
+  "schema_version": 5,
   "franchise_id": "gringo-s-goblins",
   "franchise_name": "Gringo\u2019s Goblins",
   "roster_id": 15,
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T22:52:17.523683-06:00",
+  "reporting_period": "Week of July 29, 2026",
+  "generated_at": "2026-07-29T02:24:03.724075-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
-  "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 564.80 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core. On the Power Rankings webpage's D-AVI ladder, the franchise ranks #16 of 16 with a 0.0 team D-AVI score.",
+  "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 564.70 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 11,
     "league_size": 16,
-    "score": 564.8,
+    "score": 564.7,
     "team_above": {
       "name": "DMV Fantasy",
       "rank": 10,
-      "score": 587.6,
-      "gap": 22.800000000000068
+      "score": 587.1,
+      "gap": 22.399999999999977
     },
     "team_below": {
       "name": "Phalhala or Bust",
       "rank": 12,
-      "score": 553.6,
-      "gap": 11.199999999999932
+      "score": 553.1,
+      "gap": 11.600000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 16,
+    "rank": 12,
     "league_size": 16,
-    "score": 0.0,
-    "method": "Exact rank and team D-AVI score from the live Autobots HQ Power Rankings webpage ladder",
-    "source_url": "https://autobots.football/api/power-rankings"
+    "score": 804.7,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
-  "latest_trade": {
-    "transaction_id": "1380604251050356736",
-    "created_at": "2026-07-08T15:23:33.139000+00:00",
-    "counterparties": [
-      "Big Balder Brand"
-    ],
-    "players_received": [
-      "Tre' Harris",
-      "Emeka Egbuka",
-      "Kyren Williams"
-    ],
-    "players_sent": [
-      "Omarion Hampton",
-      "Chris Godwin",
-      "A.J. Brown"
-    ],
-    "picks_received": [
-      "2027 Round 1 (Big Balder Brand)"
-    ],
-    "picks_sent": [
-      "2027 Round 2 (Gringo\u2019s Goblins)"
-    ],
-    "summary": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 40.6 C-AVI and 71.7 D-AVI; Emeka Egbuka is now the current WR starter at 85.3 C-AVI and 94.3 D-AVI; Kyren Williams is now the current RB starter at 83.5 C-AVI and 89.9 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
-  },
+  "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.9 C-AVI would directly attack the 22.80-point projected gap to DMV Fantasy.",
-    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+    "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.5 C-AVI would directly attack the 22.40-point projected gap to DMV Fantasy.",
+    "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
     "franchise_name": "Phalhala or Bust",
     "projected_rank": 12,
-    "projected_score": 553.6,
-    "latest_trade": {
-      "transaction_id": "1356901536596242432",
-      "created_at": "2026-05-04T05:37:25.638000+00:00",
-      "counterparties": [
-        "Ravens Regime"
-      ],
-      "players_received": [
-        "Michael Wilson"
-      ],
-      "players_sent": [
-        "Romeo Doubs"
-      ],
-      "picks_received": [
-        "2026 Round 2 (Ravens Regime)",
-        "2026 Round 4 (Badland Banditos)"
-      ],
-      "picks_sent": [],
-      "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.4 C-AVI and 82.4 D-AVI; The deal added 2 draft assets."
-    },
-    "summary": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.4 C-AVI and 82.4 D-AVI; The deal added 2 draft assets."
+    "projected_score": 553.1,
+    "latest_trade": null,
+    "summary": "No trade for Phalhala or Bust was found in the last 365 days of the authoritative ledger."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #11 of 16 at 564.80 lineup C-AVI. DMV Fantasy is immediately above at 587.60, a gap of 22.80. Phalhala or Bust is immediately behind at 553.60."
-    },
-    {
-      "id": "dynasty-position",
-      "title": "D-AVI Power Ranking",
-      "body": "The live Power Rankings webpage places Gringo\u2019s Goblins #16 of 16 on the D-AVI ladder at 0.0. This section uses the webpage's exact team score and ordering rather than recalculating dynasty rank from the weekly-summary team files."
+      "body": "Projected #11 of 16 at 564.70 lineup C-AVI. DMV Fantasy is immediately above at 587.10, a gap of 22.40. Phalhala or Bust is immediately behind at 553.10."
     },
     {
       "id": "competitive-core",
@@ -107,21 +60,21 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 8, Gringo\u2019s Goblins traded with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) while sending Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins). Tre' Harris is now on the current roster at 40.6 C-AVI and 71.7 D-AVI; Emeka Egbuka is now the current WR starter at 85.3 C-AVI and 94.3 D-AVI; Kyren Williams is now the current RB starter at 83.5 C-AVI and 89.9 D-AVI; The deal sent out 1 draft asset, reducing future flexibility; The deal added 1 draft asset."
+      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.9 C-AVI would directly attack the 22.80-point projected gap to DMV Fantasy. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.5 C-AVI would directly attack the 22.40-point projected gap to DMV Fantasy. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.9 C-AVI would directly attack the 22.80-point projected gap to DMV Fantasy.",
-        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+        "Raise the FLEX slot above Jonathon Brooks's 53.1 C-AVI baseline; a replacement near 75.5 C-AVI would directly attack the 22.40-point projected gap to DMV Fantasy.",
+        "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On May 3, Phalhala or Bust traded with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) while sending Romeo Doubs. Michael Wilson is now the current WR starter at 62.4 C-AVI and 82.4 D-AVI; The deal added 2 draft assets."
+      "body": "No trade for Phalhala or Bust was found in the last 365 days of the authoritative ledger."
     },
     {
       "id": "lineup-pressure-point",
@@ -136,19 +89,16 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified draft assets: 2026 1.11; 2026 2.11; 2026 3.11; 2026 4.11; 2026 5.11; 2026 6.11; 2026 7.11; 2026 8.11; 2026 9.11; 2026 10.11."
+      "body": "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     }
   ],
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "knowledge/teams/15_Gringo_s_Goblins.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
-      "knowledge/02_AVI_Historical_Trades.md",
-      "Autobots HQ live Power Rankings API"
+      "AVI-Core/knowledge/teams/15_Gringo_s_Goblins.md"
     ],
-    "source_last_updated": "2026-07-28",
-    "external_sources_used": true,
+    "source_last_updated": "2026-07-29",
+    "external_sources_used": false,
     "conversation_context_used": false
   }
 }

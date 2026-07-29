@@ -1,67 +1,45 @@
 {
-  "schema_version": 8,
+  "schema_version": 5,
   "franchise_id": "lightskin-legends",
   "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T22:52:17.523683-06:00",
+  "reporting_period": "Week of July 29, 2026",
+  "generated_at": "2026-07-29T02:24:03.724075-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
-  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #16 of 16 with a 486.80 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core. On the Power Rankings webpage's D-AVI ladder, the franchise ranks #5 of 16 with a 255.0 team D-AVI score.",
+  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #16 of 16 with a 486.70 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
     "rank": 16,
     "league_size": 16,
-    "score": 486.8,
+    "score": 486.7,
     "team_above": {
       "name": "Northside Kings",
       "rank": 15,
-      "score": 490.5,
-      "gap": 3.6999999999999886
+      "score": 490.3,
+      "gap": 3.6000000000000227
     },
     "team_below": null,
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 5,
+    "rank": 16,
     "league_size": 16,
-    "score": 255.0,
-    "method": "Exact rank and team D-AVI score from the live Autobots HQ Power Rankings webpage ladder",
-    "source_url": "https://autobots.football/api/power-rankings"
+    "score": 598.6,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
-  "latest_trade": {
-    "transaction_id": "1288899605622165504",
-    "created_at": "2025-10-28T14:02:01.879000+00:00",
-    "counterparties": [
-      "Murray had a little Lamb"
-    ],
-    "players_received": [
-      "Kayshon Boutte"
-    ],
-    "players_sent": [],
-    "picks_received": [],
-    "picks_sent": [
-      "2026 Round 3 (Conquistadors)",
-      "2027 Round 2 (Conquistadors)"
-    ],
-    "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
-  },
+  "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.5 C-AVI would directly attack the 3.70-point projected gap to Northside Kings.",
-    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+    "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.4 C-AVI would directly attack the 3.60-point projected gap to Northside Kings.",
+    "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": null,
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #16 of 16 at 486.80 lineup C-AVI. Northside Kings is immediately above at 490.50, a gap of 3.70."
-    },
-    {
-      "id": "dynasty-position",
-      "title": "D-AVI Power Ranking",
-      "body": "The live Power Rankings webpage places Lightskin Legends \u270a\ud83c\udffd #5 of 16 on the D-AVI ladder at 255.0. This section uses the webpage's exact team score and ordering rather than recalculating dynasty rank from the weekly-summary team files."
+      "body": "Projected #16 of 16 at 486.70 lineup C-AVI. Northside Kings is immediately above at 490.30, a gap of 3.60."
     },
     {
       "id": "competitive-core",
@@ -71,15 +49,15 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
+      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.5 C-AVI would directly attack the 3.70-point projected gap to Northside Kings. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.4 C-AVI would directly attack the 3.60-point projected gap to Northside Kings. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.5 C-AVI would directly attack the 3.70-point projected gap to Northside Kings.",
-        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+        "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.4 C-AVI would directly attack the 3.60-point projected gap to Northside Kings.",
+        "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },
     {
@@ -100,19 +78,16 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified draft assets: 2026 1.13; 2026 2.13; 2026 3.13; 2026 4.13; 2026 5.13; 2026 6.13; 2026 7.13; 2026 8.13; 2026 9.13; 2026 10.13."
+      "body": "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     }
   ],
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "knowledge/teams/06_Lightskin_Legends.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
-      "knowledge/02_AVI_Historical_Trades.md",
-      "Autobots HQ live Power Rankings API"
+      "AVI-Core/knowledge/teams/06_Lightskin_Legends.md"
     ],
-    "source_last_updated": "2026-07-28",
-    "external_sources_used": true,
+    "source_last_updated": "2026-07-29",
+    "external_sources_used": false,
     "conversation_context_used": false
   }
 }

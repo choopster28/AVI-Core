@@ -1,96 +1,56 @@
 {
-  "schema_version": 8,
+  "schema_version": 5,
   "franchise_id": "mile-high-royal-lions",
   "franchise_name": "Mile High Royal Lions",
   "roster_id": 4,
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T22:52:17.523683-06:00",
+  "reporting_period": "Week of July 29, 2026",
+  "generated_at": "2026-07-29T02:24:03.724075-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
-  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 669.80 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core. On the Power Rankings webpage's D-AVI ladder, the franchise ranks #14 of 16 with a 45.0 team D-AVI score.",
+  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 669.60 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 3,
     "league_size": 16,
-    "score": 669.8,
+    "score": 669.6,
     "team_above": {
       "name": "Big Balder Brand",
       "rank": 2,
       "score": 709.9,
-      "gap": 40.10000000000002
+      "gap": 40.299999999999955
     },
     "team_below": {
       "name": "SmokyValleyWheatWarriors",
       "rank": 4,
-      "score": 661.6,
-      "gap": 8.199999999999932
+      "score": 661.5,
+      "gap": 8.100000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 14,
+    "rank": 4,
     "league_size": 16,
-    "score": 45.0,
-    "method": "Exact rank and team D-AVI score from the live Autobots HQ Power Rankings webpage ladder",
-    "source_url": "https://autobots.football/api/power-rankings"
+    "score": 983.1,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
-  "latest_trade": {
-    "transaction_id": "1289441913560141824",
-    "created_at": "2025-10-30T01:56:58.167000+00:00",
-    "counterparties": [
-      "TacticsNoob"
-    ],
-    "players_received": [
-      "Marvin Harrison"
-    ],
-    "players_sent": [
-      "Rachaad White"
-    ],
-    "picks_received": [],
-    "picks_sent": [
-      "2026 Round 2 (Conquistadors)",
-      "2027 Round 1 (Big Balder Brand)"
-    ],
-    "summary": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (Conquistadors), 2027 Round 1 (Big Balder Brand). Marvin Harrison is now the current FLEX starter at 72.6 C-AVI and 87.4 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
-  },
+  "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 99.2 C-AVI would directly attack the 40.10-point projected gap to Big Balder Brand.",
-    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+    "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 99.4 C-AVI would directly attack the 40.30-point projected gap to Big Balder Brand.",
+    "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
     "franchise_name": "SmokyValleyWheatWarriors",
     "projected_rank": 4,
-    "projected_score": 661.6,
-    "latest_trade": {
-      "transaction_id": "1288899605622165504",
-      "created_at": "2025-10-28T14:02:01.879000+00:00",
-      "counterparties": [
-        "Hit & Ruggs \ud83c\udfce\ufe0f"
-      ],
-      "players_received": [],
-      "players_sent": [
-        "Kayshon Boutte"
-      ],
-      "picks_received": [
-        "2026 Round 3 (Conquistadors)",
-        "2027 Round 2 (Conquistadors)"
-      ],
-      "picks_sent": [],
-      "summary": "On October 28, SmokyValleyWheatWarriors traded with Hit & Ruggs \ud83c\udfce\ufe0f and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) while sending Kayshon Boutte. The deal added 2 draft assets."
-    },
-    "summary": "On October 28, SmokyValleyWheatWarriors traded with Hit & Ruggs \ud83c\udfce\ufe0f and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) while sending Kayshon Boutte. The deal added 2 draft assets."
+    "projected_score": 661.5,
+    "latest_trade": null,
+    "summary": "No trade for SmokyValleyWheatWarriors was found in the last 365 days of the authoritative ledger."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #3 of 16 at 669.80 lineup C-AVI. Big Balder Brand is immediately above at 709.90, a gap of 40.10. SmokyValleyWheatWarriors is immediately behind at 661.60."
-    },
-    {
-      "id": "dynasty-position",
-      "title": "D-AVI Power Ranking",
-      "body": "The live Power Rankings webpage places Mile High Royal Lions #14 of 16 on the D-AVI ladder at 45.0. This section uses the webpage's exact team score and ordering rather than recalculating dynasty rank from the weekly-summary team files."
+      "body": "Projected #3 of 16 at 669.60 lineup C-AVI. Big Balder Brand is immediately above at 709.90, a gap of 40.30. SmokyValleyWheatWarriors is immediately behind at 661.50."
     },
     {
       "id": "competitive-core",
@@ -100,21 +60,21 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On October 29, Mile High Royal Lions traded with TacticsNoob and acquired Marvin Harrison while sending Rachaad White, 2026 Round 2 (Conquistadors), 2027 Round 1 (Big Balder Brand). Marvin Harrison is now the current FLEX starter at 72.6 C-AVI and 87.4 D-AVI; The deal sent out 2 draft assets, reducing future flexibility."
+      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 99.2 C-AVI would directly attack the 40.10-point projected gap to Big Balder Brand. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 99.4 C-AVI would directly attack the 40.30-point projected gap to Big Balder Brand. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 99.2 C-AVI would directly attack the 40.10-point projected gap to Big Balder Brand.",
-        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+        "Raise the RB slot above J.K. Dobbins's 59.1 C-AVI baseline; a replacement near 99.4 C-AVI would directly attack the 40.30-point projected gap to Big Balder Brand.",
+        "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On October 28, SmokyValleyWheatWarriors traded with Hit & Ruggs \ud83c\udfce\ufe0f and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) while sending Kayshon Boutte. The deal added 2 draft assets."
+      "body": "No trade for SmokyValleyWheatWarriors was found in the last 365 days of the authoritative ledger."
     },
     {
       "id": "lineup-pressure-point",
@@ -129,19 +89,16 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified draft assets: 2026 1.09; 2026 2.09; 2026 3.09; 2026 3.12; 2026 4.09; 2026 5.09; 2026 6.09; 2026 7.09; 2026 8.09; 2026 9.09; 2026 10.09."
+      "body": "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     }
   ],
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "knowledge/teams/04_Mile_High_Royal_Lions.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
-      "knowledge/02_AVI_Historical_Trades.md",
-      "Autobots HQ live Power Rankings API"
+      "AVI-Core/knowledge/teams/04_Mile_High_Royal_Lions.md"
     ],
-    "source_last_updated": "2026-07-28",
-    "external_sources_used": true,
+    "source_last_updated": "2026-07-29",
+    "external_sources_used": false,
     "conversation_context_used": false
   }
 }

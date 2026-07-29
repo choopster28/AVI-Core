@@ -1,98 +1,56 @@
 {
-  "schema_version": 8,
+  "schema_version": 5,
   "franchise_id": "badland-banditos",
   "franchise_name": "Badland Banditos",
   "roster_id": 7,
   "owner_display_name": "IcebergSlim69",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T22:52:17.523683-06:00",
+  "reporting_period": "Week of July 29, 2026",
+  "generated_at": "2026-07-29T02:24:03.724075-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Badland Banditos: Preseason Front Office Brief",
-  "executive_summary": "Badland Banditos is projected #9 of 16 with a 618.40 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core. On the Power Rankings webpage's D-AVI ladder, the franchise ranks #10 of 16 with a 127.0 team D-AVI score.",
+  "executive_summary": "Badland Banditos is projected #9 of 16 with a 618.20 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 618.4,
+    "score": 618.2,
     "team_above": {
       "name": "All Hail King Jesus",
       "rank": 8,
-      "score": 625.6,
-      "gap": 7.2000000000000455
+      "score": 625.4,
+      "gap": 7.199999999999932
     },
     "team_below": {
       "name": "DMV Fantasy",
       "rank": 10,
-      "score": 587.6,
-      "gap": 30.799999999999955
+      "score": 587.1,
+      "gap": 31.100000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 10,
+    "rank": 5,
     "league_size": 16,
-    "score": 127.0,
-    "method": "Exact rank and team D-AVI score from the live Autobots HQ Power Rankings webpage ladder",
-    "source_url": "https://autobots.football/api/power-rankings"
+    "score": 958.9,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
-  "latest_trade": {
-    "transaction_id": "1375593798167461888",
-    "created_at": "2026-06-24T19:33:48.082000+00:00",
-    "counterparties": [
-      "Crimson Tide Pods"
-    ],
-    "players_received": [
-      "Kenneth Walker"
-    ],
-    "players_sent": [
-      "Chris Rodriguez"
-    ],
-    "picks_received": [
-      "2027 Round 3 (Crimson Tide Pods)"
-    ],
-    "picks_sent": [
-      "2026 Round 1 (Corgi Loaf Baking Co.)",
-      "2026 Round 1 (All Hail King Jesus)"
-    ],
-    "summary": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.7 C-AVI and 93.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
-  },
+  "latest_trade": null,
   "gap_closing_moves": [
     "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 7.20-point projected gap to All Hail King Jesus.",
-    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+    "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
     "franchise_name": "DMV Fantasy",
     "projected_rank": 10,
-    "projected_score": 587.6,
-    "latest_trade": {
-      "transaction_id": "1386578462004772864",
-      "created_at": "2026-07-25T03:02:56.026000+00:00",
-      "counterparties": [
-        "Big Balder Brand"
-      ],
-      "players_received": [
-        "Breece Hall"
-      ],
-      "players_sent": [
-        "Cam Little",
-        "Saquon Barkley"
-      ],
-      "picks_received": [],
-      "picks_sent": [],
-      "summary": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 88.2 C-AVI and 92.9 D-AVI."
-    },
-    "summary": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 88.2 C-AVI and 92.9 D-AVI."
+    "projected_score": 587.1,
+    "latest_trade": null,
+    "summary": "No trade for DMV Fantasy was found in the last 365 days of the authoritative ledger."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #9 of 16 at 618.40 lineup C-AVI. All Hail King Jesus is immediately above at 625.60, a gap of 7.20. DMV Fantasy is immediately behind at 587.60."
-    },
-    {
-      "id": "dynasty-position",
-      "title": "D-AVI Power Ranking",
-      "body": "The live Power Rankings webpage places Badland Banditos #10 of 16 on the D-AVI ladder at 127.0. This section uses the webpage's exact team score and ordering rather than recalculating dynasty rank from the weekly-summary team files."
+      "body": "Projected #9 of 16 at 618.20 lineup C-AVI. All Hail King Jesus is immediately above at 625.40, a gap of 7.20. DMV Fantasy is immediately behind at 587.10."
     },
     {
       "id": "competitive-core",
@@ -102,21 +60,21 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On June 24, Badland Banditos traded with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) while sending Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus). Kenneth Walker is now the current RB starter at 87.7 C-AVI and 93.2 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 1 draft asset."
+      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 7.20-point projected gap to All Hail King Jesus. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 7.20-point projected gap to All Hail King Jesus. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
         "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 7.20-point projected gap to All Hail King Jesus.",
-        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+        "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 24, DMV Fantasy traded with Big Balder Brand and acquired Breece Hall while sending Cam Little, Saquon Barkley. Breece Hall is now the current RB starter at 88.2 C-AVI and 92.9 D-AVI."
+      "body": "No trade for DMV Fantasy was found in the last 365 days of the authoritative ledger."
     },
     {
       "id": "lineup-pressure-point",
@@ -131,19 +89,16 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified draft assets: 2026 1.10; 2026 2.10; 2026 3.10; 2026 4.10; 2026 5.10; 2026 6.10; 2026 7.10; 2026 8.10; 2026 9.10; 2026 10.10."
+      "body": "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     }
   ],
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "knowledge/teams/07_Badland_Banditos.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
-      "knowledge/02_AVI_Historical_Trades.md",
-      "Autobots HQ live Power Rankings API"
+      "AVI-Core/knowledge/teams/07_Badland_Banditos.md"
     ],
-    "source_last_updated": "2026-07-28",
-    "external_sources_used": true,
+    "source_last_updated": "2026-07-29",
+    "external_sources_used": false,
     "conversation_context_used": false
   }
 }

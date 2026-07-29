@@ -1,96 +1,56 @@
 {
-  "schema_version": 8,
+  "schema_version": 5,
   "franchise_id": "northside-kings",
   "franchise_name": "Northside Kings",
   "roster_id": 5,
   "owner_display_name": "srsmith95",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T22:52:17.523683-06:00",
+  "reporting_period": "Week of July 29, 2026",
+  "generated_at": "2026-07-29T02:24:03.724075-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Northside Kings: Preseason Front Office Brief",
-  "executive_summary": "Northside Kings is projected #15 of 16 with a 490.50 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core. On the Power Rankings webpage's D-AVI ladder, the franchise ranks #8 of 16 with a 168.0 team D-AVI score.",
+  "executive_summary": "Northside Kings is projected #15 of 16 with a 490.30 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
     "rank": 15,
     "league_size": 16,
-    "score": 490.5,
+    "score": 490.3,
     "team_above": {
       "name": "Crimson Tide Pods",
       "rank": 14,
-      "score": 538.6,
-      "gap": 48.10000000000002
+      "score": 538.4,
+      "gap": 48.099999999999966
     },
     "team_below": {
       "name": "Lightskin Legends \u270a\ud83c\udffd",
       "rank": 16,
-      "score": 486.8,
-      "gap": 3.6999999999999886
+      "score": 486.7,
+      "gap": 3.6000000000000227
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 8,
+    "rank": 2,
     "league_size": 16,
-    "score": 168.0,
-    "method": "Exact rank and team D-AVI score from the live Autobots HQ Power Rankings webpage ladder",
-    "source_url": "https://autobots.football/api/power-rankings"
+    "score": 1028.7,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
-  "latest_trade": {
-    "transaction_id": "1383224827728367616",
-    "created_at": "2026-07-15T20:56:47.307000+00:00",
-    "counterparties": [
-      "Ravens Regime"
-    ],
-    "players_received": [
-      "RJ Harvey",
-      "Bhayshul Tuten"
-    ],
-    "players_sent": [
-      "Tyler Warren"
-    ],
-    "picks_received": [
-      "2026 Round 2 (Rapid Valley Annihilation)"
-    ],
-    "picks_sent": [],
-    "summary": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.7 C-AVI and 81.6 D-AVI; Bhayshul Tuten is now the current RB starter at 73.1 C-AVI and 84.9 D-AVI; The deal added 1 draft asset."
-  },
+  "latest_trade": null,
   "gap_closing_moves": [
     "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 99.3 C-AVI would directly attack the 48.10-point projected gap to Crimson Tide Pods.",
-    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+    "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
     "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
     "projected_rank": 16,
-    "projected_score": 486.8,
-    "latest_trade": {
-      "transaction_id": "1288899605622165504",
-      "created_at": "2025-10-28T14:02:01.879000+00:00",
-      "counterparties": [
-        "Murray had a little Lamb"
-      ],
-      "players_received": [
-        "Kayshon Boutte"
-      ],
-      "players_sent": [],
-      "picks_received": [],
-      "picks_sent": [
-        "2026 Round 3 (Conquistadors)",
-        "2027 Round 2 (Conquistadors)"
-      ],
-      "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
-    },
-    "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
+    "projected_score": 486.7,
+    "latest_trade": null,
+    "summary": "No trade for Lightskin Legends \u270a\ud83c\udffd was found in the last 365 days of the authoritative ledger."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #15 of 16 at 490.50 lineup C-AVI. Crimson Tide Pods is immediately above at 538.60, a gap of 48.10. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 486.80."
-    },
-    {
-      "id": "dynasty-position",
-      "title": "D-AVI Power Ranking",
-      "body": "The live Power Rankings webpage places Northside Kings #8 of 16 on the D-AVI ladder at 168.0. This section uses the webpage's exact team score and ordering rather than recalculating dynasty rank from the weekly-summary team files."
+      "body": "Projected #15 of 16 at 490.30 lineup C-AVI. Crimson Tide Pods is immediately above at 538.40, a gap of 48.10. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 486.70."
     },
     {
       "id": "competitive-core",
@@ -100,21 +60,21 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 15, Northside Kings traded with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) while sending Tyler Warren. RJ Harvey is now the current RB starter at 62.7 C-AVI and 81.6 D-AVI; Bhayshul Tuten is now the current RB starter at 73.1 C-AVI and 84.9 D-AVI; The deal added 1 draft asset."
+      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 99.3 C-AVI would directly attack the 48.10-point projected gap to Crimson Tide Pods. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 99.3 C-AVI would directly attack the 48.10-point projected gap to Crimson Tide Pods. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
         "Raise the QB slot above Jordan Love's 51.2 C-AVI baseline; a replacement near 99.3 C-AVI would directly attack the 48.10-point projected gap to Crimson Tide Pods.",
-        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+        "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On October 28, Lightskin Legends \u270a\ud83c\udffd traded with Murray had a little Lamb and acquired Kayshon Boutte while sending 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors). The deal sent out 2 draft assets, reducing future flexibility."
+      "body": "No trade for Lightskin Legends \u270a\ud83c\udffd was found in the last 365 days of the authoritative ledger."
     },
     {
       "id": "lineup-pressure-point",
@@ -129,19 +89,16 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified draft assets: 2026 1.02; 2026 1.09; 2026 2.02; 2026 2.03; 2026 3.02; 2026 3.04; 2026 3.10; 2026 4.02; 2026 5.02; 2026 6.02; 2026 7.02; 2026 7.09; 2026 8.02; 2026 9.02; 2026 10.02."
+      "body": "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     }
   ],
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "knowledge/teams/05_Northside_Kings.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
-      "knowledge/02_AVI_Historical_Trades.md",
-      "Autobots HQ live Power Rankings API"
+      "AVI-Core/knowledge/teams/05_Northside_Kings.md"
     ],
-    "source_last_updated": "2026-07-28",
-    "external_sources_used": true,
+    "source_last_updated": "2026-07-29",
+    "external_sources_used": false,
     "conversation_context_used": false
   }
 }

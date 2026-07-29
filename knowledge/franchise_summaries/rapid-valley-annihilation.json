@@ -1,98 +1,56 @@
 {
-  "schema_version": 8,
+  "schema_version": 5,
   "franchise_id": "rapid-valley-annihilation",
   "franchise_name": "Rapid Valley Annihilation",
   "roster_id": 2,
   "owner_display_name": "FuzzyRaptor",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 28, 2026",
-  "generated_at": "2026-07-28T22:52:17.523683-06:00",
+  "reporting_period": "Week of July 29, 2026",
+  "generated_at": "2026-07-29T02:24:03.724075-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Rapid Valley Annihilation: Preseason Front Office Brief",
-  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 545.40 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core. On the Power Rankings webpage's D-AVI ladder, the franchise ranks #2 of 16 with a 310.0 team D-AVI score.",
+  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 545.20 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 545.4,
+    "score": 545.2,
     "team_above": {
       "name": "Phalhala or Bust",
       "rank": 12,
-      "score": 553.6,
-      "gap": 8.200000000000045
+      "score": 553.1,
+      "gap": 7.899999999999977
     },
     "team_below": {
       "name": "Crimson Tide Pods",
       "rank": 14,
-      "score": 538.6,
-      "gap": 6.7999999999999545
+      "score": 538.4,
+      "gap": 6.800000000000068
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 2,
+    "rank": 9,
     "league_size": 16,
-    "score": 310.0,
-    "method": "Exact rank and team D-AVI score from the live Autobots HQ Power Rankings webpage ladder",
-    "source_url": "https://autobots.football/api/power-rankings"
+    "score": 853.8,
+    "method": "Sum of every verified rostered player's D-AVI value from all 16 AVI-Core team files"
   },
-  "latest_trade": {
-    "transaction_id": "1380817964328034304",
-    "created_at": "2026-07-09T05:32:46.354000+00:00",
-    "counterparties": [
-      "Corgi Loaf Baking Co."
-    ],
-    "players_received": [],
-    "players_sent": [],
-    "picks_received": [
-      "2027 Round 1 (Corgi Loaf Baking Co.)",
-      "2028 Round 1 (Corgi Loaf Baking Co.)"
-    ],
-    "picks_sent": [
-      "2026 Round 1 (Rapid Valley Annihilation)"
-    ],
-    "summary": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (Corgi Loaf Baking Co.), 2028 Round 1 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Rapid Valley Annihilation). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
-  },
+  "latest_trade": null,
   "gap_closing_moves": [
-    "Raise the FLEX slot above Blake Corum's 54.7 C-AVI baseline; a replacement near 62.9 C-AVI would directly attack the 8.20-point projected gap to Phalhala or Bust.",
-    "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+    "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.5 C-AVI would directly attack the 7.90-point projected gap to Phalhala or Bust.",
+    "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
   ],
   "rival_below": {
     "franchise_name": "Crimson Tide Pods",
     "projected_rank": 14,
-    "projected_score": 538.6,
-    "latest_trade": {
-      "transaction_id": "1386482894020542464",
-      "created_at": "2026-07-24T20:43:10.843000+00:00",
-      "counterparties": [
-        "Corgi Loaf Baking Co."
-      ],
-      "players_received": [
-        "Gunnar Helm",
-        "Jakobi Meyers"
-      ],
-      "players_sent": [],
-      "picks_received": [
-        "2027 Round 3 (Corgi Loaf Baking Co.)",
-        "2028 Round 2 (Corgi Loaf Baking Co.)"
-      ],
-      "picks_sent": [
-        "2026 Round 1 (Crimson Tide Pods)",
-        "2026 Round 1 (All Hail King Jesus)"
-      ],
-      "summary": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 50.5 C-AVI and 70.7 D-AVI; Jakobi Meyers is now the current FLEX starter at 65.3 C-AVI and 79.1 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
-    },
-    "summary": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 50.5 C-AVI and 70.7 D-AVI; Jakobi Meyers is now the current FLEX starter at 65.3 C-AVI and 79.1 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
+    "projected_score": 538.4,
+    "latest_trade": null,
+    "summary": "No trade for Crimson Tide Pods was found in the last 365 days of the authoritative ledger."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #13 of 16 at 545.40 lineup C-AVI. Phalhala or Bust is immediately above at 553.60, a gap of 8.20. Crimson Tide Pods is immediately behind at 538.60."
-    },
-    {
-      "id": "dynasty-position",
-      "title": "D-AVI Power Ranking",
-      "body": "The live Power Rankings webpage places Rapid Valley Annihilation #2 of 16 on the D-AVI ladder at 310.0. This section uses the webpage's exact team score and ordering rather than recalculating dynasty rank from the weekly-summary team files."
+      "body": "Projected #13 of 16 at 545.20 lineup C-AVI. Phalhala or Bust is immediately above at 553.10, a gap of 7.90. Crimson Tide Pods is immediately behind at 538.40."
     },
     {
       "id": "competitive-core",
@@ -102,26 +60,26 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 8, Rapid Valley Annihilation traded with Corgi Loaf Baking Co. and acquired 2027 Round 1 (Corgi Loaf Baking Co.), 2028 Round 1 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Rapid Valley Annihilation). The deal sent out 1 draft asset, reducing future flexibility; The deal added 2 draft assets."
+      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Blake Corum's 54.7 C-AVI baseline; a replacement near 62.9 C-AVI would directly attack the 8.20-point projected gap to Phalhala or Bust. Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth.",
+      "body": "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.5 C-AVI would directly attack the 7.90-point projected gap to Phalhala or Bust. Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage.",
       "items": [
-        "Raise the FLEX slot above Blake Corum's 54.7 C-AVI baseline; a replacement near 62.9 C-AVI would directly attack the 8.20-point projected gap to Phalhala or Bust.",
-        "Use draft capital as a targeted sweetener for a verified starting-lineup upgrade, not for additional bench depth."
+        "Raise the FLEX slot above AJ Barner's 54.6 C-AVI baseline; a replacement near 62.5 C-AVI would directly attack the 7.90-point projected gap to Phalhala or Bust.",
+        "Because no owned pick card is verified, prioritize player-for-player consolidation and avoid assuming unavailable draft leverage."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 24, Crimson Tide Pods traded with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) while sending 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus). Gunnar Helm is now on the current roster at 50.5 C-AVI and 70.7 D-AVI; Jakobi Meyers is now the current FLEX starter at 65.3 C-AVI and 79.1 D-AVI; The deal sent out 2 draft assets, reducing future flexibility; The deal added 2 draft assets."
+      "body": "No trade for Crimson Tide Pods was found in the last 365 days of the authoritative ledger."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Blake Corum is the lowest C-AVI starter in the verified championship lineup at 54.7. Any acquisition should clear that exact lineup threshold."
+      "body": "AJ Barner is the lowest C-AVI starter in the verified championship lineup at 54.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -131,19 +89,16 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified draft assets: 2026 1.03; 2026 1.10; 2026 2.03; 2026 2.10; 2026 3.03; 2026 4.03; 2026 5.03; 2026 6.03; 2026 7.03; 2026 8.03; 2026 9.03; 2026 10.03."
+      "body": "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     }
   ],
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "knowledge/teams/02_Rapid_Valley_Annihilation.md",
-      "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
-      "knowledge/02_AVI_Historical_Trades.md",
-      "Autobots HQ live Power Rankings API"
+      "AVI-Core/knowledge/teams/02_Rapid_Valley_Annihilation.md"
     ],
-    "source_last_updated": "2026-07-28",
-    "external_sources_used": true,
+    "source_last_updated": "2026-07-29",
+    "external_sources_used": false,
     "conversation_context_used": false
   }
 }
