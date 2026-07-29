@@ -14,17 +14,23 @@ VERIFIED_TEAMS_DIR = ROOT / "knowledge" / "teams"
 VERIFIED_OUTPUT_DIR = ROOT / "knowledge" / "franchise_summaries"
 
 EXPECTED_FRANCHISE_COUNT = 16
+CURRENT_SEASON = 2026
 
 # These entries are a reversed or administrative transaction chain and must
 # never appear in franchise executive summaries or rival-watch sections.
 BLACKLISTED_TRANSACTION_IDS = {
-    "1384427332722233344",  # related pick-only reversal
-    "1384401342625226752",  # Mayfield/Brissett plus related picks
-    "1384338064138043392",  # Mayfield/Brissett reversal
+    "1384427332722233344",
+    "1384401342625226752",
+    "1384338064138043392",
 }
 
 ORIGINAL_ROSTER_RE = re.compile(
     r"\(original roster\s+(\d+)\)",
+    re.IGNORECASE,
+)
+
+DRAFT_ASSET_RE = re.compile(
+    r"\b(20\d{2})\b.*?\bD-AVI\s+([0-9]+(?:\.[0-9]+)?)",
     re.IGNORECASE,
 )
 
@@ -40,6 +46,13 @@ COMPLETED_STATUSES = {
     "success",
 }
 
+NO_PICK_RECOMMENDATION_RE = re.compile(
+    r"no owned pick card|no verified.*pick|"
+    r"no franchise-owned pick card|"
+    r"avoid assuming unavailable draft leverage",
+    re.IGNORECASE,
+)
+
 
 def require_directory(path: Path, description: str) -> None:
     if not path.is_dir():
@@ -53,7 +66,6 @@ def configure_generator_paths() -> None:
         VERIFIED_TEAMS_DIR,
         "Verified team profile directory",
     )
-
     generator.TEAMS = VERIFIED_TEAMS_DIR
     generator.OUTPUT = VERIFIED_OUTPUT_DIR
 
@@ -62,7 +74,9 @@ configure_generator_paths()
 
 _original_latest_trade = generator.latest_trade
 _original_split_assets = generator.split_assets
-_original_rival_snapshot = generator.rival_snapshot
+_original_parse_team = generator.parse_team
+_original_gap_actions = generator.gap_actions
+_original_build_summary = generator.build_summary
 
 
 def roster_name_map() -> dict[int, str]:
@@ -76,11 +90,9 @@ def roster_name_map() -> dict[int, str]:
 
     for path in team_files:
         lines = path.read_text(encoding="utf-8").splitlines()
-
         identity = generator.fields(
             generator.section(lines, "## Team Identity")
         )
-
         roster_id_value = identity.get("Roster ID")
         team_name = identity.get("Team name")
 
@@ -113,27 +125,31 @@ def roster_name_map() -> dict[int, str]:
 
 
 ROSTER_NAMES = roster_name_map()
+ROSTER_IDS_BY_NAME = {
+    team_name.casefold(): roster_id
+    for roster_id, team_name in ROSTER_NAMES.items()
+}
 
 
 def replace_original_roster(value: str) -> str:
     def replacement(match: re.Match[str]) -> str:
         roster_id = int(match.group(1))
         team_name = ROSTER_NAMES.get(roster_id)
-
         if not team_name:
             raise RuntimeError(
                 f"No verified franchise name found for original roster "
                 f"{roster_id}"
             )
-
         return f"({team_name})"
 
     return ORIGINAL_ROSTER_RE.sub(replacement, value)
 
 
 def split_assets_with_team_names(value: str | None) -> list[str]:
-    assets = _original_split_assets(value)
-    return [replace_original_roster(item) for item in assets]
+    return [
+        replace_original_roster(item)
+        for item in _original_split_assets(value)
+    ]
 
 
 def latest_non_blacklisted_trade(
@@ -147,16 +163,46 @@ def latest_non_blacklisted_trade(
         if str(trade.get("transaction_id"))
         not in BLACKLISTED_TRANSACTION_IDS
     ]
+    return _original_latest_trade(team, filtered_ledger, now)
 
-    return _original_latest_trade(
-        team,
-        filtered_ledger,
-        now,
+
+def parse_future_pick_d_avi(draft_assets: list[str]) -> float:
+    total = 0.0
+    for asset in draft_assets:
+        match = DRAFT_ASSET_RE.search(asset)
+        if not match:
+            continue
+        season = int(match.group(1))
+        if season <= CURRENT_SEASON:
+            continue
+        total += float(match.group(2))
+    return round(total, 2)
+
+
+def parse_team_with_canonical_dynasty(path: Path) -> dict[str, Any]:
+    team = _original_parse_team(path)
+    player_d_avi = round(float(team.get("dynasty_score") or 0.0), 2)
+    future_pick_d_avi = parse_future_pick_d_avi(
+        list(team.get("draft_assets") or [])
     )
+    team["player_d_avi"] = player_d_avi
+    team["future_pick_d_avi"] = future_pick_d_avi
+    team["dynasty_score"] = round(player_d_avi + future_pick_d_avi, 2)
+    return team
+
+
+def gap_actions_without_unverified_pick_language(
+    team: dict[str, Any],
+    above: dict[str, Any] | None,
+) -> list[str]:
+    return [
+        action
+        for action in _original_gap_actions(team, above)
+        if not NO_PICK_RECOMMENDATION_RE.search(action)
+    ]
 
 
 def iter_json_records(value: Any) -> Iterable[dict[str, Any]]:
-    """Yield nested dictionaries that look like Sleeper transactions."""
     if isinstance(value, list):
         for item in value:
             yield from iter_json_records(item)
@@ -182,10 +228,8 @@ def iter_json_records(value: Any) -> Iterable[dict[str, Any]]:
 
 
 def candidate_transaction_files() -> list[Path]:
-    roots = [ROOT / "data", ROOT / "knowledge"]
     files: list[Path] = []
-
-    for search_root in roots:
+    for search_root in (ROOT / "data", ROOT / "knowledge"):
         if not search_root.is_dir():
             continue
         for path in search_root.rglob("*.json"):
@@ -193,45 +237,7 @@ def candidate_transaction_files() -> list[Path]:
                 continue
             if TRANSACTION_FILE_RE.search(path.name):
                 files.append(path)
-
     return sorted(set(files))
-
-
-def load_verified_transactions() -> list[dict[str, Any]]:
-    """
-    Load completed Sleeper activity from checked-in transaction JSON files.
-
-    This intentionally does not call the network. The weekly brief remains
-    reproducible and uses only files committed to AVI-Core.
-    """
-    by_id: dict[str, dict[str, Any]] = {}
-
-    for path in candidate_transaction_files():
-        try:
-            payload = json.loads(path.read_text(encoding="utf-8"))
-        except (OSError, UnicodeDecodeError, json.JSONDecodeError):
-            continue
-
-        for record in iter_json_records(payload):
-            transaction_id = str(
-                record.get("transaction_id") or record.get("id") or ""
-            )
-            if not transaction_id or transaction_id in BLACKLISTED_TRANSACTION_IDS:
-                continue
-
-            status = str(record.get("status") or "complete").casefold()
-            if status and status not in COMPLETED_STATUSES:
-                continue
-
-            normalized = dict(record)
-            normalized["_source_file"] = str(path.relative_to(ROOT))
-            by_id[transaction_id] = normalized
-
-    return sorted(
-        by_id.values(),
-        key=transaction_created_ms,
-        reverse=True,
-    )
 
 
 def transaction_created_ms(record: dict[str, Any]) -> int:
@@ -247,11 +253,54 @@ def transaction_created_ms(record: dict[str, Any]) -> int:
             value = int(stripped)
             return value * 1000 if value < 10_000_000_000 else value
         try:
-            return int(datetime.fromisoformat(stripped.replace("Z", "+00:00")).timestamp() * 1000)
+            parsed = datetime.fromisoformat(
+                stripped.replace("Z", "+00:00")
+            )
+            return int(parsed.timestamp() * 1000)
         except ValueError:
             return 0
 
     return 0
+
+
+def load_verified_transactions() -> list[dict[str, Any]]:
+    by_id: dict[str, dict[str, Any]] = {}
+
+    for path in candidate_transaction_files():
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, UnicodeDecodeError, json.JSONDecodeError):
+            continue
+
+        for record in iter_json_records(payload):
+            transaction_id = str(
+                record.get("transaction_id") or record.get("id") or ""
+            )
+            if (
+                not transaction_id
+                or transaction_id in BLACKLISTED_TRANSACTION_IDS
+            ):
+                continue
+
+            status = str(record.get("status") or "complete").casefold()
+            if status and status not in COMPLETED_STATUSES:
+                continue
+
+            normalized = dict(record)
+            normalized["_source_file"] = str(path.relative_to(ROOT))
+            existing = by_id.get(transaction_id)
+            if (
+                existing is None
+                or transaction_created_ms(normalized)
+                >= transaction_created_ms(existing)
+            ):
+                by_id[transaction_id] = normalized
+
+    return sorted(
+        by_id.values(),
+        key=transaction_created_ms,
+        reverse=True,
+    )
 
 
 def transaction_roster_ids(record: dict[str, Any]) -> set[int]:
@@ -283,7 +332,6 @@ def transaction_roster_ids(record: dict[str, Any]) -> set[int]:
 
 
 def player_name_map() -> dict[str, str]:
-    """Resolve Sleeper player IDs without requiring a specific export path."""
     names: dict[str, str] = {}
     likely_files: list[Path] = []
 
@@ -302,7 +350,10 @@ def player_name_map() -> dict[str, str]:
             continue
 
         containers: list[Any]
-        if isinstance(payload, dict) and isinstance(payload.get("players"), (dict, list)):
+        if (
+            isinstance(payload, dict)
+            and isinstance(payload.get("players"), (dict, list))
+        ):
             containers = [payload["players"]]
         else:
             containers = [payload]
@@ -318,9 +369,17 @@ def player_name_map() -> dict[str, str]:
             for fallback_id, item in items:
                 if not isinstance(item, dict):
                     continue
-                player_id = item.get("player_id") or item.get("id") or fallback_id
+                player_id = (
+                    item.get("player_id")
+                    or item.get("id")
+                    or fallback_id
+                )
                 name = item.get("full_name") or item.get("name")
-                if player_id is not None and isinstance(name, str) and name.strip():
+                if (
+                    player_id is not None
+                    and isinstance(name, str)
+                    and name.strip()
+                ):
                     names[str(player_id)] = name.strip()
 
     return names
@@ -341,50 +400,125 @@ def asset_names(mapping: Any, roster_id: int) -> list[str]:
         except (TypeError, ValueError):
             matches = False
         if matches:
-            names.append(PLAYER_NAMES.get(str(player_id), f"player {player_id}"))
+            names.append(
+                PLAYER_NAMES.get(str(player_id), f"player {player_id}")
+            )
     return names
+
+
+def pick_label(pick: dict[str, Any]) -> str:
+    season = pick.get("season") or pick.get("year") or "Future"
+    round_value = pick.get("round") or "?"
+    original_roster = pick.get("roster_id")
+    original_name = None
+    try:
+        original_name = ROSTER_NAMES.get(int(original_roster))
+    except (TypeError, ValueError):
+        pass
+
+    label = f"{season} Round {round_value}"
+    if original_name:
+        label += f" ({original_name})"
+    return label
+
+
+def transaction_pick_moves(
+    record: dict[str, Any],
+    roster_id: int,
+) -> tuple[list[str], list[str]]:
+    received: list[str] = []
+    sent: list[str] = []
+
+    for pick in record.get("draft_picks") or []:
+        if not isinstance(pick, dict):
+            continue
+        try:
+            owner_id = int(pick.get("owner_id"))
+        except (TypeError, ValueError):
+            owner_id = -1
+        try:
+            previous_owner_id = int(pick.get("previous_owner_id"))
+        except (TypeError, ValueError):
+            previous_owner_id = -1
+
+        label = pick_label(pick)
+        if owner_id == roster_id and previous_owner_id != roster_id:
+            received.append(label)
+        if previous_owner_id == roster_id and owner_id != roster_id:
+            sent.append(label)
+
+    return received, sent
 
 
 def format_activity_date(created_ms: int) -> str:
     if created_ms <= 0:
         return "Date unavailable"
-    created = datetime.fromtimestamp(created_ms / 1000, tz=generator.UTC)
+    created = datetime.fromtimestamp(
+        created_ms / 1000,
+        tz=generator.UTC,
+    )
     return created.astimezone(generator.MOUNTAIN).strftime("%B %-d")
 
 
-def summarize_transaction(record: dict[str, Any], team: dict[str, Any]) -> str:
+def summarize_transaction(
+    record: dict[str, Any],
+    team: dict[str, Any],
+) -> str:
     roster_id = int(team["roster_id"])
-    transaction_type = str(record.get("type") or "transaction").casefold()
+    transaction_type = str(
+        record.get("type") or "transaction"
+    ).casefold()
     date_label = format_activity_date(transaction_created_ms(record))
     added = asset_names(record.get("adds"), roster_id)
     dropped = asset_names(record.get("drops"), roster_id)
+    picks_received, picks_sent = transaction_pick_moves(record, roster_id)
 
     if transaction_type == "trade":
         other_ids = sorted(transaction_roster_ids(record) - {roster_id})
-        counterparties = [ROSTER_NAMES.get(value, f"roster {value}") for value in other_ids]
+        counterparties = [
+            ROSTER_NAMES.get(value, f"roster {value}")
+            for value in other_ids
+        ]
         opening = f"On {date_label}, {team['team_name']} completed a trade"
         if counterparties:
             opening += f" with {', '.join(counterparties)}"
+
+        received = [*added, *picks_received]
+        sent = [*dropped, *picks_sent]
         details: list[str] = []
-        if added:
-            details.append(f"acquired {', '.join(added)}")
-        if dropped:
-            details.append(f"sent {', '.join(dropped)}")
-        return opening + (f" and {' while '.join(details)}." if details else ".")
+        if received:
+            details.append(f"acquired {', '.join(received)}")
+        if sent:
+            details.append(f"sent {', '.join(sent)}")
+        return opening + (
+            f" and {' while '.join(details)}."
+            if details
+            else "."
+        )
 
     if transaction_type == "waiver":
-        opening = f"On {date_label}, {team['team_name']} completed a waiver claim"
+        opening = (
+            f"On {date_label}, {team['team_name']} completed a waiver claim"
+        )
     elif transaction_type in {"free_agent", "free agent"}:
-        opening = f"On {date_label}, {team['team_name']} completed a free-agent move"
+        opening = (
+            f"On {date_label}, {team['team_name']} completed a free-agent move"
+        )
     else:
-        opening = f"On {date_label}, {team['team_name']} completed a roster transaction"
+        opening = (
+            f"On {date_label}, {team['team_name']} completed a roster transaction"
+        )
 
     details = []
     if added:
         details.append(f"added {', '.join(added)}")
     if dropped:
         details.append(f"dropped {', '.join(dropped)}")
-    return opening + (f" and {' while '.join(details)}." if details else ".")
+    return opening + (
+        f" and {' while '.join(details)}."
+        if details
+        else "."
+    )
 
 
 def latest_verified_activity(
@@ -392,7 +526,10 @@ def latest_verified_activity(
     ledger: list[dict[str, Any]],
     now: datetime,
 ) -> dict[str, Any] | None:
-    cutoff_ms = int((now - timedelta(days=365)).timestamp() * 1000)
+    cutoff_ms = int(
+        (now.astimezone(generator.UTC) - timedelta(days=365)).timestamp()
+        * 1000
+    )
     roster_id = int(team["roster_id"])
 
     sleeper_record = next(
@@ -410,12 +547,19 @@ def latest_verified_activity(
     if trade and trade.get("created_at"):
         try:
             trade_ms = int(
-                datetime.fromisoformat(str(trade["created_at"])).timestamp() * 1000
+                datetime.fromisoformat(
+                    str(trade["created_at"]).replace("Z", "+00:00")
+                ).timestamp()
+                * 1000
             )
         except ValueError:
             trade_ms = 0
 
-    sleeper_ms = transaction_created_ms(sleeper_record) if sleeper_record else 0
+    sleeper_ms = (
+        transaction_created_ms(sleeper_record)
+        if sleeper_record
+        else 0
+    )
 
     if sleeper_record and sleeper_ms >= trade_ms:
         return {
@@ -427,7 +571,9 @@ def latest_verified_activity(
                 sleeper_ms / 1000,
                 tz=generator.UTC,
             ).isoformat(),
-            "type": str(sleeper_record.get("type") or "transaction"),
+            "type": str(
+                sleeper_record.get("type") or "transaction"
+            ),
             "summary": summarize_transaction(sleeper_record, team),
             "source_file": sleeper_record.get("_source_file"),
         }
@@ -451,16 +597,88 @@ def rival_snapshot_with_latest_activity(
         "franchise_name": team["team_name"],
         "projected_rank": team["projected_rank"],
         "projected_score": team["projected_score"],
-        # Retain latest_trade for compatibility with the existing generator and
-        # website while also exposing the more accurate latest_activity field.
-        "latest_trade": activity if activity and activity.get("type") == "trade" else None,
+        "latest_trade": (
+            activity
+            if activity and activity.get("type") == "trade"
+            else None
+        ),
         "latest_activity": activity,
         "summary": (
             activity["summary"]
             if activity
-            else f"No completed transaction for {team['team_name']} was found in the last 365 days of the authoritative AVI-Core activity files."
+            else (
+                f"No completed transaction for {team['team_name']} was "
+                "found in the last 365 days of the authoritative "
+                "AVI-Core activity files."
+            )
         ),
     }
+
+
+def build_summary_with_canonical_fields(
+    team: dict[str, Any],
+    above: dict[str, Any] | None,
+    below: dict[str, Any] | None,
+    ledger: list[dict[str, Any]],
+    now: datetime,
+) -> dict[str, Any]:
+    summary = _original_build_summary(
+        team,
+        above,
+        below,
+        ledger,
+        now,
+    )
+
+    summary["schema_version"] = 6
+    summary["dynasty_power"] = {
+        "rank": team["dynasty_rank"],
+        "league_size": EXPECTED_FRANCHISE_COUNT,
+        "score": team["dynasty_score"],
+        "player_d_avi": team.get("player_d_avi", 0.0),
+        "future_pick_d_avi": team.get("future_pick_d_avi", 0.0),
+        "method": (
+            "Canonical Power Rankings D-AVI ladder: full verified roster "
+            "D-AVI plus every verified owned 2027+ draft pick D-AVI"
+        ),
+    }
+
+    useful_moves = [
+        move
+        for move in summary.get("gap_closing_moves", [])
+        if not NO_PICK_RECOMMENDATION_RE.search(move)
+    ]
+    summary["gap_closing_moves"] = useful_moves
+
+    rival = summary.get("rival_below")
+    team_below = summary.get("projected_power", {}).get("team_below")
+    if rival is not None and team_below is not None:
+        rival["franchise_name"] = team_below["name"]
+        rival["projected_rank"] = team_below["rank"]
+        rival["projected_score"] = team_below["score"]
+
+    for section in summary.get("sections", []):
+        if section.get("id") == "close-the-gap":
+            section["items"] = useful_moves
+            section["body"] = " ".join(useful_moves)
+        elif section.get("id") == "rival-watch":
+            section["body"] = (
+                rival.get("summary")
+                if rival
+                else (
+                    "This franchise is currently projected last, so there "
+                    "is no team immediately beneath it."
+                )
+            )
+        elif section.get("id") == "draft-assets" and not team.get(
+            "draft_assets"
+        ):
+            section["body"] = (
+                "No verified future draft assets are currently included "
+                "in this summary."
+            )
+
+    return summary
 
 
 def validate_outputs() -> None:
@@ -488,9 +706,8 @@ def validate_outputs() -> None:
             f"Manifest file was not generated: {manifest_path}"
         )
 
-    for path in [*franchise_files, manifest_path]:
+    for path in franchise_files:
         text = path.read_text(encoding="utf-8")
-
         if "original roster" in text.casefold():
             raise RuntimeError(
                 f"Untranslated original-roster reference remains in {path}"
@@ -503,40 +720,62 @@ def validate_outputs() -> None:
                 f"Generated file is not valid JSON: {path}"
             ) from exc
 
-        if path.name != "manifest.json":
-            rival = payload.get("rival_below")
+        projected = payload.get("projected_power") or {}
+        team_below = projected.get("team_below")
+        rival = payload.get("rival_below")
+
+        if team_below is None:
             if rival is not None:
-                if not rival.get("franchise_name"):
-                    raise RuntimeError(
-                        f"Rival Watch is missing a franchise name in {path}"
-                    )
-                if "latest_activity" not in rival:
-                    raise RuntimeError(
-                        f"Rival Watch is missing latest_activity in {path}"
-                    )
+                raise RuntimeError(
+                    f"Last-place franchise unexpectedly has Rival Watch in {path}"
+                )
+        else:
+            if not rival:
+                raise RuntimeError(
+                    f"Rival Watch is missing in {path}"
+                )
+            if rival.get("franchise_name") != team_below.get("name"):
+                raise RuntimeError(
+                    f"Rival Watch team does not match team_below in {path}"
+                )
+            if rival.get("projected_rank") != team_below.get("rank"):
+                raise RuntimeError(
+                    f"Rival Watch rank does not match team_below in {path}"
+                )
+            if "latest_activity" not in rival:
+                raise RuntimeError(
+                    f"Rival Watch is missing latest_activity in {path}"
+                )
+
+        dynasty = payload.get("dynasty_power") or {}
+        expected_total = round(
+            float(dynasty.get("player_d_avi") or 0.0)
+            + float(dynasty.get("future_pick_d_avi") or 0.0),
+            2,
+        )
+        if round(float(dynasty.get("score") or 0.0), 2) != expected_total:
+            raise RuntimeError(
+                f"Dynasty score does not reconcile in {path}"
+            )
+
+        for move in payload.get("gap_closing_moves") or []:
+            if NO_PICK_RECOMMENDATION_RE.search(move):
+                raise RuntimeError(
+                    f"Removed no-pick recommendation remains in {path}"
+                )
 
     manifest = json.loads(
         manifest_path.read_text(encoding="utf-8")
     )
-
-    franchise_count = manifest.get("franchise_count")
-    manifest_files = manifest.get("files")
-
-    if franchise_count != EXPECTED_FRANCHISE_COUNT:
+    if manifest.get("franchise_count") != EXPECTED_FRANCHISE_COUNT:
         raise RuntimeError(
-            f"Manifest franchise_count is {franchise_count!r}; "
-            f"expected {EXPECTED_FRANCHISE_COUNT}"
+            f"Manifest franchise_count is "
+            f"{manifest.get('franchise_count')!r}; expected "
+            f"{EXPECTED_FRANCHISE_COUNT}"
         )
-
-    if not isinstance(manifest_files, list):
+    if len(manifest.get("files") or []) != EXPECTED_FRANCHISE_COUNT:
         raise RuntimeError(
-            "Manifest field 'files' is missing or is not a list"
-        )
-
-    if len(manifest_files) != EXPECTED_FRANCHISE_COUNT:
-        raise RuntimeError(
-            f"Manifest declares {len(manifest_files)} files; "
-            f"expected {EXPECTED_FRANCHISE_COUNT}"
+            "Manifest does not declare all 16 franchise summaries"
         )
 
     print(
@@ -547,14 +786,20 @@ def validate_outputs() -> None:
 
 generator.split_assets = split_assets_with_team_names
 generator.latest_trade = latest_non_blacklisted_trade
+generator.parse_team = parse_team_with_canonical_dynasty
+generator.gap_actions = gap_actions_without_unverified_pick_language
 generator.rival_snapshot = rival_snapshot_with_latest_activity
+generator.build_summary = build_summary_with_canonical_fields
 
 
 def main() -> None:
     print(f"Using team profiles from: {VERIFIED_TEAMS_DIR}")
     print(f"Writing franchise summaries to: {VERIFIED_OUTPUT_DIR}")
     print(f"Verified roster mappings: {len(ROSTER_NAMES)}")
-    print(f"Verified completed transactions loaded: {len(VERIFIED_TRANSACTIONS)}")
+    print(
+        f"Verified completed transactions loaded: "
+        f"{len(VERIFIED_TRANSACTIONS)}"
+    )
 
     generator.main()
     validate_outputs()
