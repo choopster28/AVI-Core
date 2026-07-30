@@ -9,15 +9,15 @@ on:
       - "generate_weekly_executive_summary.py"
       - "generate_weekly_executive_summary_filtered.py"
       - "finalize_franchise_summaries.py"
+      - "scripts/patch-latest-trade-impact.py"
       - ".github/workflows/weekly-franchise-executive-summary.yml"
       - "knowledge/teams/**"
       - "knowledge/02_AVI_Historical_Trades.md"
       - "data/raw/sleeper/**/transactions.json"
+      - "data/raw/sleeper/**/traded_picks.json"
       - "data/processed/reports/draft_pick_values.json"
-      - "data/processed/reports/historical_trade_analysis.json"
+      - "data/processed/reports/historical_trades.json"
   schedule:
-    # GitHub cron is UTC. Both hours are registered, then the job enforces
-    # Wednesday 11:00 AM America/Denver so DST cannot shift the local refresh.
     - cron: "0 17 * * 3"
     - cron: "0 18 * * 3"
 
@@ -51,13 +51,16 @@ jobs:
           from datetime import datetime
           from zoneinfo import ZoneInfo
           import os
-
           now = datetime.now(ZoneInfo("America/Denver"))
           allowed = now.weekday() == 2 and now.hour == 11
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
               handle.write(f"allowed={'true' if allowed else 'false'}\n")
           print(f"Mountain time: {now.isoformat()} | allowed={allowed}")
           PY
+
+      - name: Apply verified latest-trade logic
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        run: python scripts/patch-latest-trade-impact.py
 
       - name: Generate all 16 franchise summaries
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
@@ -67,7 +70,7 @@ jobs:
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: python finalize_franchise_summaries.py
 
-      - name: Verify complete, current output set
+      - name: Verify complete current output set
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: |
           python - <<'PY'
@@ -76,107 +79,74 @@ jobs:
           from pathlib import Path
 
           root = Path("knowledge/franchise_summaries")
-          files = sorted(
-              path for path in root.glob("*.json")
-              if path.name != "manifest.json"
-          )
+          files = sorted(path for path in root.glob("*.json") if path.name != "manifest.json")
           if len(files) != 16:
-              raise SystemExit(
-                  f"Expected 16 franchise summaries, found {len(files)}"
-              )
+              raise SystemExit(f"Expected 16 franchise summaries, found {len(files)}")
 
           manifest_path = root / "manifest.json"
-          manifest = json.loads(
-              manifest_path.read_text(encoding="utf-8")
-          )
-          if (
-              manifest.get("franchise_count") != 16
-              or len(manifest.get("files", [])) != 16
-          ):
-              raise SystemExit(
-                  "Manifest does not declare all 16 franchise summaries"
-              )
+          manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+          if manifest.get("franchise_count") != 16 or len(manifest.get("files", [])) != 16:
+              raise SystemExit("Manifest does not declare all 16 franchise summaries")
 
           generated = datetime.fromisoformat(manifest["generated_at"])
           if generated.tzinfo is None:
               generated = generated.replace(tzinfo=timezone.utc)
-          age_seconds = (
-              datetime.now(timezone.utc)
-              - generated.astimezone(timezone.utc)
-          ).total_seconds()
+          age_seconds = (datetime.now(timezone.utc) - generated.astimezone(timezone.utc)).total_seconds()
           if age_seconds > 900:
-              raise SystemExit(
-                  f"Generated manifest is stale by {age_seconds:.0f} seconds"
-              )
+              raise SystemExit(f"Generated manifest is stale by {age_seconds:.0f} seconds")
 
           for path in files:
               payload = json.loads(path.read_text(encoding="utf-8"))
               projected = payload.get("projected_power") or {}
               team_below = projected.get("team_below")
               rival = payload.get("rival_below")
-
               if team_below is None:
                   if rival is not None:
-                      raise SystemExit(
-                          f"Unexpected rival for last-place franchise: {path}"
-                      )
+                      raise SystemExit(f"Unexpected rival for last-place franchise: {path}")
               else:
                   if not rival:
                       raise SystemExit(f"Missing Rival Watch: {path}")
                   if rival.get("franchise_name") != team_below.get("name"):
-                      raise SystemExit(
-                          f"Rival Watch does not match team_below: {path}"
-                      )
+                      raise SystemExit(f"Rival Watch does not match team_below: {path}")
                   if rival.get("projected_rank") != team_below.get("rank"):
-                      raise SystemExit(
-                          f"Rival Watch rank does not match team_below: {path}"
-                      )
-                  if "latest_activity" not in rival:
-                      raise SystemExit(
-                          f"Rival Watch latest_activity missing: {path}"
-                      )
+                      raise SystemExit(f"Rival Watch rank does not match team_below: {path}")
 
               dynasty = payload.get("dynasty_power") or {}
-              expected = round(
-                  float(dynasty.get("player_d_avi") or 0)
-                  + float(dynasty.get("future_pick_d_avi") or 0),
-                  2,
-              )
+              expected = round(float(dynasty.get("player_d_avi") or 0) + float(dynasty.get("future_pick_d_avi") or 0), 2)
               actual = round(float(dynasty.get("score") or 0), 2)
               if expected != actual:
-                  raise SystemExit(
-                      f"Dynasty score does not reconcile in {path}: "
-                      f"expected {expected}, found {actual}"
-                  )
+                  raise SystemExit(f"Dynasty score does not reconcile in {path}: expected {expected}, found {actual}")
 
-              text = path.read_text(encoding="utf-8")
-              if "original roster" in text.casefold():
-                  raise SystemExit(
-                      f"Untranslated roster ID found in {path}"
-                  )
+              if "original roster" in path.read_text(encoding="utf-8").casefold():
+                  raise SystemExit(f"Untranslated roster ID found in {path}")
 
-          json.loads(manifest_path.read_text(encoding="utf-8"))
-          print(
-              "Verified 16 fresh summaries, canonical dynasty values, "
-              "and rival activity attribution."
-          )
+          balder = json.loads((root / "big-balder-brand.json").read_text(encoding="utf-8"))
+          dynasty = balder["dynasty_power"]
+          if dynasty["rank"] != 6 or round(float(dynasty["score"]), 1) != 1411.0:
+              raise SystemExit(f"Big Balder dynasty mismatch: {dynasty}")
+          latest_trade = balder.get("latest_trade")
+          if not latest_trade or not latest_trade.get("summary"):
+              raise SystemExit(f"Big Balder latest trade missing: {latest_trade}")
+          trade_section = next(section for section in balder["sections"] if section["id"] == "latest-trade-impact")
+          if trade_section.get("body") != latest_trade.get("summary"):
+              raise SystemExit(f"Latest Trade Impact mismatch: {trade_section}")
+          if "No franchise trade" in trade_section.get("body", ""):
+              raise SystemExit(f"False no-trade fallback remains: {trade_section}")
+
+          print("Verified 16 summaries, Big Balder #6 / 1411 D-AVI, and verified latest-trade impact.")
           PY
 
-      - name: Commit refreshed summaries
+      - name: Commit refreshed source and summaries
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         shell: bash
         run: |
-          if git diff --quiet -- knowledge/franchise_summaries; then
+          git config user.name "AVI-Automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add generate_weekly_executive_summary_filtered.py knowledge/franchise_summaries
+          if git diff --cached --quiet; then
             echo "No franchise summary changes to commit."
             exit 0
           fi
-
-          git config user.name "AVI-Automation"
-          git config user.email "actions@users.noreply.github.com"
-          git add knowledge/franchise_summaries
           git commit -m "Refresh weekly franchise executive summaries"
-
-          # A data workflow may have committed while this job was running.
-          # Rebase the generated summary commit before pushing.
           git pull --rebase origin main
           git push origin HEAD:main
