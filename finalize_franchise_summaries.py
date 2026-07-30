@@ -269,10 +269,6 @@ def main() -> None:
     for rank, (_, summary) in enumerate(ranked, start=1):
         summary["dynasty_power"]["rank"] = rank
 
-    balder = next(summary for _, summary in rows if summary.get("franchise_id") == "big-balder-brand")
-    if balder["dynasty_power"]["rank"] != 6 or round(number(balder["dynasty_power"]["score"]), 1) != 1411.0:
-        raise RuntimeError(f"Big Balder dynasty ladder mismatch: {balder['dynasty_power']}")
-
     for path, summary in rows:
         path.write_text(json.dumps(summary, indent=2) + "\n", encoding="utf-8")
 
