@@ -2192,7 +2192,7 @@
       "cbs_player_id": "28916212",
       "player_age": "22",
       "player_bye_week": "8",
-      "player_ecr_delta": 10,
+      "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "jordan-james.php",
       "player_id": 27310,

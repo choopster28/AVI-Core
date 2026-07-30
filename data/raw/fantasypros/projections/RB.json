@@ -1,5 +1,5 @@
 {
-  "count": "131",
+  "count": "130",
   "players": [
     {
       "filename": "jahmyr-gibbs.php",
@@ -422,34 +422,6 @@
       "team_id": "KC"
     },
     {
-      "filename": "javonte-williams.php",
-      "fpid": 22739,
-      "mflid": 15256,
-      "name": "Javonte Williams",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 1.61,
-        "points": 201.95,
-        "points_half": 218.48,
-        "points_ppr": 235,
-        "rec_rec": 33.04,
-        "rec_tds": 1.17,
-        "rec_yds": 192.2,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 257.49,
-        "rush_tds": 10.36,
-        "rush_yds": 1167.43,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "DAL"
-    },
-    {
       "filename": "jeremiyah-love.php",
       "fpid": 25403,
       "mflid": 17472,
@@ -476,6 +448,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "ARI"
+    },
+    {
+      "filename": "javonte-williams.php",
+      "fpid": 22739,
+      "mflid": 15256,
+      "name": "Javonte Williams",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 1.61,
+        "points": 200.95,
+        "points_half": 217.48,
+        "points_ppr": 234,
+        "rec_rec": 33.04,
+        "rec_tds": 1.17,
+        "rec_yds": 192.2,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 255.49,
+        "rush_tds": 10.36,
+        "rush_yds": 1157.43,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "DAL"
     },
     {
       "filename": "cam-skattebo.php",
@@ -506,34 +506,6 @@
       "team_id": "NYG"
     },
     {
-      "filename": "travis-etienne.php",
-      "fpid": 19231,
-      "mflid": 15253,
-      "name": "Travis Etienne Jr.",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.99,
-        "points": 189.9,
-        "points_half": 212.5,
-        "points_ppr": 235.1,
-        "rec_rec": 45.2,
-        "rec_tds": 3.02,
-        "rec_yds": 353.73,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 251.89,
-        "rush_tds": 5.34,
-        "rush_yds": 1063.47,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "NO"
-    },
-    {
       "filename": "dandre-swift.php",
       "fpid": 19210,
       "mflid": 14797,
@@ -560,6 +532,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "CHI"
+    },
+    {
+      "filename": "travis-etienne.php",
+      "fpid": 19231,
+      "mflid": 15253,
+      "name": "Travis Etienne Jr.",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.99,
+        "points": 186.83,
+        "points_half": 209.26,
+        "points_ppr": 231.7,
+        "rec_rec": 44.86,
+        "rec_tds": 3.02,
+        "rec_yds": 351.06,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 244.55,
+        "rush_tds": 5.34,
+        "rush_yds": 1035.47,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "NO"
     },
     {
       "filename": "bucky-irving.php",
@@ -1130,18 +1130,18 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 1.39,
-        "points": 108.44,
-        "points_half": 120.99,
-        "points_ppr": 133.54,
+        "points": 113.77,
+        "points_half": 126.32,
+        "points_ppr": 138.88,
         "rec_rec": 25.11,
         "rec_tds": 1.05,
         "rec_yds": 192.94,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
-        "rush_att": 154.75,
-        "rush_tds": 3.87,
-        "rush_yds": 623.71,
+        "rush_att": 162.75,
+        "rush_tds": 4.2,
+        "rush_yds": 657.05,
         "rush_yds_100": 0,
         "rush_yds_200": 0,
         "scrimage_yards_100": 0,
@@ -1204,6 +1204,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "HOU"
+    },
+    {
+      "filename": "alvin-kamara.php",
+      "fpid": 16421,
+      "mflid": 13132,
+      "name": "Alvin Kamara",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.82,
+        "points": 95.46,
+        "points_half": 113,
+        "points_ppr": 130.54,
+        "rec_rec": 35.08,
+        "rec_tds": 1.31,
+        "rec_yds": 242.75,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 126.41,
+        "rush_tds": 2.73,
+        "rush_yds": 485.75,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "NO"
     },
     {
       "filename": "isiah-pacheco.php",
@@ -1316,34 +1344,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "JAC"
-    },
-    {
-      "filename": "alvin-kamara.php",
-      "fpid": 16421,
-      "mflid": 13132,
-      "name": "Alvin Kamara",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.63,
-        "points": 88.92,
-        "points_half": 106.23,
-        "points_ppr": 123.54,
-        "rec_rec": 34.62,
-        "rec_tds": 1.47,
-        "rec_yds": 233.62,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 116.62,
-        "rush_tds": 2.1,
-        "rush_yds": 454.63,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "NO"
     },
     {
       "filename": "brian-robinson-jr.php",
@@ -2018,34 +2018,6 @@
       "team_id": "GB"
     },
     {
-      "filename": "kendre-miller.php",
-      "fpid": 24360,
-      "mflid": 16171,
-      "name": "Kendre Miller",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.02,
-        "points": 36.62,
-        "points_half": 38.62,
-        "points_ppr": 40.62,
-        "rec_rec": 4,
-        "rec_tds": 0,
-        "rec_yds": 28,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 52.44,
-        "rush_tds": 2.15,
-        "rush_yds": 209.82,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "NO"
-    },
-    {
       "filename": "george-holani.php",
       "fpid": 22915,
       "mflid": 16608,
@@ -2362,18 +2334,18 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0,
-        "points": 26.1,
-        "points_half": 32.1,
-        "points_ppr": 38.1,
+        "points": 25.5,
+        "points_half": 31.5,
+        "points_ppr": 37.5,
         "rec_rec": 12,
         "rec_tds": 0,
         "rec_yds": 57,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
-        "rush_att": 54,
+        "rush_att": 51,
         "rush_tds": 1,
-        "rush_yds": 144,
+        "rush_yds": 138,
         "rush_yds_100": 0,
         "rush_yds_200": 0,
         "scrimage_yards_100": 0,
@@ -2718,6 +2690,34 @@
       "team_id": "CAR"
     },
     {
+      "filename": "deuce-vaughn.php",
+      "fpid": 22984,
+      "mflid": 16176,
+      "name": "Deuce Vaughn",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 21.2,
+        "points_half": 21.7,
+        "points_ppr": 22.2,
+        "rec_rec": 1,
+        "rec_tds": 0,
+        "rec_yds": 9,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 32,
+        "rush_tds": 1,
+        "rush_yds": 143,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "FA"
+    },
+    {
       "filename": "donovan-edwards.php",
       "fpid": 23014,
       "mflid": 17057,
@@ -2746,62 +2746,6 @@
       "team_id": "MIA"
     },
     {
-      "filename": "carlos-washington-jr.php",
-      "fpid": 25644,
-      "mflid": 16864,
-      "name": "Carlos Washington Jr.",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 20.9,
-        "points_half": 21.9,
-        "points_ppr": 22.9,
-        "rec_rec": 2,
-        "rec_tds": 0,
-        "rec_yds": 19,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 31,
-        "rush_tds": 1,
-        "rush_yds": 130,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "MIA"
-    },
-    {
-      "filename": "audric-estime.php",
-      "fpid": 23054,
-      "mflid": 16595,
-      "name": "Audric Estime",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 20.6,
-        "points_half": 22.1,
-        "points_ppr": 23.6,
-        "rec_rec": 3,
-        "rec_tds": 0,
-        "rec_yds": 24,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 30,
-        "rush_tds": 1,
-        "rush_yds": 122,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "NO"
-    },
-    {
       "filename": "najee-harris-rb.php",
       "fpid": 19302,
       "mflid": 15254,
@@ -2828,6 +2772,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "LAC"
+    },
+    {
+      "filename": "demond-claiborne.php",
+      "fpid": 28084,
+      "mflid": 17481,
+      "name": "Demond Claiborne",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.07,
+        "points": 20.39,
+        "points_half": 22.02,
+        "points_ppr": 23.64,
+        "rec_rec": 3.25,
+        "rec_tds": 0.09,
+        "rec_yds": 25.21,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 27.66,
+        "rush_tds": 0.89,
+        "rush_yds": 121.5,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "MIN"
     },
     {
       "filename": "jeremy-mcnichols.php",
@@ -2884,34 +2856,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "IND"
-    },
-    {
-      "filename": "demond-claiborne.php",
-      "fpid": 28084,
-      "mflid": 17481,
-      "name": "Demond Claiborne",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.13,
-        "points": 19.38,
-        "points_half": 21.63,
-        "points_ppr": 23.88,
-        "rec_rec": 4.5,
-        "rec_tds": 0.17,
-        "rec_yds": 29.42,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 26.31,
-        "rush_tds": 0.78,
-        "rush_yds": 109.99,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "MIN"
     },
     {
       "filename": "kaytron-allen.php",
@@ -3220,6 +3164,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "LAC"
+    },
+    {
+      "filename": "kendre-miller.php",
+      "fpid": 24360,
+      "mflid": 16171,
+      "name": "Kendre Miller",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.03,
+        "points": 7.14,
+        "points_half": 7.14,
+        "points_ppr": 7.14,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 12.88,
+        "rush_tds": 0.29,
+        "rush_yds": 54.64,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "NO"
     },
     {
       "filename": "adam-prentice.php",

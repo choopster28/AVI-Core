@@ -283,7 +283,7 @@
     {
       "cbs_player_id": "2184628",
       "player_bye_week": "7",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 2,
       "player_eligibility": "LB,DE",
       "player_filename": "josh-allen-olb.php",
       "player_id": 18201,
@@ -421,7 +421,7 @@
     {
       "cbs_player_id": "28890311",
       "player_bye_week": "8",
-      "player_ecr_delta": 2,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "abdul-carter.php",
       "player_id": 27022,
@@ -674,7 +674,7 @@
     {
       "cbs_player_id": "2179277",
       "player_bye_week": "14",
-      "player_ecr_delta": 4,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "josh-sweat.php",
       "player_id": 17363,
@@ -881,7 +881,7 @@
     {
       "cbs_player_id": "2130978",
       "player_bye_week": "11",
-      "player_ecr_delta": -8,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "harold-landry.php",
       "player_id": 17330,
@@ -1548,7 +1548,7 @@
     {
       "cbs_player_id": "2141907",
       "player_bye_week": "10",
-      "player_ecr_delta": 12,
+      "player_ecr_delta": 13,
       "player_eligibility": "DT",
       "player_filename": "tevita-tuliakiono-tuipulotu-mosese-vahae-fehoko-faletau-vea.php",
       "player_id": 17322,
@@ -1706,7 +1706,7 @@
     {
       "cbs_player_id": "2139618",
       "player_bye_week": "11",
-      "player_ecr_delta": -7,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "uchenna-nwosu.php",
       "player_id": 17448,
@@ -1866,7 +1866,7 @@
     {
       "cbs_player_id": "3125143",
       "player_bye_week": "10",
-      "player_ecr_delta": -10,
+      "player_ecr_delta": -11,
       "player_eligibility": "DE,LB",
       "player_filename": "jalyx-hunt.php",
       "player_id": 26337,
@@ -2232,7 +2232,7 @@
     {
       "cbs_player_id": "2082728",
       "player_bye_week": "10",
-      "player_ecr_delta": 11,
+      "player_ecr_delta": 10,
       "player_eligibility": "DE,DT",
       "player_filename": "a-shawn-robinson.php",
       "player_id": 15503,
@@ -2506,7 +2506,7 @@
     {
       "cbs_player_id": "2804551",
       "player_bye_week": "7",
-      "player_ecr_delta": -18,
+      "player_ecr_delta": -17,
       "player_eligibility": "LB,DE",
       "player_filename": "klavon-chaisson.php",
       "player_id": 19228,
@@ -2598,7 +2598,7 @@
     {
       "cbs_player_id": "2962062",
       "player_bye_week": "13",
-      "player_ecr_delta": -13,
+      "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "joseph-ossai.php",
       "player_id": 22696,
@@ -2828,7 +2828,7 @@
     {
       "cbs_player_id": "2865969",
       "player_bye_week": "10",
-      "player_ecr_delta": 61,
+      "player_ecr_delta": 59,
       "player_eligibility": "DE",
       "player_filename": "aj-epenesa.php",
       "player_id": 19204,
@@ -3032,7 +3032,7 @@
     {
       "cbs_player_id": "3175460",
       "player_bye_week": "5",
-      "player_ecr_delta": 155,
+      "player_ecr_delta": 147,
       "player_eligibility": "DE,LB",
       "player_filename": "princely-umanmielen.php",
       "player_id": 26130,
@@ -6754,7 +6754,7 @@
     {
       "cbs_player_id": "2184628",
       "player_bye_week": "7",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 2,
       "player_eligibility": "LB,DE",
       "player_filename": "josh-allen-olb.php",
       "player_id": 18201,
@@ -7393,7 +7393,7 @@
     {
       "cbs_player_id": "28890311",
       "player_bye_week": "8",
-      "player_ecr_delta": 2,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "abdul-carter.php",
       "player_id": 27022,
@@ -8685,7 +8685,7 @@
     {
       "cbs_player_id": "2179277",
       "player_bye_week": "14",
-      "player_ecr_delta": 4,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "josh-sweat.php",
       "player_id": 17363,
@@ -9499,7 +9499,7 @@
     {
       "cbs_player_id": "2130978",
       "player_bye_week": "11",
-      "player_ecr_delta": -8,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "harold-landry.php",
       "player_id": 17330,
@@ -11861,7 +11861,7 @@
     },
     {
       "cbs_player_id": "28867305",
-      "player_bye_week": "10",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "haggai-chisom-ndubuisi.php",
@@ -11874,7 +11874,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "H. Ndubuisi",
-      "player_team_id": "TB",
+      "player_team_id": "FA",
       "player_yahoo_id": "40481",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT211",
@@ -13606,7 +13606,7 @@
     {
       "cbs_player_id": "2141907",
       "player_bye_week": "10",
-      "player_ecr_delta": 12,
+      "player_ecr_delta": 13,
       "player_eligibility": "DT",
       "player_filename": "tevita-tuliakiono-tuipulotu-mosese-vahae-fehoko-faletau-vea.php",
       "player_id": 17322,
@@ -13698,7 +13698,7 @@
     {
       "cbs_player_id": "2082728",
       "player_bye_week": "10",
-      "player_ecr_delta": 11,
+      "player_ecr_delta": 10,
       "player_eligibility": "DE,DT",
       "player_filename": "a-shawn-robinson.php",
       "player_id": 15503,
@@ -14556,7 +14556,7 @@
     {
       "cbs_player_id": "3125143",
       "player_bye_week": "10",
-      "player_ecr_delta": -10,
+      "player_ecr_delta": -11,
       "player_eligibility": "DE,LB",
       "player_filename": "jalyx-hunt.php",
       "player_id": 26337,
@@ -15031,7 +15031,7 @@
     {
       "cbs_player_id": "2804551",
       "player_bye_week": "7",
-      "player_ecr_delta": -18,
+      "player_ecr_delta": -17,
       "player_eligibility": "LB,DE",
       "player_filename": "klavon-chaisson.php",
       "player_id": 19228,
@@ -15077,7 +15077,7 @@
     {
       "cbs_player_id": "2962062",
       "player_bye_week": "13",
-      "player_ecr_delta": -13,
+      "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "joseph-ossai.php",
       "player_id": 22696,
@@ -16768,7 +16768,7 @@
     {
       "cbs_player_id": "2139618",
       "player_bye_week": "11",
-      "player_ecr_delta": -7,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "uchenna-nwosu.php",
       "player_id": 17448,
