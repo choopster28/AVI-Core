@@ -1,12 +1,12 @@
 {
-  "schema_version": 8,
+  "schema_version": 9,
   "franchise_id": "conquistadors",
   "franchise_name": "Conquistadors",
   "roster_id": 1,
   "owner_display_name": "Thecan",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:01:48.128773-06:00",
+  "generated_at": "2026-07-29T18:17:42.780666-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Conquistadors: Preseason Front Office Brief",
   "executive_summary": "Conquistadors is projected #1 of 16 with a 722.60 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -24,14 +24,20 @@
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 13,
+    "rank": 7,
     "league_size": 16,
-    "score": 1196.6,
+    "score": 1384.1,
     "player_d_avi": 942.2,
-    "future_pick_d_avi": 254.4,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus the reconstructed live 2027+ pick ledger using native picks, historical trades, raw Sleeper ownership, and round-average AVI"
+    "future_pick_d_avi": 441.9,
+    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
-  "latest_trade": null,
+  "latest_trade": {
+    "transaction_id": "1381050653018685440",
+    "created_at": "2026-07-09T20:57:23.662000+00:00",
+    "type": "trade",
+    "summary": "On July 9, Conquistadors completed a trade with Big Balder Brand and acquired 2026 Round 20 (Big Balder Brand) and sent 2026 Round 20 (Conquistadors).",
+    "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+  },
   "gap_closing_moves": [
     "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 63.2 C-AVI."
   ],
@@ -69,7 +75,7 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
+      "body": "On July 9, Conquistadors completed a trade with Big Balder Brand and acquired 2026 Round 20 (Big Balder Brand) and sent 2026 Round 20 (Conquistadors)."
     },
     {
       "id": "close-the-gap",

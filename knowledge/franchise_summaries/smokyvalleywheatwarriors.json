@@ -1,12 +1,12 @@
 {
-  "schema_version": 8,
+  "schema_version": 9,
   "franchise_id": "smokyvalleywheatwarriors",
   "franchise_name": "SmokyValleyWheatWarriors",
   "roster_id": 10,
   "owner_display_name": "AlexPete6800",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:01:48.128773-06:00",
+  "generated_at": "2026-07-29T18:17:42.780666-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
   "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 661.40 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and James Cook. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -31,12 +31,18 @@
   "dynasty_power": {
     "rank": 5,
     "league_size": 16,
-    "score": 1400.5,
+    "score": 1458.5,
     "player_d_avi": 1009.2,
-    "future_pick_d_avi": 391.3,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus the reconstructed live 2027+ pick ledger using native picks, historical trades, raw Sleeper ownership, and round-average AVI"
+    "future_pick_d_avi": 449.3,
+    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
-  "latest_trade": null,
+  "latest_trade": {
+    "transaction_id": "1288899605622165504",
+    "created_at": "2025-10-28T14:02:01.879000+00:00",
+    "type": "trade",
+    "summary": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte.",
+    "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
+  },
   "gap_closing_moves": [
     "Raise the FLEX slot above Rico Dowdle's 63.7 C-AVI baseline; a replacement near 68.9 C-AVI would directly attack the 5.20-point projected gap to Mile High Royal Lions."
   ],
@@ -74,7 +80,7 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
+      "body": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte."
     },
     {
       "id": "close-the-gap",

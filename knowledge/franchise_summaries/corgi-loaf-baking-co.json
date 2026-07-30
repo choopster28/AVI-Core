@@ -1,12 +1,12 @@
 {
-  "schema_version": 8,
+  "schema_version": 9,
   "franchise_id": "corgi-loaf-baking-co",
   "franchise_name": "Corgi Loaf Baking Co.",
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:01:48.128773-06:00",
+  "generated_at": "2026-07-29T18:17:42.780666-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
   "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 659.50 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Cam Skattebo. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -31,12 +31,18 @@
   "dynasty_power": {
     "rank": 10,
     "league_size": 16,
-    "score": 1272.5,
+    "score": 1343.0,
     "player_d_avi": 1075.7,
-    "future_pick_d_avi": 196.8,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus the reconstructed live 2027+ pick ledger using native picks, historical trades, raw Sleeper ownership, and round-average AVI"
+    "future_pick_d_avi": 267.3,
+    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
-  "latest_trade": null,
+  "latest_trade": {
+    "transaction_id": "1387942050321678336",
+    "created_at": "2026-07-28T21:21:20.815000+00:00",
+    "type": "trade",
+    "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods).",
+    "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+  },
   "gap_closing_moves": [
     "Raise the FLEX slot above Christian Watson's 70.2 C-AVI baseline; a replacement near 72.1 C-AVI would directly attack the 1.90-point projected gap to SmokyValleyWheatWarriors."
   ],
@@ -74,7 +80,7 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
+      "body": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods)."
     },
     {
       "id": "close-the-gap",

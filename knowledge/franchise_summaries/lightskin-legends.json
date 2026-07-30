@@ -1,12 +1,12 @@
 {
-  "schema_version": 8,
+  "schema_version": 9,
   "franchise_id": "lightskin-legends",
   "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:01:48.128773-06:00",
+  "generated_at": "2026-07-29T18:17:42.780666-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
   "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #16 of 16 with a 486.80 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the WR slot without weakening that core.",
@@ -26,12 +26,18 @@
   "dynasty_power": {
     "rank": 16,
     "league_size": 16,
-    "score": 917.7,
+    "score": 1031.2,
     "player_d_avi": 598.6,
-    "future_pick_d_avi": 319.1,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus the reconstructed live 2027+ pick ledger using native picks, historical trades, raw Sleeper ownership, and round-average AVI"
+    "future_pick_d_avi": 432.6,
+    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
-  "latest_trade": null,
+  "latest_trade": {
+    "transaction_id": "1288899605622165504",
+    "created_at": "2025-10-28T14:02:01.879000+00:00",
+    "type": "trade",
+    "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd completed a trade with SmokyValleyWheatWarriors and acquired Kayshon Boutte and sent 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors).",
+    "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
+  },
   "gap_closing_moves": [
     "Raise the WR slot above Parker Washington's 64.8 C-AVI baseline; a replacement near 68.3 C-AVI would directly attack the 3.50-point projected gap to Northside Kings."
   ],
@@ -50,7 +56,7 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
+      "body": "On October 28, Lightskin Legends \u270a\ud83c\udffd completed a trade with SmokyValleyWheatWarriors and acquired Kayshon Boutte and sent 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors)."
     },
     {
       "id": "close-the-gap",

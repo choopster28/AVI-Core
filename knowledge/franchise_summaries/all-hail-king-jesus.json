@@ -1,12 +1,12 @@
 {
-  "schema_version": 8,
+  "schema_version": 9,
   "franchise_id": "all-hail-king-jesus",
   "franchise_name": "All Hail King Jesus",
   "roster_id": 8,
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:01:48.128773-06:00",
+  "generated_at": "2026-07-29T18:17:42.780666-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
   "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 625.40 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
@@ -31,12 +31,18 @@
   "dynasty_power": {
     "rank": 15,
     "league_size": 16,
-    "score": 981.4,
+    "score": 1041.7,
     "player_d_avi": 758.4,
-    "future_pick_d_avi": 223.0,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus the reconstructed live 2027+ pick ledger using native picks, historical trades, raw Sleeper ownership, and round-average AVI"
+    "future_pick_d_avi": 283.3,
+    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
-  "latest_trade": null,
+  "latest_trade": {
+    "transaction_id": "1382466797541818368",
+    "created_at": "2026-07-13T18:44:38.827000+00:00",
+    "type": "trade",
+    "summary": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) and sent Derrick Henry.",
+    "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+  },
   "gap_closing_moves": [
     "Raise the RB slot above Zach Charbonnet's 52.0 C-AVI baseline; a replacement near 52.7 C-AVI would directly attack the 0.70-point projected gap to Southside Savages."
   ],
@@ -74,7 +80,7 @@
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "No franchise trade was found in the last 365 days of the authoritative historical ledger."
+      "body": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) and sent Derrick Henry."
     },
     {
       "id": "close-the-gap",
