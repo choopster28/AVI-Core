@@ -1,6 +1,6 @@
 {
-  "schema_version": 5,
-  "generated_at": "2026-07-29T17:56:51.671444-06:00",
+  "schema_version": 6,
+  "generated_at": "2026-07-29T18:01:48.128773-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "source_policy": "AVI-Core/knowledge only",
   "franchise_count": 16,
@@ -23,5 +23,5 @@
     "smokyvalleywheatwarriors.json",
     "southside-savages.json"
   ],
-  "dynasty_power_method": "Full roster D-AVI plus verified currently owned 2026+ draft-pick AVI"
+  "dynasty_power_method": "Full roster D-AVI plus reconstructed live 2027+ pick ownership and values"
 }

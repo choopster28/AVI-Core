@@ -1,12 +1,12 @@
 {
-  "schema_version": 7,
+  "schema_version": 8,
   "franchise_id": "southside-savages",
   "franchise_name": "Southside Savages",
   "roster_id": 13,
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
   "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T17:56:51.671444-06:00",
+  "generated_at": "2026-07-29T18:01:48.128773-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
   "executive_summary": "Southside Savages is projected #7 of 16 with a 626.10 projected-starting-lineup C-AVI total, led by Drake Maye, Josh Jacobs, and Tetairoa McMillan. The immediate priority is improving the TE slot without weakening that core.",
@@ -29,12 +29,12 @@
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 15,
+    "rank": 14,
     "league_size": 16,
-    "score": 864.5,
+    "score": 1153.1,
     "player_d_avi": 841.0,
-    "future_pick_d_avi": 23.5,
-    "method": "Canonical Power Rankings D-AVI ladder: full verified roster D-AVI plus every verified currently owned 2026+ draft pick AVI from data/processed/reports/draft_pick_values.json"
+    "future_pick_d_avi": 312.1,
+    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus the reconstructed live 2027+ pick ledger using native picks, historical trades, raw Sleeper ownership, and round-average AVI"
   },
   "latest_trade": null,
   "gap_closing_moves": [
