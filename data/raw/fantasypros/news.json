@@ -3,6 +3,42 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-30 16:06:53",
+      "created_formated": "Thu, Jul 30th 4:06pm UTC",
+      "desc": "Shemar Stewart was diagnosed with a hyperextended knee after an incident in practice Wednesday. No ligament damage was found.",
+      "id": 599121,
+      "impact": "After what looked like an ugly injury, it's great news for the Bengals defense. He could sit out for a short period, but it's unlikely this keeps him off the field for long.",
+      "link": "https://www.fantasypros.com/nfl/news/599121/shemar-stewart-diagnosed-with-hyperextended-knee-no-ligament-damage.php",
+      "player_id": 27054,
+      "sport_id": "NFL",
+      "team_id": "CIN",
+      "title": "Shemar Stewart diagnosed with hyperextended knee, no ligament damage"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-30 13:47:50",
+      "created_formated": "Thu, Jul 30th 1:47pm UTC",
+      "desc": "Tua Tagovailoa is back out on the practice field doing individual drills after reports on Wednesday saying he would be back \"sooner rather than later.\"",
+      "id": 599112,
+      "impact": "It doesn't appear Tua's injury absence will be anything major, as he's already back at practice. For now he has a leg up on Michael Penix Jr for the QB1 job to start the season with Penix still on the shelf, but things can change quickly in the NFL.",
+      "link": "https://www.fantasypros.com/nfl/news/599112/tua-tagovailoa-doing-individual-drills-thursday.php",
+      "player_id": 19198,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Tua Tagovailoa doing individual drills Thursday"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -400,41 +436,6 @@
       "sport_id": "NFL",
       "team_id": "WAS",
       "title": "River Cracraft signs with Commanders "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-30 05:42:06",
-      "created_formated": "Thu, Jul 30th 5:42am UTC",
-      "desc": "The Commanders activated CB Fred Davis II from the PUP list. ",
-      "id": 599069,
-      "impact": "Davis will return to practice this week. ",
-      "link": "https://www.fantasypros.com/nfl/news/599069/fred-davis-ii-activated-from-pup-list-.php",
-      "player_id": 28629,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Fred Davis II activated from PUP list "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 05:40:39",
-      "created_formated": "Thu, Jul 30th 5:40am UTC",
-      "desc": "The Commanders released Andre Carter II.  ",
-      "id": 599068,
-      "impact": "Carter will figure to seek another opportunity during training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/599068/andre-carter-ii-released-by-commanders-.php",
-      "player_id": 25248,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Andre Carter II released by Commanders "
     }
   ],
   "public_api_limited": true,

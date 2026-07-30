@@ -33,9 +33,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - QB: Dak Prescott | C-AVI: 75.7 | D-AVI: 79.3
 - RB: Jonathan Taylor | C-AVI: 97.7 | D-AVI: 95.6
 - RB: Chase Brown | C-AVI: 96.4 | D-AVI: 94.3
-- WR: DK Metcalf | C-AVI: 70.5 | D-AVI: 84.6
-- WR: Parker Washington | C-AVI: 64.8 | D-AVI: 82.6
-- FLEX: Javonte Williams | C-AVI: 81.4 | D-AVI: 88.4
+- WR: DK Metcalf | C-AVI: 70.5 | D-AVI: 84.5
+- WR: Parker Washington | C-AVI: 64.8 | D-AVI: 82.8
+- FLEX: Javonte Williams | C-AVI: 81.4 | D-AVI: 88.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -120,7 +120,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 81.4
-- Dynasty AVI (D-AVI, 0-100): 88.4
+- Dynasty AVI (D-AVI, 0-100): 88.3
 - Projected PPR points: 234.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -137,7 +137,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 70.5
-- Dynasty AVI (D-AVI, 0-100): 84.6
+- Dynasty AVI (D-AVI, 0-100): 84.5
 - Projected PPR points: 194.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -154,7 +154,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 64.8
-- Dynasty AVI (D-AVI, 0-100): 82.6
+- Dynasty AVI (D-AVI, 0-100): 82.8
 - Projected PPR points: 178.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
