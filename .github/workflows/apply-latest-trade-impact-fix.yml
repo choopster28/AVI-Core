@@ -1,4 +1,4 @@
-name: Apply Latest Trade Impact Fix
+name: Apply Executive Summary Data Fixes
 
 on:
   push:
@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "scripts/patch-latest-trade-impact.py"
+      - "scripts/patch-finalizer-canonical-pick-values.py"
       - ".github/workflows/apply-latest-trade-impact-fix.yml"
 
 permissions:
@@ -21,8 +22,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Patch generator
-        run: python scripts/patch-latest-trade-impact.py
+      - name: Patch generator and finalizer
+        run: |
+          python scripts/patch-latest-trade-impact.py
+          python scripts/patch-finalizer-canonical-pick-values.py
       - name: Regenerate summaries
         run: |
           python generate_weekly_executive_summary_filtered.py
@@ -40,6 +43,7 @@ jobs:
           assert trade and trade.get("summary"), trade
           section = next(s for s in p["sections"] if s["id"] == "latest-trade-impact")
           assert "No franchise trade" not in section["body"], section
+          assert section["body"] == trade["summary"], (section, trade)
           print(d)
           print(section["body"])
           PY
@@ -47,6 +51,6 @@ jobs:
         run: |
           git config user.name "AVI-Automation"
           git config user.email "actions@users.noreply.github.com"
-          git add generate_weekly_executive_summary_filtered.py knowledge/franchise_summaries
+          git add generate_weekly_executive_summary_filtered.py finalize_franchise_summaries.py knowledge/franchise_summaries
           git commit -m "Fix dynasty and latest trade executive summary data"
           git push origin HEAD:main
