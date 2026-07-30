@@ -51,6 +51,7 @@ jobs:
           from datetime import datetime
           from zoneinfo import ZoneInfo
           import os
+
           now = datetime.now(ZoneInfo("America/Denver"))
           allowed = now.weekday() == 2 and now.hour == 11
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
@@ -70,7 +71,7 @@ jobs:
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: python finalize_franchise_summaries.py
 
-      - name: Verify complete current output set
+      - name: Verify all franchise summaries
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: |
           python - <<'PY'
@@ -95,14 +96,55 @@ jobs:
           if age_seconds > 900:
               raise SystemExit(f"Generated manifest is stale by {age_seconds:.0f} seconds")
 
+          summaries = []
           for path in files:
               payload = json.loads(path.read_text(encoding="utf-8"))
+              summaries.append((path, payload))
+
+              dynasty = payload.get("dynasty_power") or {}
+              rank = int(dynasty.get("rank") or 0)
+              league_size = int(dynasty.get("league_size") or 0)
+              if league_size != 16 or rank < 1 or rank > 16:
+                  raise SystemExit(f"Invalid dynasty rank metadata in {path}: {dynasty}")
+
+              expected_score = round(
+                  float(dynasty.get("player_d_avi") or 0)
+                  + float(dynasty.get("future_pick_d_avi") or 0),
+                  2,
+              )
+              actual_score = round(float(dynasty.get("score") or 0), 2)
+              if expected_score != actual_score:
+                  raise SystemExit(
+                      f"Dynasty score does not reconcile in {path}: "
+                      f"expected {expected_score}, found {actual_score}"
+                  )
+
+              sections = {
+                  section.get("id"): section
+                  for section in payload.get("sections", [])
+                  if isinstance(section, dict) and section.get("id")
+              }
+              trade_section = sections.get("latest-trade-impact")
+              if not trade_section:
+                  raise SystemExit(f"Missing Latest Trade Impact section: {path}")
+
+              latest_trade = payload.get("latest_trade")
+              trade_body = str(trade_section.get("body") or "").strip()
+              if latest_trade:
+                  summary = str(latest_trade.get("summary") or "").strip()
+                  if not summary:
+                      raise SystemExit(f"Latest trade has no summary: {path}")
+                  if trade_body != summary:
+                      raise SystemExit(f"Latest Trade Impact does not match latest_trade: {path}")
+                  if "no verified franchise trade" in trade_body.casefold() or "no franchise trade" in trade_body.casefold():
+                      raise SystemExit(f"False no-trade fallback remains: {path}")
+
               projected = payload.get("projected_power") or {}
               team_below = projected.get("team_below")
               rival = payload.get("rival_below")
               if team_below is None:
                   if rival is not None:
-                      raise SystemExit(f"Unexpected rival for last-place franchise: {path}")
+                      raise SystemExit(f"Unexpected Rival Watch for last-place franchise: {path}")
               else:
                   if not rival:
                       raise SystemExit(f"Missing Rival Watch: {path}")
@@ -111,29 +153,31 @@ jobs:
                   if rival.get("projected_rank") != team_below.get("rank"):
                       raise SystemExit(f"Rival Watch rank does not match team_below: {path}")
 
-              dynasty = payload.get("dynasty_power") or {}
-              expected = round(float(dynasty.get("player_d_avi") or 0) + float(dynasty.get("future_pick_d_avi") or 0), 2)
-              actual = round(float(dynasty.get("score") or 0), 2)
-              if expected != actual:
-                  raise SystemExit(f"Dynasty score does not reconcile in {path}: expected {expected}, found {actual}")
-
               if "original roster" in path.read_text(encoding="utf-8").casefold():
                   raise SystemExit(f"Untranslated roster ID found in {path}")
 
-          balder = json.loads((root / "big-balder-brand.json").read_text(encoding="utf-8"))
-          dynasty = balder["dynasty_power"]
-          if dynasty["rank"] != 6 or round(float(dynasty["score"]), 1) != 1411.0:
-              raise SystemExit(f"Big Balder dynasty mismatch: {dynasty}")
-          latest_trade = balder.get("latest_trade")
-          if not latest_trade or not latest_trade.get("summary"):
-              raise SystemExit(f"Big Balder latest trade missing: {latest_trade}")
-          trade_section = next(section for section in balder["sections"] if section["id"] == "latest-trade-impact")
-          if trade_section.get("body") != latest_trade.get("summary"):
-              raise SystemExit(f"Latest Trade Impact mismatch: {trade_section}")
-          if "No franchise trade" in trade_section.get("body", ""):
-              raise SystemExit(f"False no-trade fallback remains: {trade_section}")
+          ranks = [int(payload["dynasty_power"]["rank"]) for _, payload in summaries]
+          if sorted(ranks) != list(range(1, 17)):
+              raise SystemExit(f"Dynasty ranks are not a unique 1-16 ladder: {ranks}")
 
-          print("Verified 16 summaries, Big Balder #6 / 1411 D-AVI, and verified latest-trade impact.")
+          expected_order = sorted(
+              summaries,
+              key=lambda item: (
+                  float(item[1]["dynasty_power"]["score"]),
+                  float((item[1].get("projected_power") or {}).get("score") or 0),
+                  str(item[1].get("franchise_name") or ""),
+              ),
+              reverse=True,
+          )
+          for expected_rank, (path, payload) in enumerate(expected_order, start=1):
+              actual_rank = int(payload["dynasty_power"]["rank"])
+              if actual_rank != expected_rank:
+                  raise SystemExit(
+                      f"Dynasty ladder ordering mismatch in {path}: "
+                      f"expected rank {expected_rank}, found {actual_rank}"
+                  )
+
+          print("Verified all 16 franchise summaries with dynamic league-wide validation.")
           PY
 
       - name: Commit refreshed source and summaries
