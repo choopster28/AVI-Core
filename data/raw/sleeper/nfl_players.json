@@ -2795,7 +2795,7 @@
       "genius_id": "1398981",
       "rookie_year": "2023"
     },
-    "news_updated": 1785523833178,
+    "news_updated": 1785532834498,
     "number": 4,
     "oddsjam_id": "D5BE2AF21C8F",
     "opta_id": null,
@@ -3037,7 +3037,7 @@
       "genius_id": "1075269",
       "rookie_year": "2023"
     },
-    "news_updated": 1785370813838,
+    "news_updated": 1785533734437,
     "number": 14,
     "oddsjam_id": "C1EBDE7E9115",
     "opta_id": null,
@@ -56333,7 +56333,7 @@
       "genius_id": "1463871",
       "rookie_year": "2024"
     },
-    "news_updated": 1782654917810,
+    "news_updated": 1785531334714,
     "number": 82,
     "oddsjam_id": "8B176931BA87",
     "opta_id": null,
@@ -58788,7 +58788,7 @@
       "genius_id": "1463675",
       "rookie_year": "2024"
     },
-    "news_updated": 1785441922476,
+    "news_updated": 1785532535921,
     "number": 1,
     "oddsjam_id": "8838562B2670",
     "opta_id": null,
@@ -72567,7 +72567,7 @@
     "sport": "nfl",
     "sportradar_id": "4c467662-7d7c-4a5f-b453-b0c871c72d8b",
     "stats_id": null,
-    "status": "Active",
+    "status": "Inactive",
     "swish_id": 1174721,
     "team": "ARI",
     "team_abbr": null,
@@ -72838,7 +72838,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "86397fd6-a3c3-4cda-b69f-18e5ed03d932",
     "last_name": "Kane",
     "metadata": {
@@ -80942,10 +80942,10 @@
     "hashtag": "#chriscollier-NFL-LV-33",
     "height": "70",
     "high_school": "Lawrence (MA)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "efd687a3-4c56-4859-a419-39719a889e14",
     "last_name": "Collier",
     "metadata": {
@@ -90642,7 +90642,7 @@
   },
   "12108": {
     "active": true,
-    "age": 24,
+    "age": 25,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2001-07-11",
@@ -90659,7 +90659,7 @@
     "first_name": "Quinton",
     "full_name": "Quinton Newsome",
     "gsis_id": null,
-    "hashtag": "#quintonnewsome-NFL-FA-36",
+    "hashtag": "#quintonnewsome-NFL-ARI-36",
     "height": "73",
     "high_school": "North Gwinnett (GA)",
     "injury_body_part": null,
@@ -90693,12 +90693,12 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 1164865,
-    "team": null,
+    "team": "ARI",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "185",
     "yahoo_id": null,
-    "years_exp": 1
+    "years_exp": 2
   },
   "12109": {
     "active": true,
@@ -114845,7 +114845,7 @@
       "rookie_year": "2025",
       "source_id": "59113d93-8197-4fe2-8cd4-3b5e6e0e5b99"
     },
-    "news_updated": 1784732114850,
+    "news_updated": 1785533735027,
     "number": 21,
     "oddsjam_id": "8F2E72F7E0CE2396",
     "opta_id": null,
@@ -117800,7 +117800,7 @@
       "rookie_year": "2025",
       "source_id": "d7f54546-46ed-45c6-9ecc-b23c65ee6679"
     },
-    "news_updated": 1785505230790,
+    "news_updated": 1785530434174,
     "number": 2,
     "oddsjam_id": "93527AC8024DA07C",
     "opta_id": null,
@@ -148391,7 +148391,7 @@
       "genius_id": "1488029",
       "rookie_year": "2025"
     },
-    "news_updated": 1785169820427,
+    "news_updated": 1785530734581,
     "number": 34,
     "oddsjam_id": "95515438F5363A92",
     "opta_id": null,
@@ -178515,7 +178515,7 @@
       "rookie_year": "2026",
       "source_id": "f0f9f984-0feb-4e43-9881-f075ca2b64e4"
     },
-    "news_updated": 1785348310719,
+    "news_updated": 1785531334237,
     "number": 15,
     "oddsjam_id": null,
     "opta_id": null,
@@ -187020,7 +187020,7 @@
       "genius_id": "1490980",
       "rookie_year": "2026"
     },
-    "news_updated": 1785270660497,
+    "news_updated": 1785531334704,
     "number": 28,
     "oddsjam_id": null,
     "opta_id": null,
@@ -207921,7 +207921,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "5f5b7b0a-1ce3-49a7-ba0a-c52b7828d1ad",
     "last_name": "Walthall",
     "metadata": {
@@ -660056,7 +660056,7 @@
       "genius_id": "1075390",
       "rookie_year": "2022"
     },
-    "news_updated": 1785529534461,
+    "news_updated": 1785532234175,
     "number": 12,
     "oddsjam_id": "016969998F62",
     "opta_id": null,
@@ -678230,7 +678230,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "kalshi_id": "7bdb09fb-5b78-4f75-b523-a7aedb4478bb",
     "last_name": "Ndubuisi",
     "metadata": {
@@ -701925,7 +701925,7 @@
   },
   "8785": {
     "active": true,
-    "age": 27,
+    "age": 28,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1998-07-09",
@@ -701942,7 +701942,7 @@
     "first_name": "Cal",
     "full_name": "Cal Adomitis",
     "gsis_id": null,
-    "hashtag": "#caladomitis-NFL-FA-57",
+    "hashtag": "#caladomitis-NFL-GB-57",
     "height": "74",
     "high_school": "Pittsburgh Central Catholic (PA)",
     "injury_body_part": null,
@@ -701977,7 +701977,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 1061591,
-    "team": null,
+    "team": "GB",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "238",
