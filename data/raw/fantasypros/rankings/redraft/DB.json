@@ -352,7 +352,7 @@
     {
       "cbs_player_id": "3170863",
       "player_bye_week": "6",
-      "player_ecr_delta": 7,
+      "player_ecr_delta": 6,
       "player_eligibility": "S",
       "player_filename": "brian-branch.php",
       "player_id": 25235,
@@ -651,7 +651,7 @@
     {
       "cbs_player_id": "2961593",
       "player_bye_week": "9",
-      "player_ecr_delta": -3,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "alontae-taylor.php",
       "player_id": 23747,
@@ -858,7 +858,7 @@
     {
       "cbs_player_id": "26693635",
       "player_bye_week": "7",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "cole-bishop.php",
       "player_id": 26229,
@@ -5538,7 +5538,7 @@
     {
       "cbs_player_id": "3170863",
       "player_bye_week": "6",
-      "player_ecr_delta": 7,
+      "player_ecr_delta": 6,
       "player_eligibility": "S",
       "player_filename": "brian-branch.php",
       "player_id": 25235,
@@ -7647,7 +7647,7 @@
     {
       "cbs_player_id": "2961593",
       "player_bye_week": "9",
-      "player_ecr_delta": -3,
+      "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "alontae-taylor.php",
       "player_id": 23747,
@@ -8812,7 +8812,7 @@
     {
       "cbs_player_id": "26693635",
       "player_bye_week": "7",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "cole-bishop.php",
       "player_id": 26229,

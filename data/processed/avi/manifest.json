@@ -16,14 +16,14 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-07-30T17:14:08.952847+00:00",
+  "generated_at_utc": "2026-07-31T08:24:39.928180+00:00",
   "league_id": "1312185568032997376",
   "methodology_status": "provisional_2026_2",
   "methodology_version": "2026.2",
   "player_points_active": false,
   "record_counts": {
-    "calculated_players": 432,
-    "registry_players": 432,
+    "calculated_players": 440,
+    "registry_players": 440,
     "unresolved_players": 0
   },
   "replacement_levels": {
@@ -47,10 +47,10 @@
       "DL": 0.0,
       "K": 0.0,
       "LB": 0.0,
-      "QB": 287.28,
-      "RB": 155.87,
-      "TE": 148.67,
-      "WR": 152.44
+      "QB": 287.39,
+      "RB": 155.93,
+      "TE": 148.62,
+      "WR": 145.37
     },
     "starter_demand": {
       "DB": 16,

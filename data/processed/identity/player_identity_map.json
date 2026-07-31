@@ -118,6 +118,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "12127",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NYG",
+    "player_name": "Odell Beckham Jr.",
+    "position": "WR",
+    "sleeper_id": "2078"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "13029",
     "match_method": "exact_name_position_unique",
     "nfl_team": "PIT",
@@ -694,6 +703,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "17528",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DAL",
+    "player_name": "Marquez Valdes-Scantling",
+    "position": "WR",
+    "sleeper_id": "5086"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "17575",
     "match_method": "exact_name_position_unique",
     "nfl_team": "SF",
@@ -756,10 +774,10 @@
     "sleeper_id": "5892"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "18244",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SF",
     "player_name": "Deebo Samuel Sr.",
     "position": "WR",
     "sleeper_id": "5872"
@@ -844,6 +862,15 @@
     "player_name": "KaVontae Turpin",
     "position": "WR",
     "sleeper_id": "8917"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "18557",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "TB",
+    "player_name": "Jake Browning",
+    "position": "QB",
+    "sleeper_id": "6111"
   },
   {
     "confidence": "verified",
@@ -961,6 +988,15 @@
     "player_name": "Darius Slayton",
     "position": "WR",
     "sleeper_id": "6149"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "18714",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CHI",
+    "player_name": "Scotty Miller",
+    "position": "WR",
+    "sleeper_id": "6290"
   },
   {
     "confidence": "verified",
@@ -1339,6 +1375,24 @@
     "player_name": "Darnell Mooney",
     "position": "WR",
     "sleeper_id": "7090"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "19844",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NE",
+    "player_name": "Reggie Gilliam",
+    "position": "RB",
+    "sleeper_id": "7204"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "20082",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LAC",
+    "player_name": "Trey Lance",
+    "position": "QB",
+    "sleeper_id": "7610"
   },
   {
     "confidence": "verified",
@@ -2800,6 +2854,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "25373",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "IND",
+    "player_name": "Riley Leonard",
+    "position": "QB",
+    "sleeper_id": "12470"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "25387",
     "match_method": "exact_name_position_unique",
     "nfl_team": "LVR",
@@ -4075,6 +4138,15 @@
     "player_name": "Marlin Klein",
     "position": "TE",
     "sleeper_id": "13307"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28161",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CHI",
+    "player_name": "Sam Roush",
+    "position": "TE",
+    "sleeper_id": "13322"
   },
   {
     "confidence": "verified",

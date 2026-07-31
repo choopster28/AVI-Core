@@ -2108,7 +2108,7 @@
       "cbs_player_id": "28916212",
       "player_age": "22",
       "player_bye_week": "8",
-      "player_ecr_delta": 10,
+      "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "jordan-james.php",
       "player_id": 27310,
@@ -2162,7 +2162,7 @@
     },
     {
       "cbs_player_id": "28877884",
-      "player_age": "21",
+      "player_age": "22",
       "player_bye_week": "7",
       "player_ecr_delta": null,
       "player_eligibility": "RB",
@@ -4458,7 +4458,7 @@
     },
     {
       "cbs_player_id": "2249831",
-      "player_age": "27",
+      "player_age": "28",
       "player_bye_week": "9",
       "player_ecr_delta": null,
       "player_eligibility": "RB",
