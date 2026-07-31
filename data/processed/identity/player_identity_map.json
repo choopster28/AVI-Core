@@ -1189,15 +1189,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "19358",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CAR",
-    "player_name": "AJ Dillon",
-    "position": "RB",
-    "sleeper_id": "6828"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "19372",
     "match_method": "exact_name_position_unique",
     "nfl_team": "LAR",
@@ -1384,15 +1375,6 @@
     "player_name": "Reggie Gilliam",
     "position": "RB",
     "sleeper_id": "7204"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "20082",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "LAC",
-    "player_name": "Trey Lance",
-    "position": "QB",
-    "sleeper_id": "7610"
   },
   {
     "confidence": "verified",
@@ -4138,15 +4120,6 @@
     "player_name": "Marlin Klein",
     "position": "TE",
     "sleeper_id": "13307"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "28161",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CHI",
-    "player_name": "Sam Roush",
-    "position": "TE",
-    "sleeper_id": "13322"
   },
   {
     "confidence": "verified",

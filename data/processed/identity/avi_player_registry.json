@@ -52,31 +52,6 @@
   {
     "active": true,
     "aliases": [
-      "AJ Dillon"
-    ],
-    "avi_id": "AVI-00006828",
-    "canonical_name": "AJ Dillon",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "CAR",
-    "normalized_name": "aj dillon",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": 4239934,
-      "fantasy_data_id": 21802,
-      "fantasypros_id": "19358",
-      "nfl_id": "2563986",
-      "rotowire_id": 14370,
-      "sleeper_id": "6828",
-      "sportradar_id": "e10bfeb8-ea01-47bc-bfa8-45f6dcbf71b3",
-      "sportsdata_player_id": "e10bfeb8-ea01-47bc-bfa8-45f6dcbf71b3"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Aaron Jones",
       "Aaron Jones Sr."
     ],
@@ -9138,31 +9113,6 @@
   {
     "active": true,
     "aliases": [
-      "Sam Roush"
-    ],
-    "avi_id": "AVI-00013322",
-    "canonical_name": "Sam Roush",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "CHI",
-    "normalized_name": "sam roush",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26938,
-      "fantasypros_id": "28161",
-      "nfl_id": null,
-      "rotowire_id": 19357,
-      "sleeper_id": "13322",
-      "sportradar_id": "b8b3edc8-986a-4702-84a7-b5193331aebb",
-      "sportsdata_player_id": "b8b3edc8-986a-4702-84a7-b5193331aebb"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Samaje Perine"
     ],
     "avi_id": "AVI-00004147",
@@ -10111,31 +10061,6 @@
       "sleeper_id": "11589",
       "sportradar_id": "0c1253f2-1822-445d-8590-fea6fd32703f",
       "sportsdata_player_id": "0c1253f2-1822-445d-8590-fea6fd32703f"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Trey Lance"
-    ],
-    "avi_id": "AVI-00007610",
-    "canonical_name": "Trey Lance",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "LAC",
-    "normalized_name": "trey lance",
-    "position": "QB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 22493,
-      "fantasypros_id": "20082",
-      "nfl_id": "2566532",
-      "rotowire_id": 15198,
-      "sleeper_id": "7610",
-      "sportradar_id": "676a508c-c65f-404a-a2b0-f861a4bfd072",
-      "sportsdata_player_id": "676a508c-c65f-404a-a2b0-f861a4bfd072"
     }
   },
   {

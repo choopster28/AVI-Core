@@ -1,7 +1,337 @@
 {
-  "count": 23,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 17:00:50",
+      "created_formated": "Fri, Jul 31st 5:00pm UTC",
+      "desc": "The 49ers waived/injured TE Tanner McLachlan.",
+      "id": 599356,
+      "impact": "McLachlan will figure to seek another opportunity in training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/599356/tanner-mclachlan-waived-by-49ers-.php",
+      "player_id": 26352,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Tanner McLachlan waived by 49ers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 17:00:07",
+      "created_formated": "Fri, Jul 31st 5:00pm UTC",
+      "desc": "The 49ers waived DB Derrick Canteen.",
+      "id": 599355,
+      "impact": "Canteen will figure to seek another opportunity in training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/599355/derrick-canteen-waived-by-49ers-.php",
+      "player_id": 27928,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Derrick Canteen waived by 49ers "
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 16:59:18",
+      "created_formated": "Fri, Jul 31st 4:59pm UTC",
+      "desc": "Josiah Deguara signed a 1-year deal with the San Francisco 49ers on Friday.",
+      "id": 599354,
+      "impact": "Deguara is the latest receiving option the 49ers have brought in after Ricky Pearsall's injury was discovered to be worse than originally expected. Deguara is entering his seventh year in the NFL and will likely serve as a depth piece in the San Francisco tight end room.",
+      "link": "https://www.fantasypros.com/nfl/news/599354/josiah-deguara-signs-1-year-contract-with-49ers.php",
+      "player_id": 19456,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Josiah Deguara signs 1-year contract with 49ers"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 16:58:10",
+      "created_formated": "Fri, Jul 31st 4:58pm UTC",
+      "desc": "Deshaun Watson is taking the first-team reps at practice on Friday. ",
+      "id": 599353,
+      "impact": "Shedeur Sanders received the first-team reps at practice on Thursday. The two of them will continue to rotate who receives first-team reps. ",
+      "link": "https://www.fantasypros.com/nfl/news/599353/deshaun-watson-takes-first-team-reps-friday-.php",
+      "player_id": 16398,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Deshaun Watson takes first-team reps Friday "
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 16:56:20",
+      "created_formated": "Fri, Jul 31st 4:56pm UTC",
+      "desc": "Trenton Irwin has signed a 1-year contract with the San Francisco 49ers.",
+      "id": 599352,
+      "impact": "Irwin was brought in the day after San Francisco signed Deebo Samuel, another addition to the receiving corps following news that Ricky Pearsall could miss the upcoming season with a knee injury. Irwin appeared in just seven games with the Bengals last season and will likely be a depth piece for San Francisco this year.",
+      "link": "https://www.fantasypros.com/nfl/news/599352/trenton-irwin-signs-1-year-deal-with-49ers.php",
+      "player_id": 18726,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Trenton Irwin signs 1-year deal with 49ers"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-31 16:04:48",
+      "created_formated": "Fri, Jul 31st 4:04pm UTC",
+      "desc": "Michael Penix Jr. took 7-on-7 reps at practice on Friday. ",
+      "id": 599341,
+      "impact": "Penix is continuing to wait to be fully cleared to practice. It isn't expected to happen until late August. ",
+      "link": "https://www.fantasypros.com/nfl/news/599341/michael-penix-jr-takes-7-on-7-reps-friday-.php",
+      "player_id": 22973,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Michael Penix Jr. takes 7-on-7 reps Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 16:03:35",
+      "created_formated": "Fri, Jul 31st 4:03pm UTC",
+      "desc": "Jack Strand took all of the 11-on-11 reps at Falcons training camp on Friday. ",
+      "id": 599340,
+      "impact": "Strand continues to work with the starters as Michael Penix Jr. and Tua Tagovailoa ease their way back from injuries. Penix took reps in 7-on-7 drills on Friday. ",
+      "link": "https://www.fantasypros.com/nfl/news/599340/jack-strand-takes-all-11-on-11-reps-falcons-practice-friday-.php",
+      "player_id": 28428,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Jack Strand takes all 11-on-11 reps at Falcons practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 15:48:21",
+      "created_formated": "Fri, Jul 31st 3:48pm UTC",
+      "desc": "Kyle Monangai was not seen at practice at Bears training camp on Friday. ",
+      "id": 599339,
+      "impact": "It is currently unclear why Monangai was not practicing. Salvon Ahmed was seeing more reps in his place. ",
+      "link": "https://www.fantasypros.com/nfl/news/599339/kyle-monangai-not-seen-practice-friday-.php",
+      "player_id": 27131,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Kyle Monangai not seen at practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 15:43:17",
+      "created_formated": "Fri, Jul 31st 3:43pm UTC",
+      "desc": "The Ravens restructured DL Broderick Washington's contract.",
+      "id": 599338,
+      "impact": "The Ravens and Washington agreed to a fully guaranteed, one-year, $2 million contract, opening up $2 million in cap space for the Ravens this season. He is working his way back from a torn Achilles. ",
+      "link": "https://www.fantasypros.com/nfl/news/599338/broderick-washington-jr-restructures-contract-with-ravens-.php",
+      "player_id": 19503,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Broderick Washington Jr. restructures contract with Ravens "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-31 15:41:42",
+      "created_formated": "Fri, Jul 31st 3:41pm UTC",
+      "desc": "Tua Tagovailoa participated in Friday's walkthrough at training camp. ",
+      "id": 599337,
+      "impact": "Tagovailoa has practiced back-to-back days after reportedly dealing with a back injury. He is continuing to trend in the right direction. ",
+      "link": "https://www.fantasypros.com/nfl/news/599337/tua-tagovailoa-back-participates-walkthrough-friday-.php",
+      "player_id": 19198,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Tua Tagovailoa (back) participates in walkthrough Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-31 15:39:18",
+      "created_formated": "Fri, Jul 31st 3:39pm UTC",
+      "desc": "Alim McNeill left Friday's practice early with an apparent neck injury. ",
+      "id": 599336,
+      "impact": "McNeill will be further evaluated. There should be an update on his status provided when absence. ",
+      "link": "https://www.fantasypros.com/nfl/news/599336/alim-mcneill-leaves-practice-early-with-apparent-neck-injury.php",
+      "player_id": 22765,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Alim McNeill leaves practice early with apparent neck injury"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-31 15:38:30",
+      "created_formated": "Fri, Jul 31st 3:38pm UTC",
+      "desc": "Jimmy Rolder left Friday's practice early with an apparent leg injury. ",
+      "id": 599335,
+      "impact": "Rolder will be further evaluated. There should be an update on his status provided when absence. ",
+      "link": "https://www.fantasypros.com/nfl/news/599335/jimmy-rolder-leg-leaving-practice-early-friday-.php",
+      "player_id": 28355,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Jimmy Rolder (leg) leaving practice early Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-31 15:33:12",
+      "created_formated": "Fri, Jul 31st 3:33pm UTC",
+      "desc": "Tank Dell participated in Friday's walkthrough at practice. ",
+      "id": 599333,
+      "impact": "It is another step in the right direction as he continues to be eased back into training camp. His status will need to continue to be monitored. ",
+      "link": "https://www.fantasypros.com/nfl/news/599333/tank-dell-participates-walkthrough-friday-.php",
+      "player_id": 25361,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Tank Dell participates in walkthrough Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 15:30:32",
+      "created_formated": "Fri, Jul 31st 3:30pm UTC",
+      "desc": "Chris Olave took part in team drills at practice on Friday at Saints training camp. ",
+      "id": 599331,
+      "impact": "Olave was limited to individual drills earlier in the week. With his extension now out of the way, he'll now fully participate in practices. ",
+      "link": "https://www.fantasypros.com/nfl/news/599331/chris-olave-takes-part-team-drills-friday-.php",
+      "player_id": 20111,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Chris Olave takes part in team drills Friday "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 15:26:58",
+      "created_formated": "Fri, Jul 31st 3:26pm UTC",
+      "desc": "Zachariah Branch got some high praise from HC Kevin Stefanski, who said the rookie wideout is \"wired the right way\" and \"somebody that really puts in the effort on a day-to-day basis.\"",
+      "id": 599329,
+      "impact": "Branch has made some highlight plays already in training camp, and with the No.2 receiver spot wide open, he'll have every opportunity to impress and claim it. How he will be used in a Stefanski style offense will be interesting, as it doesn't traditionally cater to Branch's style of play, but that could change.",
+      "link": "https://www.fantasypros.com/nfl/news/599329/zachariah-branch-wired-right-way-per-hc-stefanski.php",
+      "player_id": 25419,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Zachariah Branch 'wired the right way' per HC Stefanski"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-31 15:16:15",
+      "created_formated": "Fri, Jul 31st 3:16pm UTC",
+      "desc": "DeForest Buckner is seeing 11-on-11 work in practice after doing individual work Wednesday and Thursday.",
+      "id": 599328,
+      "impact": "This is a big step in the right direction for Buckner, who was only cleared to practice just days ago after undergoing surgery in the offseason. The expectation was for the Colts to take it easy on him, and they still may, but it certainly appears Buckner is getting back in rhythm.",
+      "link": "https://www.fantasypros.com/nfl/news/599328/deforest-buckner-seeing-11-on-11-work-practice.php",
+      "player_id": 15494,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "DeForest Buckner seeing 11-on-11 work in practice"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 15:13:31",
+      "created_formated": "Fri, Jul 31st 3:13pm UTC",
+      "desc": "Germie Bernard was taking reps with the first-team offense at Steelers training camp on Friday. ",
+      "id": 599327,
+      "impact": "Farbaugh notes that Bernard flexed into the backfield and then back out into the slot on a rep. He'll have a chance to compete for immediate snaps in the slot for Pittsburgh. ",
+      "link": "https://www.fantasypros.com/nfl/news/599327/germie-bernard-sees-reps-with-first-team-offense-friday-.php",
+      "player_id": 26039,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Germie Bernard sees reps with first-team offense Friday "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-07-31 15:09:47",
+      "created_formated": "Fri, Jul 31st 3:09pm UTC",
+      "desc": "Tucker Kraft has been activated off of the PUP list on Friday. He won't participate in team activities but will participate in individual drills and walkthroughs.",
+      "id": 599326,
+      "impact": "This is great news for the up and coming tight end, who is hopeful for Week 1, which is becoming more of a possibility. Fantasy managers will need to monitor his progress, however, as there is a lot to be decided before the start of the season.",
+      "link": "https://www.fantasypros.com/nfl/news/599326/tucker-kraft-activated-off-pup-list.php",
+      "player_id": 25298,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Tucker Kraft activated off of PUP list"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-07-31 13:04:47",
+      "created_formated": "Fri, Jul 31st 1:04pm UTC",
+      "desc": "Anthony Firkser has signed with the Detroit Lions.",
+      "id": 599322,
+      "impact": "Firkser has spent time with the Lions in the past, notably 2023 and 2025, before signing with the Commanders this offseason before being released. Should the veteran be retained by the team, he will likely be a blocker and have little fantasy value.",
+      "link": "https://www.fantasypros.com/nfl/news/599322/anthony-firkser-signed-by-detroit-lions.php",
+      "player_id": 16787,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Anthony Firkser signed by the Detroit Lions"
+    },
     {
       "author": "Ari Koslow",
       "categories": [
@@ -108,297 +438,6 @@
       "sport_id": "NFL",
       "team_id": "JAC",
       "title": "Jack Kiser (knee) expected back during training camp "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-31 05:47:27",
-      "created_formated": "Fri, Jul 31st 5:47am UTC",
-      "desc": "The Titans signed S Hudson Clark.",
-      "id": 599252,
-      "impact": "Clark signed as UDFA with the Raiders last season. He'll compete for a depth role in the Titans secondary. ",
-      "link": "https://www.fantasypros.com/nfl/news/599252/hudson-clark-signs-with-titans-.php",
-      "player_id": 27749,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Hudson Clark signs with Titans "
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-31 01:12:33",
-      "created_formated": "Fri, Jul 31st 1:12am UTC",
-      "desc": "Deebo Samuel is signing a 1-year deal worth up to $7 million with the San Francisco 49ers.",
-      "id": 599232,
-      "impact": "Samuel is back where it all began for him, returning to San Francisco following the news that Ricky Pearsall may miss a significant amount of the 2026 season. Samuel is coming off a season with 727 receiving yards and five touchdowns, and will add a dynamic aspect to a 49ers offense that added Mike Evans and Christian Kirk in the offseason.",
-      "link": "https://www.fantasypros.com/nfl/news/599232/deebo-samuel-sr-signs-1-year-deal-with-49ers.php",
-      "player_id": 18244,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Deebo Samuel Sr. signs 1-year deal with 49ers"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:49:21",
-      "created_formated": "Thu, Jul 30th 9:49pm UTC",
-      "desc": "The Packers are signing WR Kaden Prather. ",
-      "id": 599214,
-      "impact": "Prather won a championship in the UFL with the Lousiville Kings. He will compete for a depth role in the wide receiver room with Green Bay. ",
-      "link": "https://www.fantasypros.com/nfl/news/599214/kaden-prather-signs-with-packers-.php",
-      "player_id": 25413,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Kaden Prather signs with Packers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:46:36",
-      "created_formated": "Thu, Jul 30th 9:46pm UTC",
-      "desc": "Kyler Murray took the majority of the first-team reps during practice on Thursday. ",
-      "id": 599212,
-      "impact": "Lewis notes that Murray had an impressive deep pass to wide receiver Dontae Fleming. He'll continue to rotate reps with the first-team with J.J. McCarthy. ",
-      "link": "https://www.fantasypros.com/nfl/news/599212/kyler-murray-sees-majority-first-team-reps-thursday-.php",
-      "player_id": 18600,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Kyler Murray sees majority of first-team reps Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:23:36",
-      "created_formated": "Thu, Jul 30th 9:23pm UTC",
-      "desc": "The Bills hosted WR Dante Pettis for a workout. ",
-      "id": 599204,
-      "impact": "Pettis appeared in eight games each of the last two seasons with the Saints. ",
-      "link": "https://www.fantasypros.com/nfl/news/599204/dante-pettis-works-out-bills.php",
-      "player_id": 17264,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Dante Pettis works out for Bills"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:22:37",
-      "created_formated": "Thu, Jul 30th 9:22pm UTC",
-      "desc": "The Bills hosted WR KhaDarel Hodge for a workout. ",
-      "id": 599203,
-      "impact": "Hodge spent the past four seasons with the Falcons in a depth role. ",
-      "link": "https://www.fantasypros.com/nfl/news/599203/khadarel-hodge-works-out-bills.php",
-      "player_id": 18166,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "KhaDarel Hodge works out for Bills"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:21:11",
-      "created_formated": "Thu, Jul 30th 9:21pm UTC",
-      "desc": "The Colts hosted RB Jermar Jefferson for a workout. ",
-      "id": 599202,
-      "impact": "Jefferson also worked out for Green Bay earlier this week. ",
-      "link": "https://www.fantasypros.com/nfl/news/599202/jermar-jefferson-works-out-colts-.php",
-      "player_id": 20088,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jermar Jefferson works out for Colts "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:19:49",
-      "created_formated": "Thu, Jul 30th 9:19pm UTC",
-      "desc": "The 49ers hosted RB Raheem Blackshear for a workout. ",
-      "id": 599201,
-      "impact": "Blackshear was one of three running backs to workout for San Francisco with Jordan James sidelined with a rib fracture. He did not appear in a game last season. ",
-      "link": "https://www.fantasypros.com/nfl/news/599201/raheem-blackshear-works-out-49ers-.php",
-      "player_id": 20100,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Raheem Blackshear works out for 49ers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:18:55",
-      "created_formated": "Thu, Jul 30th 9:18pm UTC",
-      "desc": "The 49ers hosted RB Khalil Herbert for a workout. ",
-      "id": 599200,
-      "impact": "Herbert was one of three running backs to workout for San Francisco with Jordan James sidelined with a rib fracture. He appeared in seven games for the Jets last season. ",
-      "link": "https://www.fantasypros.com/nfl/news/599200/khalil-herbert-works-out-49ers-.php",
-      "player_id": 22763,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Khalil Herbert works out for 49ers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:17:53",
-      "created_formated": "Thu, Jul 30th 9:17pm UTC",
-      "desc": "The 49ers hosted RB Owen Wright for a workout. ",
-      "id": 599199,
-      "impact": "Wright was one of three running backs to workout for San Francisco with Jordan James sidelined with a rib fracture. He appeared in three games with the Bucs last season. ",
-      "link": "https://www.fantasypros.com/nfl/news/599199/owen-wright-works-out-49ers-.php",
-      "player_id": 25831,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Owen Wright works out for 49ers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:13:26",
-      "created_formated": "Thu, Jul 30th 9:13pm UTC",
-      "desc": "The Texans hosted RB Alexander Mattison for a workout. ",
-      "id": 599198,
-      "impact": "Mattison last appeared in 14 games for the Raiders two seasons ago. ",
-      "link": "https://www.fantasypros.com/nfl/news/599198/alexander-mattison-works-out-texans-.php",
-      "player_id": 18621,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Alexander Mattison works out for Texans "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:12:10",
-      "created_formated": "Thu, Jul 30th 9:12pm UTC",
-      "desc": "The Texans hosted RB Hassan Haskins for a workout. ",
-      "id": 599197,
-      "impact": "Haskins appeared in 12 games with the Chargers last season. ",
-      "link": "https://www.fantasypros.com/nfl/news/599197/hassan-haskins-works-out-texans-.php",
-      "player_id": 23798,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Hassan Haskins works out for Texans "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 21:10:13",
-      "created_formated": "Thu, Jul 30th 9:10pm UTC",
-      "desc": "The Steelers hosted Jordan Whitehead for a visit. ",
-      "id": 599196,
-      "impact": "Whitehead was recently cleared to resume playing in the NFL from a neck injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/599196/jordan-whitehead-visits-steelers-.php",
-      "player_id": 17409,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jordan Whitehead visits Steelers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-07-30 21:00:18",
-      "created_formated": "Thu, Jul 30th 9:00pm UTC",
-      "desc": "Calvin Ridley was back at practice on Thursday. ",
-      "id": 599195,
-      "impact": "Ridley missed one day of practice due to an illness. His role in the Titans wide receiver room remains uncertain. ",
-      "link": "https://www.fantasypros.com/nfl/news/599195/calvin-ridley-illness-returns-to-practice-thursday-.php",
-      "player_id": 17258,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Calvin Ridley (illness) returns to practice Thursday "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Breaking"
-      ],
-      "created": "2026-07-30 20:55:31",
-      "created_formated": "Thu, Jul 30th 8:55pm UTC",
-      "desc": "Chris Olave has agreed to a four-year, $132 million extension with the New Orleans Saints, including $90 million guaranteed.",
-      "id": 599192,
-      "impact": "Olave had a big 2025 season, and it paid off beautifully for the veteran receiver. He's now locked in for the long haul in a promising situation in New Orleans with a breakout QB in Tyler Shough, and new additions Travis Etienne and Jordyn Tyson.",
-      "link": "https://www.fantasypros.com/nfl/news/599192/chris-olave-agrees-to-four-year-132-million-extension-with-saints.php",
-      "player_id": 20111,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Chris Olave agrees to four-year, $132 million extension with Saints"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 20:55:13",
-      "created_formated": "Thu, Jul 30th 8:55pm UTC",
-      "desc": "Chase Claypool worked out with the Indianapolis Colts on Thursday.",
-      "id": 599191,
-      "impact": "Claypool is attempting an NFL comeback and has not taken a snap since the 2023 season. The wideout last suited up for the Bears and Dolphins in 12 games, when he played sparingly and managed just eight catches for 77 yards.",
-      "link": "https://www.fantasypros.com/nfl/news/599191/chase-claypool-works-out-with-colts.php",
-      "player_id": 18627,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Chase Claypool works out with Colts"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-07-30 20:52:03",
-      "created_formated": "Thu, Jul 30th 8:52pm UTC",
-      "desc": "The Panthers released UDFA rookie DT Parker Peterson. ",
-      "id": 599189,
-      "impact": "Peterson will figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/599189/parker-petersen-released-by-panthers-.php",
-      "player_id": 28825,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Parker Petersen released by Panthers "
     }
   ],
   "public_api_limited": true,
