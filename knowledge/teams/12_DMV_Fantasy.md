@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 14
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 583.3
-- championship_lineup_c_avi_avg: 72.91
-- offensive_roster_c_avi_sum: 664.5
-- offensive_roster_c_avi_avg: 60.41
+- championship_lineup_c_avi_sum: 583.2
+- championship_lineup_c_avi_avg: 72.90
+- offensive_roster_c_avi_sum: 664.4
+- offensive_roster_c_avi_avg: 60.40
 - offensive_roster_d_avi_sum: 776.8
 - offensive_roster_d_avi_avg: 70.62
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Terry McLaurin | C-AVI: 78.9 | D-AVI: 87.3
 - WR: Khalil Shakir | C-AVI: 59.2 | D-AVI: 76.1
 - TE: George Kittle | C-AVI: 75.8 | D-AVI: 82.0
-- FLEX: Brenton Strange | C-AVI: 62.0 | D-AVI: 78.5
+- FLEX: Brenton Strange | C-AVI: 61.9 | D-AVI: 78.5
 - FLEX: Rachaad White | C-AVI: 57.0 | D-AVI: 75.5
 
 ## Current Roster — All Player Cards
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 62.0
+- Championship AVI (C-AVI, 0-100): 61.9
 - Dynasty AVI (D-AVI, 0-100): 78.5
 - Projected PPR points: 151.4
 - Category: offense
