@@ -72823,7 +72823,7 @@
     "college": "Purdue",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 25351,
     "fantasy_positions": [
@@ -116136,7 +116136,7 @@
       "rookie_year": "2025",
       "source_id": "614b6215-3c79-48d9-ab8b-35a944703edc"
     },
-    "news_updated": 1785433521821,
+    "news_updated": 1785590441998,
     "number": 33,
     "oddsjam_id": "D1ABD80E70F6AD0E",
     "opta_id": null,
@@ -116570,7 +116570,7 @@
       "rookie_year": "2025",
       "source_id": "31e9d3d5-d1bb-4562-960f-51ae4f54b2c4"
     },
-    "news_updated": 1785540337463,
+    "news_updated": 1785593442508,
     "number": 15,
     "oddsjam_id": "A4FBB695165BC649",
     "opta_id": null,
@@ -122647,10 +122647,10 @@
     "hashtag": "#cameronwilliams-NFL-PHI-73",
     "height": "77",
     "high_school": "Duncanville (TX)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "d592e2a6-e430-461d-a500-922757af0706",
     "last_name": "Williams",
     "metadata": {
@@ -169329,7 +169329,7 @@
       "rookie_year": "2026",
       "source_id": "574f8140-85f6-11ec-b637-a5ab0010ea3e"
     },
-    "news_updated": 1785342311422,
+    "news_updated": 1785591642178,
     "number": 0,
     "oddsjam_id": null,
     "opta_id": null,
@@ -170178,7 +170178,7 @@
       "rookie_year": "2026",
       "source_id": "9c697f40-9ea7-11ed-b23c-b1b7c283bdf7"
     },
-    "news_updated": 1784553345498,
+    "news_updated": 1785591042184,
     "number": 9,
     "oddsjam_id": null,
     "opta_id": null,
@@ -173890,7 +173890,7 @@
       "rookie_year": "2026",
       "source_id": "0426e0ff-e19f-4cfb-a25c-649718f06a4d"
     },
-    "news_updated": 1785432621920,
+    "news_updated": 1785592842352,
     "number": 87,
     "oddsjam_id": null,
     "opta_id": null,
@@ -203813,7 +203813,7 @@
     "college": "Iowa",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DL",
     "espn_id": null,
     "fantasy_data_id": 28418,
     "fantasy_positions": [
@@ -212409,7 +212409,7 @@
     "college": "Wisconsin",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DL",
     "espn_id": null,
     "fantasy_data_id": 28471,
     "fantasy_positions": [
@@ -214154,7 +214154,7 @@
     "college": "BYU",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "LS",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28475,
     "fantasy_positions": [
@@ -222909,7 +222909,7 @@
       "genius_id": "757942",
       "rookie_year": "2013"
     },
-    "news_updated": 1785528934253,
+    "news_updated": 1785594042568,
     "number": 10,
     "oddsjam_id": "2ACD5EEFE2DD",
     "opta_id": null,
@@ -342986,7 +342986,7 @@
     "birth_state": null,
     "college": "Florida",
     "competitions": [],
-    "depth_chart_order": 7,
+    "depth_chart_order": 6,
     "depth_chart_position": "RWR",
     "espn_id": 3043116,
     "fantasy_data_id": 18047,
@@ -513233,10 +513233,10 @@
     "hashtag": "#cjgardnerjohnson-NFL-BUF-22",
     "height": "71",
     "high_school": "Cocoa (FL)",
-    "injury_body_part": null,
+    "injury_body_part": "Upper Leg",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "82c4b671-85ae-4d53-9d71-45666bc1d766",
     "last_name": "Gardner-Johnson",
     "metadata": {
@@ -513244,7 +513244,7 @@
       "genius_id": "1007483",
       "rookie_year": "2019"
     },
-    "news_updated": 1773357645220,
+    "news_updated": 1785593742876,
     "number": 22,
     "oddsjam_id": "A9B01103B244",
     "opta_id": null,
@@ -571447,7 +571447,7 @@
     "birth_state": null,
     "college": "Arizona State",
     "competitions": [],
-    "depth_chart_order": 6,
+    "depth_chart_order": 7,
     "depth_chart_position": null,
     "espn_id": 4360438,
     "fantasy_data_id": 21747,
@@ -619086,7 +619086,7 @@
       "genius_id": "1072633",
       "rookie_year": "2021"
     },
-    "news_updated": 1784225158601,
+    "news_updated": 1785594642606,
     "number": 16,
     "oddsjam_id": "29F2D38EB99F",
     "opta_id": null,
@@ -678215,7 +678215,7 @@
     "college": null,
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DL",
     "espn_id": null,
     "fantasy_data_id": 23590,
     "fantasy_positions": [
