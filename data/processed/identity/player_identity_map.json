@@ -2736,6 +2736,15 @@
     "sleeper_id": "9224"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "25329",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Kenny McIntosh",
+    "position": "RB",
+    "sleeper_id": "10216"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "25332",
     "match_method": "exact_name_position_unique",
@@ -3880,6 +3889,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "27469",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BUF",
+    "player_name": "Jackson Hawes",
+    "position": "TE",
+    "sleeper_id": "12658"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "27487",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NE",
@@ -3904,6 +3922,15 @@
     "player_name": "Tyler Loop",
     "position": "K",
     "sleeper_id": "12711"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "27781",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SEA",
+    "player_name": "Jacardia Wright",
+    "position": "RB",
+    "sleeper_id": "13047"
   },
   {
     "confidence": "verified",
@@ -4015,6 +4042,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "28113",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LAR",
+    "player_name": "Dean Connors",
+    "position": "RB",
+    "sleeper_id": "13315"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "28124",
     "match_method": "exact_name_position_unique",
     "nfl_team": "ATL",
@@ -4105,6 +4141,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "28141",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ARI",
+    "player_name": "Reggie Virgil",
+    "position": "WR",
+    "sleeper_id": "13297"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "28154",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NE",
@@ -4183,6 +4228,24 @@
     "player_name": "Trey Smack",
     "position": "K",
     "sleeper_id": "13545"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28717",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Dontae McMillan",
+    "position": "RB",
+    "sleeper_id": "13852"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28757",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Elijah Tau-Tolliver",
+    "position": "RB",
+    "sleeper_id": "13909"
   },
   {
     "confidence": "verified",
