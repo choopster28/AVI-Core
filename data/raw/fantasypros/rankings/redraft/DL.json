@@ -214,7 +214,7 @@
     {
       "cbs_player_id": "2248637",
       "player_bye_week": "9",
-      "player_ecr_delta": -2,
+      "player_ecr_delta": null,
       "player_eligibility": "DT,DE",
       "player_filename": "jeffery-simmons.php",
       "player_id": 18207,
@@ -329,7 +329,7 @@
     {
       "cbs_player_id": "2141772",
       "player_bye_week": "10",
-      "player_ecr_delta": 4,
+      "player_ecr_delta": 5,
       "player_eligibility": "DE",
       "player_filename": "montez-sweat.php",
       "player_id": 18213,
@@ -398,7 +398,7 @@
     {
       "cbs_player_id": "2184628",
       "player_bye_week": "7",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": -5,
       "player_eligibility": "LB,DE",
       "player_filename": "josh-allen-olb.php",
       "player_id": 18201,
@@ -421,7 +421,7 @@
     {
       "cbs_player_id": "2966977",
       "player_bye_week": "7",
-      "player_ecr_delta": 7,
+      "player_ecr_delta": 6,
       "player_eligibility": "DE,LB",
       "player_filename": "gregory-rousseau.php",
       "player_id": 19787,
@@ -444,7 +444,7 @@
     {
       "cbs_player_id": "3176952",
       "player_bye_week": "7",
-      "player_ecr_delta": -7,
+      "player_ecr_delta": -5,
       "player_eligibility": "LB,DE",
       "player_filename": "tuli-tuipulotu.php",
       "player_id": 25364,
@@ -467,7 +467,7 @@
     {
       "cbs_player_id": "3122891",
       "player_bye_week": "5",
-      "player_ecr_delta": 7,
+      "player_ecr_delta": 6,
       "player_eligibility": "DE",
       "player_filename": "george-karlaftis-iii.php",
       "player_id": 23501,
@@ -490,7 +490,7 @@
     {
       "cbs_player_id": "2829229",
       "player_bye_week": "8",
-      "player_ecr_delta": 5,
+      "player_ecr_delta": 6,
       "player_eligibility": "DE",
       "player_filename": "chase-young.php",
       "player_id": 19195,
@@ -513,7 +513,7 @@
     {
       "cbs_player_id": "2962030",
       "player_bye_week": "10",
-      "player_ecr_delta": -6,
+      "player_ecr_delta": -5,
       "player_eligibility": "LB,DE",
       "player_filename": "nik-bonitto.php",
       "player_id": 23763,
@@ -536,7 +536,7 @@
     {
       "cbs_player_id": "28890311",
       "player_bye_week": "8",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": -5,
       "player_eligibility": "DE,LB",
       "player_filename": "abdul-carter.php",
       "player_id": 27022,
@@ -559,7 +559,7 @@
     {
       "cbs_player_id": "3138203",
       "player_bye_week": "11",
-      "player_ecr_delta": -7,
+      "player_ecr_delta": -8,
       "player_eligibility": "DE,LB",
       "player_filename": "jared-verse.php",
       "player_id": 25234,
@@ -628,7 +628,7 @@
     {
       "cbs_player_id": "1243804",
       "player_bye_week": "9",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": null,
       "player_eligibility": "DT,DE",
       "player_filename": "cameron-heyward.php",
       "player_id": 9862,
@@ -743,7 +743,7 @@
     {
       "cbs_player_id": "29128702",
       "player_bye_week": "8",
-      "player_ecr_delta": 10,
+      "player_ecr_delta": null,
       "player_eligibility": "DL,LB",
       "player_filename": "arvell-reese.php",
       "player_id": 28053,
@@ -1065,7 +1065,7 @@
     {
       "cbs_player_id": "2181068",
       "player_bye_week": "8",
-      "player_ecr_delta": -5,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "carl-granderson.php",
       "player_id": 18295,
@@ -1272,7 +1272,7 @@
     {
       "cbs_player_id": "2967242",
       "player_bye_week": "6",
-      "player_ecr_delta": 6,
+      "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "jalen-redmond.php",
       "player_id": 25777,
@@ -1295,7 +1295,7 @@
     {
       "cbs_player_id": "3123027",
       "player_bye_week": "10",
-      "player_ecr_delta": 29,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "nolan-smith.php",
       "player_id": 24711,
@@ -1387,7 +1387,7 @@
     {
       "cbs_player_id": "3123381",
       "player_bye_week": "8",
-      "player_ecr_delta": null,
+      "player_ecr_delta": 8,
       "player_eligibility": "LB,DE",
       "player_filename": "kayvon-thibodeaux.php",
       "player_id": 23484,
@@ -1456,7 +1456,7 @@
     {
       "cbs_player_id": "26701231",
       "player_bye_week": "14",
-      "player_ecr_delta": -8,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "donovan-ezeiruaku.php",
       "player_id": 27033,
@@ -1479,7 +1479,7 @@
     {
       "cbs_player_id": "28878022",
       "player_bye_week": "13",
-      "player_ecr_delta": 8,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "david-bailey-edge.php",
       "player_id": 27191,
@@ -1660,7 +1660,7 @@
     {
       "cbs_player_id": "2962588",
       "player_bye_week": "13",
-      "player_ecr_delta": 22,
+      "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "will-mcdonald-iv.php",
       "player_id": 25254,
@@ -1683,7 +1683,7 @@
     {
       "cbs_player_id": "3163208",
       "player_bye_week": "11",
-      "player_ecr_delta": 10,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "lukas-van-ness.php",
       "player_id": 25291,
@@ -1774,7 +1774,7 @@
     {
       "cbs_player_id": "2179534",
       "player_bye_week": "7",
-      "player_ecr_delta": 17,
+      "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "dorance-armstrong-jr.php",
       "player_id": 17315,
@@ -1797,7 +1797,7 @@
     {
       "cbs_player_id": "26706090",
       "player_bye_week": "13",
-      "player_ecr_delta": 18,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "mike-green-dt.php",
       "player_id": 27042,
@@ -1820,7 +1820,7 @@
     {
       "cbs_player_id": "3123351",
       "player_bye_week": "11",
-      "player_ecr_delta": -9,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "zach-harrison.php",
       "player_id": 23485,
@@ -1889,7 +1889,7 @@
     {
       "cbs_player_id": "2082709",
       "player_bye_week": "6",
-      "player_ecr_delta": -11,
+      "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "jonathan-allen.php",
       "player_id": 16371,
@@ -1912,7 +1912,7 @@
     {
       "cbs_player_id": "3168791",
       "player_bye_week": "13",
-      "player_ecr_delta": 26,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "tavius-robinson.php",
       "player_id": 25478,
@@ -1935,7 +1935,7 @@
     {
       "cbs_player_id": "2829831",
       "player_bye_week": "14",
-      "player_ecr_delta": 9,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "zaven-collins.php",
       "player_id": 22698,
@@ -1958,7 +1958,7 @@
     {
       "cbs_player_id": "1272992",
       "player_bye_week": "8",
-      "player_ecr_delta": 23,
+      "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "cameron-jordan.php",
       "player_id": 9886,
@@ -2027,7 +2027,7 @@
     {
       "cbs_player_id": "2140474",
       "player_bye_week": "9",
-      "player_ecr_delta": 10,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "john-franklin-meyers.php",
       "player_id": 17623,
@@ -2050,7 +2050,7 @@
     {
       "cbs_player_id": "2180628",
       "player_bye_week": "13",
-      "player_ecr_delta": 11,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "arden-key.php",
       "player_id": 17279,
@@ -2073,7 +2073,7 @@
     {
       "cbs_player_id": "28923687",
       "player_bye_week": "14",
-      "player_ecr_delta": -21,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "walter-nolen.php",
       "player_id": 27030,
@@ -2300,7 +2300,7 @@
     {
       "cbs_player_id": "2186325",
       "player_bye_week": "7",
-      "player_ecr_delta": -18,
+      "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "daron-payne.php",
       "player_id": 17281,
@@ -2323,7 +2323,7 @@
     {
       "cbs_player_id": "3127467",
       "player_bye_week": "11",
-      "player_ecr_delta": -14,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "brandon-dorlus.php",
       "player_id": 26184,
@@ -2392,7 +2392,7 @@
     {
       "cbs_player_id": "3175397",
       "player_bye_week": "10",
-      "player_ecr_delta": -14,
+      "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "gervon-dexter-sr.php",
       "player_id": 25246,
@@ -2461,7 +2461,7 @@
     {
       "cbs_player_id": "2179816",
       "player_bye_week": "11",
-      "player_ecr_delta": -15,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "dremont-jones.php",
       "player_id": 18212,
@@ -2506,7 +2506,7 @@
     {
       "cbs_player_id": "2804551",
       "player_bye_week": "7",
-      "player_ecr_delta": -27,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "klavon-chaisson.php",
       "player_id": 19228,
@@ -2598,7 +2598,7 @@
     {
       "cbs_player_id": "2962062",
       "player_bye_week": "13",
-      "player_ecr_delta": -15,
+      "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "joseph-ossai.php",
       "player_id": 22696,
@@ -2828,7 +2828,7 @@
     {
       "cbs_player_id": "2865969",
       "player_bye_week": "10",
-      "player_ecr_delta": 58,
+      "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "aj-epenesa.php",
       "player_id": 19204,
@@ -3032,7 +3032,7 @@
     {
       "cbs_player_id": "3175460",
       "player_bye_week": "5",
-      "player_ecr_delta": 146,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "princely-umanmielen.php",
       "player_id": 26130,
@@ -5664,7 +5664,7 @@
     {
       "cbs_player_id": "2248637",
       "player_bye_week": "9",
-      "player_ecr_delta": -2,
+      "player_ecr_delta": null,
       "player_eligibility": "DT,DE",
       "player_filename": "jeffery-simmons.php",
       "player_id": 18207,
@@ -6983,7 +6983,7 @@
     {
       "cbs_player_id": "2184628",
       "player_bye_week": "7",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": -5,
       "player_eligibility": "LB,DE",
       "player_filename": "josh-allen-olb.php",
       "player_id": 18201,
@@ -7050,7 +7050,7 @@
     {
       "cbs_player_id": "2962030",
       "player_bye_week": "10",
-      "player_ecr_delta": -6,
+      "player_ecr_delta": -5,
       "player_eligibility": "LB,DE",
       "player_filename": "nik-bonitto.php",
       "player_id": 23763,
@@ -7142,7 +7142,7 @@
     {
       "cbs_player_id": "29128702",
       "player_bye_week": "8",
-      "player_ecr_delta": 10,
+      "player_ecr_delta": null,
       "player_eligibility": "DL,LB",
       "player_filename": "arvell-reese.php",
       "player_id": 28053,
@@ -7165,7 +7165,7 @@
     {
       "cbs_player_id": "3176952",
       "player_bye_week": "7",
-      "player_ecr_delta": -7,
+      "player_ecr_delta": -5,
       "player_eligibility": "LB,DE",
       "player_filename": "tuli-tuipulotu.php",
       "player_id": 25364,
@@ -7256,7 +7256,7 @@
     {
       "cbs_player_id": "3138203",
       "player_bye_week": "11",
-      "player_ecr_delta": -7,
+      "player_ecr_delta": -8,
       "player_eligibility": "DE,LB",
       "player_filename": "jared-verse.php",
       "player_id": 25234,
@@ -7392,7 +7392,7 @@
     {
       "cbs_player_id": "28890311",
       "player_bye_week": "8",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": -5,
       "player_eligibility": "DE,LB",
       "player_filename": "abdul-carter.php",
       "player_id": 27022,
@@ -8706,7 +8706,7 @@
     {
       "cbs_player_id": "2141772",
       "player_bye_week": "10",
-      "player_ecr_delta": 4,
+      "player_ecr_delta": 5,
       "player_eligibility": "DE",
       "player_filename": "montez-sweat.php",
       "player_id": 18213,
@@ -9270,7 +9270,7 @@
     {
       "cbs_player_id": "2829229",
       "player_bye_week": "8",
-      "player_ecr_delta": 5,
+      "player_ecr_delta": 6,
       "player_eligibility": "DE",
       "player_filename": "chase-young.php",
       "player_id": 19195,
@@ -9613,7 +9613,7 @@
     {
       "cbs_player_id": "3122891",
       "player_bye_week": "5",
-      "player_ecr_delta": 7,
+      "player_ecr_delta": 6,
       "player_eligibility": "DE",
       "player_filename": "george-karlaftis-iii.php",
       "player_id": 23501,
@@ -9728,7 +9728,7 @@
     {
       "cbs_player_id": "2966977",
       "player_bye_week": "7",
-      "player_ecr_delta": 7,
+      "player_ecr_delta": 6,
       "player_eligibility": "DE,LB",
       "player_filename": "gregory-rousseau.php",
       "player_id": 19787,
@@ -11176,7 +11176,7 @@
     {
       "cbs_player_id": "1243804",
       "player_bye_week": "9",
-      "player_ecr_delta": -4,
+      "player_ecr_delta": null,
       "player_eligibility": "DT,DE",
       "player_filename": "cameron-heyward.php",
       "player_id": 9862,
@@ -12893,7 +12893,7 @@
     {
       "cbs_player_id": "2967242",
       "player_bye_week": "6",
-      "player_ecr_delta": 6,
+      "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "jalen-redmond.php",
       "player_id": 25777,
@@ -12960,7 +12960,7 @@
     {
       "cbs_player_id": "3123351",
       "player_bye_week": "11",
-      "player_ecr_delta": -9,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "zach-harrison.php",
       "player_id": 23485,
@@ -13227,7 +13227,7 @@
     {
       "cbs_player_id": "3168791",
       "player_bye_week": "13",
-      "player_ecr_delta": 26,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "tavius-robinson.php",
       "player_id": 25478,
@@ -13651,7 +13651,7 @@
     {
       "cbs_player_id": "2140474",
       "player_bye_week": "9",
-      "player_ecr_delta": 10,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "john-franklin-meyers.php",
       "player_id": 17623,
@@ -13743,7 +13743,7 @@
     {
       "cbs_player_id": "2082709",
       "player_bye_week": "6",
-      "player_ecr_delta": -11,
+      "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "jonathan-allen.php",
       "player_id": 16371,
@@ -13901,7 +13901,7 @@
     {
       "cbs_player_id": "1272992",
       "player_bye_week": "8",
-      "player_ecr_delta": 23,
+      "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "cameron-jordan.php",
       "player_id": 9886,
@@ -13968,7 +13968,7 @@
     {
       "cbs_player_id": "28923687",
       "player_bye_week": "14",
-      "player_ecr_delta": -21,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "walter-nolen.php",
       "player_id": 27030,
@@ -14014,7 +14014,7 @@
     {
       "cbs_player_id": "3127467",
       "player_bye_week": "11",
-      "player_ecr_delta": -14,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "brandon-dorlus.php",
       "player_id": 26184,
@@ -14532,7 +14532,7 @@
     {
       "cbs_player_id": "3175397",
       "player_bye_week": "10",
-      "player_ecr_delta": -14,
+      "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "gervon-dexter-sr.php",
       "player_id": 25246,
@@ -14555,7 +14555,7 @@
     {
       "cbs_player_id": "2181068",
       "player_bye_week": "8",
-      "player_ecr_delta": -5,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "carl-granderson.php",
       "player_id": 18295,
@@ -14623,7 +14623,7 @@
     {
       "cbs_player_id": "2179816",
       "player_bye_week": "11",
-      "player_ecr_delta": -15,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "dremont-jones.php",
       "player_id": 18212,
@@ -14668,7 +14668,7 @@
     {
       "cbs_player_id": "2186325",
       "player_bye_week": "7",
-      "player_ecr_delta": -18,
+      "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "daron-payne.php",
       "player_id": 17281,
@@ -14735,7 +14735,7 @@
     {
       "cbs_player_id": "3163208",
       "player_bye_week": "11",
-      "player_ecr_delta": 10,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "lukas-van-ness.php",
       "player_id": 25291,
@@ -15008,7 +15008,7 @@
     {
       "cbs_player_id": "2180628",
       "player_bye_week": "13",
-      "player_ecr_delta": 11,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "arden-key.php",
       "player_id": 17279,
@@ -15053,7 +15053,7 @@
     {
       "cbs_player_id": "2804551",
       "player_bye_week": "7",
-      "player_ecr_delta": -27,
+      "player_ecr_delta": null,
       "player_eligibility": "LB,DE",
       "player_filename": "klavon-chaisson.php",
       "player_id": 19228,
@@ -15099,7 +15099,7 @@
     {
       "cbs_player_id": "2962062",
       "player_bye_week": "13",
-      "player_ecr_delta": -15,
+      "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "joseph-ossai.php",
       "player_id": 22696,
@@ -16951,7 +16951,7 @@
     {
       "cbs_player_id": "26701231",
       "player_bye_week": "14",
-      "player_ecr_delta": -8,
+      "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "donovan-ezeiruaku.php",
       "player_id": 27033,

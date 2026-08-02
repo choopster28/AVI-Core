@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-08-01
+- Last updated from Sleeper exports: 2026-08-02
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 12
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 626.7
-- championship_lineup_c_avi_avg: 78.34
-- offensive_roster_c_avi_sum: 725.7
-- offensive_roster_c_avi_avg: 72.57
-- offensive_roster_d_avi_sum: 825.3
-- offensive_roster_d_avi_avg: 82.53
+- championship_lineup_c_avi_sum: 626.8
+- championship_lineup_c_avi_avg: 78.35
+- offensive_roster_c_avi_sum: 731.1
+- offensive_roster_c_avi_avg: 73.11
+- offensive_roster_d_avi_sum: 825.1
+- offensive_roster_d_avi_avg: 82.51
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Brock Purdy | C-AVI: 76.5 | D-AVI: 80.9
-- RB: Aaron Jones | C-AVI: 56.3 | D-AVI: 72.3
-- RB: Zach Charbonnet | C-AVI: 51.9 | D-AVI: 77.9
-- WR: Jaxon Smith-Njigba | C-AVI: 99.0 | D-AVI: 99.3
+- QB: Brock Purdy | C-AVI: 76.4 | D-AVI: 80.6
+- RB: Aaron Jones | C-AVI: 56.7 | D-AVI: 72.3
+- RB: Zach Charbonnet | C-AVI: 51.8 | D-AVI: 77.9
+- WR: Jaxon Smith-Njigba | C-AVI: 99.1 | D-AVI: 99.5
 - WR: Amon-Ra St. Brown | C-AVI: 98.6 | D-AVI: 98.9
 - TE: Tucker Kraft | C-AVI: 81.2 | D-AVI: 88.0
-- FLEX: Tee Higgins | C-AVI: 82.1 | D-AVI: 90.1
+- FLEX: Tee Higgins | C-AVI: 81.9 | D-AVI: 89.7
 - FLEX: Dallas Goedert | C-AVI: 81.1 | D-AVI: 81.2
 
 ## Current Roster — All Player Cards
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 76.5
-- Dynasty AVI (D-AVI, 0-100): 80.9
+- Championship AVI (C-AVI, 0-100): 76.4
+- Dynasty AVI (D-AVI, 0-100): 80.6
 - Projected PPR points: 306.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -70,7 +70,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 56.3
+- Championship AVI (C-AVI, 0-100): 56.7
 - Dynasty AVI (D-AVI, 0-100): 72.3
 - Projected PPR points: 168.0
 - Category: offense
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 51.9
+- Championship AVI (C-AVI, 0-100): 51.8
 - Dynasty AVI (D-AVI, 0-100): 77.9
 - Projected PPR points: 123.0
 - Category: offense
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 99.0
-- Dynasty AVI (D-AVI, 0-100): 99.3
+- Championship AVI (C-AVI, 0-100): 99.1
+- Dynasty AVI (D-AVI, 0-100): 99.5
 - Projected PPR points: 324.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 82.1
-- Dynasty AVI (D-AVI, 0-100): 90.1
+- Championship AVI (C-AVI, 0-100): 81.9
+- Dynasty AVI (D-AVI, 0-100): 89.7
 - Projected PPR points: 221.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -172,9 +172,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 51.1
-- Dynasty AVI (D-AVI, 0-100): 67.2
-- Projected PPR points: 159.6
+- Championship AVI (C-AVI, 0-100): 56.4
+- Dynasty AVI (D-AVI, 0-100): 67.5
+- Projected PPR points: 174.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

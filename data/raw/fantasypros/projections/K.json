@@ -9,7 +9,7 @@
       "position_id": "K",
       "stats": {
         "fg": 35.16,
-        "fga": 39.88,
+        "fga": 39.55,
         "points": 152.98,
         "points_half": 152.98,
         "points_ppr": 152.98,
@@ -34,22 +34,6 @@
       "team_id": "SEA"
     },
     {
-      "filename": "kaimi-fairbairn.php",
-      "fpid": 15756,
-      "mflid": 12860,
-      "name": "Ka'imi Fairbairn",
-      "position_id": "K",
-      "stats": {
-        "fg": 36.3,
-        "fga": 40.46,
-        "points": 144.46,
-        "points_half": 144.46,
-        "points_ppr": 144.46,
-        "xpt": 35.56
-      },
-      "team_id": "HOU"
-    },
-    {
       "filename": "cameron-dicker.php",
       "fpid": 23901,
       "mflid": 15979,
@@ -64,6 +48,22 @@
         "xpt": 40.17
       },
       "team_id": "LAC"
+    },
+    {
+      "filename": "kaimi-fairbairn.php",
+      "fpid": 15756,
+      "mflid": 12860,
+      "name": "Ka'imi Fairbairn",
+      "position_id": "K",
+      "stats": {
+        "fg": 36.3,
+        "fga": 40.46,
+        "points": 143.96,
+        "points_half": 143.96,
+        "points_ppr": 143.96,
+        "xpt": 35.06
+      },
+      "team_id": "HOU"
     },
     {
       "filename": "harrison-mevis.php",
@@ -105,7 +105,7 @@
       "position_id": "K",
       "stats": {
         "fg": 31.52,
-        "fga": 36.49,
+        "fga": 36.16,
         "points": 132.94,
         "points_half": 132.94,
         "points_ppr": 132.94,
@@ -154,10 +154,10 @@
       "stats": {
         "fg": 28.43,
         "fga": 32.48,
-        "points": 132,
-        "points_half": 132,
-        "points_ppr": 132,
-        "xpt": 46.72
+        "points": 132.5,
+        "points_half": 132.5,
+        "points_ppr": 132.5,
+        "xpt": 47.22
       },
       "team_id": "BAL"
     },
@@ -233,7 +233,7 @@
       "position_id": "K",
       "stats": {
         "fg": 30.01,
-        "fga": 32.82,
+        "fga": 32.48,
         "points": 128.61,
         "points_half": 128.61,
         "points_ppr": 128.61,
@@ -361,7 +361,7 @@
       "position_id": "K",
       "stats": {
         "fg": 28.12,
-        "fga": 32.37,
+        "fga": 32.03,
         "points": 118.24,
         "points_half": 118.24,
         "points_ppr": 118.24,

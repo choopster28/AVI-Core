@@ -99,15 +99,6 @@
     "sleeper_id": "2216"
   },
   {
-    "confidence": "review",
-    "fantasypros_id": "12122",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Brandin Cooks",
-    "position": "WR",
-    "sleeper_id": "2197"
-  },
-  {
     "confidence": "verified",
     "fantasypros_id": "12123",
     "match_method": "exact_name_position_unique",
@@ -241,15 +232,6 @@
     "player_name": "Hunter Henry",
     "position": "TE",
     "sleeper_id": "3214"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "15569",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Sterling Shepard",
-    "position": "WR",
-    "sleeper_id": "3200"
   },
   {
     "confidence": "verified",
@@ -430,15 +412,6 @@
     "player_name": "Cooper Kupp",
     "position": "WR",
     "sleeper_id": "4039"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "16439",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Josh Reynolds",
-    "position": "WR",
-    "sleeper_id": "4171"
   },
   {
     "confidence": "verified",
@@ -892,21 +865,21 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "18566",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "TB",
+    "player_name": "David Sills V",
+    "position": "WR",
+    "sleeper_id": "6154"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "18585",
     "match_method": "exact_name_position_unique",
     "nfl_team": "DET",
     "player_name": "Greg Dortch",
     "position": "WR",
     "sleeper_id": "5970"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "18590",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DEN",
-    "player_name": "Lil'Jordan Humphrey",
-    "position": "WR",
-    "sleeper_id": "5938"
   },
   {
     "confidence": "verified",
@@ -925,15 +898,6 @@
     "player_name": "Kyler Murray",
     "position": "QB",
     "sleeper_id": "5849"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "18615",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Diontae Johnson",
-    "position": "WR",
-    "sleeper_id": "5937"
   },
   {
     "confidence": "review",
@@ -1402,15 +1366,6 @@
     "player_name": "Dyami Brown",
     "position": "WR",
     "sleeper_id": "7587"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "20114",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "PHI",
-    "player_name": "Elijah Moore",
-    "position": "WR",
-    "sleeper_id": "7596"
   },
   {
     "confidence": "verified",
@@ -2656,6 +2611,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "24839",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CIN",
+    "player_name": "Kendric Pryor",
+    "position": "WR",
+    "sleeper_id": "8783"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "25247",
     "match_method": "exact_name_position_unique",
     "nfl_team": "BUF",
@@ -3349,15 +3313,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "26214",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "SF",
-    "player_name": "Ricky Pearsall",
-    "position": "WR",
-    "sleeper_id": "11638"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "26215",
     "match_method": "exact_name_position_unique",
     "nfl_team": "LAC",
@@ -3472,6 +3427,15 @@
     "player_name": "Devaughn Vele",
     "position": "WR",
     "sleeper_id": "11834"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "26423",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "MIN",
+    "player_name": "Jeshaun Jones",
+    "position": "WR",
+    "sleeper_id": "11911"
   },
   {
     "confidence": "verified",
@@ -3898,6 +3862,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "27486",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SF",
+    "player_name": "Jordan Watkins",
+    "position": "WR",
+    "sleeper_id": "12634"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "27487",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NE",
@@ -3922,6 +3895,15 @@
     "player_name": "Tyler Loop",
     "position": "K",
     "sleeper_id": "12711"
+  },
+  {
+    "confidence": "review",
+    "fantasypros_id": "27705",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Jakobie Keeney-James",
+    "position": "WR",
+    "sleeper_id": "12935"
   },
   {
     "confidence": "verified",
