@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 563.1
-- championship_lineup_c_avi_avg: 70.39
-- offensive_roster_c_avi_sum: 782.8
-- offensive_roster_c_avi_avg: 60.22
-- offensive_roster_d_avi_sum: 997.9
-- offensive_roster_d_avi_avg: 76.76
+- championship_lineup_c_avi_sum: 563.2
+- championship_lineup_c_avi_avg: 70.40
+- offensive_roster_c_avi_sum: 782.4
+- offensive_roster_c_avi_avg: 60.18
+- offensive_roster_d_avi_sum: 997.6
+- offensive_roster_d_avi_avg: 76.74
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: C.J. Stroud | C-AVI: 48.1 | D-AVI: 69.0
-- RB: Ashton Jeanty | C-AVI: 97.1 | D-AVI: 97.2
-- RB: Jaylen Warren | C-AVI: 68.5 | D-AVI: 82.5
+- RB: Ashton Jeanty | C-AVI: 97.0 | D-AVI: 97.2
+- RB: Jaylen Warren | C-AVI: 68.4 | D-AVI: 82.5
 - WR: Rome Odunze | C-AVI: 77.6 | D-AVI: 88.5
-- WR: Michael Wilson | C-AVI: 64.2 | D-AVI: 82.2
-- TE: Sam LaPorta | C-AVI: 86.6 | D-AVI: 88.2
-- FLEX: Hunter Henry | C-AVI: 62.0 | D-AVI: 74.2
+- WR: Michael Wilson | C-AVI: 64.1 | D-AVI: 82.2
+- TE: Sam LaPorta | C-AVI: 86.8 | D-AVI: 88.2
+- FLEX: Hunter Henry | C-AVI: 62.2 | D-AVI: 74.2
 - FLEX: Makai Lemon | C-AVI: 59.0 | D-AVI: 85.7
 
 ## Current Roster — All Player Cards
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 97.1
+- Championship AVI (C-AVI, 0-100): 97.0
 - Dynasty AVI (D-AVI, 0-100): 97.2
 - Projected PPR points: 276.8
 - Category: offense
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 68.5
+- Championship AVI (C-AVI, 0-100): 68.4
 - Dynasty AVI (D-AVI, 0-100): 82.5
 - Projected PPR points: 192.6
 - Category: offense
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 52.1
-- Dynasty AVI (D-AVI, 0-100): 73.1
+- Championship AVI (C-AVI, 0-100): 51.8
+- Dynasty AVI (D-AVI, 0-100): 73.0
 - Projected PPR points: 138.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 64.2
+- Championship AVI (C-AVI, 0-100): 64.1
 - Dynasty AVI (D-AVI, 0-100): 82.2
 - Projected PPR points: 176.6
 - Category: offense
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 47.5
-- Dynasty AVI (D-AVI, 0-100): 63.9
+- Championship AVI (C-AVI, 0-100): 47.4
+- Dynasty AVI (D-AVI, 0-100): 63.7
 - Projected PPR points: 152.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 45.5
+- Championship AVI (C-AVI, 0-100): 45.4
 - Dynasty AVI (D-AVI, 0-100): 66.2
 - Projected PPR points: 130.2
 - Category: offense
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 86.6
+- Championship AVI (C-AVI, 0-100): 86.8
 - Dynasty AVI (D-AVI, 0-100): 88.2
 - Projected PPR points: 183.1
 - Category: offense
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 62.0
+- Championship AVI (C-AVI, 0-100): 62.2
 - Dynasty AVI (D-AVI, 0-100): 74.2
 - Projected PPR points: 153.6
 - Category: offense

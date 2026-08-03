@@ -23,21 +23,21 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 738.5
 - championship_lineup_c_avi_avg: 92.31
-- offensive_roster_c_avi_sum: 1064.6
-- offensive_roster_c_avi_avg: 70.97
-- offensive_roster_d_avi_sum: 1220.0
-- offensive_roster_d_avi_avg: 81.33
+- offensive_roster_c_avi_sum: 1064.8
+- offensive_roster_c_avi_avg: 70.99
+- offensive_roster_d_avi_sum: 1220.8
+- offensive_roster_d_avi_avg: 81.39
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jaxson Dart | C-AVI: 82.9 | D-AVI: 82.7
 - RB: Omarion Hampton | C-AVI: 92.2 | D-AVI: 95.2
 - RB: Saquon Barkley | C-AVI: 92.0 | D-AVI: 92.3
-- WR: Rashee Rice | C-AVI: 95.9 | D-AVI: 93.3
+- WR: Rashee Rice | C-AVI: 96.0 | D-AVI: 93.3
 - WR: A.J. Brown | C-AVI: 94.0 | D-AVI: 93.6
 - TE: Trey McBride | C-AVI: 99.5 | D-AVI: 93.4
 - FLEX: Nico Collins | C-AVI: 92.1 | D-AVI: 95.9
-- FLEX: Jeremiyah Love | C-AVI: 89.9 | D-AVI: 95.4
+- FLEX: Jeremiyah Love | C-AVI: 89.8 | D-AVI: 95.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 89.9
-- Dynasty AVI (D-AVI, 0-100): 95.4
+- Championship AVI (C-AVI, 0-100): 89.8
+- Dynasty AVI (D-AVI, 0-100): 95.3
 - Projected PPR points: 255.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -139,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 47.9
-- Dynasty AVI (D-AVI, 0-100): 72.6
+- Dynasty AVI (D-AVI, 0-100): 73.3
 - Projected PPR points: 95.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 42.9
-- Dynasty AVI (D-AVI, 0-100): 68.1
+- Championship AVI (C-AVI, 0-100): 42.6
+- Dynasty AVI (D-AVI, 0-100): 68.0
 - Projected PPR points: 67.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 95.9
+- Championship AVI (C-AVI, 0-100): 96.0
 - Dynasty AVI (D-AVI, 0-100): 93.3
 - Projected PPR points: 273.3
 - Category: offense
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 62.2
+- Championship AVI (C-AVI, 0-100): 62.1
 - Dynasty AVI (D-AVI, 0-100): 77.7
 - Projected PPR points: 175.4
 - Category: offense
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 52.0
-- Dynasty AVI (D-AVI, 0-100): 74.3
+- Championship AVI (C-AVI, 0-100): 52.1
+- Dynasty AVI (D-AVI, 0-100): 74.5
 - Projected PPR points: 153.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 34.5
+- Championship AVI (C-AVI, 0-100): 34.6
 - Dynasty AVI (D-AVI, 0-100): 55.7
 - Projected PPR points: 89.5
 - Category: offense
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 32.6
-- Dynasty AVI (D-AVI, 0-100): 58.2
+- Championship AVI (C-AVI, 0-100): 33.0
+- Dynasty AVI (D-AVI, 0-100): 58.3
 - Projected PPR points: 48.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

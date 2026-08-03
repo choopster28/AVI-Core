@@ -6703,10 +6703,10 @@
     "avi_id": "AVI-00007608",
     "canonical_name": "Khalil Herbert",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
-    "nfl_team": "FA",
+    "nfl_team": "SF",
     "normalized_name": "khalil herbert",
     "position": "RB",
     "source_ids": {

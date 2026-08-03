@@ -13,31 +13,31 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 16
+- total_players: 21
+- offense: 17
 - kickers: 1
 - idp: 3
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 527.0
-- championship_lineup_c_avi_avg: 65.88
-- offensive_roster_c_avi_sum: 830.7
-- offensive_roster_c_avi_avg: 51.92
-- offensive_roster_d_avi_sum: 1208.1
-- offensive_roster_d_avi_avg: 75.51
+- championship_lineup_c_avi_sum: 526.8
+- championship_lineup_c_avi_avg: 65.85
+- offensive_roster_c_avi_sum: 850.9
+- offensive_roster_c_avi_avg: 50.05
+- offensive_roster_d_avi_sum: 1257.2
+- offensive_roster_d_avi_avg: 73.95
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 71.2 | D-AVI: 84.4
-- RB: Quinshon Judkins | C-AVI: 76.2 | D-AVI: 89.3
-- RB: Rhamondre Stevenson | C-AVI: 64.6 | D-AVI: 79.9
-- WR: Quentin Johnston | C-AVI: 59.0 | D-AVI: 77.6
+- RB: Quinshon Judkins | C-AVI: 76.0 | D-AVI: 89.3
+- RB: Rhamondre Stevenson | C-AVI: 64.4 | D-AVI: 79.9
+- WR: Quentin Johnston | C-AVI: 59.2 | D-AVI: 78.2
 - WR: Denzel Boston | C-AVI: 48.8 | D-AVI: 76.6
 - TE: Colston Loveland | C-AVI: 98.0 | D-AVI: 92.6
-- FLEX: AJ Barner | C-AVI: 54.7 | D-AVI: 75.0
-- FLEX: Blake Corum | C-AVI: 54.5 | D-AVI: 78.8
+- FLEX: AJ Barner | C-AVI: 54.9 | D-AVI: 75.1
+- FLEX: Blake Corum | C-AVI: 54.3 | D-AVI: 78.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -70,7 +70,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 76.2
+- Championship AVI (C-AVI, 0-100): 76.0
 - Dynasty AVI (D-AVI, 0-100): 89.3
 - Projected PPR points: 213.6
 - Category: offense
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 64.6
+- Championship AVI (C-AVI, 0-100): 64.4
 - Dynasty AVI (D-AVI, 0-100): 79.9
 - Projected PPR points: 185.9
 - Category: offense
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 54.5
+- Championship AVI (C-AVI, 0-100): 54.3
 - Dynasty AVI (D-AVI, 0-100): 78.8
 - Projected PPR points: 138.6
 - Category: offense
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 59.0
-- Dynasty AVI (D-AVI, 0-100): 77.6
+- Championship AVI (C-AVI, 0-100): 59.2
+- Dynasty AVI (D-AVI, 0-100): 78.2
 - Projected PPR points: 169.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 40.8
-- Dynasty AVI (D-AVI, 0-100): 67.7
+- Championship AVI (C-AVI, 0-100): 40.7
+- Dynasty AVI (D-AVI, 0-100): 67.4
 - Projected PPR points: 94.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -246,6 +246,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Zavion Thomas
+- Player name: Zavion Thomas
+- Player ID: 13411
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CHI
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 19.7
+- Dynasty AVI (D-AVI, 0-100): 48.5
+- Projected PPR points: 34.9
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Colston Loveland
 - Player name: Colston Loveland
 - Player ID: 12517
@@ -274,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 54.7
-- Dynasty AVI (D-AVI, 0-100): 75.0
+- Championship AVI (C-AVI, 0-100): 54.9
+- Dynasty AVI (D-AVI, 0-100): 75.1
 - Projected PPR points: 124.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -291,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 42.6
-- Dynasty AVI (D-AVI, 0-100): 77.4
+- Championship AVI (C-AVI, 0-100): 43.5
+- Dynasty AVI (D-AVI, 0-100): 77.6
 - Projected PPR points: 53.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -308,7 +325,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 26.3
+- Championship AVI (C-AVI, 0-100): 26.2
 - Dynasty AVI (D-AVI, 0-100): 63.2
 - Projected PPR points: 19.8
 - Category: offense
