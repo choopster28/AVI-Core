@@ -15,18 +15,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00008172",
-      "c_avi": 54.9,
-      "d_avi": 71.2,
-      "nfl_team": "MIA",
-      "player_name": "Greg Dulcich",
-      "position": "TE",
-      "sleeper_id": "8172",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004066",
       "c_avi": 50.0,
       "d_avi": 64.8,
@@ -118,18 +106,6 @@
       "player_name": "Justice Hill",
       "position": "RB",
       "sleeper_id": "5995",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011610",
-      "c_avi": 41.7,
-      "d_avi": 62.7,
-      "nfl_team": "MIA",
-      "player_name": "Malik Washington",
-      "position": "WR",
-      "sleeper_id": "11610",
       "status": "Active"
     },
     {
@@ -562,6 +538,18 @@
       "player_name": "Charlie Kolar",
       "position": "TE",
       "sleeper_id": "8127",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00008698",
+      "c_avi": 33.0,
+      "d_avi": 58.3,
+      "nfl_team": "SF",
+      "player_name": "Jake Tonges",
+      "position": "TE",
+      "sleeper_id": "8698",
       "status": "Active"
     },
     {
@@ -2486,8 +2474,8 @@
     }
   ],
   "counts": {
-    "available_players": 207,
-    "rostered_players": 235
+    "available_players": 206,
+    "rostered_players": 236
   },
   "rostered_players": [
     {
@@ -3805,6 +3793,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00008172",
+      "c_avi": 54.9,
+      "d_avi": 71.2,
+      "nfl_team": "MIA",
+      "owner_id": "863881053000011776",
+      "player_name": "Greg Dulcich",
+      "position": "TE",
+      "roster_id": 9,
+      "sleeper_id": "8172",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00012502",
       "c_avi": 50.7,
       "d_avi": 70.8,
@@ -4041,22 +4045,6 @@
       "status": "Active",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00008698",
-      "c_avi": 33.0,
-      "d_avi": 58.3,
-      "nfl_team": "SF",
-      "owner_id": "863881053000011776",
-      "player_name": "Jake Tonges",
-      "position": "TE",
-      "roster_id": 9,
-      "sleeper_id": "8698",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -5001,6 +4989,22 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011610",
+      "c_avi": 41.7,
+      "d_avi": 62.7,
+      "nfl_team": "MIA",
+      "owner_id": "863881053000011776",
+      "player_name": "Malik Washington",
+      "position": "WR",
+      "roster_id": 9,
+      "sleeper_id": "11610",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,

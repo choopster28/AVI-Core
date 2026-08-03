@@ -660,6 +660,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
+## PLAYER LOOKUP: Greg Dulcich
+- Player name: Greg Dulcich
+- Player ID: 8172
+- Position: TE
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
 ## PLAYER LOOKUP: Gunnar Helm
 - Player name: Gunnar Helm
 - Player ID: 12502
@@ -779,14 +787,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
-
-## PLAYER LOOKUP: Jake Tonges
-- Player name: Jake Tonges
-- Player ID: 8698
-- Position: TE
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Jakobi Meyers
 - Player name: Jakobi Meyers
@@ -1259,6 +1259,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
+
+## PLAYER LOOKUP: Malik Washington
+- Player name: Malik Washington
+- Player ID: 11610
+- Position: WR
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Malik Willis
 - Player name: Malik Willis
@@ -1895,15 +1903,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 68.3
 - Availability: available
 
-## AVAILABLE PLAYER: Greg Dulcich
-- Player name: Greg Dulcich
-- Player ID: 8172
-- Position: TE
-- NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 54.9
-- Dynasty AVI (D-AVI, 0-100): 71.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Evan Engram
 - Player name: Evan Engram
 - Player ID: 4066
@@ -1974,15 +1973,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: BAL
 - Championship AVI (C-AVI, 0-100): 42.1
 - Dynasty AVI (D-AVI, 0-100): 55.1
-- Availability: available
-
-## AVAILABLE PLAYER: Malik Washington
-- Player name: Malik Washington
-- Player ID: 11610
-- Position: WR
-- NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 41.7
-- Dynasty AVI (D-AVI, 0-100): 62.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Ja'Tavion Sanders
@@ -2307,6 +2297,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LAC
 - Championship AVI (C-AVI, 0-100): 33.2
 - Dynasty AVI (D-AVI, 0-100): 52.6
+- Availability: available
+
+## AVAILABLE PLAYER: Jake Tonges
+- Player name: Jake Tonges
+- Player ID: 8698
+- Position: TE
+- NFL team: SF
+- Championship AVI (C-AVI, 0-100): 33.0
+- Dynasty AVI (D-AVI, 0-100): 58.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Noah Gray
