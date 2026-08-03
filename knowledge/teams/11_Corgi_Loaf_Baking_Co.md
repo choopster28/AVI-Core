@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: awang1900
 - Owner ID: 986498458162970624
 - Division: 3
-- Waiver position: 16
+- Waiver position: 13
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 13
-- offense: 13
-- kickers: 0
-- idp: 0
+- total_players: 20
+- offense: 16
+- kickers: 1
+- idp: 3
 - other: 0
-- keepers: 13
+- keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 662.6
 - championship_lineup_c_avi_avg: 82.83
-- offensive_roster_c_avi_sum: 906.0
-- offensive_roster_c_avi_avg: 69.69
-- offensive_roster_d_avi_sum: 1074.8
-- offensive_roster_d_avi_avg: 82.68
+- offensive_roster_c_avi_sum: 1007.8
+- offensive_roster_c_avi_avg: 62.99
+- offensive_roster_d_avi_sum: 1271.5
+- offensive_roster_d_avi_avg: 79.47
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -144,6 +144,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Emmett Johnson
+- Player name: Emmett Johnson
+- Player ID: 13337
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 36.0
+- Dynasty AVI (D-AVI, 0-100): 68.4
+- Projected PPR points: 34.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Kaleb Johnson
 - Player name: Kaleb Johnson
 - Player ID: 12504
@@ -246,6 +263,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Ja'Kobi Lane
+- Player name: Ja'Kobi Lane
+- Player ID: 13293
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: BAL
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 39.5
+- Dynasty AVI (D-AVI, 0-100): 64.5
+- Projected PPR points: 96.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Malachi Fields
+- Player name: Malachi Fields
+- Player ID: 13285
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 26.3
+- Dynasty AVI (D-AVI, 0-100): 63.8
+- Projected PPR points: 34.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Tyler Warren
 - Player name: Tyler Warren
 - Player ID: 12518
@@ -262,6 +313,74 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 201.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Eddy Pineiro
+- Player name: Eddy Pineiro
+- Player ID: 5189
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: SF
+- Active: True
+- Status: Active
+- Age: 30.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Jeffery Simmons
+- Player name: Jeffery Simmons
+- Player ID: 6125
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: DL
+- Fantasy positions: ['DL']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Arvell Reese
+- Player name: Arvell Reese
+- Player ID: 13377
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 20.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Xavier McKinney
+- Player name: Xavier McKinney
+- Player ID: 6788
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
 
 ## Current Draft Pick Assets
 - Draft-pick ownership will be attached by the automated draft-pick report generator.

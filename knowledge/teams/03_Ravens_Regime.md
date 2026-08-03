@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Mentomorii
 - Owner ID: 992908759074680832
 - Division: 3
-- Waiver position: 6
+- Waiver position: 9
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 13
-- offense: 10
+- total_players: 20
+- offense: 16
 - kickers: 1
-- idp: 2
+- idp: 3
 - other: 0
-- keepers: 13
+- keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 637.0
-- championship_lineup_c_avi_avg: 79.62
-- offensive_roster_c_avi_sum: 720.1
-- offensive_roster_c_avi_avg: 72.01
-- offensive_roster_d_avi_sum: 823.9
-- offensive_roster_d_avi_avg: 82.39
+- championship_lineup_c_avi_sum: 650.9
+- championship_lineup_c_avi_avg: 81.36
+- offensive_roster_c_avi_sum: 971.1
+- offensive_roster_c_avi_avg: 60.69
+- offensive_roster_d_avi_sum: 1264.6
+- offensive_roster_d_avi_avg: 79.04
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Jameson Williams | C-AVI: 80.0 | D-AVI: 88.5
 - TE: Kyle Pitts | C-AVI: 94.0 | D-AVI: 89.3
 - FLEX: Isaiah Likely | C-AVI: 72.7 | D-AVI: 82.3
-- FLEX: Romeo Doubs | C-AVI: 54.7 | D-AVI: 75.4
+- FLEX: Carnell Tate | C-AVI: 68.6 | D-AVI: 89.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -110,6 +110,57 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Demond Claiborne
+- Player name: Demond Claiborne
+- Player ID: 13347
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: MIN
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 29.5
+- Dynasty AVI (D-AVI, 0-100): 62.2
+- Projected PPR points: 23.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Nicholas Singleton
+- Player name: Nicholas Singleton
+- Player ID: 13288
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 29.3
+- Dynasty AVI (D-AVI, 0-100): 69.0
+- Projected PPR points: 19.7
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Kaytron Allen
+- Player name: Kaytron Allen
+- Player ID: 13405
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: WAS
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 28.7
+- Dynasty AVI (D-AVI, 0-100): 65.8
+- Projected PPR points: 21.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Zay Flowers
 - Player name: Zay Flowers
 - Player ID: 9997
@@ -144,6 +195,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Carnell Tate
+- Player name: Carnell Tate
+- Player ID: 13279
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 68.6
+- Dynasty AVI (D-AVI, 0-100): 89.8
+- Projected PPR points: 181.3
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Jordyn Tyson
+- Player name: Jordyn Tyson
+- Player ID: 13281
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NO
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 63.2
+- Dynasty AVI (D-AVI, 0-100): 86.8
+- Projected PPR points: 172.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Romeo Doubs
 - Player name: Romeo Doubs
 - Player ID: 8121
@@ -175,6 +260,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 38.3
 - Dynasty AVI (D-AVI, 0-100): 66.6
 - Projected PPR points: 85.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Elijah Sarratt
+- Player name: Elijah Sarratt
+- Player ID: 13268
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: BAL
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 31.7
+- Dynasty AVI (D-AVI, 0-100): 67.1
+- Projected PPR points: 59.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -240,6 +342,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Fred Warner
+- Player name: Fred Warner
+- Player ID: 5041
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: SF
+- Active: True
+- Status: Active
+- Age: 29.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Hofer51
 - Owner ID: 736994691492519936
 - Division: 4
-- Waiver position: 3
+- Waiver position: 5
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 12
-- offense: 10
-- kickers: 0
-- idp: 2
+- total_players: 20
+- offense: 13
+- kickers: 1
+- idp: 6
 - other: 0
-- keepers: 12
+- keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 626.8
 - championship_lineup_c_avi_avg: 78.35
-- offensive_roster_c_avi_sum: 731.1
-- offensive_roster_c_avi_avg: 73.11
-- offensive_roster_d_avi_sum: 825.1
-- offensive_roster_d_avi_avg: 82.51
+- offensive_roster_c_avi_sum: 858.3
+- offensive_roster_c_avi_avg: 66.02
+- offensive_roster_d_avi_sum: 1019.7
+- offensive_roster_d_avi_avg: 78.44
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -56,6 +56,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 76.4
 - Dynasty AVI (D-AVI, 0-100): 80.6
 - Projected PPR points: 306.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Bryce Young
+- Player name: Bryce Young
+- Player ID: 9228
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 45.3
+- Dynasty AVI (D-AVI, 0-100): 64.2
+- Projected PPR points: 248.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -178,6 +195,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Kayshon Boutte
+- Player name: Kayshon Boutte
+- Player ID: 9504
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NE
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 42.8
+- Dynasty AVI (D-AVI, 0-100): 66.4
+- Projected PPR points: 105.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Ryan Flournoy
+- Player name: Ryan Flournoy
+- Player ID: 11783
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: DAL
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 39.1
+- Dynasty AVI (D-AVI, 0-100): 64.0
+- Projected PPR points: 89.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Tucker Kraft
 - Player name: Tucker Kraft
 - Player ID: 9484
@@ -212,6 +263,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Tyler Loop
+- Player name: Tyler Loop
+- Player ID: 12711
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: BAL
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: Josh Hines-Allen
 - Player name: Josh Hines-Allen
 - Player ID: 5840
@@ -240,6 +308,74 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Edgerrin Cooper
+- Player name: Edgerrin Cooper
+- Player ID: 11687
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Zack Baun
+- Player name: Zack Baun
+- Player ID: 6815
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Derwin James
+- Player name: Derwin James
+- Player ID: 4971
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: LAC
+- Active: True
+- Status: Active
+- Age: 30.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Julian Love
+- Player name: Julian Love
+- Player ID: 5876
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: SEA
+- Active: True
+- Status: Active
+- Age: 28.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

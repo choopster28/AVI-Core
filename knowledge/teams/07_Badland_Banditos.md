@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: IcebergSlim69
 - Owner ID: 737531831641128960
 - Division: 3
-- Waiver position: 12
+- Waiver position: 7
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 13
-- offense: 12
-- kickers: 0
-- idp: 1
+- total_players: 20
+- offense: 16
+- kickers: 1
+- idp: 3
 - other: 0
-- keepers: 13
+- keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 617.5
 - championship_lineup_c_avi_avg: 77.19
-- offensive_roster_c_avi_sum: 800.1
-- offensive_roster_c_avi_avg: 66.67
-- offensive_roster_d_avi_sum: 955.2
-- offensive_roster_d_avi_avg: 79.60
+- offensive_roster_c_avi_sum: 897.4
+- offensive_roster_c_avi_avg: 56.09
+- offensive_roster_d_avi_sum: 1136.1
+- offensive_roster_d_avi_avg: 71.01
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -127,6 +127,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Sean Tucker
+- Player name: Sean Tucker
+- Player ID: 9506
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: TB
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 32.1
+- Dynasty AVI (D-AVI, 0-100): 61.3
+- Projected PPR points: 32.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Ja'Marr Chase
 - Player name: Ja'Marr Chase
 - Player ID: 7564
@@ -212,6 +229,57 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Cooper Kupp
+- Player name: Cooper Kupp
+- Player ID: 4039
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: SEA
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 42.4
+- Dynasty AVI (D-AVI, 0-100): 60.5
+- Projected PPR points: 125.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Kyle Williams
+- Player name: Kyle Williams
+- Player ID: 12547
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NE
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 22.8
+- Dynasty AVI (D-AVI, 0-100): 59.1
+- Projected PPR points: 22.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Keenan Allen
+- Player name: Keenan Allen
+- Player ID: 1479
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: None
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
+
 ### PLAYER: Brock Bowers
 - Player name: Brock Bowers
 - Player ID: 11604
@@ -246,6 +314,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Chase McLaughlin
+- Player name: Chase McLaughlin
+- Player ID: 6650
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: TB
+- Active: True
+- Status: Active
+- Age: 30.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Jordyn Brooks
+- Player name: Jordyn Brooks
+- Player ID: 6949
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: MIA
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: T.J. Watt
 - Player name: T.J. Watt
 - Player ID: 4070
@@ -257,6 +359,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Budda Baker
+- Player name: Budda Baker
+- Player ID: 4081
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: ARI
+- Active: True
+- Status: Active
+- Age: 30.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

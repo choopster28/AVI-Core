@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Choopski
 - Owner ID: 863881053000011776
 - Division: 1
-- Waiver position: 5
+- Waiver position: 3
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 15
-- offense: 13
+- total_players: 19
+- offense: 15
 - kickers: 1
-- idp: 1
+- idp: 3
 - other: 0
-- keepers: 15
+- keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 710.8
-- championship_lineup_c_avi_avg: 88.85
-- offensive_roster_c_avi_sum: 942.1
-- offensive_roster_c_avi_avg: 72.47
-- offensive_roster_d_avi_sum: 1066.4
-- offensive_roster_d_avi_avg: 82.03
+- championship_lineup_c_avi_sum: 738.5
+- championship_lineup_c_avi_avg: 92.31
+- offensive_roster_c_avi_sum: 1064.6
+- offensive_roster_c_avi_avg: 70.97
+- offensive_roster_d_avi_sum: 1220.0
+- offensive_roster_d_avi_avg: 81.33
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: A.J. Brown | C-AVI: 94.0 | D-AVI: 93.6
 - TE: Trey McBride | C-AVI: 99.5 | D-AVI: 93.4
 - FLEX: Nico Collins | C-AVI: 92.1 | D-AVI: 95.9
-- FLEX: Chris Godwin | C-AVI: 62.2 | D-AVI: 77.7
+- FLEX: Jeremiyah Love | C-AVI: 89.9 | D-AVI: 95.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -107,6 +107,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 92.0
 - Dynasty AVI (D-AVI, 0-100): 92.3
 - Projected PPR points: 265.9
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Jeremiyah Love
+- Player name: Jeremiyah Love
+- Player ID: 13287
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: ARI
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 89.9
+- Dynasty AVI (D-AVI, 0-100): 95.4
+- Projected PPR points: 255.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -263,6 +280,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Jake Tonges
+- Player name: Jake Tonges
+- Player ID: 8698
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: SF
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 32.6
+- Dynasty AVI (D-AVI, 0-100): 58.2
+- Projected PPR points: 48.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Cam Little
 - Player name: Cam Little
 - Player ID: 11786
@@ -280,6 +314,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
+### PLAYER: Danielle Hunter
+- Player name: Danielle Hunter
+- Player ID: 2393
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: DL
+- Fantasy positions: ['DL', 'LB']
+- NFL team: HOU
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: Jack Campbell
 - Player name: Jack Campbell
 - Player ID: 10880
@@ -291,6 +342,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Nick Cross
+- Player name: Nick Cross
+- Player ID: 8392
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: WAS
+- Active: True
+- Status: Active
+- Age: 24.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: TacticsNoob
 - Owner ID: 1129546394534158336
 - Division: 4
-- Waiver position: 8
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 14
-- offense: 11
-- kickers: 1
-- idp: 2
+- total_players: 20
+- offense: 14
+- kickers: 2
+- idp: 4
 - other: 0
-- keepers: 14
+- keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 584.1
 - championship_lineup_c_avi_avg: 73.01
-- offensive_roster_c_avi_sum: 663.8
-- offensive_roster_c_avi_avg: 60.35
-- offensive_roster_d_avi_sum: 772.6
-- offensive_roster_d_avi_avg: 70.24
+- offensive_roster_c_avi_sum: 820.9
+- offensive_roster_c_avi_avg: 58.64
+- offensive_roster_d_avi_sum: 1025.8
+- offensive_roster_d_avi_avg: 73.27
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -56,6 +56,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 96.0
 - Dynasty AVI (D-AVI, 0-100): 91.1
 - Projected PPR points: 324.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Aaron Rodgers
+- Player name: Aaron Rodgers
+- Player ID: 96
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: PIT
+- Active: True
+- Status: Active
+- Age: 42.0
+- Championship AVI (C-AVI, 0-100): 39.4
+- Dynasty AVI (D-AVI, 0-100): 56.6
+- Projected PPR points: 223.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -110,6 +127,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: James Conner
+- Player name: James Conner
+- Player ID: 4137
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: ARI
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 38.6
+- Dynasty AVI (D-AVI, 0-100): 60.9
+- Projected PPR points: 61.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Terry McLaurin
 - Player name: Terry McLaurin
 - Player ID: 5927
@@ -158,6 +192,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 48.6
 - Dynasty AVI (D-AVI, 0-100): 71.4
 - Projected PPR points: 134.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Antonio Williams
+- Player name: Antonio Williams
+- Player ID: 13301
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: WAS
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 47.6
+- Dynasty AVI (D-AVI, 0-100): 74.5
+- Projected PPR points: 125.7
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Marvin Mims
+- Player name: Marvin Mims
+- Player ID: 9494
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: DEN
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 31.5
+- Dynasty AVI (D-AVI, 0-100): 61.2
+- Projected PPR points: 66.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -212,22 +280,22 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Jonnu Smith
-- Player name: Jonnu Smith
-- Player ID: 4144
+### PLAYER: Harrison Mevis
+- Player name: Harrison Mevis
+- Player ID: 12015
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: None
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: LAR
 - Active: True
 - Status: Active
-- Age: 30.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
 
 ### PLAYER: Jake Bates
 - Player name: Jake Bates
@@ -274,6 +342,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 35.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Nik Bonitto
+- Player name: Nik Bonitto
+- Player ID: 8280
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: LB
+- Fantasy positions: ['DL', 'LB']
+- NFL team: DEN
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Brian Branch
+- Player name: Brian Branch
+- Player ID: 10905
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: DET
+- Active: True
+- Status: Active
+- Age: 24.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

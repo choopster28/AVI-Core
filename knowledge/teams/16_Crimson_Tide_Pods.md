@@ -8,31 +8,31 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: nickas
 - Owner ID: 471824466389757952
 - Division: 1
-- Waiver position: 9
+- Waiver position: 10
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 14
-- offense: 13
-- kickers: 0
-- idp: 1
+- total_players: 20
+- offense: 15
+- kickers: 1
+- idp: 4
 - other: 0
-- keepers: 12
+- keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 539.3
-- championship_lineup_c_avi_avg: 67.41
-- offensive_roster_c_avi_sum: 733.2
-- offensive_roster_c_avi_avg: 56.40
-- offensive_roster_d_avi_sum: 939.0
-- offensive_roster_d_avi_avg: 72.23
+- championship_lineup_c_avi_sum: 555.8
+- championship_lineup_c_avi_avg: 69.47
+- offensive_roster_c_avi_sum: 878.7
+- offensive_roster_c_avi_avg: 58.58
+- offensive_roster_d_avi_sum: 1158.1
+- offensive_roster_d_avi_avg: 77.21
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Justin Herbert | C-AVI: 71.5 | D-AVI: 83.0
+- RB: Jadarian Price | C-AVI: 67.2 | D-AVI: 84.6
 - RB: Chuba Hubbard | C-AVI: 65.0 | D-AVI: 80.4
-- RB: Tyjae Spears | C-AVI: 50.7 | D-AVI: 70.7
 - WR: DeVonta Smith | C-AVI: 87.7 | D-AVI: 93.1
 - WR: Alec Pierce | C-AVI: 74.9 | D-AVI: 86.1
 - TE: Oronde Gadsden | C-AVI: 55.7 | D-AVI: 79.2
@@ -56,6 +56,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 71.5
 - Dynasty AVI (D-AVI, 0-100): 83.0
 - Projected PPR points: 300.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Jadarian Price
+- Player name: Jadarian Price
+- Player ID: 13286
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: SEA
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 67.2
+- Dynasty AVI (D-AVI, 0-100): 84.6
+- Projected PPR points: 187.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -110,22 +127,22 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Joe Mixon
-- Player name: Joe Mixon
-- Player ID: 4018
+### PLAYER: Kimani Vidal
+- Player name: Kimani Vidal
+- Player ID: 11647
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: None
+- NFL team: LAC
 - Active: True
 - Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 39.3
+- Dynasty AVI (D-AVI, 0-100): 64.5
+- Projected PPR points: 61.0
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: DeVonta Smith
 - Player name: DeVonta Smith
@@ -195,23 +212,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Jerry Jeudy
-- Player name: Jerry Jeudy
-- Player ID: 6783
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CLE
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 49.2
-- Dynasty AVI (D-AVI, 0-100): 70.2
-- Projected PPR points: 144.3
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Travis Hunter
 - Player name: Travis Hunter
 - Player ID: 12530
@@ -226,6 +226,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 47.4
 - Dynasty AVI (D-AVI, 0-100): 74.1
 - Projected PPR points: 111.7
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: De'Zhaun Stribling
+- Player name: De'Zhaun Stribling
+- Player ID: 13417
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: SF
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 46.1
+- Dynasty AVI (D-AVI, 0-100): 71.7
+- Projected PPR points: 124.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Zachariah Branch
+- Player name: Zachariah Branch
+- Player ID: 13320
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: ATL
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 42.1
+- Dynasty AVI (D-AVI, 0-100): 68.5
+- Projected PPR points: 98.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -263,6 +297,57 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Tyler Bass
+- Player name: Tyler Bass
+- Player ID: 7042
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: BUF
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Rueben Bain
+- Player name: Rueben Bain
+- Player ID: 13340
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: DL
+- Fantasy positions: ['DL']
+- NFL team: TB
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Trey Hendrickson
+- Player name: Trey Hendrickson
+- Player ID: 4135
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: DL
+- Fantasy positions: ['DL']
+- NFL team: BAL
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: Carson Schwesinger
 - Player name: Carson Schwesinger
 - Player ID: 12578
@@ -274,6 +359,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Dillon Thieneman
+- Player name: Dillon Thieneman
+- Player ID: 13371
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: CHI
+- Active: True
+- Status: Active
+- Age: 21.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

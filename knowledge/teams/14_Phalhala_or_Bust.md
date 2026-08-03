@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: PIFYAF
 - Owner ID: 1132141719354535936
 - Division: 3
-- Waiver position: 4
+- Waiver position: 11
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 12
-- offense: 10
-- kickers: 0
-- idp: 2
+- total_players: 20
+- offense: 13
+- kickers: 1
+- idp: 6
 - other: 0
-- keepers: 12
+- keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 556.2
-- championship_lineup_c_avi_avg: 69.53
-- offensive_roster_c_avi_sum: 633.5
-- offensive_roster_c_avi_avg: 63.35
-- offensive_roster_d_avi_sum: 778.3
-- offensive_roster_d_avi_avg: 77.83
+- championship_lineup_c_avi_sum: 563.1
+- championship_lineup_c_avi_avg: 70.39
+- offensive_roster_c_avi_sum: 782.8
+- offensive_roster_c_avi_avg: 60.22
+- offensive_roster_d_avi_sum: 997.9
+- offensive_roster_d_avi_avg: 76.76
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Michael Wilson | C-AVI: 64.2 | D-AVI: 82.2
 - TE: Sam LaPorta | C-AVI: 86.6 | D-AVI: 88.2
 - FLEX: Hunter Henry | C-AVI: 62.0 | D-AVI: 74.2
-- FLEX: Jordan Mason | C-AVI: 52.1 | D-AVI: 73.1
+- FLEX: Makai Lemon | C-AVI: 59.0 | D-AVI: 85.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -56,6 +56,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 48.1
 - Dynasty AVI (D-AVI, 0-100): 69.0
 - Projected PPR points: 260.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Fernando Mendoza
+- Player name: Fernando Mendoza
+- Player ID: 13269
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: LV
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 42.8
+- Dynasty AVI (D-AVI, 0-100): 70.0
+- Projected PPR points: 192.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -161,6 +178,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Makai Lemon
+- Player name: Makai Lemon
+- Player ID: 13294
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 59.0
+- Dynasty AVI (D-AVI, 0-100): 85.7
+- Projected PPR points: 162.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Calvin Ridley
+- Player name: Calvin Ridley
+- Player ID: 4981
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 47.5
+- Dynasty AVI (D-AVI, 0-100): 63.9
+- Projected PPR points: 152.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Jalen Nailor
 - Player name: Jalen Nailor
 - Player ID: 8180
@@ -212,6 +263,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Harrison Butker
+- Player name: Harrison Butker
+- Player ID: 4227
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Akheem Mesidor
+- Player name: Akheem Mesidor
+- Player ID: 13341
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: DL
+- Fantasy positions: ['DL', 'LB']
+- NFL team: LAC
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: Jonathan Greenard
 - Player name: Jonathan Greenard
 - Player ID: 6900
@@ -229,6 +314,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
+### PLAYER: David Bailey
+- Player name: David Bailey
+- Player ID: 13363
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: LB
+- Fantasy positions: ['DL', 'LB']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: Roquan Smith
 - Player name: Roquan Smith
 - Player ID: 4960
@@ -240,6 +342,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: AJ Haulcy
+- Player name: AJ Haulcy
+- Player ID: 13384
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: IND
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Avieon Terrell
+- Player name: Avieon Terrell
+- Player ID: 13389
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: ATL
+- Active: True
+- Status: Active
+- Age: 21.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: AlexPete6800
 - Owner ID: 308805697879937024
 - Division: 2
-- Waiver position: 15
+- Waiver position: 1
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 14
-- offense: 14
-- kickers: 0
-- idp: 0
+- total_players: 20
+- offense: 16
+- kickers: 1
+- idp: 3
 - other: 0
-- keepers: 14
+- keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 660.8
 - championship_lineup_c_avi_avg: 82.60
-- offensive_roster_c_avi_sum: 826.5
-- offensive_roster_c_avi_avg: 68.88
-- offensive_roster_d_avi_sum: 927.3
-- offensive_roster_d_avi_avg: 77.27
+- offensive_roster_c_avi_sum: 906.0
+- offensive_roster_c_avi_avg: 64.71
+- offensive_roster_d_avi_sum: 1058.7
+- offensive_roster_d_avi_avg: 75.62
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -161,6 +161,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Brian Robinson
+- Player name: Brian Robinson
+- Player ID: 8154
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: ATL
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 44.5
+- Dynasty AVI (D-AVI, 0-100): 66.0
+- Projected PPR points: 93.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: CeeDee Lamb
 - Player name: CeeDee Lamb
 - Player ID: 6786
@@ -209,6 +226,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 62.2
 - Dynasty AVI (D-AVI, 0-100): 81.0
 - Projected PPR points: 174.3
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Chimere Dike
+- Player name: Chimere Dike
+- Player ID: 12540
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 35.0
+- Dynasty AVI (D-AVI, 0-100): 65.4
+- Projected PPR points: 74.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -279,6 +313,74 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 159.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Chris Boswell
+- Player name: Chris Boswell
+- Player ID: 1945
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: PIT
+- Active: True
+- Status: Active
+- Age: 35.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Nick Bolton
+- Player name: Nick Bolton
+- Player ID: 7648
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Rashan Gary
+- Player name: Rashan Gary
+- Player ID: 5839
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: LB
+- Fantasy positions: ['DL', 'LB']
+- NFL team: DAL
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Caleb Downs
+- Player name: Caleb Downs
+- Player ID: 13376
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: DAL
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
 
 ## Current Draft Pick Assets
 - Draft-pick ownership will be attached by the automated draft-pick report generator.

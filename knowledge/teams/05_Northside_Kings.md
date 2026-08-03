@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: srsmith95
 - Owner ID: 872351659366539264
 - Division: 1
-- Waiver position: 13
+- Waiver position: 15
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 16
-- offense: 15
-- kickers: 0
-- idp: 1
+- total_players: 20
+- offense: 16
+- kickers: 1
+- idp: 3
 - other: 0
-- keepers: 12
+- keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 493.9
-- championship_lineup_c_avi_avg: 61.74
-- offensive_roster_c_avi_sum: 750.0
-- offensive_roster_c_avi_avg: 50.00
-- offensive_roster_d_avi_sum: 1027.7
-- offensive_roster_d_avi_avg: 68.51
+- championship_lineup_c_avi_sum: 494.4
+- championship_lineup_c_avi_avg: 61.80
+- offensive_roster_c_avi_sum: 821.8
+- offensive_roster_c_avi_avg: 51.36
+- offensive_roster_d_avi_sum: 1129.6
+- offensive_roster_d_avi_avg: 70.60
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: RJ Harvey | C-AVI: 62.7 | D-AVI: 81.6
 - WR: Mike Evans | C-AVI: 72.9 | D-AVI: 82.4
 - WR: Jordan Addison | C-AVI: 60.0 | D-AVI: 82.4
-- TE: T.J. Hockenson | C-AVI: 57.7 | D-AVI: 73.7
+- TE: Kenyon Sadiq | C-AVI: 58.2 | D-AVI: 81.2
 - FLEX: Kenny Gainwell | C-AVI: 58.1 | D-AVI: 76.8
 - FLEX: Xavier Worthy | C-AVI: 57.9 | D-AVI: 78.2
 
@@ -127,20 +127,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Brian Robinson
-- Player name: Brian Robinson
-- Player ID: 8154
+### PLAYER: Mike Washington
+- Player name: Mike Washington
+- Player ID: 13305
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: ATL
+- NFL team: LV
 - Active: True
 - Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 44.5
-- Dynasty AVI (D-AVI, 0-100): 66.0
-- Projected PPR points: 93.1
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 43.1
+- Dynasty AVI (D-AVI, 0-100): 67.4
+- Projected PPR points: 77.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -158,6 +158,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 39.4
 - Dynasty AVI (D-AVI, 0-100): 63.9
 - Projected PPR points: 64.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Jonah Coleman
+- Player name: Jonah Coleman
+- Player ID: 13345
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: DEN
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 37.1
+- Dynasty AVI (D-AVI, 0-100): 73.1
+- Projected PPR points: 32.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -229,37 +246,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Malik Washington
-- Player name: Malik Washington
-- Player ID: 11610
+### PLAYER: Jerry Jeudy
+- Player name: Jerry Jeudy
+- Player ID: 6783
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: MIA
+- NFL team: CLE
 - Active: True
 - Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 41.5
-- Dynasty AVI (D-AVI, 0-100): 62.4
-- Projected PPR points: 107.0
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Keon Coleman
-- Player name: Keon Coleman
-- Player ID: 11637
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: BUF
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.8
-- Dynasty AVI (D-AVI, 0-100): 61.6
-- Projected PPR points: 59.1
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 49.2
+- Dynasty AVI (D-AVI, 0-100): 70.2
+- Projected PPR points: 144.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -280,6 +280,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
 
+### PLAYER: Kenyon Sadiq
+- Player name: Kenyon Sadiq
+- Player ID: 13330
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 58.2
+- Dynasty AVI (D-AVI, 0-100): 81.2
+- Projected PPR points: 130.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: T.J. Hockenson
 - Player name: T.J. Hockenson
 - Player ID: 5844
@@ -297,6 +314,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Will Reichard
+- Player name: Will Reichard
+- Player ID: 11792
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: MIN
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: Aidan Hutchinson
 - Player name: Aidan Hutchinson
 - Player ID: 8289
@@ -308,6 +342,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Jamien Sherwood
+- Player name: Jamien Sherwood
+- Player ID: 7841
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Chamarri Conner
+- Player name: Chamarri Conner
+- Player ID: 10949
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 26.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: FuzzyRaptor
 - Owner ID: 1178861684281753600
 - Division: 2
-- Waiver position: 1
+- Waiver position: 14
 - Last updated from Sleeper exports: 2026-08-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 11
-- offense: 10
+- total_players: 20
+- offense: 16
 - kickers: 1
-- idp: 0
+- idp: 3
 - other: 0
-- keepers: 11
+- keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 524.4
-- championship_lineup_c_avi_avg: 65.55
-- offensive_roster_c_avi_sum: 586.0
-- offensive_roster_c_avi_avg: 58.60
-- offensive_roster_d_avi_sum: 770.3
-- offensive_roster_d_avi_avg: 77.03
+- championship_lineup_c_avi_sum: 527.0
+- championship_lineup_c_avi_avg: 65.88
+- offensive_roster_c_avi_sum: 830.7
+- offensive_roster_c_avi_avg: 51.92
+- offensive_roster_d_avi_sum: 1208.1
+- offensive_roster_d_avi_avg: 75.51
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Quinshon Judkins | C-AVI: 76.2 | D-AVI: 89.3
 - RB: Rhamondre Stevenson | C-AVI: 64.6 | D-AVI: 79.9
 - WR: Quentin Johnston | C-AVI: 59.0 | D-AVI: 77.6
-- WR: Adonai Mitchell | C-AVI: 46.2 | D-AVI: 69.8
+- WR: Denzel Boston | C-AVI: 48.8 | D-AVI: 76.6
 - TE: Colston Loveland | C-AVI: 98.0 | D-AVI: 92.6
 - FLEX: AJ Barner | C-AVI: 54.7 | D-AVI: 75.0
 - FLEX: Blake Corum | C-AVI: 54.5 | D-AVI: 78.8
@@ -127,6 +127,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Denzel Boston
+- Player name: Denzel Boston
+- Player ID: 13346
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CLE
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 48.8
+- Dynasty AVI (D-AVI, 0-100): 76.6
+- Projected PPR points: 125.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Omar Cooper
+- Player name: Omar Cooper
+- Player ID: 13276
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 48.7
+- Dynasty AVI (D-AVI, 0-100): 79.2
+- Projected PPR points: 120.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Adonai Mitchell
 - Player name: Adonai Mitchell
 - Player ID: 11625
@@ -158,6 +192,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 40.8
 - Dynasty AVI (D-AVI, 0-100): 67.7
 - Projected PPR points: 94.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Chris Bell
+- Player name: Chris Bell
+- Player ID: 13311
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: MIA
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 39.6
+- Dynasty AVI (D-AVI, 0-100): 71.5
+- Projected PPR points: 88.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Ted Hurst
+- Player name: Ted Hurst
+- Player ID: 13317
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TB
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 38.7
+- Dynasty AVI (D-AVI, 0-100): 69.9
+- Projected PPR points: 82.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -212,6 +280,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Eli Stowers
+- Player name: Eli Stowers
+- Player ID: 13349
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 42.6
+- Dynasty AVI (D-AVI, 0-100): 77.4
+- Projected PPR points: 53.9
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Max Klare
+- Player name: Max Klare
+- Player ID: 13278
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: LAR
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 26.3
+- Dynasty AVI (D-AVI, 0-100): 63.2
+- Projected PPR points: 19.8
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Cameron Dicker
 - Player name: Cameron Dicker
 - Player ID: 8259
@@ -227,6 +329,57 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
 - Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Laiatu Latu
+- Player name: Laiatu Latu
+- Player ID: 11669
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: DL
+- Fantasy positions: ['DL']
+- NFL team: IND
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Anthony Hill
+- Player name: Anthony Hill
+- Player ID: 13365
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Tykee Smith
+- Player name: Tykee Smith
+- Player ID: 11705
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: TB
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
 ## Current Draft Pick Assets
