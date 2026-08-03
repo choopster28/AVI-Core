@@ -5,34 +5,34 @@
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:18:56.056791-06:00",
+  "reporting_period": "Week of August 2, 2026",
+  "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 659.50 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Cam Skattebo. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #4 of 16 with a 662.60 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 5,
+    "rank": 4,
     "league_size": 16,
-    "score": 659.5,
+    "score": 662.6,
     "team_above": {
-      "name": "SmokyValleyWheatWarriors",
-      "rank": 4,
-      "score": 661.4,
-      "gap": 1.8999999999999773
+      "name": "Mile High Royal Lions",
+      "rank": 3,
+      "score": 665.0,
+      "gap": 2.3999999999999773
     },
     "team_below": {
-      "name": "Ravens Regime",
-      "rank": 6,
-      "score": 636.9,
-      "gap": 22.600000000000023
+      "name": "SmokyValleyWheatWarriors",
+      "rank": 5,
+      "score": 660.8,
+      "gap": 1.8000000000000682
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 10,
+    "rank": 11,
     "league_size": 16,
-    "score": 1343.0,
-    "player_d_avi": 1075.7,
+    "score": 1538.8,
+    "player_d_avi": 1271.5,
     "future_pick_d_avi": 267.3,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Christian Watson's 70.2 C-AVI baseline; a replacement near 72.1 C-AVI would directly attack the 1.90-point projected gap to SmokyValleyWheatWarriors."
+    "Raise the FLEX slot above Christian Watson's 70.4 C-AVI baseline; a replacement near 72.8 C-AVI would directly attack the 2.40-point projected gap to Mile High Royal Lions."
   ],
   "rival_below": {
-    "franchise_name": "Ravens Regime",
-    "projected_rank": 6,
-    "projected_score": 636.9,
-    "latest_trade": {
-      "transaction_id": "1386987441226792960",
-      "created_at": "2026-07-26T06:08:04.271000+00:00",
-      "type": "trade",
-      "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime).",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "franchise_name": "SmokyValleyWheatWarriors",
+    "projected_rank": 5,
+    "projected_score": 660.8,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1386987441226792960",
-      "created_at": "2026-07-26T06:08:04.271000+00:00",
-      "type": "trade",
-      "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime).",
+      "transaction_id": "1357352399894749184",
+      "created_at": "2026-05-05T11:28:59.825000+00:00",
+      "type": "commissioner",
+      "summary": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime)."
+    "summary": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #5 of 16 at 659.50 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 661.40, a gap of 1.90. Ravens Regime is immediately behind at 636.90."
+      "body": "Projected #4 of 16 at 662.60 lineup C-AVI. Mile High Royal Lions is immediately above at 665.00, a gap of 2.40. SmokyValleyWheatWarriors is immediately behind at 660.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Justin Jefferson (97.3), Tyler Warren (97.2), and Cam Skattebo (84.3)."
+      "body": "The three highest C-AVI starters are Justin Jefferson (97.3), Tyler Warren (97.2), and Malik Nabers (87.0)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,25 +79,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Christian Watson's 70.2 C-AVI baseline; a replacement near 72.1 C-AVI would directly attack the 1.90-point projected gap to SmokyValleyWheatWarriors.",
+      "body": "Raise the FLEX slot above Christian Watson's 70.4 C-AVI baseline; a replacement near 72.8 C-AVI would directly attack the 2.40-point projected gap to Mile High Royal Lions.",
       "items": [
-        "Raise the FLEX slot above Christian Watson's 70.2 C-AVI baseline; a replacement near 72.1 C-AVI would directly attack the 1.90-point projected gap to SmokyValleyWheatWarriors."
+        "Raise the FLEX slot above Christian Watson's 70.4 C-AVI baseline; a replacement near 72.8 C-AVI would directly attack the 2.40-point projected gap to Mile High Royal Lions."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime)."
+      "body": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Christian Watson is the lowest C-AVI starter in the verified championship lineup at 70.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Christian Watson is the lowest C-AVI starter in the verified championship lineup at 70.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 13 offensive players in the current team file are marked Active."
+      "body": "All 16 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md"
     ],
-    "source_last_updated": "2026-07-29",
+    "source_last_updated": "2026-08-03",
     "external_sources_used": false,
     "conversation_context_used": false
   }

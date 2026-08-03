@@ -5,34 +5,34 @@
   "roster_id": 2,
   "owner_display_name": "FuzzyRaptor",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:18:56.056791-06:00",
+  "reporting_period": "Week of August 2, 2026",
+  "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Rapid Valley Annihilation: Preseason Front Office Brief",
-  "executive_summary": "Rapid Valley Annihilation is projected #14 of 16 with a 522.80 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the WR slot without weakening that core.",
+  "executive_summary": "Rapid Valley Annihilation is projected #15 of 16 with a 527.00 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
-    "rank": 14,
+    "rank": 15,
     "league_size": 16,
-    "score": 522.8,
+    "score": 527.0,
     "team_above": {
       "name": "Crimson Tide Pods",
-      "rank": 13,
-      "score": 538.4,
-      "gap": 15.600000000000023
+      "rank": 14,
+      "score": 555.8,
+      "gap": 28.799999999999955
     },
     "team_below": {
       "name": "Northside Kings",
-      "rank": 15,
-      "score": 490.3,
-      "gap": 32.49999999999994
+      "rank": 16,
+      "score": 494.4,
+      "gap": 32.60000000000002
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 2,
+    "rank": 1,
     "league_size": 16,
-    "score": 1566.0,
-    "player_d_avi": 770.8,
+    "score": 2003.3,
+    "player_d_avi": 1208.1,
     "future_pick_d_avi": 795.2,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the WR slot above Adonai Mitchell's 45.2 C-AVI baseline; a replacement near 60.8 C-AVI would directly attack the 15.60-point projected gap to Crimson Tide Pods."
+    "Raise the WR slot above Denzel Boston's 48.8 C-AVI baseline; a replacement near 77.6 C-AVI would directly attack the 28.80-point projected gap to Crimson Tide Pods."
   ],
   "rival_below": {
     "franchise_name": "Northside Kings",
-    "projected_rank": 15,
-    "projected_score": 490.3,
-    "latest_trade": {
-      "transaction_id": "1383224827728367616",
-      "created_at": "2026-07-15T20:56:47.307000+00:00",
-      "type": "trade",
-      "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_rank": 16,
+    "projected_score": 494.4,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1383224827728367616",
-      "created_at": "2026-07-15T20:56:47.307000+00:00",
-      "type": "trade",
-      "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
+      "transaction_id": "1389821096856928256",
+      "created_at": "2026-08-03T01:48:00.420000+00:00",
+      "type": "free_agent",
+      "summary": "On August 2, Northside Kings completed a free-agent move and added Chamarri Conner while dropped Kamari Ramsey.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
+    "summary": "On August 2, Northside Kings completed a free-agent move and added Chamarri Conner while dropped Kamari Ramsey."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 522.80 lineup C-AVI. Crimson Tide Pods is immediately above at 538.40, a gap of 15.60. Northside Kings is immediately behind at 490.30."
+      "body": "Projected #15 of 16 at 527.00 lineup C-AVI. Crimson Tide Pods is immediately above at 555.80, a gap of 28.80. Northside Kings is immediately behind at 494.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Colston Loveland (98.0), Quinshon Judkins (76.0), and Caleb Williams (70.7)."
+      "body": "The three highest C-AVI starters are Colston Loveland (98.0), Quinshon Judkins (76.2), and Caleb Williams (71.2)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,25 +79,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Adonai Mitchell's 45.2 C-AVI baseline; a replacement near 60.8 C-AVI would directly attack the 15.60-point projected gap to Crimson Tide Pods.",
+      "body": "Raise the WR slot above Denzel Boston's 48.8 C-AVI baseline; a replacement near 77.6 C-AVI would directly attack the 28.80-point projected gap to Crimson Tide Pods.",
       "items": [
-        "Raise the WR slot above Adonai Mitchell's 45.2 C-AVI baseline; a replacement near 60.8 C-AVI would directly attack the 15.60-point projected gap to Crimson Tide Pods."
+        "Raise the WR slot above Denzel Boston's 48.8 C-AVI baseline; a replacement near 77.6 C-AVI would directly attack the 28.80-point projected gap to Crimson Tide Pods."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
+      "body": "On August 2, Northside Kings completed a free-agent move and added Chamarri Conner while dropped Kamari Ramsey."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Adonai Mitchell is the lowest C-AVI starter in the verified championship lineup at 45.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Denzel Boston is the lowest C-AVI starter in the verified championship lineup at 48.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 10 offensive players in the current team file are marked Active."
+      "body": "All 16 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/02_Rapid_Valley_Annihilation.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/02_Rapid_Valley_Annihilation.md"
     ],
-    "source_last_updated": "2026-07-29",
+    "source_last_updated": "2026-08-03",
     "external_sources_used": false,
     "conversation_context_used": false
   }

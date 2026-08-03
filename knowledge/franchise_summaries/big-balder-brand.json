@@ -5,34 +5,29 @@
   "roster_id": 9,
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:18:56.056791-06:00",
+  "reporting_period": "Week of August 2, 2026",
+  "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
-  "executive_summary": "Big Balder Brand is projected #2 of 16 with a 709.90 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Big Balder Brand is projected #1 of 16 with a 738.50 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 2,
+    "rank": 1,
     "league_size": 16,
-    "score": 709.9,
-    "team_above": {
-      "name": "Conquistadors",
-      "rank": 1,
-      "score": 722.6,
-      "gap": 12.700000000000045
-    },
+    "score": 738.5,
+    "team_above": null,
     "team_below": {
-      "name": "Mile High Royal Lions",
-      "rank": 3,
-      "score": 666.6,
-      "gap": 43.299999999999955
+      "name": "Conquistadors",
+      "rank": 2,
+      "score": 723.4,
+      "gap": 15.100000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 6,
+    "rank": 10,
     "league_size": 16,
-    "score": 1411.2,
-    "player_d_avi": 1069.2,
+    "score": 1562.0,
+    "player_d_avi": 1220.0,
     "future_pick_d_avi": 342.0,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +39,32 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Chris Godwin's 62.2 C-AVI baseline; a replacement near 74.9 C-AVI would directly attack the 12.70-point projected gap to Conquistadors."
+    "Protect the league-leading projection and avoid replacing Jaxson Dart unless the incoming option clearly exceeds 82.9 C-AVI."
   ],
   "rival_below": {
-    "franchise_name": "Mile High Royal Lions",
-    "projected_rank": 3,
-    "projected_score": 666.6,
-    "latest_trade": {
-      "transaction_id": "1387942050321678336",
-      "created_at": "2026-07-28T21:21:20.815000+00:00",
-      "type": "trade",
-      "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "franchise_name": "Conquistadors",
+    "projected_rank": 2,
+    "projected_score": 723.4,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1387942050321678336",
-      "created_at": "2026-07-28T21:21:20.815000+00:00",
-      "type": "trade",
-      "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore.",
+      "transaction_id": "1389819984313589760",
+      "created_at": "2026-08-03T01:43:35.169000+00:00",
+      "type": "free_agent",
+      "summary": "On August 2, Conquistadors completed a free-agent move and added Skyler Bell.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore."
+    "summary": "On August 2, Conquistadors completed a free-agent move and added Skyler Bell."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #2 of 16 at 709.90 lineup C-AVI. Conquistadors is immediately above at 722.60, a gap of 12.70. Mile High Royal Lions is immediately behind at 666.60."
+      "body": "Projected #1 of 16 at 738.50 lineup C-AVI. Conquistadors is immediately behind at 723.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (95.6), and A.J. Brown (93.8)."
+      "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (95.9), and A.J. Brown (94.0)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,25 +74,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Chris Godwin's 62.2 C-AVI baseline; a replacement near 74.9 C-AVI would directly attack the 12.70-point projected gap to Conquistadors.",
+      "body": "Protect the league-leading projection and avoid replacing Jaxson Dart unless the incoming option clearly exceeds 82.9 C-AVI.",
       "items": [
-        "Raise the FLEX slot above Chris Godwin's 62.2 C-AVI baseline; a replacement near 74.9 C-AVI would directly attack the 12.70-point projected gap to Conquistadors."
+        "Protect the league-leading projection and avoid replacing Jaxson Dart unless the incoming option clearly exceeds 82.9 C-AVI."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore."
+      "body": "On August 2, Conquistadors completed a free-agent move and added Skyler Bell."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Chris Godwin is the lowest C-AVI starter in the verified championship lineup at 62.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Jaxson Dart is the lowest C-AVI starter in the verified championship lineup at 82.9. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 13 offensive players in the current team file are marked Active."
+      "body": "All 15 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",
@@ -114,10 +103,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/09_Big_Balder_Brand.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/09_Big_Balder_Brand.md"
     ],
-    "source_last_updated": "2026-07-29",
+    "source_last_updated": "2026-08-03",
     "external_sources_used": false,
     "conversation_context_used": false
   }

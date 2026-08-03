@@ -5,34 +5,34 @@
   "roster_id": 7,
   "owner_display_name": "IcebergSlim69",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:18:56.056791-06:00",
+  "reporting_period": "Week of August 2, 2026",
+  "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Badland Banditos: Preseason Front Office Brief",
-  "executive_summary": "Badland Banditos is projected #9 of 16 with a 618.20 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Badland Banditos is projected #9 of 16 with a 617.50 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 618.2,
+    "score": 617.5,
     "team_above": {
       "name": "All Hail King Jesus",
       "rank": 8,
-      "score": 625.4,
-      "gap": 7.199999999999932
+      "score": 626.8,
+      "gap": 9.299999999999955
     },
     "team_below": {
       "name": "DMV Fantasy",
       "rank": 10,
-      "score": 587.2,
-      "gap": 31.0
+      "score": 584.1,
+      "gap": 33.39999999999998
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 4,
     "league_size": 16,
-    "score": 1486.8,
-    "player_d_avi": 958.9,
+    "score": 1664.0,
+    "player_d_avi": 1136.1,
     "future_pick_d_avi": 527.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,33 +44,27 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 7.20-point projected gap to All Hail King Jesus."
+    "Raise the FLEX slot above Jayden Higgins's 51.7 C-AVI baseline; a replacement near 61.0 C-AVI would directly attack the 9.30-point projected gap to All Hail King Jesus."
   ],
   "rival_below": {
     "franchise_name": "DMV Fantasy",
     "projected_rank": 10,
-    "projected_score": 587.2,
-    "latest_trade": {
-      "transaction_id": "1386578462004772864",
-      "created_at": "2026-07-25T03:02:56.026000+00:00",
-      "type": "trade",
-      "summary": "On July 24, DMV Fantasy completed a trade with Big Balder Brand and acquired Breece Hall and sent Cam Little, Saquon Barkley.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_score": 584.1,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1386578462004772864",
-      "created_at": "2026-07-25T03:02:56.026000+00:00",
-      "type": "trade",
-      "summary": "On July 24, DMV Fantasy completed a trade with Big Balder Brand and acquired Breece Hall and sent Cam Little, Saquon Barkley.",
+      "transaction_id": "1389822504675061760",
+      "created_at": "2026-08-03T01:53:36.070000+00:00",
+      "type": "free_agent",
+      "summary": "On August 2, DMV Fantasy completed a free-agent move and dropped Jonnu Smith.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 24, DMV Fantasy completed a trade with Big Balder Brand and acquired Breece Hall and sent Cam Little, Saquon Barkley."
+    "summary": "On August 2, DMV Fantasy completed a free-agent move and dropped Jonnu Smith."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #9 of 16 at 618.20 lineup C-AVI. All Hail King Jesus is immediately above at 625.40, a gap of 7.20. DMV Fantasy is immediately behind at 587.20."
+      "body": "Projected #9 of 16 at 617.50 lineup C-AVI. All Hail King Jesus is immediately above at 626.80, a gap of 9.30. DMV Fantasy is immediately behind at 584.10."
     },
     {
       "id": "competitive-core",
@@ -85,25 +79,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 7.20-point projected gap to All Hail King Jesus.",
+      "body": "Raise the FLEX slot above Jayden Higgins's 51.7 C-AVI baseline; a replacement near 61.0 C-AVI would directly attack the 9.30-point projected gap to All Hail King Jesus.",
       "items": [
-        "Raise the FLEX slot above Jayden Higgins's 51.4 C-AVI baseline; a replacement near 58.6 C-AVI would directly attack the 7.20-point projected gap to All Hail King Jesus."
+        "Raise the FLEX slot above Jayden Higgins's 51.7 C-AVI baseline; a replacement near 61.0 C-AVI would directly attack the 9.30-point projected gap to All Hail King Jesus."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 24, DMV Fantasy completed a trade with Big Balder Brand and acquired Breece Hall and sent Cam Little, Saquon Barkley."
+      "body": "On August 2, DMV Fantasy completed a free-agent move and dropped Jonnu Smith."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 51.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 51.7. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 12 offensive players in the current team file are marked Active."
+      "body": "All 16 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/07_Badland_Banditos.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/07_Badland_Banditos.md"
     ],
-    "source_last_updated": "2026-07-29",
+    "source_last_updated": "2026-08-03",
     "external_sources_used": false,
     "conversation_context_used": false
   }

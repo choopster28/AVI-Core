@@ -5,34 +5,34 @@
   "roster_id": 8,
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:18:56.056791-06:00",
+  "reporting_period": "Week of August 2, 2026",
+  "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
-  "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 625.40 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 626.80 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 8,
     "league_size": 16,
-    "score": 625.4,
+    "score": 626.8,
     "team_above": {
       "name": "Southside Savages",
       "rank": 7,
-      "score": 626.1,
-      "gap": 0.7000000000000455
+      "score": 637.0,
+      "gap": 10.200000000000045
     },
     "team_below": {
       "name": "Badland Banditos",
       "rank": 9,
-      "score": 618.2,
-      "gap": 7.199999999999932
+      "score": 617.5,
+      "gap": 9.299999999999955
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 15,
+    "rank": 16,
     "league_size": 16,
-    "score": 1041.7,
-    "player_d_avi": 758.4,
+    "score": 1303.0,
+    "player_d_avi": 1019.7,
     "future_pick_d_avi": 283.3,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Zach Charbonnet's 52.0 C-AVI baseline; a replacement near 52.7 C-AVI would directly attack the 0.70-point projected gap to Southside Savages."
+    "Raise the RB slot above Zach Charbonnet's 51.8 C-AVI baseline; a replacement near 62.0 C-AVI would directly attack the 10.20-point projected gap to Southside Savages."
   ],
   "rival_below": {
     "franchise_name": "Badland Banditos",
     "projected_rank": 9,
-    "projected_score": 618.2,
+    "projected_score": 617.5,
     "latest_trade": {
       "transaction_id": "1375593798167461888",
       "created_at": "2026-06-24T19:33:48.082000+00:00",
@@ -70,12 +70,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #8 of 16 at 625.40 lineup C-AVI. Southside Savages is immediately above at 626.10, a gap of 0.70. Badland Banditos is immediately behind at 618.20."
+      "body": "Projected #8 of 16 at 626.80 lineup C-AVI. Southside Savages is immediately above at 637.00, a gap of 10.20. Badland Banditos is immediately behind at 617.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Amon-Ra St. Brown (98.6), and Tee Higgins (81.6)."
+      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Amon-Ra St. Brown (98.6), and Tee Higgins (81.9)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,9 +85,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Zach Charbonnet's 52.0 C-AVI baseline; a replacement near 52.7 C-AVI would directly attack the 0.70-point projected gap to Southside Savages.",
+      "body": "Raise the RB slot above Zach Charbonnet's 51.8 C-AVI baseline; a replacement near 62.0 C-AVI would directly attack the 10.20-point projected gap to Southside Savages.",
       "items": [
-        "Raise the RB slot above Zach Charbonnet's 52.0 C-AVI baseline; a replacement near 52.7 C-AVI would directly attack the 0.70-point projected gap to Southside Savages."
+        "Raise the RB slot above Zach Charbonnet's 51.8 C-AVI baseline; a replacement near 62.0 C-AVI would directly attack the 10.20-point projected gap to Southside Savages."
       ]
     },
     {
@@ -98,12 +98,12 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Zach Charbonnet is the lowest C-AVI starter in the verified championship lineup at 52.0. Any acquisition should clear that exact lineup threshold."
+      "body": "Zach Charbonnet is the lowest C-AVI starter in the verified championship lineup at 51.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 10 offensive players in the current team file are marked Active."
+      "body": "All 13 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",
@@ -117,7 +117,7 @@
       "AVI-Core/knowledge/teams/08_All_Hail_King_Jesus.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-29",
+    "source_last_updated": "2026-08-03",
     "external_sources_used": false,
     "conversation_context_used": false
   }

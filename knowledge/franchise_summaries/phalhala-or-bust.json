@@ -5,34 +5,34 @@
   "roster_id": 14,
   "owner_display_name": "PIFYAF",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:18:56.056791-06:00",
+  "reporting_period": "Week of August 2, 2026",
+  "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Phalhala or Bust: Preseason Front Office Brief",
-  "executive_summary": "Phalhala or Bust is projected #12 of 16 with a 553.10 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Phalhala or Bust is projected #13 of 16 with a 563.10 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 12,
+    "rank": 13,
     "league_size": 16,
-    "score": 553.1,
+    "score": 563.1,
     "team_above": {
       "name": "Gringo\u2019s Goblins",
-      "rank": 11,
-      "score": 564.6,
-      "gap": 11.5
+      "rank": 12,
+      "score": 566.2,
+      "gap": 3.1000000000000227
     },
     "team_below": {
       "name": "Crimson Tide Pods",
-      "rank": 13,
-      "score": 538.4,
-      "gap": 14.700000000000045
+      "rank": 14,
+      "score": 555.8,
+      "gap": 7.300000000000068
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 1259.7,
-    "player_d_avi": 779.1,
+    "score": 1478.5,
+    "player_d_avi": 997.9,
     "future_pick_d_avi": 480.6,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the QB slot above C.J. Stroud's 47.8 C-AVI baseline; a replacement near 59.3 C-AVI would directly attack the 11.50-point projected gap to Gringo\u2019s Goblins."
+    "Raise the QB slot above C.J. Stroud's 48.1 C-AVI baseline; a replacement near 53.4 C-AVI would directly attack the 3.10-point projected gap to Gringo\u2019s Goblins."
   ],
   "rival_below": {
     "franchise_name": "Crimson Tide Pods",
-    "projected_rank": 13,
-    "projected_score": 538.4,
-    "latest_trade": {
-      "transaction_id": "1386482894020542464",
-      "created_at": "2026-07-24T20:43:10.843000+00:00",
-      "type": "trade",
-      "summary": "On July 24, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) and sent 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus).",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_rank": 14,
+    "projected_score": 555.8,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1386482894020542464",
-      "created_at": "2026-07-24T20:43:10.843000+00:00",
-      "type": "trade",
-      "summary": "On July 24, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) and sent 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus).",
+      "transaction_id": "1389822192023269376",
+      "created_at": "2026-08-03T01:52:21.528000+00:00",
+      "type": "free_agent",
+      "summary": "On August 2, Crimson Tide Pods completed a free-agent move and added Tyler Bass.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 24, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) and sent 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus)."
+    "summary": "On August 2, Crimson Tide Pods completed a free-agent move and added Tyler Bass."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #12 of 16 at 553.10 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 564.60, a gap of 11.50. Crimson Tide Pods is immediately behind at 538.40."
+      "body": "Projected #13 of 16 at 563.10 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 566.20, a gap of 3.10. Crimson Tide Pods is immediately behind at 555.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ashton Jeanty (97.1), Sam LaPorta (85.8), and Rome Odunze (77.3)."
+      "body": "The three highest C-AVI starters are Ashton Jeanty (97.1), Sam LaPorta (86.6), and Rome Odunze (77.6)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,25 +79,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above C.J. Stroud's 47.8 C-AVI baseline; a replacement near 59.3 C-AVI would directly attack the 11.50-point projected gap to Gringo\u2019s Goblins.",
+      "body": "Raise the QB slot above C.J. Stroud's 48.1 C-AVI baseline; a replacement near 53.4 C-AVI would directly attack the 3.10-point projected gap to Gringo\u2019s Goblins.",
       "items": [
-        "Raise the QB slot above C.J. Stroud's 47.8 C-AVI baseline; a replacement near 59.3 C-AVI would directly attack the 11.50-point projected gap to Gringo\u2019s Goblins."
+        "Raise the QB slot above C.J. Stroud's 48.1 C-AVI baseline; a replacement near 53.4 C-AVI would directly attack the 3.10-point projected gap to Gringo\u2019s Goblins."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 24, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) and sent 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus)."
+      "body": "On August 2, Crimson Tide Pods completed a free-agent move and added Tyler Bass."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "C.J. Stroud is the lowest C-AVI starter in the verified championship lineup at 47.8. Any acquisition should clear that exact lineup threshold."
+      "body": "C.J. Stroud is the lowest C-AVI starter in the verified championship lineup at 48.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 10 offensive players in the current team file are marked Active."
+      "body": "All 13 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/14_Phalhala_or_Bust.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/14_Phalhala_or_Bust.md"
     ],
-    "source_last_updated": "2026-07-29",
+    "source_last_updated": "2026-08-03",
     "external_sources_used": false,
     "conversation_context_used": false
   }

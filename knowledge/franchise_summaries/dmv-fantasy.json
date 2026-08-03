@@ -5,34 +5,34 @@
   "roster_id": 12,
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:18:56.056791-06:00",
+  "reporting_period": "Week of August 2, 2026",
+  "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
-  "executive_summary": "DMV Fantasy is projected #10 of 16 with a 587.20 projected-starting-lineup C-AVI total, led by Jayden Daniels, Breece Hall, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "DMV Fantasy is projected #10 of 16 with a 584.10 projected-starting-lineup C-AVI total, led by Jayden Daniels, Breece Hall, and Terry McLaurin. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 10,
     "league_size": 16,
-    "score": 587.2,
+    "score": 584.1,
     "team_above": {
       "name": "Badland Banditos",
       "rank": 9,
-      "score": 618.2,
-      "gap": 31.0
+      "score": 617.5,
+      "gap": 33.39999999999998
     },
     "team_below": {
-      "name": "Gringo\u2019s Goblins",
+      "name": "Lightskin Legends \u270a\ud83c\udffd",
       "rank": 11,
-      "score": 564.6,
-      "gap": 22.600000000000023
+      "score": 584.1,
+      "gap": 0.0
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 9,
+    "rank": 7,
     "league_size": 16,
-    "score": 1367.4,
-    "player_d_avi": 779.5,
+    "score": 1613.7,
+    "player_d_avi": 1025.8,
     "future_pick_d_avi": 587.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.4 C-AVI would directly attack the 31.00-point projected gap to Badland Banditos."
+    "Raise the FLEX slot above Rachaad White's 57.0 C-AVI baseline; a replacement near 90.4 C-AVI would directly attack the 33.40-point projected gap to Badland Banditos."
   ],
   "rival_below": {
-    "franchise_name": "Gringo\u2019s Goblins",
+    "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
     "projected_rank": 11,
-    "projected_score": 564.6,
-    "latest_trade": {
-      "transaction_id": "1380604251050356736",
-      "created_at": "2026-07-08T15:23:33.139000+00:00",
-      "type": "trade",
-      "summary": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins).",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_score": 584.1,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1380604251050356736",
-      "created_at": "2026-07-08T15:23:33.139000+00:00",
-      "type": "trade",
-      "summary": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins).",
+      "transaction_id": "1350169112709431296",
+      "created_at": "2026-04-15T15:45:10.701000+00:00",
+      "type": "commissioner",
+      "summary": "On April 15, Lightskin Legends \u270a\ud83c\udffd completed a roster transaction and dropped Jack Campbell, Kobie Turner, Ryan Flournoy, Dalton Schultz, Jessie Bates, Marquez Valdes-Scantling, David Sills, Calvin Austin, Luke Musgrave, Kayshon Boutte.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins)."
+    "summary": "On April 15, Lightskin Legends \u270a\ud83c\udffd completed a roster transaction and dropped Jack Campbell, Kobie Turner, Ryan Flournoy, Dalton Schultz, Jessie Bates, Marquez Valdes-Scantling, David Sills, Calvin Austin, Luke Musgrave, Kayshon Boutte."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #10 of 16 at 587.20 lineup C-AVI. Badland Banditos is immediately above at 618.20, a gap of 31.00. Gringo\u2019s Goblins is immediately behind at 564.60."
+      "body": "Projected #10 of 16 at 584.10 lineup C-AVI. Badland Banditos is immediately above at 617.50, a gap of 33.40. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 584.10."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jayden Daniels (96.0), Breece Hall (88.2), and George Kittle (79.3)."
+      "body": "The three highest C-AVI starters are Jayden Daniels (96.0), Breece Hall (88.2), and Terry McLaurin (78.9)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,25 +79,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.4 C-AVI would directly attack the 31.00-point projected gap to Badland Banditos.",
+      "body": "Raise the FLEX slot above Rachaad White's 57.0 C-AVI baseline; a replacement near 90.4 C-AVI would directly attack the 33.40-point projected gap to Badland Banditos.",
       "items": [
-        "Raise the FLEX slot above Rachaad White's 57.4 C-AVI baseline; a replacement near 88.4 C-AVI would directly attack the 31.00-point projected gap to Badland Banditos."
+        "Raise the FLEX slot above Rachaad White's 57.0 C-AVI baseline; a replacement near 90.4 C-AVI would directly attack the 33.40-point projected gap to Badland Banditos."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins)."
+      "body": "On April 15, Lightskin Legends \u270a\ud83c\udffd completed a roster transaction and dropped Jack Campbell, Kobie Turner, Ryan Flournoy, Dalton Schultz, Jessie Bates, Marquez Valdes-Scantling, David Sills, Calvin Austin, Luke Musgrave, Kayshon Boutte."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Rachaad White is the lowest C-AVI starter in the verified championship lineup at 57.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Rachaad White is the lowest C-AVI starter in the verified championship lineup at 57.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 11 offensive players in the current team file are marked Active."
+      "body": "All 14 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/12_DMV_Fantasy.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/12_DMV_Fantasy.md"
     ],
-    "source_last_updated": "2026-07-29",
+    "source_last_updated": "2026-08-03",
     "external_sources_used": false,
     "conversation_context_used": false
   }

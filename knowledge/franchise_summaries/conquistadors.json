@@ -5,29 +5,34 @@
   "roster_id": 1,
   "owner_display_name": "Thecan",
   "season_phase": "preseason",
-  "reporting_period": "Week of July 29, 2026",
-  "generated_at": "2026-07-29T18:18:56.056791-06:00",
+  "reporting_period": "Week of August 2, 2026",
+  "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Conquistadors: Preseason Front Office Brief",
-  "executive_summary": "Conquistadors is projected #1 of 16 with a 722.60 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Conquistadors is projected #2 of 16 with a 723.40 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 1,
+    "rank": 2,
     "league_size": 16,
-    "score": 722.6,
-    "team_above": null,
-    "team_below": {
+    "score": 723.4,
+    "team_above": {
       "name": "Big Balder Brand",
-      "rank": 2,
-      "score": 709.9,
-      "gap": 12.700000000000045
+      "rank": 1,
+      "score": 738.5,
+      "gap": 15.100000000000023
+    },
+    "team_below": {
+      "name": "Mile High Royal Lions",
+      "rank": 3,
+      "score": 665.0,
+      "gap": 58.39999999999998
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 7,
+    "rank": 3,
     "league_size": 16,
-    "score": 1384.1,
-    "player_d_avi": 942.2,
+    "score": 1684.1,
+    "player_d_avi": 1242.2,
     "future_pick_d_avi": 441.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -39,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 63.2 C-AVI."
+    "Raise the FLEX slot above Juwan Johnson's 63.4 C-AVI baseline; a replacement near 82.9 C-AVI would directly attack the 15.10-point projected gap to Big Balder Brand."
   ],
   "rival_below": {
-    "franchise_name": "Big Balder Brand",
-    "projected_rank": 2,
-    "projected_score": 709.9,
+    "franchise_name": "Mile High Royal Lions",
+    "projected_rank": 3,
+    "projected_score": 665.0,
     "latest_trade": {
-      "transaction_id": "1386578462004772864",
-      "created_at": "2026-07-25T03:02:56.026000+00:00",
+      "transaction_id": "1387942050321678336",
+      "created_at": "2026-07-28T21:21:20.815000+00:00",
       "type": "trade",
-      "summary": "On July 24, Big Balder Brand completed a trade with DMV Fantasy and acquired Cam Little, Saquon Barkley and sent Breece Hall.",
+      "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1386578462004772864",
-      "created_at": "2026-07-25T03:02:56.026000+00:00",
+      "transaction_id": "1387942050321678336",
+      "created_at": "2026-07-28T21:21:20.815000+00:00",
       "type": "trade",
-      "summary": "On July 24, Big Balder Brand completed a trade with DMV Fantasy and acquired Cam Little, Saquon Barkley and sent Breece Hall.",
+      "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 24, Big Balder Brand completed a trade with DMV Fantasy and acquired Cam Little, Saquon Barkley and sent Breece Hall."
+    "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #1 of 16 at 722.60 lineup C-AVI. Big Balder Brand is immediately behind at 709.90."
+      "body": "Projected #2 of 16 at 723.40 lineup C-AVI. Big Balder Brand is immediately above at 738.50, a gap of 15.10. Mile High Royal Lions is immediately behind at 665.00."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Josh Allen (99.6), Puka Nacua (99.6), and Bijan Robinson (99.5)."
+      "body": "The three highest C-AVI starters are Josh Allen (99.6), Puka Nacua (99.6), and Bijan Robinson (99.4)."
     },
     {
       "id": "latest-trade-impact",
@@ -80,25 +85,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 63.2 C-AVI.",
+      "body": "Raise the FLEX slot above Juwan Johnson's 63.4 C-AVI baseline; a replacement near 82.9 C-AVI would directly attack the 15.10-point projected gap to Big Balder Brand.",
       "items": [
-        "Protect the league-leading projection and avoid replacing Juwan Johnson unless the incoming option clearly exceeds 63.2 C-AVI."
+        "Raise the FLEX slot above Juwan Johnson's 63.4 C-AVI baseline; a replacement near 82.9 C-AVI would directly attack the 15.10-point projected gap to Big Balder Brand."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 24, Big Balder Brand completed a trade with DMV Fantasy and acquired Cam Little, Saquon Barkley and sent Breece Hall."
+      "body": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 63.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 63.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 11 offensive players in the current team file are marked Active."
+      "body": "The current team file flags Chris Brazzell outside Active status."
     },
     {
       "id": "draft-assets",
@@ -112,7 +117,7 @@
       "AVI-Core/knowledge/teams/01_Conquistadors.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-07-29",
+    "source_last_updated": "2026-08-03",
     "external_sources_used": false,
     "conversation_context_used": false
   }
