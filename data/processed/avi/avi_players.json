@@ -206,7 +206,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 100.0,
-      "elite_upside": 99.38259763658522,
+      "elite_upside": 99.38399834394244,
       "health_outlook": null,
       "league_context": 98.99115044247787,
       "long_term_ceiling": 99.7,
@@ -214,8 +214,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 99.20353982300884,
-      "public_market": 99.8003992015968,
-      "redraft_market": 99.40119760479043
+      "public_market": 99.80506822612085,
+      "redraft_market": 99.41520467836257
     },
     "d_avi": 98.4,
     "match": {
@@ -451,7 +451,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 98.88888888888889,
-      "elite_upside": 97.04379272092231,
+      "elite_upside": 97.04939555035118,
       "health_outlook": null,
       "league_context": 95.56100295958639,
       "long_term_ceiling": 98.0,
@@ -459,8 +459,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 96.43647985889767,
-      "public_market": 98.4608560656465,
-      "redraft_market": 97.60479041916167
+      "public_market": 98.47953216374269,
+      "redraft_market": 97.6608187134503
     },
     "d_avi": 97.2,
     "match": {
@@ -500,7 +500,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 97.77777777777777,
-      "elite_upside": 97.46382750722742,
+      "elite_upside": 97.47363245872793,
       "health_outlook": null,
       "league_context": 96.97345132743362,
       "long_term_ceiling": 97.7,
@@ -508,8 +508,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 97.61061946902655,
-      "public_market": 97.12131292969616,
-      "redraft_market": 95.80838323353294
+      "public_market": 97.15399610136451,
+      "redraft_market": 95.90643274853801
     },
     "d_avi": 96.6,
     "match": {
@@ -647,7 +647,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 96.11111111111111,
-      "elite_upside": 97.74169654790714,
+      "elite_upside": 97.74589866997879,
       "health_outlook": null,
       "league_context": 97.64601769911505,
       "long_term_ceiling": 96.9,
@@ -655,8 +655,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 98.14159292035399,
-      "public_market": 96.80860501219782,
-      "redraft_market": 98.20359281437126
+      "public_market": 96.82261208576999,
+      "redraft_market": 98.24561403508773
     },
     "d_avi": 95.6,
     "match": {
@@ -790,12 +790,12 @@
       "James Cook III"
     ],
     "avi_id": "AVI-00008138",
-    "c_avi": 94.3,
+    "c_avi": 94.4,
     "canonical_name": "James Cook",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 96.66666666666667,
-      "elite_upside": 94.20710435841701,
+      "elite_upside": 94.27398813472405,
       "health_outlook": null,
       "league_context": 92.90519541008595,
       "long_term_ceiling": 95.4,
@@ -803,8 +803,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 93.19007494601347,
-      "public_market": 96.58017298735861,
-      "redraft_market": 96.40718562874251
+      "public_market": 96.80311890838207,
+      "redraft_market": 97.07602339181287
     },
     "d_avi": 95.3,
     "match": {
@@ -844,7 +844,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 98.33333333333333,
-      "elite_upside": 89.40964823349753,
+      "elite_upside": 89.36657648226316,
       "health_outlook": null,
       "league_context": 87.34807626884785,
       "long_term_ceiling": 93.8,
@@ -852,8 +852,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 86.2880917165163,
-      "public_market": 96.69328010645376,
-      "redraft_market": 93.41317365269461
+      "public_market": 96.54970760233918,
+      "redraft_market": 92.98245614035088
     },
     "d_avi": 95.3,
     "match": {
@@ -893,7 +893,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 97.22222222222223,
-      "elite_upside": 91.92597155146727,
+      "elite_upside": 91.93717721032499,
       "health_outlook": null,
       "league_context": 90.24938786058553,
       "long_term_ceiling": 94.5,
@@ -901,8 +901,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 89.94367003312928,
-      "public_market": 96.5513417609226,
-      "redraft_market": 95.20958083832335
+      "public_market": 96.58869395711501,
+      "redraft_market": 95.32163742690058
     },
     "d_avi": 95.2,
     "match": {
@@ -991,7 +991,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 94.44444444444444,
-      "elite_upside": 96.54523990367346,
+      "elite_upside": 96.4937639082958,
       "health_outlook": null,
       "league_context": 96.30088495575221,
       "long_term_ceiling": 95.4,
@@ -999,8 +999,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 97.0796460176991,
-      "public_market": 95.29829230428032,
-      "redraft_market": 97.0059880239521
+      "public_market": 95.12670565302143,
+      "redraft_market": 96.49122807017544
     },
     "d_avi": 94.3,
     "match": {
@@ -1084,12 +1084,12 @@
       "Garrett Wilson"
     ],
     "avi_id": "AVI-00008146",
-    "c_avi": 89.3,
+    "c_avi": 89.4,
     "canonical_name": "Garrett Wilson",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 93.99141630901288,
-      "elite_upside": 88.93170356976702,
+      "elite_upside": 88.97302588381662,
       "health_outlook": null,
       "league_context": 88.438799461136,
       "long_term_ceiling": 91.3,
@@ -1097,8 +1097,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 86.73133243522668,
-      "public_market": 94.06590288369453,
-      "redraft_market": 94.21487603305785
+      "public_market": 94.20364393052648,
+      "redraft_market": 94.62809917355372
     },
     "d_avi": 94.0,
     "match": {
@@ -1433,7 +1433,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 95.55555555555556,
-      "elite_upside": 87.11962839941414,
+      "elite_upside": 87.1336354729863,
       "health_outlook": null,
       "league_context": 85.10210208017895,
       "long_term_ceiling": 91.1,
@@ -1441,8 +1441,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 83.72474240501802,
-      "public_market": 95.0410290530051,
-      "redraft_market": 94.0119760479042
+      "public_market": 95.08771929824563,
+      "redraft_market": 94.15204678362574
     },
     "d_avi": 93.1,
     "match": {
@@ -1482,7 +1482,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 92.27467811158799,
-      "elite_upside": 89.31570600209348,
+      "elite_upside": 89.27438368804388,
       "health_outlook": null,
       "league_context": 89.29348992016997,
       "long_term_ceiling": 90.6,
@@ -1490,8 +1490,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 87.71137208917216,
-      "public_market": 93.0591517989099,
-      "redraft_market": 94.62809917355372
+      "public_market": 92.92141075207793,
+      "redraft_market": 94.21487603305785
     },
     "d_avi": 93.0,
     "match": {
@@ -1526,12 +1526,12 @@
       "Breece Hall"
     ],
     "avi_id": "AVI-00008155",
-    "c_avi": 88.1,
+    "c_avi": 88.2,
     "canonical_name": "Breece Hall",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 95.0,
-      "elite_upside": 87.75261210215179,
+      "elite_upside": 87.77082129779558,
       "health_outlook": null,
       "league_context": 86.2478576945596,
       "long_term_ceiling": 91.3,
@@ -1539,8 +1539,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 85.0443645941775,
-      "public_market": 94.07185628742515,
-      "redraft_market": 92.21556886227545
+      "public_market": 94.13255360623782,
+      "redraft_market": 92.39766081871345
     },
     "d_avi": 92.9,
     "match": {
@@ -1580,7 +1580,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 91.66666666666667,
-      "elite_upside": 97.28436931446839,
+      "elite_upside": 97.28717072918283,
       "health_outlook": null,
       "league_context": 98.31858407079645,
       "long_term_ceiling": 94.3,
@@ -1588,8 +1588,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 98.67256637168141,
-      "public_market": 94.04524284763806,
-      "redraft_market": 98.80239520958084
+      "public_market": 94.05458089668616,
+      "redraft_market": 98.83040935672514
     },
     "d_avi": 92.7,
     "match": {
@@ -1727,7 +1727,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 92.77777777777777,
-      "elite_upside": 91.88245915659098,
+      "elite_upside": 91.89506552280592,
       "health_outlook": null,
       "league_context": 91.37930450449926,
       "long_term_ceiling": 92.2,
@@ -1735,8 +1735,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 91.23689393817722,
-      "public_market": 93.38877799955644,
-      "redraft_market": 94.61077844311377
+      "public_market": 93.4307992202729,
+      "redraft_market": 94.73684210526316
     },
     "d_avi": 92.3,
     "match": {
@@ -2022,7 +2022,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 92.22222222222223,
-      "elite_upside": 82.84377865225912,
+      "elite_upside": 82.86338855526013,
       "health_outlook": null,
       "league_context": 81.50585565920517,
       "long_term_ceiling": 87.2,
@@ -2030,8 +2030,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 78.91093937301156,
-      "public_market": 92.0204036371701,
-      "redraft_market": 91.61676646706587
+      "public_market": 92.08576998050683,
+      "redraft_market": 91.81286549707602
     },
     "d_avi": 90.2,
     "match": {
@@ -2066,12 +2066,12 @@
       "Derrick Henry"
     ],
     "avi_id": "AVI-00003198",
-    "c_avi": 93.0,
+    "c_avi": 93.1,
     "canonical_name": "Derrick Henry",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 88.33333333333333,
-      "elite_upside": 93.22269412988393,
+      "elite_upside": 93.29798215033426,
       "health_outlook": null,
       "league_context": 94.1519244611932,
       "long_term_ceiling": 90.7,
@@ -2079,8 +2079,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 94.67798619638396,
-      "public_market": 89.82701264138389,
-      "redraft_market": 92.81437125748504
+      "public_market": 90.07797270955166,
+      "redraft_market": 93.5672514619883
     },
     "d_avi": 89.8,
     "match": {
@@ -2318,7 +2318,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 90.55555555555556,
-      "elite_upside": 83.69358746296155,
+      "elite_upside": 83.71880019539142,
       "health_outlook": null,
       "league_context": 83.07926347619264,
       "long_term_ceiling": 87.0,
@@ -2326,8 +2326,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 80.94331523318242,
-      "public_market": 90.11088933244622,
-      "redraft_market": 89.22155688622755
+      "public_market": 90.19493177387915,
+      "redraft_market": 89.47368421052632
     },
     "d_avi": 89.3,
     "match": {
@@ -2362,12 +2362,12 @@
       "Quinshon Judkins"
     ],
     "avi_id": "AVI-00012512",
-    "c_avi": 76.0,
+    "c_avi": 76.1,
     "canonical_name": "Quinshon Judkins",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 93.33333333333333,
-      "elite_upside": 74.72738608618069,
+      "elite_upside": 74.81528047284596,
       "health_outlook": null,
       "league_context": 72.94784148764843,
       "long_term_ceiling": 83.7,
@@ -2375,8 +2375,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 67.59743492779164,
-      "public_market": 91.36393878908848,
-      "redraft_market": 87.42514970059881
+      "public_market": 91.6569200779727,
+      "redraft_market": 88.30409356725146
     },
     "d_avi": 89.3,
     "match": {
@@ -2466,7 +2466,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 91.11111111111111,
-      "elite_upside": 79.8853207397047,
+      "elite_upside": 79.90913276477737,
       "health_outlook": null,
       "league_context": 78.60652393877584,
       "long_term_ceiling": 85.2,
@@ -2474,8 +2474,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 75.25866084191253,
-      "public_market": 90.68086050121978,
-      "redraft_market": 89.82035928143712
+      "public_market": 90.76023391812866,
+      "redraft_market": 90.05847953216374
     },
     "d_avi": 88.9,
     "match": {
@@ -2510,12 +2510,12 @@
       "TreVeyon Henderson"
     ],
     "avi_id": "AVI-00012529",
-    "c_avi": 72.7,
+    "c_avi": 72.8,
     "canonical_name": "TreVeyon Henderson",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 93.88888888888889,
-      "elite_upside": 71.20817375440006,
+      "elite_upside": 71.24039002361602,
       "health_outlook": null,
       "league_context": 69.23082291686438,
       "long_term_ceiling": 82.1,
@@ -2523,8 +2523,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 62.582344979434744,
-      "public_market": 91.33510756265247,
-      "redraft_market": 86.22754491017965
+      "public_market": 91.44249512670565,
+      "redraft_market": 86.54970760233918
     },
     "d_avi": 88.9,
     "match": {
@@ -2662,7 +2662,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 90.0,
-      "elite_upside": 80.56355969446373,
+      "elite_upside": 80.58597101217919,
       "health_outlook": null,
       "league_context": 79.68100418605533,
       "long_term_ceiling": 84.9,
@@ -2670,8 +2670,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 76.4594907525701,
-      "public_market": 90.13972055888223,
-      "redraft_market": 90.41916167664671
+      "public_market": 90.21442495126706,
+      "redraft_market": 90.64327485380117
     },
     "d_avi": 88.3,
     "match": {
@@ -2804,12 +2804,12 @@
       "Josh Jacobs"
     ],
     "avi_id": "AVI-00005850",
-    "c_avi": 87.7,
+    "c_avi": 87.8,
     "canonical_name": "Josh Jacobs",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 87.22222222222223,
-      "elite_upside": 87.59676845229178,
+      "elite_upside": 87.61777906265002,
       "health_outlook": null,
       "league_context": 88.25822719753305,
       "long_term_ceiling": 87.2,
@@ -2817,8 +2817,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 87.21503942951674,
-      "public_market": 88.48746950543358,
-      "redraft_market": 91.01796407185628
+      "public_market": 88.55750487329435,
+      "redraft_market": 91.2280701754386
     },
     "d_avi": 88.0,
     "match": {
@@ -2853,12 +2853,12 @@
       "Bucky Irving"
     ],
     "avi_id": "AVI-00011584",
-    "c_avi": 78.1,
+    "c_avi": 78.2,
     "canonical_name": "Bucky Irving",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 89.44444444444444,
-      "elite_upside": 77.19649667457465,
+      "elite_upside": 77.22311011436175,
       "health_outlook": null,
       "league_context": 76.33620142124391,
       "long_term_ceiling": 82.9,
@@ -2866,8 +2866,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 72.06476048083424,
-      "public_market": 89.17054779330228,
-      "redraft_market": 88.62275449101796
+      "public_market": 89.25925925925925,
+      "redraft_market": 88.88888888888889
     },
     "d_avi": 87.3,
     "match": {
@@ -3006,7 +3006,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 91.41630901287553,
-      "elite_upside": 61.231898954622416,
+      "elite_upside": 61.273221268672,
       "health_outlook": null,
       "league_context": 57.756368247602936,
       "long_term_ceiling": 75.6,
@@ -3014,8 +3014,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 49.371724857116,
-      "public_market": 88.90563851547074,
-      "redraft_market": 83.88429752066116
+      "public_market": 89.04337956230269,
+      "redraft_market": 84.29752066115702
     },
     "d_avi": 86.8,
     "match": {
@@ -3344,12 +3344,12 @@
       "D'Andre Swift"
     ],
     "avi_id": "AVI-00006790",
-    "c_avi": 76.9,
+    "c_avi": 76.8,
     "canonical_name": "D'Andre Swift",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 86.66666666666667,
-      "elite_upside": 75.94605657955638,
+      "elite_upside": 75.91559119453694,
       "health_outlook": null,
       "league_context": 75.43792972040887,
       "long_term_ceiling": 80.9,
@@ -3357,8 +3357,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 71.15761148091745,
-      "public_market": 87.11909514304723,
-      "redraft_market": 88.02395209580838
+      "public_market": 87.01754385964914,
+      "redraft_market": 87.71929824561404
     },
     "d_avi": 85.3,
     "match": {
@@ -3393,12 +3393,12 @@
       "Bhayshul Tuten"
     ],
     "avi_id": "AVI-00012490",
-    "c_avi": 73.1,
+    "c_avi": 73.2,
     "canonical_name": "Bhayshul Tuten",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 87.77777777777777,
-      "elite_upside": 71.89616881153938,
+      "elite_upside": 71.92978578811255,
       "health_outlook": null,
       "league_context": 71.27346023393436,
       "long_term_ceiling": 79.4,
@@ -3406,8 +3406,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 65.39677000640977,
-      "public_market": 87.0614326901752,
-      "redraft_market": 85.62874251497006
+      "public_market": 87.17348927875243,
+      "redraft_market": 85.96491228070175
     },
     "d_avi": 85.2,
     "match": {
@@ -3492,12 +3492,12 @@
       "Jadarian Price"
     ],
     "avi_id": "AVI-00013286",
-    "c_avi": 67.0,
+    "c_avi": 67.1,
     "canonical_name": "Jadarian Price",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 88.88888888888889,
-      "elite_upside": 65.30108801887832,
+      "elite_upside": 65.33750641016593,
       "health_outlook": null,
       "league_context": 63.76279798450268,
       "long_term_ceiling": 76.5,
@@ -3505,8 +3505,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 55.82885209806495,
-      "public_market": 87.40297183410955,
-      "redraft_market": 84.4311377245509
+      "public_market": 87.52436647173488,
+      "redraft_market": 84.7953216374269
     },
     "d_avi": 84.6,
     "match": {
@@ -3688,12 +3688,12 @@
       "David Montgomery"
     ],
     "avi_id": "AVI-00005892",
-    "c_avi": 68.3,
+    "c_avi": 68.4,
     "canonical_name": "David Montgomery",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 86.11111111111111,
-      "elite_upside": 66.74475019155904,
+      "elite_upside": 66.77556575341777,
       "health_outlook": null,
       "league_context": 65.97907410354611,
       "long_term_ceiling": 75.7,
@@ -3701,8 +3701,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 58.34270462685412,
-      "public_market": 86.34952317587049,
-      "redraft_market": 86.82634730538922
+      "public_market": 86.45224171539962,
+      "redraft_market": 87.13450292397661
     },
     "d_avi": 83.1,
     "match": {
@@ -3836,12 +3836,12 @@
       "Patrick Mahomes II"
     ],
     "avi_id": "AVI-00004046",
-    "c_avi": 73.8,
+    "c_avi": 73.9,
     "canonical_name": "Patrick Mahomes",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 92.13483146067416,
-      "elite_upside": 72.43496864016535,
+      "elite_upside": 72.53806142367051,
       "health_outlook": null,
       "league_context": 70.46989302879788,
       "long_term_ceiling": 81.9,
@@ -3849,8 +3849,8 @@
       "player_points": 0.0,
       "position_liquidity": 60.0,
       "projection": 64.78315504799649,
-      "public_market": 90.28920035522607,
-      "redraft_market": 86.5979381443299
+      "public_market": 90.63284296690993,
+      "redraft_market": 87.62886597938144
     },
     "d_avi": 82.9,
     "match": {
@@ -3877,55 +3877,6 @@
       "sleeper_id": "4046",
       "sportradar_id": "11cad59d-90dd-449c-a839-dddaba4fe16c",
       "sportsdata_player_id": "11cad59d-90dd-449c-a839-dddaba4fe16c"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Wan'Dale Robinson"
-    ],
-    "avi_id": "AVI-00008126",
-    "c_avi": 68.0,
-    "canonical_name": "Wan'Dale Robinson",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 83.2618025751073,
-      "elite_upside": 66.54520540985986,
-      "health_outlook": null,
-      "league_context": 66.33979385319088,
-      "long_term_ceiling": 74.3,
-      "long_term_security": null,
-      "player_points": 0.0,
-      "position_liquidity": 100.0,
-      "projection": 59.23298975531815,
-      "public_market": 83.60704193712387,
-      "redraft_market": 84.29752066115702
-    },
-    "d_avi": 82.8,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_2026_2",
-    "nfl_team": "TEN",
-    "normalized_name": "wan dale robinson",
-    "position": "WR",
-    "projection": {
-      "component_score": 59.23298975531815,
-      "percentile": 77.0,
-      "position_rank": 35,
-      "raw_points": 188.79
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 23170,
-      "fantasypros_id": "22985",
-      "nfl_id": "2568012",
-      "rotowire_id": 15838,
-      "sleeper_id": "8126",
-      "sportradar_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05",
-      "sportsdata_player_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05"
     }
   },
   {
@@ -4029,6 +3980,55 @@
   {
     "active": true,
     "aliases": [
+      "Wan'Dale Robinson"
+    ],
+    "avi_id": "AVI-00008126",
+    "c_avi": 67.9,
+    "canonical_name": "Wan'Dale Robinson",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 83.2618025751073,
+      "elite_upside": 66.50388309581028,
+      "health_outlook": null,
+      "league_context": 66.33979385319088,
+      "long_term_ceiling": 74.3,
+      "long_term_security": null,
+      "player_points": 0.0,
+      "position_liquidity": 100.0,
+      "projection": 59.23298975531815,
+      "public_market": 83.46930089029192,
+      "redraft_market": 83.88429752066116
+    },
+    "d_avi": 82.7,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_2026_2",
+    "nfl_team": "TEN",
+    "normalized_name": "wan dale robinson",
+    "position": "WR",
+    "projection": {
+      "component_score": 59.23298975531815,
+      "percentile": 77.0,
+      "position_rank": 35,
+      "raw_points": 188.79
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 23170,
+      "fantasypros_id": "22985",
+      "nfl_id": "2568012",
+      "rotowire_id": 15838,
+      "sleeper_id": "8126",
+      "sportradar_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05",
+      "sportsdata_player_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Dalton Kincaid"
     ],
     "avi_id": "AVI-00010236",
@@ -4086,7 +4086,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 85.0,
-      "elite_upside": 66.86008920786796,
+      "elite_upside": 66.89510689179833,
       "health_outlook": null,
       "league_context": 66.77637236765452,
       "long_term_ceiling": 75.3,
@@ -4094,8 +4094,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 59.08156456555987,
-      "public_market": 85.00998003992017,
-      "redraft_market": 85.02994011976048
+      "public_market": 85.12670565302143,
+      "redraft_market": 85.38011695906432
     },
     "d_avi": 82.5,
     "match": {
@@ -4282,7 +4282,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 83.69098712446352,
-      "elite_upside": 62.38318950841817,
+      "elite_upside": 62.34186719436858,
       "health_outlook": null,
       "league_context": 61.70294874376957,
       "long_term_ceiling": 72.3,
@@ -4290,8 +4290,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 53.28269235072706,
-      "public_market": 83.6176828763641,
-      "redraft_market": 83.47107438016529
+      "public_market": 83.47994182953215,
+      "redraft_market": 83.05785123966942
     },
     "d_avi": 82.2,
     "match": {
@@ -4577,7 +4577,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 85.55555555555556,
-      "elite_upside": 60.62159922608227,
+      "elite_upside": 60.66502115415595,
       "health_outlook": null,
       "league_context": 59.16393655651321,
       "long_term_ceiling": 72.4,
@@ -4585,8 +4585,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 50.52396505731552,
-      "public_market": 84.18274561987137,
-      "redraft_market": 81.437125748503
+      "public_market": 84.32748538011695,
+      "redraft_market": 81.87134502923976
     },
     "d_avi": 81.6,
     "match": {
@@ -4724,7 +4724,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 82.40343347639485,
-      "elite_upside": 60.37787192576554,
+      "elite_upside": 60.41919423981513,
       "health_outlook": null,
       "league_context": 59.1735810436835,
       "long_term_ceiling": 70.6,
@@ -4732,8 +4732,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 50.84485729502805,
-      "public_market": 82.62157273081971,
-      "redraft_market": 83.05785123966942
+      "public_market": 82.75931377765166,
+      "redraft_market": 83.47107438016529
     },
     "d_avi": 81.0,
     "match": {
@@ -4871,7 +4871,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 82.77777777777777,
-      "elite_upside": 63.25729122857222,
+      "elite_upside": 63.29791174193147,
       "health_outlook": null,
       "league_context": 62.85858666974258,
       "long_term_ceiling": 72.3,
@@ -4879,8 +4879,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 54.91180374160636,
-      "public_market": 82.7300953648259,
-      "redraft_market": 82.63473053892216
+      "public_market": 82.86549707602339,
+      "redraft_market": 83.04093567251462
     },
     "d_avi": 80.3,
     "match": {
@@ -4915,12 +4915,12 @@
       "Rhamondre Stevenson"
     ],
     "avi_id": "AVI-00007611",
-    "c_avi": 64.4,
+    "c_avi": 64.5,
     "canonical_name": "Rhamondre Stevenson",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 82.22222222222223,
-      "elite_upside": 62.77645683772611,
+      "elite_upside": 62.814275936370926,
       "health_outlook": null,
       "league_context": 62.08504686133455,
       "long_term_ceiling": 71.7,
@@ -4928,8 +4928,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 54.2125412290679,
-      "public_market": 82.75892659126193,
-      "redraft_market": 83.83233532934132
+      "public_market": 82.88499025341132,
+      "redraft_market": 84.21052631578948
     },
     "d_avi": 79.9,
     "match": {
@@ -5013,12 +5013,12 @@
       "Kyle Monangai"
     ],
     "avi_id": "AVI-00012534",
-    "c_avi": 55.6,
+    "c_avi": 55.7,
     "canonical_name": "Kyle Monangai",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 84.44444444444444,
-      "elite_upside": 53.28658906376038,
+      "elite_upside": 53.334213113905705,
       "health_outlook": null,
       "league_context": 51.45132743362832,
       "long_term_ceiling": 68.0,
@@ -5026,8 +5026,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 40.61946902654867,
-      "public_market": 82.84320248392105,
-      "redraft_market": 79.64071856287426
+      "public_market": 83.00194931773879,
+      "redraft_market": 80.11695906432749
     },
     "d_avi": 79.4,
     "match": {
@@ -5167,7 +5167,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 84.12017167381974,
-      "elite_upside": 46.407340119887905,
+      "elite_upside": 46.366017805838325,
       "health_outlook": null,
       "league_context": 39.77333333333334,
       "long_term_ceiling": 64.4,
@@ -5175,8 +5175,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 31.4,
-      "public_market": 81.42446706629305,
-      "redraft_market": 76.03305785123968
+      "public_market": 81.28672601946109,
+      "redraft_market": 75.6198347107438
     },
     "d_avi": 79.2,
     "match": {
@@ -5216,7 +5216,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 81.11111111111111,
-      "elite_upside": 61.970574582975175,
+      "elite_upside": 62.01259580369163,
       "health_outlook": null,
       "league_context": 61.38476229133602,
       "long_term_ceiling": 70.8,
@@ -5224,8 +5224,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 53.63537078054528,
-      "public_market": 81.4193834553116,
-      "redraft_market": 82.03592814371258
+      "public_market": 81.55945419103314,
+      "redraft_market": 82.45614035087719
     },
     "d_avi": 79.0,
     "match": {
@@ -5314,7 +5314,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 80.0,
-      "elite_upside": 64.59060817848281,
+      "elite_upside": 64.62982798448483,
       "health_outlook": null,
       "league_context": 65.13425892803693,
       "long_term_ceiling": 71.6,
@@ -5322,8 +5322,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 57.52464983581377,
-      "public_market": 81.07784431137725,
-      "redraft_market": 83.23353293413173
+      "public_market": 81.20857699805067,
+      "redraft_market": 83.62573099415205
     },
     "d_avi": 78.9,
     "match": {
@@ -5412,7 +5412,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 83.88888888888889,
-      "elite_upside": 51.940673225819744,
+      "elite_upside": 51.99109869067949,
       "health_outlook": null,
       "league_context": 49.43362831858407,
       "long_term_ceiling": 67.1,
@@ -5420,8 +5420,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 39.02654867256637,
-      "public_market": 82.07363051674429,
-      "redraft_market": 78.44311377245509
+      "public_market": 82.24171539961013,
+      "redraft_market": 78.94736842105263
     },
     "d_avi": 78.8,
     "match": {
@@ -5652,12 +5652,12 @@
       "Zach Charbonnet"
     ],
     "avi_id": "AVI-00009753",
-    "c_avi": 51.5,
+    "c_avi": 51.6,
     "canonical_name": "Zach Charbonnet",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 83.33333333333333,
-      "elite_upside": 49.25259216081112,
+      "elite_upside": 49.31982611395746,
       "health_outlook": null,
       "league_context": 46.07079646017699,
       "long_term_ceiling": 65.7,
@@ -5665,8 +5665,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 36.3716814159292,
-      "public_market": 79.3080505655356,
-      "redraft_market": 71.25748502994011
+      "public_market": 79.53216374269006,
+      "redraft_market": 71.9298245614035
     },
     "d_avi": 77.9,
     "match": {
@@ -5701,12 +5701,12 @@
       "Bo Nix"
     ],
     "avi_id": "AVI-00011563",
-    "c_avi": 66.2,
+    "c_avi": 66.1,
     "canonical_name": "Bo Nix",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 86.51685393258427,
-      "elite_upside": 64.54599952896653,
+      "elite_upside": 64.44290674546139,
       "health_outlook": null,
       "league_context": 62.182636123867034,
       "long_term_ceiling": 74.7,
@@ -5714,8 +5714,8 @@
       "player_points": 0.0,
       "position_liquidity": 60.0,
       "projection": 54.97106020644506,
-      "public_market": 86.88752461485,
-      "redraft_market": 87.62886597938144
+      "public_market": 86.54388200316616,
+      "redraft_market": 86.5979381443299
     },
     "d_avi": 77.7,
     "match": {
@@ -5849,12 +5849,12 @@
       "Jonathon Brooks"
     ],
     "avi_id": "AVI-00011583",
-    "c_avi": 54.4,
+    "c_avi": 54.5,
     "canonical_name": "Jonathon Brooks",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 81.66666666666667,
-      "elite_upside": 52.11983113419179,
+      "elite_upside": 52.173058013765974,
       "health_outlook": null,
       "league_context": 50.7787610619469,
       "long_term_ceiling": 66.1,
@@ -5862,8 +5862,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 40.08849557522124,
-      "public_market": 80.19294743845643,
-      "redraft_market": 77.24550898203593
+      "public_market": 80.37037037037037,
+      "redraft_market": 77.77777777777777
     },
     "d_avi": 77.4,
     "match": {
@@ -5952,7 +5952,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 79.44444444444444,
-      "elite_upside": 55.90536325735333,
+      "elite_upside": 55.95018589278422,
       "health_outlook": null,
       "league_context": 55.15844664787054,
       "long_term_ceiling": 66.8,
@@ -5960,8 +5960,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 45.61806004733586,
-      "public_market": 79.9090707473941,
-      "redraft_market": 80.83832335329342
+      "public_market": 80.05847953216374,
+      "redraft_market": 81.28654970760233
     },
     "d_avi": 76.8,
     "match": {
@@ -5996,12 +5996,12 @@
       "J.K. Dobbins"
     ],
     "avi_id": "AVI-00006806",
-    "c_avi": 59.0,
+    "c_avi": 59.1,
     "canonical_name": "J.K. Dobbins",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 78.88888888888889,
-      "elite_upside": 57.1198729995927,
+      "elite_upside": 57.16609634238081,
       "health_outlook": null,
       "league_context": 57.053983614958824,
       "long_term_ceiling": 67.2,
@@ -6009,8 +6009,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 47.59734732286648,
-      "public_market": 79.33909957862053,
-      "redraft_market": 80.23952095808383
+      "public_market": 79.49317738791423,
+      "redraft_market": 80.70175438596492
     },
     "d_avi": 76.7,
     "match": {
@@ -6050,7 +6050,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 79.8283261802575,
-      "elite_upside": 46.26500407902671,
+      "elite_upside": 46.30632639307629,
       "health_outlook": null,
       "league_context": 41.29333333333334,
       "long_term_ceiling": 62.1,
@@ -6058,8 +6058,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 32.6,
-      "public_market": 78.1500135967557,
-      "redraft_market": 74.79338842975207
+      "public_market": 78.28775464358765,
+      "redraft_market": 75.20661157024793
     },
     "d_avi": 76.5,
     "match": {
@@ -6143,12 +6143,12 @@
       "Rachaad White"
     ],
     "avi_id": "AVI-00008136",
-    "c_avi": 56.9,
+    "c_avi": 57.0,
     "canonical_name": "Rachaad White",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 78.33333333333333,
-      "elite_upside": 54.98398850961445,
+      "elite_upside": 55.033013267116985,
       "health_outlook": null,
       "league_context": 54.35916851245377,
       "long_term_ceiling": 65.8,
@@ -6156,8 +6156,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 44.87590032311616,
-      "public_market": 78.56952761144377,
-      "redraft_market": 79.04191616766467
+      "public_market": 78.73294346978558,
+      "redraft_market": 79.53216374269006
     },
     "d_avi": 75.9,
     "match": {
@@ -6388,12 +6388,12 @@
       "Jacory Croskey-Merritt"
     ],
     "avi_id": "AVI-00012533",
-    "c_avi": 53.1,
+    "c_avi": 53.2,
     "canonical_name": "Jacory Croskey-Merritt",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 77.77777777777777,
-      "elite_upside": 50.910491700963846,
+      "elite_upside": 50.96511928789525,
       "health_outlook": null,
       "league_context": 50.10619469026548,
       "long_term_ceiling": 63.4,
@@ -6401,8 +6401,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 39.557522123893804,
-      "public_market": 77.40075404746062,
-      "redraft_market": 76.64670658682634
+      "public_market": 77.58284600389864,
+      "redraft_market": 77.19298245614036
     },
     "d_avi": 74.7,
     "match": {
@@ -6687,7 +6687,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 80.55555555555556,
-      "elite_upside": 37.42683364833754,
+      "elite_upside": 37.43838948403457,
       "health_outlook": null,
       "league_context": 25.893805309734514,
       "long_term_ceiling": 58.0,
@@ -6695,8 +6695,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 20.442477876106196,
-      "public_market": 77.05699711687735,
-      "redraft_market": 70.05988023952096
+      "public_market": 77.09551656920078,
+      "redraft_market": 70.17543859649123
     },
     "d_avi": 73.6,
     "match": {
@@ -6834,7 +6834,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 76.66666666666667,
-      "elite_upside": 48.65022168053274,
+      "elite_upside": 48.65057185737204,
       "health_outlook": null,
       "league_context": 46.743362831858406,
       "long_term_ceiling": 61.8,
@@ -6842,8 +6842,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 36.902654867256636,
-      "public_market": 76.06121091151032,
-      "redraft_market": 74.8502994011976
+      "public_market": 76.06237816764133,
+      "redraft_market": 74.85380116959064
     },
     "d_avi": 73.5,
     "match": {
@@ -6927,12 +6927,12 @@
       "Tyler Allgeier"
     ],
     "avi_id": "AVI-00008132",
-    "c_avi": 47.9,
+    "c_avi": 48.0,
     "canonical_name": "Tyler Allgeier",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 77.22222222222223,
-      "elite_upside": 45.728001224689265,
+      "elite_upside": 45.846711173213265,
       "health_outlook": null,
       "league_context": 41.36283185840708,
       "long_term_ceiling": 60.5,
@@ -6940,8 +6940,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 32.65486725663717,
-      "public_market": 76.2319804834775,
-      "redraft_market": 74.25149700598803
+      "public_market": 76.62768031189084,
+      "redraft_market": 75.43859649122807
     },
     "d_avi": 73.3,
     "match": {
@@ -7025,12 +7025,12 @@
       "Jordan Mason"
     ],
     "avi_id": "AVI-00008408",
-    "c_avi": 51.8,
+    "c_avi": 51.9,
     "canonical_name": "Jordan Mason",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 75.55555555555556,
-      "elite_upside": 49.66280418514003,
+      "elite_upside": 49.71883247942865,
       "health_outlook": null,
       "league_context": 48.76106194690264,
       "long_term_ceiling": 61.7,
@@ -7038,10 +7038,10 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 38.49557522123893,
-      "public_market": 75.71967176757596,
-      "redraft_market": 76.04790419161677
+      "public_market": 75.90643274853801,
+      "redraft_market": 76.60818713450293
     },
-    "d_avi": 73.0,
+    "d_avi": 73.1,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -7079,7 +7079,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 73.81974248927038,
-      "elite_upside": 46.54593196892845,
+      "elite_upside": 46.58725428297804,
       "health_outlook": null,
       "league_context": 43.82666666666666,
       "long_term_ceiling": 59.1,
@@ -7087,8 +7087,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 34.599999999999994,
-      "public_market": 74.41977322976152,
-      "redraft_market": 75.6198347107438
+      "public_market": 74.55751427659348,
+      "redraft_market": 76.03305785123968
     },
     "d_avi": 72.8,
     "match": {
@@ -7124,12 +7124,12 @@
       "Aaron Jones Sr."
     ],
     "avi_id": "AVI-00004199",
-    "c_avi": 56.5,
+    "c_avi": 56.6,
     "canonical_name": "Aaron Jones",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 72.77777777777777,
-      "elite_upside": 54.685887439820064,
+      "elite_upside": 54.73771361203704,
       "health_outlook": null,
       "league_context": 55.86665070310252,
       "long_term_ceiling": 62.8,
@@ -7137,8 +7137,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 46.208429637914236,
-      "public_market": 74.46662231093369,
-      "redraft_market": 77.8443113772455
+      "public_market": 74.63937621832359,
+      "redraft_market": 78.3625730994152
     },
     "d_avi": 72.3,
     "match": {
@@ -7179,7 +7179,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 75.0,
-      "elite_upside": 47.633405754861954,
+      "elite_upside": 47.69083475650778,
       "health_outlook": null,
       "league_context": 45.39823008849557,
       "long_term_ceiling": 60.3,
@@ -7187,8 +7187,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 35.84070796460177,
-      "public_market": 75.1497005988024,
-      "redraft_market": 75.44910179640719
+      "public_market": 75.3411306042885,
+      "redraft_market": 76.0233918128655
     },
     "d_avi": 72.3,
     "match": {
@@ -7326,7 +7326,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 74.44444444444444,
-      "elite_upside": 46.107849198358444,
+      "elite_upside": 46.11380220462661,
       "health_outlook": null,
       "league_context": 43.38053097345133,
       "long_term_ceiling": 59.4,
@@ -7334,8 +7334,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 34.24778761061947,
-      "public_market": 73.78132623641606,
-      "redraft_market": 72.45508982035928
+      "public_market": 73.80116959064327,
+      "redraft_market": 72.51461988304094
     },
     "d_avi": 71.6,
     "match": {
@@ -7473,7 +7473,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 74.67811158798283,
-      "elite_upside": 37.34868016883623,
+      "elite_upside": 37.39000248288582,
       "health_outlook": null,
       "league_context": 29.64,
       "long_term_ceiling": 55.4,
@@ -7481,8 +7481,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 23.4,
-      "public_market": 69.89560056278745,
-      "redraft_market": 60.33057851239669
+      "public_market": 70.0333416096194,
+      "redraft_market": 60.743801652892564
     },
     "d_avi": 71.4,
     "match": {
@@ -7567,12 +7567,12 @@
       "Chris Rodriguez Jr."
     ],
     "avi_id": "AVI-00010219",
-    "c_avi": 46.7,
+    "c_avi": 46.8,
     "canonical_name": "Chris Rodriguez",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 73.88888888888889,
-      "elite_upside": 44.569892663051476,
+      "elite_upside": 44.69140402628991,
       "health_outlook": null,
       "league_context": 40.690265486725664,
       "long_term_ceiling": 58.2,
@@ -7580,10 +7580,10 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 32.123893805309734,
-      "public_market": 73.61055666444888,
-      "redraft_market": 73.05389221556887
+      "public_market": 74.01559454191033,
+      "redraft_market": 74.26900584795321
     },
-    "d_avi": 70.9,
+    "d_avi": 71.0,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -7616,12 +7616,12 @@
       "Germie Bernard"
     ],
     "avi_id": "AVI-00013274",
-    "c_avi": 44.5,
+    "c_avi": 44.6,
     "canonical_name": "Germie Bernard",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 72.1030042918455,
-      "elite_upside": 42.52555953605504,
+      "elite_upside": 42.56688185010463,
       "health_outlook": null,
       "league_context": 39.266666666666666,
       "long_term_ceiling": 56.7,
@@ -7629,8 +7629,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 30.999999999999996,
-      "public_market": 69.41853178685017,
-      "redraft_market": 64.0495867768595
+      "public_market": 69.55627283368212,
+      "redraft_market": 64.46280991735537
     },
     "d_avi": 70.9,
     "match": {
@@ -7768,7 +7768,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 72.22222222222223,
-      "elite_upside": 48.38493514446034,
+      "elite_upside": 48.388086736014074,
       "health_outlook": null,
       "league_context": 48.08849557522124,
       "long_term_ceiling": 59.4,
@@ -7776,8 +7776,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 37.9646017699115,
-      "public_market": 72.69904635174096,
-      "redraft_market": 73.65269461077844
+      "public_market": 72.70955165692008,
+      "redraft_market": 73.6842105263158
     },
     "d_avi": 70.7,
     "match": {
@@ -8014,7 +8014,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 70.81545064377683,
-      "elite_upside": 40.45052814528429,
+      "elite_upside": 40.491850459333875,
       "health_outlook": null,
       "league_context": 34.70666666666666,
       "long_term_ceiling": 54.5,
@@ -8022,8 +8022,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 27.4,
-      "public_market": 70.90176048428097,
-      "redraft_market": 71.07438016528926
+      "public_market": 71.03950153111293,
+      "redraft_market": 71.48760330578513
     },
     "d_avi": 69.6,
     "match": {
@@ -8156,12 +8156,12 @@
       "Isiah Pacheco"
     ],
     "avi_id": "AVI-00008205",
-    "c_avi": 47.6,
+    "c_avi": 47.7,
     "canonical_name": "Isiah Pacheco",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 71.11111111111111,
-      "elite_upside": 45.6332232290581,
+      "elite_upside": 45.70185788956165,
       "health_outlook": null,
       "league_context": 44.05309734513274,
       "long_term_ceiling": 57.5,
@@ -8169,8 +8169,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 34.7787610619469,
-      "public_market": 70.96030161898426,
-      "redraft_market": 70.65868263473054
+      "public_market": 71.18908382066276,
+      "redraft_market": 71.34502923976608
     },
     "d_avi": 69.4,
     "match": {
@@ -8303,12 +8303,12 @@
       "Nicholas Singleton"
     ],
     "avi_id": "AVI-00013288",
-    "c_avi": 29.1,
+    "c_avi": 29.2,
     "canonical_name": "Nicholas Singleton",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 76.11111111111111,
-      "elite_upside": 26.95890814241723,
+      "elite_upside": 27.04435129120737,
       "health_outlook": null,
       "league_context": 9.752212389380531,
       "long_term_ceiling": 50.5,
@@ -8316,8 +8316,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 7.699115044247788,
-      "public_market": 71.89842537147926,
-      "redraft_market": 63.47305389221557
+      "public_market": 72.1832358674464,
+      "redraft_market": 64.32748538011695
     },
     "d_avi": 68.7,
     "match": {
@@ -8597,12 +8597,12 @@
       "Emmett Johnson"
     ],
     "avi_id": "AVI-00013337",
-    "c_avi": 35.3,
+    "c_avi": 35.4,
     "canonical_name": "Emmett Johnson",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 73.33333333333333,
-      "elite_upside": 33.21337855262926,
+      "elite_upside": 33.296020286704966,
       "health_outlook": null,
       "league_context": 21.858407079646017,
       "long_term_ceiling": 52.3,
@@ -8610,8 +8610,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 17.25663716814159,
-      "public_market": 70.44577511643381,
-      "redraft_market": 64.67065868263474
+      "public_market": 70.72124756335283,
+      "redraft_market": 65.49707602339181
     },
     "d_avi": 68.2,
     "match": {
@@ -8646,12 +8646,12 @@
       "Braelon Allen"
     ],
     "avi_id": "AVI-00011576",
-    "c_avi": 44.1,
+    "c_avi": 44.2,
     "canonical_name": "Braelon Allen",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 70.0,
-      "elite_upside": 42.138148481797465,
+      "elite_upside": 42.21378667908709,
       "health_outlook": null,
       "league_context": 38.67256637168141,
       "long_term_ceiling": 55.2,
@@ -8659,8 +8659,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 30.530973451327434,
-      "public_market": 69.22155688622755,
-      "redraft_market": 67.66467065868264
+      "public_market": 69.47368421052632,
+      "redraft_market": 68.42105263157895
     },
     "d_avi": 68.0,
     "match": {
@@ -8695,12 +8695,12 @@
       "Tank Bigsby"
     ],
     "avi_id": "AVI-00009225",
-    "c_avi": 42.6,
+    "c_avi": 42.7,
     "canonical_name": "Tank Bigsby",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 70.55555555555556,
-      "elite_upside": 40.57049323182543,
+      "elite_upside": 40.70040883920716,
       "health_outlook": null,
       "league_context": 35.309734513274336,
       "long_term_ceiling": 54.6,
@@ -8708,8 +8708,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 27.876106194690262,
-      "public_market": 70.1907296518075,
-      "redraft_market": 69.46107784431138
+      "public_market": 70.62378167641326,
+      "redraft_market": 70.76023391812865
     },
     "d_avi": 68.0,
     "match": {
@@ -8843,12 +8843,12 @@
       "Alvin Kamara"
     ],
     "avi_id": "AVI-00004035",
-    "c_avi": 48.9,
+    "c_avi": 49.0,
     "canonical_name": "Alvin Kamara",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 67.77777777777777,
-      "elite_upside": 46.94472412107937,
+      "elite_upside": 47.06903689903224,
       "health_outlook": null,
       "league_context": 47.415929203539825,
       "long_term_ceiling": 56.4,
@@ -8856,8 +8856,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 37.43362831858407,
-      "public_market": 69.13728099356841,
-      "redraft_market": 71.8562874251497
+      "public_market": 69.55165692007797,
+      "redraft_market": 73.09941520467837
     },
     "d_avi": 67.6,
     "match": {
@@ -8893,12 +8893,12 @@
       "Mike Washington Jr."
     ],
     "avi_id": "AVI-00013305",
-    "c_avi": 42.7,
+    "c_avi": 42.8,
     "canonical_name": "Mike Washington",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 69.44444444444444,
-      "elite_upside": 40.80463262266028,
+      "elite_upside": 40.83299694664389,
       "health_outlook": null,
       "league_context": 37.32743362831859,
       "long_term_ceiling": 54.5,
@@ -8906,8 +8906,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 29.469026548672563,
-      "public_market": 67.25438012863162,
-      "redraft_market": 62.874251497005986
+      "public_market": 67.34892787524366,
+      "redraft_market": 63.1578947368421
     },
     "d_avi": 67.4,
     "match": {
@@ -8996,7 +8996,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 70.3862660944206,
-      "elite_upside": 29.655600326322137,
+      "elite_upside": 29.61427801227255,
       "health_outlook": null,
       "league_context": 16.973333333333333,
       "long_term_ceiling": 49.0,
@@ -9004,8 +9004,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 13.399999999999999,
-      "public_market": 67.5853344210738,
-      "redraft_market": 61.98347107438016
+      "public_market": 67.44759337424183,
+      "redraft_market": 61.570247933884296
     },
     "d_avi": 67.1,
     "match": {
@@ -9143,7 +9143,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 68.6695278969957,
-      "elite_upside": 33.33340971163054,
+      "elite_upside": 33.29208739758096,
       "health_outlook": null,
       "league_context": 23.053333333333335,
       "long_term_ceiling": 49.7,
@@ -9151,8 +9151,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 18.2,
-      "public_market": 68.64469903876848,
-      "redraft_market": 68.59504132231405
+      "public_market": 68.50695799193653,
+      "redraft_market": 68.18181818181819
     },
     "d_avi": 66.7,
     "match": {
@@ -9187,12 +9187,12 @@
       "Keaton Mitchell"
     ],
     "avi_id": "AVI-00009511",
-    "c_avi": 42.3,
+    "c_avi": 42.4,
     "canonical_name": "Keaton Mitchell",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 68.33333333333333,
-      "elite_upside": 40.377969724268276,
+      "elite_upside": 40.45220721420069,
       "health_outlook": null,
       "league_context": 35.98230088495575,
       "long_term_ceiling": 53.4,
@@ -9200,8 +9200,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 28.4070796460177,
-      "public_market": 68.31004657351963,
-      "redraft_market": 68.26347305389221
+      "public_market": 68.55750487329435,
+      "redraft_market": 69.00584795321637
     },
     "d_avi": 66.6,
     "match": {
@@ -9388,7 +9388,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 73.4375,
-      "elite_upside": 45.186373873873876,
+      "elite_upside": 45.25394144144144,
       "health_outlook": null,
       "league_context": 40.638888888888886,
       "long_term_ceiling": 57.9,
@@ -9396,8 +9396,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 32.08333333333333,
-      "public_market": 75.76013513513514,
-      "redraft_market": 80.4054054054054
+      "public_market": 75.98536036036036,
+      "redraft_market": 81.08108108108108
     },
     "d_avi": 66.2,
     "match": {
@@ -9432,12 +9432,12 @@
       "Jalen Nailor"
     ],
     "avi_id": "AVI-00008180",
-    "c_avi": 45.4,
+    "c_avi": 45.5,
     "canonical_name": "Jalen Nailor",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 64.37768240343348,
-      "elite_upside": 43.560329869116444,
+      "elite_upside": 43.60165218316603,
       "health_outlook": null,
       "league_context": 42.81333333333333,
       "long_term_ceiling": 52.9,
@@ -9445,8 +9445,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 33.8,
-      "public_market": 66.33443289705484,
-      "redraft_market": 70.24793388429752
+      "public_market": 66.47217394388679,
+      "redraft_market": 70.66115702479338
     },
     "d_avi": 66.2,
     "match": {
@@ -9536,7 +9536,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 66.66666666666667,
-      "elite_upside": 42.33460512603112,
+      "elite_upside": 42.40744190860632,
       "health_outlook": null,
       "league_context": 40.01769911504425,
       "long_term_ceiling": 53.5,
@@ -9544,8 +9544,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 31.5929203539823,
-      "public_market": 67.39853626081172,
-      "redraft_market": 68.8622754491018
+      "public_market": 67.64132553606238,
+      "redraft_market": 69.5906432748538
     },
     "d_avi": 65.9,
     "match": {
@@ -9580,12 +9580,12 @@
       "Kaytron Allen"
     ],
     "avi_id": "AVI-00013405",
-    "c_avi": 28.7,
+    "c_avi": 28.8,
     "canonical_name": "Kaytron Allen",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 71.66666666666667,
-      "elite_upside": 26.693621606344827,
+      "elite_upside": 26.723386637685657,
       "health_outlook": null,
       "league_context": 11.097345132743362,
       "long_term_ceiling": 48.1,
@@ -9593,8 +9593,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 8.761061946902654,
-      "public_market": 68.53626081170991,
-      "redraft_market": 62.275449101796404
+      "public_market": 68.63547758284601,
+      "redraft_market": 62.57309941520468
     },
     "d_avi": 65.8,
     "match": {
@@ -9634,7 +9634,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 76.5625,
-      "elite_upside": 32.27759009009009,
+      "elite_upside": 32.21002252252252,
       "health_outlook": null,
       "league_context": 18.47222222222222,
       "long_term_ceiling": 53.3,
@@ -9642,8 +9642,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 14.583333333333334,
-      "public_market": 73.56418918918918,
-      "redraft_market": 67.56756756756756
+      "public_market": 73.33896396396396,
+      "redraft_market": 66.89189189189189
     },
     "d_avi": 65.5,
     "match": {
@@ -9683,7 +9683,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 66.09442060085837,
-      "elite_upside": 34.64516511190721,
+      "elite_upside": 34.603842797857624,
       "health_outlook": null,
       "league_context": 27.106666666666662,
       "long_term_ceiling": 49.3,
@@ -9691,8 +9691,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 21.4,
-      "public_market": 65.55055037302404,
-      "redraft_market": 64.46280991735537
+      "public_market": 65.41280932619208,
+      "redraft_market": 64.0495867768595
     },
     "d_avi": 65.4,
     "match": {
@@ -9776,12 +9776,12 @@
       "Evan Engram"
     ],
     "avi_id": "AVI-00004066",
-    "c_avi": 50.2,
+    "c_avi": 50.1,
     "canonical_name": "Evan Engram",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 70.3125,
-      "elite_upside": 48.12894144144144,
+      "elite_upside": 48.061373873873876,
       "health_outlook": null,
       "league_context": 46.97222222222223,
       "long_term_ceiling": 57.9,
@@ -9789,8 +9789,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 37.083333333333336,
-      "public_market": 73.90202702702703,
-      "redraft_market": 81.08108108108108
+      "public_market": 73.6768018018018,
+      "redraft_market": 80.4054054054054
     },
     "d_avi": 64.8,
     "match": {
@@ -9879,7 +9879,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 66.11111111111111,
-      "elite_upside": 37.46391582616478,
+      "elite_upside": 37.54375614552606,
       "health_outlook": null,
       "league_context": 31.94690265486726,
       "long_term_ceiling": 50.8,
@@ -9887,8 +9887,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 25.221238938053098,
-      "public_market": 66.03016189842538,
-      "redraft_market": 65.86826347305389
+      "public_market": 66.2962962962963,
+      "redraft_market": 66.66666666666667
     },
     "d_avi": 64.6,
     "match": {
@@ -10075,7 +10075,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 71.09375,
-      "elite_upside": 43.12077702702703,
+      "elite_upside": 43.05320945945945,
       "health_outlook": null,
       "league_context": 39.583333333333336,
       "long_term_ceiling": 56.2,
@@ -10083,8 +10083,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 31.25,
-      "public_market": 70.81925675675676,
-      "redraft_market": 70.27027027027027
+      "public_market": 70.59403153153153,
+      "redraft_market": 69.5945945945946
     },
     "d_avi": 64.3,
     "match": {
@@ -10165,65 +10165,16 @@
   {
     "active": true,
     "aliases": [
-      "Dontayvion Wicks"
-    ],
-    "avi_id": "AVI-00009486",
-    "c_avi": 36.6,
-    "canonical_name": "Dontayvion Wicks",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 63.94849785407725,
-      "elite_upside": 34.63845990139396,
-      "health_outlook": null,
-      "league_context": 26.6,
-      "long_term_ceiling": 47.8,
-      "long_term_security": null,
-      "player_points": 0.0,
-      "position_liquidity": 100.0,
-      "projection": 21.0,
-      "public_market": 66.46153300464654,
-      "redraft_market": 71.48760330578513
-    },
-    "d_avi": 64.1,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_2026_2",
-    "nfl_team": "PHI",
-    "normalized_name": "dontayvion wicks",
-    "position": "WR",
-    "projection": {
-      "component_score": 21.0,
-      "percentile": 35.0,
-      "position_rank": 98,
-      "raw_points": 80.99
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 23253,
-      "fantasypros_id": "24354",
-      "nfl_id": "2569759",
-      "rotowire_id": 16658,
-      "sleeper_id": "9486",
-      "sportradar_id": "ea3d1393-8c3b-4e81-a519-f636d28d692e",
-      "sportsdata_player_id": "ea3d1393-8c3b-4e81-a519-f636d28d692e"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Ollie Gordon",
       "Ollie Gordon II"
     ],
     "avi_id": "AVI-00012495",
-    "c_avi": 33.8,
+    "c_avi": 33.9,
     "canonical_name": "Ollie Gordon",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 67.22222222222223,
-      "elite_upside": 31.94367606968953,
+      "elite_upside": 32.036122755265744,
       "health_outlook": null,
       "league_context": 22.530973451327434,
       "long_term_ceiling": 48.7,
@@ -10231,8 +10182,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 17.787610619469028,
-      "public_market": 64.97449545353737,
-      "redraft_market": 60.47904191616767
+      "public_market": 65.28265107212475,
+      "redraft_market": 61.40350877192982
     },
     "d_avi": 64.1,
     "match": {
@@ -10259,6 +10210,55 @@
       "sleeper_id": "12495",
       "sportradar_id": "42753bb4-a416-4d40-bf81-f20d2181be2f",
       "sportsdata_player_id": "42753bb4-a416-4d40-bf81-f20d2181be2f"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Dontayvion Wicks"
+    ],
+    "avi_id": "AVI-00009486",
+    "c_avi": 36.5,
+    "canonical_name": "Dontayvion Wicks",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 63.94849785407725,
+      "elite_upside": 34.59713758734438,
+      "health_outlook": null,
+      "league_context": 26.6,
+      "long_term_ceiling": 47.8,
+      "long_term_security": null,
+      "player_points": 0.0,
+      "position_liquidity": 100.0,
+      "projection": 21.0,
+      "public_market": 66.32379195781459,
+      "redraft_market": 71.07438016528926
+    },
+    "d_avi": 64.0,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_2026_2",
+    "nfl_team": "PHI",
+    "normalized_name": "dontayvion wicks",
+    "position": "WR",
+    "projection": {
+      "component_score": 21.0,
+      "percentile": 35.0,
+      "position_rank": 98,
+      "raw_points": 80.99
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 23253,
+      "fantasypros_id": "24354",
+      "nfl_id": "2569759",
+      "rotowire_id": 16658,
+      "sleeper_id": "9486",
+      "sportradar_id": "ea3d1393-8c3b-4e81-a519-f636d28d692e",
+      "sportsdata_player_id": "ea3d1393-8c3b-4e81-a519-f636d28d692e"
     }
   },
   {
@@ -10370,7 +10370,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 62.66094420600859,
-      "elite_upside": 36.91020537012733,
+      "elite_upside": 36.86888305607775,
       "health_outlook": null,
       "league_context": 30.653333333333336,
       "long_term_ceiling": 48.2,
@@ -10378,8 +10378,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 24.2,
-      "public_market": 66.56735123375779,
-      "redraft_market": 74.3801652892562
+      "public_market": 66.42961018692584,
+      "redraft_market": 73.96694214876032
     },
     "d_avi": 63.7,
     "match": {
@@ -10414,12 +10414,12 @@
       "MarShawn Lloyd"
     ],
     "avi_id": "AVI-00011581",
-    "c_avi": 36.2,
+    "c_avi": 36.4,
     "canonical_name": "MarShawn Lloyd",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 65.55555555555556,
-      "elite_upside": 34.331873126902536,
+      "elite_upside": 34.538477462091805,
       "health_outlook": null,
       "league_context": 27.238938053097343,
       "long_term_ceiling": 49.0,
@@ -10427,8 +10427,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 21.50442477876106,
-      "public_market": 64.26258593923265,
-      "redraft_market": 61.67664670658683
+      "public_market": 64.95126705653021,
+      "redraft_market": 63.74269005847953
     },
     "d_avi": 63.6,
     "match": {
@@ -10468,7 +10468,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 59.227467811158796,
-      "elite_upside": 44.70615471925655,
+      "elite_upside": 44.664832405206965,
       "health_outlook": null,
       "league_context": 45.85333333333334,
       "long_term_ceiling": 50.6,
@@ -10476,8 +10476,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 36.2,
-      "public_market": 64.55384906418851,
-      "redraft_market": 75.20661157024793
+      "public_market": 64.41610801735656,
+      "redraft_market": 74.79338842975207
     },
     "d_avi": 63.2,
     "match": {
@@ -10517,7 +10517,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 72.65625,
-      "elite_upside": 33.135979729729726,
+      "elite_upside": 33.20354729729729,
       "health_outlook": null,
       "league_context": 20.583333333333336,
       "long_term_ceiling": 51.5,
@@ -10525,8 +10525,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 16.25,
-      "public_market": 72.53659909909909,
-      "redraft_market": 72.29729729729729
+      "public_market": 72.76182432432432,
+      "redraft_market": 72.97297297297297
     },
     "d_avi": 63.2,
     "match": {
@@ -10610,12 +10610,12 @@
       "Kaleb Johnson"
     ],
     "avi_id": "AVI-00012504",
-    "c_avi": 23.1,
+    "c_avi": 23.2,
     "canonical_name": "Kaleb Johnson",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 68.88888888888889,
-      "elite_upside": 21.223647101078075,
+      "elite_upside": 21.281426279563213,
       "health_outlook": null,
       "league_context": 4.371681415929203,
       "long_term_ceiling": 44.3,
@@ -10623,8 +10623,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 3.451327433628318,
-      "public_market": 62.692392991794186,
-      "redraft_market": 50.29940119760479
+      "public_market": 62.8849902534113,
+      "redraft_market": 50.87719298245614
     },
     "d_avi": 62.9,
     "match": {
@@ -10708,12 +10708,12 @@
       "Emanuel Wilson"
     ],
     "avi_id": "AVI-00011435",
-    "c_avi": 38.1,
+    "c_avi": 38.2,
     "canonical_name": "Emanuel Wilson",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 62.77777777777778,
-      "elite_upside": 36.245927025006026,
+      "elite_upside": 36.32996946643895,
       "health_outlook": null,
       "league_context": 31.27433628318584,
       "long_term_ceiling": 48.5,
@@ -10721,8 +10721,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 24.69026548672566,
-      "public_market": 63.209137280993566,
-      "redraft_market": 64.07185628742515
+      "public_market": 63.489278752436654,
+      "redraft_market": 64.91228070175438
     },
     "d_avi": 62.2,
     "match": {
@@ -10762,7 +10762,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 63.888888888888886,
-      "elite_upside": 32.679054869611804,
+      "elite_upside": 32.75609377425865,
       "health_outlook": null,
       "league_context": 23.876106194690266,
       "long_term_ceiling": 47.0,
@@ -10770,8 +10770,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 18.84955752212389,
-      "public_market": 64.94788201375027,
-      "redraft_market": 67.06586826347305
+      "public_market": 65.20467836257309,
+      "redraft_market": 67.83625730994152
     },
     "d_avi": 62.2,
     "match": {
@@ -10855,12 +10855,12 @@
       "Cole Kmet"
     ],
     "avi_id": "AVI-00006826",
-    "c_avi": 41.1,
+    "c_avi": 41.2,
     "canonical_name": "Cole Kmet",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 68.75,
-      "elite_upside": 39.08445945945945,
+      "elite_upside": 39.2195945945946,
       "health_outlook": null,
       "league_context": 33.25,
       "long_term_ceiling": 52.8,
@@ -10868,8 +10868,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 26.25,
-      "public_market": 69.03153153153153,
-      "redraft_market": 69.5945945945946
+      "public_market": 69.48198198198197,
+      "redraft_market": 70.94594594594595
     },
     "d_avi": 62.0,
     "match": {
@@ -10909,7 +10909,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 58.798283261802574,
-      "elite_upside": 39.12577235483985,
+      "elite_upside": 39.08445004079026,
       "health_outlook": null,
       "league_context": 36.733333333333334,
       "long_term_ceiling": 47.6,
@@ -10917,8 +10917,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 29.0,
-      "public_market": 62.752574516132846,
-      "redraft_market": 70.66115702479338
+      "public_market": 62.61483346930089,
+      "redraft_market": 70.24793388429752
     },
     "d_avi": 61.7,
     "match": {
@@ -10953,12 +10953,12 @@
       "Demond Claiborne"
     ],
     "avi_id": "AVI-00013347",
-    "c_avi": 28.9,
+    "c_avi": 29.0,
     "canonical_name": "Demond Claiborne",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 65.0,
-      "elite_upside": 27.051454612898098,
+      "elite_upside": 27.152305542617604,
       "health_outlook": null,
       "league_context": 15.13274336283186,
       "long_term_ceiling": 45.1,
@@ -10966,8 +10966,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 11.946902654867257,
-      "public_market": 62.29540918163673,
-      "redraft_market": 56.88622754491018
+      "public_market": 62.63157894736842,
+      "redraft_market": 57.89473684210526
     },
     "d_avi": 61.7,
     "match": {
@@ -11007,7 +11007,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 67.96875,
-      "elite_upside": 39.84938063063063,
+      "elite_upside": 39.781813063063055,
       "health_outlook": null,
       "league_context": 34.30555555555556,
       "long_term_ceiling": 52.6,
@@ -11015,8 +11015,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 27.083333333333332,
-      "public_market": 69.63682432432432,
-      "redraft_market": 72.97297297297297
+      "public_market": 69.41159909909909,
+      "redraft_market": 72.29729729729729
     },
     "d_avi": 61.6,
     "match": {
@@ -11146,6 +11146,55 @@
   {
     "active": true,
     "aliases": [
+      "Jaydon Blue"
+    ],
+    "avi_id": "AVI-00012457",
+    "c_avi": 36.3,
+    "canonical_name": "Jaydon Blue",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 61.666666666666664,
+      "elite_upside": 34.58334627128292,
+      "health_outlook": null,
+      "league_context": 29.25663716814159,
+      "long_term_ceiling": 47.2,
+      "long_term_security": null,
+      "player_points": 0.0,
+      "position_liquidity": 91.2,
+      "projection": 23.09734513274336,
+      "public_market": 61.384015594541914,
+      "redraft_market": 60.8187134502924
+    },
+    "d_avi": 61.2,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_2026_2",
+    "nfl_team": "DAL",
+    "normalized_name": "jaydon blue",
+    "position": "RB",
+    "projection": {
+      "component_score": 23.09734513274336,
+      "percentile": 38.49557522123894,
+      "position_rank": 70,
+      "raw_points": 46.51
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26038,
+      "fantasypros_id": "24344",
+      "nfl_id": "2574068",
+      "rotowire_id": 18499,
+      "sleeper_id": "12457",
+      "sportradar_id": "f5e6eb8e-2c76-4bf9-b47f-57c62659341d",
+      "sportsdata_player_id": "f5e6eb8e-2c76-4bf9-b47f-57c62659341d"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Sean Tucker"
     ],
     "avi_id": "AVI-00009506",
@@ -11154,7 +11203,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 63.333333333333336,
-      "elite_upside": 29.7865331284334,
+      "elite_upside": 29.867774155151892,
       "health_outlook": null,
       "league_context": 19.168141592920357,
       "long_term_ceiling": 45.3,
@@ -11162,8 +11211,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 15.132743362831858,
-      "public_market": 63.97870924817033,
-      "redraft_market": 65.26946107784431
+      "public_market": 64.24951267056531,
+      "redraft_market": 66.08187134502924
     },
     "d_avi": 61.2,
     "match": {
@@ -11199,12 +11248,12 @@
       "Marvin Mims Jr."
     ],
     "avi_id": "AVI-00009494",
-    "c_avi": 31.5,
+    "c_avi": 31.6,
     "canonical_name": "Marvin Mims",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 60.94420600858369,
-      "elite_upside": 29.759254424857232,
+      "elite_upside": 29.80057673890682,
       "health_outlook": null,
       "league_context": 21.02666666666667,
       "long_term_ceiling": 44.3,
@@ -11212,8 +11261,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 16.6,
-      "public_market": 60.464181416190776,
-      "redraft_market": 59.50413223140496
+      "public_market": 60.60192246302273,
+      "redraft_market": 59.917355371900825
     },
     "d_avi": 61.2,
     "match": {
@@ -11240,55 +11289,6 @@
       "sleeper_id": "9494",
       "sportradar_id": "fcd780e6-6d43-4c2e-b740-59ae09911345",
       "sportsdata_player_id": "fcd780e6-6d43-4c2e-b740-59ae09911345"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Jaydon Blue"
-    ],
-    "avi_id": "AVI-00012457",
-    "c_avi": 36.2,
-    "canonical_name": "Jaydon Blue",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 61.666666666666664,
-      "elite_upside": 34.489498878349494,
-      "health_outlook": null,
-      "league_context": 29.25663716814159,
-      "long_term_ceiling": 47.2,
-      "long_term_security": null,
-      "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 23.09734513274336,
-      "public_market": 61.071190951430474,
-      "redraft_market": 59.880239520958085
-    },
-    "d_avi": 61.1,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_2026_2",
-    "nfl_team": "DAL",
-    "normalized_name": "jaydon blue",
-    "position": "RB",
-    "projection": {
-      "component_score": 23.09734513274336,
-      "percentile": 38.49557522123894,
-      "position_rank": 70,
-      "raw_points": 46.51
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26038,
-      "fantasypros_id": "24344",
-      "nfl_id": "2574068",
-      "rotowire_id": 18499,
-      "sleeper_id": "12457",
-      "sportradar_id": "f5e6eb8e-2c76-4bf9-b47f-57c62659341d",
-      "sportsdata_player_id": "f5e6eb8e-2c76-4bf9-b47f-57c62659341d"
     }
   },
   {
@@ -11346,12 +11346,12 @@
       "Jaylen Wright"
     ],
     "avi_id": "AVI-00011643",
-    "c_avi": 37.0,
+    "c_avi": 37.1,
     "canonical_name": "Jaylen Wright",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 61.111111111111114,
-      "elite_upside": 35.24151107813871,
+      "elite_upside": 35.33255705635771,
       "health_outlook": null,
       "league_context": 30.601769911504427,
       "long_term_ceiling": 47.3,
@@ -11359,8 +11359,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 24.15929203539823,
-      "public_market": 61.10002217786649,
-      "redraft_market": 61.07784431137725
+      "public_market": 61.40350877192983,
+      "redraft_market": 61.98830409356725
     },
     "d_avi": 61.0,
     "match": {
@@ -11395,12 +11395,12 @@
       "James Conner"
     ],
     "avi_id": "AVI-00004137",
-    "c_avi": 38.6,
+    "c_avi": 38.7,
     "canonical_name": "James Conner",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 60.55555555555556,
-      "elite_upside": 36.784366370503825,
+      "elite_upside": 36.86280598250789,
       "health_outlook": null,
       "league_context": 32.61946902654867,
       "long_term_ceiling": 47.5,
@@ -11408,8 +11408,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 25.75221238938053,
-      "public_market": 62.526058993124856,
-      "redraft_market": 66.46706586826348
+      "public_market": 62.787524366471736,
+      "redraft_market": 67.25146198830409
     },
     "d_avi": 60.9,
     "match": {
@@ -11695,7 +11695,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 57.081545064377686,
-      "elite_upside": 36.193333806263965,
+      "elite_upside": 36.23465612031356,
       "health_outlook": null,
       "league_context": 33.693333333333335,
       "long_term_ceiling": 45.7,
@@ -11703,8 +11703,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 26.6,
-      "public_market": 58.57777935421322,
-      "redraft_market": 61.570247933884296
+      "public_market": 58.71552040104518,
+      "redraft_market": 61.98347107438016
     },
     "d_avi": 60.1,
     "match": {
@@ -11739,12 +11739,12 @@
       "Jordan James"
     ],
     "avi_id": "AVI-00012467",
-    "c_avi": 40.5,
+    "c_avi": 40.8,
     "canonical_name": "Jordan James",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 58.333333333333336,
-      "elite_upside": 38.91901153445321,
+      "elite_upside": 39.14102365057185,
       "health_outlook": null,
       "league_context": 39.345132743362825,
       "long_term_ceiling": 48.1,
@@ -11752,8 +11752,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 31.061946902654864,
-      "public_market": 57.252162341982704,
-      "redraft_market": 55.08982035928144
+      "public_market": 57.992202729044834,
+      "redraft_market": 57.30994152046784
     },
     "d_avi": 60.0,
     "match": {
@@ -11780,6 +11780,55 @@
       "sleeper_id": "12467",
       "sportradar_id": "c16040c3-7534-4eeb-956c-8ed3be9972ec",
       "sportsdata_player_id": "c16040c3-7534-4eeb-956c-8ed3be9972ec"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Kaelon Black"
+    ],
+    "avi_id": "AVI-00013414",
+    "c_avi": 38.9,
+    "canonical_name": "Kaelon Black",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 58.888888888888886,
+      "elite_upside": 37.29757284065621,
+      "health_outlook": null,
+      "league_context": 36.654867256637175,
+      "long_term_ceiling": 47.7,
+      "long_term_security": null,
+      "player_points": 0.0,
+      "position_liquidity": 91.2,
+      "projection": 28.938053097345133,
+      "public_market": 56.80311890838206,
+      "redraft_market": 52.63157894736842
+    },
+    "d_avi": 60.0,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_2026_2",
+    "nfl_team": "SF",
+    "normalized_name": "kaelon black",
+    "position": "RB",
+    "projection": {
+      "component_score": 28.938053097345133,
+      "percentile": 48.230088495575224,
+      "position_rank": 59,
+      "raw_points": 72.86
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26981,
+      "fantasypros_id": "28401",
+      "nfl_id": null,
+      "rotowire_id": 19607,
+      "sleeper_id": "13414",
+      "sportradar_id": "4dea3ae1-8c53-4ef1-bd72-e2d2dfb3fa97",
+      "sportsdata_player_id": "4dea3ae1-8c53-4ef1-bd72-e2d2dfb3fa97"
     }
   },
   {
@@ -11834,104 +11883,6 @@
   {
     "active": true,
     "aliases": [
-      "Kaelon Black"
-    ],
-    "avi_id": "AVI-00013414",
-    "c_avi": 38.7,
-    "canonical_name": "Kaelon Black",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 58.888888888888886,
-      "elite_upside": 37.1242353052008,
-      "health_outlook": null,
-      "league_context": 36.654867256637175,
-      "long_term_ceiling": 47.7,
-      "long_term_security": null,
-      "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 28.938053097345133,
-      "public_market": 56.22532712353071,
-      "redraft_market": 50.89820359281437
-    },
-    "d_avi": 60.0,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_2026_2",
-    "nfl_team": "SF",
-    "normalized_name": "kaelon black",
-    "position": "RB",
-    "projection": {
-      "component_score": 28.938053097345133,
-      "percentile": 48.230088495575224,
-      "position_rank": 59,
-      "raw_points": 72.86
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26981,
-      "fantasypros_id": "28401",
-      "nfl_id": null,
-      "rotowire_id": 19607,
-      "sleeper_id": "13414",
-      "sportradar_id": "4dea3ae1-8c53-4ef1-bd72-e2d2dfb3fa97",
-      "sportsdata_player_id": "4dea3ae1-8c53-4ef1-bd72-e2d2dfb3fa97"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Trey Benson"
-    ],
-    "avi_id": "AVI-00011589",
-    "c_avi": 21.3,
-    "canonical_name": "Trey Benson",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 64.44444444444444,
-      "elite_upside": 19.453034933083686,
-      "health_outlook": null,
-      "league_context": 2.017699115044248,
-      "long_term_ceiling": 40.9,
-      "long_term_security": null,
-      "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 1.592920353982301,
-      "public_market": 61.126635617653584,
-      "redraft_market": 54.49101796407186
-    },
-    "d_avi": 59.8,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_2026_2",
-    "nfl_team": "ARI",
-    "normalized_name": "trey benson",
-    "position": "RB",
-    "projection": {
-      "component_score": 1.592920353982301,
-      "percentile": 2.6548672566371683,
-      "position_rank": 111,
-      "raw_points": 0.0
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24292,
-      "fantasypros_id": "25388",
-      "nfl_id": "2572405",
-      "rotowire_id": 17767,
-      "sleeper_id": "11589",
-      "sportradar_id": "0c1253f2-1822-445d-8590-fea6fd32703f",
-      "sportsdata_player_id": "0c1253f2-1822-445d-8590-fea6fd32703f"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Xavier Legette"
     ],
     "avi_id": "AVI-00011626",
@@ -11940,7 +11891,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 55.79399141630901,
-      "elite_upside": 38.430533820451885,
+      "elite_upside": 38.34788919235271,
       "health_outlook": null,
       "league_context": 38.50666666666666,
       "long_term_ceiling": 46.3,
@@ -11948,8 +11899,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 30.4,
-      "public_market": 57.168446068172955,
-      "redraft_market": 59.917355371900825
+      "public_market": 56.89296397450904,
+      "redraft_market": 59.09090909090909
     },
     "d_avi": 59.7,
     "match": {
@@ -11981,15 +11932,64 @@
   {
     "active": true,
     "aliases": [
+      "Trey Benson"
+    ],
+    "avi_id": "AVI-00011589",
+    "c_avi": 21.2,
+    "canonical_name": "Trey Benson",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 64.44444444444444,
+      "elite_upside": 19.384050095740825,
+      "health_outlook": null,
+      "league_context": 2.017699115044248,
+      "long_term_ceiling": 40.9,
+      "long_term_security": null,
+      "player_points": 0.0,
+      "position_liquidity": 91.2,
+      "projection": 1.592920353982301,
+      "public_market": 60.89668615984405,
+      "redraft_market": 53.801169590643276
+    },
+    "d_avi": 59.7,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_2026_2",
+    "nfl_team": "ARI",
+    "normalized_name": "trey benson",
+    "position": "RB",
+    "projection": {
+      "component_score": 1.592920353982301,
+      "percentile": 2.6548672566371683,
+      "position_rank": 111,
+      "raw_points": 0.0
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24292,
+      "fantasypros_id": "25388",
+      "nfl_id": "2572405",
+      "rotowire_id": 17767,
+      "sleeper_id": "11589",
+      "sportradar_id": "0c1253f2-1822-445d-8590-fea6fd32703f",
+      "sportsdata_player_id": "0c1253f2-1822-445d-8590-fea6fd32703f"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Devin Neal"
     ],
     "avi_id": "AVI-00012476",
-    "c_avi": 24.6,
+    "c_avi": 24.7,
     "canonical_name": "Devin Neal",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 62.22222222222222,
-      "elite_upside": 22.851365116374918,
+      "elite_upside": 22.90074005071676,
       "health_outlook": null,
       "league_context": 9.079646017699115,
       "long_term_ceiling": 41.6,
@@ -11997,8 +11997,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 7.168141592920354,
-      "public_market": 59.44555333776891,
-      "redraft_market": 53.89221556886228
+      "public_market": 59.61013645224171,
+      "redraft_market": 54.3859649122807
     },
     "d_avi": 59.1,
     "match": {
@@ -12329,12 +12329,12 @@
       "LeQuint Allen Jr."
     ],
     "avi_id": "AVI-00012544",
-    "c_avi": 34.2,
+    "c_avi": 34.5,
     "canonical_name": "LeQuint Allen",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 57.77777777777778,
-      "elite_upside": 32.621476810391016,
+      "elite_upside": 32.90757128810226,
       "health_outlook": null,
       "league_context": 28.584070796460175,
       "long_term_ceiling": 44.6,
@@ -12342,10 +12342,10 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 22.566371681415927,
-      "public_market": 56.08338877799955,
-      "redraft_market": 52.69461077844311
+      "public_market": 57.03703703703704,
+      "redraft_market": 55.55555555555556
     },
-    "d_avi": 58.3,
+    "d_avi": 58.4,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -12378,12 +12378,12 @@
       "Brashard Smith"
     ],
     "avi_id": "AVI-00012455",
-    "c_avi": 29.3,
+    "c_avi": 29.5,
     "canonical_name": "Brashard Smith",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 59.44444444444444,
-      "elite_upside": 27.703790059997992,
+      "elite_upside": 27.824250892718517,
       "health_outlook": null,
       "league_context": 19.84070796460177,
       "long_term_ceiling": 43.0,
@@ -12391,10 +12391,10 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 15.66371681415929,
-      "public_market": 55.797294300288314,
-      "redraft_market": 48.50299401197605
+      "public_market": 56.198830409356724,
+      "redraft_market": 49.707602339181285
     },
-    "d_avi": 58.3,
+    "d_avi": 58.4,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -12427,12 +12427,12 @@
       "Isaiah Davis"
     ],
     "avi_id": "AVI-00011571",
-    "c_avi": 34.4,
+    "c_avi": 34.5,
     "canonical_name": "Isaiah Davis",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 57.22222222222222,
-      "elite_upside": 32.73748667856028,
+      "elite_upside": 32.83413548620815,
       "health_outlook": null,
       "league_context": 27.911504424778762,
       "long_term_ceiling": 44.0,
@@ -12440,8 +12440,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 22.035398230088497,
-      "public_market": 57.70902639166112,
-      "redraft_market": 58.68263473053892
+      "public_market": 58.031189083820664,
+      "redraft_market": 59.64912280701754
     },
     "d_avi": 58.0,
     "match": {
@@ -12574,12 +12574,12 @@
       "Bryce Lance"
     ],
     "avi_id": "AVI-00013420",
-    "c_avi": 24.1,
+    "c_avi": 24.2,
     "canonical_name": "Bryce Lance",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 57.51072961373391,
-      "elite_upside": 22.554212038449258,
+      "elite_upside": 22.59553435249885,
       "health_outlook": null,
       "league_context": 11.399999999999999,
       "long_term_ceiling": 39.3,
@@ -12587,8 +12587,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 9.0,
-      "public_market": 54.18070679483086,
-      "redraft_market": 47.52066115702479
+      "public_market": 54.318447841662824,
+      "redraft_market": 47.93388429752066
     },
     "d_avi": 57.5,
     "match": {
@@ -12628,7 +12628,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 53.21888412017167,
-      "elite_upside": 34.89286773312524,
+      "elite_upside": 34.93419004717483,
       "health_outlook": null,
       "league_context": 33.18666666666667,
       "long_term_ceiling": 43.1,
@@ -12636,8 +12636,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 26.2,
-      "public_market": 55.17622577708414,
-      "redraft_market": 59.09090909090909
+      "public_market": 55.313966823916104,
+      "redraft_market": 59.50413223140496
     },
     "d_avi": 57.4,
     "match": {
@@ -12672,12 +12672,12 @@
       "DJ Giddens"
     ],
     "avi_id": "AVI-00012471",
-    "c_avi": 32.3,
+    "c_avi": 32.4,
     "canonical_name": "DJ Giddens",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 56.666666666666664,
-      "elite_upside": 30.648208008761234,
+      "elite_upside": 30.747658231123527,
       "health_outlook": null,
       "league_context": 24.54867256637168,
       "long_term_ceiling": 42.7,
@@ -12685,8 +12685,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 19.380530973451325,
-      "public_market": 56.93945442448436,
-      "redraft_market": 57.48502994011976
+      "public_market": 57.27095516569201,
+      "redraft_market": 58.47953216374269
     },
     "d_avi": 57.2,
     "match": {
@@ -12966,12 +12966,12 @@
       "Adam Randall"
     ],
     "avi_id": "AVI-00013302",
-    "c_avi": 35.6,
+    "c_avi": 35.8,
     "canonical_name": "Adam Randall",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 53.333333333333336,
-      "elite_upside": 34.16711709324713,
+      "elite_upside": 34.29037934068209,
       "health_outlook": null,
       "league_context": 33.9646017699115,
       "long_term_ceiling": 43.4,
@@ -12979,8 +12979,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 26.8141592920354,
-      "public_market": 51.32401862940785,
-      "redraft_market": 47.30538922155689
+      "public_market": 51.734892787524366,
+      "redraft_market": 48.538011695906434
     },
     "d_avi": 55.9,
     "match": {
@@ -13162,12 +13162,12 @@
       "Jalen Tolbert"
     ],
     "avi_id": "AVI-00008117",
-    "c_avi": 34.3,
+    "c_avi": 34.4,
     "canonical_name": "Jalen Tolbert",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 51.072961373390555,
-      "elite_upside": 32.838559216826866,
+      "elite_upside": 32.96252615897563,
       "health_outlook": null,
       "league_context": 31.666666666666664,
       "long_term_ceiling": 41.3,
@@ -13175,8 +13175,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 24.999999999999996,
-      "public_market": 51.12853072275624,
-      "redraft_market": 51.239669421487605
+      "public_market": 51.541753863252104,
+      "redraft_market": 52.47933884297521
     },
     "d_avi": 55.6,
     "match": {
@@ -13260,12 +13260,12 @@
       "Isaiah Bond"
     ],
     "avi_id": "AVI-00012503",
-    "c_avi": 22.5,
+    "c_avi": 22.6,
     "canonical_name": "Isaiah Bond",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 54.506437768240346,
-      "elite_upside": 20.902444578441457,
+      "elite_upside": 20.94376689249104,
       "health_outlook": null,
       "league_context": 7.8533333333333335,
       "long_term_ceiling": 36.4,
@@ -13273,10 +13273,10 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 6.2,
-      "public_market": 55.20814859480486,
-      "redraft_market": 56.611570247933884
+      "public_market": 55.34588964163681,
+      "redraft_market": 57.02479338842975
     },
-    "d_avi": 55.2,
+    "d_avi": 55.3,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -13309,12 +13309,12 @@
       "Tez Johnson"
     ],
     "avi_id": "AVI-00012485",
-    "c_avi": 20.8,
+    "c_avi": 20.7,
     "canonical_name": "Tez Johnson",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 54.93562231759657,
-      "elite_upside": 19.175058347816837,
+      "elite_upside": 19.13373603376725,
       "health_outlook": null,
       "league_context": 5.32,
       "long_term_ceiling": 35.9,
@@ -13322,8 +13322,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 4.2,
-      "public_market": 54.11686115938945,
-      "redraft_market": 52.47933884297521
+      "public_market": 53.979120112557496,
+      "redraft_market": 52.06611570247934
     },
     "d_avi": 55.2,
     "match": {
@@ -13358,12 +13358,12 @@
       "Justice Hill"
     ],
     "avi_id": "AVI-00005995",
-    "c_avi": 42.1,
+    "c_avi": 42.2,
     "canonical_name": "Justice Hill",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 50.0,
-      "elite_upside": 40.644957871866886,
+      "elite_upside": 40.74020597215753,
       "health_outlook": null,
       "league_context": 44.72566371681416,
       "long_term_ceiling": 44.5,
@@ -13371,8 +13371,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 35.309734513274336,
-      "public_market": 53.093812375249506,
-      "redraft_market": 59.2814371257485
+      "public_market": 53.411306042884995,
+      "redraft_market": 60.23391812865497
     },
     "d_avi": 55.1,
     "match": {
@@ -13407,12 +13407,12 @@
       "Chris Brooks"
     ],
     "avi_id": "AVI-00011370",
-    "c_avi": 36.4,
+    "c_avi": 36.5,
     "canonical_name": "Chris Brooks",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 51.111111111111114,
-      "elite_upside": 34.93267741802531,
+      "elite_upside": 34.9778502302955,
       "health_outlook": null,
       "league_context": 34.63716814159292,
       "long_term_ceiling": 42.2,
@@ -13420,8 +13420,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 27.345132743362832,
-      "public_market": 52.636948325571076,
-      "redraft_market": 55.68862275449102
+      "public_market": 52.787524366471736,
+      "redraft_market": 56.14035087719298
     },
     "d_avi": 54.6,
     "match": {
@@ -13510,7 +13510,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 56.111111111111114,
-      "elite_upside": 19.159533440493647,
+      "elite_upside": 19.214511204264348,
       "health_outlook": null,
       "league_context": 5.044247787610619,
       "long_term_ceiling": 36.6,
@@ -13518,8 +13518,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 3.982300884955752,
-      "public_market": 54.57307607008206,
-      "redraft_market": 51.49700598802395
+      "public_market": 54.75633528265107,
+      "redraft_market": 52.046783625730995
     },
     "d_avi": 54.4,
     "match": {
@@ -13654,12 +13654,12 @@
       "Erick All Jr."
     ],
     "avi_id": "AVI-00011592",
-    "c_avi": 36.5,
+    "c_avi": 36.7,
     "canonical_name": "Erick All",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 57.8125,
-      "elite_upside": 34.74155405405405,
+      "elite_upside": 34.94425675675676,
       "health_outlook": null,
       "league_context": 30.083333333333336,
       "long_term_ceiling": 45.0,
@@ -13667,8 +13667,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 23.75,
-      "public_market": 60.388513513513516,
-      "redraft_market": 65.54054054054055
+      "public_market": 61.064189189189186,
+      "redraft_market": 67.56756756756756
     },
     "d_avi": 54.2,
     "match": {
@@ -13703,12 +13703,12 @@
       "Trevor Etienne"
     ],
     "avi_id": "AVI-00012531",
-    "c_avi": 21.0,
+    "c_avi": 21.2,
     "canonical_name": "Trevor Etienne",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 55.55555555555556,
-      "elite_upside": 19.5047839424396,
+      "elite_upside": 19.633649019303423,
       "health_outlook": null,
       "league_context": 7.061946902654867,
       "long_term_ceiling": 36.8,
@@ -13716,8 +13716,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 5.575221238938053,
-      "public_market": 52.007096917276556,
-      "redraft_market": 44.91017964071856
+      "public_market": 52.436647173489284,
+      "redraft_market": 46.198830409356724
     },
     "d_avi": 54.2,
     "match": {
@@ -13752,12 +13752,12 @@
       "George Holani"
     ],
     "avi_id": "AVI-00012048",
-    "c_avi": 32.4,
+    "c_avi": 32.5,
     "canonical_name": "George Holani",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 51.666666666666664,
-      "elite_upside": 30.823132496069803,
+      "elite_upside": 30.921182011074883,
       "health_outlook": null,
       "league_context": 26.566371681415927,
       "long_term_ceiling": 40.2,
@@ -13765,8 +13765,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 20.973451327433626,
-      "public_market": 53.80572188955423,
-      "redraft_market": 58.08383233532934
+      "public_market": 54.13255360623782,
+      "redraft_market": 59.06432748538012
     },
     "d_avi": 54.1,
     "match": {
@@ -13850,12 +13850,12 @@
       "Seth McGowan"
     ],
     "avi_id": "AVI-00013424",
-    "c_avi": 24.5,
+    "c_avi": 24.7,
     "canonical_name": "Seth McGowan",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 53.888888888888886,
-      "elite_upside": 23.008025247440223,
+      "elite_upside": 23.192568441753348,
       "health_outlook": null,
       "league_context": 13.787610619469028,
       "long_term_ceiling": 37.8,
@@ -13863,8 +13863,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 10.88495575221239,
-      "public_market": 51.295187402971834,
-      "redraft_market": 46.10778443113772
+      "public_market": 51.91033138401559,
+      "redraft_market": 47.953216374269005
     },
     "d_avi": 53.9,
     "match": {
@@ -13899,12 +13899,12 @@
       "Tahj Brooks"
     ],
     "avi_id": "AVI-00012543",
-    "c_avi": 21.4,
+    "c_avi": 21.5,
     "canonical_name": "Tahj Brooks",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 55.0,
-      "elite_upside": 19.82523448677865,
+      "elite_upside": 19.952698856285256,
       "health_outlook": null,
       "league_context": 7.734513274336283,
       "long_term_ceiling": 36.7,
@@ -13912,8 +13912,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 6.106194690265486,
-      "public_market": 51.83632734530938,
-      "redraft_market": 45.50898203592814
+      "public_market": 52.26120857699805,
+      "redraft_market": 46.78362573099415
     },
     "d_avi": 53.9,
     "match": {
@@ -13949,12 +13949,12 @@
       "John Metchie III"
     ],
     "avi_id": "AVI-00008147",
-    "c_avi": 45.3,
+    "c_avi": 45.2,
     "canonical_name": "John Metchie",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 44.20600858369099,
-      "elite_upside": 44.358630999900456,
+      "elite_upside": 44.27598637180128,
       "health_outlook": null,
       "league_context": 53.13489216006588,
       "long_term_ceiling": 44.1,
@@ -13962,8 +13962,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 43.89148693344313,
-      "public_market": 45.44863382163421,
-      "redraft_market": 47.93388429752066
+      "public_market": 45.1731517279703,
+      "redraft_market": 47.107438016528924
     },
     "d_avi": 53.7,
     "match": {
@@ -13998,12 +13998,12 @@
       "Isaac Guerendo"
     ],
     "avi_id": "AVI-00011651",
-    "c_avi": 20.4,
+    "c_avi": 20.5,
     "canonical_name": "Isaac Guerendo",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 54.44444444444444,
-      "elite_upside": 18.85100006476722,
+      "elite_upside": 18.981265848988254,
       "health_outlook": null,
       "league_context": 6.389380530973452,
       "long_term_ceiling": 35.9,
@@ -14011,8 +14011,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 5.04424778761062,
-      "public_market": 51.06675537813262,
-      "redraft_market": 44.31137724550898
+      "public_market": 51.5009746588694,
+      "redraft_market": 45.6140350877193
     },
     "d_avi": 53.4,
     "match": {
@@ -14039,6 +14039,55 @@
       "sleeper_id": "11651",
       "sportradar_id": "eac64b21-6e9e-447a-bf18-8a00b5c12871",
       "sportsdata_player_id": "eac64b21-6e9e-447a-bf18-8a00b5c12871"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Emari Demercado"
+    ],
+    "avi_id": "AVI-00011199",
+    "c_avi": 37.2,
+    "canonical_name": "Emari Demercado",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 48.333333333333336,
+      "elite_upside": 35.812865497076025,
+      "health_outlook": null,
+      "league_context": 38.0,
+      "long_term_ceiling": 41.5,
+      "long_term_security": null,
+      "player_points": 0.0,
+      "position_liquidity": 91.2,
+      "projection": 30.0,
+      "public_market": 49.37621832358675,
+      "redraft_market": 51.461988304093566
+    },
+    "d_avi": 53.1,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_2026_2",
+    "nfl_team": "KC",
+    "normalized_name": "emari demercado",
+    "position": "RB",
+    "projection": {
+      "component_score": 30.0,
+      "percentile": 50.0,
+      "position_rank": 57,
+      "raw_points": 82.51
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24609,
+      "fantasypros_id": "25654",
+      "nfl_id": "2571065",
+      "rotowire_id": 17091,
+      "sleeper_id": "11199",
+      "sportradar_id": "44b4cbf0-e8fe-11ed-bc6e-a5c4d3ccbdd1",
+      "sportsdata_player_id": "44b4cbf0-e8fe-11ed-bc6e-a5c4d3ccbdd1"
     }
   },
   {
@@ -14142,64 +14191,15 @@
   {
     "active": true,
     "aliases": [
-      "Emari Demercado"
-    ],
-    "avi_id": "AVI-00011199",
-    "c_avi": 37.0,
-    "canonical_name": "Emari Demercado",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 48.333333333333336,
-      "elite_upside": 35.63672654690619,
-      "health_outlook": null,
-      "league_context": 38.0,
-      "long_term_ceiling": 41.5,
-      "long_term_security": null,
-      "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 30.0,
-      "public_market": 48.789088489687295,
-      "redraft_market": 49.70059880239521
-    },
-    "d_avi": 53.0,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_2026_2",
-    "nfl_team": "KC",
-    "normalized_name": "emari demercado",
-    "position": "RB",
-    "projection": {
-      "component_score": 30.0,
-      "percentile": 50.0,
-      "position_rank": 57,
-      "raw_points": 82.51
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24609,
-      "fantasypros_id": "25654",
-      "nfl_id": "2571065",
-      "rotowire_id": 17091,
-      "sleeper_id": "11199",
-      "sportradar_id": "44b4cbf0-e8fe-11ed-bc6e-a5c4d3ccbdd1",
-      "sportsdata_player_id": "44b4cbf0-e8fe-11ed-bc6e-a5c4d3ccbdd1"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Noah Gray"
     ],
     "avi_id": "AVI-00007828",
-    "c_avi": 33.4,
+    "c_avi": 33.3,
     "canonical_name": "Noah Gray",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 57.03125,
-      "elite_upside": 31.625844594594593,
+      "elite_upside": 31.558277027027025,
       "health_outlook": null,
       "league_context": 23.75,
       "long_term_ceiling": 42.7,
@@ -14207,8 +14207,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 18.75,
-      "public_market": 61.66948198198198,
-      "redraft_market": 70.94594594594595
+      "public_market": 61.44425675675675,
+      "redraft_market": 70.27027027027027
     },
     "d_avi": 53.0,
     "match": {
@@ -14243,12 +14243,12 @@
       "Najee Harris"
     ],
     "avi_id": "AVI-00007528",
-    "c_avi": 23.6,
+    "c_avi": 23.7,
     "canonical_name": "Najee Harris",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 52.77777777777778,
-      "elite_upside": 22.10232043288055,
+      "elite_upside": 22.168503855508977,
       "health_outlook": null,
       "league_context": 12.442477876106194,
       "long_term_ceiling": 36.7,
@@ -14256,8 +14256,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 9.823008849557521,
-      "public_market": 50.75404746063429,
-      "redraft_market": 46.706586826347305
+      "public_market": 50.97465886939571,
+      "redraft_market": 47.36842105263158
     },
     "d_avi": 53.0,
     "match": {
@@ -14341,12 +14341,12 @@
       "Charlie Kolar"
     ],
     "avi_id": "AVI-00008127",
-    "c_avi": 33.6,
+    "c_avi": 33.7,
     "canonical_name": "Charlie Kolar",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 56.25,
-      "elite_upside": 31.978603603603602,
+      "elite_upside": 32.11373873873873,
       "health_outlook": null,
       "league_context": 27.97222222222222,
       "long_term_ceiling": 43.4,
@@ -14354,8 +14354,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 22.083333333333332,
-      "public_market": 55.06756756756757,
-      "redraft_market": 52.7027027027027
+      "public_market": 55.51801801801802,
+      "redraft_market": 54.054054054054056
     },
     "d_avi": 52.7,
     "match": {
@@ -14439,12 +14439,12 @@
       "Ty Johnson"
     ],
     "avi_id": "AVI-00006039",
-    "c_avi": 39.9,
+    "c_avi": 40.0,
     "canonical_name": "Ty Johnson",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 46.666666666666664,
-      "elite_upside": 38.56384575980781,
+      "elite_upside": 38.607617864720794,
       "health_outlook": null,
       "league_context": 42.707964601769916,
       "long_term_ceiling": 41.8,
@@ -14452,8 +14452,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 33.716814159292035,
-      "public_market": 49.8735861610113,
-      "redraft_market": 56.287425149700596
+      "public_market": 50.019493177387915,
+      "redraft_market": 56.72514619883041
     },
     "d_avi": 52.6,
     "match": {
@@ -14488,12 +14488,12 @@
       "Luke McCaffrey"
     ],
     "avi_id": "AVI-00011650",
-    "c_avi": 27.8,
+    "c_avi": 27.9,
     "canonical_name": "Luke McCaffrey",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 48.497854077253216,
-      "elite_upside": 26.370149327847336,
+      "elite_upside": 26.45279395594651,
       "health_outlook": null,
       "league_context": 20.52,
       "long_term_ceiling": 36.4,
@@ -14501,8 +14501,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 16.2,
-      "public_market": 50.10049775949113,
-      "redraft_market": 53.30578512396694
+      "public_market": 50.37597985315504,
+      "redraft_market": 54.13223140495868
     },
     "d_avi": 52.6,
     "match": {
@@ -14586,12 +14586,12 @@
       "Noah Fant"
     ],
     "avi_id": "AVI-00005857",
-    "c_avi": 37.1,
+    "c_avi": 37.0,
     "canonical_name": "Noah Fant",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 54.6875,
-      "elite_upside": 35.41835585585585,
+      "elite_upside": 35.350788288288285,
       "health_outlook": null,
       "league_context": 32.19444444444444,
       "long_term_ceiling": 43.7,
@@ -14599,10 +14599,10 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 25.416666666666668,
-      "public_market": 58.75563063063063,
-      "redraft_market": 66.89189189189189
+      "public_market": 58.530405405405396,
+      "redraft_market": 66.21621621621621
     },
-    "d_avi": 52.4,
+    "d_avi": 52.3,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -14635,12 +14635,12 @@
       "Jerome Ford"
     ],
     "avi_id": "AVI-00008143",
-    "c_avi": 21.4,
+    "c_avi": 21.5,
     "canonical_name": "Jerome Ford",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 52.22222222222222,
-      "elite_upside": 19.880881305236137,
+      "elite_upside": 20.002742845313875,
       "health_outlook": null,
       "league_context": 8.4070796460177,
       "long_term_ceiling": 35.1,
@@ -14648,8 +14648,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 6.6371681415929205,
-      "public_market": 50.78287868707031,
-      "redraft_market": 47.90419161676647
+      "public_market": 51.189083820662766,
+      "redraft_market": 49.12280701754386
     },
     "d_avi": 52.2,
     "match": {
@@ -14684,12 +14684,12 @@
       "Samaje Perine"
     ],
     "avi_id": "AVI-00004147",
-    "c_avi": 39.1,
+    "c_avi": 39.3,
     "canonical_name": "Samaje Perine",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 46.111111111111114,
-      "elite_upside": 37.781652035162715,
+      "elite_upside": 37.94938674118926,
       "health_outlook": null,
       "league_context": 42.03539823008849,
       "long_term_ceiling": 41.3,
@@ -14697,8 +14697,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 33.1858407079646,
-      "public_market": 48.50521179862498,
-      "redraft_market": 53.293413173652695
+      "public_market": 49.06432748538012,
+      "redraft_market": 54.97076023391813
     },
     "d_avi": 52.1,
     "match": {
@@ -14738,7 +14738,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 48.06866952789699,
-      "elite_upside": 24.544477707232286,
+      "elite_upside": 24.503155393182702,
       "health_outlook": null,
       "league_context": 18.493333333333332,
       "long_term_ceiling": 35.5,
@@ -14746,8 +14746,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 14.599999999999998,
-      "public_market": 47.74825902410763,
-      "redraft_market": 47.107438016528924
+      "public_market": 47.610517977275684,
+      "redraft_market": 46.69421487603306
     },
     "d_avi": 52.0,
     "match": {
@@ -14782,12 +14782,12 @@
       "Brenen Thompson"
     ],
     "avi_id": "AVI-00013380",
-    "c_avi": 19.7,
+    "c_avi": 19.6,
     "canonical_name": "Brenen Thompson",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 50.21459227467811,
-      "elite_upside": 18.212339942538925,
+      "elite_upside": 18.171017628489338,
       "health_outlook": null,
       "league_context": 6.333333333333334,
       "long_term_ceiling": 33.3,
@@ -14795,8 +14795,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 5.0,
-      "public_market": 49.04113314179642,
-      "redraft_market": 46.69421487603306
+      "public_market": 48.90339209496447,
+      "redraft_market": 46.28099173553719
     },
     "d_avi": 52.0,
     "match": {
@@ -14831,12 +14831,12 @@
       "Jordan Whittington"
     ],
     "avi_id": "AVI-00011623",
-    "c_avi": 21.7,
+    "c_avi": 21.6,
     "canonical_name": "Jordan Whittington",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 49.35622317596567,
-      "elite_upside": 20.27140992444933,
+      "elite_upside": 20.18876529635016,
       "health_outlook": null,
       "league_context": 10.893333333333334,
       "long_term_ceiling": 34.1,
@@ -14844,8 +14844,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 8.6,
-      "public_market": 47.504699748164434,
-      "redraft_market": 43.80165289256198
+      "public_market": 47.22921765450053,
+      "redraft_market": 42.97520661157025
     },
     "d_avi": 51.9,
     "match": {
@@ -14979,12 +14979,12 @@
       "Cyrus Allen"
     ],
     "avi_id": "AVI-00013413",
-    "c_avi": 22.3,
+    "c_avi": 22.4,
     "canonical_name": "Cyrus Allen",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 47.21030042918455,
-      "elite_upside": 20.930159259390628,
+      "elite_upside": 21.054126201539386,
       "health_outlook": null,
       "league_context": 12.413333333333332,
       "long_term_ceiling": 33.2,
@@ -14992,8 +14992,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 9.799999999999999,
-      "public_market": 46.900530864635435,
-      "redraft_market": 46.28099173553719
+      "public_market": 47.313754005131294,
+      "redraft_market": 47.52066115702479
     },
     "d_avi": 50.7,
     "match": {
@@ -15025,25 +15025,24 @@
   {
     "active": true,
     "aliases": [
-      "Dont'e Thornton",
-      "Dont'e Thornton Jr."
+      "Devin Singletary"
     ],
-    "avi_id": "AVI-00012541",
-    "c_avi": 20.5,
-    "canonical_name": "Dont'e Thornton",
+    "avi_id": "AVI-00006130",
+    "c_avi": 22.1,
+    "canonical_name": "Devin Singletary",
     "components": {
       "age_career_horizon": null,
-      "dynasty_market": 47.63948497854077,
-      "elite_upside": 19.06525236760898,
+      "dynasty_market": 49.44444444444444,
+      "elite_upside": 20.679190601873415,
       "health_outlook": null,
-      "league_context": 8.36,
-      "long_term_ceiling": 32.2,
+      "league_context": 10.424778761061948,
+      "long_term_ceiling": 34.0,
       "long_term_security": null,
       "player_points": 0.0,
-      "position_liquidity": 100.0,
-      "projection": 6.6,
-      "public_market": 48.15084122536327,
-      "redraft_market": 49.17355371900826
+      "position_liquidity": 91.2,
+      "projection": 8.23008849557522,
+      "public_market": 49.7270955165692,
+      "redraft_market": 50.292397660818715
     },
     "d_avi": 50.6,
     "match": {
@@ -15051,25 +15050,25 @@
       "method": "exact_name_position_unique"
     },
     "methodology_status": "provisional_2026_2",
-    "nfl_team": "LVR",
-    "normalized_name": "dont e thornton",
-    "position": "WR",
+    "nfl_team": "NYG",
+    "normalized_name": "devin singletary",
+    "position": "RB",
     "projection": {
-      "component_score": 6.6,
-      "percentile": 11.0,
-      "position_rank": 134,
-      "raw_points": 32.25
+      "component_score": 8.23008849557522,
+      "percentile": 13.716814159292035,
+      "position_rank": 98,
+      "raw_points": 19.84
     },
     "season_phase": "preseason",
     "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26102,
-      "fantasypros_id": "27288",
-      "nfl_id": "2574312",
-      "rotowire_id": 18558,
-      "sleeper_id": "12541",
-      "sportradar_id": "483606b2-c0c9-4da2-8fcf-73d2615756c7",
-      "sportsdata_player_id": "483606b2-c0c9-4da2-8fcf-73d2615756c7"
+      "espn_id": 4040761,
+      "fantasy_data_id": 20941,
+      "fantasypros_id": "18280",
+      "nfl_id": "2562734",
+      "rotowire_id": 13449,
+      "sleeper_id": "6130",
+      "sportradar_id": "a961b0d4-5d7c-438e-90f0-2e1fa09f6c89",
+      "sportsdata_player_id": "a961b0d4-5d7c-438e-90f0-2e1fa09f6c89"
     }
   },
   {
@@ -15078,12 +15077,12 @@
       "Audric Estime"
     ],
     "avi_id": "AVI-00011579",
-    "c_avi": 23.4,
+    "c_avi": 23.5,
     "canonical_name": "Audric Estime",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 48.888888888888886,
-      "elite_upside": 22.020425226243674,
+      "elite_upside": 22.154893132536355,
       "health_outlook": null,
       "league_context": 14.46017699115044,
       "long_term_ceiling": 34.8,
@@ -15091,8 +15090,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 11.415929203539822,
-      "public_market": 46.764249279219335,
-      "redraft_market": 42.51497005988024
+      "public_market": 47.212475633528264,
+      "redraft_market": 43.85964912280702
     },
     "d_avi": 50.5,
     "match": {
@@ -15124,24 +15123,25 @@
   {
     "active": true,
     "aliases": [
-      "Devin Singletary"
+      "Dont'e Thornton",
+      "Dont'e Thornton Jr."
     ],
-    "avi_id": "AVI-00006130",
-    "c_avi": 22.0,
-    "canonical_name": "Devin Singletary",
+    "avi_id": "AVI-00012541",
+    "c_avi": 20.4,
+    "canonical_name": "Dont'e Thornton",
     "components": {
       "age_career_horizon": null,
-      "dynasty_market": 49.44444444444444,
-      "elite_upside": 20.560130476510103,
+      "dynasty_market": 47.63948497854077,
+      "elite_upside": 19.023930053559393,
       "health_outlook": null,
-      "league_context": 10.424778761061948,
-      "long_term_ceiling": 34.0,
+      "league_context": 8.36,
+      "long_term_ceiling": 32.2,
       "long_term_security": null,
       "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 8.23008849557522,
-      "public_market": 49.33022843202483,
-      "redraft_market": 49.10179640718563
+      "position_liquidity": 100.0,
+      "projection": 6.6,
+      "public_market": 48.01310017853132,
+      "redraft_market": 48.760330578512395
     },
     "d_avi": 50.5,
     "match": {
@@ -15149,25 +15149,25 @@
       "method": "exact_name_position_unique"
     },
     "methodology_status": "provisional_2026_2",
-    "nfl_team": "NYG",
-    "normalized_name": "devin singletary",
-    "position": "RB",
+    "nfl_team": "LVR",
+    "normalized_name": "dont e thornton",
+    "position": "WR",
     "projection": {
-      "component_score": 8.23008849557522,
-      "percentile": 13.716814159292035,
-      "position_rank": 98,
-      "raw_points": 19.84
+      "component_score": 6.6,
+      "percentile": 11.0,
+      "position_rank": 134,
+      "raw_points": 32.25
     },
     "season_phase": "preseason",
     "source_ids": {
-      "espn_id": 4040761,
-      "fantasy_data_id": 20941,
-      "fantasypros_id": "18280",
-      "nfl_id": "2562734",
-      "rotowire_id": 13449,
-      "sleeper_id": "6130",
-      "sportradar_id": "a961b0d4-5d7c-438e-90f0-2e1fa09f6c89",
-      "sportsdata_player_id": "a961b0d4-5d7c-438e-90f0-2e1fa09f6c89"
+      "espn_id": null,
+      "fantasy_data_id": 26102,
+      "fantasypros_id": "27288",
+      "nfl_id": "2574312",
+      "rotowire_id": 18558,
+      "sleeper_id": "12541",
+      "sportradar_id": "483606b2-c0c9-4da2-8fcf-73d2615756c7",
+      "sportsdata_player_id": "483606b2-c0c9-4da2-8fcf-73d2615756c7"
     }
   },
   {
@@ -15177,12 +15177,12 @@
       "Calvin Austin III"
     ],
     "avi_id": "AVI-00008125",
-    "c_avi": 25.5,
+    "c_avi": 25.4,
     "canonical_name": "Calvin Austin",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 45.493562231759654,
-      "elite_upside": 24.105324016599866,
+      "elite_upside": 24.06400170255028,
       "health_outlook": null,
       "league_context": 17.733333333333334,
       "long_term_ceiling": 33.7,
@@ -15190,10 +15190,10 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 13.999999999999998,
-      "public_market": 47.68441338866622,
-      "redraft_market": 52.06611570247934
+      "public_market": 47.54667234183426,
+      "redraft_market": 51.65289256198347
     },
-    "d_avi": 50.3,
+    "d_avi": 50.2,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -15226,12 +15226,12 @@
       "Will Shipley"
     ],
     "avi_id": "AVI-00011577",
-    "c_avi": 24.9,
+    "c_avi": 25.1,
     "canonical_name": "Will Shipley",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 47.77777777777778,
-      "elite_upside": 23.596729844146516,
+      "elite_upside": 23.732598457796406,
       "health_outlook": null,
       "league_context": 17.82300884955752,
       "long_term_ceiling": 35.1,
@@ -15239,10 +15239,10 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 14.070796460176991,
-      "public_market": 45.823907740075406,
-      "redraft_market": 41.91616766467066
+      "public_market": 46.27680311890838,
+      "redraft_market": 43.27485380116959
     },
-    "d_avi": 50.1,
+    "d_avi": 50.2,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -15324,12 +15324,12 @@
       "Malik Davis"
     ],
     "avi_id": "AVI-00008800",
-    "c_avi": 33.8,
+    "c_avi": 33.9,
     "canonical_name": "Malik Davis",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 44.44444444444444,
-      "elite_upside": 32.496699815707814,
+      "elite_upside": 32.608756404285046,
       "health_outlook": null,
       "league_context": 33.292035398230084,
       "long_term_ceiling": 37.6,
@@ -15337,8 +15337,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 26.28318584070796,
-      "public_market": 46.99489909070747,
-      "redraft_market": 52.09580838323353
+      "public_market": 47.36842105263158,
+      "redraft_market": 53.21637426900585
     },
     "d_avi": 49.9,
     "match": {
@@ -15471,12 +15471,12 @@
       "Luke Musgrave"
     ],
     "avi_id": "AVI-00009481",
-    "c_avi": 30.7,
+    "c_avi": 30.6,
     "canonical_name": "Luke Musgrave",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 52.34375,
-      "elite_upside": 29.04870495495495,
+      "elite_upside": 28.981137387387385,
       "health_outlook": null,
       "league_context": 21.638888888888886,
       "long_term_ceiling": 39.1,
@@ -15484,8 +15484,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 17.083333333333332,
-      "public_market": 56.967905405405396,
-      "redraft_market": 66.21621621621621
+      "public_market": 56.74268018018018,
+      "redraft_market": 65.54054054054055
     },
     "d_avi": 49.5,
     "match": {
@@ -15618,12 +15618,12 @@
       "Zavion Thomas"
     ],
     "avi_id": "AVI-00013411",
-    "c_avi": 19.7,
+    "c_avi": 19.8,
     "canonical_name": "Zavion Thomas",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 44.63519313304721,
-      "elite_upside": 18.445881601816055,
+      "elite_upside": 18.52852622991523,
       "health_outlook": null,
       "league_context": 9.373333333333335,
       "long_term_ceiling": 30.7,
@@ -15631,10 +15631,10 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 7.4,
-      "public_market": 44.219605339386845,
-      "redraft_market": 43.388429752066116
+      "public_market": 44.49508743305076,
+      "redraft_market": 44.21487603305785
     },
-    "d_avi": 48.5,
+    "d_avi": 48.6,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -15672,7 +15672,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 41.201716738197426,
-      "elite_upside": 28.036541694746923,
+      "elite_upside": 27.995219380697336,
       "health_outlook": null,
       "league_context": 28.119999999999997,
       "long_term_ceiling": 34.1,
@@ -15680,8 +15680,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 22.2,
-      "public_market": 41.655138982489746,
-      "redraft_market": 42.56198347107438
+      "public_market": 41.51739793565779,
+      "redraft_market": 42.14876033057851
     },
     "d_avi": 48.4,
     "match": {
@@ -15765,12 +15765,12 @@
       "Konata Mumpfield"
     ],
     "avi_id": "AVI-00012718",
-    "c_avi": 19.4,
+    "c_avi": 19.3,
     "canonical_name": "Konata Mumpfield",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 42.918454935622314,
-      "elite_upside": 18.05691412762033,
+      "elite_upside": 17.974269499521156,
       "health_outlook": null,
       "league_context": 7.346666666666667,
       "long_term_ceiling": 29.0,
@@ -15778,10 +15778,10 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 5.8,
-      "public_market": 46.6563804254011,
-      "redraft_market": 54.13223140495868
+      "public_market": 46.38089833173719,
+      "redraft_market": 53.30578512396694
     },
-    "d_avi": 47.4,
+    "d_avi": 47.3,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -15912,12 +15912,12 @@
       "Jam Miller"
     ],
     "avi_id": "AVI-00013403",
-    "c_avi": 22.1,
+    "c_avi": 22.3,
     "canonical_name": "Jam Miller",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 43.333333333333336,
-      "elite_upside": 20.940314062141205,
+      "elite_upside": 21.095792578792114,
       "health_outlook": null,
       "league_context": 16.141592920353983,
       "long_term_ceiling": 31.9,
@@ -15925,10 +15925,10 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 12.743362831858407,
-      "public_market": 40.06653359946773,
-      "redraft_market": 33.532934131736525
+      "public_market": 40.58479532163743,
+      "redraft_market": 35.08771929824562
     },
-    "d_avi": 46.8,
+    "d_avi": 46.9,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -15961,12 +15961,12 @@
       "KaVontae Turpin"
     ],
     "avi_id": "AVI-00008917",
-    "c_avi": 24.1,
+    "c_avi": 24.3,
     "canonical_name": "KaVontae Turpin",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 39.91416309012875,
-      "elite_upside": 22.977708651083603,
+      "elite_upside": 23.142997907281945,
       "health_outlook": null,
       "league_context": 19.506666666666668,
       "long_term_ceiling": 30.7,
@@ -15974,10 +15974,10 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 15.4,
-      "public_market": 40.65902883694534,
-      "redraft_market": 42.14876033057851
+      "public_market": 41.20999302427316,
+      "redraft_market": 43.80165289256198
     },
-    "d_avi": 46.5,
+    "d_avi": 46.6,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -16059,12 +16059,12 @@
       "Jawhar Jordan"
     ],
     "avi_id": "AVI-00011588",
-    "c_avi": 29.5,
+    "c_avi": 29.7,
     "canonical_name": "Jawhar Jordan",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 40.0,
-      "elite_upside": 28.43203857771183,
+      "elite_upside": 28.574910728147803,
       "health_outlook": null,
       "league_context": 29.929203539823007,
       "long_term_ceiling": 33.9,
@@ -16072,8 +16072,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 23.628318584070797,
-      "public_market": 39.64071856287425,
-      "redraft_market": 38.92215568862275
+      "public_market": 40.11695906432749,
+      "redraft_market": 40.35087719298246
     },
     "d_avi": 46.3,
     "match": {
@@ -16108,12 +16108,12 @@
       "Roschon Johnson"
     ],
     "avi_id": "AVI-00010235",
-    "c_avi": 24.3,
+    "c_avi": 24.5,
     "canonical_name": "Roschon Johnson",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 41.666666666666664,
-      "elite_upside": 23.214950629714018,
+      "elite_upside": 23.374631268436573,
       "health_outlook": null,
       "league_context": 21.1858407079646,
       "long_term_ceiling": 32.3,
@@ -16121,10 +16121,10 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 16.725663716814157,
-      "public_market": 38.356620093147036,
-      "redraft_market": 31.736526946107784
+      "public_market": 38.888888888888886,
+      "redraft_market": 33.333333333333336
     },
-    "d_avi": 46.2,
+    "d_avi": 46.3,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -16255,12 +16255,12 @@
       "Olamide Zaccheaus"
     ],
     "avi_id": "AVI-00006271",
-    "c_avi": 26.5,
+    "c_avi": 26.4,
     "canonical_name": "Olamide Zaccheaus",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 38.197424892703864,
-      "elite_upside": 25.264774234739118,
+      "elite_upside": 25.22345192068953,
       "health_outlook": null,
       "league_context": 22.546666666666667,
       "long_term_ceiling": 30.5,
@@ -16268,8 +16268,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 17.8,
-      "public_market": 42.68258078246373,
-      "redraft_market": 51.65289256198347
+      "public_market": 42.544839735631776,
+      "redraft_market": 51.239669421487605
     },
     "d_avi": 45.9,
     "match": {
@@ -16350,64 +16350,15 @@
   {
     "active": true,
     "aliases": [
-      "Marcus Mariota"
-    ],
-    "avi_id": "AVI-00002307",
-    "c_avi": 25.6,
-    "canonical_name": "Marcus Mariota",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 48.31460674157304,
-      "elite_upside": 24.15302444109811,
-      "health_outlook": null,
-      "league_context": 15.96,
-      "long_term_ceiling": 34.9,
-      "long_term_security": null,
-      "player_points": 0.0,
-      "position_liquidity": 60.0,
-      "projection": 12.6,
-      "public_market": 51.11008147032704,
-      "redraft_market": 56.70103092783505
-    },
-    "d_avi": 45.4,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_2026_2",
-    "nfl_team": "WAS",
-    "normalized_name": "marcus mariota",
-    "position": "QB",
-    "projection": {
-      "component_score": 12.6,
-      "percentile": 21.0,
-      "position_rank": 40,
-      "raw_points": 18.11
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": 2576980,
-      "fantasy_data_id": 16763,
-      "fantasypros_id": "13890",
-      "nfl_id": "2552466",
-      "rotowire_id": 10074,
-      "sleeper_id": "2307",
-      "sportradar_id": "7c16c04c-04de-41f3-ac16-ad6a9435e3f7",
-      "sportsdata_player_id": "7c16c04c-04de-41f3-ac16-ad6a9435e3f7"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Kendrick Bourne"
     ],
     "avi_id": "AVI-00004454",
-    "c_avi": 21.3,
+    "c_avi": 21.4,
     "canonical_name": "Kendrick Bourne",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 39.05579399141631,
-      "elite_upside": 20.1071918561345,
+      "elite_upside": 20.148514170184086,
       "health_outlook": null,
       "league_context": 13.426666666666666,
       "long_term_ceiling": 28.4,
@@ -16415,8 +16366,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 10.6,
-      "public_market": 42.29063952044834,
-      "redraft_market": 48.760330578512395
+      "public_market": 42.42838056728029,
+      "redraft_market": 49.17355371900826
     },
     "d_avi": 45.4,
     "match": {
@@ -16443,6 +16394,55 @@
       "sleeper_id": "4454",
       "sportradar_id": "5aba3610-ab55-4922-ac46-806ded5eb8bf",
       "sportsdata_player_id": "5aba3610-ab55-4922-ac46-806ded5eb8bf"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Marcus Mariota"
+    ],
+    "avi_id": "AVI-00002307",
+    "c_avi": 25.5,
+    "canonical_name": "Marcus Mariota",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 48.31460674157304,
+      "elite_upside": 24.049931657592957,
+      "health_outlook": null,
+      "league_context": 15.96,
+      "long_term_ceiling": 34.9,
+      "long_term_security": null,
+      "player_points": 0.0,
+      "position_liquidity": 60.0,
+      "projection": 12.6,
+      "public_market": 50.7664388586432,
+      "redraft_market": 55.670103092783506
+    },
+    "d_avi": 45.3,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_2026_2",
+    "nfl_team": "WAS",
+    "normalized_name": "marcus mariota",
+    "position": "QB",
+    "projection": {
+      "component_score": 12.6,
+      "percentile": 21.0,
+      "position_rank": 40,
+      "raw_points": 18.11
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": 2576980,
+      "fantasy_data_id": 16763,
+      "fantasypros_id": "13890",
+      "nfl_id": "2552466",
+      "rotowire_id": 10074,
+      "sleeper_id": "2307",
+      "sportradar_id": "7c16c04c-04de-41f3-ac16-ad6a9435e3f7",
+      "sportsdata_player_id": "7c16c04c-04de-41f3-ac16-ad6a9435e3f7"
     }
   },
   {
@@ -16647,12 +16647,12 @@
       "Phil Mafah"
     ],
     "avi_id": "AVI-00012738",
-    "c_avi": 22.7,
+    "c_avi": 22.8,
     "canonical_name": "Phil Mafah",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 38.888888888888886,
-      "elite_upside": 21.59183108708836,
+      "elite_upside": 21.741706774310405,
       "health_outlook": null,
       "league_context": 18.495575221238937,
       "long_term_ceiling": 29.8,
@@ -16660,8 +16660,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 14.601769911504423,
-      "public_market": 37.90197383011754,
-      "redraft_market": 35.92814371257485
+      "public_market": 38.40155945419103,
+      "redraft_market": 37.42690058479532
     },
     "d_avi": 44.2,
     "match": {
@@ -16745,12 +16745,12 @@
       "Dameon Pierce"
     ],
     "avi_id": "AVI-00008129",
-    "c_avi": 18.9,
+    "c_avi": 19.1,
     "canonical_name": "Dameon Pierce",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 39.44444444444444,
-      "elite_upside": 17.80648732034456,
+      "elite_upside": 17.960565129638255,
       "health_outlook": null,
       "league_context": 11.76991150442478,
       "long_term_ceiling": 28.1,
@@ -16758,8 +16758,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 9.29203539823009,
-      "public_market": 37.673541805278326,
-      "redraft_market": 34.131736526946106
+      "public_market": 38.187134502923975,
+      "redraft_market": 35.67251461988304
     },
     "d_avi": 43.7,
     "match": {
@@ -16795,12 +16795,12 @@
       "Zonovan Knight"
     ],
     "avi_id": "AVI-00008122",
-    "c_avi": 14.4,
+    "c_avi": 14.6,
     "canonical_name": "Zonovan Knight",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 40.55555555555556,
-      "elite_upside": 13.238131406802912,
+      "elite_upside": 13.378202142524453,
       "health_outlook": null,
       "league_context": 2.017699115044248,
       "long_term_ceiling": 25.9,
@@ -16808,8 +16808,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 1.592920353982301,
-      "public_market": 40.41029053005101,
-      "redraft_market": 40.119760479041915
+      "public_market": 40.877192982456144,
+      "redraft_market": 41.52046783625731
     },
     "d_avi": 43.4,
     "match": {
@@ -16893,12 +16893,12 @@
       "Jameis Winston"
     ],
     "avi_id": "AVI-00002306",
-    "c_avi": 22.3,
+    "c_avi": 22.4,
     "canonical_name": "Jameis Winston",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 44.943820224719104,
-      "elite_upside": 20.85577435422217,
+      "elite_upside": 20.958867137727328,
       "health_outlook": null,
       "league_context": 11.399999999999999,
       "long_term_ceiling": 31.5,
@@ -16906,8 +16906,8 @@
       "player_points": 0.0,
       "position_liquidity": 60.0,
       "projection": 9.0,
-      "public_market": 48.519247847407236,
-      "redraft_market": 55.670103092783506
+      "public_market": 48.86289045909109,
+      "redraft_market": 56.70103092783505
     },
     "d_avi": 42.6,
     "match": {
@@ -16942,12 +16942,12 @@
       "Austin Ekeler"
     ],
     "avi_id": "AVI-00004663",
-    "c_avi": 22.9,
+    "c_avi": 23.0,
     "canonical_name": "Austin Ekeler",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 35.0,
-      "elite_upside": 21.869217317577235,
+      "elite_upside": 22.020493712156494,
       "health_outlook": null,
       "league_context": 20.51327433628319,
       "long_term_ceiling": 27.9,
@@ -16955,8 +16955,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 16.194690265486727,
-      "public_market": 35.10978043912176,
-      "redraft_market": 35.32934131736527
+      "public_market": 35.614035087719294,
+      "redraft_market": 36.8421052631579
     },
     "d_avi": 41.8,
     "match": {
@@ -17139,12 +17139,12 @@
       "Rasheen Ali"
     ],
     "avi_id": "AVI-00011570",
-    "c_avi": 12.6,
+    "c_avi": 12.8,
     "canonical_name": "Rasheen Ali",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 37.22222222222222,
-      "elite_upside": 11.553500668279959,
+      "elite_upside": 11.717383429074161,
       "health_outlook": null,
       "league_context": 2.017699115044248,
       "long_term_ceiling": 23.9,
@@ -17152,8 +17152,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 1.592920353982301,
-      "public_market": 34.7948547349745,
-      "redraft_market": 29.940119760479043
+      "public_market": 35.3411306042885,
+      "redraft_market": 31.57894736842105
     },
     "d_avi": 41.0,
     "match": {
@@ -17188,12 +17188,12 @@
       "Jeremy McNichols"
     ],
     "avi_id": "AVI-00004219",
-    "c_avi": 20.1,
+    "c_avi": 20.3,
     "canonical_name": "Jeremy McNichols",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 33.888888888888886,
-      "elite_upside": 19.189785620499414,
+      "elite_upside": 19.35506908865083,
       "health_outlook": null,
       "league_context": 17.150442477876105,
       "long_term_ceiling": 26.3,
@@ -17201,8 +17201,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 13.539823008849558,
-      "public_market": 32.373031714349075,
-      "redraft_market": 29.34131736526946
+      "public_market": 32.92397660818713,
+      "redraft_market": 30.994152046783626
     },
     "d_avi": 40.5,
     "match": {
@@ -17340,7 +17340,7 @@
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 30.901287553648068,
-      "elite_upside": 18.127199659489943,
+      "elite_upside": 18.085877345440355,
       "health_outlook": null,
       "league_context": 14.440000000000001,
       "long_term_ceiling": 23.6,
@@ -17348,8 +17348,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 11.4,
-      "public_market": 33.823998864966484,
-      "redraft_market": 39.66942148760331
+      "public_market": 33.68625781813452,
+      "redraft_market": 39.256198347107436
     },
     "d_avi": 39.8,
     "match": {
@@ -17532,12 +17532,12 @@
       "Elijah Mitchell"
     ],
     "avi_id": "AVI-00007561",
-    "c_avi": 18.0,
+    "c_avi": 18.3,
     "canonical_name": "Elijah Mitchell",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 31.666666666666668,
-      "elite_upside": 17.229735219825834,
+      "elite_upside": 17.475909537856438,
       "health_outlook": null,
       "league_context": 16.141592920353983,
       "long_term_ceiling": 24.6,
@@ -17545,10 +17545,10 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 12.743362831858407,
-      "public_market": 27.6979374584165,
-      "redraft_market": 19.760479041916167
+      "public_market": 28.51851851851852,
+      "redraft_market": 22.22222222222222
     },
-    "d_avi": 38.7,
+    "d_avi": 38.8,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -17777,12 +17777,12 @@
       "Nick Westbrook-Ikhine"
     ],
     "avi_id": "AVI-00007496",
-    "c_avi": 20.4,
+    "c_avi": 20.3,
     "canonical_name": "Nick Westbrook-Ikhine",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 26.180257510729614,
-      "elite_upside": 19.45753910545171,
+      "elite_upside": 19.374894477352534,
       "health_outlook": null,
       "league_context": 17.733333333333334,
       "long_term_ceiling": 21.6,
@@ -17790,8 +17790,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 13.999999999999998,
-      "public_market": 32.19179701817236,
-      "redraft_market": 44.21487603305785
+      "public_market": 31.916314924508452,
+      "redraft_market": 43.388429752066116
     },
     "d_avi": 37.1,
     "match": {
@@ -17826,12 +17826,12 @@
       "Dylan Laube"
     ],
     "avi_id": "AVI-00011574",
-    "c_avi": 11.1,
+    "c_avi": 11.3,
     "canonical_name": "Dylan Laube",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 31.11111111111111,
-      "elite_upside": 10.211517967015821,
+      "elite_upside": 10.378202142524453,
       "health_outlook": null,
       "league_context": 2.017699115044248,
       "long_term_ceiling": 20.0,
@@ -17839,8 +17839,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 1.592920353982301,
-      "public_market": 30.321579064094035,
-      "redraft_market": 28.74251497005988
+      "public_market": 30.87719298245614,
+      "redraft_market": 30.4093567251462
     },
     "d_avi": 36.9,
     "match": {
@@ -17875,12 +17875,12 @@
       "Ty Chandler"
     ],
     "avi_id": "AVI-00008230",
-    "c_avi": 22.8,
+    "c_avi": 23.0,
     "canonical_name": "Ty Chandler",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 26.666666666666668,
-      "elite_upside": 22.025877448642536,
+      "elite_upside": 22.1953630388656,
       "health_outlook": null,
       "league_context": 25.221238938053098,
       "long_term_ceiling": 24.1,
@@ -17888,8 +17888,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 19.91150442477876,
-      "public_market": 26.959414504324684,
-      "redraft_market": 27.54491017964072
+      "public_market": 27.524366471734893,
+      "redraft_market": 29.239766081871345
     },
     "d_avi": 36.6,
     "match": {
@@ -17974,23 +17974,23 @@
       "Zavier Scott"
     ],
     "avi_id": "AVI-00011299",
-    "c_avi": 10.4,
+    "c_avi": 11.0,
     "canonical_name": "Zavier Scott",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": null,
-      "elite_upside": 9.558158020242699,
+      "elite_upside": 10.06241266884024,
       "health_outlook": null,
       "league_context": 2.017699115044248,
-      "long_term_ceiling": 18.2,
+      "long_term_ceiling": 19.2,
       "long_term_security": null,
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 1.592920353982301,
-      "public_market": 28.143712574850298,
-      "redraft_market": 28.143712574850298
+      "public_market": 29.82456140350877,
+      "redraft_market": 29.82456140350877
     },
-    "d_avi": 34.9,
+    "d_avi": 36.0,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -18023,12 +18023,12 @@
       "Mitch Tinsley"
     ],
     "avi_id": "AVI-00011068",
-    "c_avi": 12.3,
+    "c_avi": 12.2,
     "canonical_name": "Mitch Tinsley",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 24.034334763948497,
-      "elite_upside": 11.392486787500443,
+      "elite_upside": 11.351164473450858,
       "health_outlook": null,
       "league_context": 4.813333333333333,
       "long_term_ceiling": 16.4,
@@ -18036,8 +18036,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 3.8,
-      "public_market": 29.108289291668143,
-      "redraft_market": 39.256198347107436
+      "public_market": 28.97054824483619,
+      "redraft_market": 38.84297520661157
     },
     "d_avi": 34.1,
     "match": {
@@ -18121,12 +18121,12 @@
       "Jackson Hawes"
     ],
     "avi_id": "AVI-00012658",
-    "c_avi": 17.1,
+    "c_avi": 17.0,
     "canonical_name": "Jackson Hawes",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 31.25,
-      "elite_upside": 15.962837837837839,
+      "elite_upside": 15.89527027027027,
       "health_outlook": null,
       "league_context": 7.916666666666666,
       "long_term_ceiling": 21.9,
@@ -18134,8 +18134,8 @@
       "player_points": 0.0,
       "position_liquidity": 63.8,
       "projection": 6.249999999999999,
-      "public_market": 38.62612612612613,
-      "redraft_market": 53.37837837837838
+      "public_market": 38.4009009009009,
+      "redraft_market": 52.7027027027027
     },
     "d_avi": 33.5,
     "match": {
@@ -18315,75 +18315,26 @@
   {
     "active": true,
     "aliases": [
-      "Ashton Dulin"
-    ],
-    "avi_id": "AVI-00006427",
-    "c_avi": 21.3,
-    "canonical_name": "Ashton Dulin",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 13.733905579399142,
-      "elite_upside": 20.729756322491397,
-      "health_outlook": null,
-      "league_context": 25.586666666666666,
-      "long_term_ceiling": 16.2,
-      "long_term_security": null,
-      "player_points": 0.0,
-      "position_liquidity": 100.0,
-      "projection": 20.2,
-      "public_market": 21.965854408304665,
-      "redraft_market": 38.429752066115704
-    },
-    "d_avi": 29.6,
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "provisional_2026_2",
-    "nfl_team": "IND",
-    "normalized_name": "ashton dulin",
-    "position": "WR",
-    "projection": {
-      "component_score": 20.2,
-      "percentile": 33.666666666666664,
-      "position_rank": 100,
-      "raw_points": 78.48
-    },
-    "season_phase": "preseason",
-    "source_ids": {
-      "espn_id": 4061956,
-      "fantasy_data_id": 21349,
-      "fantasypros_id": "18656",
-      "nfl_id": "2562646",
-      "rotowire_id": 13854,
-      "sleeper_id": "6427",
-      "sportradar_id": "f374262b-d642-4d05-9584-5955548ee4d1",
-      "sportsdata_player_id": "f374262b-d642-4d05-9584-5955548ee4d1"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Reggie Gilliam"
     ],
     "avi_id": "AVI-00007204",
-    "c_avi": 9.5,
+    "c_avi": 10.3,
     "canonical_name": "Reggie Gilliam",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": null,
-      "elite_upside": 8.907795029410204,
+      "elite_upside": 9.650520105573667,
       "health_outlook": null,
       "league_context": 5.716814159292035,
-      "long_term_ceiling": 13.7,
+      "long_term_ceiling": 15.2,
       "long_term_security": null,
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 4.513274336283185,
-      "public_market": 19.161676646706585,
-      "redraft_market": 19.161676646706585
+      "public_market": 21.637426900584796,
+      "redraft_market": 21.637426900584796
     },
-    "d_avi": 29.1,
+    "d_avi": 30.8,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -18416,23 +18367,23 @@
       "Donovan Edwards"
     ],
     "avi_id": "AVI-00012515",
-    "c_avi": 12.7,
+    "c_avi": 13.8,
     "canonical_name": "Donovan Edwards",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": null,
-      "elite_upside": 12.277727730379947,
+      "elite_upside": 13.212699891321222,
       "health_outlook": null,
       "league_context": 13.115044247787612,
-      "long_term_ceiling": 14.4,
+      "long_term_ceiling": 16.3,
       "long_term_security": null,
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 10.353982300884956,
-      "public_market": 16.766467065868262,
-      "redraft_market": 16.766467065868262
+      "public_market": 19.883040935672515,
+      "redraft_market": 19.883040935672515
     },
-    "d_avi": 28.3,
+    "d_avi": 30.5,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -18457,6 +18408,55 @@
       "sleeper_id": "12515",
       "sportradar_id": "162f3110-24fe-11f0-9c33-270dfe4c58dc",
       "sportsdata_player_id": "162f3110-24fe-11f0-9c33-270dfe4c58dc"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Ashton Dulin"
+    ],
+    "avi_id": "AVI-00006427",
+    "c_avi": 21.5,
+    "canonical_name": "Ashton Dulin",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 13.733905579399142,
+      "elite_upside": 20.85372326464016,
+      "health_outlook": null,
+      "league_context": 25.586666666666666,
+      "long_term_ceiling": 16.2,
+      "long_term_security": null,
+      "player_points": 0.0,
+      "position_liquidity": 100.0,
+      "projection": 20.2,
+      "public_market": 22.379077548800534,
+      "redraft_market": 39.66942148760331
+    },
+    "d_avi": 29.6,
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "provisional_2026_2",
+    "nfl_team": "IND",
+    "normalized_name": "ashton dulin",
+    "position": "WR",
+    "projection": {
+      "component_score": 20.2,
+      "percentile": 33.666666666666664,
+      "position_rank": 100,
+      "raw_points": 78.48
+    },
+    "season_phase": "preseason",
+    "source_ids": {
+      "espn_id": 4061956,
+      "fantasy_data_id": 21349,
+      "fantasypros_id": "18656",
+      "nfl_id": "2562646",
+      "rotowire_id": 13854,
+      "sleeper_id": "6427",
+      "sportradar_id": "f374262b-d642-4d05-9584-5955548ee4d1",
+      "sportsdata_player_id": "f374262b-d642-4d05-9584-5955548ee4d1"
     }
   },
   {
@@ -18563,23 +18563,23 @@
       "Jacob Saylors"
     ],
     "avi_id": "AVI-00011237",
-    "c_avi": 6.2,
+    "c_avi": 6.9,
     "canonical_name": "Jacob Saylors",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": null,
-      "elite_upside": 5.785702930422341,
+      "elite_upside": 6.378202142524453,
       "health_outlook": null,
       "league_context": 2.017699115044248,
-      "long_term_ceiling": 10.3,
+      "long_term_ceiling": 11.6,
       "long_term_security": null,
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 1.592920353982301,
-      "public_market": 15.568862275449101,
-      "redraft_market": 15.568862275449101
+      "public_market": 17.54385964912281,
+      "redraft_market": 17.54385964912281
     },
-    "d_avi": 26.2,
+    "d_avi": 27.6,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -18711,12 +18711,12 @@
       "Frank Gore Jr."
     ],
     "avi_id": "AVI-00011573",
-    "c_avi": 16.1,
+    "c_avi": 16.5,
     "canonical_name": "Frank Gore",
     "components": {
       "age_career_horizon": null,
       "dynasty_market": 6.666666666666667,
-      "elite_upside": 15.892869128998637,
+      "elite_upside": 16.20312580862185,
       "health_outlook": null,
       "league_context": 23.203539823008846,
       "long_term_ceiling": 11.0,
@@ -18724,10 +18724,10 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 18.318584070796458,
-      "public_market": 10.23286759813706,
-      "redraft_market": 17.365269461077844
+      "public_market": 11.267056530214425,
+      "redraft_market": 20.46783625730994
     },
-    "d_avi": 22.7,
+    "d_avi": 22.8,
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -18920,8 +18920,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 23.652694610778443,
-      "redraft_market": 20.95808383233533
+      "public_market": 24.463937621832358,
+      "redraft_market": 23.391812865497077
     },
     "d_avi": 0.0,
     "match": {
@@ -18966,8 +18966,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 33.20026613439787,
-      "redraft_market": 32.93413173652694
+      "public_market": 33.72319688109162,
+      "redraft_market": 34.50292397660819
     },
     "d_avi": 0.0,
     "match": {
@@ -19012,8 +19012,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 59.16066635926176,
-      "redraft_market": 60.743801652892564
+      "public_market": 59.0229253124298,
+      "redraft_market": 60.33057851239669
     },
     "d_avi": 0.0,
     "match": {
@@ -19058,8 +19058,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 21.315147482812154,
-      "redraft_market": 16.167664670658684
+      "public_market": 22.943469785575047,
+      "redraft_market": 21.05263157894737
     },
     "d_avi": 0.0,
     "match": {
@@ -19104,8 +19104,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 25.149700598802394,
-      "redraft_market": 25.149700598802394
+      "public_market": 26.900584795321638,
+      "redraft_market": 26.900584795321638
     },
     "d_avi": 0.0,
     "match": {
@@ -19197,8 +19197,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 7.18562874251497,
-      "redraft_market": 7.18562874251497
+      "public_market": 7.60233918128655,
+      "redraft_market": 7.60233918128655
     },
     "d_avi": 0.0,
     "match": {
@@ -19243,8 +19243,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 31.745398092703482,
-      "redraft_market": 26.347305389221557
+      "public_market": 32.12475633528265,
+      "redraft_market": 27.485380116959064
     },
     "d_avi": 0.0,
     "match": {
@@ -19382,8 +19382,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 20.25726325127523,
-      "redraft_market": 2.9940119760479043
+      "public_market": 20.428849902534115,
+      "redraft_market": 3.508771929824561
     },
     "d_avi": 0.0,
     "match": {
@@ -19428,8 +19428,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 45.512479457075635,
-      "redraft_market": 42.97520661157025
+      "public_market": 45.37473841024368,
+      "redraft_market": 42.56198347107438
     },
     "d_avi": 0.0,
     "match": {
@@ -19474,8 +19474,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 2.395209580838323,
-      "redraft_market": 2.395209580838323
+      "public_market": 2.9239766081871346,
+      "redraft_market": 2.9239766081871346
     },
     "d_avi": 0.0,
     "match": {
@@ -19520,8 +19520,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 46.87735639831448,
-      "redraft_market": 39.52095808383233
+      "public_market": 47.34892787524367,
+      "redraft_market": 40.93567251461988
     },
     "d_avi": 0.0,
     "match": {
@@ -19566,8 +19566,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 13.173652694610778,
-      "redraft_market": 13.173652694610778
+      "public_market": 14.619883040935672,
+      "redraft_market": 14.619883040935672
     },
     "d_avi": 0.0,
     "match": {
@@ -19612,8 +19612,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 40.89376801951652,
-      "redraft_market": 37.125748502994014
+      "public_market": 41.384015594541914,
+      "redraft_market": 38.59649122807018
     },
     "d_avi": 0.0,
     "match": {
@@ -19658,8 +19658,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 7.7844311377245505,
-      "redraft_market": 7.7844311377245505
+      "public_market": 8.771929824561404,
+      "redraft_market": 8.771929824561404
     },
     "d_avi": 0.0,
     "match": {
@@ -19796,8 +19796,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 46.05233976491462,
-      "redraft_market": 43.712574850299404
+      "public_market": 46.49122807017543,
+      "redraft_market": 45.02923976608187
     },
     "d_avi": 0.0,
     "match": {
@@ -19842,8 +19842,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 20.434686183189175,
-      "redraft_market": 25.748502994011975
+      "public_market": 21.403508771929825,
+      "redraft_market": 28.65497076023392
     },
     "d_avi": 0.0,
     "match": {
@@ -19888,8 +19888,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 54.371257485029936,
-      "redraft_market": 43.11377245508982
+      "public_market": 54.81481481481482,
+      "redraft_market": 44.44444444444444
     },
     "d_avi": 0.0,
     "match": {
@@ -19934,8 +19934,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 33.5395874916833,
-      "redraft_market": 23.952095808383234
+      "public_market": 34.32748538011696,
+      "redraft_market": 26.31578947368421
     },
     "d_avi": 0.0,
     "match": {
@@ -19980,8 +19980,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 43.94322466178753,
-      "redraft_market": 40.7185628742515
+      "public_market": 44.40545808966862,
+      "redraft_market": 42.10526315789474
     },
     "d_avi": 0.0,
     "match": {
@@ -20118,8 +20118,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 43.77245508982036,
-      "redraft_market": 41.31736526946108
+      "public_market": 44.23001949317739,
+      "redraft_market": 42.69005847953216
     },
     "d_avi": 0.0,
     "match": {
@@ -20349,8 +20349,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 23.082723442004877,
-      "redraft_market": 20.35928143712575
+      "public_market": 23.898635477582843,
+      "redraft_market": 22.80701754385965
     },
     "d_avi": 0.0,
     "match": {
@@ -20441,8 +20441,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 37.95963628298958,
-      "redraft_market": 38.32335329341317
+      "public_market": 38.24561403508772,
+      "redraft_market": 39.1812865497076
     },
     "d_avi": 0.0,
     "match": {
@@ -20580,8 +20580,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 14.970059880239521,
-      "redraft_market": 14.970059880239521
+      "public_market": 16.95906432748538,
+      "redraft_market": 16.95906432748538
     },
     "d_avi": 0.0,
     "match": {
@@ -20626,8 +20626,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 32.03149257041473,
-      "redraft_market": 30.538922155688624
+      "public_market": 32.57309941520467,
+      "redraft_market": 32.16374269005848
     },
     "d_avi": 0.0,
     "match": {
@@ -20672,8 +20672,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 21.55688622754491,
-      "redraft_market": 21.55688622754491
+      "public_market": 25.146198830409357,
+      "redraft_market": 25.146198830409357
     },
     "d_avi": 0.0,
     "match": {
@@ -20718,8 +20718,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 36.27855400310491,
-      "redraft_market": 37.724550898203596
+      "public_market": 36.95906432748538,
+      "redraft_market": 39.76608187134503
     },
     "d_avi": 0.0,
     "match": {
@@ -20764,8 +20764,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 30.632069194943444,
-      "redraft_market": 18.562874251497007
+      "public_market": 32.63157894736842,
+      "redraft_market": 24.56140350877193
     },
     "d_avi": 0.0,
     "match": {
@@ -20810,8 +20810,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 41.434907961854066,
-      "redraft_market": 36.52694610778443
+      "public_market": 41.92982456140351,
+      "redraft_market": 38.01169590643275
     },
     "d_avi": 0.0,
     "match": {
@@ -20857,8 +20857,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 36.38944333555112,
-      "redraft_market": 26.94610778443114
+      "public_market": 36.76413255360624,
+      "redraft_market": 28.07017543859649
     },
     "d_avi": 0.0,
     "match": {
@@ -20903,8 +20903,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 35.533377689066306,
-      "redraft_market": 22.15568862275449
+      "public_market": 34.19103313840156,
+      "redraft_market": 18.128654970760234
     },
     "d_avi": 0.0,
     "match": {
@@ -20995,8 +20995,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 11.658904413395431,
-      "redraft_market": 22.75449101796407
+      "public_market": 10.311890838206628,
+      "redraft_market": 18.71345029239766
     },
     "d_avi": 0.0,
     "match": {
@@ -21087,8 +21087,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 31.137724550898202,
-      "redraft_market": 31.137724550898202
+      "public_market": 32.748538011695906,
+      "redraft_market": 32.748538011695906
     },
     "d_avi": 0.0,
     "match": {
@@ -21133,8 +21133,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 68.22083495903239,
-      "redraft_market": 68.18181818181819
+      "public_market": 68.35857600586434,
+      "redraft_market": 68.59504132231405
     },
     "d_avi": 0.0,
     "match": {
@@ -21225,8 +21225,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 32.33532934131737,
-      "redraft_market": 32.33532934131737
+      "public_market": 33.91812865497076,
+      "redraft_market": 33.91812865497076
     },
     "d_avi": 0.0,
     "match": {
@@ -21271,8 +21271,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 21.516966067864274,
-      "redraft_market": 24.550898203592816
+      "public_market": 21.325536062378166,
+      "redraft_market": 23.976608187134502
     },
     "d_avi": 0.0,
     "match": {
@@ -21317,8 +21317,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 24.67870275127396,
-      "redraft_market": 38.84297520661157
+      "public_market": 24.540961704442,
+      "redraft_market": 38.429752066115704
     },
     "d_avi": 0.0,
     "match": {
@@ -21363,8 +21363,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 54.773643575828515,
-      "redraft_market": 57.02479338842975
+      "public_market": 54.63590252899655,
+      "redraft_market": 56.611570247933884
     },
     "d_avi": 0.0,
     "match": {

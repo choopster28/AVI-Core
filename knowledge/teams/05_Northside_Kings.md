@@ -21,17 +21,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 494.3
-- championship_lineup_c_avi_avg: 61.79
-- offensive_roster_c_avi_sum: 820.9
-- offensive_roster_c_avi_avg: 51.31
+- championship_lineup_c_avi_sum: 494.4
+- championship_lineup_c_avi_avg: 61.80
+- offensive_roster_c_avi_sum: 821.3
+- offensive_roster_c_avi_avg: 51.33
 - offensive_roster_d_avi_sum: 1130.0
 - offensive_roster_d_avi_avg: 70.62
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jordan Love | C-AVI: 51.3 | D-AVI: 73.2
-- RB: Bhayshul Tuten | C-AVI: 73.1 | D-AVI: 85.2
+- RB: Bhayshul Tuten | C-AVI: 73.2 | D-AVI: 85.2
 - RB: RJ Harvey | C-AVI: 62.5 | D-AVI: 81.6
 - WR: Mike Evans | C-AVI: 72.9 | D-AVI: 82.4
 - WR: Jordan Addison | C-AVI: 60.0 | D-AVI: 82.4
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 73.1
+- Championship AVI (C-AVI, 0-100): 73.2
 - Dynasty AVI (D-AVI, 0-100): 85.2
 - Projected PPR points: 208.5
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 42.7
+- Championship AVI (C-AVI, 0-100): 42.8
 - Dynasty AVI (D-AVI, 0-100): 67.4
 - Projected PPR points: 77.7
 - Category: offense
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 36.2
+- Championship AVI (C-AVI, 0-100): 36.4
 - Dynasty AVI (D-AVI, 0-100): 63.6
 - Projected PPR points: 43.2
 - Category: offense

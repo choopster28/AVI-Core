@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 563.4
 - championship_lineup_c_avi_avg: 70.42
-- offensive_roster_c_avi_sum: 782.6
-- offensive_roster_c_avi_avg: 60.20
-- offensive_roster_d_avi_sum: 997.6
-- offensive_roster_d_avi_avg: 76.74
+- offensive_roster_c_avi_sum: 771.7
+- offensive_roster_c_avi_avg: 59.36
+- offensive_roster_d_avi_sum: 992.7
+- offensive_roster_d_avi_avg: 76.36
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 51.8
-- Dynasty AVI (D-AVI, 0-100): 73.0
+- Championship AVI (C-AVI, 0-100): 51.9
+- Dynasty AVI (D-AVI, 0-100): 73.1
 - Projected PPR points: 138.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -195,23 +195,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Calvin Ridley
-- Player name: Calvin Ridley
-- Player ID: 4981
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: TEN
-- Active: True
-- Status: Active
-- Age: 31.0
-- Championship AVI (C-AVI, 0-100): 47.4
-- Dynasty AVI (D-AVI, 0-100): 63.7
-- Projected PPR points: 152.4
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Jalen Nailor
 - Player name: Jalen Nailor
 - Player ID: 8180
@@ -223,9 +206,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 45.4
+- Championship AVI (C-AVI, 0-100): 45.5
 - Dynasty AVI (D-AVI, 0-100): 66.2
 - Projected PPR points: 130.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Marquise Brown
+- Player name: Marquise Brown
+- Player ID: 5848
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 36.3
+- Dynasty AVI (D-AVI, 0-100): 58.7
+- Projected PPR points: 89.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -365,17 +365,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Avieon Terrell
-- Player name: Avieon Terrell
-- Player ID: 13389
+### PLAYER: Kevin Byard
+- Player name: Kevin Byard
+- Player ID: 3233
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
 - Position: DB
 - Fantasy positions: ['DB']
-- NFL team: ATL
+- NFL team: NE
 - Active: True
 - Status: Active
-- Age: 21.0
+- Age: 32.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

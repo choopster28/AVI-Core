@@ -8466,7 +8466,7 @@
     },
     {
       "cbs_player_id": "3124730",
-      "player_bye_week": "13",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "cameron-mitchell.php",
@@ -8479,7 +8479,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "C. Mitchell",
-      "player_team_id": "IND",
+      "player_team_id": "FA",
       "player_yahoo_id": "40184",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB166",

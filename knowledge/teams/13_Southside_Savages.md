@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 637.0
-- championship_lineup_c_avi_avg: 79.62
-- offensive_roster_c_avi_sum: 795.0
-- offensive_roster_c_avi_avg: 72.27
+- championship_lineup_c_avi_sum: 637.2
+- championship_lineup_c_avi_avg: 79.65
+- offensive_roster_c_avi_sum: 795.2
+- offensive_roster_c_avi_avg: 72.29
 - offensive_roster_d_avi_sum: 915.2
 - offensive_roster_d_avi_avg: 83.20
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 98.3 | D-AVI: 92.3
-- RB: Josh Jacobs | C-AVI: 87.7 | D-AVI: 88.0
+- RB: Josh Jacobs | C-AVI: 87.8 | D-AVI: 88.0
 - RB: Travis Etienne | C-AVI: 80.7 | D-AVI: 88.9
 - WR: Tetairoa McMillan | C-AVI: 85.5 | D-AVI: 94.8
 - WR: Jaylen Waddle | C-AVI: 77.8 | D-AVI: 89.1
 - TE: Chig Okonkwo | C-AVI: 56.6 | D-AVI: 76.9
 - FLEX: Luther Burden | C-AVI: 77.7 | D-AVI: 90.7
-- FLEX: TreVeyon Henderson | C-AVI: 72.7 | D-AVI: 88.9
+- FLEX: TreVeyon Henderson | C-AVI: 72.8 | D-AVI: 88.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 87.7
+- Championship AVI (C-AVI, 0-100): 87.8
 - Dynasty AVI (D-AVI, 0-100): 88.0
 - Projected PPR points: 256.9
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 72.7
+- Championship AVI (C-AVI, 0-100): 72.8
 - Dynasty AVI (D-AVI, 0-100): 88.9
 - Projected PPR points: 201.6
 - Category: offense
