@@ -28,6 +28,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
 
+## PLAYER LOOKUP: Aaron Rodgers
+- Player name: Aaron Rodgers
+- Player ID: 96
+- Position: QB
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
+
 ## PLAYER LOOKUP: Adonai Mitchell
 - Player name: Adonai Mitchell
 - Player ID: 11625
@@ -59,6 +67,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
+
+## PLAYER LOOKUP: Antonio Williams
+- Player name: Antonio Williams
+- Player ID: 13301
+- Position: WR
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: Ashton Jeanty
 - Player name: Ashton Jeanty
@@ -108,6 +124,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
 
+## PLAYER LOOKUP: Braelon Allen
+- Player name: Braelon Allen
+- Player ID: 11576
+- Position: RB
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
+
 ## PLAYER LOOKUP: Brandon Aiyuk
 - Player name: Brandon Aiyuk
 - Player ID: 6803
@@ -136,9 +160,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Brian Robinson
 - Player ID: 8154
 - Position: RB
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Team file: 05_Northside_Kings.md
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Team file: 10_SmokyValleyWheatWarriors.md
 
 ## PLAYER LOOKUP: Brian Thomas
 - Player name: Brian Thomas
@@ -159,6 +183,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 ## PLAYER LOOKUP: Brock Purdy
 - Player name: Brock Purdy
 - Player ID: 8183
+- Position: QB
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
+
+## PLAYER LOOKUP: Bryce Young
+- Player name: Bryce Young
+- Player ID: 9228
 - Position: QB
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
@@ -196,6 +228,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
 
+## PLAYER LOOKUP: Calvin Ridley
+- Player name: Calvin Ridley
+- Player ID: 4981
+- Position: WR
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Team file: 14_Phalhala_or_Bust.md
+
 ## PLAYER LOOKUP: Cam Skattebo
 - Player name: Cam Skattebo
 - Player ID: 12481
@@ -208,6 +248,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Cam Ward
 - Player ID: 12522
 - Position: QB
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
+
+## PLAYER LOOKUP: Carnell Tate
+- Player name: Carnell Tate
+- Player ID: 13279
+- Position: WR
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
@@ -227,6 +275,38 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
+
+## PLAYER LOOKUP: Chig Okonkwo
+- Player name: Chig Okonkwo
+- Player ID: 8210
+- Position: TE
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Team file: 13_Southside_Savages.md
+
+## PLAYER LOOKUP: Chimere Dike
+- Player name: Chimere Dike
+- Player ID: 12540
+- Position: WR
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Team file: 10_SmokyValleyWheatWarriors.md
+
+## PLAYER LOOKUP: Chris Bell
+- Player name: Chris Bell
+- Player ID: 13311
+- Position: WR
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
+
+## PLAYER LOOKUP: Chris Brazzell
+- Player name: Chris Brazzell
+- Player ID: 13353
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Chris Godwin
 - Player name: Chris Godwin
@@ -292,6 +372,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
 
+## PLAYER LOOKUP: Cooper Kupp
+- Player name: Cooper Kupp
+- Player ID: 4039
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
 ## PLAYER LOOKUP: Courtland Sutton
 - Player name: Courtland Sutton
 - Player ID: 5045
@@ -299,6 +387,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
+
+## PLAYER LOOKUP: Cyrus Allen
+- Player name: Cyrus Allen
+- Player ID: 13413
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: D'Andre Swift
 - Player name: D'Andre Swift
@@ -348,6 +444,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
+## PLAYER LOOKUP: Dalton Schultz
+- Player name: Dalton Schultz
+- Player ID: 5001
+- Position: TE
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
+
 ## PLAYER LOOKUP: Daniel Jones
 - Player name: Daniel Jones
 - Player ID: 5870
@@ -355,6 +459,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
+
+## PLAYER LOOKUP: Darnell Mooney
+- Player name: Darnell Mooney
+- Player ID: 7090
+- Position: WR
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Davante Adams
 - Player name: Davante Adams
@@ -372,6 +484,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
 
+## PLAYER LOOKUP: David Njoku
+- Player name: David Njoku
+- Player ID: 4033
+- Position: TE
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
+
 ## PLAYER LOOKUP: De'Von Achane
 - Player name: De'Von Achane
 - Player ID: 9226
@@ -379,6 +499,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
+
+## PLAYER LOOKUP: De'Zhaun Stribling
+- Player name: De'Zhaun Stribling
+- Player ID: 13417
+- Position: WR
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: DeVonta Smith
 - Player name: DeVonta Smith
@@ -396,6 +524,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
 
+## PLAYER LOOKUP: Demond Claiborne
+- Player name: Demond Claiborne
+- Player ID: 13347
+- Position: RB
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
+
+## PLAYER LOOKUP: Denzel Boston
+- Player name: Denzel Boston
+- Player ID: 13346
+- Position: WR
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
+
 ## PLAYER LOOKUP: Derrick Henry
 - Player name: Derrick Henry
 - Player ID: 3198
@@ -403,6 +547,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
+
+## PLAYER LOOKUP: Dontayvion Wicks
+- Player name: Dontayvion Wicks
+- Player ID: 9486
+- Position: WR
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
 
 ## PLAYER LOOKUP: Drake London
 - Player name: Drake London
@@ -428,6 +580,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
+## PLAYER LOOKUP: Eli Stowers
+- Player name: Eli Stowers
+- Player ID: 13349
+- Position: TE
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
+
+## PLAYER LOOKUP: Elijah Sarratt
+- Player name: Elijah Sarratt
+- Player ID: 13268
+- Position: WR
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
+
 ## PLAYER LOOKUP: Emanuel Wilson
 - Player name: Emanuel Wilson
 - Player ID: 11435
@@ -443,6 +611,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
+
+## PLAYER LOOKUP: Emmett Johnson
+- Player name: Emmett Johnson
+- Player ID: 13337
+- Position: RB
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
+## PLAYER LOOKUP: Fernando Mendoza
+- Player name: Fernando Mendoza
+- Player ID: 13269
+- Position: QB
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Team file: 14_Phalhala_or_Bust.md
 
 ## PLAYER LOOKUP: Garrett Wilson
 - Player name: Garrett Wilson
@@ -463,6 +647,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 ## PLAYER LOOKUP: George Pickens
 - Player name: George Pickens
 - Player ID: 8137
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
+
+## PLAYER LOOKUP: Germie Bernard
+- Player name: Germie Bernard
+- Player ID: 13274
 - Position: WR
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
@@ -532,6 +724,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
 
+## PLAYER LOOKUP: Ja'Kobi Lane
+- Player name: Ja'Kobi Lane
+- Player ID: 13293
+- Position: WR
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Ja'Marr Chase
 - Player name: Ja'Marr Chase
 - Player ID: 7564
@@ -556,6 +756,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
 
+## PLAYER LOOKUP: Jadarian Price
+- Player name: Jadarian Price
+- Player ID: 13286
+- Position: RB
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
+
 ## PLAYER LOOKUP: Jahmyr Gibbs
 - Player name: Jahmyr Gibbs
 - Player ID: 9221
@@ -571,6 +779,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
+
+## PLAYER LOOKUP: Jake Tonges
+- Player name: Jake Tonges
+- Player ID: 8698
+- Position: TE
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Jakobi Meyers
 - Player name: Jakobi Meyers
@@ -619,6 +835,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
+
+## PLAYER LOOKUP: James Conner
+- Player name: James Conner
+- Player ID: 4137
+- Position: RB
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: James Cook
 - Player name: James Cook
@@ -716,13 +940,21 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
 
+## PLAYER LOOKUP: Jeremiyah Love
+- Player name: Jeremiyah Love
+- Player ID: 13287
+- Position: RB
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
 ## PLAYER LOOKUP: Jerry Jeudy
 - Player name: Jerry Jeudy
 - Player ID: 6783
 - Position: WR
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Team file: 16_Crimson_Tide_Pods.md
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Team file: 05_Northside_Kings.md
 
 ## PLAYER LOOKUP: Joe Burrow
 - Player name: Joe Burrow
@@ -732,13 +964,13 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
-## PLAYER LOOKUP: Joe Mixon
-- Player name: Joe Mixon
-- Player ID: 4018
+## PLAYER LOOKUP: Jonah Coleman
+- Player name: Jonah Coleman
+- Player ID: 13345
 - Position: RB
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Team file: 16_Crimson_Tide_Pods.md
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Team file: 05_Northside_Kings.md
 
 ## PLAYER LOOKUP: Jonathan Taylor
 - Player name: Jonathan Taylor
@@ -755,14 +987,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
-
-## PLAYER LOOKUP: Jonnu Smith
-- Player name: Jonnu Smith
-- Player ID: 4144
-- Position: TE
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: Jordan Addison
 - Player name: Jordan Addison
@@ -787,6 +1011,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
+
+## PLAYER LOOKUP: Jordyn Tyson
+- Player name: Jordyn Tyson
+- Player ID: 13281
+- Position: WR
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Josh Allen
 - Player name: Josh Allen
@@ -836,6 +1068,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
+## PLAYER LOOKUP: KC Concepcion
+- Player name: KC Concepcion
+- Player ID: 13298
+- Position: WR
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
+
+## PLAYER LOOKUP: Kaelon Black
+- Player name: Kaelon Black
+- Player ID: 13414
+- Position: RB
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
+
 ## PLAYER LOOKUP: Kaleb Johnson
 - Player name: Kaleb Johnson
 - Player ID: 12504
@@ -844,6 +1092,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
+## PLAYER LOOKUP: Kayshon Boutte
+- Player name: Kayshon Boutte
+- Player ID: 9504
+- Position: WR
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
+
+## PLAYER LOOKUP: Kaytron Allen
+- Player name: Kaytron Allen
+- Player ID: 13405
+- Position: RB
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
+
 ## PLAYER LOOKUP: Keaton Mitchell
 - Player name: Keaton Mitchell
 - Player ID: 9511
@@ -851,6 +1115,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
+
+## PLAYER LOOKUP: Keenan Allen
+- Player name: Keenan Allen
+- Player ID: 1479
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: Kenneth Walker
 - Player name: Kenneth Walker
@@ -868,13 +1140,21 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
 
+## PLAYER LOOKUP: Kenyon Sadiq
+- Player name: Kenyon Sadiq
+- Player ID: 13330
+- Position: TE
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Team file: 05_Northside_Kings.md
+
 ## PLAYER LOOKUP: Keon Coleman
 - Player name: Keon Coleman
 - Player ID: 11637
 - Position: WR
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Team file: 05_Northside_Kings.md
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Khalil Shakir
 - Player name: Khalil Shakir
@@ -883,6 +1163,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
+
+## PLAYER LOOKUP: Kimani Vidal
+- Player name: Kimani Vidal
+- Player ID: 11647
+- Position: RB
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Kyle Monangai
 - Player name: Kyle Monangai
@@ -899,6 +1187,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
+
+## PLAYER LOOKUP: Kyle Williams
+- Player name: Kyle Williams
+- Player ID: 12547
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: Kyler Murray
 - Player name: Kyler Murray
@@ -940,6 +1236,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
 
+## PLAYER LOOKUP: Makai Lemon
+- Player name: Makai Lemon
+- Player ID: 13294
+- Position: WR
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Team file: 14_Phalhala_or_Bust.md
+
+## PLAYER LOOKUP: Malachi Fields
+- Player name: Malachi Fields
+- Player ID: 13285
+- Position: WR
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Malik Nabers
 - Player name: Malik Nabers
 - Player ID: 11632
@@ -947,14 +1259,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
-
-## PLAYER LOOKUP: Malik Washington
-- Player name: Malik Washington
-- Player ID: 11610
-- Position: WR
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Team file: 05_Northside_Kings.md
 
 ## PLAYER LOOKUP: Malik Willis
 - Player name: Malik Willis
@@ -988,6 +1292,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
 
+## PLAYER LOOKUP: Marvin Mims
+- Player name: Marvin Mims
+- Player ID: 9494
+- Position: WR
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
+
 ## PLAYER LOOKUP: Matthew Golden
 - Player name: Matthew Golden
 - Player ID: 12501
@@ -1003,6 +1315,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
+
+## PLAYER LOOKUP: Max Klare
+- Player name: Max Klare
+- Player ID: 13278
+- Position: TE
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
 
 ## PLAYER LOOKUP: Michael Penix
 - Player name: Michael Penix
@@ -1036,6 +1356,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
 
+## PLAYER LOOKUP: Mike Washington
+- Player name: Mike Washington
+- Player ID: 13305
+- Position: RB
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Team file: 05_Northside_Kings.md
+
+## PLAYER LOOKUP: Nicholas Singleton
+- Player name: Nicholas Singleton
+- Player ID: 13288
+- Position: RB
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
+
 ## PLAYER LOOKUP: Nico Collins
 - Player name: Nico Collins
 - Player ID: 7569
@@ -1043,6 +1379,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
+
+## PLAYER LOOKUP: Omar Cooper
+- Player name: Omar Cooper
+- Player ID: 13276
+- Position: WR
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
 
 ## PLAYER LOOKUP: Omarion Hampton
 - Player name: Omarion Hampton
@@ -1067,6 +1411,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
+
+## PLAYER LOOKUP: Pat Bryant
+- Player name: Pat Bryant
+- Player ID: 12492
+- Position: WR
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
 
 ## PLAYER LOOKUP: Patrick Mahomes
 - Player name: Patrick Mahomes
@@ -1132,6 +1484,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
 
+## PLAYER LOOKUP: Rashod Bateman
+- Player name: Rashod Bateman
+- Player ID: 7571
+- Position: WR
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
+
+## PLAYER LOOKUP: Ray Davis
+- Player name: Ray Davis
+- Player ID: 11575
+- Position: RB
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
+
 ## PLAYER LOOKUP: Rhamondre Stevenson
 - Player name: Rhamondre Stevenson
 - Player ID: 7611
@@ -1164,6 +1532,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
 
+## PLAYER LOOKUP: Ryan Flournoy
+- Player name: Ryan Flournoy
+- Player ID: 11783
+- Position: WR
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
+
 ## PLAYER LOOKUP: Sam Darnold
 - Player name: Sam Darnold
 - Player ID: 4943
@@ -1187,6 +1563,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
+
+## PLAYER LOOKUP: Sean Tucker
+- Player name: Sean Tucker
+- Player ID: 9506
+- Position: RB
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
+## PLAYER LOOKUP: Skyler Bell
+- Player name: Skyler Bell
+- Player ID: 13402
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Stefon Diggs
 - Player name: Stefon Diggs
@@ -1212,6 +1604,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
+## PLAYER LOOKUP: Tank Dell
+- Player name: Tank Dell
+- Player ID: 9502
+- Position: WR
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
+
+## PLAYER LOOKUP: Ted Hurst
+- Player name: Ted Hurst
+- Player ID: 13317
+- Position: WR
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
+
 ## PLAYER LOOKUP: Tee Higgins
 - Player name: Tee Higgins
 - Player ID: 6801
@@ -1219,6 +1627,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
+
+## PLAYER LOOKUP: Terrance Ferguson
+- Player name: Terrance Ferguson
+- Player ID: 12487
+- Position: TE
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Terry McLaurin
 - Player name: Terry McLaurin
@@ -1340,6 +1756,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
+## PLAYER LOOKUP: Troy Franklin
+- Player name: Troy Franklin
+- Player ID: 11627
+- Position: WR
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
+
+## PLAYER LOOKUP: Tua Tagovailoa
+- Player name: Tua Tagovailoa
+- Player ID: 6768
+- Position: QB
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
+
 ## PLAYER LOOKUP: Tucker Kraft
 - Player name: Tucker Kraft
 - Player ID: 9484
@@ -1428,6 +1860,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
 
+## PLAYER LOOKUP: Zachariah Branch
+- Player name: Zachariah Branch
+- Player ID: 13320
+- Position: WR
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
+
 ## PLAYER LOOKUP: Zay Flowers
 - Player name: Zay Flowers
 - Player ID: 9997
@@ -1437,78 +1877,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Team file: 03_Ravens_Regime.md
 
 ## Available Player Board
-
-## AVAILABLE PLAYER: Jeremiyah Love
-- Player name: Jeremiyah Love
-- Player ID: 13287
-- Position: RB
-- NFL team: ARI
-- Championship AVI (C-AVI, 0-100): 89.9
-- Dynasty AVI (D-AVI, 0-100): 95.4
-- Availability: available
-
-## AVAILABLE PLAYER: Carnell Tate
-- Player name: Carnell Tate
-- Player ID: 13279
-- Position: WR
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 68.6
-- Dynasty AVI (D-AVI, 0-100): 89.8
-- Availability: available
-
-## AVAILABLE PLAYER: Jadarian Price
-- Player name: Jadarian Price
-- Player ID: 13286
-- Position: RB
-- NFL team: SEA
-- Championship AVI (C-AVI, 0-100): 67.2
-- Dynasty AVI (D-AVI, 0-100): 84.6
-- Availability: available
-
-## AVAILABLE PLAYER: Jordyn Tyson
-- Player name: Jordyn Tyson
-- Player ID: 13281
-- Position: WR
-- NFL team: NO
-- Championship AVI (C-AVI, 0-100): 63.2
-- Dynasty AVI (D-AVI, 0-100): 86.8
-- Availability: available
-
-## AVAILABLE PLAYER: Makai Lemon
-- Player name: Makai Lemon
-- Player ID: 13294
-- Position: WR
-- NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 59.0
-- Dynasty AVI (D-AVI, 0-100): 85.7
-- Availability: available
-
-## AVAILABLE PLAYER: Kenyon Sadiq
-- Player name: Kenyon Sadiq
-- Player ID: 13330
-- Position: TE
-- NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 58.2
-- Dynasty AVI (D-AVI, 0-100): 81.2
-- Availability: available
-
-## AVAILABLE PLAYER: Dalton Schultz
-- Player name: Dalton Schultz
-- Player ID: 5001
-- Position: TE
-- NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 57.5
-- Dynasty AVI (D-AVI, 0-100): 71.2
-- Availability: available
-
-## AVAILABLE PLAYER: Chig Okonkwo
-- Player name: Chig Okonkwo
-- Player ID: 8210
-- Position: TE
-- NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 56.3
-- Dynasty AVI (D-AVI, 0-100): 76.8
-- Availability: available
 
 ## AVAILABLE PLAYER: Pat Freiermuth
 - Player name: Pat Freiermuth
@@ -1526,24 +1894,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: MIA
 - Championship AVI (C-AVI, 0-100): 54.4
 - Dynasty AVI (D-AVI, 0-100): 70.1
-- Availability: available
-
-## AVAILABLE PLAYER: KC Concepcion
-- Player name: KC Concepcion
-- Player ID: 13298
-- Position: WR
-- NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 53.6
-- Dynasty AVI (D-AVI, 0-100): 82.1
-- Availability: available
-
-## AVAILABLE PLAYER: Terrance Ferguson
-- Player name: Terrance Ferguson
-- Player ID: 12487
-- Position: TE
-- NFL team: LAR
-- Championship AVI (C-AVI, 0-100): 51.6
-- Dynasty AVI (D-AVI, 0-100): 73.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Evan Engram
@@ -1564,24 +1914,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 70.0
 - Availability: available
 
-## AVAILABLE PLAYER: Denzel Boston
-- Player name: Denzel Boston
-- Player ID: 13346
-- Position: WR
-- NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 48.8
-- Dynasty AVI (D-AVI, 0-100): 76.6
-- Availability: available
-
-## AVAILABLE PLAYER: Omar Cooper
-- Player name: Omar Cooper
-- Player ID: 13276
-- Position: WR
-- NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 48.7
-- Dynasty AVI (D-AVI, 0-100): 79.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Mike Gesicki
 - Player name: Mike Gesicki
 - Player ID: 4993
@@ -1589,51 +1921,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CIN
 - Championship AVI (C-AVI, 0-100): 47.8
 - Dynasty AVI (D-AVI, 0-100): 61.9
-- Availability: available
-
-## AVAILABLE PLAYER: Antonio Williams
-- Player name: Antonio Williams
-- Player ID: 13301
-- Position: WR
-- NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 47.6
-- Dynasty AVI (D-AVI, 0-100): 74.5
-- Availability: available
-
-## AVAILABLE PLAYER: Calvin Ridley
-- Player name: Calvin Ridley
-- Player ID: 4981
-- Position: WR
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 47.5
-- Dynasty AVI (D-AVI, 0-100): 63.9
-- Availability: available
-
-## AVAILABLE PLAYER: David Njoku
-- Player name: David Njoku
-- Player ID: 4033
-- Position: TE
-- NFL team: LAC
-- Championship AVI (C-AVI, 0-100): 46.8
-- Dynasty AVI (D-AVI, 0-100): 66.1
-- Availability: available
-
-## AVAILABLE PLAYER: Tank Dell
-- Player name: Tank Dell
-- Player ID: 9502
-- Position: WR
-- NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 46.5
-- Dynasty AVI (D-AVI, 0-100): 66.7
-- Availability: available
-
-## AVAILABLE PLAYER: De'Zhaun Stribling
-- Player name: De'Zhaun Stribling
-- Player ID: 13417
-- Position: WR
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 46.1
-- Dynasty AVI (D-AVI, 0-100): 71.7
 - Availability: available
 
 ## AVAILABLE PLAYER: John Metchie
@@ -1645,15 +1932,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 54.0
 - Availability: available
 
-## AVAILABLE PLAYER: Bryce Young
-- Player name: Bryce Young
-- Player ID: 9228
-- Position: QB
-- NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 45.3
-- Dynasty AVI (D-AVI, 0-100): 64.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Michael Mayer
 - Player name: Michael Mayer
 - Player ID: 9482
@@ -1663,69 +1941,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 64.2
 - Availability: available
 
-## AVAILABLE PLAYER: Germie Bernard
-- Player name: Germie Bernard
-- Player ID: 13274
-- Position: WR
-- NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 44.5
-- Dynasty AVI (D-AVI, 0-100): 70.9
-- Availability: available
-
-## AVAILABLE PLAYER: Braelon Allen
-- Player name: Braelon Allen
-- Player ID: 11576
-- Position: RB
-- NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 44.4
-- Dynasty AVI (D-AVI, 0-100): 68.0
-- Availability: available
-
-## AVAILABLE PLAYER: Rashod Bateman
-- Player name: Rashod Bateman
-- Player ID: 7571
-- Position: WR
-- NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 43.9
-- Dynasty AVI (D-AVI, 0-100): 61.0
-- Availability: available
-
-## AVAILABLE PLAYER: Mike Washington
-- Player name: Mike Washington
-- Player ID: 13305
-- Position: RB
-- NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 43.1
-- Dynasty AVI (D-AVI, 0-100): 67.4
-- Availability: available
-
-## AVAILABLE PLAYER: Fernando Mendoza
-- Player name: Fernando Mendoza
-- Player ID: 13269
-- Position: QB
-- NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 42.8
-- Dynasty AVI (D-AVI, 0-100): 70.0
-- Availability: available
-
-## AVAILABLE PLAYER: Kayshon Boutte
-- Player name: Kayshon Boutte
-- Player ID: 9504
-- Position: WR
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 42.8
-- Dynasty AVI (D-AVI, 0-100): 66.4
-- Availability: available
-
-## AVAILABLE PLAYER: Eli Stowers
-- Player name: Eli Stowers
-- Player ID: 13349
-- Position: TE
-- NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 42.6
-- Dynasty AVI (D-AVI, 0-100): 77.4
-- Availability: available
-
 ## AVAILABLE PLAYER: Geno Smith
 - Player name: Geno Smith
 - Player ID: 1373
@@ -1733,24 +1948,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYJ
 - Championship AVI (C-AVI, 0-100): 42.5
 - Dynasty AVI (D-AVI, 0-100): 58.7
-- Availability: available
-
-## AVAILABLE PLAYER: Troy Franklin
-- Player name: Troy Franklin
-- Player ID: 11627
-- Position: WR
-- NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 42.5
-- Dynasty AVI (D-AVI, 0-100): 69.6
-- Availability: available
-
-## AVAILABLE PLAYER: Cooper Kupp
-- Player name: Cooper Kupp
-- Player ID: 4039
-- Position: WR
-- NFL team: SEA
-- Championship AVI (C-AVI, 0-100): 42.4
-- Dynasty AVI (D-AVI, 0-100): 60.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Darnell Washington
@@ -1771,13 +1968,13 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 55.2
 - Availability: available
 
-## AVAILABLE PLAYER: Zachariah Branch
-- Player name: Zachariah Branch
-- Player ID: 13320
+## AVAILABLE PLAYER: Malik Washington
+- Player name: Malik Washington
+- Player ID: 11610
 - Position: WR
-- NFL team: ATL
-- Championship AVI (C-AVI, 0-100): 42.1
-- Dynasty AVI (D-AVI, 0-100): 68.5
+- NFL team: MIA
+- Championship AVI (C-AVI, 0-100): 41.5
+- Dynasty AVI (D-AVI, 0-100): 62.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Dawson Knox
@@ -1796,15 +1993,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CAR
 - Championship AVI (C-AVI, 0-100): 41.1
 - Dynasty AVI (D-AVI, 0-100): 61.5
-- Availability: available
-
-## AVAILABLE PLAYER: Darnell Mooney
-- Player name: Darnell Mooney
-- Player ID: 7090
-- Position: WR
-- NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 40.9
-- Dynasty AVI (D-AVI, 0-100): 61.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Jordan James
@@ -1852,33 +2040,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 59.7
 - Availability: available
 
-## AVAILABLE PLAYER: Chris Bell
-- Player name: Chris Bell
-- Player ID: 13311
-- Position: WR
-- NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 39.6
-- Dynasty AVI (D-AVI, 0-100): 71.5
-- Availability: available
-
-## AVAILABLE PLAYER: Ja'Kobi Lane
-- Player name: Ja'Kobi Lane
-- Player ID: 13293
-- Position: WR
-- NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 39.5
-- Dynasty AVI (D-AVI, 0-100): 64.5
-- Availability: available
-
-## AVAILABLE PLAYER: Aaron Rodgers
-- Player name: Aaron Rodgers
-- Player ID: 96
-- Position: QB
-- NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 39.4
-- Dynasty AVI (D-AVI, 0-100): 56.6
-- Availability: available
-
 ## AVAILABLE PLAYER: Elijah Arroyo
 - Player name: Elijah Arroyo
 - Player ID: 12521
@@ -1888,15 +2049,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 64.0
 - Availability: available
 
-## AVAILABLE PLAYER: Kimani Vidal
-- Player name: Kimani Vidal
-- Player ID: 11647
-- Position: RB
-- NFL team: LAC
-- Championship AVI (C-AVI, 0-100): 39.3
-- Dynasty AVI (D-AVI, 0-100): 64.5
-- Availability: available
-
 ## AVAILABLE PLAYER: Samaje Perine
 - Player name: Samaje Perine
 - Player ID: 4147
@@ -1904,51 +2056,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CIN
 - Championship AVI (C-AVI, 0-100): 39.2
 - Dynasty AVI (D-AVI, 0-100): 51.4
-- Availability: available
-
-## AVAILABLE PLAYER: Ryan Flournoy
-- Player name: Ryan Flournoy
-- Player ID: 11783
-- Position: WR
-- NFL team: DAL
-- Championship AVI (C-AVI, 0-100): 39.1
-- Dynasty AVI (D-AVI, 0-100): 64.0
-- Availability: available
-
-## AVAILABLE PLAYER: Kaelon Black
-- Player name: Kaelon Black
-- Player ID: 13414
-- Position: RB
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 39.0
-- Dynasty AVI (D-AVI, 0-100): 60.0
-- Availability: available
-
-## AVAILABLE PLAYER: Tua Tagovailoa
-- Player name: Tua Tagovailoa
-- Player ID: 6768
-- Position: QB
-- NFL team: ATL
-- Championship AVI (C-AVI, 0-100): 38.8
-- Dynasty AVI (D-AVI, 0-100): 60.0
-- Availability: available
-
-## AVAILABLE PLAYER: Ted Hurst
-- Player name: Ted Hurst
-- Player ID: 13317
-- Position: WR
-- NFL team: TB
-- Championship AVI (C-AVI, 0-100): 38.7
-- Dynasty AVI (D-AVI, 0-100): 69.9
-- Availability: available
-
-## AVAILABLE PLAYER: James Conner
-- Player name: James Conner
-- Player ID: 4137
-- Position: RB
-- NFL team: ARI
-- Championship AVI (C-AVI, 0-100): 38.6
-- Dynasty AVI (D-AVI, 0-100): 60.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Darius Slayton
@@ -1978,15 +2085,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 59.0
 - Availability: available
 
-## AVAILABLE PLAYER: Jonah Coleman
-- Player name: Jonah Coleman
-- Player ID: 13345
-- Position: RB
-- NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 37.1
-- Dynasty AVI (D-AVI, 0-100): 73.1
-- Availability: available
-
 ## AVAILABLE PLAYER: Chris Brooks
 - Player name: Chris Brooks
 - Player ID: 11370
@@ -2012,15 +2110,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 36.8
 - Dynasty AVI (D-AVI, 0-100): 57.4
-- Availability: available
-
-## AVAILABLE PLAYER: Dontayvion Wicks
-- Player name: Dontayvion Wicks
-- Player ID: 9486
-- Position: WR
-- NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 36.8
-- Dynasty AVI (D-AVI, 0-100): 64.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Jack Bech
@@ -2068,15 +2157,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 68.6
 - Availability: available
 
-## AVAILABLE PLAYER: Emmett Johnson
-- Player name: Emmett Johnson
-- Player ID: 13337
-- Position: RB
-- NFL team: KC
-- Championship AVI (C-AVI, 0-100): 36.0
-- Dynasty AVI (D-AVI, 0-100): 68.4
-- Availability: available
-
 ## AVAILABLE PLAYER: Erick All
 - Player name: Erick All
 - Player ID: 11592
@@ -2113,24 +2193,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 39.6
 - Availability: available
 
-## AVAILABLE PLAYER: Pat Bryant
-- Player name: Pat Bryant
-- Player ID: 12492
-- Position: WR
-- NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 35.3
-- Dynasty AVI (D-AVI, 0-100): 66.7
-- Availability: available
-
-## AVAILABLE PLAYER: Ray Davis
-- Player name: Ray Davis
-- Player ID: 11575
-- Position: RB
-- NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 35.2
-- Dynasty AVI (D-AVI, 0-100): 62.3
-- Availability: available
-
 ## AVAILABLE PLAYER: Elic Ayomanor
 - Player name: Elic Ayomanor
 - Player ID: 12499
@@ -2138,15 +2200,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: TEN
 - Championship AVI (C-AVI, 0-100): 35.1
 - Dynasty AVI (D-AVI, 0-100): 64.6
-- Availability: available
-
-## AVAILABLE PLAYER: Chimere Dike
-- Player name: Chimere Dike
-- Player ID: 12540
-- Position: WR
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 35.0
-- Dynasty AVI (D-AVI, 0-100): 65.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Deshaun Watson
@@ -2257,15 +2310,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 52.5
 - Availability: available
 
-## AVAILABLE PLAYER: Jake Tonges
-- Player name: Jake Tonges
-- Player ID: 8698
-- Position: TE
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 32.6
-- Dynasty AVI (D-AVI, 0-100): 58.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Charlie Kolar
 - Player name: Charlie Kolar
 - Player ID: 8127
@@ -2284,15 +2328,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 52.7
 - Availability: available
 
-## AVAILABLE PLAYER: Sean Tucker
-- Player name: Sean Tucker
-- Player ID: 9506
-- Position: RB
-- NFL team: TB
-- Championship AVI (C-AVI, 0-100): 32.1
-- Dynasty AVI (D-AVI, 0-100): 61.3
-- Availability: available
-
 ## AVAILABLE PLAYER: George Holani
 - Player name: George Holani
 - Player ID: 12048
@@ -2300,24 +2335,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: SEA
 - Championship AVI (C-AVI, 0-100): 32.0
 - Dynasty AVI (D-AVI, 0-100): 51.9
-- Availability: available
-
-## AVAILABLE PLAYER: Elijah Sarratt
-- Player name: Elijah Sarratt
-- Player ID: 13268
-- Position: WR
-- NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 31.7
-- Dynasty AVI (D-AVI, 0-100): 67.1
-- Availability: available
-
-## AVAILABLE PLAYER: Marvin Mims
-- Player name: Marvin Mims
-- Player ID: 9494
-- Position: WR
-- NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 31.5
-- Dynasty AVI (D-AVI, 0-100): 61.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Austin Hooper
@@ -2347,15 +2364,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 58.4
 - Availability: available
 
-## AVAILABLE PLAYER: Demond Claiborne
-- Player name: Demond Claiborne
-- Player ID: 13347
-- Position: RB
-- NFL team: MIN
-- Championship AVI (C-AVI, 0-100): 29.5
-- Dynasty AVI (D-AVI, 0-100): 62.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Dyami Brown
 - Player name: Dyami Brown
 - Player ID: 7587
@@ -2381,15 +2389,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: GB
 - Championship AVI (C-AVI, 0-100): 29.3
 - Dynasty AVI (D-AVI, 0-100): 49.2
-- Availability: available
-
-## AVAILABLE PLAYER: Nicholas Singleton
-- Player name: Nicholas Singleton
-- Player ID: 13288
-- Position: RB
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 29.3
-- Dynasty AVI (D-AVI, 0-100): 69.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Treylon Burks
@@ -2426,15 +2425,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: TEN
 - Championship AVI (C-AVI, 0-100): 28.7
 - Dynasty AVI (D-AVI, 0-100): 44.3
-- Availability: available
-
-## AVAILABLE PLAYER: Kaytron Allen
-- Player name: Kaytron Allen
-- Player ID: 13405
-- Position: RB
-- NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 28.7
-- Dynasty AVI (D-AVI, 0-100): 65.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Anthony Richardson
@@ -2518,24 +2508,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 49.4
 - Availability: available
 
-## AVAILABLE PLAYER: Malachi Fields
-- Player name: Malachi Fields
-- Player ID: 13285
-- Position: WR
-- NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 26.3
-- Dynasty AVI (D-AVI, 0-100): 63.8
-- Availability: available
-
-## AVAILABLE PLAYER: Max Klare
-- Player name: Max Klare
-- Player ID: 13278
-- Position: TE
-- NFL team: LAR
-- Championship AVI (C-AVI, 0-100): 26.3
-- Dynasty AVI (D-AVI, 0-100): 63.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Mitchell Evans
 - Player name: Mitchell Evans
 - Player ID: 12473
@@ -2543,15 +2515,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CAR
 - Championship AVI (C-AVI, 0-100): 26.3
 - Dynasty AVI (D-AVI, 0-100): 53.0
-- Availability: available
-
-## AVAILABLE PLAYER: Skyler Bell
-- Player name: Skyler Bell
-- Player ID: 13402
-- Position: WR
-- NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 26.2
-- Dynasty AVI (D-AVI, 0-100): 60.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Jarquez Hunter
@@ -2779,15 +2742,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 44.1
 - Availability: available
 
-## AVAILABLE PLAYER: Kyle Williams
-- Player name: Kyle Williams
-- Player ID: 12547
-- Position: WR
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 22.8
-- Dynasty AVI (D-AVI, 0-100): 59.1
-- Availability: available
-
 ## AVAILABLE PLAYER: Isaiah Bond
 - Player name: Isaiah Bond
 - Player ID: 12503
@@ -2894,15 +2848,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ARI
 - Championship AVI (C-AVI, 0-100): 21.4
 - Dynasty AVI (D-AVI, 0-100): 59.8
-- Availability: available
-
-## AVAILABLE PLAYER: Cyrus Allen
-- Player name: Cyrus Allen
-- Player ID: 13413
-- Position: WR
-- NFL team: KC
-- Championship AVI (C-AVI, 0-100): 21.2
-- Dynasty AVI (D-AVI, 0-100): 47.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Trevor Etienne
@@ -3364,15 +3309,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 0.0
 - Availability: available
 
-## AVAILABLE PLAYER: Chris Brazzell
-- Player name: Chris Brazzell
-- Player ID: 13353
-- Position: WR
-- NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Availability: available
-
 ## AVAILABLE PLAYER: Corey Kiner
 - Player name: Corey Kiner
 - Player ID: 12491
@@ -3526,6 +3462,24 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 0.0
 - Availability: available
 
+## AVAILABLE PLAYER: Joe Mixon
+- Player name: Joe Mixon
+- Player ID: 4018
+- Position: RB
+- NFL team: FA
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Availability: available
+
+## AVAILABLE PLAYER: Jonnu Smith
+- Player name: Jonnu Smith
+- Player ID: 4144
+- Position: TE
+- NFL team: FA
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Availability: available
+
 ## AVAILABLE PLAYER: Jordan Watkins
 - Player name: Jordan Watkins
 - Player ID: 12634
@@ -3540,15 +3494,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 4098
 - Position: RB
 - NFL team: FA
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Availability: available
-
-## AVAILABLE PLAYER: Keenan Allen
-- Player name: Keenan Allen
-- Player ID: 1479
-- Position: WR
-- NFL team: LAC
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
 - Availability: available
