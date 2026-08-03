@@ -680,14 +680,14 @@
         "def_fr": 0.58,
         "def_int": 2.38,
         "def_pd": 7,
-        "def_sack": 0.67,
+        "def_sack": 0.68,
         "def_safety": 0,
         "def_tackle": 78.38,
         "def_td": 0.14,
         "def_tlost": 0,
-        "points": 175.12,
-        "points_half": 175.12,
-        "points_ppr": 175.12
+        "points": 175.14,
+        "points_half": 175.14,
+        "points_ppr": 175.14
       },
       "team_id": "NE"
     },
@@ -1736,16 +1736,16 @@
         "def_assist": 25.17,
         "def_ff": 0.2,
         "def_fr": 0.13,
-        "def_int": 2.52,
+        "def_int": 2.53,
         "def_pd": 10.56,
         "def_sack": 0.06,
         "def_safety": 0,
         "def_tackle": 68.37,
         "def_td": 0.12,
         "def_tlost": 0,
-        "points": 152.15,
-        "points_half": 152.15,
-        "points_ppr": 152.15
+        "points": 152.2,
+        "points_half": 152.2,
+        "points_ppr": 152.2
       },
       "team_id": "DET"
     },
@@ -2725,16 +2725,16 @@
         "def_assist": 18.62,
         "def_ff": 0.23,
         "def_fr": 0.15,
-        "def_int": 0.95,
+        "def_int": 0.94,
         "def_pd": 6.15,
         "def_sack": 0.07,
         "def_safety": 0,
         "def_tackle": 67.11,
         "def_td": 0.23,
         "def_tlost": 0,
-        "points": 131.79,
-        "points_half": 131.79,
-        "points_ppr": 131.79
+        "points": 131.74,
+        "points_half": 131.74,
+        "points_ppr": 131.74
       },
       "team_id": "SF"
     },
@@ -2969,6 +2969,29 @@
       "team_id": "MIN"
     },
     {
+      "filename": "rock-ya-sin.php",
+      "fpid": 18524,
+      "mflid": 14198,
+      "name": "Rock Ya-Sin",
+      "position_id": "DB",
+      "stats": {
+        "def_assist": 15.78,
+        "def_ff": 0.22,
+        "def_fr": 0.15,
+        "def_int": 1.43,
+        "def_pd": 11.49,
+        "def_sack": 0.17,
+        "def_safety": 0,
+        "def_tackle": 56.88,
+        "def_td": 0.17,
+        "def_tlost": 0,
+        "points": 124.72,
+        "points_half": 124.72,
+        "points_ppr": 124.72
+      },
+      "team_id": "DET"
+    },
+    {
       "filename": "nahshon-wright.php",
       "fpid": 23243,
       "mflid": 15401,
@@ -2990,29 +3013,6 @@
         "points_ppr": 124.68
       },
       "team_id": "NYJ"
-    },
-    {
-      "filename": "rock-ya-sin.php",
-      "fpid": 18524,
-      "mflid": 14198,
-      "name": "Rock Ya-Sin",
-      "position_id": "DB",
-      "stats": {
-        "def_assist": 15.78,
-        "def_ff": 0.22,
-        "def_fr": 0.15,
-        "def_int": 1.42,
-        "def_pd": 11.49,
-        "def_sack": 0.17,
-        "def_safety": 0,
-        "def_tackle": 56.88,
-        "def_td": 0.17,
-        "def_tlost": 0,
-        "points": 124.67,
-        "points_half": 124.67,
-        "points_ppr": 124.67
-      },
-      "team_id": "DET"
     },
     {
       "filename": "christian-benford.php",

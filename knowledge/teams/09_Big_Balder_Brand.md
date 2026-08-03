@@ -13,8 +13,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 19
-- offense: 15
+- total_players: 20
+- offense: 16
 - kickers: 1
 - idp: 3
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 738.5
 - championship_lineup_c_avi_avg: 92.31
-- offensive_roster_c_avi_sum: 1064.8
-- offensive_roster_c_avi_avg: 70.99
-- offensive_roster_d_avi_sum: 1220.8
-- offensive_roster_d_avi_avg: 81.39
+- offensive_roster_c_avi_sum: 1128.3
+- offensive_roster_c_avi_avg: 70.52
+- offensive_roster_d_avi_sum: 1296.4
+- offensive_roster_d_avi_avg: 81.03
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -246,6 +246,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Malik Washington
+- Player name: Malik Washington
+- Player ID: 11610
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: MIA
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 41.7
+- Dynasty AVI (D-AVI, 0-100): 62.7
+- Projected PPR points: 107.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Jalen Tolbert
 - Player name: Jalen Tolbert
 - Player ID: 8117
@@ -257,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 34.6
-- Dynasty AVI (D-AVI, 0-100): 55.7
+- Championship AVI (C-AVI, 0-100): 34.3
+- Dynasty AVI (D-AVI, 0-100): 55.6
 - Projected PPR points: 89.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -280,20 +297,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Jake Tonges
-- Player name: Jake Tonges
-- Player ID: 8698
+### PLAYER: Greg Dulcich
+- Player name: Greg Dulcich
+- Player ID: 8172
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: TE
 - Fantasy positions: ['TE']
-- NFL team: SF
+- NFL team: MIA
 - Active: True
 - Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 33.0
-- Dynasty AVI (D-AVI, 0-100): 58.3
-- Projected PPR points: 48.1
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 55.1
+- Dynasty AVI (D-AVI, 0-100): 71.3
+- Projected PPR points: 133.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 584.4
-- championship_lineup_c_avi_avg: 73.05
-- offensive_roster_c_avi_sum: 754.1
-- offensive_roster_c_avi_avg: 58.01
+- championship_lineup_c_avi_sum: 584.7
+- championship_lineup_c_avi_avg: 73.09
+- offensive_roster_c_avi_sum: 754.4
+- offensive_roster_c_avi_avg: 58.03
 - offensive_roster_d_avi_sum: 925.8
 - offensive_roster_d_avi_avg: 71.22
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Chase Brown | C-AVI: 96.4 | D-AVI: 94.3
 - WR: DK Metcalf | C-AVI: 70.9 | D-AVI: 84.4
 - WR: Parker Washington | C-AVI: 65.4 | D-AVI: 83.0
-- TE: Terrance Ferguson | C-AVI: 51.8 | D-AVI: 73.5
+- TE: Terrance Ferguson | C-AVI: 52.1 | D-AVI: 73.5
 - FLEX: Javonte Williams | C-AVI: 81.3 | D-AVI: 88.3
 - FLEX: Rashod Bateman | C-AVI: 43.9 | D-AVI: 61.0
 
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 51.8
+- Championship AVI (C-AVI, 0-100): 52.1
 - Dynasty AVI (D-AVI, 0-100): 73.5
 - Projected PPR points: 112.8
 - Category: offense

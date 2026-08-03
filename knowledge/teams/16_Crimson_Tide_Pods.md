@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 555.8
-- championship_lineup_c_avi_avg: 69.47
-- offensive_roster_c_avi_sum: 878.6
-- offensive_roster_c_avi_avg: 58.57
-- offensive_roster_d_avi_sum: 1158.3
-- offensive_roster_d_avi_avg: 77.22
+- championship_lineup_c_avi_sum: 556.0
+- championship_lineup_c_avi_avg: 69.50
+- offensive_roster_c_avi_sum: 880.1
+- offensive_roster_c_avi_avg: 58.67
+- offensive_roster_d_avi_sum: 1158.6
+- offensive_roster_d_avi_avg: 77.24
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Chuba Hubbard | C-AVI: 64.9 | D-AVI: 80.3
 - WR: DeVonta Smith | C-AVI: 87.7 | D-AVI: 93.1
 - WR: Alec Pierce | C-AVI: 74.9 | D-AVI: 86.1
-- TE: Oronde Gadsden | C-AVI: 55.9 | D-AVI: 79.2
+- TE: Oronde Gadsden | C-AVI: 56.1 | D-AVI: 79.2
 - FLEX: Michael Pittman | C-AVI: 68.3 | D-AVI: 82.0
 - FLEX: Jakobi Meyers | C-AVI: 65.6 | D-AVI: 78.8
 
@@ -212,6 +212,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: De'Zhaun Stribling
+- Player name: De'Zhaun Stribling
+- Player ID: 13417
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: SF
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 47.3
+- Dynasty AVI (D-AVI, 0-100): 72.0
+- Projected PPR points: 128.8
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Travis Hunter
 - Player name: Travis Hunter
 - Player ID: 12530
@@ -226,23 +243,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 47.3
 - Dynasty AVI (D-AVI, 0-100): 74.0
 - Projected PPR points: 111.7
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: De'Zhaun Stribling
-- Player name: De'Zhaun Stribling
-- Player ID: 13417
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: SF
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 46.2
-- Dynasty AVI (D-AVI, 0-100): 71.7
-- Projected PPR points: 124.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 55.9
+- Championship AVI (C-AVI, 0-100): 56.1
 - Dynasty AVI (D-AVI, 0-100): 79.2
 - Projected PPR points: 118.8
 - Category: offense
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 50.7
+- Championship AVI (C-AVI, 0-100): 50.9
 - Dynasty AVI (D-AVI, 0-100): 70.8
 - Projected PPR points: 111.4
 - Category: offense

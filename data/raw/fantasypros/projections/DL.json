@@ -772,14 +772,14 @@
         "def_fr": 0.34,
         "def_int": 0.06,
         "def_pd": 1.8,
-        "def_sack": 7.77,
+        "def_sack": 7.78,
         "def_safety": 0,
         "def_tackle": 44.57,
         "def_td": 0.1,
         "def_tlost": 0,
-        "points": 124.39,
-        "points_half": 124.39,
-        "points_ppr": 124.39
+        "points": 124.43,
+        "points_half": 124.43,
+        "points_ppr": 124.43
       },
       "team_id": "NE"
     },
@@ -1163,14 +1163,14 @@
         "def_fr": 0.28,
         "def_int": 0.08,
         "def_pd": 2.12,
-        "def_sack": 6.2,
+        "def_sack": 6.22,
         "def_safety": 0,
         "def_tackle": 45.46,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 117.25,
-        "points_half": 117.25,
-        "points_ppr": 117.25
+        "points": 117.33,
+        "points_half": 117.33,
+        "points_ppr": 117.33
       },
       "team_id": "NE"
     },
@@ -1531,14 +1531,14 @@
         "def_fr": 0.25,
         "def_int": 0.24,
         "def_pd": 3.3,
-        "def_sack": 4.58,
+        "def_sack": 4.59,
         "def_safety": 0,
         "def_tackle": 45.76,
         "def_td": 0.1,
         "def_tlost": 0,
-        "points": 110.76,
-        "points_half": 110.76,
-        "points_ppr": 110.76
+        "points": 110.8,
+        "points_half": 110.8,
+        "points_ppr": 110.8
       },
       "team_id": "DET"
     },
@@ -2129,14 +2129,14 @@
         "def_fr": 0.24,
         "def_int": 0.08,
         "def_pd": 1.01,
-        "def_sack": 5.93,
+        "def_sack": 5.96,
         "def_safety": 0,
         "def_tackle": 40.49,
         "def_td": 0.1,
         "def_tlost": 0,
-        "points": 102.27,
-        "points_half": 102.27,
-        "points_ppr": 102.27
+        "points": 102.39,
+        "points_half": 102.39,
+        "points_ppr": 102.39
       },
       "team_id": "NE"
     },
@@ -3233,14 +3233,14 @@
         "def_fr": 0.09,
         "def_int": 0.03,
         "def_pd": 0.65,
-        "def_sack": 3.55,
+        "def_sack": 3.56,
         "def_safety": 0,
         "def_tackle": 35.96,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 84.35,
-        "points_half": 84.35,
-        "points_ppr": 84.35
+        "points": 84.39,
+        "points_half": 84.39,
+        "points_ppr": 84.39
       },
       "team_id": "NE"
     },
@@ -3716,14 +3716,14 @@
         "def_fr": 0.35,
         "def_int": 0.12,
         "def_pd": 1.65,
-        "def_sack": 4.54,
+        "def_sack": 4.56,
         "def_safety": 0,
         "def_tackle": 27.59,
         "def_td": 0.06,
         "def_tlost": 0,
-        "points": 75.34,
-        "points_half": 75.34,
-        "points_ppr": 75.34
+        "points": 75.42,
+        "points_half": 75.42,
+        "points_ppr": 75.42
       },
       "team_id": "NE"
     },
@@ -4176,14 +4176,14 @@
         "def_fr": 0.09,
         "def_int": 0.01,
         "def_pd": 0.34,
-        "def_sack": 1.54,
+        "def_sack": 1.55,
         "def_safety": 0,
         "def_tackle": 30.2,
         "def_td": 0.02,
         "def_tlost": 0,
-        "points": 64.79,
-        "points_half": 64.79,
-        "points_ppr": 64.79
+        "points": 64.83,
+        "points_half": 64.83,
+        "points_ppr": 64.83
       },
       "team_id": "NE"
     },
@@ -4324,6 +4324,29 @@
         "points_ppr": 62.44
       },
       "team_id": "IND"
+    },
+    {
+      "filename": "gabe-jacas.php",
+      "fpid": 27959,
+      "mflid": 17584,
+      "name": "Gabe Jacas",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 10.31,
+        "def_ff": 0.47,
+        "def_fr": 0.31,
+        "def_int": 0.09,
+        "def_pd": 1.25,
+        "def_sack": 2.79,
+        "def_safety": 0,
+        "def_tackle": 24.36,
+        "def_td": 0.05,
+        "def_tlost": 0,
+        "points": 61.18,
+        "points_half": 61.18,
+        "points_ppr": 61.18
+      },
+      "team_id": "NE"
     },
     {
       "filename": "kingsley-enagbare.php",
@@ -4554,29 +4577,6 @@
         "points_ppr": 54.2
       },
       "team_id": "CIN"
-    },
-    {
-      "filename": "gabe-jacas.php",
-      "fpid": 27959,
-      "mflid": 17584,
-      "name": "Gabe Jacas",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 6.67,
-        "def_ff": 0.3,
-        "def_fr": 0.2,
-        "def_int": 0.06,
-        "def_pd": 0.81,
-        "def_sack": 1.77,
-        "def_safety": 0,
-        "def_tackle": 15.76,
-        "def_td": 0.03,
-        "def_tlost": 0,
-        "points": 39.42,
-        "points_half": 39.42,
-        "points_ppr": 39.42
-      },
-      "team_id": "NE"
     },
     {
       "filename": "jaishawn-barham.php",

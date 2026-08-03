@@ -39,7 +39,7 @@
         "DST"
       ],
       "rank_adp": 202,
-      "rank_adp_ppr": 190,
+      "rank_adp_ppr": 188,
       "rank_ecr": 197,
       "rank_ecr_half": 194,
       "rank_ecr_pos": 0,
@@ -87,7 +87,7 @@
         "DST"
       ],
       "rank_adp": 315,
-      "rank_adp_ppr": 262,
+      "rank_adp_ppr": 263,
       "rank_ecr": 339,
       "rank_ecr_half": 334,
       "rank_ecr_pos": 0,
@@ -111,7 +111,7 @@
         "DST"
       ],
       "rank_adp": 267,
-      "rank_adp_ppr": 221,
+      "rank_adp_ppr": 222,
       "rank_ecr": 316,
       "rank_ecr_half": 317,
       "rank_ecr_pos": 0,
@@ -159,7 +159,7 @@
         "DST"
       ],
       "rank_adp": 288,
-      "rank_adp_ppr": 214,
+      "rank_adp_ppr": 215,
       "rank_ecr": 221,
       "rank_ecr_half": 241,
       "rank_ecr_pos": 0,
@@ -303,7 +303,7 @@
         "DST"
       ],
       "rank_adp": 311,
-      "rank_adp_ppr": 270,
+      "rank_adp_ppr": 269,
       "rank_ecr": 313,
       "rank_ecr_half": 314,
       "rank_ecr_pos": 0,
@@ -351,7 +351,7 @@
         "DST"
       ],
       "rank_adp": 248,
-      "rank_adp_ppr": 208,
+      "rank_adp_ppr": 209,
       "rank_ecr": 213,
       "rank_ecr_half": 202,
       "rank_ecr_pos": 0,
@@ -447,7 +447,7 @@
         "DST"
       ],
       "rank_adp": 321,
-      "rank_adp_ppr": 307,
+      "rank_adp_ppr": 306,
       "rank_ecr": 301,
       "rank_ecr_half": 308,
       "rank_ecr_pos": 0,
@@ -543,7 +543,7 @@
         "DST"
       ],
       "rank_adp": 230,
-      "rank_adp_ppr": 179,
+      "rank_adp_ppr": 180,
       "rank_ecr": 188,
       "rank_ecr_half": 187,
       "rank_ecr_pos": 0,
@@ -591,7 +591,7 @@
         "DST"
       ],
       "rank_adp": 266,
-      "rank_adp_ppr": 213,
+      "rank_adp_ppr": 214,
       "rank_ecr": 278,
       "rank_ecr_half": 280,
       "rank_ecr_pos": 0,
@@ -663,7 +663,7 @@
         "DST"
       ],
       "rank_adp": 310,
-      "rank_adp_ppr": 283,
+      "rank_adp_ppr": 281,
       "rank_ecr": 383,
       "rank_ecr_half": 415,
       "rank_ecr_pos": 0,
@@ -687,7 +687,7 @@
         "DST"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 293,
+      "rank_adp_ppr": 292,
       "rank_ecr": 391,
       "rank_ecr_half": 458,
       "rank_ecr_pos": 0,
@@ -739,7 +739,7 @@
         "QB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 438,
+      "rank_adp_ppr": 403,
       "rank_ecr": 435,
       "rank_ecr_half": 405,
       "rank_ecr_pos": 0,
@@ -791,7 +791,7 @@
         "K"
       ],
       "rank_adp": 325,
-      "rank_adp_ppr": 267,
+      "rank_adp_ppr": 270,
       "rank_ecr": 381,
       "rank_ecr_half": 440,
       "rank_ecr_pos": 0,
@@ -817,7 +817,7 @@
         "QB"
       ],
       "rank_adp": 249,
-      "rank_adp_ppr": 325,
+      "rank_adp_ppr": 323,
       "rank_ecr": 296,
       "rank_ecr_half": 275,
       "rank_ecr_pos": 0,
@@ -922,7 +922,7 @@
       ],
       "rank_adp": 236,
       "rank_adp_ppr": 344,
-      "rank_ecr": 236,
+      "rank_ecr": 235,
       "rank_ecr_half": 203,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 215,
@@ -1103,7 +1103,7 @@
         "K"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 0,
+      "rank_adp_ppr": 536,
       "rank_ecr": 402,
       "rank_ecr_half": 559,
       "rank_ecr_pos": 0,
@@ -1181,7 +1181,7 @@
         "QB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 411,
+      "rank_adp_ppr": 365,
       "rank_ecr": 444,
       "rank_ecr_half": 428,
       "rank_ecr_pos": 0,
@@ -1259,7 +1259,7 @@
         "K"
       ],
       "rank_adp": 166,
-      "rank_adp_ppr": 144,
+      "rank_adp_ppr": 143,
       "rank_ecr": 198,
       "rank_ecr_half": 207,
       "rank_ecr_pos": 0,
@@ -1337,7 +1337,7 @@
         "QB"
       ],
       "rank_adp": 127,
-      "rank_adp_ppr": 119,
+      "rank_adp_ppr": 118,
       "rank_ecr": 106,
       "rank_ecr_half": 110,
       "rank_ecr_pos": 0,
@@ -1467,7 +1467,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 355,
+      "rank_adp_ppr": 339,
       "rank_ecr": 331,
       "rank_ecr_half": 341,
       "rank_ecr_pos": 0,
@@ -1545,7 +1545,7 @@
         "K"
       ],
       "rank_adp": 176,
-      "rank_adp_ppr": 150,
+      "rank_adp_ppr": 148,
       "rank_ecr": 191,
       "rank_ecr_half": 209,
       "rank_ecr_pos": 0,
@@ -1571,7 +1571,7 @@
         "WR"
       ],
       "rank_adp": 183,
-      "rank_adp_ppr": 185,
+      "rank_adp_ppr": 184,
       "rank_ecr": 281,
       "rank_ecr_half": 297,
       "rank_ecr_pos": 0,
@@ -1597,7 +1597,7 @@
         "K"
       ],
       "rank_adp": 241,
-      "rank_adp_ppr": 304,
+      "rank_adp_ppr": 303,
       "rank_ecr": 260,
       "rank_ecr_half": 251,
       "rank_ecr_pos": 0,
@@ -1623,7 +1623,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 414,
+      "rank_adp_ppr": 389,
       "rank_ecr": 379,
       "rank_ecr_half": 374,
       "rank_ecr_pos": 0,
@@ -1675,7 +1675,7 @@
         "QB"
       ],
       "rank_adp": 271,
-      "rank_adp_ppr": 373,
+      "rank_adp_ppr": 337,
       "rank_ecr": 293,
       "rank_ecr_half": 273,
       "rank_ecr_pos": 0,
@@ -1701,7 +1701,7 @@
         "TE"
       ],
       "rank_adp": 153,
-      "rank_adp_ppr": 215,
+      "rank_adp_ppr": 206,
       "rank_ecr": 240,
       "rank_ecr_half": 235,
       "rank_ecr_pos": 0,
@@ -1805,7 +1805,7 @@
         "RB"
       ],
       "rank_adp": 253,
-      "rank_adp_ppr": 319,
+      "rank_adp_ppr": 317,
       "rank_ecr": 321,
       "rank_ecr_half": 320,
       "rank_ecr_pos": 0,
@@ -1857,7 +1857,7 @@
         "RB"
       ],
       "rank_adp": 317,
-      "rank_adp_ppr": 362,
+      "rank_adp_ppr": 361,
       "rank_ecr": 275,
       "rank_ecr_half": 266,
       "rank_ecr_pos": 0,
@@ -1883,7 +1883,7 @@
         "RB"
       ],
       "rank_adp": 305,
-      "rank_adp_ppr": 452,
+      "rank_adp_ppr": 457,
       "rank_ecr": 325,
       "rank_ecr_half": 321,
       "rank_ecr_pos": 0,
@@ -1909,8 +1909,8 @@
         "WR"
       ],
       "rank_adp": 289,
-      "rank_adp_ppr": 243,
-      "rank_ecr": 235,
+      "rank_adp_ppr": 245,
+      "rank_ecr": 236,
       "rank_ecr_half": 233,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 221,
@@ -1961,7 +1961,7 @@
         "RB"
       ],
       "rank_adp": 156,
-      "rank_adp_ppr": 183,
+      "rank_adp_ppr": 193,
       "rank_ecr": 184,
       "rank_ecr_half": 179,
       "rank_ecr_pos": 0,
@@ -2039,7 +2039,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 348,
+      "rank_adp_ppr": 349,
       "rank_ecr": 297,
       "rank_ecr_half": 298,
       "rank_ecr_pos": 0,
@@ -2065,7 +2065,7 @@
         "TE"
       ],
       "rank_adp": 102,
-      "rank_adp_ppr": 92,
+      "rank_adp_ppr": 93,
       "rank_ecr": 95,
       "rank_ecr_half": 105,
       "rank_ecr_pos": 0,
@@ -2117,7 +2117,7 @@
         "K"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 380,
+      "rank_adp_ppr": 372,
       "rank_ecr": 373,
       "rank_ecr_half": 386,
       "rank_ecr_pos": 0,
@@ -2143,7 +2143,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 0,
+      "rank_adp_ppr": 551,
       "rank_ecr": 468,
       "rank_ecr_half": 432,
       "rank_ecr_pos": 0,
@@ -2195,7 +2195,7 @@
         "K"
       ],
       "rank_adp": 213,
-      "rank_adp_ppr": 191,
+      "rank_adp_ppr": 189,
       "rank_ecr": 244,
       "rank_ecr_half": 240,
       "rank_ecr_pos": 0,
@@ -2221,7 +2221,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 410,
+      "rank_adp_ppr": 416,
       "rank_ecr": 352,
       "rank_ecr_half": 356,
       "rank_ecr_pos": 0,
@@ -2377,7 +2377,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 444,
+      "rank_adp_ppr": 486,
       "rank_ecr": 359,
       "rank_ecr_half": 364,
       "rank_ecr_pos": 0,
@@ -2403,7 +2403,7 @@
         "WR"
       ],
       "rank_adp": 76,
-      "rank_adp_ppr": 74,
+      "rank_adp_ppr": 73,
       "rank_ecr": 81,
       "rank_ecr_half": 84,
       "rank_ecr_pos": 0,
@@ -2429,7 +2429,7 @@
         "WR"
       ],
       "rank_adp": 182,
-      "rank_adp_ppr": 180,
+      "rank_adp_ppr": 179,
       "rank_ecr": 181,
       "rank_ecr_half": 183,
       "rank_ecr_pos": 0,
@@ -2481,7 +2481,7 @@
         "WR"
       ],
       "rank_adp": 294,
-      "rank_adp_ppr": 251,
+      "rank_adp_ppr": 250,
       "rank_ecr": 271,
       "rank_ecr_half": 263,
       "rank_ecr_pos": 0,
@@ -2559,7 +2559,7 @@
         "TE"
       ],
       "rank_adp": 290,
-      "rank_adp_ppr": 338,
+      "rank_adp_ppr": 336,
       "rank_ecr": 294,
       "rank_ecr_half": 304,
       "rank_ecr_pos": 0,
@@ -2667,7 +2667,7 @@
       "rank_ecr": 377,
       "rank_ecr_half": 366,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 372,
+      "rank_ecr_ppr": 373,
       "reverse_name": "Fant, Noah",
       "short_name": "N. Fant",
       "sportsdata_player_id": "cdc98acc-9eb6-4b44-81bb-61d7b8a3b55f",
@@ -2689,7 +2689,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 561,
+      "rank_adp_ppr": 512,
       "rank_ecr": 489,
       "rank_ecr_half": 492,
       "rank_ecr_pos": 0,
@@ -2715,7 +2715,7 @@
         "K"
       ],
       "rank_adp": 224,
-      "rank_adp_ppr": 186,
+      "rank_adp_ppr": 183,
       "rank_ecr": 210,
       "rank_ecr_half": 215,
       "rank_ecr_pos": 0,
@@ -2845,7 +2845,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 313,
+      "rank_adp_ppr": 352,
       "rank_ecr": 292,
       "rank_ecr_half": 289,
       "rank_ecr_pos": 0,
@@ -3001,8 +3001,8 @@
         "RB"
       ],
       "rank_adp": 287,
-      "rank_adp_ppr": 301,
-      "rank_ecr": 287,
+      "rank_adp_ppr": 300,
+      "rank_ecr": 286,
       "rank_ecr_half": 292,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 296,
@@ -3079,7 +3079,7 @@
         "RB"
       ],
       "rank_adp": 262,
-      "rank_adp_ppr": 276,
+      "rank_adp_ppr": 277,
       "rank_ecr": 267,
       "rank_ecr_half": 270,
       "rank_ecr_pos": 0,
@@ -3131,7 +3131,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 372,
+      "rank_adp_ppr": 374,
       "rank_ecr": 467,
       "rank_ecr_half": 434,
       "rank_ecr_pos": 0,
@@ -3157,7 +3157,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 330,
+      "rank_adp_ppr": 328,
       "rank_ecr": 386,
       "rank_ecr_half": 388,
       "rank_ecr_pos": 0,
@@ -3183,7 +3183,7 @@
         "QB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 448,
+      "rank_adp_ppr": 451,
       "rank_ecr": 482,
       "rank_ecr_half": 490,
       "rank_ecr_pos": 0,
@@ -3209,7 +3209,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 0,
+      "rank_adp_ppr": 550,
       "rank_ecr": 474,
       "rank_ecr_half": 429,
       "rank_ecr_pos": 0,
@@ -3235,7 +3235,7 @@
         "QB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 469,
+      "rank_adp_ppr": 474,
       "rank_ecr": 487,
       "rank_ecr_half": 497,
       "rank_ecr_pos": 0,
@@ -3287,7 +3287,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 423,
+      "rank_adp_ppr": 467,
       "rank_ecr": 428,
       "rank_ecr_half": 418,
       "rank_ecr_pos": 0,
@@ -3391,7 +3391,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 316,
+      "rank_adp_ppr": 318,
       "rank_ecr": 349,
       "rank_ecr_half": 353,
       "rank_ecr_pos": 0,
@@ -3443,11 +3443,11 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 539,
+      "rank_adp_ppr": 548,
       "rank_ecr": 413,
       "rank_ecr_half": 437,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 423,
+      "rank_ecr_ppr": 422,
       "reverse_name": "Dulin, Ashton",
       "short_name": "A. Dulin",
       "sportsdata_player_id": "f374262b-d642-4d05-9584-5955548ee4d1",
@@ -3495,7 +3495,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 398,
+      "rank_adp_ppr": 400,
       "rank_ecr": 269,
       "rank_ecr_half": 272,
       "rank_ecr_pos": 0,
@@ -3521,7 +3521,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 559,
+      "rank_adp_ppr": 511,
       "rank_ecr": 466,
       "rank_ecr_half": 447,
       "rank_ecr_pos": 0,
@@ -3547,7 +3547,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 405,
+      "rank_adp_ppr": 411,
       "rank_ecr": 344,
       "rank_ecr_half": 342,
       "rank_ecr_pos": 0,
@@ -3573,7 +3573,7 @@
         "K"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 538,
+      "rank_adp_ppr": 497,
       "rank_ecr": 394,
       "rank_ecr_half": 557,
       "rank_ecr_pos": 0,
@@ -3599,7 +3599,7 @@
         "K"
       ],
       "rank_adp": 269,
-      "rank_adp_ppr": 244,
+      "rank_adp_ppr": 243,
       "rank_ecr": 231,
       "rank_ecr_half": 228,
       "rank_ecr_pos": 0,
@@ -3651,7 +3651,7 @@
         "QB"
       ],
       "rank_adp": 233,
-      "rank_adp_ppr": 287,
+      "rank_adp_ppr": 288,
       "rank_ecr": 268,
       "rank_ecr_half": 247,
       "rank_ecr_pos": 0,
@@ -3833,7 +3833,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 306,
+      "rank_adp_ppr": 307,
       "rank_ecr": 340,
       "rank_ecr_half": 346,
       "rank_ecr_pos": 0,
@@ -3860,7 +3860,7 @@
       ],
       "rank_adp": 32,
       "rank_adp_ppr": 35,
-      "rank_ecr": 48,
+      "rank_ecr": 49,
       "rank_ecr_half": 46,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 50,
@@ -3963,7 +3963,7 @@
         "WR"
       ],
       "rank_adp": 228,
-      "rank_adp_ppr": 212,
+      "rank_adp_ppr": 213,
       "rank_ecr": 250,
       "rank_ecr_half": 271,
       "rank_ecr_pos": 0,
@@ -4042,7 +4042,7 @@
       ],
       "rank_adp": 108,
       "rank_adp_ppr": 97,
-      "rank_ecr": 107,
+      "rank_ecr": 108,
       "rank_ecr_half": 91,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 82,
@@ -4119,7 +4119,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 419,
+      "rank_adp_ppr": 395,
       "rank_ecr": 471,
       "rank_ecr_half": 416,
       "rank_ecr_pos": 0,
@@ -4145,7 +4145,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 567,
+      "rank_adp_ppr": 582,
       "rank_ecr": 448,
       "rank_ecr_half": 435,
       "rank_ecr_pos": 0,
@@ -4171,7 +4171,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 0,
+      "rank_adp_ppr": 576,
       "rank_ecr": 499,
       "rank_ecr_half": 552,
       "rank_ecr_pos": 0,
@@ -4197,7 +4197,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 454,
+      "rank_adp_ppr": 388,
       "rank_ecr": 342,
       "rank_ecr_half": 337,
       "rank_ecr_pos": 0,
@@ -4275,7 +4275,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 0,
+      "rank_adp_ppr": 537,
       "rank_ecr": 410,
       "rank_ecr_half": 399,
       "rank_ecr_pos": 0,
@@ -4509,7 +4509,7 @@
         "WR"
       ],
       "rank_adp": 283,
-      "rank_adp_ppr": 289,
+      "rank_adp_ppr": 290,
       "rank_ecr": 202,
       "rank_ecr_half": 208,
       "rank_ecr_pos": 0,
@@ -4587,7 +4587,7 @@
         "WR"
       ],
       "rank_adp": 240,
-      "rank_adp_ppr": 210,
+      "rank_adp_ppr": 211,
       "rank_ecr": 204,
       "rank_ecr_half": 196,
       "rank_ecr_pos": 0,
@@ -4613,7 +4613,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 428,
+      "rank_adp_ppr": 473,
       "rank_ecr": 506,
       "rank_ecr_half": 478,
       "rank_ecr_pos": 0,
@@ -4717,7 +4717,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 381,
+      "rank_adp_ppr": 422,
       "rank_ecr": 375,
       "rank_ecr_half": 389,
       "rank_ecr_pos": 0,
@@ -4769,7 +4769,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 0,
+      "rank_adp_ppr": 580,
       "rank_ecr": 420,
       "rank_ecr_half": 436,
       "rank_ecr_pos": 0,
@@ -4795,7 +4795,7 @@
         "QB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 324,
+      "rank_adp_ppr": 320,
       "rank_ecr": 350,
       "rank_ecr_half": 338,
       "rank_ecr_pos": 0,
@@ -4821,7 +4821,7 @@
         "TE"
       ],
       "rank_adp": 255,
-      "rank_adp_ppr": 222,
+      "rank_adp_ppr": 221,
       "rank_ecr": 228,
       "rank_ecr_half": 206,
       "rank_ecr_pos": 0,
@@ -4873,7 +4873,7 @@
         "TE"
       ],
       "rank_adp": 106,
-      "rank_adp_ppr": 110,
+      "rank_adp_ppr": 111,
       "rank_ecr": 126,
       "rank_ecr_half": 117,
       "rank_ecr_pos": 0,
@@ -4899,7 +4899,7 @@
         "RB"
       ],
       "rank_adp": 65,
-      "rank_adp_ppr": 84,
+      "rank_adp_ppr": 83,
       "rank_ecr": 79,
       "rank_ecr_half": 77,
       "rank_ecr_pos": 0,
@@ -4977,7 +4977,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 541,
+      "rank_adp_ppr": 0,
       "rank_ecr": 434,
       "rank_ecr_half": 425,
       "rank_ecr_pos": 0,
@@ -5029,7 +5029,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 370,
+      "rank_adp_ppr": 368,
       "rank_ecr": 406,
       "rank_ecr_half": 377,
       "rank_ecr_pos": 0,
@@ -5107,7 +5107,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 322,
+      "rank_adp_ppr": 321,
       "rank_ecr": 347,
       "rank_ecr_half": 350,
       "rank_ecr_pos": 0,
@@ -5133,11 +5133,11 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 299,
+      "rank_adp_ppr": 297,
       "rank_ecr": 372,
       "rank_ecr_half": 361,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 369,
+      "rank_ecr_ppr": 370,
       "reverse_name": "Metchie, John",
       "short_name": "J. Metchie III",
       "sportsdata_player_id": "2995df34-ee81-4320-be1e-1c497b83c927",
@@ -5159,7 +5159,7 @@
         "QB"
       ],
       "rank_adp": 194,
-      "rank_adp_ppr": 207,
+      "rank_adp_ppr": 208,
       "rank_ecr": 165,
       "rank_ecr_half": 157,
       "rank_ecr_pos": 0,
@@ -5186,7 +5186,7 @@
       ],
       "rank_adp": 64,
       "rank_adp_ppr": 60,
-      "rank_ecr": 49,
+      "rank_ecr": 50,
       "rank_ecr_half": 54,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 51,
@@ -5263,7 +5263,7 @@
         "QB"
       ],
       "rank_adp": 118,
-      "rank_adp_ppr": 111,
+      "rank_adp_ppr": 110,
       "rank_ecr": 99,
       "rank_ecr_half": 99,
       "rank_ecr_pos": 0,
@@ -5289,7 +5289,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 413,
+      "rank_adp_ppr": 420,
       "rank_ecr": 255,
       "rank_ecr_half": 260,
       "rank_ecr_pos": 0,
@@ -5315,7 +5315,7 @@
         "RB"
       ],
       "rank_adp": 247,
-      "rank_adp_ppr": 269,
+      "rank_adp_ppr": 268,
       "rank_ecr": 247,
       "rank_ecr_half": 245,
       "rank_ecr_pos": 0,
@@ -5367,7 +5367,7 @@
         "RB"
       ],
       "rank_adp": 333,
-      "rank_adp_ppr": 412,
+      "rank_adp_ppr": 419,
       "rank_ecr": 299,
       "rank_ecr_half": 295,
       "rank_ecr_pos": 0,
@@ -5393,7 +5393,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 591,
+      "rank_adp_ppr": 525,
       "rank_ecr": 382,
       "rank_ecr_half": 380,
       "rank_ecr_pos": 0,
@@ -5497,7 +5497,7 @@
         "QB"
       ],
       "rank_adp": 246,
-      "rank_adp_ppr": 340,
+      "rank_adp_ppr": 353,
       "rank_ecr": 351,
       "rank_ecr_half": 347,
       "rank_ecr_pos": 0,
@@ -5654,7 +5654,7 @@
         "RB"
       ],
       "rank_adp": 104,
-      "rank_adp_ppr": 118,
+      "rank_adp_ppr": 119,
       "rank_ecr": 105,
       "rank_ecr_half": 116,
       "rank_ecr_pos": 0,
@@ -5680,11 +5680,11 @@
         "QB"
       ],
       "rank_adp": 239,
-      "rank_adp_ppr": 291,
+      "rank_adp_ppr": 293,
       "rank_ecr": 288,
       "rank_ecr_half": 265,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 282,
+      "rank_ecr_ppr": 281,
       "reverse_name": "Penix, Michael",
       "short_name": "M. Penix Jr.",
       "sportsdata_player_id": "6499a161-b221-4591-b122-d99ece1be64b",
@@ -5862,7 +5862,7 @@
         "WR"
       ],
       "rank_adp": 177,
-      "rank_adp_ppr": 192,
+      "rank_adp_ppr": 190,
       "rank_ecr": 174,
       "rank_ecr_half": 180,
       "rank_ecr_pos": 0,
@@ -5914,7 +5914,7 @@
         "WR"
       ],
       "rank_adp": 75,
-      "rank_adp_ppr": 73,
+      "rank_adp_ppr": 74,
       "rank_ecr": 73,
       "rank_ecr_half": 74,
       "rank_ecr_pos": 0,
@@ -5940,7 +5940,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 326,
+      "rank_adp_ppr": 330,
       "rank_ecr": 334,
       "rank_ecr_half": 339,
       "rank_ecr_pos": 0,
@@ -6174,7 +6174,7 @@
         "RB"
       ],
       "rank_adp": 279,
-      "rank_adp_ppr": 367,
+      "rank_adp_ppr": 370,
       "rank_ecr": 320,
       "rank_ecr_half": 315,
       "rank_ecr_pos": 0,
@@ -6200,7 +6200,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 424,
+      "rank_adp_ppr": 429,
       "rank_ecr": 341,
       "rank_ecr_half": 349,
       "rank_ecr_pos": 0,
@@ -6252,7 +6252,7 @@
         "WR"
       ],
       "rank_adp": 46,
-      "rank_adp_ppr": 38,
+      "rank_adp_ppr": 39,
       "rank_ecr": 36,
       "rank_ecr_half": 36,
       "rank_ecr_pos": 0,
@@ -6382,7 +6382,7 @@
         "WR"
       ],
       "rank_adp": 41,
-      "rank_adp_ppr": 39,
+      "rank_adp_ppr": 38,
       "rank_ecr": 52,
       "rank_ecr_half": 38,
       "rank_ecr_pos": 0,
@@ -6435,7 +6435,7 @@
         "WR"
       ],
       "rank_adp": 285,
-      "rank_adp_ppr": 288,
+      "rank_adp_ppr": 287,
       "rank_ecr": 280,
       "rank_ecr_half": 284,
       "rank_ecr_pos": 0,
@@ -6565,7 +6565,7 @@
         "WR"
       ],
       "rank_adp": 306,
-      "rank_adp_ppr": 280,
+      "rank_adp_ppr": 282,
       "rank_ecr": 337,
       "rank_ecr_half": 333,
       "rank_ecr_pos": 0,
@@ -6591,7 +6591,7 @@
         "TE"
       ],
       "rank_adp": 226,
-      "rank_adp_ppr": 335,
+      "rank_adp_ppr": 331,
       "rank_ecr": 266,
       "rank_ecr_half": 290,
       "rank_ecr_pos": 0,
@@ -6695,7 +6695,7 @@
         "RB"
       ],
       "rank_adp": 251,
-      "rank_adp_ppr": 265,
+      "rank_adp_ppr": 266,
       "rank_ecr": 214,
       "rank_ecr_half": 200,
       "rank_ecr_pos": 0,
@@ -6721,7 +6721,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 536,
+      "rank_adp_ppr": 455,
       "rank_ecr": 483,
       "rank_ecr_half": 417,
       "rank_ecr_pos": 0,
@@ -6747,7 +6747,7 @@
         "WR"
       ],
       "rank_adp": 113,
-      "rank_adp_ppr": 107,
+      "rank_adp_ppr": 106,
       "rank_ecr": 88,
       "rank_ecr_half": 93,
       "rank_ecr_pos": 0,
@@ -6799,7 +6799,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 342,
+      "rank_adp_ppr": 343,
       "rank_ecr": 398,
       "rank_ecr_half": 384,
       "rank_ecr_pos": 0,
@@ -6851,7 +6851,7 @@
         "TE"
       ],
       "rank_adp": 196,
-      "rank_adp_ppr": 241,
+      "rank_adp_ppr": 239,
       "rank_ecr": 259,
       "rank_ecr_half": 264,
       "rank_ecr_pos": 0,
@@ -6930,7 +6930,7 @@
         "QB"
       ],
       "rank_adp": 92,
-      "rank_adp_ppr": 83,
+      "rank_adp_ppr": 84,
       "rank_ecr": 90,
       "rank_ecr_half": 89,
       "rank_ecr_pos": 0,
@@ -6982,7 +6982,7 @@
         "TE"
       ],
       "rank_adp": 309,
-      "rank_adp_ppr": 334,
+      "rank_adp_ppr": 332,
       "rank_ecr": 496,
       "rank_ecr_half": 500,
       "rank_ecr_pos": 0,
@@ -7139,7 +7139,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 356,
+      "rank_adp_ppr": 346,
       "rank_ecr": 501,
       "rank_ecr_half": 465,
       "rank_ecr_pos": 0,
@@ -7165,7 +7165,7 @@
         "QB"
       ],
       "rank_adp": 151,
-      "rank_adp_ppr": 152,
+      "rank_adp_ppr": 154,
       "rank_ecr": 131,
       "rank_ecr_half": 133,
       "rank_ecr_pos": 0,
@@ -7243,7 +7243,7 @@
         "QB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 360,
+      "rank_adp_ppr": 367,
       "rank_ecr": 503,
       "rank_ecr_half": 498,
       "rank_ecr_pos": 0,
@@ -7269,7 +7269,7 @@
         "RB"
       ],
       "rank_adp": 257,
-      "rank_adp_ppr": 300,
+      "rank_adp_ppr": 299,
       "rank_ecr": 254,
       "rank_ecr_half": 279,
       "rank_ecr_pos": 0,
@@ -7295,7 +7295,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 386,
+      "rank_adp_ppr": 427,
       "rank_ecr": 333,
       "rank_ecr_half": 329,
       "rank_ecr_pos": 0,
@@ -7347,7 +7347,7 @@
         "WR"
       ],
       "rank_adp": 264,
-      "rank_adp_ppr": 292,
+      "rank_adp_ppr": 294,
       "rank_ecr": 335,
       "rank_ecr_half": 340,
       "rank_ecr_pos": 0,
@@ -7451,7 +7451,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 457,
+      "rank_adp_ppr": 461,
       "rank_ecr": 371,
       "rank_ecr_half": 362,
       "rank_ecr_pos": 0,
@@ -7478,7 +7478,7 @@
       ],
       "rank_adp": 67,
       "rank_adp_ppr": 68,
-      "rank_ecr": 50,
+      "rank_ecr": 48,
       "rank_ecr_half": 58,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 56,
@@ -7504,7 +7504,7 @@
       ],
       "rank_adp": 115,
       "rank_adp_ppr": 103,
-      "rank_ecr": 108,
+      "rank_ecr": 107,
       "rank_ecr_half": 108,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 107,
@@ -7607,7 +7607,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 475,
+      "rank_adp_ppr": 521,
       "rank_ecr": 460,
       "rank_ecr_half": 441,
       "rank_ecr_pos": 0,
@@ -7633,7 +7633,7 @@
         "K"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 327,
+      "rank_adp_ppr": 324,
       "rank_ecr": 419,
       "rank_ecr_half": 443,
       "rank_ecr_pos": 0,
@@ -7659,7 +7659,7 @@
         "RB"
       ],
       "rank_adp": 112,
-      "rank_adp_ppr": 154,
+      "rank_adp_ppr": 151,
       "rank_ecr": 127,
       "rank_ecr_half": 132,
       "rank_ecr_pos": 0,
@@ -7711,7 +7711,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 384,
+      "rank_adp_ppr": 386,
       "rank_ecr": 258,
       "rank_ecr_half": 267,
       "rank_ecr_pos": 0,
@@ -7763,7 +7763,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 491,
+      "rank_adp_ppr": 499,
       "rank_ecr": 461,
       "rank_ecr_half": 407,
       "rank_ecr_pos": 0,
@@ -7815,7 +7815,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 450,
+      "rank_adp_ppr": 452,
       "rank_ecr": 336,
       "rank_ecr_half": 343,
       "rank_ecr_pos": 0,
@@ -7841,7 +7841,7 @@
         "RB"
       ],
       "rank_adp": 282,
-      "rank_adp_ppr": 353,
+      "rank_adp_ppr": 351,
       "rank_ecr": 315,
       "rank_ecr_half": 306,
       "rank_ecr_pos": 0,
@@ -7867,7 +7867,7 @@
         "RB"
       ],
       "rank_adp": 188,
-      "rank_adp_ppr": 211,
+      "rank_adp_ppr": 212,
       "rank_ecr": 200,
       "rank_ecr_half": 219,
       "rank_ecr_pos": 0,
@@ -7920,7 +7920,7 @@
         "RB"
       ],
       "rank_adp": 167,
-      "rank_adp_ppr": 182,
+      "rank_adp_ppr": 194,
       "rank_ecr": 159,
       "rank_ecr_half": 174,
       "rank_ecr_pos": 0,
@@ -7946,7 +7946,7 @@
         "QB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 489,
+      "rank_adp_ppr": 496,
       "rank_ecr": 369,
       "rank_ecr_half": 351,
       "rank_ecr_pos": 0,
@@ -7972,7 +7972,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 402,
+      "rank_adp_ppr": 441,
       "rank_ecr": 362,
       "rank_ecr_half": 360,
       "rank_ecr_pos": 0,
@@ -8024,7 +8024,7 @@
         "WR"
       ],
       "rank_adp": 201,
-      "rank_adp_ppr": 184,
+      "rank_adp_ppr": 182,
       "rank_ecr": 158,
       "rank_ecr_half": 155,
       "rank_ecr_pos": 0,
@@ -8050,7 +8050,7 @@
         "RB"
       ],
       "rank_adp": 273,
-      "rank_adp_ppr": 343,
+      "rank_adp_ppr": 341,
       "rank_ecr": 282,
       "rank_ecr_half": 288,
       "rank_ecr_pos": 0,
@@ -8076,7 +8076,7 @@
         "QB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 357,
+      "rank_adp_ppr": 366,
       "rank_ecr": 422,
       "rank_ecr_half": 457,
       "rank_ecr_pos": 0,
@@ -8103,7 +8103,7 @@
         "RB"
       ],
       "rank_adp": 193,
-      "rank_adp_ppr": 242,
+      "rank_adp_ppr": 241,
       "rank_ecr": 209,
       "rank_ecr_half": 229,
       "rank_ecr_pos": 0,
@@ -8157,7 +8157,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 461,
+      "rank_adp_ppr": 426,
       "rank_ecr": 433,
       "rank_ecr_half": 445,
       "rank_ecr_pos": 0,
@@ -8183,7 +8183,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 409,
+      "rank_adp_ppr": 415,
       "rank_ecr": 306,
       "rank_ecr_half": 307,
       "rank_ecr_pos": 0,
@@ -8209,7 +8209,7 @@
         "WR"
       ],
       "rank_adp": 163,
-      "rank_adp_ppr": 143,
+      "rank_adp_ppr": 144,
       "rank_ecr": 135,
       "rank_ecr_half": 139,
       "rank_ecr_pos": 0,
@@ -8235,7 +8235,7 @@
         "WR"
       ],
       "rank_adp": 131,
-      "rank_adp_ppr": 116,
+      "rank_adp_ppr": 115,
       "rank_ecr": 119,
       "rank_ecr_half": 100,
       "rank_ecr_pos": 0,
@@ -8416,7 +8416,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 352,
+      "rank_adp_ppr": 347,
       "rank_ecr": 495,
       "rank_ecr_half": 439,
       "rank_ecr_pos": 0,
@@ -8442,7 +8442,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 346,
+      "rank_adp_ppr": 345,
       "rank_ecr": 384,
       "rank_ecr_half": 372,
       "rank_ecr_pos": 0,
@@ -8468,7 +8468,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 395,
+      "rank_adp_ppr": 379,
       "rank_ecr": 327,
       "rank_ecr_half": 324,
       "rank_ecr_pos": 0,
@@ -8494,7 +8494,7 @@
         "TE"
       ],
       "rank_adp": 77,
-      "rank_adp_ppr": 76,
+      "rank_adp_ppr": 75,
       "rank_ecr": 61,
       "rank_ecr_half": 66,
       "rank_ecr_pos": 0,
@@ -8520,7 +8520,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 341,
+      "rank_adp_ppr": 355,
       "rank_ecr": 346,
       "rank_ecr_half": 345,
       "rank_ecr_pos": 0,
@@ -8546,7 +8546,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 434,
+      "rank_adp_ppr": 438,
       "rank_ecr": 429,
       "rank_ecr_half": 395,
       "rank_ecr_pos": 0,
@@ -8572,7 +8572,7 @@
         "RB"
       ],
       "rank_adp": 132,
-      "rank_adp_ppr": 151,
+      "rank_adp_ppr": 152,
       "rank_ecr": 148,
       "rank_ecr_half": 136,
       "rank_ecr_pos": 0,
@@ -8598,7 +8598,7 @@
         "RB"
       ],
       "rank_adp": 17,
-      "rank_adp_ppr": 15,
+      "rank_adp_ppr": 16,
       "rank_ecr": 25,
       "rank_ecr_half": 17,
       "rank_ecr_pos": 0,
@@ -8624,7 +8624,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 421,
+      "rank_adp_ppr": 425,
       "rank_ecr": 504,
       "rank_ecr_half": 566,
       "rank_ecr_pos": 0,
@@ -8650,8 +8650,8 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 403,
-      "rank_ecr": 364,
+      "rank_adp_ppr": 407,
+      "rank_ecr": 365,
       "rank_ecr_half": 358,
       "rank_ecr_pos": 0,
       "rank_ecr_ppr": 368,
@@ -8728,7 +8728,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 379,
+      "rank_adp_ppr": 380,
       "rank_ecr": 317,
       "rank_ecr_half": 322,
       "rank_ecr_pos": 0,
@@ -8780,7 +8780,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 399,
+      "rank_adp_ppr": 382,
       "rank_ecr": 464,
       "rank_ecr_half": 444,
       "rank_ecr_pos": 0,
@@ -8832,7 +8832,7 @@
         "K"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 345,
+      "rank_adp_ppr": 342,
       "rank_ecr": 392,
       "rank_ecr_half": 0,
       "rank_ecr_pos": 0,
@@ -8884,7 +8884,7 @@
         "WR"
       ],
       "rank_adp": 211,
-      "rank_adp_ppr": 189,
+      "rank_adp_ppr": 186,
       "rank_ecr": 224,
       "rank_ecr_half": 227,
       "rank_ecr_pos": 0,
@@ -8910,11 +8910,11 @@
         "QB"
       ],
       "rank_adp": 324,
-      "rank_adp_ppr": 297,
+      "rank_adp_ppr": 291,
       "rank_ecr": 380,
       "rank_ecr_half": 367,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 371,
+      "rank_ecr_ppr": 372,
       "reverse_name": "Simpson, Ty",
       "rookie": "Y",
       "short_name": "Ty Simpson",
@@ -8937,7 +8937,7 @@
         "QB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 451,
+      "rank_adp_ppr": 456,
       "rank_ecr": 498,
       "rank_ecr_half": 494,
       "rank_ecr_pos": 0,
@@ -8990,7 +8990,7 @@
         "RB"
       ],
       "rank_adp": 205,
-      "rank_adp_ppr": 275,
+      "rank_adp_ppr": 273,
       "rank_ecr": 273,
       "rank_ecr_half": 269,
       "rank_ecr_pos": 0,
@@ -9095,7 +9095,7 @@
         "RB"
       ],
       "rank_adp": 11,
-      "rank_adp_ppr": 16,
+      "rank_adp_ppr": 15,
       "rank_ecr": 20,
       "rank_ecr_half": 19,
       "rank_ecr_pos": 0,
@@ -9226,7 +9226,7 @@
         "WR"
       ],
       "rank_adp": 187,
-      "rank_adp_ppr": 200,
+      "rank_adp_ppr": 199,
       "rank_ecr": 215,
       "rank_ecr_half": 237,
       "rank_ecr_pos": 0,
@@ -9280,7 +9280,7 @@
         "WR"
       ],
       "rank_adp": 95,
-      "rank_adp_ppr": 93,
+      "rank_adp_ppr": 92,
       "rank_ecr": 100,
       "rank_ecr_half": 98,
       "rank_ecr_pos": 0,
@@ -9307,7 +9307,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 449,
+      "rank_adp_ppr": 454,
       "rank_ecr": 289,
       "rank_ecr_half": 234,
       "rank_ecr_pos": 0,
@@ -9360,7 +9360,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 425,
+      "rank_adp_ppr": 428,
       "rank_ecr": 473,
       "rank_ecr_half": 471,
       "rank_ecr_pos": 0,
@@ -9386,7 +9386,7 @@
         "RB"
       ],
       "rank_adp": 335,
-      "rank_adp_ppr": 333,
+      "rank_adp_ppr": 334,
       "rank_ecr": 285,
       "rank_ecr_half": 294,
       "rank_ecr_pos": 0,
@@ -9412,7 +9412,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 535,
+      "rank_adp_ppr": 495,
       "rank_ecr": 445,
       "rank_ecr_half": 442,
       "rank_ecr_pos": 0,
@@ -9438,7 +9438,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 520,
+      "rank_adp_ppr": 529,
       "rank_ecr": 439,
       "rank_ecr_half": 431,
       "rank_ecr_pos": 0,
@@ -9464,7 +9464,7 @@
         "RB"
       ],
       "rank_adp": 329,
-      "rank_adp_ppr": 366,
+      "rank_adp_ppr": 369,
       "rank_ecr": 264,
       "rank_ecr_half": 259,
       "rank_ecr_pos": 0,
@@ -9490,7 +9490,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 420,
+      "rank_adp_ppr": 424,
       "rank_ecr": 318,
       "rank_ecr_half": 311,
       "rank_ecr_pos": 0,
@@ -9516,7 +9516,7 @@
         "RB"
       ],
       "rank_adp": 212,
-      "rank_adp_ppr": 199,
+      "rank_adp_ppr": 200,
       "rank_ecr": 171,
       "rank_ecr_half": 195,
       "rank_ecr_pos": 0,
@@ -9542,7 +9542,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 493,
+      "rank_adp_ppr": 501,
       "rank_ecr": 442,
       "rank_ecr_half": 426,
       "rank_ecr_pos": 0,
@@ -9568,7 +9568,7 @@
         "QB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 361,
+      "rank_adp_ppr": 356,
       "rank_ecr": 417,
       "rank_ecr_half": 394,
       "rank_ecr_pos": 0,
@@ -9594,7 +9594,7 @@
         "QB"
       ],
       "rank_adp": 244,
-      "rank_adp_ppr": 248,
+      "rank_adp_ppr": 247,
       "rank_ecr": 300,
       "rank_ecr_half": 287,
       "rank_ecr_pos": 0,
@@ -9620,7 +9620,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 594,
+      "rank_adp_ppr": 0,
       "rank_ecr": 472,
       "rank_ecr_half": 475,
       "rank_ecr_pos": 0,
@@ -9646,7 +9646,7 @@
         "RB"
       ],
       "rank_adp": 334,
-      "rank_adp_ppr": 388,
+      "rank_adp_ppr": 390,
       "rank_ecr": 261,
       "rank_ecr_half": 254,
       "rank_ecr_pos": 0,
@@ -9672,7 +9672,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 401,
+      "rank_adp_ppr": 410,
       "rank_ecr": 453,
       "rank_ecr_half": 448,
       "rank_ecr_pos": 0,
@@ -9724,7 +9724,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 0,
+      "rank_adp_ppr": 546,
       "rank_ecr": 418,
       "rank_ecr_half": 404,
       "rank_ecr_pos": 0,
@@ -9750,7 +9750,7 @@
         "RB"
       ],
       "rank_adp": 332,
-      "rank_adp_ppr": 369,
+      "rank_adp_ppr": 373,
       "rank_ecr": 229,
       "rank_ecr_half": 242,
       "rank_ecr_pos": 0,
@@ -9776,7 +9776,7 @@
         "RB"
       ],
       "rank_adp": 215,
-      "rank_adp_ppr": 250,
+      "rank_adp_ppr": 251,
       "rank_ecr": 219,
       "rank_ecr_half": 232,
       "rank_ecr_pos": 0,
@@ -9959,7 +9959,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 494,
+      "rank_adp_ppr": 502,
       "rank_ecr": 436,
       "rank_ecr_half": 452,
       "rank_ecr_pos": 0,
@@ -9986,7 +9986,7 @@
         "WR"
       ],
       "rank_adp": 296,
-      "rank_adp_ppr": 296,
+      "rank_adp_ppr": 298,
       "rank_ecr": 242,
       "rank_ecr_half": 246,
       "rank_ecr_pos": 0,
@@ -10012,7 +10012,7 @@
         "WR"
       ],
       "rank_adp": 295,
-      "rank_adp_ppr": 294,
+      "rank_adp_ppr": 295,
       "rank_ecr": 252,
       "rank_ecr_half": 257,
       "rank_ecr_pos": 0,
@@ -10065,7 +10065,7 @@
         "WR,CB"
       ],
       "rank_adp": 198,
-      "rank_adp_ppr": 206,
+      "rank_adp_ppr": 207,
       "rank_ecr": 170,
       "rank_ecr_half": 173,
       "rank_ecr_pos": 0,
@@ -10118,7 +10118,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 392,
+      "rank_adp_ppr": 402,
       "rank_ecr": 456,
       "rank_ecr_half": 422,
       "rank_ecr_pos": 0,
@@ -10199,7 +10199,7 @@
         "TE"
       ],
       "rank_adp": 140,
-      "rank_adp_ppr": 148,
+      "rank_adp_ppr": 150,
       "rank_ecr": 190,
       "rank_ecr_half": 181,
       "rank_ecr_pos": 0,
@@ -10252,7 +10252,7 @@
         "K"
       ],
       "rank_adp": 206,
-      "rank_adp_ppr": 187,
+      "rank_adp_ppr": 185,
       "rank_ecr": 225,
       "rank_ecr_half": 223,
       "rank_ecr_pos": 0,
@@ -10304,7 +10304,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 390,
+      "rank_adp_ppr": 392,
       "rank_ecr": 284,
       "rank_ecr_half": 281,
       "rank_ecr_pos": 0,
@@ -10330,7 +10330,7 @@
         "RB"
       ],
       "rank_adp": 128,
-      "rank_adp_ppr": 106,
+      "rank_adp_ppr": 107,
       "rank_ecr": 115,
       "rank_ecr_half": 113,
       "rank_ecr_pos": 0,
@@ -10460,7 +10460,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 477,
+      "rank_adp_ppr": 482,
       "rank_ecr": 415,
       "rank_ecr_half": 414,
       "rank_ecr_pos": 0,
@@ -10486,7 +10486,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 492,
+      "rank_adp_ppr": 500,
       "rank_ecr": 400,
       "rank_ecr_half": 378,
       "rank_ecr_pos": 0,
@@ -10512,7 +10512,7 @@
         "WR"
       ],
       "rank_adp": 242,
-      "rank_adp_ppr": 247,
+      "rank_adp_ppr": 246,
       "rank_ecr": 222,
       "rank_ecr_half": 197,
       "rank_ecr_pos": 0,
@@ -10538,7 +10538,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 540,
+      "rank_adp_ppr": 549,
       "rank_ecr": 323,
       "rank_ecr_half": 327,
       "rank_ecr_pos": 0,
@@ -10594,7 +10594,7 @@
       "rank_ecr": 175,
       "rank_ecr_half": 165,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 190,
+      "rank_ecr_ppr": 191,
       "reverse_name": "Barner, AJ",
       "short_name": "AJ Barner",
       "sportsdata_player_id": "e96127b4-d381-43d4-b0ae-8790c706756f",
@@ -10616,7 +10616,7 @@
         "K"
       ],
       "rank_adp": 227,
-      "rank_adp_ppr": 193,
+      "rank_adp_ppr": 191,
       "rank_ecr": 283,
       "rank_ecr_half": 276,
       "rank_ecr_pos": 0,
@@ -10668,7 +10668,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 416,
+      "rank_adp_ppr": 421,
       "rank_ecr": 309,
       "rank_ecr_half": 305,
       "rank_ecr_pos": 0,
@@ -10746,11 +10746,11 @@
         "WR"
       ],
       "rank_adp": 301,
-      "rank_adp_ppr": 318,
-      "rank_ecr": 286,
+      "rank_adp_ppr": 316,
+      "rank_ecr": 287,
       "rank_ecr_half": 277,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 281,
+      "rank_ecr_ppr": 282,
       "reverse_name": "Vele, Devaughn",
       "short_name": "D. Vele",
       "sportsdata_player_id": "2a638f35-a80a-46db-9722-12b49d45ab52",
@@ -10772,7 +10772,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 557,
+      "rank_adp_ppr": 510,
       "rank_ecr": 469,
       "rank_ecr_half": 493,
       "rank_ecr_pos": 0,
@@ -10824,7 +10824,7 @@
         "K"
       ],
       "rank_adp": 323,
-      "rank_adp_ppr": 320,
+      "rank_adp_ppr": 394,
       "rank_ecr": 308,
       "rank_ecr_half": 310,
       "rank_ecr_pos": 0,
@@ -10902,7 +10902,7 @@
         "K"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 266,
+      "rank_adp_ppr": 267,
       "rank_ecr": 426,
       "rank_ecr_half": 449,
       "rank_ecr_pos": 0,
@@ -10928,7 +10928,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 587,
+      "rank_adp_ppr": 0,
       "rank_ecr": 408,
       "rank_ecr_half": 402,
       "rank_ecr_pos": 0,
@@ -11058,7 +11058,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 422,
+      "rank_adp_ppr": 397,
       "rank_ecr": 330,
       "rank_ecr_half": 328,
       "rank_ecr_pos": 0,
@@ -11137,7 +11137,7 @@
         "RB"
       ],
       "rank_adp": 330,
-      "rank_adp_ppr": 282,
+      "rank_adp_ppr": 283,
       "rank_ecr": 265,
       "rank_ecr_half": 256,
       "rank_ecr_pos": 0,
@@ -11163,7 +11163,7 @@
         "RB"
       ],
       "rank_adp": 152,
-      "rank_adp_ppr": 188,
+      "rank_adp_ppr": 187,
       "rank_ecr": 150,
       "rank_ecr_half": 140,
       "rank_ecr_pos": 0,
@@ -11189,7 +11189,7 @@
         "TE"
       ],
       "rank_adp": 179,
-      "rank_adp_ppr": 234,
+      "rank_adp_ppr": 235,
       "rank_ecr": 227,
       "rank_ecr_half": 204,
       "rank_ecr_pos": 0,
@@ -11219,7 +11219,7 @@
       "rank_ecr": 207,
       "rank_ecr_half": 212,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 191,
+      "rank_ecr_ppr": 190,
       "reverse_name": "Noel, Jaylin",
       "short_name": "J. Noel",
       "sportsdata_player_id": "c4bab22e-a89a-41f6-b03a-07073a72f41b",
@@ -11267,11 +11267,11 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 490,
+      "rank_adp_ppr": 498,
       "rank_ecr": 438,
       "rank_ecr_half": 392,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 422,
+      "rank_ecr_ppr": 421,
       "reverse_name": "Evans, Mitchell",
       "short_name": "M. Evans",
       "sportsdata_player_id": "788b494d-d624-46ae-a956-81bd10f6a044",
@@ -11293,7 +11293,7 @@
         "RB"
       ],
       "rank_adp": 55,
-      "rank_adp_ppr": 75,
+      "rank_adp_ppr": 76,
       "rank_ecr": 96,
       "rank_ecr_half": 94,
       "rank_ecr_pos": 0,
@@ -11319,7 +11319,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 404,
+      "rank_adp_ppr": 408,
       "rank_ecr": 390,
       "rank_ecr_half": 387,
       "rank_ecr_pos": 0,
@@ -11371,7 +11371,7 @@
         "RB"
       ],
       "rank_adp": 254,
-      "rank_adp_ppr": 263,
+      "rank_adp_ppr": 262,
       "rank_ecr": 272,
       "rank_ecr_half": 286,
       "rank_ecr_pos": 0,
@@ -11423,7 +11423,7 @@
         "WR"
       ],
       "rank_adp": 259,
-      "rank_adp_ppr": 295,
+      "rank_adp_ppr": 296,
       "rank_ecr": 220,
       "rank_ecr_half": 210,
       "rank_ecr_pos": 0,
@@ -11475,7 +11475,7 @@
         "WR"
       ],
       "rank_adp": 304,
-      "rank_adp_ppr": 245,
+      "rank_adp_ppr": 244,
       "rank_ecr": 257,
       "rank_ecr_half": 250,
       "rank_ecr_pos": 0,
@@ -11527,7 +11527,7 @@
         "K"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 331,
+      "rank_adp_ppr": 327,
       "rank_ecr": 393,
       "rank_ecr_half": 543,
       "rank_ecr_pos": 0,
@@ -11553,7 +11553,7 @@
         "RB"
       ],
       "rank_adp": 302,
-      "rank_adp_ppr": 358,
+      "rank_adp_ppr": 360,
       "rank_ecr": 302,
       "rank_ecr_half": 278,
       "rank_ecr_pos": 0,
@@ -11579,7 +11579,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 458,
+      "rank_adp_ppr": 462,
       "rank_ecr": 357,
       "rank_ecr_half": 348,
       "rank_ecr_pos": 0,
@@ -11683,7 +11683,7 @@
         "WR"
       ],
       "rank_adp": 258,
-      "rank_adp_ppr": 303,
+      "rank_adp_ppr": 304,
       "rank_ecr": 234,
       "rank_ecr_half": 243,
       "rank_ecr_pos": 0,
@@ -11709,7 +11709,7 @@
         "RB"
       ],
       "rank_adp": 100,
-      "rank_adp_ppr": 115,
+      "rank_adp_ppr": 116,
       "rank_ecr": 103,
       "rank_ecr_half": 115,
       "rank_ecr_pos": 0,
@@ -11843,7 +11843,7 @@
         "WR"
       ],
       "rank_adp": 232,
-      "rank_adp_ppr": 239,
+      "rank_adp_ppr": 240,
       "rank_ecr": 310,
       "rank_ecr_half": 316,
       "rank_ecr_pos": 0,
@@ -11923,7 +11923,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 418,
+      "rank_adp_ppr": 393,
       "rank_ecr": 324,
       "rank_ecr_half": 326,
       "rank_ecr_pos": 0,
@@ -11975,7 +11975,7 @@
         "WR"
       ],
       "rank_adp": 298,
-      "rank_adp_ppr": 337,
+      "rank_adp_ppr": 335,
       "rank_ecr": 262,
       "rank_ecr_half": 268,
       "rank_ecr_pos": 0,
@@ -12002,7 +12002,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 383,
+      "rank_adp_ppr": 376,
       "rank_ecr": 505,
       "rank_ecr_half": 503,
       "rank_ecr_pos": 0,
@@ -12028,7 +12028,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 590,
+      "rank_adp_ppr": 0,
       "rank_ecr": 481,
       "rank_ecr_half": 499,
       "rank_ecr_pos": 0,
@@ -12054,7 +12054,7 @@
         "WR"
       ],
       "rank_adp": 291,
-      "rank_adp_ppr": 268,
+      "rank_adp_ppr": 265,
       "rank_ecr": 290,
       "rank_ecr_half": 300,
       "rank_ecr_pos": 0,
@@ -12132,7 +12132,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 446,
+      "rank_adp_ppr": 450,
       "rank_ecr": 454,
       "rank_ecr_half": 485,
       "rank_ecr_pos": 0,
@@ -12184,7 +12184,7 @@
         "K"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 339,
+      "rank_adp_ppr": 329,
       "rank_ecr": 405,
       "rank_ecr_half": 477,
       "rank_ecr_pos": 0,
@@ -12210,7 +12210,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 368,
+      "rank_adp_ppr": 364,
       "rank_ecr": 437,
       "rank_ecr_half": 421,
       "rank_ecr_pos": 0,
@@ -12236,7 +12236,7 @@
         "TE"
       ],
       "rank_adp": 307,
-      "rank_adp_ppr": 382,
+      "rank_adp_ppr": 384,
       "rank_ecr": 332,
       "rank_ecr_half": 335,
       "rank_ecr_pos": 0,
@@ -12263,7 +12263,7 @@
         "WR"
       ],
       "rank_adp": 223,
-      "rank_adp_ppr": 237,
+      "rank_adp_ppr": 248,
       "rank_ecr": 277,
       "rank_ecr_half": 274,
       "rank_ecr_pos": 0,
@@ -12290,7 +12290,7 @@
         "QB"
       ],
       "rank_adp": 200,
-      "rank_adp_ppr": 209,
+      "rank_adp_ppr": 210,
       "rank_ecr": 263,
       "rank_ecr_half": 248,
       "rank_ecr_pos": 0,
@@ -12344,7 +12344,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 441,
+      "rank_adp_ppr": 448,
       "rank_ecr": 385,
       "rank_ecr_half": 383,
       "rank_ecr_pos": 0,
@@ -12371,7 +12371,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 495,
+      "rank_adp_ppr": 504,
       "rank_ecr": 361,
       "rank_ecr_half": 369,
       "rank_ecr_pos": 0,
@@ -12398,7 +12398,7 @@
         "RB"
       ],
       "rank_adp": 216,
-      "rank_adp_ppr": 235,
+      "rank_adp_ppr": 234,
       "rank_ecr": 248,
       "rank_ecr_half": 262,
       "rank_ecr_pos": 0,
@@ -12452,7 +12452,7 @@
         "RB"
       ],
       "rank_adp": 168,
-      "rank_adp_ppr": 240,
+      "rank_adp_ppr": 237,
       "rank_ecr": 203,
       "rank_ecr_half": 236,
       "rank_ecr_pos": 0,
@@ -12560,7 +12560,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 393,
+      "rank_adp_ppr": 430,
       "rank_ecr": 457,
       "rank_ecr_half": 411,
       "rank_ecr_pos": 0,
@@ -12587,7 +12587,7 @@
         "WR"
       ],
       "rank_adp": 318,
-      "rank_adp_ppr": 298,
+      "rank_adp_ppr": 301,
       "rank_ecr": 305,
       "rank_ecr_half": 313,
       "rank_ecr_pos": 0,
@@ -12641,11 +12641,11 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 415,
+      "rank_adp_ppr": 459,
       "rank_ecr": 367,
       "rank_ecr_half": 363,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 370,
+      "rank_ecr_ppr": 371,
       "reverse_name": "Lance, Bryce",
       "rookie": "Y",
       "short_name": "B. Lance",
@@ -12668,7 +12668,7 @@
         "WR"
       ],
       "rank_adp": 292,
-      "rank_adp_ppr": 273,
+      "rank_adp_ppr": 275,
       "rank_ecr": 241,
       "rank_ecr_half": 201,
       "rank_ecr_pos": 0,
@@ -12695,11 +12695,11 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 351,
+      "rank_adp_ppr": 375,
       "rank_ecr": 411,
       "rank_ecr_half": 408,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 421,
+      "rank_ecr_ppr": 423,
       "reverse_name": "Thomas, Zavion",
       "rookie": "Y",
       "short_name": "Z. Thomas",
@@ -12722,11 +12722,11 @@
         "WR"
       ],
       "rank_adp": 320,
-      "rank_adp_ppr": 364,
+      "rank_adp_ppr": 358,
       "rank_ecr": 366,
       "rank_ecr_half": 365,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 373,
+      "rank_ecr_ppr": 374,
       "reverse_name": "Thompson, Brenen",
       "rookie": "Y",
       "short_name": "B. Thompson",
@@ -12776,7 +12776,7 @@
         "WR"
       ],
       "rank_adp": 220,
-      "rank_adp_ppr": 194,
+      "rank_adp_ppr": 192,
       "rank_ecr": 193,
       "rank_ecr_half": 168,
       "rank_ecr_pos": 0,
@@ -12803,7 +12803,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 500,
+      "rank_adp_ppr": 470,
       "rank_ecr": 502,
       "rank_ecr_half": 480,
       "rank_ecr_pos": 0,
@@ -12830,7 +12830,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 349,
+      "rank_adp_ppr": 357,
       "rank_ecr": 368,
       "rank_ecr_half": 370,
       "rank_ecr_pos": 0,
@@ -12884,7 +12884,7 @@
         "RB"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 440,
+      "rank_adp_ppr": 443,
       "rank_ecr": 356,
       "rank_ecr_half": 355,
       "rank_ecr_pos": 0,
@@ -12911,7 +12911,7 @@
         "RB"
       ],
       "rank_adp": 261,
-      "rank_adp_ppr": 246,
+      "rank_adp_ppr": 242,
       "rank_ecr": 270,
       "rank_ecr_half": 291,
       "rank_ecr_pos": 0,
@@ -12965,11 +12965,11 @@
         "WR"
       ],
       "rank_adp": 308,
-      "rank_adp_ppr": 317,
-      "rank_ecr": 365,
+      "rank_adp_ppr": 311,
+      "rank_ecr": 364,
       "rank_ecr_half": 371,
       "rank_ecr_pos": 0,
-      "rank_ecr_ppr": 374,
+      "rank_ecr_ppr": 369,
       "reverse_name": "Allen, Cyrus",
       "rookie": "Y",
       "short_name": "C. Allen",
@@ -12992,7 +12992,7 @@
         "TE"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 462,
+      "rank_adp_ppr": 466,
       "rank_ecr": 478,
       "rank_ecr_half": 505,
       "rank_ecr_pos": 0,
@@ -13045,7 +13045,7 @@
         "K"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 311,
+      "rank_adp_ppr": 312,
       "rank_ecr": 374,
       "rank_ecr_half": 390,
       "rank_ecr_pos": 0,
@@ -13123,7 +13123,7 @@
         "WR"
       ],
       "rank_adp": 0,
-      "rank_adp_ppr": 400,
+      "rank_adp_ppr": 409,
       "rank_ecr": 500,
       "rank_ecr_half": 453,
       "rank_ecr_pos": 0,

@@ -98,6 +98,22 @@
       "team_id": "DET"
     },
     {
+      "filename": "blake-grupe.php",
+      "fpid": 25533,
+      "mflid": 16444,
+      "name": "Blake Grupe",
+      "position_id": "K",
+      "stats": {
+        "fg": 30.18,
+        "fga": 36.48,
+        "points": 133.44,
+        "points_half": 133.44,
+        "points_ppr": 133.44,
+        "xpt": 42.89
+      },
+      "team_id": "IND"
+    },
+    {
       "filename": "chase-mclaughlin.php",
       "fpid": 19058,
       "mflid": 14717,
@@ -138,10 +154,10 @@
       "stats": {
         "fg": 31.04,
         "fga": 34.69,
-        "points": 132.63,
-        "points_half": 132.63,
-        "points_ppr": 132.63,
-        "xpt": 39.51
+        "points": 132.62,
+        "points_half": 132.62,
+        "points_ppr": 132.62,
+        "xpt": 39.5
       },
       "team_id": "SF"
     },
@@ -498,38 +514,6 @@
       "team_id": "NYG"
     },
     {
-      "filename": "spencer-shrader.php",
-      "fpid": 26763,
-      "mflid": 16896,
-      "name": "Spencer Shrader",
-      "position_id": "K",
-      "stats": {
-        "fg": 17,
-        "fga": 19.5,
-        "points": 76.5,
-        "points_half": 76.5,
-        "points_ppr": 76.5,
-        "xpt": 25.5
-      },
-      "team_id": "IND"
-    },
-    {
-      "filename": "blake-grupe.php",
-      "fpid": 25533,
-      "mflid": 16444,
-      "name": "Blake Grupe",
-      "position_id": "K",
-      "stats": {
-        "fg": 18.85,
-        "fga": 22.48,
-        "points": 73.94,
-        "points_half": 73.94,
-        "points_ppr": 73.94,
-        "xpt": 17.39
-      },
-      "team_id": "IND"
-    },
-    {
       "filename": "riley-patterson.php",
       "fpid": 23370,
       "mflid": 15369,
@@ -592,6 +576,22 @@
         "xpt": 0
       },
       "team_id": "FA"
+    },
+    {
+      "filename": "spencer-shrader.php",
+      "fpid": 26763,
+      "mflid": 16896,
+      "name": "Spencer Shrader",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "IND"
     },
     {
       "filename": "graham-gano.php",
