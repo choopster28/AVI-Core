@@ -228,14 +228,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
 
-## PLAYER LOOKUP: Calvin Ridley
-- Player name: Calvin Ridley
-- Player ID: 4981
-- Position: WR
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Team file: 14_Phalhala_or_Bust.md
-
 ## PLAYER LOOKUP: Cam Skattebo
 - Player name: Cam Skattebo
 - Player ID: 12481
@@ -1292,6 +1284,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
+## PLAYER LOOKUP: Marquise Brown
+- Player name: Marquise Brown
+- Player ID: 5848
+- Position: WR
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Team file: 14_Phalhala_or_Bust.md
+
 ## PLAYER LOOKUP: Marvin Harrison
 - Player name: Marvin Harrison
 - Player ID: 11628
@@ -1930,6 +1930,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 62.0
 - Availability: available
 
+## AVAILABLE PLAYER: Calvin Ridley
+- Player name: Calvin Ridley
+- Player ID: 4981
+- Position: WR
+- NFL team: TEN
+- Championship AVI (C-AVI, 0-100): 47.4
+- Dynasty AVI (D-AVI, 0-100): 63.7
+- Availability: available
+
 ## AVAILABLE PLAYER: John Metchie
 - Player name: John Metchie
 - Player ID: 8147
@@ -2144,15 +2153,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: HOU
 - Championship AVI (C-AVI, 0-100): 36.3
 - Dynasty AVI (D-AVI, 0-100): 68.6
-- Availability: available
-
-## AVAILABLE PLAYER: Marquise Brown
-- Player name: Marquise Brown
-- Player ID: 5848
-- Position: WR
-- NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 36.3
-- Dynasty AVI (D-AVI, 0-100): 58.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Jaydon Blue
