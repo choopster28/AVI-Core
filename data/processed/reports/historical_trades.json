@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-03T22:43:24.004949+00:00",
+  "generated_at_utc": "2026-08-04T08:05:21.113687+00:00",
   "statistics": {
-    "owner_trade_participations": 139,
+    "owner_trade_participations": 141,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -46,14 +46,9 @@
         "team_name": "Corgi Loaf Baking Co. "
       },
       {
-        "partner_count": 1,
+        "partner_count": 2,
         "partners": [
-          "Conquistadors",
-          "Ravens Regime ",
-          "Northside Kings ",
-          "Lightskin Legends ✊🏽",
-          "Badland Banditos ",
-          "Corgi Loaf Baking Co. "
+          "Conquistadors"
         ],
         "roster_id": 16,
         "team_name": "Crimson Tide Pods"
@@ -183,18 +178,18 @@
         "by_season": {
           "2024": 6,
           "2025": 2,
-          "2026": 7
+          "2026": 8
         },
         "firsts_in": 5,
-        "firsts_out": 6,
+        "firsts_out": 7,
         "owner_display_name": "Thecan",
-        "picks_in": 10,
-        "picks_out": 17,
-        "players_in": 13,
-        "players_out": 15,
+        "picks_in": 11,
+        "picks_out": 18,
+        "players_in": 15,
+        "players_out": 17,
         "roster_id": 1,
         "team_name": "Conquistadors",
-        "total": 15
+        "total": 16
       },
       {
         "by_season": {
@@ -282,6 +277,22 @@
       },
       {
         "by_season": {
+          "2025": 1,
+          "2026": 5
+        },
+        "firsts_in": 5,
+        "firsts_out": 2,
+        "owner_display_name": "nickas",
+        "picks_in": 10,
+        "picks_out": 4,
+        "players_in": 9,
+        "players_out": 7,
+        "roster_id": 16,
+        "team_name": "Crimson Tide Pods",
+        "total": 6
+      },
+      {
+        "by_season": {
           "2025": 3,
           "2026": 3
         },
@@ -310,22 +321,6 @@
         "players_out": 3,
         "roster_id": 8,
         "team_name": "All Hail King Jesus",
-        "total": 5
-      },
-      {
-        "by_season": {
-          "2025": 1,
-          "2026": 4
-        },
-        "firsts_in": 4,
-        "firsts_out": 2,
-        "owner_display_name": "nickas",
-        "picks_in": 9,
-        "picks_out": 3,
-        "players_in": 7,
-        "players_out": 5,
-        "roster_id": 16,
-        "team_name": "Crimson Tide Pods",
         "total": 5
       },
       {
@@ -410,10 +405,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 26
+      "2026": 27
     },
-    "two_team_trades": 68,
-    "unique_completed_trades": 69
+    "two_team_trades": 69,
+    "unique_completed_trades": 70
   },
   "trades": [
     {
@@ -5866,6 +5861,102 @@
         }
       ],
       "transaction_id": "1387942050321678336",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-04T00:49:35.949000+00:00",
+      "created_timestamp_ms": 1785804575949,
+      "roster_ids": [
+        1,
+        16
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 5,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 4,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "13417",
+              "player_name": "De'Zhaun Stribling"
+            },
+            {
+              "player_id": "9508",
+              "player_name": "Tyjae Spears"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11575",
+              "player_name": "Ray Davis"
+            },
+            {
+              "player_id": "13274",
+              "player_name": "Germie Bernard"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "nickas",
+          "owner_id": "471824466389757952",
+          "picks_received": [
+            {
+              "original_roster_id": 4,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 5,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11575",
+              "player_name": "Ray Davis"
+            },
+            {
+              "player_id": "13274",
+              "player_name": "Germie Bernard"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "13417",
+              "player_name": "De'Zhaun Stribling"
+            },
+            {
+              "player_id": "9508",
+              "player_name": "Tyjae Spears"
+            }
+          ],
+          "roster_id": 16,
+          "season": 2026,
+          "team_name": "Crimson Tide Pods"
+        }
+      ],
+      "transaction_id": "1390168785905782784",
       "week": 1
     }
   ]

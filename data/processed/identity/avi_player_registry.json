@@ -2536,31 +2536,6 @@
   {
     "active": true,
     "aliases": [
-      "DeAndre Hopkins"
-    ],
-    "avi_id": "AVI-00001426",
-    "canonical_name": "DeAndre Hopkins",
-    "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
-    },
-    "nfl_team": "BAL",
-    "normalized_name": "deandre hopkins",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": 15795,
-      "fantasy_data_id": 14986,
-      "fantasypros_id": "11606",
-      "nfl_id": "2540165",
-      "rotowire_id": 8619,
-      "sleeper_id": "1426",
-      "sportradar_id": "5c48ade7-4b9a-4757-9643-87a6e3839e2b",
-      "sportsdata_player_id": "5c48ade7-4b9a-4757-9643-87a6e3839e2b"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "DeMario Douglas"
     ],
     "avi_id": "AVI-00009501",
@@ -3333,31 +3308,6 @@
       "sleeper_id": "10231",
       "sportradar_id": "a01b7698-d67f-4b60-b2fb-4c667336b718",
       "sportsdata_player_id": "a01b7698-d67f-4b60-b2fb-4c667336b718"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Elijah Mitchell"
-    ],
-    "avi_id": "AVI-00007561",
-    "canonical_name": "Elijah Mitchell",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "PHI",
-    "normalized_name": "elijah mitchell",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 22535,
-      "fantasypros_id": "22813",
-      "nfl_id": "2566538",
-      "rotowire_id": 15379,
-      "sleeper_id": "7561",
-      "sportradar_id": "8ba68abf-e9d2-4927-bf8d-476f271d840c",
-      "sportsdata_player_id": "8ba68abf-e9d2-4927-bf8d-476f271d840c"
     }
   },
   {
@@ -6395,6 +6345,31 @@
   {
     "active": true,
     "aliases": [
+      "KeAndre Lambert-Smith"
+    ],
+    "avi_id": "AVI-00012670",
+    "canonical_name": "KeAndre Lambert-Smith",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "LAC",
+    "normalized_name": "keandre lambert smith",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26059,
+      "fantasypros_id": "24372",
+      "nfl_id": "2574521",
+      "rotowire_id": 18650,
+      "sleeper_id": "12670",
+      "sportradar_id": "2f6580d2-6f19-4a03-99e8-4dbd9ebf2a73",
+      "sportsdata_player_id": "2f6580d2-6f19-4a03-99e8-4dbd9ebf2a73"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Keaton Mitchell"
     ],
     "avi_id": "AVI-00009511",
@@ -8988,31 +8963,6 @@
   {
     "active": true,
     "aliases": [
-      "Riley Leonard"
-    ],
-    "avi_id": "AVI-00012470",
-    "canonical_name": "Riley Leonard",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "IND",
-    "normalized_name": "riley leonard",
-    "position": "QB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24992,
-      "fantasypros_id": "25373",
-      "nfl_id": "2574190",
-      "rotowire_id": 18513,
-      "sleeper_id": "12470",
-      "sportradar_id": "38b62d7f-4403-4e2b-8083-4d0cd08e81aa",
-      "sportsdata_player_id": "38b62d7f-4403-4e2b-8083-4d0cd08e81aa"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Robert Henry",
       "Robert Henry Jr."
     ],
@@ -9634,31 +9584,6 @@
       "sleeper_id": "5409",
       "sportradar_id": "2fa75e05-cac4-4b40-8924-dbc9ae0c959c",
       "sportsdata_player_id": "2fa75e05-cac4-4b40-8924-dbc9ae0c959c"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Taysom Hill"
-    ],
-    "avi_id": "AVI-00004381",
-    "canonical_name": "Taysom Hill",
-    "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
-    },
-    "nfl_team": "FA",
-    "normalized_name": "taysom hill",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": 2468609,
-      "fantasy_data_id": 19238,
-      "fantasypros_id": "17115",
-      "nfl_id": "2558954",
-      "rotowire_id": 12063,
-      "sleeper_id": "4381",
-      "sportradar_id": "3c8a55dd-20a8-4375-b711-49eb5e6e1d0e",
-      "sportsdata_player_id": "3c8a55dd-20a8-4375-b711-49eb5e6e1d0e"
     }
   },
   {
@@ -10713,31 +10638,6 @@
       "sleeper_id": "8126",
       "sportradar_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05",
       "sportsdata_player_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Will Dissly"
-    ],
-    "avi_id": "AVI-00005010",
-    "canonical_name": "Will Dissly",
-    "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
-    },
-    "nfl_team": "FA",
-    "normalized_name": "will dissly",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": 3127292,
-      "fantasy_data_id": 19950,
-      "fantasypros_id": "18049",
-      "nfl_id": "2561046",
-      "rotowire_id": 12986,
-      "sleeper_id": "5010",
-      "sportradar_id": "383f4814-6836-4766-a297-fc063e8509cc",
-      "sportsdata_player_id": "383f4814-6836-4766-a297-fc063e8509cc"
     }
   },
   {

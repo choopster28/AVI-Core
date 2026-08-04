@@ -55,15 +55,6 @@
   },
   {
     "confidence": "review",
-    "fantasypros_id": "11606",
-    "match_method": "exact_name_position",
-    "nfl_team": "BAL",
-    "player_name": "DeAndre Hopkins",
-    "position": "WR",
-    "sleeper_id": "1426"
-  },
-  {
-    "confidence": "review",
     "fantasypros_id": "11616",
     "match_method": "exact_name_position",
     "nfl_team": "LAC",
@@ -522,15 +513,6 @@
     "sleeper_id": "4454"
   },
   {
-    "confidence": "review",
-    "fantasypros_id": "17115",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Taysom Hill",
-    "position": "TE",
-    "sleeper_id": "4381"
-  },
-  {
     "confidence": "verified",
     "fantasypros_id": "17233",
     "match_method": "exact_name_position_unique",
@@ -700,15 +682,6 @@
     "player_name": "Tanner Hudson",
     "position": "TE",
     "sleeper_id": "5409"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "18049",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Will Dissly",
-    "position": "TE",
-    "sleeper_id": "5010"
   },
   {
     "confidence": "verified",
@@ -1483,15 +1456,6 @@
     "player_name": "Tommy Tremble",
     "position": "TE",
     "sleeper_id": "7694"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "22813",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "PHI",
-    "player_name": "Elijah Mitchell",
-    "position": "RB",
-    "sleeper_id": "7561"
   },
   {
     "confidence": "verified",
@@ -2575,6 +2539,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "24372",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LAC",
+    "player_name": "KeAndre Lambert-Smith",
+    "position": "WR",
+    "sleeper_id": "12670"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "24687",
     "match_method": "exact_name_position_unique",
     "nfl_team": "SEA",
@@ -2806,15 +2779,6 @@
     "player_name": "Ty Simpson",
     "position": "QB",
     "sleeper_id": "13275"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "25373",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "IND",
-    "player_name": "Riley Leonard",
-    "position": "QB",
-    "sleeper_id": "12470"
   },
   {
     "confidence": "verified",

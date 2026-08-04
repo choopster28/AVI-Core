@@ -212,6 +212,36 @@
       "team_id": "CIN"
     },
     {
+      "filename": "brock-purdy.php",
+      "fpid": 19797,
+      "mflid": 15698,
+      "name": "Brock Purdy",
+      "position_id": "QB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 4.33,
+        "pass_att": 547.21,
+        "pass_cmp": 369.31,
+        "pass_ints": 14.3,
+        "pass_tds": 27.69,
+        "pass_yds": 4152.9,
+        "pass_yds_300": 0,
+        "pass_yds_400": 0,
+        "points": 307.35,
+        "points_half": 307.35,
+        "points_ppr": 307.35,
+        "ret_tds": 0,
+        "rush_att": 70.47,
+        "rush_tds": 3.84,
+        "rush_yds": 304.09,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "SF"
+    },
+    {
       "filename": "dak-prescott.php",
       "fpid": 15600,
       "mflid": 12620,
@@ -240,36 +270,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "DAL"
-    },
-    {
-      "filename": "brock-purdy.php",
-      "fpid": 19797,
-      "mflid": 15698,
-      "name": "Brock Purdy",
-      "position_id": "QB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 4.33,
-        "pass_att": 542.54,
-        "pass_cmp": 366.31,
-        "pass_ints": 14.3,
-        "pass_tds": 27.69,
-        "pass_yds": 4119.56,
-        "pass_yds_300": 0,
-        "pass_yds_400": 0,
-        "points": 306.02,
-        "points_half": 306.02,
-        "points_ppr": 306.02,
-        "ret_tds": 0,
-        "rush_att": 70.47,
-        "rush_tds": 3.84,
-        "rush_yds": 304.09,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "SF"
     },
     {
       "filename": "trevor-lawrence.php",
@@ -1352,36 +1352,6 @@
       "team_id": "NYG"
     },
     {
-      "filename": "kenny-pickett.php",
-      "fpid": 22722,
-      "mflid": 15692,
-      "name": "Kenny Pickett",
-      "position_id": "QB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.08,
-        "pass_att": 22.52,
-        "pass_cmp": 14.37,
-        "pass_ints": 0.82,
-        "pass_tds": 1.29,
-        "pass_yds": 155.56,
-        "pass_yds_300": 0,
-        "pass_yds_400": 0,
-        "points": 11.57,
-        "points_half": 11.57,
-        "points_ppr": 11.57,
-        "ret_tds": 0,
-        "rush_att": 2.77,
-        "rush_tds": 0.01,
-        "rush_yds": 10.92,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "CAR"
-    },
-    {
       "filename": "quinn-ewers.php",
       "fpid": 23680,
       "mflid": 17034,
@@ -1830,6 +1800,36 @@
         "scrimage_yards_200": 0
       },
       "team_id": "NO"
+    },
+    {
+      "filename": "kenny-pickett.php",
+      "fpid": 22722,
+      "mflid": 15692,
+      "name": "Kenny Pickett",
+      "position_id": "QB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.08,
+        "pass_att": 22.52,
+        "pass_cmp": 14.37,
+        "pass_ints": 0.82,
+        "pass_tds": 0.95,
+        "pass_yds": 155.56,
+        "pass_yds_300": 0,
+        "pass_yds_400": 0,
+        "points": 10.23,
+        "points_half": 10.23,
+        "points_ppr": 10.23,
+        "ret_tds": 0,
+        "rush_att": 2.77,
+        "rush_tds": 0.01,
+        "rush_yds": 10.92,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "CAR"
     },
     {
       "filename": "sam-howell.php",
