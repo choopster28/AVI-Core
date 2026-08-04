@@ -39,18 +39,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00004993",
-      "c_avi": 48.2,
-      "d_avi": 62.5,
-      "nfl_team": "CIN",
-      "player_name": "Mike Gesicki",
-      "position": "TE",
-      "sleeper_id": "4993",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004981",
       "c_avi": 47.2,
       "d_avi": 62.8,
@@ -2426,8 +2414,8 @@
     }
   ],
   "counts": {
-    "available_players": 202,
-    "rostered_players": 236
+    "available_players": 201,
+    "rostered_players": 237
   },
   "rostered_players": [
     {
@@ -5165,6 +5153,22 @@
       "status": "Active",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00004993",
+      "c_avi": 48.2,
+      "d_avi": 62.5,
+      "nfl_team": "CIN",
+      "owner_id": "986498458162970624",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
+      "roster_id": 11,
+      "sleeper_id": "4993",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,

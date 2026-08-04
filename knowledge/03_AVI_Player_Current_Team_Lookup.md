@@ -1372,6 +1372,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
 
+## PLAYER LOOKUP: Mike Gesicki
+- Player name: Mike Gesicki
+- Player ID: 4993
+- Position: TE
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Nicholas Singleton
 - Player name: Nicholas Singleton
 - Player ID: 13288
@@ -1919,15 +1927,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYJ
 - Championship AVI (C-AVI, 0-100): 48.9
 - Dynasty AVI (D-AVI, 0-100): 69.0
-- Availability: available
-
-## AVAILABLE PLAYER: Mike Gesicki
-- Player name: Mike Gesicki
-- Player ID: 4993
-- Position: TE
-- NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 48.2
-- Dynasty AVI (D-AVI, 0-100): 62.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Calvin Ridley
