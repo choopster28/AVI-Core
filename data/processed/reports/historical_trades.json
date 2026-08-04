@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-04T11:06:30.911179+00:00",
+  "generated_at_utc": "2026-08-04T18:18:19.304967+00:00",
   "statistics": {
-    "owner_trade_participations": 141,
+    "owner_trade_participations": 143,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -144,18 +144,18 @@
         "by_season": {
           "2024": 7,
           "2025": 4,
-          "2026": 9
+          "2026": 10
         },
-        "firsts_in": 11,
-        "firsts_out": 13,
+        "firsts_in": 12,
+        "firsts_out": 14,
         "owner_display_name": "awang1900",
-        "picks_in": 14,
-        "picks_out": 23,
+        "picks_in": 15,
+        "picks_out": 25,
         "players_in": 29,
-        "players_out": 28,
+        "players_out": 29,
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. ",
-        "total": 20
+        "total": 21
       },
       {
         "by_season": {
@@ -229,18 +229,18 @@
         "by_season": {
           "2024": 5,
           "2025": 2,
-          "2026": 3
+          "2026": 4
         },
-        "firsts_in": 4,
-        "firsts_out": 2,
+        "firsts_in": 5,
+        "firsts_out": 3,
         "owner_display_name": "TacticsNoob",
-        "picks_in": 8,
-        "picks_out": 3,
-        "players_in": 16,
+        "picks_in": 10,
+        "picks_out": 4,
+        "players_in": 17,
         "players_out": 13,
         "roster_id": 12,
         "team_name": "DMV Fantasy",
-        "total": 10
+        "total": 11
       },
       {
         "by_season": {
@@ -405,10 +405,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 27
+      "2026": 28
     },
-    "two_team_trades": 69,
-    "unique_completed_trades": 70
+    "two_team_trades": 70,
+    "unique_completed_trades": 71
   },
   "trades": [
     {
@@ -5957,6 +5957,86 @@
         }
       ],
       "transaction_id": "1390168785905782784",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-04T16:46:46.807000+00:00",
+      "created_timestamp_ms": 1785862006807,
+      "roster_ids": [
+        11,
+        12
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 12,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 3,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 3,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "13293",
+              "player_name": "Ja'Kobi Lane"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 3,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 3,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 12,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "13293",
+              "player_name": "Ja'Kobi Lane"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 12,
+          "season": 2026,
+          "team_name": "DMV Fantasy"
+        }
+      ],
+      "transaction_id": "1390409668387418112",
       "week": 1
     }
   ]

@@ -728,9 +728,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Ja'Kobi Lane
 - Player ID: 13293
 - Position: WR
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: Ja'Marr Chase
 - Player name: Ja'Marr Chase

@@ -17,26 +17,26 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **70**
-- Owner trade participations: **141**
-- Two-team trades: **69**
+- Unique completed trades: **71**
+- Owner trade participations: **143**
+- Two-team trades: **70**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **27**
+- 2026 completed trades: **28**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-08-04T00:49:35.949000+00:00**
+- Latest verified trade: **2026-08-04T16:46:46.807000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co.  | awang1900 | **20** | 7 | 4 | 9 | 29 | 28 | 14 | 23 | 11 | 13 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **21** | 7 | 4 | 10 | 29 | 29 | 15 | 25 | 12 | 14 |
 | 2 | Big Balder Brand | Choopski | **19** | 7 | 2 | 10 | 28 | 30 | 11 | 15 | 6 | 9 |
 | 3 | Conquistadors | Thecan | **16** | 6 | 2 | 8 | 15 | 17 | 11 | 18 | 5 | 7 |
 | 4 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 16 | 9 | 6 | 5 |
 | 5 | Ravens Regime  | Mentomorii | **14** | 3 | 3 | 8 | 12 | 17 | 15 | 10 | 9 | 7 |
-| 6 | DMV Fantasy | TacticsNoob | **10** | 5 | 2 | 3 | 16 | 13 | 8 | 3 | 4 | 2 |
+| 6 | DMV Fantasy | TacticsNoob | **11** | 5 | 2 | 4 | 17 | 13 | 10 | 4 | 5 | 3 |
 | 7 | Badland Banditos  | IcebergSlim69 | **9** | 4 | 4 | 1 | 9 | 11 | 5 | 10 | 3 | 3 |
 | 8 | Mile High Royal Lions | shawnh56 | **9** | 0 | 8 | 1 | 9 | 12 | 11 | 11 | 3 | 5 |
 | 9 | Crimson Tide Pods | nickas | **6** | 0 | 1 | 5 | 9 | 7 | 10 | 4 | 5 | 2 |
@@ -70,6 +70,24 @@
 | Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1390409668387418112
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-08-04T16:46:46.807000+00:00
+- Teams involved: 2
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: None
+- Players sent: Ja'Kobi Lane
+- Picks received: 2027 Round 1 (original roster 12)
+- Picks sent: 2028 Round 3 (original roster 11), 2028 Round 1 (original roster 3)
+
+#### DMV Fantasy (TacticsNoob)
+- Players received: Ja'Kobi Lane
+- Players sent: None
+- Picks received: 2028 Round 3 (original roster 11), 2028 Round 1 (original roster 3)
+- Picks sent: 2027 Round 1 (original roster 12)
 
 ### TRADE: 1390168785905782784
 - Season: 2026
