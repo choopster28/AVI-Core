@@ -20724,7 +20724,7 @@
     "depth_chart_order": null,
     "depth_chart_position": "DL",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 24490,
     "fantasy_positions": [
       "DL"
     ],
@@ -27405,7 +27405,7 @@
     "college": "Stanford",
     "competitions": [],
     "depth_chart_order": 8,
-    "depth_chart_position": "LWR",
+    "depth_chart_position": "RWR",
     "espn_id": null,
     "fantasy_data_id": 24296,
     "fantasy_positions": [
@@ -174177,7 +174177,7 @@
     "college": "Tennessee",
     "competitions": [],
     "depth_chart_order": 5,
-    "depth_chart_position": "RWR",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26731,
     "fantasy_positions": [
@@ -221781,7 +221781,7 @@
     "depth_chart_order": null,
     "depth_chart_position": null,
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 28644,
     "fantasy_positions": [
       "DB"
     ],
@@ -221840,7 +221840,7 @@
     "depth_chart_order": null,
     "depth_chart_position": null,
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 25928,
     "fantasy_positions": [
       "WR"
     ],
@@ -323860,7 +323860,7 @@
     "college": "Appalachian State",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "OL",
     "espn_id": 2509370,
     "fantasy_data_id": 17490,
     "fantasy_positions": [
