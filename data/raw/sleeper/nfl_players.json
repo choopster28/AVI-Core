@@ -132092,10 +132092,10 @@
     "hashtag": "#lukelachey-NFL-GB-86",
     "height": "78",
     "high_school": "Grandview Heights (OH)",
-    "injury_body_part": null,
+    "injury_body_part": "Foot",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "62f00a7c-c884-4202-ba34-1095c4f2dc9c",
     "last_name": "Lachey",
     "metadata": {
@@ -145914,10 +145914,10 @@
     "hashtag": "#johnathanbaldwin-NFL-GB-37",
     "height": "72",
     "high_school": "Frank Dobie (TX)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "1d147448-32c4-49aa-9008-61e8407333bc",
     "last_name": "Baldwin",
     "metadata": {
@@ -172561,7 +172561,7 @@
       "rookie_year": "2026",
       "source_id": "21262830-9c57-11ed-8980-13b49451ee41"
     },
-    "news_updated": 1785862819489,
+    "news_updated": 1785870008332,
     "number": 19,
     "oddsjam_id": null,
     "opta_id": null,
@@ -179013,7 +179013,7 @@
       "rookie_year": "2026",
       "source_id": "5b3eac3f-fe81-4635-a564-5145dbcac6f2"
     },
-    "news_updated": 1785864007477,
+    "news_updated": 1785869707015,
     "number": 20,
     "oddsjam_id": null,
     "opta_id": null,
@@ -391686,7 +391686,7 @@
       "genius_id": "998864",
       "rookie_year": "2017"
     },
-    "news_updated": 1785342009739,
+    "news_updated": 1785870008332,
     "number": 41,
     "oddsjam_id": "4DD7AD3020C5",
     "opta_id": null,
@@ -569307,7 +569307,7 @@
       "injury_override_regular_2024_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1785864007487,
+    "news_updated": 1785870307649,
     "number": 1,
     "oddsjam_id": "66B708A8FB24",
     "opta_id": null,
@@ -571216,7 +571216,7 @@
       "genius_id": "1012460",
       "rookie_year": "2020"
     },
-    "news_updated": 1785555337310,
+    "news_updated": 1785867907287,
     "number": 10,
     "oddsjam_id": "8959F596AE5D",
     "opta_id": null,
@@ -621837,7 +621837,7 @@
       "genius_id": "1297990",
       "rookie_year": "2021"
     },
-    "news_updated": 1785864907414,
+    "news_updated": 1785869407117,
     "number": 4,
     "oddsjam_id": "3FEEB58C0137",
     "opta_id": null,
@@ -719410,7 +719410,7 @@
       "genius_id": "165525",
       "rookie_year": "2005"
     },
-    "news_updated": 1785806111038,
+    "news_updated": 1785870307148,
     "number": 8,
     "oddsjam_id": "16E7FD97D946",
     "opta_id": null,
