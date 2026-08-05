@@ -9,7 +9,7 @@
       "position_id": "K",
       "stats": {
         "fg": 35.16,
-        "fga": 39.55,
+        "fga": 39.88,
         "points": 152.98,
         "points_half": 152.98,
         "points_ppr": 152.98,
@@ -121,7 +121,7 @@
       "position_id": "K",
       "stats": {
         "fg": 31.52,
-        "fga": 36.16,
+        "fga": 36.49,
         "points": 132.94,
         "points_half": 132.94,
         "points_ppr": 132.94,
@@ -194,6 +194,22 @@
       "team_id": "KC"
     },
     {
+      "filename": "will-reichard.php",
+      "fpid": 26341,
+      "mflid": 16681,
+      "name": "Will Reichard",
+      "position_id": "K",
+      "stats": {
+        "fg": 30.9,
+        "fga": 33.84,
+        "points": 130.71,
+        "points_half": 130.71,
+        "points_ppr": 130.71,
+        "xpt": 38.02
+      },
+      "team_id": "MIN"
+    },
+    {
       "filename": "cam-little.php",
       "fpid": 26475,
       "mflid": 16680,
@@ -208,22 +224,6 @@
         "xpt": 43.55
       },
       "team_id": "JAC"
-    },
-    {
-      "filename": "will-reichard.php",
-      "fpid": 26341,
-      "mflid": 16681,
-      "name": "Will Reichard",
-      "position_id": "K",
-      "stats": {
-        "fg": 30.56,
-        "fga": 33.84,
-        "points": 129.71,
-        "points_half": 129.71,
-        "points_ppr": 129.71,
-        "xpt": 38.02
-      },
-      "team_id": "MIN"
     },
     {
       "filename": "evan-mcpherson.php",
@@ -312,11 +312,11 @@
       "name": "Charlie Smyth",
       "position_id": "K",
       "stats": {
-        "fg": 29.55,
+        "fg": 29.21,
         "fga": 35.01,
-        "points": 122.91,
-        "points_half": 122.91,
-        "points_ppr": 122.91,
+        "points": 121.91,
+        "points_half": 121.91,
+        "points_ppr": 121.91,
         "xpt": 34.27
       },
       "team_id": "NO"
@@ -377,7 +377,7 @@
       "position_id": "K",
       "stats": {
         "fg": 28.12,
-        "fga": 32.03,
+        "fga": 32.37,
         "points": 118.24,
         "points_half": 118.24,
         "points_ppr": 118.24,
@@ -393,7 +393,7 @@
       "position_id": "K",
       "stats": {
         "fg": 28.71,
-        "fga": 32.7,
+        "fga": 33.2,
         "points": 117.49,
         "points_half": 117.49,
         "points_ppr": 117.49,

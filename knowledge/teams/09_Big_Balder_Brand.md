@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-08-04
+- Last updated from Sleeper exports: 2026-08-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 738.5
-- championship_lineup_c_avi_avg: 92.31
-- offensive_roster_c_avi_sum: 1123.2
-- offensive_roster_c_avi_avg: 70.20
-- offensive_roster_d_avi_sum: 1294.8
-- offensive_roster_d_avi_avg: 80.92
+- championship_lineup_c_avi_sum: 737.7
+- championship_lineup_c_avi_avg: 92.21
+- offensive_roster_c_avi_sum: 1121.9
+- offensive_roster_c_avi_avg: 70.12
+- offensive_roster_d_avi_sum: 1294.3
+- offensive_roster_d_avi_avg: 80.89
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jaxson Dart | C-AVI: 82.5 | D-AVI: 81.9
+- QB: Jaxson Dart | C-AVI: 82.4 | D-AVI: 81.9
 - RB: Omarion Hampton | C-AVI: 92.3 | D-AVI: 95.5
 - RB: Saquon Barkley | C-AVI: 92.1 | D-AVI: 92.7
-- WR: Rashee Rice | C-AVI: 96.0 | D-AVI: 93.3
-- WR: A.J. Brown | C-AVI: 94.1 | D-AVI: 93.7
+- WR: Rashee Rice | C-AVI: 95.9 | D-AVI: 93.3
+- WR: A.J. Brown | C-AVI: 93.7 | D-AVI: 93.6
 - TE: Trey McBride | C-AVI: 99.5 | D-AVI: 93.4
-- FLEX: Nico Collins | C-AVI: 92.2 | D-AVI: 95.9
+- FLEX: Nico Collins | C-AVI: 92.0 | D-AVI: 95.9
 - FLEX: Jeremiyah Love | C-AVI: 89.8 | D-AVI: 95.3
 
 ## Current Roster — All Player Cards
@@ -53,7 +53,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 82.5
+- Championship AVI (C-AVI, 0-100): 82.4
 - Dynasty AVI (D-AVI, 0-100): 81.9
 - Projected PPR points: 311.6
 - Category: offense
@@ -70,9 +70,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 53.7
-- Dynasty AVI (D-AVI, 0-100): 71.6
-- Projected PPR points: 282.2
+- Championship AVI (C-AVI, 0-100): 53.4
+- Dynasty AVI (D-AVI, 0-100): 71.5
+- Projected PPR points: 282.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -89,7 +89,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 92.3
 - Dynasty AVI (D-AVI, 0-100): 95.5
-- Projected PPR points: 263.6
+- Projected PPR points: 263.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 47.9
-- Dynasty AVI (D-AVI, 0-100): 72.9
+- Championship AVI (C-AVI, 0-100): 48.1
+- Dynasty AVI (D-AVI, 0-100): 73.0
 - Projected PPR points: 95.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 42.8
+- Championship AVI (C-AVI, 0-100): 42.7
 - Dynasty AVI (D-AVI, 0-100): 68.4
 - Projected PPR points: 67.3
 - Category: offense
@@ -189,9 +189,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 96.0
+- Championship AVI (C-AVI, 0-100): 95.9
 - Dynasty AVI (D-AVI, 0-100): 93.3
-- Projected PPR points: 273.3
+- Projected PPR points: 273.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 94.1
-- Dynasty AVI (D-AVI, 0-100): 93.7
+- Championship AVI (C-AVI, 0-100): 93.7
+- Dynasty AVI (D-AVI, 0-100): 93.6
 - Projected PPR points: 257.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -223,9 +223,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 92.2
+- Championship AVI (C-AVI, 0-100): 92.0
 - Dynasty AVI (D-AVI, 0-100): 95.9
-- Projected PPR points: 248.5
+- Projected PPR points: 248.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -242,7 +242,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Age: 30.0
 - Championship AVI (C-AVI, 0-100): 62.2
 - Dynasty AVI (D-AVI, 0-100): 77.7
-- Projected PPR points: 175.4
+- Projected PPR points: 175.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -257,9 +257,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 52.2
+- Championship AVI (C-AVI, 0-100): 52.1
 - Dynasty AVI (D-AVI, 0-100): 74.6
-- Projected PPR points: 153.2
+- Projected PPR points: 153.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 34.6
-- Dynasty AVI (D-AVI, 0-100): 55.7
+- Championship AVI (C-AVI, 0-100): 34.3
+- Dynasty AVI (D-AVI, 0-100): 55.3
 - Projected PPR points: 89.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -308,7 +308,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 54.8
+- Championship AVI (C-AVI, 0-100): 54.9
 - Dynasty AVI (D-AVI, 0-100): 70.7
 - Projected PPR points: 133.5
 - Category: offense

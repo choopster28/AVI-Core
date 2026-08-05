@@ -3,8 +3,8 @@
 ## Data Authority and Retrieval Purpose
 
 - This file is the authoritative Autobots League historical trade ledger and manager-tendency source.
-- Coverage includes every verified completed trade supplied for the 2024, 2025 and 2026 league seasons.
-- Historical trades are used for league history, owner activity, trade-partner analysis, asset-flow analysis and manager tendencies.
+- Coverage includes every verified completed trade supplied for the 2024, 2025, and 2026 league seasons.
+- Historical trades are used for league history, owner activity, trade-partner analysis, asset-flow analysis, and manager tendencies.
 - Never use this file to determine current player ownership, current draft-pick ownership, or current AVI values.
 
 ## Permanent Preservation and Daily Update Policy
@@ -12,7 +12,7 @@
 - Preserve every existing verified transaction permanently.
 - Append only completed trades whose transaction_id is not already present.
 - Deduplicate exclusively by transaction_id.
-- Exclude waivers, free-agent moves, commissioner moves, failed transactions and non-trade activity.
+- Exclude waivers, free-agent moves, commissioner moves, failed transactions, and non-trade activity.
 - Recalculate all statistics and manager profiles from the complete ledger after every update.
 
 ## Archive Integrity Summary
@@ -31,43 +31,43 @@
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co. | awang1900 | **21** | 7 | 4 | 10 | 29 | 29 | 15 | 25 | 12 | 14 |
-| 2 | Big Balder Brand | Choopski | **19** | 7 | 2 | 10 | 28 | 30 | 11 | 15 | 6 | 9 |
-| 3 | Conquistadors | Thecan | **16** | 6 | 2 | 8 | 15 | 17 | 11 | 18 | 5 | 7 |
-| 4 | Northside Kings | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 16 | 9 | 6 | 5 |
-| 5 | Ravens Regime | Mentomorii | **14** | 3 | 3 | 8 | 12 | 17 | 15 | 10 | 9 | 7 |
-| 6 | DMV Fantasy | TacticsNoob | **11** | 5 | 2 | 4 | 17 | 13 | 10 | 4 | 5 | 3 |
-| 7 | Badland Banditos | IcebergSlim69 | **9** | 4 | 4 | 1 | 9 | 11 | 5 | 10 | 3 | 3 |
-| 8 | Mile High Royal Lions | shawnh56 | **9** | 0 | 8 | 1 | 9 | 12 | 11 | 11 | 3 | 5 |
-| 9 | Crimson Tide Pods | nickas | **6** | 0 | 1 | 5 | 9 | 7 | 10 | 4 | 5 | 2 |
-| 10 | Rapid Valley Annihilation | FuzzyRaptor | **6** | 0 | 3 | 3 | 9 | 10 | 11 | 5 | 5 | 1 |
-| 11 | All Hail King Jesus | Hofer51 | **5** | 0 | 4 | 1 | 6 | 3 | 3 | 8 | 1 | 2 |
-| 12 | Lightskin Legends ✊🏽 | MadDawgMatt | **5** | 2 | 3 | 0 | 5 | 3 | 3 | 5 | 0 | 1 |
-| 13 | SmokyValleyWheatWarriors | AlexPete6800 | **4** | 2 | 2 | 0 | 1 | 3 | 5 | 2 | 0 | 1 |
-| 14 | Gringo’s Goblins | Burnfaze | **1** | 0 | 0 | 1 | 3 | 3 | 1 | 1 | 1 | 0 |
-| 15 | Phalhala or Bust | PIFYAF | **1** | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 0 | 0 |
-| 16 | Southside Savages | GGEZGoNext | **1** | 0 | 1 | 0 | 1 | 0 | 0 | 2 | 0 | 1 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **21** | 7 | 4 | 10 | 29 | 29 | 4 | 10 | 4 | 5 |
+| 2 | Big Balder Brand | Choopski | **19** | 7 | 2 | 10 | 28 | 30 | 3 | 5 | 1 | 3 |
+| 3 | Conquistadors | Thecan | **16** | 6 | 2 | 8 | 15 | 17 | 5 | 7 | 3 | 3 |
+| 4 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 5 | 3 | 2 | 2 |
+| 5 | Ravens Regime  | Mentomorii | **14** | 3 | 3 | 8 | 12 | 17 | 2 | 4 | 2 | 4 |
+| 6 | DMV Fantasy | TacticsNoob | **11** | 5 | 2 | 4 | 17 | 13 | 6 | 3 | 3 | 2 |
+| 7 | Badland Banditos  | IcebergSlim69 | **9** | 4 | 4 | 1 | 9 | 11 | 3 | 2 | 1 | 0 |
+| 8 | Mile High Royal Lions | shawnh56 | **9** | 0 | 8 | 1 | 9 | 12 | 5 | 4 | 1 | 2 |
+| 9 | Crimson Tide Pods | nickas | **6** | 0 | 1 | 5 | 9 | 7 | 7 | 2 | 3 | 0 |
+| 10 | Rapid Valley Annihilation | FuzzyRaptor | **6** | 0 | 3 | 3 | 9 | 10 | 6 | 1 | 2 | 0 |
+| 11 | All Hail King Jesus | Hofer51 | **5** | 0 | 4 | 1 | 6 | 3 | 0 | 4 | 0 | 1 |
+| 12 | Lightskin Legends ✊🏽 | MadDawgMatt | **5** | 2 | 3 | 0 | 5 | 3 | 1 | 2 | 0 | 0 |
+| 13 | SmokyValleyWheatWarriors | AlexPete6800 | **4** | 2 | 2 | 0 | 1 | 3 | 2 | 2 | 0 | 1 |
+| 14 | Gringo’s Goblins  | Burnfaze | **1** | 0 | 0 | 1 | 3 | 3 | 1 | 1 | 1 | 0 |
+| 15 | Phalhala or Bust | PIFYAF | **1** | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| 16 | Southside Savages | GGEZGoNext | **1** | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
 
 ## Trade-Partner Matrix
 
 | Team | Most Frequent Partner(s) | Completed Trades |
 |---|---|---:|
 | All Hail King Jesus | Mile High Royal Lions | 2 |
-| Badland Banditos | DMV Fantasy | 2 |
+| Badland Banditos  | DMV Fantasy | 2 |
 | Big Balder Brand | DMV Fantasy | 6 |
-| Conquistadors | Northside Kings | 5 |
-| Corgi Loaf Baking Co. | Rapid Valley Annihilation, Ravens Regime, Big Balder Brand | 4 |
+| Conquistadors | Northside Kings  | 5 |
+| Corgi Loaf Baking Co.  | Rapid Valley Annihilation, Ravens Regime , Big Balder Brand | 4 |
 | Crimson Tide Pods | Conquistadors | 2 |
 | DMV Fantasy | Big Balder Brand | 6 |
-| Gringo’s Goblins | Big Balder Brand | 1 |
-| Lightskin Legends ✊🏽 | Conquistadors, Northside Kings, SmokyValleyWheatWarriors, Corgi Loaf Baking Co., Crimson Tide Pods | 1 |
-| Mile High Royal Lions | Northside Kings, All Hail King Jesus | 2 |
-| Northside Kings | Conquistadors | 5 |
-| Phalhala or Bust | Ravens Regime | 1 |
-| Rapid Valley Annihilation | Corgi Loaf Baking Co. | 4 |
-| Ravens Regime | Corgi Loaf Baking Co. | 4 |
+| Gringo’s Goblins  | Big Balder Brand | 1 |
+| Lightskin Legends ✊🏽 | Conquistadors, Northside Kings , SmokyValleyWheatWarriors, Corgi Loaf Baking Co. , Crimson Tide Pods | 1 |
+| Mile High Royal Lions | Northside Kings , All Hail King Jesus | 2 |
+| Northside Kings  | Conquistadors | 5 |
+| Phalhala or Bust | Ravens Regime  | 1 |
+| Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 4 |
+| Ravens Regime  | Corgi Loaf Baking Co.  | 4 |
 | SmokyValleyWheatWarriors | Conquistadors | 2 |
-| Southside Savages | Ravens Regime | 1 |
+| Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
 
@@ -77,7 +77,7 @@
 - Created at UTC: 2026-08-04T16:46:46.807000+00:00
 - Teams involved: 2
 
-#### Corgi Loaf Baking Co. (awang1900)
+#### Corgi Loaf Baking Co.  (awang1900)
 - Players received: None
 - Players sent: Ja'Kobi Lane
 - Picks received: 2027 Round 1 (original roster 12)
@@ -119,7 +119,7 @@
 - Picks received: None
 - Picks sent: None
 
-#### Corgi Loaf Baking Co. (awang1900)
+#### Corgi Loaf Baking Co.  (awang1900)
 - Players received: DJ Moore
 - Players sent: None
 - Picks received: None
@@ -137,7 +137,7 @@
 - Picks received: None
 - Picks sent: None
 
-#### Corgi Loaf Baking Co. (awang1900)
+#### Corgi Loaf Baking Co.  (awang1900)
 - Players received: Wan'Dale Robinson
 - Players sent: None
 - Picks received: None
@@ -149,13 +149,13 @@
 - Created at UTC: 2026-07-26T06:08:04.271000+00:00
 - Teams involved: 2
 
-#### Ravens Regime (Mentomorii)
+#### Ravens Regime  (Mentomorii)
 - Players received: Isaac TeSlaa, Kyle Pitts
 - Players sent: Tyler Warren
 - Picks received: None
 - Picks sent: 2028 Round 1 (original roster 3)
 
-#### Corgi Loaf Baking Co. (awang1900)
+#### Corgi Loaf Baking Co.  (awang1900)
 - Players received: Tyler Warren
 - Players sent: Isaac TeSlaa, Kyle Pitts
 - Picks received: 2028 Round 1 (original roster 3)
@@ -185,7 +185,7 @@
 - Created at UTC: 2026-07-24T20:43:10.843000+00:00
 - Teams involved: 2
 
-#### Corgi Loaf Baking Co. (awang1900)
+#### Corgi Loaf Baking Co.  (awang1900)
 - Players received: None
 - Players sent: Gunnar Helm, Jakobi Meyers
 - Picks received: None
@@ -257,13 +257,13 @@
 - Created at UTC: 2026-07-15T20:56:47.307000+00:00
 - Teams involved: 2
 
-#### Ravens Regime (Mentomorii)
+#### Ravens Regime  (Mentomorii)
 - Players received: Tyler Warren
 - Players sent: RJ Harvey, Bhayshul Tuten
 - Picks received: None
 - Picks sent: None
 
-#### Northside Kings (srsmith95)
+#### Northside Kings  (srsmith95)
 - Players received: RJ Harvey, Bhayshul Tuten
 - Players sent: Tyler Warren
 - Picks received: None
@@ -293,7 +293,7 @@
 - Created at UTC: 2026-07-14T23:26:58.825000+00:00
 - Teams involved: 2
 
-#### Ravens Regime (Mentomorii)
+#### Ravens Regime  (Mentomorii)
 - Players received: Jameson Williams
 - Players sent: George Kittle
 - Picks received: None
@@ -311,7 +311,7 @@
 - Created at UTC: 2026-07-13T18:44:38.827000+00:00
 - Teams involved: 2
 
-#### Ravens Regime (Mentomorii)
+#### Ravens Regime  (Mentomorii)
 - Players received: Derrick Henry
 - Players sent: Isiah Pacheco
 - Picks received: None
@@ -353,7 +353,7 @@
 - Picks received: 2027 Round 1 (original roster 11), 2028 Round 1 (original roster 11)
 - Picks sent: None
 
-#### Corgi Loaf Baking Co. (awang1900)
+#### Corgi Loaf Baking Co.  (awang1900)
 - Players received: None
 - Players sent: None
 - Picks received: None
@@ -371,7 +371,7 @@
 - Picks received: 2027 Round 2 (original roster 15)
 - Picks sent: 2027 Round 1 (original roster 9)
 
-#### Gringo’s Goblins (Burnfaze)
+#### Gringo’s Goblins  (Burnfaze)
 - Players received: Tre' Harris, Emeka Egbuka, Kyren Williams
 - Players sent: Omarion Hampton, Chris Godwin, A.J. Brown
 - Picks received: 2027 Round 1 (original roster 9)
@@ -389,7 +389,7 @@
 - Picks received: None
 - Picks sent: 2028 Round 2 (original roster 1), 2027 Round 1 (original roster 10)
 
-#### Northside Kings (srsmith95)
+#### Northside Kings  (srsmith95)
 - Players received: Malik Washington, Mike Evans
 - Players sent: Matthew Golden
 - Picks received: 2028 Round 2 (original roster 1)
@@ -413,7 +413,7 @@
 - Picks received: 2027 Round 1 (original roster 10)
 - Picks sent: None
 
-#### Ravens Regime (Mentomorii)
+#### Ravens Regime  (Mentomorii)
 - Players received: Kyle Monangai
 - Players sent: Alec Pierce
 - Picks received: None
@@ -443,7 +443,7 @@
 - Created at UTC: 2026-06-24T19:33:48.082000+00:00
 - Teams involved: 2
 
-#### Badland Banditos (IcebergSlim69)
+#### Badland Banditos  (IcebergSlim69)
 - Players received: Kenneth Walker
 - Players sent: Chris Rodriguez
 - Picks received: 2027 Round 3 (original roster 16)
@@ -467,7 +467,7 @@
 - Picks received: 2027 Round 2 (original roster 11)
 - Picks sent: None
 
-#### Corgi Loaf Baking Co. (awang1900)
+#### Corgi Loaf Baking Co.  (awang1900)
 - Players received: Kyle Pitts
 - Players sent: Quentin Johnston
 - Picks received: None
@@ -485,7 +485,7 @@
 - Picks received: None
 - Picks sent: None
 
-#### Corgi Loaf Baking Co. (awang1900)
+#### Corgi Loaf Baking Co.  (awang1900)
 - Players received: D'Andre Swift, Justin Jefferson, Christian Watson
 - Players sent: Rashee Rice, Emeka Egbuka, Kyren Williams
 - Picks received: None
@@ -497,13 +497,13 @@
 - Created at UTC: 2026-05-26T23:18:30.592000+00:00
 - Teams involved: 2
 
-#### Northside Kings (srsmith95)
+#### Northside Kings  (srsmith95)
 - Players received: Brian Robinson
 - Players sent: Tyrone Tracy
 - Picks received: 2027 Round 4 (original roster 11)
 - Picks sent: None
 
-#### Corgi Loaf Baking Co. (awang1900)
+#### Corgi Loaf Baking Co.  (awang1900)
 - Players received: Tyrone Tracy
 - Players sent: Brian Robinson
 - Picks received: None
@@ -515,7 +515,7 @@
 - Created at UTC: 2026-05-04T05:37:25.638000+00:00
 - Teams involved: 2
 
-#### Ravens Regime (Mentomorii)
+#### Ravens Regime  (Mentomorii)
 - Players received: Romeo Doubs
 - Players sent: Michael Wilson
 - Picks received: None
@@ -539,7 +539,7 @@
 - Picks received: 2027 Round 1 (original roster 4), 2027 Round 1 (original roster 5)
 - Picks sent: 2027 Round 1 (original roster 1), 2027 Round 3 (original roster 1)
 
-#### Northside Kings (srsmith95)
+#### Northside Kings  (srsmith95)
 - Players received: Xavier Worthy
 - Players sent: None
 - Picks received: 2027 Round 1 (original roster 1), 2027 Round 3 (original roster 1)
@@ -551,7 +551,7 @@
 - Created at UTC: 2026-01-05T14:23:25.838000+00:00
 - Teams involved: 2
 
-#### Ravens Regime (Mentomorii)
+#### Ravens Regime  (Mentomorii)
 - Players received: Zay Flowers
 - Players sent: Mike Evans, Joe Mixon
 - Picks received: None
@@ -569,13 +569,13 @@
 - Created at UTC: 2025-12-31T22:36:06.335000+00:00
 - Teams involved: 2
 
-#### Ravens Regime (Mentomorii)
+#### Ravens Regime  (Mentomorii)
 - Players received: Lamar Jackson
 - Players sent: Tyler Shough, Patrick Mahomes
 - Picks received: None
 - Picks sent: 2027 Round 1 (original roster 11)
 
-#### Corgi Loaf Baking Co. (awang1900)
+#### Corgi Loaf Baking Co.  (awang1900)
 - Players received: Tyler Shough, Patrick Mahomes
 - Players sent: Lamar Jackson
 - Picks received: 2027 Round 1 (original roster 11)
@@ -611,7 +611,7 @@
 - Picks received: None
 - Picks sent: None
 
-#### Steven (srsmith95)
+#### Steven  (srsmith95)
 - Players received: Zonovan Knight
 - Players sent: J.K. Dobbins
 - Picks received: None
@@ -659,13 +659,13 @@
 - Created at UTC: 2025-10-17T03:27:22.579000+00:00
 - Teams involved: 2
 
-#### Steven (srsmith95)
+#### Steven  (srsmith95)
 - Players received: Tyrone Tracy
 - Players sent: Kaleb Johnson
 - Picks received: None
 - Picks sent: None
 
-#### What tf is a draft pick (awang1900)
+#### What tf is a draft pick  (awang1900)
 - Players received: Kaleb Johnson
 - Players sent: Tyrone Tracy
 - Picks received: None
@@ -701,7 +701,7 @@
 - Picks received: None
 - Picks sent: None
 
-#### Steven (srsmith95)
+#### Steven  (srsmith95)
 - Players received: Tyler Warren
 - Players sent: Zach Ertz
 - Picks received: None
@@ -731,7 +731,7 @@
 - Created at UTC: 2025-10-14T13:41:38.425000+00:00
 - Teams involved: 2
 
-#### Dakota Danglers (IcebergSlim69)
+#### Dakota Danglers  (IcebergSlim69)
 - Players received: None
 - Players sent: Derrick Henry
 - Picks received: 2027 Round 1 (original roster 8)
@@ -755,7 +755,7 @@
 - Picks received: 2027 Round 1 (original roster 10), 2027 Round 1 (original roster 11)
 - Picks sent: None
 
-#### What tf is a draft pick (awang1900)
+#### What tf is a draft pick  (awang1900)
 - Players received: Emeka Egbuka
 - Players sent: None
 - Picks received: None
@@ -809,7 +809,7 @@
 - Picks received: 2027 Round 3 (original roster 7)
 - Picks sent: 2027 Round 4 (original roster 2)
 
-#### Dakota Danglers (IcebergSlim69)
+#### Dakota Danglers  (IcebergSlim69)
 - Players received: Keenan Allen
 - Players sent: Tory Horton
 - Picks received: 2027 Round 4 (original roster 2)
@@ -839,13 +839,13 @@
 - Created at UTC: 2025-09-20T12:19:54.741000+00:00
 - Teams involved: 2
 
-#### Steven (srsmith95)
+#### Steven  (srsmith95)
 - Players received: Jerome Ford
 - Players sent: Trey Benson
 - Picks received: None
 - Picks sent: None
 
-#### Dakota Danglers (IcebergSlim69)
+#### Dakota Danglers  (IcebergSlim69)
 - Players received: Trey Benson
 - Players sent: Jerome Ford
 - Picks received: None
@@ -863,7 +863,7 @@
 - Picks received: None
 - Picks sent: 2027 Round 1 (original roster 10)
 
-#### What tf is a draft pick (awang1900)
+#### What tf is a draft pick  (awang1900)
 - Players received: Kyren Williams
 - Players sent: Christian McCaffrey
 - Picks received: 2027 Round 1 (original roster 10)
@@ -914,14 +914,14 @@
 #### FuzzyRaptor (FuzzyRaptor)
 - Players received: Caleb Williams, DJ Moore, Najee Harris, Kyle Pitts, Garrett Wilson
 - Players sent: Rashee Rice, David Njoku, Christian McCaffrey, Lamar Jackson, Jakobi Meyers
-- Picks received: 2025 Round 3 (original roster 11), 2025 Round 1 (original roster 9)
-- Picks sent: 2025 Round 2 (original roster 2)
+- Picks received: None
+- Picks sent: None
 
-#### What tf is a draft pick (awang1900)
+#### What tf is a draft pick  (awang1900)
 - Players received: Rashee Rice, David Njoku, Christian McCaffrey, Lamar Jackson, Jakobi Meyers
 - Players sent: Caleb Williams, DJ Moore, Najee Harris, Kyle Pitts, Garrett Wilson
-- Picks received: 2025 Round 2 (original roster 2)
-- Picks sent: 2025 Round 3 (original roster 11), 2025 Round 1 (original roster 9)
+- Picks received: None
+- Picks sent: None
 
 ### TRADE: 1248757479739772928
 - Season: 2025
@@ -932,14 +932,14 @@
 #### Dijon Bijan (Thecan)
 - Players received: George Pickens, Bijan Robinson
 - Players sent: Amon-Ra St. Brown, Zach Charbonnet
-- Picks received: 2025 Round 3 (original roster 8)
-- Picks sent: 2025 Round 2 (original roster 1)
+- Picks received: None
+- Picks sent: None
 
 #### Tucker Kraft Mac & Cheese (Hofer51)
 - Players received: Amon-Ra St. Brown, Zach Charbonnet
 - Players sent: George Pickens, Bijan Robinson
-- Picks received: 2025 Round 2 (original roster 1)
-- Picks sent: 2025 Round 3 (original roster 8)
+- Picks received: None
+- Picks sent: None
 
 ### TRADE: 1248747723956420608
 - Season: 2025
@@ -950,14 +950,14 @@
 #### Captain Jahmyrica (shawnh56)
 - Players received: Jaelan Phillips
 - Players sent: T.J. Watt
-- Picks received: 2025 Round 3 (original roster 7), 2027 Round 2 (original roster 7)
+- Picks received: 2027 Round 2 (original roster 7)
 - Picks sent: None
 
-#### Dakota Danglers (IcebergSlim69)
+#### Dakota Danglers  (IcebergSlim69)
 - Players received: T.J. Watt
 - Players sent: Jaelan Phillips
 - Picks received: None
-- Picks sent: 2025 Round 3 (original roster 7), 2027 Round 2 (original roster 7)
+- Picks sent: 2027 Round 2 (original roster 7)
 
 ### TRADE: 1248403594567221248
 - Season: 2025
@@ -969,12 +969,12 @@
 - Players received: Justin Jefferson
 - Players sent: Stefon Diggs
 - Picks received: None
-- Picks sent: 2025 Round 1 (original roster 4), 2025 Round 2 (original roster 4), 2027 Round 1 (original roster 4)
+- Picks sent: 2027 Round 1 (original roster 4)
 
-#### Steven (srsmith95)
+#### Steven  (srsmith95)
 - Players received: Stefon Diggs
 - Players sent: Justin Jefferson
-- Picks received: 2025 Round 1 (original roster 4), 2025 Round 2 (original roster 4), 2027 Round 1 (original roster 4)
+- Picks received: 2027 Round 1 (original roster 4)
 - Picks sent: None
 
 ### TRADE: 1164036281635553280
@@ -1004,14 +1004,14 @@
 #### King Shitter ‘24 (Choopski)
 - Players received: Jaylen Waddle, Nico Collins
 - Players sent: Malik Nabers, Tank Dell
-- Picks received: 2025 Round 2 (original roster 11)
-- Picks sent: 2025 Round 1 (original roster 9)
+- Picks received: None
+- Picks sent: None
 
 #### Dimes -> Pennies (awang1900)
 - Players received: Malik Nabers, Tank Dell
 - Players sent: Jaylen Waddle, Nico Collins
-- Picks received: 2025 Round 1 (original roster 9)
-- Picks sent: 2025 Round 2 (original roster 11)
+- Picks received: None
+- Picks sent: None
 
 ### TRADE: 1162999300940754944
 - Season: 2024
@@ -1040,14 +1040,14 @@
 #### Epstein Island (MadDawgMatt)
 - Players received: Mike Evans
 - Players sent: Tony Pollard
-- Picks received: 2025 Round 4 (original roster 11)
+- Picks received: None
 - Picks sent: None
 
 #### Dimes -> Pennies (awang1900)
 - Players received: Tony Pollard
 - Players sent: Mike Evans
 - Picks received: None
-- Picks sent: 2025 Round 4 (original roster 11)
+- Picks sent: None
 
 ### TRADE: 1162817423989579776
 - Season: 2024
@@ -1076,14 +1076,14 @@
 #### SpiritFingerz (JtotheLoe)
 - Players received: None
 - Players sent: Nico Collins
-- Picks received: 2025 Round 1 (original roster 1), 2025 Round 1 (original roster 11), 2025 Round 1 (original roster 5)
+- Picks received: None
 - Picks sent: None
 
 #### Dimes -> Pennies (awang1900)
 - Players received: Nico Collins
 - Players sent: None
 - Picks received: None
-- Picks sent: 2025 Round 1 (original roster 1), 2025 Round 1 (original roster 11), 2025 Round 1 (original roster 5)
+- Picks sent: None
 
 ### TRADE: 1157162294821015552
 - Season: 2024
@@ -1094,14 +1094,14 @@
 #### SpiritFingerz (JtotheLoe)
 - Players received: None
 - Players sent: T.J. Hockenson
-- Picks received: 2025 Round 8 (original roster 5)
+- Picks received: None
 - Picks sent: None
 
 #### Steven (srsmith95)
 - Players received: T.J. Hockenson
 - Players sent: None
 - Picks received: None
-- Picks sent: 2025 Round 8 (original roster 5)
+- Picks sent: None
 
 ### TRADE: 1157092596322459648
 - Season: 2024
@@ -1112,14 +1112,14 @@
 #### Steven (srsmith95)
 - Players received: None
 - Players sent: Jonathan Taylor
-- Picks received: 2025 Round 1 (original roster 6)
+- Picks received: None
 - Picks sent: None
 
 #### Epstein Island (MadDawgMatt)
 - Players received: Jonathan Taylor
 - Players sent: None
 - Picks received: None
-- Picks sent: 2025 Round 1 (original roster 6)
+- Picks sent: None
 
 ### TRADE: 1157088902600163328
 - Season: 2024
@@ -1131,12 +1131,12 @@
 - Players received: Chris Godwin
 - Players sent: None
 - Picks received: None
-- Picks sent: 2025 Round 3 (original roster 1)
+- Picks sent: None
 
 #### Murray had a little Lamb (AlexPete6800)
 - Players received: None
 - Players sent: Chris Godwin
-- Picks received: 2025 Round 3 (original roster 1)
+- Picks received: None
 - Picks sent: None
 
 ### TRADE: 1157087194486693888
@@ -1149,12 +1149,12 @@
 - Players received: Keon Coleman, Breece Hall
 - Players sent: Nick Chubb, Garrett Wilson
 - Picks received: None
-- Picks sent: 2025 Round 1 (original roster 11)
+- Picks sent: None
 
 #### Dimes -> Pennies (awang1900)
 - Players received: Nick Chubb, Garrett Wilson
 - Players sent: Keon Coleman, Breece Hall
-- Picks received: 2025 Round 1 (original roster 11)
+- Picks received: None
 - Picks sent: None
 
 ### TRADE: 1153098937969037312
@@ -1167,12 +1167,12 @@
 - Players received: Josh Allen, DK Metcalf
 - Players sent: Mike Evans, Jordan Mason
 - Picks received: None
-- Picks sent: 2025 Round 1 (original roster 1), 2025 Round 1 (original roster 5)
+- Picks sent: None
 
 #### Dimes -> Pennies (awang1900)
 - Players received: Mike Evans, Jordan Mason
 - Players sent: Josh Allen, DK Metcalf
-- Picks received: 2025 Round 1 (original roster 1), 2025 Round 1 (original roster 5)
+- Picks received: None
 - Picks sent: None
 
 ### TRADE: 1152887033396948992
@@ -1184,14 +1184,14 @@
 #### Steven (srsmith95)
 - Players received: Geno Smith
 - Players sent: Baker Mayfield
-- Picks received: 2025 Round 2 (original roster 9)
+- Picks received: None
 - Picks sent: None
 
 #### King Shitter ‘24 (Choopski)
 - Players received: Baker Mayfield
 - Players sent: Geno Smith
 - Picks received: None
-- Picks sent: 2025 Round 2 (original roster 9)
+- Picks sent: None
 
 ### TRADE: 1146996720082169856
 - Season: 2024
@@ -1202,14 +1202,14 @@
 #### Amon the Run (Thecan)
 - Players received: None
 - Players sent: Isaiah Likely, De'Von Achane
-- Picks received: 2025 Round 1 (original roster 5)
+- Picks received: None
 - Picks sent: None
 
 #### Steven (srsmith95)
 - Players received: Isaiah Likely, De'Von Achane
 - Players sent: None
 - Picks received: None
-- Picks sent: 2025 Round 1 (original roster 5)
+- Picks sent: None
 
 ### TRADE: 1145377223436906496
 - Season: 2024
@@ -1310,14 +1310,14 @@
 #### SpiritFingerz (JtotheLoe)
 - Players received: Calvin Ridley, Marquise Brown
 - Players sent: Malik Nabers
-- Picks received: 2025 Round 2 (original roster 7)
+- Picks received: None
 - Picks sent: None
 
 #### Dakota Danglers (IcebergSlim69)
 - Players received: Malik Nabers
 - Players sent: Calvin Ridley, Marquise Brown
 - Picks received: None
-- Picks sent: 2025 Round 2 (original roster 7)
+- Picks sent: None
 
 ### TRADE: 1137052108274458624
 - Season: 2024
@@ -1328,14 +1328,14 @@
 #### King Shitter ‘24 (Choopski)
 - Players received: James Conner, Tank Dell
 - Players sent: A.J. Brown
-- Picks received: 2025 Round 1 (original roster 11)
+- Picks received: None
 - Picks sent: None
 
 #### Dimes -> Pennies (awang1900)
 - Players received: A.J. Brown
 - Players sent: James Conner, Tank Dell
 - Picks received: None
-- Picks sent: 2025 Round 1 (original roster 11)
+- Picks sent: None
 
 ### TRADE: 1134133004517064704
 - Season: 2024

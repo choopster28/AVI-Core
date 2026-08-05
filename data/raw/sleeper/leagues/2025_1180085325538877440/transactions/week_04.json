@@ -389,6 +389,14 @@
         "previous_owner_id": 6,
         "roster_id": 6,
         "round": 2,
+        "season": "2026"
+      },
+      {
+        "league_id": null,
+        "owner_id": 16,
+        "previous_owner_id": 6,
+        "roster_id": 6,
+        "round": 2,
         "season": "2027"
       }
     ],
