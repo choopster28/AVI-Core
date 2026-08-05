@@ -3338,6 +3338,31 @@
   {
     "active": true,
     "aliases": [
+      "Elijah Mitchell"
+    ],
+    "avi_id": "AVI-00007561",
+    "canonical_name": "Elijah Mitchell",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "PHI",
+    "normalized_name": "elijah mitchell",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 22535,
+      "fantasypros_id": "22813",
+      "nfl_id": "2566538",
+      "rotowire_id": 15379,
+      "sleeper_id": "7561",
+      "sportradar_id": "8ba68abf-e9d2-4927-bf8d-476f271d840c",
+      "sportsdata_player_id": "8ba68abf-e9d2-4927-bf8d-476f271d840c"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Elijah Sarratt"
     ],
     "avi_id": "AVI-00013268",
@@ -8710,31 +8735,6 @@
       "sleeper_id": "8136",
       "sportradar_id": "4d3f2f57-215c-4cb4-bf75-a7ecdcdded70",
       "sportsdata_player_id": "4d3f2f57-215c-4cb4-bf75-a7ecdcdded70"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Raheem Mostert"
-    ],
-    "avi_id": "AVI-00002749",
-    "canonical_name": "Raheem Mostert",
-    "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
-    },
-    "nfl_team": "LVR",
-    "normalized_name": "raheem mostert",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": 2576414,
-      "fantasy_data_id": 17217,
-      "fantasypros_id": "14338",
-      "nfl_id": "2553728",
-      "rotowire_id": 10604,
-      "sleeper_id": "2749",
-      "sportradar_id": "b040e601-ec40-4757-bf3d-71bf64ef99cf",
-      "sportsdata_player_id": "b040e601-ec40-4757-bf3d-71bf64ef99cf"
     }
   },
   {

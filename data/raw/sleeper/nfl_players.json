@@ -2795,7 +2795,7 @@
       "genius_id": "1398981",
       "rookie_year": "2023"
     },
-    "news_updated": 1785943838486,
+    "news_updated": 1785946837959,
     "number": 4,
     "oddsjam_id": "D5BE2AF21C8F",
     "opta_id": null,
@@ -34929,10 +34929,10 @@
     "hashtag": "#benvansumeren-NFL-BUF-45",
     "height": "74",
     "high_school": "Garber (MI)",
-    "injury_body_part": "Knee",
-    "injury_notes": "Surgery",
+    "injury_body_part": null,
+    "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "5b240133-a00f-4744-9dc6-3953c318c8ee",
     "last_name": "VanSumeren",
     "metadata": {
@@ -55371,7 +55371,7 @@
       "genius_id": "1463731",
       "rookie_year": "2024"
     },
-    "news_updated": 1785354311467,
+    "news_updated": 1785949541144,
     "number": 32,
     "oddsjam_id": "BB0614A43AA9",
     "opta_id": null,
@@ -58245,7 +58245,7 @@
       "genius_id": "1463654",
       "rookie_year": "2024"
     },
-    "news_updated": 1785944738254,
+    "news_updated": 1785947138184,
     "number": 1,
     "oddsjam_id": "BE9B03378DEB",
     "opta_id": null,
@@ -110960,7 +110960,7 @@
       "genius_id": "1483747",
       "rookie_year": "2024"
     },
-    "news_updated": 1785828916527,
+    "news_updated": 1785945938266,
     "number": 26,
     "oddsjam_id": "5125786282BA",
     "opta_id": null,
@@ -132820,10 +132820,10 @@
     "hashtag": "#kitancrawford-NFL-ARI-36",
     "height": "71",
     "high_school": "Tyler (TX)",
-    "injury_body_part": "Ankle",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "b9457f50-4c64-4c27-a765-55f5c3f76f69",
     "last_name": "Crawford",
     "metadata": {
@@ -154163,7 +154163,7 @@
     "first_name": "Junior",
     "full_name": "Junior Tafuna",
     "gsis_id": null,
-    "hashtag": "#juniortafuna-NFL-HOU-53",
+    "hashtag": "#juniortafuna-NFL-FA-53",
     "height": "75",
     "high_school": "Bingham (UT)",
     "injury_body_part": null,
@@ -154198,7 +154198,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": null,
-    "team": "HOU",
+    "team": null,
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "305",
@@ -169700,7 +169700,7 @@
       "rookie_year": "2026",
       "source_id": "34ee4830-92c4-11ed-8165-1b7b8311cdae"
     },
-    "news_updated": 1785943838472,
+    "news_updated": 1785949541117,
     "number": 4,
     "oddsjam_id": null,
     "opta_id": null,
@@ -170126,7 +170126,7 @@
       "rookie_year": "2026",
       "source_id": "6567cbc0-9eaf-11ed-b23c-b1b7c283bdf7"
     },
-    "news_updated": 1785876608695,
+    "news_updated": 1785946537907,
     "number": 6,
     "oddsjam_id": null,
     "opta_id": null,
@@ -170187,7 +170187,7 @@
       "rookie_year": "2026",
       "source_id": "9c697f40-9ea7-11ed-b23c-b1b7c283bdf7"
     },
-    "news_updated": 1785860118653,
+    "news_updated": 1785947738566,
     "number": 9,
     "oddsjam_id": null,
     "opta_id": null,
@@ -176449,7 +176449,7 @@
       "rookie_year": "2026",
       "source_id": "03560ef0-84a3-11ec-a2e6-affc80bcd2fc"
     },
-    "news_updated": 1781191224417,
+    "news_updated": 1785948040918,
     "number": 52,
     "oddsjam_id": null,
     "opta_id": null,
@@ -457921,7 +457921,7 @@
       "genius_id": "1009133",
       "rookie_year": "2018"
     },
-    "news_updated": 1785522632995,
+    "news_updated": 1785948940938,
     "number": 14,
     "oddsjam_id": "8EC2956310D2",
     "opta_id": null,
@@ -619548,7 +619548,7 @@
       "genius_id": "1014929",
       "rookie_year": "2021"
     },
-    "news_updated": 1785940237678,
+    "news_updated": 1785947738118,
     "number": 6,
     "oddsjam_id": "202FEEE3D21E",
     "opta_id": null,
@@ -619609,7 +619609,7 @@
       "genius_id": "1081537",
       "rookie_year": "2021"
     },
-    "news_updated": 1785632147386,
+    "news_updated": 1785945938130,
     "number": 17,
     "oddsjam_id": "100F669A3109",
     "opta_id": null,
@@ -660401,7 +660401,7 @@
       "genius_id": "1075390",
       "rookie_year": "2022"
     },
-    "news_updated": 1785532234175,
+    "news_updated": 1785945938268,
     "number": 12,
     "oddsjam_id": "016969998F62",
     "opta_id": null,
@@ -669515,7 +669515,7 @@
       "genius_id": "1076543",
       "rookie_year": "2022"
     },
-    "news_updated": 1785900328459,
+    "news_updated": 1785947439703,
     "number": 15,
     "oddsjam_id": "069EC9199599",
     "opta_id": null,
@@ -717072,7 +717072,7 @@
       "genius_id": "1399007",
       "rookie_year": "2023"
     },
-    "news_updated": 1785696355806,
+    "news_updated": 1785949541132,
     "number": 85,
     "oddsjam_id": "0B9936044BCF",
     "opta_id": null,
@@ -718337,7 +718337,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2023"
     },
-    "news_updated": 1785944438236,
+    "news_updated": 1785945639995,
     "number": 1,
     "oddsjam_id": "D2BEC2F1C55E",
     "opta_id": null,
@@ -720822,7 +720822,7 @@
       "injury_override_regular_2025_8": "IR",
       "rookie_year": "2023"
     },
-    "news_updated": 1785351911493,
+    "news_updated": 1785947740636,
     "number": 5,
     "oddsjam_id": "68C54A8E27D7",
     "opta_id": null,
@@ -722505,7 +722505,7 @@
       "genius_id": "1398595",
       "rookie_year": "2023"
     },
-    "news_updated": 1785860118630,
+    "news_updated": 1785948038079,
     "number": 4,
     "oddsjam_id": "F39E10BEE1F4",
     "opta_id": null,

@@ -6,6 +6,253 @@
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
+        "News"
+      ],
+      "created": "2026-08-05 17:10:10",
+      "created_formated": "Wed, Aug 5th 5:10pm UTC",
+      "desc": "The 49ers signed WR KhaDarel Hodge. ",
+      "id": 600565,
+      "impact": "Hodge appeared in 12 games with the Falcons last season. He will compete for a depth role in the wide receiver room for San Francisco. ",
+      "link": "https://www.fantasypros.com/nfl/news/600565/khadarel-hodge-signs-with-49ers.php",
+      "player_id": 18166,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "KhaDarel Hodge signs with 49ers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-05 17:06:24",
+      "created_formated": "Wed, Aug 5th 5:06pm UTC",
+      "desc": "Rashee Rice was able to progress to taking part in 11-on-11 drills at practice on Wednesday. ",
+      "id": 600563,
+      "impact": "Rice has been recovering from arthroscopic surgery on his right knee in May. He was able to participate in 11-on-11 drills for the first time in camp as he continues to progress in the right direction. ",
+      "link": "https://www.fantasypros.com/nfl/news/600563/rashee-rice-knee-takes-part-11-on-11-drills-wednesday.php",
+      "player_id": 23113,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "Rashee Rice (knee) takes part in 11-on-11 drills Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-05 17:04:01",
+      "created_formated": "Wed, Aug 5th 5:04pm UTC",
+      "desc": "Cardinals coach Mike LaFleur told reporters that rookie RB Jeremiyah Love will not play in the Hall of Fame game on Thursday against the Panthers. ",
+      "id": 600562,
+      "impact": "We will have to wait a little longer to see the star rookie play. Love should see some action in the other three preseason games. ",
+      "link": "https://www.fantasypros.com/nfl/news/600562/jeremiyah-love-will-not-play-hall-fame-game-thursday.php",
+      "player_id": 25403,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Jeremiyah Love will not play in Hall of Fame game Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-05 17:01:38",
+      "created_formated": "Wed, Aug 5th 5:01pm UTC",
+      "desc": "Packers OC Adam Stenavich told reporters he is hopeful Tucker Kraft will be good to go for Week 1. ",
+      "id": 600561,
+      "impact": "Kraft is expected to participate in a joint practice later in August. His status will need to continue to be monitored in training camp over the next few weeks. ",
+      "link": "https://www.fantasypros.com/nfl/news/600561/tucker-kraft-knee-hopeful-week-1-per-packers-oc.php",
+      "player_id": 25298,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Tucker Kraft (knee) hopeful for Week 1 per Packers OC"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-05 17:00:03",
+      "created_formated": "Wed, Aug 5th 5:00pm UTC",
+      "desc": "Packers OC Adam Stenavich confirmed that MarShawn Lloyd will play in the preseason. ",
+      "id": 600559,
+      "impact": "Stenavich said every day Lloyd is able to practice, he gets more confident his injury issues are fully behind him. He is competing the backup role in the Packers backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/600559/marshawn-lloyd-will-play-preseason.php",
+      "player_id": 23118,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "MarShawn Lloyd will play in preseason"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-05 16:49:23",
+      "created_formated": "Wed, Aug 5th 4:49pm UTC",
+      "desc": "Courtland Sutton was not in uniform at practice on Wednesday. ",
+      "id": 600558,
+      "impact": "Sutton also did not practice on Wednesday. It is unclear if he is dealing with any injury or just getting a couple of load management days off. There should be an update provided on his status when available. ",
+      "link": "https://www.fantasypros.com/nfl/news/600558/courtland-sutton-not-uniform-practice-wednesday.php",
+      "player_id": 17253,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Courtland Sutton not in uniform at practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-05 16:36:44",
+      "created_formated": "Wed, Aug 5th 4:36pm UTC",
+      "desc": "Christen Miller was limited in practice on Wednesday. ",
+      "id": 600557,
+      "impact": "Miller is battling a toe injury. He was still able to practice in limited fashion. ",
+      "link": "https://www.fantasypros.com/nfl/news/600557/christen-miller-toe-limited-practice-wednesday.php",
+      "player_id": 27955,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Christen Miller (toe) limited in practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-05 16:32:19",
+      "created_formated": "Wed, Aug 5th 4:32pm UTC",
+      "desc": "Kendre Miller was limited in practice at Saints training camp on Wednesday. ",
+      "id": 600556,
+      "impact": "Miller is managing a back injury. He continues to compete for the RB3 role in the Saints backfield behind Travis Etienne and Alvin Kamara. ",
+      "link": "https://www.fantasypros.com/nfl/news/600556/kendre-miller-back-limited-practice-wednesday.php",
+      "player_id": 24360,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Kendre Miller (back) limited in practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-05 16:28:21",
+      "created_formated": "Wed, Aug 5th 4:28pm UTC",
+      "desc": "Nik Bonitto did not practice on Wednesday. ",
+      "id": 600555,
+      "impact": "Bonitto was at Broncos practice, but he didn't participate. He avoided a serious leg injury in practice earlier this week. ",
+      "link": "https://www.fantasypros.com/nfl/news/600555/nik-bonitto-leg-does-not-practice-wednesday.php",
+      "player_id": 23763,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Nik Bonitto (leg) does not practice Wednesday "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-05 15:56:49",
+      "created_formated": "Wed, Aug 5th 3:56pm UTC",
+      "desc": "Tank Dell will participate in the padded portion of practice on Wednesday for the first time since his injury.",
+      "id": 600546,
+      "impact": "It's a big step for Dell, who is working his way back from the awful injury he sustained in 2024. Hopefully everything goes well and fantasy managers continue to see him build confidence and value.",
+      "link": "https://www.fantasypros.com/nfl/news/600546/tank-dell-to-participate-padded-practice-on-wednesday.php",
+      "player_id": 25361,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Tank Dell to participate in padded practice on Wednesday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-05 14:29:53",
+      "created_formated": "Wed, Aug 5th 2:29pm UTC",
+      "desc": "Jalon Walker is confirmed to have torn his ACL during the Falcons' Tuesday practice.",
+      "id": 600540,
+      "impact": "Walker will now miss out on the entire 2026 season. For now, Azeez Ojulari stands to benefit from Walker's absence in the starting rotation. But another name could emerge as camp rolls on.",
+      "link": "https://www.fantasypros.com/nfl/news/600540/jalon-walker-confirmed-to-have-torn-acl.php",
+      "player_id": 27027,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Jalon Walker confirmed to have torn ACL"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-05 08:07:51",
+      "created_formated": "Wed, Aug 5th 8:07am UTC",
+      "desc": "The Texans signed WR Montrell Washington. ",
+      "id": 600506,
+      "impact": "Washington had a successful workout for Houston. He will compete for a depth role in its wide receiver room and on special teams. ",
+      "link": "https://www.fantasypros.com/nfl/news/600506/montrell-washington-signs-with-texans.php",
+      "player_id": 24554,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Montrell Washington signs with Texans "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-05 08:06:35",
+      "created_formated": "Wed, Aug 5th 8:06am UTC",
+      "desc": "DJ Giddens did not practice on Tuesday due to a hamstring injury. ",
+      "id": 600505,
+      "impact": "Giddens is competing for a depth role in the Colts backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/600505/dj-giddens-hamstring-misses-practice-tuesday.php",
+      "player_id": 27097,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "DJ Giddens (hamstring) misses practice Tuesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-05 08:05:29",
+      "created_formated": "Wed, Aug 5th 8:05am UTC",
+      "desc": "Xavier Legette will not play in the Hall of Fame game on Thursday against the Cardinals. ",
+      "id": 600504,
+      "impact": "Legette left practice early on Tuesday, but he was cleared for a concussion. He did suffer a stinger. ",
+      "link": "https://www.fantasypros.com/nfl/news/600504/xavier-legette-will-not-play-hall-fame-game-thursday.php",
+      "player_id": 26136,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Xavier Legette will not play in Hall of Fame game Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
         "News",
         "Injury"
       ],
@@ -191,250 +438,6 @@
       "sport_id": "NFL",
       "team_id": "FA",
       "title": "LaBryan Ray retires from NFL"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-05 07:50:27",
-      "created_formated": "Wed, Aug 5th 7:50am UTC",
-      "desc": "The Panthers signed WR Elijah Cooks.",
-      "id": 600492,
-      "impact": "Cooks spent the spring in the UFL. He will compete for a depth role in the Panthers wide receiver room. ",
-      "link": "https://www.fantasypros.com/nfl/news/600492/elijah-cooks-signs-with-panthers.php",
-      "player_id": 25604,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Elijah Cooks signs with Panthers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-05 07:49:24",
-      "created_formated": "Wed, Aug 5th 7:49am UTC",
-      "desc": "The Panthers signed WR Roc Taylor.",
-      "id": 600491,
-      "impact": "Taylor spent the spring in the UFL. He will compete for a depth role in the Panthers wide receiver room. ",
-      "link": "https://www.fantasypros.com/nfl/news/600491/roc-taylor-signs-with-panthers.php",
-      "player_id": 27455,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Roc Taylor signs with Panthers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-05 07:48:10",
-      "created_formated": "Wed, Aug 5th 7:48am UTC",
-      "desc": "The Panthers waived-injured WR Ainias Smith. ",
-      "id": 600490,
-      "impact": "Smith will figure to seek another opportunity once he is cleared. ",
-      "link": "https://www.fantasypros.com/nfl/news/600490/ainias-smith-waived-by-panthers.php",
-      "player_id": 23142,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Ainias Smith waived by Panthers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-05 07:46:58",
-      "created_formated": "Wed, Aug 5th 7:46am UTC",
-      "desc": "The Panthers waived WR Gabriel Benyard.",
-      "id": 600489,
-      "impact": "Benyard signed with Carolina last week. He will figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/600489/gabriel-benyard-waived-by-panthers.php",
-      "player_id": 28793,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Gabriel Benyard waived by Panthers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-05 07:45:59",
-      "created_formated": "Wed, Aug 5th 7:45am UTC",
-      "desc": "The Browns waived WR Aaron Anderson.",
-      "id": 600488,
-      "impact": "Anderson will figure to compete for a spot in another team's training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/600488/aaron-anderson-waived-by-browns.php",
-      "player_id": 27500,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Aaron Anderson waived by Browns "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-05 07:45:10",
-      "created_formated": "Wed, Aug 5th 7:45am UTC",
-      "desc": "The Browns claimed defensive tackle Coziah Izzard off waivers. ",
-      "id": 600487,
-      "impact": "Izzard was waived by the Cardinals. He will compete for a depth role on the Browns defensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/600487/coziah-izzard-claimed-off-waivers-by-browns.php",
-      "player_id": 27835,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Coziah Izzard claimed off waivers by Browns "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-05 07:43:54",
-      "created_formated": "Wed, Aug 5th 7:43am UTC",
-      "desc": "Giants coach John Harbaugh said JuJu Smith-Schuster sat out Giants practice on Tuesday with swelling in his knee. ",
-      "id": 600486,
-      "impact": "It is not ideal for Smith-Schuster as he compete for a depth spot in the Giants wide receiver room. ",
-      "link": "https://www.fantasypros.com/nfl/news/600486/juju-smith-schuster-knee-sits-out-practice-tuesday.php",
-      "player_id": 16427,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "JuJu Smith-Schuster (knee) sits out practice Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-05 07:42:30",
-      "created_formated": "Wed, Aug 5th 7:42am UTC",
-      "desc": "The Lions waived WR Lawrence Keys with an injury designation.",
-      "id": 600485,
-      "impact": "Keys will figure to seek another opportunity once he is cleared. ",
-      "link": "https://www.fantasypros.com/nfl/news/600485/lawrence-keys-iii-waived-by-lions.php",
-      "player_id": 26608,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Lawrence Keys III waived by Lions "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-05 07:41:03",
-      "created_formated": "Wed, Aug 5th 7:41am UTC",
-      "desc": "Alijah Clark left practice early on Tuesday with an ankle injury. ",
-      "id": 600484,
-      "impact": "Clark will be further evaluated. There should be an update on his status later in the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/600484/alijah-clark-ankle-leaves-practice-tuesday.php",
-      "player_id": 27080,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Alijah Clark (ankle) leaves practice Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-05 07:40:12",
-      "created_formated": "Wed, Aug 5th 7:40am UTC",
-      "desc": "Jonathan Bullard is dealing with sore hamstrings. ",
-      "id": 600483,
-      "impact": "Bullard has been limited in training camp. He signed a one-year contract with Dallas back in free agency. ",
-      "link": "https://www.fantasypros.com/nfl/news/600483/jonathan-bullard-dealing-with-hamstring-injury.php",
-      "player_id": 15512,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Jonathan Bullard dealing with hamstring injury "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-05 07:39:09",
-      "created_formated": "Wed, Aug 5th 7:39am UTC",
-      "desc": "DeMarvion Overshown did not participate in team drills on Tuesday due to sore legs. ",
-      "id": 600482,
-      "impact": "Overshown is among the many players being eased into training camp. It doesn't appear he is dealing with a serious concern. ",
-      "link": "https://www.fantasypros.com/nfl/news/600482/demarvion-overshown-leg-absent-from-team-drills-tuesday.php",
-      "player_id": 25314,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "DeMarvion Overshown (leg) absent from team drills Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-05 07:37:52",
-      "created_formated": "Wed, Aug 5th 7:37am UTC",
-      "desc": "Tyler Guyton was limited during practice on Tuesday. ",
-      "id": 600481,
-      "impact": "Guyton is working through a sore elbow. It doesn't appear to be too serious. ",
-      "link": "https://www.fantasypros.com/nfl/news/600481/tyler-guyton-elbow-limited-practice-tuesday.php",
-      "player_id": 26123,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Tyler Guyton (elbow) limited in practice Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-05 07:36:06",
-      "created_formated": "Wed, Aug 5th 7:36am UTC",
-      "desc": "The Packers signed TE Drew Biber. ",
-      "id": 600480,
-      "impact": "Biber signs with Green Bay as an undrafted free agent. ",
-      "link": "https://www.fantasypros.com/nfl/news/600480/drew-biber-signs-with-packers.php",
-      "player_id": 29415,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Drew Biber signs with Packers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-05 07:35:11",
-      "created_formated": "Wed, Aug 5th 7:35am UTC",
-      "desc": "The Packers signed TE McCallan Castles. ",
-      "id": 600479,
-      "impact": "Castles spent the second half of last season on the Packers' practice squad. He was waived in April and now returns to Green Bay during training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/600479/mccallan-castles-signs-with-packers.php",
-      "player_id": 26427,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "McCallan Castles signs with Packers "
     }
   ],
   "public_api_limited": true,

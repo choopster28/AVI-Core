@@ -198,15 +198,6 @@
     "sleeper_id": "2505"
   },
   {
-    "confidence": "review",
-    "fantasypros_id": "14338",
-    "match_method": "exact_name_position",
-    "nfl_team": "LVR",
-    "player_name": "Raheem Mostert",
-    "position": "RB",
-    "sleeper_id": "2749"
-  },
-  {
     "confidence": "verified",
     "fantasypros_id": "15501",
     "match_method": "exact_name_position_unique",
@@ -1477,6 +1468,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "22813",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PHI",
+    "player_name": "Elijah Mitchell",
+    "position": "RB",
+    "sleeper_id": "7561"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "22833",
     "match_method": "exact_name_position_unique",
     "nfl_team": "WAS",
@@ -2347,6 +2347,15 @@
     "player_name": "Ronnie Rivers",
     "position": "RB",
     "sleeper_id": "8195"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "24009",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "WAS",
+    "player_name": "Jake Moody",
+    "position": "K",
+    "sleeper_id": "10937"
   },
   {
     "confidence": "verified",
