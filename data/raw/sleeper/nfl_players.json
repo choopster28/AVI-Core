@@ -16186,7 +16186,7 @@
     "college": "Northwestern",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 24213,
     "fantasy_positions": [
@@ -32523,7 +32523,7 @@
     "birth_state": null,
     "college": "East Tennessee State",
     "competitions": [],
-    "depth_chart_order": 5,
+    "depth_chart_order": 4,
     "depth_chart_position": "RB",
     "espn_id": null,
     "fantasy_data_id": 24312,
@@ -58367,7 +58367,7 @@
       "genius_id": "1463648",
       "rookie_year": "2024"
     },
-    "news_updated": 1785861918851,
+    "news_updated": 1785917429546,
     "number": 17,
     "oddsjam_id": "354055F05D44",
     "opta_id": null,
@@ -70464,7 +70464,7 @@
     "birth_state": null,
     "college": "Illinois",
     "competitions": [],
-    "depth_chart_order": 10,
+    "depth_chart_order": 9,
     "depth_chart_position": "SWR",
     "espn_id": null,
     "fantasy_data_id": 25304,
@@ -114850,7 +114850,7 @@
       "rookie_year": "2025",
       "source_id": "59113d93-8197-4fe2-8cd4-3b5e6e0e5b99"
     },
-    "news_updated": 1785537034916,
+    "news_updated": 1785917429533,
     "number": 21,
     "oddsjam_id": "8F2E72F7E0CE2396",
     "opta_id": null,
@@ -148617,7 +148617,7 @@
     "depth_chart_order": null,
     "depth_chart_position": "SWR",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 26100,
     "fantasy_positions": [
       "WR"
     ],
@@ -171397,7 +171397,7 @@
       "rookie_year": "2026",
       "source_id": "e540d3a0-8a15-11ec-afc6-9b22751babf7"
     },
-    "news_updated": 1785866407269,
+    "news_updated": 1785917429560,
     "number": 18,
     "oddsjam_id": null,
     "opta_id": null,
@@ -211860,7 +211860,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "30f00246-aec9-44df-989a-4a3071fc782e",
     "last_name": "Sewell",
     "metadata": {
       "channel_id": "1357067141651656704"
@@ -221144,7 +221144,7 @@
       "genius_id": "1488474",
       "rookie_year": "2026"
     },
-    "news_updated": 1785882008765,
+    "news_updated": 1785917429587,
     "number": 25,
     "oddsjam_id": null,
     "opta_id": null,
@@ -221854,7 +221854,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "b2a545ff-4a39-436c-84f8-a3b9774e4b6e",
     "last_name": "Weimer",
     "metadata": {
       "channel_id": "1390140055267323904"
@@ -221899,7 +221899,7 @@
     "depth_chart_order": null,
     "depth_chart_position": null,
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 28639,
     "fantasy_positions": [
       "TE"
     ],
@@ -397784,7 +397784,7 @@
       "genius_id": "999817",
       "rookie_year": "2017"
     },
-    "news_updated": 1756349126262,
+    "news_updated": 1785917429573,
     "number": 30,
     "oddsjam_id": "2D070E018914",
     "opta_id": null,
@@ -682464,7 +682464,7 @@
     "depth_chart_order": 8,
     "depth_chart_position": "SWR",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 23604,
     "fantasy_positions": [
       "WR"
     ],
@@ -682484,7 +682484,7 @@
       "channel_id": "1113708750222422016",
       "rookie_year": "2022"
     },
-    "news_updated": 1785865807859,
+    "news_updated": 1785917429520,
     "number": 80,
     "oddsjam_id": "0615B45C311E",
     "opta_id": null,
