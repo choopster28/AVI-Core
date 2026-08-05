@@ -1,0 +1,187 @@
+name: Retire 2026 Picks Final
+on:
+  push:
+    paths:
+      - '.github/workflows/retire-2026-picks-final.yml'
+permissions:
+  contents: write
+jobs:
+  retire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Patch generators and remove retired pick data
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json, re
+
+          # Draft-pick generator: future classes only, beginning in 2027.
+          path = Path('src/avi/reports/draft_pick_values.py')
+          source = path.read_text(encoding='utf-8')
+          source = source.replace('CURRENT_DRAFT_SEASON = 2026', 'CURRENT_DRAFT_SEASON = 2027')
+          source = re.sub(
+              r'FUTURE_DRAFT_SEASONS = \(\s*2027,\s*2028,\s*\)',
+              'FUTURE_DRAFT_SEASONS = (\n    2027,\n    2028,\n)',
+              source,
+          )
+          start = source.find('    draft_order_by_owner_id = (')
+          end_token = '    picks.sort(\n'
+          end = source.find(end_token, start)
+          if start < 0 or end < 0:
+              raise RuntimeError('Unable to locate current-draft generation block')
+          source = source[:start] + '    picks = build_future_season_picks()\n\n' + source[end:]
+          source = source.replace('"current_draft_season": (\n            CURRENT_DRAFT_SEASON\n        ),', '"active_draft_season_start": 2027,')
+          source = source.replace('"and verified current-year ownership."', '"for active future draft capital."')
+          source = re.sub(
+              r'\s*\(\n\s*f"- \{CURRENT_DRAFT_SEASON\} slots are assigned from "\n\s*"the current Sleeper draft order\."\n\s*\),\n',
+              '',
+              source,
+          )
+          source = re.sub(
+              r'\s*\(\n\s*f"- \{CURRENT_DRAFT_SEASON\} ownership is rebuilt from "\n\s*"the current Sleeper traded_picks export\."\n\s*\),\n',
+              '',
+              source,
+          )
+          source = source.replace(
+              '"- Future-year original teams and current owners remain "',
+              '"- Active draft capital begins with 2027. Original teams and current owners remain "',
+          )
+          source = source.replace('Only the 2026 draft uses established franchise ownership.', 'Retired draft classes are excluded from active ownership.')
+          path.write_text(source, encoding='utf-8')
+
+          # Historical trade generator: never ingest draft picks before 2027.
+          path = Path('src/avi/reports/historical_trades.py')
+          source = path.read_text(encoding='utf-8')
+          marker = '    for pick in draft_picks:\n'
+          guard = (
+              '    for pick in draft_picks:\n'
+              '        try:\n'
+              '            active_pick_season = int(pick.get("season", 0)) if isinstance(pick, dict) else 0\n'
+              '        except (TypeError, ValueError):\n'
+              '            active_pick_season = 0\n'
+              '        if active_pick_season < 2027:\n'
+              '            continue\n'
+          )
+          if guard not in source:
+              if marker not in source:
+                  raise RuntimeError('Unable to locate historical pick loop')
+              source = source.replace(marker, guard, 1)
+          path.write_text(source, encoding='utf-8')
+
+          retired_id = re.compile(r'^2026_(?:0?[1-9]|10)_(?:0?[1-9]|1[0-6])$', re.I)
+          retired_label = re.compile(r'^2026\s+(?:Pick\s+)?(?:[1-9]|10)\.(?:0?[1-9]|1[0-6])$', re.I)
+          retired_phrase = re.compile(r'2026\s+Round\s+\d+\s*\([^)]*\)', re.I)
+          retired_exact = re.compile(r'2026\s+(?:Pick\s+)?(?:[1-9]|10)\.(?:0?[1-9]|1[0-6])', re.I)
+
+          def retired_pick(obj):
+              if not isinstance(obj, dict):
+                  return False
+              if isinstance(obj.get('pick_id'), str) and retired_id.match(obj['pick_id']):
+                  return True
+              label = obj.get('pick_label', obj.get('label'))
+              if isinstance(label, str) and retired_label.match(label):
+                  return True
+              try:
+                  season = int(obj.get('season', obj.get('year', obj.get('draft_year', 0))))
+              except (TypeError, ValueError):
+                  season = 0
+              keys = {str(k).lower() for k in obj}
+              return season == 2026 and 'round' in keys and bool(keys & {
+                  'pick_id','pick_label','slot','roster_id','owner_id','previous_owner_id',
+                  'original_roster_id','current_owner_roster_id','draft_pick_avi'
+              })
+
+          def clean_string(text):
+              text = retired_phrase.sub('', text)
+              text = retired_exact.sub('', text)
+              text = re.sub(r'2026_(?:0?[1-9]|10)_(?:0?[1-9]|1[0-6])', '', text)
+              text = re.sub(r'\s+,', ',', text)
+              text = re.sub(r',\s*,+', ', ', text)
+              text = re.sub(r'\s{2,}', ' ', text).strip()
+              text = re.sub(r'\s+([.,])', r'\1', text)
+              text = re.sub(r',\s+(and|sent|received|acquired)\b', r' \1', text, flags=re.I)
+              return text
+
+          def clean(value):
+              if isinstance(value, list):
+                  return [clean(item) for item in value if not retired_pick(item)]
+              if isinstance(value, dict):
+                  return {key: clean(item) for key, item in value.items()}
+              if isinstance(value, str):
+                  return clean_string(value)
+              return value
+
+          for json_path in sorted(Path('.').rglob('*.json')):
+              if any(part in {'.git','.venv','venv','__pycache__'} for part in json_path.parts):
+                  continue
+              try:
+                  data = json.loads(json_path.read_text(encoding='utf-8'))
+              except (json.JSONDecodeError, UnicodeDecodeError):
+                  continue
+              json_path.write_text(json.dumps(clean(data), indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+
+          # Clean generated Markdown references, preserving dates and season history.
+          md = Path('knowledge/02_AVI_Historical_Trades.md')
+          if md.exists():
+              output = []
+              for line in md.read_text(encoding='utf-8').splitlines():
+                  if line.startswith('- Picks received:') or line.startswith('- Picks sent:'):
+                      prefix, _, assets = line.partition(':')
+                      kept = [a.strip() for a in assets.split(',') if a.strip() and not a.strip().lower().startswith('2026 round ')]
+                      line = f'{prefix}: ' + (', '.join(kept) if kept else 'None')
+                  else:
+                      line = clean_string(line)
+                  output.append(line)
+              md.write_text('\n'.join(output).rstrip() + '\n', encoding='utf-8')
+          PY
+      - name: Regenerate active draft values
+        env:
+          PYTHONPATH: src
+        run: |
+          python - <<'PY'
+          from avi.reports.draft_pick_values import build_draft_pick_values
+          build_draft_pick_values()
+          PY
+      - name: Validate retirement
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re, sys
+          checks = [
+              re.compile(r'2026_(?:0?[1-9]|10)_(?:0?[1-9]|1[0-6])', re.I),
+              re.compile(r'2026\s+Round\s+\d+', re.I),
+              re.compile(r'2026\s+(?:Pick\s+)?(?:[1-9]|10)\.(?:0?[1-9]|1[0-6])', re.I),
+          ]
+          ignored = {
+              '.github/workflows/audit-retired-2026-picks.yml',
+              '.github/workflows/retire-2026-picks-source.yml',
+              '.github/workflows/retire-2026-picks-final.yml',
+              'audit_retired_2026_picks.txt',
+          }
+          bad = []
+          for path in Path('.').rglob('*'):
+              if not path.is_file() or path.suffix.lower() not in {'.json','.md','.txt','.py','.csv'}:
+                  continue
+              if str(path) in ignored or any(part in {'.git','.venv','venv','__pycache__'} for part in path.parts):
+                  continue
+              try: text = path.read_text(encoding='utf-8')
+              except UnicodeDecodeError: continue
+              for n, line in enumerate(text.splitlines(), 1):
+                  if any(pattern.search(line) for pattern in checks):
+                      bad.append(f'{path}:{n}: {line[:250]}')
+          if bad:
+              print('\n'.join(bad[:100]))
+              sys.exit(f'{len(bad)} retired pick references remain')
+          print('All 2026 draft-pick references are retired')
+          PY
+      - name: Commit cleanup
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Remove all 2026 draft pick data from AVI Core'
+          git push
