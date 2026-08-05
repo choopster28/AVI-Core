@@ -21,7 +21,7 @@ JSON_OUTPUT_PATH = Path(
     "data/processed/reports/draft_pick_values.json"
 )
 
-CURRENT_DRAFT_SEASON = 2026
+CURRENT_DRAFT_SEASON = 2027
 
 FUTURE_DRAFT_SEASONS = (
     2027,
@@ -268,7 +268,7 @@ def build_current_pick_owner_map(
         (round_number, original_roster_id)
         -> current_owner_roster_id
 
-    Only the 2026 draft uses established franchise ownership.
+    Retired draft classes are excluded from active ownership.
     Future-year ownership remains TBD.
     """
     current_owner_map: dict[
@@ -532,44 +532,7 @@ def build_draft_pick_values() -> dict[str, Any]:
         )
     )
 
-    draft_order_by_owner_id = (
-        load_current_draft_order(
-            drafts
-        )
-    )
-
-    slot_to_original_roster = (
-        build_slot_to_original_roster_map(
-            roster_identity_map=(
-                roster_identity_map
-            ),
-            draft_order_by_owner_id=(
-                draft_order_by_owner_id
-            ),
-        )
-    )
-
-    current_owner_map = (
-        build_current_pick_owner_map(
-            traded_picks
-        )
-    )
-
-    picks = build_current_season_picks(
-        roster_identity_map=(
-            roster_identity_map
-        ),
-        slot_to_original_roster=(
-            slot_to_original_roster
-        ),
-        current_owner_map=(
-            current_owner_map
-        ),
-    )
-
-    picks.extend(
-        build_future_season_picks()
-    )
+    picks = build_future_season_picks()
 
     picks.sort(
         key=lambda record: (
@@ -588,9 +551,7 @@ def build_draft_pick_values() -> dict[str, Any]:
         "league_id": league.get(
             "league_id"
         ),
-        "current_draft_season": (
-            CURRENT_DRAFT_SEASON
-        ),
+        "active_draft_season_start": 2027,
         "future_draft_seasons": list(
             FUTURE_DRAFT_SEASONS
         ),
@@ -621,19 +582,10 @@ def build_draft_pick_values() -> dict[str, Any]:
         "",
         (
             "Retrieval purpose: official draft-pick AVI values "
-            "and verified current-year ownership."
+            "for active future draft capital."
         ),
-        "",
-        (
-            f"- {CURRENT_DRAFT_SEASON} slots are assigned from "
-            "the current Sleeper draft order."
-        ),
-        (
-            f"- {CURRENT_DRAFT_SEASON} ownership is rebuilt from "
-            "the current Sleeper traded_picks export."
-        ),
-        (
-            "- Future-year original teams and current owners remain "
+        "",        (
+            "- Active draft capital begins with 2027. Original teams and current owners remain "
             "TBD until that season's draft order is established."
         ),
         (

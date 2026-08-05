@@ -485,6 +485,12 @@ def normalize_trade(
         )
 
     for pick in draft_picks:
+        try:
+            active_pick_season = int(pick.get("season", 0)) if isinstance(pick, dict) else 0
+        except (TypeError, ValueError):
+            active_pick_season = 0
+        if active_pick_season < 2027:
+            continue
         if not isinstance(
             pick,
             dict,

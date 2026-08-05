@@ -1,21 +1,21 @@
 {
   "schema_version": 9,
   "franchise_id": "gringo-s-goblins",
-  "franchise_name": "Gringo\u2019s Goblins",
+  "franchise_name": "Gringo’s Goblins",
   "roster_id": 15,
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
   "reporting_period": "Week of August 2, 2026",
   "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
-  "executive_summary": "Gringo\u2019s Goblins is projected #12 of 16 with a 566.20 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "headline": "Gringo’s Goblins: Preseason Front Office Brief",
+  "executive_summary": "Gringo’s Goblins is projected #12 of 16 with a 566.20 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 12,
     "league_size": 16,
     "score": 566.2,
     "team_above": {
-      "name": "Lightskin Legends \u270a\ud83c\udffd",
+      "name": "Lightskin Legends ✊🏽",
       "rank": 11,
       "score": 584.1,
       "gap": 17.899999999999977
@@ -40,11 +40,11 @@
     "transaction_id": "1380604251050356736",
     "created_at": "2026-07-08T15:23:33.139000+00:00",
     "type": "trade",
-    "summary": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins).",
+    "summary": "On July 8, Gringo’s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo’s Goblins).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jacory Croskey-Merritt's 53.4 C-AVI baseline; a replacement near 71.3 C-AVI would directly attack the 17.90-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
+    "Raise the FLEX slot above Jacory Croskey-Merritt's 53.4 C-AVI baseline; a replacement near 71.3 C-AVI would directly attack the 17.90-point projected gap to Lightskin Legends ✊🏽."
   ],
   "rival_below": {
     "franchise_name": "Phalhala or Bust",
@@ -54,46 +54,46 @@
       "transaction_id": "1356901536596242432",
       "created_at": "2026-05-04T05:37:25.638000+00:00",
       "type": "trade",
-      "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs.",
+      "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson and sent Romeo Doubs.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
       "transaction_id": "1356901536596242432",
       "created_at": "2026-05-04T05:37:25.638000+00:00",
       "type": "trade",
-      "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs.",
+      "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson and sent Romeo Doubs.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs."
+    "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson and sent Romeo Doubs."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #12 of 16 at 566.20 lineup C-AVI. Lightskin Legends \u270a\ud83c\udffd is immediately above at 584.10, a gap of 17.90. Phalhala or Bust is immediately behind at 563.10."
+      "body": "Projected #12 of 16 at 566.20 lineup C-AVI. Lightskin Legends ✊🏽 is immediately above at 584.10, a gap of 17.90. Phalhala or Bust is immediately behind at 563.10."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Emeka Egbuka (85.4), Kyren Williams (83.6), and Davante Adams (80.3)."
+      "body": "The three highest C-AVI starters are Emeka Egbuka (85.4), Kyren Williams (83.6) and Davante Adams (80.3)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins)."
+      "body": "On July 8, Gringo’s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo’s Goblins)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jacory Croskey-Merritt's 53.4 C-AVI baseline; a replacement near 71.3 C-AVI would directly attack the 17.90-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
+      "body": "Raise the FLEX slot above Jacory Croskey-Merritt's 53.4 C-AVI baseline; a replacement near 71.3 C-AVI would directly attack the 17.90-point projected gap to Lightskin Legends ✊🏽.",
       "items": [
-        "Raise the FLEX slot above Jacory Croskey-Merritt's 53.4 C-AVI baseline; a replacement near 71.3 C-AVI would directly attack the 17.90-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
+        "Raise the FLEX slot above Jacory Croskey-Merritt's 53.4 C-AVI baseline; a replacement near 71.3 C-AVI would directly attack the 17.90-point projected gap to Lightskin Legends ✊🏽."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs."
+      "body": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson and sent Romeo Doubs."
     },
     {
       "id": "lineup-pressure-point",

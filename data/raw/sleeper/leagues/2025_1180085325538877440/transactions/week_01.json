@@ -1197,22 +1197,6 @@
         "owner_id": 2,
         "previous_owner_id": 4,
         "roster_id": 7,
-        "round": 1,
-        "season": "2026"
-      },
-      {
-        "league_id": null,
-        "owner_id": 2,
-        "previous_owner_id": 4,
-        "roster_id": 7,
-        "round": 2,
-        "season": "2026"
-      },
-      {
-        "league_id": null,
-        "owner_id": 2,
-        "previous_owner_id": 4,
-        "roster_id": 7,
         "round": 2,
         "season": "2027"
       }
@@ -2582,14 +2566,6 @@
         "owner_id": 12,
         "previous_owner_id": 9,
         "roster_id": 9,
-        "round": 1,
-        "season": "2026"
-      },
-      {
-        "league_id": null,
-        "owner_id": 12,
-        "previous_owner_id": 9,
-        "roster_id": 9,
         "round": 2,
         "season": "2027"
       }
@@ -2652,14 +2628,6 @@
       },
       {
         "league_id": null,
-        "owner_id": 11,
-        "previous_owner_id": 2,
-        "roster_id": 2,
-        "round": 2,
-        "season": "2026"
-      },
-      {
-        "league_id": null,
         "owner_id": 2,
         "previous_owner_id": 11,
         "roster_id": 9,
@@ -2719,14 +2687,6 @@
       },
       {
         "league_id": null,
-        "owner_id": 8,
-        "previous_owner_id": 1,
-        "roster_id": 1,
-        "round": 2,
-        "season": "2026"
-      },
-      {
-        "league_id": null,
         "owner_id": 1,
         "previous_owner_id": 8,
         "roster_id": 8,
@@ -2775,22 +2735,6 @@
         "roster_id": 7,
         "round": 3,
         "season": "2025"
-      },
-      {
-        "league_id": null,
-        "owner_id": 4,
-        "previous_owner_id": 7,
-        "roster_id": 7,
-        "round": 1,
-        "season": "2026"
-      },
-      {
-        "league_id": null,
-        "owner_id": 4,
-        "previous_owner_id": 7,
-        "roster_id": 7,
-        "round": 2,
-        "season": "2026"
       },
       {
         "league_id": null,
@@ -2850,14 +2794,6 @@
         "roster_id": 4,
         "round": 2,
         "season": "2025"
-      },
-      {
-        "league_id": null,
-        "owner_id": 5,
-        "previous_owner_id": 4,
-        "roster_id": 4,
-        "round": 1,
-        "season": "2026"
       },
       {
         "league_id": null,

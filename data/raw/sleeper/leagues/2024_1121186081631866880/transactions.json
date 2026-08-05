@@ -357,14 +357,6 @@
         "roster_id": 11,
         "round": 1,
         "season": "2025"
-      },
-      {
-        "league_id": null,
-        "owner_id": 9,
-        "previous_owner_id": 11,
-        "roster_id": 11,
-        "round": 1,
-        "season": "2026"
       }
     ],
     "drops": {
@@ -2446,14 +2438,6 @@
         "roster_id": 5,
         "round": 1,
         "season": "2025"
-      },
-      {
-        "league_id": null,
-        "owner_id": 1,
-        "previous_owner_id": 5,
-        "roster_id": 5,
-        "round": 3,
-        "season": "2026"
       }
     ],
     "drops": {
@@ -5750,14 +5734,6 @@
         "roster_id": 5,
         "round": 8,
         "season": "2025"
-      },
-      {
-        "league_id": null,
-        "owner_id": 3,
-        "previous_owner_id": 5,
-        "roster_id": 5,
-        "round": 1,
-        "season": "2026"
       }
     ],
     "drops": {
@@ -5926,14 +5902,6 @@
         "roster_id": 1,
         "round": 3,
         "season": "2025"
-      },
-      {
-        "league_id": null,
-        "owner_id": 10,
-        "previous_owner_id": 1,
-        "roster_id": 5,
-        "round": 3,
-        "season": "2026"
       }
     ],
     "drops": {
@@ -8672,16 +8640,7 @@
     ],
     "created": 1731890385591,
     "creator": "736993578450030592",
-    "draft_picks": [
-      {
-        "league_id": null,
-        "owner_id": 5,
-        "previous_owner_id": 1,
-        "roster_id": 1,
-        "round": 1,
-        "season": "2026"
-      }
-    ],
+    "draft_picks": [],
     "drops": {
       "6806": 1,
       "9226": 5
@@ -8859,16 +8818,7 @@
     ],
     "created": 1731643150127,
     "creator": "863881053000011776",
-    "draft_picks": [
-      {
-        "league_id": null,
-        "owner_id": 12,
-        "previous_owner_id": 9,
-        "roster_id": 9,
-        "round": 2,
-        "season": "2026"
-      }
-    ],
+    "draft_picks": [],
     "drops": {
       "11628": 9,
       "8112": 12,
@@ -9104,16 +9054,7 @@
     ],
     "created": 1731599787283,
     "creator": "863881053000011776",
-    "draft_picks": [
-      {
-        "league_id": null,
-        "owner_id": 7,
-        "previous_owner_id": 9,
-        "roster_id": 11,
-        "round": 1,
-        "season": "2026"
-      }
-    ],
+    "draft_picks": [],
     "drops": {
       "11631": 9,
       "11632": 7,

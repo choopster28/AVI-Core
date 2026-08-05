@@ -17,7 +17,7 @@
           "DMV Fantasy"
         ],
         "roster_id": 7,
-        "team_name": "Badland Banditos "
+        "team_name": "Badland Banditos"
       },
       {
         "partner_count": 6,
@@ -30,7 +30,7 @@
       {
         "partner_count": 5,
         "partners": [
-          "Northside Kings "
+          "Northside Kings"
         ],
         "roster_id": 1,
         "team_name": "Conquistadors"
@@ -39,11 +39,11 @@
         "partner_count": 4,
         "partners": [
           "Rapid Valley Annihilation",
-          "Ravens Regime ",
+          "Ravens Regime",
           "Big Balder Brand"
         ],
         "roster_id": 11,
-        "team_name": "Corgi Loaf Baking Co. "
+        "team_name": "Corgi Loaf Baking Co."
       },
       {
         "partner_count": 2,
@@ -67,15 +67,15 @@
           "Big Balder Brand"
         ],
         "roster_id": 15,
-        "team_name": "Gringo’s Goblins "
+        "team_name": "Gringo’s Goblins"
       },
       {
         "partner_count": 1,
         "partners": [
           "Conquistadors",
-          "Northside Kings ",
+          "Northside Kings",
           "SmokyValleyWheatWarriors",
-          "Corgi Loaf Baking Co. ",
+          "Corgi Loaf Baking Co.",
           "Crimson Tide Pods"
         ],
         "roster_id": 6,
@@ -84,7 +84,7 @@
       {
         "partner_count": 2,
         "partners": [
-          "Northside Kings ",
+          "Northside Kings",
           "All Hail King Jesus"
         ],
         "roster_id": 4,
@@ -96,12 +96,12 @@
           "Conquistadors"
         ],
         "roster_id": 5,
-        "team_name": "Northside Kings "
+        "team_name": "Northside Kings"
       },
       {
         "partner_count": 1,
         "partners": [
-          "Ravens Regime "
+          "Ravens Regime"
         ],
         "roster_id": 14,
         "team_name": "Phalhala or Bust"
@@ -109,7 +109,7 @@
       {
         "partner_count": 4,
         "partners": [
-          "Corgi Loaf Baking Co. "
+          "Corgi Loaf Baking Co."
         ],
         "roster_id": 2,
         "team_name": "Rapid Valley Annihilation"
@@ -117,10 +117,10 @@
       {
         "partner_count": 4,
         "partners": [
-          "Corgi Loaf Baking Co. "
+          "Corgi Loaf Baking Co."
         ],
         "roster_id": 3,
-        "team_name": "Ravens Regime "
+        "team_name": "Ravens Regime"
       },
       {
         "partner_count": 2,
@@ -133,7 +133,7 @@
       {
         "partner_count": 1,
         "partners": [
-          "Ravens Regime "
+          "Ravens Regime"
         ],
         "roster_id": 13,
         "team_name": "Southside Savages"
@@ -154,7 +154,7 @@
         "players_in": 29,
         "players_out": 29,
         "roster_id": 11,
-        "team_name": "Corgi Loaf Baking Co. ",
+        "team_name": "Corgi Loaf Baking Co.",
         "total": 21
       },
       {
@@ -205,7 +205,7 @@
         "players_in": 17,
         "players_out": 12,
         "roster_id": 5,
-        "team_name": "Northside Kings ",
+        "team_name": "Northside Kings",
         "total": 15
       },
       {
@@ -222,7 +222,7 @@
         "players_in": 12,
         "players_out": 17,
         "roster_id": 3,
-        "team_name": "Ravens Regime ",
+        "team_name": "Ravens Regime",
         "total": 14
       },
       {
@@ -256,7 +256,7 @@
         "players_in": 9,
         "players_out": 11,
         "roster_id": 7,
-        "team_name": "Badland Banditos ",
+        "team_name": "Badland Banditos",
         "total": 9
       },
       {
@@ -367,7 +367,7 @@
         "players_in": 3,
         "players_out": 3,
         "roster_id": 15,
-        "team_name": "Gringo’s Goblins ",
+        "team_name": "Gringo’s Goblins",
         "total": 1
       },
       {
@@ -489,11 +489,6 @@
               "original_roster_id": 11,
               "round": 1,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 11,
-              "round": 1,
-              "season": "2026"
             }
           ],
           "picks_sent": [],
@@ -526,11 +521,6 @@
               "original_roster_id": 11,
               "round": 1,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 11,
-              "round": 1,
-              "season": "2026"
             }
           ],
           "players_received": [
@@ -551,7 +541,7 @@
           ],
           "roster_id": 11,
           "season": 2024,
-          "team_name": "Dimes -> Pennies "
+          "team_name": "Dimes -> Pennies"
         }
       ],
       "transaction_id": "1137052108274458624",
@@ -627,7 +617,7 @@
           ],
           "roster_id": 7,
           "season": 2024,
-          "team_name": "Dakota Danglers "
+          "team_name": "Dakota Danglers"
         }
       ],
       "transaction_id": "1140090171942694912",
@@ -662,7 +652,7 @@
           ],
           "roster_id": 7,
           "season": 2024,
-          "team_name": "Dakota Danglers "
+          "team_name": "Dakota Danglers"
         },
         {
           "owner_display_name": "TacticsNoob",
@@ -726,7 +716,7 @@
           ],
           "roster_id": 11,
           "season": 2024,
-          "team_name": "Dimes -> Pennies "
+          "team_name": "Dimes -> Pennies"
         },
         {
           "owner_display_name": "TacticsNoob",
@@ -867,7 +857,7 @@
           ],
           "roster_id": 5,
           "season": 2024,
-          "team_name": "Steven "
+          "team_name": "Steven"
         }
       ],
       "transaction_id": "1145176499970048000",
@@ -906,7 +896,7 @@
           ],
           "roster_id": 7,
           "season": 2024,
-          "team_name": "Dakota Danglers "
+          "team_name": "Dakota Danglers"
         },
         {
           "owner_display_name": "TacticsNoob",
@@ -955,11 +945,6 @@
               "original_roster_id": 5,
               "round": 1,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 5,
-              "round": 3,
-              "season": "2026"
             }
           ],
           "picks_sent": [],
@@ -987,11 +972,6 @@
               "original_roster_id": 5,
               "round": 1,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 5,
-              "round": 3,
-              "season": "2026"
             }
           ],
           "players_received": [
@@ -1007,7 +987,7 @@
           "players_sent": [],
           "roster_id": 5,
           "season": 2024,
-          "team_name": "Steven "
+          "team_name": "Steven"
         }
       ],
       "transaction_id": "1146996720082169856",
@@ -1048,7 +1028,7 @@
           ],
           "roster_id": 5,
           "season": 2024,
-          "team_name": "Steven "
+          "team_name": "Steven"
         },
         {
           "owner_display_name": "Choopski",
@@ -1169,7 +1149,7 @@
           ],
           "roster_id": 11,
           "season": 2024,
-          "team_name": "Dimes -> Pennies "
+          "team_name": "Dimes -> Pennies"
         }
       ],
       "transaction_id": "1153098937969037312",
@@ -1253,7 +1233,7 @@
           ],
           "roster_id": 11,
           "season": 2024,
-          "team_name": "Dimes -> Pennies "
+          "team_name": "Dimes -> Pennies"
         }
       ],
       "transaction_id": "1157087194486693888",
@@ -1278,11 +1258,6 @@
               "original_roster_id": 1,
               "round": 3,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 5,
-              "round": 3,
-              "season": "2026"
             }
           ],
           "players_received": [
@@ -1304,11 +1279,6 @@
               "original_roster_id": 1,
               "round": 3,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 5,
-              "round": 3,
-              "season": "2026"
             }
           ],
           "picks_sent": [],
@@ -1357,7 +1327,7 @@
           ],
           "roster_id": 5,
           "season": 2024,
-          "team_name": "Steven "
+          "team_name": "Steven"
         },
         {
           "owner_display_name": "MadDawgMatt",
@@ -1379,7 +1349,7 @@
           "players_sent": [],
           "roster_id": 6,
           "season": 2024,
-          "team_name": "Epstein Island "
+          "team_name": "Epstein Island"
         }
       ],
       "transaction_id": "1157092596322459648",
@@ -1403,11 +1373,6 @@
               "original_roster_id": 5,
               "round": 8,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 5,
-              "round": 1,
-              "season": "2026"
             }
           ],
           "picks_sent": [],
@@ -1431,11 +1396,6 @@
               "original_roster_id": 5,
               "round": 8,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 5,
-              "round": 1,
-              "season": "2026"
             }
           ],
           "players_received": [
@@ -1447,7 +1407,7 @@
           "players_sent": [],
           "roster_id": 5,
           "season": 2024,
-          "team_name": "Steven "
+          "team_name": "Steven"
         }
       ],
       "transaction_id": "1157162294821015552",
@@ -1525,7 +1485,7 @@
           "players_sent": [],
           "roster_id": 11,
           "season": 2024,
-          "team_name": "Dimes -> Pennies "
+          "team_name": "Dimes -> Pennies"
         }
       ],
       "transaction_id": "1160402213794467840",
@@ -1544,13 +1504,7 @@
         {
           "owner_display_name": "IcebergSlim69",
           "owner_id": "737531831641128960",
-          "picks_received": [
-            {
-              "original_roster_id": 11,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -1570,19 +1524,13 @@
           ],
           "roster_id": 7,
           "season": 2024,
-          "team_name": "Dakota Danglers "
+          "team_name": "Dakota Danglers"
         },
         {
           "owner_display_name": "Choopski",
           "owner_id": "863881053000011776",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 11,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "11632",
@@ -1642,7 +1590,7 @@
           ],
           "roster_id": 6,
           "season": 2024,
-          "team_name": "Epstein Island "
+          "team_name": "Epstein Island"
         },
         {
           "owner_display_name": "awang1900",
@@ -1669,7 +1617,7 @@
           ],
           "roster_id": 11,
           "season": 2024,
-          "team_name": "Dimes -> Pennies "
+          "team_name": "Dimes -> Pennies"
         }
       ],
       "transaction_id": "1162827293354512384",
@@ -1689,13 +1637,7 @@
           "owner_display_name": "Choopski",
           "owner_id": "863881053000011776",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 9,
-              "round": 2,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "8112",
@@ -1723,13 +1665,7 @@
         {
           "owner_display_name": "TacticsNoob",
           "owner_id": "1129546394534158336",
-          "picks_received": [
-            {
-              "original_roster_id": 9,
-              "round": 2,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -1849,7 +1785,7 @@
           ],
           "roster_id": 11,
           "season": 2024,
-          "team_name": "Dimes -> Pennies "
+          "team_name": "Dimes -> Pennies"
         }
       ],
       "transaction_id": "1163258865862328320",
@@ -1869,13 +1805,7 @@
           "owner_display_name": "Thecan",
           "owner_id": "736993578450030592",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 1,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "9226",
@@ -1895,13 +1825,7 @@
         {
           "owner_display_name": "srsmith95",
           "owner_id": "872351659366539264",
-          "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -1917,7 +1841,7 @@
           ],
           "roster_id": 5,
           "season": 2024,
-          "team_name": "Steven "
+          "team_name": "Steven"
         }
       ],
       "transaction_id": "1164036281635553280",
@@ -1947,11 +1871,6 @@
               "original_roster_id": 4,
               "round": 2,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 4,
-              "round": 1,
-              "season": "2026"
             },
             {
               "original_roster_id": 4,
@@ -1992,11 +1911,6 @@
             {
               "original_roster_id": 4,
               "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 4,
-              "round": 1,
               "season": "2027"
             }
           ],
@@ -2015,7 +1929,7 @@
           ],
           "roster_id": 5,
           "season": 2025,
-          "team_name": "Steven "
+          "team_name": "Steven"
         }
       ],
       "transaction_id": "1248403594567221248",
@@ -2039,16 +1953,6 @@
               "original_roster_id": 7,
               "round": 3,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 2,
-              "season": "2026"
             },
             {
               "original_roster_id": 7,
@@ -2085,16 +1989,6 @@
             },
             {
               "original_roster_id": 7,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 2,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
               "round": 2,
               "season": "2027"
             }
@@ -2113,7 +2007,7 @@
           ],
           "roster_id": 7,
           "season": 2025,
-          "team_name": "Dakota Danglers "
+          "team_name": "Dakota Danglers"
         }
       ],
       "transaction_id": "1248747723956420608",
@@ -2144,11 +2038,6 @@
               "original_roster_id": 1,
               "round": 2,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 1,
-              "round": 2,
-              "season": "2026"
             }
           ],
           "players_received": [
@@ -2183,11 +2072,6 @@
               "original_roster_id": 1,
               "round": 2,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 1,
-              "round": 2,
-              "season": "2026"
             }
           ],
           "picks_sent": [
@@ -2255,11 +2139,6 @@
               "original_roster_id": 2,
               "round": 2,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 2,
-              "round": 2,
-              "season": "2026"
             }
           ],
           "players_received": [
@@ -2318,11 +2197,6 @@
               "original_roster_id": 2,
               "round": 2,
               "season": "2025"
-            },
-            {
-              "original_roster_id": 2,
-              "round": 2,
-              "season": "2026"
             }
           ],
           "picks_sent": [
@@ -2383,7 +2257,7 @@
           ],
           "roster_id": 11,
           "season": 2025,
-          "team_name": "What tf is a draft pick "
+          "team_name": "What tf is a draft pick"
         }
       ],
       "transaction_id": "1249144618109390848",
@@ -2404,11 +2278,6 @@
           "owner_id": "863881053000011776",
           "picks_received": [],
           "picks_sent": [
-            {
-              "original_roster_id": 9,
-              "round": 1,
-              "season": "2026"
-            },
             {
               "original_roster_id": 9,
               "round": 2,
@@ -2435,11 +2304,6 @@
           "owner_display_name": "TacticsNoob",
           "owner_id": "1129546394534158336",
           "picks_received": [
-            {
-              "original_roster_id": 9,
-              "round": 1,
-              "season": "2026"
-            },
             {
               "original_roster_id": 9,
               "round": 2,
@@ -2488,16 +2352,6 @@
             },
             {
               "original_roster_id": 7,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 2,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
               "round": 2,
               "season": "2027"
             }
@@ -2536,16 +2390,6 @@
               "original_roster_id": 4,
               "round": 2,
               "season": "2027"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 2,
-              "season": "2026"
             },
             {
               "original_roster_id": 7,
@@ -2643,7 +2487,7 @@
           ],
           "roster_id": 11,
           "season": 2025,
-          "team_name": "What tf is a draft pick "
+          "team_name": "What tf is a draft pick"
         }
       ],
       "transaction_id": "1266927406195679232",
@@ -2662,18 +2506,7 @@
         {
           "owner_display_name": "srsmith95",
           "owner_id": "872351659366539264",
-          "picks_received": [
-            {
-              "original_roster_id": 7,
-              "round": 3,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 4,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -2689,24 +2522,13 @@
           ],
           "roster_id": 5,
           "season": 2025,
-          "team_name": "Steven "
+          "team_name": "Steven"
         },
         {
           "owner_display_name": "IcebergSlim69",
           "owner_id": "737531831641128960",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 7,
-              "round": 3,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 4,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "11589",
@@ -2721,7 +2543,7 @@
           ],
           "roster_id": 7,
           "season": 2025,
-          "team_name": "Dakota Danglers "
+          "team_name": "Dakota Danglers"
         }
       ],
       "transaction_id": "1275103167654162432",
@@ -2740,13 +2562,7 @@
         {
           "owner_display_name": "shawnh56",
           "owner_id": "736992907139158016",
-          "picks_received": [
-            {
-              "original_roster_id": 8,
-              "round": 3,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [],
           "players_sent": [
@@ -2763,13 +2579,7 @@
           "owner_display_name": "Hofer51",
           "owner_id": "736994691492519936",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 8,
-              "round": 3,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "96",
@@ -2859,7 +2669,7 @@
           ],
           "roster_id": 7,
           "season": 2025,
-          "team_name": "Dakota Danglers "
+          "team_name": "Dakota Danglers"
         }
       ],
       "transaction_id": "1276337283460513792",
@@ -2880,11 +2690,6 @@
           "owner_id": "736993578450030592",
           "picks_received": [],
           "picks_sent": [
-            {
-              "original_roster_id": 1,
-              "round": 3,
-              "season": "2026"
-            },
             {
               "original_roster_id": 1,
               "round": 2,
@@ -2911,11 +2716,6 @@
           "owner_display_name": "MadDawgMatt",
           "owner_id": "872509429436829696",
           "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 3,
-              "season": "2026"
-            },
             {
               "original_roster_id": 1,
               "round": 2,
@@ -2961,11 +2761,6 @@
             {
               "original_roster_id": 6,
               "round": 2,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 6,
-              "round": 2,
               "season": "2027"
             }
           ],
@@ -2989,11 +2784,6 @@
           "owner_display_name": "BradJohns",
           "owner_id": "587319065165475840",
           "picks_received": [
-            {
-              "original_roster_id": 6,
-              "round": 2,
-              "season": "2026"
-            },
             {
               "original_roster_id": 6,
               "round": 2,
@@ -3042,18 +2832,8 @@
             },
             {
               "original_roster_id": 11,
-              "round": 2,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 11,
               "round": 1,
               "season": "2027"
-            },
-            {
-              "original_roster_id": 2,
-              "round": 2,
-              "season": "2026"
             }
           ],
           "picks_sent": [],
@@ -3080,18 +2860,8 @@
             },
             {
               "original_roster_id": 11,
-              "round": 2,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 11,
               "round": 1,
               "season": "2027"
-            },
-            {
-              "original_roster_id": 2,
-              "round": 2,
-              "season": "2026"
             }
           ],
           "players_received": [
@@ -3103,7 +2873,7 @@
           "players_sent": [],
           "roster_id": 11,
           "season": 2025,
-          "team_name": "What tf is a draft pick "
+          "team_name": "What tf is a draft pick"
         }
       ],
       "transaction_id": "1281753359606378496",
@@ -3126,11 +2896,6 @@
             {
               "original_roster_id": 8,
               "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 8,
-              "round": 1,
               "season": "2027"
             }
           ],
@@ -3144,18 +2909,13 @@
           ],
           "roster_id": 7,
           "season": 2025,
-          "team_name": "Dakota Danglers "
+          "team_name": "Dakota Danglers"
         },
         {
           "owner_display_name": "Hofer51",
           "owner_id": "736994691492519936",
           "picks_received": [],
           "picks_sent": [
-            {
-              "original_roster_id": 8,
-              "round": 1,
-              "season": "2026"
-            },
             {
               "original_roster_id": 8,
               "round": 1,
@@ -3190,18 +2950,7 @@
         {
           "owner_display_name": "Unknown Owner",
           "owner_id": "None",
-          "picks_received": [
-            {
-              "original_roster_id": 13,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 13,
-              "round": 2,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [],
           "players_sent": [
@@ -3218,18 +2967,7 @@
           "owner_display_name": "GGEZGoNext",
           "owner_id": "998253660243054592",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 13,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 13,
-              "round": 2,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "12526",
@@ -3258,18 +2996,7 @@
         {
           "owner_display_name": "Unknown Owner",
           "owner_id": "None",
-          "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 4,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -3291,18 +3018,7 @@
           "owner_display_name": "srsmith95",
           "owner_id": "872351659366539264",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 1,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 4,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "12518",
@@ -3317,7 +3033,7 @@
           ],
           "roster_id": 5,
           "season": 2025,
-          "team_name": "Steven "
+          "team_name": "Steven"
         }
       ],
       "transaction_id": "1283922717862551552",
@@ -3436,13 +3152,7 @@
         {
           "owner_display_name": "srsmith95",
           "owner_id": "872351659366539264",
-          "picks_received": [
-            {
-              "original_roster_id": 11,
-              "round": 3,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -3458,19 +3168,13 @@
           ],
           "roster_id": 5,
           "season": 2025,
-          "team_name": "Steven "
+          "team_name": "Steven"
         },
         {
           "owner_display_name": "awang1900",
           "owner_id": "986498458162970624",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 11,
-              "round": 3,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "12504",
@@ -3485,7 +3189,7 @@
           ],
           "roster_id": 11,
           "season": 2025,
-          "team_name": "What tf is a draft pick "
+          "team_name": "What tf is a draft pick"
         }
       ],
       "transaction_id": "1284753622940262400",
@@ -3505,11 +3209,6 @@
           "owner_display_name": "shawnh56",
           "owner_id": "736992907139158016",
           "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 2,
-              "season": "2026"
-            },
             {
               "original_roster_id": 8,
               "round": 2,
@@ -3543,11 +3242,6 @@
           "owner_id": "736994691492519936",
           "picks_received": [],
           "picks_sent": [
-            {
-              "original_roster_id": 1,
-              "round": 2,
-              "season": "2026"
-            },
             {
               "original_roster_id": 8,
               "round": 2,
@@ -3596,11 +3290,6 @@
           "picks_sent": [
             {
               "original_roster_id": 1,
-              "round": 3,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 1,
               "round": 2,
               "season": "2027"
             }
@@ -3620,11 +3309,6 @@
           "owner_display_name": "AlexPete6800",
           "owner_id": "308805697879937024",
           "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 3,
-              "season": "2026"
-            },
             {
               "original_roster_id": 1,
               "round": 2,
@@ -3661,13 +3345,7 @@
           "owner_display_name": "shawnh56",
           "owner_id": "736992907139158016",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 4,
-              "round": 7,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "6806",
@@ -3687,13 +3365,7 @@
         {
           "owner_display_name": "srsmith95",
           "owner_id": "872351659366539264",
-          "picks_received": [
-            {
-              "original_roster_id": 4,
-              "round": 7,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -3709,7 +3381,7 @@
           ],
           "roster_id": 5,
           "season": 2025,
-          "team_name": "Steven "
+          "team_name": "Steven"
         }
       ],
       "transaction_id": "1289400140460728320",
@@ -3730,11 +3402,6 @@
           "owner_id": "736992907139158016",
           "picks_received": [],
           "picks_sent": [
-            {
-              "original_roster_id": 1,
-              "round": 2,
-              "season": "2026"
-            },
             {
               "original_roster_id": 9,
               "round": 1,
@@ -3761,11 +3428,6 @@
           "owner_display_name": "TacticsNoob",
           "owner_id": "1129546394534158336",
           "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 2,
-              "season": "2026"
-            },
             {
               "original_roster_id": 9,
               "round": 1,
@@ -3832,7 +3494,7 @@
           ],
           "roster_id": 3,
           "season": 2026,
-          "team_name": "Ravens Regime "
+          "team_name": "Ravens Regime"
         },
         {
           "owner_display_name": "awang1900",
@@ -3863,7 +3525,7 @@
           ],
           "roster_id": 11,
           "season": 2026,
-          "team_name": "Corgi Loaf Baking Co. "
+          "team_name": "Corgi Loaf Baking Co."
         }
       ],
       "transaction_id": "1312221800045764608",
@@ -3908,7 +3570,7 @@
           ],
           "roster_id": 3,
           "season": 2026,
-          "team_name": "Ravens Regime "
+          "team_name": "Ravens Regime"
         },
         {
           "owner_display_name": "nickas",
@@ -4029,7 +3691,7 @@
           "players_sent": [],
           "roster_id": 5,
           "season": 2026,
-          "team_name": "Northside Kings "
+          "team_name": "Northside Kings"
         }
       ],
       "transaction_id": "1353525670856101888",
@@ -4049,18 +3711,7 @@
           "owner_display_name": "Mentomorii",
           "owner_id": "992908759074680832",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 3,
-              "round": 2,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 4,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "8121",
@@ -4075,23 +3726,12 @@
           ],
           "roster_id": 3,
           "season": 2026,
-          "team_name": "Ravens Regime "
+          "team_name": "Ravens Regime"
         },
         {
           "owner_display_name": "PIFYAF",
           "owner_id": "1132141719354535936",
-          "picks_received": [
-            {
-              "original_roster_id": 3,
-              "round": 2,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 7,
-              "round": 4,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -4148,7 +3788,7 @@
           ],
           "roster_id": 5,
           "season": 2026,
-          "team_name": "Northside Kings "
+          "team_name": "Northside Kings"
         },
         {
           "owner_display_name": "awang1900",
@@ -4175,7 +3815,7 @@
           ],
           "roster_id": 11,
           "season": 2026,
-          "team_name": "Corgi Loaf Baking Co. "
+          "team_name": "Corgi Loaf Baking Co."
         }
       ],
       "transaction_id": "1365141099814850563",
@@ -4263,7 +3903,7 @@
           ],
           "roster_id": 11,
           "season": 2026,
-          "team_name": "Corgi Loaf Baking Co. "
+          "team_name": "Corgi Loaf Baking Co."
         }
       ],
       "transaction_id": "1365414360763080704",
@@ -4331,7 +3971,7 @@
           ],
           "roster_id": 11,
           "season": 2026,
-          "team_name": "Corgi Loaf Baking Co. "
+          "team_name": "Corgi Loaf Baking Co."
         }
       ],
       "transaction_id": "1373364236708745216",
@@ -4357,18 +3997,7 @@
               "season": "2027"
             }
           ],
-          "picks_sent": [
-            {
-              "original_roster_id": 11,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 8,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "8151",
@@ -4383,23 +4012,12 @@
           ],
           "roster_id": 7,
           "season": 2026,
-          "team_name": "Badland Banditos "
+          "team_name": "Badland Banditos"
         },
         {
           "owner_display_name": "nickas",
           "owner_id": "471824466389757952",
-          "picks_received": [
-            {
-              "original_roster_id": 11,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 8,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [
             {
               "original_roster_id": 16,
@@ -4441,11 +4059,6 @@
           "owner_display_name": "Choopski",
           "owner_id": "863881053000011776",
           "picks_received": [
-            {
-              "original_roster_id": 12,
-              "round": 1,
-              "season": "2026"
-            },
             {
               "original_roster_id": 12,
               "round": 2,
@@ -4499,11 +4112,6 @@
             }
           ],
           "picks_sent": [
-            {
-              "original_roster_id": 12,
-              "round": 1,
-              "season": "2026"
-            },
             {
               "original_roster_id": 12,
               "round": 2,
@@ -4605,7 +4213,7 @@
           ],
           "roster_id": 3,
           "season": 2026,
-          "team_name": "Ravens Regime "
+          "team_name": "Ravens Regime"
         }
       ],
       "transaction_id": "1376777157744812032",
@@ -4697,7 +4305,7 @@
           ],
           "roster_id": 5,
           "season": 2026,
-          "team_name": "Northside Kings "
+          "team_name": "Northside Kings"
         },
         {
           "owner_display_name": "nickas",
@@ -4845,7 +4453,7 @@
           ],
           "roster_id": 15,
           "season": 2026,
-          "team_name": "Gringo’s Goblins "
+          "team_name": "Gringo’s Goblins"
         }
       ],
       "transaction_id": "1380604251050356736",
@@ -4876,13 +4484,7 @@
               "season": "2028"
             }
           ],
-          "picks_sent": [
-            {
-              "original_roster_id": 2,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [],
           "players_sent": [],
           "roster_id": 2,
@@ -4892,13 +4494,7 @@
         {
           "owner_display_name": "awang1900",
           "owner_id": "986498458162970624",
-          "picks_received": [
-            {
-              "original_roster_id": 2,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [
             {
               "original_roster_id": 11,
@@ -4915,7 +4511,7 @@
           "players_sent": [],
           "roster_id": 11,
           "season": 2026,
-          "team_name": "Corgi Loaf Baking Co. "
+          "team_name": "Corgi Loaf Baking Co."
         }
       ],
       "transaction_id": "1380817964328034304",
@@ -4934,20 +4530,8 @@
         {
           "owner_display_name": "Thecan",
           "owner_id": "736993578450030592",
-          "picks_received": [
-            {
-              "original_roster_id": 9,
-              "round": 20,
-              "season": "2026"
-            }
-          ],
-          "picks_sent": [
-            {
-              "original_roster_id": 1,
-              "round": 20,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
+          "picks_sent": [],
           "players_received": [],
           "players_sent": [],
           "roster_id": 1,
@@ -4957,20 +4541,8 @@
         {
           "owner_display_name": "Choopski",
           "owner_id": "863881053000011776",
-          "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 20,
-              "season": "2026"
-            }
-          ],
-          "picks_sent": [
-            {
-              "original_roster_id": 9,
-              "round": 20,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
+          "picks_sent": [],
           "players_received": [],
           "players_sent": [],
           "roster_id": 9,
@@ -4995,13 +4567,7 @@
           "owner_display_name": "Mentomorii",
           "owner_id": "992908759074680832",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 13,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "3198",
@@ -5016,18 +4582,12 @@
           ],
           "roster_id": 3,
           "season": 2026,
-          "team_name": "Ravens Regime "
+          "team_name": "Ravens Regime"
         },
         {
           "owner_display_name": "Hofer51",
           "owner_id": "736994691492519936",
-          "picks_received": [
-            {
-              "original_roster_id": 13,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -5063,13 +4623,7 @@
           "owner_display_name": "Mentomorii",
           "owner_id": "992908759074680832",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 1,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "8148",
@@ -5084,18 +4638,12 @@
           ],
           "roster_id": 3,
           "season": 2026,
-          "team_name": "Ravens Regime "
+          "team_name": "Ravens Regime"
         },
         {
           "owner_display_name": "Choopski",
           "owner_id": "863881053000011776",
-          "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -5133,11 +4681,6 @@
           "picks_received": [],
           "picks_sent": [
             {
-              "original_roster_id": 1,
-              "round": 1,
-              "season": "2026"
-            },
-            {
               "original_roster_id": 9,
               "round": 1,
               "season": "2028"
@@ -5167,11 +4710,6 @@
           "owner_display_name": "TacticsNoob",
           "owner_id": "1129546394534158336",
           "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 1,
-              "season": "2026"
-            },
             {
               "original_roster_id": 9,
               "round": 1,
@@ -5217,13 +4755,7 @@
           "owner_display_name": "Mentomorii",
           "owner_id": "992908759074680832",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 2,
-              "round": 2,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "12518",
@@ -5242,18 +4774,12 @@
           ],
           "roster_id": 3,
           "season": 2026,
-          "team_name": "Ravens Regime "
+          "team_name": "Ravens Regime"
         },
         {
           "owner_display_name": "srsmith95",
           "owner_id": "872351659366539264",
-          "picks_received": [
-            {
-              "original_roster_id": 2,
-              "round": 2,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [
             {
@@ -5273,7 +4799,7 @@
           ],
           "roster_id": 5,
           "season": 2026,
-          "team_name": "Northside Kings "
+          "team_name": "Northside Kings"
         }
       ],
       "transaction_id": "1383224827728367616",
@@ -5348,20 +4874,8 @@
         {
           "owner_display_name": "Thecan",
           "owner_id": "736993578450030592",
-          "picks_received": [
-            {
-              "original_roster_id": 12,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
-          "picks_sent": [
-            {
-              "original_roster_id": 1,
-              "round": 5,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "3257",
@@ -5381,20 +4895,8 @@
         {
           "owner_display_name": "Choopski",
           "owner_id": "863881053000011776",
-          "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 5,
-              "season": "2026"
-            }
-          ],
-          "picks_sent": [
-            {
-              "original_roster_id": 12,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "4892",
@@ -5428,20 +4930,8 @@
         {
           "owner_display_name": "Thecan",
           "owner_id": "736993578450030592",
-          "picks_received": [
-            {
-              "original_roster_id": 1,
-              "round": 5,
-              "season": "2026"
-            }
-          ],
-          "picks_sent": [
-            {
-              "original_roster_id": 12,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
+          "picks_sent": [],
           "players_received": [],
           "players_sent": [],
           "roster_id": 1,
@@ -5451,20 +4941,8 @@
         {
           "owner_display_name": "Choopski",
           "owner_id": "863881053000011776",
-          "picks_received": [
-            {
-              "original_roster_id": 12,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
-          "picks_sent": [
-            {
-              "original_roster_id": 1,
-              "round": 5,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
+          "picks_sent": [],
           "players_received": [],
           "players_sent": [],
           "roster_id": 9,
@@ -5488,18 +4966,7 @@
         {
           "owner_display_name": "awang1900",
           "owner_id": "986498458162970624",
-          "picks_received": [
-            {
-              "original_roster_id": 16,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 8,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [
             {
               "original_roster_id": 11,
@@ -5525,7 +4992,7 @@
           ],
           "roster_id": 11,
           "season": 2026,
-          "team_name": "Corgi Loaf Baking Co. "
+          "team_name": "Corgi Loaf Baking Co."
         },
         {
           "owner_display_name": "nickas",
@@ -5542,18 +5009,7 @@
               "season": "2028"
             }
           ],
-          "picks_sent": [
-            {
-              "original_roster_id": 16,
-              "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 8,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "12502",
@@ -5650,19 +5106,8 @@
         {
           "owner_display_name": "Mentomorii",
           "owner_id": "992908759074680832",
-          "picks_received": [
-            {
-              "original_roster_id": 2,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [
-            {
-              "original_roster_id": 3,
-              "round": 1,
-              "season": "2026"
-            },
             {
               "original_roster_id": 3,
               "round": 1,
@@ -5687,7 +5132,7 @@
           ],
           "roster_id": 3,
           "season": 2026,
-          "team_name": "Ravens Regime "
+          "team_name": "Ravens Regime"
         },
         {
           "owner_display_name": "awang1900",
@@ -5696,21 +5141,10 @@
             {
               "original_roster_id": 3,
               "round": 1,
-              "season": "2026"
-            },
-            {
-              "original_roster_id": 3,
-              "round": 1,
               "season": "2028"
             }
           ],
-          "picks_sent": [
-            {
-              "original_roster_id": 2,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "12518",
@@ -5729,7 +5163,7 @@
           ],
           "roster_id": 11,
           "season": 2026,
-          "team_name": "Corgi Loaf Baking Co. "
+          "team_name": "Corgi Loaf Baking Co."
         }
       ],
       "transaction_id": "1386987441226792960",
@@ -5748,20 +5182,8 @@
         {
           "owner_display_name": "FuzzyRaptor",
           "owner_id": "1178861684281753600",
-          "picks_received": [
-            {
-              "original_roster_id": 3,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
-          "picks_sent": [
-            {
-              "original_roster_id": 2,
-              "round": 3,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
+          "picks_sent": [],
           "players_received": [],
           "players_sent": [
             {
@@ -5776,20 +5198,8 @@
         {
           "owner_display_name": "awang1900",
           "owner_id": "986498458162970624",
-          "picks_received": [
-            {
-              "original_roster_id": 2,
-              "round": 3,
-              "season": "2026"
-            }
-          ],
-          "picks_sent": [
-            {
-              "original_roster_id": 3,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "8126",
@@ -5799,7 +5209,7 @@
           "players_sent": [],
           "roster_id": 11,
           "season": 2026,
-          "team_name": "Corgi Loaf Baking Co. "
+          "team_name": "Corgi Loaf Baking Co."
         }
       ],
       "transaction_id": "1387232278626713600",
@@ -5818,13 +5228,7 @@
         {
           "owner_display_name": "shawnh56",
           "owner_id": "736992907139158016",
-          "picks_received": [
-            {
-              "original_roster_id": 16,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_received": [],
           "picks_sent": [],
           "players_received": [],
           "players_sent": [
@@ -5841,13 +5245,7 @@
           "owner_display_name": "awang1900",
           "owner_id": "986498458162970624",
           "picks_received": [],
-          "picks_sent": [
-            {
-              "original_roster_id": 16,
-              "round": 1,
-              "season": "2026"
-            }
-          ],
+          "picks_sent": [],
           "players_received": [
             {
               "player_id": "4983",
@@ -5857,7 +5255,7 @@
           "players_sent": [],
           "roster_id": 11,
           "season": 2026,
-          "team_name": "Corgi Loaf Baking Co. "
+          "team_name": "Corgi Loaf Baking Co."
         }
       ],
       "transaction_id": "1387942050321678336",
@@ -6000,7 +5398,7 @@
           ],
           "roster_id": 11,
           "season": 2026,
-          "team_name": "Corgi Loaf Baking Co. "
+          "team_name": "Corgi Loaf Baking Co."
         },
         {
           "owner_display_name": "TacticsNoob",

@@ -1,15 +1,15 @@
 {
   "schema_version": 9,
   "franchise_id": "lightskin-legends",
-  "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
+  "franchise_name": "Lightskin Legends ✊🏽",
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
   "reporting_period": "Week of August 2, 2026",
   "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
-  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #11 of 16 with a 584.10 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "headline": "Lightskin Legends ✊🏽: Preseason Front Office Brief",
+  "executive_summary": "Lightskin Legends ✊🏽 is projected #11 of 16 with a 584.10 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown and Javonte Williams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 11,
     "league_size": 16,
@@ -21,7 +21,7 @@
       "gap": 0.0
     },
     "team_below": {
-      "name": "Gringo\u2019s Goblins",
+      "name": "Gringo’s Goblins",
       "rank": 12,
       "score": 566.2,
       "gap": 17.899999999999977
@@ -40,14 +40,14 @@
     "transaction_id": "1288899605622165504",
     "created_at": "2025-10-28T14:02:01.879000+00:00",
     "type": "trade",
-    "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd completed a trade with SmokyValleyWheatWarriors and acquired Kayshon Boutte and sent 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors).",
+    "summary": "On October 28, Lightskin Legends ✊🏽 completed a trade with SmokyValleyWheatWarriors and acquired Kayshon Boutte and sent, 2027 Round 2 (Conquistadors).",
     "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
   },
   "gap_closing_moves": [
     "Raise the FLEX slot above Rashod Bateman's 43.9 C-AVI baseline; a replacement near 57.0 C-AVI would directly attack the 0.00-point projected gap to DMV Fantasy."
   ],
   "rival_below": {
-    "franchise_name": "Gringo\u2019s Goblins",
+    "franchise_name": "Gringo’s Goblins",
     "projected_rank": 12,
     "projected_score": 566.2,
     "latest_trade": null,
@@ -55,26 +55,26 @@
       "transaction_id": "1389820420823195648",
       "created_at": "2026-08-03T01:45:19.241000+00:00",
       "type": "free_agent",
-      "summary": "On August 2, Gringo\u2019s Goblins completed a free-agent move and added Cooper DeJean while dropped Jaylen Wright.",
+      "summary": "On August 2, Gringo’s Goblins completed a free-agent move and added Cooper DeJean while dropped Jaylen Wright.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 2, Gringo\u2019s Goblins completed a free-agent move and added Cooper DeJean while dropped Jaylen Wright."
+    "summary": "On August 2, Gringo’s Goblins completed a free-agent move and added Cooper DeJean while dropped Jaylen Wright."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #11 of 16 at 584.10 lineup C-AVI. DMV Fantasy is immediately above at 584.10, a gap of 0.00. Gringo\u2019s Goblins is immediately behind at 566.20."
+      "body": "Projected #11 of 16 at 584.10 lineup C-AVI. DMV Fantasy is immediately above at 584.10, a gap of 0.00. Gringo’s Goblins is immediately behind at 566.20."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jonathan Taylor (97.7), Chase Brown (96.4), and Javonte Williams (81.4)."
+      "body": "The three highest C-AVI starters are Jonathan Taylor (97.7), Chase Brown (96.4) and Javonte Williams (81.4)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On October 28, Lightskin Legends \u270a\ud83c\udffd completed a trade with SmokyValleyWheatWarriors and acquired Kayshon Boutte and sent 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors)."
+      "body": "On October 28, Lightskin Legends ✊🏽 completed a trade with SmokyValleyWheatWarriors and acquired Kayshon Boutte and sent, 2027 Round 2 (Conquistadors)."
     },
     {
       "id": "close-the-gap",
@@ -87,7 +87,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 2, Gringo\u2019s Goblins completed a free-agent move and added Cooper DeJean while dropped Jaylen Wright."
+      "body": "On August 2, Gringo’s Goblins completed a free-agent move and added Cooper DeJean while dropped Jaylen Wright."
     },
     {
       "id": "lineup-pressure-point",

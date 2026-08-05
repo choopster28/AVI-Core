@@ -201,14 +201,6 @@
         "roster_id": 5,
         "round": 1,
         "season": "2025"
-      },
-      {
-        "league_id": null,
-        "owner_id": 1,
-        "previous_owner_id": 5,
-        "roster_id": 5,
-        "round": 3,
-        "season": "2026"
       }
     ],
     "drops": {

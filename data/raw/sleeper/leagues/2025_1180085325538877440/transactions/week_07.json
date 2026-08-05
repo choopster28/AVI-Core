@@ -307,14 +307,6 @@
         "league_id": null,
         "owner_id": 4,
         "previous_owner_id": 8,
-        "roster_id": 1,
-        "round": 2,
-        "season": "2026"
-      },
-      {
-        "league_id": null,
-        "owner_id": 4,
-        "previous_owner_id": 8,
         "roster_id": 8,
         "round": 2,
         "season": "2027"
@@ -693,16 +685,7 @@
     ],
     "created": 1760671642579,
     "creator": "986498458162970624",
-    "draft_picks": [
-      {
-        "league_id": null,
-        "owner_id": 5,
-        "previous_owner_id": 11,
-        "roster_id": 11,
-        "round": 3,
-        "season": "2026"
-      }
-    ],
+    "draft_picks": [],
     "drops": {
       "11655": 11,
       "12504": 5

@@ -9,7 +9,7 @@
   "generated_at": "2026-08-02T20:07:30.743057-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Badland Banditos: Preseason Front Office Brief",
-  "executive_summary": "Badland Banditos is projected #9 of 16 with a 617.50 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Badland Banditos is projected #9 of 16 with a 617.50 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 9,
     "league_size": 16,
@@ -40,7 +40,7 @@
     "transaction_id": "1375593798167461888",
     "created_at": "2026-06-24T19:33:48.082000+00:00",
     "type": "trade",
-    "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus).",
+    "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez,.",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
@@ -69,12 +69,12 @@
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.0), and Kenneth Walker (87.7)."
+      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.0) and Kenneth Walker (87.7)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus)."
+      "body": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez,."
     },
     {
       "id": "close-the-gap",
