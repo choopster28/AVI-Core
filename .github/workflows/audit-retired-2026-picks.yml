@@ -1,0 +1,49 @@
+name: Audit Retired 2026 Picks
+on:
+  push:
+    paths:
+      - '.github/workflows/audit-retired-2026-picks.yml'
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit active 2026 draft-pick references
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path('.')
+          allowed = {'.json', '.md', '.txt', '.py', '.yml', '.yaml', '.csv'}
+          patterns = [
+              re.compile(r'2026[_ .-](?:0?[1-9]|10)[_ .-](?:0?[1-9]|1[0-6])', re.I),
+              re.compile(r'2026\s+(?:pick\s+)?(?:[1-9]|10)\.(?:0?[1-9]|1[0-6])', re.I),
+              re.compile(r'2026[^\n]{0,80}(?:draft\s*pick|pick|round|1st|2nd|3rd)', re.I),
+              re.compile(r'(?:draft\s*pick|pick|round|1st|2nd|3rd)[^\n]{0,80}2026', re.I),
+          ]
+          rows = []
+          for path in sorted(root.rglob('*')):
+              if not path.is_file() or path.suffix.lower() not in allowed:
+                  continue
+              if any(part in {'.git', '.venv', 'venv', '__pycache__', 'node_modules'} for part in path.parts):
+                  continue
+              try:
+                  text = path.read_text(encoding='utf-8')
+              except UnicodeDecodeError:
+                  continue
+              for number, line in enumerate(text.splitlines(), 1):
+                  if any(pattern.search(line) for pattern in patterns):
+                      rows.append(f'{path}:{number}: {line[:500]}')
+          Path('audit_retired_2026_picks.txt').write_text('\n'.join(rows) + ('\n' if rows else ''), encoding='utf-8')
+          print(f'Found {len(rows)} candidate lines')
+          PY
+      - name: Commit audit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add audit_retired_2026_picks.txt
+          git commit -m 'Audit retired 2026 draft pick references'
+          git push
