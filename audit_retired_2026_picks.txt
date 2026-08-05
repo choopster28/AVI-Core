@@ -1,0 +1,979 @@
+.github/workflows/audit-retired-2026-picks.yml:1: name: Audit Retired 2026 Picks
+.github/workflows/audit-retired-2026-picks.yml:5:       - '.github/workflows/audit-retired-2026-picks.yml'
+.github/workflows/audit-retired-2026-picks.yml:13:       - name: Audit active 2026 draft-pick references
+.github/workflows/audit-retired-2026-picks.yml:23:               re.compile(r'2026\s+(?:pick\s+)?(?:[1-9]|10)\.(?:0?[1-9]|1[0-6])', re.I),
+.github/workflows/audit-retired-2026-picks.yml:24:               re.compile(r'2026[^\n]{0,80}(?:draft\s*pick|pick|round|1st|2nd|3rd)', re.I),
+.github/workflows/audit-retired-2026-picks.yml:25:               re.compile(r'(?:draft\s*pick|pick|round|1st|2nd|3rd)[^\n]{0,80}2026', re.I),
+.github/workflows/audit-retired-2026-picks.yml:40:           Path('audit_retired_2026_picks.txt').write_text('\n'.join(rows) + ('\n' if rows else ''), encoding='utf-8')
+.github/workflows/audit-retired-2026-picks.yml:47:           git add audit_retired_2026_picks.txt
+.github/workflows/audit-retired-2026-picks.yml:48:           git commit -m 'Audit retired 2026 draft pick references'
+data/processed/avi/manifest.json:19:   "generated_at_utc": "2026-08-04T08:05:20.909370+00:00",
+data/processed/reports/draft_pick_values.json:12:   "generated_at_utc": "2026-08-05T06:14:35.106530+00:00",
+data/processed/reports/draft_pick_values.json:24:       "pick_id": "2026_01_01",
+data/processed/reports/draft_pick_values.json:25:       "pick_label": "2026 1.01",
+data/processed/reports/draft_pick_values.json:38:       "pick_id": "2026_01_02",
+data/processed/reports/draft_pick_values.json:39:       "pick_label": "2026 1.02",
+data/processed/reports/draft_pick_values.json:52:       "pick_id": "2026_01_03",
+data/processed/reports/draft_pick_values.json:53:       "pick_label": "2026 1.03",
+data/processed/reports/draft_pick_values.json:66:       "pick_id": "2026_01_04",
+data/processed/reports/draft_pick_values.json:67:       "pick_label": "2026 1.04",
+data/processed/reports/draft_pick_values.json:80:       "pick_id": "2026_01_05",
+data/processed/reports/draft_pick_values.json:81:       "pick_label": "2026 1.05",
+data/processed/reports/draft_pick_values.json:94:       "pick_id": "2026_01_06",
+data/processed/reports/draft_pick_values.json:95:       "pick_label": "2026 1.06",
+data/processed/reports/draft_pick_values.json:108:       "pick_id": "2026_01_07",
+data/processed/reports/draft_pick_values.json:109:       "pick_label": "2026 1.07",
+data/processed/reports/draft_pick_values.json:122:       "pick_id": "2026_01_08",
+data/processed/reports/draft_pick_values.json:123:       "pick_label": "2026 1.08",
+data/processed/reports/draft_pick_values.json:136:       "pick_id": "2026_01_09",
+data/processed/reports/draft_pick_values.json:137:       "pick_label": "2026 1.09",
+data/processed/reports/draft_pick_values.json:150:       "pick_id": "2026_01_10",
+data/processed/reports/draft_pick_values.json:151:       "pick_label": "2026 1.10",
+data/processed/reports/draft_pick_values.json:164:       "pick_id": "2026_01_11",
+data/processed/reports/draft_pick_values.json:165:       "pick_label": "2026 1.11",
+data/processed/reports/draft_pick_values.json:178:       "pick_id": "2026_01_12",
+data/processed/reports/draft_pick_values.json:179:       "pick_label": "2026 1.12",
+data/processed/reports/draft_pick_values.json:192:       "pick_id": "2026_01_13",
+data/processed/reports/draft_pick_values.json:193:       "pick_label": "2026 1.13",
+data/processed/reports/draft_pick_values.json:206:       "pick_id": "2026_01_14",
+data/processed/reports/draft_pick_values.json:207:       "pick_label": "2026 1.14",
+data/processed/reports/draft_pick_values.json:220:       "pick_id": "2026_01_15",
+data/processed/reports/draft_pick_values.json:221:       "pick_label": "2026 1.15",
+data/processed/reports/draft_pick_values.json:234:       "pick_id": "2026_01_16",
+data/processed/reports/draft_pick_values.json:235:       "pick_label": "2026 1.16",
+data/processed/reports/draft_pick_values.json:248:       "pick_id": "2026_02_01",
+data/processed/reports/draft_pick_values.json:249:       "pick_label": "2026 2.01",
+data/processed/reports/draft_pick_values.json:262:       "pick_id": "2026_02_02",
+data/processed/reports/draft_pick_values.json:263:       "pick_label": "2026 2.02",
+data/processed/reports/draft_pick_values.json:276:       "pick_id": "2026_02_03",
+data/processed/reports/draft_pick_values.json:277:       "pick_label": "2026 2.03",
+data/processed/reports/draft_pick_values.json:290:       "pick_id": "2026_02_04",
+data/processed/reports/draft_pick_values.json:291:       "pick_label": "2026 2.04",
+data/processed/reports/draft_pick_values.json:304:       "pick_id": "2026_02_05",
+data/processed/reports/draft_pick_values.json:305:       "pick_label": "2026 2.05",
+data/processed/reports/draft_pick_values.json:318:       "pick_id": "2026_02_06",
+data/processed/reports/draft_pick_values.json:319:       "pick_label": "2026 2.06",
+data/processed/reports/draft_pick_values.json:332:       "pick_id": "2026_02_07",
+data/processed/reports/draft_pick_values.json:333:       "pick_label": "2026 2.07",
+data/processed/reports/draft_pick_values.json:346:       "pick_id": "2026_02_08",
+data/processed/reports/draft_pick_values.json:347:       "pick_label": "2026 2.08",
+data/processed/reports/draft_pick_values.json:360:       "pick_id": "2026_02_09",
+data/processed/reports/draft_pick_values.json:361:       "pick_label": "2026 2.09",
+data/processed/reports/draft_pick_values.json:374:       "pick_id": "2026_02_10",
+data/processed/reports/draft_pick_values.json:375:       "pick_label": "2026 2.10",
+data/processed/reports/draft_pick_values.json:388:       "pick_id": "2026_02_11",
+data/processed/reports/draft_pick_values.json:389:       "pick_label": "2026 2.11",
+data/processed/reports/draft_pick_values.json:402:       "pick_id": "2026_02_12",
+data/processed/reports/draft_pick_values.json:403:       "pick_label": "2026 2.12",
+data/processed/reports/draft_pick_values.json:416:       "pick_id": "2026_02_13",
+data/processed/reports/draft_pick_values.json:417:       "pick_label": "2026 2.13",
+data/processed/reports/draft_pick_values.json:430:       "pick_id": "2026_02_14",
+data/processed/reports/draft_pick_values.json:431:       "pick_label": "2026 2.14",
+data/processed/reports/draft_pick_values.json:444:       "pick_id": "2026_02_15",
+data/processed/reports/draft_pick_values.json:445:       "pick_label": "2026 2.15",
+data/processed/reports/draft_pick_values.json:458:       "pick_id": "2026_02_16",
+data/processed/reports/draft_pick_values.json:459:       "pick_label": "2026 2.16",
+data/processed/reports/draft_pick_values.json:472:       "pick_id": "2026_03_01",
+data/processed/reports/draft_pick_values.json:473:       "pick_label": "2026 3.01",
+data/processed/reports/draft_pick_values.json:486:       "pick_id": "2026_03_02",
+data/processed/reports/draft_pick_values.json:487:       "pick_label": "2026 3.02",
+data/processed/reports/draft_pick_values.json:500:       "pick_id": "2026_03_03",
+data/processed/reports/draft_pick_values.json:501:       "pick_label": "2026 3.03",
+data/processed/reports/draft_pick_values.json:514:       "pick_id": "2026_03_04",
+data/processed/reports/draft_pick_values.json:515:       "pick_label": "2026 3.04",
+data/processed/reports/draft_pick_values.json:528:       "pick_id": "2026_03_05",
+data/processed/reports/draft_pick_values.json:529:       "pick_label": "2026 3.05",
+data/processed/reports/draft_pick_values.json:542:       "pick_id": "2026_03_06",
+data/processed/reports/draft_pick_values.json:543:       "pick_label": "2026 3.06",
+data/processed/reports/draft_pick_values.json:556:       "pick_id": "2026_03_07",
+data/processed/reports/draft_pick_values.json:557:       "pick_label": "2026 3.07",
+data/processed/reports/draft_pick_values.json:570:       "pick_id": "2026_03_08",
+data/processed/reports/draft_pick_values.json:571:       "pick_label": "2026 3.08",
+data/processed/reports/draft_pick_values.json:584:       "pick_id": "2026_03_09",
+data/processed/reports/draft_pick_values.json:585:       "pick_label": "2026 3.09",
+data/processed/reports/draft_pick_values.json:598:       "pick_id": "2026_03_10",
+data/processed/reports/draft_pick_values.json:599:       "pick_label": "2026 3.10",
+data/processed/reports/draft_pick_values.json:612:       "pick_id": "2026_03_11",
+data/processed/reports/draft_pick_values.json:613:       "pick_label": "2026 3.11",
+data/processed/reports/draft_pick_values.json:626:       "pick_id": "2026_03_12",
+data/processed/reports/draft_pick_values.json:627:       "pick_label": "2026 3.12",
+data/processed/reports/draft_pick_values.json:640:       "pick_id": "2026_03_13",
+data/processed/reports/draft_pick_values.json:641:       "pick_label": "2026 3.13",
+data/processed/reports/draft_pick_values.json:654:       "pick_id": "2026_03_14",
+data/processed/reports/draft_pick_values.json:655:       "pick_label": "2026 3.14",
+data/processed/reports/draft_pick_values.json:668:       "pick_id": "2026_03_15",
+data/processed/reports/draft_pick_values.json:669:       "pick_label": "2026 3.15",
+data/processed/reports/draft_pick_values.json:682:       "pick_id": "2026_03_16",
+data/processed/reports/draft_pick_values.json:683:       "pick_label": "2026 3.16",
+data/processed/reports/draft_pick_values.json:696:       "pick_id": "2026_04_01",
+data/processed/reports/draft_pick_values.json:697:       "pick_label": "2026 4.01",
+data/processed/reports/draft_pick_values.json:710:       "pick_id": "2026_04_02",
+data/processed/reports/draft_pick_values.json:711:       "pick_label": "2026 4.02",
+data/processed/reports/draft_pick_values.json:724:       "pick_id": "2026_04_03",
+data/processed/reports/draft_pick_values.json:725:       "pick_label": "2026 4.03",
+data/processed/reports/draft_pick_values.json:738:       "pick_id": "2026_04_04",
+data/processed/reports/draft_pick_values.json:739:       "pick_label": "2026 4.04",
+data/processed/reports/draft_pick_values.json:752:       "pick_id": "2026_04_05",
+data/processed/reports/draft_pick_values.json:753:       "pick_label": "2026 4.05",
+data/processed/reports/draft_pick_values.json:766:       "pick_id": "2026_04_06",
+data/processed/reports/draft_pick_values.json:767:       "pick_label": "2026 4.06",
+data/processed/reports/draft_pick_values.json:780:       "pick_id": "2026_04_07",
+data/processed/reports/draft_pick_values.json:781:       "pick_label": "2026 4.07",
+data/processed/reports/draft_pick_values.json:794:       "pick_id": "2026_04_08",
+data/processed/reports/draft_pick_values.json:795:       "pick_label": "2026 4.08",
+data/processed/reports/draft_pick_values.json:808:       "pick_id": "2026_04_09",
+data/processed/reports/draft_pick_values.json:809:       "pick_label": "2026 4.09",
+data/processed/reports/draft_pick_values.json:822:       "pick_id": "2026_04_10",
+data/processed/reports/draft_pick_values.json:823:       "pick_label": "2026 4.10",
+data/processed/reports/draft_pick_values.json:836:       "pick_id": "2026_04_11",
+data/processed/reports/draft_pick_values.json:837:       "pick_label": "2026 4.11",
+data/processed/reports/draft_pick_values.json:850:       "pick_id": "2026_04_12",
+data/processed/reports/draft_pick_values.json:851:       "pick_label": "2026 4.12",
+data/processed/reports/draft_pick_values.json:864:       "pick_id": "2026_04_13",
+data/processed/reports/draft_pick_values.json:865:       "pick_label": "2026 4.13",
+data/processed/reports/draft_pick_values.json:878:       "pick_id": "2026_04_14",
+data/processed/reports/draft_pick_values.json:879:       "pick_label": "2026 4.14",
+data/processed/reports/draft_pick_values.json:892:       "pick_id": "2026_04_15",
+data/processed/reports/draft_pick_values.json:893:       "pick_label": "2026 4.15",
+data/processed/reports/draft_pick_values.json:906:       "pick_id": "2026_04_16",
+data/processed/reports/draft_pick_values.json:907:       "pick_label": "2026 4.16",
+data/processed/reports/draft_pick_values.json:920:       "pick_id": "2026_05_01",
+data/processed/reports/draft_pick_values.json:921:       "pick_label": "2026 5.01",
+data/processed/reports/draft_pick_values.json:934:       "pick_id": "2026_05_02",
+data/processed/reports/draft_pick_values.json:935:       "pick_label": "2026 5.02",
+data/processed/reports/draft_pick_values.json:948:       "pick_id": "2026_05_03",
+data/processed/reports/draft_pick_values.json:949:       "pick_label": "2026 5.03",
+data/processed/reports/draft_pick_values.json:962:       "pick_id": "2026_05_04",
+data/processed/reports/draft_pick_values.json:963:       "pick_label": "2026 5.04",
+data/processed/reports/draft_pick_values.json:976:       "pick_id": "2026_05_05",
+data/processed/reports/draft_pick_values.json:977:       "pick_label": "2026 5.05",
+data/processed/reports/draft_pick_values.json:990:       "pick_id": "2026_05_06",
+data/processed/reports/draft_pick_values.json:991:       "pick_label": "2026 5.06",
+data/processed/reports/draft_pick_values.json:1004:       "pick_id": "2026_05_07",
+data/processed/reports/draft_pick_values.json:1005:       "pick_label": "2026 5.07",
+data/processed/reports/draft_pick_values.json:1018:       "pick_id": "2026_05_08",
+data/processed/reports/draft_pick_values.json:1019:       "pick_label": "2026 5.08",
+data/processed/reports/draft_pick_values.json:1032:       "pick_id": "2026_05_09",
+data/processed/reports/draft_pick_values.json:1033:       "pick_label": "2026 5.09",
+data/processed/reports/draft_pick_values.json:1046:       "pick_id": "2026_05_10",
+data/processed/reports/draft_pick_values.json:1047:       "pick_label": "2026 5.10",
+data/processed/reports/draft_pick_values.json:1060:       "pick_id": "2026_05_11",
+data/processed/reports/draft_pick_values.json:1061:       "pick_label": "2026 5.11",
+data/processed/reports/draft_pick_values.json:1074:       "pick_id": "2026_05_12",
+data/processed/reports/draft_pick_values.json:1075:       "pick_label": "2026 5.12",
+data/processed/reports/draft_pick_values.json:1088:       "pick_id": "2026_05_13",
+data/processed/reports/draft_pick_values.json:1089:       "pick_label": "2026 5.13",
+data/processed/reports/draft_pick_values.json:1102:       "pick_id": "2026_05_14",
+data/processed/reports/draft_pick_values.json:1103:       "pick_label": "2026 5.14",
+data/processed/reports/draft_pick_values.json:1116:       "pick_id": "2026_05_15",
+data/processed/reports/draft_pick_values.json:1117:       "pick_label": "2026 5.15",
+data/processed/reports/draft_pick_values.json:1130:       "pick_id": "2026_05_16",
+data/processed/reports/draft_pick_values.json:1131:       "pick_label": "2026 5.16",
+data/processed/reports/draft_pick_values.json:1144:       "pick_id": "2026_06_01",
+data/processed/reports/draft_pick_values.json:1145:       "pick_label": "2026 6.01",
+data/processed/reports/draft_pick_values.json:1158:       "pick_id": "2026_06_02",
+data/processed/reports/draft_pick_values.json:1159:       "pick_label": "2026 6.02",
+data/processed/reports/draft_pick_values.json:1172:       "pick_id": "2026_06_03",
+data/processed/reports/draft_pick_values.json:1173:       "pick_label": "2026 6.03",
+data/processed/reports/draft_pick_values.json:1186:       "pick_id": "2026_06_04",
+data/processed/reports/draft_pick_values.json:1187:       "pick_label": "2026 6.04",
+data/processed/reports/draft_pick_values.json:1200:       "pick_id": "2026_06_05",
+data/processed/reports/draft_pick_values.json:1201:       "pick_label": "2026 6.05",
+data/processed/reports/draft_pick_values.json:1214:       "pick_id": "2026_06_06",
+data/processed/reports/draft_pick_values.json:1215:       "pick_label": "2026 6.06",
+data/processed/reports/draft_pick_values.json:1228:       "pick_id": "2026_06_07",
+data/processed/reports/draft_pick_values.json:1229:       "pick_label": "2026 6.07",
+data/processed/reports/draft_pick_values.json:1242:       "pick_id": "2026_06_08",
+data/processed/reports/draft_pick_values.json:1243:       "pick_label": "2026 6.08",
+data/processed/reports/draft_pick_values.json:1256:       "pick_id": "2026_06_09",
+data/processed/reports/draft_pick_values.json:1257:       "pick_label": "2026 6.09",
+data/processed/reports/draft_pick_values.json:1270:       "pick_id": "2026_06_10",
+data/processed/reports/draft_pick_values.json:1271:       "pick_label": "2026 6.10",
+data/processed/reports/draft_pick_values.json:1284:       "pick_id": "2026_06_11",
+data/processed/reports/draft_pick_values.json:1285:       "pick_label": "2026 6.11",
+data/processed/reports/draft_pick_values.json:1298:       "pick_id": "2026_06_12",
+data/processed/reports/draft_pick_values.json:1299:       "pick_label": "2026 6.12",
+data/processed/reports/draft_pick_values.json:1312:       "pick_id": "2026_06_13",
+data/processed/reports/draft_pick_values.json:1313:       "pick_label": "2026 6.13",
+data/processed/reports/draft_pick_values.json:1326:       "pick_id": "2026_06_14",
+data/processed/reports/draft_pick_values.json:1327:       "pick_label": "2026 6.14",
+data/processed/reports/draft_pick_values.json:1340:       "pick_id": "2026_06_15",
+data/processed/reports/draft_pick_values.json:1341:       "pick_label": "2026 6.15",
+data/processed/reports/draft_pick_values.json:1354:       "pick_id": "2026_06_16",
+data/processed/reports/draft_pick_values.json:1355:       "pick_label": "2026 6.16",
+data/processed/reports/draft_pick_values.json:1368:       "pick_id": "2026_07_01",
+data/processed/reports/draft_pick_values.json:1369:       "pick_label": "2026 7.01",
+data/processed/reports/draft_pick_values.json:1382:       "pick_id": "2026_07_02",
+data/processed/reports/draft_pick_values.json:1383:       "pick_label": "2026 7.02",
+data/processed/reports/draft_pick_values.json:1396:       "pick_id": "2026_07_03",
+data/processed/reports/draft_pick_values.json:1397:       "pick_label": "2026 7.03",
+data/processed/reports/draft_pick_values.json:1410:       "pick_id": "2026_07_04",
+data/processed/reports/draft_pick_values.json:1411:       "pick_label": "2026 7.04",
+data/processed/reports/draft_pick_values.json:1424:       "pick_id": "2026_07_05",
+data/processed/reports/draft_pick_values.json:1425:       "pick_label": "2026 7.05",
+data/processed/reports/draft_pick_values.json:1438:       "pick_id": "2026_07_06",
+data/processed/reports/draft_pick_values.json:1439:       "pick_label": "2026 7.06",
+data/processed/reports/draft_pick_values.json:1452:       "pick_id": "2026_07_07",
+data/processed/reports/draft_pick_values.json:1453:       "pick_label": "2026 7.07",
+data/processed/reports/draft_pick_values.json:1466:       "pick_id": "2026_07_08",
+data/processed/reports/draft_pick_values.json:1467:       "pick_label": "2026 7.08",
+data/processed/reports/draft_pick_values.json:1480:       "pick_id": "2026_07_09",
+data/processed/reports/draft_pick_values.json:1481:       "pick_label": "2026 7.09",
+data/processed/reports/draft_pick_values.json:1494:       "pick_id": "2026_07_10",
+data/processed/reports/draft_pick_values.json:1495:       "pick_label": "2026 7.10",
+data/processed/reports/draft_pick_values.json:1508:       "pick_id": "2026_07_11",
+data/processed/reports/draft_pick_values.json:1509:       "pick_label": "2026 7.11",
+data/processed/reports/draft_pick_values.json:1522:       "pick_id": "2026_07_12",
+data/processed/reports/draft_pick_values.json:1523:       "pick_label": "2026 7.12",
+data/processed/reports/draft_pick_values.json:1536:       "pick_id": "2026_07_13",
+data/processed/reports/draft_pick_values.json:1537:       "pick_label": "2026 7.13",
+data/processed/reports/draft_pick_values.json:1550:       "pick_id": "2026_07_14",
+data/processed/reports/draft_pick_values.json:1551:       "pick_label": "2026 7.14",
+data/processed/reports/draft_pick_values.json:1564:       "pick_id": "2026_07_15",
+data/processed/reports/draft_pick_values.json:1565:       "pick_label": "2026 7.15",
+data/processed/reports/draft_pick_values.json:1578:       "pick_id": "2026_07_16",
+data/processed/reports/draft_pick_values.json:1579:       "pick_label": "2026 7.16",
+data/processed/reports/draft_pick_values.json:1592:       "pick_id": "2026_08_01",
+data/processed/reports/draft_pick_values.json:1593:       "pick_label": "2026 8.01",
+data/processed/reports/draft_pick_values.json:1606:       "pick_id": "2026_08_02",
+data/processed/reports/draft_pick_values.json:1607:       "pick_label": "2026 8.02",
+data/processed/reports/draft_pick_values.json:1620:       "pick_id": "2026_08_03",
+data/processed/reports/draft_pick_values.json:1621:       "pick_label": "2026 8.03",
+data/processed/reports/draft_pick_values.json:1634:       "pick_id": "2026_08_04",
+data/processed/reports/draft_pick_values.json:1635:       "pick_label": "2026 8.04",
+data/processed/reports/draft_pick_values.json:1648:       "pick_id": "2026_08_05",
+data/processed/reports/draft_pick_values.json:1649:       "pick_label": "2026 8.05",
+data/processed/reports/draft_pick_values.json:1662:       "pick_id": "2026_08_06",
+data/processed/reports/draft_pick_values.json:1663:       "pick_label": "2026 8.06",
+data/processed/reports/draft_pick_values.json:1676:       "pick_id": "2026_08_07",
+data/processed/reports/draft_pick_values.json:1677:       "pick_label": "2026 8.07",
+data/processed/reports/draft_pick_values.json:1690:       "pick_id": "2026_08_08",
+data/processed/reports/draft_pick_values.json:1691:       "pick_label": "2026 8.08",
+data/processed/reports/draft_pick_values.json:1704:       "pick_id": "2026_08_09",
+data/processed/reports/draft_pick_values.json:1705:       "pick_label": "2026 8.09",
+data/processed/reports/draft_pick_values.json:1718:       "pick_id": "2026_08_10",
+data/processed/reports/draft_pick_values.json:1719:       "pick_label": "2026 8.10",
+data/processed/reports/draft_pick_values.json:1732:       "pick_id": "2026_08_11",
+data/processed/reports/draft_pick_values.json:1733:       "pick_label": "2026 8.11",
+data/processed/reports/draft_pick_values.json:1746:       "pick_id": "2026_08_12",
+data/processed/reports/draft_pick_values.json:1747:       "pick_label": "2026 8.12",
+data/processed/reports/draft_pick_values.json:1760:       "pick_id": "2026_08_13",
+data/processed/reports/draft_pick_values.json:1761:       "pick_label": "2026 8.13",
+data/processed/reports/draft_pick_values.json:1774:       "pick_id": "2026_08_14",
+data/processed/reports/draft_pick_values.json:1775:       "pick_label": "2026 8.14",
+data/processed/reports/draft_pick_values.json:1788:       "pick_id": "2026_08_15",
+data/processed/reports/draft_pick_values.json:1789:       "pick_label": "2026 8.15",
+data/processed/reports/draft_pick_values.json:1802:       "pick_id": "2026_08_16",
+data/processed/reports/draft_pick_values.json:1803:       "pick_label": "2026 8.16",
+data/processed/reports/draft_pick_values.json:1816:       "pick_id": "2026_09_01",
+data/processed/reports/draft_pick_values.json:1817:       "pick_label": "2026 9.01",
+data/processed/reports/draft_pick_values.json:1830:       "pick_id": "2026_09_02",
+data/processed/reports/draft_pick_values.json:1831:       "pick_label": "2026 9.02",
+data/processed/reports/draft_pick_values.json:1844:       "pick_id": "2026_09_03",
+data/processed/reports/draft_pick_values.json:1845:       "pick_label": "2026 9.03",
+data/processed/reports/draft_pick_values.json:1858:       "pick_id": "2026_09_04",
+data/processed/reports/draft_pick_values.json:1859:       "pick_label": "2026 9.04",
+data/processed/reports/draft_pick_values.json:1872:       "pick_id": "2026_09_05",
+data/processed/reports/draft_pick_values.json:1873:       "pick_label": "2026 9.05",
+data/processed/reports/draft_pick_values.json:1886:       "pick_id": "2026_09_06",
+data/processed/reports/draft_pick_values.json:1887:       "pick_label": "2026 9.06",
+data/processed/reports/draft_pick_values.json:1900:       "pick_id": "2026_09_07",
+data/processed/reports/draft_pick_values.json:1901:       "pick_label": "2026 9.07",
+data/processed/reports/draft_pick_values.json:1914:       "pick_id": "2026_09_08",
+data/processed/reports/draft_pick_values.json:1915:       "pick_label": "2026 9.08",
+data/processed/reports/draft_pick_values.json:1928:       "pick_id": "2026_09_09",
+data/processed/reports/draft_pick_values.json:1929:       "pick_label": "2026 9.09",
+data/processed/reports/draft_pick_values.json:1942:       "pick_id": "2026_09_10",
+data/processed/reports/draft_pick_values.json:1943:       "pick_label": "2026 9.10",
+data/processed/reports/draft_pick_values.json:1956:       "pick_id": "2026_09_11",
+data/processed/reports/draft_pick_values.json:1957:       "pick_label": "2026 9.11",
+data/processed/reports/draft_pick_values.json:1970:       "pick_id": "2026_09_12",
+data/processed/reports/draft_pick_values.json:1971:       "pick_label": "2026 9.12",
+data/processed/reports/draft_pick_values.json:1984:       "pick_id": "2026_09_13",
+data/processed/reports/draft_pick_values.json:1985:       "pick_label": "2026 9.13",
+data/processed/reports/draft_pick_values.json:1998:       "pick_id": "2026_09_14",
+data/processed/reports/draft_pick_values.json:1999:       "pick_label": "2026 9.14",
+data/processed/reports/draft_pick_values.json:2012:       "pick_id": "2026_09_15",
+data/processed/reports/draft_pick_values.json:2013:       "pick_label": "2026 9.15",
+data/processed/reports/draft_pick_values.json:2026:       "pick_id": "2026_09_16",
+data/processed/reports/draft_pick_values.json:2027:       "pick_label": "2026 9.16",
+data/processed/reports/draft_pick_values.json:2040:       "pick_id": "2026_10_01",
+data/processed/reports/draft_pick_values.json:2041:       "pick_label": "2026 10.01",
+data/processed/reports/draft_pick_values.json:2054:       "pick_id": "2026_10_02",
+data/processed/reports/draft_pick_values.json:2055:       "pick_label": "2026 10.02",
+data/processed/reports/draft_pick_values.json:2068:       "pick_id": "2026_10_03",
+data/processed/reports/draft_pick_values.json:2069:       "pick_label": "2026 10.03",
+data/processed/reports/draft_pick_values.json:2082:       "pick_id": "2026_10_04",
+data/processed/reports/draft_pick_values.json:2083:       "pick_label": "2026 10.04",
+data/processed/reports/draft_pick_values.json:2096:       "pick_id": "2026_10_05",
+data/processed/reports/draft_pick_values.json:2097:       "pick_label": "2026 10.05",
+data/processed/reports/draft_pick_values.json:2110:       "pick_id": "2026_10_06",
+data/processed/reports/draft_pick_values.json:2111:       "pick_label": "2026 10.06",
+data/processed/reports/draft_pick_values.json:2124:       "pick_id": "2026_10_07",
+data/processed/reports/draft_pick_values.json:2125:       "pick_label": "2026 10.07",
+data/processed/reports/draft_pick_values.json:2138:       "pick_id": "2026_10_08",
+data/processed/reports/draft_pick_values.json:2139:       "pick_label": "2026 10.08",
+data/processed/reports/draft_pick_values.json:2152:       "pick_id": "2026_10_09",
+data/processed/reports/draft_pick_values.json:2153:       "pick_label": "2026 10.09",
+data/processed/reports/draft_pick_values.json:2166:       "pick_id": "2026_10_10",
+data/processed/reports/draft_pick_values.json:2167:       "pick_label": "2026 10.10",
+data/processed/reports/draft_pick_values.json:2180:       "pick_id": "2026_10_11",
+data/processed/reports/draft_pick_values.json:2181:       "pick_label": "2026 10.11",
+data/processed/reports/draft_pick_values.json:2194:       "pick_id": "2026_10_12",
+data/processed/reports/draft_pick_values.json:2195:       "pick_label": "2026 10.12",
+data/processed/reports/draft_pick_values.json:2208:       "pick_id": "2026_10_13",
+data/processed/reports/draft_pick_values.json:2209:       "pick_label": "2026 10.13",
+data/processed/reports/draft_pick_values.json:2222:       "pick_id": "2026_10_14",
+data/processed/reports/draft_pick_values.json:2223:       "pick_label": "2026 10.14",
+data/processed/reports/draft_pick_values.json:2236:       "pick_id": "2026_10_15",
+data/processed/reports/draft_pick_values.json:2237:       "pick_label": "2026 10.15",
+data/processed/reports/draft_pick_values.json:2250:       "pick_id": "2026_10_16",
+data/processed/reports/draft_pick_values.json:2251:       "pick_label": "2026 10.16",
+data/processed/reports/historical_trades.json:2:   "generated_at_utc": "2026-08-05T06:14:35.463665+00:00",
+data/processed/reports/historical_trades.json:3873:       "created_at_utc": "2026-01-05T14:23:25.838000+00:00",
+data/processed/reports/historical_trades.json:3949:       "created_at_utc": "2026-04-24T22:02:56.525000+00:00",
+data/processed/reports/historical_trades.json:4039:       "created_at_utc": "2026-05-04T05:37:25.638000+00:00",
+data/processed/reports/historical_trades.json:4117:       "created_at_utc": "2026-05-26T23:18:30.592000+00:00",
+data/processed/reports/historical_trades.json:4185:       "created_at_utc": "2026-05-27T17:24:21.080000+00:00",
+data/processed/reports/historical_trades.json:4273:       "created_at_utc": "2026-06-18T15:54:19.206000+00:00",
+data/processed/reports/historical_trades.json:4341:       "created_at_utc": "2026-06-24T19:33:48.082000+00:00",
+data/processed/reports/historical_trades.json:4431:       "created_at_utc": "2026-06-25T16:15:13.866000+00:00",
+data/processed/reports/historical_trades.json:4547:       "created_at_utc": "2026-06-28T01:56:02.990000+00:00",
+data/processed/reports/historical_trades.json:4615:       "created_at_utc": "2026-06-30T14:15:46.059000+00:00",
+data/processed/reports/historical_trades.json:4743:       "created_at_utc": "2026-07-08T15:23:33.139000+00:00",
+data/processed/reports/historical_trades.json:4855:       "created_at_utc": "2026-07-09T05:32:46.354000+00:00",
+data/processed/reports/historical_trades.json:4925:       "created_at_utc": "2026-07-09T20:57:23.662000+00:00",
+data/processed/reports/historical_trades.json:4985:       "created_at_utc": "2026-07-13T18:44:38.827000+00:00",
+data/processed/reports/historical_trades.json:5053:       "created_at_utc": "2026-07-14T23:26:58.825000+00:00",
+data/processed/reports/historical_trades.json:5121:       "created_at_utc": "2026-07-15T18:23:51.626000+00:00",
+data/processed/reports/historical_trades.json:5207:       "created_at_utc": "2026-07-15T20:56:47.307000+00:00",
+data/processed/reports/historical_trades.json:5283:       "created_at_utc": "2026-07-18T22:40:23.550000+00:00",
+data/processed/reports/historical_trades.json:5339:       "created_at_utc": "2026-07-19T02:51:50.316000+00:00",
+data/processed/reports/historical_trades.json:5419:       "created_at_utc": "2026-07-19T04:35:06.839000+00:00",
+data/processed/reports/historical_trades.json:5479:       "created_at_utc": "2026-07-24T20:43:10.843000+00:00",
+data/processed/reports/historical_trades.json:5577:       "created_at_utc": "2026-07-25T03:02:56.026000+00:00",
+data/processed/reports/historical_trades.json:5641:       "created_at_utc": "2026-07-26T06:08:04.271000+00:00",
+data/processed/reports/historical_trades.json:5739:       "created_at_utc": "2026-07-26T22:20:58.055000+00:00",
+data/processed/reports/historical_trades.json:5809:       "created_at_utc": "2026-07-28T21:21:20.815000+00:00",
+data/processed/reports/historical_trades.json:5867:       "created_at_utc": "2026-08-04T00:49:35.949000+00:00",
+data/processed/reports/historical_trades.json:5963:       "created_at_utc": "2026-08-04T16:46:46.807000+00:00",
+data/processed/reports/team_profiles_manifest.json:2:   "generated_at_utc": "2026-08-04T08:05:21.309654+00:00",
+data/raw/fantasypros/injuries.json:96:       "injury_update_date": "2026-06-04 12:00:00",
+data/raw/fantasypros/injuries.json:118:       "injury_update_date": "2026-03-26 12:00:00",
+data/raw/fantasypros/injuries.json:140:       "injury_update_date": "2026-05-28 12:00:00",
+data/raw/fantasypros/injuries.json:162:       "injury_update_date": "2026-08-03 12:00:00",
+data/raw/fantasypros/injuries.json:184:       "injury_update_date": "2026-08-01 12:00:00",
+data/raw/fantasypros/injuries.json:206:       "injury_update_date": "2026-07-24 12:00:00",
+data/raw/fantasypros/injuries.json:228:       "injury_update_date": "2026-05-14 12:00:00",
+data/raw/fantasypros/injuries.json:272:       "injury_update_date": "2026-02-12 12:00:00",
+data/raw/fantasypros/manifest.json:2:   "downloaded_at_utc": "2026-08-04T08:05:20.267060+00:00",
+data/raw/fantasypros/manifest.json:16:   "snapshot_id": "2026-08-04T08-05-20Z",
+data/raw/fantasypros/news.json:12:       "created": "2026-08-04 07:56:26",
+data/raw/fantasypros/news.json:30:       "created": "2026-08-04 07:55:43",
+data/raw/fantasypros/news.json:48:       "created": "2026-08-04 07:54:38",
+data/raw/fantasypros/news.json:66:       "created": "2026-08-04 07:53:04",
+data/raw/fantasypros/news.json:84:       "created": "2026-08-04 07:51:55",
+data/raw/fantasypros/news.json:102:       "created": "2026-08-04 07:51:03",
+data/raw/fantasypros/news.json:120:       "created": "2026-08-04 07:49:57",
+data/raw/fantasypros/news.json:138:       "created": "2026-08-04 07:47:35",
+data/raw/fantasypros/news.json:155:       "created": "2026-08-04 07:46:22",
+data/raw/fantasypros/news.json:173:       "created": "2026-08-04 07:44:43",
+data/raw/fantasypros/news.json:190:       "created": "2026-08-04 07:43:33",
+data/raw/fantasypros/news.json:208:       "created": "2026-08-04 07:42:02",
+data/raw/fantasypros/news.json:226:       "created": "2026-08-04 07:40:33",
+data/raw/fantasypros/news.json:243:       "created": "2026-08-04 07:39:09",
+data/raw/fantasypros/news.json:260:       "created": "2026-08-04 07:37:58",
+data/raw/fantasypros/news.json:278:       "created": "2026-08-04 07:36:40",
+data/raw/fantasypros/news.json:295:       "created": "2026-08-04 07:35:21",
+data/raw/fantasypros/news.json:312:       "created": "2026-08-04 07:34:07",
+data/raw/fantasypros/news.json:330:       "created": "2026-08-04 07:32:48",
+data/raw/fantasypros/news.json:348:       "created": "2026-08-04 07:31:47",
+data/raw/fantasypros/news.json:366:       "created": "2026-08-04 07:30:57",
+data/raw/fantasypros/news.json:384:       "created": "2026-08-04 07:29:36",
+data/raw/fantasypros/news.json:401:       "created": "2026-08-04 07:28:12",
+data/raw/fantasypros/news.json:418:       "created": "2026-08-04 07:26:39",
+data/raw/fantasypros/news.json:435:       "created": "2026-08-04 07:25:44",
+data/raw/sleeper/manifest.json:2:   "downloaded_at_utc": "2026-08-05T06:14:34.363711+00:00",
+data/raw/sleeper/manifest.json:29:   "snapshot_id": "2026-08-05T06-14-34Z",
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:6: - 2026 ownership is rebuilt from the current Sleeper traded_picks export.
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:13: ## PICK: 2026 1.01 | 2026_01_01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:14: - Pick label: 2026 1.01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:26: ## PICK: 2026 1.02 | 2026_01_02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:27: - Pick label: 2026 1.02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:39: ## PICK: 2026 1.03 | 2026_01_03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:40: - Pick label: 2026 1.03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:52: ## PICK: 2026 1.04 | 2026_01_04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:53: - Pick label: 2026 1.04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:65: ## PICK: 2026 1.05 | 2026_01_05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:66: - Pick label: 2026 1.05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:78: ## PICK: 2026 1.06 | 2026_01_06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:79: - Pick label: 2026 1.06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:91: ## PICK: 2026 1.07 | 2026_01_07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:92: - Pick label: 2026 1.07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:104: ## PICK: 2026 1.08 | 2026_01_08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:105: - Pick label: 2026 1.08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:117: ## PICK: 2026 1.09 | 2026_01_09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:118: - Pick label: 2026 1.09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:130: ## PICK: 2026 1.10 | 2026_01_10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:131: - Pick label: 2026 1.10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:143: ## PICK: 2026 1.11 | 2026_01_11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:144: - Pick label: 2026 1.11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:156: ## PICK: 2026 1.12 | 2026_01_12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:157: - Pick label: 2026 1.12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:169: ## PICK: 2026 1.13 | 2026_01_13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:170: - Pick label: 2026 1.13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:182: ## PICK: 2026 1.14 | 2026_01_14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:183: - Pick label: 2026 1.14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:195: ## PICK: 2026 1.15 | 2026_01_15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:196: - Pick label: 2026 1.15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:208: ## PICK: 2026 1.16 | 2026_01_16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:209: - Pick label: 2026 1.16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:221: ## PICK: 2026 2.01 | 2026_02_01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:222: - Pick label: 2026 2.01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:234: ## PICK: 2026 2.02 | 2026_02_02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:235: - Pick label: 2026 2.02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:247: ## PICK: 2026 2.03 | 2026_02_03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:248: - Pick label: 2026 2.03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:260: ## PICK: 2026 2.04 | 2026_02_04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:261: - Pick label: 2026 2.04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:273: ## PICK: 2026 2.05 | 2026_02_05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:274: - Pick label: 2026 2.05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:286: ## PICK: 2026 2.06 | 2026_02_06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:287: - Pick label: 2026 2.06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:299: ## PICK: 2026 2.07 | 2026_02_07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:300: - Pick label: 2026 2.07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:312: ## PICK: 2026 2.08 | 2026_02_08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:313: - Pick label: 2026 2.08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:325: ## PICK: 2026 2.09 | 2026_02_09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:326: - Pick label: 2026 2.09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:338: ## PICK: 2026 2.10 | 2026_02_10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:339: - Pick label: 2026 2.10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:351: ## PICK: 2026 2.11 | 2026_02_11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:352: - Pick label: 2026 2.11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:364: ## PICK: 2026 2.12 | 2026_02_12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:365: - Pick label: 2026 2.12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:377: ## PICK: 2026 2.13 | 2026_02_13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:378: - Pick label: 2026 2.13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:390: ## PICK: 2026 2.14 | 2026_02_14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:391: - Pick label: 2026 2.14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:403: ## PICK: 2026 2.15 | 2026_02_15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:404: - Pick label: 2026 2.15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:416: ## PICK: 2026 2.16 | 2026_02_16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:417: - Pick label: 2026 2.16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:429: ## PICK: 2026 3.01 | 2026_03_01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:430: - Pick label: 2026 3.01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:442: ## PICK: 2026 3.02 | 2026_03_02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:443: - Pick label: 2026 3.02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:455: ## PICK: 2026 3.03 | 2026_03_03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:456: - Pick label: 2026 3.03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:468: ## PICK: 2026 3.04 | 2026_03_04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:469: - Pick label: 2026 3.04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:481: ## PICK: 2026 3.05 | 2026_03_05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:482: - Pick label: 2026 3.05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:494: ## PICK: 2026 3.06 | 2026_03_06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:495: - Pick label: 2026 3.06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:507: ## PICK: 2026 3.07 | 2026_03_07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:508: - Pick label: 2026 3.07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:520: ## PICK: 2026 3.08 | 2026_03_08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:521: - Pick label: 2026 3.08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:533: ## PICK: 2026 3.09 | 2026_03_09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:534: - Pick label: 2026 3.09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:546: ## PICK: 2026 3.10 | 2026_03_10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:547: - Pick label: 2026 3.10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:559: ## PICK: 2026 3.11 | 2026_03_11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:560: - Pick label: 2026 3.11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:572: ## PICK: 2026 3.12 | 2026_03_12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:573: - Pick label: 2026 3.12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:585: ## PICK: 2026 3.13 | 2026_03_13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:586: - Pick label: 2026 3.13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:598: ## PICK: 2026 3.14 | 2026_03_14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:599: - Pick label: 2026 3.14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:611: ## PICK: 2026 3.15 | 2026_03_15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:612: - Pick label: 2026 3.15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:624: ## PICK: 2026 3.16 | 2026_03_16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:625: - Pick label: 2026 3.16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:637: ## PICK: 2026 4.01 | 2026_04_01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:638: - Pick label: 2026 4.01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:650: ## PICK: 2026 4.02 | 2026_04_02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:651: - Pick label: 2026 4.02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:663: ## PICK: 2026 4.03 | 2026_04_03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:664: - Pick label: 2026 4.03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:676: ## PICK: 2026 4.04 | 2026_04_04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:677: - Pick label: 2026 4.04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:689: ## PICK: 2026 4.05 | 2026_04_05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:690: - Pick label: 2026 4.05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:702: ## PICK: 2026 4.06 | 2026_04_06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:703: - Pick label: 2026 4.06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:715: ## PICK: 2026 4.07 | 2026_04_07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:716: - Pick label: 2026 4.07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:728: ## PICK: 2026 4.08 | 2026_04_08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:729: - Pick label: 2026 4.08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:741: ## PICK: 2026 4.09 | 2026_04_09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:742: - Pick label: 2026 4.09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:754: ## PICK: 2026 4.10 | 2026_04_10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:755: - Pick label: 2026 4.10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:767: ## PICK: 2026 4.11 | 2026_04_11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:768: - Pick label: 2026 4.11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:780: ## PICK: 2026 4.12 | 2026_04_12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:781: - Pick label: 2026 4.12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:793: ## PICK: 2026 4.13 | 2026_04_13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:794: - Pick label: 2026 4.13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:806: ## PICK: 2026 4.14 | 2026_04_14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:807: - Pick label: 2026 4.14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:819: ## PICK: 2026 4.15 | 2026_04_15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:820: - Pick label: 2026 4.15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:832: ## PICK: 2026 4.16 | 2026_04_16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:833: - Pick label: 2026 4.16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:845: ## PICK: 2026 5.01 | 2026_05_01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:846: - Pick label: 2026 5.01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:858: ## PICK: 2026 5.02 | 2026_05_02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:859: - Pick label: 2026 5.02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:871: ## PICK: 2026 5.03 | 2026_05_03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:872: - Pick label: 2026 5.03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:884: ## PICK: 2026 5.04 | 2026_05_04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:885: - Pick label: 2026 5.04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:897: ## PICK: 2026 5.05 | 2026_05_05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:898: - Pick label: 2026 5.05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:910: ## PICK: 2026 5.06 | 2026_05_06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:911: - Pick label: 2026 5.06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:923: ## PICK: 2026 5.07 | 2026_05_07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:924: - Pick label: 2026 5.07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:936: ## PICK: 2026 5.08 | 2026_05_08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:937: - Pick label: 2026 5.08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:949: ## PICK: 2026 5.09 | 2026_05_09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:950: - Pick label: 2026 5.09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:962: ## PICK: 2026 5.10 | 2026_05_10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:963: - Pick label: 2026 5.10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:975: ## PICK: 2026 5.11 | 2026_05_11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:976: - Pick label: 2026 5.11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:988: ## PICK: 2026 5.12 | 2026_05_12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:989: - Pick label: 2026 5.12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1001: ## PICK: 2026 5.13 | 2026_05_13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1002: - Pick label: 2026 5.13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1014: ## PICK: 2026 5.14 | 2026_05_14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1015: - Pick label: 2026 5.14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1027: ## PICK: 2026 5.15 | 2026_05_15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1028: - Pick label: 2026 5.15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1040: ## PICK: 2026 5.16 | 2026_05_16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1041: - Pick label: 2026 5.16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1053: ## PICK: 2026 6.01 | 2026_06_01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1054: - Pick label: 2026 6.01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1066: ## PICK: 2026 6.02 | 2026_06_02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1067: - Pick label: 2026 6.02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1079: ## PICK: 2026 6.03 | 2026_06_03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1080: - Pick label: 2026 6.03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1092: ## PICK: 2026 6.04 | 2026_06_04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1093: - Pick label: 2026 6.04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1105: ## PICK: 2026 6.05 | 2026_06_05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1106: - Pick label: 2026 6.05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1118: ## PICK: 2026 6.06 | 2026_06_06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1119: - Pick label: 2026 6.06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1131: ## PICK: 2026 6.07 | 2026_06_07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1132: - Pick label: 2026 6.07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1144: ## PICK: 2026 6.08 | 2026_06_08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1145: - Pick label: 2026 6.08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1157: ## PICK: 2026 6.09 | 2026_06_09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1158: - Pick label: 2026 6.09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1170: ## PICK: 2026 6.10 | 2026_06_10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1171: - Pick label: 2026 6.10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1183: ## PICK: 2026 6.11 | 2026_06_11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1184: - Pick label: 2026 6.11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1196: ## PICK: 2026 6.12 | 2026_06_12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1197: - Pick label: 2026 6.12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1209: ## PICK: 2026 6.13 | 2026_06_13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1210: - Pick label: 2026 6.13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1222: ## PICK: 2026 6.14 | 2026_06_14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1223: - Pick label: 2026 6.14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1235: ## PICK: 2026 6.15 | 2026_06_15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1236: - Pick label: 2026 6.15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1248: ## PICK: 2026 6.16 | 2026_06_16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1249: - Pick label: 2026 6.16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1261: ## PICK: 2026 7.01 | 2026_07_01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1262: - Pick label: 2026 7.01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1274: ## PICK: 2026 7.02 | 2026_07_02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1275: - Pick label: 2026 7.02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1287: ## PICK: 2026 7.03 | 2026_07_03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1288: - Pick label: 2026 7.03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1300: ## PICK: 2026 7.04 | 2026_07_04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1301: - Pick label: 2026 7.04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1313: ## PICK: 2026 7.05 | 2026_07_05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1314: - Pick label: 2026 7.05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1326: ## PICK: 2026 7.06 | 2026_07_06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1327: - Pick label: 2026 7.06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1339: ## PICK: 2026 7.07 | 2026_07_07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1340: - Pick label: 2026 7.07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1352: ## PICK: 2026 7.08 | 2026_07_08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1353: - Pick label: 2026 7.08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1365: ## PICK: 2026 7.09 | 2026_07_09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1366: - Pick label: 2026 7.09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1378: ## PICK: 2026 7.10 | 2026_07_10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1379: - Pick label: 2026 7.10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1391: ## PICK: 2026 7.11 | 2026_07_11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1392: - Pick label: 2026 7.11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1404: ## PICK: 2026 7.12 | 2026_07_12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1405: - Pick label: 2026 7.12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1417: ## PICK: 2026 7.13 | 2026_07_13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1418: - Pick label: 2026 7.13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1430: ## PICK: 2026 7.14 | 2026_07_14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1431: - Pick label: 2026 7.14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1443: ## PICK: 2026 7.15 | 2026_07_15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1444: - Pick label: 2026 7.15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1456: ## PICK: 2026 7.16 | 2026_07_16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1457: - Pick label: 2026 7.16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1469: ## PICK: 2026 8.01 | 2026_08_01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1470: - Pick label: 2026 8.01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1482: ## PICK: 2026 8.02 | 2026_08_02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1483: - Pick label: 2026 8.02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1495: ## PICK: 2026 8.03 | 2026_08_03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1496: - Pick label: 2026 8.03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1508: ## PICK: 2026 8.04 | 2026_08_04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1509: - Pick label: 2026 8.04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1521: ## PICK: 2026 8.05 | 2026_08_05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1522: - Pick label: 2026 8.05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1534: ## PICK: 2026 8.06 | 2026_08_06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1535: - Pick label: 2026 8.06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1547: ## PICK: 2026 8.07 | 2026_08_07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1548: - Pick label: 2026 8.07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1560: ## PICK: 2026 8.08 | 2026_08_08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1561: - Pick label: 2026 8.08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1573: ## PICK: 2026 8.09 | 2026_08_09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1574: - Pick label: 2026 8.09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1586: ## PICK: 2026 8.10 | 2026_08_10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1587: - Pick label: 2026 8.10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1599: ## PICK: 2026 8.11 | 2026_08_11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1600: - Pick label: 2026 8.11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1612: ## PICK: 2026 8.12 | 2026_08_12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1613: - Pick label: 2026 8.12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1625: ## PICK: 2026 8.13 | 2026_08_13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1626: - Pick label: 2026 8.13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1638: ## PICK: 2026 8.14 | 2026_08_14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1639: - Pick label: 2026 8.14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1651: ## PICK: 2026 8.15 | 2026_08_15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1652: - Pick label: 2026 8.15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1664: ## PICK: 2026 8.16 | 2026_08_16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1665: - Pick label: 2026 8.16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1677: ## PICK: 2026 9.01 | 2026_09_01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1678: - Pick label: 2026 9.01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1690: ## PICK: 2026 9.02 | 2026_09_02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1691: - Pick label: 2026 9.02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1703: ## PICK: 2026 9.03 | 2026_09_03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1704: - Pick label: 2026 9.03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1716: ## PICK: 2026 9.04 | 2026_09_04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1717: - Pick label: 2026 9.04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1729: ## PICK: 2026 9.05 | 2026_09_05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1730: - Pick label: 2026 9.05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1742: ## PICK: 2026 9.06 | 2026_09_06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1743: - Pick label: 2026 9.06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1755: ## PICK: 2026 9.07 | 2026_09_07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1756: - Pick label: 2026 9.07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1768: ## PICK: 2026 9.08 | 2026_09_08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1769: - Pick label: 2026 9.08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1781: ## PICK: 2026 9.09 | 2026_09_09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1782: - Pick label: 2026 9.09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1794: ## PICK: 2026 9.10 | 2026_09_10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1795: - Pick label: 2026 9.10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1807: ## PICK: 2026 9.11 | 2026_09_11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1808: - Pick label: 2026 9.11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1820: ## PICK: 2026 9.12 | 2026_09_12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1821: - Pick label: 2026 9.12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1833: ## PICK: 2026 9.13 | 2026_09_13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1834: - Pick label: 2026 9.13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1846: ## PICK: 2026 9.14 | 2026_09_14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1847: - Pick label: 2026 9.14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1859: ## PICK: 2026 9.15 | 2026_09_15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1860: - Pick label: 2026 9.15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1872: ## PICK: 2026 9.16 | 2026_09_16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1873: - Pick label: 2026 9.16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1885: ## PICK: 2026 10.01 | 2026_10_01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1886: - Pick label: 2026 10.01
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1898: ## PICK: 2026 10.02 | 2026_10_02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1899: - Pick label: 2026 10.02
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1911: ## PICK: 2026 10.03 | 2026_10_03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1912: - Pick label: 2026 10.03
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1924: ## PICK: 2026 10.04 | 2026_10_04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1925: - Pick label: 2026 10.04
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1937: ## PICK: 2026 10.05 | 2026_10_05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1938: - Pick label: 2026 10.05
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1950: ## PICK: 2026 10.06 | 2026_10_06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1951: - Pick label: 2026 10.06
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1963: ## PICK: 2026 10.07 | 2026_10_07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1964: - Pick label: 2026 10.07
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1976: ## PICK: 2026 10.08 | 2026_10_08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1977: - Pick label: 2026 10.08
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1989: ## PICK: 2026 10.09 | 2026_10_09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:1990: - Pick label: 2026 10.09
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2002: ## PICK: 2026 10.10 | 2026_10_10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2003: - Pick label: 2026 10.10
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2015: ## PICK: 2026 10.11 | 2026_10_11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2016: - Pick label: 2026 10.11
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2028: ## PICK: 2026 10.12 | 2026_10_12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2029: - Pick label: 2026 10.12
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2041: ## PICK: 2026 10.13 | 2026_10_13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2042: - Pick label: 2026 10.13
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2054: ## PICK: 2026 10.14 | 2026_10_14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2055: - Pick label: 2026 10.14
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2067: ## PICK: 2026 10.15 | 2026_10_15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2068: - Pick label: 2026 10.15
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2080: ## PICK: 2026 10.16 | 2026_10_16
+knowledge/01_AVI_Draft_Pick_Values_0_100.md:2081: - Pick label: 2026 10.16
+knowledge/02_AVI_Historical_Trades.md:28: - Latest verified trade: **2026-08-04T16:46:46.807000+00:00**
+knowledge/02_AVI_Historical_Trades.md:32: | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
+knowledge/02_AVI_Historical_Trades.md:77: - Created at UTC: 2026-08-04T16:46:46.807000+00:00
+knowledge/02_AVI_Historical_Trades.md:95: - Created at UTC: 2026-08-04T00:49:35.949000+00:00
+knowledge/02_AVI_Historical_Trades.md:113: - Created at UTC: 2026-07-28T21:21:20.815000+00:00
+knowledge/02_AVI_Historical_Trades.md:119: - Picks received: 2026 Round 1 (original roster 16)
+knowledge/02_AVI_Historical_Trades.md:126: - Picks sent: 2026 Round 1 (original roster 16)
+knowledge/02_AVI_Historical_Trades.md:131: - Created at UTC: 2026-07-26T22:20:58.055000+00:00
+knowledge/02_AVI_Historical_Trades.md:137: - Picks received: 2026 Round 1 (original roster 3)
+knowledge/02_AVI_Historical_Trades.md:138: - Picks sent: 2026 Round 3 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:143: - Picks received: 2026 Round 3 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:144: - Picks sent: 2026 Round 1 (original roster 3)
+knowledge/02_AVI_Historical_Trades.md:149: - Created at UTC: 2026-07-26T06:08:04.271000+00:00
+knowledge/02_AVI_Historical_Trades.md:155: - Picks received: 2026 Round 1 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:156: - Picks sent: 2026 Round 1 (original roster 3), 2028 Round 1 (original roster 3)
+knowledge/02_AVI_Historical_Trades.md:161: - Picks received: 2026 Round 1 (original roster 3), 2028 Round 1 (original roster 3)
+knowledge/02_AVI_Historical_Trades.md:162: - Picks sent: 2026 Round 1 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:167: - Created at UTC: 2026-07-25T03:02:56.026000+00:00
+knowledge/02_AVI_Historical_Trades.md:185: - Created at UTC: 2026-07-24T20:43:10.843000+00:00
+knowledge/02_AVI_Historical_Trades.md:191: - Picks received: 2026 Round 1 (original roster 16), 2026 Round 1 (original roster 8)
+knowledge/02_AVI_Historical_Trades.md:198: - Picks sent: 2026 Round 1 (original roster 16), 2026 Round 1 (original roster 8)
+knowledge/02_AVI_Historical_Trades.md:203: - Created at UTC: 2026-07-19T04:35:06.839000+00:00
+knowledge/02_AVI_Historical_Trades.md:209: - Picks received: 2026 Round 5 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:210: - Picks sent: 2026 Round 1 (original roster 12)
+knowledge/02_AVI_Historical_Trades.md:215: - Picks received: 2026 Round 1 (original roster 12)
+knowledge/02_AVI_Historical_Trades.md:216: - Picks sent: 2026 Round 5 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:221: - Created at UTC: 2026-07-19T02:51:50.316000+00:00
+knowledge/02_AVI_Historical_Trades.md:227: - Picks received: 2026 Round 1 (original roster 12)
+knowledge/02_AVI_Historical_Trades.md:228: - Picks sent: 2026 Round 5 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:233: - Picks received: 2026 Round 5 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:234: - Picks sent: 2026 Round 1 (original roster 12)
+knowledge/02_AVI_Historical_Trades.md:239: - Created at UTC: 2026-07-18T22:40:23.550000+00:00
+knowledge/02_AVI_Historical_Trades.md:257: - Created at UTC: 2026-07-15T20:56:47.307000+00:00
+knowledge/02_AVI_Historical_Trades.md:264: - Picks sent: 2026 Round 2 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:269: - Picks received: 2026 Round 2 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:275: - Created at UTC: 2026-07-15T18:23:51.626000+00:00
+knowledge/02_AVI_Historical_Trades.md:282: - Picks sent: 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:287: - Picks received: 2026 Round 1 (original roster 1), 2028 Round 1 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:293: - Created at UTC: 2026-07-14T23:26:58.825000+00:00
+knowledge/02_AVI_Historical_Trades.md:300: - Picks sent: 2026 Round 1 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:305: - Picks received: 2026 Round 1 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:311: - Created at UTC: 2026-07-13T18:44:38.827000+00:00
+knowledge/02_AVI_Historical_Trades.md:318: - Picks sent: 2026 Round 1 (original roster 13)
+knowledge/02_AVI_Historical_Trades.md:323: - Picks received: 2026 Round 1 (original roster 13)
+knowledge/02_AVI_Historical_Trades.md:329: - Created at UTC: 2026-07-09T20:57:23.662000+00:00
+knowledge/02_AVI_Historical_Trades.md:335: - Picks received: 2026 Round 20 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:336: - Picks sent: 2026 Round 20 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:341: - Picks received: 2026 Round 20 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:342: - Picks sent: 2026 Round 20 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:347: - Created at UTC: 2026-07-09T05:32:46.354000+00:00
+knowledge/02_AVI_Historical_Trades.md:354: - Picks sent: 2026 Round 1 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:359: - Picks received: 2026 Round 1 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:365: - Created at UTC: 2026-07-08T15:23:33.139000+00:00
+knowledge/02_AVI_Historical_Trades.md:383: - Created at UTC: 2026-06-30T14:15:46.059000+00:00
+knowledge/02_AVI_Historical_Trades.md:407: - Created at UTC: 2026-06-28T01:56:02.990000+00:00
+knowledge/02_AVI_Historical_Trades.md:425: - Created at UTC: 2026-06-25T16:15:13.866000+00:00
+knowledge/02_AVI_Historical_Trades.md:431: - Picks received: 2026 Round 1 (original roster 12), 2027 Round 2 (original roster 12), 2027 Round 1 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:438: - Picks sent: 2026 Round 1 (original roster 12), 2027 Round 2 (original roster 12), 2027 Round 1 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:443: - Created at UTC: 2026-06-24T19:33:48.082000+00:00
+knowledge/02_AVI_Historical_Trades.md:450: - Picks sent: 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8)
+knowledge/02_AVI_Historical_Trades.md:455: - Picks received: 2026 Round 1 (original roster 11), 2026 Round 1 (original roster 8)
+knowledge/02_AVI_Historical_Trades.md:461: - Created at UTC: 2026-06-18T15:54:19.206000+00:00
+knowledge/02_AVI_Historical_Trades.md:479: - Created at UTC: 2026-05-27T17:24:21.080000+00:00
+knowledge/02_AVI_Historical_Trades.md:497: - Created at UTC: 2026-05-26T23:18:30.592000+00:00
+knowledge/02_AVI_Historical_Trades.md:515: - Created at UTC: 2026-05-04T05:37:25.638000+00:00
+knowledge/02_AVI_Historical_Trades.md:522: - Picks sent: 2026 Round 2 (original roster 3), 2026 Round 4 (original roster 7)
+knowledge/02_AVI_Historical_Trades.md:527: - Picks received: 2026 Round 2 (original roster 3), 2026 Round 4 (original roster 7)
+knowledge/02_AVI_Historical_Trades.md:533: - Created at UTC: 2026-04-24T22:02:56.525000+00:00
+knowledge/02_AVI_Historical_Trades.md:551: - Created at UTC: 2026-01-05T14:23:25.838000+00:00
+knowledge/02_AVI_Historical_Trades.md:594: - Picks sent: 2026 Round 2 (original roster 1), 2027 Round 1 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:599: - Picks received: 2026 Round 2 (original roster 1), 2027 Round 1 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:612: - Picks sent: 2026 Round 7 (original roster 4)
+knowledge/02_AVI_Historical_Trades.md:617: - Picks received: 2026 Round 7 (original roster 4)
+knowledge/02_AVI_Historical_Trades.md:630: - Picks sent: 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:635: - Picks received: 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:647: - Picks received: 2026 Round 2 (original roster 1), 2027 Round 2 (original roster 8), 2027 Round 3 (original roster 8), 2028 Round 2 (original roster 8)
+knowledge/02_AVI_Historical_Trades.md:654: - Picks sent: 2026 Round 2 (original roster 1), 2027 Round 2 (original roster 8), 2027 Round 3 (original roster 8), 2028 Round 2 (original roster 8)
+knowledge/02_AVI_Historical_Trades.md:665: - Picks received: 2026 Round 3 (original roster 11)
+knowledge/02_AVI_Historical_Trades.md:672: - Picks sent: 2026 Round 3 (original roster 11)
+knowledge/02_AVI_Historical_Trades.md:701: - Picks received: 2026 Round 1 (original roster 1), 2026 Round 4 (original roster 7)
+knowledge/02_AVI_Historical_Trades.md:708: - Picks sent: 2026 Round 1 (original roster 1), 2026 Round 4 (original roster 7)
+knowledge/02_AVI_Historical_Trades.md:719: - Picks received: 2026 Round 1 (original roster 13), 2026 Round 2 (original roster 13)
+knowledge/02_AVI_Historical_Trades.md:726: - Picks sent: 2026 Round 1 (original roster 13), 2026 Round 2 (original roster 13)
+knowledge/02_AVI_Historical_Trades.md:737: - Picks received: 2026 Round 1 (original roster 8), 2027 Round 1 (original roster 8)
+knowledge/02_AVI_Historical_Trades.md:744: - Picks sent: 2026 Round 1 (original roster 8), 2027 Round 1 (original roster 8)
+knowledge/02_AVI_Historical_Trades.md:755: - Picks received: 2027 Round 1 (original roster 10), 2026 Round 2 (original roster 11), 2027 Round 1 (original roster 11), 2026 Round 2 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:762: - Picks sent: 2027 Round 1 (original roster 10), 2026 Round 2 (original roster 11), 2027 Round 1 (original roster 11), 2026 Round 2 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:774: - Picks sent: 2026 Round 2 (original roster 6), 2027 Round 2 (original roster 6)
+knowledge/02_AVI_Historical_Trades.md:779: - Picks received: 2026 Round 2 (original roster 6), 2027 Round 2 (original roster 6)
+knowledge/02_AVI_Historical_Trades.md:792: - Picks sent: 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:797: - Picks received: 2026 Round 3 (original roster 1), 2027 Round 2 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:827: - Picks received: 2026 Round 3 (original roster 8)
+knowledge/02_AVI_Historical_Trades.md:834: - Picks sent: 2026 Round 3 (original roster 8)
+knowledge/02_AVI_Historical_Trades.md:845: - Picks received: 2026 Round 3 (original roster 7), 2026 Round 4 (original roster 7)
+knowledge/02_AVI_Historical_Trades.md:852: - Picks sent: 2026 Round 3 (original roster 7), 2026 Round 4 (original roster 7)
+knowledge/02_AVI_Historical_Trades.md:881: - Picks received: 2027 Round 2 (original roster 4), 2026 Round 1 (original roster 7), 2026 Round 2 (original roster 7), 2027 Round 2 (original roster 7)
+knowledge/02_AVI_Historical_Trades.md:888: - Picks sent: 2027 Round 2 (original roster 4), 2026 Round 1 (original roster 7), 2026 Round 2 (original roster 7), 2027 Round 2 (original roster 7)
+knowledge/02_AVI_Historical_Trades.md:900: - Picks sent: 2026 Round 1 (original roster 9), 2027 Round 2 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:905: - Picks received: 2026 Round 1 (original roster 9), 2027 Round 2 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:918: - Picks sent: 2025 Round 2 (original roster 2), 2026 Round 2 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:923: - Picks received: 2025 Round 2 (original roster 2), 2026 Round 2 (original roster 2)
+knowledge/02_AVI_Historical_Trades.md:936: - Picks sent: 2025 Round 2 (original roster 1), 2026 Round 2 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:941: - Picks received: 2025 Round 2 (original roster 1), 2026 Round 2 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:953: - Picks received: 2025 Round 3 (original roster 7), 2026 Round 1 (original roster 7), 2026 Round 2 (original roster 7), 2027 Round 2 (original roster 7)
+knowledge/02_AVI_Historical_Trades.md:960: - Picks sent: 2025 Round 3 (original roster 7), 2026 Round 1 (original roster 7), 2026 Round 2 (original roster 7), 2027 Round 2 (original roster 7)
+knowledge/02_AVI_Historical_Trades.md:972: - Picks sent: 2025 Round 1 (original roster 4), 2025 Round 2 (original roster 4), 2026 Round 1 (original roster 4), 2027 Round 1 (original roster 4)
+knowledge/02_AVI_Historical_Trades.md:977: - Picks received: 2025 Round 1 (original roster 4), 2025 Round 2 (original roster 4), 2026 Round 1 (original roster 4), 2027 Round 1 (original roster 4)
+knowledge/02_AVI_Historical_Trades.md:990: - Picks sent: 2026 Round 1 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:995: - Picks received: 2026 Round 1 (original roster 1)
+knowledge/02_AVI_Historical_Trades.md:1026: - Picks sent: 2026 Round 2 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:1031: - Picks received: 2026 Round 2 (original roster 9)
+knowledge/02_AVI_Historical_Trades.md:1061: - Picks received: 2026 Round 1 (original roster 11)
+knowledge/02_AVI_Historical_Trades.md:1068: - Picks sent: 2026 Round 1 (original roster 11)
+knowledge/02_AVI_Historical_Trades.md:1097: - Picks received: 2025 Round 8 (original roster 5), 2026 Round 1 (original roster 5)
+knowledge/02_AVI_Historical_Trades.md:1104: - Picks sent: 2025 Round 8 (original roster 5), 2026 Round 1 (original roster 5)
+knowledge/02_AVI_Historical_Trades.md:1134: - Picks sent: 2025 Round 3 (original roster 1), 2026 Round 3 (original roster 5)
+knowledge/02_AVI_Historical_Trades.md:1139: - Picks received: 2025 Round 3 (original roster 1), 2026 Round 3 (original roster 5)
+knowledge/02_AVI_Historical_Trades.md:1205: - Picks received: 2025 Round 1 (original roster 5), 2026 Round 3 (original roster 5)
+knowledge/02_AVI_Historical_Trades.md:1212: - Picks sent: 2025 Round 1 (original roster 5), 2026 Round 3 (original roster 5)
+knowledge/02_AVI_Historical_Trades.md:1331: - Picks received: 2025 Round 1 (original roster 11), 2026 Round 1 (original roster 11)
+knowledge/02_AVI_Historical_Trades.md:1338: - Picks sent: 2025 Round 1 (original roster 11), 2026 Round 1 (original roster 11)
+knowledge/AVI_Methodology_Revision_Market_Reality_v2.md:218: # Weekly Valuation Protocol — 2026-07-13
+knowledge/franchise_summaries/all-hail-king-jesus.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/all-hail-king-jesus.json:41:     "created_at": "2026-07-13T18:44:38.827000+00:00",
+knowledge/franchise_summaries/all-hail-king-jesus.json:43:     "summary": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) and sent Derrick Henry.",
+knowledge/franchise_summaries/all-hail-king-jesus.json:55:       "created_at": "2026-06-24T19:33:48.082000+00:00",
+knowledge/franchise_summaries/all-hail-king-jesus.json:57:       "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus).",
+knowledge/franchise_summaries/all-hail-king-jesus.json:62:       "created_at": "2026-06-24T19:33:48.082000+00:00",
+knowledge/franchise_summaries/all-hail-king-jesus.json:64:       "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus).",
+knowledge/franchise_summaries/all-hail-king-jesus.json:67:     "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus)."
+knowledge/franchise_summaries/all-hail-king-jesus.json:83:       "body": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) and sent Derrick Henry."
+knowledge/franchise_summaries/all-hail-king-jesus.json:96:       "body": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus)."
+knowledge/franchise_summaries/all-hail-king-jesus.json:120:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/badland-banditos.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/badland-banditos.json:41:     "created_at": "2026-06-24T19:33:48.082000+00:00",
+knowledge/franchise_summaries/badland-banditos.json:43:     "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus).",
+knowledge/franchise_summaries/badland-banditos.json:56:       "created_at": "2026-08-03T01:53:36.070000+00:00",
+knowledge/franchise_summaries/badland-banditos.json:77:       "body": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus)."
+knowledge/franchise_summaries/badland-banditos.json:113:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/big-balder-brand.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/big-balder-brand.json:36:     "created_at": "2026-07-25T03:02:56.026000+00:00",
+knowledge/franchise_summaries/big-balder-brand.json:51:       "created_at": "2026-08-03T01:43:35.169000+00:00",
+knowledge/franchise_summaries/big-balder-brand.json:108:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/conquistadors.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/conquistadors.json:41:     "created_at": "2026-07-09T20:57:23.662000+00:00",
+knowledge/franchise_summaries/conquistadors.json:43:     "summary": "On July 9, Conquistadors completed a trade with Big Balder Brand and acquired 2026 Round 20 (Big Balder Brand) and sent 2026 Round 20 (Conquistadors).",
+knowledge/franchise_summaries/conquistadors.json:55:       "created_at": "2026-07-28T21:21:20.815000+00:00",
+knowledge/franchise_summaries/conquistadors.json:57:       "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore.",
+knowledge/franchise_summaries/conquistadors.json:62:       "created_at": "2026-07-28T21:21:20.815000+00:00",
+knowledge/franchise_summaries/conquistadors.json:64:       "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore.",
+knowledge/franchise_summaries/conquistadors.json:67:     "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore."
+knowledge/franchise_summaries/conquistadors.json:83:       "body": "On July 9, Conquistadors completed a trade with Big Balder Brand and acquired 2026 Round 20 (Big Balder Brand) and sent 2026 Round 20 (Conquistadors)."
+knowledge/franchise_summaries/conquistadors.json:96:       "body": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore."
+knowledge/franchise_summaries/conquistadors.json:120:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/corgi-loaf-baking-co.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/corgi-loaf-baking-co.json:41:     "created_at": "2026-07-28T21:21:20.815000+00:00",
+knowledge/franchise_summaries/corgi-loaf-baking-co.json:43:     "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods).",
+knowledge/franchise_summaries/corgi-loaf-baking-co.json:56:       "created_at": "2026-05-05T11:28:59.825000+00:00",
+knowledge/franchise_summaries/corgi-loaf-baking-co.json:77:       "body": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods)."
+knowledge/franchise_summaries/corgi-loaf-baking-co.json:113:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/crimson-tide-pods.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/crimson-tide-pods.json:41:     "created_at": "2026-07-24T20:43:10.843000+00:00",
+knowledge/franchise_summaries/crimson-tide-pods.json:43:     "summary": "On July 24, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) and sent 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus).",
+knowledge/franchise_summaries/crimson-tide-pods.json:55:       "created_at": "2026-07-26T22:20:58.055000+00:00",
+knowledge/franchise_summaries/crimson-tide-pods.json:57:       "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation).",
+knowledge/franchise_summaries/crimson-tide-pods.json:62:       "created_at": "2026-07-26T22:20:58.055000+00:00",
+knowledge/franchise_summaries/crimson-tide-pods.json:64:       "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation).",
+knowledge/franchise_summaries/crimson-tide-pods.json:67:     "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation)."
+knowledge/franchise_summaries/crimson-tide-pods.json:83:       "body": "On July 24, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) and sent 2026 Round 1 (Crimson Tide Pods), 2026 Round 1 (All Hail King Jesus)."
+knowledge/franchise_summaries/crimson-tide-pods.json:96:       "body": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation)."
+knowledge/franchise_summaries/crimson-tide-pods.json:120:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/dmv-fantasy.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/dmv-fantasy.json:41:     "created_at": "2026-07-25T03:02:56.026000+00:00",
+knowledge/franchise_summaries/dmv-fantasy.json:56:       "created_at": "2026-04-15T15:45:10.701000+00:00",
+knowledge/franchise_summaries/dmv-fantasy.json:113:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/gringo-s-goblins.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/gringo-s-goblins.json:41:     "created_at": "2026-07-08T15:23:33.139000+00:00",
+knowledge/franchise_summaries/gringo-s-goblins.json:55:       "created_at": "2026-05-04T05:37:25.638000+00:00",
+knowledge/franchise_summaries/gringo-s-goblins.json:57:       "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs.",
+knowledge/franchise_summaries/gringo-s-goblins.json:62:       "created_at": "2026-05-04T05:37:25.638000+00:00",
+knowledge/franchise_summaries/gringo-s-goblins.json:64:       "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs.",
+knowledge/franchise_summaries/gringo-s-goblins.json:67:     "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs."
+knowledge/franchise_summaries/gringo-s-goblins.json:96:       "body": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs."
+knowledge/franchise_summaries/gringo-s-goblins.json:120:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/lightskin-legends.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/lightskin-legends.json:43:     "summary": "On October 28, Lightskin Legends \u270a\ud83c\udffd completed a trade with SmokyValleyWheatWarriors and acquired Kayshon Boutte and sent 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors).",
+knowledge/franchise_summaries/lightskin-legends.json:56:       "created_at": "2026-08-03T01:45:19.241000+00:00",
+knowledge/franchise_summaries/lightskin-legends.json:77:       "body": "On October 28, Lightskin Legends \u270a\ud83c\udffd completed a trade with SmokyValleyWheatWarriors and acquired Kayshon Boutte and sent 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors)."
+knowledge/franchise_summaries/lightskin-legends.json:113:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/manifest.json:3:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/mile-high-royal-lions.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/mile-high-royal-lions.json:41:     "created_at": "2026-07-28T21:21:20.815000+00:00",
+knowledge/franchise_summaries/mile-high-royal-lions.json:43:     "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore.",
+knowledge/franchise_summaries/mile-high-royal-lions.json:55:       "created_at": "2026-07-28T21:21:20.815000+00:00",
+knowledge/franchise_summaries/mile-high-royal-lions.json:57:       "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods).",
+knowledge/franchise_summaries/mile-high-royal-lions.json:62:       "created_at": "2026-07-28T21:21:20.815000+00:00",
+knowledge/franchise_summaries/mile-high-royal-lions.json:64:       "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods).",
+knowledge/franchise_summaries/mile-high-royal-lions.json:67:     "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods)."
+knowledge/franchise_summaries/mile-high-royal-lions.json:83:       "body": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore."
+knowledge/franchise_summaries/mile-high-royal-lions.json:96:       "body": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent 2026 Round 1 (Crimson Tide Pods)."
+knowledge/franchise_summaries/mile-high-royal-lions.json:120:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/northside-kings.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/northside-kings.json:36:     "created_at": "2026-07-15T20:56:47.307000+00:00",
+knowledge/franchise_summaries/northside-kings.json:38:     "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
+knowledge/franchise_summaries/northside-kings.json:59:       "body": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
+knowledge/franchise_summaries/northside-kings.json:95:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/phalhala-or-bust.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/phalhala-or-bust.json:41:     "created_at": "2026-05-04T05:37:25.638000+00:00",
+knowledge/franchise_summaries/phalhala-or-bust.json:43:     "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs.",
+knowledge/franchise_summaries/phalhala-or-bust.json:56:       "created_at": "2026-08-03T01:52:21.528000+00:00",
+knowledge/franchise_summaries/phalhala-or-bust.json:77:       "body": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson, 2026 Round 2 (Ravens Regime), 2026 Round 4 (Badland Banditos) and sent Romeo Doubs."
+knowledge/franchise_summaries/phalhala-or-bust.json:113:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/rapid-valley-annihilation.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/rapid-valley-annihilation.json:41:     "created_at": "2026-07-26T22:20:58.055000+00:00",
+knowledge/franchise_summaries/rapid-valley-annihilation.json:43:     "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation).",
+knowledge/franchise_summaries/rapid-valley-annihilation.json:56:       "created_at": "2026-08-03T01:48:00.420000+00:00",
+knowledge/franchise_summaries/rapid-valley-annihilation.json:77:       "body": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation)."
+knowledge/franchise_summaries/rapid-valley-annihilation.json:113:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/ravens-regime.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/ravens-regime.json:41:     "created_at": "2026-07-26T06:08:04.271000+00:00",
+knowledge/franchise_summaries/ravens-regime.json:43:     "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime).",
+knowledge/franchise_summaries/ravens-regime.json:56:       "created_at": "2026-04-19T01:11:17.550000+00:00",
+knowledge/franchise_summaries/ravens-regime.json:77:       "body": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime)."
+knowledge/franchise_summaries/ravens-regime.json:113:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/smokyvalleywheatwarriors.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/smokyvalleywheatwarriors.json:43:     "summary": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte.",
+knowledge/franchise_summaries/smokyvalleywheatwarriors.json:55:       "created_at": "2026-07-26T06:08:04.271000+00:00",
+knowledge/franchise_summaries/smokyvalleywheatwarriors.json:57:       "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime).",
+knowledge/franchise_summaries/smokyvalleywheatwarriors.json:62:       "created_at": "2026-07-26T06:08:04.271000+00:00",
+knowledge/franchise_summaries/smokyvalleywheatwarriors.json:64:       "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime).",
+knowledge/franchise_summaries/smokyvalleywheatwarriors.json:67:     "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime)."
+knowledge/franchise_summaries/smokyvalleywheatwarriors.json:83:       "body": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte."
+knowledge/franchise_summaries/smokyvalleywheatwarriors.json:96:       "body": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime)."
+knowledge/franchise_summaries/smokyvalleywheatwarriors.json:120:     "source_last_updated": "2026-08-03",
+knowledge/franchise_summaries/southside-savages.json:9:   "generated_at": "2026-08-02T20:07:30.743057-06:00",
+knowledge/franchise_summaries/southside-savages.json:43:     "summary": "On October 14, Southside Savages completed a trade with Ravens Regime and acquired Tetairoa McMillan and sent 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages).",
+knowledge/franchise_summaries/southside-savages.json:55:       "created_at": "2026-07-13T18:44:38.827000+00:00",
+knowledge/franchise_summaries/southside-savages.json:57:       "summary": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) and sent Derrick Henry.",
+knowledge/franchise_summaries/southside-savages.json:62:       "created_at": "2026-07-13T18:44:38.827000+00:00",
+knowledge/franchise_summaries/southside-savages.json:64:       "summary": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) and sent Derrick Henry.",
+knowledge/franchise_summaries/southside-savages.json:67:     "summary": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) and sent Derrick Henry."
+knowledge/franchise_summaries/southside-savages.json:83:       "body": "On October 14, Southside Savages completed a trade with Ravens Regime and acquired Tetairoa McMillan and sent 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages)."
+knowledge/franchise_summaries/southside-savages.json:96:       "body": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) and sent Derrick Henry."
+knowledge/franchise_summaries/southside-savages.json:120:     "source_last_updated": "2026-08-03",
+knowledge/teams/01_Conquistadors.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/02_Rapid_Valley_Annihilation.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/03_Ravens_Regime.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/04_Mile_High_Royal_Lions.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/05_Northside_Kings.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/06_Lightskin_Legends.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/07_Badland_Banditos.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/08_All_Hail_King_Jesus.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/09_Big_Balder_Brand.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/10_SmokyValleyWheatWarriors.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/11_Corgi_Loaf_Baking_Co.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/12_DMV_Fantasy.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/13_Southside_Savages.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/14_Phalhala_or_Bust.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/15_Gringo_s_Goblins.md:12: - Last updated from Sleeper exports: 2026-08-04
+knowledge/teams/16_Crimson_Tide_Pods.md:12: - Last updated from Sleeper exports: 2026-08-04
+src/avi/reports/historical_trades.py:985:                 "2026 | Players In | Players Out | Picks In | "
