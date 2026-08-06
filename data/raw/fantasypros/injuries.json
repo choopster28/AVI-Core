@@ -1,5 +1,5 @@
 {
-  "count": 13,
+  "count": 14,
   "covids": [],
   "injuries": [
     {
@@ -15,7 +15,7 @@
       "practice_3": null,
       "practice_report_injury_type": null,
       "probability_of_playing": null,
-      "rank": 731,
+      "rank": 718,
       "status": "",
       "status_short": "",
       "team_id": "PHI",
@@ -81,7 +81,7 @@
       "practice_3": null,
       "practice_report_injury_type": null,
       "probability_of_playing": null,
-      "rank": 279,
+      "rank": 278,
       "status": "",
       "status_short": "",
       "team_id": "MIA",
@@ -221,6 +221,28 @@
       "team_practice_2_submitted": false,
       "team_practice_3_submitted": false,
       "yahoo_id": "41836"
+    },
+    {
+      "comment": "injured",
+      "injury_type": "",
+      "injury_update_date": "2026-08-05 12:00:00",
+      "ir_weeks": [],
+      "name": "Jalon Walker",
+      "player_id": 27027,
+      "position_id": "LB",
+      "practice_1": null,
+      "practice_2": null,
+      "practice_3": null,
+      "practice_report_injury_type": null,
+      "probability_of_playing": null,
+      "rank": null,
+      "status": "OUT",
+      "status_short": "O",
+      "team_id": "ATL",
+      "team_practice_1_submitted": false,
+      "team_practice_2_submitted": false,
+      "team_practice_3_submitted": false,
+      "yahoo_id": "41800"
     },
     {
       "comment": "retired",

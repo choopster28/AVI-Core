@@ -9471,10 +9471,10 @@
     "avi_id": "AVI-00002449",
     "canonical_name": "Stefon Diggs",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
-    "nfl_team": "FA",
+    "nfl_team": "WAS",
     "normalized_name": "stefon diggs",
     "position": "WR",
     "source_ids": {

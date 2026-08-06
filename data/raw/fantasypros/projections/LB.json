@@ -1,5 +1,5 @@
 {
-  "count": "204",
+  "count": "203",
   "players": [
     {
       "filename": "jordyn-brooks.php",
@@ -163,29 +163,6 @@
       "team_id": "CLE"
     },
     {
-      "filename": "cedric-gray.php",
-      "fpid": 26168,
-      "mflid": 16667,
-      "name": "Cedric Gray",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 67.99,
-        "def_ff": 0.65,
-        "def_fr": 0.6,
-        "def_int": 0.34,
-        "def_pd": 3.76,
-        "def_sack": 1.39,
-        "def_safety": 0,
-        "def_tackle": 122.24,
-        "def_td": 0.13,
-        "def_tlost": 0,
-        "points": 252.99,
-        "points_half": 252.99,
-        "points_ppr": 252.99
-      },
-      "team_id": "TEN"
-    },
-    {
       "filename": "mack-wilson.php",
       "fpid": 18251,
       "mflid": 14169,
@@ -230,6 +207,29 @@
         "points_ppr": 247.11
       },
       "team_id": "JAC"
+    },
+    {
+      "filename": "cedric-gray.php",
+      "fpid": 26168,
+      "mflid": 16667,
+      "name": "Cedric Gray",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 64.99,
+        "def_ff": 0.65,
+        "def_fr": 0.6,
+        "def_int": 0.34,
+        "def_pd": 3.76,
+        "def_sack": 1.39,
+        "def_safety": 0,
+        "def_tackle": 117.74,
+        "def_td": 0.13,
+        "def_tlost": 0,
+        "points": 243.99,
+        "points_half": 243.99,
+        "points_ppr": 243.99
+      },
+      "team_id": "TEN"
     },
     {
       "filename": "ernest-jones.php",
@@ -2438,29 +2438,6 @@
         "points_ppr": 107.72
       },
       "team_id": "CIN"
-    },
-    {
-      "filename": "jalon-walker.php",
-      "fpid": 27027,
-      "mflid": 17122,
-      "name": "Jalon Walker",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 17.16,
-        "def_ff": 1.45,
-        "def_fr": 1.12,
-        "def_int": 0.11,
-        "def_pd": 3,
-        "def_sack": 5.31,
-        "def_safety": 0,
-        "def_tackle": 37.81,
-        "def_td": 0.1,
-        "def_tlost": 0,
-        "points": 106.7,
-        "points_half": 106.7,
-        "points_ppr": 106.7
-      },
-      "team_id": "ATL"
     },
     {
       "filename": "jalyx-hunt.php",

@@ -1,5 +1,5 @@
 {
-  "count": "200",
+  "count": "199",
   "players": [
     {
       "filename": "maxx-crosby.php",
@@ -1863,29 +1863,6 @@
         "points_ppr": 106.89
       },
       "team_id": "KC"
-    },
-    {
-      "filename": "jalon-walker.php",
-      "fpid": 27027,
-      "mflid": 17122,
-      "name": "Jalon Walker",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 17.16,
-        "def_ff": 1.45,
-        "def_fr": 1.12,
-        "def_int": 0.11,
-        "def_pd": 3,
-        "def_sack": 5.31,
-        "def_safety": 0,
-        "def_tackle": 37.81,
-        "def_td": 0.1,
-        "def_tlost": 0,
-        "points": 106.7,
-        "points_half": 106.7,
-        "points_ppr": 106.7
-      },
-      "team_id": "ATL"
     },
     {
       "filename": "jalyx-hunt.php",

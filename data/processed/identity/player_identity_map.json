@@ -171,10 +171,10 @@
     "sleeper_id": "2374"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "13981",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "WAS",
     "player_name": "Stefon Diggs",
     "position": "WR",
     "sleeper_id": "2449"
