@@ -8990,6 +8990,31 @@
   {
     "active": true,
     "aliases": [
+      "Riley Leonard"
+    ],
+    "avi_id": "AVI-00012470",
+    "canonical_name": "Riley Leonard",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "IND",
+    "normalized_name": "riley leonard",
+    "position": "QB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24992,
+      "fantasypros_id": "25373",
+      "nfl_id": "2574190",
+      "rotowire_id": 18513,
+      "sleeper_id": "12470",
+      "sportradar_id": "38b62d7f-4403-4e2b-8083-4d0cd08e81aa",
+      "sportsdata_player_id": "38b62d7f-4403-4e2b-8083-4d0cd08e81aa"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Robert Henry",
       "Robert Henry Jr."
     ],
@@ -9541,6 +9566,31 @@
   {
     "active": true,
     "aliases": [
+      "Tai Felton"
+    ],
+    "avi_id": "AVI-00012496",
+    "canonical_name": "Tai Felton",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "MIN",
+    "normalized_name": "tai felton",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25924,
+      "fantasypros_id": "27182",
+      "nfl_id": "2574344",
+      "rotowire_id": 18553,
+      "sleeper_id": "12496",
+      "sportradar_id": "1eeea030-3313-4aab-b33c-9f836710354a",
+      "sportsdata_player_id": "1eeea030-3313-4aab-b33c-9f836710354a"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Tank Bigsby"
     ],
     "avi_id": "AVI-00009225",
@@ -9611,6 +9661,31 @@
       "sleeper_id": "5409",
       "sportradar_id": "2fa75e05-cac4-4b40-8924-dbc9ae0c959c",
       "sportsdata_player_id": "2fa75e05-cac4-4b40-8924-dbc9ae0c959c"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Tanner Koziol"
+    ],
+    "avi_id": "AVI-00013408",
+    "canonical_name": "Tanner Koziol",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "JAC",
+    "normalized_name": "tanner koziol",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26793,
+      "fantasypros_id": "27499",
+      "nfl_id": null,
+      "rotowire_id": 19349,
+      "sleeper_id": "13408",
+      "sportradar_id": "aa0d8447-26c5-4f82-827a-57890d7b9f70",
+      "sportsdata_player_id": "aa0d8447-26c5-4f82-827a-57890d7b9f70"
     }
   },
   {
@@ -10690,6 +10765,31 @@
       "sleeper_id": "8126",
       "sportradar_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05",
       "sportsdata_player_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Will Kacmarek"
+    ],
+    "avi_id": "AVI-00013434",
+    "canonical_name": "Will Kacmarek",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "MIA",
+    "normalized_name": "will kacmarek",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26978,
+      "fantasypros_id": "28403",
+      "nfl_id": null,
+      "rotowire_id": 19450,
+      "sleeper_id": "13434",
+      "sportradar_id": "8f405d6d-46dd-4f4e-b6cf-52379cd9bb54",
+      "sportsdata_player_id": "8f405d6d-46dd-4f4e-b6cf-52379cd9bb54"
     }
   },
   {

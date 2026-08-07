@@ -2791,6 +2791,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "25373",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "IND",
+    "player_name": "Riley Leonard",
+    "position": "QB",
+    "sleeper_id": "12470"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "25387",
     "match_method": "exact_name_position_unique",
     "nfl_team": "LVR",
@@ -3637,6 +3646,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "27182",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "MIN",
+    "player_name": "Tai Felton",
+    "position": "WR",
+    "sleeper_id": "12496"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "27211",
     "match_method": "exact_name_position_unique",
     "nfl_team": "DEN",
@@ -3859,6 +3877,15 @@
     "player_name": "Kyle Williams",
     "position": "WR",
     "sleeper_id": "12547"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "27499",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "JAC",
+    "player_name": "Tanner Koziol",
+    "position": "TE",
+    "sleeper_id": "13408"
   },
   {
     "confidence": "verified",
@@ -4147,6 +4174,15 @@
     "player_name": "Kaelon Black",
     "position": "RB",
     "sleeper_id": "13414"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28403",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "MIA",
+    "player_name": "Will Kacmarek",
+    "position": "TE",
+    "sleeper_id": "13434"
   },
   {
     "confidence": "verified",

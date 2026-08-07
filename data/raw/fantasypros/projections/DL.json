@@ -876,29 +876,6 @@
       "team_id": "PIT"
     },
     {
-      "filename": "jaelan-phillips.php",
-      "fpid": 22734,
-      "mflid": 15349,
-      "name": "Jaelan Phillips",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 19.81,
-        "def_ff": 1,
-        "def_fr": 0.65,
-        "def_int": 0.29,
-        "def_pd": 3.45,
-        "def_sack": 5.86,
-        "def_safety": 0,
-        "def_tackle": 46.79,
-        "def_td": 0.11,
-        "def_tlost": 0,
-        "points": 122.37,
-        "points_half": 122.37,
-        "points_ppr": 122.37
-      },
-      "team_id": "CAR"
-    },
-    {
       "filename": "jalen-carter.php",
       "fpid": 24703,
       "mflid": 16233,
@@ -1037,29 +1014,6 @@
       "team_id": "JAC"
     },
     {
-      "filename": "carl-granderson.php",
-      "fpid": 18295,
-      "mflid": 14405,
-      "name": "Carl Granderson",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 22.28,
-        "def_ff": 0.7,
-        "def_fr": 0.13,
-        "def_int": 0.7,
-        "def_pd": 4.06,
-        "def_sack": 5.7,
-        "def_safety": 0,
-        "def_tackle": 44.83,
-        "def_td": 0.11,
-        "def_tlost": 0,
-        "points": 120.27,
-        "points_half": 120.27,
-        "points_ppr": 120.27
-      },
-      "team_id": "NO"
-    },
-    {
       "filename": "bj-hill.php",
       "fpid": 17402,
       "mflid": 13742,
@@ -1104,6 +1058,29 @@
         "points_ppr": 119.26
       },
       "team_id": "TEN"
+    },
+    {
+      "filename": "carl-granderson.php",
+      "fpid": 18295,
+      "mflid": 14405,
+      "name": "Carl Granderson",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 21.78,
+        "def_ff": 0.7,
+        "def_fr": 0.13,
+        "def_int": 0.7,
+        "def_pd": 4.06,
+        "def_sack": 5.7,
+        "def_safety": 0,
+        "def_tackle": 44.33,
+        "def_td": 0.11,
+        "def_tlost": 0,
+        "points": 119.15,
+        "points_half": 119.15,
+        "points_ppr": 119.15
+      },
+      "team_id": "NO"
     },
     {
       "filename": "jalen-redmond.php",
@@ -1495,6 +1472,29 @@
         "points_ppr": 111.41
       },
       "team_id": "KC"
+    },
+    {
+      "filename": "jaelan-phillips.php",
+      "fpid": 22734,
+      "mflid": 15349,
+      "name": "Jaelan Phillips",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 19.91,
+        "def_ff": 1,
+        "def_fr": 0.83,
+        "def_int": 0.15,
+        "def_pd": 3.23,
+        "def_sack": 6.68,
+        "def_safety": 0,
+        "def_tackle": 37.4,
+        "def_td": 0.11,
+        "def_tlost": 0,
+        "points": 111.26,
+        "points_half": 111.26,
+        "points_ppr": 111.26
+      },
+      "team_id": "CAR"
     },
     {
       "filename": "nolan-smith.php",
