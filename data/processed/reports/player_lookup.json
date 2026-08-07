@@ -51,6 +51,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00004993",
+      "c_avi": 47.7,
+      "d_avi": 61.8,
+      "nfl_team": "CIN",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
+      "sleeper_id": "4993",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008147",
       "c_avi": 45.7,
       "d_avi": 55.9,
@@ -514,18 +526,6 @@
       "player_name": "Deshaun Watson",
       "position": "QB",
       "sleeper_id": "4017",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013421",
-      "c_avi": 34.0,
-      "d_avi": 65.6,
-      "nfl_team": "NE",
-      "player_name": "Eli Raridon",
-      "position": "TE",
-      "sleeper_id": "13421",
       "status": "Active"
     },
     {
@@ -1210,6 +1210,18 @@
       "player_name": "Jeremy McNichols",
       "position": "RB",
       "sleeper_id": "4219",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012547",
+      "c_avi": 22.8,
+      "d_avi": 60.2,
+      "nfl_team": "NE",
+      "player_name": "Kyle Williams",
+      "position": "WR",
+      "sleeper_id": "12547",
       "status": "Active"
     },
     {
@@ -2438,8 +2450,8 @@
     }
   ],
   "counts": {
-    "available_players": 203,
-    "rostered_players": 237
+    "available_players": 204,
+    "rostered_players": 236
   },
   "rostered_players": [
     {
@@ -3574,6 +3586,22 @@
       "position": "RB",
       "roster_id": 11,
       "sleeper_id": "12469",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013421",
+      "c_avi": 34.0,
+      "d_avi": 65.6,
+      "nfl_team": "NE",
+      "owner_id": "986498458162970624",
+      "player_name": "Eli Raridon",
+      "position": "TE",
+      "roster_id": 11,
+      "sleeper_id": "13421",
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
@@ -4797,22 +4825,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00012547",
-      "c_avi": 22.8,
-      "d_avi": 60.2,
-      "nfl_team": "NE",
-      "owner_id": "737531831641128960",
-      "player_name": "Kyle Williams",
-      "position": "WR",
-      "roster_id": 7,
-      "sleeper_id": "12547",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00005849",
       "c_avi": 52.0,
       "d_avi": 69.3,
@@ -5161,22 +5173,6 @@
       "status": "Active",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00004993",
-      "c_avi": 47.7,
-      "d_avi": 61.8,
-      "nfl_team": "CIN",
-      "owner_id": "986498458162970624",
-      "player_name": "Mike Gesicki",
-      "position": "TE",
-      "roster_id": 11,
-      "sleeper_id": "4993",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,

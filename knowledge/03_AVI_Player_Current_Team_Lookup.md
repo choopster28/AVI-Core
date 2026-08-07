@@ -572,6 +572,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
+## PLAYER LOOKUP: Eli Raridon
+- Player name: Eli Raridon
+- Player ID: 13421
+- Position: TE
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Eli Stowers
 - Player name: Eli Stowers
 - Player ID: 13349
@@ -1180,14 +1188,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
 
-## PLAYER LOOKUP: Kyle Williams
-- Player name: Kyle Williams
-- Player ID: 12547
-- Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Kyler Murray
 - Player name: Kyler Murray
 - Player ID: 5849
@@ -1363,14 +1363,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
-
-## PLAYER LOOKUP: Mike Gesicki
-- Player name: Mike Gesicki
-- Player ID: 4993
-- Position: TE
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Nicholas Singleton
 - Player name: Nicholas Singleton
@@ -1938,6 +1930,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 65.7
 - Availability: available
 
+## AVAILABLE PLAYER: Mike Gesicki
+- Player name: Mike Gesicki
+- Player ID: 4993
+- Position: TE
+- NFL team: CIN
+- Championship AVI (C-AVI, 0-100): 47.7
+- Dynasty AVI (D-AVI, 0-100): 61.8
+- Availability: available
+
 ## AVAILABLE PLAYER: John Metchie
 - Player name: John Metchie
 - Player ID: 8147
@@ -2287,15 +2288,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CLE
 - Championship AVI (C-AVI, 0-100): 34.1
 - Dynasty AVI (D-AVI, 0-100): 55.1
-- Availability: available
-
-## AVAILABLE PLAYER: Eli Raridon
-- Player name: Eli Raridon
-- Player ID: 13421
-- Position: TE
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 34.0
-- Dynasty AVI (D-AVI, 0-100): 65.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Charlie Kolar
@@ -2809,6 +2801,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: WAS
 - Championship AVI (C-AVI, 0-100): 23.0
 - Dynasty AVI (D-AVI, 0-100): 47.5
+- Availability: available
+
+## AVAILABLE PLAYER: Kyle Williams
+- Player name: Kyle Williams
+- Player ID: 12547
+- Position: WR
+- NFL team: NE
+- Championship AVI (C-AVI, 0-100): 22.8
+- Dynasty AVI (D-AVI, 0-100): 60.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Trevor Etienne
