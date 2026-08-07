@@ -346,12 +346,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 1.5,
-        "points": 162.12,
-        "points_half": 203.25,
-        "points_ppr": 244.38,
-        "rec_rec": 82.26,
+        "points": 161.82,
+        "points_half": 202.79,
+        "points_ppr": 243.75,
+        "rec_rec": 81.93,
         "rec_tds": 6.51,
-        "rec_yds": 1172.95,
+        "rec_yds": 1169.95,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -1634,12 +1634,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.16,
-        "points": 94.2,
-        "points_half": 113.12,
-        "points_ppr": 132.05,
-        "rec_rec": 37.85,
+        "points": 95.15,
+        "points_half": 114.32,
+        "points_ppr": 133.5,
+        "rec_rec": 38.35,
         "rec_tds": 5.99,
-        "rec_yds": 585.96,
+        "rec_yds": 595.46,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -2046,6 +2046,34 @@
       "team_id": "NYJ"
     },
     {
+      "filename": "jakobi-lane.php",
+      "fpid": 27337,
+      "mflid": 17517,
+      "name": "Ja'Kobi Lane",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.63,
+        "points": 73.79,
+        "points_half": 89.75,
+        "points_ppr": 105.7,
+        "rec_rec": 31.91,
+        "rec_tds": 3.93,
+        "rec_yds": 506.23,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 1.5,
+        "rush_tds": 0,
+        "rush_yds": 8.5,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "BAL"
+    },
+    {
       "filename": "kayshon-boutte.php",
       "fpid": 22989,
       "mflid": 16193,
@@ -2100,34 +2128,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "PIT"
-    },
-    {
-      "filename": "jakobi-lane.php",
-      "fpid": 27337,
-      "mflid": 17517,
-      "name": "Ja'Kobi Lane",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.63,
-        "points": 70.34,
-        "points_half": 85.05,
-        "points_ppr": 99.75,
-        "rec_rec": 29.41,
-        "rec_tds": 3.93,
-        "rec_yds": 471.73,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 1.5,
-        "rush_tds": 0,
-        "rush_yds": 8.5,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "BAL"
     },
     {
       "filename": "travis-hunter.php",
@@ -2830,34 +2830,6 @@
       "team_id": "TEN"
     },
     {
-      "filename": "dontayvion-wicks.php",
-      "fpid": 24354,
-      "mflid": 16195,
-      "name": "Dontayvion Wicks",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.14,
-        "points": 49.9,
-        "points_half": 65.47,
-        "points_ppr": 81.04,
-        "rec_rec": 31.14,
-        "rec_tds": 2.4,
-        "rec_yds": 355.02,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0.5,
-        "rush_tds": 0,
-        "rush_yds": 3,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "PHI"
-    },
-    {
       "filename": "chimere-dike.php",
       "fpid": 27315,
       "mflid": 17171,
@@ -3082,6 +3054,34 @@
       "team_id": "DEN"
     },
     {
+      "filename": "josh-palmer.php",
+      "fpid": 22845,
+      "mflid": 15319,
+      "name": "Joshua Palmer",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.08,
+        "points": 43.34,
+        "points_half": 56.31,
+        "points_ppr": 69.28,
+        "rec_rec": 25.94,
+        "rec_tds": 1.62,
+        "rec_yds": 337.74,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "BUF"
+    },
+    {
       "filename": "marvin-mims.php",
       "fpid": 23080,
       "mflid": 16189,
@@ -3108,6 +3108,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "DEN"
+    },
+    {
+      "filename": "dontayvion-wicks.php",
+      "fpid": 24354,
+      "mflid": 16195,
+      "name": "Dontayvion Wicks",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.27,
+        "points": 41.2,
+        "points_half": 53.34,
+        "points_ppr": 65.47,
+        "rec_rec": 24.27,
+        "rec_tds": 1.79,
+        "rec_yds": 310.03,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "PHI"
     },
     {
       "filename": "xavier-hutchinson.php",
@@ -3472,34 +3500,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "MIA"
-    },
-    {
-      "filename": "josh-palmer.php",
-      "fpid": 22845,
-      "mflid": 15319,
-      "name": "Joshua Palmer",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.15,
-        "points": 27.69,
-        "points_half": 36.13,
-        "points_ppr": 44.57,
-        "rec_rec": 16.88,
-        "rec_tds": 1.24,
-        "rec_yds": 205.48,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "BUF"
     },
     {
       "filename": "cyrus-allen.php",

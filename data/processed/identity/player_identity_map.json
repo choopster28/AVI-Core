@@ -522,6 +522,15 @@
     "sleeper_id": "4454"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "17115",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Taysom Hill",
+    "position": "TE",
+    "sleeper_id": "4381"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "17233",
     "match_method": "exact_name_position_unique",
@@ -655,15 +664,6 @@
     "player_name": "Daniel Carlson",
     "position": "K",
     "sleeper_id": "5095"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "17508",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "BAL",
-    "player_name": "Durham Smythe",
-    "position": "TE",
-    "sleeper_id": "5008"
   },
   {
     "confidence": "verified",
@@ -844,15 +844,6 @@
     "player_name": "Gardner Minshew II",
     "position": "QB",
     "sleeper_id": "6011"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "18566",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "TB",
-    "player_name": "David Sills V",
-    "position": "WR",
-    "sleeper_id": "6154"
   },
   {
     "confidence": "verified",
@@ -1162,15 +1153,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "19483",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "WAS",
-    "player_name": "Van Jefferson",
-    "position": "WR",
-    "sleeper_id": "6853"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "19539",
     "match_method": "exact_name_position_unique",
     "nfl_team": "KC",
@@ -1315,12 +1297,12 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "19844",
+    "fantasypros_id": "20082",
     "match_method": "exact_name_position_unique",
-    "nfl_team": "NE",
-    "player_name": "Reggie Gilliam",
-    "position": "RB",
-    "sleeper_id": "7204"
+    "nfl_team": "LAC",
+    "player_name": "Trey Lance",
+    "position": "QB",
+    "sleeper_id": "7610"
   },
   {
     "confidence": "verified",
@@ -1753,15 +1735,6 @@
     "player_name": "Kayshon Boutte",
     "position": "WR",
     "sleeper_id": "9504"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "22997",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "ARI",
-    "player_name": "Corey Kiner",
-    "position": "RB",
-    "sleeper_id": "12491"
   },
   {
     "confidence": "verified",
@@ -2554,15 +2527,6 @@
     "player_name": "Isaiah Bond",
     "position": "WR",
     "sleeper_id": "12503"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "24372",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "LAC",
-    "player_name": "KeAndre Lambert-Smith",
-    "position": "WR",
-    "sleeper_id": "12670"
   },
   {
     "confidence": "verified",
@@ -3457,15 +3421,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "26748",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "HOU",
-    "player_name": "British Brooks",
-    "position": "RB",
-    "sleeper_id": "12171"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "26763",
     "match_method": "exact_name_position_unique",
     "nfl_team": "IND",
@@ -4231,15 +4186,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "28717",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "BAL",
-    "player_name": "Dontae McMillan",
-    "position": "RB",
-    "sleeper_id": "13852"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "28757",
     "match_method": "exact_name_position_unique",
     "nfl_team": "BAL",
@@ -4255,14 +4201,5 @@
     "player_name": "Roman Wilson",
     "position": "WR",
     "sleeper_id": "11630"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "28906",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CAR",
-    "player_name": "Miles Davis",
-    "position": "RB",
-    "sleeper_id": "14044"
   }
 ]

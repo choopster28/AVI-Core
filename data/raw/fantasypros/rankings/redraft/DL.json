@@ -11873,7 +11873,7 @@
     },
     {
       "cbs_player_id": "28867305",
-      "player_bye_week": "10",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "haggai-chisom-ndubuisi.php",
@@ -11886,7 +11886,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "H. Ndubuisi",
-      "player_team_id": "TB",
+      "player_team_id": "FA",
       "player_yahoo_id": "40481",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT216",

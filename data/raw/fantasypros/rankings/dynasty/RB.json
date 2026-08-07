@@ -5327,7 +5327,7 @@
     {
       "cbs_player_id": "2965967",
       "player_age": "25",
-      "player_bye_week": null,
+      "player_bye_week": "14",
       "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "jashaun-corbin.php",
@@ -5340,7 +5340,7 @@
       "player_position_id": "RB",
       "player_positions": "RB",
       "player_short_name": "J. Corbin",
-      "player_team_id": "FA",
+      "player_team_id": "DAL",
       "player_yahoo_id": "34665",
       "player_yahoo_positions": "RB",
       "pos_rank": "RB191",

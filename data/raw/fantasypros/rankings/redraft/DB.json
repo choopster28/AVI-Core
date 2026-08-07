@@ -7578,7 +7578,7 @@
     },
     {
       "cbs_player_id": "2060842",
-      "player_bye_week": null,
+      "player_bye_week": "10",
       "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "xavier-woods.php",
@@ -7591,7 +7591,7 @@
       "player_position_id": "S",
       "player_positions": "S",
       "player_short_name": "X. Woods",
-      "player_team_id": "FA",
+      "player_team_id": "CHI",
       "player_yahoo_id": "30304",
       "player_yahoo_positions": "S",
       "pos_rank": "S121",
