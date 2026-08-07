@@ -1,8 +1,8 @@
 {
-  "downloaded_at_utc": "2026-08-07T20:04:04.675175+00:00",
+  "downloaded_at_utc": "2026-08-07T23:00:40.146556+00:00",
   "record_counts": {
     "completed_trades": 50,
-    "nfl_players": 12212
+    "nfl_players": 12213
   },
   "season_results": [
     {
@@ -18,7 +18,7 @@
       "league_id": "1312185568032997376",
       "rosters": 16,
       "season": 2026,
-      "transactions": 125,
+      "transactions": 126,
       "users": 16
     }
   ],
@@ -26,6 +26,6 @@
     2025,
     2026
   ],
-  "snapshot_id": "2026-08-07T20-04-04Z",
+  "snapshot_id": "2026-08-07T23-00-40Z",
   "status": "passed"
 }

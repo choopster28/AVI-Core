@@ -39,18 +39,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00004993",
-      "c_avi": 48.9,
-      "d_avi": 63.7,
-      "nfl_team": "CIN",
-      "player_name": "Mike Gesicki",
-      "position": "TE",
-      "sleeper_id": "4993",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004981",
       "c_avi": 48.2,
       "d_avi": 66.4,
@@ -658,6 +646,18 @@
       "player_name": "Josh Oliver",
       "position": "TE",
       "sleeper_id": "5973",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00011637",
+      "c_avi": 31.1,
+      "d_avi": 64.1,
+      "nfl_team": "BUF",
+      "player_name": "Keon Coleman",
+      "position": "WR",
+      "sleeper_id": "11637",
       "status": "Active"
     },
     {
@@ -4781,22 +4781,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00011637",
-      "c_avi": 31.1,
-      "d_avi": 64.1,
-      "nfl_team": "BUF",
-      "owner_id": "872509429436829696",
-      "player_name": "Keon Coleman",
-      "position": "WR",
-      "roster_id": 6,
-      "sleeper_id": "11637",
-      "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00008134",
       "c_avi": 59.2,
       "d_avi": 77.1,
@@ -5209,6 +5193,22 @@
       "status": "Active",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00004993",
+      "c_avi": 48.9,
+      "d_avi": 63.7,
+      "nfl_team": "CIN",
+      "owner_id": "872509429436829696",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
+      "roster_id": 6,
+      "sleeper_id": "4993",
+      "status": "Active",
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
