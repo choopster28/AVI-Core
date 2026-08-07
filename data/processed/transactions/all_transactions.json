@@ -19484,6 +19484,62 @@
     "_avi_season": 2026,
     "_avi_transaction_week": 1,
     "adds": {
+      "5017": 6
+    },
+    "consenter_ids": [
+      6
+    ],
+    "created": 1786116427002,
+    "creator": "872509429436829696",
+    "draft_picks": [],
+    "drops": {
+      "13368": 6
+    },
+    "leg": 1,
+    "metadata": null,
+    "roster_ids": [
+      6
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1786116427002,
+    "transaction_id": "1391476784024780801",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "_avi_league_id": "1312185568032997376",
+    "_avi_season": 2026,
+    "_avi_transaction_week": 1,
+    "adds": {
+      "11626": 6
+    },
+    "consenter_ids": [
+      6
+    ],
+    "created": 1786116134524,
+    "creator": "872509429436829696",
+    "draft_picks": [],
+    "drops": {
+      "2020": 6
+    },
+    "leg": 1,
+    "metadata": null,
+    "roster_ids": [
+      6
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1786116134524,
+    "transaction_id": "1391475557287350272",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "_avi_league_id": "1312185568032997376",
+    "_avi_season": 2026,
+    "_avi_transaction_week": 1,
+    "adds": {
       "13421": 11
     },
     "consenter_ids": [

@@ -1852,6 +1852,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
+## PLAYER LOOKUP: Xavier Legette
+- Player name: Xavier Legette
+- Player ID: 11626
+- Position: WR
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
+
 ## PLAYER LOOKUP: Xavier Worthy
 - Player name: Xavier Worthy
 - Player ID: 11624
@@ -2054,15 +2062,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: BUF
 - Championship AVI (C-AVI, 0-100): 41.1
 - Dynasty AVI (D-AVI, 0-100): 55.7
-- Availability: available
-
-## AVAILABLE PLAYER: Xavier Legette
-- Player name: Xavier Legette
-- Player ID: 11626
-- Position: WR
-- NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 40.7
-- Dynasty AVI (D-AVI, 0-100): 61.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Christian Kirk
