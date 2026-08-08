@@ -115527,7 +115527,7 @@
       "rookie_year": "2025",
       "source_id": "9c5acd8c-414c-4cfa-8edd-a0e6553bea8c"
     },
-    "news_updated": 1786140316939,
+    "news_updated": 1786211432659,
     "number": 44,
     "oddsjam_id": "5BE524D2DCC75E68",
     "opta_id": null,
@@ -125292,10 +125292,10 @@
     "hashtag": "#calebrogers-NFL-LV-76",
     "height": "76",
     "high_school": "Lake Ridge (TX)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "cc581464-87c3-42a1-a88a-548f8f332b46",
     "last_name": "Rogers",
     "metadata": {
@@ -178515,10 +178515,10 @@
     "hashtag": "#dezhaunstribling-NFL-SF-15",
     "height": "74",
     "high_school": "Kapolei (HI)",
-    "injury_body_part": "Hamstring",
-    "injury_notes": "Soreness",
+    "injury_body_part": null,
+    "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "1d3fdc4d-7903-4148-8a74-dca026ef088f",
     "last_name": "Stribling",
     "metadata": {
@@ -178526,7 +178526,7 @@
       "rookie_year": "2026",
       "source_id": "f0f9f984-0feb-4e43-9881-f075ca2b64e4"
     },
-    "news_updated": 1786042850847,
+    "news_updated": 1786215030765,
     "number": 15,
     "oddsjam_id": null,
     "opta_id": null,
@@ -335332,7 +335332,7 @@
       "genius_id": "941262",
       "rookie_year": "2016"
     },
-    "news_updated": 1784236833233,
+    "news_updated": 1786211430443,
     "number": 78,
     "oddsjam_id": "DFA75C891C62",
     "opta_id": null,
@@ -510681,7 +510681,7 @@
       "genius_id": "1006960",
       "rookie_year": "2019"
     },
-    "news_updated": 1784839814228,
+    "news_updated": 1786215630677,
     "number": 87,
     "oddsjam_id": "B33E7A0D7428",
     "opta_id": null,
@@ -621051,7 +621051,7 @@
       "genius_id": "1006669",
       "rookie_year": "2021"
     },
-    "news_updated": 1785887409839,
+    "news_updated": 1786214130791,
     "number": 3,
     "oddsjam_id": "B26588814F61",
     "opta_id": null,
@@ -661485,7 +661485,7 @@
       "genius_id": "1343369",
       "rookie_year": "2022"
     },
-    "news_updated": 1784834113567,
+    "news_updated": 1786212930478,
     "number": 20,
     "oddsjam_id": "648A95BBCC7F",
     "opta_id": null,
@@ -663655,7 +663655,7 @@
       "genius_id": "1072592",
       "rookie_year": "2022"
     },
-    "news_updated": 1784829313030,
+    "news_updated": 1786212030594,
     "number": 2,
     "oddsjam_id": "5678AD8CF517",
     "opta_id": null,
