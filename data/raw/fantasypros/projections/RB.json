@@ -1,5 +1,5 @@
 {
-  "count": "131",
+  "count": "130",
   "players": [
     {
       "filename": "jahmyr-gibbs.php",
@@ -1794,34 +1794,6 @@
       "team_id": "BAL"
     },
     {
-      "filename": "marshawn-lloyd.php",
-      "fpid": 23118,
-      "mflid": 16604,
-      "name": "MarShawn Lloyd",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.32,
-        "points": 52.47,
-        "points_half": 58.49,
-        "points_ppr": 64.52,
-        "rec_rec": 12.05,
-        "rec_tds": 0.56,
-        "rec_yds": 85.07,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 67.23,
-        "rush_tds": 2.1,
-        "rush_yds": 286.38,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "GB"
-    },
-    {
       "filename": "christopher-brooks.php",
       "fpid": 25823,
       "mflid": 16387,
@@ -2016,6 +1988,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "DAL"
+    },
+    {
+      "filename": "marshawn-lloyd.php",
+      "fpid": 23118,
+      "mflid": 16604,
+      "name": "MarShawn Lloyd",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.16,
+        "points": 36.68,
+        "points_half": 39.95,
+        "points_ppr": 43.21,
+        "rec_rec": 6.53,
+        "rec_tds": 0.28,
+        "rec_yds": 48.54,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 50.62,
+        "rush_tds": 1.55,
+        "rush_yds": 211.69,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "GB"
     },
     {
       "filename": "sean-tucker.php",
@@ -2522,34 +2522,6 @@
       "team_id": "CHI"
     },
     {
-      "filename": "jarquez-hunter.php",
-      "fpid": 24335,
-      "mflid": 17064,
-      "name": "Jarquez Hunter",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 22.2,
-        "points_half": 22.7,
-        "points_ppr": 23.2,
-        "rec_rec": 1,
-        "rec_tds": 0,
-        "rec_yds": 14,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 33,
-        "rush_tds": 1,
-        "rush_yds": 148,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "LAR"
-    },
-    {
       "filename": "dameon-pierce.php",
       "fpid": 22947,
       "mflid": 15717,
@@ -2634,38 +2606,38 @@
       "team_id": "KC"
     },
     {
-      "filename": "donovan-edwards.php",
-      "fpid": 23014,
-      "mflid": 17057,
-      "name": "Donovan Edwards",
+      "filename": "deuce-vaughn.php",
+      "fpid": 22984,
+      "mflid": 16176,
+      "name": "Deuce Vaughn",
       "position_id": "RB",
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0,
-        "points": 20.9,
-        "points_half": 21.9,
-        "points_ppr": 22.9,
-        "rec_rec": 2,
+        "points": 21.2,
+        "points_half": 21.7,
+        "points_ppr": 22.2,
+        "rec_rec": 1,
         "rec_tds": 0,
-        "rec_yds": 19,
+        "rec_yds": 9,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
-        "rush_att": 31,
+        "rush_att": 32,
         "rush_tds": 1,
-        "rush_yds": 130,
+        "rush_yds": 143,
         "rush_yds_100": 0,
         "rush_yds_200": 0,
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "MIA"
+      "team_id": "FA"
     },
     {
-      "filename": "carlos-washington-jr.php",
-      "fpid": 25644,
-      "mflid": 16864,
-      "name": "Carlos Washington Jr.",
+      "filename": "donovan-edwards.php",
+      "fpid": 23014,
+      "mflid": 17057,
+      "name": "Donovan Edwards",
       "position_id": "RB",
       "stats": {
         "2pt_tds": 0,
