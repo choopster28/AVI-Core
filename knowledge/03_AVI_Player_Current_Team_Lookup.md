@@ -1148,6 +1148,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
 
+## PLAYER LOOKUP: Keon Coleman
+- Player name: Keon Coleman
+- Player ID: 11637
+- Position: WR
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
+
 ## PLAYER LOOKUP: Khalil Shakir
 - Player name: Khalil Shakir
 - Player ID: 8134
@@ -2386,15 +2394,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: MIN
 - Championship AVI (C-AVI, 0-100): 30.7
 - Dynasty AVI (D-AVI, 0-100): 46.3
-- Availability: available
-
-## AVAILABLE PLAYER: Keon Coleman
-- Player name: Keon Coleman
-- Player ID: 11637
-- Position: WR
-- NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 30.3
-- Dynasty AVI (D-AVI, 0-100): 63.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Treylon Burks

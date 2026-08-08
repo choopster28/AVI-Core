@@ -651,18 +651,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00011637",
-      "c_avi": 30.3,
-      "d_avi": 63.6,
-      "nfl_team": "BUF",
-      "player_name": "Keon Coleman",
-      "position": "WR",
-      "sleeper_id": "11637",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008135",
       "c_avi": 30.1,
       "d_avi": 52.9,
@@ -2402,8 +2390,8 @@
     }
   ],
   "counts": {
-    "available_players": 200,
-    "rostered_players": 237
+    "available_players": 199,
+    "rostered_players": 238
   },
   "rostered_players": [
     {
@@ -4693,6 +4681,22 @@
       "status": "Active",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011637",
+      "c_avi": 30.3,
+      "d_avi": 63.6,
+      "nfl_team": "BUF",
+      "owner_id": "872509429436829696",
+      "player_name": "Keon Coleman",
+      "position": "WR",
+      "roster_id": 6,
+      "sleeper_id": "11637",
+      "status": "Active",
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,

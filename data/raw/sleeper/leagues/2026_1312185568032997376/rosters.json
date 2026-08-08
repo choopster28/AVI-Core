@@ -314,9 +314,9 @@
     "owner_id": "872509429436829696",
     "player_map": null,
     "players": [
-      "10914",
       "11626",
       "11627",
+      "11637",
       "12487",
       "2747",
       "3163",
@@ -344,7 +344,7 @@
       "losses": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 9528,
+      "waiver_budget_used": 9523,
       "waiver_position": 16,
       "wins": 0
     },
