@@ -3237,6 +3237,31 @@
   {
     "active": true,
     "aliases": [
+      "Elijah Moore"
+    ],
+    "avi_id": "AVI-00007596",
+    "canonical_name": "Elijah Moore",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "PHI",
+    "normalized_name": "elijah moore",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 22592,
+      "fantasypros_id": "20114",
+      "nfl_id": "2566385",
+      "rotowire_id": 15280,
+      "sleeper_id": "7596",
+      "sportradar_id": "b1935e20-6bd6-4863-8d7e-702ec403491f",
+      "sportsdata_player_id": "b1935e20-6bd6-4863-8d7e-702ec403491f"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Elijah Sarratt"
     ],
     "avi_id": "AVI-00013268",
@@ -7503,32 +7528,6 @@
   {
     "active": true,
     "aliases": [
-      "Mecole Hardman",
-      "Mecole Hardman Jr."
-    ],
-    "avi_id": "AVI-00005917",
-    "canonical_name": "Mecole Hardman",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "BUF",
-    "normalized_name": "mecole hardman",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": 4035004,
-      "fantasy_data_id": 20788,
-      "fantasypros_id": "18587",
-      "nfl_id": "2562580",
-      "rotowire_id": 13532,
-      "sleeper_id": "5917",
-      "sportradar_id": "fe6dc768-d576-476c-b150-53b85af2a1d1",
-      "sportsdata_player_id": "fe6dc768-d576-476c-b150-53b85af2a1d1"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Michael Carter"
     ],
     "avi_id": "AVI-00007607",
@@ -7651,32 +7650,6 @@
       "sleeper_id": "10232",
       "sportradar_id": "b91be982-fccd-448e-869b-e9b5148a1730",
       "sportsdata_player_id": "b91be982-fccd-448e-869b-e9b5148a1730"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Michael Woods",
-      "Michael Woods II"
-    ],
-    "avi_id": "AVI-00008202",
-    "canonical_name": "Michael Woods",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "DEN",
-    "normalized_name": "michael woods",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 23468,
-      "fantasypros_id": "23893",
-      "nfl_id": "2567481",
-      "rotowire_id": 16030,
-      "sleeper_id": "8202",
-      "sportradar_id": "70c462de-b1b5-4c07-8ba2-eb33f3075893",
-      "sportsdata_player_id": "70c462de-b1b5-4c07-8ba2-eb33f3075893"
     }
   },
   {

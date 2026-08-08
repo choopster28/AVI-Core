@@ -7891,7 +7891,7 @@
     },
     {
       "cbs_player_id": "2760837",
-      "player_bye_week": "7",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "dj-davidson.php",
@@ -7904,7 +7904,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "DJ Davidson",
-      "player_team_id": "WAS",
+      "player_team_id": "FA",
       "player_yahoo_id": "34103",
       "player_yahoo_positions": "DL,DT,DE",
       "pos_rank": "DT144",

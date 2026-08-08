@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 563.2
-- championship_lineup_c_avi_avg: 70.40
-- offensive_roster_c_avi_sum: 774.2
-- offensive_roster_c_avi_avg: 59.55
-- offensive_roster_d_avi_sum: 1006.8
-- offensive_roster_d_avi_avg: 77.45
+- championship_lineup_c_avi_sum: 563.1
+- championship_lineup_c_avi_avg: 70.39
+- offensive_roster_c_avi_sum: 774.0
+- offensive_roster_c_avi_avg: 59.54
+- offensive_roster_d_avi_sum: 1006.7
+- offensive_roster_d_avi_avg: 77.44
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: C.J. Stroud | C-AVI: 48.7 | D-AVI: 71.0
-- RB: Ashton Jeanty | C-AVI: 96.9 | D-AVI: 97.3
-- RB: Jaylen Warren | C-AVI: 69.1 | D-AVI: 83.4
+- RB: Ashton Jeanty | C-AVI: 96.9 | D-AVI: 97.2
+- RB: Jaylen Warren | C-AVI: 69.0 | D-AVI: 83.4
 - WR: Rome Odunze | C-AVI: 77.8 | D-AVI: 89.2
 - WR: Michael Wilson | C-AVI: 64.1 | D-AVI: 83.3
 - TE: Sam LaPorta | C-AVI: 86.8 | D-AVI: 88.1
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 96.9
-- Dynasty AVI (D-AVI, 0-100): 97.3
+- Dynasty AVI (D-AVI, 0-100): 97.2
 - Projected PPR points: 276.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 69.1
+- Championship AVI (C-AVI, 0-100): 69.0
 - Dynasty AVI (D-AVI, 0-100): 83.4
 - Projected PPR points: 194.7
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 52.6
+- Championship AVI (C-AVI, 0-100): 52.5
 - Dynasty AVI (D-AVI, 0-100): 74.5
 - Projected PPR points: 138.5
 - Category: offense

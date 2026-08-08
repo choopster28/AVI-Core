@@ -14,19 +14,19 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Roster Counts
 - total_players: 20
-- offense: 14
+- offense: 15
 - kickers: 1
-- idp: 5
+- idp: 4
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 589.7
-- championship_lineup_c_avi_avg: 73.71
-- offensive_roster_c_avi_sum: 815.1
-- offensive_roster_c_avi_avg: 58.22
-- offensive_roster_d_avi_sum: 1002.5
-- offensive_roster_d_avi_avg: 71.61
+- championship_lineup_c_avi_sum: 589.6
+- championship_lineup_c_avi_avg: 73.70
+- offensive_roster_c_avi_sum: 845.5
+- offensive_roster_c_avi_avg: 56.37
+- offensive_roster_d_avi_sum: 1066.2
+- offensive_roster_d_avi_avg: 71.08
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: DK Metcalf | C-AVI: 71.0 | D-AVI: 85.2
 - WR: Parker Washington | C-AVI: 65.5 | D-AVI: 83.8
 - TE: Terrance Ferguson | C-AVI: 53.0 | D-AVI: 73.9
-- FLEX: Javonte Williams | C-AVI: 81.4 | D-AVI: 88.9
+- FLEX: Javonte Williams | C-AVI: 81.3 | D-AVI: 88.9
 - FLEX: Mike Gesicki | C-AVI: 48.4 | D-AVI: 63.6
 
 ## Current Roster — All Player Cards
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 81.4
+- Championship AVI (C-AVI, 0-100): 81.3
 - Dynasty AVI (D-AVI, 0-100): 88.9
 - Projected PPR points: 233.9
 - Category: offense
@@ -229,6 +229,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Keon Coleman
+- Player name: Keon Coleman
+- Player ID: 11637
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: BUF
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 30.5
+- Dynasty AVI (D-AVI, 0-100): 63.7
+- Projected PPR points: 59.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Tyreek Hill
 - Player name: Tyreek Hill
 - Player ID: 3321
@@ -325,23 +342,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Daiyan Henley
-- Player name: Daiyan Henley
-- Player ID: 10914
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: LB
-- Fantasy positions: ['LB']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 26.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

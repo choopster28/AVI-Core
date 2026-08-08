@@ -5467,7 +5467,7 @@
     {
       "cbs_player_id": "26700928",
       "player_age": "23",
-      "player_bye_week": "7",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "WR",
       "player_filename": "chris-hilton.php",
@@ -5480,7 +5480,7 @@
       "player_position_id": "WR",
       "player_positions": "WR",
       "player_short_name": "C. Hilton Jr.",
-      "player_team_id": "WAS",
+      "player_team_id": "FA",
       "player_yahoo_id": "42987",
       "player_yahoo_positions": "WR",
       "pos_rank": "WR196",

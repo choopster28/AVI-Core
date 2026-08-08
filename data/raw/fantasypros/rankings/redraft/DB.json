@@ -8579,7 +8579,7 @@
     },
     {
       "cbs_player_id": "26697256",
-      "player_bye_week": null,
+      "player_bye_week": "11",
       "player_ecr_delta": null,
       "player_eligibility": "CB,S",
       "player_filename": "brandon-johnson-db.php",
@@ -8592,7 +8592,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "B. Johnson",
-      "player_team_id": "FA",
+      "player_team_id": "SEA",
       "player_yahoo_id": "42179",
       "player_yahoo_positions": "S,CB",
       "pos_rank": "CB165",

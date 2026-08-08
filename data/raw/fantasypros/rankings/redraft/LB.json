@@ -11824,7 +11824,7 @@
     },
     {
       "cbs_player_id": "2865034",
-      "player_bye_week": "14",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "charles-snowden.php",
@@ -11837,7 +11837,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "C. Snowden",
-      "player_team_id": "DAL",
+      "player_team_id": "FA",
       "player_yahoo_id": "33914",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "LB330",

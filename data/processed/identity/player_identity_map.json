@@ -856,15 +856,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "18587",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "BUF",
-    "player_name": "Mecole Hardman Jr.",
-    "position": "WR",
-    "sleeper_id": "5917"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "18598",
     "match_method": "exact_name_position_unique",
     "nfl_team": "JAC",
@@ -1330,6 +1321,15 @@
     "player_name": "Dyami Brown",
     "position": "WR",
     "sleeper_id": "7587"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "20114",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PHI",
+    "player_name": "Elijah Moore",
+    "position": "WR",
+    "sleeper_id": "7596"
   },
   {
     "confidence": "verified",
@@ -2284,15 +2284,6 @@
     "player_name": "Rachaad White",
     "position": "RB",
     "sleeper_id": "8136"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "23893",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DEN",
-    "player_name": "Michael Woods II",
-    "position": "WR",
-    "sleeper_id": "8202"
   },
   {
     "confidence": "verified",
