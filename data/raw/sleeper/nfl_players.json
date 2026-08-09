@@ -15225,10 +15225,10 @@
     "hashtag": "#nickhampton-NFL-CAR-39",
     "height": "75",
     "high_school": "Westside (SC)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Out",
     "kalshi_id": "1e29a7ea-73ee-4778-9237-1a7aeda0cd0c",
     "last_name": "Hampton",
     "metadata": {
@@ -58791,7 +58791,7 @@
       "genius_id": "1463675",
       "rookie_year": "2024"
     },
-    "news_updated": 1786058406387,
+    "news_updated": 1786282827635,
     "number": 1,
     "oddsjam_id": "8838562B2670",
     "opta_id": null,
@@ -117992,7 +117992,7 @@
       "rookie_year": "2025",
       "source_id": "1b06fda0-8a81-11ec-9b75-81689e0737c4"
     },
-    "news_updated": 1786125313929,
+    "news_updated": 1786283127278,
     "number": 84,
     "oddsjam_id": "FF9DCBB08A70EF89",
     "opta_id": null,
@@ -118297,7 +118297,7 @@
       "rookie_year": "2025",
       "source_id": "371cfdbc-6113-418d-8861-2b7ef21dacb7"
     },
-    "news_updated": 1785690654989,
+    "news_updated": 1786283727222,
     "number": 18,
     "oddsjam_id": "10E910A0AE1B1692",
     "opta_id": null,
@@ -221260,10 +221260,10 @@
     "hashtag": "#malickmeiga-NFL-CAR-35",
     "height": "76",
     "high_school": "Cegep du Vieux (QC)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Out",
     "kalshi_id": "01c8c1ff-a547-419c-a04a-d610e4af1ff7",
     "last_name": "Meiga",
     "metadata": {
@@ -719065,7 +719065,7 @@
       "genius_id": "1408290",
       "rookie_year": "2023"
     },
-    "news_updated": 1785554737137,
+    "news_updated": 1786282227161,
     "number": 44,
     "oddsjam_id": "4E3EED0F7B55",
     "opta_id": null,
