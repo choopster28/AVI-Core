@@ -222325,7 +222325,7 @@
     "depth_chart_order": null,
     "depth_chart_position": null,
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 28650,
     "fantasy_positions": [
       "DL"
     ],
@@ -222385,7 +222385,7 @@
     "depth_chart_order": null,
     "depth_chart_position": null,
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 28651,
     "fantasy_positions": [
       "DL"
     ],
@@ -222504,7 +222504,7 @@
     "depth_chart_order": null,
     "depth_chart_position": null,
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 28653,
     "fantasy_positions": [
       "DB"
     ],
@@ -682100,7 +682100,7 @@
     "depth_chart_order": null,
     "depth_chart_position": "OL",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 23358,
     "fantasy_positions": [
       "OL"
     ],
