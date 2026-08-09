@@ -17212,7 +17212,7 @@
     "college": "LSU",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 24485,
     "fantasy_positions": [
@@ -58828,7 +58828,7 @@
     "birth_state": null,
     "college": "Louisville",
     "competitions": [],
-    "depth_chart_order": null,
+    "depth_chart_order": 9,
     "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 24984,
@@ -98953,7 +98953,7 @@
     "college": "Nebraska",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 25377,
     "fantasy_positions": [
@@ -157349,7 +157349,7 @@
     "birth_state": null,
     "college": "South Carolina",
     "competitions": [],
-    "depth_chart_order": 9,
+    "depth_chart_order": 10,
     "depth_chart_position": "SWR",
     "espn_id": null,
     "fantasy_data_id": 26422,
@@ -160300,7 +160300,7 @@
     "college": "Cincinnati",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "LB",
     "espn_id": null,
     "fantasy_data_id": 26650,
     "fantasy_positions": [
@@ -163960,7 +163960,7 @@
     "college": "Notre Dame",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "RB",
+    "depth_chart_position": "SWR",
     "espn_id": null,
     "fantasy_data_id": 26679,
     "fantasy_positions": [
@@ -167801,7 +167801,7 @@
     "college": "UCLA",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "LB",
     "espn_id": null,
     "fantasy_data_id": 26729,
     "fantasy_positions": [
@@ -193510,7 +193510,7 @@
     "college": "USC",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DL",
     "espn_id": null,
     "fantasy_data_id": 28259,
     "fantasy_positions": [
@@ -200182,7 +200182,7 @@
     "college": "South Florida",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 28363,
     "fantasy_positions": [
@@ -641302,7 +641302,7 @@
     "college": "Virginia",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "LB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 22796,
     "fantasy_positions": [
