@@ -2662,34 +2662,6 @@
       "team_id": "MIA"
     },
     {
-      "filename": "carlos-washington-jr.php",
-      "fpid": 25644,
-      "mflid": 16864,
-      "name": "Carlos Washington Jr.",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 20.9,
-        "points_half": 21.9,
-        "points_ppr": 22.9,
-        "rec_rec": 2,
-        "rec_tds": 0,
-        "rec_yds": 19,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 31,
-        "rush_tds": 1,
-        "rush_yds": 130,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "MIA"
-    },
-    {
       "filename": "audric-estime.php",
       "fpid": 23054,
       "mflid": 16595,
@@ -2772,6 +2744,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "MIN"
+    },
+    {
+      "filename": "jeremy-mcnichols.php",
+      "fpid": 16445,
+      "mflid": 13143,
+      "name": "Jeremy McNichols",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 20.3,
+        "points_half": 23.8,
+        "points_ppr": 27.3,
+        "rec_rec": 7,
+        "rec_tds": 0,
+        "rec_yds": 55,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 17,
+        "rush_tds": 1,
+        "rush_yds": 88,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "WAS"
     },
     {
       "filename": "seth-mcgowan.php",

@@ -1,7 +1,43 @@
 {
-  "count": 24,
+  "count": 23,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-09 01:38:18",
+      "created_formated": "Sun, Aug 9th 1:38am UTC",
+      "desc": "Jadarian Price is missing practice for a second consecutive day on Saturday. ",
+      "id": 601311,
+      "impact": "Seahawks head coach Mike Macdonald said Price has leg soreness. He is expected back on the field in a few days. ",
+      "link": "https://www.fantasypros.com/nfl/news/601311/jadarian-price-leg-not-practicing-saturday-not-considered-serious.php",
+      "player_id": 27329,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Jadarian Price (leg) not practicing Saturday, not considered serious"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-09 00:27:37",
+      "created_formated": "Sun, Aug 9th 12:27am UTC",
+      "desc": "Commanders LT Laremy Tunsil suffered a torn triceps that will likely require surgery and will force him to miss at least a significant portion of the regular season.",
+      "id": 601310,
+      "impact": "Tunsil suffered the injury in practice on Saturday during 1-on-1 pass-rush drills. It is a brutal break for Jayden Daniels and the Commanders offensive line and offense. ",
+      "link": "https://www.fantasypros.com/nfl/news/601310/laremy-tunsil-torn-triceps-to-undergo-surgery-miss-majority-season.php",
+      "player_id": 15487,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Laremy Tunsil (torn triceps) to undergo surgery, miss majority of season"
+    },
     {
       "author": "Ari Koslow",
       "categories": [
@@ -198,24 +234,6 @@
       "title": "Zay Flowers (quad contusion) considered day-to-day"
     },
     {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-08 16:59:06",
-      "created_formated": "Sat, Aug 8th 4:59pm UTC",
-      "desc": "Laremy Tunsil is set to have his apparent shoulder or neck injury evaluated.",
-      "id": 601255,
-      "impact": "Tunsil left Saturday's practice early after being shaken up in a 1-on-1 drill. The injury originally appeared to be a stinger, but more information should be made available in the coming days.",
-      "link": "https://www.fantasypros.com/nfl/news/601255/laremy-tunsil-shoulder-neck-to-undergo-tests.php",
-      "player_id": 15487,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Laremy Tunsil (shoulder, neck) to undergo tests"
-    },
-    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -388,40 +406,6 @@
       "sport_id": "NFL",
       "team_id": "FA",
       "title": "Joseph Vaughn waived by Seahawks "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-08 09:22:04",
-      "created_formated": "Sat, Aug 8th 9:22am UTC",
-      "desc": "The Seahawks signed LB Power Echols. ",
-      "id": 601179,
-      "impact": "Echols spent time with the Bears and Texans last season. He did not appear in a regular season game. ",
-      "link": "https://www.fantasypros.com/nfl/news/601179/power-echols-signs-with-seahawks.php",
-      "player_id": 27558,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Power Echols signs with Seahawks "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-08 09:20:36",
-      "created_formated": "Sat, Aug 8th 9:20am UTC",
-      "desc": "The Rams signed DE Daniel Rickert. ",
-      "id": 601178,
-      "impact": "Rickert will compete for a depth role on the Rams defensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/601178/daniel-rickert-signs-with-rams.php",
-      "player_id": 29419,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Daniel Rickert signs with Rams"
     }
   ],
   "public_api_limited": true,
