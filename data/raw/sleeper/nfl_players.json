@@ -17235,7 +17235,7 @@
       "genius_id": "1074127",
       "rookie_year": "2023"
     },
-    "news_updated": 1786181128873,
+    "news_updated": 1786232414391,
     "number": 35,
     "oddsjam_id": "A49C28A9E9B2",
     "opta_id": null,
@@ -42269,7 +42269,7 @@
     "college": "Monmouth",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "RB",
     "espn_id": null,
     "fantasy_data_id": 24706,
     "fantasy_positions": [
@@ -46953,6 +46953,7 @@
     "last_name": "Reese",
     "metadata": {
       "channel_id": "1113708830736281600",
+      "genius_id": "1077831",
       "rookie_year": "2023"
     },
     "news_updated": 1763445637254,
@@ -55782,10 +55783,10 @@
     "hashtag": "#jawharjordan-NFL-HOU-25",
     "height": "70",
     "high_school": "Hamilton (NY)",
-    "injury_body_part": null,
-    "injury_notes": null,
+    "injury_body_part": "Hip",
+    "injury_notes": "Strain",
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "7427d746-ea31-4553-9a99-eeb2c115eef5",
     "last_name": "Jordan",
     "metadata": {
@@ -55793,7 +55794,7 @@
       "genius_id": "1464134",
       "rookie_year": "2024"
     },
-    "news_updated": 1784136342328,
+    "news_updated": 1786247423226,
     "number": 25,
     "oddsjam_id": "420B88CE340D",
     "opta_id": null,
@@ -57740,7 +57741,7 @@
     "birth_state": null,
     "college": "Western Kentucky",
     "competitions": [],
-    "depth_chart_order": 6,
+    "depth_chart_order": 7,
     "depth_chart_position": "SWR",
     "espn_id": null,
     "fantasy_data_id": 24979,
@@ -115160,7 +115161,7 @@
       "rookie_year": "2025",
       "source_id": "7092188d-d291-422d-9ab8-8e5aecec1204"
     },
-    "news_updated": 1786224032301,
+    "news_updated": 1786248022202,
     "number": 24,
     "oddsjam_id": "EF5926BE4151D118",
     "opta_id": null,
@@ -116265,7 +116266,7 @@
       "rookie_year": "2025",
       "source_id": "e7af373f-e0f6-4e57-99f4-c7981087250e"
     },
-    "news_updated": 1785893409197,
+    "news_updated": 1786237814070,
     "number": 13,
     "oddsjam_id": "35DF24DDDDAB32DD",
     "opta_id": null,
@@ -116327,7 +116328,7 @@
       "rookie_year": "2025",
       "source_id": "53043fac-4bd3-4c20-8b72-b33f9da5ba60"
     },
-    "news_updated": 1785556237367,
+    "news_updated": 1786243514864,
     "number": 86,
     "oddsjam_id": "7B199EFCFEA900D6",
     "opta_id": null,
@@ -117041,7 +117042,7 @@
     "birth_state": null,
     "college": "Texas",
     "competitions": [],
-    "depth_chart_order": 5,
+    "depth_chart_order": 6,
     "depth_chart_position": "SWR",
     "espn_id": null,
     "fantasy_data_id": 26034,
@@ -117128,7 +117129,7 @@
       "rookie_year": "2025",
       "source_id": "3992e590-8f40-11ec-9f33-1965c9c46e44"
     },
-    "news_updated": 1785511231607,
+    "news_updated": 1786247122006,
     "number": 20,
     "oddsjam_id": "31DA4D7ACB326276",
     "opta_id": null,
@@ -117442,7 +117443,7 @@
       "rookie_year": "2025",
       "source_id": "7a751562-a506-4844-813c-c399196e02d9"
     },
-    "news_updated": 1785953139058,
+    "news_updated": 1786243814583,
     "number": 9,
     "oddsjam_id": "1654C3CD86BF1746",
     "opta_id": null,
@@ -129769,7 +129770,7 @@
   },
   "12691": {
     "active": true,
-    "age": 23,
+    "age": 24,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2002-08-09",
@@ -131858,6 +131859,7 @@
     "last_name": "Prather",
     "metadata": {
       "channel_id": "1222002221281968128",
+      "genius_id": "1495823",
       "rookie_year": "2025"
     },
     "news_updated": 1785555338647,
@@ -132079,8 +132081,8 @@
     "birth_state": null,
     "college": "Iowa",
     "competitions": [],
-    "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_order": 5,
+    "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 25873,
     "fantasy_positions": [
@@ -133536,7 +133538,7 @@
     "college": "North Carolina",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "LB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26161,
     "fantasy_positions": [
@@ -146328,7 +146330,7 @@
     "college": "Syracuse",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "SWR",
+    "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 26281,
     "fantasy_positions": [
@@ -157347,7 +157349,7 @@
     "birth_state": null,
     "college": "South Carolina",
     "competitions": [],
-    "depth_chart_order": 8,
+    "depth_chart_order": 9,
     "depth_chart_position": "SWR",
     "espn_id": null,
     "fantasy_data_id": 26422,
@@ -164442,7 +164444,7 @@
     "college": "Utah State",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "SWR",
     "espn_id": null,
     "fantasy_data_id": 26688,
     "fantasy_positions": [
@@ -165483,6 +165485,7 @@
     "last_name": "Jenkins",
     "metadata": {
       "channel_id": "1233205970990022656",
+      "genius_id": "1505859",
       "rookie_year": "2025"
     },
     "news_updated": 1785993945352,
@@ -167821,7 +167824,7 @@
       "genius_id": "1486700",
       "rookie_year": "2025"
     },
-    "news_updated": 1786181128765,
+    "news_updated": 1786232714394,
     "number": 53,
     "oddsjam_id": null,
     "opta_id": null,
@@ -169639,7 +169642,7 @@
       "rookie_year": "2026",
       "source_id": "0d044fc0-8953-11ec-a69b-29b9a26b6a2e"
     },
-    "news_updated": 1786225232537,
+    "news_updated": 1786242615755,
     "number": 8,
     "oddsjam_id": null,
     "opta_id": null,
@@ -170309,7 +170312,7 @@
       "rookie_year": "2026",
       "source_id": "4ea9b240-8e98-11ec-8d02-85ead82574a9"
     },
-    "news_updated": 1785809711742,
+    "news_updated": 1786244415217,
     "number": 7,
     "oddsjam_id": null,
     "opta_id": null,
@@ -171193,7 +171196,7 @@
     "birth_state": null,
     "college": "LSU",
     "competitions": [],
-    "depth_chart_order": null,
+    "depth_chart_order": 5,
     "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26857,
@@ -173653,7 +173656,7 @@
       "rookie_year": "2026",
       "source_id": "fa469cc0-91e6-11ec-9587-0f8fa2cff168"
     },
-    "news_updated": 1786131314633,
+    "news_updated": 1786235113427,
     "number": 20,
     "oddsjam_id": null,
     "opta_id": null,
@@ -178526,7 +178529,7 @@
       "rookie_year": "2026",
       "source_id": "f0f9f984-0feb-4e43-9881-f075ca2b64e4"
     },
-    "news_updated": 1786215030765,
+    "news_updated": 1786233913236,
     "number": 15,
     "oddsjam_id": null,
     "opta_id": null,
@@ -179421,7 +179424,7 @@
     "college": "SMU",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 28062,
     "fantasy_positions": [
@@ -193530,7 +193533,7 @@
       "genius_id": "1494512",
       "rookie_year": "2026"
     },
-    "news_updated": 1786179629164,
+    "news_updated": 1786232414390,
     "number": 61,
     "oddsjam_id": null,
     "opta_id": null,
@@ -201743,7 +201746,7 @@
     "college": "Syracuse",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "P",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28110,
     "fantasy_positions": [
@@ -204805,7 +204808,7 @@
     "college": "Missouri",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28433,
     "fantasy_positions": [
@@ -207597,6 +207600,7 @@
     "last_name": "Miller",
     "metadata": {
       "channel_id": "1354892875610980352",
+      "genius_id": "1665445",
       "rookie_year": "2026"
     },
     "news_updated": null,
@@ -211863,7 +211867,8 @@
     "kalshi_id": "30f00246-aec9-44df-989a-4a3071fc782e",
     "last_name": "Sewell",
     "metadata": {
-      "channel_id": "1357067141651656704"
+      "channel_id": "1357067141651656704",
+      "genius_id": "1506049"
     },
     "news_updated": null,
     "number": 36,
@@ -221739,7 +221744,8 @@
     "kalshi_id": "391516fc-346c-4c2c-80b5-662e025f48e8",
     "last_name": "Washington",
     "metadata": {
-      "channel_id": "1389677185303838720"
+      "channel_id": "1389677185303838720",
+      "genius_id": "1650978"
     },
     "news_updated": null,
     "number": 35,
@@ -221798,7 +221804,8 @@
     "kalshi_id": "a513d6d2-df95-4c1c-b6c6-103e8bcf64f0",
     "last_name": "Rodgers",
     "metadata": {
-      "channel_id": "1390049589888839680"
+      "channel_id": "1390049589888839680",
+      "genius_id": "1521157"
     },
     "news_updated": null,
     "number": 36,
@@ -221916,7 +221923,8 @@
     "kalshi_id": null,
     "last_name": "Biber",
     "metadata": {
-      "channel_id": "1390492378741108736"
+      "channel_id": "1390492378741108736",
+      "genius_id": "1500787"
     },
     "news_updated": 1785882008741,
     "number": 46,
@@ -221975,7 +221983,8 @@
     "kalshi_id": null,
     "last_name": "Hulstein",
     "metadata": {
-      "channel_id": "1390754213125976064"
+      "channel_id": "1390754213125976064",
+      "genius_id": "1501229"
     },
     "news_updated": 1785969341628,
     "number": 49,
@@ -222096,7 +222105,8 @@
     "kalshi_id": null,
     "last_name": "Washington",
     "metadata": {
-      "channel_id": "1390849854812467200"
+      "channel_id": "1390849854812467200",
+      "genius_id": "1488428"
     },
     "news_updated": null,
     "number": 33,
@@ -222332,7 +222342,8 @@
     "kalshi_id": null,
     "last_name": "Taylor",
     "metadata": {
-      "channel_id": "1391831295155269632"
+      "channel_id": "1391831295155269632",
+      "genius_id": "1651765"
     },
     "news_updated": null,
     "number": null,
@@ -222391,7 +222402,8 @@
     "kalshi_id": null,
     "last_name": "Williams",
     "metadata": {
-      "channel_id": "1391836310364229632"
+      "channel_id": "1391836310364229632",
+      "genius_id": "1493124"
     },
     "news_updated": null,
     "number": null,
@@ -222558,7 +222570,7 @@
     "first_name": "Le'Veon",
     "full_name": "Le'Veon Bell",
     "gsis_id": "00-0030496",
-    "hashtag": "#leveonbell-NFL-TB-6",
+    "hashtag": "#leveonbell-NFL-FA-6",
     "height": "73",
     "high_school": "Groveport Madison (OH)",
     "injury_body_part": null,
@@ -222591,7 +222603,7 @@
     "stats_id": 543654,
     "status": "Active",
     "swish_id": 543654,
-    "team": "TB",
+    "team": null,
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "225",
@@ -274655,7 +274667,7 @@
       "injury_override_regular_2025_4": "Out",
       "rookie_year": "2014"
     },
-    "news_updated": 1786224632757,
+    "news_updated": 1786242014257,
     "number": 5,
     "oddsjam_id": "4CE26B1D3BB5",
     "opta_id": null,
@@ -335439,10 +335451,10 @@
     "hashtag": "#laremytunsil-NFL-WAS-78",
     "height": "77",
     "high_school": "Columbia (FL)",
-    "injury_body_part": "Shoulder",
+    "injury_body_part": "Triceps",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "8a15a86c-dbf7-4fa6-b779-8127427a71c8",
     "last_name": "Tunsil",
     "metadata": {
@@ -335450,7 +335462,7 @@
       "genius_id": "941262",
       "rookie_year": "2016"
     },
-    "news_updated": 1786229133190,
+    "news_updated": 1786235414594,
     "number": 78,
     "oddsjam_id": "DFA75C891C62",
     "opta_id": null,
@@ -455883,7 +455895,7 @@
   },
   "5008": {
     "active": true,
-    "age": 30,
+    "age": 31,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1995-08-09",
@@ -456578,7 +456590,7 @@
       "genius_id": "1011240",
       "rookie_year": "2018"
     },
-    "news_updated": 1764460550067,
+    "news_updated": 1786233015663,
     "number": 76,
     "oddsjam_id": "975323A39478",
     "opta_id": null,
@@ -465811,7 +465823,7 @@
   },
   "5158": {
     "active": true,
-    "age": 31,
+    "age": 32,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1994-08-09",
@@ -512672,7 +512684,7 @@
       "genius_id": "1013413",
       "rookie_year": "2019"
     },
-    "news_updated": 1785633347675,
+    "news_updated": 1786236313552,
     "number": 19,
     "oddsjam_id": "273E9A5C74E8",
     "opta_id": null,
@@ -515435,17 +515447,17 @@
     "hashtag": "#connormcgovern-NFL-BUF-66",
     "height": "78",
     "high_school": "Lake-Lehman (PA)",
-    "injury_body_part": null,
+    "injury_body_part": "Leg",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "543db9ef-b7b5-47ee-9c17-a695206bfd2e",
     "last_name": "McGovern",
     "metadata": {
       "channel_id": "1113708754181844992",
       "rookie_year": "2019"
     },
-    "news_updated": 1781619622467,
+    "news_updated": 1786237816694,
     "number": 66,
     "oddsjam_id": "716E83329EC9",
     "opta_id": null,
@@ -523803,10 +523815,10 @@
     "hashtag": "#tyjohnson-NFL-BUF-26",
     "height": "70",
     "high_school": "Fort Hill (MD)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "a2f1b838-3ddb-43f5-b1ff-aca7c57d9c5d",
     "last_name": "Johnson",
     "metadata": {
@@ -523814,7 +523826,7 @@
       "genius_id": "1008109",
       "rookie_year": "2019"
     },
-    "news_updated": 1785077110204,
+    "news_updated": 1786249222139,
     "number": 26,
     "oddsjam_id": "C315B63E625D",
     "opta_id": null,
@@ -532889,7 +532901,7 @@
   },
   "6177": {
     "active": true,
-    "age": 29,
+    "age": 30,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1996-08-09",
@@ -554386,6 +554398,7 @@
     "last_name": "Myarick",
     "metadata": {
       "channel_id": "1116853264759914496",
+      "genius_id": "1009801",
       "rookie_year": "2019"
     },
     "news_updated": 1785975342231,
@@ -577931,7 +577944,7 @@
   },
   "6889": {
     "active": true,
-    "age": 29,
+    "age": 30,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1996-08-09",
@@ -609717,7 +609730,7 @@
     "college": "William & Mary",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DL",
+    "depth_chart_position": "OL",
     "espn_id": 3912189,
     "fantasy_data_id": 22356,
     "fantasy_positions": [
@@ -624329,7 +624342,7 @@
     "birth_state": null,
     "college": "Oklahoma State",
     "competitions": [],
-    "depth_chart_order": 7,
+    "depth_chart_order": 8,
     "depth_chart_position": "RWR",
     "espn_id": null,
     "fantasy_data_id": 22604,
@@ -670503,7 +670516,7 @@
   },
   "8289": {
     "active": true,
-    "age": 25,
+    "age": 26,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2000-08-09",
@@ -706691,7 +706704,7 @@
     "college": "Missouri Western",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 23563,
     "fantasy_positions": [
