@@ -21,23 +21,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 637.1
-- championship_lineup_c_avi_avg: 79.64
-- offensive_roster_c_avi_sum: 795.8
-- offensive_roster_c_avi_avg: 72.35
-- offensive_roster_d_avi_sum: 920.8
-- offensive_roster_d_avi_avg: 83.71
+- championship_lineup_c_avi_sum: 111.7
+- championship_lineup_c_avi_avg: 55.85
+- offensive_roster_c_avi_sum: 111.7
+- offensive_roster_c_avi_avg: 10.15
+- offensive_roster_d_avi_sum: 164.1
+- offensive_roster_d_avi_avg: 14.92
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Drake Maye | C-AVI: 98.3 | D-AVI: 92.3
-- RB: Josh Jacobs | C-AVI: 87.9 | D-AVI: 88.7
-- RB: Travis Etienne | C-AVI: 80.8 | D-AVI: 89.4
-- WR: Tetairoa McMillan | C-AVI: 85.6 | D-AVI: 95.0
-- WR: Jaylen Waddle | C-AVI: 77.9 | D-AVI: 89.4
-- TE: Chig Okonkwo | C-AVI: 56.1 | D-AVI: 76.9
-- FLEX: Luther Burden | C-AVI: 77.7 | D-AVI: 90.9
-- FLEX: TreVeyon Henderson | C-AVI: 72.8 | D-AVI: 89.3
+- QB: Drake Maye | C-AVI: 80.2 | D-AVI: 88.5
+- RB: Josh Jacobs | C-AVI: 31.5 | D-AVI: 75.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,8 +47,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 98.3
-- Dynasty AVI (D-AVI, 0-100): 92.3
+- Championship AVI (C-AVI, 0-100): 80.2
+- Dynasty AVI (D-AVI, 0-100): 88.5
 - Projected PPR points: 326.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -70,11 +64,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 50.2
-- Dynasty AVI (D-AVI, 0-100): 68.1
-- Projected PPR points: 269.7
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Ben Roethlisberger
 - Player name: Ben Roethlisberger
@@ -104,8 +98,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 87.9
-- Dynasty AVI (D-AVI, 0-100): 88.7
+- Championship AVI (C-AVI, 0-100): 31.5
+- Dynasty AVI (D-AVI, 0-100): 75.6
 - Projected PPR points: 257.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -121,11 +115,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 80.8
-- Dynasty AVI (D-AVI, 0-100): 89.4
-- Projected PPR points: 232.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: TreVeyon Henderson
 - Player name: TreVeyon Henderson
@@ -138,62 +132,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 72.8
-- Dynasty AVI (D-AVI, 0-100): 89.3
-- Projected PPR points: 201.6
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Tetairoa McMillan
-- Player name: Tetairoa McMillan
-- Player ID: 12526
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CAR
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 85.6
-- Dynasty AVI (D-AVI, 0-100): 95.0
-- Projected PPR points: 227.9
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Jaylen Waddle
-- Player name: Jaylen Waddle
-- Player ID: 7526
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 77.9
-- Dynasty AVI (D-AVI, 0-100): 89.4
-- Projected PPR points: 209.7
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Luther Burden
-- Player name: Luther Burden
-- Player ID: 12519
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CHI
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 77.7
-- Dynasty AVI (D-AVI, 0-100): 90.9
-- Projected PPR points: 208.1
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Jayden Reed
 - Player name: Jayden Reed
@@ -206,11 +149,62 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 62.5
-- Dynasty AVI (D-AVI, 0-100): 80.1
-- Projected PPR points: 176.4
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: Jaylen Waddle
+- Player name: Jaylen Waddle
+- Player ID: 7526
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: DEN
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: Luther Burden
+- Player name: Luther Burden
+- Player ID: 12519
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CHI
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: Tetairoa McMillan
+- Player name: Tetairoa McMillan
+- Player ID: 12526
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Chig Okonkwo
 - Player name: Chig Okonkwo
@@ -223,11 +217,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 56.1
-- Dynasty AVI (D-AVI, 0-100): 76.9
-- Projected PPR points: 124.1
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Colby Parkinson
 - Player name: Colby Parkinson
@@ -240,11 +234,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 46.0
-- Dynasty AVI (D-AVI, 0-100): 60.7
-- Projected PPR points: 91.9
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Andy Borregales
 - Player name: Andy Borregales

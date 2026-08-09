@@ -12923,10 +12923,10 @@
     "hashtag": "#jayward-NFL-MIN-24",
     "height": "73",
     "high_school": "Colquitt County (GA)",
-    "injury_body_part": null,
+    "injury_body_part": "Concussion",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "f50adb9c-3910-4dd0-a659-d7f0874d4540",
     "last_name": "Ward",
     "metadata": {
@@ -12934,7 +12934,7 @@
       "genius_id": "1399214",
       "rookie_year": "2023"
     },
-    "news_updated": 1771045506279,
+    "news_updated": 1786315832358,
     "number": 24,
     "oddsjam_id": "37536FAAB53C",
     "opta_id": null,
@@ -572727,7 +572727,7 @@
       "genius_id": "1014930",
       "rookie_year": "2020"
     },
-    "news_updated": 1769031660090,
+    "news_updated": 1786318832737,
     "number": 28,
     "oddsjam_id": "6C4FACC11075",
     "opta_id": null,
@@ -678645,7 +678645,7 @@
       "injury_override_regular_2024_14": "IR",
       "rookie_year": "2022"
     },
-    "news_updated": 1786161924603,
+    "news_updated": 1786318232502,
     "number": 27,
     "oddsjam_id": "B42F0AA45128",
     "opta_id": null,
@@ -721303,7 +721303,7 @@
       "genius_id": "1398596",
       "rookie_year": "2023"
     },
-    "news_updated": 1785955839395,
+    "news_updated": 1786315832358,
     "number": 3,
     "oddsjam_id": "645BE77276B1",
     "opta_id": null,
