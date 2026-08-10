@@ -325,9 +325,7 @@
     "created": 1760456408807,
     "creator": "998253660243054592",
     "draft_picks": [],
-    "drops": {
-      "8117": 13
-    },
+    "drops": null,
     "leg": 6,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -915,9 +913,7 @@
     "created": 1760066508859,
     "creator": "1129546394534158336",
     "draft_picks": [],
-    "drops": {
-      "6130": 12
-    },
+    "drops": null,
     "leg": 6,
     "metadata": {
       "notes": "One of the players you are trying to drop has already started playing."

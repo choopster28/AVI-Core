@@ -175,9 +175,7 @@
     "created": 1758034017334,
     "creator": "736994691492519936",
     "draft_picks": [],
-    "drops": {
-      "11435": 8
-    },
+    "drops": null,
     "leg": 2,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -497,9 +495,7 @@
     "created": 1757511309788,
     "creator": "737531831641128960",
     "draft_picks": [],
-    "drops": {
-      "5086": 7
-    },
+    "drops": null,
     "leg": 2,
     "metadata": {
       "notes": "This player was claimed by another owner."

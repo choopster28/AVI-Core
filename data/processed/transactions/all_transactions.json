@@ -221,9 +221,7 @@
     "created": 1757429298327,
     "creator": "986498458162970624",
     "draft_picks": [],
-    "drops": {
-      "8129": 11
-    },
+    "drops": null,
     "leg": 1,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -386,9 +384,7 @@
     "created": 1757375479742,
     "creator": "308805697879937024",
     "draft_picks": [],
-    "drops": {
-      "167": 10
-    },
+    "drops": null,
     "leg": 1,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -419,9 +415,7 @@
     "created": 1757375452422,
     "creator": "308805697879937024",
     "draft_picks": [],
-    "drops": {
-      "11643": 10
-    },
+    "drops": null,
     "leg": 1,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -452,9 +446,7 @@
     "created": 1757368177898,
     "creator": "872351659366539264",
     "draft_picks": [],
-    "drops": {
-      "8311": 5
-    },
+    "drops": null,
     "leg": 1,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -518,9 +510,7 @@
     "created": 1757299115752,
     "creator": "1178861684281753600",
     "draft_picks": [],
-    "drops": {
-      "8355": 2
-    },
+    "drops": null,
     "leg": 1,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -584,9 +574,7 @@
     "created": 1757290433050,
     "creator": "737531831641128960",
     "draft_picks": [],
-    "drops": {
-      "12497": 7
-    },
+    "drops": null,
     "leg": 1,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -650,9 +638,7 @@
     "created": 1757279408806,
     "creator": "737531831641128960",
     "draft_picks": [],
-    "drops": {
-      "5086": 7
-    },
+    "drops": null,
     "leg": 1,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -808,9 +794,7 @@
     "created": 1756932040009,
     "creator": "737531831641128960",
     "draft_picks": [],
-    "drops": {
-      "5955": 7
-    },
+    "drops": null,
     "leg": 1,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -1448,9 +1432,7 @@
     "created": 1756206735524,
     "creator": "737531831641128960",
     "draft_picks": [],
-    "drops": {
-      "7562": 7
-    },
+    "drops": null,
     "leg": 1,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -1509,9 +1491,7 @@
     "created": 1756174258450,
     "creator": "986498458162970624",
     "draft_picks": [],
-    "drops": {
-      "12531": 11
-    },
+    "drops": null,
     "leg": 1,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -6373,9 +6353,7 @@
     "created": 1758034017334,
     "creator": "736994691492519936",
     "draft_picks": [],
-    "drops": {
-      "11435": 8
-    },
+    "drops": null,
     "leg": 2,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -6695,9 +6673,7 @@
     "created": 1757511309788,
     "creator": "737531831641128960",
     "draft_picks": [],
-    "drops": {
-      "5086": 7
-    },
+    "drops": null,
     "leg": 2,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -7708,9 +7684,7 @@
     "created": 1759289157059,
     "creator": "308805697879937024",
     "draft_picks": [],
-    "drops": {
-      "6788": 10
-    },
+    "drops": null,
     "leg": 4,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -7807,9 +7781,7 @@
     "created": 1759262703099,
     "creator": "737531831641128960",
     "draft_picks": [],
-    "drops": {
-      "12483": 7
-    },
+    "drops": null,
     "leg": 4,
     "metadata": {
       "notes": "Unfortunately, your roster will have too many players after this transaction."
@@ -7840,9 +7812,7 @@
     "created": 1759255439732,
     "creator": "308805697879937024",
     "draft_picks": [],
-    "drops": {
-      "7021": 10
-    },
+    "drops": null,
     "leg": 4,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -8190,9 +8160,7 @@
     "created": 1759120073569,
     "creator": "736993578450030592",
     "draft_picks": [],
-    "drops": {
-      "8123": 1
-    },
+    "drops": null,
     "leg": 4,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -8622,9 +8590,7 @@
     "created": 1758802793798,
     "creator": "737531831641128960",
     "draft_picks": [],
-    "drops": {
-      "4993": 7
-    },
+    "drops": null,
     "leg": 4,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -8980,9 +8946,7 @@
     "created": 1759808308918,
     "creator": "736992907139158016",
     "draft_picks": [],
-    "drops": {
-      "11630": 4
-    },
+    "drops": null,
     "leg": 5,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -9047,9 +9011,7 @@
     "created": 1759796871418,
     "creator": "986498458162970624",
     "draft_picks": [],
-    "drops": {
-      "9487": 11
-    },
+    "drops": null,
     "leg": 5,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -9534,9 +9496,7 @@
     "created": 1759341435430,
     "creator": "986498458162970624",
     "draft_picks": [],
-    "drops": {
-      "9482": 11
-    },
+    "drops": null,
     "leg": 5,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -10234,9 +10194,7 @@
     "created": 1760456408807,
     "creator": "998253660243054592",
     "draft_picks": [],
-    "drops": {
-      "8117": 13
-    },
+    "drops": null,
     "leg": 6,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -10824,9 +10782,7 @@
     "created": 1760066508859,
     "creator": "1129546394534158336",
     "draft_picks": [],
-    "drops": {
-      "6130": 12
-    },
+    "drops": null,
     "leg": 6,
     "metadata": {
       "notes": "One of the players you are trying to drop has already started playing."
@@ -11377,9 +11333,7 @@
     "created": 1761075283033,
     "creator": "986498458162970624",
     "draft_picks": [],
-    "drops": {
-      "5938": 11
-    },
+    "drops": null,
     "leg": 7,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -12025,9 +11979,7 @@
     "created": 1760576170457,
     "creator": "736993578450030592",
     "draft_picks": [],
-    "drops": {
-      "1373": 1
-    },
+    "drops": null,
     "leg": 7,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -12486,9 +12438,7 @@
     "created": 1760528772787,
     "creator": "872509429436829696",
     "draft_picks": [],
-    "drops": {
-      "5840": 6
-    },
+    "drops": null,
     "leg": 7,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -12728,9 +12678,7 @@
     "created": 1761706606655,
     "creator": "587319065165475840",
     "draft_picks": [],
-    "drops": {
-      "7670": 16
-    },
+    "drops": null,
     "leg": 8,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -12854,9 +12802,7 @@
     "created": 1761663763205,
     "creator": "736993578450030592",
     "draft_picks": [],
-    "drops": {
-      "8123": 1
-    },
+    "drops": null,
     "leg": 8,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -13815,9 +13761,7 @@
     "created": 1761184941727,
     "creator": "986498458162970624",
     "draft_picks": [],
-    "drops": {
-      "6119": 11
-    },
+    "drops": null,
     "leg": 8,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -14225,9 +14169,7 @@
     "created": 1762305429555,
     "creator": "986498458162970624",
     "draft_picks": [],
-    "drops": {
-      "7687": 11
-    },
+    "drops": null,
     "leg": 9,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -14315,9 +14257,7 @@
     "created": 1762289169153,
     "creator": "1129546394534158336",
     "draft_picks": [],
-    "drops": {
-      "7694": 12
-    },
+    "drops": null,
     "leg": 9,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -14447,9 +14387,7 @@
     "created": 1762266379920,
     "creator": "737531831641128960",
     "draft_picks": [],
-    "drops": {
-      "7587": 7
-    },
+    "drops": null,
     "leg": 9,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -14546,9 +14484,7 @@
     "created": 1762181494689,
     "creator": "872509429436829696",
     "draft_picks": [],
-    "drops": {
-      "12503": 6
-    },
+    "drops": null,
     "leg": 9,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -14635,9 +14571,7 @@
     "created": 1761944664606,
     "creator": "863881053000011776",
     "draft_picks": [],
-    "drops": {
-      "5995": 9
-    },
+    "drops": null,
     "leg": 9,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -15876,9 +15810,7 @@
     "created": 1763503253356,
     "creator": "737531831641128960",
     "draft_picks": [],
-    "drops": {
-      "12412": 7
-    },
+    "drops": null,
     "leg": 11,
     "metadata": {
       "notes": "Unfortunately, your roster will have too many players after this transaction."
@@ -16552,9 +16484,7 @@
     "created": 1764105530363,
     "creator": "990097041671892992",
     "draft_picks": [],
-    "drops": {
-      "12533": 15
-    },
+    "drops": null,
     "leg": 12,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -17324,9 +17254,7 @@
     "created": 1764712437926,
     "creator": "986498458162970624",
     "draft_picks": [],
-    "drops": {
-      "10226": 11
-    },
+    "drops": null,
     "leg": 13,
     "metadata": {
       "notes": "This player was claimed by another owner."
@@ -17820,9 +17748,7 @@
     "created": 1765231671737,
     "creator": "872509429436829696",
     "draft_picks": [],
-    "drops": {
-      "5001": 6
-    },
+    "drops": null,
     "leg": 14,
     "metadata": {
       "notes": "This player was claimed by another owner."
