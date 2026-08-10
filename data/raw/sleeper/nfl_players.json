@@ -223796,7 +223796,7 @@
       "genius_id": "757942",
       "rookie_year": "2013"
     },
-    "news_updated": 1785962742998,
+    "news_updated": 1786391743427,
     "number": 10,
     "oddsjam_id": "2ACD5EEFE2DD",
     "opta_id": null,
@@ -392286,7 +392286,7 @@
       "injury_override_regular_2024_14": "IR",
       "rookie_year": "2017"
     },
-    "news_updated": 1786389943992,
+    "news_updated": 1786392343258,
     "number": 23,
     "oddsjam_id": "431D7E287938",
     "opta_id": null,
@@ -405457,7 +405457,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "5f31b335-3c65-4131-801a-8ad7a0f4a8a8",
     "last_name": "Gonzalez",
     "metadata": {
@@ -629872,7 +629872,7 @@
       "genius_id": "1014403",
       "rookie_year": "2021"
     },
-    "news_updated": 1783701620192,
+    "news_updated": 1786391744268,
     "number": 0,
     "oddsjam_id": "8EFF41628803",
     "opta_id": null,
@@ -662805,10 +662805,10 @@
     "hashtag": "#gregdulcich-NFL-MIA-85",
     "height": "76",
     "high_school": "Saint Francis (CA)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "c9e3f50a-05cd-4fdf-808f-7ca24f6bd255",
     "last_name": "Dulcich",
     "metadata": {
@@ -662816,7 +662816,7 @@
       "genius_id": "1079062",
       "rookie_year": "2022"
     },
-    "news_updated": 1786038949892,
+    "news_updated": 1786392344246,
     "number": 85,
     "oddsjam_id": "F32809D9AC66",
     "opta_id": null,
@@ -718449,10 +718449,10 @@
     "hashtag": "#jalinhyatt-NFL-NYG-13",
     "height": "72",
     "high_school": "Dutch Fork (SC)",
-    "injury_body_part": null,
+    "injury_body_part": "Ankle",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "e689f7b5-fd29-4516-9db7-c1e37fc7f085",
     "last_name": "Hyatt",
     "metadata": {
@@ -719486,7 +719486,7 @@
       "genius_id": "1400569",
       "rookie_year": "2023"
     },
-    "news_updated": 1785860118655,
+    "news_updated": 1786391444212,
     "number": 34,
     "oddsjam_id": "5222B174E30D",
     "opta_id": null,
