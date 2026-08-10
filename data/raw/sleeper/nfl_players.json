@@ -18848,7 +18848,7 @@
     "college": "Houston",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 24430,
     "fantasy_positions": [
@@ -32224,9 +32224,9 @@
     "college": "East Carolina",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "SWR",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 24823,
     "fantasy_positions": [
       "WR"
     ],
@@ -97934,7 +97934,7 @@
     "depth_chart_order": null,
     "depth_chart_position": "TE",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 25662,
     "fantasy_positions": [
       "TE"
     ],
@@ -119320,7 +119320,7 @@
     "depth_chart_order": null,
     "depth_chart_position": "DB",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 25210,
     "fantasy_positions": [
       "DB"
     ],
@@ -198251,7 +198251,7 @@
     "college": "Tulane",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 28326,
     "fantasy_positions": [
@@ -204808,7 +204808,7 @@
     "college": "Missouri",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 28433,
     "fantasy_positions": [
@@ -222445,7 +222445,7 @@
     "depth_chart_order": null,
     "depth_chart_position": null,
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 28652,
     "fantasy_positions": [
       "RB"
     ],
@@ -222563,7 +222563,7 @@
     "depth_chart_order": null,
     "depth_chart_position": null,
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 28654,
     "fantasy_positions": [
       "DB"
     ],
@@ -632579,9 +632579,9 @@
     "college": "Texas Tech",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 22907,
     "fantasy_positions": [
       "DB"
     ],
@@ -668941,7 +668941,7 @@
     "college": "Arizona State",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 23560,
     "fantasy_positions": [
