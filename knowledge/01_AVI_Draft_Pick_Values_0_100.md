@@ -1,4169 +1,7689 @@
 # AVI DRAFT PICK VALUES
 
-Retrieval purpose: official draft-pick AVI values for active future draft capital.
+Retrieval purpose: official AVI values and verified ownership for active future draft capital.
 
-- Active draft capital begins with 2027. Original teams and current owners remain TBD until that season's draft order is established.
-- Pick AVI resets to 95.0 at 1.01 for each draft year.
-- Every subsequent pick depreciates by 1.2.
-- Draft-pick AVI is floored at 0.0.
-- Rounds above the configured 10-round league depth are excluded.
+- Active draft capital begins with 2027.
+- Every franchise natively owns its own future pick unless Sleeper traded_picks assigns it elsewhere.
+- Current ownership is rebuilt directly from the latest Sleeper traded_picks export.
+- Future draft order is not assigned; slot remains TBD and AVI uses the round-average value.
+- League draft depth is 20 rounds.
 
-## PICK: 2027 1.01 | 2027_01_01
-- Pick label: 2027 1.01
+## PICK: 2027 Round 1 (Conquistadors) | 2027_01_orig1
 - Season: 2027
 - Round: 1
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 91.0
-- AVI category: Elite Franchise Asset
-- Validation status: future_order_tbd
-
-## PICK: 2027 1.02 | 2027_01_02
-- Pick label: 2027 1.02
-- Season: 2027
-- Round: 1
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 89.8
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2027 1.03 | 2027_01_03
-- Pick label: 2027 1.03
-- Season: 2027
-- Round: 1
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 88.6
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2027 1.04 | 2027_01_04
-- Pick label: 2027 1.04
-- Season: 2027
-- Round: 1
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 87.4
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2027 1.05 | 2027_01_05
-- Pick label: 2027 1.05
-- Season: 2027
-- Round: 1
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 85.7
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2027 1.06 | 2027_01_06
-- Pick label: 2027 1.06
-- Season: 2027
-- Round: 1
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 84.0
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2027 1.07 | 2027_01_07
-- Pick label: 2027 1.07
-- Season: 2027
-- Round: 1
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 82.3
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2027 1.08 | 2027_01_08
-- Pick label: 2027 1.08
-- Season: 2027
-- Round: 1
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 80.6
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2027 1.09 | 2027_01_09
-- Pick label: 2027 1.09
-- Season: 2027
-- Round: 1
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 78.9
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2027 1.10 | 2027_01_10
-- Pick label: 2027 1.10
+## PICK: 2027 Round 1 (Rapid Valley Annihilation) | 2027_01_orig2
 - Season: 2027
 - Round: 1
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 77.2
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2027 1.11 | 2027_01_11
-- Pick label: 2027 1.11
+## PICK: 2027 Round 1 (Ravens Regime) | 2027_01_orig3
 - Season: 2027
 - Round: 1
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 75.5
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2027 1.12 | 2027_01_12
-- Pick label: 2027 1.12
+## PICK: 2027 Round 1 (Mile High Royal Lions) | 2027_01_orig4
 - Season: 2027
 - Round: 1
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 73.5
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2027 1.13 | 2027_01_13
-- Pick label: 2027 1.13
+## PICK: 2027 Round 1 (Northside Kings) | 2027_01_orig5
 - Season: 2027
 - Round: 1
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 71.5
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2027 1.14 | 2027_01_14
-- Pick label: 2027 1.14
+## PICK: 2027 Round 1 (Lightskin Legends ✊🏽) | 2027_01_orig6
 - Season: 2027
 - Round: 1
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 69.5
-- AVI category: Useful Starter / High-Value Depth
-- Validation status: future_order_tbd
-
-## PICK: 2027 1.15 | 2027_01_15
-- Pick label: 2027 1.15
-- Season: 2027
-- Round: 1
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 67.5
-- AVI category: Useful Starter / High-Value Depth
-- Validation status: future_order_tbd
-
-## PICK: 2027 1.16 | 2027_01_16
-- Pick label: 2027 1.16
-- Season: 2027
-- Round: 1
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 65.5
-- AVI category: Useful Starter / High-Value Depth
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.01 | 2027_02_01
-- Pick label: 2027 2.01
-- Season: 2027
-- Round: 2
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 63.5
-- AVI category: Useful Starter / High-Value Depth
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.02 | 2027_02_02
-- Pick label: 2027 2.02
-- Season: 2027
-- Round: 2
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 61.5
-- AVI category: Useful Starter / High-Value Depth
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.03 | 2027_02_03
-- Pick label: 2027 2.03
-- Season: 2027
-- Round: 2
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 59.5
-- AVI category: Useful Starter / High-Value Depth
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.04 | 2027_02_04
-- Pick label: 2027 2.04
-- Season: 2027
-- Round: 2
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 57.5
-- AVI category: Useful Starter / High-Value Depth
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.05 | 2027_02_05
-- Pick label: 2027 2.05
-- Season: 2027
-- Round: 2
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 55.5
-- AVI category: Useful Starter / High-Value Depth
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.06 | 2027_02_06
-- Pick label: 2027 2.06
-- Season: 2027
-- Round: 2
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 53.5
-- AVI category: Useful Starter / High-Value Depth
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.07 | 2027_02_07
-- Pick label: 2027 2.07
-- Season: 2027
-- Round: 2
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 51.5
-- AVI category: Useful Starter / High-Value Depth
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.08 | 2027_02_08
-- Pick label: 2027 2.08
-- Season: 2027
-- Round: 2
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 49.5
-- AVI category: Rosterable Depth / Upside Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.09 | 2027_02_09
-- Pick label: 2027 2.09
-- Season: 2027
-- Round: 2
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 47.5
-- AVI category: Rosterable Depth / Upside Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.10 | 2027_02_10
-- Pick label: 2027 2.10
-- Season: 2027
-- Round: 2
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 45.5
-- AVI category: Rosterable Depth / Upside Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.11 | 2027_02_11
-- Pick label: 2027 2.11
-- Season: 2027
-- Round: 2
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 43.5
-- AVI category: Rosterable Depth / Upside Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.12 | 2027_02_12
-- Pick label: 2027 2.12
-- Season: 2027
-- Round: 2
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 41.5
-- AVI category: Rosterable Depth / Upside Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.13 | 2027_02_13
-- Pick label: 2027 2.13
-- Season: 2027
-- Round: 2
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 39.5
-- AVI category: Rosterable Depth / Upside Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.14 | 2027_02_14
-- Pick label: 2027 2.14
-- Season: 2027
-- Round: 2
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 37.5
-- AVI category: Rosterable Depth / Upside Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.15 | 2027_02_15
-- Pick label: 2027 2.15
-- Season: 2027
-- Round: 2
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 35.5
-- AVI category: Rosterable Depth / Upside Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 2.16 | 2027_02_16
-- Pick label: 2027 2.16
-- Season: 2027
-- Round: 2
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 33.5
-- AVI category: Speculative Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.01 | 2027_03_01
-- Pick label: 2027 3.01
-- Season: 2027
-- Round: 3
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 31.5
-- AVI category: Speculative Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.02 | 2027_03_02
-- Pick label: 2027 3.02
-- Season: 2027
-- Round: 3
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 29.5
-- AVI category: Speculative Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.03 | 2027_03_03
-- Pick label: 2027 3.03
-- Season: 2027
-- Round: 3
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 27.5
-- AVI category: Speculative Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.04 | 2027_03_04
-- Pick label: 2027 3.04
-- Season: 2027
-- Round: 3
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 25.5
-- AVI category: Speculative Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.05 | 2027_03_05
-- Pick label: 2027 3.05
-- Season: 2027
-- Round: 3
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 23.5
-- AVI category: Speculative Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.06 | 2027_03_06
-- Pick label: 2027 3.06
-- Season: 2027
-- Round: 3
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 21.5
-- AVI category: Speculative Stash
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.07 | 2027_03_07
-- Pick label: 2027 3.07
-- Season: 2027
-- Round: 3
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 19.5
-- AVI category: Replacement / Watch List
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.08 | 2027_03_08
-- Pick label: 2027 3.08
-- Season: 2027
-- Round: 3
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 17.5
-- AVI category: Replacement / Watch List
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.09 | 2027_03_09
-- Pick label: 2027 3.09
-- Season: 2027
-- Round: 3
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 15.5
-- AVI category: Replacement / Watch List
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.10 | 2027_03_10
-- Pick label: 2027 3.10
-- Season: 2027
-- Round: 3
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 13.5
-- AVI category: Replacement / Watch List
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.11 | 2027_03_11
-- Pick label: 2027 3.11
-- Season: 2027
-- Round: 3
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 11.5
-- AVI category: Replacement / Watch List
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.12 | 2027_03_12
-- Pick label: 2027 3.12
-- Season: 2027
-- Round: 3
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 9.5
-- AVI category: Replacement / Watch List
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.13 | 2027_03_13
-- Pick label: 2027 3.13
-- Season: 2027
-- Round: 3
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 7.5
-- AVI category: Replacement / Watch List
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.14 | 2027_03_14
-- Pick label: 2027 3.14
-- Season: 2027
-- Round: 3
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 5.5
-- AVI category: Replacement / Watch List
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.15 | 2027_03_15
-- Pick label: 2027 3.15
-- Season: 2027
-- Round: 3
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 3.5
-- AVI category: Replacement / Watch List
-- Validation status: future_order_tbd
-
-## PICK: 2027 3.16 | 2027_03_16
-- Pick label: 2027 3.16
-- Season: 2027
-- Round: 3
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 1.5
-- AVI category: Replacement / Watch List
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.01 | 2027_04_01
-- Pick label: 2027 4.01
-- Season: 2027
-- Round: 4
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.02 | 2027_04_02
-- Pick label: 2027 4.02
-- Season: 2027
-- Round: 4
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.03 | 2027_04_03
-- Pick label: 2027 4.03
-- Season: 2027
-- Round: 4
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.04 | 2027_04_04
-- Pick label: 2027 4.04
-- Season: 2027
-- Round: 4
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.05 | 2027_04_05
-- Pick label: 2027 4.05
-- Season: 2027
-- Round: 4
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.06 | 2027_04_06
-- Pick label: 2027 4.06
-- Season: 2027
-- Round: 4
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.07 | 2027_04_07
-- Pick label: 2027 4.07
-- Season: 2027
-- Round: 4
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.08 | 2027_04_08
-- Pick label: 2027 4.08
-- Season: 2027
-- Round: 4
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.09 | 2027_04_09
-- Pick label: 2027 4.09
-- Season: 2027
-- Round: 4
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.10 | 2027_04_10
-- Pick label: 2027 4.10
-- Season: 2027
-- Round: 4
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.11 | 2027_04_11
-- Pick label: 2027 4.11
-- Season: 2027
-- Round: 4
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.12 | 2027_04_12
-- Pick label: 2027 4.12
-- Season: 2027
-- Round: 4
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.13 | 2027_04_13
-- Pick label: 2027 4.13
-- Season: 2027
-- Round: 4
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.14 | 2027_04_14
-- Pick label: 2027 4.14
-- Season: 2027
-- Round: 4
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.15 | 2027_04_15
-- Pick label: 2027 4.15
-- Season: 2027
-- Round: 4
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 4.16 | 2027_04_16
-- Pick label: 2027 4.16
-- Season: 2027
-- Round: 4
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.01 | 2027_05_01
-- Pick label: 2027 5.01
-- Season: 2027
-- Round: 5
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.02 | 2027_05_02
-- Pick label: 2027 5.02
-- Season: 2027
-- Round: 5
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.03 | 2027_05_03
-- Pick label: 2027 5.03
-- Season: 2027
-- Round: 5
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.04 | 2027_05_04
-- Pick label: 2027 5.04
-- Season: 2027
-- Round: 5
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.05 | 2027_05_05
-- Pick label: 2027 5.05
-- Season: 2027
-- Round: 5
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.06 | 2027_05_06
-- Pick label: 2027 5.06
-- Season: 2027
-- Round: 5
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.07 | 2027_05_07
-- Pick label: 2027 5.07
-- Season: 2027
-- Round: 5
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.08 | 2027_05_08
-- Pick label: 2027 5.08
-- Season: 2027
-- Round: 5
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.09 | 2027_05_09
-- Pick label: 2027 5.09
-- Season: 2027
-- Round: 5
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.10 | 2027_05_10
-- Pick label: 2027 5.10
-- Season: 2027
-- Round: 5
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.11 | 2027_05_11
-- Pick label: 2027 5.11
-- Season: 2027
-- Round: 5
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.12 | 2027_05_12
-- Pick label: 2027 5.12
-- Season: 2027
-- Round: 5
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.13 | 2027_05_13
-- Pick label: 2027 5.13
-- Season: 2027
-- Round: 5
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.14 | 2027_05_14
-- Pick label: 2027 5.14
-- Season: 2027
-- Round: 5
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.15 | 2027_05_15
-- Pick label: 2027 5.15
-- Season: 2027
-- Round: 5
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 5.16 | 2027_05_16
-- Pick label: 2027 5.16
-- Season: 2027
-- Round: 5
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.01 | 2027_06_01
-- Pick label: 2027 6.01
-- Season: 2027
-- Round: 6
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.02 | 2027_06_02
-- Pick label: 2027 6.02
-- Season: 2027
-- Round: 6
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.03 | 2027_06_03
-- Pick label: 2027 6.03
-- Season: 2027
-- Round: 6
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.04 | 2027_06_04
-- Pick label: 2027 6.04
-- Season: 2027
-- Round: 6
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.05 | 2027_06_05
-- Pick label: 2027 6.05
-- Season: 2027
-- Round: 6
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.06 | 2027_06_06
-- Pick label: 2027 6.06
-- Season: 2027
-- Round: 6
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.07 | 2027_06_07
-- Pick label: 2027 6.07
-- Season: 2027
-- Round: 6
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.08 | 2027_06_08
-- Pick label: 2027 6.08
-- Season: 2027
-- Round: 6
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.09 | 2027_06_09
-- Pick label: 2027 6.09
-- Season: 2027
-- Round: 6
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.10 | 2027_06_10
-- Pick label: 2027 6.10
-- Season: 2027
-- Round: 6
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.11 | 2027_06_11
-- Pick label: 2027 6.11
-- Season: 2027
-- Round: 6
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.12 | 2027_06_12
-- Pick label: 2027 6.12
-- Season: 2027
-- Round: 6
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.13 | 2027_06_13
-- Pick label: 2027 6.13
-- Season: 2027
-- Round: 6
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.14 | 2027_06_14
-- Pick label: 2027 6.14
-- Season: 2027
-- Round: 6
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.15 | 2027_06_15
-- Pick label: 2027 6.15
-- Season: 2027
-- Round: 6
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 6.16 | 2027_06_16
-- Pick label: 2027 6.16
-- Season: 2027
-- Round: 6
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.01 | 2027_07_01
-- Pick label: 2027 7.01
-- Season: 2027
-- Round: 7
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.02 | 2027_07_02
-- Pick label: 2027 7.02
-- Season: 2027
-- Round: 7
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.03 | 2027_07_03
-- Pick label: 2027 7.03
-- Season: 2027
-- Round: 7
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.04 | 2027_07_04
-- Pick label: 2027 7.04
-- Season: 2027
-- Round: 7
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.05 | 2027_07_05
-- Pick label: 2027 7.05
-- Season: 2027
-- Round: 7
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.06 | 2027_07_06
-- Pick label: 2027 7.06
-- Season: 2027
-- Round: 7
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.07 | 2027_07_07
-- Pick label: 2027 7.07
-- Season: 2027
-- Round: 7
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.08 | 2027_07_08
-- Pick label: 2027 7.08
-- Season: 2027
-- Round: 7
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.09 | 2027_07_09
-- Pick label: 2027 7.09
-- Season: 2027
-- Round: 7
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.10 | 2027_07_10
-- Pick label: 2027 7.10
-- Season: 2027
-- Round: 7
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.11 | 2027_07_11
-- Pick label: 2027 7.11
-- Season: 2027
-- Round: 7
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.12 | 2027_07_12
-- Pick label: 2027 7.12
-- Season: 2027
-- Round: 7
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.13 | 2027_07_13
-- Pick label: 2027 7.13
-- Season: 2027
-- Round: 7
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.14 | 2027_07_14
-- Pick label: 2027 7.14
-- Season: 2027
-- Round: 7
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.15 | 2027_07_15
-- Pick label: 2027 7.15
-- Season: 2027
-- Round: 7
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 7.16 | 2027_07_16
-- Pick label: 2027 7.16
-- Season: 2027
-- Round: 7
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.01 | 2027_08_01
-- Pick label: 2027 8.01
-- Season: 2027
-- Round: 8
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.02 | 2027_08_02
-- Pick label: 2027 8.02
-- Season: 2027
-- Round: 8
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.03 | 2027_08_03
-- Pick label: 2027 8.03
-- Season: 2027
-- Round: 8
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.04 | 2027_08_04
-- Pick label: 2027 8.04
-- Season: 2027
-- Round: 8
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.05 | 2027_08_05
-- Pick label: 2027 8.05
-- Season: 2027
-- Round: 8
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.06 | 2027_08_06
-- Pick label: 2027 8.06
-- Season: 2027
-- Round: 8
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.07 | 2027_08_07
-- Pick label: 2027 8.07
-- Season: 2027
-- Round: 8
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.08 | 2027_08_08
-- Pick label: 2027 8.08
-- Season: 2027
-- Round: 8
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.09 | 2027_08_09
-- Pick label: 2027 8.09
-- Season: 2027
-- Round: 8
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.10 | 2027_08_10
-- Pick label: 2027 8.10
-- Season: 2027
-- Round: 8
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.11 | 2027_08_11
-- Pick label: 2027 8.11
-- Season: 2027
-- Round: 8
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.12 | 2027_08_12
-- Pick label: 2027 8.12
-- Season: 2027
-- Round: 8
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.13 | 2027_08_13
-- Pick label: 2027 8.13
-- Season: 2027
-- Round: 8
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.14 | 2027_08_14
-- Pick label: 2027 8.14
-- Season: 2027
-- Round: 8
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.15 | 2027_08_15
-- Pick label: 2027 8.15
-- Season: 2027
-- Round: 8
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 8.16 | 2027_08_16
-- Pick label: 2027 8.16
-- Season: 2027
-- Round: 8
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.01 | 2027_09_01
-- Pick label: 2027 9.01
-- Season: 2027
-- Round: 9
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.02 | 2027_09_02
-- Pick label: 2027 9.02
-- Season: 2027
-- Round: 9
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.03 | 2027_09_03
-- Pick label: 2027 9.03
-- Season: 2027
-- Round: 9
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.04 | 2027_09_04
-- Pick label: 2027 9.04
-- Season: 2027
-- Round: 9
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.05 | 2027_09_05
-- Pick label: 2027 9.05
-- Season: 2027
-- Round: 9
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.06 | 2027_09_06
-- Pick label: 2027 9.06
-- Season: 2027
-- Round: 9
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.07 | 2027_09_07
-- Pick label: 2027 9.07
-- Season: 2027
-- Round: 9
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.08 | 2027_09_08
-- Pick label: 2027 9.08
-- Season: 2027
-- Round: 9
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.09 | 2027_09_09
-- Pick label: 2027 9.09
-- Season: 2027
-- Round: 9
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.10 | 2027_09_10
-- Pick label: 2027 9.10
-- Season: 2027
-- Round: 9
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.11 | 2027_09_11
-- Pick label: 2027 9.11
-- Season: 2027
-- Round: 9
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.12 | 2027_09_12
-- Pick label: 2027 9.12
-- Season: 2027
-- Round: 9
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.13 | 2027_09_13
-- Pick label: 2027 9.13
-- Season: 2027
-- Round: 9
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.14 | 2027_09_14
-- Pick label: 2027 9.14
-- Season: 2027
-- Round: 9
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.15 | 2027_09_15
-- Pick label: 2027 9.15
-- Season: 2027
-- Round: 9
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 9.16 | 2027_09_16
-- Pick label: 2027 9.16
-- Season: 2027
-- Round: 9
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.01 | 2027_10_01
-- Pick label: 2027 10.01
-- Season: 2027
-- Round: 10
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.02 | 2027_10_02
-- Pick label: 2027 10.02
-- Season: 2027
-- Round: 10
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.03 | 2027_10_03
-- Pick label: 2027 10.03
-- Season: 2027
-- Round: 10
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.04 | 2027_10_04
-- Pick label: 2027 10.04
-- Season: 2027
-- Round: 10
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.05 | 2027_10_05
-- Pick label: 2027 10.05
-- Season: 2027
-- Round: 10
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.06 | 2027_10_06
-- Pick label: 2027 10.06
-- Season: 2027
-- Round: 10
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.07 | 2027_10_07
-- Pick label: 2027 10.07
-- Season: 2027
-- Round: 10
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.08 | 2027_10_08
-- Pick label: 2027 10.08
-- Season: 2027
-- Round: 10
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.09 | 2027_10_09
-- Pick label: 2027 10.09
-- Season: 2027
-- Round: 10
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.10 | 2027_10_10
-- Pick label: 2027 10.10
-- Season: 2027
-- Round: 10
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.11 | 2027_10_11
-- Pick label: 2027 10.11
-- Season: 2027
-- Round: 10
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.12 | 2027_10_12
-- Pick label: 2027 10.12
-- Season: 2027
-- Round: 10
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.13 | 2027_10_13
-- Pick label: 2027 10.13
-- Season: 2027
-- Round: 10
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.14 | 2027_10_14
-- Pick label: 2027 10.14
-- Season: 2027
-- Round: 10
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.15 | 2027_10_15
-- Pick label: 2027 10.15
-- Season: 2027
-- Round: 10
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2027 10.16 | 2027_10_16
-- Pick label: 2027 10.16
-- Season: 2027
-- Round: 10
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 0.0
-- AVI category: No Current AVI
-- Validation status: future_order_tbd
-
-## PICK: 2028 1.01 | 2028_01_01
-- Pick label: 2028 1.01
-- Season: 2028
-- Round: 1
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 91.0
-- AVI category: Elite Franchise Asset
-- Validation status: future_order_tbd
-
-## PICK: 2028 1.02 | 2028_01_02
-- Pick label: 2028 1.02
-- Season: 2028
-- Round: 1
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 89.8
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2028 1.03 | 2028_01_03
-- Pick label: 2028 1.03
-- Season: 2028
-- Round: 1
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 88.6
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2028 1.04 | 2028_01_04
-- Pick label: 2028 1.04
-- Season: 2028
-- Round: 1
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 87.4
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2028 1.05 | 2028_01_05
-- Pick label: 2028 1.05
-- Season: 2028
-- Round: 1
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 85.7
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2028 1.06 | 2028_01_06
-- Pick label: 2028 1.06
-- Season: 2028
-- Round: 1
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 84.0
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2028 1.07 | 2028_01_07
-- Pick label: 2028 1.07
-- Season: 2028
-- Round: 1
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 82.3
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2028 1.08 | 2028_01_08
-- Pick label: 2028 1.08
-- Season: 2028
-- Round: 1
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 80.6
-- AVI category: Blue-Chip Starter
-- Validation status: future_order_tbd
-
-## PICK: 2028 1.09 | 2028_01_09
-- Pick label: 2028 1.09
-- Season: 2028
-- Round: 1
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 78.9
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 1.10 | 2028_01_10
-- Pick label: 2028 1.10
-- Season: 2028
+## PICK: 2027 Round 1 (Badland Banditos) | 2027_01_orig7
+- Season: 2027
 - Round: 1
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 77.2
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 1.11 | 2028_01_11
-- Pick label: 2028 1.11
-- Season: 2028
+## PICK: 2027 Round 1 (All Hail King Jesus) | 2027_01_orig8
+- Season: 2027
 - Round: 1
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 75.5
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 1.12 | 2028_01_12
-- Pick label: 2028 1.12
-- Season: 2028
+## PICK: 2027 Round 1 (Big Balder Brand) | 2027_01_orig9
+- Season: 2027
 - Round: 1
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 73.5
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 1.13 | 2028_01_13
-- Pick label: 2028 1.13
-- Season: 2028
+## PICK: 2027 Round 1 (SmokyValleyWheatWarriors) | 2027_01_orig10
+- Season: 2027
 - Round: 1
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 71.5
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 1.14 | 2028_01_14
-- Pick label: 2028 1.14
+## PICK: 2027 Round 1 (Corgi Loaf Baking Co.) | 2027_01_orig11
+- Season: 2027
+- Round: 1
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 1 (DMV Fantasy) | 2027_01_orig12
+- Season: 2027
+- Round: 1
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 1 (Southside Savages) | 2027_01_orig13
+- Season: 2027
+- Round: 1
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 1 (Phalhala or Bust) | 2027_01_orig14
+- Season: 2027
+- Round: 1
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 1 (Gringo’s Goblins) | 2027_01_orig15
+- Season: 2027
+- Round: 1
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 1 (Crimson Tide Pods) | 2027_01_orig16
+- Season: 2027
+- Round: 1
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Conquistadors) | 2027_02_orig1
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Rapid Valley Annihilation) | 2027_02_orig2
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Ravens Regime) | 2027_02_orig3
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Mile High Royal Lions) | 2027_02_orig4
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Northside Kings) | 2027_02_orig5
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Lightskin Legends ✊🏽) | 2027_02_orig6
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Badland Banditos) | 2027_02_orig7
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (All Hail King Jesus) | 2027_02_orig8
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Big Balder Brand) | 2027_02_orig9
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (SmokyValleyWheatWarriors) | 2027_02_orig10
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Corgi Loaf Baking Co.) | 2027_02_orig11
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (DMV Fantasy) | 2027_02_orig12
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Southside Savages) | 2027_02_orig13
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Phalhala or Bust) | 2027_02_orig14
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Gringo’s Goblins) | 2027_02_orig15
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 2 (Crimson Tide Pods) | 2027_02_orig16
+- Season: 2027
+- Round: 2
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Conquistadors) | 2027_03_orig1
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Rapid Valley Annihilation) | 2027_03_orig2
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Ravens Regime) | 2027_03_orig3
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Mile High Royal Lions) | 2027_03_orig4
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Northside Kings) | 2027_03_orig5
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Lightskin Legends ✊🏽) | 2027_03_orig6
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Badland Banditos) | 2027_03_orig7
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (All Hail King Jesus) | 2027_03_orig8
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Big Balder Brand) | 2027_03_orig9
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (SmokyValleyWheatWarriors) | 2027_03_orig10
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Corgi Loaf Baking Co.) | 2027_03_orig11
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (DMV Fantasy) | 2027_03_orig12
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Southside Savages) | 2027_03_orig13
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Phalhala or Bust) | 2027_03_orig14
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Gringo’s Goblins) | 2027_03_orig15
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 3 (Crimson Tide Pods) | 2027_03_orig16
+- Season: 2027
+- Round: 3
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Conquistadors) | 2027_04_orig1
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Rapid Valley Annihilation) | 2027_04_orig2
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Ravens Regime) | 2027_04_orig3
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Mile High Royal Lions) | 2027_04_orig4
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Northside Kings) | 2027_04_orig5
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Lightskin Legends ✊🏽) | 2027_04_orig6
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Badland Banditos) | 2027_04_orig7
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (All Hail King Jesus) | 2027_04_orig8
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Big Balder Brand) | 2027_04_orig9
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (SmokyValleyWheatWarriors) | 2027_04_orig10
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Corgi Loaf Baking Co.) | 2027_04_orig11
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (DMV Fantasy) | 2027_04_orig12
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Southside Savages) | 2027_04_orig13
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Phalhala or Bust) | 2027_04_orig14
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Gringo’s Goblins) | 2027_04_orig15
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 4 (Crimson Tide Pods) | 2027_04_orig16
+- Season: 2027
+- Round: 4
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Conquistadors) | 2027_05_orig1
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Rapid Valley Annihilation) | 2027_05_orig2
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Ravens Regime) | 2027_05_orig3
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Mile High Royal Lions) | 2027_05_orig4
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Northside Kings) | 2027_05_orig5
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Lightskin Legends ✊🏽) | 2027_05_orig6
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Badland Banditos) | 2027_05_orig7
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (All Hail King Jesus) | 2027_05_orig8
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Big Balder Brand) | 2027_05_orig9
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (SmokyValleyWheatWarriors) | 2027_05_orig10
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Corgi Loaf Baking Co.) | 2027_05_orig11
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (DMV Fantasy) | 2027_05_orig12
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Southside Savages) | 2027_05_orig13
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Phalhala or Bust) | 2027_05_orig14
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Gringo’s Goblins) | 2027_05_orig15
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 5 (Crimson Tide Pods) | 2027_05_orig16
+- Season: 2027
+- Round: 5
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Conquistadors) | 2027_06_orig1
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Rapid Valley Annihilation) | 2027_06_orig2
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Ravens Regime) | 2027_06_orig3
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Mile High Royal Lions) | 2027_06_orig4
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Northside Kings) | 2027_06_orig5
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Lightskin Legends ✊🏽) | 2027_06_orig6
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Badland Banditos) | 2027_06_orig7
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (All Hail King Jesus) | 2027_06_orig8
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Big Balder Brand) | 2027_06_orig9
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (SmokyValleyWheatWarriors) | 2027_06_orig10
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Corgi Loaf Baking Co.) | 2027_06_orig11
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (DMV Fantasy) | 2027_06_orig12
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Southside Savages) | 2027_06_orig13
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Phalhala or Bust) | 2027_06_orig14
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Gringo’s Goblins) | 2027_06_orig15
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 6 (Crimson Tide Pods) | 2027_06_orig16
+- Season: 2027
+- Round: 6
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Conquistadors) | 2027_07_orig1
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Rapid Valley Annihilation) | 2027_07_orig2
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Ravens Regime) | 2027_07_orig3
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Mile High Royal Lions) | 2027_07_orig4
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Northside Kings) | 2027_07_orig5
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Lightskin Legends ✊🏽) | 2027_07_orig6
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Badland Banditos) | 2027_07_orig7
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (All Hail King Jesus) | 2027_07_orig8
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Big Balder Brand) | 2027_07_orig9
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (SmokyValleyWheatWarriors) | 2027_07_orig10
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Corgi Loaf Baking Co.) | 2027_07_orig11
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (DMV Fantasy) | 2027_07_orig12
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Southside Savages) | 2027_07_orig13
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Phalhala or Bust) | 2027_07_orig14
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Gringo’s Goblins) | 2027_07_orig15
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 7 (Crimson Tide Pods) | 2027_07_orig16
+- Season: 2027
+- Round: 7
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Conquistadors) | 2027_08_orig1
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Rapid Valley Annihilation) | 2027_08_orig2
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Ravens Regime) | 2027_08_orig3
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Mile High Royal Lions) | 2027_08_orig4
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Northside Kings) | 2027_08_orig5
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Lightskin Legends ✊🏽) | 2027_08_orig6
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Badland Banditos) | 2027_08_orig7
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (All Hail King Jesus) | 2027_08_orig8
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Big Balder Brand) | 2027_08_orig9
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (SmokyValleyWheatWarriors) | 2027_08_orig10
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Corgi Loaf Baking Co.) | 2027_08_orig11
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (DMV Fantasy) | 2027_08_orig12
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Southside Savages) | 2027_08_orig13
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Phalhala or Bust) | 2027_08_orig14
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Gringo’s Goblins) | 2027_08_orig15
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 8 (Crimson Tide Pods) | 2027_08_orig16
+- Season: 2027
+- Round: 8
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Conquistadors) | 2027_09_orig1
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Rapid Valley Annihilation) | 2027_09_orig2
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Ravens Regime) | 2027_09_orig3
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Mile High Royal Lions) | 2027_09_orig4
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Northside Kings) | 2027_09_orig5
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Lightskin Legends ✊🏽) | 2027_09_orig6
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Badland Banditos) | 2027_09_orig7
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (All Hail King Jesus) | 2027_09_orig8
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Big Balder Brand) | 2027_09_orig9
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (SmokyValleyWheatWarriors) | 2027_09_orig10
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Corgi Loaf Baking Co.) | 2027_09_orig11
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (DMV Fantasy) | 2027_09_orig12
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Southside Savages) | 2027_09_orig13
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Phalhala or Bust) | 2027_09_orig14
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Gringo’s Goblins) | 2027_09_orig15
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 9 (Crimson Tide Pods) | 2027_09_orig16
+- Season: 2027
+- Round: 9
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Conquistadors) | 2027_10_orig1
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Rapid Valley Annihilation) | 2027_10_orig2
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Ravens Regime) | 2027_10_orig3
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Mile High Royal Lions) | 2027_10_orig4
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Northside Kings) | 2027_10_orig5
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Lightskin Legends ✊🏽) | 2027_10_orig6
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Badland Banditos) | 2027_10_orig7
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (All Hail King Jesus) | 2027_10_orig8
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Big Balder Brand) | 2027_10_orig9
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (SmokyValleyWheatWarriors) | 2027_10_orig10
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Corgi Loaf Baking Co.) | 2027_10_orig11
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (DMV Fantasy) | 2027_10_orig12
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Southside Savages) | 2027_10_orig13
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Phalhala or Bust) | 2027_10_orig14
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Gringo’s Goblins) | 2027_10_orig15
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 10 (Crimson Tide Pods) | 2027_10_orig16
+- Season: 2027
+- Round: 10
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Conquistadors) | 2027_11_orig1
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Rapid Valley Annihilation) | 2027_11_orig2
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Ravens Regime) | 2027_11_orig3
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Mile High Royal Lions) | 2027_11_orig4
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Northside Kings) | 2027_11_orig5
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Lightskin Legends ✊🏽) | 2027_11_orig6
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Badland Banditos) | 2027_11_orig7
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (All Hail King Jesus) | 2027_11_orig8
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Big Balder Brand) | 2027_11_orig9
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (SmokyValleyWheatWarriors) | 2027_11_orig10
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Corgi Loaf Baking Co.) | 2027_11_orig11
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (DMV Fantasy) | 2027_11_orig12
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Southside Savages) | 2027_11_orig13
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Phalhala or Bust) | 2027_11_orig14
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Gringo’s Goblins) | 2027_11_orig15
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 11 (Crimson Tide Pods) | 2027_11_orig16
+- Season: 2027
+- Round: 11
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Conquistadors) | 2027_12_orig1
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Rapid Valley Annihilation) | 2027_12_orig2
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Ravens Regime) | 2027_12_orig3
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Mile High Royal Lions) | 2027_12_orig4
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Northside Kings) | 2027_12_orig5
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Lightskin Legends ✊🏽) | 2027_12_orig6
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Badland Banditos) | 2027_12_orig7
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (All Hail King Jesus) | 2027_12_orig8
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Big Balder Brand) | 2027_12_orig9
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (SmokyValleyWheatWarriors) | 2027_12_orig10
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Corgi Loaf Baking Co.) | 2027_12_orig11
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (DMV Fantasy) | 2027_12_orig12
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Southside Savages) | 2027_12_orig13
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Phalhala or Bust) | 2027_12_orig14
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Gringo’s Goblins) | 2027_12_orig15
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 12 (Crimson Tide Pods) | 2027_12_orig16
+- Season: 2027
+- Round: 12
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Conquistadors) | 2027_13_orig1
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Rapid Valley Annihilation) | 2027_13_orig2
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Ravens Regime) | 2027_13_orig3
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Mile High Royal Lions) | 2027_13_orig4
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Northside Kings) | 2027_13_orig5
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Lightskin Legends ✊🏽) | 2027_13_orig6
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Badland Banditos) | 2027_13_orig7
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (All Hail King Jesus) | 2027_13_orig8
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Big Balder Brand) | 2027_13_orig9
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (SmokyValleyWheatWarriors) | 2027_13_orig10
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Corgi Loaf Baking Co.) | 2027_13_orig11
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (DMV Fantasy) | 2027_13_orig12
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Southside Savages) | 2027_13_orig13
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Phalhala or Bust) | 2027_13_orig14
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Gringo’s Goblins) | 2027_13_orig15
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 13 (Crimson Tide Pods) | 2027_13_orig16
+- Season: 2027
+- Round: 13
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Conquistadors) | 2027_14_orig1
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Rapid Valley Annihilation) | 2027_14_orig2
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Ravens Regime) | 2027_14_orig3
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Mile High Royal Lions) | 2027_14_orig4
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Northside Kings) | 2027_14_orig5
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Lightskin Legends ✊🏽) | 2027_14_orig6
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Badland Banditos) | 2027_14_orig7
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (All Hail King Jesus) | 2027_14_orig8
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Big Balder Brand) | 2027_14_orig9
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (SmokyValleyWheatWarriors) | 2027_14_orig10
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Corgi Loaf Baking Co.) | 2027_14_orig11
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (DMV Fantasy) | 2027_14_orig12
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Southside Savages) | 2027_14_orig13
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Phalhala or Bust) | 2027_14_orig14
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Gringo’s Goblins) | 2027_14_orig15
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 14 (Crimson Tide Pods) | 2027_14_orig16
+- Season: 2027
+- Round: 14
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Conquistadors) | 2027_15_orig1
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Rapid Valley Annihilation) | 2027_15_orig2
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Ravens Regime) | 2027_15_orig3
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Mile High Royal Lions) | 2027_15_orig4
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Northside Kings) | 2027_15_orig5
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Lightskin Legends ✊🏽) | 2027_15_orig6
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Badland Banditos) | 2027_15_orig7
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (All Hail King Jesus) | 2027_15_orig8
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Big Balder Brand) | 2027_15_orig9
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (SmokyValleyWheatWarriors) | 2027_15_orig10
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Corgi Loaf Baking Co.) | 2027_15_orig11
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (DMV Fantasy) | 2027_15_orig12
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Southside Savages) | 2027_15_orig13
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Phalhala or Bust) | 2027_15_orig14
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Gringo’s Goblins) | 2027_15_orig15
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 15 (Crimson Tide Pods) | 2027_15_orig16
+- Season: 2027
+- Round: 15
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Conquistadors) | 2027_16_orig1
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Rapid Valley Annihilation) | 2027_16_orig2
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Ravens Regime) | 2027_16_orig3
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Mile High Royal Lions) | 2027_16_orig4
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Northside Kings) | 2027_16_orig5
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Lightskin Legends ✊🏽) | 2027_16_orig6
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Badland Banditos) | 2027_16_orig7
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (All Hail King Jesus) | 2027_16_orig8
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Big Balder Brand) | 2027_16_orig9
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (SmokyValleyWheatWarriors) | 2027_16_orig10
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Corgi Loaf Baking Co.) | 2027_16_orig11
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (DMV Fantasy) | 2027_16_orig12
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Southside Savages) | 2027_16_orig13
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Phalhala or Bust) | 2027_16_orig14
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Gringo’s Goblins) | 2027_16_orig15
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 16 (Crimson Tide Pods) | 2027_16_orig16
+- Season: 2027
+- Round: 16
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Conquistadors) | 2027_17_orig1
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Rapid Valley Annihilation) | 2027_17_orig2
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Ravens Regime) | 2027_17_orig3
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Mile High Royal Lions) | 2027_17_orig4
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Northside Kings) | 2027_17_orig5
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Lightskin Legends ✊🏽) | 2027_17_orig6
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Badland Banditos) | 2027_17_orig7
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (All Hail King Jesus) | 2027_17_orig8
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Big Balder Brand) | 2027_17_orig9
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (SmokyValleyWheatWarriors) | 2027_17_orig10
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Corgi Loaf Baking Co.) | 2027_17_orig11
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (DMV Fantasy) | 2027_17_orig12
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Southside Savages) | 2027_17_orig13
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Phalhala or Bust) | 2027_17_orig14
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Gringo’s Goblins) | 2027_17_orig15
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 17 (Crimson Tide Pods) | 2027_17_orig16
+- Season: 2027
+- Round: 17
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Conquistadors) | 2027_18_orig1
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Rapid Valley Annihilation) | 2027_18_orig2
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Ravens Regime) | 2027_18_orig3
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Mile High Royal Lions) | 2027_18_orig4
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Northside Kings) | 2027_18_orig5
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Lightskin Legends ✊🏽) | 2027_18_orig6
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Badland Banditos) | 2027_18_orig7
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (All Hail King Jesus) | 2027_18_orig8
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Big Balder Brand) | 2027_18_orig9
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (SmokyValleyWheatWarriors) | 2027_18_orig10
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Corgi Loaf Baking Co.) | 2027_18_orig11
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (DMV Fantasy) | 2027_18_orig12
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Southside Savages) | 2027_18_orig13
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Phalhala or Bust) | 2027_18_orig14
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Gringo’s Goblins) | 2027_18_orig15
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 18 (Crimson Tide Pods) | 2027_18_orig16
+- Season: 2027
+- Round: 18
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Conquistadors) | 2027_19_orig1
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Rapid Valley Annihilation) | 2027_19_orig2
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Ravens Regime) | 2027_19_orig3
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Mile High Royal Lions) | 2027_19_orig4
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Northside Kings) | 2027_19_orig5
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Lightskin Legends ✊🏽) | 2027_19_orig6
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Badland Banditos) | 2027_19_orig7
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (All Hail King Jesus) | 2027_19_orig8
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Big Balder Brand) | 2027_19_orig9
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (SmokyValleyWheatWarriors) | 2027_19_orig10
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Corgi Loaf Baking Co.) | 2027_19_orig11
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (DMV Fantasy) | 2027_19_orig12
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Southside Savages) | 2027_19_orig13
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Phalhala or Bust) | 2027_19_orig14
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Gringo’s Goblins) | 2027_19_orig15
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 19 (Crimson Tide Pods) | 2027_19_orig16
+- Season: 2027
+- Round: 19
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Conquistadors) | 2027_20_orig1
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Rapid Valley Annihilation) | 2027_20_orig2
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Ravens Regime) | 2027_20_orig3
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Mile High Royal Lions) | 2027_20_orig4
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Northside Kings) | 2027_20_orig5
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Lightskin Legends ✊🏽) | 2027_20_orig6
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Badland Banditos) | 2027_20_orig7
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (All Hail King Jesus) | 2027_20_orig8
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Big Balder Brand) | 2027_20_orig9
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (SmokyValleyWheatWarriors) | 2027_20_orig10
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Corgi Loaf Baking Co.) | 2027_20_orig11
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (DMV Fantasy) | 2027_20_orig12
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Southside Savages) | 2027_20_orig13
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Phalhala or Bust) | 2027_20_orig14
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Gringo’s Goblins) | 2027_20_orig15
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2027 Round 20 (Crimson Tide Pods) | 2027_20_orig16
+- Season: 2027
+- Round: 20
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 1 (Conquistadors) | 2028_01_orig1
 - Season: 2028
 - Round: 1
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 69.5
-- AVI category: Useful Starter / High-Value Depth
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 1.15 | 2028_01_15
-- Pick label: 2028 1.15
+## PICK: 2028 Round 1 (Rapid Valley Annihilation) | 2028_01_orig2
 - Season: 2028
 - Round: 1
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 67.5
-- AVI category: Useful Starter / High-Value Depth
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 1.16 | 2028_01_16
-- Pick label: 2028 1.16
+## PICK: 2028 Round 1 (Ravens Regime) | 2028_01_orig3
 - Season: 2028
 - Round: 1
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 65.5
-- AVI category: Useful Starter / High-Value Depth
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.01 | 2028_02_01
-- Pick label: 2028 2.01
+## PICK: 2028 Round 1 (Mile High Royal Lions) | 2028_01_orig4
 - Season: 2028
-- Round: 2
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 63.5
-- AVI category: Useful Starter / High-Value Depth
+- Round: 1
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.02 | 2028_02_02
-- Pick label: 2028 2.02
+## PICK: 2028 Round 1 (Northside Kings) | 2028_01_orig5
 - Season: 2028
-- Round: 2
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 61.5
-- AVI category: Useful Starter / High-Value Depth
+- Round: 1
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.03 | 2028_02_03
-- Pick label: 2028 2.03
+## PICK: 2028 Round 1 (Lightskin Legends ✊🏽) | 2028_01_orig6
 - Season: 2028
-- Round: 2
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 59.5
-- AVI category: Useful Starter / High-Value Depth
+- Round: 1
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.04 | 2028_02_04
-- Pick label: 2028 2.04
+## PICK: 2028 Round 1 (Badland Banditos) | 2028_01_orig7
 - Season: 2028
-- Round: 2
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 57.5
-- AVI category: Useful Starter / High-Value Depth
+- Round: 1
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.05 | 2028_02_05
-- Pick label: 2028 2.05
+## PICK: 2028 Round 1 (All Hail King Jesus) | 2028_01_orig8
 - Season: 2028
-- Round: 2
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 55.5
-- AVI category: Useful Starter / High-Value Depth
+- Round: 1
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.06 | 2028_02_06
-- Pick label: 2028 2.06
+## PICK: 2028 Round 1 (Big Balder Brand) | 2028_01_orig9
 - Season: 2028
-- Round: 2
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 53.5
-- AVI category: Useful Starter / High-Value Depth
+- Round: 1
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.07 | 2028_02_07
-- Pick label: 2028 2.07
+## PICK: 2028 Round 1 (SmokyValleyWheatWarriors) | 2028_01_orig10
 - Season: 2028
-- Round: 2
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 51.5
-- AVI category: Useful Starter / High-Value Depth
+- Round: 1
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.08 | 2028_02_08
-- Pick label: 2028 2.08
+## PICK: 2028 Round 1 (Corgi Loaf Baking Co.) | 2028_01_orig11
+- Season: 2028
+- Round: 1
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 1 (DMV Fantasy) | 2028_01_orig12
+- Season: 2028
+- Round: 1
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 1 (Southside Savages) | 2028_01_orig13
+- Season: 2028
+- Round: 1
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 1 (Phalhala or Bust) | 2028_01_orig14
+- Season: 2028
+- Round: 1
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 1 (Gringo’s Goblins) | 2028_01_orig15
+- Season: 2028
+- Round: 1
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 1 (Crimson Tide Pods) | 2028_01_orig16
+- Season: 2028
+- Round: 1
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 79.3
+- AVI category: Premium Starter
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 2 (Conquistadors) | 2028_02_orig1
 - Season: 2028
 - Round: 2
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 49.5
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.09 | 2028_02_09
-- Pick label: 2028 2.09
+## PICK: 2028 Round 2 (Rapid Valley Annihilation) | 2028_02_orig2
 - Season: 2028
 - Round: 2
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 47.5
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.10 | 2028_02_10
-- Pick label: 2028 2.10
+## PICK: 2028 Round 2 (Ravens Regime) | 2028_02_orig3
 - Season: 2028
 - Round: 2
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 45.5
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.11 | 2028_02_11
-- Pick label: 2028 2.11
+## PICK: 2028 Round 2 (Mile High Royal Lions) | 2028_02_orig4
 - Season: 2028
 - Round: 2
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 43.5
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.12 | 2028_02_12
-- Pick label: 2028 2.12
+## PICK: 2028 Round 2 (Northside Kings) | 2028_02_orig5
 - Season: 2028
 - Round: 2
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 41.5
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.13 | 2028_02_13
-- Pick label: 2028 2.13
+## PICK: 2028 Round 2 (Lightskin Legends ✊🏽) | 2028_02_orig6
 - Season: 2028
 - Round: 2
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 39.5
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.14 | 2028_02_14
-- Pick label: 2028 2.14
+## PICK: 2028 Round 2 (Badland Banditos) | 2028_02_orig7
 - Season: 2028
 - Round: 2
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 37.5
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.15 | 2028_02_15
-- Pick label: 2028 2.15
+## PICK: 2028 Round 2 (All Hail King Jesus) | 2028_02_orig8
 - Season: 2028
 - Round: 2
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 35.5
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 2.16 | 2028_02_16
-- Pick label: 2028 2.16
+## PICK: 2028 Round 2 (Big Balder Brand) | 2028_02_orig9
 - Season: 2028
 - Round: 2
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 33.5
-- AVI category: Speculative Stash
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.01 | 2028_03_01
-- Pick label: 2028 3.01
+## PICK: 2028 Round 2 (SmokyValleyWheatWarriors) | 2028_02_orig10
 - Season: 2028
-- Round: 3
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 31.5
-- AVI category: Speculative Stash
+- Round: 2
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.02 | 2028_03_02
-- Pick label: 2028 3.02
+## PICK: 2028 Round 2 (Corgi Loaf Baking Co.) | 2028_02_orig11
 - Season: 2028
-- Round: 3
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 29.5
-- AVI category: Speculative Stash
+- Round: 2
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.03 | 2028_03_03
-- Pick label: 2028 3.03
+## PICK: 2028 Round 2 (DMV Fantasy) | 2028_02_orig12
 - Season: 2028
-- Round: 3
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 27.5
-- AVI category: Speculative Stash
+- Round: 2
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.04 | 2028_03_04
-- Pick label: 2028 3.04
+## PICK: 2028 Round 2 (Southside Savages) | 2028_02_orig13
 - Season: 2028
-- Round: 3
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 25.5
-- AVI category: Speculative Stash
+- Round: 2
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.05 | 2028_03_05
-- Pick label: 2028 3.05
+## PICK: 2028 Round 2 (Phalhala or Bust) | 2028_02_orig14
 - Season: 2028
-- Round: 3
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 23.5
-- AVI category: Speculative Stash
+- Round: 2
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.06 | 2028_03_06
-- Pick label: 2028 3.06
+## PICK: 2028 Round 2 (Gringo’s Goblins) | 2028_02_orig15
 - Season: 2028
-- Round: 3
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 21.5
-- AVI category: Speculative Stash
+- Round: 2
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.07 | 2028_03_07
-- Pick label: 2028 3.07
+## PICK: 2028 Round 2 (Crimson Tide Pods) | 2028_02_orig16
+- Season: 2028
+- Round: 2
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 48.5
+- AVI category: Rosterable Depth / Upside Stash
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 3 (Conquistadors) | 2028_03_orig1
 - Season: 2028
 - Round: 3
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 19.5
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.08 | 2028_03_08
-- Pick label: 2028 3.08
+## PICK: 2028 Round 3 (Rapid Valley Annihilation) | 2028_03_orig2
 - Season: 2028
 - Round: 3
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 17.5
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.09 | 2028_03_09
-- Pick label: 2028 3.09
+## PICK: 2028 Round 3 (Ravens Regime) | 2028_03_orig3
 - Season: 2028
 - Round: 3
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 15.5
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.10 | 2028_03_10
-- Pick label: 2028 3.10
+## PICK: 2028 Round 3 (Mile High Royal Lions) | 2028_03_orig4
 - Season: 2028
 - Round: 3
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 13.5
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.11 | 2028_03_11
-- Pick label: 2028 3.11
+## PICK: 2028 Round 3 (Northside Kings) | 2028_03_orig5
 - Season: 2028
 - Round: 3
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 11.5
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.12 | 2028_03_12
-- Pick label: 2028 3.12
+## PICK: 2028 Round 3 (Lightskin Legends ✊🏽) | 2028_03_orig6
 - Season: 2028
 - Round: 3
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 9.5
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.13 | 2028_03_13
-- Pick label: 2028 3.13
+## PICK: 2028 Round 3 (Badland Banditos) | 2028_03_orig7
 - Season: 2028
 - Round: 3
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 7.5
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.14 | 2028_03_14
-- Pick label: 2028 3.14
+## PICK: 2028 Round 3 (All Hail King Jesus) | 2028_03_orig8
 - Season: 2028
 - Round: 3
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 5.5
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.15 | 2028_03_15
-- Pick label: 2028 3.15
+## PICK: 2028 Round 3 (Big Balder Brand) | 2028_03_orig9
 - Season: 2028
 - Round: 3
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 3.5
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 3.16 | 2028_03_16
-- Pick label: 2028 3.16
+## PICK: 2028 Round 3 (SmokyValleyWheatWarriors) | 2028_03_orig10
 - Season: 2028
 - Round: 3
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
-- Draft Pick AVI: 1.5
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.01 | 2028_04_01
-- Pick label: 2028 4.01
+## PICK: 2028 Round 3 (Corgi Loaf Baking Co.) | 2028_03_orig11
+- Season: 2028
+- Round: 3
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 3 (DMV Fantasy) | 2028_03_orig12
+- Season: 2028
+- Round: 3
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 3 (Southside Savages) | 2028_03_orig13
+- Season: 2028
+- Round: 3
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 3 (Phalhala or Bust) | 2028_03_orig14
+- Season: 2028
+- Round: 3
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 3 (Gringo’s Goblins) | 2028_03_orig15
+- Season: 2028
+- Round: 3
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 3 (Crimson Tide Pods) | 2028_03_orig16
+- Season: 2028
+- Round: 3
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 16.5
+- AVI category: Replacement / Watch List
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 4 (Conquistadors) | 2028_04_orig1
 - Season: 2028
 - Round: 4
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.02 | 2028_04_02
-- Pick label: 2028 4.02
+## PICK: 2028 Round 4 (Rapid Valley Annihilation) | 2028_04_orig2
 - Season: 2028
 - Round: 4
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.03 | 2028_04_03
-- Pick label: 2028 4.03
+## PICK: 2028 Round 4 (Ravens Regime) | 2028_04_orig3
 - Season: 2028
 - Round: 4
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.04 | 2028_04_04
-- Pick label: 2028 4.04
+## PICK: 2028 Round 4 (Mile High Royal Lions) | 2028_04_orig4
 - Season: 2028
 - Round: 4
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.05 | 2028_04_05
-- Pick label: 2028 4.05
+## PICK: 2028 Round 4 (Northside Kings) | 2028_04_orig5
 - Season: 2028
 - Round: 4
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.06 | 2028_04_06
-- Pick label: 2028 4.06
+## PICK: 2028 Round 4 (Lightskin Legends ✊🏽) | 2028_04_orig6
 - Season: 2028
 - Round: 4
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.07 | 2028_04_07
-- Pick label: 2028 4.07
+## PICK: 2028 Round 4 (Badland Banditos) | 2028_04_orig7
 - Season: 2028
 - Round: 4
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.08 | 2028_04_08
-- Pick label: 2028 4.08
+## PICK: 2028 Round 4 (All Hail King Jesus) | 2028_04_orig8
 - Season: 2028
 - Round: 4
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.09 | 2028_04_09
-- Pick label: 2028 4.09
+## PICK: 2028 Round 4 (Big Balder Brand) | 2028_04_orig9
 - Season: 2028
 - Round: 4
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.10 | 2028_04_10
-- Pick label: 2028 4.10
+## PICK: 2028 Round 4 (SmokyValleyWheatWarriors) | 2028_04_orig10
 - Season: 2028
 - Round: 4
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.11 | 2028_04_11
-- Pick label: 2028 4.11
+## PICK: 2028 Round 4 (Corgi Loaf Baking Co.) | 2028_04_orig11
 - Season: 2028
 - Round: 4
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.12 | 2028_04_12
-- Pick label: 2028 4.12
+## PICK: 2028 Round 4 (DMV Fantasy) | 2028_04_orig12
 - Season: 2028
 - Round: 4
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.13 | 2028_04_13
-- Pick label: 2028 4.13
+## PICK: 2028 Round 4 (Southside Savages) | 2028_04_orig13
 - Season: 2028
 - Round: 4
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.14 | 2028_04_14
-- Pick label: 2028 4.14
+## PICK: 2028 Round 4 (Phalhala or Bust) | 2028_04_orig14
 - Season: 2028
 - Round: 4
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.15 | 2028_04_15
-- Pick label: 2028 4.15
+## PICK: 2028 Round 4 (Gringo’s Goblins) | 2028_04_orig15
 - Season: 2028
 - Round: 4
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 4.16 | 2028_04_16
-- Pick label: 2028 4.16
+## PICK: 2028 Round 4 (Crimson Tide Pods) | 2028_04_orig16
 - Season: 2028
 - Round: 4
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.01 | 2028_05_01
-- Pick label: 2028 5.01
+## PICK: 2028 Round 5 (Conquistadors) | 2028_05_orig1
 - Season: 2028
 - Round: 5
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.02 | 2028_05_02
-- Pick label: 2028 5.02
+## PICK: 2028 Round 5 (Rapid Valley Annihilation) | 2028_05_orig2
 - Season: 2028
 - Round: 5
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.03 | 2028_05_03
-- Pick label: 2028 5.03
+## PICK: 2028 Round 5 (Ravens Regime) | 2028_05_orig3
 - Season: 2028
 - Round: 5
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.04 | 2028_05_04
-- Pick label: 2028 5.04
+## PICK: 2028 Round 5 (Mile High Royal Lions) | 2028_05_orig4
 - Season: 2028
 - Round: 5
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.05 | 2028_05_05
-- Pick label: 2028 5.05
+## PICK: 2028 Round 5 (Northside Kings) | 2028_05_orig5
 - Season: 2028
 - Round: 5
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.06 | 2028_05_06
-- Pick label: 2028 5.06
+## PICK: 2028 Round 5 (Lightskin Legends ✊🏽) | 2028_05_orig6
 - Season: 2028
 - Round: 5
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.07 | 2028_05_07
-- Pick label: 2028 5.07
+## PICK: 2028 Round 5 (Badland Banditos) | 2028_05_orig7
 - Season: 2028
 - Round: 5
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.08 | 2028_05_08
-- Pick label: 2028 5.08
+## PICK: 2028 Round 5 (All Hail King Jesus) | 2028_05_orig8
 - Season: 2028
 - Round: 5
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.09 | 2028_05_09
-- Pick label: 2028 5.09
+## PICK: 2028 Round 5 (Big Balder Brand) | 2028_05_orig9
 - Season: 2028
 - Round: 5
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.10 | 2028_05_10
-- Pick label: 2028 5.10
+## PICK: 2028 Round 5 (SmokyValleyWheatWarriors) | 2028_05_orig10
 - Season: 2028
 - Round: 5
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.11 | 2028_05_11
-- Pick label: 2028 5.11
+## PICK: 2028 Round 5 (Corgi Loaf Baking Co.) | 2028_05_orig11
 - Season: 2028
 - Round: 5
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.12 | 2028_05_12
-- Pick label: 2028 5.12
+## PICK: 2028 Round 5 (DMV Fantasy) | 2028_05_orig12
 - Season: 2028
 - Round: 5
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.13 | 2028_05_13
-- Pick label: 2028 5.13
+## PICK: 2028 Round 5 (Southside Savages) | 2028_05_orig13
 - Season: 2028
 - Round: 5
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.14 | 2028_05_14
-- Pick label: 2028 5.14
+## PICK: 2028 Round 5 (Phalhala or Bust) | 2028_05_orig14
 - Season: 2028
 - Round: 5
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.15 | 2028_05_15
-- Pick label: 2028 5.15
+## PICK: 2028 Round 5 (Gringo’s Goblins) | 2028_05_orig15
 - Season: 2028
 - Round: 5
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 5.16 | 2028_05_16
-- Pick label: 2028 5.16
+## PICK: 2028 Round 5 (Crimson Tide Pods) | 2028_05_orig16
 - Season: 2028
 - Round: 5
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.01 | 2028_06_01
-- Pick label: 2028 6.01
+## PICK: 2028 Round 6 (Conquistadors) | 2028_06_orig1
 - Season: 2028
 - Round: 6
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.02 | 2028_06_02
-- Pick label: 2028 6.02
+## PICK: 2028 Round 6 (Rapid Valley Annihilation) | 2028_06_orig2
 - Season: 2028
 - Round: 6
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.03 | 2028_06_03
-- Pick label: 2028 6.03
+## PICK: 2028 Round 6 (Ravens Regime) | 2028_06_orig3
 - Season: 2028
 - Round: 6
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.04 | 2028_06_04
-- Pick label: 2028 6.04
+## PICK: 2028 Round 6 (Mile High Royal Lions) | 2028_06_orig4
 - Season: 2028
 - Round: 6
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.05 | 2028_06_05
-- Pick label: 2028 6.05
+## PICK: 2028 Round 6 (Northside Kings) | 2028_06_orig5
 - Season: 2028
 - Round: 6
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.06 | 2028_06_06
-- Pick label: 2028 6.06
+## PICK: 2028 Round 6 (Lightskin Legends ✊🏽) | 2028_06_orig6
 - Season: 2028
 - Round: 6
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.07 | 2028_06_07
-- Pick label: 2028 6.07
+## PICK: 2028 Round 6 (Badland Banditos) | 2028_06_orig7
 - Season: 2028
 - Round: 6
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.08 | 2028_06_08
-- Pick label: 2028 6.08
+## PICK: 2028 Round 6 (All Hail King Jesus) | 2028_06_orig8
 - Season: 2028
 - Round: 6
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.09 | 2028_06_09
-- Pick label: 2028 6.09
+## PICK: 2028 Round 6 (Big Balder Brand) | 2028_06_orig9
 - Season: 2028
 - Round: 6
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.10 | 2028_06_10
-- Pick label: 2028 6.10
+## PICK: 2028 Round 6 (SmokyValleyWheatWarriors) | 2028_06_orig10
 - Season: 2028
 - Round: 6
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.11 | 2028_06_11
-- Pick label: 2028 6.11
+## PICK: 2028 Round 6 (Corgi Loaf Baking Co.) | 2028_06_orig11
 - Season: 2028
 - Round: 6
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.12 | 2028_06_12
-- Pick label: 2028 6.12
+## PICK: 2028 Round 6 (DMV Fantasy) | 2028_06_orig12
 - Season: 2028
 - Round: 6
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.13 | 2028_06_13
-- Pick label: 2028 6.13
+## PICK: 2028 Round 6 (Southside Savages) | 2028_06_orig13
 - Season: 2028
 - Round: 6
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.14 | 2028_06_14
-- Pick label: 2028 6.14
+## PICK: 2028 Round 6 (Phalhala or Bust) | 2028_06_orig14
 - Season: 2028
 - Round: 6
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.15 | 2028_06_15
-- Pick label: 2028 6.15
+## PICK: 2028 Round 6 (Gringo’s Goblins) | 2028_06_orig15
 - Season: 2028
 - Round: 6
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 6.16 | 2028_06_16
-- Pick label: 2028 6.16
+## PICK: 2028 Round 6 (Crimson Tide Pods) | 2028_06_orig16
 - Season: 2028
 - Round: 6
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.01 | 2028_07_01
-- Pick label: 2028 7.01
+## PICK: 2028 Round 7 (Conquistadors) | 2028_07_orig1
 - Season: 2028
 - Round: 7
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.02 | 2028_07_02
-- Pick label: 2028 7.02
+## PICK: 2028 Round 7 (Rapid Valley Annihilation) | 2028_07_orig2
 - Season: 2028
 - Round: 7
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.03 | 2028_07_03
-- Pick label: 2028 7.03
+## PICK: 2028 Round 7 (Ravens Regime) | 2028_07_orig3
 - Season: 2028
 - Round: 7
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.04 | 2028_07_04
-- Pick label: 2028 7.04
+## PICK: 2028 Round 7 (Mile High Royal Lions) | 2028_07_orig4
 - Season: 2028
 - Round: 7
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.05 | 2028_07_05
-- Pick label: 2028 7.05
+## PICK: 2028 Round 7 (Northside Kings) | 2028_07_orig5
 - Season: 2028
 - Round: 7
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.06 | 2028_07_06
-- Pick label: 2028 7.06
+## PICK: 2028 Round 7 (Lightskin Legends ✊🏽) | 2028_07_orig6
 - Season: 2028
 - Round: 7
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.07 | 2028_07_07
-- Pick label: 2028 7.07
+## PICK: 2028 Round 7 (Badland Banditos) | 2028_07_orig7
 - Season: 2028
 - Round: 7
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.08 | 2028_07_08
-- Pick label: 2028 7.08
+## PICK: 2028 Round 7 (All Hail King Jesus) | 2028_07_orig8
 - Season: 2028
 - Round: 7
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.09 | 2028_07_09
-- Pick label: 2028 7.09
+## PICK: 2028 Round 7 (Big Balder Brand) | 2028_07_orig9
 - Season: 2028
 - Round: 7
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.10 | 2028_07_10
-- Pick label: 2028 7.10
+## PICK: 2028 Round 7 (SmokyValleyWheatWarriors) | 2028_07_orig10
 - Season: 2028
 - Round: 7
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.11 | 2028_07_11
-- Pick label: 2028 7.11
+## PICK: 2028 Round 7 (Corgi Loaf Baking Co.) | 2028_07_orig11
 - Season: 2028
 - Round: 7
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.12 | 2028_07_12
-- Pick label: 2028 7.12
+## PICK: 2028 Round 7 (DMV Fantasy) | 2028_07_orig12
 - Season: 2028
 - Round: 7
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.13 | 2028_07_13
-- Pick label: 2028 7.13
+## PICK: 2028 Round 7 (Southside Savages) | 2028_07_orig13
 - Season: 2028
 - Round: 7
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.14 | 2028_07_14
-- Pick label: 2028 7.14
+## PICK: 2028 Round 7 (Phalhala or Bust) | 2028_07_orig14
 - Season: 2028
 - Round: 7
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.15 | 2028_07_15
-- Pick label: 2028 7.15
+## PICK: 2028 Round 7 (Gringo’s Goblins) | 2028_07_orig15
 - Season: 2028
 - Round: 7
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 7.16 | 2028_07_16
-- Pick label: 2028 7.16
+## PICK: 2028 Round 7 (Crimson Tide Pods) | 2028_07_orig16
 - Season: 2028
 - Round: 7
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.01 | 2028_08_01
-- Pick label: 2028 8.01
+## PICK: 2028 Round 8 (Conquistadors) | 2028_08_orig1
 - Season: 2028
 - Round: 8
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.02 | 2028_08_02
-- Pick label: 2028 8.02
+## PICK: 2028 Round 8 (Rapid Valley Annihilation) | 2028_08_orig2
 - Season: 2028
 - Round: 8
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.03 | 2028_08_03
-- Pick label: 2028 8.03
+## PICK: 2028 Round 8 (Ravens Regime) | 2028_08_orig3
 - Season: 2028
 - Round: 8
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.04 | 2028_08_04
-- Pick label: 2028 8.04
+## PICK: 2028 Round 8 (Mile High Royal Lions) | 2028_08_orig4
 - Season: 2028
 - Round: 8
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.05 | 2028_08_05
-- Pick label: 2028 8.05
+## PICK: 2028 Round 8 (Northside Kings) | 2028_08_orig5
 - Season: 2028
 - Round: 8
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.06 | 2028_08_06
-- Pick label: 2028 8.06
+## PICK: 2028 Round 8 (Lightskin Legends ✊🏽) | 2028_08_orig6
 - Season: 2028
 - Round: 8
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.07 | 2028_08_07
-- Pick label: 2028 8.07
+## PICK: 2028 Round 8 (Badland Banditos) | 2028_08_orig7
 - Season: 2028
 - Round: 8
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.08 | 2028_08_08
-- Pick label: 2028 8.08
+## PICK: 2028 Round 8 (All Hail King Jesus) | 2028_08_orig8
 - Season: 2028
 - Round: 8
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.09 | 2028_08_09
-- Pick label: 2028 8.09
+## PICK: 2028 Round 8 (Big Balder Brand) | 2028_08_orig9
 - Season: 2028
 - Round: 8
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.10 | 2028_08_10
-- Pick label: 2028 8.10
+## PICK: 2028 Round 8 (SmokyValleyWheatWarriors) | 2028_08_orig10
 - Season: 2028
 - Round: 8
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.11 | 2028_08_11
-- Pick label: 2028 8.11
+## PICK: 2028 Round 8 (Corgi Loaf Baking Co.) | 2028_08_orig11
 - Season: 2028
 - Round: 8
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.12 | 2028_08_12
-- Pick label: 2028 8.12
+## PICK: 2028 Round 8 (DMV Fantasy) | 2028_08_orig12
 - Season: 2028
 - Round: 8
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.13 | 2028_08_13
-- Pick label: 2028 8.13
+## PICK: 2028 Round 8 (Southside Savages) | 2028_08_orig13
 - Season: 2028
 - Round: 8
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.14 | 2028_08_14
-- Pick label: 2028 8.14
+## PICK: 2028 Round 8 (Phalhala or Bust) | 2028_08_orig14
 - Season: 2028
 - Round: 8
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.15 | 2028_08_15
-- Pick label: 2028 8.15
+## PICK: 2028 Round 8 (Gringo’s Goblins) | 2028_08_orig15
 - Season: 2028
 - Round: 8
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 8.16 | 2028_08_16
-- Pick label: 2028 8.16
+## PICK: 2028 Round 8 (Crimson Tide Pods) | 2028_08_orig16
 - Season: 2028
 - Round: 8
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.01 | 2028_09_01
-- Pick label: 2028 9.01
+## PICK: 2028 Round 9 (Conquistadors) | 2028_09_orig1
 - Season: 2028
 - Round: 9
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.02 | 2028_09_02
-- Pick label: 2028 9.02
+## PICK: 2028 Round 9 (Rapid Valley Annihilation) | 2028_09_orig2
 - Season: 2028
 - Round: 9
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.03 | 2028_09_03
-- Pick label: 2028 9.03
+## PICK: 2028 Round 9 (Ravens Regime) | 2028_09_orig3
 - Season: 2028
 - Round: 9
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.04 | 2028_09_04
-- Pick label: 2028 9.04
+## PICK: 2028 Round 9 (Mile High Royal Lions) | 2028_09_orig4
 - Season: 2028
 - Round: 9
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.05 | 2028_09_05
-- Pick label: 2028 9.05
+## PICK: 2028 Round 9 (Northside Kings) | 2028_09_orig5
 - Season: 2028
 - Round: 9
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.06 | 2028_09_06
-- Pick label: 2028 9.06
+## PICK: 2028 Round 9 (Lightskin Legends ✊🏽) | 2028_09_orig6
 - Season: 2028
 - Round: 9
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.07 | 2028_09_07
-- Pick label: 2028 9.07
+## PICK: 2028 Round 9 (Badland Banditos) | 2028_09_orig7
 - Season: 2028
 - Round: 9
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.08 | 2028_09_08
-- Pick label: 2028 9.08
+## PICK: 2028 Round 9 (All Hail King Jesus) | 2028_09_orig8
 - Season: 2028
 - Round: 9
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.09 | 2028_09_09
-- Pick label: 2028 9.09
+## PICK: 2028 Round 9 (Big Balder Brand) | 2028_09_orig9
 - Season: 2028
 - Round: 9
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.10 | 2028_09_10
-- Pick label: 2028 9.10
+## PICK: 2028 Round 9 (SmokyValleyWheatWarriors) | 2028_09_orig10
 - Season: 2028
 - Round: 9
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.11 | 2028_09_11
-- Pick label: 2028 9.11
+## PICK: 2028 Round 9 (Corgi Loaf Baking Co.) | 2028_09_orig11
 - Season: 2028
 - Round: 9
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.12 | 2028_09_12
-- Pick label: 2028 9.12
+## PICK: 2028 Round 9 (DMV Fantasy) | 2028_09_orig12
 - Season: 2028
 - Round: 9
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.13 | 2028_09_13
-- Pick label: 2028 9.13
+## PICK: 2028 Round 9 (Southside Savages) | 2028_09_orig13
 - Season: 2028
 - Round: 9
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.14 | 2028_09_14
-- Pick label: 2028 9.14
+## PICK: 2028 Round 9 (Phalhala or Bust) | 2028_09_orig14
 - Season: 2028
 - Round: 9
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.15 | 2028_09_15
-- Pick label: 2028 9.15
+## PICK: 2028 Round 9 (Gringo’s Goblins) | 2028_09_orig15
 - Season: 2028
 - Round: 9
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 9.16 | 2028_09_16
-- Pick label: 2028 9.16
+## PICK: 2028 Round 9 (Crimson Tide Pods) | 2028_09_orig16
 - Season: 2028
 - Round: 9
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.01 | 2028_10_01
-- Pick label: 2028 10.01
+## PICK: 2028 Round 10 (Conquistadors) | 2028_10_orig1
 - Season: 2028
 - Round: 10
-- Slot: 1
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.02 | 2028_10_02
-- Pick label: 2028 10.02
+## PICK: 2028 Round 10 (Rapid Valley Annihilation) | 2028_10_orig2
 - Season: 2028
 - Round: 10
-- Slot: 2
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.03 | 2028_10_03
-- Pick label: 2028 10.03
+## PICK: 2028 Round 10 (Ravens Regime) | 2028_10_orig3
 - Season: 2028
 - Round: 10
-- Slot: 3
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.04 | 2028_10_04
-- Pick label: 2028 10.04
+## PICK: 2028 Round 10 (Mile High Royal Lions) | 2028_10_orig4
 - Season: 2028
 - Round: 10
-- Slot: 4
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.05 | 2028_10_05
-- Pick label: 2028 10.05
+## PICK: 2028 Round 10 (Northside Kings) | 2028_10_orig5
 - Season: 2028
 - Round: 10
-- Slot: 5
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.06 | 2028_10_06
-- Pick label: 2028 10.06
+## PICK: 2028 Round 10 (Lightskin Legends ✊🏽) | 2028_10_orig6
 - Season: 2028
 - Round: 10
-- Slot: 6
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.07 | 2028_10_07
-- Pick label: 2028 10.07
+## PICK: 2028 Round 10 (Badland Banditos) | 2028_10_orig7
 - Season: 2028
 - Round: 10
-- Slot: 7
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.08 | 2028_10_08
-- Pick label: 2028 10.08
+## PICK: 2028 Round 10 (All Hail King Jesus) | 2028_10_orig8
 - Season: 2028
 - Round: 10
-- Slot: 8
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.09 | 2028_10_09
-- Pick label: 2028 10.09
+## PICK: 2028 Round 10 (Big Balder Brand) | 2028_10_orig9
 - Season: 2028
 - Round: 10
-- Slot: 9
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.10 | 2028_10_10
-- Pick label: 2028 10.10
+## PICK: 2028 Round 10 (SmokyValleyWheatWarriors) | 2028_10_orig10
 - Season: 2028
 - Round: 10
-- Slot: 10
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.11 | 2028_10_11
-- Pick label: 2028 10.11
+## PICK: 2028 Round 10 (Corgi Loaf Baking Co.) | 2028_10_orig11
 - Season: 2028
 - Round: 10
-- Slot: 11
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.12 | 2028_10_12
-- Pick label: 2028 10.12
+## PICK: 2028 Round 10 (DMV Fantasy) | 2028_10_orig12
 - Season: 2028
 - Round: 10
-- Slot: 12
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.13 | 2028_10_13
-- Pick label: 2028 10.13
+## PICK: 2028 Round 10 (Southside Savages) | 2028_10_orig13
 - Season: 2028
 - Round: 10
-- Slot: 13
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.14 | 2028_10_14
-- Pick label: 2028 10.14
+## PICK: 2028 Round 10 (Phalhala or Bust) | 2028_10_orig14
 - Season: 2028
 - Round: 10
-- Slot: 14
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.15 | 2028_10_15
-- Pick label: 2028 10.15
+## PICK: 2028 Round 10 (Gringo’s Goblins) | 2028_10_orig15
 - Season: 2028
 - Round: 10
-- Slot: 15
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 10.16 | 2028_10_16
-- Pick label: 2028 10.16
+## PICK: 2028 Round 10 (Crimson Tide Pods) | 2028_10_orig16
 - Season: 2028
 - Round: 10
-- Slot: 16
-- Original team: TBD
-- Original roster ID: None
-- Current owner team: TBD
-- Current owner roster ID: None
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Conquistadors) | 2028_11_orig1
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Rapid Valley Annihilation) | 2028_11_orig2
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Ravens Regime) | 2028_11_orig3
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Mile High Royal Lions) | 2028_11_orig4
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Northside Kings) | 2028_11_orig5
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Lightskin Legends ✊🏽) | 2028_11_orig6
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Badland Banditos) | 2028_11_orig7
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (All Hail King Jesus) | 2028_11_orig8
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Big Balder Brand) | 2028_11_orig9
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (SmokyValleyWheatWarriors) | 2028_11_orig10
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Corgi Loaf Baking Co.) | 2028_11_orig11
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (DMV Fantasy) | 2028_11_orig12
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Southside Savages) | 2028_11_orig13
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Phalhala or Bust) | 2028_11_orig14
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Gringo’s Goblins) | 2028_11_orig15
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 11 (Crimson Tide Pods) | 2028_11_orig16
+- Season: 2028
+- Round: 11
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Conquistadors) | 2028_12_orig1
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Rapid Valley Annihilation) | 2028_12_orig2
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Ravens Regime) | 2028_12_orig3
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Mile High Royal Lions) | 2028_12_orig4
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Northside Kings) | 2028_12_orig5
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Lightskin Legends ✊🏽) | 2028_12_orig6
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Badland Banditos) | 2028_12_orig7
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (All Hail King Jesus) | 2028_12_orig8
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Big Balder Brand) | 2028_12_orig9
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (SmokyValleyWheatWarriors) | 2028_12_orig10
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Corgi Loaf Baking Co.) | 2028_12_orig11
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (DMV Fantasy) | 2028_12_orig12
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Southside Savages) | 2028_12_orig13
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Phalhala or Bust) | 2028_12_orig14
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Gringo’s Goblins) | 2028_12_orig15
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 12 (Crimson Tide Pods) | 2028_12_orig16
+- Season: 2028
+- Round: 12
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Conquistadors) | 2028_13_orig1
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Rapid Valley Annihilation) | 2028_13_orig2
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Ravens Regime) | 2028_13_orig3
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Mile High Royal Lions) | 2028_13_orig4
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Northside Kings) | 2028_13_orig5
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Lightskin Legends ✊🏽) | 2028_13_orig6
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Badland Banditos) | 2028_13_orig7
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (All Hail King Jesus) | 2028_13_orig8
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Big Balder Brand) | 2028_13_orig9
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (SmokyValleyWheatWarriors) | 2028_13_orig10
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Corgi Loaf Baking Co.) | 2028_13_orig11
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (DMV Fantasy) | 2028_13_orig12
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Southside Savages) | 2028_13_orig13
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Phalhala or Bust) | 2028_13_orig14
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Gringo’s Goblins) | 2028_13_orig15
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 13 (Crimson Tide Pods) | 2028_13_orig16
+- Season: 2028
+- Round: 13
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Conquistadors) | 2028_14_orig1
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Rapid Valley Annihilation) | 2028_14_orig2
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Ravens Regime) | 2028_14_orig3
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Mile High Royal Lions) | 2028_14_orig4
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Northside Kings) | 2028_14_orig5
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Lightskin Legends ✊🏽) | 2028_14_orig6
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Badland Banditos) | 2028_14_orig7
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (All Hail King Jesus) | 2028_14_orig8
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Big Balder Brand) | 2028_14_orig9
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (SmokyValleyWheatWarriors) | 2028_14_orig10
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Corgi Loaf Baking Co.) | 2028_14_orig11
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (DMV Fantasy) | 2028_14_orig12
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Southside Savages) | 2028_14_orig13
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Phalhala or Bust) | 2028_14_orig14
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Gringo’s Goblins) | 2028_14_orig15
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 14 (Crimson Tide Pods) | 2028_14_orig16
+- Season: 2028
+- Round: 14
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Conquistadors) | 2028_15_orig1
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Rapid Valley Annihilation) | 2028_15_orig2
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Ravens Regime) | 2028_15_orig3
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Mile High Royal Lions) | 2028_15_orig4
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Northside Kings) | 2028_15_orig5
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Lightskin Legends ✊🏽) | 2028_15_orig6
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Badland Banditos) | 2028_15_orig7
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (All Hail King Jesus) | 2028_15_orig8
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Big Balder Brand) | 2028_15_orig9
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (SmokyValleyWheatWarriors) | 2028_15_orig10
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Corgi Loaf Baking Co.) | 2028_15_orig11
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (DMV Fantasy) | 2028_15_orig12
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Southside Savages) | 2028_15_orig13
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Phalhala or Bust) | 2028_15_orig14
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Gringo’s Goblins) | 2028_15_orig15
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 15 (Crimson Tide Pods) | 2028_15_orig16
+- Season: 2028
+- Round: 15
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Conquistadors) | 2028_16_orig1
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Rapid Valley Annihilation) | 2028_16_orig2
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Ravens Regime) | 2028_16_orig3
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Mile High Royal Lions) | 2028_16_orig4
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Northside Kings) | 2028_16_orig5
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Lightskin Legends ✊🏽) | 2028_16_orig6
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Badland Banditos) | 2028_16_orig7
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (All Hail King Jesus) | 2028_16_orig8
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Big Balder Brand) | 2028_16_orig9
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (SmokyValleyWheatWarriors) | 2028_16_orig10
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Corgi Loaf Baking Co.) | 2028_16_orig11
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (DMV Fantasy) | 2028_16_orig12
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Southside Savages) | 2028_16_orig13
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Phalhala or Bust) | 2028_16_orig14
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Gringo’s Goblins) | 2028_16_orig15
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 16 (Crimson Tide Pods) | 2028_16_orig16
+- Season: 2028
+- Round: 16
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Conquistadors) | 2028_17_orig1
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Rapid Valley Annihilation) | 2028_17_orig2
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Ravens Regime) | 2028_17_orig3
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Mile High Royal Lions) | 2028_17_orig4
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Northside Kings) | 2028_17_orig5
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Lightskin Legends ✊🏽) | 2028_17_orig6
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Badland Banditos) | 2028_17_orig7
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (All Hail King Jesus) | 2028_17_orig8
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Big Balder Brand) | 2028_17_orig9
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (SmokyValleyWheatWarriors) | 2028_17_orig10
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Corgi Loaf Baking Co.) | 2028_17_orig11
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (DMV Fantasy) | 2028_17_orig12
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Southside Savages) | 2028_17_orig13
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Phalhala or Bust) | 2028_17_orig14
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Gringo’s Goblins) | 2028_17_orig15
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 17 (Crimson Tide Pods) | 2028_17_orig16
+- Season: 2028
+- Round: 17
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Conquistadors) | 2028_18_orig1
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Rapid Valley Annihilation) | 2028_18_orig2
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Ravens Regime) | 2028_18_orig3
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Mile High Royal Lions) | 2028_18_orig4
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Northside Kings) | 2028_18_orig5
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Lightskin Legends ✊🏽) | 2028_18_orig6
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Badland Banditos) | 2028_18_orig7
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (All Hail King Jesus) | 2028_18_orig8
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Big Balder Brand) | 2028_18_orig9
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (SmokyValleyWheatWarriors) | 2028_18_orig10
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Corgi Loaf Baking Co.) | 2028_18_orig11
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (DMV Fantasy) | 2028_18_orig12
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Southside Savages) | 2028_18_orig13
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Phalhala or Bust) | 2028_18_orig14
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Gringo’s Goblins) | 2028_18_orig15
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 18 (Crimson Tide Pods) | 2028_18_orig16
+- Season: 2028
+- Round: 18
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Conquistadors) | 2028_19_orig1
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Rapid Valley Annihilation) | 2028_19_orig2
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Ravens Regime) | 2028_19_orig3
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Mile High Royal Lions) | 2028_19_orig4
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Northside Kings) | 2028_19_orig5
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Lightskin Legends ✊🏽) | 2028_19_orig6
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Badland Banditos) | 2028_19_orig7
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (All Hail King Jesus) | 2028_19_orig8
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Big Balder Brand) | 2028_19_orig9
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (SmokyValleyWheatWarriors) | 2028_19_orig10
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Corgi Loaf Baking Co.) | 2028_19_orig11
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (DMV Fantasy) | 2028_19_orig12
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Southside Savages) | 2028_19_orig13
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Phalhala or Bust) | 2028_19_orig14
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Gringo’s Goblins) | 2028_19_orig15
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 19 (Crimson Tide Pods) | 2028_19_orig16
+- Season: 2028
+- Round: 19
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Conquistadors) | 2028_20_orig1
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Conquistadors
+- Original roster ID: 1
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Rapid Valley Annihilation) | 2028_20_orig2
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Rapid Valley Annihilation
+- Original roster ID: 2
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Ravens Regime) | 2028_20_orig3
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Ravens Regime
+- Original roster ID: 3
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Mile High Royal Lions) | 2028_20_orig4
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Mile High Royal Lions
+- Original roster ID: 4
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Northside Kings) | 2028_20_orig5
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Northside Kings
+- Original roster ID: 5
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Lightskin Legends ✊🏽) | 2028_20_orig6
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Lightskin Legends ✊🏽
+- Original roster ID: 6
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Badland Banditos) | 2028_20_orig7
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Badland Banditos
+- Original roster ID: 7
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (All Hail King Jesus) | 2028_20_orig8
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: All Hail King Jesus
+- Original roster ID: 8
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Big Balder Brand) | 2028_20_orig9
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Big Balder Brand
+- Original roster ID: 9
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (SmokyValleyWheatWarriors) | 2028_20_orig10
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: SmokyValleyWheatWarriors
+- Original roster ID: 10
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Corgi Loaf Baking Co.) | 2028_20_orig11
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Corgi Loaf Baking Co.
+- Original roster ID: 11
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (DMV Fantasy) | 2028_20_orig12
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: DMV Fantasy
+- Original roster ID: 12
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Southside Savages) | 2028_20_orig13
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Southside Savages
+- Original roster ID: 13
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Phalhala or Bust) | 2028_20_orig14
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Phalhala or Bust
+- Original roster ID: 14
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Gringo’s Goblins) | 2028_20_orig15
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Gringo’s Goblins
+- Original roster ID: 15
+- Current owner team: Gringo’s Goblins
+- Current owner roster ID: 15
+- Draft Pick AVI: 0.0
+- AVI category: No Current AVI
+- Validation status: future_order_tbd
+
+## PICK: 2028 Round 20 (Crimson Tide Pods) | 2028_20_orig16
+- Season: 2028
+- Round: 20
+- Slot: TBD
+- Original team: Crimson Tide Pods
+- Original roster ID: 16
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
