@@ -31,9 +31,9 @@ def test_draft_pick_overall_number() -> None:
     ) == 17
 
     assert draft_pick_overall_number(
-        round_number=10,
+        round_number=20,
         slot=16,
-    ) == 160
+    ) == 320
 
 
 def test_draft_pick_value_uses_segmented_depreciation_curve() -> None:
@@ -87,7 +87,7 @@ def test_draft_pick_value_continues_depreciating_across_rounds() -> None:
 
 def test_draft_pick_value_floors_at_zero() -> None:
     assert draft_pick_value(
-        round_number=10,
+        round_number=20,
         slot=16,
     ) == 0.0
 
@@ -97,7 +97,7 @@ def test_pick_tables() -> None:
     full_table = full_draft_pick_table()
 
     assert len(first_round) == 16
-    assert len(full_table) == 160
+    assert len(full_table) == 320
 
     assert first_round["1.01"] == 91.0
     assert first_round["1.04"] == 87.4
@@ -109,7 +109,7 @@ def test_pick_tables() -> None:
     assert full_table["1.01"] == 91.0
     assert full_table["1.16"] == 65.5
     assert full_table["2.01"] == 63.5
-    assert full_table["10.16"] == 0.0
+    assert full_table["20.16"] == 0.0
 
 
 def test_invalid_round_and_slot() -> None:
@@ -121,7 +121,7 @@ def test_invalid_round_and_slot() -> None:
 
     with pytest.raises(ValueError):
         draft_pick_value(
-            round_number=11,
+            round_number=21,
             slot=1,
         )
 
