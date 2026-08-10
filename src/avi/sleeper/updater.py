@@ -12,6 +12,7 @@ from avi.trades.ledger import completed_trade_ledger
 
 RAW = Path("data/raw/sleeper")
 PROCESSED = Path("data/processed")
+ACTIVE_DRAFT_PICK_SEASON = 2027
 
 
 def update(config: AviConfig) -> dict[str, Any]:
@@ -33,7 +34,14 @@ def update(config: AviConfig) -> dict[str, Any]:
         folder = RAW / "leagues" / f"{row.season}_{row.league_id}"
         users = client.users(row.league_id)
         rosters = client.rosters(row.league_id)
-        picks = client.traded_picks(row.league_id)
+        raw_picks = client.traded_picks(row.league_id)
+        picks = [
+            pick
+            for pick in raw_picks
+            if isinstance(pick, dict)
+            and str(pick.get("season", "")).isdigit()
+            and int(pick["season"]) >= ACTIVE_DRAFT_PICK_SEASON
+        ]
         drafts = client.drafts(row.league_id)
 
         write_json(folder / "league.json", row.league_data)
