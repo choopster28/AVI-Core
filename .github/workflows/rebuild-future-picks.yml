@@ -80,3 +80,4 @@ jobs:
             git commit -m 'Rebuild accurate 2027+ draft ownership'
             git push
           fi
+      # Third run validates the updated 20-round test contract before committing generated data.
