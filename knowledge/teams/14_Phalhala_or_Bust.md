@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1132141719354535936
 - Division: 3
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-08-09
+- Last updated from Sleeper exports: 2026-08-10
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,17 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 104.5
-- championship_lineup_c_avi_avg: 52.25
-- offensive_roster_c_avi_sum: 104.5
-- offensive_roster_c_avi_avg: 8.04
-- offensive_roster_d_avi_sum: 167.0
-- offensive_roster_d_avi_avg: 12.85
+- championship_lineup_c_avi_sum: 564.0
+- championship_lineup_c_avi_avg: 70.50
+- offensive_roster_c_avi_sum: 777.0
+- offensive_roster_c_avi_avg: 59.77
+- offensive_roster_d_avi_sum: 1010.9
+- offensive_roster_d_avi_avg: 77.76
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- RB: Ashton Jeanty | C-AVI: 55.7 | D-AVI: 87.4
-- TE: Sam LaPorta | C-AVI: 48.8 | D-AVI: 79.6
+- QB: C.J. Stroud | C-AVI: 48.7 | D-AVI: 71.1
+- RB: Ashton Jeanty | C-AVI: 97.0 | D-AVI: 97.3
+- RB: Jaylen Warren | C-AVI: 69.3 | D-AVI: 83.5
+- WR: Rome Odunze | C-AVI: 78.0 | D-AVI: 89.4
+- WR: Michael Wilson | C-AVI: 64.4 | D-AVI: 83.6
+- TE: Sam LaPorta | C-AVI: 86.9 | D-AVI: 88.1
+- FLEX: Hunter Henry | C-AVI: 61.4 | D-AVI: 74.2
+- FLEX: Makai Lemon | C-AVI: 58.3 | D-AVI: 85.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -47,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 48.7
+- Dynasty AVI (D-AVI, 0-100): 71.1
+- Projected PPR points: 260.6
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Fernando Mendoza
 - Player name: Fernando Mendoza
@@ -64,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 43.2
+- Dynasty AVI (D-AVI, 0-100): 71.2
+- Projected PPR points: 193.1
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: J.J. McCarthy
 - Player name: J.J. McCarthy
@@ -81,11 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 32.6
+- Dynasty AVI (D-AVI, 0-100): 59.6
+- Projected PPR points: 22.5
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Ashton Jeanty
 - Player name: Ashton Jeanty
@@ -98,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 55.7
-- Dynasty AVI (D-AVI, 0-100): 87.4
+- Championship AVI (C-AVI, 0-100): 97.0
+- Dynasty AVI (D-AVI, 0-100): 97.3
 - Projected PPR points: 276.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -115,11 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 69.3
+- Dynasty AVI (D-AVI, 0-100): 83.5
+- Projected PPR points: 194.7
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jordan Mason
 - Player name: Jordan Mason
@@ -132,79 +138,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 52.9
+- Dynasty AVI (D-AVI, 0-100): 74.3
+- Projected PPR points: 138.5
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Jalen Nailor
-- Player name: Jalen Nailor
-- Player ID: 8180
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: LV
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Makai Lemon
-- Player name: Makai Lemon
-- Player ID: 13294
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Marquise Brown
-- Player name: Marquise Brown
-- Player ID: 5848
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Michael Wilson
-- Player name: Michael Wilson
-- Player ID: 10232
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: ARI
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Rome Odunze
 - Player name: Rome Odunze
@@ -217,11 +155,79 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 78.0
+- Dynasty AVI (D-AVI, 0-100): 89.4
+- Projected PPR points: 210.0
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Michael Wilson
+- Player name: Michael Wilson
+- Player ID: 10232
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: ARI
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 64.4
+- Dynasty AVI (D-AVI, 0-100): 83.6
+- Projected PPR points: 176.7
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Makai Lemon
+- Player name: Makai Lemon
+- Player ID: 13294
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 58.3
+- Dynasty AVI (D-AVI, 0-100): 85.6
+- Projected PPR points: 160.8
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Jalen Nailor
+- Player name: Jalen Nailor
+- Player ID: 8180
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: LV
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 46.8
+- Dynasty AVI (D-AVI, 0-100): 70.6
+- Projected PPR points: 130.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Marquise Brown
+- Player name: Marquise Brown
+- Player ID: 5848
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 37.5
+- Dynasty AVI (D-AVI, 0-100): 62.4
+- Projected PPR points: 89.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Sam LaPorta
 - Player name: Sam LaPorta
@@ -234,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 48.8
-- Dynasty AVI (D-AVI, 0-100): 79.6
+- Championship AVI (C-AVI, 0-100): 86.9
+- Dynasty AVI (D-AVI, 0-100): 88.1
 - Projected PPR points: 183.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -251,11 +257,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 61.4
+- Dynasty AVI (D-AVI, 0-100): 74.2
+- Projected PPR points: 153.6
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Harrison Butker
 - Player name: Harrison Butker

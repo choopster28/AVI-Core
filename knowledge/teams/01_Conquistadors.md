@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-08-09
+- Last updated from Sleeper exports: 2026-08-10
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,21 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 3
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 440.7
-- championship_lineup_c_avi_avg: 73.45
-- offensive_roster_c_avi_sum: 440.7
-- offensive_roster_c_avi_avg: 25.92
-- offensive_roster_d_avi_sum: 536.0
-- offensive_roster_d_avi_avg: 31.53
+- championship_lineup_c_avi_sum: 723.2
+- championship_lineup_c_avi_avg: 90.40
+- offensive_roster_c_avi_sum: 1055.6
+- offensive_roster_c_avi_avg: 62.09
+- offensive_roster_d_avi_sum: 1276.6
+- offensive_roster_d_avi_avg: 75.09
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Josh Allen | C-AVI: 97.9 | D-AVI: 92.9
-- RB: Bijan Robinson | C-AVI: 93.6 | D-AVI: 96.2
-- RB: De'Von Achane | C-AVI: 62.7 | D-AVI: 88.3
-- WR: Puka Nacua | C-AVI: 97.7 | D-AVI: 96.5
-- WR: George Pickens | C-AVI: 33.7 | D-AVI: 80.7
-- TE: Harold Fannin | C-AVI: 55.1 | D-AVI: 81.4
+- QB: Josh Allen | C-AVI: 99.6 | D-AVI: 93.3
+- RB: Bijan Robinson | C-AVI: 99.4 | D-AVI: 98.4
+- RB: De'Von Achane | C-AVI: 97.5 | D-AVI: 96.8
+- WR: Puka Nacua | C-AVI: 99.6 | D-AVI: 99.4
+- WR: George Pickens | C-AVI: 93.3 | D-AVI: 95.9
+- TE: Harold Fannin | C-AVI: 90.5 | D-AVI: 89.4
+- FLEX: Ladd McConkey | C-AVI: 80.5 | D-AVI: 92.3
+- FLEX: Juwan Johnson | C-AVI: 62.8 | D-AVI: 75.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -51,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 97.9
-- Dynasty AVI (D-AVI, 0-100): 92.9
+- Championship AVI (C-AVI, 0-100): 99.6
+- Dynasty AVI (D-AVI, 0-100): 93.3
 - Projected PPR points: 372.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -68,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 42.6
+- Dynasty AVI (D-AVI, 0-100): 61.0
+- Projected PPR points: 232.4
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Bijan Robinson
 - Player name: Bijan Robinson
@@ -85,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 93.6
-- Dynasty AVI (D-AVI, 0-100): 96.2
+- Championship AVI (C-AVI, 0-100): 99.4
+- Dynasty AVI (D-AVI, 0-100): 98.4
 - Projected PPR points: 372.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -102,9 +104,43 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 62.7
-- Dynasty AVI (D-AVI, 0-100): 88.3
+- Championship AVI (C-AVI, 0-100): 97.5
+- Dynasty AVI (D-AVI, 0-100): 96.8
 - Projected PPR points: 292.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Tyjae Spears
+- Player name: Tyjae Spears
+- Player ID: 9508
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 51.4
+- Dynasty AVI (D-AVI, 0-100): 72.4
+- Projected PPR points: 136.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Keaton Mitchell
+- Player name: Keaton Mitchell
+- Player ID: 9511
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: LAC
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 43.4
+- Dynasty AVI (D-AVI, 0-100): 68.8
+- Projected PPR points: 70.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -119,45 +155,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 40.0
+- Dynasty AVI (D-AVI, 0-100): 62.4
+- Projected PPR points: 73.0
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Keaton Mitchell
-- Player name: Keaton Mitchell
-- Player ID: 9511
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Tyjae Spears
-- Player name: Tyjae Spears
-- Player ID: 9508
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: TEN
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Puka Nacua
 - Player name: Puka Nacua
@@ -170,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 97.7
-- Dynasty AVI (D-AVI, 0-100): 96.5
+- Championship AVI (C-AVI, 0-100): 99.6
+- Dynasty AVI (D-AVI, 0-100): 99.4
 - Projected PPR points: 339.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -187,9 +189,94 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 33.7
-- Dynasty AVI (D-AVI, 0-100): 80.7
+- Championship AVI (C-AVI, 0-100): 93.3
+- Dynasty AVI (D-AVI, 0-100): 95.9
 - Projected PPR points: 252.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Ladd McConkey
+- Player name: Ladd McConkey
+- Player ID: 11635
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: LAC
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 80.5
+- Dynasty AVI (D-AVI, 0-100): 92.3
+- Projected PPR points: 212.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Matthew Golden
+- Player name: Matthew Golden
+- Player ID: 12501
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 54.5
+- Dynasty AVI (D-AVI, 0-100): 78.4
+- Projected PPR points: 157.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: De'Zhaun Stribling
+- Player name: De'Zhaun Stribling
+- Player ID: 13417
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: SF
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 48.0
+- Dynasty AVI (D-AVI, 0-100): 74.4
+- Projected PPR points: 128.9
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Skyler Bell
+- Player name: Skyler Bell
+- Player ID: 13402
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: BUF
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 27.3
+- Dynasty AVI (D-AVI, 0-100): 62.4
+- Projected PPR points: 42.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Cyrus Allen
+- Player name: Cyrus Allen
+- Player ID: 13413
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 25.2
+- Dynasty AVI (D-AVI, 0-100): 55.8
+- Projected PPR points: 43.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -210,91 +297,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
 
-### PLAYER: Cyrus Allen
-- Player name: Cyrus Allen
-- Player ID: 13413
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: KC
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: De'Zhaun Stribling
-- Player name: De'Zhaun Stribling
-- Player ID: 13417
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: SF
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Ladd McConkey
-- Player name: Ladd McConkey
-- Player ID: 11635
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Matthew Golden
-- Player name: Matthew Golden
-- Player ID: 12501
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Skyler Bell
-- Player name: Skyler Bell
-- Player ID: 13402
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: BUF
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
 ### PLAYER: Harold Fannin
 - Player name: Harold Fannin
 - Player ID: 12506
@@ -306,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 55.1
-- Dynasty AVI (D-AVI, 0-100): 81.4
+- Championship AVI (C-AVI, 0-100): 90.5
+- Dynasty AVI (D-AVI, 0-100): 89.4
 - Projected PPR points: 188.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -323,11 +325,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 62.8
+- Dynasty AVI (D-AVI, 0-100): 75.5
+- Projected PPR points: 154.1
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Ka'imi Fairbairn
 - Player name: Ka'imi Fairbairn

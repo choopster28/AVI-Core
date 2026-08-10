@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 4
-- Last updated from Sleeper exports: 2026-08-09
+- Last updated from Sleeper exports: 2026-08-10
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,20 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 276.9
-- championship_lineup_c_avi_avg: 55.38
-- offensive_roster_c_avi_sum: 276.9
-- offensive_roster_c_avi_avg: 21.30
-- offensive_roster_d_avi_sum: 408.5
-- offensive_roster_d_avi_avg: 31.42
+- championship_lineup_c_avi_sum: 630.4
+- championship_lineup_c_avi_avg: 78.80
+- offensive_roster_c_avi_sum: 867.5
+- offensive_roster_c_avi_avg: 66.73
+- offensive_roster_d_avi_sum: 1039.8
+- offensive_roster_d_avi_avg: 79.98
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Brock Purdy | C-AVI: 41.3 | D-AVI: 73.2
-- WR: Jaxon Smith-Njigba | C-AVI: 85.3 | D-AVI: 94.1
-- WR: Amon-Ra St. Brown | C-AVI: 79.5 | D-AVI: 92.4
-- TE: Dallas Goedert | C-AVI: 36.7 | D-AVI: 71.4
-- FLEX: Tucker Kraft | C-AVI: 34.1 | D-AVI: 77.4
+- QB: Brock Purdy | C-AVI: 78.3 | D-AVI: 81.2
+- RB: Aaron Jones | C-AVI: 57.0 | D-AVI: 73.9
+- RB: Zach Charbonnet | C-AVI: 52.3 | D-AVI: 78.9
+- WR: Jaxon Smith-Njigba | C-AVI: 99.1 | D-AVI: 99.6
+- WR: Amon-Ra St. Brown | C-AVI: 98.6 | D-AVI: 99.0
+- TE: Tucker Kraft | C-AVI: 81.4 | D-AVI: 87.9
+- FLEX: Tee Higgins | C-AVI: 82.5 | D-AVI: 91.0
+- FLEX: Dallas Goedert | C-AVI: 81.2 | D-AVI: 81.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -50,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 41.3
-- Dynasty AVI (D-AVI, 0-100): 73.2
+- Championship AVI (C-AVI, 0-100): 78.3
+- Dynasty AVI (D-AVI, 0-100): 81.2
 - Projected PPR points: 307.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -67,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 45.9
+- Dynasty AVI (D-AVI, 0-100): 66.1
+- Projected PPR points: 248.9
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Aaron Jones
 - Player name: Aaron Jones
@@ -84,28 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 57.0
+- Dynasty AVI (D-AVI, 0-100): 73.9
+- Projected PPR points: 168.1
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Isiah Pacheco
-- Player name: Isiah Pacheco
-- Player ID: 8205
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: DET
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Zach Charbonnet
 - Player name: Zach Charbonnet
@@ -118,11 +104,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 52.3
+- Dynasty AVI (D-AVI, 0-100): 78.9
+- Projected PPR points: 123.1
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Isiah Pacheco
+- Player name: Isiah Pacheco
+- Player ID: 8205
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: DET
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 49.0
+- Dynasty AVI (D-AVI, 0-100): 71.3
+- Projected PPR points: 115.9
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jaxon Smith-Njigba
 - Player name: Jaxon Smith-Njigba
@@ -135,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 85.3
-- Dynasty AVI (D-AVI, 0-100): 94.1
+- Championship AVI (C-AVI, 0-100): 99.1
+- Dynasty AVI (D-AVI, 0-100): 99.6
 - Projected PPR points: 324.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -152,9 +155,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 79.5
-- Dynasty AVI (D-AVI, 0-100): 92.4
+- Championship AVI (C-AVI, 0-100): 98.6
+- Dynasty AVI (D-AVI, 0-100): 99.0
 - Projected PPR points: 319.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Tee Higgins
+- Player name: Tee Higgins
+- Player ID: 6801
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CIN
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 82.5
+- Dynasty AVI (D-AVI, 0-100): 91.0
+- Projected PPR points: 221.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -169,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 58.4
+- Dynasty AVI (D-AVI, 0-100): 72.0
+- Projected PPR points: 174.0
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Kayshon Boutte
 - Player name: Kayshon Boutte
@@ -186,11 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 44.2
+- Dynasty AVI (D-AVI, 0-100): 70.7
+- Projected PPR points: 105.5
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Ryan Flournoy
 - Player name: Ryan Flournoy
@@ -203,43 +223,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Tee Higgins
-- Player name: Tee Higgins
-- Player ID: 6801
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CIN
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
-### PLAYER: Dallas Goedert
-- Player name: Dallas Goedert
-- Player ID: 5022
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 31.0
-- Championship AVI (C-AVI, 0-100): 36.7
-- Dynasty AVI (D-AVI, 0-100): 71.4
-- Projected PPR points: 179.3
+- Championship AVI (C-AVI, 0-100): 39.6
+- Dynasty AVI (D-AVI, 0-100): 66.9
+- Projected PPR points: 89.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -254,9 +240,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 34.1
-- Dynasty AVI (D-AVI, 0-100): 77.4
+- Championship AVI (C-AVI, 0-100): 81.4
+- Dynasty AVI (D-AVI, 0-100): 87.9
 - Projected PPR points: 175.3
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Dallas Goedert
+- Player name: Dallas Goedert
+- Player ID: 5022
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 81.2
+- Dynasty AVI (D-AVI, 0-100): 81.3
+- Projected PPR points: 179.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

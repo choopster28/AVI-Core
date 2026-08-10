@@ -198,6 +198,15 @@
     "sleeper_id": "2505"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "14338",
+    "match_method": "exact_name_position",
+    "nfl_team": "LVR",
+    "player_name": "Raheem Mostert",
+    "position": "RB",
+    "sleeper_id": "2749"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "15501",
     "match_method": "exact_name_position_unique",
@@ -394,6 +403,15 @@
     "player_name": "Kareem Hunt",
     "position": "RB",
     "sleeper_id": "4098"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "16427",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NYG",
+    "player_name": "JuJu Smith-Schuster",
+    "position": "WR",
+    "sleeper_id": "4040"
   },
   {
     "confidence": "verified",
@@ -667,6 +685,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "17508",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Durham Smythe",
+    "position": "TE",
+    "sleeper_id": "5008"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "17527",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NO",
@@ -844,6 +871,15 @@
     "player_name": "Gardner Minshew II",
     "position": "QB",
     "sleeper_id": "6011"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "18566",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "TB",
+    "player_name": "David Sills V",
+    "position": "WR",
+    "sleeper_id": "6154"
   },
   {
     "confidence": "verified",
@@ -1144,6 +1180,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "19483",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "WAS",
+    "player_name": "Van Jefferson",
+    "position": "WR",
+    "sleeper_id": "6853"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "19539",
     "match_method": "exact_name_position_unique",
     "nfl_team": "KC",
@@ -1285,6 +1330,15 @@
     "player_name": "Darnell Mooney",
     "position": "WR",
     "sleeper_id": "7090"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "19844",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NE",
+    "player_name": "Reggie Gilliam",
+    "position": "RB",
+    "sleeper_id": "7204"
   },
   {
     "confidence": "verified",
@@ -3412,6 +3466,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "26748",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "HOU",
+    "player_name": "British Brooks",
+    "position": "RB",
+    "sleeper_id": "12171"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "26763",
     "match_method": "exact_name_position_unique",
     "nfl_team": "IND",
@@ -4177,6 +4240,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "28717",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Dontae McMillan",
+    "position": "RB",
+    "sleeper_id": "13852"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "28757",
     "match_method": "exact_name_position_unique",
     "nfl_team": "BAL",
@@ -4192,5 +4264,14 @@
     "player_name": "Roman Wilson",
     "position": "WR",
     "sleeper_id": "11630"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28906",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CAR",
+    "player_name": "Miles Davis",
+    "position": "RB",
+    "sleeper_id": "14044"
   }
 ]
