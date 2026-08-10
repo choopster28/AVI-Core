@@ -16,7 +16,7 @@ jobs:
       - name: Install AVI Core
         run: |
           python -m pip install --upgrade pip
-          python -m pip install -e .
+          python -m pip install -e . pytest
       - name: Remove retired 2026 picks from raw Sleeper snapshots
         run: |
           python - <<'PY'
