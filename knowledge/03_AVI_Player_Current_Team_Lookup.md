@@ -188,6 +188,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
 
+## PLAYER LOOKUP: Bryce Lance
+- Player name: Bryce Lance
+- Player ID: 13420
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
 ## PLAYER LOOKUP: Bryce Young
 - Player name: Bryce Young
 - Player ID: 9228
@@ -216,6 +224,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Cade Otton
 - Player ID: 8111
 - Position: TE
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
+## PLAYER LOOKUP: Caleb Douglas
+- Player name: Caleb Douglas
+- Player ID: 13296
+- Position: WR
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
@@ -1115,14 +1131,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
-
-## PLAYER LOOKUP: Keenan Allen
-- Player name: Keenan Allen
-- Player ID: 1479
-- Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: Kenneth Walker
 - Player name: Kenneth Walker
@@ -2288,15 +2296,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 58.4
 - Availability: available
 
-## AVAILABLE PLAYER: Caleb Douglas
-- Player name: Caleb Douglas
-- Player ID: 13296
-- Position: WR
-- NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 34.0
-- Dynasty AVI (D-AVI, 0-100): 59.8
-- Availability: available
-
 ## AVAILABLE PLAYER: Ollie Gordon
 - Player name: Ollie Gordon
 - Player ID: 12495
@@ -2673,15 +2672,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 24.6
 - Dynasty AVI (D-AVI, 0-100): 41.8
-- Availability: available
-
-## AVAILABLE PLAYER: Bryce Lance
-- Player name: Bryce Lance
-- Player ID: 13420
-- Position: WR
-- NFL team: NO
-- Championship AVI (C-AVI, 0-100): 24.5
-- Dynasty AVI (D-AVI, 0-100): 60.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Justin Joly
@@ -3418,6 +3408,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 4098
 - Position: RB
 - NFL team: FA
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Availability: available
+
+## AVAILABLE PLAYER: Keenan Allen
+- Player name: Keenan Allen
+- Player ID: 1479
+- Position: WR
+- NFL team: LAC
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
 - Availability: available

@@ -507,18 +507,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00013296",
-      "c_avi": 34.0,
-      "d_avi": 59.8,
-      "nfl_team": "MIA",
-      "player_name": "Caleb Douglas",
-      "position": "WR",
-      "sleeper_id": "13296",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012495",
       "c_avi": 34.0,
       "d_avi": 66.2,
@@ -1018,18 +1006,6 @@
       "player_name": "Ty Chandler",
       "position": "RB",
       "sleeper_id": "8230",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013420",
-      "c_avi": 24.5,
-      "d_avi": 60.2,
-      "nfl_team": "NO",
-      "player_name": "Bryce Lance",
-      "position": "WR",
-      "sleeper_id": "13420",
       "status": "Active"
     },
     {
@@ -2019,6 +1995,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00001479",
+      "c_avi": 0.0,
+      "d_avi": 0.0,
+      "nfl_team": "LAC",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "sleeper_id": "1479",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008783",
       "c_avi": 0.0,
       "d_avi": 0.0,
@@ -2294,8 +2282,8 @@
     }
   ],
   "counts": {
-    "available_players": 191,
-    "rostered_players": 238
+    "available_players": 190,
+    "rostered_players": 239
   },
   "rostered_players": [
     {
@@ -2669,6 +2657,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00013420",
+      "c_avi": 24.5,
+      "d_avi": 60.2,
+      "nfl_team": "NO",
+      "owner_id": "737531831641128960",
+      "player_name": "Bryce Lance",
+      "position": "WR",
+      "roster_id": 7,
+      "sleeper_id": "13420",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00009228",
       "c_avi": 46.0,
       "d_avi": 66.3,
@@ -2726,6 +2730,22 @@
       "position": "TE",
       "roster_id": 7,
       "sleeper_id": "8111",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013296",
+      "c_avi": 34.0,
+      "d_avi": 59.8,
+      "nfl_team": "MIA",
+      "owner_id": "737531831641128960",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "roster_id": 7,
+      "sleeper_id": "13296",
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
@@ -4521,22 +4541,6 @@
       "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00001479",
-      "c_avi": 0.0,
-      "d_avi": 0.0,
-      "nfl_team": "LAC",
-      "owner_id": "737531831641128960",
-      "player_name": "Keenan Allen",
-      "position": "WR",
-      "roster_id": 7,
-      "sleeper_id": "1479",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
     },
     {
       "active": true,
