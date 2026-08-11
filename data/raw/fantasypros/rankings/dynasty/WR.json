@@ -6475,7 +6475,7 @@
     {
       "cbs_player_id": "2179226",
       "player_age": "29",
-      "player_bye_week": null,
+      "player_bye_week": "10",
       "player_ecr_delta": null,
       "player_eligibility": "WR",
       "player_filename": "ray-ray-mccloud.php",
@@ -6488,7 +6488,7 @@
       "player_position_id": "WR",
       "player_positions": "WR",
       "player_short_name": "R. McCloud III",
-      "player_team_id": "FA",
+      "player_team_id": "CHI",
       "player_yahoo_id": "31157",
       "player_yahoo_positions": "WR",
       "pos_rank": "WR232",

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-08-10
+- Last updated from Sleeper exports: 2026-08-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 3
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 723.2
-- championship_lineup_c_avi_avg: 90.40
-- offensive_roster_c_avi_sum: 1055.6
-- offensive_roster_c_avi_avg: 62.09
-- offensive_roster_d_avi_sum: 1276.6
-- offensive_roster_d_avi_avg: 75.09
+- championship_lineup_c_avi_sum: 723.0
+- championship_lineup_c_avi_avg: 90.38
+- offensive_roster_c_avi_sum: 1054.3
+- offensive_roster_c_avi_avg: 62.02
+- offensive_roster_d_avi_sum: 1276.4
+- offensive_roster_d_avi_avg: 75.08
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,9 +34,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Bijan Robinson | C-AVI: 99.4 | D-AVI: 98.4
 - RB: De'Von Achane | C-AVI: 97.5 | D-AVI: 96.8
 - WR: Puka Nacua | C-AVI: 99.6 | D-AVI: 99.4
-- WR: George Pickens | C-AVI: 93.3 | D-AVI: 95.9
+- WR: George Pickens | C-AVI: 93.2 | D-AVI: 95.9
 - TE: Harold Fannin | C-AVI: 90.5 | D-AVI: 89.4
-- FLEX: Ladd McConkey | C-AVI: 80.5 | D-AVI: 92.3
+- FLEX: Ladd McConkey | C-AVI: 80.4 | D-AVI: 92.2
 - FLEX: Juwan Johnson | C-AVI: 62.8 | D-AVI: 75.5
 
 ## Current Roster — All Player Cards
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 51.4
+- Championship AVI (C-AVI, 0-100): 51.3
 - Dynasty AVI (D-AVI, 0-100): 72.4
 - Projected PPR points: 136.4
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 93.3
+- Championship AVI (C-AVI, 0-100): 93.2
 - Dynasty AVI (D-AVI, 0-100): 95.9
 - Projected PPR points: 252.2
 - Category: offense
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 80.5
-- Dynasty AVI (D-AVI, 0-100): 92.3
+- Championship AVI (C-AVI, 0-100): 80.4
+- Dynasty AVI (D-AVI, 0-100): 92.2
 - Projected PPR points: 212.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 54.5
+- Championship AVI (C-AVI, 0-100): 54.3
 - Dynasty AVI (D-AVI, 0-100): 78.4
 - Projected PPR points: 157.1
 - Category: offense
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 48.0
+- Championship AVI (C-AVI, 0-100): 47.8
 - Dynasty AVI (D-AVI, 0-100): 74.4
 - Projected PPR points: 128.9
 - Category: offense
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 27.3
+- Championship AVI (C-AVI, 0-100): 27.0
 - Dynasty AVI (D-AVI, 0-100): 62.4
 - Projected PPR points: 42.6
 - Category: offense
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 25.2
-- Dynasty AVI (D-AVI, 0-100): 55.8
+- Championship AVI (C-AVI, 0-100): 24.9
+- Dynasty AVI (D-AVI, 0-100): 55.7
 - Projected PPR points: 43.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

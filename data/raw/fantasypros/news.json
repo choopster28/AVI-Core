@@ -3,6 +3,76 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Cooper Kleinberg",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-08-10 23:58:14",
+      "created_formated": "Mon, Aug 10th 11:58pm UTC",
+      "desc": "The 49ers are confident TE George Kittle will be ready for Week 1 against the Rams.",
+      "id": 601667,
+      "impact": "Kittle suffered an Achilles tear during last year's postseason, leaving uncertainty about his status entering 2026. However, he appears to be making excellent progress in his recovery, leading San Francisco to believe he will suit up for Week 1. Kittle has been drafted as a low-end TE1 throughout the summer, but could see a rise in ADP with this news.",
+      "link": "https://www.fantasypros.com/nfl/news/601667/george-kittle-achilles-making-terrific-progress-could-play-week-1.php",
+      "player_id": 16499,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "George Kittle (Achilles) making 'terrific progress,' could play Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-10 22:36:11",
+      "created_formated": "Mon, Aug 10th 10:36pm UTC",
+      "desc": "The Falcons signed RB Trey Sermon.",
+      "id": 601651,
+      "impact": "Sermon appeared in four games with the Steelers last season. He will compete for a depth role in the Falcons backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/601651/trey-sermon-signs-with-falcons.php",
+      "player_id": 19425,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Trey Sermon signs with Falcons"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-10 21:22:17",
+      "created_formated": "Mon, Aug 10th 9:22pm UTC",
+      "desc": "Malik Nabers continues to make progress, but he still wasn't participating in team drills on Monday. ",
+      "id": 601644,
+      "impact": "Stapleton notes that Nabers \"looked to be opening up during his rehab work early and then with the training staff on opposite field as team drills went on.\" He was able to participate in position drills with the quarterbacks again as he continues to make progress. ",
+      "link": "https://www.fantasypros.com/nfl/news/601644/malik-nabers-knee-progressing-not-cleared-team-drills-yet.php",
+      "player_id": 25409,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Malik Nabers (knee) progressing, not cleared for team drills yet"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-10 20:50:22",
+      "created_formated": "Mon, Aug 10th 8:50pm UTC",
+      "desc": "The Cowboys and DL Quinnen Williams have agreed to terms on a three-year, $105.9M extension.",
+      "id": 601643,
+      "impact": "The deal makes Williams one of the highest paid defensive lineman in the NFL. He was acquired in a trade from the Jets last season. ",
+      "link": "https://www.fantasypros.com/nfl/news/601643/quinnen-williams-signs-three-year-extension-with-cowboys.php",
+      "player_id": 18200,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Quinnen Williams signs three-year extension with Cowboys "
+    },
+    {
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
@@ -375,75 +445,6 @@
       "sport_id": "NFL",
       "team_id": "NE",
       "title": "Hunter Henry agrees to two year extension with Patriots"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-10 05:39:15",
-      "created_formated": "Mon, Aug 10th 5:39am UTC",
-      "desc": "The Patriots waived rookie DT David Blay Jr.",
-      "id": 601519,
-      "impact": "Blay will figure to seek another opportunity. New England signed safety Eric Butler as the corresponding move. ",
-      "link": "https://www.fantasypros.com/nfl/news/601519/david-blay-jr-waived-by-patriots.php",
-      "player_id": 28682,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "David Blay Jr. waived by Patriots "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-10 05:38:05",
-      "created_formated": "Mon, Aug 10th 5:38am UTC",
-      "desc": "The Patriots signed safety Eric Butler. ",
-      "id": 601518,
-      "impact": "Butler is an undrafted rookie out of San Diego State. He will compete for a depth role in the Patriots secondary. ",
-      "link": "https://www.fantasypros.com/nfl/news/601518/eric-butler-signs-with-patriots.php",
-      "player_id": 29420,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Eric Butler signs with Patriots "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-10 05:36:38",
-      "created_formated": "Mon, Aug 10th 5:36am UTC",
-      "desc": "The Bears placed DB Dallis Flowers on injured reserve.",
-      "id": 601517,
-      "impact": "Flowers went down in practice earlier this week. He will likely miss the upcoming season. ",
-      "link": "https://www.fantasypros.com/nfl/news/601517/dallis-flowers-leg-placed-on-ir.php",
-      "player_id": 24883,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Dallis Flowers (leg) placed on IR"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-10 05:35:27",
-      "created_formated": "Mon, Aug 10th 5:35am UTC",
-      "desc": "The Bears signed DB Xavier Woods. ",
-      "id": 601516,
-      "impact": "Woods spent last season with the Titans. He totaled 39 tackles and two interceptions across 11 games played with 10 starts. ",
-      "link": "https://www.fantasypros.com/nfl/news/601516/xavier-woods-signs-with-bears.php",
-      "player_id": 16637,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Xavier Woods signs with Bears "
     }
   ],
   "public_api_limited": true,

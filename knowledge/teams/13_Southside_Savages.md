@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-08-10
+- Last updated from Sleeper exports: 2026-08-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 637.9
-- championship_lineup_c_avi_avg: 79.74
-- offensive_roster_c_avi_sum: 797.7
-- offensive_roster_c_avi_avg: 72.52
+- championship_lineup_c_avi_sum: 637.8
+- championship_lineup_c_avi_avg: 79.72
+- offensive_roster_c_avi_sum: 797.4
+- offensive_roster_c_avi_avg: 72.49
 - offensive_roster_d_avi_sum: 922.2
 - offensive_roster_d_avi_avg: 83.84
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Josh Jacobs | C-AVI: 88.2 | D-AVI: 89.1
 - RB: Travis Etienne | C-AVI: 81.0 | D-AVI: 89.4
 - WR: Tetairoa McMillan | C-AVI: 85.7 | D-AVI: 95.1
-- WR: Jaylen Waddle | C-AVI: 78.2 | D-AVI: 89.6
+- WR: Jaylen Waddle | C-AVI: 78.1 | D-AVI: 89.6
 - TE: Chig Okonkwo | C-AVI: 56.6 | D-AVI: 77.0
 - FLEX: Luther Burden | C-AVI: 76.9 | D-AVI: 90.8
 - FLEX: TreVeyon Henderson | C-AVI: 73.0 | D-AVI: 89.3
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 78.2
+- Championship AVI (C-AVI, 0-100): 78.1
 - Dynasty AVI (D-AVI, 0-100): 89.6
 - Projected PPR points: 209.7
 - Category: offense
@@ -206,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 62.9
+- Championship AVI (C-AVI, 0-100): 62.7
 - Dynasty AVI (D-AVI, 0-100): 80.4
 - Projected PPR points: 176.4
 - Category: offense
