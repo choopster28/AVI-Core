@@ -46980,7 +46980,7 @@
     "team": "BUF",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "228",
+    "weight": "214",
     "yahoo_id": null,
     "years_exp": 3
   },
@@ -54165,7 +54165,7 @@
       "genius_id": "1463652",
       "rookie_year": "2024"
     },
-    "news_updated": 1785677453405,
+    "news_updated": 1786458638807,
     "number": 10,
     "oddsjam_id": "AC5A5CA4A398",
     "opta_id": null,
@@ -54226,7 +54226,7 @@
       "genius_id": "1463678",
       "rookie_year": "2024"
     },
-    "news_updated": 1785534334591,
+    "news_updated": 1786455938304,
     "number": 10,
     "oddsjam_id": "6D0BFFA64D78",
     "opta_id": null,
@@ -58307,7 +58307,7 @@
       "genius_id": "1463649",
       "rookie_year": "2024"
     },
-    "news_updated": 1785680453611,
+    "news_updated": 1786456838546,
     "number": 15,
     "oddsjam_id": "ABDFEE4C1B2F",
     "opta_id": null,
@@ -63000,7 +63000,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "294",
+    "weight": "295",
     "yahoo_id": null,
     "years_exp": 2
   },
@@ -83516,7 +83516,7 @@
     "full_name": "Keni-H Lovely",
     "gsis_id": null,
     "hashtag": "#kenihlovely-NFL-JAX-31",
-    "height": "70",
+    "height": "71",
     "high_school": "Maury (VA)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -83553,7 +83553,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "182",
+    "weight": "175",
     "yahoo_id": null,
     "years_exp": 2
   },
@@ -116266,7 +116266,7 @@
       "rookie_year": "2025",
       "source_id": "e7af373f-e0f6-4e57-99f4-c7981087250e"
     },
-    "news_updated": 1786237814070,
+    "news_updated": 1786454738010,
     "number": 13,
     "oddsjam_id": "35DF24DDDDAB32DD",
     "opta_id": null,
@@ -117381,7 +117381,7 @@
       "rookie_year": "2025",
       "source_id": "092d193d-8f4c-41c5-9e14-1475427dd64b"
     },
-    "news_updated": 1786134314907,
+    "news_updated": 1786458038205,
     "number": 6,
     "oddsjam_id": "4C8EBE787A8D7560",
     "opta_id": null,
@@ -118664,7 +118664,7 @@
       "rookie_year": "2025",
       "source_id": "792d3cd0-8f56-11ec-9f33-1965c9c46e44"
     },
-    "news_updated": 1785765904808,
+    "news_updated": 1786455037819,
     "number": 2,
     "oddsjam_id": "68B73F2163030874",
     "opta_id": null,
@@ -143440,10 +143440,10 @@
     "hashtag": "#malikverdon-NFL-ATL-43",
     "height": "76",
     "high_school": "Hamilton (OH)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "3a50f468-8a1c-40b2-b230-46541f6a6154",
     "last_name": "Verdon",
     "metadata": {
@@ -169642,7 +169642,7 @@
       "rookie_year": "2026",
       "source_id": "0d044fc0-8953-11ec-a69b-29b9a26b6a2e"
     },
-    "news_updated": 1786416332498,
+    "news_updated": 1786457138337,
     "number": 8,
     "oddsjam_id": null,
     "opta_id": null,
@@ -170519,7 +170519,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "245",
+    "weight": "250",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -173865,7 +173865,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "199",
+    "weight": "204",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -182352,7 +182352,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "196",
+    "weight": "201",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -182410,7 +182410,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "314",
+    "weight": "318",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -182470,7 +182470,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "295",
+    "weight": "317",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -194100,7 +194100,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "250",
+    "weight": "235",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -199360,7 +199360,7 @@
       "genius_id": "758015",
       "rookie_year": "2013"
     },
-    "news_updated": 1786065907796,
+    "news_updated": 1786455637846,
     "number": 7,
     "oddsjam_id": "083339653919",
     "opta_id": null,
@@ -200770,7 +200770,7 @@
     "team": "SEA",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "218",
+    "weight": "232",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -204309,7 +204309,7 @@
     "team": "MIA",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "205",
+    "weight": "196",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -210180,7 +210180,7 @@
     "full_name": "Jeadyn Lukus",
     "gsis_id": null,
     "hashtag": "#jeadynlukus-NFL-CLE-38",
-    "height": "74",
+    "height": "77",
     "high_school": "Mauldin (SC)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -221173,7 +221173,7 @@
     "team": "DEN",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "193",
+    "weight": "190",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -222132,7 +222132,7 @@
     "team": "SEA",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "200",
+    "weight": "190",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -222191,7 +222191,7 @@
     "team": "NYG",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "270",
+    "weight": "281",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -283956,7 +283956,7 @@
     "full_name": "Ameer Abdullah",
     "gsis_id": "00-0032104",
     "hashtag": "#ameerabdullah-NFL-JAX-43",
-    "height": "68",
+    "height": "69",
     "high_school": "Homewood (AL)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -405788,7 +405788,7 @@
     "team": "CHI",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "200",
+    "weight": "202",
     "yahoo_id": 30304,
     "years_exp": 9
   },
@@ -409362,7 +409362,7 @@
     "team": "WAS",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "300",
+    "weight": "260",
     "yahoo_id": 30449,
     "years_exp": 9
   },
@@ -457241,7 +457241,7 @@
     "full_name": "Geron Christian",
     "gsis_id": "00-0034817",
     "hashtag": "#geronchristian-NFL-JAX-75",
-    "height": "77",
+    "height": "78",
     "high_school": "Trinity Catholic (FL)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -457278,7 +457278,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "302",
+    "weight": "315",
     "yahoo_id": 31044,
     "years_exp": 8
   },
@@ -535087,7 +535087,7 @@
     "team": "HOU",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "238",
+    "weight": "245",
     "yahoo_id": 31912,
     "years_exp": 7
   },
@@ -535777,7 +535777,7 @@
     "full_name": "Juwann Winfree",
     "gsis_id": " 00-0035593",
     "hashtag": "#juwannwinfree-NFL-HOU-15",
-    "height": "75",
+    "height": "73",
     "high_school": "Dwight Morrow (NJ)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -535813,7 +535813,7 @@
     "team": "HOU",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "215",
+    "weight": "210",
     "yahoo_id": 32019,
     "years_exp": 7
   },
@@ -638266,7 +638266,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "330",
+    "weight": "355",
     "yahoo_id": null,
     "years_exp": 5
   },
@@ -647131,7 +647131,7 @@
     "full_name": "Amen Ogbongbemiga",
     "gsis_id": null,
     "hashtag": "#amenogbongbemiga-NFL-DET-45",
-    "height": "73",
+    "height": "72",
     "high_school": "Notre Dame (CAN)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -647168,7 +647168,7 @@
     "team": "DET",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "226",
+    "weight": "231",
     "yahoo_id": null,
     "years_exp": 5
   },
@@ -660527,7 +660527,7 @@
       "injury_override_regular_2024_6": "Out",
       "rookie_year": "2022"
     },
-    "news_updated": 1785373213670,
+    "news_updated": 1786458339176,
     "number": 4,
     "oddsjam_id": "7DB0E4BED07E",
     "opta_id": null,
@@ -660823,7 +660823,7 @@
       "genius_id": "1079211",
       "rookie_year": "2022"
     },
-    "news_updated": 1786414832174,
+    "news_updated": 1786455638562,
     "number": 14,
     "oddsjam_id": "1FEBF6F68F3D",
     "opta_id": null,
@@ -664289,7 +664289,7 @@
     "team": "DAL",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "215",
+    "weight": "203",
     "yahoo_id": null,
     "years_exp": 4
   },
@@ -682203,7 +682203,7 @@
     "team": "WAS",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "316",
+    "weight": "315",
     "yahoo_id": null,
     "years_exp": 4
   },
@@ -717734,7 +717734,7 @@
       "genius_id": "1399228",
       "rookie_year": "2023"
     },
-    "news_updated": 1785980442829,
+    "news_updated": 1786456538065,
     "number": 13,
     "oddsjam_id": "A600F04E54A1",
     "opta_id": null,
