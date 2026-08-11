@@ -596,14 +596,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
 
-## PLAYER LOOKUP: Emanuel Wilson
-- Player name: Emanuel Wilson
-- Player ID: 11435
-- Position: RB
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Emeka Egbuka
 - Player name: Emeka Egbuka
 - Player ID: 12514
@@ -635,6 +627,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
+
+## PLAYER LOOKUP: George Holani
+- Player name: George Holani
+- Player ID: 12048
+- Position: RB
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: George Kittle
 - Player name: George Kittle
@@ -2081,6 +2081,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 63.9
 - Availability: available
 
+## AVAILABLE PLAYER: Emanuel Wilson
+- Player name: Emanuel Wilson
+- Player ID: 11435
+- Position: RB
+- NFL team: SEA
+- Championship AVI (C-AVI, 0-100): 38.6
+- Dynasty AVI (D-AVI, 0-100): 65.3
+- Availability: available
+
 ## AVAILABLE PLAYER: Shedeur Sanders
 - Player name: Shedeur Sanders
 - Player ID: 12524
@@ -2358,15 +2367,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ARI
 - Championship AVI (C-AVI, 0-100): 32.3
 - Dynasty AVI (D-AVI, 0-100): 56.6
-- Availability: available
-
-## AVAILABLE PLAYER: George Holani
-- Player name: George Holani
-- Player ID: 12048
-- Position: RB
-- NFL team: SEA
-- Championship AVI (C-AVI, 0-100): 32.3
-- Dynasty AVI (D-AVI, 0-100): 55.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Luke Musgrave

@@ -231,6 +231,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011435",
+      "c_avi": 38.6,
+      "d_avi": 65.3,
+      "nfl_team": "SEA",
+      "player_name": "Emanuel Wilson",
+      "position": "RB",
+      "sleeper_id": "11435",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012524",
       "c_avi": 38.4,
       "d_avi": 61.6,
@@ -598,18 +610,6 @@
       "player_name": "Carson Beck",
       "position": "QB",
       "sleeper_id": "13272",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012048",
-      "c_avi": 32.3,
-      "d_avi": 55.2,
-      "nfl_team": "SEA",
-      "player_name": "George Holani",
-      "position": "RB",
-      "sleeper_id": "12048",
       "status": "Active"
     },
     {
@@ -3485,22 +3485,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00011435",
-      "c_avi": 38.6,
-      "d_avi": 65.3,
-      "nfl_team": "SEA",
-      "owner_id": "737531831641128960",
-      "player_name": "Emanuel Wilson",
-      "position": "RB",
-      "roster_id": 7,
-      "sleeper_id": "11435",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00012514",
       "c_avi": 85.3,
       "d_avi": 94.3,
@@ -3561,6 +3545,22 @@
       "status": "Active",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012048",
+      "c_avi": 32.3,
+      "d_avi": 55.2,
+      "nfl_team": "SEA",
+      "owner_id": "737531831641128960",
+      "player_name": "George Holani",
+      "position": "RB",
+      "roster_id": 7,
+      "sleeper_id": "12048",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,
