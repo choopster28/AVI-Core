@@ -7538,7 +7538,7 @@
       "genius_id": "1398964",
       "rookie_year": "2023"
     },
-    "news_updated": 1785627346913,
+    "news_updated": 1786543251784,
     "number": 87,
     "oddsjam_id": "7E1BB2772255",
     "opta_id": null,
@@ -115528,7 +115528,7 @@
       "rookie_year": "2025",
       "source_id": "9c5acd8c-414c-4cfa-8edd-a0e6553bea8c"
     },
-    "news_updated": 1786211432659,
+    "news_updated": 1786543252065,
     "number": 44,
     "oddsjam_id": "5BE524D2DCC75E68",
     "opta_id": null,
@@ -115900,7 +115900,7 @@
       "rookie_year": "2025",
       "source_id": "c0821d6e-e31d-4ccc-b006-9837720c7d6f"
     },
-    "news_updated": 1785610844748,
+    "news_updated": 1786544152482,
     "number": 18,
     "oddsjam_id": "ED3F438D7ED21C58",
     "opta_id": null,
@@ -121852,10 +121852,10 @@
     "hashtag": "#abdulcarter-NFL-NYG-3",
     "height": "75",
     "high_school": "La Salle (PA)",
-    "injury_body_part": "Hand",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "c34ad9aa-54f5-4236-98e0-5dc8dc5c8cc9",
     "last_name": "Carter",
     "metadata": {
@@ -179016,7 +179016,7 @@
       "rookie_year": "2026",
       "source_id": "5b3eac3f-fe81-4635-a564-5145dbcac6f2"
     },
-    "news_updated": 1786374041280,
+    "news_updated": 1786540251426,
     "number": 20,
     "oddsjam_id": null,
     "opta_id": null,
@@ -226340,7 +226340,7 @@
       "genius_id": "758163",
       "rookie_year": "2013"
     },
-    "news_updated": 1785441622858,
+    "news_updated": 1786542051403,
     "number": 87,
     "oddsjam_id": "A7EC5CA607D1",
     "opta_id": null,
@@ -392699,10 +392699,10 @@
     "hashtag": "#jujusmithschuster-NFL-NYG-8",
     "height": "73",
     "high_school": "Long Beach Poly (CA)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "d5cbffaf-9ddc-4ad5-9f3d-fa8e23857a9a",
     "last_name": "Smith-Schuster",
     "metadata": {
@@ -474984,10 +474984,10 @@
     "hashtag": "#zachsieler-NFL-MIA-92",
     "height": "78",
     "high_school": "Pinckney (MI)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "1d19c8c8-3cd3-4a12-9f91-43ff683d57f5",
     "last_name": "Sieler",
     "metadata": {
@@ -474995,7 +474995,7 @@
       "genius_id": "1066956",
       "rookie_year": "2018"
     },
-    "news_updated": 1767723613035,
+    "news_updated": 1786542051982,
     "number": 92,
     "oddsjam_id": "E637620C4D93",
     "opta_id": null,
@@ -585693,7 +585693,7 @@
       "genius_id": "1008015",
       "rookie_year": "2020"
     },
-    "news_updated": 1785596742851,
+    "news_updated": 1786543851842,
     "number": 83,
     "oddsjam_id": "EF80F08FBD39",
     "opta_id": null,
@@ -585743,10 +585743,10 @@
     "hashtag": "#damienlewis-NFL-CAR-68",
     "height": "74",
     "high_school": "Canton (MS)",
-    "injury_body_part": "Calf",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "417aacb2-41fe-465a-b8df-37643b22145a",
     "last_name": "Lewis",
     "metadata": {
@@ -623099,7 +623099,7 @@
       "genius_id": "1073946",
       "rookie_year": "2021"
     },
-    "news_updated": 1786139415697,
+    "news_updated": 1786544752547,
     "number": 7,
     "oddsjam_id": "E9EA7C70CBBD",
     "opta_id": null,
@@ -629446,7 +629446,7 @@
       "genius_id": "1016267",
       "rookie_year": "2021"
     },
-    "news_updated": 1786329933754,
+    "news_updated": 1786544451873,
     "number": 5,
     "oddsjam_id": "B419ABE05C62",
     "opta_id": null,
@@ -659442,7 +659442,7 @@
       "genius_id": "1085245",
       "rookie_year": "2022"
     },
-    "news_updated": 1786113012720,
+    "news_updated": 1786540851289,
     "number": 87,
     "oddsjam_id": "E00598C28F10",
     "opta_id": null,
@@ -661190,7 +661190,7 @@
       "genius_id": "1343228",
       "rookie_year": "2022"
     },
-    "news_updated": 1785597343036,
+    "news_updated": 1786541451390,
     "number": 1,
     "oddsjam_id": "CD981F59AB0B",
     "opta_id": null,
@@ -662094,7 +662094,7 @@
       "genius_id": "1015283",
       "rookie_year": "2022"
     },
-    "news_updated": 1786502445300,
+    "news_updated": 1786542952517,
     "number": 2,
     "oddsjam_id": "BB802A531515",
     "opta_id": null,
@@ -665105,7 +665105,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "e8c7d927-6af9-401b-a6cb-aba7a646710e",
     "last_name": "Thompson",
     "metadata": {
