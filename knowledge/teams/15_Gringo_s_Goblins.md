@@ -21,23 +21,21 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 567.5
-- championship_lineup_c_avi_avg: 70.94
-- offensive_roster_c_avi_sum: 871.3
-- offensive_roster_c_avi_avg: 58.09
-- offensive_roster_d_avi_sum: 1148.3
-- offensive_roster_d_avi_avg: 76.55
+- championship_lineup_c_avi_sum: 401.2
+- championship_lineup_c_avi_avg: 66.87
+- offensive_roster_c_avi_sum: 516.6
+- offensive_roster_c_avi_avg: 34.44
+- offensive_roster_d_avi_sum: 679.4
+- offensive_roster_d_avi_avg: 45.29
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 66.8 | D-AVI: 79.4
-- RB: Kyren Williams | C-AVI: 83.5 | D-AVI: 90.4
-- RB: David Montgomery | C-AVI: 69.8 | D-AVI: 84.3
-- WR: Emeka Egbuka | C-AVI: 85.2 | D-AVI: 94.2
-- WR: Davante Adams | C-AVI: 80.4 | D-AVI: 85.8
-- TE: Jake Ferguson | C-AVI: 73.2 | D-AVI: 81.2
-- FLEX: Jonathon Brooks | C-AVI: 55.2 | D-AVI: 79.3
-- FLEX: Jacory Croskey-Merritt | C-AVI: 53.4 | D-AVI: 76.2
+- WR: Emeka Egbuka | C-AVI: 85.7 | D-AVI: 94.3
+- WR: Davante Adams | C-AVI: 81.0 | D-AVI: 85.9
+- TE: Jake Ferguson | C-AVI: 74.1 | D-AVI: 81.9
+- FLEX: David Njoku | C-AVI: 47.7 | D-AVI: 67.8
+- FLEX: Tank Dell | C-AVI: 45.9 | D-AVI: 68.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -76,74 +74,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Kyren Williams
-- Player name: Kyren Williams
-- Player ID: 8150
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: LAR
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 83.5
-- Dynasty AVI (D-AVI, 0-100): 90.4
-- Projected PPR points: 240.2
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: David Montgomery
-- Player name: David Montgomery
-- Player ID: 5892
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: HOU
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 69.8
-- Dynasty AVI (D-AVI, 0-100): 84.3
-- Projected PPR points: 195.8
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Jonathon Brooks
-- Player name: Jonathon Brooks
-- Player ID: 11583
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: CAR
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 55.2
-- Dynasty AVI (D-AVI, 0-100): 79.3
-- Projected PPR points: 150.8
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Jacory Croskey-Merritt
-- Player name: Jacory Croskey-Merritt
-- Player ID: 12533
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: WAS
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 53.4
-- Dynasty AVI (D-AVI, 0-100): 76.2
-- Projected PPR points: 143.1
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Alvin Kamara
 - Player name: Alvin Kamara
 - Player ID: 4035
@@ -155,11 +85,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 49.5
-- Dynasty AVI (D-AVI, 0-100): 70.0
-- Projected PPR points: 131.4
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Braelon Allen
 - Player name: Braelon Allen
@@ -172,11 +102,79 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 44.2
-- Dynasty AVI (D-AVI, 0-100): 70.2
-- Projected PPR points: 86.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: David Montgomery
+- Player name: David Montgomery
+- Player ID: 5892
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: HOU
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: Jacory Croskey-Merritt
+- Player name: Jacory Croskey-Merritt
+- Player ID: 12533
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: WAS
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: Jonathon Brooks
+- Player name: Jonathon Brooks
+- Player ID: 11583
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: Kyren Williams
+- Player name: Kyren Williams
+- Player ID: 8150
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: LAR
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Emeka Egbuka
 - Player name: Emeka Egbuka
@@ -189,8 +187,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 85.2
-- Dynasty AVI (D-AVI, 0-100): 94.2
+- Championship AVI (C-AVI, 0-100): 85.7
+- Dynasty AVI (D-AVI, 0-100): 94.3
 - Projected PPR points: 228.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -206,8 +204,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 80.4
-- Dynasty AVI (D-AVI, 0-100): 85.8
+- Championship AVI (C-AVI, 0-100): 81.0
+- Dynasty AVI (D-AVI, 0-100): 85.9
 - Projected PPR points: 222.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -240,7 +238,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 41.6
+- Championship AVI (C-AVI, 0-100): 41.7
 - Dynasty AVI (D-AVI, 0-100): 73.5
 - Projected PPR points: 89.4
 - Category: offense
@@ -274,8 +272,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 73.2
-- Dynasty AVI (D-AVI, 0-100): 81.2
+- Championship AVI (C-AVI, 0-100): 74.1
+- Dynasty AVI (D-AVI, 0-100): 81.9
 - Projected PPR points: 167.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -291,8 +289,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 48.9
-- Dynasty AVI (D-AVI, 0-100): 67.2
+- Championship AVI (C-AVI, 0-100): 47.7
+- Dynasty AVI (D-AVI, 0-100): 67.8
 - Projected PPR points: 90.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

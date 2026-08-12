@@ -3054,32 +3054,32 @@
       "team_id": "PHI"
     },
     {
-      "filename": "zavion-thomas.php",
-      "fpid": 28132,
-      "mflid": 17521,
-      "name": "Zavion Thomas",
+      "filename": "xavier-hutchinson.php",
+      "fpid": 25332,
+      "mflid": 16201,
+      "name": "Xavier Hutchinson",
       "position_id": "WR",
       "stats": {
         "2pt_tds": 0,
-        "fumbles": 1.07,
-        "points": 41.01,
-        "points_half": 52.38,
-        "points_ppr": 63.75,
-        "rec_rec": 22.74,
-        "rec_tds": 2.11,
-        "rec_yds": 298.31,
+        "fumbles": 0.06,
+        "points": 40.68,
+        "points_half": 52.3,
+        "points_ppr": 63.91,
+        "rec_rec": 23.23,
+        "rec_tds": 1.87,
+        "rec_yds": 279.54,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
-        "rush_att": 1,
-        "rush_tds": 0,
-        "rush_yds": 6.5,
+        "rush_att": 2.05,
+        "rush_tds": 0.04,
+        "rush_yds": 14.2,
         "rush_yds_100": 0,
         "rush_yds_200": 0,
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "CHI"
+      "team_id": "HOU"
     },
     {
       "filename": "keon-coleman.php",
@@ -3642,6 +3642,34 @@
       "team_id": "NO"
     },
     {
+      "filename": "zavion-thomas.php",
+      "fpid": 28132,
+      "mflid": 17521,
+      "name": "Zavion Thomas",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.13,
+        "points": 22.42,
+        "points_half": 28.66,
+        "points_ppr": 34.89,
+        "rec_rec": 12.47,
+        "rec_tds": 1.22,
+        "rec_yds": 153.61,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "CHI"
+    },
+    {
       "filename": "jaylin-lane.php",
       "fpid": 27454,
       "mflid": 17184,
@@ -3668,34 +3696,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "WAS"
-    },
-    {
-      "filename": "xavier-hutchinson.php",
-      "fpid": 25332,
-      "mflid": 16201,
-      "name": "Xavier Hutchinson",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.12,
-        "points": 21.07,
-        "points_half": 27.3,
-        "points_ppr": 33.53,
-        "rec_rec": 12.46,
-        "rec_tds": 0.74,
-        "rec_yds": 152.08,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 2.1,
-        "rush_tds": 0.07,
-        "rush_yds": 12.4,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "HOU"
     },
     {
       "filename": "malachi-fields.php",

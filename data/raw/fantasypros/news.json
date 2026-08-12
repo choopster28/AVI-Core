@@ -3,6 +3,284 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-12 07:47:02",
+      "created_formated": "Wed, Aug 12th 7:47am UTC",
+      "desc": "Steelers rookie OT Max Iheanachor suffered an injury at practice last week and remains without a clear timetable to return. ",
+      "id": 601950,
+      "impact": "This will be a situation to continue to monitor with the preseason starting this week. ",
+      "link": "https://www.fantasypros.com/nfl/news/601950/max-iheanachor-without-timetable-to-return.php",
+      "player_id": 28183,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Max Iheanachor without timetable to return"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 07:45:33",
+      "created_formated": "Wed, Aug 12th 7:45am UTC",
+      "desc": "The Steelers waived/injured Lorenzo Thompson. ",
+      "id": 601949,
+      "impact": "Thompson will figure to seek another opportunity during training camp once he is cleared. ",
+      "link": "https://www.fantasypros.com/nfl/news/601949/lorenzo-thompson-waived-by-steelers.php",
+      "player_id": 26551,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Lorenzo Thompson waived by Steelers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 07:44:46",
+      "created_formated": "Wed, Aug 12th 7:44am UTC",
+      "desc": "The Steelers waived WR Colton Dowell. ",
+      "id": 601948,
+      "impact": "Dowell will figure to seek another opportunity during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/601948/colton-dowell-waived-by-steelers.php",
+      "player_id": 25467,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Colton Dowell waived by Steelers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 07:43:44",
+      "created_formated": "Wed, Aug 12th 7:43am UTC",
+      "desc": "The Steelers signed WR Isaiah Winstead. ",
+      "id": 601947,
+      "impact": "Winstead will compete for a depth role Steelers wide receiver room in training camp.",
+      "link": "https://www.fantasypros.com/nfl/news/601947/isaiah-winstead-signs-with-steelers.php",
+      "player_id": 25685,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Isaiah Winstead signs with Steelers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 07:43:13",
+      "created_formated": "Wed, Aug 12th 7:43am UTC",
+      "desc": "The Steelers signed WR Cornell Powell. ",
+      "id": 601946,
+      "impact": "Powell will compete for a depth role Steelers wide receiver room in training camp.",
+      "link": "https://www.fantasypros.com/nfl/news/601946/cornell-powell-signs-with-steelers.php",
+      "player_id": 22811,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Cornell Powell signs with Steelers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-12 07:42:07",
+      "created_formated": "Wed, Aug 12th 7:42am UTC",
+      "desc": "The Eagles placed RB Elijah Mitchell on injured reserve. ",
+      "id": 601945,
+      "impact": "Mitchell is likely to be out for the upcoming season. ",
+      "link": "https://www.fantasypros.com/nfl/news/601945/elijah-mitchell-placed-on-ir.php",
+      "player_id": 17219,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Elijah Mitchell placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 07:40:26",
+      "created_formated": "Wed, Aug 12th 7:40am UTC",
+      "desc": "The Eagles signed DL Tarron Jackson. ",
+      "id": 601944,
+      "impact": "Jackson will compete for a depth role on the defensive line for the Eagles in training camp.",
+      "link": "https://www.fantasypros.com/nfl/news/601944/tarron-jackson-signs-with-eagles.php",
+      "player_id": 22824,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Tarron Jackson signs with Eagles "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 07:39:52",
+      "created_formated": "Wed, Aug 12th 7:39am UTC",
+      "desc": "The Eagles signed RB Ja'Quinden Jackson. ",
+      "id": 601943,
+      "impact": "Jackson will compete for a depth role in the backfield for the Eagles in training camp.",
+      "link": "https://www.fantasypros.com/nfl/news/601943/jaquinden-jackson-signs-with-eagles.php",
+      "player_id": 23170,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Ja'Quinden Jackson signs with Eagles "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 07:39:09",
+      "created_formated": "Wed, Aug 12th 7:39am UTC",
+      "desc": "The Eagles signed DL David Blay Jr.",
+      "id": 601941,
+      "impact": "Blay will compete for a depth role on the defensive line for the Eagles in training camp.",
+      "link": "https://www.fantasypros.com/nfl/news/601941/david-blay-jr-signs-with-eagles.php",
+      "player_id": 28682,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "David Blay Jr. signs with Eagles "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-12 07:37:51",
+      "created_formated": "Wed, Aug 12th 7:37am UTC",
+      "desc": "Browns coach Todd Monken said he's \"hopeful\" to get DT Mike Hall Jr. back at practice soon. ",
+      "id": 601940,
+      "impact": "\"He got off to such a great start,\" Monken said. Hall hasn't practiced since August 3. ",
+      "link": "https://www.fantasypros.com/nfl/news/601940/mike-hall-jr-expected-to-return-to-practice-soon.php",
+      "player_id": 26456,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Mike Hall Jr. expected to return to practice soon"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-12 07:36:42",
+      "created_formated": "Wed, Aug 12th 7:36am UTC",
+      "desc": "Eli Heidenreich told reporters he practiced on Tuesday and expects to play Thursday against the Packers.",
+      "id": 601938,
+      "impact": "Heidenreich missed  few practices last week with an injury. He should be good to go on Thursday. ",
+      "link": "https://www.fantasypros.com/nfl/news/601938/eli-heidenreich-practices-tuesday-expected-to-play-preseason-opener.php",
+      "player_id": 28297,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Eli Heidenreich practices Tuesday, expected to play in preseason opener"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 07:34:59",
+      "created_formated": "Wed, Aug 12th 7:34am UTC",
+      "desc": "The Commanders signed LB Curtis Jacobs. ",
+      "id": 601937,
+      "impact": "Jacobs spent time in the UFL with the DC Defenders. He will compete for a depth role in the Commanders linebacker room. ",
+      "link": "https://www.fantasypros.com/nfl/news/601937/curtis-jacobs-signs-with-commanders.php",
+      "player_id": 26318,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Curtis Jacobs signs with Commanders "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 07:33:36",
+      "created_formated": "Wed, Aug 12th 7:33am UTC",
+      "desc": "The Falcons claimed OG Jaeden Roberts off waivers.",
+      "id": 601936,
+      "impact": "The Eagles waived Roberts on Monday. He signed with the Eagles as a college free agent in May.",
+      "link": "https://www.fantasypros.com/nfl/news/601936/jaeden-roberts-claimed-off-waivers-by-falcons.php",
+      "player_id": 27115,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Jaeden Roberts claimed off waivers by Falcons "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-12 07:32:15",
+      "created_formated": "Wed, Aug 12th 7:32am UTC",
+      "desc": "The Jets activated EDGE Joseph Ossai from the PUP list. ",
+      "id": 601934,
+      "impact": "Ossai missed the start of training camp. He has been cleared to return to practice. ",
+      "link": "https://www.fantasypros.com/nfl/news/601934/joseph-ossai-activated-from-pup-list.php",
+      "player_id": 22696,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Joseph Ossai activated from PUP list "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-12 07:30:53",
+      "created_formated": "Wed, Aug 12th 7:30am UTC",
+      "desc": "The Browns placed CB Damarri Mathis on injured reserve. ",
+      "id": 601933,
+      "impact": "Mathis was carted off with an injury at Browns practice on Tuesday.",
+      "link": "https://www.fantasypros.com/nfl/news/601933/damarri-mathis-placed-on-ir.php",
+      "player_id": 24300,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Damarri Mathis placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 07:29:56",
+      "created_formated": "Wed, Aug 12th 7:29am UTC",
+      "desc": "The Browns signed TE Dae'Quan Wright. ",
+      "id": 601932,
+      "impact": "Wright signed with the Eagles after going undrafted out of Ole Miss. He'll compete for a depth role in the Browns tight end room. ",
+      "link": "https://www.fantasypros.com/nfl/news/601932/daequan-wright-signs-with-browns.php",
+      "player_id": 28159,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Dae'Quan Wright signs with Browns"
+    },
+    {
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
@@ -144,288 +422,6 @@
       "sport_id": "NFL",
       "team_id": "SEA",
       "title": "Nick Emmanwori (ankle) passes physical "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-11 18:19:35",
-      "created_formated": "Tue, Aug 11th 6:19pm UTC",
-      "desc": "Jets coach Aaron Glenn said the starters will play in the preseason opener against the Bucs on Friday.",
-      "id": 601807,
-      "impact": "Glenn said the goal is to get the starters 25-30 reps combined in the three preseason games.",
-      "link": "https://www.fantasypros.com/nfl/news/601807/geno-smith-jets-starters-to-play-preseason-opener.php",
-      "player_id": 11687,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Geno Smith, Jets starters to play in preseason opener "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 18:12:42",
-      "created_formated": "Tue, Aug 11th 6:12pm UTC",
-      "desc": "Bucs beat reporter Rick Stroud said Jake Browning appeared to injure his back in practice on Tuesday. ",
-      "id": 601806,
-      "impact": "Browning is expected to start in the Bucs preseason opener on Friday. His status will need to be monitored the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/601806/jake-browning-appears-to-injure-back-practice-tuesday.php",
-      "player_id": 18557,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Jake Browning appears to injure back in practice Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-11 18:10:27",
-      "created_formated": "Tue, Aug 11th 6:10pm UTC",
-      "desc": "Baker Mayfield will not play in the Buccaneers preseason opener on Friday against the Jets. ",
-      "id": 601805,
-      "impact": "Jake Browning is expected to start if he's good to go. He appeared to injure his back in practice on Tuesday. Mayfield will likely see some reps in the Bucs second or third preseason game. ",
-      "link": "https://www.fantasypros.com/nfl/news/601805/baker-mayfield-will-not-play-preseason-opener.php",
-      "player_id": 17237,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Baker Mayfield will not play in preseason opener"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 17:58:19",
-      "created_formated": "Tue, Aug 11th 5:58pm UTC",
-      "desc": "Aaron Rodgers told reporters Michael Pittman Jr. and DK Metcalf both have injuries. ",
-      "id": 601804,
-      "impact": "It is unclear how serious the injuries are for Pittman and Metcalf. Rodgers praised Germie Bernard and Brandon Smith for stepping up in their place. There should be an update at some point on Pittman. ",
-      "link": "https://www.fantasypros.com/nfl/news/601804/michael-pittman-jr-dealing-with-injury-per-aaron-rodgers.php",
-      "player_id": 19278,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Michael Pittman Jr. dealing with injury per Aaron Rodgers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 17:57:22",
-      "created_formated": "Tue, Aug 11th 5:57pm UTC",
-      "desc": "Aaron Rodgers told reporters DK Metcalf and Michael Pittman Jr. both have injuries. ",
-      "id": 601803,
-      "impact": "It is unclear how serious the injuries are for Metcalf and Pittman. Rodgers praised Germie Bernard and Brandon Smith for stepping up in their place. There should be an update at some point on Metcalf. ",
-      "link": "https://www.fantasypros.com/nfl/news/601803/dk-metcalf-dealing-with-undisclosed-injury-per-aaron-rodgers.php",
-      "player_id": 18219,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "DK Metcalf dealing with undisclosed injury per Aaron Rodgers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 17:53:37",
-      "created_formated": "Tue, Aug 11th 5:53pm UTC",
-      "desc": "Christian Gonzalez did not practice on Tuesday. ",
-      "id": 601802,
-      "impact": "Giardi notes that Gonzalez tweaked his ankle late in Monday's practice. He is also seeking a new contract. ",
-      "link": "https://www.fantasypros.com/nfl/news/601802/christian-gonzalez-misses-practice-tuesday.php",
-      "player_id": 25238,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Christian Gonzalez misses practice Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-11 17:50:54",
-      "created_formated": "Tue, Aug 11th 5:50pm UTC",
-      "desc": "Daniel Jones will not play in the Colts preseason opener. ",
-      "id": 601801,
-      "impact": "Jones has been fully cleared to return to practice. Anthony Richardson Sr. will start with Riley Leonard starting the second half. ",
-      "link": "https://www.fantasypros.com/nfl/news/601801/daniel-jones-will-not-play-preseason-opener.php",
-      "player_id": 18232,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Daniel Jones will not play in preseason opener "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 17:46:22",
-      "created_formated": "Tue, Aug 11th 5:46pm UTC",
-      "desc": "J.K. Dobbins went through individual drills at practice on Tuesday. ",
-      "id": 601800,
-      "impact": "Dobbins left practice on Monday with a soft-tissue injury. It appears to have just been precautionary. ",
-      "link": "https://www.fantasypros.com/nfl/news/601800/jk-dobbins-soft-tissue-participates-individual-drills-tuesday.php",
-      "player_id": 19245,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "J.K. Dobbins (soft tissue) participates in individual drills Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 17:42:28",
-      "created_formated": "Tue, Aug 11th 5:42pm UTC",
-      "desc": "Saints coach Kellen Moore said Cameron Jordan will miss time and it could linger into the regular season.",
-      "id": 601798,
-      "impact": "Jordan re-signed with the Saints this offseason. He'll be in a depth role on the defensive line when he is healthy. ",
-      "link": "https://www.fantasypros.com/nfl/news/601798/cameron-jordan-hamstring-to-miss-time-could-linger-into-season.php",
-      "player_id": 9886,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Cameron Jordan (hamstring) to miss time, could linger into season"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-11 17:40:37",
-      "created_formated": "Tue, Aug 11th 5:40pm UTC",
-      "desc": "The Colts announced Anthony Richardson will start Thursday's preseason game against the Patriots.",
-      "id": 601797,
-      "impact": "Richardson will play the first half with Riley Leonard playing the second half. They'll continue to compete for the backup job behind Daniel Jones. ",
-      "link": "https://www.fantasypros.com/nfl/news/601797/anthony-richardson-sr-to-start-preseason-opener-thursday.php",
-      "player_id": 24347,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Anthony Richardson Sr. to start preseason opener Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 17:34:18",
-      "created_formated": "Tue, Aug 11th 5:34pm UTC",
-      "desc": "Mike Evans was back at 49ers practice on Tuesday. ",
-      "id": 601795,
-      "impact": "Evans was back in pads for the 49ers-Titans joint practice. He was sidelined with a quad injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/601795/mike-evans-quad-returns-to-practice-tuesday.php",
-      "player_id": 12119,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mike Evans (quad) returns to practice Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-11 17:28:29",
-      "created_formated": "Tue, Aug 11th 5:28pm UTC",
-      "desc": "49ers RB Patrick Taylor Jr. took first-team reps in practice on Tuesday. ",
-      "id": 601794,
-      "impact": "The 49ers backfield is depleted already with Christian McCaffrey sitting out due to tightness and both Jordan James and Kaelon Black banged up. Taylor is taking advantage of those absences. ",
-      "link": "https://www.fantasypros.com/nfl/news/601794/patrick-taylor-jr-sees-first-team-reps-tuesday.php",
-      "player_id": 19544,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Patrick Taylor Jr. sees first-team reps Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 17:26:03",
-      "created_formated": "Tue, Aug 11th 5:26pm UTC",
-      "desc": "Christian McCaffrey remains absent from practice on Tuesday due to tightness. ",
-      "id": 601793,
-      "impact": "It appears to be precautionary for McCaffrey. He remains day-to-day. ",
-      "link": "https://www.fantasypros.com/nfl/news/601793/christian-mccaffrey-still-not-practicing-tuesday-due-to-tightness.php",
-      "player_id": 16393,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Christian McCaffrey still not practicing Tuesday due to tightness "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-11 17:23:27",
-      "created_formated": "Tue, Aug 11th 5:23pm UTC",
-      "desc": "Ravens coach Jesse Minter said Lamar Jackson will not play in the preseason opener on Saturday against the Eagles. ",
-      "id": 601792,
-      "impact": "Minter said there will be some \"established players\" not playing Saturday. Jackson should see some reps in the second or third preseason game. ",
-      "link": "https://www.fantasypros.com/nfl/news/601792/lamar-jackson-will-not-play-preseason-opener.php",
-      "player_id": 17233,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Lamar Jackson will not play in preseason opener"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 17:20:53",
-      "created_formated": "Tue, Aug 11th 5:20pm UTC",
-      "desc": "Ravens CB Nate Wiggins was carted off the field from practice on Tuesday. ",
-      "id": 601790,
-      "impact": "Wiggins was getting tests done after practice. Ravens coach Jesse Minter said he's optimistic but he doesn't know yet whether it's long term injury.",
-      "link": "https://www.fantasypros.com/nfl/news/601790/nate-wiggins-carted-off-field-from-practice-tuesday.php",
-      "player_id": 26100,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Nate Wiggins carted off field from practice Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 17:15:24",
-      "created_formated": "Tue, Aug 11th 5:15pm UTC",
-      "desc": "Zay Flowers returned to Ravens practice on Tuesday. ",
-      "id": 601788,
-      "impact": "Flowers has returned to practice after missing just one practice with a quad contusion. He recently signed a four-year contract extension worth up to $140 million. ",
-      "link": "https://www.fantasypros.com/nfl/news/601788/zay-flowers-quad-back-practice-tuesday.php",
-      "player_id": 22916,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Zay Flowers (quad) back at practice Tuesday "
     }
   ],
   "public_api_limited": true,
