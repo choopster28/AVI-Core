@@ -604,6 +604,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
 
+## PLAYER LOOKUP: Elic Ayomanor
+- Player name: Elic Ayomanor
+- Player ID: 12499
+- Position: WR
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
+
 ## PLAYER LOOKUP: Elijah Sarratt
 - Player name: Elijah Sarratt
 - Player ID: 13268
@@ -955,6 +963,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
+
+## PLAYER LOOKUP: Jaylen Wright
+- Player name: Jaylen Wright
+- Player ID: 11643
+- Position: RB
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
 
 ## PLAYER LOOKUP: Jeremiyah Love
 - Player name: Jeremiyah Love
@@ -1331,14 +1347,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
-
-## PLAYER LOOKUP: Max Klare
-- Player name: Max Klare
-- Player ID: 13278
-- Position: TE
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
-- Team file: 02_Rapid_Valley_Annihilation.md
 
 ## PLAYER LOOKUP: Michael Penix
 - Player name: Michael Penix
@@ -1900,14 +1908,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
-## PLAYER LOOKUP: Zavion Thomas
-- Player name: Zavion Thomas
-- Player ID: 13411
-- Position: WR
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
-- Team file: 02_Rapid_Valley_Annihilation.md
-
 ## PLAYER LOOKUP: Zay Flowers
 - Player name: Zay Flowers
 - Player ID: 9997
@@ -2134,15 +2134,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 60.7
 - Availability: available
 
-## AVAILABLE PLAYER: Jaylen Wright
-- Player name: Jaylen Wright
-- Player ID: 11643
-- Position: RB
-- NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 37.1
-- Dynasty AVI (D-AVI, 0-100): 63.1
-- Availability: available
-
 ## AVAILABLE PLAYER: Jaylin Noel
 - Player name: Jaylin Noel
 - Player ID: 12536
@@ -2195,15 +2186,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CLE
 - Championship AVI (C-AVI, 0-100): 36.5
 - Dynasty AVI (D-AVI, 0-100): 56.8
-- Availability: available
-
-## AVAILABLE PLAYER: Elic Ayomanor
-- Player name: Elic Ayomanor
-- Player ID: 12499
-- Position: WR
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 36.2
-- Dynasty AVI (D-AVI, 0-100): 67.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Tyquan Thornton
@@ -2501,6 +2483,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: HOU
 - Championship AVI (C-AVI, 0-100): 27.3
 - Dynasty AVI (D-AVI, 0-100): 55.2
+- Availability: available
+
+## AVAILABLE PLAYER: Max Klare
+- Player name: Max Klare
+- Player ID: 13278
+- Position: TE
+- NFL team: LAR
+- Championship AVI (C-AVI, 0-100): 27.2
+- Dynasty AVI (D-AVI, 0-100): 64.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Calvin Austin
@@ -2915,6 +2906,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ARI
 - Championship AVI (C-AVI, 0-100): 21.2
 - Dynasty AVI (D-AVI, 0-100): 61.4
+- Availability: available
+
+## AVAILABLE PLAYER: Zavion Thomas
+- Player name: Zavion Thomas
+- Player ID: 13411
+- Position: WR
+- NFL team: CHI
+- Championship AVI (C-AVI, 0-100): 21.0
+- Dynasty AVI (D-AVI, 0-100): 52.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Brenen Thompson
