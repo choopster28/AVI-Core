@@ -41874,7 +41874,7 @@
       "genius_id": "1020355",
       "rookie_year": "2023"
     },
-    "news_updated": 1785262259244,
+    "news_updated": 1786565121078,
     "number": 17,
     "oddsjam_id": "A23A11F61EC3",
     "opta_id": null,
@@ -58791,7 +58791,7 @@
       "genius_id": "1463675",
       "rookie_year": "2024"
     },
-    "news_updated": 1786397146907,
+    "news_updated": 1786565121332,
     "number": 1,
     "oddsjam_id": "8838562B2670",
     "opta_id": null,
@@ -60789,7 +60789,7 @@
       "genius_id": "1463682",
       "rookie_year": "2024"
     },
-    "news_updated": 1771197018387,
+    "news_updated": 1786564821631,
     "number": 27,
     "oddsjam_id": "DAEBDA510630",
     "opta_id": null,
@@ -117253,7 +117253,7 @@
       "rookie_year": "2025",
       "source_id": "ff1d2af0-fc69-11ec-b4dc-4165c73b7166"
     },
-    "news_updated": 1785520234130,
+    "news_updated": 1786565120470,
     "number": 44,
     "oddsjam_id": "CECF3D1A0B00DE88",
     "opta_id": null,
@@ -117806,7 +117806,7 @@
       "rookie_year": "2025",
       "source_id": "d7f54546-46ed-45c6-9ecc-b23c65ee6679"
     },
-    "news_updated": 1786563020406,
+    "news_updated": 1786565123549,
     "number": 2,
     "oddsjam_id": "93527AC8024DA07C",
     "opta_id": null,
@@ -394711,10 +394711,10 @@
     "hashtag": "#marlonhumphrey-NFL-BAL-44",
     "height": "72",
     "high_school": "Hoover (AL)",
-    "injury_body_part": null,
+    "injury_body_part": "Lower Body",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "e9fd1ed3-58ff-4d63-9a2f-3479991805cc",
     "last_name": "Humphrey",
     "metadata": {
@@ -624608,7 +624608,7 @@
       "genius_id": "1075426",
       "rookie_year": "2021"
     },
-    "news_updated": 1786549555401,
+    "news_updated": 1786564821644,
     "number": 43,
     "oddsjam_id": "1820381CE51F",
     "opta_id": null,
