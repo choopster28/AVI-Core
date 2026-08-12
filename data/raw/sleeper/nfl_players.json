@@ -117794,10 +117794,10 @@
     "hashtag": "#emekaegbuka-NFL-TB-2",
     "height": "73",
     "high_school": "Steilacoom (WA)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "3d2fa9ca-6d4a-4d11-ad59-e17d0630498e",
     "last_name": "Egbuka",
     "metadata": {
@@ -117806,7 +117806,7 @@
       "rookie_year": "2025",
       "source_id": "d7f54546-46ed-45c6-9ecc-b23c65ee6679"
     },
-    "news_updated": 1786027548640,
+    "news_updated": 1786549555417,
     "number": 2,
     "oddsjam_id": "93527AC8024DA07C",
     "opta_id": null,
@@ -624608,7 +624608,7 @@
       "genius_id": "1075426",
       "rookie_year": "2021"
     },
-    "news_updated": 1785882609645,
+    "news_updated": 1786549555401,
     "number": 43,
     "oddsjam_id": "1820381CE51F",
     "opta_id": null,

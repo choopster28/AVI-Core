@@ -1,7 +1,42 @@
 {
-  "count": 24,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-12 15:44:57",
+      "created_formated": "Wed, Aug 12th 3:44pm UTC",
+      "desc": "Jermar Jefferson has been signed by the Minnesota Vikings. In a corresponding move, the team released Jordan Mims.",
+      "id": 601983,
+      "impact": "Jefferson has been around the league for a while now, mostly as a depth piece. It's likely the same sort of thing here. He will, in all likelihood, not be fantasy relevant.",
+      "link": "https://www.fantasypros.com/nfl/news/601983/jermar-jefferson-signs-with-minnesota-vikings.php",
+      "player_id": 20088,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jermar Jefferson signs with Minnesota Vikings"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-12 15:42:16",
+      "created_formated": "Wed, Aug 12th 3:42pm UTC",
+      "desc": "Emeka Egbuka limped off the practice field on Wednesday and was examined by trainers. Nothing else is known yet as of writing, but it appears he was on the table for a while.",
+      "id": 601982,
+      "impact": "It's possible he suffered a stinger or minor injury, given the fact that other reports say he got off the field on his own power. His status will need to be monitored, as any absence will open the door for Chris Godwin and Ted Hurst to get more looks, and don't forget about Cade Otton.",
+      "link": "https://www.fantasypros.com/nfl/news/601982/emeka-egbuka-limps-off-practice-field-wednesday.php",
+      "player_id": 23062,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Emeka Egbuka limps off practice field Wednesday"
+    },
     {
       "author": "Ari Koslow",
       "categories": [
@@ -404,24 +439,6 @@
       "sport_id": "NFL",
       "team_id": "LV",
       "title": "Fernando Mendoza to see \"plenty\" of playing time in preseason opener"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-11 18:49:32",
-      "created_formated": "Tue, Aug 11th 6:49pm UTC",
-      "desc": "Nick Emmanwori has passed his team physical. ",
-      "id": 601812,
-      "impact": "It is the first step to being activated from the PUP list. Emmanwori underwent an ankle procedure that has caused him to miss the start of training camp. He is on track to be good to go for the start of the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/601812/nick-emmanwori-ankle-passes-physical.php",
-      "player_id": 27053,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Nick Emmanwori (ankle) passes physical "
     }
   ],
   "public_api_limited": true,
