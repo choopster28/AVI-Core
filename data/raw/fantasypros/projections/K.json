@@ -418,22 +418,6 @@
       "team_id": "WAS"
     },
     {
-      "filename": "zane-gonzalez.php",
-      "fpid": 16548,
-      "mflid": 13347,
-      "name": "Zane Gonzalez",
-      "position_id": "K",
-      "stats": {
-        "fg": 28.3,
-        "fga": 32.61,
-        "points": 115.43,
-        "points_half": 115.43,
-        "points_ppr": 115.43,
-        "xpt": 30.53
-      },
-      "team_id": "MIA"
-    },
-    {
       "filename": "joey-slye.php",
       "fpid": 19028,
       "mflid": 14600,
@@ -448,6 +432,22 @@
         "xpt": 32.05
       },
       "team_id": "TEN"
+    },
+    {
+      "filename": "zane-gonzalez.php",
+      "fpid": 16548,
+      "mflid": 13347,
+      "name": "Zane Gonzalez",
+      "position_id": "K",
+      "stats": {
+        "fg": 29.6,
+        "fga": 34.21,
+        "points": 112.86,
+        "points_half": 112.86,
+        "points_ppr": 112.86,
+        "xpt": 24.06
+      },
+      "team_id": "MIA"
     },
     {
       "filename": "chad-ryland.php",
@@ -578,90 +578,10 @@
       "team_id": "NYJ"
     },
     {
-      "filename": "matt-prater.php",
-      "fpid": 9443,
-      "mflid": 8930,
-      "name": "Matt Prater",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "spencer-shrader.php",
-      "fpid": 26763,
-      "mflid": 16896,
-      "name": "Spencer Shrader",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "IND"
-    },
-    {
-      "filename": "graham-gano.php",
-      "fpid": 9232,
-      "mflid": 9694,
-      "name": "Graham Gano",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "brandon-mcmanus.php",
-      "fpid": 13274,
-      "mflid": 11947,
-      "name": "Brandon McManus",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "younghoe-koo.php",
-      "fpid": 16910,
-      "mflid": 13403,
-      "name": "Younghoe Koo",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "lucas-havrisik.php",
-      "fpid": 25222,
-      "mflid": 16043,
-      "name": "Lucas Havrisik",
+      "filename": "joshua-karty.php",
+      "fpid": 26478,
+      "mflid": 16775,
+      "name": "Joshua Karty",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -690,10 +610,90 @@
       "team_id": "NO"
     },
     {
-      "filename": "joshua-karty.php",
-      "fpid": 26478,
-      "mflid": 16775,
-      "name": "Joshua Karty",
+      "filename": "lucas-havrisik.php",
+      "fpid": 25222,
+      "mflid": 16043,
+      "name": "Lucas Havrisik",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "younghoe-koo.php",
+      "fpid": 16910,
+      "mflid": 13403,
+      "name": "Younghoe Koo",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "brandon-mcmanus.php",
+      "fpid": 13274,
+      "mflid": 11947,
+      "name": "Brandon McManus",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "graham-gano.php",
+      "fpid": 9232,
+      "mflid": 9694,
+      "name": "Graham Gano",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "spencer-shrader.php",
+      "fpid": 26763,
+      "mflid": 16896,
+      "name": "Spencer Shrader",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "IND"
+    },
+    {
+      "filename": "matt-prater.php",
+      "fpid": 9443,
+      "mflid": 8930,
+      "name": "Matt Prater",
       "position_id": "K",
       "stats": {
         "fg": 0,

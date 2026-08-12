@@ -9,35 +9,35 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-08-11
+- Last updated from Sleeper exports: 2026-08-12
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 20
-- offense: 15
+- offense: 16
 - kickers: 1
-- idp: 4
+- idp: 3
 - other: 0
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 621.4
-- championship_lineup_c_avi_avg: 77.67
-- offensive_roster_c_avi_sum: 883.9
-- offensive_roster_c_avi_avg: 58.93
-- offensive_roster_d_avi_sum: 1101.0
-- offensive_roster_d_avi_avg: 73.40
+- championship_lineup_c_avi_sum: 625.8
+- championship_lineup_c_avi_avg: 78.22
+- offensive_roster_c_avi_sum: 939.1
+- offensive_roster_c_avi_avg: 58.69
+- offensive_roster_d_avi_sum: 1211.1
+- offensive_roster_d_avi_avg: 75.69
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Joe Burrow | C-AVI: 84.3 | D-AVI: 87.5
-- RB: Kenneth Walker | C-AVI: 87.6 | D-AVI: 93.4
-- RB: Bucky Irving | C-AVI: 78.4 | D-AVI: 88.3
+- RB: Kenneth Walker | C-AVI: 90.0 | D-AVI: 93.9
+- RB: Bucky Irving | C-AVI: 78.5 | D-AVI: 88.7
 - WR: Ja'Marr Chase | C-AVI: 99.6 | D-AVI: 99.9
-- WR: Brian Thomas | C-AVI: 66.6 | D-AVI: 86.2
-- TE: Brock Bowers | C-AVI: 99.1 | D-AVI: 93.6
-- FLEX: Cade Otton | C-AVI: 54.6 | D-AVI: 70.5
-- FLEX: Jayden Higgins | C-AVI: 51.2 | D-AVI: 79.8
+- WR: Brian Thomas | C-AVI: 66.8 | D-AVI: 86.3
+- TE: Brock Bowers | C-AVI: 99.1 | D-AVI: 93.3
+- FLEX: Cade Otton | C-AVI: 54.8 | D-AVI: 70.3
+- FLEX: Jayden Higgins | C-AVI: 52.7 | D-AVI: 80.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -87,9 +87,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 87.6
-- Dynasty AVI (D-AVI, 0-100): 93.4
-- Projected PPR points: 251.2
+- Championship AVI (C-AVI, 0-100): 90.0
+- Dynasty AVI (D-AVI, 0-100): 93.9
+- Projected PPR points: 257.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -104,26 +104,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 78.4
-- Dynasty AVI (D-AVI, 0-100): 88.3
+- Championship AVI (C-AVI, 0-100): 78.5
+- Dynasty AVI (D-AVI, 0-100): 88.7
 - Projected PPR points: 224.0
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Emanuel Wilson
-- Player name: Emanuel Wilson
-- Player ID: 11435
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: SEA
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 38.6
-- Dynasty AVI (D-AVI, 0-100): 65.3
-- Projected PPR points: 51.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -138,9 +121,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 34.7
-- Dynasty AVI (D-AVI, 0-100): 64.1
+- Championship AVI (C-AVI, 0-100): 34.4
+- Dynasty AVI (D-AVI, 0-100): 64.4
 - Projected PPR points: 35.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: George Holani
+- Player name: George Holani
+- Player ID: 12048
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: SEA
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 31.9
+- Dynasty AVI (D-AVI, 0-100): 55.1
+- Projected PPR points: 41.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -172,9 +172,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 66.6
-- Dynasty AVI (D-AVI, 0-100): 86.2
-- Projected PPR points: 180.4
+- Championship AVI (C-AVI, 0-100): 66.8
+- Dynasty AVI (D-AVI, 0-100): 86.3
+- Projected PPR points: 180.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -189,9 +189,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 51.2
-- Dynasty AVI (D-AVI, 0-100): 79.8
-- Projected PPR points: 137.9
+- Championship AVI (C-AVI, 0-100): 52.7
+- Dynasty AVI (D-AVI, 0-100): 80.2
+- Projected PPR points: 146.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 48.1
-- Dynasty AVI (D-AVI, 0-100): 74.2
+- Championship AVI (C-AVI, 0-100): 47.9
+- Dynasty AVI (D-AVI, 0-100): 73.9
 - Projected PPR points: 133.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 47.7
-- Dynasty AVI (D-AVI, 0-100): 67.9
+- Championship AVI (C-AVI, 0-100): 47.1
+- Dynasty AVI (D-AVI, 0-100): 67.3
 - Projected PPR points: 142.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -240,28 +240,45 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 43.2
+- Championship AVI (C-AVI, 0-100): 43.0
 - Dynasty AVI (D-AVI, 0-100): 63.8
 - Projected PPR points: 125.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Keenan Allen
-- Player name: Keenan Allen
-- Player ID: 1479
+### PLAYER: Caleb Douglas
+- Player name: Caleb Douglas
+- Player ID: 13296
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: None
+- NFL team: MIA
 - Active: True
 - Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 34.2
+- Dynasty AVI (D-AVI, 0-100): 59.8
+- Projected PPR points: 87.8
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Bryce Lance
+- Player name: Bryce Lance
+- Player ID: 13420
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NO
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 24.6
+- Dynasty AVI (D-AVI, 0-100): 60.2
+- Projected PPR points: 42.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Brock Bowers
 - Player name: Brock Bowers
@@ -275,7 +292,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 99.1
-- Dynasty AVI (D-AVI, 0-100): 93.6
+- Dynasty AVI (D-AVI, 0-100): 93.3
 - Projected PPR points: 243.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -291,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 54.6
-- Dynasty AVI (D-AVI, 0-100): 70.5
+- Championship AVI (C-AVI, 0-100): 54.8
+- Dynasty AVI (D-AVI, 0-100): 70.3
 - Projected PPR points: 129.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -312,23 +329,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
 - Category: kicker
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Aaron Donald
-- Player name: Aaron Donald
-- Player ID: 2227
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: DL
-- Fantasy positions: ['DL']
-- NFL team: None
-- Active: True
-- Status: Active
-- Age: 32.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
 ### PLAYER: Jordyn Brooks

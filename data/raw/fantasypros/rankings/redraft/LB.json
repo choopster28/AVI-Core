@@ -12258,7 +12258,7 @@
     },
     {
       "cbs_player_id": "26699171",
-      "player_bye_week": "11",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "LB,S",
       "player_filename": "malik-verdon.php",
@@ -12271,7 +12271,7 @@
       "player_position_id": "S",
       "player_positions": "S",
       "player_short_name": "M. Verdon",
-      "player_team_id": "ATL",
+      "player_team_id": "FA",
       "player_yahoo_id": "42195",
       "player_yahoo_positions": "S",
       "pos_rank": "S50",
