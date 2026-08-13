@@ -90,6 +90,15 @@
     "sleeper_id": "2216"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "12122",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Brandin Cooks",
+    "position": "WR",
+    "sleeper_id": "2197"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "12123",
     "match_method": "exact_name_position_unique",
@@ -180,10 +189,10 @@
     "sleeper_id": "2747"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "14104",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CAR",
     "player_name": "Darren Waller",
     "position": "TE",
     "sleeper_id": "2505"
@@ -457,15 +466,6 @@
     "player_name": "George Kittle",
     "position": "TE",
     "sleeper_id": "4217"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "16502",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "PIT",
-    "player_name": "Robert Tonyan",
-    "position": "TE",
-    "sleeper_id": "4602"
   },
   {
     "confidence": "verified",
@@ -772,15 +772,6 @@
     "player_name": "Devin Singletary",
     "position": "RB",
     "sleeper_id": "6130"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "18283",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Miles Sanders",
-    "position": "RB",
-    "sleeper_id": "6151"
   },
   {
     "confidence": "verified",
@@ -1285,15 +1276,6 @@
     "player_name": "Reggie Gilliam",
     "position": "RB",
     "sleeper_id": "7204"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "20082",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "LAC",
-    "player_name": "Trey Lance",
-    "position": "QB",
-    "sleeper_id": "7610"
   },
   {
     "confidence": "verified",
@@ -3529,15 +3511,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "27261",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CAR",
-    "player_name": "Ryan Fitzgerald",
-    "position": "K",
-    "sleeper_id": "12961"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "27285",
     "match_method": "exact_name_position_unique",
     "nfl_team": "JAC",
@@ -3996,10 +3969,10 @@
     "sleeper_id": "13299"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "28450",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NE",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Myles Montgomery",
     "position": "RB",
     "sleeper_id": "13964"
@@ -4012,15 +3985,6 @@
     "player_name": "Trey Smack",
     "position": "K",
     "sleeper_id": "13545"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "28717",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "BAL",
-    "player_name": "Dontae McMillan",
-    "position": "RB",
-    "sleeper_id": "13852"
   },
   {
     "confidence": "verified",

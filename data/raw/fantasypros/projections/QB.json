@@ -1,5 +1,5 @@
 {
-  "count": "84",
+  "count": "83",
   "players": [
     {
       "filename": "josh-allen-qb.php",
@@ -2102,36 +2102,6 @@
       "team_id": "SF"
     },
     {
-      "filename": "cole-payton.php",
-      "fpid": 28302,
-      "mflid": 17654,
-      "name": "Cole Payton",
-      "position_id": "QB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "pass_att": 14,
-        "pass_cmp": 10,
-        "pass_ints": 0,
-        "pass_tds": 1,
-        "pass_yds": 106,
-        "pass_yds_300": 0,
-        "pass_yds_400": 0,
-        "points": 9.24,
-        "points_half": 9.24,
-        "points_ppr": 9.24,
-        "ret_tds": 0,
-        "rush_att": 2,
-        "rush_tds": 0,
-        "rush_yds": 10,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "PHI"
-    },
-    {
       "filename": "garrett-nussmeier.php",
       "fpid": 22998,
       "mflid": 17465,
@@ -2160,6 +2130,36 @@
         "scrimage_yards_200": 0
       },
       "team_id": "KC"
+    },
+    {
+      "filename": "cole-payton.php",
+      "fpid": 28302,
+      "mflid": 17654,
+      "name": "Cole Payton",
+      "position_id": "QB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "pass_att": 14,
+        "pass_cmp": 10,
+        "pass_ints": 0,
+        "pass_tds": 1,
+        "pass_yds": 106,
+        "pass_yds_300": 0,
+        "pass_yds_400": 0,
+        "points": 9.24,
+        "points_half": 9.24,
+        "points_ppr": 9.24,
+        "ret_tds": 0,
+        "rush_att": 2,
+        "rush_tds": 0,
+        "rush_yds": 10,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "PHI"
     },
     {
       "filename": "kyle-allen.php",
@@ -2430,36 +2430,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "CIN"
-    },
-    {
-      "filename": "teddy-bridgewater.php",
-      "fpid": 12088,
-      "mflid": 11640,
-      "name": "Teddy Bridgewater",
-      "position_id": "QB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "pass_att": 0,
-        "pass_cmp": 0,
-        "pass_ints": 0,
-        "pass_tds": 0,
-        "pass_yds": 0,
-        "pass_yds_300": 0,
-        "pass_yds_400": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "FA"
     },
     {
       "filename": "stetson-bennett.php",

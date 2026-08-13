@@ -2774,6 +2774,34 @@
       "team_id": "TEN"
     },
     {
+      "filename": "dontayvion-wicks.php",
+      "fpid": 24354,
+      "mflid": 16195,
+      "name": "Dontayvion Wicks",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.14,
+        "points": 49.85,
+        "points_half": 65.42,
+        "points_ppr": 80.98,
+        "rec_rec": 31.13,
+        "rec_tds": 2.4,
+        "rec_yds": 355.01,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0.5,
+        "rush_tds": 0,
+        "rush_yds": 2.5,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "PHI"
+    },
+    {
       "filename": "chimere-dike.php",
       "fpid": 27315,
       "mflid": 17171,
@@ -3024,62 +3052,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "DEN"
-    },
-    {
-      "filename": "dontayvion-wicks.php",
-      "fpid": 24354,
-      "mflid": 16195,
-      "name": "Dontayvion Wicks",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.27,
-        "points": 41.2,
-        "points_half": 53.33,
-        "points_ppr": 65.46,
-        "rec_rec": 24.26,
-        "rec_tds": 1.79,
-        "rec_yds": 310.01,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "PHI"
-    },
-    {
-      "filename": "xavier-hutchinson.php",
-      "fpid": 25332,
-      "mflid": 16201,
-      "name": "Xavier Hutchinson",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.06,
-        "points": 40.68,
-        "points_half": 52.3,
-        "points_ppr": 63.91,
-        "rec_rec": 23.23,
-        "rec_tds": 1.87,
-        "rec_yds": 279.54,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 2.05,
-        "rush_tds": 0.04,
-        "rush_yds": 14.2,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "HOU"
     },
     {
       "filename": "keon-coleman.php",
@@ -3696,6 +3668,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "WAS"
+    },
+    {
+      "filename": "xavier-hutchinson.php",
+      "fpid": 25332,
+      "mflid": 16201,
+      "name": "Xavier Hutchinson",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.12,
+        "points": 21.07,
+        "points_half": 27.3,
+        "points_ppr": 33.53,
+        "rec_rec": 12.46,
+        "rec_tds": 0.74,
+        "rec_yds": 152.08,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 2.1,
+        "rush_tds": 0.07,
+        "rush_yds": 12.4,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "HOU"
     },
     {
       "filename": "malachi-fields.php",

@@ -654,6 +654,31 @@
   {
     "active": true,
     "aliases": [
+      "Brandin Cooks"
+    ],
+    "avi_id": "AVI-00002197",
+    "canonical_name": "Brandin Cooks",
+    "match": {
+      "confidence": "review",
+      "method": "exact_name_position"
+    },
+    "nfl_team": "FA",
+    "normalized_name": "brandin cooks",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": 16731,
+      "fantasy_data_id": 16568,
+      "fantasypros_id": "12122",
+      "nfl_id": "2543498",
+      "rotowire_id": 9260,
+      "sleeper_id": "2197",
+      "sportradar_id": "b6b954eb-4591-4b7a-86b9-a481f15fdd58",
+      "sportsdata_player_id": "b6b954eb-4591-4b7a-86b9-a481f15fdd58"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Brandon Aiyuk"
     ],
     "avi_id": "AVI-00006803",
@@ -2215,10 +2240,10 @@
     "avi_id": "AVI-00002505",
     "canonical_name": "Darren Waller",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
-    "nfl_team": "FA",
+    "nfl_team": "CAR",
     "normalized_name": "darren waller",
     "position": "TE",
     "source_ids": {
@@ -2758,31 +2783,6 @@
       "sleeper_id": "12541",
       "sportradar_id": "483606b2-c0c9-4da2-8fcf-73d2615756c7",
       "sportsdata_player_id": "483606b2-c0c9-4da2-8fcf-73d2615756c7"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Dontae McMillan"
-    ],
-    "avi_id": "AVI-00013852",
-    "canonical_name": "Dontae McMillan",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "BAL",
-    "normalized_name": "dontae mcmillan",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26813,
-      "fantasypros_id": "28717",
-      "nfl_id": null,
-      "rotowire_id": 19937,
-      "sleeper_id": "13852",
-      "sportradar_id": "e908cf50-431c-11f1-a29d-11fb11746e9d",
-      "sportsdata_player_id": "e908cf50-431c-11f1-a29d-11fb11746e9d"
     }
   },
   {
@@ -7380,31 +7380,6 @@
   {
     "active": true,
     "aliases": [
-      "Miles Sanders"
-    ],
-    "avi_id": "AVI-00006151",
-    "canonical_name": "Miles Sanders",
-    "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
-    },
-    "nfl_team": "FA",
-    "normalized_name": "miles sanders",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": 4045163,
-      "fantasy_data_id": 20933,
-      "fantasypros_id": "18283",
-      "nfl_id": "2562722",
-      "rotowire_id": 13521,
-      "sleeper_id": "6151",
-      "sportradar_id": "ef3ceaf4-b733-4e06-a7f4-a94fc67361c1",
-      "sportsdata_player_id": "ef3ceaf4-b733-4e06-a7f4-a94fc67361c1"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Mitch Tinsley"
     ],
     "avi_id": "AVI-00011068",
@@ -7485,8 +7460,8 @@
     "avi_id": "AVI-00013964",
     "canonical_name": "Myles Montgomery",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "NE",
     "normalized_name": "myles montgomery",
@@ -8431,31 +8406,6 @@
       "sleeper_id": "13418",
       "sportradar_id": "75063230-4260-11f1-a80d-bff068733e76",
       "sportsdata_player_id": "75063230-4260-11f1-a80d-bff068733e76"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Robert Tonyan"
-    ],
-    "avi_id": "AVI-00004602",
-    "canonical_name": "Robert Tonyan",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "PIT",
-    "normalized_name": "robert tonyan",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": 2975674,
-      "fantasy_data_id": 19491,
-      "fantasypros_id": "16502",
-      "nfl_id": "2559270",
-      "rotowire_id": 12389,
-      "sleeper_id": "4602",
-      "sportradar_id": "7c9c7800-69d0-459b-812b-a07ac48e9f2a",
-      "sportsdata_player_id": "7c9c7800-69d0-459b-812b-a07ac48e9f2a"
     }
   },
   {
@@ -9609,31 +9559,6 @@
       "sleeper_id": "11589",
       "sportradar_id": "0c1253f2-1822-445d-8590-fea6fd32703f",
       "sportsdata_player_id": "0c1253f2-1822-445d-8590-fea6fd32703f"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Trey Lance"
-    ],
-    "avi_id": "AVI-00007610",
-    "canonical_name": "Trey Lance",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "LAC",
-    "normalized_name": "trey lance",
-    "position": "QB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 22493,
-      "fantasypros_id": "20082",
-      "nfl_id": "2566532",
-      "rotowire_id": 15198,
-      "sleeper_id": "7610",
-      "sportradar_id": "676a508c-c65f-404a-a2b0-f861a4bfd072",
-      "sportsdata_player_id": "676a508c-c65f-404a-a2b0-f861a4bfd072"
     }
   },
   {

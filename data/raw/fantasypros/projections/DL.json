@@ -1,5 +1,5 @@
 {
-  "count": "201",
+  "count": "202",
   "players": [
     {
       "filename": "maxx-crosby.php",
@@ -4623,6 +4623,29 @@
         "points_ppr": 29.41
       },
       "team_id": "DAL"
+    },
+    {
+      "filename": "trey-moore.php",
+      "fpid": 27208,
+      "mflid": 17625,
+      "name": "Trey Moore",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 3.15,
+        "def_ff": 0.14,
+        "def_fr": 0.09,
+        "def_int": 0.03,
+        "def_pd": 0.31,
+        "def_sack": 0.88,
+        "def_safety": 0,
+        "def_tackle": 7.43,
+        "def_td": 0.02,
+        "def_tlost": 0,
+        "points": 18.68,
+        "points_half": 18.68,
+        "points_ppr": 18.68
+      },
+      "team_id": "MIA"
     }
   ],
   "positions": "DL",
