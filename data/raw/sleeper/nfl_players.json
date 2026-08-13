@@ -16452,7 +16452,7 @@
       "genius_id": "1072626",
       "rookie_year": "2023"
     },
-    "news_updated": 1786580114749,
+    "news_updated": 1786607416681,
     "number": 50,
     "oddsjam_id": "4FAC41736FE8",
     "opta_id": null,
@@ -41874,7 +41874,7 @@
       "genius_id": "1020355",
       "rookie_year": "2023"
     },
-    "news_updated": 1786565121078,
+    "news_updated": 1786608315922,
     "number": 17,
     "oddsjam_id": "A23A11F61EC3",
     "opta_id": null,
@@ -47016,7 +47016,7 @@
       "channel_id": "1113708833668100096",
       "rookie_year": "2023"
     },
-    "news_updated": 1786158024930,
+    "news_updated": 1786608315908,
     "number": 30,
     "oddsjam_id": "E3188EA61905",
     "opta_id": null,
@@ -56672,7 +56672,7 @@
     "birth_state": null,
     "college": "Texas",
     "competitions": [],
-    "depth_chart_order": 3,
+    "depth_chart_order": 2,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 24947,
@@ -67828,7 +67828,7 @@
       "genius_id": "1072645",
       "rookie_year": "2024"
     },
-    "news_updated": 1785887409839,
+    "news_updated": 1786606816176,
     "number": 50,
     "oddsjam_id": "8C0BDDCDD118",
     "opta_id": null,
@@ -78837,7 +78837,7 @@
     "depth_chart_order": 4,
     "depth_chart_position": "QB",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 25114,
     "fantasy_positions": [
       "QB"
     ],
@@ -114950,7 +114950,7 @@
     "birth_state": null,
     "college": "Notre Dame",
     "competitions": [],
-    "depth_chart_order": 4,
+    "depth_chart_order": 3,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 25875,
@@ -130143,7 +130143,7 @@
     "college": "Virginia Tech",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "LB",
+    "depth_chart_position": "DL",
     "espn_id": null,
     "fantasy_data_id": 26119,
     "fantasy_positions": [
@@ -133318,7 +133318,7 @@
       "genius_id": "1497306",
       "rookie_year": "2025"
     },
-    "news_updated": 1786569921292,
+    "news_updated": 1786606816161,
     "number": 86,
     "oddsjam_id": "AC8959564DABCF51",
     "opta_id": null,
@@ -193472,7 +193472,7 @@
       "channel_id": "1354243636816011264",
       "rookie_year": "2026"
     },
-    "news_updated": 1779930633662,
+    "news_updated": 1786606816211,
     "number": 48,
     "oddsjam_id": null,
     "opta_id": null,
@@ -196895,7 +196895,7 @@
       "genius_id": "1498878",
       "rookie_year": "2026"
     },
-    "news_updated": null,
+    "news_updated": 1786608315896,
     "number": 61,
     "oddsjam_id": null,
     "opta_id": null,
@@ -201647,7 +201647,7 @@
     "metadata": {
       "channel_id": "1354621064092610560"
     },
-    "news_updated": 1786412433191,
+    "news_updated": 1786607416669,
     "number": 36,
     "oddsjam_id": null,
     "opta_id": null,
@@ -213076,7 +213076,7 @@
       "genius_id": "1494561",
       "rookie_year": "2026"
     },
-    "news_updated": 1785188751407,
+    "news_updated": 1786608315947,
     "number": 98,
     "oddsjam_id": null,
     "opta_id": null,
@@ -215000,7 +215000,7 @@
       "genius_id": "1487613",
       "rookie_year": "2026"
     },
-    "news_updated": 1786569021343,
+    "news_updated": 1786606816229,
     "number": 39,
     "oddsjam_id": null,
     "opta_id": null,
@@ -293486,7 +293486,7 @@
     "birth_state": null,
     "college": "Georgia Tech",
     "competitions": [],
-    "depth_chart_order": 1,
+    "depth_chart_order": 6,
     "depth_chart_position": "TE",
     "espn_id": 2576925,
     "fantasy_data_id": 16964,
@@ -337484,7 +337484,7 @@
       "genius_id": "941499",
       "rookie_year": "2016"
     },
-    "news_updated": 1785723960887,
+    "news_updated": 1786606816191,
     "number": 30,
     "oddsjam_id": "05AEDF2AFCAF",
     "opta_id": null,
@@ -349297,7 +349297,7 @@
     "college": "Houston",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "LB",
     "espn_id": 2987743,
     "fantasy_data_id": 18130,
     "fantasy_positions": [
@@ -392710,7 +392710,7 @@
       "genius_id": "998399",
       "rookie_year": "2017"
     },
-    "news_updated": 1786562420533,
+    "news_updated": 1786608315937,
     "number": 8,
     "oddsjam_id": "07DFEA4F8101",
     "opta_id": null,
@@ -585136,7 +585136,7 @@
     "birth_state": null,
     "college": "Baylor",
     "competitions": [],
-    "depth_chart_order": null,
+    "depth_chart_order": 7,
     "depth_chart_position": "RB",
     "espn_id": 3928925,
     "fantasy_data_id": 21765,
@@ -620490,7 +620490,7 @@
     "birth_state": null,
     "college": "Arkansas",
     "competitions": [],
-    "depth_chart_order": 6,
+    "depth_chart_order": 5,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 22498,
@@ -629328,7 +629328,7 @@
       "genius_id": "1003024",
       "rookie_year": "2021"
     },
-    "news_updated": 1767923154518,
+    "news_updated": 1786606816258,
     "number": 21,
     "oddsjam_id": "F893942E58D0",
     "opta_id": null,
@@ -631005,7 +631005,7 @@
     "birth_state": null,
     "college": "Notre Dame",
     "competitions": [],
-    "depth_chart_order": 2,
+    "depth_chart_order": 1,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 22662,
@@ -662672,7 +662672,7 @@
     "birth_state": null,
     "college": "Virginia Tech",
     "competitions": [],
-    "depth_chart_order": 5,
+    "depth_chart_order": 4,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 22524,
@@ -683088,7 +683088,7 @@
       "channel_id": "1113708750222422016",
       "rookie_year": "2022"
     },
-    "news_updated": 1786568121064,
+    "news_updated": 1786607416653,
     "number": 16,
     "oddsjam_id": "0615B45C311E",
     "opta_id": null,
@@ -718461,7 +718461,7 @@
       "genius_id": "1399003",
       "rookie_year": "2023"
     },
-    "news_updated": 1786405831994,
+    "news_updated": 1786606816243,
     "number": 13,
     "oddsjam_id": "35D2FA24A6CC",
     "opta_id": null,
