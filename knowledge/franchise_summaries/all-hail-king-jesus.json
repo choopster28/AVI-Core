@@ -5,100 +5,94 @@
   "roster_id": 8,
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 2, 2026",
-  "generated_at": "2026-08-02T20:07:30.743057-06:00",
+  "reporting_period": "Week of August 13, 2026",
+  "generated_at": "2026-08-13T10:58:56.114120-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
-  "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 626.80 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "All Hail King Jesus is projected #8 of 16 with a 624.20 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Amon-Ra St. Brown, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 8,
     "league_size": 16,
-    "score": 626.8,
+    "score": 624.2,
     "team_above": {
       "name": "Southside Savages",
       "rank": 7,
-      "score": 637.0,
-      "gap": 10.200000000000045
+      "score": 633.8,
+      "gap": 9.599999999999909
     },
     "team_below": {
       "name": "Badland Banditos",
       "rank": 9,
-      "score": 617.5,
-      "gap": 9.299999999999955
+      "score": 623.9,
+      "gap": 0.3000000000000682
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 16,
     "league_size": 16,
-    "score": 1303.0,
-    "player_d_avi": 1019.7,
-    "future_pick_d_avi": 283.3,
+    "score": 1582.1,
+    "player_d_avi": 1038.8,
+    "future_pick_d_avi": 543.3,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1382466797541818368",
     "created_at": "2026-07-13T18:44:38.827000+00:00",
     "type": "trade",
-    "summary": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco and sent Derrick Henry.",
+    "summary": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) and sent Derrick Henry.",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Zach Charbonnet's 51.8 C-AVI baseline; a replacement near 62.0 C-AVI would directly attack the 10.20-point projected gap to Southside Savages."
+    "Raise the RB slot above Zach Charbonnet's 51.5 C-AVI baseline; a replacement near 61.1 C-AVI would directly attack the 9.60-point projected gap to Southside Savages."
   ],
   "rival_below": {
     "franchise_name": "Badland Banditos",
     "projected_rank": 9,
-    "projected_score": 617.5,
-    "latest_trade": {
-      "transaction_id": "1375593798167461888",
-      "created_at": "2026-06-24T19:33:48.082000+00:00",
-      "type": "trade",
-      "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez,.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_score": 623.9,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1375593798167461888",
-      "created_at": "2026-06-24T19:33:48.082000+00:00",
-      "type": "trade",
-      "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez,.",
+      "transaction_id": "1393041155800731649",
+      "created_at": "2026-08-11T23:03:22.298000+00:00",
+      "type": "free_agent",
+      "summary": "On August 11, Badland Banditos completed a free-agent move and added Bryce Lance while dropped Aaron Donald.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez,."
+    "summary": "On August 11, Badland Banditos completed a free-agent move and added Bryce Lance while dropped Aaron Donald."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #8 of 16 at 626.80 lineup C-AVI. Southside Savages is immediately above at 637.00, a gap of 10.20. Badland Banditos is immediately behind at 617.50."
+      "body": "Projected #8 of 16 at 624.20 lineup C-AVI. Southside Savages is immediately above at 633.80, a gap of 9.60. Badland Banditos is immediately behind at 623.90."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Amon-Ra St. Brown (98.6) and Tee Higgins (81.9)."
+      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Amon-Ra St. Brown (98.6), and Tee Higgins (82.1)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco and sent Derrick Henry."
+      "body": "On July 13, All Hail King Jesus completed a trade with Ravens Regime and acquired Isiah Pacheco, 2026 Round 1 (Southside Savages) and sent Derrick Henry."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Zach Charbonnet's 51.8 C-AVI baseline; a replacement near 62.0 C-AVI would directly attack the 10.20-point projected gap to Southside Savages.",
+      "body": "Raise the RB slot above Zach Charbonnet's 51.5 C-AVI baseline; a replacement near 61.1 C-AVI would directly attack the 9.60-point projected gap to Southside Savages.",
       "items": [
-        "Raise the RB slot above Zach Charbonnet's 51.8 C-AVI baseline; a replacement near 62.0 C-AVI would directly attack the 10.20-point projected gap to Southside Savages."
+        "Raise the RB slot above Zach Charbonnet's 51.5 C-AVI baseline; a replacement near 61.1 C-AVI would directly attack the 9.60-point projected gap to Southside Savages."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez,."
+      "body": "On August 11, Badland Banditos completed a free-agent move and added Bryce Lance while dropped Aaron Donald."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Zach Charbonnet is the lowest C-AVI starter in the verified championship lineup at 51.8. Any acquisition should clear that exact lineup threshold."
+      "body": "Zach Charbonnet is the lowest C-AVI starter in the verified championship lineup at 51.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/08_All_Hail_King_Jesus.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/08_All_Hail_King_Jesus.md"
     ],
-    "source_last_updated": "2026-08-03",
+    "source_last_updated": "2026-08-13",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -5,95 +5,89 @@
   "roster_id": 4,
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 2, 2026",
-  "generated_at": "2026-08-02T20:07:30.743057-06:00",
+  "reporting_period": "Week of August 13, 2026",
+  "generated_at": "2026-08-13T10:58:56.114120-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
-  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 665.00 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Mile High Royal Lions is projected #4 of 16 with a 662.40 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 3,
+    "rank": 4,
     "league_size": 16,
-    "score": 665.0,
+    "score": 662.4,
     "team_above": {
-      "name": "Conquistadors",
-      "rank": 2,
-      "score": 723.4,
-      "gap": 58.39999999999998
+      "name": "Corgi Loaf Baking Co.",
+      "rank": 3,
+      "score": 664.5,
+      "gap": 2.1000000000000227
     },
     "team_below": {
-      "name": "Corgi Loaf Baking Co.",
-      "rank": 4,
-      "score": 662.6,
-      "gap": 2.3999999999999773
+      "name": "SmokyValleyWheatWarriors",
+      "rank": 5,
+      "score": 656.6,
+      "gap": 5.7999999999999545
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 1586.0,
-    "player_d_avi": 1114.7,
-    "future_pick_d_avi": 471.3,
+    "score": 1857.6,
+    "player_d_avi": 1126.3,
+    "future_pick_d_avi": 731.3,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1387942050321678336",
     "created_at": "2026-07-28T21:21:20.815000+00:00",
     "type": "trade",
-    "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired and sent DJ Moore.",
+    "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore.",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above J.K. Dobbins's 59.2 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 58.40-point projected gap to Conquistadors."
+    "Raise the RB slot above J.K. Dobbins's 59.2 C-AVI baseline; a replacement near 71.7 C-AVI would directly attack the 2.10-point projected gap to Corgi Loaf Baking Co.."
   ],
   "rival_below": {
-    "franchise_name": "Corgi Loaf Baking Co.",
-    "projected_rank": 4,
-    "projected_score": 662.6,
-    "latest_trade": {
-      "transaction_id": "1387942050321678336",
-      "created_at": "2026-07-28T21:21:20.815000+00:00",
-      "type": "trade",
-      "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "franchise_name": "SmokyValleyWheatWarriors",
+    "projected_rank": 5,
+    "projected_score": 656.6,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1387942050321678336",
-      "created_at": "2026-07-28T21:21:20.815000+00:00",
-      "type": "trade",
-      "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent.",
+      "transaction_id": "1357352399894749184",
+      "created_at": "2026-05-05T11:28:59.825000+00:00",
+      "type": "commissioner",
+      "summary": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent."
+    "summary": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #3 of 16 at 665.00 lineup C-AVI. Conquistadors is immediately above at 723.40, a gap of 58.40. Corgi Loaf Baking Co. is immediately behind at 662.60."
+      "body": "Projected #4 of 16 at 662.40 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 664.50, a gap of 2.10. SmokyValleyWheatWarriors is immediately behind at 656.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jahmyr Gibbs (99.7), Drake London (97.8) and Jalen Hurts (90.9)."
+      "body": "The three highest C-AVI starters are Jahmyr Gibbs (99.7), Drake London (97.8), and Jalen Hurts (91.4)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired and sent DJ Moore."
+      "body": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above J.K. Dobbins's 59.2 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 58.40-point projected gap to Conquistadors.",
+      "body": "Raise the RB slot above J.K. Dobbins's 59.2 C-AVI baseline; a replacement near 71.7 C-AVI would directly attack the 2.10-point projected gap to Corgi Loaf Baking Co..",
       "items": [
-        "Raise the RB slot above J.K. Dobbins's 59.2 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 58.40-point projected gap to Conquistadors."
+        "Raise the RB slot above J.K. Dobbins's 59.2 C-AVI baseline; a replacement near 71.7 C-AVI would directly attack the 2.10-point projected gap to Corgi Loaf Baking Co.."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 28, Corgi Loaf Baking Co. completed a trade with Mile High Royal Lions and acquired DJ Moore and sent."
+      "body": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid."
     },
     {
       "id": "lineup-pressure-point",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/04_Mile_High_Royal_Lions.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/04_Mile_High_Royal_Lions.md"
     ],
-    "source_last_updated": "2026-08-03",
+    "source_last_updated": "2026-08-13",
     "external_sources_used": false,
     "conversation_context_used": false
   }

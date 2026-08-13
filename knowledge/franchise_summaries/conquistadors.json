@@ -5,100 +5,94 @@
   "roster_id": 1,
   "owner_display_name": "Thecan",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 2, 2026",
-  "generated_at": "2026-08-02T20:07:30.743057-06:00",
+  "reporting_period": "Week of August 13, 2026",
+  "generated_at": "2026-08-13T10:58:56.114120-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Conquistadors: Preseason Front Office Brief",
-  "executive_summary": "Conquistadors is projected #2 of 16 with a 723.40 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Conquistadors is projected #2 of 16 with a 721.20 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 2,
     "league_size": 16,
-    "score": 723.4,
+    "score": 721.2,
     "team_above": {
       "name": "Big Balder Brand",
       "rank": 1,
-      "score": 738.5,
-      "gap": 15.100000000000023
+      "score": 737.3,
+      "gap": 16.09999999999991
     },
     "team_below": {
-      "name": "Mile High Royal Lions",
+      "name": "Corgi Loaf Baking Co.",
       "rank": 3,
-      "score": 665.0,
-      "gap": 58.39999999999998
+      "score": 664.5,
+      "gap": 56.700000000000045
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 3,
+    "rank": 6,
     "league_size": 16,
-    "score": 1684.1,
-    "player_d_avi": 1242.2,
-    "future_pick_d_avi": 441.9,
+    "score": 1948.3,
+    "player_d_avi": 1277.7,
+    "future_pick_d_avi": 670.6,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1381050653018685440",
-    "created_at": "2026-07-09T20:57:23.662000+00:00",
+    "transaction_id": "1390168785905782784",
+    "created_at": "2026-08-04T00:49:35.949000+00:00",
     "type": "trade",
-    "summary": "On July 9, Conquistadors completed a trade with Big Balder Brand and acquired and sent.",
+    "summary": "On August 3, Conquistadors completed a trade with Crimson Tide Pods and acquired De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings) and sent Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Juwan Johnson's 63.4 C-AVI baseline; a replacement near 82.9 C-AVI would directly attack the 15.10-point projected gap to Big Balder Brand."
+    "Raise the FLEX slot above Juwan Johnson's 61.2 C-AVI baseline; a replacement near 83.4 C-AVI would directly attack the 16.10-point projected gap to Big Balder Brand."
   ],
   "rival_below": {
-    "franchise_name": "Mile High Royal Lions",
+    "franchise_name": "Corgi Loaf Baking Co.",
     "projected_rank": 3,
-    "projected_score": 665.0,
-    "latest_trade": {
-      "transaction_id": "1387942050321678336",
-      "created_at": "2026-07-28T21:21:20.815000+00:00",
-      "type": "trade",
-      "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired and sent DJ Moore.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_score": 664.5,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1387942050321678336",
-      "created_at": "2026-07-28T21:21:20.815000+00:00",
-      "type": "trade",
-      "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired and sent DJ Moore.",
+      "transaction_id": "1393653517394149376",
+      "created_at": "2026-08-13T15:36:40.678000+00:00",
+      "type": "free_agent",
+      "summary": "On August 13, Corgi Loaf Baking Co. completed a free-agent move and added Darren Waller while dropped Kaleb Johnson.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired and sent DJ Moore."
+    "summary": "On August 13, Corgi Loaf Baking Co. completed a free-agent move and added Darren Waller while dropped Kaleb Johnson."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #2 of 16 at 723.40 lineup C-AVI. Big Balder Brand is immediately above at 738.50, a gap of 15.10. Mile High Royal Lions is immediately behind at 665.00."
+      "body": "Projected #2 of 16 at 721.20 lineup C-AVI. Big Balder Brand is immediately above at 737.30, a gap of 16.10. Corgi Loaf Baking Co. is immediately behind at 664.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Josh Allen (99.6), Puka Nacua (99.6) and Bijan Robinson (99.4)."
+      "body": "The three highest C-AVI starters are Josh Allen (99.6), Puka Nacua (99.6), and Bijan Robinson (99.4)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 9, Conquistadors completed a trade with Big Balder Brand and acquired and sent."
+      "body": "On August 3, Conquistadors completed a trade with Crimson Tide Pods and acquired De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings) and sent Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Juwan Johnson's 63.4 C-AVI baseline; a replacement near 82.9 C-AVI would directly attack the 15.10-point projected gap to Big Balder Brand.",
+      "body": "Raise the FLEX slot above Juwan Johnson's 61.2 C-AVI baseline; a replacement near 83.4 C-AVI would directly attack the 16.10-point projected gap to Big Balder Brand.",
       "items": [
-        "Raise the FLEX slot above Juwan Johnson's 63.4 C-AVI baseline; a replacement near 82.9 C-AVI would directly attack the 15.10-point projected gap to Big Balder Brand."
+        "Raise the FLEX slot above Juwan Johnson's 61.2 C-AVI baseline; a replacement near 83.4 C-AVI would directly attack the 16.10-point projected gap to Big Balder Brand."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired and sent DJ Moore."
+      "body": "On August 13, Corgi Loaf Baking Co. completed a free-agent move and added Darren Waller while dropped Kaleb Johnson."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 63.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 61.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/01_Conquistadors.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/01_Conquistadors.md"
     ],
-    "source_last_updated": "2026-08-03",
+    "source_last_updated": "2026-08-13",
     "external_sources_used": false,
     "conversation_context_used": false
   }

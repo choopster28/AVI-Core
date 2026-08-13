@@ -1,104 +1,98 @@
 {
   "schema_version": 9,
   "franchise_id": "gringo-s-goblins",
-  "franchise_name": "Gringo’s Goblins",
+  "franchise_name": "Gringo\u2019s Goblins",
   "roster_id": 15,
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 2, 2026",
-  "generated_at": "2026-08-02T20:07:30.743057-06:00",
+  "reporting_period": "Week of August 13, 2026",
+  "generated_at": "2026-08-13T10:58:56.114120-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Gringo’s Goblins: Preseason Front Office Brief",
-  "executive_summary": "Gringo’s Goblins is projected #12 of 16 with a 566.20 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
+  "executive_summary": "Gringo\u2019s Goblins is projected #12 of 16 with a 565.60 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Davante Adams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 12,
     "league_size": 16,
-    "score": 566.2,
+    "score": 565.6,
     "team_above": {
-      "name": "Lightskin Legends ✊🏽",
+      "name": "DMV Fantasy",
       "rank": 11,
-      "score": 584.1,
-      "gap": 17.899999999999977
+      "score": 579.4,
+      "gap": 13.799999999999955
     },
     "team_below": {
       "name": "Phalhala or Bust",
       "rank": 13,
-      "score": 563.1,
-      "gap": 3.1000000000000227
+      "score": 558.0,
+      "gap": 7.600000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 6,
+    "rank": 7,
     "league_size": 16,
-    "score": 1640.0,
-    "player_d_avi": 1128.1,
-    "future_pick_d_avi": 511.9,
+    "score": 1919.3,
+    "player_d_avi": 1147.4,
+    "future_pick_d_avi": 771.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1380604251050356736",
     "created_at": "2026-07-08T15:23:33.139000+00:00",
     "type": "trade",
-    "summary": "On July 8, Gringo’s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo’s Goblins).",
+    "summary": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jacory Croskey-Merritt's 53.4 C-AVI baseline; a replacement near 71.3 C-AVI would directly attack the 17.90-point projected gap to Lightskin Legends ✊🏽."
+    "Raise the FLEX slot above Jacory Croskey-Merritt's 53.1 C-AVI baseline; a replacement near 66.9 C-AVI would directly attack the 13.80-point projected gap to DMV Fantasy."
   ],
   "rival_below": {
     "franchise_name": "Phalhala or Bust",
     "projected_rank": 13,
-    "projected_score": 563.1,
-    "latest_trade": {
-      "transaction_id": "1356901536596242432",
-      "created_at": "2026-05-04T05:37:25.638000+00:00",
-      "type": "trade",
-      "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson and sent Romeo Doubs.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_score": 558.0,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1356901536596242432",
-      "created_at": "2026-05-04T05:37:25.638000+00:00",
-      "type": "trade",
-      "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson and sent Romeo Doubs.",
+      "transaction_id": "1390049580791402496",
+      "created_at": "2026-08-03T16:55:55.235000+00:00",
+      "type": "free_agent",
+      "summary": "On August 3, Phalhala or Bust completed a free-agent move and added Marquise Brown while dropped Calvin Ridley.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson and sent Romeo Doubs."
+    "summary": "On August 3, Phalhala or Bust completed a free-agent move and added Marquise Brown while dropped Calvin Ridley."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #12 of 16 at 566.20 lineup C-AVI. Lightskin Legends ✊🏽 is immediately above at 584.10, a gap of 17.90. Phalhala or Bust is immediately behind at 563.10."
+      "body": "Projected #12 of 16 at 565.60 lineup C-AVI. DMV Fantasy is immediately above at 579.40, a gap of 13.80. Phalhala or Bust is immediately behind at 558.00."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Emeka Egbuka (85.4), Kyren Williams (83.6) and Davante Adams (80.3)."
+      "body": "The three highest C-AVI starters are Emeka Egbuka (85.2), Kyren Williams (83.4), and Davante Adams (80.4)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 8, Gringo’s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo’s Goblins)."
+      "body": "On July 8, Gringo\u2019s Goblins completed a trade with Big Balder Brand and acquired Tre' Harris, Emeka Egbuka, Kyren Williams, 2027 Round 1 (Big Balder Brand) and sent Omarion Hampton, Chris Godwin, A.J. Brown, 2027 Round 2 (Gringo\u2019s Goblins)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jacory Croskey-Merritt's 53.4 C-AVI baseline; a replacement near 71.3 C-AVI would directly attack the 17.90-point projected gap to Lightskin Legends ✊🏽.",
+      "body": "Raise the FLEX slot above Jacory Croskey-Merritt's 53.1 C-AVI baseline; a replacement near 66.9 C-AVI would directly attack the 13.80-point projected gap to DMV Fantasy.",
       "items": [
-        "Raise the FLEX slot above Jacory Croskey-Merritt's 53.4 C-AVI baseline; a replacement near 71.3 C-AVI would directly attack the 17.90-point projected gap to Lightskin Legends ✊🏽."
+        "Raise the FLEX slot above Jacory Croskey-Merritt's 53.1 C-AVI baseline; a replacement near 66.9 C-AVI would directly attack the 13.80-point projected gap to DMV Fantasy."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On May 3, Phalhala or Bust completed a trade with Ravens Regime and acquired Michael Wilson and sent Romeo Doubs."
+      "body": "On August 3, Phalhala or Bust completed a free-agent move and added Marquise Brown while dropped Calvin Ridley."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jacory Croskey-Merritt is the lowest C-AVI starter in the verified championship lineup at 53.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Jacory Croskey-Merritt is the lowest C-AVI starter in the verified championship lineup at 53.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/15_Gringo_s_Goblins.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/15_Gringo_s_Goblins.md"
     ],
-    "source_last_updated": "2026-08-03",
+    "source_last_updated": "2026-08-13",
     "external_sources_used": false,
     "conversation_context_used": false
   }

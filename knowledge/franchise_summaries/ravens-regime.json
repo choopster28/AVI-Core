@@ -5,51 +5,51 @@
   "roster_id": 3,
   "owner_display_name": "Mentomorii",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 2, 2026",
-  "generated_at": "2026-08-02T20:07:30.743057-06:00",
+  "reporting_period": "Week of August 13, 2026",
+  "generated_at": "2026-08-13T10:58:56.114120-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Ravens Regime: Preseason Front Office Brief",
-  "executive_summary": "Ravens Regime is projected #6 of 16 with a 650.90 projected-starting-lineup C-AVI total, led by Lamar Jackson, Kyle Pitts and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Ravens Regime is projected #6 of 16 with a 647.60 projected-starting-lineup C-AVI total, led by Lamar Jackson, Kyle Pitts, and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 6,
     "league_size": 16,
-    "score": 650.9,
+    "score": 647.6,
     "team_above": {
       "name": "SmokyValleyWheatWarriors",
       "rank": 5,
-      "score": 660.8,
-      "gap": 9.899999999999977
+      "score": 656.6,
+      "gap": 9.0
     },
     "team_below": {
       "name": "Southside Savages",
       "rank": 7,
-      "score": 637.0,
-      "gap": 13.899999999999977
+      "score": 633.8,
+      "gap": 13.800000000000068
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 8,
     "league_size": 16,
-    "score": 1586.6,
-    "player_d_avi": 1264.6,
-    "future_pick_d_avi": 322.0,
+    "score": 1863.3,
+    "player_d_avi": 1281.3,
+    "future_pick_d_avi": 582.0,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1386987441226792960",
     "created_at": "2026-07-26T06:08:04.271000+00:00",
     "type": "trade",
-    "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts and sent Tyler Warren, 2028 Round 1 (Ravens Regime).",
+    "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Kyle Monangai's 55.8 C-AVI baseline; a replacement near 65.7 C-AVI would directly attack the 9.90-point projected gap to SmokyValleyWheatWarriors."
+    "Raise the RB slot above Kyle Monangai's 55.5 C-AVI baseline; a replacement near 64.5 C-AVI would directly attack the 9.00-point projected gap to SmokyValleyWheatWarriors."
   ],
   "rival_below": {
     "franchise_name": "Southside Savages",
     "projected_rank": 7,
-    "projected_score": 637.0,
+    "projected_score": 633.8,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1351398743596859392",
@@ -64,24 +64,24 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #6 of 16 at 650.90 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 660.80, a gap of 9.90. Southside Savages is immediately behind at 637.00."
+      "body": "Projected #6 of 16 at 647.60 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 656.60, a gap of 9.00. Southside Savages is immediately behind at 633.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Lamar Jackson (97.1), Kyle Pitts (94.0) and Derrick Henry (93.1)."
+      "body": "The three highest C-AVI starters are Lamar Jackson (97.1), Kyle Pitts (93.7), and Derrick Henry (93.0)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts and sent Tyler Warren, 2028 Round 1 (Ravens Regime)."
+      "body": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Kyle Monangai's 55.8 C-AVI baseline; a replacement near 65.7 C-AVI would directly attack the 9.90-point projected gap to SmokyValleyWheatWarriors.",
+      "body": "Raise the RB slot above Kyle Monangai's 55.5 C-AVI baseline; a replacement near 64.5 C-AVI would directly attack the 9.00-point projected gap to SmokyValleyWheatWarriors.",
       "items": [
-        "Raise the RB slot above Kyle Monangai's 55.8 C-AVI baseline; a replacement near 65.7 C-AVI would directly attack the 9.90-point projected gap to SmokyValleyWheatWarriors."
+        "Raise the RB slot above Kyle Monangai's 55.5 C-AVI baseline; a replacement near 64.5 C-AVI would directly attack the 9.00-point projected gap to SmokyValleyWheatWarriors."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Kyle Monangai is the lowest C-AVI starter in the verified championship lineup at 55.8. Any acquisition should clear that exact lineup threshold."
+      "body": "Kyle Monangai is the lowest C-AVI starter in the verified championship lineup at 55.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/03_Ravens_Regime.md"
     ],
-    "source_last_updated": "2026-08-03",
+    "source_last_updated": "2026-08-13",
     "external_sources_used": false,
     "conversation_context_used": false
   }

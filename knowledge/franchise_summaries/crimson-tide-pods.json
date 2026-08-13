@@ -5,100 +5,94 @@
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 2, 2026",
-  "generated_at": "2026-08-02T20:07:30.743057-06:00",
+  "reporting_period": "Week of August 13, 2026",
+  "generated_at": "2026-08-13T10:58:56.114120-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 555.80 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce and Justin Herbert. The immediate priority is improving the TE slot without weakening that core.",
+  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 550.20 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the TE slot without weakening that core.",
   "projected_power": {
     "rank": 14,
     "league_size": 16,
-    "score": 555.8,
+    "score": 550.2,
     "team_above": {
       "name": "Phalhala or Bust",
       "rank": 13,
-      "score": 563.1,
-      "gap": 7.300000000000068
+      "score": 558.0,
+      "gap": 7.7999999999999545
     },
     "team_below": {
       "name": "Rapid Valley Annihilation",
       "rank": 15,
-      "score": 527.0,
-      "gap": 28.799999999999955
+      "score": 534.3,
+      "gap": 15.900000000000091
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 2,
     "league_size": 16,
-    "score": 1935.3,
-    "player_d_avi": 1158.1,
-    "future_pick_d_avi": 777.2,
+    "score": 2232.8,
+    "player_d_avi": 1164.3,
+    "future_pick_d_avi": 1068.5,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1386482894020542464",
-    "created_at": "2026-07-24T20:43:10.843000+00:00",
+    "transaction_id": "1390168785905782784",
+    "created_at": "2026-08-04T00:49:35.949000+00:00",
     "type": "trade",
-    "summary": "On July 24, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) and sent,.",
+    "summary": "On August 3, Crimson Tide Pods completed a trade with Conquistadors and acquired Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions) and sent De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Oronde Gadsden's 55.7 C-AVI baseline; a replacement near 63.0 C-AVI would directly attack the 7.30-point projected gap to Phalhala or Bust."
+    "Raise the TE slot above Oronde Gadsden's 55.5 C-AVI baseline; a replacement near 63.3 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust."
   ],
   "rival_below": {
     "franchise_name": "Rapid Valley Annihilation",
     "projected_rank": 15,
-    "projected_score": 527.0,
-    "latest_trade": {
-      "transaction_id": "1387232278626713600",
-      "created_at": "2026-07-26T22:20:58.055000+00:00",
-      "type": "trade",
-      "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired and sent Wan'Dale Robinson,.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_score": 534.3,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1387232278626713600",
-      "created_at": "2026-07-26T22:20:58.055000+00:00",
-      "type": "trade",
-      "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired and sent Wan'Dale Robinson,.",
+      "transaction_id": "1393399091542622209",
+      "created_at": "2026-08-12T22:45:40.829000+00:00",
+      "type": "free_agent",
+      "summary": "On August 12, Rapid Valley Annihilation completed a free-agent move and added Elic Ayomanor while dropped Max Klare.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired and sent Wan'Dale Robinson,."
+    "summary": "On August 12, Rapid Valley Annihilation completed a free-agent move and added Elic Ayomanor while dropped Max Klare."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 555.80 lineup C-AVI. Phalhala or Bust is immediately above at 563.10, a gap of 7.30. Rapid Valley Annihilation is immediately behind at 527.00."
+      "body": "Projected #14 of 16 at 550.20 lineup C-AVI. Phalhala or Bust is immediately above at 558.00, a gap of 7.80. Rapid Valley Annihilation is immediately behind at 534.30."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are DeVonta Smith (87.7), Alec Pierce (74.9) and Justin Herbert (71.5)."
+      "body": "The three highest C-AVI starters are DeVonta Smith (87.3), Alec Pierce (74.2), and Justin Herbert (70.6)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On July 24, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Gunnar Helm, Jakobi Meyers, 2027 Round 3 (Corgi Loaf Baking Co.), 2028 Round 2 (Corgi Loaf Baking Co.) and sent,."
+      "body": "On August 3, Crimson Tide Pods completed a trade with Conquistadors and acquired Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions) and sent De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Oronde Gadsden's 55.7 C-AVI baseline; a replacement near 63.0 C-AVI would directly attack the 7.30-point projected gap to Phalhala or Bust.",
+      "body": "Raise the TE slot above Oronde Gadsden's 55.5 C-AVI baseline; a replacement near 63.3 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust.",
       "items": [
-        "Raise the TE slot above Oronde Gadsden's 55.7 C-AVI baseline; a replacement near 63.0 C-AVI would directly attack the 7.30-point projected gap to Phalhala or Bust."
+        "Raise the TE slot above Oronde Gadsden's 55.5 C-AVI baseline; a replacement near 63.3 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired and sent Wan'Dale Robinson,."
+      "body": "On August 12, Rapid Valley Annihilation completed a free-agent move and added Elic Ayomanor while dropped Max Klare."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Oronde Gadsden is the lowest C-AVI starter in the verified championship lineup at 55.7. Any acquisition should clear that exact lineup threshold."
+      "body": "Oronde Gadsden is the lowest C-AVI starter in the verified championship lineup at 55.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/16_Crimson_Tide_Pods.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/16_Crimson_Tide_Pods.md"
     ],
-    "source_last_updated": "2026-08-03",
+    "source_last_updated": "2026-08-13",
     "external_sources_used": false,
     "conversation_context_used": false
   }

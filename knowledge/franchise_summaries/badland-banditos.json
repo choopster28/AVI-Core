@@ -5,94 +5,94 @@
   "roster_id": 7,
   "owner_display_name": "IcebergSlim69",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 2, 2026",
-  "generated_at": "2026-08-02T20:07:30.743057-06:00",
+  "reporting_period": "Week of August 13, 2026",
+  "generated_at": "2026-08-13T10:58:56.114120-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Badland Banditos: Preseason Front Office Brief",
-  "executive_summary": "Badland Banditos is projected #9 of 16 with a 617.50 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Badland Banditos is projected #9 of 16 with a 623.90 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 617.5,
+    "score": 623.9,
     "team_above": {
       "name": "All Hail King Jesus",
       "rank": 8,
-      "score": 626.8,
-      "gap": 9.299999999999955
+      "score": 624.2,
+      "gap": 0.3000000000000682
     },
     "team_below": {
-      "name": "DMV Fantasy",
+      "name": "Lightskin Legends \u270a\ud83c\udffd",
       "rank": 10,
-      "score": 584.1,
-      "gap": 33.39999999999998
+      "score": 590.8,
+      "gap": 33.10000000000002
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 4,
+    "rank": 3,
     "league_size": 16,
-    "score": 1664.0,
-    "player_d_avi": 1136.1,
-    "future_pick_d_avi": 527.9,
+    "score": 1997.2,
+    "player_d_avi": 1209.3,
+    "future_pick_d_avi": 787.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1375593798167461888",
     "created_at": "2026-06-24T19:33:48.082000+00:00",
     "type": "trade",
-    "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez,.",
+    "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jayden Higgins's 51.7 C-AVI baseline; a replacement near 61.0 C-AVI would directly attack the 9.30-point projected gap to All Hail King Jesus."
+    "Raise the FLEX slot above Jayden Higgins's 52.7 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 0.30-point projected gap to All Hail King Jesus."
   ],
   "rival_below": {
-    "franchise_name": "DMV Fantasy",
+    "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
     "projected_rank": 10,
-    "projected_score": 584.1,
+    "projected_score": 590.8,
     "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1389822504675061760",
-      "created_at": "2026-08-03T01:53:36.070000+00:00",
+      "transaction_id": "1391842207605981184",
+      "created_at": "2026-08-08T15:39:10.772000+00:00",
       "type": "free_agent",
-      "summary": "On August 2, DMV Fantasy completed a free-agent move and dropped Jonnu Smith.",
+      "summary": "On August 8, Lightskin Legends \u270a\ud83c\udffd completed a free-agent move and added Mike Gesicki while dropped Daiyan Henley.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 2, DMV Fantasy completed a free-agent move and dropped Jonnu Smith."
+    "summary": "On August 8, Lightskin Legends \u270a\ud83c\udffd completed a free-agent move and added Mike Gesicki while dropped Daiyan Henley."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #9 of 16 at 617.50 lineup C-AVI. All Hail King Jesus is immediately above at 626.80, a gap of 9.30. DMV Fantasy is immediately behind at 584.10."
+      "body": "Projected #9 of 16 at 623.90 lineup C-AVI. All Hail King Jesus is immediately above at 624.20, a gap of 0.30. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 590.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.0) and Kenneth Walker (87.7)."
+      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.0), and Kenneth Walker (89.9)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez,."
+      "body": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jayden Higgins's 51.7 C-AVI baseline; a replacement near 61.0 C-AVI would directly attack the 9.30-point projected gap to All Hail King Jesus.",
+      "body": "Raise the FLEX slot above Jayden Higgins's 52.7 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 0.30-point projected gap to All Hail King Jesus.",
       "items": [
-        "Raise the FLEX slot above Jayden Higgins's 51.7 C-AVI baseline; a replacement near 61.0 C-AVI would directly attack the 9.30-point projected gap to All Hail King Jesus."
+        "Raise the FLEX slot above Jayden Higgins's 52.7 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 0.30-point projected gap to All Hail King Jesus."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 2, DMV Fantasy completed a free-agent move and dropped Jonnu Smith."
+      "body": "On August 8, Lightskin Legends \u270a\ud83c\udffd completed a free-agent move and added Mike Gesicki while dropped Daiyan Henley."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 51.7. Any acquisition should clear that exact lineup threshold."
+      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 52.7. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/07_Badland_Banditos.md"
     ],
-    "source_last_updated": "2026-08-03",
+    "source_last_updated": "2026-08-13",
     "external_sources_used": false,
     "conversation_context_used": false
   }
