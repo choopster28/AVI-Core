@@ -903,18 +903,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00002505",
-      "c_avi": 25.3,
-      "d_avi": 43.9,
-      "nfl_team": "CAR",
-      "player_name": "Darren Waller",
-      "position": "TE",
-      "sleeper_id": "2505",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008917",
       "c_avi": 25.2,
       "d_avi": 50.1,
@@ -1150,6 +1138,18 @@
       "player_name": "Isaiah Bond",
       "position": "WR",
       "sleeper_id": "12503",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012504",
+      "c_avi": 22.9,
+      "d_avi": 63.6,
+      "nfl_team": "PIT",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "sleeper_id": "12504",
       "status": "Active"
     },
     {
@@ -3089,6 +3089,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00002505",
+      "c_avi": 25.3,
+      "d_avi": 43.9,
+      "nfl_team": "CAR",
+      "owner_id": "986498458162970624",
+      "player_name": "Darren Waller",
+      "position": "TE",
+      "roster_id": 11,
+      "sleeper_id": "2505",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00002133",
       "c_avi": 80.4,
       "d_avi": 85.8,
@@ -4365,22 +4381,6 @@
       "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012504",
-      "c_avi": 22.9,
-      "d_avi": 63.6,
-      "nfl_team": "PIT",
-      "owner_id": "986498458162970624",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "roster_id": 11,
-      "sleeper_id": "12504",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,

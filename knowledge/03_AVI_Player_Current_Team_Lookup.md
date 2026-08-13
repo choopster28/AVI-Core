@@ -476,6 +476,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
 
+## PLAYER LOOKUP: Darren Waller
+- Player name: Darren Waller
+- Player ID: 2505
+- Position: TE
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Davante Adams
 - Player name: Davante Adams
 - Player ID: 2133
@@ -1115,14 +1123,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
-
-## PLAYER LOOKUP: Kaleb Johnson
-- Player name: Kaleb Johnson
-- Player ID: 12504
-- Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Kayshon Boutte
 - Player name: Kayshon Boutte
@@ -2593,15 +2593,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 56.7
 - Availability: available
 
-## AVAILABLE PLAYER: Darren Waller
-- Player name: Darren Waller
-- Player ID: 2505
-- Position: TE
-- NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 25.3
-- Dynasty AVI (D-AVI, 0-100): 43.9
-- Availability: available
-
 ## AVAILABLE PLAYER: KaVontae Turpin
 - Player name: KaVontae Turpin
 - Player ID: 8917
@@ -2780,6 +2771,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CLE
 - Championship AVI (C-AVI, 0-100): 22.9
 - Dynasty AVI (D-AVI, 0-100): 58.4
+- Availability: available
+
+## AVAILABLE PLAYER: Kaleb Johnson
+- Player name: Kaleb Johnson
+- Player ID: 12504
+- Position: RB
+- NFL team: PIT
+- Championship AVI (C-AVI, 0-100): 22.9
+- Dynasty AVI (D-AVI, 0-100): 63.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Treylon Burks
