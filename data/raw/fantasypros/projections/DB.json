@@ -1602,12 +1602,12 @@
         "def_pd": 6.53,
         "def_sack": 0.6,
         "def_safety": 0,
-        "def_tackle": 67.77,
+        "def_tackle": 68.77,
         "def_td": 0.12,
         "def_tlost": 0,
-        "points": 155.45,
-        "points_half": 155.45,
-        "points_ppr": 155.45
+        "points": 156.95,
+        "points_half": 156.95,
+        "points_ppr": 156.95
       },
       "team_id": "CHI"
     },

@@ -899,6 +899,29 @@
       "team_id": "BUF"
     },
     {
+      "filename": "divine-deablo.php",
+      "fpid": 23208,
+      "mflid": 15396,
+      "name": "Divine Deablo",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 46.09,
+        "def_ff": 0.67,
+        "def_fr": 0.61,
+        "def_int": 0.73,
+        "def_pd": 7.73,
+        "def_sack": 1.44,
+        "def_safety": 0,
+        "def_tackle": 85.1,
+        "def_td": 0.14,
+        "def_tlost": 0,
+        "points": 189.12,
+        "points_half": 189.12,
+        "points_ppr": 189.12
+      },
+      "team_id": "ATL"
+    },
+    {
       "filename": "cody-barton.php",
       "fpid": 18542,
       "mflid": 14217,
@@ -1012,29 +1035,6 @@
         "points_ppr": 181.63
       },
       "team_id": "NYG"
-    },
-    {
-      "filename": "divine-deablo.php",
-      "fpid": 23208,
-      "mflid": 15396,
-      "name": "Divine Deablo",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 41.09,
-        "def_ff": 0.67,
-        "def_fr": 0.61,
-        "def_int": 0.73,
-        "def_pd": 7.73,
-        "def_sack": 1.44,
-        "def_safety": 0,
-        "def_tackle": 82.6,
-        "def_td": 0.14,
-        "def_tlost": 0,
-        "points": 181.62,
-        "points_half": 181.62,
-        "points_ppr": 181.62
-      },
-      "team_id": "ATL"
     },
     {
       "filename": "ventrell-miller.php",
@@ -1244,6 +1244,29 @@
       "team_id": "LAR"
     },
     {
+      "filename": "christian-harris.php",
+      "fpid": 23470,
+      "mflid": 15823,
+      "name": "Christian Harris",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 42.51,
+        "def_ff": 0.85,
+        "def_fr": 0.73,
+        "def_int": 0.95,
+        "def_pd": 4.9,
+        "def_sack": 0.69,
+        "def_safety": 0,
+        "def_tackle": 72.63,
+        "def_td": 0.1,
+        "def_tlost": 0,
+        "points": 162.56,
+        "points_half": 162.56,
+        "points_ppr": 162.56
+      },
+      "team_id": "ATL"
+    },
+    {
       "filename": "drake-thomas.php",
       "fpid": 25905,
       "mflid": 16450,
@@ -1334,29 +1357,6 @@
         "points_ppr": 160.76
       },
       "team_id": "DAL"
-    },
-    {
-      "filename": "christian-harris.php",
-      "fpid": 23470,
-      "mflid": 15823,
-      "name": "Christian Harris",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 41.51,
-        "def_ff": 0.85,
-        "def_fr": 0.73,
-        "def_int": 0.95,
-        "def_pd": 4.9,
-        "def_sack": 0.69,
-        "def_safety": 0,
-        "def_tackle": 71.63,
-        "def_td": 0.1,
-        "def_tlost": 0,
-        "points": 160.31,
-        "points_half": 160.31,
-        "points_ppr": 160.31
-      },
-      "team_id": "ATL"
     },
     {
       "filename": "sirvocea-dennis.php",

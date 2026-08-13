@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 625.2
-- championship_lineup_c_avi_avg: 78.15
-- offensive_roster_c_avi_sum: 859.1
-- offensive_roster_c_avi_avg: 66.08
-- offensive_roster_d_avi_sum: 1038.9
-- offensive_roster_d_avi_avg: 79.92
+- championship_lineup_c_avi_sum: 624.2
+- championship_lineup_c_avi_avg: 78.03
+- offensive_roster_c_avi_sum: 858.1
+- offensive_roster_c_avi_avg: 66.01
+- offensive_roster_d_avi_sum: 1038.8
+- offensive_roster_d_avi_avg: 79.91
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,9 +35,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Zach Charbonnet | C-AVI: 51.5 | D-AVI: 78.9
 - WR: Jaxon Smith-Njigba | C-AVI: 99.1 | D-AVI: 99.6
 - WR: Amon-Ra St. Brown | C-AVI: 98.6 | D-AVI: 99.0
-- TE: Tucker Kraft | C-AVI: 80.3 | D-AVI: 87.4
+- TE: Dallas Goedert | C-AVI: 79.9 | D-AVI: 80.8
 - FLEX: Tee Higgins | C-AVI: 82.1 | D-AVI: 91.2
-- FLEX: Dallas Goedert | C-AVI: 80.1 | D-AVI: 80.8
+- FLEX: Tucker Kraft | C-AVI: 79.5 | D-AVI: 87.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -229,23 +229,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Tucker Kraft
-- Player name: Tucker Kraft
-- Player ID: 9484
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 80.3
-- Dynasty AVI (D-AVI, 0-100): 87.4
-- Projected PPR points: 175.3
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Dallas Goedert
 - Player name: Dallas Goedert
 - Player ID: 5022
@@ -257,9 +240,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 80.1
+- Championship AVI (C-AVI, 0-100): 79.9
 - Dynasty AVI (D-AVI, 0-100): 80.8
 - Projected PPR points: 179.3
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Tucker Kraft
+- Player name: Tucker Kraft
+- Player ID: 9484
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 79.5
+- Dynasty AVI (D-AVI, 0-100): 87.3
+- Projected PPR points: 175.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
