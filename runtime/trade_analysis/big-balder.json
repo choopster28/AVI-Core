@@ -1,5 +1,412 @@
 [
   {
+    "id": "1786688871719-kln2s0",
+    "createdAt": 1786688871914,
+    "expiresAt": 1787120871914,
+    "mode": "shop_assets",
+    "title": "Shop Assets · Conquistadors",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Conquistadors",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Shopping elite running back De'Von Achane (C-AVI: 97.4, D-AVI: 97.0) gives Conquistadors massive leverage to address high-end wide receiver strength while maintaining championship-grade roster efficiency. In a 16-team league format, swapping a tier-one RB cornerstone like Achane for an elite, equal-caliber WR cornerstone or a multi-starter package allows Conquistadors to maximize lineup scoring without sacrificing overall roster quality.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite QB-RB-WR foundational core (Josh Allen, Bijan Robinson, Puka Nacua)",
+            "High championship efficiency with top-tier starter performance (C-AVI 90.56 avg)"
+          ],
+          "priorityNeeds": [
+            "High-end WR2/FLEX upgrade to maximize 2WR / 2FLEX starting requirements",
+            "Starter depth insulation across skill positions"
+          ],
+          "tradeableSurplus": [
+            "De'Von Achane (S-tier RB asset that can command cornerstone return)"
+          ],
+          "constraintsApplied": [
+            "Championship goal prioritizes immediate C-AVI impact",
+            "Starter-for-starter realism strictly enforced across all proposed player assets"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding teams lacked immediate C-AVI starting assets matching Achane's elite market value",
+            "Contending franchises lacked WR depth to part with starting receivers without breaking lineup integrity",
+            "Managers unwilling to trade cornerstone players without demanding excessive future draft capital"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Mile High Royal Lions",
+            "targetAssets": [
+              {
+                "name": "Drake London",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "WR",
+                "age": 25,
+                "cavi": 97.9,
+                "davi": 97.9,
+                "publicMarket": 96,
+                "leagueMarket": 97
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 95,
+                "leagueMarket": 96
+              }
+            ],
+            "scenarioType": "Cornerstone Near-Peer Swap",
+            "strategicGoal": "Acquire S-Tier Receiver Anchor",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 23,
+              "packageMatch": 19,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 90,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Drake London (C-AVI: 97.9) provides an elite WR anchor to pair alongside Puka Nacua (99.6) and George Pickens (92.8), giving you an unmatchable wide receiver group in a 16-team league while Bijan Robinson anchors your backfield.",
+            "whyOpponentMightAccept": "Mile High Royal Lions features deep WR talent (London, Wilson, Harrison) but lacks an explosive companion to Jahmyr Gibbs at RB. Achane gives them a league-winning dual-RB attack.",
+            "championshipImpact": "Immediate boost to starting FLEX/WR scoring consistency with elite weekly ceiling.",
+            "dynastyImpact": "Secures a 25-year-old WR1 locked into a long-term contract extension in Atlanta.",
+            "rosterImpact": "Balances offensive distribution into an unbeatable WR trio without dropping RB1 capability.",
+            "publicMarketContext": "London recently secured a 4-year, $141M extension and is locked in as Atlanta's high-volume WR1.",
+            "risks": [
+              "Slight reduction in RB depth behind Bijan Robinson"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer De'Von Achane straight up for Drake London, emphasizing Achane's RB5 PPG finish and elite explosive efficiency.",
+              "acceptableConcession": "Include a future 3rd-round pick or minor FAAB if needed to close the deal.",
+              "walkAwayPoint": "Walk away if Mile High demands an additional 1st-round pick or starting player along with Achane."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "SmokyValleyWheatWarriors",
+            "targetAssets": [
+              {
+                "name": "Chris Olave",
+                "assetType": "player",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": "WR",
+                "age": 26,
+                "cavi": 94.3,
+                "davi": 95.9,
+                "publicMarket": 92,
+                "leagueMarket": 94
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 95,
+                "leagueMarket": 96
+              }
+            ],
+            "scenarioType": "Star Skill Player Reallocation",
+            "strategicGoal": "Consolidate High-End WR Alpha",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 86,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Chris Olave (C-AVI: 94.3) gives you a proven WR1 coming off a WR6 overall campaign, providing stable target volume and immediate championship upside.",
+            "whyOpponentMightAccept": "SmokyValley possesses McCaffrey and Cook, but lacks a game-breaking 3rd RB for FLEX spots. Adding Achane creates a dominant backfield trio.",
+            "championshipImpact": "Locks in high weekly PPR floor and air-yard ceiling across starting lineups.",
+            "dynastyImpact": "Gains a 26-year-old alpha wideout under contract for four years in New Orleans.",
+            "rosterImpact": "Transfers elite value from RB to WR, strengthening FLEX positions.",
+            "publicMarketContext": "Olave signed a 4-year, $132M extension with $90M guaranteed, solidifying his long-term role as the Saints' clear WR1.",
+            "risks": [
+              "Olave has past concussion history context to monitor"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Achane for Olave direct swap, highlighting Achane's superior young dynasty trajectory and goal-line leverage.",
+              "acceptableConcession": "Throw in a 2027 2nd-round pick if SmokyValley hesitates on parting with Olave.",
+              "walkAwayPoint": "Walk away if SmokyValley insists on getting additional starting skill players in return."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Badland Banditos",
+            "targetAssets": [
+              {
+                "name": "Brian Thomas",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "WR",
+                "age": 23,
+                "cavi": 67.2,
+                "davi": 86.3,
+                "publicMarket": 80,
+                "leagueMarket": 82
+              },
+              {
+                "name": "Bucky Irving",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "RB",
+                "age": 23,
+                "cavi": 78.5,
+                "davi": 88.9,
+                "publicMarket": 84,
+                "leagueMarket": 85
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 95,
+                "leagueMarket": 96
+              }
+            ],
+            "scenarioType": "Cornerstone Multi-Starter Reallocation",
+            "strategicGoal": "Gain Starter Depth and Young Upside",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 21,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 81,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "You acquire two legitimate 23-year-old starting assets in Bucky Irving (RB2/FLEX) and Brian Thomas (WR3/FLEX), bolstering overall roster depth for a championship push.",
+            "whyOpponentMightAccept": "Badland Banditos can consolidate two secondary starters to secure a true S-tier RB cornerstone in Achane to pair alongside Ja'Marr Chase.",
+            "championshipImpact": "Enhances lineup flexibility and injury resilience across both RB and WR starting spots.",
+            "dynastyImpact": "Adds two high-ceiling 23-year-old dynamic skill players with significant long-term growth.",
+            "rosterImpact": "Converts 1 elite asset into 2 league-relative starters, deepening FLEX options.",
+            "publicMarketContext": "Irving is expected to bounce back from his Year 2 shoulder injury, while Thomas retains high-end vertical X-receiver potential in Jacksonville.",
+            "risks": [
+              "Irving shares touch volume with Gainwell; Thomas has week-to-week variance"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Achane for Brian Thomas and Bucky Irving, highlighting Achane's top-5 PPR RB ceiling.",
+              "acceptableConcession": "Add a late future pick (3rd round) to complete the deal if needed.",
+              "walkAwayPoint": "Walk away if either Thomas or Irving is removed from the return package."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Garrett Wilson news 2026 fantasy dynasty",
+          "Drake London news 2026 fantasy dynasty",
+          "DeVon Achane news 2026 fantasy dynasty",
+          "Brian Thomas Jr news 2026 fantasy dynasty",
+          "James Cook news 2026 fantasy dynasty",
+          "Bucky Irving news 2026 fantasy dynasty",
+          "Chris Olave news 2026 fantasy dynasty"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzZFVJNCSzDBESRbTcWQcu-g7bl8kPC_uo7WvHe_yQxcxXXK0lyvvqdQHd9cY68zAjt2fKc3i06sAI1ppT8CR_EBT8-3IzhAj2o-yYm2v1PDV5UZuVoJxDdd57297ZO6EDIW2XOfazDkwUn3Gxvz3C_Med3yuz-6K1qKBV1-Jcjfzix2kxkGEBjtjUs1ozER04fI6C0e0m0yehCVuPm8V3SWtw",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENy_Ku9HscCsrmosrIcOV7KX-QBq3RlL-5JJhoAG_Ar0pPzh5yeGzF5N5923doeaEtWG4onxrO1TU1rpH5or53JLhtegebDbH4Ipl0J3YhKTBWYP-pz-1hFdnAWGRcNLpFcc3kkc4kL63CjnFMxH0EInVrV1MF5TMrajrWr5tb2Q==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOQ_cGSLv89rk40YE14oxYjHMTwnwmaEkqytUe_g2eBmRN1iJXtYXDWVw6xnElt93ybVGPrT9vrwlB259pN1EsRVL4nPSDY0dgujqA0f_tXxNfRX28f4YUPVNRMkkEO9_0amaIA1mtiABRNiO6p9Y7MZIHITy_tMMjtdgvemKPANyaFDyPO89vggkePg7QjJJherVjvGXMTTgB--5HZ4cDCfXmGka0aLHdlmnd--MDzkpwDWo4vMgmHV7SEzeUxVTV",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp8yASbgk3U8o46N-p6Ws29LEU7mrcr9b35GkMMdxHse779vzGyJRt8sG0o39jkwMkRnrroWnzFOnTF1edAWRL0KrW0faDv7BGRG1hVaZ0K4Nenf8cvNys9bzGt8tvFOpbpPzbdgHqwxvy9O_UDqLIi2jR9ZA9xAzI8wciLm8_yjTYeJ6MLzEU1s5pRpSAzYidXPtevSVeRr2OSg==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC6P8wERIKtD0QEr9eHy6-Bp1888KO-FbziWzeREVxUKfpmwDke0NtTFX-7pASYwJtYshIhvcImxxUnKCjSp-zNSV1G3BN002nDJJzQSvi26T02hJyBkQER5XRJhYZaN9vYCgxzawe4uBVp9gISWq4mtgay__v-eCWDoI6I-Y9EFzHWqDPyct0NLc=",
+            "title": "dynastynerds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeAGTt2-k8uE7ySiuTUTAYFFKc6MQlmT88-c3aqa2W6lucmSriXrUC0zBgcv1XlxxeuQuxzfIN1YkF21H8e5RtuTvXeJG4iNgZfmgfTQ0fixGWVe6xXzPMtonbdz339vkuXhe0fPk0WUl2uvKUwlYyvMTsDAq_bN1EIsHizt953CoGqOhlbcOLEAMe1t6mDXcYgq12h4h7Vjnn1JsSNw==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjWXNrfDCZH-hRN2k7ZzgurWzx20DQEa90mw-hrhObOaKbReu8LF93zE4Mp3AhSlGSJ6T6IdnKVrWcQi1SID_t6wiZUgVuQnmO_vlb8ymAjEpkL-9TKN-0CFegMxIXx9Hn_x3e67gEksNACYNbnL6ti6-ftXNGsvzWrvuJe8aBmf8RENe1dXHiah73ftbVyjmUkvkL0GEEsA==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDKp7T-TG5CrgFm6WQkhlyHn9zvrYxVKKI3MveVNUAr5L4mO4PjhcExPPUJKnrDLfx8l4VRqWzatZzqoyhFcy1R7b1BcWuJ-EHC8KSIyufiV5fBKco9sPlqejfSbFls0BG-7eQ64-uLkI5Kk5MRx55zKw2hiHhbFPBVW2YRb9B9oguLsNzpR4E6WLZexJOPgZFyRHOKpEZQPfQN7Nsm8LSPFTG",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkD70ZL2MII28ompjQLIySAqM-hPkUlHFGnHDTkLr0PVFinuEIu56lb7S9oYJwX4dnEbsLb74PF3__9wzQHdz5Jg62pAr74CvCe7QM4LcXMT9I-GRU9yL4n5rAaGoIhNaK3O_U1hjdbBP1SNK1BjoHX7ELGauORxh3g0fpj8uvI_LU6H7dhHatWS5EdT0AZwFHTUeqKK0=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDIVdIPSP30S_Jk0o9dr_pf4Hu-0IzP5RcVAMJvr9gBt3nzJ0KDpt-pfreNgqQa4sfeNvnKwoK3m5igFhLPj79NJ5ak4qlBskS3cnrvHGbjCEtL09B2a1b4_sBMgTk7TcHyUBqrWT86qDb-mIuYbBRgSfVruED38B_4DIfd0mrYW4xXKuwSN7kt-ctAcRUaZfkNLHKSnzEkxs=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhdPT48itpAkLafHkyS5TfyHaxR8mTKC_5kCtIT-qUagnN2-tEujVwf5SRqnEfNfdcetDiBRV1e92aD4kDJtJb9j_33BkBS5UHHfoZllpFp9sq_8mkxf-qv7mxROP0Y0xyqhUkW7wrkeoMeiWhen0GaPQa-ZDlWYFpu3iVILZdkXIfndDyK2k-KYdsZ8FoIzVv1wOn95smgw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwDHYfwGq1D9vqjKYmEB4P7Mm5vaw8dCPtXe5TRqnicQgeTH4furIK0N8qnv30zynuUsGEfulxpUnlMdWAviQSDhu7LCxxDis1LZwRZd66STVWfUuvrmsINS4x6UCiBHsJ-IqwG-ECucOH9IszE-qeia3gqpMsbs_6qxFZzKJ8jb92hvbbXx5nLfavROmjDt7j3vg=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7eLS5SD58k2npKnpxAp8wmWlAQxRuho8zuTsdiFfxah2w2JoeTkeXvQ6DoUPlljKxT8ITVtw8ogThQxYc2Rgmd_ovJ0Ft9cdhcLdVDovMjdIiM9L_Z4ywZ_h-lHuDWWjvF2FeZvpZzBCTBm-57r_E2U11fQuMqsie1ukcm5sgPA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtbN8g7Ge7nxkyjnJIgEM4N-64cFGNd2iUlwwlC412Urj2XspYBHmZzInYd9rt8_hrOoucM0Dx9243oUzArclToj7r0yBkOGtdSy46eq7mjTzl5DPCmJkJZJkcbjwgu7hT_ZFxZzKk3PZCxHRj_tlyUclgtye1NRunVnvNyJw=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUoF9aE122uvoQoHHp37bgBBe5SR5U-QNNZtmS0QI1aJELJkp10Dc0skU2NS8Uod9dLNzXyiOrUREPWCO3ZV5xIeqeri1Xh69aBaavptvLlArOKvWdDzIePZ722vC_GLPCjNLyS3ardsV3f2bPp0PUZS1sPs1VO4XYV9NCktIM68qlemWtks9rF2I7QyYUqA9efz01",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOGu7Zz_mxHlaCNxW165hdv0lQ-QG60aO3v8nUqoAihkqpQDiZ0vYWzlXmX6nLCL_GPX2XMHeJPFoXexwMXcDx07bWGvmDFT6pr37FuxLN3d3YLIsfWKGvFrG20uUmcLHlGKOi1rhLkNIa5_qG-5SKxyA7qrzSybZne4RdL5iN5BGl0Iae3zZI2XzITLMN6LTJbi6My8qFNS4=",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJwkfEnAOJ6FbS5Ybz0L6-LP6mhdcgUPvPh4GP3XP6hyevyt24gGmrePQogVcnjxLuXNyOeeoxcR1NGVGnC8xYJs-gO1G_ABYuVEiSA9S3JrWv_IRPEwvgY0LFOjK_vIuxbJgfzDXUUhYGrqRiafLfAoVQBR04zBhBFKVDZIINqSLfF-XpaS_iXK5kGc7yHI1fTy-0XiJnJo=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCAz1-L2hu4oGJxPBK1QtVHuxAXRgFJm82kMLcvRArF5FffPro3c5bWMK79adPoc5kPFr-pbRyWyJKYLGFUaKSlEKL24Ovz6UTL33-tAY8kg-Aba7Ngod7EKsMbKan-LZfsimVMYp_9bAcSEGBc6biCYJKbGJrdcbNRAcScCxHw9RKmUk40EtEBITqxZYDq1AedbAs-URU2gbDaFx1jA==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkOA5MAHP9Iatn98s7SyAC0hnu6fKfKVVy7eiqyPSZtkQfIj_bQgtmcq-JK0v59wFKBL2OtLp2pPuiG8PkI7DJ1vCNW8hEdiMuOaffMGMhSBzbB9MvNSNolNjaLibgFAWDB-bqpLkWHVmQ8nVsiwkNglE5Gi5c1qi51Xq3I7Q_5wYhtdA_sX1Nk2Wf7U24IMAtkfSTEGKO3H7tsvgVTCwt",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2pSJdrn1uvPTfW8rRdHqL8mO-aB3Fr1LW08qyewR-4owQpGu5k-Brk0HVWBkzM_zwIjKfa8EL-TSlwUSYhfbwlFaro9YMOyOiDFPRA4zHSCOmlHrDw89T471AzaAJ3Zb3",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM_XNy9p7AnUiWjyURNEL8tR5Wu93xKbeJ_jZrdvXpAehUIN6qRMRdvjggd1Nc8ObAJ6Henp2nIfxXWQyEmlBWx6oMYYMQxDhu8UzEUZ_MpI-qPW_2xsx5rfSwTqUSpeAAX8x5ZDx3EGK-D1S8GxbitQuu1m6YNP2Y_cm9w3qlpL5BAIl9a25wKwKlAV-b6yb7ZX8mtix2x9KZhdRp-dQy-8bB1A6IWMOQdfQAGjrQ",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Drake London",
+          "Garrett Wilson",
+          "De'Von Achane",
+          "Brian Thomas",
+          "Bucky Irving",
+          "Chris Olave",
+          "James Cook"
+        ],
+        "aviCoreCommitSha": "13caa65b6b827416a4663199c3e9f8cc3c30389b",
+        "aviCoreCommittedAt": "2026-08-14T05:45:16Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 411723,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "1786688389751-oluinh",
     "createdAt": 1786688390100,
     "expiresAt": 1787120390100,
