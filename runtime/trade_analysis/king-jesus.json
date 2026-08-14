@@ -1,5 +1,353 @@
 [
   {
+    "id": "mstgvheo-c8538e8a",
+    "createdAt": 1786743441787,
+    "expiresAt": 1787175441787,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · All Hail King Jesus ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "Justin Jefferson",
+          "assetType": "player"
+        },
+        {
+          "name": "D'Andre Swift",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Amon-Ra St. Brown",
+          "assetType": "player"
+        },
+        {
+          "name": "Dallas Goedert",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "All Hail King Jesus proposes sending WR Amon-Ra St. Brown, TE Dallas Goedert, and a 2028 1st-round pick to Corgi Loaf Baking Co. in exchange for WR Justin Jefferson and RB D'Andre Swift. While the trade is intriguing from All Hail King Jesus's perspective to bolster RB production alongside an elite WR swap, it fails Market Reality validation for Corgi Loaf Baking Co. As an Elite Contender with a explicit 'Win Championship' goal, Corgi Loaf cannot afford to surrender starting RB2 D'Andre Swift (77.4 C-AVI) without receiving a startable RB in return. Taking back TE Dallas Goedert (81.1 C-AVI) creates positional redundancy behind TE Tyler Warren (97.2 C-AVI), forcing Corgi Loaf to start Tyrone Tracy (50.1 C-AVI) at RB2 and causing a net 16.9 C-AVI drop in their immediate starting lineup.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 98.5,
+              "leagueMarket": 98.6
+            },
+            {
+              "name": "Dallas Goedert",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "TE",
+              "age": 31,
+              "cavi": 81.1,
+              "davi": 81.8,
+              "publicMarket": 80,
+              "leagueMarket": 81.1
+            },
+            {
+              "name": "2028 1st · King Jesus",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Justin Jefferson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.3,
+              "davi": 98.5,
+              "publicMarket": 97,
+              "leagueMarket": 97.3
+            },
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 27,
+              "cavi": 77.4,
+              "davi": 86.2,
+              "publicMarket": 78,
+              "leagueMarket": 77.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "D+",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "For All Hail King Jesus, acquiring Justin Jefferson and D'Andre Swift upgrades RB2 from Aaron Jones (55.1) / Zach Charbonnet (51.5) to Swift (77.4), while maintaining S-tier WR1 status (Jefferson 97.3 for Amon-Ra 98.6) and shifting TE duties seamlessly to Tucker Kraft (80.6). However, for Corgi Loaf Baking Co., giving up Swift leaves a massive RB hole that Goedert and a 2028 1st pick cannot fix during a 2026 championship push."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Improves overall starting lineup strength by solving the critical RB2 bottleneck while preserving elite WR1 production."
+            },
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Substantially boosts 2026 championship odds by adding D'Andre Swift's reliable RB2 points to an already potent wideout group."
+            },
+            "dynastyOutlook": {
+              "score": 5,
+              "summary": "Keeps dynasty value stable by swapping peak 26/27-year-old cornerstone wide receivers."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Replaces a weak RB2 slot (Jones/Charbonnet) with a high-floor starter without losing starter caliber at TE (Kraft replaces Goedert)."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Slight decrease in bench/TE depth with the departure of Dallas Goedert."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders 2028 1st-round draft capital, reducing long-term trading flexibility."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -35,
+              "summary": "Damages championship viability by creating a major void at RB2 for an Elite Contender seeking a title in 2026."
+            },
+            "championshipOutlook": {
+              "score": -40,
+              "summary": "Directly harms 2026 title odds by reducing weekly scoring capabilities at running back."
+            },
+            "dynastyOutlook": {
+              "score": 10,
+              "summary": "Gains long-term liquidity with an additional 2028 1st-round pick."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Forces reliance on lower-tier RBs (Tyrone Tracy 50.1 / Dylan Sampson 48.0) in the starting lineup."
+            },
+            "depthResilience": {
+              "score": 5,
+              "summary": "Adds Dallas Goedert as high-end FLEX depth behind Tyler Warren."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Adds a premium future asset (2028 1st) to the asset chest."
+            }
+          },
+          "explanation": "The proposed transaction creates a severe structural imbalance for Corgi Loaf Baking Co. While All Hail King Jesus achieves its goal of increasing championship odds by upgrading RB2, Corgi Loaf suffers a -16.9 C-AVI drop in starting lineup output, directly conflicting with its 'Win Championship' mandate."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "+22.3 net C-AVI gain at starting RB2 (Swift 77.4 vs Jones 55.1), minor -1.3 C-AVI shift at WR1 (Jefferson 97.3 vs St. Brown 98.6), and minor -0.5 C-AVI shift at TE (Kraft 80.6 vs Goedert 81.1). Net weekly starting lineup increase: +20.5 C-AVI.",
+          "sideADynastyImpact": "Preserves elite WR core longevity while consolidating depth into active RB production.",
+          "sideARosterImpact": "Fills the single biggest weakness on the roster (RB2) while smoothly promoting Tucker Kraft into the TE1 slot.",
+          "sideBChampionshipImpact": "Gains +1.3 C-AVI at WR1 (Amon-Ra 98.6 vs Jefferson 97.3) and +9.1 C-AVI at FLEX2 (Goedert 81.1 vs Watson 72.0), but suffers a -27.3 C-AVI loss at RB2 (Tracy 50.1 vs Swift 77.4). Net weekly starting lineup drop: -16.9 C-AVI.",
+          "sideBDynastyImpact": "Adds 2028 1st-round draft capital but weakens current year championship competitiveness.",
+          "sideBRosterImpact": "Creates an immediate crisis at RB2 in a deep 16-team format.",
+          "valueAssessment": "Total incoming market value for All Hail King Jesus is 174.7 C-AVI / 184.7 D-AVI against outgoing 259.0 C-AVI / 260.1 D-AVI (including draft pick value). While gross value heavily favors Corgi Loaf, positional allocation severely damages Corgi Loaf's actual starting lineup."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Justin Jefferson remains a consensus top-5 overall dynasty WR, benefiting from quarterback stabilization in Minnesota under Kyler Murray. D'Andre Swift enters 2026 as Chicago's unchallenged lead back behind an elite offensive line, maintaining solid RB2 dynasty value. Amon-Ra St. Brown is universally valued in the same tier as Jefferson in PPR formats due to target volume dominance in Detroit.",
+          "aviVsMarket": "Public market rates St. Brown and Jefferson as virtually equal tier-1 WR assets. Public consensus views D'Andre Swift as a valuable mid-RB2, making him highly sought after by contenders in 16-team leagues.",
+          "relevantContext": [
+            "Justin Jefferson target volume remains elite despite 2025 QB volatility; Kyler Murray arrival stabilizes his ceiling.",
+            "D'Andre Swift is secured as Chicago's primary goal-line and receiving back.",
+            "In 16-team formats, starting RBs carry double the relative scarcity value of secondary tight ends."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is an Elite Contender with a 'Win Championship' goal. They have zero motivation to downgrade their starting RB2 position to receive a redundant TE and a pick two years away.",
+          "packageFit": "The package fails structural fit. Corgi Loaf already owns TE Tyler Warren (97.2 C-AVI), so Dallas Goedert only functions as a FLEX play, failing to solve Corgi Loaf's immediate running back need.",
+          "lineupReplacement": "Corgi Loaf has no viable internal replacement for Swift. Downgrading to Tyrone Tracy (50.1) or Dylan Sampson (48.0) turns a championship starting lineup into a compromised contender.",
+          "competitiveWindowFit": "Misaligned. Corgi Loaf is in peak 2026 championship win-now mode; future 2028 draft picks do not produce points in 2026.",
+          "positionalScarcity": "Extremely high at RB in a 16-team dynasty setup. Surrendering a locked-in starter like Swift without receiving an RB starter in return is unviable for a contender."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 10,
+            "packageMatch": 10,
+            "lineupReplacement": 5,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 45,
+          "classification": "Unlikely",
+          "explanation": "Corgi Loaf Baking Co. will reject this offer because it directly conflicts with their 'Win Championship' goal. Trading away starting RB D'Andre Swift creates an unfillable hole at RB2, and receiving TE Dallas Goedert plus a 2028 1st pick does not fix their 2026 starting lineup requirements."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Corgi Loaf Baking Co. will reject this offer because it directly conflicts with their 'Win Championship' goal. Trading away starting RB D'Andre Swift creates an unfillable hole at RB2, and receiving TE Dallas Goedert plus a 2028 1st pick does not fix their 2026 starting lineup requirements.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Corgi Loaf Baking Co. will reject this offer because it directly conflicts with their 'Win Championship' goal. Trading away starting RB D'Andre Swift creates an unfillable hole at RB2, and receiving TE Dallas Goedert plus a 2028 1st pick does not fix their 2026 starting lineup requirements.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Corgi Loaf Baking Co. is an Elite Contender with a 'Win Championship' goal. They have zero motivation to downgrade their starting RB2 position to receive a redundant TE and a pick two years away."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "The package fails structural fit. Corgi Loaf already owns TE Tyler Warren (97.2 C-AVI), so Dallas Goedert only functions as a FLEX play, failing to solve Corgi Loaf's immediate running back need."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Corgi Loaf has no viable internal replacement for Swift. Downgrading to Tyrone Tracy (50.1) or Dylan Sampson (48.0) turns a championship starting lineup into a compromised contender."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Misaligned. Corgi Loaf is in peak 2026 championship win-now mode; future 2028 draft picks do not produce points in 2026."
+            }
+          ],
+          "opponentPerspective": "Corgi Loaf Baking Co. is an Elite Contender with a 'Win Championship' goal. They have zero motivation to downgrade their starting RB2 position to receive a redundant TE and a pick two years away.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "The package fails structural fit. Corgi Loaf already owns TE Tyler Warren (97.2 C-AVI), so Dallas Goedert only functions as a FLEX play, failing to solve Corgi Loaf's immediate running back need.",
+          "whatWouldNeedToChange": [
+            "Corgi Loaf Baking Co. is an Elite Contender with a 'Win Championship' goal. They have zero motivation to downgrade their starting RB2 position to receive a redundant TE and a pick two years away.",
+            "The package fails structural fit. Corgi Loaf already owns TE Tyler Warren (97.2 C-AVI), so Dallas Goedert only functions as a FLEX play, failing to solve Corgi Loaf's immediate running back need.",
+            "Corgi Loaf has no viable internal replacement for Swift. Downgrading to Tyrone Tracy (50.1) or Dylan Sampson (48.0) turns a championship starting lineup into a compromised contender.",
+            "Misaligned. Corgi Loaf is in peak 2026 championship win-now mode; future 2028 draft picks do not produce points in 2026."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Justin Jefferson news 2026 fantasy value dynasty",
+          "D'Andre Swift news 2026 fantasy value team"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN49gGV4kbsB-7t5iz0i-EdiBL8LiOdkb9eKsaB52v0XaXxeSaTPG5dJD4iIDVOCalXQvVIBlQ7OoxViAdHewvCYLIqZyIhU87rkW9vvfjJSvGeVZaDyE3PAx4KgFU5lwA2LOS_dCRtoV37UTw43vwTXn0QFxHASgMwSqN3MUiePGuuDAqeK0rYmxCntrGq7b0FmI_uG2-lZA2A0DW4YbB-y2smx036BB58OerNt4=",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWSH0enKvJKEGZxSjVbpjcgmYU8Tfkw70SoL9DJy9_shllTPg0vjQN_WKfW3pQ9tvDGQ-Ab6ryZ_dNEqbrfqRC7dO6C7KW9VMrl5VEzKAHfsDoDeJzXr5a7SJ8V4Jr6QV3ZlRo4Et7ZeW6Z2kAxEA9k37QIKBVhWWELOz2vYRln4GECtU=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRFrmMkFrCqmYyXw1JpGiQ1n3Hra5pX5t_uXXyYTy3iQRMIo71fJlZCWUQ0Ste6i7cggW_cP_4HcGd1ClsqNpi--fYiuTKg9F6tahvnsNvYOe-id2Pun75EtaPClXXoD1CqcTfMW50WJSLya9y2_KHetdO_b7Ftwv1LKDtJs2F2y2YzzACEBBVJTIMbJwdwrppmoZ70ctADMmMnepzddwc3mY8",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuWDfFFKsq3kMKFHtOw2f9NixpJfpIxeSk-nqIo_2ybpHS5KWU_yTPluDnEkR0USzbW_iR_tyXvGMtu5Hhl-xZ-3KUD9rUd2WZOHepzavSuCX0gxiPjXjfb465mPUdYYvXhZMu59JgWaASayJmRhuxCVAyuE3Z3Pj4SFsDAGEwaMITypPW2Kif3wPFUVQ3D-KRh9YE-TK5nLLyGxGbSw1tkNzoknxzNrGAUJ7vayCx",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH6_VcStwFg6iBaqunwx6nR71lYOfq6YN1ZepEW_ES9eLsPNaaoeY2Znv7P4zdU2ujJ1PYfWua0rXI3gIsIlbq2Ds7JVsK-nP7vRlYML440d9cfgaFRKQNxkd0vuRLv7u83X-J9UOBAxAMs2nen52eidU=",
+            "title": "dynasty-daddy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4U7TnnmrdJXAqoe9kvN7F1QzD5_u0S13Dzic90tbHSeAlHvtSrYai_BVISKCzpVt3LTxNOueQfUFFp5l6EuQMruiGj3hEramQB0NGzGuvBX7UOUDR4hhCW2VsLBoNUwXCLpi8W2Zm7fi047DieCaUpS8Kls3kOCrnHwl2reV6DIrt2QzehiYklsCU5WYQt6MPAZeUG1J8",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsm-Dd0Av4hVw_1Qjqz3kVUqN97LHwyORqoApfzfM35RsXb6thy9ZF3zUi69weSFyHtj9gsW-Eg63vDnZgJ--B7kcwwGJohcsd0NuYi2Bq3qS_cbGyb-KaZ4yqhFICgN4ywP6wajqObovQA5SqTTp2dAj7zYrU",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoiISCVj9kMBgUbdFzgDLPk8Gty7D_Gmi4qExFnZTrlG3S9xISt2Cz3C2z5FqaMii8L01s5Su3wMoMKaKQyghaC-hLfIbgxBdFIZs9ykzjFwbJ2OYHIlkecYxY1T9kppkjVzbnnmLtg4cXXXnt3I7W1tvgitoTSeQ_ORGXD7a86Z6IYcO5emu93Sy6rDu3ScKGVuve-3qKwHCjnA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESZ4fPlf8S5S4zb4Hui2Onyz9y5TAzPzEtaByXJ7UiJMtj_3vW17Y0t1vro1l3xf6IlAm3RFtJ882WUiYrXZudIvvFYo8PiafG3jjW0hWCHlrPr5Umh2HFzO8EuepOI-NmpVL8d1rNWh4BygKsmp2Pfo4kcmj9TQU3hGaV4IuAG6ePrtHBXw==",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJLcWxJDy9acCpCp2k1IPhyB4DpjRag8coP4EptXtP34w6iVGESZoHxdQemzdn-kofm3zCxnWVyDZcj7aTlloOrxUCNcrA4lIqJzPQdm1997lGv75lishhY0VW6T58A5EbDonPjdpAAU72xbqvpnEQZniUxZxWeUdhyFfExCzJzJeKdxwtARW5xFC9L5INp_mfi2l8cc-fGHOJq6nwtGXeHy9GLLGl3AcP0gaTimqXAw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCKWf4976UmLS8j36DN0KhQTlOu8wfdcsf98JRmkm3dP-8dPe_ob7siiEeQuQQPffE7rP4_7z93jujPq1nJYQqCVfCHVzsyNx6pqCAT7XwsNNQVWdOTdbK5NLtgwJHO4dU5SudkRYmuvE32fiSPqaQj7ugN5ENEz3B-9Dh8IzZT7aG3fd_fHJ-v83WKjCKaD3fZfRyPxBvs08_FQfg5iVmuxvwrWDIixeVl_x0ZRDTCjUQ9IQlVkh5kj5zWma4heoL24wP2HEt",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTNNWuW5o5k5iEtR6fmv2JgGBeEWifrbjCNQw31tGWh8DXvqSPAeBxNCLe7p6f6XLGm7Y0swdR22DUA4P6fnXSnCAdtTc4HxJsRwQXkk9EmHZXDUPoxqV2uHB55koRJE882sVi0fkS6yphto1ySzFDe2G8AxMmDuedGF61f6YgBEwF7CMh9RbU43-4tVaJMmmCwhu9HMv4mg==",
+            "title": "ftnfantasy.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "af80b30cbfcc79e29041d8e0fd76e60a96a232dc",
+        "aviCoreCommittedAt": "2026-08-14T20:00:26Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 65342,
+        "groundedMarketChars": 3163,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mstgrd2e-f83f2e72",
     "createdAt": 1786743248894,
     "expiresAt": 1787175248894,
