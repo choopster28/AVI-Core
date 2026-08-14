@@ -1,0 +1,25 @@
+[
+  {
+    "id": "mstizqam-3fe96071",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Northside Kings",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1786746934750,
+    "updatedAt": 1786746934750,
+    "expiresAt": 1787178934750,
+    "status": "queued"
+  }
+]
