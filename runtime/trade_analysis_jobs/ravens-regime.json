@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mst7m2e2-276fc8c2",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jameson Williams",
+          "assetType": "player"
+        },
+        {
+          "name": "Kyle Monangai",
+          "assetType": "player"
+        },
+        {
+          "name": "Jordyn Tyson",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786727821466,
+    "updatedAt": 1786727821466,
+    "expiresAt": 1787159821466,
+    "status": "queued"
+  }
+]
