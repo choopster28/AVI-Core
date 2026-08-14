@@ -18,9 +18,251 @@
       "foundationAssets": []
     },
     "createdAt": 1786745516610,
-    "updatedAt": 1786745517520,
+    "updatedAt": 1786745563397,
     "expiresAt": 1787177516610,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "A realistic acquisition proposal for Jaxon Smith-Njigba cannot be constructed under current Market Reality. Badland Banditos and All Hail King Jesus are both verified Playoff Push contenders with the strategic goal to Increase Championship Odds. Acquiring Smith-Njigba (99.1 C-AVI / 99.6 D-AVI) would require surrendering an elite core asset like Kenneth Walker or Bucky Irving; however, doing so leaves Badland Banditos starting Sean Tucker (34.2 C-AVI) at RB2, resulting in a net decrease in starting lineup quality and violating Badland Banditos's primary goal. Conversely, a draft-pick and depth package fails All Hail King Jesus's mandatory competitive window requirement as a win-now contender.",
+        "trade": {
+          "sideA": [],
+          "sideB": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 98,
+              "leagueMarket": 99.1
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "F",
+            "otherGrade": "F",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Neither",
+            "summary": "No realistic trade proposal exists that satisfies both franchises' verified goal to Increase Championship Odds."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 0,
+              "summary": "No trade executed; roster remains intact."
+            },
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Starting lineup C-AVI baseline preserved."
+            },
+            "dynastyOutlook": {
+              "score": 0,
+              "summary": "Dynasty asset distribution remains unchanged."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Lineup composition remains at pre-analysis levels."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Existing RB and WR bench depth preserved."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "All draft capital and trade assets retained."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 0,
+              "summary": "No trade executed; roster remains intact."
+            },
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Reigning OPOY WR retained for title push."
+            },
+            "dynastyOutlook": {
+              "score": 0,
+              "summary": "Cornerstone receiver secured."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Elite starting WR production maintained."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Roster depth structure unchanged."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Future assets remain unchanged."
+            }
+          },
+          "explanation": "Because no deal satisfies the strict Market Reality criteria of improving Badland Banditos while remaining acceptable to All Hail King Jesus, no assets change hands."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Neutral (0.0 C-AVI net change). Retaining starting RBs Kenneth Walker and Bucky Irving avoids creating a critical hole at RB2.",
+          "sideADynastyImpact": "Neutral (0.0 D-AVI net change). Preserves current young foundational talent including Ja'Marr Chase, Kenneth Walker, Bucky Irving, and Brock Bowers.",
+          "sideARosterImpact": "Roster structure remains stable across all mandatory starter slots.",
+          "sideBChampionshipImpact": "Neutral (0.0 C-AVI net change). Retains top-ranked wide receiver production for 2026 title contention.",
+          "sideBDynastyImpact": "Neutral (0.0 D-AVI net change). Retains premier 24-year-old cornerstone receiver.",
+          "sideBRosterImpact": "Lineup core of Purdy, St. Brown, Smith-Njigba, and Higgins remains intact.",
+          "valueAssessment": "Jaxon Smith-Njigba represents an elite S-tier asset (99.1 C-AVI / 99.6 D-AVI). In a 16-team league with strict starter requirements, trading for him without adequate structural depth damages the buyer's roster integrity."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Jaxon Smith-Njigba is coming off a historical 2025 campaign where he led the NFL with 1,793 receiving yards and was named NFL Offensive Player of the Year. Public consensus ranks him as a top-3 overall dynasty asset.",
+          "aviVsMarket": "AVI values JSN at 99.1 C-AVI / 99.6 D-AVI, directly aligning with public market sentiment as an elite tier-1 cornerstone.",
+          "relevantContext": [
+            "Named 2025 NFL Offensive Player of the Year after posting 119 receptions, 1,793 yards, and 10 TDs.",
+            "Commanded a 35.8% target share and 44.1% receiving yardage share in Seattle.",
+            "Consensus top-3 dynasty WR alongside Ja'Marr Chase and CeeDee Lamb."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "All Hail King Jesus is in Playoff Push mode with the explicit goal to Increase Championship Odds. Moving a 24-year-old elite receiver weakens their immediate title contention.",
+          "packageFit": "Badland Banditos's draft picks and secondary receivers (Brian Thomas 67.2 C-AVI) do not solve All Hail King Jesus's core starting need without weakening their WR core.",
+          "lineupReplacement": "All Hail King Jesus cannot adequately replace Smith-Njigba's 99.1 C-AVI baseline internally or through a pick-based offer.",
+          "competitiveWindowFit": "Both organizations are contenders. Future draft capital does not match All Hail King Jesus's current championship timeline.",
+          "positionalScarcity": "In a 16-team PPR format, tier-1 wide receivers commanding 35%+ target shares are virtually irreplaceable."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 0,
+            "opposingGmMotivation": 5,
+            "packageMatch": 8,
+            "lineupReplacement": 4,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": false,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 19,
+          "classification": "Impossible",
+          "explanation": "Jaxon Smith-Njigba is not listed on the league trade block and represents an un-shopped elite cornerstone. Any offer Badland Banditos could assemble either creates an unmanageable starting hole at RB2 for Banditos or fails to satisfy All Hail King Jesus's win-now competitive requirements."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Jaxon Smith-Njigba is not listed on the league trade block and represents an un-shopped elite cornerstone. Any offer Badland Banditos could assemble either creates an unmanageable starting hole at RB2 for Banditos or fails to satisfy All Hail King Jesus's win-now competitive requirements.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Jaxon Smith-Njigba is not listed on the league trade block and represents an un-shopped elite cornerstone. Any offer Badland Banditos could assemble either creates an unmanageable starting hole at RB2 for Banditos or fails to satisfy All Hail King Jesus's win-now competitive requirements.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "All Hail King Jesus is in Playoff Push mode with the explicit goal to Increase Championship Odds. Moving a 24-year-old elite receiver weakens their immediate title contention."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Badland Banditos's draft picks and secondary receivers (Brian Thomas 67.2 C-AVI) do not solve All Hail King Jesus's core starting need without weakening their WR core."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "All Hail King Jesus cannot adequately replace Smith-Njigba's 99.1 C-AVI baseline internally or through a pick-based offer."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Both organizations are contenders. Future draft capital does not match All Hail King Jesus's current championship timeline."
+            }
+          ],
+          "opponentPerspective": "All Hail King Jesus is in Playoff Push mode with the explicit goal to Increase Championship Odds. Moving a 24-year-old elite receiver weakens their immediate title contention.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Badland Banditos's draft picks and secondary receivers (Brian Thomas 67.2 C-AVI) do not solve All Hail King Jesus's core starting need without weakening their WR core.",
+          "whatWouldNeedToChange": [
+            "All Hail King Jesus is in Playoff Push mode with the explicit goal to Increase Championship Odds. Moving a 24-year-old elite receiver weakens their immediate title contention.",
+            "Badland Banditos's draft picks and secondary receivers (Brian Thomas 67.2 C-AVI) do not solve All Hail King Jesus's core starting need without weakening their WR core.",
+            "All Hail King Jesus cannot adequately replace Smith-Njigba's 99.1 C-AVI baseline internally or through a pick-based offer.",
+            "Both organizations are contenders. Future draft capital does not match All Hail King Jesus's current championship timeline."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba news 2026",
+          "Jaxon Smith Njigba fantasy value 2026 dynasty"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Vtw-jxULfwMECdNZQspSEPlVPoxOWkAYozjkIP_sPXdbR9rTPPjarjYlDnM-b5NimkDLAM9DVM5otG_hUiUTduFa1_RdAU33TU7cFB50Q_Elq7NG9Z5VAqC3lLPGkNkkHrOqx5_kDAMMYQbt",
+            "title": "dynastynerds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFath3FWZ4zCKjAF1SBY7v-o4VI6HSUnVR5Ld2RqSRi1Vn_7EaVelMLXt7m5GzZjqYcQFRVwlcGiR2Q1E3B0iiKrHlUYydmvEkDLBtD9c-6EYaZo-TgG21NhMS5Xfx_413GBtUFg8w4oWT8EpPut0XlAgC6kLNSJNdnsd1MvLud2U1omQeRvdCr29In6-ym",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcTEFg1ChivBsIc4pHHybZYknl1rU94Ir3TZ4oTQz5mJ4sqcRITUUf0VO77F3Hk7YVRG-y6c8WYrXdjp-4DRlX4iPcvXjMBgGH0O7Jy0jtJ_qsV5ZGzxmUe6LiD_0n19mdiY4SByNNnj8NWWRnPtbN10gqlD2t1mVrL2p5VKkZyCM6CJxQbaAZUHtgKcu2_jLI5q8SQMGls17eOaGOuKAbhSZcsWCMZkaACXJ8RFMa",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd9a0h0pcJfZSyjy8lHshxkbTEtEMyk0Uz1OqWqvqACAaHu5x7oDJCYmqooCXx3Avq8lqIqQ7vpfSieknnLvx3tkysXof2sfRGm2C7QJQRxUsn-ApoTQOoV9W-xpoqVT4KMuMlBLXGuH42xBn1",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs132tK2RMRe7UOvgwetzJ6CSAkBwnpEaJfor9AZ5DhTqBT_i8_GRjxzu-N8Waf1zXITTEP9nmXx8pw0Rs4p75GpZtpBpMmifgx3-34dAkPd0ITLZKjBdPruWyFsyN5Ulh",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbxrPIqn2Z_6WSkBeml6G2zf_2lgE8tQrCsz6ILqWRbF6Qvo2qhoNAT26j1A-xHNb7ZdBWmEd9H4y8pXPMenuhjOiw0eglwuqQT52-paO_xmhlWUHgd0JpTd_Rg4eWs7mMtaw4QeNXcnvnpeKuYkHPVU55m5B9xW82xP6I1Skrm7xZ5uVvAJw09RMIIzVyHSnhxmAGroGW56nqvynZ",
+            "title": "forbes.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c55fd1b821dd75c21d040adbaf4528e60f62f282",
+        "aviCoreCommittedAt": "2026-08-14T21:52:44Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 62161,
+        "groundedMarketChars": 1998,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mstfvydu-f8871289",
