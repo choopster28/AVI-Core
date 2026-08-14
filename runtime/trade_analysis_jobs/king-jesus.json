@@ -1,5 +1,34 @@
 [
   {
+    "id": "mstd7ua5-6aa45589",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tee Higgins",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "Would i be okay with my current roster wrs."
+    },
+    "createdAt": 1786737235594,
+    "updatedAt": 1786737235594,
+    "expiresAt": 1787169235594,
+    "status": "queued"
+  },
+  {
     "id": "mstd50lv-8905f91f",
     "phase": "initial",
     "mode": "propose_trade",
