@@ -1,5 +1,29 @@
 [
   {
+    "id": "mstg3qwv-a80e5901",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [],
+      "personalContext": "I know he’s open to taking Aaron jones"
+    },
+    "createdAt": 1786742083454,
+    "updatedAt": 1786742083454,
+    "expiresAt": 1787174083454,
+    "status": "queued"
+  },
+  {
     "id": "mstg0ord-16e7c738",
     "phase": "initial",
     "mode": "propose_trade",
