@@ -31,9 +31,389 @@
       ]
     },
     "createdAt": 1786742409025,
-    "updatedAt": 1786742410303,
+    "updatedAt": 1786742473474,
     "expiresAt": 1787174409025,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "All Hail King Jesus proposes sending Amon-Ra St. Brown and a 2028 1st-round pick to Smoky Valley Wheat Warriors for CeeDee Lamb and Rico Dowdle. This offer strategically addresses King Jesus's critical running back deficit by converting future draft capital into immediate starting RB production (Dowdle, 62.4 C-AVI) while executing a lateral tier-1 WR swap (Amon-Ra for CeeDee). For Smoky Valley Wheat Warriors, monetizing a non-starting bench RB3 into a future 1st-round pick while acquiring a slightly younger elite WR1 aligns cleanly with their dual goals of playoff contention and asset maximization.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 96,
+              "leagueMarket": 98.6
+            },
+            {
+              "name": "2028 1st · King Jesus",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "CeeDee Lamb",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.6,
+              "davi": 98.3,
+              "publicMarket": 97,
+              "leagueMarket": 97.6
+            },
+            {
+              "name": "Rico Dowdle",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "RB",
+              "age": 28,
+              "cavi": 62.4,
+              "davi": 79.9,
+              "publicMarket": 60,
+              "leagueMarket": 62.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Smoky Valley Wheat Warriors",
+            "summary": "The proposed trade is strategically strong for both franchises. All Hail King Jesus improves starting lineup scoring by +7.9 C-AVI overall by upgrading RB1 from Aaron Jones (55.1 C-AVI) to Rico Dowdle (62.4 C-AVI) without surrendering WR floor. Smoky Valley captures a premium 2028 1st-round draft pick for a bench RB while swapping into a 1-year-younger cornerstone receiver."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Smoky Valley Wheat Warriors",
+            "summary": "The proposed offer is fully coherent and ready to submit. It fulfills All Hail King Jesus's goal to Increase Championship Odds while presenting a highly convincing value package to Smoky Valley."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 40,
+              "summary": "Net positive starting lineup upgrade (+7.9 C-AVI) that directly strengthens weekly RB scoring capacity."
+            },
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Improves immediate championship odds by establishing a higher floor in the RB core."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Modest hit to long-term draft flexibility due to trading away a 2028 1st."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Upgrades RB1 from 55.1 C-AVI (Aaron Jones) to 62.4 C-AVI (Rico Dowdle) with zero loss in WR firepower."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Pushes Aaron Jones and Zach Charbonnet into higher-quality bench/flex insurance roles."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Expends future draft capital, narrowing future in-season trade flexibility."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 50,
+              "summary": "Monetizes non-starting RB depth into a 2028 1st while keeping starting lineup C-AVI intact."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Preserves top-tier contender status with a seamless WR tier swap."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Gains a 2028 1st-round pick and gets one year younger at WR1."
+            },
+            "lineupQuality": {
+              "score": 5,
+              "summary": "Virtually zero starting lineup disruption as Dowdle sits behind McCaffrey and Cook."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Slight reduction in RB depth behind McCaffrey and James Cook."
+            },
+            "flexibilityLiquidity": {
+              "score": 65,
+              "summary": "Adds premium future draft capital to the franchise asset chest."
+            }
+          },
+          "explanation": "Visual impact scores illustrate that All Hail King Jesus converts future draft liquidity into immediate starting lineup gains, while Smoky Valley Wheat Warriors harvests future value from bench depth without damaging its own championship window."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "King Jesus increases starting lineup C-AVI from 627.0 to 634.9 (+7.9 C-AVI net gain), elevating Rico Dowdle (62.4) over Aaron Jones (55.1) as RB1.",
+          "sideADynastyImpact": "Surrenders a 2028 1st-round pick (79.3 D-AVI), but maintains WR elite status (CeeDee 98.3 D-AVI vs Amon-Ra 99.0 D-AVI) and adds 79.9 D-AVI at RB.",
+          "sideARosterImpact": "Addresses the team's primary structural weakness at RB in a 16-team league format.",
+          "sideBChampionshipImpact": "Smoky Valley maintains an elite 663+ starting C-AVI score, replacing Lamb (97.6) with St. Brown (98.6).",
+          "sideBDynastyImpact": "Gains 79.3 D-AVI via 2028 1st pick and lowers WR1 age from 27 to 26.",
+          "sideBRosterImpact": "Converts excess RB depth into prime draft capital.",
+          "valueAssessment": "Fair market transaction in a 16-team dynasty league where startable RBs carry significant trade premiums."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views CeeDee Lamb and Amon-Ra St. Brown as equal tier-1 WR assets. Rico Dowdle is valued as an upside committee starter in Pittsburgh.",
+          "aviVsMarket": "AVI model values align closely with market consensus on the lateral WR swap and appropriately price Dowdle as an RB2/3 flex starter.",
+          "relevantContext": [
+            "CeeDee Lamb is fully healthy and positioned for elite red-zone target volume in Dallas.",
+            "Amon-Ra St. Brown remains a target monster in Detroit with elite PPR floor.",
+            "Rico Dowdle signed with Pittsburgh in 2026 to share backfield reps with Jaylen Warren."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Smoky Valley earns a 2028 1st pick for a non-starting bench player while keeping their starting lineup elite.",
+          "packageFit": "Directly solves King Jesus's starting RB void while giving Smoky Valley future capital without hurting current odds.",
+          "lineupReplacement": "Amon-Ra St. Brown directly replaces CeeDee Lamb in Smoky Valley's starting WR1 slot; Dowdle was on Smoky Valley's bench.",
+          "competitiveWindowFit": "Both franchises are in Playoff Push / Contender status; trade honors both organizational windows.",
+          "positionalScarcity": "In a 16-team league, usable RBs carry inflated value, justifying the inclusion of a future 1st."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 25,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 83,
+          "classification": "Realistic",
+          "explanation": "Smoky Valley Wheat Warriors has strong motivation to accept: they receive a 2028 1st pick for a bench RB while making a age-improving tier-1 WR swap."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal directly advances All Hail King Jesus's goal to Increase Championship Odds. Adding Rico Dowdle upgrades the starting RB group by +7.3 C-AVI, and swapping Amon-Ra St. Brown for CeeDee Lamb maintains elite WR1 output. With an 83% acceptance probability from Smoky Valley, this is a prime offer to send.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 96,
+              "leagueMarket": 98.6
+            },
+            {
+              "name": "2028 1st · King Jesus",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "CeeDee Lamb",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.6,
+              "davi": 98.3,
+              "publicMarket": 97,
+              "leagueMarket": 97.6
+            },
+            {
+              "name": "Rico Dowdle",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "RB",
+              "age": 28,
+              "cavi": 62.4,
+              "davi": 79.9,
+              "publicMarket": 60,
+              "leagueMarket": 62.4
+            }
+          ],
+          "whyUserShouldDoIt": "Upgrades starting RB1 scoring from 55.1 to 62.4 C-AVI without dropping off at WR1, directly boosting weekly championship potential.",
+          "whyOpponentMightAccept": "Acquires a 2028 1st-round pick for a bench RB while getting one year younger at WR1 with Amon-Ra St. Brown."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 96,
+              "leagueMarket": 98.6
+            },
+            {
+              "name": "2028 2nd · King Jesus",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "CeeDee Lamb",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.6,
+              "davi": 98.3,
+              "publicMarket": 97,
+              "leagueMarket": 97.6
+            },
+            {
+              "name": "Rico Dowdle",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "RB",
+              "age": 28,
+              "cavi": 62.4,
+              "davi": 79.9,
+              "publicMarket": 60,
+              "leagueMarket": 62.4
+            }
+          ],
+          "rationale": "If King Jesus wants to test Smoky Valley's price sensitivity, substituting a 2028 2nd pick instead of a 2028 1st pick preserves premier draft capital while still opening trade negotiations."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Rico Dowdle Cowboys depth chart 2026",
+          "CeeDee Lamb fantasy value dynasty 2026",
+          "CeeDee Lamb news 2026",
+          "Rico Dowdle news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfpz8-Fa4O6s7G06ojh33fRUxKmmkGT3Wbh0tUc126XeH-OZ-Jol8bzYFNMnoJLClSSRTzQhhZJeUQvi0G6MYdL-fnHTRkthPo3oNPwFXxygEitvJp02ydgw_-Bkznc0q4KeQHFBLw4dqXqgEwH4gM8WCDsJcPu4socEC7M2z1JcJaReT59A2sniegTkgAXz71izpB2_fj65J2Dro0Eqi8mv9DZwyQj_M=",
+            "title": "dallascowboys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQJvVI10eshpAfxyWEG5lKMkPE4yjRuF6C_wbLh39YAXJ8D8Io3xE7QpT0dI6UEDgts_aks93r3U115385ZdVflr5Y5EYnrC2qS8XFghaDVsUsD7X9pdpeI1BmsfKTlJgG05cC42STijVNP1_5L_YgUJOTK2R_qG1V5e_a0aTvtkgQCvXH6SWP2MJ9ao13snitEt4zCQVJI4i0uWkBbMWiaIt9HN-s",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlkrZaV8s-Ew9kJczDsCRw1zk1p8XCkCOhCzfFGJUbmcVu3kFwhUygmqUXFwk9ivsogjZQoppWKlxo8mxoqYdO1zu7tdQ4BXjFNoA-aRR1MtxiXz1urrUUYf_-PYi-IIQ-6yIzQ8E=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuivyEOntCE6zg097AZ-Vj7C9N-mHJmthje6sYurQCjb0vCRfHttgVpYx5423_uzCY6_DxMUpcr56nWWfyHv4MxTP_Evk4rf4n5QtMpEW3GxM7sdefhaZUOFu1w9fkMOfqxIWtE3OdTMcBYFi96gOdjN5Y0dgwqeJUCFU9TUB4sjKm_SwSQgquCwQvYe6g8iOzAcGjBH_9-aARxik3KP0lEhM=",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy7qAX7ZkIFpK_mNtbsTm093W5OoBHjmuVgnkyMYkE-Cuwe8JArNxiXzx0cEbGaG5iXXhIH37fgdFs7S9chADaAyljA1pAbX_CULXwTsXCLRlnTFdIFQ6_oDV1wIkh7dlFjbX4z3Tb24HihA5Fcs26y5PgAHnoWMZIkpjUnEtpZMd5HqAbYCeVPcQ0Am5I-C0Nh2tzPZwzEMPAmjZk",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF64a1_gigMFjB9-TCokrAKgb1HcBuY3KDITV40THx_cIyeE8VnCUNgLHXrJYo6t4tt9dErfV8bDBg-SPd6B-wrshQM25R33vRx_5sWih_Je5tf0MsjTJGyGAxHl9nPA0BuSdSojpj4umjhwPoP",
+            "title": "dynasty-daddy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFAwhpi6HT1Bt6zKr9kVAWf8eClYhfdyQf2yFQD7Nj2D_RfT7erRGOSvw_d71rljrOVbwL3mi1mWnQPuuz-fPylW7eOx8SQaqztD1G4tAdOgveHS7fpRydDaXVcJ14iDc1J7ZSaLtddGNKlTUu0HEZ5fDLhe735zN0I5qIWdj4rOyhLlqUQWW8XyucYJkz152WG87Jt6FkERmiTWnMO68t-Q==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2CEq89efhAygPZeUN6-otDVRwRDPupOoQnmV4pHStsa2leTePWIzDkhZt7P3Aowh5Do8nivwFYfFDijmlZYRnf9HRSSyQmfLtCnzfsmuZkeUNVX_Bt_5sZ51TTOqfhsGpNwvLhrH2nfabIg-OhXe0flogTlKOy5txvnJwmTTc",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX_r3wR21hFpj18Y41ZAtiEudCo6VU96u_BuXADPvpGpApqXxZdV1l__8rO5Fa9O5XxxONws5jzEN_S199CLtspJpq_HVnutAV5QERy2qjJQ0M9z-NluaeJgN1rWR74bTF",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDLc1dAtmTGIGgWNLGTwaZQhXXYJjwIFyYefrBlyLxy7T4psWVN28zarxTAXUr5dhqVLzXz65mfmx-D7hsbUe-UJlIA82AQVdZ_gfUQXM0TkwrXQdMVfVICwBVpFMRSBjw4M4NbslgjIPgcs6T8fcJaxflbqP1gA8grhTsgLYxBRaxD9HJqxOkv00VR-LmBSpR6f-r2Rqq57FPxV2WV9mh4dmmRJmbh8pho2NE6uQ6TN2aj1r7gUQ=",
+            "title": "post-gazette.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIoqzzUUy-cE6g2dTzu2Mfxet-pwcCSJfy33wUbxMUCrtYDY5C0_wvgSS2Q7-1teUT7K0VVHdf3i3RIE8_g4vXT3NGbDWgJaIH7DixxUeUaSsrQtBNNRBUWrK06Xe-Iq7HgHmHOxvfCn9FiJ12_wN4tosd8v3xnSlWfROcc0eTU0V8G58wM1BwpSH1jVNB8hzUkRk=",
+            "title": "steelersdepot.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgE692grhhTC3sOgzsDrBd_TJSIt2XUdXbo2eDM6s32Ta9wL_YLlx3ihqoktx41jW5i-wTD_b3kgxlCF5-oL60BiZfNH55OfiTWHk--dahBoMWAcSmkJThq2RrgkNf4_cER9pnjAvRazUPPEAMBnUV",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "af80b30cbfcc79e29041d8e0fd76e60a96a232dc",
+        "aviCoreCommittedAt": "2026-08-14T20:00:26Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 62792,
+        "groundedMarketChars": 2861,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mstfz0fg-4711142e",
