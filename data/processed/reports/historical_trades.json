@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-14T20:00:24.166850+00:00",
+  "generated_at_utc": "2026-08-14T21:52:41.944561+00:00",
   "statistics": {
-    "owner_trade_participations": 143,
+    "owner_trade_participations": 145,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -64,6 +64,7 @@
       {
         "partner_count": 1,
         "partners": [
+          "Ravens Regime ",
           "Big Balder Brand"
         ],
         "roster_id": 15,
@@ -212,18 +213,18 @@
         "by_season": {
           "2024": 3,
           "2025": 3,
-          "2026": 8
+          "2026": 9
         },
         "firsts_in": 2,
         "firsts_out": 4,
         "owner_display_name": "Mentomorii",
-        "picks_in": 2,
+        "picks_in": 3,
         "picks_out": 4,
-        "players_in": 12,
-        "players_out": 17,
+        "players_in": 14,
+        "players_out": 19,
         "roster_id": 3,
         "team_name": "Ravens Regime ",
-        "total": 14
+        "total": 15
       },
       {
         "by_season": {
@@ -357,18 +358,18 @@
       },
       {
         "by_season": {
-          "2026": 1
+          "2026": 2
         },
         "firsts_in": 1,
         "firsts_out": 0,
         "owner_display_name": "Burnfaze",
         "picks_in": 1,
-        "picks_out": 1,
-        "players_in": 3,
-        "players_out": 3,
+        "picks_out": 2,
+        "players_in": 5,
+        "players_out": 5,
         "roster_id": 15,
         "team_name": "Gringo’s Goblins ",
-        "total": 1
+        "total": 2
       },
       {
         "by_season": {
@@ -405,10 +406,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 28
+      "2026": 29
     },
-    "two_team_trades": 70,
-    "unique_completed_trades": 71
+    "two_team_trades": 71,
+    "unique_completed_trades": 72
   },
   "trades": [
     {
@@ -5161,6 +5162,90 @@
         }
       ],
       "transaction_id": "1390409668387418112",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-14T20:33:07.203000+00:00",
+      "created_timestamp_ms": 1786739587203,
+      "roster_ids": [
+        3,
+        15
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [
+            {
+              "original_roster_id": 15,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "12533",
+              "player_name": "Jacory Croskey-Merritt"
+            },
+            {
+              "player_id": "2133",
+              "player_name": "Davante Adams"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8121",
+              "player_name": "Romeo Doubs"
+            },
+            {
+              "player_id": "8148",
+              "player_name": "Jameson Williams"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "Burnfaze",
+          "owner_id": "990097041671892992",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 15,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8121",
+              "player_name": "Romeo Doubs"
+            },
+            {
+              "player_id": "8148",
+              "player_name": "Jameson Williams"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12533",
+              "player_name": "Jacory Croskey-Merritt"
+            },
+            {
+              "player_id": "2133",
+              "player_name": "Davante Adams"
+            }
+          ],
+          "roster_id": 15,
+          "season": 2026,
+          "team_name": "Gringo’s Goblins "
+        }
+      ],
+      "transaction_id": "1394090507352690688",
       "week": 1
     }
   ]

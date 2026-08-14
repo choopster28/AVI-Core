@@ -54353,7 +54353,7 @@
       "injury_override_regular_2025_8": "Out",
       "rookie_year": "2024"
     },
-    "news_updated": 1786649739704,
+    "news_updated": 1786741543546,
     "number": 5,
     "oddsjam_id": "321C90994B10",
     "opta_id": null,
@@ -70180,7 +70180,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "00be62a4-6058-4628-a9e3-82032d886ae1",
     "last_name": "James",
     "metadata": {
@@ -114797,7 +114797,7 @@
       "rookie_year": "2025",
       "source_id": "57e4ab64-b86f-44d0-be78-85d322c69e4c"
     },
-    "news_updated": 1786486243473,
+    "news_updated": 1786740943276,
     "number": 15,
     "oddsjam_id": "EC6A00A6EE50947E",
     "opta_id": null,
@@ -126396,7 +126396,7 @@
     "injury_body_part": "Knee - ACL",
     "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "kalshi_id": "5e9c01f3-7fb9-4484-9c50-053bd63e2486",
     "last_name": "Buchanan",
     "metadata": {
@@ -133136,7 +133136,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "bff0de84-09c7-4d3d-a0fb-fca76166d6c7",
     "last_name": "Nelson",
     "metadata": {
@@ -142246,7 +142246,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "fc1c65b4-a9c7-4dfd-8b66-724c173b3242",
     "last_name": "Johnson",
     "metadata": {
@@ -143035,7 +143035,7 @@
     "injury_body_part": "Concussion",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "e562fd97-9fb7-4dde-b69f-d1e8e03c6304",
     "last_name": "Collins",
     "metadata": {
@@ -145991,7 +145991,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "c63868f3-fd9c-4861-8cc0-0b0208ddc9c8",
     "last_name": "Herring",
     "metadata": {
@@ -169658,7 +169658,7 @@
       "rookie_year": "2026",
       "source_id": "0d044fc0-8953-11ec-a69b-29b9a26b6a2e"
     },
-    "news_updated": 1786581310286,
+    "news_updated": 1786742743847,
     "number": 8,
     "oddsjam_id": null,
     "opta_id": null,
@@ -179039,7 +179039,7 @@
       "rookie_year": "2026",
       "source_id": "5b3eac3f-fe81-4635-a564-5145dbcac6f2"
     },
-    "news_updated": 1786689651042,
+    "news_updated": 1786742143552,
     "number": 20,
     "oddsjam_id": null,
     "opta_id": null,
@@ -324588,10 +324588,10 @@
     "hashtag": "#kendalllamm-NFL-BAL-66",
     "height": "78",
     "high_school": "Butler (NC)",
-    "injury_body_part": null,
+    "injury_body_part": "Personal",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "NA",
     "kalshi_id": "45e0a42d-d43f-4daf-9e31-543bf01eab09",
     "last_name": "Lamm",
     "metadata": {
@@ -392278,7 +392278,7 @@
       "genius_id": "998622",
       "rookie_year": "2017"
     },
-    "news_updated": 1785768905141,
+    "news_updated": 1786737942940,
     "number": 83,
     "oddsjam_id": "E74BC49C17EA",
     "opta_id": null,
@@ -451662,7 +451662,7 @@
       "genius_id": "1010757",
       "rookie_year": "2018"
     },
-    "news_updated": 1786414232263,
+    "news_updated": 1786743344069,
     "number": 14,
     "oddsjam_id": "C635DED129E7",
     "opta_id": null,
@@ -477303,7 +477303,7 @@
       "genius_id": "1014810",
       "rookie_year": "2018"
     },
-    "news_updated": 1786736147955,
+    "news_updated": 1786739443182,
     "number": 92,
     "oddsjam_id": "A35EF9CEF67A",
     "opta_id": null,
@@ -516468,7 +516468,7 @@
       "injury_override_regular_2025_6": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1786674647891,
+    "news_updated": 1786742143555,
     "number": 17,
     "oddsjam_id": "01773297ACFE",
     "opta_id": null,
@@ -570025,7 +570025,7 @@
       "injury_override_regular_2024_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1786558219281,
+    "news_updated": 1786742743853,
     "number": 1,
     "oddsjam_id": "66B708A8FB24",
     "opta_id": null,
@@ -669633,7 +669633,7 @@
       "genius_id": "1015028",
       "rookie_year": "2022"
     },
-    "news_updated": 1786735844432,
+    "news_updated": 1786740943279,
     "number": 72,
     "oddsjam_id": "741EE6B5EEE7",
     "opta_id": null,
@@ -715579,7 +715579,7 @@
       "genius_id": "1398559",
       "rookie_year": "2023"
     },
-    "news_updated": 1786689651046,
+    "news_updated": 1786740643637,
     "number": 5,
     "oddsjam_id": "FD2C905B710A",
     "opta_id": null,
@@ -719060,7 +719060,7 @@
       "genius_id": "1399247",
       "rookie_year": "2023"
     },
-    "news_updated": 1785862219282,
+    "news_updated": 1786740043221,
     "number": 9,
     "oddsjam_id": "86B6983F9C7F",
     "opta_id": null,

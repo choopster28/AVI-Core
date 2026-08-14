@@ -480,9 +480,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Davante Adams
 - Player ID: 2133
 - Position: WR
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Team file: 15_Gringo_s_Goblins.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: David Montgomery
 - Player name: David Montgomery
@@ -784,9 +784,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jacory Croskey-Merritt
 - Player ID: 12533
 - Position: RB
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Team file: 15_Gringo_s_Goblins.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Jadarian Price
 - Player name: Jadarian Price
@@ -872,9 +872,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jameson Williams
 - Player ID: 8148
 - Position: WR
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
 
 ## PLAYER LOOKUP: Jared Goff
 - Player name: Jared Goff
@@ -1560,9 +1560,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Romeo Doubs
 - Player ID: 8121
 - Position: WR
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
 
 ## PLAYER LOOKUP: Ryan Flournoy
 - Player name: Ryan Flournoy

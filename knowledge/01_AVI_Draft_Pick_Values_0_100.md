@@ -4214,8 +4214,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Gringo’s Goblins
 - Original roster ID: 15
-- Current owner team: Gringo’s Goblins
-- Current owner roster ID: 15
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
