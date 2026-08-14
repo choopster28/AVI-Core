@@ -1,5 +1,393 @@
 [
   {
+    "id": "1786688389751-oluinh",
+    "createdAt": 1786688390100,
+    "expiresAt": 1787120390100,
+    "mode": "propose_trade",
+    "title": "Build Offer · Big Balder Brand ↔ Conquistadors",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand can offer a highly compelling package for De'Von Achane featuring 21-year-old rising RB Jeremiyah Love, veteran receiver Chris Godwin, and a 2027 2nd-round draft pick. This trade directly serves BBB's 'Win Championship' goal by elevating starting lineup C-AVI from 736.1 to 743.8, giving BBB an elite backfield trio of Saquon Barkley, De'Von Achane, and Omarion Hampton. For Conquistadors, receiving Jeremiyah Love provides an immediate young RB replacement at RB2 alongside additional lineup depth and future draft capital.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 89.7,
+              "davi": 95.6,
+              "publicMarket": 92,
+              "leagueMarket": 89.7
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 62.1,
+              "davi": 79.3,
+              "publicMarket": 70,
+              "leagueMarket": 62.1
+            },
+            {
+              "name": "2027 Round 2 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 95,
+              "leagueMarket": 97.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand package Jeremiyah Love, Chris Godwin, and a 2027 2nd-round pick to secure elite RB De'Von Achane. BBB's starting lineup C-AVI increases from 736.1 to 743.8 by shifting Omarion Hampton into FLEX2, while Conquistadors gain a young RB2 replacement and depth assets."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand package Jeremiyah Love, Chris Godwin, and a 2027 2nd-round pick to secure elite RB De'Von Achane. BBB's starting lineup C-AVI increases from 736.1 to 743.8 by shifting Omarion Hampton into FLEX2, while Conquistadors gain a young RB2 replacement and depth assets."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Net gain in starting lineup strength (+7.7 C-AVI) by adding Achane to create a league-leading RB trio."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Elevates starting lineup C-AVI to 743.8, maximizing championship potential in a deep 16-team format."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Acquires 24-year-old superstar Achane (97.0 D-AVI) locked into a lucrative 4-year contract extension."
+            },
+            "lineupQuality": {
+              "score": 55,
+              "summary": "Upgrades starting RB1 slot to Achane (97.4 C-AVI) while pushing Omarion Hampton to FLEX."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Minor decline in WR depth with Godwin departing, but starting core remains top-tier."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders a 2027 2nd pick, slightly reducing future mid-round draft capital."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Maintains starting backfield quality with 21-year-old Jeremiyah Love while picking up WR depth and draft capital."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Small C-AVI drop at RB2 (Achane 97.4 to Love 89.7) balanced by Godwin improving bench/FLEX options."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Secures 21-year-old Love (95.6 D-AVI) plus a 2027 2nd pick to sustain long-term flexibility."
+            },
+            "lineupQuality": {
+              "score": 5,
+              "summary": "Love slides directly into the RB2 slot with Godwin adding starting FLEX utility."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Godwin improves WR bench quality while adding future draft capital."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Acquires an additional 2027 2nd round pick to replenish draft inventory."
+            }
+          },
+          "explanation": "The proposal improves Big Balder Brand's starting lineup ceiling for a championship run while providing Conquistadors with an elite 21-year-old RB replacement in Jeremiyah Love, plus veteran WR depth and future pick liquidity."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand increases its total starting lineup C-AVI from 736.1 to 743.8. Adding Achane (97.4 C-AVI) allows Omarion Hampton (91.4 C-AVI) to shift into FLEX2, giving BBB an dominant starting backfield.",
+          "sideADynastyImpact": "Acquiring 24-year-old Achane (97.0 D-AVI) secures a contract-insulated elite asset locked into Miami's offense through 2029.",
+          "sideARosterImpact": "Consolidates roster depth into an elite starter. Bench WR depth takes a minor hit with Godwin departing, but weekly starting potency is maximized.",
+          "sideBChampionshipImpact": "Conquistadors take a modest drop at RB2 going from Achane (97.4 C-AVI) to Love (89.7 C-AVI), but gain Godwin (62.1 C-AVI) to bolster FLEX/bench depth.",
+          "sideBDynastyImpact": "Conquistadors secure 21-year-old Jeremiyah Love (95.6 D-AVI) and a 2027 2nd round pick to maintain long-term competitive strength.",
+          "sideBRosterImpact": "Replaces departing RB production with a high-upside 21-year-old starter while picking up veteran receiver depth and draft flexibility.",
+          "valueAssessment": "Fair value exchange. BBB pays market price (young star RB + veteran WR + 2nd round pick) to acquire an S-tier 24-year-old RB."
+        },
+        "publicMarketAnalysis": {
+          "summary": "De'Von Achane is valued as a consensus top-6 dynasty running back following his 4-year, $68M extension with Miami. Market sentiment favors his elite per-touch efficiency and secured contract floor.",
+          "aviVsMarket": "AVI values Achane at 97.4 C-AVI / 97.0 D-AVI, aligning closely with public consensus platforms (KTC ~RB6 overall).",
+          "relevantContext": [
+            "Achane signed a 4-year, $68M extension in May 2026, solidifying his long-term contract security in Miami.",
+            "Fully cleared from spring shoulder issue and practicing without limitations in training camp.",
+            "Dolphins offensive transition under Jeff Hafley features Malik Willis at QB, emphasizing designed runs and focal-point usage for Achane."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors need to maintain RB strength behind Bijan Robinson while addressing limited roster depth.",
+          "packageFit": "Jeremiyah Love provides an immediate 21-year-old RB replacement, while Godwin and a 2027 2nd round pick add depth and capital.",
+          "lineupReplacement": "Jeremiyah Love steps directly into Conquistadors' starting RB2 slot.",
+          "competitiveWindowFit": "Both franchises operate as contenders; the trade preserves competitive starting lineups for both teams.",
+          "positionalScarcity": "In a 16-team league, 24-year-old feature RBs with high pass-catching upside are premier championship assets."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 21,
+            "packageMatch": 18,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 92,
+          "classification": "Highly Realistic",
+          "explanation": "Conquistadors receive a 21-year-old RB replacement in Jeremiyah Love, plus Chris Godwin and a 2027 2nd pick, solving their RB loss while enhancing overall roster depth."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Big Balder Brand should send Jeremiyah Love, Chris Godwin, and the 2027 2nd (orig 12) to Conquistadors for De'Von Achane. This trade upgrades BBB's starting lineup C-AVI to 743.8, forming an unmatched running back core of Saquon Barkley, De'Von Achane, and Omarion Hampton to advance BBB's goal to Win Championship.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 89.7,
+              "davi": 95.6,
+              "publicMarket": 92,
+              "leagueMarket": 89.7
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 62.1,
+              "davi": 79.3,
+              "publicMarket": 70,
+              "leagueMarket": 62.1
+            },
+            {
+              "name": "2027 Round 2 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 95,
+              "leagueMarket": 97.4
+            }
+          ],
+          "whyUserShouldDoIt": "Increases your starting lineup C-AVI from 736.1 to 743.8. You form an elite RB trio of Saquon Barkley, De'Von Achane, and Omarion Hampton in FLEX.",
+          "whyOpponentMightAccept": "Conquistadors get 21-year-old Jeremiyah Love (89.7 C-AVI / 95.6 D-AVI) to replace Achane at RB2, plus WR depth in Chris Godwin and a 2027 2nd pick."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 92,
+              "davi": 93.3,
+              "publicMarket": 90,
+              "leagueMarket": 92
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 62.1,
+              "davi": 79.3,
+              "publicMarket": 70,
+              "leagueMarket": 62.1
+            },
+            {
+              "name": "2027 Round 2 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 95,
+              "leagueMarket": 97.4
+            }
+          ],
+          "rationale": "If Conquistadors prefers immediate proven veteran production (Saquon 92.0 C-AVI) over Jeremiyah Love's youth, offering Saquon Barkley provides instant elite RB1 output."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "De Von Achane dynasty value 2026",
+          "De Von Achane news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeFt2Ji5h_hFKbOu-lYIkP-oDPWfLuII_QwS_gZJcUuN8q8BjaWxIoyE824Y25vP_LRY7zkaLAnb6wq-AVHBO311KuCyIo6GDWAs9tLONvN6mxmEfLoX-yXQOBOY3UhG01019YAb4rd7a4mmkHIPauGbbtWuC7raQjTjgJsT5laTIwgSRDdjBgQxhWhNZsf5Yl",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGNvdMVJBp0nD53c1kwsS-CJ-XCrr9SMA682cCLz7nBHKr5Q_VUsWjio07viOsZ-dqmxmXUV8DRzgvwEqs78eQj8aZGRX5H4O8XMwvA0Pa0Zuh46fqGtKiFBp0AXu3w1C1cXaaPQZRX2P0fgoQJaIxVt5PI7-UtYxk6KZPpBIDJn56ae5Re4X4NrHSdy-V6kh0qmduoI1VO3FPIsnQUA3utXj-VP5JRsRe_564xlwJlxTTFBQ3_B5DWELX4g==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgb6Hb3Pzj3OxFJp9REB9bs9b_dEmSDZnI4ajsKdN6BRPkWjPLkvbdY_qG93gNkr3K9zQGrJ9eDJjq_fGjPisUa0_UkV3zySbpiPWq_M23PAGWKGKgs0C4eyTw9xRrutUxaZkznpjk9b0iapUkCw0ixoSG7akG2KFtG1U8DRoyZrpolCiAZGB54Q-AaeLvXOr3g04=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHocT3381Mp93ZCQWZf-BwEnNAi3_A7xOyO1x5toS619zU_y3-rY7Mtz4rIx1LJZ-q5X9m2hZG0YahRvQhzTsECQG4B7DjZ_BdbNfBe68WyMLemwMCT0S-SA6D3l39TmE7n-MDMjah5I2lSWi9txQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq6Dr1cIBLsG7nTPNQV0-ZHMpZI7mgAp7lnASzYIJNOxhSds41cKc7oe88j84J8TALFU7wB7cFMHmIDNZtbEJOt21aqyQhNgbVREfg912xGfnvwVULZtyXFl6FTlVL3no0KR9lVNMd7I9cihE8oaPFWS7xCRE9MNDLn6RLPeD1796dxUjT6Pwj-NM0umm_",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8FXc--Twsi3cQO3rT5t5HUFuxh2iMng3c042dLtbxyXHZNbc91PY69eALiDrUPonPt-ROlmbeIuiNM9NkMHK_mmk7TuivNEQFsWWoiK_CMwvM0fZiMWVwiCxZ62tb7E5eeLEqpUN6-3R0d5cr0SCGylx4PskRe8HNVJIV7OsR4NTamRStJBnD25mWFdekmwOrSp8=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjV5QE7pMgK6tX__kgl7LodH01dZE3KWuRvX9O3h12whzBvh3VfxCii5zL1u7MBSRNiuqsSJq2Al9lVwO7GBtSzq3hIcrS7ZtNpTsFK0Du5nBh_MP29c6blqSDuVfbRoBVTgQisBIcsujflbiUn_h8ZxKdLjaIzwzuopuq6j1iTD6G2W-3qDdS3CpIqFjw_jJerA==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8rmGZ2GUeg76p_AcReCrMMPIxgqRkJlS94kXUh4RipYGLAixSI8jST2GvY--KFOYNV-VlRj_uFaw-AkM1e74fMIM35CI1iFYl1UVkrsTQuVYPmn5gqLtR9Jytey0YUxxi",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLK5-faUzsqee-1NwOE8A7kmvUqqw2MT1BylLhCjnqU5FXhBWmlyMw55yWaQ1w1PoieSNHsHv8mk9YwZZjAfE_cgvP0Z084-ZRZCmJy29X9EA2KyeVNd6mhn8wro71aMTi-rrnYtXhEQQv1D-M8w==",
+            "title": "dynasty-daddy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLWy-XnnhKYktE8so3wUqZMa4ChtTYR3R7fTcXP_uBOu9CHfeUGvhQVyGhBvQset4syBns36BquHbYW9QVgYyqEnZvpgzbZLCXDVG_gAX0xgEJojKbYAqOc1pvp5OZfkjhydUyQTzGLcBQQ3a9Ye52z0fv3uY76UwJq9dpcXXdbMMv5LYHEI38VCmOFkVpslBTzJL87G0gtHEzq0JKDMFJGQ==",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "13caa65b6b827416a4663199c3e9f8cc3c30389b",
+        "aviCoreCommittedAt": "2026-08-14T05:45:16Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 64514,
+        "groundedMarketChars": 2958,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "1786687916516-so8x6w",
     "createdAt": 1786687916690,
     "expiresAt": 1787119916690,
