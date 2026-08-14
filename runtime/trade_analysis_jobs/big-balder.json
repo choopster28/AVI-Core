@@ -1,5 +1,403 @@
 [
   {
+    "id": "msti50ga-3cf57856",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Rashee Rice",
+          "assetType": "player"
+        },
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786745501578,
+    "updatedAt": 1786745564671,
+    "expiresAt": 1787177501578,
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand holds a Champion Favorite status, while All Hail King Jesus is in a Playoff Push. Offering both foundation assets—Saquon Barkley (91.7 C-AVI / 93.0 D-AVI) and Rashee Rice (96.1 C-AVI / 93.9 D-AVI)—straight up for Jaxon Smith-Njigba (99.1 C-AVI / 99.6 D-AVI) represents a significant value overpay (187.8 total incoming C-AVI to All Hail King Jesus vs 99.1 C-AVI to Big Balder Brand) that drops Big Balder Brand's starting lineup strength by 26.6 C-AVI points and depletes RB/WR depth. However, because All Hail King Jesus suffers from an urgent deficit at RB (starting Aaron Jones and Zach Charbonnet), combining Saquon Barkley and Rashee Rice creates ideal leverage. By requesting WR Tee Higgins (82.1 C-AVI / 91.2 D-AVI) or a 2028 1st + Isiah Pacheco alongside Jaxon Smith-Njigba, Big Balder Brand can land the dynasty WR1 overall while maintaining a championship-caliber starting lineup.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 91.7,
+              "davi": 93,
+              "publicMarket": 92,
+              "leagueMarket": 91.7
+            },
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.9,
+              "publicMarket": 94,
+              "leagueMarket": 96.1
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 98.5,
+              "leagueMarket": 99.1
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C+",
+            "otherGrade": "A+",
+            "userShare": 35,
+            "otherShare": 65,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "The unadjusted proposal surrenders 187.8 total C-AVI across two top-tier starters (Saquon Barkley and Rashee Rice) for a single elite receiver in Jaxon Smith-Njigba (99.1 C-AVI). Big Balder Brand's starting lineup C-AVI decreases from 733.7 to 707.1 (-26.6 C-AVI) because Chris Godwin (62.1 C-AVI) is forced into the FLEX2 spot, while RB depth becomes thin behind Jeremiyah Love and Omarion Hampton. Meanwhile, All Hail King Jesus receives a major roster overall upgrade."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "A-",
+            "userShare": 51,
+            "otherShare": 49,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By expanding the deal to send Saquon Barkley and Rashee Rice for Jaxon Smith-Njigba AND Tee Higgins, Big Balder Brand secures the tier-1 dynasty WR1 overall (JSN, age 24) while filling the displaced FLEX2 slot with Tee Higgins (82.1 C-AVI). Big Balder Brand preserves a starting lineup C-AVI of 727.1 while All Hail King Jesus increases their starting lineup score from 627.0 to 640.9 (+13.9 C-AVI) by fixing their primary weakness at RB1."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -25,
+              "summary": "The baseline 2-for-1 proposal overpays in total asset value and hurts immediate championship starting capacity for Big Balder Brand."
+            },
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Losing both Saquon Barkley and Rashee Rice reduces weekly scoring floor and forces Chris Godwin into starting FLEX2."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Acquiring 24-year-old Jaxon Smith-Njigba (99.6 D-AVI) gives Big Balder Brand the premier young wide receiver asset in dynasty."
+            },
+            "lineupQuality": {
+              "score": -35,
+              "summary": "Starting lineup C-AVI drops from 733.7 to 707.1 (-26.6 C-AVI) due to losing two premier starters."
+            },
+            "depthResilience": {
+              "score": -40,
+              "summary": "Leaves Big Balder Brand with only two reliable starting RBs (Jeremiyah Love and Omarion Hampton) and thinned bench insulation."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Consolidates two high-value liquid starters into one cornerstone asset without adding future pick currency."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 45,
+              "summary": "All Hail King Jesus receives an overwhelming return that solves their largest roster structural flaw while keeping WR1 production high."
+            },
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Upgrades starting RB1 from Aaron Jones (55.1 C-AVI) to Saquon Barkley (91.7 C-AVI), driving a +13.9 net starting lineup boost."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Trading away 24-year-old JSN reduces long-term WR ceiling slightly, but Rashee Rice (age 26) keeps dynasty WR corps elite alongside Amon-Ra St. Brown."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Surges starting lineup C-AVI from 627.0 to 640.9 by transforming a weak RB position into a major strength."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Adds starting depth across RB and WR, moving Aaron Jones to RB2 and Charbonnet/Pacheco to key bench insurance."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Gains two premier starting assets who hold immense trade and lineup marketability."
+            }
+          },
+          "explanation": "In a 16-team league, surrendering two elite 90+ C-AVI starters (Saquon Barkley and Rashee Rice) for a single player (Jaxon Smith-Njigba) creates a net starting lineup deficit (-26.6 C-AVI) for Big Balder Brand unless secondary starting production (such as Tee Higgins) is returned. For All Hail King Jesus, accepting Saquon Barkley and Rashee Rice transforms a weak RB room into a championship contender core."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand surrenders 187.8 combined C-AVI in Saquon Barkley (91.7) and Rashee Rice (96.1) while gaining 99.1 C-AVI in Jaxon Smith-Njigba. Net starting C-AVI drops from 733.7 to 707.1 (-26.6 C-AVI).",
+          "sideADynastyImpact": "Big Balder Brand acquires the #1 overall dynasty WR asset in Jaxon Smith-Njigba (99.6 D-AVI, age 24), but gives up two premier prime-age starters (186.9 total D-AVI sent).",
+          "sideARosterImpact": "Removes starting RB1 (Saquon Barkley) and WR1 (Rashee Rice), promoting Jeremiyah Love and Omarion Hampton to starting RBs and forcing Chris Godwin into FLEX2.",
+          "sideBChampionshipImpact": "All Hail King Jesus increases starting lineup C-AVI from 627.0 to 640.9 (+13.9 C-AVI), fixing a bottom-tier RB group with elite RB1 production.",
+          "sideBDynastyImpact": "Replaces JSN (99.6 D-AVI) with Rashee Rice (93.9 D-AVI) and Saquon Barkley (93.0 D-AVI), maintaining elite long-term competitive strength.",
+          "sideBRosterImpact": "Fills mandatory RB1 slot with Saquon Barkley, moves Aaron Jones to RB2, and slots Rashee Rice directly into WR2 alongside Amon-Ra St. Brown.",
+          "valueAssessment": "The unadjusted offer overpays by 88.7 C-AVI. Requesting a secondary starting piece (Tee Higgins) balances total C-AVI sent (187.8) and received (181.2) while optimizing both rosters."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Jaxon Smith-Njigba is coming off a historic 2025 season (1,793 receiving yards, 119 receptions, 10 TDs, OPOY) and is valued as a consensus first-round redraft pick and top-3 dynasty asset.",
+          "aviVsMarket": "AVI rates JSN at 99.1 C-AVI / 99.6 D-AVI, fully aligned with public market consensus that views him as an untouchable tier-1 cornerstone. Saquon Barkley (91.7 C-AVI) and Rashee Rice (96.1 C-AVI) hold top-tier redraft and dynasty market values.",
+          "relevantContext": [
+            "JSN led the NFL in receiving yards in 2025 and enters 2026 fully healthy as Seattle's focal offensive point.",
+            "Saquon Barkley remains a top-3 redraft RB with high workload security in Philadelphia's elite offense.",
+            "Rashee Rice functions as Patrick Mahomes' primary target with high PPR volume."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "All Hail King Jesus is in a Playoff Push but suffers from a major weakness at RB (starting Aaron Jones and Zach Charbonnet). Acquiring Saquon Barkley solves their single biggest roster obstacle.",
+          "packageFit": "Offering Saquon Barkley + Rashee Rice provides All Hail King Jesus with both the RB1 they desperately lack and an elite WR replacement for JSN.",
+          "lineupReplacement": "Rashee Rice (96.1 C-AVI) immediately fills All Hail King Jesus's WR slot alongside Amon-Ra St. Brown, while Saquon Barkley (91.7 C-AVI) upgrades RB1.",
+          "competitiveWindowFit": "Both franchises are in win-now/playoff windows. The proposed package aligns with All Hail King Jesus's goal to Increase Championship Odds.",
+          "positionalScarcity": "In a 16-team league, elite 20+ PPG starting RBs like Saquon Barkley are scarce assets that command premium trade value from WR-heavy rosters."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 77,
+          "classification": "Realistic",
+          "explanation": "While JSN is an elite untouchable asset not listed on the trade block, All Hail King Jesus's severe deficit at RB makes them receptive to an offer containing Saquon Barkley and Rashee Rice. Acceptance probability reaches 77% (Realistic) when structured with appropriate secondary assets."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Sending both Saquon Barkley and Rashee Rice for Jaxon Smith-Njigba straight up is an uncalibrated overpay that harms Big Balder Brand's 2026 title chances (-26.6 starting C-AVI drop). By revising the offer to request Tee Higgins (or a 2028 1st + Isiah Pacheco) alongside JSN, Big Balder Brand captures the dynasty WR1 overall while maintaining a 727.1 starting lineup C-AVI and championship roster balance.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 91.7,
+              "davi": 93,
+              "publicMarket": 92,
+              "leagueMarket": 91.7
+            },
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.9,
+              "publicMarket": 94,
+              "leagueMarket": 96.1
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 98.5,
+              "leagueMarket": 99.1
+            },
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.1,
+              "davi": 91.2,
+              "publicMarket": 84,
+              "leagueMarket": 82.1
+            }
+          ],
+          "whyUserShouldDoIt": "Big Balder Brand acquires the premier 24-year-old WR1 overall in dynasty (JSN) while securing Tee Higgins (82.1 C-AVI) to immediately fill FLEX2, preserving a 727.1 starting lineup C-AVI and maintaining high-end starting depth.",
+          "whyOpponentMightAccept": "All Hail King Jesus fixes their primary roster flaw by acquiring elite RB1 Saquon Barkley (+36.6 C-AVI upgrade over Aaron Jones) while replacing JSN with Rashee Rice, boosting their starting lineup score from 627.0 to 640.9 (+13.9 C-AVI)."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 91.7,
+              "davi": 93,
+              "publicMarket": 92,
+              "leagueMarket": 91.7
+            },
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.9,
+              "publicMarket": 94,
+              "leagueMarket": 96.1
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 98.5,
+              "leagueMarket": 99.1
+            },
+            {
+              "name": "Isiah Pacheco",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 48.1,
+              "davi": 71.3,
+              "publicMarket": 50,
+              "leagueMarket": 48.1
+            },
+            {
+              "name": "2028 Round 1 (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "If All Hail King Jesus refuses to part with Tee Higgins, receiving Isiah Pacheco for RB depth plus a premium 2028 1st Round Pick gives Big Balder Brand liquid trade capital to make a follow-up move while securing JSN."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba news 2026",
+          "Jaxon Smith Njigba fantasy value 2026 dynasty"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd_lKDJYoQ_5t4mEEowuDRSpffTRidWQZ7ZMNMXHcgLa2vqLhvrYHH4mMIAlGu9QoZ7k_SKXIsE_Ru1efvywplG5-IQ72anwj9K4dAVOrtlhnhitnaKmuCueJVOhFDLHGlhjL_QhSpEScseUY=",
+            "title": "dynastynerds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaKB8rTpXaE-TzXrP1NpxdypDAW2HFTbfoHFA2ZxS07KqwlGV35mD50icFNEz7e9JORZpLg2tBsKitBHAvT8OySNUY0MLtxkXG1px2NZ9a-u2vb_Uix9YlilfOEb0hEJCbwWNyR8kd5eEeBIeyxYBcMS1CLnEALfYPepTbko6BYq0BLyTFeSBxfFvlnzOb2lnF8OeMq9vJ8xXsXwTOmH1Nv_WIJDhiVu-C8dbXcuE=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHesCQwpT0hxtGtZq8stse0lUG4QK60z5LGl_bDV8gkBWakZRhOo25W240kaufgHa_lQMsXUYp26SafY5WZEbcOnXxCHp6Bx2fJEfZ8JYk89dk-GY-IRa-AiPoPDJhWj92hKKgpz0y9e_qYZ-oP1Wsar2oPxn9MEBIAj_Ay4zLovbfnZtLHVZ_WqwcuD0=",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhfmnpQGvjZhsBzzFsi-dg5VnX5Xz8YRs3yuUOzqbokgT9FWTSM7aNi8w4cOTPegm3Xq1dG515qibeRK6eNqu9Hhf1Y69GoyyEWcHnh0-dF81yEHgy4yJJgZ12YyHKMnGmXsMVWF13itReN9Pvr2NhM0MXhehoCBrz2MNeg69WMk5oIfq0tqjtISsFG76mHY6ZJiAapDxQrhQd8umwB-h2fRUx4HaWNOybbw==",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDbGDsUj9KOIkg7uZy19ah8Rid7blrVauG9o7otuhKDeYqV5nclx5C3FF-sk8M-vX-15z-E2wh2kQBtPKqfJDxJX0KgXadR939LMbBnIXECTgnC2Mxx94gRYUXaMxHorHk-tHCueIzz_Mh1cI=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDhuS-vibWrHngC4gggIXyFPwghJkIUz2ae0Bf0NXMwtv5kHSmZgEyOCBzd9H7aj7LOONUGs6XwrKcW2cTyx0dTC2LYAbdtAZbxZU2SesRFQSkUc4avLE_cUCaZFyO3oMK6FBYpl7Bx5dE_u6s6NarRDDyvNvX-z7aGD3K17fJnX1Kb2-cQT8wuMEsSfjoP5M45gpQcCxqLhCsTiM=",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlaPb49twZD8fJCqmx_210vySH7lAAmI95y9scvHBsxZXn5DU6OT0iDg-biAE7bBHDsSEOzhGbwnoKhxxrKulOXefAziigLcDgn2lYPA8cZtYJrp4p_LSEeAzXcTZCwRY=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAHRKxYriJ1zlCD4w5vTIgqeiXLYnlCMm--OEGe9pu3OHWXydmFIiiI1Wq59-xcO5kCvtkIeLJaceYJzRUFtguJV1cOldkqnaVxdcsDQVD4glkIezEdqvHuxCqh5VA3O10BUQiljB10GBNA83BEYOVDuxxSuuM6UD6x4m1l3vpOVKI8aoiZhjT",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWvptIQWZVJM_eWz5dn_w9ZdvqTuwlht7qe_6mGsXufQm5y4MBuKpPlMCLE_CXlHirOLsngweahH1NLLUVU_1YVmtQfxN9ssN3T7Om_EQ5qqpBOkWbLMXFXvvEO3BkC7QEA0lfjxaXiXO5LNIXvg6EnYtXqf3uzSllAQoDFcCwgLv3hsrNv-uOCJmg_IltwoZEuSlqBS8dVw==",
+            "title": "rotowire.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c55fd1b821dd75c21d040adbaf4528e60f62f282",
+        "aviCoreCommittedAt": "2026-08-14T21:52:44Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 65432,
+        "groundedMarketChars": 2229,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "msti5poo-da06868e",
     "phase": "initial",
     "mode": "propose_trade",
@@ -29,38 +427,6 @@
     "createdAt": 1786745534280,
     "updatedAt": 1786745535420,
     "expiresAt": 1787177534280,
-    "status": "running"
-  },
-  {
-    "id": "msti50ga-3cf57856",
-    "phase": "initial",
-    "mode": "propose_trade",
-    "endpoint": "/api/ai/trade",
-    "request": {
-      "mode": "propose_trade",
-      "userTeam": "Big Balder Brand",
-      "goal": "Win Championship",
-      "targetTeam": "All Hail King Jesus",
-      "targetAssets": [
-        {
-          "name": "Jaxon Smith-Njigba",
-          "assetType": "player"
-        }
-      ],
-      "foundationAssets": [
-        {
-          "name": "Rashee Rice",
-          "assetType": "player"
-        },
-        {
-          "name": "Saquon Barkley",
-          "assetType": "player"
-        }
-      ]
-    },
-    "createdAt": 1786745501578,
-    "updatedAt": 1786745502960,
-    "expiresAt": 1787177501578,
     "status": "running"
   },
   {
