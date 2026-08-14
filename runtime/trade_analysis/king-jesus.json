@@ -1,5 +1,327 @@
 [
   {
+    "id": "mstfhjww-46e478fe",
+    "createdAt": 1786741125291,
+    "expiresAt": 1787173125291,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · All Hail King Jesus ↔ Smoky Valley Wheat Warriors",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Smoky Valley Wheat Warriors",
+      "targetAssets": [
+        {
+          "name": "CeeDee Lamb",
+          "assetType": "player"
+        },
+        {
+          "name": "Chris Olave",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · Wheat Warriors · Projected late range (1.10–1.16)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        },
+        {
+          "name": "Amon-Ra St. Brown",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The proposed package sends Jaxon Smith-Njigba and Amon-Ra St. Brown to Smoky Valley Wheat Warriors in exchange for CeeDee Lamb, Chris Olave, and a 2028 1st round pick. While this deal acquires future draft capital, it fails the user's primary goal to 'Increase Championship Odds' by downgrading immediate starting WR production by 5.8 C-AVI (dropping weekly WR starting projection ceiling). Simultaneously, demanding a 2028 1st round pick in a WR-for-WR lateral swap pushes the trade partner's acceptance probability down to 54% (Stretch). Because this transaction damages immediate championship odds for All Hail King Jesus while overcharging a contending trade partner, no realistic trade exists under this package structure.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 99,
+              "leagueMarket": 99.1
+            },
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 98.5,
+              "leagueMarket": 98.6
+            }
+          ],
+          "sideB": [
+            {
+              "name": "CeeDee Lamb",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.6,
+              "davi": 98.3,
+              "publicMarket": 97,
+              "leagueMarket": 97.6
+            },
+            {
+              "name": "Chris Olave",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 26,
+              "cavi": 94.3,
+              "davi": 95.9,
+              "publicMarket": 94,
+              "leagueMarket": 94.3
+            },
+            {
+              "name": "2028 1st · Wheat Warriors · Projected late range (1.10–1.16)",
+              "assetType": "pick",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C-",
+            "otherGrade": "D+",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "Neither Franchise (Flawed Trade Structure)",
+            "summary": "This trade proposal is fundamentally misaligned for both organizations. For All Hail King Jesus, trading away overall WR1 JSN (99.1) and WR2 Amon-Ra (98.6) for Lamb (97.6) and Olave (94.3) degrades immediate WR starting ceiling by -5.8 C-AVI, directly hurting 2026 championship odds. For Smoky Valley Wheat Warriors, surrendering a 2028 1st round pick (79.3 AVI) for a modest starting lineup gain (+5.8 C-AVI) represents an overpay that an elite contending manager will reject."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -25,
+              "summary": "Degrades 2026 starting WR talent (-5.8 C-AVI) without addressing core RB weakness, while adding distant 2028 draft capital."
+            },
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Immediate 2026 starting lineup ceiling drops from 627.0 to 621.2 C-AVI due to downgrade from JSN/Amon-Ra to Lamb/Olave."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Trades away younger WR1 assets (JSN age 24, Amon-Ra age 26) for older receivers (Lamb age 27, Olave age 26), offset slightly by acquiring a 2028 1st."
+            },
+            "lineupQuality": {
+              "score": -35,
+              "summary": "WR1 drops from 99.1 to 97.6 C-AVI and WR2 drops from 98.6 to 94.3 C-AVI."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Maintains 2-for-2 player roster balance, adding no new usable FLEX depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Adds a future 2028 1st round draft pick to team capital."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -20,
+              "summary": "Slight starting WR upgrade (+5.8 C-AVI) comes at the steep cost of surrendering a premium 2028 1st round pick."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Modest starting lineup bump from 663.5 to 669.3 C-AVI."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Acquires younger elite receivers JSN (24.0) and Amon-Ra (26.0)."
+            },
+            "lineupQuality": {
+              "score": 15,
+              "summary": "WR1 upgrades from Lamb (97.6) to JSN (99.1) and WR2 upgrades from Olave (94.3) to Amon-Ra (98.6)."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Maintains existing starting lineup structure without adding bench depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -50,
+              "summary": "Surrenders a 2028 1st round draft pick."
+            }
+          },
+          "explanation": "All Hail King Jesus suffers a net loss in 2026 starting weekly projection by swapping top-tier receivers for slightly lower-tier receivers, failing its user goal. Smoky Valley Wheat Warriors suffers a liquidity hit by paying a 2028 1st round pick for a minor WR upgrade."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "All Hail King Jesus drops starting lineup C-AVI from 627.0 to 621.2 (-5.8 C-AVI). WR1 drops from 99.1 (JSN) to 97.6 (Lamb); WR2 drops from 98.6 (Amon-Ra) to 94.3 (Olave). This directly lowers 2026 weekly scoring ceiling.",
+          "sideADynastyImpact": "Dynasty profile shifts slightly older at WR (JSN 24.0 and Amon-Ra 26.0 leaving; Lamb 27.0 and Olave 26.0 arriving), mitigated by gaining 79.3 D-AVI in a 2028 1st round pick.",
+          "sideARosterImpact": "Roster composition remains identical in offensive depth, leaving Aaron Jones (55.1 C-AVI) and Zach Charbonnet (51.5 C-AVI) as the starting RBs without addressing the team's main positional weakness.",
+          "sideBChampionshipImpact": "Smoky Valley Wheat Warriors increases starting lineup C-AVI from 663.5 to 669.3 (+5.8 C-AVI) by upgrading Lamb and Olave to JSN and Amon-Ra St. Brown.",
+          "sideBDynastyImpact": "Dynasty WR core gets younger and more valuable, but surrenders premium long-term draft capital (2028 1st).",
+          "sideBRosterImpact": "Lineup slots remain filled by top-tier receivers, but asset flexibility is reduced.",
+          "valueAssessment": "Gross asset C-AVI sent by User is 197.7 vs 271.2 C-AVI value received. However, in functional lineup utility, the user trades immediate starting WR points for a distant pick that yields zero 2026 fantasy points."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In public dynasty markets (KTC/FantasyPros), Jaxon Smith-Njigba and Amon-Ra St. Brown are both ranked as top-4 overall dynasty receivers. CeeDee Lamb remains a premier tier-1 WR, while Chris Olave locked up a 4-year, $132M contract extension with the Saints and produced WR7 per-game numbers in 2025.",
+          "aviVsMarket": "Market sentiment aligns closely with AVI models: JSN (WR1 overall) and Amon-Ra (WR3 overall) carry higher dynasty trade value than Lamb (WR5) and Olave (WR8-12). Public consensus would view giving up JSN and Amon-Ra for Lamb and Olave as a downgrade in receiver talent.",
+          "relevantContext": [
+            "Jaxon Smith-Njigba is coming off a breakout campaign leading the league in target share metrics at age 24.",
+            "Amon-Ra St. Brown is a locked-in target hog in Detroit's high-powered offense.",
+            "Chris Olave secured a $132M ($90M guaranteed) extension in July 2026, solidifying his long-term WR1 role in New Orleans.",
+            "CeeDee Lamb remains Dak Prescott's primary target in Dallas but experienced a minor statistical dip in 2025 due to missed games."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Smoky Valley Wheat Warriors is a primary championship contender (lineup average 82.94 C-AVI). While upgrading Lamb and Olave to JSN and Amon-Ra increases WR output by +5.8 C-AVI, paying a 2028 1st round pick is an inefficient use of capital for a minor lateral move.",
+          "packageFit": "Swapping two elite starting receivers for two elite starting receivers creates positional redundancy and does not solve core lineup needs for either contender.",
+          "lineupReplacement": "JSN and Amon-Ra directly replace Lamb and Olave in Smoky Valley's starting lineup.",
+          "competitiveWindowFit": "Both franchises are active 2026 championship contenders. Contenders should avoid trading away immediate starting points for future draft picks unless liquidating depth.",
+          "positionalScarcity": "In a 16-team 1QB PPR league, elite WR1s capable of 300+ PPR projections (JSN, Amon-Ra, Lamb) represent the highest tier of championship ceiling."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 10,
+            "opposingGmMotivation": 12,
+            "packageMatch": 12,
+            "lineupReplacement": 12,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": false,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 54,
+          "classification": "Stretch",
+          "explanation": "Neither CeeDee Lamb nor Chris Olave is listed on the confirmed league trade block. Because Smoky Valley Wheat Warriors is a strong contender, asking them to pay a 2028 1st round pick in a lateral WR-for-WR swap results in an acceptance probability of only 54%."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Neither CeeDee Lamb nor Chris Olave is listed on the confirmed league trade block. Because Smoky Valley Wheat Warriors is a strong contender, asking them to pay a 2028 1st round pick in a lateral WR-for-WR swap results in an acceptance probability of only 54%.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Neither CeeDee Lamb nor Chris Olave is listed on the confirmed league trade block. Because Smoky Valley Wheat Warriors is a strong contender, asking them to pay a 2028 1st round pick in a lateral WR-for-WR swap results in an acceptance probability of only 54%.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Smoky Valley Wheat Warriors is a primary championship contender (lineup average 82.94 C-AVI). While upgrading Lamb and Olave to JSN and Amon-Ra increases WR output by +5.8 C-AVI, paying a 2028 1st round pick is an inefficient use of capital for a minor lateral move."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Swapping two elite starting receivers for two elite starting receivers creates positional redundancy and does not solve core lineup needs for either contender."
+            }
+          ],
+          "opponentPerspective": "Smoky Valley Wheat Warriors is a primary championship contender (lineup average 82.94 C-AVI). While upgrading Lamb and Olave to JSN and Amon-Ra increases WR output by +5.8 C-AVI, paying a 2028 1st round pick is an inefficient use of capital for a minor lateral move.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Swapping two elite starting receivers for two elite starting receivers creates positional redundancy and does not solve core lineup needs for either contender.",
+          "whatWouldNeedToChange": [
+            "Smoky Valley Wheat Warriors is a primary championship contender (lineup average 82.94 C-AVI). While upgrading Lamb and Olave to JSN and Amon-Ra increases WR output by +5.8 C-AVI, paying a 2028 1st round pick is an inefficient use of capital for a minor lateral move.",
+            "Swapping two elite starting receivers for two elite starting receivers creates positional redundancy and does not solve core lineup needs for either contender."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chris Olave news 2026 fantasy football",
+          "CeeDee Lamb news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCsbq4cc-py_M1JMguYPujte1GYNG5sdX_ygPw29tRnJCWjFS9ee_oh6c6ntcc1FfrM_5NTq7-OF4bHgqAKzs3R0_TFF5Yd5WcsS8xFBEWglBruC4ZRZCMaxUwo9ux58tGGKO8W4u0kT5mMtVp9kXVr5KrxrVOve8f_JLwETli6P56tt3eTquM28gFGhtd6BGh6w5LOUYpW0q_FzcC",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHQMqc10YeulnDH32ET538v8rYYHecQhp2uvad5eoeYO8QDUYJCMTW7P6OGpnjYr1ZkELwuviAff8r30gjJZYlQXiGph75lRwFsM91w_8qsf4uDK0t3m0dr39JSbtQ8golrRum42gBb1JOENICjxjuwbhE8wJo1xVyc5PqzYo5Wgb1ZD2hIR9U3NT6bz-kP8wc-RQUhrQZc4-i",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYwOy_AhoBa_Zp1H4TfBwgY8W6xDEdWh6hoxAqAiItZVpm_GGe2a3y387SG6Juap8IbI8TpoEqPhT9kSpYOlYpRjdhNIGgZuiq9VNmZpeVdVEDNhwSYsU9TNCJARID7I2LsT4I-OnnTwNC_E_wGq4RPSnCX5fydb4APg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0Uo2wjM1D--oK3-cf-pBFNNyXkvQcIXHUbmKI6-rtEYR132zRKICYkl1cPAAGGM3yyCOpxgj1tBlFCT5EJGpbq3VvHD9_oCt3L1-jCLWuFke4Y9vSv-OrqDwbu4w4iQ_ahIAAaBuNtshFP5At_HUXyABc8831P-BijJGZLNhh03FdvDT0Mtz4A9wLgTVz5wnuTU1zoL-Xz07Ssbp7LA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5_smbETca1lcxmJ7ceCxqDvEm9YsSQTFmAZHFCYwH5IYMGNIKnU8oL9u-k6rHv_97phsjG5zWmGSYlVe0SRh3xhx-Xxnb3LYeQ_S8vYcxiMZ0Um2cRIokyUq2zHvdXj4QbDsgcCGJhJoHc4U4PgYDBqCqew==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd5wYj0yaiiwwopJs5BZRYOyeE1jG53mtgqE8yY3QHs60xPMGaCcwLhI4J30ibJKtfKxhxcaBl-TqvlGk2VTjqlN2bKb5ZH-odxkWJSzaYo8Wr7jkivYGz2K_62nwfTXj7_PZSxziIEiymUFbuqtX5vtu_z9jibYXpy6JAU9ey",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG70HmGjKcF0fyTyhPOL5BEzOSfvcfZBm_oKRJYxdIGQ9ED6VUEkDlehBnNc7UErvbH-lDbtgSG2MQLjp1AtyLRy99Ytx6n7iTTeJSBT4fvyxsSYWVrR1fBTrtYeTOCYlYVklRX8QosA36-NzOuTd2h04WZSKyPkGSKCFZVrkb3tImXooXBVxvx0UtL7SERyLWm5EW-IcBk7PZ0Qkt0CjR7QoSS",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpy_I8l3ON_CCkPLNOkh6GRjqNqhg5l6uBlP5qkpzNzRgom0e2A7UX443sktUhCeeXV2gJenBtSA1o3CkB_wxISL_mde4y0qIZpesa7JUVC8iVSAjHdyLv31Ai9_NXz_UQ",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "af80b30cbfcc79e29041d8e0fd76e60a96a232dc",
+        "aviCoreCommittedAt": "2026-08-14T20:00:26Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 60123,
+        "groundedMarketChars": 2099,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mstew6k2-a2c37500",
     "createdAt": 1786740093344,
     "expiresAt": 1787172093344,
