@@ -1,5 +1,347 @@
 [
   {
+    "id": "1786720370024-728jmg",
+    "createdAt": 1786720370301,
+    "expiresAt": 1787152370301,
+    "mode": "propose_trade",
+    "title": "Build Offer · Big Balder Brand ↔ Lightskin Legends",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Lightskin Legends",
+      "targetAssets": [
+        {
+          "name": "Chase Brown",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Nico Collins",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand leverages wide receiver depth by offering WR1 Nico Collins (91.8 C-AVI / 96.1 D-AVI) alongside a 2027 2nd-round pick to target Chase Brown (96.5 C-AVI). In this 16-team league, Lightskin Legends faces an acute receiver shortage (starting Parker Washington at WR2) while holding three starting RBs. This package directly solves Lightskin Legends' core bottleneck while boosting Big Balder Brand's starting lineup C-AVI from 736.1 to 740.8 and building an unmatched championship-caliber backfield rotation.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 91.8,
+              "davi": 96.1,
+              "publicMarket": 92,
+              "leagueMarket": 91.8
+            },
+            {
+              "name": "2027 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.5,
+              "davi": 94.9,
+              "publicMarket": 95,
+              "leagueMarket": 96.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "A-",
+            "userShare": 51,
+            "otherShare": 49,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand acquires Chase Brown (96.5 C-AVI, 278.7 projected PPR points) to elevate starting C-AVI from 736.1 to 740.8 and construct an elite RB corps of Saquon Barkley, Chase Brown, Omarion Hampton, and Jeremiyah Love. Lightskin Legends receives an immediate WR1 in Nico Collins (91.8 C-AVI) plus a 2027 2nd-round pick, addressing its largest roster weakness while promoting Javonte Williams into its RB2 starting slot."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 35,
+              "summary": "Gains elite RB1 Chase Brown, raising weekly lineup ceiling and backfield injury resilience for a title push."
+            },
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Increases starting lineup C-AVI to 740.8 and adds high-floor RB volume alongside Saquon Barkley."
+            },
+            "dynastyOutlook": {
+              "score": -5,
+              "summary": "Parts with Nico Collins (96.1 D-AVI) and a 2027 2nd, slightly lowering wide receiver dynasty depth."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Starting lineup C-AVI improves by +4.7 points as Chase Brown pushes Omarion Hampton and Jeremiyah Love into optimal FLEX slots."
+            },
+            "depthResilience": {
+              "score": 45,
+              "summary": "Creates premier backfield depth in a 16-team format with four starting-caliber RBs."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Surrenders one 2027 2nd-round draft pick."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 30,
+              "summary": "Fixes critical starting WR gap with an elite WR1 in Nico Collins and adds 2027 draft capital."
+            },
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Replaces 67.8 C-AVI Parker Washington with 91.8 C-AVI Nico Collins in starting lineup."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Secures CJ Stroud's primary target (age 27) and extra draft capital."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Substantially increases wide receiver scoring output while Javonte Williams fills RB2."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Dips into running back depth while preserving Jonathan Taylor and Javonte Williams."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Acquires a 2027 2nd-round draft pick."
+            }
+          },
+          "explanation": "This transaction resolves structural roster imbalances for both organizations. Big Balder Brand consolidates WR strength into elite RB production, while Lightskin Legends converts RB surplus into a needed WR1."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's starting lineup C-AVI rises from 736.1 to 740.8. Acquiring Chase Brown (96.5 C-AVI) provides high-ceiling RB1 scoring to complement Saquon Barkley, sliding Omarion Hampton (91.4) and Jeremiyah Love (89.7) into FLEX positions.",
+          "sideADynastyImpact": "While Nico Collins (96.1 D-AVI) is an elite dynasty WR, Big Balder Brand retains Rashee Rice (93.9 D-AVI) and A.J. Brown (94.3 D-AVI) as primary receivers while securing a 26-year-old lead back in Chase Brown (94.9 D-AVI).",
+          "sideARosterImpact": "Converts WR depth into high-leverage running back points, protecting the team against backfield injuries in a 16-team league.",
+          "sideBChampionshipImpact": "Lightskin Legends immediately upgrades its starting WR group from Parker Washington (67.8 C-AVI) to Nico Collins (91.8 C-AVI), fixing its largest lineup bottleneck.",
+          "sideBDynastyImpact": "Acquires a 27-year-old receiver tied to CJ Stroud along with a 2027 2nd-round pick, establishing better long-term balance across positions.",
+          "sideBRosterImpact": "Leverages RB depth (Jonathan Taylor, Chase Brown, Javonte Williams) to fix a WR room that currently holds back total scoring.",
+          "valueAssessment": "A balanced trade where both sides gain lineup utility. Nico Collins (91.8 C-AVI / 96.1 D-AVI) plus a 2027 2nd (48.5 AVI) appropriately matches Chase Brown's 96.5 C-AVI RB1 value."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views Chase Brown as a high-end RB1/RB2 in redraft and dynasty due to his expanded all-purpose role in Cincinnati. Nico Collins is universally valued as a top-12 dynasty wide receiver.",
+          "aviVsMarket": "AVI aligns with current public sentiment, rating Chase Brown (96.5 C-AVI) in the elite RB tier and Nico Collins (91.8 C-AVI / 96.1 D-AVI) as an elite WR1.",
+          "relevantContext": [
+            "Chase Brown enters 2026 as Cincinnati's clear RB1 with split-out receiver usage highlighted in camp reports.",
+            "Nico Collins remains CJ Stroud's primary target in Houston with strong target share and efficiency.",
+            "In 16-team formats, lead RBs with receiving volume carry significant value due to positional scarcity."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Lightskin Legends is thin at WR (starting DK Metcalf and Parker Washington) while holding three starting RBs (JT, Chase Brown, Javonte Williams). Fills their main team need.",
+          "packageFit": "Nico Collins provides a WR1 anchor, and the 2027 2nd pick adds future capital.",
+          "lineupReplacement": "Lightskin Legends replaces Chase Brown in its starting backfield with Javonte Williams (81.7 C-AVI) at RB2.",
+          "competitiveWindowFit": "Both franchises are competing; the trade aligns surplus assets with needs.",
+          "positionalScarcity": "In a 16-team league, bellcow RBs with passing-game volume are scarce, justifying the inclusion of a 2nd-round pick alongside Nico Collins."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 90,
+          "classification": "Highly Realistic",
+          "explanation": "Lightskin Legends has a clear need at WR and surplus at RB. Offering Nico Collins (91.8 C-AVI / 96.1 D-AVI) plus a 2027 2nd-round pick provides a high-value return that upgrades their starting lineup while allowing Javonte Williams to step in at RB2."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This offer aligns with Big Balder Brand's goal to 'Win Championship' by acquiring Chase Brown (96.5 C-AVI) to raise starting lineup scoring (+4.7 C-AVI) and build deep RB depth. Nico Collins + 2027 2nd provides a package that addresses Lightskin Legends' primary WR need.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 91.8,
+              "davi": 96.1,
+              "publicMarket": 92,
+              "leagueMarket": 91.8
+            },
+            {
+              "name": "2027 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.5,
+              "davi": 94.9,
+              "publicMarket": 95,
+              "leagueMarket": 96.5
+            }
+          ],
+          "whyUserShouldDoIt": "Acquires an RB1 (278.7 projected PPR points) to pair with Saquon Barkley and Omarion Hampton, raising starting C-AVI to 740.8 and adding backfield depth for a 16-team title push.",
+          "whyOpponentMightAccept": "Addresses Lightskin Legends' WR need by providing a WR1 in Nico Collins (96.1 D-AVI) plus a 2027 2nd, while Javonte Williams moves into their starting RB2 slot."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 91.8,
+              "davi": 96.1,
+              "publicMarket": 92,
+              "leagueMarket": 91.8
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.5,
+              "davi": 94.9,
+              "publicMarket": 95,
+              "leagueMarket": 96.5
+            }
+          ],
+          "rationale": "If Lightskin Legends prefers 2028 draft capital over 2027 capital, substituting the 2028 2nd-round pick maintains the trade structure while offering draft year flexibility."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chase Brown Bengals running back 2026",
+          "Chase Brown news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkJ77tkbYc0UGgM0OgKzyjW6qpI4OiXnxObrVmkQ4ZVvOMQP_P-6-uspJ_BZnDqkODzGS-mpNluio04zqUAUgCbl48peE2D9s1cH7GiSs0h09G0Em1fa_CEAaptMG9xD_Irlt2pniclbWNFswPhjq8GlqSLqOWX-QGR2BXF7pwE9Psut2X89q5iqti9ZxYrowWXs6u7g==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH42GuzTfJfvNlKAgM72odD8zbTPGxBwyRphcuhyR1cnN_ReGOtlzlJFKqf5XqobiAbiF49oVA8msAZmD3Dv5MHSK1vcl4D9GxmDKy4vi70OKHZHhC0_j-7UGqpdw0DKkuUTzAJU5unsa221Onl4kq7OzilSG9JPWKPvfBlP2iFOJ5az7Zao5DwW0jv6gLudZdlZzg015dp2FTLHdNNTu5VufI=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7I9yWSudR8EUdCF-VcdB29ywS1Cj432-qHw8ToYAnP1OpaAFek2-4hMm0YPY36U_E0OxN9CNoVcbjHq2E7qhy6JQQ9QpMPL3glAVaWrjd8FAIbtKUPjl91Z_UCEAMgswrmoi16IFXicUdMH6qM1TyN-j8m3e4nWgR5cyOd-4ETaoq9h2mO37Pjab7_ch_7ZGU4JEL71KrcQL3",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG82c2ZLPddpNAHJi1NkO-U-V8q2ikb8JpMRHB4_9MZP93oNkO84r05Q4Ny83LNNgIJoFQC7Ovos_-LPw20HuqNsd6eEec7kic9Mibe1PsUza04vwf6uiECVKW1oahRMaHL",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0HWHdck_jALuZl9cEfvTKPSVn_xQLpT5RbUF5xwgnzBVQ3jo87nWvsWMb5IMpzKaxfd9Uz9Mij-cy3MyD9-m00apmVZ10spuEcMoBxQYv9kZ2Z7B4Mv5k3g6oh6rT5A==",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHssuDOipfswfTwzhA1ZszuPVas5jSjq844jITIhc1BUos6og0c2cgVQI2tLzhK_KHMosY__MHTEApgFI73yh2wv7xKy-rQR7rxrAbVR_L0jrGOyxgugKd2BWzCDIb9PkmLIAyeCJD6Y7OJDHosIFrv6geUpu1AmQLm9LOC2y501oG55wzL0uoIe8VAWjDCZRKyKF_hSb8q1WrpbA==",
+            "title": "recordherald.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl0eC9xz-SzGykp2PU5YpII3NFTXxhCcw3WZSwNx_L5WS9HzXmInr-n9lbSd7XT5vr29_bok8E9q57fD4kxD6VKQzILz236p7Optq8J4NkqQQkj8jEeI456qJqs4UyCsFJzr0WglDWSX-Ukx5QFe-HddhfBycvxcqWgDzWlXr05dtLz1PBGVdvtsMWtRSQpTT-747nEjBuWEbL5SUNIQ==",
+            "title": "fantasylife.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "462a37e2eb2620d54539187eea90f50d70250a32",
+        "aviCoreCommittedAt": "2026-08-14T15:07:12Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 63618,
+        "groundedMarketChars": 2051,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "1786719314678-r6lo6v",
     "createdAt": 1786719315059,
     "expiresAt": 1787151315059,
