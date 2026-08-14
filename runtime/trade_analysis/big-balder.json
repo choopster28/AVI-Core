@@ -1,5 +1,316 @@
 [
   {
+    "id": "1786690207555-aojv5q",
+    "createdAt": 1786690207665,
+    "expiresAt": 1787122207665,
+    "mode": "propose_trade",
+    "title": "Build Offer · Corgi Loaf Baking Co. ↔ Conquistadors",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. sought an offer proposal to acquire elite running back De'Von Achane from Conquistadors to push for the 2026 Autobots Championship. However, Market Reality v2 analysis eliminates Conquistadors as a viable trade partner: Conquistadors is the league's top contender (#1 starting lineup C-AVI at 724.5) and relies on Achane as an indispensable win-now cornerstone. Because Corgi Loaf cannot construct a trade package that reaches the required 70% acceptance probability without destroying its own starting lineup and championship window, AVI concludes there is No Realistic Trade.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 84.2,
+              "davi": 89.5,
+              "publicMarket": 82,
+              "leagueMarket": 84.2
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 76.3,
+              "davi": 87.1,
+              "publicMarket": 75,
+              "leagueMarket": 76.3
+            },
+            {
+              "name": "2027 Round 1 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 95,
+              "leagueMarket": 97.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C-",
+            "otherGrade": "C+",
+            "userShare": 42,
+            "otherShare": 58,
+            "advantageFranchise": "Conquistadors",
+            "summary": "Evaluating the strongest plausible offer attempt (Cam Skattebo, DJ Moore, and a 2027 1st for De'Von Achane): while the package delivers high raw AVI, it dilutes Corgi Loaf's FLEX depth and draft liquidity for a minor net starting lineup gain (+2.6 C-AVI), while failing to convince a rival contender to surrender a top-tier RB cornerstone."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -15,
+              "summary": "Surrendering Skattebo, DJ Moore, and Corgi Loaf's only remaining 2027 1st round pick erodes roster depth and flexibility for negligible net lineup improvement."
+            },
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Upgrading RB1 from Skattebo (84.2) to Achane (97.4) is negated by dropping FLEX2 from DJ Moore (76.3) to Wan'Dale Robinson (65.7), leaving starting score virtually flat (+2.6 C-AVI)."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Acquiring a 24-year-old elite RB is positive, but sending out two quality starters and a prime 2027 1st net-subtracts overall long-term asset value."
+            },
+            "lineupQuality": {
+              "score": 5,
+              "summary": "Starting lineup C-AVI increases marginally from 668.3 to 670.9, failing to elevate Corgi Loaf past the league's top contenders."
+            },
+            "depthResilience": {
+              "score": -25,
+              "summary": "Depletes first-off-the-bench depth in a 16-team league, leaving the team extremely fragile to any skill-position injury."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Exhausts Corgi Loaf's final high-value future draft asset, locking down all future roster maneuvers."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 10,
+              "summary": "Adds draft liquidity and starting depth, but sacrifices peak position power at RB."
+            },
+            "championshipOutlook": {
+              "score": -5,
+              "summary": "Downgrading RB2 from Achane (97.4) to Skattebo (84.2) reduces high-end scoring ceiling despite upgrading FLEX2 to DJ Moore."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Gains a 2027 1st round pick and two startable players, building additional long-term flexibility."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Starting lineup score remains virtually unchanged (+0.5 C-AVI) while trading away a individual star."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Bolsters bench and FLEX coverage with the addition of DJ Moore."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Adds a second 2027 1st round pick to an already dominant championship core."
+            }
+          },
+          "explanation": "The visualization highlights why this deal is non-viable: Corgi Loaf sacrifices depth and draft capital for minimal net starting lineup gain, while Conquistadors dilutes its championship-winning RB ceiling as the league's #1 title contender."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Acquiring De'Von Achane (97.4 C-AVI) elevates Corgi Loaf's RB1 position over Cam Skattebo (84.2 C-AVI), but losing DJ Moore (76.3 C-AVI) forces Wan'Dale Robinson (65.7 C-AVI) into the starting FLEX. The net starting lineup improvement is just +2.6 C-AVI points.",
+          "sideADynastyImpact": "Achane (97.0 D-AVI) is a premier dynasty building block, but parting with Skattebo (89.5 D-AVI), DJ Moore (87.1 D-AVI), and a 2027 1st (79.3 D-AVI) creates a negative net dynasty asset return.",
+          "sideARosterImpact": "Erodes starting FLEX quality and depletes Corgi Loaf's remaining premium draft capital, leaving the roster top-heavy and vulnerable in a 16-team format.",
+          "sideBChampionshipImpact": "Conquistadors downgrades at RB2 from Achane (97.4 C-AVI) to Skattebo (84.2 C-AVI), but upgrades FLEX2 from Juwan Johnson (62.6 C-AVI) to DJ Moore (76.3 C-AVI), creating a net-neutral (+0.5 C-AVI) impact.",
+          "sideBDynastyImpact": "Conquistadors acquires draft currency (2027 1st) and starting depth, but loses one of the elite young RB assets in dynasty football.",
+          "sideBRosterImpact": "Splits a dominant star asset into depth and picks, which conflicts with Conquistadors' status as the league's top win-now team.",
+          "valueAssessment": "De'Von Achane carries elite value (97.4 C-AVI / 97.0 D-AVI). While Corgi Loaf's multi-asset offer matches raw value, structural roster misalignments make a mutually beneficial trade impossible."
+        },
+        "publicMarketAnalysis": {
+          "summary": "De'Von Achane is universally valued as a top-6 dynasty running back and a consensus 1st/2nd round redraft pick. Following his 4-year, $64M extension with Miami and full clearance for 2026 camp, his market stock is at an all-time high.",
+          "aviVsMarket": "AVI evaluates Achane at 97.4 C-AVI / 97.0 D-AVI, which perfectly reflects his market status as a tier-1 fantasy RB asset.",
+          "relevantContext": [
+            "Signed a 4-year, $64M extension through 2030, solidifying long-term backfield focal-point status.",
+            "Fully cleared from offseason shoulder procedure and practicing without restrictions in 2026 camp.",
+            "Voted #26 overall on the NFL Top 100 Players of 2026 list by NFL peers.",
+            "Serves as the primary explosive offensive weapon in Bobby Slowik's new Dolphins scheme."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors ranks #1 in starting lineup C-AVI (724.5) and is fully committed to a 2026 championship push. They have zero incentive to sell off an elite young centerpiece like Achane for depth or draft picks.",
+          "packageFit": "Corgi Loaf's potential package of Skattebo + DJ Moore + 2027 1st provides solid total value, but fails to give Conquistadors the elite single-player upgrade needed to move Achane.",
+          "lineupReplacement": "Trading Achane forces Conquistadors to start Cam Skattebo at RB2, lowering their championship scoring upside.",
+          "competitiveWindowFit": "Both teams are actively contending for the 2026 championship. Direct contenders rarely exchange elite starting assets unless one side receives an irresistible overpay that directly boosts their starting 8.",
+          "positionalScarcity": "In a 16-team league, true RB1s with 20+ PPR point weekly upside are extraordinarily scarce and carry massive market premiums."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 10,
+            "opposingGmMotivation": 10,
+            "packageMatch": 15,
+            "lineupReplacement": 10,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": false,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 50,
+          "classification": "Stretch",
+          "explanation": "De'Von Achane is an un-shopped cornerstone on the league's top contending roster. Conquistadors has no operational reason to trade an elite RB1, and Corgi Loaf cannot offer a package that reaches the mandatory 70% acceptance threshold without gutting its own starting lineup."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "De'Von Achane is an un-shopped cornerstone on the league's top contending roster. Conquistadors has no operational reason to trade an elite RB1, and Corgi Loaf cannot offer a package that reaches the mandatory 70% acceptance threshold without gutting its own starting lineup.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "De'Von Achane is an un-shopped cornerstone on the league's top contending roster. Conquistadors has no operational reason to trade an elite RB1, and Corgi Loaf cannot offer a package that reaches the mandatory 70% acceptance threshold without gutting its own starting lineup.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Conquistadors ranks #1 in starting lineup C-AVI (724.5) and is fully committed to a 2026 championship push. They have zero incentive to sell off an elite young centerpiece like Achane for depth or draft picks."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Trading Achane forces Conquistadors to start Cam Skattebo at RB2, lowering their championship scoring upside."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Both teams are actively contending for the 2026 championship. Direct contenders rarely exchange elite starting assets unless one side receives an irresistible overpay that directly boosts their starting 8."
+            }
+          ],
+          "opponentPerspective": "Conquistadors ranks #1 in starting lineup C-AVI (724.5) and is fully committed to a 2026 championship push. They have zero incentive to sell off an elite young centerpiece like Achane for depth or draft picks.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Corgi Loaf's potential package of Skattebo + DJ Moore + 2027 1st provides solid total value, but fails to give Conquistadors the elite single-player upgrade needed to move Achane.",
+          "whatWouldNeedToChange": [
+            "Conquistadors ranks #1 in starting lineup C-AVI (724.5) and is fully committed to a 2026 championship push. They have zero incentive to sell off an elite young centerpiece like Achane for depth or draft picks.",
+            "Trading Achane forces Conquistadors to start Cam Skattebo at RB2, lowering their championship scoring upside.",
+            "Both teams are actively contending for the 2026 championship. Direct contenders rarely exchange elite starting assets unless one side receives an irresistible overpay that directly boosts their starting 8."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "De Von Achane injury updates training camp 2026",
+          "De Von Achane news 2026",
+          "De Von Achane fantasy value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDB7m7bBSyCIXpAkvkTtT_ylAYNGU1tBcGD7hI84G1W2OGg2MT3TOzb_xDgWPdHk3SfFiN7MxMwm8ZQSaz5VW_Y3WUHRcFNBHPh7AQh82ggIieVIwC3WB9lmQPIdGCBrbHMNte30iMBRocV_wN-jHm9JHcP05kYFSDcxW2AFef3q4tpY1q-6xv8t9r_iP_Z2eEnQMRcjlL8A==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHunktb8ck8vzjkNe02naNH-BPNGC8QrWIUPWzpAZHfL4eKTWuiOg2iTVP-uh5lJHwfxPwPPSzUvzqNgFpvQCT_f4vKddskvDdgctH6g0s3Usd_oPfjGeo92kCF3gtTmlLpdsAh0gUPw6Asi6SfoepAN7lYI0377bqkImcMh9rfY06uG0STXgFUviyuDDR83RnuNMvRanDCP0sS",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKdgaEWQRlHHPFaOOqJds81dlmSyJDWaprvTN3-FJDlRKTNUlsd1Mo400uAyYtQS7i_lt329kAykkVYuuHzBqiIhIjAymKarMyV8L1_8Zj9ExsidP63mBc8AhpU0LAqcP1vbztbXxT_53hGktxKjspa8K6GxBWJONWlciFUOstLq20mlDrbF4Zdxa_fk2S",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2sVWfFUmIjG-q3UPbc04UAu80lm9kQaVAQDl3fHyYdLNc-Jf_A7fU332aaBEnfUzZOQCL7qXW82U4ICPbLhMiJ4r7DfN-YsueXb8njBKD_F662ZfQ8dl6E_FqpbzhTfCNYphGBQcD",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD1n4rX6SZ-k89-PHEi4gW67EEjzFcRm6nFxoMRLZH1tW-HzUWN-MndiIgbOVsatQipVv_H_PLGztNOnrfrjBREeiRJMYTH-7wzfYWOBJx7vpP2hGS5zrRlFZ-w5-DdczTPWvqPagJgRV26m-CcahT5zN_a5k8N-12bBv-_iHQxh1ud7X89poBaQD9KNdwzWsXtLiTO1IDNOKKku7MsQ==",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECzPwqo3AjhbEwe2pAr5mKstNM9_PWJxm3lSycGO6mrbv8XG3JLnRDNiYWbpDFu5sdJCNtxuubUgHupyZ51eoZcrgvQivP0WVn4P9TR9INHlR4I1X6cLsfuiyldtN1VmSnGbbwVJH5FyPj_gIA6l8gxoId9sNCKrV0nSCXT6Usbh0C5jePWiVdtmiubdzOuBTEl_5C72OS3qQlHoIqStz6LejOvOEFtAjVZXHhWW-6iVWbIHN1EtITApdgCVCfDoqouL2NO4k=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGMNVFPwGDQO7ERAg6ioHHCScutc5Bwzd9B2th6NbT2WmbdR15LPAgvHNE8un4Sy1GQpO1h5N5yyTItlOZdeWP-P-UE2TaC4bq_QZsn36JhQor_S_qpTN9ENncCEOJhU5hR1rXHCZKGn0XlFGql0AdSlfVyeay4sl3ng=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4rrPJ-JyhywYHv8WECC6s7DnXo7X1w26m6DetgdurBPdZ1Xi9dFCQsSSPe9D9R51x3G44iL5I7qFpwOzXqMERjh4WuslxX13Hz4aRRRby5PCsvegZ7BtroFWb6Z1SCsz1DpeF963LaHaIa3oXcg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9-krcDeEsQ__1U0NAtM-X09Eo-5QvcleTDRjEj_apz-Go37pDo1sR3C8WZ0PTQBNhcSXVE_oGk-GYoTgAOz0_Gn1h6zChdM5Z9TSNcKMSMWyesl_xTkT2513_Obi7GdvQHrnA0spQQsVoNfe_UuEp1jJswbPKOCtHCbcfH9AeQ9MPu1A3L6GaeYE3uPyiv_Dq9I0CusQg0D8SZ-XTqM9wSw==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqtcL1Wt61eCk5zvPHnqs4lH_BQEtDGVFwfOzSH5c5i0wU3RWXEYK3DN7YINOtb_wHP6SzuQLj74EqRs4Ho4cLyLG1ct9ucrGuDkVHEibe_cjpIWcSpt18hIbMHX0HHM-8fHqM4_FPEVVT92Iof0SFYZCNXPknEjft5l_vS7BpzA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhZUHccPYzTUo8a7JegRSlfWU6sXaH3x3YLuATUbIATW4Lv3PRnUEb2Qvi7pSEHcgCeZhOvlO7hDku0eBdHrIqKvC5uvg9ZStKi-mHrC7ingZ9Yp-Hk7QfDbBDdIKe5xtdEeJFzXd-TKDNiQUbng==",
+            "title": "dynasty-daddy.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "13caa65b6b827416a4663199c3e9f8cc3c30389b",
+        "aviCoreCommittedAt": "2026-08-14T05:45:16Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 65781,
+        "groundedMarketChars": 2715,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "1786689762098-5qjkim",
     "createdAt": 1786689762282,
     "expiresAt": 1787121762282,
