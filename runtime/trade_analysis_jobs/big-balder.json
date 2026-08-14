@@ -1,5 +1,39 @@
 [
   {
+    "id": "msthih78-5a1b1cdd",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Tee Higgins",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786744450196,
+    "updatedAt": 1786744450196,
+    "expiresAt": 1787176450196,
+    "status": "queued"
+  },
+  {
     "id": "msth6cu0-a48559c6",
     "phase": "initial",
     "mode": "analyze_trade",
