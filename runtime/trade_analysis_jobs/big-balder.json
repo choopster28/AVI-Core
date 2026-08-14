@@ -1,5 +1,284 @@
 [
   {
+    "id": "msti5poo-da06868e",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "Rashee Rice",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786745534280,
+    "updatedAt": 1786745581025,
+    "expiresAt": 1787177534280,
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand inquired about acquiring wide receiver Jaxon Smith-Njigba from All Hail King Jesus using Saquon Barkley and/or Rashee Rice as foundation pieces. While offering Barkley and Rice delivers overwhelming current-season point production that addresses All Hail King Jesus' major weakness at running back, JSN is an unshopped 24-year-old franchise cornerstone (C-AVI 99.1 / D-AVI 99.6, 2025 NFL OPOY) who is not listed on the league trade block. Furthermore, surrendering both Barkley and Rice severely damages Big Balder Brand's 'Win Championship' goal by forcing Chris Godwin (62.1 C-AVI) into the starting FLEX2 slot and eliminating RB depth. Because JSN fails Market Reality availability validation and any sufficient package causes self-inflicted lineup damage to Big Balder Brand, no realistic trade exists.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 91.7,
+              "davi": 93,
+              "publicMarket": 91,
+              "leagueMarket": 91.7
+            },
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.9,
+              "publicMarket": 95,
+              "leagueMarket": 96.1
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 98,
+              "leagueMarket": 99.1
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D",
+            "otherGrade": "A",
+            "userShare": 35,
+            "otherShare": 65,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "Constructing a proposal with Saquon Barkley and Rashee Rice yields a massive net gain (+37.2 starting C-AVI) for All Hail King Jesus by solving their RB crisis. However, it inflicts severe damage on Big Balder Brand's starting lineup (-24.1 C-AVI net loss) by shifting Omarion Hampton to RB2 and forcing Chris Godwin into FLEX2, while gutting RB depth."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -45,
+              "summary": "Material hit to championship starting lineup strength and RB depth."
+            },
+            "championshipOutlook": {
+              "score": -50,
+              "summary": "Upgrading WR1 from Rashee Rice (96.1) to JSN (99.1) (+3.0) is drastically offset by losing Saquon Barkley (91.7) and forcing Chris Godwin (62.1) into FLEX2 (-27.1)."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Acquiring 24-year-old JSN provides an elite five-year positional anchor at wide receiver."
+            },
+            "lineupQuality": {
+              "score": -40,
+              "summary": "Best 8-man starting lineup C-AVI drops from 733.7 to 709.6."
+            },
+            "depthResilience": {
+              "score": -60,
+              "summary": "Leaves only Tyler Allgeier and Tank Bigsby as RB depth behind Jeremiyah Love and Omarion Hampton in a 16-team league."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Consolidates two liquid prime starters into a single mega-tier asset."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 55,
+              "summary": "Fills critical RB void with Saquon Barkley while securing Rashee Rice at WR."
+            },
+            "championshipOutlook": {
+              "score": 60,
+              "summary": "Massively boosts 2026 title contention by upgrading RB1 from Zach Charbonnet (51.5) to Saquon Barkley (91.7)."
+            },
+            "dynastyOutlook": {
+              "score": -20,
+              "summary": "Surrenders a 24-year-old OPOY cornerstone receiver (99.6 D-AVI)."
+            },
+            "lineupQuality": {
+              "score": 65,
+              "summary": "Starting lineup C-AVI increases by +37.2 points."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Adds versatile, elite production across multiple starting slots."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Splits one cornerstone asset into two prime starting assets."
+            }
+          },
+          "explanation": "Visual impact highlights the asymmetric roster consequences: Big Balder Brand sacrifices crucial starting depth and FLEX output, whereas All Hail King Jesus resolves its primary roster weakness."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's total starting lineup C-AVI decreases significantly (-24.1 points) because replacing Saquon Barkley in the lineup requires starting Chris Godwin (62.1 C-AVI) at FLEX2 instead of Omarion Hampton (89.2 C-AVI).",
+          "sideADynastyImpact": "Acquires 24-year-old JSN (99.6 D-AVI), solidifying the top wide receiver tier for years, but surrenders two prime cornerstone starters aged 26 and 29.",
+          "sideARosterImpact": "Leaves Big Balder Brand with zero proven running back depth behind Jeremiyah Love and Omarion Hampton.",
+          "sideBChampionshipImpact": "All Hail King Jesus gains +37.2 C-AVI in starting lineup score, elevating their Playoff Push campaign by fixing their RB slot.",
+          "sideBDynastyImpact": "Loses top overall dynasty receiver JSN but gains two elite starters in their prime.",
+          "sideBRosterImpact": "Transforms All Hail King Jesus' running back room from fragile (Jones/Charbonnet) to contender-grade (Barkley/Jones).",
+          "valueAssessment": "Although raw asset value heavily favors All Hail King Jesus (187.8 C-AVI sent vs 99.1 C-AVI received), the trade fails Market Reality due to JSN's unshopped availability status."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Jaxon Smith-Njigba is coming off a 1,793-yard, 10-TD OPOY campaign and is universally ranked as a top-3 overall dynasty receiver.",
+          "aviVsMarket": "AVI rates JSN at 99.1 C-AVI / 99.6 D-AVI, matching public consensus where he commands an overwhelming multi-first plus star player premium.",
+          "relevantContext": [
+            "JSN signed a 4-year, $168M contract extension with Seattle in March 2026.",
+            "JSN captured NFL Offensive Player of the Year in 2025 with a 35.8% target share.",
+            "Public dynasty market treats JSN as an untouchable cornerstone unless met with an unprecedented package overpay."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "All Hail King Jesus is competing in a Playoff Push window and needs RB help, but JSN serves as their central franchise pillar.",
+          "packageFit": "Saquon Barkley and Rashee Rice directly solve All Hail King Jesus' running back deficiency while keeping their receiver group elite with Amon-Ra St. Brown and Rice.",
+          "lineupReplacement": "Rashee Rice replaces JSN at WR2 with minimal drop-off, while Barkley provides a massive upgrade at RB1 over Zach Charbonnet.",
+          "competitiveWindowFit": "All Hail King Jesus is in a Playoff Push window; Big Balder Brand is a Champion Favorite.",
+          "positionalScarcity": "Elite WR1s averaging 100+ receiving yards per game are nearly impossible to replace in 16-team dynasty formats."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 10,
+            "opposingGmMotivation": 18,
+            "packageMatch": 16,
+            "lineupReplacement": 14,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": false,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 66,
+          "classification": "Stretch",
+          "explanation": "Jaxon Smith-Njigba is not on the official trade block (availabilityStatus: Unknown), failing the mandatory availability validation check. Furthermore, acquiring JSN requires a package that damages Big Balder Brand's own lineup depth, rendering trade execution impossible under strict Market Reality protocols."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Jaxon Smith-Njigba is not on the official trade block (availabilityStatus: Unknown), failing the mandatory availability validation check. Furthermore, acquiring JSN requires a package that damages Big Balder Brand's own lineup depth, rendering trade execution impossible under strict Market Reality protocols.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "insufficientValue",
+          "summary": "Jaxon Smith-Njigba is not on the official trade block (availabilityStatus: Unknown), failing the mandatory availability validation check. Furthermore, acquiring JSN requires a package that damages Big Balder Brand's own lineup depth, rendering trade execution impossible under strict Market Reality protocols.",
+          "failedFactors": [],
+          "opponentPerspective": "All Hail King Jesus is competing in a Playoff Push window and needs RB help, but JSN serves as their central franchise pillar.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Saquon Barkley and Rashee Rice directly solve All Hail King Jesus' running back deficiency while keeping their receiver group elite with Amon-Ra St. Brown and Rice.",
+          "whatWouldNeedToChange": []
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba outlook dynasty 2026",
+          "Jaxon Smith Njigba news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHMrUlkdy47C6hlYGo7WFcn2MmksUYXjIHYSmDsmE4Eez4EfJy2zn9dxJrlT3KgpeHX33PkGNms3HAKset_ri55c1OKB0NqpFYlrijp9YfjNrRtRpDR6bAFvNQuU-ZROFJpbfyf7mx8cTrg349x2Bd1XIquFDrKoeXcwy91j7bUjE=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpKiVXbjQdCiofXBBxbWP6mbKzYo3AkmiIBh8iGjSftkvrVtnUxZjq1zOwEHFuGYvNpRW3wSUG5SnXc8sat4oIVoODrxqejPiTub7LGt8xdytsi_FwDi2CgiixzYCADxZkG4no0P9YxD-8i7bk4o6htCjvD7sL9QbLx566MztfTMuI_qqK5TlYvWXVVSxZpBoEt30mC-e54cWV8-iZ5HjvbNHKKRzldw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUxnaACAOryLLQiD3VbaRjcsEjvepUGsMal4Gy62caYG2j_49_BVHUkuNR9PLBJDupUaS12UH3XC6UI04Dpk-_yh-hbbih9hPCTyGlV9xJqm_VsmDk47o49ENUsT9wZXl75xUJfM-FFEO4i69ZQE7TjmtejV4vT2TzVjYPJTpAeBdMMWp699Gju8czi1vt",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJYHUVtRYVh6wzpWr6qTiqRYHVxCZSKx1i2_VjTFNclGmk_zGcOcxnwC8TQtKsK75zkQ_lg_xDls6fGROWMrMKMic8IaczL2Hbw4hWOjH5zcRhCL6mDJkXA56cL8jFjhQ5-w8Ti3HwDr2kTVZAl0dmcumPXLVYZUYtQBqGcXM7EKSg0Y3dzz6P6epH3liY",
+            "title": "bettoringreen.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5uOr3PgYhPOHr9PNet0FEZv2t3wNyLj6TMexL7TGgaG58dtk47Fc8PpF8M5LvV3gmfxWneptkX3ACiFJdBV19-gIhX_Tp48XAEHe2ipQx55KwZkHH45kh6qiYn39uRUXN5KXeGpTX8686YfpdwS8LcuW08fp-OWgZKZVdJajEOqeVWys_rvHEXwYkMaY8b_NY",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCRuX5Rii4vVyz5cdOQMY8OZLrq9-61w-CPa89AUzlw6ozGyL6J-Cr7NxXJZ4f4fuWYJB2g8afVsSCtbDOmzwIPgQ4SmySslmExGXwHAUFCHtJWDYvxxv2lPFcX_TWimp3JUs9pdSlVrtAD2RialKz0y0s2kXr2lFkAnIrS0dAEAGns5o53i88XrKnsbM5EDjK",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFslU39RFOUXkXEPVuJpyjOQ5gjZI1xQd13Xb2FGFbcoceRUsnoJ9e2LzMUScuXEHEnmZcVnWZfkrme-q87Sso-ky2OCRmhscG3uzH2VRcSwzvzrQCV8fkf_m1BR-PnZmu-UF2eHoLmqz2QtIuRXuFK-g4LPxvYM1dXYgsMDT3FhzJG0P6BZav580AD0w==",
+            "title": "pff.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c55fd1b821dd75c21d040adbaf4528e60f62f282",
+        "aviCoreCommittedAt": "2026-08-14T21:52:44Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 65432,
+        "groundedMarketChars": 2063,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "msti50ga-3cf57856",
     "phase": "initial",
     "mode": "propose_trade",
@@ -396,38 +675,6 @@
         "wholeRosterAuditApplied": false
       }
     }
-  },
-  {
-    "id": "msti5poo-da06868e",
-    "phase": "initial",
-    "mode": "propose_trade",
-    "endpoint": "/api/ai/trade",
-    "request": {
-      "mode": "propose_trade",
-      "userTeam": "Big Balder Brand",
-      "goal": "Win Championship",
-      "targetTeam": "All Hail King Jesus",
-      "targetAssets": [
-        {
-          "name": "Jaxon Smith-Njigba",
-          "assetType": "player"
-        }
-      ],
-      "foundationAssets": [
-        {
-          "name": "Saquon Barkley",
-          "assetType": "player"
-        },
-        {
-          "name": "Rashee Rice",
-          "assetType": "player"
-        }
-      ]
-    },
-    "createdAt": 1786745534280,
-    "updatedAt": 1786745535420,
-    "expiresAt": 1787177534280,
-    "status": "running"
   },
   {
     "id": "msti2ufj-20ab2dd9",
