@@ -1,5 +1,22 @@
 [
   {
+    "id": "mstj1qdo-3b1a9301",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Northside Kings",
+      "goal": "Increase Championship Odds",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "createdAt": 1786747028172,
+    "updatedAt": 1786747028172,
+    "expiresAt": 1787179028172,
+    "status": "queued"
+  },
+  {
     "id": "mstizqam-3fe96071",
     "phase": "initial",
     "mode": "propose_trade",
