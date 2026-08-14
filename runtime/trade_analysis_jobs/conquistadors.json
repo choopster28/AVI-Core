@@ -1,5 +1,28 @@
 [
   {
+    "id": "msti5c1u-162043a6",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Badland Banditos",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1786745516610,
+    "updatedAt": 1786745516610,
+    "expiresAt": 1787177516610,
+    "status": "queued"
+  },
+  {
     "id": "mstfvydu-f8871289",
     "phase": "initial",
     "mode": "propose_trade",
