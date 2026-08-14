@@ -37,8 +37,409 @@
       }
     },
     "createdAt": 1786740753019,
-    "updatedAt": 1786740754117,
+    "updatedAt": 1786740830448,
     "expiresAt": 1787172753019,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. is attempting to acquire Jaxon Smith-Njigba (99.1 C-AVI / 99.6 D-AVI), the league's top overall dynasty receiver and reigning NFL OPOY. Securing JSN would create an unmatched receiving core alongside Justin Jefferson and Malik Nabers, elevating Corgi Loaf's starting lineup C-AVI sum from 667.4 to 694.5 (+27.1). However, the submitted offer of Christian Watson, backup RB Mike Washington, a 2027 1st, and a 2028 4th lacks the high-end immediate production required to convince All Hail King Jesus (a playoff contender) to part with an elite cornerstone asset. AVI recommends revising the offer by including DJ Moore alongside Watson and the 2027 1st to provide legitimate starting replacement value.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 70,
+              "leagueMarket": 70
+            },
+            {
+              "name": "Mike Washington",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 42.4,
+              "davi": 69.2,
+              "publicMarket": 45,
+              "leagueMarket": 45
+            },
+            {
+              "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2028 4th · Corgi Loaf · Projected late range (4.10–4.16)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 0,
+              "leagueMarket": 0
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted trade is heavily slanted in favor of Corgi Loaf Baking Co. Acquiring Jaxon Smith-Njigba transforms Corgi Loaf into an absolute championship favorite by placing JSN (99.1 C-AVI) alongside Justin Jefferson (97.3) and Malik Nabers (88.7), boosting starting lineup C-AVI sum from 667.4 to 694.5 (+27.1). However, from All Hail King Jesus's perspective, receiving Christian Watson, bench rookie Mike Washington, and a single future 1st is a severe underpay for a 24-year-old superstar."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "By revising the offer to include DJ Moore (76.3 C-AVI) alongside Christian Watson (72.0 C-AVI) and the 2027 1st (79.3 Draft Pick AVI), Corgi Loaf presents a balanced, competitive offer that gives All Hail King Jesus two immediate starting receivers and premium future draft capital."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Massive boost to championship odds. Post-trade starting lineup C-AVI rises from 667.4 to 694.5."
+            },
+            "dynastyOutlook": {
+              "score": 50,
+              "summary": "Secures 24-year-old WR1 overall Jaxon Smith-Njigba (99.6 D-AVI) for the next 5+ seasons."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "FLEX1 moves to Malik Nabers (88.7 C-AVI) and FLEX2 to DJ Moore (76.3 C-AVI), vastly upgrading weekly ceiling."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Slight loss in bench receiver and running back depth by moving Watson and Washington."
+            },
+            "flexibilityLiquidity": {
+              "score": -25,
+              "summary": "Surrenders mid-2027 1st round draft capital."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Major net gain for Corgi Loaf Baking Co., establishing a historic WR trio while maintaining starting depth."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -45,
+              "summary": "Decreases championship ceiling significantly by losing JSN's 99.1 C-AVI weekly output."
+            },
+            "dynastyOutlook": {
+              "score": -50,
+              "summary": "Degrades long-term dynasty foundation by trading away a 24-year-old OPOY receiver."
+            },
+            "lineupQuality": {
+              "score": -40,
+              "summary": "Starting WR slot drops from JSN (99.1) to Christian Watson (72.0), a -27.1 starting C-AVI loss."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Adds Watson as WR depth and Mike Washington as RB handcuff depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Gains mid-2027 1st round pick liquidity."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Material loss for All Hail King Jesus, surrendering an S-tier cornerstone asset without adequate starter replacement."
+            }
+          },
+          "explanation": "Corgi Loaf Baking Co. experiences a substantial increase in overall championship outlook and starting lineup ceiling by adding Jaxon Smith-Njigba. Conversely, All Hail King Jesus suffers a significant drop in top-end lineup quality and championship outlook by surrendering a top-3 dynasty cornerstone without receiving a high-end replacement."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. gains +27.1 C-AVI points in its best starting lineup by replacing Christian Watson with Jaxon Smith-Njigba. Starting lineup C-AVI sum increases from 667.4 to 694.5, building the league's most formidable receiving unit.",
+          "sideADynastyImpact": "Exceptional long-term outcome. Combining 24-year-old JSN (99.6 D-AVI) with 23-year-old Malik Nabers (96.2 D-AVI) and Justin Jefferson (98.5 D-AVI) guarantees top-tier dynasty WR production for years to come.",
+          "sideARosterImpact": "Minimal impact on core starter depth. DJ Moore and Wan'Dale Robinson remain available to fill FLEX2, while Skattebo and Swift lock down the RB positions.",
+          "sideBChampionshipImpact": "Severe loss for All Hail King Jesus. Losing JSN (99.1 C-AVI) and replacing him with Christian Watson (72.0 C-AVI) causes a net loss of -27.1 C-AVI in their starting lineup.",
+          "sideBDynastyImpact": "Major regression. Trading a 24-year-old WR1 overall cornerstone for Christian Watson (87.1 D-AVI) and a future pick degrades long-term roster value.",
+          "sideBRosterImpact": "Gains minor bench depth with Mike Washington and Christian Watson, but fails to solve their pressing needs at RB or WR1.",
+          "valueAssessment": "Raw AVI heavily favors Corgi Loaf. Corgi Loaf acquires 99.1 C-AVI / 99.6 D-AVI while giving up 114.4 player C-AVI plus a 79.3 pick AVI. The quality-for-quantity exchange strongly benefits Corgi Loaf."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty market sentiment views Jaxon Smith-Njigba as an elite, untouchable tier-1 dynasty asset following his 1,793-yard OPOY season in 2025. Christian Watson signed a 4-year extension in Green Bay and projects as WR1 in GB, but carries injury concerns and sits in the WR35-WR40 dynasty range. Mike Washington Jr. is a 4th-round rookie backup to Ashton Jeanty in Las Vegas.",
+          "aviVsMarket": "AVI aligns closely with public market consensus. Market values JSN as a top-3 overall dynasty receiver, making a package of Watson + late rookie + future 1st an easy rejection for a dynasty contender.",
+          "relevantContext": [
+            "JSN commanded a 35.8% target share in 2025 and is entering his age-24 season as a premier redraft and dynasty asset.",
+            "Christian Watson signed a 4-year $110.5M contract extension with Green Bay, clearing competition following Romeo Doubs' departure.",
+            "Mike Washington Jr. projects as the primary physical backup to Ashton Jeanty in Las Vegas, offering contingent handcuff upside."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Hofer51 wants to remain competitive with Brock Purdy and Amon-Ra St. Brown. Moving JSN without receiving a top-tier starting asset back harms their championship window.",
+          "packageFit": "The package offers a WR2/3 (Watson), a backup RB (Washington), and a mid-2027 1st. It lacks the elite cornerstone player required to move an S-tier asset.",
+          "lineupReplacement": "Christian Watson replaces JSN in All Hail King Jesus's starting lineup, representing a 27.1-point drop in starting C-AVI.",
+          "competitiveWindowFit": "All Hail King Jesus is in a win-now/balanced window; trading away a 24-year-old superstar for future capital conflicts with their current window.",
+          "positionalScarcity": "Elite WR1s capable of generating near-100 PPR points over replacement are extraordinarily scarce in 16-team PPR leagues."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 10,
+            "opposingGmMotivation": 10,
+            "packageMatch": 10,
+            "lineupReplacement": 5,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": false,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 40,
+          "classification": "Unlikely",
+          "explanation": "All Hail King Jesus is currently competing. Trading away reigning OPOY Jaxon Smith-Njigba for Christian Watson, backup RB Mike Washington, and a single future 1st creates a glaring hole at WR1 and lowers their weekly ceiling. Without a cornerstone player coming back, Hofer51 has minimal motivation to accept this submitted offer."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The goal of acquiring Jaxon Smith-Njigba aligns perfectly with Corgi Loaf's 'Win Championship' goal, creating an unstoppable receiving corps with Justin Jefferson and Malik Nabers. However, the submitted offer (Watson + Washington + 2027 1st + 2028 4th) is significantly insufficient for the reigning OPOY and will be rejected by All Hail King Jesus (40% acceptance probability). Corgi Loaf should revise the offer by swapping in DJ Moore alongside Watson and the 2027 1st to provide legitimate starting value.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 76.3,
+              "davi": 87.1,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            },
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 70,
+              "leagueMarket": 70
+            },
+            {
+              "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf secures Jaxon Smith-Njigba to assemble a dominant WR room (Jefferson, Nabers, JSN) while retaining Skattebo, Swift, and Tyler Warren. Starting lineup C-AVI still increases to 683.9 (+16.5 net gain over pre-trade baseline).",
+          "whyOpponentMightAccept": "All Hail King Jesus receives two proven starting WRs (DJ Moore and Christian Watson) to immediately slot into their WR2 and FLEX slots alongside Amon-Ra St. Brown, plus a valuable mid-2027 1st round pick."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 70,
+              "leagueMarket": 70
+            },
+            {
+              "name": "Tyrone Tracy",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 26,
+              "cavi": 50.1,
+              "davi": 74.9,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            },
+            {
+              "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ],
+          "rationale": "If Hofer51 prefers immediate RB reinforcement over receiver depth, sending Tyrone Tracy (50.1 C-AVI) addresses All Hail King Jesus's weak RB room while providing Christian Watson and a 2027 1st."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Mike Washington NFL",
+          "Christian Watson news 2026 fantasy football",
+          "Jaxon Smith Njigba 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoFWhleuBZa3VKihKYlCwZqp4mje6tbCsdQn7_55kQ5t8xYlw9T1eE_ytCIinMILhbryJIvo1jtPbHZQgAGiAgDpFgD3OYVydTUaCepiPawkVYR3mgM8-o0lvMmRyNuPll3oouK6daV_rzzHidywgSofm-lmaO7Lq_0GIuDtU-VmBqtRohN13Vg2THXkVHIZzVYZ4Ty484aoMXz30HksWqPz5esPUdcw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYco2ZHIWTiTpD_jTyC1TWRBI3-l1Q2VipAWxPTKIGJlOlnf8AMiw2NI8JDkzkHaSQJcKNoGrlyw8tlUf1UBKJ9jL2HKmW9I0uYybL5FWD3t6-sU2NWeRVYhLsTj6RzJXiPIoQ_UyFr_skVJ8jrKe8RA0=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9AwBfXz2HnuEelvLaZbacW2eBGwnQ-QLKTbOkvDjy38naNwyEBP-mQU8YNVDWaO11WnUhCs-BFxAC6LvR54APxTrB5Toar4zDVK8pGK7wpDTY15o649sWOspF9o9kEFNU6pC8xm9RcksauYt9Yf4b-5Il5HNWhaE6UUEn4JrSAdJgPZu_opmHQL1V7a1B",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwrxgdRFwj3sNY4MtSP900G0LdChGWUZaW7rBMgUUBj7nOmfrLmkmqkLkW6x1EYjekzbHH4d2rE7Cj5afnt0MiFtMpRqUhHelGP7YIWpHVR1MW93sooRPffCB02RGlaYNHI37Oe38h6bfXEl-qCQzDQeF9Kyv6FyaMGKkovHApKuZ2MGoHBj2KLZpXJg==",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgJW1L8IvCTNEb1Ngd8nDzIzi1EZ5q6n4_UDnJF4eh-2qQU29HeYeYrwVrSAq6HLAyZSigA2cc_yBnztxYvwxLAiTWoncfHmo58-_sNv2V3Q_4vd2-zSlX0PweNjdCzjGPSSBSiXwOXujpFj_h7opjZmoYP3uJWsI1",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdmt-tTNZUq6770_lkrnYaHHNyRgSuc5KoFdH26BOpla1cLICXtlTPI-C_DRnIgw-6FgHVV2xq8aFsW0_P8sPlTuPDBvwTdPYAXD3HMwbbIhhjpttboJpDODvCCz9T_w85KRaK3sav_ugSInTs6EA6mxc2IlbFP1BcbHCtcSNq",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtt6tRjjZe6m_Y4qQjm7pp7PbK-ezZSKD2CXCnOABB3tst40pAP6au1qBijyb3gmzX4YfOM7y8bV1cQ8jExQxu-_nWpWgVIuyJ-hR18A9B72XfUOsRrEYVukbCgiPYxIdFwS-zZ5HuRUPkAKwZkRfzRAGSG4ft90Wk-igB_ePk5O0-g5U-0qy6hQv3S6-NM1jNf6e5qE6on3rBXJ5H_w==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXI5xZ5w3VN0VeXdbC3W5J10nndNHYcoU6ZPchlOriIJTN2XChPpxRqOP4lKFpHWeI3PJTl7Hi0pYKFFrIiFI0mZtMGLGajFURPXPoEhXTpqeHbVuiZUXhoDqXd6QWTJ9XuF7tTfnElpTGjm2xXaY6XJokapo_9zY8tDqf5KnDIyaSF0AOsUG7WvhAWXqAhmlDaC0GRDEfDtDi1cSbx18RUO_S",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRN_I9p2DDS7K5MFwPPVH0nxoQarm5vDEcShjio0Dp_jfnYroeXVZuR0Nywi4GDEnWXgCYDbR6tZmtStTnuK5YuL38HDTl0ICLaNVVTkGsyPAwjVdY1aoIURVq-lYVTeOpMej59ATPkHePrmmLhn3VF68p4pbwWU-Erkf7xPJnjZcm9BWmasx5xS7L7JLClfm6VWE=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWGDwk6Ur9m465dsEb3HKyHRT3fXHlUFhbrcgHM2_I-2YcUAYFrfMZTzsohrSx1Nbjw5s14Io5-mDUcq2NHhr0wxY9Ai1AoZ0mY_LgGUt3N-XFroRCgyGF2cGvYaRhb5GS2pBpD5xkKmnlIGdi3bGexpEiMzWHGa-r_rwi2q6oAZr19uXonORT5AAKvgMtJ3JITOFoaoY=",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-bjn3glEVsOU-JFBX-IANfDzId9P6f84d8sA2RYe15BDQYr8BHAyb6nurZs47tE1iHh1xLylp2xftZBG-FybaYrpbSa6PxmdAWvT9B3q3syqkMyZeWUiLqkYZ6mJAfo7tqD3YSVb7TyLHJJeLZcc6FtAHjd0=",
+            "title": "raiders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGTDhfWz8Vk7VE985YTc8966hxVzvU0drwDbN8cRIl5u1ZjqvV8T1p-ycW06nagwHKbcnF45R0znC8VofIP7PVSXMJNjmEz2Hq-7glqAtK-OUTyfPlIB-AXrfQPtP9QZr80HAIvw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeUnOgyGcuWJBewuEtsSoLdMh6Tkx9312FuKflzl9wcGghk4UdBlq4rGRpNuAeHAwzwhm2FnUq6W5twvTbEhE5GtXcfiRH1MMguoLF8fk34Zv3-QK50apumA0TBFtEqz9LeK9FNNAMYSG9RwG5N6XBV_VY8g==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJgfdN6Ska5VXqCT8HgHJNE2UVjZExj9LinjYpOS1qiU1hsLqp_uwk5NPpFP47Ti0wqhSOhxJphoFI0t2xmWoqzoNqc6igtPJfMpTikVpF98lnZVWXMkQUwUpwpD7veoAOSFFgpt3UWeH2w4NicHC3lzCKfEd_dxJkHgyrPC0-1aKUdo-6h6NcDwl5OMSrczZHsadYMyfi6MLi",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-R6jhqwF9NyISj5HLJVGAf-QilWrddQW0fbKvMAdlRSBvp_wYk38tFLUnp8rKry210IZqss41aG1XunJtz7Uspb0ACyxKw7SvR-EAfBFvwt8St5GuC3Lvj4adPMKnGntsuWLsGgNaQuHnfkUJuDAYe0xC9bKm_sE=",
+            "title": "cbssports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "af80b30cbfcc79e29041d8e0fd76e60a96a232dc",
+        "aviCoreCommittedAt": "2026-08-14T20:00:26Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 62906,
+        "groundedMarketChars": 3027,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
