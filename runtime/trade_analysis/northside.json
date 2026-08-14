@@ -1,0 +1,323 @@
+[
+  {
+    "id": "mstizqam-3fe96071",
+    "createdAt": 1786746981933,
+    "expiresAt": 1787178981933,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Northside Kings ↔ Conquistadors",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Northside Kings",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Although De'Von Achane is confirmed on the Autobots trade block (granting full availability credit), Conquistadors is an Elite Contender with a verified 'Win Championship' organizational goal. Northside Kings lacks a comparable tier-1 running back asset to replace Achane's 97.4 C-AVI production. Any package Northside Kings could assemble—such as Bhayshul Tuten or RJ Harvey paired with wide receivers or draft capital—would leave Conquistadors with a severe hole at mandatory RB2, directly undermining their 2026 title odds. Consequently, no trade proposal achieves the required 70%+ acceptance probability, resulting in a 'No Realistic Trade' determination.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "RB",
+              "age": 23,
+              "cavi": 72.6,
+              "davi": 85.5,
+              "publicMarket": 75,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Mike Evans",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 32,
+              "cavi": 73.3,
+              "davi": 83.3,
+              "publicMarket": 72,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2027 Round 1 (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Northside Kings",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 80
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.8,
+              "publicMarket": 95,
+              "leagueMarket": 95
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D",
+            "otherGrade": "D",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even / No Trade",
+            "summary": "No realistic trade construction exists. Any package Northside Kings can offer fails Conquistadors' mandatory starting lineup replacement and competitive window constraints."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 0,
+              "summary": "No deal executed. Baseline roster status quo maintained."
+            },
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "No change to championship outlook as no trade is viable."
+            },
+            "dynastyOutlook": {
+              "score": 0,
+              "summary": "Dynasty trajectory remains unchanged."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Starting lineup remains untouched."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Bench depth and injury resilience preserved."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Draft capital and trade assets retained."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 0,
+              "summary": "No deal executed. Baseline roster status quo maintained."
+            },
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Championship pursuit remains intact with De'Von Achane anchored at RB2."
+            },
+            "dynastyOutlook": {
+              "score": 0,
+              "summary": "Dynasty asset distribution remains unchanged."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Elite starting lineup preserved without creating an RB2 hole."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Existing roster depth remains fully operational."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Trade block availability remains open for alternative high-end offers."
+            }
+          },
+          "explanation": "Visual impact scores are zeroed across all categories because no proposal meets Market Reality thresholds for both franchises, leaving both rosters in their current baseline state."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "N/A - No trade recommended.",
+          "sideADynastyImpact": "N/A - No trade recommended.",
+          "sideARosterImpact": "N/A - No trade recommended.",
+          "sideBChampionshipImpact": "N/A - No trade recommended.",
+          "sideBDynastyImpact": "N/A - No trade recommended.",
+          "sideBRosterImpact": "N/A - No trade recommended.",
+          "valueAssessment": "De'Von Achane commands elite valuations (97.4 C-AVI / 96.8 D-AVI). Northside Kings' top running back asset is Bhayshul Tuten (72.6 C-AVI). In a 16-team league where RB scarcity is extreme, the 24.8 C-AVI drop at mandatory RB2 cannot be compensated by WR depth or future draft picks for a championship contender."
+        },
+        "publicMarketAnalysis": {
+          "summary": "De'Von Achane is a consensus top-6 dynasty RB and first-round redraft asset entering 2026. After securing a $64M extension with Miami, undergoing successful offseason shoulder surgery, and receiving full clearance for training camp, he is locked in as a featured workhorse.",
+          "aviVsMarket": "AVI's 97.4 C-AVI aligns closely with public market consensus, placing Achane in the elite tier of dynasty running backs. Public market sentiment treats him as an indispensable centerpiece for contenders unless an equal tier starting replacement is returned.",
+          "relevantContext": [
+            "Signed a $64M contract extension with Miami in May 2026.",
+            "Fully cleared for training camp and removed from all injury reports following spring shoulder surgery.",
+            "Ranked No. 26 on the NFL Top 100 Players of 2026 after leading the NFL with 5.7 yards per carry in 2025."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors is an Elite Contender with a verified 'Win Championship' goal. Their front office will not surrender an elite RB1 without receiving an immediate high-end starting replacement at the position.",
+          "packageFit": "Northside Kings' best assets consist of mid-tier RBs (Tuten, Harvey), veteran WRs (Evans, Diggs), and future draft picks. This package structure suits a rebuilder, not a championship favorite.",
+          "lineupReplacement": "Trading Achane forces Conquistadors to drop from an elite RB2 (97.4 C-AVI) to Tyjae Spears (50.5 C-AVI) or Bhayshul Tuten (72.6 C-AVI), creating an unacceptable scoring deficiency in their weekly lineup.",
+          "competitiveWindowFit": "Conquistadors is in peak championship window. Receiving 2027 or 2028 draft capital provides zero 2026 weekly points.",
+          "positionalScarcity": "In a 16-team league, high-end RB1s are exceptionally scarce. Sacrificing Achane cripples Conquistadors' title chances."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 5,
+            "packageMatch": 5,
+            "lineupReplacement": 2,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 44,
+          "classification": "Unlikely",
+          "explanation": "Although De'Von Achane is confirmed on the trade block (granting full availability credit), Conquistadors' status as an Elite Contender focused on winning the 2026 championship prevents them from accepting any package Northside Kings can offer. Giving up Achane creates an unfixable hole at RB2, causing a major drop in weekly starting lineup scoring that directly violates their organizational goal."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Although De'Von Achane is confirmed on the trade block (granting full availability credit), Conquistadors' status as an Elite Contender focused on winning the 2026 championship prevents them from accepting any package Northside Kings can offer. Giving up Achane creates an unfixable hole at RB2, causing a major drop in weekly starting lineup scoring that directly violates their organizational goal.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Although De'Von Achane is confirmed on the trade block (granting full availability credit), Conquistadors' status as an Elite Contender focused on winning the 2026 championship prevents them from accepting any package Northside Kings can offer. Giving up Achane creates an unfixable hole at RB2, causing a major drop in weekly starting lineup scoring that directly violates their organizational goal.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Conquistadors is an Elite Contender with a verified 'Win Championship' goal. Their front office will not surrender an elite RB1 without receiving an immediate high-end starting replacement at the position."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Northside Kings' best assets consist of mid-tier RBs (Tuten, Harvey), veteran WRs (Evans, Diggs), and future draft picks. This package structure suits a rebuilder, not a championship favorite."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Trading Achane forces Conquistadors to drop from an elite RB2 (97.4 C-AVI) to Tyjae Spears (50.5 C-AVI) or Bhayshul Tuten (72.6 C-AVI), creating an unacceptable scoring deficiency in their weekly lineup."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Conquistadors is in peak championship window. Receiving 2027 or 2028 draft capital provides zero 2026 weekly points."
+            }
+          ],
+          "opponentPerspective": "Conquistadors is an Elite Contender with a verified 'Win Championship' goal. Their front office will not surrender an elite RB1 without receiving an immediate high-end starting replacement at the position.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Northside Kings' best assets consist of mid-tier RBs (Tuten, Harvey), veteran WRs (Evans, Diggs), and future draft picks. This package structure suits a rebuilder, not a championship favorite.",
+          "whatWouldNeedToChange": [
+            "Conquistadors is an Elite Contender with a verified 'Win Championship' goal. Their front office will not surrender an elite RB1 without receiving an immediate high-end starting replacement at the position.",
+            "Northside Kings' best assets consist of mid-tier RBs (Tuten, Harvey), veteran WRs (Evans, Diggs), and future draft picks. This package structure suits a rebuilder, not a championship favorite.",
+            "Trading Achane forces Conquistadors to drop from an elite RB2 (97.4 C-AVI) to Tyjae Spears (50.5 C-AVI) or Bhayshul Tuten (72.6 C-AVI), creating an unacceptable scoring deficiency in their weekly lineup.",
+            "Conquistadors is in peak championship window. Receiving 2027 or 2028 draft capital provides zero 2026 weekly points."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "De Von Achane status 2026 NFL season",
+          "De Von Achane fantasy news 2026",
+          "De Von Achane dynasty trade value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER8AlzGYVrZ2hn-ZLteBmCzA3c9cbjm3XMgvsFWUf8xTvqJLISugTnb8p3py2nZ-vJLaiqGaHb3gcFnKdO4_VkDeUblZ4eTXgDYeK3aNW0qjkK6lK3huWWc00kPNi2nvBpp8-oyLnJ3GpHBCajUzyFYDKBkwclDz3mX7tjayx34VGFx75zzNVh-8p-vFY_zCy1",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQg20KdHsfQo95ea31DJtJDYIBQdWdT0ya150f9MNRB1YDXvJY0tLkozMRxCG48PudahiVGcJGKzqJg1S2gcNWHkIqdYGCLcktv1ELD70RLN5lsBTnKvRRN5w56XrmecBYtHqhzyFaFOyVNMLr-g==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6hI-mK6kXbYXw3t7b-grwrXfXZm6C7eju6JJ7G-peAjDol1rzqOkjaQ3sytyHJmUZIhPXK6Iyq6LRXDm0mULhIUKKNPX9FIEEpxCv7-tcXNR5OpulWdop38_gNo2ZqcyPO4WNtB0txRbSw0JFlGtQ0-N-YprGMaBZTIg9Feo=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW03JK-0JjWBexa8qgq997WijkYAPpPx1I0OG4ZIrTkKs4XceR9c2bl3WweIaToYx6k0ERkRkafA8uUfZdIHEHBU8fQXLHdTCpYFbhnFrzGs0qtQe7w-wxzuON9oVGK8z-IzWbpQn3B-Om_5eCCl7tjNYkl0g2RMmAtN6qd06kxEfYjEwyce_mZNw4gIZf50M=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlESWM956kGroe4osNkJzwKilP7ZUUIZ32rqCQbqeWCTI3Ek0cG1fszlztBR1ibpCnkjnONt0b3G-vtujM7m_niuBmZ1c7GhbSXwXZ61xxtcqFTPHkmIG6Eni1Hs9e_QI5amKS_LCmRxna88Sv9s_ab39yurYCCeEnHSVq-HH4TQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIjm8BdPqsWrapjEz6ZxJs2Rj4mwc8nrkEtBUv55eSijP_eGcKJcJjMzfsxESYRIXMYoPyYWZxktvAYwbLfc4bHx765wOSdTWuDwaLDl4pJWVmTrNp0tZ8sLHo0w0-9NK9sW-Ak7ijwRqBpNCPpBraRX0gBkyfvzmJ7Os8XNCDDWncOPO_QwuL-yfkkPFRR7Q5dUZF6d39D0O0V06rnA==",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT2ljXQR3w4FZsxoq3W0aBHG2w7pnxZw_3BkXB0VKtvhlFoqg_mA0up30S6X4uIGfURftZM61btRzWljh6PTndddTyGDMYQGTFzxCWCqtXmdVnbLqJxCFVE-ARKemcyNHVwfyjBKP2fNZeMLaDWTs9DwP1lUW4Y2hfSMXay5SmSWIv8ozjGGBeg6Zkqw==",
+            "title": "12thman.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzjOtuBRSIg6VxW6LihwByYfOEHxXWfVMEpYuuJ0upaM4NTCAYAjuRjQ0uUwbgHclLiEw0bvmSt05vdLw9s-MHmyf_FYn52aS2bxC6jWsMLIiWeK3aoH661TvIucHTTxClfRAAasYZcjvmW4Lu0-rcDtFJeuIalhCGUaKhSZ0fObXioofD2cvMAijuSRxDb_Icw0QLTVCjz4mcjN-EdQEU1dF-vGUhCXfbV4A=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdR0iu7V4d7vSoqXg6hRVlljR9KGolTvzuDdt78MrKuEOcvMlK88WgDDrhCq4N8BSQZMDDt-2M40BzBJv4BlB3aXchraN7QWtzSD3x5NLJ7z8-fFc9sT1gnYLozvRYmtMYc9zX-gHK4ta583EtueNzkQzs2vmAvxVQNDAzDGPiZpwllxyeHY4ubS-i8Df-XsOCRLK6VTc6tjsU444vOnmx6Q==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7KyQZ9_601AkqajvAkLP_InhtjuPVCOJdtSiyu6twCdV1w13_OhAEAiStw8Av71hqpTGpJ-RdBdMY-Wpbq4m2oCl9qEpT7648VwtEsOX2dWfaiKLntLvtcfm9Z4zQPGlwpi5Xtz1NRtvvAw==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVTfCXHANiJNJLA-qW_uIPCNax2mP4KS-DSmV2GtI43kzNcSTC8Ay7dNk8s06m3Yf1rhnCFyJQY5_U3tS7MmRTruNFbjqF0hXE7567-NJaE7B9blyQsI-Vx9yz_8ck3T26xz6I-bA9sS42JeLWtLOfXfx9cY25xDjWHG5xOpgPV80NWmNGt_mBLbFNSal5DzUypg==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt8gtp08ErgKNlVngosKTRMRZ4fpdB5gmT7VQbIXBqLVlfTBReDaJM6KqXWdoDbsjX079Ge_NOnYLzo4qNh-XYW_06sGM_jmKI6DOMr0TZ6YQ4DC7mg9DBXtHKIgU7pyNY9CYHuFnInAaJ55FVbc9gY4-63OQlbYbuM6kUxzkxdaH6nCxbyDxflRiv7tSV2y4amyfc8aHcZA==",
+            "title": "fantasylife.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "9974eba45e8ecb027c2ca066954c93316528bcd3",
+        "aviCoreCommittedAt": "2026-08-14T22:18:45Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 67365,
+        "groundedMarketChars": 2498,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  }
+]
