@@ -1,5 +1,290 @@
 [
   {
+    "id": "1786689053512-rxgnnf",
+    "createdAt": 1786689053865,
+    "expiresAt": 1787121053865,
+    "mode": "improve_team",
+    "title": "Improve My Team · Big Balder Brand",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetPosition": "RB, WR, TE, QB",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand enters the 2026 campaign as a top-tier contender anchored by elite starting firepower (Saquon Barkley, Trey McBride, Rashee Rice, A.J. Brown, and Nico Collins). With a heavy surplus of starting-caliber running backs (Omarion Hampton, Jeremiyah Love) and a strong WR room, BBB is primed to consolidate premium depth into true S-tier cornerstones at WR, QB, and FLEX to maximize championship win probability.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite starting running back room (Saquon Barkley, Omarion Hampton, Jeremiyah Love)",
+            "High-ceiling wide receiver core (Rashee Rice, A.J. Brown, Nico Collins)",
+            "Premier tight end anchor in Trey McBride (C-AVI: 99.5)"
+          ],
+          "priorityNeeds": [
+            "Consolidating RB surplus into an S-tier wide receiver cornerstone",
+            "Upgrading QB starting ceiling alongside Jaxson Dart"
+          ],
+          "tradeableSurplus": [
+            "Starting-caliber running backs (Omarion Hampton, Jeremiyah Love)",
+            "High-floor WR depth (Chris Godwin)"
+          ],
+          "constraintsApplied": [
+            "Starter-for-Starter realism strictly enforced across all 16 Autobots franchises",
+            "Draft capital tracked against verified Sleeper traded_picks export"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding franchises unwilling to surrender elite young receivers for veteran packages",
+            "Contending rivals lacking necessary positional depth or logical trade alignment"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Mile High Royal Lions",
+            "targetAssets": [
+              {
+                "name": "Drake London",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "WR",
+                "age": 25,
+                "cavi": 97.9,
+                "davi": 97.9,
+                "publicMarket": 96.5,
+                "leagueMarket": 97.2
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Omarion Hampton",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 23,
+                "cavi": 91.4,
+                "davi": 95.4,
+                "publicMarket": 92,
+                "leagueMarket": 93.5
+              },
+              {
+                "name": "Chris Godwin",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 30,
+                "cavi": 62.1,
+                "davi": 79.3,
+                "publicMarket": 68,
+                "leagueMarket": 70.5
+              }
+            ],
+            "scenarioType": "Consolidation / Cornerstone Target",
+            "strategicGoal": "Acquire S-Tier WR Anchor for Championship Push",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 89,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Converts excess running back depth into an absolute elite WR cornerstone in Drake London (C-AVI: 97.9), creating an unbeatable wide receiver group alongside Rashee Rice, A.J. Brown, and Nico Collins.",
+            "whyOpponentMightAccept": "Mile High Royal Lions is a contender with a severe RB2 void behind Jahmyr Gibbs. Acquiring 23-year-old stud Omarion Hampton (C-AVI: 91.4) gives them an elite 1-2 backfield punch while Chris Godwin provides immediate PPR WR/FLEX floor.",
+            "championshipImpact": "Increases weekly scoring ceiling significantly by upgrading your 3rd WR/FLEX spot from Chris Godwin to Drake London.",
+            "dynastyImpact": "Locks in a 25-year-old WR1 anchor for the next 4–6 seasons without sacrificing starting RB output, as Saquon Barkley and Jeremiyah Love remain lead backs.",
+            "rosterImpact": "Optimizes starting lineup efficiency while leveraging your RB surplus.",
+            "publicMarketContext": "Drake London is viewed across dynasty communities as a locked-in Tier-1 receiver entering his prime. Omarion Hampton's market value is surging following his premier draft capital and McDaniel offensive fit in Los Angeles.",
+            "risks": [
+              "Slight reduction in overall running back depth if injuries hit Saquon Barkley or Jeremiyah Love"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Omarion Hampton and Chris Godwin directly for Drake London, emphasizing Hampton's elite 23-year-old profile and the Lions' RB2 roster gap.",
+              "acceptableConcession": "Include a 2027 2nd-round pick (from DMV Fantasy or Gringo's Goblins) if the Lions request additional draft capital sweetener.",
+              "walkAwayPoint": "Walk away if the opponent demands Jeremiyah Love or A.J. Brown in addition to Hampton."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "SmokyValleyWheatWarriors",
+            "targetAssets": [
+              {
+                "name": "CeeDee Lamb",
+                "assetType": "player",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": "WR",
+                "age": 27,
+                "cavi": 97.6,
+                "davi": 98.3,
+                "publicMarket": 98,
+                "leagueMarket": 98.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "A.J. Brown",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 29,
+                "cavi": 93.2,
+                "davi": 94.3,
+                "publicMarket": 92.5,
+                "leagueMarket": 93.8
+              },
+              {
+                "name": "Jeremiyah Love",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 21,
+                "cavi": 89.7,
+                "davi": 95.6,
+                "publicMarket": 91,
+                "leagueMarket": 92
+              }
+            ],
+            "scenarioType": "Near-Peer Swap + Sweetener",
+            "strategicGoal": "Upgrade to Consensus Tier-1 Alpha Receiver",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 21,
+              "packageMatch": 19,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Secures CeeDee Lamb, one of fantasy football's highest-volume overall assets, creating a cheat-code receiver room for your title push.",
+            "whyOpponentMightAccept": "SmokyValley receives a near-peer WR1 replacement in A.J. Brown (C-AVI: 93.2) while getting 21-year-old superstar rookie Jeremiyah Love (3rd overall pick to ARI) to solidify their FLEX/RB future alongside Christian McCaffrey.",
+            "championshipImpact": "Establishes a undisputed weekly WR powerhouse with Lamb, Rice, and Collins.",
+            "dynastyImpact": "Slightly younger WR anchor in Lamb (27) while surrendering 21-year-old Jeremiyah Love; preserves Saquon Barkley and Omarion Hampton at RB.",
+            "rosterImpact": "Consolidates two high-value starters into the ultimate weekly winner.",
+            "publicMarketContext": "CeeDee Lamb is universally ranked in the top 3 dynasty receivers. Jeremiyah Love's valuation is peaking after being drafted 3rd overall in the 2026 NFL Draft by Arizona.",
+            "risks": [
+              "Giving up a 21-year-old elite RB cornerstone in Jeremiyah Love"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose A.J. Brown and Jeremiyah Love for CeeDee Lamb, highlighting Love's top-3 NFL draft capital and immediate starting role in Arizona.",
+              "acceptableConcession": "Add a 2027 2nd-round pick if needed to get the deal across the finish line.",
+              "walkAwayPoint": "Walk away if SmokyValley asks for Trey McBride or Rashee Rice instead of A.J. Brown."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Omarion Hampton NFL draft team 2026",
+          "Jeremiyah Love Notre Dame football 2025 2026 NFL draft"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ5RRmS8MBsJ_3w8s-cN7RMcvHWzcMgrogJlX5z6YD06cXmU-sn1ba2ldUZqnD2dO2FArFmOtHTYPYO2Ei2byOLLEUqjdW8aoSroSQktWoRzl_E3P7pPfUZiglrOFj5Ej5qKKxkMCLwYtF82iH",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNW6L8KxnxYEHws4qT20Skpg3c59vdM7UsyYFpW-HIQQzyy-kqX2nWNwwkEL7SKy79cvvtBZSW7aiD3xqLEMUVk7ZmiPuQAf4d8r-vUHChh4fXc9NoWZRl_cjONnJ3iaFCrolNOnCF5ZPYG7J4eYNt5vdK7hbYbh5yE2CQsjWcWndV2NXI4Lbgc4EwRKyKbgiEXOWLd-5X7-rhSZ-o6Apc",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGilQouqi1TwmtNLwTNzd8VAboa7j-SpLzDPvEC_N_Vq3K8IOlEkGYpkZ07Meic49LP_55B3uuzT8h8wePwf7QWPzIy8ULQWjTjVbFPY2vYrRNDqvQYi8N8SjHwKUBKW945eOgpOC5rk2hnhOsNzvEI-LS4YMCCsGH8wDcGcaqn7u5EQNp5g33vxbMGZHp95pgj1FcR5oMY1Up4ONusjD2oy4c04dhjUWbdqOmsrzj4F05T58Ci",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQEWRgv8w6NFDIiLguPMS7sMKcmBPwCWbeeTBD5jeWxPVZRmnrr0tYpJBMVt1hQsQAGJkO3uhHhzZS6fN0_SibqQ74Hnkcm344O4SOzbSKtjagmHTBG-eQxA2Lm7WzazO8xk-DObi1SkRNRQucCfS_H46LuJLbZ19mS-hkNsHShhgXtcxGiiXK",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETN4FwFj0POAjrxiXTI7OH_r87eecm9ktR4wlZEvowr9kt2kZEZafyFe7c33MIvScelANXFd5VlBW6_9LX1S7YnY0sBshRqOeroKNlji418mCOp_heiP4OCRa8oeaRBIFrCosJsenDf-ndmkzc2CXJXmBAqCCSYzRtDzQWfj_PSPOke_WmiTQ=",
+            "title": "nfl.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Lamar Jackson",
+          "Baker Mayfield",
+          "Drake London",
+          "Chris Godwin",
+          "Omarion Hampton",
+          "CeeDee Lamb",
+          "A.J. Brown",
+          "Jeremiyah Love"
+        ],
+        "aviCoreCommitSha": "13caa65b6b827416a4663199c3e9f8cc3c30389b",
+        "aviCoreCommittedAt": "2026-08-14T05:45:16Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 411723,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "1786688871719-kln2s0",
     "createdAt": 1786688871914,
     "expiresAt": 1787120871914,
