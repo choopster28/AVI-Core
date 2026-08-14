@@ -9049,7 +9049,7 @@
       "genius_id": "1008998",
       "rookie_year": "2023"
     },
-    "news_updated": 1786490144728,
+    "news_updated": 1786746344915,
     "number": 0,
     "oddsjam_id": "5ED6CE4EDFBB",
     "opta_id": null,
@@ -115231,7 +115231,7 @@
       "rookie_year": "2025",
       "source_id": "8a66d9de-b918-4413-82fe-94f9fd4a186c"
     },
-    "news_updated": 1786732245134,
+    "news_updated": 1786746044602,
     "number": 14,
     "oddsjam_id": "1FFAC7350A4078DE",
     "opta_id": null,
@@ -117814,7 +117814,7 @@
       "rookie_year": "2025",
       "source_id": "d7f54546-46ed-45c6-9ecc-b23c65ee6679"
     },
-    "news_updated": 1786565123549,
+    "news_updated": 1786746344371,
     "number": 2,
     "oddsjam_id": "93527AC8024DA07C",
     "opta_id": null,
@@ -119102,7 +119102,7 @@
       "rookie_year": "2025",
       "source_id": "b4848e19-5a52-49a3-8c6f-179fe308ff03"
     },
-    "news_updated": 1786585811533,
+    "news_updated": 1786746644178,
     "number": 22,
     "oddsjam_id": "15DB9017F739D3E5",
     "opta_id": null,
@@ -119643,10 +119643,10 @@
     "hashtag": "#dontethornton-NFL-LV-10",
     "height": "77",
     "high_school": "St. Joseph (MD)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "2b96be7c-11db-4965-a62c-afc123afdd5d",
     "last_name": "Thornton",
     "metadata": {
@@ -147445,7 +147445,7 @@
       "genius_id": "1486302",
       "rookie_year": "2025"
     },
-    "news_updated": 1754442627080,
+    "news_updated": 1786746944737,
     "number": 34,
     "oddsjam_id": "1916F31B01796360",
     "opta_id": null,
@@ -178916,7 +178916,7 @@
       "rookie_year": "2026",
       "source_id": "b611ae10-8925-11ec-9b6c-05a07848f429"
     },
-    "news_updated": 1780438850364,
+    "news_updated": 1786745444815,
     "number": 81,
     "oddsjam_id": null,
     "opta_id": null,
@@ -199392,10 +199392,10 @@
     "hashtag": "#genosmith-NFL-NYJ-7",
     "height": "74",
     "high_school": "Miramar (FL)",
-    "injury_body_part": null,
-    "injury_notes": null,
+    "injury_body_part": "Foot",
+    "injury_notes": "Soreness",
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "618d0f7c-0e21-4590-9aa0-c2908e4d0269",
     "last_name": "Smith",
     "metadata": {
@@ -199403,7 +199403,7 @@
       "genius_id": "758015",
       "rookie_year": "2013"
     },
-    "news_updated": 1786472442513,
+    "news_updated": 1786745443963,
     "number": 7,
     "oddsjam_id": "083339653919",
     "opta_id": null,
@@ -289896,7 +289896,7 @@
       "genius_id": "835860",
       "rookie_year": "2015"
     },
-    "news_updated": 1786674647919,
+    "news_updated": 1786745744390,
     "number": 18,
     "oddsjam_id": "71572A1F8C20",
     "opta_id": null,
@@ -335337,7 +335337,7 @@
       "genius_id": "941244",
       "rookie_year": "2016"
     },
-    "news_updated": 1786070109012,
+    "news_updated": 1786746944740,
     "number": 13,
     "oddsjam_id": "71B763835168",
     "opta_id": null,
@@ -516468,7 +516468,7 @@
       "injury_override_regular_2025_6": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1786742143555,
+    "news_updated": 1786744244324,
     "number": 17,
     "oddsjam_id": "01773297ACFE",
     "opta_id": null,
@@ -620209,7 +620209,7 @@
       "genius_id": "1081537",
       "rookie_year": "2021"
     },
-    "news_updated": 1786569623590,
+    "news_updated": 1786747244686,
     "number": 17,
     "oddsjam_id": "100F669A3109",
     "opta_id": null,
@@ -665473,7 +665473,7 @@
       "genius_id": "1075524",
       "rookie_year": "2022"
     },
-    "news_updated": 1785936937113,
+    "news_updated": 1786747244394,
     "number": 85,
     "oddsjam_id": "06307AE899D5",
     "opta_id": null,

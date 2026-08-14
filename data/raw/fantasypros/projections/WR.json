@@ -486,12 +486,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.91,
-        "points": 152.07,
-        "points_half": 192.7,
-        "points_ppr": 233.33,
+        "points": 152.1,
+        "points_half": 192.73,
+        "points_ppr": 233.36,
         "rec_rec": 81.26,
         "rec_tds": 6.61,
-        "rec_yds": 1142.21,
+        "rec_yds": 1142.54,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -1682,6 +1682,34 @@
       "team_id": "HOU"
     },
     {
+      "filename": "dezhaun-stribling.php",
+      "fpid": 28138,
+      "mflid": 17514,
+      "name": "De'Zhaun Stribling",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 1.19,
+        "points": 93.19,
+        "points_half": 117.22,
+        "points_ppr": 141.26,
+        "rec_rec": 48.07,
+        "rec_tds": 4.17,
+        "rec_yds": 699.16,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 1.5,
+        "rush_tds": 0,
+        "rush_yds": 6.5,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "SF"
+    },
+    {
       "filename": "tre-tucker.php",
       "fpid": 25337,
       "mflid": 16287,
@@ -1876,34 +1904,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "MIN"
-    },
-    {
-      "filename": "dezhaun-stribling.php",
-      "fpid": 28138,
-      "mflid": 17514,
-      "name": "De'Zhaun Stribling",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 1.19,
-        "points": 83.79,
-        "points_half": 106.32,
-        "points_ppr": 128.86,
-        "rec_rec": 45.07,
-        "rec_tds": 3.67,
-        "rec_yds": 635.16,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 1.5,
-        "rush_tds": 0,
-        "rush_yds": 6.5,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "SF"
     },
     {
       "filename": "jakobi-lane.php",

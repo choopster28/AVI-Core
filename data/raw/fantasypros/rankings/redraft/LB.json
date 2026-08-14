@@ -12123,7 +12123,7 @@
     },
     {
       "cbs_player_id": "2142097",
-      "player_bye_week": "8",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "sione-takitaki.php",
@@ -12136,7 +12136,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "S. Takitaki",
-      "player_team_id": "HOU",
+      "player_team_id": "FA",
       "player_yahoo_id": "31912",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB335",

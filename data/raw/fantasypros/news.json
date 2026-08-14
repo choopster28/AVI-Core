@@ -1,7 +1,199 @@
 {
-  "count": 25,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-14 19:37:04",
+      "created_formated": "Fri, Aug 14th 7:37pm UTC",
+      "desc": "Packers coach Matt LaFleur said Josh Jacobs could return to practice next week. ",
+      "id": 602359,
+      "impact": "LaFleur clarified that it wouldn't be till later in the week. Jacobs has been absent from practice due to a groin injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/602359/josh-jacobs-groin-could-return-next-week.php",
+      "player_id": 18269,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Josh Jacobs (groin) could return next week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-14 19:35:00",
+      "created_formated": "Fri, Aug 14th 7:35pm UTC",
+      "desc": "The NFL has suspended Titans CB Nazeeh Johnson six regular season games for performance-enhancing substance policy violation. ",
+      "id": 602358,
+      "impact": "Johnson can still participate in all preseason activities. He will be eligible for reinstatement on October 19.",
+      "link": "https://www.fantasypros.com/nfl/news/602358/nazeeh-johnson-suspended-six-games-by-nfl.php",
+      "player_id": 24582,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Nazeeh Johnson suspended six games by NFL"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-14 19:31:44",
+      "created_formated": "Fri, Aug 14th 7:31pm UTC",
+      "desc": "The NFL has suspended DE Dorance Armstrong Jr. for the season opener. ",
+      "id": 602356,
+      "impact": "Armstrong is still eligible to participate in all preseason activities. He'll be eligible for reinstatement on September 14. ",
+      "link": "https://www.fantasypros.com/nfl/news/602356/dorance-armstrong-jr-suspended-season-opener.php",
+      "player_id": 17315,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Dorance Armstrong Jr. suspended for the season opener"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-14 19:29:22",
+      "created_formated": "Fri, Aug 14th 7:29pm UTC",
+      "desc": "Bills DT Phidarian Mathis has been suspended for three games for violating the NFL's Substances of Abuse Policy. ",
+      "id": 602355,
+      "impact": "Mathis is still eligible to participate in preseason practices and games. He'll be eligible to return September 28. ",
+      "link": "https://www.fantasypros.com/nfl/news/602355/phidarian-mathis-suspended-three-games.php",
+      "player_id": 23735,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Phidarian Mathis suspended three games "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-14 19:26:57",
+      "created_formated": "Fri, Aug 14th 7:26pm UTC",
+      "desc": "The Eagles signed LB Brandon George. ",
+      "id": 602354,
+      "impact": "George spent last season on injured reserve with the Chiefs. He will compete for a depth role in the Eagles linebacker room. ",
+      "link": "https://www.fantasypros.com/nfl/news/602354/brandon-george-signs-with-eagles.php",
+      "player_id": 27605,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Brandon George signs with Eagles "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-14 19:14:47",
+      "created_formated": "Fri, Aug 14th 7:14pm UTC",
+      "desc": "Falcons DE James Pearce Jr. is being suspended eight regular-season games for violating the NFL's personal conduct policy.",
+      "id": 602350,
+      "impact": "Pearce was arrested in February after a domestic dispute. He will miss the first eight games of the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/602350/james-pearce-jr-suspended-eight-games-by-nfl.php",
+      "player_id": 27018,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "James Pearce Jr. suspended eight games by NFL"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-14 18:19:56",
+      "created_formated": "Fri, Aug 14th 6:19pm UTC",
+      "desc": "Kurtis Rourke was released from a local hospital Thursday night. ",
+      "id": 602336,
+      "impact": "Rourke left Thursday's preseason game against the Titans in the first half. He was having trouble breathing, head coach Kyle Shanahan said after the game. The initial X-rays he underwent did not show a broken rib. ",
+      "link": "https://www.fantasypros.com/nfl/news/602336/kurtis-rourke-ribs-released-from-hospital.php",
+      "player_id": 27129,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Kurtis Rourke (ribs) released from hospital "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-14 18:05:16",
+      "created_formated": "Fri, Aug 14th 6:05pm UTC",
+      "desc": "Cardinals head coach Mike LaFleur said he has 'no concern' over the rib injury that Carson Beck is dealing with. ",
+      "id": 602335,
+      "impact": "The injury kept Beck out of Thursday's preseason game against the Raiders. He should be good to go for next week's preseason game. ",
+      "link": "https://www.fantasypros.com/nfl/news/602335/carson-beck-not-dealing-with-serious-rib-injury.php",
+      "player_id": 22953,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Carson Beck not dealing with serious rib injury"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-14 18:03:23",
+      "created_formated": "Fri, Aug 14th 6:03pm UTC",
+      "desc": "Raiders coach Klint Kubiak said \"it's his job to lose\" when asked about Kirk Cousins' status as QB1 following Thursday's preseason game. ",
+      "id": 602334,
+      "impact": "Cousins played on the opening drive on Thursday, which resulted in a touchdown pass to Michael Mayer. He remains highly likely to open the season as the starter for Las Vegas. ",
+      "link": "https://www.fantasypros.com/nfl/news/602334/kirk-cousins-starting-job-is-his-to-lose-per-hc-klint-kubiak.php",
+      "player_id": 11177,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Kirk Cousins: Starting job is 'his to lose' per HC Klint Kubiak "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-14 18:01:18",
+      "created_formated": "Fri, Aug 14th 6:01pm UTC",
+      "desc": "Raiders coach Klint Kubiak said he expects Dont'e Thornton to return at some point in the preseason.",
+      "id": 602333,
+      "impact": "Thornton has missed the last week of practice and the Raiders preseason opener due to an undisclosed reason/ injury. He is likely to remain off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/602333/donte-thornton-jr-undisclosed-to-return-some-point-during-preseason.php",
+      "player_id": 27288,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Dont'e Thornton Jr. (undisclosed) to return at some point during preseason "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-14 17:59:31",
+      "created_formated": "Fri, Aug 14th 5:59pm UTC",
+      "desc": "Saints coach Kellen Moore said Jordyn Tyson is dealing with a right hamstring injury.",
+      "id": 602332,
+      "impact": "Tyson left practice early on Thursday with the injury. It is believed to be a different hamstring injury than what the rookie was previously dealing with. Moore said the possibility of Tyson missing Week 1 can't be ruled out. Not a good sign for the rookie right now. ",
+      "link": "https://www.fantasypros.com/nfl/news/602332/jordyn-tyson-dealing-with-right-hamstring-injury.php",
+      "player_id": 26035,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Jordyn Tyson dealing with right hamstring injury"
+    },
     {
       "author": "Ari Koslow",
       "categories": [
@@ -232,217 +424,6 @@
       "sport_id": "NFL",
       "team_id": "PIT",
       "title": "Elandon Roberts signs with Steelers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 07:33:03",
-      "created_formated": "Fri, Aug 14th 7:33am UTC",
-      "desc": "Kurtis Rourke left Thursday's preseason game early due to a rib injury. ",
-      "id": 602292,
-      "impact": "Rourke completed 12-of-14 passes for 101 yards prior to his early exit. He is competing for a depth role in the 49ers quarterback room. ",
-      "link": "https://www.fantasypros.com/nfl/news/602292/kurtis-rourke-suffers-rib-injury-thursday.php",
-      "player_id": 27129,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kurtis Rourke suffers rib injury Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 05:31:24",
-      "created_formated": "Fri, Aug 14th 5:31am UTC",
-      "desc": "Ravens coach Jesse Minter said CB Marlon Humphrey is \"trending very well to potentially be back next week.\"",
-      "id": 602282,
-      "impact": "Humphrey walked off from practice with trainers on Wednesday. His status will need to be monitored early next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/602282/marlon-humphrey-trending-to-return-to-practice-next-week.php",
-      "player_id": 16390,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Marlon Humphrey 'trending' to return to practice next week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 05:30:09",
-      "created_formated": "Fri, Aug 14th 5:30am UTC",
-      "desc": "Ravens coach Jesse Minter said CB Nate Wiggins is \"trending very well to potentially be back next week.\"",
-      "id": 602281,
-      "impact": "Wiggins was carted away on Tuesday from practice. This will remain a situation to monitor early next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/602281/nate-wiggins-trending-to-return-to-practice-next-week.php",
-      "player_id": 26100,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Nate Wiggins 'trending' to return to practice next week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-14 05:28:37",
-      "created_formated": "Fri, Aug 14th 5:28am UTC",
-      "desc": "Cowboys coach Brian Schottenheimer said RBs Phil Mafah and Jaydon Blue \"are going to get a bunch of work\" in the preseason.",
-      "id": 602280,
-      "impact": "Schottenheimer notes that Mafah and Blue remain in a tight competition for the RB2 role in the Cowboys backfield behind Javonte Williams. This will be a position group battle to monitor over the next few weeks. ",
-      "link": "https://www.fantasypros.com/nfl/news/602280/phil-mafah-to-see-a-bunch-work-preseason.php",
-      "player_id": 22928,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Phil Mafah to see 'a bunch of work' in the preseason"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-14 05:27:51",
-      "created_formated": "Fri, Aug 14th 5:27am UTC",
-      "desc": "Cowboys coach Brian Schottenheimer said RBs Jaydon Blue and Phil Mafah \"are going to get a bunch of work\" in the preseason.",
-      "id": 602279,
-      "impact": "Schottenheimer notes that Blue and Mafah remain in a tight competition for the RB2 role in the Cowboys backfield behind Javonte Williams. This will be a position group battle to monitor over the next few weeks. ",
-      "link": "https://www.fantasypros.com/nfl/news/602279/jaydon-blue-to-see-a-bunch-work-preseason.php",
-      "player_id": 24344,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Jaydon Blue to see 'a bunch of work' in the preseason "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 05:25:26",
-      "created_formated": "Fri, Aug 14th 5:25am UTC",
-      "desc": "Carson Beck was sidelined from Thursday's preseason game with a rib injury. ",
-      "id": 602278,
-      "impact": "Beck suffered a rib injury in the Cardinals' Hall of Fame game against the Panthers. He was still able to practice, but he was held out of the preseason game. He should be good to go for next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/602278/carson-beck-dealing-with-rib-injury.php",
-      "player_id": 22953,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Carson Beck dealing with rib injury"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 05:17:55",
-      "created_formated": "Fri, Aug 14th 5:17am UTC",
-      "desc": "Myles Garrett did not practice on Thursday. ",
-      "id": 602277,
-      "impact": "Garrett returned to practice last week, but it appears he is still dealing with a knee issue. He still has a full month till the season opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/602277/myles-garrett-knee-misses-practice-thursday.php",
-      "player_id": 16370,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Myles Garrett (knee) misses practice Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-14 05:15:54",
-      "created_formated": "Fri, Aug 14th 5:15am UTC",
-      "desc": "Dontayvion Wicks is trending towards opening the season as the No. 2 wide receiver for the Eagles to open the season. ",
-      "id": 602276,
-      "impact": "Wicks continues to impress during training camp, while rookie Makai Lemon misses time with a hamstring injury. He was able to show flashes in Green Bay and could see more consistent opportunity with the Eagles. He'll remain a player to monitor for fantasy managers as well as the health of Lemon. ",
-      "link": "https://www.fantasypros.com/nfl/news/602276/dontayvion-wicks-on-track-to-be-eagles-wr2.php",
-      "player_id": 24354,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Dontayvion Wicks on track to be Eagles WR2"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 05:13:14",
-      "created_formated": "Fri, Aug 14th 5:13am UTC",
-      "desc": "Cardinals coach Mike LaFleur said second-round OG Chase Bisontis' left knee injury was \"not good.\"",
-      "id": 602275,
-      "impact": "Bisontis was helped off the field during Thursday's preseason game against the Raiders. He will go through further testing on Friday. ",
-      "link": "https://www.fantasypros.com/nfl/news/602275/chase-bisontis-suffers-knee-injury-does-not-look-good.php",
-      "player_id": 27988,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Chase Bisontis' suffers knee injury, 'does not look good'"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-13 23:19:58",
-      "created_formated": "Thu, Aug 13th 11:19pm UTC",
-      "desc": "Terrion Arnold agreed to sign with the Seattle Seahawks on Thursday.",
-      "id": 602253,
-      "impact": "Arnold has found a home after a long offseason, and the next step will be whether or not he faces discipline from the NFL after he was connected to a robbery and kidnapping in February. The 23-year-old has spent the last two seasons with Detroit and played in just eight games last season with a shoulder injury. However, he seems to be healthy and ready to go for the upcoming year.",
-      "link": "https://www.fantasypros.com/nfl/news/602253/terrion-arnold-to-sign-with-seahawks.php",
-      "player_id": 26133,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Terrion Arnold to sign with Seahawks"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-13 22:36:14",
-      "created_formated": "Thu, Aug 13th 10:36pm UTC",
-      "desc": "Tucker Kraft is on track to suit up for the Packers in Week 1 this season.",
-      "id": 602250,
-      "impact": "This has been the hope for Kraft throughout the offseason after suffering a torn ACL last season, and it remains a real possibility. The 25-year-old projects to be a top-five tight end in fantasy this season, and his being available from the start is a huge boost for fantasy owners.",
-      "link": "https://www.fantasypros.com/nfl/news/602250/tucker-kraft-knee-on-track-to-return-week-1.php",
-      "player_id": 25298,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Tucker Kraft (knee) on track to return Week 1"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-13 22:16:57",
-      "created_formated": "Thu, Aug 13th 10:16pm UTC",
-      "desc": "Za'Darius Smith worked out with the Cleveland Browns on Thursday.",
-      "id": 602249,
-      "impact": "Smith retired after five games with the Eagles last season, but he recently unretired and is eyeing a potential return to Cleveland, where he played in 2023 and 2024. The 33-year-old is a three-time Pro Bowler and is one season removed from a nine-sack season with the Browns and Lions in 2024.",
-      "link": "https://www.fantasypros.com/nfl/news/602249/zadarius-smith-works-out-with-browns.php",
-      "player_id": 14060,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Za'Darius Smith works out with Browns"
     }
   ],
   "public_api_limited": true,

@@ -549,15 +549,6 @@
     "sleeper_id": "4454"
   },
   {
-    "confidence": "review",
-    "fantasypros_id": "17115",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Taysom Hill",
-    "position": "TE",
-    "sleeper_id": "4381"
-  },
-  {
     "confidence": "verified",
     "fantasypros_id": "17233",
     "match_method": "exact_name_position_unique",
@@ -844,15 +835,6 @@
     "player_name": "KaVontae Turpin",
     "position": "WR",
     "sleeper_id": "8917"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "18562",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "ARI",
-    "player_name": "Gardner Minshew II",
-    "position": "QB",
-    "sleeper_id": "6011"
   },
   {
     "confidence": "verified",
@@ -1333,15 +1315,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "20082",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "LAC",
-    "player_name": "Trey Lance",
-    "position": "QB",
-    "sleeper_id": "7610"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "20094",
     "match_method": "exact_name_position_unique",
     "nfl_team": "ATL",
@@ -1519,15 +1492,6 @@
     "player_name": "Joshua Palmer",
     "position": "WR",
     "sleeper_id": "7670"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "22884",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "SEA",
-    "player_name": "Jalen Milroe",
-    "position": "QB",
-    "sleeper_id": "12510"
   },
   {
     "confidence": "verified",
