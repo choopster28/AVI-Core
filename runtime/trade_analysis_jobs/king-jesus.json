@@ -35,9 +35,10 @@
       ]
     },
     "createdAt": 1786741555573,
-    "updatedAt": 1786741556682,
+    "updatedAt": 1786741690802,
     "expiresAt": 1787173555573,
-    "status": "running"
+    "status": "failed",
+    "error": "Gemini returned invalid JSON"
   },
   {
     "id": "mstfntj0-1ed7cbeb",
