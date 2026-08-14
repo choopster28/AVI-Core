@@ -1,5 +1,154 @@
 [
   {
+    "id": "mstj1qdo-3b1a9301",
+    "createdAt": 1786747140919,
+    "expiresAt": 1787179140919,
+    "mode": "improve_team",
+    "title": "Initial Improve My Team · Northside Kings",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Northside Kings",
+      "goal": "Increase Championship Odds",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Northside Kings is currently mapped as a Rebuilder looking to accelerate competitive timing by acquiring premier young S-tier cornerstones. By utilizing an abundant war chest of future draft capital (including the 2027 Conquistadors 1st) alongside league-relative startable wide receivers and running backs, Northside Kings can target elite, publicly available cornerstone assets from teams seeking immediate depth and liquidity.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Substantial future draft capital including 2027 and 2028 first-round selections",
+            "Dynamic young offensive core anchored by Jordan Love, Bhayshul Tuten, RJ Harvey, and Jordan Addison"
+          ],
+          "priorityNeeds": [
+            "Tier 1 elite S-cornerstone wide receiver or running back",
+            "Consolidation of depth assets into long-term top-12 fantasy pillars"
+          ],
+          "tradeableSurplus": [
+            "2027 Round 1 Draft Capital (Conquistadors)",
+            "2028 Round 1 & 2 Draft Capital",
+            "Starting-caliber WR depth (Jordan Addison, Xavier Worthy) and RB depth (Bhayshul Tuten)"
+          ],
+          "constraintsApplied": [
+            "Starter-For-Starter Realism: Every player asset included in outgoing packages belongs to the 16-team league-relative starter/FLEX pool",
+            "Two-Organization Goals: Package offers satisfy both Northside Kings' rebuild acceleration and trade partners' competitive objectives",
+            "Public Trade Block Credit: Full availability credit granted to confirmed trade-block candidates"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 13,
+          "eliminationReasons": [
+            "Incompatible organizational goals or lack of starting-lineup replacement fit"
+          ]
+        },
+        "opportunities": [],
+        "noDealExplanation": {
+          "summary": "No candidate trade path cleared the required Market Reality and package-quality standards.",
+          "primaryObstacles": [
+            "Elite target Amon-Ra St. Brown requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+            "Elite target Jaxon Smith-Njigba requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+            "Elite target De'Von Achane requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets."
+          ],
+          "userConstraintImpact": "No additional user constraint was identified as the primary blocker.",
+          "closestPathToDeal": "Use league-relative starting-caliber player assets for Improve My Team and Shop Assets recommendations; starter targets require a starter-level centerpiece, and elite targets require a premium near-peer anchor."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Bhayshul Tuten NFL draft team 2025 2026",
+          "Bhayshul Tuten football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIRziO7PBxEfE4MHMeZoZUfUKksDOSQ2HOJNJ0TrkxsminW09CTv9XWSl8aSnbYpt3ltwPcehDwgPKZrnHEj3BpClX9zdBgyyqXBVC5qV85yPq1bzLt8yorKsVoXab7PhMFUtyVUroowk-3QPhQCUl",
+            "title": "jaguars.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlyo57XWWAFOiJ3U_FE28iZG-iMfhIYqEHHO2ahDMZFrLBSLq6uF1B4AVq8Gs4nJdAdsxCBnKD8e9_jcYCi0iZ_1vMDLBqDcmfQWT8_-sGLEw99c6-A1nufbcLi2JVUl4=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPnM_tsPwKIRX4tHvbwdychVVej6BGvTg-auWEqEVUW4ZveUtm55e0IjRkGdj0qSPRvliitocCHDFqn2yRwxmQJuEYJXAYn9qCp9x1HCpineeDb-npdsCD8qP0Fttg_-QIxcMO0Sa3zsRqUxnUo-k=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVa2tDsm7moqzmPKlhOojw5_Dt3UMjnkiXessZPkuwuSEVXEzzwZWny5lpha43Wy5C28x7yGRG8V6qinlUN41jUFh0nLc4KR2WTEfhpiSAiHAfwbBLI6eFJda1D2Vw-eh-J2CJlhLS7y8T3-HMo7GvIwIN5o-NBUBSF2SCva_4lYtDZM3aXyJGFA0nmOabyvL0KUE8GxgpjZELCiJnmovBgPhJCuLoX7zNhIvCEAXSWK7u2M-4PO8=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqa9ofYgf-VBjlKYIXzHMTKb6FobaTd-qbA8ZHXL4JIEmiLcmN45AEvdPLeiQtcYghrei2TB1NdVpBGdkcpdg9pGhO0ljWs0y1w91yqD-koPFEIQd72c-sy7iO582_0Ds=",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "Jordan Addison",
+          "Jaxon Smith-Njigba",
+          "Xavier Worthy",
+          "De'Von Achane",
+          "Bhayshul Tuten"
+        ],
+        "aviCoreCommitSha": "9974eba45e8ecb027c2ca066954c93316528bcd3",
+        "aviCoreCommittedAt": "2026-08-14T22:18:45Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 418631,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mstizqam-3fe96071",
     "createdAt": 1786746981933,
     "expiresAt": 1787178981933,
