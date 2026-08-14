@@ -1,5 +1,340 @@
 [
   {
+    "id": "1786671888914-ycms0r",
+    "createdAt": 1786671889637,
+    "expiresAt": 1787103889637,
+    "mode": "analyze_trade",
+    "title": "Trade Analysis · Conquistadors ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "D'Andre Swift",
+            "assetType": "player"
+          },
+          {
+            "name": "Wan'Dale Robinson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The proposed transaction involves sending S-tier running back De'Von Achane (97.4 C-AVI / 96.8 D-AVI) to Corgi Loaf Baking Co. in exchange for D'Andre Swift (76.7 C-AVI / 86.1 D-AVI), Wan'Dale Robinson (65.7 C-AVI / 83.6 D-AVI), and a projected mid-range 2027 1st-round pick (DMV, 79.3 D-AVI). Given the Conquistadors' explicit goal to 'Win Championship', this trade significantly undermines short-term competitiveness by causing a net loss of 20.7 C-AVI points per week at RB2. Wan'Dale Robinson does not break into the starting lineup over Ladd McConkey (81.9 C-AVI) or George Pickens (92.7 C-AVI), and the 2027 1st-round pick offers zero contribution to the 2026 title push. This proposal represents a classic 'quantity for quality' downgrade that a championship contender must decline.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.8,
+              "publicMarket": 98,
+              "leagueMarket": 97
+            }
+          ],
+          "sideB": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 76.7,
+              "davi": 86.1,
+              "publicMarket": 78,
+              "leagueMarket": 77
+            },
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.7,
+              "davi": 83.6,
+              "publicMarket": 70,
+              "leagueMarket": 68
+            },
+            {
+              "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D+",
+            "otherGrade": "A",
+            "userShare": 35,
+            "otherShare": 65,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted offer heavily favors Corgi Loaf Baking Co., who acquires a 24-year-old elite RB1 in De'Von Achane without giving up any S-tier or cornerstone assets. Conquistadors suffer a severe drop in starting lineup C-AVI (-20.7 points) right in the middle of a championship run."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Conquistadors",
+            "summary": "By targeting Malik Nabers (88.7 C-AVI / 96.2 D-AVI) alongside D'Andre Swift for De'Von Achane, Conquistadors secure a premium young WR1 asset to strengthen their FLEX/WR group while softening the RB downgrade."
+          }
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Massive loss of current-year championship equity. De'Von Achane (97.4 C-AVI) is an elite cornerstone RB1 projected for 292.0 PPR points.",
+          "sideADynastyImpact": "Trading away a 24-year-old elite RB with a 96.8 D-AVI rating strips a core long-term cornerstone from the roster.",
+          "sideARosterImpact": "Leaves Bijan Robinson as the sole elite RB on the team, forcing D'Andre Swift (76.7 C-AVI) into the starting lineup and creating a major weekly drop at RB2.",
+          "sideBChampionshipImpact": "D'Andre Swift (76.7 C-AVI) is a solid RB2/3, while Wan'Dale Robinson (65.7 C-AVI) sits on the bench behind Ladd McConkey. Total C-AVI received is 142.4 across two roster spots, but neither player provides Achane's single-player championship impact.",
+          "sideBDynastyImpact": "The 2027 1st (79.3 D-AVI) plus Swift (86.1 D-AVI) and Wan'Dale (83.6 D-AVI) offer solid secondary depth, but lack an elite S-tier ceiling.",
+          "sideBRosterImpact": "Adds depth WR coverage and a future draft pick, but degrades starting lineup points needed for a 2026 title.",
+          "valueAssessment": "On paper, the combined D-AVI (249.0 vs 96.8) looks favorable for Side B, but raw AVI summation is misleading. In 12-team leagues, elite S-tier cornerstones cannot be replaced by multi-asset packages of secondary depth."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus ranks De'Von Achane as a top-10 overall dynasty asset and elite redraft RB1 following his $64M extension with Miami. D'Andre Swift is viewed as a mid-tier RB2 in Chicago, while Wan'Dale Robinson's market stock is rising after signing a 4-year $70M contract with Tennessee and reuniting with Brian Daboll.",
+          "aviVsMarket": "AVI aligns closely with public market consensus: Achane is a premier cornerstone asset whose individual starting value far exceeds a package of depth pieces and a future pick.",
+          "relevantContext": [
+            "De'Von Achane signed a $64M contract extension with Miami and enters camp fully healthy as the focal point of the offense.",
+            "D'Andre Swift recorded over 1,000 rushing yards in Chicago in 2025, but shares backfield touches with Kyle Monangai.",
+            "Wan'Dale Robinson signed a $70M deal with Tennessee and has reported strong camp chemistry with rookie QB Cam Ward under OC Brian Daboll.",
+            "Future 2027 1st-round picks hold solid trade liquidity (79.3 D-AVI) but offer zero weekly points to a 2026 contender."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. (awang1900) is the league's most active trader (21 completed trades) and would eagerly acquire an S-tier RB1 in Achane to pair with Cam Skattebo while giving up depth assets.",
+          "packageFit": "Poor structural fit for Conquistadors' championship objective. Title contenders consolidate depth into elite starters; breaking down an elite starter into depth runs counter to winning now.",
+          "lineupReplacement": "D'Andre Swift replaces Achane in the starting lineup, resulting in a net loss of 20.7 C-AVI at RB2. Wan'Dale Robinson does not start over Ladd McConkey (81.9 C-AVI) or George Pickens (92.7 C-AVI).",
+          "competitiveWindowFit": "Conquistadors are in a prime championship window with Josh Allen, Bijan Robinson, De'Von Achane, and Puka Nacua. Trading Achane for a 2027 pick misaligns with current contention.",
+          "positionalScarcity": "Elite RB1s with 95+ C-AVI are extremely scarce. Swift belongs to a broad, replaceable tier of mid-level RB2 starters."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 20,
+            "packageMatch": 8,
+            "lineupReplacement": 10,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 68,
+          "classification": "Stretch",
+          "explanation": "While Corgi Loaf would accept this offer to gain Achane, the deal fails package match and competitive window validations for Conquistadors due to the severe loss in starting lineup C-AVI."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "Decline this proposal. Trading De'Von Achane (97.4 C-AVI) for D'Andre Swift, Wan'Dale Robinson, and a 2027 1st directly degrades your starting lineup by 20.7 C-AVI points per week. For a team aiming to Win Championship, trading away a 24-year-old S-tier RB1 for depth and a future pick severely harms your 2026 title odds.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.8,
+              "publicMarket": 98,
+              "leagueMarket": 97
+            }
+          ],
+          "receive": [
+            {
+              "name": "Malik Nabers",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 23,
+              "cavi": 88.7,
+              "davi": 96.2,
+              "publicMarket": 95,
+              "leagueMarket": 96.2
+            },
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 76.7,
+              "davi": 86.1,
+              "publicMarket": 78,
+              "leagueMarket": 77
+            }
+          ],
+          "whyUserShouldDoIt": "If you elect to trade Achane, acquiring a blue-chip WR1 in Malik Nabers (88.7 C-AVI / 96.2 D-AVI) alongside D'Andre Swift secures a high-ceiling cornerstone that boosts your FLEX position and maintains premier long-term dynasty value.",
+          "whyOpponentMightAccept": "Corgi Loaf receives an S-tier RB1 in Achane (97.4 C-AVI) to pair with Cam Skattebo while leaning on their deep WR room (Jefferson, DJ Moore, Watson) to absorb the loss of Nabers."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.8,
+              "publicMarket": 98,
+              "leagueMarket": 97
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "TE",
+              "age": 24,
+              "cavi": 97.2,
+              "davi": 91.5,
+              "publicMarket": 94,
+              "leagueMarket": 91.5
+            },
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 76.7,
+              "davi": 86.1,
+              "publicMarket": 78,
+              "leagueMarket": 77
+            }
+          ],
+          "rationale": "Swaps Achane for elite TE1 Tyler Warren (97.2 C-AVI) plus Swift, directly upgrading tight end to an elite tier while softening the RB downgrade."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "DAndre Swift news fantasy outlook 2026",
+          "Devon Achane news fantasy outlook 2026",
+          "WanDale Robinson news fantasy outlook 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTX5i9_qEXE8xs7GQov6TOYA3ez9kjAFNOMxGgBQztDT9qbUET_aZN_2qiiXJ-qrnlrOyecdaQV-riIX40HcYGLYRddE0emn4PMsZiVdwW1RdPcwu66LjfQZV-R9Dc8xwQj4Abs9aqVTrKBDveVVghtJwBodLI9Xi4n2_1Y6rbenPw2lZUPp6LQXtIoXS8hOB5",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfpZKvsRUaIP3QhEelSNjLPGYE1vd597X0mxTX5y6PHK3Ww_QhvG-7LhA5uf5kXQpfNI3QFYbX1zsj7qG2Z2T37ciXny4kjGgy_rYRhkDeCw__oWJlAnr86fcJ88TQ3AhBLCRVByL9XX4JTBb8kLEiz16ScS-4lKjL8rJHosXqejCZQGAUGjdPtaKwQSJS",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvnSfvN20XJiWx5SwMsT3t0Uj-1oSL9fU2vjw4UsRy_LToQQ6g6itQyDCs_wT0ZwUreFplHnPrAvSsVVmebYm9tsZgBWtcgq0IEh2Yth_lfMcYIF3IboBnEz9DWqnW4KliqssieIiu74uy4eSiEw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs2B13KwYFQaMF2BH7fn4zErizGPdJV0K6xgDf6Am9UOdeFaAEzfpmKPbuxbEuaz4mpBLLsTFJiUjJ1q9fdPzv08EffP-e6ZK7sXk1gpONnISqcw1_6JPpyaKwwK-2ZOVh8DU9_ExOG-g2heWIu9LQI06dEH5j5DO5nosb5eBQPC5EDkl6RNMYZspscE-gbMcfobPMO5uzfV1bueNWme8rrTu4oMJ6jPmDj5HKAnhSUTMoMKIa4mwBfsIkj6n90XSkzOOWCNc=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKrLnC9fgGwfKnq55b0q0JonDsLry3IfBUnXwhl_M-oFDQrEbXhajVmy2NkaXlwECWZQyh9ytDnowjgBH8GTzTahglM2LLitILU-sQf3n4zU7XwJHQfFllXXtx9EczGZqR8ZHQZEdY_6YJBBnmG7o5aJUZNy5ftMSMvIqNsDZQ1ln8w48pNHc0Wx2OvqEg",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuYhJed4bfwp0M4CIQ8UdFovHTSPv0jJ2eqI7Zjv5WTYHr2y0kj9cItDOf81SuNAzyXIVVi4uwVAlE29-SxLScEzvNKv9Qw1-x35zSnouIx10iwciharthX5rMbCL7J19zreuzZges8iYQ-ACD8UENd4eZCYpPb8kysiCaFNbgdg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrw3RwVW4E4Y9ij7opkxhJ1bSaLMwbDSt-Sp7wVAtoXEZB4EPukEXOvNEkUcbAr-Td9uWDZpY75-XfVf6jvbl6y49T55DhKbbcuIP3lF3IQBM7i70xcQixMigowEXpopYjpQDTuTv4BrlGmwf0K9BhEtKz56ytgnG45488bloq5yrUcQydUnCvEFk=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNHnluBBle-4jX6ZzmKNdtju8BImsBtcrbK5p-I1soGxrsmK1_JH4TwcJ6YRuSfloohTOdPuNi9zZq_SL2wN-d8eUjToeKLo312Ea_2aQ9VFenQpbvc7iS_ol4PnlHdT557fOilR7zSfk-N62u_DBQHpHCJkyaQcMOoBgajFsf5hc5xIo5uSus_D7tO5J9Xegmpg==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw9tjD0LXzg20QmMkQpsupow_Yj9grmTlVdaj8UBPDBkG5VTcIWwk4rEs32lA7QH2LJ5i32UrhGw1EHCMuJPjYli7HvGntGrWv4DwxCCqqdrFeV4B3d3BGAp_j719A_ut4f751QKbcniAHTUGBrNuzaxgIRqiWCsULIZc0sbU5Wfh7vrhl",
+            "title": "establishtherun.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGC71B5HlRYbnaiFv97nkeg5qpIAfwMDGC211cBgambHhDRnwwwHXkQyNBITcQD-_VE8WWkipWsmTksFtUiAyNHRAqT6ii_WQRcNdWKUnDIeAQljtxBd5h1kG0pKhWNnpY25GHORc18LG4Ok2Id7CtUMT_rmVmN6JNzTVgW3m5r4uE1VM=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBf2Fswe8ymayr9zCKTsU1GdJ2wrh2ioptUSnalSmIsrzfXZ6Lw2WrwyFkyXACw6xYb375B_Dm3j3i6hjZrwlOxZGRXNltj0atK_hRQt-fSu7uqsurq9ITr2IhkavpicWxyWXcA7t4dQnIPIN_N6tK6HUD76CHQMBqmoz52qDBR2mhb37nldKrZaOkUPf7Ly5aBkF66oOHuhT-ZSMT9Mo=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW0L131CntYLyr6UsfU9G9X0wvt2XkQw51DwHI7YBPv5tK1DPnF6yeLmUjfA_dvVKXtlkzifeNuONxh-US4fb08lXunKaGxqWcGBQvQ-5kBx1gGUu5Y_BnzLWbV3oaUuLrsMtAdmua_bIxu1UdKrNZvi2nG-2XB_SlbkCiS7M9",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7b99d9cf46c33124c065c6a6ae98f930a507194b",
+        "aviCoreCommittedAt": "2026-08-13T23:23:17Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 66205,
+        "groundedMarketChars": 3499,
+        "personalContextProvided": false
+      }
+    }
+  },
+  {
     "id": "1786669378139-xbig6b",
     "createdAt": 1786669378401,
     "expiresAt": 1787101378401,
