@@ -31,8 +31,296 @@
       ]
     },
     "createdAt": 1786727821466,
-    "updatedAt": 1786727821466,
+    "updatedAt": 1786727875397,
     "expiresAt": 1787159821466,
-    "status": "queued"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Attempting to acquire Jaxon Smith-Njigba—the reigning NFL Offensive Player of the Year and a top-3 overall dynasty wide receiver—with a package of Jameson Williams, Kyle Monangai, and Jordyn Tyson is unrealistic under Market Reality. JSN (99.1 C-AVI, 99.6 D-AVI) is an unshopped S-tier cornerstone on a contending roster (All Hail King Jesus). Because Ravens Regime lacks any 2027 or 2028 1st-round draft capital to bridge the massive gap in elite quality, and All Hail King Jesus has no motivation to trade an irreplaceable WR1 for secondary depth pieces, no realistic trade path exists.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jameson Williams",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 25,
+              "cavi": 79.8,
+              "davi": 89.5,
+              "publicMarket": 82,
+              "leagueMarket": 79.8
+            },
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 55.5,
+              "davi": 80.4,
+              "publicMarket": 60,
+              "leagueMarket": 55.5
+            },
+            {
+              "name": "Jordyn Tyson",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 22,
+              "cavi": 63.5,
+              "davi": 87.5,
+              "publicMarket": 65,
+              "leagueMarket": 63.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 98.5,
+              "leagueMarket": 99.1
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "F",
+            "otherGrade": "F",
+            "userShare": 75,
+            "otherShare": 25,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "The proposed 3-for-1 package heavily favors Ravens Regime by attempting to acquire an elite WR1 cornerstone without giving up top-tier talent or 1st-round draft picks. However, it fails completely from an market acceptance perspective as All Hail King Jesus would reject it immediately."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 0,
+              "summary": "No transaction occurs. Ravens Regime retains its roster depth and draft flexibility."
+            },
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Acquiring JSN would dramatically increase starting lineup ceiling alongside Lamar Jackson and Derrick Henry."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "JSN represents a 24-year-old generational cornerstone locked up through 2031."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Upgrades starting WR2 slot significantly from Jameson Williams to JSN."
+            },
+            "depthResilience": {
+              "score": -30,
+              "summary": "Trading away Monangai and Tyson reduces usable flex depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Consolidates three startable/prospect assets into one non-movable centerpiece."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -45,
+              "summary": "Trading away JSN would cause severe structural damage to All Hail King Jesus's championship ceiling."
+            },
+            "championshipOutlook": {
+              "score": -50,
+              "summary": "Loses 106+ projected PPR points at WR1, devastating weekly scoring output."
+            },
+            "dynastyOutlook": {
+              "score": -40,
+              "summary": "Surrenders a 24-year-old OPOY receiver with 99.6 D-AVI."
+            },
+            "lineupQuality": {
+              "score": -45,
+              "summary": "Massive drop from JSN (99.1 C-AVI) to Jameson Williams (79.8 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds RB depth in Monangai and WR depth in Williams and Tyson."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Splits one elite asset into three secondary assets."
+            }
+          },
+          "explanation": "The visual impact demonstrates why this trade is a non-starter: while Ravens Regime would gain massive lineup ceiling, All Hail King Jesus suffers a catastrophic drop in championship outlook by trading an irreplaceable cornerstone for secondary pieces."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Acquiring Jaxon Smith-Njigba (99.1 C-AVI) would vault Ravens Regime into top-tier championship contention by pairing him with Lamar Jackson (98.2) and Derrick Henry (93.1).",
+          "sideADynastyImpact": "JSN's 99.6 D-AVI provides a 24-year-old WR1 anchor locked into Seattle through 2031.",
+          "sideARosterImpact": "Consolidates three secondary/depth assets into a premier S-tier star.",
+          "sideBChampionshipImpact": "Trading JSN cripplingly downgrades All Hail King Jesus's starting WR1 slot from 99.1 C-AVI to 79.8 C-AVI (Jameson Williams).",
+          "sideBDynastyImpact": "Loses the highest-valued dynasty receiver on the roster (99.6 D-AVI).",
+          "sideBRosterImpact": "Fills RB depth with Kyle Monangai and adds WR depth, but severely dilutes starting lineup quality.",
+          "valueAssessment": "Summing AVI across three secondary assets (Williams 79.8 + Monangai 55.5 + Tyson 63.5) does not equal the elite, non-replicable production of an S-tier WR1 in a 16-team league."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Jaxon Smith-Njigba is coming off an AP NFL Offensive Player of the Year campaign (1,793 yards, 119 receptions) and a 4-year, $168.6M extension with Seattle. He is universally ranked as a Top-3 dynasty WR asset.",
+          "aviVsMarket": "AVI evaluates JSN at 99.1 C-AVI / 99.6 D-AVI, matching public consensus as a tier-1 untouchable cornerstone.",
+          "relevantContext": [
+            "JSN won NFL OPOY in 2025 with 119 receptions, 1,793 yards, and 11 TDs on a 35.8% target share.",
+            "Seahawks signed JSN to a 4-year $168.6M extension with $120M guaranteed.",
+            "Jameson Williams, Kyle Monangai, and Jordyn Tyson are solid dynasty assets but lack elite cornerstone status or 1st-round pedigree."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "All Hail King Jesus is competing now with Brock Purdy, Amon-Ra St. Brown, and JSN. They have zero motivation to dismantle their elite WR tandem for depth.",
+          "packageFit": "The proposed package offers quantity for quality. In 16-team dynasty leagues, trading one elite star for three secondary pieces without 1st-round draft capital is routinely rejected.",
+          "lineupReplacement": "Replacing JSN's 324.2 projected points with Jameson Williams's 217.3 projected points creates a net loss of 106.9 projected PPR points at WR1.",
+          "competitiveWindowFit": "All Hail King Jesus is in an active championship window and cannot sell high-end ceiling.",
+          "positionalScarcity": "Tier-1 elite WRs commanding 35%+ target shares are the rarest commodity in 16-team full PPR leagues."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 0,
+            "opposingGmMotivation": 5,
+            "packageMatch": 5,
+            "lineupReplacement": 5,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": false,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 20,
+          "classification": "Impossible",
+          "explanation": "Jaxon Smith-Njigba is an unshopped S-tier franchise cornerstone. All Hail King Jesus is a contender with no motivation to accept a 3-for-1 offer of non-elite starters, particularly when Ravens Regime possesses no 2027 or 2028 1st-round picks to include."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Jaxon Smith-Njigba is an unshopped S-tier franchise cornerstone. All Hail King Jesus is a contender with no motivation to accept a 3-for-1 offer of non-elite starters, particularly when Ravens Regime possesses no 2027 or 2028 1st-round picks to include.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Jaxon Smith-Njigba is an unshopped S-tier franchise cornerstone. All Hail King Jesus is a contender with no motivation to accept a 3-for-1 offer of non-elite starters, particularly when Ravens Regime possesses no 2027 or 2028 1st-round picks to include.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "All Hail King Jesus is competing now with Brock Purdy, Amon-Ra St. Brown, and JSN. They have zero motivation to dismantle their elite WR tandem for depth."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "The proposed package offers quantity for quality. In 16-team dynasty leagues, trading one elite star for three secondary pieces without 1st-round draft capital is routinely rejected."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Replacing JSN's 324.2 projected points with Jameson Williams's 217.3 projected points creates a net loss of 106.9 projected PPR points at WR1."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "All Hail King Jesus is in an active championship window and cannot sell high-end ceiling."
+            }
+          ],
+          "opponentPerspective": "All Hail King Jesus is competing now with Brock Purdy, Amon-Ra St. Brown, and JSN. They have zero motivation to dismantle their elite WR tandem for depth.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "The proposed package offers quantity for quality. In 16-team dynasty leagues, trading one elite star for three secondary pieces without 1st-round draft capital is routinely rejected.",
+          "whatWouldNeedToChange": [
+            "All Hail King Jesus is competing now with Brock Purdy, Amon-Ra St. Brown, and JSN. They have zero motivation to dismantle their elite WR tandem for depth.",
+            "The proposed package offers quantity for quality. In 16-team dynasty leagues, trading one elite star for three secondary pieces without 1st-round draft capital is routinely rejected.",
+            "Replacing JSN's 324.2 projected points with Jameson Williams's 217.3 projected points creates a net loss of 106.9 projected PPR points at WR1.",
+            "All Hail King Jesus is in an active championship window and cannot sell high-end ceiling."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba fantasy value 2026",
+          "Jaxon Smith Njigba news 2026",
+          "Jaxon Smith Njigba status training camp 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHcM7RiZ4YTMf2J2Fc-1wQhw6YIqspgXoKHjqfHgCuns32WM1SiFhRLRPnwuRmrfO3PfzevcCB_svYFzi3c8F-r-Bx1b1jbTLjtxXnrt8P9ak9zn6o9MAetoWMHAQEkjVQsqhq5yEA_AWMfXFW7oR70nzeVO13o28E7XIBwurBAWDrn4e1V_JVeDotOjOj21h8j2h6ega5L5vKHg3MfzaGckATqbrr",
+            "title": "timesgazette.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE47brw8hlAX_Z8OmDdjB-XQoPrJYtpWvnbPvMIqe5C9tYCZyQT4HU1FR2QH4n_Wl3HsxWq8vnyg3PvhooG_lcPXdfhZKGxW0ur-DAXDXUWaB-tLuhD26k6Lt7_f5hfLBpEKWs9p3WKN6RKNbLI-s_Mf6MSXA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG44SKYjgglC2K21PuXQ1n0Ly0pbg_EK--0AAJ-0N6iqfw3FUDcNO4Z1B2rs885k0ayzN8r8Fyk-wyJ_7FtuioztKDpqk5dUDwy7lJfhu0j6HHmLFjiUaxS4_ENOk7iQ-Ksx3BpbtTZtZnJw5Af5jWhVgZRgfMgWwzP6xnpozh4bmUAPesuUCiwuxPpYiRaXuVNpI3M-ZQ_5hnM_ST18jskGYr7YZoELJD_X6CFlNtj",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERXVnQKLMNtW3GfO_HY4CvHXPSkOWY_1XB-ErJAAVAr_OtCNUtmrMqCnlNrGZxty6f9sq1q7mLnDpTc4eCxrKZ7QrjSNovHh5ovzyNI84tcrIzt1v8pYupv6kq8cyo2c24ueM4Fz-KHILfZdV5R7I-Ry02QltG5Vp4QGRpxf_QfWfUkH9kSJoL2SgMyLI8",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHj8SBwmosPazT5VZukZ_WRZ8TmI-cqs68CHvH8YEoxt_PMAySSCSMzM7Qoc1XUYrwfW2CN85_HFUU2hYErjKqdgPFDlrdIGv3LAGkMKRT8pkf0SfRAlNT_gy5zyKYCqfh",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6tuIyFAevqrOtW48GWbRS2duqTLpVxjcz20R9ujD3WQ1JY7JYjVEfbHITelPinqaLqc218wtXV95BPDu8hOT3HF7b9uYvIXVukX1aDfk8Io2ykwpPBjfV0hmIUU0cRfBbWgHpouDX6ay29d4MBBqe9q4hHKUqDBP7R6aBKQcTZRNzF7bq4-hTn6wDhpmamn8=",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi4EeAdBo4_WLz78N24tG0CrlEJChAHyIikikdsT3xQMUj-Tf1qrS9yBUKMq6KMHyXrpmFJq5sWZcC9PK0q2sUOPEwmDu3clF8ejOAqlDl7sgGAYSa4XcPaxsNZbAtR2PK7ke3AtZdi08_SxCbfb9v_cx1jf73cj_ifhlmjvs8ECpBQdVEtGa4O89Cf8_0URRqd32yns9jA_PtMA==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDrojgKDKEdbwx7Qcfgh7K3AIGxt6T78Vl0uxfcrU4ofmqwWfk1ynKnkJ4_KidZAdB77VLVOvlgTKV-zo2oycyiHxHDCNfTW9BJFfIhQQHGG9KhjxzN9OuByNRUx7ldGiK",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy1biZmH0XBrmPDaf39iD9GDThwVIcXHdWbf2LAwCNh4MAhUj5QD_ILwMRthcRJRqtxg0mZEtdNVVlv9fFiu1NWC1yZ8NNCrZq3G3JG2gztpPQ5w951-dqCAUB0Unl9O3iJCMPR7b6h0_J-4nHI3jGM1HkfV2CPustn1gcHWLYL28-A9v600Z-FFFkaQ==",
+            "title": "pff.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "e20b16e33dbc9595a65c7f5420e0fbc93e492a16",
+        "aviCoreCommittedAt": "2026-08-14T16:09:33Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 60859,
+        "groundedMarketChars": 2062,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
