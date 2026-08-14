@@ -1,5 +1,369 @@
 [
   {
+    "id": "1786683896772-vgwh0z",
+    "createdAt": 1786683896843,
+    "expiresAt": 1787115896843,
+    "mode": "propose_trade",
+    "title": "Build Offer · Big Balder Brand ↔ Conquistadors",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Omarion Hampton",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand can successfully acquire elite RB De'Von Achane from Conquistadors by packaging 23-year-old starting RB Omarion Hampton with a 2027 2nd-round draft pick (DMV Fantasy). This trade directly upgrades Big Balder Brand's starting backfield (+6.0 C-AVI at RB2) to drive a championship run, while providing Conquistadors an immediate plug-and-play starter in Hampton plus draft capital liquidity. Market Reality analysis indicates an 87% acceptance probability.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Omarion Hampton",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 91.4,
+              "davi": 95.4,
+              "publicMarket": 92,
+              "leagueMarket": 92
+            },
+            {
+              "name": "2027 Round 2 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 97,
+              "leagueMarket": 97
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand leverages Omarion Hampton and a 2027 2nd-round pick to acquire De'Von Achane, boosting starting lineup C-AVI by +6.0 at RB2 while preserving core offensive depth."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Offering Omarion Hampton plus a 2027 2nd-round draft pick gives Conquistadors a plug-and-play young starter and draft liquidity, achieving an 87% acceptance probability."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Net positive acquisition that directly upgrades starting RB2 for a title push."
+            },
+            "championshipOutlook": {
+              "score": 60,
+              "summary": "Upgrades starting RB2 C-AVI from 91.4 to 97.4, raising weekly starting ceiling."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Slight upgrade to Achane's elite 97.0 D-AVI while spending a 2027 2nd-round pick."
+            },
+            "lineupQuality": {
+              "score": 55,
+              "summary": "Replaces Hampton with Achane in the starting lineup (+6.0 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Offensive roster depth remains fully intact as no active bench players were traded."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders a 2027 2nd-round draft pick."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 15,
+              "summary": "Minor starting C-AVI drop at RB2 offset by adding a 2027 2nd-round pick."
+            },
+            "championshipOutlook": {
+              "score": -15,
+              "summary": "Minor drop from Achane (97.4 C-AVI) to Hampton (91.4 C-AVI)."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Acquires 23-year-old Omarion Hampton (95.4 D-AVI) and draft capital."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "RB2 production drops minutely, but stays in elite Tier 1 territory."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Preserves starting lineup integrity while adding future draft depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 45,
+              "summary": "Gains a 2027 2nd-round draft pick."
+            }
+          },
+          "explanation": "Big Balder Brand gains immediate starting lineup efficiency at RB2 to maximize championship odds, while Conquistadors receives a young near-peer starting RB in Omarion Hampton plus draft capital."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand improves starting lineup C-AVI by +6.0 at RB2 by moving from Omarion Hampton (91.4) to De'Von Achane (97.4).",
+          "sideADynastyImpact": "Maintains elite dynasty standing (Achane 97.0 D-AVI vs Hampton 95.4 D-AVI) while spending a 2027 2nd-round draft pick.",
+          "sideARosterImpact": "Keeps starting lineup depth fully intact across QB, WR, TE, and FLEX positions.",
+          "sideBChampionshipImpact": "Conquistadors experiences a minor C-AVI decrease at RB2 (-6.0 C-AVI) but retains a top-tier starting backfield.",
+          "sideBDynastyImpact": "Gains a 23-year-old franchise RB in Hampton along with a 2027 2nd-round pick to bolster future flexibility.",
+          "sideBRosterImpact": "Hampton seamlessly replaces Achane directly in Conquistadors' starting lineup.",
+          "valueAssessment": "Achane's C-AVI (97.4) and D-AVI (97.0) surpass Hampton's (91.4 / 95.4). The inclusion of a 2027 2nd-round pick (48.5 AVI) balances total trade equity."
+        },
+        "publicMarketAnalysis": {
+          "summary": "De'Von Achane's public sentiment is at an all-time high following his 4-year, $64M contract extension with Miami and full clearance ahead of training camp. Public market consensus views Achane as an elite Tier 1 dynasty RB.",
+          "aviVsMarket": "AVI rates Achane at 97.4 C-AVI / 97.0 D-AVI, fully aligned with public consensus redraft first/second round ADP and top-5 dynasty RB ranking.",
+          "relevantContext": [
+            "Achane signed a 4-year, $64M extension with Miami in May 2026.",
+            "Cleared from offseason shoulder procedure, active in training camp without restrictions.",
+            "Positioned as the primary offensive focal point in Miami following wide receiver departures."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors wants to remain a top championship contender while staying flexible. Receiving Hampton gives them an immediate top-10 RB starter while picking up draft capital.",
+          "packageFit": "Omarion Hampton + 2027 2nd is a clean two-for-one offer that fills Conquistadors' RB1/RB2 starting slot directly without leaving a hole.",
+          "lineupReplacement": "Hampton directly replaces Achane in Conquistadors' starting RB2 slot with minimal drop-off.",
+          "competitiveWindowFit": "Both teams are win-now contenders in Division 1; the deal allows both to maintain competitive status.",
+          "positionalScarcity": "In a 16-team league, high-volume starting RBs are extremely scarce. Exchanging two top-tier young RBs with draft sweetener satisfies scarcity demands."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 20,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 87,
+          "classification": "Realistic",
+          "explanation": "Conquistadors maintains championship competitiveness by immediately inserting 23-year-old RB Omarion Hampton into the starting lineup while picking up a 2027 2nd-round draft pick to rebuild draft liquidity."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal successfully leverages Omarion Hampton and secondary draft capital to acquire De'Von Achane, directly strengthening Big Balder Brand's starting lineup for a championship run while meeting all Market Reality criteria for the trade partner.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Omarion Hampton",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 91.4,
+              "davi": 95.4,
+              "publicMarket": 92,
+              "leagueMarket": 92
+            },
+            {
+              "name": "2027 Round 2 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 97,
+              "leagueMarket": 97
+            }
+          ],
+          "whyUserShouldDoIt": "Upgrades Big Balder Brand's starting RB2 slot from Omarion Hampton (91.4 C-AVI) to De'Von Achane (97.4 C-AVI), giving the franchise an elite championship-caliber backfield paired with Saquon Barkley without sacrificing any existing roster starters or WR depth.",
+          "whyOpponentMightAccept": "Conquistadors downgrades only minutely at RB2 from Achane to 23-year-old centerpiece Omarion Hampton (91.4 C-AVI, 95.4 D-AVI) while pocketing a valuable 2027 2nd-round pick to rebuild draft liquidity."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Omarion Hampton",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 91.4,
+              "davi": 95.4,
+              "publicMarket": 92,
+              "leagueMarket": 92
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 62.1,
+              "davi": 79.3,
+              "publicMarket": 65,
+              "leagueMarket": 65
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 97,
+              "leagueMarket": 97
+            }
+          ],
+          "rationale": "If Conquistadors prefers immediate WR/FLEX bench depth over future draft capital, Big Balder Brand can substitute Chris Godwin into the package alongside Omarion Hampton."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Devon Achane news fantasy football 2026",
+          "Devon Achane status training camp 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO-drCNdiL2KumSTJALGtaXljer7VPvlLdP5P8ooWYA8DegY2rEsMpr8JoMFAAIj1QvRmQSaWxAZsW2z3M4ewgGuVPECVjyYbVNK9zWR0AKan2BqFXnHuI4cCRr2bffGSeI2-mchBEThVrLQXUtQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzwSgYtaRNIaorv6Vuk6-4aT3Y74AM6UvXWadPqvqnvr6PvVAqPFWepJN6bkwatS29X6IxvbSo0eQPkpTdujB8ACZAytyk7qsRHuAwuMjocDykywGh-kwXWPTjzdF4y3HvLAeC4ZN7fcq_D025fSialcWcJHYEYgTnkLvMAkWFGVP7tP6GVI5rwjleSrIXXia3",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeenAWCq7Eu0Y1feqhDeWf780C9Fz9XODXvY1KItdOOMLcWA2qln5iSzhAMDWux8g7jwkM3KDKS-8IAf_IF6CpVgYgU5_otq9TT4Q12DwWO8hujv3Xpi-qMH9alOJEp1tkKBQyAEWfFgQ1660UfNK1iP8IZhgSArw5STrAxgor7r3ALpKPvPiMQWqwJ0PW3g77XbOObSLYSN37949U9kuQ1r0RG38BavJjT4MP8WaVXt1nlvzrO0Ecyj6YD_veMg1-IARQ6SQ=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Zdz9CfP2GeVz7xgZde1rswhnVlJhVT09j8gLq_HEsi-G0Z_wsrbM0buMiMivfS7oJQrDg8BWf5h_wVQ1aHMOUkJ46NhGR4c2L-6J1k88jBkMvCiBiuOpohOC6hregUCywkkhC6tuUZbBk47cA60XLhzTaMIuZWV7HmvLRXhoeI45JRy-8Z-HdygMqZqVi7G-_2Mq7Dsanp8-WaJEhGUUGA==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfaDUa-6vh0l9WdL4bnoQn8PSqabwxLrdrqKo7o7z9NKButzsJpTXYbB7Agl1B2PB4b4QYh773X1j_YNCosvZb6koC8Vd0KD4qE_TQhk7C-Z7KzI_EGOxHHWiHCdZAjIc1vwBfqkRYQDG0O7X6vCPrT6qqt-Y=",
+            "title": "fantasyguru.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHStfHN4DY7n-FEZwjKc8TlnPyi1GSx9QLCKuHQO4zFehM-As3yv38d8MOhq57A2pJBkDq4kHJfOhDpMXGcLhF8DQLtAuvGAXGCq53cQ_f6CG2fcCLPkDpxw_XlE54CqDPAv3JgshxrG_lC6T3Mk0uia8CmmVYLlOgXjJV4K0lJ_g==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Jwn_cKopL9qYhtw7_-ImPFFxz0O0ck7m_Rah4tryJvhJkVqiVEowZCQxB7Vy14u4mRAwciu84WuB70BFjgKg48FoYhEZMX9WjmCW8UatU5YlS-G8NLLzwj2z1q5UcxTxPBC7frzwKrYHv09PJf6sQWgt_xugxb_71boA8owsBai2JgKK-EL-ZZ04wsBRJm2imSPhALkJb8uC",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUHQ8oK55JaQUQcLcZBvVT5COXXQ8w138BZQUaXxXWRusrIvU6FUH6K3jPZwoskwMw1DUuL8bmuxxI2j0QHWdA786ljIVXBpRf_jTyNRFlpdhy6dwRq4hRYzkRJ10fCKfJG_r4Ts5cz45kRN60QNkmzQwS9OG05hOoQs8aFpY3Q0gy0Hz0XwX4rZHBeSW2",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIip0GnE37GWbVGNNH5QAscyGHAkigCnh7_yqELgyZpMsJjTNVGqm_1vqvz8fGq0aZZyNApwzN7X3nEt81BRq_lAXbkkJiAGIkCpBb4jfNJkQkVdwO6oSmoFsFWE6eKTHWw3svMW5U7srXP92FxEa2x3NNwITmmOm7ywxICs7bxLV6ZOYmadgOPV6HpfY4R4LVtKc=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9SFd0OZ_j6SbvxbdaIAv37uDYoyPCfsIQQVYJUjZpzDfD24IWeif8bSYdMH1k5YxtHg35E3SLwUjkqSKbTgEoRLbuFsMPAlSBwpFzDfpIG7zvWtbtDtG_P0a425hEYhsGCzo3Cr6IuD_kD73Ij6UYHbAVhJ-X5HW_S1E_csCENasptnSaOI3nYLujQiwp2UG8NpBkZaWySg==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7kApPiNVYtarSW6VbLK4g7QG-0DllkvUczPpzGPLyLOyK18WpBauur23Kbs-yXeaHX-ilJWt1S96gNIBUW_irO4d1FOYhIsRLQnDsfmZcqar79UIeuL-DFpIFLwpm91sxdgylXZNM00C8cAKizOrieOLaTff1BOBtdgTLhp3NFPqPf1qvV6rAvnOiN0fNPhU=",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "6e0e59b1cb73592755e9585ce58188b5269ab993",
+        "aviCoreCommittedAt": "2026-08-14T04:34:39Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 64514,
+        "groundedMarketChars": 2417,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "1786673638017-cvum2d",
     "createdAt": 1786673638762,
     "expiresAt": 1787105638762,
