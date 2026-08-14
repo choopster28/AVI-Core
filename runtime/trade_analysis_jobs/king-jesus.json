@@ -1,5 +1,37 @@
 [
   {
+    "id": "mstek2qa-b9304cc9",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Jahmyr Gibbs",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Amon-Ra St. Brown",
+          "assetType": "player"
+        },
+        {
+          "name": "Isiah Pacheco",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786739485906,
+    "updatedAt": 1786739485906,
+    "expiresAt": 1787171485906,
+    "status": "queued"
+  },
+  {
     "id": "mstegimo-1c968df4",
     "phase": "initial",
     "mode": "propose_trade",
