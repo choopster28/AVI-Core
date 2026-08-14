@@ -1,5 +1,45 @@
 [
   {
+    "id": "mstfwana-f28cf193",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Smoky Valley Wheat Warriors",
+      "targetAssets": [
+        {
+          "name": "CeeDee Lamb",
+          "assetType": "player"
+        },
+        {
+          "name": "Chris Olave",
+          "assetType": "player"
+        },
+        {
+          "name": "James Cook",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        },
+        {
+          "name": "Amon-Ra St. Brown",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786741735654,
+    "updatedAt": 1786741735654,
+    "expiresAt": 1787173735654,
+    "status": "queued"
+  },
+  {
     "id": "mstfsfp1-068f5010",
     "phase": "initial",
     "mode": "propose_trade",
