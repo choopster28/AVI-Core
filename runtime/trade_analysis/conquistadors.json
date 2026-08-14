@@ -1,5 +1,463 @@
 [
   {
+    "id": "1786678935163-0ukrct",
+    "createdAt": 1786678935454,
+    "expiresAt": 1787110935454,
+    "mode": "shop_assets",
+    "title": "Shop Assets · Conquistadors",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Conquistadors",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Shopping De'Von Achane (RB, C-AVI: 97.4) places an elite, weekly slate-breaking RB1 on the trade block. As a championship-focused contender anchored by Josh Allen, Bijan Robinson, and Puka Nacua, trading Achane requires receiving a verified starting-caliber cornerstone in return to maintain title-winning C-AVI lineup scoring. Market analysis identified 3 realistic opportunities with rival contenders where Achane solves critical RB roster bottlenecks, allowing Conquistadors to convert RB surplus into top-tier WR firepower or high-upside starter packages while preserving championship probability.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite QB anchor with Josh Allen (C-AVI: 99.6 / D-AVI: 93.3)",
+            "Unmatched RB duo with Bijan Robinson (C-AVI: 99.4) and De'Von Achane (C-AVI: 97.4)",
+            "Tier-1 WR centerpiece in Puka Nacua (C-AVI: 99.6 / D-AVI: 99.4)"
+          ],
+          "priorityNeeds": [
+            "Upgrade WR2/Flex position to match S-tier scoring across all starting spots",
+            "Acquire high-upside starting depth to hedge against playoff injury volatility"
+          ],
+          "tradeableSurplus": [
+            "De'Von Achane (S-Tier RB, peak market liquidity)",
+            "Ladd McConkey (Solid WR2/Flex starter, C-AVI: 81.9)",
+            "2027 Round 2 Draft Pick (Northside Kings original)"
+          ],
+          "constraintsApplied": [
+            "Goal: Win Championship — strictly maintain or increase starting lineup C-AVI",
+            "Starter-for-Starter Realism — Achane must yield a verified starting centerpiece (C-AVI 80+)"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding teams lacked championship-caliber starter assets to package for an elite 24-year-old RB",
+            "Rival managers with balanced rosters lacked the specific RB urgency required to give up WR1 cornerstones",
+            "Teams unwilling to part with starting lineup pieces were filtered out under Starter-for-Starter rules"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Mile High Royal Lions",
+            "targetAssets": [
+              {
+                "name": "Drake London",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "WR",
+                "age": 25,
+                "cavi": 97.8,
+                "davi": 97.9,
+                "publicMarket": 98,
+                "leagueMarket": 97.5
+              },
+              {
+                "name": "J.K. Dobbins",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "RB",
+                "age": 27,
+                "cavi": 59.2,
+                "davi": 77.7,
+                "publicMarket": 62,
+                "leagueMarket": 60
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 96.8,
+                "publicMarket": 97,
+                "leagueMarket": 97
+              },
+              {
+                "name": "2027 Round 2 (Northside Kings)",
+                "assetType": "pick",
+                "owner": "Conquistadors",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Cornerstone Position Swap & Depth Acquisition",
+            "strategicGoal": "Create an untouchable WR tandem (Nacua + London) while acquiring starting RB flex depth.",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 23,
+              "packageMatch": 19,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 89,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "You acquire Drake London (C-AVI: 97.8), a true elite WR1 who locks in alongside Puka Nacua to form the highest-scoring WR core in the league. You also secure J.K. Dobbins in his new high-octane Broncos role as reliable RB depth behind Bijan Robinson.",
+            "whyOpponentMightAccept": "Mile High Royal Lions have Jahmyr Gibbs as their only top-tier RB, with Dobbins as a major liability at RB2. Adding Achane creates the most dominant Gibbs/Achane RB pairing in Autobots history, solving their single biggest title bottleneck while getting a 2027 2nd round pick.",
+            "championshipImpact": "Increases WR/Flex baseline ceiling significantly without sacrificing RB viability.",
+            "dynastyImpact": "Secures two ultra-young 25-and-under cornerstones (London and Nacua) for 5+ years.",
+            "rosterImpact": "Drake London immediately slots into WR2; Dobbins becomes premium RB3 rotational depth.",
+            "publicMarketContext": "London is locked into a $141M extension in Atlanta with a huge target baseline; Achane is entering a expanded volume role in Miami post-shoulder recovery.",
+            "risks": [
+              "Slight reduction in RB tier depth if J.K. Dobbins incurs health setbacks in Denver"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer De'Von Achane straight up for Drake London, emphasizing Achane's elite RB5 PPG ceiling that pairs with Gibbs.",
+              "acceptableConcession": "Include the 2027 2nd round pick (Northside Kings original) and ask for J.K. Dobbins to balance RB depth.",
+              "walkAwayPoint": "Walk away if Mile High Royal Lions require additional 1st round draft capital or Ladd McConkey."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Badland Banditos",
+            "targetAssets": [
+              {
+                "name": "Kenneth Walker",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "RB",
+                "age": 25,
+                "cavi": 89.9,
+                "davi": 93.9,
+                "publicMarket": 91,
+                "leagueMarket": 90
+              },
+              {
+                "name": "Brian Thomas",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "WR",
+                "age": 23,
+                "cavi": 66.5,
+                "davi": 86.2,
+                "publicMarket": 72,
+                "leagueMarket": 70
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 96.8,
+                "publicMarket": 97,
+                "leagueMarket": 97
+              }
+            ],
+            "scenarioType": "Starter Tier-Down & High-Upside Receiver Expansion",
+            "strategicGoal": "Swap S-tier RB for a high-volume Chief RB starter plus a bounce-back vertical WR1 asset.",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 21,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 84,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Kenneth Walker traded to the Kansas City Chiefs unlocks a massive high-volume, passing-game role with Patrick Mahomes (C-AVI: 89.9). Adding Brian Thomas Jr. provides elite X-receiver vertical upside as Jacksonville shifts him back into a Cooks-style primary role.",
+            "whyOpponentMightAccept": "Badland Banditos pair De'Von Achane with Ja'Marr Chase and Brock Bowers to build an unstoppable trio of game-breakers. Banditos retain Bucky Irving as their RB2, making Walker expendable for Achane's unmatched weekly ceiling.",
+            "championshipImpact": "Maintains RB1 scoring tier with Walker in Kansas City while drastically boosting WR flex depth.",
+            "dynastyImpact": "Acquires two young blue-chip starting pieces (ages 25 and 23) in premium offensive systems.",
+            "rosterImpact": "Kenneth Walker slides directly into the starting RB2 slot; Brian Thomas elevates WR flex competition.",
+            "publicMarketContext": "Walker's move to Kansas City has rocketed his redraft/dynasty value; Thomas is widely rated as a premier post-hype bounce-back target in camp.",
+            "risks": [
+              "Achane outscoring Walker on a per-touch efficiency basis during fantasy playoffs"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Achane for Walker + Brian Thomas Jr., citing Achane's overall RB1 ceiling in Miami's scheme.",
+              "acceptableConcession": "Add a late 2027 3rd/4th round pick swap if Banditos request minor sweetener.",
+              "walkAwayPoint": "Walk away if Banditos remove Brian Thomas or demand 1st round draft capital."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Big Balder Brand",
+            "targetAssets": [
+              {
+                "name": "Omarion Hampton",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 23,
+                "cavi": 91.9,
+                "davi": 95.3,
+                "publicMarket": 93,
+                "leagueMarket": 92
+              },
+              {
+                "name": "Rashee Rice",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 26,
+                "cavi": 96,
+                "davi": 93.9,
+                "publicMarket": 95,
+                "leagueMarket": 94
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 96.8,
+                "publicMarket": 97,
+                "leagueMarket": 97
+              },
+              {
+                "name": "Ladd McConkey",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "WR",
+                "age": 24,
+                "cavi": 81.9,
+                "davi": 92.6,
+                "publicMarket": 85,
+                "leagueMarket": 83
+              }
+            ],
+            "scenarioType": "Multi-Starter Blockbuster Swap",
+            "strategicGoal": "Upgrade WR flex firepower to Rashee Rice while maintaining explosive RB2 scoring with Omarion Hampton.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 19,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 78,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "You acquire Rashee Rice (C-AVI: 96.0), Patrick Mahomes' dominant top target, providing a massive upgrade over Ladd McConkey. You cushion the loss of Achane by securing breakout Chargers starter Omarion Hampton (C-AVI: 91.9) under Mike McDaniel.",
+            "whyOpponentMightAccept": "Big Balder Brand holds an extreme RB surplus (Hampton, Saquon Barkley, Jeremiyah Love). Adding Achane gives them the undisputed RB1 overall ceiling asset while receiving Ladd McConkey as a reliable young WR starter.",
+            "championshipImpact": "Nets a net positive C-AVI gain in starting lineup by upgrading Flex from McConkey (81.9) to Rice (96.0).",
+            "dynastyImpact": "Gains two elite young assets on top-tier passing/running offenses (Chiefs and Chargers).",
+            "rosterImpact": "Hampton takes over starting RB2; Rashee Rice instantly anchors WR2/Flex alongside Puka Nacua.",
+            "publicMarketContext": "Hampton is surging into top-12 RB redraft rankings in McDaniel's offense; Rashee Rice is fully cleared after off-field issues and dominating camp 11-on-11 drills.",
+            "risks": [
+              "Giving up McConkey's long-term Herbert chemistry if Chargers passing volume expands"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Achane + McConkey for Hampton + Rice, highlighting Achane's S-tier status and McConkey's WR2 youth.",
+              "acceptableConcession": "Include 2027 3rd round pick if Big Balder Brand requests a slight draft bridge.",
+              "walkAwayPoint": "Walk away if Big Balder Brand tries to substitute Rice with Chris Godwin or demands 1st round draft capital."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Ladd McConkey news 2026 fantasy",
+          "Drake London news 2026 fantasy",
+          "Jahmyr Gibbs news 2026 fantasy",
+          "DeVon Achane news 2026 fantasy",
+          "Omarion Hampton NFL draft 2026 team",
+          "Rashee Rice news 2026 fantasy",
+          "Kenneth Walker news 2026 fantasy",
+          "Brian Thomas Jr news 2026 fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBhEiti9z3qjj3lXrmnj0CbAueeFfh0CxFR5lvjescPCTtPAbofuyk08bNcgv9dSIysOJz-ENVGACSQvo5kAuJlIdD4Qyql9Ibd19yVZbwxHSriZ1aI3IKVkEcRIORNWd-LXp2lvp6nukRWalCDg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh7tpmLWQRHjynlLM8TpV9FdC4j4e6eMBYLVJb94dU5kH1Lu538H7U8cjrNDLz59pwm5CLFRyCxexX2h0JAv5bWPcjcke_hHQGWTwkRiqcVIvB7sU8fefZ1_BFEt9uqHWD8BPwWgU06QofHmT3rmiIDFz7RX5HO78RNle_jO4ab0MYih4VGzNDNCnnfjvPSwrK7QmrYNHnLVGYYktW80SdXvaz0h4iXlmnD5zqMVM9lnM=",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8ZDX4WTq4ls6nRizE1T9EuSVqe_PVQxnm7BEQDCjXPDOFDEPKdZqcfCka8kG4LD48c4T55zUVSGn5DCtBoeaqEEui5acf8XiuHoLZMQbBfKz7_vioSgvBErVbAFVYAEHybraGAJDrWncaYLBYiRAp2cZG3XGnPomqF71Wr34dGbYxgendPufjpLifIn77w2AgTuELoWvI3jHswUDb3JndX3QviA==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY-jKlvUw335ceQROogr8E8u8lDwbz664H95ru7CaGQbh9re0jcTYHkBpuriYFPgvp-xvPDT077HrUluUR6AZzkenP6voIJij3I9QT6e-L3xHo9AsriXhFyOj5w5TGGWDJYYNMYflpKtITEhAmsNixZWzhOy82EKinp7LVak_h8-Rf9TAR--aVtZ3xr2mUQkQuxE47Zj6d0HQu5RyCFdEqi6_E",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpQ2LOv8vTXm8sdZ5spka8i0Idcu1a9RPbO66i7SqZAqChqNN4iubkpYLWi__LNYZGST5qXvW1rrZQAovWxERbDyk-Lk72oXBymAvlO-n9RQRpbCwJdb4Mx1AEe9XUuRPUoQM3scnaWgvF59u5mFUxzbtseKkYXE9NvD8OmyO71s4A1TTfU3qNJSidT3W_",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY86aUfvgOE9Qj-IyDloq5K0PuzvmSZoW2yztYKD-JOc1afTiPseAvzs7T4w3lAgYHIXcaMNa-oWcTcQ0x45YPeHujoUY1qeRqiK3exVzhxhzEaEzZhvdM2sCvGtlG_siwCa9s4kdo3cuIBqG6l9kWNZ_3kO3cG2zFDetOmo8zvg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFASBVLO-CoFsHI672SrQ3fz7RY-XQSqMMTo0RTp3boc0EsQKxqcyb-lltdxHpy0suiV0JZ-8ncfbDRBcfUEPNwXz4nq3ISNSFMJuBdi4EFxE7YL2ojFwS71b3scvROC-5zQNg1zYXvlFK0kD_GIA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzv6Uaveg-drrrVJLPXu6CazcOUJXOfqyksF-BG6QDw7ej006YS-4tcnYAygmAwjBqDvFadb53rwHR0N-hyRWhCvtIOIGjE6ixn9DGpksUWWwuTrV9mtZwokhv9oacGrQAQVDtq81adsJv9KeIkMQHyupvc19HbuhbUOXH2fumqMqtFZ56tvKI2osHvYcC",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqQ0Ep_WM2x1r6Kbayn8B4gBpbnny4Ijy5v7V-GdhWg2CJF0QnTx0np36Kw-RQAhPCyNTVEqJaz7weFkAoj9E0MN6lMjqymIOzHmcVkXKzNaKp_SV6ZH6dgQ0gAF9qe6BKHbVy7vcvwA5v3aT-9VKn8ig-Rvt7D1xGdwHbwaoZVA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbFrc2_aGq3gr7jPcBNSo0_Lc7iN6YafDHciGeLpc-PU-pRyaxXQW35DuXKIvQP8doBhSDq5HrQ8cIUlC5gck1Jx_hCpeT3qoNgtkceaggSstKA4xLSsAJiRPHd80alMhSjCY58q3bjnX3JU1Qzo=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8vKGdjKvA4T6x3xRX9hbw6yjOZ5wNAIaoQ-r4lsRzvnri8ZoXVWsw2HfVqqQI-1cac4AJtcx56UFEd6LWBA9UTk4bB1grnL7hTcmslJmLRCIO1CCOhTjN2g6yHNUfdXlCtJla0wkk2CCZgBrP5UejUxCPt0E4",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6wXg5YiBUqySX81BCY5tzeKBRszjvsadQlZHdTZVOKXrzkGViV3mBYdh3YRH_vgoGr-PAZ5mDOposNyTU9J-tEENZX15gmqrKOyMO6co3sM8ORMXysaA6hwY4w_n2IVPwhwe5p6mho5uYO3dV_FaqW4A056lzMlZLEM58amLTMWHQ1JwJKRJZkoLvdhk35yBxpgB_p6qK2BIRxA==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxWRLtAgrs65vwvh_Cl32GpmzFmMiA9GG0GR54hLFLF7Y2TDuBJ8JLvw0HQMyJfFdKzI4vYre6iGGj2RAj-C1LeubFJ7c-IOkqPdSbMQj0jTMH9XmmXEqWg-bTZweSzAhSCXT4R9vfbvkH6JfrVUb-MlJzbQaqDa5eOONWYF7dVQJO69bTTclc6WH4Ey9nrBLxp94Cptua6nYQnWDNw0LO",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKSPh7dwskL9hYnPbyBdbgGC4y27IQa4r5aC-aDBpLCaJ8sIaim9c6OPU4wCTlbDRON0xzMmcIApV1zSwNn9ota2cAwhdmoJiQ4bOhQEqlGl5COXviriP9IS_VXFyWxnf7R0UhhQNQsGOXe4Ns",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTpDLcVmgTDCVrHihWWR6VmIm2at6HS44LgCJQsCSKE8VwgRBkwzXF7ZsNYRtIqfdVgwskyxWP-wpKORrjUzfJ2r9GpkKhDjWXIoe9zf95CgsXqTk2FQfWrPSfg9NQQcvMn9_hMI910Lr5XWdwnpOZmx4aLjaDnm3LzIROvbLg",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOlqDZog47NBEYS6QmgHrT6RzCSKtAThFW-MHYVJVX_Roz6khTzlVWhI5iCbMh-hzWhivhy1FTKmfGgLcNX9vcwN2JzcRXswD9KOcfzfZLDqSsyeBUY8v4rEXbUINZYDw3",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGny_DrDz6Wn3DDmR04xVsm9wx7Alq4j8s0Pxdm4zB0MdQBzG_QW5N_c2sCvsMBqR17K1zNzwuhJz7AQc2hR3hckJ3aCohQS9V4A991lSlC9_w8eHXvJuYFzAWXc8uGi_1CKMpHU5ytUHZfDGR7-xVVxTemA4HdMdGDRZnnY8kSrsmO4GEsug6E_XxCDzNDcUF-SFMD40sFk8bg4LiNjZ7gn9VJLmFaATRudfXsSimxtuXcS9kT3FzL-3kLzisUeocyXJujRHY=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFhVFGHBaOGNHHc61DhWTrgXC4S8QYLFpVvxr8kGFgd1iHBhE2eMakjBTF9qolOBtXEYu8tf6ZaWkXNPx8qIF6YA5m7TGWfiFDX9W6T4X0zYCarhsoK-dP_GP8RqM_2ylZAmdZlKOkJJZyt4vIKmepShMCYyT24Sj3rWdFBVbXfvMovGELZwIAVafX2wulsZndtxZRehwM0lnepA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtNgZOLf6XxW73ipK1SbnWU32obFUamypIkLRvCYW8D6SdxxVHZkcGiOzqQWujp0g6XDHfzh3Mx4KUZB7BQHxv33fsyjOSFs0XPa94aluVYo0BDlCzXEIopm2eIT3AUyUNG-xYt2t5eKHmQvMcW5ZqZypPZb6B3O0yqYXbfpB8EKX0gAGgv3Wmmfm53M_O",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3mXjwCMTtbhmF2EaaHT-o_BJY_NUdEWELCsn4gKjxHXp9ALJ8ZqCwIY9hy3pYL4ROASDzEABHq_s6HJaY9bWV-PJrikBy-VC6va_VF5MGY-WkGbfLFcn5Bvq0zU6nVQBcYysaOR_FalkRKzxnSkdp191zIEJgACpPUfsjga6vgNHWbw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-E8zvruIbxH1-1L7rmClpeYaRFT7C_JnXkW7lFwH0FGx6Lgv7nSNeGpFQAfdTf_HYM1PYzmzjAwsi5CiV5ebb6KyfzilCZtKLGn9T455wXib8dCi2Z-Cih1wASdTeclmFC2Ar7rI-nC8dT95itzDGHu45WyR9a5R7hXaOEdAIID9aqEBOWsYAR_PS2fttOy37uCp3jSNnrUwX_4YU0g==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrWqXurJZTi-Tk9t8Le8Fxu54Ty0fEUCmien3FR8TNcyrdZQjsUx9LACjSXx_olYPwqCChQMy1ePBkK6U2x1Xh51kEl_M6gqQ9g2PvgnWL4C4_conwirxgNi6TPdQ8KQzw6abU3ULKvnh-MuWUZI0syT0i7qfa0pYdad2gnzuuqFWD7ahzXxDHDtlCDc45qIMxTEb9wUjyN3UnnW5U1gOv0gM96tiwLg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfhycNHSteTNkKZ-CK37rw1Jl8kOOm8NJ8OF8T6fXoo69ByjWInUL2fAmSWtarXESpz8-fZYEjCXNpV2U17wrMFPJ0src5tybEi1H1rFo7SgPuKgCxcmSDAn7em96b9tscKfP4eUYMvs_tNQVTLMlJhBbtVrweDlKN3ovsjvaUBb3SihXtCIlIOFbf8Nm6wBUwcsuBFfg=",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Jahmyr Gibbs",
+          "Drake London",
+          "De'Von Achane",
+          "Ladd McConkey",
+          "Omarion Hampton",
+          "Rashee Rice",
+          "Kenneth Walker",
+          "Brian Thomas"
+        ],
+        "aviCoreCommitSha": "7b99d9cf46c33124c065c6a6ae98f930a507194b",
+        "aviCoreCommittedAt": "2026-08-13T23:23:17Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 411720,
+        "personalContextProvided": false
+      }
+    }
+  },
+  {
     "id": "1786668746288-jmxkxo",
     "createdAt": 1786668746393,
     "expiresAt": 1787100746393,
