@@ -1,5 +1,45 @@
 [
   {
+    "id": "mstfhjww-46e478fe",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Smoky Valley Wheat Warriors",
+      "targetAssets": [
+        {
+          "name": "CeeDee Lamb",
+          "assetType": "player"
+        },
+        {
+          "name": "Chris Olave",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · Wheat Warriors · Projected late range (1.10–1.16)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        },
+        {
+          "name": "Amon-Ra St. Brown",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786741047824,
+    "updatedAt": 1786741047824,
+    "expiresAt": 1787173047824,
+    "status": "queued"
+  },
+  {
     "id": "mstew6k2-a2c37500",
     "phase": "initial",
     "mode": "propose_trade",
