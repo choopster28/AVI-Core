@@ -1,5 +1,372 @@
 [
   {
+    "id": "1786691231868-uvlemv",
+    "createdAt": 1786691232061,
+    "expiresAt": 1787123232061,
+    "mode": "propose_trade",
+    "title": "Build Offer · Corgi Loaf Baking Co. ↔ Conquistadors",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. constructs a targeted trade proposal to acquire elite RB De'Von Achane from Conquistadors, who publicly listed him on the Autobots league trade block. By sending starting RB D'Andre Swift, high-end WR DJ Moore, and a 2027 1st-round draft pick (DMV Fantasy), Corgi leverages depth and capital to secure an S-tier RB anchor for its championship run. This proposal delivers Conquistadors an immediate starting RB replacement, an upgraded FLEX starter, and premium future liquidity, yielding a 92% acceptance probability.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 78,
+              "davi": 86.6,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 76.3,
+              "davi": 87.1,
+              "publicMarket": 74,
+              "leagueMarket": 76.3
+            },
+            {
+              "name": "2027 Round 1 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 95,
+              "leagueMarket": 97.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. consolidates depth and draft capital into elite S-tier talent in De'Von Achane (97.4 C-AVI), raising its starting lineup score from 668.3 to 677.1. Conquistadors receives an immediate starting RB replacement in D'Andre Swift (78.0 C-AVI), a FLEX upgrade in DJ Moore (76.3 C-AVI), and a liquid 2027 1st-round pick, maintaining lineup competitiveness while adding draft flexibility."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "AVI endorses this proposal structure as optimal. The package delivers strong market value for a confirmed trade-block cornerstone without compromising Corgi's top wideouts (Justin Jefferson, Malik Nabers, Christian Watson)."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Material net gain by acquiring a premier top-5 dynasty/redraft RB anchor."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Boosts starting lineup C-AVI by +8.8 points with Achane anchoring the backfield alongside Cam Skattebo."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Acquires a 24-year-old centerpiece RB locked into a multi-year extension in Miami."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Upgrades RB2 to S-tier while Wan'Dale Robinson seamlessly enters the FLEX2 starting slot."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Trades away WR/RB depth starters, slightly slimming bench options."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders a 2027 1st-round pick, reducing future draft capital liquidity."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 15,
+              "summary": "Maintains championship viability while adding substantial roster depth and future draft assets."
+            },
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Slight starting lineup C-AVI drop (-5.7 points), but buffers the RB vacancy with D'Andre Swift."
+            },
+            "dynastyOutlook": {
+              "score": 10,
+              "summary": "Adds a 2027 1st-round pick and enhances overall roster balance across multiple starting slots."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Exchanges Achane's elite ceiling for Swift at RB2 plus DJ Moore at FLEX2 over Juwan Johnson."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Improves starting FLEX depth and overall lineup insulation against injuries."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Acquires a liquid 2027 1st-round pick (DMV Fantasy) for future trade options."
+            }
+          },
+          "explanation": "Corgi Loaf Baking Co. executes a classic championship consolidation trade, converting depth and future draft capital into an S-tier RB anchor. Conquistadors diversifies single-player injury risk, solidifies its starting FLEX, and restores future draft currency."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi's best realistic starting lineup C-AVI increases from 668.3 to 677.1 (+8.8 C-AVI). Pairing Achane with Cam Skattebo establishes one of the league's most potent starting RB duos.",
+          "sideADynastyImpact": "De'Von Achane (97.0 D-AVI, age 24.0) provides a long-term blue-chip foundation alongside Malik Nabers and Tyler Warren.",
+          "sideARosterImpact": "Consolidates three valuable assets into a top-tier star, while preserving core WR starters Justin Jefferson, Malik Nabers, and Christian Watson.",
+          "sideBChampionshipImpact": "Conquistadors absorbs a modest starting lineup C-AVI shift from 724.5 to 718.8 (-5.7 C-AVI). D'Andre Swift steps directly into RB2, and DJ Moore upgrades FLEX2 over Juwan Johnson.",
+          "sideBDynastyImpact": "Acquires a 2027 1st-round pick (79.3 AVI) along with two established, productive starters in Swift (86.6 D-AVI) and Moore (87.1 D-AVI).",
+          "sideBRosterImpact": "Transforms a single elite piece into three distinct assets, addressing RB depth, upgrading FLEX2, and acquiring future draft liquidity.",
+          "valueAssessment": "Combined value sent (Swift 78.0 + Moore 76.3 + 2027 1st 79.3 = 233.6 sum) matches the premium market compensation required to acquire an S-tier RB (Achane 97.4) in a 16-team league."
+        },
+        "publicMarketAnalysis": {
+          "summary": "De'Von Achane signed a lucrative 4-year contract extension with Miami in May 2026 and posted 1,838 total scrimmage yards in 2025. Public consensus dynasty metrics rank him as a top-6 RB overall.",
+          "aviVsMarket": "AVI scores Achane at 97.4 C-AVI / 97.0 D-AVI, matching high-end public market consensus (KeepTradeCut / Dynasty Daddy tier-one RB status).",
+          "relevantContext": [
+            "Achane signed a $64M-$68M 4-year extension with Miami in May 2026, securing long-term volume.",
+            "Finished 2025 with 1,350 rushing yards (5.7 YPC) and 67 receptions for 1,838 total scrimmage yards.",
+            "Confirmed on the Autobots league trade block by Conquistadors management."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors publicly listed Achane on the trade block to seek lineup depth and future draft assets while keeping their roster in championship contention.",
+          "packageFit": "The package directly solves Conquistadors' primary challenge if trading Achane: providing an immediate starting RB2 (Swift) and a high-end FLEX WR (Moore), plus a 2027 1st-round pick.",
+          "lineupReplacement": "D'Andre Swift prevents Conquistadors from dropping to backup RBs like Tyjae Spears or Keaton Mitchell, preserving their playoff standing.",
+          "competitiveWindowFit": "Both franchises are active contenders; the trade balances immediate weekly scoring with future asset management.",
+          "positionalScarcity": "In a 16-team league, RB1 production is extraordinarily scarce. Acquiring an S-tier RB requires a starter-level RB, a FLEX WR, and a 1st-round pick."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 0,
+            "lineupReplacement": 13,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 74,
+          "classification": "Realistic",
+          "explanation": "Achane is confirmed on the trade block. The proposed package solves Conquistadors' RB replacement need, upgrades their FLEX, and adds a 2027 1st-round pick, meeting all front-office criteria for partner acceptance."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Elite target De'Von Achane requires a premium near-peer centerpiece. Lesser or aging pieces plus picks do not create a credible cornerstone package.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 78,
+              "davi": 86.6,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            },
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 72,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2027 Round 1 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 95,
+              "leagueMarket": 97.4
+            }
+          ],
+          "rationale": "If Conquistadors prefers a younger wide receiver (Christian Watson, age 27, 72.0 C-AVI) over DJ Moore (age 29), this alternative package offers younger upside alongside the 1st-round pick."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "insufficientValue",
+          "summary": "Elite target De'Von Achane requires a premium near-peer centerpiece. Lesser or aging pieces plus picks do not create a credible cornerstone package.",
+          "failedFactors": [
+            {
+              "factor": "insufficientValue",
+              "explanation": "Elite target De'Von Achane requires a premium near-peer centerpiece. Lesser or aging pieces plus picks do not create a credible cornerstone package."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "The package directly solves Conquistadors' primary challenge if trading Achane: providing an immediate starting RB2 (Swift) and a high-end FLEX WR (Moore), plus a 2027 1st-round pick."
+            }
+          ],
+          "opponentPerspective": "Conquistadors publicly listed Achane on the trade block to seek lineup depth and future draft assets while keeping their roster in championship contention.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Use a premium near-peer cornerstone as the centerpiece, then add only the sweetener needed to bridge the remaining gap.",
+          "whatWouldNeedToChange": [
+            "Elite target De'Von Achane requires a premium near-peer centerpiece. Lesser or aging pieces plus picks do not create a credible cornerstone package.",
+            "Elite target De'Von Achane requires a premium near-peer centerpiece. Lesser or aging pieces plus picks do not create a credible cornerstone package.",
+            "The package directly solves Conquistadors' primary challenge if trading Achane: providing an immediate starting RB2 (Swift) and a high-end FLEX WR (Moore), plus a 2027 1st-round pick."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "De Von Achane fantasy value 2026 dynasty",
+          "De Von Achane news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFryRqVSRcn18UqhHcGyYGnfivFyQA0MjA8dH94onz1gKMuGzCygkW_qnXiYn_XyaqDFU8c2CL_SwpW_tjkKUodJ6wmNXhhXhsxqAM96-h1K6YZdPsUyaYstHs8NwHd0d33R69nQeLq6SIfA5XDVooLdcPEeWJRtIebGC79huWKcloV_bsKV0S6YqFElwzAdx_86Idon1FPTRYi",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZDT9WBK6pHEB8CGuzV9bCw7zmapAgptymYVAbAcYNyvErs4NQYCHnMhdcMkCfxM3g5OWpEyNsYRSbcmq3GXy0regQUB7Vq4Rpm63rvCHB2GEtmXcp8XM6YXsXDh_T72x_qrwMhS4Rrgwyp4pXXKpccpoM9k5Ngh9p4LYcycEMPMMBuxqS5U_iW-vNn1-iwR6_ZskN0cXUvq9uliUFSQLbHaDhh_vwuEejpIqajtBpQ5w_V6NksfF6lqFLDw==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBCOK8Xe0uGkIsa7woyEqbxf_2AwHDQhhtCystALdhhxNyvBug_t5BjaYpZGpZkvB04jUu0pMhyK8eBVqJ4ihLMP5WHD-eDBADOSpfBlIt1LUNnUNoG0c7texGBAfFy5yOs14SeC_PS0aXwtPO",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy5iO4sPvX2EiCrXCvL5Ez-n01ksLBkWBKiHIWzIJQuzQbpF8e9X5D-Qij6ONWDrO5asz25AjFLS_AGaFnV8q7AzGJmnF6w2ibsIsr4-w3aUpYNTIvci4RvnBx3yniQcpFwp6TiM8l3q0nNApw6Xz2pkfuvTY_O3c4ZcfVjylMIrFNvXhfMqG2NzQKsA==",
+            "title": "12thman.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHTgwFvmOLu2c5YWXWq1ApmVz_Jf66Ri9iSb_lMa5qnNQSTBhWbzucq45FDbpA_qMw--ZBtIC75nQ9Hhneh1yazekyoLWCmbo-M5K_RR6eA-sqP60ios_g8E3H5IvgJVrbpO9Bn9Ta1KeIMkyFII-RYsr3_DK0vhEGdbsqO6bELfN97sAqcXcmn8dub5fxz4_jjp_oPPNHqw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqad2s1ZIC2S2ac0av7SWUB0zrEl0zx-Ns8-gAhupHfBQEiDWESGAKZlLMsQfBI1n4Khwi0q3fEa6BV2mqmnCrsJcNH5cOqkw--hpgyh09oMh1uDQ0x6QREtG0JSJ-rcS4kr7anEDX6Tu02aoHwYc3hH7_VhIj-FMdAtpakQn9DHoPBPy3CmQ_MA==",
+            "title": "miamidolphins.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoFYHFxmpN8iiuvpmpNw91XRMJaKXlQB89pfB-Ji8CVe0_3OQflg2VnY5CmXnyDkQMY68EMlJVAX5W-XE7Lt0ubTKbJv86TYX5GFRhNTjo0MviUXkhXbQ7yvIv4fkAMonJ_y75CM6_oCPpMHIwHm1PDiz33X_wmX6NarFMSNKadpZB_RuQQinr37URI6tLXnG2qNxstuv9P0LCALH7Ug==",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk3iLAn60NEgg9SnPrg-qoZOiEajOXdqXnynjSzOXaKOLfyBy5RoEXAUELL2Sbe5DqqUE2VQysJo-AfNEan_V4-3Zm0Me9n6c-FefzPh-83clUKxD9x76Il3o7zvrmtXFhCjcHrtRqQRWLdBp_xQ==",
+            "title": "dynasty-daddy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUciViARaVGEmQLfsxMrebI4X4-nnTIoL7BfNb1nngf3_qh4isxYHfxp_HEcsxRcn0R6ZyHK0zgnzVigmmPQ5_2dZ08mwelE9_wJjZx2RIU41H3M9yFqbimqCQ0vivrNKkCzjchGWJiAqqzurz-TjpnWoczhQH_MgzxMnPabKl8L0wqP1RVjZq0igmw2YMp6cHDg==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKfFqzLDwQfY4thSwGXa1DxUiYQfyo5bHCAkPXDvQJ3ocJ3fQ0emj0j46AG7-TX8PfwYXFn-G37dHBsKRSkb4rqyoiYgXp1_WOc_teg_VB530Mu112IeFJdrj-NyUWvsz82Os6oOTb_F7jKAISaUtIqm2OHGCC61EwYQDWs9odkiWH2i0lPM2LjCkMynZxBCnkIxo=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnUmyZn49Fd5Mxx_hILtqshV6JSuClws5bdmwO038MnR0Qvluqp9lkVxaWBL0aWZy78Ee8oJ5iw8G4U05pVKt1LzbjvBthx9uJpb1Ncf2LJCx2JwxZFDERQg8jirRcq-Hc",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaq2Y0izNOOqI5fz3dUG3Me_ONKDELGCSNxOnEvoiRh4VoKvjfAFzMwkVMzybskIHaAO9blYL6tLLksgcEyGm5ax7NAiqEoYPzjmt6GE94rn5Kgk21H9m7c6XlaZ-R-JqNKVBahEro1OR5PZeW6A==",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "f6c04240b7425389e18cadfd19a584717ac2d83c",
+        "aviCoreCommittedAt": "2026-08-14T06:56:45Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 66738,
+        "groundedMarketChars": 2402,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "1786691114347-9xqjoi",
     "createdAt": 1786691114583,
     "expiresAt": 1787123114583,
