@@ -23,8 +23,340 @@
       ]
     },
     "createdAt": 1786723635006,
-    "updatedAt": 1786723636001,
+    "updatedAt": 1786723694892,
     "expiresAt": 1787155635006,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand can leverage foundation asset Jaxson Dart alongside surplus bench receiver Chris Godwin to target S-tier quarterback Jayden Daniels from DMV Fantasy. In a 16-team 1QB format, Daniels provides slate-breaking weekly upside (95.9 C-AVI / 322.6 projected PPR points). Because DMV Fantasy has urgent starting WR/FLEX depth needs and only Aaron Rodgers behind Daniels, sending Dart (82.4 C-AVI / 310.3 projected points) alongside Godwin (62.1 C-AVI) addresses DMV's lineup hole while maintaining a top-10 fantasy QB starter for them, yielding a highly realistic proposal path (74% acceptance probability).",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 82.4,
+              "davi": 83.4,
+              "publicMarket": 80,
+              "leagueMarket": 82.4
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 62.1,
+              "davi": 79.3,
+              "publicMarket": 65,
+              "leagueMarket": 62.1
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "QB",
+              "age": 25,
+              "cavi": 95.9,
+              "davi": 90.6,
+              "publicMarket": 92,
+              "leagueMarket": 95.9
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand optimizes its championship portfolio by upgrading its starting QB position to Jayden Daniels (95.9 C-AVI) without losing any of its current 8 starting offensive producers, as Godwin currently resides on BBB's bench. DMV Fantasy gains an immediate starting WR2/FLEX upgrade in Godwin while retaining a 23-year-old starter at QB in Dart."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "This proposed construction maximizes Big Balder Brand's championship ceiling by converting bench WR depth into an S-tier dual-threat quarterback, while offering DMV Fantasy a clear starting-lineup solution."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 22,
+              "summary": "Elevates QB starting ceiling to elite tier with Jayden Daniels while surrendering surplus bench receiver depth in 1QB."
+            },
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Gains weekly slate-breaking QB upside with Jayden Daniels (322.6 projected points vs Dart's 310.3) without weakening any current starting slot."
+            },
+            "dynastyOutlook": {
+              "score": 18,
+              "summary": "Secures a proven 25-year-old franchise dual-threat QB anchored at 90.6 D-AVI."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Directly upgrades starting QB slot from 82.4 C-AVI to 95.9 C-AVI."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Parts with Chris Godwin, slightly reducing secondary receiver bench depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 5,
+              "summary": "Consolidates secondary depth into a premier cornerstone asset."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 12,
+              "summary": "Replaces Daniels with starting QB Jaxson Dart while acquiring needed starting WR/FLEX depth in Godwin."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Improves total lineup balance in 16-team PPR by upgrading a weak FLEX slot with Godwin while maintaining a top-10 QB option in Dart."
+            },
+            "dynastyOutlook": {
+              "score": 5,
+              "summary": "Maintains a young QB core with 23-year-old Dart (83.4 D-AVI) while adding proven receiving production."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Exchanges a slight QB projection drop for an immediate PPR upgrade across receiver slots."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds established WR depth in Chris Godwin to bolster a shallow receiving room."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Enhances lineup deployment flexibility across WR and FLEX positions."
+            }
+          },
+          "explanation": "In a 16-team 1QB dynasty league, Big Balder Brand leverages its stacked starting lineup depth (Saquon, Love, Hampton, Rice, AJ Brown, Collins, McBride) to absorb sending bench receiver Godwin alongside Jaxson Dart. DMV Fantasy gains starting depth where it desperately needs it without sacrificing a starting QB option."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand increases starting QB ceiling from 82.4 C-AVI (Dart) to 95.9 C-AVI (Daniels), adding +12.3 projected PPR points at QB1 across the season.",
+          "sideADynastyImpact": "BBB acquires a 25-year-old elite dual-threat QB with a 90.6 D-AVI index, solidifying the top tier of its dynasty foundation.",
+          "sideARosterImpact": "BBB trades bench WR Chris Godwin, keeping its elite starting 8 offensive core fully intact while elevating QB1.",
+          "sideBChampionshipImpact": "DMV Fantasy moves from Daniels (95.9) to Dart (82.4) at QB1 but gains WR starter Chris Godwin (62.1 C-AVI) to upgrade their WR2 or FLEX position.",
+          "sideBDynastyImpact": "DMV maintains a 23-year-old starting QB in Dart (83.4 D-AVI) while resolving positional imbalances.",
+          "sideBRosterImpact": "DMV fills a major hole in receiver depth, sliding Godwin directly into their weekly starting lineup.",
+          "valueAssessment": "Fair 1QB trade structure where Big Balder Brand pays a bench starter premium (Godwin) alongside foundation QB Dart to secure elite S-tier QB upside."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Jayden Daniels is consensus-ranked as a top-4 dynasty quarterback globally due to his elite dual-threat rushing ceiling. Jaxson Dart is regarded as a promising 23-year-old starting QB entering Year 2.",
+          "aviVsMarket": "In 1QB fantasy formats, public market consensus values elite rushing QB upside, making a QB swap with a startable WR asset a logical market structure.",
+          "relevantContext": [
+            "Jayden Daniels won 2024 NFL Offensive Rookie of the Year with 3,568 passing yards and 891 rushing yards.",
+            "Daniels enters 2026 fully healthy in Washington Commanders training camp with locked-in dual-threat fantasy upside.",
+            "In 16-team 1QB dynasty, top-tier rushing QBs provide weekly slate-breaking advantages."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "DMV Fantasy has thin WR depth (McLaurin, Shakir, Jennings). Acquiring Chris Godwin provides immediate starting WR/FLEX production while keeping a 23-year-old starter at QB in Jaxson Dart.",
+          "packageFit": "Jaxson Dart replaces Jayden Daniels directly as DMV's QB1, while Chris Godwin immediately enters DMV's starting lineup at WR2/FLEX.",
+          "lineupReplacement": "Jaxson Dart projects for 310.3 PPR points (vs Daniels' 322.6), making the dropoff at QB very manageable for DMV while gaining 175.8 projected points from Godwin.",
+          "competitiveWindowFit": "Both teams are in competitive windows; Big Balder Brand seeks peak championship upside, while DMV needs starter balance across slots.",
+          "positionalScarcity": "In 1QB, elite rushing QBs command a premium, but starting WR quality depth is crucial in 16-team leagues."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 20,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 74,
+          "classification": "Realistic",
+          "explanation": "DMV Fantasy has a clear roster need at WR/FLEX. Exchanging Jayden Daniels for Jaxson Dart + Chris Godwin allows DMV to maintain a top-10 QB option while immediately improving starting WR/FLEX scoring."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Big Balder Brand can upgrade from Jaxson Dart to Jayden Daniels without touching its core starting lineup by pairing Dart with bench receiver Chris Godwin. DMV Fantasy gets a starting QB replacement in Dart plus much-needed starting WR depth.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 82.4,
+              "davi": 83.4,
+              "publicMarket": 80,
+              "leagueMarket": 82.4
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 62.1,
+              "davi": 79.3,
+              "publicMarket": 65,
+              "leagueMarket": 62.1
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "QB",
+              "age": 25,
+              "cavi": 95.9,
+              "davi": 90.6,
+              "publicMarket": 92,
+              "leagueMarket": 95.9
+            }
+          ],
+          "whyUserShouldDoIt": "Big Balder Brand elevates its QB ceiling to elite S-tier (Daniels) for a championship run while only parting with bench receiver depth.",
+          "whyOpponentMightAccept": "DMV Fantasy receives a 23-year-old starter QB in Dart who projects for 310+ points, plus a reliable starting WR in Godwin to fix their weak WR/FLEX group."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 82.4,
+              "davi": 83.4,
+              "publicMarket": 80,
+              "leagueMarket": 82.4
+            },
+            {
+              "name": "2027 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "QB",
+              "age": 25,
+              "cavi": 95.9,
+              "davi": 90.6,
+              "publicMarket": 92,
+              "leagueMarket": 95.9
+            }
+          ],
+          "rationale": "If DMV Fantasy prefers draft capital over a veteran receiver, offering Dart plus a 2027 2nd-round pick gives DMV future draft flexibility while maintaining Dart as their starting QB."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jayden Daniels news 2026",
+          "Jayden Daniels fantasy outlook 2026 dynasty trade value"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn2CWOYaUMuAJyKbzASa_prlyqzp8ikHjoEqn2XcBbOwGBjce7d6Qp_BtMacSW67FAj_HL2Fg0sr-rf2M5Ay6g0h7e1eBj3GSE3JBkkLVBbVy1rODgZ96TdVAYEwFWp7hRISJMRWymcPOXZp4SxOZC",
+            "title": "dynasty-daddy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYl449BKcIGZZET7arkwEffiCOu4Z-Voil2no1qujrM-rEwmhskgPZ0kjIcM0-IV_YY1XgpJ1GkXszfPaFmRY2Tsq31OC3yPZfvQabn1jZMuBvNRVQmlSVHL2fju-fovUdSI2VPnqkS8VceZv_zG1IPowxH1etBc47dlZD",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0T4EM83lLcGUEuLOshCNwv4Fp3crfy7a6y23Mj0fmVlb0WMW9B6UKzXy3I-iTp0OgzJT-OeRivSx0H9VFU3p35W6SnrqOUCzd8MoKZpGbgBXMWruO_Ia9ewCNcYTA8wXzx8fbSaI2spPmQ_aSy9iugF5YZwOBGEVGAM0RwZLwE51VsYylMKbwR3_0hRJ_A4NNZZuzoQ==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr7URlTsXFtlHLX4IBhe5ZU8GpDaXO-FTXUS58GTRlab18VQg6MxqJMtWLARDzsTH8tL697GcO93WJ9AUuoY392k_-Me4Li0Za_MHoeRBJP_T1mOUAaRUXUngg0py0IukUkXJoRRtKq6b0yjfnGJ5A9o3EA4dCJjgAEOzCr-uVl_cadld-aSjIn-Iucg3hPCgHfs4W7wEngbjiwtoFtg==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZiaUEppWDtCCEXgqDn3_nHFuoaD3VvsamFGcOjubKqNBm5RA2wQeIwmWUpXKM16RFdDI6Bf0jPSIAZnW5n4mZI-yqoOFQsG64brb179i7joNTBnFDRsQnIvy_wIkmYfURXuEhaH74gVXfykykgMGtKi59nvqTq3puVfCVvrs7cnNPYdv54HtBqL_xsFycxpo8_ZcVgBb9269NUrGuqvKn2xCnEW-Au9AYs2rNko86Pv6CUDRt3Iwj6m0E2iiNRXV61TLgl8tB0epiww==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuJrHbQyF_qWCDZMewjPtK5h1Rzham7BXZ4IrBDcJEskI9rDKgicEDVv6J4Ebm1d6FuYpfd0_iBIi2sF_s7AU7RVRUehW73K8VgMMLlVn9kyakIL0gE8UntyDQOwxuLtjcKQzfZlzBnw-eIe8wXXIjT1MDNpb8YxhDHkFfuP4K1oXNpv4=",
+            "title": "apnews.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJdRdAh9r105-3Z7oEWk8Bd92T9rZaC1uN29O8Th3M0YvM7z0I7JetVkdtyrDlgPqYrqCBB64DjISQ89PzTSm5yO5tBzVzNEh8PrSEIQm3Q3yZlZDrzD2Q8ONFTzgv4YmZo0SUPxzXvqhCLjxqFxDfst4IZj7T0kGgnOJTwF5UzbCN1Nw-NCNzNTL-kN67h4ic9tqCFoXhhkEHztDiWQNhew==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoEeXIm5pURoPQ4CQguY1tGsXhZcy_0z7NQHsZiGhEiEuGgoe-WFvxwZwDOPNIin5nt6ctWhJGg8K2r6k83GRMxKg9V4eeenFUd2KoT0-9vA2ghwQNBt2JypBZc2wmBXLLzsCdMJqbmWdkBQzhO7X5MxbZVk5vHC4JTljh5WrL0rDlxGSgZW9FYFNT8LcrY7bOUS8rFoHRidtftfVH4GY=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbXKBkzVyh1kdZBTl2tEGJ6HvvfPB5spZdo_KYYCcpxblW1M_NCdE5-TznGsQFsFxIJePLMuwl2gCgOSgFaKW8-lKccbSu1nwMm42BprfOqMHvwQii0wvWUOT2Pdr2pp3K303pm-gxSQgCPrLikZZTNVIqBlev_0i9etDMCDdXmtLcyzQoKHeXgqUG0hujgLCjG8SistPkpDiJyt7w8oIn-FpP5Qg8dw6TW-e9DCHI",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "d2807cdc432c048d276c648e19bae6ab93184972",
+        "aviCoreCommittedAt": "2026-08-14T15:12:25Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 64628,
+        "groundedMarketChars": 2648,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
