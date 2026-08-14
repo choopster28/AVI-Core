@@ -1,5 +1,37 @@
 [
   {
+    "id": "msti5poo-da06868e",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "Rashee Rice",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786745534280,
+    "updatedAt": 1786745534280,
+    "expiresAt": 1787177534280,
+    "status": "queued"
+  },
+  {
     "id": "msti50ga-3cf57856",
     "phase": "initial",
     "mode": "propose_trade",
