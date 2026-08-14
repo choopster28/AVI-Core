@@ -1,5 +1,359 @@
 [
   {
+    "id": "mstd7ua5-6aa45589",
+    "createdAt": 1786737248387,
+    "expiresAt": 1787169248387,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · All Hail King Jesus ↔ Conquistadors",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tee Higgins",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "Would i be okay with my current roster wrs."
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "All Hail King Jesus aims to increase championship odds by acquiring elite RB De'Von Achane (97.4 C-AVI) from Conquistadors, using WR Tee Higgins (82.1 C-AVI) as the foundation asset. Pairing Higgins with a 2028 1st-round draft pick creates a balanced, highly realistic offer for Conquistadors, who explicitly listed Achane on the league trade block. Considering the user's explicit comfort with their remaining wide receiver room (anchored by elite talents like Amon-Ra St. Brown and JSN), trading Tee Higgins is fully endorsed. This proposed deal solves All Hail King Jesus's single biggest weakness—the RB position—upgrading RB1 from Aaron Jones (55.1 C-AVI) to Achane and raising starting lineup C-AVI by +19.0 net points, making All Hail King Jesus a supreme championship favorite.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.1,
+              "davi": 91.2,
+              "publicMarket": 85,
+              "leagueMarket": 84
+            },
+            {
+              "name": "2028 Round 1 (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.8,
+              "publicMarket": 95,
+              "leagueMarket": 96
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "All Hail King Jesus solves its severe RB deficiency by acquiring top-5 fantasy RB De'Von Achane, driving a net +19.0 starting C-AVI improvement across all starting slots. Conquistadors receives a high-end WR starter in Tee Higgins to bolster their receiving group alongside a 2028 1st-round pick."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "All Hail King Jesus solves its severe RB deficiency by acquiring top-5 fantasy RB De'Von Achane, driving a net +19.0 starting C-AVI improvement across all starting slots. Conquistadors receives a high-end WR starter in Tee Higgins to bolster their receiving group alongside a 2028 1st-round pick."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 85,
+              "summary": "Transformative upgrade at running back dramatically elevates championship ceiling."
+            },
+            "championshipOutlook": {
+              "score": 90,
+              "summary": "Fixes the biggest lineup weakness by adding an elite RB1 (97.4 C-AVI), boosting starting C-AVI by +19.0."
+            },
+            "dynastyOutlook": {
+              "score": 80,
+              "summary": "Acquires a 24-year-old cornerstone RB locked into a major contract extension."
+            },
+            "lineupQuality": {
+              "score": 85,
+              "summary": "RB1 leaps from 55.1 C-AVI (Aaron Jones) to 97.4 C-AVI (Achane)."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Shifts Deebo Samuel into FLEX2 to absorb Tee Higgins' departure."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Surrenders a 2028 1st-round draft pick to secure a premier starting running back."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 45,
+              "summary": "Acquires high-end WR starting utility and 1st-round capital while depth at RB absorbs the move."
+            },
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Slight hit to RB ceiling, offset by upgrading WR/FLEX starting slots with Tee Higgins."
+            },
+            "dynastyOutlook": {
+              "score": 50,
+              "summary": "Adds a 2028 1st-round pick and prime WR asset to extend competitive longevity."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Tee Higgins enters as an immediate high-volume WR/FLEX starter."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Strengthens WR depth and flexible lineup configurations."
+            },
+            "flexibilityLiquidity": {
+              "score": 80,
+              "summary": "Adds premium 2028 1st-round draft capital to an already elite championship core."
+            }
+          },
+          "explanation": "The trade generates strong mutual strategic fit: All Hail King Jesus fixes its fatal RB slot to push for the title, while Conquistadors monetizes an available trade-block RB to gain WR starting quality and prime draft capital."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Massive positive impact (+19.0 net starting C-AVI). Upgrades RB1 from Aaron Jones (55.1 C-AVI) to De'Von Achane (97.4 C-AVI), while JSN, Amon-Ra, Goedert, and Kraft maintain elite core stability.",
+          "sideADynastyImpact": "Secures a 24-year-old superstar RB (96.8 D-AVI) anchored by a 4-year contract extension, sacrificing a 27-year-old WR and a 2028 1st.",
+          "sideARosterImpact": "Rebalances heavy WR/TE surplus into elite RB starter strength in a 16-team league where RB scarcity is extreme.",
+          "sideBChampionshipImpact": "Accepts a modest drop at RB2 (shifting to Tyjae Spears), but gains WR1/WR2 production in Tee Higgins for FLEX starting slots.",
+          "sideBDynastyImpact": "Harvests a 2028 1st-round pick (79.3 D-AVI) and top-20 WR Tee Higgins (91.2 D-AVI) to build multi-year liquidity.",
+          "sideBRosterImpact": "Monetizes trade-block RB depth into WR roster strength and future draft pick options.",
+          "valueAssessment": "Fair, market-calibrated offer for an S-tier trade-block running back in a deep 16-team dynasty setup."
+        },
+        "publicMarketAnalysis": {
+          "summary": "De'Von Achane is a tier-one dynasty RB coming off an 1,838-yard 2025 campaign and a $68M extension. Tee Higgins remains a top-tier dynasty WR2/WR1 option.",
+          "aviVsMarket": "AVI valuations align with public consensus: Achane is a elite RB1 cornerstone, while Higgins holds firm upper-tier WR value.",
+          "relevantContext": [
+            "Achane signed a 4-year, $68M extension ($32M guaranteed) in May 2026, securing his long-term focal role in Miami.",
+            "Achane was fully cleared following offseason shoulder surgery and is taking full reps in 2026 training camp.",
+            "Higgins remains locked into Cincy's high-volume passing offense with strong annual fantasy output."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors owner 'Thecan' placed Achane on the public trade block to rebalance roster talent and collect high-value draft capital.",
+          "packageFit": "Tee Higgins gives Conquistadors a proven, high-upside WR starter to slot alongside Puka Nacua and George Pickens, while the 2028 1st provides liquidity.",
+          "lineupReplacement": "Conquistadors moves Tyjae Spears (50.5 C-AVI) to RB2 alongside Bijan Robinson, while Tee Higgins replaces Juwan Johnson/Matthew Golden in FLEX.",
+          "competitiveWindowFit": "Both franchises are top contenders; trading RB surplus for WR stability and draft capital aligns with Conquistadors' long-term contender status.",
+          "positionalScarcity": "RB1 assets with 95+ C-AVI are ultra-scarce in 16-team leagues, making a WR + 1st-round package the necessary acquisition cost."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 92,
+          "classification": "Highly Realistic",
+          "explanation": "De'Von Achane is confirmed on the public trade block. Offering Tee Higgins plus a 2028 1st-round draft pick provides Conquistadors with premium WR starting power and future equity, meeting all market requirements."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal is an ideal trade strategy for All Hail King Jesus. Upgrading RB1 from Aaron Jones (55.1 C-AVI) to De'Von Achane (97.4 C-AVI) drastically increases championship odds, creating a net +19.0 C-AVI starting lineup boost. Given your personal comfort with your remaining wide receiver depth, parting with Tee Higgins carries zero squad-building anxiety and unlocks elite RB production from a trade-block target.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.1,
+              "davi": 91.2,
+              "publicMarket": 85,
+              "leagueMarket": 84
+            },
+            {
+              "name": "2028 Round 1 (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.8,
+              "publicMarket": 95,
+              "leagueMarket": 96
+            }
+          ],
+          "whyUserShouldDoIt": "Fixes your single fatal roster flaw by adding a 24-year-old top-5 fantasy RB (97.4 C-AVI), boosting your starting lineup by +19.0 net C-AVI. Since you are fully comfortable with your remaining WR room, sacrificing Higgins to secure elite RB scarcity is a home run.",
+          "whyOpponentMightAccept": "Conquistadors has Achane publicly listed on the trade block and gains a premier WR starter in Tee Higgins plus a 2028 1st-round pick, maintaining strong starting quality while holding Bijan Robinson at RB1."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.1,
+              "davi": 91.2,
+              "publicMarket": 85,
+              "leagueMarket": 84
+            },
+            {
+              "name": "Dallas Goedert",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "TE",
+              "age": 31,
+              "cavi": 81.1,
+              "davi": 81.8,
+              "publicMarket": 80,
+              "leagueMarket": 81
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.8,
+              "publicMarket": 95,
+              "leagueMarket": 96
+            }
+          ],
+          "rationale": "If Conquistadors prefers two immediate high-end starters over future draft picks, bundling Tee Higgins and Dallas Goedert gives them top-tier starters at WR and TE, which your roster easily absorbs thanks to Tucker Kraft (80.6 C-AVI) and your strong WR depth."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "The user confirmed they are fully comfortable with their current wide receiver depth. This personal context reinforces the decision to part with Tee Higgins without reservation, locking in the recommended trade to acquire elite running back production."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "DeVon Achane current status 2026 NFL",
+          "DeVon Achane news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRmaPE7489gkSPbQmIOYD5RMC1xraXp2Ih6rpXYdunI43SWnLX0fPPBbL6CBhUqPzXVXfD08KEHZ4EJigpi-cF4F7Za7kd_yJ5xIgzs5ZQzsOKx4zfukErsom67Q_PZL6FrF0id5I85uqdzFxr",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfOlw3sG5CAT7VDG_X9OHS_jKbvpXggDu9lZlZP8-257cJDnTwWnUjVbWrm7uvP6CBCw7m9NN2lwDaYucZDZ7lDejNY5TiqjLLf8dm1FJem9jo7j5ZR_YJuV20I62__Ls=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAfTpx0lQceggDT5i5PnMaqCBD3taVL0QLmqMBOz-BuXtqUmFFnfy7ITkaAMl_Y7qIuGEwVclvofS5dOjyvYg9rMYpY6ZBuWZpQBADIvLuOqBcT4LKNcPtSEcmvMUIuRdyARTauJOwG_x6raUtWHuCPzfF8LfhDyfKqPnpDo2u33zes3-E9KdMAoE3vzm9HlSgUgHGpa2eRAQe4QEL",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD14UbTeijtQRdqEt6Gx-28jElWL3aw1efVBHoax2dyDkFa416Nh7JOioK0Als-msekE2bpXt4iCJXuzNrbOE-Nc5V2eODd1_GwBoY2EOt3NCMMUzoo-w8SqKnPeYXCQkDFGk-jCPB9m2sGZZutuMHnF1AEWpWMKlDNJCnmYaBGKwC7YX-KcIn",
+            "title": "miamidolphins.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHJW4nldeNwkCuHFOWcHREgv2qi3qCVDLpoe-C1SmnBlsaqvxJd07qjx8GaI5RD7dGw320I1ry6A1S4gswgdcI8QGVQD5W0DCY0SqPpYE26Vu5EJX2IByegm6Z3E97F0cABN42ymN0BuqlAoERttVKZXbIA8vuu2TSanjqB_HrlPsZMK-lFYv8tZIemC8CJZ1ULw==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1MEY7-QlLq0Jyj0tlOd3dSD_mB4pO1SrTs7XR7hMS3wiAoZvAiZVMtHfxHrgrfU3QnQelpn00GzjF3difdUIDmnIikwEJQ-5gJ6eJz8qvQfFapsixwfs_Ef4s9SphIsZOQ41bqE7TbPNpu2rYV_YdVNitOsBQDXUrUSpV4mn0-YsktKiUTG15IAkU",
+            "title": "12thman.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFy7nQB4WNYo31ws4-Atlbjzl7IAzbeKoTNAgmu0gJwIywX-KgiUeXQHK8y_sx_-S_zvRMWHRp3jcXQwVSC2BnmJl5YUGiltv42lfL-bxXK4vaqTLRoXS_S1ssHnwXBxB9zzgg0uCHR3blyR-A26sVR5cB_jJpcs70ypP8GPzwkBqoTXwIRl3mUIRaY039r1T5",
+            "title": "footballnationusa.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a8628ddaeabb3c0a389360352d9cdf9a29a068ff",
+        "aviCoreCommittedAt": "2026-08-14T19:37:38Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 62455,
+        "groundedMarketChars": 2338,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mstd50lv-8905f91f"
+      }
+    }
+  },
+  {
     "id": "mstd50lv-8905f91f",
     "createdAt": 1786737151209,
     "expiresAt": 1787169151209,
