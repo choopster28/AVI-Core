@@ -27,9 +27,317 @@
       ]
     },
     "createdAt": 1786741862380,
-    "updatedAt": 1786741863550,
+    "updatedAt": 1786741922747,
     "expiresAt": 1787173862380,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "All Hail King Jesus leverages its elite WR depth by offering cornerstone receiver Amon-Ra St. Brown to Smoky Valley Wheat Warriors in exchange for Chris Olave and Rico Dowdle. In a 16-team league where RB depth is at a high premium, this transaction addresses All Hail King Jesus's primary weakness at running back by adding Dowdle (62.4 C-AVI) to instantly become RB1 while maintaining top-tier WR production with Olave (94.3 C-AVI) alongside Jaxon Smith-Njigba. Crucially, Smoky Valley Wheat Warriors also gains +4.3 starting lineup C-AVI by consolidating bench RB depth into an S-tier WR2 to pair with CeeDee Lamb, creating a rare win-win trade for two playoff contenders.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 99,
+              "leagueMarket": 98.6
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Chris Olave",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 26,
+              "cavi": 94.3,
+              "davi": 95.9,
+              "publicMarket": 95,
+              "leagueMarket": 94.3
+            },
+            {
+              "name": "Rico Dowdle",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "RB",
+              "age": 28,
+              "cavi": 62.4,
+              "davi": 79.9,
+              "publicMarket": 65,
+              "leagueMarket": 62.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "This proposal provides an immediate net gain in starting lineup C-AVI for All Hail King Jesus (+6.6) by solving its RB bottleneck (Dowdle replaces Charbonnet/Jones at RB) while keeping elite WR floor with Olave. Smoky Valley Wheat Warriors receives a slight edge in raw cornerstone talent (ARSB) to form an elite WR duo with CeeDee Lamb, making the package highly appealing to both contenders."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "AVI endorses submitting this offer as constructed. The package provides a mutually beneficial starting-lineup upgrade for both playoff contenders in a deep 16-team format."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 85,
+              "summary": "Materially boosts starting lineup output (+6.6 C-AVI) by elevating RB2 production while retaining elite WR ceiling with Olave."
+            },
+            "championshipOutlook": {
+              "score": 88,
+              "summary": "Significantly strengthens championship odds by curing the roster's largest structural vulnerability at running back."
+            },
+            "dynastyOutlook": {
+              "score": 75,
+              "summary": "Exchanges a 26-year-old WR1 for a 26-year-old WR1 and a 28-year-old starting RB, preserving prime dynasty window."
+            },
+            "lineupQuality": {
+              "score": 82,
+              "summary": "Starting lineup C-AVI increases from 627.0 to 633.6 across 8 offensive slots."
+            },
+            "depthResilience": {
+              "score": 80,
+              "summary": "Pushes Zach Charbonnet (51.5 C-AVI) to bench depth, protecting against RB injury volatility."
+            },
+            "flexibilityLiquidity": {
+              "score": 70,
+              "summary": "Maintains highly liquid assets with Olave and flexible starting options."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 78,
+              "summary": "Consolidates bench RB depth into an S-tier WR1 in Amon-Ra St. Brown to maximize starting lineup ceiling."
+            },
+            "championshipOutlook": {
+              "score": 80,
+              "summary": "Pairs CeeDee Lamb with Amon-Ra St. Brown to form the top WR combination in the league."
+            },
+            "dynastyOutlook": {
+              "score": 82,
+              "summary": "Acquires an absolute cornerstone wide receiver (26.0 yrs, 99.0 D-AVI) locked into prime production."
+            },
+            "lineupQuality": {
+              "score": 75,
+              "summary": "Starting lineup C-AVI increases from 663.5 to 667.8 by upgrading WR2 from Olave (94.3) to St. Brown (98.6)."
+            },
+            "depthResilience": {
+              "score": 65,
+              "summary": "Parts with RB3 Rico Dowdle, but primary RB starters Christian McCaffrey and James Cook remain intact."
+            },
+            "flexibilityLiquidity": {
+              "score": 70,
+              "summary": "Gains premier trade leverage by holding two elite top-5 wide receivers."
+            }
+          },
+          "explanation": "Both contenders achieve starting lineup C-AVI increases. All Hail King Jesus gains +6.6 C-AVI by solving a critical RB deficiency, while Smoky Valley Wheat Warriors gains +4.3 C-AVI by upgrading from Olave to St. Brown using surplus bench RB depth."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "All Hail King Jesus improves starting lineup C-AVI sum from 627.0 to 633.6 (+6.6 net increase). Rico Dowdle (62.4 C-AVI) immediately inserts into the starting lineup over Zach Charbonnet (51.5 C-AVI), while Chris Olave (94.3 C-AVI) seamlessly fills the WR2 slot alongside JSN (99.1 C-AVI).",
+          "sideADynastyImpact": "Dynasty asset value remains exceptionally strong. Trading 26-year-old Amon-Ra St. Brown (99.0 D-AVI) brings back 26-year-old Chris Olave (95.9 D-AVI) under a brand-new multi-year NFL extension plus 28-year-old Rico Dowdle (79.9 D-AVI).",
+          "sideARosterImpact": "Solves the glaring bottleneck at running back. Pre-trade RB options (Aaron Jones 55.1, Charbonnet 51.5) were among the weakest in contender tier; Dowdle provides immediate stability and touches.",
+          "sideBChampionshipImpact": "Smoky Valley Wheat Warriors increases starting lineup C-AVI sum from 663.5 to 667.8 (+4.3 net increase) by upgrading WR2 from Olave to St. Brown without altering its top-2 starting RBs (CMC and James Cook).",
+          "sideBDynastyImpact": "Consolidates depth into an S-tier cornerstone asset (St. Brown: 99.0 D-AVI), raising overall roster peak ceiling.",
+          "sideBRosterImpact": "Moves surplus RB depth (Dowdle sat on bench behind CMC and Cook) to lock down an unmatched WR tandem of CeeDee Lamb and Amon-Ra St. Brown.",
+          "valueAssessment": "Amon-Ra St. Brown commands premium S-tier value. In a 16-team league, returning a high-end WR1 in Olave plus an active starting RB in Dowdle aligns perfectly with market value for both organizations."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market sentiment strongly favors Chris Olave following his 4-year, $132M contract extension with New Orleans, solidifying his status as a clear alpha WR1. Rico Dowdle has emerged as a high-volume committee leader in Pittsburgh under Mike McCarthy, creating ideal 2026 redraft/dynasty flex-to-RB2 utility.",
+          "aviVsMarket": "Public market rates St. Brown as a top-4 overall dynasty WR. AVI values match public sentiment on Olave as an elite WR1 (94.3 C-AVI) and recognize Dowdle's elevated weekly volume floor in Pittsburgh.",
+          "relevantContext": [
+            "Chris Olave signed a 4-year, $132M ($90M guaranteed) extension with the Saints in July 2026, securing his long-term alpha role.",
+            "Rico Dowdle signed with Pittsburgh in 2026 free agency and is co-leading first-team backfield reps alongside Jaylen Warren in Mike McCarthy's run-heavy scheme.",
+            "Amon-Ra St. Brown remains a top-tier fantasy engine coming off a 319.9 projected PPR point profile."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Smoky Valley Wheat Warriors is actively pursuing a championship ('Playoff Push'). Packaging bench RB depth (Dowdle) with WR2 (Olave) allows them to acquire an elite cornerstone receiver in St. Brown to pair with CeeDee Lamb.",
+          "packageFit": "Hand-in-glove fit for both rosters. All Hail King Jesus translates WR depth into badly needed RB competency, while Smoky Valley turns bench RB utility into starting WR ceiling.",
+          "lineupReplacement": "Olave replaces St. Brown as WR2 for All Hail King Jesus with minimal drop-off, while Dowdle replaces Charbonnet at RB2 (+10.9 C-AVI gain). For Smoky Valley, St. Brown replaces Olave directly at WR2 (+4.3 C-AVI gain).",
+          "competitiveWindowFit": "Both franchises are in active championship windows ('Playoff Push'). The age profiles (St. Brown 26.0, Olave 26.0, Dowdle 28.0) keep both teams squarely in contention for 2026–2028.",
+          "positionalScarcity": "In a deep 16-team 1QB PPR format, starting RBs are scarce. Adding Dowdle fills a major position of need without forfeiting elite WR production."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 80,
+          "classification": "Realistic",
+          "explanation": "Smoky Valley Wheat Warriors gains +4.3 starting lineup C-AVI and secures a top-3 dynasty WR in St. Brown by parting with a WR2 and bench RB depth. All market validations pass with an estimated 80% acceptance probability."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Proposing Amon-Ra St. Brown for Chris Olave and Rico Dowdle directly advances All Hail King Jesus's goal of Increasing Championship Odds. It fixes the team's primary weakness at RB2 (gaining +10.9 C-AVI at the slot with Dowdle) while preserving elite WR strength with Olave. Total starting lineup C-AVI increases from 627.0 to 633.6, and the proposal offers clear mutual benefit for the target manager.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 99,
+              "leagueMarket": 98.6
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chris Olave",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 26,
+              "cavi": 94.3,
+              "davi": 95.9,
+              "publicMarket": 95,
+              "leagueMarket": 94.3
+            },
+            {
+              "name": "Rico Dowdle",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "RB",
+              "age": 28,
+              "cavi": 62.4,
+              "davi": 79.9,
+              "publicMarket": 65,
+              "leagueMarket": 62.4
+            }
+          ],
+          "whyUserShouldDoIt": "Your starting lineup C-AVI increases from 627.0 to 633.6 (+6.6 gain). Dowdle immediately steps in as your RB1/RB2, upgrading Charbonnet (51.5 C-AVI), while Olave maintains elite WR1 output alongside JSN.",
+          "whyOpponentMightAccept": "Smoky Valley Wheat Warriors upgrades starting lineup C-AVI from 663.5 to 667.8 (+4.3 gain) by turning bench RB depth into an S-tier receiver to pair with CeeDee Lamb."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Rico Dowdle current team 2026",
+          "Rico Dowdle news 2026 fantasy football",
+          "Chris Olave news 2026 fantasy football",
+          "Chris Olave contract status team 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOPc2daxproXDVEj2EOh4wyydBf1cNMuHTAEaK4hJVvfu_B8fldFAOuv4IUuw3gLKxBgaDqnPltqmBDOY1JKr60rM6LcZrWtf1_iZg8Ij57GdkRezwaXS2D6IWEPxpOsQp6i1X6wXLnumeytKBhw4nqxEnqZJmjbkl4WWlZmmSEx-IfJwW06kWmWhc6mwGSwecJ6N3K9i76WmVlRLG3p0E5Bk=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Lu4G1IFr9sj0fNZGLjNpLjElZZdYgVK7Kc33Mk8RtjtjPJkukelvU2AkSyra9LWYI_s6P1i2EM7CgMp6kL4hgoG4WVDnYVwvqVnTIrSIe9ZzmPTjQe_iyIDuia9ECQ==",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrhOPMFB95aTaC8rzIzx6y6RSYDecE9L4LIV6LwcI-5AZ2ya932VVOTFqpIkjzt-Nzax5qjePTjJehh1Pwi73d3ku6Zhl3HOYIYcht0CFVxoR_QDcuhlzC35lZdsk_OW-ZHSFkoyzUwOppMqUjKLPFaPbdgi6-M6KoFduZ7FI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM55JNmvszcUqTFaF5-MzFZJ_QZ5NIdMhDGbfnI0XSmp4NBPR1oEE0XrE5Wbs9i_5vG5Z00i6O3bV4rkSVLouWpgi0KAaBkxmbYiMKJ288h7urTHxpom4NZrdUtNhhnaY=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXKqBmK-8DRQXf_9OB6KdhQ-gQ4HngXE0FnFTTnxQFaL5sYGjSniRzkiNSWSa0T-ono0CVtqrjAEii1nyJ8KsNOF565i74gMoRHdy0xPU1p0IA9gQoflo_JTYa-3l0ZgJowVJokdoy6cMSIM2bglwL9dgRBloXgmlQDaXY902-gAL1NHvDWDvknLaU87cYwHj74etVXhVtUc4uV07UQSmqxmSI0u0GTQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPnhz1LprLuWYOPGpYw4XGa2Z2gaFoSwkKXGaa6Ihz3-id8JKmT1B-tqikMUlYGp_RyoAnJjl06GcFxbxBqBMQT8Lw-aTFKs5YE2LUWb3RY2BLLos3vlBY5Wa8WUnMcbo=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESx57YRFtTlLQGkEhw0pBuVWbahBfTxh8WffVIv4vWe2eF7wuDJu2r1TtSA-U9-1SEQNYHsuppk8MFwmfZzdc50lw9RlBrBcyXEPdPNRt_5m-fXgnGswjb2et8fEfAIMNDeLgKybiKpgF-uz-82AcotqOciPJFawSRUIuBTJY71-s=",
+            "title": "establishtherun.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa60mmy1fP06Uz1I2XkOwVVaeWhiCut6QMSUQL6C9-7z0ieyFagPYzUU4qQ1gedeLXFB__2R4cYOzlhtk8wrjuxI61YFIoiZjWWl7evk9Fel6ats6sYDHgwfKe2CU7tSg=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRVg3R4FYo2IcfBItxOa_gBERDibw8oZcecx68J0Xdf7QLMXgHBBQuTQ-2WXLccr1Z2fGicXE-sB8jmnU-hhGH7n95i3vrYleuL-3YsBOYWP9ng-WzmbsKTzlYbS2SFPsEL1kK6rWGv9N-6KXn_CR_N7rLCv8_a8n2LLL8LCY=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRmxR2Td46U_5sjmQ-6QxpaKToyQsvJCWlFt3GSQCo2BqmtUz7BVnmoCq8KwE7wiPkwnbj4OWofkQPoBpXjA216tUXr-oJdnwEH-zVB6siIdkN8jEnoTR9H-zTF3NdpK9ahIjrIQ==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8EMyIG9LxiHbW4mmHxxvDeWAFPbXhTa9JID7HSg5nMCxycJvmI_Bcy-i2LORTBbrAxiLDaRbVECw_U5gXpUavnmfQtopofMEq6c7VeyCgyxzWO2-XdTQ6V21OJF82fmk6AwPkD6cx23mY0ds3fuiHcPBAO2tCZNvzryrd",
+            "title": "steelers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp9z-Nj2xpXMg8mV-XW0XvyfBfLvtvMzsQKr9r19Vl40GjpYqOsHjggGcPDZHxEdAZ3jsa60KW6RRITt6f-gMfzDSk4kWtcWaD0x7Iqgvkif5u5fz51Pa9x1xrdsxwnO4u2GhqhZYrWuzMPJuJy3G1Z0t7y5gXZEopjsK3yT9fHG4VCsC2y1iPckGXAT6HRDSKNQ8Lj7qDDQRSiAo=",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "af80b30cbfcc79e29041d8e0fd76e60a96a232dc",
+        "aviCoreCommittedAt": "2026-08-14T20:00:26Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 62792,
+        "groundedMarketChars": 3571,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mstfwana-f28cf193",
