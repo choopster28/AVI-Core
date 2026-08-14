@@ -1,5 +1,415 @@
 [
   {
+    "id": "1786672245512-go6t2x",
+    "createdAt": 1786672246225,
+    "expiresAt": 1787104246225,
+    "mode": "analyze_trade",
+    "title": "Trade Analysis · Big Balder Brand ↔ Conquistadors",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "personalContext": "I am a lifelong die hard bills fan. I'm okay overpaying for Josh Allen.. I want him bad",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Jaxson Dart",
+            "assetType": "player"
+          },
+          {
+            "name": "Chris Godwin",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Josh Allen",
+            "assetType": "player"
+          },
+          {
+            "name": "Juwan Johnson",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "While Big Balder Brand's fan desire to acquire Josh Allen is fully acknowledged and respected in this analysis, the submitted proposal overpays in a manner that severely damages the franchise's championship roster structure. Including Trey McBride (the overall TE1 with a 99.5 C-AVI) alongside young QB Jaxson Dart and WR Chris Godwin for Josh Allen and Juwan Johnson creates an insurmountable 38.3-point deficit at tight end that neutralizes any quarterback upgrade. AVI recommends revising the offer to send Jaxson Dart, Chris Godwin, and a 2027 2nd-round pick instead—paying a healthy, deliberate premium for Josh Allen while keeping Trey McBride anchored to maintain Big Balder Brand's elite championship contention.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 99.5,
+              "davi": 93,
+              "publicMarket": 98,
+              "leagueMarket": 99
+            },
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 83.4,
+              "davi": 83.6,
+              "publicMarket": 84,
+              "leagueMarket": 83
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 62,
+              "davi": 79.5,
+              "publicMarket": 65,
+              "leagueMarket": 62
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Josh Allen",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "QB",
+              "age": 30,
+              "cavi": 99.6,
+              "davi": 93.3,
+              "publicMarket": 99,
+              "leagueMarket": 100
+            },
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 29,
+              "cavi": 61.2,
+              "davi": 75.4,
+              "publicMarket": 60,
+              "leagueMarket": 61
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "A",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "Conquistadors",
+            "summary": "The submitted offer yields a massive windfall to the Conquistadors by giving up the overall dynasty TE1 (Trey McBride) plus a high-upside young starting QB (Jaxson Dart) and starting WR depth (Chris Godwin) for Josh Allen and a fringe TE (Juwan Johnson). The user creates a critical void at TE that outweighs the upgrade from Dart to Allen."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The recommended revision pays a generous fan-premium to acquire Josh Allen by pairing young dual-threat QB Jaxson Dart with starting WR Chris Godwin and a 2027 2nd-round pick. Crucially, it preserves Trey McBride on Big Balder Brand's roster, keeping the team's championship ceiling intact."
+          }
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand loses 244.9 cumulative C-AVI, including its highest-value starter Trey McBride (99.5 C-AVI). This downgrades the TE position from league-best to replacement-level (Greg Dulcich/Juwan Johnson).",
+          "sideADynastyImpact": "Big Balder Brand forfeits 256.1 D-AVI, surrendering two cornerstone young players under 27 years old (McBride at 26, Dart at 23).",
+          "sideARosterImpact": "Surrendering McBride leaves Big Balder Brand with severe positional weakness at TE, while exchanging Dart for Allen provides a modest net points upgrade at QB.",
+          "sideBChampionshipImpact": "Conquistadors receive an incredible structural boost, acquiring the consensus TE1 in fantasy football while replacing Josh Allen with a high-upside QB starter in Jaxson Dart.",
+          "sideBDynastyImpact": "Conquistadors reset their roster age at quarterback by trading 30-year-old Josh Allen for 23-year-old Jaxson Dart while adding a 26-year-old elite tight end.",
+          "sideBRosterImpact": "Conquistadors fill their tight end slot with a tier-1 elite weapon while staying fully viable at starting QB with Dart.",
+          "valueAssessment": "By raw numbers and positional scarcity, sending 244.9 C-AVI for 160.8 C-AVI is an 84.1 C-AVI net deficit for Big Balder Brand. Even under intentional overpay constraints, sacrificing Trey McBride is structurally unviable."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty markets classify Josh Allen and Trey McBride as premier elite cornerstones. In standard 1QB formats, elite TEs command significant positional leverage over high-end QBs due to replacement availability.",
+          "aviVsMarket": "AVI values Trey McBride at 99.5 C-AVI, virtually identical to Josh Allen (99.6 C-AVI). The public market treats McBride as a top-10 overall dynasty asset regardless of format.",
+          "relevantContext": [
+            "Josh Allen remains the consensus QB1 overall with Joe Brady elevated to head coach and new target addition DJ Moore.",
+            "Trey McBride enters 2026 as the undisputed focal point of the Cardinals passing offense, projected for massive target volume.",
+            "Jaxson Dart is entering his second season as the NYG franchise starter coming off an AP OROY finalist campaign."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors manager (Thecan) holds high-tier starters across the roster but lacks a top-tier TE anchor (currently starting Harold Fannin/Juwan Johnson). Acquiring McBride and Dart gives them elite scoring at TE while maintaining QB stability.",
+          "packageFit": "The submitted package solves Conquistadors' TE need at an extreme discount by taking away Big Balder Brand's single greatest positional advantage.",
+          "lineupReplacement": "If Conquistadors trade Josh Allen, Jaxson Dart provides immediate lineup replacement as an active, dual-threat NFL starting QB.",
+          "competitiveWindowFit": "Both franchises are active championship contenders. Giving up McBride directly transfers championship odds from Big Balder Brand to Conquistadors.",
+          "positionalScarcity": "Tight End elite volume is the single rarest asset commodity in fantasy football. Trading away McBride creates a self-inflicted roster hole that cannot be filled on the trade market easily."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 22,
+            "packageMatch": 10,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 82,
+          "classification": "Realistic",
+          "explanation": "The Conquistadors would swiftly accept the submitted package because it overwhelmingly favors them. However, for Big Balder Brand, sending Trey McBride destroys roster construction, failing the package match test from the sending user's perspective."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "While personal context allows for an intentional overpay for Josh Allen, trading away Trey McBride cripplingly damages Big Balder Brand's starting lineup. AVI strongly advises revising the offer to keep Trey McBride while offering a package centered around Jaxson Dart, Chris Godwin, and future pick capital.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 83.4,
+              "davi": 83.6,
+              "publicMarket": 84,
+              "leagueMarket": 83
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 62,
+              "davi": 79.5,
+              "publicMarket": 65,
+              "leagueMarket": 62
+            },
+            {
+              "name": "2027 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Allen",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "QB",
+              "age": 30,
+              "cavi": 99.6,
+              "davi": 93.3,
+              "publicMarket": 99,
+              "leagueMarket": 100
+            }
+          ],
+          "whyUserShouldDoIt": "You get your prized target in Josh Allen without gutting your tight end room. You retain Trey McBride (99.5 C-AVI) to keep your elite TE positional advantage while successfully executing an overpay (Dart + Godwin + 2nd) tailored for your Bills fandom.",
+          "whyOpponentMightAccept": "Conquistadors get a starting QB replacement in 23-year-old Jaxson Dart, plus proven WR starter Chris Godwin and a valuable 2027 2nd-round pick, giving them depth, youth, and draft capital in exchange for a 30-year-old QB."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 83.4,
+              "davi": 83.6,
+              "publicMarket": 84,
+              "leagueMarket": 83
+            },
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 24,
+              "cavi": 52.1,
+              "davi": 76.7,
+              "publicMarket": 55,
+              "leagueMarket": 52
+            },
+            {
+              "name": "2027 Round 2 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Allen",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "QB",
+              "age": 30,
+              "cavi": 99.6,
+              "davi": 93.3,
+              "publicMarket": 99,
+              "leagueMarket": 100
+            }
+          ],
+          "rationale": "If Conquistadors prefer younger wide receiver upside over veteran Chris Godwin, swapping in 24-year-old Jalen Coker keeps the offer attractive and maintains the same structural integrity for Big Balder Brand."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "User specified being a lifelong Bills fan willing to overpay to acquire Josh Allen. AVI incorporated this preference by structuring a revised package that offers a deliberate premium (Jaxson Dart + Chris Godwin + 2027 2nd) while preventing self-inflicted roster destruction at the tight end position (retaining Trey McBride)."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Josh Allen fantasy 2026",
+          "Chris Godwin status 2026",
+          "Trey McBride news 2026 fantasy dynasty",
+          "Jaxson Dart NFL team 2026 draft",
+          "Juwan Johnson 2026 fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTtJihR75GadUFOlDX-gys-o36id59u9b99qMb6DTlzJu66vTbC58uyIlMz0QnosHyHn_AE24Z3F02EbrbKHJn4yfOS_OSIzzqEh0mpeVj0NEK0aUWxDy9xXYCDYl7lwRg5Qv5HGXpUD7Kbz1ukxm4ssMMxXsH7d25YYj3oMd0rLqkPL5cU23eD_bt0GyZwOpiM7n5_6Kcp3ovw4IgSEAeHD1AOP2hbWhcZs=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEepBkFR8VOuL6WfOJPBA-P6rLRHQb09sh0o46yNHEQ8k2ol6fizojygOUmmbgzYds7aRUOGY1lHUXXG0VJBhFoXCW5uHbyJGgup1CS8RQ53sooeR3nN3wVSNfmoBL3z79m",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqu3noMfK-hBYkTbaI55_6bVlPJd5rRVytf4lv0I1ghzzmLg6i3gvyk1fJ-qtptgdqrAX5j1PqOqhJDeIb9TxG1LuHsOKKrow-6_lJvc7Q334u9mP0DbGaSYyyaSWFBacYHBw2vioWE5FM8O3u9FtGTCmu179vnQ1sNJtXs0Re6A==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFapFRBf2D41JXqhxIYCM-lTzB4F7nt717XxntMdcEn36eCc1HHNJrG9CcnzSRAWilp8HA51sTIC-0HYfZI5Dx2XCc9NQFMVl7KNvIakml9YqMVieBlr-Oc1v3cGxwJGcnbYrkE9I_JQ3kIcf6K30QSBuYZ3noFKQQoA5bhOwX1iwPUhp5kXU_iAb4ukDt1A==",
+            "title": "gmenhq.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW6KMEH1Pn4vyL7knr-fwFTIj80WTdAL_H-BGQYrYZWrQqAwAbOZI6rE8-7pArx2066lkgZkksWpbvUtSZmrQHmEwvSFNbHLatFrhJZDgaH8eglqFmA7PGS3S2tiiRZZg2Xs7CSp4fCYzNh_YOt1c-Sb1B6sGIYRZTZw9lBZxa_H6Gi9GwlxUH9TlRniD7q3e5Pt9Qds-KfQiOcYUY80kkP-xsK4qHiD-yH_xZz7z-0e-IquHERvZGRQwAIRTH0h0=",
+            "title": "giants.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdGW4oqae-WtIYqQMnbV8FA92XCuCtLbEfN1TTMf8ZUPLXRz5dvcMAz1e5jAZ2h8_9Mf3ALw8ctgVuhCVq8ssRQ7-020tivyxF7-WWoYmssaB7Ay0du7VP45qB_mpAdWuGHIyToiLtD9C1LvhxgE3Cvk82ndXsDxI-gNkTyjcWNEJKUGH3CHcKPxr_sZFjXH8wEw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZC8PjwsUnGsVcE3bwWcVWB3KrOluM3KOpXR8l24vYe2KTrYIdTCf5ZhzBnV2zXHubwkwcUMbZfTCTRiiAdNdHeXeOF-Y1X_hO-rX0KKfXnUC6p09Imsjq8QHu6yTqLufIsBXliG8MOgtIDy5XxTJF27ErvMGGH-eAt_pIa4JOZI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH2Xq7YMH68gZNsAHjTX_5v5R7ujM9-rPNgfDaMYMqTEzJKP6MwbeYqHProQFSgYLcM42zMnxCqk6LFqz6Dhrf_Zsvy2gbJh9gY82NTKOCOkg0gqXPLgPeNOKPATDd1NbkZDd_fSQgmoaAmbMNmWmTKLPa2MijA8bdJS8AR3F-ARxq7E10GVymn_XKUOPdNeXqlNAOSJKiOblzOKHdg84M6ogOd331C3gRmu_ilo3Pbaw2Bl9NlJBtd41k0ArSH8gR_WO_RfIvP8Hu61g=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbZW2yCMucVVWqJ6UnZWA5mUUHuyPF28qQKSQU4Pm87jFHb7xdFIWQBLSofVUuFkq1jGSqRlEXjeJ_oM_w-DFWMVvu1OohkU__fzexGX8zl-peFb4MQXwiss4dV1Vm3PGgsuHhQi04TP5gGt-2JwgeAmiBWzgThqSx-Pn11za6XZ9TqWHCtE_7KHbwSAvgqPBKD57PAQejTL9N2A=",
+            "title": "thepewterplank.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOJFso8GqIYWGRG19fsmJFSp8iK2y2hAf7juZ1JrT9WBZNspmVKm9h0h1Ro2UwCOrFW-8vCuSTuextzxMa32wFklX_kfmZCX5e-1IbN1n_Olck92R_N8joMlw27qj6ZVXzgaYtkaig4aiYEpUKQ1QnOexg851mO--YgaIZgcyBwIP7BF1waLAgTYQU",
+            "title": "pitcherlist.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXA4Q45snLtHckkXnwPd9Vt1Pj2emy9evgBoSTRk_iYVfFlIVD_FbnnJ329prm9uqdHXeBjCuRgBKjT2NuLdqPveQkYRMp6l7xyD6sb1JHpUrvLWoq4TJwINGWRgGiO8bqJ00KthyCQlt6IAdnPGMAeBdynSeqGHH-zstY2WnhT2y84Q==",
+            "title": "buccaneers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlVB_mx5R-kTxxPHeGISE8-zVM3be8YHcm8qruGApzmskg0VzV13WpP-MUdqs58vPF4duYajUl4N4X0UXi0BI2DfQDAZYkYbhfgLW9oVQSvjiELRn2WAx4KJoScioU9je1eoFpLE0pSZbTwMgLFm4yhy5mvYSpEtH6NZ1V6BvOtg13VdGp2fMuKRg6jrJ6340JPrZxO4_o74vi",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx6008WQovWQco3xaBEa3yB8pXcWbt43mqPt3B0xGy7eKqPZLy1JrJsNuigi2lnHgAlgFRSviIR_pLUBwo9LjQ_xtWjHR0DV8aYlXJ2cGgZBIfGoo2ZsSC-Qt5I3Js3urDCXmaAzBf8Mct",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvNzlGTbirUpxVJyhdtdiJm3BCoSYsaL8NrWS5nrg0Z0mGUTgxYle_Xvce6MYPlsQzR2bWP_l1vrcd7OebqtPyNHg8HDEyIYTgnI0FeN-UxIEJIECLtThgiB5Q4WIhazmFly_n1dxy12oB-_EjcXvBeuin7THdsVBlvkF9P7MXnDlB0Jom7RkzH9lw_w==",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOIRgOCzXFTw_mcP7DvmXaGp7c8hpCRs71F_vdyxzVgIO8sdagq0byZuT-eJMX07stC2Og9lYiSP0utLwZaGB29HE_WQuRCtQjl_Yb7YZ7pXfwXhteVihHFv4MFTJw4cqb6TmJZEHMqY-1G7f5Yy6XldOYL7f3SRg=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfAcRZ3McRCwDIgSbk8C8g2RL-vda_Ip5Yaq6GE0QVZXsw-9lH4jSgikEmXz7ZEfc53XExNuWkbNA0k9zq4XpeuLOXuhhMPt8BfAqNTjjFz0xtnotnRHxr4YhiQa6jhB_6c07ErSVnjbdplnlYZ0LnEJFWC31b1TKEbjcXUgoNr4vYwvDh6GAHzkLLkg==",
+            "title": "complex.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7r1jHtg9ofCDKJ7nG8cqN5KlJ4bYDo8L6NW0rUe4xNKgt5kUrAWVo3o8F415lg_XP_yU2bMkav233sdg6pIOmTTCu2cUhONV_GFmzuGUErVXKAe_BNwuayMWKxQrjjFFm97nHFTWka85D",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgl5gm6we2PvZ5BjXSdZvVOksfLefjH34OoK1qZAAhPhSuxi0ZNZ13a6l0KRCWUCMU-FSthhK4S0Khy0dFQ7KIc2MC1Tpdmg5EOLq7dfmWKnAoE13cxLD0UB2gBFkWJi-wTOq6wxIQDSr9Wdkn47UhanYz3rJjwxYDPv-Y",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFykyq9-u1YACQ-nLjkSnUVzzyYZoRMYrl3pecWXdlkTtZJadJIWtS1r85TWEj47FFs5uzYiynvwSFZ6JLMKC7sMFDIb-lD63zB5DLYyPCadjEpZDRJ2R_kPdbpV71B_I7ItGcmPnm04YB5LbGD",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpNitenTm8q21TI00L8f4vkCZv4OqCWI4WmFtbPf10E-gVOgdFfcE9g5oPVjmiVwNnJ5znzOOyqitpKiHMFugr58x9CDl8ypCKYwyshLhGQyHe6uzefb0cxBczw3N7DHVbxMzchglFzIYssjjB3Xe4CyNr4Y5O",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWCPw2LhYdCX792iNbTYFm55X2erZm_woRDLIxBxEJlv_by16MSU5g1N7iCuzcYpK8Khj98HZfDPlb6deYxwD8qPnLXHkxfhnKwcAeseA4dNVUd1J015X645hXvBdeKoK3TdOLmTQrBsW0Ov9QiUmg9O7_6iLV9ws5bhm717A=",
+            "title": "fantasyindex.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7b99d9cf46c33124c065c6a6ae98f930a507194b",
+        "aviCoreCommittedAt": "2026-08-13T23:23:17Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 65291,
+        "groundedMarketChars": 3433,
+        "personalContextProvided": true
+      }
+    }
+  },
+  {
     "id": "1786671888914-ycms0r",
     "createdAt": 1786671889637,
     "expiresAt": 1787103889637,
