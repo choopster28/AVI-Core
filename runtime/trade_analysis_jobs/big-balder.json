@@ -1,5 +1,28 @@
 [
   {
+    "id": "msthxo9p-4958ae0f",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1786745159197,
+    "updatedAt": 1786745159197,
+    "expiresAt": 1787177159197,
+    "status": "queued"
+  },
+  {
     "id": "msthih78-5a1b1cdd",
     "phase": "initial",
     "mode": "analyze_trade",
