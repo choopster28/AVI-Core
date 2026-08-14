@@ -1,5 +1,41 @@
 [
   {
+    "id": "mstgaq81-e077e063",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Smoky Valley Wheat Warriors",
+      "targetAssets": [
+        {
+          "name": "CeeDee Lamb",
+          "assetType": "player"
+        },
+        {
+          "name": "Rico Dowdle",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Amon-Ra St. Brown",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "createdAt": 1786742409025,
+    "updatedAt": 1786742409025,
+    "expiresAt": 1787174409025,
+    "status": "queued"
+  },
+  {
     "id": "mstfz0fg-4711142e",
     "phase": "initial",
     "mode": "propose_trade",
