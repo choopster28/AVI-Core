@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mstfb8fv-bedc4f50",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "All Hail King Jesus",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Christian Watson",
+            "assetType": "player"
+          },
+          {
+            "name": "Mike Washington",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 4th · Corgi Loaf · Projected late range (4.10–4.16)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jaxon Smith-Njigba",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786740753019,
+    "updatedAt": 1786740753019,
+    "expiresAt": 1787172753019,
+    "status": "queued"
+  }
+]
