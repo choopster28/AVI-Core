@@ -2,16 +2,16 @@
   "league_id": "1312185568032997376",
   "season": 2026,
   "source": "Autobots commissioner-confirmed league trade block",
-  "updated_at": "2026-08-14",
+  "updated_at": "2026-08-14T16:18:00-06:00",
   "players": [
     {
-      "player_id": "9226",
-      "player_name": "De'Von Achane",
-      "owner_team": "Conquistadors",
-      "owner_roster_id": 1,
+      "player_id": "7547",
+      "player_name": "Amon-Ra St. Brown",
+      "owner_team": "All Hail King Jesus",
+      "owner_roster_id": 8,
       "available": true,
       "status": "Publicly Available",
-      "note": "Confirmed on the Autobots league trade block. Treat availability as established; evaluate only price, package fit, lineup replacement, and competitive-window considerations."
+      "note": "Confirmed on the Autobots league trade block from commissioner-provided Sleeper screenshot. Treat availability as established; evaluate only price, package fit, lineup replacement, and competitive-window considerations."
     },
     {
       "player_id": "9488",
@@ -20,7 +20,34 @@
       "owner_roster_id": 8,
       "available": true,
       "status": "Publicly Available",
-      "note": "Confirmed on the Autobots league trade block. Treat availability as established; evaluate only price, package fit, lineup replacement, and competitive-window considerations."
+      "note": "Confirmed on the Autobots league trade block from commissioner-provided Sleeper screenshot. Treat availability as established; evaluate only price, package fit, lineup replacement, and competitive-window considerations."
+    },
+    {
+      "player_id": "9226",
+      "player_name": "De'Von Achane",
+      "owner_team": "Conquistadors",
+      "owner_roster_id": 1,
+      "available": true,
+      "status": "Publicly Available",
+      "note": "Confirmed on the Autobots league trade block from commissioner-provided Sleeper screenshot. Treat availability as established; evaluate only price, package fit, lineup replacement, and competitive-window considerations."
+    },
+    {
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "owner_team": "Corgi Loaf Baking Co.",
+      "owner_roster_id": 11,
+      "available": true,
+      "status": "Publicly Available",
+      "note": "Confirmed on the Autobots league trade block from commissioner-provided Sleeper screenshot. Treat availability as established; evaluate only price, package fit, lineup replacement, and competitive-window considerations."
+    },
+    {
+      "player_id": "8167",
+      "player_name": "Christian Watson",
+      "owner_team": "Corgi Loaf Baking Co.",
+      "owner_roster_id": 11,
+      "available": true,
+      "status": "Publicly Available",
+      "note": "Confirmed on the Autobots league trade block from commissioner-provided Sleeper screenshot. Treat availability as established; evaluate only price, package fit, lineup replacement, and competitive-window considerations."
     }
   ]
 }
