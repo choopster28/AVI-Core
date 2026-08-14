@@ -1,5 +1,379 @@
 [
   {
+    "id": "mstfvydu-f8871289",
+    "createdAt": 1786741782504,
+    "expiresAt": 1787173782504,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Conquistadors ↔ All Hail King Jesus",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Win Championship",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "To acquire reigning Offensive Player of the Year Jaxon Smith-Njigba (99.1 C-AVI / 99.6 D-AVI) from All Hail King Jesus, Conquistadors can offer a balanced package centered on WR George Pickens (92.8 C-AVI), a high-end 2027 1st Round Pick (Northside Kings orig5, 79.3 AVI), and RB Tyjae Spears (50.5 C-AVI). In a 16-team league, All Hail King Jesus has a severe weakness at running back (starting 31-year-old Aaron Jones and Zach Charbonnet) while locking up two elite WRs in JSN and Amon-Ra St. Brown. This proposal gives them a young WR1 replacement in Pickens, immediate RB depth in Spears, and a premium 2027 1st round pick to reload or acquire a star RB, while creating the undisputed #1 WR pairing in the league for Conquistadors (Puka Nacua + JSN) to push for the championship.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "George Pickens",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 92.8,
+              "davi": 96.1,
+              "publicMarket": 88,
+              "leagueMarket": 93
+            },
+            {
+              "name": "2027 Round 1 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 50.5,
+              "davi": 72.4,
+              "publicMarket": 52,
+              "leagueMarket": 50.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 98,
+              "leagueMarket": 99.1
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Conquistadors",
+            "summary": "Conquistadors trade concentrated value (Pickens + 2027 1st + Spears) to secure an elite, top-tier asset in Jaxon Smith-Njigba. Upgrading WR2 from George Pickens (92.8 C-AVI) to JSN (99.1 C-AVI) pairs with Puka Nacua (99.6 C-AVI), Josh Allen (99.6 C-AVI), and Bijan Robinson (99.4 C-AVI) to form an unrivaled championship core. All Hail King Jesus gains essential roster depth, a starter-caliber WR, and liquid future draft capital to solve their starting RB crisis."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Conquistadors",
+            "summary": "This proposal gives All Hail King Jesus a compelling multi-piece return for JSN without destroying their competitive viability, while delivering Conquistadors the highest ceiling starting lineup in the league."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Acquires an S-tier cornerstone wide receiver that elevates the starting lineup ceiling to maximum championship levels."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Assembles four 99+ C-AVI superstars (Josh Allen, Bijan Robinson, Puka Nacua, JSN) across QB, RB, and WR in a deep 16-team format."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Secures a 24-year-old receiver under long-term contract coming off an OPOY season with a near-100 D-AVI rating."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Replaces George Pickens at WR2 with JSN, increasing weekly ceiling and target share stability."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Parts with bench RB depth in Tyjae Spears, leaving Keaton Mitchell and Kaelon Black as back-up RBs."
+            },
+            "flexibilityLiquidity": {
+              "score": -25,
+              "summary": "Surrenders the 2027 1st Round Pick (orig5), using future capital to consolidate into present-day star power."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 35,
+              "summary": "Transforms a single high-value asset into three usable starting/capital components to rebalance a top-heavy roster."
+            },
+            "championshipOutlook": {
+              "score": 20,
+              "summary": "Maintains starting WR strength with Pickens and Tee Higgins while opening cap/asset pathways to address backfield issues."
+            },
+            "dynastyOutlook": {
+              "score": 45,
+              "summary": "Gains a 25-year-old WR1 in Pickens plus a 2027 1st round pick that preserves long-term flexibility."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Slight downgrade at WR1 moving from JSN to Pickens, offset by structural flexibility elsewhere."
+            },
+            "depthResilience": {
+              "score": 50,
+              "summary": "Adds Tyjae Spears to a vulnerable RB group featuring 31-year-old Aaron Jones and Zach Charbonnet."
+            },
+            "flexibilityLiquidity": {
+              "score": 60,
+              "summary": "Adds a premium 2027 1st round pick to trade for an elite running back or execute future draft moves."
+            }
+          },
+          "explanation": "This transaction represents a classic 16-team win-now consolidation move for Conquistadors and a roster-rebalancing move for All Hail King Jesus. Conquistadors pay a fair premium (Pickens + 2027 1st + Spears) to secure a rare S-tier wide receiver, while All Hail King Jesus replenishes future capital and backfield depth."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Upgrades Conquistadors' WR2 position from George Pickens (92.8 C-AVI) to Jaxon Smith-Njigba (99.1 C-AVI). Total starting lineup C-AVI sum increases from 725.3 to 731.6, establishing the most dominant offensive starting 8 in the league.",
+          "sideADynastyImpact": "Gains a 24-year-old elite dynasty receiver with a near-perfect 99.6 D-AVI score. Conquistadors retain their own 2028 1st round pick for future flexibility.",
+          "sideARosterImpact": "Reduces bench RB depth by sending Tyjae Spears, requiring Conquistadors to monitor waiver/depth running backs behind Bijan Robinson and De'Von Achane.",
+          "sideBChampionshipImpact": "Slight immediate hit at WR1 (99.1 JSN to 92.8 Pickens), but provides starting RB flexibility with Spears (50.5 C-AVI) where All Hail King Jesus currently lacks depth.",
+          "sideBDynastyImpact": "Acquires George Pickens (96.1 D-AVI, age 25) and a premium 2027 1st round pick (79.3 D-AVI), extending their competitive runway.",
+          "sideBRosterImpact": "Helps solve a major structural defect on All Hail King Jesus's roster by converting WR surplus into RB depth and draft liquidity.",
+          "valueAssessment": "Total C-AVI sent by Conquistadors is 222.6 for 99.1 received. The 123.5 raw AVI difference represents the exact consolidation premium required to pry an OPOY award-winning 24-year-old dynasty WR1 away from a contending partner in a 16-team league."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty sentiment places Jaxon Smith-Njigba in the highest tier of untouchable dynasty wide receivers alongside Ja'Marr Chase and Puka Nacua, following his 1,793-yard OPOY season in 2025 and new $168.6M extension.",
+          "aviVsMarket": "AVI rates JSN at 99.1 C-AVI / 99.6 D-AVI, fully aligned with public consensus treating him as an elite multi-year WR1 asset. Market demand requires a young proven WR1/2 plus high 1st-round capital to initiate trade discussions.",
+          "relevantContext": [
+            "JSN signed a 4-year, $168.6M extension with $120M guaranteed, locking him in Seattle through 2031.",
+            "Averaged a 32.6% target share and 44.6% first-read share in 2025.",
+            "All Hail King Jesus is severely thin at RB in a 16-team format (Aaron Jones, Zach Charbonnet, Isiah Pacheco), making draft capital and RB assets highly attractive to them."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "All Hail King Jesus faces an acute RB depth crisis in a 16-team starting league. Adding a young WR1 (Pickens), an RB piece (Spears), and a 2027 1st round pick gives them the assets needed to retool their backfield while staying highly competitive.",
+          "packageFit": "Combines a young proven wide receiver (Pickens), an upside RB (Spears), and top-tier future draft capital (2027 1st round pick orig5).",
+          "lineupReplacement": "Pickens steps directly into All Hail King Jesus's WR starting slot alongside Amon-Ra St. Brown and Tee Higgins, minimizing starting WR drop-off.",
+          "competitiveWindowFit": "Both franchises remain in strong win-now/contender windows; the trade allows All Hail King Jesus to diversify assets while Conquistadors maximize peak ceiling.",
+          "positionalScarcity": "In a 16-team league, true 20+ PPG wide receivers are ultra-scarce. Paying a 3-for-1 package is the standard market cost for an S-tier cornerstone."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 76,
+          "classification": "Realistic",
+          "explanation": "Though JSN is not explicitly listed on the trade block, All Hail King Jesus's urgent need for running back help and draft capital makes this package a compelling, realistic offer that solves roster imbalance without forcing a complete rebuild."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "For Conquistadors, acquiring Jaxon Smith-Njigba creates a starting lineup with four 99+ C-AVI players (Josh Allen, Bijan Robinson, Puka Nacua, JSN). Upgrading WR2 from Pickens to JSN significantly elevates weekly championship ceiling while keeping the core intact. The cost (Pickens + 2027 1st + Spears) is substantial but completely justified for your stated goal to Win Championship.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "George Pickens",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 92.8,
+              "davi": 96.1,
+              "publicMarket": 88,
+              "leagueMarket": 93
+            },
+            {
+              "name": "2027 Round 1 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 50.5,
+              "davi": 72.4,
+              "publicMarket": 52,
+              "leagueMarket": 50.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 98,
+              "leagueMarket": 99.1
+            }
+          ],
+          "whyUserShouldDoIt": "It pairs JSN with Puka Nacua to give you the top wide receiver duo in the league, bringing your starting lineup to four 99+ C-AVI megastars for your championship run.",
+          "whyOpponentMightAccept": "It gives All Hail King Jesus a proven 25-year-old WR1 replacement in George Pickens, immediate RB rotation help in Tyjae Spears to fix their weakest position, and a 2027 1st round pick for long-term flexibility."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "George Pickens",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 92.8,
+              "davi": 96.1,
+              "publicMarket": 88,
+              "leagueMarket": 93
+            },
+            {
+              "name": "2027 Round 1 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2027 Round 2 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 98,
+              "leagueMarket": 99.1
+            }
+          ],
+          "rationale": "If All Hail King Jesus prefers pure draft capital over Tyjae Spears, substituting Spears with the 2027 2nd Round Pick (Northside Kings orig5) maintains strong package value while keeping Spears on your bench."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba news 2026",
+          "Jaxon Smith Njigba fantasy value 2026",
+          "Jaxon Smith Njigba dynasty outlook 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYI5TlDuVvPW0kKupXggyzEk7JMQgiHQ1GGUcbsL72G65urowUOWaW7OdV8-7kvA3geS0yHN-aJht7WekgAGsLWbAcMGrnMhFlVdgKIPHFIKNBack-PHO8Iqvd0-tPO9Vbe8pwQEq9YTmKI7Oxi0bmlngTkA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4t8UYSZKHFPPyA0VetuNslDNeZS0ViLCGY5LNlJwl8Oo28dIDsSugb1RHMn01LJE1PwhHFGaXQJPNk3MOiIgoun91XDE5oY3I7yIOq8z-J0CgjZDEowmiuXErpQiJUndKv7TVKP9og2vfyKaGO-12WF_5mDa0PsYk6gZit3O-kNqhQ397oiVp-h9tcTqlQZxl",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVjazNTi6wSmQ-M6SYZZMNjMmUaLu_Y7ex3UeRct5NSZsfYgR56OEpsR4C0BPc8bVaJGDbAGakXQBG41Xx__w1TNmZeBa04uoZYSnUdkMZrbNwmtxqkOegpIh0EtmGbX0o8YH-BjCuhZq2H2uq_pp-GAowTuBI0kQm9_mBVkXbCSAhkK9VW8CR3NPdjyWw9XhXLcoZmIQsxRtMYgV3ZGYThz851_eKRKGHSiU=",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYK_eNpu1YNgOMeQk4HscnDra_WtSTD2P1f7TTEKQHBZNVtnf37Iq4VYR5Uj6blSfdxp7rU_qhywSzApONpyOYX-urOPGozgJ2jgUiLRKxkmnIkRFlJGa11IP-eT47KKV_",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz2cmIRw1xxGNjuKsaOnwQb6KOlns8N2BQYD8Omtwf6aGx4IckObk9sHAKSTh-Pm6vD6H4X3USW3p-zvUbMXLMYgN9gWCDCu40T0aqZB0fMoCFScTtr9EU6raO0ZH-esVIdUQFSRrjRsnEvaEjpZ1_bvJZ_3BFgBFM7Fzy72vASbZKzVqKei_UCwZfr4Ba0nBh",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEvfZP-nIYxKPkJjUSsChf3-h5kFzz0NWLTB7he4BV3chfjmwA3v7_mjKOAXgHvEPIdDRjVorVpp4aiCXpl_1JijJ8i9xxQDf5FopkV1jWmR27afH6du9MvNCSBqOeUDBz",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "af80b30cbfcc79e29041d8e0fd76e60a96a232dc",
+        "aviCoreCommittedAt": "2026-08-14T20:00:26Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 62079,
+        "groundedMarketChars": 2782,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "1786678935163-0ukrct",
     "createdAt": 1786678935454,
     "expiresAt": 1787110935454,
