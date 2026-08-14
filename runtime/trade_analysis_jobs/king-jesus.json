@@ -1,5 +1,33 @@
 [
   {
+    "id": "mstd8uh7-4389f26a",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tee Higgins",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786737282379,
+    "updatedAt": 1786737282379,
+    "expiresAt": 1787169282379,
+    "status": "queued"
+  },
+  {
     "id": "mstd7ua5-6aa45589",
     "phase": "final",
     "mode": "propose_trade",
