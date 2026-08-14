@@ -1,5 +1,224 @@
 [
   {
+    "id": "mstj4yhn-0e561098",
+    "createdAt": 1786747258952,
+    "expiresAt": 1787179258952,
+    "mode": "improve_team",
+    "title": "Initial Improve My Team · Northside Kings",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Northside Kings",
+      "goal": "Rebuild",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Northside Kings is in a verified Rebuild window and holds valuable veteran starter assets (Mike Evans, Stefon Diggs, RJ Harvey) along with premium future draft capital (2027 1st Round Pick). To advance the franchise's rebuild goal, Northside Kings can leverage confirmed trade-block opportunities across the league to acquire young, S-tier dynasty cornerstones (Amon-Ra St. Brown, Jaxon Smith-Njigba, De'Von Achane). Each recommended transaction strictly pairs league-relative starting-caliber centerpiece assets to meet both Northside Kings' rebuild timeline and the trade partners' explicit competitive goals.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Ample 2027/2028 future draft capital (including multiple 1st/2nd round picks)",
+            "High-value veteran producers (Mike Evans, Stefon Diggs) attractive to contenders",
+            "Young upside pieces (Bhayshul Tuten, Xavier Worthy, Jordan Addison)"
+          ],
+          "priorityNeeds": [
+            "Elite young WR/RB/TE cornerstones to anchor the long-term rebuild",
+            "Consolidating veteran depth into tier-1 dynasty weapons"
+          ],
+          "tradeableSurplus": [
+            "Veteran WR production (Mike Evans, Stefon Diggs)",
+            "Flex-caliber RB production (RJ Harvey)",
+            "Future draft pick inventory"
+          ],
+          "constraintsApplied": [
+            "Rebuild organizational goal prioritizes long-term D-AVI and young cornerstone assets",
+            "Starter-for-Starter rule enforced: every outgoing player component is league-relative starting caliber",
+            "Two-organization alignment enforced against trade partners' official HQ status"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 13,
+          "eliminationReasons": [
+            "Roster depth did not align with Northside Kings' tradeable surplus",
+            "Trade partner organizational goal conflicted with package offer structure"
+          ]
+        },
+        "opportunities": [],
+        "noDealExplanation": {
+          "summary": "No candidate trade path cleared the required Market Reality and package-quality standards.",
+          "primaryObstacles": [
+            "Elite target Amon-Ra St. Brown requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+            "Elite target Jaxon Smith-Njigba requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+            "Elite target De'Von Achane requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets."
+          ],
+          "userConstraintImpact": "No personal constraints supplied. Standard rebuild strategy applied.",
+          "closestPathToDeal": "Use league-relative starting-caliber player assets for Improve My Team and Shop Assets recommendations; starter targets require a starter-level centerpiece, and elite targets require a premium near-peer anchor."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "RJ Harvey fantasy football outlook 2026",
+          "RJ Harvey NFL draft team 2025 2026",
+          "De Von Achane news 2026",
+          "Jaxon Smith Njigba 2026 outlook",
+          "Mike Evans contract team 2026 news",
+          "Stefon Diggs team 2026 contract news"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV23lYlbuk6uDf2Ck6y1iKVrbtUeckuu_aqhRPsX1F6szf8VuI-MthjKfpNsb90r3pH6_AWS91nbUn-YVWRacSAQklk0bZHw97-3OGlZt3-wIk1FEYulrNaleZEj9RtAo_EFXO_0J3Xs25qmFOHtSdWM0cGSKWirpPw0DYPc8fh6Wx0TZiDR-XnrKY1uaZkcCLe0JGaxLyrJgR",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkpRu5lnFZT0uNRJMLzMD730kFWQDfJH38HDXOTclTa3iwnOsAgXJMO5rBnrAzRgY3JfkrUbCfzJI0u5Yinp8eBp_wUYQpSZ1TWFn-z8YxUAxBSQ196jufz-iDTBKmVROyLGAocrtWsgWiydCCrqLihWR9c0aE2v1F-QfjYDPFVnSjgiNUfxQsisk=",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI2oAVL7T4RXBq0e5MVi_mYWT_az-9cv4QDpj8dZaaA9bwZianYHHkE9HmhdRy9tjvkuIkVWU8wrbsDdB417JyBqFNY-0EsxaYtcgoZHkJWT-f-BN2orsMPu02mB4OpWRVEOstYqMwYSW4TXy3lYaVYT80TvKt7olj9znrUJ2y5QMPPGeGC7Ajys8AXOVil5VgCcFHNSariwiBAAtPp1LHUhO9sgRoTmUVIc08KOuQ",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExizgvsSnHLQKzCoGvWP29o8faXV5K1z_yH0iF3KRjcf9bvlFxlFx3LGmV_Kuq2ByDDDUeYw1oBxN-4XdXyQ2654L4lkcOyzMHYppMdWNFG_NL3574FMktz5dKfv-b89jgl1vmRhrskHeGvlW9-VPSxzrz16olqC1Vi74kBzZdLmLWN30o2dbAmOSaenEXuGCCloHVRXuHOz-76dsU2vHROVEWpap4aEuDAm8=",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtMGraiHUQPKPY-_6z0_7H-eyL9fIX0AdyX9dCNMTMsgKIXN3wASV1Ju_IkyUtlkQlkl2PfWBpgfcA8LgQyaU73olSQM506AlZs69FzZ7ZKTm8ZpRvJ4Ruutgg6u9Ajnchq96TiypdUs6tTe9jKBWBYAraQUWtUH5A3fdk-XxqH9bA8iWxqA==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd2gcxX6wx8uhUjDWHwQU8Vsc083joNEXwpaHt_Qf7ySAyC5Wd-fKRNYxo7whylfOeW0UBCg4MAEYHyOQLFSi2SJr_4s0qVVCJnGAMbYvDMwDQIWcPEfJJqD3N2-PYENGAwgGFG9eLiMcS01wT5PtD2vowZDk4JYgk3qBeof6jB_IiX8OWRXZTkdAfkzCg13R0VSelW172J_aT3Z6V",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNgEQk22u_NmlHSdlTANp3eb7giMQRTj7FXWL3GwPsl6ADQ6ztyEcxl3bxp939WyLOv51s6oPCnVZ09CoLK-eAG5DSZkDJ4Sdez7xnRSYtFDTuiyrTEnJtVS3ybHoQHXigr_d7wx79yb-KSXXhS84OuWdobCz4zVkz5zRs5nuSOlScw60N19hbEY-xMYk6amt706JyE7f4KVXBqdkXJg==",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeh672SlG13Nyp9_rs31S2WC0gWbTKUthrDTqbs0d0d6nkSdfeq3A1qsRPSEf6ovmqJ8Eg_FExvcR4Lr3_kdWSJAxk8g6p4sKv36-Dy9henu_qLh6k576hI23tMzgqLdAKPpqTXhlt5373mR8bFT2YdauECYiVsvoBQ7q2qp3U75MOfvi-1naqMU3krDdJ2LuAQdRn4VYGpbqt",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeGWRACQ7TGTu9LQOg9ofwA_nnBuDPG6mm3qbGNZxZV6L-uUJtRpdTy07737mpdC1f9BMWQaqi9FJQH-GsXPvjU4uxwNHg9ZNHsIUwS_1yVOU4mPmb_Ft4yB-2aWtzyps80n3nd6nF44OsSZsR0LcIv4fQ6kgM6A0t7qdUkS74_QTXa7DKPeAk7g==",
+            "title": "miamidolphins.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSs_8np59ySmaUfkDIx-jtcXSh-Qd1QrFoMOe4grfAcaLQukBI-Esjzjt8gb7Id7i75Hg7ADNczFOEbXQLlLj-ibKg4FzUOiDaGugwz4sGMZfF7QrXlJ9i8kCfpl_igXts4ILMYOKu3jxnQXWtTPxQMnju87sFtaVpSakWDKN1I4kWGWjNJXGPFxByfCKbUcS807a7O1dKI6gPJd9Eza3dF1vmO8Xt3ISDkXvn3oWyOggFhUM4",
+            "title": "denverbroncos.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbLNQ2u6tc0ZJiunkGK8OPxvKEEuJxPbynQ3dOwKqbPZKvtNSAC6cO-e3fJ4lKOZlDexUyRJCLLPwv6Ucr8OFcjfKu2JkeUVHNZPLwM14lJlbO8NE86CzmMs3CJFgjWhUAyrZ9Nzww2x47WZGwCSuFKyKS8uy3Pl6_jqm4YsUdd9FF1_szxnYhwWwUwsk5k0kcP6tH",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENaLMAb5COfO4wO9cqb0Vy4RWviPnP6jKLLOENpTnvNBfKRX_8iKSxsuwy5OQKnQ3BHWlz4KhKFFOGWl2XT1O7j36FkaJXjSBcNbbnTRUgpGyCsWqN4Y8FCOWrKQgujd_OAwpDFhZg5i9sNwdVJbSrH8nmUa9sNw8onmUvC3p23W4smxsG8gUr",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpd3RROQ04Vpv67EEJhb1zLJI7tv_nR34ta9QBFfHUw-jqwUflpReI_hkllILpsjoXSuAZl4GaUkhaXuf8M-3nzjK6-PwS8lwWB_uAK03RkwdPjvjc6KZTUXt2yW6b4kHFuwMWInBw4dLMP7q1CSgYQZVuUCTHRn4CkCyWFg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu3foc-dRFhM1bP8v7Z_CayrABa8Czsu0HlvYP696C0Vp240HAcz23IAuVZDDUBxkBVCr292hUG6Bl7SAS0AouQ7ck5HxVuni9G2W9E_VIxxdQswtl8e4z-ZVaK8cWJroyTMl4G2eWHCvmJ02UhTD84zSgSPNWfOSLbbIzx34p5771YlO30ueoV36YQA7DjNXF4aT5I2J1jXoLnQA=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIJAq8NplE-sB7ipTMw_BUmcU6tfREQSldwP3XS-OVM1osv1Br77GieMuyhVsuhD4EMDZXMCxgqh0Hw3AR-Mu24C_q6dLr6d2hkwUxt6CsQz4eDFRbuTO46mwJRKXCj6FNzoiBVpltWIvu5wZxRWvwoKafOEtDlu0P03fD3wUNlVRzNT4QaOQ5UZ_7Tg==",
+            "title": "49ers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8uHIHnrHwkz4XIsPXJZXvggAA38_31CO0QZiGhl8B5bVvp-Sb_Z_lyQFmtrUn7fi9vMup-70PYByae3WSr4umKpqtFgqAlDpdKcmXu3EY3uzrFGU3v8Z9xELgL1XnX4Bc",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcpNcwaTDTUVq7XqYYkjdgCyvXSfmLl7U4HI8BR99_nE9KVDrhDqO20yA3LoueHAUXNBpQrn2RD-PRz29rmuv6Kcdk6WzzaLgYfubYbe3rZx9WsaPB3HsbALIpcbtSKjfI3O8kHNBvseHhunxIAMN5YU27C4RBYk_pZfy1G3W45YdAd73E1jyvSgaVMoE5aeKuRA==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgTsPYoZ57XBPs7oWFqA2V4aUcLyaZpYbMvqqDFXpnKkSbPvJIF7UoKSHcvjScBQSgOxUqTbGBhFF5n1FjQyN6bQrUZIOoIsIuJmxohzJUCTsg_vsW_60t2lhovXMP6m9VDzMcekoyuyUPDSpEPZCbawUX5vZrDBfZLSSpodeRKulABjU4AXfhW09mb-BNgEBYbUzKBqI4_w==",
+            "title": "985thesportshub.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0qHgx3NUKCfteKhIkbpfOBzVVgoZn3oDjAICgI-n84rQpMedxwaff1fNpBIX5h6sompnjukaNgBLgaGOvKi4-fUkolu2-ykQRJM4T_sOs6hgI-AvoMMdmSG7WIhnQSoEpe20Tbaa_IKH7LEJFdB2B6M82I8gYW46f8k36vOGB",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYk46_c3Fbj1JZZSugE0Ki5ti9YX2Ya9htdUlrXNfxkUlk36OnkZGs5rW8myYYJDzzkchHs0Y0i9UfB80k0hEgOgLaiTGhOg1uahVukGKCpPgn0RL8zmEnx2c_piGjNyNCIdmoPyo1vBL9fVCSCHsP8e2n_ZiSfTgWdi4ey0secLSxcgHuHOn1jfgwKhzBRvolopEXvRSr262hztojEDHbBdetE13OoS6XgAcs8m20Ia3RqV2GrJh7mvXJ04jR4o3U7Cv5sw==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHyxUKzUQ0EQBCao5f1ADcK2qwg4t3x5GyIiZ9mrsCyYMzlLdcX1ZG3c3ZiGz9vxc1gZanF52U7agGxpqX7crrFioiiFlwcLUjdYIYoMxfTMPqXUjjumwCLhRoL4aqdVjwysDHHUar7gTGXOeY5mM9UpFR2F2hZ7WGx2WzRfHF_2Zp3R3xUNzsWC9E16b-PASomHKniu5eu6N7EMoaLB_0",
+            "title": "nfl.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "Mike Evans",
+          "Jaxon Smith-Njigba",
+          "Stefon Diggs",
+          "De'Von Achane",
+          "RJ Harvey"
+        ],
+        "aviCoreCommitSha": "9974eba45e8ecb027c2ca066954c93316528bcd3",
+        "aviCoreCommittedAt": "2026-08-14T22:18:45Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 418631,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mstj1qdo-3b1a9301",
     "createdAt": 1786747140919,
     "expiresAt": 1787179140919,
