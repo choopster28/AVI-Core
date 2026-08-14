@@ -1,5 +1,29 @@
 [
   {
+    "id": "msti2ufj-20ab2dd9",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [],
+      "personalContext": "I’d really prefer to move Rashee rice"
+    },
+    "createdAt": 1786745400586,
+    "updatedAt": 1786745400586,
+    "expiresAt": 1787177400586,
+    "status": "queued"
+  },
+  {
     "id": "msthxo9p-4958ae0f",
     "phase": "initial",
     "mode": "propose_trade",
