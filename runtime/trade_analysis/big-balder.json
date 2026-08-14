@@ -1,5 +1,359 @@
 [
   {
+    "id": "msti2ufj-20ab2dd9",
+    "createdAt": 1786745413043,
+    "expiresAt": 1787177413043,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Big Balder Brand ↔ All Hail King Jesus",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [],
+      "personalContext": "I’d really prefer to move Rashee rice"
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Champion Favorite) proposes acquiring Jaxon Smith-Njigba (WR1 overall, C-AVI 99.1, age 24) from All Hail King Jesus (Playoff Push). Incorporating the user's personal context preference to move Rashee Rice instead of Nico Collins, the recommended package now centers on sending Rashee Rice and Jeremiyah Love for Jaxon Smith-Njigba. This offer maintains elite starter production for All Hail King Jesus while aligning with Big Balder Brand's roster construction goals.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 89.8,
+              "davi": 95.5,
+              "publicMarket": 92,
+              "leagueMarket": 90
+            },
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 91.8,
+              "davi": 96.1,
+              "publicMarket": 91.5,
+              "leagueMarket": 92
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 99,
+              "leagueMarket": 99.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "Big Balder Brand secures the league's elite wide receiver asset in Jaxon Smith-Njigba (99.1 C-AVI) while swapping out Rashee Rice and Jeremiyah Love to satisfy personal player preferences. All Hail King Jesus receives an exceptionally strong package that addresses their running back weakness."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "Substituting Rashee Rice for Nico Collins in the offer maintains equivalent value balance while honoring the user's explicit preference."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Consolidates starter depth into a premier, generational WR1 asset (JSN) while respecting user preferences regarding Rashee Rice."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Elevates starting WR ceiling to unmatched levels."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Acquires 24-year-old JSN (99.6 D-AVI) to anchor the multi-year window."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "WR1 position reaches maximum league potential."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Reduces backfield and WR depth by parting with Jeremiyah Love and Rashee Rice."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Acquires the single most liquid and highly valued wide receiver in dynasty."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 30,
+              "summary": "Transforms a flawed roster into a balanced contender by solving its primary structural hole."
+            },
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Boosts Playoff Push probability with high-end starter additions."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Acquires young elite RB Jeremiyah Love and productive WR Rashee Rice."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Substantially upgrades starting lineup configuration."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Spreads asset value across two elite starters."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Converts one blue-chip player into two high-value starter assets."
+            }
+          },
+          "explanation": "The trade creates a win-win scenario while keeping the user's roster preferences intact by moving Rashee Rice instead of Nico Collins."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand inserts Jaxon Smith-Njigba (99.1 C-AVI) at WR1, sliding A.J. Brown to FLEX1 and promoting Chris Godwin (62.1 C-AVI) to FLEX2, maintaining a robust starting baseline while maximizing peak weekly output.",
+          "sideADynastyImpact": "Acquiring 24-year-old JSN (99.6 D-AVI) gives Big Balder Brand the premier young receiver in dynasty, perfectly aligned with Trey McBride (age 26) and Rashee Rice (age 26).",
+          "sideARosterImpact": "Capitalizes on running back depth (retaining Saquon Barkley and Omarion Hampton) to upgrade wide receiver starter quality.",
+          "sideBChampionshipImpact": "All Hail King Jesus gains +31.0 net C-AVI in its starting lineup by replacing Zach Charbonnet/Aaron Jones with Jeremiyah Love (89.8 C-AVI) at RB1.",
+          "sideBDynastyImpact": "Receives 21-year-old Jeremiyah Love (95.5 D-AVI) as a long-term RB anchor alongside 27-year-old Nico Collins (96.1 D-AVI).",
+          "sideBRosterImpact": "Eliminates their largest structural defect at running back while preserving a formidable WR room featuring Amon-Ra St. Brown, Nico Collins, and Tee Higgins.",
+          "valueAssessment": "JSN commands a premium multi-starter return. Offering two 89+ C-AVI starters satisfies market value requirements and fulfills both teams' competitive objectives."
+        },
+        "publicMarketAnalysis": {
+          "summary": "JSN is universally regarded as a consensus top-3 dynasty wide receiver following his 1,793-yard, 10-TD OPOY breakout season in Seattle. Prying him away requires an overpay featuring multiple high-end starters.",
+          "aviVsMarket": "AVI places JSN at 99.1 C-AVI / 99.6 D-AVI, which matches live public consensus ranking him as an untouchable tier-1 asset in startup drafts.",
+          "relevantContext": [
+            "Jaxon Smith-Njigba won 2025 NFL Offensive Player of the Year, leading the NFL with 1,793 receiving yards and a 35.8% target share.",
+            "Kenneth Walker's free agency exit leaves Seattle's offensive engine firmly centered on JSN's target volume.",
+            "Public dynasty market requires a legitimate RB1 plus a high-end WR starter to move JSN from any competitive roster."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "All Hail King Jesus's stated goal is 'Increase Championship Odds (Playoff Push)', and acquiring Jeremiyah Love provides a true RB1.",
+          "packageFit": "Jeremiyah Love addresses their RB emergency while Rashee Rice provides a high-end receiver replacement.",
+          "lineupReplacement": "Rashee Rice immediately fills a starting WR slot.",
+          "competitiveWindowFit": "Directly advances All Hail King Jesus's Playoff Push without shortening their long-term window.",
+          "positionalScarcity": "Starting RBs producing at an 89.8 C-AVI level are exceptionally rare in a 16-team league."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 75,
+          "classification": "Realistic",
+          "explanation": "Replacing Nico Collins with Rashee Rice in the package maintains nearly identical overall value and acceptance probability (~75%)."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Propose sending Rashee Rice and Jeremiyah Love to All Hail King Jesus for Jaxon Smith-Njigba, successfully incorporating your personal preference to move Rashee Rice while securing the elite WR1 asset.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 89.8,
+              "davi": 95.5,
+              "publicMarket": 92,
+              "leagueMarket": 90
+            },
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 92.4,
+              "davi": 96,
+              "publicMarket": 93,
+              "leagueMarket": 92.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 99,
+              "leagueMarket": 99.5
+            }
+          ],
+          "whyUserShouldDoIt": "Acquires 24-year-old JSN (99.1 C-AVI) while satisfying your preference to trade Rashee Rice instead of Nico Collins.",
+          "whyOpponentMightAccept": "Directly fixes their crippling RB deficit with Jeremiyah Love while adding dynamic young WR production in Rashee Rice."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 89.8,
+              "davi": 95.5,
+              "publicMarket": 92,
+              "leagueMarket": 90
+            },
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 91.8,
+              "davi": 96.1,
+              "publicMarket": 91.5,
+              "leagueMarket": 92
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 99,
+              "leagueMarket": 99.5
+            }
+          ],
+          "rationale": "The original baseline offer featuring Nico Collins if the trade partner prefers Collins over Rice."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "User stated a preference to move Rashee Rice. This personal context was applied by substituting Rashee Rice for Nico Collins in the recommended trade package while preserving the exact value balance and structural rationale of the original analysis."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba fantasy value 2026 dynasty",
+          "Jaxon Smith Njigba news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECWcNRgmrpK37irt2lz1sJh0y1lVm3yU3NpKvOs80IIlMcWFVAASC2cl5hI-rLyc0zv1ivQnNm27IdT-9M3EGalaU5w-4tqfbRsDP4rURxkCCQG7sW1b6X4jtVBU7X6NNUzs8Y2eDRWGCNLLEGsNpWaf5h8mzBpneI6gCxpV737NmT_IhjpTTp7Xii_KHbHxHYkqezksZs6Or1ou3NyNJGJ4smzWOZnbpmunY=",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZ_MRYZ-usqm02MDYjB6MRUyvEaHXemSRT8lV4leQ6V7Aulc5Y7qLVDW3t-luOW27ePz5iwmfg0bkIGfoQusF6EfWk0kjSVrLbbmd1XKhyRvXaoi8O6lyGEpJTEm9tO3rZhHpjkVxbQuR5wALaB_51QhkRS3T5KIx3ENFnJkg1YUHBkN3975nzLy6LULQ",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyZJ2fBCAoasVxLleokR72xVPc9AP3ZvzMupj7ZWgLTSZOJqe2w3T9uj2jRhdtcIW-FHbKAlc5cXErFjU7xwKLK7EAD851LR4lUSoVH6pDNTj8-6k_AGxMKxWjlb1eRcGD5hFzrlfPQkSQZJ5eexDmRR5mmpEVzSBZV1fy4MWFokFamOpeUxsy7wOaZd1lF9JyvVZBmU9LhRL-nO2dInxXi0FSzfprHcc_jDAlucW1",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOmATrPXDfFsBaYAMcHfIJ0dwVmSezKBYWMeBLpjrg2MlkuEDbY7ArfTFKvy0Y3bC4FnmUuxY2mSRcW50hLsMtNf0H0u6FuO4Sasazk79io6XEONprvPfQke7KwQzs_NU3OqjCwibYI92GsPNN",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV2DjjqKmTQEEuotQcitdRQqKaNOMcwj32SFmgnSSEQotKUZMXXlGkWNoMzGrzRiU7WgOzUMw9uDnEQH6xM8RKiYy8ewdhjyzfZ3s0W1jyPoHjgpBCZFmvDa060WuPrQgqIFeoBcMLceGv3ErXokLQKvo9iuymsFdayf79b1bo4khB97Kr-IBheOxA55naNyhBNLcvVQnXhO8RDTHF",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuwnxD8h9tRnIIqv8fMJAu4yw_e1eqG7gVWAd7Kqh4DEIaBfZW4N_p9NR9DagUU1JKJkl37AwceJnDklZn9Zxp_HhLnIblIWJcp50DUcV0aGYf9KvlHI-Ol8Tkck782PnjSr2AOG370it9hQE5D-W7BlfwfJSFUPrro19IdJiEdEe9H2MoZs4bb53_D_Bk7GohGwTidjMYH-w=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKBQ4G2ch4pHkIM9Ddq7Mizt842gXuMzcU-ukOOF6Iqetdb7U-O3g0_q98xkCUVW2Xf8v6SNDQE2NHhnLbIg1Uh0hDSRelrP_4-T5fgMP7dl4eaGl-lDRfT6jiml9GKIqVE4uX86WOUlkg0bEj",
+            "title": "dynastynerds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmmXyEQ2jw4dW1o8MRx4mOA9du7AF4jeneuLgHx2RBQ_XmGVamPP-SxWaaMYsovWrLw6JJM4npMPTUVm1mCYp_Ld9ONy4nPwy2YfFOhWFYLqddkZR1UEkATf_fhi8eq4FWMPtccK4aWSxKhOejJPbvYEh29wucasQLEmcQjld_BulZLj8TZQsGUA==",
+            "title": "facebook.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c55fd1b821dd75c21d040adbaf4528e60f62f282",
+        "aviCoreCommittedAt": "2026-08-14T21:52:44Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 65432,
+        "groundedMarketChars": 2395,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "msthxo9p-4958ae0f"
+      }
+    }
+  },
+  {
     "id": "msthxo9p-4958ae0f",
     "createdAt": 1786745220985,
     "expiresAt": 1787177220985,
