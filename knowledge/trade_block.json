@@ -1,0 +1,17 @@
+{
+  "league_id": "1312185568032997376",
+  "season": 2026,
+  "source": "Autobots commissioner-confirmed league trade block",
+  "updated_at": "2026-08-14",
+  "players": [
+    {
+      "player_id": "9226",
+      "player_name": "De'Von Achane",
+      "owner_team": "Conquistadors",
+      "owner_roster_id": 1,
+      "available": true,
+      "status": "Publicly Available",
+      "note": "Confirmed on the Autobots league trade block. Treat availability as established; evaluate only price, package fit, lineup replacement, and competitive-window considerations."
+    }
+  ]
+}
