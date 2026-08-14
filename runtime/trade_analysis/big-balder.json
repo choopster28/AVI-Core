@@ -1,5 +1,416 @@
 [
   {
+    "id": "1786685691001-0vq3c3",
+    "createdAt": 1786685691236,
+    "expiresAt": 1787117691236,
+    "mode": "improve_team",
+    "title": "Improve My Team · Big Balder Brand",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetPosition": "RB, WR, TE, QB",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand enters the season as a powerhouse contender with elite starting anchors across QB, RB, WR, and TE. To maximize championship win probability, targeted moves should leverage surplus draft capital and younger bench assets to acquire proven, high-floor flex/depth starters like Jaylen Warren, Tony Pollard, and DK Metcalf, bolstering weekly lineup security against injuries without sacrificing core roster integrity.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite starting lineup anchored by Jaxson Dart (82.4 C-AVI), Saquon Barkley (92.0 C-AVI), Omarion Hampton (91.4 C-AVI), Jeremiyah Love (89.7 C-AVI), Rashee Rice (96.1 C-AVI), A.J. Brown (93.2 C-AVI), Nico Collins (91.8 C-AVI), and Trey McBride (99.5 C-AVI).",
+            "Robust core with top-tier C-AVI and D-AVI metrics positioned for an immediate championship run."
+          ],
+          "priorityNeeds": [
+            "High-floor RB and WR flex depth to insulate the roster against mid-season injuries and bye weeks during the title push."
+          ],
+          "tradeableSurplus": [
+            "2027 and 2028 Round 2 draft capital",
+            "Younger depth running backs and wide receivers (Tank Bigsby, Tyler Allgeier, Chris Godwin)"
+          ],
+          "constraintsApplied": [
+            "Targeting high-probability acquisitions (Acceptance Probability ≥ 70%).",
+            "Preserving starting core intact."
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rival contenders unwilling to deal key starting assets to Big Balder Brand.",
+            "Rebuilding teams requiring 1st-round draft picks that Big Balder Brand currently lacks."
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Phalhala or Bust",
+            "targetAssets": [
+              {
+                "name": "Jaylen Warren",
+                "assetType": "player",
+                "owner": "Phalhala or Bust",
+                "position": "RB",
+                "age": 27,
+                "cavi": 69.4,
+                "davi": 83.8,
+                "publicMarket": 69.4,
+                "leagueMarket": 69.4
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Tank Bigsby",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 23,
+                "cavi": 43.1,
+                "davi": 70.2,
+                "publicMarket": 43.1,
+                "leagueMarket": 43.1
+              },
+              {
+                "name": "2027 Round 2 (Gringo’s Goblins)",
+                "assetType": "pick",
+                "owner": "Big Balder Brand",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": null,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Depth Upgrade / Lineup Security",
+            "strategicGoal": "Acquire high-floor PPR running back depth to fortify the championship bench.",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 86,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Warren provides an immediate, high-floor flex option with heavy receiving involvement in Pittsburgh, giving Big Balder Brand crucial RB depth behind Barkley, Hampton, and Love.",
+            "whyOpponentMightAccept": "Phalhala or Bust acquires a 23-year-old running back with high handcuff upside in Philadelphia along with valuable 2027 2nd-round draft capital to support their retooling strategy.",
+            "championshipImpact": "Significantly boosts lineup flexibility and protects against running back injuries during playoff weeks.",
+            "dynastyImpact": "Slight sacrifice in draft assets to convert developmental depth into reliable current scoring.",
+            "rosterImpact": "Adds an established PPR back to the bench while clearing roster room.",
+            "publicMarketContext": "Warren is entering the season as a key 1-A option in Pittsburgh with locked-in passing-game work.",
+            "risks": [
+              "Warren operates in a backfield split with Rico Dowdle."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Tank Bigsby and a 2027 3rd-round pick initially.",
+              "acceptableConcession": "Upgrade draft asset to 2027 Round 2 (Gringo's Goblins).",
+              "walkAwayPoint": "Walk away if Phalhala or Bust demands an additional draft pick or active starter."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "DMV Fantasy",
+            "targetAssets": [
+              {
+                "name": "Tony Pollard",
+                "assetType": "player",
+                "owner": "DMV Fantasy",
+                "position": "RB",
+                "age": 29,
+                "cavi": 67.2,
+                "davi": 80.9,
+                "publicMarket": 67.2,
+                "leagueMarket": 67.2
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Tyler Allgeier",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 26,
+                "cavi": 47.3,
+                "davi": 74.8,
+                "publicMarket": 47.3,
+                "leagueMarket": 47.3
+              },
+              {
+                "name": "2028 Round 2 (Big Balder Brand)",
+                "assetType": "pick",
+                "owner": "Big Balder Brand",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": null,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Veteran Flex Acquisition",
+            "strategicGoal": "Add a proven lead-back touch monster for weekly lineup coverage.",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 20,
+              "packageMatch": 17,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 80,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Pollard is locked in as the primary back in Tennessee, providing double-digit weekly touching consistency as a championship safety net.",
+            "whyOpponentMightAccept": "DMV Fantasy moves an aging 29-year-old running back to gain younger RB depth in Allgeier and future 2nd-round draft capital.",
+            "championshipImpact": "Increases weekly baseline output and eliminates zero-point risk at flex during heavy bye weeks.",
+            "dynastyImpact": "Slightly ages running back depth but secures immediate championship insurance.",
+            "rosterImpact": "Exchanges a secondary backup for an active NFL lead back.",
+            "publicMarketContext": "Pollard remains Tennessee's lead rusher following a 1,000-yard campaign, though sharing third downs with Tyjae Spears.",
+            "risks": [
+              "Pollard's age curve and impending 2027 free agency."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Tyler Allgeier and a late round draft swap.",
+              "acceptableConcession": "Include 2028 Round 2 pick as the bridge asset.",
+              "walkAwayPoint": "Walk away if DMV Fantasy demands 2027 draft assets or higher-tier players."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Lightskin Legends ✊🏽",
+            "targetAssets": [
+              {
+                "name": "DK Metcalf",
+                "assetType": "player",
+                "owner": "Lightskin Legends ✊🏽",
+                "position": "WR",
+                "age": 28,
+                "cavi": 70.7,
+                "davi": 85.4,
+                "publicMarket": 70.7,
+                "leagueMarket": 70.7
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chris Godwin",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 30,
+                "cavi": 62.1,
+                "davi": 79.3,
+                "publicMarket": 62.1,
+                "leagueMarket": 62.1
+              },
+              {
+                "name": "2027 Round 2 (DMV Fantasy)",
+                "assetType": "pick",
+                "owner": "Big Balder Brand",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": null,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Receiver Consolidation & Upside Upgrade",
+            "strategicGoal": "Upgrade wide receiver depth into a high-ceiling weekly starter.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 19,
+              "packageMatch": 16,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 77,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Metcalf adds explosive spike-week ceiling to the WR corps behind Rashee Rice, A.J. Brown, and Nico Collins.",
+            "whyOpponentMightAccept": "Lightskin Legends gets a highly steady target monster in Godwin plus valuable 2027 2nd-round draft capital.",
+            "championshipImpact": "Elevates team ceiling in high-scoring playoff matchups.",
+            "dynastyImpact": "Youngers WR depth from age 30 to 28 while maintaining high-end production.",
+            "rosterImpact": "Swaps WR depth pieces while improving positional upside.",
+            "publicMarketContext": "Metcalf is featured in Pittsburgh's offense with Aaron Rodgers under a versatile new offensive scheme.",
+            "risks": [
+              "Metcalf managing minor preseason training camp bumps."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Chris Godwin and a 2028 3rd-round pick.",
+              "acceptableConcession": "Upgrade pick sweetener to 2027 Round 2 (DMV Fantasy).",
+              "walkAwayPoint": "Walk away if opponent requests 1st-round value or an additional starting core asset."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tony Pollard news 2026",
+          "Jaylen Warren news 2026",
+          "Tank Bigsby news 2026",
+          "DK Metcalf news 2026",
+          "Chris Godwin news 2026",
+          "Tyler Allgeier news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBc5q46WBXyqs6BWJkMnCtfaD-IveKnfdZZadKhKQ8O6i0PMQNEJmHklFFLAfpbVxwHEfUUQVUPteHELlF8ZL8-fb-e6apPoJMJ7Meh8fwi6Hq02Lu_iwnWX48awrx9PbRHekEohULIOQXdlfJAMVqKaq47cDLICqTt-T3pQ==",
+            "title": "steelers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFheaXSIA25ulTG3CWY_IzhnEtpi1icqKdNfXaxEWf5v-gl_Ltn6AAGI0j-pHIDfxX6S9tn9KXT3UjwfpiI4yqgTbwZDV_xl5Ty4SwYclYh6LMz2gCKgAOoFTp2MwodlnxTlkiMq96XiA==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv5t56DJniFzLW79FMJDIxARPGuU1Zq417-4N8kJDzeKEvfCh_WeTP5J6a8phGfrJnBYnlxmgQ1l5d50gWyTIgFcf-QMSQx8K1YP7W80GIbnz6s2eNK2Dzw2_Y3UAaAT7DLLS1Hzb9k-iJJ930S9K2NOHxHVJsyzDtKA4bIjvdSs0h1yza-4X60uXmObkStDT4xZWrd5kQ4DYDSO54GmDBVEwwDSlS1UYoJHhyLg==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJY-doPRbx49ZJ8HNHNXNmI_wyhvt3a1RpPzUblzX5-WEeZ-o0p7gz_vT5XD51j-l0ZFGqCPWpswSItkFO66YvITZCX7HVs8MMOENH2sYMvW2RoffyzDwdjgpP0D4fc0Q=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2MvO7oCKak-EoTM_9EXuYHk68B-J3qv650F5gzjiJ5yxkDgMOLMGYsZfWPH2ceb9habcEHKnwpyjb7omUQ6HrVRnuaK17i6us5d2x7JbW5sczWMxHH-AwEI9EpX4PxYuFgowNa0FliI_ar-dF0GQAD9nbsLUYV_ox_OvwqBwTYbIbOnTmIwfN9smNn-zo8xCqOjTKHAAVwcP3TOrLrGW5ZBw=",
+            "title": "philadelphiaeagles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6tTR_bRHucNLoSK0R9QIOrD5qkTg4u7Rr7MHwlwE4rmyu5uKxErT8mTVg8jgWpOJbVtzbi0dAdZbKM4Ai_dRzlEl7BVG_gQvgjdpwUJUDDZdA3VGf439lzuALrAjQW6X6J9TafvML8zvz2H3uJOYNkfDnDQHlR_XrXFAomYsjRW-CKA==",
+            "title": "metrophiladelphia.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5OZj4seQf_u5HkWdWjixN0UBxIZfxp-Opi4s8z_tspSStLfUu5fH8Rn89637jPk45QbGHpY5wIJ3ounJeTqDRq4-pYPJLCBe0C7hrssiaJEigCf28A4sI85ZZ_Maqt9QBIjmUnm9joFeLDcUGGeChs5BN3y_KOanZf_VrwvsKqOJ65FqQqw==",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBe7eZOIQUrodiqfkKfr6hAO_IT11wnCnA8zwLGC34ehh8qECIGzqhnmHLONpSRpVIpEpICU0cfjcGRC8WvsxSzlHnxvQuLCdbKr2z3IpIocYWOJEWExmNYgERxie5u6yq",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbqZ49yVW9PZOAevLnBx4iLb-4HHRxGchOd9LZj2UVb5q5VxqSMk52vhiBKFdjmYOVxdUSFazfPvhlypx5Y6e2aCGWJTnXZMdTLvI6Ii0h4YwNKYc_UKZPNBD7xUGL_8XHt42sXGodctV6z54n_HxRYs6ZtQHrpnfIsOWi8cV4CgxD8I-5ptaAdH11U_7026OCH0r5Ir5gSqihxhU=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmm2GfbLT38bWXQFfgRGLF-ZNyxr6k1ahF3_KLvfMAj1MmjKBtYnl7zG9WtXL3t1mZpbWhx0rpUbSBw0HJns2ezelVrCTIuTikRlsfBddcCJdguIhSYmSKCCFydGMzCVIu7jhACHvDYe60N5mH",
+            "title": "sportspyder.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYfeKzsD3cYlF9Sw8m_wbay6JmMTzNaoSvo2p8Z2nr5kQU95WgBRgb1kMcSi67v4_46MyjFLM7wJ206KcrTPmO8PV_anSQIEJhrIvieKiCbSINUJabB5Gjzto-M9s24v4ZgEn-ntHNUfun9U8R8vnnycAo9H9LcObiFMnsoqK4nWC6fQsav-Ge1AyBOjNPuymgpAAWHpDeiq3VUGb9cz5K5S66qW37-qTanp2cN2Yg",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbwEwYi6lbJn-n6SA_q87pqSJEWzdVZCjzdsspG8LAjz6TJybzhZH7A6KzDNOubCbD-nA0e2wqlVL8Re-33i5f6-4AeJyNcaTDO4GOIRy5gW2IQUHsw3SiLRm5hnotUfJLP1iU6IvIUZ6JeijzhhWIUY1mAV0w1aap9t12gAF0uegaxBk4yREhBqD2RceCquP8nmOqc-X8oYaIqvTU12tt4Yj62jJDaFd",
+            "title": "bloggingdirty.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElX3hFbqecaRKgzsqnxbyjSE1ZEsC4wdKbNdZwX3ZJEUNRtplKlzn0JMj-IMS9oRpwrzXtfAAWqC8rR5SSqhzIsBapAQsprIspKBxOvQRrq42i8h_oe9YrPKb0GBGEVRlbnLqzweDWjDg=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCt_Lt_od04G1YT1I_znUX319X4AKrDNXo1FxI05wHAJ-jJKrCBV2AZz8PmhRaHCEGjol_n6dNMHvbRm63G-o0L8kd4gbplmgEih5FjEAPwxx1X7V3JvlOYiO8msVvrro5hZnM7ZdCtUX_rL07sXdwfBedj2lxHvMJMgQNg8eD2hCKj66HNIwbl2L6AoG2Onb9",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESTNuMLzOWlbpTHAIZXKiE8MWksZgp27hrn36K0doIJLSU8LRG-pOeBYt-nppg6BFcZXyr5Grbrqi0hVO7m18e2r2wB3MjEwVBLTRCCurk_BI5pjmxxfWvcvvJri1XhL6tLdOv6qSssKsW2mWGmoc0RLd777tTyAE-BiC2-CivoF3IiOwEyAUTSqGlk3jfltINDcukj3RXM4MvQFVxTw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQnD2EI2jVNpCDlhznw-y4FpvtHbKRUktqDqrRyVf_FXWkhXrDuNK2MeNcFbn7HvjJ-JkETvAiXF9KrKwK85LAnaKeiiRa9Jfc8G-T-d92aojNsYh5R-c9aR-zXb-4E7w35XoS8zs7Yl566KWoy0Hinby_gSokFX5xZC-QFv_-mlugEmFyCRaFFXTLrzWhlytjGrES0y2M6YxTxzR_1WY=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzZXu26sA7fOIiKlYpWwizw1fE61qdO5TtSLPLKtAfBQvj7wessVAhPgYAc7mzn3CXvgRPeKG1pIV-ykTeqeJ2pE0Ucm9n6fplVgqH94T12KAbU7SXD7uJrvOdZse8BkPX8sEbbg==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-DRiS3EuRmmdzek8BLIeT6aOVyIQAMp4MJBXaY_efR7r_LcCKwalmazbqM0yC9R563MlFg4wPmyA65t9DewjRbYoSmA63Xprz9NiIomffWPWYeK-ko-HbL6wDS-GQjtqtOpHhabTPol_pL5ZNJesWwgPnFZ4RSjf6vgFRDCT4XA_p2BCjx4b3NwsGvS0hR5XLWmpBFFWr",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgQPoVyEmkoMeF_TFR_I_tbHwkJPReJMSy8tnuR6Apcw4SO9qEkCT-d8EXdix3HIXGch8hhIk-ZGJcNLDrHOH3fEZoQk4E22WkCR2gm427cPmYiSzAXbPUSQSQMahM12cdZ8nJksUnhieCLFUkIetB-5OKK0E4kW6ncyDpwEYxd8unSf3H4At4WZpupd8jZM-cQ2IyFtoi-79Azr8=",
+            "title": "thepewterplank.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPOQHmbybwYBklVVDujsjSA_-qnw9ddxM1mDWrYaPlBZZQTcvqhyIehn8AFzwE-IeW80dlepbSB9Z1dwsoaupBVXEvQY8XV7Juycxlhgjk9xjCYL9Z0pB3vzCQOVoa9VvBF53NGFSRm8hgvcPYrse4s4LXvoKT9wWX52oPGyXvA8accUNwLn50cxw34teAN3Xv46Tjyj5GFOO2bEsMtOjmpAvwJXyjgWBxdXTkRYkBAPMndA==",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Jaylen Warren",
+          "Tank Bigsby",
+          "Tony Pollard",
+          "Tyler Allgeier",
+          "DK Metcalf",
+          "Chris Godwin"
+        ],
+        "aviCoreCommitSha": "9f7c08fda27d6bc08ff84872605180dbc5506e73",
+        "aviCoreCommittedAt": "2026-08-14T05:11:44Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 411723,
+        "personalContextProvided": false
+      }
+    }
+  },
+  {
     "id": "1786683896772-vgwh0z",
     "createdAt": 1786683896843,
     "expiresAt": 1787115896843,
