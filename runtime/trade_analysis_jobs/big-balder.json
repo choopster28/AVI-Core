@@ -29,9 +29,406 @@
       }
     },
     "createdAt": 1786744450196,
-    "updatedAt": 1786744451603,
+    "updatedAt": 1786744503366,
     "expiresAt": 1787176450196,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "All Hail King Jesus proposes sending WR Tee Higgins and a 2028 1st-round pick to Conquistadors in exchange for RB De'Von Achane. From the user's perspective, acquiring an S-tier cornerstone RB in Achane addresses the roster's primary bottleneck, boosting starting lineup production by +22.6 C-AVI. However, from the perspective of Conquistadors—an Elite Contender pursuing a championship—surrendering Achane leaves Tyjae Spears (50.5 C-AVI) as mandatory RB2, causing a -38.0 net decline in starting lineup C-AVI that severely undermines their title window. Consequently, while Achane is publicly listed on the trade block, Conquistadors will reject this offer as constructed due to lineup replacement failure. AVI recommends revising the offer by including RB Aaron Jones to provide Conquistadors with an immediate starting RB2 replacement.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.1,
+              "davi": 91.2,
+              "publicMarket": 80,
+              "leagueMarket": 82.1
+            },
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.8,
+              "publicMarket": 95,
+              "leagueMarket": 97.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "The submitted construction is heavily advantageous for All Hail King Jesus, filling an urgent need at RB1 and raising starting lineup score from 627.0 to 649.6 C-AVI (+22.6 C-AVI). Conversely, Conquistadors takes a severe starting lineup hit (-38.0 C-AVI) by creating an unviable starting RB2 slot filled by Tyjae Spears (50.5 C-AVI), making the offer strategically unworkable for a championship-contending seller."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "By adding Aaron Jones (55.1 C-AVI) to the package alongside Tee Higgins and the 2028 1st, All Hail King Jesus credibly fills Conquistadors' newly created RB2 hole while still retaining a net starting lineup upgrade (+19.0 C-AVI) via Achane."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Securing an elite RB1 elevates weekly scoring potential across the 2026 postseason push."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Acquiring a 24-year-old elite RB preserves core dynasty value despite forfeiting a future 1st-round pick."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "Starting lineup C-AVI jumps +22.6 as Achane replaces Charbonnet/Jones in the top RB slot."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Deebo Samuel moves into FLEX2, slightly flattening wide receiver bench depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -25,
+              "summary": "Outflow of a 2028 1st reduces future trade flexibility."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Substantial upgrade to starting lineup power at the cost of future pick capital and WR depth."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -50,
+              "summary": "Net starting lineup hit of -38.0 C-AVI directly degrades title contention strength."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Adds a liquid 2028 1st pick and solidifies WR depth with Tee Higgins."
+            },
+            "lineupQuality": {
+              "score": -55,
+              "summary": "RB2 production drops precipitously from Achane (97.4 C-AVI) to Tyjae Spears (50.5 C-AVI)."
+            },
+            "depthResilience": {
+              "score": -30,
+              "summary": "Loss of a premier RB leaves no startable depth behind Bijan Robinson."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Gains premium future draft currency and flexible wide receiver capital."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Creates a critical position failure at RB2 that severely threatens current championship odds."
+            }
+          },
+          "explanation": "The transaction delivers a major lineup boost to All Hail King Jesus by securing an anchor RB1. However, for Conquistadors, losing Achane converts a position of elite strength into a catastrophic RB2 gap, lowering total starting lineup C-AVI from 725.3 to 687.3."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "All Hail King Jesus gains +22.6 starting C-AVI, replacing weak RB options with elite RB1 production (Achane: 97.4 C-AVI) while shifting Deebo Samuel into FLEX2.",
+          "sideADynastyImpact": "Acquiring 24-year-old De'Von Achane (96.8 D-AVI) offsets the loss of 27-year-old Tee Higgins (91.2 D-AVI) and the 2028 1st pick.",
+          "sideARosterImpact": "Solves the structural running back deficit on the roster without gutting starting wide receiver quality (JSN and Amon-Ra remain intact).",
+          "sideBChampionshipImpact": "Conquistadors suffers a -38.0 C-AVI starting lineup reduction, as Higgins entering FLEX2 (+18.9 C-AVI over Juwan Johnson) fails to compensate for dropping from Achane to Tyjae Spears (-46.9 C-AVI at RB2).",
+          "sideBDynastyImpact": "Gains future flexibility through a 2028 1st-round pick (79.3 D-AVI) and 27-year-old Tee Higgins (91.2 D-AVI).",
+          "sideBRosterImpact": "Leaves Bijan Robinson as the sole premier RB, forcing unproven or low-ceiling options into mandatory starting roles.",
+          "valueAssessment": "Raw asset value appears plausible on paper, but positional impact creates a heavy structural imbalance against the seller."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In public dynasty markets, De'Von Achane is viewed as a high-upside top-5 dynasty RB coming off a massive 2025 extension and top-26 NFL ranking. Tee Higgins is established as a premium WR2 with WR1 touchdown upside, while future 1st-round picks hold steady baseline liquidity.",
+          "aviVsMarket": "AVI rates Achane slightly higher in local league context (97.4 C-AVI) due to severe 16-team running back scarcity compared to public redraft/dynasty consensus.",
+          "relevantContext": [
+            "Achane signed a $64M extension and remains the focal point of Miami's ground game.",
+            "Higgins is fully healthy with Joe Burrow, locked into a long-term Bengals deal.",
+            "In a 16-team PPR format, elite running back production carries a higher replacement premium than wide receiver depth."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors is an Elite Contender with a verified goal to Win Championship. They are open to trading Achane (listed on trade block), but only for a deal that preserves their immediate title window.",
+          "packageFit": "Higgins adds WR/FLEX quality, but the package fails to address Conquistadors' immediate operational need at running back.",
+          "lineupReplacement": "Severe failure. Removing Achane forces Tyjae Spears (50.5 C-AVI) into the starting RB2 slot, creating a massive weak point.",
+          "competitiveWindowFit": "Direct conflict. A championship contender cannot accept a 38-point net reduction in starting lineup strength during a win-now season.",
+          "positionalScarcity": "Running back depth is extremely scarce in 16-team leagues; surrendering a cornerstone RB requires viable starting RB compensation."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 10,
+            "packageMatch": 8,
+            "lineupReplacement": 2,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 52,
+          "classification": "Stretch",
+          "explanation": "De'Von Achane's trade-block listing satisfies the availability check (30/30). However, the submitted construction fails lineup replacement (2/15) and competitive window fit (2/10) for Conquistadors. Trading away Achane without receiving a startable RB leaves Tyjae Spears as mandatory RB2, dropping Conquistadors' starting lineup score by -38.0 C-AVI and damaging their title push."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Targeting De'Von Achane aligns perfectly with All Hail King Jesus's objective to increase championship odds. However, sending the offer as constructed will result in a quick rejection because it cripples Conquistadors' starting RB2 slot. Adding RB Aaron Jones to the proposal fixes Conquistadors' lineup hole while preserving a significant net gain for All Hail King Jesus.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.1,
+              "davi": 91.2,
+              "publicMarket": 80,
+              "leagueMarket": 82.1
+            },
+            {
+              "name": "Aaron Jones",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 31,
+              "cavi": 55.1,
+              "davi": 73.7,
+              "publicMarket": 60,
+              "leagueMarket": 55.1
+            },
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.8,
+              "publicMarket": 95,
+              "leagueMarket": 97.4
+            }
+          ],
+          "whyUserShouldDoIt": "Achieving an anchor RB1 in Achane raises All Hail King Jesus's starting lineup C-AVI from 627.0 to 646.0 (+19.0 net gain), while leaving Zach Charbonnet (51.5 C-AVI) to step into RB2.",
+          "whyOpponentMightAccept": "Including Aaron Jones prevents Conquistadors from relying on Tyjae Spears at RB2, providing a startable veteran RB alongside Tee Higgins and a 2028 1st pick to maintain their championship push."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.1,
+              "davi": 91.2,
+              "publicMarket": 80,
+              "leagueMarket": 82.1
+            },
+            {
+              "name": "Zach Charbonnet",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 25,
+              "cavi": 51.5,
+              "davi": 78.9,
+              "publicMarket": 58,
+              "leagueMarket": 51.5
+            },
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.8,
+              "publicMarket": 95,
+              "leagueMarket": 97.4
+            }
+          ],
+          "rationale": "If All Hail King Jesus prefers to keep veteran Aaron Jones, sending younger RB Zach Charbonnet still gives Conquistadors a viable RB2 option over Tyjae Spears."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "De Von Achane fantasy outlook 2026",
+          "Tee Higgins fantasy outlook 2026",
+          "Tee Higgins news 2026",
+          "De Von Achane news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo2LYyPwzSIclsH_SceOz_8tNDm_dXrU5Tc0q4hfcTTrRGtKTxPUr606e4hnYucqIoSmQ3VxJagbDwui9ao46Q_uWQfHfZQpyitQ6oEY5rHUK9EUjrGLYXBwMszQ4t5axtB4Vm9I0BxXGd0vNFv6g0n-8kB7gBMrx-KsZxvT15W_xZ4__4EXuxni3u58Cjn92HfVWJOBgFSwxCR6Me",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqqzObO_FL0PdkWNT63A9FPh0DwzIse0ltP6Lso_bXmhcnpkyccRPZ9AJy2kjV6Pu55Nkd_VwnEkn90RTIkCmf5bCiY3BzNKqClNuVKe7gp2mp9Rm2_GUFOfF8retJAJ0hbxiHhA_0PHh47vxMNFRb_Jb--zu6aUVOjSzTLq3TQeRx72hN0yX8My89cQBrOFmVVP9sIGSOPTKIdjXtLMUA3JbCL3j78t_5UxpU_kdYw0LvlHDPHf_DXsDeGirpww==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgSC12Nkmid3AigWTLDzsaBEnfCJQDjg4HAs2C21x8eHLKSIu1iaCgjLdSfKfByV5p2SnLPI9tyRaLi_MtjMZbYE8f76xu5jYsFD5vnIU4CHtOOopvFmWNRySy6uETTIJj_XAK9K0=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1szNQfUo2y_DeamvN_li0oSXJhld_B0KoSo52CbkMYWyrW0DZSxBsgPzz7mYMn30CgsBgs44IaJBZhjoN5F43Q-oYK92pTV7ehWkzydBHIgMcTwLrgjRGgXZm107cQaNixVIt-nttukyp_bgn0uQwxESuX_CJDwMeAq_5RCBp",
+            "title": "bengals.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKmw04tSTrq-ojttxlKi5DZiQ6objtD85V5MLHlA1xbaU2tIA6uQREftCIwuFhAq1wUWpWkGZT73QB8qKw80hfqwxgK5xsYLrN5xSTZzMs2AMA4cYnmkFZbvaAAwH2zdi0spwaLM83wuNVYQ==",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9HJGsB4M5pZqmF8IGLa4LGxr46LD8OP-oqgBvjsvAkkhlSMl2n6amOEXfBUms3ttZyW_GUZaXuGRqgSkc0dbGU1q6QdK_jtkxhTm2-61UZxYZPBEz8b1cnkoS4xn_IB6Vvptqo4ALpxY-O02mjH3ZIYldfN2DRPbrbg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIRiIyW0gbfATXcSk9SB8zipWONHVT7jo5yEMecyRztI4fAQXey-DZAf8gBi5AutIm03Poy_LuzYBkrhzPo-Dt7B7y3gzTPZY9O-3xE-Ag2h3ZFLDU_4KozmRu2iyDHvUWRsPvWrws5WWLXiJA",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOneKMnbK3TcoUcAKmj30ESDkR-uWctuWewCvHnHMT_LbSuTNe2tONAkftvpZAeYryQk1yZdMFOcQ9U8Pi3yI2BwETj0E9fOZdlmQoLvLYYHyHCwy42B423VqKO_LnAqaQK6JFGdkXcasHFzHIbHg=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ5zEEtEfUtTGMIfe9tm-LqbXR4OSCvt1IKUqG2KmCSEF62O9fwz07o0-iDtMCOvVQ4pa18EwQNOXI2SDD_lEESiFXmqc8wqEFW01x4wfLQSM6O70cQ-FFIq3h7reG7guXQEThnSWFrjvyVV3l7n79IbEv7MyKVW5WE5MSiJhtNXrFqyYQoYKu2A==",
+            "title": "miamidolphins.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC6gHOqB_TWCMHMAEJhcJ8f6EZSfgcslL88SaWhFsWHM5pCtqeQI9LLIqxDrRDuC_4W5na2AylIH3xnchg0MI80R27RAbCyVEvctcp2MzkF37CWGbutaCcJ_9xA3hu-swesstLwW2fxmizBaqa9_6c2dxY7uqv3BIYinNV7U4ArD2I8tEREpy9Aiv5ug==",
+            "title": "12thman.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJKRq7EHPcJcUC7nkdQKtnBMeDYEvP8HC7WSNkE8hcfMSESmwF6p7Fhjpz6TUzaF6YdK5mGGy70ATly2uhhP-g3fDcPx69ujTZHuO7KF4fpcnUcxOl7OMKY2EPL4vHKoYY7bbikglxP5Hi2lltfq0sZL29prxCr6j1s__J-bSzT_2yz1TESbl9GzA6kF0Zc9axLzFC0dx56XiwXg5f7w==",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJJkJWa-2HO_clsmqTJXhPHVLV_fzWsAEnmxHaXRjfaClnjAhGsop4cmv_DVArDJevc9MDOJWiwKv_EXEiUuVq2UHXVjfM6Uw8u02OXNe6K7V9ofIk-Vlecfvhf42m3Z_Dw_HxK-WU6KYxvNeIKnCIf78aJBEeMADvx91gLfggbSsZHyauqpAHIrNZsZyZ",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe9jpvkdodb_YCrtG5SGEW1IKS9JdT8t_iZH5kEhmi-i1oZWMwRBJcmXH3AVdP6EeUqX6ON6Lemhu6zC8uJ0tzLPoTgJ20S0_pIVaLjsNm27JnU8CvDTSE3iKzdTwKI0AlRPHfFpULdtUBmWjk4sfSntWw6AvAKHNGXUf_ifAhGJeC8peDe4zRP5TRIosxy49anl4=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSe3UqdQr_2pdlFiUlkt7jqvd1y-lm_rfcgeSutWikeRS69-bvXZLyF-Sn3KpuUo1uyaxJDdnWgE2G4cYsebmfvBXHa_kguuTOPik575HMZqHQjZeSDaIvO9OURqvVtTCe-s-5vJW5F_-QTqX1",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfVdFlTEA0s9qYSpDRALjXM_ADIXW7iwOwBU1byTwAebkFQpb1pt9-CPE5ZxhpdSD-A-vqpxAuo4SH773ZV-u4l7vVQ7KYVxHih5BeFjywqfa3USCsJBFWqCebCAOp2NU950JeJ6-6vc5SbLS3rtJTBrcccSGgn_BOL6EGzcr28lkgSALaOn82b3bgzZ-gRQLj9NbyEPE6CXne",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhpdlfbeZxIiE0-ug4MSwI0mGdVeeTN5vWJfRE7q-PQP5LeyMugMy5rsh0SE6vRZKPZ_0N_DJQgkklaOt1wS0bofRw-M3uqQCT_ywvnzpM43bbSQy4kf3xS_-FB0CN7Hk7wxEmczCouhs4wSRh-vhlt1Zo8U1NmCHpj54lZAHgAw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK2ZG-lfLke26Efk9q-EdrTQENPtTiOWMLTaA6uqutFKD-v93D4lP7ad5A6L1X8NitbYeSOSZrZs4jcGY0u8iwSy8ohv--G8dc1gQPyMidzoBJckRoIyWILniu3nBIr5RJ1nEZdiGySU5lsYbtCN0H7SinUkUQzTIrI04geognxB5XryDs27wyF6gA4ZH-93m_gwpNA6K48niVb-RxlIOTKxK7exfG",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAu4QhyOK2-TCzcZbDtU5ceiQiuANW4_qcTg_I4vJ0rqkrgLdL3-74zqBhHPUqyg9DNfuuvqDVQP4fHmFFsR_lGZBUvMPd6TSCz5AMnBAG1carGFyO6Zq2rywTEz81C5CqelGddHanqv_iLEvVrg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfk5vmOCDi3ru72JW9G58JsAHb0zUnQSXFGUw6X3opsGA6N2-HPqX8bezpsjFQEanxmzsNzcj00h1lcrnudESV48JlVa6SjEqsfCDS742rLTRxFmDq6lo5YI9FuvvUmp0kswDHlbl48Sa1OB2c53sY7e47ygSlB2bdOZ5DVn9p",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c55fd1b821dd75c21d040adbaf4528e60f62f282",
+        "aviCoreCommittedAt": "2026-08-14T21:52:44Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 65320,
+        "groundedMarketChars": 3659,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "msth6cu0-a48559c6",
