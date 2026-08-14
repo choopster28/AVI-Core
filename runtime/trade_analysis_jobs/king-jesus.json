@@ -1,5 +1,33 @@
 [
   {
+    "id": "mstegimo-1c968df4",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Jahmyr Gibbs",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Amon-Ra St. Brown",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786739319888,
+    "updatedAt": 1786739319888,
+    "expiresAt": 1787171319888,
+    "status": "queued"
+  },
+  {
     "id": "mstec2e6-5627b439",
     "phase": "initial",
     "mode": "propose_trade",
