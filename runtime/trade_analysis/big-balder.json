@@ -1,5 +1,305 @@
 [
   {
+    "id": "1786689762098-5qjkim",
+    "createdAt": 1786689762282,
+    "expiresAt": 1787121762282,
+    "mode": "improve_team",
+    "title": "Improve My Team · Big Balder Brand",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "personalContext": "I’m lacking a true, elite receiver. Regardless of their avi, my receivers lack the firepower of a game changing positional advantage",
+      "targetPosition": "WR",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand possesses one of the league's premier overall rosters, anchored by elite firepower at running back (Saquon Barkley, Omarion Hampton, Jeremiyah Love) and tight end (Trey McBride). While Rashee Rice, A.J. Brown, and Nico Collins form a formidable wide receiver group, acquiring an S-tier game-changer like Jaxon Smith-Njigba, Ja'Marr Chase, or Puka Nacua provides the ultimate positional advantage needed to lock up the Autobots championship. By leveraging your deep running back surplus into near-peer wide receiver swaps, realistic trades exist that elevate your starting lineup ceiling without compromising your championship floor.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite, young positional advantage at tight end with Trey McBride (99.5 C-AVI)",
+            "Unmatched championship depth at running back (Saquon Barkley, Omarion Hampton, Jeremiyah Love all >89 C-AVI)",
+            "High-floor WR group (Rashee Rice, A.J. Brown, Nico Collins)"
+          ],
+          "priorityNeeds": [
+            "Acquiring an S-tier, game-changing wide receiver anchor to create an unassailable lineup ceiling"
+          ],
+          "tradeableSurplus": [
+            "Elite starting running backs (Jeremiyah Love, Omarion Hampton, Saquon Barkley)",
+            "2027 and 2028 Round 2 draft picks"
+          ],
+          "constraintsApplied": [
+            "Personal context applied: Target exclusively Tier 1 game-changing receivers (C-AVI/D-AVI >98) to solve user's positional advantage gap.",
+            "Strict draft pick ownership applied: Big Balder Brand's 2027 and 2028 1st round picks are owned by opponents; trades utilize currently owned draft capital (2027 DMV Fantasy 2nd, 2027 Gringo's Goblins 2nd).",
+            "Starter-for-Starter rule enforced: All outgoing and incoming player assets belong to the 16-team league-wide starter/FLEX pool."
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rival contenders lacking Tier 1 elite receivers available for trade",
+            "Rebuilding teams without elite WR cornerstones to sell",
+            "Managers whose positional needs do not match Big Balder Brand's surplus"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "All Hail King Jesus",
+            "targetAssets": [
+              {
+                "name": "Jaxon Smith-Njigba",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "WR",
+                "age": 24,
+                "cavi": 99.1,
+                "davi": 99.6,
+                "publicMarket": 98,
+                "leagueMarket": 99.1
+              },
+              {
+                "name": "Aaron Jones",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "RB",
+                "age": 31,
+                "cavi": 56.4,
+                "davi": 74.2,
+                "publicMarket": 65,
+                "leagueMarket": 56.4
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Nico Collins",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 27,
+                "cavi": 91.8,
+                "davi": 96.1,
+                "publicMarket": 92,
+                "leagueMarket": 91.8
+              },
+              {
+                "name": "Jeremiyah Love",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 21,
+                "cavi": 89.7,
+                "davi": 95.6,
+                "publicMarket": 90,
+                "leagueMarket": 89.7
+              }
+            ],
+            "scenarioType": "Star Swap / Surplus Consolidation",
+            "strategicGoal": "Acquire top-tier WR cornerstone Jaxon Smith-Njigba while utilizing running back depth to address opponent's largest weakness.",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 23,
+              "packageMatch": 19,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 89,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Jaxon Smith-Njigba is the consensus dynasty WR1 alongside Chase and Puka. Trading Nico Collins (a strong WR1) plus young star RB Jeremiyah Love allows you to land an ascending 24-year-old alpha receiver without crippling your RB starting unit, as you retain Saquon Barkley and Omarion Hampton.",
+            "whyOpponentMightAccept": "All Hail King Jesus has an extreme roster bottleneck: they own both JSN and Amon-Ra St. Brown at receiver, but their starting running backs are aging/volatile (Aaron Jones, Zach Charbonnet). Receiving an elite young RB1 in Jeremiyah Love alongside a proven 1,000-yard receiver in Nico Collins dramatically improves their total weekly projected scoring.",
+            "championshipImpact": "Immediate boost to Big Balder Brand's weekly ceiling, giving you an elite 20+ point projection player at WR1.",
+            "dynastyImpact": "Secures a multi-year foundational wide receiver cornerstone aged 24.",
+            "rosterImpact": "Converts RB surplus into elite WR performance; Aaron Jones provides veteran backfield depth.",
+            "publicMarketContext": "Public market consensus views JSN as an untouchable dynasty asset, making a package featuring a young marquee RB like Jeremiyah Love essential to open negotiations.",
+            "risks": [
+              "Jeremiyah Love exploding into an overall RB1 candidate early in his career",
+              "Aaron Jones seeing age-related decline or injury in Minnesota"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Nico Collins, Tank Bigsby, and a 2027 2nd round pick for Jaxon Smith-Njigba.",
+              "acceptableConcession": "Upgrade the running back piece from Tank Bigsby to Jeremiyah Love while requesting Aaron Jones in return to preserve RB room stability.",
+              "walkAwayPoint": "Adding further premium draft capital or substituting Omarion Hampton/Saquon Barkley without getting additional starter value back."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Applied user's explicit preference for an elite, game-changing wide receiver positional advantage by targeting strictly Tier-1 receivers (Jaxon Smith-Njigba, Ja'Marr Chase, Puka Nacua) and crafting competitive starter-for-starter proposals using Big Balder Brand's RB surplus."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Amon Ra St Brown 2026 fantasy dynasty",
+          "Omarion Hampton NFL draft 2026 or 2025",
+          "Jamarr Chase news 2026 fantasy dynasty",
+          "Omarion Hampton current team 2026",
+          "Rashee Rice 2026 fantasy dynasty news",
+          "AJ Brown news 2026 fantasy dynasty",
+          "Jaxon Smith Njigba 2026 fantasy dynasty",
+          "Nico Collins 2026 fantasy dynasty"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0AiKphBz8_b_4mCt_yjoDoifn-BsvTpoyr-7Q8XgfHJtyXfG-q5dOXLwrn_29u32QeHDsLPPb_mV5vDJqAsVru4zf7vnFOPyHfOvOuyDR-oU3bJr_LdPAeYxNSc5M5sSQJBqLFuCNjG37UEmyDumShX6XFg3tJTOmVkxnoMDFHXg7ihZaXpFdCkookuF0Qp9wARVGkpXB_WOH6dnyCe_2u-nFjXnFWsiwaFjzqHocpB4RKacfTAst6UYDk_LgjUjF0YHXDI9LLBRNzQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYaM_URzvdjZN_dFiu9Xb5Do5CItsZBIDU1NFp5xAUtfgSY7h1riwOh2MuhOnPr7SYf34pxIyVU4yAsTX84KuJ4B2Ks3lxZLY0vo5zonaCAfwRQb2cnJlKSWeNeXYctbs=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkMQPrz9LBAPDprJSPzOa5RdyGxOsUILqIUsg9Nl_b2lnPbiabUx5q1wYNdV_5sh5IuMhuNm2Yfgl_W1Gh9jYrLNx44ZOvVX9YNmM0hsSBSdmzQsJAlrG9gYj18-oed0WJy1z0RlQe8UbG02Jb",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFao6sec1EDH4RG6s28FsJt9QwN4XVzccCSpY6hlqfldt9hL-PS0D2wkx2939BMVwFSePNeMrp3jNRNtPtociyE9AR2Tdh7qQultAQ8Ir4H_fI9ulnh5C7LBsYrx-eqTzWlPGvozAGpfL8=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbuioWaX4j247ZmKDmmjd1NHAfP_yKj62GuuPoKr6XQTNn72-wPdqljRD36e7M1gjnscZB9GEDxtvE0I_QxAOD-_eMSbXLlT8JQlnZ_PnkkVD9jz1zbZORq-lE-4-CyenzGYakAJRzIIxWUPpBYnTcFZ0bRQY8dZaewXSILTje9aWKVOgSDe9AjhxwaNnk1Pt_VhKYeA==",
+            "title": "optimusfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2NRaxALszWY6sbEUhFEYI9W7oV2H1qB6E_GQtkC7X0ctVMzX9J9V06ngYB8Pwy_KVjB7LH6P4z4ryZdx8XL8QHHWXEaBW8xrNQ92a9baeSJ_IgxZ6cq_WL_AEtCoiEj8LAg==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOAX9jlVlCoxmLjvoR0o6Lo4JvVHSvSyMu4UMa0GAX9ZDunBH2W8NAh_Y0UtacppedNkV7MAVJiHXULvx8Hz5HDLux3097nMZTO5VdbZHHvUEL8gKIX2hAWhD_C64bLh3wM7IoqR9-bpWCiATUWRzzE5rbXBpBQbp-8VzOOGkGeUzzqcakm4G36K4O6R64hyBfBQG4z7yftG502U8WtNdjjR24tHGXnGlxISxkBk-VO9Zi1AQ=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHs04CoU9Cpk68nNzc3eX2mydh6dXiEZ0fBCJ7LtbrlJKt4CUtbLyZu71K1nyuo1HLU1Rq7kCKyxuvlUo89q76x_8ipI9DZWiYWv0ZIR_XlcLek1pNISSz9Vxw8HfqJQQ=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx1bx-vY1G0HxulwC6VF8yiDZFjvdDpnvT9zSanlVzJ5S2Gb4miGQqBDWhs3gDkr4e5Zba7gkFl8DwGquudXSZQGOjJ4KE3o35gjHPHQKQp3sS9FpwnY5C7hnTuaw08IVzMHHxhTx8G_e2JSwQdsq_s1ST7MI7uR9iP9gyW0Bwle5wRafSgQ==",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKEfJhbEROProhaLbzK952E7cgBSjMQpo0oB6-5ns3BBA9ldwQzwJEFWuD_a-Fb99pizVcmMHXUlusEgJZ-Dggb2bPS0pFLh-VRZjsCf4yI1nLXrYLGsADEzXNAA6llqemguA3fORogkGKK1g5slgW5yaHof74zSkndaRQe8TNnkUvMa53aSlbitFQssWHJBXAVeG37ElldciPFPezjVu47km63Igg",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0VJGgzcrhr3_qFHNx0J0BxMMh3A3Pf8UFed0p87YeWCKyBArBn0qZKqo_CPX0_hWDYEuq5Xq-DUtaHxeU0jPgRKhiJAT9D89L_LQ2PsVIX8K4UB-CcoGge22uvup2-JufcCWnIUOPsbPLe5ytQvNLA3njOLIKkuS_mYG_LsbGHk4DiS9EOOp-wBY68mJG_ps=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_np8-zkWRUL39nkdu7GemrqIMI1_v7N6xMjVfnT2rto1p5IzZQtv8FnX7DYtvyLl05QOnp93ttMG_NJwgMZfxmpjDYnge6BBkwroFnGIv7w92oVGxhHiEWUl3Q1cuGz4SKIEkFFp6b6hVrIBtS0X7fN_Mj-bULGYPgK4-EPtFuPe6yy_GniZp26FJjtbB7ztCdw2s28-GEdbLvM7I_kJvaujK_EJxBfNW",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGJAjoXQm26K-iFtrV-wSYgeJmOGaQGqkolJiofcvRin2yTxM1yUn4L5z9cpAaMkSIZXmJ7vVrC6FxKTdemUPmxhVIGewTcNh6GtwsGCwn43D1lY7N_7ckljoO7fo4H7rG8R63N8nY3ZkTlwBdvHgnDJvrNL_do9iQtSfPNU2_ctgLFzcygOs9P71_yFZsFVYkAfrRzZWpMU-Dsi29pA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZrHiMDIlQwq-8Uache-ASeSgEliQZ9B8SeT2XhrEuoFrI7LUC5N0Kt90pGi2a5l63xWJBMMTMY3IGgFfziQVMbjajorREDOHH6gp-R9m6ZEqk9bTGIP4o1Md9W6q_SU2YSNOa-JOFCEY5yrDmKctriCMaQQcduSBBDA1eDLTG",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY5noECENOL1QMmr9q83ENKs5JYJrBf1G7ziiCuJEZCfFVAdmWMrWjH7y2xU6cwdmf5vB7rJQdQCf35IKr73L8kSs5R67Aq0gIwLVO-IPCA3-1zZGdskPY8W-B7iKdWG9A2hFuByFkl7Yzqb3o3F1w2aMYq2PqRi1aQWkZ8hb5Yft3ip1h0DwzS01kkWag6eIYt-uHXrE7uOpz50cXDKCp",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN6_Dq3oZepV5CWyox4Iz-ImtFd4j_8zfCrzC15fPE3Y5Uhse7-y8ThyQG_u30jDZlLsAnXz1KOxn80gNCy_eBEAiIOL8apedoOf1I81WggI8ZKXDDHr696jop42yIeB9C19RGaCf0zBbFD_qPrKjbCla6Y_kWpQMM8cS31mChGCc35PQZzhPjQmeiE7ilWrA5DIXA_4MP",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_ymxXSUkJqrRPjXUdqg9FbTShFJnVC_csHu0Td9VsGBETTcx953bSq0IkqzbbuvwvQ062iTECGzx60hrJUGD6Ps5tWHmdsu9n0ytF44w5e3hZLrKrdIK7hVTffy2F4vXjx9UYq8K1LTn0FB3qkN2tPOn-myb3Ow9d8nm0URG61t_PrSzG5d06v_guleoWtBGX_A==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgLCPqWsERYsTas-v3xz4ItPbwViG18akEUYXOanKHtmnVvhzAS3Jp9_p2QeZ_fdauzFSOw8gskMR4QEPZlQGsMDm5Uw2lOwCDHwpVDMhHSJnWTB3JxOKqQ9RmrE9_AeQb1sYzRuvJg2ke",
+            "title": "dynastynerds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR-h98iUpfGpiIUbH1q2NB3YDiFZSFq4c9_OIWk0jUTy-yjsd63agIgz8R2OvIOKsvubn_xvyndgrTvc3jiTf5KDYfok7CAk3VbuTWcIpWFZnOTfvUj1JdqO2FCmNHsKD2sFQPOkECKniZ7tAp0i1NM3iLAp6yqDFXzYp2uvZWOy5-h4ZR7e2sfdOq5OmtO8gRbV0udFM0j78=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfKytZJo-qmMwoPXlWONZFBk4bFve1zKk6v9RHdDFIK7kj3T8LK_XMAiqDiq8CwNoPjxDwbI3zVyPGmEWzNGMnxOl4tyTT3bGvhRO6f3ZrPzE28jIExtMlCXYWqRlajos=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_JNea2U73pDjR21UUZPqXc9rttJo8wQe_50rDcPKgJ7ffJ5sNI1MNjf30elIYUBZi-yAvslCB2fPxXLD7331r9KDA0yL52czOuY6_6uynhLcei_HIvrcD_O2XR5uoQq3dEgx4fw3cEBULIiVS2nrjK_v7-IT035OYwbR1HC08LvJVJtIc0gZX75rbnQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtAMhpgS9EjvYwzJnYifpyUiU49Vg2DgQ1sCislJTo3DLpEyHu9vsTQNV79dXNVJr8J26plREynTAzT5SeFrfC-5ny6la8Q9iFqyEQii1YAuald3Srr_CTHZuCrMacjsu6x5i7Bjmt0lYDazEG8Og6hYMIHtFGlNBE9lV6zZ7OxQH8i7jd24dY2nP9h8XcqmXJ3W0=",
+            "title": "fantasylife.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Ja'Marr Chase",
+          "A.J. Brown",
+          "Omarion Hampton",
+          "Jaxon Smith-Njigba",
+          "Nico Collins",
+          "Amon-Ra St. Brown",
+          "Rashee Rice"
+        ],
+        "aviCoreCommitSha": "13caa65b6b827416a4663199c3e9f8cc3c30389b",
+        "aviCoreCommittedAt": "2026-08-14T05:45:16Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 411723,
+        "personalContextProvided": true,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "1786689539173-5jr0j2",
     "createdAt": 1786689539274,
     "expiresAt": 1787121539274,
