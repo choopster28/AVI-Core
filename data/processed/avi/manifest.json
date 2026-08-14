@@ -16,21 +16,21 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-08-13T15:35:34.086245+00:00",
+  "generated_at_utc": "2026-08-14T04:34:37.226724+00:00",
   "league_id": "1312185568032997376",
   "methodology_status": "provisional_2026_2",
   "methodology_version": "2026.2",
   "player_points_active": false,
   "record_counts": {
-    "calculated_players": 417,
-    "registry_players": 417,
+    "calculated_players": 431,
+    "registry_players": 431,
     "unresolved_players": 0
   },
   "replacement_levels": {
     "flex_allocations": {
-      "RB": 5,
+      "RB": 6,
       "TE": 1,
-      "WR": 26
+      "WR": 25
     },
     "replacement_ranks": {
       "DB": 16,
@@ -38,19 +38,19 @@
       "K": 16,
       "LB": 16,
       "QB": 16,
-      "RB": 37,
+      "RB": 38,
       "TE": 17,
-      "WR": 58
+      "WR": 57
     },
     "replacement_values": {
       "DB": 0.0,
       "DL": 0.0,
       "K": 0.0,
       "LB": 0.0,
-      "QB": 287.66,
-      "RB": 155.1,
-      "TE": 153.63,
-      "WR": 152.43
+      "QB": 287.85,
+      "RB": 150.51,
+      "TE": 151.71,
+      "WR": 152.38
     },
     "starter_demand": {
       "DB": 16,

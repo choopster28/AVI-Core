@@ -58,10 +58,10 @@
       "stats": {
         "fg": 34.65,
         "fga": 38.27,
-        "points": 144.12,
-        "points_half": 144.12,
-        "points_ppr": 144.12,
-        "xpt": 40.17
+        "points": 143.62,
+        "points_half": 143.62,
+        "points_ppr": 143.62,
+        "xpt": 39.67
       },
       "team_id": "LAC"
     },
@@ -98,6 +98,22 @@
       "team_id": "DET"
     },
     {
+      "filename": "cairo-santos.php",
+      "fpid": 13731,
+      "mflid": 11945,
+      "name": "Cairo Santos",
+      "position_id": "K",
+      "stats": {
+        "fg": 30.32,
+        "fga": 34.83,
+        "points": 134.85,
+        "points_half": 134.85,
+        "points_ppr": 134.85,
+        "xpt": 43.88
+      },
+      "team_id": "CHI"
+    },
+    {
       "filename": "blake-grupe.php",
       "fpid": 25533,
       "mflid": 16444,
@@ -128,22 +144,6 @@
         "xpt": 38.37
       },
       "team_id": "TB"
-    },
-    {
-      "filename": "cairo-santos.php",
-      "fpid": 13731,
-      "mflid": 11945,
-      "name": "Cairo Santos",
-      "position_id": "K",
-      "stats": {
-        "fg": 29.99,
-        "fga": 34.49,
-        "points": 132.85,
-        "points_half": 132.85,
-        "points_ppr": 132.85,
-        "xpt": 42.88
-      },
-      "team_id": "CHI"
     },
     {
       "filename": "eddy-pineiro.php",
@@ -185,13 +185,29 @@
       "position_id": "K",
       "stats": {
         "fg": 31.28,
-        "fga": 36.56,
+        "fga": 36.22,
         "points": 131.76,
         "points_half": 131.76,
         "points_ppr": 131.76,
         "xpt": 37.93
       },
       "team_id": "KC"
+    },
+    {
+      "filename": "cam-little.php",
+      "fpid": 26475,
+      "mflid": 16680,
+      "name": "Cam Little",
+      "position_id": "K",
+      "stats": {
+        "fg": 29.11,
+        "fga": 32.45,
+        "points": 131.38,
+        "points_half": 131.38,
+        "points_ppr": 131.38,
+        "xpt": 44.05
+      },
+      "team_id": "JAC"
     },
     {
       "filename": "will-reichard.php",
@@ -210,38 +226,6 @@
       "team_id": "MIN"
     },
     {
-      "filename": "cam-little.php",
-      "fpid": 26475,
-      "mflid": 16680,
-      "name": "Cam Little",
-      "position_id": "K",
-      "stats": {
-        "fg": 28.78,
-        "fga": 32.45,
-        "points": 129.88,
-        "points_half": 129.88,
-        "points_ppr": 129.88,
-        "xpt": 43.55
-      },
-      "team_id": "JAC"
-    },
-    {
-      "filename": "nick-folk.php",
-      "fpid": 9491,
-      "mflid": 8851,
-      "name": "Nick Folk",
-      "position_id": "K",
-      "stats": {
-        "fg": 30.01,
-        "fga": 32.82,
-        "points": 129.11,
-        "points_half": 129.11,
-        "points_ppr": 129.11,
-        "xpt": 39.08
-      },
-      "team_id": "ATL"
-    },
-    {
       "filename": "evan-mcpherson.php",
       "fpid": 23297,
       "mflid": 15368,
@@ -256,6 +240,22 @@
         "xpt": 45.71
       },
       "team_id": "CIN"
+    },
+    {
+      "filename": "nick-folk.php",
+      "fpid": 9491,
+      "mflid": 8851,
+      "name": "Nick Folk",
+      "position_id": "K",
+      "stats": {
+        "fg": 30.01,
+        "fga": 32.82,
+        "points": 128.61,
+        "points_half": 128.61,
+        "points_ppr": 128.61,
+        "xpt": 38.58
+      },
+      "team_id": "ATL"
     },
     {
       "filename": "wil-lutz.php",
@@ -280,11 +280,11 @@
       "name": "Trey Smack",
       "position_id": "K",
       "stats": {
-        "fg": 28.59,
+        "fg": 28.93,
         "fga": 34.13,
-        "points": 125.44,
-        "points_half": 125.44,
-        "points_ppr": 125.44,
+        "points": 126.44,
+        "points_half": 126.44,
+        "points_ppr": 126.44,
         "xpt": 39.66
       },
       "team_id": "GB"
@@ -297,7 +297,7 @@
       "position_id": "K",
       "stats": {
         "fg": 25.61,
-        "fga": 30.53,
+        "fga": 30.87,
         "points": 123.53,
         "points_half": 123.53,
         "points_ppr": 123.53,
@@ -330,28 +330,12 @@
       "stats": {
         "fg": 27,
         "fga": 32,
-        "points": 122,
-        "points_half": 122,
-        "points_ppr": 122,
-        "xpt": 41
+        "points": 120,
+        "points_half": 120,
+        "points_ppr": 120,
+        "xpt": 39
       },
       "team_id": "WAS"
-    },
-    {
-      "filename": "andres-borregales.php",
-      "fpid": 27291,
-      "mflid": 17220,
-      "name": "Andy Borregales",
-      "position_id": "K",
-      "stats": {
-        "fg": 26.13,
-        "fga": 31.21,
-        "points": 121.33,
-        "points_half": 121.33,
-        "points_ppr": 121.33,
-        "xpt": 42.95
-      },
-      "team_id": "NE"
     },
     {
       "filename": "jake-elliott.php",
@@ -368,6 +352,22 @@
         "xpt": 41.71
       },
       "team_id": "PHI"
+    },
+    {
+      "filename": "andres-borregales.php",
+      "fpid": 27291,
+      "mflid": 17220,
+      "name": "Andy Borregales",
+      "position_id": "K",
+      "stats": {
+        "fg": 25.79,
+        "fga": 30.88,
+        "points": 119.83,
+        "points_half": 119.83,
+        "points_ppr": 119.83,
+        "xpt": 42.45
+      },
+      "team_id": "NE"
     },
     {
       "filename": "chris-boswell.php",
@@ -394,10 +394,10 @@
       "stats": {
         "fg": 28.71,
         "fga": 33.2,
-        "points": 117.49,
-        "points_half": 117.49,
-        "points_ppr": 117.49,
-        "xpt": 31.37
+        "points": 117.99,
+        "points_half": 117.99,
+        "points_ppr": 117.99,
+        "xpt": 31.87
       },
       "team_id": "NYJ"
     },
@@ -426,10 +426,10 @@
       "stats": {
         "fg": 27.41,
         "fga": 33.13,
-        "points": 114.28,
-        "points_half": 114.28,
-        "points_ppr": 114.28,
-        "xpt": 32.05
+        "points": 113.78,
+        "points_half": 113.78,
+        "points_ppr": 113.78,
+        "xpt": 31.55
       },
       "team_id": "TEN"
     },
@@ -490,10 +490,10 @@
       "stats": {
         "fg": 25.51,
         "fga": 30.16,
-        "points": 106.95,
-        "points_half": 106.95,
-        "points_ppr": 106.95,
-        "xpt": 30.43
+        "points": 107.95,
+        "points_half": 107.95,
+        "points_ppr": 107.95,
+        "xpt": 31.43
       },
       "team_id": "CAR"
     },
@@ -504,12 +504,12 @@
       "name": "Andre Szmyt",
       "position_id": "K",
       "stats": {
-        "fg": 23.97,
-        "fga": 27.47,
-        "points": 99.05,
-        "points_half": 99.05,
-        "points_ppr": 99.05,
-        "xpt": 27.14
+        "fg": 24.64,
+        "fga": 28.13,
+        "points": 102.05,
+        "points_half": 102.05,
+        "points_ppr": 102.05,
+        "xpt": 28.14
       },
       "team_id": "CLE"
     },

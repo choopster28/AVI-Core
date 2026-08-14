@@ -55,6 +55,15 @@
   },
   {
     "confidence": "review",
+    "fantasypros_id": "11606",
+    "match_method": "exact_name_position",
+    "nfl_team": "BAL",
+    "player_name": "DeAndre Hopkins",
+    "position": "WR",
+    "sleeper_id": "1426"
+  },
+  {
+    "confidence": "review",
     "fantasypros_id": "11616",
     "match_method": "exact_name_position",
     "nfl_team": "LAC",
@@ -196,6 +205,15 @@
     "player_name": "Darren Waller",
     "position": "TE",
     "sleeper_id": "2505"
+  },
+  {
+    "confidence": "review",
+    "fantasypros_id": "14338",
+    "match_method": "exact_name_position",
+    "nfl_team": "LVR",
+    "player_name": "Raheem Mostert",
+    "position": "RB",
+    "sleeper_id": "2749"
   },
   {
     "confidence": "verified",
@@ -774,6 +792,15 @@
     "sleeper_id": "6130"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "18283",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Miles Sanders",
+    "position": "RB",
+    "sleeper_id": "6151"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "18290",
     "match_method": "exact_name_position_unique",
@@ -847,6 +874,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "18590",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DEN",
+    "player_name": "Lil'Jordan Humphrey",
+    "position": "WR",
+    "sleeper_id": "5938"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "18598",
     "match_method": "exact_name_position_unique",
     "nfl_team": "JAC",
@@ -862,6 +898,15 @@
     "player_name": "Kyler Murray",
     "position": "QB",
     "sleeper_id": "5849"
+  },
+  {
+    "confidence": "review",
+    "fantasypros_id": "18615",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Diontae Johnson",
+    "position": "WR",
+    "sleeper_id": "5937"
   },
   {
     "confidence": "verified",
@@ -1090,6 +1135,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "19358",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CAR",
+    "player_name": "AJ Dillon",
+    "position": "RB",
+    "sleeper_id": "6828"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "19372",
     "match_method": "exact_name_position_unique",
     "nfl_team": "LAR",
@@ -1279,12 +1333,30 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "20082",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LAC",
+    "player_name": "Trey Lance",
+    "position": "QB",
+    "sleeper_id": "7610"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "20094",
     "match_method": "exact_name_position_unique",
     "nfl_team": "ATL",
     "player_name": "Brian Robinson Jr.",
     "position": "RB",
     "sleeper_id": "8154"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "20095",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SF",
+    "player_name": "Zamir White",
+    "position": "RB",
+    "sleeper_id": "8139"
   },
   {
     "confidence": "verified",
@@ -1450,6 +1522,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "22884",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SEA",
+    "player_name": "Jalen Milroe",
+    "position": "QB",
+    "sleeper_id": "12510"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "22895",
     "match_method": "exact_name_position_unique",
     "nfl_team": "CAR",
@@ -1591,6 +1672,15 @@
     "player_name": "Brock Bowers",
     "position": "TE",
     "sleeper_id": "11604"
+  },
+  {
+    "confidence": "review",
+    "fantasypros_id": "22956",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Jermaine Burton",
+    "position": "WR",
+    "sleeper_id": "11640"
   },
   {
     "confidence": "verified",
@@ -2062,6 +2152,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "23172",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SF",
+    "player_name": "Sincere McCormick",
+    "position": "RB",
+    "sleeper_id": "8220"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23179",
     "match_method": "exact_name_position_unique",
     "nfl_team": "TB",
@@ -2230,6 +2329,15 @@
     "player_name": "Rachaad White",
     "position": "RB",
     "sleeper_id": "8136"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "23893",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DEN",
+    "player_name": "Michael Woods II",
+    "position": "WR",
+    "sleeper_id": "8202"
   },
   {
     "confidence": "verified",
@@ -2881,6 +2989,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "25980",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BUF",
+    "player_name": "Frank Gore Jr.",
+    "position": "RB",
+    "sleeper_id": "11573"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "25981",
     "match_method": "exact_name_position_unique",
     "nfl_team": "TB",
@@ -3286,6 +3403,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "26763",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "IND",
+    "player_name": "Spencer Shrader",
+    "position": "K",
+    "sleeper_id": "12185"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "26964",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NE",
@@ -3511,6 +3637,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "27261",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CAR",
+    "player_name": "Ryan Fitzgerald",
+    "position": "K",
+    "sleeper_id": "12961"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "27285",
     "match_method": "exact_name_position_unique",
     "nfl_team": "JAC",
@@ -3535,6 +3670,15 @@
     "player_name": "Andy Borregales",
     "position": "K",
     "sleeper_id": "12713"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "27294",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CAR",
+    "player_name": "Jimmy Horn Jr.",
+    "position": "WR",
+    "sleeper_id": "12523"
   },
   {
     "confidence": "verified",
