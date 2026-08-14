@@ -1,5 +1,45 @@
 [
   {
+    "id": "mstej5wk-fabe62e3",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Gringo's Goblins",
+      "targetAssets": [
+        {
+          "name": "Jacory Croskey-Merritt",
+          "assetType": "player"
+        },
+        {
+          "name": "Davante Adams",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 2nd · Goblins · Projected early range (2.01–2.05)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jameson Williams",
+          "assetType": "player"
+        },
+        {
+          "name": "Romeo Doubs",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786739443364,
+    "updatedAt": 1786739443364,
+    "expiresAt": 1787171443364,
+    "status": "queued"
+  },
+  {
     "id": "mst7m2e2-276fc8c2",
     "phase": "initial",
     "mode": "propose_trade",
