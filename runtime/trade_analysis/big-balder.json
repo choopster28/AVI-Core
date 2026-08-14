@@ -1,5 +1,383 @@
 [
   {
+    "id": "1786689539173-5jr0j2",
+    "createdAt": 1786689539274,
+    "expiresAt": 1787121539274,
+    "mode": "propose_trade",
+    "title": "Build Offer · Big Balder Brand ↔ Conquistadors",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "Josh Allen",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jaxson Dart",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand is initiating a championship-focused pursuit of fantasy QB1 Josh Allen from division rival Conquistadors, using Jaxson Dart as the foundation. While Conquistadors hold Allen as a foundational piece, their starting lineup features a notable bottleneck at FLEX2 (Juwan Johnson, 62.6 C-AVI). By packaging Jaxson Dart with blue-chip RB Jeremiyah Love (89.7 C-AVI, 95.6 D-AVI), Big Balder Brand offers a trade that actually increases Conquistadors' total starting lineup score by +9.9 C-AVI while injecting two elite under-24 assets. For Big Balder Brand, landing Allen completes an unstoppable starting 8 alongside Saquon Barkley, Omarion Hampton, Rashee Rice, A.J. Brown, Trey McBride, and Nico Collins.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 82.4,
+              "davi": 83.4,
+              "publicMarket": 84,
+              "leagueMarket": 82.4
+            },
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 89.7,
+              "davi": 95.6,
+              "publicMarket": 91,
+              "leagueMarket": 89.7
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Josh Allen",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "QB",
+              "age": 30,
+              "cavi": 99.6,
+              "davi": 93.3,
+              "publicMarket": 99,
+              "leagueMarket": 99.6
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 51,
+            "otherShare": 49,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand surrenders high-end young assets in Jaxson Dart and Jeremiyah Love to capture overall QB1 Josh Allen (99.6 C-AVI). The trade gives Big Balder Brand unrivaled star power, while Conquistadors upgrade their FLEX2 slot by +27.1 C-AVI and extend their competitive window with two top under-24 pillars."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 51,
+            "otherShare": 49,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "This proposal aligns perfectly with both team structures in a 16-team league. Big Balder Brand secures the ultimate championship-winning QB, and Conquistadors solve their FLEX2 deficit while gaining long-term dynasty longevity."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 35,
+              "summary": "Acquires the premier overall QB in fantasy football, establishing weekly positional dominance."
+            },
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Josh Allen's 372.3 projected PPR points elevate Big Balder Brand into the top championship tier."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Trades away 21-year-old Love and 23-year-old Dart for 30-year-old Allen, slightly trimming dynasty horizon."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Huge upgrade at QB (+17.2 C-AVI) easily compensates for shifting Chris Godwin into FLEX2."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Reduces RB depth flexibility by moving Jeremiyah Love."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Preserves all future 1st-round draft capital."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 30,
+              "summary": "Converts QB depth into a major starting FLEX2 upgrade and elite young core."
+            },
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Jeremiyah Love (+89.7 C-AVI) replaces Juwan Johnson (62.6 C-AVI) at FLEX2, raising total starting lineup C-AVI by +9.9 points."
+            },
+            "dynastyOutlook": {
+              "score": 50,
+              "summary": "Gains 7 years of youth at QB with Dart and secures top 21-year-old dynasty RB Jeremiyah Love."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Net starting lineup improvement across all 8 offensive slots."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Dramatically strengthens RB group and overall starting lineup balance."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Gains two highly liquid, elite young dynasty assets."
+            }
+          },
+          "explanation": "Big Balder Brand pays premium youth to acquire elite QB1 scoring for a 2026 title push, while Conquistadors fix their starting lineup bottleneck at FLEX2 and rejuvenate their core roster."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Josh Allen (99.6 C-AVI, 372.3 projected PPR points) delivers a massive +62 projected point upgrade over Jaxson Dart at QB, providing unmatched weekly ceiling for Big Balder Brand's championship push.",
+          "sideADynastyImpact": "Trading 23-year-old Dart (83.4 D-AVI) and 21-year-old Love (95.6 D-AVI) shifts long-term equity into an elite 30-year-old QB who remains at his peak physical and fantasy threshold.",
+          "sideARosterImpact": "Positions Josh Allen alongside Saquon Barkley, Omarion Hampton, Rashee Rice, A.J. Brown, Trey McBride, and Nico Collins, with Chris Godwin stepping cleanly into FLEX2.",
+          "sideBChampionshipImpact": "Conquistadors upgrade FLEX2 from Juwan Johnson (62.6 C-AVI) to Jeremiyah Love (89.7 C-AVI), yielding a net starting lineup score increase of +9.9 C-AVI despite the step from Allen to Dart at QB.",
+          "sideBDynastyImpact": "Exceptional dynasty gain, adding 23-year-old starting QB Jaxson Dart and 21-year-old blue-chip RB Jeremiyah Love (95.6 D-AVI).",
+          "sideBRosterImpact": "Transforms a top-heavy QB allocation into a balanced 8-player starting lineup with enhanced depth.",
+          "valueAssessment": "A win-win trade construction in a 16-team league where Big Balder Brand gains elite positional dominance and Conquistadors optimize whole-lineup scoring efficiency."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Josh Allen is consensus dynasty QB1 across fantasy platforms. Trading Allen requires a compelling package featuring a viable young starting QB plus a top-tier young dynasty asset.",
+          "aviVsMarket": "AVI rates Josh Allen at 99.6 C-AVI / 93.3 D-AVI, matching public consensus. Jaxson Dart (82.4 C-AVI) and Jeremiyah Love (89.7 C-AVI / 95.6 D-AVI) hold immense public market appeal, making this 2-for-1 package highly competitive.",
+          "relevantContext": [
+            "Josh Allen has finished as overall fantasy QB1 in 4 of the last 6 seasons and is projected for 372.3 PPR points in 2026.",
+            "The addition of WR DJ Moore in Buffalo further elevates Allen's passing upside.",
+            "Jaxson Dart enters 2026 as NYG's dual-threat starter, providing Conquistadors with an immediate, productive QB replacement."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors are an active contender whose biggest starting hole is FLEX2 (Juwan Johnson, 62.6 C-AVI). Acquiring Jeremiyah Love (89.7 C-AVI) solves this weakness while keeping QB viable with 23-year-old Jaxson Dart.",
+          "packageFit": "Jaxson Dart steps directly into Conquistadors' QB1 slot, while Jeremiyah Love creates an elite RB trio alongside Bijan Robinson and De'Von Achane.",
+          "lineupReplacement": "Dart replaces Allen at QB; Love replaces Juwan Johnson at FLEX2.",
+          "competitiveWindowFit": "Both franchises remain top Division 1 contenders, but Conquistadors significantly extend their long-term competitive window.",
+          "positionalScarcity": "In a 16-team league, elite QB1 scoring is rare and provides a decisive head-to-head advantage."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 18,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 14,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 82,
+          "classification": "Realistic",
+          "explanation": "Conquistadors have a distinct starting bottleneck at FLEX2 (Juwan Johnson, 62.6 C-AVI). Packaging Jaxson Dart with blue-chip RB Jeremiyah Love increases Conquistadors' net starting lineup score by +9.9 C-AVI and adds premier under-24 dynasty talent, yielding an 82% acceptance probability."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Big Balder Brand should submit this package immediately. Pairing Jaxson Dart with Jeremiyah Love creates a win-win scenario that lands fantasy QB1 Josh Allen to complete an unstoppable championship roster, while offering Conquistadors a tangible starting lineup upgrade at FLEX2.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 82.4,
+              "davi": 83.4,
+              "publicMarket": 84,
+              "leagueMarket": 82.4
+            },
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 89.7,
+              "davi": 95.6,
+              "publicMarket": 91,
+              "leagueMarket": 89.7
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Allen",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "QB",
+              "age": 30,
+              "cavi": 99.6,
+              "davi": 93.3,
+              "publicMarket": 99,
+              "leagueMarket": 99.6
+            }
+          ],
+          "whyUserShouldDoIt": "Secures the undisputed fantasy QB1, boosting weekly starting ceiling by +62 projected PPR points while preserving all future 1st-round draft capital.",
+          "whyOpponentMightAccept": "Conquistadors upgrade FLEX2 from Juwan Johnson (62.6 C-AVI) to Jeremiyah Love (89.7 C-AVI), gaining +9.9 net starting lineup C-AVI and acquiring two premium under-24 dynasty cornerstones."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 82.4,
+              "davi": 83.4,
+              "publicMarket": 84,
+              "leagueMarket": 82.4
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 62.1,
+              "davi": 79.3,
+              "publicMarket": 65,
+              "leagueMarket": 62.1
+            },
+            {
+              "name": "2027 Round 2 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Allen",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "QB",
+              "age": 30,
+              "cavi": 99.6,
+              "davi": 93.3,
+              "publicMarket": 99,
+              "leagueMarket": 99.6
+            }
+          ],
+          "rationale": "If Conquistadors prefer draft capital and veteran receiver help rather than moving RBs, offering Dart, Chris Godwin, and two top 2nd-round picks preserves Big Balder Brand's RB depth while maintaining a realistic offer structure."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Josh Allen fantasy value 2026 dynasty redraft",
+          "Josh Allen news Buffalo Bills 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDxljONA5XasvfEuGm2C-Jz-wjokym1q5DZcIU9TOP7tnP5hJpdGsP1d6BmDE4SSUiUkXN-U8cp168dtK0d1H_AFKjcK4HoYsHfDCo5S92dVXNkegH7rHFO193FmEtIRxCTAULdKBQRY0dILv6CmQdajVjDu-3jvJKk8t7HbUdRv2Isxd_kygsPlQsuyWJviJO1upRjJS7Ffr2YEOncSG9AxxDdTiXcghqsqFGnA9-SQsMvNEU-xNHyTlDhJJuegmQqBu2MNbXajIW",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHJRMd4tnEXE7CYr6SqrPbhML6Zd4wAgS0DIauAT-pvu_8jWfV16AB-DexvZfPG90VnyKbGUYTElAWTRtoN5C6E9JTxnMVwaUxSRBdRJmVQ3G4tov6R1kQgiu1TKWb9OOZKqvi4H79n3nY5RKLAcf98kkUI7zwtdik_0UW7MpKRyavrLmiHDituw==",
+            "title": "fantasysp.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxwYysK-fAezdxSBh3xziJjToJtH2GQJ_xxKY5EZlGYHlCpr8uG-c1fNDZ5QrF-XrXRoLBfsjqZQA_Ts4VaPBRlZEujeMJh-VIN-aBzBGnt2xEdOtSX1dXBtvuaORL2tXTKmfzQg==",
+            "title": "dynastynerds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEowFn8s0DBynpnwph0ofurE8NiypWOISyEd9a9VoeKLVBuQUvKwGsaOfIDEGuyRHVrOyDsM65NUMv_xYIJdWlN8q9WCbDL5b4H-sXEY72FZkL3-AP7cJw2tVRU0-CoycZcaaMMWX1hvjSnQLRUMzCTK_8LHTpj16Qk3Yxr5ZawuMb-iQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCP9rIsthE8ehbRgx3k36t85MchtZAAiVp_IkqoAvZw9iMWrP5FrwwurMDKJNiincTfWiO_whgdfFaeoYW0xXUb9eYcHip0WeRuOtxeayaqODO00m3PscP4sPJCqYkmzD-zmicfdxH1yIodinS0ixLVhVlaXM8ow==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbp9yzmmStQXurtpeYiLvWuCDRqCrDBT2-OJnRRbBC2N5RYIqV81UH44K7fDtWEDzSTC5bif37dJM5Yz1oTsiPiQealwtw4bZUghRfUpbcsr4eY2LfI5aFutQeaObOMjW6nTj6nH3BCSUiesftPBlgEQICic_-qNMnec8_fMXt5FYDPutW2idGoUaalZ-US7YdScHwsgacGTXXfjk=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlnihchSwNvAf9se76T4TGr2v_rI8LLpW1OrWyy6bD8VHWt74ByzXUptqUo4nKkG4yvVH_WKjAG6Xz9_HnbPf74d_ZpCqIdpHs-54y3J8hRbMDN0SES8ZBYtBzsncYUklVsEVBce9dGKRZvc_QdYuXRgApa8UnOnbpfFr1uNuOIxMKjTC0vNryyrQsS_qcCcg4L8jGvtUhtv-zBzT4G7rGmjJe",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsWLTvyZ1AoaTkuQt9BMrmM408Vy8mJKOW9kbTIaoX_-2C-CR4mGJ_Io_51v8etCnfl2ip2qq0P6XkFys6x--fP-YQZq3vT4xcY0f8UueWDjbxJjsIDO4eosYFxt3wJMO7P8BBhAlv4r1GAuNmxXaE9gF7LAwU9ZthgRXjgyl-V6tze4XU5OiqbsfFAInbAtPyaPoSH7PJPcXKs1nNkTV7zePysLepRaHoYxa4EpunSd0mK9v0yW-64bAfUTzII_x4Lf4CAP24P3k0UdhfqgBAp9g5eJSs",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqoSVz-2cFZ9zJkFrVZ8jFbivL_rAFP5zIx2AMMLj6RPPOrsOvQd43iIFc-Qyn1AY-lfJ6EOBg9lsQNe_TgOLOIaRzEVoCoSZv8g2y9pYt2FC0HUWtQTvQNa0p-yAXuo64VsuQBqyxQnihjtoMvC9BEqJS7FjkW7emmhxDQW6_GNkauV1CDCymHYYNtt8QQRYdKG5UpoXTCpU-JDOsLPIVeQnr0ndv2hYJRusbA2N5ZOVeM63GVHPIXz902kCpJsY=",
+            "title": "facebook.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "13caa65b6b827416a4663199c3e9f8cc3c30389b",
+        "aviCoreCommittedAt": "2026-08-14T05:45:16Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 64508,
+        "groundedMarketChars": 2229,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "1786689053512-rxgnnf",
     "createdAt": 1786689053865,
     "expiresAt": 1787121053865,
