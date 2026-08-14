@@ -1,5 +1,28 @@
 [
   {
+    "id": "msti74w1-b9893249",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Badland Banditos",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Amon-Ra St. Brown",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1786745600641,
+    "updatedAt": 1786745600641,
+    "expiresAt": 1787177600641,
+    "status": "queued"
+  },
+  {
     "id": "msti5c1u-162043a6",
     "phase": "initial",
     "mode": "propose_trade",
