@@ -23,9 +23,286 @@
       ]
     },
     "createdAt": 1786739319888,
-    "updatedAt": 1786739321286,
+    "updatedAt": 1786739375815,
     "expiresAt": 1787171319888,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "While Amon-Ra St. Brown is an elite Tier 1 dynasty receiver (98.6 C-AVI / 99.0 D-AVI) capable of anchoring any trade proposal, Jahmyr Gibbs (99.7 C-AVI / 98.2 D-AVI) is currently an untradeable high-friction asset for Mile High Royal Lions. Mile High Royal Lions' roster carries only two running backs in total (Jahmyr Gibbs and J.K. Dobbins). Trading away Gibbs would leave them physically unable to field a compliant 2-RB starting lineup on a contending team. Under Autobots Market Reality standards, this trade proposal fails availability, manager motivation, and lineup replacement checks, resulting in an Acceptance Probability of 43% and a verdict of No Realistic Trade.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 98,
+              "leagueMarket": 98.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jahmyr Gibbs",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 24,
+              "cavi": 99.7,
+              "davi": 98.2,
+              "publicMarket": 99.5,
+              "leagueMarket": 99
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "D+",
+            "userShare": 65,
+            "otherShare": 35,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "Acquiring Jahmyr Gibbs for Amon-Ra St. Brown would transform All Hail King Jesus's roster by plugging its worst bottleneck (RB) with a 24-year-old elite RB1 while keeping JSN and Tee Higgins at WR. However, for Mile High Royal Lions, trading Gibbs creates an catastrophic RB hole, leaving J.K. Dobbins as the team's only rostered running back."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Fixes the team's primary starting roster bottleneck by securing a tier-1 running back."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Materially boosts title odds by transforming a weak RB room into a top-tier starting unit."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Maintains elite core value while pivoting from an age-26 WR to an age-24 RB."
+            },
+            "lineupQuality": {
+              "score": 55,
+              "summary": "Net gain in starting weekly output as Gibbs replaces Charbonnet/Jones at RB1 and Deebo enters FLEX."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Slightly reduces WR flexibility behind JSN, Higgins, and Deebo Samuel."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Preserves all draft assets and maintains liquidity in a premium young RB."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -55,
+              "summary": "Severely damages roster structure by leaving the team short of basic starting RB requirements."
+            },
+            "championshipOutlook": {
+              "score": -60,
+              "summary": "Destroys immediate championship contention by creating a unfillable starting RB slot."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Gains a prime WR asset in St. Brown but unbalances positional portfolio distribution."
+            },
+            "lineupQuality": {
+              "score": -50,
+              "summary": "Severe point loss at RB2 that cannot be recovered by adding St. Brown to an already deep WR room."
+            },
+            "depthResilience": {
+              "score": -70,
+              "summary": "Leaves only 1 running back on the entire 20-player roster."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Neutral impact on draft picks and future cap flexibility."
+            }
+          },
+          "explanation": "All Hail King Jesus gains significant starting lineup strength by resolving its main RB deficiency, whereas Mile High Royal Lions suffers a critical structural roster failure by surrendering one of its two running backs."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Receives 99.7 C-AVI Jahmyr Gibbs while sending 98.6 C-AVI Amon-Ra St. Brown (+1.1 C-AVI net, with major positional replacement value gains at RB1).",
+          "sideADynastyImpact": "Swaps 99.0 D-AVI St. Brown for 98.2 D-AVI Gibbs, retaining elite long-term portfolio valuation.",
+          "sideARosterImpact": "Upgrades RB1 from Aaron Jones (55.1) to Jahmyr Gibbs (99.7), inserting Deebo Samuel (58.8) into FLEX2.",
+          "sideBChampionshipImpact": "Loses 99.7 C-AVI Gibbs and gains 98.6 C-AVI St. Brown (-1.1 C-AVI net, but causes massive zero-value drop at RB2).",
+          "sideBDynastyImpact": "Exchanges 98.2 D-AVI RB for 99.0 D-AVI WR, slightly increasing career longevity at the cost of immediate usability.",
+          "sideBRosterImpact": "Leaves J.K. Dobbins (58.9) as the team's only running back, leaving RB2 vacant.",
+          "valueAssessment": "On paper, Amon-Ra St. Brown and Jahmyr Gibbs represent equal-tier 1-for-1 value (St. Brown 98.6 C-AVI vs Gibbs 99.7 C-AVI). However, in a 16-team league with 2 mandatory RB starters, Mile High Royal Lions cannot survive trading away an RB when they hold only two RBs total."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market sentiment ranks Jahmyr Gibbs and Amon-Ra St. Brown as top-10 overall dynasty cornerstone assets. Gibbs signed a 3-year extension in August 2026 cementing his lead backfield role in Detroit.",
+          "aviVsMarket": "AVI model values align seamlessly with consensus KeepTradeCut and FantasyPros redraft/dynasty benchmarks.",
+          "relevantContext": [
+            "Jahmyr Gibbs signed a 3-year contract extension with Detroit on August 7, 2026.",
+            "Gibbs is ranked as consensus overall RB1/RB2 in dynasty formats alongside Bijan Robinson.",
+            "Amon-Ra St. Brown remains an elite S-tier wide receiver locked into Detroit's high-volume passing game."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "shawnh56 has zero motivation to trade his star running back when his roster carries no RB depth behind Gibbs and Dobbins.",
+          "packageFit": "Mile High Royal Lions already starts Drake London and Garrett Wilson with Marvin Harrison and Courtland Sutton in FLEX, making WR a position of strength rather than need.",
+          "lineupReplacement": "Mile High Royal Lions cannot replace Gibbs internally because they hold no 3rd running back on their roster.",
+          "competitiveWindowFit": "As a championship contender, trading away an elite RB1 directly undermines Mile High Royal Lions' title window.",
+          "positionalScarcity": "In a 16-team league, high-volume elite running backs carry higher positional scarcity than wide receivers."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 10,
+            "opposingGmMotivation": 8,
+            "packageMatch": 12,
+            "lineupReplacement": 5,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": false,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 43,
+          "classification": "Unlikely",
+          "explanation": "Jahmyr Gibbs is an unadvertised high-friction asset. Mile High Royal Lions' roster lacks RB depth (only 2 total RBs rostered), meaning trading Gibbs destroys their ability to start a compliant lineup."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Jahmyr Gibbs is an unadvertised high-friction asset. Mile High Royal Lions' roster lacks RB depth (only 2 total RBs rostered), meaning trading Gibbs destroys their ability to start a compliant lineup.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Jahmyr Gibbs is an unadvertised high-friction asset. Mile High Royal Lions' roster lacks RB depth (only 2 total RBs rostered), meaning trading Gibbs destroys their ability to start a compliant lineup.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "shawnh56 has zero motivation to trade his star running back when his roster carries no RB depth behind Gibbs and Dobbins."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Mile High Royal Lions already starts Drake London and Garrett Wilson with Marvin Harrison and Courtland Sutton in FLEX, making WR a position of strength rather than need."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Mile High Royal Lions cannot replace Gibbs internally because they hold no 3rd running back on their roster."
+            }
+          ],
+          "opponentPerspective": "shawnh56 has zero motivation to trade his star running back when his roster carries no RB depth behind Gibbs and Dobbins.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Mile High Royal Lions already starts Drake London and Garrett Wilson with Marvin Harrison and Courtland Sutton in FLEX, making WR a position of strength rather than need.",
+          "whatWouldNeedToChange": [
+            "shawnh56 has zero motivation to trade his star running back when his roster carries no RB depth behind Gibbs and Dobbins.",
+            "Mile High Royal Lions already starts Drake London and Garrett Wilson with Marvin Harrison and Courtland Sutton in FLEX, making WR a position of strength rather than need.",
+            "Mile High Royal Lions cannot replace Gibbs internally because they hold no 3rd running back on their roster."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jahmyr Gibbs NFL status 2026",
+          "Jahmyr Gibbs news 2026 fantasy football",
+          "Jahmyr Gibbs dynasty value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqPXkBjGwp5HMIDGTRq4SYjU5NKfRfJdAZdqOinc3qIw4y6M-TV2Bx0IRL6_kc3A2E2b1-xiC1yKhE2AyHRYj2c7LFlt46sAgRwzhkPiDM3LWMMaXFwssCOPIDoOArPR6f",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqMrMo2OQo4nJZcuXOqX1p5be2jS8LK8kjyYjlB5G2dz0augAAQHqVLubR2kYR80Ud07sQkXeHFIPG7LhkJ5QVem01zcOUX9NLvcZ7pSVD0V72TJuEFRJrnz4VC5Sox7Qp2vmW76MyxcAq3Dk0tvbh4ElZJ_IlRSoJOkXmYE4QwLwiBih-4soIFAET4i1dWAcZRsOnjKbifidcxaCbChGq",
+            "title": "detroitlions.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUDIYWY1hIH7gSdDw4lmgqH64HJ8dWJSs1H30wIdL6qX12zk9Ib0xczjw7UFYJZAyDz_XOXO-z-unn7k6-X5kNgc2i-vSfODCPBBy3a-HCPIzAj4sQVT5Fc_K3q1FK4aik",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLwEZ6Li4CUUwWt7gQsfb3r3dHkyuTVy3d7VzOfqNJAr1RYkF2NuYCJ1tXGNUoNlqHOTshpW5OrELYx1th7SYr_Q6Bbme0ub52bcGWhfFQ6oB5B0j7w1g4J7_5TMXiLvpQlwDFJElYyaeT5uxXjJTXl8Ok5b-lxFkfXHtPRpBoyFq6HE5tKgvDazGrSxRtjQ==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPSaezbJKQIWCCYKnE5xlR-2KsHWRgdlSaywMtwazlQGsxwYZqMaLmzFd6_s3MXfCBmgtVDBP0b0Fd0jx_hVKppTGKWL5HpywR5GSo5JaLJHz4nlJR7DT_f8lo8pI-8bNOkuNJOc4tXcVAlr09dnQS7FzGDN4ys1fyN-t_-6YgBo03yZx02rHbyCFUkP3wbsAoiWfI7rugMWMZ0Wl_7U0=",
+            "title": "detroitjockcity.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnhqYKADebZ8XBcfHBAJ_HRXVoiRBvz-EOEqSO_ys0bnMPEmtQ0v8OkwW1hJnq6hiPAPgUCTL5lK9Aqq9Gy2jrOU_2vATYXI0eNCkKQM3jmHzx4Rq03kBeQqHhJumTRIvM_rJH_rhuHQ7GcFQg0NIYkILARlgLuL5mhGWyCATRMvyOyVlpsRs9ddHO5Q8QLWAbvSL1ITgBw2BsbdHsNDS2ILI6e8VDiDfl3OES-uk-XrM=",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr_fyOrm53fN-Rcc2h0AGWPajJRPS7qn6OGOW7O8SozxYNq_GgJS16R5S0LHJCo5vixFjip7SY9-XkRu2b1aetTt1tg5lELn0Q2_lDwgK-kVh9mQK5U8wD2rmhfMB7tZ4Lyuq68rEDtXuLjlLmjCC1cD9tkToV8ZblV-Zah_aV6YoM09x6i3fQO238FA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhV1prjzn20hjNvJhCoh66S8gFGTNGfkas1mP4Gy-9zdOFA7-7tZuiZrzRPyDKxuS9eFop4VYWzTdrtSaqsH7TZlVYPR0BKTQ8_l4vrR-JyYQvy2Lp5d_YAt45o-TerlW8rpJUpyUi7tAYfJuZUA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7mf0lnmRAoSyp_cL0t9cdNSnIJlKDsbmTM2-g91EukXW2ewJG1fNw-WGBXEk_eH2Jnx-xW3xOJ9NctkM8oKbunNfpT-CQB1qLHamI3Jrd-m7r9zw69pzO9AsaG7OzR3Izmj0JyGViJ46w9ZeBrlWVnyqx0LWXIbKQFMQSXf9adYMoSptMGw==",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4ec0XpFbSekmygKBRPTWKqzQMmfdTsqLl7Z32piZ_6AESf1MfVZXCM0tP8uUEeqryts0jPO7qYk8V8yjq_WchhAFfGd1ooysUZ2GdpZzwG-GhFadz2yT-OcSKgwY0-uw9Han0YDB__kzS9jwYrhlcRM092Yf3K9n6v7Lnwl1AmI8HnltYwD03-Mn1GONqwdC2_tbjP-ISA4_3vAchnz9zrg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSLSrLi5pEanIWJjcvS_FSER3s4d2F_ZuWK8cLMehPXmZVFP7CsFh7MErh9N3m099GDqrM1XYd9KAu62GZ7nP0FA39P7ilfmbZxe4Vn97OX2bxTgU04z-PtajTXWdlNgTuTFcI-ExZpQKn9wmKmytwd5Uil4RLCYGHzCg4GPewNA==",
+            "title": "footballguys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDs_i6IN9hl8ZiLuAN3DXJyfymn24xkT_9hFGkD2cIz2HkTjYxGtd-rf71F-kX6chNOL3VqLYOVWF_NbM_nshOFs_DTic9qytXKpEKYL9hJaY08ws1rrSMkk4YEaGtQNIrvQaJwtn94qLr2Q1jGRa6z0d2kqZFYxtMmYafZ-vCy89Fd0wrRB66GlmDqVjdYIB-To3I5BsQN7c=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5a3ECAta5hcyVxzS3SG2wF5XZVwIMZFeNjYfuQCz8dYg0AOORPdyDPr9DZcseNw2-HeAOno1Jfrwt03aQrORbTfu-MXu4UwIS96MiC1cFvZ0gGWhgCtz1uxasbShIOp9f64zXgOiW5FTRmTcn24nks58p5bAxvY05n0h56lZ06P_U-UF-GzLk8e30W3VDxkBOlsygbIHUmmg31BE3qA==",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "af80b30cbfcc79e29041d8e0fd76e60a96a232dc",
+        "aviCoreCommittedAt": "2026-08-14T20:00:26Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 60124,
+        "groundedMarketChars": 2222,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mstec2e6-5627b439",
