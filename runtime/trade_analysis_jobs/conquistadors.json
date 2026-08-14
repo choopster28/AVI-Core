@@ -18,9 +18,247 @@
       "foundationAssets": []
     },
     "createdAt": 1786745696213,
-    "updatedAt": 1786745697182,
+    "updatedAt": 1786745747426,
     "expiresAt": 1787177696213,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Conquistadors (Elite Contender, Win Championship) requested a trade proposal targeting Amon-Ra St. Brown (WR, C-AVI: 98.6) from All Hail King Jesus (Playoff Push, Increase Championship Odds). Under AVI Market Reality Engine protocols, no realistic trade can be constructed. Amon-Ra St. Brown is an unshopped S-tier cornerstone for a playoff-pushing franchise. To consider moving St. Brown, All Hail King Jesus would demand an elite starting RB to fix their weakest position, but surrendering De'Von Achane would create a crippling hole at RB2 for Conquistadors (forcing Tyjae Spears into the starting lineup), directly damaging Conquistadors' title push. Non-RB packages fail All Hail King Jesus's lineup needs, yielding an acceptance probability of 25% (Unlikely).",
+        "trade": {
+          "sideA": [],
+          "sideB": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 98.5,
+              "leagueMarket": 98.6
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "F",
+            "otherGrade": "A",
+            "userShare": 0,
+            "otherShare": 100,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "No trade offer can be recommended. Acquiring Amon-Ra St. Brown requires assets that would destroy Conquistadors' championship lineup integrity at Running Back, while lower-tier receiver packages fail All Hail King Jesus's roster needs."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 0,
+              "summary": "No transaction executed. Roster composition remains intact."
+            },
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Preserves elite championship starting lineup featuring Bijan Robinson, De'Von Achane, Josh Allen, and Puka Nacua."
+            },
+            "dynastyOutlook": {
+              "score": 0,
+              "summary": "Retains all premium draft assets including 2027 Round 1 and 2028 Round 1 picks."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Starting lineup C-AVI average remains at an elite 90.66."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Maintains flexible depth with Ladd McConkey and Matthew Golden."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Capital remains available to target available assets on the trade block."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 0,
+              "summary": "No transaction executed. All Hail King Jesus retains its WR centerpiece."
+            },
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Maintains playoff push stance anchored by Jaxon Smith-Njigba and Amon-Ra St. Brown."
+            },
+            "dynastyOutlook": {
+              "score": 0,
+              "summary": "Preserves core dynasty pillar in 26-year-old Amon-Ra St. Brown."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Keeps high-ceiling receiver room intact."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "RB weakness remains an internal issue to resolve through alternative targets."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Retains top trading chip for future targeted moves."
+            }
+          },
+          "explanation": "Because no realistic trade offer passes the 70% acceptance threshold without severely damaging one or both teams' organizational goals, no assets change hands and all franchise impact scores are set to 0."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Neutral. Conquistadors avoid depleting essential RB depth (De'Von Achane) to overpay for WR surplus.",
+          "sideADynastyImpact": "Neutral. Preserves 2027 and 2028 1st-round draft picks.",
+          "sideARosterImpact": "Starting lineup maintains high-end balance with Josh Allen, Bijan Robinson, De'Von Achane, and Puka Nacua.",
+          "sideBChampionshipImpact": "Neutral. All Hail King Jesus maintains its top-tier receiver duo (JSN + St. Brown) for its Playoff Push.",
+          "sideBDynastyImpact": "Neutral. Retains a consensus top-4 dynasty wide receiver.",
+          "sideBRosterImpact": "Roster composition remains top-heavy at WR with urgent need for RB depth.",
+          "valueAssessment": "Amon-Ra St. Brown (C-AVI: 98.6 / D-AVI: 99.0) represents an untouchable S-tier cornerstone for an unshopped playoff contender."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Amon-Ra St. Brown is universally regarded as a top-4 dynasty wide receiver and elite redraft asset. Coming off a 2025 campaign with 117 receptions, 1,401 yards, and 11 TDs, he provides unmatched volume and consistency.",
+          "aviVsMarket": "AVI model values align perfectly with consensus market metrics, rating St. Brown as an elite S-tier cornerstone (C-AVI 98.6, D-AVI 99.0).",
+          "relevantContext": [
+            "Voted #22 overall on the 2026 NFL Top 100 list by NFL players.",
+            "Four consecutive seasons with 100+ receptions.",
+            "Primary focal point in Detroit's offense under new play-caller Drew Petzing."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Hofer51 (All Hail King Jesus) is pursuing a Playoff Push. Trading St. Brown dismantles the core strength of their team.",
+          "packageFit": "Conquistadors cannot offer a package that satisfies AHKJ's primary RB weakness without surrendering De'Von Achane, which undermines Conquistadors' own Win Championship mandate.",
+          "lineupReplacement": "All Hail King Jesus has no internal replacement for St. Brown's 300+ PPR point seasonal floor.",
+          "competitiveWindowFit": "All Hail King Jesus is competing for a 2026 playoff berth; selling their best player for draft picks directly conflicts with their competitive window.",
+          "positionalScarcity": "S-tier wide receivers in 16-team full PPR leagues are among the most stable, non-liquid cornerstone assets in fantasy football."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 0,
+            "opposingGmMotivation": 5,
+            "packageMatch": 10,
+            "lineupReplacement": 5,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": false,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 25,
+          "classification": "Impossible",
+          "explanation": "Amon-Ra St. Brown is not on the trade block (availabilityStatus: Unknown). All Hail King Jesus is in a Playoff Push and relies on St. Brown as their primary offensive engine. A package centered around WR depth and draft capital does not fix AHKJ's urgent RB void, and offering De'Von Achane would wreck Conquistadors' own championship lineup."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Amon-Ra St. Brown is not on the trade block (availabilityStatus: Unknown). All Hail King Jesus is in a Playoff Push and relies on St. Brown as their primary offensive engine. A package centered around WR depth and draft capital does not fix AHKJ's urgent RB void, and offering De'Von Achane would wreck Conquistadors' own championship lineup.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Amon-Ra St. Brown is not on the trade block (availabilityStatus: Unknown). All Hail King Jesus is in a Playoff Push and relies on St. Brown as their primary offensive engine. A package centered around WR depth and draft capital does not fix AHKJ's urgent RB void, and offering De'Von Achane would wreck Conquistadors' own championship lineup.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Hofer51 (All Hail King Jesus) is pursuing a Playoff Push. Trading St. Brown dismantles the core strength of their team."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Conquistadors cannot offer a package that satisfies AHKJ's primary RB weakness without surrendering De'Von Achane, which undermines Conquistadors' own Win Championship mandate."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "All Hail King Jesus has no internal replacement for St. Brown's 300+ PPR point seasonal floor."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "All Hail King Jesus is competing for a 2026 playoff berth; selling their best player for draft picks directly conflicts with their competitive window."
+            }
+          ],
+          "opponentPerspective": "Hofer51 (All Hail King Jesus) is pursuing a Playoff Push. Trading St. Brown dismantles the core strength of their team.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Conquistadors cannot offer a package that satisfies AHKJ's primary RB weakness without surrendering De'Von Achane, which undermines Conquistadors' own Win Championship mandate.",
+          "whatWouldNeedToChange": [
+            "Hofer51 (All Hail King Jesus) is pursuing a Playoff Push. Trading St. Brown dismantles the core strength of their team.",
+            "Conquistadors cannot offer a package that satisfies AHKJ's primary RB weakness without surrendering De'Von Achane, which undermines Conquistadors' own Win Championship mandate.",
+            "All Hail King Jesus has no internal replacement for St. Brown's 300+ PPR point seasonal floor.",
+            "All Hail King Jesus is competing for a 2026 playoff berth; selling their best player for draft picks directly conflicts with their competitive window."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Amon Ra St Brown news 2026",
+          "Amon Ra St Brown fantasy value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Ihu-9B2slshG_xgdA2WQmqcxz7tY8XlgbPMiyBALo8BCMvvT9MLTj3vyZth2wTSa0_W2zkUwkz05OQgZOy4tkorbFbCunP6VWVQmcKVS1u_h73_4OYA9-s3dCC86gDC--LqK42TbNtA5D2xy2dXm",
+            "title": "dynasty-daddy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5DeUAxZeIf1bvw_uHUlH3w43Nhm--FERv9TC2v6sF6QDZSpx9o0lXS1DQx2zatVb47dvNV-XkEFv56tINS0TLCq4n-Ki4IwzSqfIya0lQVboTu7fTzSOzwqgYpr6Ec6sjlcpJPrhN1GPWrIwadBVBsH58qPnu7tmS5bguAXf3AXi0",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOqbZDHn5zO1Uu-j8Aa2WYoFSnUS1uC9jgjK6QoypKhZGdCiTNLWdtCVDHbTwuR2vRMKSzDTx0jsn6vabUnnk0C05Yg6bEMdVQxzMnECJs-YoQ8j9yWgrZF4DFWJV-XNKqq_vXkBB6QMwP0jgwfOeeR4JhZKDhuiq_Kl9qngFZi-AtBbsS0YsdKfELe-e6BtE1h3exvtxCyc8=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxo4o1bVvH6rTi-S1v7LcSlUXhcaT5B4bCG-aonGFZUFTG3IGE_SXfH9oI_voSQYhmDUQVdtPXJcmo5rKK_9B92C5zTPBN4ZAhSUoh3yhwcWr06FFiI5NuGpz2qwQGeIJdUo9K2FZRNeBAs5oDPim6Ste2BzhFT_6d4bY11JU3tNf8M6IzE3VA-iNfl5W9OdiKJSSIi1IsqY3D7DQCUPkihpKqEamBK7GctS7QZ_OpgdUgd6BwES7grKhZpjxjB5o=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHilET-wESySxtdM4AgZ_1wno-B5jfo_Y37mtj8kDxSPQKMFBYxAmb5oLZVhZRuyNr63wclw1WBhmu4w2eugIRleyvSCzkeeEaCh9L1kx3-ZmTd1nrkJY_A5PL5npKtW5jPXDZhz0zJqPjz0KxiDMPsAXOijhpwoUJRVheXlWX19jqBr5PE8TUgXo4vjVC-_AKYz-o-HZb8pSC6Xk_woGk=",
+            "title": "clutchpoints.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c55fd1b821dd75c21d040adbaf4528e60f62f282",
+        "aviCoreCommittedAt": "2026-08-14T21:52:44Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 64741,
+        "groundedMarketChars": 1942,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "msti74w1-b9893249",
