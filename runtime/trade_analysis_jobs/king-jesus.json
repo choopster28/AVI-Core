@@ -35,9 +35,429 @@
       ]
     },
     "createdAt": 1786741340220,
-    "updatedAt": 1786741341661,
+    "updatedAt": 1786741419756,
     "expiresAt": 1787173340220,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "All Hail King Jesus proposes sending Jaxon Smith-Njigba and Amon-Ra St. Brown to SmokyValleyWheatWarriors for CeeDee Lamb, Chris Olave, and Rico Dowdle. This 2-for-3 package effectively addresses All Hail King Jesus's roster imbalance by securing Rico Dowdle as an immediate starting RB2 upgrade (+10.9 C-AVI over Zach Charbonnet) while preserving elite WR strength with Lamb and Olave. SmokyValleyWheatWarriors gains +5.8 C-AVI in starting lineup sum by upgrading WR1 and WR2 while acquiring the top young dynasty wide receiver asset in JSN (age 24). Market reality scoring places acceptance probability at 78% (Realistic), making this a high-impact offer that improves championship odds for the user.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 99,
+              "leagueMarket": 99.1
+            },
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 98.5,
+              "leagueMarket": 98.6
+            }
+          ],
+          "sideB": [
+            {
+              "name": "CeeDee Lamb",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.6,
+              "davi": 98.3,
+              "publicMarket": 97,
+              "leagueMarket": 97.6
+            },
+            {
+              "name": "Chris Olave",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 26,
+              "cavi": 94.3,
+              "davi": 95.9,
+              "publicMarket": 92,
+              "leagueMarket": 94.3
+            },
+            {
+              "name": "Rico Dowdle",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "RB",
+              "age": 28,
+              "cavi": 62.4,
+              "davi": 79.9,
+              "publicMarket": 60,
+              "leagueMarket": 62.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "All Hail King Jesus sends Jaxon Smith-Njigba and Amon-Ra St. Brown to acquire CeeDee Lamb, Chris Olave, and Rico Dowdle. The deal solves All Hail King Jesus's critical starting RB2 deficiency (+10.9 C-AVI) while maintaining top-tier WR starter output. SmokyValleyWheatWarriors increases starting wide receiver output and youth at the expense of bench running back depth."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "The proposed package is strategically sound and mutually beneficial, boosting starting lineup C-AVI totals for both franchises in a 16-team PPR format."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Substantial strategic win for All Hail King Jesus, successfully translating slight WR tier dilution into starting RB2 production."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Starting lineup C-AVI sum increases from 627.0 to 632.1 (+5.1 C-AVI) as Dowdle replaces Charbonnet in the starting lineup."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Trades away 24-year-old JSN and 26-year-old ARSB for 27-year-old Lamb, 26-year-old Olave, and 28-year-old Dowdle."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Eliminates a weak starting link at RB2 while keeping two elite WR1s in Lamb and Olave."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Adds a startable RB in Pittsburgh's backfield committee to bolster depth behind Aaron Jones."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Maintains draft pick inventory while diversifying skill position starter floor."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 35,
+              "summary": "Net positive trade for SmokyValley, converting surplus bench RB depth into starting WR upgrades and younger dynasty cornerstones."
+            },
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Starting lineup C-AVI sum rises from 663.5 to 669.3 (+5.8 C-AVI) by upgrading WR1 and WR2."
+            },
+            "dynastyOutlook": {
+              "score": 50,
+              "summary": "Acquires JSN (99.6 D-AVI, age 24) and ARSB (99.0 D-AVI, age 26), securing top-tier long-term assets."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "WR starting slots jump from Lamb (97.6) and Olave (94.3) to JSN (99.1) and ARSB (98.6)."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Loses Rico Dowdle from bench RB depth, leaving Woody Marks and Brian Robinson behind CMAC and James Cook."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Gains two of the most liquid and valuable wide receivers in dynasty fantasy football."
+            }
+          },
+          "explanation": "Both franchises achieve starting lineup improvements. All Hail King Jesus fixes a major weak link at RB2 by moving from Charbonnet (51.5) to Dowdle (62.4) while keeping elite WR production in Lamb (97.6) and Olave (94.3). SmokyValleyWheatWarriors uses surplus RB depth to upgrade both starting WR positions and lower the age profile of its WR core."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "All Hail King Jesus increases starting lineup C-AVI sum from 627.0 to 632.1 (+5.1 points). Upgrading RB2 from Zach Charbonnet (51.5) to Rico Dowdle (62.4) yields +10.9 C-AVI, easily overcoming minor downgrades at WR1 (JSN 99.1 to Lamb 97.6) and WR2 (ARSB 98.6 to Olave 94.3).",
+          "sideADynastyImpact": "Slight long-term value absorption as JSN (99.6 D-AVI, age 24) and ARSB (99.0 D-AVI, age 26) are moved for Lamb (98.3 D-AVI, age 27), Olave (95.9 D-AVI, age 26), and Dowdle (79.9 D-AVI, age 28).",
+          "sideARosterImpact": "Removes the dangerous single point of failure at starting RB2, rounding out an 8-man lineup with startable talent across all skill slots.",
+          "sideBChampionshipImpact": "SmokyValleyWheatWarriors increases starting lineup C-AVI sum from 663.5 to 669.3 (+5.8 points) by boosting WR1 and WR2 output.",
+          "sideBDynastyImpact": "Significant long-term dynasty gain, locking in the #1 overall dynasty WR asset in JSN alongside Amon-Ra St. Brown.",
+          "sideBRosterImpact": "Reduces backfield depth behind Christian McCaffrey and James Cook, but elevates weekly starting ceiling.",
+          "valueAssessment": "Combined raw C-AVI sent by All Hail King Jesus is 197.7 versus 254.3 received. The +56.6 raw C-AVI differential reflects taking on Dowdle's full C-AVI value, which directly fills a starting slot for the user."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views JSN and Amon-Ra St. Brown as premier top-5 dynasty wide receivers. CeeDee Lamb is a locked-in high-end WR1 in Dallas, Chris Olave is a targeted volume WR1 in New Orleans, and Rico Dowdle is competing in a 1A/1B backfield split with Jaylen Warren in Pittsburgh.",
+          "aviVsMarket": "AVI values align closely with market sentiment, positioning JSN (99.1 C-AVI) and ARSB (98.6 C-AVI) at the top of the WR position while recognizing Lamb (97.6 C-AVI) and Olave (94.3 C-AVI) as high-end weekly starters.",
+          "relevantContext": [
+            "CeeDee Lamb enters 2026 as Dak Prescott's primary target in Dallas after a contract restructuring in March.",
+            "Chris Olave signed a four-year contract extension with New Orleans and serves as the undisputed WR1.",
+            "Rico Dowdle joined Pittsburgh on a two-year deal and is taking regular first-team training camp reps alongside Jaylen Warren."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "SmokyValley seeks to consolidate wide receiver production into elite, younger cornerstones in JSN and Amon-Ra St. Brown.",
+          "packageFit": "Trading two top-12 WRs plus an RB depth piece for two top-5 dynasty WRs aligns logically with both roster builds.",
+          "lineupReplacement": "SmokyValley directly replaces Lamb and Olave with JSN and ARSB in their starting lineup, yielding net point upgrades.",
+          "competitiveWindowFit": "Both managers are competitive contenders in a deep 16-team format where starting lineup efficiency dictates championship outcomes.",
+          "positionalScarcity": "In a 16-team full PPR league, usable starting RBs hold immense value, making Dowdle a vital starting asset for All Hail King Jesus."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 20,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 78,
+          "classification": "Realistic",
+          "explanation": "SmokyValleyWheatWarriors gains immediate starting lineup C-AVI at both WR slots while acquiring two elite young wide receivers. Releasing Rico Dowdle is acceptable for them because Dowdle sits on their bench behind starting RBs Christian McCaffrey and James Cook."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal directly achieves All Hail King Jesus's goal of 'Increase Championship Odds'. By trading Jaxon Smith-Njigba and Amon-Ra St. Brown for CeeDee Lamb, Chris Olave, and Rico Dowdle, the user upgrades starting RB2 from Zach Charbonnet (51.5) to Rico Dowdle (62.4) while maintaining elite WR starters. Net starting lineup C-AVI increases by +5.1 points.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 99,
+              "leagueMarket": 99.1
+            },
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 98.6,
+              "davi": 99,
+              "publicMarket": 98.5,
+              "leagueMarket": 98.6
+            }
+          ],
+          "receive": [
+            {
+              "name": "CeeDee Lamb",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.6,
+              "davi": 98.3,
+              "publicMarket": 97,
+              "leagueMarket": 97.6
+            },
+            {
+              "name": "Chris Olave",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 26,
+              "cavi": 94.3,
+              "davi": 95.9,
+              "publicMarket": 92,
+              "leagueMarket": 94.3
+            },
+            {
+              "name": "Rico Dowdle",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "RB",
+              "age": 28,
+              "cavi": 62.4,
+              "davi": 79.9,
+              "publicMarket": 60,
+              "leagueMarket": 62.4
+            }
+          ],
+          "whyUserShouldDoIt": "Fixes the team's glaring starting RB2 deficiency (+10.9 C-AVI over Charbonnet) while keeping two premier WR1 options in Lamb and Olave, raising starting lineup C-AVI sum by +5.1 points.",
+          "whyOpponentMightAccept": "Upgrades starting WR1 and WR2 positions (+5.8 C-AVI starting sum gain) and secures 24-year-old cornerstone JSN without impacting starting backfield starters CMAC and James Cook."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 99,
+              "leagueMarket": 99.1
+            },
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.1,
+              "davi": 91.2,
+              "publicMarket": 80,
+              "leagueMarket": 82.1
+            }
+          ],
+          "receive": [
+            {
+              "name": "CeeDee Lamb",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.6,
+              "davi": 98.3,
+              "publicMarket": 97,
+              "leagueMarket": 97.6
+            },
+            {
+              "name": "Rico Dowdle",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "RB",
+              "age": 28,
+              "cavi": 62.4,
+              "davi": 79.9,
+              "publicMarket": 60,
+              "leagueMarket": 62.4
+            }
+          ],
+          "rationale": "If SmokyValley balks at moving both Lamb and Olave, substituting Amon-Ra St. Brown and Chris Olave out for Tee Higgins provides a smaller 2-for-2 trade focused purely on acquiring Dowdle while swapping WR tier depth."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chris Olave news 2026 fantasy outlook",
+          "CeeDee Lamb news 2026 contract status fantasy",
+          "Rico Dowdle team 2026 depth chart"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnxZFqZ28K5UVXcKxI24tQmMcjJ6KAeMHkCcPPTS_VVaZbj51rexYCHrWYrlS8FHOgi-kNoPtO8vzUkC9lFVGPJmlxJkU6YHKVyJiNgHKJmguG5ynFfGco-lMbdJ8cZKLblG9a-vf-lH0M-TSV36gI0jvlAue0azdZRF8vAaS9gP7ZHdDgXNQJb4FA1DlKxzz9opXbEQumKgybls1_JzNwWPhAmExsN9s=",
+            "title": "dallascowboys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmIJwXhMrwt4VcD0RhNwR4e_qUaQUQk1kqS4muF0tpHKW1H-TDP7z9Lo87IhXtRfhCVFsEfgmQOjPfMPTrRLkwL2OY9w_Kr3U0BhYoNrDPD2NXrApQ_nbg1xP0qDdDLUdGZRKFX5exfRIZAYPpKhuM0QZpow2iEF0f7Y64-DYtqMUC0nd0AmEGk1_1Xrig34uvdKwE2iKo-Gjl",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ay0JlP420ZqfisO0hPF-UTDRHi_jItUjp0bk6E9nyu1FllMsguURVJfEIKpG8NvPO0JhjcXItmcSZbkkrS_SWadyeO3HiZD6uZK9ciTvPWjNxrLjbRIMhnASRqazxAF56jtHpM5_buABgA==",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJc2sqH_9SrikPFB2QYVSM54xEOY2ThB7r1or4Km52gapib_MA9V0I_f4Ilr-NbBOGGR2UQ0mmgoU_C4BrDgPjFH_VK_4BpveyWdKwg08y6MmJ5GtNy815FJhVYoWIiPVQ6by8wnvfEyLVrN1Yq5HpYFbhW7HPutrM3UAMd1Zo",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVVkLij47whIt6CPPHNBqdLXqJX6P5kV05GUipDfXB2shnR6-d7DGB7bvPlpn-66MLiYmNDpNieoE2HGemQvWH97X1S1LVTKEI_sR-FfWqy7ijLy8qMmzYccbXcR27FEquAVC9N4gv8x6g1WPYO8pcbe2HWGAQctT5dWBNQNbS6kQroRkI",
+            "title": "lindyssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhNLsIvjLVptSfB9brSO4q6mz3MxYagvlWwdvYHU_-ZPPSBrEj-ZuWp0TslhosDWEUNlmd53Y7l0V2kdlN0wq1nCPFpR8gCvxhX4UcadwT-ZhiEsSEmx9nWtzjlzABcAPRDwvDslYgMq_ZLLMGnXBSAI4qY6qLeFo=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_SuzQ_jpRlkbi8R6XkKbwO2hy-CzkyLrwnm7p1_e2GZ-5AyxUuOlnRZDmtbGnMU9lhXsL3Mn0Th3i--7PsGW7lMtKVQNPI4KOmhWfZ8y6qZz8WwnDugl-VyxZHnLMhhaNYNb1zCGYB6nBmRK5A8h64JDpadkU_C54uuisByJno0frteJ8j5HotGgQNAZ9gfqyVGYiwXTP1ep-MPRB",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbPPU7rwbN_8zxabghmuvD3ay3w52qzEJcRHeaX128nePFf725spzRG9QBZGOCBlm4Z7WPoaStjunKVWF8tP5ZeI54CFCXF5mJYW3R8lzDHoqZ7QLThevrrZnK1yySZaA096K8cV7x8HmwoD2k3GYC23BLcZGTaTPjVMSSCZeR",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0fouLSUrguI_oZrpXOdLiBlB2WFSRggkbAyoIN5hKUmEz5XhuPCLxwdz28vTpy55IjFFsIEsFen6LQ62_m493d5UtZ012FDIPCR4S6w0Ps4fXvH86l5lGe9U-CHwthbzji40RKekH3nUVtgPt5vycs0P-UO5qah0=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4C1Zvv9q68IA_1xvyG42nOdvumCpH1ct6up1AU5hVyVyseFzFbSsUCBuzGRrQulFo5cykJDjLEsYEzFNgiLtCVYhXFA1lcxvptnUR_6t6qiBgiRXntkqz0wIsZekZPD3hR2cmGvGX2hRmv_SC0FAWTSB6-srtBnjoBO4KqSQQ2VnEhrIiE1E7yfHJb9_ZwzaDQbUfU6dsEdzZZmUZdQ2CFIJo",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKuX_JxamFM3z8t0Nwl6AZmMQIM3mG_Z29shSsYpWr29E6yDvcCCdyFdefvE4MiQtip_FYdZ6_bebcuIKhK4XygvaEN3ScBj6S4s9i84_3j2VpbNaxCR9fChB1WXIn4MIl",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqB3Eww-485CxEfIazaQo3gqEPt1LSKK5j_BJNuKxFQDDyjJE_Gmn3S6zk2TTTKceJcNVY0X24md8saOaDAVXopMP30zBZYIkccNtBPOWzIFmB1KzwSPxACsoK1_LDPWjea47Uz9ieU00R__5fzP458dllZmK6kRJgYUxFejKUlcUfUyeJQEhnWwt0stxzkW7VEPiFANIHU7bhyWGrc1B0jnHwBfDGpg==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaf5kB_upIEtZDMXUZGzAdafsJh34QbSjlUHaqSzyMJXqIl4MzBBOyd3omPQJrEMp6gozUphnLWrahz0QXppgjT7e04ep4g0d1dwq859t_FyUojFsyiHrF_6HSkqMhXgFJPBKPU47xeQ3kLZ5bnVGbnnv4X2FUd-WyjQcrcX9613YYaN1ucO1so3Dxe0ET0LjSkNAk-nk4_c3gAHiKNhAJLqfaBp4y88B8ovDzGQrf9YH2b14cuaDAMgXikpTR3DY84i-t",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELyFwhu5FaB5ZD6cSre9CXlb0B188KDZuZEvwLZFviMUj1noW55NyKNJedPC9E0qTU7l1uNTY_Fuk5rzkFTi5cQlL1bOy3tQ33lj07zIqbK0gtQwoW9slZngDZsBn3LixKBBdybwtEG5ncZqeI",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdUHyBOon6DCK9Q1326kpUbJTwau5zHTJ_ra93MXhPaWcrY23QizWEyURHNExnH7BDsjKiIVilzhprIFZKpcrmrdv5gbjBNrJLaEFufe1dlBsk_w8Tg8Elhtda9qRHpUFCRf2gxCMwulA8XEekKNHeNMbrAvQ3ho_aPD5qJA==",
+            "title": "steelers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLPlIP7N0BnqxVfJ_16U8eE0pCt7ABmac_HDyqg5MPx4RGNDOP39OnDRizF2VloEV1HYJjd2GKV_XRZxkdHiTdA20lY8kOJLsmzWcSkuNYXSSrcDkN7AL5JvOF3M1X3HQMRYk9e75qHzfFNBpUZqeTdgWAZtu_JKreRG9_QnSvIEO2yI5hx-zO2qgWc94Ct06N-fbrp1OBWA==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaDWLl-l6XB4jwzENwn-L_qpczwRBnCu1V1rKVGlYFBUj5-XNSbbM2CxjuV8xSYs1MRDXvP_ad7Gh1L87_onEQOj56itvt7RlJFuTT6KXmVTYaqRJDIqZvlKESb_HFnpBdS9MXrUwwSIhy6mXT4leotD-0nBuevdXkgXAUBi4FkPVIxRg=",
+            "title": "espncdn.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "af80b30cbfcc79e29041d8e0fd76e60a96a232dc",
+        "aviCoreCommittedAt": "2026-08-14T20:00:26Z",
+        "sourcesUsed": [
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 60335,
+        "groundedMarketChars": 3204,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mstfhjww-46e478fe",
