@@ -1,5 +1,41 @@
 [
   {
+    "id": "mstgxxmb-434a8723",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "Justin Jefferson",
+          "assetType": "player"
+        },
+        {
+          "name": "D'Andre Swift",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "createdAt": 1786743491699,
+    "updatedAt": 1786743491699,
+    "expiresAt": 1787175491699,
+    "status": "queued"
+  },
+  {
     "id": "mstgvheo-c8538e8a",
     "phase": "initial",
     "mode": "propose_trade",
