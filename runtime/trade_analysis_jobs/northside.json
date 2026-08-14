@@ -1,5 +1,22 @@
 [
   {
+    "id": "mstj4yhn-0e561098",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Northside Kings",
+      "goal": "Rebuild",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "createdAt": 1786747178651,
+    "updatedAt": 1786747178651,
+    "expiresAt": 1787179178651,
+    "status": "queued"
+  },
+  {
     "id": "mstj1qdo-3b1a9301",
     "phase": "initial",
     "mode": "improve_team",
