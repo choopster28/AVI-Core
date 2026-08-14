@@ -39,9 +39,437 @@
       ]
     },
     "createdAt": 1786743702530,
-    "updatedAt": 1786743703785,
+    "updatedAt": 1786743778034,
     "expiresAt": 1787175702530,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This proposed offer from All Hail King Jesus to Corgi Loaf Baking Co. is a highly effective strategic move designed to increase championship odds. By sending Jaxon Smith-Njigba, Isiah Pacheco, a 2028 1st, and a 2027 5th in exchange for Justin Jefferson and D'Andre Swift, King Jesus addresses its single biggest vulnerability (starting RB) while maintaining elite WR1 output. The trade increases King Jesus' best starting lineup C-AVI by +24.1 points (from 627.0 to 651.1). For Corgi Loaf Baking Co. (an Elite Contender), receiving the younger JSN (24yo, 99.1 C-AVI / 99.6 D-AVI) plus a premium 2028 1st offers an overwhelming +51.8 total AVI net value gain, making it a viable trade proposal with a 70% acceptance probability.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 95,
+              "leagueMarket": 99.1
+            },
+            {
+              "name": "Isiah Pacheco",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 48.1,
+              "davi": 71.3,
+              "publicMarket": 50,
+              "leagueMarket": 48.1
+            },
+            {
+              "name": "2028 1st (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2027 5th (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 0,
+              "leagueMarket": 0
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Justin Jefferson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.3,
+              "davi": 98.5,
+              "publicMarket": 98,
+              "leagueMarket": 97.3
+            },
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 77.4,
+              "davi": 86.2,
+              "publicMarket": 72,
+              "leagueMarket": 77.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "All Hail King Jesus executes a crucial roster rebalancing. Replacing Aaron Jones (55.1 C-AVI) with D'Andre Swift (77.4 C-AVI) at RB1 injects +22.3 C-AVI into the starting backfield, while swapping JSN (99.1) for Justin Jefferson (97.3) keeps WR1 output effectively identical (-1.8 C-AVI). Net starting lineup C-AVI increases from 627.0 to 651.1 (+24.1 points). Corgi Loaf Baking Co. takes a temporary hit to starting RB2 production (-25.5 lineup points) but captures +51.8 total AVI in net capital, youth, and future liquidity."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "The proposed package is strategically sound and endorsed without modification. It delivers immediate starting lineup transformation for King Jesus while offering Corgi Loaf enough long-term value and future liquidity to justify the move."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 65,
+              "summary": "Materially improves championship starting lineup by adding a true RB1 while maintaining elite WR1 production."
+            },
+            "championshipOutlook": {
+              "score": 75,
+              "summary": "Starting lineup C-AVI jumps +24.1 points, transforming a weak RB room into a championship-caliber starting 8."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Gives up a 2028 1st round draft pick and trades 24yo JSN for 27yo Justin Jefferson, slightly shortening dynasty horizon."
+            },
+            "lineupQuality": {
+              "score": 80,
+              "summary": "Directly upgrades RB1 slot from 55.1 to 77.4 C-AVI with D'Andre Swift, while swapping JSN for Justin Jefferson at WR1."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Zach Charbonnet and Aaron Jones move into depth roles, improving backfield insurance."
+            },
+            "flexibilityLiquidity": {
+              "score": -35,
+              "summary": "Surrenders a 2028 1st round pick, reducing future trade capital."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 20,
+              "summary": "Gains premium long-term asset value (+51.8 AVI net gain) and gets younger at WR1 with JSN, but takes a hit to immediate RB starting production."
+            },
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Losing Swift drops starting lineup C-AVI by -25.5 points, forcing Tyrone Tracy/Isiah Pacheco into RB2."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Acquires 24yo JSN (99.6 D-AVI) and an additional 2028 1st round pick, securing elite long-term flexibility."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "WR1 slot improves slightly with JSN (99.1 vs 97.3 C-AVI), but RB2 slot drops from Swift (77.4) to Tracy/Pacheco (50.1/48.1)."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Pacheco adds usable RB depth to offset Swift's departure."
+            },
+            "flexibilityLiquidity": {
+              "score": 80,
+              "summary": "Adds a 2028 1st round pick, providing high-value liquid capital for future in-season upgrades."
+            }
+          },
+          "explanation": "This transaction is a classic win-now rebalancing for All Hail King Jesus and a re-tooling liquidity move for Corgi Loaf Baking Co. King Jesus addresses its primary roster weakness by securing a high-end RB1 in D'Andre Swift and maintaining elite WR1 output with Justin Jefferson, boosting starting lineup C-AVI by +24.1. Corgi Loaf surrenders immediate RB points but gains the younger, higher-rated JSN alongside a 2028 1st round pick to bolster long-term dynasty outlook and liquidity."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "+24.1 C-AVI net gain in starting lineup score. Swift elevates RB1 slot from 55.1 (Aaron Jones) to 77.4 C-AVI. Jefferson (97.3 C-AVI) replaces JSN (99.1 C-AVI) at WR1 with minimal dropoff.",
+          "sideADynastyImpact": "-0.8 D-AVI overall asset change. Trading 24-year-old JSN (99.6 D-AVI) for 27-year-old Justin Jefferson (98.5 D-AVI) and sending a 2028 1st pick moderately reduces long-term dynasty reserves.",
+          "sideARosterImpact": "Solves the severe RB imbalance. Best 8 starting offense becomes Purdy (QB), Swift (RB1), Jones (RB2), Jefferson (WR1), St. Brown (WR2), Goedert (TE), Higgins (FLEX1), Kraft (FLEX2).",
+          "sideBChampionshipImpact": "-25.5 C-AVI starting lineup impact. Replacing Swift (77.4) with Tracy/Pacheco (~49.1 average) creates an RB2 deficit, though JSN (+1.8 over Jefferson) slightly offsets it at WR1.",
+          "sideBDynastyImpact": "+51.8 net gain in total dynasty asset value. Acquires 24yo JSN (99.6 D-AVI) and an extra 2028 1st round pick (79.3 D-AVI).",
+          "sideBRosterImpact": "Corgi shifts WR1 focus to 24-year-old JSN alongside Malik Nabers (23yo), building an elite young wideout core while holding an extra 1st round pick.",
+          "valueAssessment": "Total AVI sent by User: 226.5 (JSN 99.1 + Pacheco 48.1 + 2028 1st 79.3 + 2027 5th 0.0). Total AVI received by User: 174.7 (Jefferson 97.3 + Swift 77.4). User pays a +51.8 AVI premium in raw asset value to turn a bench RB and future pick into immediate, high-impact starting lineup production at RB1."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty markets view Justin Jefferson as a consensus S-tier wide receiver cornerstone, while Jaxon Smith-Njigba is viewed as a premier young WR1 rising rapidly in consensus rankings. D'Andre Swift is seen as a solid win-now RB2 entering a contract year in a potent Ben Johnson offense.",
+          "aviVsMarket": "Public market rates Justin Jefferson slightly higher than JSN due to name brand, whereas local 2026 projections give JSN (324.2 projected PPR points) a higher C-AVI (99.1 vs 97.3) due to Seattle's high-volume passing projection compared to Minnesota's QB transition. D'Andre Swift's local C-AVI (77.4) aligns well with public RB2 sentiment.",
+          "relevantContext": [
+            "Justin Jefferson is catching passes from Kyler Murray in 2026, offering strong bounce-back upside after QB instability.",
+            "Jaxon Smith-Njigba is 24 years old and coming off a major breakout, projecting as a top-3 PPR receiver.",
+            "D'Andre Swift is 27 years old and operating as the primary back in Chicago's explosive Ben Johnson offense."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is an Elite Contender (Win Championship goal) that has completed 21 historical trades. They frequently rebalance assets for value. Getting a younger WR1 in JSN (24yo) plus a 2028 1st provides immense long-term value.",
+          "packageFit": "Solves King Jesus' starting RB crisis while giving Corgi Loaf a younger wideout and a future 1st to pivot or trade for another RB during the season.",
+          "lineupReplacement": "King Jesus replaces JSN with Justin Jefferson at WR1 and inserts Swift at RB1. Corgi Loaf replaces Jefferson with JSN at WR1 and rotates Tracy/Pacheco at RB2.",
+          "competitiveWindowFit": "Directly aligns with King Jesus' 'Increase Championship Odds' goal by boosting immediate weekly scoring power (+24.1 C-AVI). Fits Corgi Loaf's championship timeline by keeping WR production elite while gaining draft capital.",
+          "positionalScarcity": "In a 16-team league, usable starting RBs with 220+ projected PPR points (like Swift) are extremely scarce."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 18,
+            "opposingGmMotivation": 16,
+            "packageMatch": 18,
+            "lineupReplacement": 10,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 70,
+          "classification": "Realistic",
+          "explanation": "Corgi Loaf Baking Co. is an Elite Contender aiming to Win Championship. While trading D'Andre Swift temporarily softens their RB2 slot, acquiring 24-year-old JSN (who holds a higher 99.1 C-AVI than Jefferson's 97.3) alongside a 2028 1st round pick provides massive long-term value (+51.8 total AVI net gain) and liquid capital to make subsequent moves."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal directly achieves the user's goal of Increasing Championship Odds. It elevates starting lineup C-AVI by +24.1 points, turning a weak RB unit into a strength with D'Andre Swift while maintaining elite WR1 scoring with Justin Jefferson. Paying a future 2028 1st and Pacheco to accomplish this transformational starting lineup upgrade is fully justified in a deep 16-team league format.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.1,
+              "davi": 99.6,
+              "publicMarket": 95,
+              "leagueMarket": 99.1
+            },
+            {
+              "name": "Isiah Pacheco",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 48.1,
+              "davi": 71.3,
+              "publicMarket": 50,
+              "leagueMarket": 48.1
+            },
+            {
+              "name": "2028 1st (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2027 5th (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 0,
+              "leagueMarket": 0
+            }
+          ],
+          "receive": [
+            {
+              "name": "Justin Jefferson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.3,
+              "davi": 98.5,
+              "publicMarket": 98,
+              "leagueMarket": 97.3
+            },
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 77.4,
+              "davi": 86.2,
+              "publicMarket": 72,
+              "leagueMarket": 77.4
+            }
+          ],
+          "whyUserShouldDoIt": "Directly solves King Jesus' biggest starting lineup weakness at RB1 (+22.3 C-AVI boost with Swift) while swapping JSN for Justin Jefferson to preserve elite WR1 production. Net starting lineup C-AVI increases by +24.1 points.",
+          "whyOpponentMightAccept": "Corgi Loaf upgrades to a younger, higher-rated WR1 in 24-year-old JSN (99.1 C-AVI / 99.6 D-AVI) and gains a 2028 1st round pick, generating +51.8 in total net asset value to reload depth or trade for another RB."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.1,
+              "davi": 91.2,
+              "publicMarket": 80,
+              "leagueMarket": 82.1
+            },
+            {
+              "name": "Aaron Jones",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 31,
+              "cavi": 55.1,
+              "davi": 73.7,
+              "publicMarket": 55,
+              "leagueMarket": 55.1
+            },
+            {
+              "name": "Isiah Pacheco",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 48.1,
+              "davi": 71.3,
+              "publicMarket": 50,
+              "leagueMarket": 48.1
+            },
+            {
+              "name": "2028 1st (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Justin Jefferson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 97.3,
+              "davi": 98.5,
+              "publicMarket": 98,
+              "leagueMarket": 97.3
+            },
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 77.4,
+              "davi": 86.2,
+              "publicMarket": 72,
+              "leagueMarket": 77.4
+            }
+          ],
+          "rationale": "If Corgi Loaf refuses to part with Jefferson without getting multiple starting-caliber skill players, offering Tee Higgins alongside both Aaron Jones and Isiah Pacheco gives Corgi two usable RBs and a strong WR starter while allowing King Jesus to keep JSN and pair him with Jefferson."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Justin Jefferson news 2026 fantasy football",
+          "D'Andre Swift news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJw5om9fdyNNn5sq8Z2IjwNS3hH3t5-_WauVXgjAuYsmJ0ZF-FF7f7aErgvuXsk_UJBzjkXh3SfibpFliCpc9YOuBXfWQKN4GdZvGq1W1nviUTnlAfRaVxXNzbZKsm9MNhfK1Q2YS-6wQj5LLGGEsBX4nwc961JLTsxZLUOSNlbjEfaeiuvHm_ig6NDoSRhBQLB9T4c6aL5qD-VFPP75tHCR-AqCp0_Wvap6qXH6lE",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCKWcUZOYj00HKXnMz2_laQMUxT0kH8LNnbFUaEkLE7W77VZGUSgPVeLlUxy2Et3r7AGdPo0TQj5fDYoXx67cZ_uViwSv5P6nbZwq2UjxhgjawR2k6GxrRNMOmoieIiwUxfX0UZR8KmvflvlpU1bFn7EFQxMriOH4JgdqSPoRT_jF3vmZ_1x5n90dqmYy12oMLiNwJQmB9QEx_UB0wXVXz2YhQjI-fAsEMO4Ud6noanUvgUuWe5dmkzA==",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt7SNPt4vM4BvtGyjl7ghygToBQg3TCV7moCi4M352EDhUsc_FrS8XcQMXWqHHLUY49gzw5pMjm1N646bdlJKOQmu12-4bg2cv7E04CJurP3tvFx7WDg5NKkB9XIMPocRgVpD8-I2vNq6yzH2BL-A-wpDlVQA9-1lklQOy8-I2QUByMuZf0_LUv4QuyTSTRliRPrS0lLmvLzv7",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhOHB0ANksB30oj46LSMO4To6xdBI9NtM-1GdzBmu9YinQ1b0reV1MBUoW_tk173dD6YtM23oIbOOIAlNpMSEZg_XZ-bCSUlTIAF4natujD2vQ35metSPWO11d3LovMQjz",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNXPrAukfbu63bjWX96YytXIindZ_7VlmHBAFNpAQMxckfnHiKFGw2W-sbw7wkrGHqw-B1VU2qkjrhQAzyVkjN25ujumLyC0Ym6w5uIi3u-v9ehkxf5tZBMsHDH0F-OKHmxUZRXRUVv7jG_cHbX-bE1veOT2KrKI1CO_gwy2qZVTFiN6aBAeqFPWI7EnPb8KYW339Chvc7FAWIULOJWJzkTkxz",
+            "title": "beargoggleson.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyV52Pz7SdTnZ-74gMJZUKa-KhwkvxrAtKNEkNV83ZELzPCn0QOQL1DF2jrBH5xK9sJ2pzodw2eA0-3tQ5UWju2QSVrPs34JyVlvnmgujhJ3DMiDbVXlO-7TaT78wDWVBB--rdmLzKH5Ti1qmU9hkBscm49zggUB0dxP-T7Al8650XB3d6EKUkUus=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3uHMMW9V3I7zHOwPREQ504BMjHbSmFvShGtq9etZuJb0QcxaEiKiXlay5cDwNPhDCEAyVLli-PhKDztYQB_fL6VwlPXaMkyygOWn6R5NfkwPLycVg_UmhQBv4L73em-fHZd56xvSu_Jsy5pQw0JdaXfZcLr816ragZwDoc_LnhA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJdHIxmQZ87is4F-GdNFSUEjbexliINS86dc5UaLJT5u0S4NFOYFXnqrNIt8oIFdZ9YhbfswUJdPyI9qKmyj-7pHlrBVxoCIGlx_9RflBrkXS17imC6XB7T2Z5xvhEoXkHTrKyGCG0vYhIuz1Rg==",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "af80b30cbfcc79e29041d8e0fd76e60a96a232dc",
+        "aviCoreCommittedAt": "2026-08-14T20:00:26Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 65342,
+        "groundedMarketChars": 2857,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mstgxxmb-434a8723",
