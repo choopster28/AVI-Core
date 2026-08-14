@@ -418,6 +418,22 @@
       "team_id": "WAS"
     },
     {
+      "filename": "riley-patterson.php",
+      "fpid": 23370,
+      "mflid": 15369,
+      "name": "Riley Patterson",
+      "position_id": "K",
+      "stats": {
+        "fg": 27.85,
+        "fga": 32.07,
+        "points": 114.57,
+        "points_half": 114.57,
+        "points_ppr": 114.57,
+        "xpt": 31.01
+      },
+      "team_id": "MIA"
+    },
+    {
       "filename": "joey-slye.php",
       "fpid": 19028,
       "mflid": 14600,
@@ -432,22 +448,6 @@
         "xpt": 31.55
       },
       "team_id": "TEN"
-    },
-    {
-      "filename": "zane-gonzalez.php",
-      "fpid": 16548,
-      "mflid": 13347,
-      "name": "Zane Gonzalez",
-      "position_id": "K",
-      "stats": {
-        "fg": 29.6,
-        "fga": 34.21,
-        "points": 112.86,
-        "points_half": 112.86,
-        "points_ppr": 112.86,
-        "xpt": 24.06
-      },
-      "team_id": "MIA"
     },
     {
       "filename": "chad-ryland.php",
@@ -528,22 +528,6 @@
         "xpt": 22.26
       },
       "team_id": "NYG"
-    },
-    {
-      "filename": "riley-patterson.php",
-      "fpid": 23370,
-      "mflid": 15369,
-      "name": "Riley Patterson",
-      "position_id": "K",
-      "stats": {
-        "fg": 18,
-        "fga": 20.67,
-        "points": 73,
-        "points_half": 73,
-        "points_ppr": 73,
-        "xpt": 19
-      },
-      "team_id": "MIA"
     },
     {
       "filename": "ben-sauls.php",
@@ -640,6 +624,22 @@
         "xpt": 0
       },
       "team_id": "FA"
+    },
+    {
+      "filename": "zane-gonzalez.php",
+      "fpid": 16548,
+      "mflid": 13347,
+      "name": "Zane Gonzalez",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "MIA"
     },
     {
       "filename": "brandon-mcmanus.php",
