@@ -1,5 +1,45 @@
 [
   {
+    "id": "msti6b2z-844d524b",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "Christian Watson",
+          "assetType": "player"
+        },
+        {
+          "name": "Mike Washington",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        },
+        {
+          "name": "2027 5th · Corgi Loaf · Projected late range (5.10–5.16)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Amon-Ra St. Brown",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786745562011,
+    "updatedAt": 1786745562011,
+    "expiresAt": 1787177562011,
+    "status": "queued"
+  },
+  {
     "id": "msthfhu9-89e04645",
     "phase": "initial",
     "mode": "propose_trade",
