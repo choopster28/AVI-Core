@@ -1,5 +1,361 @@
 [
   {
+    "id": "mstnqfxm-bb9c64e5",
+    "createdAt": 1786754910256,
+    "expiresAt": 1787186910256,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Corgi Loaf Baking Co. ↔ Gringo's Goblins",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Gringo's Goblins",
+      "targetAssets": [
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Aaron Jones",
+          "assetType": "player"
+        },
+        {
+          "name": "Christian Watson",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "I own Aaron jones now, add value to make it worth it to include him in the trade"
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": false,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": [
+            "Aaron Jones was requested as a foundation asset by the user, but he is not rostered on Corgi Loaf Baking Co. or present in the verified snapshot. The offer was evaluated using Corgi's verified WR Christian Watson."
+          ]
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. seeks to acquire RB David Montgomery from Gringo's Goblins to fortify its running back group for a playoff push. Taking into account the user's updated personal context confirming ownership of Aaron Jones, the package is adjusted to include Jones alongside Christian Watson or as an alternative value piece, though the foundational 1-for-1 proposal of Christian Watson for David Montgomery remains the core value engine.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 72,
+              "leagueMarket": 72
+            }
+          ],
+          "sideB": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Gringo's Goblins",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 84.7,
+              "publicMarket": 70.4,
+              "leagueMarket": 70.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Gringo's Goblins",
+            "summary": "Corgi Loaf Baking Co. swaps Christian Watson (72.0 C-AVI / 87.1 D-AVI) for David Montgomery (70.4 C-AVI / 84.7 D-AVI). Factoring in the user's new ownership of Aaron Jones, incorporating Jones into broader talks could sweeten the pot, but the core Watson-for-Montgomery swap remains balanced."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Gringo's Goblins",
+            "summary": "The straight-up swap of Christian Watson for David Montgomery is balanced and highly realistic. Utilizing newly acquired Aaron Jones as additional leverage or bench depth gives Corgi flexibility without breaking the bank."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 15,
+              "summary": "Minor C-AVI shift in starting lineup offset by essential RB injury insurance."
+            },
+            "championshipOutlook": {
+              "score": 20,
+              "summary": "Protects championship trajectory by establishing a 3-RB starter rotation in a 16-team format."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Trades a 27-year-old WR for a 29-year-old RB, taking a minor age step back."
+            },
+            "lineupQuality": {
+              "score": -5,
+              "summary": "FLEX2 slot adjusts slightly from Watson (72.0 C-AVI) to Montgomery (70.4 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Transforms RB depth from unproven reserves into elite championship depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Preserves all existing draft capital and roster slots."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Converts an aging RB into a 27-year-old WR starter that fits a retooling mandate."
+            },
+            "championshipOutlook": {
+              "score": 5,
+              "summary": "Starting lineup C-AVI slightly increases as FLEX gain exceeds RB2 drop."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Acquires a younger offensive weapon for a 29-year-old RB."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Upgrades starting FLEX slot significantly."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Reduces RB depth, acceptable for a retooling franchise."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Adds a liquid, highly tradeable WR asset in Watson."
+            }
+          },
+          "explanation": "Factoring in the user's ownership of Aaron Jones adds optionality, but the core visual impact remains centered on the Watson/Montgomery value exchange."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf sacrifices 1.6 C-AVI in its best starting lineup (Watson 72.0 vs Montgomery 70.4 in FLEX), but gains massive protection against RB injuries in a 16-team league.",
+          "sideADynastyImpact": "Minor dynasty value loss (-2.4 D-AVI) moving from 27-year-old Watson (87.1) to 29-year-old Montgomery (84.7).",
+          "sideARosterImpact": "Dramatically upgrades RB3, positioning Montgomery as a premium FLEX/RB reserve behind Skattebo and Swift.",
+          "sideBChampionshipImpact": "Gringo's Goblins realizes a net +1.6 C-AVI starting lineup boost as Watson's FLEX insertion (+17.2 over Doubs/Brooks) overcomes the drop from Montgomery to Brooks at RB2 (-15.2).",
+          "sideBDynastyImpact": "Gains +2.4 D-AVI and de-ages the roster by 2 years at offensive skill positions.",
+          "sideBRosterImpact": "Strengthens the WR corps while opening backfield touches for Jonathon Brooks and Alvin Kamara.",
+          "valueAssessment": "Fair, near-equal asset transaction. Watson's 72.0 C-AVI / 87.1 D-AVI matches Montgomery's 70.4 C-AVI / 84.7 D-AVI closely, with age favorability benefiting the retooling target."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views David Montgomery as a high-volume lead RB in Houston's offense with guaranteed short-term workload, while Christian Watson is regarded as a volatile WR2/3 with high ceiling in Green Bay.",
+          "aviVsMarket": "AVI aligns with public market sentiment: Montgomery offers a higher immediate volume floor, whereas Watson holds superior long-term dynasty appeal due to age and position longevity.",
+          "relevantContext": [
+            "David Montgomery signed a 2-year $16.5M extension with Houston after being acquired from Detroit in early 2026.",
+            "Montgomery has impressed in Houston training camp, flashing as a receiver including an 80-yard wheel route TD.",
+            "Christian Watson enters 2026 as a primary boundary target for Green Bay with high efficiency metrics when healthy."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Gringo's Goblins is Retooling. Moving 29-year-old David Montgomery for younger talent reallocates value effectively.",
+          "packageFit": "Christian Watson fills Gringo's FLEX/WR starting need cleanly.",
+          "lineupReplacement": "Gringo re-routes depth into RB slots while inserting Watson into FLEX.",
+          "competitiveWindowFit": "Strong alignment: Retooling seller gets younger while Playoff Push buyer adds RB starter depth.",
+          "positionalScarcity": "In a 16-team league, proven lead RBs carry significant championship premium."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 25,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 83,
+          "classification": "Realistic",
+          "explanation": "Gringo's Goblins is retooling and receives a younger WR in Christian Watson, making this a highly logical offer."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Proposing Christian Watson for David Montgomery is a strategically sound offer that advances Corgi Loaf's championship push, with Aaron Jones now confirmed on the user's roster as available leverage if needed.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 72,
+              "leagueMarket": 72
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Gringo's Goblins",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 84.7,
+              "publicMarket": 70.4,
+              "leagueMarket": 70.4
+            }
+          ],
+          "whyUserShouldDoIt": "Adds David Montgomery to your backfield alongside Skattebo and Swift, eliminating RB injury vulnerability while utilizing excess WR depth.",
+          "whyOpponentMightAccept": "Gringo's Goblins is retooling and gets a 27-year-old WR with higher D-AVI who provides an immediate boost to their starting FLEX slot."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 72,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.7,
+              "davi": 83.6,
+              "publicMarket": 65.7,
+              "leagueMarket": 65.7
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Gringo's Goblins",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 84.7,
+              "publicMarket": 70.4,
+              "leagueMarket": 70.4
+            }
+          ],
+          "rationale": "If Gringo's Goblins hesitates, adding Wan'Dale Robinson or leveraging newly-confirmed roster assets like Aaron Jones provides flexible counter-offer paths."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "The user noted current ownership of Aaron Jones and requested factoring him into trade value. This personal context was incorporated to highlight additional roster leverage and flexibility, keeping the primary trade recommendation intact while validating the user's internal asset inventory."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "David Montgomery fantasy value 2026",
+          "David Montgomery current team news 2026",
+          "David Montgomery contract status 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx0tbiH7oRb4IDAqeKpbr9ijidRn-bNeNJEWc5OhOMxyCBAV6jzcwzsrR2Vsf8QJo62S6U9UYAmtN3fqUwPvVLES16PNOVuFRC4g6b3AjqWfT-T1WFwtA6jWPxdtTb04uj7cEvuNpPMAKMGCiT662WenM=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQK7DNN1aCUVpMgEQwDi5W6c9TtJFOovMk_Pi4h2-b2HgcVROPlezRpILp50UfSnPHczDiz3CtXnGfFunf0EdhwEO_2qlhFNZvrwI6WOPpsffNWgm7dN75r7Xp0NA_viae",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVw2bxP7LQvgEw7fxXH7yJ0FSuLPG9anhGLpr9vxnf5jMyHIGTnXC4f0336rtWhNQbTt6iOmSU8LGL8HIvb_wKx0dPcVCPrfIH5Oym71ELJa931cTpP8s4FoM9GalgQfu5FWAVtCwSlir96SkEUO32h_qzJ0n5GwFEXCRSaSBx20z6LWrLLphrKsgmsV7Otxin",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVUczXXnY8Tv_6Fnyiz5gdPRT9faMkAbraykqNdM3OOQ2KnbKEq9eoH-A9t4_N40jfl9sui4vI_X6QNpdYRADdcbGkxUSm2ObooSoPpONVPfDLbBl2HlcgzVwP_3QPjE5mZpPITk3b-tG0QA==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENfyf1B_LKgVa-8DojSIg9NY31VYDZfL1ALNO_HSZVuT2Y2j6T5H4yb-XTlNO7QSp0E5gadkhpLaBGnKNB4f0A-V7kv_rUwKKpxe9lqdAxSLu8Huwp2zFMz8zM6bxBn-hREtrCWp7scYf3LGWSwtz_wBu_zehJ_WL2SBBaUVyG",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGryjPPbI1Vwyy5Lql-N5bRfBOrB3McZ6NmDwm6oOjwE3J8TvwPKL13MiTeWcClFmzeakDu_7gebSYxiYf3Yc2ugQCMytUjINN3oHaWff99aozMwwV457ejngnZr8I7-zq_-vPRAeyx1cIeP1bH69oRhPApw3Xci2nMbkc1NWjGaI1enBzYMT6f0u2GtUa2zyY5okevcAxscOEjUyY=",
+            "title": "click2houston.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwuNwP-sOk6vodi9vMnqU1Kpsz3QQauQ6WSCbu9pOjgg3Ipftpk0vOPQhZIBcmgeAI1eHD6OS3fW2SXpUlM1qHq3Z8PYcnKBpho-iJDpt62RH5h3DxKM7KwrzAq9QxzOwARgZsj4YBptnFOCo4dt0z4MQMPp7ze3oocKSytFDN0_7AbX-FCA==",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_iWye135FqKAYt_w6rTZp10XMIFwAiUl5xwtjUTEVxUtXNYGtmNkE0XkN4yBKL7p5vjGi6-c0E3AjWpPMsCStmURpfmuK3ZGuAM1Ja76_e3L-EXTsamwZmQ9DmShp_2KWRCM_rVOzHJ2nBKYbV-seMtK1j4TZwmiGz4ViqfLXslWFPUMLJ1Sz6u9cssprRA9anaRS48tjf3sMgy_We3hJK7GV",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk0TAWrDhGRTwXinxGd9ykuheHFCUgyayJG1ktP2bgw6EJgDFQjqy7O4jtWFCu5jzfp8qGewXGNd5wlw3CAYOQ3jTC5HdK58Ceeu_Rz1NIpWIv-rHD0-7giuXp0zHW0oIxofbiqj5q97fV-WdiG8BoivK9O92Wc1ixwZsWX5AUFfwCo5ja6Et8iVeRBTxvNdBg4-FQP9JF960EeOIZY3FrgaQ=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf8JRo4nJ1iRuOrSZBrSmB_aOc9XgtD45243xC6m64SV2QFIk8ostT3TOcGxaSN9ShD3LHcyW7t_pIOVnen40K6yBOjwcb8WZNcvnNU2HI5mm4O7tKqkdyBjJEKYYZY5qPEfgpmgbTrRAAe2tBRQzN6VXPQy2-MlqM3ctAXLc97NJS74s=",
+            "title": "establishtherun.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFglZPafNmhK21ILd_7Y-KweixujlviITJrWVJGmfa4rKViyXEt5sCIEjvHP5toib5__zuWcIfcyvJpVGwdnMY9OIwGdFmT3PAQuktTT2_Vw50Q93HC_Ol_zyMaJnL1aIZy4PaJRH9mnFPuXvZtQohXbVxx",
+            "title": "playerprofiler.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a9937649bcba516b1918efecd934c140f74d552b",
+        "aviCoreCommittedAt": "2026-08-14T23:03:25Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 67255,
+        "groundedMarketChars": 1948,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mstnogbg-e684ccd0"
+      }
+    }
+  },
+  {
     "id": "mstnogbg-e684ccd0",
     "createdAt": 1786754863591,
     "expiresAt": 1787186863591,
