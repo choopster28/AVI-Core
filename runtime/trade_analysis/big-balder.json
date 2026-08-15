@@ -1,5 +1,363 @@
 [
   {
+    "id": "mstnr9x8-0824183f",
+    "createdAt": 1786754987882,
+    "expiresAt": 1787186987882,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · DMV Fantasy ↔ Ravens Regime",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "DMV Fantasy",
+      "goal": "Retool",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Ja'Kobi Lane",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Isaac TeSlaa",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Ravens · Projected late range (2.10–2.16)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This proposed trade is an outstanding value capture for DMV Fantasy's retool strategy. By exchanging 2026 rookie wide receiver Ja'Kobi Lane for sophomore wide receiver Isaac TeSlaa plus a 2027 2nd-round draft pick, DMV Fantasy acquires valuable future draft capital without suffering any downgrade to its starting lineup. Neither wide receiver currently projects into either team's top 8 starting lineup in this 16-team league, making the addition of the 2027 2nd-round pick pure profit for DMV Fantasy.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Ja'Kobi Lane",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 22,
+              "cavi": 44.5,
+              "davi": 70.1,
+              "publicMarket": 55,
+              "leagueMarket": 50
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Isaac TeSlaa",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 24,
+              "cavi": 38.8,
+              "davi": 69.1,
+              "publicMarket": 45,
+              "leagueMarket": 42
+            },
+            {
+              "name": "2027 2nd · Ravens · Projected late range (2.10–2.16)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "C-",
+            "userShare": 65,
+            "otherShare": 35,
+            "advantageFranchise": "DMV Fantasy",
+            "summary": "DMV Fantasy captures outstanding retooling value by acquiring Isaac TeSlaa and a 2027 2nd-round pick for Ja'Kobi Lane. Neither wide receiver alters either team's starting 8 lineup, allowing DMV Fantasy to net a liquid 2nd-round draft pick while maintaining comparable young wide receiver depth."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "C-",
+            "userShare": 65,
+            "otherShare": 35,
+            "advantageFranchise": "DMV Fantasy",
+            "summary": "Accept the submitted transaction as constructed. It achieves DMV Fantasy's goal of accumulating premium retooling assets and draft liquidity without degrading present starting output."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Zero impact on 2026 starting points; neither Lane nor TeSlaa cracks DMV Fantasy's top 8 starting slots."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Enhances long-term dynasty asset portfolio through the addition of a 2027 2nd-round pick."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Starting lineup remains completely unchanged (Daniels, Hall, Pollard, McLaurin, Shakir, Kittle, Strange, White)."
+            },
+            "depthResilience": {
+              "score": 5,
+              "summary": "Maintains young wide receiver developmental depth with Isaac TeSlaa."
+            },
+            "flexibilityLiquidity": {
+              "score": 50,
+              "summary": "Adds a liquid 2027 2nd-round draft pick that can be packaged or used in future retooling moves."
+            },
+            "overall": {
+              "score": 30,
+              "summary": "Substantial strategic win for DMV Fantasy, netting a 2027 2nd-round pick while preserving bench wide receiver upside."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Ja'Kobi Lane does not upgrade Ravens Regime's starting lineup over Zay Flowers, Davante Adams, Carnell Tate, or Jordyn Tyson."
+            },
+            "dynastyOutlook": {
+              "score": -35,
+              "summary": "Drains future draft capital without securing an immediate high-impact starter."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Starting lineup remains unaffected."
+            },
+            "depthResilience": {
+              "score": 5,
+              "summary": "Slightly elevates young bench wide receiver potential with rookie 3rd-rounder Ja'Kobi Lane over TeSlaa."
+            },
+            "flexibilityLiquidity": {
+              "score": -40,
+              "summary": "Reduces draft capital flexibility by surrendering a 2027 2nd-round pick."
+            },
+            "overall": {
+              "score": -30,
+              "summary": "Overpay for Ravens Regime, surrendering a 2027 2nd-round pick to swap deep bench wide receivers."
+            }
+          },
+          "explanation": "DMV Fantasy secures a clear victory by leveraging current rookie hype on Ja'Kobi Lane to gain a 2027 2nd-round pick while replacing Lane on the bench with Isaac TeSlaa. Because both players are bench pieces for both rosters, the draft pick represents pure unencumbered asset gain."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Minimal impact on immediate C-AVI; neither Ja'Kobi Lane (44.5 C-AVI) nor Isaac TeSlaa (38.8 C-AVI) enters DMV Fantasy's 8-player starting lineup.",
+          "sideADynastyImpact": "Strong positive dynasty impact (+48.5 pick AVI). Capitalizing on Lane's draft profile to gain a 2027 2nd-round pick accelerates DMV Fantasy's retool.",
+          "sideARosterImpact": "DMV Fantasy expands draft asset flexibility while keeping receiver bench depth stable.",
+          "sideBChampionshipImpact": "Negligible championship impact for Ravens Regime; Lane does not displace Flowers, Adams, Tate, or Tyson in starting slots.",
+          "sideBDynastyImpact": "Negative dynasty impact; surrendering a 2027 2nd-round pick for a lateral move at bench receiver depletes future trade currency.",
+          "sideBRosterImpact": "Ravens Regime swaps sophomore wide receiver depth for rookie wide receiver upside at the expense of a 2nd-round pick.",
+          "valueAssessment": "The trade strongly favors DMV Fantasy. DMV Fantasy receives 87.3 combined asset AVI (TeSlaa + 2027 2nd) while sending 44.5 AVI in Ja'Kobi Lane."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty markets value 2026 rookie Ja'Kobi Lane slightly higher than sophomore Isaac TeSlaa due to draft recency and physical frame (6'4\"). However, market consensus rates a 2027 2nd-round pick higher than the valuation gap between the two receivers, making the package strongly favorable to the team receiving the pick.",
+          "aviVsMarket": "Market sentiment treats Ja'Kobi Lane as a late 2nd/early 3rd rookie pick value and TeSlaa as a mid-to-late 3rd value. Getting TeSlaa AND a 2027 2nd for Lane is a major market win for DMV Fantasy.",
+          "relevantContext": [
+            "Ja'Kobi Lane was selected 80th overall (3rd round) in the 2026 NFL Draft by Baltimore, offering elite size and catch radius but needing route development.",
+            "Isaac TeSlaa posted exceptional efficiency as a rookie in Detroit (6 TDs on 16 catches in 2025) and competes for WR3 snaps in a high-powered offense.",
+            "In a 16-team dynasty format, 2nd-round picks carry significant market liquidity."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime's stated goal is 'Increase Championship Odds' (Playoff Push). Mentomorii may be seeking young wide receiver upside in Baltimore's offense, but paying a 2027 2nd-round pick for bench depth does not directly advance a 2026 playoff push.",
+          "packageFit": "Fits DMV Fantasy's retool goal exceptionally well by building draft capital; represents a questionable spend for Ravens Regime given their contender status.",
+          "lineupReplacement": "Neither player is a mandatory starter; both serve as bench depth on their respective teams.",
+          "competitiveWindowFit": "DMV Fantasy advances its retool by acquiring future draft liquidity. Ravens Regime slightly dilutes long-term capital without boosting present title odds.",
+          "positionalScarcity": "In a deep 16-team league, future 2nd-round picks are versatile trade assets for in-season retooling or contending moves."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 12,
+            "packageMatch": 14,
+            "lineupReplacement": 15,
+            "competitiveWindow": 6
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 62,
+          "classification": "Stretch",
+          "explanation": "While Ravens Regime possesses the draft assets to execute this deal, spending a 2027 2nd-round pick for a bench wide receiver swap is a stretch for a contender since Lane does not enter their starting lineup. However, if offered by Ravens Regime or pursued, it remains within a plausible negotiation window if Mentomorii is highly enamored with Lane's rookie profile."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "DMV Fantasy should accept this trade without hesitation. For a retooling franchise, securing Isaac TeSlaa alongside a 2027 2nd-round draft pick in exchange for Ja'Kobi Lane is an outstanding value capture that adds liquid draft capital without impacting starting lineup production.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Ja'Kobi Lane",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 22,
+              "cavi": 44.5,
+              "davi": 70.1,
+              "publicMarket": 55,
+              "leagueMarket": 50
+            }
+          ],
+          "receive": [
+            {
+              "name": "Isaac TeSlaa",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 24,
+              "cavi": 38.8,
+              "davi": 69.1,
+              "publicMarket": 45,
+              "leagueMarket": 42
+            },
+            {
+              "name": "2027 2nd · Ravens · Projected late range (2.10–2.16)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "DMV Fantasy nets a 2027 2nd-round draft pick while remaining virtually flat on young wide receiver bench depth.",
+          "whyOpponentMightAccept": "Ravens Regime acquires Ja'Kobi Lane, a 2026 3rd-round NFL draft pick with a 6'4\" frame in Baltimore's passing offense."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Ja'Kobi Lane",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 22,
+              "cavi": 44.5,
+              "davi": 70.1,
+              "publicMarket": 55,
+              "leagueMarket": 50
+            }
+          ],
+          "receive": [
+            {
+              "name": "Isaac TeSlaa",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 24,
+              "cavi": 38.8,
+              "davi": 69.1,
+              "publicMarket": 45,
+              "leagueMarket": 42
+            },
+            {
+              "name": "2027 3rd · Ravens · Projected late range (3.10–3.16)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "rationale": "If Ravens Regime hesitates to give up a 2027 2nd-round pick for a bench wide receiver swap, pivoting to a 2027 3rd-round pick still yields positive retooling value for DMV Fantasy while substantially boosting acceptance probability."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Isaac TeSlaa Arkansas football 2025 2026 NFL draft",
+          "JaKobi Lane USC football 2025 2026 NFL draft",
+          "JaKobi Lane NFL draft outlook",
+          "Isaac TeSlaa NFL draft outlook"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnT0EOn4T9TQxwmQZKMQLIDTm_xpjKRQjUdjnAAlDrXdxOQVbjLsesdca-NnXJT5GA9sqP5RogFpwH44xx7ons75pG49ZKMtBocrb7VsrG7hCCh3VJEPYTD2VvyCfqetA=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS46LGAHs6T0OiHoXWJvJZKim4MqKdoDE96D8uSId6G9ooSzJKp97tb1wr1o0vx2jeg9yI9qjyOkmVSs97SQkygGCtM7mU4ZqLL_kDBEDi9GXQBTua9ygE6WImNgTy0UbCsXalQFYSuo4fNjIShgf4hxN3PyOjtqLr7BeHwaK_7aeK4-s=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXwxll51nqJMNZpHD-wiiprHGMj2Bd0zbRtWi_EnGVyTo2KVBxkynNV60RU1fWlcFVU4-Lw75KyqJB7gwV6lFNmxBpu2NdDXDLEm10WMETJpMxqbijvSmNaE1oN8ZXNqjmYf0x4iK3TAhsN9FjVzfT-C73S_3Nh41J-xNVbZVe4rfm8tAoL-EbqDfZpOHLU4F4",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhaHeGWcuib_0RH13uZAU5ceYLJX3G3FCFwbjzGB6RFxnv28zX4C6JZvxZl4b8F0sieNzFCMbyEmWzn4ikgZTWc42BOwS0iqbpCDX2u9BYtEkC1gqbpTL_P--HpgrB2olacn0EdAIvkvAIfw==",
+            "title": "nfldraftbuzz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYY8BSG9bFxZNBk-Xg0pMo0wUTvkeWJ8EtG61EWp0mooBwUKBQzR1GUWVHNTU2NBdIroK9Z1w1-AO_7aq6NmNnvMW-AjGq_M7x3R-LMiay2CyqUx4pCkXXZmv1Dwry_Q==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv02LEEOD9LVyJl96wrSh7uqOKOsM4UgqMXUw6844GTlqmgTV23tD6PF-vyptDR5zu0bS6y0PbZ6toRpI1BdM7JEOke52vi1I5OxcOSnUWY-MWspb0wI61WsC7MB1JhYooUCFpvyl5aUmAjyFbSbjI3FWcfqO3CXj0t6FDARibd41TvwgmMNINUOCAMXILtLZsR3whcJR_amPGs90XOg==",
+            "title": "sidelionreport.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTmYiV0n2enc3IptOfUY-k01vCja4u6FWRlYKPTDIUv_qKKQV5l_yp2dkTrOM2VF1TxsU1rUxA05dI8uw3CLL5VMWEWXdRcpFVURfmGlq05gvpo5agKe_vDWAmQHhqBjzFjmwrpFaLzeH28mejm3A=",
+            "title": "fantasyfootballcalculator.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a9937649bcba516b1918efecd934c140f74d552b",
+        "aviCoreCommittedAt": "2026-08-14T23:03:25Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 69418,
+        "groundedMarketChars": 2535,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mstnj11q-30855bf1",
     "createdAt": 1786754600576,
     "expiresAt": 1787186600576,
