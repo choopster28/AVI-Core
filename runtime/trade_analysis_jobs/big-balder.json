@@ -1,5 +1,43 @@
 [
   {
+    "id": "msv18yg2-32629905",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "DMV Fantasy",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jaxson Dart",
+            "assetType": "player"
+          },
+          {
+            "name": "Chris Godwin",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Goblins · Projected early range (2.01–2.05)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jayden Daniels",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786838064482,
+    "updatedAt": 1786838064482,
+    "expiresAt": 1787270064482,
+    "status": "queued"
+  },
+  {
     "id": "msv15ftf-3b1fd87a",
     "phase": "initial",
     "mode": "propose_trade",
