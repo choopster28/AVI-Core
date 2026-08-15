@@ -1,5 +1,47 @@
 [
   {
+    "id": "msujdlyz-2cca8b86",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Rapid Valley Annihilation",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "Wan'Dale Robinson",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Quinshon Judkins",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 3rd · Badlands · Projected mid range (3.06–3.09)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786808048507,
+    "updatedAt": 1786808048507,
+    "expiresAt": 1787240048507,
+    "status": "queued"
+  },
+  {
     "id": "mstnr9x8-0824183f",
     "phase": "initial",
     "mode": "analyze_trade",
