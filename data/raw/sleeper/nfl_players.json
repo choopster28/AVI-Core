@@ -530878,8 +530878,8 @@
     "birth_state": null,
     "college": "Texas A&M",
     "competitions": [],
-    "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_order": 5,
+    "depth_chart_position": "RB",
     "espn_id": 4035222,
     "fantasy_data_id": 20990,
     "fantasy_positions": [
