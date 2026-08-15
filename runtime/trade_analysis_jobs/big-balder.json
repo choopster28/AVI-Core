@@ -1,5 +1,43 @@
 [
   {
+    "id": "msv1az0r-97a90e14",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "DMV Fantasy",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jaxson Dart",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Goblins · Projected early range (2.01–2.05)",
+            "assetType": "pick"
+          },
+          {
+            "name": "Jalen Coker",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jayden Daniels",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786838158539,
+    "updatedAt": 1786838158539,
+    "expiresAt": 1787270158539,
+    "status": "queued"
+  },
+  {
     "id": "msv18yg2-32629905",
     "phase": "initial",
     "mode": "analyze_trade",
