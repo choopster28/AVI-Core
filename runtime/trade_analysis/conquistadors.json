@@ -1,5 +1,403 @@
 [
   {
+    "id": "msuqdyjt-87c1effe",
+    "createdAt": 1786819909535,
+    "expiresAt": 1787251909535,
+    "mode": "counter_trade",
+    "title": "Initial Counter Strategy · Conquistadors ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "counter_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "David Montgomery",
+            "assetType": "player"
+          },
+          {
+            "name": "Wan'Dale Robinson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "counter_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The proposed incoming offer (David Montgomery, Wan'Dale Robinson, and a 2027 1st) fails basic market reality on two major fronts: David Montgomery is owned by Gringo's Goblins (not Corgi Loaf Baking Co.), and surrendering S-tier cornerstone De'Von Achane (C-AVI 97.4 / D-AVI 97.0) for non-starter depth severely damages Conquistadors' immediate championship odds as an Elite Contender. To move Achane, Conquistadors must demand a premier centerpiece in return. Three strong counter-trade paths exist targeting Corgi Loaf's top assets—including public trade-block star Jaxon Smith-Njigba, elite second-year tight end Tyler Warren, and high-volume running back Cam Skattebo paired with premium draft capital.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Win Championship (Elite Contender)",
+          "strengths": [
+            "Elite QB cornerstone in Josh Allen (C-AVI 99.6)",
+            "Premier RB anchor pair with Bijan Robinson (C-AVI 99.4) and De'Von Achane (C-AVI 97.4)",
+            "S-tier young WR alpha in Puka Nacua (C-AVI 99.6)"
+          ],
+          "priorityNeeds": [
+            "Demanding premier starter-for-starter centerpiece value when shopping S-tier talent",
+            "Maximizing starting lineup impact at TE/FLEX or WR to preserve title odds"
+          ],
+          "tradeableSurplus": [
+            "De'Von Achane (Confirmed Public Trade Block asset)"
+          ],
+          "constraintsApplied": [
+            "Mandatory Goal Alignment: Conquistadors (Win Championship) vs. Corgi Loaf Baking Co. (Increase Championship Odds)",
+            "Starter-for-Starter Realism Gate: De'Von Achane cannot be sold for backup depth and future picks alone"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 1,
+          "managersEliminated": 0,
+          "eliminationReasons": []
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Jaxon Smith-Njigba",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 24,
+                "cavi": 99.1,
+                "davi": 99.6,
+                "publicMarket": 98,
+                "leagueMarket": 99
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 96,
+                "leagueMarket": 97
+              }
+            ],
+            "scenarioType": "Star Cornerstone Swap",
+            "strategicGoal": "Swap S-tier RB surplus for confirmed trade-block WR1 cornerstone to maximize championship scoring",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 92,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "JSN is a confirmed trade-block asset with elite C-AVI (99.1) and D-AVI (99.6). Swapping Achane for JSN gives Conquistadors an untouchable WR tandem of Puka Nacua and JSN, instantly elevating week-to-week scoring ceiling while keeping competitive odds at peak levels.",
+            "whyOpponentMightAccept": "JSN is publicly listed on Corgi Loaf's trade block. Acquiring Achane gives Corgi Loaf a top-3 dynamic RB cornerstone to drive their Playoff Push, resolving their backfield tier need without sacrificing roster depth.",
+            "championshipImpact": "Substantial upgrade to WR starting lineup; secures top-tier fantasy scorer.",
+            "dynastyImpact": "Locks in a 24-year-old elite WR1 cornerstone for the next 5+ years.",
+            "rosterImpact": "Conquistadors start Nacua and JSN at WR while Bijan Robinson anchors RB1.",
+            "publicMarketContext": "JSN is ranked as a locked-in redraft WR1/high dynasty asset following his breakout season.",
+            "risks": [
+              "Slightly diminishes RB depth, requiring Tyjae Spears or draft moves for secondary RB starters"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Achane straight up for JSN, highlighting JSN's public trade-block status and Corgi Loaf's need for elite RB scoring.",
+              "acceptableConcession": "Throw in a 2027 3rd round pick if Corgi Loaf requests a minor sweetener.",
+              "walkAwayPoint": "Walk away if Corgi Loaf demands a 1st round pick or additional starting WR on top of Achane."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Tyler Warren",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "TE",
+                "age": 24,
+                "cavi": 97.2,
+                "davi": 91.5,
+                "publicMarket": 90,
+                "leagueMarket": 92
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 96,
+                "leagueMarket": 97
+              }
+            ],
+            "scenarioType": "Positional Power Upgrade",
+            "strategicGoal": "Acquire top-tier TE cornerstone to lock down positional advantage",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 84,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Tyler Warren (C-AVI 97.2) is a massive difference-maker at TE. Pairing Warren with Harold Fannin gives Conquistadors positional dominance over all contenders in the league.",
+            "whyOpponentMightAccept": "Corgi Loaf gains an elite RB1 in Achane to power their Playoff Push while maintaining TE production through their deep roster.",
+            "championshipImpact": "Immediate boost to TE position baseline points.",
+            "dynastyImpact": "Secures an elite 24-year-old TE asset with elite target volume.",
+            "rosterImpact": "Warren slots into starting TE, shifting Harold Fannin or Ladd McConkey to FLEX.",
+            "publicMarketContext": "Warren is a consensus top-3 dynasty TE asset entering his second season with massive target projection.",
+            "risks": [
+              "Shifting value from RB to TE requires reliance on Bijan and Spears/Mitchell for RB production"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Achane for Warren 1-for-1 as a direct positional power swap between contenders.",
+              "acceptableConcession": "Include a 2027 2nd round pick if Corgi Loaf insists on extra capital.",
+              "walkAwayPoint": "Walk away if Corgi Loaf asks for additional starting WRs or 1st round draft capital."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Cam Skattebo",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 24,
+                "cavi": 84.1,
+                "davi": 89.1,
+                "publicMarket": 85,
+                "leagueMarket": 86
+              },
+              {
+                "name": "2027 Round 1 (DMV Fantasy)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 80,
+                "leagueMarket": 79.3
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 96,
+                "leagueMarket": 97
+              }
+            ],
+            "scenarioType": "RB Tier-Down & Capital Harvest",
+            "strategicGoal": "Maintain starting RB viability with high-touch starter while adding premium 1st round liquidity",
+            "scoring": {
+              "availability": 23,
+              "opposingGmMotivation": 20,
+              "packageMatch": 17,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 79,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Cam Skattebo (C-AVI 84.1) provides immediate high-volume starting RB production to preserve championship odds, while the 2027 1st pick provides high-value draft capital for in-season flexibility.",
+            "whyOpponentMightAccept": "Corgi Loaf upgrades from Skattebo to elite tier-1 Achane to solidify their championship push, using stored draft capital to make a marquee splash.",
+            "championshipImpact": "Keeps starting RB room strong while gaining trade ammo for mid-season moves.",
+            "dynastyImpact": "Replaces 24-year-old RB with 24-year-old starter plus a premium 2027 1st pick.",
+            "rosterImpact": "Skattebo steps directly into Achane's starting RB slot alongside Bijan Robinson.",
+            "publicMarketContext": "Skattebo projects as a heavy volume workhorse back with immediate high-floor redraft utility.",
+            "risks": [
+              "Skattebo has slightly lower game-breaking ceiling than Achane's explosive efficiency"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Achane for Skattebo and the 2027 1st (DMV), emphasizing the elite upgrade Achane gives Corgi Loaf's starting lineup.",
+              "acceptableConcession": "Add a late future pick if required to close.",
+              "walkAwayPoint": "Walk away if Corgi Loaf refuses to include the 2027 1st pick."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "David Montgomery 2026 fantasy news",
+          "Devon Achane 2026 fantasy news",
+          "Tyler Warren news 2026 NFL fantasy",
+          "Jaxon Smith Njigba 2026 fantasy outlook",
+          "WanDale Robinson 2026 fantasy outlook news"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPfvyLd3tPA5Ijknmyf3dlbkxwXdjy7MT-zgD3FQLG-BQt3uvG77A019kN_mxXf_SJCWANrbg8QNK-82sU3WsuKrPq8q5raqiz7DXjiMSR1ZndiXaKNFwSI8CvU4p1RGWgShFBteOB4rGOedc5yFJqTgu43RQAUTxW6xAdh4CUI_nn1LQfcgeyiblo",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlc6UhUg5GPY8PP7oGPtizZEPoBezxvVEavRFFoTe9Ozh2_JWGrvmqga6Ws7Vdf88z9mnsChsnP30k5mCsscXNV60vYhKBOW5dl-5oZKnh5yfyLVrv25MtUEScMzF5gRFzuoG6aiHB4XQnjPxY6Cw0maKjaw1zHp-0_02OAT9YmPKWa2A=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGINKfVA6OHxubso1yL80iOTvDVssd4VIhOb42EzPZ_7AxxAOOVdbdwZR4sPKzhK5XoqqeQXLDEucfq5wS39gIkPNEhbM8JQoyhaoTqnrttHxLcWXArd-ZORVaUv2tYQKo=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMKYVo8edjzwriucOWOMnOk_Bpy9pQjN_Go4PLDi-hW2C6rxkSSKRiZVfPC1BEWWFuT9YZcYVRXzD1PaHADYQecUbmgqRRCs2XBbHxaNUMPvractlgquRB2rPcjJ2kPzPQ0mfCzvsPXf2SjLNwdys9oAjX8wgq-wBiRT2vnN0RDpCDZ_pW_2H9c-BxJu1rwdClmYi4DJ49bg2JqtLYxaKtBtD7zLBq",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx0vcESzJEtt-5qIg6zwxizKtS4fXwELa-LeAuQyLBIxmmpCYaJzQbb2OmN0pQ475RIg-YSKL-JWqNR0oX8YmFtBnxoDissk-YZOrvUuv18TQXUd1ABK1SqjmAaELYfw7S0M1N6c6_lYFoUyiGCkpgw2nBAlcDLoASAkmX-ge7LLrBNgSlUDgfbftjjOFV",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_qkx8BLvv1k85u1iWdyEVJbt3AmNpfjUxY5W7wqjwczLxDLWezl_XDHD_bVoPB3RP1xOhDIcXBfMMb8HrkucdE8Ih06Y4Pw7L71pcmCejX_7TETOo5PyCmL4OLGwqk1DIZP2dOysp9iAYIu06sEK2TexDBzw5yOuaKh069n-EcwYbAcY6nQXYYtz-OzJievxvqgxfeMJtTjfdlgw=",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAP4pD_AMiVSAKP0Fby15rVoK1j_F1KLuZqHPhRLbDpIAEaCkSubZ2YpSxQ4m0U6yauKcHPEqehR_lLF5F1kDFqBjsHEcvQ1sPpFyPPB_SNpB0EN2AyiGKNTQJDPosDJgzm2ews4PD9oEI0scIkpIVGrJ444_A3lBXR_1fyxKXWRI7okLv6q5lOYyF5h7n3OosobutpDkNFyxTwp2uU-PYE2zG5h4=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDphQ1_xprNBySnfHCxA_aR89ysOgQ-oOfhslEYUblNZ5vyO6X6ErMVbYO3bAnER8HW0n7_nD1M-Sch1xINJKt_LtVFhjJ_NS8283tt70DzSFLvOkvKXQdbXUtTeYtQRDtYW6XZ_X0-HPXazO5fi8DtIcEkyxfsu_6f5B8Kk0EAiW_ClII_so6PeQuZ6qtAQ=",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7dOheOi-bm6hzpdAHh9WUjDC7r2O437p6-9wn-6tJzZ-cXHAc7R4EsfoSnXPv35TS5gYiIktar4RJQ7z9skWhNHx7X68WIeHVJzLg90pSXdj-X2bFBsa8qXcQ4mjuR-owCKg6BWjOs6e83hGY5k3axfgdISZj_cPB-ZKZ_fI-",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENPMCpEZLpSNmfPWHE1_Zqt4uvaceIujVWBV5y2XN-z5sRQ96IL30xaL0_OxzrpCQcrsMdgiINfRcoL7UbUyXR5UumU5Jsh2ReIZ9VnZkd3I3Xl-M7Bk4K5OJufB7domR1Ak0vq2KoNQNC0amz",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBAaemEXddnmm_Tg9x9jOCp0cupg6VJIrI8lndnZjlzWtxx8IL5N0U-7_LYZb38P_bWkj2nG0mNADQN0Rj8UX26lH19zkknQg3vTzZxEmxihtzAlG1zd01ENhaDXReWRzF71bRrM1C3sE6eOCrjVTrp9jt3xq-KAcJa0lF3YA=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIvN0S_cpYIf-bDFtVQjOKyWwmxaCZQBO82Hedbg7FBCF4f05tkf-Ee6YNzD3rhsaPWOJ59J1Xu3gKjhl8cvcWWhIoYWnmi0KRnuyHm44PVZBxoYs2cGYLFBft-YhAELXd72F3r2dOCaJw5BkQINpu4hdzLnJh7mml84nKPGwpuzeE0Tg7l1KIcQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrM8G528sBSqV-cfbqvoNssQV9HSthaQ3phoH-4UFdRhT9ot4kjiWJeb_0U1kLlSAomur_D9HSWsIFkiVflepnwo6gwcszazOzDYaN-uCBDmDNI4jXUkFOkc4a7hBElVTA0fI-enYzs_fEYflKQhtLsYv0dBoS5dOGzy9paZSrQBipcg0zj1weM76GXa0dGdSuO4WmB_uDNw==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJsta5PrJ_mURoGfyTdd1z4vWD9Gv5q9BzavXyc6nd72ttNCft6iyI657umuGm17TFUyljckmDUzBdNZrM7Y94PoklBq2332asBX2N92BdciQSY6_hvvnghfneosfxyu-j6_x8_z0P32p55nR4sqkgPXDG5Rb-cbtS-eUD_G-XAfoDrYc=",
+            "title": "establishtherun.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJpq8igo1syQ-9rqtF3amupqM3ucj_lztsOjKV8h88rfdSeUFRx1YVvyh46Q1Obss8Oce9gS5V_Jc9-HNXiQKA_tFZ4dNQ-iAgkMK-7nodMxgirv8TDWYGCLZxuta9k4plLt9oAPbw2BL13iy5aghoD_4Yaogb2Z1bIsrRHNSKoWOCRQ==",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Tyler Warren",
+          "Jaxon Smith-Njigba",
+          "De'Von Achane",
+          "David Montgomery",
+          "Wan'Dale Robinson"
+        ],
+        "aviCoreCommitSha": "d4e17274ea277bcd6a15c5e2e2198b7563de9d69",
+        "aviCoreCommittedAt": "2026-08-15T18:14:40Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 419836,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "msuqb1iz-05ba3fb2",
     "createdAt": 1786819752531,
     "expiresAt": 1787251752531,
