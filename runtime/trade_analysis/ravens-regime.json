@@ -1,5 +1,301 @@
 [
   {
+    "id": "msv0thll-5299dc1f",
+    "createdAt": 1786837353939,
+    "expiresAt": 1787269353939,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Ravens Regime ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "KC Concepcion",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Davante Adams",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "I am high on KC concepcion and at the same time i believe i can make a playoff push but not win the league so I feel this trade helps both ways."
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Ravens Regime's stated goal is to 'Increase Championship Odds' (Playoff Push), while Mile High Royal Lions is an Elite Contender ('Win Championship'). Accounting for the user's personal optimism on rookie KC Concepcion and a realistic self-assessment of being a playoff team rather than a true title favorite, trading 33-year-old starter Davante Adams (80.8 C-AVI) for rookie KC Concepcion (58.2 C-AVI) represents a pivot toward long-term value and youth. While it introduces a near-term 22.6 C-AVI starting lineup deficit that conflicts with an absolute 'win now' mandate, the user's personal context reframes the team's window as a flexible retool/playoff push where acquiring an ascending 21-year-old asset outweighs strict short-term scoring loss.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Davante Adams",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 33,
+              "cavi": 80.8,
+              "davi": 86.1,
+              "publicMarket": 82,
+              "leagueMarket": 81
+            }
+          ],
+          "sideB": [
+            {
+              "name": "KC Concepcion",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 21,
+              "cavi": 58.2,
+              "davi": 83.7,
+              "publicMarket": 75,
+              "leagueMarket": 76
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C+",
+            "otherGrade": "A",
+            "userShare": 40,
+            "otherShare": 60,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "Incorporating the manager's high personal valuation of KC Concepcion and a pragmatic playoff-bound (rather than championship-or-bust) outlook softens the blow of the initial D grade, though Mile High Royal Lions still wins the immediate value exchange."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -20,
+              "summary": "Moderate short-term dip in lineup scoring offset by long-term upside in personal favorite KC Concepcion."
+            },
+            "championshipOutlook": {
+              "score": -35,
+              "summary": "Accepts a lower starting C-AVI sum to transition into a flexible playoff contender stance."
+            },
+            "dynastyOutlook": {
+              "score": 45,
+              "summary": "Successfully pivots off a 33-year-old veteran to acquire a 21-year-old high-upside rookie."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "WR2 slot softens with Davante Adams departing, but aligns with the user's realistic playoff-bound roster construction."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Slight reduction in veteran floor."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Injects youth and high market interest into Ravens Regime's asset base."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 45,
+              "summary": "Significant gain in starting lineup firepower for an Elite Contender."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Adds Davante Adams (80.8 C-AVI) into FLEX, raising starting lineup C-AVI sum from 665.7 to 675.2."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Surrenders a 21-year-old rookie WR for a 33-year-old veteran."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Upgrades FLEX2 from Courtland Sutton (71.3 C-AVI) to Davante Adams (80.8 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Deepens championship-caliber wide receiver group with a high-floor veteran."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Consolidates bench upside into immediate starting production."
+            }
+          },
+          "explanation": "Reflecting the user's personal context, the trade is no longer viewed as a direct contradiction to an absolute title-or-bust mandate. Instead, recognizing that the team is built for a playoff push rather than a guaranteed title allows the manager's high regard for KC Concepcion to justify the short-term C-AVI drop."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Ravens Regime loses 22.6 C-AVI points from its starting lineup, dropping from 653.6 to 631.0 C-AVI sum and losing 58.6 projected PPR points over the season.",
+          "sideADynastyImpact": "Gains a 21-year-old rookie WR (83.7 D-AVI) while moving off a 33-year-old veteran (86.1 D-AVI).",
+          "sideARosterImpact": "Forced to elevate Carnell Tate or Jordyn Tyson to starting WR2 while KC Concepcion enters as a volatile FLEX option.",
+          "sideBChampionshipImpact": "Mile High Royal Lions boosts starting lineup C-AVI sum from 665.7 to 675.2 (+9.5 C-AVI), cementing its Elite Contender status.",
+          "sideBDynastyImpact": "Exchanges long-term upside in Concepcion for immediate championship production.",
+          "sideBRosterImpact": "Pushes Courtland Sutton to bench depth while inserting Davante Adams into the starting FLEX slot.",
+          "valueAssessment": "Davante Adams holds higher C-AVI (80.8 vs 58.2) and higher D-AVI (86.1 vs 83.7) in the current AVI snapshot. A straight asset swap heavily favors Mile High Royal Lions."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views KC Concepcion as an intriguing 2026 1st-round NFL draft pick (No. 24 overall to CLE) with high YAC upside, while Davante Adams remains a high-volume elite veteran WR.",
+          "aviVsMarket": "Public market values Concepcion as an ascending dynasty retool asset, whereas AVI heavily weights Davante Adams's immediate 2026 championship projection (222.3 PPR pts vs 163.7 PPR pts).",
+          "relevantContext": [
+            "KC Concepcion was selected 24th overall by Cleveland in the 2026 NFL Draft after winning the Paul Hornung Award.",
+            "Davante Adams continues to command a high target share in a competitive passing offense with 222.3 projected PPR points.",
+            "Trading a 220+ point veteran for a rookie receiver in a developing offense degrades current-season win probability."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions (Win Championship) would eagerly accept Davante Adams to bolster their starting lineup.",
+          "packageFit": "Fits a pragmatic playoff contender willing to trade peak win-now production for personal favorite youth upside.",
+          "lineupReplacement": "Accepts a slight downgrade in weekly starting lineup scoring in exchange for roster rejuvenation.",
+          "competitiveWindowFit": "Aligns with a realistic playoff-contention window rather than an uncompromised championship-or-bust posture.",
+          "positionalScarcity": "In a 16-team PPR league, top-20 WR production is scarce, making the willingness to move Adams a bold personalization choice."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 25,
+            "packageMatch": 15,
+            "lineupReplacement": 10,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 85,
+          "classification": "Highly Realistic",
+          "explanation": "Because Mile High Royal Lions is an elite contender looking to win the championship, they will readily accept Davante Adams for KC Concepcion. With the user's personal context overriding the strict objective C-AVI deficit, the deal moves from a stretch to highly realistic."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "Factoring in your personal high valuation of KC Concepcion and your pragmatic assessment that Ravens Regime is built for a playoff push rather than a guaranteed title, this deal successfully satisfies your personal affinity and youth acquisition goals. While you take a short-term C-AVI hit, the trade is readily accepted by the opposing contender.",
+          "confidence": "Medium"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Davante Adams",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 33,
+              "cavi": 80.8,
+              "davi": 86.1,
+              "publicMarket": 82,
+              "leagueMarket": 81
+            }
+          ],
+          "receive": [
+            {
+              "name": "KC Concepcion",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 21,
+              "cavi": 58.2,
+              "davi": 83.7,
+              "publicMarket": 75,
+              "leagueMarket": 76
+            }
+          ],
+          "whyUserShouldDoIt": "You get your personal target in KC Concepcion, transitioning your roster toward youth while maintaining enough competitiveness to make your desired playoff push.",
+          "whyOpponentMightAccept": "Mile High Royal Lions is an elite contender whose championship goals are directly accelerated by adding Davante Adams's elite veteran production."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered the user's high personal opinion on KC Concepcion and their realistic assessment that the team is built for a playoff push rather than a pure league title. This personal context reframed the trade from a strict 'win-now conflict' to an acceptable retooling move that satisfies personal player affinity and roster flexibility."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "KC Concepcion fantasy football",
+          "KC Concepcion NFL 2026",
+          "KC Concepcion college stats draft team"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETKlgsHANB4xxKxouNHzAIbmHHJQ__uAteMBqeMdDeonBDf5c_EbVkhxVwDuQ9QAP81UFhMh6zeQ_ZD8G0jFenHDlvvXRdkr8bOcVgkDV_QKdhLumq7ikZxc5-nn2X6YT3BNKlHTCNJHSPCVPO3rXYEqfWPRkYKA==",
+            "title": "clevelandbrowns.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFS9ALALv-90XaP6J81TiUOo6O-chHm53POcH-vpxYLykqvlQy5X-W1UyNts52p_Kglx_xKFNCX9c-3qBoJRoEqtUJzrsRcxjiEluWa386J-SIFHyLRKf3tjHb5UBCeNTqMDG_VwMwpRRiHJD4E3fh91oCpTIWUeFUAxOCVf5WnZsFojv31pqnad9kth4R-GYla_rLZy6-8umoeTb3ZXc=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdT-Bm4W_0jOqY2kEMw5ZT419zGJ_S1AzC5Keh42zYet9o9_MRJm7fg7Eh9BJV17PePnUs__KO-BFzWZUW1d6zGNXb2z6NsZgH4qbYWGxZ-K7TfGFusAUZ5fB-i-LzISrr-y3l8aDXH84=",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL6_Y8ExGa9xfqaJ9tJyFkg_SqnPjtQcErNTHgHRXw2YtxqGQ7e4GNlDItoZQLbyPeyJUjJT8hMwp_9-xy87Wjt7UDi72DaL2KZzUwskgPZLebQM7eBv7_0hgFtnrpfVyc_PZQaNewpQJKJn8RHXVFig==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBrVRI2GP9t2CVpv-hBzSmPRAl5h3SN1zlf3w0WvoY6WZXBpWx3l28o7FZ_HMYCugiTW2EEmTkmH6k887-TbBDH6KIwKj1hcU1OxjK1joAyVkWT_c2IQb4Lr8yAW6g8fJAAh9aEfd1IPeidXz6glwnhycGGQ4RZmjAK8n5f_-l8MYIfFGtX0pzFobLtacyAHGhAAhT1EZ7WReeD-5_tB2SaRpIKEGd9GRgoVpfWGT1TCQ5zmnNtOb0wQj3OaVIr8QaAHlLDU_M6Cg=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRLQKSrZfP3aWzz4-sC-g4an19yYgjRUOnpeYFokScHbHywEZrsWUDDlUX9kJv1F8EidfLvGRymbX1tn7eS5FUqB0Tz4ezMrg89t1ivslHR9n0P-miqG7hknL-mEy0dgW9VnT_xebLmQ_JyfqokVLdNaWapg==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyRHq3To5RP-wM9Hf80ji6oYBLr24QaWhexZm7rgRqVCfjEakoH9q24RV7iY8YX_UYW2O0qwhpVdYR7eWDiRdFETCbgWBhsiq9xJGVdrFOpQNQ59vow-zh8K3QZ4vrl0DVuXR-ln30eBJTkj_NjmxH6K3n",
+            "title": "theringer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjrpFKF8MztvQTGp_Wh-vgW4NCUJj7VcLdQ8lpogNjO2j9Ij7B3w0InSvbVp_3caU1AnQxnYUYYZzUmyYQSm1QF0pCFHitvrtVtiQsTnAn8teeKD86CF5BmMHa4jJ9S4_7onYPKuQFZSWoZEQnm2Zdxdx7RL-G92uBYlpUS0Zb048v4K46GqcnZ_3C96dASz09uBg=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDrzPTpnE5_CbngTSXbqxVD_VOYTMb5GMsRT8wxpUdv5ddhyzeR3w0jq8TCob9_j_m50agdwhy0GUygvKYIPz3hj6liKeyIi4TKTj8e0dZ81sbIOJf4yRXJGg3znydh_shg_vTiLt2F9p6FKLfTiKO08-81SbA_CnqI3hvyfRXT_PtZeFSJtkm8tMNAwCShEZ84FRBPqFn",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "5f607044debaf6dd33d9b312de0f90c7a92badef",
+        "aviCoreCommittedAt": "2026-08-15T22:44:22Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 67570,
+        "groundedMarketChars": 2134,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "msv0oct8-f31b127e"
+      }
+    }
+  },
+  {
     "id": "msv0oct8-f31b127e",
     "createdAt": 1786837166700,
     "expiresAt": 1787269166700,
