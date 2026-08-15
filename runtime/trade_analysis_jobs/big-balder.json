@@ -1,5 +1,33 @@
 [
   {
+    "id": "msv15ftf-3b1fd87a",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "DMV Fantasy",
+      "targetAssets": [
+        {
+          "name": "Jayden Daniels",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jaxson Dart",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786837900372,
+    "updatedAt": 1786837900372,
+    "expiresAt": 1787269900372,
+    "status": "queued"
+  },
+  {
     "id": "msv0rjpi-4e7885d6",
     "phase": "final",
     "mode": "analyze_trade",
