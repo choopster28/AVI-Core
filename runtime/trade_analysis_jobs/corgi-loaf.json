@@ -33,9 +33,383 @@
       }
     },
     "createdAt": 1786759501316,
-    "updatedAt": 1786759502396,
+    "updatedAt": 1786759576396,
     "expiresAt": 1787191501316,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": false,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": false,
+          "missingInformation": [
+            "Asset Ownership Failure: Aaron Jones is currently rostered by All Hail King Jesus (Roster ID 8), not Corgi Loaf Baking Co. (Roster ID 11). Corgi Loaf Baking Co. cannot trade an asset it does not own."
+          ]
+        },
+        "executiveSummary": "The proposed trade fails on both factual ownership and competitive strategy. Factually, Corgi Loaf Baking Co. does not own Aaron Jones (he is rostered by All Hail King Jesus), making the offer impossible to execute. Strategically, for Corgi Loaf Baking Co. (Playoff Push / Win Championship), sending away Green Bay's WR1 Christian Watson (C-AVI 72.0, D-AVI 87.1, age 27) for David Montgomery (C-AVI 70.4, age 29) and recovering wideout Tank Dell (C-AVI 46.3) downgrades Corgi's starting FLEX position and degrades long-term dynasty value. For Gringo's Goblins (Retooling), trading away David Montgomery creates an unreplaced mandatory starter hole at RB2. The trade should be DECLINED in its submitted form.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 75,
+              "leagueMarket": 74
+            },
+            {
+              "name": "Aaron Jones",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 31,
+              "cavi": null,
+              "davi": null,
+              "publicMarket": 60,
+              "leagueMarket": 58
+            }
+          ],
+          "sideB": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Gringo’s Goblins",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 84.7,
+              "publicMarket": 72,
+              "leagueMarket": 71
+            },
+            {
+              "name": "Tank Dell",
+              "assetType": "player",
+              "owner": "Gringo’s Goblins",
+              "position": "WR",
+              "age": 26,
+              "cavi": 46.3,
+              "davi": 69,
+              "publicMarket": 55,
+              "leagueMarket": 52
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "F",
+            "otherGrade": "F",
+            "userShare": 35,
+            "otherShare": 65,
+            "advantageFranchise": "Gringo's Goblins",
+            "summary": "The trade is invalid because Aaron Jones is not owned by Corgi Loaf Baking Co. On a strategic level, giving up Green Bay's primary target Christian Watson (age 27, D-AVI 87.1) for David Montgomery (age 29, C-AVI 70.4) and Tank Dell (recovering from knee surgery, C-AVI 46.3) downgrades Corgi's FLEX2 starter and harms dynasty longevity."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Revising the proposal to send Wan'Dale Robinson (C-AVI 65.7) and Tyrone Tracy (C-AVI 50.5) for David Montgomery preserves Corgi's starting lineup (keeping Christian Watson in FLEX), provides Gringo's Goblins with a viable starting RB replacement and young WR depth, and uses validly rostered assets."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Replaces Christian Watson (72.0 C-AVI) in starting FLEX with David Montgomery (70.4 C-AVI), while Tank Dell (46.3 C-AVI) remains a bench piece behind Wan'Dale Robinson."
+            },
+            "dynastyOutlook": {
+              "score": -35,
+              "summary": "Surrenders 27-year-old WR1 Christian Watson (87.1 D-AVI) for 29-year-old Montgomery (84.7 D-AVI) and post-injury Dell (69.0 D-AVI)."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Starting lineup C-AVI decreases across the 8 mandatory starting slots."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds RB depth, but hurts starting WR/FLEX floor."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Ties up asset value in an aging RB and a recovering wide receiver."
+            },
+            "overall": {
+              "score": -30,
+              "summary": "Invalid asset inclusion and net loss of starting FLEX quality and dynasty longevity."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Loses starting RB2 David Montgomery (70.4 C-AVI) leaving a weak replacement option at mandatory RB2."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Would gain Christian Watson's elite D-AVI (87.1), but deal cannot execute as structured."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Creates an immediate starting-lineup void at RB2."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Depletes running back depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Gains wide receiver currency."
+            },
+            "overall": {
+              "score": 30,
+              "summary": "Creates a major starting hole at RB2 while receiving an unexecutable trade offer."
+            }
+          },
+          "explanation": "The submitted offer is factually invalid because Aaron Jones is rostered by All Hail King Jesus. Strategically, Corgi Loaf sacrifices top starting FLEX talent and dynasty upside for redundant RB depth and a recovering receiver."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf's best 8-player starting lineup C-AVI declines as Christian Watson (72.0 C-AVI) is removed from FLEX2 and replaced by David Montgomery (70.4 C-AVI). Tank Dell (46.3 C-AVI) does not enter Corgi's starting lineup.",
+          "sideADynastyImpact": "Negative. Giving up Christian Watson (age 27, D-AVI 87.1, $110.5M contract extension) for David Montgomery (age 29, D-AVI 84.7) and Tank Dell (age 26, D-AVI 69.0) degrades long-term asset value.",
+          "sideARosterImpact": "Leaves Corgi weaker at WR/FLEX while adding unnecessary RB depth behind Cam Skattebo and D'Andre Swift.",
+          "sideBChampionshipImpact": "Gringo's Goblins surrenders starting RB2 David Montgomery (70.4 C-AVI), creating a severe hole at mandatory RB2.",
+          "sideBDynastyImpact": "Gringo's Goblins receives Christian Watson (87.1 D-AVI), which fits their Retool objective, but the trade is invalid.",
+          "sideBRosterImpact": "Creates an immediate starting RB deficit for Gringo's Goblins.",
+          "valueAssessment": "The transaction fails on asset ownership. On value, Watson's prime WR1 standing in Green Bay outweighs the incoming package for a championship contender."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Christian Watson's market value has surged following his 4-year $110.5M contract extension with Green Bay, cementing his status as Jordan Love's alpha WR1. David Montgomery moved to Houston in March 2026 to take over primary early-down/goal-line duties. Tank Dell avoided PUP for 2026 camp after a severe December 2024 knee injury, but his Week 1 role and workload remain uncertain behind Nico Collins.",
+          "aviVsMarket": "Public market values Watson as a rising dynasty WR2 with high WR1 weekly ceiling. Tank Dell's market value is suppressed by health uncertainty. Montgomery is valued as a solid win-now RB2.",
+          "relevantContext": [
+            "Christian Watson signed a 4-year $110.5M contract extension ($31M signing bonus) in June 2026, solidifying his role as Green Bay's WR1 after Romeo Doubs departed and Dontayvion Wicks was traded.",
+            "Aaron Jones is 31 years old on Minnesota with a restructured contract and is rostered by All Hail King Jesus in Autobots.",
+            "David Montgomery transferred to Houston in March 2026 to serve as the primary early-down back.",
+            "Tank Dell avoided PUP for 2026 training camp following a multi-ligament knee injury in late 2024, but his exact Week 1 usage remains day-to-day behind Nico Collins."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Gringo's Goblins is in Retool mode. While acquiring Christian Watson fits a retooling window, receiving an unowned player (Aaron Jones) and losing starting RB2 David Montgomery without an RB replacement makes this offer non-viable.",
+          "packageFit": "Flawed. Includes an unowned asset and does not resolve Gringo's running back need.",
+          "lineupReplacement": "Fails for Gringo's Goblins. Trading David Montgomery leaves Jonathon Brooks (55.2 C-AVI) or Alvin Kamara (49.5 C-AVI) as a weak RB2 starter.",
+          "competitiveWindowFit": "Corgi Loaf is in a championship window and should not trade away a starting WR1 in his prime for an aging RB and recovering WR.",
+          "positionalScarcity": "In a 16-team league, usable starting RBs like Montgomery are valuable, but prime WR1s like Watson with 4-year contract security are significantly scarcer."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 0,
+            "lineupReplacement": 0,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 25,
+          "classification": "Impossible",
+          "explanation": "The offer is invalid because Aaron Jones is not owned by Corgi Loaf Baking Co. Furthermore, Gringo's Goblins cannot accept a trade that strips their starting RB2 without providing a viable RB replacement."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "This trade MUST BE DECLINED for two critical reasons. First, Corgi Loaf Baking Co. does not own Aaron Jones (he is rostered by All Hail King Jesus), making the transaction legally impossible. Second, strategically, trading Christian Watson (Green Bay's clear WR1, C-AVI 72.0, D-AVI 87.1, age 27) for David Montgomery (C-AVI 70.4, age 29) and Tank Dell (C-AVI 46.3, recovering from major knee surgery) weakens Corgi Loaf's starting FLEX production and destroys long-term dynasty value for a championship contender.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.7,
+              "davi": 83.6,
+              "publicMarket": 65,
+              "leagueMarket": 64
+            },
+            {
+              "name": "Tyrone Tracy",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 26,
+              "cavi": 50.5,
+              "davi": 75.1,
+              "publicMarket": 55,
+              "leagueMarket": 52
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Gringo’s Goblins",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 84.7,
+              "publicMarket": 72,
+              "leagueMarket": 71
+            }
+          ],
+          "whyUserShouldDoIt": "Acquires David Montgomery to solidify RB depth and FLEX options without sacrificing Green Bay's primary target Christian Watson from the starting lineup.",
+          "whyOpponentMightAccept": "Provides Gringo's Goblins with an immediate starting RB replacement in Tyrone Tracy plus a young, high-floor receiver in Wan'Dale Robinson, perfectly aligning with their Retool goal."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "2027 Round 1 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Gringo’s Goblins",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 84.7,
+              "publicMarket": 72,
+              "leagueMarket": 71
+            }
+          ],
+          "rationale": "A direct pick-for-player offer sending a premium 2027 1st round pick (79.3 AVI) for 29-year-old David Montgomery gives a retooling Gringo's Goblins elite draft liquidity while Corgi retains all starting lineup players."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tank Dell injury status 2026 fantasy",
+          "David Montgomery fantasy outlook 2026",
+          "Christian Watson news 2026 fantasy football",
+          "Aaron Jones NFL team 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2cUKsP7c68QwSHNq5OpMQeYVgFu-2RYa0b-xH7DRjjaOgNQ-5s3VsXVTipOB7KkSICT03IlTgnm4OVdXOlXd6R4-n_73K51u_AMfzbiti71VnodsvBisTc-8R_dWUF2WKLtAL5noQyki_ZKeLf9hPI4EgFe-4ooR93aL0tlP2Fs--ZtTeKfENuqjrYph4t7HtbZdOXbjGWL43hkp46w==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGurbu9kLOUTNxt2CXEe23clAchV3r_pYnGcTKXyc1SH8RpVNrPtYpJupwYB1tj1S4GpBc7Wm5C_172J7puseWWL9h1dmjs4qnOmkqicYCTiAX7dRhPmGaCdhofzJMfZ_8Jy4GKliqjrs_fMQfH1a5Tx-2-uGOlkh6NXtflMYTK",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpnnEV6NE2fy-_owaSGnHfAEqMeVRMNxBjnA0gdSvhxASBGhc5tOzr-a0hlkvzsMr9zRSvmkM0TxX_tkcEq5MApzKax62wQyZZUyjSE3p3i7lVWSDHmA7LRkBa-kf6s8IzwtRrlDWmY-bJZ0-ONmCdFC0Vv_SsdB_2CGBwompdQY9jrXeCeKzfBfwmXgZfA1Xc2zohLgYE3rD2TezmKckBD6va",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKDmbgQwILWijZeOJ8lPV_PRyAZderyizQ-8C1M18twLqSKoQF14Srrf5YagF1trq7h4l7U434LOyNWBhEkB8vsGhiapga5xNdQVSU1e1JGSyYi7SyeU_Dt2DvdxcoTSbLHaWbOMa7hPZLiMThC5BgrDnzEtYOUdOv",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm3gxDKGjGRofSEmkCdIf8oIy7hTlEHRJmE2A0hrE8A-NqmpUIdgrOwjvl3lgBaSD51WW_C3U-LkU3IfygY0ImIst4eGCBAk3b_XFXy-Reouwqi06R1wT9LgG43SFjPRJXJUVX2NKHlOr-3Sk6RszkndnQmBmb4OO6Q1sWovqfHo-SdII=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKGmsn6erRhr6dBtKaIKBhUn9dSYFeeSf6PbjqSQIiQjEy28_ZddT1U9FdhkNTysGIeNVUO5R88WA0KoHA-NOMqBt9Q0TWnYR3JjMfCjdlcX_P85mDjY-nu0t34Oz6iFl84X6bIv4LhccJtLNIPBjYmWETo2p3e1LeR5rQ35jkJCfPOEcWMAMJdUO0el9cSjO51Xo=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaED0XIUZhZ_Vq4Q2mCXdPGgO32msePXXQlCC-PQUvWXTghh-pWA7qPoBb_f-rja9U08SQSSQ02TwS7_BrU5mBbjBt0dmKmT8jo8VQvEgQApi6Kkin9eiIyUKI-YtF",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH73FupLxp47ewtYHTotkjX5J2m2R1nyTA_NoVOiO5lWSjsZ4Dt_cKRlDFtHHcgSuVY4jBrw2Mh4ts_hVxH1CjI1Igu8Hc8n7qQJO8pt-dfEaTbXMLAukaCLmjGdZSnSmmlgosNDhmDVdcKcfW-Aw==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6xcO6ppNzNy7nXF7qhtgAfmnoNEwRMiRO86b_J8E0qRaySR1C4-XE24MKiu4LqwwM00_zDjEtwt9P8sLJrMDNoZrPfNGn6xZso1qbNVTJWo_kfJn9-vPYniFUM3l9VMPRe7N25EwKX1HxLLU6j4LdLNixKlUTcowtQusOUo1S-Lw6NyU7F8NFnwwi28fE_Q==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbBHlICMECECYzr0wpWEDJFrWs5DZbmFdMXa2yMjx6_8zLWmxWY4JSIA3h1rBEJuxTHWckZ9TPe7GCSw-99eovaNZQ_GxjkXqEMzv9kaEkxLY2EsWnOwvHYPRb1amIA1sHATxH1iiloufjpYXnKK8pWpKgWakKUUeDxw7m7p7bak11NTBCaDZt8PlrxnnknYPq",
+            "title": "vikings.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3w-2EWiSTy0wJHtqI63Qwo1iKs9eubvAVzTwDz866BoBxaqn6fG0KMZYCVHyDFE9AtDqb6vQ3RsoAMScsUFF-szjfxHSXj5cxtZkbOKd1MJiGuVspS_CBqnbo53PKOiVS8zER2N9e-lHz93kGrHLdfWEWyE9zWTBjJ_uB8g4",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs82AGE7uzc47aa-t3mXE3RZyagNJaFpP-RITcP6Q2Bn92biYl3PdnRD2xDfDC6j-TmkuDaIl9xNTLQdU6qXJiyvxOefGPiySNvrOU41U66nkJbyz8Xo4kBvl7bsm3vUSVfi8Bik-VAoYAZwjFcjmCCaIdvAgKPtaNQ6lKgD2__dWQt1o=",
+            "title": "establishtherun.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhqBoA0RMYb6DvXGAJ6THP5pj9bK3WMWJ2y5cx1rv_kXSInbuYUh2f-hRjKZDbv8hDXp-AorNzwaz4zuuU6rLeLoaLzyM7rQl_VXleE1N8RGZCcYw3heail-A4HcYKPExnZUv7lA-v1xvVt0P1nXLeRiHNRVTp76b4zKTrWEmLisiwkPM=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmgPi-ZWTI_qWlISbTEKIhaIGU81qi90qpZchuhU4fSTba-7WAugy7Q7fUjiM2bre27bNw2mE680_-ebgZJMsYthcavVDbcfL7osHpUQVTDHg3OSTOXZglgF8coraaHkCisvvyV093ViMjXd8PmWm13vlqlPVS_BPg89VhkNvqMfr1cFV7DbTHfW9x_bVsQzJZYLfIBsGgijk=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbTnGnF_4VnlV69PBO_xHMt4X6Hq7dPvQQqDdcKNmvD4JeN2NR17fhuxvpbEfqU1V4NSPcZ96HI0Y1GQEBRvaVk7mlyI2A9t1gjt98VZ_p4UsinkRGzp43KdrnhuJDkGxtsWYclWPqRARLO5DC5C7_zqzM6ZyxqCQJ1UCjVhJvXg==",
+            "title": "gridironexperts.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2eH3D4TJ5kJEm7vtM69dW0zM5w8mcPciUExyzURWs4YG4N3N6eJiCMnCqU7KvD2vmIjOSIu4QgU_k0AE7U-Z2wGm7oJPN2a_PqEpX18rlE8G4AD6myYsZ5XeBmVwTdAxyvSOrRNnCeOc=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVp5y89WvB1std6s1_pEftSHgH1oZEIKjabGdRo9YsoF8UR2TlWZc2noAvS7HYZN4ka1ei5LemBUNkRc39p16xfckWE_QCu2ljAuN_Y3sZbm75g1R_AQBBKFPdffKx_wekFFe7YLpJXbY2epHITqVIWUBOfgJHyCSxHeY6gNBE8wxPPAd73hz1BquFXPQIJ56RPsXTDaRHzibC02tn",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqCIJYOpwVQLcxFI_OKLoXCgIIoFWTs0zic-pOmhdROwgwjB85hF-6vASXLeFsMB7TLazwZncptHqNEMQHdcoz5aLoFKaertRIwFlwH4bFO1GCOGWdvxj-r0taBLaaVQ9KkB_GdbMBJrMT-4JpO7pEqOBJ1EDCd6weEIagNHyLP9IJoewyUTaFpxXxv9B1f8ZGbEZ7_Z3GPYVoEg==",
+            "title": "thefantasyfootballers.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a9937649bcba516b1918efecd934c140f74d552b",
+        "aviCoreCommittedAt": "2026-08-14T23:03:25Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 69001,
+        "groundedMarketChars": 2749,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mstnqfxm-bb9c64e5",
