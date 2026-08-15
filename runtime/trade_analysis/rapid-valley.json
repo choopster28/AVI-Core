@@ -1,5 +1,344 @@
 [
   {
+    "id": "msum4nl0-92308d11",
+    "createdAt": 1786812755472,
+    "expiresAt": 1787244755472,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Rapid Valley Annihilation ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Rebuild",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Quinshon Judkins",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Rapid Valley Annihilation (Rebuild) proposed trading 22-year-old running back Quinshon Judkins to Corgi Loaf Baking Co. (Playoff Push) in exchange for two future first-round draft picks (2027 1st DMV Fantasy and 2028 1st All Hail King Jesus). This transaction is an ideal win-win fit for both franchises. Rapid Valley liquidates a volatile running back asset into two premium draft picks to build a massive multi-year draft war chest (expanding to six first-round picks across 2027–2028), while Corgi Loaf Baking Co. upgrades its RB2 slot from Aaron Jones (56.3 C-AVI) to Judkins (76.2 C-AVI) for an immediate championship run without losing any current starting players.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 84,
+              "leagueMarket": 82
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2027 1st · DMV Fantasy",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79
+            },
+            {
+              "name": "2028 1st · All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "Rapid Valley Annihilation captures immense long-term value by trading a 22-year-old RB coming off a major lower-leg injury for two premium 1st-round picks in a 16-team league. While Rapid Valley takes a immediate starting lineup hit (-27.4 C-AVI net loss in FLEX2 as Omar Cooper enters the starting lineup), accumulating elite draft capital perfectly aligns with a Rebuild mandate. Corgi Loaf Baking Co. gains a +19.9 C-AVI starting RB2 upgrade over 31-year-old Aaron Jones, solidifying their Playoff Push."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "The submitted offer is strongly recommended as-is. Rapid Valley receives maximum market compensation for Quinshon Judkins while Corgi Loaf secures the immediate starting RB2 piece needed for their title push."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Reduces immediate 2026 weekly ceiling by surrendering starting RB1/RB2 Quinshon Judkins."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Drastically increases multi-year franchise trajectory by acquiring two additional 1st-round picks."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Shifts Blake Corum to RB2 and inserts Omar Cooper (48.8 C-AVI) into FLEX2."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Maintains young WR/RB depth stash options on bench while insulating against RB injury risk."
+            },
+            "flexibilityLiquidity": {
+              "score": 85,
+              "summary": "Gains extreme trade liquidity with six total 1st-round picks across the 2027 and 2028 draft classes."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Strong net positive for a rebuilding franchise converting RB production into premium future draft capital."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Significantly boosts 2026 title odds by pairing Judkins with Cam Skattebo."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Trades away long-term capital flexibility, though Judkins remains a 22-year-old cornerstone asset."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "Upgrades RB2 starting slot from 31-year-old Aaron Jones (56.3 C-AVI) to Judkins (76.2 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Pushes Aaron Jones to the bench, providing elite RB depth insurance."
+            },
+            "flexibilityLiquidity": {
+              "score": -50,
+              "summary": "Encumbers future draft capital in 2027 and 2028."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Positive strategic move for a Playoff Push contender filling a critical RB2 weakness."
+            }
+          },
+          "explanation": "This transaction cleanly executes both franchises' organizational goals. Rapid Valley sacrifices temporary weekly points to accumulate high-leverage future liquidity, while Corgi Loaf pays market price in picks to elevate their starting lineup into championship contention."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Rapid Valley surrenders 76.2 C-AVI in starting production. Lineup drops from Judkins at RB1/RB2 to Blake Corum at RB2 (54.4 C-AVI) and Omar Cooper at FLEX2 (48.8 C-AVI), resulting in a net C-AVI decrease of 27.4 points.",
+          "sideADynastyImpact": "Gains two 1st-round picks (each 79.3 Pick AVI), replacing an 89.3 D-AVI running back with +158.6 total draft AVI. In a 16-team league, draft liquidity is heavily amplified.",
+          "sideARosterImpact": "Clears running back baseline for young development backs (Corum, Wright) while shifting roster core focus entirely toward draft assets and young pass catchers.",
+          "sideBChampionshipImpact": "Corgi Loaf boosts starting lineup score by +19.9 C-AVI as Judkins replaces Aaron Jones (56.3 C-AVI) in the RB2 starter slot.",
+          "sideBDynastyImpact": "Acquires a 22-year-old RB centerpiece (89.3 D-AVI) while spending two future 1st-round draft picks.",
+          "sideBRosterImpact": "Establishes an elite starting RB tandem of Cam Skattebo (84.1 C-AVI) and Quinshon Judkins (76.2 C-AVI), while shifting Aaron Jones, Tyrone Tracy, and Dylan Sampson into bench depth roles.",
+          "valueAssessment": "Asset value is well-balanced. Two future 1st-round picks in a 16-team league represent proper market return for a young 2nd-round NFL draft pick RB with high volume potential."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Quinshon Judkins as a high-volume RB2 with RB1 upside in Todd Monken's heavy run scheme in Cleveland. However, lingering concerns over efficiency and recovery from his 2025 fibula/ankle injury make cashing out for two 1st-round picks very attractive in dynasty formats.",
+          "aviVsMarket": "AVI rates Judkins slightly higher in long-term dynasty value (89.3 D-AVI) than public consensus due to his age (22) and draft capital, but strongly validates taking two 1st-round picks for a rebuilder.",
+          "relevantContext": [
+            "Judkins cleared full-go for Cleveland training camp following Week 16 fibula fracture / dislocated ankle recovery.",
+            "Cleveland hired Todd Monken as head coach, bringing a high-volume run offense.",
+            "Teammate Dylan Sampson retains third-down/receiving work, limiting Judkins' full-PPR ceiling.",
+            "Browns invested heavily in offensive line upgrades (Elgton Jenkins, Zion Johnson, Spencer Fano)."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is actively pursuing a championship (Playoff Push status) and needs a reliable starting RB2 upgrade over aging Aaron Jones (31) and secondary backs (Tracy, Sampson).",
+          "packageFit": "Corgi Loaf has a history of aggressive trading (22 total trades) and currently holds extra draft capital. Using picks to acquire an immediate starting RB fits their mandate.",
+          "lineupReplacement": "Corgi Loaf is receiving a starter and surrendering only draft picks, so no starting lineup hole is created on their roster.",
+          "competitiveWindowFit": "Judkins is 22 years old, perfectly aligning with Corgi Loaf's current window alongside Jaxon Smith-Njigba, Malik Nabers, Cam Skattebo, and Tyler Warren.",
+          "positionalScarcity": "Starting running backs with guaranteed workload are exceptionally scarce in a 16-team full PPR league, commanding a two-1st premium."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 98,
+          "classification": "Highly Realistic",
+          "explanation": "Corgi Loaf Baking Co. receives a major starting lineup boost (+19.9 C-AVI) without losing any current starting players. Giving up two mid-range 1st-round picks is a standard price for a contending manager seeking an elite young RB in a 16-team league."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "As a rebuilding team, Rapid Valley Annihilation should execute this trade immediately. Turning a 22-year-old RB coming off a major leg fracture into two premium future 1st-round picks (2027 1st DMV Fantasy, 2028 1st All Hail King Jesus) is an optimal rebuild move. Rapid Valley expands its capital base to six 1st-round picks over the next two draft cycles while eliminating positional longevity risk.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 84,
+              "leagueMarket": 82
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 1st · DMV Fantasy",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79
+            },
+            {
+              "name": "2028 1st · All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79
+            }
+          ],
+          "whyUserShouldDoIt": "It maximizes asset liquidity for a rebuilding team by securing two 1st-round picks for a single running back, eliminating age-out and injury risks.",
+          "whyOpponentMightAccept": "It instantly fixes Corgi Loaf's RB2 weakness, adding a 22-year-old starter (+19.9 C-AVI) to pair with Cam Skattebo for a title push."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Quinshon Judkins draft news fantasy dynasty 2026",
+          "Quinshon Judkins NFL team 2026",
+          "Quinshon Judkins news"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh5r_D-eSZsjsBN3PV23Hrfumk5LGH7nJ8BTt5jLzMZyDixRp7GIBXGyNKwxDoQSqz1f37f8iFIj8F8GHS21YjL3VMenZVrVWOHETLFFyL18yY9IKMxC7ifENHApVfo0EmKHsGivv--aJEoiYhQsAwvKviNa-XpXlh0PpbRqKQGhNT8Ko2KfaiY2Bift7Gf4Gp3iqmfQ==",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECBuzup4R5bdjY7QfcBsDUFYUFTh4J7CnjZNn_Ve3BTpjWSW_h-RUNsyxr_o-sG6TmkRrYxD_PqwL0k6p8iitrlcbo_oP6kMNPml_deBBO6lKSC1GOPn5wI0AuzNJ17JA=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwE7_eIgCCk71y2PHWwB9F0pGKSDHlC4FnSqOSz4bxAQe-n8BnXMV7R0HyMIWdG6ivxMAMGlfvSypP8CJv_IizdCKbO0ioDJ7PIx3UaQImUnxrCy91KgkpcVpSVQ9QI-Xyig==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi6thyxFQp50gthEoDBDjxq__lMXIlgEZe9-D7G1XB7Dv2q22n8E45_OYkETT6py0E1FG2uauu_uCOdz1qtjhnom-QjRcaU9cRi4OrFQNMPkoA8d2Q9JgZ8DWrhOHulqVokDOXah1ge3NNTA_B0NghcV_y7YmiYjav7J3Z1pNe4mSkbplDlnNUAL9RhWOgsP4jvXS-Jz1B9WrSYkXzLaCkmiNMGeUe",
+            "title": "brownszone.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Ghq1Kha0GJM1XK8kuqt59ZDix8FTgw2gfCkrQ0B8SpD9AfXzxzyT8sEqrtH2SCLkK5fqe4Lo4JFxEQvsJEDbasdGYhygcWhqp_saiXjEbHXUt3mzSTBTJbYUigf-9JdXG1bwm1ZtAPpPHu9EsJPjglbMKN_HI3bK-oC9dnKOqiHEvuIvKoTLQl2bWHVhyyKnr4Yhs4rm8ixq",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK3jsNfXFNb25aS3i0aKSnI_4Oz8lMaQnH6LS38n99s615a-Dg_V3nfV4X9x7g6ggr8HnFeb5gCY4J7Ukgq2spJMMZuKhGG9DRkI7LHQ6xGoRUWCM35FqUS56h8OxFnNIwqaZiKxGh6gu735AIOBI-0zje4CXihQkFxA==",
+            "title": "clevelandbrowns.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSgwyYnm3U8RSBoIC-qN8c4fYA7Epn9EQO28otGtRfDQkY1yWXNkGmMiSTfB4U-nj8G_qfdPH-9bNn2nE1ve_6pJIfL3cR7JvsheXlLZQpTHpinJw2Zog4IHli-9lpWQ==",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Y7S4NTm5NuKNicSDoh3xMgo9fqyTRfFjqhGovlN6VVNSLuQMQ34k3ceBlmlrw5a4U7OmxttieJ77j_m1WxylCPSHTF6EeH4DFzlcab1f37LlTYQqueKTPhCZkShlKkzpf5JRcmf1_s_4Up26LSWxA4dw63RaOrAYYMd4knhIbmUOqXi2_p00ykR4aiAZfw==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOAz-0FkQysTF_9koF1jRzstrhNt5krn1_RgfLvTfBs_apIWKHwyGa1QWrCLdhMxbVrZ1LUW9OSe6L4NEBytVZxKvwliP5oRq7rpfpQiO96qH9p0ChluRDmqbuQsPUpY4JhoPfEjyLcSQIsJI316XzvqUzD3NZM6mamJ-2n52Gy34kN8Oimf78Jw==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZUfjBu27Z-zLhTD6LOdYmW5IDvQxfdyuja8wHt6BwugjztbaRF_UdzPbRws-X2crO91lpG3ux3rGJHe0L6BccWewz29WqH84NgNu5BWdPjhpEqHrilrzbrCGRnZNLlwaw7pdIfR9SE4rzRGHRyaoXxqi904oAh6u-opMnZCqO1c7SP1YE",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWqIiuKryq9sQYK-yHFFZl5aZQnwuAMtSVGGO-1Sx3YxUpj9th8aBTAlkYF4ms757FBOcB_QTECDmPuCGLN4uSIwNL4k06CuyWbyZhHA8qCQSfYftT35DSrokP66N1jXSsdrHvrOsjEG06tbb5q-kRtT5jVpQvuWEpAjLIUdhYZTaxb4r03_xDKOnwSAgB-ycoiBSOPti3H_zv3SwW38Xxdgf5X3_YTu3ulaZhLFtehdnxe2rCJqE=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsBkZaoQTZw7hz2x5KFwG8135QU9Fmwl-XgejdDaSzsZUaLjOKhDcQ9iM9rzn0BThNS3joUPRSRPNWUwhFrC5z4C_GlBi2UG3KzPFkxkUUHwMluQ600yonnuFqeRq0-D58sbCRk1hwCLsutTuIXfB71B2wIppYjbYQdheUiwXG6pmLq0ooitCmhgvKhnPwRfAwxMadX-2RBFFS1jJAhRbtVw==",
+            "title": "fantasylife.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c121dd8df43b49b1d8505923032ba3cb0a3555e8",
+        "aviCoreCommittedAt": "2026-08-15T16:47:12Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 71455,
+        "groundedMarketChars": 3014,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "msuijsta-12020089",
     "createdAt": 1786806722657,
     "expiresAt": 1787238722657,
