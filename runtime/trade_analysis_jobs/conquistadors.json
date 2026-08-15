@@ -1,5 +1,27 @@
 [
   {
+    "id": "msuq563w-1a4c3e04",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Conquistadors",
+      "goal": "Increase Championship Odds",
+      "assetsToShop": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1786819412012,
+    "updatedAt": 1786819412012,
+    "expiresAt": 1787251412012,
+    "status": "queued"
+  },
+  {
     "id": "msuptoyh-22c4ca44",
     "phase": "initial",
     "mode": "analyze_trade",
