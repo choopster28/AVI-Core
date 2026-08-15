@@ -1,5 +1,43 @@
 [
   {
+    "id": "mstqh2pw-4442615c",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Gringo's Goblins",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Christian Watson",
+            "assetType": "player"
+          },
+          {
+            "name": "Aaron Jones",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "David Montgomery",
+            "assetType": "player"
+          },
+          {
+            "name": "Tank Dell",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786759501316,
+    "updatedAt": 1786759501316,
+    "expiresAt": 1787191501316,
+    "status": "queued"
+  },
+  {
     "id": "mstnqfxm-bb9c64e5",
     "phase": "final",
     "mode": "propose_trade",
