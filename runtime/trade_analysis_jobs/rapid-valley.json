@@ -29,8 +29,360 @@
       }
     },
     "createdAt": 1786806657694,
-    "updatedAt": 1786806657694,
+    "updatedAt": 1786806722041,
     "expiresAt": 1787238657694,
-    "status": "queued"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Rapid Valley Annihilation (Rebuilding) is analyzing a proposed transaction sending 22-year-old cornerstone running back Quinshon Judkins (C-AVI 76.2, D-AVI 89.3) to contender Corgi Loaf Baking Co. for 31-year-old veteran Aaron Jones (C-AVI 56.3, D-AVI 74.2) and a 2028 1st-round pick (Pick AVI 79.3). While Corgi Loaf Baking Co. would aggressively accept this deal to bolster its playoff push, the transaction heavily damages Rapid Valley's rebuilding trajectory. Trading away a premier 22-year-old RB for an aging, expiring veteran and a single draft pick two full seasons away represents a severe loss of dynasty value.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 85,
+              "leagueMarket": 89.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Aaron Jones",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 31,
+              "cavi": 56.3,
+              "davi": 74.2,
+              "publicMarket": 48,
+              "leagueMarket": 74.2
+            },
+            {
+              "name": "2028 1st (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D",
+            "otherGrade": "A+",
+            "userShare": 25,
+            "otherShare": 75,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Rapid Valley Annihilation surrenders a 22-year-old foundational running back in Quinshon Judkins for a 31-year-old expiring RB in Aaron Jones and a single 2028 1st-round pick. For a rebuilder, receiving an aging RB provides zero long-term value, while Corgi Loaf Baking Co. locks down a premier young starter to upgrade their current championship run."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "By removing 31-year-old Aaron Jones and requiring Corgi Loaf Baking Co. to send two 1st-round picks (2027 DMV 1st + 2028 King Jesus 1st) alongside 25-year-old WR Wan'Dale Robinson, Rapid Valley secures high-value draft capital and young talent aligned with its rebuilding timeline."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Immediate downgrade in starting RB production, dropping from Judkins (76.2 C-AVI) to Aaron Jones (56.3 C-AVI)."
+            },
+            "dynastyOutlook": {
+              "score": -60,
+              "summary": "Gives up a 22-year-old elite dynasty back (89.3 D-AVI) for an expiring 31-year-old veteran (74.2 D-AVI)."
+            },
+            "lineupQuality": {
+              "score": -20,
+              "summary": "Creates an immediate net loss in weekly starting lineup scoring capacity at RB2."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Neutral depth impact; simply swaps one starting running back for another."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Gains future flexibility by acquiring a 2028 1st-round pick."
+            },
+            "overall": {
+              "score": -50,
+              "summary": "Material net value and strategic loss for a rebuilding franchise surrendering a young cornerstone."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Upgrades starting RB2 slot from Aaron Jones (56.3 C-AVI) to Judkins (76.2 C-AVI), adding +19.9 weekly value."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Secures a top-tier 22-year-old dynasty running back to anchor the backfield for years."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Direct starting lineup improvement of +19.9 C-AVI at mandatory RB2 slot."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Strengthens starting lineup while preserving core offensive depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -25,
+              "summary": "Surrenders a future 2028 1st-round draft pick."
+            },
+            "overall": {
+              "score": 50,
+              "summary": "Major victory for a playoff contender acquiring a 22-year-old star running back at a discount."
+            }
+          },
+          "explanation": "This transaction represents a massive strategic win for Corgi Loaf Baking Co., which significantly improves its championship odds by acquiring 22-year-old Quinshon Judkins while offloading a 31-year-old veteran and a distant pick. Conversely, Rapid Valley Annihilation severely damages its dynasty trajectory by trading away a prime rebuilding asset for minimal long-term return."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Rapid Valley suffers an immediate C-AVI hit in its starting lineup, downgrading from Judkins (76.2 C-AVI) to Aaron Jones (56.3 C-AVI) at RB2.",
+          "sideADynastyImpact": "Severe net loss in long-term dynasty value. Judkins (89.3 D-AVI, age 22) is a premier franchise building block, while Aaron Jones (74.2 D-AVI, age 31) faces rapid age-related value decay.",
+          "sideARosterImpact": "Leaves Rapid Valley with an aging veteran who does not fit their rebuilding timeline and must be re-flipped quickly before his value disappears.",
+          "sideBChampionshipImpact": "Corgi Loaf gains +19.9 C-AVI in their starting lineup, replacing Aaron Jones with Judkins at RB2 alongside Cam Skattebo.",
+          "sideBDynastyImpact": "Acquires a foundational 22-year-old running back (89.3 D-AVI) while sacrificing an expiring veteran and a pick two seasons away.",
+          "sideBRosterImpact": "Solidifies Corgi Loaf's backfield with two explosive young options (Judkins and Skattebo) while keeping their elite WR corps intact.",
+          "valueAssessment": "The official AVI model heavily favors Corgi Loaf Baking Co. Judkins' elite dynasty index (89.3 D-AVI / 76.2 C-AVI) commands significantly more value in a 16-team league than an aging Aaron Jones (56.3 C-AVI) paired with a single 2028 1st-round pick."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus strongly rejects trading away Quinshon Judkins for a package centered on 31-year-old Aaron Jones and a single future 1st. Judkins is valued as a top-12 dynasty RB asset following a dominant rookie workload in Cleveland, whereas Aaron Jones is viewed as a short-term, low-cost depth piece in Minnesota.",
+          "aviVsMarket": "AVI and public dynasty market consensus are fully aligned: Judkins is a highly valuable cornerstone, while Aaron Jones is a declining win-now veteran whose dynasty value will drop precipitously after 2026.",
+          "relevantContext": [
+            "Quinshon Judkins is 22.0 years old and commanded ~74% of Cleveland's designed rushing attempts as a rookie.",
+            "Aaron Jones is 31.0 years old, signed a restructured 1-year deal with Minnesota for 2026, and shares touches with Jordan Mason.",
+            "2028 1st-round capital is two full seasons away, providing delayed liquidity that fails to offset losing a 22-year-old workhorse RB."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is in Playoff Push mode and actively seeking starting lineup upgrades. Acquiring Judkins for an aging veteran and a 2028 1st fits their goal perfectly.",
+          "packageFit": "The submitted package fails Rapid Valley's Rebuild goal. Rebuilding teams should not acquire 31-year-old running backs, and a single 2028 1st is insufficient compensation for an elite young RB.",
+          "lineupReplacement": "Rapid Valley replaces Judkins with Jones in the starting lineup, but experiences an immediate scoring drop and creates a major age gap in their backfield.",
+          "competitiveWindowFit": "Severely misaligned for Rapid Valley. Trading away 22-year-old star running backs for 31-year-old veterans runs directly counter to a rebuild strategy.",
+          "positionalScarcity": "In a 16-team league with 2 RB starting slots, young workhorse running backs like Judkins are extraordinarily scarce and command multi-first/young star packages."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 100,
+          "classification": "Highly Realistic",
+          "explanation": "Corgi Loaf Baking Co. (Playoff Push) would accept this submitted proposal immediately, as it upgrades their starting RB2 slot with a 22-year-old star while surrendering an expiring veteran and a distant 2028 1st. However, from Rapid Valley's perspective as a rebuilder, sending this offer is strategically flawed."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "Rapid Valley Annihilation must DECLINE this trade proposal. As a rebuilding franchise, trading away 22-year-old cornerstone RB Quinshon Judkins (D-AVI 89.3) for 31-year-old Aaron Jones and a single 2028 1st severely damages your long-term trajectory. Judkins is already the exact type of young, high-volume asset a rebuilder wants to retain. If you choose to trade him, you must demand a package centered on multiple 1st-round picks and productive young players—not an aging veteran whose fantasy utility will expire within a year.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 85,
+              "leagueMarket": 89.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.7,
+              "davi": 83.6,
+              "publicMarket": 65,
+              "leagueMarket": 83.6
+            },
+            {
+              "name": "2027 Round 1 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2028 Round 1 (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "Rapid Valley receives two 1st-round draft picks (2027 DMV 1st + 2028 King Jesus 1st) plus a productive 25-year-old receiver in Wan'Dale Robinson (D-AVI 83.6). This returns real rebuilding capital and young talent rather than an aging 31-year-old running back.",
+          "whyOpponentMightAccept": "Corgi Loaf Baking Co. acquires a premier 22-year-old running back to pair with Cam Skattebo for their championship push without surrendering any of their core starters (Mahomes, JSN, Nabers, Warren, Skattebo)."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 85,
+              "leagueMarket": 89.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 72,
+              "leagueMarket": 87.1
+            },
+            {
+              "name": "2027 Round 1 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "If Corgi Loaf refuses to trade two 1st-round picks, acquiring a strong starting wide receiver in Christian Watson (D-AVI 87.1, C-AVI 72.0) alongside Corgi Loaf's 2027 1st provides immediate scoring upside for your WR corps plus premium draft capital."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Aaron Jones NFL 2026 team contract fantasy value",
+          "Quinshon Judkins NFL 2026 team contract draft fantasy value"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOvW7MWSy-VSYJuYLAY7sz6lqEvwiKtO3fmUsv_1EerWRvvGDfjD4qn_tBC2D9q6BoY4ak3Y1GdZB8KpDvgFH46yxG2z5nVFyiu0Y0ihb7GuQa4U7xOpLwQKuOs85jbmZBW5l3i12Dpz3cNKzNBimrtKtjrNc18J472xY2wqpxqyNRs6He7p6JircpE9OGwqs=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy_JcqE797d-bddu9WRvJxoaDjHwRZnJg-ZVc8vpH8s_3Rb63kFfz_KOmscn-JNYigpefxU9Jnj6SY1T0kL7LppprxbhbjnIMT8XKXf2Ig7PaOkIndFMRtI7ffznxjlwK8b-1q3F4VAnXuAJ0I5q1zzy7Bz5xflsplOGA0-QpEAEcLGYYqb6gDNNqpUWnPkC1HxgOt1FO9Y7fztxKOivkFGhU=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPYpzRR3THPbbTVDv0M1PZ8lS6Dnbfif2XpC1ZoQw0AAYWnvS3g-ssa0Wcmk-rzVr0UjcS9fmBS6s3H0DPt6tHUPIb6BTluiqfdLB_PJRIBCTxQasqGjksm8xs-h1wQXGGU3OIzafH16DEpr0C0uHMAfVlslAtlKVsgLvdiuUC3NpNtccsrs98fYp87dj-lG_OnTf8Xay66PL-D2SUzGKpw4BSX5izdhZH7w9WjRg=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY8_OtTGX3C5hUQyDzY0aHjnb89Y10qVj-08f5_6TBxFf5Lj2dxbDykp4GAfeAezTM3h4hY22m2QuasfPtH06qz8T_y_emDoH8HNH9W2T6tsJHkTzdgu_eXELOw94k3uYb63AE-XnGe5-dg45acNiRdKFLHErT1YUBRZxbEN1yzM9QuRjnp3fEDyc=",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH1kWOsgXSW7EwV9NIAeCKjAM7OvKxG5KS9RiZFDX8-TPRJLE5QFxbOGsuhG8dphy15ZSSsU6vM_Mm08RFRGf9XW5VIA4sofbcIiRBTSxDKyeIGJBbXHg_bGy9kc6BcKDOfpax2MriiH8LylMG-T-PDbQPX4lS1Aeqz0BVAuXShG91k9YBuznLC4rRIAPZfpC2HM7ArTA2QeJh1kxVvrP88o9BxOpqEDWVnonB4Yb1BGgKUel0VUGk",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyKdx2IK0t0pI8sL-hRpx6ODNK-Inw5MikNWVfPGvIMygmdMdrJEveMFqQvbssc0IE8H9FzevXDNJ_TBDtYvbQBNqoKHwEWRcoYpgnEp3ArvLkqe2LLBi446brCjoX-8srJWpMKZZmdWKWi0gS",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP8kLJiTugr8HbViUOSl2AD8Sp9v36O7Yro5k1MV7iZRjJsBe3y-uyxXZuaafhL4A27yDWXqQff_hr5WCcVb9YZK6eIf7fG7q7E9-2Hq8xj4rpa5U3aBlmewvIRBz6LrhT",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgxt26BPzaJm7q9dVzfa5JOfeU_l7rleUzHfF-TMfI2TRDMtOnGgJjFJ21a9uO9XS98Bpwu5I6m8gxXP0OsPPnDcoC6WGRSItLsuCks2Ko9ghMg0JXiw6CkR6KUu3xZkjftCDk8yKVSMj00b157MQfizztTJFp0CLT5QIAH1YD3NulgbgXOUHXUXjSAEM5zgs59hrbGEEI2Kr2ErgOmH0MLDpYBg==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyLBiBzQzczoeWl1o4awOJSldIltTsVhNI48qZj7UCbBsqgz5_2qNl61SxMwYRnqd540s6tiu2W_Mu2fY6fgVxVVu-VeIud_6RaTVNKXtfXBKn6YcIcqQfX1yGBNDTO78WLFOAcCR0RO-7su2MOA==",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC1CESGmn5Lz4tCcaY3ZBwAgUbG5eYwwhqCQzheY8JXn0xNjeSUW467SJRcNwvtBTPBVCSynkuOHJPhJstLHkQFKj7j-UuIGDgfnMK5KNe78Btg3rS5Q9bD2HSIenw3to9tJ6dgg-VASrXxJDvEjBHgDV_B3YtK7kYPVQn9WynL2jw3oKR0xkKB7p9wWhl-SOsuid8fFUUYnYKZyHH5kGycdQJokV_",
+            "title": "zonecoverage.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUeiudP-ddm5hElgphHSLsXfxsaHPAJVKDClqLyOBAbzGL3BBzYnV6DkAMgX21esTThEiDuqcu-XQ1a5txoIuobt7DxcsamuaXBWV0o6voLlBFNS6opPlm_6ZH0N8NZhv0aGssVtpenI9zwACwNT-_gCKHFbvekqW62XDjGwjUcBvmPRvM5UwC9KzihJ2vI9XLo70zHZeA8w==",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "4157c9b229457089affb0fd0b88bb733838f1070",
+        "aviCoreCommittedAt": "2026-08-15T13:49:10Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 72002,
+        "groundedMarketChars": 3392,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
