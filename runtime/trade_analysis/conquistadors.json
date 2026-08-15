@@ -1,5 +1,374 @@
 [
   {
+    "id": "msuq563w-1a4c3e04",
+    "createdAt": 1786819472447,
+    "expiresAt": 1787251472447,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Conquistadors",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Conquistadors",
+      "goal": "Increase Championship Odds",
+      "assetsToShop": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Shopping De'Von Achane (97.4 C-AVI / 97.0 D-AVI) from the Conquistadors roster represents a premium market maneuver. With Achane explicitly listed on the league trade block, availability friction is fully resolved. In a 16-team, start-8 format, converting high-volatility elite running back production into a bulletproof tier-1 wide receiver anchor preserves your championship timeline while diversifying roster risk.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite QB ceiling led by Josh Allen (99.6 C-AVI)",
+            "Tier-1 offensive anchor in Bijan Robinson (99.4 C-AVI)",
+            "High-volume WR1 cornerstone in Puka Nacua (99.6 C-AVI)"
+          ],
+          "priorityNeeds": [
+            "Converting RB surplus into elite WR/FLEX scoring safety",
+            "Maximizing return on publicly shopped S-tier assets"
+          ],
+          "tradeableSurplus": [
+            "De'Von Achane (RB, 97.4 C-AVI, Confirmed Trade Block Available)"
+          ],
+          "constraintsApplied": [
+            "Must satisfy two-organization strategic goals",
+            "Every traded player must belong to the league-relative starter pool",
+            "Maintain post-trade championship starter threshold"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 13,
+          "eliminationReasons": [
+            "Rebuilding teams (Crimson Tide Pods, Northside Kings, Rapid Valley Annihilation) cannot offer immediate near-peer WR starters for a win-now contender",
+            "Retooling teams lack S-tier wide receiver centerpieces required to balance Achane's 97.4 C-AVI valuation",
+            "Direct rival contenders with non-matching positional surplus were filtered to prioritize verified trade-block targets"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "All Hail King Jesus",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Amon-Ra St. Brown",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "WR",
+                "age": 26,
+                "cavi": 98.6,
+                "davi": 99,
+                "publicMarket": 98.5,
+                "leagueMarket": 98.8
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 96.5,
+                "leagueMarket": 97.2
+              }
+            ],
+            "scenarioType": "Straight Starter-for-Starter Swap",
+            "strategicGoal": "Acquire Bust-Proof WR1 Anchor",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 23,
+              "packageMatch": 19,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 95,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Amon-Ra St. Brown (98.6 C-AVI) gives Conquistadors an unbreakable target-monster alongside Puka Nacua. Offloading running back volatility for a top-3 dynasty wide receiver increases long-term stability without dropping weekly lineup floor.",
+            "whyOpponentMightAccept": "All Hail King Jesus has Amon-Ra St. Brown publicly listed on the Sleeper trade block and needs explosive running back production alongside D'Andre Swift to elevate their playoff push.",
+            "championshipImpact": "Slightly increases weekly starting floor stability while preserving elite tier-1 scoring capacity in FLEX/WR slots.",
+            "dynastyImpact": "Extends competitive window length by securing a prime 26-year-old WR1 whose profile ages significantly better than a high-workload RB.",
+            "rosterImpact": "Conquistadors slide George Pickens and Ladd McConkey into optimal secondary roles while locking in two 99+ AVI WR anchors.",
+            "publicMarketContext": "Public consensus ranks both assets within the top 12 overall dynasty picks; straight-up position swaps between top-tier RB and WR are widely accepted standard protocol.",
+            "risks": [
+              "Surrendering Achane's multi-touchdown upside in Miami's explosive offense"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose 1-for-1 swap directly referencing both players' confirmed trade-block status.",
+              "acceptableConcession": "Throw in a 2027 late round pick or minor IDP asset if opponent requests a tiebreaker sweetener.",
+              "walkAwayPoint": "Walk away if opponent demands Bijan Robinson or an additional 1st-round draft pick."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Big Balder Brand",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Rashee Rice",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 26,
+                "cavi": 96.1,
+                "davi": 93.9,
+                "publicMarket": 92,
+                "leagueMarket": 94.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 96.5,
+                "leagueMarket": 97.2
+              }
+            ],
+            "scenarioType": "Contender-to-Contender Peer Swap",
+            "strategicGoal": "Swap RB Tier-1 Power for Chiefs Alpha Receiver",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 21,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Rashee Rice (96.1 C-AVI) offers elite volume in Patrick Mahomes' offense. Capitalizing on public market hesitancy yields a dominant wide receiver centerpiece.",
+            "whyOpponentMightAccept": "Big Balder Brand is focused on 'Win Championship' and adding De'Von Achane to Saquon Barkley creates an unmatchable backfield punch for their title run.",
+            "championshipImpact": "Maintains championship-caliber PPG while insulation against running back injury volatility improves total roster health.",
+            "dynastyImpact": "Locks in Mahomes' primary target-getter for the foreseeable future.",
+            "rosterImpact": "Establishes Nacua and Rice as a premier 1A/1B WR combination.",
+            "publicMarketContext": "Public market reports indicate minimal suspension threat for Rice in 2026, creating an advantageous buy window for an elite target earner.",
+            "risks": [
+              "Off-field news lingering in public media creates minor background noise"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Achane straight up for Rice, highlighting Achane's higher C-AVI (97.4 vs 96.1).",
+              "acceptableConcession": "Swap 3rd round picks if Big Balder Brand requires market alignment.",
+              "walkAwayPoint": "Walk away if opponent demands Ladd McConkey or a 2027 1st pick attached."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "All Hail King Jesus",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Justin Jefferson",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "WR",
+                "age": 27,
+                "cavi": 97.3,
+                "davi": 98.5,
+                "publicMarket": 97.8,
+                "leagueMarket": 98
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 96.5,
+                "leagueMarket": 97.2
+              }
+            ],
+            "scenarioType": "Blockbuster Near-Peer Swap",
+            "strategicGoal": "Acquire Elite WR Tier-1 Megastar",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 20,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 81,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Justin Jefferson (97.3 C-AVI / 98.5 D-AVI) paired with Puka Nacua gives Conquistadors the undisputed #1 WR tandem in the entire league.",
+            "whyOpponentMightAccept": "All Hail King Jesus holding both Jefferson and Amon-Ra St. Brown can afford to rebalance their roster toward an elite RB1 like Achane to push for a playoff run.",
+            "championshipImpact": "Provides generational WR upside with Kyler Murray now locked in as Minnesota's starting QB.",
+            "dynastyImpact": "Secures an all-time elite dynasty wide receiver entering his prime years.",
+            "rosterImpact": "Transforms WR group into an unassailable strength while Bijan Robinson anchors the RB position.",
+            "publicMarketContext": "Kyler Murray taking over QB duties in Minnesota has fully restored Jefferson's elite ceiling in redraft and dynasty rankings.",
+            "risks": [
+              "Opponent may prefer to keep Jefferson over St. Brown if forced to pick between WRs"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer De'Von Achane 1-for-1 for Justin Jefferson.",
+              "acceptableConcession": "Add a 2027 2nd-round draft pick to finalize the blockbuster.",
+              "walkAwayPoint": "Walk away if opponent demands additional starting players like Ladd McConkey or George Pickens."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Justin Jefferson news 2026 fantasy",
+          "DeVon Achane news 2026 fantasy",
+          "Amon Ra St Brown news 2026 fantasy",
+          "Rashee Rice news 2026 fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHULA_o-NYzsEfCXlC8Yfm26t2Y5vZG8PgQHbEi7SEJnoVTSP9L7KSdas1dAtlKQFtEhYJnO_HemuaC5bmbgDfXkR6RE8DOV34284GYaVp_5r6nc0ZRvXMvjPxmEA6urADeZCWS9qyKRb9eRMBiEdlxLB3o5qYGglcYTKWz8y7DHn3MkbB11_hmqZKRtdxQ1LPnYpu40ivt7g==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6F0N8976aH2ugCPufm5fUXxnHHAGKsGDOYiXJwfz6UCDMKJDSZQIVooVhTTxaJLEMMW4y7lWvW93diazIFBFeOMd9YyzL7D4v370eXmqGgxm2-a-q5a65wJNsm09aVZMJyAEsSPY5VE27sAiesMk6-S7a4nruMekl21K7ONbehEI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVzWk_j34ff27_kFBivQ49fnUFCJhIlau2rFRY--Zd7J1ytrdU6nho3PJTxjJe39R2ujWCA6yCwxJesz0DMaQ-a4BW3gtjG9BZiPjRfudM6iu40Q5MP1SCsG3xkliIaSakqrUgYtUgNj9dy1_vYWQ=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcNnsYppe83totfu-zfkNQCwJr2G9HgL0lZHs4Lch4Okf_T7vkNWX_UmSjsNAPW-I5JQYj9tNxjmFr1Mk49ndnxVOKG2tryr3yVjfELwTGKWuHrsGh7BSxFMV34_IkcHlyf-vA0ABxwm4y19-NBZlJhAyDqXfjKmrjMyjPqDi4CzHEkJkVpMKvDoO7R6I9PISPuyQvEVNkF28z5cb_uziWr817to=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi9nR4kOeeSMVfYBTLbgtNYSeHpq8gz8tVkFvDqRejX-h3eJZgi3Gxi3xgcR98xnthPrsmjuLj0Xt_1IacvIKbM59WLiPoVXnRCKwPIxwAqknP-tpzKngkMyvynysJU83hSB6KSF_WQqes6P1YPTT8H6vWG-c=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETojP77JViFc2WoKhhs2i5S-BbOorkPyPhTobR2Ht-LRYbxMluhG8dnsLiYFDnubFK8Hfx2D75B0boovzMTAEKVQCo6DG8M-nJa3ZUqNz1f2TaLJ133Fkmsbb8-0OKzHQVgXr2T8BZdhBnJrqHlXF_nuI4sWYghiXrivbwBqGLSFUTDlXhNk3Ztjr1JwBPuAlb",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEZ8C0BJgaH18HQbMMD9ytPuWwgFtkUsOm30HawFk2ZRHfYAr8iV6VRLud1ZveJ4q4lc0VmeUXiJMgMNSFxtT5Y3F0nibTu-uL9YVGkdc3UkqB5HtB4wvcZobn6FuJJlj3KyhS7g-gvcWsLaa",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT5-6pAatcSyqipw4_oFR-JZ8dKP3XLhridC6i2zqv-3U1M68c0tX3ASh2rq2x7A010xHQ_fG97sewoLN7eo3eGF_8u7pYZTYd7CoNtYhTFYwyoll57WXxawYP-9zjmBEmcrfHzdNDq1twe7MmpcvT9R0jctEKFYkhCdankKU=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaaQXAbAETpRwMFior3bngAbl3GifYYVWcW25HORpFDXlO97JEVqy-y6dTBN-HQfgHzpDVIY_BHt7d1D3S7CCB6koglPO3dUemM4G3FH-WgRdyhHJq55FrgqePJabkGOfgKHPzJjQBL5mTLWNzOr0HqrOZfStBL3fi_BFYOBb2st7pew1bFG3p_OtT-6yb0oo9ZLkLx0_sDGvaphk",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZE5gW5gF0lPT3PcKryUX32ruzWFF-hJp-fmnicXsRsQ4suWsp7Sl9Dx5vVkQVQzUC-pf_ilRd6ANIgvoR5OQFckW0GEpnKZy1fEq5a3OJjwRC1T2qXLzK6hEjEHzTYR19Gv5iQd2cGqS8b2BNKsO-RUL7hxKvfLo-UL_y_7vNdgaFeuyvg1vHPRvPQpsSAcvOV086Fj_x9uqrY_ttOBw8nS8=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8dveSZ_22qbjK_tB7xQ_ZWkJCyKUQZDVBcMbXeJ1vFPtZLV9rPbcRoXU9ZscbSQqv1JTkgn473xXGyKMGrgm5asYxd7jjr10XcyNKwEcPSe3L7oaURNRSHP7waId1pw50_wb46Q4zEP3T11dkUPl0ES44lf4UcWOKrpzZoA1yTbeX6-BiRht4Ip8=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuTvNBOh_oeUIGgiVGi260etKz7OedsNMdXtRzDzcqwh26npFvy59RIt66WeOKu41SKdJA3_3q9SX4wAV4XpKFSUmoSrAlLBD3ug-XSg_55Gaz6bYIkxBNL_o7QyXrtA==",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrtv9fynnRJ3pl-krueQeR6qr2-WukQ7P4bmjLYb2HkFuC2sv4De1Ad9vMl6lz4I_zPAxexV6_cU_aQZFtfHT1mc5T25dIpzwpZ9mIWgo8DB_ewNLd0sAWeQu8maZtR3BdsYIqc6kb_xteGd_iNBcbQp9jIZJDxQAAcmregjEgmRexp2iqUTz4no8qe8ehEPoPBlq6Ng4nNWk3iNclXlnE7JSHsvoqsTamQVuWLLG199IUKVVEoq55",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlsuC922B286mv2zjcIWG8zRzZv3BZmmPR_E_oiDLAsEGUEMy_q57245n1nJM93FDEf4ZE1tBKJe0r9a8sfKHtCmUH3lkCCjgGyLbOot0upz7mMEfQftJRmA6KCjkNmRsWR_D5QX3mUfF413gvVmmOFqtGAxOOrvm4Wv5B245RbNNmaSp-suj85_Zzn9ZGEM6VGVyfzUFAQuq5JQ0SG0FNDTPr4VX18Cm7THrgpzk=",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "De'Von Achane",
+          "Rashee Rice",
+          "Justin Jefferson"
+        ],
+        "aviCoreCommitSha": "d4e17274ea277bcd6a15c5e2e2198b7563de9d69",
+        "aviCoreCommittedAt": "2026-08-15T18:14:40Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 419836,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "msuptoyh-22c4ca44",
     "createdAt": 1786818942113,
     "expiresAt": 1787250942113,
