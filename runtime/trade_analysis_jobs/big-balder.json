@@ -1,5 +1,39 @@
 [
   {
+    "id": "mstnr9x8-0824183f",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "DMV Fantasy",
+      "goal": "Retool",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Ja'Kobi Lane",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Isaac TeSlaa",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Ravens · Projected late range (2.10–2.16)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786754938364,
+    "updatedAt": 1786754938364,
+    "expiresAt": 1787186938364,
+    "status": "queued"
+  },
+  {
     "id": "mstnj11q-30855bf1",
     "phase": "initial",
     "mode": "analyze_trade",
