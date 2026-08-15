@@ -17,21 +17,21 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **74**
-- Owner trade participations: **149**
-- Two-team trades: **73**
+- Unique completed trades: **75**
+- Owner trade participations: **151**
+- Two-team trades: **74**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **31**
+- 2026 completed trades: **32**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-08-15T00:47:53.214000+00:00**
+- Latest verified trade: **2026-08-15T17:55:09.691000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co.  | awang1900 | **22** | 7 | 4 | 11 | 31 | 31 | 8 | 10 | 6 | 5 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **23** | 7 | 4 | 12 | 33 | 33 | 8 | 11 | 6 | 6 |
 | 2 | Big Balder Brand | Choopski | **19** | 7 | 2 | 10 | 28 | 30 | 3 | 5 | 1 | 3 |
 | 3 | Conquistadors | Thecan | **16** | 6 | 2 | 8 | 15 | 17 | 5 | 7 | 3 | 3 |
 | 4 | Ravens Regime  | Mentomorii | **16** | 3 | 3 | 10 | 15 | 20 | 3 | 5 | 2 | 4 |
@@ -44,7 +44,7 @@
 | 11 | Rapid Valley Annihilation | FuzzyRaptor | **6** | 0 | 3 | 3 | 9 | 10 | 6 | 1 | 2 | 0 |
 | 12 | Lightskin Legends ✊🏽 | MadDawgMatt | **5** | 2 | 3 | 0 | 5 | 3 | 1 | 2 | 0 | 0 |
 | 13 | SmokyValleyWheatWarriors | AlexPete6800 | **4** | 2 | 2 | 0 | 1 | 3 | 2 | 2 | 0 | 1 |
-| 14 | Gringo’s Goblins  | Burnfaze | **2** | 0 | 0 | 2 | 5 | 5 | 1 | 2 | 1 | 0 |
+| 14 | Gringo’s Goblins  | Burnfaze | **3** | 0 | 0 | 3 | 7 | 7 | 2 | 2 | 2 | 0 |
 | 15 | Phalhala or Bust | PIFYAF | **1** | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
 | 16 | Southside Savages | GGEZGoNext | **1** | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
 
@@ -59,7 +59,7 @@
 | Corgi Loaf Baking Co.  | Rapid Valley Annihilation, Ravens Regime , Big Balder Brand | 4 |
 | Crimson Tide Pods | Conquistadors | 2 |
 | DMV Fantasy | Big Balder Brand | 6 |
-| Gringo’s Goblins  | Ravens Regime , Big Balder Brand | 1 |
+| Gringo’s Goblins  | Ravens Regime , Big Balder Brand, Corgi Loaf Baking Co.  | 1 |
 | Lightskin Legends ✊🏽 | Conquistadors, Northside Kings , SmokyValleyWheatWarriors, Corgi Loaf Baking Co. , Crimson Tide Pods | 1 |
 | Mile High Royal Lions | Northside Kings , All Hail King Jesus | 2 |
 | Northside Kings  | Conquistadors | 5 |
@@ -70,6 +70,24 @@
 | Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1394413143647592448
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-08-15T17:55:09.691000+00:00
+- Teams involved: 2
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: David Montgomery, Tank Dell
+- Players sent: Aaron Jones, Christian Watson
+- Picks received: None
+- Picks sent: 2029 Round 1 (original roster 11)
+
+#### Gringo’s Goblins  (Burnfaze)
+- Players received: Aaron Jones, Christian Watson
+- Players sent: David Montgomery, Tank Dell
+- Picks received: 2029 Round 1 (original roster 11)
+- Picks sent: None
 
 ### TRADE: 1394154621529763840
 - Season: 2026

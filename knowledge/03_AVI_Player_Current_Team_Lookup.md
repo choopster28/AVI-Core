@@ -24,9 +24,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Aaron Jones
 - Player ID: 4199
 - Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
 
 ## PLAYER LOOKUP: Aaron Rodgers
 - Player name: Aaron Rodgers
@@ -352,9 +352,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Christian Watson
 - Player ID: 8167
 - Position: WR
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
 
 ## PLAYER LOOKUP: Chuba Hubbard
 - Player name: Chuba Hubbard
@@ -488,9 +488,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: David Montgomery
 - Player ID: 5892
 - Position: RB
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Team file: 15_Gringo_s_Goblins.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: David Njoku
 - Player name: David Njoku
@@ -1640,9 +1640,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Tank Dell
 - Player ID: 9502
 - Position: WR
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Team file: 15_Gringo_s_Goblins.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Ted Hurst
 - Player name: Ted Hurst

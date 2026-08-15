@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-15T18:14:38.245556+00:00",
+  "generated_at_utc": "2026-08-15T19:41:47.110706+00:00",
   "statistics": {
-    "owner_trade_participations": 149,
+    "owner_trade_participations": 151,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -65,7 +65,8 @@
         "partner_count": 1,
         "partners": [
           "Ravens Regime ",
-          "Big Balder Brand"
+          "Big Balder Brand",
+          "Corgi Loaf Baking Co. "
         ],
         "roster_id": 15,
         "team_name": "Gringo’s Goblins "
@@ -145,18 +146,18 @@
         "by_season": {
           "2024": 7,
           "2025": 4,
-          "2026": 11
+          "2026": 12
         },
         "firsts_in": 6,
-        "firsts_out": 5,
+        "firsts_out": 6,
         "owner_display_name": "awang1900",
         "picks_in": 8,
-        "picks_out": 10,
-        "players_in": 31,
-        "players_out": 31,
+        "picks_out": 11,
+        "players_in": 33,
+        "players_out": 33,
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. ",
-        "total": 22
+        "total": 23
       },
       {
         "by_season": {
@@ -358,18 +359,18 @@
       },
       {
         "by_season": {
-          "2026": 2
+          "2026": 3
         },
-        "firsts_in": 1,
+        "firsts_in": 2,
         "firsts_out": 0,
         "owner_display_name": "Burnfaze",
-        "picks_in": 1,
+        "picks_in": 2,
         "picks_out": 2,
-        "players_in": 5,
-        "players_out": 5,
+        "players_in": 7,
+        "players_out": 7,
         "roster_id": 15,
         "team_name": "Gringo’s Goblins ",
-        "total": 2
+        "total": 3
       },
       {
         "by_season": {
@@ -406,10 +407,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 31
+      "2026": 32
     },
-    "two_team_trades": 73,
-    "unique_completed_trades": 74
+    "two_team_trades": 74,
+    "unique_completed_trades": 75
   },
   "trades": [
     {
@@ -5428,6 +5429,90 @@
         }
       ],
       "transaction_id": "1394154621529763840",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-15T17:55:09.691000+00:00",
+      "created_timestamp_ms": 1786816509691,
+      "roster_ids": [
+        11,
+        15
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2029"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "5892",
+              "player_name": "David Montgomery"
+            },
+            {
+              "player_id": "9502",
+              "player_name": "Tank Dell"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4199",
+              "player_name": "Aaron Jones"
+            },
+            {
+              "player_id": "8167",
+              "player_name": "Christian Watson"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        },
+        {
+          "owner_display_name": "Burnfaze",
+          "owner_id": "990097041671892992",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 1,
+              "season": "2029"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4199",
+              "player_name": "Aaron Jones"
+            },
+            {
+              "player_id": "8167",
+              "player_name": "Christian Watson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5892",
+              "player_name": "David Montgomery"
+            },
+            {
+              "player_id": "9502",
+              "player_name": "Tank Dell"
+            }
+          ],
+          "roster_id": 15,
+          "season": 2026,
+          "team_name": "Gringo’s Goblins "
+        }
+      ],
+      "transaction_id": "1394413143647592448",
       "week": 1
     }
   ]
