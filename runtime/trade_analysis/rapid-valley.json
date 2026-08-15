@@ -1,5 +1,426 @@
 [
   {
+    "id": "msumbdlj-5029ee8e",
+    "createdAt": 1786813052972,
+    "expiresAt": 1787245052972,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Rapid Valley Annihilation ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Rebuild",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Quinshon Judkins",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Mile High · Projected late range (2.10–2.16)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "Malachi Fields",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Rapid Valley Annihilation executes a classic rebuild maneuver by trading 22-year-old workhorse running back Quinshon Judkins and a 2027 2nd-round pick for two future 1st-round picks (2027 DMV 1st, 2028 King Jesus 1st) and rookie WR Malachi Fields. Corgi Loaf Baking Co. gains an immediate RB2 upgrade alongside Cam Skattebo to advance its playoff push, making this trade highly beneficial and realistic for both front offices.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 80,
+              "leagueMarket": 82
+            },
+            {
+              "name": "2027 2nd · Mile High · Projected late range (2.10–2.16)",
+              "assetType": "pick",
+              "owner": "Rapid Valley Annihilation",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 50
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Malachi Fields",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "WR",
+              "age": 22,
+              "cavi": 27.3,
+              "davi": 65,
+              "publicMarket": 45,
+              "leagueMarket": 45
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "Rapid Valley secures excellent rebuild value by pivoting out of a volatile RB asset into two future 1st-round picks and a rookie WR stash, while Corgi Loaf Baking Co. gains an immediate starting RB2 powerhouse to push for the championship."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "AVI endorses the submitted offer as-is. It aligns perfectly with Rapid Valley's rebuilding goal and provides Corgi Loaf with the exact starting RB upgrade it needs for a championship run."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -15,
+              "summary": "Takes a minor short-term hit at RB2 by moving Judkins for pick capital during a rebuild."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Materially elevates multi-year dynasty trajectory with premium 2027 and 2028 1st-round pick assets."
+            },
+            "lineupQuality": {
+              "score": -20,
+              "summary": "Displaces Judkins from the immediate starting lineup, shifting Blake Corum into RB2."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds rookie WR depth in Malachi Fields to bolster long-term bench upside."
+            },
+            "flexibilityLiquidity": {
+              "score": 85,
+              "summary": "Massively enhances trade currency with two additional future 1st-round draft picks."
+            },
+            "overall": {
+              "score": 8,
+              "summary": "Gains significant future liquidity and long-term dynasty flexibility by adding two 1st-round picks."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Substantially increases 2026 title odds by filling a critical RB2 weakness alongside Cam Skattebo."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Secures a 22-year-old workhorse RB while surrendering future draft capital."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Upgrades starting RB2 from 31-year-old Aaron Jones to 22-year-old Quinshon Judkins."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Moves Aaron Jones to high-end bench depth, greatly improving RB injury insurance."
+            },
+            "flexibilityLiquidity": {
+              "score": -40,
+              "summary": "Depletes future 1st-round pick currency, committing fully to the current title window."
+            },
+            "overall": {
+              "score": -8,
+              "summary": "Locks in an elite young starting RB to bolster immediate championship push."
+            }
+          },
+          "explanation": "Rapid Valley sacrifices immediate running back production to build an elite long-term draft chest, while Corgi Loaf spends future capital to maximize its current championship window."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Rapid Valley sees a minor C-AVI drop in immediate starting output (-21.8 C-AVI at RB2), which aligns directly with its stated Rebuild goal.",
+          "sideADynastyImpact": "Net gain in D-AVI capital: trading Judkins (89.3) and a 2nd (48.5) for two 1sts (79.3 + 79.3) and Fields (65.0) yields +56.5 net D-AVI value.",
+          "sideARosterImpact": "Displaces Judkins from RB1/RB2, elevating Blake Corum to RB2 and adding Malachi Fields as WR depth.",
+          "sideBChampionshipImpact": "Corgi Loaf gains +19.9 C-AVI at RB2 by adding Judkins to pair with Cam Skattebo, significantly elevating its championship push.",
+          "sideBDynastyImpact": "Trades future pick liquidity for a 22-year-old foundational RB asset.",
+          "sideBRosterImpact": "Upgrades starting RB lineup and shifts Aaron Jones to prime bench depth.",
+          "valueAssessment": "The trade is well-balanced across strategic windows: Rapid Valley gets premium future draft capital for a rebuilding roster, while Corgi Loaf gets immediate elite starting production for a championship run."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Quinshon Judkins is valued as a high-upside young RB1/2 coming off a late-2025 leg fracture, fully active in training camp under Cleveland's updated offense. Two 1st-round picks represent strong market consensus return for a young lead back, especially with a 2nd returned.",
+          "aviVsMarket": "AVI matches public market consensus on Judkins as an elite young dynasty asset (89.3 D-AVI), while accurately pricing 1st-round draft capital as high-liquidity rebuild building blocks.",
+          "relevantContext": [
+            "Judkins is fully cleared and participating in CLE training camp in Todd Monken's new offense.",
+            "Corgi Loaf recently acquired Jaxon Smith-Njigba and Patrick Mahomes, signaling a total win-now push.",
+            "Malachi Fields is a 3rd-round rookie WR with projectable boundary size (6'4, 205 lbs)."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf is in an active Playoff Push / Win-Now window (evident by recent acquisitions of JSN, Mahomes, DJ Moore) and urgently needs a young workhorse RB2 to pair with Cam Skattebo over 31-year-old Aaron Jones.",
+          "packageFit": "The package gives Corgi Loaf an immediate starting RB upgrade while returning a 2027 2nd to cushion the draft pick outlay.",
+          "lineupReplacement": "Corgi Loaf's starting lineup is improved immediately (Judkins replaces Aaron Jones at RB2). Rapid Valley replaces Judkins internally with Blake Corum, matching its rebuild goal.",
+          "competitiveWindowFit": "Perfect strategic fit for both franchises: Rapid Valley accelerates its rebuild with two 1sts, while Corgi Loaf fortifies its championship push.",
+          "positionalScarcity": "Workhorse RBs under 23 years old are extremely scarce in 16-team leagues, justifying the 2-for-1 first-round pick investment by Corgi Loaf."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 95,
+          "classification": "Highly Realistic",
+          "explanation": "Corgi Loaf is actively pursuing a championship and has a clear need for a top-tier RB2. Trading two mid 1st-round picks while receiving a 2nd back for a 22-year-old lead back perfectly aligns with their Playoff Push timeline."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "This proposal is a textbook win-win trade for a rebuilding franchise. Rapid Valley exchanges a volatile running back asset for two 1st-round picks (2027 DMV, 2028 King Jesus) and rookie WR Malachi Fields, securing immense long-term liquidity and draft flexibility. At the same time, Corgi Loaf receives a starting RB2 upgrade for its championship run. AVI strongly recommends accepting this offer.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 80,
+              "leagueMarket": 82
+            },
+            {
+              "name": "2027 2nd · Mile High · Projected late range (2.10–2.16)",
+              "assetType": "pick",
+              "owner": "Rapid Valley Annihilation",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 50
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Malachi Fields",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "WR",
+              "age": 22,
+              "cavi": 27.3,
+              "davi": 65,
+              "publicMarket": 45,
+              "leagueMarket": 45
+            }
+          ],
+          "whyUserShouldDoIt": "You cash in on a 22-year-old RB at peak market value to acquire two future 1st-round picks and a developmental receiver, perfectly accelerating your rebuild.",
+          "whyOpponentMightAccept": "Corgi Loaf lands a 22-year-old workhorse RB to pair with Cam Skattebo for their championship run, while getting a 2nd-round pick back to cushion the draft outlay."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 80,
+              "leagueMarket": 82
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 80
+            }
+          ],
+          "rationale": "If Corgi Loaf prefers to hold onto rookie WR Malachi Fields, Rapid Valley can remove both Fields and the 2027 2nd pick, leaving a clean Judkins-for-two-1sts exchange."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Quinshon Judkins draft team news 2026",
+          "Quinshon Judkins NFL 2026",
+          "Malachi Fields college football NFL draft"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFO2lkWBZxaa224NBFMr_saay6PYOcf55vfk0QMRBlRO9mQHGhyvlZrFFr0eL35WvVIYPR1d9K0F-qj4xrQck1bkyZ4U2g88S-2egTeLS5T8PEADPSaN7931GsdOsIX9PclpvA2voT3kq3WMJFRO-V41WdZ5Pe-htYxJbBc4KjDNFaiNH35jhaup-KLKSN",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqsG131j4xrBqp4Z8l6VZmVRW8hAT7wtnQktZa9IGoF3pf3_jhVRsKq2OTyKpe6wluqU57a-anVbHmxm6CS80gQlnUZl_df73JBhGxtNp9Y6cFH_1md8wy6tqw4gcTVni7OESFoZUrTPXeg77DIz7ThIYR37K2V5QmCIVjG2VU3AqKSen8UdA8KUc=",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPNrXP8YLBnzKRe9w_1uxbqLiwN1gcT3ooQAYd7zk1B5A1loP3NvT4Mz46eqYBNcdE-dDEHTwu1L7DP4aH3OcAteQxco2VaBoJXKhmSAk0y2DcHrAAFoH0rS1YwfVhZw4ilX6cCjVIzqd1ir_WiRToAkRleIrWVPUEyWNmQC6O6rnkirlskg==",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpUEu42OxcCOIMoweDmexU902Rzs4opEnQxzRZUwV_c8nvbA3i2nmxsP6M46vjsyWbfQ47zV9DK-3pweAcMDLUK4wW_bwDY_-K45ZoFT6cG3DhHOupd0hdGeOnFW9E4PpC",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-IFsWze9PKI2w3SeUTd8VD39TO_NZDmotYnrvpL7cKqg4gtTljAkmTSPeQLCe6UGz9VJS-XJ8KbS7W2FDR2aBvWDBhlIvZKWh-n0gJb46cGCyuwqxA-Jfrw-S_nfNSOewjjdDSBM4kz4FrztnnPGCMOFGXuy69MMatGY=",
+            "title": "clevelandbrowns.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8aFXTWnNAKwsqcmNDzjqG8McJtkvqWy-05xxEyzFjAAcf7kjuaFXO4_ErK5IvUPEgMc8S-HhWh9aE48i2h_2QyUsICFaLcEkHdcWRVDubNQSulI-0HUCkFQ5zSGThjk424EGzENvdluAXcIWH1bzdUcJJGJnlBCxmW4DwpviaDP-qWISTMv9RarSi5TNADhM=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOrTh7FS9nSser6mYsGuG8UvT18RvWghbsm-sx8JwcyA9JE0MQrOxqsOM5bRJMf1BFTCmjPccO5Jf7NmePTpGzIh_2-jVswSe828yfa6Vy9jewOPSydVo2NN4-_N041uQ9Ig==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMFTV6rMpNvxhTOPULyt9z3ntfFmrNlVrMO7NZS3XmNYeEsg-DX_iBnxgKQ7otapPPfYYAcCcr2MeIB-0gFQIMec1tvOf6SChQnETmKi-LemXh1tdeCmE6wVb0RSq-IsdEm-v3pyoWsWHanaHcvMBvZA2_Z3coQA9ARPFrSrT2GaTRrImr-0ymuOlr",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH81ywMLUWmuKJLiGxJgxghnl39ONcU5YZ1ZIjQVJU1Y4XqDhrwMamaHCO67tG0zlp8VZXmgUXumqoqGVMxVbIg_5xS8tOKqnndLw_6dPlm5FDx0uoRr6RxkmNXvZH0QPoTet8AiRo1E8R6VX-nP01Hvodo6WYfDG4=",
+            "title": "sports-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErNwMyqePWvd1IKCbhaJyXy8tqC2A4xcs7AyBgg6s3mHJYZYW2LCkFFWFoY41yfBLrKvMFynmSRc5ZvsiOBN5GVW5j9kgeLYke0Fbl9YBiUTNn1L2TTaqUCMcQS5C4390n",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c121dd8df43b49b1d8505923032ba3cb0a3555e8",
+        "aviCoreCommittedAt": "2026-08-15T16:47:12Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 72012,
+        "groundedMarketChars": 2880,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "msum4nl0-92308d11",
     "createdAt": 1786812755472,
     "expiresAt": 1787244755472,
