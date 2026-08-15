@@ -1,5 +1,37 @@
 [
   {
+    "id": "mstnogbg-e684ccd0",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Gringo's Goblins",
+      "targetAssets": [
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Aaron Jones",
+          "assetType": "player"
+        },
+        {
+          "name": "Christian Watson",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786754806684,
+    "updatedAt": 1786754806684,
+    "expiresAt": 1787186806684,
+    "status": "queued"
+  },
+  {
     "id": "mstnmfbm-4c6031c7",
     "phase": "initial",
     "mode": "propose_trade",
