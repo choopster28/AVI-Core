@@ -1,5 +1,394 @@
 [
   {
+    "id": "msujdlyz-2cca8b86",
+    "createdAt": 1786808158629,
+    "expiresAt": 1787240158629,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Corgi Loaf Baking Co. ↔ Rapid Valley Annihilation",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Rapid Valley Annihilation",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "Wan'Dale Robinson",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Quinshon Judkins",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 3rd · Badlands · Projected mid range (3.06–3.09)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. (Playoff Push contender) proposes sending two future 1st-round draft picks (2027 DMV 1st and 2028 King Jesus 1st) alongside WR Wan'Dale Robinson to Rapid Valley Annihilation (Rebuilder) for RB Quinshon Judkins and a 2027 3rd-round pick. Acquiring Judkins directly addresses Corgi Loaf's primary starting lineup weakness in this 16-team league by upgrading the RB2 slot from Aaron Jones (56.3 C-AVI) to Judkins (76.2 C-AVI), generating an immediate +19.9 starting C-AVI gain without sacrificing any starting WR/FLEX production. However, surrendering TWO 1st-round draft picks plus a productive WR depth asset is a significant overpay in total capital share that unnecessarily drains Corgi Loaf's long-term liquidity. AVI recommends revising the offer by removing the 2028 1st-round pick, producing a balanced package that secures the full starting upgrade while remaining highly attractive to rebuilding Rapid Valley.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 76,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.7,
+              "davi": 83.6,
+              "publicMarket": 62,
+              "leagueMarket": 65.7
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 78,
+              "leagueMarket": 82
+            },
+            {
+              "name": "2027 3rd · Badlands · Projected mid range (3.06–3.09)",
+              "assetType": "pick",
+              "owner": "Rapid Valley Annihilation",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 15,
+              "leagueMarket": 16.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "A+",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "The deal delivers a substantial starting lineup upgrade at RB2 (+19.9 C-AVI over Aaron Jones) for Corgi Loaf, advancing current championship odds. However, sending two future 1st-round draft picks plus Wan'Dale Robinson for a non-elite RB recovery candidate overpays in total capital share."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Trimming the 2028 1st-round pick from the outgoing package (sending 2027 1st DMV + Wan'Dale Robinson for Quinshon Judkins) secures the exact same RB2 starting upgrade while retaining 2028 1st-round capital for future flexibility."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Directly upgrades starting RB2 slot from Aaron Jones to Quinshon Judkins, raising weekly scoring floor and championship ceiling."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Acquires a premier 22.0-year-old running back (89.3 D-AVI), offset by losing two future 1st-round picks."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Starting lineup score increases significantly as Judkins (76.2 C-AVI) replaces Aaron Jones (56.3 C-AVI) at RB2."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Aaron Jones shifts to RB3 bench depth, improving RB injury resilience, though WR bench depth loses Wan'Dale Robinson."
+            },
+            "flexibilityLiquidity": {
+              "score": -65,
+              "summary": "Depletes both 2027 and 2028 1st-round draft pick inventory, locking up future trading flexibility."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Net positive starting lineup outcome (+19.9 C-AVI at RB2), but severely diminished future draft capital."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Surrenders top starting running back production during an active rebuilding year."
+            },
+            "dynastyOutlook": {
+              "score": 85,
+              "summary": "Accumulates two premium 1st-round draft picks to supercharge long-term franchise roster construction."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "RB starting lineup downgrades from Judkins to Blake Corum, though Wan'Dale Robinson immediately enters as WR1."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Adds starting-caliber WR depth in Wan'Dale Robinson."
+            },
+            "flexibilityLiquidity": {
+              "score": 90,
+              "summary": "Gains two liquid future 1st-round draft picks, providing total front-office trade flexibility."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Outstanding rebuilding transaction that nets two future 1st-round draft picks and a usable receiver."
+            }
+          },
+          "explanation": "Corgi Loaf gains immediate starting lineup strength at its single weakest position (RB2), but pays a heavy capital price by giving up two future 1st-round picks. Rebuilding Rapid Valley secures immense long-term value and capital flexibility."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf's starting lineup improves directly at RB2, moving from Aaron Jones (56.3 C-AVI) to Quinshon Judkins (76.2 C-AVI). Displaced starter Aaron Jones moves to the bench as high-end RB depth. Wan'Dale Robinson (65.7 C-AVI) was sitting on Corgi Loaf's bench behind JSN, Nabers, DJ Moore, and Christian Watson, so departing WR depth does not impact the starting 8.",
+          "sideADynastyImpact": "Dynasty asset value increases at running back by adding 22.0-year-old Judkins (89.3 D-AVI), but surrendering two 1st-round draft picks (79.3 D-AVI each) creates a net deficit in long-term capital liquidity.",
+          "sideARosterImpact": "Eliminates the mandatory starter vulnerability at RB2 while pushing Aaron Jones into an ideal RB3 bench depth role. Depletes 1st-round draft pick capital through 2028.",
+          "sideBChampionshipImpact": "Rapid Valley loses its primary starting RB in Judkins, forcing Blake Corum into the RB2 starting slot. However, incoming Wan'Dale Robinson immediately jumps to WR1 on Rapid Valley's roster (65.7 C-AVI), mitigating the net current-season hit.",
+          "sideBDynastyImpact": "Massive long-term gain for a rebuilding franchise, securing two future 1st-round draft picks plus a 25-year-old receiver.",
+          "sideBRosterImpact": "Converts an active running back into multiple liquid draft picks, perfectly aligning with Rapid Valley's official rebuilder mandate.",
+          "valueAssessment": "On pure asset valuation, two 1st-round picks + Wan'Dale Robinson outweigh Judkins + 3rd pick. However, because Corgi Loaf's goal is Increasing Championship Odds and Judkins provides a +19.9 C-AVI upgrade at RB2, the move is conceptually sound but structurally overpaid."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty sentiment values Quinshon Judkins as a mid-to-high RB2 dynasty asset (4th-round dynasty startup ADP) coming off a late rookie-season leg injury. Wan'Dale Robinson's stock has risen following a 4-year, $70M contract with Tennessee and reunion with Brian Daboll.",
+          "aviVsMarket": "AVI values draft picks and young volume RBs comparably to public market consensus, but penalizes double-1st outlays for single non-elite RBs.",
+          "relevantContext": [
+            "Wan'Dale Robinson signed a 4-year, $70M deal with Tennessee, reuniting with offensive coordinator Brian Daboll in a target-rich underneath role.",
+            "Quinshon Judkins dislocated his ankle and fractured his fibula in December 2025, but fully participated in 2026 summer OTAs and minicamp, positioning him for early-down volume in Cleveland."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Rapid Valley Annihilation is a verified Rebuilder. Receiving two future 1st-round picks and a 25-year-old starting-caliber receiver for a running back strongly accelerates their timeline.",
+          "packageFit": "The package offers exceptional draft capital liquidity and young production that perfectly matches a rebuilder's objectives.",
+          "lineupReplacement": "Rapid Valley replaces Judkins internally with Blake Corum at RB2 while inserting Wan'Dale Robinson as their new WR1.",
+          "competitiveWindowFit": "Rapid Valley's rebuild window is enhanced by collecting 2027 and 2028 draft capital.",
+          "positionalScarcity": "In a 16-team league, reliable starting running backs are exceptionally scarce, driving up Judkins' acquisition cost."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 95,
+          "classification": "Highly Realistic",
+          "explanation": "Rapid Valley (Rebuilder) receives two 1st-round draft picks and a starting receiver for an RB, making trade partner acceptance virtually guaranteed."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Acquiring Quinshon Judkins directly accomplishes Corgi Loaf's goal of Increasing Championship Odds by upgrading the starting RB2 slot from Aaron Jones (56.3 C-AVI) to Judkins (76.2 C-AVI), generating a +19.9 C-AVI gain in weekly starting quality. However, offering TWO 1st-round picks alongside Wan'Dale Robinson is an unnecessary overpay. Rebuilding Rapid Valley would be highly motivated by a single 2027 1st-round pick plus Wan'Dale Robinson. Corgi Loaf should remove the 2028 1st-round pick from the proposed deal before sending.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.7,
+              "davi": 83.6,
+              "publicMarket": 62,
+              "leagueMarket": 65.7
+            }
+          ],
+          "receive": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 78,
+              "leagueMarket": 82
+            }
+          ],
+          "whyUserShouldDoIt": "Achieves the exact same starting RB2 upgrade (+19.9 C-AVI over Aaron Jones) while retaining your 2028 1st-round pick for future mid-season flexibility or long-term liquidity.",
+          "whyOpponentMightAccept": "Rapid Valley receives a premium 2027 1st-round draft pick and a 25-year-old starter in Wan'Dale Robinson, providing ideal rebuild assets for a young running back."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 76,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.7,
+              "davi": 83.6,
+              "publicMarket": 62,
+              "leagueMarket": 65.7
+            }
+          ],
+          "receive": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 76.2,
+              "davi": 89.3,
+              "publicMarket": 78,
+              "leagueMarket": 82
+            }
+          ],
+          "rationale": "Alternative option using the 2028 1st-round pick instead of the 2027 1st-round pick if Corgi Loaf prefers keeping earlier draft capital."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Quinshon Judkins NFL team 2026 draft status fantasy",
+          "Wandale Robinson fantasy outlook 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE32tz4somL8OQsFFuhElPTiTPEMv8HSjjfqOCdRYNttEU3hstpVlp78kSgt1PenW7Xdi64OX9mV_2m8BxWg2L280nfYVG5s1OKHiJY_pFJkjM9KVaMawtTkifh_OdZAy3mJcWGoiojKSpfK9uEhBz0kmnan3x6vM7oiI5WZWrA3v2iwQ=",
+            "title": "establishtherun.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_07BkEVoNC7wejNfxtsYSfwrmMxTLH6t3VqN7X_VPr605f_mgk-5xFpY2SPJzJJebXRXmmlMn9g3nFMVcT4_O4VKQOl-G32Y-gYiIUqmOkazZRnzk8rKIIW-cxqXIMvpXhHDkce5fCo4gT-V1J-hHd-2pEZtBC5-QQTvUyCfpxZtLmw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLXfSrIbF9uNd6ab0ynZgbaiN575n9Yz5Kch8ofzykpD3z9I47Dt2bOHSYEbTdFhFliaeO76gTIQFj9cZwHcIMecoF9pcqFyF4kfIV3z-NBL0VY6gL670Zzx8L5Fi9JXeNQSY2-O2UPCwpAAwRmyN4kaG5FPwGfWx9Q0X7Xys2EknNmBEqLcip4nZlM41EcDQxvG9G5KKvP4ED",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPycAmOOVB-NTPHk-HyH00EWU-P6pBjY3B9do3Pv-4_YmmfppZz2f9073GBKX4w_3Ibs4qW6aKJ7G6qS27Z1H7DNJhz5yuVAC7tUAuR55Y-nOncWhMLLMw8o-W9Iq2zps=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFixa2ZXnZZGV0-j5dmv83awYdvRSz32A27vrw2y-4ctOIxHptIUHErGDE7WiFP90ROBIe2KZCtaAUXGom9Nyi9DrONd5t8RrJqm_BbgdcS3QLNmOl9T9upwDuo33U-YyQpZR_2ikET94bLToBYEA5zjex0z1PG_swiSvI0sM9VzBp0zjePtiKV1w==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiPhs6Zahd-6LJxWg_1IhPUm8MzjSxLNgmNPxHxyaohFpHbh8Q8Ne2M-ojY2OtbRVQA0jXpvItPFA4B4Mh0PntqgD0wkDd_FaYRA4TtiaXRba4lPe4fbcGyCk4plqjCg==",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGpqL8wzDkjwSQuiuFBD3fyklOllAbxFORimaiI7Wq5NX-laMCo2Sxm-xJy_JGE0h81VpHxAlrupugiGp4kietnTdGbhxqxfUX8Tp9ss8GROFJMRWDRKGAgfvXEtSypB0OyxwRxCLVrGkyALl91PEmmOl9pHOvPOAfx8Ln8gazE_Moz6wD6_PZeOeEsRRuQPeMB2jtkDBfTSRRpNaBt74bk-uPzz1ow4EAndwpdjLOUdJELXISULQ=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAMrSw7UyyZ4KFJ-F4xceN2iT3m_TPRoE8hddGiO0aLbUZhiPqNbbNGXFQKgQ_-k_WkIS53oK8FNF6JCjDof6Chi-d_-6EPBDGbnYdtthdfsovRcn202cS14rAYrnxc0vIMt77GFU-xjRtHWfgQ8XrUFtZ_uw5zuU6dsOJu2E=",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "e9e47d0fb00a325d12b103e9a947d0da078762c3",
+        "aviCoreCommittedAt": "2026-08-15T15:11:35Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 72020,
+        "groundedMarketChars": 2708,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true
+      }
+    }
+  },
+  {
     "id": "mstnr9x8-0824183f",
     "createdAt": 1786754987882,
     "expiresAt": 1787186987882,
