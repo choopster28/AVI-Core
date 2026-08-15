@@ -5,29 +5,29 @@
   "roster_id": 9,
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 13, 2026",
-  "generated_at": "2026-08-13T10:58:56.114120-06:00",
+  "reporting_period": "Week of August 14, 2026",
+  "generated_at": "2026-08-14T20:05:02.730767-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
-  "executive_summary": "Big Balder Brand is projected #1 of 16 with a 737.30 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Big Balder Brand is projected #1 of 16 with a 734.20 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and A.J. Brown. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
     "rank": 1,
     "league_size": 16,
-    "score": 737.3,
+    "score": 734.2,
     "team_above": null,
     "team_below": {
       "name": "Conquistadors",
       "rank": 2,
-      "score": 721.2,
-      "gap": 16.09999999999991
+      "score": 724.5,
+      "gap": 9.700000000000045
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 10,
+    "rank": 8,
     "league_size": 16,
-    "score": 1851.7,
-    "player_d_avi": 1249.7,
+    "score": 1894.2,
+    "player_d_avi": 1292.2,
     "future_pick_d_avi": 602.0,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -39,12 +39,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Protect the league-leading projection and avoid replacing Jaxson Dart unless the incoming option clearly exceeds 83.4 C-AVI."
+    "Protect the league-leading projection and avoid replacing Jaxson Dart unless the incoming option clearly exceeds 82.0 C-AVI."
   ],
   "rival_below": {
     "franchise_name": "Conquistadors",
     "projected_rank": 2,
-    "projected_score": 721.2,
+    "projected_score": 724.5,
     "latest_trade": {
       "transaction_id": "1390168785905782784",
       "created_at": "2026-08-04T00:49:35.949000+00:00",
@@ -65,12 +65,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #1 of 16 at 737.30 lineup C-AVI. Conquistadors is immediately behind at 721.20."
+      "body": "Projected #1 of 16 at 734.20 lineup C-AVI. Conquistadors is immediately behind at 724.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (96.0), and A.J. Brown (93.6)."
+      "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (96.1), and A.J. Brown (93.2)."
     },
     {
       "id": "latest-trade-impact",
@@ -80,9 +80,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Protect the league-leading projection and avoid replacing Jaxson Dart unless the incoming option clearly exceeds 83.4 C-AVI.",
+      "body": "Protect the league-leading projection and avoid replacing Jaxson Dart unless the incoming option clearly exceeds 82.0 C-AVI.",
       "items": [
-        "Protect the league-leading projection and avoid replacing Jaxson Dart unless the incoming option clearly exceeds 83.4 C-AVI."
+        "Protect the league-leading projection and avoid replacing Jaxson Dart unless the incoming option clearly exceeds 82.0 C-AVI."
       ]
     },
     {
@@ -93,7 +93,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jaxson Dart is the lowest C-AVI starter in the verified championship lineup at 83.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Jaxson Dart is the lowest C-AVI starter in the verified championship lineup at 82.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -112,7 +112,7 @@
       "AVI-Core/knowledge/teams/09_Big_Balder_Brand.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-13",
+    "source_last_updated": "2026-08-14",
     "external_sources_used": false,
     "conversation_context_used": false
   }

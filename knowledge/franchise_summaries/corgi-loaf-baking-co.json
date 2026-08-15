@@ -5,34 +5,34 @@
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 13, 2026",
-  "generated_at": "2026-08-13T10:58:56.114120-06:00",
+  "reporting_period": "Week of August 14, 2026",
+  "generated_at": "2026-08-14T20:05:02.730767-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #3 of 16 with a 664.50 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #3 of 16 with a 668.00 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 3,
     "league_size": 16,
-    "score": 664.5,
+    "score": 668.0,
     "team_above": {
       "name": "Conquistadors",
       "rank": 2,
-      "score": 721.2,
-      "gap": 56.700000000000045
+      "score": 724.5,
+      "gap": 56.5
     },
     "team_below": {
       "name": "Mile High Royal Lions",
       "rank": 4,
-      "score": 662.4,
-      "gap": 2.1000000000000227
+      "score": 665.1,
+      "gap": 2.8999999999999773
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 11,
     "league_size": 16,
-    "score": 1788.7,
-    "player_d_avi": 1283.4,
+    "score": 1797.7,
+    "player_d_avi": 1292.4,
     "future_pick_d_avi": 505.3,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Christian Watson's 71.7 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.70-point projected gap to Conquistadors."
+    "Raise the FLEX slot above Christian Watson's 72.0 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.50-point projected gap to Conquistadors."
   ],
   "rival_below": {
     "franchise_name": "Mile High Royal Lions",
     "projected_rank": 4,
-    "projected_score": 662.4,
+    "projected_score": 665.1,
     "latest_trade": {
       "transaction_id": "1387942050321678336",
       "created_at": "2026-07-28T21:21:20.815000+00:00",
@@ -70,7 +70,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #3 of 16 at 664.50 lineup C-AVI. Conquistadors is immediately above at 721.20, a gap of 56.70. Mile High Royal Lions is immediately behind at 662.40."
+      "body": "Projected #3 of 16 at 668.00 lineup C-AVI. Conquistadors is immediately above at 724.50, a gap of 56.50. Mile High Royal Lions is immediately behind at 665.10."
     },
     {
       "id": "competitive-core",
@@ -85,9 +85,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Christian Watson's 71.7 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.70-point projected gap to Conquistadors.",
+      "body": "Raise the FLEX slot above Christian Watson's 72.0 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.50-point projected gap to Conquistadors.",
       "items": [
-        "Raise the FLEX slot above Christian Watson's 71.7 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.70-point projected gap to Conquistadors."
+        "Raise the FLEX slot above Christian Watson's 72.0 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.50-point projected gap to Conquistadors."
       ]
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Christian Watson is the lowest C-AVI starter in the verified championship lineup at 71.7. Any acquisition should clear that exact lineup threshold."
+      "body": "Christian Watson is the lowest C-AVI starter in the verified championship lineup at 72.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -117,7 +117,7 @@
       "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-13",
+    "source_last_updated": "2026-08-14",
     "external_sources_used": false,
     "conversation_context_used": false
   }

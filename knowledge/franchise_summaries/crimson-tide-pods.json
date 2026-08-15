@@ -5,34 +5,34 @@
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 13, 2026",
-  "generated_at": "2026-08-13T10:58:56.114120-06:00",
+  "reporting_period": "Week of August 14, 2026",
+  "generated_at": "2026-08-14T20:05:02.730767-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 550.20 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the TE slot without weakening that core.",
+  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 552.00 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the TE slot without weakening that core.",
   "projected_power": {
     "rank": 14,
     "league_size": 16,
-    "score": 550.2,
+    "score": 552.0,
     "team_above": {
       "name": "Phalhala or Bust",
       "rank": 13,
-      "score": 558.0,
-      "gap": 7.7999999999999545
+      "score": 558.3,
+      "gap": 6.2999999999999545
     },
     "team_below": {
       "name": "Rapid Valley Annihilation",
       "rank": 15,
-      "score": 534.3,
-      "gap": 15.900000000000091
+      "score": 535.5,
+      "gap": 16.5
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 2,
     "league_size": 16,
-    "score": 2232.8,
-    "player_d_avi": 1164.3,
+    "score": 2234.8,
+    "player_d_avi": 1166.3,
     "future_pick_d_avi": 1068.5,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Oronde Gadsden's 55.5 C-AVI baseline; a replacement near 63.3 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust."
+    "Raise the TE slot above Oronde Gadsden's 55.8 C-AVI baseline; a replacement near 62.1 C-AVI would directly attack the 6.30-point projected gap to Phalhala or Bust."
   ],
   "rival_below": {
     "franchise_name": "Rapid Valley Annihilation",
     "projected_rank": 15,
-    "projected_score": 534.3,
+    "projected_score": 535.5,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1393399091542622209",
@@ -64,12 +64,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 550.20 lineup C-AVI. Phalhala or Bust is immediately above at 558.00, a gap of 7.80. Rapid Valley Annihilation is immediately behind at 534.30."
+      "body": "Projected #14 of 16 at 552.00 lineup C-AVI. Phalhala or Bust is immediately above at 558.30, a gap of 6.30. Rapid Valley Annihilation is immediately behind at 535.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are DeVonta Smith (87.3), Alec Pierce (74.2), and Justin Herbert (70.6)."
+      "body": "The three highest C-AVI starters are DeVonta Smith (87.4), Alec Pierce (74.3), and Justin Herbert (70.1)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,9 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Oronde Gadsden's 55.5 C-AVI baseline; a replacement near 63.3 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust.",
+      "body": "Raise the TE slot above Oronde Gadsden's 55.8 C-AVI baseline; a replacement near 62.1 C-AVI would directly attack the 6.30-point projected gap to Phalhala or Bust.",
       "items": [
-        "Raise the TE slot above Oronde Gadsden's 55.5 C-AVI baseline; a replacement near 63.3 C-AVI would directly attack the 7.80-point projected gap to Phalhala or Bust."
+        "Raise the TE slot above Oronde Gadsden's 55.8 C-AVI baseline; a replacement near 62.1 C-AVI would directly attack the 6.30-point projected gap to Phalhala or Bust."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Oronde Gadsden is the lowest C-AVI starter in the verified championship lineup at 55.5. Any acquisition should clear that exact lineup threshold."
+      "body": "Oronde Gadsden is the lowest C-AVI starter in the verified championship lineup at 55.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/16_Crimson_Tide_Pods.md"
     ],
-    "source_last_updated": "2026-08-13",
+    "source_last_updated": "2026-08-14",
     "external_sources_used": false,
     "conversation_context_used": false
   }

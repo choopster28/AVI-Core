@@ -5,34 +5,34 @@
   "roster_id": 10,
   "owner_display_name": "AlexPete6800",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 13, 2026",
-  "generated_at": "2026-08-13T10:58:56.114120-06:00",
+  "reporting_period": "Week of August 14, 2026",
+  "generated_at": "2026-08-14T20:05:02.730767-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
-  "executive_summary": "SmokyValleyWheatWarriors is projected #5 of 16 with a 656.60 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and Chris Olave. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "SmokyValleyWheatWarriors is projected #5 of 16 with a 662.10 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and James Cook. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 5,
     "league_size": 16,
-    "score": 656.6,
+    "score": 662.1,
     "team_above": {
       "name": "Mile High Royal Lions",
       "rank": 4,
-      "score": 662.4,
-      "gap": 5.7999999999999545
+      "score": 665.1,
+      "gap": 3.0
     },
     "team_below": {
       "name": "Ravens Regime",
       "rank": 6,
-      "score": 647.6,
-      "gap": 9.0
+      "score": 653.0,
+      "gap": 9.100000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 12,
     "league_size": 16,
-    "score": 1777.5,
-    "player_d_avi": 1068.2,
+    "score": 1781.6,
+    "player_d_avi": 1072.3,
     "future_pick_d_avi": 709.3,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Josh Downs's 64.1 C-AVI baseline; a replacement near 69.9 C-AVI would directly attack the 5.80-point projected gap to Mile High Royal Lions."
+    "Raise the FLEX slot above Josh Downs's 64.4 C-AVI baseline; a replacement near 67.4 C-AVI would directly attack the 3.00-point projected gap to Mile High Royal Lions."
   ],
   "rival_below": {
     "franchise_name": "Ravens Regime",
     "projected_rank": 6,
-    "projected_score": 647.6,
+    "projected_score": 653.0,
     "latest_trade": {
-      "transaction_id": "1386987441226792960",
-      "created_at": "2026-07-26T06:08:04.271000+00:00",
+      "transaction_id": "1394090507352690688",
+      "created_at": "2026-08-14T20:33:07.203000+00:00",
       "type": "trade",
-      "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime).",
+      "summary": "On August 14, Ravens Regime completed a trade with Gringo\u2019s Goblins and acquired Jacory Croskey-Merritt, Davante Adams, 2028 Round 2 (Gringo\u2019s Goblins) and sent Romeo Doubs, Jameson Williams.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1386987441226792960",
-      "created_at": "2026-07-26T06:08:04.271000+00:00",
+      "transaction_id": "1394090507352690688",
+      "created_at": "2026-08-14T20:33:07.203000+00:00",
       "type": "trade",
-      "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime).",
+      "summary": "On August 14, Ravens Regime completed a trade with Gringo\u2019s Goblins and acquired Jacory Croskey-Merritt, Davante Adams, 2028 Round 2 (Gringo\u2019s Goblins) and sent Romeo Doubs, Jameson Williams.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime)."
+    "summary": "On August 14, Ravens Regime completed a trade with Gringo\u2019s Goblins and acquired Jacory Croskey-Merritt, Davante Adams, 2028 Round 2 (Gringo\u2019s Goblins) and sent Romeo Doubs, Jameson Williams."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #5 of 16 at 656.60 lineup C-AVI. Mile High Royal Lions is immediately above at 662.40, a gap of 5.80. Ravens Regime is immediately behind at 647.60."
+      "body": "Projected #5 of 16 at 662.10 lineup C-AVI. Mile High Royal Lions is immediately above at 665.10, a gap of 3.00. Ravens Regime is immediately behind at 653.00."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are CeeDee Lamb (97.6), Christian McCaffrey (97.4), and Chris Olave (94.3)."
+      "body": "The three highest C-AVI starters are CeeDee Lamb (97.6), Christian McCaffrey (97.5), and James Cook (94.4)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Josh Downs's 64.1 C-AVI baseline; a replacement near 69.9 C-AVI would directly attack the 5.80-point projected gap to Mile High Royal Lions.",
+      "body": "Raise the FLEX slot above Josh Downs's 64.4 C-AVI baseline; a replacement near 67.4 C-AVI would directly attack the 3.00-point projected gap to Mile High Royal Lions.",
       "items": [
-        "Raise the FLEX slot above Josh Downs's 64.1 C-AVI baseline; a replacement near 69.9 C-AVI would directly attack the 5.80-point projected gap to Mile High Royal Lions."
+        "Raise the FLEX slot above Josh Downs's 64.4 C-AVI baseline; a replacement near 67.4 C-AVI would directly attack the 3.00-point projected gap to Mile High Royal Lions."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 26, Ravens Regime completed a trade with Corgi Loaf Baking Co. and acquired Isaac TeSlaa, Kyle Pitts, 2026 Round 1 (Rapid Valley Annihilation) and sent Tyler Warren, 2026 Round 1 (Ravens Regime), 2028 Round 1 (Ravens Regime)."
+      "body": "On August 14, Ravens Regime completed a trade with Gringo\u2019s Goblins and acquired Jacory Croskey-Merritt, Davante Adams, 2028 Round 2 (Gringo\u2019s Goblins) and sent Romeo Doubs, Jameson Williams."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Josh Downs is the lowest C-AVI starter in the verified championship lineup at 64.1. Any acquisition should clear that exact lineup threshold."
+      "body": "Josh Downs is the lowest C-AVI starter in the verified championship lineup at 64.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -117,7 +117,7 @@
       "AVI-Core/knowledge/teams/10_SmokyValleyWheatWarriors.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-13",
+    "source_last_updated": "2026-08-14",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -5,34 +5,34 @@
   "roster_id": 12,
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 13, 2026",
-  "generated_at": "2026-08-13T10:58:56.114120-06:00",
+  "reporting_period": "Week of August 14, 2026",
+  "generated_at": "2026-08-14T20:05:02.730767-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
-  "executive_summary": "DMV Fantasy is projected #11 of 16 with a 579.40 projected-starting-lineup C-AVI total, led by Jayden Daniels, Breece Hall, and George Kittle. The immediate priority is improving the WR slot without weakening that core.",
+  "executive_summary": "DMV Fantasy is projected #11 of 16 with a 584.20 projected-starting-lineup C-AVI total, led by Jayden Daniels, Breece Hall, and George Kittle. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
     "rank": 11,
     "league_size": 16,
-    "score": 579.4,
+    "score": 584.2,
     "team_above": {
       "name": "Lightskin Legends \u270a\ud83c\udffd",
       "rank": 10,
-      "score": 590.8,
-      "gap": 11.399999999999977
+      "score": 592.8,
+      "gap": 8.599999999999909
     },
     "team_below": {
       "name": "Gringo\u2019s Goblins",
       "rank": 12,
-      "score": 565.6,
-      "gap": 13.799999999999955
+      "score": 568.6,
+      "gap": 15.600000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 5,
     "league_size": 16,
-    "score": 1985.0,
-    "player_d_avi": 1115.1,
+    "score": 1987.0,
+    "player_d_avi": 1117.1,
     "future_pick_d_avi": 869.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,32 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the WR slot above Khalil Shakir's 56.3 C-AVI baseline; a replacement near 67.7 C-AVI would directly attack the 11.40-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
+    "Raise the WR slot above Khalil Shakir's 56.7 C-AVI baseline; a replacement near 65.3 C-AVI would directly attack the 8.60-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
   ],
   "rival_below": {
     "franchise_name": "Gringo\u2019s Goblins",
     "projected_rank": 12,
-    "projected_score": 565.6,
-    "latest_trade": null,
-    "latest_activity": {
-      "transaction_id": "1389820420823195648",
-      "created_at": "2026-08-03T01:45:19.241000+00:00",
-      "type": "free_agent",
-      "summary": "On August 2, Gringo\u2019s Goblins completed a free-agent move and added Cooper DeJean while dropped Jaylen Wright.",
+    "projected_score": 568.6,
+    "latest_trade": {
+      "transaction_id": "1394090507352690688",
+      "created_at": "2026-08-14T20:33:07.203000+00:00",
+      "type": "trade",
+      "summary": "On August 14, Gringo\u2019s Goblins completed a trade with Ravens Regime and acquired Romeo Doubs, Jameson Williams and sent Jacory Croskey-Merritt, Davante Adams, 2028 Round 2 (Gringo\u2019s Goblins).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 2, Gringo\u2019s Goblins completed a free-agent move and added Cooper DeJean while dropped Jaylen Wright."
+    "latest_activity": {
+      "transaction_id": "1394090507352690688",
+      "created_at": "2026-08-14T20:33:07.203000+00:00",
+      "type": "trade",
+      "summary": "On August 14, Gringo\u2019s Goblins completed a trade with Ravens Regime and acquired Romeo Doubs, Jameson Williams and sent Jacory Croskey-Merritt, Davante Adams, 2028 Round 2 (Gringo\u2019s Goblins).",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On August 14, Gringo\u2019s Goblins completed a trade with Ravens Regime and acquired Romeo Doubs, Jameson Williams and sent Jacory Croskey-Merritt, Davante Adams, 2028 Round 2 (Gringo\u2019s Goblins)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #11 of 16 at 579.40 lineup C-AVI. Lightskin Legends \u270a\ud83c\udffd is immediately above at 590.80, a gap of 11.40. Gringo\u2019s Goblins is immediately behind at 565.60."
+      "body": "Projected #11 of 16 at 584.20 lineup C-AVI. Lightskin Legends \u270a\ud83c\udffd is immediately above at 592.80, a gap of 8.60. Gringo\u2019s Goblins is immediately behind at 568.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jayden Daniels (95.3), Breece Hall (88.0), and George Kittle (78.4)."
+      "body": "The three highest C-AVI starters are Jayden Daniels (95.7), Breece Hall (88.3), and George Kittle (79.2)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Khalil Shakir's 56.3 C-AVI baseline; a replacement near 67.7 C-AVI would directly attack the 11.40-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
+      "body": "Raise the WR slot above Khalil Shakir's 56.7 C-AVI baseline; a replacement near 65.3 C-AVI would directly attack the 8.60-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
       "items": [
-        "Raise the WR slot above Khalil Shakir's 56.3 C-AVI baseline; a replacement near 67.7 C-AVI would directly attack the 11.40-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
+        "Raise the WR slot above Khalil Shakir's 56.7 C-AVI baseline; a replacement near 65.3 C-AVI would directly attack the 8.60-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 2, Gringo\u2019s Goblins completed a free-agent move and added Cooper DeJean while dropped Jaylen Wright."
+      "body": "On August 14, Gringo\u2019s Goblins completed a trade with Ravens Regime and acquired Romeo Doubs, Jameson Williams and sent Jacory Croskey-Merritt, Davante Adams, 2028 Round 2 (Gringo\u2019s Goblins)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Khalil Shakir is the lowest C-AVI starter in the verified championship lineup at 56.3. Any acquisition should clear that exact lineup threshold."
+      "body": "Khalil Shakir is the lowest C-AVI starter in the verified championship lineup at 56.7. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -108,9 +114,10 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/12_DMV_Fantasy.md"
+      "AVI-Core/knowledge/teams/12_DMV_Fantasy.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-13",
+    "source_last_updated": "2026-08-14",
     "external_sources_used": false,
     "conversation_context_used": false
   }

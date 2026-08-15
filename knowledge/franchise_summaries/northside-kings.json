@@ -5,29 +5,29 @@
   "roster_id": 5,
   "owner_display_name": "srsmith95",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 13, 2026",
-  "generated_at": "2026-08-13T10:58:56.114120-06:00",
+  "reporting_period": "Week of August 14, 2026",
+  "generated_at": "2026-08-14T20:05:02.730767-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Northside Kings: Preseason Front Office Brief",
-  "executive_summary": "Northside Kings is projected #16 of 16 with a 495.10 projected-starting-lineup C-AVI total, led by Mike Evans, Bhayshul Tuten, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Northside Kings is projected #16 of 16 with a 498.50 projected-starting-lineup C-AVI total, led by Bhayshul Tuten, Mike Evans, and RJ Harvey. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
     "rank": 16,
     "league_size": 16,
-    "score": 495.1,
+    "score": 498.5,
     "team_above": {
       "name": "Rapid Valley Annihilation",
       "rank": 15,
-      "score": 534.3,
-      "gap": 39.19999999999993
+      "score": 535.5,
+      "gap": 37.0
     },
     "team_below": null,
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 4,
+    "rank": 3,
     "league_size": 16,
-    "score": 1995.6,
-    "player_d_avi": 1217.0,
+    "score": 1999.0,
+    "player_d_avi": 1220.4,
     "future_pick_d_avi": 778.6,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -39,19 +39,19 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the QB slot above Jordan Love's 51.3 C-AVI baseline; a replacement near 90.5 C-AVI would directly attack the 39.20-point projected gap to Rapid Valley Annihilation."
+    "Raise the QB slot above Jordan Love's 51.0 C-AVI baseline; a replacement near 88.0 C-AVI would directly attack the 37.00-point projected gap to Rapid Valley Annihilation."
   ],
   "rival_below": null,
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #16 of 16 at 495.10 lineup C-AVI. Rapid Valley Annihilation is immediately above at 534.30, a gap of 39.20."
+      "body": "Projected #16 of 16 at 498.50 lineup C-AVI. Rapid Valley Annihilation is immediately above at 535.50, a gap of 37.00."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Mike Evans (73.2), Bhayshul Tuten (72.7), and RJ Harvey (62.6)."
+      "body": "The three highest C-AVI starters are Bhayshul Tuten (73.5), Mike Evans (73.3), and RJ Harvey (63.5)."
     },
     {
       "id": "latest-trade-impact",
@@ -61,9 +61,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above Jordan Love's 51.3 C-AVI baseline; a replacement near 90.5 C-AVI would directly attack the 39.20-point projected gap to Rapid Valley Annihilation.",
+      "body": "Raise the QB slot above Jordan Love's 51.0 C-AVI baseline; a replacement near 88.0 C-AVI would directly attack the 37.00-point projected gap to Rapid Valley Annihilation.",
       "items": [
-        "Raise the QB slot above Jordan Love's 51.3 C-AVI baseline; a replacement near 90.5 C-AVI would directly attack the 39.20-point projected gap to Rapid Valley Annihilation."
+        "Raise the QB slot above Jordan Love's 51.0 C-AVI baseline; a replacement near 88.0 C-AVI would directly attack the 37.00-point projected gap to Rapid Valley Annihilation."
       ]
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jordan Love is the lowest C-AVI starter in the verified championship lineup at 51.3. Any acquisition should clear that exact lineup threshold."
+      "body": "Jordan Love is the lowest C-AVI starter in the verified championship lineup at 51.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -92,7 +92,7 @@
     "files": [
       "AVI-Core/knowledge/teams/05_Northside_Kings.md"
     ],
-    "source_last_updated": "2026-08-13",
+    "source_last_updated": "2026-08-14",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -5,34 +5,34 @@
   "roster_id": 14,
   "owner_display_name": "PIFYAF",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 13, 2026",
-  "generated_at": "2026-08-13T10:58:56.114120-06:00",
+  "reporting_period": "Week of August 14, 2026",
+  "generated_at": "2026-08-14T20:05:02.730767-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Phalhala or Bust: Preseason Front Office Brief",
-  "executive_summary": "Phalhala or Bust is projected #13 of 16 with a 558.00 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Phalhala or Bust is projected #13 of 16 with a 558.30 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 558.0,
+    "score": 558.3,
     "team_above": {
       "name": "Gringo\u2019s Goblins",
       "rank": 12,
-      "score": 565.6,
-      "gap": 7.600000000000023
+      "score": 568.6,
+      "gap": 10.300000000000068
     },
     "team_below": {
       "name": "Crimson Tide Pods",
       "rank": 14,
-      "score": 550.2,
-      "gap": 7.7999999999999545
+      "score": 552.0,
+      "gap": 6.2999999999999545
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 14,
     "league_size": 16,
-    "score": 1746.1,
-    "player_d_avi": 1005.5,
+    "score": 1744.1,
+    "player_d_avi": 1003.5,
     "future_pick_d_avi": 740.6,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the QB slot above C.J. Stroud's 48.2 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 7.60-point projected gap to Gringo\u2019s Goblins."
+    "Raise the QB slot above C.J. Stroud's 47.8 C-AVI baseline; a replacement near 58.1 C-AVI would directly attack the 10.30-point projected gap to Gringo\u2019s Goblins."
   ],
   "rival_below": {
     "franchise_name": "Crimson Tide Pods",
     "projected_rank": 14,
-    "projected_score": 550.2,
+    "projected_score": 552.0,
     "latest_trade": {
       "transaction_id": "1390168785905782784",
       "created_at": "2026-08-04T00:49:35.949000+00:00",
@@ -70,12 +70,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #13 of 16 at 558.00 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 565.60, a gap of 7.60. Crimson Tide Pods is immediately behind at 550.20."
+      "body": "Projected #13 of 16 at 558.30 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 568.60, a gap of 10.30. Crimson Tide Pods is immediately behind at 552.00."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ashton Jeanty (96.8), Sam LaPorta (86.2), and Rome Odunze (77.5)."
+      "body": "The three highest C-AVI starters are Ashton Jeanty (96.9), Sam LaPorta (86.7), and Rome Odunze (78.3)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,9 +85,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above C.J. Stroud's 48.2 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 7.60-point projected gap to Gringo\u2019s Goblins.",
+      "body": "Raise the QB slot above C.J. Stroud's 47.8 C-AVI baseline; a replacement near 58.1 C-AVI would directly attack the 10.30-point projected gap to Gringo\u2019s Goblins.",
       "items": [
-        "Raise the QB slot above C.J. Stroud's 48.2 C-AVI baseline; a replacement near 55.8 C-AVI would directly attack the 7.60-point projected gap to Gringo\u2019s Goblins."
+        "Raise the QB slot above C.J. Stroud's 47.8 C-AVI baseline; a replacement near 58.1 C-AVI would directly attack the 10.30-point projected gap to Gringo\u2019s Goblins."
       ]
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "C.J. Stroud is the lowest C-AVI starter in the verified championship lineup at 48.2. Any acquisition should clear that exact lineup threshold."
+      "body": "C.J. Stroud is the lowest C-AVI starter in the verified championship lineup at 47.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -117,7 +117,7 @@
       "AVI-Core/knowledge/teams/14_Phalhala_or_Bust.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-13",
+    "source_last_updated": "2026-08-14",
     "external_sources_used": false,
     "conversation_context_used": false
   }

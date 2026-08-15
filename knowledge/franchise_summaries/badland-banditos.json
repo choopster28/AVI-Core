@@ -5,34 +5,34 @@
   "roster_id": 7,
   "owner_display_name": "IcebergSlim69",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 13, 2026",
-  "generated_at": "2026-08-13T10:58:56.114120-06:00",
+  "reporting_period": "Week of August 14, 2026",
+  "generated_at": "2026-08-14T20:05:02.730767-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Badland Banditos: Preseason Front Office Brief",
-  "executive_summary": "Badland Banditos is projected #9 of 16 with a 623.90 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Badland Banditos is projected #9 of 16 with a 626.80 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 623.9,
+    "score": 626.8,
     "team_above": {
       "name": "All Hail King Jesus",
       "rank": 8,
-      "score": 624.2,
-      "gap": 0.3000000000000682
+      "score": 627.7,
+      "gap": 0.900000000000091
     },
     "team_below": {
       "name": "Lightskin Legends \u270a\ud83c\udffd",
       "rank": 10,
-      "score": 590.8,
-      "gap": 33.10000000000002
+      "score": 592.8,
+      "gap": 34.0
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 3,
+    "rank": 4,
     "league_size": 16,
-    "score": 1997.2,
-    "player_d_avi": 1209.3,
+    "score": 1998.2,
+    "player_d_avi": 1210.3,
     "future_pick_d_avi": 787.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jayden Higgins's 52.7 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 0.30-point projected gap to All Hail King Jesus."
+    "Raise the FLEX slot above Jayden Higgins's 52.7 C-AVI baseline; a replacement near 53.6 C-AVI would directly attack the 0.90-point projected gap to All Hail King Jesus."
   ],
   "rival_below": {
     "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
     "projected_rank": 10,
-    "projected_score": 590.8,
+    "projected_score": 592.8,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1391842207605981184",
@@ -64,12 +64,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #9 of 16 at 623.90 lineup C-AVI. All Hail King Jesus is immediately above at 624.20, a gap of 0.30. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 590.80."
+      "body": "Projected #9 of 16 at 626.80 lineup C-AVI. All Hail King Jesus is immediately above at 627.70, a gap of 0.90. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 592.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.0), and Kenneth Walker (89.9)."
+      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.0), and Kenneth Walker (90.5)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,9 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jayden Higgins's 52.7 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 0.30-point projected gap to All Hail King Jesus.",
+      "body": "Raise the FLEX slot above Jayden Higgins's 52.7 C-AVI baseline; a replacement near 53.6 C-AVI would directly attack the 0.90-point projected gap to All Hail King Jesus.",
       "items": [
-        "Raise the FLEX slot above Jayden Higgins's 52.7 C-AVI baseline; a replacement near 53.0 C-AVI would directly attack the 0.30-point projected gap to All Hail King Jesus."
+        "Raise the FLEX slot above Jayden Higgins's 52.7 C-AVI baseline; a replacement near 53.6 C-AVI would directly attack the 0.90-point projected gap to All Hail King Jesus."
       ]
     },
     {
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/07_Badland_Banditos.md"
     ],
-    "source_last_updated": "2026-08-13",
+    "source_last_updated": "2026-08-14",
     "external_sources_used": false,
     "conversation_context_used": false
   }
