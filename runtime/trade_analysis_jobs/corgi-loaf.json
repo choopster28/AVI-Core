@@ -1,5 +1,39 @@
 [
   {
+    "id": "mstmhuvr-2b66ca53",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Lightskin Legends",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Christian Watson",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Chase Brown",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786752819351,
+    "updatedAt": 1786752819351,
+    "expiresAt": 1787184819351,
+    "status": "queued"
+  },
+  {
     "id": "mstfb8fv-bedc4f50",
     "phase": "initial",
     "mode": "analyze_trade",
