@@ -1,5 +1,33 @@
 [
   {
+    "id": "msv0oct8-f31b127e",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "KC Concepcion",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Davante Adams",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786837103324,
+    "updatedAt": 1786837103324,
+    "expiresAt": 1787269103324,
+    "status": "queued"
+  },
+  {
     "id": "mstej5wk-fabe62e3",
     "phase": "initial",
     "mode": "propose_trade",
