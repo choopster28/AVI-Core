@@ -1,5 +1,43 @@
 [
   {
+    "id": "msv1djok-26934acb",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "DMV Fantasy",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2029 1st · Balder · Projected late range (1.10–1.16)",
+            "assetType": "pick"
+          },
+          {
+            "name": "Jaxson Dart",
+            "assetType": "player"
+          },
+          {
+            "name": "Chris Godwin",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jayden Daniels",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786838278628,
+    "updatedAt": 1786838278628,
+    "expiresAt": 1787270278628,
+    "status": "queued"
+  },
+  {
     "id": "msv1az0r-97a90e14",
     "phase": "initial",
     "mode": "analyze_trade",
