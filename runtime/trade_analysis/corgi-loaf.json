@@ -1,5 +1,352 @@
 [
   {
+    "id": "mstmhuvr-2b66ca53",
+    "createdAt": 1786752872465,
+    "expiresAt": 1787184872465,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Corgi Loaf Baking Co. ↔ Lightskin Legends",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Lightskin Legends",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Christian Watson",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Chase Brown",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. executes a championship-defining upgrade by packaging Christian Watson and a 2028 1st-round pick to acquire elite RB1 Chase Brown from Lightskin Legends. In Autobots' 16-team PPR format where starting-caliber RBs are scarce, Chase Brown (96.5 C-AVI) instantly elevates Corgi's weekly lineup ceiling by +24.5 C-AVI points, establishing a high-floor RB duo of Chase Brown and Cam Skattebo while pushing D'Andre Swift and DJ Moore into FLEX positions. For Lightskin Legends (Retooling), swapping a 26-year-old running back for a locked-in Green Bay WR1 and premium future draft capital directly aligns with their organizational objective. AVI strongly advises Accepting this proposal.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 80,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.5,
+              "davi": 94.9,
+              "publicMarket": 92,
+              "leagueMarket": 96.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 56,
+            "otherShare": 44,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. converts a luxury WR depth piece (Christian Watson) and a distant 2028 1st-round pick into high-end RB1 production (Chase Brown). In a 16-team league starting 2 RBs and 2 FLEXes, Chase Brown moves into RB1, shifting Cam Skattebo to RB2, D'Andre Swift to FLEX1, and DJ Moore to FLEX2, raising starting lineup C-AVI from 668.0 to 692.5 (+24.5 C-AVI net gain). Lightskin Legends successfully secures WR help and a premium future 1st to support their Retool goal."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 56,
+            "otherShare": 44,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "AVI endorses the submitted trade as constructed. Corgi Loaf Baking Co. achieves a major immediate win for its 'Win Championship' goal without compromising core roster structure."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 85,
+              "summary": "Acquiring a top-tier fantasy RB1 (278.7 projected PPR points) fundamentally increases current-season championship win probability."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Surrendering a 2028 1st pick reduces long-term draft capital liquidity, but acquiring a 26-year-old lead RB preserves immediate value."
+            },
+            "lineupQuality": {
+              "score": 80,
+              "summary": "Starting lineup C-AVI jumps from 668.0 to 692.5 by inserting Chase Brown at RB1 and pushing D'Andre Swift/DJ Moore down into FLEX slots."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Establishes a bulletproof 3-RB group (Brown, Skattebo, Swift) that protects Corgi against catastrophic RB injury risk."
+            },
+            "flexibilityLiquidity": {
+              "score": -35,
+              "summary": "Expends one 2028 1st-round draft pick, narrowing future trade-building currency."
+            },
+            "overall": {
+              "score": 12,
+              "summary": "Material net gain for Corgi Loaf Baking Co., driven by a +24.5 C-AVI starting lineup improvement and elite RB stabilization."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Reduces 2026 starting points by transferring Chase Brown's high-ceiling production out of the weekly lineup."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Gains a 27-year-old WR1 locked into a major NFL contract extension (Christian Watson) plus a liquid 2028 1st-round pick."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "Starting lineup C-AVI drops from 592.8 to 568.3 as Javonte Williams shifts up to RB2 and Christian Watson enters at WR1."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Thins running back depth behind Jonathan Taylor, though Javonte Williams remains a viable starter."
+            },
+            "flexibilityLiquidity": {
+              "score": 70,
+              "summary": "Adds a premium future 1st-round pick to rebuild roster liquidity and asset optionality."
+            },
+            "overall": {
+              "score": -12,
+              "summary": "Positive strategic shift for Lightskin Legends' Retool objective, converting immediate RB points into WR stability and future 1st draft equity."
+            }
+          },
+          "explanation": "This transaction benefits both organizations according to their verified operational goals. Corgi Loaf Baking Co. maximizes 2026 title odds by filling its biggest starting need (RB1) with Chase Brown, while Lightskin Legends successfully retools by pivoting away from running back variance to secure a primary WR target and future draft equity."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Transformative +24.5 C-AVI increase to Corgi's weekly starting lineup. Moving Chase Brown into RB1 allows Corgi to deploy Skattebo as RB2 and push Swift/Moore into FLEX slots, giving Corgi one of the highest weekly scoring floors in Autobots.",
+          "sideADynastyImpact": "Modest dynasty value exchange. Corgi relinquishes a distant 2028 1st (79.3 D-AVI) and Christian Watson (87.1 D-AVI) to acquire Chase Brown (94.9 D-AVI), consolidating two flexible pieces into a single high-value RB cornerstone.",
+          "sideARosterImpact": "Significantly strengthens the RB position while absorbing Watson's departure with Corgi's deep wide receiver room (Justin Jefferson, Malik Nabers, DJ Moore, Wan'Dale Robinson).",
+          "sideBChampionshipImpact": "Decreases current-year weekly ceiling (-24.5 starting C-AVI), shifting Javonte Williams into the mandatory RB2 slot and Watson into the starting WR room.",
+          "sideBDynastyImpact": "Strong dynasty asset accumulation (+166.4 combined incoming D-AVI vs 94.9 outgoing D-AVI), supplying Lightskin Legends with long-term roster elasticity and draft liquidity.",
+          "sideBRosterImpact": "Diversifies roster composition by converting surplus RB talent into WR starting depth and high-end draft capital.",
+          "valueAssessment": "Market-calibrated trade. The addition of a 2028 1st-round pick bridges the value delta between Christian Watson (72.0 C-AVI) and Chase Brown (96.5 C-AVI), compensating Lightskin Legends fairly for surrendering elite RB production."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Chase Brown as a locked-in high-end RB2/RB1 fringe starter following his 1,000-yard rushing and 400-yard receiving season in Cincinnati's elite offense. Christian Watson's public valuation has rebounded significantly after securing a 4-year, $110.5M contract extension with Green Bay as their clear WR1.",
+          "aviVsMarket": "AVI values Chase Brown slightly higher than redraft public market consensus due to 16-team positional scarcity at RB. Public market values Watson high on dynasty upside, but local league context penalizes his historical soft-tissue injury risk compared to RB volume.",
+          "relevantContext": [
+            "Christian Watson signed a 4-year, $110.5M extension with Green Bay in June 2026 with Romeo Doubs departing in FA and Dontayvion Wicks traded.",
+            "Chase Brown is entering Year 4 as Cincinnati's undisputed lead back with minimal touch competition behind him.",
+            "In 16-team PPR formats, 250+ projected touch RBs carry a substantial premium over WR2/FLEX assets."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Lightskin Legends is operating under a verified 'Retool' objective. Selling a 26-year-old running back before potential extension/workload drop-off to acquire a newly extended WR1 (Watson) plus a future 1st aligns with long-term roster construction.",
+          "packageFit": "Strong structural fit. Lightskin Legends improves its weak WR receiving corps (DK Metcalf, Parker Washington) while gaining future draft currency.",
+          "lineupReplacement": "Acceptable replacement path. Javonte Williams (81.7 C-AVI) moves smoothly into Lightskin Legends' RB2 slot alongside Jonathan Taylor.",
+          "competitiveWindowFit": "Directly matches Lightskin Legends' Retool timeline by shifting immediate win-now RB production into multi-year asset appreciation.",
+          "positionalScarcity": "High positional scarcity. RB1 production in 16-team leagues commands a noticeable market premium, justifying the inclusion of the 2028 1st."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 11,
+            "competitiveWindow": 6
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 77,
+          "classification": "Realistic",
+          "explanation": "Chase Brown is not publicly listed on the trade block, but his availability status is 'Unknown', which does not block analysis under Autobots protocol. Lightskin Legends' Retooling mandate, combined with Javonte Williams' ability to slot in at RB2 and the high-value draw of a 2028 1st, gives this proposal a 77% acceptance probability."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "This deal directly advances Corgi Loaf Baking Co.'s goal to Increase Championship Odds. Acquiring Chase Brown elevates starting lineup C-AVI by +24.5 points, giving Corgi an elite RB corps (Chase Brown, Cam Skattebo, D'Andre Swift) without stripping away core WR starters (Jefferson, Nabers, DJ Moore). The 2028 1st pick is a reasonable cost to convert WR depth into a true title-contending starting lineup.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Christian Watson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 72,
+              "davi": 87.1,
+              "publicMarket": 80,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.5,
+              "davi": 94.9,
+              "publicMarket": 92,
+              "leagueMarket": 96.5
+            }
+          ],
+          "whyUserShouldDoIt": "You add a 278.7 projected PPR point RB1 to anchor your offense alongside Cam Skattebo, raising your starting lineup score by +24.5 C-AVI points and strengthening your championship pursuit.",
+          "whyOpponentMightAccept": "Lightskin Legends receives an established WR1 locked into a long-term Green Bay contract extension plus a premium future 1st-round pick, perfectly fitting their Retool agenda while maintaining Javonte Williams as their RB2."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Christian Watson status NFL 2026",
+          "Christian Watson news 2026 fantasy football",
+          "Chase Brown news 2026 fantasy football",
+          "Chase Brown running back Cincinnati Bengals 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfoJvWiCrhiPTBVMNFmQGX11A5xog2xudISAijC4Aa2GGKEh5Ztw60pe4jUy0jDg8XQVJFJX1wg8Uhod7NagwBrMZ0uIvCcLkrQQE--h23EWXqS3zR3IKmonj_e5-fda7K2IAPSUPvdVquEBEIMluu1yCWraIwTSK-oIGvm0JktHH3AaQ=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGVHhxxP2_IJnWiIdyyXf3RzCAj94AmmwkAAvmNNECTRY18a6EohBIjDLJ2RarUSNTriML2hydfU844IgrxL_GWe9GECmARFjs7RtUEVkrk3roLUKzNfUsYQCjKnxuoG2-J5Qe4CFCvhHxooDOa4YVWcgMQnqhgdK4NfmSY70QnMSmLumEhMjwF_Akqc2Iveipmewbw57ULQQFe13tpYhdVO8q",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0H2OThQJkeSYOSeDeIlDOqk6yUOGJNP5UyMcES4QKRoM0X4bylXFuxaw_tx6x45yb_C4iwNuBNf1g-viKkErn98SGnKBFZCPaDjIK5N35tWsrlwWFGAV9F9hl9xWp-CXQcGPSW4cG5OZgF4xWc9BwSKYk9WgBaKVclfukBK2ykGPziO83VrlAIKFOtkNX7-z9c1nVhg5SbiMiRvANrg==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXDB0JjGFNFqqoeN2mJNxWVMg3TO1defSbGxbHatJoJ8NCkhafPxaBEepFGtdgs_suPqdz-0s4cYHQ3LR0PcosED-Rkh2QLV7z9-L58oVTr94tRWusr28uF5UdVJj3mI5sEaueVn7Nsi339MuGB8s2Z6CGfqZzJ8ao",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjSdSmZc77UiboWNfRR0FpIRh_sgWTIRLMoshZsAjpULuLpi1m_k9ykd3AVq3S_6a3Ur0zMN3zkHNcpOmXsYfvE-dCZ3XI8e0EzJWp0UUhjOCH2s-MLEyXMw6qjXpg632qLTSbXB4WCTM2iw_1bp65JTj880o=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwD5EjAbsqsCnM0Eb8gs9TyY1-8uHkISP0WMqpxHddT_hz4qYf98Bs_rNYhVX4YYsuXU-KJFkNXFIkYSCi0X-ntS65Fe6H7F3diARXvyXissx4IgP2wdh8BdoXClhPKk3jVYQA8NwjFtgTOAywMM-75PKvUJSduY01AzDQCpHBy4fWW29SEdbkHPlAfGgNQaKSv8=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCeTGCNs-zkRVmXKcj5V11DkTtayeF_upnwu_VZYy-7jTY8NASOPGTa2zC5ZZnBvh_KqGX6LKew_-sdjAsiggXsYAupYihIqWGytsqMCu1-exxzmKswX8kJMg7RXxMXw==",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUbIaOPkULI3uYfqIuujzvnhKpfLcVb6pyUgF_LIXIAuaJs4HX-V3_jhW7_QBAe0ToYRZd-ymxxBaP6tbs6asyP9eq4kNUx7trYJz2ECwENzXuUw-wOoEqwYBGh73rVDMIDPKo2LRkPe9QDtIKJeRJlESTIl4fqaHbPA07SHV5wwsrkohAeH2lS_C7QYxYixdw2JXa_uJpshok",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB9B8o1ypDkl11hOfVIfTggZu3VwzOBOSoR_EJ-Nle0X439EnA6EzxAd-kR3rEqxnBN9U6dFjUVp1RHNkQS-bMxG9XcbMR_DqnxsrIh1frHmGqlWxbHKkDf5ta84mlCA-jAZjJKjZQTlZZBQL3YW8FGN6sReSqKRbe-Uoj7W9LHgSBmuYxGtp-6QmX6HFZzK4gTbg3fQr4O0AEEw==",
+            "title": "recordherald.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxWbtoW7SKqJCdw4YefhVORSgIFzA_84ohvlxTX7MPqiQLvji_XLxp4Qg9oBw5vdCDLn8siGMZS2tiyTqHq8iM7YUNh6gsOTPO8iWY9aZSpv9F4_bzGd5eRA6Fevi8fT7JGcWMkNeUG6dx4Bc-ekFRU7BrNeNJYiYEmtm3fR10hvFojiDWv8XVdRk4vG3mBTu-qXhcwPhuPcvWlYvl1jYGo4vYqtC8D-6Qy2eZiKZ_MEq_PvKb36Qe0eM2",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDMzEc4M6cCX6BXYgUFEzQ3FBEEJ9Xcjib5TlGhOMtffYhzrKLqxjyA33MmrG73-c4FWzgpdKWNYygYFzDN8x59Ku7fgso-MvLsGGJoMDCCujhShhXMEy0NUVyUSiwrK8j7RKiSIVzbV0Z3gAQTvrfvujmT6FoPr-xItMnlkFP_j604cmSUkhxbKteFUpD2XlvDQJHpqs_eyxw9cPx_RPiWws=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEADzZmI84_v7-gqOG-amu12pfv305LIKzimC4jtS1wrMAcfh4C-I5ADXOOJ0eTvUMk3hk02sJySr6RydVJ0XKgBr9RV_sPBG_wbgS-_FyihaXWE4FkhZvvwTrzg48SOumIM8fonOi2c3eiO3jY",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm_2YPHdQlULouUFG0X9T3nc6yWGFTTLtU5v-CioECjdWeomm8_3zziBoc6oOy-nTvGjBTMCs3m3dWC3AK08wbsyUxZlueKbPAv0ImgvYcFM5sqxz72hoYaUOY4LDzaoYQYl5n8Fmy67O_cvj9fe-smDpXRTGMk69U7pfKmOe-LA6zh5-LIM0Ug1m4MEmNcoRU4gBEgA==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETxFQf1Lvv1uCovmyd2rvJedeOKFeyTx_JBeTtYZWrVcJw71gUurcUEsULqaBw3RkBAA2bDk8975HpTchGhjGD13NtFM4HXk9Oc3FGxFU7d-J7N9lNyI9jbYBY8P0j90LOe3lMwAc3VhI16QXJ1tMi2sdeaIIlG0wLjO_1GKhhof-7rhhfOw==",
+            "title": "seahawks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a9937649bcba516b1918efecd934c140f74d552b",
+        "aviCoreCommittedAt": "2026-08-14T23:03:25Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 67302,
+        "groundedMarketChars": 2770,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mstfb8fv-bedc4f50",
     "createdAt": 1786740831164,
     "expiresAt": 1787172831164,
