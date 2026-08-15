@@ -1,5 +1,47 @@
 [
   {
+    "id": "msumf4hq-2546514b",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Rebuild",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Quinshon Judkins",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Mile High · Projected late range (2.10–2.16)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 1st · DMV · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "Mike Washington",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786813158014,
+    "updatedAt": 1786813158014,
+    "expiresAt": 1787245158014,
+    "status": "queued"
+  },
+  {
     "id": "msumbdlj-5029ee8e",
     "phase": "initial",
     "mode": "analyze_trade",
