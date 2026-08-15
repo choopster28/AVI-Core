@@ -1,5 +1,33 @@
 [
   {
+    "id": "msuqb1iz-05ba3fb2",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "DJ Moore",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1786819686011,
+    "updatedAt": 1786819686011,
+    "expiresAt": 1787251686011,
+    "status": "queued"
+  },
+  {
     "id": "msuq7obm-ee3d406a",
     "phase": "final",
     "mode": "shop_assets",
