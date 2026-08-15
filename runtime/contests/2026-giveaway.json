@@ -1,0 +1,33 @@
+{
+  "season": 2026,
+  "lockAt": "2026-09-09T06:00:00.000Z",
+  "submissions": [
+    {
+      "orgId": "big-balder",
+      "orgName": "Big Balder Brand",
+      "updatedAt": "2026-08-15T02:44:07.876Z",
+      "answers": [
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "129.99"
+        },
+        {
+          "team": "DMV Fantasy",
+          "tiebreaker": "120"
+        },
+        {
+          "team": "Big Balder Brand",
+          "tiebreaker": "169.69"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "88"
+        },
+        {
+          "team": "Big Balder Brand",
+          "tiebreaker": "155"
+        }
+      ]
+    }
+  ]
+}
