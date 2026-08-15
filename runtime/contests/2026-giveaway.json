@@ -28,6 +28,33 @@
           "tiebreaker": "155"
         }
       ]
+    },
+    {
+      "orgId": "ravens-regime",
+      "orgName": "Ravens Regime",
+      "updatedAt": "2026-08-15T02:49:57.308Z",
+      "answers": [
+        {
+          "team": "Big Balder Brand",
+          "tiebreaker": "172.4"
+        },
+        {
+          "team": "All Hail King Jesus",
+          "tiebreaker": "156.6"
+        },
+        {
+          "team": "Ravens Regime",
+          "tiebreaker": "205.5"
+        },
+        {
+          "team": "Gringo's Goblins",
+          "tiebreaker": "97.4"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "188.4"
+        }
+      ]
     }
   ]
 }
