@@ -9,6 +9,42 @@
         "News",
         "Injury"
       ],
+      "created": "2026-08-15 08:05:13",
+      "created_formated": "Sat, Aug 15th 8:05am UTC",
+      "desc": "Terrell Burgess will not play in the Saints preseason opener on Saturday against the Jaguars. ",
+      "id": 602458,
+      "impact": "Burgess left practice early on Thursday with a lower body injury. He'll be hopeful to return to practice next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/602458/terrell-burgess-lower-body-will-not-play-preseason-opener-saturday.php",
+      "player_id": 19279,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Terrell Burgess (lower body) will not play in preseason opener Saturday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-14 23:52:34",
+      "created_formated": "Fri, Aug 14th 11:52pm UTC",
+      "desc": "Emeka Egbuka has a sprained toe, but he is expected to be good to go for Week 1.",
+      "id": 602399,
+      "impact": "Egbuka underwent more testing on his injured toe and a specialist diagnosed him with a sprained toe after he limped off the field during the joint practice at the Jets' facility. ",
+      "link": "https://www.fantasypros.com/nfl/news/602399/emeka-egbuka-dealing-with-sprained-toe-expected-to-be-ready-week-1.php",
+      "player_id": 23062,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Emeka Egbuka dealing with sprained toe, expected to be ready for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
       "created": "2026-08-14 19:37:04",
       "created_formated": "Fri, Aug 14th 7:37pm UTC",
       "desc": "Packers coach Matt LaFleur said Josh Jacobs could return to practice next week. ",
@@ -193,24 +229,6 @@
       "sport_id": "NFL",
       "team_id": "NO",
       "title": "Jordyn Tyson dealing with right hamstring injury"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 07:52:08",
-      "created_formated": "Fri, Aug 14th 7:52am UTC",
-      "desc": "Terrell Burgess left Thursday's practice early due to a lower body injury. ",
-      "id": 602305,
-      "impact": "Burgess will continue to be further evaluated into Friday. ",
-      "link": "https://www.fantasypros.com/nfl/news/602305/terrell-burgess-exits-practice-early-thursday.php",
-      "player_id": 19279,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Terrell Burgess exits practice early Thursday "
     },
     {
       "author": "Ari Koslow",
@@ -407,23 +425,6 @@
       "sport_id": "NFL",
       "team_id": "PIT",
       "title": "Logan Lee placed on IR"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-14 07:34:09",
-      "created_formated": "Fri, Aug 14th 7:34am UTC",
-      "desc": "The Steelers signed LB Elandon Roberts. ",
-      "id": 602293,
-      "impact": "Roberts will compete for a depth role in the Steelers linebacker room. ",
-      "link": "https://www.fantasypros.com/nfl/news/602293/elandon-roberts-signs-with-steelers.php",
-      "player_id": 15697,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Elandon Roberts signs with Steelers "
     }
   ],
   "public_api_limited": true,
