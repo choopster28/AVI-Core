@@ -1495,6 +1495,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "22884",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SEA",
+    "player_name": "Jalen Milroe",
+    "position": "QB",
+    "sleeper_id": "12510"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "22895",
     "match_method": "exact_name_position_unique",
     "nfl_team": "CAR",
@@ -1789,6 +1798,15 @@
     "player_name": "Blake Corum",
     "position": "RB",
     "sleeper_id": "11586"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "23014",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "MIA",
+    "player_name": "Donovan Edwards",
+    "position": "RB",
+    "sleeper_id": "12515"
   },
   {
     "confidence": "verified",
@@ -2116,6 +2134,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "23167",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DAL",
+    "player_name": "Michael Trigg",
+    "position": "TE",
+    "sleeper_id": "13401"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23172",
     "match_method": "exact_name_position_unique",
     "nfl_team": "SF",
@@ -2365,6 +2392,15 @@
     "player_name": "Jaylen Warren",
     "position": "RB",
     "sleeper_id": "8228"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "24214",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SEA",
+    "player_name": "Velus Jones Jr.",
+    "position": "WR",
+    "sleeper_id": "8223"
   },
   {
     "confidence": "verified",
@@ -3925,6 +3961,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "28124",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ATL",
+    "player_name": "Cash Jones",
+    "position": "RB",
+    "sleeper_id": "13595"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "28125",
     "match_method": "exact_name_position_unique",
     "nfl_team": "LAR",
@@ -4003,6 +4048,15 @@
     "player_name": "De'Zhaun Stribling",
     "position": "WR",
     "sleeper_id": "13417"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28141",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ARI",
+    "player_name": "Reggie Virgil",
+    "position": "WR",
+    "sleeper_id": "13297"
   },
   {
     "confidence": "verified",
@@ -4093,6 +4147,24 @@
     "player_name": "Trey Smack",
     "position": "K",
     "sleeper_id": "13545"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28717",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Dontae McMillan",
+    "position": "RB",
+    "sleeper_id": "13852"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28757",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Elijah Tau-Tolliver",
+    "position": "RB",
+    "sleeper_id": "13909"
   },
   {
     "confidence": "verified",
