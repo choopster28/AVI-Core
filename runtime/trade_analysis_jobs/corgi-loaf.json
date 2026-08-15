@@ -1,5 +1,28 @@
 [
   {
+    "id": "mstnmfbm-4c6031c7",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Gringo's Goblins",
+      "targetAssets": [
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1786754712082,
+    "updatedAt": 1786754712082,
+    "expiresAt": 1787186712082,
+    "status": "queued"
+  },
+  {
     "id": "mstmhuvr-2b66ca53",
     "phase": "initial",
     "mode": "analyze_trade",
