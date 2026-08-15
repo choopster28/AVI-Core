@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-14T23:03:22.469523+00:00",
+  "generated_at_utc": "2026-08-15T02:29:34.211962+00:00",
   "statistics": {
-    "owner_trade_participations": 145,
+    "owner_trade_participations": 149,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -145,18 +145,18 @@
         "by_season": {
           "2024": 7,
           "2025": 4,
-          "2026": 10
+          "2026": 11
         },
-        "firsts_in": 4,
+        "firsts_in": 6,
         "firsts_out": 5,
         "owner_display_name": "awang1900",
-        "picks_in": 4,
+        "picks_in": 8,
         "picks_out": 10,
-        "players_in": 29,
-        "players_out": 29,
+        "players_in": 31,
+        "players_out": 31,
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. ",
-        "total": 21
+        "total": 22
       },
       {
         "by_season": {
@@ -194,6 +194,23 @@
       },
       {
         "by_season": {
+          "2024": 3,
+          "2025": 3,
+          "2026": 10
+        },
+        "firsts_in": 2,
+        "firsts_out": 4,
+        "owner_display_name": "Mentomorii",
+        "picks_in": 3,
+        "picks_out": 5,
+        "players_in": 15,
+        "players_out": 20,
+        "roster_id": 3,
+        "team_name": "Ravens Regime ",
+        "total": 16
+      },
+      {
+        "by_season": {
           "2024": 6,
           "2025": 5,
           "2026": 4
@@ -211,37 +228,20 @@
       },
       {
         "by_season": {
-          "2024": 3,
-          "2025": 3,
-          "2026": 9
-        },
-        "firsts_in": 2,
-        "firsts_out": 4,
-        "owner_display_name": "Mentomorii",
-        "picks_in": 3,
-        "picks_out": 4,
-        "players_in": 14,
-        "players_out": 19,
-        "roster_id": 3,
-        "team_name": "Ravens Regime ",
-        "total": 15
-      },
-      {
-        "by_season": {
           "2024": 5,
           "2025": 2,
-          "2026": 4
+          "2026": 5
         },
         "firsts_in": 3,
         "firsts_out": 2,
         "owner_display_name": "TacticsNoob",
-        "picks_in": 6,
+        "picks_in": 7,
         "picks_out": 3,
-        "players_in": 17,
-        "players_out": 13,
+        "players_in": 18,
+        "players_out": 14,
         "roster_id": 12,
         "team_name": "DMV Fantasy",
-        "total": 11
+        "total": 12
       },
       {
         "by_season": {
@@ -278,6 +278,22 @@
       },
       {
         "by_season": {
+          "2025": 4,
+          "2026": 2
+        },
+        "firsts_in": 0,
+        "firsts_out": 3,
+        "owner_display_name": "Hofer51",
+        "picks_in": 0,
+        "picks_out": 8,
+        "players_in": 8,
+        "players_out": 5,
+        "roster_id": 8,
+        "team_name": "All Hail King Jesus",
+        "total": 6
+      },
+      {
+        "by_season": {
           "2025": 1,
           "2026": 5
         },
@@ -307,22 +323,6 @@
         "roster_id": 2,
         "team_name": "Rapid Valley Annihilation",
         "total": 6
-      },
-      {
-        "by_season": {
-          "2025": 4,
-          "2026": 1
-        },
-        "firsts_in": 0,
-        "firsts_out": 1,
-        "owner_display_name": "Hofer51",
-        "picks_in": 0,
-        "picks_out": 4,
-        "players_in": 6,
-        "players_out": 3,
-        "roster_id": 8,
-        "team_name": "All Hail King Jesus",
-        "total": 5
       },
       {
         "by_season": {
@@ -406,10 +406,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 29
+      "2026": 31
     },
-    "two_team_trades": 71,
-    "unique_completed_trades": 72
+    "two_team_trades": 73,
+    "unique_completed_trades": 74
   },
   "trades": [
     {
@@ -5246,6 +5246,188 @@
         }
       ],
       "transaction_id": "1394090507352690688",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-14T22:39:16.777000+00:00",
+      "created_timestamp_ms": 1786747156777,
+      "roster_ids": [
+        8,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Hofer51",
+          "owner_id": "736994691492519936",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 8,
+              "round": 4,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 5,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2029"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "6790",
+              "player_name": "D'Andre Swift"
+            },
+            {
+              "player_id": "6794",
+              "player_name": "Justin Jefferson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4199",
+              "player_name": "Aaron Jones"
+            },
+            {
+              "player_id": "9488",
+              "player_name": "Jaxon Smith-Njigba"
+            }
+          ],
+          "roster_id": 8,
+          "season": 2026,
+          "team_name": "All Hail King Jesus"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 8,
+              "round": 4,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 5,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2029"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4199",
+              "player_name": "Aaron Jones"
+            },
+            {
+              "player_id": "9488",
+              "player_name": "Jaxon Smith-Njigba"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "6790",
+              "player_name": "D'Andre Swift"
+            },
+            {
+              "player_id": "6794",
+              "player_name": "Justin Jefferson"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1394122256442986496",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-15T00:47:53.214000+00:00",
+      "created_timestamp_ms": 1786754873214,
+      "roster_ids": [
+        3,
+        12
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "13293",
+              "player_name": "Ja'Kobi Lane"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12535",
+              "player_name": "Isaac TeSlaa"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "12535",
+              "player_name": "Isaac TeSlaa"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "13293",
+              "player_name": "Ja'Kobi Lane"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2026,
+          "team_name": "DMV Fantasy"
+        }
+      ],
+      "transaction_id": "1394154621529763840",
       "week": 1
     }
   ]

@@ -2301,14 +2301,14 @@
       "c_avi": 56.4,
       "d_avi": 74.2,
       "nfl_team": "MIN",
-      "owner_id": "736994691492519936",
+      "owner_id": "986498458162970624",
       "player_name": "Aaron Jones",
       "position": "RB",
-      "roster_id": 8,
+      "roster_id": 11,
       "sleeper_id": "4199",
       "status": "Active",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
@@ -3069,14 +3069,14 @@
       "c_avi": 78.1,
       "d_avi": 86.6,
       "nfl_team": "CHI",
-      "owner_id": "986498458162970624",
+      "owner_id": "736994691492519936",
       "player_name": "D'Andre Swift",
       "position": "RB",
-      "roster_id": 11,
+      "roster_id": 8,
       "sleeper_id": "6790",
       "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
+      "team_file": "08_All_Hail_King_Jesus.md",
+      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,
@@ -3693,14 +3693,14 @@
       "c_avi": 38.8,
       "d_avi": 69.1,
       "nfl_team": "DET",
-      "owner_id": "992908759074680832",
+      "owner_id": "1129546394534158336",
       "player_name": "Isaac TeSlaa",
       "position": "WR",
-      "roster_id": 3,
+      "roster_id": 12,
       "sleeper_id": "12535",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -3773,14 +3773,14 @@
       "c_avi": 44.5,
       "d_avi": 70.1,
       "nfl_team": "BAL",
-      "owner_id": "1129546394534158336",
+      "owner_id": "992908759074680832",
       "player_name": "Ja'Kobi Lane",
       "position": "WR",
-      "roster_id": 12,
+      "roster_id": 3,
       "sleeper_id": "13293",
       "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -4061,14 +4061,14 @@
       "c_avi": 99.1,
       "d_avi": 99.6,
       "nfl_team": "SEA",
-      "owner_id": "736994691492519936",
+      "owner_id": "986498458162970624",
       "player_name": "Jaxon Smith-Njigba",
       "position": "WR",
-      "roster_id": 8,
+      "roster_id": 11,
       "sleeper_id": "9488",
       "status": "Active",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
@@ -4429,14 +4429,14 @@
       "c_avi": 97.3,
       "d_avi": 98.5,
       "nfl_team": "MIN",
-      "owner_id": "986498458162970624",
+      "owner_id": "736994691492519936",
       "player_name": "Justin Jefferson",
       "position": "WR",
-      "roster_id": 11,
+      "roster_id": 8,
       "sleeper_id": "6794",
       "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
+      "team_file": "08_All_Hail_King_Jesus.md",
+      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,

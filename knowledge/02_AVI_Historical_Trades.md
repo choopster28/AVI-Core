@@ -17,31 +17,31 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **72**
-- Owner trade participations: **145**
-- Two-team trades: **71**
+- Unique completed trades: **74**
+- Owner trade participations: **149**
+- Two-team trades: **73**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **29**
+- 2026 completed trades: **31**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-08-14T20:33:07.203000+00:00**
+- Latest verified trade: **2026-08-15T00:47:53.214000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co.  | awang1900 | **21** | 7 | 4 | 10 | 29 | 29 | 4 | 10 | 4 | 5 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **22** | 7 | 4 | 11 | 31 | 31 | 8 | 10 | 6 | 5 |
 | 2 | Big Balder Brand | Choopski | **19** | 7 | 2 | 10 | 28 | 30 | 3 | 5 | 1 | 3 |
 | 3 | Conquistadors | Thecan | **16** | 6 | 2 | 8 | 15 | 17 | 5 | 7 | 3 | 3 |
-| 4 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 5 | 3 | 2 | 2 |
-| 5 | Ravens Regime  | Mentomorii | **15** | 3 | 3 | 9 | 14 | 19 | 3 | 4 | 2 | 4 |
-| 6 | DMV Fantasy | TacticsNoob | **11** | 5 | 2 | 4 | 17 | 13 | 6 | 3 | 3 | 2 |
+| 4 | Ravens Regime  | Mentomorii | **16** | 3 | 3 | 10 | 15 | 20 | 3 | 5 | 2 | 4 |
+| 5 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 5 | 3 | 2 | 2 |
+| 6 | DMV Fantasy | TacticsNoob | **12** | 5 | 2 | 5 | 18 | 14 | 7 | 3 | 3 | 2 |
 | 7 | Badland Banditos  | IcebergSlim69 | **9** | 4 | 4 | 1 | 9 | 11 | 3 | 2 | 1 | 0 |
 | 8 | Mile High Royal Lions | shawnh56 | **9** | 0 | 8 | 1 | 9 | 12 | 5 | 4 | 1 | 2 |
-| 9 | Crimson Tide Pods | nickas | **6** | 0 | 1 | 5 | 9 | 7 | 7 | 2 | 3 | 0 |
-| 10 | Rapid Valley Annihilation | FuzzyRaptor | **6** | 0 | 3 | 3 | 9 | 10 | 6 | 1 | 2 | 0 |
-| 11 | All Hail King Jesus | Hofer51 | **5** | 0 | 4 | 1 | 6 | 3 | 0 | 4 | 0 | 1 |
+| 9 | All Hail King Jesus | Hofer51 | **6** | 0 | 4 | 2 | 8 | 5 | 0 | 8 | 0 | 3 |
+| 10 | Crimson Tide Pods | nickas | **6** | 0 | 1 | 5 | 9 | 7 | 7 | 2 | 3 | 0 |
+| 11 | Rapid Valley Annihilation | FuzzyRaptor | **6** | 0 | 3 | 3 | 9 | 10 | 6 | 1 | 2 | 0 |
 | 12 | Lightskin Legends ✊🏽 | MadDawgMatt | **5** | 2 | 3 | 0 | 5 | 3 | 1 | 2 | 0 | 0 |
 | 13 | SmokyValleyWheatWarriors | AlexPete6800 | **4** | 2 | 2 | 0 | 1 | 3 | 2 | 2 | 0 | 1 |
 | 14 | Gringo’s Goblins  | Burnfaze | **2** | 0 | 0 | 2 | 5 | 5 | 1 | 2 | 1 | 0 |
@@ -70,6 +70,42 @@
 | Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1394154621529763840
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-08-15T00:47:53.214000+00:00
+- Teams involved: 2
+
+#### Ravens Regime  (Mentomorii)
+- Players received: Ja'Kobi Lane
+- Players sent: Isaac TeSlaa
+- Picks received: None
+- Picks sent: 2027 Round 2 (original roster 3)
+
+#### DMV Fantasy (TacticsNoob)
+- Players received: Isaac TeSlaa
+- Players sent: Ja'Kobi Lane
+- Picks received: 2027 Round 2 (original roster 3)
+- Picks sent: None
+
+### TRADE: 1394122256442986496
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-08-14T22:39:16.777000+00:00
+- Teams involved: 2
+
+#### All Hail King Jesus (Hofer51)
+- Players received: D'Andre Swift, Justin Jefferson
+- Players sent: Aaron Jones, Jaxon Smith-Njigba
+- Picks received: None
+- Picks sent: 2027 Round 4 (original roster 8), 2027 Round 5 (original roster 8), 2028 Round 1 (original roster 8), 2029 Round 1 (original roster 8)
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: Aaron Jones, Jaxon Smith-Njigba
+- Players sent: D'Andre Swift, Justin Jefferson
+- Picks received: 2027 Round 4 (original roster 8), 2027 Round 5 (original roster 8), 2028 Round 1 (original roster 8), 2029 Round 1 (original roster 8)
+- Picks sent: None
 
 ### TRADE: 1394090507352690688
 - Season: 2026

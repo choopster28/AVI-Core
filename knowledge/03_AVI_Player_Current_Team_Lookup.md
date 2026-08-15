@@ -24,9 +24,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Aaron Jones
 - Player ID: 4199
 - Position: RB
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Team file: 08_All_Hail_King_Jesus.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Aaron Rodgers
 - Player name: Aaron Rodgers
@@ -408,9 +408,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: D'Andre Swift
 - Player ID: 6790
 - Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
 
 ## PLAYER LOOKUP: DJ Moore
 - Player name: DJ Moore
@@ -720,9 +720,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Isaac TeSlaa
 - Player ID: 12535
 - Position: WR
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: Isaiah Likely
 - Player name: Isaiah Likely
@@ -760,9 +760,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Ja'Kobi Lane
 - Player ID: 13293
 - Position: WR
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Team file: 12_DMV_Fantasy.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Ja'Marr Chase
 - Player name: Ja'Marr Chase
@@ -904,9 +904,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jaxon Smith-Njigba
 - Player ID: 9488
 - Position: WR
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Team file: 08_All_Hail_King_Jesus.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Jaxson Dart
 - Player name: Jaxson Dart
@@ -1088,9 +1088,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Justin Jefferson
 - Player ID: 6794
 - Position: WR
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
 
 ## PLAYER LOOKUP: Juwan Johnson
 - Player name: Juwan Johnson
