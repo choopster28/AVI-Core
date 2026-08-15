@@ -1,5 +1,36 @@
 [
   {
+    "id": "msv0rjpi-4e7885d6",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Davante Adams",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "KC Concepcion",
+            "assetType": "player"
+          }
+        ]
+      },
+      "personalContext": "I  am trying to build my roster to be younger, because I don't think I have a realistic chance at winning this year.. I think I have a better chance in 2027+"
+    },
+    "createdAt": 1786837252519,
+    "updatedAt": 1786837252519,
+    "expiresAt": 1787269252519,
+    "status": "queued"
+  },
+  {
     "id": "msv0nxws-8cd4128c",
     "phase": "initial",
     "mode": "analyze_trade",
