@@ -1,5 +1,34 @@
 [
   {
+    "id": "msv0thll-5299dc1f",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "KC Concepcion",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Davante Adams",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "I am high on KC concepcion and at the same time i believe i can make a playoff push but not win the league so I feel this trade helps both ways."
+    },
+    "createdAt": 1786837342971,
+    "updatedAt": 1786837342971,
+    "expiresAt": 1787269342971,
+    "status": "queued"
+  },
+  {
     "id": "msv0oct8-f31b127e",
     "phase": "initial",
     "mode": "propose_trade",
