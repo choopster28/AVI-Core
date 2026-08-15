@@ -18,9 +18,330 @@
       "foundationAssets": []
     },
     "createdAt": 1786754712082,
-    "updatedAt": 1786754712082,
+    "updatedAt": 1786754765774,
     "expiresAt": 1787186712082,
-    "status": "queued"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "To advance Corgi Loaf Baking Co.'s 'Win Championship' goal, AVI proposes a targeted trade package offering WR Wan'Dale Robinson and RB Dylan Sampson to Gringo's Goblins in exchange for RB David Montgomery. Corgi Loaf secures vital 16-team running back depth and high-floor fantasy production (70.4 C-AVI) to pair with Cam Skattebo and D'Andre Swift. In exchange, Gringo's Goblins—a franchise whose verified HQ status is Retooling—pivots off an age-29 running back in a committee backfield to acquire a 25-year-old starting WR slot upgrade in Wan'Dale Robinson (65.7 C-AVI) and a promising 21-year-old dynasty RB asset in Dylan Sampson (73.5 D-AVI). This two-organization deal aligns perfectly with both strategic windows.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.7,
+              "davi": 83.6,
+              "publicMarket": 68,
+              "leagueMarket": 66
+            },
+            {
+              "name": "Dylan Sampson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 21,
+              "cavi": 48.5,
+              "davi": 73.5,
+              "publicMarket": 52,
+              "leagueMarket": 50
+            }
+          ],
+          "sideB": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Gringo's Goblins",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 84.7,
+              "publicMarket": 72,
+              "leagueMarket": 71
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. converts bench WR depth (Wan'Dale Robinson) and developmental RB capital (Dylan Sampson) into a high-floor starting RB/FLEX asset in David Montgomery. In a 16-team PPR format, acquiring a proven 195+ point projected RB insulates Corgi Loaf against injuries to Skattebo or Swift while keeping core starters intact. Gringo's Goblins successfully retools by acquiring two assets under age 26, upgrading their starting FLEX slot with Robinson and securing long-term dynasty upside with Sampson."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "This proposed deal represents the optimal balance between Corgi Loaf Baking Co.'s championship push and Gringo's Goblins' retooling initiative."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 35,
+              "summary": "Materially bolsters championship starting lineup resilience and RB position strength without surrendering any core draft capital or top-4 receivers."
+            },
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Adds a proven starter/FLEX RB (70.4 C-AVI) who provides immediate insurance and starting points for a 16-team title push."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Slight drop in long-term age profile by taking on a 29-year-old RB, but well worth the current-window title equity."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Upgrades starting FLEX/RB depth options, giving Corgi Loaf three weekly RBs projecting for 195+ PPR points."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Eliminates extreme vulnerability at RB behind Skattebo and Swift."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Preserves all premium 2027 draft picks (including DMV Fantasy 1st) for future leverage."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Successfully executes a retooling mandate by trading an aging RB for a 25-year-old starting WR and a 21-year-old RB asset."
+            },
+            "championshipOutlook": {
+              "score": -15,
+              "summary": "Slight reduction in immediate weekly RB ceiling, offset by WR FLEX upgrade."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Gains significant dynasty age distribution by moving age-29 Montgomery for age-25 Robinson and age-21 Sampson."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Wan'Dale Robinson (65.7 C-AVI) enters as a clear starting upgrade at FLEX2 over Romeo Doubs (54.8 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds two usable offensive roster pieces, diversifying backfield and receiver depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Increases trade liquidity with young, moveable dynasty assets."
+            }
+          },
+          "explanation": "Both franchises achieve their stated organizational objectives. Corgi Loaf Baking Co. improves championship probability by solidifying its RB room for a playoff run, while Gringo's Goblins achieves age relief and lineup diversification matching its retooling status."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. adds 70.4 C-AVI in David Montgomery. Montgomery provides 195.8 projected PPR points and secure short-yardage/touchdown volume in Houston, significantly raising Corgi Loaf's weekly floor and reducing injury concentration risk behind Cam Skattebo and D'Andre Swift.",
+          "sideADynastyImpact": "Corgi Loaf surrenders 83.6 D-AVI (Wan'Dale Robinson) and 73.5 D-AVI (Dylan Sampson) for 84.7 D-AVI (David Montgomery). The net dynasty value change is minor (-72.4 D-AVI total across two bench pieces), which is a strategic sacrifice tailored specifically for a Win Championship mandate.",
+          "sideARosterImpact": "Reconstructs Corgi Loaf's optimal starting lineup: QB Mahomes (74.1), RB Skattebo (84.2), RB Swift (78.1), WR Jefferson (97.3), WR Nabers (88.7), TE Warren (97.2), FLEX Moore (76.4), FLEX Watson (72.0) with Montgomery (70.4) as elite first-man-off-the-bench / FLEX rotation, drastically elevating RB depth resilience.",
+          "sideBChampionshipImpact": "Gringo's Goblins surrenders 70.4 C-AVI (Montgomery) and receives 114.2 combined C-AVI (Robinson 65.7 + Sampson 48.5). Wan'Dale Robinson immediately replaces Romeo Doubs (54.8) in Gringo's starting FLEX2 slot, upgrading weekly WR projection.",
+          "sideBDynastyImpact": "Gringo's Goblins converts 84.7 D-AVI into 157.1 combined D-AVI, lowering average position age from 29.0 to 23.0 across traded assets. This directly advances their Retool mandate.",
+          "sideBRosterImpact": "Reconstructs Gringo's Goblins starting lineup: QB Nix (66.3), RB K. Williams (83.8), RB J. Brooks (55.2), WR Egbuka (85.0), WR J. Williams (79.8), TE Ferguson (73.3), FLEX Watson/Dell/Kamara (54.8-49.5), FLEX Robinson (65.7). Jonathon Brooks steps into RB2 while Robinson upgrades FLEX2.",
+          "valueAssessment": "Net C-AVI traded: Corgi Loaf sends 114.2 C-AVI for 70.4 C-AVI (+43.8 total C-AVI to Gringo's Goblins via multi-player depth). Net D-AVI traded: Corgi Loaf sends 157.1 D-AVI for 84.7 D-AVI (+72.4 D-AVI to Gringo's Goblins). The package premium reflects the cost of acquiring concentrated starting RB production in a 16-team league."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views David Montgomery as a volume-driven RB2 entering his age-29 season after being traded to the Houston Texans on a two-year contract with $10M guaranteed. While training camp reports note a backfield share with Woody Marks, Montgomery remains a high-efficiency goal-line threat with guaranteed touch volume.",
+          "aviVsMarket": "AVI values Montgomery at 70.4 C-AVI / 84.7 D-AVI, closely aligned with market consensus. Public market values Wan'Dale Robinson as a solid PPR slot receiver (180.8 projected PPR points) and Dylan Sampson as an intriguing 21-year-old developmental back in Cleveland.",
+          "relevantContext": [
+            "David Montgomery signed a 2-year, $16.5M deal with Houston, providing 2026 and 2027 contract security.",
+            "In 16-team PPR leagues, starting RBs with guaranteed goal-line roles carry high premium value.",
+            "Wan'Dale Robinson offers consistent PPR floor targets, making him an attractive piece for a retooling squad."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Gringo's Goblins is currently Retooling. Holding an age-29 RB in a committee backfield risks asset depreciation before their next contention window. Selling Montgomery now for a 25-year-old starting WR and a 21-year-old RB fits their front-office timeline.",
+          "packageFit": "The package solves two key needs for Gringo's Goblins: it upgrades their starting FLEX slot (Wan'Dale Robinson's 65.7 C-AVI beats Doubs' 54.8) and injects young dynasty running back capital (Dylan Sampson) into their roster.",
+          "lineupReplacement": "Internal shift for Gringo's Goblins: Jonathon Brooks (55.2 C-AVI) slides into mandatory RB2, while incoming Wan'Dale Robinson (65.7 C-AVI) replaces Doubs in FLEX2. Net weekly starting lineup output remains stable while overall roster age improves.",
+          "competitiveWindowFit": "Directly supports Corgi Loaf's Playoff Push / Win Championship objective by adding starting RB depth, while extending Gringo's Goblins' 2-3 year competitive window.",
+          "positionalScarcity": "Running back depth is exceptionally scarce in a 16-team league. Securing Montgomery without sacrificing starting wide receivers or future 1st-round draft picks is a significant strategic win."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 22,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 83,
+          "classification": "Realistic",
+          "explanation": "David Montgomery is unlisted on the public trade block, but Gringo's Goblins' verified Retooling status creates strong motivation to move an age-29 RB for a multi-asset package featuring a 25-year-old starting WR and a 21-year-old RB. All five Market Reality validations pass with an acceptance probability of 83%."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal directly advances Corgi Loaf Baking Co.'s 'Win Championship' goal by acquiring crucial 16-team running back stability in David Montgomery without surrendering core starters or future 1st-round picks. Market Reality confirms Gringo's Goblins (Retooling) has strong strategic motivation to accept this package.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.7,
+              "davi": 83.6,
+              "publicMarket": 68,
+              "leagueMarket": 66
+            },
+            {
+              "name": "Dylan Sampson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 21,
+              "cavi": 48.5,
+              "davi": 73.5,
+              "publicMarket": 52,
+              "leagueMarket": 50
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Gringo's Goblins",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 84.7,
+              "publicMarket": 72,
+              "leagueMarket": 71
+            }
+          ],
+          "whyUserShouldDoIt": "You secure a reliable, 195+ point projected running back in David Montgomery to protect your championship run against RB injuries, using bench WR depth and a developmental prospect without giving up 2027 1st-round draft capital.",
+          "whyOpponentMightAccept": "Gringo's Goblins (Retooling) gets off an age-29 running back in a committee backfield, gains an immediate starting FLEX upgrade in 25-year-old Wan'Dale Robinson, and acquires a 21-year-old dynasty RB asset in Dylan Sampson."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.7,
+              "davi": 83.6,
+              "publicMarket": 68,
+              "leagueMarket": 66
+            },
+            {
+              "name": "Tyrone Tracy",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 26,
+              "cavi": 50.5,
+              "davi": 75.1,
+              "publicMarket": 54,
+              "leagueMarket": 52
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Gringo's Goblins",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 84.7,
+              "publicMarket": 72,
+              "leagueMarket": 71
+            }
+          ],
+          "rationale": "If Gringo's Goblins prefers an immediate RB option with higher current projections (Tyrone Tracy, 50.5 C-AVI) over developmental prospect Dylan Sampson, substituting Tracy provides a higher current-year production floor."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "David Montgomery news 2026 fantasy football",
+          "David Montgomery contract status team 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiVXuaSB6HlmwDS5jar5yeoEQMlfdLDicyYmmC9jR3xtVtvaDpW1HQDX29WEM6JljVJMaSh_ZABlen7zvtbZSENIZSwBRIEhsPFQaBYv0Ed73F_2miqL06Qs0yJT3eV0wW",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5eeea9MeDFmdFOebwd6epIDhru-f3-X1RxBMiU-JOTdmuy2Xu7SmpIeDBoD3dbK04f6tbn9bKUpPrWvX-paLhdSaHxs245ZzrnRfP5l07BdYbMHH9M-_zh-fXhVuwzwci2VsuEUH7J1yFzF5WraiexnWeU_jKe6SyjWndCkBeYv-4d9kaL7M37Hhdt8BjAyxQEvX3SJkkq37quc0fhqFYmEd_TFeq_Cl8zdeSHqtlQG18MUsa9CNKLQKzEz-ZyECABEVE5srzyKgojFS1yOmqjk3S",
+            "title": "click2houston.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn0a4cpCIjjW-xTKtJU5n0T6qR_bXxJMfxUafzUbQ5gqZXD2kDF3R6X9esgm5nMJTX-ajFUJ8D3soaWiUNBIPotqiGA2LcqjwGs8V-nR5Oc1UhbK8G9qU53tVTwdWeuUUw0km7hRMF6PoCaj5TpFT06-zMqjp6JxnGpfqCPtvxJlxnP5Lh54HlquAWJZP16njl",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0ivbcP_Xg0LeU5cOfsg25juMt5_uQG_xQ-fQFlxyZDkVDWzrSiR2uCBdBzkuGYV9liMR8ZQ3yHGSNqyEcRAxItRE1yL-Gv5AB6pBo4UoCSHl2YbA1wkCRAuLG6EYxmdOCQqUgGLarG4TIZu4bolbn33Kr",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0IapYMyX-uw22naudTznyyw7QPinIY0vE1IBwv4CJaQNSYiIip_xI7hBaQWy0IXlItwLbSZ5Mjca77ODn0K0mK3QFeCjhbBvz4DkQl9dpzHDds1jWgdi34m35iNycU38iY7JpRQCig7R53miNI3B-mIAc0K4UoJUnJr1mEonVdDpiAJQqGb7TRL2GIbodFXMapgmwelIANqnyO1TFR5vAGzDV0Ssd1TquBCjGFahHYA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfLrX0jDAo8z7bajNktbXn4AXRJw0Qt_KaxrZGprTI9KdWyB-Woj--iC0WRV3okU5jona4l-4magxZn6YnwFUq28icJI-zXFR2WJ9IOpTecOpnuNGLpnwFy1vgqFB3Q_ybchIToLB2dpmo3Hi2AasqZwNnEBBwV8Gcw6GbiFiFW3Oqg1Y=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a9937649bcba516b1918efecd934c140f74d552b",
+        "aviCoreCommittedAt": "2026-08-14T23:03:25Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 67255,
+        "groundedMarketChars": 2089,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mstmhuvr-2b66ca53",
