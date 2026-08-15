@@ -33,9 +33,359 @@
       }
     },
     "createdAt": 1786838158539,
-    "updatedAt": 1786838159754,
+    "updatedAt": 1786838203473,
     "expiresAt": 1787270158539,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Champion Favorite, Win Championship mode) leverages bench depth and future capital to acquire S-tier quarterback Jayden Daniels (95.8 C-AVI). By sending Jaxson Dart (82.1 C-AVI), ascending bench wide receiver Jalen Coker (54.1 C-AVI), and a 2027 early 2nd-round pick to DMV Fantasy (Retooling mode), Big Balder Brand directly elevates its weekly starting QB ceiling by +13.7 C-AVI without sacrificing a single current starter at RB, WR, TE, or FLEX. For DMV Fantasy, trading QB elite ceiling yields an immediate younger starting dual-threat QB, a promising 24-year-old extended receiver, and premium draft liquidity that perfectly matches their Retool strategic objective. This is an exemplary championship-winning consolidation move for Big Balder Brand.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 82.1,
+              "davi": 83.3,
+              "publicMarket": 84,
+              "leagueMarket": 82.5
+            },
+            {
+              "name": "2027 2nd · Goblins · Projected early range (2.01–2.05)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 24,
+              "cavi": 54.1,
+              "davi": 76.9,
+              "publicMarket": 60,
+              "leagueMarket": 58
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "QB",
+              "age": 25,
+              "cavi": 95.8,
+              "davi": 90.6,
+              "publicMarket": 96,
+              "leagueMarket": 95
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand secures an elite top-5 overall fantasy quarterback in Jayden Daniels to lock down their championship starting lineup. Because Jalen Coker is buried on BBB's deep wide receiver bench behind Rashee Rice, A.J. Brown, Nico Collins, and Chris Godwin, the net effect on Big Balder Brand's starting lineup is a pure +13.7 C-AVI upgrade at QB1 while preserving every single starting RB/WR/TE/FLEX slot. DMV Fantasy receives strong value fit for a retooling franchise."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The proposed offer is strategically sound and strongly recommended as submitted. It achieves maximum lineup optimization for Big Balder Brand's championship push while providing DMV Fantasy a realistic package for their retool."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Significantly boosts weekly scoring floor and ceiling at QB1 with Jayden Daniels, accelerating title favorite odds."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Jayden Daniels (25.0) provides elite multi-year dynasty QB stability, offsetting the departure of 23.0yo Jaxson Dart."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Immediate upgrade at starting QB1 (+13.7 C-AVI) without losing any starting production at RB, WR, TE, or FLEX."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Slight reduction in WR bench depth with the loss of Jalen Coker, though Chris Godwin remains strong WR4/FLEX insurance."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders a projected early 2027 2nd-round draft pick, slightly trimming future trade draft capital."
+            },
+            "overall": {
+              "score": 16,
+              "summary": "Material net benefit to Big Balder Brand's championship portfolio by turning depth and capital into an S-tier starting quarterback."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Modest reduction in current 2026 weekly QB ceiling transitioning from Daniels (95.8 C-AVI) to Dart (82.1 C-AVI)."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Adds 23-year-old dual-threat QB Jaxson Dart, 24-year-old contract-extended WR Jalen Coker, and an early 2027 2nd pick."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "Downgrades starting QB slot, though Coker provides immediate WR/FLEX rotation support."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Gains a young starter at QB and an efficient young WR to fortify overall roster depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Adds a high-value 2027 2nd pick (projected 2.01–2.05 range) to enhance future rebuilding assets."
+            },
+            "overall": {
+              "score": -16,
+              "summary": "Positive strategic direction for DMV Fantasy's retool, acquiring youth, depth, and capital."
+            }
+          },
+          "explanation": "This transaction represents a classic contender-retooler synergy in a 16-team league. Big Balder Brand consolidates excess bench depth and draft capital into a elite starting asset, while DMV Fantasy spreads out QB value into multiple young assets and draft equity."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand elevates its starting QB C-AVI from 82.1 (Jaxson Dart) to 95.8 (Jayden Daniels), a net gain of +13.7 C-AVI. Because Jalen Coker was not in Big Balder Brand's starting 8 (behind Rice, Brown, McBride, Collins, and Hampton), BBB suffers 0 loss to starting FLEX production.",
+          "sideADynastyImpact": "Big Balder Brand upgrades from Dart (83.3 D-AVI) to Daniels (90.6 D-AVI), gaining +7.3 D-AVI at QB while forfeiting Coker (76.9 D-AVI) and a 2027 2nd (48.5 D-AVI). The trade trades future depth for top-tier star power.",
+          "sideARosterImpact": "BBB consolidates 3 roster/asset slots into 1 elite QB starter, freeing up two roster spots while raising the team's weekly lineup score.",
+          "sideBChampionshipImpact": "DMV Fantasy accepts a -13.7 C-AVI downgrade at QB1 (Daniels to Dart) but gains Coker (54.1 C-AVI) who enters their WR2/FLEX starting competition alongside Khalil Shakir and Rachaad White.",
+          "sideBDynastyImpact": "DMV Fantasy adds 208.7 total D-AVI across 3 assets in exchange for 90.6 D-AVI in Jayden Daniels, re-tooling their roster depth and draft stock.",
+          "sideBRosterImpact": "DMV Fantasy replaces Daniels with Dart at QB, adds Coker to its young WR core, and secures a top 2027 2nd-round pick.",
+          "valueAssessment": "In 1QB dynasty formats, paying QB2 + bench WR + early 2nd for an elite top-5 consensus QB like Jayden Daniels is an efficient, fair market price that strongly favors the championship contender."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views Jayden Daniels as a tier-1 elite dynasty quarterback with dual-threat QB1 overall upside. Jaxson Dart is an ascending year-two starter with dual-threat potential under John Harbaugh, while Jalen Coker's recent 3-year extension with Carolina has elevated his stock to a high-efficiency dynasty holding.",
+          "aviVsMarket": "AVI and public consensus align closely: Daniels is valued as an S-tier cornerstone (95.8 C-AVI), while Dart (82.1 C-AVI) and Coker (54.1 C-AVI / 76.9 D-AVI) reflect solid starting and ascending depth value.",
+          "relevantContext": [
+            "Jayden Daniels is fully healthy entering 2026 camp after minor 2025 nagging injuries, commanding Washington's high-ceiling offense.",
+            "Jalen Coker signed a 3-year, $35M extension with Carolina in June 2026, solidifying his long-term role in the Panthers offense.",
+            "Jaxson Dart flashed strong rushing output as a rookie (9 rushing TDs) and enters Year 2 as NYG's unquestioned starter under John Harbaugh."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "DMV Fantasy's verified strategic goal is Retool. Exchanging a premier QB asset for a 23yo starting QB (Dart), an ascending 24yo WR (Coker), and a projected early 2027 2nd pick allows DMV Fantasy to retool without entering a total teardown.",
+          "packageFit": "The package offers DMV Fantasy a direct positional replacement at QB, an immediate WR core addition, and valuable future pick liquidity.",
+          "lineupReplacement": "DMV Fantasy plugs Jaxson Dart directly into QB1, yielding reasonable starter production while Coker competes immediately for WR2/FLEX snaps.",
+          "competitiveWindowFit": "Aligns cleanly with DMV Fantasy's Retool window by spreading asset value across younger pieces and draft equity.",
+          "positionalScarcity": "In 1QB 16-team formats, elite differential at QB (Daniels' top-tier rushing baseline) provides a distinct weekly advantage over standard QB starters."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 20,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 74,
+          "classification": "Realistic",
+          "explanation": "Jayden Daniels is unlisted on the trade block (Unknown status, 15 pts), but the offer satisfies all Retool requirements for DMV Fantasy: replacing Daniels with starting QB Jaxson Dart, adding ascending WR Jalen Coker, and securing a high 2027 2nd pick. Acceptance probability is calculated at 74% (Realistic)."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "As a Champion Favorite whose sole goal is to Win Championship, Big Balder Brand secures a massive starting lineup upgrade at QB1 with Jayden Daniels (+13.7 C-AVI) without sacrificing any starting RB, WR, TE, or FLEX player. Jalen Coker was sitting on BBB's bench, making this a pure consolidation move of depth and picks for elite starting ceiling.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jaxson Dart",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 23,
+              "cavi": 82.1,
+              "davi": 83.3,
+              "publicMarket": 84,
+              "leagueMarket": 82.5
+            },
+            {
+              "name": "2027 2nd · Goblins · Projected early range (2.01–2.05)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 24,
+              "cavi": 54.1,
+              "davi": 76.9,
+              "publicMarket": 60,
+              "leagueMarket": 58
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "QB",
+              "age": 25,
+              "cavi": 95.8,
+              "davi": 90.6,
+              "publicMarket": 96,
+              "leagueMarket": 95
+            }
+          ],
+          "whyUserShouldDoIt": "It elevates your starting QB slot to elite tier status alongside your powerhouse core of Barkley, Love, Rice, A.J. Brown, McBride, Collins, and Hampton, maximizing your championship window.",
+          "whyOpponentMightAccept": "It provides DMV Fantasy a starting 23-year-old dual-threat QB, an extended 24-year-old WR, and a high 2027 2nd pick to fuel their Retool strategy."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jalen Coker NFL news 2026",
+          "Jaxson Dart NFL draft 2026 team",
+          "Jaxson Dart football status 2026",
+          "Jayden Daniels 2026 outlook fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1YCtGS4lHlJWPqpbpH15GODHVqo117VriiHQ_A1Z7XM14ScDvunUOxjpbUD8ZQKdwoPIc_KCmnGQyntwgftMlWDb3oeZL2GhLBVZLBKkud1sJygnAJtm7S0swuAKCF70aCmOSwsGTRJMHHE8AsQQNCu7yatDN9OpadYdxXsUNn0hKCDcg6TTWOjrzpaiIrQ4kPwJCjcSdbNKn7cYjxVTzMcpEi3bJlXj2YRCWP3lj_MbeVyUEkiSbd1w-mDvdieM=",
+            "title": "giants.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5SSQyqo48wa_BfNvpsPKc6eQFQNowCOXvseH4uKKxDpd3P0QO14O93fXsMBLYGpemwsR-L1_kf9iwgJXFYmA5xHVGEfjDBQawki_BurmQtdtgkoDS_Km53X5SeA3EsCF_9T-H0Hmz1alhwAmlTXiqKX7iJwk2z6_Z-YirUUjly3nGeQtsitWMD49fHwLePUA=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUa9wBRL7grU0s7JQ1QKHYPdFK4-QmUtjR-C-gv88mOVhE8MngCNf7w7rsSh2J4KSQrTwRpUiBud1e0Ahd27JtCbqRVYGMmlSZxXkPUWULePpBztbIOyPDhDhrhO5-Rg==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGMbla80e62TBAThJjNjpwE3eEQagMD9KjBaVggWKxkzOAYsG2VEngXCm6ZhRepiPmsaL_hpTTNhbt1ywbhmf7X9_CGU60boQFSGX2tBJ1w4TZXAxSDKUj3SifpgGRO4Gvi2bxJS8843yAC4sPHgF9SasF9C8IkarNSEf10u7b8vhDVPoN905MWB0g",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqw16FDFjO_9sQVa-IfgtSoXem8usxlavkhex8fcI-bOGSpj628nXXUzlBf9W7HLqT5TIZ5D6YMNVsz2p3b8L6R3_vD-tfl0v7BHZJj3e3ftzDI_M6AmJNR6zf6oKXgG-0fK-NM8hS-Dhnw-Q7WksXY7-AvU5txVWcjsQF4aMuzgMztuubI9k4bQ4PrspeT14-WO09N6E=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFV1xDPwgGf9sN0Jdv-HDj4c44KPiNlJVCOHKBCA_v5kXc2WMhbXeiUxM-nxQJJ9Q9A36z5uAx7Lv6cemA16s4a32AaaOQC26pOorToDzL-fwz72svi5ILQrZzU_6HXR0hVBG88Ww=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrtJGH3uRCSpcrLZetAx1f5eP3FdmvGzu_S0HXtYucjqPWuOmFa3ULCrZUUeCTDLJ8jl4jQQCxbNyB_bIHfovZ1IsIkJ1lyj2NljRThcn4Q9RUcwOJ-cErirpNiN5ymcfrIId8ramAbQOdFOE2jjSbQ32K9JkUuULbooXRMqQ3OQXgc7h3qwUzR-dNkr3EfNSlGg==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFza7cmeJ_OuCjJCfWgVGfgh7oWb1mUIjr981gfgghv4wACuVzQr18DVuliEh_xMQiaykqSjfXfm5sN0usCHT1IgkO1q3Xig6OOzBTvtxo-2sWf8etxTDPt4nfgcG8GhDZrL5bG5Hi_0XBKj6GKI6FrhA==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH-bjKRYxLmwFI0CBPAmimDaGoVDMT_zUU6zhz2YoCiJd_PAffX14LiwIFtze_UMGmAWLVzUsNCTiZuP893CfNZLD0gPscE7nvRJ16XB79wtZMqHCLoL5OAqSOlC7U1hHp7G987bnf1y16yIdnoe53FJmZMA==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH7cdihriBBNOXr2jJZ0z6u_ZrYw5TowpOlXP2q_V1Sh0uR-eRCdCPLgG_Lkyw1hIDxgv5G3J0OQa-n39T8TlcJJQgU_G4FkaHtiI1O5uO-Nbg2TjdNaZDNYMM6NMH8bHg0x1B6MomNiga7RBuiXMRa9ROqqoV9FPB3A4rJphZU_thawdZWAA_PbLgL6fBnR33ycyf03ur5E98oajtHXB5xozH",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpGrwcKI_2wShcLZe9N6fpX6kaxr-pP2GodgYIzIcYnzoGwL08Er172AxQeS-a8txryW3MjvRkhte-ggV8qYCyhHXMUDK17Yzu_2Hd_RIRQbem4bzhOA9BGjcWxKSxMYZSlfPSr1C6wnsjRDJKfbDXDVV8DW00kOVqYxVBWxUS1VlhA-xXLiu3qlO8GHpx",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgCHdDrBZsNTaRDTTss-Cm4KLMlJ6TXLSE7SmhgEqYYMmgx8rapsAvYMfC91d6cziGmtV92bhH7F_e99E_J_OvaGeL8LCGKfGmrQnwDXd5NgwHkB4R5nWCiQ9AH_vUglwC",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFymi0oR6035p-LEI1SzF5xS_aFfGTWR7qrHf3IwHiwRZ9ejeWbnlR8n6T6JbIp3TYFoHSZz9WmxoMnl6JrSGHwS-CBWIjVER2G0WJjIEqaujBEQa0v4XDjQMgXt9u47TYOhqJ3itjQCr52KBKVy-KYKnfexni1DVxca0NPevvRYtBTV9_TEemZC1iluUYclwSIP2vOn8B5watlqxpkDw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMI0ion1uYVM0wOfRsBf1jtu7bAZbZclmXac0MaK69XKgrRX0vrHn6i_TrQkyVnJAFFItxrvb_C1LFM1cdcrT0X81sf9OmRmuDg6xm0DqGWqNxRn21wZhqNJm5TZuFge2cNfwhM2MqJP732dLkhNOukMO9DFL12MIL4pWQEHeyPJx1F64g3QiCRpZ5",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbxt4aVmfPHL_jM3I6_07UfZqE6vonqZKRYx9Cnwp0cyHwGHSrNzhxuyAZG5SnWrYYpjXtVOEw8OrcZQh0cyBZ_cFHG1ymnjWCfNOoFyhq-Wq9HO5BMVGGHxa02JWN0eoMJ3jHOPXr7Oqr5D2d4Lx6DO_fAY8TujpGkZh2NFfjN6QXaz334-b1pZF7ItSCwOT2g1H-eR4Vec-4P04qIEpK9bR2-riZsFzKVVK1-YYF",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3-7bnvRaM9rl0m64G0nodNSjjQHfzUsUZCnR1nbT_pjq6bkSWWfC7cjhMfymuPaGkIpnP3KlSVppKMSeet5UUCLIsM4-wgxoqmpr15aA00gwX0KsAXtfjZdGgk2exmiCnbGM4ksGLKSlq7x5lrgi8",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNmHD-JIfRWeKFLEGU6gmLaGwbYuqDImJR6dorCW9Eb6P4dGwfUh5blMtqtzeA88_HfBz5Lqisp3_Z-ikc9FUzeZr3uEklOsZI1GDb_r_qq10_UYyHOGTnZnvPnDMKYilkxdvWeCq984bcoVXcL2b2KBCJ-fpozkR7Ox3-Zpg2kHrkno8gEPxIn2DTuUe2eJZgRQ_sTsHLqCwf2u_vYP4=",
+            "title": "fantasylife.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "1140c2be11c0a46994b111cffd716f41ceb31579",
+        "aviCoreCommittedAt": "2026-08-15T23:42:18Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 69790,
+        "groundedMarketChars": 4041,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "msv18yg2-32629905",
