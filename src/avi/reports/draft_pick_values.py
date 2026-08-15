@@ -11,7 +11,7 @@ from avi.valuation.picks import MAX_DRAFT_ROUNDS, TEAMS_PER_ROUND, draft_pick_va
 
 MARKDOWN_OUTPUT_PATH = Path("knowledge/01_AVI_Draft_Pick_Values_0_100.md")
 JSON_OUTPUT_PATH = Path("data/processed/reports/draft_pick_values.json")
-ACTIVE_DRAFT_SEASONS = (2027, 2028)
+ACTIVE_DRAFT_SEASONS = (2027, 2028, 2029)
 
 
 def load_current_league_data() -> tuple[
