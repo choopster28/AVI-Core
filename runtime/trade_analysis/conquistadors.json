@@ -1,5 +1,292 @@
 [
   {
+    "id": "msuqb1iz-05ba3fb2",
+    "createdAt": 1786819752531,
+    "expiresAt": 1787251752531,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Conquistadors ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "DJ Moore",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Conquistadors proposed using De'Von Achane (RB, MIA) as the foundation asset to acquire DJ Moore (WR, BUF) from Corgi Loaf Baking Co. Evaluated through the mandatory two-organization goal framework, this asset foundation creates an insurmountable structural mismatch. As an Elite Contender whose verified goal is 'Win Championship', Conquistadors cannot trade an S-tier cornerstone running back (97.4 C-AVI / 97.0 D-AVI) for a FLEX-level WR (76.4 C-AVI). Sacrificing Achane creates a catastrophic 46.7 C-AVI drop at RB2 (forcing 50.7 C-AVI Tyjae Spears into the lineup) that DJ Moore's +14.0 FLEX improvement cannot overcome. Furthermore, Corgi Loaf Baking Co. lacks the uncommitted roster assets required to build a balanced return package without gutting their own Playoff Push starting lineup. As a result, no realistic trade deal exists using this foundation.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 97,
+              "leagueMarket": 97.4
+            }
+          ],
+          "sideB": [
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 76.4,
+              "davi": 87.3,
+              "publicMarket": 80,
+              "leagueMarket": 76.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "F",
+            "otherGrade": "A+",
+            "userShare": 20,
+            "otherShare": 80,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Trading S-tier RB De'Von Achane (97.4 C-AVI) straight up for WR DJ Moore (76.4 C-AVI) severely sabotages Conquistadors' championship campaign. It creates a massive 46.7 C-AVI drop at RB2 while providing only a 14.0 C-AVI FLEX upgrade, resulting in a net starting lineup decline of 32.7 C-AVI."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -65,
+              "summary": "Devastating loss of elite RB productivity crippling championship starting lineup strength."
+            },
+            "championshipOutlook": {
+              "score": -75,
+              "summary": "Demolishes RB2 stability by replacing an S-tier starter with bench depth, dropping overall weekly projection."
+            },
+            "dynastyOutlook": {
+              "score": -50,
+              "summary": "Trades away a 24-year-old cornerstone RB for a 29-year-old wide receiver."
+            },
+            "lineupQuality": {
+              "score": -70,
+              "summary": "Net loss of 32.7 C-AVI across best realistic 8-man offensive starting lineup."
+            },
+            "depthResilience": {
+              "score": -40,
+              "summary": "Leaves RB depth dangerously thin behind Bijan Robinson in a 16-team league."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Adds a tradeable wide receiver, but sacrifices core premium roster value."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 75,
+              "summary": "Acquires an S-tier cornerstone running back while giving up a WR depth piece."
+            },
+            "championshipOutlook": {
+              "score": 80,
+              "summary": "Massive upgrade at RB2, elevating Corgi Loaf Baking Co. into high-tier contender status."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Secures a top-tier 24-year-old dynasty RB1."
+            },
+            "lineupQuality": {
+              "score": 75,
+              "summary": "Huge net jump in total starting lineup C-AVI."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Strengthens starting backfield while preserving core WR assets JSN and Nabers."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Adds a high-value liquid asset to the core roster."
+            }
+          },
+          "explanation": "Trading De'Von Achane for DJ Moore creates a massive structural imbalance. Conquistadors loses an elite 24-year-old S-tier RB, leaving a huge vacuum at RB2 that severely degrades championship starting power. Meanwhile, Corgi Loaf Baking Co. gains a premier RB1 without surrendering any core WR pieces."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "De'Von Achane carries a 97.4 C-AVI as an elite S-tier running back, projecting 292.1 PPR points. Removing him creates a massive hole at RB2.",
+          "sideADynastyImpact": "Achane is a 24-year-old dynasty cornerstone with a 97.0 D-AVI, representing top-tier long-term roster value.",
+          "sideARosterImpact": "Trading Achane forces Tyjae Spears (50.7 C-AVI) into the starting RB2 slot, reducing Conquistadors' best starting 8-man lineup score by 46.7 C-AVI at RB2.",
+          "sideBChampionshipImpact": "DJ Moore carries a 76.4 C-AVI, projecting 208.6 PPR points as Buffalo's perimeter WR1.",
+          "sideBDynastyImpact": "Moore possesses an 87.3 D-AVI at age 29, tied to Josh Allen in Buffalo.",
+          "sideBRosterImpact": "Entering Conquistadors' lineup, Moore upgrades FLEX2 over Juwan Johnson (62.4 C-AVI) by +14.0 C-AVI, but fails to compensate for the RB2 loss.",
+          "valueAssessment": "Achane's 97.4 C-AVI / 97.0 D-AVI far exceeds Moore's 76.4 C-AVI / 87.3 D-AVI. The net transaction degrades Conquistadors' overall starting lineup by 32.7 C-AVI."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus values De'Von Achane as an elite top-5 dynasty RB and high-end RB1 in redraft. DJ Moore is valued as a mid-tier WR2/FLEX following his trade to the Buffalo Bills.",
+          "aviVsMarket": "AVI aligns closely with public market consensus. Achane is priced as an irreplaceable elite cornerstone, while Moore is priced as a quality starter whose value relies on Allen's target distribution.",
+          "relevantContext": [
+            "DJ Moore was traded to the Buffalo Bills in March 2026, reuniting with OC Joe Brady and taking over as Buffalo's primary perimeter WR1.",
+            "On August 15, 2026, Moore exited a preseason game with an ankle concern but walked off under his own power; situation is monitored.",
+            "De'Von Achane forms an elite RB duo alongside Bijan Robinson, giving Conquistadors one of the strongest backfields in the league."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. (Playoff Push) would gladly acquire De'Von Achane to pair with Cam Skattebo, but will not send a package that strips away their own starting core.",
+          "packageFit": "Straight up or with minor pieces, the trade is far too advantageous for Corgi Loaf while severely damaging Conquistadors. Attempting to balance the package by demanding Cam Skattebo or multiple top picks breaks Corgi Loaf's own roster balance.",
+          "lineupReplacement": "For Conquistadors, trading Achane forces Tyjae Spears (50.7 C-AVI) into the starting RB2 slot—a catastrophic 46.7 C-AVI downgrade that is not offset by DJ Moore entering FLEX2 (+14.0 C-AVI net gain over Juwan Johnson).",
+          "competitiveWindowFit": "As an Elite Contender with a 'Win Championship' goal, Conquistadors cannot afford to surrender an S-tier RB for WR depth. Corgi Loaf is in a Playoff Push and cannot afford to gut their roster depth to pay the full market price for Achane.",
+          "positionalScarcity": "In a 16-team full PPR league, elite starting RBs like Achane are extraordinarily scarce and represent major competitive advantages over opponent RB2 slots."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 10,
+            "packageMatch": 5,
+            "lineupReplacement": 0,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 30,
+          "classification": "Unlikely",
+          "explanation": "The proposed foundation (De'Von Achane for DJ Moore) fails key validations for both organizations. For Conquistadors (Elite Contender), selling Achane creates an unacceptable starting lineup downgrade at RB2 that destroys championship odds. For Corgi Loaf, paying the necessary premium (DJ Moore + Cam Skattebo + 1st) to legitimately acquire Achane would strip their own starting lineup and depth, conflicting with their Playoff Push mandate. No balanced construction exists using this asset foundation that achieves >= 70% acceptance probability while serving both team goals."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "The proposed foundation (De'Von Achane for DJ Moore) fails key validations for both organizations. For Conquistadors (Elite Contender), selling Achane creates an unacceptable starting lineup downgrade at RB2 that destroys championship odds. For Corgi Loaf, paying the necessary premium (DJ Moore + Cam Skattebo + 1st) to legitimately acquire Achane would strip their own starting lineup and depth, conflicting with their Playoff Push mandate. No balanced construction exists using this asset foundation that achieves >= 70% acceptance probability while serving both team goals.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "The proposed foundation (De'Von Achane for DJ Moore) fails key validations for both organizations. For Conquistadors (Elite Contender), selling Achane creates an unacceptable starting lineup downgrade at RB2 that destroys championship odds. For Corgi Loaf, paying the necessary premium (DJ Moore + Cam Skattebo + 1st) to legitimately acquire Achane would strip their own starting lineup and depth, conflicting with their Playoff Push mandate. No balanced construction exists using this asset foundation that achieves >= 70% acceptance probability while serving both team goals.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Corgi Loaf Baking Co. (Playoff Push) would gladly acquire De'Von Achane to pair with Cam Skattebo, but will not send a package that strips away their own starting core."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Straight up or with minor pieces, the trade is far too advantageous for Corgi Loaf while severely damaging Conquistadors. Attempting to balance the package by demanding Cam Skattebo or multiple top picks breaks Corgi Loaf's own roster balance."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "For Conquistadors, trading Achane forces Tyjae Spears (50.7 C-AVI) into the starting RB2 slot—a catastrophic 46.7 C-AVI downgrade that is not offset by DJ Moore entering FLEX2 (+14.0 C-AVI net gain over Juwan Johnson)."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "As an Elite Contender with a 'Win Championship' goal, Conquistadors cannot afford to surrender an S-tier RB for WR depth. Corgi Loaf is in a Playoff Push and cannot afford to gut their roster depth to pay the full market price for Achane."
+            }
+          ],
+          "opponentPerspective": "Corgi Loaf Baking Co. (Playoff Push) would gladly acquire De'Von Achane to pair with Cam Skattebo, but will not send a package that strips away their own starting core.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Straight up or with minor pieces, the trade is far too advantageous for Corgi Loaf while severely damaging Conquistadors. Attempting to balance the package by demanding Cam Skattebo or multiple top picks breaks Corgi Loaf's own roster balance.",
+          "whatWouldNeedToChange": [
+            "Corgi Loaf Baking Co. (Playoff Push) would gladly acquire De'Von Achane to pair with Cam Skattebo, but will not send a package that strips away their own starting core.",
+            "Straight up or with minor pieces, the trade is far too advantageous for Corgi Loaf while severely damaging Conquistadors. Attempting to balance the package by demanding Cam Skattebo or multiple top picks breaks Corgi Loaf's own roster balance.",
+            "For Conquistadors, trading Achane forces Tyjae Spears (50.7 C-AVI) into the starting RB2 slot—a catastrophic 46.7 C-AVI downgrade that is not offset by DJ Moore entering FLEX2 (+14.0 C-AVI net gain over Juwan Johnson).",
+            "As an Elite Contender with a 'Win Championship' goal, Conquistadors cannot afford to surrender an S-tier RB for WR depth. Corgi Loaf is in a Playoff Push and cannot afford to gut their roster depth to pay the full market price for Achane."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "DJ Moore news 2026 fantasy football",
+          "DJ Moore contract team 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwGsOt36853lZ37R74oawc52wRvQOASeiEVNenjvR185E7k4WnEof5CFSPumjXta93kGVvuyWHUaQP-dwRBC4KVxe-uEUFEvYARH3kSrsV0BNBUN1sQtyZNSStrPkCQiC4",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeTp9wrD2Vm0Z_GrPdnworbZ4cvuLSK4tVX28a_lh0m0J4jXRMW6J0OvQK4B4JF58VxxFgxTaLjG1_6BYoO3OgU4UYzv81OGoGflprW91WTSz6yjcLPMI_TA9B9xXEcpLuMRifB9EfJFCNKjKm89XErdg2nzJoRZOghUqDDzxvm-SBQoCo_LdUo2k=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiL5I6lOWy1gFtx6ICpuqft1JSbY6UwTtkD4xc8cV6ZElmAsqrLT7wXvWddoKtYj5L46GQ4Guj40QftK0TGkHlqvOJettSoWoT7XOyFZuU4XXNiHRhyn2o2nWGrEhOqQoiVeBGUM066o7OOQAZDqSEeDhj8x-h8jYWDT3BSjwzOlvpmoAx1cBE",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEml6x7DLlspU7ajlwtQu68zmuON_3SUgsdz0p2IGPR-OF4zk4J3e8EgzPTWpLhhk0-q6TuVBQkqZsKMzB5q4BT83GHW6oVR6VNGVLW5rG6QKMDt-_oCBv9NV-uzi-_Gf6tInbNNQb0iGRgsrbe0Ds5pg==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz-Q_sCCTfLr3kxho8N36Y_Q0tySpZzb0YITkoDxJD1NjAx8IUYIOoaiB0S9d-_uYzcwVD9xvbnO-BXcephdGbf6ru9oXvxZIz6PNjv52Yw0fRyCr6kk7X-AQWgPPc_4MfTbAllXGFMVW4SHYkPJ2Xp9uJmyfCi6sQVOA72di8gsALzvsAdTdBs3ufPmec4A30Z6QWfEA=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq-6ewr0i9mgHwbp57ZFsvY79n5EnkpcvlOMlxxN0v8jlaeasjHViPT-JhRvZSoWvpP2OOEWQ6r7xrcvnKBNMurdNHK3_stbMyHUissoPDGdyzw5eIyObxnBcklFZUjEJfpZzseJBvAsViwqXBGS59xEw5ki7zjQnVdKGgWYBNP5enkdS3m2YNY14dcJrzzIMTv3m9Fg==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8zxjEOQE1X44lhzJsmtcxN-oekCrzEB3sVsa1Zb0ZD2MF5lM6IevvQljWE41MpOfVWbTKm7xQqEOLfg2550E_VSOv59xDQVkwLBWtW-yn_aShJ0mFfSji43QYfnaV5ZvWNSr28048XbWWMVHetjkiKmLt8pe3M0Xn7htLQ2O4c-TYWgvm5MPdfi09AkEQcYY_ZWupDVMQ_UHDvUG707MFjnS9OpiADiFtcQXF1Ec=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDhksmpVhK3J04YfHr7ITYxryT2Dvh-zUNIEqLq2D50BK8lkWakJBNzPuYN533zXFHgQgZ5l0JKm5HW0Trd-1-AZ1feYalnGscltvANd60nXyIa3KwPifbM-TZ6PxsAe74fu110MMzmWDTIKRY",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "d4e17274ea277bcd6a15c5e2e2198b7563de9d69",
+        "aviCoreCommittedAt": "2026-08-15T18:14:40Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 71381,
+        "groundedMarketChars": 3035,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "msuq7obm-ee3d406a",
     "createdAt": 1786819541707,
     "expiresAt": 1787251541707,
