@@ -1,5 +1,27 @@
 [
   {
+    "id": "msvyyika-d5d88578",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Jayden Daniels",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1786894684282,
+    "updatedAt": 1786894684282,
+    "expiresAt": 1787326684282,
+    "status": "queued"
+  },
+  {
     "id": "msv4hy4s-4b1cf5a7",
     "phase": "initial",
     "mode": "analyze_trade",
