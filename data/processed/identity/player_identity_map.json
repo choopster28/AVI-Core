@@ -549,6 +549,15 @@
     "sleeper_id": "4454"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "17115",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Taysom Hill",
+    "position": "TE",
+    "sleeper_id": "4381"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "17233",
     "match_method": "exact_name_position_unique",
@@ -835,6 +844,15 @@
     "player_name": "KaVontae Turpin",
     "position": "WR",
     "sleeper_id": "8917"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "18562",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ARI",
+    "player_name": "Gardner Minshew II",
+    "position": "QB",
+    "sleeper_id": "6011"
   },
   {
     "confidence": "verified",
@@ -1312,6 +1330,15 @@
     "player_name": "Reggie Gilliam",
     "position": "RB",
     "sleeper_id": "7204"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "20082",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LAC",
+    "player_name": "Trey Lance",
+    "position": "QB",
+    "sleeper_id": "7610"
   },
   {
     "confidence": "verified",

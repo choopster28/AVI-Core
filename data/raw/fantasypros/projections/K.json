@@ -26,10 +26,10 @@
       "stats": {
         "fg": 34.7,
         "fga": 39.62,
-        "points": 150.4,
-        "points_half": 150.4,
-        "points_ppr": 150.4,
-        "xpt": 46.31
+        "points": 150.41,
+        "points_half": 150.41,
+        "points_ppr": 150.41,
+        "xpt": 46.32
       },
       "team_id": "SEA"
     },
@@ -138,10 +138,10 @@
       "stats": {
         "fg": 31.52,
         "fga": 36.49,
-        "points": 132.94,
-        "points_half": 132.94,
-        "points_ppr": 132.94,
-        "xpt": 38.37
+        "points": 133.44,
+        "points_half": 133.44,
+        "points_ppr": 133.44,
+        "xpt": 38.87
       },
       "team_id": "TB"
     },
@@ -162,6 +162,22 @@
       "team_id": "SF"
     },
     {
+      "filename": "harrison-butker.php",
+      "fpid": 16712,
+      "mflid": 13354,
+      "name": "Harrison Butker",
+      "position_id": "K",
+      "stats": {
+        "fg": 31.28,
+        "fga": 36.56,
+        "points": 132.26,
+        "points_half": 132.26,
+        "points_ppr": 132.26,
+        "xpt": 38.43
+      },
+      "team_id": "KC"
+    },
+    {
       "filename": "tyler-loop.php",
       "fpid": 27534,
       "mflid": 17222,
@@ -176,22 +192,6 @@
         "xpt": 46.72
       },
       "team_id": "BAL"
-    },
-    {
-      "filename": "harrison-butker.php",
-      "fpid": 16712,
-      "mflid": 13354,
-      "name": "Harrison Butker",
-      "position_id": "K",
-      "stats": {
-        "fg": 31.28,
-        "fga": 36.22,
-        "points": 131.76,
-        "points_half": 131.76,
-        "points_ppr": 131.76,
-        "xpt": 37.93
-      },
-      "team_id": "KC"
     },
     {
       "filename": "cam-little.php",
@@ -249,7 +249,7 @@
       "position_id": "K",
       "stats": {
         "fg": 30.01,
-        "fga": 32.82,
+        "fga": 32.48,
         "points": 128.61,
         "points_half": 128.61,
         "points_ppr": 128.61,
@@ -466,6 +466,22 @@
       "team_id": "ARI"
     },
     {
+      "filename": "ryan-fitzgerald.php",
+      "fpid": 27261,
+      "mflid": 17277,
+      "name": "Ryan Fitzgerald",
+      "position_id": "K",
+      "stats": {
+        "fg": 25.84,
+        "fga": 30.49,
+        "points": 108.95,
+        "points_half": 108.95,
+        "points_ppr": 108.95,
+        "xpt": 31.43
+      },
+      "team_id": "CAR"
+    },
+    {
       "filename": "matt-gay.php",
       "fpid": 18545,
       "mflid": 14244,
@@ -480,22 +496,6 @@
         "xpt": 30.6
       },
       "team_id": "LV"
-    },
-    {
-      "filename": "ryan-fitzgerald.php",
-      "fpid": 27261,
-      "mflid": 17277,
-      "name": "Ryan Fitzgerald",
-      "position_id": "K",
-      "stats": {
-        "fg": 25.51,
-        "fga": 30.16,
-        "points": 107.95,
-        "points_half": 107.95,
-        "points_ppr": 107.95,
-        "xpt": 31.43
-      },
-      "team_id": "CAR"
     },
     {
       "filename": "andre-szmyt.php",

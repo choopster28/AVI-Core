@@ -1,7 +1,169 @@
 {
-  "count": 22,
+  "count": 23,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 22:23:48",
+      "created_formated": "Sun, Aug 16th 10:23pm UTC",
+      "desc": "Kyle Monangai left practice early on Sunday with an apparent knee/leg injury. ",
+      "id": 602693,
+      "impact": "Hope notes that Monangai suffered what appeared to be a right knee injury when Grady Jarrett tackled him from behind. Monangai slowly walked off the field with a trainer. This will be something to note as he's expected to continue to compliment D'Andre Swift in the Bears backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/602693/kyle-monangai-leaves-practice-early-sunday.php",
+      "player_id": 27131,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Kyle Monangai leaves practice early Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 20:50:22",
+      "created_formated": "Sun, Aug 16th 8:50pm UTC",
+      "desc": "George Kittle told reporters he still has a shot to play Week 1 against the Rams.",
+      "id": 602682,
+      "impact": "Kittle added he's \"very confident\" he won't be starting the season on the PUP list. There is expected to be a decision made on his status before the 49ers leave for Melbourne.",
+      "link": "https://www.fantasypros.com/nfl/news/602682/george-kittle-achilles-remains-hopeful-week-1.php",
+      "player_id": 16499,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "George Kittle (Achilles) remains hopeful for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 20:48:01",
+      "created_formated": "Sun, Aug 16th 8:48pm UTC",
+      "desc": "Christian McCaffrey is still not practicing on Sunday. ",
+      "id": 602681,
+      "impact": "McCaffrey has been absent from practice this week due to tightness. It remains unclear how serious of an injury he is dealing with. His status will need to continue to be monitored in practice this week. ",
+      "link": "https://www.fantasypros.com/nfl/news/602681/christian-mccaffrey-remains-absent-from-practice-sunday.php",
+      "player_id": 16393,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Christian McCaffrey remains absent from practice Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 18:53:38",
+      "created_formated": "Sun, Aug 16th 6:53pm UTC",
+      "desc": "Cardinals head coach Mike LaFleur said there's no timeline for James Conner to return to 11-on-11 drills. ",
+      "id": 602676,
+      "impact": "Conner took a paycut this offseason and is due $2.35 million guaranteed in 2026. It is unclear what his role will be when healthy behind Jeremiyah Love and Tyler Allgeier. ",
+      "link": "https://www.fantasypros.com/nfl/news/602676/james-conner-ankle-without-timetable-to-return-to-team-drills.php",
+      "player_id": 16447,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "James Conner (ankle) without timetable to return to team drills "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 18:51:23",
+      "created_formated": "Sun, Aug 16th 6:51pm UTC",
+      "desc": "Lukas Van Ness did not practice on Sunday due to a shoulder injury. ",
+      "id": 602675,
+      "impact": "It remains unclear how serious the injury is for Van Ness. ",
+      "link": "https://www.fantasypros.com/nfl/news/602675/lukas-van-ness-shoulder-misses-practice-sunday.php",
+      "player_id": 25291,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Lukas Van Ness (shoulder) misses practice Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 18:49:46",
+      "created_formated": "Sun, Aug 16th 6:49pm UTC",
+      "desc": "Commanders coach Dan Quinn said Jeremy McNichols will be sidelined a few weeks with a quad injury. ",
+      "id": 602674,
+      "impact": "McNichols is competing for a depth role in the Commanders backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/602674/jeremy-mcnichols-quad-to-miss-few-weeks.php",
+      "player_id": 16445,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Jeremy McNichols (quad) to miss a few weeks"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 18:47:43",
+      "created_formated": "Sun, Aug 16th 6:47pm UTC",
+      "desc": "Dolphins QB Quinn Ewers suffered a groin injury in Friday's preseason game against the Commanders.",
+      "id": 602673,
+      "impact": "Ewers is currently expected to enter the season as the backup. It is unclear how serious the injury is. ",
+      "link": "https://www.fantasypros.com/nfl/news/602673/quinn-ewers-dealing-with-groin-injury.php",
+      "player_id": 23680,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Quinn Ewers dealing with groin injury"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 18:07:52",
+      "created_formated": "Sun, Aug 16th 6:07pm UTC",
+      "desc": "Tucker Kraft returned to team drills at practice on Sunday. ",
+      "id": 602667,
+      "impact": "Kraft continues to progress in the right direction. He remains on track to be good to go for the start of the season for the Packers. ",
+      "link": "https://www.fantasypros.com/nfl/news/602667/tucker-kraft-knee-returns-to-team-drills-sunday.php",
+      "player_id": 25298,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Tucker Kraft (knee) returns to team drills Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 16:16:43",
+      "created_formated": "Sun, Aug 16th 4:16pm UTC",
+      "desc": "Commanders QB Marcus Mariota suffered a sprained MCL that is likely to sideline him for the remainder of the preseason. ",
+      "id": 602637,
+      "impact": "Mariota suffered the injury in Friday's preseason game against the Dolphins. He'll remain the backup behind Jayden Daniels going into the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/602637/marcus-mariota-mcl-sprain-likely-out-rest-preseason.php",
+      "player_id": 13890,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Marcus Mariota (MCL sprain) likely out for rest of preseason "
+    },
     {
       "author": "Ari Koslow",
       "categories": [
@@ -166,24 +328,6 @@
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-16 05:58:52",
-      "created_formated": "Sun, Aug 16th 5:58am UTC",
-      "desc": "Commanders QB Marcus Mariota exited Friday's preseason game against the Dolphins after suffering an apparent knee injury.",
-      "id": 602561,
-      "impact": "Mariota will continue to be further evaluated into the upcoming week. ",
-      "link": "https://www.fantasypros.com/nfl/news/602561/marcus-mariota-dealing-with-knee-injury.php",
-      "player_id": 13890,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Marcus Mariota dealing with knee injury"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
         "News"
       ],
       "created": "2026-08-16 05:57:22",
@@ -266,129 +410,6 @@
       "sport_id": "NFL",
       "team_id": "CHI",
       "title": "Luther Burden III (groin) gets in light work Saturday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-15 15:27:00",
-      "created_formated": "Sat, Aug 15th 3:27pm UTC",
-      "desc": "Max Iheanachor was still not practicing on Saturday. ",
-      "id": 602503,
-      "impact": "Iheanachor remains without a clear timetable to return to practice. ",
-      "link": "https://www.fantasypros.com/nfl/news/602503/max-iheanachor-absent-from-practice-saturday.php",
-      "player_id": 28183,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Max Iheanachor absent from practice Saturday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-15 15:25:40",
-      "created_formated": "Sat, Aug 15th 3:25pm UTC",
-      "desc": "Broncos LB Levelle Bailey suffered a serious leg injury in Friday night's preseason game and will miss extended time. ",
-      "id": 602502,
-      "impact": "It is a brutal break for Bailey, who had signed a futures deal with Denver back in January. He does not hold a clear timetable to return. ",
-      "link": "https://www.fantasypros.com/nfl/news/602502/levelle-bailey-to-miss-extended-time-with-leg-injury.php",
-      "player_id": 26705,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Levelle Bailey to miss extended time with leg injury"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-15 15:22:49",
-      "created_formated": "Sat, Aug 15th 3:22pm UTC",
-      "desc": "Germie Bernard took first-team slot reps in practice on Saturday. ",
-      "id": 602501,
-      "impact": "Bernard impressed in his preseason debut with 51 yards on four receptions. DK Metcalf and Michael Pittman Jr. remained absent from practice on Saturday. ",
-      "link": "https://www.fantasypros.com/nfl/news/602501/germie-bernard-works-with-first-team-practice-saturday.php",
-      "player_id": 26039,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Germie Bernard works with first-team in practice Saturday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-15 15:15:15",
-      "created_formated": "Sat, Aug 15th 3:15pm UTC",
-      "desc": "The Bengals activated DL B.J. Hill from the PUP list. ",
-      "id": 602498,
-      "impact": "Hill was placed on the PUP list in the last week of July. He has passed his physical and he's been cleared to return to practice. ",
-      "link": "https://www.fantasypros.com/nfl/news/602498/bj-hill-activated-from-pup-list.php",
-      "player_id": 17402,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "B.J. Hill activated from PUP list "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-15 14:53:39",
-      "created_formated": "Sat, Aug 15th 2:53pm UTC",
-      "desc": "The Saints are planning for QB Hunter Dekkers to get some opportunities in Saturday's preseason opener. ",
-      "id": 602484,
-      "impact": "Dekkers returned to the Saints in June. He is competing for a depth role in their quarterback room. ",
-      "link": "https://www.fantasypros.com/nfl/news/602484/hunter-dekkers-to-get-reps-preseason-opener-saturday.php",
-      "player_id": 27929,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Hunter Dekkers to get reps in preseason opener Saturday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-15 14:51:45",
-      "created_formated": "Sat, Aug 15th 2:51pm UTC",
-      "desc": "49ers CB Nate Hobbs is expected to miss the next few weeks with a groin injury.",
-      "id": 602483,
-      "impact": "Hobbs signed a one-year contract with the 49ers in March. His status for the start of the season could be up in the air. ",
-      "link": "https://www.fantasypros.com/nfl/news/602483/nate-hobbs-groin-to-miss-few-weeks.php",
-      "player_id": 23299,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Nate Hobbs (groin) to miss a few weeks"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-15 14:48:43",
-      "created_formated": "Sat, Aug 15th 2:48pm UTC",
-      "desc": "DeMarcus Lawrence has said he will retire after this season. ",
-      "id": 602481,
-      "impact": "Lawrence had considered retiring after last season. He is entering his 13th season.",
-      "link": "https://www.fantasypros.com/nfl/news/602481/demarcus-lawrence-to-retire-after-this-season.php",
-      "player_id": 12217,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "DeMarcus Lawrence to retire after this season"
     }
   ],
   "public_api_limited": true,

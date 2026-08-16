@@ -5393,7 +5393,7 @@
     },
     {
       "cbs_player_id": "2221865",
-      "player_bye_week": "13",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "benito-jones.php",
@@ -5406,7 +5406,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "B. Jones",
-      "player_team_id": "LV",
+      "player_team_id": "FA",
       "player_yahoo_id": "33239",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT97",

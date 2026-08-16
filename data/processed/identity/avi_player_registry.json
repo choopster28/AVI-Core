@@ -3515,6 +3515,32 @@
   {
     "active": true,
     "aliases": [
+      "Gardner Minshew",
+      "Gardner Minshew II"
+    ],
+    "avi_id": "AVI-00006011",
+    "canonical_name": "Gardner Minshew",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "ARI",
+    "normalized_name": "gardner minshew",
+    "position": "QB",
+    "source_ids": {
+      "espn_id": 4038524,
+      "fantasy_data_id": 20880,
+      "fantasypros_id": "18562",
+      "nfl_id": "2562796",
+      "rotowire_id": 13741,
+      "sleeper_id": "6011",
+      "sportradar_id": "dabb52c0-455b-48fe-996b-abf758120623",
+      "sportsdata_player_id": "dabb52c0-455b-48fe-996b-abf758120623"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Garrett Wilson"
     ],
     "avi_id": "AVI-00008146",
@@ -9388,6 +9414,31 @@
   {
     "active": true,
     "aliases": [
+      "Taysom Hill"
+    ],
+    "avi_id": "AVI-00004381",
+    "canonical_name": "Taysom Hill",
+    "match": {
+      "confidence": "review",
+      "method": "exact_name_position"
+    },
+    "nfl_team": "FA",
+    "normalized_name": "taysom hill",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": 2468609,
+      "fantasy_data_id": 19238,
+      "fantasypros_id": "17115",
+      "nfl_id": "2558954",
+      "rotowire_id": 12063,
+      "sleeper_id": "4381",
+      "sportradar_id": "3c8a55dd-20a8-4375-b711-49eb5e6e1d0e",
+      "sportsdata_player_id": "3c8a55dd-20a8-4375-b711-49eb5e6e1d0e"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Ted Hurst",
       "Ted Hurst III"
     ],
@@ -9472,7 +9523,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "NE",
+    "nfl_team": "FA",
     "normalized_name": "terrell jennings",
     "position": "RB",
     "source_ids": {
@@ -9936,6 +9987,31 @@
       "sleeper_id": "11589",
       "sportradar_id": "0c1253f2-1822-445d-8590-fea6fd32703f",
       "sportsdata_player_id": "0c1253f2-1822-445d-8590-fea6fd32703f"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Trey Lance"
+    ],
+    "avi_id": "AVI-00007610",
+    "canonical_name": "Trey Lance",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "LAC",
+    "normalized_name": "trey lance",
+    "position": "QB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 22493,
+      "fantasypros_id": "20082",
+      "nfl_id": "2566532",
+      "rotowire_id": 15198,
+      "sleeper_id": "7610",
+      "sportradar_id": "676a508c-c65f-404a-a2b0-f861a4bfd072",
+      "sportsdata_player_id": "676a508c-c65f-404a-a2b0-f861a4bfd072"
     }
   },
   {

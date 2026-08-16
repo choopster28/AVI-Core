@@ -5663,7 +5663,7 @@
     {
       "cbs_player_id": "2139270",
       "player_age": "30",
-      "player_bye_week": null,
+      "player_bye_week": "13",
       "player_ecr_delta": null,
       "player_eligibility": "WR",
       "player_filename": "noah-brown.php",
@@ -5676,7 +5676,7 @@
       "player_position_id": "WR",
       "player_positions": "WR",
       "player_short_name": "N. Brown",
-      "player_team_id": "FA",
+      "player_team_id": "LV",
       "player_yahoo_id": "30352",
       "player_yahoo_positions": "WR",
       "pos_rank": "WR203",
