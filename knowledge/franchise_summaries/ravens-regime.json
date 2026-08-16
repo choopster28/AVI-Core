@@ -5,51 +5,51 @@
   "roster_id": 3,
   "owner_display_name": "Mentomorii",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 14, 2026",
-  "generated_at": "2026-08-14T20:05:02.730767-06:00",
+  "reporting_period": "Week of August 15, 2026",
+  "generated_at": "2026-08-15T20:36:57.653853-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Ravens Regime: Preseason Front Office Brief",
-  "executive_summary": "Ravens Regime is projected #6 of 16 with a 653.00 projected-starting-lineup C-AVI total, led by Lamar Jackson, Kyle Pitts, and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Ravens Regime is projected #7 of 16 with a 636.40 projected-starting-lineup C-AVI total, led by Lamar Jackson, Kyle Pitts, and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 6,
+    "rank": 7,
     "league_size": 16,
-    "score": 653.0,
+    "score": 636.4,
     "team_above": {
-      "name": "SmokyValleyWheatWarriors",
-      "rank": 5,
-      "score": 662.1,
-      "gap": 9.100000000000023
+      "name": "All Hail King Jesus",
+      "rank": 6,
+      "score": 648.5,
+      "gap": 12.100000000000023
     },
     "team_below": {
       "name": "Southside Savages",
-      "rank": 7,
-      "score": 634.9,
-      "gap": 18.100000000000023
+      "rank": 8,
+      "score": 635.6,
+      "gap": 0.7999999999999545
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 7,
+    "rank": 10,
     "league_size": 16,
-    "score": 1903.4,
-    "player_d_avi": 1279.4,
-    "future_pick_d_avi": 624.0,
+    "score": 2121.9,
+    "player_d_avi": 1278.6,
+    "future_pick_d_avi": 843.3,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1394090507352690688",
-    "created_at": "2026-08-14T20:33:07.203000+00:00",
+    "transaction_id": "1394538418473545728",
+    "created_at": "2026-08-16T02:12:57.536000+00:00",
     "type": "trade",
-    "summary": "On August 14, Ravens Regime completed a trade with Gringo\u2019s Goblins and acquired Jacory Croskey-Merritt, Davante Adams, 2028 Round 2 (Gringo\u2019s Goblins) and sent Romeo Doubs, Jameson Williams.",
+    "summary": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams.",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Kyle Monangai's 56.8 C-AVI baseline; a replacement near 65.9 C-AVI would directly attack the 9.10-point projected gap to SmokyValleyWheatWarriors."
+    "Raise the RB slot above Kyle Monangai's 56.8 C-AVI baseline; a replacement near 68.9 C-AVI would directly attack the 12.10-point projected gap to All Hail King Jesus."
   ],
   "rival_below": {
     "franchise_name": "Southside Savages",
-    "projected_rank": 7,
-    "projected_score": 634.9,
+    "projected_rank": 8,
+    "projected_score": 635.6,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1351398743596859392",
@@ -64,24 +64,24 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #6 of 16 at 653.00 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 662.10, a gap of 9.10. Southside Savages is immediately behind at 634.90."
+      "body": "Projected #7 of 16 at 636.40 lineup C-AVI. All Hail King Jesus is immediately above at 648.50, a gap of 12.10. Southside Savages is immediately behind at 635.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Lamar Jackson (98.1), Kyle Pitts (94.0), and Derrick Henry (93.2)."
+      "body": "The three highest C-AVI starters are Lamar Jackson (98.2), Kyle Pitts (94.0), and Derrick Henry (93.2)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On August 14, Ravens Regime completed a trade with Gringo\u2019s Goblins and acquired Jacory Croskey-Merritt, Davante Adams, 2028 Round 2 (Gringo\u2019s Goblins) and sent Romeo Doubs, Jameson Williams."
+      "body": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Kyle Monangai's 56.8 C-AVI baseline; a replacement near 65.9 C-AVI would directly attack the 9.10-point projected gap to SmokyValleyWheatWarriors.",
+      "body": "Raise the RB slot above Kyle Monangai's 56.8 C-AVI baseline; a replacement near 68.9 C-AVI would directly attack the 12.10-point projected gap to All Hail King Jesus.",
       "items": [
-        "Raise the RB slot above Kyle Monangai's 56.8 C-AVI baseline; a replacement near 65.9 C-AVI would directly attack the 9.10-point projected gap to SmokyValleyWheatWarriors."
+        "Raise the RB slot above Kyle Monangai's 56.8 C-AVI baseline; a replacement near 68.9 C-AVI would directly attack the 12.10-point projected gap to All Hail King Jesus."
       ]
     },
     {
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/03_Ravens_Regime.md"
     ],
-    "source_last_updated": "2026-08-14",
+    "source_last_updated": "2026-08-16",
     "external_sources_used": false,
     "conversation_context_used": false
   }

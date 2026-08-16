@@ -5,100 +5,100 @@
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 14, 2026",
-  "generated_at": "2026-08-14T20:05:02.730767-06:00",
+  "reporting_period": "Week of August 15, 2026",
+  "generated_at": "2026-08-15T20:36:57.653853-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #3 of 16 with a 668.00 projected-starting-lineup C-AVI total, led by Justin Jefferson, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 656.70 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 3,
+    "rank": 5,
     "league_size": 16,
-    "score": 668.0,
+    "score": 656.7,
     "team_above": {
-      "name": "Conquistadors",
-      "rank": 2,
-      "score": 724.5,
-      "gap": 56.5
+      "name": "SmokyValleyWheatWarriors",
+      "rank": 4,
+      "score": 662.7,
+      "gap": 6.0
     },
     "team_below": {
-      "name": "Mile High Royal Lions",
-      "rank": 4,
-      "score": 665.1,
-      "gap": 2.8999999999999773
+      "name": "All Hail King Jesus",
+      "rank": 6,
+      "score": 648.5,
+      "gap": 8.200000000000045
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 11,
+    "rank": 8,
     "league_size": 16,
-    "score": 1797.7,
-    "player_d_avi": 1292.4,
-    "future_pick_d_avi": 505.3,
+    "score": 2158.3,
+    "player_d_avi": 1274.4,
+    "future_pick_d_avi": 883.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1390409668387418112",
-    "created_at": "2026-08-04T16:46:46.807000+00:00",
+    "transaction_id": "1394413143647592448",
+    "created_at": "2026-08-15T17:55:09.691000+00:00",
     "type": "trade",
-    "summary": "On August 4, Corgi Loaf Baking Co. completed a trade with DMV Fantasy and acquired 2027 Round 1 (DMV Fantasy) and sent Ja'Kobi Lane, 2028 Round 3 (Corgi Loaf Baking Co.), 2028 Round 1 (Ravens Regime).",
+    "summary": "On August 15, Corgi Loaf Baking Co. completed a trade with Gringo\u2019s Goblins and acquired David Montgomery, Tank Dell and sent Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Christian Watson's 72.0 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.50-point projected gap to Conquistadors."
+    "Raise the FLEX slot above Wan'Dale Robinson's 65.8 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 6.00-point projected gap to SmokyValleyWheatWarriors."
   ],
   "rival_below": {
-    "franchise_name": "Mile High Royal Lions",
-    "projected_rank": 4,
-    "projected_score": 665.1,
+    "franchise_name": "All Hail King Jesus",
+    "projected_rank": 6,
+    "projected_score": 648.5,
     "latest_trade": {
-      "transaction_id": "1387942050321678336",
-      "created_at": "2026-07-28T21:21:20.815000+00:00",
+      "transaction_id": "1394122256442986496",
+      "created_at": "2026-08-14T22:39:16.777000+00:00",
       "type": "trade",
-      "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore.",
+      "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1387942050321678336",
-      "created_at": "2026-07-28T21:21:20.815000+00:00",
+      "transaction_id": "1394122256442986496",
+      "created_at": "2026-08-14T22:39:16.777000+00:00",
       "type": "trade",
-      "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore.",
+      "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore."
+    "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #3 of 16 at 668.00 lineup C-AVI. Conquistadors is immediately above at 724.50, a gap of 56.50. Mile High Royal Lions is immediately behind at 665.10."
+      "body": "Projected #5 of 16 at 656.70 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 662.70, a gap of 6.00. All Hail King Jesus is immediately behind at 648.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Justin Jefferson (97.3), Tyler Warren (97.2), and Malik Nabers (88.7)."
+      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Tyler Warren (97.2), and Malik Nabers (88.9)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On August 4, Corgi Loaf Baking Co. completed a trade with DMV Fantasy and acquired 2027 Round 1 (DMV Fantasy) and sent Ja'Kobi Lane, 2028 Round 3 (Corgi Loaf Baking Co.), 2028 Round 1 (Ravens Regime)."
+      "body": "On August 15, Corgi Loaf Baking Co. completed a trade with Gringo\u2019s Goblins and acquired David Montgomery, Tank Dell and sent Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Christian Watson's 72.0 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.50-point projected gap to Conquistadors.",
+      "body": "Raise the FLEX slot above Wan'Dale Robinson's 65.8 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 6.00-point projected gap to SmokyValleyWheatWarriors.",
       "items": [
-        "Raise the FLEX slot above Christian Watson's 72.0 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.50-point projected gap to Conquistadors."
+        "Raise the FLEX slot above Wan'Dale Robinson's 65.8 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 6.00-point projected gap to SmokyValleyWheatWarriors."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 28, Mile High Royal Lions completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Crimson Tide Pods) and sent DJ Moore."
+      "body": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Christian Watson is the lowest C-AVI starter in the verified championship lineup at 72.0. Any acquisition should clear that exact lineup threshold."
+      "body": "Wan'Dale Robinson is the lowest C-AVI starter in the verified championship lineup at 65.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -117,7 +117,7 @@
       "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-14",
+    "source_last_updated": "2026-08-16",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -5,35 +5,35 @@
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 14, 2026",
-  "generated_at": "2026-08-14T20:05:02.730767-06:00",
+  "reporting_period": "Week of August 15, 2026",
+  "generated_at": "2026-08-15T20:36:57.653853-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
-  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #10 of 16 with a 592.80 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #10 of 16 with a 593.80 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 10,
     "league_size": 16,
-    "score": 592.8,
+    "score": 593.8,
     "team_above": {
       "name": "Badland Banditos",
       "rank": 9,
-      "score": 626.8,
+      "score": 627.8,
       "gap": 34.0
     },
     "team_below": {
-      "name": "DMV Fantasy",
+      "name": "Gringo\u2019s Goblins",
       "rank": 11,
-      "score": 584.2,
-      "gap": 8.599999999999909
+      "score": 573.0,
+      "gap": 20.799999999999955
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 1767.0,
-    "player_d_avi": 1074.4,
-    "future_pick_d_avi": 692.6,
+    "score": 2036.7,
+    "player_d_avi": 1076.8,
+    "future_pick_d_avi": 959.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Mike Gesicki's 48.0 C-AVI baseline; a replacement near 82.0 C-AVI would directly attack the 34.00-point projected gap to Badland Banditos."
+    "Raise the FLEX slot above Mike Gesicki's 48.2 C-AVI baseline; a replacement near 82.2 C-AVI would directly attack the 34.00-point projected gap to Badland Banditos."
   ],
   "rival_below": {
-    "franchise_name": "DMV Fantasy",
+    "franchise_name": "Gringo\u2019s Goblins",
     "projected_rank": 11,
-    "projected_score": 584.2,
+    "projected_score": 573.0,
     "latest_trade": {
-      "transaction_id": "1390409668387418112",
-      "created_at": "2026-08-04T16:46:46.807000+00:00",
+      "transaction_id": "1394413143647592448",
+      "created_at": "2026-08-15T17:55:09.691000+00:00",
       "type": "trade",
-      "summary": "On August 4, DMV Fantasy completed a trade with Corgi Loaf Baking Co. and acquired Ja'Kobi Lane, 2028 Round 3 (Corgi Loaf Baking Co.), 2028 Round 1 (Ravens Regime) and sent 2027 Round 1 (DMV Fantasy).",
+      "summary": "On August 15, Gringo\u2019s Goblins completed a trade with Corgi Loaf Baking Co. and acquired Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.) and sent David Montgomery, Tank Dell.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1390409668387418112",
-      "created_at": "2026-08-04T16:46:46.807000+00:00",
+      "transaction_id": "1394413143647592448",
+      "created_at": "2026-08-15T17:55:09.691000+00:00",
       "type": "trade",
-      "summary": "On August 4, DMV Fantasy completed a trade with Corgi Loaf Baking Co. and acquired Ja'Kobi Lane, 2028 Round 3 (Corgi Loaf Baking Co.), 2028 Round 1 (Ravens Regime) and sent 2027 Round 1 (DMV Fantasy).",
+      "summary": "On August 15, Gringo\u2019s Goblins completed a trade with Corgi Loaf Baking Co. and acquired Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.) and sent David Montgomery, Tank Dell.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 4, DMV Fantasy completed a trade with Corgi Loaf Baking Co. and acquired Ja'Kobi Lane, 2028 Round 3 (Corgi Loaf Baking Co.), 2028 Round 1 (Ravens Regime) and sent 2027 Round 1 (DMV Fantasy)."
+    "summary": "On August 15, Gringo\u2019s Goblins completed a trade with Corgi Loaf Baking Co. and acquired Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.) and sent David Montgomery, Tank Dell."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #10 of 16 at 592.80 lineup C-AVI. Badland Banditos is immediately above at 626.80, a gap of 34.00. DMV Fantasy is immediately behind at 584.20."
+      "body": "Projected #10 of 16 at 593.80 lineup C-AVI. Badland Banditos is immediately above at 627.80, a gap of 34.00. Gringo\u2019s Goblins is immediately behind at 573.00."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jonathan Taylor (97.7), Chase Brown (96.5), and Javonte Williams (81.7)."
+      "body": "The three highest C-AVI starters are Jonathan Taylor (97.7), Chase Brown (96.5), and Javonte Williams (81.8)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Mike Gesicki's 48.0 C-AVI baseline; a replacement near 82.0 C-AVI would directly attack the 34.00-point projected gap to Badland Banditos.",
+      "body": "Raise the FLEX slot above Mike Gesicki's 48.2 C-AVI baseline; a replacement near 82.2 C-AVI would directly attack the 34.00-point projected gap to Badland Banditos.",
       "items": [
-        "Raise the FLEX slot above Mike Gesicki's 48.0 C-AVI baseline; a replacement near 82.0 C-AVI would directly attack the 34.00-point projected gap to Badland Banditos."
+        "Raise the FLEX slot above Mike Gesicki's 48.2 C-AVI baseline; a replacement near 82.2 C-AVI would directly attack the 34.00-point projected gap to Badland Banditos."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 4, DMV Fantasy completed a trade with Corgi Loaf Baking Co. and acquired Ja'Kobi Lane, 2028 Round 3 (Corgi Loaf Baking Co.), 2028 Round 1 (Ravens Regime) and sent 2027 Round 1 (DMV Fantasy)."
+      "body": "On August 15, Gringo\u2019s Goblins completed a trade with Corgi Loaf Baking Co. and acquired Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.) and sent David Montgomery, Tank Dell."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Mike Gesicki is the lowest C-AVI starter in the verified championship lineup at 48.0. Any acquisition should clear that exact lineup threshold."
+      "body": "Mike Gesicki is the lowest C-AVI starter in the verified championship lineup at 48.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -117,7 +117,7 @@
       "AVI-Core/knowledge/teams/06_Lightskin_Legends.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-14",
+    "source_last_updated": "2026-08-16",
     "external_sources_used": false,
     "conversation_context_used": false
   }

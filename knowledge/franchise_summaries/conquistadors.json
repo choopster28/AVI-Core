@@ -5,35 +5,35 @@
   "roster_id": 1,
   "owner_display_name": "Thecan",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 14, 2026",
-  "generated_at": "2026-08-14T20:05:02.730767-06:00",
+  "reporting_period": "Week of August 15, 2026",
+  "generated_at": "2026-08-15T20:36:57.653853-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Conquistadors: Preseason Front Office Brief",
-  "executive_summary": "Conquistadors is projected #2 of 16 with a 724.50 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Conquistadors is projected #2 of 16 with a 724.90 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 2,
     "league_size": 16,
-    "score": 724.5,
+    "score": 724.9,
     "team_above": {
       "name": "Big Balder Brand",
       "rank": 1,
-      "score": 734.2,
-      "gap": 9.700000000000045
+      "score": 748.5,
+      "gap": 23.600000000000023
     },
     "team_below": {
-      "name": "Corgi Loaf Baking Co.",
+      "name": "Mile High Royal Lions",
       "rank": 3,
-      "score": 668.0,
-      "gap": 56.5
+      "score": 675.2,
+      "gap": 49.69999999999993
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 6,
+    "rank": 7,
     "league_size": 16,
-    "score": 1950.3,
-    "player_d_avi": 1279.7,
-    "future_pick_d_avi": 670.6,
+    "score": 2217.9,
+    "player_d_avi": 1280.0,
+    "future_pick_d_avi": 937.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
@@ -44,27 +44,33 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Juwan Johnson's 62.5 C-AVI baseline; a replacement near 82.0 C-AVI would directly attack the 9.70-point projected gap to Big Balder Brand."
+    "Raise the FLEX slot above Juwan Johnson's 62.6 C-AVI baseline; a replacement near 89.5 C-AVI would directly attack the 23.60-point projected gap to Big Balder Brand."
   ],
   "rival_below": {
-    "franchise_name": "Corgi Loaf Baking Co.",
+    "franchise_name": "Mile High Royal Lions",
     "projected_rank": 3,
-    "projected_score": 668.0,
-    "latest_trade": null,
-    "latest_activity": {
-      "transaction_id": "1393805449840562176",
-      "created_at": "2026-08-14T01:40:24.197000+00:00",
-      "type": "free_agent",
-      "summary": "On August 13, Corgi Loaf Baking Co. completed a free-agent move and added Mike Washington while dropped Darren Waller.",
+    "projected_score": 675.2,
+    "latest_trade": {
+      "transaction_id": "1394538418473545728",
+      "created_at": "2026-08-16T02:12:57.536000+00:00",
+      "type": "trade",
+      "summary": "On August 15, Mile High Royal Lions completed a trade with Ravens Regime and acquired Davante Adams and sent KC Concepcion.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 13, Corgi Loaf Baking Co. completed a free-agent move and added Mike Washington while dropped Darren Waller."
+    "latest_activity": {
+      "transaction_id": "1394538418473545728",
+      "created_at": "2026-08-16T02:12:57.536000+00:00",
+      "type": "trade",
+      "summary": "On August 15, Mile High Royal Lions completed a trade with Ravens Regime and acquired Davante Adams and sent KC Concepcion.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On August 15, Mile High Royal Lions completed a trade with Ravens Regime and acquired Davante Adams and sent KC Concepcion."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #2 of 16 at 724.50 lineup C-AVI. Big Balder Brand is immediately above at 734.20, a gap of 9.70. Corgi Loaf Baking Co. is immediately behind at 668.00."
+      "body": "Projected #2 of 16 at 724.90 lineup C-AVI. Big Balder Brand is immediately above at 748.50, a gap of 23.60. Mile High Royal Lions is immediately behind at 675.20."
     },
     {
       "id": "competitive-core",
@@ -79,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Juwan Johnson's 62.5 C-AVI baseline; a replacement near 82.0 C-AVI would directly attack the 9.70-point projected gap to Big Balder Brand.",
+      "body": "Raise the FLEX slot above Juwan Johnson's 62.6 C-AVI baseline; a replacement near 89.5 C-AVI would directly attack the 23.60-point projected gap to Big Balder Brand.",
       "items": [
-        "Raise the FLEX slot above Juwan Johnson's 62.5 C-AVI baseline; a replacement near 82.0 C-AVI would directly attack the 9.70-point projected gap to Big Balder Brand."
+        "Raise the FLEX slot above Juwan Johnson's 62.6 C-AVI baseline; a replacement near 89.5 C-AVI would directly attack the 23.60-point projected gap to Big Balder Brand."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 13, Corgi Loaf Baking Co. completed a free-agent move and added Mike Washington while dropped Darren Waller."
+      "body": "On August 15, Mile High Royal Lions completed a trade with Ravens Regime and acquired Davante Adams and sent KC Concepcion."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 62.5. Any acquisition should clear that exact lineup threshold."
+      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 62.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -108,9 +114,10 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/01_Conquistadors.md"
+      "AVI-Core/knowledge/teams/01_Conquistadors.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-14",
+    "source_last_updated": "2026-08-16",
     "external_sources_used": false,
     "conversation_context_used": false
   }
