@@ -3309,14 +3309,14 @@
       "c_avi": 80.8,
       "d_avi": 86.1,
       "nfl_team": "LAR",
-      "owner_id": "992908759074680832",
+      "owner_id": "736992907139158016",
       "player_name": "Davante Adams",
       "position": "WR",
-      "roster_id": 3,
+      "roster_id": 4,
       "sleeper_id": "2133",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "04_Mile_High_Royal_Lions.md",
+      "team_name": "Mile High Royal Lions"
     },
     {
       "active": true,
@@ -3997,14 +3997,14 @@
       "c_avi": 54.1,
       "d_avi": 76.9,
       "nfl_team": "CAR",
-      "owner_id": "863881053000011776",
+      "owner_id": "1129546394534158336",
       "player_name": "Jalen Coker",
       "position": "WR",
-      "roster_id": 9,
+      "roster_id": 12,
       "sleeper_id": "11646",
       "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -4173,14 +4173,14 @@
       "c_avi": 82.1,
       "d_avi": 83.3,
       "nfl_team": "NYG",
-      "owner_id": "863881053000011776",
+      "owner_id": "1129546394534158336",
       "player_name": "Jaxson Dart",
       "position": "QB",
-      "roster_id": 9,
+      "roster_id": 12,
       "sleeper_id": "12508",
       "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -4189,14 +4189,14 @@
       "c_avi": 95.8,
       "d_avi": 90.6,
       "nfl_team": "WAS",
-      "owner_id": "1129546394534158336",
+      "owner_id": "863881053000011776",
       "player_name": "Jayden Daniels",
       "position": "QB",
-      "roster_id": 12,
+      "roster_id": 9,
       "sleeper_id": "11566",
       "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -4557,14 +4557,14 @@
       "c_avi": 58.2,
       "d_avi": 83.7,
       "nfl_team": "CLE",
-      "owner_id": "736992907139158016",
+      "owner_id": "992908759074680832",
       "player_name": "KC Concepcion",
       "position": "WR",
-      "roster_id": 4,
+      "roster_id": 3,
       "sleeper_id": "13298",
       "status": "Active",
-      "team_file": "04_Mile_High_Royal_Lions.md",
-      "team_name": "Mile High Royal Lions"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -4701,14 +4701,14 @@
       "c_avi": 56.9,
       "d_avi": 77.7,
       "nfl_team": "BUF",
-      "owner_id": "1129546394534158336",
+      "owner_id": "863881053000011776",
       "player_name": "Khalil Shakir",
       "position": "WR",
-      "roster_id": 12,
+      "roster_id": 9,
       "sleeper_id": "8134",
       "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,

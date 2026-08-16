@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-16T00:43:09.375919+00:00",
+  "generated_at_utc": "2026-08-16T02:30:40.035328+00:00",
   "statistics": {
-    "owner_trade_participations": 151,
+    "owner_trade_participations": 155,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -20,7 +20,7 @@
         "team_name": "Badland Banditos "
       },
       {
-        "partner_count": 6,
+        "partner_count": 7,
         "partners": [
           "DMV Fantasy"
         ],
@@ -54,7 +54,7 @@
         "team_name": "Crimson Tide Pods"
       },
       {
-        "partner_count": 6,
+        "partner_count": 7,
         "partners": [
           "Big Balder Brand"
         ],
@@ -163,18 +163,35 @@
         "by_season": {
           "2024": 7,
           "2025": 2,
-          "2026": 10
+          "2026": 11
         },
         "firsts_in": 1,
-        "firsts_out": 3,
+        "firsts_out": 4,
         "owner_display_name": "Choopski",
         "picks_in": 3,
-        "picks_out": 5,
-        "players_in": 28,
-        "players_out": 30,
+        "picks_out": 7,
+        "players_in": 30,
+        "players_out": 32,
         "roster_id": 9,
         "team_name": "Big Balder Brand",
-        "total": 19
+        "total": 20
+      },
+      {
+        "by_season": {
+          "2024": 3,
+          "2025": 3,
+          "2026": 11
+        },
+        "firsts_in": 2,
+        "firsts_out": 4,
+        "owner_display_name": "Mentomorii",
+        "picks_in": 3,
+        "picks_out": 5,
+        "players_in": 16,
+        "players_out": 21,
+        "roster_id": 3,
+        "team_name": "Ravens Regime ",
+        "total": 17
       },
       {
         "by_season": {
@@ -191,23 +208,6 @@
         "players_out": 17,
         "roster_id": 1,
         "team_name": "Conquistadors",
-        "total": 16
-      },
-      {
-        "by_season": {
-          "2024": 3,
-          "2025": 3,
-          "2026": 10
-        },
-        "firsts_in": 2,
-        "firsts_out": 4,
-        "owner_display_name": "Mentomorii",
-        "picks_in": 3,
-        "picks_out": 5,
-        "players_in": 15,
-        "players_out": 20,
-        "roster_id": 3,
-        "team_name": "Ravens Regime ",
         "total": 16
       },
       {
@@ -231,18 +231,34 @@
         "by_season": {
           "2024": 5,
           "2025": 2,
-          "2026": 5
+          "2026": 6
         },
-        "firsts_in": 3,
+        "firsts_in": 4,
         "firsts_out": 2,
         "owner_display_name": "TacticsNoob",
-        "picks_in": 7,
+        "picks_in": 9,
         "picks_out": 3,
-        "players_in": 18,
-        "players_out": 14,
+        "players_in": 20,
+        "players_out": 16,
         "roster_id": 12,
         "team_name": "DMV Fantasy",
-        "total": 12
+        "total": 13
+      },
+      {
+        "by_season": {
+          "2025": 8,
+          "2026": 2
+        },
+        "firsts_in": 1,
+        "firsts_out": 2,
+        "owner_display_name": "shawnh56",
+        "picks_in": 5,
+        "picks_out": 4,
+        "players_in": 10,
+        "players_out": 13,
+        "roster_id": 4,
+        "team_name": "Mile High Royal Lions",
+        "total": 10
       },
       {
         "by_season": {
@@ -259,22 +275,6 @@
         "players_out": 11,
         "roster_id": 7,
         "team_name": "Badland Banditos ",
-        "total": 9
-      },
-      {
-        "by_season": {
-          "2025": 8,
-          "2026": 1
-        },
-        "firsts_in": 1,
-        "firsts_out": 2,
-        "owner_display_name": "shawnh56",
-        "picks_in": 5,
-        "picks_out": 4,
-        "players_in": 9,
-        "players_out": 12,
-        "roster_id": 4,
-        "team_name": "Mile High Royal Lions",
         "total": 9
       },
       {
@@ -407,10 +407,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 32
+      "2026": 34
     },
-    "two_team_trades": 74,
-    "unique_completed_trades": 75
+    "two_team_trades": 76,
+    "unique_completed_trades": 77
   },
   "trades": [
     {
@@ -5513,6 +5513,156 @@
         }
       ],
       "transaction_id": "1394413143647592448",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-16T00:04:35.987000+00:00",
+      "created_timestamp_ms": 1786838675987,
+      "roster_ids": [
+        9,
+        12
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 12,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2029"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11566",
+              "player_name": "Jayden Daniels"
+            },
+            {
+              "player_id": "8134",
+              "player_name": "Khalil Shakir"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11646",
+              "player_name": "Jalen Coker"
+            },
+            {
+              "player_id": "12508",
+              "player_name": "Jaxson Dart"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [
+            {
+              "original_roster_id": 12,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 1,
+              "season": "2029"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "11646",
+              "player_name": "Jalen Coker"
+            },
+            {
+              "player_id": "12508",
+              "player_name": "Jaxson Dart"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11566",
+              "player_name": "Jayden Daniels"
+            },
+            {
+              "player_id": "8134",
+              "player_name": "Khalil Shakir"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2026,
+          "team_name": "DMV Fantasy"
+        }
+      ],
+      "transaction_id": "1394506115831586816",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-16T02:12:57.536000+00:00",
+      "created_timestamp_ms": 1786846377536,
+      "roster_ids": [
+        3,
+        4
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "13298",
+              "player_name": "KC Concepcion"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "2133",
+              "player_name": "Davante Adams"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "shawnh56",
+          "owner_id": "736992907139158016",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "2133",
+              "player_name": "Davante Adams"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "13298",
+              "player_name": "KC Concepcion"
+            }
+          ],
+          "roster_id": 4,
+          "season": 2026,
+          "team_name": "Mile High Royal Lions"
+        }
+      ],
+      "transaction_id": "1394538418473545728",
       "week": 1
     }
   ]

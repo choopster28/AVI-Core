@@ -480,9 +480,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Davante Adams
 - Player ID: 2133
 - Position: WR
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
 
 ## PLAYER LOOKUP: David Montgomery
 - Player name: David Montgomery
@@ -824,9 +824,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jalen Coker
 - Player ID: 11646
 - Position: WR
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: Jalen Hurts
 - Player name: Jalen Hurts
@@ -912,17 +912,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jaxson Dart
 - Player ID: 12508
 - Position: QB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: Jayden Daniels
 - Player name: Jayden Daniels
 - Player ID: 11566
 - Position: QB
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Team file: 12_DMV_Fantasy.md
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Jayden Higgins
 - Player name: Jayden Higgins
@@ -1104,9 +1104,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: KC Concepcion
 - Player ID: 13298
 - Position: WR
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Team file: 04_Mile_High_Royal_Lions.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Kaelon Black
 - Player name: Kaelon Black
@@ -1176,9 +1176,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Khalil Shakir
 - Player ID: 8134
 - Position: WR
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Team file: 12_DMV_Fantasy.md
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Kimani Vidal
 - Player name: Kimani Vidal
