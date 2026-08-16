@@ -1,5 +1,5 @@
 {
-  "count": 25,
+  "count": 22,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
@@ -9,16 +9,193 @@
         "News",
         "Injury"
       ],
-      "created": "2026-08-15 19:11:32",
-      "created_formated": "Sat, Aug 15th 7:11pm UTC",
-      "desc": "Jamal Adams was carted off the field during Saturday's preseason game against the Giants. ",
-      "id": 602539,
-      "impact": "It is another brutal break for Adams. There will be an update on his status when available. ",
-      "link": "https://www.fantasypros.com/nfl/news/602539/jamal-adams-carted-off-field-saturday.php",
+      "created": "2026-08-16 06:15:12",
+      "created_formated": "Sun, Aug 16th 6:15am UTC",
+      "desc": "Saints coach Kellen Moore said the hamstring injury Jordyn Tyson is dealing with is still being evaluated. ",
+      "id": 602570,
+      "impact": "It is not ideal for the rookie as he remains without a clear timetable to return. There should be a further update on Tyson at some point in the next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/602570/jordyn-tyson-hamstring-still-being-evaluated.php",
+      "player_id": 26035,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Jordyn Tyson (hamstring) still being evaluated "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 06:13:19",
+      "created_formated": "Sun, Aug 16th 6:13am UTC",
+      "desc": "Vikings coach Kevin O'Connell said the knee injury Jamal Adams suffered in Saturday's preseason game against the Giants is \"not good.\"",
+      "id": 602569,
+      "impact": "This was unfortunately expected after Adams was carted off the field on Saturday. There should be another update on his status on Sunday. ",
+      "link": "https://www.fantasypros.com/nfl/news/602569/jamal-adams-suffers-knee-injury-is-not-good.php",
       "player_id": 16375,
       "sport_id": "NFL",
       "team_id": "MIN",
-      "title": "Jamal Adams carted off field Saturday"
+      "title": "Jamal Adams suffers knee injury that is 'not good'"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 06:11:55",
+      "created_formated": "Sun, Aug 16th 6:11am UTC",
+      "desc": "Bills coach Joe Brady said DJ Moore was \"good to go\" after suffering an ankle injury in Saturday's preseason game against the Panthers.",
+      "id": 602568,
+      "impact": "Moore appeared to have his ankle rolled up on after a catch and run. He hauled in 3-of-4 targets for 61 yards in his first official game with the Bills and Josh Allen. ",
+      "link": "https://www.fantasypros.com/nfl/news/602568/dj-moore-avoids-serious-ankle-injury-saturday.php",
+      "player_id": 17265,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "DJ Moore avoids serious ankle injury Saturday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-16 06:10:06",
+      "created_formated": "Sun, Aug 16th 6:10am UTC",
+      "desc": "The Texans signed QB Brett Rypien. ",
+      "id": 602567,
+      "impact": "Rypien will compete for a depth role in the Texans quarterback room. Graham Mertz will be placed on IR as the corresponding move. ",
+      "link": "https://www.fantasypros.com/nfl/news/602567/brett-rypien-signs-with-texans.php",
+      "player_id": 18323,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Brett Rypien signs with Texans "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 06:08:53",
+      "created_formated": "Sun, Aug 16th 6:08am UTC",
+      "desc": "Texans coach DeMeco Ryans said Graham Mertz suffered a torn ACL in Thursday's preseason game against the Chargers. ",
+      "id": 602566,
+      "impact": "Mertz is a former undrafted free agent last season. He will be placed on injured reserve. ",
+      "link": "https://www.fantasypros.com/nfl/news/602566/graham-mertz-suffers-torn-acl.php",
+      "player_id": 23186,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Graham Mertz suffers torn ACL"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 06:07:15",
+      "created_formated": "Sun, Aug 16th 6:07am UTC",
+      "desc": "Steelers coach Mike McCarthy said WR Michael Pittman Jr. will not practice this week. ",
+      "id": 602565,
+      "impact": "Pittman has remained sidelined from practice with an undisclosed injury. He'll look to return to practice in the last week of August. ",
+      "link": "https://www.fantasypros.com/nfl/news/602565/michael-pittman-jr-will-not-practice-this-upcoming-week.php",
+      "player_id": 19278,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Michael Pittman Jr. will not practice this upcoming week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 06:06:50",
+      "created_formated": "Sun, Aug 16th 6:06am UTC",
+      "desc": "Steelers coach Mike McCarthy said WR DK Metcalf will not practice this week. ",
+      "id": 602564,
+      "impact": "Metcalf has remained sidelined from practice with an undisclosed injury. He'll look to return to practice in the last week of August. ",
+      "link": "https://www.fantasypros.com/nfl/news/602564/dk-metcalf-will-not-practice-this-upcoming-week.php",
+      "player_id": 18219,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "DK Metcalf will not practice this upcoming week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-16 06:04:49",
+      "created_formated": "Sun, Aug 16th 6:04am UTC",
+      "desc": "The Steelers signed DL Keeanu Benton to a four-year, $72 million contract extension.",
+      "id": 602563,
+      "impact": "Benton is coming off recording a career-high 5.5 sacks. He should remain a focal point of the Steelers defensive line. ",
+      "link": "https://www.fantasypros.com/nfl/news/602563/keeanu-benton-signs-four-year-extension-with-steelers.php",
+      "player_id": 25432,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Keeanu Benton signs four-year extension with Steelers"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 06:02:16",
+      "created_formated": "Sun, Aug 16th 6:02am UTC",
+      "desc": "Cardinals OG Chase Bisontis will undergo surgery to repair a torn MCL in his knee.",
+      "id": 602562,
+      "impact": "The surgery could cause Bisontis to miss the entirety of the upcoming season. There should be an updated timetable on the rookie after he undergoes the surgery. ",
+      "link": "https://www.fantasypros.com/nfl/news/602562/chase-bisontis-to-undergo-surgery-to-repair-torn-mcl.php",
+      "player_id": 27988,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Chase Bisontis to undergo surgery to repair torn MCL"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-16 05:58:52",
+      "created_formated": "Sun, Aug 16th 5:58am UTC",
+      "desc": "Commanders QB Marcus Mariota exited Friday's preseason game against the Dolphins after suffering an apparent knee injury.",
+      "id": 602561,
+      "impact": "Mariota will continue to be further evaluated into the upcoming week. ",
+      "link": "https://www.fantasypros.com/nfl/news/602561/marcus-mariota-dealing-with-knee-injury.php",
+      "player_id": 13890,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Marcus Mariota dealing with knee injury"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-16 05:57:22",
+      "created_formated": "Sun, Aug 16th 5:57am UTC",
+      "desc": "Mike Garafolo reports that the Bills, Bears and 49ers are among the teams that have inquired about Bucs DT Vita Vea's availability.",
+      "id": 602560,
+      "impact": "Vea continues to seek a trade as the Bucs aren't giving him the new contract he is seeking. This will remain a situation to monitor. ",
+      "link": "https://www.fantasypros.com/nfl/news/602560/vita-vea-drawing-trade-interest-from-several-teams.php",
+      "player_id": 17322,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Vita Vea drawing trade interest from several teams"
     },
     {
       "author": "Ari Koslow",
@@ -150,42 +327,6 @@
         "News",
         "Injury"
       ],
-      "created": "2026-08-15 15:19:42",
-      "created_formated": "Sat, Aug 15th 3:19pm UTC",
-      "desc": "Michael Pittman Jr. is still not practicing on Saturday. ",
-      "id": 602500,
-      "impact": "Pittman has been sidelined from practice due to an undisclosed injury. He is day-to-day for now. ",
-      "link": "https://www.fantasypros.com/nfl/news/602500/michael-pittman-jr-absent-from-practice-saturday.php",
-      "player_id": 19278,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Michael Pittman Jr. absent from practice Saturday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-15 15:19:06",
-      "created_formated": "Sat, Aug 15th 3:19pm UTC",
-      "desc": "DK Metcalf remained absent from practice on Saturday. ",
-      "id": 602499,
-      "impact": "Metcalf has been sidelined from practice due to an undisclosed injury. He is day-to-day for now. ",
-      "link": "https://www.fantasypros.com/nfl/news/602499/dk-metcalf-still-not-practicing-saturday.php",
-      "player_id": 18219,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "DK Metcalf still not practicing Saturday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
       "created": "2026-08-15 15:15:15",
       "created_formated": "Sat, Aug 15th 3:15pm UTC",
       "desc": "The Bengals activated DL B.J. Hill from the PUP list. ",
@@ -248,198 +389,6 @@
       "sport_id": "NFL",
       "team_id": "SEA",
       "title": "DeMarcus Lawrence to retire after this season"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-15 08:05:13",
-      "created_formated": "Sat, Aug 15th 8:05am UTC",
-      "desc": "Terrell Burgess will not play in the Saints preseason opener on Saturday against the Jaguars. ",
-      "id": 602458,
-      "impact": "Burgess left practice early on Thursday with a lower body injury. He'll be hopeful to return to practice next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/602458/terrell-burgess-lower-body-will-not-play-preseason-opener-saturday.php",
-      "player_id": 19279,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Terrell Burgess (lower body) will not play in preseason opener Saturday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 23:52:34",
-      "created_formated": "Fri, Aug 14th 11:52pm UTC",
-      "desc": "Emeka Egbuka has a sprained toe, but he is expected to be good to go for Week 1.",
-      "id": 602399,
-      "impact": "Egbuka underwent more testing on his injured toe and a specialist diagnosed him with a sprained toe after he limped off the field during the joint practice at the Jets' facility. ",
-      "link": "https://www.fantasypros.com/nfl/news/602399/emeka-egbuka-dealing-with-sprained-toe-expected-to-be-ready-week-1.php",
-      "player_id": 23062,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Emeka Egbuka dealing with sprained toe, expected to be ready for Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 19:37:04",
-      "created_formated": "Fri, Aug 14th 7:37pm UTC",
-      "desc": "Packers coach Matt LaFleur said Josh Jacobs could return to practice next week. ",
-      "id": 602359,
-      "impact": "LaFleur clarified that it wouldn't be till later in the week. Jacobs has been absent from practice due to a groin injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/602359/josh-jacobs-groin-could-return-next-week.php",
-      "player_id": 18269,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Josh Jacobs (groin) could return next week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-14 19:35:00",
-      "created_formated": "Fri, Aug 14th 7:35pm UTC",
-      "desc": "The NFL has suspended Titans CB Nazeeh Johnson six regular season games for performance-enhancing substance policy violation. ",
-      "id": 602358,
-      "impact": "Johnson can still participate in all preseason activities. He will be eligible for reinstatement on October 19.",
-      "link": "https://www.fantasypros.com/nfl/news/602358/nazeeh-johnson-suspended-six-games-by-nfl.php",
-      "player_id": 24582,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Nazeeh Johnson suspended six games by NFL"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-14 19:31:44",
-      "created_formated": "Fri, Aug 14th 7:31pm UTC",
-      "desc": "The NFL has suspended DE Dorance Armstrong Jr. for the season opener. ",
-      "id": 602356,
-      "impact": "Armstrong is still eligible to participate in all preseason activities. He'll be eligible for reinstatement on September 14. ",
-      "link": "https://www.fantasypros.com/nfl/news/602356/dorance-armstrong-jr-suspended-season-opener.php",
-      "player_id": 17315,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Dorance Armstrong Jr. suspended for the season opener"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-14 19:29:22",
-      "created_formated": "Fri, Aug 14th 7:29pm UTC",
-      "desc": "Bills DT Phidarian Mathis has been suspended for three games for violating the NFL's Substances of Abuse Policy. ",
-      "id": 602355,
-      "impact": "Mathis is still eligible to participate in preseason practices and games. He'll be eligible to return September 28. ",
-      "link": "https://www.fantasypros.com/nfl/news/602355/phidarian-mathis-suspended-three-games.php",
-      "player_id": 23735,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Phidarian Mathis suspended three games "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-14 19:26:57",
-      "created_formated": "Fri, Aug 14th 7:26pm UTC",
-      "desc": "The Eagles signed LB Brandon George. ",
-      "id": 602354,
-      "impact": "George spent last season on injured reserve with the Chiefs. He will compete for a depth role in the Eagles linebacker room. ",
-      "link": "https://www.fantasypros.com/nfl/news/602354/brandon-george-signs-with-eagles.php",
-      "player_id": 27605,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Brandon George signs with Eagles "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-14 19:14:47",
-      "created_formated": "Fri, Aug 14th 7:14pm UTC",
-      "desc": "Falcons DE James Pearce Jr. is being suspended eight regular-season games for violating the NFL's personal conduct policy.",
-      "id": 602350,
-      "impact": "Pearce was arrested in February after a domestic dispute. He will miss the first eight games of the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/602350/james-pearce-jr-suspended-eight-games-by-nfl.php",
-      "player_id": 27018,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "James Pearce Jr. suspended eight games by NFL"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 18:19:56",
-      "created_formated": "Fri, Aug 14th 6:19pm UTC",
-      "desc": "Kurtis Rourke was released from a local hospital Thursday night. ",
-      "id": 602336,
-      "impact": "Rourke left Thursday's preseason game against the Titans in the first half. He was having trouble breathing, head coach Kyle Shanahan said after the game. The initial X-rays he underwent did not show a broken rib. ",
-      "link": "https://www.fantasypros.com/nfl/news/602336/kurtis-rourke-ribs-released-from-hospital.php",
-      "player_id": 27129,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kurtis Rourke (ribs) released from hospital "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-14 18:05:16",
-      "created_formated": "Fri, Aug 14th 6:05pm UTC",
-      "desc": "Cardinals head coach Mike LaFleur said he has 'no concern' over the rib injury that Carson Beck is dealing with. ",
-      "id": 602335,
-      "impact": "The injury kept Beck out of Thursday's preseason game against the Raiders. He should be good to go for next week's preseason game. ",
-      "link": "https://www.fantasypros.com/nfl/news/602335/carson-beck-not-dealing-with-serious-rib-injury.php",
-      "player_id": 22953,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Carson Beck not dealing with serious rib injury"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-14 18:03:23",
-      "created_formated": "Fri, Aug 14th 6:03pm UTC",
-      "desc": "Raiders coach Klint Kubiak said \"it's his job to lose\" when asked about Kirk Cousins' status as QB1 following Thursday's preseason game. ",
-      "id": 602334,
-      "impact": "Cousins played on the opening drive on Thursday, which resulted in a touchdown pass to Michael Mayer. He remains highly likely to open the season as the starter for Las Vegas. ",
-      "link": "https://www.fantasypros.com/nfl/news/602334/kirk-cousins-starting-job-is-his-to-lose-per-hc-klint-kubiak.php",
-      "player_id": 11177,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Kirk Cousins: Starting job is 'his to lose' per HC Klint Kubiak "
     }
   ],
   "public_api_limited": true,

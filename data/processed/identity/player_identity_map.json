@@ -2602,15 +2602,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "25267",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DAL",
-    "player_name": "Luke Schoonmaker",
-    "position": "TE",
-    "sleeper_id": "10871"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "25282",
     "match_method": "exact_name_position_unique",
     "nfl_team": "GB",
@@ -3411,10 +3402,10 @@
     "sleeper_id": "12185"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "26964",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NE",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Terrell Jennings",
     "position": "RB",
     "sleeper_id": "12412"
@@ -4051,15 +4042,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "28141",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "ARI",
-    "player_name": "Reggie Virgil",
-    "position": "WR",
-    "sleeper_id": "13297"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "28154",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NE",
@@ -4075,6 +4057,15 @@
     "player_name": "Marlin Klein",
     "position": "TE",
     "sleeper_id": "13307"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28168",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Matt Hibner",
+    "position": "TE",
+    "sleeper_id": "13324"
   },
   {
     "confidence": "verified",

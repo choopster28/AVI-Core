@@ -6849,31 +6849,6 @@
   {
     "active": true,
     "aliases": [
-      "Luke Schoonmaker"
-    ],
-    "avi_id": "AVI-00010871",
-    "canonical_name": "Luke Schoonmaker",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "DAL",
-    "normalized_name": "luke schoonmaker",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24288,
-      "fantasypros_id": "25267",
-      "nfl_id": "2569690",
-      "rotowire_id": 16855,
-      "sleeper_id": "10871",
-      "sportradar_id": "143957a7-4649-4a19-b351-e606edc75ebd",
-      "sportsdata_player_id": "143957a7-4649-4a19-b351-e606edc75ebd"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Luther Burden",
       "Luther Burden III"
     ],
@@ -7348,6 +7323,31 @@
       "sleeper_id": "12498",
       "sportradar_id": "07d2be51-73c2-4f26-81d5-bc6e9b88bff2",
       "sportsdata_player_id": "07d2be51-73c2-4f26-81d5-bc6e9b88bff2"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Matt Hibner"
+    ],
+    "avi_id": "AVI-00013324",
+    "canonical_name": "Matt Hibner",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "BAL",
+    "normalized_name": "matt hibner",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26976,
+      "fantasypros_id": "28168",
+      "nfl_id": null,
+      "rotowire_id": 19364,
+      "sleeper_id": "13324",
+      "sportradar_id": "8f18100f-d967-4cac-b1b7-7af70c4d985a",
+      "sportsdata_player_id": "8f18100f-d967-4cac-b1b7-7af70c4d985a"
     }
   },
   {
@@ -8687,31 +8687,6 @@
   {
     "active": true,
     "aliases": [
-      "Reggie Virgil"
-    ],
-    "avi_id": "AVI-00013297",
-    "canonical_name": "Reggie Virgil",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "ARI",
-    "normalized_name": "reggie virgil",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26945,
-      "fantasypros_id": "28141",
-      "nfl_id": null,
-      "rotowire_id": 19445,
-      "sleeper_id": "13297",
-      "sportradar_id": "5c342ca7-20ec-4278-8d30-f8134d5a0fd3",
-      "sportsdata_player_id": "5c342ca7-20ec-4278-8d30-f8134d5a0fd3"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Rhamondre Stevenson"
     ],
     "avi_id": "AVI-00007611",
@@ -9494,8 +9469,8 @@
     "avi_id": "AVI-00012412",
     "canonical_name": "Terrell Jennings",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "NE",
     "normalized_name": "terrell jennings",
