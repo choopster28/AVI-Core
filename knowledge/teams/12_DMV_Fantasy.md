@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1129546394534158336
 - Division: 4
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-08-15
+- Last updated from Sleeper exports: 2026-08-16
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,20 +21,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 584.9
-- championship_lineup_c_avi_avg: 73.11
-- offensive_roster_c_avi_sum: 858.4
-- offensive_roster_c_avi_avg: 57.23
-- offensive_roster_d_avi_sum: 1117.4
-- offensive_roster_d_avi_avg: 74.49
+- championship_lineup_c_avi_sum: 568.4
+- championship_lineup_c_avi_avg: 71.05
+- offensive_roster_c_avi_sum: 841.9
+- offensive_roster_c_avi_avg: 56.13
+- offensive_roster_d_avi_sum: 1109.3
+- offensive_roster_d_avi_avg: 73.95
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jayden Daniels | C-AVI: 95.8 | D-AVI: 90.6
+- QB: Jaxson Dart | C-AVI: 82.1 | D-AVI: 83.3
 - RB: Breece Hall | C-AVI: 88.4 | D-AVI: 93.5
 - RB: Tony Pollard | C-AVI: 67.2 | D-AVI: 80.9
 - WR: Terry McLaurin | C-AVI: 77.3 | D-AVI: 88.0
-- WR: Khalil Shakir | C-AVI: 56.9 | D-AVI: 77.7
+- WR: Jalen Coker | C-AVI: 54.1 | D-AVI: 76.9
 - TE: George Kittle | C-AVI: 79.2 | D-AVI: 83.0
 - FLEX: Brenton Strange | C-AVI: 61.5 | D-AVI: 78.3
 - FLEX: Rachaad White | C-AVI: 58.6 | D-AVI: 78.1
@@ -42,20 +42,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
 
-### PLAYER: Jayden Daniels
-- Player name: Jayden Daniels
-- Player ID: 11566
+### PLAYER: Jaxson Dart
+- Player name: Jaxson Dart
+- Player ID: 12508
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
 - Position: QB
 - Fantasy positions: ['QB']
-- NFL team: WAS
+- NFL team: NYG
 - Active: True
 - Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 95.8
-- Dynasty AVI (D-AVI, 0-100): 90.6
-- Projected PPR points: 322.6
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 82.1
+- Dynasty AVI (D-AVI, 0-100): 83.3
+- Projected PPR points: 310.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -161,20 +161,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Khalil Shakir
-- Player name: Khalil Shakir
-- Player ID: 8134
+### PLAYER: Jalen Coker
+- Player name: Jalen Coker
+- Player ID: 11646
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: BUF
+- NFL team: CAR
 - Active: True
 - Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 56.9
-- Dynasty AVI (D-AVI, 0-100): 77.7
-- Projected PPR points: 164.9
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 54.1
+- Dynasty AVI (D-AVI, 0-100): 76.9
+- Projected PPR points: 156.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

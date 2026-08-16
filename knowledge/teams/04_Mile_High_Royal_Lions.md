@@ -9,24 +9,24 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-08-15
+- Last updated from Sleeper exports: 2026-08-16
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 20
-- offense: 14
+- offense: 15
 - kickers: 1
-- idp: 5
+- idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 665.7
-- championship_lineup_c_avi_avg: 83.21
-- offensive_roster_c_avi_sum: 960.8
-- offensive_roster_c_avi_avg: 68.63
-- offensive_roster_d_avi_sum: 1128.3
-- offensive_roster_d_avi_avg: 80.59
+- championship_lineup_c_avi_sum: 675.2
+- championship_lineup_c_avi_avg: 84.40
+- offensive_roster_c_avi_sum: 983.4
+- offensive_roster_c_avi_avg: 70.24
+- offensive_roster_d_avi_sum: 1130.7
+- offensive_roster_d_avi_avg: 80.76
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Drake London | C-AVI: 97.9 | D-AVI: 97.9
 - WR: Garrett Wilson | C-AVI: 89.3 | D-AVI: 94.4
 - TE: Travis Kelce | C-AVI: 82.3 | D-AVI: 79.4
+- FLEX: Davante Adams | C-AVI: 80.8 | D-AVI: 86.1
 - FLEX: Marvin Harrison | C-AVI: 72.8 | D-AVI: 87.8
-- FLEX: Courtland Sutton | C-AVI: 71.3 | D-AVI: 82.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -161,6 +161,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Davante Adams
+- Player name: Davante Adams
+- Player ID: 2133
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: LAR
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 80.8
+- Dynasty AVI (D-AVI, 0-100): 86.1
+- Projected PPR points: 222.3
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Marvin Harrison
 - Player name: Marvin Harrison
 - Player ID: 11628
@@ -195,23 +212,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: KC Concepcion
-- Player name: KC Concepcion
-- Player ID: 13298
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CLE
-- Active: True
-- Status: Active
-- Age: 21.0
-- Championship AVI (C-AVI, 0-100): 58.2
-- Dynasty AVI (D-AVI, 0-100): 83.7
-- Projected PPR points: 163.7
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Pat Bryant
 - Player name: Pat Bryant
 - Player ID: 12492
@@ -228,6 +228,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 72.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Barion Brown
+- Player name: Barion Brown
+- Player ID: 13533
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NO
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: offense
+- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Travis Kelce
 - Player name: Travis Kelce
@@ -295,23 +312,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
 - Category: kicker
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Carl Granderson
-- Player name: Carl Granderson
-- Player ID: 5912
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: DL
-- Fantasy positions: ['DL', 'LB']
-- NFL team: NO
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
 ### PLAYER: Keldric Faulk

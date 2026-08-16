@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-08-15
+- Last updated from Sleeper exports: 2026-08-16
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 653.6
-- championship_lineup_c_avi_avg: 81.70
-- offensive_roster_c_avi_sum: 981.3
-- offensive_roster_c_avi_avg: 61.33
-- offensive_roster_d_avi_sum: 1281.0
-- offensive_roster_d_avi_avg: 80.06
+- championship_lineup_c_avi_sum: 636.4
+- championship_lineup_c_avi_avg: 79.55
+- offensive_roster_c_avi_sum: 958.7
+- offensive_roster_c_avi_avg: 59.92
+- offensive_roster_d_avi_sum: 1278.6
+- offensive_roster_d_avi_avg: 79.91
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Derrick Henry | C-AVI: 93.2 | D-AVI: 90.8
 - RB: Kyle Monangai | C-AVI: 56.8 | D-AVI: 80.5
 - WR: Zay Flowers | C-AVI: 89.4 | D-AVI: 93.7
-- WR: Davante Adams | C-AVI: 80.8 | D-AVI: 86.1
+- WR: Carnell Tate | C-AVI: 69.1 | D-AVI: 90.3
 - TE: Kyle Pitts | C-AVI: 94.0 | D-AVI: 89.0
 - FLEX: Isaiah Likely | C-AVI: 72.1 | D-AVI: 82.4
-- FLEX: Carnell Tate | C-AVI: 69.1 | D-AVI: 90.3
+- FLEX: Jordyn Tyson | C-AVI: 63.6 | D-AVI: 87.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -195,23 +195,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Davante Adams
-- Player name: Davante Adams
-- Player ID: 2133
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: LAR
-- Active: True
-- Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 80.8
-- Dynasty AVI (D-AVI, 0-100): 86.1
-- Projected PPR points: 222.3
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Carnell Tate
 - Player name: Carnell Tate
 - Player ID: 13279
@@ -243,6 +226,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 63.6
 - Dynasty AVI (D-AVI, 0-100): 87.5
 - Projected PPR points: 172.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: KC Concepcion
+- Player name: KC Concepcion
+- Player ID: 13298
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CLE
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 58.2
+- Dynasty AVI (D-AVI, 0-100): 83.7
+- Projected PPR points: 163.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

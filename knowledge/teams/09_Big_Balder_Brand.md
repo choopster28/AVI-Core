@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-08-15
+- Last updated from Sleeper exports: 2026-08-16
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 734.8
-- championship_lineup_c_avi_avg: 91.85
-- offensive_roster_c_avi_sum: 1103.2
-- offensive_roster_c_avi_avg: 68.95
-- offensive_roster_d_avi_sum: 1292.8
-- offensive_roster_d_avi_avg: 80.80
+- championship_lineup_c_avi_sum: 748.5
+- championship_lineup_c_avi_avg: 93.56
+- offensive_roster_c_avi_sum: 1119.7
+- offensive_roster_c_avi_avg: 69.98
+- offensive_roster_d_avi_sum: 1300.9
+- offensive_roster_d_avi_avg: 81.31
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jaxson Dart | C-AVI: 82.1 | D-AVI: 83.3
+- QB: Jayden Daniels | C-AVI: 95.8 | D-AVI: 90.6
 - RB: Saquon Barkley | C-AVI: 92.1 | D-AVI: 93.3
 - RB: Jeremiyah Love | C-AVI: 90.2 | D-AVI: 95.8
 - WR: Rashee Rice | C-AVI: 96.1 | D-AVI: 93.9
@@ -42,20 +42,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
 
-### PLAYER: Jaxson Dart
-- Player name: Jaxson Dart
-- Player ID: 12508
+### PLAYER: Jayden Daniels
+- Player name: Jayden Daniels
+- Player ID: 11566
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: QB
 - Fantasy positions: ['QB']
-- NFL team: NYG
+- NFL team: WAS
 - Active: True
 - Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 82.1
-- Dynasty AVI (D-AVI, 0-100): 83.3
-- Projected PPR points: 310.3
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 95.8
+- Dynasty AVI (D-AVI, 0-100): 90.6
+- Projected PPR points: 322.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -246,20 +246,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Jalen Coker
-- Player name: Jalen Coker
-- Player ID: 11646
+### PLAYER: Khalil Shakir
+- Player name: Khalil Shakir
+- Player ID: 8134
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: CAR
+- NFL team: BUF
 - Active: True
 - Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 54.1
-- Dynasty AVI (D-AVI, 0-100): 76.9
-- Projected PPR points: 156.9
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 56.9
+- Dynasty AVI (D-AVI, 0-100): 77.7
+- Projected PPR points: 164.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
