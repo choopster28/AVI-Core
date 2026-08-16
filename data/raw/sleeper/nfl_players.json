@@ -33806,7 +33806,7 @@
       "genius_id": "1407983",
       "rookie_year": "2023"
     },
-    "news_updated": 1786642539197,
+    "news_updated": 1786847409196,
     "number": 17,
     "oddsjam_id": "D0AC4E7EAE45",
     "opta_id": null,
@@ -391300,7 +391300,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2017"
     },
-    "news_updated": 1786842013910,
+    "news_updated": 1786847106145,
     "number": 4,
     "oddsjam_id": "E96B7CB81FFD",
     "opta_id": null,
@@ -721409,10 +721409,10 @@
     "hashtag": "#jordanaddison-NFL-MIN-3",
     "height": "71",
     "high_school": "Tuscarora (MD)",
-    "injury_body_part": "Thumb",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "750af3d1-1e56-46bc-9f0b-59a3f93052ec",
     "last_name": "Addison",
     "metadata": {
