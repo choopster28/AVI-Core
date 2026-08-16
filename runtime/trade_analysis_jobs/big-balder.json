@@ -17,9 +17,314 @@
       "maxResults": 3
     },
     "createdAt": 1786894684282,
-    "updatedAt": 1786894685852,
+    "updatedAt": 1786894766603,
     "expiresAt": 1787326684282,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand possesses elite quarterback leverage in Jayden Daniels (95.8 C-AVI), who represents top-tier league liquidity for a Champion Favorite roster boasting Baker Mayfield as a capable second starter. Shopping Daniels opens immediate avenues to acquire S-tier wide receiver play or premium draft capital without compromising title contention. By targeting franchises with acute QB needs or active trade-block listings, Big Balder Brand can turn luxury QB production into high-impact starting lineup upgrades.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite QB production in Jayden Daniels (95.8 C-AVI)",
+            "Premier offensive core anchored by Trey McBride (99.5 C-AVI), Rashee Rice (96.1 C-AVI), and Saquon Barkley (92.0 C-AVI)",
+            "Depth at RB with Jeremiyah Love (90.1 C-AVI) and Omarion Hampton (89.4 C-AVI)"
+          ],
+          "priorityNeeds": [
+            "Convert QB surplus into WR depth or premium draft liquidity",
+            "Sustain immediate championship lineup scoring while reallocating asset value"
+          ],
+          "tradeableSurplus": [
+            "Jayden Daniels"
+          ],
+          "constraintsApplied": [
+            "Mandatory two-organization goal alignment",
+            "League-relative starter/FLEX caliber filter applied to all trade assets",
+            "Confirmed trade block availability fully credited"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rival contenders already locked into elite QB anchors (e.g., Conquistadors with Josh Allen)",
+            "Rebuilding teams lacking starting-caliber offensive pieces matching Daniels' premium market value",
+            "Incompatible organizational goals where giving up elite assets damages immediate starting lineup requirements"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Phalhala or Bust",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Rome Odunze",
+                "assetType": "player",
+                "owner": "Phalhala or Bust",
+                "position": "WR",
+                "age": 24,
+                "cavi": 78.4,
+                "davi": 89.4,
+                "publicMarket": 80,
+                "leagueMarket": 81
+              },
+              {
+                "name": "2027 Round 1 (Phalhala or Bust)",
+                "assetType": "pick",
+                "owner": "Phalhala or Bust",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79,
+                "leagueMarket": 79.3
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jayden Daniels",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "QB",
+                "age": 25,
+                "cavi": 95.8,
+                "davi": 90.6,
+                "publicMarket": 94,
+                "leagueMarket": 95
+              }
+            ],
+            "scenarioType": "Young Starter + Premium Capital Return",
+            "strategicGoal": "Package QB surplus for a rising WR2/FLEX starter and high-value future draft capital from a retooling manager.",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 86,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Adds Rome Odunze (78.4 C-AVI / 89.4 D-AVI) as high-upside WR/FLEX depth while gaining a liquid 2027 1st round pick to reload assets for future title runs.",
+            "whyOpponentMightAccept": "Phalhala or Bust is in Retool status with a severe weakness at quarterback (C.J. Stroud 48.1 C-AVI). Jayden Daniels provides a 25-year-old franchise quarterback to anchor their retool process without sacrificing Ashton Jeanty.",
+            "championshipImpact": "Deepens FLEX options with Odunze and grants premium draft trade capital for in-season moves.",
+            "dynastyImpact": "Acquires an 89.4 D-AVI WR and a premium 2027 1st pick while relinquishing QB surplus.",
+            "rosterImpact": "Odunze enters the FLEX rotation; 2027 1st replenishes draft cabinet.",
+            "publicMarketContext": "Odunze is primed for a Year 3 target expand in Chicago following DJ Moore's departure; 2027 1st carries high league liquidity.",
+            "risks": [
+              "Odunze must deliver consistent WR2 production to justify surrendering an elite QB1."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Jayden Daniels for Rome Odunze and 2027 1st, positioning Daniels as the missing decade-long solution to their QB room.",
+              "acceptableConcession": "Throw in 2027 3rd or secondary depth if required.",
+              "walkAwayPoint": "Walk away if the 2027 1st is removed from the package."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Drake Maye fantasy outlook 2026",
+          "Tetairoa McMillan NFL draft team 2025 2026 fantasy",
+          "Ashton Jeanty NFL draft team 2025 2026 fantasy",
+          "Jayden Daniels fantasy outlook 2026",
+          "CeeDee Lamb contract status 2026 fantasy outlook",
+          "Rome Odunze 2026 fantasy outlook Chicago Bears"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYztmXvF1P1iHhcV6z8Hur8obn6QfYApwqtp6mHzQjuGInkjUY3EqD5gwbbc71S0Mb-38gKEKUMJesJcmqCZXH6B_iDFBJtrP1lO-Kt_qWY0gT7hoJcz_Q2tbQJ6MAESqaq1mmB4M_2BCz4ZfWzl-GgMs8sZv3FKoJjK183nEvLyUCsvK_ByEtejIT4erEV8Dl5w47jbVtfFMqUDT7wrUyP_I2UxZKnkoE9J3doYg=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETujzsfeZrX_7N3KRBWsNasFZWjtFyXY3hEGg5V-I71pyvzoCj62dqirC_W4aZxHuZudpB7dwtlqvYtXDz7ASB3-5P6rE477Y4LqE0ZVoBvn_gFVpKsITjhfVMAD50kCvFaeBNipA5tB0TO8_HeAN6m7SiJaQ4pj2sEr4Y",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbVVuu-8BYWGn3MGLiSME0hCqXKbKpAlmCWuTv_U7QIaowm2uaIoaRZGAPCaViWJPVu4Msk6SDEEv9JInYVDKh8pEeHg_KlEVa23KNBLDu9APXifAOdK32YP3qnx5-Q5Ue",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFVPDdGj93unLNQOqSf0HdeR-0_1iqRIOwKT6zJiCAj_uZZ6Js2opPL3bhQnL49UpL7ZpCRgwMQxHVJ8UB_yAvAT_9-1xkAxNFNpVrxHp3AcGZbLqp37JfRFBrBxOPvy31",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqtqTqi4ouKFWbjdXVow-xy0ufjF9txUCVMlW-2QbZHlrZLr56qEjfh_5NEEVwNKVfkHENqT7OV3VzrDXK0J5RqFhstrvb3PI6vnkKDkKIOnRH0vFjSO5G8HzZkCVQH1n2NEoy4HUgPhyiZ2WmKFwUEa-APUEKT39IctYQ5iUA7YPAOEY7Cq6keJQ5uvh_MSNXpLbwjjNBZfeaCxeY1Yp5",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOnkt59ig5CMmHbr5iJJv-ihJIKEyfxpH-RlOOiNne9TTp4UIvdmnHay6JTVQPbGsuRFMUdaoVueuaJSo1a3XVvezJ5kFujGxR3raQvRfG6LDokarm37wuAHGBnJeG2fATW9A5CQLJkGe5QojBfRkUZAiq5GRhiAY9UA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWKpniXvX0SL0bqNlqw3U61F3XEH8GFnH2K_PehlKVfbpUPsAXEkmwt7eOLZ-dGaEJdqq-1uvFy4zLDQWLESJtMXTMrDnrMgwKRlSWZS-AS4g5FB3WqOzMyQXssYglMF5K",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm14iku5wh67V3HzNEBDKctRJuFoc46qR9mGIso_N5NEW3H-vIk4Rf9lToAKJQECBezTaovvpEKka_N6C44S_NiDexT48OToYkisRJUScOQNLqg33QDelaOC8i4n6xCXZwxhgi9k7tf_Pu2t4g",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUhzI02Qp9utgSrofTuHQYMsuVh2FsYhaCnu90gha_UC6O6SPNQ76_lmFiy-0GdXK7lGe_H6DCsK8t1-DYgjox81zX47G4KbdcRYtMBQXm_qZ8MfCYisi1Wj7f_3dsvI0PaFdyXA5ERie7SmTImNcjpCgcBud1pSMfU91KtpEwd_jEIX7EayY3NL_G8ueBkVCM5s3DoywEIw==",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF26kWkfoXh7PRbqJfkbPZSDenvMwcA1txuHepFcsS0AdTqbkwJd7NVwVa01-8jN_KuEg3-1L8135seVwrYo_C0gYEcpeHln4FT3uwHLLGA2hRjuhd1LBGiuZoU50wD2xqqnkeqUIte7Z1o-875xJ-mmXLco8ale9vooZDpPmeRTLlnfJfqYNmw4w2j",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDgGMv-wWIAt4xlkLlPnPCsl97wqKCaTsgACtEkJD-8e6qcW_POy6jn2h_XwjFdoSE8VX580GI2JnCap1nxoJ-TFKA4bkO0wxtRvERSA7rDi1o_46CMiSFHeKBFbZ5LoUSmwvwBEQ_e3-F3vuFkpfumfmoUqJ_S0oUogVsc2meG2sYeoefsjYsEmM2uHNRUtbK0LswixySDdtk0GJcwJOeH3MhhEmFI0TXpLxIC9go",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBi06_ZszQrHeX9J0K97pAGaoQdickzyOl4arq30ifBNEg5loZOvWxEXus5KZl6cUR-phyY0yvQt3C5bv0_5AwLEEYBpqrhohihkEdaLN3Lvs-JiZH21rgV8bGR7BfS-0lmscUsmHJvmi3IDA_waUVyPcElYfEwMi7g7Eia9BEjs3aHFhpcVKjVEAsrsnU5O7KcDL6wEvKE-xLuuyR54A=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDE3erpnjcRDbhQLRNHhDzSpgPl2CGu0VoHxiA18kLVTNzvoczjnSvof9gaN6DesG1mEoWZ0-f7easPEVbeP0944l6ITEt253jtK8EFHwBMaAVHx_Id1SSZDcFBL0OIVKpc19h_JgqOxuRI2MJ3OAkQO7F8M2caVtWIcFTATWGvtZTRMblkqNcpjXrih64Gcvem0Zr3u0=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZT3VDpifO2z8hmguHfqPol6izTaWjSqb1nY_NLYhbxFUEZ9vyQVVyP6BA4FL-UK9rqXPGDDvYDVVxqxbXo8DQNv4ahz0SORP3a_xSmlebYf_teu-tOXERGRolr0ELukrC5ryytgOqe5kDaOLAQ1rlIDNVmhwfhdNDSgQqj4sasSnspA==",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHPzAs9vzhDB041XnUYtlhsBAGdawDN548eW7Bzgonfg3pkpUXrNI1t7KYwbNKSqWmp6BKG8PBxvabdSwmwgTRBhkeDwXCWFEB7j05Y0P5XDS6kN7t4iNEVvZm-gfj3w4x",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGduKwMbQoR1dDGldLEkhEVkdxbwCf4_mSHjjnczqGfqVKMYkBhQfGexStCaHdzYtHHTJ410LBnoAv9P1yx-FaarQcqPbXW-L3aHU5YbL6C6BEkH7k3BH-IGS-3tK6VV2ygtVbspSHBoZ8",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwnCU742qlTCC9DVcL7u2pIHybV_sZLOSUR_tc2i8_eCrK1aXWS9UsqiNxEZov9iLDiWp6i7a5zk2XWwXvPG43ZjvLmtss0aQs9-AgpsJ1MNHg4B108Icg8PbozQKy8rFRX8lIcjxG8EOHHzxztw==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgH-NT8kIz6sP2EPiyqROJzM-57mpX7Xx5JCEamSsscml2mi3fnFtXUAz5rBmql-pYeXElpZu8lgUW81I_xFtslM2Cc97Y5tmhO7NDN-EDcyGnESa5fWmTBC6V3g-Fx3eb-kkAkYolPmsStnEErPt0zg==",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDbo8d4WEPQrX_OtZFvBgCdhKAyTjmnfS_AzT6-B12rJ2I190MX5vNQB-7d54SWDHz1IxHzjBKDmVJevgtLwWc7L8YWxnTEtJS6Rgl74wDE2EzjcSMh8eliFdK-PlzDjXu-RE7Qye2yvuE0ZW0zCq1vFPPfGy_lNP7l51EzUGT51W9e1tCLUOmSXseXlvna4RUdAzBo5vHJycxJhvNFBagdUk0oVDU6Z42Jwqq",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzcA_YqAR72JQ1hDkz4tEQMX7RxFA8hhaBwxdRYi6HsIShzjBatvPpACV0HbEHXryw5onKvvF_zPIQLE3etJ8ypu1GUdoOb6g7dwKPRthvvy6601uTfV3JXF7pINU73PS9QZxdbss=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvIJTR0KoGiZSAaeXTO9RdyVprpozCU2FA3BQdxAaNY202KLWAQUpMHggohWF_e6_0cNXncHi321PEj5R0fKHF5J5E1MgtgnFfk9NvuGF_p85UsMvzmUrsqpAbgK8SOI8-K61rXgtD849MCVmxj0Sc84lx38HTlPZYmZWl4Pw_U0AyZm-ArTcd0MFen5QpFMaB74QAG5W2KhYOK_8VLBE-",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzAI2fX6mLGZdDyrMZWpNpbg6bh0TTxqS5dcvDGaW6jfLMo2Pgp-h86hH1L6j9E0y0RAhSc6-l0biVlNVHL4unkfUpjq7B78XO-czOo4LsmsJoqKXosXUB3mNQTtFLSGBQKD_C1oFcKBjbl15_2vTWEayI",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV1TT5y3IdroQAfCm0jCCfgUa2rqQ0LiM0f2jbf7Oq_LOZQYX0t4udd5qg_eFKov0X9OOfSNgq7H_syqJDQdOIoRpuIvKxtX0ElBHOuv3CnxiANhhVihBRq7tBymSFPxXeJTK-483nXChZuoKcHWXS6OuV67kRL2rv1cRPcv8z3BLy7RRMyoDLDH9tUqKVVxb3AwjVK2l_YB7G_kP3",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3kb2mXm0P8A8QXlSqGUuWOoXHlpbM44w8SYxhIU3u6Vb-FZmODodReDCXtcU5lfDyPAFf1dUsS73QM535-vg4S055y1WGZLs_HG4HBdxYO1cmjWz4iuFKqUVgYMIS8YTVlqp0JFSuz49TjiM0yvf75Wdi-CZhGa3rJELkT-u3PQ==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA80YtxpwKgpMkOqGmZhi342SkMlw8seIs1ubYlkGvHLVqq1Jt-Nue4h5Mlbd9iEdvu2TWg3KIihmn_ZGvJ0_4WRVCbbcjMrWi7oYNbEM1kqoVeTlTPQI6AxFqFol9mJiU1IHetOvERoXD_O7qIlVFiSMPv6d_nymYKkUpYxR81GC0bAzRt3rKnU8dzAJGRDrXDD69xcBXjhzWz10jhHLkL2Lo",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ4D-Cze7XEQ-VYS5rtBJ8DHMA0AtuNBvxM2CW8N2fC9Q7LtCVoqkWbIthCgivj0tqw0VecQ049rWugmr3Z_jIXzeomHm5ZWc4om0icgKU32MLyVQdy_eHraxsjGFlLaB1huD-AiNK5DguTw475RVQGvAv3o0dI319Jcf-2q6v",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHRXv7k7w4b4ZbfRKYYQJOeHwVbT5WmD8mBLXmSpK7RvluCS2mdzEiXomww4K85j2kuGX-lrMbQQ9p8LB_IHFO3Jv-bZL3UUg5LYx-Ap6CqmR1tScSO31CuOSPQc5IF9OtE26YIpmULyWwXxsTuLdy1PxKCdK-hKzpf8SPFya6g8TqvWW16DqxJFJe-brTURK5BAv9-OR40BFtXfOi-fHQeF0=",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5j5zbWvEeMxcog_n1euagnq24fyJQ9FwYpJc1WbJyWtDcDZq_IJvjOETHAkEcg9fDvjbueiPbba5sku4JC4Vwhh5fY7MVnJTO_Ul5ig4Omk-TEQzeR8tpJB3ytzOuDJxPCAbVIH9jzU9OdDSa4dfuPrFml3RTB-cs79WQg1HUAB-pMkdP",
+            "title": "lindyssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuratdrOad_hRdZjlWyekaxKq_oFWDGwaI7XKwoXhZtl9Wtk9rUxpf6Pjyp9JMjMGUOZ5dUxGKKh2HWH0DBkuywz_jK_ueyHoAq2DGL38-pHxUl6FZnLovgEQ2qmyI8eO1NytP99bHFCfNfY97WfSRnsB2PIiOhyxhK2nRRly2dEme",
+            "title": "dallascowboys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaNWtZb8ojO6EPdE_klP--5GBBfexrC8hQeOnrhvdCJxow2zyHya3R3ME1cSTggTHdXIiwJb3FFEDXczKNJEzsY10Ndulr06KM5yBTUO0UO2ylfj8gUwlg4Jmkc5vyjN2QON6yLhisk7xFZNBGPQaxeTp85HYwW42FJI4cQqtaIRUNafl9rhbTlKJ5nZ_irGh1aHwILUk4e7xaxNQR",
+            "title": "clutchpoints.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Ashton Jeanty",
+          "Rome Odunze",
+          "Jayden Daniels",
+          "Drake Maye",
+          "Tetairoa McMillan",
+          "CeeDee Lamb"
+        ],
+        "aviCoreCommitSha": "4267e28807de9009a8a351196d604e5b491916c6",
+        "aviCoreCommittedAt": "2026-08-16T15:11:47Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 524305,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "msv4hy4s-4b1cf5a7",
