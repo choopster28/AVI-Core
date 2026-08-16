@@ -100521,7 +100521,7 @@
     "depth_chart_order": 5,
     "depth_chart_position": "TE",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 25328,
     "fantasy_positions": [
       "TE"
     ],
@@ -146522,7 +146522,7 @@
     "depth_chart_order": null,
     "depth_chart_position": "RB",
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 26267,
     "fantasy_positions": [
       "RB"
     ],
@@ -222679,7 +222679,7 @@
     "depth_chart_order": null,
     "depth_chart_position": null,
     "espn_id": null,
-    "fantasy_data_id": null,
+    "fantasy_data_id": 28655,
     "fantasy_positions": [
       "DL"
     ],
