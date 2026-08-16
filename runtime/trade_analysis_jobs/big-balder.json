@@ -1,5 +1,51 @@
 [
   {
+    "id": "msv4hy4s-4b1cf5a7",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "DMV Fantasy",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jalen Coker",
+            "assetType": "player"
+          },
+          {
+            "name": "Jaxson Dart",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · DMV · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2029 1st · Balder · Projected late range (1.10–1.16)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jayden Daniels",
+            "assetType": "player"
+          },
+          {
+            "name": "Khalil Shakir",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1786843522828,
+    "updatedAt": 1786843522828,
+    "expiresAt": 1787275522828,
+    "status": "queued"
+  },
+  {
     "id": "msv1gxlq-7fe13988",
     "phase": "initial",
     "mode": "analyze_trade",
