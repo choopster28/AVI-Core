@@ -12934,7 +12934,7 @@
       "genius_id": "1399214",
       "rookie_year": "2023"
     },
-    "news_updated": 1786315832358,
+    "news_updated": 1786921217411,
     "number": 24,
     "oddsjam_id": "37536FAAB53C",
     "opta_id": null,
@@ -18848,7 +18848,7 @@
     "college": "Houston",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 24430,
     "fantasy_positions": [
@@ -69073,7 +69073,7 @@
   },
   "11786": {
     "active": true,
-    "age": 22,
+    "age": 23,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2003-08-17",
@@ -69557,7 +69557,7 @@
   },
   "11793": {
     "active": true,
-    "age": 25,
+    "age": 26,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2000-08-17",
@@ -72433,7 +72433,7 @@
       "genius_id": "1465753",
       "rookie_year": "2024"
     },
-    "news_updated": 1786833607722,
+    "news_updated": 1786925418209,
     "number": 92,
     "oddsjam_id": "9FB3C43535E4",
     "opta_id": null,
@@ -77114,7 +77114,7 @@
       "genius_id": "1483703",
       "rookie_year": "2024"
     },
-    "news_updated": 1767546601353,
+    "news_updated": 1786920617538,
     "number": 6,
     "oddsjam_id": "1D75C9EF2878",
     "opta_id": null,
@@ -95670,10 +95670,10 @@
     "hashtag": "#chrisrolandwallace-NFL-KC-30",
     "height": "71",
     "high_school": "Williams J. Knight (CA)",
-    "injury_body_part": "Back",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "98e1174c-03d9-46b5-bc05-5a94d2e42765",
     "last_name": "Roland-Wallace",
     "metadata": {
@@ -95681,7 +95681,7 @@
       "genius_id": "1483120",
       "rookie_year": "2024"
     },
-    "news_updated": 1765052137419,
+    "news_updated": 1786925118136,
     "number": 30,
     "oddsjam_id": "67ECAA890BD7",
     "opta_id": null,
@@ -119164,7 +119164,7 @@
       "rookie_year": "2025",
       "source_id": "e43e0e4c-c870-4b7e-879a-bebdac64de54"
     },
-    "news_updated": 1786919117869,
+    "news_updated": 1786921818469,
     "number": 25,
     "oddsjam_id": "179317EA833D6E22",
     "opta_id": null,
@@ -128535,7 +128535,7 @@
       "genius_id": "1500358",
       "rookie_year": "2025"
     },
-    "news_updated": 1785995746452,
+    "news_updated": 1786924818027,
     "number": 31,
     "oddsjam_id": "CC6BBEA480818C57",
     "opta_id": null,
@@ -130473,7 +130473,7 @@
       "genius_id": "1500780",
       "rookie_year": "2025"
     },
-    "news_updated": 1767389140662,
+    "news_updated": 1786920317421,
     "number": 86,
     "oddsjam_id": "C355B75F04A896FC",
     "opta_id": null,
@@ -163639,7 +163639,7 @@
       "genius_id": "1497568",
       "rookie_year": "2025"
     },
-    "news_updated": 1767049527489,
+    "news_updated": 1786921217413,
     "number": 99,
     "oddsjam_id": "82C54D37E532066F",
     "opta_id": null,
@@ -169721,7 +169721,7 @@
       "rookie_year": "2026",
       "source_id": "34ee4830-92c4-11ed-8165-1b7b8311cdae"
     },
-    "news_updated": 1786914316293,
+    "news_updated": 1786926018847,
     "number": 4,
     "oddsjam_id": null,
     "opta_id": null,
@@ -181909,7 +181909,7 @@
   },
   "13468": {
     "active": true,
-    "age": 22,
+    "age": 23,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2003-08-17",
@@ -181969,7 +181969,7 @@
   },
   "13469": {
     "active": true,
-    "age": 21,
+    "age": 22,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2004-08-17",
@@ -182957,7 +182957,7 @@
       "channel_id": "1353835840656150528",
       "rookie_year": "2026"
     },
-    "news_updated": 1786064108783,
+    "news_updated": 1786926018255,
     "number": 65,
     "oddsjam_id": null,
     "opta_id": null,
@@ -195065,7 +195065,7 @@
     "college": "Texas",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "P",
     "espn_id": null,
     "fantasy_data_id": 28279,
     "fantasy_positions": [
@@ -198294,7 +198294,7 @@
     "college": "Tulane",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28326,
     "fantasy_positions": [
@@ -340535,7 +340535,7 @@
   },
   "3233": {
     "active": true,
-    "age": 32,
+    "age": 33,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1993-08-17",
@@ -395194,10 +395194,10 @@
     "hashtag": "#jamaladams-NFL-MIN-32",
     "height": "73",
     "high_school": "Carrollton Hebron (TX)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "7072205b-238d-416b-9949-fc99ef1132f4",
     "last_name": "Adams",
     "metadata": {
@@ -395205,7 +395205,7 @@
       "genius_id": "998892",
       "rookie_year": "2017"
     },
-    "news_updated": 1786860910134,
+    "news_updated": 1786926917488,
     "number": 32,
     "oddsjam_id": "E07A0392FB48",
     "opta_id": null,
@@ -405618,8 +405618,8 @@
     "birth_state": null,
     "college": "Ohio State",
     "competitions": [],
-    "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_order": 8,
+    "depth_chart_position": "SWR",
     "espn_id": 3121409,
     "fantasy_data_id": 19080,
     "fantasy_positions": [
@@ -456400,7 +456400,7 @@
       "genius_id": "1013950",
       "rookie_year": "2018"
     },
-    "news_updated": 1786068307894,
+    "news_updated": 1786925418206,
     "number": 89,
     "oddsjam_id": "233348EDE4B7",
     "opta_id": null,
@@ -457064,7 +457064,7 @@
       "genius_id": "1068264",
       "rookie_year": "2018"
     },
-    "news_updated": 1786888511939,
+    "news_updated": 1786926618270,
     "number": 88,
     "oddsjam_id": "C468CC413EE8",
     "opta_id": null,
@@ -579036,10 +579036,10 @@
     "hashtag": "#joshuametellus-NFL-MIN-44",
     "height": "71",
     "high_school": "Flanagan (FL)",
-    "injury_body_part": "Shoulder",
-    "injury_notes": "Surgery",
+    "injury_body_part": null,
+    "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "39cad1e0-a26c-4a3a-b384-96a63534d84e",
     "last_name": "Metellus",
     "metadata": {
@@ -579047,7 +579047,7 @@
       "genius_id": "1007908",
       "rookie_year": "2020"
     },
-    "news_updated": 1766022661087,
+    "news_updated": 1786920617537,
     "number": 44,
     "oddsjam_id": "004B586FC6C0",
     "opta_id": null,
@@ -585434,8 +585434,8 @@
     "birth_state": null,
     "college": "Ole Miss",
     "competitions": [],
-    "depth_chart_order": 2,
-    "depth_chart_position": "NT",
+    "depth_chart_order": null,
+    "depth_chart_position": null,
     "espn_id": 4035299,
     "fantasy_data_id": 21868,
     "fantasy_positions": [
@@ -608302,7 +608302,7 @@
   },
   "7344": {
     "active": true,
-    "age": 30,
+    "age": 31,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1995-08-17",
@@ -628114,7 +628114,7 @@
       "genius_id": "1015393",
       "rookie_year": "2021"
     },
-    "news_updated": 1781049641525,
+    "news_updated": 1786920017111,
     "number": 55,
     "oddsjam_id": "6D7559CD51B2",
     "opta_id": null,
@@ -629960,7 +629960,7 @@
   },
   "7677": {
     "active": true,
-    "age": 27,
+    "age": 28,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1998-08-17",
@@ -631087,7 +631087,7 @@
       "genius_id": "1006963",
       "rookie_year": "2021"
     },
-    "news_updated": 1786414233222,
+    "news_updated": 1786921517301,
     "number": 57,
     "oddsjam_id": "E20BAD78429E",
     "opta_id": null,
@@ -668342,7 +668342,7 @@
     "birth_state": null,
     "college": "Utah State",
     "competitions": [],
-    "depth_chart_order": 8,
+    "depth_chart_order": 9,
     "depth_chart_position": "SWR",
     "espn_id": null,
     "fantasy_data_id": 23746,
@@ -706884,7 +706884,7 @@
     "college": "Missouri Western",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 23563,
     "fantasy_positions": [
@@ -717342,7 +717342,7 @@
   },
   "9479": {
     "active": true,
-    "age": 24,
+    "age": 25,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2001-08-17",
@@ -717491,7 +717491,7 @@
       "genius_id": "1398985",
       "rookie_year": "2023"
     },
-    "news_updated": 1786676448009,
+    "news_updated": 1786925118137,
     "number": 85,
     "oddsjam_id": "B67FA2B2755D",
     "opta_id": null,
@@ -717916,7 +717916,7 @@
       "genius_id": "1399246",
       "rookie_year": "2023"
     },
-    "news_updated": 1786898713488,
+    "news_updated": 1786920917304,
     "number": 11,
     "oddsjam_id": "6C394246A6D8",
     "opta_id": null,
@@ -718014,7 +718014,7 @@
     "birth_state": null,
     "college": "Florida",
     "competitions": [],
-    "depth_chart_order": 9,
+    "depth_chart_order": 10,
     "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 24221,
@@ -723170,7 +723170,7 @@
       "genius_id": "1398595",
       "rookie_year": "2023"
     },
-    "news_updated": 1786639237914,
+    "news_updated": 1786925418215,
     "number": 4,
     "oddsjam_id": "F39E10BEE1F4",
     "opta_id": null,
