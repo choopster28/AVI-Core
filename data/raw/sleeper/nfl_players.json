@@ -64916,7 +64916,7 @@
       "genius_id": "1463904",
       "rookie_year": "2024"
     },
-    "news_updated": 1784136044025,
+    "news_updated": 1786934419276,
     "number": 77,
     "oddsjam_id": "0381C63324BD",
     "opta_id": null,
@@ -115660,7 +115660,7 @@
       "rookie_year": "2025",
       "source_id": "3e3ccfa6-6ba3-46dc-9037-4f4a5e57a653"
     },
-    "news_updated": 1786748144785,
+    "news_updated": 1786934118437,
     "number": 18,
     "oddsjam_id": "28E51B711FEA06A0",
     "opta_id": null,
@@ -118062,7 +118062,7 @@
       "rookie_year": "2025",
       "source_id": "1e9c9776-39f1-4f9f-bef6-b86cbbe274a0"
     },
-    "news_updated": 1786752052431,
+    "news_updated": 1786933818442,
     "number": 84,
     "oddsjam_id": "CFC2D2F8D9BD90DE",
     "opta_id": null,
@@ -184208,7 +184208,7 @@
       "channel_id": "1353835911695077376",
       "rookie_year": "2026"
     },
-    "news_updated": 1786065908473,
+    "news_updated": 1786933819311,
     "number": 93,
     "oddsjam_id": null,
     "opta_id": null,
@@ -514186,7 +514186,7 @@
       "genius_id": "1016052",
       "rookie_year": "2019"
     },
-    "news_updated": 1786503046800,
+    "news_updated": 1786936518762,
     "number": 32,
     "oddsjam_id": "A2114935F695",
     "opta_id": null,
@@ -517847,7 +517847,7 @@
       "injury_override_regular_2025_7": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1786204829614,
+    "news_updated": 1786933819310,
     "number": 3,
     "oddsjam_id": "67FF12F3845C",
     "opta_id": null,
@@ -580125,7 +580125,7 @@
       "genius_id": "1005727",
       "rookie_year": "2020"
     },
-    "news_updated": 1779338441131,
+    "news_updated": 1786937119819,
     "number": 36,
     "oddsjam_id": "998715B4D91F",
     "opta_id": null,
@@ -585811,7 +585811,7 @@
       "genius_id": "1008015",
       "rookie_year": "2020"
     },
-    "news_updated": 1786543851842,
+    "news_updated": 1786934719540,
     "number": 83,
     "oddsjam_id": "EF80F08FBD39",
     "opta_id": null,
@@ -661493,7 +661493,7 @@
       "genius_id": "1344062",
       "rookie_year": "2022"
     },
-    "news_updated": 1786719940528,
+    "news_updated": 1786937118853,
     "number": 23,
     "oddsjam_id": "C3619260E06D",
     "opta_id": null,
@@ -683452,7 +683452,7 @@
       "genius_id": "1082561",
       "rookie_year": "2022"
     },
-    "news_updated": 1786227032707,
+    "news_updated": 1786935619499,
     "number": 70,
     "oddsjam_id": "945C1DFC2AAA",
     "opta_id": null,
@@ -697960,7 +697960,7 @@
   },
   "871": {
     "active": true,
-    "age": 36,
+    "age": 37,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1989-03-26",
@@ -697978,7 +697978,7 @@
     "first_name": "Von",
     "full_name": "Von Miller",
     "gsis_id": "00-0027940",
-    "hashtag": "#vonmiller-NFL-FA-24",
+    "hashtag": "#vonmiller-NFL-DAL-24",
     "height": "75",
     "high_school": "DeSoto (TX)",
     "injury_body_part": null,
@@ -698013,7 +698013,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 409742,
-    "team": null,
+    "team": "DAL",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "250",
@@ -706907,7 +706907,7 @@
       "genius_id": "1358227",
       "rookie_year": "2022"
     },
-    "news_updated": 1786339237703,
+    "news_updated": 1786935019396,
     "number": 44,
     "oddsjam_id": "CBECE22DE62C",
     "opta_id": null,
