@@ -54643,10 +54643,10 @@
     "hashtag": "#rasheenali-NFL-BAL-26",
     "height": "71",
     "high_school": "Shaker Heights (OH)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "5bdf211e-9c69-4421-a0a9-14daf4a5a302",
     "last_name": "Ali",
     "metadata": {
@@ -115722,7 +115722,7 @@
       "rookie_year": "2025",
       "source_id": "7139f9a8-332b-42bc-a555-93deaf7f4cd7"
     },
-    "news_updated": 1786757453103,
+    "news_updated": 1786939519320,
     "number": 81,
     "oddsjam_id": "316D64219F892349",
     "opta_id": null,
@@ -659562,7 +659562,7 @@
       "genius_id": "1085245",
       "rookie_year": "2022"
     },
-    "news_updated": 1786818301650,
+    "news_updated": 1786937719131,
     "number": 87,
     "oddsjam_id": "E00598C28F10",
     "opta_id": null,
@@ -665172,7 +665172,7 @@
       "injury_override_regular_2024_3": "IR",
       "rookie_year": "2022"
     },
-    "news_updated": 1786374342525,
+    "news_updated": 1786939219248,
     "number": 10,
     "oddsjam_id": "64F1AACEA46E",
     "opta_id": null,
@@ -715156,7 +715156,7 @@
       "genius_id": "1398586",
       "rookie_year": "2023"
     },
-    "news_updated": 1786715440474,
+    "news_updated": 1786938619039,
     "number": 0,
     "oddsjam_id": "DA5A17B9EDF4",
     "opta_id": null,
