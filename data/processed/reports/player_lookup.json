@@ -1311,6 +1311,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00012485",
+      "c_avi": 21.5,
+      "d_avi": 58.3,
+      "nfl_team": "TB",
+      "player_name": "Tez Johnson",
+      "position": "WR",
+      "sleeper_id": "12485",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00013380",
       "c_avi": 21.4,
       "d_avi": 55.9,
@@ -2378,8 +2390,8 @@
     }
   ],
   "counts": {
-    "available_players": 198,
-    "rostered_players": 239
+    "available_players": 199,
+    "rostered_players": 238
   },
   "rostered_players": [
     {
@@ -5741,22 +5753,6 @@
       "status": "Active",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012485",
-      "c_avi": 21.5,
-      "d_avi": 58.3,
-      "nfl_team": "TB",
-      "owner_id": "1178861684281753600",
-      "player_name": "Tez Johnson",
-      "position": "WR",
-      "roster_id": 2,
-      "sleeper_id": "12485",
-      "status": "Active",
-      "team_file": "02_Rapid_Valley_Annihilation.md",
-      "team_name": "Rapid Valley Annihilation"
     },
     {
       "active": true,
