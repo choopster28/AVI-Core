@@ -2,7 +2,7 @@
   "count": 103,
   "filters": "22,1139,4317,1204,835,2373,3514,4436,7494,763,7357,3950,6658,552,4408,2340,4176,670,7649,7652,15,873,5598,5874,4940,58,2709,7671",
   "last_updated": "8/17",
-  "last_updated_ts": 1786935391,
+  "last_updated_ts": 1786986567,
   "players": [
     {
       "cbs_player_id": "2181054",
@@ -108,11 +108,11 @@
       "player_yahoo_id": "31002",
       "player_yahoo_positions": "QB",
       "pos_rank": "QB4",
-      "rank_ave": "3.88",
+      "rank_ave": "3.92",
       "rank_ecr": 4,
       "rank_max": "7",
       "rank_min": "2",
-      "rank_std": "1.05",
+      "rank_std": "1.00",
       "sportsdata_id": "e06a9c07-453a-4bb0-a7e9-2c3a64166dad",
       "tier": 1
     },

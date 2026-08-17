@@ -9804,7 +9804,7 @@
     },
     {
       "cbs_player_id": "26705419",
-      "player_bye_week": null,
+      "player_bye_week": "6",
       "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "ethan-robinson.php",
@@ -9817,7 +9817,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "E. Robinson",
-      "player_team_id": "FA",
+      "player_team_id": "MIA",
       "player_yahoo_id": "42169",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB190",

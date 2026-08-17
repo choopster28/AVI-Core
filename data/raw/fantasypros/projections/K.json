@@ -9,7 +9,7 @@
       "position_id": "K",
       "stats": {
         "fg": 35.16,
-        "fga": 39.88,
+        "fga": 39.55,
         "points": 152.98,
         "points_half": 152.98,
         "points_ppr": 152.98,
@@ -42,10 +42,10 @@
       "stats": {
         "fg": 36.3,
         "fga": 40.46,
-        "points": 144.46,
-        "points_half": 144.46,
-        "points_ppr": 144.46,
-        "xpt": 35.56
+        "points": 143.96,
+        "points_half": 143.96,
+        "points_ppr": 143.96,
+        "xpt": 35.06
       },
       "team_id": "HOU"
     },
@@ -98,22 +98,6 @@
       "team_id": "DET"
     },
     {
-      "filename": "cairo-santos.php",
-      "fpid": 13731,
-      "mflid": 11945,
-      "name": "Cairo Santos",
-      "position_id": "K",
-      "stats": {
-        "fg": 30.32,
-        "fga": 34.83,
-        "points": 134.85,
-        "points_half": 134.85,
-        "points_ppr": 134.85,
-        "xpt": 43.88
-      },
-      "team_id": "CHI"
-    },
-    {
       "filename": "blake-grupe.php",
       "fpid": 25533,
       "mflid": 16444,
@@ -130,6 +114,22 @@
       "team_id": "IND"
     },
     {
+      "filename": "cairo-santos.php",
+      "fpid": 13731,
+      "mflid": 11945,
+      "name": "Cairo Santos",
+      "position_id": "K",
+      "stats": {
+        "fg": 29.99,
+        "fga": 34.49,
+        "points": 133.35,
+        "points_half": 133.35,
+        "points_ppr": 133.35,
+        "xpt": 43.38
+      },
+      "team_id": "CHI"
+    },
+    {
       "filename": "chase-mclaughlin.php",
       "fpid": 19058,
       "mflid": 14717,
@@ -138,10 +138,10 @@
       "stats": {
         "fg": 31.52,
         "fga": 36.49,
-        "points": 133.44,
-        "points_half": 133.44,
-        "points_ppr": 133.44,
-        "xpt": 38.87
+        "points": 132.94,
+        "points_half": 132.94,
+        "points_ppr": 132.94,
+        "xpt": 38.37
       },
       "team_id": "TB"
     },
@@ -162,22 +162,6 @@
       "team_id": "SF"
     },
     {
-      "filename": "harrison-butker.php",
-      "fpid": 16712,
-      "mflid": 13354,
-      "name": "Harrison Butker",
-      "position_id": "K",
-      "stats": {
-        "fg": 31.28,
-        "fga": 36.56,
-        "points": 132.26,
-        "points_half": 132.26,
-        "points_ppr": 132.26,
-        "xpt": 38.43
-      },
-      "team_id": "KC"
-    },
-    {
       "filename": "tyler-loop.php",
       "fpid": 27534,
       "mflid": 17222,
@@ -192,6 +176,22 @@
         "xpt": 46.72
       },
       "team_id": "BAL"
+    },
+    {
+      "filename": "harrison-butker.php",
+      "fpid": 16712,
+      "mflid": 13354,
+      "name": "Harrison Butker",
+      "position_id": "K",
+      "stats": {
+        "fg": 31.28,
+        "fga": 36.56,
+        "points": 131.76,
+        "points_half": 131.76,
+        "points_ppr": 131.76,
+        "xpt": 37.93
+      },
+      "team_id": "KC"
     },
     {
       "filename": "cam-little.php",
@@ -249,7 +249,7 @@
       "position_id": "K",
       "stats": {
         "fg": 30.01,
-        "fga": 32.48,
+        "fga": 32.82,
         "points": 128.61,
         "points_half": 128.61,
         "points_ppr": 128.61,
@@ -282,10 +282,10 @@
       "stats": {
         "fg": 28.93,
         "fga": 34.13,
-        "points": 126.44,
-        "points_half": 126.44,
-        "points_ppr": 126.44,
-        "xpt": 39.66
+        "points": 126.94,
+        "points_half": 126.94,
+        "points_ppr": 126.94,
+        "xpt": 40.16
       },
       "team_id": "GB"
     },
@@ -362,10 +362,10 @@
       "stats": {
         "fg": 25.79,
         "fga": 30.88,
-        "points": 119.83,
-        "points_half": 119.83,
-        "points_ppr": 119.83,
-        "xpt": 42.45
+        "points": 119.33,
+        "points_half": 119.33,
+        "points_ppr": 119.33,
+        "xpt": 41.95
       },
       "team_id": "NE"
     },
@@ -415,7 +415,7 @@
         "points_ppr": 116.4,
         "xpt": 34.29
       },
-      "team_id": "WAS"
+      "team_id": "FA"
     },
     {
       "filename": "riley-patterson.php",
@@ -472,11 +472,11 @@
       "name": "Ryan Fitzgerald",
       "position_id": "K",
       "stats": {
-        "fg": 25.84,
-        "fga": 30.49,
-        "points": 108.95,
-        "points_half": 108.95,
-        "points_ppr": 108.95,
+        "fg": 25.51,
+        "fga": 30.16,
+        "points": 107.95,
+        "points_half": 107.95,
+        "points_ppr": 107.95,
         "xpt": 31.43
       },
       "team_id": "CAR"
@@ -490,10 +490,10 @@
       "stats": {
         "fg": 25.84,
         "fga": 32.47,
-        "points": 108.13,
-        "points_half": 108.13,
-        "points_ppr": 108.13,
-        "xpt": 30.6
+        "points": 107.63,
+        "points_half": 107.63,
+        "points_ppr": 107.63,
+        "xpt": 30.1
       },
       "team_id": "LV"
     },
