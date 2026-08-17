@@ -30,6 +30,33 @@
       ]
     },
     {
+      "orgId": "rapid-valley",
+      "orgName": "Rapid Valley Annihilation",
+      "updatedAt": "2026-08-17T13:41:34.419Z",
+      "answers": [
+        {
+          "team": "Badland Banditos",
+          "tiebreaker": "186"
+        },
+        {
+          "team": "All Hail King Jesus",
+          "tiebreaker": "143"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "206"
+        },
+        {
+          "team": "Gringo's Goblins",
+          "tiebreaker": "97"
+        },
+        {
+          "team": "Big Balder Brand",
+          "tiebreaker": "179"
+        }
+      ]
+    },
+    {
       "orgId": "ravens-regime",
       "orgName": "Ravens Regime",
       "updatedAt": "2026-08-15T02:49:57.308Z",
