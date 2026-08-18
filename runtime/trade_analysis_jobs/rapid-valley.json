@@ -1,5 +1,41 @@
 [
   {
+    "id": "msz27iif-13a4da85",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Rebuild",
+      "targetTeam": "Big Balder Brand",
+      "targetAssets": [
+        {
+          "name": "Khalil Shakir",
+          "assetType": "player"
+        },
+        {
+          "name": "Tank Bigsby",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        },
+        {
+          "name": "Adonai Mitchell",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1787081541495,
+    "updatedAt": 1787081541495,
+    "expiresAt": 1787513541495,
+    "status": "queued"
+  },
+  {
     "id": "msz1v5ab-e42a302e",
     "phase": "final",
     "mode": "improve_team",
