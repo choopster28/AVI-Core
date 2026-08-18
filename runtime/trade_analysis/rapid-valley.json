@@ -1,5 +1,382 @@
 [
   {
+    "id": "msz27iif-13a4da85",
+    "createdAt": 1787081602589,
+    "expiresAt": 1787513602589,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Rapid Valley Annihilation ↔ Big Balder Brand",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Rebuild",
+      "targetTeam": "Big Balder Brand",
+      "targetAssets": [
+        {
+          "name": "Khalil Shakir",
+          "assetType": "player"
+        },
+        {
+          "name": "Tank Bigsby",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        },
+        {
+          "name": "Adonai Mitchell",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Rapid Valley Annihilation leverages 28-year-old starting RB Rhamondre Stevenson (C-AVI: 65.1) and WR Adonai Mitchell (C-AVI: 46.7) to target younger offensive depth pieces in Khalil Shakir (26, WR, C-AVI: 57.4) and Tank Bigsby (23, RB, C-AVI: 43.1) from Big Balder Brand. This offer aligns directly with both organizational goals: Rapid Valley Annihilation shifts away from an aging running back during a rebuilding phase, while Champion Favorite Big Balder Brand fortifies its championship bench with a proven veteran RB starter without touching any member of its elite starting lineup.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65.1,
+              "davi": 81.4,
+              "publicMarket": 62,
+              "leagueMarket": 65.1
+            },
+            {
+              "name": "Adonai Mitchell",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "WR",
+              "age": 23,
+              "cavi": 46.7,
+              "davi": 72,
+              "publicMarket": 45,
+              "leagueMarket": 46.7
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Khalil Shakir",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 57.4,
+              "davi": 77.6,
+              "publicMarket": 55,
+              "leagueMarket": 57.4
+            },
+            {
+              "name": "Tank Bigsby",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 43.1,
+              "davi": 70.8,
+              "publicMarket": 42,
+              "leagueMarket": 43.1
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The trade is strategically mutually beneficial. Big Balder Brand receives the highest immediate production piece in Stevenson (65.1 C-AVI) to solidify its championship push, while Rapid Valley Annihilation exchanges an aging RB asset for two young, productive depth pieces aligned with a multi-year rebuild window."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Rapid Valley Annihilation successfully converts a 28-year-old running back into younger wide receiver stability and running back contingency depth."
+            },
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Slight dip in immediate 2026 starting RB points as Stevenson leaves, but starting lineup remains fully operational with Corum stepping in."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Improves long-term age profile by adding 26-year-old Shakir and 23-year-old Bigsby."
+            },
+            "lineupQuality": {
+              "score": 5,
+              "summary": "Khalil Shakir (57.4 C-AVI) enters WR2 slot over Denzel Boston (53.2 C-AVI), mitigating the drop from Stevenson to Corum at RB2."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds two usable, young offensive pieces that expand overall bench depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Bigsby serves as a prime trade-market asset if Saquon Barkley misses time, adding future liquidity."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 35,
+              "summary": "Big Balder Brand gains significant veteran RB depth for its 2026 title defense without parting with any starting lineup capital."
+            },
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Adds Rhamondre Stevenson (65.1 C-AVI, 187.5 proj points) as premium RB insurance behind Barkley, Love, and Hampton."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Slightly elevates average roster age by taking on 28-year-old Stevenson, which is appropriate for a Champion Favorite."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Starting 8 offensive slots remain elite (747.9 C-AVI sum), while bench scoring ceiling increases."
+            },
+            "depthResilience": {
+              "score": 45,
+              "summary": "Massively improves RB depth resilience for a grueling 16-team championship season."
+            },
+            "flexibilityLiquidity": {
+              "score": 5,
+              "summary": "Preserves all starting options while converting secondary bench pieces into high-volume RB depth."
+            }
+          },
+          "explanation": "This transaction optimizes both franchises for their verified goals: Big Balder Brand secures win-now RB depth for a title run, while Rapid Valley Annihilation pivots toward younger assets for a rebuilder."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Rapid Valley Annihilation trades 65.1 C-AVI (Stevenson) + 46.7 C-AVI (Mitchell) = 111.8 C-AVI for 57.4 C-AVI (Shakir) + 43.1 C-AVI (Bigsby) = 100.5 C-AVI. Total C-AVI net change is -11.3, which is an acceptable short-term trade-off for a rebuilding team prioritizing age and role trajectory.",
+          "sideADynastyImpact": "Dynasty AVI net change is 148.4 D-AVI incoming vs 153.4 D-AVI outgoing (-5.0 D-AVI net), but gains significant youth at RB (Bigsby, 23) and slot stability at WR (Shakir, 26).",
+          "sideARosterImpact": "Reconstructs starting lineup by moving Blake Corum to RB2 and placing Khalil Shakir directly into WR2, while placing Tank Bigsby as high-upside RB depth.",
+          "sideBChampionshipImpact": "Big Balder Brand receives +111.8 incoming C-AVI vs +100.5 outgoing C-AVI (+11.3 C-AVI net gain), gaining a proven starting RB in Stevenson.",
+          "sideBDynastyImpact": "Absorbs short-term age risk on Stevenson (28.0) to maximize 2026 title odds.",
+          "sideBRosterImpact": "Leaves elite starting lineup intact while upgrading bench RB depth from Bigsby (43.1 C-AVI) to Stevenson (65.1 C-AVI).",
+          "valueAssessment": "A balanced 2-for-2 player swap where current-season production flows to the Champion Favorite and long-term positional age stability flows to the Rebuilder."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In public dynasty market consensus, Khalil Shakir is viewed as a high-floor slot receiver in Buffalo whose target ceiling is slightly capped by DJ Moore's presence. Tank Bigsby is considered one of the premier high-efficiency contingency handcuffs in dynasty behind Saquon Barkley in Philadelphia. Rhamondre Stevenson remains a projected lead back in New England with steady volume, though his age (28) lowers his appeal for rebuilding rosters.",
+          "aviVsMarket": "AVI values Stevenson's immediate mandatory-starter workload higher than public redraft consensus, aligning with Big Balder Brand's need for championship RB depth. Shakir and Bigsby are valued by AVI as reliable depth options with strong dynasty age profiles.",
+          "relevantContext": [
+            "Bigsby averaged 5.9 YPC in 2025 and is receiving high praise in Eagles camp for his physical running style.",
+            "Shakir maintains a steady slot role in Buffalo with strong YAC metrics.",
+            "Stevenson projects for 187.5 PPR points as New England's top early-down option."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Big Balder Brand is a Champion Favorite seeking to fortify championship depth. Adding Rhamondre Stevenson provides high-floor RB depth behind Saquon Barkley and Jeremiyah Love without giving up any current starters.",
+          "packageFit": "The package addresses Big Balder's desire for veteran RB depth while clearing bench logjams at WR and backup RB.",
+          "lineupReplacement": "Neither Shakir nor Bigsby currently start for Big Balder Brand (who start Rice, Brown, Collins, Barkley, Love, Hampton, McBride, Daniels), so zero starting lineup degradation occurs.",
+          "competitiveWindowFit": "Perfect alignment: Big Balder Brand gets win-now production while Rapid Valley Annihilation gets younger rebuilder pieces.",
+          "positionalScarcity": "Starting-caliber running backs are extremely scarce in a 16-team league; offering Stevenson gives Big Balder a rare depth luxury."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 95,
+          "classification": "Highly Realistic",
+          "explanation": "Big Balder Brand receives a clear win-now upgrade in Rhamondre Stevenson without disrupting any starting spot, making this trade highly realistic for both front offices."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal effectively leverages Rhamondre Stevenson's current starting role to acquire younger assets (Shakir and Bigsby) tailored for Rapid Valley Annihilation's rebuild, while offering a compelling win-now upgrade to Big Balder Brand.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65.1,
+              "davi": 81.4,
+              "publicMarket": 62,
+              "leagueMarket": 65.1
+            },
+            {
+              "name": "Adonai Mitchell",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "WR",
+              "age": 23,
+              "cavi": 46.7,
+              "davi": 72,
+              "publicMarket": 45,
+              "leagueMarket": 46.7
+            }
+          ],
+          "receive": [
+            {
+              "name": "Khalil Shakir",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 57.4,
+              "davi": 77.6,
+              "publicMarket": 55,
+              "leagueMarket": 57.4
+            },
+            {
+              "name": "Tank Bigsby",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 43.1,
+              "davi": 70.8,
+              "publicMarket": 42,
+              "leagueMarket": 43.1
+            }
+          ],
+          "whyUserShouldDoIt": "You trade away an aging 28-year-old RB during a rebuild to acquire a starting-caliber 26-year-old WR (Shakir) and a 23-year-old upside RB (Bigsby) who fit your long-term timeline.",
+          "whyOpponentMightAccept": "Big Balder Brand gets a proven lead back in Rhamondre Stevenson to secure top-tier RB depth for a 2026 championship run without surrendering any starting lineup assets."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65.1,
+              "davi": 81.4,
+              "publicMarket": 62,
+              "leagueMarket": 65.1
+            }
+          ],
+          "receive": [
+            {
+              "name": "Khalil Shakir",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 57.4,
+              "davi": 77.6,
+              "publicMarket": 55,
+              "leagueMarket": 57.4
+            },
+            {
+              "name": "Tank Bigsby",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 43.1,
+              "davi": 70.8,
+              "publicMarket": 42,
+              "leagueMarket": 43.1
+            }
+          ],
+          "rationale": "If Big Balder Brand hesitates on taking Adonai Mitchell, a 1-for-2 trade of Stevenson for Shakir + Bigsby remains strong value for Big Balder due to RB scarcity in a 16-team league."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tank Bigsby news 2026 fantasy value",
+          "Khalil Shakir news 2026 fantasy value"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEei_bNz5nS6NJLV6e5POzPSRVYzepPW4HpV_zTfRlA33lZVPYo_AxAsvnNbMJhf-MHvjwi_Z6LxyFflSNgJtiW7NXlwEiQEjSIlJJDW1rslJ4zm_berxIAnufBt7ttXUk7NvwPBHfwe2QRj0p4OPFpB4nTqYNeSFN4ao3uXEraQYvt9YiyQX3mGuAnmkc=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDlYDkcY_THfxdfGxDk2EJaD6nf08q2V7heqvSvOqBby_TSeu4HLJayHDHpp5pSuc0OH2qaeY9PfC1_NZlnkFIPw3Liv6DqlG-Sz6PHxJDB731zCI58ZoLVkPIowab48U-ApP42D_EiqT2BnW5sHICsadQTtdW",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH76lG8MK9zsq5gPHFYsCzxj2XNysZgcfPhz-HPotoVxOFuftyTMqKOx9teJY0gRNPsq4tShSTXgrG_fJMCmMLBMGotC1BCWmJH82aIp26fynOu-vg0VTWBtpO5e29sP-4=",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgp1776pYikME-Ol05xzwcsnaD0NHOz7PIHjsnP7VTOSDAlCmh1VpmId5WkWLkVlGU4KOCtbfsjZGHadP4uSBSC1QQCeFQ6dG831X-2JBSgGUONYYwvmXAfhgfrMhZffuVPgUPwBicdwHHugLhJUs=",
+            "title": "fftoday.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9pWiaVJLLhrxQOEdh60Q8JDkwXx2rhL4Utps6xxstHVpoacNfXZPP4r0IKu3Ext2qz5zHsdB-JOVHkariFmiihvCC1u0Mcl2DXVsozoHOfCImMV2FsJ9J9wF1VEt4eNq7VdYV9XIi3yHcn5ELalZWfDE60Z1u_s6O_JQeP0E4wP8=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv2R-4MFMokjIH-5uA519IIqiO2fZ9PlOz7TEFNwFdwbiPe3X5coWzSaCa9-cTwvEqiEvFckerNhhIxEl-ZbqptYuRzAlquqrTVnJmYeqCd7cBsy8k0Ik1BzacCSSJMyspC5QwK9Zcn9gGhg==",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZJ8UyoDmRbyKiTAeyKFhX2B3RrgS4In6z174zEiswJQk5I8u0FTqEGStgZoP4CzDE0uqn7DeVz4o0UiudU88VSDarwI4-8-5EU_9p5rTSOnxm6cIiJsiJEaGglUiRDJvr_4JAaGuBPK4MKXCqoi-DVzvDM3znim3pXk4Iplvq",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh0K6uWj5Y-ziRAoS-kOR_9F-ywJutMxfMbtqs_DMh4nLyASPQ0BzFo9XV80fsPu6L9I1yD_JIRirA7-yt77Bx3RtgHrd1MPk3Wt4ctCe6wpoSjVmfzVdF1flJ2p_54xJGd5V8-lN_wVCZVeoTzUEr7_b_QrlN5UwdzjBkSINHK9ahs2p5Og==",
+            "title": "4for4.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "184d0d1275edebc6387ee494b107cc459f580d71",
+        "aviCoreCommittedAt": "2026-08-18T18:22:48Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 84674,
+        "groundedMarketChars": 2798,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "msz1v5ab-e42a302e",
     "createdAt": 1787080974274,
     "expiresAt": 1787512974274,
