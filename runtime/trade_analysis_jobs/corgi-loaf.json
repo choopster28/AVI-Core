@@ -1,5 +1,43 @@
 [
   {
+    "id": "msysb1nd-7cae5568",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        },
+        {
+          "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+          "assetType": "pick"
+        },
+        {
+          "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        },
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Wan'Dale Robinson",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1787064910105,
+    "updatedAt": 1787064910105,
+    "expiresAt": 1787496910105,
+    "status": "queued"
+  },
+  {
     "id": "msyrnqdo-b9b55ecd",
     "phase": "initial",
     "mode": "improve_team",
