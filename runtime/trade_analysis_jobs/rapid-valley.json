@@ -1,5 +1,23 @@
 [
   {
+    "id": "msz1v5ab-e42a302e",
+    "phase": "final",
+    "mode": "improve_team",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Rebuild",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3,
+      "personalContext": "I think the 2027 first has a high potential to acquire a cornerstone asset. Zay Flowers is a good number 2 but not worth the pick which should be an early round pick in a very good draft class."
+    },
+    "createdAt": 1787080964612,
+    "updatedAt": 1787080964612,
+    "expiresAt": 1787512964612,
+    "status": "queued"
+  },
+  {
     "id": "msz1p9c7-4588b069",
     "phase": "initial",
     "mode": "improve_team",
