@@ -1148,6 +1148,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
+## PLAYER LOOKUP: Keenan Allen
+- Player name: Keenan Allen
+- Player ID: 1479
+- Position: WR
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
+
 ## PLAYER LOOKUP: Kenneth Walker
 - Player name: Kenneth Walker
 - Player ID: 8151
@@ -1571,14 +1579,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
-
-## PLAYER LOOKUP: Ryan Flournoy
-- Player name: Ryan Flournoy
-- Player ID: 11783
-- Position: WR
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Team file: 08_All_Hail_King_Jesus.md
 
 ## PLAYER LOOKUP: Sam Darnold
 - Player name: Sam Darnold
@@ -2069,6 +2069,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 40.0
 - Dynasty AVI (D-AVI, 0-100): 61.5
+- Availability: available
+
+## AVAILABLE PLAYER: Ryan Flournoy
+- Player name: Ryan Flournoy
+- Player ID: 11783
+- Position: WR
+- NFL team: DAL
+- Championship AVI (C-AVI, 0-100): 39.9
+- Dynasty AVI (D-AVI, 0-100): 66.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Samaje Perine
@@ -3444,15 +3453,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 4098
 - Position: RB
 - NFL team: FA
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Availability: available
-
-## AVAILABLE PLAYER: Keenan Allen
-- Player name: Keenan Allen
-- Player ID: 1479
-- Position: WR
-- NFL team: LAC
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
 - Availability: available

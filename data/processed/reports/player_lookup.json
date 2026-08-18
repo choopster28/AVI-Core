@@ -207,6 +207,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011783",
+      "c_avi": 39.9,
+      "d_avi": 66.0,
+      "nfl_team": "DAL",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "sleeper_id": "11783",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00004147",
       "c_avi": 39.8,
       "d_avi": 55.8,
@@ -2038,18 +2050,6 @@
       "player_name": "Kareem Hunt",
       "position": "RB",
       "sleeper_id": "4098",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00001479",
-      "c_avi": 0.0,
-      "d_avi": 0.0,
-      "nfl_team": "LAC",
-      "player_name": "Keenan Allen",
-      "position": "WR",
-      "sleeper_id": "1479",
       "status": "Active"
     },
     {
@@ -4625,6 +4625,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00001479",
+      "c_avi": 0.0,
+      "d_avi": 0.0,
+      "nfl_team": "LAC",
+      "owner_id": "736994691492519936",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "roster_id": 8,
+      "sleeper_id": "1479",
+      "status": "Active",
+      "team_file": "08_All_Hail_King_Jesus.md",
+      "team_name": "All Hail King Jesus"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00008151",
       "c_avi": 90.3,
       "d_avi": 94.2,
@@ -5469,22 +5485,6 @@
       "status": "Active",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011783",
-      "c_avi": 39.9,
-      "d_avi": 66.0,
-      "nfl_team": "DAL",
-      "owner_id": "736994691492519936",
-      "player_name": "Ryan Flournoy",
-      "position": "WR",
-      "roster_id": 8,
-      "sleeper_id": "11783",
-      "status": "Active",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,
