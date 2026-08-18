@@ -33,9 +33,395 @@
       }
     },
     "createdAt": 1787071502762,
-    "updatedAt": 1787071504644,
+    "updatedAt": 1787071590967,
     "expiresAt": 1787503502762,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Conquistadors should DECLINE the submitted trade offer. While receiving a 2027 1st-round pick alongside David Montgomery and Wan'Dale Robinson adds depth and future liquidity, surrendering De'Von Achane creates a catastrophic 27.8 C-AVI drop at mandatory RB2 (falling from Achane's 97.4 to Montgomery's 69.6) and a net loss of 23.7 C-AVI in weekly starting lineup score. For an Elite Contender in a 16-team league whose sole objective is 'Win Championship', sacrificing an S-tier 24-year-old cornerstone running back for bench/FLEX depth and a distant pick severely weakens immediate title odds.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 94,
+              "leagueMarket": 97.4
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 69.6,
+              "davi": 84.5,
+              "publicMarket": 68,
+              "leagueMarket": 69.6
+            },
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 66.6,
+              "davi": 83.6,
+              "publicMarket": 65,
+              "leagueMarket": 66.6
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D+",
+            "otherGrade": "A",
+            "userShare": 32,
+            "otherShare": 68,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted proposal heavily favors Corgi Loaf Baking Co. While Conquistadors acquires a future 2027 1st and depth pieces in David Montgomery and Wan'Dale Robinson, the transaction severely degrades Conquistadors' starting RB2 slot (-27.8 C-AVI) and net weekly lineup score (-23.7 C-AVI). For an Elite Contender pursuing a championship, sacrificing cornerstone RB production for a future pick and bench/FLEX depth directly undermines current title odds."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Conquistadors",
+            "summary": "The recommended offer requires Corgi Loaf Baking Co. to send Cam Skattebo, DJ Moore, and their 2027 1st (DMV) for De'Von Achane. This preserves Conquistadors' championship path by securing a high-end RB2 replacement (Skattebo, 83.3 C-AVI) and upgrading FLEX2 (DJ Moore, 77.1 C-AVI), producing a net +0.5 C-AVI starting lineup gain alongside premium draft capital."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -65,
+              "summary": "Craters mandatory RB2 slot by -27.8 C-AVI and reduces net starting lineup total by -23.7 C-AVI."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Gains a 2027 1st pick (79.3 D-AVI), but surrenders a 24-year-old elite cornerstone RB for a 29-year-old RB."
+            },
+            "lineupQuality": {
+              "score": -60,
+              "summary": "Starting RB2 drops from Achane to Montgomery; minor FLEX2 upgrade (+4.1 C-AVI) does not offset backfield loss."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds Wan'Dale Robinson as FLEX/bench depth and preserves Tyjae Spears as RB depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Acquires an early-to-mid 2027 1st round draft pick to use in future trading."
+            },
+            "overall": {
+              "score": -36,
+              "summary": "Materially harms current championship lineup while providing secondary future liquidity."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Upgrades starting RB1/RB2 group by +27.8 C-AVI, boosting overall weekly starting C-AVI by +11.4."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Locks in 24-year-old cornerstone RB De'Von Achane (97.0 D-AVI) at the cost of 2027 draft capital."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Formidable top-end starting core with Achane, Skattebo, JSN, Nabers, and Tyler Warren."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Parts with starting FLEX receiver Wan'Dale Robinson and RB depth David Montgomery."
+            },
+            "flexibilityLiquidity": {
+              "score": -35,
+              "summary": "Surrenders 2027 1st (DMV) draft capital."
+            },
+            "overall": {
+              "score": 36,
+              "summary": "Acquires a young S-tier running back to anchor the backfield while maintaining playoff contention."
+            }
+          },
+          "explanation": "Visual impact scores reflect a sharp divergence in competitive outcomes: Conquistadors suffers a major hit to starting lineup quality and championship odds by downgrading RB2, while Corgi Loaf Baking Co. secures an elite backfield upgrade that enhances its championship timeline."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Conquistadors loses 97.4 C-AVI in De'Von Achane while receiving 69.6 C-AVI (David Montgomery) and 66.6 C-AVI (Wan'Dale Robinson). Starting lineup C-AVI drops from 725.2 to 701.5 (-23.7 C-AVI). Mandatory RB2 slot drops from 97.4 to 69.6 (-27.8 C-AVI), while FLEX2 rises slightly from 62.5 (Juwan Johnson) to 66.6 (+4.1 C-AVI).",
+          "sideADynastyImpact": "Conquistadors gives up 97.0 D-AVI (Achane, age 24.0) and receives 84.5 D-AVI (Montgomery, age 29.0), 83.6 D-AVI (Wan'Dale, age 25.0), and 79.3 D-AVI (2027 1st DMV). Gross D-AVI increases on paper, but the dynasty age profile at RB degrades significantly.",
+          "sideARosterImpact": "Conquistadors creates a critical void at RB2, forcing David Montgomery into the starting lineup alongside Bijan Robinson, while pushing Juwan Johnson to the bench in favor of Wan'Dale Robinson at FLEX2.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. gains +27.8 C-AVI at starting RB with Achane entering, raising its overall starting C-AVI score from 657.0 to 668.4 (+11.4 net), even after accounting for the FLEX2 drop from Wan'Dale (66.6) to Tyrone Tracy (50.2).",
+          "sideBDynastyImpact": "Corgi Loaf secures a 24-year-old elite dynasty RB (97.0 D-AVI) while expending a 2027 1st (79.3 D-AVI) and two mid-tier dynasty assets (168.1 D-AVI combined).",
+          "sideBRosterImpact": "Corgi Loaf pairs Achane with Cam Skattebo in a high-upside backfield, while filling FLEX2 with Tyrone Tracy or Tank Dell.",
+          "valueAssessment": "While raw sum of AVI values on paper appears close, value summation fails in practice because Conquistadors trades elite starting strength for depth and a distant pick during an active championship window."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views De'Von Achane as an elite, high-efficiency RB1 entering his prime after signing a $64M extension with Miami. David Montgomery is valued as an effective volume RB2 in Houston, while Wan'Dale Robinson is seen as a PPR volume receiver in Tennessee.",
+          "aviVsMarket": "AVI and public market consensus are tightly aligned on Achane as an S-tier asset. Market consensus treats 2027 1st picks as liquid currency, but recognizes that contenders trading elite RBs for picks and RB2s usually take a severe loss in current-year win probability.",
+          "relevantContext": [
+            "De'Von Achane signed a 4-year, $64M contract extension with Miami in May 2026 and is fully healthy for 2026 after clearing spring shoulder issues.",
+            "David Montgomery transitioned to Houston, where he commands primary early-down/high-value touch volume ahead of Woody Marks.",
+            "Wan'Dale Robinson joined Tennessee with Brian Daboll, operating as a primary slot/outside target for rookie QB Cam Ward."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. seeks to Increase Championship Odds. Acquiring Achane gives them an S-tier anchor at RB next to Skattebo, elevating them closer to top-tier contender status.",
+          "packageFit": "For Corgi Loaf, trading a future 1st and two non-essential starters for an elite RB1 is an easy accept. For Conquistadors, the package fit fails because it degrades RB2 without adding an equivalent difference-maker.",
+          "lineupReplacement": "Conquistadors cannot credibly replace Achane internally or with Montgomery without taking a massive 27.8 C-AVI drop at mandatory RB2. Corgi Loaf easily absorbs losing Montgomery and Wan'Dale by sliding Skattebo to RB2 and starting Tracy/Dell at FLEX2.",
+          "competitiveWindowFit": "Conquistadors is an Elite Contender in a Win Championship window. Accumulating a 2027 pick at the cost of immediate starting RB production runs directly counter to front-office strategy. Corgi Loaf's Playoff Push window is well-served by adding Achane.",
+          "positionalScarcity": "In a 16-team league, true RB1s capable of 25+ PPR point ceiling games are the single most scarce commodity. Trading one away for an aging RB2 and a WR3/FLEX severely undermines positional advantage."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 23,
+            "packageMatch": 19,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 95,
+          "classification": "Highly Realistic",
+          "explanation": "From Corgi Loaf Baking Co.'s perspective, accepting this proposal is highly realistic (95% probability). Achane is publicly available on the trade block, and acquiring an S-tier 24-year-old RB for David Montgomery, Wan'Dale Robinson, and a 2027 1st directly advances Corgi Loaf's goal of increasing championship odds."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "Conquistadors is an Elite Contender whose goal is 'Win Championship'. Selling De'Von Achane (97.4 C-AVI) for David Montgomery, Wan'Dale Robinson, and a 2027 1st creates an unacceptable -27.8 C-AVI hole at starting RB2 and reduces total starting C-AVI by -23.7 per week. In a 16-team league, elite RB production cannot be replaced by depth and future picks. Conquistadors must decline this offer.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 94,
+              "leagueMarket": 97.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 83.3,
+              "davi": 89.3,
+              "publicMarket": 82,
+              "leagueMarket": 83.3
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 77.1,
+              "davi": 87.5,
+              "publicMarket": 76,
+              "leagueMarket": 77.1
+            },
+            {
+              "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "Preserves immediate starting lineup quality (+0.5 C-AVI net starting gain) by bringing back a strong starting RB2 in Cam Skattebo (83.3 C-AVI) and upgrading FLEX2 with DJ Moore (77.1 C-AVI), while still capturing the premier 2027 1st round pick.",
+          "whyOpponentMightAccept": "Corgi Loaf receives an S-tier cornerstone RB in De'Von Achane (97.4 C-AVI) to pair with David Montgomery, JSN, Malik Nabers, and Tyler Warren, creating a powerhouse starting lineup without giving up additional future draft capital."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 97,
+              "publicMarket": 94,
+              "leagueMarket": 97.4
+            },
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 29,
+              "cavi": 62.5,
+              "davi": 75.2,
+              "publicMarket": 60,
+              "leagueMarket": 62.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Malik Nabers",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 23,
+              "cavi": 89.1,
+              "davi": 96.3,
+              "publicMarket": 90,
+              "leagueMarket": 89.1
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 69.6,
+              "davi": 84.5,
+              "publicMarket": 68,
+              "leagueMarket": 69.6
+            },
+            {
+              "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "If Corgi Loaf refuses to trade Skattebo, Conquistadors pivots to acquiring elite young WR Malik Nabers (89.1 C-AVI). Inserting Nabers at FLEX1 and moving McConkey to FLEX2 offsets the RB2 downgrade to Montgomery, creating a net starting lineup boost while securing a massive long-term WR cornerstone and the 2027 1st."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "David Montgomery news 2026 fantasy football",
+          "Devon Achane news 2026 fantasy football",
+          "WanDale Robinson news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECjKxCyATJEVFHihmY3CTM_qo1MIvR4WUgIudQfhBxM9_AEnCJj0ZUE9QMbK_aJeEnoQDwrnNWH8k1bQMVRElrXW_ESxwLPb1WIPilEkn_e6ZRzCWCJzm8eoDb1g1bNOTuCE1hDI5elZuGcXzMkYfN4yopXxnR_4i_WRJesMGDAqM0r4MN0zzj_p8WizkZeb9d",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX4NjiItGJjILCp2MJbjO1WfSbUYtmSPDKnPTcPFBvPcbisB5qh2LGW6lv2W4JA3hDyxzOQX6Zb7Pw58bJrO4XuQKWOxMyPEB4SsfxyhYeFS3_ej4O7Ov_kiZXgH_rxT9nYRH-VzUEkCYTpPODPw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNNbFk9iPByHAqy6ss7nC0OPjjqfCEDW2waOj0veISYi89psNkj2dbwNgkBgjeVC9okcVXeeBtawVK5TftyYaNejJE8rH8ghTT1s1g2tC1qZ9Mn-RSFhC2YtNR1Y59bx683GjAywdDwbdm-PUGkVpNoAS38PKRVTU=",
+            "title": "fftoday.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxCSdhPuT0PIRj-r6aglziauKu8yn14G405bxGDezsLhkogtUKs_acg6w7C0H9xov5Y7vhENhEtUGXYTX9QfgdJaxznUeh9n4kQO-ppMg1o7JmfW-7BV71z57Oz-8YpCK-P6xheKGs_DCrZiXQ5uCSVaa8nBTNDq7HJ44SRlLbA0XN7Q4VvtHCjMCHDuVYQu5u9f-mWLL_HFP7Fml6QA==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKl7SWlTidN9eUBKZWroy69pW5UVd8EdJnESw-UA85mZAEd4EsMAzRw13lAb8g1lWV2OltiH7F3Nvc8BNCzHFu-h00tlNOS0lq9GNMN1rbk5lkQu9q1PH3kSdWOv40pMQqXOgJzrUSmEqJ9JnvmsbkqYhntjFu76tCfbb0DCcyQ_jHn5pcBXJNxipj90Gyc491mZoWpalvePVx_VlC",
+            "title": "fantasylabs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFVgawaFAqUoWHKHt-NxcjciOUo6oTpWi4QMIlrfpE0C22H9YIUsdaQemFi1s2t8SEA9fjul_siqCt-ra2LunIxz2BK3-AMNVAA1-s52CZXpcU98okN2pVghNshGX6rRLevlNX_Z_Ec3TrAb7kh26uMIgtrtFK5mgeyg==",
+            "title": "sportscasting.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX3jnJYHyvXX2ZagRfr_NgJV_7yxtA5-I9BmnfhtqMSahjfBJUZrTX9l-LxSsh3CXfhc4uoynvTSp0ECLV_2LXBsu21nLCpsKDncfqaV71yYrnlM7YY_vJJf8EHJDx7zZqMIz1qdqh8GIvWoJaDVqaNLxAewKBgkz3RsyXAcgb8Wdy0c8=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL6Jz7Ctn7z86ZVHOaHdIfHtEk-3Qr7jGrgBtwPG0249aeSQeceWHhr0kWbloY-1f9c2O5rUVG3jDfS5z7CMxJ0jDp4mNEq02XCGRXzVHqXDBJL4o9EIlDfafFCSS8jA9N5-fk5vRowAdvxdB1N7j7MbLH9rkTkrGkT8ceBdmNs4270D-XXdQPmOtsyUGyUw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSSjpvQyT7C5_Buq0Lwzc2dEtaBlEcssR_jiY-Fdyzx-969EoabiUyu-hCt1CBNavsn0SXV8-cQrGjRaYzeMfc_aMX8KMQxpxnocHlumi-LLDdI3EI8If2IPaGr7OhR0kf",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhj01F-a9irlHJ4fOAahWywm2LzxQmg0DQMmOxQp6rjukQY2Zkm1Ep3fWE_M-KqGi-O5EUFNCmz5rDvY3MYCKVi7KOjntVkhQ9yMpoc06wzqwev8PHEXZbVg36MEXLNcVSSElJBAmSZIydzGQko2Hd8a8i7RXZ4ITZiqgS0b4KWXDLUmrE-JbDdSWAT-mkAAb6hS8=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgeMH_XGNedPTQReHp7cWXWosLHiuIuCkD8v4Sm9OTxgFhRZNrzKIolVIzfgTGF_19pcYn1HKTW-FstY3Dunt590fMAIcFMPXg0r9HHz62BqcBooHSiHHCVvfyBQU05XYw73G-KgpNGGx8BM-tFr9tIPe5V0ybR5KZOB_3EQZKUOUZ_Uk=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "d818dde42268fa9dda05900034e4cb0271fc57dd",
+        "aviCoreCommittedAt": "2026-08-18T16:42:33Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 85970,
+        "groundedMarketChars": 2953,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "msynn47v-99a5cd9a",
