@@ -12,9 +12,267 @@
       "maxResults": 3
     },
     "createdAt": 1787080689799,
-    "updatedAt": 1787080691177,
+    "updatedAt": 1787080776703,
     "expiresAt": 1787512689799,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Rapid Valley Annihilation is actively executing a Rebuild strategy, possessing significant future draft capital (including multiple 2027 and 2028 first-round picks) alongside young cornerstone assets like Colston Loveland and Caleb Williams. To accelerate this timeline, RVA can leverage veteran starting running back Rhamondre Stevenson—a legitimate starting-caliber fantasy asset—packaged with premium draft picks to acquire elite, young wide receiver cornerstones from contending franchises seeking immediate backfield reinforcement.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Young foundational offensive core anchored by Colston Loveland (C-AVI: 98.0, D-AVI: 92.2), Caleb Williams, and Quinshon Judkins",
+            "Extensive hoard of future draft capital including extra 2027 and 2028 1st-round picks"
+          ],
+          "priorityNeeds": [
+            "Alpha WR1 dynasty cornerstone to pair with Caleb Williams",
+            "Long-term wide receiver depth and high-upside pass-catching assets",
+            "Young RB depth alignment with a 2027–2028 competitive window"
+          ],
+          "tradeableSurplus": [
+            "Rhamondre Stevenson (starting RB/FLEX asset, C-AVI: 65.1, D-AVI: 81.4)",
+            "Blake Corum (high-end young RB backup/handcuff, C-AVI: 53.9, D-AVI: 80.2)",
+            "Surplus 2027 and 2028 1st-round draft picks"
+          ],
+          "constraintsApplied": [
+            "Rebuild organizational goal alignment",
+            "Starter-for-starter player eligibility rule enforced (no true backups used in trade construction)",
+            "Two-organization strategic goal validation across all target trade partners"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding teams unwilling to trade young WR assets for draft picks or veteran RBs",
+            "Contenders lacking backfield needs to absorb outgoing RB assets",
+            "Managers unwilling to part with cornerstone players without receiving immediate starter replacements"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Zay Flowers",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "WR",
+                "age": 25,
+                "cavi": 89.1,
+                "davi": 93.6,
+                "publicMarket": 88,
+                "leagueMarket": 90
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Rapid Valley Annihilation",
+                "position": "RB",
+                "age": 28,
+                "cavi": 65.1,
+                "davi": 81.4,
+                "publicMarket": 65,
+                "leagueMarket": 70
+              },
+              {
+                "name": "2027 Round 1 (Rapid Valley Annihilation)",
+                "assetType": "pick",
+                "owner": "Rapid Valley Annihilation",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Young Core Target / Age Curve Alignment",
+            "strategicGoal": "Acquire 25-year-old wide receiver Zay Flowers to build out pass-catching depth for your rebuild window.",
+            "scoring": {
+              "availability": 21,
+              "opposingGmMotivation": 19,
+              "packageMatch": 17,
+              "lineupReplacement": 11,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 77,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Zay Flowers (C-AVI: 89.1, D-AVI: 93.6) is a proven 25-year-old target earner tied to Lamar Jackson. He instantly upgrades your starting wide receiver core.",
+            "whyOpponentMightAccept": "Ravens Regime is pushing to Increase Championship Odds but lacks proven RB depth behind Derrick Henry (relying on Kyle Monangai and Jacory Croskey-Merritt). Stevenson provides an immediate starting RB option, while the 2027 1st provides future retooling assets.",
+            "championshipImpact": "Adds high-floor weekly WR scoring (+24.0 C-AVI differential).",
+            "dynastyImpact": "Secures an appreciating 25-year-old WR asset whose dynasty trajectory matches your 2027–2028 championship window.",
+            "rosterImpact": "Converts expiring RB production into a foundational receiving asset.",
+            "publicMarketContext": "Zay Flowers is established as a reliable dynasty WR2 with WR1 ceiling weeks in Baltimore's offense.",
+            "risks": [
+              "Baltimore's run-heavy scheme can occasionally cap target volume in specific game scripts",
+              "Parting with your native 2027 1st-round pick"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Rhamondre Stevenson and 2027 Round 2 (Badland Banditos) for Zay Flowers.",
+              "acceptableConcession": "Include 2027 Round 1 (Rapid Valley Annihilation) as structured in the main package.",
+              "walkAwayPoint": "Walk away if Ravens Regime requests multiple 1st-round picks alongside Stevenson."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Rhamondre Stevenson news 2026 fantasy",
+          "Amon Ra St Brown news 2026 fantasy dynasty",
+          "Justin Jefferson news 2026 fantasy dynasty",
+          "George Pickens news 2026 fantasy dynasty",
+          "Blake Corum news 2026 fantasy Rams"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0JPHH8g0tD_tKDYKKhPIFCph7JXPCNxSPrO-cd-7O5M_3dhSZf74gbbe-RNwYTq558p6taVeAhvr7S0PDIRzV3cLjpbXUOrxv6AWD6fUfBormc2n_Cf1Wmz72uuapLTrQNABG_F6isH0qaxMRpi8cgrdDDnJwScOGrc6lG64W_i0r",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbdjM74J9V4E6MiMhUe-oXXFSnjxD9eCWlAXKzC690eBJpdU0YP4M_2eBkdtrQorL24tgjQRe0WEpnpfNHQ2hEpT3gQXrMN1F0_jTRQn146wUjh7VtiHY4h2C5WXHbLFX_amsVrm3X0Wb7ZuPv179ZdV8Plh5KmglGmZotINqZlgsO_SMHy_x5Jw==",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJBtNGZn6NvFjl0rXiAMmoDWW1HlJnLF7GCVO4JB7lFffqsbpbpFcCaUqKfv5-aUahxn3KrTFr4Vt4Ovk9hVmNLV-WfSMz5AtBIqley7K8DXVuH_EAW-GDUncObQv11ESYVGLD2OXBGE_goCce8vhVglzt7lZHlycyEHvF3mrxYjwWzveYuv21lA6y-iDbcgDBXmLEpjKZd0sW0SsA",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcjROdvttHq71b4KJD1Lj9gnzzpLdzRcNgsgmX1NYT0eEWHeU0pCimDP1pGxMF4C_CjKjiQYGJfUSwSiCljbxagXZ0vS45oLQjfDSpfHAG51sA37rIrpoHuzQkhPmy9hH-Viai7nLHmLab1jHDjeKAdLxntHqFCwtkQbCtRWbKZlOmplnKc2-8yTt16OnXiBU=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7HN5LskOr6PUHo8QF-4pQsP7ThokhLjr2WndgpkT7vr0DlWcPUb9Ss5_MjV2fipe0chZkOq492ctLEbWT13ZcV8KhTe0INdsdOJt1NIeh3hgZkv-Kl5AqdTKRRGnv4kfGkUCLsun9LM3SMFeulweq0z8RkPCnvBtjEQoU-fomEL8VCrOvk3bsxx2wsjmuiBBxihYfUgpi7UMpKJSupcQrjSSncAx1RDHRTRYDz_Vn",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE86Oq6-HPT4S_j4pTACBbAqxiMjDG-9Ftpp56iqS5NeJGi67vYZ6xRR6gJICHS_7f5v-A6mA4-MDq7bk3nblp8bVDSlPUhEIvqXJ4ukarbrDrVL9PxR9IjnpixATG7kQePvuahcl6gJxhFFj0HF9hw02HlzkP4OCTL1aB86Dq6cYlq948e6LzXgFaQdoMC2xyid3RVOzQ0-bTtUgohNkH6BxZff9ES5asBnGGPxUnBNEbFMiULLGv-kQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3SYnWpUzT5cvrGNTeqvXJ07EN_jK9t7q9ehkNY4tHPQsm3OSaKkcYhyl11uFoVOP_EYZG8az42dsNO1dTzBaOUEV9CLStp3D3dcJFp79celxFhPNthqQmQ1LgmjOplSLJmmQQ7-p2oT4hZN5JdyoQX7FRu7WEc7_FY12VMMToeDqQEvw=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWFRJR_D04xN-LhKOPKumXyM4C9sHGxvo2L1wYJsPthU4a06Rz2Xh4KB2JGhT_086OTUVamTg7CjBa0UJeloMjbFN7s6oAHkRD0qOTyI87IheLXrAVqFiAylex-qqxX-pAsnXugvgBrDkq7yALOTjCqV3zN5vbzGPappuGid0SEO1j",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz5GE1h7RPwn5NMnXKcLk1Moe0dzwCq1KOZ7bqkRedxFq91qR1M-UjtA8aHgcEr8QI0oEPjTTkOGDorCWo_vvEsuY2sr9_LaQYmZdxqjZAUIeJjvnm0PdGW2ml2gc89-fmrke8FLnvKGWn424a4HLj",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGtDbZyXB9ammEBRaU5KkAVIW7njc6eJSjdr2YHOJ7c29mb36MKyNpNe5rvHsTnQaixAY1E5q14hU97-f0nlhRj7-rCXLAOjNhT87LObi39Bg-n8ZzVK_zBApESLNdWmN7_qwNgk0j_04A0UCulNflWWepnS4lkM3oaTisBQxef6csH2v5tG_rkKA=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE5SFkOeHRZoOEyu-uaSssoWPTSTF8nzZv2tQ-xp8PHiMGFqWlOw5yYfcwrkyqF2L-UXJICZg_VZ_fm1pp1MK1V20fx1lUW7F7QQZygz0lB2RYuJpXCwsmvX5592vPdWh4DpUB2DjAus8OCndTjfPltI8KGVHwL_hxmvEs6UT0S_t8z2Jh3VP-vikv-npoLas-0g==",
+            "title": "thebiglead.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3jzOpcQ13eHXwSlCaGjzNmesPcwEmgRgTuzbVlWBCZnFHFuF4mtB-ZUC37umXHf5EJZRja2i3xm124QqZXv00g7cM_Oavjmek4w69Lmdb9D6VAcSy9QwxtZHNOK04mpUBsol30Rgiy-5IrWlamJeviGflxwzfaH0dEJieLkus6TKFzsWZ1tyymtdwP_O5dTjxTVk5c9sskcx-60nWh8AtPqI=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ZxLG9wuiB6uv0szkwbKxeqSslpD7_wdgrFxuOLAkOdIQt9f36TM3faOgG9YjFi9zO53UMNB4y5j0SEgxdrVEhNKDAI6Ty4GVO6xqBZ4qIhj12k07RedbTozI8zdXoNy343OQECDHzPc-MhJtMrFb7miYzG6ul9VcQETlEjrwy4Vi0WQyNd0=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdIta43g3VFwwee0q-noZAG0dKZm5ppBN37HyThzJp6BasDL2hTtjGP8Nt9nsUJO9poNVf5Ji2CBRNj3w3oFzR_kGxucYch4R0GDPGUxkjGxQUxTCDI2Me5IyP6YcHz5MS-u8SBi1cQuppZUhS6cEGOnOg9xE=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv0w7GuDEchxBnYnlDc7acTK3ZcYee_JE-zlvoYhycpFmA_K2uxIxwVUj_7VcqYtfEX4Tq_g42DddDfpRqvZYfdvzI01QJaKzQMi8rpanakP-DFv3dcG4Q7uQDzTKZz4pU-1AYG7muQNDZMgvSZKRZ7_NVN-K8uMc-mRuIm7PArb_a6rEMHK2KHjZ0sTSIsmud_OLFNUbh8kt8lPoJ8g==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKwABa3_ZwFtsf3V5tQpCCSVFvGPjOQ5v4ur_dyOICV6NUpHK4HxCBK29R03aOb7fS-JmIi1-7gxzTaGds-y2H9rxATl3hrozQrNtytGgo679FSErvu34APW4B4kNmWGrEyhc4Ojgk_paK5vn4nZ82OorlMkHxRD1-",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuaVVJUN1wbg1OXXVxDoo7cbZdU-RMZCEX-xpwUm99dgeB--96WkLoY28D-LWxbu9uYRZHZF-ihyHoB7wzZdq2csI4BNDSEssPSlQ6VxNCaEpBHuJwTqpdOWFFLMI4Fx933PXPENlzH5rFuBd6f4gCARraxwVNVKrd8w94ouSz",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9YIVR-Ev9npb0DVUgR5guNlvnD-jqf_KnstTOnjtf3hKyFgR4zI5T4CuX0pYL-B2FzQuirzgL7VT6RKmOFS8RzDLgyR9o74NZrTM-xaCxFavG65dwKdDuqDK5KikSTbesc6OdQ1G83H6ROnulZ8uNztt4poiNc7AkuCPzCwtl1Ee3MRtoTu6VLnzgnhdRlEJW-WSO9CJj0Mm_OMRZRx6F",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "Rhamondre Stevenson",
+          "Justin Jefferson",
+          "Blake Corum",
+          "George Pickens"
+        ],
+        "aviCoreCommitSha": "184d0d1275edebc6387ee494b107cc459f580d71",
+        "aviCoreCommittedAt": "2026-08-18T18:22:48Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 523894,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "msz1kjle-a41e266a",
