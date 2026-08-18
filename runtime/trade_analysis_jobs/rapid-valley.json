@@ -1,5 +1,41 @@
 [
   {
+    "id": "msz2pdsb-b8634bbe",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Rebuild",
+      "targetTeam": "Northside Kings",
+      "targetAssets": [
+        {
+          "name": "Xavier Worthy",
+          "assetType": "player"
+        },
+        {
+          "name": "Malik Washington",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        },
+        {
+          "name": "Adonai Mitchell",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1787082375179,
+    "updatedAt": 1787082375179,
+    "expiresAt": 1787514375179,
+    "status": "queued"
+  },
+  {
     "id": "msz27iif-13a4da85",
     "phase": "initial",
     "mode": "propose_trade",
