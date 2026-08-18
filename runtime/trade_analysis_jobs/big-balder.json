@@ -1,5 +1,43 @@
 [
   {
+    "id": "msyw8ckq-ec798616",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+            "assetType": "pick"
+          },
+          {
+            "name": "David Montgomery",
+            "assetType": "player"
+          },
+          {
+            "name": "Wan'Dale Robinson",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1787071502762,
+    "updatedAt": 1787071502762,
+    "expiresAt": 1787503502762,
+    "status": "queued"
+  },
+  {
     "id": "msynn47v-99a5cd9a",
     "phase": "initial",
     "mode": "improve_team",
