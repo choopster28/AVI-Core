@@ -1,5 +1,412 @@
 [
   {
+    "id": "msz2pdsb-b8634bbe",
+    "createdAt": 1787082458371,
+    "expiresAt": 1787514458371,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Rapid Valley Annihilation ↔ Northside Kings",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Rebuild",
+      "targetTeam": "Northside Kings",
+      "targetAssets": [
+        {
+          "name": "Xavier Worthy",
+          "assetType": "player"
+        },
+        {
+          "name": "Malik Washington",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        },
+        {
+          "name": "Adonai Mitchell",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Rapid Valley Annihilation aims to acquire young wide receivers Xavier Worthy (age 23.0) and Malik Washington (age 25.0) from the Northside Kings to accelerate their active rebuild. While acquiring Worthy's long-term upside fits Rapid Valley's timeline, proposing 28-year-old running back Rhamondre Stevenson as foundation piece creates an immediate mismatch for Northside Kings, who are also officially in a Rebuild. Rebuilding front offices will not trade young, high-ceiling wideouts for aging running backs nearing the cliff. To make this deal viable, Rapid Valley should revise the offer by substituting Stevenson with draft capital from their deep stash of four 2027 2nd-round picks alongside Adonai Mitchell.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65.1,
+              "davi": 81.4,
+              "publicMarket": 60,
+              "leagueMarket": 65.1
+            },
+            {
+              "name": "Adonai Mitchell",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "WR",
+              "age": 23,
+              "cavi": 46.7,
+              "davi": 72,
+              "publicMarket": 45,
+              "leagueMarket": 46.7
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Xavier Worthy",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 23,
+              "cavi": 59.4,
+              "davi": 80.2,
+              "publicMarket": 58,
+              "leagueMarket": 59.4
+            },
+            {
+              "name": "Malik Washington",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 25,
+              "cavi": 43.8,
+              "davi": 65.1,
+              "publicMarket": 40,
+              "leagueMarket": 43.8
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B",
+            "otherGrade": "D+",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "Rapid Valley offloads a 28-year-old running back for young wide receivers, perfectly executing a rebuilder strategy. However, Northside Kings takes a sharp strategic hit by taking on an aging RB while in an active rebuild."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "By pivoting from Stevenson to two 2027 2nd-round picks plus Adonai Mitchell, Rapid Valley secures Worthy and Washington while presenting Northside Kings with appropriate rebuilding currency."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Acquires 23-year-old Xavier Worthy and Malik Washington, aligning receiving depth with Caleb Williams and Colston Loveland."
+            },
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Slight decrease in immediate 2026 weekly ceiling due to surrendering Rhamondre Stevenson's starting workload."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Significant long-term boost by converting a declining 28-year-old RB into a 23-year-old Chiefs wideout."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Upgrades WR2 to Xavier Worthy (59.4 C-AVI) over Denzel Boston, while Blake Corum moves into starting RB2."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Malik Washington adds wide receiver depth for a 16-team league setup."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Young WRs retain trade liquidity far longer than veteran running backs."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -35,
+              "summary": "Submitted foundation forces an aging running back onto a rebuilding roster, creating strategic friction."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Gains temporary weekly RB production with Stevenson, but useless for a non-contending franchise."
+            },
+            "dynastyOutlook": {
+              "score": -45,
+              "summary": "Surrenders 23-year-old Xavier Worthy, accelerating roster age during an active rebuild."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Stevenson enters FLEX1, but restricts long-term roster growth."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Depletes young wide receiver depth in Worthy and Washington."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Stevenson's market value will depreciate significantly before Northside re-enters contention."
+            }
+          },
+          "explanation": "The proposed asset transaction favors Rapid Valley's rebuilding agenda but damages Northside's strategic direction by saddling them with an aging RB during their own rebuild."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "C-AVI changes from 111.8 surrendered to 103.2 acquired (-8.6 net C-AVI), reflecting the short-term loss of Stevenson's RB touches.",
+          "sideADynastyImpact": "D-AVI changes from 153.4 surrendered to 145.3 acquired, but substantially improves age profile by securing 23-year-old Worthy.",
+          "sideARosterImpact": "Replaces 28-year-old Stevenson with 23-year-old Worthy, aligning the core timeline with Caleb Williams, Quinshon Judkins, and Colston Loveland.",
+          "sideBChampionshipImpact": "Gains +8.6 net C-AVI short-term, but immediate points do not benefit a rebuilding team.",
+          "sideBDynastyImpact": "Incurs a severe structural setback by giving up a 23-year-old former 1st-round WR for a 28-year-old RB.",
+          "sideBRosterImpact": "Creates an uncomfortable roster mismatch by committing space to an aging RB during a complete tear-down.",
+          "valueAssessment": "Balanced on cumulative index sums, but heavily skewed against Northside Kings due to age profiles and organizational goals."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty market consensus values Xavier Worthy as a mid WR3/WR4 asset tied to Patrick Mahomes, while Rhamondre Stevenson's dynasty market value is dropping due to age 28 and backfield competition in New England.",
+          "aviVsMarket": "AVI model reflects consensus sentiment: Worthy commands superior long-term dynasty value over Stevenson despite Stevenson holding a higher redraft projection for 2026.",
+          "relevantContext": [
+            "Xavier Worthy returned to 7-on-7 drills in mid-August following a minor shoulder sprain and is tracking toward Week 1.",
+            "Malik Washington is competing for slot snaps in Miami's restructured offense following veteran departures.",
+            "Rhamondre Stevenson turns 28 in 2026, entering the typical decline phase for dynasty running backs."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Northside Kings is in a verified Rebuild. They acquired Worthy in April 2026 and have no motivation to acquire a 28-year-old RB.",
+          "packageFit": "The foundation package fails package fit because Stevenson's age profile directly opposes Northside's rebuilding timeline.",
+          "lineupReplacement": "Stevenson upgrades Northside's short-term FLEX production over Gainwell, but short-term points do not advance a rebuild.",
+          "competitiveWindowFit": "Fails competitive window fit; taking on aging RBs during a rebuild leads to dead roster capital.",
+          "positionalScarcity": "In a 16-team PPR setup, young wideouts paired with elite quarterbacks carry significantly higher long-term liquidity than veteran RBs."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 5,
+            "packageMatch": 8,
+            "lineupReplacement": 10,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 55,
+          "classification": "Stretch",
+          "explanation": "While negotiation access passes under unlisted trade block rules (30/30 credit), Northside Kings is unlikely to accept Rhamondre Stevenson due to their shared rebuild status."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "While negotiation access passes under unlisted trade block rules (30/30 credit), Northside Kings is unlikely to accept Rhamondre Stevenson due to their shared rebuild status.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Quentin Johnston",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "WR",
+              "age": 24,
+              "cavi": 61.1,
+              "davi": 80,
+              "publicMarket": 60,
+              "leagueMarket": 61.1
+            },
+            {
+              "name": "Adonai Mitchell",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "WR",
+              "age": 23,
+              "cavi": 46.7,
+              "davi": 72,
+              "publicMarket": 45,
+              "leagueMarket": 46.7
+            }
+          ],
+          "receive": [
+            {
+              "name": "Xavier Worthy",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 23,
+              "cavi": 59.4,
+              "davi": 80.2,
+              "publicMarket": 58,
+              "leagueMarket": 59.4
+            },
+            {
+              "name": "Malik Washington",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 25,
+              "cavi": 43.8,
+              "davi": 65.1,
+              "publicMarket": 40,
+              "leagueMarket": 43.8
+            }
+          ],
+          "rationale": "If Northside Kings prefers proven young player assets over draft picks, offering Quentin Johnston (24) alongside Mitchell provides two young WRs to rebuild their corps."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "While negotiation access passes under unlisted trade block rules (30/30 credit), Northside Kings is unlikely to accept Rhamondre Stevenson due to their shared rebuild status.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Northside Kings is in a verified Rebuild. They acquired Worthy in April 2026 and have no motivation to acquire a 28-year-old RB."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "The foundation package fails package fit because Stevenson's age profile directly opposes Northside's rebuilding timeline."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Fails competitive window fit; taking on aging RBs during a rebuild leads to dead roster capital."
+            }
+          ],
+          "opponentPerspective": "Northside Kings is in a verified Rebuild. They acquired Worthy in April 2026 and have no motivation to acquire a 28-year-old RB.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "The foundation package fails package fit because Stevenson's age profile directly opposes Northside's rebuilding timeline.",
+          "whatWouldNeedToChange": [
+            "Northside Kings is in a verified Rebuild. They acquired Worthy in April 2026 and have no motivation to acquire a 28-year-old RB.",
+            "The foundation package fails package fit because Stevenson's age profile directly opposes Northside's rebuilding timeline.",
+            "Fails competitive window fit; taking on aging RBs during a rebuild leads to dead roster capital."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Malik Washington fantasy 2026",
+          "Xavier Worthy dynasty value 2026",
+          "Xavier Worthy news 2026",
+          "Malik Washington news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2N7Fc-CrhEJT7BuDqDBBWlVdSr0oTYBbbxUHKnIpw5hW1JbC38A5FF-gFjlFDQ46MITS3XfjLlL5RfJW7LEC9qcQfBLmwVptpKIlEyGQvU5WdaE2t9ZSoCnL5RaM5QzYzYIA3skoc0RgaZw6Ojoje6VC_EiNbpzn9Nbp5pXGmz0Eom9KO3ok_a4RVfSLcyn6O-XuV4E_gc1pv5B0=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmhiQTgcFgRq3nV9QNrobJTv1c07obPPHUK89MWqjguzEVJRDzwTHLYIAdPIJsoSAcKmALm_KvRO_eLjx72P3cPa91EL7y-pjt3XeLZxMJ_YAOo1CW0HsT4mRbTkQY5-AcnLzWSe6GNx-_dWnecO2vrghLm-pCZZcUkKokolhZYVYBlkCjDX50piu_-A4GkLYMtEq1XR0=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz5yfdsbxRLQ6SSZQffko1S16GCDdXanddSfXK5IWVGKPPx4FK6iJE4n-WXMe5dXmTirSUiOBJgLZ46XqFYrfSnEyJ4x2FmFr4ynhUbuTEEv5kcEbWOBgBNH0HOo7sFfuJFHGBlq0=",
+            "title": "dynastydealer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOW-C5YVUmfdoBoF14EhQvfR5xkqvuZyITDJdZImU_kMjwB0DMGEQIr4o19leL5iQ6eHFkoSTIBn06HDvUrVZYvPIgkb8FHfh6syq0BdxdmGN434Ho1ltILyzBC4jUXqIm05d2SGH3COBamvclLISCkJfRhsx0MMREryyOyhW2hV8MPb030nvMCvHY",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFzUQsaj2h2SnZqRtsbbnnmbJnPn0HVd3EeWjKZUk-W4alHbzbPmdFSQMqh5soUoVeQTOuzReQrxKw3y7G12vdE6LJstdGosu6e7OQ_RL6RVfY5Nv53wZWU8yiGgqTKK2vBn6Uyu3YDgFd0ld0s1qFQEGSYkZDHTrhZ-z0hQC-eGzdt08kpPwSt5rGN1yvfOc5qzKe2NGmch1cHTvP2wDJcSHLV8G_B8e9m4_BG0sdubAS",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVk93C_I4p-gwW7qpGjpkbdtcal9RG7K5HyFPu85fwf0Y8v9rGHauf0-0a7tIQEVgiU1JRoS1IyXj9GpywQ6OnrEq3vkHuJKvd4xq5nSsBwYGK7Kro6MmVBW1ombb37J_8X7SxALZ9YWajXxhKkrne4_pcaSZ3L3AQFuzkMu4RDpPR6kihhhx-0Y_CDNZAOTDp96dtMw==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2i0JeYPC4GjBgF_GZ6_LAPFcxjixT_BQ9tYYjjXkMnf971e5eqL_I8M2ugY2Y6pvso9H_Y9gcHs9yJNlrgqSdgld1HRw__0Zqo1irH23Au9FTV6EUR52ScSpA59jk0-OR2Zi-sg2vnjenVQ==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCAhVobjWbOIcs5yl7v9RHKZqs-yWD4CrrG9ZtiGHTst8QV4MkHAVuc-PtQXe2qt14MnjJY2nzuQZCQNvbXMs9vianjh8qh-RbQyHup34R-uLXGdpA64IbDhIIkJIVIhgQg6z-YtYehNVRoM9YsagIrmxEFlrIGofGofH7dIb-67b3mhyCQHQsD942OZJTn4mH5x5ugKqzXTTeMhqcM33KYQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLOCrWi4ZV_LF3C10nJaheWBWHBZnSW9ywTVo9R0cHCLcjKClrMM18q15j1HyF9mfrD67063MfrzDtQYxyTDlMoOfaqdSBRX1k6HPNev1eMJkFNBR9PqgNpFJX4e2BcZVjWbVdxzK79NJcugOBAHZY5V88QHfLdBvU-N63eVlKmQHd9tru_mXygXoli2b85fejurEULASRDA==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJmau-Jei47X-17yjzmU4uDZNi5-0Bl8mio-BrEUcH_BWjg-3SAOny4wLnmHTGFhg6r70XnuZpJub-_p8CMUHXZQLut0BHw90Ybms4KvR_RSEKbxroEcpVea9cHBwyiSikJ1jgNkmxy--jQRP14leHGCHYwESZUaQ3XJFCZ3je_afh",
+            "title": "miamidolphins.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHK5IA5cBuP17ualv6axQ9kU1e5XGgxnn25cDAiwDj1CHkziS7QKllHtRe_QBj5RGAQ1pHhJ_6s0YEUTx5RNeA95tpYZXBRKZr1EaoUoBNawm5oCrD4r90AyLu6jcbo6KZMV5uNQ93dufyFnoMYkeF",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIXkDWYcOWa1QuTsxGrNy_Kq0EpGk6VNLuc3o04angJdAeiLoetmZRDWinzNFu04v3dJ9HJn1uqKpftItP3gCv9JSe8ySoPn4-E5BkMRk6KM1_exSxnk31ze-aPh896F1gL6LTcNRybh9RQv6PiO3t",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEisz9Wjk4gvRocogbt5Zf4BpEcbaShYsltaLGFBLRlRKrnHh8OltlbLBsb1NvxQ-RbfG_HhwM83km3cEUPSMIjvi49u71amWyw_gSTVbtoZaOd0Z5M-zKVdm8Y2E4PohMWo9RMXHDuwB1sMrFOJ6ebtf_Ex3QKQnI4sOyYjBorc9JcNjW9kErVRUVjy3Lk9A36",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBegmp5F8VPkjLpdmMrLICgfPXGb3HRMiXf69Pm1xsbZaYNmZvdrEYxl0TTlB5lI13kP4GBREbJsrm5V-SpQg0CNyvzeoilTnrv1Cu11Vy4bDyWB1ol3GBajZkvnQuErz8KxB12arBbfUSEd82ODhYL49IOf5-bZqBWE5J5Y2sjHcWP-bwii_qMiXn_44Ah6_rXfS0-sljXWedTmcQBQ==",
+            "title": "fantasypoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0niG2vDl_DUtkQ9tvkIwOqfwfresVv3_xqCYJGpeFc_1r2LdFz8rUj0iFpxMJP0BtKTuEoCbJ-2lWfkCw3nA51hC63m8bFNfw6mg66DubMvALJWtxfbTAsZikRLnHUDVj2o00DGLZkIUaxTXiWVqcoHb7z85wSrs-YhxN_XJJzZ9Fxhwt9brCPYfEnn6vMmz2NmTzS4tfEiJF4abCNA==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGApXWQFEQNHrmRxCnzYoMLNbG_31qAiLPLx5yUACKMhWQvhtN90xPVk1qEe7iUDuZourjtI6It0DsTJnqVtUQ9s3CCuKZK3H78vcQZMultj89ExAAFkCopFVB7W08rECsGu06LdDDwORfXhOq7Tir2WN9uf0FOY9Sulnxz2lntwvBJJSRCqiJ7z-5HUytpOBFN3b2rv1gv8Q==",
+            "title": "pitcherlist.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHotvOUX3kfZnf-5kwxji9HG8NZsUmJj94IiqhmSoUzUUI485Ab_vMJo3QV6RWTSRA7c_4w6v8B76tfh_EjgbDtwfikc-GmOXm_7tvHgKpsALAvG9bd2Dk4-BVuY2hgsZWeedGtVKiHvmcdDkGsABlLndvVXfUqyFIDiL0_WHR8kWB-TNQ5MLCdwp78U4BlTsSI57-PgSvo7PQf8PxI7wNClF5hxDi8KrhD",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "184d0d1275edebc6387ee494b107cc459f580d71",
+        "aviCoreCommittedAt": "2026-08-18T18:22:48Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 83424,
+        "groundedMarketChars": 3312,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "msz27iif-13a4da85",
     "createdAt": 1787081602589,
     "expiresAt": 1787513602589,
