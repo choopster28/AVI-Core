@@ -12,9 +12,437 @@
       "maxResults": 3
     },
     "createdAt": 1787080469810,
-    "updatedAt": 1787080471263,
+    "updatedAt": 1787080574020,
     "expiresAt": 1787512469810,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The Conquistadors operate as an Elite Contender in a Win Championship window, anchored by league-winning cornerstone assets Josh Allen, Bijan Robinson, De'Von Achane, and Puka Nacua. With De'Von Achane publicly available on the Autobots trade block, the front office has a unique leverage window to consolidate surplus strength into premier starter upgrades at WR and TE. Evaluating league-wide trade partners under Market Reality rules yields three highly realistic, two-organization aligned trade opportunities that elevate current starting lineup ceiling and maximize championship odds.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Elite Contender (Win Championship)",
+          "strengths": [
+            "Elite top-tier anchors in QB Josh Allen, RB Bijan Robinson, RB De'Von Achane, and WR Puka Nacua",
+            "High-upside young starting receivers in George Pickens (93.0 C-AVI) and Ladd McConkey (82.5 C-AVI)",
+            "Strong young tight end foundation in Harold Fannin (91.2 C-AVI / 89.3 D-AVI)"
+          ],
+          "priorityNeeds": [
+            "Acquire a tier-1 alpha WR1 anchor to pair alongside Puka Nacua",
+            "Secure elite, high-floor starting production at TE to maximize weekly playoff scoring variance",
+            "Consolidate developmental depth into proven plug-and-play championship starters"
+          ],
+          "tradeableSurplus": [
+            "De'Von Achane (confirmed available on commissioner trade block)",
+            "George Pickens and Ladd McConkey (high-value starting-caliber WR trade chips)",
+            "Matthew Golden and 2027 1st Round Draft Capital (Northside Kings orig)"
+          ],
+          "constraintsApplied": [
+            "Verified User Team: Conquistadors (Elite Contender / Win Championship)",
+            "Starter-for-Starter Realism strictly enforced across all player trade components",
+            "Two-organization strategic goal alignment verified for every candidate trade partner"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Eliminated 7 rebuilder/retooler teams lacking tier-1 championship-grade starting assets matching Conquistadors' positional needs",
+            "Eliminated 2 managers due to incompatible package match or historical trade inactivity"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "All Hail King Jesus",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Amon-Ra St. Brown",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "WR",
+                "age": 26,
+                "cavi": 98.6,
+                "davi": 99,
+                "publicMarket": 99,
+                "leagueMarket": 98.6
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 97,
+                "leagueMarket": 97.4
+              },
+              {
+                "name": "Matthew Golden",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "WR",
+                "age": 23,
+                "cavi": 58.1,
+                "davi": 78.9,
+                "publicMarket": 78,
+                "leagueMarket": 58.1
+              }
+            ],
+            "scenarioType": "Blockbuster Trade Block Swap",
+            "strategicGoal": "Leverage publicly shopped RB De'Von Achane to land premier WR1 cornerstone Amon-Ra St. Brown",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 24,
+              "packageMatch": 19,
+              "lineupReplacement": 14,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 97,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Pairing Amon-Ra St. Brown (98.6 C-AVI) with Puka Nacua (99.6 C-AVI) gives the Conquistadors the undisputed best WR tandem in Autobots history while retaining Bijan Robinson as the RB1 anchor.",
+            "whyOpponentMightAccept": "All Hail King Jesus has Amon-Ra St. Brown on the public trade block and urgently needs an elite RB1 like De'Von Achane (97.4 C-AVI) to boost championship odds while maintaining Justin Jefferson at WR.",
+            "championshipImpact": "Dramatically raises weekly starting lineup ceiling and consistency in the WR1 spot.",
+            "dynastyImpact": "Locks in a 26-year-old top-3 dynasty receiver for the next 4-5 championship runs.",
+            "rosterImpact": "Replaces Achane with Amon-Ra St. Brown in the starting lineup while keeping a dominant core intact.",
+            "publicMarketContext": "Amon-Ra St. Brown is a consensus overall top-5 dynasty WR with unmatched PPR target volume.",
+            "risks": [
+              "Surrendering Achane's game-breaking explosive rushing production",
+              "Matthew Golden making a major year-two breakout in Green Bay"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer De'Von Achane straight up for Amon-Ra St. Brown given their matching top-tier C-AVI profiles and mutual roster needs.",
+              "acceptableConcession": "Include young WR Matthew Golden or a 2027 2nd round pick to finalize the transaction quickly.",
+              "walkAwayPoint": "Walk away if All Hail King Jesus demands Bijan Robinson or an additional 2027 1st round pick."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Ravens Regime ",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Kyle Pitts",
+                "assetType": "player",
+                "owner": "Ravens Regime ",
+                "position": "TE",
+                "age": 25,
+                "cavi": 93.8,
+                "davi": 88.9,
+                "publicMarket": 91,
+                "leagueMarket": 93.8
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "George Pickens",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "WR",
+                "age": 25,
+                "cavi": 93,
+                "davi": 96.1,
+                "publicMarket": 94,
+                "leagueMarket": 93
+              }
+            ],
+            "scenarioType": "Elite Starter Positional Swap",
+            "strategicGoal": "Acquire an elite 93+ C-AVI tight end anchor by trading WR depth to a contender",
+            "scoring": {
+              "availability": 21,
+              "opposingGmMotivation": 23,
+              "packageMatch": 19,
+              "lineupReplacement": 14,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 87,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Kyle Pitts (93.8 C-AVI) eliminates the Conquistadors' single thinnest lineup position at TE, giving them an elite positional advantage across every single starting slot.",
+            "whyOpponentMightAccept": "Ravens Regime holds both Kyle Pitts and Isaiah Likely, but lacks a high-end WR2 behind Zay Flowers. Adding George Pickens (93.0 C-AVI) addresses their biggest lineup weakness for their playoff push.",
+            "championshipImpact": "Turns tight end into a massive weekly scoring advantage over rival playoff teams.",
+            "dynastyImpact": "Secures a 25-year-old generational TE talent tied to a high-volume passing offense.",
+            "rosterImpact": "Ladd McConkey elevates to permanent WR2/FLEX starting status while Pitts locks down TE1.",
+            "publicMarketContext": "Kyle Pitts remains one of dynasty's premier tight end assets due to elite target depth and age profile.",
+            "risks": [
+              "George Pickens taking a massive target share leap in Dallas",
+              "Weekly volatility inherent to tight end scoring"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose a direct 1-for-1 swap of George Pickens for Kyle Pitts, highlighting identical 25-year-old age curves and 93+ C-AVI values.",
+              "acceptableConcession": "Throw in a 2028 3rd round pick or minor pick swap if Ravens Regime hesitates on losing TE depth.",
+              "walkAwayPoint": "Walk away if Ravens Regime demands Ladd McConkey or a 2027 1st round pick in addition to Pickens."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "DMV Fantasy",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Terry McLaurin",
+                "assetType": "player",
+                "owner": "DMV Fantasy",
+                "position": "WR",
+                "age": 30,
+                "cavi": 77.9,
+                "davi": 87.9,
+                "publicMarket": 80,
+                "leagueMarket": 77.9
+              },
+              {
+                "name": "George Kittle",
+                "assetType": "player",
+                "owner": "DMV Fantasy",
+                "position": "TE",
+                "age": 32,
+                "cavi": 78.4,
+                "davi": 82.8,
+                "publicMarket": 80,
+                "leagueMarket": 78.4
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Ladd McConkey",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "WR",
+                "age": 24,
+                "cavi": 82.5,
+                "davi": 92.7,
+                "publicMarket": 85,
+                "leagueMarket": 82.5
+              },
+              {
+                "name": "2027 Round 1 (Northside Kings)",
+                "assetType": "pick",
+                "owner": "Conquistadors",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": null,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Retool Depth Consolidation",
+            "strategicGoal": "Acquire two proven 77+ C-AVI win-now starters from a retooling team to maximize championship depth",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Provides two elite high-floor producers (McLaurin + Kittle) who immediately enter the starting WR2/FLEX and TE slots for an all-in 2026 championship run.",
+            "whyOpponentMightAccept": "DMV Fantasy is in Retool status and gains immense value by offloading 30+ year-old veterans for 24-year-old rising star Ladd McConkey (92.7 D-AVI) plus a premium 2027 1st round pick.",
+            "championshipImpact": "Instantly strengthens two starting lineup spots with veteran ceiling and playoff floor.",
+            "dynastyImpact": "Trades future draft capital and age profile for immediate championship trophy probability.",
+            "rosterImpact": "McLaurin and Kittle immediately start, bolstering overall lineup depth for playoff matchups.",
+            "publicMarketContext": "Both McLaurin and Kittle remain elite win-now producers despite advancing career lifecycles.",
+            "risks": [
+              "Age-related performance decline or injury to 30+ year-old veterans",
+              "Loss of future 2027 1st round pick trade flexibility"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Ladd McConkey + 2027 2nd round pick for McLaurin and Kittle.",
+              "acceptableConcession": "Upgrade the draft capital to the 2027 1st (Northside Kings) if DMV Fantasy insists on premium retool assets.",
+              "walkAwayPoint": "Walk away if DMV Fantasy demands George Pickens or additional future 1st round picks."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba 2026 news",
+          "Matthew Golden NFL draft 2025 2026",
+          "Amon Ra St Brown news 2026",
+          "Devon Achane news 2026",
+          "Josh Allen 2026 news",
+          "Patrick Mahomes 2026 news",
+          "Tyjae Spears news 2026",
+          "Ladd McConkey 2026 news"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs036qFNBjPl3pxkW-D0paj-TDzB9ZAxXfqJMMMJa3Ci-VY-tNCCnGvzmk80PvJViPIabvnr1UoPTr3WcRwcJvE30pXccfPvNRd3GqEvs22ql9bHHcVVbPz4IlkGPKKuarvyhi-wCWFR7KICIaiCabDAc7VOjQHiKN_03RMf39kE_f5FpwUsSrRNu-pE-qdnqQ6mAQ1ex_FPyNazJVt14b21FtTEiXHSXH0v8XBywAYg==",
+            "title": "buffalowdown.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERmEdGMolIb158u4NHcKLqRV4AOKDWHAJRYRV_5OI3DVlrMpexg7rbwJ_uOf9xS0AVTWwZxLNR6kAKrujIdgVk88aeFTX-EFRsrSaDjWhWcSWWn3w_sAePdecXeZee6p74KRDuq2b6nyPuCvOnaxerLk0zogDXVQtHNCWw7x6QSpNwpOi9ia--Mz1a-GG7N8VKbHbN2cUwApIACzo4RtzFeoVM4g==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiWQg9AUsnxkwJqwRZe3OMP24LyqoldxKYe6KijhEzmL1rsRcw72m4gOgqzN_LEOWAhCUX-AsR2Ikq9rg_i3bTc82nI0gI-UYQaVFEEKVU5QeBo-kEqUW325trBrMIK28sDAUH_vGO2XCVfu5xupnZJH5wkEm3mOlAODjP-DVojI9eg2BybzwLzBywZira6kYJi-C4ySmacWkiWOkfhLvp4TzsDjLtf9ma0NKegBf7VJ-i",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6fTqLpIzM1t366z9WP5_tskoWcXx2GtEyPRcEGMTto5AUFWi5VR4_gywL9ISv9eZHG8DwouT5w1n7FFhaL4F4Ghu1F3nAE7cISIvPdoTz-6eU9qa-Xbz6kdrEdh0QLBWzf3l_II3_I5Jw-nt22Qx6B9p8TYgT5BksR4rhg4jz",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECers7u8VABAdqFWZTVeVQNwLIgWKKbRRs_KBq8EZH2J29W4goxV1kuI0GT8h3CjSHyVhATk9Z-0eJ79x78ZW0jFNWz5WqyfPbltBEZvchb_oeHNczCpex0DGJHhzBf1WznZQGzAQmY8u6-bxxeW65UBb9fM6Jz95kCrYrGwKY9m0ZX-SSFJU9pmc1zWHE066KZXZxo1XDLytiEc0nGKNkI2KXky1iZmAekYGwUH4=",
+            "title": "sidelionreport.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcoYdVAYpGfCstMqjRR9TY6pgInFbSZYZhMfyJCVBfzBXzBbRStRIOtqL0Cl2jey89BMFjmDf8QSxyx_0m2KWe0MUg3-tKTXN1jTCrnzucpZcu886QaKMflHI1_mtmW_ss-aGpU307STub5vOww7WxcvGJDwBSsg5Tg7h1DcvG9yO5fx3oqz0FgffQ5hshArAXFuw7gxWTWdxT-WdC",
+            "title": "detroitlions.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhBtM9pqTSM5DLHq3gXZ39VdOmEsXxFE_20J0g4OS0FChDjI9GPpHboPuy_5prr01I5FnCaUW8QQruHxAz8d2XeBJaRsgXg8IH2dA6rMeWEnrRWJRG4fClIAeFosNDd6Xy3ee7LmQ_HLhDd8lv7cImASiWeMzzc1WDEZycoqDmwckYl5YSjjTQNdS2_BnGF9dJXOhhDcfJNpcpIetMsw78j6mKjoHtkp3cAu0=",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrIKswZzEaZf9qiGHNgc2khkhNo3sfLQnM650VXxkGXaN16csm35tqL_caNjXe1FNFm3kLpeNORYk5qg-m09Ga56-LiHoyT9tkUH86bl5BjXkwN0J423yWZbp3W5EJLNt8H94z-lc-VfDZM1BknZYz0AjYXGSBpxAuEaRpLZ5gIKl1F98G4Wt-z7w7I6RMyPnvHgTTTA2D2E9ZUEPc4mOUXr8NFfsgouNLeeTk8fPF",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrRuWq76dXjWRYB2z1-Ck9b5T7a_7RDhlvANuDJ18D_ayF-lI_kpznFAVs0kCC45Im_JJfFS5mzUwlvTYShpOqO7FGQTGU-_Vb_eC_Cmow_zskwS1TJjTxgyMu7_8Ndp7DBN2kPGC06hXSqAr_3SJx2DCyXHdOSbw5p-Bq_b3y4KZRYUh54O5tL8PqMg==",
+            "title": "12thman.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELBAasL7bJxvi4d6SvSdCoWaWopOADZCdM8YSx-KEMyhp6dnb7p325E22fFt8NNEo-PN9CJHLRz57T42Cr8pcRS909Gy5R2nW1YR9lh6LRyLCD9KQuEPQOWAiU-sxSLLvql20XjfuKmEhrKF3t8wrseA4J6shjM2N0ji1WlCAM6aT9U9iWqZhcmv1rruwO5vXAN-kEXq7IJ7pVlRqarLmmEyl7a77x",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfAf8AlG784fBTq2qeO5oVfbbKFb00-JKvw0mlJ-cPXwKTp7jPB8X5C7bvI43zrEiyCq1iRgJf9g9niZ4I3EXXBKyEvwGDOoQ7JrAtDRBbXrJan5RSJ2ym7cdjt-vBVLUVXp_s0igr",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9ZBkgXhp7lnNCWiL_03yb7C1MfMFRFoXVSyOXW64bkH8S3tUl2pqrLFeVtbKFCNPPfy-AqxrNuVu4Gq_7sgAMjDSdRLPh6laTIANpXYCmv3QKj_g36Dbfso5P70f9olXRSxE387ucO-2HwhGue-zXgs9T5-mnh0PwOHptHaYqxUFVop4vL6Ftsg9E0uLgYMMLk2rwPKjdi02dl-o",
+            "title": "boltbeat.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBxHXTzaX2miIL82p_k5jZ3x6abhx2FJ1rKDZsR_4KvSEHQEgyhwVgPvkFh7BVelR8jwnlhF3sL7BHGgH2AoSukvpqDmU6_Fh24dn-myc58gN1TAW65I82f3QAnI55qMDK_unS6iDMYo-TTzcDy1B6FQnnqf2AsJaZWLguhGfrzdBzvtcU",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG581UnTvsV6x9Dy8dyqESoHeZFYmRFchGCHTpgOmBGHZvT03wrGVjPGtyKXEGin0Mcq8ZAClvsqIMmcDAL3lGsK1s00NVaRpgO6RVisYUUsVuKsCUhZ5Wwz-CZlGdzuC2pjlG_HiLfM8PasxQpdf7hGV2pRxwe5g==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGagqAyQWAq0v1xlZKfMcwAWSe8onwMOmBhllmucRLycvckI7CT44e7-xUIY7o1_aaYLdY_QHriDtIM7WodCe5u3TcJfEIa9nGeBm8Erh__12DU_eHx_kSfZgOnE8ve4SZ_0CvGJHiK8_ySTAUlBt_IN20Ki-auENfuYJ-OvWN83GOVIEeY0LuomeVJUoLmMqX059Mxm1IIjr8H10fRxkUUmNxrEniG04q_qH8=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUC1nPaN0dPgQCIUaMxTq2qZ_D8630yngGK6fHfDP_r2ZLVctn1efeB70Iewkk6CT0XPmtrWRn839XKDGSZDbmg3CazbLO378WnL-DBIFvhi-_h1P_SLVtaCWxNSz8jvAK",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPZVYncBYous9YS8tj_G1eg7f_HNAfbpZX-L53P_xcK-G9qCpCGvxp9N0z5FyYDrHYPXfo1ckg1p5fEdA5lDEn3aW-A6DIwbuWXQ-T9rI6CYli6PlW3a5EPJ_3rmvMeV41fp7nigIKj2nugqPx_iBP8yALaa6PV1Ps4HwrVS8MwIL-dIHKHfVcAEOkVQc9zmcDlALKsZOnC5Qw-ymsVD1RAKAi7FuKRei19yYEejx3bVKux1ja6YuyWynyMsqig0SFvgLqTppdgRueCQJZhcM=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZgvyZgA2enPPIcheSduMtbN115xNY2Rnnlm-ovprT9DVLYpK5fwVPPcsuGA9veiHKt85kiXORflrqKRmGXUxejIJpKK2UJICH7_-7e1aWNfYBKJTjsEyQXoHjGTtADpV4chCBaPuA7neZiyS0AVnTZKC_FLmnanUh4KZRlXJMMPqazEw=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBOncfX9FWM66x3hQdkj6qLl7asm13SAS-zWQzIMWVEE69K_z3FUJVEMVqU_huHlsNMPwELpdwmVzYh6XgfI8tLbOICOla8L05LA6MyE2odIgOyfTlSoo9PZcnd68NeeWVN1f39Qcr0dFRtLaApULexs8atpOFR70V6lP6ZoXIdXcfwCjkMi5f3pExJ0N7MDVqTmYdkayAv7GGC8WmZpJQ5yRK",
+            "title": "tennesseetitans.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF35HhxNEtDdVCCRvZMCdBD97H86g4bFfEwYjKDbCB5nDfQ1LrTt_meWCjYTjGpHJB_w_bwzBCDpbNm4v12Dz78g1slWEa-beVoRw-B5RD-jDS4r7OuhPoInqshOfTDfPfzNsEyqZWlT5W5bRYv5kdhPpxZgg==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMvD24ScOkdtxqK9VMruqm4ybwu-9mXm0CyRpknhVb0W5yhVbK8m5Nz87_fSmeH-cJeYC1WPi7FGjfZWxEbwRwO4wJU0SC37LhLV863L96G2gmp3MWEPQ94crjN46jz72fZR7htc0=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSOFphW9fRxUBeTHHIYyD5FBwY03HCdTW872KGViH7QIKh8DIHLO7bz3Tm1d4g_Q4_we99cQO0YO95BziSCtd-QOAH5HsVmLuIKovuqM5GgtIDPweD8RS9MmeqGoGz5stx8eUW443umqpEsbMWS2KNvAPioyTuVBOavJ13K-fkOX9aNQPCHKu-aqv4",
+            "title": "profootballnetwork.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "De'Von Achane",
+          "Matthew Golden",
+          "Jaxon Smith-Njigba",
+          "Tyjae Spears",
+          "Ladd McConkey",
+          "Patrick Mahomes",
+          "Josh Allen"
+        ],
+        "aviCoreCommitSha": "184d0d1275edebc6387ee494b107cc459f580d71",
+        "aviCoreCommittedAt": "2026-08-18T18:22:48Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 523894,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "msumf4hq-2546514b",
