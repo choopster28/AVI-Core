@@ -8,19 +8,19 @@
       "name": "Maxx Crosby",
       "position_id": "DL",
       "stats": {
-        "def_assist": 32.1,
+        "def_assist": 32.11,
         "def_ff": 1.58,
         "def_fr": 0.7,
         "def_int": 0.58,
         "def_pd": 3.3,
-        "def_sack": 10.95,
+        "def_sack": 10.89,
         "def_safety": 0,
-        "def_tackle": 61.39,
+        "def_tackle": 61.42,
         "def_td": 0.15,
         "def_tlost": 0,
-        "points": 177.79,
-        "points_half": 177.79,
-        "points_ppr": 177.79
+        "points": 177.6,
+        "points_half": 177.6,
+        "points_ppr": 177.6
       },
       "team_id": "LV"
     },
@@ -103,16 +103,16 @@
         "def_assist": 29.75,
         "def_ff": 0.77,
         "def_fr": 0.68,
-        "def_int": 0.96,
+        "def_int": 0.95,
         "def_pd": 8.51,
-        "def_sack": 6.52,
+        "def_sack": 6.51,
         "def_safety": 0,
         "def_tackle": 58.88,
         "def_td": 0.13,
         "def_tlost": 0,
-        "points": 160.79,
-        "points_half": 160.79,
-        "points_ppr": 160.79
+        "points": 160.71,
+        "points_half": 160.71,
+        "points_ppr": 160.71
       },
       "team_id": "MIN"
     },
@@ -156,9 +156,9 @@
         "def_tackle": 44.94,
         "def_td": 0.11,
         "def_tlost": 0,
-        "points": 153.17,
-        "points_half": 153.17,
-        "points_ppr": 153.17
+        "points": 153.19,
+        "points_half": 153.19,
+        "points_ppr": 153.19
       },
       "team_id": "HOU"
     },
@@ -271,9 +271,9 @@
         "def_tackle": 48.58,
         "def_td": 0.12,
         "def_tlost": 0,
-        "points": 139.33,
-        "points_half": 139.33,
-        "points_ppr": 139.33
+        "points": 139.35,
+        "points_half": 139.35,
+        "points_ppr": 139.35
       },
       "team_id": "PIT"
     },
@@ -287,16 +287,16 @@
         "def_assist": 27,
         "def_ff": 2.73,
         "def_fr": 1.12,
-        "def_int": 0.22,
+        "def_int": 0.21,
         "def_pd": 3.36,
-        "def_sack": 6.6,
+        "def_sack": 6.59,
         "def_safety": 0,
         "def_tackle": 46.57,
         "def_td": 0.11,
         "def_tlost": 0,
-        "points": 138.63,
-        "points_half": 138.63,
-        "points_ppr": 138.63
+        "points": 138.57,
+        "points_half": 138.57,
+        "points_ppr": 138.57
       },
       "team_id": "MIN"
     },
@@ -353,19 +353,19 @@
       "name": "DeForest Buckner",
       "position_id": "DL",
       "stats": {
-        "def_assist": 35.22,
+        "def_assist": 35.23,
         "def_ff": 0.72,
         "def_fr": 0.14,
         "def_int": 0.03,
         "def_pd": 1.09,
-        "def_sack": 6.15,
+        "def_sack": 6.14,
         "def_safety": 0,
-        "def_tackle": 53.25,
+        "def_tackle": 53.28,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 136.31,
-        "points_half": 136.31,
-        "points_ppr": 136.31
+        "points": 136.32,
+        "points_half": 136.32,
+        "points_ppr": 136.32
       },
       "team_id": "IND"
     },
@@ -455,9 +455,9 @@
         "def_tackle": 44.48,
         "def_td": 0.11,
         "def_tlost": 0,
-        "points": 132.83,
-        "points_half": 132.83,
-        "points_ppr": 132.83
+        "points": 132.85,
+        "points_half": 132.85,
+        "points_ppr": 132.85
       },
       "team_id": "CHI"
     },
@@ -473,14 +473,14 @@
         "def_fr": 0.93,
         "def_int": 0.11,
         "def_pd": 2.44,
-        "def_sack": 11.02,
+        "def_sack": 11.03,
         "def_safety": 0,
         "def_tackle": 38.23,
         "def_td": 0.1,
         "def_tlost": 0,
-        "points": 132.36,
-        "points_half": 132.36,
-        "points_ppr": 132.36
+        "points": 132.38,
+        "points_half": 132.38,
+        "points_ppr": 132.38
       },
       "team_id": "DEN"
     },
@@ -629,14 +629,14 @@
       "name": "Chase Young",
       "position_id": "DL",
       "stats": {
-        "def_assist": 19.4,
+        "def_assist": 19.39,
         "def_ff": 1.98,
         "def_fr": 1.14,
         "def_int": 0.12,
         "def_pd": 3.51,
-        "def_sack": 9.33,
+        "def_sack": 9.35,
         "def_safety": 0,
-        "def_tackle": 38.57,
+        "def_tackle": 38.55,
         "def_td": 0.11,
         "def_tlost": 0,
         "points": 128.69,
@@ -644,29 +644,6 @@
         "points_ppr": 128.69
       },
       "team_id": "NO"
-    },
-    {
-      "filename": "austin-booker.php",
-      "fpid": 26313,
-      "mflid": 16734,
-      "name": "Austin Booker",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 21.48,
-        "def_ff": 1.19,
-        "def_fr": 0.77,
-        "def_int": 0.05,
-        "def_pd": 0.64,
-        "def_sack": 6.55,
-        "def_safety": 0,
-        "def_tackle": 50.74,
-        "def_td": 0.11,
-        "def_tlost": 0,
-        "points": 128.13,
-        "points_half": 128.13,
-        "points_ppr": 128.13
-      },
-      "team_id": "CHI"
     },
     {
       "filename": "abdul-carter.php",
@@ -680,14 +657,14 @@
         "def_fr": 1.16,
         "def_int": 0.12,
         "def_pd": 1.53,
-        "def_sack": 7.91,
+        "def_sack": 7.9,
         "def_safety": 0,
         "def_tackle": 44.08,
         "def_td": 0.12,
         "def_tlost": 0,
-        "points": 127.13,
-        "points_half": 127.13,
-        "points_ppr": 127.13
+        "points": 127.09,
+        "points_half": 127.09,
+        "points_ppr": 127.09
       },
       "team_id": "NYG"
     },
@@ -813,44 +790,21 @@
       "name": "Adam Butler",
       "position_id": "DL",
       "stats": {
-        "def_assist": 29,
+        "def_assist": 29.03,
         "def_ff": 0.23,
         "def_fr": 0.15,
         "def_int": 0.14,
-        "def_pd": 2.72,
-        "def_sack": 2.82,
+        "def_pd": 2.73,
+        "def_sack": 2.79,
         "def_safety": 0,
-        "def_tackle": 56.18,
+        "def_tackle": 56.23,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 123.84,
-        "points_half": 123.84,
-        "points_ppr": 123.84
+        "points": 123.83,
+        "points_half": 123.83,
+        "points_ppr": 123.83
       },
       "team_id": "LV"
-    },
-    {
-      "filename": "quinnen-williams.php",
-      "fpid": 18200,
-      "mflid": 14157,
-      "name": "Quinnen Williams",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 26.65,
-        "def_ff": 2.13,
-        "def_fr": 0.74,
-        "def_int": 0.01,
-        "def_pd": 0.75,
-        "def_sack": 5.83,
-        "def_safety": 0,
-        "def_tackle": 44.84,
-        "def_td": 0.04,
-        "def_tlost": 0,
-        "points": 123.4,
-        "points_half": 123.4,
-        "points_ppr": 123.4
-      },
-      "team_id": "DAL"
     },
     {
       "filename": "cameron-heyward.php",
@@ -874,6 +828,29 @@
         "points_ppr": 123.18
       },
       "team_id": "PIT"
+    },
+    {
+      "filename": "quinnen-williams.php",
+      "fpid": 18200,
+      "mflid": 14157,
+      "name": "Quinnen Williams",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 26.63,
+        "def_ff": 2.13,
+        "def_fr": 0.74,
+        "def_int": 0.01,
+        "def_pd": 0.75,
+        "def_sack": 5.69,
+        "def_safety": 0,
+        "def_tackle": 44.81,
+        "def_td": 0.04,
+        "def_tlost": 0,
+        "points": 122.82,
+        "points_half": 122.82,
+        "points_ppr": 122.82
+      },
+      "team_id": "DAL"
     },
     {
       "filename": "jalen-carter.php",
@@ -991,6 +968,29 @@
       "team_id": "DEN"
     },
     {
+      "filename": "austin-booker.php",
+      "fpid": 26313,
+      "mflid": 16734,
+      "name": "Austin Booker",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 20.23,
+        "def_ff": 1.12,
+        "def_fr": 0.73,
+        "def_int": 0.04,
+        "def_pd": 0.6,
+        "def_sack": 6.18,
+        "def_safety": 0,
+        "def_tackle": 47.8,
+        "def_td": 0.1,
+        "def_tlost": 0,
+        "points": 120.69,
+        "points_half": 120.69,
+        "points_ppr": 120.69
+      },
+      "team_id": "CHI"
+    },
+    {
       "filename": "josh-allen-olb.php",
       "fpid": 18201,
       "mflid": 14167,
@@ -1020,19 +1020,19 @@
       "name": "B.J. Hill",
       "position_id": "DL",
       "stats": {
-        "def_assist": 28.87,
+        "def_assist": 28.89,
         "def_ff": 0.12,
         "def_fr": 0.08,
         "def_int": 0,
         "def_pd": 0.09,
-        "def_sack": 3.17,
+        "def_sack": 3.16,
         "def_safety": 0,
-        "def_tackle": 55.92,
+        "def_tackle": 55.97,
         "def_td": 0.03,
         "def_tlost": 0,
-        "points": 119.33,
-        "points_half": 119.33,
-        "points_ppr": 119.33
+        "points": 119.38,
+        "points_half": 119.38,
+        "points_ppr": 119.38
       },
       "team_id": "CIN"
     },
@@ -1066,19 +1066,19 @@
       "name": "Carl Granderson",
       "position_id": "DL",
       "stats": {
-        "def_assist": 21.78,
+        "def_assist": 21.77,
         "def_ff": 0.7,
         "def_fr": 0.13,
         "def_int": 0.7,
         "def_pd": 4.06,
         "def_sack": 5.7,
         "def_safety": 0,
-        "def_tackle": 44.33,
+        "def_tackle": 44.31,
         "def_td": 0.11,
         "def_tlost": 0,
-        "points": 119.15,
-        "points_half": 119.15,
-        "points_ppr": 119.15
+        "points": 119.12,
+        "points_half": 119.12,
+        "points_ppr": 119.12
       },
       "team_id": "NO"
     },
@@ -1094,14 +1094,14 @@
         "def_fr": 0.8,
         "def_int": 0.01,
         "def_pd": 1.73,
-        "def_sack": 4.57,
+        "def_sack": 4.56,
         "def_safety": 0,
         "def_tackle": 44.37,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 118.28,
-        "points_half": 118.28,
-        "points_ppr": 118.28
+        "points": 118.24,
+        "points_half": 118.24,
+        "points_ppr": 118.24
       },
       "team_id": "MIN"
     },
@@ -1181,19 +1181,19 @@
       "name": "Nathan Shepherd",
       "position_id": "DL",
       "stats": {
-        "def_assist": 26.78,
+        "def_assist": 26.76,
         "def_ff": 0.84,
         "def_fr": 0.55,
         "def_int": 0.03,
         "def_pd": 0.82,
-        "def_sack": 2.9,
+        "def_sack": 2.91,
         "def_safety": 0,
-        "def_tackle": 51.88,
+        "def_tackle": 51.84,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 116.69,
-        "points_half": 116.69,
-        "points_ppr": 116.69
+        "points": 116.65,
+        "points_half": 116.65,
+        "points_ppr": 116.65
       },
       "team_id": "NO"
     },
@@ -1232,14 +1232,14 @@
         "def_fr": 0.59,
         "def_int": 0.03,
         "def_pd": 0.82,
-        "def_sack": 3.25,
+        "def_sack": 3.26,
         "def_safety": 0,
         "def_tackle": 50.32,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 115.55,
-        "points_half": 115.55,
-        "points_ppr": 115.55
+        "points": 115.59,
+        "points_half": 115.59,
+        "points_ppr": 115.59
       },
       "team_id": "CHI"
     },
@@ -1278,9 +1278,9 @@
         "def_fr": 0.37,
         "def_int": 0.63,
         "def_pd": 3.18,
-        "def_sack": 7.77,
+        "def_sack": 7.76,
         "def_safety": 0,
-        "def_tackle": 35.61,
+        "def_tackle": 35.63,
         "def_td": 0.11,
         "def_tlost": 0,
         "points": 114.6,
@@ -1370,14 +1370,14 @@
         "def_fr": 0.1,
         "def_int": 0.06,
         "def_pd": 1.36,
-        "def_sack": 4.39,
+        "def_sack": 4.38,
         "def_safety": 0,
         "def_tackle": 48.57,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 112.84,
-        "points_half": 112.84,
-        "points_ppr": 112.84
+        "points": 112.8,
+        "points_half": 112.8,
+        "points_ppr": 112.8
       },
       "team_id": "GB"
     },
@@ -1393,14 +1393,14 @@
         "def_fr": 0.26,
         "def_int": 0,
         "def_pd": 0.09,
-        "def_sack": 2.99,
+        "def_sack": 3,
         "def_safety": 0,
         "def_tackle": 51.82,
         "def_td": 0.03,
         "def_tlost": 0,
-        "points": 112.71,
-        "points_half": 112.71,
-        "points_ppr": 112.71
+        "points": 112.75,
+        "points_half": 112.75,
+        "points_ppr": 112.75
       },
       "team_id": "NYJ"
     },
@@ -1439,14 +1439,14 @@
         "def_fr": 0.64,
         "def_int": 0.04,
         "def_pd": 1.52,
-        "def_sack": 7.55,
+        "def_sack": 7.57,
         "def_safety": 0,
         "def_tackle": 38.6,
         "def_td": 0.12,
         "def_tlost": 0,
-        "points": 111.41,
-        "points_half": 111.41,
-        "points_ppr": 111.41
+        "points": 111.49,
+        "points_half": 111.49,
+        "points_ppr": 111.49
       },
       "team_id": "KC"
     },
@@ -1520,29 +1520,6 @@
       "team_id": "DET"
     },
     {
-      "filename": "jonah-laulu.php",
-      "fpid": 26487,
-      "mflid": 16787,
-      "name": "Jonah Laulu",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 25.92,
-        "def_ff": 0.15,
-        "def_fr": 0.1,
-        "def_int": 0.07,
-        "def_pd": 1.38,
-        "def_sack": 3.08,
-        "def_safety": 0,
-        "def_tackle": 50.21,
-        "def_td": 0.04,
-        "def_tlost": 0,
-        "points": 110.74,
-        "points_half": 110.74,
-        "points_ppr": 110.74
-      },
-      "team_id": "LV"
-    },
-    {
       "filename": "odafe-oweh.php",
       "fpid": 22714,
       "mflid": 15378,
@@ -1559,34 +1536,57 @@
         "def_tackle": 35.35,
         "def_td": 0.1,
         "def_tlost": 0,
-        "points": 110.68,
-        "points_half": 110.68,
-        "points_ppr": 110.68
+        "points": 110.7,
+        "points_half": 110.7,
+        "points_ppr": 110.7
       },
       "team_id": "WAS"
     },
     {
-      "filename": "donovan-ezeiruaku.php",
-      "fpid": 27033,
-      "mflid": 17135,
-      "name": "Donovan Ezeiruaku",
+      "filename": "jonah-laulu.php",
+      "fpid": 26487,
+      "mflid": 16787,
+      "name": "Jonah Laulu",
       "position_id": "DL",
       "stats": {
-        "def_assist": 21.03,
-        "def_ff": 1.17,
-        "def_fr": 0.43,
-        "def_int": 0.08,
-        "def_pd": 1.46,
-        "def_sack": 5.86,
+        "def_assist": 25.94,
+        "def_ff": 0.15,
+        "def_fr": 0.1,
+        "def_int": 0.07,
+        "def_pd": 1.38,
+        "def_sack": 3.04,
         "def_safety": 0,
-        "def_tackle": 41.06,
+        "def_tackle": 50.25,
+        "def_td": 0.04,
+        "def_tlost": 0,
+        "points": 110.65,
+        "points_half": 110.65,
+        "points_ppr": 110.65
+      },
+      "team_id": "LV"
+    },
+    {
+      "filename": "bradley-chubb.php",
+      "fpid": 17277,
+      "mflid": 13681,
+      "name": "Bradley Chubb",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 20.06,
+        "def_ff": 1.4,
+        "def_fr": 1.08,
+        "def_int": 0.11,
+        "def_pd": 1.87,
+        "def_sack": 6.95,
+        "def_safety": 0,
+        "def_tackle": 35.75,
         "def_td": 0.11,
         "def_tlost": 0,
-        "points": 110.4,
-        "points_half": 110.4,
-        "points_ppr": 110.4
+        "points": 110.37,
+        "points_half": 110.37,
+        "points_ppr": 110.37
       },
-      "team_id": "DAL"
+      "team_id": "BUF"
     },
     {
       "filename": "chop-robinson.php",
@@ -1612,43 +1612,20 @@
       "team_id": "MIA"
     },
     {
-      "filename": "bradley-chubb.php",
-      "fpid": 17277,
-      "mflid": 13681,
-      "name": "Bradley Chubb",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 20.06,
-        "def_ff": 1.4,
-        "def_fr": 1.08,
-        "def_int": 0.11,
-        "def_pd": 1.87,
-        "def_sack": 6.95,
-        "def_safety": 0,
-        "def_tackle": 35.75,
-        "def_td": 0.11,
-        "def_tlost": 0,
-        "points": 110.35,
-        "points_half": 110.35,
-        "points_ppr": 110.35
-      },
-      "team_id": "BUF"
-    },
-    {
       "filename": "myles-murphy.php",
       "fpid": 24709,
       "mflid": 16224,
       "name": "Myles Murphy",
       "position_id": "DL",
       "stats": {
-        "def_assist": 21.2,
+        "def_assist": 21.21,
         "def_ff": 0.7,
         "def_fr": 0.63,
         "def_int": 0.03,
         "def_pd": 1.39,
-        "def_sack": 6.41,
+        "def_sack": 6.4,
         "def_safety": 0,
-        "def_tackle": 40.27,
+        "def_tackle": 40.29,
         "def_td": 0.1,
         "def_tlost": 0,
         "points": 110.08,
@@ -1669,14 +1646,14 @@
         "def_fr": 0.6,
         "def_int": 0.09,
         "def_pd": 1.13,
-        "def_sack": 6.12,
+        "def_sack": 6.11,
         "def_safety": 0,
         "def_tackle": 42.18,
         "def_td": 0.11,
         "def_tlost": 0,
-        "points": 110.02,
-        "points_half": 110.02,
-        "points_ppr": 110.02
+        "points": 109.98,
+        "points_half": 109.98,
+        "points_ppr": 109.98
       },
       "team_id": "NYG"
     },
@@ -1779,19 +1756,19 @@
       "name": "Boye Mafe",
       "position_id": "DL",
       "stats": {
-        "def_assist": 20.18,
+        "def_assist": 20.19,
         "def_ff": 1.08,
         "def_fr": 0.38,
         "def_int": 0.14,
         "def_pd": 3.35,
-        "def_sack": 7.11,
+        "def_sack": 7.1,
         "def_safety": 0,
-        "def_tackle": 34.69,
+        "def_tackle": 34.71,
         "def_td": 0.1,
         "def_tlost": 0,
-        "points": 107.72,
-        "points_half": 107.72,
-        "points_ppr": 107.72
+        "points": 107.73,
+        "points_half": 107.73,
+        "points_ppr": 107.73
       },
       "team_id": "CIN"
     },
@@ -1802,19 +1779,19 @@
       "name": "Jonathan Allen",
       "position_id": "DL",
       "stats": {
-        "def_assist": 25.5,
+        "def_assist": 25.52,
         "def_ff": 0.12,
         "def_fr": 0.08,
         "def_int": 0.04,
         "def_pd": 1.07,
         "def_sack": 2.86,
         "def_safety": 0,
-        "def_tackle": 49.4,
+        "def_tackle": 49.44,
         "def_td": 0.03,
         "def_tlost": 0,
-        "points": 107.45,
-        "points_half": 107.45,
-        "points_ppr": 107.45
+        "points": 107.53,
+        "points_half": 107.53,
+        "points_ppr": 107.53
       },
       "team_id": "CIN"
     },
@@ -1853,14 +1830,14 @@
         "def_fr": 0.12,
         "def_int": 0.02,
         "def_pd": 0.49,
-        "def_sack": 8.23,
+        "def_sack": 8.28,
         "def_safety": 0,
         "def_tackle": 37.99,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 106.89,
-        "points_half": 106.89,
-        "points_ppr": 106.89
+        "points": 107.09,
+        "points_half": 107.09,
+        "points_ppr": 107.09
       },
       "team_id": "KC"
     },
@@ -1888,29 +1865,6 @@
       "team_id": "PHI"
     },
     {
-      "filename": "walter-nolen.php",
-      "fpid": 27030,
-      "mflid": 17136,
-      "name": "Walter Nolen III",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 23.91,
-        "def_ff": 0.38,
-        "def_fr": 0.25,
-        "def_int": 0,
-        "def_pd": 0.1,
-        "def_sack": 4.07,
-        "def_safety": 0,
-        "def_tackle": 46.32,
-        "def_td": 0.03,
-        "def_tlost": 0,
-        "points": 106.54,
-        "points_half": 106.54,
-        "points_ppr": 106.54
-      },
-      "team_id": "ARI"
-    },
-    {
       "filename": "patrick-jones-de.php",
       "fpid": 23254,
       "mflid": 15398,
@@ -1932,6 +1886,29 @@
         "points_ppr": 106.53
       },
       "team_id": "CAR"
+    },
+    {
+      "filename": "walter-nolen.php",
+      "fpid": 27030,
+      "mflid": 17136,
+      "name": "Walter Nolen III",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 23.91,
+        "def_ff": 0.38,
+        "def_fr": 0.25,
+        "def_int": 0,
+        "def_pd": 0.1,
+        "def_sack": 4.06,
+        "def_safety": 0,
+        "def_tackle": 46.32,
+        "def_td": 0.03,
+        "def_tlost": 0,
+        "points": 106.5,
+        "points_half": 106.5,
+        "points_ppr": 106.5
+      },
+      "team_id": "ARI"
     },
     {
       "filename": "teair-tart.php",
@@ -2095,27 +2072,27 @@
       "team_id": "DEN"
     },
     {
-      "filename": "dayo-odeyingbo.php",
-      "fpid": 22883,
-      "mflid": 15386,
-      "name": "Dayo Odeyingbo",
+      "filename": "donovan-ezeiruaku.php",
+      "fpid": 27033,
+      "mflid": 17135,
+      "name": "Donovan Ezeiruaku",
       "position_id": "DL",
       "stats": {
-        "def_assist": 17.25,
-        "def_ff": 1.14,
-        "def_fr": 0.74,
-        "def_int": 0.11,
-        "def_pd": 1.52,
-        "def_sack": 4.72,
+        "def_assist": 19.92,
+        "def_ff": 1.1,
+        "def_fr": 0.39,
+        "def_int": 0.07,
+        "def_pd": 1.36,
+        "def_sack": 5.49,
         "def_safety": 0,
-        "def_tackle": 40.76,
+        "def_tackle": 38.44,
         "def_td": 0.1,
         "def_tlost": 0,
-        "points": 103.91,
-        "points_half": 103.91,
-        "points_ppr": 103.91
+        "points": 103.48,
+        "points_half": 103.48,
+        "points_ppr": 103.48
       },
-      "team_id": "CHI"
+      "team_id": "DAL"
     },
     {
       "filename": "dremont-jones.php",
@@ -2187,6 +2164,29 @@
       "team_id": "HOU"
     },
     {
+      "filename": "gervon-dexter-sr.php",
+      "fpid": 25246,
+      "mflid": 16265,
+      "name": "Gervon Dexter Sr.",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 22.92,
+        "def_ff": 0.14,
+        "def_fr": 0.09,
+        "def_int": 0.05,
+        "def_pd": 1.28,
+        "def_sack": 3.69,
+        "def_safety": 0,
+        "def_tackle": 44.39,
+        "def_td": 0.04,
+        "def_tlost": 0,
+        "points": 101.87,
+        "points_half": 101.87,
+        "points_ppr": 101.87
+      },
+      "team_id": "CHI"
+    },
+    {
       "filename": "davon-hamilton.php",
       "fpid": 19258,
       "mflid": 14930,
@@ -2208,29 +2208,6 @@
         "points_ppr": 101.85
       },
       "team_id": "JAC"
-    },
-    {
-      "filename": "gervon-dexter-sr.php",
-      "fpid": 25246,
-      "mflid": 16265,
-      "name": "Gervon Dexter Sr.",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 22.92,
-        "def_ff": 0.14,
-        "def_fr": 0.09,
-        "def_int": 0.05,
-        "def_pd": 1.28,
-        "def_sack": 3.68,
-        "def_safety": 0,
-        "def_tackle": 44.39,
-        "def_td": 0.04,
-        "def_tlost": 0,
-        "points": 101.83,
-        "points_half": 101.83,
-        "points_ppr": 101.83
-      },
-      "team_id": "CHI"
     },
     {
       "filename": "derrick-harmon.php",
@@ -2285,14 +2262,14 @@
       "name": "Thomas Booker IV",
       "position_id": "DL",
       "stats": {
-        "def_assist": 23.56,
+        "def_assist": 23.58,
         "def_ff": 0.76,
         "def_fr": 0.5,
         "def_int": 0.04,
         "def_pd": 0.77,
-        "def_sack": 1.9,
+        "def_sack": 1.88,
         "def_safety": 0,
-        "def_tackle": 45.63,
+        "def_tackle": 45.67,
         "def_td": 0.03,
         "def_tlost": 0,
         "points": 100.29,
@@ -2308,19 +2285,19 @@
       "name": "Davon Godchaux",
       "position_id": "DL",
       "stats": {
-        "def_assist": 24.99,
+        "def_assist": 24.97,
         "def_ff": 0.63,
         "def_fr": 0.41,
         "def_int": 0.02,
         "def_pd": 0.47,
         "def_sack": 0.88,
         "def_safety": 0,
-        "def_tackle": 48.41,
+        "def_tackle": 48.37,
         "def_td": 0.03,
         "def_tlost": 0,
-        "points": 100.02,
-        "points_half": 100.02,
-        "points_ppr": 100.02
+        "points": 99.95,
+        "points_half": 99.95,
+        "points_ppr": 99.95
       },
       "team_id": "NO"
     },
@@ -2405,39 +2382,16 @@
         "def_fr": 0.09,
         "def_int": 0.02,
         "def_pd": 0.59,
-        "def_sack": 5.42,
+        "def_sack": 5.43,
         "def_safety": 0,
         "def_tackle": 39.52,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 98.41,
-        "points_half": 98.41,
-        "points_ppr": 98.41
+        "points": 98.45,
+        "points_half": 98.45,
+        "points_ppr": 98.45
       },
       "team_id": "CLE"
-    },
-    {
-      "filename": "rashan-gary.php",
-      "fpid": 18209,
-      "mflid": 14149,
-      "name": "Rashan Gary",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 18.89,
-        "def_ff": 0.97,
-        "def_fr": 0.81,
-        "def_int": 0.03,
-        "def_pd": 0.86,
-        "def_sack": 6.79,
-        "def_safety": 0,
-        "def_tackle": 31.81,
-        "def_td": 0.08,
-        "def_tlost": 0,
-        "points": 98.05,
-        "points_half": 98.05,
-        "points_ppr": 98.05
-      },
-      "team_id": "DAL"
     },
     {
       "filename": "caleb-banks.php",
@@ -2451,37 +2405,37 @@
         "def_fr": 0.3,
         "def_int": 0.09,
         "def_pd": 1.96,
-        "def_sack": 3.01,
+        "def_sack": 3,
         "def_safety": 0,
         "def_tackle": 41.88,
         "def_td": 0.03,
         "def_tlost": 0,
-        "points": 97.69,
-        "points_half": 97.69,
-        "points_ppr": 97.69
+        "points": 97.65,
+        "points_half": 97.65,
+        "points_ppr": 97.65
       },
       "team_id": "MIN"
     },
     {
-      "filename": "malachi-lawrence.php",
-      "fpid": 28203,
-      "mflid": 17580,
-      "name": "Malachi Lawrence",
-      "position_id": "DL",
+      "filename": "rashan-gary.php",
+      "fpid": 18209,
+      "mflid": 14149,
+      "name": "Rashan Gary",
+      "position_id": "LB",
       "stats": {
-        "def_assist": 14.7,
-        "def_ff": 1.04,
-        "def_fr": 0.68,
-        "def_int": 0.16,
-        "def_pd": 2,
-        "def_sack": 5.78,
+        "def_assist": 18.88,
+        "def_ff": 0.97,
+        "def_fr": 0.81,
+        "def_int": 0.03,
+        "def_pd": 0.86,
+        "def_sack": 6.65,
         "def_safety": 0,
-        "def_tackle": 34.73,
+        "def_tackle": 31.8,
         "def_td": 0.08,
         "def_tlost": 0,
-        "points": 97.4,
-        "points_half": 97.4,
-        "points_ppr": 97.4
+        "points": 97.47,
+        "points_half": 97.47,
+        "points_ppr": 97.47
       },
       "team_id": "DAL"
     },
@@ -2515,19 +2469,19 @@
       "name": "Grover Stewart",
       "position_id": "DL",
       "stats": {
-        "def_assist": 23.57,
+        "def_assist": 23.58,
         "def_ff": 0.68,
         "def_fr": 0.44,
         "def_int": 0.01,
         "def_pd": 0.35,
         "def_sack": 1.41,
         "def_safety": 0,
-        "def_tackle": 45.65,
+        "def_tackle": 45.69,
         "def_td": 0.03,
         "def_tlost": 0,
-        "points": 97.03,
-        "points_half": 97.03,
-        "points_ppr": 97.03
+        "points": 97.1,
+        "points_half": 97.1,
+        "points_ppr": 97.1
       },
       "team_id": "IND"
     },
@@ -2578,6 +2532,29 @@
       "team_id": "SEA"
     },
     {
+      "filename": "dayo-odeyingbo.php",
+      "fpid": 22883,
+      "mflid": 15386,
+      "name": "Dayo Odeyingbo",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 15.93,
+        "def_ff": 1.05,
+        "def_fr": 0.69,
+        "def_int": 0.1,
+        "def_pd": 1.41,
+        "def_sack": 4.36,
+        "def_safety": 0,
+        "def_tackle": 37.62,
+        "def_td": 0.1,
+        "def_tlost": 0,
+        "points": 95.99,
+        "points_half": 95.99,
+        "points_ppr": 95.99
+      },
+      "team_id": "CHI"
+    },
+    {
       "filename": "will-mcdonald-iv.php",
       "fpid": 25254,
       "mflid": 16252,
@@ -2594,9 +2571,9 @@
         "def_tackle": 30.1,
         "def_td": 0.11,
         "def_tlost": 0,
-        "points": 95.69,
-        "points_half": 95.69,
-        "points_ppr": 95.69
+        "points": 95.71,
+        "points_half": 95.71,
+        "points_ppr": 95.71
       },
       "team_id": "NYJ"
     },
@@ -2727,14 +2704,14 @@
         "def_fr": 0.16,
         "def_int": 0.02,
         "def_pd": 0.51,
-        "def_sack": 3,
+        "def_sack": 2.99,
         "def_safety": 0,
         "def_tackle": 41.82,
         "def_td": 0.03,
         "def_tlost": 0,
-        "points": 93.57,
-        "points_half": 93.57,
-        "points_ppr": 93.57
+        "points": 93.53,
+        "points_half": 93.53,
+        "points_ppr": 93.53
       },
       "team_id": "CAR"
     },
@@ -2773,14 +2750,14 @@
         "def_fr": 0.22,
         "def_int": 0.04,
         "def_pd": 0.52,
-        "def_sack": 6.72,
+        "def_sack": 6.73,
         "def_safety": 0,
         "def_tackle": 34.05,
         "def_td": 0.09,
         "def_tlost": 0,
-        "points": 92.48,
-        "points_half": 92.48,
-        "points_ppr": 92.48
+        "points": 92.52,
+        "points_half": 92.52,
+        "points_ppr": 92.52
       },
       "team_id": "TEN"
     },
@@ -2831,6 +2808,29 @@
       "team_id": "LAC"
     },
     {
+      "filename": "ashton-gillotte.php",
+      "fpid": 27039,
+      "mflid": 17155,
+      "name": "Ashton Gillotte",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 16.81,
+        "def_ff": 0.53,
+        "def_fr": 0.35,
+        "def_int": 0.1,
+        "def_pd": 1.17,
+        "def_sack": 3.3,
+        "def_safety": 0,
+        "def_tackle": 39.71,
+        "def_td": 0.08,
+        "def_tlost": 0,
+        "points": 91.63,
+        "points_half": 91.63,
+        "points_ppr": 91.63
+      },
+      "team_id": "KC"
+    },
+    {
       "filename": "charles-omenihu.php",
       "fpid": 18284,
       "mflid": 14254,
@@ -2852,29 +2852,6 @@
         "points_ppr": 91.6
       },
       "team_id": "WAS"
-    },
-    {
-      "filename": "ashton-gillotte.php",
-      "fpid": 27039,
-      "mflid": 17155,
-      "name": "Ashton Gillotte",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 16.81,
-        "def_ff": 0.53,
-        "def_fr": 0.35,
-        "def_int": 0.1,
-        "def_pd": 1.17,
-        "def_sack": 3.28,
-        "def_safety": 0,
-        "def_tackle": 39.71,
-        "def_td": 0.08,
-        "def_tlost": 0,
-        "points": 91.55,
-        "points_half": 91.55,
-        "points_ppr": 91.55
-      },
-      "team_id": "KC"
     },
     {
       "filename": "alim-mcneill.php",
@@ -2911,39 +2888,16 @@
         "def_fr": 0.83,
         "def_int": 0.11,
         "def_pd": 1.25,
-        "def_sack": 4.68,
+        "def_sack": 4.69,
         "def_safety": 0,
         "def_tackle": 33.25,
         "def_td": 0.07,
         "def_tlost": 0,
-        "points": 90.43,
-        "points_half": 90.43,
-        "points_ppr": 90.43
+        "points": 90.47,
+        "points_half": 90.47,
+        "points_ppr": 90.47
       },
       "team_id": "NYJ"
-    },
-    {
-      "filename": "kenny-clark.php",
-      "fpid": 15535,
-      "mflid": 12739,
-      "name": "Kenny Clark",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 19.44,
-        "def_ff": 0.16,
-        "def_fr": 0.1,
-        "def_int": 0.03,
-        "def_pd": 0.73,
-        "def_sack": 4.03,
-        "def_safety": 0,
-        "def_tackle": 37.66,
-        "def_td": 0.04,
-        "def_tlost": 0,
-        "points": 89.72,
-        "points_half": 89.72,
-        "points_ppr": 89.72
-      },
-      "team_id": "DAL"
     },
     {
       "filename": "christen-miller.php",
@@ -2952,21 +2906,44 @@
       "name": "Christen Miller",
       "position_id": "DL",
       "stats": {
-        "def_assist": 20.4,
+        "def_assist": 20.38,
         "def_ff": 0.28,
         "def_fr": 0.18,
         "def_int": 0.07,
         "def_pd": 1.65,
-        "def_sack": 2.42,
+        "def_sack": 2.43,
         "def_safety": 0,
-        "def_tackle": 39.51,
+        "def_tackle": 39.48,
         "def_td": 0.03,
         "def_tlost": 0,
-        "points": 89.09,
-        "points_half": 89.09,
-        "points_ppr": 89.09
+        "points": 89.07,
+        "points_half": 89.07,
+        "points_ppr": 89.07
       },
       "team_id": "NO"
+    },
+    {
+      "filename": "kenny-clark.php",
+      "fpid": 15535,
+      "mflid": 12739,
+      "name": "Kenny Clark",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 19.42,
+        "def_ff": 0.16,
+        "def_fr": 0.1,
+        "def_int": 0.03,
+        "def_pd": 0.73,
+        "def_sack": 3.85,
+        "def_safety": 0,
+        "def_tackle": 37.63,
+        "def_td": 0.04,
+        "def_tlost": 0,
+        "points": 88.94,
+        "points_half": 88.94,
+        "points_ppr": 88.94
+      },
+      "team_id": "DAL"
     },
     {
       "filename": "calijah-kancey.php",
@@ -2998,19 +2975,19 @@
       "name": "Arden Key",
       "position_id": "DL",
       "stats": {
-        "def_assist": 12.53,
+        "def_assist": 12.54,
         "def_ff": 0.75,
-        "def_fr": 0.48,
+        "def_fr": 0.49,
         "def_int": 0.1,
         "def_pd": 1.34,
-        "def_sack": 6.72,
+        "def_sack": 6.71,
         "def_safety": 0,
-        "def_tackle": 29.6,
+        "def_tackle": 29.62,
         "def_td": 0.08,
         "def_tlost": 0,
-        "points": 88.59,
-        "points_half": 88.59,
-        "points_ppr": 88.59
+        "points": 88.63,
+        "points_half": 88.63,
+        "points_ppr": 88.63
       },
       "team_id": "IND"
     },
@@ -3049,14 +3026,14 @@
         "def_fr": 1.07,
         "def_int": 0.08,
         "def_pd": 1.02,
-        "def_sack": 5.24,
+        "def_sack": 5.25,
         "def_safety": 0,
         "def_tackle": 29.47,
         "def_td": 0.08,
         "def_tlost": 0,
-        "points": 87.78,
-        "points_half": 87.78,
-        "points_ppr": 87.78
+        "points": 87.82,
+        "points_half": 87.82,
+        "points_ppr": 87.82
       },
       "team_id": "WAS"
     },
@@ -3113,19 +3090,19 @@
       "name": "Dexter Lawrence II",
       "position_id": "DL",
       "stats": {
-        "def_assist": 19.17,
+        "def_assist": 19.18,
         "def_ff": 0.16,
         "def_fr": 0.11,
         "def_int": 0,
         "def_pd": 0.11,
-        "def_sack": 3.84,
+        "def_sack": 3.83,
         "def_safety": 0,
-        "def_tackle": 37.13,
+        "def_tackle": 37.16,
         "def_td": 0.04,
         "def_tlost": 0,
-        "points": 86.92,
-        "points_half": 86.92,
-        "points_ppr": 86.92
+        "points": 86.93,
+        "points_half": 86.93,
+        "points_ppr": 86.93
       },
       "team_id": "CIN"
     },
@@ -3279,14 +3256,14 @@
         "def_fr": 0.42,
         "def_int": 0.14,
         "def_pd": 1.7,
-        "def_sack": 4,
+        "def_sack": 4.02,
         "def_safety": 0,
         "def_tackle": 33.14,
         "def_td": 0.07,
         "def_tlost": 0,
-        "points": 84.14,
-        "points_half": 84.14,
-        "points_ppr": 84.14
+        "points": 84.22,
+        "points_half": 84.22,
+        "points_ppr": 84.22
       },
       "team_id": "KC"
     },
@@ -3389,19 +3366,19 @@
       "name": "Kwity Paye",
       "position_id": "DL",
       "stats": {
-        "def_assist": 14.14,
+        "def_assist": 14.15,
         "def_ff": 0.34,
         "def_fr": 0.22,
         "def_int": 0.16,
         "def_pd": 1.55,
-        "def_sack": 3.69,
+        "def_sack": 3.65,
         "def_safety": 0,
-        "def_tackle": 33.39,
+        "def_tackle": 33.42,
         "def_td": 0.08,
         "def_tlost": 0,
-        "points": 81.3,
-        "points_half": 81.3,
-        "points_ppr": 81.3
+        "points": 81.19,
+        "points_half": 81.19,
+        "points_ppr": 81.19
       },
       "team_id": "LV"
     },
@@ -3417,14 +3394,14 @@
         "def_fr": 0.46,
         "def_int": 0.03,
         "def_pd": 0.62,
-        "def_sack": 1.55,
+        "def_sack": 1.56,
         "def_safety": 0,
         "def_tackle": 36.53,
         "def_td": 0.03,
         "def_tlost": 0,
-        "points": 81.04,
-        "points_half": 81.04,
-        "points_ppr": 81.04
+        "points": 81.08,
+        "points_half": 81.08,
+        "points_ppr": 81.08
       },
       "team_id": "WAS"
     },
@@ -3496,29 +3473,6 @@
         "points_ppr": 80.64
       },
       "team_id": "TEN"
-    },
-    {
-      "filename": "felix-anudike-uzomah.php",
-      "fpid": 25244,
-      "mflid": 16257,
-      "name": "Felix Anudike-Uzomah",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 13.59,
-        "def_ff": 1.05,
-        "def_fr": 0.68,
-        "def_int": 0.09,
-        "def_pd": 1.07,
-        "def_sack": 3.2,
-        "def_safety": 0,
-        "def_tackle": 32.1,
-        "def_td": 0.06,
-        "def_tlost": 0,
-        "points": 80.48,
-        "points_half": 80.48,
-        "points_ppr": 80.48
-      },
-      "team_id": "KC"
     },
     {
       "filename": "baron-browning.php",
@@ -3657,6 +3611,29 @@
         "points_ppr": 78.42
       },
       "team_id": "ARI"
+    },
+    {
+      "filename": "malachi-lawrence.php",
+      "fpid": 28203,
+      "mflid": 17580,
+      "name": "Malachi Lawrence",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 11.88,
+        "def_ff": 0.84,
+        "def_fr": 0.55,
+        "def_int": 0.13,
+        "def_pd": 1.61,
+        "def_sack": 4.46,
+        "def_safety": 0,
+        "def_tackle": 28.05,
+        "def_td": 0.06,
+        "def_tlost": 0,
+        "points": 77.81,
+        "points_half": 77.81,
+        "points_ppr": 77.81
+      },
+      "team_id": "DAL"
     },
     {
       "filename": "clelin-ferrell.php",
@@ -3843,6 +3820,29 @@
       "team_id": "NYG"
     },
     {
+      "filename": "khyiris-tonga.php",
+      "fpid": 22767,
+      "mflid": 15492,
+      "name": "Khyiris Tonga",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 18.12,
+        "def_ff": 0.15,
+        "def_fr": 0.1,
+        "def_int": 0,
+        "def_pd": 0.07,
+        "def_sack": 1.48,
+        "def_safety": 0,
+        "def_tackle": 35.11,
+        "def_td": 0.02,
+        "def_tlost": 0,
+        "points": 73.4,
+        "points_half": 73.4,
+        "points_ppr": 73.4
+      },
+      "team_id": "KC"
+    },
+    {
       "filename": "kenneth-grant.php",
       "fpid": 27025,
       "mflid": 17138,
@@ -3864,29 +3864,6 @@
         "points_ppr": 73.38
       },
       "team_id": "MIA"
-    },
-    {
-      "filename": "khyiris-tonga.php",
-      "fpid": 22767,
-      "mflid": 15492,
-      "name": "Khyiris Tonga",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 18.12,
-        "def_ff": 0.15,
-        "def_fr": 0.1,
-        "def_int": 0,
-        "def_pd": 0.07,
-        "def_sack": 1.47,
-        "def_safety": 0,
-        "def_tackle": 35.11,
-        "def_td": 0.02,
-        "def_tlost": 0,
-        "points": 73.36,
-        "points_half": 73.36,
-        "points_ppr": 73.36
-      },
-      "team_id": "KC"
     },
     {
       "filename": "alfred-collins.php",
@@ -3941,19 +3918,19 @@
       "name": "Cameron Jordan",
       "position_id": "DL",
       "stats": {
-        "def_assist": 11.64,
-        "def_ff": 0.89,
+        "def_assist": 11.63,
+        "def_ff": 0.88,
         "def_fr": 0.58,
         "def_int": 0.07,
         "def_pd": 0.91,
-        "def_sack": 3.55,
+        "def_sack": 3.56,
         "def_safety": 0,
-        "def_tackle": 27.49,
+        "def_tackle": 27.47,
         "def_td": 0.05,
         "def_tlost": 0,
-        "points": 72.06,
-        "points_half": 72.06,
-        "points_ppr": 72.06
+        "points": 72.02,
+        "points_half": 72.02,
+        "points_ppr": 72.02
       },
       "team_id": "NO"
     },
@@ -3969,14 +3946,14 @@
         "def_fr": 0.22,
         "def_int": 0.06,
         "def_pd": 1.42,
-        "def_sack": 2.33,
+        "def_sack": 2.34,
         "def_safety": 0,
         "def_tackle": 30.31,
         "def_td": 0.02,
         "def_tlost": 0,
-        "points": 71.27,
-        "points_half": 71.27,
-        "points_ppr": 71.27
+        "points": 71.31,
+        "points_half": 71.31,
+        "points_ppr": 71.31
       },
       "team_id": "KC"
     },
@@ -4010,19 +3987,19 @@
       "name": "Jonathan Bullard",
       "position_id": "DL",
       "stats": {
-        "def_assist": 17.85,
+        "def_assist": 17.83,
         "def_ff": 0.25,
         "def_fr": 0.16,
         "def_int": 0.02,
         "def_pd": 0.53,
-        "def_sack": 0.79,
+        "def_sack": 0.76,
         "def_safety": 0,
-        "def_tackle": 34.57,
+        "def_tackle": 34.55,
         "def_td": 0.02,
         "def_tlost": 0,
-        "points": 71.06,
-        "points_half": 71.06,
-        "points_ppr": 71.06
+        "points": 70.89,
+        "points_half": 70.89,
+        "points_ppr": 70.89
       },
       "team_id": "DAL"
     },
@@ -4033,19 +4010,19 @@
       "name": "Shemar Stewart",
       "position_id": "DL",
       "stats": {
-        "def_assist": 12.32,
+        "def_assist": 12.34,
         "def_ff": 0.64,
         "def_fr": 0.42,
         "def_int": 0.02,
-        "def_pd": 0.27,
+        "def_pd": 0.28,
         "def_sack": 3.16,
         "def_safety": 0,
-        "def_tackle": 29.12,
+        "def_tackle": 29.14,
         "def_td": 0.07,
         "def_tlost": 0,
-        "points": 70.73,
-        "points_half": 70.73,
-        "points_ppr": 70.73
+        "points": 70.79,
+        "points_half": 70.79,
+        "points_ppr": 70.79
       },
       "team_id": "CIN"
     },
@@ -4107,14 +4084,14 @@
         "def_fr": 0.42,
         "def_int": 0.06,
         "def_pd": 0.63,
-        "def_sack": 2.32,
+        "def_sack": 2.31,
         "def_safety": 0,
         "def_tackle": 29.69,
         "def_td": 0.07,
         "def_tlost": 0,
-        "points": 69.19,
-        "points_half": 69.19,
-        "points_ppr": 69.19
+        "points": 69.15,
+        "points_half": 69.15,
+        "points_ppr": 69.15
       },
       "team_id": "MIN"
     },
@@ -4257,25 +4234,48 @@
       "team_id": "TEN"
     },
     {
+      "filename": "von-miller.php",
+      "fpid": 9863,
+      "mflid": 10267,
+      "name": "Von Miller",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 8.84,
+        "def_ff": 0.27,
+        "def_fr": 0.18,
+        "def_int": 0.05,
+        "def_pd": 0.6,
+        "def_sack": 5.54,
+        "def_safety": 0,
+        "def_tackle": 20.89,
+        "def_td": 0.05,
+        "def_tlost": 0,
+        "points": 63.38,
+        "points_half": 63.38,
+        "points_ppr": 63.38
+      },
+      "team_id": "DAL"
+    },
+    {
       "filename": "adetomiwa-adebawore.php",
       "fpid": 25252,
       "mflid": 16291,
       "name": "Adetomiwa Adebawore",
       "position_id": "DL",
       "stats": {
-        "def_assist": 13.64,
+        "def_assist": 13.65,
         "def_ff": 0.13,
         "def_fr": 0.09,
         "def_int": 0.03,
         "def_pd": 0.89,
         "def_sack": 2.71,
         "def_safety": 0,
-        "def_tackle": 26.42,
+        "def_tackle": 26.44,
         "def_td": 0.02,
         "def_tlost": 0,
-        "points": 63.19,
-        "points_half": 63.19,
-        "points_ppr": 63.19
+        "points": 63.22,
+        "points_half": 63.22,
+        "points_ppr": 63.22
       },
       "team_id": "IND"
     },
@@ -4355,19 +4355,19 @@
       "name": "Micheal Clemons",
       "position_id": "DL",
       "stats": {
-        "def_assist": 10.81,
+        "def_assist": 10.82,
         "def_ff": 0.46,
         "def_fr": 0.3,
         "def_int": 0.03,
         "def_pd": 0.35,
         "def_sack": 2.96,
         "def_safety": 0,
-        "def_tackle": 25.53,
+        "def_tackle": 25.55,
         "def_td": 0.08,
         "def_tlost": 0,
-        "points": 62.44,
-        "points_half": 62.44,
-        "points_ppr": 62.44
+        "points": 62.48,
+        "points_half": 62.48,
+        "points_ppr": 62.48
       },
       "team_id": "IND"
     },
@@ -4439,6 +4439,29 @@
         "points_ppr": 60.99
       },
       "team_id": "NYJ"
+    },
+    {
+      "filename": "felix-anudike-uzomah.php",
+      "fpid": 25244,
+      "mflid": 16257,
+      "name": "Felix Anudike-Uzomah",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 10.19,
+        "def_ff": 0.79,
+        "def_fr": 0.51,
+        "def_int": 0.07,
+        "def_pd": 0.8,
+        "def_sack": 2.41,
+        "def_safety": 0,
+        "def_tackle": 24.08,
+        "def_td": 0.05,
+        "def_tlost": 0,
+        "points": 60.45,
+        "points_half": 60.45,
+        "points_ppr": 60.45
+      },
+      "team_id": "KC"
     },
     {
       "filename": "cameron-goode.php",
@@ -4539,19 +4562,19 @@
       "name": "Malcolm Koonce",
       "position_id": "DL",
       "stats": {
-        "def_assist": 8.45,
+        "def_assist": 8.46,
         "def_ff": 0.76,
         "def_fr": 0.49,
         "def_int": 0.06,
         "def_pd": 0.62,
-        "def_sack": 3.44,
+        "def_sack": 3.4,
         "def_safety": 0,
-        "def_tackle": 19.97,
+        "def_tackle": 19.99,
         "def_td": 0.05,
         "def_tlost": 0,
-        "points": 56.58,
-        "points_half": 56.58,
-        "points_ppr": 56.58
+        "points": 56.46,
+        "points_half": 56.46,
+        "points_ppr": 56.46
       },
       "team_id": "LV"
     },
@@ -4602,29 +4625,6 @@
       "team_id": "GB"
     },
     {
-      "filename": "cashius-howell.php",
-      "fpid": 28017,
-      "mflid": 17552,
-      "name": "Cashius Howell",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 8.76,
-        "def_ff": 0.4,
-        "def_fr": 0.26,
-        "def_int": 0.08,
-        "def_pd": 1.06,
-        "def_sack": 2.93,
-        "def_safety": 0,
-        "def_tackle": 20.69,
-        "def_td": 0.04,
-        "def_tlost": 0,
-        "points": 54.2,
-        "points_half": 54.2,
-        "points_ppr": 54.2
-      },
-      "team_id": "CIN"
-    },
-    {
       "filename": "jaishawn-barham.php",
       "fpid": 28200,
       "mflid": 17606,
@@ -4636,14 +4636,14 @@
         "def_fr": 0.06,
         "def_int": 0.1,
         "def_pd": 0.58,
-        "def_sack": 0.24,
+        "def_sack": 0.23,
         "def_safety": 0,
-        "def_tackle": 14.39,
-        "def_td": 0.02,
+        "def_tackle": 14.37,
+        "def_td": 0.01,
         "def_tlost": 0,
-        "points": 29.41,
-        "points_half": 29.41,
-        "points_ppr": 29.41
+        "points": 29.28,
+        "points_half": 29.28,
+        "points_ppr": 29.28
       },
       "team_id": "DAL"
     }

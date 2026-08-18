@@ -1307,31 +1307,6 @@
   {
     "active": true,
     "aliases": [
-      "Cash Jones"
-    ],
-    "avi_id": "AVI-00013595",
-    "canonical_name": "Cash Jones",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "ATL",
-    "normalized_name": "cash jones",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 28149,
-      "fantasypros_id": "28124",
-      "nfl_id": null,
-      "rotowire_id": 19649,
-      "sleeper_id": "13595",
-      "sportradar_id": "bf110080-418e-11f1-8233-2d15b9a7b86c",
-      "sportsdata_player_id": "bf110080-418e-11f1-8233-2d15b9a7b86c"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Cedric Tillman"
     ],
     "avi_id": "AVI-00010444",
@@ -2385,32 +2360,6 @@
   {
     "active": true,
     "aliases": [
-      "David Sills",
-      "David Sills V"
-    ],
-    "avi_id": "AVI-00006154",
-    "canonical_name": "David Sills",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "TB",
-    "normalized_name": "david sills",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": 3871102,
-      "fantasy_data_id": 20939,
-      "fantasypros_id": "18566",
-      "nfl_id": "2562732",
-      "rotowire_id": 13634,
-      "sleeper_id": "6154",
-      "sportradar_id": "97f6c20c-1110-4551-82c1-41d3247397a2",
-      "sportsdata_player_id": "97f6c20c-1110-4551-82c1-41d3247397a2"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Dawson Knox"
     ],
     "avi_id": "AVI-00005906",
@@ -2888,31 +2837,6 @@
   {
     "active": true,
     "aliases": [
-      "Dontae McMillan"
-    ],
-    "avi_id": "AVI-00013852",
-    "canonical_name": "Dontae McMillan",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "BAL",
-    "normalized_name": "dontae mcmillan",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26813,
-      "fantasypros_id": "28717",
-      "nfl_id": null,
-      "rotowire_id": 19937,
-      "sleeper_id": "13852",
-      "sportradar_id": "e908cf50-431c-11f1-a29d-11fb11746e9d",
-      "sportsdata_player_id": "e908cf50-431c-11f1-a29d-11fb11746e9d"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Dontayvion Wicks"
     ],
     "avi_id": "AVI-00009486",
@@ -2983,31 +2907,6 @@
       "sleeper_id": "11564",
       "sportradar_id": "d0c0630e-8925-4b81-a32b-e4146d95f01f",
       "sportsdata_player_id": "d0c0630e-8925-4b81-a32b-e4146d95f01f"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Durham Smythe"
-    ],
-    "avi_id": "AVI-00005008",
-    "canonical_name": "Durham Smythe",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "BAL",
-    "normalized_name": "durham smythe",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": 3052897,
-      "fantasy_data_id": 19943,
-      "fantasypros_id": "17508",
-      "nfl_id": "2560880",
-      "rotowire_id": 12807,
-      "sleeper_id": "5008",
-      "sportradar_id": "7e42a22a-c47b-4387-aeeb-2cc2e76dc1d8",
-      "sportsdata_player_id": "7e42a22a-c47b-4387-aeeb-2cc2e76dc1d8"
     }
   },
   {
@@ -3233,6 +3132,31 @@
       "sleeper_id": "10231",
       "sportradar_id": "a01b7698-d67f-4b60-b2fb-4c667336b718",
       "sportsdata_player_id": "a01b7698-d67f-4b60-b2fb-4c667336b718"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Elijah Mitchell"
+    ],
+    "avi_id": "AVI-00007561",
+    "canonical_name": "Elijah Mitchell",
+    "match": {
+      "confidence": "review",
+      "method": "exact_name_position"
+    },
+    "nfl_team": "FA",
+    "normalized_name": "elijah mitchell",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 22535,
+      "fantasypros_id": "22813",
+      "nfl_id": "2566538",
+      "rotowire_id": 15379,
+      "sleeper_id": "7561",
+      "sportradar_id": "8ba68abf-e9d2-4927-bf8d-476f271d840c",
+      "sportsdata_player_id": "8ba68abf-e9d2-4927-bf8d-476f271d840c"
     }
   },
   {
@@ -3485,32 +3409,6 @@
       "sleeper_id": "11573",
       "sportradar_id": "cd4c8e90-06f7-11ef-a3ab-0317e25dec4e",
       "sportsdata_player_id": "cd4c8e90-06f7-11ef-a3ab-0317e25dec4e"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Gardner Minshew",
-      "Gardner Minshew II"
-    ],
-    "avi_id": "AVI-00006011",
-    "canonical_name": "Gardner Minshew",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "ARI",
-    "normalized_name": "gardner minshew",
-    "position": "QB",
-    "source_ids": {
-      "espn_id": 4038524,
-      "fantasy_data_id": 20880,
-      "fantasypros_id": "18562",
-      "nfl_id": "2562796",
-      "rotowire_id": 13741,
-      "sleeper_id": "6011",
-      "sportradar_id": "dabb52c0-455b-48fe-996b-abf758120623",
-      "sportsdata_player_id": "dabb52c0-455b-48fe-996b-abf758120623"
     }
   },
   {
@@ -4137,6 +4035,31 @@
       "sleeper_id": "12658",
       "sportradar_id": "87304bcd-83f1-4e59-b9cb-6474f7e0dc01",
       "sportsdata_player_id": "87304bcd-83f1-4e59-b9cb-6474f7e0dc01"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Jacob Cowing"
+    ],
+    "avi_id": "AVI-00011616",
+    "canonical_name": "Jacob Cowing",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "SF",
+    "normalized_name": "jacob cowing",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24981,
+      "fantasypros_id": "25289",
+      "nfl_id": "2572492",
+      "rotowire_id": 17008,
+      "sleeper_id": "11616",
+      "sportradar_id": "9c145f4f-c9b1-4c2c-b011-8dc40167d0f1",
+      "sportsdata_player_id": "9c145f4f-c9b1-4c2c-b011-8dc40167d0f1"
     }
   },
   {
@@ -6204,7 +6127,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "LAC",
+    "nfl_team": "IND",
     "normalized_name": "keenan allen",
     "position": "WR",
     "source_ids": {
@@ -6745,31 +6668,6 @@
       "sleeper_id": "12544",
       "sportradar_id": "14aedd06-41a6-41db-8c5e-05483f91570d",
       "sportsdata_player_id": "14aedd06-41a6-41db-8c5e-05483f91570d"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Lil'Jordan Humphrey"
-    ],
-    "avi_id": "AVI-00005938",
-    "canonical_name": "Lil'Jordan Humphrey",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "DEN",
-    "normalized_name": "lil jordan humphrey",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": 4039057,
-      "fantasy_data_id": 20816,
-      "fantasypros_id": "18590",
-      "nfl_id": "2562668",
-      "rotowire_id": 13565,
-      "sleeper_id": "5938",
-      "sportradar_id": "b7f930af-ddd2-4a48-9617-96bda81b0334",
-      "sportsdata_player_id": "b7f930af-ddd2-4a48-9617-96bda81b0334"
     }
   },
   {
@@ -7531,31 +7429,6 @@
   {
     "active": true,
     "aliases": [
-      "Michael Trigg"
-    ],
-    "avi_id": "AVI-00013401",
-    "canonical_name": "Michael Trigg",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "DAL",
-    "normalized_name": "michael trigg",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 28066,
-      "fantasypros_id": "23167",
-      "nfl_id": null,
-      "rotowire_id": 19346,
-      "sleeper_id": "13401",
-      "sportradar_id": "6bff41b0-4191-11f1-9de2-13456d982f5a",
-      "sportsdata_player_id": "6bff41b0-4191-11f1-9de2-13456d982f5a"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Michael Wilson"
     ],
     "avi_id": "AVI-00010232",
@@ -7703,6 +7576,31 @@
       "sleeper_id": "14044",
       "sportradar_id": "c96287f0-52fc-11f1-a622-273ccf657a59",
       "sportsdata_player_id": "c96287f0-52fc-11f1-a622-273ccf657a59"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Miles Sanders"
+    ],
+    "avi_id": "AVI-00006151",
+    "canonical_name": "Miles Sanders",
+    "match": {
+      "confidence": "review",
+      "method": "exact_name_position"
+    },
+    "nfl_team": "FA",
+    "normalized_name": "miles sanders",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": 4045163,
+      "fantasy_data_id": 20933,
+      "fantasypros_id": "18283",
+      "nfl_id": "2562722",
+      "rotowire_id": 13521,
+      "sleeper_id": "6151",
+      "sportradar_id": "ef3ceaf4-b733-4e06-a7f4-a94fc67361c1",
+      "sportsdata_player_id": "ef3ceaf4-b733-4e06-a7f4-a94fc67361c1"
     }
   },
   {
@@ -8003,6 +7901,31 @@
       "sleeper_id": "7828",
       "sportradar_id": "c97dfcb6-b999-476f-8487-f3848e92df17",
       "sportsdata_player_id": "c97dfcb6-b999-476f-8487-f3848e92df17"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Noah Whittington"
+    ],
+    "avi_id": "AVI-00013437",
+    "canonical_name": "Noah Whittington",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "HOU",
+    "normalized_name": "noah whittington",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26830,
+      "fantasypros_id": "28115",
+      "nfl_id": null,
+      "rotowire_id": 19305,
+      "sleeper_id": "13437",
+      "sportradar_id": "e656bff0-4322-11f1-a39d-09ec94a91f1f",
+      "sportsdata_player_id": "e656bff0-4322-11f1-a39d-09ec94a91f1f"
     }
   },
   {
@@ -8764,6 +8687,31 @@
   {
     "active": true,
     "aliases": [
+      "Roman Hemby"
+    ],
+    "avi_id": "AVI-00013416",
+    "canonical_name": "Roman Hemby",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "LVR",
+    "normalized_name": "roman hemby",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25028,
+      "fantasypros_id": "25387",
+      "nfl_id": null,
+      "rotowire_id": 19304,
+      "sleeper_id": "13416",
+      "sportradar_id": "f5d02460-4194-11f1-b42b-111a688b2d6a",
+      "sportsdata_player_id": "f5d02460-4194-11f1-b42b-111a688b2d6a"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Roman Wilson"
     ],
     "avi_id": "AVI-00011630",
@@ -8834,6 +8782,31 @@
       "sleeper_id": "8121",
       "sportradar_id": "5f559fde-3a5f-4df6-99a2-cd1a4b103c68",
       "sportsdata_player_id": "5f559fde-3a5f-4df6-99a2-cd1a4b103c68"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Ronnie Rivers"
+    ],
+    "avi_id": "AVI-00008195",
+    "canonical_name": "Ronnie Rivers",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "LAR",
+    "normalized_name": "ronnie rivers",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 22547,
+      "fantasypros_id": "23986",
+      "nfl_id": "2569185",
+      "rotowire_id": 16108,
+      "sleeper_id": "8195",
+      "sportradar_id": "246db560-cb4e-11ec-a667-6354702e3fca",
+      "sportsdata_player_id": "246db560-cb4e-11ec-a667-6354702e3fca"
     }
   },
   {
@@ -9014,6 +8987,31 @@
   {
     "active": true,
     "aliases": [
+      "Scotty Miller"
+    ],
+    "avi_id": "AVI-00006290",
+    "canonical_name": "Scotty Miller",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "CHI",
+    "normalized_name": "scotty miller",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": 3914397,
+      "fantasy_data_id": 21138,
+      "fantasypros_id": "18714",
+      "nfl_id": "2562865",
+      "rotowire_id": 13987,
+      "sleeper_id": "6290",
+      "sportradar_id": "85e18d5f-8a3f-4b6c-88fe-dfdaaed5554e",
+      "sportsdata_player_id": "85e18d5f-8a3f-4b6c-88fe-dfdaaed5554e"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Sean Tucker"
     ],
     "avi_id": "AVI-00009506",
@@ -9084,31 +9082,6 @@
       "sleeper_id": "12524",
       "sportradar_id": "270e09bc-8bf8-44b0-87ed-1fd014de4ab7",
       "sportsdata_player_id": "270e09bc-8bf8-44b0-87ed-1fd014de4ab7"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Sincere McCormick"
-    ],
-    "avi_id": "AVI-00008220",
-    "canonical_name": "Sincere McCormick",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "SF",
-    "normalized_name": "sincere mccormick",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 23199,
-      "fantasypros_id": "23172",
-      "nfl_id": "2568984",
-      "rotowire_id": 16107,
-      "sleeper_id": "8220",
-      "sportradar_id": "2e808f70-d3a3-11ec-96a0-c3471a31202c",
-      "sportsdata_player_id": "2e808f70-d3a3-11ec-96a0-c3471a31202c"
     }
   },
   {
@@ -10443,32 +10416,6 @@
   {
     "active": true,
     "aliases": [
-      "Velus Jones",
-      "Velus Jones Jr."
-    ],
-    "avi_id": "AVI-00008223",
-    "canonical_name": "Velus Jones",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "SEA",
-    "normalized_name": "velus jones",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 23481,
-      "fantasypros_id": "24214",
-      "nfl_id": "2567409",
-      "rotowire_id": 15846,
-      "sleeper_id": "8223",
-      "sportradar_id": "318b263d-8910-4e46-afe3-5860092ab260",
-      "sportsdata_player_id": "318b263d-8910-4e46-afe3-5860092ab260"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Wan'Dale Robinson"
     ],
     "avi_id": "AVI-00008126",
@@ -10489,31 +10436,6 @@
       "sleeper_id": "8126",
       "sportradar_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05",
       "sportsdata_player_id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Will Kacmarek"
-    ],
-    "avi_id": "AVI-00013434",
-    "canonical_name": "Will Kacmarek",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "MIA",
-    "normalized_name": "will kacmarek",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26978,
-      "fantasypros_id": "28403",
-      "nfl_id": null,
-      "rotowire_id": 19450,
-      "sleeper_id": "13434",
-      "sportradar_id": "8f405d6d-46dd-4f4e-b6cf-52379cd9bb54",
-      "sportsdata_player_id": "8f405d6d-46dd-4f4e-b6cf-52379cd9bb54"
     }
   },
   {

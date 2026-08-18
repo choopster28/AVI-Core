@@ -10,10 +10,10 @@
       "stats": {
         "fg": 35.16,
         "fga": 39.55,
-        "points": 152.98,
-        "points_half": 152.98,
-        "points_ppr": 152.98,
-        "xpt": 47.5
+        "points": 153.03,
+        "points_half": 153.03,
+        "points_ppr": 153.03,
+        "xpt": 47.55
       },
       "team_id": "DAL"
     },
@@ -42,10 +42,10 @@
       "stats": {
         "fg": 36.3,
         "fga": 40.46,
-        "points": 143.96,
-        "points_half": 143.96,
-        "points_ppr": 143.96,
-        "xpt": 35.06
+        "points": 144.06,
+        "points_half": 144.06,
+        "points_ppr": 144.06,
+        "xpt": 35.16
       },
       "team_id": "HOU"
     },
@@ -58,10 +58,10 @@
       "stats": {
         "fg": 34.65,
         "fga": 38.27,
-        "points": 143.62,
-        "points_half": 143.62,
-        "points_ppr": 143.62,
-        "xpt": 39.67
+        "points": 143.72,
+        "points_half": 143.72,
+        "points_ppr": 143.72,
+        "xpt": 39.77
       },
       "team_id": "LAC"
     },
@@ -90,10 +90,10 @@
       "stats": {
         "fg": 28.28,
         "fga": 33.81,
-        "points": 135.91,
-        "points_half": 135.91,
-        "points_ppr": 135.91,
-        "xpt": 51.08
+        "points": 135.86,
+        "points_half": 135.86,
+        "points_ppr": 135.86,
+        "xpt": 51.03
       },
       "team_id": "DET"
     },
@@ -122,10 +122,10 @@
       "stats": {
         "fg": 29.99,
         "fga": 34.49,
-        "points": 133.35,
-        "points_half": 133.35,
-        "points_ppr": 133.35,
-        "xpt": 43.38
+        "points": 133.31,
+        "points_half": 133.31,
+        "points_ppr": 133.31,
+        "xpt": 43.34
       },
       "team_id": "CHI"
     },
@@ -138,10 +138,10 @@
       "stats": {
         "fg": 31.52,
         "fga": 36.49,
-        "points": 132.94,
-        "points_half": 132.94,
-        "points_ppr": 132.94,
-        "xpt": 38.37
+        "points": 132.86,
+        "points_half": 132.86,
+        "points_ppr": 132.86,
+        "xpt": 38.29
       },
       "team_id": "TB"
     },
@@ -170,10 +170,10 @@
       "stats": {
         "fg": 28.43,
         "fga": 32.48,
-        "points": 132,
-        "points_half": 132,
-        "points_ppr": 132,
-        "xpt": 46.72
+        "points": 132.05,
+        "points_half": 132.05,
+        "points_ppr": 132.05,
+        "xpt": 46.77
       },
       "team_id": "BAL"
     },
@@ -186,10 +186,10 @@
       "stats": {
         "fg": 31.28,
         "fga": 36.56,
-        "points": 131.76,
-        "points_half": 131.76,
-        "points_ppr": 131.76,
-        "xpt": 37.93
+        "points": 131.94,
+        "points_half": 131.94,
+        "points_ppr": 131.94,
+        "xpt": 38.11
       },
       "team_id": "KC"
     },
@@ -202,10 +202,10 @@
       "stats": {
         "fg": 29.11,
         "fga": 32.45,
-        "points": 131.38,
-        "points_half": 131.38,
-        "points_ppr": 131.38,
-        "xpt": 44.05
+        "points": 131.47,
+        "points_half": 131.47,
+        "points_ppr": 131.47,
+        "xpt": 44.14
       },
       "team_id": "JAC"
     },
@@ -250,10 +250,10 @@
       "stats": {
         "fg": 30.01,
         "fga": 32.82,
-        "points": 128.61,
-        "points_half": 128.61,
-        "points_ppr": 128.61,
-        "xpt": 38.58
+        "points": 128.57,
+        "points_half": 128.57,
+        "points_ppr": 128.57,
+        "xpt": 38.54
       },
       "team_id": "ATL"
     },
@@ -266,10 +266,10 @@
       "stats": {
         "fg": 28.99,
         "fga": 33.67,
-        "points": 128.41,
-        "points_half": 128.41,
-        "points_ppr": 128.41,
-        "xpt": 41.45
+        "points": 128.5,
+        "points_half": 128.5,
+        "points_ppr": 128.5,
+        "xpt": 41.54
       },
       "team_id": "DEN"
     },
@@ -282,10 +282,10 @@
       "stats": {
         "fg": 28.93,
         "fga": 34.13,
-        "points": 126.94,
-        "points_half": 126.94,
-        "points_ppr": 126.94,
-        "xpt": 40.16
+        "points": 126.85,
+        "points_half": 126.85,
+        "points_ppr": 126.85,
+        "xpt": 40.07
       },
       "team_id": "GB"
     },
@@ -298,10 +298,10 @@
       "stats": {
         "fg": 25.61,
         "fga": 30.87,
-        "points": 123.53,
-        "points_half": 123.53,
-        "points_ppr": 123.53,
-        "xpt": 46.7
+        "points": 123.58,
+        "points_half": 123.58,
+        "points_ppr": 123.58,
+        "xpt": 46.75
       },
       "team_id": "BUF"
     },
@@ -314,10 +314,10 @@
       "stats": {
         "fg": 29.55,
         "fga": 35.01,
-        "points": 122.91,
-        "points_half": 122.91,
-        "points_ppr": 122.91,
-        "xpt": 34.27
+        "points": 123,
+        "points_half": 123,
+        "points_ppr": 123,
+        "xpt": 34.36
       },
       "team_id": "NO"
     },
@@ -328,12 +328,12 @@
       "name": "Drew Stevens",
       "position_id": "K",
       "stats": {
-        "fg": 27,
-        "fga": 32,
-        "points": 120,
-        "points_half": 120,
-        "points_ppr": 120,
-        "xpt": 39
+        "fg": 27.83,
+        "fga": 33.23,
+        "points": 120.62,
+        "points_half": 120.62,
+        "points_ppr": 120.62,
+        "xpt": 37.14
       },
       "team_id": "WAS"
     },
@@ -346,10 +346,10 @@
       "stats": {
         "fg": 26.05,
         "fga": 31.83,
-        "points": 119.85,
-        "points_half": 119.85,
-        "points_ppr": 119.85,
-        "xpt": 41.71
+        "points": 119.8,
+        "points_half": 119.8,
+        "points_ppr": 119.8,
+        "xpt": 41.66
       },
       "team_id": "PHI"
     },
@@ -362,10 +362,10 @@
       "stats": {
         "fg": 25.79,
         "fga": 30.88,
-        "points": 119.33,
-        "points_half": 119.33,
-        "points_ppr": 119.33,
-        "xpt": 41.95
+        "points": 119.38,
+        "points_half": 119.38,
+        "points_ppr": 119.38,
+        "xpt": 42
       },
       "team_id": "NE"
     },
@@ -378,10 +378,10 @@
       "stats": {
         "fg": 28.12,
         "fga": 32.37,
-        "points": 118.24,
-        "points_half": 118.24,
-        "points_ppr": 118.24,
-        "xpt": 33.87
+        "points": 118.34,
+        "points_half": 118.34,
+        "points_ppr": 118.34,
+        "xpt": 33.97
       },
       "team_id": "PIT"
     },
@@ -394,28 +394,12 @@
       "stats": {
         "fg": 28.71,
         "fga": 33.2,
-        "points": 117.99,
-        "points_half": 117.99,
-        "points_ppr": 117.99,
-        "xpt": 31.87
+        "points": 118.03,
+        "points_half": 118.03,
+        "points_ppr": 118.03,
+        "xpt": 31.91
       },
       "team_id": "NYJ"
-    },
-    {
-      "filename": "jake-moody.php",
-      "fpid": 24009,
-      "mflid": 16286,
-      "name": "Jake Moody",
-      "position_id": "K",
-      "stats": {
-        "fg": 27.37,
-        "fga": 33.73,
-        "points": 116.4,
-        "points_half": 116.4,
-        "points_ppr": 116.4,
-        "xpt": 34.29
-      },
-      "team_id": "FA"
     },
     {
       "filename": "riley-patterson.php",
@@ -426,10 +410,10 @@
       "stats": {
         "fg": 27.85,
         "fga": 32.07,
-        "points": 114.57,
-        "points_half": 114.57,
-        "points_ppr": 114.57,
-        "xpt": 31.01
+        "points": 114.72,
+        "points_half": 114.72,
+        "points_ppr": 114.72,
+        "xpt": 31.16
       },
       "team_id": "MIA"
     },
@@ -442,10 +426,10 @@
       "stats": {
         "fg": 27.41,
         "fga": 33.13,
-        "points": 113.78,
-        "points_half": 113.78,
-        "points_ppr": 113.78,
-        "xpt": 31.55
+        "points": 113.93,
+        "points_half": 113.93,
+        "points_ppr": 113.93,
+        "xpt": 31.7
       },
       "team_id": "TEN"
     },
@@ -458,10 +442,10 @@
       "stats": {
         "fg": 26.63,
         "fga": 33.09,
-        "points": 111.71,
-        "points_half": 111.71,
-        "points_ppr": 111.71,
-        "xpt": 31.82
+        "points": 111.66,
+        "points_half": 111.66,
+        "points_ppr": 111.66,
+        "xpt": 31.77
       },
       "team_id": "ARI"
     },
@@ -474,10 +458,10 @@
       "stats": {
         "fg": 25.51,
         "fga": 30.16,
-        "points": 107.95,
-        "points_half": 107.95,
-        "points_ppr": 107.95,
-        "xpt": 31.43
+        "points": 107.91,
+        "points_half": 107.91,
+        "points_ppr": 107.91,
+        "xpt": 31.39
       },
       "team_id": "CAR"
     },
@@ -490,10 +474,10 @@
       "stats": {
         "fg": 25.84,
         "fga": 32.47,
-        "points": 107.63,
-        "points_half": 107.63,
-        "points_ppr": 107.63,
-        "xpt": 30.1
+        "points": 107.58,
+        "points_half": 107.58,
+        "points_ppr": 107.58,
+        "xpt": 30.05
       },
       "team_id": "LV"
     },
@@ -506,10 +490,10 @@
       "stats": {
         "fg": 24.64,
         "fga": 28.13,
-        "points": 102.05,
-        "points_half": 102.05,
-        "points_ppr": 102.05,
-        "xpt": 28.14
+        "points": 102.18,
+        "points_half": 102.18,
+        "points_ppr": 102.18,
+        "xpt": 28.27
       },
       "team_id": "CLE"
     },
@@ -522,10 +506,10 @@
       "stats": {
         "fg": 18.18,
         "fga": 21.74,
-        "points": 76.8,
-        "points_half": 76.8,
-        "points_ppr": 76.8,
-        "xpt": 22.26
+        "points": 76.71,
+        "points_half": 76.71,
+        "points_ppr": 76.71,
+        "xpt": 22.17
       },
       "team_id": "NYG"
     },
@@ -544,6 +528,22 @@
         "xpt": 12.5
       },
       "team_id": "NYG"
+    },
+    {
+      "filename": "jake-moody.php",
+      "fpid": 24009,
+      "mflid": 16286,
+      "name": "Jake Moody",
+      "position_id": "K",
+      "stats": {
+        "fg": 13.5,
+        "fga": 16.5,
+        "points": 40.5,
+        "points_half": 40.5,
+        "points_ppr": 40.5,
+        "xpt": 0
+      },
+      "team_id": "FA"
     },
     {
       "filename": "cade-york.php",
