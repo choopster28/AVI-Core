@@ -1,5 +1,22 @@
 [
   {
+    "id": "msz1kjle-a41e266a",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Conquistadors",
+      "goal": "Retool",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "createdAt": 1787080469810,
+    "updatedAt": 1787080469810,
+    "expiresAt": 1787512469810,
+    "status": "queued"
+  },
+  {
     "id": "msumf4hq-2546514b",
     "phase": "initial",
     "mode": "analyze_trade",
