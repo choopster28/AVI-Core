@@ -5,29 +5,29 @@
   "roster_id": 9,
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 15, 2026",
-  "generated_at": "2026-08-15T20:36:57.653853-06:00",
+  "reporting_period": "Week of August 18, 2026",
+  "generated_at": "2026-08-18T10:42:33.445224-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
-  "executive_summary": "Big Balder Brand is projected #1 of 16 with a 748.50 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and Jayden Daniels. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Big Balder Brand is projected #1 of 16 with a 747.90 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and Jayden Daniels. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 1,
     "league_size": 16,
-    "score": 748.5,
+    "score": 747.9,
     "team_above": null,
     "team_below": {
       "name": "Conquistadors",
       "rank": 2,
-      "score": 724.9,
-      "gap": 23.600000000000023
+      "score": 725.2,
+      "gap": 22.699999999999932
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 12,
     "league_size": 16,
-    "score": 2042.9,
-    "player_d_avi": 1300.9,
+    "score": 2044.6,
+    "player_d_avi": 1302.6,
     "future_pick_d_avi": 742.0,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -39,12 +39,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.5 C-AVI."
+    "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.2 C-AVI."
   ],
   "rival_below": {
     "franchise_name": "Conquistadors",
     "projected_rank": 2,
-    "projected_score": 724.9,
+    "projected_score": 725.2,
     "latest_trade": {
       "transaction_id": "1390168785905782784",
       "created_at": "2026-08-04T00:49:35.949000+00:00",
@@ -65,12 +65,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #1 of 16 at 748.50 lineup C-AVI. Conquistadors is immediately behind at 724.90."
+      "body": "Projected #1 of 16 at 747.90 lineup C-AVI. Conquistadors is immediately behind at 725.20."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (96.1), and Jayden Daniels (95.8)."
+      "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (96.1), and Jayden Daniels (95.9)."
     },
     {
       "id": "latest-trade-impact",
@@ -80,9 +80,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.5 C-AVI.",
+      "body": "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.2 C-AVI.",
       "items": [
-        "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.5 C-AVI."
+        "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.2 C-AVI."
       ]
     },
     {
@@ -93,7 +93,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Omarion Hampton is the lowest C-AVI starter in the verified championship lineup at 89.5. Any acquisition should clear that exact lineup threshold."
+      "body": "Omarion Hampton is the lowest C-AVI starter in the verified championship lineup at 89.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -112,7 +112,7 @@
       "AVI-Core/knowledge/teams/09_Big_Balder_Brand.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-16",
+    "source_last_updated": "2026-08-18",
     "external_sources_used": false,
     "conversation_context_used": false
   }

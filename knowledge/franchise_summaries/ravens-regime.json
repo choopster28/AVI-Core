@@ -5,34 +5,34 @@
   "roster_id": 3,
   "owner_display_name": "Mentomorii",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 15, 2026",
-  "generated_at": "2026-08-15T20:36:57.653853-06:00",
+  "reporting_period": "Week of August 18, 2026",
+  "generated_at": "2026-08-18T10:42:33.445224-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Ravens Regime: Preseason Front Office Brief",
-  "executive_summary": "Ravens Regime is projected #7 of 16 with a 636.40 projected-starting-lineup C-AVI total, led by Lamar Jackson, Kyle Pitts, and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Ravens Regime is projected #9 of 16 with a 626.50 projected-starting-lineup C-AVI total, led by Lamar Jackson, Kyle Pitts, and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 7,
+    "rank": 9,
     "league_size": 16,
-    "score": 636.4,
+    "score": 626.5,
     "team_above": {
-      "name": "All Hail King Jesus",
-      "rank": 6,
-      "score": 648.5,
-      "gap": 12.100000000000023
+      "name": "Badland Banditos",
+      "rank": 8,
+      "score": 628.6,
+      "gap": 2.1000000000000227
     },
     "team_below": {
-      "name": "Southside Savages",
-      "rank": 8,
-      "score": 635.6,
-      "gap": 0.7999999999999545
+      "name": "Lightskin Legends \u270a\ud83c\udffd",
+      "rank": 10,
+      "score": 593.8,
+      "gap": 32.700000000000045
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 10,
     "league_size": 16,
-    "score": 2121.9,
-    "player_d_avi": 1278.6,
+    "score": 2116.9,
+    "player_d_avi": 1273.6,
     "future_pick_d_avi": 843.3,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,32 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Kyle Monangai's 56.8 C-AVI baseline; a replacement near 68.9 C-AVI would directly attack the 12.10-point projected gap to All Hail King Jesus."
+    "Raise the RB slot above Kyle Monangai's 55.0 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 2.10-point projected gap to Badland Banditos."
   ],
   "rival_below": {
-    "franchise_name": "Southside Savages",
-    "projected_rank": 8,
-    "projected_score": 635.6,
+    "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
+    "projected_rank": 10,
+    "projected_score": 593.8,
     "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1351398743596859392",
-      "created_at": "2026-04-19T01:11:17.550000+00:00",
-      "type": "commissioner",
-      "summary": "On April 18, Southside Savages completed a roster transaction and added Malik Willis.",
+      "transaction_id": "1395450362491596800",
+      "created_at": "2026-08-18T14:36:41.934000+00:00",
+      "type": "free_agent",
+      "summary": "On August 18, Lightskin Legends \u270a\ud83c\udffd completed a free-agent move and added Jahan Dotson while dropped Tyreek Hill.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On April 18, Southside Savages completed a roster transaction and added Malik Willis."
+    "summary": "On August 18, Lightskin Legends \u270a\ud83c\udffd completed a free-agent move and added Jahan Dotson while dropped Tyreek Hill."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #7 of 16 at 636.40 lineup C-AVI. All Hail King Jesus is immediately above at 648.50, a gap of 12.10. Southside Savages is immediately behind at 635.60."
+      "body": "Projected #9 of 16 at 626.50 lineup C-AVI. Badland Banditos is immediately above at 628.60, a gap of 2.10. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 593.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Lamar Jackson (98.2), Kyle Pitts (94.0), and Derrick Henry (93.2)."
+      "body": "The three highest C-AVI starters are Lamar Jackson (98.0), Kyle Pitts (93.8), and Derrick Henry (93.3)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,20 +79,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Kyle Monangai's 56.8 C-AVI baseline; a replacement near 68.9 C-AVI would directly attack the 12.10-point projected gap to All Hail King Jesus.",
+      "body": "Raise the RB slot above Kyle Monangai's 55.0 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 2.10-point projected gap to Badland Banditos.",
       "items": [
-        "Raise the RB slot above Kyle Monangai's 56.8 C-AVI baseline; a replacement near 68.9 C-AVI would directly attack the 12.10-point projected gap to All Hail King Jesus."
+        "Raise the RB slot above Kyle Monangai's 55.0 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 2.10-point projected gap to Badland Banditos."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On April 18, Southside Savages completed a roster transaction and added Malik Willis."
+      "body": "On August 18, Lightskin Legends \u270a\ud83c\udffd completed a free-agent move and added Jahan Dotson while dropped Tyreek Hill."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Kyle Monangai is the lowest C-AVI starter in the verified championship lineup at 56.8. Any acquisition should clear that exact lineup threshold."
+      "body": "Kyle Monangai is the lowest C-AVI starter in the verified championship lineup at 55.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/03_Ravens_Regime.md"
     ],
-    "source_last_updated": "2026-08-16",
+    "source_last_updated": "2026-08-18",
     "external_sources_used": false,
     "conversation_context_used": false
   }

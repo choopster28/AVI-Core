@@ -5,34 +5,34 @@
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 15, 2026",
-  "generated_at": "2026-08-15T20:36:57.653853-06:00",
+  "reporting_period": "Week of August 18, 2026",
+  "generated_at": "2026-08-18T10:42:33.445224-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 656.70 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 657.00 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 5,
     "league_size": 16,
-    "score": 656.7,
+    "score": 657.0,
     "team_above": {
       "name": "SmokyValleyWheatWarriors",
       "rank": 4,
-      "score": 662.7,
-      "gap": 6.0
+      "score": 666.7,
+      "gap": 9.700000000000045
     },
     "team_below": {
       "name": "All Hail King Jesus",
       "rank": 6,
-      "score": 648.5,
-      "gap": 8.200000000000045
+      "score": 649.0,
+      "gap": 8.0
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 8,
+    "rank": 9,
     "league_size": 16,
-    "score": 2158.3,
-    "player_d_avi": 1274.4,
+    "score": 2159.8,
+    "player_d_avi": 1275.9,
     "future_pick_d_avi": 883.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Wan'Dale Robinson's 65.8 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 6.00-point projected gap to SmokyValleyWheatWarriors."
+    "Raise the FLEX slot above Wan'Dale Robinson's 66.6 C-AVI baseline; a replacement near 76.3 C-AVI would directly attack the 9.70-point projected gap to SmokyValleyWheatWarriors."
   ],
   "rival_below": {
     "franchise_name": "All Hail King Jesus",
     "projected_rank": 6,
-    "projected_score": 648.5,
-    "latest_trade": {
-      "transaction_id": "1394122256442986496",
-      "created_at": "2026-08-14T22:39:16.777000+00:00",
-      "type": "trade",
-      "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus).",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_score": 649.0,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1394122256442986496",
-      "created_at": "2026-08-14T22:39:16.777000+00:00",
-      "type": "trade",
-      "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus).",
+      "transaction_id": "1395270295127863296",
+      "created_at": "2026-08-18T02:41:10.528000+00:00",
+      "type": "free_agent",
+      "summary": "On August 17, All Hail King Jesus completed a free-agent move and added Keenan Allen while dropped Ryan Flournoy.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus)."
+    "summary": "On August 17, All Hail King Jesus completed a free-agent move and added Keenan Allen while dropped Ryan Flournoy."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #5 of 16 at 656.70 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 662.70, a gap of 6.00. All Hail King Jesus is immediately behind at 648.50."
+      "body": "Projected #5 of 16 at 657.00 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 666.70, a gap of 9.70. All Hail King Jesus is immediately behind at 649.00."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Tyler Warren (97.2), and Malik Nabers (88.9)."
+      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Tyler Warren (97.2), and Malik Nabers (89.1)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,20 +79,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Wan'Dale Robinson's 65.8 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 6.00-point projected gap to SmokyValleyWheatWarriors.",
+      "body": "Raise the FLEX slot above Wan'Dale Robinson's 66.6 C-AVI baseline; a replacement near 76.3 C-AVI would directly attack the 9.70-point projected gap to SmokyValleyWheatWarriors.",
       "items": [
-        "Raise the FLEX slot above Wan'Dale Robinson's 65.8 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 6.00-point projected gap to SmokyValleyWheatWarriors."
+        "Raise the FLEX slot above Wan'Dale Robinson's 66.6 C-AVI baseline; a replacement near 76.3 C-AVI would directly attack the 9.70-point projected gap to SmokyValleyWheatWarriors."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus)."
+      "body": "On August 17, All Hail King Jesus completed a free-agent move and added Keenan Allen while dropped Ryan Flournoy."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Wan'Dale Robinson is the lowest C-AVI starter in the verified championship lineup at 65.8. Any acquisition should clear that exact lineup threshold."
+      "body": "Wan'Dale Robinson is the lowest C-AVI starter in the verified championship lineup at 66.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md"
     ],
-    "source_last_updated": "2026-08-16",
+    "source_last_updated": "2026-08-18",
     "external_sources_used": false,
     "conversation_context_used": false
   }

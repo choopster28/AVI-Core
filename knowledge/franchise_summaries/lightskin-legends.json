@@ -5,8 +5,8 @@
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 15, 2026",
-  "generated_at": "2026-08-15T20:36:57.653853-06:00",
+  "reporting_period": "Week of August 18, 2026",
+  "generated_at": "2026-08-18T10:42:33.445224-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
   "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #10 of 16 with a 593.80 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -15,24 +15,24 @@
     "league_size": 16,
     "score": 593.8,
     "team_above": {
-      "name": "Badland Banditos",
+      "name": "Ravens Regime",
       "rank": 9,
-      "score": 627.8,
-      "gap": 34.0
+      "score": 626.5,
+      "gap": 32.700000000000045
     },
     "team_below": {
       "name": "Gringo\u2019s Goblins",
       "rank": 11,
-      "score": 573.0,
-      "gap": 20.799999999999955
+      "score": 571.8,
+      "gap": 22.0
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 2036.7,
-    "player_d_avi": 1076.8,
+    "score": 2036.1,
+    "player_d_avi": 1076.2,
     "future_pick_d_avi": 959.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Mike Gesicki's 48.2 C-AVI baseline; a replacement near 82.2 C-AVI would directly attack the 34.00-point projected gap to Badland Banditos."
+    "Raise the FLEX slot above Mike Gesicki's 47.4 C-AVI baseline; a replacement near 80.1 C-AVI would directly attack the 32.70-point projected gap to Ravens Regime."
   ],
   "rival_below": {
     "franchise_name": "Gringo\u2019s Goblins",
     "projected_rank": 11,
-    "projected_score": 573.0,
+    "projected_score": 571.8,
     "latest_trade": {
       "transaction_id": "1394413143647592448",
       "created_at": "2026-08-15T17:55:09.691000+00:00",
@@ -70,12 +70,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #10 of 16 at 593.80 lineup C-AVI. Badland Banditos is immediately above at 627.80, a gap of 34.00. Gringo\u2019s Goblins is immediately behind at 573.00."
+      "body": "Projected #10 of 16 at 593.80 lineup C-AVI. Ravens Regime is immediately above at 626.50, a gap of 32.70. Gringo\u2019s Goblins is immediately behind at 571.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jonathan Taylor (97.7), Chase Brown (96.5), and Javonte Williams (81.8)."
+      "body": "The three highest C-AVI starters are Jonathan Taylor (97.7), Chase Brown (96.4), and Javonte Williams (81.4)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,9 +85,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Mike Gesicki's 48.2 C-AVI baseline; a replacement near 82.2 C-AVI would directly attack the 34.00-point projected gap to Badland Banditos.",
+      "body": "Raise the FLEX slot above Mike Gesicki's 47.4 C-AVI baseline; a replacement near 80.1 C-AVI would directly attack the 32.70-point projected gap to Ravens Regime.",
       "items": [
-        "Raise the FLEX slot above Mike Gesicki's 48.2 C-AVI baseline; a replacement near 82.2 C-AVI would directly attack the 34.00-point projected gap to Badland Banditos."
+        "Raise the FLEX slot above Mike Gesicki's 47.4 C-AVI baseline; a replacement near 80.1 C-AVI would directly attack the 32.70-point projected gap to Ravens Regime."
       ]
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Mike Gesicki is the lowest C-AVI starter in the verified championship lineup at 48.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Mike Gesicki is the lowest C-AVI starter in the verified championship lineup at 47.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -117,7 +117,7 @@
       "AVI-Core/knowledge/teams/06_Lightskin_Legends.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-16",
+    "source_last_updated": "2026-08-18",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -5,34 +5,34 @@
   "roster_id": 13,
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 15, 2026",
-  "generated_at": "2026-08-15T20:36:57.653853-06:00",
+  "reporting_period": "Week of August 18, 2026",
+  "generated_at": "2026-08-18T10:42:33.445224-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
-  "executive_summary": "Southside Savages is projected #8 of 16 with a 635.60 projected-starting-lineup C-AVI total, led by Drake Maye, Tetairoa McMillan, and Josh Jacobs. The immediate priority is improving the TE slot without weakening that core.",
+  "executive_summary": "Southside Savages is projected #7 of 16 with a 633.60 projected-starting-lineup C-AVI total, led by Drake Maye, Tetairoa McMillan, and Josh Jacobs. The immediate priority is improving the TE slot without weakening that core.",
   "projected_power": {
-    "rank": 8,
+    "rank": 7,
     "league_size": 16,
-    "score": 635.6,
+    "score": 633.6,
     "team_above": {
-      "name": "Ravens Regime",
-      "rank": 7,
-      "score": 636.4,
-      "gap": 0.7999999999999545
+      "name": "All Hail King Jesus",
+      "rank": 6,
+      "score": 649.0,
+      "gap": 15.399999999999977
     },
     "team_below": {
       "name": "Badland Banditos",
-      "rank": 9,
-      "score": 627.8,
-      "gap": 7.800000000000068
+      "rank": 8,
+      "score": 628.6,
+      "gap": 5.0
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 15,
     "league_size": 16,
-    "score": 1928.9,
-    "player_d_avi": 921.0,
+    "score": 1928.7,
+    "player_d_avi": 920.8,
     "future_pick_d_avi": 1007.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Chig Okonkwo's 56.3 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 0.80-point projected gap to Ravens Regime."
+    "Raise the TE slot above Chig Okonkwo's 56.1 C-AVI baseline; a replacement near 71.5 C-AVI would directly attack the 15.40-point projected gap to All Hail King Jesus."
   ],
   "rival_below": {
     "franchise_name": "Badland Banditos",
-    "projected_rank": 9,
-    "projected_score": 627.8,
+    "projected_rank": 8,
+    "projected_score": 628.6,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1393041155800731649",
@@ -64,12 +64,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #8 of 16 at 635.60 lineup C-AVI. Ravens Regime is immediately above at 636.40, a gap of 0.80. Badland Banditos is immediately behind at 627.80."
+      "body": "Projected #7 of 16 at 633.60 lineup C-AVI. All Hail King Jesus is immediately above at 649.00, a gap of 15.40. Badland Banditos is immediately behind at 628.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Drake Maye (97.4), Tetairoa McMillan (87.0), and Josh Jacobs (85.4)."
+      "body": "The three highest C-AVI starters are Drake Maye (97.5), Tetairoa McMillan (87.2), and Josh Jacobs (85.2)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,9 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Chig Okonkwo's 56.3 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 0.80-point projected gap to Ravens Regime.",
+      "body": "Raise the TE slot above Chig Okonkwo's 56.1 C-AVI baseline; a replacement near 71.5 C-AVI would directly attack the 15.40-point projected gap to All Hail King Jesus.",
       "items": [
-        "Raise the TE slot above Chig Okonkwo's 56.3 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 0.80-point projected gap to Ravens Regime."
+        "Raise the TE slot above Chig Okonkwo's 56.1 C-AVI baseline; a replacement near 71.5 C-AVI would directly attack the 15.40-point projected gap to All Hail King Jesus."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Chig Okonkwo is the lowest C-AVI starter in the verified championship lineup at 56.3. Any acquisition should clear that exact lineup threshold."
+      "body": "Chig Okonkwo is the lowest C-AVI starter in the verified championship lineup at 56.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/13_Southside_Savages.md"
     ],
-    "source_last_updated": "2026-08-16",
+    "source_last_updated": "2026-08-18",
     "external_sources_used": false,
     "conversation_context_used": false
   }
