@@ -1,5 +1,22 @@
 [
   {
+    "id": "msz1p9c7-4588b069",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Rebuild",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "createdAt": 1787080689799,
+    "updatedAt": 1787080689799,
+    "expiresAt": 1787512689799,
+    "status": "queued"
+  },
+  {
     "id": "msz1kjle-a41e266a",
     "phase": "initial",
     "mode": "improve_team",
