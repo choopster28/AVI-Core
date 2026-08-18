@@ -1,5 +1,300 @@
 [
   {
+    "id": "msysb1nd-7cae5568",
+    "createdAt": 1787065093496,
+    "expiresAt": 1787497093496,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        },
+        {
+          "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+          "assetType": "pick"
+        },
+        {
+          "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        },
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Wan'Dale Robinson",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. enters the market shopping a premium liquid package consisting of a projected top-5 2027 1st (DMV), two mid-range future 1sts, and two legitimate starting-caliber fantasy contributors in David Montgomery and Wan'Dale Robinson. Leveraging public trade-block listings and organizational goal alignment across the league, Corgi Loaf can convert this asset surplus into true elite/tier-1 cornerstone upgrades to aggressively maximize 2026 championship odds.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push / Contender",
+          "strengths": [
+            "Elite cornerstone pass-catchers in Jaxon Smith-Njigba, Malik Nabers, and Tyler Warren",
+            "Deep future draft pick capital including multiple first-round selections",
+            "Solid starting lineup base across key position groups"
+          ],
+          "priorityNeeds": [
+            "Consolidating pick capital and secondary depth into elite S-tier/Tier-1 starting lineup anchors",
+            "High-end RB1/WR1 impact scoring to push past top championship rivals"
+          ],
+          "tradeableSurplus": [
+            "2027 1st · DMV · Projected early range (1.01–1.05)",
+            "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "David Montgomery (RB, HOU)",
+            "Wan'Dale Robinson (WR, TEN)"
+          ],
+          "constraintsApplied": [
+            "Mandatory two-organization organizational goal match applied",
+            "Starter-for-starter realism enforced for all player assets",
+            "Authoritative trade-block availability fully credited"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Elite contenders unwilling to trade S-tier starters without receiving immediate comparable position replacements",
+            "Rebuilding franchises lacking tier-1 assets worth Corgi Loaf's premium pick assets",
+            "Lack of motivation to absorb 29-year-old running back value for non-contending windows"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Crimson Tide Pods",
+            "targetGoal": "Rebuild",
+            "targetAssets": [
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 27,
+                "cavi": 87.7,
+                "davi": 93.6,
+                "publicMarket": 88,
+                "leagueMarket": 87.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 85,
+                "leagueMarket": 80
+              },
+              {
+                "name": "Wan'Dale Robinson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 25,
+                "cavi": 66.6,
+                "davi": 83.6,
+                "publicMarket": 70,
+                "leagueMarket": 68
+              }
+            ],
+            "scenarioType": "Rebuilder Capital Conversion",
+            "strategicGoal": "Target a verified rebuilder to trade a future early pick and young starter for a proven WR1/2 producer.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 82,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "DeVonta Smith (C-AVI 87.7, D-AVI 93.6) adds a high-end WR2/WR1 option to Corgi Loaf's starting FLEX/WR group without giving up David Montgomery.",
+            "whyOpponentMightAccept": "Crimson Tide Pods has a verified organizational goal of 'Rebuild'. Acquiring a guaranteed top-5 2027 1st-round draft pick (DMV 1.01-1.05) plus 25-year-old Wan'Dale Robinson ($70M contract in Tennessee) accelerates their multi-year draft reset while giving them a young startable asset.",
+            "championshipImpact": "Solidifies Corgi Loaf's WR/FLEX rotation with high-floor WR1/WR2 scoring.",
+            "dynastyImpact": "Adds a proven 27-year-old pass catcher attached to a top-tier NFL offense.",
+            "rosterImpact": "Upgrades Wan'Dale Robinson into DeVonta Smith in the starting lineup.",
+            "publicMarketContext": "DeVonta Smith is a highly valued dynasty WR2 with weekly WR1 ceiling in Philadelphia's offense.",
+            "risks": [
+              "Giving up the projected early 2027 1st (1.01-1.05) yields significant long-term potential",
+              "Does not upgrade the running back room directly"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer the 2027 DMV 1st and Wan'Dale Robinson.",
+              "acceptableConcession": "Throw in a future 3rd-round pick if needed to close.",
+              "walkAwayPoint": "Walk away if Crimson Tide Pods demands an additional 1st-round pick."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "David Montgomery news 2026 fantasy dynasty",
+          "De Von Achane news 2026 fantasy dynasty",
+          "Amon Ra St Brown news 2026 fantasy dynasty",
+          "Jaxon Smith Njigba news 2026 fantasy dynasty",
+          "Wan Dale Robinson news 2026 fantasy dynasty"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhr_MbIkk5To-lB4Z-mGGEYSAbHNqza17huwbddsTQ-48A29XKLif_PbfEyopnGlNNFjCu9AmNyuh9S3kja9Z7oM2AdFa8rYBfKOoYYzeu6cbplp-pkjIDtshFMuZ21bNTdI02Z1a2wPdxpe0-",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxOHLYuTy9ga3YrXFiy7mxhD60AbTZC6yyP5vbvjy0LbmieRWVAzbTRu5eRJF-g7MlaxvooW2HFzRp7tp2lRqGBN8hzPZxjZ1Y305G47hkqqGxAamB2Lp7pF8Hdi11bfrixooQAxhddPAjZLzlJ36FzOLx0eQ=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3inrUNAYwbxgwMelzb_UhLFIidTODZinesn9vn_yxVxQoBNMFpn_ga5lhESkQ8eaiEcOy6oeo6PeruB4_NhgVAdWVVajfWGEQaQ37k1QZ9irfa70_kPfumH5JWwUuLvOBHQUk_8D2Gbb3t7s1IYoRkgNHigaZcttI_GXjKmjbU9XS9EWRcSa7F30lbSBPCfyJEg==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZe1Zlglt3jy9lumtjEP_xD02e7gR6eZpcnCY3blQ31S2ESItNKKaP6_2JmJMF7JA3TWrcHZRCVwWnU1cGGguaZhyk6gWuuPCKFr5Zi6LhnPPxt77rqpQp_UyODj4uaft68mkYy_GidOMc0Pw6JrXxToKjxGVVZ4-whjBzYe2N3Ov5ZaQkQUw2dw8O1GaGUaSzT52hD-Pvd6AE4Dxe",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQkpkGAfk6oldO4vPtmPyOXIuDkoTZREyPtxVT3XlQK8rEgKlVoPx8obIHZ37bQ3UkmczayttHolJLxjeEzweUhPFBnITBSNlbW_HwX23VU7gHOXSrqyTbINkIjVX4Fv0i-K8bgxoIGouY5cun-bHZ5al-wdpJgfjHAsKef9AtdctgJM-bkj5gl9F6aMIwJjfhCcYkLY96WFvMQ6uJ8XUC0w==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdGf2JFosb8Eex4h3l733kwMcjM_otUhj94u4yCuQPHXMUX7XUlSqoGMeFwHAoBmItGTJDiLHrP8VoaB0Yyha-rvOeCwOp_xgPGBH6u5iSJLhmDYjOu9Ynnae4hdb3eEDJUJtBS1YksxZxRHic9BHR6Ukj7Pmp4f_wWzHxWxgxvCzrXw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExDLbHzeLzXRBSmDaT1PRq_QqZ82dRRsS-lJDLHS9vhELooU-t0MSdnLi6hZEDTPR-CI9gZuVgX5FXDGft3hMGfllADUlR_IOumCoeuunI-tVFGexO73NvVhjdkeVMH8o=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Kjlg4a2zUjL4KDX23rIMGo97ImKSuN--shcFEblr7x9xWTIALyYBL4hG60Y3cw5OOO0nhG5Z2MMtG6CaLI9q6o6cAfxD9c4fb5vNvSr94kGdFzdA1k8qYiOMWAg5nNS5h-94VpJUahiv9MCQrNmPNvdopZuRJBk3UwY6AGkSnixXgDgvOI39wgSJjKp2_KReA8tWVOsEA7ZTp18=",
+            "title": "fantasylabs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF25tWO0UX5Eq8NVXkxJmaAKMX1QDbKkesCPg0UVgxiZnkBH-q9BWWyrGdZdnx_-9HdSitMvRDgtujqSfgasWOyNyMISs6tVZ5F5NuLFlHKOnWAmzOTnuJ3T65a6_kdUQPH4XhFZ6YLWsKvkbi4DIKOGU6CpgHzrmD1VS0EnipqBWU=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5aUfI9F_UQXaz3ocqjIQCTUjzlh9mgfKvbuCzFDWzovGjpX_eL_O1y5nGDjEbopb0pBzo8g5xHadIucDL4n3rNByqfxZyQi-7BhwFIC3rWg5NNNnePwGeqkdFGqFtpTfrFgilfqOKxIdS0kln_p_lUTOwIjCso4u8M80flYevaftQC3XSVVTuFI_3CDvdpQ==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvy8vdlm5hHFLZ-RJ1zsETddfgTjdKLDQRiC26JFlZO5Z1kv5pJCHQEQX1udRfrG7Rmhw3DlHn8ArQ61kzNU7mg_APiYlI0RTx8zZDya7qGF7Vp0qA_qF8rYwoxzZMTJxr4p-aQhMJ5-LKtcnplDj0IRreHVwScj_QZPIWIUMEi53YX2o_m5MCeZ7MlrV1yRw=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXMXAWB2yxwGWZISSgWVW-LJ1UI_Xk4m2bZhzuTBql_NtTcqDu4jgLu0SGJeVitzxlan081fNIrWXyUeVgTxKzMyAPbxoyjHk-D_LA51ttI1QarvC2ulTuOgLnfKPJ2HYNPSzd_MS8p6xmc59yPP85UYxdLDa1Eibdd0GVBV5TdFEXbw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUiHzmDmzTv5gU-96zr_AD0AXB6W4XKx-WD628rH_ZTTubpqdx7cnEJFjj0WVvd-rDxxfYBJHQm8qrCeIfkdXPhJuP3nz0V9D8cLl7QIkB13pGrtAynX4U6bOpxiVWwXsK3NVx3-cwv7sP_RtMjLN6dUbhXuaE--pTWzs8era_XzJfhEY=",
+            "title": "establishtherun.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnkVVIx0j4cJ80jp3T53OBU_Nhe1YLkcF_BGs26uPxU25GBue7poesM3VgqsZpih_5n7M2eyMuQo5SUa2oavuyD8drKmogXZd0G0zs9UOjpEgfmBOFwmyZD-Xloc288ZmIG2LKZ97hFhwLi_Xdawmx",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeAelEuv_HVgILsZKnLEnS_u6MPxCnS2GrDT6ZtHcfMU7C45goFUsA6VLmo3SEEwfJDq64O7-XEt0Pya0EoPgaa8J9v_Z1gQJH3ERWGZqD7HFNUUP3Oz5gCzQSIDIcDcmMHarcCQSjtEa0eIyIIAYjKpyRfrENYQO7FgSEP-aHHDH6lVT1bhXWGcMz1M6-EGpjwN1zdPiaRQ==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGipUlRtvLSmJwSuwC8uVbeOOhty7nuCRzq4RLFme1ySDyalnAbGgak97cneTdOcP-ps4VDigZWdwsB32phrnE8rudYWyLsaYtXQZCCh0-AHDCheE3C5Nr9iDcvp98-5x4Uf_VaDenfWwTXNSXkAMKFsxH7tQCu2I2pcS87U82Wb2vkRA==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5lVyBT4uVidy4T3BLtawqKMDYjFWWkd4__DKlnmCG84GLn-jaBgCdn3vUCeWN1dMnT6kJrLRzr5kjLNhZ6a5Hon7xj6qn3fiKJtAv-Gl4O5LfNWCnV19U5Q_IKkRvPrUQKFEYhGB6J6f3M2uAZVBE8mWOVgzdvU7sew2r05vhtkuSEtcb5-zBK9lfHfXyv7Th",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxfHJTvi0ND5apIhkQ1UCwdJcXc41gM13JqQSuq4lnr7VTRoaLKOdo_VegRF--vvhJnxjg6OgHZ7n3jarISdzTuDr9XB20jA1EIBbRQ4rmmEatgtNw0O__IVkR52tz3Iou6LAFBNKYTcCB95sm8Ur3gsaQRxSMYrTGqok3Aa0QT877GnFe5G_yJHJdgkuEZj0=",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "De'Von Achane",
+          "David Montgomery",
+          "Amon-Ra St. Brown",
+          "Wan'Dale Robinson",
+          "Jaxon Smith-Njigba"
+        ],
+        "aviCoreCommitSha": "a7a9e24ef9a5019e6b0de3e5e703761eaa6d0e74",
+        "aviCoreCommittedAt": "2026-08-18T14:02:47Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 523894,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "msyrnqdo-b9b55ecd",
     "createdAt": 1787063925275,
     "expiresAt": 1787495925275,
