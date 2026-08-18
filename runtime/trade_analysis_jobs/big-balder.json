@@ -1,5 +1,27 @@
 [
   {
+    "id": "msywdi67-6d8c20ac",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Rashee Rice",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1787071743296,
+    "updatedAt": 1787071743296,
+    "expiresAt": 1787503743296,
+    "status": "queued"
+  },
+  {
     "id": "msyw8ckq-ec798616",
     "phase": "initial",
     "mode": "analyze_trade",
