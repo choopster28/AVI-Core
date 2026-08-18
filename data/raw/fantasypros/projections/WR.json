@@ -1,5 +1,5 @@
 {
-  "count": "190",
+  "count": "191",
   "players": [
     {
       "filename": "puka-nacua.php",
@@ -374,12 +374,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.38,
-        "points": 157.86,
-        "points_half": 198.04,
-        "points_ppr": 238.23,
-        "rec_rec": 80.36,
+        "points": 159.26,
+        "points_half": 199.78,
+        "points_ppr": 240.29,
+        "rec_rec": 81.03,
         "rec_tds": 8.43,
-        "rec_yds": 1068.92,
+        "rec_yds": 1082.92,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -618,34 +618,6 @@
       "team_id": "CHI"
     },
     {
-      "filename": "alec-pierce.php",
-      "fpid": 23791,
-      "mflid": 15768,
-      "name": "Alec Pierce",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.28,
-        "points": 142.53,
-        "points_half": 174.15,
-        "points_ppr": 205.76,
-        "rec_rec": 63.23,
-        "rec_tds": 6.53,
-        "rec_yds": 1038.92,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "IND"
-    },
-    {
       "filename": "ladd-mcconkey.php",
       "fpid": 26122,
       "mflid": 16627,
@@ -728,6 +700,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "BUF"
+    },
+    {
+      "filename": "alec-pierce.php",
+      "fpid": 23791,
+      "mflid": 15768,
+      "name": "Alec Pierce",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.25,
+        "points": 139.06,
+        "points_half": 168.32,
+        "points_ppr": 197.59,
+        "rec_rec": 58.53,
+        "rec_tds": 6.42,
+        "rec_yds": 1010.59,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "IND"
     },
     {
       "filename": "christian-watson.php",
@@ -1402,34 +1402,6 @@
       "team_id": "TEN"
     },
     {
-      "filename": "josh-downs.php",
-      "fpid": 24706,
-      "mflid": 16187,
-      "name": "Josh Downs",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.82,
-        "points": 100.21,
-        "points_half": 139.07,
-        "points_ppr": 177.92,
-        "rec_rec": 77.7,
-        "rec_tds": 4.29,
-        "rec_yds": 754.82,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 1.36,
-        "rush_tds": 0.03,
-        "rush_yds": 4.23,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "IND"
-    },
-    {
       "filename": "dezhaun-stribling.php",
       "fpid": 28138,
       "mflid": 17514,
@@ -1540,6 +1512,62 @@
         "scrimage_yards_200": 0
       },
       "team_id": "PHI"
+    },
+    {
+      "filename": "josh-downs.php",
+      "fpid": 24706,
+      "mflid": 16187,
+      "name": "Josh Downs",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.78,
+        "points": 97.58,
+        "points_half": 133.33,
+        "points_ppr": 169.07,
+        "rec_rec": 71.49,
+        "rec_tds": 4.23,
+        "rec_yds": 731.61,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 1.36,
+        "rush_tds": 0.03,
+        "rush_yds": 4.23,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "IND"
+    },
+    {
+      "filename": "keenan-allen.php",
+      "fpid": 11616,
+      "mflid": 11222,
+      "name": "Keenan Allen",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 97.5,
+        "points_half": 128.5,
+        "points_ppr": 159.5,
+        "rec_rec": 62,
+        "rec_tds": 5,
+        "rec_yds": 675,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "IND"
     },
     {
       "filename": "jalen-coker.php",
@@ -2466,34 +2494,6 @@
       "team_id": "ATL"
     },
     {
-      "filename": "ashton-dulin.php",
-      "fpid": 18656,
-      "mflid": 14315,
-      "name": "Ashton Dulin",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.14,
-        "points": 57.15,
-        "points_half": 70.07,
-        "points_ppr": 82.98,
-        "rec_rec": 25.83,
-        "rec_tds": 1.67,
-        "rec_yds": 423.17,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 5.09,
-        "rush_tds": 0.09,
-        "rush_yds": 46.13,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "IND"
-    },
-    {
       "filename": "christian-kirk.php",
       "fpid": 17268,
       "mflid": 13633,
@@ -2830,6 +2830,34 @@
       "team_id": "ATL"
     },
     {
+      "filename": "ashton-dulin.php",
+      "fpid": 18656,
+      "mflid": 14315,
+      "name": "Ashton Dulin",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.07,
+        "points": 46.58,
+        "points_half": 55.33,
+        "points_ppr": 64.09,
+        "rec_rec": 17.51,
+        "rec_tds": 1.3,
+        "rec_yds": 338.26,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 5.09,
+        "rush_tds": 0.09,
+        "rush_yds": 46.13,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "IND"
+    },
+    {
       "filename": "jaylin-noel.php",
       "fpid": 27122,
       "mflid": 17080,
@@ -2866,9 +2894,9 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.37,
-        "points": 45.49,
-        "points_half": 54.54,
-        "points_ppr": 63.59,
+        "points": 45.43,
+        "points_half": 54.48,
+        "points_ppr": 63.53,
         "rec_rec": 18.1,
         "rec_tds": 1.72,
         "rec_yds": 229.48,
@@ -2876,7 +2904,7 @@
         "rec_yds_200": 0,
         "ret_tds": 0,
         "rush_att": 17.82,
-        "rush_tds": 0.44,
+        "rush_tds": 0.43,
         "rush_yds": 103.23,
         "rush_yds_100": 0,
         "rush_yds_200": 0,
@@ -2912,34 +2940,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "DEN"
-    },
-    {
-      "filename": "devontez-walker.php",
-      "fpid": 26011,
-      "mflid": 16621,
-      "name": "Devontez Walker",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.08,
-        "points": 43.87,
-        "points_half": 52.99,
-        "points_ppr": 62.12,
-        "rec_rec": 18.25,
-        "rec_tds": 2.23,
-        "rec_yds": 304.91,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 1.5,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "BAL"
     },
     {
       "filename": "josh-palmer.php",
@@ -3334,34 +3334,6 @@
       "team_id": "MIA"
     },
     {
-      "filename": "nick-westbrook.php",
-      "fpid": 19747,
-      "mflid": 15109,
-      "name": "Nick Westbrook-Ikhine",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.16,
-        "points": 32.88,
-        "points_half": 42.23,
-        "points_ppr": 51.58,
-        "rec_rec": 18.7,
-        "rec_tds": 1.7,
-        "rec_yds": 229.95,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "IND"
-    },
-    {
       "filename": "theo-wease-jr.php",
       "fpid": 27222,
       "mflid": 17088,
@@ -3444,6 +3416,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "WAS"
+    },
+    {
+      "filename": "devontez-walker.php",
+      "fpid": 26011,
+      "mflid": 16621,
+      "name": "Devontez Walker",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.15,
+        "points": 29.34,
+        "points_half": 36.59,
+        "points_ppr": 43.83,
+        "rec_rec": 14.49,
+        "rec_tds": 1.46,
+        "rec_yds": 208.82,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "BAL"
     },
     {
       "filename": "cyrus-allen.php",
@@ -4118,6 +4118,34 @@
       "team_id": "LAC"
     },
     {
+      "filename": "nick-westbrook.php",
+      "fpid": 19747,
+      "mflid": 15109,
+      "name": "Nick Westbrook-Ikhine",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.05,
+        "points": 11.04,
+        "points_half": 14.1,
+        "points_ppr": 17.15,
+        "rec_rec": 6.11,
+        "rec_tds": 0.58,
+        "rec_yds": 76.63,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "IND"
+    },
+    {
       "filename": "greg-dortch.php",
       "fpid": 18585,
       "mflid": 14108,
@@ -4200,34 +4228,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "NO"
-    },
-    {
-      "filename": "laquon-treadwell.php",
-      "fpid": 15495,
-      "mflid": 12645,
-      "name": "Laquon Treadwell",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.07,
-        "points": 9.63,
-        "points_half": 13.14,
-        "points_ppr": 16.66,
-        "rec_rec": 7.03,
-        "rec_tds": 0.39,
-        "rec_yds": 74.26,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "IND"
     },
     {
       "filename": "bo-melton.php",
@@ -4594,34 +4594,6 @@
       "team_id": "ARI"
     },
     {
-      "filename": "anthony-gould.php",
-      "fpid": 26404,
-      "mflid": 16732,
-      "name": "Anthony Gould",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.04,
-        "points": 4.64,
-        "points_half": 6.39,
-        "points_ppr": 8.14,
-        "rec_rec": 3.5,
-        "rec_tds": 0.17,
-        "rec_yds": 37.04,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "IND"
-    },
-    {
       "filename": "brycen-tremayne.php",
       "fpid": 25631,
       "mflid": 16949,
@@ -4788,6 +4760,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "PIT"
+    },
+    {
+      "filename": "laquon-treadwell.php",
+      "fpid": 15495,
+      "mflid": 12645,
+      "name": "Laquon Treadwell",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "IND"
     },
     {
       "filename": "david-moore.php",
@@ -5124,6 +5124,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "KC"
+    },
+    {
+      "filename": "anthony-gould.php",
+      "fpid": 26404,
+      "mflid": 16732,
+      "name": "Anthony Gould",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "IND"
     },
     {
       "filename": "jeshaun-jones.php",

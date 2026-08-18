@@ -5699,8 +5699,8 @@
     "avi_id": "AVI-00004040",
     "canonical_name": "JuJu Smith-Schuster",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "NYG",
     "normalized_name": "juju smith schuster",
@@ -6124,8 +6124,8 @@
     "avi_id": "AVI-00001479",
     "canonical_name": "Keenan Allen",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
     "nfl_team": "IND",
     "normalized_name": "keenan allen",
@@ -6270,6 +6270,31 @@
   {
     "active": true,
     "aliases": [
+      "Kenny McIntosh"
+    ],
+    "avi_id": "AVI-00010216",
+    "canonical_name": "Kenny McIntosh",
+    "match": {
+      "confidence": "review",
+      "method": "exact_name_position"
+    },
+    "nfl_team": "FA",
+    "normalized_name": "kenny mcintosh",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24373,
+      "fantasypros_id": "25329",
+      "nfl_id": "2570314",
+      "rotowire_id": 17002,
+      "sleeper_id": "10216",
+      "sportradar_id": "9956eabc-16da-4a1c-ab80-fe0910bcaa12",
+      "sportsdata_player_id": "9956eabc-16da-4a1c-ab80-fe0910bcaa12"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Kenyon Sadiq"
     ],
     "avi_id": "AVI-00013330",
@@ -6354,7 +6379,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "SF",
+    "nfl_team": "FA",
     "normalized_name": "khalil herbert",
     "position": "RB",
     "source_ids": {
@@ -7429,6 +7454,31 @@
   {
     "active": true,
     "aliases": [
+      "Michael Trigg"
+    ],
+    "avi_id": "AVI-00013401",
+    "canonical_name": "Michael Trigg",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "DAL",
+    "normalized_name": "michael trigg",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 28066,
+      "fantasypros_id": "23167",
+      "nfl_id": null,
+      "rotowire_id": 19346,
+      "sleeper_id": "13401",
+      "sportradar_id": "6bff41b0-4191-11f1-9de2-13456d982f5a",
+      "sportsdata_player_id": "6bff41b0-4191-11f1-9de2-13456d982f5a"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Michael Wilson"
     ],
     "avi_id": "AVI-00010232",
@@ -7656,31 +7706,6 @@
   {
     "active": true,
     "aliases": [
-      "Mo Alie-Cox"
-    ],
-    "avi_id": "AVI-00004054",
-    "canonical_name": "Mo Alie-Cox",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "IND",
-    "normalized_name": "mo alie cox",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": 2998565,
-      "fantasy_data_id": 18900,
-      "fantasypros_id": "16579",
-      "nfl_id": "2558832",
-      "rotowire_id": 12196,
-      "sleeper_id": "4054",
-      "sportradar_id": "8809c0dd-786b-4255-a7d0-333c9498c19a",
-      "sportsdata_player_id": "8809c0dd-786b-4255-a7d0-333c9498c19a"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Myles Montgomery"
     ],
     "avi_id": "AVI-00013964",
@@ -7711,10 +7736,10 @@
     "avi_id": "AVI-00007528",
     "canonical_name": "Najee Harris",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
-    "nfl_team": "LAC",
+    "nfl_team": "NYG",
     "normalized_name": "najee harris",
     "position": "RB",
     "source_ids": {
@@ -8536,31 +8561,6 @@
   {
     "active": true,
     "aliases": [
-      "Reggie Gilliam"
-    ],
-    "avi_id": "AVI-00007204",
-    "canonical_name": "Reggie Gilliam",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "NE",
-    "normalized_name": "reggie gilliam",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": 4039505,
-      "fantasy_data_id": 22206,
-      "fantasypros_id": "19844",
-      "nfl_id": "2565378",
-      "rotowire_id": 14844,
-      "sleeper_id": "7204",
-      "sportradar_id": "4475bb8a-b5a6-4527-bfc7-8e7e03900984",
-      "sportsdata_player_id": "4475bb8a-b5a6-4527-bfc7-8e7e03900984"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Reggie Virgil"
     ],
     "avi_id": "AVI-00013297",
@@ -8912,6 +8912,31 @@
   {
     "active": true,
     "aliases": [
+      "Sam Roush"
+    ],
+    "avi_id": "AVI-00013322",
+    "canonical_name": "Sam Roush",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "CHI",
+    "normalized_name": "sam roush",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26938,
+      "fantasypros_id": "28161",
+      "nfl_id": null,
+      "rotowire_id": 19357,
+      "sleeper_id": "13322",
+      "sportradar_id": "b8b3edc8-986a-4702-84a7-b5193331aebb",
+      "sportsdata_player_id": "b8b3edc8-986a-4702-84a7-b5193331aebb"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Samaje Perine"
     ],
     "avi_id": "AVI-00004147",
@@ -8982,31 +9007,6 @@
       "sleeper_id": "12482",
       "sportradar_id": "06fb642c-b10b-4b23-966a-13668a7c4426",
       "sportsdata_player_id": "06fb642c-b10b-4b23-966a-13668a7c4426"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Scotty Miller"
-    ],
-    "avi_id": "AVI-00006290",
-    "canonical_name": "Scotty Miller",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "CHI",
-    "normalized_name": "scotty miller",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": 3914397,
-      "fantasy_data_id": 21138,
-      "fantasypros_id": "18714",
-      "nfl_id": "2562865",
-      "rotowire_id": 13987,
-      "sleeper_id": "6290",
-      "sportradar_id": "85e18d5f-8a3f-4b6c-88fe-dfdaaed5554e",
-      "sportsdata_player_id": "85e18d5f-8a3f-4b6c-88fe-dfdaaed5554e"
     }
   },
   {
@@ -10185,6 +10185,31 @@
       "sleeper_id": "8132",
       "sportradar_id": "f4529909-1a02-4f4b-a1f3-315cad100683",
       "sportsdata_player_id": "f4529909-1a02-4f4b-a1f3-315cad100683"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Tyler Conklin"
+    ],
+    "avi_id": "AVI-00005133",
+    "canonical_name": "Tyler Conklin",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "DET",
+    "normalized_name": "tyler conklin",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": 3122920,
+      "fantasy_data_id": 19988,
+      "fantasypros_id": "17598",
+      "nfl_id": "2561027",
+      "rotowire_id": 12809,
+      "sleeper_id": "5133",
+      "sportradar_id": "f0d17dfa-ebf3-416c-a8d2-c6bc30675103",
+      "sportsdata_player_id": "f0d17dfa-ebf3-416c-a8d2-c6bc30675103"
     }
   },
   {

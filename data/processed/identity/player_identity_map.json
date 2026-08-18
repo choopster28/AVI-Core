@@ -63,10 +63,10 @@
     "sleeper_id": "1426"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "11616",
-    "match_method": "exact_name_position",
-    "nfl_team": "LAC",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "IND",
     "player_name": "Keenan Allen",
     "position": "WR",
     "sleeper_id": "1479"
@@ -405,10 +405,10 @@
     "sleeper_id": "4098"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "16427",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NYG",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "JuJu Smith-Schuster",
     "position": "WR",
     "sleeper_id": "4040"
@@ -502,15 +502,6 @@
     "player_name": "Tim Patrick",
     "position": "WR",
     "sleeper_id": "4351"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "16579",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "IND",
-    "player_name": "Mo Alie-Cox",
-    "position": "TE",
-    "sleeper_id": "4054"
   },
   {
     "confidence": "verified",
@@ -712,6 +703,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "17598",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Tyler Conklin",
+    "position": "TE",
+    "sleeper_id": "5133"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "18218",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NE",
@@ -910,15 +910,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "18714",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CHI",
-    "player_name": "Scotty Miller",
-    "position": "WR",
-    "sleeper_id": "6290"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "18864",
     "match_method": "exact_name_position_unique",
     "nfl_team": "ATL",
@@ -1089,10 +1080,10 @@
     "sleeper_id": "6819"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "19302",
-    "match_method": "exact_name_position",
-    "nfl_team": "LAC",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NYG",
     "player_name": "Najee Harris",
     "position": "RB",
     "sleeper_id": "7528"
@@ -1276,15 +1267,6 @@
     "player_name": "Darnell Mooney",
     "position": "WR",
     "sleeper_id": "7090"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "19844",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NE",
-    "player_name": "Reggie Gilliam",
-    "position": "RB",
-    "sleeper_id": "7204"
   },
   {
     "confidence": "verified",
@@ -2089,6 +2071,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "23167",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DAL",
+    "player_name": "Michael Trigg",
+    "position": "TE",
+    "sleeper_id": "13401"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23179",
     "match_method": "exact_name_position_unique",
     "nfl_team": "TB",
@@ -2617,6 +2608,15 @@
     "player_name": "Chase Brown",
     "position": "RB",
     "sleeper_id": "9224"
+  },
+  {
+    "confidence": "review",
+    "fantasypros_id": "25329",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Kenny McIntosh",
+    "position": "RB",
+    "sleeper_id": "10216"
   },
   {
     "confidence": "verified",
@@ -4039,6 +4039,15 @@
     "player_name": "Marlin Klein",
     "position": "TE",
     "sleeper_id": "13307"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28161",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CHI",
+    "player_name": "Sam Roush",
+    "position": "TE",
+    "sleeper_id": "13322"
   },
   {
     "confidence": "verified",

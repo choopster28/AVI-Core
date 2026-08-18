@@ -9161,7 +9161,7 @@
     },
     {
       "cbs_player_id": "2867182",
-      "player_bye_week": "13",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "kingsley-jonathan.php",
@@ -9174,7 +9174,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "K. Jonathan",
-      "player_team_id": "NYJ",
+      "player_team_id": "FA",
       "player_yahoo_id": "34619",
       "player_yahoo_positions": "DE",
       "pos_rank": "DT159",

@@ -1823,7 +1823,7 @@
       "genius_id": "1399236",
       "rookie_year": "2023"
     },
-    "news_updated": 1785829816767,
+    "news_updated": 1787089843149,
     "number": 87,
     "oddsjam_id": "EECEBC603FD4",
     "opta_id": null,
@@ -16444,7 +16444,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "5bba3dec-c9dc-40d0-8e0f-0133a7bd58f4",
     "last_name": "Henry",
     "metadata": {
@@ -17405,10 +17405,10 @@
     "hashtag": "#titusleo-NFL-SF-61",
     "height": "75",
     "high_school": "Sheepshead Bay (NY)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "9363bb2a-42b3-4bcd-8287-6c46118ba8bc",
     "last_name": "Leo",
     "metadata": {
@@ -63224,7 +63224,7 @@
       "genius_id": "1463693",
       "rookie_year": "2024"
     },
-    "news_updated": 1771305627800,
+    "news_updated": 1787091343610,
     "number": 95,
     "oddsjam_id": "395A76D64B44",
     "opta_id": null,
@@ -68560,7 +68560,7 @@
       "genius_id": "1463988",
       "rookie_year": "2024"
     },
-    "news_updated": 1771301727566,
+    "news_updated": 1787091643951,
     "number": 58,
     "oddsjam_id": "8C2AB3D9FB0A",
     "opta_id": null,
@@ -72373,7 +72373,7 @@
       "genius_id": "1464191",
       "rookie_year": "2024"
     },
-    "news_updated": 1786158024254,
+    "news_updated": 1787088604930,
     "number": 14,
     "oddsjam_id": "970DF4A52761",
     "opta_id": null,
@@ -81077,7 +81077,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "93ef9bc6-6960-4d70-85e2-f2da2a35f2f7",
     "last_name": "Banks",
     "metadata": {
@@ -108384,7 +108384,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "2f38ca09-188d-442b-9dc0-002ca967ef36",
     "last_name": "Bates",
     "metadata": {
@@ -190563,7 +190563,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "kalshi_id": "c3fcbbd2-c804-45e7-b5f6-94c99a54bbce",
     "last_name": "Reiger",
     "metadata": {
@@ -193881,7 +193881,7 @@
       "genius_id": "1779744",
       "rookie_year": "2026"
     },
-    "news_updated": 1787069446930,
+    "news_updated": 1787091942738,
     "number": 83,
     "oddsjam_id": null,
     "opta_id": null,
@@ -218896,7 +218896,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "14739086-d939-4666-85ee-87c6179d666d",
     "last_name": "Calloway",
     "metadata": {
@@ -392945,7 +392945,7 @@
       "genius_id": "998399",
       "rookie_year": "2017"
     },
-    "news_updated": 1787083503456,
+    "news_updated": 1787087704586,
     "number": 8,
     "oddsjam_id": "07DFEA4F8101",
     "opta_id": null,
@@ -520212,7 +520212,7 @@
   },
   "5981": {
     "active": true,
-    "age": 29,
+    "age": 30,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1996-05-06",
@@ -520229,7 +520229,7 @@
     "first_name": "Greg",
     "full_name": "Greg Gaines",
     "gsis_id": " 00-0035667",
-    "hashtag": "#greggaines-NFL-FA-96",
+    "hashtag": "#greggaines-NFL-BUF-96",
     "height": "73",
     "high_school": "La Habra (CA)",
     "injury_body_part": null,
@@ -520264,7 +520264,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 837808,
-    "team": null,
+    "team": "BUF",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "312",
@@ -624776,7 +624776,7 @@
     "injury_body_part": "Hamstring",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "4606efed-5a41-4bef-9cf8-a642e0b67b0d",
     "last_name": "Yeboah",
     "metadata": {
@@ -626706,7 +626706,7 @@
       "genius_id": "1288397",
       "rookie_year": "2021"
     },
-    "news_updated": 1773113435563,
+    "news_updated": 1787092543406,
     "number": 98,
     "oddsjam_id": "88C31A43F631",
     "opta_id": null,
@@ -658712,7 +658712,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "11a566c7-4643-4e91-bbdf-c3a60803c589",
     "last_name": "Kalinic",
     "metadata": {
@@ -669196,7 +669196,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "cafdc490-0dfa-4040-bd92-3f6194ddffec",
     "last_name": "Lucas",
     "metadata": {
@@ -677132,7 +677132,7 @@
       "genius_id": "1076506",
       "rookie_year": "2022"
     },
-    "news_updated": 1786030849319,
+    "news_updated": 1787091042615,
     "number": 52,
     "oddsjam_id": "B6B961E728EF",
     "opta_id": null,
@@ -679356,10 +679356,10 @@
     "hashtag": "#haggaindubuisi-NFL-FA-60",
     "height": "78",
     "high_school": null,
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "7bdb09fb-5b78-4f75-b523-a7aedb4478bb",
     "last_name": "Ndubuisi",
     "metadata": {
@@ -707015,10 +707015,10 @@
     "hashtag": "#samwebb-NFL-NYG-44",
     "height": "72",
     "high_school": "Excelsior Springs (MO)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "NA",
+    "injury_status": null,
     "kalshi_id": "8cc267f1-908d-4070-8a99-152e26133867",
     "last_name": "Webb",
     "metadata": {
@@ -712340,10 +712340,10 @@
     "hashtag": "#thomasodukoya-NFL-FA-88",
     "height": "78",
     "high_school": "Helen Parkhurst (NLD)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "9e36dbaa-5219-4947-b316-af3a5c4b288f",
     "last_name": "Odukoya",
     "metadata": {
