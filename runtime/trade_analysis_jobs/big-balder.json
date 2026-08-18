@@ -17,9 +17,246 @@
       "maxResults": 3
     },
     "createdAt": 1787071743296,
-    "updatedAt": 1787071744936,
+    "updatedAt": 1787071833580,
     "expiresAt": 1787503743296,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Champion Favorite, Win Championship) possesses an elite championship core led by Jayden Daniels, Saquon Barkley, Jeremiyah Love, and Trey McBride. Shopping Rashee Rice (C-AVI: 96.1, D-AVI: 93.9) presents a unique market opportunity to leverage an S-tier receiving asset to either lock in an unquestioned WR1 upgrade or pivot into an S-tier RB cornerstone (De'Von Achane). Because Rashee Rice carries elite market weight, package recommendations require near-peer starter centerpieces that preserve or improve immediate championship lineup points while satisfying trade partners' organizational objectives.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite QB-TE anchor combo with Jayden Daniels (C-AVI: 95.9) and Trey McBride (C-AVI: 99.5)",
+            "Unmatched RB room featuring Saquon Barkley (C-AVI: 91.8), Jeremiyah Love (C-AVI: 89.9), and Omarion Hampton (C-AVI: 89.2)",
+            "High-end WR corps led by Rashee Rice (C-AVI: 96.1), A.J. Brown (C-AVI: 93.4), and Nico Collins (C-AVI: 92.1)"
+          ],
+          "priorityNeeds": [
+            "Ensuring any trade involving Rashee Rice yields immediate S-tier starter replacement to maintain championship odds",
+            "Maximizing positional advantage at WR1 or RB1 without taking on uncompensated projection risk"
+          ],
+          "tradeableSurplus": [
+            "Elite WR depth allowing near-peer cornerstone rebalancing"
+          ],
+          "constraintsApplied": [
+            "Win Championship goal requires incoming centerpiece to belong to the elite league-relative starter pool and maintain immediate scoring output",
+            "Confirmed trade-block listings remove availability friction but require fair market returns to satisfy seller objectives"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Crimson Tide Pods, Northside Kings, Rapid Valley Annihilation (Rebuilders): Lack current S-tier starter centerpieces required to maintain Big Balder Brand's win-now scoring profile.",
+            "Lightskin Legends, DMV Fantasy, Gringo's Goblins, Phalhala or Bust (Retooling): Roster structures lack near-peer assets that align with both win-now needs and seller compensation demands.",
+            "Ravens Regime, Badland Banditos, Southside Savages, Smoky Valley Wheat Warriors, Mile High Royal Lions: Lack publicly listed cornerstone trade-block assets that beat or match the immediate utility of Rashee Rice without gutting their own playoff push."
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Conquistadors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 97.4,
+                "davi": 97,
+                "publicMarket": 95,
+                "leagueMarket": 97
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rashee Rice",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 26,
+                "cavi": 96.1,
+                "davi": 93.9,
+                "publicMarket": 88,
+                "leagueMarket": 95
+              }
+            ],
+            "scenarioType": "Win-Now Positional Core Swap",
+            "strategicGoal": "Acquire De'Von Achane to create an unmatchable Saquon/Achane/Love backfield while giving Conquistadors an S-tier wide receiver centerpiece.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 21,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 91,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "De'Von Achane (C-AVI: 97.4, D-AVI: 97.0) is a slate-breaking, game-changing RB asset. Adding Achane gives you the undisputed top RB room in the league while A.J. Brown, Nico Collins, and Chris Godwin/Khalil Shakir easily maintain elite WR group scoring.",
+            "whyOpponentMightAccept": "De'Von Achane is confirmed on the official trade block. Conquistadors (Elite Contender, Win Championship) already feature Bijan Robinson at RB; receiving Rashee Rice gives them a dominant WR core (Puka Nacua, Rashee Rice, George Pickens) without losing overall championship lineup point projection.",
+            "championshipImpact": "Constructs an unbeatable RB trio and elevates FLEX scoring variance during fantasy playoff weeks.",
+            "dynastyImpact": "Gains a 24-year-old explosive RB1 with top-tier dynasty longevity.",
+            "rosterImpact": "De'Von Achane enters the starting RB/FLEX lineup, sliding A.J. Brown and Nico Collins into primary WR spots.",
+            "publicMarketContext": "Achane's home-run speed and high PPR reception floor make him a top-3 dynasty RB in public consensus, perfectly matching Rashee Rice's elite projection in Kansas City.",
+            "risks": [
+              "Slightly reducing WR depth if subsequent injuries hit your receiving corps."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Rashee Rice straight up for De'Von Achane, pointing out Achane's trade-block listing and the ideal positional fit for both championship rosters.",
+              "acceptableConcession": "Add a late future pick sweetener (e.g., 3rd round capital) if Conquistadors push for minor compensation.",
+              "walkAwayPoint": "Walk away if Conquistadors demand Saquon Barkley, Jeremiyah Love, or a 1st round pick in addition to Rice."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Omarion Hampton NFL draft 2025 2026",
+          "Rashee Rice news 2026",
+          "Jaxon Smith Njigba news 2026",
+          "Tyler Warren NFL draft 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTF2jldqwb698uyC_2IqAN_7XawxFqRSxxnuww_2eaNjBjptGF9lgJNpX2BOAgtfZnx36yZqUTSLMv42cjVAEhzG9iVyTGuvKZS8hbj8uCnP8-zuD8N_sjqQu15P612ApDh_t1MzfWKWk-b5hGAl9BcbwrKDm354w0sPxME_3042meaz2MY3wvCp-iX52Iyi32TERr1z31pVjd4OpKUKeEi6x4xCGQqF8_ywA=",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBiEYA5kA5hXbnuHOpYdl4jZOD-E9UfiQgEOwZcHdi2PN8lEijlLoP8TLUwVBjFlCdJwa5x8S6zZw-sKF4loP5mNyDGkXVqBrtuNzZ5XrpUGzYukUBd1zT8uiPn2a0P4DmnmLIsxd4ZxN4MRmVGpG20WOK6vrg6e-WWRZV6O9OyTbz3_MyV9QRiK58wXbIF-eRHLwC7D1ynDU_bObhGagjNlLqsGiL6BTePJav2WNT",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfbxnB8B1tGgbVtEhYEycqEYTqJYSXQQM_rECtZ5Vy8ZUg7peZu6vLTDtSF5ufJxajxraECNA6TLaseeXJNCbCRwU75KoRVbesRN0wHpTiQJ5Oi7LuUpm10TyPYv3ODJYonXpMMM2Tzsv7Wo13twANYD7o2HvMfdTwLH_-F4VtWUiD6vareOXpsbBUcha2pcGkj31QeJ7Txq9T5-DfRPi1pmcFQMCCGNCJQIOm",
+            "title": "medina-gazette.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECqK7z58nzaUpnzPNhR-TFaIV_HQ1I6zF9_aqL5hMnr1YV6mOU78ky82b61JEqkPmVaYxCK-SWs7tLcT1pzgZ07TiUCXhojX0qAcHoDltFsbsDesmRXF2x3TkNAsju6mCjLhvrUlIiEAA5LxVFx5BcvMaRnK801pS1VpLNAXi67Py6x0zjdgEG2zfzsUy4NkxaTNthyytV5WhxDbZruOtdvhSRLknbYUGO",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwDhCBNBlV79MfT36YIy4CrxqvPKl3wXbJsuj8KeqwEVHobsSICw6JoyhkKNI7jR77WAPg3anwgj8Vj_bUBnKASoc6mlhKp7P97-y3owH28USMgyRR_Q0_c0eYGilwxh5Uco0HLtehPEFPwoPwTNbC4mcTqPyrGspF8BBMHTyd3bdMdE72kYc-Cr9wGJKezbgepo6vC6H7HpBrjva04idOFDrFry0DxH2BcCEAc1oA673yqi5AtcQKj6l_",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrAvJIJlfREi4BbPj0-L6QApNzbSL0F4ZnAYdAS8Zuw0u48cYkn_SAxL-1JV6jPuUdOCviibSg259wp5gV_YX7G61GlFVYJUnheymFAm4obe-lQgz8GVM8UqFZx-GI8wKRNdIugx32LkwMSnLawljVj5fKfm7BPPjxC8s6HvshLpJNoQLrN_CRzr1mpf8bma5gNpzWvFbFpAPvlvrhxdOGNkFjGSj8OlqFrRUmeG5FkuFwA1Gh0m_J",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkoCRrd5wD_ZTA6q6cHcJkKpCmuhNwNumCNF71MdCEq4S8BUPM2Bi6cbrH4Y5dEf-czgynFkvJ7a79m-mkdPmnxnZWy0Vk9QWc1jHbGx6em7106y421XvfoEl6B5tv-HZvgQJZ4omkz-WYYWoo--c0geIPzC0PfD0dxvUCkEQGeUjnbVoRM8VpY7U8uwR",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1hOwyXTIdKD7hB23fZM31j8A0IYzERTBMYoG_6Cm3UVQ0sFgqIIqLnChNhRbD0gsXAody6Pz3gTt8Rw5U1dYIls2YssenVi4JnQdj6dIe7jIPH-e6mGEe9ZkHeUmRD8i-9Q5VUASH1kord2GStJY1g9kIUiooNzGcaKqwq7DNjTgAgj_tz___HNmmpmlbx1UawBoh_Zd4fDfvCXkAjAvwvVwpkWEDv0qJ1cYARb1AK7yasTpMOUfpgaYeDIdv6sJfzZtwhb8gai_Q",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVwP6UAlNfubIctAnjMiq1dFfBNcfOstkTpwLMu8ar4qWTykkqSzNrC4ocScB9tT0MNtFQgKAIAQR46i0UZZZRb6SCQZ3e-gk1BOvdXbYaYWEYrr0lV3Ep6TLiK6lZ1snxO3ZihWC_",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3oPhJBizfePiROckXoUkzQK0OiBXkpjRoqvD0eBhg0-QRyHuy-BU86KyiEgJp_UQwLFlHAqdp5O-DTxqjyFMEuwKWYzYt2BhryXwu4E9aXUVGJcS7O_vLrrVBgS6TgonVRbO6ZFPZxy_NPpIMjCMsCip1tnMemqprmaW1xDlebRlQqLyA7rWoyg==",
+            "title": "colts.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPBLcnMp-d7RACWq1vN2jAwAnbbm3jsxs_lPkn_Et29lcYUL8sX-CUJed8EVxs5b9iA-1ZfJZvENGvgsdXLmGqtoLcAqSs6ygdUsG9DFZAje0u988SljM1IU_MJbDN3k5fet9aeYf-yhoQcjhaK5-hc6wCthiIP8bO4eIOvex1g1KM_94qAej1HOsMJMnFYgww73CPzGgjTfYE7QE=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCX06hQbrQm3XclrSbK_Mx3RMPSgJm-gj1YquWTQontBLM-9w4QeIwkd6K3f2y4B4GiDiNL0ehBqYyDuycuq2-PAPPm_NL9KUN3J_6QqjpcucPoTFeJXCtzETfT1lanKbB5dBYKdjWZFIRRKjJX8hlx5NBxq1JPAgT5OQiMMn2D9nGHA30itLX426eFoyP1fgJ9V7TcoPxhEmu3nhXyE_CB3w=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjMe7W8eadmFGyj48Wbot8OUBNRfTbGVDPRvuZzRitt269NPwraCcEVS925fRyx18ljxw5q_ouAQj_nubNC04WO8z-VCUi8_JwIbLoS9CpQf125m8IhQiiRJQR-eXdAJC7uRy4gF_U9zqizd5m4JWrKkl5pnuboLMLOdx3cU7MlUMoaYacs_d4Mqtj0dLTsOWz_sZYgXrRWydfYZcC70DTZ_EnsjZancGPFQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNTY8Z63dXVj85eOq-5tnJLhy1DZ7edkIwJfq-uhfSV4oqKCDZU8dBPy_Ht6znwl_Ni7tRFMsqIC3Tn7poerKW8cRRZk-cXt6OWyyjHcMsu4MyavvlUXeBpIIvNmuyD41Y6eMVSglmrT4uprm9vIi-CdUpZVSaBcgzOy81gNUu3tTscQk_4BcB",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQm0a8jqAph0H6G84EuEPsbRPiFXMPjy5o3YDsB7sqczRJIy3-vtKMF6DRYFIK2VCrprJexWXOHgIO8C7uPelLENm29HMAioqBcTnZX7l45Ap1EqQS1PDz6G7cVeZJl2AbCWi_W3ef1sCIl7IWnlZ7AXnOl-FoO3dooeo0P_wVTzUk1LanFb9rA_-CflHH00m0efmNW2l_obR5Qac=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySbtc9oTEsvXk9phvyY14-h-9RwLsW6lO--a1uIbfpx777Q7XX5IezIZ2ZlJB24cpcEeAq30Ym-1cT3n3SK5Oqu99vrb2OazKvkIdfHa1B-0zbQ1R1Hd58ngd4XG8Zltl",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Jaxon Smith-Njigba",
+          "Tyler Warren",
+          "Rashee Rice",
+          "Amon-Ra St. Brown",
+          "Justin Jefferson",
+          "Puka Nacua",
+          "De'Von Achane",
+          "Omarion Hampton"
+        ],
+        "aviCoreCommitSha": "d818dde42268fa9dda05900034e4cb0271fc57dd",
+        "aviCoreCommittedAt": "2026-08-18T16:42:33Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 523894,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "msyw8ckq-ec798616",
