@@ -1,5 +1,22 @@
 [
   {
+    "id": "msynn47v-99a5cd9a",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetPosition": "RB, WR, TE, QB",
+      "maxResults": 3
+    },
+    "createdAt": 1787057075227,
+    "updatedAt": 1787057075227,
+    "expiresAt": 1787489075227,
+    "status": "queued"
+  },
+  {
     "id": "msymn3jk-ae9b67b0",
     "phase": "initial",
     "mode": "improve_team",
