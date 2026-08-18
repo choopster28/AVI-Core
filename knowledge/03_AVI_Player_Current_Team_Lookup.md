@@ -812,6 +812,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
+## PLAYER LOOKUP: Jahan Dotson
+- Player name: Jahan Dotson
+- Player ID: 8119
+- Position: WR
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
+
 ## PLAYER LOOKUP: Jahmyr Gibbs
 - Player name: Jahmyr Gibbs
 - Player ID: 9221
@@ -1844,14 +1852,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
-## PLAYER LOOKUP: Tyreek Hill
-- Player name: Tyreek Hill
-- Player ID: 3321
-- Position: WR
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Team file: 06_Lightskin_Legends.md
-
 ## PLAYER LOOKUP: Tyrone Tracy
 - Player name: Tyrone Tracy
 - Player ID: 11655
@@ -2195,15 +2195,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 35.5
 - Dynasty AVI (D-AVI, 0-100): 68.0
-- Availability: available
-
-## AVAILABLE PLAYER: Jahan Dotson
-- Player name: Jahan Dotson
-- Player ID: 8119
-- Position: WR
-- NFL team: ATL
-- Championship AVI (C-AVI, 0-100): 35.4
-- Dynasty AVI (D-AVI, 0-100): 56.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Jalen Tolbert
@@ -3615,6 +3606,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 2374
 - Position: WR
 - NFL team: LVR
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Availability: available
+
+## AVAILABLE PLAYER: Tyreek Hill
+- Player name: Tyreek Hill
+- Player ID: 3321
+- Position: WR
+- NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
 - Availability: available

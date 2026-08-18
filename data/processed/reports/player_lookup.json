@@ -375,18 +375,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00008119",
-      "c_avi": 35.4,
-      "d_avi": 56.0,
-      "nfl_team": "ATL",
-      "player_name": "Jahan Dotson",
-      "position": "WR",
-      "sleeper_id": "8119",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008117",
       "c_avi": 35.3,
       "d_avi": 58.6,
@@ -2271,6 +2259,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00003321",
+      "c_avi": 0.0,
+      "d_avi": 0.0,
+      "nfl_team": "FA",
+      "player_name": "Tyreek Hill",
+      "position": "WR",
+      "sleeper_id": "3321",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00006853",
       "c_avi": 0.0,
       "d_avi": 0.0,
@@ -3913,6 +3913,22 @@
       "status": "Active",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00008119",
+      "c_avi": 35.4,
+      "d_avi": 56.0,
+      "nfl_team": "ATL",
+      "owner_id": "872509429436829696",
+      "player_name": "Jahan Dotson",
+      "position": "WR",
+      "roster_id": 6,
+      "sleeper_id": "8119",
+      "status": "Active",
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -5977,22 +5993,6 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00003321",
-      "c_avi": 0.0,
-      "d_avi": 0.0,
-      "nfl_team": "FA",
-      "owner_id": "872509429436829696",
-      "player_name": "Tyreek Hill",
-      "position": "WR",
-      "roster_id": 6,
-      "sleeper_id": "3321",
-      "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
