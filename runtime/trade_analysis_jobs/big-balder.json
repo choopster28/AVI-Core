@@ -12,9 +12,10 @@
       "maxResults": 3
     },
     "createdAt": 1787055394736,
-    "updatedAt": 1787055396418,
+    "updatedAt": 1787055621059,
     "expiresAt": 1787487394736,
-    "status": "running"
+    "status": "failed",
+    "error": "This operation was aborted"
   },
   {
     "id": "msvyyika-d5d88578",
