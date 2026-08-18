@@ -12,9 +12,274 @@
       "maxResults": 3
     },
     "createdAt": 1787063822412,
-    "updatedAt": 1787063823891,
+    "updatedAt": 1787063924094,
     "expiresAt": 1787495822412,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. is actively pushing for a championship title with a top-tier core in Patrick Mahomes, Jaxon Smith-Njigba, Malik Nabers, and Tyler Warren. To maximize immediate championship odds, the franchise needs an elite, high-upside RB1 centerpiece. Leveraging its surplus of premium future 1st-round draft picks (acquired via prior trades) alongside productive starting assets allows Corgi Loaf to target confirmed trade-block cornerstones and retooling RB stars without compromising starting lineup depth.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite WR ceiling headlined by Jaxon Smith-Njigba (99.1 C-AVI) and Malik Nabers (89.1 C-AVI)",
+            "High-end TE upside with rookie phenom Tyler Warren (97.2 C-AVI)",
+            "Tier-1 QB stability with Patrick Mahomes (75.0 C-AVI)",
+            "Massive draft capital liquidity including multiple future 1st-round picks"
+          ],
+          "priorityNeeds": [
+            "An elite, tier-1 starting RB centerpiece (90+ C-AVI) to anchor weekly RB1 scoring",
+            "Upgrading starting weekly ceiling to compete directly with Champion Favorites"
+          ],
+          "tradeableSurplus": [
+            "Acquired future 1st-round draft capital (2027 DMV Fantasy 1st, 2028 AHKJ 1st, 2029 AHKJ 1st)",
+            "Productive starting-caliber RBs (Cam Skattebo, David Montgomery)",
+            "Starting-caliber WR depth (DJ Moore, Wan'Dale Robinson)"
+          ],
+          "constraintsApplied": [
+            "All trade recommendations satisfy both user and target organizational goals",
+            "Only league-relative starting-caliber assets utilized in outgoing/incoming player packages",
+            "All draft picks sent are verified to be currently owned by Corgi Loaf Baking Co."
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Eliminated managers lacking tier-1 RB assets available for trade",
+            "Eliminated contending sellers unwilling to part with key starters without receiving immediate peer replacements",
+            "Filtered candidates failing the 70+ acceptance probability threshold under Market Reality v2 criteria"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Badland Banditos ",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Kenneth Walker",
+                "assetType": "player",
+                "owner": "Badland Banditos ",
+                "position": "RB",
+                "age": 25,
+                "cavi": 90.4,
+                "davi": 94.2,
+                "publicMarket": 91,
+                "leagueMarket": 92
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "David Montgomery",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co. ",
+                "position": "RB",
+                "age": 29,
+                "cavi": 69.6,
+                "davi": 84.5,
+                "publicMarket": 72,
+                "leagueMarket": 74
+              },
+              {
+                "name": "2027 Round 1 (DMV Fantasy)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co. ",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": null,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Contender Upgrade / Age & Upside Swap",
+            "strategicGoal": "Upgrade David Montgomery into young KC workhorse Kenneth Walker by offering Badland Banditos an established starting RB replacement plus a premium 2027 1st-round pick.",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 20,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 78,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Kenneth Walker is the explosive lead back for the Kansas City Chiefs (90.4 C-AVI, 94.2 D-AVI) at just 25 years old. Swapping 29-year-old David Montgomery for Walker dramatically increases Corgi Loaf's weekly ceiling and long-term window.",
+            "whyOpponentMightAccept": "Badland Banditos is pushing for the playoffs and gets David Montgomery (69.6 C-AVI) to maintain weekly starting RB production, while gaining a highly valuable 2027 1st-round pick to reload their roster.",
+            "championshipImpact": "Dramatically enhances RB production and big-play upside for playoff matchups.",
+            "dynastyImpact": "Gains a prime 25-year-old Tier-1 RB locked into Kansas City's offense.",
+            "rosterImpact": "Directly upgrades starting RB spot from David Montgomery to Kenneth Walker.",
+            "publicMarketContext": "Walker's market value has exploded following his move to Kansas City as their featured back. Montgomery offers a high-volume floor in Houston.",
+            "risks": [
+              "Montgomery's steady touchdown volume in Houston could match baseline expectations",
+              "Parting with 2027 1st-round pick"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer David Montgomery + 2027 2nd-round pick, emphasizing Montgomery's safe starting role in Houston.",
+              "acceptableConcession": "Upgrade pick sweetener to the 2027 1st (DMV Fantasy) as outlined.",
+              "walkAwayPoint": "Walk away if Badland Banditos requests an additional starting WR on top of Montgomery and the 1st."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "David Montgomery news 2026 fantasy football",
+          "Kenneth Walker news 2026 fantasy football",
+          "Jonathan Taylor news 2026 fantasy football",
+          "Saquon Barkley news 2026 fantasy football",
+          "Malik Nabers news 2026 fantasy football",
+          "DJ Moore news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW31FkCPSKZK_7pocxNCAlwEsDMI-P5TjavdgzZwQReC9rY7YTcTNxUAHUYOBPJNVASlJ64RwYvvWCjb10EoClDO7WOftTGYGGCO_t-D3vY9yweBSlwvYKOeNTx2clhKuoalkrNbpFgvTYkhnI_V1zmUDp",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Au8bD_NupzYSqIFu0vpevEkUp8_48GShFcstm-VCyE2F6O0d_XII5dpwPlQTSbqGaaOh_SUVjbHOT_D2vtFEvKOOEP5Nkw6VgpAjLXyDVaAiC-EwnwSYRDP1Mf2BUfCMALk1unzJL43_Vi_UjzLGfRIlveVg-kGQm-ZLaGkePlB2uCLEF6Cg",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAM-XgPH7CGW_UzUoTPAxXab5AekEoVNeAKDsbV8Yp39sxjL1GTXz_ZihyxDO865LMYC76r103OzI6LlOc11j5m66ZK0dW_2qsXzVCiiwjCrJieSS-6W4LXhjzDsvfm6xBuhuzEBRcQyQfVJyotO_oks03zybBHexFK3EbMfPWYI8FyYUbLxWXPI9p0FlqZoHboSKsDrBGTxya19H0",
+            "title": "fantasylabs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTEWXvDtDdqV9MUvCzgLDZF78NH_68BLYn_XJZKEIyyyhTRfC-N5xFL_6tTNx52Ztwri_TOIDvmN0SY9BVCnVh7TNJ6Wkxg7m2hW3yNem4BO0vmU4ovqkqPvXOlafydQUxuWKk-sTojBuemqnPLCxrXVyMXv9_jmukj0hSV3zjpOJhTk=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI1bIzeDFAaxGeMwUgRgOKhL1j9z3aPXKFfiW3ksnveo0OXNMHJ7YHCYFRAjjJxXJzrM1Bw3iLQr5ocLKjbYdYLzg4xShJ808X2wpG5Jo_0MY5KdADxYpfQsRc1SZ5aSAhgV6pyu1VlahN9EetKyJHpeCUnr70OHMzHc8Aj7-1ltdZoxdOQfQpCAI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0DRF7g4QO2F_2g82VXwXBcSOF3Bfw3eh0rALzXk6Z5GyihbzwI29ClIK4S1jRMSwPY17VSwN-AzsMMQ4yN_hcNBwCGCI0kfiMDD7C-HTJB6ZddGtT5W5LHWen7iJYZPzQHj7Vkzxe0tbKbnNC7GGo63G2eu_iF7R7iuSb6IkfBf7a6w==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE14zMKFVMXzVtL5BltOz1uO2B_uJsjvarnxWpaWGB9bjKn0Y6qCePFRLChr-v5H3jfjCmfODkLO_nxUatcneJK3fKo20yL8Srsn1lbKERZ__YtQ0zrACE9D-L5pu3n73cPm-TUcpA4oxms6kRHRRqP7ZzIX-PNrwA7Cv5KFRJQE3ln2P5RyajaTibLUZokhUiA6TxyOmfuTQlEb0qnY0Tt__A=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOQ_F81cvg7onv66uSULqQseyJ2YrfOnbU4gDJYSKjMLMR6ht4Ery3RIZJMuwN2ptGM9RXQz9nx3o5OtRGEthGH4fK6sLEHI3dpxnZiF4GYnU80_XwDQAjtwFnwgN7S_IrV0kWioEVQ6-SbfoJzkurW9Q-p05AGwCiTX83k8sw2LXQVNZl9aJqH8h5Jtqd8UpVzRdWr7Z3ZLqBI81pkHU9FQ==",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSX8wV-UrtgUAuNvF1NaSZFptsD_0FcuT_6YQtmjOoiLPKfUak8iR852PMJe7wnAeRnIJUZyoq8P6rygfyAA0tvcm1_xsOApDjvqzre84fQA-QFQoric1s75etKyPrxhE3TxLBY9zLjQYVOohP",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOqA8xjpTd5gU4cZtMZQzUFfnPKchOZnVl7jGXS3hCbnIflhaC0voe7Fd7ggejn8qn99QkumqnglGWEBEqm4eXjiZx0EeFOt5NHYk_j-teCsfOk1WZvSaSTuVY9wACm-A=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSodCAmaMoXSNwJq6WZiuFMiGUCgjcKC34y6m785bif_FnQcZ5GGEHDU6eMTqt-koirRt-KKIwlrk_M2grQokwAcMwzz1Z0rZGeW5yosynckdvTRvg167m-B_a07Uxx0wKVSvSrX8jyOSWm-IJLHxr_AA11FnhpO7X2Ezt0dDMThSFvLn57BINcbcu5x8CG0xf7XyISpXPMm1pGShf_ePIE6EP81a4gN30CgbN",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNgl5UQjbugx-xIm2krwWflty8TbZ1U57q2cJ3O9qwk4LcodBnLylPUSRL_kklFSZUBfeeT48gDJod9KSZ6UrED2TkYhKnN57WQD-fBCS3Z38t8CT8aFVFYtADY6JS_bsfm0G36UE-INSsLRP3zp4bgdwfLwOWV1g9yVanwi_8tC2LJIBYeAXbRv0BmbMK90E-Li4jrwoa5VYGnz4NDIqcQM3NJg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-BXfKNavcr-7J6LNscz6D1GlorPc0jBinjV3ZTvR850unJY24Nk5tzRCUv-4PuM7uUFcttpN8xGp-Izz1k3qn4RQ5hBvmfavTulPKoiwI-SV4jhWkc9TOLPoist1XOaCQzIZSMo-qQF1Vs88NMFlM-8yTHWbFqcuvoPajMSNpxQGc5TVwMB3YS1w7-ZKYtF947aeDX8sM6Q==",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv_TuJPGGAjBdhevrw9M6EmaYvk1mrx68i2VdxoVrBg_4EezzRTVWr27JNT1OykZ5Hh-iDciDRB8lLKWIdPhiUWUeCYmSEZ75dYdtgqXxJNJ4hbEn6pRVLqBnDqv-0W_gzuoYZZSmS796ZmfAGMLgQ",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDrrwitqJqa89XOcF0yXqi1C_5Htg-glvAoPKKVsGtH0yxx6IBAy7T82bn6DK_-kKJK6xPHWC_P7ZSD8py-OhFi1I6tQ2oXP4517NaUMoNYUUDl-wUU6gkXmzpiEhDrIvAr1h8EaXQ3l7w9yg6FKHIVIdhLk1jYqVk2-Q0mxKU_Xvk6LHRI82Q0tet6goEUL9kcz1eRYpxMN79Tv5brceKjA==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ULk-oY8d7WkOzaM9g4I5xQEw9LXGSFfNEs8YFdzr7jYcWKiZv7j0D2DK_3ZLWVkcf4-NsMS8kYyQ652gztjHqTFgMolGdDPHy0oi_60fA9QCQnV93bEBGg9twqePieaGJlaYvbdr62ID_Bs05GdD-h5oMKlkfkr2nA==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOKmGcTEp891bxfPwi2AYkj-X-mqIk_Q6g074eQf2V3VkSWVFWSHWG2lsJvOBg92ZTRDoupmlV28oQrueayllaclXS5y0aRcsCnUzpKfDWVW9-pRbVU8cHKu7mEZsl9XcDsc7q9jy1zS7NnpvNLPOxpWujrJFB1wBquEqEg1H_8OHFBSb4l-GDFkiodp16sowo4qFcl9RKImU=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm9uCvZj6LHTrEUBn-QpI9P3cbNxtOKurZ1poe2ArD-eC9QKo4su9ZVUIAPDi5tlxd2xXQe8EEyynJ6qLLCIiE4ofSM7DuaC1p3ygvyDLH_xZjduNbcy2Xz8ohcCkWDr8VFnPzDcLxvPOtvYnc5Jr_MeJ94BaeQ8ssKYm7lN_vu_gNX25dBRPFVwZP0CDn1byeyY_H8Gcy2SAQKMr9hp8kXfRLMKKRPXSF25s-APMG",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYCZ99UbAxZSufOfqXoPpucCrDwljJoQnP8ctavHfXusNCwNhtsDwAF9d8rg6h_Q421BMYErOytxzcYNXMVa-tPYgIUTfim6sxqPn9m4rz0mITPb3-aecB1A8YhhyEyt87",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Kenneth Walker",
+          "David Montgomery",
+          "Jonathan Taylor",
+          "DJ Moore",
+          "Saquon Barkley",
+          "Malik Nabers"
+        ],
+        "aviCoreCommitSha": "a7a9e24ef9a5019e6b0de3e5e703761eaa6d0e74",
+        "aviCoreCommittedAt": "2026-08-18T14:02:47Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 523894,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "msupsbac-314a2448",
