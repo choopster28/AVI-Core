@@ -87,18 +87,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00011834",
-      "c_avi": 43.3,
-      "d_avi": 62.3,
-      "nfl_team": "NO",
-      "player_name": "Devaughn Vele",
-      "position": "WR",
-      "sleeper_id": "11834",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00009479",
       "c_avi": 42.7,
       "d_avi": 61.8,
@@ -898,6 +886,18 @@
       "player_name": "Riley Leonard",
       "position": "QB",
       "sleeper_id": "12470",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013402",
+      "c_avi": 25.7,
+      "d_avi": 62.8,
+      "nfl_team": "BUF",
+      "player_name": "Skyler Bell",
+      "position": "WR",
+      "sleeper_id": "13402",
       "status": "Active"
     },
     {
@@ -3469,6 +3469,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00011834",
+      "c_avi": 43.3,
+      "d_avi": 62.3,
+      "nfl_team": "NO",
+      "owner_id": "736993578450030592",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "roster_id": 1,
+      "sleeper_id": "11834",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00009486",
       "c_avi": 44.3,
       "d_avi": 68.6,
@@ -5577,22 +5593,6 @@
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013402",
-      "c_avi": 25.7,
-      "d_avi": 62.8,
-      "nfl_team": "BUF",
-      "owner_id": "736993578450030592",
-      "player_name": "Skyler Bell",
-      "position": "WR",
-      "roster_id": 1,
-      "sleeper_id": "13402",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
     },
     {
       "active": true,

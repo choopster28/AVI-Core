@@ -564,6 +564,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
 
+## PLAYER LOOKUP: Devaughn Vele
+- Player name: Devaughn Vele
+- Player ID: 11834
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
+
 ## PLAYER LOOKUP: Dontayvion Wicks
 - Player name: Dontayvion Wicks
 - Player ID: 9486
@@ -1620,14 +1628,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
-## PLAYER LOOKUP: Skyler Bell
-- Player name: Skyler Bell
-- Player ID: 13402
-- Position: WR
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
-
 ## PLAYER LOOKUP: Stefon Diggs
 - Player name: Stefon Diggs
 - Player ID: 2449
@@ -1979,15 +1979,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYJ
 - Championship AVI (C-AVI, 0-100): 44.2
 - Dynasty AVI (D-AVI, 0-100): 62.5
-- Availability: available
-
-## AVAILABLE PLAYER: Devaughn Vele
-- Player name: Devaughn Vele
-- Player ID: 11834
-- Position: WR
-- NFL team: NO
-- Championship AVI (C-AVI, 0-100): 43.3
-- Dynasty AVI (D-AVI, 0-100): 62.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Darnell Washington
@@ -2591,6 +2582,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: IND
 - Championship AVI (C-AVI, 0-100): 25.8
 - Dynasty AVI (D-AVI, 0-100): 45.0
+- Availability: available
+
+## AVAILABLE PLAYER: Skyler Bell
+- Player name: Skyler Bell
+- Player ID: 13402
+- Position: WR
+- NFL team: BUF
+- Championship AVI (C-AVI, 0-100): 25.7
+- Dynasty AVI (D-AVI, 0-100): 62.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Jarquez Hunter
