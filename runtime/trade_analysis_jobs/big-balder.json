@@ -1,5 +1,39 @@
 [
   {
+    "id": "mt07ho77-9dc0ae2d",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "DJ Moore",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1787150879683,
+    "updatedAt": 1787150879683,
+    "expiresAt": 1787582879683,
+    "status": "queued"
+  },
+  {
     "id": "msywdi67-6d8c20ac",
     "phase": "initial",
     "mode": "shop_assets",
