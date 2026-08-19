@@ -1,5 +1,403 @@
 [
   {
+    "id": "mt07ho77-9dc0ae2d",
+    "createdAt": 1787150976423,
+    "expiresAt": 1787582976423,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Big Balder Brand ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "DJ Moore",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand receives a lucrative package by trading Rashee Rice to Corgi Loaf Baking Co. for DJ Moore and a projected top-5 2027 1st round pick (DMV Fantasy). While surrendering Rice creates a modest 18.8 C-AVI drop at FLEX2 in the starting lineup, acquiring Josh Allen's new WR1 in Buffalo alongside elite early draft capital significantly enhances dynasty flexibility and mid-season acquisition power without compromising championship favorite status.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 96.2,
+              "davi": 94,
+              "publicMarket": 88,
+              "leagueMarket": 94
+            }
+          ],
+          "sideB": [
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 77.4,
+              "davi": 87.4,
+              "publicMarket": 76,
+              "leagueMarket": 82
+            },
+            {
+              "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 82,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand leverages Rashee Rice's peak market value to secure DJ Moore (a immediate startable WR1 in Buffalo) plus a high-value projected early 2027 1st round pick. Corgi Loaf Baking Co. upgrades its starting WR/FLEX slot by +18.8 C-AVI and secures a stack with Patrick Mahomes."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted construction is highly advantageous for Big Balder Brand and strongly recommended for execution as written."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Minor current-season starting lineup drop from Rice (96.2 C-AVI) to DJ Moore (77.4 C-AVI) at FLEX2, offset by high veteran floor and new draft currency."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Secures a high-end 2027 1st round pick in the 1.01–1.05 range, drastically boosting total organizational value."
+            },
+            "lineupQuality": {
+              "score": -12,
+              "summary": "Starting 8 C-AVI moves from 749.2 to 730.4, shifting A.J. Brown and Nico Collins to WR1/WR2 and placing DJ Moore into FLEX2."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "DJ Moore provides steady WR1 volume in Buffalo, maintaining high baseline depth alongside Chris Godwin and Khalil Shakir."
+            },
+            "flexibilityLiquidity": {
+              "score": 88,
+              "summary": "Adds a liquid, premium 2027 1st pick that can be held for rookie drafting or used as prime leverage in a mid-season push."
+            },
+            "overall": {
+              "score": 16,
+              "summary": "Gains major long-term capital and trade liquidity while retaining a championship-caliber starting 8 offensive lineup."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 38,
+              "summary": "Improves starting lineup C-AVI from 658.0 to 676.8, forming an elite WR core of JSN, Malik Nabers, and Rashee Rice."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Acquires a premier 26-year-old WR tied to Patrick Mahomes through 2026 and beyond."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Directly replaces DJ Moore (77.4 C-AVI) with Rashee Rice (96.2 C-AVI) in the starting lineup."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Depletes draft capital buffers and surrenders WR depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -55,
+              "summary": "Relinquishes a high-value projected early 2027 1st round pick."
+            },
+            "overall": {
+              "score": -16,
+              "summary": "Upgrades immediate starting lineup ceiling for a Playoff Push while giving up premium future draft capital."
+            }
+          },
+          "explanation": "Big Balder Brand gains substantial dynasty value and strategic flexibility by extracting a projected early 2027 1st on top of DJ Moore for Rashee Rice, while Corgi Loaf Baking Co. successfully converts future capital into immediate starting lineup elevation."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand absorbs a minor net loss of 18.8 C-AVI in its starting lineup, as DJ Moore (77.4 C-AVI) enters FLEX2 to replace Rashee Rice (96.2 C-AVI). However, with Jayden Daniels, Saquon Barkley, Jeremiyah Love, A.J. Brown, Nico Collins, Trey McBride, and Omarion Hampton remaining intact, BBB remains an elite championship favorite.",
+          "sideADynastyImpact": "Dynasty portfolio value increases significantly. While trading Rice (94.0 D-AVI) for DJ Moore (87.4 D-AVI) reduces WR age/longevity slightly, adding the 2027 1st (DMV, 79.3 D-AVI) creates a net positive dynasty asset influx of +72.7 D-AVI points.",
+          "sideARosterImpact": "Roster construction remains well-balanced across all 8 offensive slots, shifting Nico Collins to primary WR2 and inserting DJ Moore as a high-floor FLEX2.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. raises its starting lineup C-AVI sum from 658.0 to 676.8 (+18.8 points), locking in Rashee Rice alongside Jaxon Smith-Njigba and Malik Nabers.",
+          "sideBDynastyImpact": "Corgi Loaf secures a 26-year-old high-ceiling WR1 in Rice, though surrendering a projected early 2027 1st pick limits future draft capital liquidity.",
+          "sideBRosterImpact": "Creates an elite Chiefs stack combining Patrick Mahomes and Rashee Rice, while moving Wan'Dale Robinson and Tank Dell into bench/depth roles.",
+          "valueAssessment": "Net asset trade surplus strongly favors Big Balder Brand (+58% to 42% share). Obtaining a projected top-5 pick in a deep 16-team league alongside a starting WR in Buffalo for a single wide receiver represents superior market execution."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Rashee Rice as a polarizing, high-ceiling young WR1 tied to Patrick Mahomes, counterbalanced by lingering training camp knee rehabilitation reports and off-field background context. DJ Moore's offseason trade to Buffalo has elevated his redraft and dynasty outlook as Josh Allen's clear primary target.",
+          "aviVsMarket": "AVI model values Rashee Rice at 96.2 C-AVI / 94.0 D-AVI due to high target share projection, while public market ADP sits in the WR12–WR16 range (around 3rd round redraft). DJ Moore's public value is revitalized in Buffalo (WR22–WR26 ADP), making the inclusion of a projected early 2027 1st a massive market premium.",
+          "relevantContext": [
+            "Rashee Rice is returning from a major 2024 knee injury and 2025 cleanup, participating in 11-on-11 camp drills with minor fluidity limitations noted by local beat reporters.",
+            "DJ Moore debuted with Buffalo on August 15, 2026, catching 3 passes for 61 yards on 4 targets from Josh Allen across two drives.",
+            "The 2027 1st round pick originated from DMV Fantasy and is projected in the early 1.01–1.05 range."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. (Playoff Push) seeks to maximize current-season point output by pairing Patrick Mahomes with Rashee Rice for an elite QB-WR stack.",
+          "packageFit": "The package directly addresses Corgi Loaf's desire for top-tier starting WR power while providing Big Balder Brand with premium draft capital and immediate starter replacement.",
+          "lineupReplacement": "Corgi Loaf seamlessly replaces DJ Moore with Rashee Rice in WR2/FLEX, while Big Balder Brand slots DJ Moore directly into FLEX2.",
+          "competitiveWindowFit": "Big Balder Brand retains a top-tier title window while stocking premium future liquidity; Corgi Loaf accelerates its competitive push.",
+          "positionalScarcity": "In a 16-team league starting 2 WR and 2 FLEX, holding multiple target-heavy WRs (A.J. Brown, Nico Collins, DJ Moore) protects against injury volatility."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 90,
+          "classification": "Highly Realistic",
+          "explanation": "Corgi Loaf Baking Co. is actively seeking to increase championship odds and gain an elite stack with Mahomes. Offering Rashee Rice for DJ Moore and a 2027 1st matches their competitive goals, fills their lineup cleanly, and presents a high probability of acceptance."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "This deal represents a textbook win for Big Balder Brand. Surrendering Rashee Rice results in only a minor 18.8 C-AVI drop in the starting lineup by inserting DJ Moore at FLEX2, while capturing a highly valuable 2027 1st pick (projected 1.01–1.05). This gives BBB unparalleled mid-season trade flexibility or an elite rookie asset without sacrificing its status as a champion favorite.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 96.2,
+              "davi": 94,
+              "publicMarket": 88,
+              "leagueMarket": 94
+            }
+          ],
+          "receive": [
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 77.4,
+              "davi": 87.4,
+              "publicMarket": 76,
+              "leagueMarket": 82
+            },
+            {
+              "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 82,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "You capture a premium projected top-5 pick in 2027 while keeping a full 8-man lineup of upper-echelon starters (Daniels, Saquon, Love, A.J. Brown, Nico Collins, McBride, Hampton, DJ Moore).",
+          "whyOpponentMightAccept": "Corgi Loaf gains an elite 26-year-old WR1 in Rashee Rice to stack with Patrick Mahomes, raising their starting lineup C-AVI by +18.8 points."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 96.2,
+              "davi": 94,
+              "publicMarket": 88,
+              "leagueMarket": 94
+            }
+          ],
+          "receive": [
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 77.4,
+              "davi": 87.4,
+              "publicMarket": 76,
+              "leagueMarket": 82
+            },
+            {
+              "name": "2028 1st · All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "If Corgi Loaf hesitates to part with the 2027 DMV 1st due to its early projection, swapping to their 2028 1st (originated by All Hail King Jesus) still secures high-end draft capital while facilitating the transaction."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Rashee Rice fantasy outlook 2026",
+          "Rashee Rice news 2026",
+          "DJ Moore news 2026",
+          "DJ Moore fantasy outlook 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiA8mWj6guglInuUJXgXJHpijQONhxzprxytOA1ppOUixr6CX9SXsQ5ivC5MpWeuaaPbjc5jaa3mXFKyqpTnFTUQMXbI2hsq0-xh-LecMiJxeGw-iRKQhhq0pJHgMatKNp21DruuzeZKGFiHfpCY1oDTFzG4asrLbPZ2okb8z9mi4reWCqevWnvHquMT1dMOnqRwVg1e8VBj2g72oxA5I3LjPYoBxKeT3xxkrFOkfHNqzehuoVsAAdeKjpkNyZVGVy6OwhSgwWDgM=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYkN9EqCHmVmZjzrBHw_rwgEV4NQblcAdlVcJUI_QSytjgNWl2qjyub2G8GVVXhBAyq8r3kdH6oRg_ho3E2DcRjm6HwIPtRQ7Az39DvDk7QqEOINn9wbkA4SvBbSEjXpaN_yEYnEYauajupGHDTA6U3fbe56Q9aMLqEHFPXgfBzUYdxsGE1RGBlVinFlhxcHwsLjT8hnCBnA2rwsi8g2e1qnUWphWzVrcOPhY-q5aT9z2OcWVWgEO8",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaS0_GIz7AG-c8FSaZfxzPlxd95XIxtnhHZR22YdSjQaORZn3s-p1axwKLfKdv5reJXoOhC4xlrcV4dmDtxbvlRrsjqIIbml2kLjPewWFCdI8W2vAZ66eqb9Q4B0qlyiYIhAYDxhAwdu6ppLfn4J0q3SJigZg=",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDm-iwhUEqivQqByHosnxmIANruu1Hk3Sd-8l4cuz6QzCO7MX3cmhVUZMiFUHmoFCqV_CbfIbE8fjqLMwrfVh29PSgmfkInc6Hf9WIG7wlGQ5NYanuKZCHb8E5E4_ALQUgsaVRYzEgnppxWVrMhNL06WJrXkL4FSBMA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHpxXMowqQU1gMJ2zKEn_DtNkMs8CFqKdtG6ypL8b3acaaik2mHOMmY5x5GKTgWDXX10fpJCfrmseeL6acBLx52yJxunK7DJoGfIPB8wxItDcRdfnps__kIf8S4lc0eEsfU6LfAw5EP997gZNSQlkN9PKrPwJ4eIRPZeHCipIQtgyRMIVLJlo8b78xPU6f",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG2U019eOD_5cu12OA8GNcnL_DjJ6yMAJV9gS-0sdVfpAFShleunNPYoqBIlvaK1_A30ZqjmDg6yYBPsFPbWE12MF-aQfNfr2zoWkDU8-XfIs_MxyB4g9EW_I9VzGdwS2V",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKYULNRFAmSMkJUR2wy8AY9BqUNNoHBSSGHtFIEfHd2g5J21alZKYTDQtxzr04NeBLw6gTt7OI8c3fsS2j45mlQ3lRU-BNhXSGGN0hzYhYubNYpdxSoaN0o6xkWDcQQ9phzkiSMyMq-ButePc1LcWcqbrqQZ-sgp-RXft4HOS9",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjHLB6RaxkJYXzMBx70naSVSJ5BXrpeaFgLhzUOvGvUQ1tFCc5-N4vigAxJmX-gkjLy_nhUR9pgSlOAc0ojs4tSzn4BrxSQcxwqpXaZ8bH8noEowNiH35bwQjhjsGeTH1u",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPeh_u5XwCu0ujBQJ1ownwItMnbiXTaecmiaDkixPfmBER6i-cAIe_5X0Mx3bitfL0oFL0rdgqVdVBb2yUq6T_rdMw8SkWS0krAUDwUOs0X_7JulqdfmnKpa2GxD_MthxD_iQAHiuti1yLnKs6KB7lL-ePfQXTTRnsqzsL4Rtf2T9_oJNtPsfdvjv3O9bkO9kWqmNxQeCZB5-FxcDeCYC6sp1nDCOlC0RnNaiVIZmCt9e3aJT1_aSK_334hQi2F8ARg04=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfyLO4TlGUdOHwkduELmqUnGjBQRQdV5XOJLpVYkIDY9P9inFEi7efIrKQ-W3rF_zk3GZgg05dLdkosmqgqYb4d8SluXu7sRBueKgHQrSE64HZGqNF-gZgYi0ThFfOo772-oRauZRhf8bNn9rcvTaTyg1ysPiQcjHDv2KvDiQNDD_M6eigRNGal7DjnuPhFuklclB7_FP_u-CgYq5vd0nBZjjmlHI1oTRsmcrZLNMxoucJznxYuoODERbLpiTmf8elOpRhtVqxl6Q=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlkYLwohYkOCZBjRBkEXVjl3KjLmUzaGJpojxNY4ppmh7zSwOtOqExQenIBaG9V4m57Q3mVJQpHmndZN7ezpZp2jnfHY1URf7UpzAU3pAPQX8JyKkHkhOs5DE5TuvLhxM=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBn_rcfMQKwIysCpiZelJ1ISdVRgk9ghsco947axUW5kQ-XfnAxE4SYqowTaBOlkRvlY1hoWrRgPiAlwaV5rPSMqtBkgT8z1dy6TTBqdAYDCF24R-DBP_VICbg5I0CgkT5jTzmfPvKHbcWJV-37iBE9Ax9vnjhpBVjuGkvW8DtNVVn3am-1zuxlw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfGCCiaVvQuB4f_l0Arlv7Wg4uSkWEmRU-xTaVOevavaTISqrfI_o-_uBvd72bNk0zZhsb5Sz30-2-StwxFq6USwWhjOb7-BgviS-gtOM-TBbwg4BMFUs5iTTvDtaqHk3aIM8U_q8xIQa4dg5acu7DngOIeZ-h",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjdHu0EA94G85a1-urx4pUjaWZP5Qw9XE0QwZ5SbWI9_2yE6IswBxKLXY2mMh0qbthDN_PZep8L7aNXEepDoA-wT4_a5utJNPzIrx-SCpOuDokavopif1F2PY2zJnpqUd0",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPd1vLPx_HcVH5NcIuH5xerjeKFAFq-QA2VHmFqckd96xhpZgAntXux3xv-0Fsrc9bmgqk4YZd3A28ufZGhXVb2LMCYNGisv1E01dP4u-EskrDyVdMm7VRefxIi602tGJfStlplHXac4rkwwEFoccn3V05mCvr2YEY",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiudgF8nkCM8hTmQJeaNLUqWhWFLjXds8U5_-9c1pUj4OsniqM_EPiw2oR7iNWVnh9pNsc_HTXUIk9bdmOAn69VcPCwuBP_-ON6uRcfd6O4VYeIoid5_0k_nd7AlaabHqpMIBwx5FC8Hzh8pA8XXhkwJr4cMb_n02kykEza3O8yw==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFhxrhtXmYLNuq9crVXqbX_oqR7Z3DkQnukxiF1Jx9rd41-tXv7aE85XYqzCiZkFt7CRl7YR0s6cMF4t55EEEeGRln2JG3oEXeHVjrUC1muUWFtwSzqPq08ZmibuWw1PT3oVUnHCR9s8T5XdNj-J_uIKZpbT3KXkNTp2TlOOsHknk0iUTzabgPLHKlVavrdX_AlTcqxg==",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "0d91efd928893e4c0ad1fb68f798dd669ab19715",
+        "aviCoreCommittedAt": "2026-08-19T14:03:35Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 85568,
+        "groundedMarketChars": 3770,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "msywdi67-6d8c20ac",
     "createdAt": 1787071835104,
     "expiresAt": 1787503835104,
