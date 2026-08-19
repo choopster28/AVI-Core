@@ -1482,6 +1482,31 @@
   {
     "active": true,
     "aliases": [
+      "Chris Blair"
+    ],
+    "avi_id": "AVI-00007521",
+    "canonical_name": "Chris Blair",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "ATL",
+    "normalized_name": "chris blair",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 22488,
+      "fantasypros_id": "22684",
+      "nfl_id": "2565588",
+      "rotowire_id": 15376,
+      "sleeper_id": "7521",
+      "sportradar_id": "9281d541-8bcb-4785-a02e-76150910898e",
+      "sportsdata_player_id": "9281d541-8bcb-4785-a02e-76150910898e"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Chris Brazzell",
       "Chris Brazzell II"
     ],
@@ -3414,6 +3439,32 @@
   {
     "active": true,
     "aliases": [
+      "Gardner Minshew",
+      "Gardner Minshew II"
+    ],
+    "avi_id": "AVI-00006011",
+    "canonical_name": "Gardner Minshew",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "ARI",
+    "normalized_name": "gardner minshew",
+    "position": "QB",
+    "source_ids": {
+      "espn_id": 4038524,
+      "fantasy_data_id": 20880,
+      "fantasypros_id": "18562",
+      "nfl_id": "2562796",
+      "rotowire_id": 13741,
+      "sleeper_id": "6011",
+      "sportradar_id": "dabb52c0-455b-48fe-996b-abf758120623",
+      "sportsdata_player_id": "dabb52c0-455b-48fe-996b-abf758120623"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Garrett Wilson"
     ],
     "avi_id": "AVI-00008146",
@@ -3810,6 +3861,31 @@
       "sleeper_id": "8131",
       "sportradar_id": "f9279edb-cfa7-4f7d-91df-b81cbf3e133e",
       "sportsdata_player_id": "f9279edb-cfa7-4f7d-91df-b81cbf3e133e"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Isaiah Williams"
+    ],
+    "avi_id": "AVI-00011608",
+    "canonical_name": "Isaiah Williams",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "NYJ",
+    "normalized_name": "isaiah williams",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25205,
+      "fantasypros_id": "26379",
+      "nfl_id": "2573154",
+      "rotowire_id": 17977,
+      "sleeper_id": "11608",
+      "sportradar_id": "2ddb2f40-07bc-11ef-82d9-5f86367458d3",
+      "sportsdata_player_id": "2ddb2f40-07bc-11ef-82d9-5f86367458d3"
     }
   },
   {
@@ -4435,6 +4511,31 @@
       "sleeper_id": "8180",
       "sportradar_id": "3f9e3634-54d7-46a4-bf26-67274500c907",
       "sportsdata_player_id": "3f9e3634-54d7-46a4-bf26-67274500c907"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Jalen Reagor"
+    ],
+    "avi_id": "AVI-00006798",
+    "canonical_name": "Jalen Reagor",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "MIA",
+    "normalized_name": "jalen reagor",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": 4241802,
+      "fantasy_data_id": 21686,
+      "fantasypros_id": "19219",
+      "nfl_id": "2564850",
+      "rotowire_id": 14421,
+      "sleeper_id": "6798",
+      "sportradar_id": "06ff7f42-5fe7-4899-84a5-9ba5349d17e8",
+      "sportsdata_player_id": "06ff7f42-5fe7-4899-84a5-9ba5349d17e8"
     }
   },
   {
@@ -6189,31 +6290,6 @@
       "sleeper_id": "4454",
       "sportradar_id": "5aba3610-ab55-4922-ac46-806ded5eb8bf",
       "sportsdata_player_id": "5aba3610-ab55-4922-ac46-806ded5eb8bf"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Kendrick Law"
-    ],
-    "avi_id": "AVI-00013412",
-    "canonical_name": "Kendrick Law",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "DET",
-    "normalized_name": "kendrick law",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26969,
-      "fantasypros_id": "26044",
-      "nfl_id": null,
-      "rotowire_id": 19443,
-      "sleeper_id": "13412",
-      "sportradar_id": "b039bf78-853f-4e4f-a6bd-83d7f38748c3",
-      "sportsdata_player_id": "b039bf78-853f-4e4f-a6bd-83d7f38748c3"
     }
   },
   {

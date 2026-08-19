@@ -838,6 +838,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "18562",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ARI",
+    "player_name": "Gardner Minshew II",
+    "position": "QB",
+    "sleeper_id": "6011"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "18585",
     "match_method": "exact_name_position_unique",
     "nfl_team": "DET",
@@ -997,6 +1006,15 @@
     "player_name": "Jonathan Taylor",
     "position": "RB",
     "sleeper_id": "6813"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "19219",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "MIA",
+    "player_name": "Jalen Reagor",
+    "position": "WR",
+    "sleeper_id": "6798"
   },
   {
     "confidence": "verified",
@@ -1348,6 +1366,15 @@
     "player_name": "Kyle Pitts Sr.",
     "position": "TE",
     "sleeper_id": "7553"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "22684",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ATL",
+    "player_name": "Chris Blair",
+    "position": "WR",
+    "sleeper_id": "7521"
   },
   {
     "confidence": "verified",
@@ -3124,15 +3151,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "26044",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DET",
-    "player_name": "Kendrick Law",
-    "position": "WR",
-    "sleeper_id": "13412"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "26055",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NYJ",
@@ -3292,6 +3310,15 @@
     "player_name": "Kimani Vidal",
     "position": "RB",
     "sleeper_id": "11647"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "26379",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NYJ",
+    "player_name": "Isaiah Williams",
+    "position": "WR",
+    "sleeper_id": "11608"
   },
   {
     "confidence": "verified",
