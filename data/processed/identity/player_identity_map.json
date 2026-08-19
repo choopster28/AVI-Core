@@ -486,10 +486,10 @@
     "sleeper_id": "4195"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "16548",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "MIA",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Zane Gonzalez",
     "position": "K",
     "sleeper_id": "4233"
@@ -919,6 +919,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "18714",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CHI",
+    "player_name": "Scotty Miller",
+    "position": "WR",
+    "sleeper_id": "6290"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "18864",
     "match_method": "exact_name_position_unique",
     "nfl_team": "ATL",
@@ -1285,6 +1294,15 @@
     "player_name": "Darnell Mooney",
     "position": "WR",
     "sleeper_id": "7090"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "19844",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NE",
+    "player_name": "Reggie Gilliam",
+    "position": "RB",
+    "sleeper_id": "7204"
   },
   {
     "confidence": "verified",
@@ -3466,15 +3484,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "27077",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "HOU",
-    "player_name": "Jayden Higgins",
-    "position": "WR",
-    "sleeper_id": "12484"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "27093",
     "match_method": "exact_name_position_unique",
     "nfl_team": "IND",
@@ -4066,15 +4075,6 @@
     "player_name": "Marlin Klein",
     "position": "TE",
     "sleeper_id": "13307"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "28161",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CHI",
-    "player_name": "Sam Roush",
-    "position": "TE",
-    "sleeper_id": "13322"
   },
   {
     "confidence": "verified",

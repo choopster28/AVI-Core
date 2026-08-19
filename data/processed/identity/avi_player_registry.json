@@ -4917,31 +4917,6 @@
   {
     "active": true,
     "aliases": [
-      "Jayden Higgins"
-    ],
-    "avi_id": "AVI-00012484",
-    "canonical_name": "Jayden Higgins",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "HOU",
-    "normalized_name": "jayden higgins",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26094,
-      "fantasypros_id": "27077",
-      "nfl_id": "2574170",
-      "rotowire_id": 18551,
-      "sleeper_id": "12484",
-      "sportradar_id": "f55444a9-ccad-4343-bb03-caca6ea3de99",
-      "sportsdata_player_id": "f55444a9-ccad-4343-bb03-caca6ea3de99"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Jayden Reed"
     ],
     "avi_id": "AVI-00010222",
@@ -5803,7 +5778,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "NYG",
+    "nfl_team": "FA",
     "normalized_name": "juju smith schuster",
     "position": "WR",
     "source_ids": {
@@ -8637,6 +8612,31 @@
   {
     "active": true,
     "aliases": [
+      "Reggie Gilliam"
+    ],
+    "avi_id": "AVI-00007204",
+    "canonical_name": "Reggie Gilliam",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "NE",
+    "normalized_name": "reggie gilliam",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": 4039505,
+      "fantasy_data_id": 22206,
+      "fantasypros_id": "19844",
+      "nfl_id": "2565378",
+      "rotowire_id": 14844,
+      "sleeper_id": "7204",
+      "sportradar_id": "4475bb8a-b5a6-4527-bfc7-8e7e03900984",
+      "sportsdata_player_id": "4475bb8a-b5a6-4527-bfc7-8e7e03900984"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Reggie Virgil"
     ],
     "avi_id": "AVI-00013297",
@@ -8988,31 +8988,6 @@
   {
     "active": true,
     "aliases": [
-      "Sam Roush"
-    ],
-    "avi_id": "AVI-00013322",
-    "canonical_name": "Sam Roush",
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "nfl_team": "CHI",
-    "normalized_name": "sam roush",
-    "position": "TE",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26938,
-      "fantasypros_id": "28161",
-      "nfl_id": null,
-      "rotowire_id": 19357,
-      "sleeper_id": "13322",
-      "sportradar_id": "b8b3edc8-986a-4702-84a7-b5193331aebb",
-      "sportsdata_player_id": "b8b3edc8-986a-4702-84a7-b5193331aebb"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Samaje Perine"
     ],
     "avi_id": "AVI-00004147",
@@ -9083,6 +9058,31 @@
       "sleeper_id": "12482",
       "sportradar_id": "06fb642c-b10b-4b23-966a-13668a7c4426",
       "sportsdata_player_id": "06fb642c-b10b-4b23-966a-13668a7c4426"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Scotty Miller"
+    ],
+    "avi_id": "AVI-00006290",
+    "canonical_name": "Scotty Miller",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "CHI",
+    "normalized_name": "scotty miller",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": 3914397,
+      "fantasy_data_id": 21138,
+      "fantasypros_id": "18714",
+      "nfl_id": "2562865",
+      "rotowire_id": 13987,
+      "sleeper_id": "6290",
+      "sportradar_id": "85e18d5f-8a3f-4b6c-88fe-dfdaaed5554e",
+      "sportsdata_player_id": "85e18d5f-8a3f-4b6c-88fe-dfdaaed5554e"
     }
   },
   {

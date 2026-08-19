@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 635.5
-- championship_lineup_c_avi_avg: 79.44
-- offensive_roster_c_avi_sum: 795.2
-- offensive_roster_c_avi_avg: 72.29
-- offensive_roster_d_avi_sum: 923.2
-- offensive_roster_d_avi_avg: 83.93
+- championship_lineup_c_avi_sum: 636.2
+- championship_lineup_c_avi_avg: 79.53
+- offensive_roster_c_avi_sum: 826.9
+- offensive_roster_c_avi_avg: 68.91
+- offensive_roster_d_avi_sum: 983.0
+- offensive_roster_d_avi_avg: 81.92
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 97.5 | D-AVI: 92.2
-- RB: Josh Jacobs | C-AVI: 85.4 | D-AVI: 88.9
-- RB: Travis Etienne | C-AVI: 80.8 | D-AVI: 89.7
-- WR: Tetairoa McMillan | C-AVI: 87.6 | D-AVI: 95.5
-- WR: Jaylen Waddle | C-AVI: 79.4 | D-AVI: 90.2
-- TE: Chig Okonkwo | C-AVI: 56.4 | D-AVI: 76.0
-- FLEX: Luther Burden | C-AVI: 78.3 | D-AVI: 90.9
-- FLEX: TreVeyon Henderson | C-AVI: 70.1 | D-AVI: 89.0
+- RB: Josh Jacobs | C-AVI: 85.6 | D-AVI: 88.8
+- RB: Travis Etienne | C-AVI: 81.7 | D-AVI: 89.6
+- WR: Tetairoa McMillan | C-AVI: 87.5 | D-AVI: 95.5
+- WR: Jaylen Waddle | C-AVI: 79.3 | D-AVI: 90.2
+- TE: Chig Okonkwo | C-AVI: 56.1 | D-AVI: 75.8
+- FLEX: Luther Burden | C-AVI: 78.2 | D-AVI: 90.9
+- FLEX: TreVeyon Henderson | C-AVI: 70.3 | D-AVI: 89.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -70,28 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 51.0
-- Dynasty AVI (D-AVI, 0-100): 69.2
+- Championship AVI (C-AVI, 0-100): 50.8
+- Dynasty AVI (D-AVI, 0-100): 68.8
 - Projected PPR points: 271.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Ben Roethlisberger
-- Player name: Ben Roethlisberger
-- Player ID: 138
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: PIT
-- Active: True
-- Status: Active
-- Age: 39.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: offense
-- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Josh Jacobs
 - Player name: Josh Jacobs
@@ -104,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 85.4
-- Dynasty AVI (D-AVI, 0-100): 88.9
+- Championship AVI (C-AVI, 0-100): 85.6
+- Dynasty AVI (D-AVI, 0-100): 88.8
 - Projected PPR points: 248.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -121,9 +104,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 80.8
-- Dynasty AVI (D-AVI, 0-100): 89.7
-- Projected PPR points: 232.6
+- Championship AVI (C-AVI, 0-100): 81.7
+- Dynasty AVI (D-AVI, 0-100): 89.6
+- Projected PPR points: 234.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -138,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 70.1
+- Championship AVI (C-AVI, 0-100): 70.3
 - Dynasty AVI (D-AVI, 0-100): 89.0
 - Projected PPR points: 193.3
 - Category: offense
@@ -155,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 87.6
+- Championship AVI (C-AVI, 0-100): 87.5
 - Dynasty AVI (D-AVI, 0-100): 95.5
 - Projected PPR points: 233.7
 - Category: offense
@@ -172,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 79.4
+- Championship AVI (C-AVI, 0-100): 79.3
 - Dynasty AVI (D-AVI, 0-100): 90.2
 - Projected PPR points: 210.2
 - Category: offense
@@ -189,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 78.3
+- Championship AVI (C-AVI, 0-100): 78.2
 - Dynasty AVI (D-AVI, 0-100): 90.9
 - Projected PPR points: 208.1
 - Category: offense
@@ -212,6 +195,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: DeMario Douglas
+- Player name: DeMario Douglas
+- Player ID: 9501
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NE
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 31.6
+- Dynasty AVI (D-AVI, 0-100): 61.2
+- Projected PPR points: 61.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Chig Okonkwo
 - Player name: Chig Okonkwo
 - Player ID: 8210
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 56.4
-- Dynasty AVI (D-AVI, 0-100): 76.0
+- Championship AVI (C-AVI, 0-100): 56.1
+- Dynasty AVI (D-AVI, 0-100): 75.8
 - Projected PPR points: 126.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 45.1
-- Dynasty AVI (D-AVI, 0-100): 60.9
+- Championship AVI (C-AVI, 0-100): 44.7
+- Dynasty AVI (D-AVI, 0-100): 60.3
 - Projected PPR points: 92.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

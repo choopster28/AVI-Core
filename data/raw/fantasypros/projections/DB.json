@@ -501,9 +501,9 @@
         "def_tackle": 83.18,
         "def_td": 0.23,
         "def_tlost": 0,
-        "points": 184.55,
-        "points_half": 184.55,
-        "points_ppr": 184.55
+        "points": 184.58,
+        "points_half": 184.58,
+        "points_ppr": 184.58
       },
       "team_id": "SEA"
     },
@@ -749,14 +749,14 @@
         "def_fr": 0.8,
         "def_int": 1.77,
         "def_pd": 7.17,
-        "def_sack": 0.44,
+        "def_sack": 0.43,
         "def_safety": 0,
         "def_tackle": 77.57,
         "def_td": 0.15,
         "def_tlost": 0,
-        "points": 173.86,
-        "points_half": 173.86,
-        "points_ppr": 173.86
+        "points": 173.84,
+        "points_half": 173.84,
+        "points_ppr": 173.84
       },
       "team_id": "ATL"
     },
@@ -885,16 +885,16 @@
         "def_assist": 21.13,
         "def_ff": 1.78,
         "def_fr": 1.16,
-        "def_int": 1.69,
+        "def_int": 1.7,
         "def_pd": 13.58,
-        "def_sack": 0.12,
+        "def_sack": 0.11,
         "def_safety": 0,
         "def_tackle": 76.18,
         "def_td": 0.23,
         "def_tlost": 0,
-        "points": 172.56,
-        "points_half": 172.56,
-        "points_ppr": 172.56
+        "points": 172.57,
+        "points_half": 172.57,
+        "points_ppr": 172.57
       },
       "team_id": "ATL"
     },
@@ -908,9 +908,9 @@
         "def_assist": 34.8,
         "def_ff": 0.62,
         "def_fr": 0.58,
-        "def_int": 2.76,
+        "def_int": 2.77,
         "def_pd": 10.19,
-        "def_sack": 0.11,
+        "def_sack": 0.1,
         "def_safety": 0,
         "def_tackle": 74.13,
         "def_td": 0.15,
@@ -1138,16 +1138,16 @@
         "def_assist": 26.26,
         "def_ff": 0.61,
         "def_fr": 0.57,
-        "def_int": 1.74,
+        "def_int": 1.75,
         "def_pd": 10.49,
         "def_sack": 0.86,
         "def_safety": 0,
         "def_tackle": 74.81,
         "def_td": 0.22,
         "def_tlost": 0,
-        "points": 165.79,
-        "points_half": 165.79,
-        "points_ppr": 165.79
+        "points": 165.82,
+        "points_half": 165.82,
+        "points_ppr": 165.82
       },
       "team_id": "SEA"
     },
@@ -1253,16 +1253,16 @@
         "def_assist": 28.11,
         "def_ff": 0.74,
         "def_fr": 0.66,
-        "def_int": 2.25,
+        "def_int": 2.26,
         "def_pd": 9.09,
         "def_sack": 0.61,
         "def_safety": 0,
         "def_tackle": 72.53,
         "def_td": 0.14,
         "def_tlost": 0,
-        "points": 163.57,
-        "points_half": 163.57,
-        "points_ppr": 163.57
+        "points": 163.62,
+        "points_half": 163.62,
+        "points_ppr": 163.62
       },
       "team_id": "SEA"
     },
@@ -1782,16 +1782,16 @@
         "def_assist": 26.88,
         "def_ff": 0.19,
         "def_fr": 0.13,
-        "def_int": 1.51,
+        "def_int": 1.53,
         "def_pd": 6.81,
         "def_sack": 0.52,
         "def_safety": 0,
         "def_tackle": 73.01,
         "def_td": 0.11,
         "def_tlost": 0,
-        "points": 151.46,
-        "points_half": 151.46,
-        "points_ppr": 151.46
+        "points": 151.56,
+        "points_half": 151.56,
+        "points_ppr": 151.56
       },
       "team_id": "SEA"
     },
@@ -3047,16 +3047,16 @@
         "def_assist": 14.68,
         "def_ff": 0.72,
         "def_fr": 0.47,
-        "def_int": 1.21,
+        "def_int": 1.22,
         "def_pd": 10.65,
         "def_sack": 0.13,
         "def_safety": 0,
         "def_tackle": 52.94,
         "def_td": 0.16,
         "def_tlost": 0,
-        "points": 118.69,
-        "points_half": 118.69,
-        "points_ppr": 118.69
+        "points": 118.74,
+        "points_half": 118.74,
+        "points_ppr": 118.74
       },
       "team_id": "SEA"
     },
@@ -3337,29 +3337,6 @@
       "team_id": "KC"
     },
     {
-      "filename": "billy-bowman-jr.php",
-      "fpid": 27187,
-      "mflid": 17179,
-      "name": "Billy Bowman Jr.",
-      "position_id": "DB",
-      "stats": {
-        "def_assist": 14.02,
-        "def_ff": 0.92,
-        "def_fr": 0.6,
-        "def_int": 0.76,
-        "def_pd": 6.05,
-        "def_sack": 0.9,
-        "def_safety": 0,
-        "def_tackle": 50.55,
-        "def_td": 0.14,
-        "def_tlost": 0,
-        "points": 109.74,
-        "points_half": 109.74,
-        "points_ppr": 109.74
-      },
-      "team_id": "ATL"
-    },
-    {
       "filename": "jason-marshall-jr.php",
       "fpid": 26151,
       "mflid": 17200,
@@ -3381,6 +3358,29 @@
         "points_ppr": 109.67
       },
       "team_id": "MIA"
+    },
+    {
+      "filename": "billy-bowman-jr.php",
+      "fpid": 27187,
+      "mflid": 17179,
+      "name": "Billy Bowman Jr.",
+      "position_id": "DB",
+      "stats": {
+        "def_assist": 14.02,
+        "def_ff": 0.92,
+        "def_fr": 0.6,
+        "def_int": 0.76,
+        "def_pd": 6.05,
+        "def_sack": 0.87,
+        "def_safety": 0,
+        "def_tackle": 50.55,
+        "def_td": 0.14,
+        "def_tlost": 0,
+        "points": 109.62,
+        "points_half": 109.62,
+        "points_ppr": 109.62
+      },
+      "team_id": "ATL"
     },
     {
       "filename": "andrew-wingard.php",
@@ -4096,29 +4096,6 @@
       "team_id": "JAC"
     },
     {
-      "filename": "terrion-arnold.php",
-      "fpid": 26133,
-      "mflid": 16671,
-      "name": "Terrion Arnold",
-      "position_id": "DB",
-      "stats": {
-        "def_assist": 8.57,
-        "def_ff": 0.09,
-        "def_fr": 0.06,
-        "def_int": 0.89,
-        "def_pd": 7.8,
-        "def_sack": 0.05,
-        "def_safety": 0,
-        "def_tackle": 30.89,
-        "def_td": 0.08,
-        "def_tlost": 0,
-        "points": 70.19,
-        "points_half": 70.19,
-        "points_ppr": 70.19
-      },
-      "team_id": "FA"
-    },
-    {
       "filename": "jaylen-mccollough.php",
       "fpid": 26733,
       "mflid": 16912,
@@ -4406,14 +4383,14 @@
         "def_fr": 0.11,
         "def_int": 0.15,
         "def_pd": 0.95,
-        "def_sack": 0.4,
+        "def_sack": 0.39,
         "def_safety": 0,
         "def_tackle": 27.44,
         "def_td": 0.03,
         "def_tlost": 0,
-        "points": 55.3,
-        "points_half": 55.3,
-        "points_ppr": 55.3
+        "points": 55.26,
+        "points_half": 55.26,
+        "points_ppr": 55.26
       },
       "team_id": "ATL"
     },
@@ -4429,14 +4406,14 @@
         "def_fr": 0.12,
         "def_int": 0.52,
         "def_pd": 4.22,
-        "def_sack": 0.14,
+        "def_sack": 0.13,
         "def_safety": 0,
         "def_tackle": 24.86,
         "def_td": 0.07,
         "def_tlost": 0,
-        "points": 53.58,
-        "points_half": 53.58,
-        "points_ppr": 53.58
+        "points": 53.54,
+        "points_half": 53.54,
+        "points_ppr": 53.54
       },
       "team_id": "ATL"
     },
@@ -4577,6 +4554,29 @@
         "points_ppr": 46.89
       },
       "team_id": "ARI"
+    },
+    {
+      "filename": "terrion-arnold.php",
+      "fpid": 26133,
+      "mflid": 16671,
+      "name": "Terrion Arnold",
+      "position_id": "DB",
+      "stats": {
+        "def_assist": 4.54,
+        "def_ff": 0.05,
+        "def_fr": 0.03,
+        "def_int": 0.47,
+        "def_pd": 4.13,
+        "def_sack": 0.03,
+        "def_safety": 0,
+        "def_tackle": 16.37,
+        "def_td": 0.04,
+        "def_tlost": 0,
+        "points": 37.19,
+        "points_half": 37.19,
+        "points_ppr": 37.19
+      },
+      "team_id": "FA"
     },
     {
       "filename": "james-williams-s.php",

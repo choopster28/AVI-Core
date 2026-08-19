@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 3
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 727.4
-- championship_lineup_c_avi_avg: 90.92
-- offensive_roster_c_avi_sum: 1068.3
-- offensive_roster_c_avi_avg: 62.84
-- offensive_roster_d_avi_sum: 1287.4
-- offensive_roster_d_avi_avg: 75.73
+- championship_lineup_c_avi_sum: 726.5
+- championship_lineup_c_avi_avg: 90.81
+- offensive_roster_c_avi_sum: 1088.6
+- offensive_roster_c_avi_avg: 64.04
+- offensive_roster_d_avi_sum: 1286.6
+- offensive_roster_d_avi_avg: 75.68
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Bijan Robinson | C-AVI: 99.4 | D-AVI: 98.6
 - RB: De'Von Achane | C-AVI: 97.4 | D-AVI: 97.0
 - WR: Puka Nacua | C-AVI: 99.7 | D-AVI: 99.5
-- WR: George Pickens | C-AVI: 93.5 | D-AVI: 96.3
-- TE: Harold Fannin | C-AVI: 92.2 | D-AVI: 89.6
-- FLEX: Ladd McConkey | C-AVI: 82.8 | D-AVI: 92.6
-- FLEX: Juwan Johnson | C-AVI: 62.8 | D-AVI: 75.5
+- WR: George Pickens | C-AVI: 93.1 | D-AVI: 96.2
+- TE: Harold Fannin | C-AVI: 92.1 | D-AVI: 89.5
+- FLEX: Ladd McConkey | C-AVI: 82.7 | D-AVI: 92.5
+- FLEX: Juwan Johnson | C-AVI: 62.5 | D-AVI: 75.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -71,7 +71,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 33.0
 - Championship AVI (C-AVI, 0-100): 42.5
-- Dynasty AVI (D-AVI, 0-100): 61.5
+- Dynasty AVI (D-AVI, 0-100): 61.6
 - Projected PPR points: 232.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.6
-- Dynasty AVI (D-AVI, 0-100): 72.5
+- Championship AVI (C-AVI, 0-100): 51.0
+- Dynasty AVI (D-AVI, 0-100): 72.4
 - Projected PPR points: 138.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -139,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 44.9
-- Dynasty AVI (D-AVI, 0-100): 71.6
+- Dynasty AVI (D-AVI, 0-100): 71.5
 - Projected PPR points: 84.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -155,9 +155,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 38.7
-- Dynasty AVI (D-AVI, 0-100): 63.3
-- Projected PPR points: 72.9
+- Championship AVI (C-AVI, 0-100): 41.5
+- Dynasty AVI (D-AVI, 0-100): 63.6
+- Projected PPR points: 88.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 93.5
-- Dynasty AVI (D-AVI, 0-100): 96.3
+- Championship AVI (C-AVI, 0-100): 93.1
+- Dynasty AVI (D-AVI, 0-100): 96.2
 - Projected PPR points: 252.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 82.8
-- Dynasty AVI (D-AVI, 0-100): 92.6
+- Championship AVI (C-AVI, 0-100): 82.7
+- Dynasty AVI (D-AVI, 0-100): 92.5
 - Projected PPR points: 220.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -240,9 +240,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 52.7
-- Dynasty AVI (D-AVI, 0-100): 76.0
+- Championship AVI (C-AVI, 0-100): 53.0
+- Dynasty AVI (D-AVI, 0-100): 76.1
 - Projected PPR points: 151.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Devaughn Vele
+- Player name: Devaughn Vele
+- Player ID: 11834
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NO
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 43.6
+- Dynasty AVI (D-AVI, 0-100): 62.3
+- Projected PPR points: 125.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -257,26 +274,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 27.3
-- Dynasty AVI (D-AVI, 0-100): 58.2
+- Championship AVI (C-AVI, 0-100): 27.1
+- Dynasty AVI (D-AVI, 0-100): 58.1
 - Projected PPR points: 43.8
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Skyler Bell
-- Player name: Skyler Bell
-- Player ID: 13402
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: BUF
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 25.7
-- Dynasty AVI (D-AVI, 0-100): 62.8
-- Projected PPR points: 28.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 92.2
-- Dynasty AVI (D-AVI, 0-100): 89.6
+- Championship AVI (C-AVI, 0-100): 92.1
+- Dynasty AVI (D-AVI, 0-100): 89.5
 - Projected PPR points: 191.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 62.8
-- Dynasty AVI (D-AVI, 0-100): 75.5
+- Championship AVI (C-AVI, 0-100): 62.5
+- Dynasty AVI (D-AVI, 0-100): 75.3
 - Projected PPR points: 154.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

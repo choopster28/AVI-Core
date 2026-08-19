@@ -847,7 +847,7 @@
     {
       "cbs_player_id": "2061033",
       "player_age": "31",
-      "player_bye_week": "6",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "K",
       "player_filename": "zane-gonzalez.php",
@@ -860,7 +860,7 @@
       "player_position_id": "K",
       "player_positions": "K",
       "player_short_name": "Z. Gonzalez",
-      "player_team_id": "MIA",
+      "player_team_id": "FA",
       "player_yahoo_id": "30337",
       "player_yahoo_positions": "K",
       "pos_rank": "K31",

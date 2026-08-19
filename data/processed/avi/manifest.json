@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-08-19T13:06:46.042988+00:00",
+  "generated_at_utc": "2026-08-19T22:47:36.047129+00:00",
   "league_id": "1312185568032997376",
   "methodology_status": "provisional_2026_2",
   "methodology_version": "2026.2",
@@ -48,9 +48,9 @@
       "K": 0.0,
       "LB": 0.0,
       "QB": 287.8,
-      "RB": 156.18,
+      "RB": 156.17,
       "TE": 151.75,
-      "WR": 150.84
+      "WR": 150.43
     },
     "starter_demand": {
       "DB": 16,
