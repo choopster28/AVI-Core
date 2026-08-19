@@ -5,34 +5,34 @@
   "roster_id": 12,
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 18, 2026",
-  "generated_at": "2026-08-18T10:42:33.445224-06:00",
+  "reporting_period": "Week of August 19, 2026",
+  "generated_at": "2026-08-19T11:54:53.647412-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
-  "executive_summary": "DMV Fantasy is projected #12 of 16 with a 562.60 projected-starting-lineup C-AVI total, led by Breece Hall, Jaxson Dart, and George Kittle. The immediate priority is improving the WR slot without weakening that core.",
+  "executive_summary": "DMV Fantasy is projected #12 of 16 with a 564.80 projected-starting-lineup C-AVI total, led by Breece Hall, Jaxson Dart, and George Kittle. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
     "rank": 12,
     "league_size": 16,
-    "score": 562.6,
+    "score": 564.8,
     "team_above": {
       "name": "Gringo\u2019s Goblins",
       "rank": 11,
-      "score": 571.8,
-      "gap": 9.199999999999932
+      "score": 574.8,
+      "gap": 10.0
     },
     "team_below": {
       "name": "Phalhala or Bust",
       "rank": 13,
-      "score": 556.8,
-      "gap": 5.800000000000068
+      "score": 559.9,
+      "gap": 4.899999999999977
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 3,
     "league_size": 16,
-    "score": 2421.1,
-    "player_d_avi": 1108.6,
+    "score": 2426.4,
+    "player_d_avi": 1113.9,
     "future_pick_d_avi": 1312.5,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the WR slot above Jalen Coker's 55.3 C-AVI baseline; a replacement near 64.5 C-AVI would directly attack the 9.20-point projected gap to Gringo\u2019s Goblins."
+    "Raise the WR slot above Jalen Coker's 55.4 C-AVI baseline; a replacement near 65.4 C-AVI would directly attack the 10.00-point projected gap to Gringo\u2019s Goblins."
   ],
   "rival_below": {
     "franchise_name": "Phalhala or Bust",
     "projected_rank": 13,
-    "projected_score": 556.8,
+    "projected_score": 559.9,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1390049580791402496",
@@ -64,12 +64,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #12 of 16 at 562.60 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 571.80, a gap of 9.20. Phalhala or Bust is immediately behind at 556.80."
+      "body": "Projected #12 of 16 at 564.80 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 574.80, a gap of 10.00. Phalhala or Bust is immediately behind at 559.90."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Breece Hall (85.9), Jaxson Dart (82.0), and George Kittle (78.4)."
+      "body": "The three highest C-AVI starters are Breece Hall (86.0), Jaxson Dart (82.2), and George Kittle (79.3)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,9 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Jalen Coker's 55.3 C-AVI baseline; a replacement near 64.5 C-AVI would directly attack the 9.20-point projected gap to Gringo\u2019s Goblins.",
+      "body": "Raise the WR slot above Jalen Coker's 55.4 C-AVI baseline; a replacement near 65.4 C-AVI would directly attack the 10.00-point projected gap to Gringo\u2019s Goblins.",
       "items": [
-        "Raise the WR slot above Jalen Coker's 55.3 C-AVI baseline; a replacement near 64.5 C-AVI would directly attack the 9.20-point projected gap to Gringo\u2019s Goblins."
+        "Raise the WR slot above Jalen Coker's 55.4 C-AVI baseline; a replacement near 65.4 C-AVI would directly attack the 10.00-point projected gap to Gringo\u2019s Goblins."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jalen Coker is the lowest C-AVI starter in the verified championship lineup at 55.3. Any acquisition should clear that exact lineup threshold."
+      "body": "Jalen Coker is the lowest C-AVI starter in the verified championship lineup at 55.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/12_DMV_Fantasy.md"
     ],
-    "source_last_updated": "2026-08-18",
+    "source_last_updated": "2026-08-19",
     "external_sources_used": false,
     "conversation_context_used": false
   }

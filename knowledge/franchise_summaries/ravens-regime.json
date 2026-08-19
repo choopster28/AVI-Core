@@ -5,34 +5,34 @@
   "roster_id": 3,
   "owner_display_name": "Mentomorii",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 18, 2026",
-  "generated_at": "2026-08-18T10:42:33.445224-06:00",
+  "reporting_period": "Week of August 19, 2026",
+  "generated_at": "2026-08-19T11:54:53.647412-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Ravens Regime: Preseason Front Office Brief",
-  "executive_summary": "Ravens Regime is projected #9 of 16 with a 626.50 projected-starting-lineup C-AVI total, led by Lamar Jackson, Kyle Pitts, and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Ravens Regime is projected #9 of 16 with a 629.70 projected-starting-lineup C-AVI total, led by Lamar Jackson, Kyle Pitts, and Derrick Henry. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 626.5,
+    "score": 629.7,
     "team_above": {
       "name": "Badland Banditos",
       "rank": 8,
-      "score": 628.6,
-      "gap": 2.1000000000000227
+      "score": 629.9,
+      "gap": 0.1999999999999318
     },
     "team_below": {
       "name": "Lightskin Legends \u270a\ud83c\udffd",
       "rank": 10,
-      "score": 593.8,
-      "gap": 32.700000000000045
+      "score": 594.9,
+      "gap": 34.80000000000007
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 10,
     "league_size": 16,
-    "score": 2116.9,
-    "player_d_avi": 1273.6,
+    "score": 2120.8,
+    "player_d_avi": 1277.5,
     "future_pick_d_avi": 843.3,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Kyle Monangai's 55.0 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 2.10-point projected gap to Badland Banditos."
+    "Raise the RB slot above Kyle Monangai's 55.1 C-AVI baseline; a replacement near 55.3 C-AVI would directly attack the 0.20-point projected gap to Badland Banditos."
   ],
   "rival_below": {
     "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
     "projected_rank": 10,
-    "projected_score": 593.8,
+    "projected_score": 594.9,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1395450362491596800",
@@ -64,12 +64,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #9 of 16 at 626.50 lineup C-AVI. Badland Banditos is immediately above at 628.60, a gap of 2.10. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 593.80."
+      "body": "Projected #9 of 16 at 629.70 lineup C-AVI. Badland Banditos is immediately above at 629.90, a gap of 0.20. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 594.90."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Lamar Jackson (98.0), Kyle Pitts (93.8), and Derrick Henry (93.3)."
+      "body": "The three highest C-AVI starters are Lamar Jackson (98.2), Kyle Pitts (94.8), and Derrick Henry (93.4)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,9 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Kyle Monangai's 55.0 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 2.10-point projected gap to Badland Banditos.",
+      "body": "Raise the RB slot above Kyle Monangai's 55.1 C-AVI baseline; a replacement near 55.3 C-AVI would directly attack the 0.20-point projected gap to Badland Banditos.",
       "items": [
-        "Raise the RB slot above Kyle Monangai's 55.0 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 2.10-point projected gap to Badland Banditos."
+        "Raise the RB slot above Kyle Monangai's 55.1 C-AVI baseline; a replacement near 55.3 C-AVI would directly attack the 0.20-point projected gap to Badland Banditos."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Kyle Monangai is the lowest C-AVI starter in the verified championship lineup at 55.0. Any acquisition should clear that exact lineup threshold."
+      "body": "Kyle Monangai is the lowest C-AVI starter in the verified championship lineup at 55.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/03_Ravens_Regime.md"
     ],
-    "source_last_updated": "2026-08-18",
+    "source_last_updated": "2026-08-19",
     "external_sources_used": false,
     "conversation_context_used": false
   }

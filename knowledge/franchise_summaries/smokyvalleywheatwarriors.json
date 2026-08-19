@@ -5,34 +5,34 @@
   "roster_id": 10,
   "owner_display_name": "AlexPete6800",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 18, 2026",
-  "generated_at": "2026-08-18T10:42:33.445224-06:00",
+  "reporting_period": "Week of August 19, 2026",
+  "generated_at": "2026-08-19T11:54:53.647412-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
-  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 666.70 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and Chris Olave. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 667.60 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and Chris Olave. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 4,
     "league_size": 16,
-    "score": 666.7,
+    "score": 667.6,
     "team_above": {
       "name": "Mile High Royal Lions",
       "rank": 3,
-      "score": 676.7,
-      "gap": 10.0
+      "score": 678.7,
+      "gap": 11.100000000000023
     },
     "team_below": {
       "name": "Corgi Loaf Baking Co.",
       "rank": 5,
-      "score": 657.0,
-      "gap": 9.700000000000045
+      "score": 658.0,
+      "gap": 9.600000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 11,
+    "rank": 13,
     "league_size": 16,
-    "score": 2049.7,
-    "player_d_avi": 1073.1,
+    "score": 2051.5,
+    "player_d_avi": 1074.9,
     "future_pick_d_avi": 976.6,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Josh Downs's 65.0 C-AVI baseline; a replacement near 75.0 C-AVI would directly attack the 10.00-point projected gap to Mile High Royal Lions."
+    "Raise the FLEX slot above Rico Dowdle's 63.2 C-AVI baseline; a replacement near 74.3 C-AVI would directly attack the 11.10-point projected gap to Mile High Royal Lions."
   ],
   "rival_below": {
     "franchise_name": "Corgi Loaf Baking Co.",
     "projected_rank": 5,
-    "projected_score": 657.0,
-    "latest_trade": {
-      "transaction_id": "1394413143647592448",
-      "created_at": "2026-08-15T17:55:09.691000+00:00",
-      "type": "trade",
-      "summary": "On August 15, Corgi Loaf Baking Co. completed a trade with Gringo\u2019s Goblins and acquired David Montgomery, Tank Dell and sent Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.).",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_score": 658.0,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1394413143647592448",
-      "created_at": "2026-08-15T17:55:09.691000+00:00",
-      "type": "trade",
-      "summary": "On August 15, Corgi Loaf Baking Co. completed a trade with Gringo\u2019s Goblins and acquired David Montgomery, Tank Dell and sent Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.).",
+      "transaction_id": "1395480148312064000",
+      "created_at": "2026-08-18T16:35:03.426000+00:00",
+      "type": "free_agent",
+      "summary": "On August 18, Corgi Loaf Baking Co. completed a free-agent move and added Najee Harris while dropped Eli Raridon.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 15, Corgi Loaf Baking Co. completed a trade with Gringo\u2019s Goblins and acquired David Montgomery, Tank Dell and sent Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.)."
+    "summary": "On August 18, Corgi Loaf Baking Co. completed a free-agent move and added Najee Harris while dropped Eli Raridon."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #4 of 16 at 666.70 lineup C-AVI. Mile High Royal Lions is immediately above at 676.70, a gap of 10.00. Corgi Loaf Baking Co. is immediately behind at 657.00."
+      "body": "Projected #4 of 16 at 667.60 lineup C-AVI. Mile High Royal Lions is immediately above at 678.70, a gap of 11.10. Corgi Loaf Baking Co. is immediately behind at 658.00."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are CeeDee Lamb (97.6), Christian McCaffrey (97.4), and Chris Olave (95.0)."
+      "body": "The three highest C-AVI starters are CeeDee Lamb (97.7), Christian McCaffrey (97.5), and Chris Olave (95.5)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,20 +79,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Josh Downs's 65.0 C-AVI baseline; a replacement near 75.0 C-AVI would directly attack the 10.00-point projected gap to Mile High Royal Lions.",
+      "body": "Raise the FLEX slot above Rico Dowdle's 63.2 C-AVI baseline; a replacement near 74.3 C-AVI would directly attack the 11.10-point projected gap to Mile High Royal Lions.",
       "items": [
-        "Raise the FLEX slot above Josh Downs's 65.0 C-AVI baseline; a replacement near 75.0 C-AVI would directly attack the 10.00-point projected gap to Mile High Royal Lions."
+        "Raise the FLEX slot above Rico Dowdle's 63.2 C-AVI baseline; a replacement near 74.3 C-AVI would directly attack the 11.10-point projected gap to Mile High Royal Lions."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 15, Corgi Loaf Baking Co. completed a trade with Gringo\u2019s Goblins and acquired David Montgomery, Tank Dell and sent Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.)."
+      "body": "On August 18, Corgi Loaf Baking Co. completed a free-agent move and added Najee Harris while dropped Eli Raridon."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Josh Downs is the lowest C-AVI starter in the verified championship lineup at 65.0. Any acquisition should clear that exact lineup threshold."
+      "body": "Rico Dowdle is the lowest C-AVI starter in the verified championship lineup at 63.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/10_SmokyValleyWheatWarriors.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/10_SmokyValleyWheatWarriors.md"
     ],
-    "source_last_updated": "2026-08-18",
+    "source_last_updated": "2026-08-19",
     "external_sources_used": false,
     "conversation_context_used": false
   }

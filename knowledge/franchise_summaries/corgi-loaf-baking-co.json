@@ -5,34 +5,34 @@
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 18, 2026",
-  "generated_at": "2026-08-18T10:42:33.445224-06:00",
+  "reporting_period": "Week of August 19, 2026",
+  "generated_at": "2026-08-19T11:54:53.647412-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 657.00 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 658.00 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 5,
     "league_size": 16,
-    "score": 657.0,
+    "score": 658.0,
     "team_above": {
       "name": "SmokyValleyWheatWarriors",
       "rank": 4,
-      "score": 666.7,
-      "gap": 9.700000000000045
+      "score": 667.6,
+      "gap": 9.600000000000023
     },
     "team_below": {
       "name": "All Hail King Jesus",
       "rank": 6,
-      "score": 649.0,
-      "gap": 8.0
+      "score": 651.4,
+      "gap": 6.600000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 2159.8,
-    "player_d_avi": 1275.9,
+    "score": 2159.1,
+    "player_d_avi": 1275.2,
     "future_pick_d_avi": 883.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Wan'Dale Robinson's 66.6 C-AVI baseline; a replacement near 76.3 C-AVI would directly attack the 9.70-point projected gap to SmokyValleyWheatWarriors."
+    "Raise the FLEX slot above Wan'Dale Robinson's 66.8 C-AVI baseline; a replacement near 76.4 C-AVI would directly attack the 9.60-point projected gap to SmokyValleyWheatWarriors."
   ],
   "rival_below": {
     "franchise_name": "All Hail King Jesus",
     "projected_rank": 6,
-    "projected_score": 649.0,
+    "projected_score": 651.4,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1395270295127863296",
@@ -64,12 +64,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #5 of 16 at 657.00 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 666.70, a gap of 9.70. All Hail King Jesus is immediately behind at 649.00."
+      "body": "Projected #5 of 16 at 658.00 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 667.60, a gap of 9.60. All Hail King Jesus is immediately behind at 651.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Tyler Warren (97.2), and Malik Nabers (89.1)."
+      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.2), Tyler Warren (97.3), and Malik Nabers (90.0)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,9 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Wan'Dale Robinson's 66.6 C-AVI baseline; a replacement near 76.3 C-AVI would directly attack the 9.70-point projected gap to SmokyValleyWheatWarriors.",
+      "body": "Raise the FLEX slot above Wan'Dale Robinson's 66.8 C-AVI baseline; a replacement near 76.4 C-AVI would directly attack the 9.60-point projected gap to SmokyValleyWheatWarriors.",
       "items": [
-        "Raise the FLEX slot above Wan'Dale Robinson's 66.6 C-AVI baseline; a replacement near 76.3 C-AVI would directly attack the 9.70-point projected gap to SmokyValleyWheatWarriors."
+        "Raise the FLEX slot above Wan'Dale Robinson's 66.8 C-AVI baseline; a replacement near 76.4 C-AVI would directly attack the 9.60-point projected gap to SmokyValleyWheatWarriors."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Wan'Dale Robinson is the lowest C-AVI starter in the verified championship lineup at 66.6. Any acquisition should clear that exact lineup threshold."
+      "body": "Wan'Dale Robinson is the lowest C-AVI starter in the verified championship lineup at 66.8. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md"
     ],
-    "source_last_updated": "2026-08-18",
+    "source_last_updated": "2026-08-19",
     "external_sources_used": false,
     "conversation_context_used": false
   }

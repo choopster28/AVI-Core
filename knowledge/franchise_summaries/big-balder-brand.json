@@ -5,29 +5,29 @@
   "roster_id": 9,
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 18, 2026",
-  "generated_at": "2026-08-18T10:42:33.445224-06:00",
+  "reporting_period": "Week of August 19, 2026",
+  "generated_at": "2026-08-19T11:54:53.647412-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
-  "executive_summary": "Big Balder Brand is projected #1 of 16 with a 747.90 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and Jayden Daniels. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Big Balder Brand is projected #1 of 16 with a 749.20 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and Jayden Daniels. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 1,
     "league_size": 16,
-    "score": 747.9,
+    "score": 749.2,
     "team_above": null,
     "team_below": {
       "name": "Conquistadors",
       "rank": 2,
-      "score": 725.2,
-      "gap": 22.699999999999932
+      "score": 727.4,
+      "gap": 21.800000000000068
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 12,
     "league_size": 16,
-    "score": 2044.6,
-    "player_d_avi": 1302.6,
+    "score": 2056.8,
+    "player_d_avi": 1314.8,
     "future_pick_d_avi": 742.0,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -39,38 +39,32 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.2 C-AVI."
+    "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.3 C-AVI."
   ],
   "rival_below": {
     "franchise_name": "Conquistadors",
     "projected_rank": 2,
-    "projected_score": 725.2,
-    "latest_trade": {
-      "transaction_id": "1390168785905782784",
-      "created_at": "2026-08-04T00:49:35.949000+00:00",
-      "type": "trade",
-      "summary": "On August 3, Conquistadors completed a trade with Crimson Tide Pods and acquired De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings) and sent Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions).",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_score": 727.4,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1390168785905782784",
-      "created_at": "2026-08-04T00:49:35.949000+00:00",
-      "type": "trade",
-      "summary": "On August 3, Conquistadors completed a trade with Crimson Tide Pods and acquired De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings) and sent Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions).",
+      "transaction_id": "1395812507662159872",
+      "created_at": "2026-08-19T14:35:44.071000+00:00",
+      "type": "free_agent",
+      "summary": "On August 19, Conquistadors completed a free-agent move and added Devaughn Vele while dropped Tyreek Hill.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 3, Conquistadors completed a trade with Crimson Tide Pods and acquired De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings) and sent Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions)."
+    "summary": "On August 19, Conquistadors completed a free-agent move and added Devaughn Vele while dropped Tyreek Hill."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #1 of 16 at 747.90 lineup C-AVI. Conquistadors is immediately behind at 725.20."
+      "body": "Projected #1 of 16 at 749.20 lineup C-AVI. Conquistadors is immediately behind at 727.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (96.1), and Jayden Daniels (95.9)."
+      "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (96.2), and Jayden Daniels (95.9)."
     },
     {
       "id": "latest-trade-impact",
@@ -80,20 +74,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.2 C-AVI.",
+      "body": "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.3 C-AVI.",
       "items": [
-        "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.2 C-AVI."
+        "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.3 C-AVI."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 3, Conquistadors completed a trade with Crimson Tide Pods and acquired De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings) and sent Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions)."
+      "body": "On August 19, Conquistadors completed a free-agent move and added Devaughn Vele while dropped Tyreek Hill."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Omarion Hampton is the lowest C-AVI starter in the verified championship lineup at 89.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Omarion Hampton is the lowest C-AVI starter in the verified championship lineup at 89.3. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -109,10 +103,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/09_Big_Balder_Brand.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/09_Big_Balder_Brand.md"
     ],
-    "source_last_updated": "2026-08-18",
+    "source_last_updated": "2026-08-19",
     "external_sources_used": false,
     "conversation_context_used": false
   }
