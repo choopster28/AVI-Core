@@ -516,6 +516,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
+## PLAYER LOOKUP: DeMario Douglas
+- Player name: DeMario Douglas
+- Player ID: 9501
+- Position: WR
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Team file: 13_Southside_Savages.md
+
 ## PLAYER LOOKUP: DeVonta Smith
 - Player name: DeVonta Smith
 - Player ID: 7525
@@ -2321,15 +2329,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: BUF
 - Championship AVI (C-AVI, 0-100): 31.9
 - Dynasty AVI (D-AVI, 0-100): 57.8
-- Availability: available
-
-## AVAILABLE PLAYER: DeMario Douglas
-- Player name: DeMario Douglas
-- Player ID: 9501
-- Position: WR
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 31.7
-- Dynasty AVI (D-AVI, 0-100): 61.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Josh Oliver

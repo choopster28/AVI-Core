@@ -543,18 +543,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00009501",
-      "c_avi": 31.7,
-      "d_avi": 61.3,
-      "nfl_team": "NE",
-      "player_name": "DeMario Douglas",
-      "position": "WR",
-      "sleeper_id": "9501",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00005973",
       "c_avi": 31.7,
       "d_avi": 45.4,
@@ -2342,8 +2330,8 @@
     }
   ],
   "counts": {
-    "available_players": 195,
-    "rostered_players": 239
+    "available_players": 194,
+    "rostered_players": 240
   },
   "rostered_players": [
     {
@@ -3369,6 +3357,22 @@
       "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00009501",
+      "c_avi": 31.7,
+      "d_avi": 61.3,
+      "nfl_team": "NE",
+      "owner_id": "998253660243054592",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "roster_id": 13,
+      "sleeper_id": "9501",
+      "status": "Active",
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
     },
     {
       "active": true,
