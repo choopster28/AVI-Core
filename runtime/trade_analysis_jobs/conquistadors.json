@@ -1,5 +1,28 @@
 [
   {
+    "id": "mt0az3ir-e8570818",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Win Championship",
+      "targetTeam": "Badland Banditos",
+      "targetAssets": [
+        {
+          "name": "Jayden Higgins",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1787156731539,
+    "updatedAt": 1787156731539,
+    "expiresAt": 1787588731539,
+    "status": "queued"
+  },
+  {
     "id": "msuqdyjt-87c1effe",
     "phase": "initial",
     "mode": "counter_trade",
