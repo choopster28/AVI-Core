@@ -395,7 +395,9 @@
       "8111",
       "8151"
     ],
-    "reserve": null,
+    "reserve": [
+      "12484"
+    ],
     "roster_id": 7,
     "settings": {
       "division": 3,
