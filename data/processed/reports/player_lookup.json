@@ -243,18 +243,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012536",
-      "c_avi": 38.8,
-      "d_avi": 71.2,
-      "nfl_team": "HOU",
-      "player_name": "Jaylin Noel",
-      "position": "WR",
-      "sleeper_id": "12536",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012524",
       "c_avi": 38.2,
       "d_avi": 62.4,
@@ -579,6 +567,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00009506",
+      "c_avi": 31.7,
+      "d_avi": 64.5,
+      "nfl_team": "TB",
+      "player_name": "Sean Tucker",
+      "position": "RB",
+      "sleeper_id": "9506",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008698",
       "c_avi": 31.1,
       "d_avi": 59.8,
@@ -814,6 +814,18 @@
       "player_name": "Tutu Atwell",
       "position": "WR",
       "sleeper_id": "7562",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013420",
+      "c_avi": 26.8,
+      "d_avi": 60.5,
+      "nfl_team": "NO",
+      "player_name": "Bryce Lance",
+      "position": "WR",
+      "sleeper_id": "13420",
       "status": "Active"
     },
     {
@@ -2307,18 +2319,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00003321",
-      "c_avi": 0.0,
-      "d_avi": 0.0,
-      "nfl_team": "FA",
-      "player_name": "Tyreek Hill",
-      "position": "WR",
-      "sleeper_id": "3321",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00006853",
       "c_avi": 0.0,
       "d_avi": 0.0,
@@ -2729,22 +2729,6 @@
       "status": "Active",
       "team_file": "08_All_Hail_King_Jesus.md",
       "team_name": "All Hail King Jesus"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013420",
-      "c_avi": 26.8,
-      "d_avi": 60.5,
-      "nfl_team": "NO",
-      "owner_id": "737531831641128960",
-      "player_name": "Bryce Lance",
-      "position": "WR",
-      "roster_id": 7,
-      "sleeper_id": "13420",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
     },
     {
       "active": true,
@@ -4333,6 +4317,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012536",
+      "c_avi": 38.8,
+      "d_avi": 71.2,
+      "nfl_team": "HOU",
+      "owner_id": "737531831641128960",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "roster_id": 7,
+      "sleeper_id": "12536",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00013287",
       "c_avi": 89.9,
       "d_avi": 95.7,
@@ -5581,22 +5581,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00009506",
-      "c_avi": 31.7,
-      "d_avi": 64.5,
-      "nfl_team": "TB",
-      "owner_id": "737531831641128960",
-      "player_name": "Sean Tucker",
-      "position": "RB",
-      "roster_id": 7,
-      "sleeper_id": "9506",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00002449",
       "c_avi": 58.0,
       "d_avi": 75.5,
@@ -6041,6 +6025,22 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00003321",
+      "c_avi": 0.0,
+      "d_avi": 0.0,
+      "nfl_team": "FA",
+      "owner_id": "737531831641128960",
+      "player_name": "Tyreek Hill",
+      "position": "WR",
+      "roster_id": 7,
+      "sleeper_id": "3321",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,

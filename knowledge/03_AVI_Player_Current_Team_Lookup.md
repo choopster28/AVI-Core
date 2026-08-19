@@ -196,14 +196,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
 
-## PLAYER LOOKUP: Bryce Lance
-- Player name: Bryce Lance
-- Player ID: 13420
-- Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Bryce Young
 - Player name: Bryce Young
 - Player ID: 9228
@@ -996,6 +988,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
 
+## PLAYER LOOKUP: Jaylin Noel
+- Player name: Jaylin Noel
+- Player ID: 12536
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
 ## PLAYER LOOKUP: Jeremiyah Love
 - Player name: Jeremiyah Love
 - Player ID: 13287
@@ -1620,14 +1620,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
-## PLAYER LOOKUP: Sean Tucker
-- Player name: Sean Tucker
-- Player ID: 9506
-- Position: RB
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Stefon Diggs
 - Player name: Stefon Diggs
 - Player ID: 2449
@@ -1851,6 +1843,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
+
+## PLAYER LOOKUP: Tyreek Hill
+- Player name: Tyreek Hill
+- Player ID: 3321
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: Tyrone Tracy
 - Player name: Tyrone Tracy
@@ -2098,15 +2098,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 63.9
 - Availability: available
 
-## AVAILABLE PLAYER: Jaylin Noel
-- Player name: Jaylin Noel
-- Player ID: 12536
-- Position: WR
-- NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 38.8
-- Dynasty AVI (D-AVI, 0-100): 71.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Shedeur Sanders
 - Player name: Shedeur Sanders
 - Player ID: 12524
@@ -2350,6 +2341,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 45.4
 - Availability: available
 
+## AVAILABLE PLAYER: Sean Tucker
+- Player name: Sean Tucker
+- Player ID: 9506
+- Position: RB
+- NFL team: TB
+- Championship AVI (C-AVI, 0-100): 31.7
+- Dynasty AVI (D-AVI, 0-100): 64.5
+- Availability: available
+
 ## AVAILABLE PLAYER: Jake Tonges
 - Player name: Jake Tonges
 - Player ID: 8698
@@ -2528,6 +2528,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: MIA
 - Championship AVI (C-AVI, 0-100): 27.4
 - Dynasty AVI (D-AVI, 0-100): 53.7
+- Availability: available
+
+## AVAILABLE PLAYER: Bryce Lance
+- Player name: Bryce Lance
+- Player ID: 13420
+- Position: WR
+- NFL team: NO
+- Championship AVI (C-AVI, 0-100): 26.8
+- Dynasty AVI (D-AVI, 0-100): 60.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Jameis Winston
@@ -3642,15 +3651,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 2374
 - Position: WR
 - NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Availability: available
-
-## AVAILABLE PLAYER: Tyreek Hill
-- Player name: Tyreek Hill
-- Player ID: 3321
-- Position: WR
-- NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
 - Availability: available
