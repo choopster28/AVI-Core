@@ -12496,10 +12496,10 @@
     "hashtag": "#garrettwilliams-NFL-ARI-21",
     "height": "70",
     "high_school": "Hickory Ridge (NC)",
-    "injury_body_part": "Achilles",
-    "injury_notes": "Surgery",
+    "injury_body_part": null,
+    "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "PUP",
+    "injury_status": null,
     "kalshi_id": "2eb29fc8-033b-42de-ab5c-c6a9953a71cd",
     "last_name": "Williams",
     "metadata": {
@@ -12507,7 +12507,7 @@
       "genius_id": "1399002",
       "rookie_year": "2023"
     },
-    "news_updated": 1785724260861,
+    "news_updated": 1787259632741,
     "number": 21,
     "oddsjam_id": "25599BC6CC34",
     "opta_id": null,
@@ -29989,7 +29989,7 @@
       "genius_id": "1076772",
       "rookie_year": "2023"
     },
-    "news_updated": 1778170852374,
+    "news_updated": 1787258431531,
     "number": 25,
     "oddsjam_id": "6F7A49554EAA",
     "opta_id": null,
@@ -113798,7 +113798,7 @@
       "rookie_year": "2025",
       "source_id": "e8220506-af35-4002-9adc-d837016b73d8"
     },
-    "news_updated": 1786889412049,
+    "news_updated": 1787258432055,
     "number": 24,
     "oddsjam_id": "CE52563AA194C0A8",
     "opta_id": null,
@@ -168502,7 +168502,7 @@
       "rookie_year": "2026",
       "source_id": "e41043f0-8946-11ec-b2b8-adecafc94fa4"
     },
-    "news_updated": 1787253631808,
+    "news_updated": 1787258735256,
     "number": 15,
     "oddsjam_id": null,
     "opta_id": null,
@@ -170458,7 +170458,7 @@
       "rookie_year": "2026",
       "source_id": "4620b030-9dcc-11ed-9ec1-d7898d8b70ab"
     },
-    "news_updated": 1786984833804,
+    "news_updated": 1787259332835,
     "number": 1,
     "oddsjam_id": null,
     "opta_id": null,
@@ -227393,7 +227393,7 @@
       "genius_id": "757965",
       "rookie_year": "2013"
     },
-    "news_updated": 1787172063210,
+    "news_updated": 1787256630958,
     "number": 10,
     "oddsjam_id": "513D9C7D0AE0",
     "opta_id": null,
@@ -336060,7 +336060,7 @@
       "genius_id": "941508",
       "rookie_year": "2016"
     },
-    "news_updated": 1787243431560,
+    "news_updated": 1787257231080,
     "number": 16,
     "oddsjam_id": "5E6B582A3879",
     "opta_id": null,
@@ -446852,7 +446852,7 @@
       "genius_id": "1007964",
       "rookie_year": "2018"
     },
-    "news_updated": 1786843505566,
+    "news_updated": 1787257531516,
     "number": 26,
     "oddsjam_id": "08F1CFA81F52",
     "opta_id": null,
@@ -512980,7 +512980,7 @@
       "genius_id": "1013413",
       "rookie_year": "2019"
     },
-    "news_updated": 1786731042796,
+    "news_updated": 1787258732678,
     "number": 19,
     "oddsjam_id": "273E9A5C74E8",
     "opta_id": null,
@@ -583242,10 +583242,10 @@
     "hashtag": "#patricktaylor-NFL-SF-32",
     "height": "74",
     "high_school": "Atascocita (TX)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "IR",
     "kalshi_id": "9dcebb78-e8a1-4c9c-afa7-94b7042ff4e6",
     "last_name": "Taylor",
     "metadata": {
@@ -623338,7 +623338,7 @@
       "genius_id": "1073946",
       "rookie_year": "2021"
     },
-    "news_updated": 1787112351584,
+    "news_updated": 1787258432057,
     "number": 7,
     "oddsjam_id": "E9EA7C70CBBD",
     "opta_id": null,
@@ -670909,7 +670909,7 @@
       "genius_id": "577806",
       "rookie_year": "2011"
     },
-    "news_updated": 1786849507461,
+    "news_updated": 1787257830965,
     "number": 14,
     "oddsjam_id": "0A6134E0E378",
     "opta_id": null,
@@ -676702,10 +676702,10 @@
     "hashtag": "#alexwright-NFL-CLE-91",
     "height": "77",
     "high_school": "Elba (AL)",
-    "injury_body_part": null,
+    "injury_body_part": "Lower Leg",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "a473199b-06d7-4b4a-88b3-5fb3a02fa8cd",
     "last_name": "Wright",
     "metadata": {
@@ -683440,10 +683440,10 @@
     "hashtag": "#mattwaletzko-NFL-FA-73",
     "height": "80",
     "high_school": "Rocori (MN)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "f7318c9b-cdac-4462-8229-38269aae8481",
     "last_name": "Waletzko",
     "metadata": {
@@ -695955,7 +695955,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "4bdd3534-280f-40ed-bd89-6d10180d087c",
     "last_name": "Rupcich",
     "metadata": {
