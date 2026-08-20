@@ -16,14 +16,14 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-08-20T13:08:29.362946+00:00",
+  "generated_at_utc": "2026-08-20T22:50:46.323065+00:00",
   "league_id": "1312185568032997376",
   "methodology_status": "provisional_2026_2",
   "methodology_version": "2026.2",
   "player_points_active": false,
   "record_counts": {
-    "calculated_players": 434,
-    "registry_players": 434,
+    "calculated_players": 443,
+    "registry_players": 443,
     "unresolved_players": 0
   },
   "replacement_levels": {

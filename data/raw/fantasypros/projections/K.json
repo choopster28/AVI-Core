@@ -322,22 +322,6 @@
       "team_id": "NO"
     },
     {
-      "filename": "drew-stevens.php",
-      "fpid": 28175,
-      "mflid": 17726,
-      "name": "Drew Stevens",
-      "position_id": "K",
-      "stats": {
-        "fg": 27.83,
-        "fga": 33.23,
-        "points": 120.62,
-        "points_half": 120.62,
-        "points_ppr": 120.62,
-        "xpt": 37.14
-      },
-      "team_id": "WAS"
-    },
-    {
       "filename": "jake-elliott.php",
       "fpid": 16540,
       "mflid": 13303,
@@ -400,6 +384,22 @@
         "xpt": 31.91
       },
       "team_id": "NYJ"
+    },
+    {
+      "filename": "drew-stevens.php",
+      "fpid": 28175,
+      "mflid": 17726,
+      "name": "Drew Stevens",
+      "position_id": "K",
+      "stats": {
+        "fg": 26.55,
+        "fga": 32.15,
+        "points": 116.79,
+        "points_half": 116.79,
+        "points_ppr": 116.79,
+        "xpt": 37.14
+      },
+      "team_id": "WAS"
     },
     {
       "filename": "riley-patterson.php",
@@ -530,22 +530,6 @@
       "team_id": "NYG"
     },
     {
-      "filename": "jake-moody.php",
-      "fpid": 24009,
-      "mflid": 16286,
-      "name": "Jake Moody",
-      "position_id": "K",
-      "stats": {
-        "fg": 13.5,
-        "fga": 16.5,
-        "points": 40.5,
-        "points_half": 40.5,
-        "points_ppr": 40.5,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
       "filename": "cade-york.php",
       "fpid": 24549,
       "mflid": 15882,
@@ -610,10 +594,10 @@
       "team_id": "FA"
     },
     {
-      "filename": "younghoe-koo.php",
-      "fpid": 16910,
-      "mflid": 13403,
-      "name": "Younghoe Koo",
+      "filename": "jake-moody.php",
+      "fpid": 24009,
+      "mflid": 16286,
+      "name": "Jake Moody",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -626,10 +610,10 @@
       "team_id": "FA"
     },
     {
-      "filename": "zane-gonzalez.php",
-      "fpid": 16548,
-      "mflid": 13347,
-      "name": "Zane Gonzalez",
+      "filename": "younghoe-koo.php",
+      "fpid": 16910,
+      "mflid": 13403,
+      "name": "Younghoe Koo",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -688,6 +672,22 @@
         "xpt": 0
       },
       "team_id": "IND"
+    },
+    {
+      "filename": "zane-gonzalez.php",
+      "fpid": 16548,
+      "mflid": 13347,
+      "name": "Zane Gonzalez",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
     },
     {
       "filename": "matt-prater.php",

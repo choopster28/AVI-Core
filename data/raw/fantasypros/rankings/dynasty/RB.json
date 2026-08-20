@@ -3451,7 +3451,7 @@
     {
       "cbs_player_id": "2253041",
       "player_age": "28",
-      "player_bye_week": null,
+      "player_bye_week": "8",
       "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "khalil-herbert.php",
@@ -3464,7 +3464,7 @@
       "player_position_id": "RB",
       "player_positions": "RB",
       "player_short_name": "K. Herbert",
-      "player_team_id": "FA",
+      "player_team_id": "SF",
       "player_yahoo_id": "33605",
       "player_yahoo_positions": "RB",
       "pos_rank": "RB124",

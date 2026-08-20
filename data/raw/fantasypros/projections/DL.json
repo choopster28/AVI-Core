@@ -2463,29 +2463,6 @@
       "team_id": "IND"
     },
     {
-      "filename": "mike-green-dt.php",
-      "fpid": 27042,
-      "mflid": 17120,
-      "name": "Mike Green",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 16.78,
-        "def_ff": 0.39,
-        "def_fr": 0.26,
-        "def_int": 0.13,
-        "def_pd": 1.57,
-        "def_sack": 4.68,
-        "def_safety": 0,
-        "def_tackle": 39.64,
-        "def_td": 0.1,
-        "def_tlost": 0,
-        "points": 96.97,
-        "points_half": 96.97,
-        "points_ppr": 96.97
-      },
-      "team_id": "BAL"
-    },
-    {
       "filename": "derick-hall.php",
       "fpid": 24697,
       "mflid": 16235,
@@ -2783,6 +2760,29 @@
         "points_ppr": 92.37
       },
       "team_id": "LAC"
+    },
+    {
+      "filename": "mike-green-dt.php",
+      "fpid": 27042,
+      "mflid": 17120,
+      "name": "Mike Green",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 19.89,
+        "def_ff": 0.7,
+        "def_fr": 0.63,
+        "def_int": 0.07,
+        "def_pd": 1.29,
+        "def_sack": 5.34,
+        "def_safety": 0,
+        "def_tackle": 31.82,
+        "def_td": 0.1,
+        "def_tlost": 0,
+        "points": 92.16,
+        "points_half": 92.16,
+        "points_ppr": 92.16
+      },
+      "team_id": "BAL"
     },
     {
       "filename": "ashton-gillotte.php",
@@ -3774,29 +3774,6 @@
       "team_id": "CAR"
     },
     {
-      "filename": "james-pearce-jr.php",
-      "fpid": 27018,
-      "mflid": 17115,
-      "name": "James Pearce Jr.",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 11.23,
-        "def_ff": 0.83,
-        "def_fr": 0.71,
-        "def_int": 0.05,
-        "def_pd": 2.71,
-        "def_sack": 6.51,
-        "def_safety": 0,
-        "def_tackle": 19,
-        "def_td": 0.05,
-        "def_tlost": 0,
-        "points": 73.7,
-        "points_half": 73.7,
-        "points_ppr": 73.7
-      },
-      "team_id": "ATL"
-    },
-    {
       "filename": "darius-alexander.php",
       "fpid": 27237,
       "mflid": 17154,
@@ -4370,6 +4347,29 @@
         "points_ppr": 62.48
       },
       "team_id": "IND"
+    },
+    {
+      "filename": "james-pearce-jr.php",
+      "fpid": 27018,
+      "mflid": 17115,
+      "name": "James Pearce Jr.",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 8.46,
+        "def_ff": 0.65,
+        "def_fr": 0.42,
+        "def_int": 0.1,
+        "def_pd": 1.41,
+        "def_sack": 4.52,
+        "def_safety": 0,
+        "def_tackle": 19.99,
+        "def_td": 0.05,
+        "def_tlost": 0,
+        "points": 61.61,
+        "points_half": 61.61,
+        "points_ppr": 61.61
+      },
+      "team_id": "ATL"
     },
     {
       "filename": "trey-moore.php",
