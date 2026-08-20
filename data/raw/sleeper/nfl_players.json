@@ -240593,7 +240593,7 @@
     "college": "Clemson",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "SWR",
     "espn_id": 16172,
     "fantasy_data_id": 15509,
     "fantasy_positions": [
@@ -285310,7 +285310,7 @@
     "college": "Oregon",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "OL",
     "espn_id": 2516984,
     "fantasy_data_id": 16832,
     "fantasy_positions": [
@@ -296282,7 +296282,7 @@
     "college": "Texas",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "TE",
     "espn_id": 3046704,
     "fantasy_data_id": 17005,
     "fantasy_positions": [
@@ -296516,8 +296516,8 @@
     "birth_state": null,
     "college": "Northwestern",
     "competitions": [],
-    "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_order": 4,
+    "depth_chart_position": "QB",
     "espn_id": 2511109,
     "fantasy_data_id": 17009,
     "fantasy_positions": [
@@ -350941,7 +350941,7 @@
     "college": "Sam Houston State",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "P",
     "espn_id": 3061740,
     "fantasy_data_id": 18151,
     "fantasy_positions": [
@@ -399851,7 +399851,7 @@
     "college": "Wisconsin",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "LB",
     "espn_id": 2977798,
     "fantasy_data_id": 18991,
     "fantasy_positions": [
@@ -404017,7 +404017,7 @@
     "college": "South Florida",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "SWR",
     "espn_id": 3059918,
     "fantasy_data_id": 19054,
     "fantasy_positions": [
@@ -422495,7 +422495,7 @@
     "college": "Hawai'i",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "SWR",
     "espn_id": 3046399,
     "fantasy_data_id": 19361,
     "fantasy_positions": [
@@ -424779,7 +424779,7 @@
     "college": "Marian (IN)",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "SWR",
     "espn_id": 4198679,
     "fantasy_data_id": 19403,
     "fantasy_positions": [
@@ -457647,8 +457647,8 @@
     "birth_state": null,
     "college": "Florida State",
     "competitions": [],
-    "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_order": 1,
+    "depth_chart_position": "K",
     "espn_id": 12460,
     "fantasy_data_id": 10333,
     "fantasy_positions": [
@@ -468605,7 +468605,7 @@
     "college": "Tennessee",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "TE",
     "espn_id": 3115360,
     "fantasy_data_id": 20193,
     "fantasy_positions": [
@@ -553965,7 +553965,7 @@
     "college": "Baylor",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "LB",
     "espn_id": 3139108,
     "fantasy_data_id": 21415,
     "fantasy_positions": [
@@ -555917,7 +555917,7 @@
     "college": "James Madison",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "RB",
     "espn_id": 3917814,
     "fantasy_data_id": 21520,
     "fantasy_positions": [
@@ -602029,7 +602029,7 @@
     "college": "Sacramento State",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DL",
     "espn_id": 3120964,
     "fantasy_data_id": 22247,
     "fantasy_positions": [
@@ -723328,7 +723328,7 @@
     "birth_state": null,
     "college": "Tennessee",
     "competitions": [],
-    "depth_chart_order": 4,
+    "depth_chart_order": 5,
     "depth_chart_position": "QB",
     "espn_id": null,
     "fantasy_data_id": 24140,
