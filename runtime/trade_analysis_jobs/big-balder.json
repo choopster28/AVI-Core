@@ -1,5 +1,44 @@
 [
   {
+    "id": "mt1sqdw1-4b698cec",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Goblins · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "DJ Moore",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "personalContext": "I’m anticipating Dj Moore finishing as a top 15-20 WR in the league this year. My starting wr1 and wr2 are Nico and AJ brown, so rice and Moore would swap flex positions for me. Rice injury history is worrisome, as well as his off field antics"
+    },
+    "createdAt": 1787247024549,
+    "updatedAt": 1787247024549,
+    "expiresAt": 1787679024549,
+    "status": "queued"
+  },
+  {
     "id": "mt1sljs6-f294add6",
     "phase": "initial",
     "mode": "analyze_trade",
