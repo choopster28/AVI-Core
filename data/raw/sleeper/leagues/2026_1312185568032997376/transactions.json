@@ -4,6 +4,37 @@
     "_avi_season": 2026,
     "_avi_transaction_week": 1,
     "adds": {
+      "13420": 7
+    },
+    "consenter_ids": [
+      7
+    ],
+    "created": 1787164075519,
+    "creator": "737531831641128960",
+    "draft_picks": [],
+    "drops": null,
+    "leg": 1,
+    "metadata": {
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    "roster_ids": [
+      7
+    ],
+    "settings": {
+      "seq": 0,
+      "waiver_bid": 5
+    },
+    "status": "complete",
+    "status_updated": 1787239664534,
+    "transaction_id": "1395870940390232066",
+    "type": "waiver",
+    "waiver_budget": []
+  },
+  {
+    "_avi_league_id": "1312185568032997376",
+    "_avi_season": 2026,
+    "_avi_transaction_week": 1,
+    "adds": {
       "9501": 13
     },
     "consenter_ids": [
