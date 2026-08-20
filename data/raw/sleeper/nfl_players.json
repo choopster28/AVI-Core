@@ -7538,7 +7538,7 @@
       "genius_id": "1398964",
       "rookie_year": "2023"
     },
-    "news_updated": 1787244030195,
+    "news_updated": 1787245230679,
     "number": 87,
     "oddsjam_id": "7E1BB2772255",
     "opta_id": null,
@@ -54291,7 +54291,7 @@
       "genius_id": "1463681",
       "rookie_year": "2024"
     },
-    "news_updated": 1787165757149,
+    "news_updated": 1787249432612,
     "number": 9,
     "oddsjam_id": "D30AA87736CF",
     "opta_id": null,
@@ -58795,7 +58795,7 @@
       "genius_id": "1463675",
       "rookie_year": "2024"
     },
-    "news_updated": 1787235624178,
+    "news_updated": 1787244931175,
     "number": 1,
     "oddsjam_id": "8838562B2670",
     "opta_id": null,
@@ -117698,7 +117698,7 @@
       "rookie_year": "2025",
       "source_id": "b0c3a640-863a-11ec-ac3f-2f01cb0af5e4"
     },
-    "news_updated": 1787172959599,
+    "news_updated": 1787248829732,
     "number": 10,
     "oddsjam_id": "EFD3A435BF24E96E",
     "opta_id": null,
@@ -170151,7 +170151,7 @@
       "rookie_year": "2026",
       "source_id": "6567cbc0-9eaf-11ed-b23c-b1b7c283bdf7"
     },
-    "news_updated": 1786850707052,
+    "news_updated": 1787249429813,
     "number": 6,
     "oddsjam_id": null,
     "opta_id": null,
@@ -177503,10 +177503,10 @@
     "hashtag": "#michaeltrigg-NFL-DAL-46",
     "height": "76",
     "high_school": "Carrollwood Day (FL)",
-    "injury_body_part": null,
+    "injury_body_part": "Toe",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "8b995643-e4fb-4519-beca-aeeacd89b088",
     "last_name": "Trigg",
     "metadata": {
@@ -180678,10 +180678,10 @@
     "hashtag": "#francismauigoa-NFL-NYG-65",
     "height": "78",
     "high_school": "IMG Academy (FL)",
-    "injury_body_part": null,
+    "injury_body_part": "Upper Body",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "d555493d-dc02-4e42-8e0c-c931f29bbbe6",
     "last_name": "Mauigoa",
     "metadata": {
@@ -199407,7 +199407,7 @@
       "genius_id": "758015",
       "rookie_year": "2013"
     },
-    "news_updated": 1787007637193,
+    "news_updated": 1787249432630,
     "number": 7,
     "oddsjam_id": "083339653919",
     "opta_id": null,
@@ -388607,7 +388607,7 @@
       "genius_id": "998602",
       "rookie_year": "2017"
     },
-    "news_updated": 1787000138206,
+    "news_updated": 1787248232370,
     "number": 95,
     "oddsjam_id": "FF569529F1AC",
     "opta_id": null,
@@ -388769,10 +388769,10 @@
     "hashtag": "#mitchelltrubisky-NFL-TEN-10",
     "height": "75",
     "high_school": "Mentor (OH)",
-    "injury_body_part": null,
+    "injury_body_part": "Biceps",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "24e83220-a72d-4154-b0eb-f21e88593628",
     "last_name": "Trubisky",
     "metadata": {
@@ -399992,7 +399992,7 @@
       "genius_id": "999821",
       "rookie_year": "2017"
     },
-    "news_updated": 1786301429788,
+    "news_updated": 1787247929661,
     "number": 34,
     "oddsjam_id": "192F6515EE16",
     "opta_id": null,
@@ -454478,10 +454478,10 @@
     "hashtag": "#djmoore-NFL-BUF-2",
     "height": "72",
     "high_school": "Imhotep Institute Charter (PA)",
-    "injury_body_part": "Lower Body",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "99a4f0c5-4c3d-4133-8aa3-ddd316cb5f8d",
     "last_name": "Moore",
     "metadata": {
@@ -454489,7 +454489,7 @@
       "genius_id": "1008102",
       "rookie_year": "2018"
     },
-    "news_updated": 1787064044735,
+    "news_updated": 1787250030264,
     "number": 2,
     "oddsjam_id": "9D6ED1CC6CA2",
     "opta_id": null,
@@ -511410,7 +511410,7 @@
       "genius_id": "1013859",
       "rookie_year": "2019"
     },
-    "news_updated": 1787165157073,
+    "news_updated": 1787249432598,
     "number": 1,
     "oddsjam_id": "4E6A6983DF4F",
     "opta_id": null,
@@ -570384,7 +570384,7 @@
       "injury_override_regular_2025_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1787236224379,
+    "news_updated": 1787246129384,
     "number": 9,
     "oddsjam_id": "26DF8843FD11",
     "opta_id": null,
@@ -660513,10 +660513,10 @@
     "hashtag": "#khalilshakir-NFL-BUF-10",
     "height": "72",
     "high_school": "Vista Murrieta (CA)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "af843ffa-5c39-43cd-93f0-3fd0ab144e3e",
     "last_name": "Shakir",
     "metadata": {
@@ -660524,7 +660524,7 @@
       "genius_id": "1084036",
       "rookie_year": "2022"
     },
-    "news_updated": 1787169357581,
+    "news_updated": 1787249432582,
     "number": 10,
     "oddsjam_id": "889707CDEC24",
     "opta_id": null,
@@ -661187,7 +661187,7 @@
       "genius_id": "1075390",
       "rookie_year": "2022"
     },
-    "news_updated": 1787098849903,
+    "news_updated": 1787248529668,
     "number": 12,
     "oddsjam_id": "016969998F62",
     "opta_id": null,
@@ -677245,10 +677245,10 @@
     "hashtag": "#zyonmccollum-NFL-TB-27",
     "height": "74",
     "high_school": "Ball (TX)",
-    "injury_body_part": null,
+    "injury_body_part": "Groin",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "7b5bf627-09ff-4d67-9a1d-84d82b60f50f",
     "last_name": "McCollum",
     "metadata": {
@@ -718460,7 +718460,7 @@
       "genius_id": "1399238",
       "rookie_year": "2023"
     },
-    "news_updated": 1787076604583,
+    "news_updated": 1787250029887,
     "number": 12,
     "oddsjam_id": "3EFD62DFAF78",
     "opta_id": null,
@@ -721669,7 +721669,7 @@
       "genius_id": "1398557",
       "rookie_year": "2023"
     },
-    "news_updated": 1787241025173,
+    "news_updated": 1787244931142,
     "number": 7,
     "oddsjam_id": "66A14E676432",
     "opta_id": null,
