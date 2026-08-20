@@ -1,5 +1,5 @@
 {
-  "downloaded_at_utc": "2026-08-19T22:47:35.439992+00:00",
+  "downloaded_at_utc": "2026-08-20T13:08:28.917315+00:00",
   "methodology_version": "2026.2",
   "player_points": {
     "collected": true,
@@ -13,7 +13,7 @@
   },
   "scoring": "PPR",
   "season": 2026,
-  "snapshot_id": "2026-08-19T22-47-35Z",
+  "snapshot_id": "2026-08-20T13-08-28Z",
   "status": "passed",
   "warnings": []
 }

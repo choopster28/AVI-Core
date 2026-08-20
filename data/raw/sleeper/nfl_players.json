@@ -63216,7 +63216,7 @@
     "injury_body_part": "Pectoral",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Out",
+    "injury_status": "Doubtful",
     "kalshi_id": "809186e7-7087-4bc6-9a9b-f76866635178",
     "last_name": "Newton",
     "metadata": {
@@ -660646,7 +660646,7 @@
       "genius_id": "1343505",
       "rookie_year": "2022"
     },
-    "news_updated": 1787192419604,
+    "news_updated": 1787229624371,
     "number": 1,
     "oddsjam_id": "2820805E8162",
     "opta_id": null,

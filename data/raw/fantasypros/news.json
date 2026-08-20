@@ -1,7 +1,149 @@
 {
-  "count": 25,
+  "count": 21,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-08-18 02:49:10",
+      "created_formated": "Tue, Aug 18th 2:49am UTC",
+      "desc": "Keenan Allen is signing a one-year deal with the Colts worth up to $8.32 million.",
+      "id": 602946,
+      "impact": "Allen is only signing a one-year deal with the Colts, but the veteran is still an impact player and should be able to soak up a considerable amount of targets this year. Indianapolis' decision to bring in Allen is a bad sign for the health of Alec Pierce (ankle), who has yet to practice at all this offseason and has no concrete timetable for his return. The 34-year old will likely only have streaming value at this point in his career, but his presence on this offense will help Daniel Jones while hurting the fantasy value of players like Alec Pierce (ankle), Josh Downs (groin), and Ashton Dulin.",
+      "link": "https://www.fantasypros.com/nfl/news/602946/keenan-allen-signing-with-colts.php",
+      "player_id": 11616,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Keenan Allen signing with Colts"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-20 02:18:41",
+      "created_formated": "Thu, Aug 20th 2:18am UTC",
+      "desc": "Commanders RB Rachaad White has been sidelined from practice after tweaking his hamstring. ",
+      "id": 603395,
+      "impact": "It is not considered serious or a long-term issue for White. He won't be rushed back from a hamstring injury as he competes for an immediate role alongside Jacory Croskey-Merritt in the Commanders backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/603395/rachaad-white-dealing-with-hamstring-strain.php",
+      "player_id": 23891,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Rachaad White dealing with hamstring strain"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-20 02:13:54",
+      "created_formated": "Thu, Aug 20th 2:13am UTC",
+      "desc": "Commanders DT Johnny Newton underwent surgery for a torn pectoral muscle and is expected to miss significant time.",
+      "id": 603394,
+      "impact": "It is a brutal break for the Commanders defensive line. It is unclear how much time Newton will miss. ",
+      "link": "https://www.fantasypros.com/nfl/news/603394/jerzhan-newton-pec-undergoes-surgery-to-miss-significant-time.php",
+      "player_id": 26218,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Jer'Zhan Newton (pec) undergoes surgery, to miss significant time"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-20 02:11:01",
+      "created_formated": "Thu, Aug 20th 2:11am UTC",
+      "desc": "Colts TE Tyler Warren suffered an adductor strain and is expected to return to practice by next week. ",
+      "id": 603393,
+      "impact": "Fantasy managers can breathe a sigh of relief. Warren could still miss some practice time the rest of this week, but he is expected to be back on the field by next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/603393/tyler-warren-suffers-adductor-strain-to-return-by-next-week.php",
+      "player_id": 26434,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Tyler Warren suffers adductor strain, to return by next week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-19 23:22:27",
+      "created_formated": "Wed, Aug 19th 11:22pm UTC",
+      "desc": "Jameson Williams resumed practicing on Wednesday. ",
+      "id": 603380,
+      "impact": "Williams missed the Lions' last two practices. He made his way back on Wednesday. ",
+      "link": "https://www.fantasypros.com/nfl/news/603380/jameson-williams-shoulder-returns-to-practice.php",
+      "player_id": 23677,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Jameson Williams (shoulder) returns to practice "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-19 23:21:31",
+      "created_formated": "Wed, Aug 19th 11:21pm UTC",
+      "desc": "Sam LaPorta did not practice on Wednesday due to an undisclosed injury. ",
+      "id": 603379,
+      "impact": "LaPorta has returned to training camp from a back injury he suffered last season. It is unclear if his absence on Wednesday relates to that previous injury or not. ",
+      "link": "https://www.fantasypros.com/nfl/news/603379/sam-laporta-undisclosed-misses-practice-wednesday.php",
+      "player_id": 22978,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Sam LaPorta (undisclosed) misses practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-19 23:19:53",
+      "created_formated": "Wed, Aug 19th 11:19pm UTC",
+      "desc": "Free agent WR A.T. Perry worked out for the Dolphins on Wednesday.",
+      "id": 603378,
+      "impact": "Perry last played in the regular season in 2023 with New Orleans. ",
+      "link": "https://www.fantasypros.com/nfl/news/603378/at-perry-works-out-dolphins.php",
+      "player_id": 24353,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "A.T. Perry works out for Dolphins "
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-19 22:51:28",
+      "created_formated": "Wed, Aug 19th 10:51pm UTC",
+      "desc": "Vita Vea signed a 1-year, $30 million extension with the Tampa Bay Buccaneers on Wednesday.",
+      "id": 603377,
+      "impact": "After requesting a trade earlier in training camp, Vea will be staying put in Tampa Bay after he got a deal to his liking. He is now under contract with the Bucs for the next two seasons, where he will look to continue his role as a key interior defensive lineman.",
+      "link": "https://www.fantasypros.com/nfl/news/603377/vita-vea-signs-extension-with-buccaneers.php",
+      "player_id": 17322,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Vita Vea signs extension with Buccaneers"
+    },
     {
       "author": "Diego Sandoval",
       "categories": [
@@ -75,23 +217,6 @@
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News"
-      ],
-      "created": "2026-08-19 20:38:02",
-      "created_formated": "Wed, Aug 19th 8:38pm UTC",
-      "desc": "Keenan Allen will begin practicing with the Colts on Thursday. ",
-      "id": 603336,
-      "impact": "Allen agreed to a contract with the Colts earlier this week. He'll add depth to a depleted Colts wide receiver room. ",
-      "link": "https://www.fantasypros.com/nfl/news/603336/keenan-allen-to-begin-practicing-thursday.php",
-      "player_id": 11616,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Keenan Allen to begin practicing Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
         "News",
         "Injury"
       ],
@@ -105,24 +230,6 @@
       "sport_id": "NFL",
       "team_id": "IND",
       "title": "DJ Giddens (hamstring) exits early Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-19 20:29:23",
-      "created_formated": "Wed, Aug 19th 8:29pm UTC",
-      "desc": "Tyler Warren left practice early on Wednesday with an apparent injury. ",
-      "id": 603332,
-      "impact": "It is being reported as a groin injury for Warren. He left with an athletic trainer and returned to the sideline without a helmet. There should be an update on his official status when available. ",
-      "link": "https://www.fantasypros.com/nfl/news/603332/tyler-warren-leaves-practice-early-wednesday.php",
-      "player_id": 26434,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Tyler Warren leaves practice early Wednesday "
     },
     {
       "author": "Cooper Kleinberg",
@@ -262,185 +369,6 @@
       "sport_id": "NFL",
       "team_id": "MIN",
       "title": "J.J. McCarthy confirmed to be Vikings QB2"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-19 17:36:36",
-      "created_formated": "Wed, Aug 19th 5:36pm UTC",
-      "desc": "Mitchell Trubisky returned to practice on Wednesday. ",
-      "id": 603271,
-      "impact": "Trubisky was being evaluated for a bicep injury to open the week. He is competing for the backup role. ",
-      "link": "https://www.fantasypros.com/nfl/news/603271/mitchell-trubisky-bicep-returns-to-practice.php",
-      "player_id": 16381,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Mitchell Trubisky (bicep) returns to practice "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-19 17:26:26",
-      "created_formated": "Wed, Aug 19th 5:26pm UTC",
-      "desc": "Tristan Wirfs returned to practice on Wednesday. ",
-      "id": 603268,
-      "impact": "Wirfs sustained a hamstring injury during the first week of Bucs training camp. He remains on track to be good to go for the start of the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/603268/tristan-wirfs-hamstring-returns-to-practice.php",
-      "player_id": 19208,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Tristan Wirfs (hamstring) returns to practice "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-19 17:25:28",
-      "created_formated": "Wed, Aug 19th 5:25pm UTC",
-      "desc": "The Titans signed RB D'Ernest Johnson.",
-      "id": 603267,
-      "impact": "Johnson will add depth in the backfield for Tennessee. ",
-      "link": "https://www.fantasypros.com/nfl/news/603267/dernest-johnson-signs-with-titans.php",
-      "player_id": 19111,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "D'Ernest Johnson signs with Titans "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-19 17:24:39",
-      "created_formated": "Wed, Aug 19th 5:24pm UTC",
-      "desc": "The Jaguars acquired G Daniel Faalele from the Giants in exchange for a late 2027 draft pick.",
-      "id": 603266,
-      "impact": "Faalele signed with the Giants in April. He'll add depth on the offensive line for Jacksonville. ",
-      "link": "https://www.fantasypros.com/nfl/news/603266/daniel-faalele-traded-to-jaguars.php",
-      "player_id": 23732,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Daniel Faalele traded to Jaguars "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-19 17:23:19",
-      "created_formated": "Wed, Aug 19th 5:23pm UTC",
-      "desc": "Eagles DC Vic Fangio said Jonathan Greenard could miss Week 1 against the Commanders.",
-      "id": 603265,
-      "impact": "Greenard injured his pec in late July. He is hopeful to return later in August, but his status for the start of the season remains up in the air. ",
-      "link": "https://www.fantasypros.com/nfl/news/603265/jonathan-greenard-pec-could-miss-week-1.php",
-      "player_id": 19276,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jonathan Greenard (pec) could miss Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-19 17:21:37",
-      "created_formated": "Wed, Aug 19th 5:21pm UTC",
-      "desc": "Makai Lemon remained absent from practice on Wednesday. ",
-      "id": 603264,
-      "impact": "Lemon has been sidelined for nearly two weeks with the hamstring issue. It remains unclear when he will return to practice. ",
-      "link": "https://www.fantasypros.com/nfl/news/603264/makai-lemon-hamstring-still-not-practicing-wednesday.php",
-      "player_id": 25420,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Makai Lemon (hamstring) still not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-19 17:20:07",
-      "created_formated": "Wed, Aug 19th 5:20pm UTC",
-      "desc": "Tank Bigsby returned to practice on Wednesday. ",
-      "id": 603263,
-      "impact": "Bigsby missed some practice time with the toe issue. He is slated to open the season backing up Saquon Barkley. ",
-      "link": "https://www.fantasypros.com/nfl/news/603263/tank-bigsby-toe-returns-to-practice-wednesday.php",
-      "player_id": 22908,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Tank Bigsby (toe) returns to practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-19 17:18:07",
-      "created_formated": "Wed, Aug 19th 5:18pm UTC",
-      "desc": "Chargers C Tyler Biadasz is out indefinitely with a knee injury.",
-      "id": 603262,
-      "impact": "Biadasz had to be carted off during the team's joint practice with the 49ers. It is possible he misses the entire season. ",
-      "link": "https://www.fantasypros.com/nfl/news/603262/tyler-biadasz-knee-out-indefinitely.php",
-      "player_id": 18268,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Tyler Biadasz (knee) out indefinitely "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-19 17:16:00",
-      "created_formated": "Wed, Aug 19th 5:16pm UTC",
-      "desc": "Tony Pollard returned to practice on Wednesday. ",
-      "id": 603261,
-      "impact": "Pollard missed two practices with a foot issue. He saw four carries in the Titans preseason opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/603261/tony-pollard-foot-returns-to-practice-wednesday.php",
-      "player_id": 18705,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tony Pollard (foot) returns to practice Wednesday "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-08-19 16:37:54",
-      "created_formated": "Wed, Aug 19th 4:37pm UTC",
-      "desc": "Jayden Higgins (knee) suffered a torn ACL in practice on Tuesday. He is now out for the 2026 NFL season.",
-      "id": 603250,
-      "impact": "Higgins was having a great training camp by all reports, so this is awful news for those who invested in him for fantasy. But even moreso for the player, who was looking to have a second year breakout, and now must turn his attention to the 2027 season. Tank Dell and Jaylin Noel will likely see the largest uptick in work in his absence with Xavier Hutchinson still coming in as more of a blocking receiver.",
-      "link": "https://www.fantasypros.com/nfl/news/603250/jayden-higgins-knee-suffers-torn-acl-out-2026.php",
-      "player_id": 27077,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Jayden Higgins (knee) suffers torn ACL, out for 2026"
     }
   ],
   "public_api_limited": true,

@@ -318,12 +318,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.31,
-        "points": 165,
-        "points_half": 212.22,
-        "points_ppr": 259.43,
-        "rec_rec": 94.44,
+        "points": 166.23,
+        "points_half": 213.95,
+        "points_ppr": 261.67,
+        "rec_rec": 95.44,
         "rec_tds": 7.88,
-        "rec_yds": 1183.17,
+        "rec_yds": 1195.5,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -702,34 +702,6 @@
       "team_id": "BUF"
     },
     {
-      "filename": "alec-pierce.php",
-      "fpid": 23791,
-      "mflid": 15768,
-      "name": "Alec Pierce",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.25,
-        "points": 139.06,
-        "points_half": 168.32,
-        "points_ppr": 197.59,
-        "rec_rec": 58.53,
-        "rec_tds": 6.42,
-        "rec_yds": 1010.59,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "IND"
-    },
-    {
       "filename": "christian-watson.php",
       "fpid": 23886,
       "mflid": 15789,
@@ -812,6 +784,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "DEN"
+    },
+    {
+      "filename": "alec-pierce.php",
+      "fpid": 23791,
+      "mflid": 15768,
+      "name": "Alec Pierce",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.25,
+        "points": 135.73,
+        "points_half": 163.99,
+        "points_ppr": 192.25,
+        "rec_rec": 56.53,
+        "rec_tds": 6.42,
+        "rec_yds": 977.26,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "IND"
     },
     {
       "filename": "luther-burden-iii.php",
@@ -934,12 +934,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.16,
-        "points": 123.12,
-        "points_half": 152.14,
-        "points_ppr": 181.16,
+        "points": 123.06,
+        "points_half": 152.08,
+        "points_ppr": 181.1,
         "rec_rec": 58.04,
         "rec_tds": 5.35,
-        "rec_yds": 872.23,
+        "rec_yds": 871.57,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -962,12 +962,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.4,
-        "points": 121.73,
-        "points_half": 153.02,
-        "points_ppr": 184.32,
+        "points": 121.79,
+        "points_half": 153.09,
+        "points_ppr": 184.38,
         "rec_rec": 62.59,
         "rec_tds": 5.73,
-        "rec_yds": 862.53,
+        "rec_yds": 863.2,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -1234,34 +1234,6 @@
       "team_id": "ARI"
     },
     {
-      "filename": "matthew-golden.php",
-      "fpid": 26024,
-      "mflid": 17075,
-      "name": "Matthew Golden",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.36,
-        "points": 108.62,
-        "points_half": 137.04,
-        "points_ppr": 165.46,
-        "rec_rec": 56.84,
-        "rec_tds": 4.34,
-        "rec_yds": 787.03,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 8.24,
-        "rush_tds": 0.09,
-        "rush_yds": 40.92,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "GB"
-    },
-    {
       "filename": "chris-godwin.php",
       "fpid": 16406,
       "mflid": 13163,
@@ -1318,6 +1290,34 @@
       "team_id": "SEA"
     },
     {
+      "filename": "matthew-golden.php",
+      "fpid": 26024,
+      "mflid": 17075,
+      "name": "Matthew Golden",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.36,
+        "points": 105.58,
+        "points_half": 133.52,
+        "points_ppr": 161.47,
+        "rec_rec": 55.89,
+        "rec_tds": 4.56,
+        "rec_yds": 758.68,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 5.49,
+        "rush_tds": 0.06,
+        "rush_yds": 27.28,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "GB"
+    },
+    {
       "filename": "calvin-ridley.php",
       "fpid": 17258,
       "mflid": 13629,
@@ -1372,34 +1372,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "NE"
-    },
-    {
-      "filename": "wandale-robinson.php",
-      "fpid": 22985,
-      "mflid": 15757,
-      "name": "Wan'Dale Robinson",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.29,
-        "points": 101.17,
-        "points_half": 141.15,
-        "points_ppr": 181.12,
-        "rec_rec": 79.95,
-        "rec_tds": 3.32,
-        "rec_yds": 805.95,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 2.02,
-        "rush_tds": 0.05,
-        "rush_yds": 9.5,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "TEN"
     },
     {
       "filename": "dezhaun-stribling.php",
@@ -1486,6 +1458,34 @@
       "team_id": "WAS"
     },
     {
+      "filename": "wandale-robinson.php",
+      "fpid": 22985,
+      "mflid": 15757,
+      "name": "Wan'Dale Robinson",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.29,
+        "points": 99.17,
+        "points_half": 139.15,
+        "points_ppr": 179.12,
+        "rec_rec": 79.95,
+        "rec_tds": 2.98,
+        "rec_yds": 805.95,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 2.02,
+        "rush_tds": 0.05,
+        "rush_yds": 9.5,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "TEN"
+    },
+    {
       "filename": "makai-lemon.php",
       "fpid": 25420,
       "mflid": 17499,
@@ -1512,34 +1512,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "PHI"
-    },
-    {
-      "filename": "josh-downs.php",
-      "fpid": 24706,
-      "mflid": 16187,
-      "name": "Josh Downs",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.78,
-        "points": 97.58,
-        "points_half": 133.33,
-        "points_ppr": 169.07,
-        "rec_rec": 71.49,
-        "rec_tds": 4.23,
-        "rec_yds": 731.61,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 1.36,
-        "rush_tds": 0.03,
-        "rush_yds": 4.23,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "IND"
     },
     {
       "filename": "jalen-coker.php",
@@ -1652,6 +1624,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "BUF"
+    },
+    {
+      "filename": "josh-downs.php",
+      "fpid": 24706,
+      "mflid": 16187,
+      "name": "Josh Downs",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.78,
+        "points": 94.92,
+        "points_half": 129.33,
+        "points_ppr": 163.74,
+        "rec_rec": 68.82,
+        "rec_tds": 4.23,
+        "rec_yds": 704.94,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 1.36,
+        "rush_tds": 0.03,
+        "rush_yds": 4.23,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "IND"
     },
     {
       "filename": "denzel-boston.php",
@@ -1878,34 +1878,6 @@
       "team_id": "IND"
     },
     {
-      "filename": "jordyn-tyson.php",
-      "fpid": 26035,
-      "mflid": 17498,
-      "name": "Jordyn Tyson",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.68,
-        "points": 79.65,
-        "points_half": 102.41,
-        "points_ppr": 125.17,
-        "rec_rec": 45.52,
-        "rec_tds": 3.23,
-        "rec_yds": 613.74,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0.33,
-        "rush_tds": 0,
-        "rush_yds": 2.33,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "NO"
-    },
-    {
       "filename": "devaughn-vele.php",
       "fpid": 26409,
       "mflid": 16788,
@@ -2018,34 +1990,6 @@
       "team_id": "NYJ"
     },
     {
-      "filename": "caleb-douglas.php",
-      "fpid": 28135,
-      "mflid": 17599,
-      "name": "Caleb Douglas",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.45,
-        "points": 71.1,
-        "points_half": 93.24,
-        "points_ppr": 115.37,
-        "rec_rec": 44.27,
-        "rec_tds": 2.17,
-        "rec_yds": 589.81,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "MIA"
-    },
-    {
       "filename": "jaylin-noel.php",
       "fpid": 27122,
       "mflid": 17080,
@@ -2100,6 +2044,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "JAC"
+    },
+    {
+      "filename": "jordyn-tyson.php",
+      "fpid": 26035,
+      "mflid": 17498,
+      "name": "Jordyn Tyson",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.68,
+        "points": 69,
+        "points_half": 87.89,
+        "points_ppr": 106.79,
+        "rec_rec": 37.79,
+        "rec_tds": 2.85,
+        "rec_yds": 529.11,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0.5,
+        "rush_tds": 0,
+        "rush_yds": 3.5,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "NO"
     },
     {
       "filename": "antonio-williams-wr.php",
@@ -2262,6 +2234,34 @@
         "rush_att": 13.45,
         "rush_tds": 0.72,
         "rush_yds": 80.84,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "MIA"
+    },
+    {
+      "filename": "caleb-douglas.php",
+      "fpid": 28135,
+      "mflid": 17599,
+      "name": "Caleb Douglas",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.73,
+        "points": 65.75,
+        "points_half": 85.57,
+        "points_ppr": 105.39,
+        "rec_rec": 39.64,
+        "rec_tds": 2.59,
+        "rec_yds": 511.41,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 1,
+        "rush_tds": 0,
+        "rush_yds": 5.5,
         "rush_yds_100": 0,
         "rush_yds_200": 0,
         "scrimage_yards_100": 0,
@@ -2942,34 +2942,6 @@
       "team_id": "DEN"
     },
     {
-      "filename": "josh-palmer.php",
-      "fpid": 22845,
-      "mflid": 15319,
-      "name": "Joshua Palmer",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.08,
-        "points": 43.79,
-        "points_half": 56.76,
-        "points_ppr": 69.73,
-        "rec_rec": 25.94,
-        "rec_tds": 1.62,
-        "rec_yds": 342.22,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "BUF"
-    },
-    {
       "filename": "marvin-mims.php",
       "fpid": 23080,
       "mflid": 16189,
@@ -3444,6 +3416,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "BAL"
+    },
+    {
+      "filename": "josh-palmer.php",
+      "fpid": 22845,
+      "mflid": 15319,
+      "name": "Joshua Palmer",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.15,
+        "points": 27.68,
+        "points_half": 36.12,
+        "points_ppr": 44.55,
+        "rec_rec": 16.87,
+        "rec_tds": 1.24,
+        "rec_yds": 205.43,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "BUF"
     },
     {
       "filename": "cyrus-allen.php",
