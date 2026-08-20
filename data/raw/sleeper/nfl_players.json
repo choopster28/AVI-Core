@@ -10073,10 +10073,10 @@
     "hashtag": "#tyriquestevenson-NFL-CHI-29",
     "height": "72",
     "high_school": "Miami Southridge (FL)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "e59253be-9de9-4dd5-8609-07bb2f2f20de",
     "last_name": "Stevenson",
     "metadata": {
@@ -63214,9 +63214,9 @@
     "height": "74",
     "high_school": "Clearwater Central Catholic (FL)",
     "injury_body_part": "Pectoral",
-    "injury_notes": null,
+    "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "kalshi_id": "809186e7-7087-4bc6-9a9b-f76866635178",
     "last_name": "Newton",
     "metadata": {
@@ -63224,7 +63224,7 @@
       "genius_id": "1463693",
       "rookie_year": "2024"
     },
-    "news_updated": 1787198118554,
+    "news_updated": 1787233224486,
     "number": 95,
     "oddsjam_id": "395A76D64B44",
     "opta_id": null,
@@ -116525,7 +116525,7 @@
       "rookie_year": "2025",
       "source_id": "8ab6354b-b2a8-43be-801a-e1f0f7f5df5f"
     },
-    "news_updated": 1781227248781,
+    "news_updated": 1787234124221,
     "number": 13,
     "oddsjam_id": "4E17F5C8BE687142",
     "opta_id": null,
@@ -117140,7 +117140,7 @@
       "rookie_year": "2025",
       "source_id": "3992e590-8f40-11ec-9f33-1965c9c46e44"
     },
-    "news_updated": 1786680048616,
+    "news_updated": 1787232924012,
     "number": 20,
     "oddsjam_id": "31DA4D7ACB326276",
     "opta_id": null,
@@ -570384,7 +570384,7 @@
       "injury_override_regular_2025_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1786767354053,
+    "news_updated": 1787234425358,
     "number": 9,
     "oddsjam_id": "26DF8843FD11",
     "opta_id": null,
@@ -624479,7 +624479,7 @@
       "injury_override_regular_2025_3": "Out",
       "rookie_year": "2021"
     },
-    "news_updated": 1786638020989,
+    "news_updated": 1787234124482,
     "number": 6,
     "oddsjam_id": "F0908F414B50",
     "opta_id": null,
@@ -660646,7 +660646,7 @@
       "genius_id": "1343505",
       "rookie_year": "2022"
     },
-    "news_updated": 1787229624371,
+    "news_updated": 1787232024627,
     "number": 1,
     "oddsjam_id": "2820805E8162",
     "opta_id": null,
@@ -678887,7 +678887,7 @@
       "injury_override_regular_2024_14": "IR",
       "rookie_year": "2022"
     },
-    "news_updated": 1786848007618,
+    "news_updated": 1787232023726,
     "number": 27,
     "oddsjam_id": "B42F0AA45128",
     "opta_id": null,
@@ -707177,7 +707177,7 @@
   },
   "8847": {
     "active": true,
-    "age": 24,
+    "age": 26,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2000-03-28",
@@ -707194,7 +707194,7 @@
     "first_name": "Kellen",
     "full_name": "Kellen Diesch",
     "gsis_id": null,
-    "hashtag": "#kellendiesch-NFL-FA-70",
+    "hashtag": "#kellendiesch-NFL-KC-70",
     "height": "79",
     "high_school": "Byron Nelson (TX)",
     "injury_body_part": null,
@@ -707228,12 +707228,12 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 922128,
-    "team": null,
+    "team": "KC",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "300",
     "yahoo_id": null,
-    "years_exp": 2
+    "years_exp": 4
   },
   "8848": {
     "active": true,
