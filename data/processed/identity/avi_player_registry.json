@@ -6901,6 +6901,32 @@
   {
     "active": true,
     "aliases": [
+      "Lew Nichols",
+      "Lew Nichols III"
+    ],
+    "avi_id": "AVI-00009510",
+    "canonical_name": "Lew Nichols",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "PIT",
+    "normalized_name": "lew nichols",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24215,
+      "fantasypros_id": "25443",
+      "nfl_id": "2569771",
+      "rotowire_id": 16701,
+      "sleeper_id": "9510",
+      "sportradar_id": "72e4032d-8d7b-484f-95a2-a73fbb2c67f4",
+      "sportsdata_player_id": "72e4032d-8d7b-484f-95a2-a73fbb2c67f4"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Lil'Jordan Humphrey"
     ],
     "avi_id": "AVI-00005938",
@@ -8004,6 +8030,31 @@
       "sleeper_id": "13299",
       "sportradar_id": "69aa9430-b9b0-4cd9-8dd5-3a81963336de",
       "sportsdata_player_id": "69aa9430-b9b0-4cd9-8dd5-3a81963336de"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Nathan Carter"
+    ],
+    "avi_id": "AVI-00012897",
+    "canonical_name": "Nathan Carter",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "ATL",
+    "normalized_name": "nathan carter",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26289,
+      "fantasypros_id": "27667",
+      "nfl_id": null,
+      "rotowire_id": 18894,
+      "sleeper_id": "12897",
+      "sportradar_id": "be0e5b20-2479-11f0-8e28-d7828261d278",
+      "sportsdata_player_id": "be0e5b20-2479-11f0-8e28-d7828261d278"
     }
   },
   {
@@ -9968,6 +10019,31 @@
   {
     "active": true,
     "aliases": [
+      "Travis Homer"
+    ],
+    "avi_id": "AVI-00006012",
+    "canonical_name": "Travis Homer",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "PIT",
+    "normalized_name": "travis homer",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": 4037457,
+      "fantasy_data_id": 20810,
+      "fantasypros_id": "18616",
+      "nfl_id": "2562665",
+      "rotowire_id": 13484,
+      "sleeper_id": "6012",
+      "sportradar_id": "4afb77d8-4564-469b-be4c-5a8587df8046",
+      "sportsdata_player_id": "4afb77d8-4564-469b-be4c-5a8587df8046"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Travis Hunter"
     ],
     "avi_id": "AVI-00012530",
@@ -10664,6 +10740,32 @@
       "sleeper_id": "11655",
       "sportradar_id": "fc6c7973-79a9-4974-855e-bc13400fe641",
       "sportsdata_player_id": "fc6c7973-79a9-4974-855e-bc13400fe641"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Ulysses Bentley",
+      "Ulysses Bentley IV"
+    ],
+    "avi_id": "AVI-00012826",
+    "canonical_name": "Ulysses Bentley",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "IND",
+    "normalized_name": "ulysses bentley",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25967,
+      "fantasypros_id": "23112",
+      "nfl_id": "2574183",
+      "rotowire_id": 18640,
+      "sleeper_id": "12826",
+      "sportradar_id": "f71d0370-23b2-11f0-b632-8947e146a0ae",
+      "sportsdata_player_id": "f71d0370-23b2-11f0-b632-8947e146a0ae"
     }
   },
   {

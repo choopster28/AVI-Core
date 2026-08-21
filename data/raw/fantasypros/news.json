@@ -3,6 +3,93 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 02:57:36",
+      "created_formated": "Fri, Aug 21st 2:57am UTC",
+      "desc": "Carson Beck (ribs) is unlikely to play in Saturday's preseason game against the Dallas Cowboys.",
+      "id": 603576,
+      "impact": "Beck recently suffered an injury to his ribs. It's not considered a serious issue at this point, but it still looks like the team will have him sit out on Saturday as a precautionary measure. Gardner Minshew II is in line to be Arizona's starter against the Cowboys, assuming the 24-year old is officially ruled out ahead of game time.",
+      "link": "https://www.fantasypros.com/nfl/news/603576/carson-beck-ribs-unlikely-to-play-saturday.php",
+      "player_id": 22953,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Carson Beck (ribs) unlikely to play Saturday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 02:55:30",
+      "created_formated": "Fri, Aug 21st 2:55am UTC",
+      "desc": "Jacoby Brissett won't play in Saturday's preseason game against the Dallas Cowboys.",
+      "id": 603575,
+      "impact": "The veteran quarterback will not suit up on Saturday. He took part in the team's first preseason game, but they apparently don't feel that he needs more reps and will let him sit out of their next game. Gardner Minshew II is expected to be the starter with Carson Beck (ribs) unlikely to play as well.",
+      "link": "https://www.fantasypros.com/nfl/news/603575/jacoby-brissett-wont-play-saturday.php",
+      "player_id": 15642,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Jacoby Brissett won't play Saturday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 02:51:20",
+      "created_formated": "Fri, Aug 21st 2:51am UTC",
+      "desc": "George Kittle (Achilles) is still considered to have a real chance to play in San Francisco's season opener after another medical evaluation on Wednesday.",
+      "id": 603574,
+      "impact": "Kittle recently underwent an evaluation on the recovery of his Achilles, and it is being reported that the results were encouraging and that he has a real chance to be ready to play in time for Week 1. It remains unlikely that he will be at full strength for the start of the season, but if he's at least on the field, fantasy managers might not have to wait more than a few weeks before he's back to form from a fantasy perspective.",
+      "link": "https://www.fantasypros.com/nfl/news/603574/george-kittle-achilles-has-chance-to-play-week-1.php",
+      "player_id": 16499,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "George Kittle (Achilles) has chance to play in Week 1"
+    },
+    {
+      "author": "Cooper Kleinberg",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 01:28:43",
+      "created_formated": "Fri, Aug 21st 1:28am UTC",
+      "desc": "Steelers CB Joey Porter Jr. is reportedly drawing interest on the trade market.",
+      "id": 603572,
+      "impact": "Porter is currently on the NFL's PUP list and is reportedly seeking a contract extension. He could be on the move with the regular season approaching.",
+      "link": "https://www.fantasypros.com/nfl/news/603572/joey-porter-jr-drawing-trade-interest.php",
+      "player_id": 24705,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Joey Porter Jr. drawing trade interest"
+    },
+    {
+      "author": "Cooper Kleinberg",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 01:20:25",
+      "created_formated": "Fri, Aug 21st 1:20am UTC",
+      "desc": "49ers WR Deebo Samuel Sr. will play against the Chargers in the preseason",
+      "id": 603571,
+      "impact": "Thursday night's contest could offer a closer look at the type of role Samuel will have in the 49ers' offense this season.",
+      "link": "https://www.fantasypros.com/nfl/news/603571/deebo-samuel-sr-starting-against-chargers.php",
+      "player_id": 18244,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Deebo Samuel Sr. starting against Chargers"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -354,93 +441,6 @@
       "sport_id": "NFL",
       "team_id": "DEN",
       "title": "Taylor Rapp signs with Broncos "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 16:32:07",
-      "created_formated": "Thu, Aug 20th 4:32pm UTC",
-      "desc": "Makai Lemon (hamstring) was limited at Philadelphia's practice on Thursday.",
-      "id": 603496,
-      "impact": "The rookie was able to make his return to practice on Thursday. He was sidelined for a little while after suffering a hamstring injury, but it seems that he is progressing well with his recovery, as the team is now letting him practice in a limited capacity. At this rate he will be ready to play in time for the team's season opener, barring any setbacks with his recovery.",
-      "link": "https://www.fantasypros.com/nfl/news/603496/makai-lemon-hamstring-limited-practice-thursday.php",
-      "player_id": 25420,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Makai Lemon (hamstring) limited at practice Thursday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-20 16:30:54",
-      "created_formated": "Thu, Aug 20th 4:30pm UTC",
-      "desc": "Luke Altmyer is expected to see equal reps with Joshua Dobbs in Saturday's preseason game against the Commanders. ",
-      "id": 603495,
-      "impact": "Dobbs will start with Altmyer entering the game behind him as they compete for the backup job behind Jared Goff. ",
-      "link": "https://www.fantasypros.com/nfl/news/603495/luke-altmyer-joshua-dobbs-to-see-equal-reps-saturday.php",
-      "player_id": 28093,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Luke Altmyer, Joshua Dobbs to see equal reps Saturday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-20 16:29:41",
-      "created_formated": "Thu, Aug 20th 4:29pm UTC",
-      "desc": "Joshua Dobbs will start Saturday's preseason game against the Commanders. ",
-      "id": 603494,
-      "impact": "Dobbs and Luke Altmyer will see equal reps as they compete for the backup job. ",
-      "link": "https://www.fantasypros.com/nfl/news/603494/joshua-dobbs-to-start-saturday.php",
-      "player_id": 16417,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Joshua Dobbs to start Saturday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 16:28:56",
-      "created_formated": "Thu, Aug 20th 4:28pm UTC",
-      "desc": "DeVonta Smith (hamstring) was officially a limited participant at practice on Thursday.",
-      "id": 603493,
-      "impact": "Smith is still in the process of recovering from a hamstring injury, but he was able to take part in Thursday's joint practice with New England in a limited capacity. It seems like his recover is going well, and unless there's a setback of some kind, it looks like he will be fully healthy in time for the season opener.",
-      "link": "https://www.fantasypros.com/nfl/news/603493/devonta-smith-hamstring-officially-limited-thursday.php",
-      "player_id": 19222,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "DeVonta Smith (hamstring) officially limited Thursday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-20 16:28:55",
-      "created_formated": "Thu, Aug 20th 4:28pm UTC",
-      "desc": "Jared Goff will not play in the Lions second preseason game on Saturday against the Commanders. ",
-      "id": 603492,
-      "impact": "Goff could see some reps in the final preseason game. It will be Josh Dobbs starting with Luke Altmyer seeing reps behind him. ",
-      "link": "https://www.fantasypros.com/nfl/news/603492/jared-goff-will-not-play-saturday.php",
-      "player_id": 15501,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jared Goff will not play Saturday "
     }
   ],
   "public_api_limited": true,

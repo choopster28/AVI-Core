@@ -901,6 +901,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "18616",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PIT",
+    "player_name": "Travis Homer",
+    "position": "RB",
+    "sleeper_id": "6012"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "18631",
     "match_method": "exact_name_position_unique",
     "nfl_team": "BUF",
@@ -2044,6 +2053,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "23112",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "IND",
+    "player_name": "Ulysses Bentley IV",
+    "position": "RB",
+    "sleeper_id": "12826"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23113",
     "match_method": "exact_name_position_unique",
     "nfl_team": "KC",
@@ -2932,6 +2950,15 @@
     "player_name": "Oscar Delp",
     "position": "TE",
     "sleeper_id": "13319"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "25443",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PIT",
+    "player_name": "Lew Nichols III",
+    "position": "RB",
+    "sleeper_id": "9510"
   },
   {
     "confidence": "verified",
@@ -3895,6 +3922,15 @@
     "player_name": "Tyler Loop",
     "position": "K",
     "sleeper_id": "12711"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "27667",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ATL",
+    "player_name": "Nathan Carter",
+    "position": "RB",
+    "sleeper_id": "12897"
   },
   {
     "confidence": "verified",
