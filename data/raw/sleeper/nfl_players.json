@@ -2044,7 +2044,7 @@
     "college": "Iowa State",
     "competitions": [],
     "depth_chart_order": 3,
-    "depth_chart_position": "SWR",
+    "depth_chart_position": "RWR",
     "espn_id": null,
     "fantasy_data_id": 24347,
     "fantasy_positions": [
@@ -8078,7 +8078,7 @@
       "genius_id": "1072717",
       "rookie_year": "2023"
     },
-    "news_updated": 1787335839773,
+    "news_updated": 1787336438062,
     "number": 19,
     "oddsjam_id": "29722AF545D1",
     "opta_id": null,
@@ -58189,7 +58189,7 @@
       "genius_id": "1464144",
       "rookie_year": "2024"
     },
-    "news_updated": 1785441322760,
+    "news_updated": 1787339727345,
     "number": 88,
     "oddsjam_id": "47AE5C72E09D",
     "opta_id": null,
@@ -95120,7 +95120,7 @@
     "college": "Northern Illinois",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "OL",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 25559,
     "fantasy_positions": [
@@ -95132,10 +95132,10 @@
     "hashtag": "#jamesester-NFL-MIA-65",
     "height": "75",
     "high_school": "Cass Technical (MI)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "615bf917-86a3-474b-889a-cefdae85d0b7",
     "last_name": "Ester",
     "metadata": {
@@ -115699,7 +115699,7 @@
     "college": "Iowa State",
     "competitions": [],
     "depth_chart_order": 7,
-    "depth_chart_position": "RWR",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26094,
     "fantasy_positions": [
@@ -115725,7 +115725,7 @@
       "rookie_year": "2025",
       "source_id": "7139f9a8-332b-42bc-a555-93deaf7f4cd7"
     },
-    "news_updated": 1787158260391,
+    "news_updated": 1787339422095,
     "number": 81,
     "oddsjam_id": "316D64219F892349",
     "opta_id": null,
@@ -115744,7 +115744,7 @@
     "sport": "nfl",
     "sportradar_id": "f55444a9-ccad-4343-bb03-caca6ea3de99",
     "stats_id": null,
-    "status": "Active",
+    "status": "Inactive",
     "swish_id": null,
     "team": "HOU",
     "team_abbr": null,
@@ -118370,7 +118370,7 @@
       "rookie_year": "2025",
       "source_id": "a824f56b-2134-4034-beba-c066d62cb700"
     },
-    "news_updated": 1786716339936,
+    "news_updated": 1787337038118,
     "number": 1,
     "oddsjam_id": "27E0F43D907A37B9",
     "opta_id": null,
@@ -150973,7 +150973,7 @@
     "college": "USC",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "LB",
+    "depth_chart_position": "DL",
     "espn_id": null,
     "fantasy_data_id": 26530,
     "fantasy_positions": [
@@ -204495,7 +204495,7 @@
     "college": "Boise State",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "TE",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28424,
     "fantasy_positions": [
@@ -219848,7 +219848,7 @@
     "college": "Arkansas",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "LB",
     "espn_id": null,
     "fantasy_data_id": 24104,
     "fantasy_positions": [
@@ -219857,7 +219857,7 @@
     "first_name": "Stephen",
     "full_name": "Stephen Dix",
     "gsis_id": null,
-    "hashtag": "#stephendix-NFL-FA-48",
+    "hashtag": "#stephendix-NFL-MIA-48",
     "height": "73",
     "high_school": "Dr. Phillips (FL)",
     "injury_body_part": null,
@@ -219886,13 +219886,13 @@
     "search_first_name": "stephen",
     "search_full_name": "stephendix",
     "search_last_name": "dix",
-    "search_rank": 9999999,
+    "search_rank": 608,
     "sport": "nfl",
     "sportradar_id": "12c49320-4fba-11f1-a036-ab8ba8e3002d",
     "stats_id": null,
     "status": "Active",
     "swish_id": null,
-    "team": null,
+    "team": "MIA",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "245",
@@ -220453,7 +220453,7 @@
     "college": "Vanderbilt",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28592,
     "fantasy_positions": [
@@ -220937,7 +220937,7 @@
     "college": "Minnesota",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28600,
     "fantasy_positions": [
@@ -288646,7 +288646,7 @@
     "college": "Kentucky",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "LB",
+    "depth_chart_position": "DL",
     "espn_id": 3043168,
     "fantasy_data_id": 16883,
     "fantasy_positions": [
@@ -346497,7 +346497,7 @@
       "injury_override_regular_2025_5": "IR",
       "rookie_year": "2016"
     },
-    "news_updated": 1787334337756,
+    "news_updated": 1787336440462,
     "number": 10,
     "oddsjam_id": "E207E864C191",
     "opta_id": null,
@@ -397821,7 +397821,7 @@
     "college": "Villanova",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DL",
     "espn_id": 2982313,
     "fantasy_data_id": 18960,
     "fantasy_positions": [
@@ -643511,7 +643511,7 @@
     "college": "Illinois",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "LB",
     "espn_id": null,
     "fantasy_data_id": 23072,
     "fantasy_positions": [
@@ -697276,7 +697276,7 @@
       "genius_id": "1078561",
       "rookie_year": "2022"
     },
-    "news_updated": 1785182147831,
+    "news_updated": 1787339420555,
     "number": 88,
     "oddsjam_id": "A9F50580EAE8",
     "opta_id": null,
@@ -704164,7 +704164,7 @@
       "genius_id": "1007493",
       "rookie_year": "2022"
     },
-    "news_updated": 1784820012019,
+    "news_updated": 1787338238482,
     "number": 20,
     "oddsjam_id": "9E8952BD6072",
     "opta_id": null,
@@ -719099,7 +719099,7 @@
     "college": "Houston",
     "competitions": [],
     "depth_chart_order": 2,
-    "depth_chart_position": "LWR",
+    "depth_chart_position": "SWR",
     "espn_id": null,
     "fantasy_data_id": 24176,
     "fantasy_positions": [
@@ -719244,7 +719244,7 @@
       "genius_id": "1399247",
       "rookie_year": "2023"
     },
-    "news_updated": 1786815001384,
+    "news_updated": 1787340927392,
     "number": 9,
     "oddsjam_id": "86B6983F9C7F",
     "opta_id": null,
