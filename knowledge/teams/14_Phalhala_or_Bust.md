@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 556.4
-- championship_lineup_c_avi_avg: 69.55
-- offensive_roster_c_avi_sum: 767.5
-- offensive_roster_c_avi_avg: 59.04
-- offensive_roster_d_avi_sum: 1004.5
-- offensive_roster_d_avi_avg: 77.27
+- championship_lineup_c_avi_sum: 556.9
+- championship_lineup_c_avi_avg: 69.61
+- offensive_roster_c_avi_sum: 768.3
+- offensive_roster_c_avi_avg: 59.10
+- offensive_roster_d_avi_sum: 1005.4
+- offensive_roster_d_avi_avg: 77.34
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: C.J. Stroud | C-AVI: 48.7 | D-AVI: 70.8
 - RB: Ashton Jeanty | C-AVI: 96.9 | D-AVI: 97.5
-- RB: Jaylen Warren | C-AVI: 69.9 | D-AVI: 83.9
+- RB: Jaylen Warren | C-AVI: 70.0 | D-AVI: 84.0
 - WR: Rome Odunze | C-AVI: 76.4 | D-AVI: 89.1
-- WR: Michael Wilson | C-AVI: 65.1 | D-AVI: 83.8
-- TE: Sam LaPorta | C-AVI: 84.3 | D-AVI: 87.4
-- FLEX: Hunter Henry | C-AVI: 59.2 | D-AVI: 73.2
+- WR: Michael Wilson | C-AVI: 65.0 | D-AVI: 83.8
+- TE: Sam LaPorta | C-AVI: 84.5 | D-AVI: 87.4
+- FLEX: Hunter Henry | C-AVI: 59.5 | D-AVI: 73.2
 - FLEX: Makai Lemon | C-AVI: 55.9 | D-AVI: 84.9
 
 ## Current Roster — All Player Cards
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 69.9
-- Dynasty AVI (D-AVI, 0-100): 83.9
+- Championship AVI (C-AVI, 0-100): 70.0
+- Dynasty AVI (D-AVI, 0-100): 84.0
 - Projected PPR points: 197.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 52.7
+- Championship AVI (C-AVI, 0-100): 52.9
 - Dynasty AVI (D-AVI, 0-100): 75.3
 - Projected PPR points: 145.2
 - Category: offense
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 65.1
+- Championship AVI (C-AVI, 0-100): 65.0
 - Dynasty AVI (D-AVI, 0-100): 83.8
 - Projected PPR points: 176.6
 - Category: offense
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 46.2
-- Dynasty AVI (D-AVI, 0-100): 65.8
+- Championship AVI (C-AVI, 0-100): 46.4
+- Dynasty AVI (D-AVI, 0-100): 66.6
 - Projected PPR points: 130.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 35.6
+- Championship AVI (C-AVI, 0-100): 35.5
 - Dynasty AVI (D-AVI, 0-100): 61.0
 - Projected PPR points: 81.1
 - Category: offense
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 84.3
+- Championship AVI (C-AVI, 0-100): 84.5
 - Dynasty AVI (D-AVI, 0-100): 87.4
 - Projected PPR points: 179.5
 - Category: offense
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 59.2
+- Championship AVI (C-AVI, 0-100): 59.5
 - Dynasty AVI (D-AVI, 0-100): 73.2
 - Projected PPR points: 150.3
 - Category: offense
@@ -280,23 +280,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Akheem Mesidor
-- Player name: Akheem Mesidor
-- Player ID: 13341
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Position: DL
-- Fantasy positions: ['DL', 'LB']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
 ### PLAYER: Jonathan Greenard
 - Player name: Jonathan Greenard
 - Player ID: 6900
@@ -308,6 +291,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Dallas Turner
+- Player name: Dallas Turner
+- Player ID: 11667
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: LB
+- Fantasy positions: ['DL', 'LB']
+- NFL team: MIN
+- Active: True
+- Status: Active
+- Age: 23.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

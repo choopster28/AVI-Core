@@ -811,6 +811,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "18397",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "HOU",
+    "player_name": "Foster Moreau",
+    "position": "TE",
+    "sleeper_id": "5985"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "18406",
     "match_method": "exact_name_position_unique",
     "nfl_team": "BUF",

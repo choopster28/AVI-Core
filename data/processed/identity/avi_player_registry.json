@@ -3515,6 +3515,31 @@
   {
     "active": true,
     "aliases": [
+      "Foster Moreau"
+    ],
+    "avi_id": "AVI-00005985",
+    "canonical_name": "Foster Moreau",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "HOU",
+    "normalized_name": "foster moreau",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": 3843945,
+      "fantasy_data_id": 20884,
+      "fantasypros_id": "18397",
+      "nfl_id": "2562317",
+      "rotowire_id": 13822,
+      "sleeper_id": "5985",
+      "sportradar_id": "9c3a67fd-5c6e-4689-9e08-9ff6d4db6c9a",
+      "sportsdata_player_id": "9c3a67fd-5c6e-4689-9e08-9ff6d4db6c9a"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Frank Gore",
       "Frank Gore Jr."
     ],

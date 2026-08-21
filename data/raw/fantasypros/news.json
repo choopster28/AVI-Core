@@ -1,7 +1,322 @@
 {
-  "count": 25,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Cooper Kleinberg",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 21:00:10",
+      "created_formated": "Fri, Aug 21st 9:00pm UTC",
+      "desc": "Veteran WR Zay Jones is signing with the Houston Texans",
+      "id": 603662,
+      "impact": "Jones provides the Texans with some insurance at the WR position after Jayden Higgins suffered a season-ending injury. At age 31, however, he remains a player with minimal fantasy value.",
+      "link": "https://www.fantasypros.com/nfl/news/603662/zay-jones-signing-with-texans.php",
+      "player_id": 16431,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Zay Jones signing with Texans"
+    },
+    {
+      "author": "Cooper Kleinberg",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 20:55:45",
+      "created_formated": "Fri, Aug 21st 8:55pm UTC",
+      "desc": "Veteran WR Sterling Shepard is signing with the Houston Texans",
+      "id": 603661,
+      "impact": "Shepard signs with the Texans following Jayden Higgins' season-ending injury. Unfortunately, at age 33, he remains with little to no value in fantasy.",
+      "link": "https://www.fantasypros.com/nfl/news/603661/sterling-shepard-signing-with-texans.php",
+      "player_id": 15569,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Sterling Shepard signing with Texans"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 20:13:01",
+      "created_formated": "Fri, Aug 21st 8:13pm UTC",
+      "desc": "Free agent WR Josh Reynolds has been linked to the Texans. ",
+      "id": 603647,
+      "impact": "Houston is holding workouts after losing Jayden Higgins for the season. Reynolds previously worked out for the Saints. ",
+      "link": "https://www.fantasypros.com/nfl/news/603647/josh-reynolds-linked-to-texans.php",
+      "player_id": 16439,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Josh Reynolds linked to Texans"
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 19:07:31",
+      "created_formated": "Fri, Aug 21st 7:07pm UTC",
+      "desc": "The Houston Texans officially placed Jayden Higgins on the season-ending injured reserve with a torn ACL.",
+      "id": 603621,
+      "impact": "This was expected after Higgins was announced to have torn his ACL in a joint practice with the Raiders on Tuesday. Nico Collins is now likely the only Houston receiver on the fantasy radar, with Tank Dell still working back to full health and Xavier Hutchinson likely going undrafted in fantasy drafts. Dalton Schultz could see more opportunity with this injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/603621/jayden-higgins-knee-officially-placed-on-season-ending-ir.php",
+      "player_id": 27077,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Jayden Higgins (knee) officially placed on season-ending IR"
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 18:10:33",
+      "created_formated": "Fri, Aug 21st 6:10pm UTC",
+      "desc": "Tyreek Hill is not expected to sign with a team before the season begins, according to his agent Drew Rosenhaus.",
+      "id": 603619,
+      "impact": "Hill has been on the long road to recovery after sustaining a major knee injury in Week 4 last season, and it looks like he will remain a free agent when the 2026 season begins. However, the 32-year-old could receive interest from contenders as the season goes on if he continues to progress in his rehab.",
+      "link": "https://www.fantasypros.com/nfl/news/603619/tyreek-hill-not-expected-to-sign-before-week-1.php",
+      "player_id": 15802,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Tyreek Hill not expected to sign before Week 1"
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 18:04:22",
+      "created_formated": "Fri, Aug 21st 6:04pm UTC",
+      "desc": "Jake Bobo suffered a \"serious\" knee injury in Friday's practice, according to Seahawks head coach Mike Macdonald.",
+      "id": 603618,
+      "impact": "Bobo was carted off the field during Friday's practice, and the initial signs are not great. While nothing has been confirmed, a serious knee injury likely means that Bobo is facing a long road to recovery. Seattle will now lose a depth piece in its receiver room for a chunk of the season, if not the entirety of it.",
+      "link": "https://www.fantasypros.com/nfl/news/603618/jake-bobo-suffers-serious-knee-injury.php",
+      "player_id": 25339,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Jake Bobo suffers \"serious\" knee injury"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 16:01:23",
+      "created_formated": "Fri, Aug 21st 4:01pm UTC",
+      "desc": "Titans rookie WR Carnell Tate returned to practice on Friday. ",
+      "id": 603608,
+      "impact": "Tate missed practice time earlier this week due to \"stiffness.\" The rookie could see some more reps in Sunday's preseason game against the Seahawks. ",
+      "link": "https://www.fantasypros.com/nfl/news/603608/carnell-tate-returns-to-practice-friday.php",
+      "player_id": 26009,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Carnell Tate returns to practice Friday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 14:52:01",
+      "created_formated": "Fri, Aug 21st 2:52pm UTC",
+      "desc": "Falcons QB Michael Penix Jr. said he is waiting for full clearance and he expects it \"real soon.\" ",
+      "id": 603602,
+      "impact": "Penix has yet to participate in team drills during training camp. \"If I had a rush coming at me and everything, I can get away,\" Penix said. \"But it's just the right now is if I don't get away. That's what we're thinking about: If I don't get away. I don't think my doctor is ready for me to take those hits right now, but that time is coming real soon.\" Tua Tagovailoa remains the current favorite to start Week 1 for the Falcons. ",
+      "link": "https://www.fantasypros.com/nfl/news/603602/michael-penix-jr-knee-waiting-full-clearance-expects-it-real-soon.php",
+      "player_id": 22973,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Michael Penix Jr. (knee) waiting for full clearance, expects it 'real soon'"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 14:49:14",
+      "created_formated": "Fri, Aug 21st 2:49pm UTC",
+      "desc": "Ennis Rakestraw Jr. left practice early on Thursday with a leg injury. ",
+      "id": 603601,
+      "impact": "It is unclear how serious the injury is. Rakestraw is day-to-day for now. ",
+      "link": "https://www.fantasypros.com/nfl/news/603601/ennis-rakestraw-jr-suffers-leg-injury-thursday.php",
+      "player_id": 26220,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Ennis Rakestraw Jr. suffers leg injury Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 14:47:45",
+      "created_formated": "Fri, Aug 21st 2:47pm UTC",
+      "desc": "Lions coach Dan Campbell says Jimmy Rolder isn't likely to return to practice by next week.  ",
+      "id": 603600,
+      "impact": "Rolder went down with a leg injury earlier in August. He remains without a clear timetable to return. ",
+      "link": "https://www.fantasypros.com/nfl/news/603600/jimmy-rolder-leg-not-ready-to-return-to-practice.php",
+      "player_id": 28355,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Jimmy Rolder (leg) not ready to return to practice "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 14:46:18",
+      "created_formated": "Fri, Aug 21st 2:46pm UTC",
+      "desc": "The Colts released Roydell Williams. ",
+      "id": 603599,
+      "impact": "Indianapolis signed WR Keenan Allen as the corresponding move. ",
+      "link": "https://www.fantasypros.com/nfl/news/603599/roydell-williams-released-by-colts.php",
+      "player_id": 9737,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Roydell Williams released by Colts"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 14:45:14",
+      "created_formated": "Fri, Aug 21st 2:45pm UTC",
+      "desc": "The Jaguars waived OL Timothy McKay. ",
+      "id": 603598,
+      "impact": "McKay will figure to seek another opportunity during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/603598/timothy-mckay-waived-by-jaguars.php",
+      "player_id": 27635,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Timothy McKay waived by Jaguars "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 14:43:50",
+      "created_formated": "Fri, Aug 21st 2:43pm UTC",
+      "desc": "The Chargers waived WR Luke Grimm with an injury designation. ",
+      "id": 603597,
+      "impact": "Grimm will figure to seek another opportunity during training camp when he is cleared. ",
+      "link": "https://www.fantasypros.com/nfl/news/603597/luke-grimm-waived-by-chargers.php",
+      "player_id": 27601,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Luke Grimm waived by Chargers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 14:42:59",
+      "created_formated": "Fri, Aug 21st 2:42pm UTC",
+      "desc": "The Chargers signed WR Liam Clifford. ",
+      "id": 603595,
+      "impact": "Clifford will compete for a depth role in the Chargers wide receiver room. ",
+      "link": "https://www.fantasypros.com/nfl/news/603595/liam-clifford-signs-with-chargers.php",
+      "player_id": 29411,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Liam Clifford signs with Chargers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 14:41:28",
+      "created_formated": "Fri, Aug 21st 2:41pm UTC",
+      "desc": "The Browns waived CB Jeadyn Lukus. ",
+      "id": 603594,
+      "impact": "Lukus signed with Cleveland earlier in August. He'll figure to seek another opportunity during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/603594/jeadyn-lukus-waived-by-browns.php",
+      "player_id": 28311,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jeadyn Lukus waived by Browns "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 14:40:14",
+      "created_formated": "Fri, Aug 21st 2:40pm UTC",
+      "desc": "The Browns signed DL Jamil Muhammad. ",
+      "id": 603593,
+      "impact": "Muhammad spent time with both the Rams and Panthers last season. He'll compete for a depth role on the Browns defensive line. ",
+      "link": "https://www.fantasypros.com/nfl/news/603593/jamil-muhammad-signs-with-browns.php",
+      "player_id": 27755,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Jamil Muhammad signs with Browns"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-21 14:38:14",
+      "created_formated": "Fri, Aug 21st 2:38pm UTC",
+      "desc": "The Buccaneers released CB Chase Lucas with a four-week injury settlement.",
+      "id": 603592,
+      "impact": "Lucas suffered a calf injury. He is expected to draw heavy interest when he is cleared. ",
+      "link": "https://www.fantasypros.com/nfl/news/603592/chase-lucas-released-by-bucs.php",
+      "player_id": 23956,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Chase Lucas released by Bucs"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-21 14:35:50",
+      "created_formated": "Fri, Aug 21st 2:35pm UTC",
+      "desc": "The Bengals signed CB Matthew McDoom. ",
+      "id": 603591,
+      "impact": "McDoom will compete for a depth role in the Bengals corner back room. ",
+      "link": "https://www.fantasypros.com/nfl/news/603591/matthew-mcdoom-signs-with-bengals.php",
+      "player_id": 28702,
+      "sport_id": "NFL",
+      "team_id": "CIN",
+      "title": "Matthew McDoom signs with Bengals "
+    },
     {
       "author": "Leo Sells",
       "categories": [
@@ -105,342 +420,6 @@
       "sport_id": "NFL",
       "team_id": "LV",
       "title": "Fernando Mendoza to play roughly first half Thursday "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 20:12:13",
-      "created_formated": "Thu, Aug 20th 8:12pm UTC",
-      "desc": "Danny Pinter is expected to miss an extended period of time after suffering a knee injury in Wednesday's practice. ",
-      "id": 603547,
-      "impact": "Pinter had been viewed as the likely leading candidate to start at center for the Ravens this season. That will not be the case, however, at least for a long while. Pinter tore a patellar tendon during Wednesday's practice session and could possibly miss the entire season. ",
-      "link": "https://www.fantasypros.com/nfl/news/603547/danny-pinter-knee-to-miss-extended-period-time.php",
-      "player_id": 19822,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Danny Pinter (knee) to miss extended period of time"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 16:58:24",
-      "created_formated": "Thu, Aug 20th 4:58pm UTC",
-      "desc": "Sam LaPorta is currently dealing with a hip injury, and HC Dan Campbell told reporters that the team is uncertain if it will affect his availability for Week 1.",
-      "id": 603512,
-      "impact": "LaPorta injured his hip on a hit in practice recently. The team is uncertain about the severity of it at this point and will be giving him a few days off to rest and recover before reevaluating. Fantasy managers should pay close attention to this situation, as he may not be worth drafting at his current ADP if he has to miss one or more games at the start of the regular season.",
-      "link": "https://www.fantasypros.com/nfl/news/603512/sam-laporta-suffers-hip-injury-uncertain-week-1.php",
-      "player_id": 22978,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Sam LaPorta suffers hip injury, uncertain for Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 18:08:01",
-      "created_formated": "Thu, Aug 20th 6:08pm UTC",
-      "desc": "Khalil Shakir was not seen at Thursday's joint practice. ",
-      "id": 603531,
-      "impact": "It is unclear what Shakir is dealing with specifically. There should be an update on his status from head coach Joe Brady soon. ",
-      "link": "https://www.fantasypros.com/nfl/news/603531/khalil-shakir-not-practicing-thursday.php",
-      "player_id": 23748,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Khalil Shakir not practicing Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-20 18:02:40",
-      "created_formated": "Thu, Aug 20th 6:02pm UTC",
-      "desc": "Kyler Murray will not play in Saturday's preseason game against the Ravens. ",
-      "id": 603529,
-      "impact": "Murray was officially named the Week 1 starter last week. J.J. McCarthy will \"more than likely\" start Saturday's preseason game. ",
-      "link": "https://www.fantasypros.com/nfl/news/603529/kyler-murray-will-not-play-saturday.php",
-      "player_id": 18600,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Kyler Murray will not play Saturday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-20 18:01:03",
-      "created_formated": "Thu, Aug 20th 6:01pm UTC",
-      "desc": "Vikings head coach Kevin O'Connell said J.J. McCarthy is \"more than likely\" to start Saturday's preseason game against the Ravens. ",
-      "id": 603528,
-      "impact": "Kyler Murray will not play on Saturday. McCarthy remains the QB2 for Minnesota heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/603528/jj-mccarthy-to-more-likely-start-saturday.php",
-      "player_id": 23018,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "J.J. McCarthy to 'more than likely' start Saturday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-20 17:52:43",
-      "created_formated": "Thu, Aug 20th 5:52pm UTC",
-      "desc": "Geno Smith will start Friday's preseason game against the Steelers. ",
-      "id": 603526,
-      "impact": "Smith will see his first action on the field this season. He'll likely only play one or two series. ",
-      "link": "https://www.fantasypros.com/nfl/news/603526/geno-smith-to-start-friday.php",
-      "player_id": 11687,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Geno Smith to start Friday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 17:45:30",
-      "created_formated": "Thu, Aug 20th 5:45pm UTC",
-      "desc": "Browns RB Quinshon Judkins was not seen at practice on Thursday. ",
-      "id": 603525,
-      "impact": "Judkins missed practice on Wednesday due to a \"minor issue.\" He remains day-to-day. ",
-      "link": "https://www.fantasypros.com/nfl/news/603525/quinshon-judkins-not-seen-practice-thursday.php",
-      "player_id": 25391,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Quinshon Judkins not seen at practice Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 17:43:35",
-      "created_formated": "Thu, Aug 20th 5:43pm UTC",
-      "desc": "Puka Nacua is not taking part in Thursday's joint practice against the Saints. ",
-      "id": 603523,
-      "impact": "Nacua is continuing to work his way back from soreness in his groin. He remains day-to-day for now. ",
-      "link": "https://www.fantasypros.com/nfl/news/603523/puka-nacua-groin-not-taking-part-joint-practice-thursday.php",
-      "player_id": 23180,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Puka Nacua (groin) not taking part in joint practice Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 17:42:05",
-      "created_formated": "Thu, Aug 20th 5:42pm UTC",
-      "desc": "Myles Garrett is not participating in Thursday's joint practice against the Saints. ",
-      "id": 603522,
-      "impact": "Garrett remains hopeful to return to practice next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/603522/myles-garrett-knee-not-participating-joint-practice-thursday.php",
-      "player_id": 16370,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Myles Garrett (knee) not participating in joint practice Thursday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-20 16:53:37",
-      "created_formated": "Thu, Aug 20th 4:53pm UTC",
-      "desc": "C.J. Stroud is expected to play a few series in Thursday's preseason game against the Las Vegas Raiders.",
-      "id": 603510,
-      "impact": "Initial reports suggested that the Texans were going to rest their starters against the Raiders, but now they have made the decision to let some starters play a few series, including Stroud and the team's starters on the offensive line. He will be extremely limited in this game, so there's unlikely to be enough data to draw any fantasy conclusions from this preseason matchup.",
-      "link": "https://www.fantasypros.com/nfl/news/603510/cj-stroud-expected-to-play-thursday.php",
-      "player_id": 23071,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "C.J. Stroud expected to play Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-20 16:49:53",
-      "created_formated": "Thu, Aug 20th 4:49pm UTC",
-      "desc": "Joe Burrow and Cincinnati's starters are set to be sidelined for Saturday's preseason game against the Chicago Bears.",
-      "id": 603507,
-      "impact": "Burrow and many of Cincinnati's starters played in the team's first preseason game last week, but they are going to be sidelined for this week's game against the Bears. It remains to be seen if their starters will take the field for the team's third and final preseason game on August 28.",
-      "link": "https://www.fantasypros.com/nfl/news/603507/joe-burrow-bengals-starters-set-to-be-sidelined-saturday.php",
-      "player_id": 19196,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Joe Burrow, Bengals starters set to be sidelined Saturday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 16:49:52",
-      "created_formated": "Thu, Aug 20th 4:49pm UTC",
-      "desc": "The Jaguars activated OL Cole Van Lanen from the PUP list. ",
-      "id": 603506,
-      "impact": "Van lanen missed the start of training camp. He has been cleared to return to practice. ",
-      "link": "https://www.fantasypros.com/nfl/news/603506/cole-van-lanen-activated-from-pup-list.php",
-      "player_id": 22878,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Cole Van Lanen activated from PUP list "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 16:46:20",
-      "created_formated": "Thu, Aug 20th 4:46pm UTC",
-      "desc": "Malik Nabers (knee) is not participating in New York's joint practices with the Miami Dolphins this week.",
-      "id": 603504,
-      "impact": "New York has decided to hold Nabers out of their joint practices with the Dolphins this week. He is still recovering from a major knee injury he suffered early last season, and the team wants to be highly cautious with his recovery at this point. Fantasy managers should remain attentive to all updates about his health prior to Week 1 of the regular season.",
-      "link": "https://www.fantasypros.com/nfl/news/603504/malik-nabers-knee-wont-participate-joint-practices.php",
-      "player_id": 25409,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Malik Nabers (knee) won't participate in joint practices"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 16:42:49",
-      "created_formated": "Thu, Aug 20th 4:42pm UTC",
-      "desc": "Tyler Warren (groin) is set to be sidelined for one week but should be fully healthy in time for Week 1.",
-      "id": 603503,
-      "impact": "Warren recently went down what is now being called a groin injury, but it's not a serious issue and he will only miss a week because of it. He is reportedly going to be fully healthy prior to Week 1 of the season, so fantasy managers shouldn't have any hesitations taking him around his ADP in drafts.",
-      "link": "https://www.fantasypros.com/nfl/news/603503/tyler-warren-groin-set-to-miss-one-week.php",
-      "player_id": 26434,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Tyler Warren (groin) set to miss one week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 16:41:52",
-      "created_formated": "Thu, Aug 20th 4:41pm UTC",
-      "desc": "Chiefs head coach Andy Reid said DE Ashton Gillotte suffered a ruptured plantar fascia in practice. ",
-      "id": 603502,
-      "impact": "It is a brutal break for Gillotte during training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/603502/ashton-gillotte-suffers-ruptured-plantar-fascia.php",
-      "player_id": 27039,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Ashton Gillotte suffers ruptured plantar fascia"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 16:40:17",
-      "created_formated": "Thu, Aug 20th 4:40pm UTC",
-      "desc": "Justin Fields is likely to start in Saturday's preseason game against the Tampa Bay Buccaneers.",
-      "id": 603501,
-      "impact": "Fields is expected to be Kansas City's starter again on Saturday in their preseason matchup against the Buccaneers. He isn't expected to be the team's starter heading into the regular season, however, unless there is a setback to the recovery of Patrick Mahomes II.",
-      "link": "https://www.fantasypros.com/nfl/news/603501/justin-fields-likely-to-start-saturday.php",
-      "player_id": 19781,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Justin Fields likely to start Saturday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 16:38:17",
-      "created_formated": "Thu, Aug 20th 4:38pm UTC",
-      "desc": "Patrick Mahomes II is set to be sidelined for Saturday's preseason game against the Tampa Bay Buccaneers.",
-      "id": 603500,
-      "impact": "To no surprise, the Chiefs will hold Mahomes' out of their second preseason game on Saturday. He is still recovering from a serious knee injury that he suffered late last year, and they don't want to do anything to jeopardize his health before the start of the regular season. Justin Fields is expected to start in his absence.",
-      "link": "https://www.fantasypros.com/nfl/news/603500/patrick-mahomes-ii-set-to-be-sidelined-saturday.php",
-      "player_id": 16413,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Patrick Mahomes II set to be sidelined Saturday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-20 16:35:12",
-      "created_formated": "Thu, Aug 20th 4:35pm UTC",
-      "desc": "Rachaad White (hamstring) won't play in Saturday's preseason game against the Detroit Lions.",
-      "id": 603498,
-      "impact": "White is not going to be available to play in Saturday's preseason game. He is still dealing with a minor hamstring injury, but HC Dan Quinn told reporters that he is \"certainly close\" to a return to the field. Jacory Croskey-Merritt stands to benefit if this injury causes the veteran to miss more time beyond this game.",
-      "link": "https://www.fantasypros.com/nfl/news/603498/rachaad-white-hamstring-wont-play-saturday.php",
-      "player_id": 23891,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Rachaad White (hamstring) won't play Saturday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-20 16:34:13",
-      "created_formated": "Thu, Aug 20th 4:34pm UTC",
-      "desc": "The Broncos signed S Taylor Rapp. ",
-      "id": 603497,
-      "impact": "Rapp saw plenty of starting time during his tenure in Buffalo. He'll add depth in the secondary for Denver. ",
-      "link": "https://www.fantasypros.com/nfl/news/603497/taylor-rapp-signs-with-broncos.php",
-      "player_id": 18238,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Taylor Rapp signs with Broncos "
     }
   ],
   "public_api_limited": true,
