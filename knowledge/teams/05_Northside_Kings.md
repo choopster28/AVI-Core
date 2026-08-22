@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-08-21
+- Last updated from Sleeper exports: 2026-08-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 497.6
-- championship_lineup_c_avi_avg: 62.20
-- offensive_roster_c_avi_sum: 896.4
-- offensive_roster_c_avi_avg: 56.02
-- offensive_roster_d_avi_sum: 1223.1
-- offensive_roster_d_avi_avg: 76.44
+- championship_lineup_c_avi_sum: 497.9
+- championship_lineup_c_avi_avg: 62.24
+- offensive_roster_c_avi_sum: 892.9
+- offensive_roster_c_avi_avg: 55.81
+- offensive_roster_d_avi_sum: 1222.4
+- offensive_roster_d_avi_avg: 76.40
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jordan Love | C-AVI: 51.9 | D-AVI: 74.5
 - RB: Bhayshul Tuten | C-AVI: 73.1 | D-AVI: 85.9
 - RB: Kenny Gainwell | C-AVI: 59.1 | D-AVI: 78.5
-- WR: Mike Evans | C-AVI: 74.3 | D-AVI: 84.1
-- WR: Jordan Addison | C-AVI: 62.2 | D-AVI: 83.7
+- WR: Mike Evans | C-AVI: 74.4 | D-AVI: 84.1
+- WR: Jordan Addison | C-AVI: 62.3 | D-AVI: 83.7
 - TE: T.J. Hockenson | C-AVI: 58.5 | D-AVI: 74.0
-- FLEX: Xavier Worthy | C-AVI: 60.1 | D-AVI: 80.6
+- FLEX: Xavier Worthy | C-AVI: 60.2 | D-AVI: 80.6
 - FLEX: Kenyon Sadiq | C-AVI: 58.4 | D-AVI: 81.0
 
 ## Current Roster — All Player Cards
@@ -127,23 +127,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: MarShawn Lloyd
-- Player name: MarShawn Lloyd
-- Player ID: 11581
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 42.8
-- Dynasty AVI (D-AVI, 0-100): 65.1
-- Projected PPR points: 86.1
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Jonah Coleman
 - Player name: Jonah Coleman
 - Player ID: 13345
@@ -161,6 +144,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: MarShawn Lloyd
+- Player name: MarShawn Lloyd
+- Player ID: 11581
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 38.7
+- Dynasty AVI (D-AVI, 0-100): 64.2
+- Projected PPR points: 54.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Mike Evans
 - Player name: Mike Evans
 - Player ID: 2216
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 74.3
+- Championship AVI (C-AVI, 0-100): 74.4
 - Dynasty AVI (D-AVI, 0-100): 84.1
 - Projected PPR points: 203.8
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 62.2
+- Championship AVI (C-AVI, 0-100): 62.3
 - Dynasty AVI (D-AVI, 0-100): 83.7
 - Projected PPR points: 168.9
 - Category: offense
@@ -206,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 60.1
+- Championship AVI (C-AVI, 0-100): 60.2
 - Dynasty AVI (D-AVI, 0-100): 80.6
 - Projected PPR points: 167.5
 - Category: offense
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 58.1
-- Dynasty AVI (D-AVI, 0-100): 75.4
+- Championship AVI (C-AVI, 0-100): 58.2
+- Dynasty AVI (D-AVI, 0-100): 75.5
 - Projected PPR points: 166.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 54.3
+- Championship AVI (C-AVI, 0-100): 54.4
 - Dynasty AVI (D-AVI, 0-100): 75.6
 - Projected PPR points: 156.8
 - Category: offense
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 50.2
-- Dynasty AVI (D-AVI, 0-100): 72.8
+- Championship AVI (C-AVI, 0-100): 50.4
+- Dynasty AVI (D-AVI, 0-100): 72.9
 - Projected PPR points: 145.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 44.7
+- Championship AVI (C-AVI, 0-100): 44.6
 - Dynasty AVI (D-AVI, 0-100): 65.7
 - Projected PPR points: 112.0
 - Category: offense

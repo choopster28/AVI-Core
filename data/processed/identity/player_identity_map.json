@@ -576,15 +576,6 @@
     "sleeper_id": "4866"
   },
   {
-    "confidence": "review",
-    "fantasypros_id": "17246",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Nick Chubb",
-    "position": "RB",
-    "sleeper_id": "4988"
-  },
-  {
     "confidence": "verified",
     "fantasypros_id": "17253",
     "match_method": "exact_name_position_unique",
@@ -4138,6 +4129,15 @@
     "player_name": "Caleb Douglas",
     "position": "WR",
     "sleeper_id": "13296"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28137",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "JAC",
+    "player_name": "Josh Cameron",
+    "position": "WR",
+    "sleeper_id": "13394"
   },
   {
     "confidence": "verified",

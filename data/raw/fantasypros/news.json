@@ -3,6 +3,42 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-08-22 01:27:14",
+      "created_formated": "Sat, Aug 22nd 1:27am UTC",
+      "desc": "Nick Chubb has announced his retirement from the NFL via his personal Instagram.",
+      "id": 603706,
+      "impact": "Chubb had a great NFL career as one of the most taleneted runners of the football of his generation. Coming out of Georgia with questions surrounding his health, he ended his time in Cleveland as one of the best running backs the franchise has seen before moving to Houston last year. He ends his eight year career with four Pro-Bowls, over 7,300 rushing yards at five yards per carry, and 54 rushing touchdowns.",
+      "link": "https://www.fantasypros.com/nfl/news/603706/nick-chubb-announces-retirement.php",
+      "player_id": 17246,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Nick Chubb announces retirement"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-22 00:51:29",
+      "created_formated": "Sat, Aug 22nd 12:51am UTC",
+      "desc": "Seahawks head coach Mike Macdonald said WR Tory Horton will be out \"for a period of time.\" ",
+      "id": 603699,
+      "impact": "\"He's still working through his stuff,\" Macdonald said. \"He's going to be out for a period of time.\" Horton had his rookie season end early last year due to a shin injury. His status for Week 1 is uncertain. ",
+      "link": "https://www.fantasypros.com/nfl/news/603699/tory-horton-to-be-out-period-time.php",
+      "player_id": 26022,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Tory Horton to 'be out for a period of time'"
+    },
+    {
       "author": "Cooper Kleinberg",
       "categories": [
         "Commentary",
@@ -386,40 +422,6 @@
       "sport_id": "NFL",
       "team_id": "PIT",
       "title": "Joey Porter Jr. drawing trade interest"
-    },
-    {
-      "author": "Cooper Kleinberg",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 01:20:25",
-      "created_formated": "Fri, Aug 21st 1:20am UTC",
-      "desc": "49ers WR Deebo Samuel Sr. will play against the Chargers in the preseason",
-      "id": 603571,
-      "impact": "Thursday night's contest could offer a closer look at the type of role Samuel will have in the 49ers' offense this season.",
-      "link": "https://www.fantasypros.com/nfl/news/603571/deebo-samuel-sr-starting-against-chargers.php",
-      "player_id": 18244,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Deebo Samuel Sr. starting against Chargers"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-20 20:40:39",
-      "created_formated": "Thu, Aug 20th 8:40pm UTC",
-      "desc": "Fernando Mendoza is expected to play roughly the first half in Thursday's preseason game against the Texans. ",
-      "id": 603553,
-      "impact": "Mendoza will get extended run on the field in his second preseason game. Aidan O'Connell will take the field in the second half. ",
-      "link": "https://www.fantasypros.com/nfl/news/603553/fernando-mendoza-to-play-roughly-first-half-thursday.php",
-      "player_id": 28013,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Fernando Mendoza to play roughly first half Thursday "
     }
   ],
   "public_api_limited": true,

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-08-21
+- Last updated from Sleeper exports: 2026-08-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 750.0
-- championship_lineup_c_avi_avg: 93.75
-- offensive_roster_c_avi_sum: 1143.6
-- offensive_roster_c_avi_avg: 71.47
-- offensive_roster_d_avi_sum: 1314.1
-- offensive_roster_d_avi_avg: 82.13
+- championship_lineup_c_avi_sum: 750.2
+- championship_lineup_c_avi_avg: 93.78
+- offensive_roster_c_avi_sum: 1151.1
+- offensive_roster_c_avi_avg: 71.94
+- offensive_roster_d_avi_sum: 1319.5
+- offensive_roster_d_avi_avg: 82.47
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,9 +34,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Saquon Barkley | C-AVI: 92.0 | D-AVI: 93.3
 - RB: Jeremiyah Love | C-AVI: 90.0 | D-AVI: 95.7
 - WR: Rashee Rice | C-AVI: 96.3 | D-AVI: 94.2
-- WR: A.J. Brown | C-AVI: 93.5 | D-AVI: 94.3
+- WR: A.J. Brown | C-AVI: 93.6 | D-AVI: 94.4
 - TE: Trey McBride | C-AVI: 99.5 | D-AVI: 93.0
-- FLEX: Nico Collins | C-AVI: 93.3 | D-AVI: 96.4
+- FLEX: Nico Collins | C-AVI: 93.4 | D-AVI: 96.5
 - FLEX: Omarion Hampton | C-AVI: 89.4 | D-AVI: 94.9
 
 ## Current Roster — All Player Cards
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 49.2
+- Championship AVI (C-AVI, 0-100): 49.3
 - Dynasty AVI (D-AVI, 0-100): 75.2
 - Projected PPR points: 98.2
 - Category: offense
@@ -155,26 +155,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 43.0
-- Dynasty AVI (D-AVI, 0-100): 69.5
+- Championship AVI (C-AVI, 0-100): 43.4
+- Dynasty AVI (D-AVI, 0-100): 69.6
 - Projected PPR points: 82.2
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Jaydon Blue
-- Player name: Jaydon Blue
-- Player ID: 12457
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: DAL
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 38.3
-- Dynasty AVI (D-AVI, 0-100): 64.8
-- Projected PPR points: 54.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -206,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 93.5
-- Dynasty AVI (D-AVI, 0-100): 94.3
+- Championship AVI (C-AVI, 0-100): 93.6
+- Dynasty AVI (D-AVI, 0-100): 94.4
 - Projected PPR points: 255.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -223,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 93.3
-- Dynasty AVI (D-AVI, 0-100): 96.4
+- Championship AVI (C-AVI, 0-100): 93.4
+- Dynasty AVI (D-AVI, 0-100): 96.5
 - Projected PPR points: 252.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -240,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 63.3
-- Dynasty AVI (D-AVI, 0-100): 79.8
+- Championship AVI (C-AVI, 0-100): 63.4
+- Dynasty AVI (D-AVI, 0-100): 79.9
 - Projected PPR points: 175.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -257,9 +240,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 58.4
+- Championship AVI (C-AVI, 0-100): 58.5
 - Dynasty AVI (D-AVI, 0-100): 77.9
 - Projected PPR points: 164.9
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Kayshon Boutte
+- Player name: Kayshon Boutte
+- Player ID: 9504
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NE
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 44.7
+- Dynasty AVI (D-AVI, 0-100): 69.8
+- Projected PPR points: 109.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 32.1
+- Championship AVI (C-AVI, 0-100): 32.3
 - Dynasty AVI (D-AVI, 0-100): 52.5
 - Projected PPR points: 84.4
 - Category: offense
@@ -358,7 +358,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: DET
 - Active: True
 - Status: Active
-- Age: 25.0
+- Age: 26.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

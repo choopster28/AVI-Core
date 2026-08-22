@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-08-21
+- Last updated from Sleeper exports: 2026-08-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 629.7
-- championship_lineup_c_avi_avg: 78.71
-- offensive_roster_c_avi_sum: 941.9
-- offensive_roster_c_avi_avg: 58.87
-- offensive_roster_d_avi_sum: 1276.3
-- offensive_roster_d_avi_avg: 79.77
+- championship_lineup_c_avi_sum: 630.0
+- championship_lineup_c_avi_avg: 78.75
+- offensive_roster_c_avi_sum: 942.3
+- offensive_roster_c_avi_avg: 58.89
+- offensive_roster_d_avi_sum: 1276.4
+- offensive_roster_d_avi_avg: 79.78
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Lamar Jackson | C-AVI: 98.0 | D-AVI: 91.1
 - RB: Derrick Henry | C-AVI: 93.4 | D-AVI: 90.8
 - RB: Kyle Monangai | C-AVI: 55.5 | D-AVI: 80.6
-- WR: Zay Flowers | C-AVI: 89.4 | D-AVI: 94.2
-- WR: Carnell Tate | C-AVI: 68.0 | D-AVI: 89.9
+- WR: Zay Flowers | C-AVI: 89.5 | D-AVI: 94.2
+- WR: Carnell Tate | C-AVI: 68.1 | D-AVI: 89.9
 - TE: Kyle Pitts | C-AVI: 95.1 | D-AVI: 89.2
 - FLEX: Isaiah Likely | C-AVI: 71.8 | D-AVI: 82.4
-- FLEX: KC Concepcion | C-AVI: 58.5 | D-AVI: 84.1
+- FLEX: KC Concepcion | C-AVI: 58.6 | D-AVI: 84.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 29.6
+- Championship AVI (C-AVI, 0-100): 29.5
 - Dynasty AVI (D-AVI, 0-100): 69.8
 - Projected PPR points: 19.7
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 89.4
+- Championship AVI (C-AVI, 0-100): 89.5
 - Dynasty AVI (D-AVI, 0-100): 94.2
 - Projected PPR points: 241.8
 - Category: offense
@@ -206,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 68.0
+- Championship AVI (C-AVI, 0-100): 68.1
 - Dynasty AVI (D-AVI, 0-100): 89.9
 - Projected PPR points: 178.4
 - Category: offense
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 58.5
+- Championship AVI (C-AVI, 0-100): 58.6
 - Dynasty AVI (D-AVI, 0-100): 84.1
 - Projected PPR points: 159.6
 - Category: offense
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 50.3
+- Championship AVI (C-AVI, 0-100): 50.1
 - Dynasty AVI (D-AVI, 0-100): 84.7
 - Projected PPR points: 106.8
 - Category: offense
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 46.4
-- Dynasty AVI (D-AVI, 0-100): 71.8
+- Championship AVI (C-AVI, 0-100): 46.5
+- Dynasty AVI (D-AVI, 0-100): 71.9
 - Projected PPR points: 125.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.0
+- Championship AVI (C-AVI, 0-100): 29.3
 - Dynasty AVI (D-AVI, 0-100): 67.0
 - Projected PPR points: 33.5
 - Category: offense

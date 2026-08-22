@@ -5847,6 +5847,31 @@
   {
     "active": true,
     "aliases": [
+      "Josh Cameron"
+    ],
+    "avi_id": "AVI-00013394",
+    "canonical_name": "Josh Cameron",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "JAC",
+    "normalized_name": "josh cameron",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26805,
+      "fantasypros_id": "28137",
+      "nfl_id": null,
+      "rotowire_id": 19321,
+      "sleeper_id": "13394",
+      "sportradar_id": "29f6ab49-33a9-4fc8-838f-fc41e248829d",
+      "sportsdata_player_id": "29f6ab49-33a9-4fc8-838f-fc41e248829d"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Josh Downs"
     ],
     "avi_id": "AVI-00009500",
@@ -8105,31 +8130,6 @@
       "sleeper_id": "13288",
       "sportradar_id": "0111286e-ef59-40dd-97e8-967204490e34",
       "sportsdata_player_id": "0111286e-ef59-40dd-97e8-967204490e34"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Nick Chubb"
-    ],
-    "avi_id": "AVI-00004988",
-    "canonical_name": "Nick Chubb",
-    "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
-    },
-    "nfl_team": "FA",
-    "normalized_name": "nick chubb",
-    "position": "RB",
-    "source_ids": {
-      "espn_id": 3128720,
-      "fantasy_data_id": 19798,
-      "fantasypros_id": "17246",
-      "nfl_id": "2561021",
-      "rotowire_id": 12886,
-      "sleeper_id": "4988",
-      "sportradar_id": "4bd60b33-9fbf-4156-ba2b-8264ac37b418",
-      "sportsdata_player_id": "4bd60b33-9fbf-4156-ba2b-8264ac37b418"
     }
   },
   {
