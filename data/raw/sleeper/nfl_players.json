@@ -55499,7 +55499,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1787367630525,
+    "news_updated": 1787394632434,
     "number": 25,
     "oddsjam_id": "84C4F05F8EFF",
     "opta_id": null,
@@ -90900,7 +90900,7 @@
     "college": "Fresno State",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "LB",
     "espn_id": null,
     "fantasy_data_id": 25547,
     "fantasy_positions": [

@@ -972,14 +972,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
 
-## PLAYER LOOKUP: Jaydon Blue
-- Player name: Jaydon Blue
-- Player ID: 12457
-- Position: RB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
 ## PLAYER LOOKUP: Jaylen Waddle
 - Player name: Jaylen Waddle
 - Player ID: 7526
@@ -1155,6 +1147,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
+
+## PLAYER LOOKUP: Kayshon Boutte
+- Player name: Kayshon Boutte
+- Player ID: 9504
+- Position: WR
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Kaytron Allen
 - Player name: Kaytron Allen
@@ -1971,15 +1971,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 64.8
 - Availability: available
 
-## AVAILABLE PLAYER: Kayshon Boutte
-- Player name: Kayshon Boutte
-- Player ID: 9504
-- Position: WR
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 44.9
-- Dynasty AVI (D-AVI, 0-100): 69.8
-- Availability: available
-
 ## AVAILABLE PLAYER: Geno Smith
 - Player name: Geno Smith
 - Player ID: 1373
@@ -2104,6 +2095,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: BAL
 - Championship AVI (C-AVI, 0-100): 38.3
 - Dynasty AVI (D-AVI, 0-100): 63.0
+- Availability: available
+
+## AVAILABLE PLAYER: Jaydon Blue
+- Player name: Jaydon Blue
+- Player ID: 12457
+- Position: RB
+- NFL team: DAL
+- Championship AVI (C-AVI, 0-100): 38.3
+- Dynasty AVI (D-AVI, 0-100): 64.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Shedeur Sanders

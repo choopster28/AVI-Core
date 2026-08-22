@@ -63,18 +63,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00009504",
-      "c_avi": 44.9,
-      "d_avi": 69.8,
-      "nfl_team": "NE",
-      "player_name": "Kayshon Boutte",
-      "position": "WR",
-      "sleeper_id": "9504",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00001373",
       "c_avi": 43.5,
       "d_avi": 61.2,
@@ -238,6 +226,18 @@
       "player_name": "Adam Randall",
       "position": "RB",
       "sleeper_id": "13302",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012457",
+      "c_avi": 38.3,
+      "d_avi": 64.8,
+      "nfl_team": "DAL",
+      "player_name": "Jaydon Blue",
+      "position": "RB",
+      "sleeper_id": "12457",
       "status": "Active"
     },
     {
@@ -4441,22 +4441,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00012457",
-      "c_avi": 38.3,
-      "d_avi": 64.8,
-      "nfl_team": "DAL",
-      "owner_id": "863881053000011776",
-      "player_name": "Jaydon Blue",
-      "position": "RB",
-      "roster_id": 9,
-      "sleeper_id": "12457",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00007526",
       "c_avi": 79.2,
       "d_avi": 90.1,
@@ -4805,6 +4789,22 @@
       "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00009504",
+      "c_avi": 44.9,
+      "d_avi": 69.8,
+      "nfl_team": "NE",
+      "owner_id": "863881053000011776",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "roster_id": 9,
+      "sleeper_id": "9504",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
