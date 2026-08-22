@@ -63,6 +63,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00002505",
+      "c_avi": 44.9,
+      "d_avi": 52.5,
+      "nfl_team": "CAR",
+      "player_name": "Darren Waller",
+      "position": "TE",
+      "sleeper_id": "2505",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00001373",
       "c_avi": 43.5,
       "d_avi": 61.2,
@@ -2498,8 +2510,8 @@
     }
   ],
   "counts": {
-    "available_players": 208,
-    "rostered_players": 240
+    "available_players": 209,
+    "rostered_players": 239
   },
   "rostered_players": [
     {
@@ -3461,22 +3473,6 @@
       "status": "Active",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00002505",
-      "c_avi": 44.9,
-      "d_avi": 52.5,
-      "nfl_team": "CAR",
-      "owner_id": "737531831641128960",
-      "player_name": "Darren Waller",
-      "position": "TE",
-      "roster_id": 7,
-      "sleeper_id": "2505",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
     },
     {
       "active": true,
@@ -5885,14 +5881,14 @@
       "c_avi": 78.1,
       "d_avi": 88.0,
       "nfl_team": "WAS",
-      "owner_id": "1129546394534158336",
+      "owner_id": "737531831641128960",
       "player_name": "Terry McLaurin",
       "position": "WR",
-      "roster_id": 12,
+      "roster_id": 7,
       "sleeper_id": "5927",
       "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,

@@ -484,14 +484,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
 
-## PLAYER LOOKUP: Darren Waller
-- Player name: Darren Waller
-- Player ID: 2505
-- Position: TE
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Davante Adams
 - Player name: Davante Adams
 - Player ID: 2133
@@ -1696,9 +1688,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Terry McLaurin
 - Player ID: 5927
 - Position: WR
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Team file: 12_DMV_Fantasy.md
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: Tetairoa McMillan
 - Player name: Tetairoa McMillan
@@ -1969,6 +1961,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 45.8
 - Dynasty AVI (D-AVI, 0-100): 64.8
+- Availability: available
+
+## AVAILABLE PLAYER: Darren Waller
+- Player name: Darren Waller
+- Player ID: 2505
+- Position: TE
+- NFL team: CAR
+- Championship AVI (C-AVI, 0-100): 44.9
+- Dynasty AVI (D-AVI, 0-100): 52.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Geno Smith

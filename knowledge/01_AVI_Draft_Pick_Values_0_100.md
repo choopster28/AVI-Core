@@ -578,8 +578,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Crimson Tide Pods
 - Original roster ID: 16
-- Current owner team: Badland Banditos
-- Current owner roster ID: 7
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
@@ -3926,8 +3926,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Badland Banditos
 - Original roster ID: 7
-- Current owner team: Badland Banditos
-- Current owner roster ID: 7
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd

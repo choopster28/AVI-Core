@@ -17,15 +17,15 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **77**
-- Owner trade participations: **155**
-- Two-team trades: **76**
+- Unique completed trades: **78**
+- Owner trade participations: **157**
+- Two-team trades: **77**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **34**
+- 2026 completed trades: **35**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-08-16T02:12:57.536000+00:00**
+- Latest verified trade: **2026-08-22T15:10:53.824000+00:00**
 
 ## Trades by Owner
 
@@ -36,9 +36,9 @@
 | 3 | Ravens Regime  | Mentomorii | **17** | 3 | 3 | 11 | 16 | 21 | 3 | 5 | 2 | 4 |
 | 4 | Conquistadors | Thecan | **16** | 6 | 2 | 8 | 15 | 17 | 5 | 7 | 3 | 3 |
 | 5 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 5 | 3 | 2 | 2 |
-| 6 | DMV Fantasy | TacticsNoob | **13** | 5 | 2 | 6 | 20 | 16 | 9 | 3 | 4 | 2 |
-| 7 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
-| 8 | Badland Banditos  | IcebergSlim69 | **9** | 4 | 4 | 1 | 9 | 11 | 3 | 2 | 1 | 0 |
+| 6 | DMV Fantasy | TacticsNoob | **14** | 5 | 2 | 7 | 20 | 17 | 11 | 3 | 5 | 2 |
+| 7 | Badland Banditos  | IcebergSlim69 | **10** | 4 | 4 | 2 | 10 | 11 | 3 | 4 | 1 | 1 |
+| 8 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
 | 9 | All Hail King Jesus | Hofer51 | **6** | 0 | 4 | 2 | 8 | 5 | 0 | 8 | 0 | 3 |
 | 10 | Crimson Tide Pods | nickas | **6** | 0 | 1 | 5 | 9 | 7 | 7 | 2 | 3 | 0 |
 | 11 | Rapid Valley Annihilation | FuzzyRaptor | **6** | 0 | 3 | 3 | 9 | 10 | 6 | 1 | 2 | 0 |
@@ -53,7 +53,7 @@
 | Team | Most Frequent Partner(s) | Completed Trades |
 |---|---|---:|
 | All Hail King Jesus | Mile High Royal Lions | 2 |
-| Badland Banditos  | DMV Fantasy | 2 |
+| Badland Banditos  | DMV Fantasy | 3 |
 | Big Balder Brand | DMV Fantasy | 7 |
 | Conquistadors | Northside Kings  | 5 |
 | Corgi Loaf Baking Co.  | Rapid Valley Annihilation, Ravens Regime , Big Balder Brand | 4 |
@@ -70,6 +70,24 @@
 | Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1396908520204410880
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-08-22T15:10:53.824000+00:00
+- Teams involved: 2
+
+#### Badland Banditos  (IcebergSlim69)
+- Players received: Terry McLaurin
+- Players sent: None
+- Picks received: None
+- Picks sent: 2027 Round 3 (original roster 16), 2028 Round 1 (original roster 7)
+
+#### DMV Fantasy (TacticsNoob)
+- Players received: None
+- Players sent: Terry McLaurin
+- Picks received: 2027 Round 3 (original roster 16), 2028 Round 1 (original roster 7)
+- Picks sent: None
 
 ### TRADE: 1394538418473545728
 - Season: 2026

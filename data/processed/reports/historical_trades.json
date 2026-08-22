@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-22T16:46:25.536719+00:00",
+  "generated_at_utc": "2026-08-22T18:15:17.818950+00:00",
   "statistics": {
-    "owner_trade_participations": 155,
+    "owner_trade_participations": 157,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -12,7 +12,7 @@
         "team_name": "All Hail King Jesus"
       },
       {
-        "partner_count": 2,
+        "partner_count": 3,
         "partners": [
           "DMV Fantasy"
         ],
@@ -231,18 +231,35 @@
         "by_season": {
           "2024": 5,
           "2025": 2,
-          "2026": 6
+          "2026": 7
         },
-        "firsts_in": 4,
+        "firsts_in": 5,
         "firsts_out": 2,
         "owner_display_name": "TacticsNoob",
-        "picks_in": 9,
+        "picks_in": 11,
         "picks_out": 3,
         "players_in": 20,
-        "players_out": 16,
+        "players_out": 17,
         "roster_id": 12,
         "team_name": "DMV Fantasy",
-        "total": 13
+        "total": 14
+      },
+      {
+        "by_season": {
+          "2024": 4,
+          "2025": 4,
+          "2026": 2
+        },
+        "firsts_in": 1,
+        "firsts_out": 1,
+        "owner_display_name": "IcebergSlim69",
+        "picks_in": 3,
+        "picks_out": 4,
+        "players_in": 10,
+        "players_out": 11,
+        "roster_id": 7,
+        "team_name": "Badland Banditos ",
+        "total": 10
       },
       {
         "by_season": {
@@ -259,23 +276,6 @@
         "roster_id": 4,
         "team_name": "Mile High Royal Lions",
         "total": 10
-      },
-      {
-        "by_season": {
-          "2024": 4,
-          "2025": 4,
-          "2026": 1
-        },
-        "firsts_in": 1,
-        "firsts_out": 0,
-        "owner_display_name": "IcebergSlim69",
-        "picks_in": 3,
-        "picks_out": 2,
-        "players_in": 9,
-        "players_out": 11,
-        "roster_id": 7,
-        "team_name": "Badland Banditos ",
-        "total": 9
       },
       {
         "by_season": {
@@ -407,10 +407,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 34
+      "2026": 35
     },
-    "two_team_trades": 76,
-    "unique_completed_trades": 77
+    "two_team_trades": 77,
+    "unique_completed_trades": 78
   },
   "trades": [
     {
@@ -5663,6 +5663,74 @@
         }
       ],
       "transaction_id": "1394538418473545728",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-22T15:10:53.824000+00:00",
+      "created_timestamp_ms": 1787411453824,
+      "roster_ids": [
+        7,
+        12
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 16,
+              "round": 3,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "5927",
+              "player_name": "Terry McLaurin"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 7,
+          "season": 2026,
+          "team_name": "Badland Banditos "
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [
+            {
+              "original_roster_id": 16,
+              "round": 3,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 7,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "5927",
+              "player_name": "Terry McLaurin"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2026,
+          "team_name": "DMV Fantasy"
+        }
+      ],
+      "transaction_id": "1396908520204410880",
       "week": 1
     }
   ]
