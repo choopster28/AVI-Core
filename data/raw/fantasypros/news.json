@@ -1,7 +1,112 @@
 {
-  "count": 24,
+  "count": 22,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-22 21:35:52",
+      "created_formated": "Sat, Aug 22nd 9:35pm UTC",
+      "desc": "Falcons head coach Kevin Stefanski told reporters that QB Michael Penix Jr. now has been cleared to return to 11-on-11 work.",
+      "id": 603823,
+      "impact": "Penix has officially cleared all hurdles on his way back to full health. It remains unclear who will start in Week 1 between him and Tua Tagovailoa. This will remain a situation to monitor over the next couple of weeks. ",
+      "link": "https://www.fantasypros.com/nfl/news/603823/michael-penix-jr-knee-cleared-team-drills.php",
+      "player_id": 22973,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Michael Penix Jr. (knee) cleared for team drills"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-22 18:10:10",
+      "created_formated": "Sat, Aug 22nd 6:10pm UTC",
+      "desc": "Rashawn Slater was back at practice on Saturday. ",
+      "id": 603817,
+      "impact": "Slater had missed eight consecutive practices after suffering a flare-up in his knee. He still has a few weeks to get ready for Week 1. ",
+      "link": "https://www.fantasypros.com/nfl/news/603817/rashawn-slater-knee-back-practicing.php",
+      "player_id": 20143,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Rashawn Slater (knee) back practicing "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-22 18:07:36",
+      "created_formated": "Sat, Aug 22nd 6:07pm UTC",
+      "desc": "The Seahawks placed WR Jake Bobo on injured reserve. ",
+      "id": 603816,
+      "impact": "Bobo suffered a serious knee injury during practice on Friday. His season is over. He signed a two-year, $5.5 million offer sheet with the Jaguars, as a restricted free agent that the Seahawks elected to match. ",
+      "link": "https://www.fantasypros.com/nfl/news/603816/jake-bobo-knee-placed-on-ir.php",
+      "player_id": 25339,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Jake Bobo (knee) placed on IR"
+    },
+    {
+      "author": "Cooper Kleinberg",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-22 14:21:42",
+      "created_formated": "Sat, Aug 22nd 2:21pm UTC",
+      "desc": "Stefon Diggs is set to make his Commanders debut in the preseason on Saturday.\r\n",
+      "id": 603782,
+      "impact": "Diggs will see his first action as a member of the Commanders. It will be worth tuning in to see what his exact role looks like.",
+      "link": "https://www.fantasypros.com/nfl/news/603782/stefon-diggs-expected-to-play-against-lions.php",
+      "player_id": 13981,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Stefon Diggs expected to play against Lions "
+    },
+    {
+      "author": "Cooper Kleinberg",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-22 14:18:57",
+      "created_formated": "Sat, Aug 22nd 2:18pm UTC",
+      "desc": "Commanders QB Jayden Daniels is set to start against the Lions on Saturday.\r\n\r\n",
+      "id": 603781,
+      "impact": "Daniels had a very underwhelming sophomore campaign, largely due to injury. He and the starters will have an opportunity to build chemistry and momentum ahead of the regular season.",
+      "link": "https://www.fantasypros.com/nfl/news/603781/jayden-daniels-expected-to-play-against-lions.php",
+      "player_id": 22902,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Jayden Daniels expected to play against Lions"
+    },
+    {
+      "author": "Cooper Kleinberg",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-22 14:15:04",
+      "created_formated": "Sat, Aug 22nd 2:15pm UTC",
+      "desc": "Commanders WR Terry McLaurin is set to start against the Lions on Saturday.",
+      "id": 603780,
+      "impact": "McLaurin enters the fantasy football season as a top-50 selection. He and Jayden Daniels will have an opportunity to build momentum ahead of the regular season.",
+      "link": "https://www.fantasypros.com/nfl/news/603780/terry-mclaurin-expected-to-play-against-lions.php",
+      "player_id": 18466,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Terry McLaurin expected to play against Lions"
+    },
     {
       "author": "Garrett Ball",
       "categories": [
@@ -126,24 +231,6 @@
       "title": "Tyreek Hill not expected to sign before Week 1"
     },
     {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 18:04:22",
-      "created_formated": "Fri, Aug 21st 6:04pm UTC",
-      "desc": "Jake Bobo suffered a \"serious\" knee injury in Friday's practice, according to Seahawks head coach Mike Macdonald.",
-      "id": 603618,
-      "impact": "Bobo was carted off the field during Friday's practice, and the initial signs are not great. While nothing has been confirmed, a serious knee injury likely means that Bobo is facing a long road to recovery. Seattle will now lose a depth piece in its receiver room for a chunk of the season, if not the entirety of it.",
-      "link": "https://www.fantasypros.com/nfl/news/603618/jake-bobo-suffers-serious-knee-injury.php",
-      "player_id": 25339,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Jake Bobo suffers \"serious\" knee injury"
-    },
-    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -160,24 +247,6 @@
       "sport_id": "NFL",
       "team_id": "TEN",
       "title": "Carnell Tate returns to practice Friday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 14:52:01",
-      "created_formated": "Fri, Aug 21st 2:52pm UTC",
-      "desc": "Falcons QB Michael Penix Jr. said he is waiting for full clearance and he expects it \"real soon.\" ",
-      "id": 603602,
-      "impact": "Penix has yet to participate in team drills during training camp. \"If I had a rush coming at me and everything, I can get away,\" Penix said. \"But it's just the right now is if I don't get away. That's what we're thinking about: If I don't get away. I don't think my doctor is ready for me to take those hits right now, but that time is coming real soon.\" Tua Tagovailoa remains the current favorite to start Week 1 for the Falcons. ",
-      "link": "https://www.fantasypros.com/nfl/news/603602/michael-penix-jr-knee-waiting-full-clearance-expects-it-real-soon.php",
-      "player_id": 22973,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Michael Penix Jr. (knee) waiting for full clearance, expects it 'real soon'"
     },
     {
       "author": "Ari Koslow",
@@ -317,111 +386,6 @@
       "sport_id": "NFL",
       "team_id": "CLE",
       "title": "Jamil Muhammad signs with Browns"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 14:38:14",
-      "created_formated": "Fri, Aug 21st 2:38pm UTC",
-      "desc": "The Buccaneers released CB Chase Lucas with a four-week injury settlement.",
-      "id": 603592,
-      "impact": "Lucas suffered a calf injury. He is expected to draw heavy interest when he is cleared. ",
-      "link": "https://www.fantasypros.com/nfl/news/603592/chase-lucas-released-by-bucs.php",
-      "player_id": 23956,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Chase Lucas released by Bucs"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 14:35:50",
-      "created_formated": "Fri, Aug 21st 2:35pm UTC",
-      "desc": "The Bengals signed CB Matthew McDoom. ",
-      "id": 603591,
-      "impact": "McDoom will compete for a depth role in the Bengals corner back room. ",
-      "link": "https://www.fantasypros.com/nfl/news/603591/matthew-mcdoom-signs-with-bengals.php",
-      "player_id": 28702,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Matthew McDoom signs with Bengals "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 02:57:36",
-      "created_formated": "Fri, Aug 21st 2:57am UTC",
-      "desc": "Carson Beck (ribs) is unlikely to play in Saturday's preseason game against the Dallas Cowboys.",
-      "id": 603576,
-      "impact": "Beck recently suffered an injury to his ribs. It's not considered a serious issue at this point, but it still looks like the team will have him sit out on Saturday as a precautionary measure. Gardner Minshew II is in line to be Arizona's starter against the Cowboys, assuming the 24-year old is officially ruled out ahead of game time.",
-      "link": "https://www.fantasypros.com/nfl/news/603576/carson-beck-ribs-unlikely-to-play-saturday.php",
-      "player_id": 22953,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Carson Beck (ribs) unlikely to play Saturday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 02:55:30",
-      "created_formated": "Fri, Aug 21st 2:55am UTC",
-      "desc": "Jacoby Brissett won't play in Saturday's preseason game against the Dallas Cowboys.",
-      "id": 603575,
-      "impact": "The veteran quarterback will not suit up on Saturday. He took part in the team's first preseason game, but they apparently don't feel that he needs more reps and will let him sit out of their next game. Gardner Minshew II is expected to be the starter with Carson Beck (ribs) unlikely to play as well.",
-      "link": "https://www.fantasypros.com/nfl/news/603575/jacoby-brissett-wont-play-saturday.php",
-      "player_id": 15642,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Jacoby Brissett won't play Saturday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 02:51:20",
-      "created_formated": "Fri, Aug 21st 2:51am UTC",
-      "desc": "George Kittle (Achilles) is still considered to have a real chance to play in San Francisco's season opener after another medical evaluation on Wednesday.",
-      "id": 603574,
-      "impact": "Kittle recently underwent an evaluation on the recovery of his Achilles, and it is being reported that the results were encouraging and that he has a real chance to be ready to play in time for Week 1. It remains unlikely that he will be at full strength for the start of the season, but if he's at least on the field, fantasy managers might not have to wait more than a few weeks before he's back to form from a fantasy perspective.",
-      "link": "https://www.fantasypros.com/nfl/news/603574/george-kittle-achilles-has-chance-to-play-week-1.php",
-      "player_id": 16499,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "George Kittle (Achilles) has chance to play in Week 1"
-    },
-    {
-      "author": "Cooper Kleinberg",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 01:28:43",
-      "created_formated": "Fri, Aug 21st 1:28am UTC",
-      "desc": "Steelers CB Joey Porter Jr. is reportedly drawing interest on the trade market.",
-      "id": 603572,
-      "impact": "Porter is currently on the NFL's PUP list and is reportedly seeking a contract extension. He could be on the move with the regular season approaching.",
-      "link": "https://www.fantasypros.com/nfl/news/603572/joey-porter-jr-drawing-trade-interest.php",
-      "player_id": 24705,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Joey Porter Jr. drawing trade interest"
     }
   ],
   "public_api_limited": true,
