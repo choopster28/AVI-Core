@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mt55oaj3-b1dd9648",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Badland Banditos",
+      "goal": "Increase Championship Odds",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "createdAt": 1787450160207,
+    "updatedAt": 1787450160207,
+    "expiresAt": 1787882160207,
+    "status": "queued"
+  }
+]
