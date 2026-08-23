@@ -32242,7 +32242,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "d472f4b5-fb78-4ade-9445-c351b3d3e706",
     "last_name": "Winstead",
     "metadata": {
       "channel_id": "1116852667457470464",
@@ -37326,7 +37326,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "62fa7c5f-e254-46fa-945f-e71bba079e44",
     "last_name": "Dean",
     "metadata": {
       "channel_id": "1113708752793530368",
@@ -43775,7 +43775,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "f94cacbc-24e9-4d5c-b422-f98438ec9d44",
     "last_name": "Mayfield",
     "metadata": {
       "channel_id": "1116852686273118208",
@@ -67811,7 +67811,7 @@
     "college": "Clemson",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DL",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 25272,
     "fantasy_positions": [
@@ -95123,7 +95123,7 @@
     "college": "Northern Illinois",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "OL",
     "espn_id": null,
     "fantasy_data_id": 25559,
     "fantasy_positions": [
@@ -109534,7 +109534,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "a71a75ca-4848-4da2-9c11-b82a2d41f4ea",
     "last_name": "Dyson",
     "metadata": {
       "channel_id": "1113708887283888128",
@@ -113495,7 +113495,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "241d9d6a-508e-483e-b5c7-c632780d8da1",
     "last_name": "Fluellen",
     "metadata": {
       "channel_id": "1171902221860737024",
@@ -190575,7 +190575,7 @@
     "college": "Wisconsin",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DL",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28080,
     "fantasy_positions": [
@@ -213150,7 +213150,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "ae703ec7-0bf2-43da-91d8-16f09d03ee8d",
     "last_name": "Saunders",
     "metadata": {
       "channel_id": "1358516822000807936",
@@ -216157,7 +216157,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "3fec0486-3f77-4cc8-b015-e6bc5f529934",
     "last_name": "Petersen",
     "metadata": {
       "channel_id": "1358622547565887488",
@@ -216455,7 +216455,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "5c12cc4f-1eea-4d36-8438-e0b16f46e17d",
     "last_name": "Wright",
     "metadata": {
       "channel_id": "1358652721007181825",
@@ -219893,7 +219893,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "3de8d6a2-4a4f-4a8e-866b-3da5b9b37804",
     "last_name": "Dix",
     "metadata": {
       "channel_id": "1360706215029538816",
@@ -220740,7 +220740,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "fe94fef2-0195-4969-b388-4f539d3e3528",
     "last_name": "Hayes",
     "metadata": {
       "channel_id": "1365417246121275392",
@@ -221164,7 +221164,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "9a0e0392-5ab3-4858-b9b9-5de0359f11bc",
     "last_name": "Hansen",
     "metadata": {
       "channel_id": "1368135029657436160",
@@ -222006,7 +222006,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "6f199533-c27f-49a6-9175-a4f50dfcb54f",
     "last_name": "Biber",
     "metadata": {
       "channel_id": "1390492378741108736",
@@ -222066,7 +222066,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "48d46bc7-5187-42cc-a462-ff2f95a8e1e9",
     "last_name": "Hulstein",
     "metadata": {
       "channel_id": "1390754213125976064",
@@ -222188,7 +222188,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "4e58fb32-bda0-49f8-b69c-702877b565c4",
     "last_name": "Washington",
     "metadata": {
       "channel_id": "1390849854812467200",
@@ -222248,7 +222248,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "4ec3ee6f-7870-416f-be6f-914c65262753",
     "last_name": "Finley",
     "metadata": {
       "channel_id": "1391161961802117120",
@@ -222308,7 +222308,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": "Questionable",
-    "kalshi_id": null,
+    "kalshi_id": "bffacaea-1eb1-4ea1-ad85-43ab1a996600",
     "last_name": "Rickert",
     "metadata": {
       "channel_id": "1391539316915712000",
@@ -222368,7 +222368,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "d3dbd03a-c72d-45cf-b129-b50efa5e761a",
     "last_name": "Butler",
     "metadata": {
       "channel_id": "1391559439508606976",
@@ -222428,7 +222428,7 @@
     "injury_notes": "Stinger",
     "injury_start_date": null,
     "injury_status": "Questionable",
-    "kalshi_id": null,
+    "kalshi_id": "6e1b7737-88d4-413d-9898-400acb6780a1",
     "last_name": "Taylor",
     "metadata": {
       "channel_id": "1391831295155269632",
@@ -222488,7 +222488,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "f0c2f37b-a3a7-4825-a297-c5cfb56aa4f7",
     "last_name": "Williams",
     "metadata": {
       "channel_id": "1391836310364229632",
@@ -222608,7 +222608,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "7317d8b1-147e-4634-a56f-14c3cf8c1d38",
     "last_name": "Hallman",
     "metadata": {
       "channel_id": "1391931936703795200"
@@ -222667,7 +222667,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "ad663237-2fe7-4919-8e42-6905734bea01",
     "last_name": "Williams",
     "metadata": {
       "channel_id": "1392254067866083328"
@@ -222726,7 +222726,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "6f145471-2275-45bb-8d6c-1e631cd08fdf",
     "last_name": "Spears",
     "metadata": {
       "channel_id": "1394453445796179968",
@@ -222845,7 +222845,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "c20b04f8-5dad-4e5d-af51-3cb71e52c724",
     "last_name": "Kpeenu",
     "metadata": {
       "channel_id": "1395077641920344064",
@@ -222905,7 +222905,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "cc984cf4-8181-40d7-b93a-e193deae31b1",
     "last_name": "Rice",
     "metadata": {
       "channel_id": "1395183422346911744"
@@ -682449,7 +682449,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "763942cf-925c-409e-a0e8-b4edd50733c4",
     "last_name": "Petit-Frere",
     "metadata": {
       "channel_id": "1113708835278712832",
@@ -707235,7 +707235,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "326a285e-47ab-4cb5-a367-acde192f47b4",
     "last_name": "Diesch",
     "metadata": {
       "channel_id": "1116853538111094784",
