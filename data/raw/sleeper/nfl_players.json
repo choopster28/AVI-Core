@@ -119725,7 +119725,7 @@
       "rookie_year": "2025",
       "source_id": "85ea3a86-537e-4f79-b65a-7166bcf04e9c"
     },
-    "news_updated": 1781227248848,
+    "news_updated": 1787505631946,
     "number": 86,
     "oddsjam_id": "BF9EA7171852A290",
     "opta_id": null,
@@ -146372,7 +146372,7 @@
       "genius_id": "1491332",
       "rookie_year": "2025"
     },
-    "news_updated": 1781975142927,
+    "news_updated": 1787505631946,
     "number": 13,
     "oddsjam_id": "56EB8C63A654D631",
     "opta_id": null,
@@ -156357,7 +156357,7 @@
     "first_name": "Dante",
     "full_name": "Dante Barnett",
     "gsis_id": null,
-    "hashtag": "#dantebarnett-NFL-FA-69",
+    "hashtag": "#dantebarnett-NFL-CLE-69",
     "height": "73",
     "high_school": null,
     "injury_body_part": null,
@@ -156391,7 +156391,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": null,
-    "team": null,
+    "team": "CLE",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "275",
@@ -160641,7 +160641,7 @@
       "genius_id": "1504226",
       "rookie_year": "2025"
     },
-    "news_updated": 1786899613466,
+    "news_updated": 1787506232203,
     "number": 80,
     "oddsjam_id": "29A3329D94F52AA5",
     "opta_id": null,
@@ -178572,7 +178572,7 @@
       "rookie_year": "2026",
       "source_id": "f0f9f984-0feb-4e43-9881-f075ca2b64e4"
     },
-    "news_updated": 1787444429078,
+    "news_updated": 1787508332099,
     "number": 15,
     "oddsjam_id": null,
     "opta_id": null,
@@ -392556,7 +392556,7 @@
       "injury_override_regular_2024_14": "IR",
       "rookie_year": "2017"
     },
-    "news_updated": 1787436925875,
+    "news_updated": 1787507732055,
     "number": 23,
     "oddsjam_id": "431D7E287938",
     "opta_id": null,
@@ -402110,7 +402110,7 @@
       "genius_id": "998405",
       "rookie_year": "2017"
     },
-    "news_updated": 1787428225591,
+    "news_updated": 1787506831987,
     "number": 6,
     "oddsjam_id": "6CF233854A5A",
     "opta_id": null,
@@ -404658,7 +404658,7 @@
     "injury_body_part": "Achilles",
     "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "kalshi_id": "ab6f0ec4-262b-4403-a26e-c061735f98af",
     "last_name": "Kittle",
     "metadata": {
@@ -404666,7 +404666,7 @@
       "genius_id": "999472",
       "rookie_year": "2017"
     },
-    "news_updated": 1787280961439,
+    "news_updated": 1787505932025,
     "number": 85,
     "oddsjam_id": "42D0413964E3",
     "opta_id": null,
@@ -512891,7 +512891,7 @@
       "genius_id": "1013987",
       "rookie_year": "2019"
     },
-    "news_updated": 1786470943435,
+    "news_updated": 1787506831986,
     "number": 17,
     "oddsjam_id": "B3AC44EEA976",
     "opta_id": null,
@@ -518001,7 +518001,7 @@
       "injury_override_regular_2025_7": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1787368829988,
+    "news_updated": 1787503831819,
     "number": 3,
     "oddsjam_id": "67FF12F3845C",
     "opta_id": null,
@@ -524538,7 +524538,7 @@
   },
   "6045": {
     "active": true,
-    "age": 26,
+    "age": 29,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1997-03-07",
@@ -524555,7 +524555,7 @@
     "first_name": "Gary",
     "full_name": "Gary Jennings",
     "gsis_id": " 00-0035589",
-    "hashtag": "#garyjennings-NFL-FA-86",
+    "hashtag": "#garyjennings-NFL-LAC-86",
     "height": "73",
     "high_school": "Colonial Forge (VA)",
     "injury_body_part": null,
@@ -524565,7 +524565,8 @@
     "kalshi_id": null,
     "last_name": "Jennings",
     "metadata": {
-      "channel_id": "1116853193335111680"
+      "channel_id": "1116853193335111680",
+      "rookie_year": "2019"
     },
     "news_updated": 1693070112853,
     "number": 86,
@@ -524582,18 +524583,18 @@
     "search_first_name": "gary",
     "search_full_name": "garyjennings",
     "search_last_name": "jennings",
-    "search_rank": 9999999,
+    "search_rank": 999,
     "sport": "nfl",
     "sportradar_id": "49f9f357-e90a-45b7-9f55-fe451125149f",
     "stats_id": 877654,
     "status": "Active",
     "swish_id": 877654,
-    "team": null,
+    "team": "LAC",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "216",
     "yahoo_id": 31952,
-    "years_exp": 4
+    "years_exp": 7
   },
   "6046": {
     "active": true,
@@ -531118,7 +531119,7 @@
       "genius_id": "1013761",
       "rookie_year": "2019"
     },
-    "news_updated": 1787428825846,
+    "news_updated": 1787505031909,
     "number": 38,
     "oddsjam_id": "2F8314974E1D",
     "opta_id": null,
@@ -574742,7 +574743,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "kalshi_id": "ec90f84b-9d9a-4fbb-a427-0582d9334c0e",
     "last_name": "Biadasz",
     "metadata": {
@@ -574750,7 +574751,7 @@
       "genius_id": "1017501",
       "rookie_year": "2020"
     },
-    "news_updated": 1787279754872,
+    "news_updated": 1787506532074,
     "number": 63,
     "oddsjam_id": "F808102A2673",
     "opta_id": null,
@@ -574769,7 +574770,7 @@
     "sport": "nfl",
     "sportradar_id": "f5b61bef-6214-4d70-9a34-d58da29ce2d5",
     "stats_id": null,
-    "status": "Active",
+    "status": "Inactive",
     "swish_id": 924357,
     "team": "LAC",
     "team_abbr": null,
@@ -676747,7 +676748,7 @@
       "genius_id": "1343501",
       "rookie_year": "2022"
     },
-    "news_updated": 1787415023886,
+    "news_updated": 1787505633487,
     "number": 91,
     "oddsjam_id": "44303949681F",
     "opta_id": null,
@@ -676766,7 +676767,7 @@
     "sport": "nfl",
     "sportradar_id": "1e3d482b-e619-4245-bc4e-b347b47dfeba",
     "stats_id": null,
-    "status": "Active",
+    "status": "Inactive",
     "swish_id": 1172944,
     "team": "CLE",
     "team_abbr": null,
