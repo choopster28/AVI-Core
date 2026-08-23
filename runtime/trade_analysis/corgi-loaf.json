@@ -1,5 +1,216 @@
 [
   {
+    "id": "mt5him5f-8df0fb2b",
+    "createdAt": 1787470088387,
+    "expiresAt": 1787902088387,
+    "mode": "improve_team",
+    "title": "Final Improve My Team · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Increase Championship Odds",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3,
+      "personalContext": "I don’t think he’d trade Walker"
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. operates in a Playoff Push competitive window with an elite core anchored by Jaxon Smith-Njigba, Malik Nabers, and Tyler Warren. Following user-supplied personal context that the opposing manager is extremely unlikely to trade Kenneth Walker, Opportunity #1 has been removed due to an insurmountable availability barrier. Consequently, Corgi Loaf must rely on alternate market routes or retain its draft capital and surplus depth until a viable partner emerges.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite young receiver foundation with Jaxon Smith-Njigba and Malik Nabers",
+            "Top-tier TE leverage with rookie phenom Tyler Warren",
+            "Strong draft pick liquidity including multiple future 1st-round picks"
+          ],
+          "priorityNeeds": [
+            "High-ceiling RB1/RB2 starting firepower",
+            "Consolidated elite WR1/FLEX production for playoff matchups"
+          ],
+          "tradeableSurplus": [
+            "Future 2027 and 2028 1st and 2nd round draft picks",
+            "High-volume WR2/FLEX contributors (DJ Moore, Wan'Dale Robinson)"
+          ],
+          "constraintsApplied": [
+            "Target positions strictly restricted to RB, WR, and TE",
+            "Starter-for-starter realism enforced across all candidate packages",
+            "User-specified personal context applied: Kenneth Walker is unavailable from the opposing manager"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 13,
+          "eliminationReasons": [
+            "Rebuilding franchises unwilling to surrender elite young producers without receiving premium multi-pick draft hauls",
+            "Retooling teams lacking starting-caliber RB/WR assets in the targeted C-AVI ranges",
+            "Championship contenders unwilling to part with non-trade-block starters without immediate near-peer replacement",
+            "Manager-specific reluctance regarding Kenneth Walker rendering the primary trade target unavailable"
+          ]
+        },
+        "opportunities": [],
+        "noDealExplanation": {
+          "summary": "Due to the user's first-hand knowledge that the manager of the Badland Banditos will not trade Kenneth Walker, the primary deal path has been closed. Without an accessible trade partner willing to move a high-ceiling starting RB at a fair price using Corgi Loaf's surplus, forcing a transaction is not recommended.",
+          "primaryObstacles": [
+            "Opposing manager valuation and personal reluctance to trade Kenneth Walker",
+            "Lack of alternate realistic trade partners meeting both team needs and market valuation"
+          ],
+          "userConstraintImpact": "The user's personal context directly eliminated the top trade opportunity (Kenneth Walker), shifting the market reality to a no-deal status for this specific cycle.",
+          "closestPathToDeal": "Stand pat on current depth or test the public market for alternative tier-2 running backs where managers are more liquid."
+        },
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "The user noted that Kenneth Walker is not realistically available from the opposing manager. This insight was applied by removing the primary trade opportunity, resulting in a no-deal standing recommendation for this report cycle."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Kenneth Walker news 2026",
+          "DJ Moore news 2026",
+          "Amon Ra St Brown news 2026",
+          "Devon Achane news 2026",
+          "Wan'Dale Robinson news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGSlRJwaItjmEE2U3FGGezqweRilWaiY97H0jvokAniDdepPLLTth-pH5YLY6h28HBFJqdiNzKfXdtbn3-EH_utyBwXTukIaU_sv0ZsoCsjIf_AzVp2Z8r_p5j7buSKm1OlKcaMBRsNJNFrpTvvlvy2bOdBvIRAIuunUfjelyPj-1ZCZ_V_WdptTn880smeKdjNTs=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6fcUPr4_Yv3S8m0QohgF455hNTjAM3e5tAt_8Jy9XWHnKwmEwycRqthjHXcmvD-aWcBNVd4oQFu_pnw5bnkdCmb6KDnx1TqhIXKNG2wYSyUp2Z0zbRU6uHCG6sJcr0lItteJWMY6iygYtBatZZajvE3mbaXBsmNpzHw7g7PxXNVXb85hE4Q==",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1YkazVdiOvB_w15CkoHLy6sTGueTWUDuTwSPbNC6NuTNGbAUsT63oc1Dmc-fUy5IuXH1uRYCjf4Jaek7Vwv1bSvgPR_qoVV5_VxiYISReA5pgnmzlxlSyn-RXijVN1nF52WAabBqGnEiYe_6f95nC_Y0QE8mY7rcXAK73UG1gJNXMijjesu3Q07zZpS7JctHV10R8pz1eXlOB_B1yvXn-2Q==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-ACUGDI-Kqllj0Hkv1HoUdc8TZwXoLlCUVrY-cnvnEQIpNvCzQNw9pzdz7rjyHCRkK_3K1yWlxXeX8aUf9gAky4Zqb-tHJRYqp4x9ZuDjz4zo240ShaCOTIPo33tOCPQaO1UDwgbPgsNXoT8plGH5slJsqd0XrB9Y8ZqN9IuwYwt6H76E79O15fdfT9MgckTDZn3FY-l4UUAtHBaF8YztVHLuKOwxPTK4onE=",
+            "title": "buffalowdown.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdIw292mYGGfIEAYVOxTNduTfAScPFb54gatj6CwnkYSUOA-qslPTU3qsEqF6AzPpdCYKXPVNj6p6CzwiVVgniyXL9c0zIrHEoO0gzTPQY-xvMRQw4UKP4YYwBBVy4A1l-5FBiHVTBIBDeRJVbraBcZbjHYUzubODLV3WLLe2phglWXJlj2mM7fA7KcK8aE99Y4yQgebMNUPh52NKUaM997tOCeujT",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr4TSGmYtfUn9UKfd4v1R6MU7CnKeGBBeOXToi5vzP3GQLkYwRukXaejOgyu5w0F-1mbL6P4na5erzt4wNYpoISiGetarTAGFex1Y3lLgyPg2zgrB3NRt_72VtjJ8rMEZxgX1UXKo9kiQq3Wpq-p3psLabsCN8w_c829Zol28LzZ3GusM7Vuy4kMZhNw8b-MpwU0VeYRLjw1hNiEPks5BEPlUiCg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH-uGDxAor_DgklUlG9c9KIYMrKHjNAIUPO_pqbEx156KLHURzh602IZZtJLTBIUqpiMviri6lUejYyrfOZAUDT4lz-40LGf0HB7RyISwUX4heiC8WslQn1q5AgVl6dnNmDfXmSAwA82Ays5km8tfyJq3va5mQU1H-1fq09T9pJkdwfnGr8IRPdJCG",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8U2Cv8q4W2UcAUHUtaraOQYFCt3z4MdYyC1TLwP4R4NjF5J4NTJn2pmPMj8ycTLOA1aj5Vi-_Phn4ocyY6x9C6XqTMFfn3cM8Hx_RLGdarY3j_O4Trs55wPtT0xH8AqIdgoB9IIWFin2J8GQ8ZA75iZwtmqktWUPQpf2dHMkbUHaKMhw0jfeoeMenqKENqjP5",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeBn9_XgqE4Zn-ClCNjeSbHY-pU7qzRZl42NOOk4e6myoMY1Y1bIzwVcmKOKOB143B8Rpg7gnkc1vDVAhk2E4qnST-LvP7yv04ZLp1I9IlCBpZ9F1dIz_-buNAiivA-XfqFErGzZEmMZChujcMy6MofTNM9AxgjsWAgqn2NAsLWM59ogM4F6TxfRP7BAXq-u-L9zylKWJLCUl3x7M=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtE9w2DGUCjHjIIKq2Zc_ELPn-z54nLZSPwvMfMD90k8cw5rtYXd41hP1P_T6MyoQwQnpjPzsnGyLPIsFHoZ9SV89WvutW2GrmuapceRGjsR5lhz6DGMhsmD4pzw3evyEKlQe9RN0onVFtxF1qEqF4RdGhKrpIwrf4NBOh6sO9yh-6bvVp43qnuxIr3Eyx",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpAVNkSB5BtzsxWHWkZL4Nh1PQkMF2pPJjKsOMso6cEh1LMY-RZubW4YVLjdWDb_VUgWK-M3OUdXkp2H8wl5c_y98pT6nHKyQWeIabDoG4oArWvI8_D2ICaLbua-X75odK-UPNlMhFDFtRe6IDCoHzkB19ENG0ZBRcwbMk-6sD3cD8rUAek-3xh9rPCoi_CVaRZTeCmNORvWY=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBVeyWc3G89mQHfNhqBKnCgVidQHI5pqRx9Cy1eyN98MIkDzp8TGDdPrWGqx-r1BnwGZoO4WkHnmy64KWjBAw0CpzMqHg5nRGguq5I6sGoQegmPjw5y3R939Sog_OT8S6jSegJuGi805ivSDYTznGozjJu8BoRnaIXMt6u5SVt6eFr-59ff7IKmoDDwKJjCKMawDKQ7FS4dOZ1ymeIbD0I",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVqgXyK-1TNCYr-y-B0Jy3LhZFDezm04t1iFanbh6QcBwdca49o1wNMneE7CcVGgMJY57l1ltmc7apYLdF8ExMno8lNbE_SHRwE_BxPL-184lDoiCPUYGmzjA74cztKZptc72ggEPw0v4_FtKGxT9ELxZVs4FyZd2PigqdgEDhp_3d-uTMTAjiD8QDBQE3O_vn",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzkAN1cQp8lQZ2irUIZDK2XllJfKnjfVbg5D-DP5kiiQwTz81lxOHblptVxcdEC3R8JxmK0O71ThG-mD6K0t5JLsmvQtHXHCp_SZBnCmzZ7_cTY7iUp0VZTvp-vJWcLwUbxksyai0PTFGJ8r9yUJdK8YP09yvo8xKaxk04-oU1ejNh4eMkbIKqVksHrCAK0Dx7BOKX4Jp9k9KynkcS9Jbo",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj1xeAy41aH6AX5xmCOspdslnDRXHJsAcSGqZ7KCytySHtDCE0BCxXHeGE5J9QYnPrS_1FZVTN4TdGOdERoHNcFKNDcHs8UoAsX4vVkNj1pxvLLjvFU6mJ8LzoKvEkVjwf",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPZrdRvdX7278KoH34Ul-tWk4Tu2kXF40hf_zAhuAKa8SHuXrfe3Lhdo8z_X4Y4gF4gyRmwuZ4QvSqxjz9y9mHLhSJ8R-vIQuVNFpbPE0WX6h3fhGJlmmulYHuP5POq__Myu1OJvhzaYHtYMtiNE1Wdg8pHelXOJ-4-diHeHvza6fDkMI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFUVHsOZAy3yNBW0UfehrYpDCsrVtKFhofv-lMT6gCBYF9iox_uGhJ-rYqrCiG34hIjm_iq-2QSlxSoU9DmIwN4RLd6l4fFPZ34PiD-PV436Rg6z58D--fgNRj7sbkOpDKarfD_96bQMwcwyexKPo6xaj5orQRGyT7jDoRHZro6Xc1ILCF5Tei_bYkkCsYaf83FwHAjBUMNJaSh5d_gqBCD7b-Jqantg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi7bUp_duMCmMFl3q2B9lKHvdi9ZXtGopHG764Aj2sLlXRXTbMLIBl9kwwOJ27R1uVMw-KbWKuNUB0_vr8E3GmpBRAOizWH-6JCv-EVMG9IbrH51C8IXCMb0xlNZSlIOuok_ITM9x7",
+            "title": "foxsports.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "DJ Moore",
+          "De'Von Achane",
+          "David Montgomery",
+          "Kenneth Walker",
+          "Wan'Dale Robinson"
+        ],
+        "aviCoreCommitSha": "e085a1f93b270d78aa280c64de91ff47ea22265f",
+        "aviCoreCommittedAt": "2026-08-23T06:24:12Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 524428,
+        "personalContextProvided": true,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        },
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mt5hezva-e45cef6e"
+      }
+    }
+  },
+  {
     "id": "mt5hezva-e45cef6e",
     "createdAt": 1787470023561,
     "expiresAt": 1787902023561,
