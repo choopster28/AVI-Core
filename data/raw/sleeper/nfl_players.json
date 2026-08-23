@@ -115361,7 +115361,7 @@
       "rookie_year": "2025",
       "source_id": "d3a15664-0039-474a-aa29-e2e4b310aa8d"
     },
-    "news_updated": 1787441427318,
+    "news_updated": 1787509532779,
     "number": 45,
     "oddsjam_id": "47463604EFF3F60E",
     "opta_id": null,
@@ -116468,7 +116468,7 @@
       "rookie_year": "2025",
       "source_id": "b25ba780-89c0-11ec-9eae-b94e7e2a33e8"
     },
-    "news_updated": 1787434526286,
+    "news_updated": 1787510133137,
     "number": 0,
     "oddsjam_id": "6FD40ABCB29E289F",
     "opta_id": null,
@@ -116897,7 +116897,7 @@
       "rookie_year": "2025",
       "source_id": "3a2ede48-6e04-4ba5-a4e4-c6fbcbf07729"
     },
-    "news_updated": 1786907714830,
+    "news_updated": 1787510133155,
     "number": 14,
     "oddsjam_id": "4CD16797D6E3510C",
     "opta_id": null,
@@ -116959,7 +116959,7 @@
       "rookie_year": "2025",
       "source_id": "86a2c680-902f-11ec-8556-6fa97bcffaf0"
     },
-    "news_updated": 1787375131132,
+    "news_updated": 1787509832435,
     "number": 0,
     "oddsjam_id": "FFBC25A69F16ACD4",
     "opta_id": null,
@@ -176067,7 +176067,7 @@
       "rookie_year": "2026",
       "source_id": "745c17a0-8f54-11ec-9f33-1965c9c46e44"
     },
-    "news_updated": 1787417124253,
+    "news_updated": 1787511032781,
     "number": 89,
     "oddsjam_id": null,
     "opta_id": null,
@@ -178572,7 +178572,7 @@
       "rookie_year": "2026",
       "source_id": "f0f9f984-0feb-4e43-9881-f075ca2b64e4"
     },
-    "news_updated": 1787508332099,
+    "news_updated": 1787509532779,
     "number": 15,
     "oddsjam_id": null,
     "opta_id": null,
@@ -180883,7 +180883,7 @@
       "channel_id": "1353579177336397824",
       "rookie_year": "2026"
     },
-    "news_updated": 1781623224836,
+    "news_updated": 1787511932856,
     "number": 66,
     "oddsjam_id": null,
     "opta_id": null,
@@ -183039,7 +183039,7 @@
       "channel_id": "1353835854841286656",
       "rookie_year": "2026"
     },
-    "news_updated": 1777140921730,
+    "news_updated": 1787509832771,
     "number": 17,
     "oddsjam_id": null,
     "opta_id": null,
@@ -183457,7 +183457,7 @@
       "genius_id": "1488800",
       "rookie_year": "2026"
     },
-    "news_updated": 1787421624838,
+    "news_updated": 1787511632875,
     "number": 30,
     "oddsjam_id": null,
     "opta_id": null,
@@ -392556,7 +392556,7 @@
       "injury_override_regular_2024_14": "IR",
       "rookie_year": "2017"
     },
-    "news_updated": 1787507732055,
+    "news_updated": 1787512232946,
     "number": 23,
     "oddsjam_id": "431D7E287938",
     "opta_id": null,
@@ -394547,7 +394547,7 @@
     "college": "Tennessee",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DL",
     "espn_id": 3115336,
     "fantasy_data_id": 18911,
     "fantasy_positions": [
@@ -394570,7 +394570,7 @@
       "genius_id": "999667",
       "rookie_year": "2017"
     },
-    "news_updated": 1770436550834,
+    "news_updated": 1787510432614,
     "number": 95,
     "oddsjam_id": "B3B1C972B045",
     "opta_id": null,
@@ -401992,7 +401992,7 @@
       "genius_id": "999696",
       "rookie_year": "2017"
     },
-    "news_updated": 1786505746045,
+    "news_updated": 1787511932355,
     "number": 13,
     "oddsjam_id": "6A0496C3BF9A",
     "opta_id": null,
@@ -447855,7 +447855,7 @@
       "injury_override_regular_2025_6": "Out",
       "rookie_year": "2018"
     },
-    "news_updated": 1786470940162,
+    "news_updated": 1787508932293,
     "number": 8,
     "oddsjam_id": "1C18E878DAB7",
     "opta_id": null,
@@ -457402,7 +457402,7 @@
       "genius_id": "1014944",
       "rookie_year": "2018"
     },
-    "news_updated": 1774636504175,
+    "news_updated": 1787511632874,
     "number": 56,
     "oddsjam_id": "7217CCA12E39",
     "opta_id": null,
@@ -524546,7 +524546,7 @@
     "college": "West Virginia",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "SWR",
     "espn_id": 3916071,
     "fantasy_data_id": 20829,
     "fantasy_positions": [
@@ -524568,7 +524568,7 @@
       "channel_id": "1116853193335111680",
       "rookie_year": "2019"
     },
-    "news_updated": 1693070112853,
+    "news_updated": 1787511032780,
     "number": 86,
     "oddsjam_id": null,
     "opta_id": null,
@@ -535701,7 +535701,7 @@
       "genius_id": "1131106",
       "rookie_year": "2019"
     },
-    "news_updated": 1785349811359,
+    "news_updated": 1787509232697,
     "number": 45,
     "oddsjam_id": "C7104462E671",
     "opta_id": null,
@@ -574153,7 +574153,7 @@
       "genius_id": "1029377",
       "rookie_year": "2020"
     },
-    "news_updated": 1786504845733,
+    "news_updated": 1787511332437,
     "number": 85,
     "oddsjam_id": "10A863C5D176",
     "opta_id": null,
@@ -639661,10 +639661,10 @@
     "hashtag": "#deommodorelenoir-NFL-SF-2",
     "height": "70",
     "high_school": "Salesian (CA)",
-    "injury_body_part": "Shoulder",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "7b10772c-45e7-4abb-a194-302c1be5dd27",
     "last_name": "Lenoir",
     "metadata": {
@@ -639672,7 +639672,7 @@
       "genius_id": "1012469",
       "rookie_year": "2021"
     },
-    "news_updated": 1787434226354,
+    "news_updated": 1787511332754,
     "number": 2,
     "oddsjam_id": "83CF7829B690",
     "opta_id": null,
@@ -676748,7 +676748,7 @@
       "genius_id": "1343501",
       "rookie_year": "2022"
     },
-    "news_updated": 1787505633487,
+    "news_updated": 1787510432622,
     "number": 91,
     "oddsjam_id": "44303949681F",
     "opta_id": null,
@@ -682021,10 +682021,10 @@
     "hashtag": "#joshuaezeudu-NFL-NYG-75",
     "height": "76",
     "high_school": "Archer (GA)",
-    "injury_body_part": null,
+    "injury_body_part": "Leg",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "2ee0748b-92b4-4154-be45-9be9ade20634",
     "last_name": "Ezeudu",
     "metadata": {
@@ -718133,7 +718133,7 @@
       "genius_id": "1398593",
       "rookie_year": "2023"
     },
-    "news_updated": 1786585813265,
+    "news_updated": 1787512532590,
     "number": 11,
     "oddsjam_id": "D06A7A2DE6DF",
     "opta_id": null,
