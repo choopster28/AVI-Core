@@ -207,18 +207,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00013302",
-      "c_avi": 38.4,
-      "d_avi": 63.0,
-      "nfl_team": "BAL",
-      "player_name": "Adam Randall",
-      "position": "RB",
-      "sleeper_id": "13302",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012467",
       "c_avi": 38.2,
       "d_avi": 59.8,
@@ -814,6 +802,18 @@
       "player_name": "Will Shipley",
       "position": "RB",
       "sleeper_id": "11577",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013347",
+      "c_avi": 26.4,
+      "d_avi": 64.8,
+      "nfl_team": "MIN",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "sleeper_id": "13347",
       "status": "Active"
     },
     {
@@ -2449,6 +2449,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00013302",
+      "c_avi": 38.4,
+      "d_avi": 63.0,
+      "nfl_team": "BAL",
+      "owner_id": "992908759074680832",
+      "player_name": "Adam Randall",
+      "position": "RB",
+      "roster_id": 3,
+      "sleeper_id": "13302",
+      "status": "Active",
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00011625",
       "c_avi": 47.2,
       "d_avi": 72.7,
@@ -3469,22 +3485,6 @@
       "status": "Active",
       "team_file": "08_All_Hail_King_Jesus.md",
       "team_name": "All Hail King Jesus"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013347",
-      "c_avi": 26.4,
-      "d_avi": 64.8,
-      "nfl_team": "MIN",
-      "owner_id": "992908759074680832",
-      "player_name": "Demond Claiborne",
-      "position": "RB",
-      "roster_id": 3,
-      "sleeper_id": "13347",
-      "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
     },
     {
       "active": true,

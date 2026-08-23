@@ -36,6 +36,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
 
+## PLAYER LOOKUP: Adam Randall
+- Player name: Adam Randall
+- Player ID: 13302
+- Position: RB
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
+
 ## PLAYER LOOKUP: Adonai Mitchell
 - Player name: Adonai Mitchell
 - Player ID: 11625
@@ -547,14 +555,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
-
-## PLAYER LOOKUP: Demond Claiborne
-- Player name: Demond Claiborne
-- Player ID: 13347
-- Position: RB
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Denzel Boston
 - Player name: Denzel Boston
@@ -2071,15 +2071,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 64.5
 - Availability: available
 
-## AVAILABLE PLAYER: Adam Randall
-- Player name: Adam Randall
-- Player ID: 13302
-- Position: RB
-- NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 38.4
-- Dynasty AVI (D-AVI, 0-100): 63.0
-- Availability: available
-
 ## AVAILABLE PLAYER: Jordan James
 - Player name: Jordan James
 - Player ID: 12467
@@ -2528,6 +2519,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: PHI
 - Championship AVI (C-AVI, 0-100): 26.6
 - Dynasty AVI (D-AVI, 0-100): 56.5
+- Availability: available
+
+## AVAILABLE PLAYER: Demond Claiborne
+- Player name: Demond Claiborne
+- Player ID: 13347
+- Position: RB
+- NFL team: MIN
+- Championship AVI (C-AVI, 0-100): 26.4
+- Dynasty AVI (D-AVI, 0-100): 64.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Tutu Atwell
