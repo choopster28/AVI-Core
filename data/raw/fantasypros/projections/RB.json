@@ -1,5 +1,5 @@
 {
-  "count": "131",
+  "count": "130",
   "players": [
     {
       "filename": "jahmyr-gibbs.php",
@@ -2074,34 +2074,6 @@
       "team_id": "DEN"
     },
     {
-      "filename": "emmett-johnson.php",
-      "fpid": 28107,
-      "mflid": 17474,
-      "name": "Emmett Johnson",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.24,
-        "points": 37.97,
-        "points_half": 42.17,
-        "points_ppr": 46.37,
-        "rec_rec": 8.4,
-        "rec_tds": 0.39,
-        "rec_yds": 59.36,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 49.54,
-        "rush_tds": 1.59,
-        "rush_yds": 206.3,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "KC"
-    },
-    {
       "filename": "isaiah-davis.php",
       "fpid": 25977,
       "mflid": 16752,
@@ -2296,6 +2268,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "TB"
+    },
+    {
+      "filename": "emmett-johnson.php",
+      "fpid": 28107,
+      "mflid": 17474,
+      "name": "Emmett Johnson",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.12,
+        "points": 29.43,
+        "points_half": 32.28,
+        "points_ppr": 35.13,
+        "rec_rec": 5.7,
+        "rec_tds": 0.2,
+        "rec_yds": 41.18,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 39.77,
+        "rush_tds": 1.3,
+        "rush_yds": 166.15,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "KC"
     },
     {
       "filename": "lequint-allen-jr.php",
@@ -2660,34 +2660,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "KC"
-    },
-    {
-      "filename": "donovan-edwards.php",
-      "fpid": 23014,
-      "mflid": 17057,
-      "name": "Donovan Edwards",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 20.9,
-        "points_half": 21.9,
-        "points_ppr": 22.9,
-        "rec_rec": 2,
-        "rec_tds": 0,
-        "rec_yds": 19,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 31,
-        "rush_tds": 1,
-        "rush_yds": 130,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "MIA"
     },
     {
       "filename": "carlos-washington-jr.php",

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-08-22
+- Last updated from Sleeper exports: 2026-08-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 654.7
-- championship_lineup_c_avi_avg: 81.84
-- offensive_roster_c_avi_sum: 1010.8
-- offensive_roster_c_avi_avg: 63.17
-- offensive_roster_d_avi_sum: 1275.0
-- offensive_roster_d_avi_avg: 79.69
+- championship_lineup_c_avi_sum: 654.6
+- championship_lineup_c_avi_avg: 81.83
+- offensive_roster_c_avi_sum: 1007.7
+- offensive_roster_c_avi_avg: 62.98
+- offensive_roster_d_avi_sum: 1275.5
+- offensive_roster_d_avi_avg: 79.72
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Patrick Mahomes | C-AVI: 73.8 | D-AVI: 83.5
 - RB: Cam Skattebo | C-AVI: 81.7 | D-AVI: 88.6
-- RB: David Montgomery | C-AVI: 70.0 | D-AVI: 84.6
+- RB: David Montgomery | C-AVI: 69.9 | D-AVI: 84.5
 - WR: Jaxon Smith-Njigba | C-AVI: 99.1 | D-AVI: 99.6
 - WR: Malik Nabers | C-AVI: 89.5 | D-AVI: 96.4
 - TE: Tyler Warren | C-AVI: 97.3 | D-AVI: 91.6
-- FLEX: DJ Moore | C-AVI: 77.1 | D-AVI: 87.5
-- FLEX: Wan'Dale Robinson | C-AVI: 66.2 | D-AVI: 83.6
+- FLEX: DJ Moore | C-AVI: 77.0 | D-AVI: 87.3
+- FLEX: Wan'Dale Robinson | C-AVI: 66.3 | D-AVI: 83.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 70.0
-- Dynasty AVI (D-AVI, 0-100): 84.6
+- Championship AVI (C-AVI, 0-100): 69.9
+- Dynasty AVI (D-AVI, 0-100): 84.5
 - Projected PPR points: 196.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 49.4
+- Championship AVI (C-AVI, 0-100): 49.2
 - Dynasty AVI (D-AVI, 0-100): 74.9
 - Projected PPR points: 103.2
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 49.2
+- Championship AVI (C-AVI, 0-100): 49.0
 - Dynasty AVI (D-AVI, 0-100): 73.3
 - Projected PPR points: 107.9
 - Category: offense
@@ -155,26 +155,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 44.1
-- Dynasty AVI (D-AVI, 0-100): 70.7
+- Championship AVI (C-AVI, 0-100): 43.8
+- Dynasty AVI (D-AVI, 0-100): 70.3
 - Projected PPR points: 83.5
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Emmett Johnson
-- Player name: Emmett Johnson
-- Player ID: 13337
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: KC
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 38.9
-- Dynasty AVI (D-AVI, 0-100): 71.5
-- Projected PPR points: 46.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -190,8 +173,25 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 37.2
-- Dynasty AVI (D-AVI, 0-100): 60.9
+- Dynasty AVI (D-AVI, 0-100): 61.2
 - Projected PPR points: 59.8
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Emmett Johnson
+- Player name: Emmett Johnson
+- Player ID: 13337
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 36.5
+- Dynasty AVI (D-AVI, 0-100): 71.0
+- Projected PPR points: 35.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 77.1
-- Dynasty AVI (D-AVI, 0-100): 87.5
+- Championship AVI (C-AVI, 0-100): 77.0
+- Dynasty AVI (D-AVI, 0-100): 87.3
 - Projected PPR points: 208.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 66.2
-- Dynasty AVI (D-AVI, 0-100): 83.6
+- Championship AVI (C-AVI, 0-100): 66.3
+- Dynasty AVI (D-AVI, 0-100): 83.8
 - Projected PPR points: 179.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 49.0
-- Dynasty AVI (D-AVI, 0-100): 70.0
+- Championship AVI (C-AVI, 0-100): 48.9
+- Dynasty AVI (D-AVI, 0-100): 69.7
 - Projected PPR points: 149.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 33.8
-- Dynasty AVI (D-AVI, 0-100): 66.3
+- Championship AVI (C-AVI, 0-100): 34.0
+- Dynasty AVI (D-AVI, 0-100): 67.8
 - Projected PPR points: 59.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

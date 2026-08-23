@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-08-22
+- Last updated from Sleeper exports: 2026-08-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 749.4
-- championship_lineup_c_avi_avg: 93.67
-- offensive_roster_c_avi_sum: 1148.8
-- offensive_roster_c_avi_avg: 71.80
-- offensive_roster_d_avi_sum: 1317.8
-- offensive_roster_d_avi_avg: 82.36
+- championship_lineup_c_avi_sum: 749.3
+- championship_lineup_c_avi_avg: 93.66
+- offensive_roster_c_avi_sum: 1155.3
+- offensive_roster_c_avi_avg: 72.21
+- offensive_roster_d_avi_sum: 1329.5
+- offensive_roster_d_avi_avg: 83.09
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 95.9 | D-AVI: 91.3
-- RB: Saquon Barkley | C-AVI: 92.0 | D-AVI: 93.3
+- RB: Saquon Barkley | C-AVI: 91.9 | D-AVI: 93.3
 - RB: Jeremiyah Love | C-AVI: 90.0 | D-AVI: 95.7
 - WR: Rashee Rice | C-AVI: 96.1 | D-AVI: 93.7
 - WR: A.J. Brown | C-AVI: 93.3 | D-AVI: 94.1
 - TE: Trey McBride | C-AVI: 99.5 | D-AVI: 93.0
 - FLEX: Nico Collins | C-AVI: 93.2 | D-AVI: 96.4
-- FLEX: Omarion Hampton | C-AVI: 89.4 | D-AVI: 95.0
+- FLEX: Omarion Hampton | C-AVI: 89.4 | D-AVI: 94.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 92.0
+- Championship AVI (C-AVI, 0-100): 91.9
 - Dynasty AVI (D-AVI, 0-100): 93.3
 - Projected PPR points: 264.7
 - Category: offense
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 89.4
-- Dynasty AVI (D-AVI, 0-100): 95.0
+- Dynasty AVI (D-AVI, 0-100): 94.9
 - Projected PPR points: 254.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 49.4
+- Championship AVI (C-AVI, 0-100): 49.2
 - Dynasty AVI (D-AVI, 0-100): 75.2
 - Projected PPR points: 98.2
 - Category: offense
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 43.5
+- Championship AVI (C-AVI, 0-100): 43.3
 - Dynasty AVI (D-AVI, 0-100): 69.6
 - Projected PPR points: 82.2
 - Category: offense
@@ -257,26 +257,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 44.8
-- Dynasty AVI (D-AVI, 0-100): 70.0
+- Championship AVI (C-AVI, 0-100): 44.3
+- Dynasty AVI (D-AVI, 0-100): 69.2
 - Projected PPR points: 109.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Malik Benson
-- Player name: Malik Benson
-- Player ID: 13329
+### PLAYER: Ryan Flournoy
+- Player name: Ryan Flournoy
+- Player ID: 11783
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: LV
+- NFL team: DAL
 - Active: True
 - Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 32.0
-- Dynasty AVI (D-AVI, 0-100): 52.7
-- Projected PPR points: 84.4
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 39.5
+- Dynasty AVI (D-AVI, 0-100): 65.3
+- Projected PPR points: 89.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

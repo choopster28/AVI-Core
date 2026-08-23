@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-08-22
+- Last updated from Sleeper exports: 2026-08-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 629.0
-- championship_lineup_c_avi_avg: 78.62
-- offensive_roster_c_avi_sum: 938.6
-- offensive_roster_c_avi_avg: 58.66
-- offensive_roster_d_avi_sum: 1275.3
-- offensive_roster_d_avi_avg: 79.71
+- championship_lineup_c_avi_sum: 628.8
+- championship_lineup_c_avi_avg: 78.60
+- offensive_roster_c_avi_sum: 938.7
+- offensive_roster_c_avi_avg: 58.67
+- offensive_roster_d_avi_sum: 1276.7
+- offensive_roster_d_avi_avg: 79.79
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Lamar Jackson | C-AVI: 98.0 | D-AVI: 91.1
 - RB: Derrick Henry | C-AVI: 93.4 | D-AVI: 90.8
-- RB: Kyle Monangai | C-AVI: 55.5 | D-AVI: 80.6
+- RB: Kyle Monangai | C-AVI: 55.3 | D-AVI: 80.5
 - WR: Zay Flowers | C-AVI: 89.3 | D-AVI: 94.2
 - WR: Carnell Tate | C-AVI: 67.9 | D-AVI: 89.9
 - TE: Kyle Pitts | C-AVI: 94.9 | D-AVI: 89.2
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 55.5
-- Dynasty AVI (D-AVI, 0-100): 80.6
+- Championship AVI (C-AVI, 0-100): 55.3
+- Dynasty AVI (D-AVI, 0-100): 80.5
 - Projected PPR points: 156.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 54.0
+- Championship AVI (C-AVI, 0-100): 53.9
 - Dynasty AVI (D-AVI, 0-100): 77.1
 - Projected PPR points: 147.4
 - Category: offense
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 29.7
-- Dynasty AVI (D-AVI, 0-100): 69.8
+- Championship AVI (C-AVI, 0-100): 30.0
+- Dynasty AVI (D-AVI, 0-100): 70.5
 - Projected PPR points: 19.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 28.9
-- Dynasty AVI (D-AVI, 0-100): 67.2
+- Championship AVI (C-AVI, 0-100): 29.1
+- Dynasty AVI (D-AVI, 0-100): 67.6
 - Projected PPR points: 21.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 26.3
+- Championship AVI (C-AVI, 0-100): 26.4
 - Dynasty AVI (D-AVI, 0-100): 64.8
 - Projected PPR points: 16.7
 - Category: offense
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 50.1
-- Dynasty AVI (D-AVI, 0-100): 84.7
+- Championship AVI (C-AVI, 0-100): 49.8
+- Dynasty AVI (D-AVI, 0-100): 84.6
 - Projected PPR points: 106.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 46.3
-- Dynasty AVI (D-AVI, 0-100): 71.8
+- Championship AVI (C-AVI, 0-100): 46.4
+- Dynasty AVI (D-AVI, 0-100): 72.3
 - Projected PPR points: 125.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

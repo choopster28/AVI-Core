@@ -9,6 +9,24 @@
         "News",
         "Injury"
       ],
+      "created": "2026-08-23 00:18:39",
+      "created_formated": "Sun, Aug 23rd 12:18am UTC",
+      "desc": "De'Zhaun Stribling is day-to-day with a shoulder injury. ",
+      "id": 603848,
+      "impact": "Stribling has shown out in the first two preseason games for San Francisco. The rookie has already established himself into what is expected to be an immediate role for the 49ers wide receiver room. The 49ers will likely be cautious with him heading into the regular season. ",
+      "link": "https://www.fantasypros.com/nfl/news/603848/dezhaun-stribling-shoulder-day-to-day.php",
+      "player_id": 28138,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "De'Zhaun Stribling (shoulder) day-to-day "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
       "created": "2026-08-22 21:35:52",
       "created_formated": "Sat, Aug 22nd 9:35pm UTC",
       "desc": "Falcons head coach Kevin Stefanski told reporters that QB Michael Penix Jr. now has been cleared to return to 11-on-11 work.",
@@ -369,23 +387,6 @@
       "sport_id": "NFL",
       "team_id": "FA",
       "title": "Jeadyn Lukus waived by Browns "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 14:40:14",
-      "created_formated": "Fri, Aug 21st 2:40pm UTC",
-      "desc": "The Browns signed DL Jamil Muhammad. ",
-      "id": 603593,
-      "impact": "Muhammad spent time with both the Rams and Panthers last season. He'll compete for a depth role on the Browns defensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/603593/jamil-muhammad-signs-with-browns.php",
-      "player_id": 27755,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Jamil Muhammad signs with Browns"
     }
   ],
   "public_api_limited": true,
