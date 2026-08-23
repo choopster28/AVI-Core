@@ -1,5 +1,23 @@
 [
   {
+    "id": "mt5him5f-8df0fb2b",
+    "phase": "final",
+    "mode": "improve_team",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Increase Championship Odds",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3,
+      "personalContext": "I don’t think he’d trade Walker"
+    },
+    "createdAt": 1787470050835,
+    "updatedAt": 1787470050835,
+    "expiresAt": 1787902050835,
+    "status": "queued"
+  },
+  {
     "id": "mt5hezva-e45cef6e",
     "phase": "initial",
     "mode": "improve_team",
