@@ -1,5 +1,5 @@
 {
-  "count": 17,
+  "count": 18,
   "covids": [],
   "injuries": [
     {
@@ -37,7 +37,7 @@
       "practice_3": null,
       "practice_report_injury_type": null,
       "probability_of_playing": null,
-      "rank": 133,
+      "rank": 134,
       "status": "",
       "status_short": "",
       "team_id": "PHI",
@@ -81,7 +81,7 @@
       "practice_3": null,
       "practice_report_injury_type": null,
       "probability_of_playing": null,
-      "rank": 304,
+      "rank": 303,
       "status": "",
       "status_short": "",
       "team_id": "MIA",
@@ -199,6 +199,28 @@
       "team_practice_2_submitted": false,
       "team_practice_3_submitted": false,
       "yahoo_id": "31891"
+    },
+    {
+      "comment": "injured",
+      "injury_type": "",
+      "injury_update_date": "2026-08-23 12:00:00",
+      "ir_weeks": [],
+      "name": "Alex Wright",
+      "player_id": 24540,
+      "position_id": "DE",
+      "practice_1": null,
+      "practice_2": null,
+      "practice_3": null,
+      "practice_report_injury_type": null,
+      "probability_of_playing": null,
+      "rank": null,
+      "status": "OUT",
+      "status_short": "O",
+      "team_id": "CLE",
+      "team_practice_1_submitted": false,
+      "team_practice_2_submitted": false,
+      "team_practice_3_submitted": false,
+      "yahoo_id": "34034"
     },
     {
       "comment": "retired",

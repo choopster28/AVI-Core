@@ -3,6 +3,80 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-08-23 21:52:33",
+      "created_formated": "Sun, Aug 23rd 9:52pm UTC",
+      "desc": "Ashton Jeanty exited practice for the Las Vegas Raiders Sunday after suffering an apparent knee injury according to Ryan McFadden.",
+      "id": 603948,
+      "impact": "Jeanty suffered the apparent right knee injury after attempting to make a diving catch in team drills and was unable to put weight on his right leg afterward. The running back was set to take advantage of an elite-level workload as part of new head coach Klint Kubiak's zone running scheme entering the 2026 regular season. Fantasy managers will need to monitor his status as he heads for further evaluation on the extent of the injury. Mike Washington Jr. would be in line to take over No. 1 running back duties if Jeanty is forced to miss any period of time.",
+      "link": "https://www.fantasypros.com/nfl/news/603948/ashton-jeanty-suffers-knee-injury-sunday.php",
+      "player_id": 25989,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Ashton Jeanty suffers knee injury Sunday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-23 17:14:32",
+      "created_formated": "Sun, Aug 23rd 5:14pm UTC",
+      "desc": "Alex Wright (Achilles) has been placed on season-ending injured reserve with a torn Achilles.",
+      "id": 603924,
+      "impact": "The 2025 breakout suffered the injury during practice on Thursday and will now miss the rest of the season. Wright was looking to build off of a career best 5.5 sack season, but will now have to turn his eyes onto 2027.",
+      "link": "https://www.fantasypros.com/nfl/news/603924/alex-wright-achilles-placed-on-season-ending-ir.php",
+      "player_id": 24540,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Alex Wright (Achilles) placed on season-ending IR"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-08-23 17:10:30",
+      "created_formated": "Sun, Aug 23rd 5:10pm UTC",
+      "desc": "George Kittle (Achilles) has been activated off of the 49ers PUP. A big step towards playing Week 1. ",
+      "id": 603923,
+      "impact": "Kittle was trending towards playing in Week 1, and this is a big step in that direction. He could be stepping into a big target share, especially with Mike Evans and De'Zhaun Stribling dealing with injuries of their own. Granted, the receivers injuries don't sound serious, but they're still noteworthy.",
+      "link": "https://www.fantasypros.com/nfl/news/603923/george-kittle-achilles-activated-from-pup.php",
+      "player_id": 16499,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "George Kittle (Achilles) activated from PUP"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-23 17:05:47",
+      "created_formated": "Sun, Aug 23rd 5:05pm UTC",
+      "desc": "Tyler Biadasz (knee) has been placed on season-ending injured reserve by the Los Angeles Chargers according to Ari Meirov.",
+      "id": 603922,
+      "impact": "Biadasz suffered the knee injury earlier in the week during practice, leaving a gaping hole in a Chargers offensive line that hoped the offensive lineman would fortify the center position after signing with the organization during free agency. Backup Jake Slaughter will now ramp up to take on increased snaps at center for head coach Jim Harbaugh as the regular season approaches.",
+      "link": "https://www.fantasypros.com/nfl/news/603922/tyler-biadasz-knee-placed-on-season-ending-injured-reserve.php",
+      "player_id": 18268,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Tyler Biadasz (knee) placed on season-ending injured reserve"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -318,75 +392,6 @@
       "sport_id": "NFL",
       "team_id": "FA",
       "title": "Roydell Williams released by Colts"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 14:45:14",
-      "created_formated": "Fri, Aug 21st 2:45pm UTC",
-      "desc": "The Jaguars waived OL Timothy McKay. ",
-      "id": 603598,
-      "impact": "McKay will figure to seek another opportunity during training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/603598/timothy-mckay-waived-by-jaguars.php",
-      "player_id": 27635,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Timothy McKay waived by Jaguars "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 14:43:50",
-      "created_formated": "Fri, Aug 21st 2:43pm UTC",
-      "desc": "The Chargers waived WR Luke Grimm with an injury designation. ",
-      "id": 603597,
-      "impact": "Grimm will figure to seek another opportunity during training camp when he is cleared. ",
-      "link": "https://www.fantasypros.com/nfl/news/603597/luke-grimm-waived-by-chargers.php",
-      "player_id": 27601,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Luke Grimm waived by Chargers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 14:42:59",
-      "created_formated": "Fri, Aug 21st 2:42pm UTC",
-      "desc": "The Chargers signed WR Liam Clifford. ",
-      "id": 603595,
-      "impact": "Clifford will compete for a depth role in the Chargers wide receiver room. ",
-      "link": "https://www.fantasypros.com/nfl/news/603595/liam-clifford-signs-with-chargers.php",
-      "player_id": 29411,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Liam Clifford signs with Chargers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 14:41:28",
-      "created_formated": "Fri, Aug 21st 2:41pm UTC",
-      "desc": "The Browns waived CB Jeadyn Lukus. ",
-      "id": 603594,
-      "impact": "Lukus signed with Cleveland earlier in August. He'll figure to seek another opportunity during training camp. ",
-      "link": "https://www.fantasypros.com/nfl/news/603594/jeadyn-lukus-waived-by-browns.php",
-      "player_id": 28311,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jeadyn Lukus waived by Browns "
     }
   ],
   "public_api_limited": true,

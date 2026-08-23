@@ -1,5 +1,5 @@
 {
-  "count": "202",
+  "count": "201",
   "players": [
     {
       "filename": "maxx-crosby.php",
@@ -897,29 +897,6 @@
         "points_ppr": 122.08
       },
       "team_id": "BUF"
-    },
-    {
-      "filename": "alex-wright.php",
-      "fpid": 24540,
-      "mflid": 15864,
-      "name": "Alex Wright",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 19.81,
-        "def_ff": 1.45,
-        "def_fr": 0.94,
-        "def_int": 0.11,
-        "def_pd": 1.35,
-        "def_sack": 6.03,
-        "def_safety": 0,
-        "def_tackle": 46.79,
-        "def_td": 0.1,
-        "def_tlost": 0,
-        "points": 121.9,
-        "points_half": 121.9,
-        "points_ppr": 121.9
-      },
-      "team_id": "CLE"
     },
     {
       "filename": "demarcus-lawrence.php",
