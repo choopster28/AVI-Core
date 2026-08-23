@@ -30,6 +30,33 @@
       ]
     },
     {
+      "orgId": "conquistadors",
+      "orgName": "Conquistadors",
+      "updatedAt": "2026-08-23T03:32:33.233Z",
+      "answers": [
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "183"
+        },
+        {
+          "team": "Lightskin Legends",
+          "tiebreaker": "152"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "203"
+        },
+        {
+          "team": "Northside Kings",
+          "tiebreaker": "56"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "182"
+        }
+      ]
+    },
+    {
       "orgId": "rapid-valley",
       "orgName": "Rapid Valley Annihilation",
       "updatedAt": "2026-08-17T13:41:34.419Z",
