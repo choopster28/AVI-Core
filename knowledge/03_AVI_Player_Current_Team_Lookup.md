@@ -1292,14 +1292,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
-## PLAYER LOOKUP: Malik Benson
-- Player name: Malik Benson
-- Player ID: 13329
-- Position: WR
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
 ## PLAYER LOOKUP: Malik Nabers
 - Player name: Malik Nabers
 - Player ID: 11632
@@ -1603,6 +1595,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
+
+## PLAYER LOOKUP: Ryan Flournoy
+- Player name: Ryan Flournoy
+- Player ID: 11783
+- Position: WR
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Sam Darnold
 - Player name: Sam Darnold
@@ -2044,15 +2044,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 57.1
 - Availability: available
 
-## AVAILABLE PLAYER: Ryan Flournoy
-- Player name: Ryan Flournoy
-- Player ID: 11783
-- Position: WR
-- NFL team: DAL
-- Championship AVI (C-AVI, 0-100): 39.6
-- Dynasty AVI (D-AVI, 0-100): 65.8
-- Availability: available
-
 ## AVAILABLE PLAYER: Darius Slayton
 - Player name: Darius Slayton
 - Player ID: 6149
@@ -2330,6 +2321,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ARI
 - Championship AVI (C-AVI, 0-100): 32.0
 - Dynasty AVI (D-AVI, 0-100): 57.6
+- Availability: available
+
+## AVAILABLE PLAYER: Malik Benson
+- Player name: Malik Benson
+- Player ID: 13329
+- Position: WR
+- NFL team: LVR
+- Championship AVI (C-AVI, 0-100): 32.0
+- Dynasty AVI (D-AVI, 0-100): 52.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Daniel Bellinger
