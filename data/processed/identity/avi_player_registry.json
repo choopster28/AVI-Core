@@ -6305,7 +6305,7 @@
       "confidence": "verified",
       "method": "exact_name_position_unique"
     },
-    "nfl_team": "NE",
+    "nfl_team": "HOU",
     "normalized_name": "kayshon boutte",
     "position": "WR",
     "source_ids": {
@@ -10198,8 +10198,8 @@
     "avi_id": "AVI-00011589",
     "canonical_name": "Trey Benson",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "ARI",
     "normalized_name": "trey benson",
@@ -10663,6 +10663,31 @@
       "sleeper_id": "3321",
       "sportradar_id": "01d8aee3-e1c4-4988-970a-8c0c2d08bd83",
       "sportsdata_player_id": "01d8aee3-e1c4-4988-970a-8c0c2d08bd83"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Tyrod Taylor"
+    ],
+    "avi_id": "AVI-00000827",
+    "canonical_name": "Tyrod Taylor",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "GB",
+    "normalized_name": "tyrod taylor",
+    "position": "QB",
+    "source_ids": {
+      "espn_id": 14163,
+      "fantasy_data_id": 12831,
+      "fantasypros_id": "10007",
+      "nfl_id": "2495240",
+      "rotowire_id": 7357,
+      "sleeper_id": "827",
+      "sportradar_id": "7f3ef024-eb34-46af-8b9e-544cdf09378f",
+      "sportsdata_player_id": "7f3ef024-eb34-46af-8b9e-544cdf09378f"
     }
   },
   {

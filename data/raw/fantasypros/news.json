@@ -1,7 +1,201 @@
 {
-  "count": 22,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-24 21:14:58",
+      "created_formated": "Mon, Aug 24th 9:14pm UTC",
+      "desc": "Dylan Horton will miss the entirety of the 2026 season due to a torn Achilles. ",
+      "id": 604039,
+      "impact": "Tests confirmed the severity of Horton's injury on Monday. The fourth-year defensive end played in 16 games for the Texans last season, recording 26 tackles, 0.5 sacks, and one forced fumble.",
+      "link": "https://www.fantasypros.com/nfl/news/604039/dylan-horton-achilles-to-miss-2026-season.php",
+      "player_id": 25497,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Dylan Horton (Achilles) to miss the 2026 season"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-24 20:56:11",
+      "created_formated": "Mon, Aug 24th 8:56pm UTC",
+      "desc": "The Cardinals waived/injured running back Trey Benson.",
+      "id": 604029,
+      "impact": "Benson would revert to the Cardinals IR list if he were to clear waivers. He had been at the end of the backfield's depth chart following the offseason additions of Jeremiyah Love and Tyler Allgeier. ",
+      "link": "https://www.fantasypros.com/nfl/news/604029/trey-benson-waived-by-cardinals.php",
+      "player_id": 25388,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Trey Benson waived by Cardinals "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-24 20:53:16",
+      "created_formated": "Mon, Aug 24th 8:53pm UTC",
+      "desc": "Giants head coach John Harbaugh said \"it's reasonable to assume\" that Malik Nabers is trending toward being ready for Week 1. ",
+      "id": 604027,
+      "impact": "Nabers was able to practice on Monday without the red non-contact jersey. Barring a setback, he is trending towards being ready for the start of the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/604027/malik-nabers-knee-could-be-ready-week-1.php",
+      "player_id": 25409,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Malik Nabers (knee) could be ready for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-24 19:09:04",
+      "created_formated": "Mon, Aug 24th 7:09pm UTC",
+      "desc": "The Patriots are sending WR Kayshon Boutte to the Texans in exchange for safety Jaylen Reed and a 2028 seventh-round pick. ",
+      "id": 604020,
+      "impact": "Boutte has had his name in trade rumors for most of the offseason following the Patriots offseason additions of AJ Brown and Romeo Doubs. Boutte will get a fresh start in a wide open wide receiver room with Houston. He should compete for a role as a field stretcher for the Texans. ",
+      "link": "https://www.fantasypros.com/nfl/news/604020/kayshon-boutte-traded-to-texans.php",
+      "player_id": 22989,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Kayshon Boutte traded to Texans "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-24 17:46:08",
+      "created_formated": "Mon, Aug 24th 5:46pm UTC",
+      "desc": "Zay Flowers is not practicing on Monday for unclear reasons. ",
+      "id": 604013,
+      "impact": "Flowers walked onto the practice field in sneakers and a T-shirt on Monday. There should be an update on his status when available. ",
+      "link": "https://www.fantasypros.com/nfl/news/604013/zay-flowers-not-practicing-monday.php",
+      "player_id": 22916,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Zay Flowers not practicing Monday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-24 17:08:49",
+      "created_formated": "Mon, Aug 24th 5:08pm UTC",
+      "desc": "Makai Lemon (hamstring) is back to practicing fully for the first time in weeks. He returned to practice in a limited fashion last week, and is now practicing in full.",
+      "id": 604012,
+      "impact": "This is huge for Lemon's development and integration into the offense. The more reps he gets, especially as a rookie, the better. He's looking like a potential draft steal if he can continue to stay healthy and improve his game.",
+      "link": "https://www.fantasypros.com/nfl/news/604012/makai-lemon-hamstring-practicing-full-on-monday.php",
+      "player_id": 25420,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Makai Lemon (hamstring) practicing in full on Monday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-24 17:06:23",
+      "created_formated": "Mon, Aug 24th 5:06pm UTC",
+      "desc": "Devonta Smith (hamstring) is practicing fully on Monday for the first time in three weeks. He returned in a limited fashion recently, but he is back to fully participating.",
+      "id": 604011,
+      "impact": "It's great news for Smith as he works his way back from a hamstring injury. This should be the all the confidence boost fantasy managers needed to continue targeting him highly in drafts.",
+      "link": "https://www.fantasypros.com/nfl/news/604011/devonta-smith-practicing-fully-on-monday.php",
+      "player_id": 19222,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "DeVonta Smith practicing fully on Monday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-24 17:00:35",
+      "created_formated": "Mon, Aug 24th 5:00pm UTC",
+      "desc": "TreVeyon Henderson slipped during practice while making a cut and left practice early.",
+      "id": 604010,
+      "impact": "Hopefully it's just a precaution and nothing serious, more along the vein of a stinger than anything major. Still, fantasy managers will need to wait until more news emerges to really get a grip on the details.",
+      "link": "https://www.fantasypros.com/nfl/news/604010/treveyon-henderson-departs-practice-early.php",
+      "player_id": 23065,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "TreVeyon Henderson departs practice early"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-24 16:24:05",
+      "created_formated": "Mon, Aug 24th 4:24pm UTC",
+      "desc": "The Saints signed K Daniel Carlson. ",
+      "id": 604009,
+      "impact": " Carlson will compete with Tanner Brown and Charlie Smyth for the starting kicker job for New Orleans. ",
+      "link": "https://www.fantasypros.com/nfl/news/604009/daniel-carlson-signs-with-saints.php",
+      "player_id": 17420,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Daniel Carlson signs with Saints "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-24 16:22:27",
+      "created_formated": "Mon, Aug 24th 4:22pm UTC",
+      "desc": "The Giants waived WR Ryan Miller.",
+      "id": 604008,
+      "impact": "Miller will figure to seek another opportunity during training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/604008/ryan-miller-waived-by-giants.php",
+      "player_id": 25857,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Ryan Miller waived by Giants "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-24 14:06:26",
+      "created_formated": "Mon, Aug 24th 2:06pm UTC",
+      "desc": "Deshaun Watson has been named the Browns starting QB for Week 1 against Jacksonville.",
+      "id": 604002,
+      "impact": "Watson was the favorite to win the job going in, and even though he had some hiccups on the way, namely preseason struggles and the fans booing him, he won out in the end. It's still likely that Shedeur Sanders will get a crack as the starter at some point this year, it's just a matter of when. As for the Browns pass catchers, they were priced assuming bad QB play, expect their price and fantasy ceiling to remain about the same, as Watson is past his prime and Sanders is also struggling.",
+      "link": "https://www.fantasypros.com/nfl/news/604002/deshaun-watson-named-browns-starter-week-1.php",
+      "player_id": 16398,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Deshaun Watson named Browns starter for Week 1"
+    },
     {
       "author": "Diego Sandoval",
       "categories": [
@@ -233,164 +427,6 @@
       "sport_id": "NFL",
       "team_id": "WAS",
       "title": "Jayden Daniels expected to play against Lions"
-    },
-    {
-      "author": "Cooper Kleinberg",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-22 14:15:04",
-      "created_formated": "Sat, Aug 22nd 2:15pm UTC",
-      "desc": "Commanders WR Terry McLaurin is set to start against the Lions on Saturday.",
-      "id": 603780,
-      "impact": "McLaurin enters the fantasy football season as a top-50 selection. He and Jayden Daniels will have an opportunity to build momentum ahead of the regular season.",
-      "link": "https://www.fantasypros.com/nfl/news/603780/terry-mclaurin-expected-to-play-against-lions.php",
-      "player_id": 18466,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Terry McLaurin expected to play against Lions"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Breaking"
-      ],
-      "created": "2026-08-22 01:27:14",
-      "created_formated": "Sat, Aug 22nd 1:27am UTC",
-      "desc": "Nick Chubb has announced his retirement from the NFL via his personal Instagram.",
-      "id": 603706,
-      "impact": "Chubb had a great NFL career as one of the most taleneted runners of the football of his generation. Coming out of Georgia with questions surrounding his health, he ended his time in Cleveland as one of the best running backs the franchise has seen before moving to Houston last year. He ends his eight year career with four Pro-Bowls, over 7,300 rushing yards at five yards per carry, and 54 rushing touchdowns.",
-      "link": "https://www.fantasypros.com/nfl/news/603706/nick-chubb-announces-retirement.php",
-      "player_id": 17246,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Nick Chubb announces retirement"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-22 00:51:29",
-      "created_formated": "Sat, Aug 22nd 12:51am UTC",
-      "desc": "Seahawks head coach Mike Macdonald said WR Tory Horton will be out \"for a period of time.\" ",
-      "id": 603699,
-      "impact": "\"He's still working through his stuff,\" Macdonald said. \"He's going to be out for a period of time.\" Horton had his rookie season end early last year due to a shin injury. His status for Week 1 is uncertain. ",
-      "link": "https://www.fantasypros.com/nfl/news/603699/tory-horton-to-be-out-period-time.php",
-      "player_id": 26022,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Tory Horton to 'be out for a period of time'"
-    },
-    {
-      "author": "Cooper Kleinberg",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 21:00:10",
-      "created_formated": "Fri, Aug 21st 9:00pm UTC",
-      "desc": "Veteran WR Zay Jones is signing with the Houston Texans",
-      "id": 603662,
-      "impact": "Jones provides the Texans with some insurance at the WR position after Jayden Higgins suffered a season-ending injury. At age 31, however, he remains a player with minimal fantasy value.",
-      "link": "https://www.fantasypros.com/nfl/news/603662/zay-jones-signing-with-texans.php",
-      "player_id": 16431,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Zay Jones signing with Texans"
-    },
-    {
-      "author": "Cooper Kleinberg",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 20:55:45",
-      "created_formated": "Fri, Aug 21st 8:55pm UTC",
-      "desc": "Veteran WR Sterling Shepard is signing with the Houston Texans",
-      "id": 603661,
-      "impact": "Shepard signs with the Texans following Jayden Higgins' season-ending injury. Unfortunately, at age 33, he remains with little to no value in fantasy.",
-      "link": "https://www.fantasypros.com/nfl/news/603661/sterling-shepard-signing-with-texans.php",
-      "player_id": 15569,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Sterling Shepard signing with Texans"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 20:13:01",
-      "created_formated": "Fri, Aug 21st 8:13pm UTC",
-      "desc": "Free agent WR Josh Reynolds has been linked to the Texans. ",
-      "id": 603647,
-      "impact": "Houston is holding workouts after losing Jayden Higgins for the season. Reynolds previously worked out for the Saints. ",
-      "link": "https://www.fantasypros.com/nfl/news/603647/josh-reynolds-linked-to-texans.php",
-      "player_id": 16439,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Josh Reynolds linked to Texans"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 19:07:31",
-      "created_formated": "Fri, Aug 21st 7:07pm UTC",
-      "desc": "The Houston Texans officially placed Jayden Higgins on the season-ending injured reserve with a torn ACL.",
-      "id": 603621,
-      "impact": "This was expected after Higgins was announced to have torn his ACL in a joint practice with the Raiders on Tuesday. Nico Collins is now likely the only Houston receiver on the fantasy radar, with Tank Dell still working back to full health and Xavier Hutchinson likely going undrafted in fantasy drafts. Dalton Schultz could see more opportunity with this injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/603621/jayden-higgins-knee-officially-placed-on-season-ending-ir.php",
-      "player_id": 27077,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Jayden Higgins (knee) officially placed on season-ending IR"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 18:10:33",
-      "created_formated": "Fri, Aug 21st 6:10pm UTC",
-      "desc": "Tyreek Hill is not expected to sign with a team before the season begins, according to his agent Drew Rosenhaus.",
-      "id": 603619,
-      "impact": "Hill has been on the long road to recovery after sustaining a major knee injury in Week 4 last season, and it looks like he will remain a free agent when the 2026 season begins. However, the 32-year-old could receive interest from contenders as the season goes on if he continues to progress in his rehab.",
-      "link": "https://www.fantasypros.com/nfl/news/603619/tyreek-hill-not-expected-to-sign-before-week-1.php",
-      "player_id": 15802,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Tyreek Hill not expected to sign before Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 16:01:23",
-      "created_formated": "Fri, Aug 21st 4:01pm UTC",
-      "desc": "Titans rookie WR Carnell Tate returned to practice on Friday. ",
-      "id": 603608,
-      "impact": "Tate missed practice time earlier this week due to \"stiffness.\" The rookie could see some more reps in Sunday's preseason game against the Seahawks. ",
-      "link": "https://www.fantasypros.com/nfl/news/603608/carnell-tate-returns-to-practice-friday.php",
-      "player_id": 26009,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Carnell Tate returns to practice Friday"
     }
   ],
   "public_api_limited": true,

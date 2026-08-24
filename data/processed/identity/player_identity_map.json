@@ -37,6 +37,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "10007",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "GB",
+    "player_name": "Tyrod Taylor",
+    "position": "QB",
+    "sleeper_id": "827"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "11177",
     "match_method": "exact_name_position_unique",
     "nfl_team": "LVR",
@@ -639,10 +648,10 @@
     "sleeper_id": "5001"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "17420",
-    "match_method": "exact_name_position",
-    "nfl_team": "LVR",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NO",
     "player_name": "Daniel Carlson",
     "position": "K",
     "sleeper_id": "5095"
@@ -1785,7 +1794,7 @@
     "confidence": "verified",
     "fantasypros_id": "22989",
     "match_method": "exact_name_position_unique",
-    "nfl_team": "NE",
+    "nfl_team": "HOU",
     "player_name": "Kayshon Boutte",
     "position": "WR",
     "sleeper_id": "9504"
@@ -2835,10 +2844,10 @@
     "sleeper_id": "13416"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "25388",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "ARI",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Trey Benson",
     "position": "RB",
     "sleeper_id": "11589"
@@ -3499,6 +3508,15 @@
     "player_name": "British Brooks",
     "position": "RB",
     "sleeper_id": "12171"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "26763",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "IND",
+    "player_name": "Spencer Shrader",
+    "position": "K",
+    "sleeper_id": "12185"
   },
   {
     "confidence": "review",
@@ -4174,15 +4192,6 @@
     "player_name": "Matt Hibner",
     "position": "TE",
     "sleeper_id": "13324"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "28175",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "WAS",
-    "player_name": "Drew Stevens",
-    "position": "K",
-    "sleeper_id": "13968"
   },
   {
     "confidence": "verified",
