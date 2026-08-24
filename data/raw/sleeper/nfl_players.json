@@ -18597,7 +18597,7 @@
   },
   "11022": {
     "active": true,
-    "age": 25,
+    "age": 26,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2000-08-24",
@@ -55439,7 +55439,7 @@
       "genius_id": "1483123",
       "rookie_year": "2024"
     },
-    "news_updated": 1768372260265,
+    "news_updated": 1787525733490,
     "number": 34,
     "oddsjam_id": "371C1ED4EEC8",
     "opta_id": null,
@@ -133011,7 +133011,7 @@
     "college": "Maryland",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DL",
     "espn_id": null,
     "fantasy_data_id": 26219,
     "fantasy_positions": [
@@ -148992,7 +148992,7 @@
   },
   "12978": {
     "active": true,
-    "age": 23,
+    "age": 24,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2002-08-24",
@@ -169174,10 +169174,10 @@
     "hashtag": "#carnelltate-NFL-TEN-14",
     "height": "74",
     "high_school": "IMG Academy (FL)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "8379d19f-0f21-447a-afa1-b47076a62203",
     "last_name": "Tate",
     "metadata": {
@@ -169185,7 +169185,7 @@
       "rookie_year": "2026",
       "source_id": "9f49c9b0-9d24-11ed-83ea-ab152886418a"
     },
-    "news_updated": 1787330137341,
+    "news_updated": 1787529935157,
     "number": 14,
     "oddsjam_id": null,
     "opta_id": null,
@@ -171008,7 +171008,7 @@
       "rookie_year": "2026",
       "source_id": "6a695fd0-4b04-4185-8bb8-06d4f54a5739"
     },
-    "news_updated": 1787524234433,
+    "news_updated": 1787525433470,
     "number": 30,
     "oddsjam_id": null,
     "opta_id": null,
@@ -172760,7 +172760,7 @@
     "college": "Ole Miss",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "TE",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26792,
     "fantasy_positions": [
@@ -177806,7 +177806,7 @@
   },
   "13406": {
     "active": true,
-    "age": 21,
+    "age": 22,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2004-08-24",
@@ -179899,7 +179899,7 @@
     "birth_state": null,
     "college": "Oregon",
     "competitions": [],
-    "depth_chart_order": 5,
+    "depth_chart_order": 6,
     "depth_chart_position": "RB",
     "espn_id": null,
     "fantasy_data_id": 26830,
@@ -185526,7 +185526,7 @@
   },
   "13521": {
     "active": true,
-    "age": 23,
+    "age": 24,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2002-08-24",
@@ -194368,7 +194368,7 @@
     "college": "NC State",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28274,
     "fantasy_positions": [
@@ -197148,7 +197148,7 @@
       "genius_id": "1513172",
       "rookie_year": "2026"
     },
-    "news_updated": 1778272841183,
+    "news_updated": 1787524533396,
     "number": 84,
     "oddsjam_id": null,
     "opta_id": null,
@@ -199107,7 +199107,7 @@
     "college": "Tulsa",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "RB",
     "espn_id": null,
     "fantasy_data_id": 28351,
     "fantasy_positions": [
@@ -205007,7 +205007,7 @@
     "college": "Kansas",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "K",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28396,
     "fantasy_positions": [
@@ -205854,7 +205854,7 @@
     "college": "Louisville",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "SWR",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26937,
     "fantasy_positions": [
@@ -208987,7 +208987,7 @@
     "college": "Wyoming",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "RB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28477,
     "fantasy_positions": [
@@ -210906,7 +210906,7 @@
     "college": "Toledo",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DL",
     "espn_id": null,
     "fantasy_data_id": 28508,
     "fantasy_positions": [
@@ -214218,7 +214218,7 @@
     "college": "Ball State",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DL",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28478,
     "fantasy_positions": [
@@ -224152,7 +224152,7 @@
   },
   "1428": {
     "active": true,
-    "age": 35,
+    "age": 36,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1990-08-24",
@@ -350500,7 +350500,7 @@
   },
   "3383": {
     "active": true,
-    "age": 32,
+    "age": 33,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1993-08-24",
@@ -485036,7 +485036,7 @@
     "college": "Central Arkansas",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "DB",
     "espn_id": 3050199,
     "fantasy_data_id": 20492,
     "fantasy_positions": [
@@ -485059,7 +485059,7 @@
       "genius_id": "1067319",
       "rookie_year": "2018"
     },
-    "news_updated": 1764102639876,
+    "news_updated": 1787524834594,
     "number": 39,
     "oddsjam_id": "81AF570B9115",
     "opta_id": null,
@@ -490873,7 +490873,7 @@
   },
   "5534": {
     "active": true,
-    "age": 30,
+    "age": 31,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1995-08-24",
@@ -511802,7 +511802,7 @@
       "genius_id": "1014418",
       "rookie_year": "2019"
     },
-    "news_updated": 1786889412049,
+    "news_updated": 1787528734836,
     "number": 2,
     "oddsjam_id": "8DAB15332582",
     "opta_id": null,
@@ -536038,8 +536038,8 @@
     "birth_state": null,
     "college": "Colorado",
     "competitions": [],
-    "depth_chart_order": 7,
-    "depth_chart_position": "SWR",
+    "depth_chart_order": null,
+    "depth_chart_position": null,
     "espn_id": 3128317,
     "fantasy_data_id": 21115,
     "fantasy_positions": [
@@ -536062,7 +536062,7 @@
       "genius_id": "1017215",
       "rookie_year": "2019"
     },
-    "news_updated": 1786400431115,
+    "news_updated": 1787525134597,
     "number": 11,
     "oddsjam_id": "B656A1B189F3",
     "opta_id": null,
@@ -588680,7 +588680,7 @@
   },
   "7044": {
     "active": true,
-    "age": 27,
+    "age": 28,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1998-08-24",
@@ -635997,7 +635997,7 @@
       "genius_id": "1012568",
       "rookie_year": "2021"
     },
-    "news_updated": 1786181128824,
+    "news_updated": 1787524834590,
     "number": 69,
     "oddsjam_id": "70648A39211F",
     "opta_id": null,
@@ -661137,8 +661137,8 @@
     "birth_state": null,
     "college": "Cincinnati",
     "competitions": [],
-    "depth_chart_order": 6,
-    "depth_chart_position": "RB",
+    "depth_chart_order": null,
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 23205,
     "fantasy_positions": [
@@ -661161,7 +661161,7 @@
       "genius_id": "1081515",
       "rookie_year": "2022"
     },
-    "news_updated": 1787096751346,
+    "news_updated": 1787525134593,
     "number": 34,
     "oddsjam_id": "C713CA22D196",
     "opta_id": null,
@@ -669699,7 +669699,7 @@
   },
   "8271": {
     "active": true,
-    "age": 25,
+    "age": 26,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2000-08-24",
@@ -671996,7 +671996,7 @@
   },
   "8305": {
     "active": true,
-    "age": 26,
+    "age": 27,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1999-08-24",
@@ -672357,7 +672357,7 @@
   },
   "8310": {
     "active": true,
-    "age": 24,
+    "age": 25,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2001-08-24",
@@ -682183,7 +682183,7 @@
   },
   "8458": {
     "active": true,
-    "age": 26,
+    "age": 27,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1999-08-24",
@@ -704199,7 +704199,7 @@
       "genius_id": "1007493",
       "rookie_year": "2022"
     },
-    "news_updated": 1787462428791,
+    "news_updated": 1787526333504,
     "number": 20,
     "oddsjam_id": "9E8952BD6072",
     "opta_id": null,
@@ -719316,8 +719316,8 @@
     "birth_state": null,
     "college": "Kansas State",
     "competitions": [],
-    "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_order": 5,
+    "depth_chart_position": "RB",
     "espn_id": null,
     "fantasy_data_id": 24188,
     "fantasy_positions": [
@@ -719340,7 +719340,7 @@
       "genius_id": "1399259",
       "rookie_year": "2023"
     },
-    "news_updated": 1778696428725,
+    "news_updated": 1787524534477,
     "number": 42,
     "oddsjam_id": "A25DDE4E579B",
     "opta_id": null,
