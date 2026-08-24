@@ -450,22 +450,6 @@
       "team_id": "ARI"
     },
     {
-      "filename": "matt-gay.php",
-      "fpid": 18545,
-      "mflid": 14244,
-      "name": "Matt Gay",
-      "position_id": "K",
-      "stats": {
-        "fg": 25.84,
-        "fga": 32.47,
-        "points": 108.08,
-        "points_half": 108.08,
-        "points_ppr": 108.08,
-        "xpt": 30.55
-      },
-      "team_id": "LV"
-    },
-    {
       "filename": "ryan-fitzgerald.php",
       "fpid": 27261,
       "mflid": 17277,
@@ -480,6 +464,22 @@
         "xpt": 31.39
       },
       "team_id": "CAR"
+    },
+    {
+      "filename": "matt-gay.php",
+      "fpid": 18545,
+      "mflid": 14244,
+      "name": "Matt Gay",
+      "position_id": "K",
+      "stats": {
+        "fg": 25.51,
+        "fga": 31.81,
+        "points": 106.08,
+        "points_half": 106.08,
+        "points_ppr": 106.08,
+        "xpt": 29.55
+      },
+      "team_id": "LV"
     },
     {
       "filename": "andre-szmyt.php",

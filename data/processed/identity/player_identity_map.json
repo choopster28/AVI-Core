@@ -667,6 +667,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "17533",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NYJ",
+    "player_name": "Jason Sanders",
+    "position": "K",
+    "sleeper_id": "5119"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "17575",
     "match_method": "exact_name_position_unique",
     "nfl_team": "SF",
@@ -682,6 +691,15 @@
     "player_name": "Tyler Conklin",
     "position": "TE",
     "sleeper_id": "5133"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "17826",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CIN",
+    "player_name": "Tanner Hudson",
+    "position": "TE",
+    "sleeper_id": "5409"
   },
   {
     "confidence": "verified",
@@ -817,6 +835,15 @@
     "player_name": "KaVontae Turpin",
     "position": "WR",
     "sleeper_id": "8917"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "18557",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "TB",
+    "player_name": "Jake Browning",
+    "position": "QB",
+    "sleeper_id": "6111"
   },
   {
     "confidence": "verified",
@@ -2449,6 +2476,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "24345",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PIT",
+    "player_name": "Drew Allar",
+    "position": "QB",
+    "sleeper_id": "13289"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "24346",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NYJ",
@@ -2548,6 +2584,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "24372",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LAC",
+    "player_name": "KeAndre Lambert-Smith",
+    "position": "WR",
+    "sleeper_id": "12670"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "24687",
     "match_method": "exact_name_position_unique",
     "nfl_team": "SEA",
@@ -2599,6 +2644,15 @@
     "player_name": "Luke Schoonmaker",
     "position": "TE",
     "sleeper_id": "10871"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "25269",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "HOU",
+    "player_name": "Cade Stover",
+    "position": "TE",
+    "sleeper_id": "11599"
   },
   {
     "confidence": "verified",
@@ -2932,6 +2986,15 @@
     "player_name": "Emari Demercado",
     "position": "RB",
     "sleeper_id": "11199"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "25693",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Jacob Saylors",
+    "position": "RB",
+    "sleeper_id": "11237"
   },
   {
     "confidence": "verified",
@@ -3427,6 +3490,15 @@
     "player_name": "Harrison Mevis",
     "position": "K",
     "sleeper_id": "12015"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "26748",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "HOU",
+    "player_name": "British Brooks",
+    "position": "RB",
+    "sleeper_id": "12171"
   },
   {
     "confidence": "review",

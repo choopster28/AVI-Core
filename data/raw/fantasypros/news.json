@@ -3,23 +3,75 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Chris Schommer",
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-24 05:53:15",
+      "created_formated": "Mon, Aug 24th 5:53am UTC",
+      "desc": "Zamir White was traded to the New Orleans Saints on Sunday in exchange for Deion Jones.",
+      "id": 603990,
+      "impact": "White is now heading to New Orleans after being picked up by the 49ers this offseason. The 26-year-old is likely being brought in as a depth piece behind Travis Etienne Jr. following the injury to Alvin Kamara, who is expected to be sidelined for a month with a sprained MCL.",
+      "link": "https://www.fantasypros.com/nfl/news/603990/zamir-white-traded-to-saints.php",
+      "player_id": 20095,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Zamir White traded to Saints"
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-24 05:50:30",
+      "created_formated": "Mon, Aug 24th 5:50am UTC",
+      "desc": "Deion Jones was traded to the San Francisco 49ers on Sunday in exchange for Zamir White.",
+      "id": 603989,
+      "impact": "Jones is now on his way to the West Coast after signing with the Saints earlier in the month. The linebacker appeared in 17 games with Tampa Bay last season and will look to provide a veteran presence for the 49ers' linebacker room.",
+      "link": "https://www.fantasypros.com/nfl/news/603989/deion-jones-traded-to-49ers.php",
+      "player_id": 15608,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Deion Jones traded to 49ers"
+    },
+    {
+      "author": "Diego Sandoval",
       "categories": [
         "Commentary",
         "News",
         "Injury",
         "Breaking"
       ],
-      "created": "2026-08-23 21:52:33",
-      "created_formated": "Sun, Aug 23rd 9:52pm UTC",
-      "desc": "Ashton Jeanty exited practice for the Las Vegas Raiders Sunday after suffering an apparent knee injury according to Ryan McFadden.",
-      "id": 603948,
-      "impact": "Jeanty suffered the apparent right knee injury after attempting to make a diving catch in team drills and was unable to put weight on his right leg afterward. The running back was set to take advantage of an elite-level workload as part of new head coach Klint Kubiak's zone running scheme entering the 2026 regular season. Fantasy managers will need to monitor his status as he heads for further evaluation on the extent of the injury. Mike Washington Jr. would be in line to take over No. 1 running back duties if Jeanty is forced to miss any period of time.",
-      "link": "https://www.fantasypros.com/nfl/news/603948/ashton-jeanty-suffers-knee-injury-sunday.php",
+      "created": "2026-08-24 03:02:35",
+      "created_formated": "Mon, Aug 24th 3:02am UTC",
+      "desc": "Ashton Jeanty is believed to have suffered a sprained ankle at practice on Sunday.",
+      "id": 603980,
+      "impact": "Jeanty was unable to put weight on his right leg after going down on Sunday, and it was originally believed to be a serious knee injury. However, the running back and the Raiders seemed to have dodged a bullet and avoided a long-term absence. However, the extent of the ankle sprain and timetable for his return remain unknown.",
+      "link": "https://www.fantasypros.com/nfl/news/603980/ashton-jeanty-believed-to-have-sprained-ankle.php",
       "player_id": 25989,
       "sport_id": "NFL",
       "team_id": "LV",
-      "title": "Ashton Jeanty suffers knee injury Sunday"
+      "title": "Ashton Jeanty believed to have sprained ankle"
+    },
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-24 03:06:06",
+      "created_formated": "Mon, Aug 24th 3:06am UTC",
+      "desc": "Bud Clark was carted off from Sunday's preseason game with an apparent leg injury.",
+      "id": 603981,
+      "impact": "Clark's lower right leg was put in an aircast before he was carted off, which is never a good sign. The 2026 second-round pick will likely be on the shelf to begin the season, but a timetable will likely become available at some point this week.",
+      "link": "https://www.fantasypros.com/nfl/news/603981/bud-clark-leg-carted-off-from-sundays-preseason-game.php",
+      "player_id": 28212,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Bud Clark (leg) carted off from Sunday's preseason game"
     },
     {
       "author": "Garrett Ball",
@@ -339,59 +391,6 @@
       "sport_id": "NFL",
       "team_id": "TEN",
       "title": "Carnell Tate returns to practice Friday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 14:49:14",
-      "created_formated": "Fri, Aug 21st 2:49pm UTC",
-      "desc": "Ennis Rakestraw Jr. left practice early on Thursday with a leg injury. ",
-      "id": 603601,
-      "impact": "It is unclear how serious the injury is. Rakestraw is day-to-day for now. ",
-      "link": "https://www.fantasypros.com/nfl/news/603601/ennis-rakestraw-jr-suffers-leg-injury-thursday.php",
-      "player_id": 26220,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Ennis Rakestraw Jr. suffers leg injury Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-21 14:47:45",
-      "created_formated": "Fri, Aug 21st 2:47pm UTC",
-      "desc": "Lions coach Dan Campbell says Jimmy Rolder isn't likely to return to practice by next week.  ",
-      "id": 603600,
-      "impact": "Rolder went down with a leg injury earlier in August. He remains without a clear timetable to return. ",
-      "link": "https://www.fantasypros.com/nfl/news/603600/jimmy-rolder-leg-not-ready-to-return-to-practice.php",
-      "player_id": 28355,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jimmy Rolder (leg) not ready to return to practice "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-21 14:46:18",
-      "created_formated": "Fri, Aug 21st 2:46pm UTC",
-      "desc": "The Colts released Roydell Williams. ",
-      "id": 603599,
-      "impact": "Indianapolis signed WR Keenan Allen as the corresponding move. ",
-      "link": "https://www.fantasypros.com/nfl/news/603599/roydell-williams-released-by-colts.php",
-      "player_id": 9737,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Roydell Williams released by Colts"
     }
   ],
   "public_api_limited": true,

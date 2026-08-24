@@ -856,6 +856,31 @@
   {
     "active": true,
     "aliases": [
+      "British Brooks"
+    ],
+    "avi_id": "AVI-00012171",
+    "canonical_name": "British Brooks",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "HOU",
+    "normalized_name": "british brooks",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25452,
+      "fantasypros_id": "26748",
+      "nfl_id": "2573686",
+      "rotowire_id": 18300,
+      "sleeper_id": "12171",
+      "sportradar_id": "2ef88b80-07cf-11ef-96cf-876a6c13e638",
+      "sportsdata_player_id": "2ef88b80-07cf-11ef-96cf-876a6c13e638"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Brock Bowers"
     ],
     "avi_id": "AVI-00011604",
@@ -1076,6 +1101,31 @@
       "sleeper_id": "8111",
       "sportradar_id": "f23517bd-ae85-484a-8ecb-1f7a2d851e48",
       "sportsdata_player_id": "f23517bd-ae85-484a-8ecb-1f7a2d851e48"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Cade Stover"
+    ],
+    "avi_id": "AVI-00011599",
+    "canonical_name": "Cade Stover",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "HOU",
+    "normalized_name": "cade stover",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24986,
+      "fantasypros_id": "25269",
+      "nfl_id": "2572105",
+      "rotowire_id": 17794,
+      "sleeper_id": "11599",
+      "sportradar_id": "559d5222-0403-4a14-94c7-c7bd5072c939",
+      "sportsdata_player_id": "559d5222-0403-4a14-94c7-c7bd5072c939"
     }
   },
   {
@@ -2964,6 +3014,31 @@
   {
     "active": true,
     "aliases": [
+      "Drew Allar"
+    ],
+    "avi_id": "AVI-00013289",
+    "canonical_name": "Drew Allar",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "PIT",
+    "normalized_name": "drew allar",
+    "position": "QB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 28045,
+      "fantasypros_id": "24345",
+      "nfl_id": null,
+      "rotowire_id": 19286,
+      "sleeper_id": "13289",
+      "sportradar_id": "0667d256-9f37-4b21-b1c9-fb105aaf97a2",
+      "sportsdata_player_id": "0667d256-9f37-4b21-b1c9-fb105aaf97a2"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Dyami Brown"
     ],
     "avi_id": "AVI-00007587",
@@ -4193,6 +4268,31 @@
   {
     "active": true,
     "aliases": [
+      "Jacob Saylors"
+    ],
+    "avi_id": "AVI-00011237",
+    "canonical_name": "Jacob Saylors",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "DET",
+    "normalized_name": "jacob saylors",
+    "position": "RB",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24312,
+      "fantasypros_id": "25693",
+      "nfl_id": "2570840",
+      "rotowire_id": 17584,
+      "sleeper_id": "11237",
+      "sportradar_id": "99a7f770-ea18-11ed-a93b-a93886fe0bfd",
+      "sportsdata_player_id": "99a7f770-ea18-11ed-a93b-a93886fe0bfd"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Jacoby Brissett"
     ],
     "avi_id": "AVI-00003257",
@@ -4338,6 +4438,31 @@
       "sleeper_id": "9221",
       "sportradar_id": "fef9457e-6497-47de-9bf2-cc3b95929375",
       "sportsdata_player_id": "fef9457e-6497-47de-9bf2-cc3b95929375"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Jake Browning"
+    ],
+    "avi_id": "AVI-00006111",
+    "canonical_name": "Jake Browning",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "TB",
+    "normalized_name": "jake browning",
+    "position": "QB",
+    "source_ids": {
+      "espn_id": 3886812,
+      "fantasy_data_id": 21046,
+      "fantasypros_id": "18557",
+      "nfl_id": "2562634",
+      "rotowire_id": 13504,
+      "sleeper_id": "6111",
+      "sportradar_id": "f2f29019-7306-4b1c-a9d8-e9f802cb06e0",
+      "sportsdata_player_id": "f2f29019-7306-4b1c-a9d8-e9f802cb06e0"
     }
   },
   {
@@ -6217,6 +6342,31 @@
       "sleeper_id": "13405",
       "sportradar_id": "7980dd2b-0ce0-4936-aaff-536c09608429",
       "sportsdata_player_id": "7980dd2b-0ce0-4936-aaff-536c09608429"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "KeAndre Lambert-Smith"
+    ],
+    "avi_id": "AVI-00012670",
+    "canonical_name": "KeAndre Lambert-Smith",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "LAC",
+    "normalized_name": "keandre lambert smith",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26059,
+      "fantasypros_id": "24372",
+      "nfl_id": "2574521",
+      "rotowire_id": 18650,
+      "sleeper_id": "12670",
+      "sportradar_id": "2f6580d2-6f19-4a03-99e8-4dbd9ebf2a73",
+      "sportsdata_player_id": "2f6580d2-6f19-4a03-99e8-4dbd9ebf2a73"
     }
   },
   {
@@ -9410,6 +9560,31 @@
       "sleeper_id": "9502",
       "sportradar_id": "25e7b423-f716-4d1a-9623-cee3e7d822ab",
       "sportsdata_player_id": "25e7b423-f716-4d1a-9623-cee3e7d822ab"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Tanner Hudson"
+    ],
+    "avi_id": "AVI-00005409",
+    "canonical_name": "Tanner Hudson",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "CIN",
+    "normalized_name": "tanner hudson",
+    "position": "TE",
+    "source_ids": {
+      "espn_id": 3050481,
+      "fantasy_data_id": 20506,
+      "fantasypros_id": "17826",
+      "nfl_id": "2561215",
+      "rotowire_id": 13286,
+      "sleeper_id": "5409",
+      "sportradar_id": "2fa75e05-cac4-4b40-8924-dbc9ae0c959c",
+      "sportsdata_player_id": "2fa75e05-cac4-4b40-8924-dbc9ae0c959c"
     }
   },
   {
