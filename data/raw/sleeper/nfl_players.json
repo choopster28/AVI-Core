@@ -58797,7 +58797,7 @@
       "genius_id": "1463675",
       "rookie_year": "2024"
     },
-    "news_updated": 1787517333352,
+    "news_updated": 1787534134275,
     "number": 1,
     "oddsjam_id": "8838562B2670",
     "opta_id": null,
@@ -115175,7 +115175,7 @@
       "rookie_year": "2025",
       "source_id": "7092188d-d291-422d-9ab8-8e5aecec1204"
     },
-    "news_updated": 1787450427961,
+    "news_updated": 1787536534591,
     "number": 24,
     "oddsjam_id": "EF5926BE4151D118",
     "opta_id": null,
@@ -178572,7 +178572,7 @@
       "rookie_year": "2026",
       "source_id": "f0f9f984-0feb-4e43-9881-f075ca2b64e4"
     },
-    "news_updated": 1787509532779,
+    "news_updated": 1787535034351,
     "number": 15,
     "oddsjam_id": null,
     "opta_id": null,
@@ -180933,17 +180933,17 @@
     "hashtag": "#budclark-NFL-SEA-9",
     "height": "73",
     "high_school": "Alexandria (LA)",
-    "injury_body_part": null,
+    "injury_body_part": "Leg",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "ace77831-1628-4aaa-94a1-fbd485355fc6",
     "last_name": "Clark",
     "metadata": {
       "channel_id": "1353579178494025729",
       "rookie_year": "2026"
     },
-    "news_updated": 1778703929211,
+    "news_updated": 1787532335390,
     "number": 9,
     "oddsjam_id": null,
     "opta_id": null,
@@ -274995,7 +274995,7 @@
       "injury_override_regular_2025_4": "Out",
       "rookie_year": "2014"
     },
-    "news_updated": 1787448027063,
+    "news_updated": 1787534734448,
     "number": 5,
     "oddsjam_id": "4CE26B1D3BB5",
     "opta_id": null,
@@ -392556,7 +392556,7 @@
       "injury_override_regular_2024_14": "IR",
       "rookie_year": "2017"
     },
-    "news_updated": 1787518233390,
+    "news_updated": 1787534734440,
     "number": 23,
     "oddsjam_id": "431D7E287938",
     "opta_id": null,
@@ -403428,7 +403428,7 @@
       "injury_override_regular_2025_3": "IR",
       "rookie_year": "2017"
     },
-    "news_updated": 1786847706991,
+    "news_updated": 1787537734531,
     "number": 33,
     "oddsjam_id": "6A8C12F44A16",
     "opta_id": null,
@@ -660865,7 +660865,7 @@
       "genius_id": "1077841",
       "rookie_year": "2022"
     },
-    "news_updated": 1786887611945,
+    "news_updated": 1787538635592,
     "number": 30,
     "oddsjam_id": "5470F0979844",
     "opta_id": null,
@@ -695877,7 +695877,7 @@
       "injury_override_regular_2024_7": "IR",
       "rookie_year": "2022"
     },
-    "news_updated": 1786927518434,
+    "news_updated": 1787538034697,
     "number": 22,
     "oddsjam_id": "FA37E8B4FCFA",
     "opta_id": null,
