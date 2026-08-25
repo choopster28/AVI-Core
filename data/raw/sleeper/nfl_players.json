@@ -16574,7 +16574,7 @@
       "genius_id": "1399257",
       "rookie_year": "2023"
     },
-    "news_updated": 1785988844133,
+    "news_updated": 1787625044300,
     "number": 46,
     "oddsjam_id": "2A2F86E88C51",
     "opta_id": null,
@@ -184474,7 +184474,7 @@
       "channel_id": "1353835866669223936",
       "rookie_year": "2026"
     },
-    "news_updated": 1777140921640,
+    "news_updated": 1787625344116,
     "number": 74,
     "oddsjam_id": null,
     "opta_id": null,
@@ -194380,10 +194380,10 @@
     "hashtag": "#devonmarshall-NFL-JAX-40",
     "height": "71",
     "high_school": "Catholic Memorial (MA)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "IR",
     "kalshi_id": "ef36ff34-2a31-4cf7-bab4-912a2444d774",
     "last_name": "Marshall",
     "metadata": {
@@ -214231,10 +214231,10 @@
     "hashtag": "#nathanvoorhis-NFL-NYJ-69",
     "height": "74",
     "high_school": "Stroudsburg (PA)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "IR",
     "kalshi_id": "97a0b1ba-572f-4931-96cf-e9339babc218",
     "last_name": "Voorhis",
     "metadata": {
@@ -388818,7 +388818,7 @@
       "genius_id": "998602",
       "rookie_year": "2017"
     },
-    "news_updated": 1787613942127,
+    "news_updated": 1787628042622,
     "number": 95,
     "oddsjam_id": "FF569529F1AC",
     "opta_id": null,
@@ -521351,7 +521351,7 @@
       "genius_id": "1013642",
       "rookie_year": "2019"
     },
-    "news_updated": 1787585439183,
+    "news_updated": 1787628042622,
     "number": 43,
     "oddsjam_id": "EFEA19FE377C",
     "opta_id": null,
@@ -643747,7 +643747,7 @@
       "genius_id": "1005742",
       "rookie_year": "2021"
     },
-    "news_updated": 1778607321787,
+    "news_updated": 1787625044288,
     "number": 45,
     "oddsjam_id": "019F4DBB6EFC",
     "opta_id": null,
