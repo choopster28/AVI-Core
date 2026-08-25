@@ -1,5 +1,5 @@
 {
-  "count": "120",
+  "count": "123",
   "players": [
     {
       "filename": "brock-bowers.php",
@@ -332,12 +332,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.12,
-        "points": 94.75,
-        "points_half": 122.55,
-        "points_ppr": 150.35,
+        "points": 97.25,
+        "points_half": 125.05,
+        "points_ppr": 152.85,
         "rec_rec": 55.6,
-        "rec_tds": 5.08,
-        "rec_yds": 645.24,
+        "rec_tds": 5.41,
+        "rec_yds": 650.24,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -416,29 +416,6 @@
       "team_id": "NO"
     },
     {
-      "filename": "dalton-schultz.php",
-      "fpid": 17349,
-      "mflid": 13772,
-      "name": "Dalton Schultz",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.18,
-        "points": 83.82,
-        "points_half": 116.76,
-        "points_ppr": 149.7,
-        "rec_rec": 65.88,
-        "rec_tds": 3.37,
-        "rec_yds": 639.83,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "HOU"
-    },
-    {
       "filename": "terrance-ferguson.php",
       "fpid": 23091,
       "mflid": 17107,
@@ -460,6 +437,29 @@
         "scrimage_yards_200": 0
       },
       "team_id": "LAR"
+    },
+    {
+      "filename": "dalton-schultz.php",
+      "fpid": 17349,
+      "mflid": 13772,
+      "name": "Dalton Schultz",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.18,
+        "points": 82.59,
+        "points_half": 115.53,
+        "points_ppr": 148.47,
+        "rec_rec": 65.88,
+        "rec_tds": 3.37,
+        "rec_yds": 627.5,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "HOU"
     },
     {
       "filename": "pat-freiermuth.php",
@@ -1175,6 +1175,29 @@
       "team_id": "SEA"
     },
     {
+      "filename": "jake-tonges.php",
+      "fpid": 24778,
+      "mflid": 16036,
+      "name": "Jake Tonges",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.09,
+        "points": 28.93,
+        "points_half": 38.48,
+        "points_ppr": 48.04,
+        "rec_rec": 19.11,
+        "rec_tds": 1.52,
+        "rec_yds": 199.86,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "SF"
+    },
+    {
       "filename": "eli-stowers.php",
       "fpid": 23144,
       "mflid": 17544,
@@ -1252,12 +1275,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.56,
-        "points": 27.44,
-        "points_half": 36.83,
-        "points_ppr": 46.22,
+        "points": 27.69,
+        "points_half": 37.08,
+        "points_ppr": 46.47,
         "rec_rec": 18.79,
         "rec_tds": 1.55,
-        "rec_yds": 192.77,
+        "rec_yds": 195.27,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -1313,29 +1336,6 @@
       "team_id": "GB"
     },
     {
-      "filename": "marlin-klein.php",
-      "fpid": 28157,
-      "mflid": 17593,
-      "name": "Marlin Klein",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.52,
-        "points": 25.79,
-        "points_half": 35.53,
-        "points_ppr": 45.27,
-        "rec_rec": 19.49,
-        "rec_tds": 1.11,
-        "rec_yds": 201.57,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "HOU"
-    },
-    {
       "filename": "ben-sims.php",
       "fpid": 25349,
       "mflid": 16483,
@@ -1382,27 +1382,27 @@
       "team_id": "WAS"
     },
     {
-      "filename": "jake-tonges.php",
-      "fpid": 24778,
-      "mflid": 16036,
-      "name": "Jake Tonges",
+      "filename": "marlin-klein.php",
+      "fpid": 28157,
+      "mflid": 17593,
+      "name": "Marlin Klein",
       "position_id": "TE",
       "stats": {
         "2pt_tds": 0,
-        "fumbles": 0.05,
-        "points": 24.71,
-        "points_half": 33.08,
-        "points_ppr": 41.45,
-        "rec_rec": 16.74,
-        "rec_tds": 1.35,
-        "rec_yds": 167.24,
+        "fumbles": 0.52,
+        "points": 24.89,
+        "points_half": 34.63,
+        "points_ppr": 44.37,
+        "rec_rec": 19.49,
+        "rec_tds": 1.11,
+        "rec_yds": 192.57,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "SF"
+      "team_id": "HOU"
     },
     {
       "filename": "jatavion-sanders.php",
@@ -1735,12 +1735,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.07,
-        "points": 18.17,
-        "points_half": 25.8,
-        "points_ppr": 33.43,
+        "points": 17.87,
+        "points_half": 25.5,
+        "points_ppr": 33.13,
         "rec_rec": 15.26,
         "rec_tds": 0.87,
-        "rec_yds": 130.83,
+        "rec_yds": 127.83,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -1748,6 +1748,29 @@
         "scrimage_yards_200": 0
       },
       "team_id": "HOU"
+    },
+    {
+      "filename": "hayden-rucci.php",
+      "fpid": 26946,
+      "mflid": 17407,
+      "name": "Hayden Rucci",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 17.8,
+        "points_half": 23.8,
+        "points_ppr": 29.8,
+        "rec_rec": 12,
+        "rec_tds": 1,
+        "rec_yds": 118,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "SF"
     },
     {
       "filename": "luke-schoonmaker.php",
@@ -1842,29 +1865,6 @@
       "team_id": "ARI"
     },
     {
-      "filename": "rivaldo-fairweather.php",
-      "fpid": 27467,
-      "mflid": null,
-      "name": "Rivaldo Fairweather",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 16.9,
-        "points_half": 22.9,
-        "points_ppr": 28.9,
-        "rec_rec": 12,
-        "rec_tds": 1,
-        "rec_yds": 109,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "ARI"
-    },
-    {
       "filename": "mo-alie-cox.php",
       "fpid": 16579,
       "mflid": 13246,
@@ -1909,29 +1909,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "DEN"
-    },
-    {
-      "filename": "anthony-firkser.php",
-      "fpid": 16787,
-      "mflid": 13919,
-      "name": "Anthony Firkser",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 16.3,
-        "points_half": 22.3,
-        "points_ppr": 28.3,
-        "rec_rec": 12,
-        "rec_tds": 1,
-        "rec_yds": 103,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "FA"
     },
     {
       "filename": "tanner-hudson.php",
@@ -2003,6 +1980,75 @@
       "team_id": "CIN"
     },
     {
+      "filename": "jaheim-bell.php",
+      "fpid": 24747,
+      "mflid": 16646,
+      "name": "Jaheim Bell",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 15.8,
+        "points_half": 20.8,
+        "points_ppr": 25.8,
+        "rec_rec": 10,
+        "rec_tds": 1,
+        "rec_yds": 98,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "PIT"
+    },
+    {
+      "filename": "zach-ertz.php",
+      "fpid": 11689,
+      "mflid": 11247,
+      "name": "Zach Ertz",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 15.6,
+        "points_half": 20.1,
+        "points_ppr": 24.6,
+        "rec_rec": 9,
+        "rec_tds": 1,
+        "rec_yds": 96,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "jared-wiley.php",
+      "fpid": 26343,
+      "mflid": 16648,
+      "name": "Jared Wiley",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 15.6,
+        "points_half": 21.1,
+        "points_ppr": 26.6,
+        "rec_rec": 11,
+        "rec_tds": 1,
+        "rec_yds": 96,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "KC"
+    },
+    {
       "filename": "donald-parham.php",
       "fpid": 18835,
       "mflid": 14341,
@@ -2024,6 +2070,29 @@
         "scrimage_yards_200": 0
       },
       "team_id": "FA"
+    },
+    {
+      "filename": "drake-dabney.php",
+      "fpid": 27916,
+      "mflid": 17442,
+      "name": "Drake Dabney",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 15.5,
+        "points_half": 20.5,
+        "points_ppr": 25.5,
+        "rec_rec": 10,
+        "rec_tds": 1,
+        "rec_yds": 95,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "GB"
     },
     {
       "filename": "seydou-traore.php",
@@ -2118,29 +2187,6 @@
       "team_id": "CAR"
     },
     {
-      "filename": "payne-durham.php",
-      "fpid": 25346,
-      "mflid": 16218,
-      "name": "Payne Durham",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.03,
-        "points": 12.92,
-        "points_half": 16.73,
-        "points_ppr": 20.53,
-        "rec_rec": 7.62,
-        "rec_tds": 0.82,
-        "rec_yds": 80.78,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "TB"
-    },
-    {
       "filename": "max-klare.php",
       "fpid": 27993,
       "mflid": 17547,
@@ -2162,29 +2208,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "LAR"
-    },
-    {
-      "filename": "joe-royer.php",
-      "fpid": 27312,
-      "mflid": 17566,
-      "name": "Joe Royer",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.03,
-        "points": 12.14,
-        "points_half": 16.53,
-        "points_ppr": 20.91,
-        "rec_rec": 8.77,
-        "rec_tds": 0.67,
-        "rec_yds": 81.7,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "CLE"
     },
     {
       "filename": "devin-culp.php",
@@ -2210,27 +2233,27 @@
       "team_id": "TB"
     },
     {
-      "filename": "brevyn-spann-ford.php",
-      "fpid": 26003,
-      "mflid": 16647,
-      "name": "Brevyn Spann-Ford",
+      "filename": "tanner-koziol.php",
+      "fpid": 27499,
+      "mflid": 17644,
+      "name": "Tanner Koziol",
       "position_id": "TE",
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.02,
-        "points": 11.1,
-        "points_half": 14.81,
-        "points_ppr": 18.52,
-        "rec_rec": 7.43,
-        "rec_tds": 0.67,
-        "rec_yds": 71.37,
+        "points": 11.19,
+        "points_half": 14.67,
+        "points_ppr": 18.15,
+        "rec_rec": 6.96,
+        "rec_tds": 0.64,
+        "rec_yds": 73.84,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "DAL"
+      "team_id": "JAC"
     },
     {
       "filename": "sam-roush.php",
@@ -2256,6 +2279,52 @@
       "team_id": "CHI"
     },
     {
+      "filename": "justin-joly.php",
+      "fpid": 28079,
+      "mflid": 17548,
+      "name": "Justin Joly",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.02,
+        "points": 11.01,
+        "points_half": 15.02,
+        "points_ppr": 19.02,
+        "rec_rec": 8.01,
+        "rec_tds": 0.65,
+        "rec_yds": 71.43,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "DEN"
+    },
+    {
+      "filename": "payne-durham.php",
+      "fpid": 25346,
+      "mflid": 16218,
+      "name": "Payne Durham",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.05,
+        "points": 10.74,
+        "points_half": 14.35,
+        "points_ppr": 17.97,
+        "rec_rec": 7.23,
+        "rec_tds": 0.63,
+        "rec_yds": 70.55,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "TB"
+    },
+    {
       "filename": "hunter-long.php",
       "fpid": 22783,
       "mflid": 15334,
@@ -2277,29 +2346,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "JAC"
-    },
-    {
-      "filename": "josh-whyle.php",
-      "fpid": 22923,
-      "mflid": 16312,
-      "name": "Josh Whyle",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.02,
-        "points": 9.88,
-        "points_half": 13.28,
-        "points_ppr": 16.68,
-        "rec_rec": 6.81,
-        "rec_tds": 0.66,
-        "rec_yds": 59.48,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "GB"
     },
     {
       "filename": "ian-thomas.php",
@@ -2325,27 +2371,50 @@
       "team_id": "LV"
     },
     {
-      "filename": "lucas-krull.php",
-      "fpid": 24240,
-      "mflid": 15970,
-      "name": "Lucas Krull",
+      "filename": "joe-royer.php",
+      "fpid": 27312,
+      "mflid": 17566,
+      "name": "Joe Royer",
       "position_id": "TE",
       "stats": {
         "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 7.45,
-        "points_half": 10.45,
-        "points_ppr": 13.45,
-        "rec_rec": 6,
-        "rec_tds": 0.5,
-        "rec_yds": 44.5,
+        "fumbles": 0.05,
+        "points": 8.68,
+        "points_half": 12.45,
+        "points_ppr": 16.22,
+        "rec_rec": 7.54,
+        "rec_tds": 0.34,
+        "rec_yds": 67.4,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "DEN"
+      "team_id": "CLE"
+    },
+    {
+      "filename": "chris-manhertz.php",
+      "fpid": 14014,
+      "mflid": 12955,
+      "name": "Chris Manhertz",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.01,
+        "points": 8.42,
+        "points_half": 11.12,
+        "points_ppr": 13.83,
+        "rec_rec": 5.41,
+        "rec_tds": 0.56,
+        "rec_yds": 50.66,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "NYG"
     },
     {
       "filename": "cole-turner.php",
@@ -2394,27 +2463,27 @@
       "team_id": "SF"
     },
     {
-      "filename": "justin-joly.php",
-      "fpid": 28079,
-      "mflid": 17548,
-      "name": "Justin Joly",
+      "filename": "brevyn-spann-ford.php",
+      "fpid": 26003,
+      "mflid": 16647,
+      "name": "Brevyn Spann-Ford",
       "position_id": "TE",
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.03,
-        "points": 5.53,
-        "points_half": 7.54,
-        "points_ppr": 9.55,
-        "rec_rec": 4.02,
-        "rec_tds": 0.3,
-        "rec_yds": 37.85,
+        "points": 5.59,
+        "points_half": 7.52,
+        "points_ppr": 9.44,
+        "rec_rec": 3.85,
+        "rec_tds": 0.33,
+        "rec_yds": 36.73,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "DEN"
+      "team_id": "DAL"
     },
     {
       "filename": "ko-kieft.php",
@@ -2461,29 +2530,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "NE"
-    },
-    {
-      "filename": "tanner-koziol.php",
-      "fpid": 27499,
-      "mflid": 17644,
-      "name": "Tanner Koziol",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.03,
-        "points": 5.29,
-        "points_half": 7.24,
-        "points_ppr": 9.2,
-        "rec_rec": 3.91,
-        "rec_tds": 0.28,
-        "rec_yds": 36.68,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "JAC"
     },
     {
       "filename": "josh-cuevas.php",
@@ -2578,6 +2624,29 @@
       "team_id": "IND"
     },
     {
+      "filename": "josh-whyle.php",
+      "fpid": 22923,
+      "mflid": 16312,
+      "name": "Josh Whyle",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.03,
+        "points": 5.16,
+        "points_half": 6.96,
+        "points_ppr": 8.77,
+        "rec_rec": 3.61,
+        "rec_tds": 0.32,
+        "rec_yds": 32.95,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "GB"
+    },
+    {
       "filename": "johnny-mundt.php",
       "fpid": 16743,
       "mflid": 13940,
@@ -2647,29 +2716,6 @@
       "team_id": "CLE"
     },
     {
-      "filename": "chris-manhertz.php",
-      "fpid": 14014,
-      "mflid": 12955,
-      "name": "Chris Manhertz",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.01,
-        "points": 2.33,
-        "points_half": 3.24,
-        "points_ppr": 4.15,
-        "rec_rec": 1.82,
-        "rec_tds": 0.12,
-        "rec_yds": 16.31,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "NYG"
-    },
-    {
       "filename": "quintin-morris.php",
       "fpid": 22820,
       "mflid": 15341,
@@ -2714,6 +2760,29 @@
         "scrimage_yards_200": 0
       },
       "team_id": "NYJ"
+    },
+    {
+      "filename": "lucas-krull.php",
+      "fpid": 24240,
+      "mflid": 15970,
+      "name": "Lucas Krull",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "DEN"
     },
     {
       "filename": "blake-whiteheart.php",

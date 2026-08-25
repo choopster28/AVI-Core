@@ -964,15 +964,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "18714",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CHI",
-    "player_name": "Scotty Miller",
-    "position": "WR",
-    "sleeper_id": "6290"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "18864",
     "match_method": "exact_name_position_unique",
     "nfl_team": "ATL",
@@ -1405,15 +1396,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "20155",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "LAC",
-    "player_name": "Jaret Patterson",
-    "position": "RB",
-    "sleeper_id": "7537"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "20156",
     "match_method": "exact_name_position_unique",
     "nfl_team": "SF",
@@ -1510,15 +1492,6 @@
     "player_name": "Tommy Tremble",
     "position": "TE",
     "sleeper_id": "7694"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "22813",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Elijah Mitchell",
-    "position": "RB",
-    "sleeper_id": "7561"
   },
   {
     "confidence": "verified",
@@ -1825,15 +1798,6 @@
     "player_name": "Blake Corum",
     "position": "RB",
     "sleeper_id": "11586"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "23014",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "MIA",
-    "player_name": "Donovan Edwards",
-    "position": "RB",
-    "sleeper_id": "12515"
   },
   {
     "confidence": "verified",
@@ -2995,15 +2959,6 @@
     "player_name": "Emari Demercado",
     "position": "RB",
     "sleeper_id": "11199"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "25693",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DET",
-    "player_name": "Jacob Saylors",
-    "position": "RB",
-    "sleeper_id": "11237"
   },
   {
     "confidence": "verified",
@@ -4246,15 +4201,6 @@
     "player_name": "Nate Boerkircher",
     "position": "TE",
     "sleeper_id": "13299"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "28450",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Myles Montgomery",
-    "position": "RB",
-    "sleeper_id": "13964"
   },
   {
     "confidence": "verified",

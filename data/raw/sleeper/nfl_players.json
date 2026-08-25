@@ -56331,10 +56331,10 @@
     "hashtag": "#bensinnott-NFL-WAS-82",
     "height": "76",
     "high_school": "Columbus (IA)",
-    "injury_body_part": null,
+    "injury_body_part": "Oblique",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "475c3f72-dc8b-4346-8b3d-8714eba3a853",
     "last_name": "Sinnott",
     "metadata": {
@@ -56342,7 +56342,7 @@
       "genius_id": "1463871",
       "rookie_year": "2024"
     },
-    "news_updated": 1785536734807,
+    "news_updated": 1787662247629,
     "number": 82,
     "oddsjam_id": "8B176931BA87",
     "opta_id": null,
@@ -119110,7 +119110,7 @@
       "rookie_year": "2025",
       "source_id": "b4848e19-5a52-49a3-8c6f-179fe308ff03"
     },
-    "news_updated": 1787597739883,
+    "news_updated": 1787661648360,
     "number": 22,
     "oddsjam_id": "15DB9017F739D3E5",
     "opta_id": null,
@@ -454761,7 +454761,7 @@
       "genius_id": "1007075",
       "rookie_year": "2018"
     },
-    "news_updated": 1787409323056,
+    "news_updated": 1787661346741,
     "number": 17,
     "oddsjam_id": "A13BA3AB33EE",
     "opta_id": null,

@@ -3,6 +3,42 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-25 12:50:09",
+      "created_formated": "Tue, Aug 25th 12:50pm UTC",
+      "desc": "Ben Sinnott (oblique) is dealing with an oblique injury, per HC Dan Quinn.",
+      "id": 604106,
+      "impact": "The third year tight end is primarily a depth option at this point with little fantasy value. That's not to say he hasn't shown potential, he just needs to be given the role. It doesn't seem like that's coming anytime soon though.",
+      "link": "https://www.fantasypros.com/nfl/news/604106/ben-sinnott-oblique-dealing-with-oblique-injury.php",
+      "player_id": 26310,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Ben Sinnott (oblique) dealing with oblique injury"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-25 12:40:22",
+      "created_formated": "Tue, Aug 25th 12:40pm UTC",
+      "desc": "Jacorey Croskey-Merritt is dealing with a lower body injury, per HC Dan Quinn.",
+      "id": 604105,
+      "impact": "The running back was limited in practice on Monday with an undisclosed injury, and now we at least get clarification of a lower body injury. Which frankly is still a little vague. Fantasy managers will need to wait for more details on the exact extent of his injury, but if he's at least limited, it doesn't sound like it's anything too major.",
+      "link": "https://www.fantasypros.com/nfl/news/604105/jacorey-croskey-merritt-dealing-with-lower-body-injury.php",
+      "player_id": 27316,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Jacorey Croskey-Merritt dealing with lower body injury"
+    },
+    {
       "author": "Nate Miller",
       "categories": [
         "Commentary",
@@ -393,40 +429,6 @@
       "sport_id": "NFL",
       "team_id": "SEA",
       "title": "Jake Bobo (knee) placed on IR"
-    },
-    {
-      "author": "Cooper Kleinberg",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-22 14:21:42",
-      "created_formated": "Sat, Aug 22nd 2:21pm UTC",
-      "desc": "Stefon Diggs is set to make his Commanders debut in the preseason on Saturday.\r\n",
-      "id": 603782,
-      "impact": "Diggs will see his first action as a member of the Commanders. It will be worth tuning in to see what his exact role looks like.",
-      "link": "https://www.fantasypros.com/nfl/news/603782/stefon-diggs-expected-to-play-against-lions.php",
-      "player_id": 13981,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Stefon Diggs expected to play against Lions "
-    },
-    {
-      "author": "Cooper Kleinberg",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-22 14:18:57",
-      "created_formated": "Sat, Aug 22nd 2:18pm UTC",
-      "desc": "Commanders QB Jayden Daniels is set to start against the Lions on Saturday.\r\n\r\n",
-      "id": 603781,
-      "impact": "Daniels had a very underwhelming sophomore campaign, largely due to injury. He and the starters will have an opportunity to build chemistry and momentum ahead of the regular season.",
-      "link": "https://www.fantasypros.com/nfl/news/603781/jayden-daniels-expected-to-play-against-lions.php",
-      "player_id": 22902,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jayden Daniels expected to play against Lions"
     }
   ],
   "public_api_limited": true,
