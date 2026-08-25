@@ -795,6 +795,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013413",
+      "c_avi": 25.5,
+      "d_avi": 52.8,
+      "nfl_team": "KC",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "sleeper_id": "13413",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011588",
       "c_avi": 25.5,
       "d_avi": 36.3,
@@ -1378,18 +1390,6 @@
       "player_name": "Jalen Royals",
       "position": "WR",
       "sleeper_id": "12505",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013477",
-      "c_avi": 18.9,
-      "d_avi": 38.4,
-      "nfl_team": "CIN",
-      "player_name": "Colbie Young",
-      "position": "WR",
-      "sleeper_id": "13477",
       "status": "Active"
     },
     {
@@ -3161,6 +3161,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00013477",
+      "c_avi": 18.9,
+      "d_avi": 38.4,
+      "nfl_team": "CIN",
+      "owner_id": "736993578450030592",
+      "player_name": "Colbie Young",
+      "position": "WR",
+      "roster_id": 1,
+      "sleeper_id": "13477",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00006865",
       "c_avi": 45.1,
       "d_avi": 57.9,
@@ -3221,22 +3237,6 @@
       "status": "Active",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013413",
-      "c_avi": 25.5,
-      "d_avi": 52.8,
-      "nfl_team": "KC",
-      "owner_id": "736993578450030592",
-      "player_name": "Cyrus Allen",
-      "position": "WR",
-      "roster_id": 1,
-      "sleeper_id": "13413",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
     },
     {
       "active": true,

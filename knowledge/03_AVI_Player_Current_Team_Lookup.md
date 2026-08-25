@@ -380,6 +380,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
+## PLAYER LOOKUP: Colbie Young
+- Player name: Colbie Young
+- Player ID: 13477
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
+
 ## PLAYER LOOKUP: Colby Parkinson
 - Player name: Colby Parkinson
 - Player ID: 6865
@@ -411,14 +419,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
-
-## PLAYER LOOKUP: Cyrus Allen
-- Player name: Cyrus Allen
-- Player ID: 13413
-- Position: WR
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: D'Andre Swift
 - Player name: D'Andre Swift
@@ -2512,6 +2512,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 49.6
 - Availability: available
 
+## AVAILABLE PLAYER: Cyrus Allen
+- Player name: Cyrus Allen
+- Player ID: 13413
+- Position: WR
+- NFL team: KC
+- Championship AVI (C-AVI, 0-100): 25.5
+- Dynasty AVI (D-AVI, 0-100): 52.8
+- Availability: available
+
 ## AVAILABLE PLAYER: Jawhar Jordan
 - Player name: Jawhar Jordan
 - Player ID: 11588
@@ -2951,15 +2960,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 19.0
 - Dynasty AVI (D-AVI, 0-100): 48.8
-- Availability: available
-
-## AVAILABLE PLAYER: Colbie Young
-- Player name: Colbie Young
-- Player ID: 13477
-- Position: WR
-- NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 18.9
-- Dynasty AVI (D-AVI, 0-100): 38.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Luke Schoonmaker
