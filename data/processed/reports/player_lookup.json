@@ -159,6 +159,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011783",
+      "c_avi": 38.2,
+      "d_avi": 60.6,
+      "nfl_team": "DAL",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "sleeper_id": "11783",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012524",
       "c_avi": 38.1,
       "d_avi": 61.0,
@@ -922,18 +934,6 @@
       "player_name": "Kendrick Bourne",
       "position": "WR",
       "sleeper_id": "4454",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013424",
-      "c_avi": 23.6,
-      "d_avi": 49.5,
-      "nfl_team": "IND",
-      "player_name": "Seth McGowan",
-      "position": "RB",
-      "sleeper_id": "13424",
       "status": "Active"
     },
     {
@@ -5593,22 +5593,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00011783",
-      "c_avi": 38.2,
-      "d_avi": 60.6,
-      "nfl_team": "DAL",
-      "owner_id": "863881053000011776",
-      "player_name": "Ryan Flournoy",
-      "position": "WR",
-      "roster_id": 9,
-      "sleeper_id": "11783",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00004943",
       "c_avi": 48.9,
       "d_avi": 67.2,
@@ -5650,6 +5634,22 @@
       "position": "RB",
       "roster_id": 9,
       "sleeper_id": "4866",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013424",
+      "c_avi": 23.6,
+      "d_avi": 49.5,
+      "nfl_team": "IND",
+      "owner_id": "863881053000011776",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "roster_id": 9,
+      "sleeper_id": "13424",
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"

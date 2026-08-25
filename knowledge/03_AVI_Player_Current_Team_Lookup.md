@@ -1596,14 +1596,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
 
-## PLAYER LOOKUP: Ryan Flournoy
-- Player name: Ryan Flournoy
-- Player ID: 11783
-- Position: WR
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
 ## PLAYER LOOKUP: Sam Darnold
 - Player name: Sam Darnold
 - Player ID: 4943
@@ -1623,6 +1615,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 ## PLAYER LOOKUP: Saquon Barkley
 - Player name: Saquon Barkley
 - Player ID: 4866
+- Position: RB
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
+## PLAYER LOOKUP: Seth McGowan
+- Player name: Seth McGowan
+- Player ID: 13424
 - Position: RB
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
@@ -2033,6 +2033,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CIN
 - Championship AVI (C-AVI, 0-100): 39.5
 - Dynasty AVI (D-AVI, 0-100): 53.4
+- Availability: available
+
+## AVAILABLE PLAYER: Ryan Flournoy
+- Player name: Ryan Flournoy
+- Player ID: 11783
+- Position: WR
+- NFL team: DAL
+- Championship AVI (C-AVI, 0-100): 38.2
+- Dynasty AVI (D-AVI, 0-100): 60.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Shedeur Sanders
@@ -2609,15 +2618,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ARI
 - Championship AVI (C-AVI, 0-100): 23.7
 - Dynasty AVI (D-AVI, 0-100): 43.7
-- Availability: available
-
-## AVAILABLE PLAYER: Seth McGowan
-- Player name: Seth McGowan
-- Player ID: 13424
-- Position: RB
-- NFL team: IND
-- Championship AVI (C-AVI, 0-100): 23.6
-- Dynasty AVI (D-AVI, 0-100): 49.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Jarquez Hunter
