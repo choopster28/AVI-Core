@@ -45,6 +45,15 @@
     "sleeper_id": "827"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "10977",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Isaiah Williams",
+    "position": "WR",
+    "sleeper_id": "11608"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "11177",
     "match_method": "exact_name_position_unique",
@@ -802,15 +811,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "18397",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "HOU",
-    "player_name": "Foster Moreau",
-    "position": "TE",
-    "sleeper_id": "5985"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "18406",
     "match_method": "exact_name_position_unique",
     "nfl_team": "BUF",
@@ -853,6 +853,15 @@
     "player_name": "Jake Browning",
     "position": "QB",
     "sleeper_id": "6111"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "18561",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CIN",
+    "player_name": "Drew Sample",
+    "position": "TE",
+    "sleeper_id": "6001"
   },
   {
     "confidence": "verified",
@@ -2017,15 +2026,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "23112",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "IND",
-    "player_name": "Ulysses Bentley IV",
-    "position": "RB",
-    "sleeper_id": "12826"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "23113",
     "match_method": "exact_name_position_unique",
     "nfl_team": "KC",
@@ -2167,6 +2167,15 @@
     "player_name": "Cade Otton",
     "position": "TE",
     "sleeper_id": "8111"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "23249",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NYJ",
+    "player_name": "Kene Nwangwu",
+    "position": "RB",
+    "sleeper_id": "7720"
   },
   {
     "confidence": "verified",
@@ -2959,6 +2968,15 @@
     "player_name": "Emari Demercado",
     "position": "RB",
     "sleeper_id": "11199"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "25693",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Jacob Saylors",
+    "position": "RB",
+    "sleeper_id": "11237"
   },
   {
     "confidence": "verified",
