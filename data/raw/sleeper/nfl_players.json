@@ -19834,7 +19834,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "08a71c61-646f-4455-a16a-be91078437cd",
     "last_name": "Taylor",
     "metadata": {
       "channel_id": "1113708706974953472",
@@ -142177,7 +142177,7 @@
     "birth_state": null,
     "college": "Toledo",
     "competitions": [],
-    "depth_chart_order": 3,
+    "depth_chart_order": 2,
     "depth_chart_position": "FS",
     "espn_id": null,
     "fantasy_data_id": 26065,
@@ -147014,7 +147014,7 @@
     "college": "Auburn",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "LB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26305,
     "fantasy_positions": [
@@ -180920,8 +180920,8 @@
     "birth_state": null,
     "college": "TCU",
     "competitions": [],
-    "depth_chart_order": 2,
-    "depth_chart_position": "FS",
+    "depth_chart_order": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 27044,
     "fantasy_positions": [
@@ -222965,7 +222965,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "7ee63350-e38f-46fd-b630-2e8fdb272295",
     "last_name": "Tecza",
     "metadata": {
       "channel_id": "1397644632749297664"
@@ -223024,7 +223024,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "69acd47e-a3dc-4410-aa9d-ddc0e265ed06",
     "last_name": "Thomas",
     "metadata": {
       "channel_id": "1397694966649651200"
@@ -223083,7 +223083,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "cddbb0a9-7a90-47e8-a5fa-24a75015e53c",
     "last_name": "Bobby",
     "metadata": {
       "channel_id": "1397710054920060928"
@@ -524740,7 +524740,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "f83167bc-17bb-46a1-a1b2-651b0340842e",
     "last_name": "Jennings",
     "metadata": {
       "channel_id": "1116853193335111680",
@@ -624915,7 +624915,7 @@
     "college": "Ole Miss",
     "competitions": [],
     "depth_chart_order": 7,
-    "depth_chart_position": "RWR",
+    "depth_chart_position": "LWR",
     "espn_id": null,
     "fantasy_data_id": 22592,
     "fantasy_positions": [
@@ -636932,7 +636932,7 @@
     "college": "South Carolina",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 22881,
     "fantasy_positions": [
@@ -673267,8 +673267,8 @@
     "birth_state": null,
     "college": "Penn State",
     "competitions": [],
-    "depth_chart_order": 3,
-    "depth_chart_position": "RCB",
+    "depth_chart_order": null,
+    "depth_chart_position": "DB",
     "espn_id": null,
     "fantasy_data_id": 23550,
     "fantasy_positions": [
