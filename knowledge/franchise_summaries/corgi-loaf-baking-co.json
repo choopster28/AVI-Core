@@ -1,40 +1,40 @@
 {
-  "schema_version": 9,
+  "schema_version": 10,
   "franchise_id": "corgi-loaf-baking-co",
   "franchise_name": "Corgi Loaf Baking Co.",
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:13:36.673441-06:00",
+  "generated_at": "2026-08-26T07:28:01.834963-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #6 of 16 with a 651.90 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #4 of 16 with a 673.80 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 6,
+    "rank": 4,
     "league_size": 16,
-    "score": 651.9,
+    "score": 673.8,
     "team_above": {
-      "name": "Badland Banditos",
-      "rank": 5,
-      "score": 652.5,
-      "gap": 0.6000000000000227
+      "name": "Mile High Royal Lions",
+      "rank": 3,
+      "score": 676.7,
+      "gap": 2.900000000000091
     },
     "team_below": {
-      "name": "All Hail King Jesus",
-      "rank": 7,
-      "score": 648.6,
-      "gap": 3.2999999999999545
+      "name": "SmokyValleyWheatWarriors",
+      "rank": 5,
+      "score": 666.2,
+      "gap": 7.599999999999909
     },
-    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+    "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 12,
+    "rank": 11,
     "league_size": 16,
-    "score": 2025.0,
-    "player_d_avi": 1220.4,
+    "score": 2021.0,
+    "player_d_avi": 1216.4,
     "future_pick_d_avi": 804.6,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
+    "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1398169552570863616",
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Wan'Dale Robinson's 65.5 C-AVI baseline; a replacement near 66.1 C-AVI would directly attack the 0.60-point projected gap to Badland Banditos."
+    "Raise the RB slot above David Montgomery's 68.9 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 2.90-point projected gap to Mile High Royal Lions."
   ],
   "rival_below": {
-    "franchise_name": "All Hail King Jesus",
-    "projected_rank": 7,
-    "projected_score": 648.6,
+    "franchise_name": "SmokyValleyWheatWarriors",
+    "projected_rank": 5,
+    "projected_score": 666.2,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1395270295127863296",
@@ -64,7 +64,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #6 of 16 at 651.90 lineup C-AVI. Badland Banditos is immediately above at 652.50, a gap of 0.60. All Hail King Jesus is immediately behind at 648.60."
+      "body": "Projected #4 of 16 at 673.80 lineup C-AVI. Mile High Royal Lions is immediately above at 676.70, a gap of 2.90. SmokyValleyWheatWarriors is immediately behind at 666.20."
     },
     {
       "id": "competitive-core",
@@ -79,9 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Wan'Dale Robinson's 65.5 C-AVI baseline; a replacement near 66.1 C-AVI would directly attack the 0.60-point projected gap to Badland Banditos.",
+      "body": "Raise the RB slot above David Montgomery's 68.9 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 2.90-point projected gap to Mile High Royal Lions.",
       "items": [
-        "Raise the FLEX slot above Wan'Dale Robinson's 65.5 C-AVI baseline; a replacement near 66.1 C-AVI would directly attack the 0.60-point projected gap to Badland Banditos."
+        "Raise the RB slot above David Montgomery's 68.9 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 2.90-point projected gap to Mile High Royal Lions."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Wan'Dale Robinson is the lowest C-AVI starter in the verified championship lineup at 65.5. Any acquisition should clear that exact lineup threshold."
+      "body": "David Montgomery is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 68.9. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -112,6 +112,8 @@
     ],
     "source_last_updated": "2026-08-25",
     "external_sources_used": false,
-    "conversation_context_used": false
+    "conversation_context_used": false,
+    "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
+    "power_rank_source": "live Sleeper roster ownership + current AVI player cards"
   }
 }

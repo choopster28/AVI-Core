@@ -1,12 +1,12 @@
 {
-  "schema_version": 9,
+  "schema_version": 10,
   "franchise_id": "lightskin-legends",
   "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:13:36.673441-06:00",
+  "generated_at": "2026-08-26T07:28:01.834963-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Preseason Front Office Brief",
   "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #10 of 16 with a 591.70 projected-starting-lineup C-AVI total, led by Jonathan Taylor, Chase Brown, and Javonte Williams. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -26,7 +26,7 @@
       "score": 575.9,
       "gap": 15.800000000000068
     },
-    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+    "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 10,
@@ -34,7 +34,7 @@
     "score": 2045.6,
     "player_d_avi": 1085.7,
     "future_pick_d_avi": 959.9,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
+    "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1288899605622165504",
@@ -98,7 +98,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Mike Gesicki is the lowest C-AVI starter in the verified championship lineup at 47.0. Any acquisition should clear that exact lineup threshold."
+      "body": "Mike Gesicki is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 47.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -119,6 +119,8 @@
     ],
     "source_last_updated": "2026-08-25",
     "external_sources_used": false,
-    "conversation_context_used": false
+    "conversation_context_used": false,
+    "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
+    "power_rank_source": "live Sleeper roster ownership + current AVI player cards"
   }
 }

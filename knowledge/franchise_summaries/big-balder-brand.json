@@ -1,12 +1,12 @@
 {
-  "schema_version": 9,
+  "schema_version": 10,
   "franchise_id": "big-balder-brand",
   "franchise_name": "Big Balder Brand",
   "roster_id": 9,
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:13:36.673441-06:00",
+  "generated_at": "2026-08-26T07:28:01.834963-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
   "executive_summary": "Big Balder Brand is projected #1 of 16 with a 747.80 projected-starting-lineup C-AVI total, led by Trey McBride, Jayden Daniels, and Rashee Rice. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -21,15 +21,15 @@
       "score": 726.4,
       "gap": 21.399999999999977
     },
-    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+    "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 11,
+    "rank": 14,
     "league_size": 16,
-    "score": 2035.3,
-    "player_d_avi": 1293.3,
+    "score": 1974.7,
+    "player_d_avi": 1232.7,
     "future_pick_d_avi": 742.0,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
+    "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1394506115831586816",
@@ -87,7 +87,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Omarion Hampton is the lowest C-AVI starter in the verified championship lineup at 89.3. Any acquisition should clear that exact lineup threshold."
+      "body": "Omarion Hampton is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 89.3. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -107,6 +107,8 @@
     ],
     "source_last_updated": "2026-08-25",
     "external_sources_used": false,
-    "conversation_context_used": false
+    "conversation_context_used": false,
+    "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
+    "power_rank_source": "live Sleeper roster ownership + current AVI player cards"
   }
 }

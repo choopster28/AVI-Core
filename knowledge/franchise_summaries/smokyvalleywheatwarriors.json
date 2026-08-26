@@ -1,40 +1,40 @@
 {
-  "schema_version": 9,
+  "schema_version": 10,
   "franchise_id": "smokyvalleywheatwarriors",
   "franchise_name": "SmokyValleyWheatWarriors",
   "roster_id": 10,
   "owner_display_name": "AlexPete6800",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:13:36.673441-06:00",
+  "generated_at": "2026-08-26T07:28:01.834963-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
-  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 666.20 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and Chris Olave. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "SmokyValleyWheatWarriors is projected #5 of 16 with a 666.20 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and Chris Olave. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 4,
+    "rank": 5,
     "league_size": 16,
     "score": 666.2,
     "team_above": {
-      "name": "Mile High Royal Lions",
-      "rank": 3,
-      "score": 676.7,
-      "gap": 10.5
+      "name": "Corgi Loaf Baking Co.",
+      "rank": 4,
+      "score": 673.8,
+      "gap": 7.599999999999909
     },
     "team_below": {
       "name": "Badland Banditos",
-      "rank": 5,
+      "rank": 6,
       "score": 652.5,
       "gap": 13.700000000000045
     },
-    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+    "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 13,
+    "rank": 12,
     "league_size": 16,
     "score": 2020.7,
     "player_d_avi": 1044.1,
     "future_pick_d_avi": 976.6,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
+    "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1288899605622165504",
@@ -44,11 +44,11 @@
     "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 72.5 C-AVI would directly attack the 10.50-point projected gap to Mile High Royal Lions."
+    "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 69.6 C-AVI would directly attack the 7.60-point projected gap to Corgi Loaf Baking Co.."
   ],
   "rival_below": {
     "franchise_name": "Badland Banditos",
-    "projected_rank": 5,
+    "projected_rank": 6,
     "projected_score": 652.5,
     "latest_trade": null,
     "latest_activity": {
@@ -64,7 +64,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #4 of 16 at 666.20 lineup C-AVI. Mile High Royal Lions is immediately above at 676.70, a gap of 10.50. Badland Banditos is immediately behind at 652.50."
+      "body": "Projected #5 of 16 at 666.20 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 673.80, a gap of 7.60. Badland Banditos is immediately behind at 652.50."
     },
     {
       "id": "competitive-core",
@@ -79,9 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 72.5 C-AVI would directly attack the 10.50-point projected gap to Mile High Royal Lions.",
+      "body": "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 69.6 C-AVI would directly attack the 7.60-point projected gap to Corgi Loaf Baking Co..",
       "items": [
-        "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 72.5 C-AVI would directly attack the 10.50-point projected gap to Mile High Royal Lions."
+        "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 69.6 C-AVI would directly attack the 7.60-point projected gap to Corgi Loaf Baking Co.."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Rico Dowdle is the lowest C-AVI starter in the verified championship lineup at 62.0. Any acquisition should clear that exact lineup threshold."
+      "body": "Rico Dowdle is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 62.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -112,6 +112,8 @@
     ],
     "source_last_updated": "2026-08-25",
     "external_sources_used": false,
-    "conversation_context_used": false
+    "conversation_context_used": false,
+    "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
+    "power_rank_source": "live Sleeper roster ownership + current AVI player cards"
   }
 }

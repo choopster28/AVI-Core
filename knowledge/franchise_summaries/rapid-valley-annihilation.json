@@ -1,32 +1,32 @@
 {
-  "schema_version": 9,
+  "schema_version": 10,
   "franchise_id": "rapid-valley-annihilation",
   "franchise_name": "Rapid Valley Annihilation",
   "roster_id": 2,
   "owner_display_name": "FuzzyRaptor",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:13:36.673441-06:00",
+  "generated_at": "2026-08-26T07:28:01.834963-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Rapid Valley Annihilation: Preseason Front Office Brief",
-  "executive_summary": "Rapid Valley Annihilation is projected #14 of 16 with a 535.20 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 535.20 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 14,
+    "rank": 13,
     "league_size": 16,
     "score": 535.2,
     "team_above": {
-      "name": "Crimson Tide Pods",
-      "rank": 13,
-      "score": 539.8,
-      "gap": 4.599999999999909
+      "name": "Phalhala or Bust",
+      "rank": 12,
+      "score": 549.8,
+      "gap": 14.599999999999909
     },
     "team_below": {
       "name": "DMV Fantasy",
-      "rank": 15,
+      "rank": 14,
       "score": 533.4,
       "gap": 1.8000000000000682
     },
-    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+    "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 2,
@@ -34,7 +34,7 @@
     "score": 2508.2,
     "player_d_avi": 1185.7,
     "future_pick_d_avi": 1322.5,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
+    "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1387232278626713600",
@@ -44,11 +44,11 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 4.60-point projected gap to Crimson Tide Pods."
+    "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 67.1 C-AVI would directly attack the 14.60-point projected gap to Phalhala or Bust."
   ],
   "rival_below": {
     "franchise_name": "DMV Fantasy",
-    "projected_rank": 15,
+    "projected_rank": 14,
     "projected_score": 533.4,
     "latest_trade": {
       "transaction_id": "1396908520204410880",
@@ -70,7 +70,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 535.20 lineup C-AVI. Crimson Tide Pods is immediately above at 539.80, a gap of 4.60. DMV Fantasy is immediately behind at 533.40."
+      "body": "Projected #13 of 16 at 535.20 lineup C-AVI. Phalhala or Bust is immediately above at 549.80, a gap of 14.60. DMV Fantasy is immediately behind at 533.40."
     },
     {
       "id": "competitive-core",
@@ -85,9 +85,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 4.60-point projected gap to Crimson Tide Pods.",
+      "body": "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 67.1 C-AVI would directly attack the 14.60-point projected gap to Phalhala or Bust.",
       "items": [
-        "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 4.60-point projected gap to Crimson Tide Pods."
+        "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 67.1 C-AVI would directly attack the 14.60-point projected gap to Phalhala or Bust."
       ]
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Blake Corum is the lowest C-AVI starter in the verified championship lineup at 52.5. Any acquisition should clear that exact lineup threshold."
+      "body": "Blake Corum is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 52.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -119,6 +119,8 @@
     ],
     "source_last_updated": "2026-08-25",
     "external_sources_used": false,
-    "conversation_context_used": false
+    "conversation_context_used": false,
+    "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
+    "power_rank_source": "live Sleeper roster ownership + current AVI player cards"
   }
 }

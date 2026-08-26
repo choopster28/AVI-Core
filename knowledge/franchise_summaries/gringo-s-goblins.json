@@ -1,12 +1,12 @@
 {
-  "schema_version": 9,
+  "schema_version": 10,
   "franchise_id": "gringo-s-goblins",
   "franchise_name": "Gringo\u2019s Goblins",
   "roster_id": 15,
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:13:36.673441-06:00",
+  "generated_at": "2026-08-26T07:28:01.834963-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
   "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 575.90 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Jameson Williams. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -26,7 +26,7 @@
       "score": 549.8,
       "gap": 26.100000000000023
     },
-    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+    "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 5,
@@ -34,7 +34,7 @@
     "score": 2200.1,
     "player_d_avi": 1123.6,
     "future_pick_d_avi": 1076.5,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
+    "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1394413143647592448",
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Romeo Doubs is the lowest C-AVI starter in the verified championship lineup at 56.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Romeo Doubs is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 56.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -112,6 +112,8 @@
     ],
     "source_last_updated": "2026-08-25",
     "external_sources_used": false,
-    "conversation_context_used": false
+    "conversation_context_used": false,
+    "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
+    "power_rank_source": "live Sleeper roster ownership + current AVI player cards"
   }
 }

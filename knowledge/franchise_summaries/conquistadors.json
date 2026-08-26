@@ -1,12 +1,12 @@
 {
-  "schema_version": 9,
+  "schema_version": 10,
   "franchise_id": "conquistadors",
   "franchise_name": "Conquistadors",
   "roster_id": 1,
   "owner_display_name": "Thecan",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:13:36.673441-06:00",
+  "generated_at": "2026-08-26T07:28:01.834963-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Conquistadors: Preseason Front Office Brief",
   "executive_summary": "Conquistadors is projected #2 of 16 with a 726.40 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -26,15 +26,15 @@
       "score": 676.7,
       "gap": 49.69999999999993
     },
-    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+    "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 6,
+    "rank": 8,
     "league_size": 16,
-    "score": 2177.9,
-    "player_d_avi": 1240.0,
+    "score": 2125.1,
+    "player_d_avi": 1187.2,
     "future_pick_d_avi": 937.9,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
+    "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1390168785905782784",
@@ -44,7 +44,7 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Juwan Johnson's 62.5 C-AVI baseline; a replacement near 89.3 C-AVI would directly attack the 21.40-point projected gap to Big Balder Brand."
+    "Raise the FLEX slot above Juwan Johnson's 62.5 C-AVI baseline; a replacement near 83.9 C-AVI would directly attack the 21.40-point projected gap to Big Balder Brand."
   ],
   "rival_below": {
     "franchise_name": "Mile High Royal Lions",
@@ -85,9 +85,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Juwan Johnson's 62.5 C-AVI baseline; a replacement near 89.3 C-AVI would directly attack the 21.40-point projected gap to Big Balder Brand.",
+      "body": "Raise the FLEX slot above Juwan Johnson's 62.5 C-AVI baseline; a replacement near 83.9 C-AVI would directly attack the 21.40-point projected gap to Big Balder Brand.",
       "items": [
-        "Raise the FLEX slot above Juwan Johnson's 62.5 C-AVI baseline; a replacement near 89.3 C-AVI would directly attack the 21.40-point projected gap to Big Balder Brand."
+        "Raise the FLEX slot above Juwan Johnson's 62.5 C-AVI baseline; a replacement near 83.9 C-AVI would directly attack the 21.40-point projected gap to Big Balder Brand."
       ]
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Juwan Johnson is the lowest C-AVI starter in the verified championship lineup at 62.5. Any acquisition should clear that exact lineup threshold."
+      "body": "Juwan Johnson is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 62.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -119,6 +119,8 @@
     ],
     "source_last_updated": "2026-08-25",
     "external_sources_used": false,
-    "conversation_context_used": false
+    "conversation_context_used": false,
+    "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
+    "power_rank_source": "live Sleeper roster ownership + current AVI player cards"
   }
 }

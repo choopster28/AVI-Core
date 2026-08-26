@@ -1,32 +1,32 @@
 {
-  "schema_version": 9,
+  "schema_version": 10,
   "franchise_id": "dmv-fantasy",
   "franchise_name": "DMV Fantasy",
   "roster_id": 12,
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:13:36.673441-06:00",
+  "generated_at": "2026-08-26T07:28:01.834963-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
-  "executive_summary": "DMV Fantasy is projected #15 of 16 with a 533.40 projected-starting-lineup C-AVI total, led by Breece Hall, George Kittle, and Jaxson Dart. The immediate priority is improving the WR slot without weakening that core.",
+  "executive_summary": "DMV Fantasy is projected #14 of 16 with a 533.40 projected-starting-lineup C-AVI total, led by Breece Hall, George Kittle, and Jaxson Dart. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
-    "rank": 15,
+    "rank": 14,
     "league_size": 16,
     "score": 533.4,
     "team_above": {
       "name": "Rapid Valley Annihilation",
-      "rank": 14,
+      "rank": 13,
       "score": 535.2,
       "gap": 1.8000000000000682
     },
     "team_below": {
-      "name": "Northside Kings",
-      "rank": 16,
-      "score": 492.6,
-      "gap": 40.799999999999955
+      "name": "Crimson Tide Pods",
+      "rank": 15,
+      "score": 517.9,
+      "gap": 15.5
     },
-    "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
+    "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 3,
@@ -34,7 +34,7 @@
     "score": 2390.6,
     "player_d_avi": 970.8,
     "future_pick_d_avi": 1419.8,
-    "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
+    "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
     "transaction_id": "1396908520204410880",
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the WR slot above Jauan Jennings's 48.1 C-AVI baseline; a replacement near 52.5 C-AVI would directly attack the 1.80-point projected gap to Rapid Valley Annihilation."
+    "Raise the WR slot above Jauan Jennings's 48.1 C-AVI baseline; a replacement near 49.9 C-AVI would directly attack the 1.80-point projected gap to Rapid Valley Annihilation."
   ],
   "rival_below": {
-    "franchise_name": "Northside Kings",
-    "projected_rank": 16,
-    "projected_score": 492.6,
+    "franchise_name": "Crimson Tide Pods",
+    "projected_rank": 15,
+    "projected_score": 517.9,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1390147752540778496",
@@ -64,7 +64,7 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #15 of 16 at 533.40 lineup C-AVI. Rapid Valley Annihilation is immediately above at 535.20, a gap of 1.80. Northside Kings is immediately behind at 492.60."
+      "body": "Projected #14 of 16 at 533.40 lineup C-AVI. Rapid Valley Annihilation is immediately above at 535.20, a gap of 1.80. Crimson Tide Pods is immediately behind at 517.90."
     },
     {
       "id": "competitive-core",
@@ -79,9 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Jauan Jennings's 48.1 C-AVI baseline; a replacement near 52.5 C-AVI would directly attack the 1.80-point projected gap to Rapid Valley Annihilation.",
+      "body": "Raise the WR slot above Jauan Jennings's 48.1 C-AVI baseline; a replacement near 49.9 C-AVI would directly attack the 1.80-point projected gap to Rapid Valley Annihilation.",
       "items": [
-        "Raise the WR slot above Jauan Jennings's 48.1 C-AVI baseline; a replacement near 52.5 C-AVI would directly attack the 1.80-point projected gap to Rapid Valley Annihilation."
+        "Raise the WR slot above Jauan Jennings's 48.1 C-AVI baseline; a replacement near 49.9 C-AVI would directly attack the 1.80-point projected gap to Rapid Valley Annihilation."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jauan Jennings is the lowest C-AVI starter in the verified championship lineup at 48.1. Any acquisition should clear that exact lineup threshold."
+      "body": "Jauan Jennings is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 48.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -112,6 +112,8 @@
     ],
     "source_last_updated": "2026-08-25",
     "external_sources_used": false,
-    "conversation_context_used": false
+    "conversation_context_used": false,
+    "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
+    "power_rank_source": "live Sleeper roster ownership + current AVI player cards"
   }
 }
