@@ -447,6 +447,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011575",
+      "c_avi": 32.4,
+      "d_avi": 58.1,
+      "nfl_team": "BUF",
+      "player_name": "Ray Davis",
+      "position": "RB",
+      "sleeper_id": "11575",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00010226",
       "c_avi": 31.9,
       "d_avi": 52.1,
@@ -790,18 +802,6 @@
       "player_name": "Luke McCaffrey",
       "position": "WR",
       "sleeper_id": "11650",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013413",
-      "c_avi": 25.5,
-      "d_avi": 52.8,
-      "nfl_team": "KC",
-      "player_name": "Cyrus Allen",
-      "position": "WR",
-      "sleeper_id": "13413",
       "status": "Active"
     },
     {
@@ -3241,6 +3241,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00013413",
+      "c_avi": 25.5,
+      "d_avi": 52.8,
+      "nfl_team": "KC",
+      "owner_id": "986498458162970624",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "roster_id": 11,
+      "sleeper_id": "13413",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00006790",
       "c_avi": 76.5,
       "d_avi": 83.6,
@@ -5509,22 +5525,6 @@
       "status": "Active",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011575",
-      "c_avi": 32.4,
-      "d_avi": 58.1,
-      "nfl_team": "BUF",
-      "owner_id": "986498458162970624",
-      "player_name": "Ray Davis",
-      "position": "RB",
-      "roster_id": 11,
-      "sleeper_id": "11575",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
