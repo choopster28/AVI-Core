@@ -6,7 +6,7 @@
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:28:01.834963-06:00",
+  "generated_at": "2026-08-26T07:34:46.756046-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
   "executive_summary": "Corgi Loaf Baking Co. is projected #4 of 16 with a 673.80 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the RB slot without weakening that core.",
@@ -50,15 +50,21 @@
     "franchise_name": "SmokyValleyWheatWarriors",
     "projected_rank": 5,
     "projected_score": 666.2,
-    "latest_trade": null,
-    "latest_activity": {
-      "transaction_id": "1395270295127863296",
-      "created_at": "2026-08-18T02:41:10.528000+00:00",
-      "type": "free_agent",
-      "summary": "On August 17, All Hail King Jesus completed a free-agent move and added Keenan Allen while dropped Ryan Flournoy.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    "latest_trade": {
+      "transaction_id": "1288899605622165504",
+      "created_at": "2025-10-28T14:02:01.879000+00:00",
+      "type": "trade",
+      "summary": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte.",
+      "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
     },
-    "summary": "On August 17, All Hail King Jesus completed a free-agent move and added Keenan Allen while dropped Ryan Flournoy."
+    "latest_activity": {
+      "transaction_id": "1288899605622165504",
+      "created_at": "2025-10-28T14:02:01.879000+00:00",
+      "type": "trade",
+      "summary": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte.",
+      "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
+    },
+    "summary": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte."
   },
   "sections": [
     {
@@ -87,7 +93,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 17, All Hail King Jesus completed a free-agent move and added Keenan Allen while dropped Ryan Flournoy."
+      "body": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte."
     },
     {
       "id": "lineup-pressure-point",
@@ -97,16 +103,16 @@
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 16 offensive players in the current team file are marked Active."
+      "body": "All 16 offensive players on the current Sleeper-owned roster are marked Active."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "No verified future draft assets are currently included in this summary."
+      "body": "Verified current future draft capital contributes 804.6 D-AVI to the franchise's dynasty total."
     }
   ],
   "source": {
-    "policy": "AVI-Core/knowledge only",
+    "policy": "AVI-Core current Sleeper ownership + AVI valuation data",
     "files": [
       "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md"
     ],

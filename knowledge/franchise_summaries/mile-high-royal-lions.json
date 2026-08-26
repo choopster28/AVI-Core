@@ -6,7 +6,7 @@
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:28:01.834963-06:00",
+  "generated_at": "2026-08-26T07:34:46.756046-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
   "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 676.70 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
@@ -50,15 +50,21 @@
     "franchise_name": "Corgi Loaf Baking Co.",
     "projected_rank": 4,
     "projected_score": 673.8,
-    "latest_trade": null,
-    "latest_activity": {
-      "transaction_id": "1357352399894749184",
-      "created_at": "2026-05-05T11:28:59.825000+00:00",
-      "type": "commissioner",
-      "summary": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid.",
+    "latest_trade": {
+      "transaction_id": "1398169552570863616",
+      "created_at": "2026-08-26T02:41:47.368000+00:00",
+      "type": "trade",
+      "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid."
+    "latest_activity": {
+      "transaction_id": "1398169552570863616",
+      "created_at": "2026-08-26T02:41:47.368000+00:00",
+      "type": "trade",
+      "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy).",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy)."
   },
   "sections": [
     {
@@ -87,7 +93,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On May 5, SmokyValleyWheatWarriors completed a roster transaction and added Dalton Kincaid."
+      "body": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy)."
     },
     {
       "id": "lineup-pressure-point",
@@ -97,16 +103,16 @@
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 15 offensive players in the current team file are marked Active."
+      "body": "All 15 offensive players on the current Sleeper-owned roster are marked Active."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "No verified future draft assets are currently included in this summary."
+      "body": "Verified current future draft capital contributes 998.6 D-AVI to the franchise's dynasty total."
     }
   ],
   "source": {
-    "policy": "AVI-Core/knowledge only",
+    "policy": "AVI-Core current Sleeper ownership + AVI valuation data",
     "files": [
       "AVI-Core/knowledge/teams/04_Mile_High_Royal_Lions.md"
     ],

@@ -6,7 +6,7 @@
   "owner_display_name": "Thecan",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:28:01.834963-06:00",
+  "generated_at": "2026-08-26T07:34:46.756046-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Conquistadors: Preseason Front Office Brief",
   "executive_summary": "Conquistadors is projected #2 of 16 with a 726.40 projected-starting-lineup C-AVI total, led by Josh Allen, Puka Nacua, and Bijan Robinson. The immediate priority is improving the FLEX slot without weakening that core.",
@@ -103,16 +103,16 @@
     {
       "id": "availability",
       "title": "Availability",
-      "body": "The current team file flags Chris Brazzell outside Active status."
+      "body": "Current Sleeper-owned roster has 15 active offensive players; non-active: Chris Brazzell."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "No verified future draft assets are currently included in this summary."
+      "body": "Verified current future draft capital contributes 937.9 D-AVI to the franchise's dynasty total."
     }
   ],
   "source": {
-    "policy": "AVI-Core/knowledge only",
+    "policy": "AVI-Core current Sleeper ownership + AVI valuation data",
     "files": [
       "AVI-Core/knowledge/teams/01_Conquistadors.md",
       "knowledge/02_AVI_Historical_Trades.md"

@@ -6,7 +6,7 @@
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:28:01.834963-06:00",
+  "generated_at": "2026-08-26T07:34:46.756046-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
   "executive_summary": "Southside Savages is projected #8 of 16 with a 633.40 projected-starting-lineup C-AVI total, led by Drake Maye, Tetairoa McMillan, and Josh Jacobs. The immediate priority is improving the TE slot without weakening that core.",
@@ -50,15 +50,21 @@
     "franchise_name": "Ravens Regime",
     "projected_rank": 9,
     "projected_score": 627.1,
-    "latest_trade": null,
-    "latest_activity": {
-      "transaction_id": "1397275239980777472",
-      "created_at": "2026-08-23T15:28:06.631000+00:00",
-      "type": "free_agent",
-      "summary": "On August 23, Ravens Regime completed a free-agent move and added Adam Randall while dropped Demond Claiborne.",
+    "latest_trade": {
+      "transaction_id": "1394538418473545728",
+      "created_at": "2026-08-16T02:12:57.536000+00:00",
+      "type": "trade",
+      "summary": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 23, Ravens Regime completed a free-agent move and added Adam Randall while dropped Demond Claiborne."
+    "latest_activity": {
+      "transaction_id": "1394538418473545728",
+      "created_at": "2026-08-16T02:12:57.536000+00:00",
+      "type": "trade",
+      "summary": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams."
   },
   "sections": [
     {
@@ -87,7 +93,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 23, Ravens Regime completed a free-agent move and added Adam Randall while dropped Demond Claiborne."
+      "body": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams."
     },
     {
       "id": "lineup-pressure-point",
@@ -97,16 +103,16 @@
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 12 offensive players in the current team file are marked Active."
+      "body": "All 12 offensive players on the current Sleeper-owned roster are marked Active."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "No verified future draft assets are currently included in this summary."
+      "body": "Verified current future draft capital contributes 1007.9 D-AVI to the franchise's dynasty total."
     }
   ],
   "source": {
-    "policy": "AVI-Core/knowledge only",
+    "policy": "AVI-Core current Sleeper ownership + AVI valuation data",
     "files": [
       "AVI-Core/knowledge/teams/13_Southside_Savages.md"
     ],

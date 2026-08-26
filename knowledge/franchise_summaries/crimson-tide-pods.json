@@ -6,7 +6,7 @@
   "owner_display_name": "nickas",
   "season_phase": "preseason",
   "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T07:28:01.834963-06:00",
+  "generated_at": "2026-08-26T07:34:46.756046-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
   "executive_summary": "Crimson Tide Pods is projected #15 of 16 with a 517.90 projected-starting-lineup C-AVI total, led by Justin Herbert, Alec Pierce, and Michael Pittman. The immediate priority is improving the TE slot without weakening that core.",
@@ -50,15 +50,21 @@
     "franchise_name": "Northside Kings",
     "projected_rank": 16,
     "projected_score": 492.6,
-    "latest_trade": null,
-    "latest_activity": {
-      "transaction_id": "1395082105167306752",
-      "created_at": "2026-08-17T14:13:22.545000+00:00",
-      "type": "free_agent",
-      "summary": "On August 17, Rapid Valley Annihilation completed a free-agent move and dropped Tez Johnson.",
+    "latest_trade": {
+      "transaction_id": "1383224827728367616",
+      "created_at": "2026-07-15T20:56:47.307000+00:00",
+      "type": "trade",
+      "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 17, Rapid Valley Annihilation completed a free-agent move and dropped Tez Johnson."
+    "latest_activity": {
+      "transaction_id": "1383224827728367616",
+      "created_at": "2026-07-15T20:56:47.307000+00:00",
+      "type": "trade",
+      "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
   },
   "sections": [
     {
@@ -87,7 +93,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 17, Rapid Valley Annihilation completed a free-agent move and dropped Tez Johnson."
+      "body": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
     },
     {
       "id": "lineup-pressure-point",
@@ -97,16 +103,16 @@
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 15 offensive players in the current team file are marked Active."
+      "body": "All 15 offensive players on the current Sleeper-owned roster are marked Active."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "No verified future draft assets are currently included in this summary."
+      "body": "Verified current future draft capital contributes 1415.1 D-AVI to the franchise's dynasty total."
     }
   ],
   "source": {
-    "policy": "AVI-Core/knowledge only",
+    "policy": "AVI-Core current Sleeper ownership + AVI valuation data",
     "files": [
       "AVI-Core/knowledge/teams/16_Crimson_Tide_Pods.md"
     ],
