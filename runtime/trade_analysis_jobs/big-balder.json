@@ -1,5 +1,33 @@
 [
   {
+    "id": "mtaan9wl-a8af688e",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Lightskin Legends",
+      "targetAssets": [
+        {
+          "name": "Chase Brown",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Rashee Rice",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1787760841702,
+    "updatedAt": 1787760841702,
+    "expiresAt": 1788192841702,
+    "status": "queued"
+  },
+  {
     "id": "mtaa6svg-64e27de3",
     "phase": "final",
     "mode": "propose_trade",
