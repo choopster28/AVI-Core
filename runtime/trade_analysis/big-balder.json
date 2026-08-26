@@ -1,5 +1,329 @@
 [
   {
+    "id": "mtaan9wl-a8af688e",
+    "createdAt": 1787760896240,
+    "expiresAt": 1788192896240,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Big Balder Brand ↔ Lightskin Legends",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Lightskin Legends",
+      "targetAssets": [
+        {
+          "name": "Chase Brown",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Rashee Rice",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Win Championship, Elite Contender) proposes trading WR Rashee Rice to Lightskin Legends ✊🏽 (Retool) for RB Chase Brown. In a 16-team league, this offer addresses core structural needs for both franchises: Big Balder Brand gains elite RB1 firepower alongside Saquon Barkley, while Lightskin Legends receives an anchor WR1 cornerstone in Rashee Rice (age 26) to fix an underperforming WR corps while smoothly promoting Javonte Williams to RB2. With an Acceptance Probability of 80% (Realistic), this 1-for-1 offer represents a mutually beneficial win-win transaction.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 95.7,
+              "davi": 92.4,
+              "publicMarket": 94,
+              "leagueMarket": 95.7
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.7,
+              "publicMarket": 94.5,
+              "leagueMarket": 96.1
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "A",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even / Win-Win",
+            "summary": "Ideal positional swap between an Elite Contender needing elite RB production and a Retooling manager starved for wide receiver stability. Rashee Rice for Chase Brown straight up preserves total lineup score for both teams while optimizing roster construction."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even / Win-Win",
+            "summary": "The 1-for-1 construction of Rashee Rice for Chase Brown is optimal and requires no further balancing."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Secures a top-tier starting RB in Chase Brown while maintaining a deep WR group led by A.J. Brown and Nico Collins."
+            },
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Establishes a dominant RB tandem (Saquon Barkley + Chase Brown) for the 2026 championship run."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Swaps a 26-year-old elite WR for a 26-year-old elite RB1 in Cincinnati's high-powered offense."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Improves starting RB ceiling while promoting Nico Collins to WR2 and maintaining Jeremiyah Love / Omarion Hampton in FLEX."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Creates extraordinary RB depth resilience with Barkley, Brown, Love, and Hampton."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Preserves core asset value and maintains strong roster balance across all starting slots."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Acquires a 26-year-old WR1 cornerstone in Rashee Rice, resolving their most critical structural weakness during a retool."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Maintains current lineup C-AVI baseline while drastically improving weekly WR scoring stability."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Secures Patrick Mahomes' top wide receiver for the next 4+ seasons, perfectly matching their retool window."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Upgrades WR1 from DK Metcalf (70.9) to Rashee Rice (95.7), with Javonte Williams easily stepping up to RB2."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Balances heavy RB concentration into much-needed starting wide receiver quality."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Wide receiver cornerstones tied to elite QBs hold maximum market liquidity during retooling phases."
+            }
+          },
+          "explanation": "This transaction benefits both organizations directly. Big Balder Brand converts wide receiver depth into a premier starting RB1 for their championship run. Lightskin Legends capitalizes on their RB surplus (Taylor, Brown, Javonte) to acquire the young WR1 cornerstone missing from their retool plan."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "+0.4 starting C-AVI change with substantial RB ceiling improvement. Inserting Chase Brown at RB2 alongside Saquon Barkley allows Nico Collins to start at WR2 and keeps Jeremiyah Love and Omarion Hampton in the FLEX slots.",
+          "sideADynastyImpact": "+1.3 net D-AVI change. Acquires 26-year-old feature RB Chase Brown (93.7 D-AVI) while departing 26-year-old WR Rashee Rice (92.4 D-AVI).",
+          "sideARosterImpact": "Removes WR surplus to eliminate RB volatility, creating an ironclad starting lineup across all 8 offensive positions.",
+          "sideBChampionshipImpact": "-0.4 starting C-AVI change. Promotes Javonte Williams (80.6 C-AVI) to starting RB2 while boosting WR1 from DK Metcalf (70.9 C-AVI) to Rashee Rice (95.7 C-AVI).",
+          "sideBDynastyImpact": "-1.3 net D-AVI change, but fills a massive positional void with a long-term WR1 anchor.",
+          "sideBRosterImpact": "Transforms an imbalanced roster with multiple starting RBs and weak WRs into a balanced, sustainable contender.",
+          "valueAssessment": "Virtually identical asset values (Chase Brown 96.1 C-AVI / 93.7 D-AVI vs. Rashee Rice 95.7 C-AVI / 92.4 D-AVI). Market values are balanced and fair for a 1-for-1 transaction."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views both Rashee Rice and Chase Brown as high-end dynasty assets entering the 2026 season. Rice is viewed as an elite WR1 target monster in Kansas City, while Brown has solidified his role as Cincinnati's clear RB1 with dual-threat capability.",
+          "aviVsMarket": "AVI valuations align closely with public market sentiment. Both players hold top-12 positional market value in 16-team dynasty formats.",
+          "relevantContext": [
+            "Chase Brown enters 2026 as Cincinnati's clear RB1 with heavy volume in both rushing and passing work.",
+            "Rashee Rice serves as the target focal point for Patrick Mahomes in Kansas City.",
+            "In 16-team full PPR leagues, elite RB1s and WR1s command maximum market premiums."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Lightskin Legends ✊🏽 is in Retool status with a severe weakness at WR (DK Metcalf 70.9 C-AVI, Parker Washington 68.2 C-AVI). Trading from their RB surplus (Taylor, Brown, Javonte) to acquire a 26-year-old WR1 anchor fits their strategy perfectly.",
+          "packageFit": "A 1-for-1 player swap directly solves Lightskin Legends' greatest roster deficiency without requiring future pick assets.",
+          "lineupReplacement": "Lightskin Legends smoothly inserts Javonte Williams (80.6 C-AVI) into starting RB2 while Rashee Rice instantly becomes their WR1.",
+          "competitiveWindowFit": "Rashee Rice (age 26) aligns ideal age and productivity timelines for a retooling squad building for 2026-2028 competitiveness.",
+          "positionalScarcity": "In a 16-team PPR league, trading a high-end RB1 for a high-end WR1 is a balanced exchange of scarce assets."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 23,
+            "packageMatch": 19,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 80,
+          "classification": "Realistic",
+          "explanation": "Lightskin Legends ✊🏽 has a clear strategic incentive to move Chase Brown for an elite young WR1 like Rashee Rice. They have internal RB2 replacement capability in Javonte Williams, and the trade directly solves their major roster flaw."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Proposing Rashee Rice for Chase Brown 1-for-1 is a strategically sound, highly realistic offer that advances Big Balder Brand's championship pursuit while providing Lightskin Legends ✊🏽 the retool cornerstone they need.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 95.7,
+              "davi": 92.4,
+              "publicMarket": 94,
+              "leagueMarket": 95.7
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.7,
+              "publicMarket": 94.5,
+              "leagueMarket": 96.1
+            }
+          ],
+          "whyUserShouldDoIt": "Secures an elite RB1 in Chase Brown to pair with Saquon Barkley for a championship run, while utilizing WR depth (A.J. Brown, Nico Collins, Chris Godwin, Khalil Shakir) to maintain total starting lineup strength.",
+          "whyOpponentMightAccept": "Provides Lightskin Legends ✊🏽 with a 26-year-old WR1 cornerstone tied to Patrick Mahomes, fixing their greatest roster weakness while allowing Javonte Williams to step into their starting RB2 slot."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 95.7,
+              "davi": 92.4,
+              "publicMarket": 94,
+              "leagueMarket": 95.7
+            },
+            {
+              "name": "2028 Round 3 Pick",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.7,
+              "publicMarket": 94.5,
+              "leagueMarket": 96.1
+            }
+          ],
+          "rationale": "If the opponent requests minor sweetener to complete the deal, adding a 2028 3rd round pick acts as a low-cost closer without compromising Big Balder Brand's core capital or roster strength."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chase Brown Bengals running back 2026",
+          "Chase Brown fantasy news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiYwroZINq4aqVe3x7BdPkA2S3O1escRcOK01l9a6_jL3m9IweCXv-N6jzJLpaNZw5t3AuLoX8vYM42_IZF6a6XKg2IjqLvZlD2g9sQ7rbt63jvOrwJK3PeTJ9PXOcjFXnNla9sDQF6Onftrxzh-tL03HXnlqUAxhTZbP_IGO6LwwyLrZECzVSsBFlEJ7J",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc9aF6V9pFvVdwTpCVQALobDEIU6Rga9BYuZC5hrk4F2KHtU9ZBIrV5dXLvtXr56xqoQI4h0Xu2oOcwt78nZRwGu8Q_HNdOXcD38GVOd35obNCxoQrOeN4AVbi2yyLjEfPsNRLUC_OLp8Ukh_gVfZxMoeM1g==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH558NO2VB3OEQiWg8ylFZ22lYGiUG9eCNrtZ3wCYebztS_H2MyJmCmNCM3zgAkN1Ljcp1EZK-4-oozPFlAQ-Q28_1f4P9VfoqgqaT2PrMzNFN_X-1gWWrkM3yIKpq6iTBnuP5bemz08e7Ex1EZggITE7IuibdJK1rxktKicZlb5koNE_XlVq3gEUluKA==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTs1uwE_0S5oSicK3QnOJQoQf1ADT2kZySDlTcGtFRA90QpQOdiaGe1mUFtNOBx1a8qFCTPb9FLdsD8b31oQ7ClQS8YWHV7h1oe80YTxgFag6idSJlvAkU0yTBSFKDe85gZGayp1taKMCK0rt_ZfoILXNEckdKT-8m10s=",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg6MVKseu7ZkoADhYmZt0et47EbxT15BNCjzC-gLB2uZkaGSkuwVYwxwUliW3IzgthnNA8h9YfPAuW18SMx3b-8w1LSjiZdQpzwKLtDcmhGUg780yGxGpKlAOPgxLdJVmOXunSG8WYjiEfOOSq-JUOfdTkaFCB6tud0w==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9q74SnoV-BHO_kYcjB3Nb-LvkbKKREGudp3WHGqlB5HAp4YKLQCSXsdPB4QKKPe9_G8H6wwiYRFU3rs4QgQ6wCuSfWf8nb4A0njJ9fLjsL3OJYzgg-fq5thZDYb6IRhVV2ZXh9jIEKS5QQmqYVGgKbPXW7ms9dC3Ddblmt72b",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "5667ed899a3af1d66d0be2b504f933b98d60dac0",
+        "aviCoreCommittedAt": "2026-08-26T15:01:20Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 79860,
+        "groundedMarketChars": 1966,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mtaa6svg-64e27de3",
     "createdAt": 1787760085875,
     "expiresAt": 1788192085875,
