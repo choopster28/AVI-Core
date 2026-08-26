@@ -5,34 +5,34 @@
   "roster_id": 4,
   "owner_display_name": "shawnh56",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Preseason Front Office Brief",
-  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 678.70 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 676.70 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 3,
     "league_size": 16,
-    "score": 678.7,
+    "score": 676.7,
     "team_above": {
       "name": "Conquistadors",
       "rank": 2,
-      "score": 727.4,
-      "gap": 48.69999999999993
+      "score": 726.4,
+      "gap": 49.69999999999993
     },
     "team_below": {
       "name": "SmokyValleyWheatWarriors",
       "rank": 4,
-      "score": 667.6,
-      "gap": 11.100000000000023
+      "score": 666.2,
+      "gap": 10.5
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 8,
+    "rank": 7,
     "league_size": 16,
-    "score": 2184.8,
-    "player_d_avi": 1186.2,
+    "score": 2154.5,
+    "player_d_avi": 1155.9,
     "future_pick_d_avi": 998.6,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above J.K. Dobbins's 60.4 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 48.70-point projected gap to Conquistadors."
+    "Raise the RB slot above J.K. Dobbins's 59.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 49.70-point projected gap to Conquistadors."
   ],
   "rival_below": {
     "franchise_name": "SmokyValleyWheatWarriors",
     "projected_rank": 4,
-    "projected_score": 667.6,
+    "projected_score": 666.2,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1357352399894749184",
@@ -64,12 +64,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #3 of 16 at 678.70 lineup C-AVI. Conquistadors is immediately above at 727.40, a gap of 48.70. SmokyValleyWheatWarriors is immediately behind at 667.60."
+      "body": "Projected #3 of 16 at 676.70 lineup C-AVI. Conquistadors is immediately above at 726.40, a gap of 49.70. SmokyValleyWheatWarriors is immediately behind at 666.20."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jahmyr Gibbs (99.7), Drake London (97.9), and Jalen Hurts (92.4)."
+      "body": "The three highest C-AVI starters are Jahmyr Gibbs (99.7), Drake London (97.8), and Jalen Hurts (92.5)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,9 +79,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above J.K. Dobbins's 60.4 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 48.70-point projected gap to Conquistadors.",
+      "body": "Raise the RB slot above J.K. Dobbins's 59.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 49.70-point projected gap to Conquistadors.",
       "items": [
-        "Raise the RB slot above J.K. Dobbins's 60.4 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 48.70-point projected gap to Conquistadors."
+        "Raise the RB slot above J.K. Dobbins's 59.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 49.70-point projected gap to Conquistadors."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "J.K. Dobbins is the lowest C-AVI starter in the verified championship lineup at 60.4. Any acquisition should clear that exact lineup threshold."
+      "body": "J.K. Dobbins is the lowest C-AVI starter in the verified championship lineup at 59.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/04_Mile_High_Royal_Lions.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

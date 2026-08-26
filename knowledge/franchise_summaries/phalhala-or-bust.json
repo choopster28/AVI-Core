@@ -5,34 +5,34 @@
   "roster_id": 14,
   "owner_display_name": "PIFYAF",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Phalhala or Bust: Preseason Front Office Brief",
-  "executive_summary": "Phalhala or Bust is projected #13 of 16 with a 559.90 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Phalhala or Bust is projected #12 of 16 with a 549.80 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Rome Odunze. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 13,
+    "rank": 12,
     "league_size": 16,
-    "score": 559.9,
+    "score": 549.8,
     "team_above": {
-      "name": "DMV Fantasy",
-      "rank": 12,
-      "score": 564.8,
-      "gap": 4.899999999999977
+      "name": "Gringo\u2019s Goblins",
+      "rank": 11,
+      "score": 575.9,
+      "gap": 26.100000000000023
     },
     "team_below": {
       "name": "Crimson Tide Pods",
-      "rank": 14,
-      "score": 550.1,
-      "gap": 9.799999999999955
+      "rank": 13,
+      "score": 539.8,
+      "gap": 10.0
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 14,
     "league_size": 16,
-    "score": 2015.3,
-    "player_d_avi": 1007.4,
+    "score": 1980.8,
+    "player_d_avi": 972.9,
     "future_pick_d_avi": 1007.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the QB slot above C.J. Stroud's 49.1 C-AVI baseline; a replacement near 55.4 C-AVI would directly attack the 4.90-point projected gap to DMV Fantasy."
+    "Raise the QB slot above C.J. Stroud's 49.0 C-AVI baseline; a replacement near 75.1 C-AVI would directly attack the 26.10-point projected gap to Gringo\u2019s Goblins."
   ],
   "rival_below": {
     "franchise_name": "Crimson Tide Pods",
-    "projected_rank": 14,
-    "projected_score": 550.1,
+    "projected_rank": 13,
+    "projected_score": 539.8,
     "latest_trade": {
-      "transaction_id": "1390168785905782784",
-      "created_at": "2026-08-04T00:49:35.949000+00:00",
+      "transaction_id": "1398169552570863616",
+      "created_at": "2026-08-26T02:41:47.368000+00:00",
       "type": "trade",
-      "summary": "On August 3, Crimson Tide Pods completed a trade with Conquistadors and acquired Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions) and sent De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings).",
+      "summary": "On August 25, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy) and sent Ray Davis, Kimani Vidal, DeVonta Smith.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1390168785905782784",
-      "created_at": "2026-08-04T00:49:35.949000+00:00",
+      "transaction_id": "1398169552570863616",
+      "created_at": "2026-08-26T02:41:47.368000+00:00",
       "type": "trade",
-      "summary": "On August 3, Crimson Tide Pods completed a trade with Conquistadors and acquired Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions) and sent De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings).",
+      "summary": "On August 25, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy) and sent Ray Davis, Kimani Vidal, DeVonta Smith.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 3, Crimson Tide Pods completed a trade with Conquistadors and acquired Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions) and sent De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings)."
+    "summary": "On August 25, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy) and sent Ray Davis, Kimani Vidal, DeVonta Smith."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #13 of 16 at 559.90 lineup C-AVI. DMV Fantasy is immediately above at 564.80, a gap of 4.90. Crimson Tide Pods is immediately behind at 550.10."
+      "body": "Projected #12 of 16 at 549.80 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 575.90, a gap of 26.10. Crimson Tide Pods is immediately behind at 539.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ashton Jeanty (96.9), Sam LaPorta (87.4), and Rome Odunze (76.6)."
+      "body": "The three highest C-AVI starters are Ashton Jeanty (92.4), Sam LaPorta (84.0), and Rome Odunze (75.9)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above C.J. Stroud's 49.1 C-AVI baseline; a replacement near 55.4 C-AVI would directly attack the 4.90-point projected gap to DMV Fantasy.",
+      "body": "Raise the QB slot above C.J. Stroud's 49.0 C-AVI baseline; a replacement near 75.1 C-AVI would directly attack the 26.10-point projected gap to Gringo\u2019s Goblins.",
       "items": [
-        "Raise the QB slot above C.J. Stroud's 49.1 C-AVI baseline; a replacement near 55.4 C-AVI would directly attack the 4.90-point projected gap to DMV Fantasy."
+        "Raise the QB slot above C.J. Stroud's 49.0 C-AVI baseline; a replacement near 75.1 C-AVI would directly attack the 26.10-point projected gap to Gringo\u2019s Goblins."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 3, Crimson Tide Pods completed a trade with Conquistadors and acquired Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions) and sent De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings)."
+      "body": "On August 25, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy) and sent Ray Davis, Kimani Vidal, DeVonta Smith."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "C.J. Stroud is the lowest C-AVI starter in the verified championship lineup at 49.1. Any acquisition should clear that exact lineup threshold."
+      "body": "C.J. Stroud is the lowest C-AVI starter in the verified championship lineup at 49.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -117,7 +117,7 @@
       "AVI-Core/knowledge/teams/14_Phalhala_or_Bust.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

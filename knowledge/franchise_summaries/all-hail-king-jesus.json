@@ -5,34 +5,34 @@
   "roster_id": 8,
   "owner_display_name": "Hofer51",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "All Hail King Jesus: Preseason Front Office Brief",
-  "executive_summary": "All Hail King Jesus is projected #6 of 16 with a 651.40 projected-starting-lineup C-AVI total, led by Amon-Ra St. Brown, Justin Jefferson, and Tucker Kraft. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "All Hail King Jesus is projected #7 of 16 with a 648.60 projected-starting-lineup C-AVI total, led by Amon-Ra St. Brown, Justin Jefferson, and Tucker Kraft. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 6,
+    "rank": 7,
     "league_size": 16,
-    "score": 651.4,
+    "score": 648.6,
     "team_above": {
       "name": "Corgi Loaf Baking Co.",
-      "rank": 5,
-      "score": 658.0,
-      "gap": 6.600000000000023
+      "rank": 6,
+      "score": 651.9,
+      "gap": 3.2999999999999545
     },
     "team_below": {
       "name": "Southside Savages",
-      "rank": 7,
-      "score": 635.5,
-      "gap": 15.899999999999977
+      "rank": 8,
+      "score": 633.4,
+      "gap": 15.200000000000045
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 16,
     "league_size": 16,
-    "score": 1665.7,
-    "player_d_avi": 1045.7,
+    "score": 1628.9,
+    "player_d_avi": 1008.9,
     "future_pick_d_avi": 620.0,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,32 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Zach Charbonnet's 51.5 C-AVI baseline; a replacement near 66.8 C-AVI would directly attack the 6.60-point projected gap to Corgi Loaf Baking Co.."
+    "Raise the RB slot above Zach Charbonnet's 51.1 C-AVI baseline; a replacement near 65.5 C-AVI would directly attack the 3.30-point projected gap to Corgi Loaf Baking Co.."
   ],
   "rival_below": {
     "franchise_name": "Southside Savages",
-    "projected_rank": 7,
-    "projected_score": 635.5,
+    "projected_rank": 8,
+    "projected_score": 633.4,
     "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1351398743596859392",
-      "created_at": "2026-04-19T01:11:17.550000+00:00",
-      "type": "commissioner",
-      "summary": "On April 18, Southside Savages completed a roster transaction and added Malik Willis.",
+      "transaction_id": "1395853748777029632",
+      "created_at": "2026-08-19T17:19:36.718000+00:00",
+      "type": "free_agent",
+      "summary": "On August 19, Southside Savages completed a free-agent move and added DeMario Douglas while dropped Ben Roethlisberger.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On April 18, Southside Savages completed a roster transaction and added Malik Willis."
+    "summary": "On August 19, Southside Savages completed a free-agent move and added DeMario Douglas while dropped Ben Roethlisberger."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #6 of 16 at 651.40 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 658.00, a gap of 6.60. Southside Savages is immediately behind at 635.50."
+      "body": "Projected #7 of 16 at 648.60 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 651.90, a gap of 3.30. Southside Savages is immediately behind at 633.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Amon-Ra St. Brown (98.7), Justin Jefferson (97.4), and Tucker Kraft (83.0)."
+      "body": "The three highest C-AVI starters are Amon-Ra St. Brown (98.6), Justin Jefferson (97.3), and Tucker Kraft (82.8)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,20 +79,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Zach Charbonnet's 51.5 C-AVI baseline; a replacement near 66.8 C-AVI would directly attack the 6.60-point projected gap to Corgi Loaf Baking Co..",
+      "body": "Raise the RB slot above Zach Charbonnet's 51.1 C-AVI baseline; a replacement near 65.5 C-AVI would directly attack the 3.30-point projected gap to Corgi Loaf Baking Co..",
       "items": [
-        "Raise the RB slot above Zach Charbonnet's 51.5 C-AVI baseline; a replacement near 66.8 C-AVI would directly attack the 6.60-point projected gap to Corgi Loaf Baking Co.."
+        "Raise the RB slot above Zach Charbonnet's 51.1 C-AVI baseline; a replacement near 65.5 C-AVI would directly attack the 3.30-point projected gap to Corgi Loaf Baking Co.."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On April 18, Southside Savages completed a roster transaction and added Malik Willis."
+      "body": "On August 19, Southside Savages completed a free-agent move and added DeMario Douglas while dropped Ben Roethlisberger."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Zach Charbonnet is the lowest C-AVI starter in the verified championship lineup at 51.5. Any acquisition should clear that exact lineup threshold."
+      "body": "Zach Charbonnet is the lowest C-AVI starter in the verified championship lineup at 51.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/08_All_Hail_King_Jesus.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

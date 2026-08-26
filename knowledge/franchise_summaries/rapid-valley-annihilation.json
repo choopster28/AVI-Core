@@ -5,34 +5,34 @@
   "roster_id": 2,
   "owner_display_name": "FuzzyRaptor",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Rapid Valley Annihilation: Preseason Front Office Brief",
-  "executive_summary": "Rapid Valley Annihilation is projected #15 of 16 with a 537.10 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the WR slot without weakening that core.",
+  "executive_summary": "Rapid Valley Annihilation is projected #14 of 16 with a 535.20 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 15,
+    "rank": 14,
     "league_size": 16,
-    "score": 537.1,
+    "score": 535.2,
     "team_above": {
       "name": "Crimson Tide Pods",
-      "rank": 14,
-      "score": 550.1,
-      "gap": 13.0
+      "rank": 13,
+      "score": 539.8,
+      "gap": 4.599999999999909
     },
     "team_below": {
-      "name": "Northside Kings",
-      "rank": 16,
-      "score": 498.4,
-      "gap": 38.700000000000045
+      "name": "DMV Fantasy",
+      "rank": 15,
+      "score": 533.4,
+      "gap": 1.8000000000000682
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 1,
+    "rank": 2,
     "league_size": 16,
-    "score": 2555.9,
-    "player_d_avi": 1233.4,
+    "score": 2508.2,
+    "player_d_avi": 1185.7,
     "future_pick_d_avi": 1322.5,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,32 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the WR slot above Denzel Boston's 53.4 C-AVI baseline; a replacement near 66.4 C-AVI would directly attack the 13.00-point projected gap to Crimson Tide Pods."
+    "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 4.60-point projected gap to Crimson Tide Pods."
   ],
   "rival_below": {
-    "franchise_name": "Northside Kings",
-    "projected_rank": 16,
-    "projected_score": 498.4,
-    "latest_trade": null,
-    "latest_activity": {
-      "transaction_id": "1390147752540778496",
-      "created_at": "2026-08-03T23:26:01.203000+00:00",
-      "type": "free_agent",
-      "summary": "On August 3, Northside Kings completed a free-agent move and dropped Mike Washington.",
+    "franchise_name": "DMV Fantasy",
+    "projected_rank": 15,
+    "projected_score": 533.4,
+    "latest_trade": {
+      "transaction_id": "1396908520204410880",
+      "created_at": "2026-08-22T15:10:53.824000+00:00",
+      "type": "trade",
+      "summary": "On August 22, DMV Fantasy completed a trade with Badland Banditos and acquired 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos) and sent Terry McLaurin.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 3, Northside Kings completed a free-agent move and dropped Mike Washington."
+    "latest_activity": {
+      "transaction_id": "1396908520204410880",
+      "created_at": "2026-08-22T15:10:53.824000+00:00",
+      "type": "trade",
+      "summary": "On August 22, DMV Fantasy completed a trade with Badland Banditos and acquired 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos) and sent Terry McLaurin.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On August 22, DMV Fantasy completed a trade with Badland Banditos and acquired 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos) and sent Terry McLaurin."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #15 of 16 at 537.10 lineup C-AVI. Crimson Tide Pods is immediately above at 550.10, a gap of 13.00. Northside Kings is immediately behind at 498.40."
+      "body": "Projected #14 of 16 at 535.20 lineup C-AVI. Crimson Tide Pods is immediately above at 539.80, a gap of 4.60. DMV Fantasy is immediately behind at 533.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Colston Loveland (98.1), Quinshon Judkins (75.7), and Caleb Williams (73.5)."
+      "body": "The three highest C-AVI starters are Colston Loveland (98.1), Quinshon Judkins (75.9), and Caleb Williams (73.6)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Denzel Boston's 53.4 C-AVI baseline; a replacement near 66.4 C-AVI would directly attack the 13.00-point projected gap to Crimson Tide Pods.",
+      "body": "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 4.60-point projected gap to Crimson Tide Pods.",
       "items": [
-        "Raise the WR slot above Denzel Boston's 53.4 C-AVI baseline; a replacement near 66.4 C-AVI would directly attack the 13.00-point projected gap to Crimson Tide Pods."
+        "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 57.1 C-AVI would directly attack the 4.60-point projected gap to Crimson Tide Pods."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 3, Northside Kings completed a free-agent move and dropped Mike Washington."
+      "body": "On August 22, DMV Fantasy completed a trade with Badland Banditos and acquired 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos) and sent Terry McLaurin."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Denzel Boston is the lowest C-AVI starter in the verified championship lineup at 53.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Blake Corum is the lowest C-AVI starter in the verified championship lineup at 52.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -108,9 +114,10 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/02_Rapid_Valley_Annihilation.md"
+      "AVI-Core/knowledge/teams/02_Rapid_Valley_Annihilation.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

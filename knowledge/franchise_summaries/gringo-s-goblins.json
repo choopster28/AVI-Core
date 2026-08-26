@@ -5,34 +5,34 @@
   "roster_id": 15,
   "owner_display_name": "Burnfaze",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
-  "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 574.80 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Jameson Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 575.90 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Jameson Williams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 11,
     "league_size": 16,
-    "score": 574.8,
+    "score": 575.9,
     "team_above": {
       "name": "Lightskin Legends \u270a\ud83c\udffd",
       "rank": 10,
-      "score": 594.9,
-      "gap": 20.100000000000023
+      "score": 591.7,
+      "gap": 15.800000000000068
     },
     "team_below": {
-      "name": "DMV Fantasy",
+      "name": "Phalhala or Bust",
       "rank": 12,
-      "score": 564.8,
-      "gap": 10.0
+      "score": 549.8,
+      "gap": 26.100000000000023
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 6,
+    "rank": 5,
     "league_size": 16,
-    "score": 2246.4,
-    "player_d_avi": 1169.9,
+    "score": 2200.1,
+    "player_d_avi": 1123.6,
     "future_pick_d_avi": 1076.5,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Aaron Jones's 54.6 C-AVI baseline; a replacement near 74.7 C-AVI would directly attack the 20.10-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
+    "Raise the FLEX slot above Romeo Doubs's 56.4 C-AVI baseline; a replacement near 72.2 C-AVI would directly attack the 15.80-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
   ],
   "rival_below": {
-    "franchise_name": "DMV Fantasy",
+    "franchise_name": "Phalhala or Bust",
     "projected_rank": 12,
-    "projected_score": 564.8,
-    "latest_trade": {
-      "transaction_id": "1394506115831586816",
-      "created_at": "2026-08-16T00:04:35.987000+00:00",
-      "type": "trade",
-      "summary": "On August 15, DMV Fantasy completed a trade with Big Balder Brand and acquired Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand) and sent Jayden Daniels, Khalil Shakir.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
+    "projected_score": 549.8,
+    "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1394506115831586816",
-      "created_at": "2026-08-16T00:04:35.987000+00:00",
-      "type": "trade",
-      "summary": "On August 15, DMV Fantasy completed a trade with Big Balder Brand and acquired Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand) and sent Jayden Daniels, Khalil Shakir.",
+      "transaction_id": "1396633636538699776",
+      "created_at": "2026-08-21T20:58:36.450000+00:00",
+      "type": "free_agent",
+      "summary": "On August 21, Phalhala or Bust completed a free-agent move and added Dallas Turner while dropped Akheem Mesidor.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 15, DMV Fantasy completed a trade with Big Balder Brand and acquired Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand) and sent Jayden Daniels, Khalil Shakir."
+    "summary": "On August 21, Phalhala or Bust completed a free-agent move and added Dallas Turner while dropped Akheem Mesidor."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #11 of 16 at 574.80 lineup C-AVI. Lightskin Legends \u270a\ud83c\udffd is immediately above at 594.90, a gap of 20.10. DMV Fantasy is immediately behind at 564.80."
+      "body": "Projected #11 of 16 at 575.90 lineup C-AVI. Lightskin Legends \u270a\ud83c\udffd is immediately above at 591.70, a gap of 15.80. Phalhala or Bust is immediately behind at 549.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Emeka Egbuka (85.7), Kyren Williams (83.8), and Jameson Williams (80.7)."
+      "body": "The three highest C-AVI starters are Emeka Egbuka (85.3), Kyren Williams (83.5), and Jameson Williams (79.9)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,20 +79,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Aaron Jones's 54.6 C-AVI baseline; a replacement near 74.7 C-AVI would directly attack the 20.10-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
+      "body": "Raise the FLEX slot above Romeo Doubs's 56.4 C-AVI baseline; a replacement near 72.2 C-AVI would directly attack the 15.80-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
       "items": [
-        "Raise the FLEX slot above Aaron Jones's 54.6 C-AVI baseline; a replacement near 74.7 C-AVI would directly attack the 20.10-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
+        "Raise the FLEX slot above Romeo Doubs's 56.4 C-AVI baseline; a replacement near 72.2 C-AVI would directly attack the 15.80-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 15, DMV Fantasy completed a trade with Big Balder Brand and acquired Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand) and sent Jayden Daniels, Khalil Shakir."
+      "body": "On August 21, Phalhala or Bust completed a free-agent move and added Dallas Turner while dropped Akheem Mesidor."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Aaron Jones is the lowest C-AVI starter in the verified championship lineup at 54.6. Any acquisition should clear that exact lineup threshold."
+      "body": "Romeo Doubs is the lowest C-AVI starter in the verified championship lineup at 56.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -114,10 +108,9 @@
   "source": {
     "policy": "AVI-Core/knowledge only",
     "files": [
-      "AVI-Core/knowledge/teams/15_Gringo_s_Goblins.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/15_Gringo_s_Goblins.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

@@ -5,51 +5,51 @@
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Preseason Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #14 of 16 with a 550.10 projected-starting-lineup C-AVI total, led by DeVonta Smith, Alec Pierce, and Justin Herbert. The immediate priority is improving the TE slot without weakening that core.",
+  "executive_summary": "Crimson Tide Pods is projected #13 of 16 with a 539.80 projected-starting-lineup C-AVI total, led by DeVonta Smith, Justin Herbert, and Alec Pierce. The immediate priority is improving the TE slot without weakening that core.",
   "projected_power": {
-    "rank": 14,
+    "rank": 13,
     "league_size": 16,
-    "score": 550.1,
+    "score": 539.8,
     "team_above": {
       "name": "Phalhala or Bust",
-      "rank": 13,
-      "score": 559.9,
-      "gap": 9.799999999999955
+      "rank": 12,
+      "score": 549.8,
+      "gap": 10.0
     },
     "team_below": {
       "name": "Rapid Valley Annihilation",
-      "rank": 15,
-      "score": 537.1,
-      "gap": 13.0
+      "rank": 14,
+      "score": 535.2,
+      "gap": 4.599999999999909
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 2,
+    "rank": 1,
     "league_size": 16,
-    "score": 2504.6,
-    "player_d_avi": 1168.8,
-    "future_pick_d_avi": 1335.8,
+    "score": 2529.5,
+    "player_d_avi": 1114.4,
+    "future_pick_d_avi": 1415.1,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1390168785905782784",
-    "created_at": "2026-08-04T00:49:35.949000+00:00",
+    "transaction_id": "1398169552570863616",
+    "created_at": "2026-08-26T02:41:47.368000+00:00",
     "type": "trade",
-    "summary": "On August 3, Crimson Tide Pods completed a trade with Conquistadors and acquired Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions) and sent De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings).",
+    "summary": "On August 25, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy) and sent Ray Davis, Kimani Vidal, DeVonta Smith.",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Oronde Gadsden's 53.9 C-AVI baseline; a replacement near 63.7 C-AVI would directly attack the 9.80-point projected gap to Phalhala or Bust."
+    "Raise the TE slot above Gunnar Helm's 52.7 C-AVI baseline; a replacement near 62.7 C-AVI would directly attack the 10.00-point projected gap to Phalhala or Bust."
   ],
   "rival_below": {
     "franchise_name": "Rapid Valley Annihilation",
-    "projected_rank": 15,
-    "projected_score": 537.1,
+    "projected_rank": 14,
+    "projected_score": 535.2,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1395082105167306752",
@@ -64,24 +64,24 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 550.10 lineup C-AVI. Phalhala or Bust is immediately above at 559.90, a gap of 9.80. Rapid Valley Annihilation is immediately behind at 537.10."
+      "body": "Projected #13 of 16 at 539.80 lineup C-AVI. Phalhala or Bust is immediately above at 549.80, a gap of 10.00. Rapid Valley Annihilation is immediately behind at 535.20."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are DeVonta Smith (88.0), Alec Pierce (72.9), and Justin Herbert (71.1)."
+      "body": "The three highest C-AVI starters are DeVonta Smith (87.4), Justin Herbert (71.1), and Alec Pierce (70.0)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On August 3, Crimson Tide Pods completed a trade with Conquistadors and acquired Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions) and sent De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings)."
+      "body": "On August 25, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy) and sent Ray Davis, Kimani Vidal, DeVonta Smith."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Oronde Gadsden's 53.9 C-AVI baseline; a replacement near 63.7 C-AVI would directly attack the 9.80-point projected gap to Phalhala or Bust.",
+      "body": "Raise the TE slot above Gunnar Helm's 52.7 C-AVI baseline; a replacement near 62.7 C-AVI would directly attack the 10.00-point projected gap to Phalhala or Bust.",
       "items": [
-        "Raise the TE slot above Oronde Gadsden's 53.9 C-AVI baseline; a replacement near 63.7 C-AVI would directly attack the 9.80-point projected gap to Phalhala or Bust."
+        "Raise the TE slot above Gunnar Helm's 52.7 C-AVI baseline; a replacement near 62.7 C-AVI would directly attack the 10.00-point projected gap to Phalhala or Bust."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Oronde Gadsden is the lowest C-AVI starter in the verified championship lineup at 53.9. Any acquisition should clear that exact lineup threshold."
+      "body": "Gunnar Helm is the lowest C-AVI starter in the verified championship lineup at 52.7. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/16_Crimson_Tide_Pods.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

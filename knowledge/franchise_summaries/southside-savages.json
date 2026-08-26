@@ -5,34 +5,34 @@
   "roster_id": 13,
   "owner_display_name": "GGEZGoNext",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Preseason Front Office Brief",
-  "executive_summary": "Southside Savages is projected #7 of 16 with a 635.50 projected-starting-lineup C-AVI total, led by Drake Maye, Tetairoa McMillan, and Josh Jacobs. The immediate priority is improving the TE slot without weakening that core.",
+  "executive_summary": "Southside Savages is projected #8 of 16 with a 633.40 projected-starting-lineup C-AVI total, led by Drake Maye, Tetairoa McMillan, and Josh Jacobs. The immediate priority is improving the TE slot without weakening that core.",
   "projected_power": {
-    "rank": 7,
+    "rank": 8,
     "league_size": 16,
-    "score": 635.5,
+    "score": 633.4,
     "team_above": {
       "name": "All Hail King Jesus",
-      "rank": 6,
-      "score": 651.4,
-      "gap": 15.899999999999977
+      "rank": 7,
+      "score": 648.6,
+      "gap": 15.200000000000045
     },
     "team_below": {
-      "name": "Badland Banditos",
-      "rank": 8,
-      "score": 629.9,
-      "gap": 5.600000000000023
+      "name": "Ravens Regime",
+      "rank": 9,
+      "score": 627.1,
+      "gap": 6.2999999999999545
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 15,
     "league_size": 16,
-    "score": 1931.1,
-    "player_d_avi": 923.2,
+    "score": 1968.9,
+    "player_d_avi": 961.0,
     "future_pick_d_avi": 1007.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,32 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Chig Okonkwo's 56.4 C-AVI baseline; a replacement near 72.3 C-AVI would directly attack the 15.90-point projected gap to All Hail King Jesus."
+    "Raise the TE slot above Chig Okonkwo's 56.3 C-AVI baseline; a replacement near 71.5 C-AVI would directly attack the 15.20-point projected gap to All Hail King Jesus."
   ],
   "rival_below": {
-    "franchise_name": "Badland Banditos",
-    "projected_rank": 8,
-    "projected_score": 629.9,
+    "franchise_name": "Ravens Regime",
+    "projected_rank": 9,
+    "projected_score": 627.1,
     "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1395840551860850688",
-      "created_at": "2026-08-19T16:27:10.328000+00:00",
+      "transaction_id": "1397275239980777472",
+      "created_at": "2026-08-23T15:28:06.631000+00:00",
       "type": "free_agent",
-      "summary": "On August 19, Badland Banditos completed a free-agent move and added Jaylin Noel while dropped Bryce Lance.",
+      "summary": "On August 23, Ravens Regime completed a free-agent move and added Adam Randall while dropped Demond Claiborne.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 19, Badland Banditos completed a free-agent move and added Jaylin Noel while dropped Bryce Lance."
+    "summary": "On August 23, Ravens Regime completed a free-agent move and added Adam Randall while dropped Demond Claiborne."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #7 of 16 at 635.50 lineup C-AVI. All Hail King Jesus is immediately above at 651.40, a gap of 15.90. Badland Banditos is immediately behind at 629.90."
+      "body": "Projected #8 of 16 at 633.40 lineup C-AVI. All Hail King Jesus is immediately above at 648.60, a gap of 15.20. Ravens Regime is immediately behind at 627.10."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Drake Maye (97.5), Tetairoa McMillan (87.6), and Josh Jacobs (85.4)."
+      "body": "The three highest C-AVI starters are Drake Maye (97.5), Tetairoa McMillan (87.1), and Josh Jacobs (85.0)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,20 +79,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Chig Okonkwo's 56.4 C-AVI baseline; a replacement near 72.3 C-AVI would directly attack the 15.90-point projected gap to All Hail King Jesus.",
+      "body": "Raise the TE slot above Chig Okonkwo's 56.3 C-AVI baseline; a replacement near 71.5 C-AVI would directly attack the 15.20-point projected gap to All Hail King Jesus.",
       "items": [
-        "Raise the TE slot above Chig Okonkwo's 56.4 C-AVI baseline; a replacement near 72.3 C-AVI would directly attack the 15.90-point projected gap to All Hail King Jesus."
+        "Raise the TE slot above Chig Okonkwo's 56.3 C-AVI baseline; a replacement near 71.5 C-AVI would directly attack the 15.20-point projected gap to All Hail King Jesus."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 19, Badland Banditos completed a free-agent move and added Jaylin Noel while dropped Bryce Lance."
+      "body": "On August 23, Ravens Regime completed a free-agent move and added Adam Randall while dropped Demond Claiborne."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Chig Okonkwo is the lowest C-AVI starter in the verified championship lineup at 56.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Chig Okonkwo is the lowest C-AVI starter in the verified championship lineup at 56.3. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/13_Southside_Savages.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

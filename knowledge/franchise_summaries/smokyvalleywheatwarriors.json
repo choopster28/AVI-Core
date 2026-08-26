@@ -5,34 +5,34 @@
   "roster_id": 10,
   "owner_display_name": "AlexPete6800",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
-  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 667.60 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and Chris Olave. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 666.20 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and Chris Olave. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 4,
     "league_size": 16,
-    "score": 667.6,
+    "score": 666.2,
     "team_above": {
       "name": "Mile High Royal Lions",
       "rank": 3,
-      "score": 678.7,
-      "gap": 11.100000000000023
+      "score": 676.7,
+      "gap": 10.5
     },
     "team_below": {
-      "name": "Corgi Loaf Baking Co.",
+      "name": "Badland Banditos",
       "rank": 5,
-      "score": 658.0,
-      "gap": 9.600000000000023
+      "score": 652.5,
+      "gap": 13.700000000000045
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 2051.5,
-    "player_d_avi": 1074.9,
+    "score": 2020.7,
+    "player_d_avi": 1044.1,
     "future_pick_d_avi": 976.6,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,32 +44,32 @@
     "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Rico Dowdle's 63.2 C-AVI baseline; a replacement near 74.3 C-AVI would directly attack the 11.10-point projected gap to Mile High Royal Lions."
+    "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 72.5 C-AVI would directly attack the 10.50-point projected gap to Mile High Royal Lions."
   ],
   "rival_below": {
-    "franchise_name": "Corgi Loaf Baking Co.",
+    "franchise_name": "Badland Banditos",
     "projected_rank": 5,
-    "projected_score": 658.0,
+    "projected_score": 652.5,
     "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1395480148312064000",
-      "created_at": "2026-08-18T16:35:03.426000+00:00",
+      "transaction_id": "1396944612223930368",
+      "created_at": "2026-08-22T17:34:18.831000+00:00",
       "type": "free_agent",
-      "summary": "On August 18, Corgi Loaf Baking Co. completed a free-agent move and added Najee Harris while dropped Eli Raridon.",
+      "summary": "On August 22, Badland Banditos completed a free-agent move and dropped Darren Waller.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 18, Corgi Loaf Baking Co. completed a free-agent move and added Najee Harris while dropped Eli Raridon."
+    "summary": "On August 22, Badland Banditos completed a free-agent move and dropped Darren Waller."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #4 of 16 at 667.60 lineup C-AVI. Mile High Royal Lions is immediately above at 678.70, a gap of 11.10. Corgi Loaf Baking Co. is immediately behind at 658.00."
+      "body": "Projected #4 of 16 at 666.20 lineup C-AVI. Mile High Royal Lions is immediately above at 676.70, a gap of 10.50. Badland Banditos is immediately behind at 652.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are CeeDee Lamb (97.7), Christian McCaffrey (97.5), and Chris Olave (95.5)."
+      "body": "The three highest C-AVI starters are CeeDee Lamb (97.6), Christian McCaffrey (96.8), and Chris Olave (95.4)."
     },
     {
       "id": "latest-trade-impact",
@@ -79,20 +79,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Rico Dowdle's 63.2 C-AVI baseline; a replacement near 74.3 C-AVI would directly attack the 11.10-point projected gap to Mile High Royal Lions.",
+      "body": "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 72.5 C-AVI would directly attack the 10.50-point projected gap to Mile High Royal Lions.",
       "items": [
-        "Raise the FLEX slot above Rico Dowdle's 63.2 C-AVI baseline; a replacement near 74.3 C-AVI would directly attack the 11.10-point projected gap to Mile High Royal Lions."
+        "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 72.5 C-AVI would directly attack the 10.50-point projected gap to Mile High Royal Lions."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 18, Corgi Loaf Baking Co. completed a free-agent move and added Najee Harris while dropped Eli Raridon."
+      "body": "On August 22, Badland Banditos completed a free-agent move and dropped Darren Waller."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Rico Dowdle is the lowest C-AVI starter in the verified championship lineup at 63.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Rico Dowdle is the lowest C-AVI starter in the verified championship lineup at 62.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/10_SmokyValleyWheatWarriors.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

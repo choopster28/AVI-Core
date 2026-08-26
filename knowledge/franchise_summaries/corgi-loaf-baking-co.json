@@ -5,51 +5,51 @@
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #5 of 16 with a 658.00 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #6 of 16 with a 651.90 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 5,
+    "rank": 6,
     "league_size": 16,
-    "score": 658.0,
+    "score": 651.9,
     "team_above": {
-      "name": "SmokyValleyWheatWarriors",
-      "rank": 4,
-      "score": 667.6,
-      "gap": 9.600000000000023
+      "name": "Badland Banditos",
+      "rank": 5,
+      "score": 652.5,
+      "gap": 0.6000000000000227
     },
     "team_below": {
       "name": "All Hail King Jesus",
-      "rank": 6,
-      "score": 651.4,
-      "gap": 6.600000000000023
+      "rank": 7,
+      "score": 648.6,
+      "gap": 3.2999999999999545
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 9,
+    "rank": 12,
     "league_size": 16,
-    "score": 2159.1,
-    "player_d_avi": 1275.2,
-    "future_pick_d_avi": 883.9,
+    "score": 2025.0,
+    "player_d_avi": 1220.4,
+    "future_pick_d_avi": 804.6,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1394413143647592448",
-    "created_at": "2026-08-15T17:55:09.691000+00:00",
+    "transaction_id": "1398169552570863616",
+    "created_at": "2026-08-26T02:41:47.368000+00:00",
     "type": "trade",
-    "summary": "On August 15, Corgi Loaf Baking Co. completed a trade with Gringo\u2019s Goblins and acquired David Montgomery, Tank Dell and sent Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.).",
+    "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Wan'Dale Robinson's 66.8 C-AVI baseline; a replacement near 76.4 C-AVI would directly attack the 9.60-point projected gap to SmokyValleyWheatWarriors."
+    "Raise the FLEX slot above Wan'Dale Robinson's 65.5 C-AVI baseline; a replacement near 66.1 C-AVI would directly attack the 0.60-point projected gap to Badland Banditos."
   ],
   "rival_below": {
     "franchise_name": "All Hail King Jesus",
-    "projected_rank": 6,
-    "projected_score": 651.4,
+    "projected_rank": 7,
+    "projected_score": 648.6,
     "latest_trade": null,
     "latest_activity": {
       "transaction_id": "1395270295127863296",
@@ -64,24 +64,24 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #5 of 16 at 658.00 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 667.60, a gap of 9.60. All Hail King Jesus is immediately behind at 651.40."
+      "body": "Projected #6 of 16 at 651.90 lineup C-AVI. Badland Banditos is immediately above at 652.50, a gap of 0.60. All Hail King Jesus is immediately behind at 648.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.2), Tyler Warren (97.3), and Malik Nabers (90.0)."
+      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Tyler Warren (97.3), and Malik Nabers (89.5)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On August 15, Corgi Loaf Baking Co. completed a trade with Gringo\u2019s Goblins and acquired David Montgomery, Tank Dell and sent Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.)."
+      "body": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Wan'Dale Robinson's 66.8 C-AVI baseline; a replacement near 76.4 C-AVI would directly attack the 9.60-point projected gap to SmokyValleyWheatWarriors.",
+      "body": "Raise the FLEX slot above Wan'Dale Robinson's 65.5 C-AVI baseline; a replacement near 66.1 C-AVI would directly attack the 0.60-point projected gap to Badland Banditos.",
       "items": [
-        "Raise the FLEX slot above Wan'Dale Robinson's 66.8 C-AVI baseline; a replacement near 76.4 C-AVI would directly attack the 9.60-point projected gap to SmokyValleyWheatWarriors."
+        "Raise the FLEX slot above Wan'Dale Robinson's 65.5 C-AVI baseline; a replacement near 66.1 C-AVI would directly attack the 0.60-point projected gap to Badland Banditos."
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Wan'Dale Robinson is the lowest C-AVI starter in the verified championship lineup at 66.8. Any acquisition should clear that exact lineup threshold."
+      "body": "Wan'Dale Robinson is the lowest C-AVI starter in the verified championship lineup at 65.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

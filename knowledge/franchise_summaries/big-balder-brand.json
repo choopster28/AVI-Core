@@ -5,29 +5,29 @@
   "roster_id": 9,
   "owner_display_name": "Choopski",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Preseason Front Office Brief",
-  "executive_summary": "Big Balder Brand is projected #1 of 16 with a 749.20 projected-starting-lineup C-AVI total, led by Trey McBride, Rashee Rice, and Jayden Daniels. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Big Balder Brand is projected #1 of 16 with a 747.80 projected-starting-lineup C-AVI total, led by Trey McBride, Jayden Daniels, and Rashee Rice. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 1,
     "league_size": 16,
-    "score": 749.2,
+    "score": 747.8,
     "team_above": null,
     "team_below": {
       "name": "Conquistadors",
       "rank": 2,
-      "score": 727.4,
-      "gap": 21.800000000000068
+      "score": 726.4,
+      "gap": 21.399999999999977
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 12,
+    "rank": 11,
     "league_size": 16,
-    "score": 2056.8,
-    "player_d_avi": 1314.8,
+    "score": 2035.3,
+    "player_d_avi": 1293.3,
     "future_pick_d_avi": 742.0,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,27 +44,27 @@
   "rival_below": {
     "franchise_name": "Conquistadors",
     "projected_rank": 2,
-    "projected_score": 727.4,
+    "projected_score": 726.4,
     "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1395812507662159872",
-      "created_at": "2026-08-19T14:35:44.071000+00:00",
+      "transaction_id": "1398053650277920768",
+      "created_at": "2026-08-25T19:01:14.108000+00:00",
       "type": "free_agent",
-      "summary": "On August 19, Conquistadors completed a free-agent move and added Devaughn Vele while dropped Tyreek Hill.",
+      "summary": "On August 25, Conquistadors completed a free-agent move and added Colbie Young while dropped Cyrus Allen.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 19, Conquistadors completed a free-agent move and added Devaughn Vele while dropped Tyreek Hill."
+    "summary": "On August 25, Conquistadors completed a free-agent move and added Colbie Young while dropped Cyrus Allen."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #1 of 16 at 749.20 lineup C-AVI. Conquistadors is immediately behind at 727.40."
+      "body": "Projected #1 of 16 at 747.80 lineup C-AVI. Conquistadors is immediately behind at 726.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Trey McBride (99.5), Rashee Rice (96.2), and Jayden Daniels (95.9)."
+      "body": "The three highest C-AVI starters are Trey McBride (99.5), Jayden Daniels (95.9), and Rashee Rice (95.7)."
     },
     {
       "id": "latest-trade-impact",
@@ -82,7 +82,7 @@
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 19, Conquistadors completed a free-agent move and added Devaughn Vele while dropped Tyreek Hill."
+      "body": "On August 25, Conquistadors completed a free-agent move and added Colbie Young while dropped Cyrus Allen."
     },
     {
       "id": "lineup-pressure-point",
@@ -105,7 +105,7 @@
     "files": [
       "AVI-Core/knowledge/teams/09_Big_Balder_Brand.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

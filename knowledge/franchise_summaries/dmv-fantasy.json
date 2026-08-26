@@ -5,99 +5,99 @@
   "roster_id": 12,
   "owner_display_name": "TacticsNoob",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Preseason Front Office Brief",
-  "executive_summary": "DMV Fantasy is projected #12 of 16 with a 564.80 projected-starting-lineup C-AVI total, led by Breece Hall, Jaxson Dart, and George Kittle. The immediate priority is improving the WR slot without weakening that core.",
+  "executive_summary": "DMV Fantasy is projected #15 of 16 with a 533.40 projected-starting-lineup C-AVI total, led by Breece Hall, George Kittle, and Jaxson Dart. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
-    "rank": 12,
+    "rank": 15,
     "league_size": 16,
-    "score": 564.8,
+    "score": 533.4,
     "team_above": {
-      "name": "Gringo\u2019s Goblins",
-      "rank": 11,
-      "score": 574.8,
-      "gap": 10.0
+      "name": "Rapid Valley Annihilation",
+      "rank": 14,
+      "score": 535.2,
+      "gap": 1.8000000000000682
     },
     "team_below": {
-      "name": "Phalhala or Bust",
-      "rank": 13,
-      "score": 559.9,
-      "gap": 4.899999999999977
+      "name": "Northside Kings",
+      "rank": 16,
+      "score": 492.6,
+      "gap": 40.799999999999955
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
     "rank": 3,
     "league_size": 16,
-    "score": 2426.4,
-    "player_d_avi": 1113.9,
-    "future_pick_d_avi": 1312.5,
+    "score": 2390.6,
+    "player_d_avi": 970.8,
+    "future_pick_d_avi": 1419.8,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1394506115831586816",
-    "created_at": "2026-08-16T00:04:35.987000+00:00",
+    "transaction_id": "1396908520204410880",
+    "created_at": "2026-08-22T15:10:53.824000+00:00",
     "type": "trade",
-    "summary": "On August 15, DMV Fantasy completed a trade with Big Balder Brand and acquired Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand) and sent Jayden Daniels, Khalil Shakir.",
+    "summary": "On August 22, DMV Fantasy completed a trade with Badland Banditos and acquired 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos) and sent Terry McLaurin.",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the WR slot above Jalen Coker's 55.4 C-AVI baseline; a replacement near 65.4 C-AVI would directly attack the 10.00-point projected gap to Gringo\u2019s Goblins."
+    "Raise the WR slot above Jauan Jennings's 48.1 C-AVI baseline; a replacement near 52.5 C-AVI would directly attack the 1.80-point projected gap to Rapid Valley Annihilation."
   ],
   "rival_below": {
-    "franchise_name": "Phalhala or Bust",
-    "projected_rank": 13,
-    "projected_score": 559.9,
+    "franchise_name": "Northside Kings",
+    "projected_rank": 16,
+    "projected_score": 492.6,
     "latest_trade": null,
     "latest_activity": {
-      "transaction_id": "1390049580791402496",
-      "created_at": "2026-08-03T16:55:55.235000+00:00",
+      "transaction_id": "1390147752540778496",
+      "created_at": "2026-08-03T23:26:01.203000+00:00",
       "type": "free_agent",
-      "summary": "On August 3, Phalhala or Bust completed a free-agent move and added Marquise Brown while dropped Calvin Ridley.",
+      "summary": "On August 3, Northside Kings completed a free-agent move and dropped Mike Washington.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 3, Phalhala or Bust completed a free-agent move and added Marquise Brown while dropped Calvin Ridley."
+    "summary": "On August 3, Northside Kings completed a free-agent move and dropped Mike Washington."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #12 of 16 at 564.80 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 574.80, a gap of 10.00. Phalhala or Bust is immediately behind at 559.90."
+      "body": "Projected #15 of 16 at 533.40 lineup C-AVI. Rapid Valley Annihilation is immediately above at 535.20, a gap of 1.80. Northside Kings is immediately behind at 492.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Breece Hall (86.0), Jaxson Dart (82.2), and George Kittle (79.3)."
+      "body": "The three highest C-AVI starters are Breece Hall (86.0), George Kittle (84.1), and Jaxson Dart (82.0)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On August 15, DMV Fantasy completed a trade with Big Balder Brand and acquired Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand) and sent Jayden Daniels, Khalil Shakir."
+      "body": "On August 22, DMV Fantasy completed a trade with Badland Banditos and acquired 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos) and sent Terry McLaurin."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the WR slot above Jalen Coker's 55.4 C-AVI baseline; a replacement near 65.4 C-AVI would directly attack the 10.00-point projected gap to Gringo\u2019s Goblins.",
+      "body": "Raise the WR slot above Jauan Jennings's 48.1 C-AVI baseline; a replacement near 52.5 C-AVI would directly attack the 1.80-point projected gap to Rapid Valley Annihilation.",
       "items": [
-        "Raise the WR slot above Jalen Coker's 55.4 C-AVI baseline; a replacement near 65.4 C-AVI would directly attack the 10.00-point projected gap to Gringo\u2019s Goblins."
+        "Raise the WR slot above Jauan Jennings's 48.1 C-AVI baseline; a replacement near 52.5 C-AVI would directly attack the 1.80-point projected gap to Rapid Valley Annihilation."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 3, Phalhala or Bust completed a free-agent move and added Marquise Brown while dropped Calvin Ridley."
+      "body": "On August 3, Northside Kings completed a free-agent move and dropped Mike Washington."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jalen Coker is the lowest C-AVI starter in the verified championship lineup at 55.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Jauan Jennings is the lowest C-AVI starter in the verified championship lineup at 48.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 15 offensive players in the current team file are marked Active."
+      "body": "All 14 offensive players in the current team file are marked Active."
     },
     {
       "id": "draft-assets",
@@ -110,7 +110,7 @@
     "files": [
       "AVI-Core/knowledge/teams/12_DMV_Fantasy.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }

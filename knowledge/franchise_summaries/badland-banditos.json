@@ -5,105 +5,105 @@
   "roster_id": 7,
   "owner_display_name": "IcebergSlim69",
   "season_phase": "preseason",
-  "reporting_period": "Week of August 19, 2026",
-  "generated_at": "2026-08-19T11:54:53.647412-06:00",
+  "reporting_period": "Week of August 26, 2026",
+  "generated_at": "2026-08-26T07:13:36.673441-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Badland Banditos: Preseason Front Office Brief",
-  "executive_summary": "Badland Banditos is projected #8 of 16 with a 629.90 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Badland Banditos is projected #5 of 16 with a 652.50 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 8,
+    "rank": 5,
     "league_size": 16,
-    "score": 629.9,
+    "score": 652.5,
     "team_above": {
-      "name": "Southside Savages",
-      "rank": 7,
-      "score": 635.5,
-      "gap": 5.600000000000023
+      "name": "SmokyValleyWheatWarriors",
+      "rank": 4,
+      "score": 666.2,
+      "gap": 13.700000000000045
     },
     "team_below": {
-      "name": "Ravens Regime",
-      "rank": 9,
-      "score": 629.7,
-      "gap": 0.1999999999999318
+      "name": "Corgi Loaf Baking Co.",
+      "rank": 6,
+      "score": 651.9,
+      "gap": 0.6000000000000227
     },
     "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files"
   },
   "dynasty_power": {
-    "rank": 4,
+    "rank": 8,
     "league_size": 16,
-    "score": 2272.9,
-    "player_d_avi": 1217.7,
-    "future_pick_d_avi": 1055.2,
+    "score": 2129.8,
+    "player_d_avi": 1181.9,
+    "future_pick_d_avi": 947.9,
     "method": "Canonical Autobots HQ D-AVI ladder: full verified roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1375593798167461888",
-    "created_at": "2026-06-24T19:33:48.082000+00:00",
+    "transaction_id": "1396908520204410880",
+    "created_at": "2026-08-22T15:10:53.824000+00:00",
     "type": "trade",
-    "summary": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus).",
+    "summary": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Jayden Higgins's 53.6 C-AVI baseline; a replacement near 59.2 C-AVI would directly attack the 5.60-point projected gap to Southside Savages."
+    "Raise the FLEX slot above Cade Otton's 54.4 C-AVI baseline; a replacement near 68.1 C-AVI would directly attack the 13.70-point projected gap to SmokyValleyWheatWarriors."
   ],
   "rival_below": {
-    "franchise_name": "Ravens Regime",
-    "projected_rank": 9,
-    "projected_score": 629.7,
+    "franchise_name": "Corgi Loaf Baking Co.",
+    "projected_rank": 6,
+    "projected_score": 651.9,
     "latest_trade": {
-      "transaction_id": "1394538418473545728",
-      "created_at": "2026-08-16T02:12:57.536000+00:00",
+      "transaction_id": "1398169552570863616",
+      "created_at": "2026-08-26T02:41:47.368000+00:00",
       "type": "trade",
-      "summary": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams.",
+      "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1394538418473545728",
-      "created_at": "2026-08-16T02:12:57.536000+00:00",
+      "transaction_id": "1398169552570863616",
+      "created_at": "2026-08-26T02:41:47.368000+00:00",
       "type": "trade",
-      "summary": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams.",
+      "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams."
+    "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #8 of 16 at 629.90 lineup C-AVI. Southside Savages is immediately above at 635.50, a gap of 5.60. Ravens Regime is immediately behind at 629.70."
+      "body": "Projected #5 of 16 at 652.50 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 666.20, a gap of 13.70. Corgi Loaf Baking Co. is immediately behind at 651.90."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.1), and Kenneth Walker (90.4)."
+      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.2), and Kenneth Walker (90.5)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On June 24, Badland Banditos completed a trade with Crimson Tide Pods and acquired Kenneth Walker, 2027 Round 3 (Crimson Tide Pods) and sent Chris Rodriguez, 2026 Round 1 (Corgi Loaf Baking Co.), 2026 Round 1 (All Hail King Jesus)."
+      "body": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Jayden Higgins's 53.6 C-AVI baseline; a replacement near 59.2 C-AVI would directly attack the 5.60-point projected gap to Southside Savages.",
+      "body": "Raise the FLEX slot above Cade Otton's 54.4 C-AVI baseline; a replacement near 68.1 C-AVI would directly attack the 13.70-point projected gap to SmokyValleyWheatWarriors.",
       "items": [
-        "Raise the FLEX slot above Jayden Higgins's 53.6 C-AVI baseline; a replacement near 59.2 C-AVI would directly attack the 5.60-point projected gap to Southside Savages."
+        "Raise the FLEX slot above Cade Otton's 54.4 C-AVI baseline; a replacement near 68.1 C-AVI would directly attack the 13.70-point projected gap to SmokyValleyWheatWarriors."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams."
+      "body": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jayden Higgins is the lowest C-AVI starter in the verified championship lineup at 53.6. Any acquisition should clear that exact lineup threshold."
+      "body": "Cade Otton is the lowest C-AVI starter in the verified championship lineup at 54.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 16 offensive players in the current team file are marked Active."
+      "body": "The current team file flags Jayden Higgins outside Active status."
     },
     {
       "id": "draft-assets",
@@ -117,7 +117,7 @@
       "AVI-Core/knowledge/teams/07_Badland_Banditos.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-19",
+    "source_last_updated": "2026-08-25",
     "external_sources_used": false,
     "conversation_context_used": false
   }
