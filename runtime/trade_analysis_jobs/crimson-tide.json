@@ -45,8 +45,443 @@
       }
     },
     "createdAt": 1787711344165,
-    "updatedAt": 1787711345678,
+    "updatedAt": 1787711403211,
     "expiresAt": 1788143344165,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This transaction represents a classic win-win retooling deal in a 16-team league. Crimson Tide Pods (Retooling) leverages peak WR1 value in DeVonta Smith (27.0 yrs, 87.4 C-AVI) along with depth RBs to acquire an early projected 2027 1st-round pick (DMV, 79.3 Draft Pick AVI), an efficient slot starter in Wan'Dale Robinson (65.5 C-AVI, 81.1 D-AVI), and two young dynasty RB stashes in Dylan Sampson (21.0 yrs) and Emmett Johnson (22.0 yrs). For Corgi Loaf Baking Co. (Playoff Push), paying a future 1st and young depth to slot DeVonta Smith directly into their starting FLEX boosts their active championship lineup score by +21.9 C-AVI without creating a single starting hole. The trade aligns seamlessly with both organizations' strategic objectives.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 27,
+              "cavi": 87.4,
+              "davi": 92.4,
+              "publicMarket": 88,
+              "leagueMarket": 87.4
+            },
+            {
+              "name": "Kimani Vidal",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 24,
+              "cavi": 37.4,
+              "davi": 60,
+              "publicMarket": 40,
+              "leagueMarket": 37.4
+            },
+            {
+              "name": "Ray Davis",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 26,
+              "cavi": 32.4,
+              "davi": 58.1,
+              "publicMarket": 38,
+              "leagueMarket": 32.4
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.5,
+              "davi": 81.1,
+              "publicMarket": 62,
+              "leagueMarket": 65.5
+            },
+            {
+              "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 82,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "Dylan Sampson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 21,
+              "cavi": 47.1,
+              "davi": 67.6,
+              "publicMarket": 50,
+              "leagueMarket": 47.1
+            },
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 22,
+              "cavi": 36.8,
+              "davi": 65.8,
+              "publicMarket": 35,
+              "leagueMarket": 36.8
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods successfully pivot present WR ceiling into high-end future liquidity and youth. Absorbing a manageable -21.9 C-AVI starting lineup hit is offset by receiving an elite 2027 1st (DMV), a stable starting FLEX WR in Wan'Dale Robinson, and two age-21/22 RB prospects. Corgi Loaf Baking Co. secures a powerhouse starting WR for their title run while giving up future capital."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "The submitted proposal fully optimizes both team goals and is strongly endorsed as submitted."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -12,
+              "summary": "Starting lineup C-AVI dips slightly from 539.8 to 517.9 (-21.9), which is ideal for a retooling roster avoiding middle-tier stagnation."
+            },
+            "dynastyOutlook": {
+              "score": 62,
+              "summary": "Gains massive dynasty runway (+86.0 D-AVI net) by adding a premium 2027 1st and young assets."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "DeVonta Smith departs WR1; Alec Pierce and Michael Pittman move up, while Wan'Dale Robinson fills FLEX1."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Swaps backup RBs Kimani Vidal and Ray Davis for higher-ceiling young developmental RBs in Dylan Sampson and Emmett Johnson."
+            },
+            "flexibilityLiquidity": {
+              "score": 75,
+              "summary": "Crimson Tide Pods now holds FIVE 2027 1st-round picks, creating unprecedented draft leverage in the league."
+            },
+            "overall": {
+              "score": 8,
+              "summary": "Substantial strategic victory for Crimson Tide Pods, bolstering long-term retooling flexibility and asset accumulation."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 58,
+              "summary": "Starting lineup C-AVI leaps from 651.9 to 673.8 (+21.9 C-AVI), giving them one of the league's most potent starting WR/FLEX trios."
+            },
+            "dynastyOutlook": {
+              "score": -18,
+              "summary": "Surrenders long-term draft capital (2027 1st) and two young stashes to win immediately."
+            },
+            "lineupQuality": {
+              "score": 52,
+              "summary": "DeVonta Smith instantly upgrades the FLEX2 spot, replacing Wan'Dale Robinson."
+            },
+            "depthResilience": {
+              "score": 5,
+              "summary": "Loses depth RBs Sampson/Johnson but gains handcuff security in Kimani Vidal (LAC) and Ray Davis (BUF)."
+            },
+            "flexibilityLiquidity": {
+              "score": -28,
+              "summary": "Depletes future draft currency by moving their projected top 2027 1st pick."
+            },
+            "overall": {
+              "score": -8,
+              "summary": "Strong win for Corgi Loaf Baking Co., significantly elevating immediate championship starting power."
+            }
+          },
+          "explanation": "Visual impact reflects whole-roster starting lineup outcomes: Crimson Tide Pods trades present ceiling for a major liquidity injection (+2027 1st pick) and dynasty trajectory, perfectly aligning with their Retool goal. Corgi Loaf Baking Co. sacrifices future capital to directly boost their starting lineup by +21.9 C-AVI."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods' starting lineup shifts from 539.8 to 517.9 C-AVI (-21.9 C-AVI). DeVonta Smith (87.4 C-AVI) is replaced in the main WR slots by Michael Pittman (68.3 C-AVI), with Wan'Dale Robinson (65.5 C-AVI) filling the open FLEX position.",
+          "sideADynastyImpact": "Gains +86.0 net D-AVI. Acquires a high-value 2027 1st pick (82.0 D-AVI), Wan'Dale Robinson (81.1 D-AVI), Dylan Sampson (67.6 D-AVI), and Emmett Johnson (65.8 D-AVI) while shedding DeVonta Smith (92.4 D-AVI), Kimani Vidal (60.0 D-AVI), and Ray Davis (58.1 D-AVI).",
+          "sideARosterImpact": "Accumulates an incredible total of five 2027 1st-round draft picks while adding youthful depth to the running back room and a consistent 25-year-old PPR receiver.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co.'s starting lineup jumps from 651.9 to 673.8 C-AVI (+21.9 C-AVI). DeVonta Smith takes over FLEX2 from Wan'Dale Robinson, creating an elite baseline for a championship run.",
+          "sideBDynastyImpact": "Trades a projected early 2027 1st round pick and young depth to convert active asset value into a proven 27-year-old star wide receiver.",
+          "sideBRosterImpact": "Zero mandatory starting holes created. Starting RBs (Skattebo, Montgomery) remain untouched while receiving high-upside handcuffs in Davis and Vidal.",
+          "valueAssessment": "On gross C-AVI value, Side B (228.7) exceeds Side A (157.2) due to the inclusion of the 2027 1st pick (79.3 C-AVI). In a 16-team dynasty league, paying a premium to acquire an elite WR starter is standard market rate for a contender."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus heavily favors DeVonta Smith as a surging high-end WR2/WR1 option following A.J. Brown's departure from Philadelphia. Wan'Dale Robinson is widely viewed as an undervalued PPR volume magnet in Tennessee. Dylan Sampson is a highly regarded analytical sleeper, while Emmett Johnson is seen as a long-term developmental project in Kansas City.",
+          "aviVsMarket": "AVI values DeVonta Smith (87.4 C-AVI) in line with consensus third-round startup draft positioning. Wan'Dale Robinson's 65.5 C-AVI accurately reflects his solid weekly target floor. Public market values early 2027 1st picks very highly, matching AVI's 79.3 rating.",
+          "relevantContext": [
+            "DeVonta Smith enters 2026 as Philadelphia's clear top target funnel, projecting for career-high volume.",
+            "Wan'Dale Robinson commands significant underneath targets in Tennessee's pass-heavy script.",
+            "Dylan Sampson led rookie RBs in yards created per touch despite running behind a re-tooling Cleveland offensive line.",
+            "Emmett Johnson represents Day 3 developmental RB depth behind established Chiefs starters."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is in an explicit 'Increase Championship Odds' window. Converting future draft picks and non-starting bench pieces into DeVonta Smith gives them a top-tier starting lineup in a 16-team format.",
+          "packageFit": "Fits Corgi Loaf perfectly by elevating FLEX production alongside Jaxon Smith-Njigba, Malik Nabers, and DJ Moore. Fits Crimson Tide Pods by supplying elite future draft liquidity and young retooling assets.",
+          "lineupReplacement": "Corgi Loaf gives up Wan'Dale Robinson, who is directly replaced and upgraded in the lineup by DeVonta Smith. Neither Sampson nor Johnson were starting.",
+          "competitiveWindowFit": "Ideal window alignment. A contender buys present points; a retooling team buys future picks and youth.",
+          "positionalScarcity": "In a 16-team league, securing 20+ PPR point weekly potential at WR/FLEX is extremely scarce. Corgi Loaf pays market value to secure that advantage."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 98,
+          "classification": "Highly Realistic",
+          "explanation": "Corgi Loaf Baking Co. receives a major starting lineup upgrade (+21.9 C-AVI) without losing any starting RBs or creating roster structural flaws. Given their verified objective to Increase Championship Odds, they have every strategic reason to accept this submitted trade."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "Crimson Tide Pods accomplishes a masterclass retool move. By sending DeVonta Smith and two backup RBs, the Pods acquire a projected early 2027 1st (giving them 5 total 2027 1sts), a weekly FLEX starter in Wan'Dale Robinson (25 yrs), and two promising young RBs (Dylan Sampson, Emmett Johnson). The starting lineup drop of -21.9 C-AVI is minor compared to the massive long-term dynasty portfolio gain (+86.0 D-AVI). Because Corgi Loaf Baking Co. gains immediate title odds and has a 98% acceptance probability, Crimson Tide Pods should submit/accept this transaction immediately.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 27,
+              "cavi": 87.4,
+              "davi": 92.4,
+              "publicMarket": 88,
+              "leagueMarket": 87.4
+            },
+            {
+              "name": "Kimani Vidal",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 24,
+              "cavi": 37.4,
+              "davi": 60,
+              "publicMarket": 40,
+              "leagueMarket": 37.4
+            },
+            {
+              "name": "Ray Davis",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 26,
+              "cavi": 32.4,
+              "davi": 58.1,
+              "publicMarket": 38,
+              "leagueMarket": 32.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.5,
+              "davi": 81.1,
+              "publicMarket": 62,
+              "leagueMarket": 65.5
+            },
+            {
+              "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 82,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "Dylan Sampson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 21,
+              "cavi": 47.1,
+              "davi": 67.6,
+              "publicMarket": 50,
+              "leagueMarket": 47.1
+            },
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 22,
+              "cavi": 36.8,
+              "davi": 65.8,
+              "publicMarket": 35,
+              "leagueMarket": 36.8
+            }
+          ],
+          "whyUserShouldDoIt": "You secure a 5th 2027 1st-round pick, two young RB lottery tickets, and a startable 25-year-old PPR receiver while executing a clean strategic pivot that matches your Retool goal.",
+          "whyOpponentMightAccept": "Corgi Loaf Baking Co. immediately elevates their championship starting lineup by +21.9 C-AVI, acquiring a legitimate star WR without forfeiting any active starting running backs."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Ray Davis news 2026 fantasy football",
+          "DeVonta Smith news 2026 fantasy football",
+          "Kimani Vidal news 2026 fantasy football",
+          "Wan Dale Robinson news 2026 fantasy football",
+          "\"Dylan Sampson\" 2026 nfl draft fantasy",
+          "\"Emmett Johnson\" college football fantasy 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVu_hXT9YWDgDLx0hPZha84g0QE657CWU3WDcPpWhoLdIOzhiSamYNLARopxCey5XG6eser9RK9VzqGtDBz4kmNCa7bKkz0UwG3bNdH4zWPEb1QF9UownxcZRnXPBYezRqQEZi035YHFke_1ZN3NUMiC7WjUGauEAsd2nmbtwh2lQAVPAQAHeSGltTlUU2",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFajAinekRnphs7RGDs6fzrjK0sYUtnMk24jkkGmk76xwaERiEmsEGeT64vxftuRPZdy6IRr-H6ClI-FiPgfkm9gsM7kztyq6bYRhj-KK_feo5JvrekomLXj4IbhPzZV-JleWRO2ynqMPJmfC185R5YKV5J9J7s5kT8",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBXR2xoRqyhdencst2brigRMprZBZeoMALjAMEydV_ZJVnXs5C02oUxqzgTky4350b0ltvej5GfwYbP6hWyx3SvjbjTkY5IrC6mhoUigNvGi9Q2kOkvQpXe4t2ZEcv-vSga6KX4Oyzz4gFxLM75B4moqWZIZW_q1mfvVGLndpDxiExSGXGBMnU2eZUazE=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMMTt5rkKDWzpNvLfYIHTFjPN6bd-Rg9_be6NaRX9vJGByFkEZc7KpZ7vjzgrpABFOIo4xBk2VVz-nBABr-fwzO7CthasA4x-LdXcySVBr7oUkQ-HhHKSKDE0w_6v1l4oTFvwr7CVtSwQUuiG9rLpL1BG1Iw==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl4HAbn3IK24R9N3X63VdUmg0DTfI71_nS6ZisQT0wEQjx6OUePOaGX0ChiSnWDG4Y3NdCD2LtAEpZ7n9qQNqGm38B2uM5kL1YfLiaU0wr2YtR7QXe8_Fa_mXHEp8iXAHa3ZTfR88a_cx6CAwsw7r5EG6QiMDpyApZMyjgwMlHDKSwYdzy8ZbFINL7kpl5QQnoTmAZ",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIGvChMsPUNdGHctW8mWov_8Jt-Yc2LuRYpQaoga1k8l89m5Vglwr-bh2uPF-9chuxWnHiPDDT3jm5nqjzATcXN9WcjbxlJmWe1wJh4cTwo8ppEWOBqUdtlI0febDZfkck6f9ggDGSt8b5MVhlvzo4saW4wHvNCVg=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoEIcnK8h6xvEDSMeq-fvt0thZO3LchKPBtqt821WpUicFYQmrZA9N_HUxfqolPHVUSzadWBOFcnAHngolRRXTMQVRbquV8jiOl7MnpDXz7Ww9lM4fmYmEGFYZkdDwjqi8Ff82-KbQDK9ubqEnBe3B8SDXdLI02smlT5Eq5IXlHcki8aEna4le-ZY1YLXUIVHyWLM6c6EODIq1jpOi",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNM-UtzuY2CjAc82dK_M_Y-MR-ooR0WKVW_Xm6NMPJiidUhI33pnuhPBcQlXO8uGkzk7rzLFp7QtlFXg128Sn4JlAjmqqalDIf7nG7bRqGKbmagSyNKwKHsR575JpPAz5gUvjlIjHULW7Rzkgaq7OAVw==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhn2t3XtcHLgsJy3JoYWJCjhzw3hy0Vdvt1Yqo39R6EtcAzLZhLeHDFmikQh0DCvFWAhLXt3LRkZBg07tNdbH_7jYDeCjQNRhRI5EOTNZbBBRvmVBv06cLi_ba2-UeQ1UzYAJ-f7kHUj69wf6XjA70ixei7lQaO_YXeSJIrs7p8YysNPkhTpECKf7kYEusCvV_",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0EX7m4KqWXasRek6gjJ1hmPTxgzoA5ST915rpaaHMs6sXFlZgIligx5AwYmacJSnDPk5IKLNLzTw9TwMAiLdXDodvuhB_Qpx9PsGdFdTMiHpwqyL2t-gYDLcFGv95p_c=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOjN2KnelfThOjRxkDxvE1R2CeMG_wznDd2chdb376oOmm0RyCoPVwHMrXIHKzRLHXd1xxJP576qU8spae5oNQyAdDefLS5XQpQzQ1QOGVWFFnT8ABC8LBnb49bsIi7kFuwAj5_Kat2dckpWQLVnxqkd-F-weWSRqmA2Fu9V853Bgh8EW6ehqVZEzZ2QBM_SNfP9KqqEh95_GWTLzetCm19X4mW27X5N9piVf8vbEkBPBIjqISDZKN5E07zciwoJZb8HTkZqQG4_jNnzjTl-0Q86uSGITOjA==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1I1wigMeX73NdEa7QL6-KNWvZuNWDFYDlWVgv78CigosgGvfqxha6-E1UKVAsoGo478mo5W4KXZF6-7xzS37AsZ4aLpJtGrXWcm6i-CkUR6GSZGAscf7PUhGys6kTTmcdi0vVn7HiJUWfNH79UShpUBqSHVQ6LykTS5WOwYoEQ4uqmxOEaUWw-a_KdFWFe0_dMH-P2YaSf017S-Y4ACgKRCHZLkoyhBpGRUeGohP_n533Q==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFToIlaAS2RjC0uF6VplUsCVpis-89fUYh9VY3HpyCsyep12gZy7YCIF1l17JbSW6SpT9gxLxM3XOoJfTCv9bs4sr_CUWA28QYq5sVCOmsCVRS2WI3I8htREOTz9QrUxaHnlsCwl6nWQiWaIHNgAUGziJJQbfpjtL0aBRSJ",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtYKvi5wVEdI9BoHIZvBmV_ZRKiDisXer38sknuA7lF5DgDkq4a9CwrFgPtydUtpzkX6e1WSaOHB5obrRsKFjpC-zSD5jgwtMIOueZBwK2M3xQf7ndqpj3gxLNAcYJTh0A_A7Mms_viEtz8f4QFIADuSXpRAsIyzwvCzAnsMwDZ1qSWHIpWiSyjSyq3KFVGCw=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_m-hFGT_FMswhWdSxlM5T1PyMqgIRskUmAOSgrHY1GdWb5_yVq-3fJRqrVW2BpnrW6SVe_JXHPTIutrIVF0O1CdCoDiy0ZB1CoIlofDPRQSREGGeNF3XVLRTr51yBZVb_oSIQaLExsT2LE_IO5-NUvkWiqrlpvmytoiQVK0s1fERAqBTZAMb--2EvkjHmSVkpiOAJhqE=",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQTBakOmInsVIM0V5xlKyMID9q1Ezj1vfk3mLt5lz5oO8c-YHEhVdbZ44xJ3EMks4o-259Z02KAJe9K5kZmlZQ-n837BCzeCjMdhUefpamsI9mqrHyaKqItYD_79SNRbIK7fDMTO24ADAuLCGZbyFRJA==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Ltg7LaDRAq6HKnpBBgNxz3nRaXSsEza3M4f_QloMu4orG9ICUTWRwxroKAtCt2i9BPSkUG15TEyqCIvM8VXGTszpQpe6s1AvdiPVGbNep0uGJ1IZxXUksiXfNogFqnJHgzEux8E34IpLaLAz84jE2snJ7a0_UXK1hFOLVasL1nh57ktpKjMTDxJ73dEzXg==",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSHbrgpn7jJn5pQGKzMXiKtA57UjkClivcFpsFhEj3uV5wY1QuU6hTfVe1DeP2S7x5SeElXH8lWuZhJ7GZtBimuFsb7_gGVN5TyHW5pJ3WX7Bgqgf0UhuW4cx_cIUkK3fqRx7wxGTTmrdI9QtFS2veaTXd4uHGSyAg9UYJgHGFnSt",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZO-X9E3eQEUKKzAFpBQ0BpGWff1y73OE-7ZOriLPST5spXJo7n_PXNN0O3yY-uishivXm-BFjlYt04c6bR__T5wyQs6QU4XBo-Ni2n8sZ5c-zmMzLQoS4qzDxPgJu0DghHmhEOG6gmszz_bkPhhqPITIdY8K4xWWN2qdtw==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF_2TXyRg7Rw4UTX95Q950kkADOOee0R3mjbv0M8GljxF09yDvZB-WFp1KhbIuSdzgKhRdMtwyfqLUxk2fekqC__K-3jRnjlqZdxTuILh9AVksdGu0a4_7PBW8y_ZfjGLAYixWOzWRE9YUykgO9CORAtuyykc4P3sdRPGzpEPFmNN1kNauQ0sl9B6JiKdemP1boWjET_PApIjsmLnOIBZFQjWD",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJjF_9NwerXd24FDxJqql0XlcwH85JI2NKMGJlfJP1gWCOmO1sPJbtybxID8eqRZJ0tf2jji7RiokqxgxsILx8v9bhWiSpjwCH07EPt5z8Pa_3JRwQr3MUVXFjybiStdC0S5EAK051mF7ivKPrsnUKQK9M0w==",
+            "title": "rotowire.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a7a5c2f9080e274c96af76ed2aeb55897171f280",
+        "aviCoreCommittedAt": "2026-08-26T00:42:57Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88703,
+        "groundedMarketChars": 3898,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
