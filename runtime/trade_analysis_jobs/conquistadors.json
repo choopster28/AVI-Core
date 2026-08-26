@@ -31,9 +31,403 @@
       ]
     },
     "createdAt": 1787753778588,
-    "updatedAt": 1787753780010,
+    "updatedAt": 1787753838495,
     "expiresAt": 1788185778588,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Conquistadors (Elite Contender) propose acquiring Breece Hall from DMV Fantasy (Rebuilder) in exchange for Tyjae Spears, a projected early 2027 1st-round pick (Northside Kings), and a 2028 1st-round pick (Conquistadors). In a 16-team league, this offer creates an elite RB trio of Bijan Robinson, De'Von Achane, and Breece Hall, materially boosting Conquistadors' starting FLEX position. For rebuilding DMV Fantasy, the package delivers premium draft capital—anchored by a projected top-5 2027 1st—and a 25-year-old running back, perfectly aligning with both organizations' strategic objectives.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 49.6,
+              "davi": 67.2,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "2027 Round 1 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 Round 1 (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Breece Hall",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "RB",
+              "age": 25,
+              "cavi": 86,
+              "davi": 92,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Conquistadors",
+            "summary": "The proposed offer sends Tyjae Spears, a projected early 2027 1st (Northside Kings), and a 2028 1st to DMV Fantasy for Breece Hall. This deal provides Conquistadors with an unmatched starting RB core of Bijan Robinson, De'Von Achane, and Breece Hall in a 16-team PPR format, while delivering high-value draft currency and depth to rebuilding DMV Fantasy."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Conquistadors",
+            "summary": "Official AVI endorsement: Submit the foundation offer as structured. It provides fair market value for Breece Hall while fulfilling both franchises' verified strategic goals."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 65,
+              "summary": "Significant overall gain for Conquistadors by locking in a premier starting RB and maximizing championship odds."
+            },
+            "championshipOutlook": {
+              "score": 75,
+              "summary": "Substantially boosts current title probability by inserting Breece Hall into the starting FLEX over lower-tier options."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Modest dynasty improvement; trades two future 1sts for a 25-year-old top-tier RB secured on a multi-year NFL contract extension."
+            },
+            "lineupQuality": {
+              "score": 80,
+              "summary": "Creates an elite RB starting trio (Bijan Robinson, De'Von Achane, Breece Hall) unmatched in a 16-team league."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Parting with Spears slightly reduces RB bench depth, but pushing current starters into secondary roles offsets the loss."
+            },
+            "flexibilityLiquidity": {
+              "score": -35,
+              "summary": "Expends two 1st-round draft picks, decreasing immediate future capital liquidity."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 50,
+              "summary": "Positive strategic direction for DMV Fantasy by converting a single RB into multiple high-upside rebuild assets."
+            },
+            "championshipOutlook": {
+              "score": -40,
+              "summary": "Short-term drop in weekly starting production, perfectly aligned with DMV Fantasy's active rebuild objective."
+            },
+            "dynastyOutlook": {
+              "score": 60,
+              "summary": "Gains core dynasty rebuild currency anchored by a projected top-5 2027 1st-round draft pick."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Loses RB1 scoring in exchange for Tyjae Spears entering the immediate starting lineup."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Splits a concentrated asset into a young running back plus multiple future draft picks."
+            },
+            "flexibilityLiquidity": {
+              "score": 70,
+              "summary": "Adds two 1st-round draft picks, providing substantial liquidity for future moves."
+            }
+          },
+          "explanation": "Conquistadors trade future draft capital to acquire Breece Hall, elevating their starting lineup to elite championship tier in a 16-team league. DMV Fantasy receives premium draft capital and a young RB to accelerate their rebuilding window."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "+23.5 C-AVI starting lineup boost by placing Breece Hall in the starting FLEX slot over pre-trade options like Juwan Johnson or Matthew Golden.",
+          "sideADynastyImpact": "Acquires 25-year-old Breece Hall (92.0 D-AVI) while relinquishing two 1st-round picks (79.3 D-AVI each) and Tyjae Spears (67.2 D-AVI).",
+          "sideARosterImpact": "Preserves all core starters (Josh Allen, Bijan Robinson, De'Von Achane, Puka Nacua, George Pickens, Harold Fannin) while dramatically improving FLEX depth.",
+          "sideBChampionshipImpact": "Accepts a current-season C-AVI reduction consistent with a rebuild strategy.",
+          "sideBDynastyImpact": "Adds 225.8 total D-AVI points across three young assets (early 2027 1st, 2028 1st, Tyjae Spears).",
+          "sideBRosterImpact": "Replenishes draft inventory with two 1st-round picks while acquiring a 25-year-old back in Spears to hold RB spot.",
+          "valueAssessment": "Balanced exchange: two 1st-round picks (including a projected early 2027 1st) plus Spears is appropriate compensation for an elite 25-year-old RB."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus evaluates Breece Hall as a top-tier dynasty RB1 entering his age-25 season, secured by a recent 3-year extension with the NY Jets.",
+          "aviVsMarket": "AVI rates Breece Hall at 86.0 C-AVI and 92.0 D-AVI. Market consensus prices Hall at two 1st-round picks or an early 1st + player; this package matches market value.",
+          "relevantContext": [
+            "Breece Hall signed a 3-year, $43.5M extension ($14.5M AAV) with the New York Jets, securing multi-year role stability.",
+            "Hall suffered a minor camp groin strain in August 2026 but has returned to practice drills and remains on track for Week 1.",
+            "DMV Fantasy is in a verified Rebuild status and actively seeking draft capital."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "DMV Fantasy is rebuilding and incentivized to liquidate running back value for premium 1st-round picks.",
+          "packageFit": "A package containing a projected top-5 2027 1st (Northside Kings), a 2028 1st, and 25-year-old Tyjae Spears fits a rebuild timeline.",
+          "lineupReplacement": "Tyjae Spears steps directly into DMV Fantasy's RB rotation, providing starter usage without hindering draft position.",
+          "competitiveWindowFit": "Complements both teams: Conquistadors solidify their championship push; DMV Fantasy accumulates rebuild assets.",
+          "positionalScarcity": "In a 16-team format, elite RB options are scarce; securing Breece Hall alongside Bijan Robinson and De'Von Achane provides a significant positional edge."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 23,
+            "packageMatch": 19,
+            "lineupReplacement": 12,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 83,
+          "classification": "Realistic",
+          "explanation": "DMV Fantasy is a verified rebuilder. Offering a package centered around a projected early 2027 1st (Northside Kings), a 2028 1st, and Tyjae Spears represents a compelling deal for Breece Hall."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposed offer aligns with both franchises' strategic goals. Adding Breece Hall (86.0 C-AVI) to Bijan Robinson (99.4 C-AVI) and De'Von Achane (97.3 C-AVI) gives Conquistadors an elite RB corps in a 16-team league, replacing lower-tier FLEX options with a proven RB1 without forfeiting any core starter. For rebuilding DMV Fantasy, securing a projected early 2027 1st, a 2028 1st, and Tyjae Spears fits their rebuilding strategy.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 49.6,
+              "davi": 67.2,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "2027 Round 1 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 Round 1 (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "receive": [
+            {
+              "name": "Breece Hall",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "RB",
+              "age": 25,
+              "cavi": 86,
+              "davi": 92,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ],
+          "whyUserShouldDoIt": "Upgrades starting FLEX from a mid-tier option to Breece Hall (+23.5 C-AVI gain in the starting lineup), creating a top-tier RB room in a 16-team league while maintaining all core starters.",
+          "whyOpponentMightAccept": "DMV Fantasy is rebuilding; acquiring a projected early 2027 1st-round pick, a 2028 1st-round pick, and a 25-year-old running back in Spears aligns with their long-term timeline."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 49.6,
+              "davi": 67.2,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "2027 Round 1 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2027 Round 2 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 50
+            },
+            {
+              "name": "2029 Round 1 (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "receive": [
+            {
+              "name": "Breece Hall",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "RB",
+              "age": 25,
+              "cavi": 86,
+              "davi": 92,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ],
+          "rationale": "If DMV Fantasy prefers a 2027 2nd-round pick and a 2029 1st instead of the 2028 1st, this structure maintains total value while adjusting draft pick timing."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Breece Hall fantasy value 2026",
+          "Breece Hall news 2026",
+          "Breece Hall current team NFL 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaLr1cI7bwMc1yuKkYHBgGditcP-C9BnnC5cdgqUGSz8G9HzGBQSzszI4sSzsFZanUKJ5DLlU_0z5PQVtHYmd84Pe4-5Mp5738In939AX6rxC3u1ZO0uAt2Omqy-l4pw==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9kMdK1fzss2taQLZbEQlR_V-C70vVWtlOeZvc403FnnQmeQu6U9UOToTjkZP7pHEqq-2HgX-TYoSPyGWhJn1fFWynGvWkYRGjOc5URDT9syl8b1cIexnxFGaglKH_YdxF7kOC0b4B3TDyp4WjeY29C2V0n78jKMQpV4NrRGUXDHXI07tc",
+            "title": "jetsxfactor.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj11ymb-C4qzWxmn_-9s5-Jd3xeXAGo4fynNkI2qzjd0wg_S_ImDjAdSYyspzPQ4Y_4bSSoRcDAfRV9fw4GqEd4DXCzEoXjr_w97LsGN6AsS7mgHM0lzUEzNW_uZ7Ja_2z7-B_fCFd1a1g_dijln2zjiNz97r2A6yUSlWGU7G5wfBWReSgcJV_mzveLfXR97ukh2lR",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF5LOXieOkTd54FHTBPKCCqSSn5HtxBLAE1N7gW0RK4u-nG4gK0ms81IP-_t9NqeCjf17Hbzhrf-E1d5txvTs_wAsxvRoQD-k7i8qc2ilvKkjeW5YRmXV1Ymmi0VfkEpcO",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2zlMmmEmejUnXWxPgo-CokMQMyHQdJoeBjRW9indV_PR49YZFX3aiHVRLloL0ZSmoY3IyeF3JJDWIFQ06g8qDizlaku8rZFSwtGf4MrDnmGOJF6tsMjQGdp38SU-SNEkTzYbSIRD3zJrc3govuI6mBZQEQJh_1V2SRfG1p-djfBlENSo7C-6QQVtxFa03SScAjHRFSHEel8bY",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQFBYZSmZV01r_LLUUhNrEWDQ459rlJpBV6NORPHDKP3CEabJ5P8iPv3-OlnbyP2ZKqM5sLsel5uo731tPeDmgNVWNhyy_iBympGLsXJCoIHJZkr4xYTDiSpCsQhH7Z25xHp7ajGVZpAkb27iK3ZhwgyFNUvZQmFKxfP44b6pM5VSlpJMnZznvH9SWmV4cR4vsSEWgWEmoBGlYKvk=",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9EJVEkJMSnvX5RjZS0bVwQfRx9zPVGtPin9zh6_phAZeTibzgG8k-cEpFnQBCfDRchPvMmzgNAmC53nIlzizXbAe7s7zaGLotq4acHfoBkulnBlOU7vJMhiCGSQHV3YdCFHJTBnCrf_CqFCWGgNrdZTMdSdIS4X_QxochS-oh8YCjsI87KeSFbrj_nYa1dVGmyoU=",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQdozv2oTn-6KQMWHl9N6k4fMksP8QxBeVdn-t428Ieywiytn1aj72rQNjI3op0Lmz867uKirojsORJjbVRI57zPDrqAdbu1agmmT-7ctEuor3n55clnMi8oVsKi_UuSy2zdCJg-sIK3ikd0iaHesh-kWMMkSWLZQh799xbOrU1CPKOHU_ildrkg3qET5vEWkT0gWqEyxi",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoOdlUDH-7wWagdMKMOEOY7IdYoY4-fEaBkrmt4kQ7BKI_v4a7MGD70NrasJ4HH8ZagC4yaIgpyx8fYfcytHGSBOIhWww55gsWGmDIcgDo-qwmUwoe6vfbIdKXNRchefNGJ10fTGbwZmL5-FEU64DZc50S7KLB3WSfLUb6Q2QNWqcsVz1YIZAcq-mPWb6zAfH_7opk0h-fEaWmMVEgTIqb4BDz6w==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWMMHbWoW5kKatgGAuHKemNDER4PmpM3MOlLBC_n9Gl9Sr6NWxZjEOTVM5hkd1nNrjpP1GDHCyYArtVwqxe2aKkm8E6-F3GdDWNRKNieKCbkXX_SrFegzAklrzfdzEY2asB3wo5i-we6XeMr-GrkK7StYS4slFrouaxsiOZqBEslHnZM-YKFQtGto8W9Vj6QS_",
+            "title": "jetnation.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiP5vfn5hjp8Fun_71IGnHGzDX8alEC9S_bxgzW6DBVCChyhklDC-5Ij7VnrjFLoRpN2jYLPfrpUVs229FDXMcbmAndHObthJRG2WXvH0TfQht_eaFu2JEni-XlVtgaczG7CsygsoLXR8Tsq2ivnbmZuE6tucoJaCDCu0=",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGepGY4xzg4MjDAPLhDTFG-UR0Xbs9ijvDLNSy7k-aHqrCbDPltokNMHMVs7hWVsuk3MblCuzor7K-MzzSXwGJViWnsdckGg_bJRgnY-WYNbLkw3I5NcJxCYwWmAkr8zxs51DgqFDu0np8I9Ai4KJV3WGSS3_211xAZNxAZNmwbrvXJs6QE-6YcMo9vo7UrMRWHqUTYJnIiRhk9awklp3cvqwTkZa8xkLIh_O_5AQ==",
+            "title": "bleachernation.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlp54p92DziaXrI0bJbJ5u6vl6Q_liIHaoyfVp6EBJZU9ej_6861QruiQmrVRhB0vMnkIrnjl5y-x4i5JX1xAvnf4lbINl3vIF9Z7fJEXG8psLuDdVX7MubS6ZzjX1w_sm7_TlJC2_MPi3M4XXd1i2e-6NeDe7x10g_L4jHTUbbKXnnlyQjIu8eAWOZSU=",
+            "title": "fantasylife.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "54f2cd23bb3ae932c23efa03063bc23e70c4d5eb",
+        "aviCoreCommittedAt": "2026-08-26T14:09:49Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 83786,
+        "groundedMarketChars": 2433,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mt9ftrtz-351f553f",
