@@ -1,5 +1,34 @@
 [
   {
+    "id": "mtaap1kl-9503c595",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Lightskin Legends",
+      "targetAssets": [
+        {
+          "name": "Chase Brown",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Rashee Rice",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "He’ll be a bit hesitant on rice due to injury and off field history.. is there any way to add assets on each end to also add more insulation on WR back my way?"
+    },
+    "createdAt": 1787760924412,
+    "updatedAt": 1787760924412,
+    "expiresAt": 1788192924412,
+    "status": "queued"
+  },
+  {
     "id": "mtaan9wl-a8af688e",
     "phase": "initial",
     "mode": "propose_trade",
