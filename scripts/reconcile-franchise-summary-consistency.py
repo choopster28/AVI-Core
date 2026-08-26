@@ -97,7 +97,7 @@ def main() -> None:
         ]
         if "availability" in sections:
             sections["availability"]["body"] = (
-                f"Current Sleeper ownership has {active_offense} active offensive players; "
+                f"Current Sleeper-owned roster has {active_offense} active offensive players; "
                 f"non-active: {', '.join(unavailable)}."
                 if unavailable
                 else f"All {active_offense} offensive players on the current Sleeper-owned roster are marked Active."
