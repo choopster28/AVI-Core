@@ -19656,7 +19656,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "26624dbe-d516-4a0e-aa5f-085fa43a3216",
     "last_name": "Parish",
     "metadata": {
       "channel_id": "1116852647362560000",
@@ -72834,7 +72834,7 @@
     "college": "Purdue",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 25351,
     "fantasy_positions": [
@@ -75674,7 +75674,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "886b94d4-19b3-4f69-942c-df6928b5669a",
     "last_name": "Stone",
     "metadata": {
       "channel_id": "1113708774406778880",
@@ -83833,7 +83833,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "6c27c05c-f83c-4713-9d56-12fcc5b5deb0",
     "last_name": "Browning",
     "metadata": {
       "channel_id": "1113708759554748416",
@@ -141209,7 +141209,7 @@
     "college": "Minnesota",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26294,
     "fantasy_positions": [
@@ -221104,7 +221104,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "588b2d79-00d5-4d54-8e45-934bbd7c38d0",
     "last_name": "Graham",
     "metadata": {
       "channel_id": "1367365119171907584",
@@ -222549,7 +222549,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "ec320817-6e0a-4f28-b0ac-817d8353ca0f",
     "last_name": "Jones",
     "metadata": {
       "channel_id": "1391921882122457088",
@@ -223142,7 +223142,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "2d1eba75-6dec-4661-9c0b-ad3e5f5c7021",
     "last_name": "Henry",
     "metadata": {
       "channel_id": "1398042249962532864"
@@ -668857,8 +668857,8 @@
     "birth_state": null,
     "college": "Virginia Tech",
     "competitions": [],
-    "depth_chart_order": 4,
-    "depth_chart_position": "RB",
+    "depth_chart_order": null,
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 23298,
     "fantasy_positions": [
