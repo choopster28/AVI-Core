@@ -242,22 +242,6 @@
       "team_id": "CIN"
     },
     {
-      "filename": "nick-folk.php",
-      "fpid": 9491,
-      "mflid": 8851,
-      "name": "Nick Folk",
-      "position_id": "K",
-      "stats": {
-        "fg": 30.01,
-        "fga": 32.82,
-        "points": 128.57,
-        "points_half": 128.57,
-        "points_ppr": 128.57,
-        "xpt": 38.54
-      },
-      "team_id": "ATL"
-    },
-    {
       "filename": "wil-lutz.php",
       "fpid": 16026,
       "mflid": 12956,
@@ -282,10 +266,10 @@
       "stats": {
         "fg": 28.93,
         "fga": 34.13,
-        "points": 126.85,
-        "points_half": 126.85,
-        "points_ppr": 126.85,
-        "xpt": 40.07
+        "points": 126.35,
+        "points_half": 126.35,
+        "points_ppr": 126.35,
+        "xpt": 39.57
       },
       "team_id": "GB"
     },
@@ -320,6 +304,22 @@
         "xpt": 34.36
       },
       "team_id": "NO"
+    },
+    {
+      "filename": "nick-folk.php",
+      "fpid": 9491,
+      "mflid": 8851,
+      "name": "Nick Folk",
+      "position_id": "K",
+      "stats": {
+        "fg": 28.34,
+        "fga": 31.15,
+        "points": 121.07,
+        "points_half": 121.07,
+        "points_ppr": 121.07,
+        "xpt": 36.04
+      },
+      "team_id": "ATL"
     },
     {
       "filename": "jake-elliott.php",
@@ -378,10 +378,10 @@
       "stats": {
         "fg": 28.71,
         "fga": 33.2,
-        "points": 117.53,
-        "points_half": 117.53,
-        "points_ppr": 117.53,
-        "xpt": 31.41
+        "points": 118.03,
+        "points_half": 118.03,
+        "points_ppr": 118.03,
+        "xpt": 31.91
       },
       "team_id": "NYJ"
     },

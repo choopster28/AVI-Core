@@ -1,7 +1,25 @@
 {
-  "count": 24,
+  "count": 23,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 12:36:23",
+      "created_formated": "Wed, Aug 26th 12:36pm UTC",
+      "desc": "Calvin Austin III (knee) is out for the season with a torn ACL that he suffered during Tuesday's practice.",
+      "id": 604251,
+      "impact": "Austin was trying to find his way onto the field in a crowded Giants receiver room, and now finds himself out for the season. He was in a contract year, so this is a big blow to him heading into to free agency. His dynasty value is pretty much rock bottom at this point, but hopefully he can make a comeback and find a team.",
+      "link": "https://www.fantasypros.com/nfl/news/604251/calvin-austin-iii-knee-out-season-with-torn-acl.php",
+      "player_id": 23739,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Calvin Austin III (knee) out for the season with torn ACL"
+    },
     {
       "author": "Ari Koslow",
       "categories": [
@@ -178,24 +196,6 @@
       "sport_id": "NFL",
       "team_id": "DET",
       "title": "Sam LaPorta (hip) returns to practice Tuesday"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 19:10:13",
-      "created_formated": "Tue, Aug 25th 7:10pm UTC",
-      "desc": "Calvin Austin III suffered an apparent knee injury and was carted off the field at Tuesday's practice.",
-      "id": 604131,
-      "impact": "Austin immediately grabbed at his right knee after falling during a 1-on-1 drill on Tuesday, and initial signs are pointing to a serious injury. The wideout was expected to play a solid role in the Giants' passing attack, but they may have to pivot to Darnell Mooney or Odell Beckham Jr. if Austin is forced to miss a considerable amount of time.",
-      "link": "https://www.fantasypros.com/nfl/news/604131/calvin-austin-iii-knee-carted-off-from-practice-tuesday.php",
-      "player_id": 23739,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Calvin Austin III (knee) carted off from practice Tuesday"
     },
     {
       "author": "Ari Koslow",
@@ -409,23 +409,6 @@
       "sport_id": "NFL",
       "team_id": "TB",
       "title": "Jalen McMillan (knee) not seen practicing Tuesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-25 15:31:16",
-      "created_formated": "Tue, Aug 25th 3:31pm UTC",
-      "desc": "Josh Allen won't play in Thursday night's preseason finale against the Pittsburgh Steelers.",
-      "id": 604108,
-      "impact": "Allen saw some action earlier on in the preseason, but he is set to be sidelined for the team's final preseason game on Thursday night. He is fully healthy at this point and looks primed for another huge season from a fantasy perspective.",
-      "link": "https://www.fantasypros.com/nfl/news/604108/josh-allen-wont-play-thursday.php",
-      "player_id": 17298,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Josh Allen won't play Thursday"
     }
   ],
   "public_api_limited": true,

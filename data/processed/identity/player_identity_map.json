@@ -180,6 +180,15 @@
     "sleeper_id": "2306"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "13971",
+    "match_method": "exact_name_position",
+    "nfl_team": "LVR",
+    "player_name": "Tyler Lockett",
+    "position": "WR",
+    "sleeper_id": "2374"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "13981",
     "match_method": "exact_name_position_unique",
@@ -2404,6 +2413,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "24214",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SEA",
+    "player_name": "Velus Jones Jr.",
+    "position": "WR",
+    "sleeper_id": "8223"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "24238",
     "match_method": "exact_name_position_unique",
     "nfl_team": "TEN",
@@ -2683,6 +2701,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "25321",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CHI",
+    "player_name": "Tyson Bagent",
+    "position": "QB",
+    "sleeper_id": "11256"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "25322",
     "match_method": "exact_name_position_unique",
     "nfl_team": "CHI",
@@ -2817,10 +2844,10 @@
     "sleeper_id": "13416"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "25388",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ARI",
     "player_name": "Trey Benson",
     "position": "RB",
     "sleeper_id": "11589"
@@ -2941,6 +2968,15 @@
     "player_name": "Oscar Delp",
     "position": "TE",
     "sleeper_id": "13319"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "25443",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PIT",
+    "player_name": "Lew Nichols III",
+    "position": "RB",
+    "sleeper_id": "9510"
   },
   {
     "confidence": "verified",
@@ -3808,6 +3844,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "27328",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CIN",
+    "player_name": "Jamal Haynes",
+    "position": "RB",
+    "sleeper_id": "13946"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "27329",
     "match_method": "exact_name_position_unique",
     "nfl_team": "SEA",
@@ -3934,6 +3979,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "27667",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ATL",
+    "player_name": "Nathan Carter",
+    "position": "RB",
+    "sleeper_id": "12897"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "27798",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NYG",
@@ -4051,6 +4105,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "28124",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ATL",
+    "player_name": "Cash Jones",
+    "position": "RB",
+    "sleeper_id": "13595"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "28125",
     "match_method": "exact_name_position_unique",
     "nfl_team": "LAR",
@@ -4129,6 +4192,15 @@
     "player_name": "De'Zhaun Stribling",
     "position": "WR",
     "sleeper_id": "13417"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28141",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ARI",
+    "player_name": "Reggie Virgil",
+    "position": "WR",
+    "sleeper_id": "13297"
   },
   {
     "confidence": "verified",
