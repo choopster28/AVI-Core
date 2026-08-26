@@ -69,6 +69,10 @@ jobs:
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: python generate_weekly_executive_summary_filtered.py
 
+      - name: Reconcile generated summaries before strict finalization
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        run: python scripts/reconcile-franchise-summary-consistency.py
+
       - name: Finalize canonical dynasty and live roster data
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: python finalize_franchise_summaries.py
