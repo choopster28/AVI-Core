@@ -483,18 +483,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00010218",
-      "c_avi": 31.5,
-      "d_avi": 44.5,
-      "nfl_team": "HOU",
-      "player_name": "Xavier Hutchinson",
-      "position": "WR",
-      "sleeper_id": "10218",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011600",
       "c_avi": 31.1,
       "d_avi": 53.8,
@@ -1390,6 +1378,18 @@
       "player_name": "Jalen Royals",
       "position": "WR",
       "sleeper_id": "12505",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013477",
+      "c_avi": 18.9,
+      "d_avi": 38.4,
+      "nfl_team": "CIN",
+      "player_name": "Colbie Young",
+      "position": "WR",
+      "sleeper_id": "13477",
       "status": "Active"
     },
     {
@@ -3157,22 +3157,6 @@
       "status": "Active",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013477",
-      "c_avi": 18.9,
-      "d_avi": 38.4,
-      "nfl_team": "CIN",
-      "owner_id": "736993578450030592",
-      "player_name": "Colbie Young",
-      "position": "WR",
-      "roster_id": 1,
-      "sleeper_id": "13477",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -6149,6 +6133,22 @@
       "status": "Active",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00010218",
+      "c_avi": 31.5,
+      "d_avi": 44.5,
+      "nfl_team": "HOU",
+      "owner_id": "736993578450030592",
+      "player_name": "Xavier Hutchinson",
+      "position": "WR",
+      "roster_id": 1,
+      "sleeper_id": "10218",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
