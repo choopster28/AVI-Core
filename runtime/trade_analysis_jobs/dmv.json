@@ -33,8 +33,400 @@
       }
     },
     "createdAt": 1787754365331,
-    "updatedAt": 1787754366720,
+    "updatedAt": 1787754465760,
     "expiresAt": 1788186365331,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "DMV Fantasy is in a designated rebuild and wisely exploring trades to pivot 25-year-old elite RB Breece Hall (92.0 D-AVI) into future draft capital and developmental assets. However, the submitted offer from championship contender Conquistadors—comprising backup RB Keaton Mitchell, a projected early 2027 2nd, and a distant, likely late 2028 1st—severely undervalues an S-tier cornerstone back in a 16-team league. While trading Breece Hall aligns with DMV's macro timeline, accepting this package yields roughly 50 cents on the dollar. AVI recommends revising the offer to demand Conquistadors' premium 2027 1st (via Northside), 2028 1st, and young receiver De'Zhaun Stribling.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Breece Hall",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "RB",
+              "age": 25,
+              "cavi": 86,
+              "davi": 92,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Keaton Mitchell",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 42.7,
+              "davi": 64.9,
+              "publicMarket": 40,
+              "leagueMarket": 45
+            },
+            {
+              "name": "2027 2nd · Northside · Projected early range (2.01–2.05)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 1st · Conquistadors · Projected late range (1.10–1.16)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 75,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "A",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "Conquistadors",
+            "summary": "The submitted proposal transfers a top-tier RB cornerstone (Breece Hall, 92.0 D-AVI) to an Elite Contender for a sub-tier return. DMV surrenders 86.0 C-AVI in weekly production while receiving an injured committee back (Keaton Mitchell, 42.7 C-AVI) and two draft picks that do not compensate for the loss of elite cornerstone value."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "DMV Fantasy",
+            "summary": "The revised offer requires Conquistadors to yield their projected early 2027 1st (via Northside), their 2028 1st, and young WR De'Zhaun Stribling (71.9 D-AVI) for Breece Hall. This provides DMV with true rebuild-altering premium capital while supplying Conquistadors with an unbeatable title-winning RB trio."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -45,
+              "summary": "Loses starting RB1 (86.0 C-AVI) and forces low-tier bench pieces into active FLEX slots."
+            },
+            "dynastyOutlook": {
+              "score": -20,
+              "summary": "Sells a 25-year-old elite RB1 well below standard market value, diminishing top-end cornerstone talent."
+            },
+            "lineupQuality": {
+              "score": -52,
+              "summary": "Lineup drops significantly at RB1 slot, replacing Breece Hall with Antonio Williams/Keaton Mitchell."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds Keaton Mitchell as speculative RB depth alongside additional draft pick assets."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Gains future 1st and 2nd round picks to increase trade optionality during rebuild."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Surrendering an S-tier cornerstone RB for a modest future draft pick and bench asset creates a net deficit in total portfolio value."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 68,
+              "summary": "Solidifies championship favorite status by pairing Breece Hall with Bijan Robinson and De'Von Achane."
+            },
+            "dynastyOutlook": {
+              "score": 42,
+              "summary": "Adds a top-10 dynasty RB (92.0 D-AVI) to secure long-term positional dominance."
+            },
+            "lineupQuality": {
+              "score": 70,
+              "summary": "FLEX2 slot upgrades from Juwan Johnson (62.5 C-AVI) to Breece Hall (86.0 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Establishes supreme RB depth, shielding the team against single-injury scenarios."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Depletes future draft capital (2028 1st and 2027 2nd) to complete the deal."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Acquires an elite 25-year-old RB cornerstone at a heavily discounted price without sacrificing any current starting lineup pieces."
+            }
+          },
+          "explanation": "DMV Fantasy loses immediate starting power and total dynasty asset weight by accepting a single late 1st, a 2nd, and a backup RB for Breece Hall. Conquistadors gains a massive championship advantage by adding Breece Hall to their starting lineup while surrendering no current starting assets."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "DMV Fantasy suffers an immediate decline in weekly scoring ceiling. Pre-trade starting RB1 Breece Hall (86.0 C-AVI) leaves the roster, moving Tony Pollard to RB1 and forcing Antonio Williams (44.0 C-AVI) or Keaton Mitchell (42.7 C-AVI) into the starting FLEX2 slot.",
+          "sideADynastyImpact": "DMV gains future pick liquidity (79.3 D-AVI 2028 1st + 48.5 D-AVI 2027 2nd) but forfeits an elite 25-year-old cornerstone (92.0 D-AVI), resulting in a net asset downgrade for an S-tier player.",
+          "sideARosterImpact": "Removes peak starting power at RB, leaving Tony Pollard and Rachaad White as starting RBs and shifting roster focus entirely toward multi-year draft pick development.",
+          "sideBChampionshipImpact": "Conquistadors elevates their already elite starting lineup. Breece Hall enters the FLEX slot alongside Bijan Robinson (99.4 C-AVI) and De'Von Achane (97.3 C-AVI), upgrading FLEX2 from Juwan Johnson (62.5 C-AVI) to Breece Hall (86.0 C-AVI) for a net +23.5 C-AVI bump.",
+          "sideBDynastyImpact": "Conquistadors absorbs 92.0 D-AVI while surrendering 64.9 D-AVI (Mitchell) plus future picks, fortifying a young core featuring Josh Allen, Bijan, Achane, and Puka Nacua.",
+          "sideBRosterImpact": "Creates an elite 3-headed backfield monster while retaining all core starting WRs (Puka Nacua, George Pickens, Ladd McConkey) and TEs (Harold Fannin).",
+          "valueAssessment": "Asset-for-asset, Breece Hall (86.0 C-AVI / 92.0 D-AVI) commands a premium multi-first haul or a high 1st + starting young asset. The submitted package of Mitchell + 2027 2nd + 2028 late 1st falls roughly 35–40% short of fair market value."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In consensus dynasty market evaluations, Breece Hall is valued as a top 5–8 overall dynasty running back following his 3-year extension with New York. Keaton Mitchell is viewed as a speculative, high-speed backup with ongoing injury concerns in Los Angeles.",
+          "aviVsMarket": "Public market consensus heavily favors Breece Hall over a late future 1st and speculative assets. AVI matches consensus: Breece Hall's 92.0 D-AVI requires a true cornerstone package, not a single late 1st plus depth pieces.",
+          "relevantContext": [
+            "Breece Hall signed a 3-year, $43.5M contract extension, locking in high-volume usage as a 25-year-old lead back.",
+            "Keaton Mitchell recently suffered a training camp setback and resides behind Omarion Hampton in the Chargers backfield mix.",
+            "In a 16-team format, dual-threat workhorse RBs possess amplified value due to extreme positional scarcity."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors is an Elite Contender with a verified goal to Win Championship. Acquiring Breece Hall creates an untouchable starting RB/FLEX group without sacrificing any current starting assets.",
+          "packageFit": "For a rebuilding team like DMV, collecting draft picks fits macro strategy. However, receiving a 2028 late 1st and 2027 2nd is inadequate return for an S-tier RB when Conquistadors holds higher-tier assets like the 2027 Northside 1st.",
+          "lineupReplacement": "For DMV, Breece Hall's departure leaves Tony Pollard and Rachaad White as the sole viable starting RBs, with Antonio Williams or Keaton Mitchell entering FLEX2. For Conquistadors, losing Keaton Mitchell removes a non-starting bench piece.",
+          "competitiveWindowFit": "DMV is rebuilding and right to shop 25-year-old RBs, but must maximize the return. Conquistadors is in a peak championship window and can afford to trade future picks for immediate dominant production.",
+          "positionalScarcity": "Workhorse dual-threat RBs are exceptionally scarce in 16-team dynasty leagues; surrendering one requires a premium return."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 100,
+          "classification": "Highly Realistic",
+          "explanation": "Conquistadors would enthusiastically accept this submitted trade proposal immediately, as it allows them to acquire an S-tier cornerstone RB for a discount without disrupting their starting lineup."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Trading Breece Hall is a valid strategic path for DMV Fantasy's rebuild, but the submitted proposal is an extreme underpay. In a 16-team league, an S-tier 25-year-old workhorse RB (92.0 D-AVI) must fetch multiple premium assets. DMV should revise the proposal to demand Conquistadors' 2027 1st (via Northside), 2028 1st, and young WR De'Zhaun Stribling.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Breece Hall",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "RB",
+              "age": 25,
+              "cavi": 86,
+              "davi": 92,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 1st · Northside · Projected early range (1.01–1.05)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 82,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2028 1st · Conquistadors · Projected late range (1.10–1.16)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 75,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "De'Zhaun Stribling",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 23,
+              "cavi": 50.9,
+              "davi": 71.9,
+              "publicMarket": 52,
+              "leagueMarket": 55
+            }
+          ],
+          "whyUserShouldDoIt": "Captures two premium 1st-round draft picks—including Northside's projected early 2027 1st—alongside a promising 23-year-old receiver (De'Zhaun Stribling), securing proper foundational value for Breece Hall.",
+          "whyOpponentMightAccept": "Conquistadors is an Elite Contender aiming to win the title now. Adding Breece Hall pairs him with Bijan Robinson and De'Von Achane to create an unbeatable RB group while preserving all current starting WRs/TEs."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Breece Hall",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "RB",
+              "age": 25,
+              "cavi": 86,
+              "davi": 92,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 1st · Northside · Projected early range (1.01–1.05)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 82,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2028 1st · Conquistadors · Projected late range (1.10–1.16)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 75,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2027 2nd · Northside · Projected early range (2.01–2.05)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "A pure draft-capital acquisition delivering two 1st-round picks and an early 2nd-round pick, avoiding project players while maximizing multi-year draft flexibility."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Keaton Mitchell status 2026",
+          "Keaton Mitchell injury update 2026",
+          "Breece Hall news 2026",
+          "Breece Hall dynasty value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn87Eh8g7KBpOXbei_Srbku47cma-h8GTho4XIVZiO60YvA_eSRiE_3xomHtTmQIJXY8eISERDCGiGgK6ddPfgHg-zpZfko8Wp_ATviQ7FjiON1g1UjYhLQeYjw8dkpG_fXcTIFpEDTRyc381EIolItGcgAzxHhg2l_KtpltmmV1VIVPgoI-Am-qwQbrveeVyRMya-9KS_Jst9lpQ=",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLuavzU_eqP84tgCwat5W9EfMvK2Q2Za0yjQb9EIuJZfP5h5bTyvXii4e0t0BCbDx2zkkhzcXllk2dHwPfmHcMaCL-QKZGC_0FnsHdkmM3szzR6fmS5iEub-Yr8KFGtKcQfNu8TalE-Jo3T7QwZ6m4aSAA-aMBUkQH31E3nzdsSCOysrM_NPr5y312R1VTbIL5NKdq",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgn6w4HzdrmqjmYGTGUB0zh3H4CzqKh-SpTHdJV575YrfgHlt2OfGX-P_jAILBdr4qP2rNhFIaxxzZa1xB_mozB1IkTAOG-adG49f6xfJlCvqzA1WPdmaCYup3DziQZCdtbu0MrTXFgSUrkTdOSYwwrTsSdskW2TbPITYiryIK2YperSInu4KhvzaT9VF9JO2xi3pGEt63R75Jy-ewyAcLACe-",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyOh2VyChVDXHSwrjP6svGwTYfgSEXKJIHrid8GLNoGYghMFd0DzTz5DHX2l2__1y9XVhcs3fnSNnHhG0AbyqmKeAIIi7t3kuE2_VMvp4csHimIZGtgV4I4vas9EjCskk9Ag81vSGQryv3c6iWnDSCEiXBRGpREr5M-MFb5HGhNW8fZnZJH675tboiybf32uAK",
+            "title": "jetnation.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPL0yBMEGrSP3SutvAEepgdJBrLNU6OFJAyyCuML3s0FKOeEofOJ72T1_TANyl4BU8D-8Zuru9jt4iDB5Q2U36fYCc3SPUdoP5AgKKVuPIBdehOBhrsDmcfB9p_IbPKUY6DUHz3va-stKboFys-B8Tc69VwqhepXlYNMr4juvzPF-aAzUEjCzqt5XmExYVekEbfUVo4r2m",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZppvCganSZS8TjLtMz1et7D0ZtkZG8OQwVbWfs0HslVLN30zz9iMs03cJjoCaiGceMtZLaVbNU-o_kGi0X8OfYwJ462GR6tKFVwdcPtNAe8BcUKy3b7e2ci73oJL3n-DrYOwZ9shg0-HODbNEireFPQUUX6FQehQN6Y4b947_JI14rZx_67wv6PbZxyCblYZYFofrapNtP8BZuss1qQ==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBgQXtYuylThL8GT9lL0ptuLZLipwlIIFalRDI-8Oc7JpRS4UamlDhZQ4G2_CbfSZakwN2c6jGHfPzSDi20RiTs1gTD3C9LDUjmltqCdKXMvNEB737Fylc0W7XLbEd41Few5mQEgY=",
+            "title": "dynastynerds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWd_W7VuDupZgNXvO5NEGCgmdS347JNZbxWb6-OOqCUS2JTr3F5_xEBLnXAy53q-gsCTUT79oY6LAem7UpvmIBtyrliacaVQNI_lapWK1arunUInz7TIM8mmXJsfcrRqCY4rfkNuU07PZyx_Z0UfHvGKEkbwSkOkXoLKiE-Smjr4g=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdj5lMoaYPQQhcZmK20xRS8QyQNQUEUd_Q4Mg3cggHCv2BMc09Ps-27wzohQ3ngDRrm2ENPX_JGOxJREuj8FnC3-4POkG2pcGz1ODdN93ONEpO_nGxTvW7wkBJe7Ea-AscdMT6M_gnMsN8tb_bEOecOYKot7YHBFChcDsCIgoiLHMP0fTJhA==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwzFBotcKSyMnXiXaS1qkuvsI-TIIsyDxnEu93tnSzwqNccxPoTqyQvl-Xc3y9K7z2oh0Du0du-ZpdJoNtH8FJhtC_6zxz5NYSuU5xA3pth3Kt8OImnvjgifjKr-X2baC081K-r1coNpjY7Avp6rs3ZMbMIgHW_SFbgatXwN_kmZObI6d2PNIZuLAmsTtq86qiWZAdQFuO80m0",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfUmJ-1Mo8l1p7UQ3DUXGV2A3c6B2lchKgdEEetI_eSWaFBy47ZD8Oj-cicko49T3UDf5t72nBMBeMDMQsbz6j2U1Dl8P_FjiWiMRhN6Q_FZvT5XU4M5R6DDVg-fdru9AmBCXliU_jI-T-AWAegvGycpPXtgdVa4C2L_C4RcD8eihtMalPQIhD8bJj8aZwSUNrWWWQfccxj_iua09pwMyOfNc=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvL2XmN_v2g7ZLus92cjpTJ4tDDbVHeoZDLnKPM-CHcX_zqV6r8KKTLPf1gakpIXYmfJJrbVybLi_f2nYlLrejwSJx4vom4-yVzndnvfk0pWJU6qcoSF2NhV966c_W4omNBsIv-5A2I178qgvtziTndzcfLiDOCR_FyiSHtqM=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfcYeKaDqEoXNmfyKeNCqXVkA_5RTZcu0wyrKn1NWabPJtg_qUYdMmJp6XiA5NZn27U8W7gPoFlAilGHayPU83OVqAcmtRat6_YPQaw01YwaKhStykgreTlIv103PdGfgssO1hINifXWYHTdBHUxxrnxH2kPs-RDeF",
+            "title": "chargers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQpEO9sflByzdwBduSFODsVl8vpdgyeIRtsEyRJLSSVuc3qirnAEXpV_3rTrJQoUB-P8etVsONu8Bv5Tc_qiUQjQc0QwUwUgrywOs7_bl8zCjz6MxL5EIzWv89PKctzUlmI9YVgq_SFQRFdYIAp5xPgolNlJuts0BiDzr890xkdY4yZs3x",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo5epUsbtItgHLKHhtic7oYvN-t0aHQphFMhlAJc8v6toFxHfX0W3SLEAKuq2Y1cGhgzBzIJ7RThztcvHMWAgPG2mh5mcnWuwHnncmRk-WfBEMOMRGOXMFnTiqpkn7IHmV-k_MQ5lUHY-X3LhmjqcKlqyJisTLbK0oVzstPJcVichacbqqJ1w3IQLCaJsOsyEy2E29XbsUd8LNlE6RXJElpIs=",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "54f2cd23bb3ae932c23efa03063bc23e70c4d5eb",
+        "aviCoreCommittedAt": "2026-08-26T14:09:49Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 84328,
+        "groundedMarketChars": 3271,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
