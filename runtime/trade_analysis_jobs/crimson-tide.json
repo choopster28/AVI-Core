@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mt9h6dd1-9bdec371",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Retool",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "Kimani Vidal",
+            "assetType": "player"
+          },
+          {
+            "name": "Ray Davis",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Wan'Dale Robinson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+            "assetType": "pick"
+          },
+          {
+            "name": "Dylan Sampson",
+            "assetType": "player"
+          },
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1787711344165,
+    "updatedAt": 1787711344165,
+    "expiresAt": 1788143344165,
+    "status": "queued"
+  }
+]
