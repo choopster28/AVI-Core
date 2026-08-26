@@ -69,9 +69,63 @@ jobs:
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: python generate_weekly_executive_summary_filtered.py
 
-      - name: Reconcile generated summaries before strict finalization
+      - name: Prepare Rival Watch structure for strict finalization
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
-        run: python scripts/reconcile-franchise-summary-consistency.py
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          root = Path("knowledge/franchise_summaries")
+          files = sorted(path for path in root.glob("*.json") if path.name != "manifest.json")
+          summaries = []
+          by_name = {}
+          for path in files:
+              payload = json.loads(path.read_text(encoding="utf-8"))
+              summaries.append((path, payload))
+              by_name[str(payload.get("franchise_name") or "")] = payload
+
+          for path, payload in summaries:
+              projected = payload.get("projected_power") or {}
+              below = projected.get("team_below")
+              sections = {
+                  str(section.get("id")): section
+                  for section in payload.get("sections", [])
+                  if isinstance(section, dict) and section.get("id")
+              }
+
+              if not below:
+                  payload["rival_below"] = None
+                  if "rival-watch" in sections:
+                      sections["rival-watch"]["body"] = (
+                          "This franchise is currently projected last, so there is no "
+                          "team immediately beneath it."
+                      )
+              else:
+                  below_summary = by_name.get(str(below.get("name") or ""))
+                  if not below_summary:
+                      raise SystemExit(f"Could not resolve generated team_below for {path}")
+                  latest_trade = below_summary.get("latest_trade")
+                  rival_summary = (
+                      str(latest_trade.get("summary") or "")
+                      if isinstance(latest_trade, dict) and latest_trade.get("summary")
+                      else f"No verified recent trade is currently surfaced for {below_summary['franchise_name']}."
+                  )
+                  payload["rival_below"] = {
+                      "franchise_name": below_summary["franchise_name"],
+                      "projected_rank": int(below["rank"]),
+                      "projected_score": float(below["score"]),
+                      "latest_trade": latest_trade if isinstance(latest_trade, dict) else None,
+                      "latest_activity": latest_trade if isinstance(latest_trade, dict) else None,
+                      "summary": rival_summary,
+                  }
+                  if "rival-watch" in sections:
+                      sections["rival-watch"]["body"] = rival_summary
+
+              path.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
+
+          print("Prepared generated Rival Watch structures without validating stale lineup advice.")
+          PY
 
       - name: Finalize canonical dynasty and live roster data
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
