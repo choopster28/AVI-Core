@@ -1,0 +1,40 @@
+[
+  {
+    "id": "mta6sgpe-28ab66ef",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "DMV Fantasy",
+      "goal": "Rebuild",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Breece Hall",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Keaton Mitchell",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Northside · Projected early range (2.01–2.05)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 1st · Conquistadors · Projected late range (1.10–1.16)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1787754365331,
+    "updatedAt": 1787754365331,
+    "expiresAt": 1788186365331,
+    "status": "queued"
+  }
+]
