@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-26T02:42:39.074444+00:00",
+  "generated_at_utc": "2026-08-26T03:45:02.976737+00:00",
   "statistics": {
-    "owner_trade_participations": 157,
+    "owner_trade_participations": 159,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -48,7 +48,8 @@
       {
         "partner_count": 2,
         "partners": [
-          "Conquistadors"
+          "Conquistadors",
+          "Corgi Loaf Baking Co. "
         ],
         "roster_id": 16,
         "team_name": "Crimson Tide Pods"
@@ -146,18 +147,18 @@
         "by_season": {
           "2024": 7,
           "2025": 4,
-          "2026": 12
+          "2026": 13
         },
         "firsts_in": 6,
-        "firsts_out": 6,
+        "firsts_out": 7,
         "owner_display_name": "awang1900",
         "picks_in": 8,
-        "picks_out": 11,
-        "players_in": 33,
-        "players_out": 33,
+        "picks_out": 12,
+        "players_in": 36,
+        "players_out": 36,
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. ",
-        "total": 23
+        "total": 24
       },
       {
         "by_season": {
@@ -279,6 +280,22 @@
       },
       {
         "by_season": {
+          "2025": 1,
+          "2026": 6
+        },
+        "firsts_in": 4,
+        "firsts_out": 0,
+        "owner_display_name": "nickas",
+        "picks_in": 8,
+        "picks_out": 2,
+        "players_in": 12,
+        "players_out": 10,
+        "roster_id": 16,
+        "team_name": "Crimson Tide Pods",
+        "total": 7
+      },
+      {
+        "by_season": {
           "2025": 4,
           "2026": 2
         },
@@ -291,22 +308,6 @@
         "players_out": 5,
         "roster_id": 8,
         "team_name": "All Hail King Jesus",
-        "total": 6
-      },
-      {
-        "by_season": {
-          "2025": 1,
-          "2026": 5
-        },
-        "firsts_in": 3,
-        "firsts_out": 0,
-        "owner_display_name": "nickas",
-        "picks_in": 7,
-        "picks_out": 2,
-        "players_in": 9,
-        "players_out": 7,
-        "roster_id": 16,
-        "team_name": "Crimson Tide Pods",
         "total": 6
       },
       {
@@ -407,10 +408,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 35
+      "2026": 36
     },
-    "two_team_trades": 77,
-    "unique_completed_trades": 78
+    "two_team_trades": 78,
+    "unique_completed_trades": 79
   },
   "trades": [
     {
@@ -5731,6 +5732,106 @@
         }
       ],
       "transaction_id": "1396908520204410880",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-26T02:41:47.368000+00:00",
+      "created_timestamp_ms": 1787712107368,
+      "roster_ids": [
+        11,
+        16
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 12,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11575",
+              "player_name": "Ray Davis"
+            },
+            {
+              "player_id": "11647",
+              "player_name": "Kimani Vidal"
+            },
+            {
+              "player_id": "7525",
+              "player_name": "DeVonta Smith"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12469",
+              "player_name": "Dylan Sampson"
+            },
+            {
+              "player_id": "13337",
+              "player_name": "Emmett Johnson"
+            },
+            {
+              "player_id": "8126",
+              "player_name": "Wan'Dale Robinson"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        },
+        {
+          "owner_display_name": "nickas",
+          "owner_id": "471824466389757952",
+          "picks_received": [
+            {
+              "original_roster_id": 12,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "12469",
+              "player_name": "Dylan Sampson"
+            },
+            {
+              "player_id": "13337",
+              "player_name": "Emmett Johnson"
+            },
+            {
+              "player_id": "8126",
+              "player_name": "Wan'Dale Robinson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11575",
+              "player_name": "Ray Davis"
+            },
+            {
+              "player_id": "11647",
+              "player_name": "Kimani Vidal"
+            },
+            {
+              "player_id": "7525",
+              "player_name": "DeVonta Smith"
+            }
+          ],
+          "roster_id": 16,
+          "season": 2026,
+          "team_name": "Crimson Tide Pods"
+        }
+      ],
+      "transaction_id": "1398169552570863616",
       "week": 1
     }
   ]

@@ -544,9 +544,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: DeVonta Smith
 - Player ID: 7525
 - Position: WR
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Team file: 16_Crimson_Tide_Pods.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Deebo Samuel
 - Player name: Deebo Samuel
@@ -608,9 +608,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Dylan Sampson
 - Player ID: 12469
 - Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Eli Stowers
 - Player name: Eli Stowers
@@ -656,9 +656,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Emmett Johnson
 - Player ID: 13337
 - Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Fernando Mendoza
 - Player name: Fernando Mendoza
@@ -1216,9 +1216,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Kimani Vidal
 - Player ID: 11647
 - Position: RB
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Team file: 16_Crimson_Tide_Pods.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Kyle Monangai
 - Player name: Kyle Monangai
@@ -1560,9 +1560,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Ray Davis
 - Player ID: 11575
 - Position: RB
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Team file: 16_Crimson_Tide_Pods.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Rhamondre Stevenson
 - Player name: Rhamondre Stevenson
@@ -1864,9 +1864,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Wan'Dale Robinson
 - Player ID: 8126
 - Position: WR
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Woody Marks
 - Player name: Woody Marks
