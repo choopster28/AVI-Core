@@ -1,5 +1,402 @@
 [
   {
+    "id": "mtaarmxz-7fd041af",
+    "createdAt": 1787761124368,
+    "expiresAt": 1788193124368,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Big Balder Brand ↔ Lightskin Legends",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Lightskin Legends",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          {
+            "name": "Seth McGowan",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Chase Brown",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This proposal sends elite wide receiver Rashee Rice and rookie running back Seth McGowan to Lightskin Legends in exchange for running back Chase Brown. While raw asset values are nearly identical (Rashee Rice 95.7 C-AVI vs. Chase Brown 96.1 C-AVI), the trade is strategically flawed for Big Balder Brand. As an Elite Contender already boasting Saquon Barkley, Jeremiyah Love, and Omarion Hampton, Big Balder Brand does not need a fourth high-end running back. Doing so breaks the roster's perfect structural balance (3 elite WRs, 3 elite RBs across 2 RB / 2 WR / 2 FLEX slots), yielding an imperceptible +0.4 starting C-AVI gain while exposing the receiving corps to massive injury risk. Conversely, Lightskin Legends (Retooling) scores a major structural victory by solving their desperate wide receiver need. Big Balder Brand should decline the offer or demand additional high-value draft capital to compensate for taking on positional imbalance.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 95.7,
+              "davi": 92.4,
+              "publicMarket": 88,
+              "leagueMarket": 91
+            },
+            {
+              "name": "Seth McGowan",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 22,
+              "cavi": 15,
+              "davi": 20,
+              "publicMarket": 5,
+              "leagueMarket": 10
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.7,
+              "publicMarket": 90,
+              "leagueMarket": 92.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C-",
+            "otherGrade": "A-",
+            "userShare": 44,
+            "otherShare": 56,
+            "advantageFranchise": "Lightskin Legends",
+            "summary": "On raw index valuation, giving up Rashee Rice (95.7 C-AVI) and Seth McGowan (15.0 C-AVI) for Chase Brown (96.1 C-AVI) looks balanced. However, roster-level construction heavily favors Lightskin Legends. Big Balder Brand surrenders its WR1/2 upside to hoard a 4th starter-caliber RB, generating a negligible +0.4 net gain in starting lineup C-AVI (747.8 to 748.2) while severely stripping WR depth down to Chris Godwin (62.4 C-AVI). Lightskin Legends fixes its weakest position by securing a young elite WR1."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 51,
+            "otherShare": 49,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By adding Lightskin Legends' 2028 2nd Round Pick (48.5 AVI) to the incoming package, Big Balder Brand secures liquid draft currency to address WR depth later in the season. This provides necessary strategic compensation for accepting positional bottlenecking and WR vulnerability while still giving Lightskin Legends a cornerstone WR1 for their retool."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -5,
+              "summary": "Improves starting lineup C-AVI sum by only +0.4 points, but drastically lowers week-to-week roster flexibility and ceiling during bye weeks or WR injuries."
+            },
+            "dynastyOutlook": {
+              "score": -8,
+              "summary": "Trades an elite 26-year-old WR connected to Patrick Mahomes for a running back with higher career longevity volatility."
+            },
+            "lineupQuality": {
+              "score": 3,
+              "summary": "Chase Brown (96.1 C-AVI) replaces Rashee Rice (95.7 C-AVI) in the starting 8, sliding Nico Collins into WR2 and Jeremiyah Love/Omarion Hampton into FLEX slots."
+            },
+            "depthResilience": {
+              "score": -35,
+              "summary": "Losing Rashee Rice leaves Chris Godwin (62.4 C-AVI) as the primary WR backup. Any injury to A.J. Brown or Nico Collins causes an immediate 29.5-point drop-off."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Hoarding 4 elite RBs in a 2 RB / 2 FLEX starting structure forces a weekly benching headache without adding any tradeable assets or draft capital."
+            },
+            "overall": {
+              "score": -12,
+              "summary": "Creates unnecessary positional logjam at running back while exposing wide receiver depth to catastrophic injury risk."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Upgrades starting WR1 slot from DK Metcalf (70.9 C-AVI) to Rashee Rice (95.7 C-AVI), elevating overall starting lineup C-AVI from 591.7 to 592.3."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Acquires an explosive 26-year-old alpha receiver to anchor their retooling timeline."
+            },
+            "lineupQuality": {
+              "score": 28,
+              "summary": "Provides a massive +24.8 point upgrade at WR1 while smoothly promoting Javonte Williams (80.6 C-AVI) into the vacant RB2 slot."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Pushes DK Metcalf and Parker Washington into appropriate WR2/FLEX roles, stabilizing the entire receiving depth chart."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Balancing their roster across WR and RB positions opens up future tactical flexibility."
+            },
+            "overall": {
+              "score": 12,
+              "summary": "Extremely beneficial deal that solves Lightskin Legends' primary structural flaw by converting RB depth into a top-tier WR1."
+            }
+          },
+          "explanation": "The trade creates starkly contrasting functional outcomes. Big Balder Brand suffers negative holistic impact due to severe WR depth degradation and positional redundancy, whereas Lightskin Legends achieves major positive gains by reallocating RB surplus into an elite WR1."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's starting lineup C-AVI edges up marginally from 747.8 to 748.2 (+0.4 points). However, this negligible gain is completely overshadowed by the loss of WR flexibility. The team shifts from 3 elite WRs and 3 elite RBs to 2 elite WRs and 4 elite RBs, creating a bench bottleneck.",
+          "sideADynastyImpact": "D-AVI decreases slightly from 92.4 (Rice) to 93.7 (Brown) on paper, but wide receivers carry longer productive lifespans and lower injury risk than lead running backs. Surrendering Patrick Mahomes' top target for a backfield piece degrades dynasty portfolio stability.",
+          "sideARosterImpact": "Roster symmetry is severely compromised. Post-trade, Big Balder Brand's top bench WR drops from Nico Collins (91.9 C-AVI) to Chris Godwin (62.4 C-AVI), leaving zero margin for error if A.J. Brown or Nico Collins misses time.",
+          "sideBChampionshipImpact": "Lightskin Legends boosts starting lineup C-AVI from 591.7 to 592.3. More importantly, it converts an area of extreme strength into a massive +24.8 point upgrade at WR1 (Rice 95.7 vs. DK Metcalf 70.9).",
+          "sideBDynastyImpact": "Lightskin Legends enhances its long-term retooling trajectory by securing a 26-year-old elite WR1 (92.4 D-AVI) while preserving Jonathan Taylor (95.2 D-AVI) as their focal RB.",
+          "sideBRosterImpact": "Fills a glaring roster hole. Promoting Javonte Williams to RB2 allows Rashee Rice to anchor the WR room, instantly turning a weak link into a position of strength.",
+          "valueAssessment": "On raw index totals, 110.7 C-AVI (Rice + McGowan) vs. 96.1 C-AVI (Brown) reflects fair value for an elite player swap with a minor throw-in. However, situational roster context makes the deal an inefficient resource allocation for Big Balder Brand."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In public dynasty markets, Rashee Rice and Chase Brown reside in very similar draft-capital tiers (fringe Round 2 / early Round 3 redraft ADP; top-12 dynasty assets at WR and RB respectively). Rice carries immense upside as Patrick Mahomes' primary weapon, offset by historical legal/health narrative risks. Chase Brown's market value is surging as Cincinnati's clear dual-threat lead back.",
+          "aviVsMarket": "AVI values Chase Brown (96.1 C-AVI / 93.7 D-AVI) and Rashee Rice (95.7 C-AVI / 92.4 D-AVI) virtually identical to public consensus, correctly recognizing both as high-end fantasy starters.",
+          "relevantContext": [
+            "Rashee Rice serves as the high-volume target commander in Kansas City's offense when active.",
+            "Chase Brown has cemented an expanded dual-threat role in Cincinnati, taking on heavy receiving work alongside line-of-scrimmage volume.",
+            "Seth McGowan is a 7th-round rookie depth piece for Indianapolis with minimal current market value."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Lightskin Legends is actively Retooling and has a desperate need at wide receiver (WR1 pre-trade was DK Metcalf at 70.9 C-AVI). Trading from an RB surplus (Jonathan Taylor, Chase Brown, Javonte Williams) to acquire Rashee Rice perfectly aligns with their front-office goal.",
+          "packageFit": "For Lightskin Legends, the package fit is an A+. For Big Balder Brand, acquiring a 4th top-tier RB when only 2 RBs and 2 FLEX can start creates an unnecessary positional surplus.",
+          "lineupReplacement": "Lightskin Legends easily replaces Chase Brown by moving Javonte Williams (80.6 C-AVI) into RB2, while dramatically boosting WR1. Big Balder Brand replaces Rashee Rice by sliding Nico Collins to WR2 and playing four RBs across RB1, RB2, FLEX1, and FLEX2.",
+          "competitiveWindowFit": "Lightskin Legends (Retool) gains a 26-year-old WR cornerstone. Big Balder Brand (Win Championship) gains no meaningful championship edge (+0.4 C-AVI) while increasing overall roster fragility.",
+          "positionalScarcity": "In a 16-team league, high-volume RBs are scarce, but elite WR1s with 95+ C-AVI are equally critical for championship contenders to maintain starting lineup ceiling and flex capability."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 83,
+          "classification": "Realistic",
+          "explanation": "Lightskin Legends would be highly likely (83% acceptance probability) to accept this proposal because it directly solves their WR deficiency using surplus RB talent without harming their retooling timeline."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "Big Balder Brand should decline this offer as constructed. Even though Market Reality indicates Lightskin Legends would gladly accept, the move hurts Big Balder Brand's championship pursuit. With Saquon Barkley, Jeremiyah Love, and Omarion Hampton already on the roster, adding Chase Brown yields a microscopic +0.4 starting lineup improvement while destroying wide receiver depth. In a 16-team league, holding 3 elite WRs and 3 elite RBs provides ideal 2 RB / 2 WR / 2 FLEX symmetry and crucial injury insurance.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 95.7,
+              "davi": 92.4,
+              "publicMarket": 88,
+              "leagueMarket": 91
+            },
+            {
+              "name": "Seth McGowan",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 22,
+              "cavi": 15,
+              "davi": 20,
+              "publicMarket": 5,
+              "leagueMarket": 10
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.7,
+              "publicMarket": 90,
+              "leagueMarket": 92.5
+            },
+            {
+              "name": "2028 Round 2 (Lightskin Legends ✊🏽)",
+              "assetType": "pick",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "Insisting on Lightskin Legends' 2028 2nd Round Pick (48.5 AVI) compensates Big Balder Brand for taking on WR structural risk, providing liquid draft capital that can be flipped mid-season for receiver depth.",
+          "whyOpponentMightAccept": "Lightskin Legends still achieves its primary objective—securing a legitimate 26-year-old WR1 in Rashee Rice to headline its retool—while giving up a future 2nd-round pick from an existing RB surplus."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Omarion Hampton",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 89.3,
+              "davi": 93.9,
+              "publicMarket": 85,
+              "leagueMarket": 88.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "DK Metcalf",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "WR",
+              "age": 28,
+              "cavi": 70.9,
+              "davi": 83.4,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            },
+            {
+              "name": "2028 Round 1 (Lightskin Legends ✊🏽)",
+              "assetType": "pick",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "If Big Balder Brand wants to pivot, trading RB depth (Omarion Hampton) to Lightskin Legends for DK Metcalf and a 2028 1st Round Pick improves WR depth while adding premier future capital without sacrificing Rashee Rice."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chase Brown Bengals 2026 fantasy",
+          "Rashee Rice fantasy outlook 2026",
+          "Rashee Rice news 2026",
+          "Seth McGowan NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD7JggrzMN5N6611-IQp6QEuFY6WyMjw6XdshPxNIcr8d7R2kBvIW5KGY_rXj_z5X4OSAj9fnKeHEVkkHmmcQk4cWelFuhbURnymXA5lHMFgO2kuQhWzIIN6LwW1FxBsBG",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHshnfyG0sD81NsqI0nVK_Ct202e0zFl7xFYlKoGz2AZwZ4eB_U5GdMSSZ_fiMha3qVOsMrXIfEEmamkUbZOgygv5RMwFTWpHGe00LQ2zMv4KNWj_Jg3khIbk0d2mEML15974ini_pdR2RlxcRFp9iyyQCZJGx44WeLBMtTDc4cw0Cglpxr7M6jqHoAZIbZoMrMGwikshGEJRFg4XYKOzubMG7m4rorqtw79vxzc4fvH6dwhvK20ujq70TuOEP3JA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMnle97k0fNnQC3eJAoQ5CPL2CXQG91YF4gFTd5V9TJafTpPvbabLUKQ8uJ_nNhOp4sbBL-82j2iDxxlWGMrmNeV74DtY7CjG2EM0k8DHLSR-Wtb52XV6XJw4LUzIhxQfGFWRUEGfY8if0iPlYakA7DJ47DxL9E3P7YA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiwtkv1xTyHWGTZoww7Gjby6n0Gg_ZwrQXHwX-ONPoUj239EnOF-kjhwWmNE3IQMof77tLLA-5OIVspZGncU0hIjFi3V4vxORA3T_kbwB0Z62LceEtK8RE8i7w--ofd6OLg2Ado7cx_jJ6n-ziBGz3PyGDHYzSFDGfuTPqRtrWflqBGHCDLL5lH8cprBnAREbImieUIbMa9JPfgr0jXvqViSJngrzT12GU",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcDxJi6hv80GYppvU85sneeIXPtgYCNBAxwicDKWSz2eoe_O0qzssC1iyaD2afFNLAbZ7L20AB1vzhRFDwvrXTcsrhvcO0BNhGw2z3wNqfa2Wu_yBP14Vjp-3dKLYJpgNI4cvXkoopefAdPXCN5r7wlWTDGdZUPuTqPNbFsFpQ_HKgcaabXw==",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKBWljTk8OthdJXm6dOX522XjRtUX77dgaretiHJrSkX4GMb_dUy604u3Velzp83unzy8GNJtKqYXtdXtBZ_SuXu8hv1oxCqcH7TdpvZ6l2-gAYvW_n0ZEYIR6eA_gPORAJOuHpXpwuw64R9RPqFJFNrGGxjAN3taUD07UVBsvJCaAGfeykYLnqovjMCjpm2Avcg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1hoQOjjBmhVUOHhVY1n-Wmlq6dM4HvBt7GHuNz-h-cs_Ktm_vPOU5FVkSSJWfnSDgkTi7j-ABqh5puUFgScf4R7JCgf_LAlyMa4hLj0N-FG1mrJxIBbeyWuPwdjEIIPwX",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcwXgUaLb6W0cZ6L0OyWrCVZsBaDB8s_wpBpgSJW8O9_Y0G1B-aNgCJ7wiFb5PPN4nXn9yzLN1FxfwDndE-R3Q_ggyzO9RPL0GQ1DcYwilHENzAbOgHxIKYw_v6aEXCZFzwSUpuiIpp71YRuJHVnzXU9enadPM8GWYpA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Z8PVvTlsKtGU_4NBIdVbq3Zz7RJNYT2Wj_rvPjqqTfU9uUUftpUOT7FDUKdlqYY1d_tFG7lnADji-uVc2XaXKKGRY3UFuqFueQ04qKikfEvqLFsP-GX5pWaz-KIzJhZCVV8MJGvKPI4DWg==",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuFv8j3CONlRBWIyV-7E6Mus1Z2L-9jcwRThZejg2JcfSncu8t05DV8LBKKSthYmQRhTtS69GEn4P_u6cB0ARf89AQqq9iED9mk2bUwumJFSe20LmgLQmM2lWoOHBoV7KrercZ-UsWVelu36Y5HFTpvtSArJVw_dkYocOtCurYQYwE42bPeXj4KvMB4UtO",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDrhJRws7d2l-nZ3I4avZoQdA_USFwtjxq5KhrhGt9v37pJnsmeUQ19tNMwlRWTCuwApT5EJ3SIkZQZ0QFzbReUksZEfhLdzB-fe-AYowS4YL84K4Hj0I-YBe5ykoyQcU=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSEmszi3lefXubdzG6sNCKqdMW3yyQO5vK74ea2A64BuYnzVAbNkh3r07jIFA5CIbwLtWeiQ26sAZLwqzZFojqcJujfkTvecU0nGPv5nVGib29Exi6pOP7rVlD5m8_mugc8NLP6uUY4DuGd0I2gFanO1b1Irm0YtGghiY2ulLMlKMXOfzCBkXxfQ==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Fk3CUzUEptMTHLVIWM6yoHmaz948j6Ldu-5tG6b9ooBplc-XTftd6nNIe981KB9E0dbdBSLBVbQcoL5DOP0W7NhT7FnLkoN_TTfXF86n8xq99g-1YAFpmOIbWp71-IY5Xm0yWOdQvQwiZYv8bVnNhTbaGXAZSgLpAqWD3ymBJLbFUT_A1TQ=",
+            "title": "ea.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqBixm8CrRiATSyIadp6fgkjFnzJhKbIEAuPOt5PepBd8YWJK54KfA_dPB4QyJMQuwFShhERMCHFiot6JR_W00oAfYbABy59hNM4oVKN_FxNuAyc3WUBpJvxG3H54HMw==",
+            "title": "nfl.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "ffadb7e691d0f96358e22415897ef875fa3f63cb",
+        "aviCoreCommittedAt": "2026-08-26T16:15:23Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 80937,
+        "groundedMarketChars": 3306,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mtaap1kl-9503c595",
     "createdAt": 1787760940400,
     "expiresAt": 1788192940400,
