@@ -1,5 +1,39 @@
 [
   {
+    "id": "mtaarmxz-7fd041af",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Lightskin Legends",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          {
+            "name": "Seth McGowan",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Chase Brown",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1787761045224,
+    "updatedAt": 1787761045224,
+    "expiresAt": 1788193045224,
+    "status": "queued"
+  },
+  {
     "id": "mtaap1kl-9503c595",
     "phase": "final",
     "mode": "propose_trade",
