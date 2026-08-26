@@ -10,9 +10,11 @@ on:
       - "generate_weekly_executive_summary_filtered.py"
       - "finalize_franchise_summaries.py"
       - "scripts/patch-latest-trade-impact.py"
+      - "scripts/reconcile-franchise-summary-consistency.py"
       - ".github/workflows/weekly-franchise-executive-summary.yml"
       - "knowledge/teams/**"
       - "knowledge/02_AVI_Historical_Trades.md"
+      - "data/raw/sleeper/**/rosters.json"
       - "data/raw/sleeper/**/transactions.json"
       - "data/raw/sleeper/**/traded_picks.json"
       - "data/processed/reports/draft_pick_values.json"
@@ -67,9 +69,13 @@ jobs:
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: python generate_weekly_executive_summary_filtered.py
 
-      - name: Finalize canonical dynasty and rival data
+      - name: Finalize canonical dynasty and live roster data
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
         run: python finalize_franchise_summaries.py
+
+      - name: Reconcile every summary to current ownership and power neighbors
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        run: python scripts/reconcile-franchise-summary-consistency.py
 
       - name: Verify all franchise summaries
         if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
@@ -97,9 +103,11 @@ jobs:
               raise SystemExit(f"Generated manifest is stale by {age_seconds:.0f} seconds")
 
           summaries = []
+          summaries_by_name = {}
           for path in files:
               payload = json.loads(path.read_text(encoding="utf-8"))
               summaries.append((path, payload))
+              summaries_by_name[str(payload.get("franchise_name") or "")] = payload
 
               dynasty = payload.get("dynasty_power") or {}
               rank = int(dynasty.get("rank") or 0)
@@ -140,6 +148,10 @@ jobs:
                       raise SystemExit(f"False no-trade fallback remains: {path}")
 
               projected = payload.get("projected_power") or {}
+              projected_rank = int(projected.get("rank") or 0)
+              if int(projected.get("league_size") or 0) != 16 or projected_rank < 1 or projected_rank > 16:
+                  raise SystemExit(f"Invalid projected power metadata in {path}: {projected}")
+
               team_below = projected.get("team_below")
               rival = payload.get("rival_below")
               if team_below is None:
@@ -152,15 +164,35 @@ jobs:
                       raise SystemExit(f"Rival Watch does not match team_below: {path}")
                   if rival.get("projected_rank") != team_below.get("rank"):
                       raise SystemExit(f"Rival Watch rank does not match team_below: {path}")
+                  rival_summary = str(rival.get("summary") or "")
+                  expected_rival_name = str(team_below.get("name") or "")
+                  if rival_summary and expected_rival_name not in rival_summary and "No verified recent trade" not in rival_summary:
+                      raise SystemExit(f"Rival Watch narrative references the wrong franchise in {path}: {rival_summary}")
+
+              source = payload.get("source") or {}
+              if "rosters.json" not in str(source.get("roster_ownership_source") or ""):
+                  raise SystemExit(f"Current Sleeper roster source missing in {path}")
+
+              availability = str((sections.get("availability") or {}).get("body") or "")
+              if availability and "Sleeper-owned roster" not in availability:
+                  raise SystemExit(f"Availability is not reconciled to live ownership in {path}: {availability}")
+
+              draft_assets = str((sections.get("draft-assets") or {}).get("body") or "")
+              if float(dynasty.get("future_pick_d_avi") or 0) > 0 and "future draft capital contributes" not in draft_assets:
+                  raise SystemExit(f"Draft Assets contradict verified future capital in {path}: {draft_assets}")
 
               if "original roster" in path.read_text(encoding="utf-8").casefold():
                   raise SystemExit(f"Untranslated roster ID found in {path}")
 
-          ranks = [int(payload["dynasty_power"]["rank"]) for _, payload in summaries]
-          if sorted(ranks) != list(range(1, 17)):
-              raise SystemExit(f"Dynasty ranks are not a unique 1-16 ladder: {ranks}")
+          dynasty_ranks = [int(payload["dynasty_power"]["rank"]) for _, payload in summaries]
+          if sorted(dynasty_ranks) != list(range(1, 17)):
+              raise SystemExit(f"Dynasty ranks are not a unique 1-16 ladder: {dynasty_ranks}")
 
-          expected_order = sorted(
+          projected_ranks = [int(payload["projected_power"]["rank"]) for _, payload in summaries]
+          if sorted(projected_ranks) != list(range(1, 17)):
+              raise SystemExit(f"Projected ranks are not a unique 1-16 ladder: {projected_ranks}")
+
+          expected_dynasty_order = sorted(
               summaries,
               key=lambda item: (
                   float(item[1]["dynasty_power"]["score"]),
@@ -169,7 +201,7 @@ jobs:
               ),
               reverse=True,
           )
-          for expected_rank, (path, payload) in enumerate(expected_order, start=1):
+          for expected_rank, (path, payload) in enumerate(expected_dynasty_order, start=1):
               actual_rank = int(payload["dynasty_power"]["rank"])
               if actual_rank != expected_rank:
                   raise SystemExit(
@@ -177,7 +209,24 @@ jobs:
                       f"expected rank {expected_rank}, found {actual_rank}"
                   )
 
-          print("Verified all 16 franchise summaries with dynamic league-wide validation.")
+          expected_projected_order = sorted(
+              summaries,
+              key=lambda item: (
+                  float((item[1].get("projected_power") or {}).get("score") or 0),
+                  float((item[1].get("dynasty_power") or {}).get("player_d_avi") or 0),
+                  str(item[1].get("franchise_name") or ""),
+              ),
+              reverse=True,
+          )
+          for expected_rank, (path, payload) in enumerate(expected_projected_order, start=1):
+              actual_rank = int(payload["projected_power"]["rank"])
+              if actual_rank != expected_rank:
+                  raise SystemExit(
+                      f"Projected power ordering mismatch in {path}: "
+                      f"expected rank {expected_rank}, found {actual_rank}"
+                  )
+
+          print("Verified all 16 franchise summaries against current ownership and canonical league-wide rankings.")
           PY
 
       - name: Commit refreshed source and summaries
@@ -186,7 +235,7 @@ jobs:
         run: |
           git config user.name "AVI-Automation"
           git config user.email "actions@users.noreply.github.com"
-          git add generate_weekly_executive_summary_filtered.py knowledge/franchise_summaries
+          git add generate_weekly_executive_summary_filtered.py finalize_franchise_summaries.py scripts/reconcile-franchise-summary-consistency.py knowledge/franchise_summaries
           if git diff --cached --quiet; then
             echo "No franchise summary changes to commit."
             exit 0
