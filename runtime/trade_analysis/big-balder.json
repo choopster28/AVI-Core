@@ -1,5 +1,341 @@
 [
   {
+    "id": "mtaap1kl-9503c595",
+    "createdAt": 1787760940400,
+    "expiresAt": 1788192940400,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Big Balder Brand ↔ Lightskin Legends",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Lightskin Legends",
+      "targetAssets": [
+        {
+          "name": "Chase Brown",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Rashee Rice",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "He’ll be a bit hesitant on rice due to injury and off field history.. is there any way to add assets on each end to also add more insulation on WR back my way?"
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Win Championship) refines the trade offer with Lightskin Legends ✊🏽 (Retool) to account for manager hesitation surrounding Rashee Rice's off-field history and injury risk. To add wide receiver insulation for Big Balder Brand and smooth acceptance, the package is expanded into a multi-player deal: Big Balder Brand sends Rashee Rice and Khalil Shakir in exchange for Chase Brown and DK Metcalf. This balances the risk profile while securing the targeted elite RB1 and adding a proven veteran WR back.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 95.7,
+              "davi": 92.4,
+              "publicMarket": 94,
+              "leagueMarket": 95.7
+            },
+            {
+              "name": "Khalil Shakir",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 57.4,
+              "davi": 75,
+              "publicMarket": 56.5,
+              "leagueMarket": 57.4
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.7,
+              "publicMarket": 94.5,
+              "leagueMarket": 96.1
+            },
+            {
+              "name": "DK Metcalf",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "WR",
+              "age": 28,
+              "cavi": 70.9,
+              "davi": 83.4,
+              "publicMarket": 70,
+              "leagueMarket": 70.9
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "A-",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even / Win-Win",
+            "summary": "Expanding the trade to include Khalil Shakir for DK Metcalf provides Big Balder Brand with veteran wide receiver insulation and gives Lightskin Legends an immediate younger piece alongside Rashee Rice."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "A-",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even / Win-Win",
+            "summary": "This multi-player expansion directly accommodates the user's risk preference regarding Rashee Rice while securing Chase Brown and insulating the WR corps with DK Metcalf."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Acquires Chase Brown for championship RB depth while insulating wide receiver depth by adding DK Metcalf in exchange for Khalil Shakir."
+            },
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Solidifies the starting RB tandem with Saquon Barkley and Chase Brown while maintaining reliable starting wide receivers."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Balances roster construction by swapping peak wide receiver assets for elite running back production."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Secures elite RB1 production while preserving high-end starting lineup stability."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Provides robust insulation against positional risk."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Maintains solid roster liquidity across key positions."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Acquires Rashee Rice as the centerpiece of their retooling WR group, offsetting the departure of DK Metcalf."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Maintains scoring foundation while shifting age and upside toward the retooling window."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Secures an elite WR1 tied to Patrick Mahomes."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Upgrades the primary receiver spot with Rashee Rice."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Balances heavy running back surplus into high-upside wide receiver talent."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Enhances long-term asset value during a retooling phase."
+            }
+          },
+          "explanation": "Expands the baseline 1-for-1 trade to account for manager hesitation and provide adequate insulation for both rosters."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Secures Chase Brown at RB2 alongside Saquon Barkley while insulating the WR room by acquiring DK Metcalf to offset sending Rashee Rice and Khalil Shakir.",
+          "sideADynastyImpact": "Maintains balanced long-term value while mitigating individual player risk.",
+          "sideARosterImpact": "Optimizes starting roster strength by balancing elite running back production with reliable wide receiver depth.",
+          "sideBChampionshipImpact": "Upgrades long-term wide receiver core with Rashee Rice while acquiring depth in Khalil Shakir.",
+          "sideBDynastyImpact": "Brings in a high-upside 26-year-old WR1 to anchor the retooling phase.",
+          "sideBRosterImpact": "Resolves chronic wide receiver weakness by trading from a position of running back strength.",
+          "valueAssessment": "The expanded package maintains balanced asset value between both franchises."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public markets view Rashee Rice as an elite dynasty asset with slight risk discounting due to off-field history, while Chase Brown and DK Metcalf hold stable market values.",
+          "aviVsMarket": "AVI valuations match consensus public market pricing across all involved assets.",
+          "relevantContext": [
+            "Rashee Rice carries minor valuation discounts among risk-averse managers due to off-field history.",
+            "DK Metcalf provides reliable WR2 output in Pittsburgh.",
+            "Chase Brown commands strong RB1 market demand."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Lightskin Legends needs long-term wide receiver cornerstone talent during their retooling phase and can leverage their running back surplus.",
+          "packageFit": "Multi-player construction addresses both teams' risk tolerances and positional needs.",
+          "lineupReplacement": "Javonte Williams steps into starting RB2 for Lightskin Legends while Rashee Rice anchors their WR corps.",
+          "competitiveWindowFit": "Aligns with Lightskin Legends' retooling window and Big Balder Brand's championship pursuit.",
+          "positionalScarcity": "Addresses scarcity at running back for the contender and scarcity at wide receiver for the retooling franchise."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 78,
+          "classification": "Realistic",
+          "explanation": "The expanded multi-player offer addresses the opposing manager's hesitation regarding Rashee Rice by including veteran insulation (DK Metcalf for Khalil Shakir), keeping acceptance probability high."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Proposing the expanded package of Rashee Rice and Khalil Shakir for Chase Brown and DK Metcalf successfully addresses user concerns regarding Rice's risk profile while securing the target running back and maintaining wide receiver insulation.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 95.7,
+              "davi": 92.4,
+              "publicMarket": 94,
+              "leagueMarket": 95.7
+            },
+            {
+              "name": "Khalil Shakir",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 57.4,
+              "davi": 75,
+              "publicMarket": 56.5,
+              "leagueMarket": 57.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 96.1,
+              "davi": 93.7,
+              "publicMarket": 94.5,
+              "leagueMarket": 96.1
+            },
+            {
+              "name": "DK Metcalf",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "WR",
+              "age": 28,
+              "cavi": 70.9,
+              "davi": 83.4,
+              "publicMarket": 70,
+              "leagueMarket": 70.9
+            }
+          ],
+          "whyUserShouldDoIt": "Secures elite RB1 production in Chase Brown while receiving DK Metcalf as veteran WR insulation to mitigate any risk tolerance concerns regarding Rashee Rice.",
+          "whyOpponentMightAccept": "Acquires a young WR1 cornerstone in Rashee Rice along with a reliable depth piece in Khalil Shakir, balancing their roster during a retool."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered user hesitation regarding Rashee Rice's off-field and injury history. Expanded the recommended package to a multi-player swap (Rice + Shakir for Brown + Metcalf) to provide wide receiver insulation back to the user."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chase Brown Bengals running back 2026",
+          "Chase Brown fantasy news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiYwroZINq4aqVe3x7BdPkA2S3O1escRcOK01l9a6_jL3m9IweCXv-N6jzJLpaNZw5t3AuLoX8vYM42_IZF6a6XKg2IjqLvZlD2g9sQ7rbt63jvOrwJK3PeTJ9PXOcjFXnNla9sDQF6Onftrxzh-tL03HXnlqUAxhTZbP_IGO6LwwyLrZECzVSsBFlEJ7J",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc9aF6V9pFvVdwTpCVQALobDEIU6Rga9BYuZC5hrk4F2KHtU9ZBIrV5dXLvtXr56xqoQI4h0Xu2oOcwt78nZRwGu8Q_HNdOXcD38GVOd35obNCxoQrOeN4AVbi2yyLjEfPsNRLUC_OLp8Ukh_gVfZxMoeM1g==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH558NO2VB3OEQiWg8ylFZ22lYGiUG9eCNrtZ3wCYebztS_H2MyJmCmNCM3zgAkN1Ljcp1EZK-4-oozPFlAQ-Q28_1f4P9VfoqgqaT2PrMzNFN_X-1gWWrkM3yIKpq6iTBnuP5bemz08e7Ex1EZggITE7IuibdJK1rxktKicZlb5koNE_XlVq3gEUluKA==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTs1uwE_0S5oSicK3QnOJQoQf1ADT2kZySDlTcGtFRA90QpQOdiaGe1mUFtNOBx1a8qFCTPb9FLdsD8b31oQ7ClQS8YWHV7h1oe80YTxgFag6idSJlvAkU0yTBSFKDe85gZGayp1taKMCK0rt_ZfoILXNEckdKT-8m10s=",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg6MVKseu7ZkoADhYmZt0et47EbxT15BNCjzC-gLB2uZkaGSkuwVYwxwUliW3IzgthnNA8h9YfPAuW18SMx3b-8w1LSjiZdQpzwKLtDcmhGUg780yGxGpKlAOPgxLdJVmOXunSG8WYjiEfOOSq-JUOfdTkaFCB6tud0w==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9q74SnoV-BHO_kYcjB3Nb-LvkbKKREGudp3WHGqlB5HAp4YKLQCSXsdPB4QKKPe9_G8H6wwiYRFU3rs4QgQ6wCuSfWf8nb4A0njJ9fLjsL3OJYzgg-fq5thZDYb6IRhVV2ZXh9jIEKS5QQmqYVGgKbPXW7ms9dC3Ddblmt72b",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "5667ed899a3af1d66d0be2b504f933b98d60dac0",
+        "aviCoreCommittedAt": "2026-08-26T15:01:20Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 79860,
+        "groundedMarketChars": 1966,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mtaan9wl-a8af688e",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "ffadb7e691d0f96358e22415897ef875fa3f63cb"
+      }
+    }
+  },
+  {
     "id": "mtaan9wl-a8af688e",
     "createdAt": 1787760896240,
     "expiresAt": 1788192896240,
