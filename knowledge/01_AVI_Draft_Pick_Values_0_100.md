@@ -62,8 +62,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Northside Kings
 - Original roster ID: 5
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
@@ -3854,8 +3854,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Conquistadors
 - Original roster ID: 1
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd

@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-26T14:09:47.890145+00:00",
+  "generated_at_utc": "2026-08-26T14:46:26.057014+00:00",
   "statistics": {
-    "owner_trade_participations": 159,
+    "owner_trade_participations": 161,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -179,6 +179,23 @@
       },
       {
         "by_season": {
+          "2024": 6,
+          "2025": 2,
+          "2026": 9
+        },
+        "firsts_in": 3,
+        "firsts_out": 5,
+        "owner_display_name": "Thecan",
+        "picks_in": 5,
+        "picks_out": 9,
+        "players_in": 16,
+        "players_out": 18,
+        "roster_id": 1,
+        "team_name": "Conquistadors",
+        "total": 17
+      },
+      {
+        "by_season": {
           "2024": 3,
           "2025": 3,
           "2026": 11
@@ -196,20 +213,20 @@
       },
       {
         "by_season": {
-          "2024": 6,
+          "2024": 5,
           "2025": 2,
           "2026": 8
         },
-        "firsts_in": 3,
-        "firsts_out": 3,
-        "owner_display_name": "Thecan",
-        "picks_in": 5,
-        "picks_out": 7,
-        "players_in": 15,
-        "players_out": 17,
-        "roster_id": 1,
-        "team_name": "Conquistadors",
-        "total": 16
+        "firsts_in": 7,
+        "firsts_out": 2,
+        "owner_display_name": "TacticsNoob",
+        "picks_in": 13,
+        "picks_out": 3,
+        "players_in": 21,
+        "players_out": 18,
+        "roster_id": 12,
+        "team_name": "DMV Fantasy",
+        "total": 15
       },
       {
         "by_season": {
@@ -227,23 +244,6 @@
         "roster_id": 5,
         "team_name": "Northside Kings ",
         "total": 15
-      },
-      {
-        "by_season": {
-          "2024": 5,
-          "2025": 2,
-          "2026": 7
-        },
-        "firsts_in": 5,
-        "firsts_out": 2,
-        "owner_display_name": "TacticsNoob",
-        "picks_in": 11,
-        "picks_out": 3,
-        "players_in": 20,
-        "players_out": 17,
-        "roster_id": 12,
-        "team_name": "DMV Fantasy",
-        "total": 14
       },
       {
         "by_season": {
@@ -408,10 +408,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 36
+      "2026": 37
     },
-    "two_team_trades": 78,
-    "unique_completed_trades": 79
+    "two_team_trades": 79,
+    "unique_completed_trades": 80
   },
   "trades": [
     {
@@ -5832,6 +5832,84 @@
         }
       ],
       "transaction_id": "1398169552570863616",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-08-26T14:21:00.786000+00:00",
+      "created_timestamp_ms": 1787754060786,
+      "roster_ids": [
+        1,
+        12
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "9511",
+              "player_name": "Keaton Mitchell"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "9511",
+              "player_name": "Keaton Mitchell"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8155",
+              "player_name": "Breece Hall"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2026,
+          "team_name": "DMV Fantasy"
+        }
+      ],
+      "transaction_id": "1398345517959819264",
       "week": 1
     }
   ]
