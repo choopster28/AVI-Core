@@ -1,5 +1,41 @@
 [
   {
+    "id": "mta6fvz0-ac79cdc3",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Win Championship",
+      "targetTeam": "DMV Fantasy",
+      "targetAssets": [
+        {
+          "name": "Breece Hall",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 1st · Northside · Projected early range (1.01–1.05)",
+          "assetType": "pick"
+        },
+        {
+          "name": "2028 1st · Conquistadors · Projected late range (1.10–1.16)",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "createdAt": 1787753778588,
+    "updatedAt": 1787753778588,
+    "expiresAt": 1788185778588,
+    "status": "queued"
+  },
+  {
     "id": "mt9ftrtz-351f553f",
     "phase": "initial",
     "mode": "analyze_trade",
