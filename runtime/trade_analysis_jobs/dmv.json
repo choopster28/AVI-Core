@@ -23,9 +23,250 @@
       ]
     },
     "createdAt": 1787755622559,
-    "updatedAt": 1787755623672,
+    "updatedAt": 1787755711496,
     "expiresAt": 1788187622559,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "DMV Fantasy (Rebuild) is attempting to re-acquire its own projected early 2027 1st-round pick from Crimson Tide Pods (Rebuild) using 32-year-old tight end George Kittle as the foundation. Crimson Tide Pods is in a verified Rebuild window and holds this pick—projected in the 1.01–1.05 early range—as a premier cornerstone for its long-term future. Offering a 32-year-old veteran tight end to a rebuilding front office for a top-5 future rookie draft pick fundamentally conflicts with the trade partner's organizational goal and competitive window. Consequently, Market Reality evaluations fail on manager motivation, package match, and competitive window alignment, yielding no realistic path to complete this trade using the proposed foundation.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "George Kittle",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "TE",
+              "age": 32,
+              "cavi": 84.1,
+              "davi": 83.6,
+              "publicMarket": 80,
+              "leagueMarket": 84.1
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2027 Round 1 (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 85,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D-",
+            "otherGrade": "F",
+            "userShare": 65,
+            "otherShare": 35,
+            "advantageFranchise": "DMV Fantasy",
+            "summary": "If accepted, DMV Fantasy would secure an elite dynasty rebuilding cornerstone by reclaiming its own projected early 2027 1st-round draft pick in exchange for an aging veteran tight end. However, the transaction severely damages Crimson Tide Pods' long-term rebuild trajectory by surrendering a potential 1.01–1.05 selection for win-now production that will age out before Crimson Tide Pods becomes competitive."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 15,
+              "summary": "Reclaiming a projected early 2027 1st bolsters long-term draft capital, though surrendering Kittle leaves Brenton Strange as the primary starting tight end."
+            },
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Losing George Kittle (84.1 C-AVI) removes a high-ceiling starting tight end from the immediate lineup."
+            },
+            "dynastyOutlook": {
+              "score": 45,
+              "summary": "Securing a top 2027 rookie draft pick adds a high-upside cornerstone asset aligned with DMV's rebuilding timeline."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "Mandatory TE slot downgrades from Kittle to Brenton Strange (60.9 C-AVI)."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Reduces tight end depth behind Strange to Tommy Tremble."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Re-acquiring native early draft capital increases trade optionality and future liquidity."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -65,
+              "summary": "Trading a projected early 1st-round draft pick for a 32-year-old veteran tight end severely sets back Crimson Tide Pods' rebuild."
+            },
+            "championshipOutlook": {
+              "score": 20,
+              "summary": "George Kittle provides immediate TE1 production, but Crimson Tide Pods is not currently positioned to contend."
+            },
+            "dynastyOutlook": {
+              "score": -75,
+              "summary": "Surrendering a top 2027 rookie pick forfeits premium youth capital during an active rebuilding phase."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Upgrades mandatory TE position over Gunnar Helm (52.7 C-AVI) and Oronde Gadsden (52.4 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Creates tight end depth, though unneeded for a non-contending roster."
+            },
+            "flexibilityLiquidity": {
+              "score": -60,
+              "summary": "Drains key future draft capital, locking up rebuild flexibility in an aging veteran asset."
+            }
+          },
+          "explanation": "DMV Fantasy gains significant dynasty liquidity by reclaiming its own projected top-5 draft pick, but Crimson Tide Pods suffers severe strategic harm by trading prime rebuilding capital for short-term veteran production."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "DMV Fantasy loses 84.1 C-AVI at starting TE, dropping to Brenton Strange (60.9 C-AVI) and shifting weekly starting production down slightly.",
+          "sideADynastyImpact": "DMV Fantasy exchanges a 32-year-old TE (83.6 D-AVI) for a projected early 2027 1st (79.3 D-AVI benchmark, with top-5 draft upside), aligning roster age with its rebuild goal.",
+          "sideARosterImpact": "Clears a veteran salary/roster spot while elevating Brenton Strange to TE1 and accumulating premium draft flexibility.",
+          "sideBChampionshipImpact": "Crimson Tide Pods boosts starting TE C-AVI from 52.7 (Gunnar Helm) to 84.1 (George Kittle), adding immediate scoring that does not alter its rebuilding status.",
+          "sideBDynastyImpact": "Crimson Tide Pods forfeits a prime 2027 draft asset (79.3 D-AVI) for a 32-year-old tight end whose value will depreciate before Crimson Tide Pods' competitive window opens.",
+          "sideBRosterImpact": "Creates a logjam at TE with Kittle, Helm, and Gadsden while gutting draft capital reserves.",
+          "valueAssessment": "On raw index values (Kittle 84.1 C-AVI / 83.6 D-AVI vs 2027 1st 79.3 AVI), the numbers look balanced, but situational strategic fit heavily favors DMV Fantasy while penalizing Crimson Tide Pods."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In public dynasty markets, a projected early-to-mid 1st-round draft pick commands premium value over a 32-year-old tight end, even an elite contributor like George Kittle.",
+          "aviVsMarket": "Public market consensus discounts 32-year-old tight ends in rebuilding environments far more aggressively than C-AVI model baselines, making an early 1st-round pick significantly more valuable on the open market.",
+          "relevantContext": [
+            "Rebuilding dynasty managers prioritize prime draft picks and young core receivers over aging veteran tight ends.",
+            "Early 2027 1st-round picks retain peak liquidity and asset appreciation over time.",
+            "George Kittle remains a high-end target for contenders, but holds minimal value for rebuilding rosters."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Crimson Tide Pods has zero incentive as a rebuilder to swap a top 2027 rookie draft selection for a 32-year-old veteran TE.",
+          "packageFit": "The proposal offers win-now veteran points to a franchise actively trying to accumulate young foundational pieces.",
+          "lineupReplacement": "Crimson Tide Pods already possesses young developmental tight ends in Gunnar Helm (age 23) and Oronde Gadsden (age 23), making TE upgrade a low priority.",
+          "competitiveWindowFit": "Direct conflict: Crimson Tide Pods is designated as a Rebuilder in HQ status and cannot justify holding aging assets like Kittle.",
+          "positionalScarcity": "While elite tight ends carry positional scarcity in 16-team PPR formats, that scarcity holds value for contenders, not rebuilders."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 0,
+            "packageMatch": 0,
+            "lineupReplacement": 5,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 20,
+          "classification": "Impossible",
+          "explanation": "The proposed transaction fails every major front-office validation check for Crimson Tide Pods. A rebuilding team will not surrender a projected top-5 draft pick for a 32-year-old veteran player."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "The proposed transaction fails every major front-office validation check for Crimson Tide Pods. A rebuilding team will not surrender a projected top-5 draft pick for a 32-year-old veteran player.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "The proposed transaction fails every major front-office validation check for Crimson Tide Pods. A rebuilding team will not surrender a projected top-5 draft pick for a 32-year-old veteran player.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Crimson Tide Pods has zero incentive as a rebuilder to swap a top 2027 rookie draft selection for a 32-year-old veteran TE."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "The proposal offers win-now veteran points to a franchise actively trying to accumulate young foundational pieces."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Crimson Tide Pods already possesses young developmental tight ends in Gunnar Helm (age 23) and Oronde Gadsden (age 23), making TE upgrade a low priority."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Direct conflict: Crimson Tide Pods is designated as a Rebuilder in HQ status and cannot justify holding aging assets like Kittle."
+            }
+          ],
+          "opponentPerspective": "Crimson Tide Pods has zero incentive as a rebuilder to swap a top 2027 rookie draft selection for a 32-year-old veteran TE.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "The proposal offers win-now veteran points to a franchise actively trying to accumulate young foundational pieces.",
+          "whatWouldNeedToChange": [
+            "Crimson Tide Pods has zero incentive as a rebuilder to swap a top 2027 rookie draft selection for a 32-year-old veteran TE.",
+            "The proposal offers win-now veteran points to a franchise actively trying to accumulate young foundational pieces.",
+            "Crimson Tide Pods already possesses young developmental tight ends in Gunnar Helm (age 23) and Oronde Gadsden (age 23), making TE upgrade a low priority.",
+            "Direct conflict: Crimson Tide Pods is designated as a Rebuilder in HQ status and cannot justify holding aging assets like Kittle."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "dynasty fantasy football market news 2026",
+          "dynasty fantasy football trade advice august 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ-wgNBlTUJjYvbwWwqYQ71KdWSDl4gDCsPd5QC8xGPbzRQTSG29LO8nXAi61PLSrgmPZfw0QNX51UdQi8_3ytNwfPsVfvzfmpefuG1ovPI2_p2Cmkn2IsPUt_7S9gZLiAD8FzZ5p0To5khblYncp9Ov1O3o0NKvY4ylQwF54JTSM-",
+            "title": "fantraxhq.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-nPDV2jCAy0qjPQ-ZNlcjB3uyG3V9AuRo2wvJgw5Dp7vsjRKQXSyDVddG9DdWIDoaBQp83RNqMSn4NoWBprn2TE86zadvQgTYiL-NJpWxESiNbpjGTZH93vR4VHtmp8p-aL1zzKxuKipJ9QrZilc6iMYrbEaghczNECjn3akA9nPsER4bDe_4e1VF9FYtWqLzthA00Q==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb70Y_l5VzR5HGt_OQCJUpMV-EmHB4jOuCXG1hCygsREieKqg8kKiJG_kR5wtj3CSfdXZPR3ph_HNmETa5bAvvhz6is7sAj1HTA2RTQFjYS0bes0NL1_BXZ1E29zZkcucHlpW1ErskkQH4GpvkNcWouHawPAyifVwMWsBSVXJdx8fTn1md2SeUz805rpBgX3nP7eyORqMyEg==",
+            "title": "playerprofiler.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "d04ba9bb2ba1c8eccf8bb303e81feb250a74aae9",
+        "aviCoreCommittedAt": "2026-08-26T14:46:27Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+        ],
+        "contextChars": 87040,
+        "groundedMarketChars": 1542,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mta6sgpe-28ab66ef",
