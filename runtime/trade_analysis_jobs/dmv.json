@@ -1,5 +1,33 @@
 [
   {
+    "id": "mta7jesf-f8572af5",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "DMV Fantasy",
+      "goal": "Rebuild",
+      "targetTeam": "Crimson Tide Pods",
+      "targetAssets": [
+        {
+          "name": "2027 1st · DMV · Projected early range (1.01–1.05)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "George Kittle",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1787755622559,
+    "updatedAt": 1787755622559,
+    "expiresAt": 1788187622559,
+    "status": "queued"
+  },
+  {
     "id": "mta6sgpe-28ab66ef",
     "phase": "initial",
     "mode": "analyze_trade",
