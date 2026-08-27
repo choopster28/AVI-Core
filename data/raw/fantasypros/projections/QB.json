@@ -62,36 +62,6 @@
       "team_id": "BAL"
     },
     {
-      "filename": "drake-maye.php",
-      "fpid": 23046,
-      "mflid": 16580,
-      "name": "Drake Maye",
-      "position_id": "QB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 5.57,
-        "pass_att": 499.52,
-        "pass_cmp": 343,
-        "pass_ints": 10.39,
-        "pass_tds": 28,
-        "pass_yds": 4026.69,
-        "pass_yds_300": 0,
-        "pass_yds_400": 0,
-        "points": 322.95,
-        "points_half": 322.95,
-        "points_ppr": 322.95,
-        "ret_tds": 0,
-        "rush_att": 99.35,
-        "rush_tds": 3.68,
-        "rush_yds": 492.97,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "NE"
-    },
-    {
       "filename": "jayden-daniels.php",
       "fpid": 22902,
       "mflid": 16581,
@@ -150,6 +120,36 @@
         "scrimage_yards_200": 0
       },
       "team_id": "PHI"
+    },
+    {
+      "filename": "drake-maye.php",
+      "fpid": 23046,
+      "mflid": 16580,
+      "name": "Drake Maye",
+      "position_id": "QB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 5.57,
+        "pass_att": 495.86,
+        "pass_cmp": 340.67,
+        "pass_ints": 10.39,
+        "pass_tds": 27.67,
+        "pass_yds": 3996.35,
+        "pass_yds_300": 0,
+        "pass_yds_400": 0,
+        "points": 320.4,
+        "points_half": 320.4,
+        "points_ppr": 320.4,
+        "ret_tds": 0,
+        "rush_att": 99.35,
+        "rush_tds": 3.68,
+        "rush_yds": 492.97,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "NE"
     },
     {
       "filename": "joe-burrow.php",

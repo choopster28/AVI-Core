@@ -1,5 +1,5 @@
 {
-  "count": "204",
+  "count": "203",
   "players": [
     {
       "filename": "jaquan-brisker.php",
@@ -3521,6 +3521,29 @@
       "team_id": "NYG"
     },
     {
+      "filename": "jeremy-reaves.php",
+      "fpid": 17766,
+      "mflid": 14434,
+      "name": "Jeremy Reaves",
+      "position_id": "DB",
+      "stats": {
+        "def_assist": 17.97,
+        "def_ff": 0.11,
+        "def_fr": 0.07,
+        "def_int": 1.1,
+        "def_pd": 4.25,
+        "def_sack": 0.16,
+        "def_safety": 0,
+        "def_tackle": 48.82,
+        "def_td": 0.06,
+        "def_tlost": 0,
+        "points": 100.3,
+        "points_half": 100.3,
+        "points_ppr": 100.3
+      },
+      "team_id": "WAS"
+    },
+    {
       "filename": "malik-hooker.php",
       "fpid": 16373,
       "mflid": 13228,
@@ -3702,7 +3725,7 @@
         "points_half": 92.39,
         "points_ppr": 92.39
       },
-      "team_id": "FA"
+      "team_id": "CLE"
     },
     {
       "filename": "donte-jackson.php",
@@ -4395,6 +4418,29 @@
       "team_id": "ATL"
     },
     {
+      "filename": "danthony-bell.php",
+      "fpid": 24855,
+      "mflid": 16023,
+      "name": "D'Anthony Bell",
+      "position_id": "DB",
+      "stats": {
+        "def_assist": 8.69,
+        "def_ff": 0.28,
+        "def_fr": 0.18,
+        "def_int": 0.44,
+        "def_pd": 1.98,
+        "def_sack": 0.21,
+        "def_safety": 0,
+        "def_tackle": 23.6,
+        "def_td": 0.04,
+        "def_tlost": 0,
+        "points": 50.01,
+        "points_half": 50.01,
+        "points_ppr": 50.01
+      },
+      "team_id": "SEA"
+    },
+    {
       "filename": "jermod-mccoy.php",
       "fpid": 27956,
       "mflid": 17561,
@@ -4487,27 +4533,27 @@
       "team_id": "NE"
     },
     {
-      "filename": "max-melton.php",
-      "fpid": 25366,
-      "mflid": 16695,
-      "name": "Max Melton",
+      "filename": "tacario-davis.php",
+      "fpid": 27037,
+      "mflid": 17598,
+      "name": "Tacario Davis",
       "position_id": "DB",
       "stats": {
-        "def_assist": 5.75,
-        "def_ff": 0.17,
-        "def_fr": 0.11,
-        "def_int": 0.4,
-        "def_pd": 3.33,
-        "def_sack": 0.06,
+        "def_assist": 5.79,
+        "def_ff": 0.15,
+        "def_fr": 0.1,
+        "def_int": 0.45,
+        "def_pd": 3.37,
+        "def_sack": 0.14,
         "def_safety": 0,
-        "def_tackle": 20.73,
+        "def_tackle": 20.86,
         "def_td": 0.06,
         "def_tlost": 0,
-        "points": 44.12,
-        "points_half": 44.12,
-        "points_ppr": 44.12
+        "points": 44.86,
+        "points_half": 44.86,
+        "points_ppr": 44.86
       },
-      "team_id": "ARI"
+      "team_id": "CIN"
     },
     {
       "filename": "terrion-arnold.php",
@@ -4531,29 +4577,6 @@
         "points_ppr": 37.19
       },
       "team_id": "FA"
-    },
-    {
-      "filename": "sean-bunting.php",
-      "fpid": 18648,
-      "mflid": 14199,
-      "name": "Sean Murphy-Bunting",
-      "position_id": "DB",
-      "stats": {
-        "def_assist": 4.38,
-        "def_ff": 0.45,
-        "def_fr": 0.29,
-        "def_int": 0.25,
-        "def_pd": 2.06,
-        "def_sack": 0.03,
-        "def_safety": 0,
-        "def_tackle": 15.8,
-        "def_td": 0.05,
-        "def_tlost": 0,
-        "points": 34.71,
-        "points_half": 34.71,
-        "points_ppr": 34.71
-      },
-      "team_id": "ARI"
     },
     {
       "filename": "james-williams-s.php",
@@ -4646,52 +4669,6 @@
         "points_ppr": 0
       },
       "team_id": "MIA"
-    },
-    {
-      "filename": "marte-mapu.php",
-      "fpid": 25528,
-      "mflid": 16275,
-      "name": "Marte Mapu",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 0,
-        "def_ff": 0,
-        "def_fr": 0,
-        "def_int": 0,
-        "def_pd": 0,
-        "def_sack": 0,
-        "def_safety": 0,
-        "def_tackle": 0,
-        "def_td": 0,
-        "def_tlost": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0
-      },
-      "team_id": "HOU"
-    },
-    {
-      "filename": "will-harris.php",
-      "fpid": 18682,
-      "mflid": 14213,
-      "name": "Will Harris",
-      "position_id": "DB",
-      "stats": {
-        "def_assist": 0,
-        "def_ff": 0,
-        "def_fr": 0,
-        "def_int": 0,
-        "def_pd": 0,
-        "def_sack": 0,
-        "def_safety": 0,
-        "def_tackle": 0,
-        "def_td": 0,
-        "def_tlost": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0
-      },
-      "team_id": "FA"
     }
   ],
   "positions": "DB",

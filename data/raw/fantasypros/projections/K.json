@@ -56,11 +56,11 @@
       "name": "Cameron Dicker",
       "position_id": "K",
       "stats": {
-        "fg": 34.65,
-        "fga": 38.27,
-        "points": 143.72,
-        "points_half": 143.72,
-        "points_ppr": 143.72,
+        "fg": 34.32,
+        "fga": 37.6,
+        "points": 142.72,
+        "points_half": 142.72,
+        "points_ppr": 142.72,
         "xpt": 39.77
       },
       "team_id": "LAC"
@@ -274,22 +274,6 @@
       "team_id": "GB"
     },
     {
-      "filename": "daniel-carlson.php",
-      "fpid": 17420,
-      "mflid": 13718,
-      "name": "Daniel Carlson",
-      "position_id": "K",
-      "stats": {
-        "fg": 30.64,
-        "fga": 36.04,
-        "points": 123.64,
-        "points_half": 123.64,
-        "points_ppr": 123.64,
-        "xpt": 31.72
-      },
-      "team_id": "NO"
-    },
-    {
       "filename": "tyler-bass.php",
       "fpid": 19760,
       "mflid": 14983,
@@ -338,6 +322,22 @@
       "team_id": "PHI"
     },
     {
+      "filename": "daniel-carlson.php",
+      "fpid": 17420,
+      "mflid": 13718,
+      "name": "Daniel Carlson",
+      "position_id": "K",
+      "stats": {
+        "fg": 29.32,
+        "fga": 34.52,
+        "points": 119.68,
+        "points_half": 119.68,
+        "points_ppr": 119.68,
+        "xpt": 31.72
+      },
+      "team_id": "NO"
+    },
+    {
       "filename": "andres-borregales.php",
       "fpid": 27291,
       "mflid": 17220,
@@ -368,22 +368,6 @@
         "xpt": 33.97
       },
       "team_id": "PIT"
-    },
-    {
-      "filename": "jason-sanders.php",
-      "fpid": 17533,
-      "mflid": 13832,
-      "name": "Jason Sanders",
-      "position_id": "K",
-      "stats": {
-        "fg": 28.71,
-        "fga": 33.2,
-        "points": 118.03,
-        "points_half": 118.03,
-        "points_ppr": 118.03,
-        "xpt": 31.91
-      },
-      "team_id": "NYJ"
     },
     {
       "filename": "drew-stevens.php",
@@ -432,6 +416,22 @@
         "xpt": 31.7
       },
       "team_id": "TEN"
+    },
+    {
+      "filename": "jason-sanders.php",
+      "fpid": 17533,
+      "mflid": 13832,
+      "name": "Jason Sanders",
+      "position_id": "K",
+      "stats": {
+        "fg": 27.14,
+        "fga": 32.13,
+        "points": 113.32,
+        "points_half": 113.32,
+        "points_ppr": 113.32,
+        "xpt": 31.91
+      },
+      "team_id": "NYJ"
     },
     {
       "filename": "chad-ryland.php",
@@ -520,11 +520,11 @@
       "name": "Charlie Smyth",
       "position_id": "K",
       "stats": {
-        "fg": 19.33,
-        "fga": 23,
-        "points": 76.5,
-        "points_half": 76.5,
-        "points_ppr": 76.5,
+        "fg": 15,
+        "fga": 18,
+        "points": 63.5,
+        "points_half": 63.5,
+        "points_ppr": 63.5,
         "xpt": 18.5
       },
       "team_id": "NO"
@@ -546,26 +546,10 @@
       "team_id": "NYG"
     },
     {
-      "filename": "cade-york.php",
-      "fpid": 24549,
-      "mflid": 15882,
-      "name": "Cade York",
-      "position_id": "K",
-      "stats": {
-        "fg": 12,
-        "fga": 15,
-        "points": 36,
-        "points_half": 36,
-        "points_ppr": 36,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "matt-prater.php",
-      "fpid": 9443,
-      "mflid": 8930,
-      "name": "Matt Prater",
+      "filename": "zane-gonzalez.php",
+      "fpid": 16548,
+      "mflid": 13347,
+      "name": "Zane Gonzalez",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -578,10 +562,10 @@
       "team_id": "FA"
     },
     {
-      "filename": "zane-gonzalez.php",
-      "fpid": 16548,
-      "mflid": 13347,
-      "name": "Zane Gonzalez",
+      "filename": "matt-prater.php",
+      "fpid": 9443,
+      "mflid": 8930,
+      "name": "Matt Prater",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -662,6 +646,22 @@
       "fpid": 24009,
       "mflid": 16286,
       "name": "Jake Moody",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "cade-york.php",
+      "fpid": 24549,
+      "mflid": 15882,
+      "name": "Cade York",
       "position_id": "K",
       "stats": {
         "fg": 0,

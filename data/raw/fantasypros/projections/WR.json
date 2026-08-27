@@ -206,12 +206,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.56,
-        "points": 172.72,
-        "points_half": 221.66,
-        "points_ppr": 270.6,
-        "rec_rec": 97.88,
+        "points": 171.39,
+        "points_half": 219.83,
+        "points_ppr": 268.27,
+        "rec_rec": 96.88,
         "rec_tds": 9.6,
-        "rec_yds": 1084.71,
+        "rec_yds": 1071.38,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -2158,6 +2158,34 @@
       "team_id": "PIT"
     },
     {
+      "filename": "cedric-tillman.php",
+      "fpid": 25287,
+      "mflid": 16191,
+      "name": "Cedric Tillman",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 67.7,
+        "points_half": 85.2,
+        "points_ppr": 102.7,
+        "rec_rec": 35,
+        "rec_tds": 4,
+        "rec_yds": 437,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": -1,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "FA"
+    },
+    {
       "filename": "tyquan-thornton.php",
       "fpid": 22913,
       "mflid": 15787,
@@ -3194,34 +3222,6 @@
       "team_id": "LV"
     },
     {
-      "filename": "cedric-tillman.php",
-      "fpid": 25287,
-      "mflid": 16191,
-      "name": "Cedric Tillman",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.02,
-        "points": 36.05,
-        "points_half": 45.55,
-        "points_ppr": 55.05,
-        "rec_rec": 19,
-        "rec_tds": 2.09,
-        "rec_yds": 235.44,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": -0.5,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "CLE"
-    },
-    {
       "filename": "luke-mccaffrey.php",
       "fpid": 26328,
       "mflid": 16635,
@@ -3359,7 +3359,7 @@
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "MIA"
+      "team_id": "LAR"
     },
     {
       "filename": "cyrus-allen.php",
@@ -4874,6 +4874,34 @@
       "team_id": "TEN"
     },
     {
+      "filename": "ihmir-smithmarsette.php",
+      "fpid": 20116,
+      "mflid": 15434,
+      "name": "Ihmir Smith-Marsette",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "ARI"
+    },
+    {
       "filename": "michael-bandy.php",
       "fpid": 23531,
       "mflid": 15671,
@@ -5292,34 +5320,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "JAC"
-    },
-    {
-      "filename": "lewis-bond.php",
-      "fpid": 28144,
-      "mflid": 17530,
-      "name": "Lewis Bond",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "rec_rec": 0,
-        "rec_tds": 0,
-        "rec_yds": 0,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "HOU"
     }
   ],
   "positions": "WR",

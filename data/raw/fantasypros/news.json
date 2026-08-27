@@ -3,6 +3,198 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-08-27 20:56:28",
+      "created_formated": "Thu, Aug 27th 8:56pm UTC",
+      "desc": "Josh Jacobs has been charged with two misdemeanors following an incident in May. His initial court date is set for mid-November. The NFL is conducting its own investigation, and a suspension could soon follow.",
+      "id": 604455,
+      "impact": "It's important to remember that the NFL has the ability to either suspend Jacobs at the start of the season or wait until the legal process is over. If they wait, then Jacobs will likely not face suspension until next year. If not, we could be looking at a potential 6-8 game absence, though that is more of an educated guess at this point. For anyone taking Jacobs in drafts right now, Marshawn Lloyd is a must-have handcuff and is a great target for Zero-RB builds.",
+      "link": "https://www.fantasypros.com/nfl/news/604455/josh-jacobs-charged-with-two-misdemeanors-following.php",
+      "player_id": 18269,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Josh Jacobs charged with two misdemeanors stemming from May incident"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-27 18:58:04",
+      "created_formated": "Thu, Aug 27th 6:58pm UTC",
+      "desc": "Tutu Atwell has been traded to the Los Angeles Rams for Jarquez Hunter.",
+      "id": 604449,
+      "impact": "Either the Dolphins got a good enough look at Tutu to feel fine letting him go, or the Rams are bracing for a potential Puka Nacua suspension and wanted to bring in a familiar face. Or both could be true. Either way, it's not a good look for Atwell that he made himself expendable on a team desperate for receivers. However, it's about as favorable a spot as he could've landed on.",
+      "link": "https://www.fantasypros.com/nfl/news/604449/tutu-atwell-traded-to-los-angeles-rams.php",
+      "player_id": 20126,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Tutu Atwell traded to the Los Angeles Rams"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-27 17:25:47",
+      "created_formated": "Thu, Aug 27th 5:25pm UTC",
+      "desc": "Braden Smith suffered an injury to his plantar fascia and could miss \"a few weeks.\"",
+      "id": 604446,
+      "impact": "Smith suffered the injury in practice earlier this week. It is not considered a long-term issue, but his status for Week 1 is uncertain. ",
+      "link": "https://www.fantasypros.com/nfl/news/604446/braden-smith-plantar-fascia-to-miss-few-weeks.php",
+      "player_id": 17317,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Braden Smith (plantar fascia) to miss a few weeks"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-27 17:24:01",
+      "created_formated": "Thu, Aug 27th 5:24pm UTC",
+      "desc": "The Eagles signed Tahj Washington.",
+      "id": 604445,
+      "impact": "Miami released Washington earlier this week. He will compete for a depth role in the Eagles wide receiver room. ",
+      "link": "https://www.fantasypros.com/nfl/news/604445/tahj-washington-signs-with-eagles.php",
+      "player_id": 26397,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Tahj Washington signs with Eagles "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-27 17:23:04",
+      "created_formated": "Thu, Aug 27th 5:23pm UTC",
+      "desc": "The Steelers restructured DK Metcalf's contract.",
+      "id": 604444,
+      "impact": "The move creates nearly $18 million in cap space for Pittsburgh. ",
+      "link": "https://www.fantasypros.com/nfl/news/604444/dk-metcalf-restructures-contract-with-steelers.php",
+      "player_id": 18219,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "DK Metcalf restructures contract with Steelers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-27 17:22:06",
+      "created_formated": "Thu, Aug 27th 5:22pm UTC",
+      "desc": "The Seahawks signed Leonard Williams to a three-year, $90 million contract extension.",
+      "id": 604442,
+      "impact": "Williams has dominated in his two years since joining the Seahawks. He remains one of the top defensive lineman in football. ",
+      "link": "https://www.fantasypros.com/nfl/news/604442/leonard-williams-signs-three-year-extension-with-seahawks.php",
+      "player_id": 13892,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Leonard Williams signs three-year extension with Seahawks "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-27 17:19:41",
+      "created_formated": "Thu, Aug 27th 5:19pm UTC",
+      "desc": "Bears coach Ben Johnson is dealing with a hamstring injury. ",
+      "id": 604441,
+      "impact": "Dexter did not travel with the team for their preseason finale against the Titans. His status for Week 1 is uncertain. ",
+      "link": "https://www.fantasypros.com/nfl/news/604441/gervon-dexter-sr-dealing-with-hamstring-injury.php",
+      "player_id": 25246,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Gervon Dexter Sr. dealing with hamstring injury "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-27 17:17:12",
+      "created_formated": "Thu, Aug 27th 5:17pm UTC",
+      "desc": "Lions coach Dan Campbell said Isiah Pacheco is dealing with a back injury in addition to his MCL sprain.",
+      "id": 604438,
+      "impact": "Pacheco remains without a clear timetable to return. The Lions recently worked out Kareem Hunt. ",
+      "link": "https://www.fantasypros.com/nfl/news/604438/isiah-pacheco-dealing-with-back-injury-addition-to-mcl-sprain.php",
+      "player_id": 24333,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Isiah Pacheco dealing with back injury in addition to MCL sprain "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-27 16:34:05",
+      "created_formated": "Thu, Aug 27th 4:34pm UTC",
+      "desc": "The Packers signed TE Jonnu Smith to a one-year contract. ",
+      "id": 604413,
+      "impact": "Smith finally finds a new landing spot heading into the season. He'll add depth in the Packers tight end room behind Tucker Kraft. ",
+      "link": "https://www.fantasypros.com/nfl/news/604413/jonnu-smith-signs-one-year-deal-with-packers.php",
+      "player_id": 16460,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jonnu Smith signs one-year deal with Packers "
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-27 14:47:44",
+      "created_formated": "Thu, Aug 27th 2:47pm UTC",
+      "desc": "Cedric Tillman was released by the Browns on Thursday. ",
+      "id": 604404,
+      "impact": "A third-round pick back in 2023, Tillman has failed to really do much of note for the Browns' offense over the last three seasons. The former University of Tennessee standout will now look to catch on with a different team. ",
+      "link": "https://www.fantasypros.com/nfl/news/604404/cedric-tillman-released-by-browns.php",
+      "player_id": 25287,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Cedric Tillman released by Browns "
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-27 14:42:00",
+      "created_formated": "Thu, Aug 27th 2:42pm UTC",
+      "desc": "Alec Pierce (ankle) was activated from the PUP list on Thursday. ",
+      "id": 604403,
+      "impact": "Pierce has been rehabbing from surgery back in March. The big-play wideout will finally join the Colts at practice in hopes of being ready to go for Week 1. Pierce eclipsed 1,000 yards receiving for the first time in his career last season and has led the NFL in yards per catch each of the last two years. ",
+      "link": "https://www.fantasypros.com/nfl/news/604403/alec-pierce-ankle-activated-from-pup-list.php",
+      "player_id": 23791,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Alec Pierce (ankle) activated from PUP list"
+    },
+    {
       "author": "Diego Sandoval",
       "categories": [
         "Commentary",
@@ -229,200 +421,6 @@
       "sport_id": "NFL",
       "team_id": "ATL",
       "title": "Tua Tagovailoa to start preseason finale Friday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 16:35:49",
-      "created_formated": "Wed, Aug 26th 4:35pm UTC",
-      "desc": "Braden Smith is believed to have suffered a foot injury during practice on Wednesday. ",
-      "id": 604269,
-      "impact": "Smith was carted off the field with the injury. He'll likely continue to be further evaluated.  ",
-      "link": "https://www.fantasypros.com/nfl/news/604269/braden-smith-believed-to-have-suffered-foot-injury-wednesday.php",
-      "player_id": 17317,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Braden Smith believed to have suffered foot injury Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-26 16:27:23",
-      "created_formated": "Wed, Aug 26th 4:27pm UTC",
-      "desc": "Packers GM Brian Gutekunst said they've been preparing for scenario of Josh Jacobs being suspended ",
-      "id": 604265,
-      "impact": "ESPN's Adam Schefter said in August that the league would likely suspend Jacobs, who was arrested on domestic abuse charges in May. If he is suspended, MarShawn Lloyd would figure to lead the backfield. ",
-      "link": "https://www.fantasypros.com/nfl/news/604265/josh-jacobs-packers-preparing-possible-suspension.php",
-      "player_id": 18269,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Josh Jacobs: Packers preparing for possible suspension "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 16:25:04",
-      "created_formated": "Wed, Aug 26th 4:25pm UTC",
-      "desc": "Ja'Marr Chase is not practicing on Wednesday. ",
-      "id": 604264,
-      "impact": "Chase appeared to have avoided a scary injury during Tuesday's practice. He was not wearing any protective equipment on the knee, which is notable. ",
-      "link": "https://www.fantasypros.com/nfl/news/604264/jamarr-chase-knee-not-practicing-wednesday.php",
-      "player_id": 19788,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Ja'Marr Chase (knee) not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 16:23:09",
-      "created_formated": "Wed, Aug 26th 4:23pm UTC",
-      "desc": "Zay Flowers did not practice on Wednesday. ",
-      "id": 604263,
-      "impact": "Flowers remained sidelined after also not practicing on Monday. Wacker notes that he appeared to tweak his ankle last week. ",
-      "link": "https://www.fantasypros.com/nfl/news/604263/zay-flowers-misses-practice-wednesday.php",
-      "player_id": 22916,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Zay Flowers misses practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 16:19:55",
-      "created_formated": "Wed, Aug 26th 4:19pm UTC",
-      "desc": "Bucs first-round pick Reuben Bain Jr. suffered an AC sprain, but he is expected to be ready for Week 1. ",
-      "id": 604262,
-      "impact": "It is said to be \"nothing serious.\" Bain will still be worth monitoring over the next couple of weeks. ",
-      "link": "https://www.fantasypros.com/nfl/news/604262/rueben-bain-jr-suffers-ac-sprain-expected-to-be-ready-week-1.php",
-      "player_id": 28772,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Rueben Bain Jr. suffers AC sprain, expected to be ready for Week 1"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 12:36:23",
-      "created_formated": "Wed, Aug 26th 12:36pm UTC",
-      "desc": "Calvin Austin III (knee) is out for the season with a torn ACL that he suffered during Tuesday's practice.",
-      "id": 604251,
-      "impact": "Austin was trying to find his way onto the field in a crowded Giants receiver room, and now finds himself out for the season. He was in a contract year, so this is a big blow to him heading into to free agency. His dynasty value is pretty much rock bottom at this point, but hopefully he can make a comeback and find a team.",
-      "link": "https://www.fantasypros.com/nfl/news/604251/calvin-austin-iii-knee-out-season-with-torn-acl.php",
-      "player_id": 23739,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Calvin Austin III (knee) out for the season with torn ACL"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 21:41:46",
-      "created_formated": "Tue, Aug 25th 9:41pm UTC",
-      "desc": "Quinshon Judkins returned to team drills during practice on Tuesday. ",
-      "id": 604176,
-      "impact": "Judkins missed two practices last week and was limited to individual work on Monday. He was back full-go on Tuesday. ",
-      "link": "https://www.fantasypros.com/nfl/news/604176/quinshon-judkins-returns-to-team-drills.php",
-      "player_id": 25391,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Quinshon Judkins returns to team drills"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-25 21:36:35",
-      "created_formated": "Tue, Aug 25th 9:36pm UTC",
-      "desc": "Trey Benson cleared waivers on Tuesday and will now return to Arizona's injured reserve list.",
-      "id": 604173,
-      "impact": "Benson suffered a torn meniscus last season, and it flared up early in training camp this summer. The running back will remain on the injured reserve for the Cardinals, who have a plethora of running backs in Jeremiyah Love, Tyler Allgeier and James Conner.",
-      "link": "https://www.fantasypros.com/nfl/news/604173/trey-benson-clears-waivers-returns-to-cardinals.php",
-      "player_id": 25388,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Trey Benson clears waivers, returns to Cardinals"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-25 21:24:47",
-      "created_formated": "Tue, Aug 25th 9:24pm UTC",
-      "desc": "D.J. Humphries signed a 1-year deal with the Washington Commanders on Tuesday.",
-      "id": 604171,
-      "impact": "Humphries will bring a strong veteran presence to the Washington offensive line, which just lost Laremy Tunsil for the majority, if not all, of the 2026 season. Humphries appeared in eight games for the Rams last season and was last a full-time starter with the Cardinals in 2023.",
-      "link": "https://www.fantasypros.com/nfl/news/604171/dj-humphries-signs-with-commanders.php",
-      "player_id": 14037,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "D.J. Humphries signs with Commanders"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-25 20:11:45",
-      "created_formated": "Tue, Aug 25th 8:11pm UTC",
-      "desc": "Justin Herbert and most of Los Angeles' starters will play in Thursday's preseason finale against the Los Angeles Rams.",
-      "id": 604159,
-      "impact": "HC Jim Harbaugh told reporters that Herbert and most of the team's starters are going to play in their final preseason game on Thursday night, with the exception of a few veterans. It remains unlikely that the starting unit will see more than a quarter or two of action, however.",
-      "link": "https://www.fantasypros.com/nfl/news/604159/justin-herbert-starters-will-play-thursday.php",
-      "player_id": 18635,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Justin Herbert, starters will play Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 20:07:14",
-      "created_formated": "Tue, Aug 25th 8:07pm UTC",
-      "desc": "TreVeyon Henderson (ankle) is not practicing on Tuesday.",
-      "id": 604155,
-      "impact": "Henderson is expected to be a non-participant at New England's practice on Tuesday due to the ankle injury that he suffered on Monday. It's not expected to be a serious issue, but this is a situation worth monitoring for fantasy managers over the next couple of weeks.",
-      "link": "https://www.fantasypros.com/nfl/news/604155/treveyon-henderson-ankle-not-practicing-tuesday.php",
-      "player_id": 23065,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "TreVeyon Henderson (ankle) not practicing Tuesday"
     }
   ],
   "public_api_limited": true,

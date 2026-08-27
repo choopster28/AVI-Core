@@ -1,5 +1,5 @@
 {
-  "count": "210",
+  "count": "209",
   "players": [
     {
       "filename": "jordyn-brooks.php",
@@ -3843,6 +3843,29 @@
       "team_id": "CHI"
     },
     {
+      "filename": "jake-hansen.php",
+      "fpid": 24004,
+      "mflid": 16019,
+      "name": "Jake Hansen",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 11.29,
+        "def_ff": 0.18,
+        "def_fr": 0.12,
+        "def_int": 0.11,
+        "def_pd": 0.72,
+        "def_sack": 0.38,
+        "def_safety": 0,
+        "def_tackle": 25.52,
+        "def_td": 0.03,
+        "def_tlost": 0,
+        "points": 51.28,
+        "points_half": 51.28,
+        "points_ppr": 51.28
+      },
+      "team_id": "HOU"
+    },
+    {
       "filename": "cole-holcomb.php",
       "fpid": 18709,
       "mflid": 14260,
@@ -4763,29 +4786,6 @@
       "team_id": "PIT"
     },
     {
-      "filename": "marte-mapu.php",
-      "fpid": 25528,
-      "mflid": 16275,
-      "name": "Marte Mapu",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 0,
-        "def_ff": 0,
-        "def_fr": 0,
-        "def_int": 0,
-        "def_pd": 0,
-        "def_sack": 0,
-        "def_safety": 0,
-        "def_tackle": 0,
-        "def_td": 0,
-        "def_tlost": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0
-      },
-      "team_id": "HOU"
-    },
-    {
       "filename": "darius-muasau.php",
       "fpid": 26482,
       "mflid": 16759,
@@ -4807,29 +4807,6 @@
         "points_ppr": 0
       },
       "team_id": "NYG"
-    },
-    {
-      "filename": "trey-moore.php",
-      "fpid": 27208,
-      "mflid": 17625,
-      "name": "Trey Moore",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 0,
-        "def_ff": 0,
-        "def_fr": 0,
-        "def_int": 0,
-        "def_pd": 0,
-        "def_sack": 0,
-        "def_safety": 0,
-        "def_tackle": 0,
-        "def_td": 0,
-        "def_tlost": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0
-      },
-      "team_id": "MIA"
     }
   ],
   "positions": "LB",

@@ -2831,6 +2831,29 @@
       "team_id": "WAS"
     },
     {
+      "filename": "derek-barnett.php",
+      "fpid": 16386,
+      "mflid": 13201,
+      "name": "Derek Barnett",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 14.73,
+        "def_ff": 0.69,
+        "def_fr": 0.45,
+        "def_int": 0.02,
+        "def_pd": 0.28,
+        "def_sack": 5.58,
+        "def_safety": 0,
+        "def_tackle": 34.8,
+        "def_td": 0.08,
+        "def_tlost": 0,
+        "points": 91.13,
+        "points_half": 91.13,
+        "points_ppr": 91.13
+      },
+      "team_id": "CLE"
+    },
+    {
       "filename": "alim-mcneill.php",
       "fpid": 22765,
       "mflid": 15390,
@@ -4623,29 +4646,6 @@
         "points_ppr": 29.28
       },
       "team_id": "DAL"
-    },
-    {
-      "filename": "trey-moore.php",
-      "fpid": 27208,
-      "mflid": 17625,
-      "name": "Trey Moore",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 0,
-        "def_ff": 0,
-        "def_fr": 0,
-        "def_int": 0,
-        "def_pd": 0,
-        "def_sack": 0,
-        "def_safety": 0,
-        "def_tackle": 0,
-        "def_td": 0,
-        "def_tlost": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0
-      },
-      "team_id": "MIA"
     }
   ],
   "positions": "DL",
