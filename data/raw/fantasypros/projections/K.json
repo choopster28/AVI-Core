@@ -1,5 +1,5 @@
 {
-  "count": "44",
+  "count": "45",
   "players": [
     {
       "filename": "brandon-aubrey.php",
@@ -274,6 +274,22 @@
       "team_id": "GB"
     },
     {
+      "filename": "daniel-carlson.php",
+      "fpid": 17420,
+      "mflid": 13718,
+      "name": "Daniel Carlson",
+      "position_id": "K",
+      "stats": {
+        "fg": 30.64,
+        "fga": 36.04,
+        "points": 123.64,
+        "points_half": 123.64,
+        "points_ppr": 123.64,
+        "xpt": 31.72
+      },
+      "team_id": "NO"
+    },
+    {
       "filename": "tyler-bass.php",
       "fpid": 19760,
       "mflid": 14983,
@@ -288,22 +304,6 @@
         "xpt": 46.75
       },
       "team_id": "BUF"
-    },
-    {
-      "filename": "charlie-smyth.php",
-      "fpid": 26444,
-      "mflid": 17424,
-      "name": "Charlie Smyth",
-      "position_id": "K",
-      "stats": {
-        "fg": 29.55,
-        "fga": 35.01,
-        "points": 123,
-        "points_half": 123,
-        "points_ppr": 123,
-        "xpt": 34.36
-      },
-      "team_id": "NO"
     },
     {
       "filename": "nick-folk.php",
@@ -514,6 +514,22 @@
       "team_id": "NYG"
     },
     {
+      "filename": "charlie-smyth.php",
+      "fpid": 26444,
+      "mflid": 17424,
+      "name": "Charlie Smyth",
+      "position_id": "K",
+      "stats": {
+        "fg": 19.33,
+        "fga": 23,
+        "points": 76.5,
+        "points_half": 76.5,
+        "points_ppr": 76.5,
+        "xpt": 18.5
+      },
+      "team_id": "NO"
+    },
+    {
       "filename": "ben-sauls.php",
       "fpid": 27798,
       "mflid": 17434,
@@ -546,10 +562,10 @@
       "team_id": "FA"
     },
     {
-      "filename": "joshua-karty.php",
-      "fpid": 26478,
-      "mflid": 16775,
-      "name": "Joshua Karty",
+      "filename": "matt-prater.php",
+      "fpid": 9443,
+      "mflid": 8930,
+      "name": "Matt Prater",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -562,90 +578,10 @@
       "team_id": "FA"
     },
     {
-      "filename": "tanner-brown.php",
-      "fpid": 25616,
-      "mflid": 16410,
-      "name": "Tanner Brown",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "NO"
-    },
-    {
-      "filename": "lucas-havrisik.php",
-      "fpid": 25222,
-      "mflid": 16043,
-      "name": "Lucas Havrisik",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "jake-moody.php",
-      "fpid": 24009,
-      "mflid": 16286,
-      "name": "Jake Moody",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "younghoe-koo.php",
-      "fpid": 16910,
-      "mflid": 13403,
-      "name": "Younghoe Koo",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "brandon-mcmanus.php",
-      "fpid": 13274,
-      "mflid": 11947,
-      "name": "Brandon McManus",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "graham-gano.php",
-      "fpid": 9232,
-      "mflid": 9694,
-      "name": "Graham Gano",
+      "filename": "zane-gonzalez.php",
+      "fpid": 16548,
+      "mflid": 13347,
+      "name": "Zane Gonzalez",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -674,10 +610,10 @@
       "team_id": "IND"
     },
     {
-      "filename": "zane-gonzalez.php",
-      "fpid": 16548,
-      "mflid": 13347,
-      "name": "Zane Gonzalez",
+      "filename": "graham-gano.php",
+      "fpid": 9232,
+      "mflid": 9694,
+      "name": "Graham Gano",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -690,10 +626,90 @@
       "team_id": "FA"
     },
     {
-      "filename": "matt-prater.php",
-      "fpid": 9443,
-      "mflid": 8930,
-      "name": "Matt Prater",
+      "filename": "brandon-mcmanus.php",
+      "fpid": 13274,
+      "mflid": 11947,
+      "name": "Brandon McManus",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "younghoe-koo.php",
+      "fpid": 16910,
+      "mflid": 13403,
+      "name": "Younghoe Koo",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "jake-moody.php",
+      "fpid": 24009,
+      "mflid": 16286,
+      "name": "Jake Moody",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "lucas-havrisik.php",
+      "fpid": 25222,
+      "mflid": 16043,
+      "name": "Lucas Havrisik",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "tanner-brown.php",
+      "fpid": 25616,
+      "mflid": 16410,
+      "name": "Tanner Brown",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "NO"
+    },
+    {
+      "filename": "joshua-karty.php",
+      "fpid": 26478,
+      "mflid": 16775,
+      "name": "Joshua Karty",
       "position_id": "K",
       "stats": {
         "fg": 0,

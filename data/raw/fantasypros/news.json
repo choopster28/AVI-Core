@@ -1,7 +1,324 @@
 {
-  "count": 23,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 23:53:04",
+      "created_formated": "Wed, Aug 26th 11:53pm UTC",
+      "desc": "Mike Evans is planning to play in Week 1 as he continues to deal with a groin injury.",
+      "id": 604327,
+      "impact": "Evans' groin injury is being described as \"minor\" after missing back-to-back practices this week. The veteran's status should be monitored leading up to the opening week of the regular season.",
+      "link": "https://www.fantasypros.com/nfl/news/604327/mike-evans-groin-planning-to-play-week-1.php",
+      "player_id": 12119,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Mike Evans (groin) planning to play Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 17:55:44",
+      "created_formated": "Wed, Aug 26th 5:55pm UTC",
+      "desc": "Josh Downs did not practice on Wednesday. ",
+      "id": 604294,
+      "impact": "Downs missed practice for undisclosed reasons on Tuesday and it is now said to be a calf injury. He remains day-to-day. ",
+      "link": "https://www.fantasypros.com/nfl/news/604294/josh-downs-calf-not-practicing-wednesday.php",
+      "player_id": 24706,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Josh Downs (calf) not practicing Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 17:54:40",
+      "created_formated": "Wed, Aug 26th 5:54pm UTC",
+      "desc": "Tyler Warren did not practice on Wednesday. ",
+      "id": 604293,
+      "impact": "Warren remains likely to miss practice all of this week as he recovers from a groin injury. His status for Week 1 is not in danger yet if he can return to practice by next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/604293/tyler-warren-groin-not-practicing-wednesday.php",
+      "player_id": 26434,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Tyler Warren (groin) not practicing Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 17:49:43",
+      "created_formated": "Wed, Aug 26th 5:49pm UTC",
+      "desc": "Tucker Kraft will participate in 11-on-11 drills in the Packers joint practice with Cardinals.  ",
+      "id": 604292,
+      "impact": "Kraft returned to team drills earlier in August. He remains on track to be good to go for Week 1 in September. ",
+      "link": "https://www.fantasypros.com/nfl/news/604292/tucker-kraft-knee-to-participate-11-on-11-drills-joint-practice.php",
+      "player_id": 25298,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Tucker Kraft (knee) to participate in 11-on-11 drills in joint practice "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-26 17:46:02",
+      "created_formated": "Wed, Aug 26th 5:46pm UTC",
+      "desc": "The Bengals starters will not play in Friday's preseason finale against the Eagles. ",
+      "id": 604291,
+      "impact": "We will see Joe Burrow and the starters for Cincinnati back on the field in Week 1 against the Bucs. ",
+      "link": "https://www.fantasypros.com/nfl/news/604291/joe-burrow-starters-will-not-play-preseason-finale.php",
+      "player_id": 19196,
+      "sport_id": "NFL",
+      "team_id": "CIN",
+      "title": "Joe Burrow, Bengals starters will not play in preseason finale"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 17:41:47",
+      "created_formated": "Wed, Aug 26th 5:41pm UTC",
+      "desc": "James Conner is progressing from his foot injury, but he remains uncertain for Week 1. ",
+      "id": 604290,
+      "impact": "Conner's role in the Cardinals backfield remains unclear following the offseason additions of Jeremiyah Love and Tyler Allgeier. ",
+      "link": "https://www.fantasypros.com/nfl/news/604290/james-conner-foot-progressing-uncertain-week-1.php",
+      "player_id": 16447,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "James Conner (foot) progressing, uncertain for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-26 17:38:55",
+      "created_formated": "Wed, Aug 26th 5:38pm UTC",
+      "desc": "The Colts have waived CB Mekhi Blackmon. ",
+      "id": 604289,
+      "impact": "Indianapolis acquired Blackmon last year. He appeared in all 17 games for the Colts last season with 11 starts. ",
+      "link": "https://www.fantasypros.com/nfl/news/604289/mekhi-blackmon-waived-by-colts.php",
+      "player_id": 25513,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Mekhi Blackmon waived by Colts"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-26 17:36:37",
+      "created_formated": "Wed, Aug 26th 5:36pm UTC",
+      "desc": "Deshaun Watson and the Browns starters will not play in Thursday's preseason finale against the Patriots. ",
+      "id": 604288,
+      "impact": "We will see Watson and the starters for Cleveland back on the field in Week 1 against the Jaguars. ",
+      "link": "https://www.fantasypros.com/nfl/news/604288/deshaun-watson-starters-will-not-play-thursday.php",
+      "player_id": 16398,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Deshaun Watson, starters will not play Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-26 17:34:56",
+      "created_formated": "Wed, Aug 26th 5:34pm UTC",
+      "desc": "The Panthers starters will not play in Friday's preseason finale against the Texans. ",
+      "id": 604287,
+      "impact": "We will see Young and the starters for Carolina back on the field in Week 1 against the Bears. ",
+      "link": "https://www.fantasypros.com/nfl/news/604287/bryce-young-panthers-starters-will-not-play-thursday.php",
+      "player_id": 22900,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Bryce Young, Panthers starters will not play Friday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 17:16:41",
+      "created_formated": "Wed, Aug 26th 5:16pm UTC",
+      "desc": "Darnell Wright returned to practice on Wednesday. ",
+      "id": 604286,
+      "impact": "Wright avoids a scare following his early exit from practice on Tuesday. ",
+      "link": "https://www.fantasypros.com/nfl/news/604286/darnell-wright-elbow-practices-wednesday.php",
+      "player_id": 25363,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Darnell Wright (elbow) practices Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 17:15:44",
+      "created_formated": "Wed, Aug 26th 5:15pm UTC",
+      "desc": "Luther Burden III returned to practicing on Wednesday. ",
+      "id": 604285,
+      "impact": "Burden was back on the field for the first time since injuring his groin on August 8. He went through individual drills and went inside when 7 on 7 started. This should put him on track to be good to go for Week 1. ",
+      "link": "https://www.fantasypros.com/nfl/news/604285/luther-burden-iii-groin-back-practice-wednesday.php",
+      "player_id": 27016,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Luther Burden III (groin) back at practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-26 17:12:45",
+      "created_formated": "Wed, Aug 26th 5:12pm UTC",
+      "desc": "Michael Penix Jr. will not play in Friday's preseason finale against the Dolphins. ",
+      "id": 604284,
+      "impact": "Penix was cleared for team drills last weekend. Tua Tagovailoa will start on Friday. The starting job for Atlanta in Week 1 remains up in the air. ",
+      "link": "https://www.fantasypros.com/nfl/news/604284/michael-penix-jr-will-not-play-friday.php",
+      "player_id": 22973,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Michael Penix Jr. will not play Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-26 17:11:39",
+      "created_formated": "Wed, Aug 26th 5:11pm UTC",
+      "desc": "Tua Tagovailoa will start Friday's preseason game against the Dolphins. ",
+      "id": 604283,
+      "impact": "Tagovailoa will close out the preseason against his former team. Michael Penix Jr. will not play. The starter role for Week 1 remains up in the air. ",
+      "link": "https://www.fantasypros.com/nfl/news/604283/tua-tagovailoa-to-start-preseason-finale-friday.php",
+      "player_id": 19198,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Tua Tagovailoa to start preseason finale Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 16:35:49",
+      "created_formated": "Wed, Aug 26th 4:35pm UTC",
+      "desc": "Braden Smith is believed to have suffered a foot injury during practice on Wednesday. ",
+      "id": 604269,
+      "impact": "Smith was carted off the field with the injury. He'll likely continue to be further evaluated.  ",
+      "link": "https://www.fantasypros.com/nfl/news/604269/braden-smith-believed-to-have-suffered-foot-injury-wednesday.php",
+      "player_id": 17317,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Braden Smith believed to have suffered foot injury Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-26 16:27:23",
+      "created_formated": "Wed, Aug 26th 4:27pm UTC",
+      "desc": "Packers GM Brian Gutekunst said they've been preparing for scenario of Josh Jacobs being suspended ",
+      "id": 604265,
+      "impact": "ESPN's Adam Schefter said in August that the league would likely suspend Jacobs, who was arrested on domestic abuse charges in May. If he is suspended, MarShawn Lloyd would figure to lead the backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/604265/josh-jacobs-packers-preparing-possible-suspension.php",
+      "player_id": 18269,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Josh Jacobs: Packers preparing for possible suspension "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 16:25:04",
+      "created_formated": "Wed, Aug 26th 4:25pm UTC",
+      "desc": "Ja'Marr Chase is not practicing on Wednesday. ",
+      "id": 604264,
+      "impact": "Chase appeared to have avoided a scary injury during Tuesday's practice. He was not wearing any protective equipment on the knee, which is notable. ",
+      "link": "https://www.fantasypros.com/nfl/news/604264/jamarr-chase-knee-not-practicing-wednesday.php",
+      "player_id": 19788,
+      "sport_id": "NFL",
+      "team_id": "CIN",
+      "title": "Ja'Marr Chase (knee) not practicing Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 16:23:09",
+      "created_formated": "Wed, Aug 26th 4:23pm UTC",
+      "desc": "Zay Flowers did not practice on Wednesday. ",
+      "id": 604263,
+      "impact": "Flowers remained sidelined after also not practicing on Monday. Wacker notes that he appeared to tweak his ankle last week. ",
+      "link": "https://www.fantasypros.com/nfl/news/604263/zay-flowers-misses-practice-wednesday.php",
+      "player_id": 22916,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Zay Flowers misses practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-26 16:19:55",
+      "created_formated": "Wed, Aug 26th 4:19pm UTC",
+      "desc": "Bucs first-round pick Reuben Bain Jr. suffered an AC sprain, but he is expected to be ready for Week 1. ",
+      "id": 604262,
+      "impact": "It is said to be \"nothing serious.\" Bain will still be worth monitoring over the next couple of weeks. ",
+      "link": "https://www.fantasypros.com/nfl/news/604262/rueben-bain-jr-suffers-ac-sprain-expected-to-be-ready-week-1.php",
+      "player_id": 28772,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Rueben Bain Jr. suffers AC sprain, expected to be ready for Week 1"
+    },
     {
       "author": "Garrett Ball",
       "categories": [
@@ -96,24 +413,6 @@
         "News",
         "Injury"
       ],
-      "created": "2026-08-25 20:09:13",
-      "created_formated": "Tue, Aug 25th 8:09pm UTC",
-      "desc": "Josh Downs (undisclosed) is not participating in Indianapolis' practice on Tuesday.",
-      "id": 604157,
-      "impact": "Downs is one of a few Colts players who will miss Tuesday's practice due to injury. His issue is unspecified at this point, but unless he continues to miss more time beyond this practice, fantasy managers shouldn't have much concern for his Week 1 availability.",
-      "link": "https://www.fantasypros.com/nfl/news/604157/josh-downs-undisclosed-wont-practice-tuesday.php",
-      "player_id": 24706,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Josh Downs (undisclosed) won't practice Tuesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
       "created": "2026-08-25 20:07:14",
       "created_formated": "Tue, Aug 25th 8:07pm UTC",
       "desc": "TreVeyon Henderson (ankle) is not practicing on Tuesday.",
@@ -124,291 +423,6 @@
       "sport_id": "NFL",
       "team_id": "NE",
       "title": "TreVeyon Henderson (ankle) not practicing Tuesday"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 19:58:38",
-      "created_formated": "Tue, Aug 25th 7:58pm UTC",
-      "desc": "Darnell Wright left Tuesday's practice early with trainers with what appears to be an elbow injury.",
-      "id": 604151,
-      "impact": "Wright came off the field with trainers, who took the brace off his right elbow before heading back into the building. Wright tore his right UCL in his elbow last season but played through it, so this could potentially be a reaggravation. A clearer update will likely become available in the coming days.",
-      "link": "https://www.fantasypros.com/nfl/news/604151/darnell-wright-elbow-leaves-tuesdays-practice-early.php",
-      "player_id": 25363,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Darnell Wright (elbow) leaves Tuesday's practice early"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 19:54:32",
-      "created_formated": "Tue, Aug 25th 7:54pm UTC",
-      "desc": "Ja'Marr Chase said he suffered a knee \"hyperextension\" in Tuesday's practice and could have returned if needed.",
-      "id": 604147,
-      "impact": "Chase seems to have dodged a bullet after he exited Tuesday's practice with a knee injury. The superstar wide receiver said on ESPN Radio that he is \"good,\" and he did not require extensive medical attention after his injury. While he is likely in the clear, this is something to keep tabs on in the coming days.",
-      "link": "https://www.fantasypros.com/nfl/news/604147/jamarr-chase-knee-hyperextension-appears-to-avoid-major-injury.php",
-      "player_id": 19788,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Ja'Marr Chase (knee hyperextension) appears to avoid major injury"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 19:40:52",
-      "created_formated": "Tue, Aug 25th 7:40pm UTC",
-      "desc": "Chris Olave was slow to get up after doing a deep route in practice, landing hard on his back. HC Kellen Moore said that the receiver had the wind knocked out of him, and when asked if there would be further tests or cause for concern, declined to answer.",
-      "id": 604135,
-      "impact": "It sounds like Olave should be fine. He shouldn't suffer any setbacks because of this unless the staff is hiding details. Draft Olave with confidence as the WR1 in an up and coming Saints offense.",
-      "link": "https://www.fantasypros.com/nfl/news/604135/chris-olave-slow-to-get-up-tuesday-practice.php",
-      "player_id": 20111,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Chris Olave slow to get up Tuesday at practice"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 19:14:27",
-      "created_formated": "Tue, Aug 25th 7:14pm UTC",
-      "desc": "Sam Laporta returned to practice on Tuesday after suffering a hip injury last week.",
-      "id": 604132,
-      "impact": "Laporta's hip injury has made his status for Week 1 murky, but his returning to practice this early is a good sign. The tight end will likely be limited as he builds back up, but he could be in line to start the season barring any setbacks.",
-      "link": "https://www.fantasypros.com/nfl/news/604132/sam-laporta-hip-returns-to-practice-tuesday.php",
-      "player_id": 22978,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Sam LaPorta (hip) returns to practice Tuesday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 18:37:31",
-      "created_formated": "Tue, Aug 25th 6:37pm UTC",
-      "desc": "Mike Evans missed practice on Tuesday due to a groin injury. ",
-      "id": 604129,
-      "impact": "Evans also missed time last week with a quad injury. He remains day-to-day with just under a few weeks till the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/604129/mike-evans-not-practicing-due-to-groin-injury.php",
-      "player_id": 12119,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mike Evans not practicing due to groin injury"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-25 18:24:32",
-      "created_formated": "Tue, Aug 25th 6:24pm UTC",
-      "desc": "Edge rusher Tyus Bowser is working out on Tuesday for the Houston Texans.",
-      "id": 604128,
-      "impact": "Bowser last appeared in nine games for the Seahawks and Dolphins in 2024. ",
-      "link": "https://www.fantasypros.com/nfl/news/604128/tyus-bowser-works-out-texans.php",
-      "player_id": 16470,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Tyus Bowser works out for Texans"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-25 17:58:17",
-      "created_formated": "Tue, Aug 25th 5:58pm UTC",
-      "desc": "The Cardinals signed C Hjalte Froholdt to a two-year, $20 million contract extension.",
-      "id": 604126,
-      "impact": "Froholdt has been a full-time starter with Arizona since 2023. He remains a staple of the offensive line for the Cardinals. ",
-      "link": "https://www.fantasypros.com/nfl/news/604126/hjalte-froholdt-signs-two-year-extension-with-cardinals.php",
-      "player_id": 18309,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Hjalte Froholdt signs two-year extension with Cardinals "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-25 17:56:18",
-      "created_formated": "Tue, Aug 25th 5:56pm UTC",
-      "desc": "Free agent RB Kareem Hunt visited the Lions on Tuesday.",
-      "id": 604125,
-      "impact": "Hunt would figure to compete with Isiah Pacheco for the backup role behind Jahmyr Gibbs if he signs with Detroit. ",
-      "link": "https://www.fantasypros.com/nfl/news/604125/kareem-hunt-visits-lions.php",
-      "player_id": 16425,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Kareem Hunt visits Lions"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 17:55:01",
-      "created_formated": "Tue, Aug 25th 5:55pm UTC",
-      "desc": "Kenneth Walker III is not practicing on Tuesday due to a foot injury. ",
-      "id": 604124,
-      "impact": "It is unclear how serious the injury is for Walker. His status will need to be monitored in practice the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/604124/kenneth-walker-iii-foot-not-practicing-tuesday.php",
-      "player_id": 23021,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Kenneth Walker III (foot) not practicing Tuesday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 15:53:32",
-      "created_formated": "Tue, Aug 25th 3:53pm UTC",
-      "desc": "Alec Pierce (ankle) will 'hopefully' return to practice this week for the Colts, according to HC Shane Steichen.",
-      "id": 604117,
-      "impact": "Pierce has been sidelined for the entire preseason due to a nagging ankle injury  that he is recovering from. He seems to be closing in on a return, however, as he may be able to return to practice later this week. He will need some time to get fully up to speed before he pays off in fantasy, however, so fantasy managers should pay close attention to all updates about his health moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/604117/alec-pierce-ankle-will-hopefully.php",
-      "player_id": 23791,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Alec Pierce (ankle) will 'hopefully' practice this week"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 15:52:11",
-      "created_formated": "Tue, Aug 25th 3:52pm UTC",
-      "desc": "Tyler Warren (groin) may be sidelined at practice all week.",
-      "id": 604115,
-      "impact": "Indianapolis' star tight end is in the process of recovering from a groin injury right now. It's possible that he will be sidelined at practice all week, but he is still expected to be a full go for Week 1, so fantasy managers shouldn't read too much into his status at this point.",
-      "link": "https://www.fantasypros.com/nfl/news/604115/tyler-warren-groin-may-miss-practice-this-week.php",
-      "player_id": 26434,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Tyler Warren (groin) may miss practice this week"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 15:49:18",
-      "created_formated": "Tue, Aug 25th 3:49pm UTC",
-      "desc": "Ty Johnson (leg) didn't practice on Tuesday but has resumed running.",
-      "id": 604113,
-      "impact": "Johnson was technically a non-participant at Buffalo's practice on Tuesday, but he seems to be progressing well with his recovery and has resumed running. The team isn't certain whether or not he will be ready for Week 1 at this point, but his status doesn't have much of an impact for fantasy purposes.",
-      "link": "https://www.fantasypros.com/nfl/news/604113/ty-johnson-leg-progressing-with-recovery.php",
-      "player_id": 18406,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Ty Johnson (leg) progressing with recovery"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 15:45:44",
-      "created_formated": "Tue, Aug 25th 3:45pm UTC",
-      "desc": "Parker Washington (undisclosed) is participating in Jacksonville's practice on Tuesday.",
-      "id": 604112,
-      "impact": "Washington has been battling an undisclosed injury of some kind for a little while now, but he was back and participating at practice on Tuesday. That's a good sign that he is close to full health, especially considering that it was a joint practice with the Buccaneers. He seems to be fully on track to play in Week 1 and remains an intriguing late-round dart throw if healthy.",
-      "link": "https://www.fantasypros.com/nfl/news/604112/parker-washington-undisclosed-participating-practice-tuesday.php",
-      "player_id": 23106,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Parker Washington (undisclosed) participating in practice Tuesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 15:42:38",
-      "created_formated": "Tue, Aug 25th 3:42pm UTC",
-      "desc": "Emeka Egbuka (toe) is not taking part in Tampa Bay's practice on Tuesday.",
-      "id": 604111,
-      "impact": "Tampa Bay was missing their star wideout at practice on Tuesday. He's still recovering from a toe injury, and it remains unclear how much more time he will miss because of it. Fantasy managers should keep close tabs on his status to ensure that he'll be ready to play in time for Week 1.",
-      "link": "https://www.fantasypros.com/nfl/news/604111/emeka-egbuka-toe-not-practicing-tuesday.php",
-      "player_id": 23062,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Emeka Egbuka (toe) not practicing Tuesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 15:39:51",
-      "created_formated": "Tue, Aug 25th 3:39pm UTC",
-      "desc": "Tez Johnson (groin) is participating at Tampa Bay's practice on Tuesday.",
-      "id": 604110,
-      "impact": "The young wideout was able to participate in Tuesday's practice after missing some time due to a groin injury that he suffered earlier this month. He will play a bigger role for the Buccaneers if Emeka Egbuka (toe) or Jalen McMillan (knee) have to miss any time due to their injuries.",
-      "link": "https://www.fantasypros.com/nfl/news/604110/tez-johnson-groin-participating-practice-tuesday.php",
-      "player_id": 27147,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Tez Johnson (groin) participating at practice Tuesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-25 15:37:53",
-      "created_formated": "Tue, Aug 25th 3:37pm UTC",
-      "desc": "Jalen McMillan (knee) was not seen practicing for the Buccaneers on Tuesday.",
-      "id": 604109,
-      "impact": "McMillan is still battling a knee issue of some kind and was not seen practicing for the Buccaneers on Tuesday. He could be in line for more work at practice if Emeka Egbuka (toe) remains sidelined for the foreseeable future.",
-      "link": "https://www.fantasypros.com/nfl/news/604109/jalen-mcmillan-knee-not-seen-practicing-tuesday.php",
-      "player_id": 23179,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Jalen McMillan (knee) not seen practicing Tuesday"
     }
   ],
   "public_api_limited": true,

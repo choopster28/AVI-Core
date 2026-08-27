@@ -15000,7 +15000,7 @@
     },
     {
       "cbs_player_id": "26693554",
-      "player_bye_week": "13",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "kobe-king.php",
@@ -15013,7 +15013,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "K. King",
-      "player_team_id": "NYJ",
+      "player_team_id": "FA",
       "player_yahoo_id": "41966",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB363",

@@ -1,5 +1,5 @@
 {
-  "count": 19,
+  "count": 20,
   "covids": [],
   "injuries": [
     {
@@ -15,7 +15,7 @@
       "practice_3": null,
       "practice_report_injury_type": null,
       "probability_of_playing": null,
-      "rank": 624,
+      "rank": 620,
       "status": "",
       "status_short": "",
       "team_id": "PHI",
@@ -221,6 +221,28 @@
       "team_practice_2_submitted": false,
       "team_practice_3_submitted": false,
       "yahoo_id": "31891"
+    },
+    {
+      "comment": "injured",
+      "injury_type": "",
+      "injury_update_date": "2026-08-26 12:00:00",
+      "ir_weeks": [],
+      "name": "Calvin Austin III",
+      "player_id": 23739,
+      "position_id": "WR",
+      "practice_1": null,
+      "practice_2": null,
+      "practice_3": null,
+      "practice_report_injury_type": null,
+      "probability_of_playing": null,
+      "rank": null,
+      "status": "OUT",
+      "status_short": "O",
+      "team_id": "NYG",
+      "team_practice_1_submitted": false,
+      "team_practice_2_submitted": false,
+      "team_practice_3_submitted": false,
+      "yahoo_id": "34094"
     },
     {
       "comment": "injured",
