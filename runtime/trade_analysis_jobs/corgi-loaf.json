@@ -22,9 +22,284 @@
       "personalContext": "find another trade"
     },
     "createdAt": 1787804268915,
-    "updatedAt": 1787804270080,
+    "updatedAt": 1787804277422,
     "expiresAt": 1788236268915,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. is actively shopping two premium future first-round draft picks (2028 1st and 2029 1st, originally owned by All Hail King Jesus and projected in the mid-range 1.06–1.09). Operating in an Elite Contender window with a goal to Win Championship, Corgi Loaf leverages these liquid assets alongside starter-caliber roster pieces to acquire high-end, championship-grade talent. Following the user's directive to find another trade option beyond Derrick Henry, AVI has identified an exceptional secondary opportunity with a re-tooling contender to secure a top-tier positional cornerstone.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Elite Contender",
+          "strengths": [
+            "Elite QB foundation led by Patrick Mahomes (C-AVI: 74.0, D-AVI: 82.5)",
+            "High-ceiling wide receiver tandem featuring Jaxon Smith-Njigba (C-AVI: 99.1, D-AVI: 99.5) and Malik Nabers (C-AVI: 89.5, D-AVI: 96.0)",
+            "Top-tier TE production in rookie phenom Tyler Warren (C-AVI: 97.3, D-AVI: 91.5)"
+          ],
+          "priorityNeeds": [
+            "Consolidating future draft capital into immediate S-tier or WR1/RB1 cornerstone production",
+            "Maximizing starting lineup points to win the championship during peak contending window"
+          ],
+          "tradeableSurplus": [
+            "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "Starter-caliber WR/RB depth (Wan'Dale Robinson, David Montgomery)"
+          ],
+          "constraintsApplied": [
+            "Mode: shop_assets",
+            "Goal: Win Championship",
+            "Starter-for-Starter Rule: Every player included in recommendations belongs to the league-relative starter/FLEX pool",
+            "Two-Organization Goal alignment verified for both buyer and seller",
+            "Personal Context applied: Alternative trade explored beyond Derrick Henry."
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 11,
+          "eliminationReasons": [
+            "Rebuilding franchises lacking elite win-now assets suitable for an Elite Contender's championship push",
+            "Direct rival Elite Contenders unwilling to yield starting line-up cornerstones without prohibitive premiums",
+            "Partners tied to previous single-target packages (e.g., Ravens Regime)"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Gridiron Outlaws",
+            "targetGoal": "Acquire Future Draft Capital & Youth",
+            "targetAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Gridiron Outlaws",
+                "position": "RB",
+                "age": 25,
+                "cavi": 94.5,
+                "davi": 95,
+                "publicMarket": 92,
+                "leagueMarket": 94
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 78,
+                "leagueMarket": 79.3
+              },
+              {
+                "name": "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 78,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Explosive Youthful RB Upgrade",
+            "strategicGoal": "Acquire elite explosive upside in De'Von Achane for an immediate championship run while preserving long-term dynasty value due to his age (25).",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 22,
+              "packageMatch": 19,
+              "lineupReplacement": 15,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 82,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "De'Von Achane (C-AVI: 94.5) gives Corgi Loaf a league-winning explosive weapon who contributes massive weekly ceiling points for both the immediate championship push and future years.",
+            "whyOpponentMightAccept": "Gridiron Outlaws secures two valuable future 1st-round picks to anchor their retooling phase, exchanging an elite running back for long-term draft liquidity.",
+            "championshipImpact": "Immediate elite ceiling addition to the starting RB/FLEX position with unmatched explosive play potential.",
+            "dynastyImpact": "Extremely high dynasty value preservation since Achane is only 25 years old.",
+            "rosterImpact": "Locks in a foundational high-end starter without sacrificing youth.",
+            "publicMarketContext": "Achane commands massive value in the public market as a premier dual-threat running back in an elite offensive system.",
+            "risks": [
+              "Passing on both 1st-round picks leaves Corgi Loaf lighter on future draft ammunition, though mitigated by Achane's young age."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer both 2028 and 2029 1st-round picks in exchange for Achane, highlighting the guaranteed premium draft capital for Gridiron Outlaws.",
+              "acceptableConcession": "Include a minor depth piece if Gridiron Outlaws hesitates on pure pick value.",
+              "walkAwayPoint": "Walk away if they demand additional starting core assets on top of both 1st-round picks."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "User requested an alternative trade option beyond Derrick Henry. AVI evaluated the league landscape and generated a fresh target package with Gridiron Outlaws centered around acquiring explosive young RB De'Von Achane for both 2028 and 2029 1st-round picks."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tank Dell 2026 fantasy outlook",
+          "Jaxon Smith Njigba 2026 fantasy outlook",
+          "Amon Ra St Brown news 2026 fantasy dynasty",
+          "DeVon Achane 2026 fantasy outlook",
+          "Wan Dale Robinson 2026 fantasy outlook",
+          "David Montgomery 2026 fantasy outlook"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwyJnhfO8CFXTUX0AofSP6uruOkJAvyQNcjKPj_ovombDyjZKoT0ziDne_QIoSExxk95SlaehV03G-uI9qCFzruypTAFksYAJ6aUy1GhXBB1RA2pnLh8a3jq_SYpcSwz1eiEt8m--se8HqdqrWnXH8SUk7XaYvwngIZSEYOnKeyhI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEXCZ_FQr9pwgk-FeU4jWvAxXTs5Cqa5GVGjN05L7Si6r5Q3Xwu18DROxuwelIZCWOdiSp24QvocWyUrIB6VHc1NAZQfMVg0W4-Jty4kXbUlAw_yV65FKXhglCwus8TQ80asdEl7N0OZl4K-tS2cNy1i0rvjxy6nC6h4dAslj5O9n8huTs1_JMaNx_6XzxnWs=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwLPxQ4j_qstEMVlJhOVckakOGy6DNHweKF6aNGs1rjSvXZ9w5A8cIk9F-T6-Z4YTeq-LfHNd_cfunoMIEePFp829TLY6ktxAYCNmG95clHAUjdztV80N3K56o94JbEtrixPQcrLolPJu13WpVFLnuHyefUBd_o-DPa7b4zitRgbDsMgXi",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMEa57-sxpGwmITBDvIYKxKbUBvp8ZuvQx_r62tqum3kpLfBJbqCmtuOxxj4U22ekI7fPwvLuwdQkLziDqE4GDW2UsH1R04BuN9Ap3hP2XkSYRY9CwUcWI8Kwr95jMNWpg8KiGkHS74L7DR37ql3gq_k51Z5DrL34voQ1Rus8R",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3tetbPOBSww3OCtw6V6wjUbs0A-IYQoSBAXYL3OV3BIKe-Aho7ja6HwK-wgIaZCQFKO9PCrRaoYprYrogfh6TsB9jJq0US1T8SoNP6pklTzcsL6z8ld23PRquV6mekletsgaO_6K6sKLUbuB3",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVGcSCCV1MlN4y_BBbZ10YL6I07QTlCDauGIMpYqK5SorQCUYax2uaxT-hZcacFRmWyWwLHbk9Dw6CB-5ZrRT80tt-l0_bqQez336oYR9TU_gbGPIeOjjGo7gJrD2L3MLhKY-gPjSmXVrizCT_EWTACbZqFH3Gnd1YgGTXtPVkSUDmBlPdHtbigAB2oVg=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd4G0B4CQDOjZ59xpbXbA5CdTxh67zNk72PMQVtzY2i4ii_EBI-_kWXrr9Nu_4ke2CtFgXcPhvfMnPohzI8n4rRNvxP3KJTea82UEbgZutK6NBmteCZaOeT-GT-JMo6qM=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJAPFYXNTdL5VRwNMxO1se2-ELli9oAw5C34s7zldnD06j_wjTPuVl0Wd8WAgXRjpm0Nrqs83mLptdI99ztiVdMNHu5NN-OMIgBBaUvwxZGyvGaK398_8r4hUCUcSqzZqC_76a510qQL6-ptk42YgM_MR292l9pb1gjMKIqSJ6olwj88NRRxpuj6E=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOzTV2ddr8yywDKxVlnK5zq9MD6BIxnP5Zz1AIaVrtm622D2KItLj6Lbc1XJwIkFQb8lx1gEaBbhpIRVLlvLB4LSGZxaNxJ191GF41ItzO9ZrgcFCYDuGwcpeiU_UWH2aTIyJi0muZPP_8qkXHUfbAnlgtGydqNVJ30wCC5oHke3wWqCCbzfoZnJRZK0S8lJLSgffrBrK0KOzC3p4=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWeMVCzXMQT_Ttxp9E1U7NIdVICdGknhlUsJhRqZvq8gX-KPX8zhMj82-eP6Pq_li5CZVgMmwRmAwr5SKD3-GOECdLk5bxFkM1AR6uBZ2-3tymdK2NHMkxBj-swwlOlbar74UH2HqG8nqZaSHzTcRc-iUv6Hdrm5EfJ8_wlypoDW---jl9",
+            "title": "establishtherun.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEelTcYB8Dd6DnMwe4NajUCAOhVexiTeWaQl8mZRVN8hJ9W7clmh0RAzdDqISj67fOyS8G-GJxwHwvE6F63uQa8ZyQVVyQ5ZrFeha5ROofQLMDvk5IA3ylJUC5RrVTT42Jy",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoqkdyuwRsUWIvkwKMfoQS7ZgXKHls1ekbrtTg3KKNsECHAUBU8PEDD7DQ5aR_vjP7Rye59EkQuypRWBZeGPEIQrqPnAHSb5kEQ_Pj8cQMnByvhwqrieOZYUYC9ZIURb2FjOyk4GPREYlfqf4ouTV5HS41qvaix5o_-6oOyyjB",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZSrzgCWWbI1f4RWZP4Tom-KaBJIjgyw_ANa7HQ5a7knoziL_7hRbcYP1z6WR4YBI03DhSIaFql21b_IxMpKhrHdTSlLkvUvVI5RQ2zGux5Zx2OvX6wZFNTbYw3tr5Vjk4oKdQkmcB61KpL1v9lGMPyLSL_NnQ2MINTt8lHQ==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0cULXgGwo_dBCBmzJ3nmK8UJzu8IWmQLTQm5mFoviP0te5rsqUTxSWOLvYBeGwdsLoHISU_lryECXULUrh1zPn4b-e1ec7mANcn60BrznKZkfqYmWzZUEV1pgWw7E9edr",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-wqqyf6nqEW8XzzOhsW-FB7gvArM5lkFtGgkzgaeoz7c6RACqe3X8cj2EeIuXwZ8URef7QhCOS_cr0cMWQ-np5kVeiWQeEm8XX8DPNX9NTJ85tOpTABarporDsieP9t-6zMV4JAQv987-AaMkyDP4WXP-sGPfY_3dgFAOJxMzjnD8VrY0BAX982nmxa2WabT0ooW1tI9Fe8hc-KXIBbEMHIpq0M8NWA==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF7-awVOuBuWZF9FQAnFcdLztJ958dB40HOJIlGSrkgfFTaDXIpyw1l5NdSbwgEIIzmSZrZ1f7-AJ-kxm3UxQruA_OgvpBZK6Cj4OFZfOaHY6DuN32YmTwVvb0gRtXpqFYxFl9JZlEGy-SpcuZft6EDizLGDtk7BbKpHXY_8A3EoO3NfXLHPjlOLl9UEVr-hq6rcbYuIfNDlVFxLlkFwlfFuQ5kkUMIZYmzXwA05hE3Z_xiw08OQWjGfvM9MunQRWbjHIV8qptBp9Z8A==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6nEQZQjCTne6LzDi_7K2R78-U-MwqtY50LSGyb4jFSC3DNlw8Pq6iVjGTAFUB9wbilncDI2AUrv8DPod7uacLd8nCnKJAb0nm9Knh17xxqgmzOXCmfbNd2LExynPHHNqWQXDtW4MxpOfap1TExVWSMdC024-NyjrfNdQO_8Buo9W5yPXPi4Yr2_uG",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWf_hh0fudKEt5D7wFLCiWAW4ulGky1ZN9iymZi_m9gtvv-z24uzux-wd9utd2GFVtCxTBE3fNjr9W58-ojLuzGeUvxebs0m04K_lSxjdeVGdzgMDqkQak-NM72nDvgOzs7hU4ixClY-lWVLJFqOgz_IYVyISsAZDMVKfISy7fxIMF9FhBlLNxy6jatiTXluV8",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgvVX2S4tkOEa9qooVdio-PkiDPbB1paPlrFrpN-qA2LVa3UZ1aibflHARqevaICjKBPg_9oyXx8wwY-5TnvdjDY2D4WbLzCkc3G7pwmoVl-1nc1vtHnZsKdjrW6wIv81eR6V9HOR_e52Ju8lxy-nVp-FpA_jzRXBqHuQUOsAH74xFKVOoYHEeRaLw-nlEtybfpbM_",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7q4C0fKQAyxa0a-ow--NXunEAsQeJDqK5pX_ekxvmkCkAGz15ZI8Jp_X-ajXGib7zSRyKEKmaZAOCYUyJJB9_S015Agt2yx3ibNQ5NNrpR4uLBt_sSk1T-Xdfz9ioNaJJBAJyIX1LHWqGArPH670oHgTyZ2f2SJdx894ybamFZiaMQpRhzW9NybF2",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "Wan'Dale Robinson",
+          "Jaxon Smith-Njigba",
+          "Tank Dell",
+          "De'Von Achane",
+          "David Montgomery"
+        ],
+        "aviCoreCommitSha": "e30704a4b34bd0a304245f4dd1ffac11b9fdb011",
+        "aviCoreCommittedAt": "2026-08-27T03:24:21Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 525563,
+        "personalContextProvided": true,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        },
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mtb0eun6-c9cfa04d",
+        "verifiedCandidateContext": false,
+        "refinementDataVersion": null
+      }
+    }
   },
   {
     "id": "mtb0eun6-c9cfa04d",
