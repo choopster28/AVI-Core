@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mtbkowc8-bef55d20",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Big Balder Brand",
+      "goal": "Balance Roster",
+      "targetPosition": "RB, WR, QB",
+      "maxResults": 3
+    },
+    "createdAt": 1787838179768,
+    "updatedAt": 1787838179768,
+    "expiresAt": 1788270179768,
+    "status": "queued"
+  }
+]
