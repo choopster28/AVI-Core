@@ -1,5 +1,32 @@
 [
   {
+    "id": "mtb0i2fb-2bc4b7a4",
+    "phase": "final",
+    "mode": "shop_assets",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        },
+        {
+          "name": "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3,
+      "personalContext": "find another trade"
+    },
+    "createdAt": 1787804268915,
+    "updatedAt": 1787804268915,
+    "expiresAt": 1788236268915,
+    "status": "queued"
+  },
+  {
     "id": "mtb0eun6-c9cfa04d",
     "phase": "initial",
     "mode": "shop_assets",
