@@ -57,6 +57,33 @@
       ]
     },
     {
+      "orgId": "corgi-loaf",
+      "orgName": "Corgi Loaf Baking Co.",
+      "updatedAt": "2026-08-27T01:04:00.506Z",
+      "answers": [
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "167"
+        },
+        {
+          "team": "Gringo's Goblins",
+          "tiebreaker": "125"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "211"
+        },
+        {
+          "team": "DMV Fantasy",
+          "tiebreaker": "67"
+        },
+        {
+          "team": "Big Balder Brand",
+          "tiebreaker": "187"
+        }
+      ]
+    },
+    {
       "orgId": "rapid-valley",
       "orgName": "Rapid Valley Annihilation",
       "updatedAt": "2026-08-17T13:41:34.419Z",
