@@ -12,8 +12,362 @@
       "maxResults": 3
     },
     "createdAt": 1787838179768,
-    "updatedAt": 1787838180941,
+    "updatedAt": 1787838254562,
     "expiresAt": 1788270179768,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand enters the 2026 campaign as an Elite Contender with high-end offensive power led by Jayden Daniels, Saquon Barkley, Jeremiyah Love, Omarion Hampton, Rashee Rice, A.J. Brown, Nico Collins, and Trey McBride. To balance the roster and insulate against weekly lineup volatility across RB/WR/QB flex spots, Big Balder Brand can leverage its startable flex depth (Khalil Shakir, Chris Godwin, Baker Mayfield) and 2nd-round draft capital to acquire proven high-floor rushing volume. Three realistic targets emerged from market screening: Rhamondre Stevenson from Rapid Valley Annihilation, David Montgomery from Corgi Loaf Baking Co., and Aaron Jones from Gringo's Goblins.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Elite Contender",
+          "strengths": [
+            "Elite franchise QB in Jayden Daniels (95.9 C-AVI)",
+            "Powerhouse running back corps featuring Saquon Barkley (92.0 C-AVI), Jeremiyah Love (90.1 C-AVI), and Omarion Hampton (89.3 C-AVI)",
+            "S-Tier receiving group led by Rashee Rice (95.7 C-AVI), A.J. Brown (93.4 C-AVI), and Nico Collins (91.9 C-AVI)",
+            "Premier positional advantage at TE with Trey McBride (99.5 C-AVI)"
+          ],
+          "priorityNeeds": [
+            "Veteran RB flex depth to insulate heavy bye weeks and championship push",
+            "Roster balance across WR/RB bench rotations without sacrificing core starters"
+          ],
+          "tradeableSurplus": [
+            "Starter-caliber WR flex depth (Chris Godwin, Khalil Shakir)",
+            "Starting QB insurance (Baker Mayfield)",
+            "Future 2nd-round draft capital"
+          ],
+          "constraintsApplied": [
+            "Must preserve Elite Contender championship core",
+            "All outgoing and incoming players must belong to the league-relative starter/FLEX pool",
+            "Trade partner organizational goals strictly enforced"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Win Championship sellers unwilling to part with starting RB volume without receiving S-tier elite returns",
+            "Rebuilding teams lacking startable veteran RB volume matching contender needs"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Rapid Valley Annihilation",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Rapid Valley Annihilation",
+                "position": "RB",
+                "age": 28,
+                "cavi": 65.7,
+                "davi": 77.9,
+                "publicMarket": 66,
+                "leagueMarket": 68
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Khalil Shakir",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 26,
+                "cavi": 57.4,
+                "davi": 75,
+                "publicMarket": 58,
+                "leagueMarket": 60
+              },
+              {
+                "name": "2027 Round 2 (Gringo’s Goblins)",
+                "assetType": "pick",
+                "owner": "Big Balder Brand",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 50
+              }
+            ],
+            "scenarioType": "Depth-for-Starter Swap",
+            "strategicGoal": "Balance Roster",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 84,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Rhamondre Stevenson provides Big Balder Brand with high-floor RB volume (191.1 projected PPR points) as an immediate FLEX option and premier bye-week cover behind Barkley, Love, and Hampton, balancing out the roster's slight WR depth surplus.",
+            "whyOpponentMightAccept": "Rapid Valley Annihilation is in Retool mode. Cashing in on an aging veteran RB in a sharing backfield (alongside TreVeyon Henderson) to gain a 26-year-old starter-caliber receiver in Khalil Shakir plus 2027 2nd-round draft equity perfectly fits their retooling timeline.",
+            "championshipImpact": "Increases weekly lineup floor and RB injury contingency during playoff runs.",
+            "dynastyImpact": "Converts WR depth and draft capital into immediate high-volume RB production without surrendering long-term core pieces.",
+            "rosterImpact": "Rebalances roster distribution between WR and RB starter pools.",
+            "publicMarketContext": "Stevenson is entering a committee role with rookie TreVeyon Henderson in New England, capping long-term ceiling but retaining strong short-term early-down and goal-line volume. Shakir is the established target-earner in Buffalo's passing attack.",
+            "risks": [
+              "Stevenson loses touch share to TreVeyon Henderson over the course of the season",
+              "Shakir emerges as the clear WR1 in Buffalo post-trade"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Khalil Shakir and a 2028 3rd-round pick for Rhamondre Stevenson.",
+              "acceptableConcession": "Upgrade the pick to the 2027 2nd-round pick (orig. Gringo's Goblins).",
+              "walkAwayPoint": "Demand of a 1st-round pick or core starter (Rashee Rice / Omarion Hampton) in return."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "David Montgomery",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 68.9,
+                "davi": 81.5,
+                "publicMarket": 70,
+                "leagueMarket": 72
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chris Godwin",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 30,
+                "cavi": 62.4,
+                "davi": 77,
+                "publicMarket": 63,
+                "leagueMarket": 65
+              },
+              {
+                "name": "2028 Round 2 (Big Balder Brand)",
+                "assetType": "pick",
+                "owner": "Big Balder Brand",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 50
+              }
+            ],
+            "scenarioType": "Contender-to-Contender Rebalance",
+            "strategicGoal": "Balance Roster",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 21,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 79,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "David Montgomery delivers physical, goal-line RB2/FLEX production (195.9 projected PPR points) for a Houston offensive unit needing early-down power, balancing Big Balder Brand's RB/WR composition.",
+            "whyOpponentMightAccept": "Corgi Loaf Baking Co. is also in Win Championship mode but holds a surplus at RB (Cam Skattebo, Tyrone Tracy, Dylan Sampson, Emmett Johnson). Adding veteran WR target monster Chris Godwin alongside draft capital gives Corgi Loaf immediate starting WR/FLEX firepower.",
+            "championshipImpact": "Adds guaranteed goal-line touchdowns and dependable RB depth to the title push.",
+            "dynastyImpact": "Trades age-30 receiver depth for proven RB starter output while retaining ultimate dynasty flexibility.",
+            "rosterImpact": "Smooths out positional startability between wide receiver and running back ranks.",
+            "publicMarketContext": "Montgomery retains goal-line leverage in Houston's backfield split with Woody Marks. Godwin remains a high-volume PPR weapon in Tampa Bay.",
+            "risks": [
+              "Montgomery's efficiency dips behind Houston's offensive line",
+              "Godwin outperforms Montgomery in PPR formats"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Chris Godwin and a 2028 3rd-round pick for David Montgomery.",
+              "acceptableConcession": "Include the 2028 2nd-round pick to close the deal.",
+              "walkAwayPoint": "If Corgi Loaf demands a 1st-round pick or young cornerstone asset."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Matthew Golden NFL draft 2025 2026",
+          "David Montgomery news 2026",
+          "Rhamondre Stevenson news 2026",
+          "Tyjae Spears news 2026",
+          "Aaron Jones news 2026",
+          "DeZhaun Stribling NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdLU9eQvmKtBDhB6hO6h_LYOP0-mtA4bWPfYDjGyG2Jhb_u1MVLIKpWvcw3KTMPAZ1Ds-E78vg14QzbwWPQuBnZKsXO6tCfs6ItyLrdfYaI9_9FatHV_1fZ6DA_jan1JINr6mhFsQsb2cbTkj9IGFcgxN5fP5BiK_N_kZQpEUWKTULpGZg9WjhLLk5R_tsBJ91zHIlULwwzg620hEVK9bb-O4=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRFDONtVIuiUA0rC-aaHYSXRNHvTD0ebqcscM6WzAdZe1iSEK-Y7kKrFg2_34KVEI2iNekho4VZzMqZHmuE2EqeVQjQz3WclfEDCl9C-YMJOQ8d7I3a5C9TiVqGEnhaLAqnLxl_PPVC4ROip-76g==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqhREIjpgMFNavDZDxTB5OMDAeHLQCRqIZWRV88asblDXPRfnC2-2w9wSgaxeBd-JQ641gZsbDjY5xn9JLIwKslVtgAWWenzgjxTgq93pvE8UiiN3EvmXBIIokVpxCpkLx",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqSVNZIzZk7e6mDJCsYf4fNHAaxbVfYU-UwmqiuNVN8WNYSZR2JcLC0g5gubBdU07KxhWHezD-ABft_-uCSvC7n3ViuA-1A4ZDTaHNpQQ-aC_nngQBtAJGd_JSHrjEGREDYnbW-oeI7Nbnf34FhUH9E2Aq4eYAECN6qkiYagtGHxmRSpxH-ls=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcUVMMYZUn4_5dQNmxr9TJFh1D80gGQUc9RtZCSx4CR6156xZ5eziQUrRFcA-czl2-zzHyPirqX5Mep01NvR1v28x9c2yXTuPTDw0m0qCooA2jPoAmrD5xc7BLuyiu949wn6NV5LgXJHBkaoGMRXoTB1Jg5yz9HQOd0_s_5e2HBGyvq_Z9",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7LgSpCg5uHhZEvspNs2_tdaer4ncZ7y5r75A_s26Jq4qmCt5iEV6rN8lhBWotygA_lOlpkEC22X-bBy1stjxSEKeOG4WKY5JynkqrWZA0aIvWxZd3_VVNr0i1T_ZeqfythfgpPp66bXXAcsFxD5XMzxNgHs6us0aSfddOHscLaq-kZWYKbwz2kK9pI9LEybI=",
+            "title": "titansized.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2BMkBxwk_WdE2JoEXT_IjmzMFklLOFKvwDQlsu4rlBhRts2E7sKja-WWkEV5bIuosfLoO3G8wM8ag1IHkfGH911jp4kyb41j2eVKIHynx5xEDJIH9WHG6ryzAkKiTtZl-G8Mu33N2vU2T9J7tVmykGSzwqi5hMDJB-zkzd0rK7mfOK71-AQCeug1kRttSEtXVJ2V_qk77GjCk_2My4ogRB4kLLg==",
+            "title": "tennesseetitans.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQHUnebRIEcjV7Dl7h9YSOuVcDNPEeztUEtoPhm4Szjv0g_IeFVCHoncJPZZtkwiZ1i2ywM9l-ojIyp-Ql_dlwcGz11b2QN8ikYP6uNIEzd2CPZIhsAQ8-QPvhH4ZtAoBS-JJNsVkAJqVcqwPCD1VM-mD6EAQtDqutrL_oJSsyeGfDkVqL0IEwoDkNYLXn0QhmpbEG8tsIKZXhIEQdxobZ2L9p3_PKPw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTBDZfaNd6H0krNI4Duo83ZQsZYdbcXtqHDrk6y3ohOJQZRtMOAz572v3qZ40G575ep3qygD6hQ1tKGOkc3FlzXKY7q6c1mNWqmA4ZmM2krmsz0UWk7fr0nOwh4VO9Umv6P0bkdAvUH8wXsjCwagUhp0nFYUyNwT1803W-iKlsODMWOtTqetdZsdZsy-saDQ==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgBfrBTtz1cgdYcBl37b7jvfJWhPYh5vx2bwP81cRQSPSmuaNxHKSApR4_ZY41pb_Q5T-tP2yEujkLrfDoAILkwL2Za7zHUFjSZkhV_w4qPMIQBvsFZsxFisWOBIXOXEKOFweohY1hA-R99BMWLyYWr_Myy8c6M0BnyWj3gQEfoB7rf2ohwgMA6PwdavpvPcCj73LH7uQ8I-yJSwS4L4JUZkuZCOW5",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSuwoXeswik-e-Cb8iYUrW_oQDt7rP34EigYxPnocd8E-zwfJHK_NFbNysRFp4q-aVjdTZ33AoFFG7BLd7mu3_l-1Knn_DtoJ2hz8FK1mKCUldg9AkV5rdWSg-wNrUl--lLvwp9wizc1j0wblX2ktg5wopHs7xgNf-1grJ4kZXioyvr9krvOEOgrmN-4WhlAoKrlA4cjJyhOxJAODjncVX",
+            "title": "torotimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVEdne1C2n57gwvUN8DGzxIrnujw4qLgHj7TFo6kC1DLv4D9xwcsWM7z-Ueb2uYA6it2UXrO1VtsXiApXCbrqZPS4iQiWjjdw5yp7z5NTmx6k_snNwoqDS4_Y7WH8fVaBV4_gll2ebC4Gb1k-n3P9bDKR8P7uDqbNtSDp7y6iLv58lo49TErZ0vWOEduwY5rHJuvc=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC2XFyYNyrz_bB4WQpy4Q1G57VZr0uQ3dgZoWm4AbH3tlkjI7tRi2o7XBWLygd-yYy-stdfaChEIe-pvJo-AtAgBFXy-UgNWObsbvZ6w_cHnKVVQUQn20T0oT16cnrldoHSIok6r4B3F3iSA==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBk_b7kjtsssS4osn2VQU4hItp2m4l95uBUi3xY8li18XeyL4QpkkPg4C9ZKQ5QZnFXeSzbV-b9GWSHBFQ6KGD8GcPHJIKcLvvEf3r7-hVNozzGd6ynIcaEDwmO6lP8ZuamtA9kOZZEAEl0Uk17NZprPRg47m4rCsI0w8btzIKd7cPjAGgjzTyyHm1GgkZLROElRENUyxMmPEw3E9H",
+            "title": "fantasylabs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzbiNr0UR_-n5c5GtdZh8kcFOhanUMV2HBq1ldi-5tlFtzmSQiwQCTGyumQT0JIGZ5R3uVMcg3wQ_YCl34XuwAbeiF9xZU3p6nl0TYApw7UHR4ToowalW2fF1aTl4IgmSNwhT5WZ3gnvGcL5s-mRmYnWGjZRnt6xr6RE9PiIEhUWlpAG22qdLRqFpTAbDPb98nZ498sj3r9rF7ePu9C-0=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmGe3PT26OrhcqX54d1Ve1Y2DWm9PhQ3DE6xacgqNZqupGRH9pMC0D3aALvK4ivqDEcIFGrZ8ZoqytCqiA1KtbGYmKqQxD4pv8stGsJQiwz4_2W7oE5zcehLs_NRHhFQXQEcP-nFBEyfNM_h-lNFUHOlaBUJzclV4bs3IW0pZr0Hbalv4KElqMnvMlTeNZyrCMA7A-4mBOq-mhOA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn-xGZX_EYn-aflMhan8tHxZRxax_hhUiUfcUC9D2PhUl0GmhZIn1-xv7AY0C_uJ0JONmt7M1-ECB4aFAFdpdmmj4tS2LuRMf_dk-fEY2eMIrTyuxUcyqxKnTm0tieKsFE",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKSwEG9wrAYYvfkEskhLayC5Ur6eb1qQ1_ZhaSDMHZzoFac3EtnoNZl4CqEKB9v7mhuzqQ6dpRxf356mzWXipJJeCRcaKnRm9w77GiqbYKRQXcmqFI4aZ3fduFXpedjwDNKIB7e6wVA2hk1lyaPxvk9nF8umBfH6FGzef-mmKkQBhnBIUYYelZ0WPZePYBXJoPbBbpucwwUCWSc6QfUmD_DT4lWsE_ao7Qxeq9-rfC-wWtew==",
+            "title": "mayfieldsportsmarketing.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5-MzNf9D3VMTGafPKOavP8itRdxXkszDhXCKoqbxNtJ8kj-HzbFd4EmvzzF-gt8_1UMHL-s8bvWpQZVkSndR_jOaECC3IXj8FIILJVUT_wBraCXCwfYvNVWurSkth7Umy21MPHeiV75DEtqbTIQgttDMUbRfD474pTLIIl_umjJQwlELYxB8=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0KN1xeN0b-2QoaaJxLkALStFgb0ShIkLlzDbY2bXeGw6l9vmOXAWP2g0dcwqo3KejmNdlwNPazjW4y2Bzodea_lgVBhXGmz8L-cuPSVSWCfn9YxegfHWQefe--1nKD0_Yi7r4J-pe5lhqK4WzGQzYRO_Ol2ZvgWawjZeGneTO",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLGxXqeyTX7rI_nZL4rHve_MeATANSlVwfv0ar_l4klR0kSdvXqj_0OZJS69K5ipQ6hZ5br0DM-f2Mp_TW43mgic6krgyMVMG1bWxOGQTvew3O_9J-fCPsuqBaN6fh",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_zSNF1nRtwAmWbUxJEPWYfnr236wOmJzWDUYECq4baJCGe38Nnanm1UOw39Zuy7Lx3n3rkbiL9RaMeXN-p5cbXbcps-VixnpZCqaO2ug_OKPy2Lkd90kJ9dss9nI29prWxLIY9cvTXE2BtnKGEHnuKLtbLYC4PjXgBppFocvjWOkufUQNdCboq2w1dfWH5X_G6XimdffdNEAYWJbIOc0=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc-9yNjiISRUAQcrVtOlAfy--1CPNrZEr3HgvsrJ4FjMJcVc7H3kbtnX7Ovuobqo1dYmD_oqjEXPlNoGGa4wo2MHYLWwRGMXjkLVheERPwtBOiXVT6CMHJJLHIpST5aUHN",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Rhamondre Stevenson",
+          "Tyjae Spears",
+          "David Montgomery",
+          "Matthew Golden",
+          "Aaron Jones",
+          "De'Zhaun Stribling"
+        ],
+        "aviCoreCommitSha": "424a3be77b2089abf99e43fdef8da49fcd23ad91",
+        "aviCoreCommittedAt": "2026-08-27T13:21:22Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 525563,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 239,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   }
 ]
