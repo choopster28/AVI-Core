@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "description": "Manual championship-value risk adjustments for exceptional current-season risks not represented in FantasyPros projections/rankings. Adjustments are applied after base C-AVI calculation and before team/player reports are generated.",
+  "players": [
+    {
+      "avi_id": "AVI-00010229",
+      "player_name": "Rashee Rice",
+      "c_avi_adjustment": -4.5,
+      "reason": "Current-season availability volatility from meaningful injury history plus off-field risk is not represented by the projection/ranking-only C-AVI inputs.",
+      "review": "Reassess when availability/risk profile materially changes."
+    }
+  ]
+}
