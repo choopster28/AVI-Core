@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-08-25
+- Last updated from Sleeper exports: 2026-08-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 539.8
-- championship_lineup_c_avi_avg: 67.47
-- offensive_roster_c_avi_sum: 835.4
-- offensive_roster_c_avi_avg: 55.69
-- offensive_roster_d_avi_sum: 1114.4
-- offensive_roster_d_avi_avg: 74.29
+- championship_lineup_c_avi_sum: 517.9
+- championship_lineup_c_avi_avg: 64.74
+- offensive_roster_c_avi_sum: 827.6
+- offensive_roster_c_avi_avg: 55.17
+- offensive_roster_d_avi_sum: 1118.4
+- offensive_roster_d_avi_avg: 74.56
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Justin Herbert | C-AVI: 71.1 | D-AVI: 83.2
 - RB: Jadarian Price | C-AVI: 67.1 | D-AVI: 83.7
 - RB: Chuba Hubbard | C-AVI: 59.5 | D-AVI: 75.7
-- WR: DeVonta Smith | C-AVI: 87.4 | D-AVI: 92.4
 - WR: Alec Pierce | C-AVI: 70.0 | D-AVI: 84.1
+- WR: Michael Pittman | C-AVI: 68.3 | D-AVI: 80.0
 - TE: Gunnar Helm | C-AVI: 52.7 | D-AVI: 70.2
-- FLEX: Michael Pittman | C-AVI: 68.3 | D-AVI: 80.0
+- FLEX: Wan'Dale Robinson | C-AVI: 65.5 | D-AVI: 81.1
 - FLEX: Jakobi Meyers | C-AVI: 63.7 | D-AVI: 77.6
 
 ## Current Roster — All Player Cards
@@ -93,6 +93,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Dylan Sampson
+- Player name: Dylan Sampson
+- Player ID: 12469
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: CLE
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 47.1
+- Dynasty AVI (D-AVI, 0-100): 67.6
+- Projected PPR points: 108.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Chris Rodriguez
 - Player name: Chris Rodriguez
 - Player ID: 10219
@@ -110,54 +127,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Kimani Vidal
-- Player name: Kimani Vidal
-- Player ID: 11647
+### PLAYER: Emmett Johnson
+- Player name: Emmett Johnson
+- Player ID: 13337
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: LAC
+- NFL team: KC
 - Active: True
 - Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 37.4
-- Dynasty AVI (D-AVI, 0-100): 60.0
-- Projected PPR points: 59.0
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Ray Davis
-- Player name: Ray Davis
-- Player ID: 11575
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: BUF
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 32.4
-- Dynasty AVI (D-AVI, 0-100): 58.1
-- Projected PPR points: 35.9
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: DeVonta Smith
-- Player name: DeVonta Smith
-- Player ID: 7525
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 87.4
-- Dynasty AVI (D-AVI, 0-100): 92.4
-- Projected PPR points: 236.9
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 36.8
+- Dynasty AVI (D-AVI, 0-100): 65.8
+- Projected PPR points: 46.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -192,6 +175,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 68.3
 - Dynasty AVI (D-AVI, 0-100): 80.0
 - Projected PPR points: 190.3
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Wan'Dale Robinson
+- Player name: Wan'Dale Robinson
+- Player ID: 8126
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 65.5
+- Dynasty AVI (D-AVI, 0-100): 81.1
+- Projected PPR points: 179.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

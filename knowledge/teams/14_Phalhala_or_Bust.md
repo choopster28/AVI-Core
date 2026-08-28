@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1132141719354535936
 - Division: 3
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-08-25
+- Last updated from Sleeper exports: 2026-08-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -324,7 +324,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: NYJ
 - Active: True
 - Status: Active
-- Age: 22.0
+- Age: 23.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

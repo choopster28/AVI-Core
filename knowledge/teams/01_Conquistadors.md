@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-08-25
+- Last updated from Sleeper exports: 2026-08-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -18,15 +18,15 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - kickers: 1
 - idp: 3
 - other: 0
-- keepers: 3
+- keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 726.4
-- championship_lineup_c_avi_avg: 90.80
-- offensive_roster_c_avi_sum: 1073.3
-- offensive_roster_c_avi_avg: 63.14
-- offensive_roster_d_avi_sum: 1240.0
-- offensive_roster_d_avi_avg: 72.94
+- championship_lineup_c_avi_sum: 749.9
+- championship_lineup_c_avi_avg: 93.74
+- offensive_roster_c_avi_sum: 1122.6
+- offensive_roster_c_avi_avg: 66.04
+- offensive_roster_d_avi_sum: 1258.8
+- offensive_roster_d_avi_avg: 74.05
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Puka Nacua | C-AVI: 99.6 | D-AVI: 99.3
 - WR: George Pickens | C-AVI: 92.8 | D-AVI: 95.3
 - TE: Harold Fannin | C-AVI: 93.1 | D-AVI: 89.5
+- FLEX: Breece Hall | C-AVI: 86.0 | D-AVI: 92.0
 - FLEX: Ladd McConkey | C-AVI: 82.1 | D-AVI: 91.6
-- FLEX: Juwan Johnson | C-AVI: 62.5 | D-AVI: 73.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -110,6 +110,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Breece Hall
+- Player name: Breece Hall
+- Player ID: 8155
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 86.0
+- Dynasty AVI (D-AVI, 0-100): 92.0
+- Projected PPR points: 245.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Tyjae Spears
 - Player name: Tyjae Spears
 - Player ID: 9508
@@ -124,23 +141,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 49.6
 - Dynasty AVI (D-AVI, 0-100): 67.2
 - Projected PPR points: 138.1
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Keaton Mitchell
-- Player name: Keaton Mitchell
-- Player ID: 9511
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 42.7
-- Dynasty AVI (D-AVI, 0-100): 64.9
-- Projected PPR points: 84.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -263,20 +263,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Cyrus Allen
-- Player name: Cyrus Allen
-- Player ID: 13413
+### PLAYER: Xavier Hutchinson
+- Player name: Xavier Hutchinson
+- Player ID: 10218
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: KC
+- NFL team: HOU
 - Active: True
 - Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 25.5
-- Dynasty AVI (D-AVI, 0-100): 52.8
-- Projected PPR points: 43.8
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 31.5
+- Dynasty AVI (D-AVI, 0-100): 44.5
+- Projected PPR points: 89.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

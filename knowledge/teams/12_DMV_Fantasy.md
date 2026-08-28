@@ -8,8 +8,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: TacticsNoob
 - Owner ID: 1129546394534158336
 - Division: 4
-- Waiver position: 14
-- Last updated from Sleeper exports: 2026-08-25
+- Waiver position: 13
+- Last updated from Sleeper exports: 2026-08-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 533.4
-- championship_lineup_c_avi_avg: 66.67
-- offensive_roster_c_avi_sum: 754.4
-- offensive_roster_c_avi_avg: 53.89
-- offensive_roster_d_avi_sum: 970.8
-- offensive_roster_d_avi_avg: 69.34
+- championship_lineup_c_avi_sum: 491.4
+- championship_lineup_c_avi_avg: 61.42
+- offensive_roster_c_avi_sum: 711.1
+- offensive_roster_c_avi_avg: 50.79
+- offensive_roster_d_avi_sum: 943.7
+- offensive_roster_d_avi_avg: 67.41
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jaxson Dart | C-AVI: 82.0 | D-AVI: 82.9
-- RB: Breece Hall | C-AVI: 86.0 | D-AVI: 92.0
 - RB: Tony Pollard | C-AVI: 63.6 | D-AVI: 75.7
+- RB: Rachaad White | C-AVI: 54.4 | D-AVI: 72.1
 - WR: Jalen Coker | C-AVI: 54.3 | D-AVI: 74.1
 - WR: Jauan Jennings | C-AVI: 48.1 | D-AVI: 69.3
 - TE: George Kittle | C-AVI: 84.1 | D-AVI: 83.6
 - FLEX: Brenton Strange | C-AVI: 60.9 | D-AVI: 77.0
-- FLEX: Rachaad White | C-AVI: 54.4 | D-AVI: 72.1
+- FLEX: Antonio Williams | C-AVI: 44.0 | D-AVI: 71.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -76,23 +76,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Breece Hall
-- Player name: Breece Hall
-- Player ID: 8155
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: NYJ
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 86.0
-- Dynasty AVI (D-AVI, 0-100): 92.0
-- Projected PPR points: 245.4
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Tony Pollard
 - Player name: Tony Pollard
 - Player ID: 5967
@@ -124,6 +107,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 54.4
 - Dynasty AVI (D-AVI, 0-100): 72.1
 - Projected PPR points: 161.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Keaton Mitchell
+- Player name: Keaton Mitchell
+- Player ID: 9511
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: LAC
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 42.7
+- Dynasty AVI (D-AVI, 0-100): 64.9
+- Projected PPR points: 84.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

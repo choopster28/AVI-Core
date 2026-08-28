@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-08-25
+- Last updated from Sleeper exports: 2026-08-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 747.8
-- championship_lineup_c_avi_avg: 93.47
-- offensive_roster_c_avi_sum: 1146.2
-- offensive_roster_c_avi_avg: 71.64
-- offensive_roster_d_avi_sum: 1293.3
-- offensive_roster_d_avi_avg: 80.83
+- championship_lineup_c_avi_sum: 743.3
+- championship_lineup_c_avi_avg: 92.91
+- offensive_roster_c_avi_sum: 1128.2
+- offensive_roster_c_avi_avg: 70.51
+- offensive_roster_d_avi_sum: 1292.2
+- offensive_roster_d_avi_avg: 80.76
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 95.9 | D-AVI: 90.5
 - RB: Saquon Barkley | C-AVI: 92.0 | D-AVI: 91.5
 - RB: Jeremiyah Love | C-AVI: 90.1 | D-AVI: 95.4
-- WR: Rashee Rice | C-AVI: 95.7 | D-AVI: 92.4
 - WR: A.J. Brown | C-AVI: 93.4 | D-AVI: 93.4
+- WR: Nico Collins | C-AVI: 91.9 | D-AVI: 95.7
 - TE: Trey McBride | C-AVI: 99.5 | D-AVI: 93.1
-- FLEX: Nico Collins | C-AVI: 91.9 | D-AVI: 95.7
+- FLEX: Rashee Rice | C-AVI: 91.2 | D-AVI: 92.4
 - FLEX: Omarion Hampton | C-AVI: 89.3 | D-AVI: 93.9
 
 ## Current Roster — All Player Cards
@@ -161,23 +161,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Rashee Rice
-- Player name: Rashee Rice
-- Player ID: 10229
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: KC
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 95.7
-- Dynasty AVI (D-AVI, 0-100): 92.4
-- Projected PPR points: 274.1
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: A.J. Brown
 - Player name: A.J. Brown
 - Player ID: 5859
@@ -209,6 +192,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 91.9
 - Dynasty AVI (D-AVI, 0-100): 95.7
 - Projected PPR points: 248.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Rashee Rice
+- Player name: Rashee Rice
+- Player ID: 10229
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 91.2
+- Dynasty AVI (D-AVI, 0-100): 92.4
+- Projected PPR points: 274.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -263,20 +263,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Ryan Flournoy
-- Player name: Ryan Flournoy
-- Player ID: 11783
+### PLAYER: Skyler Bell
+- Player name: Skyler Bell
+- Player ID: 13402
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: DAL
+- NFL team: BUF
 - Active: True
 - Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 38.2
-- Dynasty AVI (D-AVI, 0-100): 60.6
-- Projected PPR points: 89.2
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 24.7
+- Dynasty AVI (D-AVI, 0-100): 59.5
+- Projected PPR points: 28.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

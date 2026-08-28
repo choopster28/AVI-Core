@@ -1428,10 +1428,18 @@
       "Rashee Rice"
     ],
     "avi_id": "AVI-00010229",
-    "c_avi": 95.7,
+    "c_avi": 91.2,
+    "c_avi_risk_adjustment": {
+      "amount": -4.5,
+      "reason": "Current-season availability volatility from meaningful injury history plus off-field risk is not represented by the projection/ranking-only C-AVI inputs.",
+      "review": "Reassess when availability/risk profile materially changes."
+    },
     "canonical_name": "Rashee Rice",
     "components": {
       "age_career_horizon": null,
+      "base_c_avi_before_risk_adjustment": 95.7,
+      "c_avi_risk_adjustment": -4.5,
+      "c_avi_risk_reason": "Current-season availability volatility from meaningful injury history plus off-field risk is not represented by the projection/ranking-only C-AVI inputs.",
       "dynasty_market": 89.35185185185185,
       "elite_upside": 95.9382807214521,
       "health_outlook": null,

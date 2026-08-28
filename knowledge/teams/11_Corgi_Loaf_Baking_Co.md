@@ -8,8 +8,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: awang1900
 - Owner ID: 986498458162970624
 - Division: 3
-- Waiver position: 11
-- Last updated from Sleeper exports: 2026-08-25
+- Waiver position: 16
+- Last updated from Sleeper exports: 2026-08-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 651.9
-- championship_lineup_c_avi_avg: 81.49
-- offensive_roster_c_avi_sum: 996.7
-- offensive_roster_c_avi_avg: 62.29
-- offensive_roster_d_avi_sum: 1220.4
-- offensive_roster_d_avi_avg: 76.28
+- championship_lineup_c_avi_sum: 673.8
+- championship_lineup_c_avi_avg: 84.22
+- offensive_roster_c_avi_sum: 997.6
+- offensive_roster_c_avi_avg: 62.35
+- offensive_roster_d_avi_sum: 1211.1
+- offensive_roster_d_avi_avg: 75.69
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Jaxon Smith-Njigba | C-AVI: 99.1 | D-AVI: 99.5
 - WR: Malik Nabers | C-AVI: 89.5 | D-AVI: 96.0
 - TE: Tyler Warren | C-AVI: 97.3 | D-AVI: 91.5
+- FLEX: DeVonta Smith | C-AVI: 87.4 | D-AVI: 92.4
 - FLEX: DJ Moore | C-AVI: 76.6 | D-AVI: 85.8
-- FLEX: Wan'Dale Robinson | C-AVI: 65.5 | D-AVI: 81.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -127,23 +127,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Dylan Sampson
-- Player name: Dylan Sampson
-- Player ID: 12469
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: CLE
-- Active: True
-- Status: Active
-- Age: 21.0
-- Championship AVI (C-AVI, 0-100): 47.1
-- Dynasty AVI (D-AVI, 0-100): 67.6
-- Projected PPR points: 108.6
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Mike Washington
 - Player name: Mike Washington
 - Player ID: 13305
@@ -161,20 +144,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Emmett Johnson
-- Player name: Emmett Johnson
-- Player ID: 13337
+### PLAYER: Kimani Vidal
+- Player name: Kimani Vidal
+- Player ID: 11647
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: KC
+- NFL team: LAC
 - Active: True
 - Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 36.8
-- Dynasty AVI (D-AVI, 0-100): 65.8
-- Projected PPR points: 46.4
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 37.4
+- Dynasty AVI (D-AVI, 0-100): 60.0
+- Projected PPR points: 59.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -229,6 +212,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: DeVonta Smith
+- Player name: DeVonta Smith
+- Player ID: 7525
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 87.4
+- Dynasty AVI (D-AVI, 0-100): 92.4
+- Projected PPR points: 236.9
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: DJ Moore
 - Player name: DJ Moore
 - Player ID: 4983
@@ -243,23 +243,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 76.6
 - Dynasty AVI (D-AVI, 0-100): 85.8
 - Projected PPR points: 208.5
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Wan'Dale Robinson
-- Player name: Wan'Dale Robinson
-- Player ID: 8126
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: TEN
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 65.5
-- Dynasty AVI (D-AVI, 0-100): 81.1
-- Projected PPR points: 179.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -290,10 +273,27 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: NYG
 - Active: True
 - Status: Active
-- Age: 22.0
+- Age: 23.0
 - Championship AVI (C-AVI, 0-100): 33.2
 - Dynasty AVI (D-AVI, 0-100): 63.6
 - Projected PPR points: 59.7
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Cyrus Allen
+- Player name: Cyrus Allen
+- Player ID: 13413
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 25.5
+- Dynasty AVI (D-AVI, 0-100): 52.8
+- Projected PPR points: 43.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
