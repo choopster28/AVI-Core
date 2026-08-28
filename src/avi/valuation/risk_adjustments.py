@@ -18,6 +18,10 @@ def apply_cavi_risk_adjustments() -> dict[str, Any]:
     represented in the projection/ranking-only C-AVI inputs. They are applied
     after the base model runs and before downstream team/player reports are
     generated, so every consumer sees the same adjusted value.
+
+    The operation is idempotent. If the same adjustment has already been
+    applied, the stored pre-adjustment C-AVI is reused rather than subtracting
+    the adjustment a second time.
     """
     if not AVI_PLAYERS_PATH.exists() or not RISK_ADJUSTMENTS_PATH.exists():
         return {"status": "skipped", "applied": []}
@@ -46,17 +50,29 @@ def apply_cavi_risk_adjustments() -> dict[str, Any]:
             continue
 
         raw_adjustment = adjustment.get("c_avi_adjustment")
+        components = player.setdefault("components", {})
+
         try:
             delta = float(raw_adjustment)
-            base = float(player.get("c_avi"))
+            current = float(player.get("c_avi"))
         except (TypeError, ValueError):
             raise RuntimeError(
                 f"Invalid C-AVI risk adjustment for {player.get('canonical_name') or player.get('avi_id')}."
             )
 
+        base = current
+        if isinstance(components, dict):
+            stored_base = components.get("base_c_avi_before_risk_adjustment")
+            stored_delta = components.get("c_avi_risk_adjustment")
+            try:
+                if stored_base is not None and stored_delta is not None and float(stored_delta) == delta:
+                    base = float(stored_base)
+            except (TypeError, ValueError):
+                base = current
+
         adjusted = round(clamp(base + delta), 1)
         player["c_avi"] = adjusted
-        components = player.setdefault("components", {})
+
         if isinstance(components, dict):
             components["base_c_avi_before_risk_adjustment"] = round(base, 1)
             components["c_avi_risk_adjustment"] = round(delta, 1)
