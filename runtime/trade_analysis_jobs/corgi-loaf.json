@@ -1,5 +1,40 @@
 [
   {
+    "id": "mtdchors-54fb6424",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Crimson Tide Pods",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Alec Pierce",
+            "assetType": "player"
+          }
+        ]
+      },
+      "personalContext": "Who would you replace Alec with"
+    },
+    "createdAt": 1787945339009,
+    "updatedAt": 1787945339009,
+    "expiresAt": 1788377339009,
+    "status": "queued"
+  },
+  {
     "id": "mtd5evqo-b2f63018",
     "phase": "initial",
     "mode": "analyze_trade",
