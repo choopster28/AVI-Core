@@ -63,13 +63,33 @@ jobs:
         continue-on-error: true
         run: python -m avi.cli daily-update
 
+      - name: Apply saved manual C-AVI adjustments
+        if: always() && steps.tests.outcome == 'success'
+        run: |
+          python - <<'PY'
+          from avi.valuation.risk_adjustments import apply_cavi_risk_adjustments
+          result = apply_cavi_risk_adjustments()
+          print(result)
+          PY
+
+      - name: Refresh website-facing AVI reports
+        if: always() && steps.tests.outcome == 'success'
+        continue-on-error: true
+        run: |
+          python - <<'PY'
+          from avi.reports.team_profiles import build_team_profiles
+          from avi.reports.player_lookup import build_player_lookup
+          build_team_profiles()
+          build_player_lookup()
+          PY
+
       - name: Report update result
         if: always() && steps.tests.outcome == 'success'
         run: |
           echo "Daily update outcome: ${{ steps.daily_update.outcome }}"
 
           if [ "${{ steps.daily_update.outcome }}" = "failure" ]; then
-            echo "::warning::The complete AVI daily update did not finish. Successfully written files will still be uploaded and committed."
+            echo "::warning::The complete AVI daily update did not finish. Successfully written files plus saved manual C-AVI adjustments will still be uploaded and committed."
           fi
 
       - name: Upload complete AVI snapshot
