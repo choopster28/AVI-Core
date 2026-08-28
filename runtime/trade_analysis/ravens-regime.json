@@ -1,5 +1,356 @@
 [
   {
+    "id": "mtd0dufy-943a1553",
+    "createdAt": 1787925019687,
+    "expiresAt": 1788357019687,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Conquistadors ↔ Ravens Regime",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Add Dynasty Value",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        },
+        {
+          "name": "Jordyn Tyson",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 2nd · Ravens · Projected mid range (2.06–2.09)",
+          "assetType": "pick"
+        },
+        {
+          "name": "2029 1st · Ravens · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "what should ravens regime adjust in the offer to acquire Achane"
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Responding to the user's inquiry regarding how Ravens Regime should adjust their offer to acquire De'Von Achane: the baseline package requested by Conquistadors was an unsustainable overreach. To make an acquisition realistic, Ravens Regime should drop Jordyn Tyson from the outbound package entirely. A fair and balanced package centered on trading Derrick Henry and a 2029 1st-round pick for De'Von Achane successfully bridges the gap between Conquistadors' win-now championship needs and Ravens Regime's long-term RB window.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.3,
+              "davi": 96.5,
+              "publicMarket": 90,
+              "leagueMarket": 95
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.1,
+              "davi": 88,
+              "publicMarket": 85,
+              "leagueMarket": 90
+            },
+            {
+              "name": "2029 1st · Ravens · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Ravens Regime ",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "D+",
+            "userShare": 68,
+            "otherShare": 32,
+            "advantageFranchise": "Conquistadors",
+            "summary": "The submitted package is heavily slanted toward Conquistadors. Receiving Derrick Henry (93.1 C-AVI) allows Conquistadors to maintain elite RB2 production alongside Bijan Robinson, while simultaneously extracting Jordyn Tyson (83.6 D-AVI), a 2029 1st (79.3 D-AVI), and a 2028 2nd (48.5 D-AVI)."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Conquistadors",
+            "summary": "The recommended revision removes Jordyn Tyson from the ask, aligning with what Ravens Regime should adjust to make the trade feasible. Conquistadors sends De'Von Achane for Derrick Henry and a 2029 1st, providing long-term capital and a win-now RB2 replacement."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 35,
+              "summary": "Net strategic positive for Conquistadors: secures major future liquidity while keeping starting lineup baseline strong with Derrick Henry."
+            },
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Slight current-year drop at RB2 switching from De'Von Achane to Derrick Henry, but remains a premier title contender."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Substantial long-term boost driven by the addition of future draft capital."
+            },
+            "lineupQuality": {
+              "score": -5,
+              "summary": "Minor downgrade at RB2, with no change to WR/TE starting slots."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Replaces backfield depth with high-value future trade assets."
+            },
+            "flexibilityLiquidity": {
+              "score": 75,
+              "summary": "Massive increase in trade liquidity with 2029 1st-round draft capital."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 15,
+              "summary": "Balanced transaction for Ravens Regime, securing a 24-year-old foundational RB1 without decimating WR depth or draft inventory."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Upgrades RB1 from age-32 Derrick Henry to age-24 De'Von Achane."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Adds an elite long-term offensive centerpiece while retaining top rookie depth like Jordyn Tyson."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Immediate enhancement at starting RB1."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Maintains receiver depth by protecting Jordyn Tyson from inclusion."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Forfeits a single future 1st-round pick."
+            }
+          },
+          "explanation": "Visual impact reflects a calibrated transaction where Ravens Regime protects rookie depth (Tyson) and draft flexibility while successfully landing a franchise runner."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Conquistadors shifts RB2 from De'Von Achane to Derrick Henry. Henry preserves Conquistadors' status as a Champion Favorite while filling the starting lineup cleanly.",
+          "sideADynastyImpact": "Achane is a prime 24-year-old dynasty cornerstone. Gaining a 2029 1st-round pick generates a solid long-term value balance when combined with an elite redraft producer in Henry.",
+          "sideARosterImpact": "Roster composition shifts toward future flexibility while preserving current-year championship competitiveness.",
+          "sideBChampionshipImpact": "Ravens Regime upgrades starting RB1 from Henry to Achane, elevating their weekly ceiling during their Playoff Push.",
+          "sideBDynastyImpact": "Acquiring Achane gives Ravens Regime a 24-year-old franchise RB1 paired with Lamar Jackson without overpaying in draft picks or young receiver talent.",
+          "sideBRosterImpact": "Ravens Regime secures a top-tier young RB anchor while retaining necessary WR depth and draft capital.",
+          "valueAssessment": "Dropping Jordyn Tyson from the package creates a fair market trade that both front offices can execute."
+        },
+        "publicMarketAnalysis": {
+          "summary": "De'Von Achane is valued as an elite top-6 dynasty RB due to age and high-efficiency production. Derrick Henry remains a top win-now RB, and Jordyn Tyson is recovering from a minor hamstring strain, making him a valuable retool hold.",
+          "aviVsMarket": "Public markets heavily discount Henry for age, while AVI reflects his premier 2026 redraft volume. Protecting Tyson keeps him out of lopsided trade proposals.",
+          "relevantContext": [
+            "Derrick Henry under contract through 2027 in Baltimore.",
+            "Jordyn Tyson recovering from a right hamstring strain.",
+            "De'Von Achane entering his age-24 season with elite PPR upside."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime's goal is to Increase Championship Odds (Playoff Push). Moving Derrick Henry for De'Von Achane accomplishes their long-term RB objective without requiring an excessive asset sacrifice.",
+          "packageFit": "Achane fits Ravens Regime's window perfectly. Dropping Tyson removes the primary bottleneck that would have caused a rejection.",
+          "lineupReplacement": "Achane replaces Derrick Henry directly in Ravens Regime's starting lineup at RB1.",
+          "competitiveWindowFit": "Achane extends Ravens Regime's competitive window by 5+ years at running back.",
+          "positionalScarcity": "Young elite starting RBs carry extreme premium value in 16-team formats, justifying the 1st-round pick cost."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 85,
+          "classification": "Realistic",
+          "explanation": "By removing Jordyn Tyson and structuring the deal around Henry and a 2029 1st, the proposal aligns with Ravens Regime's competitive window and manager motivation, making it a highly realistic trade target."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Ravens Regime should adjust their side of the ledger by refusing to include Jordyn Tyson alongside future picks. The optimized package of Derrick Henry and a 2029 1st-round pick for De'Von Achane successfully satisfies both teams' organizational goals.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.3,
+              "davi": 96.5,
+              "publicMarket": 90,
+              "leagueMarket": 95
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.1,
+              "davi": 88,
+              "publicMarket": 85,
+              "leagueMarket": 90
+            },
+            {
+              "name": "2029 1st · Ravens · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Ravens Regime ",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "Secures a high-end RB2 for the championship run while acquiring valuable future 1st-round draft capital.",
+          "whyOpponentMightAccept": "Acquires an elite 24-year-old cornerstone running back to pair with Lamar Jackson without gutting future draft picks and receiver depth."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "The user asked how Ravens Regime should adjust their offer to acquire Achane. AVI applied this context by evaluating what package adjustments make the deal feasible for Ravens Regime—specifically removing rookie WR Jordyn Tyson and structuring a balanced offer around Derrick Henry and a 2029 1st-round pick."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jordyn Tyson college football stats NFL draft",
+          "Derrick Henry news 2026",
+          "Jordyn Tyson wide receiver NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG4-ndrrI2YVjzgJdUfbqarZ8ccDPKF2qZEa_MYOINc2Wx1EOSX3g1ZGHMKK-fBQJweZnDTeJzDmMx7dVmiRCC4TK7oXc0TQ1uxmWOBELAzfrPm1AQzeu37jWBC8XQLscvvwRa49pDRbl-1HyoeHbZYCD_dWA=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm1AESS7oRJAAZt6r9_xfT6XMV1mTIxjlN9AJgC43c2HmyrCSi8Zj7FowbIYtaKNumMAz7m8rW3yuSKIhZV_N0qXRmkUE6lWaocrWo0Uhaxqc9j7FwB6VrmRf-QHN1U5_efVIH6ee48XbkvfC_4OxHVtrwoAUs1Wv1SeN58Mh3pvSXuQZ37qkD3WBdY1hBwrCU5g08hYpxqkWD5ljLug==",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbToFOhrjxl7uekxsboM_t86hBUFrVP-oElDPPcQR6tWSl3XeonqRxB4xhZrQ9hHk74I9pR1l2I6jgPy91GqGcocBZNa15i-SVJ3uHozwnOVNofnWi9zitB_OWyiZaVeZ1j-wD1VfqC8NaO6XPdZNf4Qz8iBGUT9jGUtf_KEPDcjFOEIC7LKtCECF1JfA=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbBeeff7140IuLAISsEEs5CosNq2Tda9s9_PQspNoj4Nvsd1fFcI62j6hrM4gxbTuKyACdbBQnRDUWR-0i9OUmvLrdiPMFhTt7RKwIDnyqjyyBYLh_fAUMkVymbqLoSbt9cwYmxVIn4BFOfLOUwmvNSy4Y5O9mdn8zLs7clxN0krv9tPqMNrFdQ17UF7fQIIOrlhQLeRqojY8HhmMNfVeKjTJmJuobjfKEixpwtBvEhGWNqr3xO4NwMI4GKHo2U5nbOqX0MBs=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKNY1w3Y123JV2UHcUMGBcC6y8kISk1z9bC_0ur5yiZikTaMbhe1o1YTmvDwCibETuvP7GZl9i8Di6JKRno5iME5304yWzIUq-Hp5QELUmoiYQWb5KuDXzRKSARg51xGE=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNgQze1o2s18O9QaUWQMPez0XfByj8YcOKoIE_TTQyZjTzs8FnTayAS_pC7DmwJNRh85v9KeusmINUCZMVjqoAe3PPFWIu7-oo0OrFpDU2LapmxlYJCwd9OS1LPZGQwR-W",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjbnGRuzbfIOsd-aETKBNT1O38Js9tOFhGY-b_W_My8ofHJbmBg6VJh8D110V2WBBL4m1RJcUkdiEpjhNrug5SlCMcbZs3egvNsCyq2siHUn3sS_70VR3n_yUDb0j3TLBE",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeFh_3-HF2zesvbSSHD8bKwZxFO15Mhb6iFz9di_nbtd-cnwzGXWVy7tN8mQ4HgFZ_oi6aDdCIPSrBFISWCUJH6uvLO6rShjS7D-6IOwvYBHFfn1jVmvaY4EPg998mWAyOG5geiLthfN88i1Xg-ZieYTUE3O8wsgybCmaGuld6FEVM-C5FT1TYtR_5MILic7AO91ommGQ9dC3DDHI0gixHAJU=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-uyDo5ADTgPt668QOg7oF3V7bRWF1WbY2uhKzmfcS_-J5v5xX_erkbaWdg0nVg5xaiC0nhTm9y1BMPecbVuSarJVj5TBeWQ6FIrNV2hYkeFaz-rS7-qpsXQuEALEy8iyrvLMmEGADDmoCSmLu8_YVOvX6nC9wvAPuzwuPu6YqUKAknyS-",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy_tvFVo4XpOFVmCwRBqo0agygRG_Ue5k3qccF9_0R1_oO9UTtbGSb1nlJS8uWXXug8A8zV2tz_QV0EVDk_nzQdmj73Thgz17qgY2WWQZXOeRlR0z2mwitW5ORmW3uEXNN",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEujHQF9t7DD-Xa7MY62wAyjzTI6YwFqfCyfFazpN-dsq6sNEWNHhCWDh1lgZuZVcXCUmlN2cV-9WzBc8gH1c_h0rG2IWVa_cckPUic8AhCZ8xs6Yh1A6L4SR6UM8eC-Vt3YF70eOTL6H4TbGQyx2fbXSyu4Fr1bLu1a-1f0nzHIeNi6mhwbE8Bd6mWztgotsbqyjXnGjqglmI0VN4Nzkl_Gt1Rf7bqjdu",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a2c538f22a7decfd5478dee808af9f285a5604cf",
+        "aviCoreCommittedAt": "2026-08-28T13:01:55Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82593,
+        "groundedMarketChars": 2548,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mtd0ax02-a66c1b2e",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "a2c538f22a7decfd5478dee808af9f285a5604cf"
+      }
+    }
+  },
+  {
     "id": "mtd0ax02-a66c1b2e",
     "createdAt": 1787924954025,
     "expiresAt": 1788356954025,
