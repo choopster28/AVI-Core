@@ -4159,6 +4159,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "28175",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "WAS",
+    "player_name": "Drew Stevens",
+    "position": "K",
+    "sleeper_id": "13968"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "28297",
     "match_method": "exact_name_position_unique",
     "nfl_team": "PIT",

@@ -1,5 +1,10 @@
 {
   "count": "83",
+  "experts": [
+    71,
+    11,
+    152
+  ],
   "players": [
     {
       "filename": "josh-allen-qb.php",

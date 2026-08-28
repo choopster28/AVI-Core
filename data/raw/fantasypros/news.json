@@ -1,7 +1,25 @@
 {
-  "count": 24,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Diego Sandoval",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-27 23:07:52",
+      "created_formated": "Thu, Aug 27th 11:07pm UTC",
+      "desc": "TreVeyon Henderson is expected to be \"good to go\" for Week 1 as he continues to recover from an ankle injury.",
+      "id": 604478,
+      "impact": "Henderson has missed practice this week and did not travel with the team to their final preseason game, but it seems to be a precautionary measure. The running back seems to be behind veteran Rhamondre Stevenson in the New England depth chart, but he could earn more playing time as the season goes on if he is healthy.",
+      "link": "https://www.fantasypros.com/nfl/news/604478/treveyon-henderson-ankle-expected-to-be-good-to-go-week-1.php",
+      "player_id": 23065,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "TreVeyon Henderson (ankle) expected to be \"good to go\" for Week 1"
+    },
     {
       "author": "Garrett Ball",
       "categories": [

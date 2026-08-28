@@ -1,5 +1,10 @@
 {
   "count": "122",
+  "experts": [
+    71,
+    11,
+    152
+  ],
   "players": [
     {
       "filename": "trey-mcbride.php",

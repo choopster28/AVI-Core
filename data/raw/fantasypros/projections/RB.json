@@ -1,5 +1,10 @@
 {
   "count": "130",
+  "experts": [
+    71,
+    11,
+    152
+  ],
   "players": [
     {
       "filename": "jahmyr-gibbs.php",
