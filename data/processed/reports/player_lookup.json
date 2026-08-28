@@ -843,18 +843,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00013402",
-      "c_avi": 24.7,
-      "d_avi": 59.5,
-      "nfl_team": "BUF",
-      "player_name": "Skyler Bell",
-      "position": "WR",
-      "sleeper_id": "13402",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012500",
       "c_avi": 24.4,
       "d_avi": 46.2,
@@ -934,6 +922,18 @@
       "player_name": "Kendrick Bourne",
       "position": "WR",
       "sleeper_id": "4454",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013424",
+      "c_avi": 23.6,
+      "d_avi": 49.5,
+      "nfl_team": "IND",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "sleeper_id": "13424",
       "status": "Active"
     },
     {
@@ -5625,15 +5625,15 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00013424",
-      "c_avi": 23.6,
-      "d_avi": 49.5,
-      "nfl_team": "IND",
+      "avi_id": "AVI-00013402",
+      "c_avi": 24.7,
+      "d_avi": 59.5,
+      "nfl_team": "BUF",
       "owner_id": "863881053000011776",
-      "player_name": "Seth McGowan",
-      "position": "RB",
+      "player_name": "Skyler Bell",
+      "position": "WR",
       "roster_id": 9,
-      "sleeper_id": "13424",
+      "sleeper_id": "13402",
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
