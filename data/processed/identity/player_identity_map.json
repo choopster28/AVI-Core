@@ -667,6 +667,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "17508",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Durham Smythe",
+    "position": "TE",
+    "sleeper_id": "5008"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "17527",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NO",
@@ -781,15 +790,6 @@
     "player_name": "Devin Singletary",
     "position": "RB",
     "sleeper_id": "6130"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "18283",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Miles Sanders",
-    "position": "RB",
-    "sleeper_id": "6151"
   },
   {
     "confidence": "verified",
@@ -1150,15 +1150,6 @@
     "player_name": "Adam Trautman",
     "position": "TE",
     "sleeper_id": "6869"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "19471",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NO",
-    "player_name": "Ty Chandler",
-    "position": "RB",
-    "sleeper_id": "8230"
   },
   {
     "confidence": "verified",
@@ -2107,6 +2098,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "23167",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DAL",
+    "player_name": "Michael Trigg",
+    "position": "TE",
+    "sleeper_id": "13401"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23179",
     "match_method": "exact_name_position_unique",
     "nfl_team": "TB",
@@ -2158,6 +2158,15 @@
     "player_name": "Kenny Gainwell",
     "position": "RB",
     "sleeper_id": "7567"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "23341",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Brock Wright",
+    "position": "TE",
+    "sleeper_id": "7891"
   },
   {
     "confidence": "verified",
@@ -2575,15 +2584,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "25267",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DAL",
-    "player_name": "Luke Schoonmaker",
-    "position": "TE",
-    "sleeper_id": "10871"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "25269",
     "match_method": "exact_name_position_unique",
     "nfl_team": "HOU",
@@ -2671,6 +2671,15 @@
     "player_name": "Chase Brown",
     "position": "RB",
     "sleeper_id": "9224"
+  },
+  {
+    "confidence": "review",
+    "fantasypros_id": "25329",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Kenny McIntosh",
+    "position": "RB",
+    "sleeper_id": "10216"
   },
   {
     "confidence": "verified",
@@ -3472,15 +3481,6 @@
     "player_name": "Luther Burden III",
     "position": "WR",
     "sleeper_id": "12519"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "27045",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "TEN",
-    "player_name": "Kalel Mullings",
-    "position": "RB",
-    "sleeper_id": "12516"
   },
   {
     "confidence": "verified",

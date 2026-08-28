@@ -2470,12 +2470,12 @@
     },
     {
       "average": 0,
-      "filename": "jacoby-jones-lb.php",
+      "filename": "jacoby-jones-wr.php",
       "games": 2,
       "player_id": 24289,
       "player_name": "Jacoby Jones",
       "points": 0,
-      "position_id": "LB",
+      "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
         "1": 0,

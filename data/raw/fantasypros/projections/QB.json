@@ -607,6 +607,36 @@
       "team_id": "IND"
     },
     {
+      "filename": "jordan-love.php",
+      "fpid": 19246,
+      "mflid": 14782,
+      "name": "Jordan Love",
+      "position_id": "QB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 2.98,
+        "pass_att": 511.42,
+        "pass_cmp": 331.59,
+        "pass_ints": 10.23,
+        "pass_tds": 26.67,
+        "pass_yds": 3846.17,
+        "pass_yds_300": 0,
+        "pass_yds_400": 0,
+        "points": 270.61,
+        "points_half": 270.61,
+        "points_ppr": 270.61,
+        "ret_tds": 0,
+        "rush_att": 48.79,
+        "rush_tds": 0.98,
+        "rush_yds": 204.21,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "GB"
+    },
+    {
       "filename": "malik-willis.php",
       "fpid": 23499,
       "mflid": 15694,
@@ -635,36 +665,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "MIA"
-    },
-    {
-      "filename": "jordan-love.php",
-      "fpid": 19246,
-      "mflid": 14782,
-      "name": "Jordan Love",
-      "position_id": "QB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 2.98,
-        "pass_att": 511.42,
-        "pass_cmp": 331.59,
-        "pass_ints": 10.23,
-        "pass_tds": 26.67,
-        "pass_yds": 3846.17,
-        "pass_yds_300": 0,
-        "pass_yds_400": 0,
-        "points": 267.68,
-        "points_half": 267.68,
-        "points_ppr": 267.68,
-        "ret_tds": 0,
-        "rush_att": 46.46,
-        "rush_tds": 0.64,
-        "rush_yds": 194.88,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "GB"
     },
     {
       "filename": "sam-darnold.php",

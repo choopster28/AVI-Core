@@ -3,126 +3,21 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-27 23:07:52",
-      "created_formated": "Thu, Aug 27th 11:07pm UTC",
-      "desc": "TreVeyon Henderson is expected to be \"good to go\" for Week 1 as he continues to recover from an ankle injury.",
-      "id": 604478,
-      "impact": "Henderson has missed practice this week and did not travel with the team to their final preseason game, but it seems to be a precautionary measure. The running back seems to be behind veteran Rhamondre Stevenson in the New England depth chart, but he could earn more playing time as the season goes on if he is healthy.",
-      "link": "https://www.fantasypros.com/nfl/news/604478/treveyon-henderson-ankle-expected-to-be-good-to-go-week-1.php",
-      "player_id": 23065,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "TreVeyon Henderson (ankle) expected to be \"good to go\" for Week 1"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Breaking"
-      ],
-      "created": "2026-08-27 20:56:28",
-      "created_formated": "Thu, Aug 27th 8:56pm UTC",
-      "desc": "Josh Jacobs has been charged with two misdemeanors following an incident in May. His initial court date is set for mid-November. The NFL is conducting its own investigation, and a suspension could soon follow.",
-      "id": 604455,
-      "impact": "It's important to remember that the NFL has the ability to either suspend Jacobs at the start of the season or wait until the legal process is over. If they wait, then Jacobs will likely not face suspension until next year. If not, we could be looking at a potential 6-8 game absence, though that is more of an educated guess at this point. For anyone taking Jacobs in drafts right now, Marshawn Lloyd is a must-have handcuff and is a great target for Zero-RB builds.",
-      "link": "https://www.fantasypros.com/nfl/news/604455/josh-jacobs-charged-with-two-misdemeanors-following.php",
-      "player_id": 18269,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Josh Jacobs charged with two misdemeanors stemming from May incident"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-27 18:58:04",
-      "created_formated": "Thu, Aug 27th 6:58pm UTC",
-      "desc": "Tutu Atwell has been traded to the Los Angeles Rams for Jarquez Hunter.",
-      "id": 604449,
-      "impact": "Either the Dolphins got a good enough look at Tutu to feel fine letting him go, or the Rams are bracing for a potential Puka Nacua suspension and wanted to bring in a familiar face. Or both could be true. Either way, it's not a good look for Atwell that he made himself expendable on a team desperate for receivers. However, it's about as favorable a spot as he could've landed on.",
-      "link": "https://www.fantasypros.com/nfl/news/604449/tutu-atwell-traded-to-los-angeles-rams.php",
-      "player_id": 20126,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Tutu Atwell traded to the Los Angeles Rams"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-27 17:25:47",
-      "created_formated": "Thu, Aug 27th 5:25pm UTC",
-      "desc": "Braden Smith suffered an injury to his plantar fascia and could miss \"a few weeks.\"",
-      "id": 604446,
-      "impact": "Smith suffered the injury in practice earlier this week. It is not considered a long-term issue, but his status for Week 1 is uncertain. ",
-      "link": "https://www.fantasypros.com/nfl/news/604446/braden-smith-plantar-fascia-to-miss-few-weeks.php",
-      "player_id": 17317,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Braden Smith (plantar fascia) to miss a few weeks"
-    },
-    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News"
       ],
-      "created": "2026-08-27 17:24:01",
-      "created_formated": "Thu, Aug 27th 5:24pm UTC",
-      "desc": "The Eagles signed Tahj Washington.",
-      "id": 604445,
-      "impact": "Miami released Washington earlier this week. He will compete for a depth role in the Eagles wide receiver room. ",
-      "link": "https://www.fantasypros.com/nfl/news/604445/tahj-washington-signs-with-eagles.php",
-      "player_id": 26397,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Tahj Washington signs with Eagles "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-27 17:23:04",
-      "created_formated": "Thu, Aug 27th 5:23pm UTC",
-      "desc": "The Steelers restructured DK Metcalf's contract.",
-      "id": 604444,
-      "impact": "The move creates nearly $18 million in cap space for Pittsburgh. ",
-      "link": "https://www.fantasypros.com/nfl/news/604444/dk-metcalf-restructures-contract-with-steelers.php",
-      "player_id": 18219,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "DK Metcalf restructures contract with Steelers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-27 17:22:06",
-      "created_formated": "Thu, Aug 27th 5:22pm UTC",
-      "desc": "The Seahawks signed Leonard Williams to a three-year, $90 million contract extension.",
-      "id": 604442,
-      "impact": "Williams has dominated in his two years since joining the Seahawks. He remains one of the top defensive lineman in football. ",
-      "link": "https://www.fantasypros.com/nfl/news/604442/leonard-williams-signs-three-year-extension-with-seahawks.php",
-      "player_id": 13892,
+      "created": "2026-08-28 17:03:24",
+      "created_formated": "Fri, Aug 28th 5:03pm UTC",
+      "desc": "The Seahawks claimed OL Kellen Diesch off waivers. ",
+      "id": 604534,
+      "impact": "Diesch was previously waived by the Chiefs. ",
+      "link": "https://www.fantasypros.com/nfl/news/604534/kellen-diesch-claimed-by-seahawks.php",
+      "player_id": 23777,
       "sport_id": "NFL",
       "team_id": "SEA",
-      "title": "Leonard Williams signs three-year extension with Seahawks "
+      "title": "Kellen Diesch claimed by Seahawks "
     },
     {
       "author": "Ari Koslow",
@@ -131,34 +26,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-08-27 17:19:41",
-      "created_formated": "Thu, Aug 27th 5:19pm UTC",
-      "desc": "Bears coach Ben Johnson is dealing with a hamstring injury. ",
-      "id": 604441,
-      "impact": "Dexter did not travel with the team for their preseason finale against the Titans. His status for Week 1 is uncertain. ",
-      "link": "https://www.fantasypros.com/nfl/news/604441/gervon-dexter-sr-dealing-with-hamstring-injury.php",
-      "player_id": 25246,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Gervon Dexter Sr. dealing with hamstring injury "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-27 17:17:12",
-      "created_formated": "Thu, Aug 27th 5:17pm UTC",
-      "desc": "Lions coach Dan Campbell said Isiah Pacheco is dealing with a back injury in addition to his MCL sprain.",
-      "id": 604438,
-      "impact": "Pacheco remains without a clear timetable to return. The Lions recently worked out Kareem Hunt. ",
-      "link": "https://www.fantasypros.com/nfl/news/604438/isiah-pacheco-dealing-with-back-injury-addition-to-mcl-sprain.php",
-      "player_id": 24333,
+      "created": "2026-08-28 17:02:27",
+      "created_formated": "Fri, Aug 28th 5:02pm UTC",
+      "desc": "DB Christian Izien is dealing with an undisclosed injury and might not be available Week 1. ",
+      "id": 604533,
+      "impact": "It is not a long-term concern for Izien. ",
+      "link": "https://www.fantasypros.com/nfl/news/604533/christian-izien-undisclosed-might-not-be-available-week-1.php",
+      "player_id": 25867,
       "sport_id": "NFL",
       "team_id": "DET",
-      "title": "Isiah Pacheco dealing with back injury in addition to MCL sprain "
+      "title": "Christian Izien (undisclosed) might not be available Week 1"
     },
     {
       "author": "Ari Koslow",
@@ -166,123 +43,121 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-08-27 16:34:05",
-      "created_formated": "Thu, Aug 27th 4:34pm UTC",
-      "desc": "The Packers signed TE Jonnu Smith to a one-year contract. ",
-      "id": 604413,
-      "impact": "Smith finally finds a new landing spot heading into the season. He'll add depth in the Packers tight end room behind Tucker Kraft. ",
-      "link": "https://www.fantasypros.com/nfl/news/604413/jonnu-smith-signs-one-year-deal-with-packers.php",
-      "player_id": 16460,
+      "created": "2026-08-28 17:00:56",
+      "created_formated": "Fri, Aug 28th 5:00pm UTC",
+      "desc": "The Colts signed CB Kenneth Harris. ",
+      "id": 604532,
+      "impact": "Harris will compete for a depth role in the Colts secondary. ",
+      "link": "https://www.fantasypros.com/nfl/news/604532/kenneth-harris-signs-with-colts.php",
+      "player_id": 28818,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Kenneth Harris signs with Colts"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 17:00:04",
+      "created_formated": "Fri, Aug 28th 5:00pm UTC",
+      "desc": "The Dolphins signed RB Coleman Bennett. ",
+      "id": 604531,
+      "impact": "Bennett will add depth in the backfield for Miami. ",
+      "link": "https://www.fantasypros.com/nfl/news/604531/coleman-bennett-signs-with-dolphins.php",
+      "player_id": 28712,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Coleman Bennett signs with Dolphins "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-28 16:58:12",
+      "created_formated": "Fri, Aug 28th 4:58pm UTC",
+      "desc": "The Seahawks placed Bud Clark on injured reserve. ",
+      "id": 604530,
+      "impact": "Clark will miss his entire rookie season after suffering a broken ankle. ",
+      "link": "https://www.fantasypros.com/nfl/news/604530/bud-clark-ankle-placed-on-ir.php",
+      "player_id": 28212,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Bud Clark (ankle) placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:57:06",
+      "created_formated": "Fri, Aug 28th 4:57pm UTC",
+      "desc": "The Commanders released Foster Sarell. ",
+      "id": 604529,
+      "impact": "Sarell will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/604529/foster-sarell-released-by-commanders.php",
+      "player_id": 22832,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Foster Sarell released by Commanders "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-28 16:52:58",
+      "created_formated": "Fri, Aug 28th 4:52pm UTC",
+      "desc": "The Lions placed LB Damone Clark on injured reserve. ",
+      "id": 604528,
+      "impact": "Clark is likely to miss the entirety of the upcoming season. ",
+      "link": "https://www.fantasypros.com/nfl/news/604528/damone-clark-placed-on-ir.php",
+      "player_id": 23801,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Damone Clark placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:52:13",
+      "created_formated": "Fri, Aug 28th 4:52pm UTC",
+      "desc": "The Lions signed OL Gus Hartwig. ",
+      "id": 604527,
+      "impact": "Hartwig will add depth on the offensive line for Detroit. ",
+      "link": "https://www.fantasypros.com/nfl/news/604527/gus-hartwig-signs-with-lions.php",
+      "player_id": 27864,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Gus Hartwig signs with Lions "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-28 16:49:41",
+      "created_formated": "Fri, Aug 28th 4:49pm UTC",
+      "desc": "The 49ers and Xavier Thomas reached an agreement on an injury settlement. ",
+      "id": 604526,
+      "impact": "Thomas had reverted back to IR. He'll be able to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/604526/xavier-thomas-49ers-reach-injury-settlement.php",
+      "player_id": 23476,
       "sport_id": "NFL",
       "team_id": "FA",
-      "title": "Jonnu Smith signs one-year deal with Packers "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-27 14:47:44",
-      "created_formated": "Thu, Aug 27th 2:47pm UTC",
-      "desc": "Cedric Tillman was released by the Browns on Thursday. ",
-      "id": 604404,
-      "impact": "A third-round pick back in 2023, Tillman has failed to really do much of note for the Browns' offense over the last three seasons. The former University of Tennessee standout will now look to catch on with a different team. ",
-      "link": "https://www.fantasypros.com/nfl/news/604404/cedric-tillman-released-by-browns.php",
-      "player_id": 25287,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Cedric Tillman released by Browns "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-27 14:42:00",
-      "created_formated": "Thu, Aug 27th 2:42pm UTC",
-      "desc": "Alec Pierce (ankle) was activated from the PUP list on Thursday. ",
-      "id": 604403,
-      "impact": "Pierce has been rehabbing from surgery back in March. The big-play wideout will finally join the Colts at practice in hopes of being ready to go for Week 1. Pierce eclipsed 1,000 yards receiving for the first time in his career last season and has led the NFL in yards per catch each of the last two years. ",
-      "link": "https://www.fantasypros.com/nfl/news/604403/alec-pierce-ankle-activated-from-pup-list.php",
-      "player_id": 23791,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Alec Pierce (ankle) activated from PUP list"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 23:53:04",
-      "created_formated": "Wed, Aug 26th 11:53pm UTC",
-      "desc": "Mike Evans is planning to play in Week 1 as he continues to deal with a groin injury.",
-      "id": 604327,
-      "impact": "Evans' groin injury is being described as \"minor\" after missing back-to-back practices this week. The veteran's status should be monitored leading up to the opening week of the regular season.",
-      "link": "https://www.fantasypros.com/nfl/news/604327/mike-evans-groin-planning-to-play-week-1.php",
-      "player_id": 12119,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mike Evans (groin) planning to play Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 17:55:44",
-      "created_formated": "Wed, Aug 26th 5:55pm UTC",
-      "desc": "Josh Downs did not practice on Wednesday. ",
-      "id": 604294,
-      "impact": "Downs missed practice for undisclosed reasons on Tuesday and it is now said to be a calf injury. He remains day-to-day. ",
-      "link": "https://www.fantasypros.com/nfl/news/604294/josh-downs-calf-not-practicing-wednesday.php",
-      "player_id": 24706,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Josh Downs (calf) not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 17:54:40",
-      "created_formated": "Wed, Aug 26th 5:54pm UTC",
-      "desc": "Tyler Warren did not practice on Wednesday. ",
-      "id": 604293,
-      "impact": "Warren remains likely to miss practice all of this week as he recovers from a groin injury. His status for Week 1 is not in danger yet if he can return to practice by next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/604293/tyler-warren-groin-not-practicing-wednesday.php",
-      "player_id": 26434,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Tyler Warren (groin) not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 17:49:43",
-      "created_formated": "Wed, Aug 26th 5:49pm UTC",
-      "desc": "Tucker Kraft will participate in 11-on-11 drills in the Packers joint practice with Cardinals.  ",
-      "id": 604292,
-      "impact": "Kraft returned to team drills earlier in August. He remains on track to be good to go for Week 1 in September. ",
-      "link": "https://www.fantasypros.com/nfl/news/604292/tucker-kraft-knee-to-participate-11-on-11-drills-joint-practice.php",
-      "player_id": 25298,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Tucker Kraft (knee) to participate in 11-on-11 drills in joint practice "
+      "title": "Xavier Thomas, 49ers reach injury settlement "
     },
     {
       "author": "Ari Koslow",
@@ -290,51 +165,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-08-26 17:46:02",
-      "created_formated": "Wed, Aug 26th 5:46pm UTC",
-      "desc": "The Bengals starters will not play in Friday's preseason finale against the Eagles. ",
-      "id": 604291,
-      "impact": "We will see Joe Burrow and the starters for Cincinnati back on the field in Week 1 against the Bucs. ",
-      "link": "https://www.fantasypros.com/nfl/news/604291/joe-burrow-starters-will-not-play-preseason-finale.php",
-      "player_id": 19196,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Joe Burrow, Bengals starters will not play in preseason finale"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 17:41:47",
-      "created_formated": "Wed, Aug 26th 5:41pm UTC",
-      "desc": "James Conner is progressing from his foot injury, but he remains uncertain for Week 1. ",
-      "id": 604290,
-      "impact": "Conner's role in the Cardinals backfield remains unclear following the offseason additions of Jeremiyah Love and Tyler Allgeier. ",
-      "link": "https://www.fantasypros.com/nfl/news/604290/james-conner-foot-progressing-uncertain-week-1.php",
-      "player_id": 16447,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "James Conner (foot) progressing, uncertain for Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-26 17:38:55",
-      "created_formated": "Wed, Aug 26th 5:38pm UTC",
-      "desc": "The Colts have waived CB Mekhi Blackmon. ",
-      "id": 604289,
-      "impact": "Indianapolis acquired Blackmon last year. He appeared in all 17 games for the Colts last season with 11 starts. ",
-      "link": "https://www.fantasypros.com/nfl/news/604289/mekhi-blackmon-waived-by-colts.php",
-      "player_id": 25513,
+      "created": "2026-08-28 16:48:24",
+      "created_formated": "Fri, Aug 28th 4:48pm UTC",
+      "desc": "The Jets waived Cade York. ",
+      "id": 604525,
+      "impact": "York will figure to seek another opportunity at some point before or during the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/604525/cade-york-waived-by-jets.php",
+      "player_id": 24549,
       "sport_id": "NFL",
       "team_id": "FA",
-      "title": "Mekhi Blackmon waived by Colts"
+      "title": "Cade York waived by Jets"
     },
     {
       "author": "Ari Koslow",
@@ -342,16 +182,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-08-26 17:36:37",
-      "created_formated": "Wed, Aug 26th 5:36pm UTC",
-      "desc": "Deshaun Watson and the Browns starters will not play in Thursday's preseason finale against the Patriots. ",
-      "id": 604288,
-      "impact": "We will see Watson and the starters for Cleveland back on the field in Week 1 against the Jaguars. ",
-      "link": "https://www.fantasypros.com/nfl/news/604288/deshaun-watson-starters-will-not-play-thursday.php",
-      "player_id": 16398,
+      "created": "2026-08-28 16:47:22",
+      "created_formated": "Fri, Aug 28th 4:47pm UTC",
+      "desc": "The Dolphins claimed WR Ryan Miller off waivers. ",
+      "id": 604524,
+      "impact": "Miller was waived by the Giants earlier in the week. He'll add depth in the wide receiver room for Miami. ",
+      "link": "https://www.fantasypros.com/nfl/news/604524/ryan-miller-claimed-off-waivers-by-dolphins.php",
+      "player_id": 25857,
       "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Deshaun Watson, starters will not play Thursday "
+      "team_id": "MIA",
+      "title": "Ryan Miller claimed off waivers by Dolphins "
     },
     {
       "author": "Ari Koslow",
@@ -359,16 +199,50 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-08-26 17:34:56",
-      "created_formated": "Wed, Aug 26th 5:34pm UTC",
-      "desc": "The Panthers starters will not play in Friday's preseason finale against the Texans. ",
-      "id": 604287,
-      "impact": "We will see Young and the starters for Carolina back on the field in Week 1 against the Bears. ",
-      "link": "https://www.fantasypros.com/nfl/news/604287/bryce-young-panthers-starters-will-not-play-thursday.php",
-      "player_id": 22900,
+      "created": "2026-08-28 16:45:30",
+      "created_formated": "Fri, Aug 28th 4:45pm UTC",
+      "desc": "The Broncos signed DE Ron Stone Jr.",
+      "id": 604523,
+      "impact": "Stone will compete for a depth role on the Broncos defensive line. ",
+      "link": "https://www.fantasypros.com/nfl/news/604523/ron-stone-jr-signs-with-broncos.php",
+      "player_id": 26525,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Bryce Young, Panthers starters will not play Friday"
+      "team_id": "DEN",
+      "title": "Ron Stone Jr. signs with Broncos "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:44:25",
+      "created_formated": "Fri, Aug 28th 4:44pm UTC",
+      "desc": "Vikings WR Jeshaun Jones has been suspended three games.  ",
+      "id": 604522,
+      "impact": "Jones will be eligible to be active in Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/604522/jeshaun-jones-suspended-three-games.php",
+      "player_id": 26423,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Jeshaun Jones suspended three games"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:43:08",
+      "created_formated": "Fri, Aug 28th 4:43pm UTC",
+      "desc": "The Texans signed DL Derek Parish. ",
+      "id": 604521,
+      "impact": "Parish worked out with Houston earlier in the week. He'll compete for a depth role on its defensive line. ",
+      "link": "https://www.fantasypros.com/nfl/news/604521/derek-parish-signs-with-texans.php",
+      "player_id": 25506,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Derek Parish signs with Texans "
     },
     {
       "author": "Ari Koslow",
@@ -377,34 +251,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-08-26 17:16:41",
-      "created_formated": "Wed, Aug 26th 5:16pm UTC",
-      "desc": "Darnell Wright returned to practice on Wednesday. ",
-      "id": 604286,
-      "impact": "Wright avoids a scare following his early exit from practice on Tuesday. ",
-      "link": "https://www.fantasypros.com/nfl/news/604286/darnell-wright-elbow-practices-wednesday.php",
-      "player_id": 25363,
+      "created": "2026-08-28 16:41:09",
+      "created_formated": "Fri, Aug 28th 4:41pm UTC",
+      "desc": "The Steelers and Israel Mukuamu reached an injury settlement. ",
+      "id": 604520,
+      "impact": "Mukuamu will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/604520/israel-mukuamu-reaches-injury-settlement-with-steelers.php",
+      "player_id": 22750,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Darnell Wright (elbow) practices Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-26 17:15:44",
-      "created_formated": "Wed, Aug 26th 5:15pm UTC",
-      "desc": "Luther Burden III returned to practicing on Wednesday. ",
-      "id": 604285,
-      "impact": "Burden was back on the field for the first time since injuring his groin on August 8. He went through individual drills and went inside when 7 on 7 started. This should put him on track to be good to go for Week 1. ",
-      "link": "https://www.fantasypros.com/nfl/news/604285/luther-burden-iii-groin-back-practice-wednesday.php",
-      "player_id": 27016,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Luther Burden III (groin) back at practice Wednesday "
+      "team_id": "PIT",
+      "title": "Israel Mukuamu reaches injury settlement with Steelers "
     },
     {
       "author": "Ari Koslow",
@@ -412,16 +268,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-08-26 17:12:45",
-      "created_formated": "Wed, Aug 26th 5:12pm UTC",
-      "desc": "Michael Penix Jr. will not play in Friday's preseason finale against the Dolphins. ",
-      "id": 604284,
-      "impact": "Penix was cleared for team drills last weekend. Tua Tagovailoa will start on Friday. The starting job for Atlanta in Week 1 remains up in the air. ",
-      "link": "https://www.fantasypros.com/nfl/news/604284/michael-penix-jr-will-not-play-friday.php",
-      "player_id": 22973,
+      "created": "2026-08-28 16:39:57",
+      "created_formated": "Fri, Aug 28th 4:39pm UTC",
+      "desc": "The 49ers terminated the contract of Josiah Deguara.",
+      "id": 604519,
+      "impact": "Deguara will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/604519/josiah-deguara-has-contract-terminated-by-49ers.php",
+      "player_id": 19456,
       "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Michael Penix Jr. will not play Friday "
+      "team_id": "NYG",
+      "title": "Josiah Deguara has contract terminated by 49ers "
     },
     {
       "author": "Ari Koslow",
@@ -429,16 +285,152 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-08-26 17:11:39",
-      "created_formated": "Wed, Aug 26th 5:11pm UTC",
-      "desc": "Tua Tagovailoa will start Friday's preseason game against the Dolphins. ",
-      "id": 604283,
-      "impact": "Tagovailoa will close out the preseason against his former team. Michael Penix Jr. will not play. The starter role for Week 1 remains up in the air. ",
-      "link": "https://www.fantasypros.com/nfl/news/604283/tua-tagovailoa-to-start-preseason-finale-friday.php",
-      "player_id": 19198,
+      "created": "2026-08-28 16:39:03",
+      "created_formated": "Fri, Aug 28th 4:39pm UTC",
+      "desc": "The Lions signed safety Jason Taylor II. ",
+      "id": 604518,
+      "impact": "Taylor will compete for a depth role in the Lions secondary. ",
+      "link": "https://www.fantasypros.com/nfl/news/604518/jason-taylor-ii-signs-with-lions.php",
+      "player_id": 25583,
       "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Tua Tagovailoa to start preseason finale Friday "
+      "team_id": "DET",
+      "title": "Jason Taylor II signs with Lions "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:37:54",
+      "created_formated": "Fri, Aug 28th 4:37pm UTC",
+      "desc": "The Chiefs signed LB Niles King. ",
+      "id": 604516,
+      "impact": "King will compete for a depth role in the Chiefs linebacker room.",
+      "link": "https://www.fantasypros.com/nfl/news/604516/niles-king-signs-with-chiefs.php",
+      "player_id": 28519,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "Niles King signs with Chiefs"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:36:03",
+      "created_formated": "Fri, Aug 28th 4:36pm UTC",
+      "desc": "The Rams signed DL Devean Deal. ",
+      "id": 604515,
+      "impact": "Deal will compete for a depth role on the Rams defensive line. ",
+      "link": "https://www.fantasypros.com/nfl/news/604515/devean-deal-signs-with-rams.php",
+      "player_id": 28598,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Devean Deal signs with Rams"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:35:19",
+      "created_formated": "Fri, Aug 28th 4:35pm UTC",
+      "desc": "The Rams signed CB Steven Gilmore Jr.",
+      "id": 604514,
+      "impact": "Gilmore will compete for a depth role in the Rams secondary. ",
+      "link": "https://www.fantasypros.com/nfl/news/604514/steven-gilmore-jr-signs-with-rams.php",
+      "player_id": 25922,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Steven Gilmore Jr. signs with Rams"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:34:03",
+      "created_formated": "Fri, Aug 28th 4:34pm UTC",
+      "desc": "The Eagles signed Jaylen Mahoney. ",
+      "id": 604513,
+      "impact": "Mahoney will compete for a depth role in the Eagles secondary. ",
+      "link": "https://www.fantasypros.com/nfl/news/604513/jaylen-mahoney-signs-with-eagles.php",
+      "player_id": 26885,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Jaylen Mahoney signs with Eagles "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:33:26",
+      "created_formated": "Fri, Aug 28th 4:33pm UTC",
+      "desc": "The Eagles signed RB Jordan Mims. ",
+      "id": 604512,
+      "impact": "Mims will compete for a depth role in the Eagles backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/604512/jordan-mims-signs-with-eagles.php",
+      "player_id": 25816,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Jordan Mims signs with Eagles "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:32:16",
+      "created_formated": "Fri, Aug 28th 4:32pm UTC",
+      "desc": "The Raiders released WR Noah Brown. ",
+      "id": 604511,
+      "impact": "Brown will figure to seek another opportunity before the season starts. ",
+      "link": "https://www.fantasypros.com/nfl/news/604511/noah-brown-released-by-raiders.php",
+      "player_id": 16443,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Noah Brown released by Raiders "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:28:59",
+      "created_formated": "Fri, Aug 28th 4:28pm UTC",
+      "desc": "The Dolphins waived CB Ahmari Harvey. ",
+      "id": 604509,
+      "impact": "Harvey will figure to seek another opportunity before the season starts. ",
+      "link": "https://www.fantasypros.com/nfl/news/604509/ahmari-harvey-waived-by-dolphins.php",
+      "player_id": 28836,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Ahmari Harvey waived by Dolphins"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-28 16:27:47",
+      "created_formated": "Fri, Aug 28th 4:27pm UTC",
+      "desc": "The Dolphins waived OL Jim Bonifas.",
+      "id": 604508,
+      "impact": "Bonifas will figure to seek another opportunity before the season starts. ",
+      "link": "https://www.fantasypros.com/nfl/news/604508/jim-bonifas-waived-by-dolphins.php",
+      "player_id": 28795,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jim Bonifas waived by Dolphins "
     }
   ],
   "public_api_limited": true,
