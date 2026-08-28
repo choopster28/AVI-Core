@@ -16,6 +16,7 @@ from avi.validation.source import (
     validate_fantasypros,
     validate_sleeper,
 )
+from avi.valuation.risk_adjustments import apply_cavi_risk_adjustments
 
 
 PipelineStep = tuple[
@@ -72,6 +73,10 @@ def run_daily_update(
         (
             "calculate_avi",
             build_avi_players,
+        ),
+        (
+            "apply_cavi_risk_adjustments",
+            apply_cavi_risk_adjustments,
         ),
         (
             "build_draft_pick_values",
