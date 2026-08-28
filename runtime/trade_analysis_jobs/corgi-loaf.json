@@ -29,9 +29,340 @@
       }
     },
     "createdAt": 1787933450544,
-    "updatedAt": 1787933451892,
+    "updatedAt": 1787933510811,
     "expiresAt": 1788365450544,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. is proposing a massive overpay by offering two future 1st-round draft picks (2028 1st and 2029 1st) to Crimson Tide Pods for wide receiver Alec Pierce. While Pierce (70.0 C-AVI) provides an immediate marginal upgrade at FLEX2 (+4.5 C-AVI over Wan'Dale Robinson), paying two 1st-round picks for a non-elite WR3/FLEX player severely damages Corgi Loaf's long-term dynasty portfolio and future trade liquidity. Crimson Tide Pods, a verified Rebuilder, would accept this deal enthusiastically, but Corgi Loaf should revise the offer to a single 2028 1st-round pick, which represents fair market value and still achieves the starting lineup goal.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Alec Pierce",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 26,
+              "cavi": 70,
+              "davi": 84.1,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "A+",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Corgi Loaf Baking Co. severely overpays by giving up two premium future 1st-round picks for Alec Pierce. Pierce moves into Corgi's FLEX2 slot (+4.5 C-AVI over Wan'Dale Robinson), but surrendering two 1st-round picks (158.6 total D-AVI) for a player with a 70.0 C-AVI / 84.1 D-AVI profile drains crucial future asset liquidity without providing elite S-tier production."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Revising the offer to a single 2028 1st for Alec Pierce accomplishes Corgi Loaf's objective of upgrading FLEX2 while preserving the 2029 1st-round pick. Crimson Tide Pods receives a clean 1st-round pick to advance its rebuilding timeline."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Minor current-season starting lineup boost at FLEX2 (+4.5 C-AVI over Wan'Dale Robinson)."
+            },
+            "dynastyOutlook": {
+              "score": -45,
+              "summary": "Surrenders two premium future 1st-round draft picks, severely weakening the long-term pipeline."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Alec Pierce (70.0 C-AVI) replaces Wan'Dale Robinson (65.5 C-AVI) as starting FLEX2."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Pushes Wan'Dale Robinson and Tank Dell into stronger bench/injury-resilience roles."
+            },
+            "flexibilityLiquidity": {
+              "score": -60,
+              "summary": "Depletes future 1st-round capital through 2029, limiting future trade leverage."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Significant net loss in overall asset portfolio due to gross draft capital overpay."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Slight current-season starting lineup downgrade by moving Alec Pierce."
+            },
+            "dynastyOutlook": {
+              "score": 60,
+              "summary": "Acquires two future 1st-round picks to accelerate the long-term rebuild."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Promotes Michael Pittman / Jakobi Meyers into full-time starting WR2 duty."
+            },
+            "depthResilience": {
+              "score": -5,
+              "summary": "Slight reduction in starting-caliber wide receiver depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 70,
+              "summary": "Gains two prime 1st-round picks in 2028 and 2029 for flexible trade currency."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Substantial portfolio expansion for a rebuilding franchise."
+            }
+          },
+          "explanation": "The proposed offer provides Corgi Loaf Baking Co. with a minor starting FLEX upgrade (+4.5 C-AVI), but exacts an exorbitant price of two future 1st-round picks. Crimson Tide Pods gains massive rebuilding currency while giving up a receiver easily replaced on its depth chart."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. gains +4.5 C-AVI in its best starting lineup by placing Alec Pierce (70.0 C-AVI) in FLEX2 over Wan'Dale Robinson (65.5 C-AVI). In a 16-team league, starter upgrades matter, but a +4.5 C-AVI increase does not justify surrendering two 1st-round picks.",
+          "sideADynastyImpact": "Dynasty asset value drops significantly. Sending two 1st-round picks (79.3 D-AVI each, sum 158.6) for Alec Pierce (84.1 D-AVI) results in a net loss of 74.5 D-AVI points.",
+          "sideARosterImpact": "Improves wide receiver depth by shifting Wan'Dale Robinson and Tank Dell into backup roles, but leaves the team without a 1st-round draft pick in either 2028 or 2029.",
+          "sideBChampionshipImpact": "Crimson Tide Pods experiences a mild starting lineup reduction (-1.7 C-AVI) by replacing Alec Pierce (70.0 C-AVI) with Michael Pittman (68.3 C-AVI) or Jakobi Meyers (63.7 C-AVI) at WR2.",
+          "sideBDynastyImpact": "Massive long-term dynasty boost. Turning Alec Pierce (84.1 D-AVI) into two 1st-round picks (158.6 D-AVI) represents a +74.5 D-AVI net acquisition for a rebuilding roster.",
+          "sideBRosterImpact": "Clears a starting WR slot for younger developmental options (Travis Hunter, Germie Bernard, Zachariah Branch) while securing two high-value draft assets.",
+          "valueAssessment": "Asset value heavily favors Crimson Tide Pods. Alec Pierce is worth approximately one 1st-round pick in dynasty valuation; paying two 1st-round picks is a 2x market premium."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Alec Pierce is 26 years old, coming off a 1,000-yard season where he led the NFL with 21.3 yards per reception. Indianapolis signed him to a 4-year, $114M extension in the offseason. He was activated off the active/PUP list on August 27, 2026, after undergoing minor ankle surgery in late March, and is expected to start in Week 1.",
+          "aviVsMarket": "Public consensus values Pierce as an emerging WR2/3 with big-play upside worth roughly a single late 1st or early 2nd round pick. The public market agrees with AVI that two 1st-round picks is a massive overpay.",
+          "relevantContext": [
+            "Activated off active/PUP list on August 27, 2026 (ankle procedure fully rehabilitated).",
+            "Signed a 4-year, $114M contract extension with Indianapolis in March 2026.",
+            "Led NFL with 21.3 yards per reception in 2025."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Crimson Tide Pods is a verified Rebuilder looking to accumulate future draft capital to rebuild its roster core.",
+          "packageFit": "Receiving two future 1st-round picks fits a rebuilding GM's goal perfectly, offering high draft capital flexibility.",
+          "lineupReplacement": "Crimson Tide Pods easily replaces Pierce in its starting lineup with Michael Pittman (68.3 C-AVI) or Jakobi Meyers (63.7 C-AVI).",
+          "competitiveWindowFit": "Fits Crimson Tide Pods' timeline seamlessly as a Rebuilder. For Corgi Loaf (Elite Contender), overpaying by a 1st-round pick damages future window sustainability.",
+          "positionalScarcity": "In full PPR, wide receiver depth is accessible; surrendering two 1st-round picks for a non-cornerstone WR is suboptimal asset allocation."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 90,
+          "classification": "Highly Realistic",
+          "explanation": "Crimson Tide Pods would enthusiastically accept this offer. Receiving two 1st-round picks for Alec Pierce provides massive return value for a rebuilding manager without causing significant lineup harm."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Do not send this offer as constructed. Giving up two 1st-round picks (2028 1st + 2029 1st) for Alec Pierce is a severe overpay for an Elite Contender. While Pierce (70.0 C-AVI) upgrades your FLEX2 slot from Wan'Dale Robinson (65.5 C-AVI), a single 2028 1st-round pick is full market value and will comfortably satisfy a rebuilding target manager.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2028 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Alec Pierce",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 26,
+              "cavi": 70,
+              "davi": 84.1,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "whyUserShouldDoIt": "You secure the starting FLEX2 upgrade in Alec Pierce (70.0 C-AVI) to strengthen your championship push, while retaining your 2029 1st-round pick for future flexibility.",
+          "whyOpponentMightAccept": "Crimson Tide Pods is a Rebuilder and receives a clean 2028 1st-round pick for a receiver, acquiring premium future liquidity that aligns with their timeline."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "2029 2nd (Corgi Loaf Baking Co.)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "WR",
+              "age": 25,
+              "cavi": 65.5,
+              "davi": 81.1,
+              "publicMarket": 70,
+              "leagueMarket": 70
+            }
+          ],
+          "receive": [
+            {
+              "name": "Alec Pierce",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 26,
+              "cavi": 70,
+              "davi": 84.1,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "rationale": "If you prefer to hold all future 1st-round capital, offering Wan'Dale Robinson plus a 2029 2nd-round pick sends a younger WR (25.0 years old, 81.1 D-AVI) and draft compensation, preserving all your 1st-round assets."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Alec Pierce news 2026",
+          "Alec Pierce fantasy outlook 2026",
+          "Alec Pierce current team nfl 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFffadMrGjP8t_2uhZRYondVQBtQ9LE77Q0RxRFbd_qfH7WHSJ7vP6mll6EJcqKYx-HLV685tMFYySiA3AwR7tuKVT3XrQMfJ92r2a3qp7Hz8NAEa7eQB4o5bdS4_GD0R6XDRcATirAwL2SMYS9ZreEQcApJ3uC8cY=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhDc5UkIjiOfPH_eiBHGgJ1gAe5dLHta-2uLEDdddik31p2oGwcw46FOHOcdyQq4q_3hXRse5db4RX_Uu-YBiPTJm-Z_ngrdZ2aQuFB-19Eq7a2V9pgKhpN8t64zSOgIX1nopkjQyMdascKChWdperGfu_9dE79_7D6c2AF3x0H_6h4tcLFNpQPvZF2uXkizM1lG8iyLJmeHdbAA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX0v6N24j_HVIZFkFTpmun7-eDkaWGOBWxZ8IuZS8PCWqBs5XCnDQ4U_hBZDc3-W4sY3MjoF8FYozbaF2XjmhyaPZsXbiVcBEbwHe1stk91a6VgvVuuz0JjUQtY_1SiQ0OuZ4hefEKNmKJ9zzYfZ9aMdzX3WgnB2A0ugbIaoH0Wsq40RGNg7jIwGm7Yusx3JIgqhIqWYA8s9Y=",
+            "title": "colts.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Rx0opkQYKCgcK30TGaJuINcsZSqxI5_PibCf2jDlx2L6xMw6ajCKYQtffM3wmBS1WVCABFNNu44AFaqaMLwPljQBS25d_w10jtUUTU79rjrbrwP3XvOIvJo9xnhnGPayifAz--sLnr9OHnwW-HNe7to-Th0sPzex5i8hle6fMf6m",
+            "title": "colts.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZcRHFRmuIdDO1dATkcSITyl7E52PfRlgReZb6cYjHPUvF-G_vzdnEhABIZ-2uJgybSRzsWW34RiM7R4-kLiYhV8MsQLs00rhkNkf-uszMGyZ4_GgR3GWCMnhjcFRdVwZObV02K4fKVBmu0G9xeIZ_QeW4mz1Alnfx81MMrHyMM42VJjRsrNawJc_V3hK84oTdOJGVMm5W90Vf1w==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfF7a70YndSIZoOUNuPkbJU7_cur0DBaa-3g2TIm2nApBWrUISwL0zrPgTq3x0ZB8H1C96DSuxQfWeZ7NWCnNEAGgVR8AGV3gnjQ_tVnjGkv2Xw7hXNnsp-nbz5b0vqsZ8ldWM9rDU3GKlOZPNNPAHP5fkTrtKUQsXIW6TE6q9GgdL0e6W6AuqqzjQTLBuaWo=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAETTAkhuxIu2SL-A0fvc5Yzu-UA9oerIV_MjbrPxj8h_WkpOiSeJg2ywHtCRRmwa30YAGLU6WixmKz5SSXG-Izm3myCCciTYrOPSQsIJzDw_vDSDJp4Pw5m8ewcAkEsUmDV5D-9wQR3Fba7sIWg==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf0o2yr3G2IVq6v29v35uqHSm1zbOZnR9Z4-42mRMebFaNP-cER6d4SrWiLsoQL5LCke4P1xuNfvkesZox1SLbJw1B_KwoPRf8pbLwOPt53kmLC090AVEC7h0Xu-hbltk=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3gutdfSPUNN58Qsm1cTNkvQkgJ0-FxOM87fJVjNMZJG9sPfsaj0_Df953e5p9aFqG0efhLR8N9AwWOIcXNJhZ3Cewxje_-u9YNo6sPdHkxOuaAck_lbw3QYQ8UjnL7wRPYt3Bi4BCLZMVFzUo0blvu3tYGh3aH58YFG8ZuT3kKjYdS4eIPkqAPkU5LtbAgCxskXJK24BvPj42OQ40bmX3poJn",
+            "title": "sportskeeda.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH04Y0Ia_QQYTSj-PzSH8r-KXcnhcxIjT3WjfVTxVBGfliVCVDkejLY9Z3kxhxmgglw6mOZBAB9M0F8FNSL8kHoGjLuCtuRkiWiMLAm5I1HZpToErvwSqr3hthCTbEXPshkqGYBchDLl0JONNLkzlO7V0fGgQ7FoTM1go5OswrlJILJy6S68nVSrAtZgNixCT_b52Mxngv14snkCGYlvYw=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Fvz7iG8yQD_v7FFnC7HciRRJmq94V8kNw6gyKGSCCKz93Z9FVYiIFV3Ow0HJYLSXRaQI4C_5WMXaQJ_HkIjCMGDM_fFuzLclFTriruHEQ3dAs0LBU49U2Ccyr7fD21hMMZfxpU7f5HRJfKvThK4M7J-z_ODWZjBezO-PF6Xf93zznAko_X8wyMgTtlnEclmP_c9MAvp8nmeA5V5XKtE=",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "210ccc47a2e9a3be014e647176d4933223c47a90",
+        "aviCoreCommittedAt": "2026-08-28T14:43:42Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86960,
+        "groundedMarketChars": 2810,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mtb0i2fb-2bc4b7a4",
