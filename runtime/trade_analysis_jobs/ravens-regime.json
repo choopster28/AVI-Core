@@ -1,5 +1,49 @@
 [
   {
+    "id": "mtd0ax02-a66c1b2e",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Add Dynasty Value",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        },
+        {
+          "name": "Jordyn Tyson",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 2nd · Ravens · Projected mid range (2.06–2.09)",
+          "assetType": "pick"
+        },
+        {
+          "name": "2029 1st · Ravens · Projected mid range (1.06–1.09)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1787924867474,
+    "updatedAt": 1787924867474,
+    "expiresAt": 1788356867474,
+    "status": "queued"
+  },
+  {
     "id": "mtcw1hu6-8179a82c",
     "phase": "initial",
     "mode": "propose_trade",
