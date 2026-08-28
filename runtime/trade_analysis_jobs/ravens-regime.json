@@ -23,8 +23,343 @@
       ]
     },
     "createdAt": 1787917709454,
-    "updatedAt": 1787917710627,
+    "updatedAt": 1787917786146,
     "expiresAt": 1788349709454,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Elite Contender, goal: Win Championship) can leverage 21-year-old RB Jeremiyah Love (90.1 C-AVI / 95.4 D-AVI) to target 32-year-old Derrick Henry (93.1 C-AVI / 88.0 D-AVI) from Ravens Regime (Playoff Push, goal: Increase Championship Odds). Proposing Jeremiyah Love for Derrick Henry plus a 2028 2nd-round pick increases Big Balder Brand's starting RB2 scoring output for 2026 (+3.0 C-AVI / +18.3 projected PPR points) while recapturing future draft liquidity. For Ravens Regime, receiving a 21-year-old cornerstone RB who produces at a near-identical level preserves their 2026 playoff push while solving their impending RB age cliff.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 90.1,
+              "davi": 95.4,
+              "publicMarket": 93.5,
+              "leagueMarket": 92
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.1,
+              "davi": 88,
+              "publicMarket": 88.5,
+              "leagueMarket": 90.5
+            },
+            {
+              "name": "2028 Round 2 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Big Balder Brand trades 21-year-old Jeremiyah Love to secure immediate 2026 RB2 scoring enhancement with Derrick Henry (93.1 C-AVI) and picks up a 2028 2nd-round pick. Ravens Regime makes a major long-term structural gain at RB1 without dropping out of playoff competitiveness."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Big Balder Brand trades 21-year-old Jeremiyah Love to secure immediate 2026 RB2 scoring enhancement with Derrick Henry (93.1 C-AVI) and picks up a 2028 2nd-round pick. Ravens Regime makes a major long-term structural gain at RB1 without dropping out of playoff competitiveness."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Net positive trade that directly enhances 2026 championship starting lineup points and adds draft capital."
+            },
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Upgrades RB2 slot from Jeremiyah Love (90.1 C-AVI) to Derrick Henry (93.1 C-AVI), adding +18.3 projected PPR points."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Surrenders an 11-year age advantage by moving 21-year-old Love for 32-year-old Henry."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Direct starting lineup improvement in mandatory RB2 slot alongside Saquon Barkley."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Neutral impact on bench depth; positions remain balanced."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Acquires a 2028 2nd-round pick, restoring future draft liquidity."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 40,
+              "summary": "Outstanding strategic move securing a 21-year-old dynasty RB1 while staying competitive for 2026."
+            },
+            "championshipOutlook": {
+              "score": -5,
+              "summary": "Negligible 3.0 C-AVI drop at RB1, maintaining strong playoff push capability."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Massive long-term gain replacing a 32-year-old running back with a 21-year-old cornerstone (95.4 D-AVI)."
+            },
+            "lineupQuality": {
+              "score": -5,
+              "summary": "Minor current-season RB1 production shift."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Positional allocation remains stable."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Parts with a 2028 2nd-round pick to bridge the dynasty age value gap."
+            }
+          },
+          "explanation": "Big Balder Brand optimizes its starting lineup for an immediate 2026 title push by paying dynasty youth for Derrick Henry's elite near-term production, while Ravens Regime completes a rare win-win transaction that fixes their RB age structure without dropping out of the playoff race."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Trading Jeremiyah Love (90.1 C-AVI) for Derrick Henry (93.1 C-AVI) elevates Big Balder Brand's mandatory RB2 starting score by +3.0 C-AVI points, increasing projected season-long PPR output by +18.3 fantasy points.",
+          "sideADynastyImpact": "Big Balder Brand relinquishes 11 years of age longevity by trading 21-year-old Love (95.4 D-AVI) for 32-year-old Henry (88.0 D-AVI), but offsets part of the dynasty asset decline by acquiring a 2028 2nd-round pick (48.5 D-AVI).",
+          "sideARosterImpact": "Fortifies a dominant 16-team starting lineup featuring Jayden Daniels, Saquon Barkley, Derrick Henry, Rashee Rice, A.J. Brown, Trey McBride, Nico Collins, and Omarion Hampton.",
+          "sideBChampionshipImpact": "Ravens Regime takes a minor -3.0 C-AVI adjustment at RB1, leaving their starting lineup (Lamar Jackson, Jeremiyah Love, Zay Flowers, Kyle Pitts) fully capable of securing a playoff spot.",
+          "sideBDynastyImpact": "A transformative dynasty retool for Ravens Regime, locking in 21-year-old Jeremiyah Love as a 10-year centerpiece.",
+          "sideBRosterImpact": "Eliminates imminent RB cliff risk and builds long-term core stability behind Lamar Jackson.",
+          "valueAssessment": "Jeremiyah Love holds a higher overall dynasty valuation (95.4 D-AVI) due to age, which justifies Big Balder Brand requesting a 2028 2nd-round pick alongside Derrick Henry."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Derrick Henry is universally ranked as a top redraft/win-now RB1 backed by Baltimore's heavy rush volume and contract stability through 2027. Jeremiyah Love is regarded as a premium young dynasty running back.",
+          "aviVsMarket": "Public market consensus places significant dynasty trade value on 21-year-old Jeremiyah Love over 32-year-old Derrick Henry, making the addition of a 2028 2nd-round pick from Ravens Regime market-compliant.",
+          "relevantContext": [
+            "Derrick Henry is under contract in Baltimore through 2027 ($25M guaranteed) with no health concerns entering 2026.",
+            "Jeremiyah Love commands elite 95.4 D-AVI as a 21-year-old feature back.",
+            "In a 16-team full-PPR format, starting RB production holds heightened championship leverage."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime's goal is 'Increase Championship Odds' while maintaining a playoff push. Acquiring a 21-year-old RB1 with 90.1 C-AVI directly advances their long-term competitiveness.",
+          "packageFit": "Jeremiyah Love provides an exact 1-to-1 starter replacement at RB1 for Ravens Regime.",
+          "lineupReplacement": "Love seamlessly slotting into Henry's departing starting role leaves zero mandatory lineup hole.",
+          "competitiveWindowFit": "Keeps Ravens Regime firmly in playoff contention in 2026 while extending their competitive window for years.",
+          "positionalScarcity": "Starting RBs with high workload security are highly scarce in 16-team leagues; 21-year-old starters are premier assets."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 23,
+            "packageMatch": 19,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 97,
+          "classification": "Highly Realistic",
+          "explanation": "Ravens Regime is in Playoff Push status with 32-year-old Derrick Henry as their RB1. Receiving 21-year-old Jeremiyah Love (90.1 C-AVI / 95.4 D-AVI) allows them to retain immediate playoff competitiveness while solving their long-term RB longevity issue. Including a 2028 2nd pick is a fair cost for an 11-year age upgrade."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Proposing Jeremiyah Love for Derrick Henry and a 2028 2nd-round pick directly serves Big Balder Brand's Win Championship goal by upgrading 2026 starting RB2 scoring while accumulating draft capital. It presents a mutually beneficial proposal that Ravens Regime has strong strategic incentive to accept.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 90.1,
+              "davi": 95.4,
+              "publicMarket": 93.5,
+              "leagueMarket": 92
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.1,
+              "davi": 88,
+              "publicMarket": 88.5,
+              "leagueMarket": 90.5
+            },
+            {
+              "name": "2028 Round 2 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "Boosts immediate 2026 RB2 scoring with Derrick Henry's 93.1 C-AVI while securing a 2028 2nd-round pick to preserve trade liquidity.",
+          "whyOpponentMightAccept": "Ravens Regime replaces 32-year-old Derrick Henry with 21-year-old Jeremiyah Love, establishing an elite long-term RB1 without sacrificing current playoff push competitiveness."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 90.1,
+              "davi": 95.4,
+              "publicMarket": 93.5,
+              "leagueMarket": 92
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.1,
+              "davi": 88,
+              "publicMarket": 88.5,
+              "leagueMarket": 90.5
+            }
+          ],
+          "rationale": "If Ravens Regime declines to include draft capital, a straight 1-for-1 swap of Jeremiyah Love for Derrick Henry remains viable for a pure Win Championship push, delivering the target RB2 scoring upgrade."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Derrick Henry contract Ravens 2026",
+          "Derrick Henry news 2026",
+          "Derrick Henry fantasy value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFLngFhwnfZcPe3zl_vwf15Xlgz2chQdYOogWSLP83H-5lqTJwAayRcRgeuguFfcYCulAs7iZWPGUyu-Wg6yhlrYG76AsvmUF5W2wi0_52h9aJSbaRkbTzXXbafr_y9PFbl0FfCpCnGXQZJaZX8lCa-VgzZArKw7_CKS2f-qixbzNsKb9MDbTwclatAp8aZuEktHLvZ6x9TLh0CAD8iQ==",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQnO1bKIBNtaPT-OE9r_3iMOg9yDrqaCJ6DCAb0qDkwa8daQEzAndQ9_NZ_-Dgs8-_ZhqqJaCTKivVTuE3tALGbSC5SYWiqoJv1dJQReBwTX-BEhd2Y85Afs-g3BvcacEtPdSHBXZGAIA046ZzgnDEQDZJ0BCYdnPCjWbhHk5cXukmQG23KX2twJjJtdQShA5pjDSyDZbLVsEhnAY6",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkoI0JG-V1r1rkEO2LhVX_l3U0PzaBXKKpBveCMEl6J8g-4TXd0E5EluzgC9kQ62VJhqumhnewmzBdPy8PG9LX7ZKB_oTBOOIwes8OS5acbGN-0PVhVsBdCnMCr55MXnIHq589o-VQAn1lsKZoObLf1OyjFBE=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk3T-fyzHCb2xGFsGSPTWtf1FkEYb-ZoyRsBUQ2UeuO_Ud4sAzYJ3vzTEh5TTatTVRBKSlJrOiUiS7OJC6z0ncXpRpSKpck_gmcF5E0wRg7XM-rTXkIm34kaYnnpVgDL32",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmcqPJBJoZRqQi0K4wlmG50fKjzDmruMJ7rtqed34QzL5l0xNoiyA9ybJ32Z-a28UMH0xIfUxG-N449EYgc4rfIL4lbrRdSJj_mcUj3Vb5_dhnPGUAd7tAaUPU1RbHkAtZ5aG8W2EwRjTrXxoQxxDWxL_hg7Nvt-NGbLimhhpKDYsSIXGYEL-Pt5U64aHbCTLQP10=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtaccnOkDO1mu6xU6zCVIRhZIGjiwVGiBTQ2-w3_ab2JMUACUUA16j-6lAsDXd8Ivtqoid1-Q-FHEWxjwWCTS21n8xdK0OIDWR8fMupdhlcKmK1NgYheDfqPu_5IkGG8MWOU_xKJ35a9b_kFB2Os8_TElQooqLZ421TB-XnA==",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj6QBmpJzZehxQJCnb4C_R4KILBi2AGvMbFpzcZi3tteCy2cMeQYRwfkfsaerHyiypIGACq8MZC4GTs7v1UqNaMy37xF2zjxxl7jGFRm6VmiiKPx2RlV6IXKSJeF1lUWbu",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc2dEr8VXLuYjQnIlwQvypaR01GVj-zk-OB4PK5MNFrbYS8qCrYYacTojfgne95VvD-18ZgSQNgbfTLiBSn1dMnay9lYeuckvZdzuyBp_VhEjLFfU2hHKYzIahed99_faMHXWzmFKWDOQnZTqssIRXSQ6NhFVOfw42fyBMjaxNzJ0GlOoNevCQeNbOHXHRuG8=",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfrXYekl4SERQjqkR2UZoLbhlBQAiKMzFStS1OWPdvGD8IZPlhpNc6djL5tdw36f0SdvLqNRA6lmeMyyN2bmrH7d-sX05gBW1N4YIauefQTpn7IBuFGOUYEPVgqQu82qiL8yRlgi6JAf5i6yFN3VHjsDcMpO8IZURkpB1_UwS3G_24i_AHdiPZwNVd3AD2IvAveiu8i_a5tQbcV6BlmPhFa_juymgWZQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEng4HQOFXAtHen0JxgH2TOvq_9sHaDYvyWzAMhK_RtdEAiuyx7WGwpTG4fdw-_CHGB_L0xRB1YTE3UjB6uNoXszvuKuCA7OZ5UaX2rOcEbCOxq6sXF-_zAEQ4R9vG0PmiQda2c3pOuUanuFeorEZvweg==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUCkAAPpA8LH1F0gTXEhMlk7L_N9Tb6ShjDiJLGi1WsaIjzRUvWOmYdjmInMEBGYGozEdyDTA9HycXa54YVtdbT4N-L70foaLUKMmO7akBRVlq1ySri22sxivkyo5rRkJa",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHypbzh25NHzw4MGBDMMT9pO52Jr956r2A1s3DWYAPJ2zAWaIcbFzEeTcZLre9cnxgA3z81EWZRgjbG9ALHYjDGiDzauo4aE_1OhVwWE8qo6XcEi4yWpSKaoU1UpeyKpIqdyvs6DQ2-w1tn0vJ855Bze1vKzRL-gj2w9Gs=",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b2c86811321d1fe4c0df0fd41f33583d4ada6ef3",
+        "aviCoreCommittedAt": "2026-08-28T06:12:48Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82617,
+        "groundedMarketChars": 2302,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
