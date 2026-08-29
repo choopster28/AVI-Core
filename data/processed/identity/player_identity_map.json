@@ -4230,10 +4230,10 @@
     "sleeper_id": "11630"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "28906",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CAR",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Miles Davis",
     "position": "RB",
     "sleeper_id": "14044"

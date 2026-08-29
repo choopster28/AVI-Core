@@ -2107,34 +2107,6 @@
       "team_id": "NO"
     },
     {
-      "filename": "dontayvion-wicks.php",
-      "fpid": 24354,
-      "mflid": 16195,
-      "name": "Dontayvion Wicks",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.44,
-        "points": 68.41,
-        "points_half": 88.17,
-        "points_ppr": 107.92,
-        "rec_rec": 39.51,
-        "rec_tds": 2.92,
-        "rec_yds": 517.74,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "PHI"
-    },
-    {
       "filename": "germie-bernard.php",
       "fpid": 26039,
       "mflid": 17503,
@@ -2385,6 +2357,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "DEN"
+    },
+    {
+      "filename": "dontayvion-wicks.php",
+      "fpid": 24354,
+      "mflid": 16195,
+      "name": "Dontayvion Wicks",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.22,
+        "points": 63.41,
+        "points_half": 82.78,
+        "points_ppr": 102.16,
+        "rec_rec": 38.76,
+        "rec_tds": 2.96,
+        "rec_yds": 458.37,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0.5,
+        "rush_tds": 0,
+        "rush_yds": 2.5,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "PHI"
     },
     {
       "filename": "chris-bell.php",
@@ -3115,34 +3115,6 @@
       "team_id": "NYG"
     },
     {
-      "filename": "zavion-thomas.php",
-      "fpid": 28132,
-      "mflid": 17521,
-      "name": "Zavion Thomas",
-      "position_id": "WR",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 1.07,
-        "points": 41.66,
-        "points_half": 53.27,
-        "points_ppr": 64.89,
-        "rec_rec": 23.24,
-        "rec_tds": 2.11,
-        "rec_yds": 304.76,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 1.5,
-        "rush_tds": 0,
-        "rush_yds": 6.5,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "CHI"
-    },
-    {
       "filename": "jahdae-walker.php",
       "fpid": 27810,
       "mflid": 17353,
@@ -3617,6 +3589,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "BAL"
+    },
+    {
+      "filename": "zavion-thomas.php",
+      "fpid": 28132,
+      "mflid": 17521,
+      "name": "Zavion Thomas",
+      "position_id": "WR",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.13,
+        "points": 22.41,
+        "points_half": 28.65,
+        "points_ppr": 34.88,
+        "rec_rec": 12.47,
+        "rec_tds": 1.22,
+        "rec_yds": 153.52,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "CHI"
     },
     {
       "filename": "jaylin-lane.php",
