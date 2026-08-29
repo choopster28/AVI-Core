@@ -1868,14 +1868,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
-## PLAYER LOOKUP: Xavier Hutchinson
-- Player name: Xavier Hutchinson
-- Player ID: 10218
-- Position: WR
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
-
 ## PLAYER LOOKUP: Xavier Legette
 - Player name: Xavier Legette
 - Player ID: 11626
@@ -2276,6 +2268,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ATL
 - Championship AVI (C-AVI, 0-100): 31.8
 - Dynasty AVI (D-AVI, 0-100): 38.8
+- Availability: available
+
+## AVAILABLE PLAYER: Xavier Hutchinson
+- Player name: Xavier Hutchinson
+- Player ID: 10218
+- Position: WR
+- NFL team: HOU
+- Championship AVI (C-AVI, 0-100): 31.5
+- Dynasty AVI (D-AVI, 0-100): 44.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Ja'Tavion Sanders

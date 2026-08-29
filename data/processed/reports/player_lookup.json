@@ -483,6 +483,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00010218",
+      "c_avi": 31.5,
+      "d_avi": 44.5,
+      "nfl_team": "HOU",
+      "player_name": "Xavier Hutchinson",
+      "position": "WR",
+      "sleeper_id": "10218",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011600",
       "c_avi": 31.1,
       "d_avi": 53.8,
@@ -2402,8 +2414,8 @@
     }
   ],
   "counts": {
-    "available_players": 200,
-    "rostered_players": 239
+    "available_players": 201,
+    "rostered_players": 238
   },
   "rostered_players": [
     {
@@ -6133,22 +6145,6 @@
       "status": "Active",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00010218",
-      "c_avi": 31.5,
-      "d_avi": 44.5,
-      "nfl_team": "HOU",
-      "owner_id": "736993578450030592",
-      "player_name": "Xavier Hutchinson",
-      "position": "WR",
-      "roster_id": 1,
-      "sleeper_id": "10218",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
     },
     {
       "active": true,
