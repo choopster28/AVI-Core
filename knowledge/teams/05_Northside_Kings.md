@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-08-28
+- Last updated from Sleeper exports: 2026-08-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 492.6
 - championship_lineup_c_avi_avg: 61.58
-- offensive_roster_c_avi_sum: 875.5
-- offensive_roster_c_avi_avg: 54.72
-- offensive_roster_d_avi_sum: 1169.1
-- offensive_roster_d_avi_avg: 73.07
+- offensive_roster_c_avi_sum: 874.1
+- offensive_roster_c_avi_avg: 54.63
+- offensive_roster_d_avi_sum: 1158.6
+- offensive_roster_d_avi_avg: 72.41
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -124,23 +124,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 57.1
 - Dynasty AVI (D-AVI, 0-100): 78.2
 - Projected PPR points: 162.1
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Jonah Coleman
-- Player name: Jonah Coleman
-- Player ID: 13345
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 39.6
-- Dynasty AVI (D-AVI, 0-100): 71.1
-- Projected PPR points: 49.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -277,6 +260,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 42.7
 - Dynasty AVI (D-AVI, 0-100): 59.5
 - Projected PPR points: 112.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Ryan Flournoy
+- Player name: Ryan Flournoy
+- Player ID: 11783
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: DAL
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 38.2
+- Dynasty AVI (D-AVI, 0-100): 60.6
+- Projected PPR points: 89.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

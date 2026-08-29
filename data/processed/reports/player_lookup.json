@@ -147,6 +147,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013345",
+      "c_avi": 39.6,
+      "d_avi": 71.1,
+      "nfl_team": "DEN",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "sleeper_id": "13345",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011592",
       "c_avi": 39.5,
       "d_avi": 53.4,
@@ -154,18 +166,6 @@
       "player_name": "Erick All",
       "position": "TE",
       "sleeper_id": "11592",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011783",
-      "c_avi": 38.2,
-      "d_avi": 60.6,
-      "nfl_team": "DAL",
-      "player_name": "Ryan Flournoy",
-      "position": "WR",
-      "sleeper_id": "11783",
       "status": "Active"
     },
     {
@@ -4441,22 +4441,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00013345",
-      "c_avi": 39.6,
-      "d_avi": 71.1,
-      "nfl_team": "DEN",
-      "owner_id": "872351659366539264",
-      "player_name": "Jonah Coleman",
-      "position": "RB",
-      "roster_id": 5,
-      "sleeper_id": "13345",
-      "status": "Active",
-      "team_file": "05_Northside_Kings.md",
-      "team_name": "Northside Kings "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00006813",
       "c_avi": 97.5,
       "d_avi": 95.2,
@@ -5573,6 +5557,22 @@
       "status": "Active",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011783",
+      "c_avi": 38.2,
+      "d_avi": 60.6,
+      "nfl_team": "DAL",
+      "owner_id": "872351659366539264",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "roster_id": 5,
+      "sleeper_id": "11783",
+      "status": "Active",
+      "team_file": "05_Northside_Kings.md",
+      "team_name": "Northside Kings "
     },
     {
       "active": true,

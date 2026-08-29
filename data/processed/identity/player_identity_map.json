@@ -874,15 +874,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "18590",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DEN",
-    "player_name": "Lil'Jordan Humphrey",
-    "position": "WR",
-    "sleeper_id": "5938"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "18598",
     "match_method": "exact_name_position_unique",
     "nfl_team": "JAC",
