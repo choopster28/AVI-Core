@@ -831,6 +831,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013420",
+      "c_avi": 25.3,
+      "d_avi": 55.6,
+      "nfl_team": "NO",
+      "player_name": "Bryce Lance",
+      "position": "WR",
+      "sleeper_id": "13420",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00002306",
       "c_avi": 25.1,
       "d_avi": 45.0,
@@ -1150,18 +1162,6 @@
       "player_name": "Mitchell Evans",
       "position": "TE",
       "sleeper_id": "12473",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013411",
-      "c_avi": 20.5,
-      "d_avi": 44.2,
-      "nfl_team": "CHI",
-      "player_name": "Zavion Thomas",
-      "position": "WR",
-      "sleeper_id": "13411",
       "status": "Active"
     },
     {
@@ -2817,22 +2817,6 @@
       "status": "Active",
       "team_file": "08_All_Hail_King_Jesus.md",
       "team_name": "All Hail King Jesus"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013420",
-      "c_avi": 25.3,
-      "d_avi": 55.6,
-      "nfl_team": "NO",
-      "owner_id": "737531831641128960",
-      "player_name": "Bryce Lance",
-      "position": "WR",
-      "roster_id": 7,
-      "sleeper_id": "13420",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
     },
     {
       "active": true,
@@ -6209,6 +6193,22 @@
       "status": "Active",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013411",
+      "c_avi": 20.5,
+      "d_avi": 44.2,
+      "nfl_team": "CHI",
+      "owner_id": "737531831641128960",
+      "player_name": "Zavion Thomas",
+      "position": "WR",
+      "roster_id": 7,
+      "sleeper_id": "13411",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,
