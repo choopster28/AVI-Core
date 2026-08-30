@@ -63,6 +63,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011597",
+      "c_avi": 44.9,
+      "d_avi": 62.3,
+      "nfl_team": "NYG",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "sleeper_id": "11597",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00002505",
       "c_avi": 43.7,
       "d_avi": 47.5,
@@ -142,18 +154,6 @@
       "player_name": "Tyler Higbee",
       "position": "TE",
       "sleeper_id": "3271",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013345",
-      "c_avi": 39.6,
-      "d_avi": 71.1,
-      "nfl_team": "DEN",
-      "player_name": "Jonah Coleman",
-      "position": "RB",
-      "sleeper_id": "13345",
       "status": "Active"
     },
     {
@@ -4437,6 +4437,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00013345",
+      "c_avi": 39.6,
+      "d_avi": 71.1,
+      "nfl_team": "DEN",
+      "owner_id": "736992907139158016",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "roster_id": 4,
+      "sleeper_id": "13345",
+      "status": "Active",
+      "team_file": "04_Mile_High_Royal_Lions.md",
+      "team_name": "Mile High Royal Lions"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00006813",
       "c_avi": 97.5,
       "d_avi": 95.2,
@@ -5777,22 +5793,6 @@
       "status": "Active",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011597",
-      "c_avi": 44.9,
-      "d_avi": 62.3,
-      "nfl_team": "NYG",
-      "owner_id": "736992907139158016",
-      "player_name": "Theo Johnson",
-      "position": "TE",
-      "roster_id": 4,
-      "sleeper_id": "11597",
-      "status": "Active",
-      "team_file": "04_Mile_High_Royal_Lions.md",
-      "team_name": "Mile High Royal Lions"
     },
     {
       "active": true,

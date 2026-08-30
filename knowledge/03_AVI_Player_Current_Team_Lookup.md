@@ -1012,6 +1012,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
+## PLAYER LOOKUP: Jonah Coleman
+- Player name: Jonah Coleman
+- Player ID: 13345
+- Position: RB
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
+
 ## PLAYER LOOKUP: Jonathan Taylor
 - Player name: Jonathan Taylor
 - Player ID: 6813
@@ -1684,14 +1692,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
 
-## PLAYER LOOKUP: Theo Johnson
-- Player name: Theo Johnson
-- Player ID: 11597
-- Position: TE
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Team file: 04_Mile_High_Royal_Lions.md
-
 ## PLAYER LOOKUP: Tommy Tremble
 - Player name: Tommy Tremble
 - Player ID: 7694
@@ -1955,6 +1955,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 61.3
 - Availability: available
 
+## AVAILABLE PLAYER: Theo Johnson
+- Player name: Theo Johnson
+- Player ID: 11597
+- Position: TE
+- NFL team: NYG
+- Championship AVI (C-AVI, 0-100): 44.9
+- Dynasty AVI (D-AVI, 0-100): 62.3
+- Availability: available
+
 ## AVAILABLE PLAYER: Darren Waller
 - Player name: Darren Waller
 - Player ID: 2505
@@ -2016,15 +2025,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LAR
 - Championship AVI (C-AVI, 0-100): 39.7
 - Dynasty AVI (D-AVI, 0-100): 51.7
-- Availability: available
-
-## AVAILABLE PLAYER: Jonah Coleman
-- Player name: Jonah Coleman
-- Player ID: 13345
-- Position: RB
-- NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 39.6
-- Dynasty AVI (D-AVI, 0-100): 71.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Erick All
