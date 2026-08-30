@@ -1132,6 +1132,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
+## PLAYER LOOKUP: Kaleb Johnson
+- Player name: Kaleb Johnson
+- Player ID: 12504
+- Position: RB
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Kayshon Boutte
 - Player name: Kayshon Boutte
 - Player ID: 9504
@@ -1203,14 +1211,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
-
-## PLAYER LOOKUP: Kimani Vidal
-- Player name: Kimani Vidal
-- Player ID: 11647
-- Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Kyle Monangai
 - Player name: Kyle Monangai
@@ -2045,6 +2045,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 61.0
 - Availability: available
 
+## AVAILABLE PLAYER: Kimani Vidal
+- Player name: Kimani Vidal
+- Player ID: 11647
+- Position: RB
+- NFL team: LAC
+- Championship AVI (C-AVI, 0-100): 37.4
+- Dynasty AVI (D-AVI, 0-100): 60.0
+- Availability: available
+
 ## AVAILABLE PLAYER: Darius Slayton
 - Player name: Darius Slayton
 - Player ID: 6149
@@ -2763,15 +2772,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: SF
 - Championship AVI (C-AVI, 0-100): 21.0
 - Dynasty AVI (D-AVI, 0-100): 36.8
-- Availability: available
-
-## AVAILABLE PLAYER: Kaleb Johnson
-- Player name: Kaleb Johnson
-- Player ID: 12504
-- Position: RB
-- NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 20.8
-- Dynasty AVI (D-AVI, 0-100): 54.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Mitchell Evans

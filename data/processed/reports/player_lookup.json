@@ -183,6 +183,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011647",
+      "c_avi": 37.4,
+      "d_avi": 60.0,
+      "nfl_team": "LAC",
+      "player_name": "Kimani Vidal",
+      "position": "RB",
+      "sleeper_id": "11647",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00006149",
       "c_avi": 37.2,
       "d_avi": 53.8,
@@ -1138,18 +1150,6 @@
       "player_name": "Demarcus Robinson",
       "position": "WR",
       "sleeper_id": "3286",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012504",
-      "c_avi": 20.8,
-      "d_avi": 54.9,
-      "nfl_team": "PIT",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "sleeper_id": "12504",
       "status": "Active"
     },
     {
@@ -4677,6 +4677,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012504",
+      "c_avi": 20.8,
+      "d_avi": 54.9,
+      "nfl_team": "PIT",
+      "owner_id": "986498458162970624",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "roster_id": 11,
+      "sleeper_id": "12504",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00009504",
       "c_avi": 43.8,
       "d_avi": 64.7,
@@ -4817,22 +4833,6 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011647",
-      "c_avi": 37.4,
-      "d_avi": 60.0,
-      "nfl_team": "LAC",
-      "owner_id": "986498458162970624",
-      "player_name": "Kimani Vidal",
-      "position": "RB",
-      "roster_id": 11,
-      "sleeper_id": "11647",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
