@@ -388,14 +388,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
 
-## PLAYER LOOKUP: Cooper Kupp
-- Player name: Cooper Kupp
-- Player ID: 4039
-- Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Courtland Sutton
 - Player name: Courtland Sutton
 - Player ID: 5045
@@ -1436,6 +1428,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
+## PLAYER LOOKUP: Odell Beckham
+- Player name: Odell Beckham
+- Player ID: 2078
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
 ## PLAYER LOOKUP: Omar Cooper
 - Player name: Omar Cooper
 - Player ID: 13276
@@ -1980,6 +1980,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYJ
 - Championship AVI (C-AVI, 0-100): 43.5
 - Dynasty AVI (D-AVI, 0-100): 59.4
+- Availability: available
+
+## AVAILABLE PLAYER: Cooper Kupp
+- Player name: Cooper Kupp
+- Player ID: 4039
+- Position: WR
+- NFL team: SEA
+- Championship AVI (C-AVI, 0-100): 42.7
+- Dynasty AVI (D-AVI, 0-100): 59.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Darnell Washington
@@ -3042,15 +3051,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CHI
 - Championship AVI (C-AVI, 0-100): 17.4
 - Dynasty AVI (D-AVI, 0-100): 24.5
-- Availability: available
-
-## AVAILABLE PLAYER: Odell Beckham
-- Player name: Odell Beckham
-- Player ID: 2078
-- Position: WR
-- NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 17.2
-- Dynasty AVI (D-AVI, 0-100): 44.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Jackson Hawes

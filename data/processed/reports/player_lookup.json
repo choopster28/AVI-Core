@@ -99,6 +99,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00004039",
+      "c_avi": 42.7,
+      "d_avi": 59.0,
+      "nfl_team": "SEA",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "sleeper_id": "4039",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00009479",
       "c_avi": 42.1,
       "d_avi": 56.7,
@@ -1510,18 +1522,6 @@
       "player_name": "Jahdae Walker",
       "position": "WR",
       "sleeper_id": "13079",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00002078",
-      "c_avi": 17.2,
-      "d_avi": 44.7,
-      "nfl_team": "NYG",
-      "player_name": "Odell Beckham",
-      "position": "WR",
-      "sleeper_id": "2078",
       "status": "Active"
     },
     {
@@ -3185,22 +3185,6 @@
       "status": "Active",
       "team_file": "02_Rapid_Valley_Annihilation.md",
       "team_name": "Rapid Valley Annihilation"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00004039",
-      "c_avi": 42.7,
-      "d_avi": 59.0,
-      "nfl_team": "SEA",
-      "owner_id": "737531831641128960",
-      "player_name": "Cooper Kupp",
-      "position": "WR",
-      "roster_id": 7,
-      "sleeper_id": "4039",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
     },
     {
       "active": true,
@@ -5285,6 +5269,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00002078",
+      "c_avi": 17.2,
+      "d_avi": 44.7,
+      "nfl_team": "NYG",
+      "owner_id": "737531831641128960",
+      "player_name": "Odell Beckham",
+      "position": "WR",
+      "roster_id": 7,
+      "sleeper_id": "2078",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00013276",
       "c_avi": 44.8,
       "d_avi": 75.9,
@@ -5710,7 +5710,7 @@
       "position": "WR",
       "roster_id": 11,
       "sleeper_id": "9502",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
     },
