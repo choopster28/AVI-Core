@@ -52,7 +52,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: NE
 - Active: True
 - Status: Active
-- Age: 23.0
+- Age: 24.0
 - Championship AVI (C-AVI, 0-100): 97.5
 - Dynasty AVI (D-AVI, 0-100): 92.2
 - Projected PPR points: 322.9

@@ -3,6 +3,57 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-30 11:53:53",
+      "created_formated": "Sun, Aug 30th 11:53am UTC",
+      "desc": "Keenan Allen is facing two DUI charges after being arrested early Sunday morning.",
+      "id": 604750,
+      "impact": "The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.",
+      "link": "https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php",
+      "player_id": 11616,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Keenan Allen facing two DUI charges after arrest early Sunday morning"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-30 01:18:39",
+      "created_formated": "Sun, Aug 30th 1:18am UTC",
+      "desc": "Ronnie Bell has been waived by the New Orleans Saints.",
+      "id": 604688,
+      "impact": "Bell has spent time with both the 49ers and the Saints since being drafted in the seventh round in 2023. However, his role has been minimal, with ten receptions in his career. If there's any positive, he's been great at scoring touchdowns on such low volume, with four touchdowns on those ten catches. He'll look to find a spot elsewhere.",
+      "link": "https://www.fantasypros.com/nfl/news/604688/ronnie-bell-waived-by-saints.php",
+      "player_id": 23012,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Ronnie Bell waived by the Saints"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-30 01:15:29",
+      "created_formated": "Sun, Aug 30th 1:15am UTC",
+      "desc": "Bub Means has been waived by the New Orleans Saints.",
+      "id": 604687,
+      "impact": "Means was a fifth-round pick out of Pitt for the Saints back in 2024. He suffered an ankle injury that caused him to miss all of 2025, putting him behind the eight ball in establishing himself on the roster. And now he finds himself on the outside looking in after roster cuts.",
+      "link": "https://www.fantasypros.com/nfl/news/604687/bub-means-waived-by-saints.php",
+      "player_id": 26354,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Bub Means waived by the Saints"
+    },
+    {
       "author": "Nate Miller",
       "categories": [
         "Commentary",
@@ -383,57 +434,6 @@
       "sport_id": "NFL",
       "team_id": "FA",
       "title": "Xavier Thomas, 49ers reach injury settlement "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:48:24",
-      "created_formated": "Fri, Aug 28th 4:48pm UTC",
-      "desc": "The Jets waived Cade York. ",
-      "id": 604525,
-      "impact": "York will figure to seek another opportunity at some point before or during the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/604525/cade-york-waived-by-jets.php",
-      "player_id": 24549,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Cade York waived by Jets"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:47:22",
-      "created_formated": "Fri, Aug 28th 4:47pm UTC",
-      "desc": "The Dolphins claimed WR Ryan Miller off waivers. ",
-      "id": 604524,
-      "impact": "Miller was waived by the Giants earlier in the week. He'll add depth in the wide receiver room for Miami. ",
-      "link": "https://www.fantasypros.com/nfl/news/604524/ryan-miller-claimed-off-waivers-by-dolphins.php",
-      "player_id": 25857,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Ryan Miller claimed off waivers by Dolphins "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:45:30",
-      "created_formated": "Fri, Aug 28th 4:45pm UTC",
-      "desc": "The Broncos signed DE Ron Stone Jr.",
-      "id": 604523,
-      "impact": "Stone will compete for a depth role on the Broncos defensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/604523/ron-stone-jr-signs-with-broncos.php",
-      "player_id": 26525,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Ron Stone Jr. signs with Broncos "
     }
   ],
   "public_api_limited": true,

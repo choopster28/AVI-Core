@@ -712,15 +712,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "17826",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CIN",
-    "player_name": "Tanner Hudson",
-    "position": "TE",
-    "sleeper_id": "5409"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "18218",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NE",
@@ -837,10 +828,10 @@
     "sleeper_id": "8917"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "18557",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "TB",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Jake Browning",
     "position": "QB",
     "sleeper_id": "6111"
@@ -1303,6 +1294,15 @@
     "player_name": "Reggie Gilliam",
     "position": "RB",
     "sleeper_id": "7204"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "20082",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LAC",
+    "player_name": "Trey Lance",
+    "position": "QB",
+    "sleeper_id": "7610"
   },
   {
     "confidence": "verified",
@@ -2089,15 +2089,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "23167",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DAL",
-    "player_name": "Michael Trigg",
-    "position": "TE",
-    "sleeper_id": "13401"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "23179",
     "match_method": "exact_name_position_unique",
     "nfl_team": "TB",
@@ -2413,15 +2404,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "24345",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "PIT",
-    "player_name": "Drew Allar",
-    "position": "QB",
-    "sleeper_id": "13289"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "24346",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NYJ",
@@ -2502,10 +2484,10 @@
     "sleeper_id": "13302"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "24370",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CIN",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Mitch Tinsley",
     "position": "WR",
     "sleeper_id": "11068"
@@ -3744,10 +3726,10 @@
     "sleeper_id": "13345"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "27326",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NE",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Jam Miller",
     "position": "RB",
     "sleeper_id": "13403"
@@ -3895,6 +3877,15 @@
     "player_name": "Tyler Loop",
     "position": "K",
     "sleeper_id": "12711"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "27667",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ATL",
+    "player_name": "Nathan Carter",
+    "position": "RB",
+    "sleeper_id": "12897"
   },
   {
     "confidence": "verified",

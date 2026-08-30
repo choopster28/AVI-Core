@@ -154,7 +154,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: PHI
 - Active: True
 - Status: Active
-- Age: 23.0
+- Age: 24.0
 - Championship AVI (C-AVI, 0-100): 41.1
 - Dynasty AVI (D-AVI, 0-100): 63.3
 - Projected PPR points: 82.2

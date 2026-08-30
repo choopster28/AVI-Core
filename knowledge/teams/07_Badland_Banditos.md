@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 652.5
 - championship_lineup_c_avi_avg: 81.56
-- offensive_roster_c_avi_sum: 977.5
-- offensive_roster_c_avi_avg: 61.09
-- offensive_roster_d_avi_sum: 1181.9
-- offensive_roster_d_avi_avg: 73.87
+- offensive_roster_c_avi_sum: 972.7
+- offensive_roster_c_avi_avg: 60.79
+- offensive_roster_d_avi_sum: 1170.5
+- offensive_roster_d_avi_avg: 73.16
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -263,20 +263,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Bryce Lance
-- Player name: Bryce Lance
-- Player ID: 13420
+### PLAYER: Zavion Thomas
+- Player name: Zavion Thomas
+- Player ID: 13411
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: NO
+- NFL team: CHI
 - Active: True
 - Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 25.3
-- Dynasty AVI (D-AVI, 0-100): 55.6
-- Projected PPR points: 39.5
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 20.5
+- Dynasty AVI (D-AVI, 0-100): 44.2
+- Projected PPR points: 34.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
