@@ -790,7 +790,7 @@
       "player_name": "Savion Williams",
       "position": "WR",
       "sleeper_id": "12482",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -1594,7 +1594,7 @@
       "player_name": "Jeremy McNichols",
       "position": "RB",
       "sleeper_id": "4219",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -4158,7 +4158,7 @@
       "position": "RB",
       "roster_id": 12,
       "sleeper_id": "4137",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
     },
@@ -4526,7 +4526,7 @@
       "position": "WR",
       "roster_id": 3,
       "sleeper_id": "13281",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
     },
