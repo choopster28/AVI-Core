@@ -3,6 +3,231 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-29 22:04:59",
+      "created_formated": "Sat, Aug 29th 10:04pm UTC",
+      "desc": "Bailey Zappe was released by the Jets on Saturday. ",
+      "id": 604675,
+      "impact": "Zappe had been competing with fourth-round pick Cade Klubnik and second-year pro Brady Cool for the Jets' backup QB spots behind Geno Smith. Zappe will now look to catch on with a different team. ",
+      "link": "https://www.fantasypros.com/nfl/news/604675/bailey-zappe-released-by-jets.php",
+      "player_id": 24027,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Bailey Zappe released by Jets"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-29 20:51:53",
+      "created_formated": "Sat, Aug 29th 8:51pm UTC",
+      "desc": "Quinn Ewers has been traded to the Jacksonville Jaguars for a 2028 Day 3 pick swap.",
+      "id": 604674,
+      "impact": "This feels like a vote of confidence in Malik Willis for Miami's side of things, as Ewers was their starter for a few weeks last season and wasn't all that bad. As for the Jaguars, it looks like they're trying to secure someone they can have confidence in as a backup behind Trevor Lawrence.",
+      "link": "https://www.fantasypros.com/nfl/news/604674/quinn-ewers-traded-to-jaguars.php",
+      "player_id": 23680,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Quinn Ewers traded to Jaguars"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-29 20:32:41",
+      "created_formated": "Sat, Aug 29th 8:32pm UTC",
+      "desc": "Brett Rypien is likely to be released by the Texans.",
+      "id": 604673,
+      "impact": "Rypien is currently the third quarterback on the roster, so the team is rolling with CJ Stroud and Davis Mills. Don't be surprised if they bring back Rypien as an emergency third QB, however.",
+      "link": "https://www.fantasypros.com/nfl/news/604673/brett-rypien-likely-to-be-released-by-texans.php",
+      "player_id": 18323,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Brett Rypien likely to be released by Texans"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-29 20:29:41",
+      "created_formated": "Sat, Aug 29th 8:29pm UTC",
+      "desc": "Ambry Thomas has been released by the Philadelphia Eagles.",
+      "id": 604672,
+      "impact": "The veteran corner last played in 2023 with the 49ers and has been trying to find his way back onto the field since. He will have to continue his search elsewhere.",
+      "link": "https://www.fantasypros.com/nfl/news/604672/ambry-thomas-released-by-eagles.php",
+      "player_id": 22736,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Ambry Thomas released by Eagles"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-29 20:22:58",
+      "created_formated": "Sat, Aug 29th 8:22pm UTC",
+      "desc": "Corey Kiner has been traded to the New England Patriots for a seventh-round pick. In a corresponding move, the Pats released Hassan Haskins.",
+      "id": 604670,
+      "impact": "The trade for Kiner is interesting. While the cost to acquire is minimal, you would think given the Patriots depth at running back at this point in the season, they'd be trading for Kiner based on special teams usage. But, he was barely used in that department by Arizona last year and all throughout college. He's not a receiving specialist; in fact, you could say he was the opposite. So the move is puzzling, but we will have to see how they plan on deploying the former Bearcat.",
+      "link": "https://www.fantasypros.com/nfl/news/604670/corey-kiner-traded-to-new-england-patriots.php",
+      "player_id": 22997,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Corey Kiner traded to the New England Patriots"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-29 20:24:23",
+      "created_formated": "Sat, Aug 29th 8:24pm UTC",
+      "desc": "Hassan Haskins has been released by the New England Patriots after the team traded for Corey Kiner from the Cardinals.",
+      "id": 604671,
+      "impact": "Haskins will look to find a new home elsewhere, though his chances of making a roster are slimming by the day.",
+      "link": "https://www.fantasypros.com/nfl/news/604671/hassan-haskins-released-by-patriots.php",
+      "player_id": 23798,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Hassan Haskins released by Patriots"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-29 19:12:58",
+      "created_formated": "Sat, Aug 29th 7:12pm UTC",
+      "desc": "Bobby Okereke signed with the Panthers on Saturday. ",
+      "id": 604667,
+      "impact": "The Panthers were looking to add some veteran experience at the linebacker spot, and they did just that with Okereke. The 30-year-old is entering his eighth NFL season. Okereke started all 17 games for the Giants last season, racking up 143 total tackles with two interceptions and one sack. ",
+      "link": "https://www.fantasypros.com/nfl/news/604667/bobby-okereke-signs-with-panthers.php",
+      "player_id": 18678,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Bobby Okereke signs with the Panthers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-29 18:03:04",
+      "created_formated": "Sat, Aug 29th 6:03pm UTC",
+      "desc": "Broncos coach Sean Payton said WR Marvin Mims Jr. suffered a bruised foot in the Broncos final preseason game. ",
+      "id": 604653,
+      "impact": "Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/604653/marvin-mims-jr-suffers-bruised-foot.php",
+      "player_id": 23080,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Marvin Mims Jr. suffers bruised foot"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-29 18:00:00",
+      "created_formated": "Sat, Aug 29th 6:00pm UTC",
+      "desc": "The Bills released WR Mecole Hardman Jr.",
+      "id": 604652,
+      "impact": "Hardman appeared in only two games with the Bills last season. He'll figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/604652/mecole-hardman-jr-released-by-bills.php",
+      "player_id": 18587,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Mecole Hardman Jr. released by Bills"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-29 17:58:13",
+      "created_formated": "Sat, Aug 29th 5:58pm UTC",
+      "desc": "Buccaneers coach Todd Bowles said he is hopeful WR Emeka Egbuka will be available Week 1 against the Bengals. ",
+      "id": 604651,
+      "impact": "Egbuka has been working his way back from a toe injury during training camp. He is a WR2 with WR1 upside when healthy this season for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/604651/emeka-egbuka-toe-hopeful-week-1.php",
+      "player_id": 23062,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Emeka Egbuka (toe) hopeful for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-29 17:56:08",
+      "created_formated": "Sat, Aug 29th 5:56pm UTC",
+      "desc": "Buccaneers coach Todd Bowles said he expects WR Jalen McMillan to be available for Week 1 against the Bengals. ",
+      "id": 604650,
+      "impact": "McMillan has been battling through knee and leg injuries during training camp. He is expected to compete for the immediate WR3 role for Tampa Bay. ",
+      "link": "https://www.fantasypros.com/nfl/news/604650/jalen-mcmillan-knee-expected-to-be-available-week-1.php",
+      "player_id": 23179,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Jalen McMillan (knee) expected to be available Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-29 17:52:31",
+      "created_formated": "Sat, Aug 29th 5:52pm UTC",
+      "desc": "Alec Pierce went through pregame before Saturday's preseason game against the Lions. ",
+      "id": 604649,
+      "impact": "Pierce was activated from the PUP list earlier this week. He has a chance to be ready for Week 1 against the Ravens. ",
+      "link": "https://www.fantasypros.com/nfl/news/604649/alec-pierce-goes-through-pregame-not-playing.php",
+      "player_id": 23791,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Alec Pierce goes through pregame, not playing"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-08-29 17:49:42",
+      "created_formated": "Sat, Aug 29th 5:49pm UTC",
+      "desc": "Patrick Mahomes II remains on track to be good to go for Week 1 against the Broncos. ",
+      "id": 604648,
+      "impact": "Mahomes has worked his way back from a torn ACL. He didn't see any action in the preseason, but he is expected to be good to go for the season opener. ",
+      "link": "https://www.fantasypros.com/nfl/news/604648/patrick-mahomes-ii-knee-on-track-to-start-week-1.php",
+      "player_id": 16413,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "Patrick Mahomes II (knee) on track to start Week 1"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -209,228 +434,6 @@
       "sport_id": "NFL",
       "team_id": "DEN",
       "title": "Ron Stone Jr. signs with Broncos "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:44:25",
-      "created_formated": "Fri, Aug 28th 4:44pm UTC",
-      "desc": "Vikings WR Jeshaun Jones has been suspended three games.  ",
-      "id": 604522,
-      "impact": "Jones will be eligible to be active in Week 4. ",
-      "link": "https://www.fantasypros.com/nfl/news/604522/jeshaun-jones-suspended-three-games.php",
-      "player_id": 26423,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Jeshaun Jones suspended three games"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:43:08",
-      "created_formated": "Fri, Aug 28th 4:43pm UTC",
-      "desc": "The Texans signed DL Derek Parish. ",
-      "id": 604521,
-      "impact": "Parish worked out with Houston earlier in the week. He'll compete for a depth role on its defensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/604521/derek-parish-signs-with-texans.php",
-      "player_id": 25506,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Derek Parish signs with Texans "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-28 16:41:09",
-      "created_formated": "Fri, Aug 28th 4:41pm UTC",
-      "desc": "The Steelers and Israel Mukuamu reached an injury settlement. ",
-      "id": 604520,
-      "impact": "Mukuamu will figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/604520/israel-mukuamu-reaches-injury-settlement-with-steelers.php",
-      "player_id": 22750,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Israel Mukuamu reaches injury settlement with Steelers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:39:57",
-      "created_formated": "Fri, Aug 28th 4:39pm UTC",
-      "desc": "The 49ers terminated the contract of Josiah Deguara.",
-      "id": 604519,
-      "impact": "Deguara will figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/604519/josiah-deguara-has-contract-terminated-by-49ers.php",
-      "player_id": 19456,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Josiah Deguara has contract terminated by 49ers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:39:03",
-      "created_formated": "Fri, Aug 28th 4:39pm UTC",
-      "desc": "The Lions signed safety Jason Taylor II. ",
-      "id": 604518,
-      "impact": "Taylor will compete for a depth role in the Lions secondary. ",
-      "link": "https://www.fantasypros.com/nfl/news/604518/jason-taylor-ii-signs-with-lions.php",
-      "player_id": 25583,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jason Taylor II signs with Lions "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:37:54",
-      "created_formated": "Fri, Aug 28th 4:37pm UTC",
-      "desc": "The Chiefs signed LB Niles King. ",
-      "id": 604516,
-      "impact": "King will compete for a depth role in the Chiefs linebacker room.",
-      "link": "https://www.fantasypros.com/nfl/news/604516/niles-king-signs-with-chiefs.php",
-      "player_id": 28519,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Niles King signs with Chiefs"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:36:03",
-      "created_formated": "Fri, Aug 28th 4:36pm UTC",
-      "desc": "The Rams signed DL Devean Deal. ",
-      "id": 604515,
-      "impact": "Deal will compete for a depth role on the Rams defensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/604515/devean-deal-signs-with-rams.php",
-      "player_id": 28598,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Devean Deal signs with Rams"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:35:19",
-      "created_formated": "Fri, Aug 28th 4:35pm UTC",
-      "desc": "The Rams signed CB Steven Gilmore Jr.",
-      "id": 604514,
-      "impact": "Gilmore will compete for a depth role in the Rams secondary. ",
-      "link": "https://www.fantasypros.com/nfl/news/604514/steven-gilmore-jr-signs-with-rams.php",
-      "player_id": 25922,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Steven Gilmore Jr. signs with Rams"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:34:03",
-      "created_formated": "Fri, Aug 28th 4:34pm UTC",
-      "desc": "The Eagles signed Jaylen Mahoney. ",
-      "id": 604513,
-      "impact": "Mahoney will compete for a depth role in the Eagles secondary. ",
-      "link": "https://www.fantasypros.com/nfl/news/604513/jaylen-mahoney-signs-with-eagles.php",
-      "player_id": 26885,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jaylen Mahoney signs with Eagles "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:33:26",
-      "created_formated": "Fri, Aug 28th 4:33pm UTC",
-      "desc": "The Eagles signed RB Jordan Mims. ",
-      "id": 604512,
-      "impact": "Mims will compete for a depth role in the Eagles backfield. ",
-      "link": "https://www.fantasypros.com/nfl/news/604512/jordan-mims-signs-with-eagles.php",
-      "player_id": 25816,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jordan Mims signs with Eagles "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:32:16",
-      "created_formated": "Fri, Aug 28th 4:32pm UTC",
-      "desc": "The Raiders released WR Noah Brown. ",
-      "id": 604511,
-      "impact": "Brown will figure to seek another opportunity before the season starts. ",
-      "link": "https://www.fantasypros.com/nfl/news/604511/noah-brown-released-by-raiders.php",
-      "player_id": 16443,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Noah Brown released by Raiders "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:28:59",
-      "created_formated": "Fri, Aug 28th 4:28pm UTC",
-      "desc": "The Dolphins waived CB Ahmari Harvey. ",
-      "id": 604509,
-      "impact": "Harvey will figure to seek another opportunity before the season starts. ",
-      "link": "https://www.fantasypros.com/nfl/news/604509/ahmari-harvey-waived-by-dolphins.php",
-      "player_id": 28836,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Ahmari Harvey waived by Dolphins"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-08-28 16:27:47",
-      "created_formated": "Fri, Aug 28th 4:27pm UTC",
-      "desc": "The Dolphins waived OL Jim Bonifas.",
-      "id": 604508,
-      "impact": "Bonifas will figure to seek another opportunity before the season starts. ",
-      "link": "https://www.fantasypros.com/nfl/news/604508/jim-bonifas-waived-by-dolphins.php",
-      "player_id": 28795,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jim Bonifas waived by Dolphins "
     }
   ],
   "public_api_limited": true,

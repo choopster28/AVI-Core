@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-08-29
+- Last updated from Sleeper exports: 2026-08-30
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 749.9
 - championship_lineup_c_avi_avg: 93.74
-- offensive_roster_c_avi_sum: 1122.6
-- offensive_roster_c_avi_avg: 66.04
-- offensive_roster_d_avi_sum: 1258.8
-- offensive_roster_d_avi_avg: 74.05
+- offensive_roster_c_avi_sum: 1091.1
+- offensive_roster_c_avi_avg: 68.19
+- offensive_roster_d_avi_sum: 1214.3
+- offensive_roster_d_avi_avg: 75.89
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -263,23 +263,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Xavier Hutchinson
-- Player name: Xavier Hutchinson
-- Player ID: 10218
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: HOU
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 31.5
-- Dynasty AVI (D-AVI, 0-100): 44.5
-- Projected PPR points: 89.8
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Chris Brazzell
 - Player name: Chris Brazzell
 - Player ID: 13353
@@ -296,6 +279,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: Dohnte Meyers
+- Player name: Dohnte Meyers
+- Player ID: 13264
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CIN
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: offense
+- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Harold Fannin
 - Player name: Harold Fannin

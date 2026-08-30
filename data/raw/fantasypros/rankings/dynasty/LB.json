@@ -1327,7 +1327,7 @@
     {
       "cbs_player_id": "2136745",
       "player_age": "30",
-      "player_bye_week": null,
+      "player_bye_week": "5",
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "bobby-okereke.php",
@@ -1340,7 +1340,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "B. Okereke",
-      "player_team_id": "FA",
+      "player_team_id": "CAR",
       "player_yahoo_id": "31921",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB52",
