@@ -13,8 +13,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 16
+- total_players: 22
+- offense: 18
 - kickers: 1
 - idp: 3
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 627.1
 - championship_lineup_c_avi_avg: 78.39
-- offensive_roster_c_avi_sum: 941.0
-- offensive_roster_c_avi_avg: 58.81
-- offensive_roster_d_avi_sum: 1230.4
-- offensive_roster_d_avi_avg: 76.90
+- offensive_roster_c_avi_sum: 1008.7
+- offensive_roster_c_avi_avg: 56.04
+- offensive_roster_d_avi_sum: 1335.5
+- offensive_roster_d_avi_avg: 74.19
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -136,7 +136,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['RB']
 - NFL team: BAL
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 35.3
 - Dynasty AVI (D-AVI, 0-100): 54.1
@@ -175,6 +175,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 27.6
 - Dynasty AVI (D-AVI, 0-100): 61.4
 - Projected PPR points: 21.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Demond Claiborne
+- Player name: Demond Claiborne
+- Player ID: 13347
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: MIN
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 24.0
+- Dynasty AVI (D-AVI, 0-100): 57.6
+- Projected PPR points: 16.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -311,6 +328,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 71.7
 - Dynasty AVI (D-AVI, 0-100): 81.5
 - Projected PPR points: 165.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Darren Waller
+- Player name: Darren Waller
+- Player ID: 2505
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 43.7
+- Dynasty AVI (D-AVI, 0-100): 47.5
+- Projected PPR points: 111.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

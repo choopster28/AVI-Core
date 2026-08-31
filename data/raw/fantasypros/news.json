@@ -3,6 +3,40 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Cooper Kleinberg",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-31 19:03:07",
+      "created_formated": "Mon, Aug 31st 7:03pm UTC",
+      "desc": "QB Will Levis went unclaimed on waivers after being released by the Titans.",
+      "id": 605037,
+      "impact": "Levis could still be picked up to serve as a team's QB3 or join a practice squad ahead of the season.",
+      "link": "https://www.fantasypros.com/nfl/news/605037/will-levis-unclaimed-on-waivers.php",
+      "player_id": 22987,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Will Levis goes unclaimed on waivers"
+    },
+    {
+      "author": "Cooper Kleinberg",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-08-31 18:59:51",
+      "created_formated": "Mon, Aug 31st 6:59pm UTC",
+      "desc": "Jets HC Aaron Glenn announced that Cade Klubnik will be the team's QB2.",
+      "id": 605036,
+      "impact": "Klubnik will sit behind Geno Smith to open the season, but if things go south quickly for New York, the fourth-round pick could see action later in the year.",
+      "link": "https://www.fantasypros.com/nfl/news/605036/cade-klubnik-will-be-jets-qb2.php",
+      "player_id": 24361,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Cade Klubnik will be Jets QB2"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -401,42 +435,6 @@
       "sport_id": "NFL",
       "team_id": "FA",
       "title": "Jalin Hyatt waived by Giants "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-30 22:52:01",
-      "created_formated": "Sun, Aug 30th 10:52pm UTC",
-      "desc": "The 49ers placed Isaac Guerendo to the reserve/PUP list.",
-      "id": 604962,
-      "impact": "Guerendo is working his way back from a pec injury. He will miss at least the first four weeks of the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/604962/isaac-guerendo-placed-on-reservepup-list.php",
-      "player_id": 26392,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Isaac Guerendo placed on reserve/PUP list"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-08-30 22:45:23",
-      "created_formated": "Sun, Aug 30th 10:45pm UTC",
-      "desc": "The Cardinals placed RB James Conner on injured reserve/designated to return. ",
-      "id": 604961,
-      "impact": "Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. ",
-      "link": "https://www.fantasypros.com/nfl/news/604961/james-conner-foot-placed-on-injured-reservedesignated-to-return.php",
-      "player_id": 16447,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "James Conner (foot) placed on injured reserve/designated to return"
     }
   ],
   "public_api_limited": true,

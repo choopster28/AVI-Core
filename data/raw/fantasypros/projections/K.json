@@ -15,10 +15,10 @@
       "stats": {
         "fg": 35.16,
         "fga": 39.55,
-        "points": 153.03,
-        "points_half": 153.03,
-        "points_ppr": 153.03,
-        "xpt": 47.55
+        "points": 152.44,
+        "points_half": 152.44,
+        "points_ppr": 152.44,
+        "xpt": 46.96
       },
       "team_id": "DAL"
     },
@@ -30,11 +30,11 @@
       "position_id": "K",
       "stats": {
         "fg": 34.7,
-        "fga": 39.96,
-        "points": 150.41,
-        "points_half": 150.41,
-        "points_ppr": 150.41,
-        "xpt": 46.32
+        "fga": 39.62,
+        "points": 150.42,
+        "points_half": 150.42,
+        "points_ppr": 150.42,
+        "xpt": 46.33
       },
       "team_id": "SEA"
     },
@@ -47,10 +47,10 @@
       "stats": {
         "fg": 36.3,
         "fga": 40.46,
-        "points": 144.06,
-        "points_half": 144.06,
-        "points_ppr": 144.06,
-        "xpt": 35.16
+        "points": 144.01,
+        "points_half": 144.01,
+        "points_ppr": 144.01,
+        "xpt": 35.11
       },
       "team_id": "HOU"
     },
@@ -71,20 +71,20 @@
       "team_id": "LAC"
     },
     {
-      "filename": "harrison-mevis.php",
-      "fpid": 26638,
-      "mflid": 16843,
-      "name": "Harrison Mevis",
+      "filename": "spencer-shrader.php",
+      "fpid": 26763,
+      "mflid": 16896,
+      "name": "Spencer Shrader",
       "position_id": "K",
       "stats": {
-        "fg": 27.32,
-        "fga": 30.15,
-        "points": 136.88,
-        "points_half": 136.88,
-        "points_ppr": 136.88,
-        "xpt": 54.93
+        "fg": 31.86,
+        "fga": 36.23,
+        "points": 139.07,
+        "points_half": 139.07,
+        "points_ppr": 139.07,
+        "xpt": 43.49
       },
-      "team_id": "LAR"
+      "team_id": "IND"
     },
     {
       "filename": "jake-bates.php",
@@ -95,28 +95,28 @@
       "stats": {
         "fg": 28.28,
         "fga": 33.81,
-        "points": 135.86,
-        "points_half": 135.86,
-        "points_ppr": 135.86,
-        "xpt": 51.03
+        "points": 135.99,
+        "points_half": 135.99,
+        "points_ppr": 135.99,
+        "xpt": 51.16
       },
       "team_id": "DET"
     },
     {
-      "filename": "blake-grupe.php",
-      "fpid": 25533,
-      "mflid": 16444,
-      "name": "Blake Grupe",
+      "filename": "harrison-mevis.php",
+      "fpid": 26638,
+      "mflid": 16843,
+      "name": "Harrison Mevis",
       "position_id": "K",
       "stats": {
-        "fg": 30.18,
-        "fga": 36.48,
-        "points": 133.44,
-        "points_half": 133.44,
-        "points_ppr": 133.44,
-        "xpt": 42.89
+        "fg": 26.98,
+        "fga": 30.15,
+        "points": 135.83,
+        "points_half": 135.83,
+        "points_ppr": 135.83,
+        "xpt": 54.88
       },
-      "team_id": "FA"
+      "team_id": "LAR"
     },
     {
       "filename": "cairo-santos.php",
@@ -127,10 +127,10 @@
       "stats": {
         "fg": 29.99,
         "fga": 34.49,
-        "points": 133.31,
-        "points_half": 133.31,
-        "points_ppr": 133.31,
-        "xpt": 43.34
+        "points": 133.26,
+        "points_half": 133.26,
+        "points_ppr": 133.26,
+        "xpt": 43.29
       },
       "team_id": "CHI"
     },
@@ -142,7 +142,7 @@
       "position_id": "K",
       "stats": {
         "fg": 31.52,
-        "fga": 36.49,
+        "fga": 36.16,
         "points": 132.86,
         "points_half": 132.86,
         "points_ppr": 132.86,
@@ -159,10 +159,10 @@
       "stats": {
         "fg": 31.04,
         "fga": 34.69,
-        "points": 132.62,
-        "points_half": 132.62,
-        "points_ppr": 132.62,
-        "xpt": 39.5
+        "points": 132.08,
+        "points_half": 132.08,
+        "points_ppr": 132.08,
+        "xpt": 38.96
       },
       "team_id": "SF"
     },
@@ -175,10 +175,10 @@
       "stats": {
         "fg": 28.43,
         "fga": 32.48,
-        "points": 132.05,
-        "points_half": 132.05,
-        "points_ppr": 132.05,
-        "xpt": 46.77
+        "points": 132,
+        "points_half": 132,
+        "points_ppr": 132,
+        "xpt": 46.72
       },
       "team_id": "BAL"
     },
@@ -207,10 +207,10 @@
       "stats": {
         "fg": 29.11,
         "fga": 32.45,
-        "points": 131.47,
-        "points_half": 131.47,
-        "points_ppr": 131.47,
-        "xpt": 44.14
+        "points": 131.52,
+        "points_half": 131.52,
+        "points_ppr": 131.52,
+        "xpt": 44.19
       },
       "team_id": "JAC"
     },
@@ -223,10 +223,10 @@
       "stats": {
         "fg": 30.9,
         "fga": 34.17,
-        "points": 130.71,
-        "points_half": 130.71,
-        "points_ppr": 130.71,
-        "xpt": 38.02
+        "points": 130.85,
+        "points_half": 130.85,
+        "points_ppr": 130.85,
+        "xpt": 38.16
       },
       "team_id": "MIN"
     },
@@ -239,10 +239,10 @@
       "stats": {
         "fg": 27.67,
         "fga": 32.15,
-        "points": 128.73,
-        "points_half": 128.73,
-        "points_ppr": 128.73,
-        "xpt": 45.71
+        "points": 128.58,
+        "points_half": 128.58,
+        "points_ppr": 128.58,
+        "xpt": 45.56
       },
       "team_id": "CIN"
     },
@@ -255,10 +255,10 @@
       "stats": {
         "fg": 28.99,
         "fga": 33.67,
-        "points": 128.5,
-        "points_half": 128.5,
-        "points_ppr": 128.5,
-        "xpt": 41.54
+        "points": 128.45,
+        "points_half": 128.45,
+        "points_ppr": 128.45,
+        "xpt": 41.49
       },
       "team_id": "DEN"
     },
@@ -271,10 +271,10 @@
       "stats": {
         "fg": 28.93,
         "fga": 34.13,
-        "points": 126.35,
-        "points_half": 126.35,
-        "points_ppr": 126.35,
-        "xpt": 39.57
+        "points": 126.49,
+        "points_half": 126.49,
+        "points_ppr": 126.49,
+        "xpt": 39.71
       },
       "team_id": "GB"
     },
@@ -286,13 +286,29 @@
       "position_id": "K",
       "stats": {
         "fg": 25.61,
-        "fga": 30.87,
-        "points": 123.58,
-        "points_half": 123.58,
-        "points_ppr": 123.58,
-        "xpt": 46.75
+        "fga": 30.53,
+        "points": 123.66,
+        "points_half": 123.66,
+        "points_ppr": 123.66,
+        "xpt": 46.83
       },
       "team_id": "BUF"
+    },
+    {
+      "filename": "daniel-carlson.php",
+      "fpid": 17420,
+      "mflid": 13718,
+      "name": "Daniel Carlson",
+      "position_id": "K",
+      "stats": {
+        "fg": 29.55,
+        "fga": 34.68,
+        "points": 122.46,
+        "points_half": 122.46,
+        "points_ppr": 122.46,
+        "xpt": 33.82
+      },
+      "team_id": "NO"
     },
     {
       "filename": "nick-folk.php",
@@ -319,28 +335,12 @@
       "stats": {
         "fg": 26.05,
         "fga": 31.83,
-        "points": 119.8,
-        "points_half": 119.8,
-        "points_ppr": 119.8,
-        "xpt": 41.66
+        "points": 119.78,
+        "points_half": 119.78,
+        "points_ppr": 119.78,
+        "xpt": 41.64
       },
       "team_id": "PHI"
-    },
-    {
-      "filename": "daniel-carlson.php",
-      "fpid": 17420,
-      "mflid": 13718,
-      "name": "Daniel Carlson",
-      "position_id": "K",
-      "stats": {
-        "fg": 29.32,
-        "fga": 34.52,
-        "points": 119.68,
-        "points_half": 119.68,
-        "points_ppr": 119.68,
-        "xpt": 31.72
-      },
-      "team_id": "NO"
     },
     {
       "filename": "andres-borregales.php",
@@ -351,10 +351,10 @@
       "stats": {
         "fg": 25.79,
         "fga": 30.88,
-        "points": 119.38,
-        "points_half": 119.38,
-        "points_ppr": 119.38,
-        "xpt": 42
+        "points": 119.47,
+        "points_half": 119.47,
+        "points_ppr": 119.47,
+        "xpt": 42.09
       },
       "team_id": "NE"
     },
@@ -367,10 +367,10 @@
       "stats": {
         "fg": 28.12,
         "fga": 32.37,
-        "points": 118.34,
-        "points_half": 118.34,
-        "points_ppr": 118.34,
-        "xpt": 33.97
+        "points": 118.29,
+        "points_half": 118.29,
+        "points_ppr": 118.29,
+        "xpt": 33.92
       },
       "team_id": "PIT"
     },
@@ -383,10 +383,10 @@
       "stats": {
         "fg": 26.55,
         "fga": 32.15,
-        "points": 116.79,
-        "points_half": 116.79,
-        "points_ppr": 116.79,
-        "xpt": 37.14
+        "points": 116.71,
+        "points_half": 116.71,
+        "points_ppr": 116.71,
+        "xpt": 37.06
       },
       "team_id": "WAS"
     },
@@ -399,10 +399,10 @@
       "stats": {
         "fg": 27.85,
         "fga": 32.07,
-        "points": 114.72,
-        "points_half": 114.72,
-        "points_ppr": 114.72,
-        "xpt": 31.16
+        "points": 114.81,
+        "points_half": 114.81,
+        "points_ppr": 114.81,
+        "xpt": 31.25
       },
       "team_id": "MIA"
     },
@@ -415,10 +415,10 @@
       "stats": {
         "fg": 27.41,
         "fga": 33.13,
-        "points": 113.93,
-        "points_half": 113.93,
-        "points_ppr": 113.93,
-        "xpt": 31.7
+        "points": 113.89,
+        "points_half": 113.89,
+        "points_ppr": 113.89,
+        "xpt": 31.66
       },
       "team_id": "TEN"
     },
@@ -431,10 +431,10 @@
       "stats": {
         "fg": 27.14,
         "fga": 32.13,
-        "points": 113.32,
-        "points_half": 113.32,
-        "points_ppr": 113.32,
-        "xpt": 31.91
+        "points": 113.41,
+        "points_half": 113.41,
+        "points_ppr": 113.41,
+        "xpt": 32
       },
       "team_id": "NYJ"
     },
@@ -447,10 +447,10 @@
       "stats": {
         "fg": 26.63,
         "fga": 33.09,
-        "points": 111.66,
-        "points_half": 111.66,
-        "points_ppr": 111.66,
-        "xpt": 31.77
+        "points": 111.6,
+        "points_half": 111.6,
+        "points_ppr": 111.6,
+        "xpt": 31.71
       },
       "team_id": "ARI"
     },
@@ -463,10 +463,10 @@
       "stats": {
         "fg": 25.51,
         "fga": 30.16,
-        "points": 107.91,
-        "points_half": 107.91,
-        "points_ppr": 107.91,
-        "xpt": 31.39
+        "points": 108,
+        "points_half": 108,
+        "points_ppr": 108,
+        "xpt": 31.48
       },
       "team_id": "CAR"
     },
@@ -495,10 +495,10 @@
       "stats": {
         "fg": 24.64,
         "fga": 28.13,
-        "points": 102.18,
-        "points_half": 102.18,
-        "points_ppr": 102.18,
-        "xpt": 28.27
+        "points": 102.1,
+        "points_half": 102.1,
+        "points_ppr": 102.1,
+        "xpt": 28.19
       },
       "team_id": "CLE"
     },
@@ -509,30 +509,14 @@
       "name": "Dominic Zvada",
       "position_id": "K",
       "stats": {
-        "fg": 18.18,
+        "fg": 17.84,
         "fga": 21.74,
-        "points": 76.71,
-        "points_half": 76.71,
-        "points_ppr": 76.71,
-        "xpt": 22.17
+        "points": 75.3,
+        "points_half": 75.3,
+        "points_ppr": 75.3,
+        "xpt": 21.8
       },
       "team_id": "NYG"
-    },
-    {
-      "filename": "charlie-smyth.php",
-      "fpid": 26444,
-      "mflid": 17424,
-      "name": "Charlie Smyth",
-      "position_id": "K",
-      "stats": {
-        "fg": 15,
-        "fga": 18,
-        "points": 63.5,
-        "points_half": 63.5,
-        "points_ppr": 63.5,
-        "xpt": 18.5
-      },
-      "team_id": "NO"
     },
     {
       "filename": "ben-sauls.php",
@@ -549,6 +533,22 @@
         "xpt": 12.5
       },
       "team_id": "NYG"
+    },
+    {
+      "filename": "blake-grupe.php",
+      "fpid": 25533,
+      "mflid": 16444,
+      "name": "Blake Grupe",
+      "position_id": "K",
+      "stats": {
+        "fg": 14,
+        "fga": 16.5,
+        "points": 42,
+        "points_half": 42,
+        "points_ppr": 42,
+        "xpt": 0
+      },
+      "team_id": "FA"
     },
     {
       "filename": "zane-gonzalez.php",
@@ -581,22 +581,6 @@
         "xpt": 0
       },
       "team_id": "FA"
-    },
-    {
-      "filename": "spencer-shrader.php",
-      "fpid": 26763,
-      "mflid": 16896,
-      "name": "Spencer Shrader",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "IND"
     },
     {
       "filename": "graham-gano.php",
@@ -699,6 +683,22 @@
       "fpid": 25616,
       "mflid": 16410,
       "name": "Tanner Brown",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "NO"
+    },
+    {
+      "filename": "charlie-smyth.php",
+      "fpid": 26444,
+      "mflid": 17424,
+      "name": "Charlie Smyth",
       "position_id": "K",
       "stats": {
         "fg": 0,

@@ -8,13 +8,13 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: awang1900
 - Owner ID: 986498458162970624
 - Division: 3
-- Waiver position: 16
+- Waiver position: 15
 - Last updated from Sleeper exports: 2026-08-31
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 16
+- total_players: 21
+- offense: 17
 - kickers: 1
 - idp: 3
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 673.8
 - championship_lineup_c_avi_avg: 84.22
-- offensive_roster_c_avi_sum: 981.0
-- offensive_roster_c_avi_avg: 61.31
-- offensive_roster_d_avi_sum: 1206.0
-- offensive_roster_d_avi_avg: 75.38
+- offensive_roster_c_avi_sum: 1015.3
+- offensive_roster_c_avi_avg: 59.72
+- offensive_roster_d_avi_sum: 1267.3
+- offensive_roster_d_avi_avg: 74.55
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -311,6 +311,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 97.3
 - Dynasty AVI (D-AVI, 0-100): 91.5
 - Projected PPR points: 199.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Eli Raridon
+- Player name: Eli Raridon
+- Player ID: 13421
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: NE
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 34.3
+- Dynasty AVI (D-AVI, 0-100): 61.3
+- Projected PPR points: 46.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
