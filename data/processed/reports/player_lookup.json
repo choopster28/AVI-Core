@@ -375,18 +375,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00013421",
-      "c_avi": 34.3,
-      "d_avi": 61.3,
-      "nfl_team": "NE",
-      "player_name": "Eli Raridon",
-      "position": "TE",
-      "sleeper_id": "13421",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012483",
       "c_avi": 34.1,
       "d_avi": 61.2,
@@ -2414,8 +2402,8 @@
     }
   ],
   "counts": {
-    "available_players": 201,
-    "rostered_players": 238
+    "available_players": 200,
+    "rostered_players": 239
   },
   "rostered_players": [
     {
@@ -3601,6 +3589,22 @@
       "status": "Active",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013421",
+      "c_avi": 34.3,
+      "d_avi": 61.3,
+      "nfl_team": "NE",
+      "owner_id": "986498458162970624",
+      "player_name": "Eli Raridon",
+      "position": "TE",
+      "roster_id": 11,
+      "sleeper_id": "13421",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,

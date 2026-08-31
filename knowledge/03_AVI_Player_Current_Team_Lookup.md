@@ -596,6 +596,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
+## PLAYER LOOKUP: Eli Raridon
+- Player name: Eli Raridon
+- Player ID: 13421
+- Position: TE
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Eli Stowers
 - Player name: Eli Stowers
 - Player ID: 13349
@@ -2187,15 +2195,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 34.5
 - Dynasty AVI (D-AVI, 0-100): 54.2
-- Availability: available
-
-## AVAILABLE PLAYER: Eli Raridon
-- Player name: Eli Raridon
-- Player ID: 13421
-- Position: TE
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 34.3
-- Dynasty AVI (D-AVI, 0-100): 61.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Jack Bech
