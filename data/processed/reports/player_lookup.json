@@ -75,18 +75,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00002505",
-      "c_avi": 43.7,
-      "d_avi": 47.5,
-      "nfl_team": "CAR",
-      "player_name": "Darren Waller",
-      "position": "TE",
-      "sleeper_id": "2505",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00001373",
       "c_avi": 43.5,
       "d_avi": 59.4,
@@ -910,18 +898,6 @@
       "player_name": "Tutu Atwell",
       "position": "WR",
       "sleeper_id": "7562",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013347",
-      "c_avi": 24.0,
-      "d_avi": 57.6,
-      "nfl_team": "MIN",
-      "player_name": "Demond Claiborne",
-      "position": "RB",
-      "sleeper_id": "13347",
       "status": "Active"
     },
     {
@@ -2402,8 +2378,8 @@
     }
   ],
   "counts": {
-    "available_players": 200,
-    "rostered_players": 239
+    "available_players": 198,
+    "rostered_players": 241
   },
   "rostered_players": [
     {
@@ -3353,6 +3329,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00002505",
+      "c_avi": 43.7,
+      "d_avi": 47.5,
+      "nfl_team": "CAR",
+      "owner_id": "992908759074680832",
+      "player_name": "Darren Waller",
+      "position": "TE",
+      "roster_id": 3,
+      "sleeper_id": "2505",
+      "status": "Active",
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00002133",
       "c_avi": 80.6,
       "d_avi": 84.6,
@@ -3477,6 +3469,22 @@
       "status": "Active",
       "team_file": "08_All_Hail_King_Jesus.md",
       "team_name": "All Hail King Jesus"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013347",
+      "c_avi": 24.0,
+      "d_avi": 57.6,
+      "nfl_team": "MIN",
+      "owner_id": "992908759074680832",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "roster_id": 3,
+      "sleeper_id": "13347",
+      "status": "Active",
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
