@@ -10,12 +10,12 @@
     "owner_id": "736993578450030592",
     "player_map": null,
     "players": [
+      "11237",
       "11635",
       "11742",
       "11834",
       "12501",
       "12506",
-      "13264",
       "13353",
       "13414",
       "13417",
@@ -383,7 +383,7 @@
       "11604",
       "11618",
       "11631",
-      "12048",
+      "11647",
       "12484",
       "12536",
       "13296",
@@ -411,8 +411,8 @@
       "losses": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 9789,
-      "waiver_position": 15,
+      "waiver_budget_used": 9795,
+      "waiver_position": 16,
       "wins": 0
     },
     "starters": [
@@ -658,7 +658,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 9761,
-      "waiver_position": 16,
+      "waiver_position": 15,
       "wins": 0
     },
     "starters": [
