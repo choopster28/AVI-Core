@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-08-30
+- Last updated from Sleeper exports: 2026-08-31
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -238,7 +238,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['WR']
 - NFL team: NO
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 49.9
 - Dynasty AVI (D-AVI, 0-100): 83.6

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 16
-- Last updated from Sleeper exports: 2026-08-30
+- Last updated from Sleeper exports: 2026-08-31
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 673.8
 - championship_lineup_c_avi_avg: 84.22
-- offensive_roster_c_avi_sum: 997.6
-- offensive_roster_c_avi_avg: 62.35
-- offensive_roster_d_avi_sum: 1211.1
-- offensive_roster_d_avi_avg: 75.69
+- offensive_roster_c_avi_sum: 981.0
+- offensive_roster_c_avi_avg: 61.31
+- offensive_roster_d_avi_sum: 1206.0
+- offensive_roster_d_avi_avg: 75.38
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -144,23 +144,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Kimani Vidal
-- Player name: Kimani Vidal
-- Player ID: 11647
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 37.4
-- Dynasty AVI (D-AVI, 0-100): 60.0
-- Projected PPR points: 59.0
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Najee Harris
 - Player name: Najee Harris
 - Player ID: 7528
@@ -175,6 +158,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 33.9
 - Dynasty AVI (D-AVI, 0-100): 50.8
 - Projected PPR points: 59.8
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Kaleb Johnson
+- Player name: Kaleb Johnson
+- Player ID: 12504
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 20.8
+- Dynasty AVI (D-AVI, 0-100): 54.9
+- Projected PPR points: 4.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -255,7 +255,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['WR']
 - NFL team: HOU
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 46.7
 - Dynasty AVI (D-AVI, 0-100): 63.3

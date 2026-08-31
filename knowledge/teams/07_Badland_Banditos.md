@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-08-30
+- Last updated from Sleeper exports: 2026-08-31
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 652.5
 - championship_lineup_c_avi_avg: 81.56
-- offensive_roster_c_avi_sum: 972.7
-- offensive_roster_c_avi_avg: 60.79
-- offensive_roster_d_avi_sum: 1170.5
-- offensive_roster_d_avi_avg: 73.16
+- offensive_roster_c_avi_sum: 947.2
+- offensive_roster_c_avi_avg: 59.20
+- offensive_roster_d_avi_sum: 1156.2
+- offensive_roster_d_avi_avg: 72.26
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -229,23 +229,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Cooper Kupp
-- Player name: Cooper Kupp
-- Player ID: 4039
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: SEA
-- Active: True
-- Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 42.7
-- Dynasty AVI (D-AVI, 0-100): 59.0
-- Projected PPR points: 125.2
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Caleb Douglas
 - Player name: Caleb Douglas
 - Player ID: 13296
@@ -277,6 +260,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 20.5
 - Dynasty AVI (D-AVI, 0-100): 44.2
 - Projected PPR points: 34.9
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Odell Beckham
+- Player name: Odell Beckham
+- Player ID: 2078
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 17.2
+- Dynasty AVI (D-AVI, 0-100): 44.7
+- Projected PPR points: 24.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

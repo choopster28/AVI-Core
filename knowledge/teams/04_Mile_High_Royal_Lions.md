@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-08-30
+- Last updated from Sleeper exports: 2026-08-31
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 676.7
 - championship_lineup_c_avi_avg: 84.59
-- offensive_roster_c_avi_sum: 1001.9
-- offensive_roster_c_avi_avg: 66.79
-- offensive_roster_d_avi_sum: 1155.9
-- offensive_roster_d_avi_avg: 77.06
+- offensive_roster_c_avi_sum: 996.6
+- offensive_roster_c_avi_avg: 66.44
+- offensive_roster_d_avi_sum: 1164.7
+- offensive_roster_d_avi_avg: 77.65
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -124,6 +124,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 59.6
 - Dynasty AVI (D-AVI, 0-100): 73.6
 - Projected PPR points: 176.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Jonah Coleman
+- Player name: Jonah Coleman
+- Player ID: 13345
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: DEN
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 39.6
+- Dynasty AVI (D-AVI, 0-100): 71.1
+- Projected PPR points: 49.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -277,23 +294,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 58.1
 - Dynasty AVI (D-AVI, 0-100): 70.2
 - Projected PPR points: 148.5
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Theo Johnson
-- Player name: Theo Johnson
-- Player ID: 11597
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: NYG
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 44.9
-- Dynasty AVI (D-AVI, 0-100): 62.3
-- Projected PPR points: 75.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

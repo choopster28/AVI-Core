@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-08-30
+- Last updated from Sleeper exports: 2026-08-31
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -222,7 +222,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: SEA
 - Active: True
 - Status: Active
-- Age: 27.0
+- Age: 28.0
 - Championship AVI (C-AVI, 0-100): 52.9
 - Dynasty AVI (D-AVI, 0-100): 72.1
 - Projected PPR points: 156.8

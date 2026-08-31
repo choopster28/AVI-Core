@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-08-30
+- Last updated from Sleeper exports: 2026-08-31
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 743.3
 - championship_lineup_c_avi_avg: 92.91
-- offensive_roster_c_avi_sum: 1128.2
-- offensive_roster_c_avi_avg: 70.51
-- offensive_roster_d_avi_sum: 1292.2
-- offensive_roster_d_avi_avg: 80.76
+- offensive_roster_c_avi_sum: 1130.2
+- offensive_roster_c_avi_avg: 70.64
+- offensive_roster_d_avi_sum: 1270.9
+- offensive_roster_d_avi_avg: 79.43
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -161,6 +161,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Malik Davis
+- Player name: Malik Davis
+- Player ID: 8800
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: DAL
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 26.7
+- Dynasty AVI (D-AVI, 0-100): 38.2
+- Projected PPR points: 47.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: A.J. Brown
 - Player name: A.J. Brown
 - Player ID: 5859
@@ -260,23 +277,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 43.8
 - Dynasty AVI (D-AVI, 0-100): 64.7
 - Projected PPR points: 110.3
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Skyler Bell
-- Player name: Skyler Bell
-- Player ID: 13402
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: BUF
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 24.7
-- Dynasty AVI (D-AVI, 0-100): 59.5
-- Projected PPR points: 28.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

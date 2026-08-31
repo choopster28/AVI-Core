@@ -1276,6 +1276,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
+## PLAYER LOOKUP: Malik Davis
+- Player name: Malik Davis
+- Player ID: 8800
+- Position: RB
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
 ## PLAYER LOOKUP: Malik Nabers
 - Player name: Malik Nabers
 - Player ID: 11632
@@ -1608,14 +1616,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Saquon Barkley
 - Player ID: 4866
 - Position: RB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
-## PLAYER LOOKUP: Skyler Bell
-- Player name: Skyler Bell
-- Player ID: 13402
-- Position: WR
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
@@ -2468,15 +2468,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 51.5
 - Availability: available
 
-## AVAILABLE PLAYER: Malik Davis
-- Player name: Malik Davis
-- Player ID: 8800
-- Position: RB
-- NFL team: DAL
-- Championship AVI (C-AVI, 0-100): 26.7
-- Dynasty AVI (D-AVI, 0-100): 38.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Ben Sinnott
 - Player name: Ben Sinnott
 - Player ID: 11596
@@ -2574,6 +2565,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: IND
 - Championship AVI (C-AVI, 0-100): 25.1
 - Dynasty AVI (D-AVI, 0-100): 41.7
+- Availability: available
+
+## AVAILABLE PLAYER: Skyler Bell
+- Player name: Skyler Bell
+- Player ID: 13402
+- Position: WR
+- NFL team: BUF
+- Championship AVI (C-AVI, 0-100): 24.7
+- Dynasty AVI (D-AVI, 0-100): 59.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Quinn Ewers
