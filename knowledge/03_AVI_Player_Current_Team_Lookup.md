@@ -388,6 +388,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
 
+## PLAYER LOOKUP: Cooper Kupp
+- Player name: Cooper Kupp
+- Player ID: 4039
+- Position: WR
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
+
 ## PLAYER LOOKUP: Courtland Sutton
 - Player name: Courtland Sutton
 - Player ID: 5045
@@ -1716,14 +1724,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
 
-## PLAYER LOOKUP: Tommy Tremble
-- Player name: Tommy Tremble
-- Player ID: 7694
-- Position: TE
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Team file: 12_DMV_Fantasy.md
-
 ## PLAYER LOOKUP: Tony Pollard
 - Player name: Tony Pollard
 - Player ID: 5967
@@ -1995,15 +1995,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYJ
 - Championship AVI (C-AVI, 0-100): 43.5
 - Dynasty AVI (D-AVI, 0-100): 59.4
-- Availability: available
-
-## AVAILABLE PLAYER: Cooper Kupp
-- Player name: Cooper Kupp
-- Player ID: 4039
-- Position: WR
-- NFL team: SEA
-- Championship AVI (C-AVI, 0-100): 42.7
-- Dynasty AVI (D-AVI, 0-100): 59.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Darnell Washington
@@ -2445,6 +2436,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: HOU
 - Championship AVI (C-AVI, 0-100): 27.5
 - Dynasty AVI (D-AVI, 0-100): 48.0
+- Availability: available
+
+## AVAILABLE PLAYER: Tommy Tremble
+- Player name: Tommy Tremble
+- Player ID: 7694
+- Position: TE
+- NFL team: CAR
+- Championship AVI (C-AVI, 0-100): 27.3
+- Dynasty AVI (D-AVI, 0-100): 33.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Max Klare
