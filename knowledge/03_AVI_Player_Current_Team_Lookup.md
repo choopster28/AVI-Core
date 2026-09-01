@@ -324,6 +324,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
+## PLAYER LOOKUP: Chris Brooks
+- Player name: Chris Brooks
+- Player ID: 11370
+- Position: RB
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
+
 ## PLAYER LOOKUP: Chris Godwin
 - Player name: Chris Godwin
 - Player ID: 4037
@@ -691,6 +699,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
+
+## PLAYER LOOKUP: George Holani
+- Player name: George Holani
+- Player ID: 12048
+- Position: RB
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
 
 ## PLAYER LOOKUP: George Kittle
 - Player name: George Kittle
@@ -2205,15 +2221,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 48.1
 - Availability: available
 
-## AVAILABLE PLAYER: Chris Brooks
-- Player name: Chris Brooks
-- Player ID: 11370
-- Position: RB
-- NFL team: GB
-- Championship AVI (C-AVI, 0-100): 33.3
-- Dynasty AVI (D-AVI, 0-100): 47.3
-- Availability: available
-
 ## AVAILABLE PLAYER: Emari Demercado
 - Player name: Emari Demercado
 - Player ID: 11199
@@ -2410,15 +2417,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: WAS
 - Championship AVI (C-AVI, 0-100): 28.3
 - Dynasty AVI (D-AVI, 0-100): 47.7
-- Availability: available
-
-## AVAILABLE PLAYER: George Holani
-- Player name: George Holani
-- Player ID: 12048
-- Position: RB
-- NFL team: SEA
-- Championship AVI (C-AVI, 0-100): 28.0
-- Dynasty AVI (D-AVI, 0-100): 44.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Cedric Tillman
