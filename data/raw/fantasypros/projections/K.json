@@ -423,22 +423,6 @@
       "team_id": "TEN"
     },
     {
-      "filename": "jason-sanders.php",
-      "fpid": 17533,
-      "mflid": 13832,
-      "name": "Jason Sanders",
-      "position_id": "K",
-      "stats": {
-        "fg": 27.14,
-        "fga": 31.8,
-        "points": 112.91,
-        "points_half": 112.91,
-        "points_ppr": 112.91,
-        "xpt": 31.5
-      },
-      "team_id": "NYJ"
-    },
-    {
       "filename": "chad-ryland.php",
       "fpid": 25354,
       "mflid": 16292,
@@ -453,6 +437,22 @@
         "xpt": 31.21
       },
       "team_id": "ARI"
+    },
+    {
+      "filename": "blake-grupe.php",
+      "fpid": 25533,
+      "mflid": 16444,
+      "name": "Blake Grupe",
+      "position_id": "K",
+      "stats": {
+        "fg": 27.43,
+        "fga": 32.7,
+        "points": 109.97,
+        "points_half": 109.97,
+        "points_ppr": 109.97,
+        "xpt": 27.69
+      },
+      "team_id": "NYJ"
     },
     {
       "filename": "ryan-fitzgerald.php",
@@ -519,6 +519,22 @@
       "team_id": "NYG"
     },
     {
+      "filename": "jason-sanders.php",
+      "fpid": 17533,
+      "mflid": 13832,
+      "name": "Jason Sanders",
+      "position_id": "K",
+      "stats": {
+        "fg": 17.67,
+        "fga": 21,
+        "points": 70,
+        "points_half": 70,
+        "points_ppr": 70,
+        "xpt": 17
+      },
+      "team_id": "FA"
+    },
+    {
       "filename": "ben-sauls.php",
       "fpid": 27798,
       "mflid": 17434,
@@ -531,22 +547,6 @@
         "points_half": 58.5,
         "points_ppr": 58.5,
         "xpt": 12.5
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "blake-grupe.php",
-      "fpid": 25533,
-      "mflid": 16444,
-      "name": "Blake Grupe",
-      "position_id": "K",
-      "stats": {
-        "fg": 14,
-        "fga": 16.5,
-        "points": 42,
-        "points_half": 42,
-        "points_ppr": 42,
-        "xpt": 0
       },
       "team_id": "FA"
     },
@@ -628,7 +628,7 @@
         "points_ppr": 0,
         "xpt": 0
       },
-      "team_id": "FA"
+      "team_id": "BAL"
     },
     {
       "filename": "cade-york.php",

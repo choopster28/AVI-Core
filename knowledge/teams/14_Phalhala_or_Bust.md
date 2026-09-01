@@ -14,19 +14,19 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Roster Counts
 - total_players: 20
-- offense: 13
+- offense: 12
 - kickers: 1
-- idp: 6
+- idp: 7
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 549.8
 - championship_lineup_c_avi_avg: 68.72
-- offensive_roster_c_avi_sum: 756.6
-- offensive_roster_c_avi_avg: 58.20
-- offensive_roster_d_avi_sum: 972.9
-- offensive_roster_d_avi_avg: 74.84
+- offensive_roster_c_avi_sum: 722.6
+- offensive_roster_c_avi_avg: 60.22
+- offensive_roster_d_avi_sum: 916.9
+- offensive_roster_d_avi_avg: 76.41
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -212,23 +212,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Marquise Brown
-- Player name: Marquise Brown
-- Player ID: 5848
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 34.0
-- Dynasty AVI (D-AVI, 0-100): 56.0
-- Projected PPR points: 81.1
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Sam LaPorta
 - Player name: Sam LaPorta
 - Player ID: 10859
@@ -278,6 +261,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
 - Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Aaron Donald
+- Player name: Aaron Donald
+- Player ID: 2227
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: DL
+- Fantasy positions: ['DL']
+- NFL team: LAR
+- Active: True
+- Status: Active
+- Age: 35.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
 ### PLAYER: Jonathan Greenard

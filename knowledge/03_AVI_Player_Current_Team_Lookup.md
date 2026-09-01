@@ -1356,14 +1356,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
-## PLAYER LOOKUP: Marquise Brown
-- Player name: Marquise Brown
-- Player ID: 5848
-- Position: WR
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Team file: 14_Phalhala_or_Bust.md
-
 ## PLAYER LOOKUP: Marvin Harrison
 - Player name: Marvin Harrison
 - Player ID: 11628
@@ -2193,6 +2185,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 34.1
 - Dynasty AVI (D-AVI, 0-100): 61.2
+- Availability: available
+
+## AVAILABLE PLAYER: Marquise Brown
+- Player name: Marquise Brown
+- Player ID: 5848
+- Position: WR
+- NFL team: PHI
+- Championship AVI (C-AVI, 0-100): 34.0
+- Dynasty AVI (D-AVI, 0-100): 56.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Noah Gray

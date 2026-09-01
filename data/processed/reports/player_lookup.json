@@ -351,6 +351,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00005848",
+      "c_avi": 34.0,
+      "d_avi": 56.0,
+      "nfl_team": "PHI",
+      "player_name": "Marquise Brown",
+      "position": "WR",
+      "sleeper_id": "5848",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00007828",
       "c_avi": 33.4,
       "d_avi": 48.1,
@@ -2378,8 +2390,8 @@
     }
   ],
   "counts": {
-    "available_players": 198,
-    "rostered_players": 241
+    "available_players": 199,
+    "rostered_players": 240
   },
   "rostered_players": [
     {
@@ -5085,22 +5097,6 @@
       "status": "Active",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00005848",
-      "c_avi": 34.0,
-      "d_avi": 56.0,
-      "nfl_team": "PHI",
-      "owner_id": "1132141719354535936",
-      "player_name": "Marquise Brown",
-      "position": "WR",
-      "roster_id": 14,
-      "sleeper_id": "5848",
-      "status": "Active",
-      "team_file": "14_Phalhala_or_Bust.md",
-      "team_name": "Phalhala or Bust"
     },
     {
       "active": true,

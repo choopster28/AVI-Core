@@ -57,27 +57,5 @@
     "normalized_name": "hunter luepke",
     "position": "RB",
     "team": "DAL"
-  },
-  {
-    "candidate_count": 2,
-    "candidates": [
-      {
-        "name": "Frank Gore",
-        "position": "RB",
-        "sleeper_id": "11573",
-        "team": null
-      },
-      {
-        "name": "Frank Gore",
-        "position": "RB",
-        "sleeper_id": "232",
-        "team": null
-      }
-    ],
-    "fantasypros_id": "25980",
-    "name": "Frank Gore Jr.",
-    "normalized_name": "frank gore",
-    "position": "RB",
-    "team": "FA"
   }
 ]

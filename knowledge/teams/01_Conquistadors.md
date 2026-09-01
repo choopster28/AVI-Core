@@ -365,17 +365,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Cedric Gray
-- Player name: Cedric Gray
-- Player ID: 11742
+### PLAYER: Nakobe Dean
+- Player name: Nakobe Dean
+- Player ID: 8267
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: LB
 - Fantasy positions: ['LB']
-- NFL team: TEN
+- NFL team: LV
 - Active: True
 - Status: Active
-- Age: 23.0
+- Age: 25.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

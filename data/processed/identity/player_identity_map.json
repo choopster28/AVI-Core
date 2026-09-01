@@ -117,6 +117,15 @@
     "sleeper_id": "2216"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "12122",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Brandin Cooks",
+    "position": "WR",
+    "sleeper_id": "2197"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "12123",
     "match_method": "exact_name_position_unique",
@@ -178,6 +187,15 @@
     "player_name": "Jameis Winston",
     "position": "QB",
     "sleeper_id": "2306"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "13924",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "JAC",
+    "player_name": "Ameer Abdullah",
+    "position": "RB",
+    "sleeper_id": "2359"
   },
   {
     "confidence": "review",
@@ -693,6 +711,15 @@
     "sleeper_id": "5189"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "17598",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Tyler Conklin",
+    "position": "TE",
+    "sleeper_id": "5133"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "18218",
     "match_method": "exact_name_position_unique",
@@ -765,6 +792,15 @@
     "sleeper_id": "6130"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "18283",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Miles Sanders",
+    "position": "RB",
+    "sleeper_id": "6151"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "18290",
     "match_method": "exact_name_position_unique",
@@ -828,10 +864,10 @@
     "sleeper_id": "6011"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "18585",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BUF",
     "player_name": "Greg Dortch",
     "position": "WR",
     "sleeper_id": "5970"
@@ -1386,10 +1422,10 @@
     "sleeper_id": "7611"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "22728",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "TEN",
     "player_name": "Michael Carter",
     "position": "RB",
     "sleeper_id": "7607"
@@ -1566,10 +1602,10 @@
     "sleeper_id": "8130"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "22947",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PHI",
     "player_name": "Dameon Pierce",
     "position": "RB",
     "sleeper_id": "8129"
@@ -1708,6 +1744,15 @@
     "player_name": "Kayshon Boutte",
     "position": "WR",
     "sleeper_id": "9504"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "22997",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NE",
+    "player_name": "Corey Kiner",
+    "position": "RB",
+    "sleeper_id": "12491"
   },
   {
     "confidence": "verified",
@@ -2304,10 +2349,10 @@
     "sleeper_id": "8228"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "24214",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SEA",
     "player_name": "Velus Jones Jr.",
     "position": "WR",
     "sleeper_id": "8223"
@@ -2358,10 +2403,10 @@
     "sleeper_id": "13288"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "24344",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PHI",
     "player_name": "Jaydon Blue",
     "position": "RB",
     "sleeper_id": "12457"
@@ -2446,6 +2491,15 @@
     "player_name": "Adam Randall",
     "position": "RB",
     "sleeper_id": "13302"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "24369",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Jabari Small",
+    "position": "RB",
+    "sleeper_id": "12356"
   },
   {
     "confidence": "verified",
@@ -2799,10 +2853,10 @@
     "sleeper_id": "9510"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "25533",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NYJ",
     "player_name": "Blake Grupe",
     "position": "K",
     "sleeper_id": "11058"
@@ -2887,6 +2941,15 @@
     "player_name": "Isaiah Davis",
     "position": "RB",
     "sleeper_id": "11571"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "25980",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BUF",
+    "player_name": "Frank Gore Jr.",
+    "position": "RB",
+    "sleeper_id": "11573"
   },
   {
     "confidence": "verified",
@@ -3340,6 +3403,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "27045",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "TEN",
+    "player_name": "Kalel Mullings",
+    "position": "RB",
+    "sleeper_id": "12516"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "27050",
     "match_method": "exact_name_position_unique",
     "nfl_team": "CLE",
@@ -3357,10 +3429,10 @@
     "sleeper_id": "12499"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "27066",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "TEN",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Xavier Restrepo",
     "position": "WR",
     "sleeper_id": "12520"
