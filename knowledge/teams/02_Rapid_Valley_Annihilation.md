@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-08-31
+- Last updated from Sleeper exports: 2026-09-01
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts

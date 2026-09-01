@@ -1,5 +1,5 @@
 {
-  "count": "45",
+  "count": "44",
   "experts": [
     71,
     11,
@@ -13,11 +13,11 @@
       "name": "Brandon Aubrey",
       "position_id": "K",
       "stats": {
-        "fg": 35.16,
+        "fg": 34.83,
         "fga": 39.55,
-        "points": 152.44,
-        "points_half": 152.44,
-        "points_ppr": 152.44,
+        "points": 151.44,
+        "points_half": 151.44,
+        "points_ppr": 151.44,
         "xpt": 46.96
       },
       "team_id": "DAL"
@@ -47,10 +47,10 @@
       "stats": {
         "fg": 36.3,
         "fga": 40.46,
-        "points": 144.01,
-        "points_half": 144.01,
-        "points_ppr": 144.01,
-        "xpt": 35.11
+        "points": 144.51,
+        "points_half": 144.51,
+        "points_ppr": 144.51,
+        "xpt": 35.61
       },
       "team_id": "HOU"
     },
@@ -87,6 +87,22 @@
       "team_id": "IND"
     },
     {
+      "filename": "harrison-mevis.php",
+      "fpid": 26638,
+      "mflid": 16843,
+      "name": "Harrison Mevis",
+      "position_id": "K",
+      "stats": {
+        "fg": 27.32,
+        "fga": 30.15,
+        "points": 136.83,
+        "points_half": 136.83,
+        "points_ppr": 136.83,
+        "xpt": 54.88
+      },
+      "team_id": "LAR"
+    },
+    {
       "filename": "jake-bates.php",
       "fpid": 26075,
       "mflid": 16846,
@@ -101,22 +117,6 @@
         "xpt": 51.16
       },
       "team_id": "DET"
-    },
-    {
-      "filename": "harrison-mevis.php",
-      "fpid": 26638,
-      "mflid": 16843,
-      "name": "Harrison Mevis",
-      "position_id": "K",
-      "stats": {
-        "fg": 26.98,
-        "fga": 30.15,
-        "points": 135.83,
-        "points_half": 135.83,
-        "points_ppr": 135.83,
-        "xpt": 54.88
-      },
-      "team_id": "LAR"
     },
     {
       "filename": "cairo-santos.php",
@@ -167,6 +167,22 @@
       "team_id": "SF"
     },
     {
+      "filename": "cam-little.php",
+      "fpid": 26475,
+      "mflid": 16680,
+      "name": "Cam Little",
+      "position_id": "K",
+      "stats": {
+        "fg": 29.11,
+        "fga": 32.45,
+        "points": 132.02,
+        "points_half": 132.02,
+        "points_ppr": 132.02,
+        "xpt": 44.69
+      },
+      "team_id": "JAC"
+    },
+    {
       "filename": "tyler-loop.php",
       "fpid": 27534,
       "mflid": 17222,
@@ -197,22 +213,6 @@
         "xpt": 38.11
       },
       "team_id": "KC"
-    },
-    {
-      "filename": "cam-little.php",
-      "fpid": 26475,
-      "mflid": 16680,
-      "name": "Cam Little",
-      "position_id": "K",
-      "stats": {
-        "fg": 29.11,
-        "fga": 32.45,
-        "points": 131.52,
-        "points_half": 131.52,
-        "points_ppr": 131.52,
-        "xpt": 44.19
-      },
-      "team_id": "JAC"
     },
     {
       "filename": "will-reichard.php",
@@ -271,10 +271,10 @@
       "stats": {
         "fg": 28.93,
         "fga": 34.13,
-        "points": 126.49,
-        "points_half": 126.49,
-        "points_ppr": 126.49,
-        "xpt": 39.71
+        "points": 126.99,
+        "points_half": 126.99,
+        "points_ppr": 126.99,
+        "xpt": 40.21
       },
       "team_id": "GB"
     },
@@ -303,10 +303,10 @@
       "stats": {
         "fg": 29.55,
         "fga": 34.68,
-        "points": 122.46,
-        "points_half": 122.46,
-        "points_ppr": 122.46,
-        "xpt": 33.82
+        "points": 121.46,
+        "points_half": 121.46,
+        "points_ppr": 121.46,
+        "xpt": 32.82
       },
       "team_id": "NO"
     },
@@ -327,22 +327,6 @@
       "team_id": "ATL"
     },
     {
-      "filename": "jake-elliott.php",
-      "fpid": 16540,
-      "mflid": 13303,
-      "name": "Jake Elliott",
-      "position_id": "K",
-      "stats": {
-        "fg": 26.05,
-        "fga": 31.83,
-        "points": 119.78,
-        "points_half": 119.78,
-        "points_ppr": 119.78,
-        "xpt": 41.64
-      },
-      "team_id": "PHI"
-    },
-    {
       "filename": "andres-borregales.php",
       "fpid": 27291,
       "mflid": 17220,
@@ -351,12 +335,28 @@
       "stats": {
         "fg": 25.79,
         "fga": 30.88,
-        "points": 119.47,
-        "points_half": 119.47,
-        "points_ppr": 119.47,
-        "xpt": 42.09
+        "points": 119.97,
+        "points_half": 119.97,
+        "points_ppr": 119.97,
+        "xpt": 42.59
       },
       "team_id": "NE"
+    },
+    {
+      "filename": "jake-elliott.php",
+      "fpid": 16540,
+      "mflid": 13303,
+      "name": "Jake Elliott",
+      "position_id": "K",
+      "stats": {
+        "fg": 26.05,
+        "fga": 31.83,
+        "points": 119.28,
+        "points_half": 119.28,
+        "points_ppr": 119.28,
+        "xpt": 41.14
+      },
+      "team_id": "PHI"
     },
     {
       "filename": "chris-boswell.php",
@@ -398,11 +398,11 @@
       "position_id": "K",
       "stats": {
         "fg": 27.85,
-        "fga": 32.07,
-        "points": 114.81,
-        "points_half": 114.81,
-        "points_ppr": 114.81,
-        "xpt": 31.25
+        "fga": 31.74,
+        "points": 114.31,
+        "points_half": 114.31,
+        "points_ppr": 114.31,
+        "xpt": 30.75
       },
       "team_id": "MIA"
     },
@@ -430,11 +430,11 @@
       "position_id": "K",
       "stats": {
         "fg": 27.14,
-        "fga": 32.13,
-        "points": 113.41,
-        "points_half": 113.41,
-        "points_ppr": 113.41,
-        "xpt": 32
+        "fga": 31.8,
+        "points": 112.91,
+        "points_half": 112.91,
+        "points_ppr": 112.91,
+        "xpt": 31.5
       },
       "team_id": "NYJ"
     },
@@ -447,10 +447,10 @@
       "stats": {
         "fg": 26.63,
         "fga": 33.09,
-        "points": 111.6,
-        "points_half": 111.6,
-        "points_ppr": 111.6,
-        "xpt": 31.71
+        "points": 111.1,
+        "points_half": 111.1,
+        "points_ppr": 111.1,
+        "xpt": 31.21
       },
       "team_id": "ARI"
     },
@@ -477,11 +477,11 @@
       "name": "Matt Gay",
       "position_id": "K",
       "stats": {
-        "fg": 25.84,
-        "fga": 32.14,
-        "points": 107.08,
-        "points_half": 107.08,
-        "points_ppr": 107.08,
+        "fg": 25.51,
+        "fga": 31.81,
+        "points": 106.08,
+        "points_half": 106.08,
+        "points_ppr": 106.08,
         "xpt": 29.55
       },
       "team_id": "LV"
@@ -532,7 +532,7 @@
         "points_ppr": 58.5,
         "xpt": 12.5
       },
-      "team_id": "NYG"
+      "team_id": "FA"
     },
     {
       "filename": "blake-grupe.php",
@@ -546,38 +546,6 @@
         "points": 42,
         "points_half": 42,
         "points_ppr": 42,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "zane-gonzalez.php",
-      "fpid": 16548,
-      "mflid": 13347,
-      "name": "Zane Gonzalez",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "matt-prater.php",
-      "fpid": 9443,
-      "mflid": 8930,
-      "name": "Matt Prater",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
         "xpt": 0
       },
       "team_id": "FA"
@@ -603,6 +571,22 @@
       "fpid": 13274,
       "mflid": 11947,
       "name": "Brandon McManus",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "zane-gonzalez.php",
+      "fpid": 16548,
+      "mflid": 13347,
+      "name": "Zane Gonzalez",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -692,7 +676,7 @@
         "points_ppr": 0,
         "xpt": 0
       },
-      "team_id": "NO"
+      "team_id": "FA"
     },
     {
       "filename": "charlie-smyth.php",
@@ -708,7 +692,7 @@
         "points_ppr": 0,
         "xpt": 0
       },
-      "team_id": "NO"
+      "team_id": "FA"
     },
     {
       "filename": "joshua-karty.php",

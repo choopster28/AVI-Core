@@ -8,8 +8,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: TacticsNoob
 - Owner ID: 1129546394534158336
 - Division: 4
-- Waiver position: 13
-- Last updated from Sleeper exports: 2026-08-31
+- Waiver position: 16
+- Last updated from Sleeper exports: 2026-09-01
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 491.4
 - championship_lineup_c_avi_avg: 61.42
-- offensive_roster_c_avi_sum: 711.1
-- offensive_roster_c_avi_avg: 50.79
-- offensive_roster_d_avi_sum: 943.7
-- offensive_roster_d_avi_avg: 67.41
+- offensive_roster_c_avi_sum: 726.5
+- offensive_roster_c_avi_avg: 51.89
+- offensive_roster_d_avi_sum: 969.4
+- offensive_roster_d_avi_avg: 69.24
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -195,6 +195,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Cooper Kupp
+- Player name: Cooper Kupp
+- Player ID: 4039
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: SEA
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 42.7
+- Dynasty AVI (D-AVI, 0-100): 59.0
+- Projected PPR points: 125.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Isaac TeSlaa
 - Player name: Isaac TeSlaa
 - Player ID: 12535
@@ -260,23 +277,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 60.9
 - Dynasty AVI (D-AVI, 0-100): 77.0
 - Projected PPR points: 151.8
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Tommy Tremble
-- Player name: Tommy Tremble
-- Player ID: 7694
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: CAR
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 27.3
-- Dynasty AVI (D-AVI, 0-100): 33.3
-- Projected PPR points: 49.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

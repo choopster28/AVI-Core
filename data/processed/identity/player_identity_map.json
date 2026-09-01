@@ -1170,10 +1170,10 @@
     "sleeper_id": "7021"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "19747",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "IND",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Nick Westbrook-Ikhine",
     "position": "WR",
     "sleeper_id": "7496"
@@ -1647,10 +1647,10 @@
     "sleeper_id": "11559"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "22976",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ATL",
     "player_name": "Tyler Goodson",
     "position": "RB",
     "sleeper_id": "8207"
@@ -2268,15 +2268,6 @@
     "sleeper_id": "8195"
   },
   {
-    "confidence": "review",
-    "fantasypros_id": "24009",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Jake Moody",
-    "position": "K",
-    "sleeper_id": "10937"
-  },
-  {
     "confidence": "verified",
     "fantasypros_id": "24172",
     "match_method": "exact_name_position_unique",
@@ -2799,10 +2790,10 @@
     "sleeper_id": "13319"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "25443",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "PIT",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Lew Nichols III",
     "position": "RB",
     "sleeper_id": "9510"
@@ -2835,15 +2826,6 @@
     "sleeper_id": "11237"
   },
   {
-    "confidence": "review",
-    "fantasypros_id": "25748",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Zavier Scott",
-    "position": "RB",
-    "sleeper_id": "11299"
-  },
-  {
     "confidence": "verified",
     "fantasypros_id": "25823",
     "match_method": "exact_name_position_unique",
@@ -2853,10 +2835,10 @@
     "sleeper_id": "11370"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "25876",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DEN",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Jaleel McLaughlin",
     "position": "RB",
     "sleeper_id": "11439"
@@ -2889,10 +2871,10 @@
     "sleeper_id": "12524"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "25976",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "GB",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Damien Martinez",
     "position": "RB",
     "sleeper_id": "12462"
@@ -3294,10 +3276,10 @@
     "sleeper_id": "12518"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "26444",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NO",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Charlie Smyth",
     "position": "K",
     "sleeper_id": "11653"
@@ -3780,10 +3762,10 @@
     "sleeper_id": "12711"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "27798",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NYG",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Ben Sauls",
     "position": "K",
     "sleeper_id": "13066"
@@ -3888,10 +3870,10 @@
     "sleeper_id": "13305"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "28109",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "JAC",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "J'Mari Taylor",
     "position": "RB",
     "sleeper_id": "13348"
@@ -3906,10 +3888,10 @@
     "sleeper_id": "13437"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "28124",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ATL",
     "player_name": "Cash Jones",
     "position": "RB",
     "sleeper_id": "13595"
@@ -4057,6 +4039,15 @@
     "player_name": "Drew Stevens",
     "position": "K",
     "sleeper_id": "13968"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28178",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CIN",
+    "player_name": "Dohnte Meyers",
+    "position": "WR",
+    "sleeper_id": "13264"
   },
   {
     "confidence": "verified",
