@@ -16878,7 +16878,7 @@
       "genius_id": "1012733",
       "rookie_year": "2023"
     },
-    "news_updated": 1682804425315,
+    "news_updated": 1788334827683,
     "number": 43,
     "oddsjam_id": "1A3E34DAE7C0",
     "opta_id": null,
@@ -22572,7 +22572,7 @@
     "birth_state": null,
     "college": "Baylor",
     "competitions": [],
-    "depth_chart_order": null,
+    "depth_chart_order": 5,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 24533,
@@ -41794,7 +41794,7 @@
     "college": "San Diego State",
     "competitions": [],
     "depth_chart_order": 8,
-    "depth_chart_position": "LWR",
+    "depth_chart_position": "RWR",
     "espn_id": null,
     "fantasy_data_id": 24511,
     "fantasy_positions": [
@@ -68380,7 +68380,7 @@
       "genius_id": "1464089",
       "rookie_year": "2024"
     },
-    "news_updated": 1767129920790,
+    "news_updated": 1788333627777,
     "number": 38,
     "oddsjam_id": "50AFECFABC3C",
     "opta_id": null,
@@ -87630,7 +87630,7 @@
       "genius_id": "1483068",
       "rookie_year": "2024"
     },
-    "news_updated": 1788322525937,
+    "news_updated": 1788333927894,
     "number": 85,
     "oddsjam_id": "F6A1135D434F",
     "opta_id": null,
@@ -101389,7 +101389,7 @@
       "genius_id": "1483821",
       "rookie_year": "2024"
     },
-    "news_updated": 1770265853876,
+    "news_updated": 1788333927907,
     "number": 17,
     "oddsjam_id": "C257956841D1",
     "opta_id": null,
@@ -136294,7 +136294,7 @@
       "genius_id": "1519113",
       "rookie_year": "2025"
     },
-    "news_updated": 1788320425865,
+    "news_updated": 1788333627793,
     "number": 82,
     "oddsjam_id": "8EF660DF8194D6CF",
     "opta_id": null,
@@ -152755,7 +152755,7 @@
       "genius_id": "1520593",
       "rookie_year": "2025"
     },
-    "news_updated": 1788322525937,
+    "news_updated": 1788334227816,
     "number": 81,
     "oddsjam_id": "0571792BF5EE86C5",
     "opta_id": null,
@@ -156853,7 +156853,7 @@
       "genius_id": "1514700",
       "rookie_year": "2025"
     },
-    "news_updated": null,
+    "news_updated": 1788334227800,
     "number": 94,
     "oddsjam_id": "A3A13B6F69C0EFD6",
     "opta_id": null,
@@ -158358,7 +158358,7 @@
       "genius_id": "1504816",
       "rookie_year": "2025"
     },
-    "news_updated": 1756230309328,
+    "news_updated": 1788333627762,
     "number": 49,
     "oddsjam_id": "10C1D1688349A7AC",
     "opta_id": null,
@@ -172882,7 +172882,7 @@
     "college": "Oklahoma",
     "competitions": [],
     "depth_chart_order": 6,
-    "depth_chart_position": "RWR",
+    "depth_chart_position": "SWR",
     "espn_id": null,
     "fantasy_data_id": 25907,
     "fantasy_positions": [
@@ -177450,7 +177450,7 @@
     "birth_state": null,
     "college": "North Carolina State",
     "competitions": [],
-    "depth_chart_order": 6,
+    "depth_chart_order": 7,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 26842,
@@ -194279,7 +194279,7 @@
       "genius_id": "1519121",
       "rookie_year": "2026"
     },
-    "news_updated": null,
+    "news_updated": 1788334527963,
     "number": 96,
     "oddsjam_id": null,
     "opta_id": null,
@@ -197851,8 +197851,8 @@
     "birth_state": null,
     "college": "Duke",
     "competitions": [],
-    "depth_chart_order": 3,
-    "depth_chart_position": "RDE",
+    "depth_chart_order": 2,
+    "depth_chart_position": "LDE",
     "espn_id": null,
     "fantasy_data_id": 28201,
     "fantasy_positions": [
@@ -200045,7 +200045,7 @@
       "genius_id": "1497591",
       "rookie_year": "2026"
     },
-    "news_updated": null,
+    "news_updated": 1788334527977,
     "number": 49,
     "oddsjam_id": null,
     "opta_id": null,
@@ -202605,7 +202605,7 @@
     "birth_state": null,
     "college": "Texas A&M",
     "competitions": [],
-    "depth_chart_order": 6,
+    "depth_chart_order": 7,
     "depth_chart_position": "RB",
     "espn_id": null,
     "fantasy_data_id": 28141,
@@ -223215,7 +223215,7 @@
     "injury_notes": null,
     "injury_start_date": null,
     "injury_status": null,
-    "kalshi_id": null,
+    "kalshi_id": "cb4116fa-f64f-4b51-b956-5a28e26f01d3",
     "last_name": "Smith",
     "metadata": {
       "channel_id": "1400619194000666624"
@@ -335841,7 +335841,7 @@
     "college": "Ole Miss",
     "competitions": [],
     "depth_chart_order": 5,
-    "depth_chart_position": "LWR",
+    "depth_chart_position": "RWR",
     "espn_id": 3051889,
     "fantasy_data_id": 17914,
     "fantasy_positions": [
@@ -505760,8 +505760,8 @@
     "birth_state": null,
     "college": "Maryland",
     "competitions": [],
-    "depth_chart_order": null,
-    "depth_chart_position": "LB",
+    "depth_chart_order": 3,
+    "depth_chart_position": "RILB",
     "espn_id": 3128303,
     "fantasy_data_id": 20664,
     "fantasy_positions": [
@@ -522178,7 +522178,7 @@
     "college": "UCLA",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "OL",
+    "depth_chart_position": null,
     "espn_id": 3932244,
     "fantasy_data_id": 20825,
     "fantasy_positions": [
@@ -522263,7 +522263,7 @@
       "genius_id": "1007968",
       "rookie_year": "2019"
     },
-    "news_updated": 1785996345894,
+    "news_updated": 1788333927921,
     "number": 90,
     "oddsjam_id": "6A5792FD2ABE",
     "opta_id": null,
@@ -600891,7 +600891,7 @@
     "birth_state": null,
     "college": "Temple",
     "competitions": [],
-    "depth_chart_order": 3,
+    "depth_chart_order": 2,
     "depth_chart_position": "FS",
     "espn_id": 4044133,
     "fantasy_data_id": 22226,
@@ -642271,7 +642271,7 @@
       "genius_id": "1007761",
       "rookie_year": "2021"
     },
-    "news_updated": 1787977842771,
+    "news_updated": 1788334227832,
     "number": 91,
     "oddsjam_id": "7984B6EBDCE9",
     "opta_id": null,
@@ -676184,8 +676184,8 @@
     "birth_state": null,
     "college": "Wisconsin",
     "competitions": [],
-    "depth_chart_order": null,
-    "depth_chart_position": "LB",
+    "depth_chart_order": 2,
+    "depth_chart_position": "LOLB",
     "espn_id": null,
     "fantasy_data_id": 23544,
     "fantasy_positions": [
