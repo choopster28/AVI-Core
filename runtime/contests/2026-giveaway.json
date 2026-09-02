@@ -84,6 +84,33 @@
       ]
     },
     {
+      "orgId": "crimson-tide",
+      "orgName": "Crimson Tide Pods",
+      "updatedAt": "2026-09-02T15:37:53.113Z",
+      "answers": [
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "141"
+        },
+        {
+          "team": "Crimson Tide Pods",
+          "tiebreaker": "100"
+        },
+        {
+          "team": "Big Balder Brand",
+          "tiebreaker": "147"
+        },
+        {
+          "team": "DMV Fantasy",
+          "tiebreaker": "94"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "150"
+        }
+      ]
+    },
+    {
       "orgId": "goblins",
       "orgName": "Gringo's Goblins",
       "updatedAt": "2026-09-02T15:36:40.086Z",
