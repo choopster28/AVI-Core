@@ -55502,7 +55502,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1788366630534,
+    "news_updated": 1788371131070,
     "number": 25,
     "oddsjam_id": "84C4F05F8EFF",
     "opta_id": null,
@@ -116470,7 +116470,7 @@
       "rookie_year": "2025",
       "source_id": "b25ba780-89c0-11ec-9eae-b94e7e2a33e8"
     },
-    "news_updated": 1788365431343,
+    "news_updated": 1788369930946,
     "number": 0,
     "oddsjam_id": "6FD40ABCB29E289F",
     "opta_id": null,
@@ -117824,7 +117824,7 @@
       "rookie_year": "2025",
       "source_id": "d7f54546-46ed-45c6-9ecc-b23c65ee6679"
     },
-    "news_updated": 1788363630145,
+    "news_updated": 1788369630969,
     "number": 2,
     "oddsjam_id": "93527AC8024DA07C",
     "opta_id": null,
@@ -119236,7 +119236,7 @@
       "rookie_year": "2025",
       "source_id": "11ee2210-a502-11ed-a01a-11e1dd6caf1d"
     },
-    "news_updated": 1788194711745,
+    "news_updated": 1788371431607,
     "number": 18,
     "oddsjam_id": "F66FF1523BCC63B8",
     "opta_id": null,
@@ -119851,7 +119851,7 @@
       "rookie_year": "2025",
       "source_id": "0bcf17c0-89da-11ec-846d-43cbfaabacfd"
     },
-    "news_updated": 1788362430515,
+    "news_updated": 1788371431375,
     "number": 5,
     "oddsjam_id": "C7750F2F673141B4",
     "opta_id": null,
@@ -120451,10 +120451,10 @@
     "hashtag": "#joshsimmons-NFL-KC-71",
     "height": "77",
     "high_school": "Helix (CA)",
-    "injury_body_part": null,
+    "injury_body_part": "Back",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "68f2ba27-e362-4688-8f8a-74ee2d540469",
     "last_name": "Simmons",
     "metadata": {
@@ -168514,7 +168514,7 @@
       "rookie_year": "2026",
       "source_id": "e41043f0-8946-11ec-b2b8-adecafc94fa4"
     },
-    "news_updated": 1788367831170,
+    "news_updated": 1788371731173,
     "number": 15,
     "oddsjam_id": null,
     "opta_id": null,
@@ -342630,7 +342630,7 @@
     "first_name": "Nick",
     "full_name": "Nick Vannett",
     "gsis_id": "00-0032394",
-    "hashtag": "#nickvannett-NFL-FA-83",
+    "hashtag": "#nickvannett-NFL-BAL-83",
     "height": "78",
     "high_school": "Central (OH)",
     "injury_body_part": null,
@@ -342665,7 +342665,7 @@
     "stats_id": 606488,
     "status": "Active",
     "swish_id": 606488,
-    "team": null,
+    "team": "BAL",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "261",
@@ -662024,7 +662024,7 @@
       "genius_id": "1343381",
       "rookie_year": "2022"
     },
-    "news_updated": 1788368431201,
+    "news_updated": 1788370530954,
     "number": 9,
     "oddsjam_id": "59696B50F9E5",
     "opta_id": null,
@@ -722020,7 +722020,7 @@
       "genius_id": "1398557",
       "rookie_year": "2023"
     },
-    "news_updated": 1788297321616,
+    "news_updated": 1788370530952,
     "number": 7,
     "oddsjam_id": "66A14E676432",
     "opta_id": null,
@@ -723642,7 +723642,7 @@
       "genius_id": "1398595",
       "rookie_year": "2023"
     },
-    "news_updated": 1788269418275,
+    "news_updated": 1788370231738,
     "number": 4,
     "oddsjam_id": "F39E10BEE1F4",
     "opta_id": null,
