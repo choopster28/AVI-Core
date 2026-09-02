@@ -9,12 +9,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 4
-- Last updated from Sleeper exports: 2026-09-01
+- Last updated from Sleeper exports: 2026-09-02
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 13
+- total_players: 22
+- offense: 15
 - kickers: 1
 - idp: 6
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 648.6
 - championship_lineup_c_avi_avg: 81.08
-- offensive_roster_c_avi_sum: 877.3
-- offensive_roster_c_avi_avg: 67.48
-- offensive_roster_d_avi_sum: 1008.9
-- offensive_roster_d_avi_avg: 77.61
+- offensive_roster_c_avi_sum: 938.6
+- offensive_roster_c_avi_avg: 62.57
+- offensive_roster_d_avi_sum: 1100.6
+- offensive_roster_d_avi_avg: 73.37
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -119,7 +119,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['RB']
 - NFL team: DET
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 46.2
 - Dynasty AVI (D-AVI, 0-100): 63.6
@@ -141,6 +141,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 35.0
 - Dynasty AVI (D-AVI, 0-100): 56.5
 - Projected PPR points: 51.3
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Chris Brooks
+- Player name: Chris Brooks
+- Player ID: 11370
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 33.3
+- Dynasty AVI (D-AVI, 0-100): 47.3
+- Projected PPR points: 63.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: George Holani
+- Player name: George Holani
+- Player ID: 12048
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: SEA
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 28.0
+- Dynasty AVI (D-AVI, 0-100): 44.4
+- Projected PPR points: 41.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

@@ -871,7 +871,7 @@
     {
       "cbs_player_id": "2249181",
       "player_age": "28",
-      "player_bye_week": null,
+      "player_bye_week": "5",
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "tyrel-dodson.php",
@@ -884,7 +884,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "T. Dodson",
-      "player_team_id": "FA",
+      "player_team_id": "CAR",
       "player_yahoo_id": "32411",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB35",
