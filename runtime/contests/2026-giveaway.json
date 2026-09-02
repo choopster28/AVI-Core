@@ -3,6 +3,33 @@
   "lockAt": "2026-09-09T06:00:00.000Z",
   "submissions": [
     {
+      "orgId": "dakota-danglers",
+      "orgName": "Badland Banditos",
+      "updatedAt": "2026-09-02T16:03:41.478Z",
+      "answers": [
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "170"
+        },
+        {
+          "team": "Southside Savages",
+          "tiebreaker": "128"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "150"
+        },
+        {
+          "team": "DMV Fantasy",
+          "tiebreaker": "95"
+        },
+        {
+          "team": "Badland Banditos",
+          "tiebreaker": "165"
+        }
+      ]
+    },
+    {
       "orgId": "big-balder",
       "orgName": "Big Balder Brand",
       "updatedAt": "2026-08-26T15:50:29.503Z",
