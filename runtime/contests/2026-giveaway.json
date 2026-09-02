@@ -84,6 +84,33 @@
       ]
     },
     {
+      "orgId": "goblins",
+      "orgName": "Gringo's Goblins",
+      "updatedAt": "2026-09-02T15:36:40.086Z",
+      "answers": [
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "137"
+        },
+        {
+          "team": "DMV Fantasy",
+          "tiebreaker": "102"
+        },
+        {
+          "team": "Big Balder Brand",
+          "tiebreaker": "146"
+        },
+        {
+          "team": "DMV Fantasy",
+          "tiebreaker": "98"
+        },
+        {
+          "team": "Smoky Valley Wheat Warriors",
+          "tiebreaker": "152"
+        }
+      ]
+    },
+    {
       "orgId": "rapid-valley",
       "orgName": "Rapid Valley Annihilation",
       "updatedAt": "2026-08-17T13:41:34.419Z",
