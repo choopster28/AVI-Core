@@ -165,6 +165,33 @@
       ]
     },
     {
+      "orgId": "lightskin",
+      "orgName": "Lightskin Legends",
+      "updatedAt": "2026-09-02T16:09:16.164Z",
+      "answers": [
+        {
+          "team": "Smoky Valley Wheat Warriors",
+          "tiebreaker": "117.2"
+        },
+        {
+          "team": "Badland Banditos",
+          "tiebreaker": "134.8"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "187.6"
+        },
+        {
+          "team": "Northside Kings",
+          "tiebreaker": "48.2"
+        },
+        {
+          "team": "Gringo's Goblins",
+          "tiebreaker": "158.4"
+        }
+      ]
+    },
+    {
       "orgId": "rapid-valley",
       "orgName": "Rapid Valley Annihilation",
       "updatedAt": "2026-08-17T13:41:34.419Z",
