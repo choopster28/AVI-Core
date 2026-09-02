@@ -3037,7 +3037,7 @@
       "genius_id": "1075269",
       "rookie_year": "2023"
     },
-    "news_updated": 1788367530702,
+    "news_updated": 1788388834171,
     "number": 14,
     "oddsjam_id": "C1EBDE7E9115",
     "opta_id": null,
@@ -35404,7 +35404,7 @@
     "espn_id": null,
     "fantasy_data_id": 24718,
     "fantasy_positions": [
-      "TE"
+      "RB"
     ],
     "first_name": "Brady",
     "full_name": "Brady Russell",
@@ -35430,7 +35430,7 @@
     "pandascore_id": null,
     "player_id": "11280",
     "player_shard": "4",
-    "position": "TE",
+    "position": "RB",
     "practice_description": null,
     "practice_participation": null,
     "rotowire_id": 17235,
@@ -53750,7 +53750,7 @@
       "genius_id": "1464123",
       "rookie_year": "2024"
     },
-    "news_updated": 1788301823787,
+    "news_updated": 1788386133283,
     "number": 10,
     "oddsjam_id": "0365907C1878",
     "opta_id": null,
@@ -58676,7 +58676,7 @@
       "genius_id": "1463902",
       "rookie_year": "2024"
     },
-    "news_updated": 1787421024797,
+    "news_updated": 1788388233663,
     "number": 14,
     "oddsjam_id": "9568B303BB99",
     "opta_id": null,
@@ -142253,10 +142253,10 @@
     "hashtag": "#brandonjohnson-NFL-FA-36",
     "height": "70",
     "high_school": "Newton-Conover (NC)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "fc1c65b4-a9c7-4dfd-8b66-724c173b3242",
     "last_name": "Johnson",
     "metadata": {
@@ -185181,7 +185181,7 @@
     "espn_id": null,
     "fantasy_data_id": 28050,
     "fantasy_positions": [
-      "TE"
+      "RB"
     ],
     "first_name": "Max",
     "full_name": "Max Bredeson",
@@ -185206,7 +185206,7 @@
     "pandascore_id": null,
     "player_id": "13516",
     "player_shard": "6",
-    "position": "TE",
+    "position": "RB",
     "practice_description": null,
     "practice_participation": null,
     "rotowire_id": 19430,
@@ -448169,7 +448169,7 @@
       "injury_override_regular_2025_6": "Out",
       "rookie_year": "2018"
     },
-    "news_updated": 1788281720328,
+    "news_updated": 1788387933622,
     "number": 8,
     "oddsjam_id": "1C18E878DAB7",
     "opta_id": null,
@@ -509676,7 +509676,7 @@
       "genius_id": "1005441",
       "rookie_year": "2019"
     },
-    "news_updated": 1788378333718,
+    "news_updated": 1788386733367,
     "number": 97,
     "oddsjam_id": "3250B1366213",
     "opta_id": null,
@@ -571788,10 +571788,10 @@
     "hashtag": "#jedrickwills-NFL-BUF-71",
     "height": "76",
     "high_school": "Lafayette (KY)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "73f1092f-a0c3-4f4f-9363-1f5d41822e48",
     "last_name": "Wills",
     "metadata": {
@@ -572825,7 +572825,7 @@
       "genius_id": "1006660",
       "rookie_year": "2020"
     },
-    "news_updated": 1788297321627,
+    "news_updated": 1788386733939,
     "number": 5,
     "oddsjam_id": "ADB581D238AD",
     "opta_id": null,
@@ -623209,7 +623209,7 @@
       "genius_id": "1080256",
       "rookie_year": "2021"
     },
-    "news_updated": 1788297321662,
+    "news_updated": 1788387334021,
     "number": 1,
     "oddsjam_id": "6062BDCD0B61",
     "opta_id": null,
