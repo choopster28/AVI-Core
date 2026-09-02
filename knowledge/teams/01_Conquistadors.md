@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Thecan
 - Owner ID: 736993578450030592
 - Division: 1
-- Waiver position: 2
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-09-02
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -365,17 +365,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Nakobe Dean
-- Player name: Nakobe Dean
-- Player ID: 8267
+### PLAYER: Cedric Gray
+- Player name: Cedric Gray
+- Player ID: 11742
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: LB
 - Fantasy positions: ['LB']
-- NFL team: LV
+- NFL team: TEN
 - Active: True
 - Status: Active
-- Age: 25.0
+- Age: 23.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

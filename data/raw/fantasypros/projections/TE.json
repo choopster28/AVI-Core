@@ -1,5 +1,5 @@
 {
-  "count": "117",
+  "count": "118",
   "experts": [
     71,
     11,
@@ -406,12 +406,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 1.31,
-        "points": 90.55,
-        "points_half": 122.98,
-        "points_ppr": 155.42,
-        "rec_rec": 64.87,
+        "points": 90.72,
+        "points_half": 123.32,
+        "points_ppr": 155.92,
+        "rec_rec": 65.2,
         "rec_tds": 3.28,
-        "rec_yds": 734.6,
+        "rec_yds": 736.26,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -1027,12 +1027,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 1.57,
-        "points": 34.54,
-        "points_half": 49.47,
-        "points_ppr": 64.4,
+        "points": 34.6,
+        "points_half": 49.54,
+        "points_ppr": 64.47,
         "rec_rec": 29.87,
         "rec_tds": 1.63,
-        "rec_yds": 279.06,
+        "rec_yds": 279.73,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -1525,29 +1525,6 @@
       "team_id": "CIN"
     },
     {
-      "filename": "ben-sims.php",
-      "fpid": 25349,
-      "mflid": 16483,
-      "name": "Ben Sims",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 21.25,
-        "points_half": 29.25,
-        "points_ppr": 37.25,
-        "rec_rec": 16,
-        "rec_tds": 1,
-        "rec_yds": 152.5,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "MIA"
-    },
-    {
       "filename": "jackson-hawes.php",
       "fpid": 27469,
       "mflid": 17213,
@@ -1822,6 +1799,29 @@
         "scrimage_yards_200": 0
       },
       "team_id": "NYG"
+    },
+    {
+      "filename": "will-mallory.php",
+      "fpid": 23821,
+      "mflid": 16220,
+      "name": "Will Mallory",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 15.7,
+        "points_half": 19.7,
+        "points_ppr": 23.7,
+        "rec_rec": 8,
+        "rec_tds": 1,
+        "rec_yds": 97,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "IND"
     },
     {
       "filename": "jared-wiley.php",
@@ -2307,27 +2307,27 @@
       "team_id": "CLE"
     },
     {
-      "filename": "tanner-hudson.php",
-      "fpid": 17826,
-      "mflid": 14370,
-      "name": "Tanner Hudson",
+      "filename": "justin-joly.php",
+      "fpid": 28079,
+      "mflid": 17548,
+      "name": "Justin Joly",
       "position_id": "TE",
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0,
-        "points": 7.05,
-        "points_half": 9.3,
-        "points_ppr": 11.55,
+        "points": 7.4,
+        "points_half": 9.65,
+        "points_ppr": 11.9,
         "rec_rec": 4.5,
         "rec_tds": 0.5,
-        "rec_yds": 40.5,
+        "rec_yds": 44,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "CIN"
+      "team_id": "FA"
     },
     {
       "filename": "eric-saubert.php",
@@ -2445,6 +2445,29 @@
       "team_id": "DET"
     },
     {
+      "filename": "tanner-hudson.php",
+      "fpid": 17826,
+      "mflid": 14370,
+      "name": "Tanner Hudson",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "CIN"
+    },
+    {
       "filename": "quintin-morris.php",
       "fpid": 22820,
       "mflid": 15341,
@@ -2560,6 +2583,29 @@
       "team_id": "DEN"
     },
     {
+      "filename": "ben-sims.php",
+      "fpid": 25349,
+      "mflid": 16483,
+      "name": "Ben Sims",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "MIA"
+    },
+    {
       "filename": "julian-hill.php",
       "fpid": 25824,
       "mflid": 16425,
@@ -2626,7 +2672,7 @@
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "TB"
+      "team_id": "FA"
     },
     {
       "filename": "cj-dippre.php",
@@ -2649,7 +2695,7 @@
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "FA"
+      "team_id": "TB"
     },
     {
       "filename": "joe-royer.php",
@@ -2673,29 +2719,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "CLE"
-    },
-    {
-      "filename": "justin-joly.php",
-      "fpid": 28079,
-      "mflid": 17548,
-      "name": "Justin Joly",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "rec_rec": 0,
-        "rec_tds": 0,
-        "rec_yds": 0,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "FA"
     }
   ],
   "positions": "TE",

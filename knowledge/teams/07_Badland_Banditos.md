@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: IcebergSlim69
 - Owner ID: 737531831641128960
 - Division: 3
-- Waiver position: 15
+- Waiver position: 14
 - Last updated from Sleeper exports: 2026-09-02
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 652.5
 - championship_lineup_c_avi_avg: 81.56
-- offensive_roster_c_avi_sum: 956.6
-- offensive_roster_c_avi_avg: 59.79
-- offensive_roster_d_avi_sum: 1171.8
-- offensive_roster_d_avi_avg: 73.24
+- offensive_roster_c_avi_sum: 964.7
+- offensive_roster_c_avi_avg: 60.29
+- offensive_roster_d_avi_sum: 1182.7
+- offensive_roster_d_avi_avg: 73.92
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -246,6 +246,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Bryce Lance
+- Player name: Bryce Lance
+- Player ID: 13420
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NO
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 25.3
+- Dynasty AVI (D-AVI, 0-100): 55.6
+- Projected PPR points: 39.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Zavion Thomas
 - Player name: Zavion Thomas
 - Player ID: 13411
@@ -260,23 +277,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 20.5
 - Dynasty AVI (D-AVI, 0-100): 44.2
 - Projected PPR points: 34.9
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Odell Beckham
-- Player name: Odell Beckham
-- Player ID: 2078
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: NYG
-- Active: True
-- Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 17.2
-- Dynasty AVI (D-AVI, 0-100): 44.7
-- Projected PPR points: 24.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

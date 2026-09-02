@@ -2047,36 +2047,6 @@
       "team_id": "SEA"
     },
     {
-      "filename": "joe-milton.php",
-      "fpid": 25967,
-      "mflid": 16585,
-      "name": "Joe Milton III",
-      "position_id": "QB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "pass_att": 16.33,
-        "pass_cmp": 10.33,
-        "pass_ints": 0.33,
-        "pass_tds": 0.67,
-        "pass_yds": 119.33,
-        "pass_yds_300": 0,
-        "pass_yds_400": 0,
-        "points": 8.54,
-        "points_half": 8.54,
-        "points_ppr": 8.54,
-        "ret_tds": 0,
-        "rush_att": 3,
-        "rush_tds": 0,
-        "rush_yds": 14.33,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "FA"
-    },
-    {
       "filename": "kyle-mccord.php",
       "fpid": 23066,
       "mflid": 17038,
@@ -2105,6 +2075,36 @@
         "scrimage_yards_200": 0
       },
       "team_id": "MIA"
+    },
+    {
+      "filename": "joe-milton.php",
+      "fpid": 25967,
+      "mflid": 16585,
+      "name": "Joe Milton III",
+      "position_id": "QB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "pass_att": 12,
+        "pass_cmp": 7.5,
+        "pass_ints": 0.5,
+        "pass_tds": 0.5,
+        "pass_yds": 88.5,
+        "pass_yds_300": 0,
+        "pass_yds_400": 0,
+        "points": 6.14,
+        "points_half": 6.14,
+        "points_ppr": 6.14,
+        "ret_tds": 0,
+        "rush_att": 2,
+        "rush_tds": 0,
+        "rush_yds": 11,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "FA"
     },
     {
       "filename": "will-howard.php",
@@ -2197,6 +2197,36 @@
       "team_id": "LAR"
     },
     {
+      "filename": "brady-cook.php",
+      "fpid": 27161,
+      "mflid": 17040,
+      "name": "Brady Cook",
+      "position_id": "QB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "pass_att": 9.5,
+        "pass_cmp": 6.5,
+        "pass_ints": 0.5,
+        "pass_tds": 0.5,
+        "pass_yds": 62,
+        "pass_yds_300": 0,
+        "pass_yds_400": 0,
+        "points": 4.93,
+        "points_half": 4.93,
+        "points_ppr": 4.93,
+        "ret_tds": 0,
+        "rush_att": 2,
+        "rush_tds": 0,
+        "rush_yds": 9.5,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "FA"
+    },
+    {
       "filename": "josh-johnson.php",
       "fpid": 9326,
       "mflid": 9207,
@@ -2254,7 +2284,7 @@
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "FA"
+      "team_id": "JAC"
     },
     {
       "filename": "jake-browning.php",
@@ -2345,36 +2375,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "LV"
-    },
-    {
-      "filename": "brady-cook.php",
-      "fpid": 27161,
-      "mflid": 17040,
-      "name": "Brady Cook",
-      "position_id": "QB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "pass_att": 0,
-        "pass_cmp": 0,
-        "pass_ints": 0,
-        "pass_tds": 0,
-        "pass_yds": 0,
-        "pass_yds_300": 0,
-        "pass_yds_400": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "FA"
     }
   ],
   "positions": "QB",

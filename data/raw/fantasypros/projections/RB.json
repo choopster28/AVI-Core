@@ -463,12 +463,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 1,
-        "points": 191.26,
-        "points_half": 213.96,
-        "points_ppr": 236.67,
-        "rec_rec": 45.41,
+        "points": 191.33,
+        "points_half": 214.2,
+        "points_ppr": 237.07,
+        "rec_rec": 45.74,
         "rec_tds": 3.04,
-        "rec_yds": 357.61,
+        "rec_yds": 358.28,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -2247,6 +2247,34 @@
       "team_id": "SEA"
     },
     {
+      "filename": "emari-demercado.php",
+      "fpid": 25654,
+      "mflid": 16385,
+      "name": "Emari Demercado",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 24.7,
+        "points_half": 27.2,
+        "points_ppr": 29.7,
+        "rec_rec": 5,
+        "rec_tds": 0,
+        "rec_yds": 41,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 32,
+        "rush_tds": 0,
+        "rush_yds": 206,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "DAL"
+    },
+    {
       "filename": "ray-davis.php",
       "fpid": 26191,
       "mflid": 16603,
@@ -2339,12 +2367,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.03,
-        "points": 21.31,
-        "points_half": 22.56,
-        "points_ppr": 23.81,
+        "points": 21.36,
+        "points_half": 22.61,
+        "points_ppr": 23.86,
         "rec_rec": 2.5,
         "rec_tds": 0.04,
-        "rec_yds": 16.27,
+        "rec_yds": 16.77,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -2553,34 +2581,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "CIN"
-    },
-    {
-      "filename": "jeremy-mcnichols.php",
-      "fpid": 16445,
-      "mflid": 13143,
-      "name": "Jeremy McNichols",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 17,
-        "points_half": 19.5,
-        "points_ppr": 22,
-        "rec_rec": 5,
-        "rec_tds": 0,
-        "rec_yds": 41,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 13,
-        "rush_tds": 1,
-        "rush_yds": 69,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "WAS"
     },
     {
       "filename": "nick-singleton.php",
@@ -3112,7 +3112,7 @@
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "FA"
+      "team_id": "MIN"
     },
     {
       "filename": "jerome-ford.php",

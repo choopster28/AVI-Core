@@ -391,6 +391,22 @@
       "team_id": "WAS"
     },
     {
+      "filename": "blake-grupe.php",
+      "fpid": 25533,
+      "mflid": 16444,
+      "name": "Blake Grupe",
+      "position_id": "K",
+      "stats": {
+        "fg": 27.95,
+        "fga": 33.8,
+        "points": 115.7,
+        "points_half": 115.7,
+        "points_ppr": 115.7,
+        "xpt": 31.85
+      },
+      "team_id": "NYJ"
+    },
+    {
       "filename": "riley-patterson.php",
       "fpid": 23370,
       "mflid": 15369,
@@ -437,22 +453,6 @@
         "xpt": 31.21
       },
       "team_id": "ARI"
-    },
-    {
-      "filename": "blake-grupe.php",
-      "fpid": 25533,
-      "mflid": 16444,
-      "name": "Blake Grupe",
-      "position_id": "K",
-      "stats": {
-        "fg": 27.43,
-        "fga": 32.7,
-        "points": 109.97,
-        "points_half": 109.97,
-        "points_ppr": 109.97,
-        "xpt": 27.69
-      },
-      "team_id": "NYJ"
     },
     {
       "filename": "ryan-fitzgerald.php",
@@ -519,22 +519,6 @@
       "team_id": "NYG"
     },
     {
-      "filename": "jason-sanders.php",
-      "fpid": 17533,
-      "mflid": 13832,
-      "name": "Jason Sanders",
-      "position_id": "K",
-      "stats": {
-        "fg": 17.67,
-        "fga": 21,
-        "points": 70,
-        "points_half": 70,
-        "points_ppr": 70,
-        "xpt": 17
-      },
-      "team_id": "FA"
-    },
-    {
       "filename": "ben-sauls.php",
       "fpid": 27798,
       "mflid": 17434,
@@ -547,6 +531,22 @@
         "points_half": 58.5,
         "points_ppr": 58.5,
         "xpt": 12.5
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "jason-sanders.php",
+      "fpid": 17533,
+      "mflid": 13832,
+      "name": "Jason Sanders",
+      "position_id": "K",
+      "stats": {
+        "fg": 12,
+        "fga": 15,
+        "points": 36,
+        "points_half": 36,
+        "points_ppr": 36,
+        "xpt": 0
       },
       "team_id": "FA"
     },
@@ -692,7 +692,7 @@
         "points_ppr": 0,
         "xpt": 0
       },
-      "team_id": "FA"
+      "team_id": "NO"
     },
     {
       "filename": "joshua-karty.php",

@@ -837,13 +837,13 @@
     "sleeper_id": "8917"
   },
   {
-    "confidence": "verified",
-    "fantasypros_id": "18561",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CIN",
-    "player_name": "Drew Sample",
-    "position": "TE",
-    "sleeper_id": "6001"
+    "confidence": "review",
+    "fantasypros_id": "18557",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Jake Browning",
+    "position": "QB",
+    "sleeper_id": "6111"
   },
   {
     "confidence": "verified",
@@ -1143,15 +1143,6 @@
     "sleeper_id": "6869"
   },
   {
-    "confidence": "review",
-    "fantasypros_id": "19483",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Van Jefferson",
-    "position": "WR",
-    "sleeper_id": "6853"
-  },
-  {
     "confidence": "verified",
     "fantasypros_id": "19539",
     "match_method": "exact_name_position_unique",
@@ -1294,6 +1285,15 @@
     "player_name": "Darnell Mooney",
     "position": "WR",
     "sleeper_id": "7090"
+  },
+  {
+    "confidence": "review",
+    "fantasypros_id": "19843",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Antonio Williams",
+    "position": "RB",
+    "sleeper_id": "7203"
   },
   {
     "confidence": "verified",
@@ -2404,6 +2404,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "24345",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PIT",
+    "player_name": "Drew Allar",
+    "position": "QB",
+    "sleeper_id": "13289"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "24346",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NYJ",
@@ -2842,15 +2851,6 @@
     "player_name": "Oscar Delp",
     "position": "TE",
     "sleeper_id": "13319"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "25443",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "PIT",
-    "player_name": "Lew Nichols III",
-    "position": "RB",
-    "sleeper_id": "9510"
   },
   {
     "confidence": "verified",
@@ -3330,10 +3330,10 @@
     "sleeper_id": "12518"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "26444",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NO",
     "player_name": "Charlie Smyth",
     "position": "K",
     "sleeper_id": "11653"
@@ -3411,10 +3411,10 @@
     "sleeper_id": "12499"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "27066",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "TEN",
     "player_name": "Xavier Restrepo",
     "position": "WR",
     "sleeper_id": "12520"
@@ -3933,10 +3933,10 @@
     "sleeper_id": "13305"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "28109",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "JAC",
     "player_name": "J'Mari Taylor",
     "position": "RB",
     "sleeper_id": "13348"
