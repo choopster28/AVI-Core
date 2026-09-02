@@ -3,6 +3,33 @@
   "lockAt": "2026-09-09T06:00:00.000Z",
   "submissions": [
     {
+      "orgId": "king-jesus",
+      "orgName": "All Hail King Jesus",
+      "updatedAt": "2026-09-02T16:32:01.459Z",
+      "answers": [
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "250"
+        },
+        {
+          "team": "Ravens Regime",
+          "tiebreaker": "175"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "285"
+        },
+        {
+          "team": "Ravens Regime",
+          "tiebreaker": "135"
+        },
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "210"
+        }
+      ]
+    },
+    {
       "orgId": "dakota-danglers",
       "orgName": "Badland Banditos",
       "updatedAt": "2026-09-02T16:03:41.478Z",
