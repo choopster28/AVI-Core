@@ -271,6 +271,33 @@
           "tiebreaker": "188.4"
         }
       ]
+    },
+    {
+      "orgId": "southside",
+      "orgName": "Southside Savages",
+      "updatedAt": "2026-09-03T17:00:10.258Z",
+      "answers": [
+        {
+          "team": "Conquistadors",
+          "tiebreaker": "125"
+        },
+        {
+          "team": "Southside Savages",
+          "tiebreaker": "125"
+        },
+        {
+          "team": "Smoky Valley Wheat Warriors",
+          "tiebreaker": "140"
+        },
+        {
+          "team": "All Hail King Jesus",
+          "tiebreaker": "85"
+        },
+        {
+          "team": "Southside Savages",
+          "tiebreaker": "130"
+        }
+      ]
     }
   ]
 }
