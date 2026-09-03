@@ -2493,10 +2493,10 @@
     "sleeper_id": "13302"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "24369",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DET",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Jabari Small",
     "position": "RB",
     "sleeper_id": "12356"
@@ -2907,10 +2907,10 @@
     "sleeper_id": "11435"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "25967",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DAL",
     "player_name": "Joe Milton III",
     "position": "QB",
     "sleeper_id": "11557"
@@ -3555,10 +3555,10 @@
     "sleeper_id": "12492"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "27222",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LAC",
     "player_name": "Theo Wease Jr.",
     "position": "WR",
     "sleeper_id": "12860"
@@ -4165,6 +4165,15 @@
     "player_name": "Nate Boerkircher",
     "position": "TE",
     "sleeper_id": "13299"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28434",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "MIN",
+    "player_name": "Max Bredeson",
+    "position": "RB",
+    "sleeper_id": "13516"
   },
   {
     "confidence": "verified",

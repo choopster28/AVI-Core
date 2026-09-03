@@ -1,5 +1,5 @@
 {
-  "count": "79",
+  "count": "80",
   "experts": [
     71,
     11,
@@ -2104,7 +2104,7 @@
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "FA"
+      "team_id": "DAL"
     },
     {
       "filename": "will-howard.php",
@@ -2255,6 +2255,36 @@
         "scrimage_yards_200": 0
       },
       "team_id": "CIN"
+    },
+    {
+      "filename": "teddy-bridgewater.php",
+      "fpid": 12088,
+      "mflid": 11640,
+      "name": "Teddy Bridgewater",
+      "position_id": "QB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "pass_att": 0,
+        "pass_cmp": 0,
+        "pass_ints": 0,
+        "pass_tds": 0,
+        "pass_yds": 0,
+        "pass_yds_300": 0,
+        "pass_yds_400": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "FA"
     },
     {
       "filename": "nick-mullens.php",

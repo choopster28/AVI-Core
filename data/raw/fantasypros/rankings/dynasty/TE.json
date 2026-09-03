@@ -3479,7 +3479,7 @@
     {
       "cbs_player_id": "26688308",
       "player_age": "29",
-      "player_bye_week": null,
+      "player_bye_week": "11",
       "player_ecr_delta": null,
       "player_eligibility": "TE",
       "player_filename": "shane-zylstra.php",
@@ -3492,7 +3492,7 @@
       "player_position_id": "TE",
       "player_positions": "TE",
       "player_short_name": "S. Zylstra",
-      "player_team_id": "FA",
+      "player_team_id": "NE",
       "player_yahoo_id": "33803",
       "player_yahoo_positions": "TE",
       "pos_rank": "TE125",

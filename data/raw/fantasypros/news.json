@@ -3,6 +3,254 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-02 21:00:26",
+      "created_formated": "Wed, Sep 2nd 9:00pm UTC",
+      "desc": "Jakobi Meyers (hand) got in a limited practice session on Wednesday. ",
+      "id": 605658,
+      "impact": "Meyers is \"all good,\" according to head coach Liam Coen. The veteran receiver has been practicing in a limited capacity this week and is not a concern for Week 1. ",
+      "link": "https://www.fantasypros.com/nfl/news/605658/jakobi-meyers-hand-gets-limited-practice-wednesday.php",
+      "player_id": 18598,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Jakobi Meyers (hand) gets in limited practice Wednesday"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-02 20:58:15",
+      "created_formated": "Wed, Sep 2nd 8:58pm UTC",
+      "desc": "Brian Thomas Jr. (shoulder) has been practicing in full this week. ",
+      "id": 605657,
+      "impact": "Thomas has been limited by a shoulder injury recently, but he was back to full practice activity on Tuesday. The third-year wideout should be good to go for Week 1. ",
+      "link": "https://www.fantasypros.com/nfl/news/605657/brian-thomas-jr-shoulder-practicing-full.php",
+      "player_id": 23000,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Brian Thomas Jr. (shoulder) practicing in full"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-02 20:17:32",
+      "created_formated": "Wed, Sep 2nd 8:17pm UTC",
+      "desc": "Panthers coach Dave Canales said he is \"very optimistic\" Jonathon Brooks will play in Week 1 against the Bears.",
+      "id": 605655,
+      "impact": "Brooks was absent from practice on Tuesday as he deals with some soreness. His status will need to be monitored in practice next week heading into the season opener. ",
+      "link": "https://www.fantasypros.com/nfl/news/605655/jonathon-brooks-optimistic-week-1.php",
+      "player_id": 26148,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Jonathon Brooks 'optimistic' for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-02 20:14:42",
+      "created_formated": "Wed, Sep 2nd 8:14pm UTC",
+      "desc": "Isaiah Bond did not practice on Wednesday. ",
+      "id": 605652,
+      "impact": "Bond had reportedly cleared concussion protocol, so it is unclear what happened. His status for Week 1 is up in the air. ",
+      "link": "https://www.fantasypros.com/nfl/news/605652/isaiah-bond-concussion-misses-practice.php",
+      "player_id": 24371,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Isaiah Bond (concussion) misses practice "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-02 20:13:08",
+      "created_formated": "Wed, Sep 2nd 8:13pm UTC",
+      "desc": "Mike Evans returned to practice Wednesday.",
+      "id": 605650,
+      "impact": "Evans was back on the field after being sidelined for most of training camp. He should be good to go for the season opener next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/605650/mike-evans-adductor-returns-to-practice.php",
+      "player_id": 12119,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Mike Evans (adductor) returns to practice "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-02 20:11:43",
+      "created_formated": "Wed, Sep 2nd 8:11pm UTC",
+      "desc": "There's \"currently optimism\" from the Bills that Khalil Shakir will play in Week 1 against the Texans.",
+      "id": 605648,
+      "impact": "Shakir has been sidelined from practice for the past couple of weeks due to an undisclosed injury. Buffalo is reportedly being cautious with him. ",
+      "link": "https://www.fantasypros.com/nfl/news/605648/khalil-shakir-undisclosed-optimistic-week-1.php",
+      "player_id": 23748,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Khalil Shakir (undisclosed) 'optimistic' for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-02 20:10:12",
+      "created_formated": "Wed, Sep 2nd 8:10pm UTC",
+      "desc": "The Ravens signed Chuma Edoga.",
+      "id": 605646,
+      "impact": "Edoga appeared in 14 games for the Jaguars last year. He will add depth for Baltimore. ",
+      "link": "https://www.fantasypros.com/nfl/news/605646/chuma-edoga-signs-with-ravens.php",
+      "player_id": 18499,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Chuma Edoga signs with Ravens "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-02 19:51:17",
+      "created_formated": "Wed, Sep 2nd 7:51pm UTC",
+      "desc": "The Jets hosted free agent kicker Joshua Karty for a workout.",
+      "id": 605643,
+      "impact": "Karty was one of three kickers to workout for the Jets. They continue to address the position after recently claiming Blake Grupe off waivers.",
+      "link": "https://www.fantasypros.com/nfl/news/605643/joshua-karty-works-out-jets.php",
+      "player_id": 26478,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Joshua Karty works out for Jets"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-02 19:50:44",
+      "created_formated": "Wed, Sep 2nd 7:50pm UTC",
+      "desc": "The Jets hosted free agent kicker Michael Badgley for a workout.",
+      "id": 605641,
+      "impact": "Badgley was one of three kickers to workout for the Jets. They continue to address the position after recently claiming Blake Grupe off waivers.",
+      "link": "https://www.fantasypros.com/nfl/news/605641/michael-badgley-works-out-jets.php",
+      "player_id": 17693,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Michael Badgley works out for Jets"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-02 19:49:54",
+      "created_formated": "Wed, Sep 2nd 7:49pm UTC",
+      "desc": "The Jets hosted free agent kicker Justin Tucker for a workout. ",
+      "id": 605640,
+      "impact": "Tucker was one of three kickers to workout for the Jets. They continue to address the position after recently claiming Blake Grupe off waivers. ",
+      "link": "https://www.fantasypros.com/nfl/news/605640/justin-tucker-works-out-jets.php",
+      "player_id": 11465,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Justin Tucker works out for Jets"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-02 19:47:48",
+      "created_formated": "Wed, Sep 2nd 7:47pm UTC",
+      "desc": "Alvin Kamara remained absent from practice on Wednesday. ",
+      "id": 605639,
+      "impact": "Kamara remains uncertain for the start of the season next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/605639/alvin-kamara-knee-misses-practice-wednesday.php",
+      "player_id": 16421,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Alvin Kamara (knee) misses practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-02 19:46:44",
+      "created_formated": "Wed, Sep 2nd 7:46pm UTC",
+      "desc": "Kendre Miller was not seen practicing on Wednesday.  ",
+      "id": 605638,
+      "impact": "Miller departed practice early on Tuesday. There will be an update on his injury status when available. ",
+      "link": "https://www.fantasypros.com/nfl/news/605638/kendre-miller-not-seen-practice-wednesday.php",
+      "player_id": 24360,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Kendre Miller not seen at practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-02 19:45:15",
+      "created_formated": "Wed, Sep 2nd 7:45pm UTC",
+      "desc": "Nick Bosa told reporters he expects to play in the season opener next week against the Rams. ",
+      "id": 605637,
+      "impact": "Bosa reportedly had a strong practice on Wednesday. It is unclear if he will be on any sort of snap count in his first game back. ",
+      "link": "https://www.fantasypros.com/nfl/news/605637/nick-bosa-knee-says-he-expects-to-play-week-1.php",
+      "player_id": 18199,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Nick Bosa (knee) says he expects to play Week 1"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-09-02 16:45:08",
+      "created_formated": "Wed, Sep 2nd 4:45pm UTC",
+      "desc": "Kirk Cousins has been named the Raiders Week 1 starter against the Dolphins.",
+      "id": 605604,
+      "impact": "It's long been presumed that the Raiders would start Cousins and give Mendoza at least a half-redshirt year. This just confirms it. He could be an interesting streaming option, but we need to see more from the pass catchers not named Brock Bowers to really feel confident in this passing offense.",
+      "link": "https://www.fantasypros.com/nfl/news/605604/kirk-cousins-named-raiders-week-1-starter.php",
+      "player_id": 11177,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Kirk Cousins named Raiders Week 1 starter"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -188,245 +436,6 @@
       "sport_id": "NFL",
       "team_id": "CLE",
       "title": "Messiah Swinson signs with Browns practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 15:39:40",
-      "created_formated": "Wed, Sep 2nd 3:39pm UTC",
-      "desc": "The Browns signed DT Sam Kamara to their practice squad. ",
-      "id": 605571,
-      "impact": "Kamara will add depth on the defensive line for Cleveland heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605571/sam-kamara-signs-with-browns-practice-squad.php",
-      "player_id": 23282,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Sam Kamara signs with Browns practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 15:38:18",
-      "created_formated": "Wed, Sep 2nd 3:38pm UTC",
-      "desc": "The Browns waived CB Michael Coats Jr. ",
-      "id": 605570,
-      "impact": "Coats could return to the Browns practice squad if he clears waivers. ",
-      "link": "https://www.fantasypros.com/nfl/news/605570/michael-coats-jr-waived-by-browns.php",
-      "player_id": 28608,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Michael Coats Jr. waived by Browns"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-02 15:37:17",
-      "created_formated": "Wed, Sep 2nd 3:37pm UTC",
-      "desc": "The Browns placed DT Kalia Davis on injured reserve. ",
-      "id": 605569,
-      "impact": "Davis will miss at least the first four weeks of the regular season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605569/kalia-davis-placed-on-ir.php",
-      "player_id": 23906,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Kalia Davis placed on IR"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 15:35:42",
-      "created_formated": "Wed, Sep 2nd 3:35pm UTC",
-      "desc": "The Saints signed TE Stone Smartt to their practice squad. ",
-      "id": 605568,
-      "impact": "Smartt will add depth in the tight end room for New Orleans heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605568/stone-smartt-signs-with-saints-practice-squad.php",
-      "player_id": 24621,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Stone Smartt signs with Saints practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 15:34:22",
-      "created_formated": "Wed, Sep 2nd 3:34pm UTC",
-      "desc": "The Bengals signed Garmon Randolph to their practice squad. ",
-      "id": 605567,
-      "impact": "Randolph was previously with the Chargers. ",
-      "link": "https://www.fantasypros.com/nfl/news/605567/garmon-randolph-signs-with-bengals-practice-squad.php",
-      "player_id": 27640,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Garmon Randolph signs with Bengals practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 15:33:10",
-      "created_formated": "Wed, Sep 2nd 3:33pm UTC",
-      "desc": "The Jaguars released OL Jimto Obidegwu from their practice squad. ",
-      "id": 605566,
-      "impact": "Obidegwu will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605566/jimto-obidegwu-released-by-jaguars.php",
-      "player_id": 28539,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jimto Obidegwu released by Jaguars "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 15:32:16",
-      "created_formated": "Wed, Sep 2nd 3:32pm UTC",
-      "desc": "The Jaguars signed TE Hayden Rucci to their practice squad. ",
-      "id": 605565,
-      "impact": "Rucci will add depth in the tight end room for Jacksonville heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605565/hayden-rucci-signs-with-jaguars-practice-squad.php",
-      "player_id": 26946,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Hayden Rucci signs with Jaguars practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 15:31:18",
-      "created_formated": "Wed, Sep 2nd 3:31pm UTC",
-      "desc": "The Jaguars signed S Kaevon Merriweather to their practice squad. ",
-      "id": 605564,
-      "impact": "Merriweather will add depth in the secondary for Jacksonville heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605564/kaevon-merriweather-signs-with-jaguars-practice-squad.php",
-      "player_id": 25869,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Kaevon Merriweather signs with Jaguars practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 15:30:18",
-      "created_formated": "Wed, Sep 2nd 3:30pm UTC",
-      "desc": "The Jaguars signed OL Eli Cox to their practice squad. ",
-      "id": 605562,
-      "impact": "Cox will add depth on the offensive line for Jacksonville heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605562/eli-cox-signs-with-jaguars-practice-squad.php",
-      "player_id": 26202,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Eli Cox signs with Jaguars practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 07:37:23",
-      "created_formated": "Wed, Sep 2nd 7:37am UTC",
-      "desc": "The Patriots signed LB Jose Ramirez to their practice squad. ",
-      "id": 605532,
-      "impact": "Ramirez will add depth in the linebacker room for New England on its practice squad. ",
-      "link": "https://www.fantasypros.com/nfl/news/605532/jose-ramirez-signs-with-patriots-practice-squad.php",
-      "player_id": 25584,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Jose Ramirez signs with Patriots practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 07:36:14",
-      "created_formated": "Wed, Sep 2nd 7:36am UTC",
-      "desc": "The Patriots signed OL Jake Kubas to their practice squad. ",
-      "id": 605531,
-      "impact": "Kubas will add depth on the offensive line for New England on its practice squad. ",
-      "link": "https://www.fantasypros.com/nfl/news/605531/jake-kubas-signs-with-patriots-practice-squad.php",
-      "player_id": 26938,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Jake Kubas signs with Patriots practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 07:35:22",
-      "created_formated": "Wed, Sep 2nd 7:35am UTC",
-      "desc": "The Patriots signed DT Jalen Hunt to their practice squad. ",
-      "id": 605530,
-      "impact": "Hunt will add depth on the defensive line for New England on its practice squad. ",
-      "link": "https://www.fantasypros.com/nfl/news/605530/jalen-hunt-signs-with-patriots-practice-squad.php",
-      "player_id": 28564,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Jalen Hunt signs with Patriots practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 07:33:03",
-      "created_formated": "Wed, Sep 2nd 7:33am UTC",
-      "desc": "The Patriots signed LB Erick Hunter to their 53-man roster. ",
-      "id": 605529,
-      "impact": "Hunter will add depth in the linebacker room for New England heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605529/erick-hunter-signs-with-patriots.php",
-      "player_id": 28635,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Erick Hunter signs with Patriots "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-02 07:32:15",
-      "created_formated": "Wed, Sep 2nd 7:32am UTC",
-      "desc": "The Patriots signed C Ben Brown to their 53-man roster. ",
-      "id": 605528,
-      "impact": "Brown will add depth on the offensive line for New England heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605528/ben-brown-signs-with-patriots.php",
-      "player_id": 20137,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Ben Brown signs with Patriots "
     }
   ],
   "public_api_limited": true,

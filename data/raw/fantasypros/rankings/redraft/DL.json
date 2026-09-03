@@ -11506,7 +11506,7 @@
     },
     {
       "cbs_player_id": "3122837",
-      "player_bye_week": null,
+      "player_bye_week": "7",
       "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "jordan-jefferson.php",
@@ -11519,7 +11519,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "J. Jefferson",
-      "player_team_id": "FA",
+      "player_team_id": "LAC",
       "player_yahoo_id": "40985",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT199",

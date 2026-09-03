@@ -16,6 +16,22 @@
     "team": "SF"
   },
   {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "name": "Patrick Ricard",
+        "position": "FB",
+        "sleeper_id": "4353",
+        "team": "NYG"
+      }
+    ],
+    "fantasypros_id": "17145",
+    "name": "Patrick Ricard",
+    "normalized_name": "patrick ricard",
+    "position": "RB",
+    "team": "NYG"
+  },
+  {
     "candidate_count": 0,
     "candidates": [],
     "fantasypros_id": "18226",
@@ -23,6 +39,22 @@
     "normalized_name": "hollywood brown",
     "position": "WR",
     "team": "PHI"
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "name": "Alec Ingold",
+        "position": "FB",
+        "sleeper_id": "6109",
+        "team": "LAC"
+      }
+    ],
+    "fantasypros_id": "18571",
+    "name": "Alec Ingold",
+    "normalized_name": "alec ingold",
+    "position": "RB",
+    "team": "LAC"
   },
   {
     "candidate_count": 0,
