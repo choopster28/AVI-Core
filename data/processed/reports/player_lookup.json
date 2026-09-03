@@ -1035,18 +1035,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00010235",
-      "c_avi": 22.4,
-      "d_avi": 40.4,
-      "nfl_team": "CHI",
-      "player_name": "Roschon Johnson",
-      "position": "RB",
-      "sleeper_id": "10235",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011599",
       "c_avi": 22.3,
       "d_avi": 42.5,
@@ -2366,8 +2354,8 @@
     }
   ],
   "counts": {
-    "available_players": 197,
-    "rostered_players": 242
+    "available_players": 196,
+    "rostered_players": 243
   },
   "rostered_players": [
     {
@@ -5633,6 +5621,22 @@
       "status": "Active",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00010235",
+      "c_avi": 22.4,
+      "d_avi": 40.4,
+      "nfl_team": "CHI",
+      "owner_id": "736993578450030592",
+      "player_name": "Roschon Johnson",
+      "position": "RB",
+      "roster_id": 1,
+      "sleeper_id": "10235",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
