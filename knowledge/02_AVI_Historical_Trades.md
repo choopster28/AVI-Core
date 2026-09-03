@@ -17,15 +17,15 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **80**
-- Owner trade participations: **161**
-- Two-team trades: **79**
+- Unique completed trades: **81**
+- Owner trade participations: **163**
+- Two-team trades: **80**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **37**
+- 2026 completed trades: **38**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-08-26T14:21:00.786000+00:00**
+- Latest verified trade: **2026-09-03T16:55:26.206000+00:00**
 
 ## Trades by Owner
 
@@ -33,7 +33,7 @@
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Corgi Loaf Baking Co.  | awang1900 | **24** | 7 | 4 | 13 | 36 | 36 | 8 | 12 | 6 | 7 |
 | 2 | Big Balder Brand | Choopski | **20** | 7 | 2 | 11 | 30 | 32 | 3 | 7 | 1 | 4 |
-| 3 | Conquistadors | Thecan | **17** | 6 | 2 | 9 | 16 | 18 | 5 | 9 | 3 | 5 |
+| 3 | Conquistadors | Thecan | **18** | 6 | 2 | 10 | 16 | 18 | 6 | 10 | 3 | 5 |
 | 4 | Ravens Regime  | Mentomorii | **17** | 3 | 3 | 11 | 16 | 21 | 3 | 5 | 2 | 4 |
 | 5 | DMV Fantasy | TacticsNoob | **15** | 5 | 2 | 8 | 21 | 18 | 13 | 3 | 7 | 2 |
 | 6 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 5 | 3 | 2 | 2 |
@@ -43,7 +43,7 @@
 | 10 | All Hail King Jesus | Hofer51 | **6** | 0 | 4 | 2 | 8 | 5 | 0 | 8 | 0 | 3 |
 | 11 | Rapid Valley Annihilation | FuzzyRaptor | **6** | 0 | 3 | 3 | 9 | 10 | 6 | 1 | 2 | 0 |
 | 12 | Lightskin Legends ✊🏽 | MadDawgMatt | **5** | 2 | 3 | 0 | 5 | 3 | 1 | 2 | 0 | 0 |
-| 13 | SmokyValleyWheatWarriors | AlexPete6800 | **4** | 2 | 2 | 0 | 1 | 3 | 2 | 2 | 0 | 1 |
+| 13 | SmokyValleyWheatWarriors | AlexPete6800 | **5** | 2 | 2 | 1 | 1 | 3 | 3 | 3 | 0 | 1 |
 | 14 | Gringo’s Goblins  | Burnfaze | **3** | 0 | 0 | 3 | 7 | 7 | 2 | 2 | 2 | 0 |
 | 15 | Phalhala or Bust | PIFYAF | **1** | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
 | 16 | Southside Savages | GGEZGoNext | **1** | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
@@ -66,10 +66,28 @@
 | Phalhala or Bust | Ravens Regime  | 1 |
 | Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 4 |
 | Ravens Regime  | Corgi Loaf Baking Co.  | 4 |
-| SmokyValleyWheatWarriors | Conquistadors | 2 |
+| SmokyValleyWheatWarriors | Conquistadors | 3 |
 | Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1401283482868592640
+- Season: 2026
+- Week: 1
+- Created at UTC: 2026-09-03T16:55:26.206000+00:00
+- Teams involved: 2
+
+#### Conquistadors (Thecan)
+- Players received: None
+- Players sent: None
+- Picks received: 2027 Round 15 (original roster 1)
+- Picks sent: 2027 Round 15 (original roster 10)
+
+#### SmokyValleyWheatWarriors (AlexPete6800)
+- Players received: None
+- Players sent: None
+- Picks received: 2027 Round 15 (original roster 10)
+- Picks sent: 2027 Round 15 (original roster 1)
 
 ### TRADE: 1398345517959819264
 - Season: 2026

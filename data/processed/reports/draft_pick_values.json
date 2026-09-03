@@ -5,7 +5,7 @@
     2028,
     2029
   ],
-  "generated_at_utc": "2026-09-03T13:07:11.123248+00:00",
+  "generated_at_utc": "2026-09-03T17:05:19.079892+00:00",
   "league_id": "1312185568032997376",
   "max_rounds": 20,
   "ownership_source": "Sleeper traded_picks + native original ownership",
@@ -3149,8 +3149,8 @@
     },
     {
       "avi_category": "No Current AVI",
-      "current_owner_roster_id": 10,
-      "current_owner_team": "SmokyValleyWheatWarriors",
+      "current_owner_roster_id": 1,
+      "current_owner_team": "Conquistadors",
       "draft_pick_avi": 0.0,
       "original_roster_id": 1,
       "original_team": "Conquistadors",
@@ -3275,8 +3275,8 @@
     },
     {
       "avi_category": "No Current AVI",
-      "current_owner_roster_id": 1,
-      "current_owner_team": "Conquistadors",
+      "current_owner_roster_id": 10,
+      "current_owner_team": "SmokyValleyWheatWarriors",
       "draft_pick_avi": 0.0,
       "original_roster_id": 10,
       "original_team": "SmokyValleyWheatWarriors",

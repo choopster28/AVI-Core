@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-03T13:07:11.490721+00:00",
+  "generated_at_utc": "2026-09-03T17:05:19.454974+00:00",
   "statistics": {
-    "owner_trade_participations": 161,
+    "owner_trade_participations": 163,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -126,7 +126,7 @@
         "team_name": "Ravens Regime "
       },
       {
-        "partner_count": 2,
+        "partner_count": 3,
         "partners": [
           "Conquistadors"
         ],
@@ -181,18 +181,18 @@
         "by_season": {
           "2024": 6,
           "2025": 2,
-          "2026": 9
+          "2026": 10
         },
         "firsts_in": 3,
         "firsts_out": 5,
         "owner_display_name": "Thecan",
-        "picks_in": 5,
-        "picks_out": 9,
+        "picks_in": 6,
+        "picks_out": 10,
         "players_in": 16,
         "players_out": 18,
         "roster_id": 1,
         "team_name": "Conquistadors",
-        "total": 17
+        "total": 18
       },
       {
         "by_season": {
@@ -345,18 +345,19 @@
       {
         "by_season": {
           "2024": 2,
-          "2025": 2
+          "2025": 2,
+          "2026": 1
         },
         "firsts_in": 0,
         "firsts_out": 1,
         "owner_display_name": "AlexPete6800",
-        "picks_in": 2,
-        "picks_out": 2,
+        "picks_in": 3,
+        "picks_out": 3,
         "players_in": 1,
         "players_out": 3,
         "roster_id": 10,
         "team_name": "SmokyValleyWheatWarriors",
-        "total": 4
+        "total": 5
       },
       {
         "by_season": {
@@ -408,10 +409,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 37
+      "2026": 38
     },
-    "two_team_trades": 79,
-    "unique_completed_trades": 80
+    "two_team_trades": 80,
+    "unique_completed_trades": 81
   },
   "trades": [
     {
@@ -5910,6 +5911,66 @@
         }
       ],
       "transaction_id": "1398345517959819264",
+      "week": 1
+    },
+    {
+      "created_at_utc": "2026-09-03T16:55:26.206000+00:00",
+      "created_timestamp_ms": 1788454526206,
+      "roster_ids": [
+        1,
+        10
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 15,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 10,
+              "round": 15,
+              "season": "2027"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "AlexPete6800",
+          "owner_id": "308805697879937024",
+          "picks_received": [
+            {
+              "original_roster_id": 10,
+              "round": 15,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 15,
+              "season": "2027"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [],
+          "roster_id": 10,
+          "season": 2026,
+          "team_name": "SmokyValleyWheatWarriors"
+        }
+      ],
+      "transaction_id": "1401283482868592640",
       "week": 1
     }
   ]

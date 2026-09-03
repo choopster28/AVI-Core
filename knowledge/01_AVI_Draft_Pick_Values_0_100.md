@@ -2702,8 +2702,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Conquistadors
 - Original roster ID: 1
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
@@ -2810,8 +2810,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: SmokyValleyWheatWarriors
 - Original roster ID: 10
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
