@@ -5,7 +5,7 @@
     {
       "orgId": "king-jesus",
       "orgName": "All Hail King Jesus",
-      "updatedAt": "2026-09-02T16:32:01.459Z",
+      "updatedAt": "2026-09-03T17:26:06.215Z",
       "answers": [
         {
           "team": "Conquistadors",
@@ -17,15 +17,15 @@
         },
         {
           "team": "Conquistadors",
-          "tiebreaker": "285"
+          "tiebreaker": "220"
         },
         {
-          "team": "Ravens Regime",
-          "tiebreaker": "135"
+          "team": "Rapid Valley Annihilation",
+          "tiebreaker": "115"
         },
         {
           "team": "Conquistadors",
-          "tiebreaker": "210"
+          "tiebreaker": "190"
         }
       ]
     },
