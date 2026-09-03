@@ -1484,6 +1484,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
+## PLAYER LOOKUP: Odell Beckham
+- Player name: Odell Beckham
+- Player ID: 2078
+- Position: WR
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
+
 ## PLAYER LOOKUP: Omar Cooper
 - Player name: Omar Cooper
 - Player ID: 13276
@@ -1812,14 +1820,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
-## PLAYER LOOKUP: Troy Franklin
-- Player name: Troy Franklin
-- Player ID: 11627
-- Position: WR
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Team file: 06_Lightskin_Legends.md
-
 ## PLAYER LOOKUP: Tua Tagovailoa
 - Player name: Tua Tagovailoa
 - Player ID: 6768
@@ -2003,6 +2003,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYJ
 - Championship AVI (C-AVI, 0-100): 43.5
 - Dynasty AVI (D-AVI, 0-100): 59.4
+- Availability: available
+
+## AVAILABLE PLAYER: Troy Franklin
+- Player name: Troy Franklin
+- Player ID: 11627
+- Position: WR
+- NFL team: DEN
+- Championship AVI (C-AVI, 0-100): 42.4
+- Dynasty AVI (D-AVI, 0-100): 66.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Darnell Washington
@@ -3038,15 +3047,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CHI
 - Championship AVI (C-AVI, 0-100): 17.4
 - Dynasty AVI (D-AVI, 0-100): 24.5
-- Availability: available
-
-## AVAILABLE PLAYER: Odell Beckham
-- Player name: Odell Beckham
-- Player ID: 2078
-- Position: WR
-- NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 17.2
-- Dynasty AVI (D-AVI, 0-100): 44.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Jackson Hawes

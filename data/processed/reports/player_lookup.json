@@ -87,6 +87,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011627",
+      "c_avi": 42.4,
+      "d_avi": 66.7,
+      "nfl_team": "DEN",
+      "player_name": "Troy Franklin",
+      "position": "WR",
+      "sleeper_id": "11627",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00009479",
       "c_avi": 42.1,
       "d_avi": 56.7,
@@ -1462,18 +1474,6 @@
       "player_name": "Jahdae Walker",
       "position": "WR",
       "sleeper_id": "13079",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00002078",
-      "c_avi": 17.2,
-      "d_avi": 44.7,
-      "nfl_team": "NYG",
-      "player_name": "Odell Beckham",
-      "position": "WR",
-      "sleeper_id": "2078",
       "status": "Active"
     },
     {
@@ -5333,6 +5333,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00002078",
+      "c_avi": 17.2,
+      "d_avi": 44.7,
+      "nfl_team": "NYG",
+      "owner_id": "872509429436829696",
+      "player_name": "Odell Beckham",
+      "position": "WR",
+      "roster_id": 6,
+      "sleeper_id": "2078",
+      "status": "Active",
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00013276",
       "c_avi": 44.8,
       "d_avi": 75.9,
@@ -5985,22 +6001,6 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011627",
-      "c_avi": 42.4,
-      "d_avi": 66.7,
-      "nfl_team": "DEN",
-      "owner_id": "872509429436829696",
-      "player_name": "Troy Franklin",
-      "position": "WR",
-      "roster_id": 6,
-      "sleeper_id": "11627",
-      "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
