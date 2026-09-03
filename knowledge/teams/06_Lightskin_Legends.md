@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: MadDawgMatt
 - Owner ID: 872509429436829696
 - Division: 2
-- Waiver position: 12
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-09-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 591.7
 - championship_lineup_c_avi_avg: 73.96
-- offensive_roster_c_avi_sum: 876.0
-- offensive_roster_c_avi_avg: 58.40
-- offensive_roster_d_avi_sum: 1085.7
-- offensive_roster_d_avi_avg: 72.38
+- offensive_roster_c_avi_sum: 850.8
+- offensive_roster_c_avi_avg: 56.72
+- offensive_roster_d_avi_sum: 1063.7
+- offensive_roster_d_avi_avg: 70.91
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -178,23 +178,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Troy Franklin
-- Player name: Troy Franklin
-- Player ID: 11627
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 42.4
-- Dynasty AVI (D-AVI, 0-100): 66.7
-- Projected PPR points: 100.3
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Xavier Legette
 - Player name: Xavier Legette
 - Player ID: 11626
@@ -260,6 +243,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 33.2
 - Dynasty AVI (D-AVI, 0-100): 47.7
 - Projected PPR points: 92.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Odell Beckham
+- Player name: Odell Beckham
+- Player ID: 2078
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 17.2
+- Dynasty AVI (D-AVI, 0-100): 44.7
+- Projected PPR points: 24.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

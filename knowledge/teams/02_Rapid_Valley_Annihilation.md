@@ -341,7 +341,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: LAC
 - Active: True
 - Status: Active
-- Age: 23.0
+- Age: 24.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

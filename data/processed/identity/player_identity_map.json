@@ -549,6 +549,15 @@
     "sleeper_id": "4454"
   },
   {
+    "confidence": "review",
+    "fantasypros_id": "17115",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
+    "player_name": "Taysom Hill",
+    "position": "TE",
+    "sleeper_id": "4381"
+  },
+  {
     "confidence": "verified",
     "fantasypros_id": "17233",
     "match_method": "exact_name_position_unique",
@@ -2491,15 +2500,6 @@
     "player_name": "Adam Randall",
     "position": "RB",
     "sleeper_id": "13302"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "24369",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Jabari Small",
-    "position": "RB",
-    "sleeper_id": "12356"
   },
   {
     "confidence": "verified",
