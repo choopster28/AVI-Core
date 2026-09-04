@@ -335,10 +335,10 @@
       "stats": {
         "fg": 25.79,
         "fga": 30.88,
-        "points": 119.97,
-        "points_half": 119.97,
-        "points_ppr": 119.97,
-        "xpt": 42.59
+        "points": 119.47,
+        "points_half": 119.47,
+        "points_ppr": 119.47,
+        "xpt": 42.09
       },
       "team_id": "NE"
     },
@@ -366,7 +366,7 @@
       "position_id": "K",
       "stats": {
         "fg": 28.12,
-        "fga": 32.37,
+        "fga": 32.03,
         "points": 118.29,
         "points_half": 118.29,
         "points_ppr": 118.29,
@@ -398,7 +398,7 @@
       "position_id": "K",
       "stats": {
         "fg": 27.85,
-        "fga": 31.74,
+        "fga": 32.07,
         "points": 114.31,
         "points_half": 114.31,
         "points_ppr": 114.31,

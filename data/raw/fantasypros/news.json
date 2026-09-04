@@ -9,6 +9,24 @@
         "News",
         "Injury"
       ],
+      "created": "2026-09-04 12:44:33",
+      "created_formated": "Fri, Sep 4th 12:44pm UTC",
+      "desc": "Sam Okuayinonu (foot) is out against the LA Rams in the 49ers 2026 season opener.",
+      "id": 605899,
+      "impact": "Okuayinonu didn't make the flight with the team down to Melbourne, but they left the door open for him to come down later. He will now try to get himself healthy and ready for Week 2.",
+      "link": "https://www.fantasypros.com/nfl/news/605899/sam-okuayinonu-foot-out-against-la-rams.php",
+      "player_id": 24587,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Sam Okuayinonu (foot) out against LA Rams"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
       "created": "2026-09-03 22:14:09",
       "created_formated": "Thu, Sep 3rd 10:14pm UTC",
       "desc": "Devin Neal has been waived by the New Orleans Saints after reaching an injury settlement. ",
@@ -416,23 +434,6 @@
       "sport_id": "NFL",
       "team_id": "FA",
       "title": "Devonte Ross released by Chargers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:30:58",
-      "created_formated": "Thu, Sep 3rd 3:30pm UTC",
-      "desc": "The Chargers released Jahmeer Carter.  ",
-      "id": 605756,
-      "impact": "Carter will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605756/jahmeer-carter-released-by-chargers.php",
-      "player_id": 28537,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jahmeer Carter released by Chargers "
     }
   ],
   "public_api_limited": true,
