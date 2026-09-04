@@ -3,6 +3,131 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-03 22:14:09",
+      "created_formated": "Thu, Sep 3rd 10:14pm UTC",
+      "desc": "Devin Neal has been waived by the New Orleans Saints after reaching an injury settlement. ",
+      "id": 605835,
+      "impact": "Neal was originally placed on IR, but it seems the team has found a way to settle things and enact his release. He could find a new team, but cannot sign with the Saints again until at least three weeks from now.",
+      "link": "https://www.fantasypros.com/nfl/news/605835/devin-neal-waived-by-saints.php",
+      "player_id": 23682,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Devin Neal waived by Saints"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-03 21:51:23",
+      "created_formated": "Thu, Sep 3rd 9:51pm UTC",
+      "desc": "Rome Odunze left Thursday's practice early with an apparent injury. ",
+      "id": 605833,
+      "impact": "Hammond notes that Odunze came up hobbling during an install period at the start of practice. He tried to return to practice, but trainers wouldn't let him. This will remain something to monitor into next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php",
+      "player_id": 25411,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Rome Odunze leaves practice early Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-03 21:50:02",
+      "created_formated": "Thu, Sep 3rd 9:50pm UTC",
+      "desc": "D'Andre Swift left Thursday's practice early with an apparent injury. ",
+      "id": 605832,
+      "impact": "Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/605832/dandre-swift-exits-practice-early-thursday.php",
+      "player_id": 19210,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "D'Andre Swift exits practice early Thursday "
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-03 21:44:22",
+      "created_formated": "Thu, Sep 3rd 9:44pm UTC",
+      "desc": "Will Levis worked out for the Jets on Thursday. ",
+      "id": 605831,
+      "impact": "Levis was cut loose by the Titans this past weekend and subsequently cleared waivers. The second-round pick from 2023 spent all of last season on the IL after starting 21 games for the Titans over the previous two campaigns. Levis is looking to catch on with the Jets or another team, most likely as a third QB. ",
+      "link": "https://www.fantasypros.com/nfl/news/605831/will-levis-works-out-jets.php",
+      "player_id": 22987,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Will Levis works out for Jets"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-03 20:17:19",
+      "created_formated": "Thu, Sep 3rd 8:17pm UTC",
+      "desc": "TreVeyon Henderson was not present for the media-access portion of practice on Thursday. ",
+      "id": 605824,
+      "impact": "Henderson has not practiced since August 24 when he sustained the injury. His status is up in the air for the season opener next Wednesday. ",
+      "link": "https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php",
+      "player_id": 23065,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "TreVeyon Henderson (ankle) still not practicing Thursday "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-03 20:12:18",
+      "created_formated": "Thu, Sep 3rd 8:12pm UTC",
+      "desc": "Alec Pierce (ankle) practiced in full for the first time this year after a lengthy time off the field while recovering from ankle injuries.",
+      "id": 605823,
+      "impact": "Pierce was limited in practice earlier this week, and this is the next big step for the newly anointed WR1 for the Colts on the road to full recovery and return to play. He will operate as the Colts primary deep threat this season when on the field, opening things up for Josh Downs and Tyler Warren over the middle and short areas.",
+      "link": "https://www.fantasypros.com/nfl/news/605823/alec-pierce-ankle-practices-full-on-thursday.php",
+      "player_id": 23791,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Alec Pierce (ankle) practices in full on Thursday "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-09-03 16:53:44",
+      "created_formated": "Thu, Sep 3rd 4:53pm UTC",
+      "desc": "Michael Wilson has agreed to a three year, $75 million deal with the Arizona Cardinals.",
+      "id": 605781,
+      "impact": "Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.",
+      "link": "https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php",
+      "player_id": 25333,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Michael Wilson agrees to three year, $75 million deal with Cardinals "
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -308,127 +433,6 @@
       "sport_id": "NFL",
       "team_id": "FA",
       "title": "Jahmeer Carter released by Chargers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:29:50",
-      "created_formated": "Thu, Sep 3rd 3:29pm UTC",
-      "desc": "The Chargers signed Theo Wease Jr. to their practice squad. ",
-      "id": 605755,
-      "impact": "Wease will hold a depth role heading into the season for the Chargers. ",
-      "link": "https://www.fantasypros.com/nfl/news/605755/theo-wease-jr-signs-with-chargers.php",
-      "player_id": 27222,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Theo Wease Jr. signs with Chargers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:29:08",
-      "created_formated": "Thu, Sep 3rd 3:29pm UTC",
-      "desc": "The Chargers signed Jordan Jefferson to their practice squad.  ",
-      "id": 605754,
-      "impact": "Jefferson will hold a depth role heading into the season for the Chargers. ",
-      "link": "https://www.fantasypros.com/nfl/news/605754/jordan-jefferson-signs-with-chargers.php",
-      "player_id": 26344,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Jordan Jefferson signs with Chargers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:28:23",
-      "created_formated": "Thu, Sep 3rd 3:28pm UTC",
-      "desc": "The Chargers signed Kaiir Elam to their practice squad. ",
-      "id": 605753,
-      "impact": "Elam will hold a depth role heading into the season for the Chargers. ",
-      "link": "https://www.fantasypros.com/nfl/news/605753/kaiir-elam-signs-with-chargers.php",
-      "player_id": 23478,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Kaiir Elam signs with Chargers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-03 15:27:04",
-      "created_formated": "Thu, Sep 3rd 3:27pm UTC",
-      "desc": "The Panthers waived cornerback Tyrek Funderburk off IR. ",
-      "id": 605751,
-      "impact": "Funderburk will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605751/tyrek-funderburk-waived-by-panthers.php",
-      "player_id": 26614,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Tyrek Funderburk waived by Panthers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:26:00",
-      "created_formated": "Thu, Sep 3rd 3:26pm UTC",
-      "desc": "The Cardinals signed DB D'Shawn Jamison to their practice squad. ",
-      "id": 605750,
-      "impact": "Jamison has played in 18 career games for the Panthers and Steelers. He will add depth in the secondary for Arizona. ",
-      "link": "https://www.fantasypros.com/nfl/news/605750/dshawn-jamison-signs-with-cardinals-practice-squad.php",
-      "player_id": 25629,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "D'Shawn Jamison signs with Cardinals practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 04:10:07",
-      "created_formated": "Thu, Sep 3rd 4:10am UTC",
-      "desc": "The Cowboys signed QB Joe Milton to their practice squad.",
-      "id": 605698,
-      "impact": "Milton cleared waivers after he was let go by Dallas. He will return to a depth role in its quarterback room. ",
-      "link": "https://www.fantasypros.com/nfl/news/605698/joe-milton-iii-returns-to-cowboys-on-practice-squad.php",
-      "player_id": 25967,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Joe Milton III returns to Cowboys on practice squad "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-02 21:00:26",
-      "created_formated": "Wed, Sep 2nd 9:00pm UTC",
-      "desc": "Jakobi Meyers (hand) got in a limited practice session on Wednesday. ",
-      "id": 605658,
-      "impact": "Meyers is \"all good,\" according to head coach Liam Coen. The veteran receiver has been practicing in a limited capacity this week and is not a concern for Week 1. ",
-      "link": "https://www.fantasypros.com/nfl/news/605658/jakobi-meyers-hand-gets-limited-practice-wednesday.php",
-      "player_id": 18598,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Jakobi Meyers (hand) gets in limited practice Wednesday"
     }
   ],
   "public_api_limited": true,

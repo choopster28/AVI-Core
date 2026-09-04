@@ -1,5 +1,5 @@
 {
-  "count": "119",
+  "count": "120",
   "experts": [
     71,
     11,
@@ -2779,6 +2779,34 @@
       "team_id": "SF"
     },
     {
+      "filename": "andrew-beck.php",
+      "fpid": 18748,
+      "mflid": 14319,
+      "name": "Andrew Beck",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.01,
+        "points": 10.25,
+        "points_half": 12.55,
+        "points_ppr": 14.85,
+        "rec_rec": 4.61,
+        "rec_tds": 1.12,
+        "rec_yds": 31.77,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0.5,
+        "rush_tds": 0,
+        "rush_yds": 4,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "NYJ"
+    },
+    {
       "filename": "devin-singletary.php",
       "fpid": 18280,
       "mflid": 14080,
@@ -3196,7 +3224,7 @@
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "NO"
+      "team_id": "FA"
     },
     {
       "filename": "tyler-badie.php",

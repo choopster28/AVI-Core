@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-09-03
+- Last updated from Sleeper exports: 2026-09-04
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 749.9
 - championship_lineup_c_avi_avg: 93.74
-- offensive_roster_c_avi_sum: 1091.1
-- offensive_roster_c_avi_avg: 68.19
-- offensive_roster_d_avi_sum: 1214.3
-- offensive_roster_d_avi_avg: 75.89
+- offensive_roster_c_avi_sum: 1113.5
+- offensive_roster_c_avi_avg: 65.50
+- offensive_roster_d_avi_sum: 1254.7
+- offensive_roster_d_avi_avg: 73.81
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -161,22 +161,22 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Jacob Saylors
-- Player name: Jacob Saylors
-- Player ID: 11237
+### PLAYER: Roschon Johnson
+- Player name: Roschon Johnson
+- Player ID: 10235
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: DET
+- NFL team: CHI
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
+- Championship AVI (C-AVI, 0-100): 22.4
+- Dynasty AVI (D-AVI, 0-100): 40.4
+- Projected PPR points: 34.4
 - Category: offense
-- Valuation status: NOT_IN_AVI_OUTPUT
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Puka Nacua
 - Player name: Puka Nacua
