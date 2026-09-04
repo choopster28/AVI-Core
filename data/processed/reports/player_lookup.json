@@ -819,6 +819,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013420",
+      "c_avi": 25.3,
+      "d_avi": 55.6,
+      "nfl_team": "NO",
+      "player_name": "Bryce Lance",
+      "position": "WR",
+      "sleeper_id": "13420",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00002306",
       "c_avi": 25.1,
       "d_avi": 45.0,
@@ -2354,8 +2366,8 @@
     }
   ],
   "counts": {
-    "available_players": 196,
-    "rostered_players": 243
+    "available_players": 197,
+    "rostered_players": 242
   },
   "rostered_players": [
     {
@@ -2757,22 +2769,6 @@
       "status": "Active",
       "team_file": "08_All_Hail_King_Jesus.md",
       "team_name": "All Hail King Jesus"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013420",
-      "c_avi": 25.3,
-      "d_avi": 55.6,
-      "nfl_team": "NO",
-      "owner_id": "737531831641128960",
-      "player_name": "Bryce Lance",
-      "position": "WR",
-      "roster_id": 7,
-      "sleeper_id": "13420",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
     },
     {
       "active": true,

@@ -64785,7 +64785,7 @@
     "first_name": "Bralen",
     "full_name": "Bralen Trice",
     "gsis_id": null,
-    "hashtag": "#bralentrice-NFL-FA-48",
+    "hashtag": "#bralentrice-NFL-ATL-48",
     "height": "76",
     "high_school": "Sandra Day O'Connor (AZ)",
     "injury_body_part": null,
@@ -64820,7 +64820,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 1162131,
-    "team": null,
+    "team": "ATL",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "274",
@@ -68926,7 +68926,7 @@
       "genius_id": "1464147",
       "rookie_year": "2024"
     },
-    "news_updated": 1788397836167,
+    "news_updated": 1788555022398,
     "number": 19,
     "oddsjam_id": "4FCB3E29DC30",
     "opta_id": null,
@@ -118377,7 +118377,7 @@
       "rookie_year": "2025",
       "source_id": "a824f56b-2134-4034-beba-c066d62cb700"
     },
-    "news_updated": 1787544636127,
+    "news_updated": 1788554422621,
     "number": 1,
     "oddsjam_id": "27E0F43D907A37B9",
     "opta_id": null,
@@ -173760,7 +173760,7 @@
       "rookie_year": "2026",
       "source_id": "c50267b0-8e80-11ec-8d02-85ead82574a9"
     },
-    "news_updated": 1787977241862,
+    "news_updated": 1788553222891,
     "number": 12,
     "oddsjam_id": null,
     "opta_id": null,
@@ -178391,7 +178391,7 @@
       "rookie_year": "2026",
       "source_id": "5006311b-02c5-4c70-8126-fe099ed5d977"
     },
-    "news_updated": 1787937927311,
+    "news_updated": 1788554722587,
     "number": 26,
     "oddsjam_id": null,
     "opta_id": null,
@@ -400339,7 +400339,7 @@
       "genius_id": "999821",
       "rookie_year": "2017"
     },
-    "news_updated": 1787967340644,
+    "news_updated": 1788553822783,
     "number": 34,
     "oddsjam_id": "192F6515EE16",
     "opta_id": null,
@@ -454897,7 +454897,7 @@
       "genius_id": "1007075",
       "rookie_year": "2018"
     },
-    "news_updated": 1788457806247,
+    "news_updated": 1788557123261,
     "number": 17,
     "oddsjam_id": "A13BA3AB33EE",
     "opta_id": null,
@@ -456868,7 +456868,7 @@
       "genius_id": "1013950",
       "rookie_year": "2018"
     },
-    "news_updated": 1788448806521,
+    "news_updated": 1788552322233,
     "number": 89,
     "oddsjam_id": "233348EDE4B7",
     "opta_id": null,
@@ -512422,7 +512422,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1788449705352,
+    "news_updated": 1788555922560,
     "number": 1,
     "oddsjam_id": "828EC99117A1",
     "opta_id": null,
@@ -519635,7 +519635,7 @@
       "genius_id": "1005525",
       "rookie_year": "2019"
     },
-    "news_updated": 1788462008011,
+    "news_updated": 1788554122408,
     "number": 20,
     "oddsjam_id": "792747EDCE23",
     "opta_id": null,
@@ -572466,7 +572466,7 @@
       "genius_id": "1012460",
       "rookie_year": "2020"
     },
-    "news_updated": 1787925325728,
+    "news_updated": 1788553522366,
     "number": 10,
     "oddsjam_id": "8959F596AE5D",
     "opta_id": null,
@@ -579699,7 +579699,7 @@
       "genius_id": "1014921",
       "rookie_year": "2020"
     },
-    "news_updated": 1788450305367,
+    "news_updated": 1788557122735,
     "number": 1,
     "oddsjam_id": "E3F53FF48C95",
     "opta_id": null,
@@ -620680,7 +620680,7 @@
       "genius_id": "1014929",
       "rookie_year": "2021"
     },
-    "news_updated": 1788492916741,
+    "news_updated": 1788554423238,
     "number": 6,
     "oddsjam_id": "202FEEE3D21E",
     "opta_id": null,
@@ -715870,7 +715870,7 @@
       "genius_id": "1399020",
       "rookie_year": "2023"
     },
-    "news_updated": 1788450306404,
+    "news_updated": 1788553222506,
     "number": 8,
     "oddsjam_id": "89BECF1D28D6",
     "opta_id": null,
@@ -719595,7 +719595,7 @@
       "genius_id": "1399247",
       "rookie_year": "2023"
     },
-    "news_updated": 1788444340887,
+    "news_updated": 1788556522644,
     "number": 14,
     "oddsjam_id": "86B6983F9C7F",
     "opta_id": null,
@@ -721778,7 +721778,7 @@
       "genius_id": "1398594",
       "rookie_year": "2023"
     },
-    "news_updated": 1787924760376,
+    "news_updated": 1788553522367,
     "number": 1,
     "oddsjam_id": "4756EE52951F",
     "opta_id": null,

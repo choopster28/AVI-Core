@@ -204,14 +204,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
 
-## PLAYER LOOKUP: Bryce Lance
-- Player name: Bryce Lance
-- Player ID: 13420
-- Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Bryce Young
 - Player name: Bryce Young
 - Player ID: 9228
@@ -2560,6 +2552,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: DAL
 - Championship AVI (C-AVI, 0-100): 25.4
 - Dynasty AVI (D-AVI, 0-100): 43.5
+- Availability: available
+
+## AVAILABLE PLAYER: Bryce Lance
+- Player name: Bryce Lance
+- Player ID: 13420
+- Position: WR
+- NFL team: NO
+- Championship AVI (C-AVI, 0-100): 25.3
+- Dynasty AVI (D-AVI, 0-100): 55.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Jameis Winston
