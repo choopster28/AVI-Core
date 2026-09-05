@@ -685,6 +685,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "17508",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BAL",
+    "player_name": "Durham Smythe",
+    "position": "TE",
+    "sleeper_id": "5008"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "17527",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NO",
@@ -883,6 +892,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "18590",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DEN",
+    "player_name": "Lil'Jordan Humphrey",
+    "position": "WR",
+    "sleeper_id": "5938"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "18598",
     "match_method": "exact_name_position_unique",
     "nfl_team": "JAC",
@@ -970,6 +988,15 @@
     "player_name": "Joey Slye",
     "position": "K",
     "sleeper_id": "6528"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "19052",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Tom Kennedy",
+    "position": "WR",
+    "sleeper_id": "6588"
   },
   {
     "confidence": "verified",
@@ -3466,6 +3493,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "26748",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "HOU",
+    "player_name": "British Brooks",
+    "position": "RB",
+    "sleeper_id": "12171"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "26763",
     "match_method": "exact_name_position_unique",
     "nfl_team": "IND",
@@ -3931,6 +3967,15 @@
     "player_name": "Tyler Loop",
     "position": "K",
     "sleeper_id": "12711"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "27781",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "SEA",
+    "player_name": "Jacardia Wright",
+    "position": "RB",
+    "sleeper_id": "13047"
   },
   {
     "confidence": "review",

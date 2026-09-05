@@ -1,7 +1,59 @@
 {
-  "count": 24,
+  "count": 23,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-05 23:46:02",
+      "created_formated": "Sat, Sep 5th 11:46pm UTC",
+      "desc": "Jon Weeks has been promoted to the Niners active roster. In a corresponding move, Brayden Willis has been released.",
+      "id": 606052,
+      "impact": "Weeks will provide some special teams depth and the exit of Willis implies the return of George Kittle.",
+      "link": "https://www.fantasypros.com/nfl/news/606052/jon-weeks-promoted-to-niners-active-roster.php",
+      "player_id": 15188,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Jon Weeks promoted to Niners active roster "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-05 23:34:02",
+      "created_formated": "Sat, Sep 5th 11:34pm UTC",
+      "desc": "Brayden Willis has been waived by the 49ers. In a corresponding move, they promoted long snapper Jon Weeks to the active roster.",
+      "id": 606051,
+      "impact": "Willis' waiving likely signals the return of George Kittle, with Weeks providing some special teams depth. Willis is likely to be irrelevant for fantasy this season.",
+      "link": "https://www.fantasypros.com/nfl/news/606051/brayden-willis-waived-by-niners.php",
+      "player_id": 25469,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Brayden Willis waived by Niners"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-05 19:12:19",
+      "created_formated": "Sat, Sep 5th 7:12pm UTC",
+      "desc": "TreVeyon Henderson (ankle) was not practicing Saturday. ",
+      "id": 606042,
+      "impact": "Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.",
+      "link": "https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php",
+      "player_id": 23065,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "TreVeyon Henderson (ankle) not practicing Saturday"
+    },
     {
       "author": "Jordan Epp",
       "categories": [
@@ -313,24 +365,6 @@
       "title": "Will Levis works out for Jets"
     },
     {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-03 20:17:19",
-      "created_formated": "Thu, Sep 3rd 8:17pm UTC",
-      "desc": "TreVeyon Henderson was not present for the media-access portion of practice on Thursday. ",
-      "id": 605824,
-      "impact": "Henderson has not practiced since August 24 when he sustained the injury. His status is up in the air for the season opener next Wednesday. ",
-      "link": "https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php",
-      "player_id": 23065,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "TreVeyon Henderson (ankle) still not practicing Thursday "
-    },
-    {
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
@@ -365,57 +399,6 @@
       "sport_id": "NFL",
       "team_id": "ARI",
       "title": "Michael Wilson agrees to three year, $75 million deal with Cardinals "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:46:06",
-      "created_formated": "Thu, Sep 3rd 3:46pm UTC",
-      "desc": "The Falcons released Cobee Bryant.",
-      "id": 605774,
-      "impact": "Bryant will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605774/cobee-bryant-released-by-falcons.php",
-      "player_id": 27087,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Cobee Bryant released by Falcons "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:45:34",
-      "created_formated": "Thu, Sep 3rd 3:45pm UTC",
-      "desc": "The Falcons released Cameron Sample. ",
-      "id": 605773,
-      "impact": "Sample will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605773/cameron-sample-released-by-falcons.php",
-      "player_id": 22810,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Cameron Sample released by Falcons "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:44:46",
-      "created_formated": "Thu, Sep 3rd 3:44pm UTC",
-      "desc": "The Falcons signed Jammie Robinson to their practice squad. ",
-      "id": 605772,
-      "impact": "Robinson will add depth for Atlanta heading into the season on its practice squad. ",
-      "link": "https://www.fantasypros.com/nfl/news/605772/jammie-robinson-signs-with-falcons.php",
-      "player_id": 24753,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Jammie Robinson signs with Falcons "
     }
   ],
   "public_api_limited": true,
