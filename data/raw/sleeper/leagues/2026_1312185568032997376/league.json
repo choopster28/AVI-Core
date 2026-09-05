@@ -24,7 +24,8 @@
     "division_2": "Megatron Conf. Star Scream",
     "division_3": "Optimus Conf. Cliff Jumper",
     "division_4": "Megatron Conf. Soundwave",
-    "keeper_deadline": "0"
+    "keeper_deadline": "0",
+    "latest_league_winner_roster_id": "10"
   },
   "name": "Autobots",
   "previous_league_id": "1180085325538877440",
