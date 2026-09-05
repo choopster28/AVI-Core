@@ -371,7 +371,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: LB
-- Fantasy positions: ['LB']
+- Fantasy positions: ['DL', 'LB']
 - NFL team: NYG
 - Active: True
 - Status: Active

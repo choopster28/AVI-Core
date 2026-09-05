@@ -3,6 +3,91 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-05 04:26:34",
+      "created_formated": "Sat, Sep 5th 4:26am UTC",
+      "desc": "Green Bay Packers running back Josh Jacobs had his initial court appearance moved up to Sept. 10 from Nov. 17 regarding Jacobs' misdemeanor charges.",
+      "id": 605957,
+      "impact": "Jacobs was charged with battery and criminal destruction of property and is scheduled to appear at the Brown County courthouse on Sept. 10, multiple days before Green Bay's season opener against Minnesota. It is unclear how this will affect his return timeline; Jacobs is currently on the commissioner's exempt list, with a potential suspension looming.",
+      "link": "https://www.fantasypros.com/nfl/news/605957/josh-jacobs-has-court-appearance-date-moved-up.php",
+      "player_id": 18269,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Josh Jacobs has court appearance date moved up"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-05 04:17:53",
+      "created_formated": "Sat, Sep 5th 4:17am UTC",
+      "desc": "Running back J.K. Dobbins will \"for sure\" be the Denver Broncos' lead back this season, with three players set to have roles in the backfield, according to Zac Stevens of DNVR Sports.",
+      "id": 605956,
+      "impact": "Dobbins was very successful in 2025 when he was healthy, averaging 5.0 yards per carry and rushing for 772 yards in 10 games. RJ Harvey and rookie Jonah Coleman will have roles, a regular trait for head coach Sean Payton's offenses. Due to injury risk and a congested backfield, Dobbins has a deflated ADP price as the half-PPR RB34, according to FantasyPros.",
+      "link": "https://www.fantasypros.com/nfl/news/605956/jk-dobbins-will-maintain-denvers-rb1-role-2026.php",
+      "player_id": 19245,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "J.K. Dobbins will maintain Denver's RB1 role in 2026"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-05 04:07:54",
+      "created_formated": "Sat, Sep 5th 4:07am UTC",
+      "desc": "The Jacksonville Jaguars are \"not going to stop talking\" to wide receiver Parker Washington as both sides iron out a potential contract extension, says general manager James Gladstone.",
+      "id": 605955,
+      "impact": "Gladstone said the team would not hesitate to carry contract discussions into the regular season as they aim to finalize a deal with their breakout wideout. Washington had 58 receptions for 847 yards and five touchdowns last season and carries an expert consensus ranking of WR29, according to FantasPros, into his fourth NFL season.",
+      "link": "https://www.fantasypros.com/nfl/news/605955/parker-washington-jaguars-remain-contract-talks.php",
+      "player_id": 23106,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Parker Washington, Jaguars remain in contract talks"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-05 03:59:13",
+      "created_formated": "Sat, Sep 5th 3:59am UTC",
+      "desc": "New England Patriots cornerback Christian Gonzalez and the team \"remain apart on several key elements\" amid extension discussions ahead of the season opener.",
+      "id": 605954,
+      "impact": "Gonzalez was noncommittal on his status for Week 1 amid contract disputes, which could put pressure on the Patriots to finish the deal. Some groundwork has been laid, and Gonzalez is expected to become the league's highest-paid cornerback, but finer details of the contract structure need to be finalized.",
+      "link": "https://www.fantasypros.com/nfl/news/605954/christian-gonzalez-patriots-remain-apart-on-contract.php",
+      "player_id": 25238,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Christian Gonzalez, Patriots 'remain apart' on contract"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-05 03:35:08",
+      "created_formated": "Sat, Sep 5th 3:35am UTC",
+      "desc": "The Atlanta Falcons could name their starting quarterback, between Tua Tagovailoa and Michael Penix Jr., as early as Monday, Sept. 7, ahead of Week 1.",
+      "id": 605953,
+      "impact": "Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a \"short leash\" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.",
+      "link": "https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php",
+      "player_id": 19198,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Tua Tagovailoa: Falcons could name starting QB soon"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -331,92 +416,6 @@
       "sport_id": "NFL",
       "team_id": "ATL",
       "title": "Jammie Robinson signs with Falcons "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:44:09",
-      "created_formated": "Thu, Sep 3rd 3:44pm UTC",
-      "desc": "The Falcons signed Khalid Kareem to their practice squad. ",
-      "id": 605771,
-      "impact": "Kareem will add depth for Atlanta heading into the season on its practice squad. ",
-      "link": "https://www.fantasypros.com/nfl/news/605771/khalid-kareem-signs-with-falcons.php",
-      "player_id": 19326,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Khalid Kareem signs with Falcons "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:44:02",
-      "created_formated": "Thu, Sep 3rd 3:44pm UTC",
-      "desc": "Anthony Richardson Sr. will be the Colts' No. 2 quarterback going into the season. ",
-      "id": 605770,
-      "impact": "There have been multiple rumors that Richardson might be traded at some point. Some reports have suggested that he may lose out to Riley Leonard for the Colts' backup QB role. Head coach Shane Steichen has put all that to rest, at least for now, making clear Tuesday that Richardson is indeed the top backup to starter Daniel Jones. ",
-      "link": "https://www.fantasypros.com/nfl/news/605770/anthony-richardson-sr-will-be-backup-qb-colts.php",
-      "player_id": 24347,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Anthony Richardson Sr. will be backup QB for Colts"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:43:10",
-      "created_formated": "Thu, Sep 3rd 3:43pm UTC",
-      "desc": "The Falcons signed Zach Harrison to their practice squad. ",
-      "id": 605769,
-      "impact": "Harrison was previously waived by Atlanta. He returns on its practice squad. ",
-      "link": "https://www.fantasypros.com/nfl/news/605769/zach-harrison-signs-with-falcons-practice-squad.php",
-      "player_id": 23485,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Zach Harrison signs with Falcons practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:42:05",
-      "created_formated": "Thu, Sep 3rd 3:42pm UTC",
-      "desc": "The Vikings signed RB DeeJay Dallas to their practice squad. ",
-      "id": 605768,
-      "impact": "Dallas will add depth in the backfield for Minnesota. ",
-      "link": "https://www.fantasypros.com/nfl/news/605768/deejay-dallas-signs-with-vikings.php",
-      "player_id": 19521,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "DeeJay Dallas signs with Vikings"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-03 15:40:35",
-      "created_formated": "Thu, Sep 3rd 3:40pm UTC",
-      "desc": "Shemar Stewart was back at practice on Wednesday. ",
-      "id": 605767,
-      "impact": "It was Stewart's first practice since hyperextending his left knee on the first practice of training camp July 29.",
-      "link": "https://www.fantasypros.com/nfl/news/605767/shemar-stewart-knee-returns-to-practice.php",
-      "player_id": 27054,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Shemar Stewart (knee) returns to practice "
     }
   ],
   "public_api_limited": true,

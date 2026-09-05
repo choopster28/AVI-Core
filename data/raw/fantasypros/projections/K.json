@@ -71,22 +71,6 @@
       "team_id": "LAC"
     },
     {
-      "filename": "harrison-mevis.php",
-      "fpid": 26638,
-      "mflid": 16843,
-      "name": "Harrison Mevis",
-      "position_id": "K",
-      "stats": {
-        "fg": 27.32,
-        "fga": 30.15,
-        "points": 136.83,
-        "points_half": 136.83,
-        "points_ppr": 136.83,
-        "xpt": 54.88
-      },
-      "team_id": "LAR"
-    },
-    {
       "filename": "jake-bates.php",
       "fpid": 26075,
       "mflid": 16846,
@@ -101,6 +85,22 @@
         "xpt": 51.16
       },
       "team_id": "DET"
+    },
+    {
+      "filename": "harrison-mevis.php",
+      "fpid": 26638,
+      "mflid": 16843,
+      "name": "Harrison Mevis",
+      "position_id": "K",
+      "stats": {
+        "fg": 26.98,
+        "fga": 30.15,
+        "points": 135.33,
+        "points_half": 135.33,
+        "points_ppr": 135.33,
+        "xpt": 54.38
+      },
+      "team_id": "LAR"
     },
     {
       "filename": "spencer-shrader.php",
@@ -159,10 +159,10 @@
       "stats": {
         "fg": 31.04,
         "fga": 34.69,
-        "points": 132.08,
-        "points_half": 132.08,
-        "points_ppr": 132.08,
-        "xpt": 38.96
+        "points": 132.58,
+        "points_half": 132.58,
+        "points_ppr": 132.58,
+        "xpt": 39.46
       },
       "team_id": "SF"
     },

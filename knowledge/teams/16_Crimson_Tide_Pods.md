@@ -303,7 +303,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
 - Position: DL
-- Fantasy positions: ['DL']
+- Fantasy positions: ['DL', 'LB']
 - NFL team: TB
 - Active: True
 - Status: Active
