@@ -2479,10 +2479,10 @@
     "hashtag": "#braydenwillis-NFL-SF-9",
     "height": "76",
     "high_school": "Martin (TX)",
-    "injury_body_part": "Concussion",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "a6acffe0-8382-493a-9d22-afec442d3ed2",
     "last_name": "Willis",
     "metadata": {
@@ -2490,7 +2490,7 @@
       "genius_id": "1076577",
       "rookie_year": "2023"
     },
-    "news_updated": 1788305423799,
+    "news_updated": 1788643824874,
     "number": 9,
     "oddsjam_id": "64A3B77504FA",
     "opta_id": null,
@@ -109536,7 +109536,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "a71a75ca-4848-4da2-9c11-b82a2d41f4ea",
     "last_name": "Dyson",
     "metadata": {
@@ -109544,7 +109544,7 @@
       "genius_id": "1482875",
       "rookie_year": "2024"
     },
-    "news_updated": 1788233418169,
+    "news_updated": 1788645025327,
     "number": 55,
     "oddsjam_id": "62F3FFDA1DE7",
     "opta_id": null,
@@ -114687,7 +114687,7 @@
       "rookie_year": "2025",
       "source_id": "85e2aed0-863f-11ec-8b4f-bfdcdbacd7ed"
     },
-    "news_updated": 1788442540984,
+    "news_updated": 1788646524910,
     "number": 22,
     "oddsjam_id": "636C1E9B510528E0",
     "opta_id": null,
@@ -115669,7 +115669,7 @@
       "rookie_year": "2025",
       "source_id": "3e3ccfa6-6ba3-46dc-9037-4f4a5e57a653"
     },
-    "news_updated": 1787958640119,
+    "news_updated": 1788646825009,
     "number": 18,
     "oddsjam_id": "28E51B711FEA06A0",
     "opta_id": null,
@@ -116657,7 +116657,7 @@
       "rookie_year": "2025",
       "source_id": "c35e2100-8e95-11ec-8d02-85ead82574a9"
     },
-    "news_updated": 1788536721507,
+    "news_updated": 1788643524594,
     "number": 85,
     "oddsjam_id": "00272A26D033CD8C",
     "opta_id": null,
@@ -120084,7 +120084,7 @@
     "first_name": "Lenny",
     "full_name": "Lenny Krieg",
     "gsis_id": null,
-    "hashtag": "#lennykrieg-NFL-GB-18",
+    "hashtag": "#lennykrieg-NFL-GB-38",
     "height": "73",
     "high_school": null,
     "injury_body_part": null,
@@ -120099,7 +120099,7 @@
       "rookie_year": "2022"
     },
     "news_updated": 1788394834997,
-    "number": 18,
+    "number": 38,
     "oddsjam_id": null,
     "opta_id": null,
     "pandascore_id": null,
@@ -133576,7 +133576,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "8ba61897-da90-484d-8518-e0b73e223b68",
     "last_name": "Echols",
     "metadata": {
@@ -133584,7 +133584,7 @@
       "genius_id": "1499063",
       "rookie_year": "2025"
     },
-    "news_updated": 1788234615494,
+    "news_updated": 1788644425243,
     "number": 47,
     "oddsjam_id": "A8D93A77935FE134",
     "opta_id": null,
@@ -144615,7 +144615,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "9e17b505-11dc-435c-b17d-eb9f9af929e2",
     "last_name": "Rose",
     "metadata": {
@@ -144623,7 +144623,7 @@
       "genius_id": "1485800",
       "rookie_year": "2025"
     },
-    "news_updated": 1788225616146,
+    "news_updated": 1788644725269,
     "number": 97,
     "oddsjam_id": "BBCB0F13A59FE994",
     "opta_id": null,
@@ -633191,7 +633191,7 @@
     "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "867c5e26-87a5-45fd-87f0-4c895da34605",
     "last_name": "McPhearson",
     "metadata": {
@@ -633199,7 +633199,7 @@
       "genius_id": "1007948",
       "rookie_year": "2021"
     },
-    "news_updated": 1787621442801,
+    "news_updated": 1788645625301,
     "number": 41,
     "oddsjam_id": "54185A0DEC74",
     "opta_id": null,
