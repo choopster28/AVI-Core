@@ -8,8 +8,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: IcebergSlim69
 - Owner ID: 737531831641128960
 - Division: 3
-- Waiver position: 13
-- Last updated from Sleeper exports: 2026-09-04
+- Waiver position: 16
+- Last updated from Sleeper exports: 2026-09-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 652.5
 - championship_lineup_c_avi_avg: 81.56
-- offensive_roster_c_avi_sum: 964.7
-- offensive_roster_c_avi_avg: 60.29
-- offensive_roster_d_avi_sum: 1182.7
-- offensive_roster_d_avi_avg: 73.92
+- offensive_roster_c_avi_sum: 939.4
+- offensive_roster_c_avi_avg: 62.63
+- offensive_roster_d_avi_sum: 1127.1
+- offensive_roster_d_avi_avg: 75.14
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -126,6 +126,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 59.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Jacob Saylors
+- Player name: Jacob Saylors
+- Player ID: 11237
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: DET
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: offense
+- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Ja'Marr Chase
 - Player name: Ja'Marr Chase
@@ -243,23 +260,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 38.6
 - Dynasty AVI (D-AVI, 0-100): 56.1
 - Projected PPR points: 105.4
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Bryce Lance
-- Player name: Bryce Lance
-- Player ID: 13420
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: NO
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 25.3
-- Dynasty AVI (D-AVI, 0-100): 55.6
-- Projected PPR points: 39.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

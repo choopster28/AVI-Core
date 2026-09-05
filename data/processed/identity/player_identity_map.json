@@ -712,12 +712,12 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "17598",
+    "fantasypros_id": "17826",
     "match_method": "exact_name_position_unique",
-    "nfl_team": "DET",
-    "player_name": "Tyler Conklin",
+    "nfl_team": "CIN",
+    "player_name": "Tanner Hudson",
     "position": "TE",
-    "sleeper_id": "5133"
+    "sleeper_id": "5409"
   },
   {
     "confidence": "verified",
@@ -811,6 +811,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "18397",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "HOU",
+    "player_name": "Foster Moreau",
+    "position": "TE",
+    "sleeper_id": "5985"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "18406",
     "match_method": "exact_name_position_unique",
     "nfl_team": "BUF",
@@ -844,15 +853,6 @@
     "player_name": "KaVontae Turpin",
     "position": "WR",
     "sleeper_id": "8917"
-  },
-  {
-    "confidence": "review",
-    "fantasypros_id": "18557",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Jake Browning",
-    "position": "QB",
-    "sleeper_id": "6111"
   },
   {
     "confidence": "verified",
@@ -943,6 +943,15 @@
     "player_name": "Darius Slayton",
     "position": "WR",
     "sleeper_id": "6149"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "18714",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CHI",
+    "player_name": "Scotty Miller",
+    "position": "WR",
+    "sleeper_id": "6290"
   },
   {
     "confidence": "verified",
@@ -1339,6 +1348,15 @@
     "player_name": "Brian Robinson Jr.",
     "position": "RB",
     "sleeper_id": "8154"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "20095",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NO",
+    "player_name": "Zamir White",
+    "position": "RB",
+    "sleeper_id": "8139"
   },
   {
     "confidence": "verified",
@@ -2179,6 +2197,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "23341",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Brock Wright",
+    "position": "TE",
+    "sleeper_id": "7891"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23499",
     "match_method": "exact_name_position_unique",
     "nfl_team": "MIA",
@@ -2590,6 +2617,15 @@
     "player_name": "Dalton Kincaid",
     "position": "TE",
     "sleeper_id": "10236"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "25267",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DAL",
+    "player_name": "Luke Schoonmaker",
+    "position": "TE",
+    "sleeper_id": "10871"
   },
   {
     "confidence": "verified",
@@ -3139,15 +3175,6 @@
     "player_name": "Matthew Golden",
     "position": "WR",
     "sleeper_id": "12501"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "26034",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "JAC",
-    "player_name": "Travis Hunter",
-    "position": "WR",
-    "sleeper_id": "12530"
   },
   {
     "confidence": "verified",
@@ -4033,6 +4060,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "28113",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "LAR",
+    "player_name": "Dean Connors",
+    "position": "RB",
+    "sleeper_id": "13315"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "28115",
     "match_method": "exact_name_position_unique",
     "nfl_team": "HOU",
@@ -4156,15 +4192,6 @@
     "player_name": "Marlin Klein",
     "position": "TE",
     "sleeper_id": "13307"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "28161",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CHI",
-    "player_name": "Sam Roush",
-    "position": "TE",
-    "sleeper_id": "13322"
   },
   {
     "confidence": "verified",

@@ -1,7 +1,161 @@
 {
-  "count": 25,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-04 18:15:31",
+      "created_formated": "Fri, Sep 4th 6:15pm UTC",
+      "desc": "Rams DL Aaron Donald is uncertain for the season opener next Thursday against the 49ers. ",
+      "id": 605917,
+      "impact": "Rams coach Sean McVay said he expects every player to travel with the team to Australia, which includes Donald. If he is cleared to play, it is likely he'll be on some sort of snap count. ",
+      "link": "https://www.fantasypros.com/nfl/news/605917/aaron-donald-uncertain-week-1.php",
+      "player_id": 12205,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Aaron Donald uncertain for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-04 16:31:01",
+      "created_formated": "Fri, Sep 4th 4:31pm UTC",
+      "desc": "The Cowboys restructured the contract of DaRon Bland. ",
+      "id": 605914,
+      "impact": "Bland was one of three players to have his contract restructured by Dallas. The Cowboys now have $33.2 million in salary cap space. ",
+      "link": "https://www.fantasypros.com/nfl/news/605914/daron-bland-restructures-contract-with-cowboys.php",
+      "player_id": 24551,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "DaRon Bland restructures contract with Cowboys "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-04 16:30:29",
+      "created_formated": "Fri, Sep 4th 4:30pm UTC",
+      "desc": "The Cowboys restructured the contract of Kenny Clark. ",
+      "id": 605913,
+      "impact": "Clark was one of three players to have his contract restructured by Dallas. The Cowboys now have $33.2 million in salary cap space",
+      "link": "https://www.fantasypros.com/nfl/news/605913/kenny-clark-restructures-contract-with-cowboys.php",
+      "player_id": 15535,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Kenny Clark restructures contract with Cowboys "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-04 16:28:38",
+      "created_formated": "Fri, Sep 4th 4:28pm UTC",
+      "desc": "The Cowboys restructured TE Jake Ferguson's contract.",
+      "id": 605912,
+      "impact": "Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. ",
+      "link": "https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php",
+      "player_id": 22718,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Jake Ferguson restructures contract with Cowboys "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-04 16:27:33",
+      "created_formated": "Fri, Sep 4th 4:27pm UTC",
+      "desc": "The Bears restructured the contract of T.J. Edwards. ",
+      "id": 605911,
+      "impact": "Edwards was one of three players who had their contracts restructured. The moves open $17 million in savings against the cap. ",
+      "link": "https://www.fantasypros.com/nfl/news/605911/tj-edwards-restructures-contract-with-bears.php",
+      "player_id": 18281,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "T.J. Edwards restructures contract with Bears"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-04 16:26:59",
+      "created_formated": "Fri, Sep 4th 4:26pm UTC",
+      "desc": "The Bears restructured the contract of Dayo Odeyingbo.",
+      "id": 605910,
+      "impact": "Odeyingbo was one of three players who had their contracts restructured. The moves open $17 million in savings against the cap. ",
+      "link": "https://www.fantasypros.com/nfl/news/605910/dayo-odeyingbo-restructures-contract-with-bears.php",
+      "player_id": 22883,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Dayo Odeyingbo restructures contract with Bears"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-04 16:26:25",
+      "created_formated": "Fri, Sep 4th 4:26pm UTC",
+      "desc": "The Bears restructured the contract of Joe Thuney. ",
+      "id": 605909,
+      "impact": "Thuney was one of three players who had their contracts restructured. The moves open $17 million in savings against the cap. ",
+      "link": "https://www.fantasypros.com/nfl/news/605909/joe-thuney-restructures-contract-with-bears.php",
+      "player_id": 15640,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Joe Thuney restructures contract with Bears"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-04 16:24:35",
+      "created_formated": "Fri, Sep 4th 4:24pm UTC",
+      "desc": "The Texans agreed to terms with Tank Dell on a one-year, $1.7 million contract restructure.",
+      "id": 605908,
+      "impact": "The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. ",
+      "link": "https://www.fantasypros.com/nfl/news/605908/tank-dell-restructures-contract-with-texans.php",
+      "player_id": 25361,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Tank Dell restructures contract with Texans"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-04 16:21:28",
+      "created_formated": "Fri, Sep 4th 4:21pm UTC",
+      "desc": "Bears RB D'Andre Swift left practice early on Thursday due to \"a cramp.\"",
+      "id": 605907,
+      "impact": "Swift was seen leaving practice \"holding at his midsection or core area.\" It appears he should be good to go for the season opener next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/605907/dandre-swift-left-practice-thursday-with-cramp.php",
+      "player_id": 19210,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "D'Andre Swift left practice Thursday with a cramp "
+    },
     {
       "author": "Garrett Ball",
       "categories": [
@@ -55,24 +209,6 @@
       "sport_id": "NFL",
       "team_id": "CHI",
       "title": "Rome Odunze leaves practice early Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-03 21:50:02",
-      "created_formated": "Thu, Sep 3rd 9:50pm UTC",
-      "desc": "D'Andre Swift left Thursday's practice early with an apparent injury. ",
-      "id": 605832,
-      "impact": "Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/605832/dandre-swift-exits-practice-early-thursday.php",
-      "player_id": 19210,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "D'Andre Swift exits practice early Thursday "
     },
     {
       "author": "Nate Miller",
@@ -281,159 +417,6 @@
       "sport_id": "NFL",
       "team_id": "CIN",
       "title": "Shemar Stewart (knee) returns to practice "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:39:16",
-      "created_formated": "Thu, Sep 3rd 3:39pm UTC",
-      "desc": "The Giants signed OL Geno VanDeMark.",
-      "id": 605766,
-      "impact": "VanDeMark will add depth on the offensive line for the Giants. ",
-      "link": "https://www.fantasypros.com/nfl/news/605766/geno-vandemark-signs-with-giants.php",
-      "player_id": 28786,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Geno VanDeMark signs with Giants "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:38:12",
-      "created_formated": "Thu, Sep 3rd 3:38pm UTC",
-      "desc": "The Ravens signed TE Nick Vannett to their practice squad. ",
-      "id": 605765,
-      "impact": "Vannett will add depth in the tight end room for Baltimore. ",
-      "link": "https://www.fantasypros.com/nfl/news/605765/nick-vannett-signs-with-ravens.php",
-      "player_id": 15645,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Nick Vannett signs with Ravens"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:37:05",
-      "created_formated": "Thu, Sep 3rd 3:37pm UTC",
-      "desc": "The Lions waived RB Jabari Small. ",
-      "id": 605764,
-      "impact": "Small will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605764/jabari-small-waived-by-lions.php",
-      "player_id": 24369,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jabari Small waived by Lions"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:36:28",
-      "created_formated": "Thu, Sep 3rd 3:36pm UTC",
-      "desc": "The Lions waived C Seth McLaughlin.",
-      "id": 605763,
-      "impact": "McLaughlin will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605763/seth-mclaughlin-waived-by-lions.php",
-      "player_id": 27213,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Seth McLaughlin waived by Lions"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:35:26",
-      "created_formated": "Thu, Sep 3rd 3:35pm UTC",
-      "desc": "The Patriots released rookie WR Jimmy Kibble from injured reserve.",
-      "id": 605762,
-      "impact": "Kibble will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605762/jimmy-kibble-released-by-patriots.php",
-      "player_id": 28820,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jimmy Kibble released by Patriots "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:34:41",
-      "created_formated": "Thu, Sep 3rd 3:34pm UTC",
-      "desc": "The Patriots waived rookie S Eric Butler. ",
-      "id": 605761,
-      "impact": "Butler will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605761/eric-butler-waived-by-patriots.php",
-      "player_id": 29420,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Eric Butler waived by Patriots "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:33:45",
-      "created_formated": "Thu, Sep 3rd 3:33pm UTC",
-      "desc": "The Patriots signed TE Shane Zylstra to their practice squad. ",
-      "id": 605760,
-      "impact": "Zylstra will add depth in the tight end room for New England heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605760/shane-zylstra-signs-with-patriots-practice-squad.php",
-      "player_id": 23461,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Shane Zylstra signs with Patriots practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:32:19",
-      "created_formated": "Thu, Sep 3rd 3:32pm UTC",
-      "desc": "The Chargers released Isas Waxter.  ",
-      "id": 605759,
-      "impact": "Waxter will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605759/isas-waxter-released-by-chargers.php",
-      "player_id": 27478,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Isas Waxter released by Chargers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 15:31:37",
-      "created_formated": "Thu, Sep 3rd 3:31pm UTC",
-      "desc": "The Chargers released Devonte Ross.  ",
-      "id": 605757,
-      "impact": "Ross will seek another opportunity heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605757/devonte-ross-released-by-chargers.php",
-      "player_id": 28145,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Devonte Ross released by Chargers "
     }
   ],
   "public_api_limited": true,

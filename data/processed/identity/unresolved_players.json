@@ -89,5 +89,21 @@
     "normalized_name": "hunter luepke",
     "position": "RB",
     "team": "DAL"
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "name": "Travis Hunter",
+        "position": "DB",
+        "sleeper_id": "12530",
+        "team": "JAC"
+      }
+    ],
+    "fantasypros_id": "26034",
+    "name": "Travis Hunter",
+    "normalized_name": "travis hunter",
+    "position": "WR",
+    "team": "JAC"
   }
 ]

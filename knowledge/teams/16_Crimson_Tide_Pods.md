@@ -9,24 +9,24 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-09-04
+- Last updated from Sleeper exports: 2026-09-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 20
-- offense: 15
+- offense: 14
 - kickers: 1
-- idp: 4
+- idp: 5
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 517.9
 - championship_lineup_c_avi_avg: 64.74
-- offensive_roster_c_avi_sum: 827.6
-- offensive_roster_c_avi_avg: 55.17
-- offensive_roster_d_avi_sum: 1118.4
-- offensive_roster_d_avi_avg: 74.56
+- offensive_roster_c_avi_sum: 781.1
+- offensive_roster_c_avi_avg: 55.79
+- offensive_roster_d_avi_sum: 1046.2
+- offensive_roster_d_avi_avg: 74.73
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -212,23 +212,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Travis Hunter
-- Player name: Travis Hunter
-- Player ID: 12530
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: WR
-- Fantasy positions: ['DB', 'WR']
-- NFL team: JAX
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 46.5
-- Dynasty AVI (D-AVI, 0-100): 72.2
-- Projected PPR points: 111.8
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Germie Bernard
 - Player name: Germie Bernard
 - Player ID: 13274
@@ -364,6 +347,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: None
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Travis Hunter
+- Player name: Travis Hunter
+- Player ID: 12530
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: DB
+- Fantasy positions: ['DB', 'WR']
+- NFL team: JAX
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 46.5
+- Dynasty AVI (D-AVI, 0-100): 72.2
+- Projected PPR points: 111.8
+- Category: idp
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Dillon Thieneman
 - Player name: Dillon Thieneman
