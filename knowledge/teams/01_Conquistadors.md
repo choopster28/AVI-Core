@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-09-05
+- Last updated from Sleeper exports: 2026-09-06
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 749.9
 - championship_lineup_c_avi_avg: 93.74
-- offensive_roster_c_avi_sum: 1113.5
-- offensive_roster_c_avi_avg: 65.50
-- offensive_roster_d_avi_sum: 1254.7
-- offensive_roster_d_avi_avg: 73.81
+- offensive_roster_c_avi_sum: 1130.8
+- offensive_roster_c_avi_avg: 66.52
+- offensive_roster_d_avi_sum: 1262.1
+- offensive_roster_d_avi_avg: 74.24
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -144,6 +144,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Justice Hill
+- Player name: Justice Hill
+- Player ID: 5995
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: BAL
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 39.7
+- Dynasty AVI (D-AVI, 0-100): 47.8
+- Projected PPR points: 112.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Kaelon Black
 - Player name: Kaelon Black
 - Player ID: 13414
@@ -158,23 +175,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 37.8
 - Dynasty AVI (D-AVI, 0-100): 53.3
 - Projected PPR points: 88.6
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Roschon Johnson
-- Player name: Roschon Johnson
-- Player ID: 10235
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: CHI
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 22.4
-- Dynasty AVI (D-AVI, 0-100): 40.4
-- Projected PPR points: 34.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

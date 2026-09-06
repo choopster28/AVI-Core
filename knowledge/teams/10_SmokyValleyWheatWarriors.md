@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 308805697879937024
 - Division: 2
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-09-05
+- Last updated from Sleeper exports: 2026-09-06
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -290,7 +290,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: BAL
 - Active: True
 - Status: Active
-- Age: 30.0
+- Age: 31.0
 - Championship AVI (C-AVI, 0-100): 72.4
 - Dynasty AVI (D-AVI, 0-100): 78.9
 - Projected PPR points: 167.2

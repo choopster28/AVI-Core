@@ -8,6 +8,23 @@
         "Commentary",
         "News"
       ],
+      "created": "2026-09-06 00:16:52",
+      "created_formated": "Sun, Sep 6th 12:16am UTC",
+      "desc": "Harrison Smith is returning to the Vikings on a one-year, $12.5 million deal.",
+      "id": 606053,
+      "impact": "Smith is a Minnesota stalwart and franchise legend. He will provide Brian Flores' secondary with a veteran presence and ability.",
+      "link": "https://www.fantasypros.com/nfl/news/606053/harrison-smith-returning-to-vikings-on-one-year-deal.php",
+      "player_id": 11260,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Harrison Smith returning to Vikings on one-year deal"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
       "created": "2026-09-05 23:46:02",
       "created_formated": "Sat, Sep 5th 11:46pm UTC",
       "desc": "Jon Weeks has been promoted to the Niners active roster. In a corresponding move, Brayden Willis has been released.",
@@ -381,24 +398,6 @@
       "sport_id": "NFL",
       "team_id": "IND",
       "title": "Alec Pierce (ankle) practices in full on Thursday "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Breaking"
-      ],
-      "created": "2026-09-03 16:53:44",
-      "created_formated": "Thu, Sep 3rd 4:53pm UTC",
-      "desc": "Michael Wilson has agreed to a three year, $75 million deal with the Arizona Cardinals.",
-      "id": 605781,
-      "impact": "Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.",
-      "link": "https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php",
-      "player_id": 25333,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Michael Wilson agrees to three year, $75 million deal with Cardinals "
     }
   ],
   "public_api_limited": true,

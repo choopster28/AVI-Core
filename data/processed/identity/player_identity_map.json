@@ -991,15 +991,6 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "19052",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DET",
-    "player_name": "Tom Kennedy",
-    "position": "WR",
-    "sleeper_id": "6588"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "19058",
     "match_method": "exact_name_position_unique",
     "nfl_team": "TB",
@@ -4237,6 +4228,15 @@
     "player_name": "Marlin Klein",
     "position": "TE",
     "sleeper_id": "13307"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28161",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CHI",
+    "player_name": "Sam Roush",
+    "position": "TE",
+    "sleeper_id": "13322"
   },
   {
     "confidence": "verified",
