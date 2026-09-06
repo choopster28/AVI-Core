@@ -1124,6 +1124,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
 
+## PLAYER LOOKUP: Justice Hill
+- Player name: Justice Hill
+- Player ID: 5995
+- Position: RB
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
+
 ## PLAYER LOOKUP: Justin Herbert
 - Player name: Justin Herbert
 - Player ID: 6797
@@ -1628,14 +1636,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
 
-## PLAYER LOOKUP: Roschon Johnson
-- Player name: Roschon Johnson
-- Player ID: 10235
-- Position: RB
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
-
 ## PLAYER LOOKUP: Ryan Flournoy
 - Player name: Ryan Flournoy
 - Player ID: 11783
@@ -2039,15 +2039,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CHI
 - Championship AVI (C-AVI, 0-100): 40.7
 - Dynasty AVI (D-AVI, 0-100): 58.1
-- Availability: available
-
-## AVAILABLE PLAYER: Justice Hill
-- Player name: Justice Hill
-- Player ID: 5995
-- Position: RB
-- NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 39.7
-- Dynasty AVI (D-AVI, 0-100): 47.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Tyler Higbee
@@ -2723,6 +2714,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 22.5
 - Dynasty AVI (D-AVI, 0-100): 48.0
+- Availability: available
+
+## AVAILABLE PLAYER: Roschon Johnson
+- Player name: Roschon Johnson
+- Player ID: 10235
+- Position: RB
+- NFL team: CHI
+- Championship AVI (C-AVI, 0-100): 22.4
+- Dynasty AVI (D-AVI, 0-100): 40.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Cade Stover
