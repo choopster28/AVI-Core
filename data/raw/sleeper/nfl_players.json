@@ -2466,8 +2466,8 @@
     "birth_state": null,
     "college": "Oklahoma",
     "competitions": [],
-    "depth_chart_order": 4,
-    "depth_chart_position": "TE",
+    "depth_chart_order": null,
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 24149,
     "fantasy_positions": [
@@ -12910,7 +12910,7 @@
     "birth_state": null,
     "college": "LSU",
     "competitions": [],
-    "depth_chart_order": 1,
+    "depth_chart_order": 2,
     "depth_chart_position": "FS",
     "espn_id": null,
     "fantasy_data_id": 24232,
@@ -55170,7 +55170,7 @@
   },
   "11579": {
     "active": true,
-    "age": 22,
+    "age": 23,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2003-09-06",
@@ -69018,7 +69018,7 @@
   },
   "11785": {
     "active": true,
-    "age": 23,
+    "age": 24,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2002-09-06",
@@ -92108,8 +92108,8 @@
     "birth_state": null,
     "college": "Notre Dame",
     "competitions": [],
-    "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_order": 1,
+    "depth_chart_position": "FS",
     "espn_id": 14945,
     "fantasy_data_id": 14461,
     "fantasy_positions": [
@@ -92132,7 +92132,7 @@
       "genius_id": "719476",
       "rookie_year": "2012"
     },
-    "news_updated": 1788652826025,
+    "news_updated": 1788654027474,
     "number": 22,
     "oddsjam_id": "4FDD99F0D9B6",
     "opta_id": null,
@@ -97876,7 +97876,7 @@
   },
   "12216": {
     "active": true,
-    "age": 25,
+    "age": 26,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2000-09-06",
@@ -108790,7 +108790,7 @@
   },
   "12380": {
     "active": true,
-    "age": 26,
+    "age": 27,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1999-09-06",
@@ -109521,7 +109521,7 @@
     "college": "Bryant",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "LB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 25611,
     "fantasy_positions": [
@@ -116595,7 +116595,7 @@
       "rookie_year": "2025",
       "source_id": "31e9d3d5-d1bb-4562-960f-51ae4f54b2c4"
     },
-    "news_updated": 1787874654383,
+    "news_updated": 1788657925976,
     "number": 15,
     "oddsjam_id": "A4FBB695165BC649",
     "opta_id": null,
@@ -116992,7 +116992,7 @@
   },
   "12502": {
     "active": true,
-    "age": 23,
+    "age": 24,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2002-09-06",
@@ -119604,7 +119604,7 @@
       "rookie_year": "2025",
       "source_id": "e3bbf093-6abe-491d-94f5-77b60900af0a"
     },
-    "news_updated": 1788055851868,
+    "news_updated": 1788658825992,
     "number": 17,
     "oddsjam_id": "C6579D4137A0E934",
     "opta_id": null,
@@ -127421,7 +127421,7 @@
   },
   "12656": {
     "active": true,
-    "age": 23,
+    "age": 24,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2002-09-06",
@@ -128701,7 +128701,7 @@
   },
   "12675": {
     "active": true,
-    "age": 23,
+    "age": 24,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2002-09-06",
@@ -130463,7 +130463,7 @@
     "birth_state": null,
     "college": "Pittsburgh",
     "competitions": [],
-    "depth_chart_order": 5,
+    "depth_chart_order": 4,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 26113,
@@ -133561,7 +133561,7 @@
     "college": "North Carolina",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "LB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26161,
     "fantasy_positions": [
@@ -138262,7 +138262,7 @@
     "birth_state": null,
     "college": "Clemson",
     "competitions": [],
-    "depth_chart_order": 4,
+    "depth_chart_order": 5,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 25969,
@@ -144600,7 +144600,7 @@
     "college": "Arkansas",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DL",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26400,
     "fantasy_positions": [
@@ -172148,7 +172148,7 @@
   },
   "13322": {
     "active": true,
-    "age": 22,
+    "age": 23,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2003-09-06",
@@ -173498,7 +173498,7 @@
     "birth_state": null,
     "college": "Wyoming",
     "competitions": [],
-    "depth_chart_order": 5,
+    "depth_chart_order": 6,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 26940,
@@ -180985,7 +180985,7 @@
   },
   "13453": {
     "active": true,
-    "age": 23,
+    "age": 24,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2002-09-06",
@@ -202127,7 +202127,7 @@
   },
   "13770": {
     "active": true,
-    "age": 23,
+    "age": 24,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2002-09-06",
@@ -220011,7 +220011,7 @@
   },
   "14038": {
     "active": true,
-    "age": 24,
+    "age": 25,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2001-09-06",
@@ -339783,7 +339783,7 @@
       "genius_id": "941690",
       "rookie_year": "2016"
     },
-    "news_updated": 1788279920782,
+    "news_updated": 1788659126145,
     "number": 85,
     "oddsjam_id": "A615AF6BB3D2",
     "opta_id": null,
@@ -456843,7 +456843,7 @@
   },
   "5012": {
     "active": true,
-    "age": 30,
+    "age": 31,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1995-09-06",
@@ -487608,7 +487608,7 @@
     "college": "Baylor",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_position": "LS",
     "espn_id": 13729,
     "fantasy_data_id": 11120,
     "fantasy_positions": [
@@ -625179,7 +625179,7 @@
     "birth_state": null,
     "college": "Oregon State",
     "competitions": [],
-    "depth_chart_order": 6,
+    "depth_chart_order": 5,
     "depth_chart_position": "RB",
     "espn_id": null,
     "fantasy_data_id": 22555,
@@ -633176,7 +633176,7 @@
     "college": "Texas Tech",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "DB",
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 22907,
     "fantasy_positions": [
@@ -685052,7 +685052,7 @@
     "birth_state": null,
     "college": "Tennessee",
     "competitions": [],
-    "depth_chart_order": 2,
+    "depth_chart_order": 3,
     "depth_chart_position": "FS",
     "espn_id": null,
     "fantasy_data_id": 23611,
@@ -721752,7 +721752,7 @@
   },
   "9754": {
     "active": true,
-    "age": 24,
+    "age": 25,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2001-09-06",
