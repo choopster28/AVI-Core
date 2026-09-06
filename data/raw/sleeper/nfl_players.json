@@ -118805,7 +118805,7 @@
       "rookie_year": "2025",
       "source_id": "2fcac8b2-522e-4da1-8f8a-e2d14333f7ab"
     },
-    "news_updated": 1788718532358,
+    "news_updated": 1788722433879,
     "number": 32,
     "oddsjam_id": "E55F1CC467FCBE9A",
     "opta_id": null,
@@ -160648,7 +160648,7 @@
       "genius_id": "1504226",
       "rookie_year": "2025"
     },
-    "news_updated": 1787506232203,
+    "news_updated": 1788723332404,
     "number": 80,
     "oddsjam_id": "29A3329D94F52AA5",
     "opta_id": null,
@@ -170772,7 +170772,7 @@
       "rookie_year": "2026",
       "source_id": "ee065540-8b5b-11ec-be36-0b578f8db3ee"
     },
-    "news_updated": 1788320424359,
+    "news_updated": 1788720032085,
     "number": 14,
     "oddsjam_id": null,
     "opta_id": null,
@@ -186339,7 +186339,7 @@
       "channel_id": "1353881201424756736",
       "rookie_year": "2026"
     },
-    "news_updated": 1787979343054,
+    "news_updated": 1788723032407,
     "number": 19,
     "oddsjam_id": null,
     "opta_id": null,
@@ -200027,8 +200027,8 @@
     "birth_state": null,
     "college": "Morgan State",
     "competitions": [],
-    "depth_chart_order": 3,
-    "depth_chart_position": "LILB",
+    "depth_chart_order": null,
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 28332,
     "fantasy_positions": [
@@ -393183,7 +393183,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2017"
     },
-    "news_updated": 1788320724431,
+    "news_updated": 1788720932030,
     "number": 10,
     "oddsjam_id": "2AC02BEBA7DF",
     "opta_id": null,
@@ -448856,7 +448856,7 @@
       "genius_id": "1013868",
       "rookie_year": "2018"
     },
-    "news_updated": 1788550222566,
+    "news_updated": 1788722432358,
     "number": 6,
     "oddsjam_id": "2F8FF2DF2E69",
     "opta_id": null,
@@ -697633,7 +697633,7 @@
       "genius_id": "1078561",
       "rookie_year": "2022"
     },
-    "news_updated": 1788321624501,
+    "news_updated": 1788721532219,
     "number": 88,
     "oddsjam_id": "A9F50580EAE8",
     "opta_id": null,
