@@ -1,7 +1,77 @@
 {
-  "count": 23,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-06 21:41:04",
+      "created_formated": "Sun, Sep 6th 9:41pm UTC",
+      "desc": "Jon Runyan Jr. has agreed to a two-year, $22 million contract extension with the New York Giants according to Adam Schefter.",
+      "id": 606228,
+      "impact": "Runyan Jr's extension includes $21.5 million in guaranteed money and keeps a key piece of a Giants offensive line looking to keep dual threat quarterback Jaxson Dart upright this upcoming season.",
+      "link": "https://www.fantasypros.com/nfl/news/606228/jon-runyan-jr-agrees-to-two-year-extension.php",
+      "player_id": 19512,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Jon Runyan Jr. agrees to two-year extension"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-06 21:15:55",
+      "created_formated": "Sun, Sep 6th 9:15pm UTC",
+      "desc": "Los Angeles Rams wide receiver Puka Nacua is expected to play in Week 1 against the San Francisco 49ers as the team travels to Australia, says head coach Sean McVay.",
+      "id": 606224,
+      "impact": "Nacua has been dealing with a psoas injury but returned to practice about a week ago. With the opening game in Melbourne, the Rams are being smart with their players given the toll of travel. However, their WR1 should be good to go. Nacua also still faces a potential suspension \"under the NFL's personal conduct policy,\" says Adkins.",
+      "link": "https://www.fantasypros.com/nfl/news/606224/puka-nacua-expected-to-play-week-1.php",
+      "player_id": 23180,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Puka Nacua (psoas) expected to play in Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-06 20:46:45",
+      "created_formated": "Sun, Sep 6th 8:46pm UTC",
+      "desc": "The Giants signed QB Jameis Winston to a two-year, $13 million extension through 2028.",
+      "id": 606220,
+      "impact": "Winston will add security in a depth role in the Giants quarterback room behind Jaxson Dart. Winston started two games last season. ",
+      "link": "https://www.fantasypros.com/nfl/news/606220/jameis-winston-signs-two-year-extension-with-giants.php",
+      "player_id": 13891,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Jameis Winston signs two-year extension with Giants"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-06 19:11:12",
+      "created_formated": "Sun, Sep 6th 7:11pm UTC",
+      "desc": "TreVeyon Henderson was not present again for the media-access portion of practice Sunday.",
+      "id": 606192,
+      "impact": "Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. ",
+      "link": "https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php",
+      "player_id": 23065,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "TreVeyon Henderson (ankle) not at practice Sunday "
+    },
     {
       "author": "Garrett Ball",
       "categories": [
@@ -52,24 +122,6 @@
       "sport_id": "NFL",
       "team_id": "SF",
       "title": "Brayden Willis waived by Niners"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-05 19:12:19",
-      "created_formated": "Sat, Sep 5th 7:12pm UTC",
-      "desc": "TreVeyon Henderson (ankle) was not practicing Saturday. ",
-      "id": 606042,
-      "impact": "Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.",
-      "link": "https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php",
-      "player_id": 23065,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "TreVeyon Henderson (ankle) not practicing Saturday"
     },
     {
       "author": "Jordan Epp",
@@ -363,41 +415,6 @@
       "sport_id": "NFL",
       "team_id": "CHI",
       "title": "Rome Odunze leaves practice early Thursday "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-03 21:44:22",
-      "created_formated": "Thu, Sep 3rd 9:44pm UTC",
-      "desc": "Will Levis worked out for the Jets on Thursday. ",
-      "id": 605831,
-      "impact": "Levis was cut loose by the Titans this past weekend and subsequently cleared waivers. The second-round pick from 2023 spent all of last season on the IL after starting 21 games for the Titans over the previous two campaigns. Levis is looking to catch on with the Jets or another team, most likely as a third QB. ",
-      "link": "https://www.fantasypros.com/nfl/news/605831/will-levis-works-out-jets.php",
-      "player_id": 22987,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Will Levis works out for Jets"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-03 20:12:18",
-      "created_formated": "Thu, Sep 3rd 8:12pm UTC",
-      "desc": "Alec Pierce (ankle) practiced in full for the first time this year after a lengthy time off the field while recovering from ankle injuries.",
-      "id": 605823,
-      "impact": "Pierce was limited in practice earlier this week, and this is the next big step for the newly anointed WR1 for the Colts on the road to full recovery and return to play. He will operate as the Colts primary deep threat this season when on the field, opening things up for Josh Downs and Tyler Warren over the middle and short areas.",
-      "link": "https://www.fantasypros.com/nfl/news/605823/alec-pierce-ankle-practices-full-on-thursday.php",
-      "player_id": 23791,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Alec Pierce (ankle) practices in full on Thursday "
     }
   ],
   "public_api_limited": true,

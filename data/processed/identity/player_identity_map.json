@@ -721,6 +721,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "17598",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Tyler Conklin",
+    "position": "TE",
+    "sleeper_id": "5133"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "17826",
     "match_method": "exact_name_position_unique",
     "nfl_team": "CIN",
@@ -871,15 +880,6 @@
     "player_name": "Drew Sample",
     "position": "TE",
     "sleeper_id": "6001"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "18562",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "ARI",
-    "player_name": "Gardner Minshew II",
-    "position": "QB",
-    "sleeper_id": "6011"
   },
   {
     "confidence": "verified",
