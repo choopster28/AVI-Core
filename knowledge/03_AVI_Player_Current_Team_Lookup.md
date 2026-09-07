@@ -484,6 +484,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
+## PLAYER LOOKUP: Darius Slayton
+- Player name: Darius Slayton
+- Player ID: 6149
+- Position: WR
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Darnell Mooney
 - Player name: Darnell Mooney
 - Player ID: 7090
@@ -627,14 +635,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
-
-## PLAYER LOOKUP: Eli Raridon
-- Player name: Eli Raridon
-- Player ID: 13421
-- Position: TE
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Eli Stowers
 - Player name: Eli Stowers
@@ -2068,15 +2068,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 61.0
 - Availability: available
 
-## AVAILABLE PLAYER: Darius Slayton
-- Player name: Darius Slayton
-- Player ID: 6149
-- Position: WR
-- NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 37.2
-- Dynasty AVI (D-AVI, 0-100): 53.8
-- Availability: available
-
 ## AVAILABLE PLAYER: Deshaun Watson
 - Player name: Deshaun Watson
 - Player ID: 4017
@@ -2192,6 +2183,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 34.5
 - Dynasty AVI (D-AVI, 0-100): 54.2
+- Availability: available
+
+## AVAILABLE PLAYER: Eli Raridon
+- Player name: Eli Raridon
+- Player ID: 13421
+- Position: TE
+- NFL team: NE
+- Championship AVI (C-AVI, 0-100): 34.3
+- Dynasty AVI (D-AVI, 0-100): 61.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Jack Bech
