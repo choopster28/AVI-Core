@@ -100,6 +100,52 @@
       "team_id": "IND"
     },
     {
+      "filename": "george-kittle.php",
+      "fpid": 16499,
+      "mflid": 13299,
+      "name": "George Kittle",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.19,
+        "points": 120.12,
+        "points_half": 156.19,
+        "points_ppr": 192.26,
+        "rec_rec": 72.14,
+        "rec_tds": 6.26,
+        "rec_yds": 829.16,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "SF"
+    },
+    {
+      "filename": "sam-laporta.php",
+      "fpid": 22978,
+      "mflid": 16214,
+      "name": "Sam LaPorta",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.19,
+        "points": 119.25,
+        "points_half": 155.98,
+        "points_ppr": 192.7,
+        "rec_rec": 73.45,
+        "rec_tds": 5.9,
+        "rec_yds": 842.64,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "DET"
+    },
+    {
       "filename": "harold-fannin-jr.php",
       "fpid": 27050,
       "mflid": 17103,
@@ -121,52 +167,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "CLE"
-    },
-    {
-      "filename": "sam-laporta.php",
-      "fpid": 22978,
-      "mflid": 16214,
-      "name": "Sam LaPorta",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.19,
-        "points": 118.75,
-        "points_half": 155.23,
-        "points_ppr": 191.7,
-        "rec_rec": 72.95,
-        "rec_tds": 5.9,
-        "rec_yds": 837.64,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "DET"
-    },
-    {
-      "filename": "george-kittle.php",
-      "fpid": 16499,
-      "mflid": 13299,
-      "name": "George Kittle",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.19,
-        "points": 116.62,
-        "points_half": 151.81,
-        "points_ppr": 187.01,
-        "rec_rec": 70.39,
-        "rec_tds": 6.01,
-        "rec_yds": 809.16,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "SF"
     },
     {
       "filename": "dallas-goedert.php",
@@ -315,12 +315,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.23,
-        "points": 98.91,
-        "points_half": 127.09,
-        "points_ppr": 155.26,
-        "rec_rec": 56.35,
+        "points": 99.66,
+        "points_half": 128.21,
+        "points_ppr": 156.76,
+        "rec_rec": 57.1,
         "rec_tds": 5.07,
-        "rec_yds": 689.24,
+        "rec_yds": 696.74,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -775,12 +775,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.06,
-        "points": 53.88,
-        "points_half": 69.6,
-        "points_ppr": 85.32,
-        "rec_rec": 31.44,
+        "points": 53.38,
+        "points_half": 68.98,
+        "points_ppr": 84.57,
+        "rec_rec": 31.19,
         "rec_tds": 3.01,
-        "rec_yds": 359.45,
+        "rec_yds": 354.45,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -1511,12 +1511,12 @@
       "stats": {
         "2pt_tds": 0,
         "fumbles": 0.58,
-        "points": 21.46,
-        "points_half": 30.95,
-        "points_ppr": 40.44,
-        "rec_rec": 18.98,
-        "rec_tds": 0.8,
-        "rec_yds": 178.26,
+        "points": 21.9,
+        "points_half": 31.4,
+        "points_ppr": 40.89,
+        "rec_rec": 18.99,
+        "rec_tds": 0.85,
+        "rec_yds": 179.7,
         "rec_yds_100": 0,
         "rec_yds_200": 0,
         "ret_tds": 0,
@@ -1800,29 +1800,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "CIN"
-    },
-    {
-      "filename": "jake-tonges.php",
-      "fpid": 24778,
-      "mflid": 16036,
-      "name": "Jake Tonges",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0.03,
-        "points": 18.14,
-        "points_half": 24.33,
-        "points_ppr": 30.52,
-        "rec_rec": 12.38,
-        "rec_tds": 1,
-        "rec_yds": 122.33,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "SF"
     },
     {
       "filename": "marlin-klein.php",
@@ -2283,6 +2260,29 @@
         "scrimage_yards_200": 0
       },
       "team_id": "BAL"
+    },
+    {
+      "filename": "jake-tonges.php",
+      "fpid": 24778,
+      "mflid": 16036,
+      "name": "Jake Tonges",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0.03,
+        "points": 11.38,
+        "points_half": 15.46,
+        "points_ppr": 19.55,
+        "rec_rec": 8.17,
+        "rec_tds": 0.66,
+        "rec_yds": 74.77,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "SF"
     },
     {
       "filename": "tanner-koziol.php",

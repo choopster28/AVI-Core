@@ -6,36 +6,19 @@
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
-        "News"
-      ],
-      "created": "2026-09-06 21:41:04",
-      "created_formated": "Sun, Sep 6th 9:41pm UTC",
-      "desc": "Jon Runyan Jr. has agreed to a two-year, $22 million contract extension with the New York Giants according to Adam Schefter.",
-      "id": 606228,
-      "impact": "Runyan Jr's extension includes $21.5 million in guaranteed money and keeps a key piece of a Giants offensive line looking to keep dual threat quarterback Jaxson Dart upright this upcoming season.",
-      "link": "https://www.fantasypros.com/nfl/news/606228/jon-runyan-jr-agrees-to-two-year-extension.php",
-      "player_id": 19512,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Jon Runyan Jr. agrees to two-year extension"
-    },
-    {
-      "author": "Jordan Epp",
-      "categories": [
-        "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-06 21:15:55",
-      "created_formated": "Sun, Sep 6th 9:15pm UTC",
-      "desc": "Los Angeles Rams wide receiver Puka Nacua is expected to play in Week 1 against the San Francisco 49ers as the team travels to Australia, says head coach Sean McVay.",
-      "id": 606224,
-      "impact": "Nacua has been dealing with a psoas injury but returned to practice about a week ago. With the opening game in Melbourne, the Rams are being smart with their players given the toll of travel. However, their WR1 should be good to go. Nacua also still faces a potential suspension \"under the NFL's personal conduct policy,\" says Adkins.",
-      "link": "https://www.fantasypros.com/nfl/news/606224/puka-nacua-expected-to-play-week-1.php",
-      "player_id": 23180,
+      "created": "2026-09-07 17:40:58",
+      "created_formated": "Mon, Sep 7th 5:40pm UTC",
+      "desc": "Ja'Marr Chase (knee) returned to practice for the Cincinnati Bengals Monday according to Ben Baby.",
+      "id": 606372,
+      "impact": "Chase was sidelined last week after suffering a hyperextended knee in practice. The superstar wideout will look to increase his activity throughout the week ahead of a Week 1 matchup against the Tampa Buccaneers.",
+      "link": "https://www.fantasypros.com/nfl/news/606372/jamarr-chase-knee-returns-to-practice-monday.php",
+      "player_id": 19788,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Puka Nacua (psoas) expected to play in Week 1"
+      "team_id": "CIN",
+      "title": "Ja'Marr Chase (knee) returns to practice Monday "
     },
     {
       "author": "Ari Koslow",
@@ -43,16 +26,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-09-06 20:46:45",
-      "created_formated": "Sun, Sep 6th 8:46pm UTC",
-      "desc": "The Giants signed QB Jameis Winston to a two-year, $13 million extension through 2028.",
-      "id": 606220,
-      "impact": "Winston will add security in a depth role in the Giants quarterback room behind Jaxson Dart. Winston started two games last season. ",
-      "link": "https://www.fantasypros.com/nfl/news/606220/jameis-winston-signs-two-year-extension-with-giants.php",
-      "player_id": 13891,
+      "created": "2026-09-07 16:47:13",
+      "created_formated": "Mon, Sep 7th 4:47pm UTC",
+      "desc": "Panthers TE Darren Waller practiced on Monday.",
+      "id": 606365,
+      "impact": "Waller was seen catching passes from Bryce Young. It is unclear if he will play in Week 1 after signing with Carolina late in training camp. ",
+      "link": "https://www.fantasypros.com/nfl/news/606365/darren-waller-practices-monday.php",
+      "player_id": 14104,
       "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Jameis Winston signs two-year extension with Giants"
+      "team_id": "CAR",
+      "title": "Darren Waller practices Monday"
     },
     {
       "author": "Ari Koslow",
@@ -61,288 +44,228 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-06 19:11:12",
-      "created_formated": "Sun, Sep 6th 7:11pm UTC",
-      "desc": "TreVeyon Henderson was not present again for the media-access portion of practice Sunday.",
-      "id": 606192,
-      "impact": "Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php",
+      "created": "2026-09-07 16:39:10",
+      "created_formated": "Mon, Sep 7th 4:39pm UTC",
+      "desc": "Jalen McMillan took part in individual drills during practice on Monday. ",
+      "id": 606363,
+      "impact": "McMillan missed time during training camp with a knee injury. He remains hopeful to be good to go for Sunday's season opener. ",
+      "link": "https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php",
+      "player_id": 23179,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Jalen McMillan (knee) practices Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 16:38:12",
+      "created_formated": "Mon, Sep 7th 4:38pm UTC",
+      "desc": "Emeka Egbuka took part in individual drills at practice on Monday. ",
+      "id": 606362,
+      "impact": "It is a good sign for Egbuka's availability to open the season after missing time in training camp. His status will need to continue to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/606362/emeka-egbuka-toe-practices-monday.php",
+      "player_id": 23062,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Emeka Egbuka (toe) practices Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 15:59:38",
+      "created_formated": "Mon, Sep 7th 3:59pm UTC",
+      "desc": "TreVeyon Henderson was not seen practicing on Monday. ",
+      "id": 606350,
+      "impact": "Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. ",
+      "link": "https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php",
       "player_id": 23065,
       "sport_id": "NFL",
       "team_id": "NE",
-      "title": "TreVeyon Henderson (ankle) not at practice Sunday "
+      "title": "TreVeyon Henderson (ankle) not seen practicing Monday "
     },
     {
-      "author": "Garrett Ball",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News"
+        "News",
+        "Injury"
       ],
-      "created": "2026-09-06 00:16:52",
-      "created_formated": "Sun, Sep 6th 12:16am UTC",
-      "desc": "Harrison Smith is returning to the Vikings on a one-year, $12.5 million deal.",
-      "id": 606053,
-      "impact": "Smith is a Minnesota stalwart and franchise legend. He will provide Brian Flores' secondary with a veteran presence and ability.",
-      "link": "https://www.fantasypros.com/nfl/news/606053/harrison-smith-returning-to-vikings-on-one-year-deal.php",
-      "player_id": 11260,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Harrison Smith returning to Vikings on one-year deal"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-05 23:46:02",
-      "created_formated": "Sat, Sep 5th 11:46pm UTC",
-      "desc": "Jon Weeks has been promoted to the Niners active roster. In a corresponding move, Brayden Willis has been released.",
-      "id": 606052,
-      "impact": "Weeks will provide some special teams depth and the exit of Willis implies the return of George Kittle.",
-      "link": "https://www.fantasypros.com/nfl/news/606052/jon-weeks-promoted-to-niners-active-roster.php",
-      "player_id": 15188,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Jon Weeks promoted to Niners active roster "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-05 23:34:02",
-      "created_formated": "Sat, Sep 5th 11:34pm UTC",
-      "desc": "Brayden Willis has been waived by the 49ers. In a corresponding move, they promoted long snapper Jon Weeks to the active roster.",
-      "id": 606051,
-      "impact": "Willis' waiving likely signals the return of George Kittle, with Weeks providing some special teams depth. Willis is likely to be irrelevant for fantasy this season.",
-      "link": "https://www.fantasypros.com/nfl/news/606051/brayden-willis-waived-by-niners.php",
-      "player_id": 25469,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Brayden Willis waived by Niners"
-    },
-    {
-      "author": "Jordan Epp",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-05 04:26:34",
-      "created_formated": "Sat, Sep 5th 4:26am UTC",
-      "desc": "Green Bay Packers running back Josh Jacobs had his initial court appearance moved up to Sept. 10 from Nov. 17 regarding Jacobs' misdemeanor charges.",
-      "id": 605957,
-      "impact": "Jacobs was charged with battery and criminal destruction of property and is scheduled to appear at the Brown County courthouse on Sept. 10, multiple days before Green Bay's season opener against Minnesota. It is unclear how this will affect his return timeline; Jacobs is currently on the commissioner's exempt list, with a potential suspension looming.",
-      "link": "https://www.fantasypros.com/nfl/news/605957/josh-jacobs-has-court-appearance-date-moved-up.php",
-      "player_id": 18269,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Josh Jacobs has court appearance date moved up"
-    },
-    {
-      "author": "Jordan Epp",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-05 04:17:53",
-      "created_formated": "Sat, Sep 5th 4:17am UTC",
-      "desc": "Running back J.K. Dobbins will \"for sure\" be the Denver Broncos' lead back this season, with three players set to have roles in the backfield, according to Zac Stevens of DNVR Sports.",
-      "id": 605956,
-      "impact": "Dobbins was very successful in 2025 when he was healthy, averaging 5.0 yards per carry and rushing for 772 yards in 10 games. RJ Harvey and rookie Jonah Coleman will have roles, a regular trait for head coach Sean Payton's offenses. Due to injury risk and a congested backfield, Dobbins has a deflated ADP price as the half-PPR RB34, according to FantasyPros.",
-      "link": "https://www.fantasypros.com/nfl/news/605956/jk-dobbins-will-maintain-denvers-rb1-role-2026.php",
-      "player_id": 19245,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "J.K. Dobbins will maintain Denver's RB1 role in 2026"
-    },
-    {
-      "author": "Jordan Epp",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-05 04:07:54",
-      "created_formated": "Sat, Sep 5th 4:07am UTC",
-      "desc": "The Jacksonville Jaguars are \"not going to stop talking\" to wide receiver Parker Washington as both sides iron out a potential contract extension, says general manager James Gladstone.",
-      "id": 605955,
-      "impact": "Gladstone said the team would not hesitate to carry contract discussions into the regular season as they aim to finalize a deal with their breakout wideout. Washington had 58 receptions for 847 yards and five touchdowns last season and carries an expert consensus ranking of WR29, according to FantasPros, into his fourth NFL season.",
-      "link": "https://www.fantasypros.com/nfl/news/605955/parker-washington-jaguars-remain-contract-talks.php",
-      "player_id": 23106,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Parker Washington, Jaguars remain in contract talks"
-    },
-    {
-      "author": "Jordan Epp",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-05 03:59:13",
-      "created_formated": "Sat, Sep 5th 3:59am UTC",
-      "desc": "New England Patriots cornerback Christian Gonzalez and the team \"remain apart on several key elements\" amid extension discussions ahead of the season opener.",
-      "id": 605954,
-      "impact": "Gonzalez was noncommittal on his status for Week 1 amid contract disputes, which could put pressure on the Patriots to finish the deal. Some groundwork has been laid, and Gonzalez is expected to become the league's highest-paid cornerback, but finer details of the contract structure need to be finalized.",
-      "link": "https://www.fantasypros.com/nfl/news/605954/christian-gonzalez-patriots-remain-apart-on-contract.php",
-      "player_id": 25238,
+      "created": "2026-09-07 15:51:39",
+      "created_formated": "Mon, Sep 7th 3:51pm UTC",
+      "desc": "Patriots head coach Mike Vrabel said Christian Barmore would return to practice on Monday. ",
+      "id": 606347,
+      "impact": "Barmore did not practice on Sunday. His status is uncertain for Wednesday's season opener. ",
+      "link": "https://www.fantasypros.com/nfl/news/606347/christian-barmore-knee-to-return-to-practice-monday.php",
+      "player_id": 22691,
       "sport_id": "NFL",
       "team_id": "NE",
-      "title": "Christian Gonzalez, Patriots 'remain apart' on contract"
+      "title": "Christian Barmore (knee) to return to practice Monday "
     },
     {
-      "author": "Jordan Epp",
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 15:48:59",
+      "created_formated": "Mon, Sep 7th 3:48pm UTC",
+      "desc": "Falcons head coach Kevin Stefanski said Jessie Bates III is \"ready to roll\" for Week 1. ",
+      "id": 606345,
+      "impact": "Bates suffered a minor back injury during training camp. He has been practicing. ",
+      "link": "https://www.fantasypros.com/nfl/news/606345/jessie-bates-iii-back-good-to-go-week-1.php",
+      "player_id": 17544,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Jessie Bates III (back) good to go for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News"
       ],
-      "created": "2026-09-05 03:35:08",
-      "created_formated": "Sat, Sep 5th 3:35am UTC",
-      "desc": "The Atlanta Falcons could name their starting quarterback, between Tua Tagovailoa and Michael Penix Jr., as early as Monday, Sept. 7, ahead of Week 1.",
-      "id": 605953,
-      "impact": "Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a \"short leash\" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.",
-      "link": "https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php",
+      "created": "2026-09-07 15:42:04",
+      "created_formated": "Mon, Sep 7th 3:42pm UTC",
+      "desc": "The Vikings signed EDGE Kenny Dyson Jr. to their practice squad. ",
+      "id": 606343,
+      "impact": "Dyson will enter the season in a depth role on the defensive line for Minnesota. ",
+      "link": "https://www.fantasypros.com/nfl/news/606343/kenny-dyson-jr-returns-to-vikings.php",
+      "player_id": 26943,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Kenny Dyson Jr. returns to Vikings"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-07 15:39:34",
+      "created_formated": "Mon, Sep 7th 3:39pm UTC",
+      "desc": "The Broncos brought back Taylor Rapp to their practice squad. ",
+      "id": 606341,
+      "impact": "Rapp will remain in a depth role for Denver heading into the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/606341/taylor-rapp-returns-to-broncos-practice-squad.php",
+      "player_id": 18238,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Taylor Rapp returns to Broncos practice squad "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 15:36:43",
+      "created_formated": "Mon, Sep 7th 3:36pm UTC",
+      "desc": "George Kittle was seen practicing on Monday. ",
+      "id": 606340,
+      "impact": "Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. ",
+      "link": "https://www.fantasypros.com/nfl/news/606340/george-kittle-achilles-seen-practicing-monday.php",
+      "player_id": 16499,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "George Kittle (Achilles) seen practicing Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 15:35:02",
+      "created_formated": "Mon, Sep 7th 3:35pm UTC",
+      "desc": "Jonathon Brooks was seen working off to the side with trainers on Monday.",
+      "id": 606338,
+      "impact": "Head coach Dave Canales said last week that he was \"very optimistic\" that Brooks would play in Week 1. It remains unclear what the exact injury is that he is dealing with. His status will need to continue to be monitored the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php",
+      "player_id": 26148,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Jonathon Brooks works off to side with trainers Monday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-07 15:33:27",
+      "created_formated": "Mon, Sep 7th 3:33pm UTC",
+      "desc": "The Commanders signed WR Van Jefferson.",
+      "id": 606337,
+      "impact": "Jefferson was recently released by Washington. He will add depth in the wide receiver room for the Commanders. ",
+      "link": "https://www.fantasypros.com/nfl/news/606337/van-jefferson-signs-with-commanders-practice-squad.php",
+      "player_id": 19483,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Van Jefferson signs with Commanders practice squad "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-07 15:31:29",
+      "created_formated": "Mon, Sep 7th 3:31pm UTC",
+      "desc": "Cooper Rush will backup Tua Tagovailoa in Week 1 against the Steelers. ",
+      "id": 606335,
+      "impact": "Falcons head coach Kevin Stefanski said Michael Penix Jr. (knee) will be inactive to open the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/606335/cooper-rush-to-serve-backup-week-1.php",
+      "player_id": 16477,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Cooper Rush to serve as backup QB in Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 15:30:10",
+      "created_formated": "Mon, Sep 7th 3:30pm UTC",
+      "desc": "Falcons head coach Kevin Stefanski said Michael Penix will be inactive for Week 1 against the Steelers.",
+      "id": 606334,
+      "impact": "Penix remains without a clear timetable to return to the field. Stefanski declined to put a timeline on when Penix could be ready to take the field. Tua Tagovailoa was named the starter for Week 1. ",
+      "link": "https://www.fantasypros.com/nfl/news/606334/michael-penix-jr-knee-to-be-inactive-week-1.php",
+      "player_id": 22973,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Michael Penix Jr. (knee) to be inactive in Week 1"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-09-07 12:12:11",
+      "created_formated": "Mon, Sep 7th 12:12pm UTC",
+      "desc": "Tua Tagovailoa has been named the Falcons starting QB.",
+      "id": 606317,
+      "impact": "After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.",
+      "link": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php",
       "player_id": 19198,
       "sport_id": "NFL",
       "team_id": "ATL",
-      "title": "Tua Tagovailoa: Falcons could name starting QB soon"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-04 18:15:31",
-      "created_formated": "Fri, Sep 4th 6:15pm UTC",
-      "desc": "Rams DL Aaron Donald is uncertain for the season opener next Thursday against the 49ers. ",
-      "id": 605917,
-      "impact": "Rams coach Sean McVay said he expects every player to travel with the team to Australia, which includes Donald. If he is cleared to play, it is likely he'll be on some sort of snap count. ",
-      "link": "https://www.fantasypros.com/nfl/news/605917/aaron-donald-uncertain-week-1.php",
-      "player_id": 12205,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Aaron Donald uncertain for Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-04 16:31:01",
-      "created_formated": "Fri, Sep 4th 4:31pm UTC",
-      "desc": "The Cowboys restructured the contract of DaRon Bland. ",
-      "id": 605914,
-      "impact": "Bland was one of three players to have his contract restructured by Dallas. The Cowboys now have $33.2 million in salary cap space. ",
-      "link": "https://www.fantasypros.com/nfl/news/605914/daron-bland-restructures-contract-with-cowboys.php",
-      "player_id": 24551,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "DaRon Bland restructures contract with Cowboys "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-04 16:30:29",
-      "created_formated": "Fri, Sep 4th 4:30pm UTC",
-      "desc": "The Cowboys restructured the contract of Kenny Clark. ",
-      "id": 605913,
-      "impact": "Clark was one of three players to have his contract restructured by Dallas. The Cowboys now have $33.2 million in salary cap space",
-      "link": "https://www.fantasypros.com/nfl/news/605913/kenny-clark-restructures-contract-with-cowboys.php",
-      "player_id": 15535,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Kenny Clark restructures contract with Cowboys "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-04 16:28:38",
-      "created_formated": "Fri, Sep 4th 4:28pm UTC",
-      "desc": "The Cowboys restructured TE Jake Ferguson's contract.",
-      "id": 605912,
-      "impact": "Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. ",
-      "link": "https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php",
-      "player_id": 22718,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Jake Ferguson restructures contract with Cowboys "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-04 16:27:33",
-      "created_formated": "Fri, Sep 4th 4:27pm UTC",
-      "desc": "The Bears restructured the contract of T.J. Edwards. ",
-      "id": 605911,
-      "impact": "Edwards was one of three players who had their contracts restructured. The moves open $17 million in savings against the cap. ",
-      "link": "https://www.fantasypros.com/nfl/news/605911/tj-edwards-restructures-contract-with-bears.php",
-      "player_id": 18281,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "T.J. Edwards restructures contract with Bears"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-04 16:26:59",
-      "created_formated": "Fri, Sep 4th 4:26pm UTC",
-      "desc": "The Bears restructured the contract of Dayo Odeyingbo.",
-      "id": 605910,
-      "impact": "Odeyingbo was one of three players who had their contracts restructured. The moves open $17 million in savings against the cap. ",
-      "link": "https://www.fantasypros.com/nfl/news/605910/dayo-odeyingbo-restructures-contract-with-bears.php",
-      "player_id": 22883,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Dayo Odeyingbo restructures contract with Bears"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-04 16:26:25",
-      "created_formated": "Fri, Sep 4th 4:26pm UTC",
-      "desc": "The Bears restructured the contract of Joe Thuney. ",
-      "id": 605909,
-      "impact": "Thuney was one of three players who had their contracts restructured. The moves open $17 million in savings against the cap. ",
-      "link": "https://www.fantasypros.com/nfl/news/605909/joe-thuney-restructures-contract-with-bears.php",
-      "player_id": 15640,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Joe Thuney restructures contract with Bears"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-04 16:24:35",
-      "created_formated": "Fri, Sep 4th 4:24pm UTC",
-      "desc": "The Texans agreed to terms with Tank Dell on a one-year, $1.7 million contract restructure.",
-      "id": 605908,
-      "impact": "The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. ",
-      "link": "https://www.fantasypros.com/nfl/news/605908/tank-dell-restructures-contract-with-texans.php",
-      "player_id": 25361,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Tank Dell restructures contract with Texans"
+      "title": "Tua Tagovailoa named Falcons starter"
     },
     {
       "author": "Ari Koslow",
@@ -351,52 +274,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-04 16:21:28",
-      "created_formated": "Fri, Sep 4th 4:21pm UTC",
-      "desc": "Bears RB D'Andre Swift left practice early on Thursday due to \"a cramp.\"",
-      "id": 605907,
-      "impact": "Swift was seen leaving practice \"holding at his midsection or core area.\" It appears he should be good to go for the season opener next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/605907/dandre-swift-left-practice-thursday-with-cramp.php",
-      "player_id": 19210,
+      "created": "2026-09-07 01:34:38",
+      "created_formated": "Mon, Sep 7th 1:34am UTC",
+      "desc": "Emanuel Wilson was a full participant in practice on Sunday. ",
+      "id": 606240,
+      "impact": "Wilson enters the season in a depth role in the Seahawks backfield. He'll begin the year off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/606240/emanuel-wilson-hamstring-practices-full-sunday.php",
+      "player_id": 25885,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "D'Andre Swift left practice Thursday with a cramp "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-04 12:44:33",
-      "created_formated": "Fri, Sep 4th 12:44pm UTC",
-      "desc": "Sam Okuayinonu (foot) is out against the LA Rams in the 49ers 2026 season opener.",
-      "id": 605899,
-      "impact": "Okuayinonu didn't make the flight with the team down to Melbourne, but they left the door open for him to come down later. He will now try to get himself healthy and ready for Week 2.",
-      "link": "https://www.fantasypros.com/nfl/news/605899/sam-okuayinonu-foot-out-against-la-rams.php",
-      "player_id": 24587,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Sam Okuayinonu (foot) out against LA Rams"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-03 22:14:09",
-      "created_formated": "Thu, Sep 3rd 10:14pm UTC",
-      "desc": "Devin Neal has been waived by the New Orleans Saints after reaching an injury settlement. ",
-      "id": 605835,
-      "impact": "Neal was originally placed on IR, but it seems the team has found a way to settle things and enact his release. He could find a new team, but cannot sign with the Saints again until at least three weeks from now.",
-      "link": "https://www.fantasypros.com/nfl/news/605835/devin-neal-waived-by-saints.php",
-      "player_id": 23682,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Devin Neal waived by Saints"
+      "team_id": "SEA",
+      "title": "Emanuel Wilson (hamstring) practices in full Sunday "
     },
     {
       "author": "Ari Koslow",
@@ -405,16 +292,142 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-03 21:51:23",
-      "created_formated": "Thu, Sep 3rd 9:51pm UTC",
-      "desc": "Rome Odunze left Thursday's practice early with an apparent injury. ",
-      "id": 605833,
-      "impact": "Hammond notes that Odunze came up hobbling during an install period at the start of practice. He tried to return to practice, but trainers wouldn't let him. This will remain something to monitor into next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php",
-      "player_id": 25411,
+      "created": "2026-09-07 01:33:41",
+      "created_formated": "Mon, Sep 7th 1:33am UTC",
+      "desc": "Ty Okada did not practice on Sunday. ",
+      "id": 606239,
+      "impact": "Okada is suddenly dealing with a hamstring issue. His status will need to be monitored in practice on Monday and Tuesday. ",
+      "link": "https://www.fantasypros.com/nfl/news/606239/ty-okada-hamstring-misses-practice-sunday.php",
+      "player_id": 25688,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Rome Odunze leaves practice early Thursday "
+      "team_id": "SEA",
+      "title": "Ty Okada (hamstring) misses practice Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 01:32:23",
+      "created_formated": "Mon, Sep 7th 1:32am UTC",
+      "desc": "Julian Neal was a full participant in practice on Sunday. ",
+      "id": 606238,
+      "impact": "Neal was a third-round pick of Seattle this year. He should play an immediate role in the secondary under Mike Macdonald this season. ",
+      "link": "https://www.fantasypros.com/nfl/news/606238/julian-neal-quad-logs-full-practice-sunday.php",
+      "player_id": 28188,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Julian Neal (quad) logs full practice Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 01:31:23",
+      "created_formated": "Mon, Sep 7th 1:31am UTC",
+      "desc": "Josh Jones was a limited participant in practice on Sunday. ",
+      "id": 606237,
+      "impact": "Jones enters the season in a depth role on the offensive line for Seattle. ",
+      "link": "https://www.fantasypros.com/nfl/news/606237/josh-jones-knee-limited-practice-sunday.php",
+      "player_id": 19235,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Josh Jones (knee) limited in practice Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 01:30:24",
+      "created_formated": "Mon, Sep 7th 1:30am UTC",
+      "desc": "Tory Horton was a limited participant in practice on Sunday. ",
+      "id": 606236,
+      "impact": "This is a little surprising as just a couple of weeks ago, Horton was said to be out \"for a while.\" He projects as an upside WR4/WR5 for fantasy managers when he is healthy. ",
+      "link": "https://www.fantasypros.com/nfl/news/606236/tory-horton-hamstring-limited-practice-sunday.php",
+      "player_id": 26022,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Tory Horton (hamstring) limited in practice Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 01:28:34",
+      "created_formated": "Mon, Sep 7th 1:28am UTC",
+      "desc": "Nick Emmanwori was a limited participant in practice on Sunday. ",
+      "id": 606235,
+      "impact": "Emmanwori is working his way back from an offseason procedure on his ankle. He seems unlikely to play in Wednesday's season opener, but it is a good sign he could return sooner rather than later. ",
+      "link": "https://www.fantasypros.com/nfl/news/606235/nick-emmanwori-ankle-limited-practice-sunday.php",
+      "player_id": 27053,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Nick Emmanwori (ankle) limited in practice Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 01:26:52",
+      "created_formated": "Mon, Sep 7th 1:26am UTC",
+      "desc": "Anthony Bradford was a limited participant in practice on Sunday. ",
+      "id": 606234,
+      "impact": "Bradford is dealing with a knee issue. He should be good to go for Wednesday's season opener. ",
+      "link": "https://www.fantasypros.com/nfl/news/606234/anthony-bradford-knee-limited-practice-sunday.php",
+      "player_id": 25574,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Anthony Bradford (knee) limited in practice Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 01:25:04",
+      "created_formated": "Mon, Sep 7th 1:25am UTC",
+      "desc": "AJ Barner was a full participant in practice on Sunday. ",
+      "id": 606233,
+      "impact": "Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php",
+      "player_id": 26335,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "AJ Barner (oblique) practices in full Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 01:22:59",
+      "created_formated": "Mon, Sep 7th 1:22am UTC",
+      "desc": "Ben Brown missed practice on Sunday. ",
+      "id": 606232,
+      "impact": "Brown is dealing with a knee issue. His status will need to continue to be monitored in practice. ",
+      "link": "https://www.fantasypros.com/nfl/news/606232/ben-brown-knee-does-not-practice-sunday.php",
+      "player_id": 23871,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Ben Brown (knee) does not practice Sunday "
     }
   ],
   "public_api_limited": true,

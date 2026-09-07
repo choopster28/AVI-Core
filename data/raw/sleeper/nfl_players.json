@@ -53864,7 +53864,7 @@
     "injury_body_part": "Knee - ACL",
     "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "56edcd6a-cd8c-4fb8-957e-9356d3880c44",
     "last_name": "Penix",
     "metadata": {
@@ -53872,7 +53872,7 @@
       "genius_id": "1463663",
       "rookie_year": "2024"
     },
-    "news_updated": 1788788439739,
+    "news_updated": 1788795640103,
     "number": 9,
     "oddsjam_id": "4CC573CF0E13",
     "opta_id": null,
@@ -55502,7 +55502,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1788622817619,
+    "news_updated": 1788797440292,
     "number": 25,
     "oddsjam_id": "84C4F05F8EFF",
     "opta_id": null,
@@ -57834,7 +57834,7 @@
       "injury_override_regular_2025_1": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1788717031610,
+    "news_updated": 1788801340728,
     "number": 11,
     "oddsjam_id": "E4EB05AD5052",
     "opta_id": null,
@@ -109533,10 +109533,10 @@
     "hashtag": "#kennydyson-NFL-FA-55",
     "height": "75",
     "high_school": null,
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "a71a75ca-4848-4da2-9c11-b82a2d41f4ea",
     "last_name": "Dyson",
     "metadata": {
@@ -109544,7 +109544,7 @@
       "genius_id": "1482875",
       "rookie_year": "2024"
     },
-    "news_updated": 1788645025327,
+    "news_updated": 1788795941600,
     "number": 55,
     "oddsjam_id": "62F3FFDA1DE7",
     "opta_id": null,
@@ -116285,7 +116285,7 @@
       "rookie_year": "2025",
       "source_id": "e7af373f-e0f6-4e57-99f4-c7981087250e"
     },
-    "news_updated": 1788483616648,
+    "news_updated": 1788795040102,
     "number": 13,
     "oddsjam_id": "35DF24DDDDAB32DD",
     "opta_id": null,
@@ -117825,7 +117825,7 @@
       "rookie_year": "2025",
       "source_id": "d7f54546-46ed-45c6-9ecc-b23c65ee6679"
     },
-    "news_updated": 1788621617632,
+    "news_updated": 1788801040837,
     "number": 2,
     "oddsjam_id": "93527AC8024DA07C",
     "opta_id": null,
@@ -118805,7 +118805,7 @@
       "rookie_year": "2025",
       "source_id": "2fcac8b2-522e-4da1-8f8a-e2d14333f7ab"
     },
-    "news_updated": 1788737734194,
+    "news_updated": 1788797740474,
     "number": 32,
     "oddsjam_id": "E55F1CC467FCBE9A",
     "opta_id": null,
@@ -126846,7 +126846,7 @@
       "genius_id": "1500212",
       "rookie_year": "2025"
     },
-    "news_updated": 1788190813109,
+    "news_updated": 1788801643081,
     "number": 33,
     "oddsjam_id": "50D3055A655AA64C",
     "opta_id": null,
@@ -171444,7 +171444,7 @@
       "rookie_year": "2026",
       "source_id": "e540d3a0-8a15-11ec-afc6-9b22751babf7"
     },
-    "news_updated": 1788623717783,
+    "news_updated": 1788802240850,
     "number": 18,
     "oddsjam_id": null,
     "opta_id": null,
@@ -275315,7 +275315,7 @@
       "injury_override_regular_2025_4": "Out",
       "rookie_year": "2014"
     },
-    "news_updated": 1788787539508,
+    "news_updated": 1788800440849,
     "number": 5,
     "oddsjam_id": "4CE26B1D3BB5",
     "opta_id": null,
@@ -294100,7 +294100,7 @@
       "genius_id": "835484",
       "rookie_year": "2015"
     },
-    "news_updated": 1788401135607,
+    "news_updated": 1788799842080,
     "number": 88,
     "oddsjam_id": "0A3F18022F3C",
     "opta_id": null,
@@ -404987,7 +404987,7 @@
       "genius_id": "999472",
       "rookie_year": "2017"
     },
-    "news_updated": 1788758436053,
+    "news_updated": 1788795941631,
     "number": 85,
     "oddsjam_id": "42D0413964E3",
     "opta_id": null,
@@ -428270,7 +428270,7 @@
       "genius_id": "999716",
       "rookie_year": "2017"
     },
-    "news_updated": 1788037249260,
+    "news_updated": 1788795341743,
     "number": 13,
     "oddsjam_id": "57772FA91C9A",
     "opta_id": null,
@@ -454782,7 +454782,7 @@
       "genius_id": "1009030",
       "rookie_year": "2018"
     },
-    "news_updated": 1785366313345,
+    "news_updated": 1788801641506,
     "number": 21,
     "oddsjam_id": "6445CEFA1739",
     "opta_id": null,
@@ -457178,7 +457178,7 @@
       "genius_id": "1007274",
       "rookie_year": "2018"
     },
-    "news_updated": 1787010937604,
+    "news_updated": 1788796541936,
     "number": 3,
     "oddsjam_id": "89A30D73E1DF",
     "opta_id": null,
@@ -513984,7 +513984,7 @@
     "first_name": "Taylor",
     "full_name": "Taylor Rapp",
     "gsis_id": " 00-0035663",
-    "hashtag": "#taylorrapp-NFL-FA-33",
+    "hashtag": "#taylorrapp-NFL-DEN-33",
     "height": "72",
     "high_school": "Sehome (WA)",
     "injury_body_part": null,
@@ -513998,7 +513998,7 @@
       "genius_id": "1005719",
       "rookie_year": "2019"
     },
-    "news_updated": 1787786458434,
+    "news_updated": 1788795941614,
     "number": 33,
     "oddsjam_id": "26696768CE43",
     "opta_id": null,
@@ -514019,7 +514019,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 913599,
-    "team": null,
+    "team": "DEN",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "208",
@@ -518322,7 +518322,7 @@
       "injury_override_regular_2025_7": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1788383134625,
+    "news_updated": 1788793539892,
     "number": 3,
     "oddsjam_id": "67FF12F3845C",
     "opta_id": null,
@@ -576280,7 +576280,7 @@
       "genius_id": "1014085",
       "rookie_year": "2020"
     },
-    "news_updated": 1788134158103,
+    "news_updated": 1788795341725,
     "number": 12,
     "oddsjam_id": "E409D9DF9C23",
     "opta_id": null,
@@ -586288,7 +586288,7 @@
       "genius_id": "1008015",
       "rookie_year": "2020"
     },
-    "news_updated": 1788450005879,
+    "news_updated": 1788792339664,
     "number": 83,
     "oddsjam_id": "EF80F08FBD39",
     "opta_id": null,
@@ -629620,7 +629620,7 @@
       "genius_id": "1081507",
       "rookie_year": "2021"
     },
-    "news_updated": 1788744337030,
+    "news_updated": 1788796541920,
     "number": 90,
     "oddsjam_id": "4A43FFAE34A1",
     "opta_id": null,
@@ -660039,7 +660039,7 @@
       "genius_id": "1085245",
       "rookie_year": "2022"
     },
-    "news_updated": 1788446141207,
+    "news_updated": 1788796240353,
     "number": 87,
     "oddsjam_id": "E00598C28F10",
     "opta_id": null,
@@ -696199,7 +696199,7 @@
       "injury_override_regular_2024_7": "IR",
       "rookie_year": "2022"
     },
-    "news_updated": 1788735333531,
+    "news_updated": 1788797140308,
     "number": 22,
     "oddsjam_id": "FA37E8B4FCFA",
     "opta_id": null,
@@ -715876,7 +715876,7 @@
       "genius_id": "1399020",
       "rookie_year": "2023"
     },
-    "news_updated": 1788553222506,
+    "news_updated": 1788792339663,
     "number": 8,
     "oddsjam_id": "89BECF1D28D6",
     "opta_id": null,
@@ -718817,7 +718817,7 @@
       "genius_id": "1399238",
       "rookie_year": "2023"
     },
-    "news_updated": 1788729934531,
+    "news_updated": 1788801340727,
     "number": 12,
     "oddsjam_id": "3EFD62DFAF78",
     "opta_id": null,
@@ -719723,7 +719723,7 @@
       "genius_id": "1408290",
       "rookie_year": "2023"
     },
-    "news_updated": 1788366631123,
+    "news_updated": 1788801640778,
     "number": 44,
     "oddsjam_id": "4E3EED0F7B55",
     "opta_id": null,
@@ -720085,7 +720085,7 @@
       "genius_id": "1400569",
       "rookie_year": "2023"
     },
-    "news_updated": 1788465306968,
+    "news_updated": 1788792639778,
     "number": 34,
     "oddsjam_id": "5222B174E30D",
     "opta_id": null,
