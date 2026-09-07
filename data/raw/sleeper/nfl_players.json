@@ -45690,10 +45690,10 @@
     "hashtag": "#emanuelwilson-NFL-SEA-27",
     "height": "70",
     "high_school": "North Meck (NC)",
-    "injury_body_part": "Hamstring",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "be77dd14-08f9-4f34-b28b-f65699213670",
     "last_name": "Wilson",
     "metadata": {
@@ -45701,7 +45701,7 @@
       "genius_id": "1401671",
       "rookie_year": "2023"
     },
-    "news_updated": 1787804459888,
+    "news_updated": 1788739234408,
     "number": 27,
     "oddsjam_id": "E139F37E808F",
     "opta_id": null,
@@ -116595,7 +116595,7 @@
       "rookie_year": "2025",
       "source_id": "31e9d3d5-d1bb-4562-960f-51ae4f54b2c4"
     },
-    "news_updated": 1788657925976,
+    "news_updated": 1788738934224,
     "number": 15,
     "oddsjam_id": "A4FBB695165BC649",
     "opta_id": null,
@@ -123426,7 +123426,7 @@
       "rookie_year": "2025",
       "source_id": "f566c840-8504-11ec-9e7e-8150518d6298"
     },
-    "news_updated": 1788578424662,
+    "news_updated": 1788738634360,
     "number": 3,
     "oddsjam_id": "4C2FB085586B537F",
     "opta_id": null,
