@@ -9908,7 +9908,7 @@
     },
     {
       "cbs_player_id": "2967891",
-      "player_bye_week": "11",
+      "player_bye_week": null,
       "player_ecr_delta": -31,
       "player_eligibility": "LB",
       "player_filename": "edefuan-ulofoshio.php",
@@ -9921,7 +9921,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "E. Ulofoshio",
-      "player_team_id": "CLE",
+      "player_team_id": "FA",
       "player_yahoo_id": "41036",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB279",

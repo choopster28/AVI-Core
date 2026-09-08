@@ -990,10 +990,10 @@
     "sleeper_id": "5967"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "18706",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NYG",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Darius Slayton",
     "position": "WR",
     "sleeper_id": "6149"
@@ -1287,10 +1287,10 @@
     "sleeper_id": "7021"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "19747",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "IND",
     "player_name": "Nick Westbrook-Ikhine",
     "position": "WR",
     "sleeper_id": "7496"
@@ -2439,10 +2439,10 @@
     "sleeper_id": "8136"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "23893",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DEN",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Michael Woods II",
     "position": "WR",
     "sleeper_id": "8202"

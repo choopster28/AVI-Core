@@ -483,7 +483,7 @@
     {
       "cbs_player_id": "2131909",
       "player_age": "30",
-      "player_bye_week": null,
+      "player_bye_week": "13",
       "player_ecr_delta": -7,
       "player_eligibility": "K",
       "player_filename": "jason-sanders.php",
@@ -496,7 +496,7 @@
       "player_position_id": "K",
       "player_positions": "K",
       "player_short_name": "J. Sanders",
-      "player_team_id": "FA",
+      "player_team_id": "NYJ",
       "player_yahoo_id": "31199",
       "player_yahoo_positions": "K",
       "pos_rank": "K18",

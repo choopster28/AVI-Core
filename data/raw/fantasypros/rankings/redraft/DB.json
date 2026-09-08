@@ -12084,7 +12084,7 @@
     },
     {
       "cbs_player_id": "2185537",
-      "player_bye_week": null,
+      "player_bye_week": "9",
       "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "isaiah-oliver.php",
@@ -12097,7 +12097,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "I. Oliver",
-      "player_team_id": "FA",
+      "player_team_id": "TEN",
       "player_yahoo_id": "31028",
       "player_yahoo_positions": "S",
       "pos_rank": "CB229",

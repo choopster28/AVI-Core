@@ -12170,7 +12170,7 @@
     },
     {
       "cbs_player_id": "3125114",
-      "player_bye_week": "11",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "elijah-chatman.php",
@@ -12183,7 +12183,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "E. Chatman",
-      "player_team_id": "CLE",
+      "player_team_id": "FA",
       "player_yahoo_id": "41634",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT215",
