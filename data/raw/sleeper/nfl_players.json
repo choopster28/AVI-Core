@@ -12690,7 +12690,7 @@
       "genius_id": "1399018",
       "rookie_year": "2023"
     },
-    "news_updated": 1767902151935,
+    "news_updated": 1788888052012,
     "number": 32,
     "oddsjam_id": "A3269E4C23CE",
     "opta_id": null,
@@ -37357,7 +37357,7 @@
     "team": "GB",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "201",
+    "weight": "200",
     "yahoo_id": null,
     "years_exp": 3
   },
@@ -55379,7 +55379,7 @@
       "genius_id": "1463731",
       "rookie_year": "2024"
     },
-    "news_updated": 1788384932956,
+    "news_updated": 1788890151146,
     "number": 32,
     "oddsjam_id": "BB0614A43AA9",
     "opta_id": null,
@@ -57834,7 +57834,7 @@
       "injury_override_regular_2025_1": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1788843945553,
+    "news_updated": 1788888050533,
     "number": 11,
     "oddsjam_id": "E4EB05AD5052",
     "opta_id": null,
@@ -58013,7 +58013,7 @@
       "genius_id": "1463680",
       "rookie_year": "2024"
     },
-    "news_updated": 1788808242038,
+    "news_updated": 1788888950573,
     "number": 15,
     "oddsjam_id": "3549D00B532B",
     "opta_id": null,
@@ -58547,10 +58547,10 @@
     "hashtag": "#devontezwalker-NFL-BAL-81",
     "height": "73",
     "high_school": "West Charlotte (NC)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "8e5ff354-5190-4fb0-a507-f42a19d818b6",
     "last_name": "Walker",
     "metadata": {
@@ -58558,7 +58558,7 @@
       "genius_id": "1463963",
       "rookie_year": "2024"
     },
-    "news_updated": 1787986244067,
+    "news_updated": 1788890451154,
     "number": 81,
     "oddsjam_id": "8761214CCFC6",
     "opta_id": null,
@@ -98653,7 +98653,7 @@
     "team": "LAR",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "221",
+    "weight": "226",
     "yahoo_id": null,
     "years_exp": 2
   },
@@ -112569,7 +112569,7 @@
     "team": "LAR",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "254",
+    "weight": "265",
     "yahoo_id": null,
     "years_exp": 2
   },
@@ -121697,7 +121697,7 @@
       "rookie_year": "2025",
       "source_id": "8f0c26be-2ff0-45be-9d24-b0b6b08bc775"
     },
-    "news_updated": 1770091251894,
+    "news_updated": 1788888052545,
     "number": 15,
     "oddsjam_id": "E8B0D847FA951452",
     "opta_id": null,
@@ -126418,7 +126418,7 @@
       "genius_id": "1487692",
       "rookie_year": "2025"
     },
-    "news_updated": 1786749045001,
+    "news_updated": 1788888052514,
     "number": 40,
     "oddsjam_id": "507BF25AFECB5E4C",
     "opta_id": null,
@@ -172730,7 +172730,7 @@
       "rookie_year": "2026",
       "source_id": "2c31c750-9cef-11ed-92f5-b5837be9eb74"
     },
-    "news_updated": 1788718531980,
+    "news_updated": 1788889251092,
     "number": 16,
     "oddsjam_id": null,
     "opta_id": null,
@@ -181495,7 +181495,7 @@
       "channel_id": "1353579188153507840",
       "rookie_year": "2026"
     },
-    "news_updated": 1777081217510,
+    "news_updated": 1788888052740,
     "number": 9,
     "oddsjam_id": null,
     "opta_id": null,
@@ -276035,7 +276035,7 @@
     "team": "LAR",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "280",
+    "weight": "285",
     "yahoo_id": 27541,
     "years_exp": 12
   },
@@ -393646,7 +393646,7 @@
       "genius_id": "998871",
       "rookie_year": "2017"
     },
-    "news_updated": 1788705330538,
+    "news_updated": 1788889550651,
     "number": 15,
     "oddsjam_id": "B671C99CB711",
     "opta_id": null,
@@ -400156,7 +400156,7 @@
     "first_name": "Jonnu",
     "full_name": "Jonnu Smith",
     "gsis_id": "00-0033858",
-    "hashtag": "#jonnusmith-NFL-GB-81",
+    "hashtag": "#jonnusmith-NFL-GB-18",
     "height": "75",
     "high_school": "West Port (FL)",
     "injury_body_part": null,
@@ -400171,7 +400171,7 @@
       "rookie_year": "2017"
     },
     "news_updated": 1787848852476,
-    "number": 81,
+    "number": 18,
     "oddsjam_id": "00023D6FEA5A",
     "opta_id": null,
     "pandascore_id": null,
@@ -400349,7 +400349,7 @@
       "genius_id": "999821",
       "rookie_year": "2017"
     },
-    "news_updated": 1788701430262,
+    "news_updated": 1788888050537,
     "number": 34,
     "oddsjam_id": "192F6515EE16",
     "opta_id": null,
@@ -453197,7 +453197,7 @@
     "first_name": "Scott",
     "full_name": "Scott Daly",
     "gsis_id": "00-0034067",
-    "hashtag": "#scottdaly-NFL-GB-71",
+    "hashtag": "#scottdaly-NFL-GB-46",
     "height": "74",
     "high_school": "Downers Grove South (IL)",
     "injury_body_part": null,
@@ -453212,7 +453212,7 @@
       "rookie_year": "2018"
     },
     "news_updated": 1778513709667,
-    "number": 71,
+    "number": 46,
     "oddsjam_id": "F0806E7C8075",
     "opta_id": null,
     "pandascore_id": null,
@@ -453235,7 +453235,7 @@
     "team": "GB",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "245",
+    "weight": "248",
     "yahoo_id": 30970,
     "years_exp": 8
   },
@@ -510566,7 +510566,7 @@
       "genius_id": "756585",
       "rookie_year": "2010"
     },
-    "news_updated": 1780452053090,
+    "news_updated": 1788888352064,
     "number": 55,
     "oddsjam_id": "ABEFC001CE71",
     "opta_id": null,
@@ -522261,7 +522261,7 @@
     "first_name": "Kevin",
     "full_name": "Kevin Givens",
     "gsis_id": " 00-0035026",
-    "hashtag": "#kevingivens-NFL-FA-90",
+    "hashtag": "#kevingivens-NFL-SF-90",
     "height": "73",
     "high_school": "Altoona (PA)",
     "injury_body_part": null,
@@ -522296,7 +522296,7 @@
     "stats_id": 883319,
     "status": "Active",
     "swish_id": 883319,
-    "team": null,
+    "team": "SF",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "285",
@@ -587550,7 +587550,7 @@
       "genius_id": "1013418",
       "rookie_year": "2020"
     },
-    "news_updated": 1788465907043,
+    "news_updated": 1788887150299,
     "number": 13,
     "oddsjam_id": "F8EB1DB18219",
     "opta_id": null,
@@ -650172,8 +650172,8 @@
     "first_name": "Foster",
     "full_name": "Foster Sarell",
     "gsis_id": null,
-    "hashtag": "#fostersarell-NFL-FA-70",
-    "height": "78",
+    "hashtag": "#fostersarell-NFL-SF-61",
+    "height": "79",
     "high_school": "Graham-Kapowsin (WA)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -650187,7 +650187,7 @@
       "rookie_year": "2021"
     },
     "news_updated": null,
-    "number": 70,
+    "number": 61,
     "oddsjam_id": "611E39CABD4F",
     "opta_id": null,
     "pandascore_id": null,
@@ -650207,10 +650207,10 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 1060314,
-    "team": null,
+    "team": "SF",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "322",
+    "weight": "315",
     "yahoo_id": null,
     "years_exp": 5
   },
@@ -662276,7 +662276,7 @@
       "genius_id": "1343369",
       "rookie_year": "2022"
     },
-    "news_updated": 1788885350151,
+    "news_updated": 1788889551084,
     "number": 20,
     "oddsjam_id": "648A95BBCC7F",
     "opta_id": null,
@@ -676341,7 +676341,7 @@
       "genius_id": "1077396",
       "rookie_year": "2022"
     },
-    "news_updated": 1788193813726,
+    "news_updated": 1788888352047,
     "number": 6,
     "oddsjam_id": "2B0483CA383A",
     "opta_id": null,
@@ -723651,7 +723651,7 @@
       "genius_id": "1398595",
       "rookie_year": "2023"
     },
-    "news_updated": 1788453605820,
+    "news_updated": 1788890750848,
     "number": 4,
     "oddsjam_id": "F39E10BEE1F4",
     "opta_id": null,
