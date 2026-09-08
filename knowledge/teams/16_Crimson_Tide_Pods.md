@@ -307,7 +307,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: TB
 - Active: True
 - Status: Active
-- Age: 21.0
+- Age: 22.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

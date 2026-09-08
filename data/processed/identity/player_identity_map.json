@@ -936,15 +936,6 @@
     "sleeper_id": "5937"
   },
   {
-    "confidence": "verified",
-    "fantasypros_id": "18616",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "PIT",
-    "player_name": "Travis Homer",
-    "position": "RB",
-    "sleeper_id": "6012"
-  },
-  {
     "confidence": "review",
     "fantasypros_id": "18621",
     "match_method": "exact_name_position",
@@ -2404,12 +2395,30 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "23798",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NE",
+    "player_name": "Hassan Haskins",
+    "position": "RB",
+    "sleeper_id": "8123"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23812",
     "match_method": "exact_name_position_unique",
     "nfl_team": "DEN",
     "player_name": "Tyler Badie",
     "position": "RB",
     "sleeper_id": "8208"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "23829",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NYJ",
+    "player_name": "Jelani Woods",
+    "position": "TE",
+    "sleeper_id": "8219"
   },
   {
     "confidence": "verified",
@@ -2689,15 +2698,6 @@
     "player_name": "KeAndre Lambert-Smith",
     "position": "WR",
     "sleeper_id": "12670"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "24572",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "CHI",
-    "player_name": "Brittain Brown",
-    "position": "RB",
-    "sleeper_id": "8423"
   },
   {
     "confidence": "verified",
@@ -4114,21 +4114,21 @@
   },
   {
     "confidence": "verified",
-    "fantasypros_id": "27805",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "MIN",
-    "player_name": "Myles Price",
-    "position": "WR",
-    "sleeper_id": "13075"
-  },
-  {
-    "confidence": "verified",
     "fantasypros_id": "27810",
     "match_method": "exact_name_position_unique",
     "nfl_team": "CHI",
     "player_name": "Jahdae Walker",
     "position": "WR",
     "sleeper_id": "13079"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "27866",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PHI",
+    "player_name": "Darius Cooper",
+    "position": "WR",
+    "sleeper_id": "13150"
   },
   {
     "confidence": "verified",
@@ -4471,15 +4471,6 @@
     "player_name": "Max Bredeson",
     "position": "RB",
     "sleeper_id": "13516"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "28435",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "PIT",
-    "player_name": "Kaden Wetjen",
-    "position": "WR",
-    "sleeper_id": "13491"
   },
   {
     "confidence": "verified",

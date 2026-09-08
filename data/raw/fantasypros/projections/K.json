@@ -79,10 +79,10 @@
       "stats": {
         "fg": 28.28,
         "fga": 33.81,
-        "points": 135.99,
-        "points_half": 135.99,
-        "points_ppr": 135.99,
-        "xpt": 51.16
+        "points": 135.89,
+        "points_half": 135.89,
+        "points_ppr": 135.89,
+        "xpt": 51.06
       },
       "team_id": "DET"
     },
@@ -111,10 +111,10 @@
       "stats": {
         "fg": 30.57,
         "fga": 35.15,
-        "points": 135.21,
-        "points_half": 135.21,
-        "points_ppr": 135.21,
-        "xpt": 43.49
+        "points": 135.16,
+        "points_half": 135.16,
+        "points_ppr": 135.16,
+        "xpt": 43.44
       },
       "team_id": "IND"
     },
@@ -127,10 +127,10 @@
       "stats": {
         "fg": 29.99,
         "fga": 34.49,
-        "points": 133.26,
-        "points_half": 133.26,
-        "points_ppr": 133.26,
-        "xpt": 43.29
+        "points": 133.17,
+        "points_half": 133.17,
+        "points_ppr": 133.17,
+        "xpt": 43.2
       },
       "team_id": "CHI"
     },
@@ -143,10 +143,10 @@
       "stats": {
         "fg": 31.52,
         "fga": 36.16,
-        "points": 132.86,
-        "points_half": 132.86,
-        "points_ppr": 132.86,
-        "xpt": 38.29
+        "points": 132.82,
+        "points_half": 132.82,
+        "points_ppr": 132.82,
+        "xpt": 38.25
       },
       "team_id": "TB"
     },
@@ -159,10 +159,10 @@
       "stats": {
         "fg": 31.04,
         "fga": 34.69,
-        "points": 132.58,
-        "points_half": 132.58,
-        "points_ppr": 132.58,
-        "xpt": 39.46
+        "points": 132.53,
+        "points_half": 132.53,
+        "points_ppr": 132.53,
+        "xpt": 39.41
       },
       "team_id": "SF"
     },
@@ -271,10 +271,10 @@
       "stats": {
         "fg": 28.93,
         "fga": 34.13,
-        "points": 126.99,
-        "points_half": 126.99,
-        "points_ppr": 126.99,
-        "xpt": 40.21
+        "points": 126.9,
+        "points_half": 126.9,
+        "points_ppr": 126.9,
+        "xpt": 40.12
       },
       "team_id": "GB"
     },
@@ -287,10 +287,10 @@
       "stats": {
         "fg": 25.61,
         "fga": 30.53,
-        "points": 123.66,
-        "points_half": 123.66,
-        "points_ppr": 123.66,
-        "xpt": 46.83
+        "points": 123.62,
+        "points_half": 123.62,
+        "points_ppr": 123.62,
+        "xpt": 46.79
       },
       "team_id": "BUF"
     },
@@ -303,10 +303,10 @@
       "stats": {
         "fg": 29.55,
         "fga": 34.68,
-        "points": 121.46,
-        "points_half": 121.46,
-        "points_ppr": 121.46,
-        "xpt": 32.82
+        "points": 121.41,
+        "points_half": 121.41,
+        "points_ppr": 121.41,
+        "xpt": 32.77
       },
       "team_id": "NO"
     },
@@ -319,10 +319,10 @@
       "stats": {
         "fg": 28.34,
         "fga": 31.15,
-        "points": 121.07,
-        "points_half": 121.07,
-        "points_ppr": 121.07,
-        "xpt": 36.04
+        "points": 121.02,
+        "points_half": 121.02,
+        "points_ppr": 121.02,
+        "xpt": 35.99
       },
       "team_id": "ATL"
     },
@@ -335,10 +335,10 @@
       "stats": {
         "fg": 25.79,
         "fga": 30.88,
-        "points": 119.47,
-        "points_half": 119.47,
-        "points_ppr": 119.47,
-        "xpt": 42.09
+        "points": 119.43,
+        "points_half": 119.43,
+        "points_ppr": 119.43,
+        "xpt": 42.05
       },
       "team_id": "NE"
     },
@@ -383,10 +383,10 @@
       "stats": {
         "fg": 26.55,
         "fga": 32.15,
-        "points": 116.71,
-        "points_half": 116.71,
-        "points_ppr": 116.71,
-        "xpt": 37.06
+        "points": 116.67,
+        "points_half": 116.67,
+        "points_ppr": 116.67,
+        "xpt": 37.02
       },
       "team_id": "WAS"
     },
@@ -399,10 +399,10 @@
       "stats": {
         "fg": 27.85,
         "fga": 32.07,
-        "points": 114.31,
-        "points_half": 114.31,
-        "points_ppr": 114.31,
-        "xpt": 30.75
+        "points": 114.26,
+        "points_half": 114.26,
+        "points_ppr": 114.26,
+        "xpt": 30.7
       },
       "team_id": "MIA"
     },
@@ -431,10 +431,10 @@
       "stats": {
         "fg": 26.62,
         "fga": 32.8,
-        "points": 111.69,
-        "points_half": 111.69,
-        "points_ppr": 111.69,
-        "xpt": 31.84
+        "points": 111.65,
+        "points_half": 111.65,
+        "points_ppr": 111.65,
+        "xpt": 31.8
       },
       "team_id": "NYJ"
     },
@@ -463,10 +463,10 @@
       "stats": {
         "fg": 25.51,
         "fga": 30.16,
-        "points": 108,
-        "points_half": 108,
-        "points_ppr": 108,
-        "xpt": 31.48
+        "points": 107.95,
+        "points_half": 107.95,
+        "points_ppr": 107.95,
+        "xpt": 31.43
       },
       "team_id": "CAR"
     },

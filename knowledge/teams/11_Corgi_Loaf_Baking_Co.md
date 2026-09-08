@@ -270,7 +270,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Current owner roster ID: 11
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: NYG
+- NFL team: None
 - Active: True
 - Status: Active
 - Age: 29.0
