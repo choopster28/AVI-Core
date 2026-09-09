@@ -9,24 +9,24 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-09-08
+- Last updated from Sleeper exports: 2026-09-09
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 20
-- offense: 12
+- offense: 13
 - kickers: 1
-- idp: 7
+- idp: 6
 - other: 0
 - keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 633.4
 - championship_lineup_c_avi_avg: 79.17
-- offensive_roster_c_avi_sum: 821.9
-- offensive_roster_c_avi_avg: 68.49
-- offensive_roster_d_avi_sum: 961.0
-- offensive_roster_d_avi_avg: 80.08
+- offensive_roster_c_avi_sum: 844.3
+- offensive_roster_c_avi_avg: 64.95
+- offensive_roster_d_avi_sum: 1001.4
+- offensive_roster_d_avi_avg: 77.03
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -124,6 +124,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 69.6
 - Dynasty AVI (D-AVI, 0-100): 87.6
 - Projected PPR points: 192.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Roschon Johnson
+- Player name: Roschon Johnson
+- Player ID: 10235
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: CHI
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 22.4
+- Dynasty AVI (D-AVI, 0-100): 40.4
+- Projected PPR points: 34.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -291,23 +308,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: CJ Allen
-- Player name: CJ Allen
-- Player ID: 13388
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: LB
-- Fantasy positions: ['LB']
-- NFL team: IND
-- Active: True
-- Status: Active
-- Age: 21.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

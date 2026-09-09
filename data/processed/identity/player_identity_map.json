@@ -2197,6 +2197,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "23141",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CAR",
+    "player_name": "Haynes King",
+    "position": "QB",
+    "sleeper_id": "13415"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23144",
     "match_method": "exact_name_position_unique",
     "nfl_team": "PHI",
@@ -2677,7 +2686,7 @@
     "fantasypros_id": "24370",
     "match_method": "exact_name_position_unique",
     "nfl_team": "HOU",
-    "player_name": "Mitch Tinsley",
+    "player_name": "Mitchell Tinsley",
     "position": "WR",
     "sleeper_id": "11068"
   },
@@ -4471,6 +4480,15 @@
     "player_name": "Max Bredeson",
     "position": "RB",
     "sleeper_id": "13516"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "28435",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "PIT",
+    "player_name": "Kaden Wetjen",
+    "position": "WR",
+    "sleeper_id": "13491"
   },
   {
     "confidence": "verified",
