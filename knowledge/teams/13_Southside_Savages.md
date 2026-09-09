@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 633.4
-- championship_lineup_c_avi_avg: 79.17
-- offensive_roster_c_avi_sum: 844.3
-- offensive_roster_c_avi_avg: 64.95
+- championship_lineup_c_avi_sum: 611.0
+- championship_lineup_c_avi_avg: 76.38
+- offensive_roster_c_avi_sum: 816.3
+- offensive_roster_c_avi_avg: 62.79
 - offensive_roster_d_avi_sum: 1001.4
 - offensive_roster_d_avi_avg: 77.03
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 97.5 | D-AVI: 92.2
-- RB: Josh Jacobs | C-AVI: 85.0 | D-AVI: 86.7
 - RB: Travis Etienne | C-AVI: 81.2 | D-AVI: 87.5
+- RB: TreVeyon Henderson | C-AVI: 69.6 | D-AVI: 87.6
 - WR: Tetairoa McMillan | C-AVI: 87.1 | D-AVI: 95.0
 - WR: Jaylen Waddle | C-AVI: 79.0 | D-AVI: 89.5
 - TE: Chig Okonkwo | C-AVI: 56.3 | D-AVI: 73.7
 - FLEX: Luther Burden | C-AVI: 77.7 | D-AVI: 89.8
-- FLEX: TreVeyon Henderson | C-AVI: 69.6 | D-AVI: 87.6
+- FLEX: Jayden Reed | C-AVI: 62.6 | D-AVI: 77.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -76,23 +76,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Josh Jacobs
-- Player name: Josh Jacobs
-- Player ID: 5850
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): 85.0
-- Dynasty AVI (D-AVI, 0-100): 86.7
-- Projected PPR points: 248.6
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Travis Etienne
 - Player name: Travis Etienne
 - Player ID: 7543
@@ -124,6 +107,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 69.6
 - Dynasty AVI (D-AVI, 0-100): 87.6
 - Projected PPR points: 192.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Josh Jacobs
+- Player name: Josh Jacobs
+- Player ID: 5850
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 57.0
+- Dynasty AVI (D-AVI, 0-100): 86.7
+- Projected PPR points: 248.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
