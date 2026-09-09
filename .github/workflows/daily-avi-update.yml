@@ -58,39 +58,10 @@ jobs:
         id: tests
         run: python -m pytest -q
 
-      - name: Run complete AVI daily update
+      - name: Run authoritative AVI daily pipeline
         id: daily_update
         continue-on-error: true
         run: python -m avi.cli daily-update
-
-      - name: Apply global in-season C-AVI transition
-        if: always() && steps.tests.outcome == 'success'
-        run: |
-          python - <<'PY'
-          from avi.valuation.in_season import apply_in_season_transition
-          result = apply_in_season_transition()
-          print(result)
-          PY
-
-      - name: Apply saved manual C-AVI adjustments
-        if: always() && steps.tests.outcome == 'success'
-        run: |
-          python - <<'PY'
-          from avi.valuation.risk_adjustments import apply_cavi_risk_adjustments
-          result = apply_cavi_risk_adjustments()
-          print(result)
-          PY
-
-      - name: Refresh website-facing AVI reports
-        if: always() && steps.tests.outcome == 'success'
-        continue-on-error: true
-        run: |
-          python - <<'PY'
-          from avi.reports.team_profiles import build_team_profiles
-          from avi.reports.player_lookup import build_player_lookup
-          build_team_profiles()
-          build_player_lookup()
-          PY
 
       - name: Report update result
         if: always() && steps.tests.outcome == 'success'
@@ -98,7 +69,7 @@ jobs:
           echo "Daily update outcome: ${{ steps.daily_update.outcome }}"
 
           if [ "${{ steps.daily_update.outcome }}" = "failure" ]; then
-            echo "::warning::The complete AVI daily update did not finish. Successfully written files plus in-season transition/risk adjustments will still be uploaded and committed."
+            echo "::warning::The complete AVI daily pipeline did not finish. No second valuation pass is run outside the pipeline; inspect the failed pipeline step before trusting partial outputs."
           fi
 
       - name: Upload complete AVI snapshot
@@ -143,7 +114,7 @@ jobs:
 
             if ! git rebase origin/main; then
               echo "Rebase conflict detected."
-              git rebase --abort
+              git rebase --abort || true
               exit 1
             fi
 
