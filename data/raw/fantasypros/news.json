@@ -1,7 +1,203 @@
 {
-  "count": 24,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-09 16:30:12",
+      "created_formated": "Wed, Sep 9th 4:30pm UTC",
+      "desc": "Shedeur Sanders is expected to be active as Cleveland's backup quarterback in Week 1.",
+      "id": 606724,
+      "impact": "Deshaun Watson won the starting QB job for the Browns, and now the team has confirmed the Sanders is going to be active on gamedays and serve as their backup quarterback in Week 1. He won't seen the field in any large capacity for the foreseeable future, barring any injury to Watson.",
+      "link": "https://www.fantasypros.com/nfl/news/606724/shedeur-sanders-expected-to-be-qb2-week-1.php",
+      "player_id": 25968,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Shedeur Sanders expected to be QB2 in Week 1"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-09 16:27:24",
+      "created_formated": "Wed, Sep 9th 4:27pm UTC",
+      "desc": "Jakobi Meyers (hand) was spotted wearing a red non-contact jersey at practice on Wednesday.",
+      "id": 606723,
+      "impact": "It appears that Meyers is not over his hand injury yet, as it left him in a red non-contact jersey at the team's first practice of the week on Wednesday. If this issue leaves him sidelined for Week 1, fantasy managers should expect Parker Washington to be a great fantasy option against the Cleveland Browns.",
+      "link": "https://www.fantasypros.com/nfl/news/606723/jakobi-meyers-hand-seen-non-contact-jersey-wednesday.php",
+      "player_id": 18598,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Jakobi Meyers (hand) seen in non-contact jersey Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-09 16:19:26",
+      "created_formated": "Wed, Sep 9th 4:19pm UTC",
+      "desc": "Sean Tucker (undisclosed) was not spotted at Tampa Bay's practice on Wednesday.",
+      "id": 606722,
+      "impact": "Tucker has missed time with an undisclosed injury recently. He was not spotted at Wednesday's practice as well, which is not a good sign for his availability ahead of Week 1. If he's ruled out, Kenny Gainwell will be primed for more work in his absence.",
+      "link": "https://www.fantasypros.com/nfl/news/606722/sean-tucker-not-seen-practice-wednesday.php",
+      "player_id": 23679,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Sean Tucker not seen at practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-09 16:17:06",
+      "created_formated": "Wed, Sep 9th 4:17pm UTC",
+      "desc": "Jalen McMillan (knee) is participating at Tampa Bay's practice on Wednesday.",
+      "id": 606721,
+      "impact": "McMillan is taking part in Tampa Bay's first official practice of the week on Wednesday. He was sidelined for part of the offseason due to a knee injury, but he seems to be nearly full health at this point and looks likely to play in Week 1. We should learn more when the team's official injury report comes out after practice.",
+      "link": "https://www.fantasypros.com/nfl/news/606721/jalen-mcmillan-knee-participating-practice-wednesday.php",
+      "player_id": 23179,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Jalen McMillan (knee) participating at practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-09 16:15:04",
+      "created_formated": "Wed, Sep 9th 4:15pm UTC",
+      "desc": "Emeka Egbuka (toe) was seen practicing for the Buccaneers on Wednesday.",
+      "id": 606720,
+      "impact": "Egbuka has been dealing with a nagging toe injury for several weeks, but he was seen practicing with the Buccaneers on Wednesday ahead of their season opener against the Bengals on Sunday. That's a good sign for his health heading into Week 1, but fantasy managers should keep tabs on further updates about his health in the coming days to see whether or not he will be fully healthy for the first game of the season.",
+      "link": "https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php",
+      "player_id": 23062,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Emeka Egbuka (toe) seen practicing Wednesday"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-09 15:11:34",
+      "created_formated": "Wed, Sep 9th 3:11pm UTC",
+      "desc": "LeQuint Allen Jr. is expected to be a game-time decision for Week 1. ",
+      "id": 606717,
+      "impact": "Allen missed the last couple of weeks of camp due to a soft-tissue injury in his lower body. Head coach Liam Coen has suggested that the second-year running back's participation level in practice this week will go a long way towards determining his availability for Sunday. Allen is expected to contribute mostly on third-down situations and possibly special teams this season. Ameer Abdullah would likely see some opportunities if Allen cannot go. ",
+      "link": "https://www.fantasypros.com/nfl/news/606717/lequint-allen-jr-soft-tissue-to-be-game-time-decision.php",
+      "player_id": 27285,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "LeQuint Allen Jr. (soft tissue) to be game-time decision"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-09 14:23:11",
+      "created_formated": "Wed, Sep 9th 2:23pm UTC",
+      "desc": "Jihad Ward signed a contract to join the Vikings' practice squad. ",
+      "id": 606716,
+      "impact": "Ward, who spent the 2024 season with the Vikings, rejoins his former team to provide more veteran depth on defense. Ward played in all 17 games with the Titans last season, recording 31 total tackles and five sacks. ",
+      "link": "https://www.fantasypros.com/nfl/news/606716/jihad-ward-joins-vikings-practice-squad.php",
+      "player_id": 15630,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jihad Ward joins Vikings' practice squad "
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-09 13:28:21",
+      "created_formated": "Wed, Sep 9th 1:28pm UTC",
+      "desc": "Nick Bosa (knee) has been practicing and will play in the 49ers' season opener on Thursday. ",
+      "id": 606712,
+      "impact": "Bosa is coming off what was largely a lost season that was ended early by a torn ACL. The five-time Pro Bowler has been working his way back this preseason and says he's \"100 percent ready to go\" for Week 1. The 49ers take on the division-rival Rams on Thursday in Australia. ",
+      "link": "https://www.fantasypros.com/nfl/news/606712/nick-bosa-knee-ready-to-go-week-1.php",
+      "player_id": 18199,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Nick Bosa (knee) ready to go for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-09 03:06:51",
+      "created_formated": "Wed, Sep 9th 3:06am UTC",
+      "desc": "49ers DT Alfred Collins tore patellar tendon in practice and is out for the season. ",
+      "id": 606679,
+      "impact": "It is another brutal injury for the 49ers, even while they're in Australia. The depth on the defensive line takes a hit for San Francisco just two days before the start of the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/606679/alfred-collins-out-season-with-torn-patellar-tendon.php",
+      "player_id": 27079,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Alfred Collins out for season with torn patellar tendon"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-07 21:11:25",
+      "created_formated": "Mon, Sep 7th 9:11pm UTC",
+      "desc": "Jeremiyah Love is improving as the Cardinals approach Week 1. When asked about Love's status for the season opener, HC Mike LaFleur said \"I feel good.\"",
+      "id": 606424,
+      "impact": "Love has been struggling with a high ankle sprain injury for a few weeks now, but this is a promising sign for his return. The first round rookie should be in line for a nice workload, and he flashed serious ability in his limited preseason action.",
+      "link": "https://www.fantasypros.com/nfl/news/606424/jeremiyah-love-status-improving-week-1.php",
+      "player_id": 25403,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Jeremiyah Love: status improving for Week 1"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-08 22:32:59",
+      "created_formated": "Tue, Sep 8th 10:32pm UTC",
+      "desc": "Puka Nacua is not listed on the Rams initial injury report for Week 1.",
+      "id": 606631,
+      "impact": "Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.",
+      "link": "https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php",
+      "player_id": 23180,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Puka Nacua not listed on Rams first injury report"
+    },
     {
       "author": "Ari Koslow",
       "categories": [
@@ -37,42 +233,6 @@
       "sport_id": "NFL",
       "team_id": "LAR",
       "title": "Myles Garrett (knee) expected to play Thursday "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-08 22:32:59",
-      "created_formated": "Tue, Sep 8th 10:32pm UTC",
-      "desc": "Puka Nacua is not listed on the Rams initial injury report for Week 1.",
-      "id": 606631,
-      "impact": "Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.",
-      "link": "https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php",
-      "player_id": 23180,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Puka Nacua not listed on Rams first injury report"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-07 21:11:25",
-      "created_formated": "Mon, Sep 7th 9:11pm UTC",
-      "desc": "Jeremiyah Love is improving as the Cardinals approach Week 1. When asked about Love's status for the season opener, HC Mike LaFleur said \"I feel good.\"",
-      "id": 606424,
-      "impact": "Love has been struggling with a high ankle sprain injury for a few weeks now, but this is a promising sign for his return. The first round rookie should be in line for a nice workload, and he flashed serious ability in his limited preseason action.",
-      "link": "https://www.fantasypros.com/nfl/news/606424/jeremiyah-love-status-improving-week-1.php",
-      "player_id": 25403,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Jeremiyah Love: status improving for Week 1"
     },
     {
       "author": "Ari Koslow",
@@ -289,145 +449,6 @@
       "sport_id": "NFL",
       "team_id": "LAR",
       "title": "Aaron Donald ruled out for Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-08 19:09:51",
-      "created_formated": "Tue, Sep 8th 7:09pm UTC",
-      "desc": "The Steelers have listed Mason Rudolph as their QB2 on the Week 1 depth chart. ",
-      "id": 606580,
-      "impact": "Will Howard is No. 3 and rookie Drew Allar is No. 4 on the opening depth chart as the Steelers kept all four quarterbacks on the roster. ",
-      "link": "https://www.fantasypros.com/nfl/news/606580/mason-rudolph-listed-steelers-qb2-on-week-1-depth-chart.php",
-      "player_id": 17234,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Mason Rudolph listed as Steelers' QB2 on Week 1 depth chart"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-08 19:05:34",
-      "created_formated": "Tue, Sep 8th 7:05pm UTC",
-      "desc": "Josh Simmons is not expected to play in the Chiefs season opener against the Broncos. ",
-      "id": 606579,
-      "impact": "Simmons has been sidelined with a back injury. Chiefs coach Andy Reid said rookie UDFA Kahlil Benson would likely start at left tackle in Week 1.",
-      "link": "https://www.fantasypros.com/nfl/news/606579/josh-simmons-back-not-expected-to-play-week-1.php",
-      "player_id": 27026,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Josh Simmons (back) not expected to play Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-08 19:03:36",
-      "created_formated": "Tue, Sep 8th 7:03pm UTC",
-      "desc": "Chiefs coach Andy Reid said rookie UDFA Kahlil Benson would likely start at left tackle in Week 1.",
-      "id": 606578,
-      "impact": "Benson is likely to start in place of the injured Josh Simmons. It is not exactly ideal in Patrick Mahomes first start back off his torn ACL. ",
-      "link": "https://www.fantasypros.com/nfl/news/606578/kahlil-benson-to-likely-start-lt-week-1-chiefs.php",
-      "player_id": 28357,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Kahlil Benson to likely start at left tackle Week 1 for Chiefs "
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-08 18:57:24",
-      "created_formated": "Tue, Sep 8th 6:57pm UTC",
-      "desc": "Tyler Allgeier was listed as the starting running back on the Cardinals' Week 1 depth chart.",
-      "id": 606577,
-      "impact": "Allgeier was listed as the starter ahead of rookie Jeremiyah Love after a training camp battle. Love has also been making his way back from an ankle sprain, which could be why Allgeier sees more carries in the early part of the season. If he does indeed get the start on Sunday, Allgeier could be an RB3 or deeper flex option in fantasy.",
-      "link": "https://www.fantasypros.com/nfl/news/606577/tyler-allgeier-listed-starter-on-cardinals-depth-chart.php",
-      "player_id": 24172,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Tyler Allgeier listed as starter on Cardinals depth chart"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-08 16:19:38",
-      "created_formated": "Tue, Sep 8th 4:19pm UTC",
-      "desc": "Breece Hall is trending towards playing in Week 1, per HC Aaron Glenn. The running back will practice today.",
-      "id": 606556,
-      "impact": "Hall was initially expected to be out two weeks with his groin injury, and this lines up well with his timeline. If he plays, he will be a high-end RB2 with RB1 upside.",
-      "link": "https://www.fantasypros.com/nfl/news/606556/breece-hall-groin-trending-towards-playing-week-1.php",
-      "player_id": 22982,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Breece Hall (groin) trending towards playing Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-08 17:33:45",
-      "created_formated": "Tue, Sep 8th 5:33pm UTC",
-      "desc": "Braxton Jones has officially been named the Bears starting left tackle.",
-      "id": 606568,
-      "impact": "Jones re-signed with Chicago on a one-year contract back in March. He was competing for the left tackle job in camp with Jedrick Wills. ",
-      "link": "https://www.fantasypros.com/nfl/news/606568/braxton-jones-named-bears-starting-left-tackle.php",
-      "player_id": 23785,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Braxton Jones named Bears starting left tackle"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-08 17:23:22",
-      "created_formated": "Tue, Sep 8th 5:23pm UTC",
-      "desc": "Bears CB Kyler Gordon is away from the team working with his own trainer to accelerate recovery.",
-      "id": 606567,
-      "impact": "Gordon is expected to return a few weeks into the season and begin practicing shortly thereafter. He is on injured reserve to open the season with a calf injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/606567/kyler-gordon-calf-expected-to-rejoin-team-few-weeks-into-season.php",
-      "player_id": 23765,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Kyler Gordon (calf) away from Bears working with trainer"
-    },
-    {
-      "author": "Diego Sandoval",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-08 17:19:37",
-      "created_formated": "Tue, Sep 8th 5:19pm UTC",
-      "desc": "Brandon Graham announced his retirement from the NFL on Tuesday.",
-      "id": 606566,
-      "impact": "Graham will hang up his cleats after spending 16 seasons with the Eagles. The defensive end earned one Pro Bowl honor and won a pair of Super Bowls with the Eagles in his career, missing just one game from 2012 to 2020.",
-      "link": "https://www.fantasypros.com/nfl/news/606566/brandon-graham-announces-retirement.php",
-      "player_id": 10821,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Brandon Graham announces retirement"
     }
   ],
   "public_api_limited": true,

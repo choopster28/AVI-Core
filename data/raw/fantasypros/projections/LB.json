@@ -1,5 +1,5 @@
 {
-  "count": "215",
+  "count": "216",
   "experts": [],
   "players": [
     {
@@ -1197,6 +1197,29 @@
         "points_ppr": 174.49
       },
       "team_id": "IND"
+    },
+    {
+      "filename": "myles-garrett.php",
+      "fpid": 16370,
+      "mflid": 13198,
+      "name": "Myles Garrett",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 20.31,
+        "def_ff": 2.8,
+        "def_fr": 0.85,
+        "def_int": 0.02,
+        "def_pd": 0.73,
+        "def_sack": 15.05,
+        "def_safety": 0,
+        "def_tackle": 51.27,
+        "def_td": 0.13,
+        "def_tlost": 0,
+        "points": 168.86,
+        "points_half": 168.86,
+        "points_ppr": 168.86
+      },
+      "team_id": "LAR"
     },
     {
       "filename": "brian-burns.php",

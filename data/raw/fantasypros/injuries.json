@@ -3479,9 +3479,9 @@
       "yahoo_id": "41819"
     },
     {
-      "comment": "",
+      "comment": "injured",
       "injury_type": "",
-      "injury_update_date": null,
+      "injury_update_date": "2026-09-08 12:00:00",
       "ir_weeks": [],
       "name": "Alfred Collins",
       "player_id": 27079,
@@ -3492,8 +3492,8 @@
       "practice_report_injury_type": null,
       "probability_of_playing": null,
       "rank": null,
-      "status": "",
-      "status_short": "",
+      "status": "OUT",
+      "status_short": "O",
       "team_id": "SF",
       "team_practice_1_submitted": false,
       "team_practice_2_submitted": false,

@@ -273,7 +273,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: SF
 - Active: True
 - Status: Inactive
-- Age: 25.0
+- Age: 26.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

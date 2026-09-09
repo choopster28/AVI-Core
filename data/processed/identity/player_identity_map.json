@@ -892,6 +892,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "18562",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "ARI",
+    "player_name": "Gardner Minshew II",
+    "position": "QB",
+    "sleeper_id": "6011"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "18585",
     "match_method": "exact_name_position_unique",
     "nfl_team": "BUF",
@@ -1575,15 +1584,6 @@
     "sleeper_id": "7585"
   },
   {
-    "confidence": "review",
-    "fantasypros_id": "22813",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
-    "player_name": "Elijah Mitchell",
-    "position": "RB",
-    "sleeper_id": "7561"
-  },
-  {
     "confidence": "verified",
     "fantasypros_id": "22833",
     "match_method": "exact_name_position_unique",
@@ -2215,6 +2215,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "23150",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CLE",
+    "player_name": "Dillon Gabriel",
+    "position": "QB",
+    "sleeper_id": "12486"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23152",
     "match_method": "exact_name_position_unique",
     "nfl_team": "SEA",
@@ -2491,6 +2500,15 @@
     "player_name": "Ronnie Rivers",
     "position": "RB",
     "sleeper_id": "8195"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "24029",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Tay Martin",
+    "position": "WR",
+    "sleeper_id": "8250"
   },
   {
     "confidence": "verified",
@@ -3205,6 +3223,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "25980",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "BUF",
+    "player_name": "Frank Gore Jr.",
+    "position": "RB",
+    "sleeper_id": "11573"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "25981",
     "match_method": "exact_name_position_unique",
     "nfl_team": "TB",
@@ -3913,6 +3940,15 @@
     "player_name": "Jordan James",
     "position": "RB",
     "sleeper_id": "12467"
+  },
+  {
+    "confidence": "verified",
+    "fantasypros_id": "27312",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "CLE",
+    "player_name": "Joe Royer",
+    "position": "TE",
+    "sleeper_id": "13435"
   },
   {
     "confidence": "verified",

@@ -1,5 +1,5 @@
 {
-  "count": "204",
+  "count": "203",
   "experts": [],
   "players": [
     {
@@ -3957,29 +3957,6 @@
         "points_ppr": 72.42
       },
       "team_id": "ATL"
-    },
-    {
-      "filename": "alfred-collins.php",
-      "fpid": 27079,
-      "mflid": 17148,
-      "name": "Alfred Collins",
-      "position_id": "DL",
-      "stats": {
-        "def_assist": 14.92,
-        "def_ff": 1.28,
-        "def_fr": 0.83,
-        "def_int": 0.05,
-        "def_pd": 1.14,
-        "def_sack": 1.78,
-        "def_safety": 0,
-        "def_tackle": 28.9,
-        "def_td": 0.03,
-        "def_tlost": 0,
-        "points": 72.24,
-        "points_half": 72.24,
-        "points_ppr": 72.24
-      },
-      "team_id": "SF"
     },
     {
       "filename": "cameron-jordan.php",
