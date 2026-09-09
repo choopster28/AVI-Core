@@ -1,0 +1,93 @@
+name: Apply C-AVI Adjustments
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/manual/cavi_risk_adjustments.json"
+      - "src/avi/valuation/in_season.py"
+      - "src/avi/valuation/risk_adjustments.py"
+      - ".github/workflows/apply-cavi-adjustments.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: avi-data-updates
+  cancel-in-progress: false
+
+jobs:
+  apply-adjustments:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out AVI Core
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install AVI Core
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e .
+          python -m pip install pytest
+
+      - name: Run valuation tests
+        run: python -m pytest -q
+
+      - name: Apply current valuation state and exceptional risk adjustments
+        run: |
+          python - <<'PY'
+          from avi.valuation.in_season import apply_in_season_transition
+          from avi.valuation.risk_adjustments import apply_cavi_risk_adjustments
+          from avi.reports.team_profiles import build_team_profiles
+          from avi.reports.player_lookup import build_player_lookup
+
+          print("In-season transition:", apply_in_season_transition())
+          print("Risk adjustments:", apply_cavi_risk_adjustments())
+          build_team_profiles()
+          build_player_lookup()
+          PY
+
+      - name: Commit refreshed valuation outputs
+        run: |
+          git config user.name "avi-automation"
+          git config user.email "avi-automation@users.noreply.github.com"
+
+          git add \
+            data/processed/avi/avi_players.json \
+            data/processed/avi/manifest.json \
+            data/processed/reports/player_lookup.json \
+            data/processed/reports/team_profiles_manifest.json \
+            knowledge/teams
+
+          if git diff --cached --quiet; then
+            echo "No C-AVI output changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Refresh C-AVI adjustments"
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              exit 1
+            fi
+            if git push origin HEAD:main; then
+              echo "Adjusted AVI outputs pushed successfully."
+              exit 0
+            fi
+            sleep 5
+          done
+
+          echo "Failed to push adjusted AVI outputs."
+          exit 1
