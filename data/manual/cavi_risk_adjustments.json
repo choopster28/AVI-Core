@@ -8,6 +8,13 @@
       "c_avi_adjustment": -4.5,
       "reason": "Current-season availability volatility from meaningful injury history plus off-field risk is not represented by the projection/ranking-only C-AVI inputs.",
       "review": "Reassess when availability/risk profile materially changes."
+    },
+    {
+      "avi_id": "AVI-00005850",
+      "player_name": "Josh Jacobs",
+      "c_avi_adjustment": -28.0,
+      "reason": "Current championship utility is materially reduced while Jacobs is on the NFL Commissioner's Exempt List and unavailable to practice or play, with no verified return date while the league review and pending legal matter remain unresolved. This adjustment prices football availability uncertainty and does not presume the outcome of the allegations.",
+      "review": "Reassess immediately when he is removed from the Commissioner's Exempt List, receives a defined suspension or return timeline, or his game availability materially changes."
     }
   ]
 }
