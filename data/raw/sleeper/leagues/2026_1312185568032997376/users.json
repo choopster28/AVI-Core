@@ -185,6 +185,7 @@
     "metadata": {
       "allow_pn": "on",
       "allow_sms": "on",
+      "archived": "off",
       "avatar": "https://sleepercdn.com/uploads/217b196aab8801763cb3966d4d5fb556.jpg",
       "mention_pn": "on",
       "team_name": "Gringo’s Goblins "
