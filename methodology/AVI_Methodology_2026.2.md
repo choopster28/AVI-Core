@@ -1,5 +1,39 @@
 # AVI Methodology 2026.2
 
+## C-AVI
+
+C-AVI measures current-season championship value in the Autobots non-Superflex league.
+
+### Preseason weighting
+
+| Component | Weight |
+|---|---:|
+| Refreshed current-season projection | 50% |
+| Autobots league context | 10% |
+| Public market | 30% |
+| Elite upside | 10% |
+| Actual current-season player points | 0% |
+
+### In-season weighting
+
+After at least one complete 2026 regular-season week is verified in the current FantasyPros player-points feed, the model transitions globally to:
+
+| Component | Weight |
+|---|---:|
+| Actual current-season player points | 10% |
+| Refreshed current-season projection | 40% |
+| Autobots league context | 10% |
+| Public market | 30% |
+| Elite upside | 10% |
+
+The transition applies to every supported offensive player, not selected players. Actual production is scored relative to the player's position. The daily pipeline refreshes projections and player-point data before recalculation.
+
+### Completed-week and freshness guard
+
+Current-season production is not consumed mid-week or from a stale prior-season payload. During the regular season, the player-points feed must contain at least one completed week, may not contain weeks beyond the latest completed NFL week, and must contain a minimum viable mapped player population. This prevents old or partial data from falsely activating the in-season model.
+
+Exceptional current-season availability risks that are not represented by public projections/rankings may receive a transparent post-model C-AVI risk adjustment. These adjustments must state the football-value reason and review trigger, are idempotent, and are applied before downstream team/player reports are generated.
+
 ## D-AVI
 
 D-AVI measures long-term dynasty value in the Autobots non-Superflex league.
