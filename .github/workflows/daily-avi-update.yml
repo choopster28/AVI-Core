@@ -63,6 +63,15 @@ jobs:
         continue-on-error: true
         run: python -m avi.cli daily-update
 
+      - name: Apply global in-season C-AVI transition
+        if: always() && steps.tests.outcome == 'success'
+        run: |
+          python - <<'PY'
+          from avi.valuation.in_season import apply_in_season_transition
+          result = apply_in_season_transition()
+          print(result)
+          PY
+
       - name: Apply saved manual C-AVI adjustments
         if: always() && steps.tests.outcome == 'success'
         run: |
@@ -89,7 +98,7 @@ jobs:
           echo "Daily update outcome: ${{ steps.daily_update.outcome }}"
 
           if [ "${{ steps.daily_update.outcome }}" = "failure" ]; then
-            echo "::warning::The complete AVI daily update did not finish. Successfully written files plus saved manual C-AVI adjustments will still be uploaded and committed."
+            echo "::warning::The complete AVI daily update did not finish. Successfully written files plus in-season transition/risk adjustments will still be uploaded and committed."
           fi
 
       - name: Upload complete AVI snapshot
