@@ -16,6 +16,7 @@ from avi.validation.source import (
     validate_fantasypros,
     validate_sleeper,
 )
+from avi.valuation.in_season import apply_in_season_transition
 from avi.valuation.risk_adjustments import apply_cavi_risk_adjustments
 
 
@@ -34,6 +35,10 @@ def run_daily_update(
     The pipeline stops immediately if any step raises an exception.
     This prevents downstream reports from being generated from
     incomplete or invalid source data.
+
+    C-AVI always flows through the same ordered valuation path:
+    base calculation -> verified in-season transition -> exceptional
+    current-season risk adjustments -> downstream reports.
     """
     started_at = datetime.now(
         UTC
@@ -73,6 +78,10 @@ def run_daily_update(
         (
             "calculate_avi",
             build_avi_players,
+        ),
+        (
+            "apply_in_season_transition",
+            apply_in_season_transition,
         ),
         (
             "apply_cavi_risk_adjustments",
