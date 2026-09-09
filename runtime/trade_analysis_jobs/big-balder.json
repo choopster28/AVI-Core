@@ -33,8 +33,341 @@
       }
     },
     "createdAt": 1788991258591,
-    "updatedAt": 1788991259715,
+    "updatedAt": 1788991306831,
     "expiresAt": 1789423258591,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This transaction represents an outstanding consolidation move for Big Balder Brand (Elite Contender). By combining Saquon Barkley, backup RB Tank Bigsby, and a 2027 2nd-round draft pick, Big Balder Brand upgrades its starting RB1 slot to De'Von Achane (97.3 C-AVI / 96.5 D-AVI) while shaving 5 full years off its core backfield age. Conquistadors (Champion Favorite) receives a high-end starter in Barkley (92.0 C-AVI) to maintain a championship starting lineup, secures complete backfield insurance with Bigsby, and acquires future draft liquidity (2027 2nd). Because Achane is publicly listed on the Autobots trade block and Barkley provides an immediate elite RB replacement, Market Reality yields a 90% acceptance probability. AVI strongly advises Big Balder Brand to ACCEPT this proposed offer.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 92,
+              "davi": 91.5,
+              "publicMarket": 88,
+              "leagueMarket": 92
+            },
+            {
+              "name": "2027 2nd · Goblins · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "Tank Bigsby",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 24,
+              "cavi": 41.1,
+              "davi": 63.3,
+              "publicMarket": 55,
+              "leagueMarket": 50
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.3,
+              "davi": 96.5,
+              "publicMarket": 95,
+              "leagueMarket": 97.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand achieves a premium roster upgrade, converting a 29-year-old starter (Saquon Barkley), a bench handcuff (Tank Bigsby), and a future 2nd-round pick into an elite 24-year-old superstar in De'Von Achane. Big Balder Brand's starting RB1 output increases from 92.0 C-AVI to 97.3 C-AVI while keeping FLEX starters Rashee Rice and Omarion Hampton intact. Conquistadors retains an elite RB2 starter in Barkley, locks up the entire Philadelphia backfield with Bigsby, and gains 2027 draft currency."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted proposal is optimal for Big Balder Brand and strongly recommended as constructed."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Upgrades starting RB1 from Saquon Barkley (92.0 C-AVI) to De'Von Achane (97.3 C-AVI), elevating immediate weekly ceiling."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Shaves 5 years off starting RB1 age (29.0 down to 24.0) and secures a premier long-term dynasty asset in Achane."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Directly boosts mandatory starting RB output while leaving FLEX starters (Rashee Rice, Omarion Hampton) completely untouched."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Surrenders backup RB Tank Bigsby, slightly trimming bench cushion behind Jeremiyah Love and Omarion Hampton."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Parts with a 2027 2nd-round pick, moderately reducing future trade capital."
+            },
+            "overall": {
+              "score": 16,
+              "summary": "Consolidates depth and pick capital into an elite, 24-year-old cornerstone RB1 while improving immediate starting lineup C-AVI."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Slight drop in RB2 starting projection (-5.3 C-AVI) going from Achane to Barkley, but Barkley remains an elite starter."
+            },
+            "dynastyOutlook": {
+              "score": -35,
+              "summary": "Takes on 5 additional years at the RB2 slot, trading a 24-year-old star for a 29-year-old, partially offset by a 2027 2nd pick."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Minor downgrade at starting RB2 from 97.3 C-AVI to 92.0 C-AVI, preserving Bijan Robinson, Puka Nacua, and Josh Allen at peak levels."
+            },
+            "depthResilience": {
+              "score": 60,
+              "summary": "Gains Tank Bigsby to secure complete ownership and handcuff protection over the Philadelphia backfield."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Adds a 2027 2nd-round draft pick to bolster future trade liquidity."
+            },
+            "overall": {
+              "score": -16,
+              "summary": "Acquires a proven lead RB1 in Saquon Barkley plus his direct handcuff Tank Bigsby and a 2027 2nd in exchange for Achane."
+            }
+          },
+          "explanation": "Big Balder Brand gains significant net value by leveraging bench depth and draft capital to purchase a younger, higher-scoring cornerstone RB1 in De'Von Achane. Conquistadors accepts a minor weekly downgrade at RB2 in exchange for backfield insurance (Bigsby) and future pick liquidity."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's mandatory starting RB1 output rises from 92.0 C-AVI (Saquon Barkley) to 97.3 C-AVI (De'Von Achane), boosting overall starting lineup C-AVI sum while preserving all starting WR and FLEX slots.",
+          "sideADynastyImpact": "D-AVI improves substantially. Replacing a 29.0-year-old RB with a 24.0-year-old dual-threat RB who signed a 4-year contract extension provides multi-year elite stability.",
+          "sideARosterImpact": "Bench depth decreases marginally by losing Tank Bigsby and a future 2nd-round pick, but Tyler Allgeier, Baker Mayfield, and Chris Godwin remain reliable reserves.",
+          "sideBChampionshipImpact": "Conquistadors absorbs a slight starting RB2 drop from Achane (97.3 C-AVI) to Barkley (92.0 C-AVI), maintaining a championship-caliber core alongside Bijan Robinson, Puka Nacua, Breece Hall, and Josh Allen.",
+          "sideBDynastyImpact": "D-AVI takes a modest hit by exchanging a 24-year-old RB for a 29-year-old RB, but acquiring a 2027 2nd-round pick provides compensatory dynasty liquidity.",
+          "sideBRosterImpact": "Conquistadors gains full security over the Eagles backfield by receiving Bigsby alongside Barkley, insulating their roster against injury variance.",
+          "valueAssessment": "Asset value strongly favors Big Balder Brand. Receiving a 97.3 C-AVI / 96.5 D-AVI cornerstone for a 92.0 C-AVI aging starter, a backup RB, and a 2nd-round pick is a strategic win for an Elite Contender."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty market consensus places De'Von Achane in the top tier of dynasty running backs following his multi-year extension and focal role in Miami's offense. Saquon Barkley remains a high-end redraft/dynasty RB1 for 2026 under Philadelphia's new wide-zone scheme, but age (29) creates a market tier gap between them.",
+          "aviVsMarket": "AVI and public market sentiment align cleanly: Achane is evaluated as an S-tier dynasty cornerstone (96.5 D-AVI), while Barkley is valued as an elite immediate producer with a shorter dynasty horizon (91.5 D-AVI). Bigsby is recognized as a premier cuff.",
+          "relevantContext": [
+            "Miami signed De'Von Achane to a 4-year contract extension ($32M guaranteed) in May 2026, anchoring his role as the focal point of the offense.",
+            "Saquon Barkley enters 2026 as Philadelphia's clear lead back, with Tank Bigsby operating as his primary backup and direct handcuff.",
+            "In deep 16-team formats, pairing a lead RB with his direct backup carries elevated insurance value for a championship contender."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors placed De'Von Achane on the public trade block. As a Champion Favorite, Conquistadors seeks to reconfigure assets, secure backfield insurance with Bigsby, and gain draft capital while maintaining an elite starting RB2 in Barkley.",
+          "packageFit": "The package offers Conquistadors an immediate, high-end starting RB replacement (Barkley) plus the exact handcuff (Bigsby) to eliminate backfield risk, alongside a 2027 2nd-round pick.",
+          "lineupReplacement": "Saquon Barkley (92.0 C-AVI) directly replaces Achane in Conquistadors' starting lineup next to Bijan Robinson, preventing any positional hole.",
+          "competitiveWindowFit": "Both franchises are in active championship windows (Big Balder Brand: Elite Contender, Conquistadors: Champion Favorite). The move preserves immediate title viability for both while extending Big Balder Brand's window.",
+          "positionalScarcity": "In a 16-team league, high-volume starting running backs are premium commodities. Acquiring a 24-year-old elite starter in Achane is a rare acquisition opportunity."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 20,
+            "packageMatch": 17,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 90,
+          "classification": "Highly Realistic",
+          "explanation": "De'Von Achane is explicitly listed on the commissioner-confirmed trade block. The offer provides Conquistadors with an immediate elite starter (Barkley), complete backfield insurance (Bigsby), and draft equity (2027 2nd). All Market Reality criteria pass."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "Big Balder Brand achieves a major strategic win. Upgrading starting RB1 from Saquon Barkley to De'Von Achane increases C-AVI (+5.3), reduces core backfield age by 5 years, and secures an S-tier dynasty cornerstone, all while keeping starting FLEX options (Rashee Rice, Omarion Hampton) fully intact. The cost—a backup RB and a future 2nd—is an exceptional price for an Elite Contender to pay for a elite multi-year upgrade.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 92,
+              "davi": 91.5,
+              "publicMarket": 88,
+              "leagueMarket": 92
+            },
+            {
+              "name": "2027 2nd · Goblins · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "Tank Bigsby",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 24,
+              "cavi": 41.1,
+              "davi": 63.3,
+              "publicMarket": 55,
+              "leagueMarket": 50
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.3,
+              "davi": 96.5,
+              "publicMarket": 95,
+              "leagueMarket": 97.3
+            }
+          ],
+          "whyUserShouldDoIt": "You upgrade your starting RB1 slot from Barkley (92.0 C-AVI) to Achane (97.3 C-AVI), shave 5 years off your primary backfield age, and secure a 24-year-old cornerstone without sacrificing any starting WR or FLEX starters.",
+          "whyOpponentMightAccept": "Conquistadors receives a proven elite starting RB in Barkley to pair with Bijan Robinson, locks up the entire Philadelphia backfield with Bigsby, and gains a 2027 2nd-round pick for a player they actively shopped on the trade block."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "DeVon Achane news 2026",
+          "Saquon Barkley news 2026",
+          "Tank Bigsby news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEU2lHrqPZvwtvFRWoXKBx-xn4_FivTLy3tyjRE_v-ObHz-3jT9WKlS_kqL53Z-ZFl4rRRARGH22aw-oHeaue8sYE2XtN5uxQISacFTNcP--LgBE9tpCgbrUgr8WxykP_s0k1loIi5NQ==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSS4tH6v6SM030KJEGa0uKGwy3kW8dHtwsCpIolXAQRFcplNPqbgV9lr9Q3jMbDjHFSN3fSl6VzWiWu_BtwYXmqBHqDbjMsQjoDv_hEYFK9WOaHBqFWtRpjr2i8lW27Z1PfEuUZqvfx66SkIidFJ8yXFnJieKzhNEXOh1KQT9gYxw9dceael0LlaI_r_9afrdioXlbSSogV9aQ8YXhBFFlsHB-3qM=",
+            "title": "insidethebirds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESQQYpCgEnPwxjd0jDstfzjKoM-3Vrz9jmCVpoWRoZy6RRy1oDcjbg42hBXLAhstEItwa0-iCi6Ds9Ol3eqkXQcGv1YZ0un9k0M3iHSTIsBo4nd3O2EbJGW7VZZugKWP6-E4QbIPRkZEkwemO0BEvaCof_5hr6PJ-0E7AeeH-EyFWkK1ZAuJEckKO-GFDkmj-c9pc5K_CKUlZRZBD2wM6bpuvID5ALA0lMpfWnvEpq",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF21vWWM1cxDRUh7untKCV8xJXWv-JMToUWaQgqcUXlFmHkmXoNWHnGAQ-U8MdzMJxxTDwmVpDAq-WMrFbqBnsw1YyR83unrUID4_P-pvbGuvzqddMf2FSh2fjXVgfyhS38xanqaExnIVBQtxWECLg=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0rtdv-hvoqoLXZ46oh_gc5fGa2weNGpQs6nvE9RYh09yQ3y4GXm1uFdCD7CPpYAFanr2ksZ7UT23DitAU1OIwyjMIjS1T-9nVeuFWCeh03L8neTuCtQF2ZTxL48kG4sajPuzXicxUDgB2hMT6ZyyNq462gFNrXezQt6D0joxsAgfuISO6MAcX209bsG9p4ZlH4kIipt2Oaq2jz5v9HoreQC08ugZpQmEuzJUZwQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLk8NiXU4BepL6D6iGg0Z8umR91F-EbplOzjYsgfSz5MwRdviq1yNduzV8IDNzGht3HvjThKJU90cOhM4l2Ju7f1nZCPlVi_KUfcOANTsjKTQ1Alzu6DP34YHESrTiDMdEC0wMRNfR-W_SkHH6IftxhH1p",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxnukrB83ENRi08d0wXdeQINK62KtLVUGrwH8m2TgW8I4U833nUrjWpR8VjF1Ub3lxS-b3sGNV3du77koK3EmgBGH4kC_PB8Hw17VK7S1wgJ-JqVKX0tjaRhLwQrkOkIsS9qBqIVBjyNety770YBN3hItpiacWoRHzKDvy1l7c9OQooI2QBifL5nrxz5ahdmnzFtlLQlkMzWfRuWU-SpapQQ==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgsY9ybrWqFhb1VsBjLSu_zaA-RVzWroeQNl-Z8dpQM8gdQMwxXjcaMqrfGn1mMaZSL_XiYR7Gnl75EvttPEk4iGVOI0euyb3Rmh4-jtDId5y703EcaEqzG-sAYor7ITt09kPf9A==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_TnKjFJNjHEA8IwB6vF3C722bBi-fQgm3YOlnPrLXDGdbvtkAlTu-BmYKGGVJ7ujYChAYiKqsP-YzAx_tTeYDRx9n7PpePNMIiGviv6oWxR7HwGMkQtOScDwX0HdX5IRNve0JDm-JDpojXDXAt6Rydjudo9ZYv9sSQQ==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDRf3gmIt5kVXqeUdMg5xragxzyHip4xNuDkTqYUcGIQpdRQJtbwMuvMyDtK6ylvM2qTg5JHhXb9fWtT9biBCNSysdJ2640M95uUYSPiOGXuQffPHieYK9GiJPsjVvCPdnXN8I2JhleKSpg_1Lx_Ep2epToLHJNzFThxA=",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8IwvOeTwCtqXzipuQJms-kf6q40fUlbKndLT_vl9RvH3VB5up5pdN-11FD6yfVPDhF_1UQLZu7-oDCRutOkq235qcdLj6W5Z9rl59s5afXLhhcfIKnVrseBPrzI7IJhS_3dB6V-_JtRLeeyZypsml7fPueUcuyWI7h5F-e77jiTYDJC8MHNPzWJv7kok=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe2RFZYtc8P2y_nqZ2uTyII727apt-I84TcK5w2KrLHkSHlqHSqBGodh6SpvSYhKglojBRcGik4mcZad9giDYVrzSMP5vukEMw-OiNEKgO3ZTUXWFQOWLHtXSpsXtX-okR0T2E0EtQ6rh5azU7OjO1VQJDpfrOvukzOFWku-S4",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxAp_bDAFFheYy_bNtsdLDcCH34gmDNQR3hky6AaiY74B_t7vYA7fEZAzr5tYA_maBwTCQqcNRKhYJjcwwGN1FBtVNqzBRpT_CIVkdJwCLAfUSzYXaEy4ILb8-avssbM-WB4YhkeH7OyoSDk6UfImkm7dRl4c7AZY94VVOTC20Hl48W2qXOJBToIWeAkBRGhVoetK_cJ80ULQc2HkMCpEElKescwuj0iu2HX3BTBGl_g5v8FpTEaHmv-z2ZMYlutecNaP0RH5bEASemFrYIg==",
+            "title": "atozsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "dedc1e37b5e33cc4452cc298d6780d10eba69853",
+        "aviCoreCommittedAt": "2026-09-09T21:47:30Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82408,
+        "groundedMarketChars": 3035,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
