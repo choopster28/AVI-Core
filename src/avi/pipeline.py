@@ -12,6 +12,7 @@ from avi.reports.historical_trades import build_historical_trades
 from avi.reports.player_lookup import build_player_lookup
 from avi.reports.team_profiles import build_team_profiles
 from avi.sleeper.updater import update as update_sleeper
+from avi.validation.publication import validate_publication
 from avi.validation.source import (
     validate_fantasypros,
     validate_sleeper,
@@ -38,7 +39,8 @@ def run_daily_update(
 
     C-AVI always flows through the same ordered valuation path:
     base calculation -> verified in-season transition -> exceptional
-    current-season risk adjustments -> downstream reports.
+    current-season risk adjustments -> downstream reports -> publication
+    integrity validation.
     """
     started_at = datetime.now(
         UTC
@@ -102,6 +104,10 @@ def run_daily_update(
         (
             "build_player_lookup",
             build_player_lookup,
+        ),
+        (
+            "validate_publication",
+            validate_publication,
         ),
     ]
 
