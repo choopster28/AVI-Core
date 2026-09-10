@@ -2331,7 +2331,7 @@
     "team": "LV",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "192",
+    "weight": "190",
     "yahoo_id": null,
     "years_exp": 3
   },
@@ -18614,7 +18614,7 @@
     "first_name": "Kendall",
     "full_name": "Kendall Williamson",
     "gsis_id": null,
-    "hashtag": "#kendallwilliamson-NFL-LAC-40",
+    "hashtag": "#kendallwilliamson-NFL-LAC-32",
     "height": "72",
     "high_school": "Brookwood (GA)",
     "injury_body_part": null,
@@ -18629,7 +18629,7 @@
       "rookie_year": "2023"
     },
     "news_updated": 1785991244238,
-    "number": 40,
+    "number": 32,
     "oddsjam_id": "46FB61B099B2",
     "opta_id": null,
     "pandascore_id": null,
@@ -23539,7 +23539,7 @@
     "first_name": "Caleb",
     "full_name": "Caleb Murphy",
     "gsis_id": null,
-    "hashtag": "#calebmurphy-NFL-FA-50",
+    "hashtag": "#calebmurphy-NFL-LAC-50",
     "height": "75",
     "high_school": "Dowagiac (MI)",
     "injury_body_part": null,
@@ -23574,7 +23574,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 1433998,
-    "team": null,
+    "team": "LAC",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "254",
@@ -45308,7 +45308,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "212",
+    "weight": "207",
     "yahoo_id": null,
     "years_exp": 3
   },
@@ -65795,7 +65795,7 @@
     "team": "LAC",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "317",
+    "weight": "316",
     "yahoo_id": null,
     "years_exp": 2
   },
@@ -116285,7 +116285,7 @@
       "rookie_year": "2025",
       "source_id": "e7af373f-e0f6-4e57-99f4-c7981087250e"
     },
-    "news_updated": 1788795040102,
+    "news_updated": 1789056903297,
     "number": 13,
     "oddsjam_id": "35DF24DDDDAB32DD",
     "opta_id": null,
@@ -116924,7 +116924,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "211",
+    "weight": "209",
     "yahoo_id": null,
     "years_exp": 1
   },
@@ -141201,7 +141201,7 @@
     "team": "LAC",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "208",
+    "weight": "210",
     "yahoo_id": null,
     "years_exp": 1
   },
@@ -154067,7 +154067,9 @@
     "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26227,
-    "fantasy_positions": null,
+    "fantasy_positions": [
+      "OL"
+    ],
     "first_name": "Eli",
     "full_name": "Eli Cox",
     "gsis_id": null,
@@ -171001,7 +171003,7 @@
     "first_name": "Mike",
     "full_name": "Mike Washington",
     "gsis_id": null,
-    "hashtag": "#mikewashington-NFL-LV-30",
+    "hashtag": "#mikewashington-NFL-LV-4",
     "height": "74",
     "high_school": "Cicero–North (NY)",
     "injury_body_part": null,
@@ -171017,7 +171019,7 @@
       "source_id": "6a695fd0-4b04-4185-8bb8-06d4f54a5739"
     },
     "news_updated": 1789052103003,
-    "number": 30,
+    "number": 4,
     "oddsjam_id": null,
     "opta_id": null,
     "pandascore_id": null,
@@ -179072,7 +179074,7 @@
       "rookie_year": "2026",
       "source_id": "5b3eac3f-fe81-4635-a564-5145dbcac6f2"
     },
-    "news_updated": 1788897951398,
+    "news_updated": 1789057803708,
     "number": 20,
     "oddsjam_id": null,
     "opta_id": null,
@@ -180881,7 +180883,9 @@
     "depth_chart_position": "OL",
     "espn_id": null,
     "fantasy_data_id": 26895,
-    "fantasy_positions": null,
+    "fantasy_positions": [
+      "OL"
+    ],
     "first_name": "Jake",
     "full_name": "Jake Slaughter",
     "gsis_id": null,
@@ -182439,7 +182443,9 @@
     "depth_chart_position": "OL",
     "espn_id": null,
     "fantasy_data_id": 26870,
-    "fantasy_positions": null,
+    "fantasy_positions": [
+      "OL"
+    ],
     "first_name": "Emmanuel",
     "full_name": "Emmanuel Pregnon",
     "gsis_id": null,
@@ -187988,7 +187994,7 @@
     "team": "LV",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "327",
+    "weight": "320",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -194696,7 +194702,9 @@
     "depth_chart_position": "OL",
     "espn_id": null,
     "fantasy_data_id": 28092,
-    "fantasy_positions": null,
+    "fantasy_positions": [
+      "OL"
+    ],
     "first_name": "Garrett",
     "full_name": "Garrett DiGiorgio",
     "gsis_id": null,
@@ -342656,7 +342664,7 @@
       "genius_id": "941271",
       "rookie_year": "2016"
     },
-    "news_updated": 1788930022906,
+    "news_updated": 1789057803711,
     "number": 7,
     "oddsjam_id": "9FF3592DDC0A",
     "opta_id": null,
@@ -393004,7 +393012,7 @@
       "genius_id": "998864",
       "rookie_year": "2017"
     },
-    "news_updated": 1789008634793,
+    "news_updated": 1789057203082,
     "number": 41,
     "oddsjam_id": "4DD7AD3020C5",
     "opta_id": null,
@@ -452265,7 +452273,7 @@
       "genius_id": "1010757",
       "rookie_year": "2018"
     },
-    "news_updated": 1789018237346,
+    "news_updated": 1789059004795,
     "number": 14,
     "oddsjam_id": "C635DED129E7",
     "opta_id": null,
@@ -511937,10 +511945,10 @@
     "hashtag": "#joshjacobs-NFL-GB-8",
     "height": "70",
     "high_school": "McLain (OK)",
-    "injury_body_part": "Groin",
+    "injury_body_part": "Personal",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "NA",
+    "injury_status": "Out",
     "kalshi_id": "40896f1d-701a-42f3-9cc1-ec0ce4f78913",
     "last_name": "Jacobs",
     "metadata": {
@@ -511950,7 +511958,7 @@
       "injury_override_regular_2025_12": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1788975934438,
+    "news_updated": 1789058103105,
     "number": 8,
     "oddsjam_id": "0614F08B6121",
     "opta_id": null,
@@ -518388,7 +518396,7 @@
       "injury_override_regular_2025_7": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1788988246636,
+    "news_updated": 1789057503676,
     "number": 3,
     "oddsjam_id": "67FF12F3845C",
     "opta_id": null,
@@ -527440,7 +527448,7 @@
     "first_name": "Matt",
     "full_name": "Matt Gay",
     "gsis_id": " 00-0035269",
-    "hashtag": "#mattgay-NFL-LV-4",
+    "hashtag": "#mattgay-NFL-LV-14",
     "height": "72",
     "high_school": "Orem (UT)",
     "injury_body_part": null,
@@ -527455,7 +527463,7 @@
       "rookie_year": "2019"
     },
     "news_updated": 1787892057022,
-    "number": 4,
+    "number": 14,
     "oddsjam_id": "0B60B7F466E8",
     "opta_id": null,
     "pandascore_id": null,
@@ -533757,7 +533765,7 @@
     "first_name": "Jahlani",
     "full_name": "Jahlani Tavai",
     "gsis_id": " 00-0035240",
-    "hashtag": "#jahlanitavai-NFL-JAX-32",
+    "hashtag": "#jahlanitavai-NFL-JAX-31",
     "height": "74",
     "high_school": "Mira Costa (CA)",
     "injury_body_part": null,
@@ -533772,7 +533780,7 @@
       "rookie_year": "2019"
     },
     "news_updated": 1786182029295,
-    "number": 32,
+    "number": 31,
     "oddsjam_id": "E48354D9AA16",
     "opta_id": null,
     "pandascore_id": null,
@@ -588726,7 +588734,7 @@
     "first_name": "Cody",
     "full_name": "Cody White",
     "gsis_id": null,
-    "hashtag": "#codywhite-NFL-LV-52",
+    "hashtag": "#codywhite-NFL-LV-82",
     "height": "75",
     "high_school": "Walled Lake Western (MI)",
     "injury_body_part": null,
@@ -588741,7 +588749,7 @@
       "rookie_year": "2020"
     },
     "news_updated": 1788316825520,
-    "number": 52,
+    "number": 82,
     "oddsjam_id": "5C97CA448D8F",
     "opta_id": null,
     "pandascore_id": null,
@@ -588764,7 +588772,7 @@
     "team": "LV",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "227",
+    "weight": "215",
     "yahoo_id": 32948,
     "years_exp": 6
   },
@@ -662339,7 +662347,7 @@
       "genius_id": "1343369",
       "rookie_year": "2022"
     },
-    "news_updated": 1789007434801,
+    "news_updated": 1789058703568,
     "number": 20,
     "oddsjam_id": "648A95BBCC7F",
     "opta_id": null,
@@ -671779,7 +671787,7 @@
     "team": "LAC",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "202",
+    "weight": "191",
     "yahoo_id": null,
     "years_exp": 4
   },
@@ -681659,7 +681667,7 @@
     "team": "LV",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "340",
+    "weight": "350",
     "yahoo_id": null,
     "years_exp": 4
   },
@@ -719789,7 +719797,7 @@
       "genius_id": "1408290",
       "rookie_year": "2023"
     },
-    "news_updated": 1789054805077,
+    "news_updated": 1789057203082,
     "number": 44,
     "oddsjam_id": "4E3EED0F7B55",
     "opta_id": null,
