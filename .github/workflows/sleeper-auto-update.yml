@@ -31,7 +31,7 @@ jobs:
 
       AVI_SEASON: "2026"
       AVI_SCORING: "PPR"
-      AVI_METHODOLOGY_VERSION: "2026.1"
+      AVI_METHODOLOGY_VERSION: "2026.2"
 
     steps:
       - name: Check out AVI Core
@@ -55,6 +55,21 @@ jobs:
 
       - name: Validate Sleeper data
         run: python -m avi.cli validate-sleeper
+
+      - name: Validate canonical AVI inputs before rebuilding derivatives
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          registry = json.loads(Path("data/processed/identity/avi_player_registry.json").read_text())
+          avi_players = json.loads(Path("data/processed/avi/avi_players.json").read_text())
+          if not isinstance(registry, list) or len(registry) < 300:
+              raise SystemExit(f"Canonical AVI registry is invalid ({len(registry) if isinstance(registry, list) else 'not a list'} players); refusing to publish derived Sleeper outputs.")
+          if not isinstance(avi_players, list) or len(avi_players) < 300:
+              raise SystemExit(f"Canonical AVI player output is invalid ({len(avi_players) if isinstance(avi_players, list) else 'not a list'} players); refusing to publish derived Sleeper outputs.")
+          print(f"Canonical AVI preflight passed: {len(registry)} registry players, {len(avi_players)} AVI players.")
+          PY
 
       - name: Rebuild player lookup
         run: python -m avi.cli build-player-lookup
@@ -94,7 +109,12 @@ jobs:
             echo "Push attempt ${attempt} of 3"
 
             git fetch origin main
-            git rebase origin/main
+
+            if ! git rebase origin/main; then
+              echo "Rebase conflict detected."
+              git rebase --abort || true
+              exit 1
+            fi
 
             if git push origin HEAD:main; then
               echo "Sleeper data pushed successfully."
