@@ -3,7 +3,12 @@ from __future__ import annotations
 from pathlib import Path
 
 from avi.config import AviConfig
+from avi.identity.resolver import extract_fantasypros_players
 from avi.io import read_json, write_json
+
+
+MIN_FANTASYPROS_PLAYERS = 300
+MIN_OFFENSIVE_PLAYERS = 250
 
 
 def validate_sleeper(config: AviConfig) -> dict:
@@ -50,6 +55,25 @@ def validate_fantasypros() -> dict:
     for path in required:
         if not path.exists():
             failures.append(f"Missing {path}")
+
+    players_path = Path("data/raw/fantasypros/players.json")
+    if players_path.exists():
+        try:
+            players = extract_fantasypros_players(read_json(players_path))
+            offensive = [
+                player for player in players
+                if player.get("position") in {"QB", "RB", "WR", "TE"}
+            ]
+            if len(players) < MIN_FANTASYPROS_PLAYERS:
+                failures.append(
+                    f"FantasyPros player directory is implausibly small: {len(players)} < {MIN_FANTASYPROS_PLAYERS}."
+                )
+            if len(offensive) < MIN_OFFENSIVE_PLAYERS:
+                failures.append(
+                    f"FantasyPros offensive player directory is implausibly small: {len(offensive)} < {MIN_OFFENSIVE_PLAYERS}."
+                )
+        except Exception as exc:
+            failures.append(f"FantasyPros player directory is unreadable: {type(exc).__name__}: {exc}")
 
     if manifest.get("player_points", {}).get("preseason_weight") != 0.0:
         failures.append("Player-points preseason weight must be zero.")
