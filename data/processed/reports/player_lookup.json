@@ -51,18 +51,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00009482",
-      "c_avi": 45.0,
-      "d_avi": 61.3,
-      "nfl_team": "LVR",
-      "player_name": "Michael Mayer",
-      "position": "TE",
-      "sleeper_id": "9482",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011597",
       "c_avi": 44.9,
       "d_avi": 62.3,
@@ -166,6 +154,18 @@
       "player_name": "Shedeur Sanders",
       "position": "QB",
       "sleeper_id": "12524",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00006149",
+      "c_avi": 37.2,
+      "d_avi": 53.8,
+      "nfl_team": "NYG",
+      "player_name": "Darius Slayton",
+      "position": "WR",
+      "sleeper_id": "6149",
       "status": "Active"
     },
     {
@@ -3321,22 +3321,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00006149",
-      "c_avi": 37.2,
-      "d_avi": 53.8,
-      "nfl_team": "NYG",
-      "owner_id": "986498458162970624",
-      "player_name": "Darius Slayton",
-      "position": "WR",
-      "roster_id": 11,
-      "sleeper_id": "6149",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00007090",
       "c_avi": 33.8,
       "d_avi": 60.8,
@@ -5173,6 +5157,22 @@
       "status": "Active",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00009482",
+      "c_avi": 45.0,
+      "d_avi": 61.3,
+      "nfl_team": "LVR",
+      "owner_id": "986498458162970624",
+      "player_name": "Michael Mayer",
+      "position": "TE",
+      "roster_id": 11,
+      "sleeper_id": "9482",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,

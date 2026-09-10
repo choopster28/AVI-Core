@@ -484,14 +484,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
-## PLAYER LOOKUP: Darius Slayton
-- Player name: Darius Slayton
-- Player ID: 6149
-- Position: WR
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
-
 ## PLAYER LOOKUP: Darnell Mooney
 - Player name: Darnell Mooney
 - Player ID: 7090
@@ -1412,6 +1404,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
 
+## PLAYER LOOKUP: Michael Mayer
+- Player name: Michael Mayer
+- Player ID: 9482
+- Position: TE
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Michael Penix
 - Player name: Michael Penix
 - Player ID: 11559
@@ -1986,15 +1986,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 62.1
 - Availability: available
 
-## AVAILABLE PLAYER: Michael Mayer
-- Player name: Michael Mayer
-- Player ID: 9482
-- Position: TE
-- NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 45.0
-- Dynasty AVI (D-AVI, 0-100): 61.3
-- Availability: available
-
 ## AVAILABLE PLAYER: Theo Johnson
 - Player name: Theo Johnson
 - Player ID: 11597
@@ -2074,6 +2065,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CLE
 - Championship AVI (C-AVI, 0-100): 38.1
 - Dynasty AVI (D-AVI, 0-100): 61.0
+- Availability: available
+
+## AVAILABLE PLAYER: Darius Slayton
+- Player name: Darius Slayton
+- Player ID: 6149
+- Position: WR
+- NFL team: NYG
+- Championship AVI (C-AVI, 0-100): 37.2
+- Dynasty AVI (D-AVI, 0-100): 53.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Deshaun Watson
