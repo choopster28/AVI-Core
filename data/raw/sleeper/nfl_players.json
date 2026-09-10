@@ -20601,8 +20601,8 @@
     "birth_state": null,
     "college": "Texas A&M",
     "competitions": [],
-    "depth_chart_order": null,
-    "depth_chart_position": null,
+    "depth_chart_order": 3,
+    "depth_chart_position": "LCB",
     "espn_id": null,
     "fantasy_data_id": 24208,
     "fantasy_positions": [
@@ -20611,7 +20611,7 @@
     "first_name": "Jaylon",
     "full_name": "Jaylon Jones",
     "gsis_id": null,
-    "hashtag": "#jaylonjones-NFL-FA-40",
+    "hashtag": "#jaylonjones-NFL-TEN-40",
     "height": "74",
     "high_school": "Byron P. Steele (TX)",
     "injury_body_part": null,
@@ -20646,7 +20646,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 1214337,
-    "team": null,
+    "team": "TEN",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "203",
@@ -33807,7 +33807,7 @@
       "genius_id": "1407983",
       "rookie_year": "2023"
     },
-    "news_updated": 1788985248013,
+    "news_updated": 1789068621860,
     "number": 17,
     "oddsjam_id": "D0AC4E7EAE45",
     "opta_id": null,
@@ -45701,7 +45701,7 @@
       "genius_id": "1401671",
       "rookie_year": "2023"
     },
-    "news_updated": 1789055404728,
+    "news_updated": 1789065920693,
     "number": 23,
     "oddsjam_id": "E139F37E808F",
     "opta_id": null,
@@ -53872,7 +53872,7 @@
       "genius_id": "1463663",
       "rookie_year": "2024"
     },
-    "news_updated": 1788985248062,
+    "news_updated": 1789069821980,
     "number": 9,
     "oddsjam_id": "4CC573CF0E13",
     "opta_id": null,
@@ -55022,7 +55022,7 @@
       "injury_override_regular_2025_5": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1788813342066,
+    "news_updated": 1789062903921,
     "number": 0,
     "oddsjam_id": "B5B42F29CCCF",
     "opta_id": null,
@@ -55502,7 +55502,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1788987046492,
+    "news_updated": 1789070422165,
     "number": 25,
     "oddsjam_id": "84C4F05F8EFF",
     "opta_id": null,
@@ -56881,7 +56881,7 @@
       "genius_id": "1463972",
       "rookie_year": "2024"
     },
-    "news_updated": 1789054805111,
+    "news_updated": 1789064120462,
     "number": 88,
     "oddsjam_id": "C8EAB5A7513D",
     "opta_id": null,
@@ -58013,7 +58013,7 @@
       "genius_id": "1463680",
       "rookie_year": "2024"
     },
-    "news_updated": 1789006534897,
+    "news_updated": 1789070420635,
     "number": 15,
     "oddsjam_id": "3549D00B532B",
     "opta_id": null,
@@ -58798,7 +58798,7 @@
       "genius_id": "1463675",
       "rookie_year": "2024"
     },
-    "news_updated": 1788984345767,
+    "news_updated": 1789069520840,
     "number": 1,
     "oddsjam_id": "8838562B2670",
     "opta_id": null,
@@ -60613,7 +60613,7 @@
       "genius_id": "719231",
       "rookie_year": "2012"
     },
-    "news_updated": 1788368130750,
+    "news_updated": 1789070420634,
     "number": 8,
     "oddsjam_id": "4A910E9C644A",
     "opta_id": null,
@@ -62132,7 +62132,7 @@
       "genius_id": "1463714",
       "rookie_year": "2024"
     },
-    "news_updated": 1785874508108,
+    "news_updated": 1789064422705,
     "number": 24,
     "oddsjam_id": "C97836239163",
     "opta_id": null,
@@ -67219,10 +67219,10 @@
     "hashtag": "#sedrickvanprangranger-NFL-IND-63",
     "height": "76",
     "high_school": "Warren Easton (LA)",
-    "injury_body_part": "Illness",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "82b26bbc-e230-43fd-812b-9e99724c512f",
     "last_name": "Van Pran-Granger",
     "metadata": {
@@ -107242,7 +107242,7 @@
     "birth_state": null,
     "college": "Temple",
     "competitions": [],
-    "depth_chart_order": 5,
+    "depth_chart_order": 4,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 25647,
@@ -116347,7 +116347,7 @@
       "rookie_year": "2025",
       "source_id": "53043fac-4bd3-4c20-8b72-b33f9da5ba60"
     },
-    "news_updated": 1788718831807,
+    "news_updated": 1789067720320,
     "number": 86,
     "oddsjam_id": "7B199EFCFEA900D6",
     "opta_id": null,
@@ -118316,7 +118316,7 @@
       "rookie_year": "2025",
       "source_id": "371cfdbc-6113-418d-8861-2b7ef21dacb7"
     },
-    "news_updated": 1788734733392,
+    "news_updated": 1789065320579,
     "number": 18,
     "oddsjam_id": "10E910A0AE1B1692",
     "opta_id": null,
@@ -118683,7 +118683,7 @@
       "rookie_year": "2025",
       "source_id": "792d3cd0-8f56-11ec-9f33-1965c9c46e44"
     },
-    "news_updated": 1789061403396,
+    "news_updated": 1789063221850,
     "number": 2,
     "oddsjam_id": "68B73F2163030874",
     "opta_id": null,
@@ -123364,7 +123364,7 @@
       "rookie_year": "2025",
       "source_id": "8b5c6ae3-2ea2-48aa-812b-bff7b646afaa"
     },
-    "news_updated": 1787075103864,
+    "news_updated": 1789064423004,
     "number": 1,
     "oddsjam_id": "3CF2FAD1A5014523",
     "opta_id": null,
@@ -148402,8 +148402,8 @@
     "birth_state": null,
     "college": "UC Davis",
     "competitions": [],
-    "depth_chart_order": 6,
-    "depth_chart_position": "RB",
+    "depth_chart_order": null,
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 25989,
     "fantasy_positions": [
@@ -158461,8 +158461,8 @@
     "birth_state": null,
     "college": "Southern Arkansas",
     "competitions": [],
-    "depth_chart_order": 3,
-    "depth_chart_position": "LCB",
+    "depth_chart_order": null,
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 26296,
     "fantasy_positions": [
@@ -169742,7 +169742,7 @@
       "rookie_year": "2026",
       "source_id": "34ee4830-92c4-11ed-8165-1b7b8311cdae"
     },
-    "news_updated": 1789062303835,
+    "news_updated": 1789063221837,
     "number": 4,
     "oddsjam_id": null,
     "opta_id": null,
@@ -171816,7 +171816,7 @@
       "rookie_year": "2026",
       "source_id": "79f43bd0-5454-11ef-814f-e33f9194084a"
     },
-    "news_updated": 1789062303904,
+    "news_updated": 1789065320108,
     "number": 17,
     "oddsjam_id": null,
     "opta_id": null,
@@ -172058,7 +172058,7 @@
       "rookie_year": "2026",
       "source_id": "b046fff0-f4e3-11ed-a667-83ab30160903"
     },
-    "news_updated": 1788985546426,
+    "news_updated": 1789070720985,
     "number": 17,
     "oddsjam_id": null,
     "opta_id": null,
@@ -172732,7 +172732,7 @@
       "rookie_year": "2026",
       "source_id": "2c31c750-9cef-11ed-92f5-b5837be9eb74"
     },
-    "news_updated": 1789008034771,
+    "news_updated": 1789063519932,
     "number": 16,
     "oddsjam_id": null,
     "opta_id": null,
@@ -176312,10 +176312,10 @@
     "hashtag": "#ajhaulcy-NFL-IND-25",
     "height": "71",
     "high_school": "Thurgood Marshall (TX)",
-    "injury_body_part": "Ankle",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "c2087e9a-7a30-40eb-8796-fa53ab730faa",
     "last_name": "Haulcy",
     "metadata": {
@@ -178586,7 +178586,7 @@
       "rookie_year": "2026",
       "source_id": "f0f9f984-0feb-4e43-9881-f075ca2b64e4"
     },
-    "news_updated": 1788981645458,
+    "news_updated": 1789063219935,
     "number": 7,
     "oddsjam_id": null,
     "opta_id": null,
@@ -178889,7 +178889,7 @@
       "rookie_year": "2026",
       "source_id": "7895bca0-8954-11ec-a69b-29b9a26b6a2e"
     },
-    "news_updated": 1789053904699,
+    "news_updated": 1789066820729,
     "number": 82,
     "oddsjam_id": null,
     "opta_id": null,
@@ -178926,7 +178926,7 @@
     "birth_state": null,
     "college": "Oklahoma",
     "competitions": [],
-    "depth_chart_order": 6,
+    "depth_chart_order": 5,
     "depth_chart_position": "TE",
     "espn_id": null,
     "fantasy_data_id": 26756,
@@ -182935,10 +182935,10 @@
     "hashtag": "#kendaldaniels-NFL-ATL-53",
     "height": "77",
     "high_school": "Beggs (OK)",
-    "injury_body_part": null,
+    "injury_body_part": "Achilles",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "c247a0b5-0095-49ca-bd38-66dc3291ed08",
     "last_name": "Daniels",
     "metadata": {
@@ -223216,7 +223216,7 @@
     "years_exp": 0
   },
   "14086": {
-    "active": true,
+    "active": false,
     "age": 48,
     "birth_city": null,
     "birth_country": null,
@@ -223244,7 +223244,8 @@
     "kalshi_id": "cb4116fa-f64f-4b51-b956-5a28e26f01d3",
     "last_name": "Smith",
     "metadata": {
-      "channel_id": "1400619194000666624"
+      "channel_id": "1400619194000666624",
+      "override_active": "false"
     },
     "news_updated": null,
     "number": 44,
@@ -346927,7 +346928,7 @@
       "injury_override_regular_2026_1": "Active",
       "rookie_year": "2016"
     },
-    "news_updated": 1788979235111,
+    "news_updated": 1789069820372,
     "number": 10,
     "oddsjam_id": "E207E864C191",
     "opta_id": null,
@@ -393137,7 +393138,7 @@
       "injury_override_regular_2025_9": "Out",
       "rookie_year": "2017"
     },
-    "news_updated": 1788400235219,
+    "news_updated": 1789065020342,
     "number": 14,
     "oddsjam_id": "A6A6245E3719",
     "opta_id": null,
@@ -393259,7 +393260,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2017"
     },
-    "news_updated": 1789054805058,
+    "news_updated": 1789067120814,
     "number": 10,
     "oddsjam_id": "2AC02BEBA7DF",
     "opta_id": null,
@@ -405063,7 +405064,7 @@
       "genius_id": "999472",
       "rookie_year": "2017"
     },
-    "news_updated": 1789050002298,
+    "news_updated": 1789062903539,
     "number": 85,
     "oddsjam_id": "42D0413964E3",
     "opta_id": null,
@@ -406420,10 +406421,10 @@
     "hashtag": "#xavierwoods-NFL-CHI-32",
     "height": "71",
     "high_school": "West Monroe (LA)",
-    "injury_body_part": null,
+    "injury_body_part": "Groin",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "1a5f554d-8ba9-420a-bb22-f5264075a979",
     "last_name": "Woods",
     "metadata": {
@@ -428346,7 +428347,7 @@
       "genius_id": "999716",
       "rookie_year": "2017"
     },
-    "news_updated": 1788795341743,
+    "news_updated": 1789070120994,
     "number": 13,
     "oddsjam_id": "57772FA91C9A",
     "opta_id": null,
@@ -452275,7 +452276,7 @@
       "genius_id": "1010757",
       "rookie_year": "2018"
     },
-    "news_updated": 1789060203231,
+    "news_updated": 1789065620072,
     "number": 14,
     "oddsjam_id": "C635DED129E7",
     "opta_id": null,
@@ -468588,7 +468589,7 @@
       "genius_id": "1007473",
       "rookie_year": "2018"
     },
-    "news_updated": 1787955039680,
+    "news_updated": 1789063519926,
     "number": 18,
     "oddsjam_id": "565DCFEF7659",
     "opta_id": null,
@@ -479279,10 +479280,10 @@
     "hashtag": "#dashawnhand-NFL-ATL-90",
     "height": "75",
     "high_school": "Woodbridge (VA)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "bc3b45d5-5bd5-4616-84c7-9b2b1f2302b5",
     "last_name": "Hand",
     "metadata": {
@@ -511960,7 +511961,7 @@
       "injury_override_regular_2025_12": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1789058103105,
+    "news_updated": 1789064440665,
     "number": 8,
     "oddsjam_id": "0614F08B6121",
     "opta_id": null,
@@ -514798,7 +514799,7 @@
       "genius_id": "1007483",
       "rookie_year": "2019"
     },
-    "news_updated": 1786054259340,
+    "news_updated": 1789064421723,
     "number": 22,
     "oddsjam_id": "A9B01103B244",
     "opta_id": null,
@@ -521570,7 +521571,7 @@
       "genius_id": "1013642",
       "rookie_year": "2019"
     },
-    "news_updated": 1788450005309,
+    "news_updated": 1789068320383,
     "number": 43,
     "oddsjam_id": "EFEA19FE377C",
     "opta_id": null,
@@ -524553,7 +524554,7 @@
       "genius_id": "1008109",
       "rookie_year": "2019"
     },
-    "news_updated": 1788981047173,
+    "news_updated": 1789067421775,
     "number": 26,
     "oddsjam_id": "C315B63E625D",
     "opta_id": null,
@@ -530007,10 +530008,10 @@
     "hashtag": "#jawaantaylor-NFL-ATL-71",
     "height": "77",
     "high_school": "Cocoa (FL)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "a228ff65-402d-47eb-a4d8-41c47959e3fd",
     "last_name": "Taylor",
     "metadata": {
@@ -533399,7 +533400,7 @@
     "college": "Utah",
     "competitions": [],
     "depth_chart_order": null,
-    "depth_chart_position": "P",
+    "depth_chart_position": null,
     "espn_id": 4035685,
     "fantasy_data_id": 20996,
     "fantasy_positions": [
@@ -570640,7 +570641,7 @@
       "injury_override_regular_2024_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1788784238682,
+    "news_updated": 1789071020532,
     "number": 1,
     "oddsjam_id": "66B708A8FB24",
     "opta_id": null,
@@ -596305,10 +596306,10 @@
     "hashtag": "#kylehinton-NFL-ATL-68",
     "height": "74",
     "high_school": "Liberty (AZ)",
-    "injury_body_part": "Knee",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "fa72e9f3-f97f-4b61-a62c-45bb919b4887",
     "last_name": "Hinton",
     "metadata": {
@@ -623471,7 +623472,7 @@
       "genius_id": "1085741",
       "rookie_year": "2021"
     },
-    "news_updated": 1788900051666,
+    "news_updated": 1789066520187,
     "number": 1,
     "oddsjam_id": "CB96A0691E08",
     "opta_id": null,
@@ -633625,10 +633626,10 @@
     "hashtag": "#bobbybrown-NFL-CAR-97",
     "height": "76",
     "high_school": "Lamar (TX)",
-    "injury_body_part": "Back",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "f3bdd5b4-bb45-4d20-ba56-a6e87992ad68",
     "last_name": "Brown",
     "metadata": {
@@ -661497,7 +661498,7 @@
       "genius_id": "1079211",
       "rookie_year": "2022"
     },
-    "news_updated": 1789004434452,
+    "news_updated": 1789071020878,
     "number": 14,
     "oddsjam_id": "1FEBF6F68F3D",
     "opta_id": null,
@@ -662349,7 +662350,7 @@
       "genius_id": "1343369",
       "rookie_year": "2022"
     },
-    "news_updated": 1789059603862,
+    "news_updated": 1789066822084,
     "number": 20,
     "oddsjam_id": "648A95BBCC7F",
     "opta_id": null,
@@ -666909,8 +666910,8 @@
     "birth_state": null,
     "college": "Tennessee",
     "competitions": [],
-    "depth_chart_order": 6,
-    "depth_chart_position": "RB",
+    "depth_chart_order": null,
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 23481,
     "fantasy_positions": [
@@ -676950,10 +676951,10 @@
     "hashtag": "#jaylenwatson-NFL-LAR-35",
     "height": "74",
     "high_school": "Lucy C. Laney (GA)",
-    "injury_body_part": "Toe",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "7483a212-de29-4101-9604-5523e987ca26",
     "last_name": "Watson",
     "metadata": {
@@ -676961,7 +676962,7 @@
       "genius_id": "1075080",
       "rookie_year": "2022"
     },
-    "news_updated": 1789005335392,
+    "news_updated": 1789066520611,
     "number": 35,
     "oddsjam_id": "EDEB24F2EEA7",
     "opta_id": null,
@@ -684659,10 +684660,10 @@
     "hashtag": "#drewogletree-NFL-IND-85",
     "height": "77",
     "high_school": "Northridge (OH)",
-    "injury_body_part": "Neck",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "fe4d501e-b7ed-494d-b962-ef46684a26b7",
     "last_name": "Ogletree",
     "metadata": {
@@ -686574,8 +686575,8 @@
     "birth_state": null,
     "college": "Yale",
     "competitions": [],
-    "depth_chart_order": 2,
-    "depth_chart_position": "SS",
+    "depth_chart_order": null,
+    "depth_chart_position": null,
     "espn_id": null,
     "fantasy_data_id": 23627,
     "fantasy_positions": [
@@ -696275,7 +696276,7 @@
       "injury_override_regular_2024_7": "IR",
       "rookie_year": "2022"
     },
-    "news_updated": 1789054805122,
+    "news_updated": 1789065320576,
     "number": 22,
     "oddsjam_id": "FA37E8B4FCFA",
     "opta_id": null,
@@ -716135,7 +716136,7 @@
       "genius_id": "1398548",
       "rookie_year": "2023"
     },
-    "news_updated": 1788486916319,
+    "news_updated": 1789069520453,
     "number": 9,
     "oddsjam_id": "D66ABAC4E9EF",
     "opta_id": null,
@@ -718409,7 +718410,7 @@
       "genius_id": "1399228",
       "rookie_year": "2023"
     },
-    "news_updated": 1788878149480,
+    "news_updated": 1789062903924,
     "number": 13,
     "oddsjam_id": "A600F04E54A1",
     "opta_id": null,
@@ -720749,7 +720750,7 @@
       "genius_id": "165525",
       "rookie_year": "2005"
     },
-    "news_updated": 1788648925114,
+    "news_updated": 1789069220431,
     "number": 8,
     "oddsjam_id": "16E7FD97D946",
     "opta_id": null,
@@ -723713,10 +723714,10 @@
     "hashtag": "#zayflowers-NFL-BAL-4",
     "height": "69",
     "high_school": "NSU University School (FL)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "65f41cb6-4d34-45f3-9a62-c6fec3713f8b",
     "last_name": "Flowers",
     "metadata": {
