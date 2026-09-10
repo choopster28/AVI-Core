@@ -19,6 +19,22 @@
     "candidate_count": 1,
     "candidates": [
       {
+        "name": "Michael Burton",
+        "position": "FB",
+        "sleeper_id": "2471",
+        "team": "CLE"
+      }
+    ],
+    "fantasypros_id": "14191",
+    "name": "Michael Burton",
+    "normalized_name": "michael burton",
+    "position": "RB",
+    "team": "CLE"
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
         "name": "Patrick Ricard",
         "position": "FB",
         "sleeper_id": "4353",
@@ -55,6 +71,22 @@
     "normalized_name": "alec ingold",
     "position": "RB",
     "team": "LAC"
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "name": "Adam Prentice",
+        "position": "FB",
+        "sleeper_id": "8025",
+        "team": "DEN"
+      }
+    ],
+    "fantasypros_id": "23451",
+    "name": "Adam Prentice",
+    "normalized_name": "adam prentice",
+    "position": "RB",
+    "team": "DEN"
   },
   {
     "candidate_count": 0,

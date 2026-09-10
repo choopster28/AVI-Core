@@ -2583,7 +2583,7 @@
     {
       "cbs_player_id": "2966543",
       "player_age": "27",
-      "player_bye_week": "7",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "jerome-ford.php",
@@ -2596,7 +2596,7 @@
       "player_position_id": "RB",
       "player_positions": "RB",
       "player_short_name": "J. Ford",
-      "player_team_id": "WAS",
+      "player_team_id": "FA",
       "player_yahoo_id": "34112",
       "player_yahoo_positions": "RB",
       "pos_rank": "RB93",
@@ -2638,7 +2638,7 @@
     },
     {
       "cbs_player_id": "2179323",
-      "player_age": "28",
+      "player_age": "29",
       "player_bye_week": "7",
       "player_ecr_delta": null,
       "player_eligibility": "RB",
