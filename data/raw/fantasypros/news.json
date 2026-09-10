@@ -3,6 +3,402 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-10 16:17:10",
+      "created_formated": "Thu, Sep 10th 4:17pm UTC",
+      "desc": "The Seahawks reportedly believe QB Sam Darnold \"dodged a bullet\" from his hip injury in Wednesday's season opener. ",
+      "id": 606938,
+      "impact": "Darnold underwent an MRI on his hip Thursday morning that team doctors still are reviewing to determine how much time he will miss. It sounds like he'll likely miss at least one or two games, but it appears he won't miss an extended period of time. ",
+      "link": "https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php",
+      "player_id": 17236,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Sam Darnold (hip) believed to have 'dodged a bullet'"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-10 16:14:02",
+      "created_formated": "Thu, Sep 10th 4:14pm UTC",
+      "desc": "Jakobi Meyers was in a non-contact jersey during practice on Thursday. ",
+      "id": 606936,
+      "impact": "Meyers remains up in the air for Sunday's season opener. His status will need to be monitored in practice on Friday. ",
+      "link": "https://www.fantasypros.com/nfl/news/606936/jakobi-meyers-thumb-non-contact-jersey-practice.php",
+      "player_id": 18598,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Jakobi Meyers (thumb) in non-contact jersey in practice"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:46:20",
+      "created_formated": "Thu, Sep 10th 3:46pm UTC",
+      "desc": "The Seahawks' D/ST logged three sacks and three interceptions while allowing just ten points in Wednesday night's win over the New England Patriots.",
+      "id": 606931,
+      "impact": "Seattle's defense put up a fantastic showing on Wednesday night. They not only held New England's strong offense to just ten points on the night, but they also recorded three interceptions, including one on the final drive of the game to seal the win. This unit is expected to be elite over the course of the season, assuming all of their key players remain healthy and on the field.",
+      "link": "https://www.fantasypros.com/nfl/news/606931/seahawks-dst-stellar-win-wednesday.php",
+      "player_id": 8260,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Seahawks D/ST stellar in win Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:44:16",
+      "created_formated": "Thu, Sep 10th 3:44pm UTC",
+      "desc": "Jason Myers went 2-for-2 on his field-goal attempts and made his lone extra-point attempt in Wednesday's 13-10 win over the New England Patriots.",
+      "id": 606930,
+      "impact": "Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php",
+      "player_id": 14003,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Jason Myers scores seven points in win Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:41:27",
+      "created_formated": "Thu, Sep 10th 3:41pm UTC",
+      "desc": "Emanuel Wilson rushed the ball two times for three yards in Wednesday's 13-10 win over the New England Patriots.",
+      "id": 606929,
+      "impact": "There were many questions about Seattle's backfield split over the course of the offseason, and we finally got some answers on Wednesday. One of the takeaways is that Wilson is not likely to be a significant contributor in the rotation, as he saw just two out of the team's 20 RB rushing attempts on the night. It looks like Jadarian Price and George Holani have squarely established themselves as the top two backs on this team, with Wilson being a distant third.",
+      "link": "https://www.fantasypros.com/nfl/news/606929/emanuel-wilson-uninvolved-win-wednesday.php",
+      "player_id": 25885,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Emanuel Wilson uninvolved in win Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:38:42",
+      "created_formated": "Thu, Sep 10th 3:38pm UTC",
+      "desc": "Cooper Kupp caught 2-of-3 targets for 35 yards in Wednesday night's 13-10 win over the New England Patriots.",
+      "id": 606928,
+      "impact": "Kupp didn't end up with a strong statline in the box score on Wednesday, but he was an important player for the Seahawks in this matchup. He made multiple key plays for them and had a touchdown that got called back due to penalty. He isn't likely to be fantasy relevant moving forward, however, especially if QB Sam Darnold (hip) misses time.",
+      "link": "https://www.fantasypros.com/nfl/news/606928/cooper-kupp-totals-35-yards-win-wednesday.php",
+      "player_id": 16433,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Cooper Kupp totals 35 yards in win Wednesday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-10 15:36:42",
+      "created_formated": "Thu, Sep 10th 3:36pm UTC",
+      "desc": "Sean Tucker was on the field for practice on Thursday. ",
+      "id": 606927,
+      "impact": "Tucker missed practice on Wednesday. He'll likely be at least a limited participant on Thursday. ",
+      "link": "https://www.fantasypros.com/nfl/news/606927/sean-tucker-hamstring-practice-thursday.php",
+      "player_id": 23679,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Sean Tucker (hamstring) at practice Thursday "
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:36:36",
+      "created_formated": "Thu, Sep 10th 3:36pm UTC",
+      "desc": "George Holani rushed the ball eight times for 29 yards and failed to haul in his lone target in Wednesday night's 13-10 win over the New England Patriots.",
+      "id": 606926,
+      "impact": "Holani saw solid involvement on Wednesday, receiving nine total opportunities over the course of the game. He didn't do much with them, but the fact that he had a pretty even split with rookie RB Jadarian Price is a bit concerning for Price's fantasy value moving forward. It's too soon to make any definitive judgements about this offense, however, as they were without their starting quarterback for almost the entire game on Wednesday.",
+      "link": "https://www.fantasypros.com/nfl/news/606926/george-holani-sees-nine-opportunities-win-wednesday.php",
+      "player_id": 22915,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "George Holani sees nine opportunities in win Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:34:16",
+      "created_formated": "Thu, Sep 10th 3:34pm UTC",
+      "desc": "AJ Barner caught two passes for 13 yards in Wednesday's 13-10 win over the New England Patriots.",
+      "id": 606925,
+      "impact": "The Seahawks were able to pick up a win over the Patriots on Wednesday, but they didn't need to get Barner very involved in order to do so. He finished the game with just two catches for 13 yards, and there's not much reason to believe that he will bounce back and become a quality week-to-week option anytime soon.",
+      "link": "https://www.fantasypros.com/nfl/news/606925/aj-barner-catches-two-passes-wednesday.php",
+      "player_id": 26335,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "AJ Barner catches two passes Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:32:24",
+      "created_formated": "Thu, Sep 10th 3:32pm UTC",
+      "desc": "Rashid Shaheed caught 1-of-3 targets for just four yards in Wednesday's 13-10 win over the New England Patriots.",
+      "id": 606924,
+      "impact": "The speedy wideout wasn't able to do much on Wednesday, catching just one pass for four yards in the team's win over New England. The injury to starter Sam Darnold (hip) may have played a large role in his lack of production, however, so this isn't a good game to look at in order to discern his true involvement in this offense.",
+      "link": "https://www.fantasypros.com/nfl/news/606924/rashid-shaheed-quiet-win-wednesday.php",
+      "player_id": 24687,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Rashid Shaheed quiet in win Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:30:39",
+      "created_formated": "Thu, Sep 10th 3:30pm UTC",
+      "desc": "Jadarian Price rushed the ball ten times for 52 yards and caught two passes for six yards in Wednesday night's 13-10 win over the New England Patriots.",
+      "id": 606923,
+      "impact": "The rookie had a decent performance in his NFL debut. He rushed for 52 yards at an efficient clip of 5.2 yards per carry, and he saw a bit of involvement in the passing game as well. From a fantasy perspective this was a disappointing game, but he showed promise in this game and will likely perform better in positive matchups moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/606923/jadarian-price-totals-58-yards-nfl-debut-wednesday.php",
+      "player_id": 27329,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Jadarian Price totals 58 yards in NFL debut Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:28:33",
+      "created_formated": "Thu, Sep 10th 3:28pm UTC",
+      "desc": "Jaxon Smith-Njigba caught 8-of-11 targets for 122 yards and a touchdown in Wednesday night's 13-10 win over the New England Patriots.",
+      "id": 606921,
+      "impact": "On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.",
+      "link": "https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php",
+      "player_id": 23070,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Jaxon Smith-Njigba electric in win Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:26:06",
+      "created_formated": "Thu, Sep 10th 3:26pm UTC",
+      "desc": "Drew Lock completed 16-of-22 passing attempts for 187 yards and one touchdown in Wednesday night's 13-10 win over the New England Patriots.",
+      "id": 606920,
+      "impact": "Lock entered the game early on Wednesday night after starting QB Sam Darnold (hip) left the game with an injury. He played pretty well as the team's replacement, finishing with 200 total yards and a touchdown while limiting mistakes in a quality win over the Patriots. It remains to be seen whether or not he will have to serve as the team's starter for a while.",
+      "link": "https://www.fantasypros.com/nfl/news/606920/drew-lock-solid-win-wednesday.php",
+      "player_id": 18225,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Drew Lock solid in win Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:22:46",
+      "created_formated": "Thu, Sep 10th 3:22pm UTC",
+      "desc": "The Patriots' D/ST logged two sacks and allowed 13 points in Wednesday night's loss to the Seattle Seahawks.",
+      "id": 606917,
+      "impact": "New England's defense got a lucky break with QB Sam Darnold (hip) leaving early on in the game. He was replaced by Drew Lock, and while the Patriots held Seattle's offense to just 13 points, that wasn't enough to lead them to a win. This unit should be a decent option against the Steelers in Week 2.",
+      "link": "https://www.fantasypros.com/nfl/news/606917/patriots-dst-allows-13-points-loss-wednesday.php",
+      "player_id": 8180,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Patriots D/ST allows 13 points in loss Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:20:35",
+      "created_formated": "Thu, Sep 10th 3:20pm UTC",
+      "desc": "Andy Borregales made his lone field-goal attempt and his lone extra-point attempt in Wednesday night's 13-10 loss to the Seattle Seahawks.",
+      "id": 606915,
+      "impact": "The young kicker didn't get many opportunities on Wednesday night. He converted both of his attempts, however, leaving him with at least four points on the night. He doesn't project to be a strong option at the position moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/606915/andy-borregales-scores-four-points-wednesday.php",
+      "player_id": 27291,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Andy Borregales scores four points Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:18:09",
+      "created_formated": "Thu, Sep 10th 3:18pm UTC",
+      "desc": "Eli Raridon caught one pass for two yards and a touchdown in Wednesday's 13-10 loss to the Seattle Seahawks.",
+      "id": 606914,
+      "impact": "The rookie was able to haul in his first career catch on Wednesday night, which he turned into a two-yard touchdown early on in the game. He wasn't very involved outside of that, however, failing to receive another target the rest of the game. He remains a player to keep tabs on moving forward, as his emergence would spell bad news for the streaming value of veteran Hunter Henry.",
+      "link": "https://www.fantasypros.com/nfl/news/606914/eli-raridon-catches-touchdown-loss-wednesday.php",
+      "player_id": 28154,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Eli Raridon catches touchdown in loss Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:16:06",
+      "created_formated": "Thu, Sep 10th 3:16pm UTC",
+      "desc": "Mack Hollins caught 4-of-5 targets for 51 yards in Wednesday's 13-10 loss to the Seattle Seahawks.",
+      "id": 606913,
+      "impact": "Hollins was one of the lone bright spots for New England on Wednesday night. He stepped up and led the team in receiving in the absence of A.J. Brown (ankle), and he made several important plays which helped to keep them in the game up until the very end. He isn't likely to be fantasy relevant moving forward but should continue to play an important role for the team.",
+      "link": "https://www.fantasypros.com/nfl/news/606913/mack-hollins-leads-team-receiving-wednesday.php",
+      "player_id": 16489,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Mack Hollins leads team in receiving Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:14:19",
+      "created_formated": "Thu, Sep 10th 3:14pm UTC",
+      "desc": "DeMario Douglas caught 5-of-7 targets for 20 yards in Wednesday's 13-10 loss to the Seattle Seahawks.",
+      "id": 606912,
+      "impact": "Douglas was the most targeted receiver for New England last night, but he wasn't able to turn that into any fantasy success. He ended with just 20 yards on five catches, but he may continue to see high opportunities for the foreseeable future with A.J. Brown (ankle) set to miss some time for the team.",
+      "link": "https://www.fantasypros.com/nfl/news/606912/demario-douglas-catches-five-passes-wednesday.php",
+      "player_id": 25304,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "DeMario Douglas catches five passes Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:12:11",
+      "created_formated": "Thu, Sep 10th 3:12pm UTC",
+      "desc": "Hunter Henry caught three passes for 26 yards in Wednesday's 13-10 loss to the Seattle Seahawks.",
+      "id": 606911,
+      "impact": "New England's offense wasn't very effective on Wednesday night, and Henry was no exception to that. He totaled just 26 scoreless yards against the Seahawks, which left him with a poor fantasy total. His value as a streaming option may be diminished this year with Eli Raridon seemingly primed to be more involved at the tight end position for the Patriots.",
+      "link": "https://www.fantasypros.com/nfl/news/606911/hunter-henry-hauls-three-passes-wednesday.php",
+      "player_id": 15561,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Hunter Henry hauls in three passes Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:05:40",
+      "created_formated": "Thu, Sep 10th 3:05pm UTC",
+      "desc": "Romeo Doubs didn't haul in any of his three targets in Wednesday night's 10-13 loss to the Seattle Seahawks.",
+      "id": 606910,
+      "impact": "Doubs did not get off to a good start with his new team on Wednesday night. He failed to haul in even a single catch against a tough Seattle defense, and he had a costly drop on a very important play late in the game. He should bounce back in the near future and may be a worthwhile fantasy option short-term with A.J. Brown (ankle) expected to miss a bit of time due to injury.",
+      "link": "https://www.fantasypros.com/nfl/news/606910/romeo-doubs-fails-to-log-catch-wednesday.php",
+      "player_id": 23794,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Romeo Doubs fails to log catch Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:03:33",
+      "created_formated": "Thu, Sep 10th 3:03pm UTC",
+      "desc": "Rhamondre Stevenson rushed the ball 18 times for 51 yards and caught five passes for 44 yards in Wednesday night's 13-10 loss to the Seattle Seahawks.",
+      "id": 606909,
+      "impact": "Stevenson was New England's workhorse running back on Wednesday night with TreVeyon Henderson (ankle) out of the lineup. He ran at an inefficient clip of 2.8 yards per carry on the night, but his fantasy total was saved by the fact that he caught five passes. He will be more efficient than this in the future but will lose passing work to Henderson when he's back, so he will likely continue to be touchdown dependent on a week-to-week basis.",
+      "link": "https://www.fantasypros.com/nfl/news/606909/rhamondre-stevenson-totals-95-yards-wednesday.php",
+      "player_id": 22726,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Rhamondre Stevenson totals 95 yards Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-10 15:00:33",
+      "created_formated": "Thu, Sep 10th 3:00pm UTC",
+      "desc": "Drake Maye completed 23-of-33 passing attempts for 178 yards, one touchdown, and three interceptions while adding 47 yards on the ground in Wednesday night's 13-10 loss to the Seattle Seahawks.",
+      "id": 606908,
+      "impact": "Maye started the season on the wrong foot on Wednesday night. He threw for under 200 yards and three interceptions against a tough Seattle defense, including one that cost the Patriots the game. He still showed lots of ability on the ground, however, and he's likely to return to being a good fantasy option against easier defenses. The loss of A.J. Brown (ankle) for at least a few games will severely hamper his short-term upside, however.",
+      "link": "https://www.fantasypros.com/nfl/news/606908/drake-maye-throws-three-interceptions-loss-wednesday.php",
+      "player_id": 23046,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Drake Maye throws three interceptions in loss Wednesday"
+    },
+    {
       "author": "Leo Sells",
       "categories": [
         "Commentary",
@@ -21,436 +417,41 @@
       "title": "Andrew Thomas (knee) practices in full Wednesday"
     },
     {
-      "author": "Leo Sells",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Injury",
+        "Breaking"
       ],
-      "created": "2026-09-09 23:18:44",
-      "created_formated": "Wed, Sep 9th 11:18pm UTC",
-      "desc": "Theo Johnson (shoulder) logged a full practice session on Wednesday.",
-      "id": 606825,
-      "impact": "It looks like the Giants will have Johnson available to play for them on Sunday, as he was able to log a full practice to start the week on Wednesday. He won't carry any fantasy value himself but should serve as a nice depth option for Jaxson Dart moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/606825/theo-johnson-shoulder-logs-full-practice-wednesday.php",
-      "player_id": 23104,
+      "created": "2026-09-10 14:00:39",
+      "created_formated": "Thu, Sep 10th 2:00pm UTC",
+      "desc": "A.J. Brown (ankle) is believed to have suffered a high ankle sprain in last nights game against the Seahawks. He will have an MRI today to determine the extent of the injury and how much time he will miss.",
+      "id": 606907,
+      "impact": "It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.",
+      "link": "https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php",
+      "player_id": 18218,
       "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Theo Johnson (shoulder) logs full practice Wednesday"
+      "team_id": "NE",
+      "title": "A.J. Brown (ankle) believed to have suffered high-ankle sprain on Wednesday"
     },
     {
-      "author": "Leo Sells",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-09 23:16:57",
-      "created_formated": "Wed, Sep 9th 11:16pm UTC",
-      "desc": "Wan'Dale Robinson (head) is off of the injury report ahead of Week 1's matchup against the New York Jets.",
-      "id": 606824,
-      "impact": "As expected, Robinson's head injury is no longer an issue and he carries no injury designation heading into Week 1. He should be a full go against the Jets and projects to be a worthwhile streaming option in PPR formats.",
-      "link": "https://www.fantasypros.com/nfl/news/606824/wandale-robinson-head-off-injury-report-week-1.php",
-      "player_id": 22985,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Wan'Dale Robinson (head) off injury report for Week 1"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 23:14:32",
-      "created_formated": "Wed, Sep 9th 11:14pm UTC",
-      "desc": "Josh Downs (calf) is without an injury designation for Sunday's game against the Baltimore Ravens.",
-      "id": 606823,
-      "impact": "Downs is not listed on Indianapolis' injury report heading into Week 1, meaning that his calf injury is no longer an issue and that he should be at full health at this point. Indianapolis' distribution of targets should be something fantasy managers keep a close eye on this weekend, but the 25-year old isn't projected to be a strong fantasy asset on his own to start the season.",
-      "link": "https://www.fantasypros.com/nfl/news/606823/josh-downs-calf-without-injury-designation-sunday.php",
-      "player_id": 24706,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Josh Downs (calf) without injury designation for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 23:11:54",
-      "created_formated": "Wed, Sep 9th 11:11pm UTC",
-      "desc": "Keaton Mitchell (hamstring) was a limited participant at practice on Wednesday.",
-      "id": 606822,
-      "impact": "Mitchell was sidelined for a while as he dealt with a hamstring injury, but he was able to practice in a limited fashion on Wednesday. He will have a chance to play in Week 1, but even if he's active, he's not expected to play more than a depth role for the Chargers in their matchup against the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/606822/keaton-mitchell-hamstring-limited-participant-wednesday.php",
-      "player_id": 25360,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Keaton Mitchell (hamstring) limited participant Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 23:10:28",
-      "created_formated": "Wed, Sep 9th 11:10pm UTC",
-      "desc": "Brenen Thompson (hip) was limited at practice on Wednesday.",
-      "id": 606821,
-      "impact": "The rookie was unable to log a full practice session on Wednesday due to a hip injury that he's dealing with. He has a chance to see the field on Sunday if active, but if he's ruled out, his absence will lead to a bit more work for Tre' Harris against the Arizona Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/606821/brenen-thompson-hip-limited-wednesday.php",
-      "player_id": 28133,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Brenen Thompson (hip) limited Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:59:52",
-      "created_formated": "Wed, Sep 9th 10:59pm UTC",
-      "desc": "Kyle Juszczyk (finger) was listed as a limited participant at practice on Wednesday.",
-      "id": 606817,
-      "impact": "The veteran fullback logged a limited practice for a second-straight day on Wednesday. If he plays on Thursday, he won't have any fantasy relevance himself, but his presence in the lineup would help Christian McCaffrey to be more efficient and effective on the ground.",
-      "link": "https://www.fantasypros.com/nfl/news/606817/kyle-juszczyk-finger-good-to-go-thursday.php",
-      "player_id": 11798,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kyle Juszczyk (finger) listed as limited Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 23:07:02",
-      "created_formated": "Wed, Sep 9th 11:07pm UTC",
-      "desc": "George Kittle (Achilles) was limited at practice again on Wednesday.",
-      "id": 606820,
-      "impact": "The star tight end was once again limited at practice on Wednesday. He seems to have a good chance to play on Thursday night, but he will probably be limited even if active. The team's official injury report should shed more light on his status when it comes out.",
-      "link": "https://www.fantasypros.com/nfl/news/606820/george-kittle-achilles-limited-again-wednesday.php",
-      "player_id": 16499,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "George Kittle (Achilles) limited again Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:57:56",
-      "created_formated": "Wed, Sep 9th 10:57pm UTC",
-      "desc": "Nick Bosa (knee) was officially a limited participant on Wednesday.",
-      "id": 606816,
-      "impact": "Bosa was a limited participant in Wednesday's practice as he continues to be limited as part of the recovery plan for his knee. It looks likely that he will play on Thursday night, but we won't know for sure until the official injury report comes out later.",
-      "link": "https://www.fantasypros.com/nfl/news/606816/nick-bosa-knee-officially-off-injury-report-thursday.php",
+      "created": "2026-09-10 11:39:50",
+      "created_formated": "Thu, Sep 10th 11:39am UTC",
+      "desc": "Nick Bosa (knee) is good to go against the Rams on Thursday. He's been practicing in a limited fashion, and though his return to play had been reported and expected, he carries no injury designation for this games.",
+      "id": 606901,
+      "impact": "This is great news for Niners fans and those in IDP leagues with Bosa. He should be an anchor to that defense in a very important Week 1 for the Niners.",
+      "link": "https://www.fantasypros.com/nfl/news/606901/nick-bosa-knee-good-to-go-will-play-rams-on-thursday.php",
       "player_id": 18199,
       "sport_id": "NFL",
       "team_id": "SF",
-      "title": "Nick Bosa (knee) officially limited Wednesday"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 23:05:22",
-      "created_formated": "Wed, Sep 9th 11:05pm UTC",
-      "desc": "Nick Emmanwori (ankle) is inactive for Week 1 for the Seattle Seahawks against the New England Patriots.",
-      "id": 606819,
-      "impact": "Emmanwori will be sidelined for the season opener after struggling to log practice time early in the week, leaving the Seattle secondary shorthanded against New England quarterback Drake Maye and the Patriots offense Wednesday night.",
-      "link": "https://www.fantasypros.com/nfl/news/606819/nick-emmanwori-ankle-inactive-week-1.php",
-      "player_id": 27053,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Nick Emmanwori (ankle) inactive for Week 1"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 23:02:00",
-      "created_formated": "Wed, Sep 9th 11:02pm UTC",
-      "desc": "Myles Garrett (knee) is without an injury designation for Thursday night's game against the San Francisco 49ers.",
-      "id": 606818,
-      "impact": "The star defender will be available to play for the Rams on Thursday night, despite still dealing with a minor knee issue of some kind. His highly-anticipated debut for his new team will come at a great time for the Rams in what projects to be a tough matchup against the 49ers in their season opener.",
-      "link": "https://www.fantasypros.com/nfl/news/606818/myles-garrett-knee-without-injury-designation-thursday.php",
-      "player_id": 16370,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Myles Garrett (knee) without injury designation for Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:55:24",
-      "created_formated": "Wed, Sep 9th 10:55pm UTC",
-      "desc": "Ashton Jeanty (ankle) practiced in a full capacity on Wednesday.",
-      "id": 606815,
-      "impact": "It looks like Jeanty is strongly trending towards playing in Week 1, as he was able to put up a full session in Las Vegas' first practice of the week on Wednesday. If he is active, he will likely see enough work to be a great fantasy option in a positive matchup against the Dolphins.",
-      "link": "https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php",
-      "player_id": 25989,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Ashton Jeanty (ankle) practices in full Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:42:28",
-      "created_formated": "Wed, Sep 9th 10:42pm UTC",
-      "desc": "Tee Higgins (foot) fully participated in Cincinnati's practice on Wednesday. ",
-      "id": 606814,
-      "impact": "Higgins is still listed on Cincinnati's injury report due to a nagging foot injury, but it's not a serious issue at this point and he was able to log a full practice session on Wednesday. He should be good to go for Week 1 and projects to be a good fantasy option against the Buccaneers.",
-      "link": "https://www.fantasypros.com/nfl/news/606814/tee-higgins-foot-fully-participates-practice-wednesday.php",
-      "player_id": 19211,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Tee Higgins (foot) fully participates in practice Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:28:37",
-      "created_formated": "Wed, Sep 9th 10:28pm UTC",
-      "desc": "Ja'Marr Chase (knee) practiced in a full capacity on Wednesday.",
-      "id": 606813,
-      "impact": "Chase was able to log a full practice session on Wednesday and is considered close to full health, if not already fully healthy heading into Week 1. He should be a full go against the Buccaneers and projects to be an elite fantasy option in the season opener and beyond.",
-      "link": "https://www.fantasypros.com/nfl/news/606813/jamarr-chase-knee-practices-full-wednesday.php",
-      "player_id": 19788,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Ja'Marr Chase (knee) practices in full Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:26:17",
-      "created_formated": "Wed, Sep 9th 10:26pm UTC",
-      "desc": "Sean Tucker (hamstring) was officially a non-participant at practice on Wednesday.",
-      "id": 606812,
-      "impact": "Tucker was not spotted during Tampa Bay's practice on Wednesday, and he turned out to be a non-participant due to a hamstring injury that he's dealing with. If he is sidelined in Week 1, Kenny Gainwell will see more opportunities as a result of his absence.",
-      "link": "https://www.fantasypros.com/nfl/news/606812/sean-tucker-hamstring-officially-non-participant-wednesday.php",
-      "player_id": 23679,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Sean Tucker (hamstring) officially a non-participant Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:24:51",
-      "created_formated": "Wed, Sep 9th 10:24pm UTC",
-      "desc": "Emeka Egbuka (toe) logged a full practice session on Wednesday.",
-      "id": 606811,
-      "impact": "The young stud wideout was able to log a full practice session on Wednesday, which means that his toe injury is likely fully healed at this point. He should play in Week 1 and is expected to be a good fantasy option in a great matchup against the Cincinnati Bengals.",
-      "link": "https://www.fantasypros.com/nfl/news/606811/emeka-egbuka-toe-logs-full-practice-wednesday.php",
-      "player_id": 23062,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Emeka Egbuka (toe) logs full practice Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:21:10",
-      "created_formated": "Wed, Sep 9th 10:21pm UTC",
-      "desc": "Jalen McMillan (knee) was officially a limited participant at practice on Wednesday.",
-      "id": 606810,
-      "impact": "McMillan's knee injury is still not fully healed, so he remained a limited participant at practice on Wednesday as a result. If he is sidelined for Week 1, Ted Hurst III will be primed for more work in his absence.",
-      "link": "https://www.fantasypros.com/nfl/news/606810/jalen-mcmillan-knee-officially-limited-wednesday.php",
-      "player_id": 23179,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Jalen McMillan (knee) officially limited Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:12:24",
-      "created_formated": "Wed, Sep 9th 10:12pm UTC",
-      "desc": "Jordan Morgan (knee) was limited at practice on Wednesday.",
-      "id": 606809,
-      "impact": "Morgan's knee injury left him limited at the team's practice on Wednesday. He is expected to be their starting left tackle this season, so if he misses any time, QB Jordan Love and RB MarShawn Lloyd will both be affected by that in a big way.",
-      "link": "https://www.fantasypros.com/nfl/news/606809/jordan-morgan-knee-limited-wednesday.php",
-      "player_id": 26222,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Jordan Morgan (knee) limited Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:10:57",
-      "created_formated": "Wed, Sep 9th 10:10pm UTC",
-      "desc": "Aaron Banks (knee) was a limited participant at practice on Wednesday.",
-      "id": 606808,
-      "impact": "Banks was limited by a knee injury on Wednesday, which may threaten his availability for Week 1. Jordan Morgan (knee) was also limited, so the left side of Green Bay's offensive line may be weaker than usual if one or both of those guys are sidelined this weekend.",
-      "link": "https://www.fantasypros.com/nfl/news/606808/aaron-banks-knee-limited-participant-wednesday.php",
-      "player_id": 22804,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Aaron Banks (knee) limited participant Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 22:04:10",
-      "created_formated": "Wed, Sep 9th 10:04pm UTC",
-      "desc": "Tucker Kraft (knee) is off of the injury report for Week 1's game against the Minnesota Vikings.",
-      "id": 606807,
-      "impact": "Kraft has been rehabbing from a major knee injury all offseason, but it appears that he is finally close to full health again, as he carries no injury designation prior to the team's season opener on Sunday. He could be limited for his first few weeks back, but the team hasn't indicated that, meaning that he could be seeing a full workload in the very near future.",
-      "link": "https://www.fantasypros.com/nfl/news/606807/tucker-kraft-knee-off-injury-report-week-1.php",
-      "player_id": 25298,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Tucker Kraft (knee) off injury report for Week 1"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 21:58:24",
-      "created_formated": "Wed, Sep 9th 9:58pm UTC",
-      "desc": "Ben Sinnott (oblique) practiced in a full capacity on Wednesday.",
-      "id": 606806,
-      "impact": "Sinnott recently suffered an oblique injury of some kind, but it's not a serious issue and he was still able to practice in a full capacity on Wednesday. He should be good to go for Week 1 but doesn't project to be a strong fantasy asset for the foreseeable future.",
-      "link": "https://www.fantasypros.com/nfl/news/606806/ben-sinnott-oblique-practices-full-wednesday.php",
-      "player_id": 26310,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Ben Sinnott (oblique) practices in full Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 21:56:48",
-      "created_formated": "Wed, Sep 9th 9:56pm UTC",
-      "desc": "Jacory Croskey-Merritt (groin) was a limited participant at practice on Wednesday.",
-      "id": 606805,
-      "impact": "Croskey-Merritt is managing a groin injury right now and was unable to log a full practice session on Wednesday as a result. There's an off-chance that it will leave him sidelined for Week 1, which would lead to more work for Rachaad White against the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/606805/jacory-croskey-merritt-groin-limited-participant-wednesday.php",
-      "player_id": 27316,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jacory Croskey-Merritt (groin) limited participant Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 21:55:12",
-      "created_formated": "Wed, Sep 9th 9:55pm UTC",
-      "desc": "Rachaad White (hamstring) is off of the injury report for Sunday's game against the Philadelphia Eagles.",
-      "id": 606804,
-      "impact": "The veteran running back is fully over his hamstring injury at this point and is set to be a full go for Washington's season opener on Sunday. He will be primed for more work if Jacory Croskey-Merritt (groin) is limited or sidelined for the team's matchup against the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/606804/rachaad-white-hamstring-off-injury-report-sunday.php",
-      "player_id": 23891,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Rachaad White (hamstring) off injury report for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 21:53:07",
-      "created_formated": "Wed, Sep 9th 9:53pm UTC",
-      "desc": "Devontez Walker (groin) is listed as a limited participant at practice on Wednesday.",
-      "id": 606803,
-      "impact": "Walker was only able to practice in a limited capacity in Baltimore's first practice of the week on Wednesday. His status for Week 1 remains to be seen, and if he is ruled out, fantasy managers should expect more work for Ja'Kobi Lane and Rashod Bateman in his absence.",
-      "link": "https://www.fantasypros.com/nfl/news/606803/devontez-walker-groin-listed-limited-wednesday.php",
-      "player_id": 26011,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Devontez Walker (groin) listed as limited Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-09 21:51:21",
-      "created_formated": "Wed, Sep 9th 9:51pm UTC",
-      "desc": "Zay Flowers (hamstring) was limited at Baltimore's practice on Wednesday.",
-      "id": 606802,
-      "impact": "Flowers was only able to practice in a limited fashion on Wednesday. There seems to be a lot of optimism for his Week 1 availability, but fantasy managers should keep tabs on him throughout the week to make sure he's ready to go for the season opener, as hamstring injuries have a tendency to reaggravate or linger longer than expected. He should be started in most league formats if he is fully cleared to play, however.",
-      "link": "https://www.fantasypros.com/nfl/news/606802/zay-flowers-hamstring-limited-practice-wednesday.php",
-      "player_id": 22916,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Zay Flowers (hamstring) limited at practice Wednesday"
+      "title": "Nick Bosa (knee) good to go, will play Rams on Thursday"
     }
   ],
   "public_api_limited": true,
