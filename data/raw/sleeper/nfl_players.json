@@ -2795,7 +2795,7 @@
       "genius_id": "1398981",
       "rookie_year": "2023"
     },
-    "news_updated": 1789074929635,
+    "news_updated": 1789079428161,
     "number": 4,
     "oddsjam_id": "D5BE2AF21C8F",
     "opta_id": null,
@@ -56934,7 +56934,7 @@
     "injury_body_part": "Knee - Meniscus",
     "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "kalshi_id": "4fa4975f-2aec-46a4-a363-73503f287798",
     "last_name": "Bowers",
     "metadata": {
@@ -56944,7 +56944,7 @@
       "injury_override_regular_2025_7": "Out",
       "rookie_year": "2024"
     },
-    "news_updated": 1789050602528,
+    "news_updated": 1789077928476,
     "number": 89,
     "oddsjam_id": "890CB831F75E",
     "opta_id": null,
@@ -58798,7 +58798,7 @@
       "genius_id": "1463675",
       "rookie_year": "2024"
     },
-    "news_updated": 1789072520594,
+    "news_updated": 1789079728136,
     "number": 1,
     "oddsjam_id": "8838562B2670",
     "opta_id": null,
@@ -119113,7 +119113,7 @@
       "rookie_year": "2025",
       "source_id": "b4848e19-5a52-49a3-8c6f-179fe308ff03"
     },
-    "news_updated": 1789014935306,
+    "news_updated": 1789076728349,
     "number": 22,
     "oddsjam_id": "15DB9017F739D3E5",
     "opta_id": null,
@@ -119852,7 +119852,7 @@
       "rookie_year": "2025",
       "source_id": "0bcf17c0-89da-11ec-846d-43cbfaabacfd"
     },
-    "news_updated": 1789076432382,
+    "news_updated": 1789077628063,
     "number": 5,
     "oddsjam_id": "C7750F2F673141B4",
     "opta_id": null,
@@ -129995,10 +129995,10 @@
     "hashtag": "#rjmickens-NFL-LAC-27",
     "height": "72",
     "high_school": "Carroll (TX)",
-    "injury_body_part": "Ankle",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "bbe7324a-a9d7-48d5-b225-42237d1fb427",
     "last_name": "Mickens",
     "metadata": {
@@ -173953,7 +173953,7 @@
       "rookie_year": "2026",
       "source_id": "0426e0ff-e19f-4cfb-a25c-649718f06a4d"
     },
-    "news_updated": 1789015535535,
+    "news_updated": 1789078528410,
     "number": 87,
     "oddsjam_id": null,
     "opta_id": null,
@@ -393720,7 +393720,7 @@
       "genius_id": "998871",
       "rookie_year": "2017"
     },
-    "news_updated": 1789074329583,
+    "news_updated": 1789076727770,
     "number": 15,
     "oddsjam_id": "B671C99CB711",
     "opta_id": null,
@@ -454427,10 +454427,10 @@
     "hashtag": "#daronpayne-NFL-WAS-94",
     "height": "75",
     "high_school": "Shades Valley (AL)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "e2479fbd-b510-4c4e-9bd2-5366b08a9301",
     "last_name": "Payne",
     "metadata": {
@@ -718955,7 +718955,7 @@
       "genius_id": "1398986",
       "rookie_year": "2023"
     },
-    "news_updated": 1788971133989,
+    "news_updated": 1789076728352,
     "number": 19,
     "oddsjam_id": "8CF89A8C53F6",
     "opta_id": null,
@@ -719800,7 +719800,7 @@
       "genius_id": "1408290",
       "rookie_year": "2023"
     },
-    "news_updated": 1789072822092,
+    "news_updated": 1789077328399,
     "number": 44,
     "oddsjam_id": "4E3EED0F7B55",
     "opta_id": null,
@@ -720162,7 +720162,7 @@
       "genius_id": "1400569",
       "rookie_year": "2023"
     },
-    "news_updated": 1789015235533,
+    "news_updated": 1789077328397,
     "number": 34,
     "oddsjam_id": "5222B174E30D",
     "opta_id": null,
