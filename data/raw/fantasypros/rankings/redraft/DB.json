@@ -11701,7 +11701,7 @@
     },
     {
       "cbs_player_id": "29675777",
-      "player_bye_week": "9",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "melvin-smith-jr.php",
@@ -11714,7 +11714,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "M. Smith Jr.",
-      "player_team_id": "TEN",
+      "player_team_id": "FA",
       "player_yahoo_id": "42431",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB214",

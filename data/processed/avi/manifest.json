@@ -16,12 +16,12 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-08-25T13:08:10.060742+00:00",
+  "generated_at_utc": "2026-09-10T21:52:23.574270+00:00",
   "in_season_transition": {
     "activation_policy": "Use only verified completed 2026 regular-season weeks; stale or partial player-points feeds do not activate the transition.",
     "completed_through_week": 0,
-    "fantasypros_max_observed_week": 0,
-    "mapped_player_point_records": 0,
+    "fantasypros_max_observed_week": 1,
+    "mapped_player_point_records": 19,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 1,
@@ -32,8 +32,8 @@
   "methodology_version": "2026.2",
   "player_points_active": false,
   "record_counts": {
-    "calculated_players": 439,
-    "registry_players": 439,
+    "calculated_players": 479,
+    "registry_players": 479,
     "unresolved_players": 0
   },
   "replacement_levels": {
@@ -57,10 +57,10 @@
       "DL": 0.0,
       "K": 0.0,
       "LB": 0.0,
-      "QB": 287.67,
-      "RB": 156.17,
-      "TE": 151.75,
-      "WR": 150.84
+      "QB": 295.49,
+      "RB": 145.63,
+      "TE": 152.75,
+      "WR": 149.24
     },
     "starter_demand": {
       "DB": 16,

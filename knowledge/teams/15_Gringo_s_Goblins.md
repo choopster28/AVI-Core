@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 990097041671892992
 - Division: 4
 - Waiver position: 4
-- Last updated from Sleeper exports: 2026-09-09
+- Last updated from Sleeper exports: 2026-09-10
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 575.9
-- championship_lineup_c_avi_avg: 71.99
-- offensive_roster_c_avi_sum: 893.7
-- offensive_roster_c_avi_avg: 59.58
-- offensive_roster_d_avi_sum: 1123.6
-- offensive_roster_d_avi_avg: 74.91
+- championship_lineup_c_avi_sum: 555.6
+- championship_lineup_c_avi_avg: 69.45
+- offensive_roster_c_avi_sum: 871.2
+- offensive_roster_c_avi_avg: 58.08
+- offensive_roster_d_avi_sum: 1050.7
+- offensive_roster_d_avi_avg: 70.05
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Bo Nix | C-AVI: 67.3 | D-AVI: 78.4
-- RB: Kyren Williams | C-AVI: 83.5 | D-AVI: 88.9
-- RB: Jonathon Brooks | C-AVI: 57.4 | D-AVI: 76.5
-- WR: Emeka Egbuka | C-AVI: 85.3 | D-AVI: 94.0
-- WR: Jameson Williams | C-AVI: 79.9 | D-AVI: 88.2
-- TE: Jake Ferguson | C-AVI: 73.9 | D-AVI: 80.9
-- FLEX: Christian Watson | C-AVI: 72.2 | D-AVI: 85.7
-- FLEX: Romeo Doubs | C-AVI: 56.4 | D-AVI: 75.1
+- QB: Bo Nix | C-AVI: 59.0 | D-AVI: 75.1
+- RB: Kyren Williams | C-AVI: 80.4 | D-AVI: 87.0
+- RB: Aaron Jones | C-AVI: 56.4 | D-AVI: 61.5
+- WR: Emeka Egbuka | C-AVI: 82.8 | D-AVI: 92.6
+- WR: Jameson Williams | C-AVI: 79.5 | D-AVI: 85.8
+- TE: Jake Ferguson | C-AVI: 67.0 | D-AVI: 77.5
+- FLEX: Christian Watson | C-AVI: 73.0 | D-AVI: 83.3
+- FLEX: Romeo Doubs | C-AVI: 57.5 | D-AVI: 70.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,9 +53,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 67.3
-- Dynasty AVI (D-AVI, 0-100): 78.4
-- Projected PPR points: 298.2
+- Championship AVI (C-AVI, 0-100): 59.0
+- Dynasty AVI (D-AVI, 0-100): 75.1
+- Projected PPR points: 295.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -70,9 +70,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 39.9
-- Dynasty AVI (D-AVI, 0-100): 60.7
-- Projected PPR points: 164.5
+- Championship AVI (C-AVI, 0-100): 41.2
+- Dynasty AVI (D-AVI, 0-100): 57.1
+- Projected PPR points: 167.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -87,26 +87,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 83.5
-- Dynasty AVI (D-AVI, 0-100): 88.9
-- Projected PPR points: 240.2
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Jonathon Brooks
-- Player name: Jonathon Brooks
-- Player ID: 11583
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: CAR
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 57.4
-- Dynasty AVI (D-AVI, 0-100): 76.5
-- Projected PPR points: 163.9
+- Championship AVI (C-AVI, 0-100): 80.4
+- Dynasty AVI (D-AVI, 0-100): 87.0
+- Projected PPR points: 226.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -121,9 +104,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 52.3
-- Dynasty AVI (D-AVI, 0-100): 67.4
-- Projected PPR points: 161.1
+- Championship AVI (C-AVI, 0-100): 56.4
+- Dynasty AVI (D-AVI, 0-100): 61.5
+- Projected PPR points: 169.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Jonathon Brooks
+- Player name: Jonathon Brooks
+- Player ID: 11583
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 54.7
+- Dynasty AVI (D-AVI, 0-100): 74.0
+- Projected PPR points: 145.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -138,9 +138,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 46.6
-- Dynasty AVI (D-AVI, 0-100): 63.2
-- Projected PPR points: 121.3
+- Championship AVI (C-AVI, 0-100): 45.1
+- Dynasty AVI (D-AVI, 0-100): 55.3
+- Projected PPR points: 117.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -155,9 +155,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 43.9
-- Dynasty AVI (D-AVI, 0-100): 63.5
-- Projected PPR points: 96.5
+- Championship AVI (C-AVI, 0-100): 43.7
+- Dynasty AVI (D-AVI, 0-100): 57.7
+- Projected PPR points: 94.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -172,9 +172,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 85.3
-- Dynasty AVI (D-AVI, 0-100): 94.0
-- Projected PPR points: 228.3
+- Championship AVI (C-AVI, 0-100): 82.8
+- Dynasty AVI (D-AVI, 0-100): 92.6
+- Projected PPR points: 218.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -189,9 +189,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 79.9
-- Dynasty AVI (D-AVI, 0-100): 88.2
-- Projected PPR points: 217.2
+- Championship AVI (C-AVI, 0-100): 79.5
+- Dynasty AVI (D-AVI, 0-100): 85.8
+- Projected PPR points: 215.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -206,9 +206,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 72.2
-- Dynasty AVI (D-AVI, 0-100): 85.7
-- Projected PPR points: 195.2
+- Championship AVI (C-AVI, 0-100): 73.0
+- Dynasty AVI (D-AVI, 0-100): 83.3
+- Projected PPR points: 197.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -223,26 +223,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 56.4
-- Dynasty AVI (D-AVI, 0-100): 75.1
-- Projected PPR points: 163.7
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Dontayvion Wicks
-- Player name: Dontayvion Wicks
-- Player ID: 9486
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 43.6
-- Dynasty AVI (D-AVI, 0-100): 65.2
-- Projected PPR points: 107.9
+- Championship AVI (C-AVI, 0-100): 57.5
+- Dynasty AVI (D-AVI, 0-100): 70.9
+- Projected PPR points: 165.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -257,9 +240,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 42.0
-- Dynasty AVI (D-AVI, 0-100): 70.9
-- Projected PPR points: 89.8
+- Championship AVI (C-AVI, 0-100): 44.5
+- Dynasty AVI (D-AVI, 0-100): 65.5
+- Projected PPR points: 99.1
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Dontayvion Wicks
+- Player name: Dontayvion Wicks
+- Player ID: 9486
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 39.9
+- Dynasty AVI (D-AVI, 0-100): 53.2
+- Projected PPR points: 96.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -274,9 +274,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 73.9
-- Dynasty AVI (D-AVI, 0-100): 80.9
-- Projected PPR points: 167.4
+- Championship AVI (C-AVI, 0-100): 67.0
+- Dynasty AVI (D-AVI, 0-100): 77.5
+- Projected PPR points: 158.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -291,9 +291,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 49.5
-- Dynasty AVI (D-AVI, 0-100): 65.0
-- Projected PPR points: 107.4
+- Championship AVI (C-AVI, 0-100): 46.5
+- Dynasty AVI (D-AVI, 0-100): 54.2
+- Projected PPR points: 99.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

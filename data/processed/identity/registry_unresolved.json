@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "candidate_count": 0,
+    "candidates": [],
+    "fantasypros_id": "23451",
+    "name": "Adam Prentice",
+    "normalized_name": "adam prentice",
+    "position": "RB",
+    "team": "DEN"
+  },
+  {
+    "candidate_count": 0,
+    "candidates": [],
+    "fantasypros_id": "18571",
+    "name": "Alec Ingold",
+    "normalized_name": "alec ingold",
+    "position": "RB",
+    "team": "LAC"
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "name": "Isaiah Williams",
+        "position": "WR",
+        "sleeper_id": "11608",
+        "team": "NYJ"
+      }
+    ],
+    "fantasypros_id": "10977",
+    "name": "Isaiah Williams",
+    "normalized_name": "isaiah williams",
+    "position": "WR",
+    "reason": "duplicate_sleeper_match_superseded",
+    "team": "FA"
+  },
+  {
+    "candidate_count": 0,
+    "candidates": [],
+    "fantasypros_id": "14191",
+    "name": "Michael Burton",
+    "normalized_name": "michael burton",
+    "position": "RB",
+    "team": "CLE"
+  },
+  {
+    "candidate_count": 0,
+    "candidates": [],
+    "fantasypros_id": "17145",
+    "name": "Patrick Ricard",
+    "normalized_name": "patrick ricard",
+    "position": "RB",
+    "team": "NYG"
+  },
+  {
+    "candidate_count": 0,
+    "candidates": [],
+    "fantasypros_id": "26034",
+    "name": "Travis Hunter",
+    "normalized_name": "travis hunter",
+    "position": "WR",
+    "team": "JAC"
+  }
+]

@@ -3,6 +3,89 @@
     "candidate_count": 1,
     "candidates": [
       {
+        "name": "Adam Prentice",
+        "position": "FB",
+        "sleeper_id": "8025",
+        "team": "DEN"
+      }
+    ],
+    "fantasypros_id": "23451",
+    "name": "Adam Prentice",
+    "normalized_name": "adam prentice",
+    "position": "RB",
+    "team": "DEN"
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "name": "Alec Ingold",
+        "position": "FB",
+        "sleeper_id": "6109",
+        "team": "LAC"
+      }
+    ],
+    "fantasypros_id": "18571",
+    "name": "Alec Ingold",
+    "normalized_name": "alec ingold",
+    "position": "RB",
+    "team": "LAC"
+  },
+  {
+    "candidate_count": 0,
+    "candidates": [],
+    "fantasypros_id": "24901",
+    "name": "Bam Knight",
+    "normalized_name": "bam knight",
+    "position": "RB",
+    "team": "ARI"
+  },
+  {
+    "candidate_count": 0,
+    "candidates": [],
+    "fantasypros_id": "18226",
+    "name": "Hollywood Brown",
+    "normalized_name": "hollywood brown",
+    "position": "WR",
+    "team": "PHI"
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "name": "Hunter Luepke",
+        "position": "FB",
+        "sleeper_id": "11510",
+        "team": "DAL"
+      }
+    ],
+    "fantasypros_id": "25941",
+    "name": "Hunter Luepke",
+    "normalized_name": "hunter luepke",
+    "position": "RB",
+    "team": "DAL"
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "name": "Isaiah Williams",
+        "position": "WR",
+        "sleeper_id": "11608",
+        "team": "NYJ"
+      }
+    ],
+    "fantasypros_id": "10977",
+    "name": "Isaiah Williams",
+    "normalized_name": "isaiah williams",
+    "position": "WR",
+    "reason": "duplicate_sleeper_match_superseded",
+    "team": "FA"
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
         "name": "Kyle Juszczyk",
         "position": "FB",
         "sleeper_id": "1379",
@@ -50,77 +133,11 @@
   {
     "candidate_count": 0,
     "candidates": [],
-    "fantasypros_id": "18226",
-    "name": "Hollywood Brown",
-    "normalized_name": "hollywood brown",
-    "position": "WR",
-    "team": "PHI"
-  },
-  {
-    "candidate_count": 1,
-    "candidates": [
-      {
-        "name": "Alec Ingold",
-        "position": "FB",
-        "sleeper_id": "6109",
-        "team": "LAC"
-      }
-    ],
-    "fantasypros_id": "18571",
-    "name": "Alec Ingold",
-    "normalized_name": "alec ingold",
-    "position": "RB",
-    "team": "LAC"
-  },
-  {
-    "candidate_count": 1,
-    "candidates": [
-      {
-        "name": "Adam Prentice",
-        "position": "FB",
-        "sleeper_id": "8025",
-        "team": "DEN"
-      }
-    ],
-    "fantasypros_id": "23451",
-    "name": "Adam Prentice",
-    "normalized_name": "adam prentice",
-    "position": "RB",
-    "team": "DEN"
-  },
-  {
-    "candidate_count": 0,
-    "candidates": [],
-    "fantasypros_id": "24901",
-    "name": "Bam Knight",
-    "normalized_name": "bam knight",
-    "position": "RB",
-    "team": "ARI"
-  },
-  {
-    "candidate_count": 0,
-    "candidates": [],
     "fantasypros_id": "25167",
     "name": "Tommy Myers",
     "normalized_name": "tommy myers",
     "position": "TE",
     "team": "FA"
-  },
-  {
-    "candidate_count": 1,
-    "candidates": [
-      {
-        "name": "Hunter Luepke",
-        "position": "FB",
-        "sleeper_id": "11510",
-        "team": "DAL"
-      }
-    ],
-    "fantasypros_id": "25941",
-    "name": "Hunter Luepke",
-    "normalized_name": "hunter luepke",
-    "position": "RB",
-    "team": "DAL"
   },
   {
     "candidate_count": 1,

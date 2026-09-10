@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-09-09
+- Last updated from Sleeper exports: 2026-09-10
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 673.8
-- championship_lineup_c_avi_avg: 84.22
-- offensive_roster_c_avi_sum: 1018.2
-- offensive_roster_c_avi_avg: 59.89
-- offensive_roster_d_avi_sum: 1259.8
-- offensive_roster_d_avi_avg: 74.11
+- championship_lineup_c_avi_sum: 664.8
+- championship_lineup_c_avi_avg: 83.10
+- offensive_roster_c_avi_sum: 995.2
+- offensive_roster_c_avi_avg: 58.54
+- offensive_roster_d_avi_sum: 1197.9
+- offensive_roster_d_avi_avg: 70.46
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Patrick Mahomes | C-AVI: 74.0 | D-AVI: 82.5
-- RB: Cam Skattebo | C-AVI: 81.0 | D-AVI: 86.2
-- RB: David Montgomery | C-AVI: 68.9 | D-AVI: 81.5
-- WR: Jaxon Smith-Njigba | C-AVI: 99.1 | D-AVI: 99.5
-- WR: Malik Nabers | C-AVI: 89.5 | D-AVI: 96.0
-- TE: Tyler Warren | C-AVI: 97.3 | D-AVI: 91.5
-- FLEX: DeVonta Smith | C-AVI: 87.4 | D-AVI: 92.4
-- FLEX: DJ Moore | C-AVI: 76.6 | D-AVI: 85.8
+- QB: Patrick Mahomes | C-AVI: 74.0 | D-AVI: 81.5
+- RB: Cam Skattebo | C-AVI: 81.8 | D-AVI: 85.2
+- RB: David Montgomery | C-AVI: 72.5 | D-AVI: 80.0
+- WR: Jaxon Smith-Njigba | C-AVI: 98.7 | D-AVI: 99.0
+- WR: DeVonta Smith | C-AVI: 86.7 | D-AVI: 90.7
+- TE: Tyler Warren | C-AVI: 97.2 | D-AVI: 90.9
+- FLEX: Malik Nabers | C-AVI: 80.5 | D-AVI: 93.2
+- FLEX: DJ Moore | C-AVI: 73.4 | D-AVI: 81.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,8 +54,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 30.0
 - Championship AVI (C-AVI, 0-100): 74.0
-- Dynasty AVI (D-AVI, 0-100): 82.5
-- Projected PPR points: 303.0
+- Dynasty AVI (D-AVI, 0-100): 81.5
+- Projected PPR points: 305.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -70,9 +70,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 54.7
-- Dynasty AVI (D-AVI, 0-100): 70.4
-- Projected PPR points: 285.3
+- Championship AVI (C-AVI, 0-100): 54.1
+- Dynasty AVI (D-AVI, 0-100): 68.5
+- Projected PPR points: 279.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -87,9 +87,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 81.0
-- Dynasty AVI (D-AVI, 0-100): 86.2
-- Projected PPR points: 234.9
+- Championship AVI (C-AVI, 0-100): 81.8
+- Dynasty AVI (D-AVI, 0-100): 85.2
+- Projected PPR points: 233.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -104,26 +104,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 68.9
-- Dynasty AVI (D-AVI, 0-100): 81.5
-- Projected PPR points: 195.9
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Tyrone Tracy
-- Player name: Tyrone Tracy
-- Player ID: 11655
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: NYG
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 47.5
-- Dynasty AVI (D-AVI, 0-100): 70.2
-- Projected PPR points: 103.2
+- Championship AVI (C-AVI, 0-100): 72.5
+- Dynasty AVI (D-AVI, 0-100): 80.0
+- Projected PPR points: 203.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -138,9 +121,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 44.9
-- Dynasty AVI (D-AVI, 0-100): 64.6
-- Projected PPR points: 100.9
+- Championship AVI (C-AVI, 0-100): 43.9
+- Dynasty AVI (D-AVI, 0-100): 63.2
+- Projected PPR points: 84.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Tyrone Tracy
+- Player name: Tyrone Tracy
+- Player ID: 11655
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 40.6
+- Dynasty AVI (D-AVI, 0-100): 59.2
+- Projected PPR points: 75.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -155,9 +155,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 33.9
-- Dynasty AVI (D-AVI, 0-100): 50.8
-- Projected PPR points: 59.8
+- Championship AVI (C-AVI, 0-100): 34.3
+- Dynasty AVI (D-AVI, 0-100): 42.9
+- Projected PPR points: 74.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -172,9 +172,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 20.8
-- Dynasty AVI (D-AVI, 0-100): 54.9
-- Projected PPR points: 4.8
+- Championship AVI (C-AVI, 0-100): 23.3
+- Dynasty AVI (D-AVI, 0-100): 51.3
+- Projected PPR points: 14.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -189,26 +189,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 99.1
-- Dynasty AVI (D-AVI, 0-100): 99.5
-- Projected PPR points: 326.2
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Malik Nabers
-- Player name: Malik Nabers
-- Player ID: 11632
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: NYG
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 89.5
-- Dynasty AVI (D-AVI, 0-100): 96.0
-- Projected PPR points: 240.3
+- Championship AVI (C-AVI, 0-100): 98.7
+- Dynasty AVI (D-AVI, 0-100): 99.0
+- Projected PPR points: 324.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -223,9 +206,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 87.4
-- Dynasty AVI (D-AVI, 0-100): 92.4
-- Projected PPR points: 236.9
+- Championship AVI (C-AVI, 0-100): 86.7
+- Dynasty AVI (D-AVI, 0-100): 90.7
+- Projected PPR points: 234.2
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Malik Nabers
+- Player name: Malik Nabers
+- Player ID: 11632
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 80.5
+- Dynasty AVI (D-AVI, 0-100): 93.2
+- Projected PPR points: 209.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -240,43 +240,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 76.6
-- Dynasty AVI (D-AVI, 0-100): 85.8
-- Projected PPR points: 208.5
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Tank Dell
-- Player name: Tank Dell
-- Player ID: 9502
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: HOU
-- Active: True
-- Status: Inactive
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 46.7
-- Dynasty AVI (D-AVI, 0-100): 63.3
-- Projected PPR points: 147.7
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Darius Slayton
-- Player name: Darius Slayton
-- Player ID: 6149
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: None
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 37.2
-- Dynasty AVI (D-AVI, 0-100): 53.8
-- Projected PPR points: 100.2
+- Championship AVI (C-AVI, 0-100): 73.4
+- Dynasty AVI (D-AVI, 0-100): 81.5
+- Projected PPR points: 199.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -291,9 +257,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 33.2
-- Dynasty AVI (D-AVI, 0-100): 63.6
-- Projected PPR points: 59.7
+- Championship AVI (C-AVI, 0-100): 36.7
+- Dynasty AVI (D-AVI, 0-100): 60.9
+- Projected PPR points: 77.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Tank Dell
+- Player name: Tank Dell
+- Player ID: 9502
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: HOU
+- Active: True
+- Status: Inactive
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 28.2
+- Dynasty AVI (D-AVI, 0-100): 51.5
+- Projected PPR points: 54.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -308,9 +291,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 25.5
-- Dynasty AVI (D-AVI, 0-100): 52.8
-- Projected PPR points: 43.8
+- Championship AVI (C-AVI, 0-100): 25.6
+- Dynasty AVI (D-AVI, 0-100): 45.6
+- Projected PPR points: 52.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -325,9 +308,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 97.3
-- Dynasty AVI (D-AVI, 0-100): 91.5
-- Projected PPR points: 199.2
+- Championship AVI (C-AVI, 0-100): 97.2
+- Dynasty AVI (D-AVI, 0-100): 90.9
+- Projected PPR points: 200.8
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Michael Mayer
+- Player name: Michael Mayer
+- Player ID: 9482
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: LV
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 43.7
+- Dynasty AVI (D-AVI, 0-100): 52.8
+- Projected PPR points: 85.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
