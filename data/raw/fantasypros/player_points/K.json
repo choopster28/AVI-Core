@@ -1,6 +1,32 @@
 {
   "players": [
     {
+      "average": 11,
+      "filename": "eddy-pineiro.php",
+      "games": 1,
+      "player_id": 17575,
+      "player_name": "Eddy Pineiro",
+      "points": 11,
+      "position_id": "K",
+      "team_id": "SF",
+      "weeks": {
+        "1": 11
+      }
+    },
+    {
+      "average": 1,
+      "filename": "harrison-mevis.php",
+      "games": 1,
+      "player_id": 26638,
+      "player_name": "Harrison Mevis",
+      "points": 1,
+      "position_id": "K",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 1
+      }
+    },
+    {
       "average": 7,
       "filename": "jason-myers.php",
       "games": 1,

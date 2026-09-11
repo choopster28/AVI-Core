@@ -1,5 +1,5 @@
 {
-  "count": "204",
+  "count": "205",
   "experts": [],
   "players": [
     {
@@ -3773,6 +3773,29 @@
         "points_ppr": 87.93
       },
       "team_id": "ARI"
+    },
+    {
+      "filename": "kyle-louis.php",
+      "fpid": 28227,
+      "mflid": 17578,
+      "name": "Kyle Louis",
+      "position_id": "LB",
+      "stats": {
+        "def_assist": 19.2,
+        "def_ff": 0.26,
+        "def_fr": 0.17,
+        "def_int": 0.25,
+        "def_pd": 1.5,
+        "def_sack": 0.66,
+        "def_safety": 0,
+        "def_tackle": 43.4,
+        "def_td": 0.04,
+        "def_tlost": 0,
+        "points": 87.6,
+        "points_half": 87.6,
+        "points_ppr": 87.6
+      },
+      "team_id": "MIA"
     },
     {
       "filename": "chuck-clark.php",

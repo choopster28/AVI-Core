@@ -14,6 +14,19 @@
       }
     },
     {
+      "average": 5.3,
+      "filename": "josaiah-stewart.php",
+      "games": 1,
+      "player_id": 27034,
+      "player_name": "Josaiah Stewart",
+      "points": 5.25,
+      "position_id": "DE",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 5.3
+      }
+    },
+    {
       "average": 3,
       "filename": "demarcus-lawrence.php",
       "games": 1,
@@ -24,6 +37,19 @@
       "team_id": "SEA",
       "weeks": {
         "1": 3
+      }
+    },
+    {
+      "average": 2.3,
+      "filename": "khalid-kareem.php",
+      "games": 1,
+      "player_id": 19326,
+      "player_name": "Khalid Kareem",
+      "points": 2.25,
+      "position_id": "DE",
+      "team_id": "SF",
+      "weeks": {
+        "1": 2.3
       }
     },
     {
@@ -41,6 +67,58 @@
     },
     {
       "average": 0,
+      "filename": "romello-height.php",
+      "games": 1,
+      "player_id": 28052,
+      "player_name": "Romello Height",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "SF",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 2.3,
+      "filename": "osa-odighizuwa.php",
+      "games": 1,
+      "player_id": 22816,
+      "player_name": "Osa Odighizuwa",
+      "points": 2.25,
+      "position_id": "DE",
+      "team_id": "SF",
+      "weeks": {
+        "1": 2.3
+      }
+    },
+    {
+      "average": 10.3,
+      "filename": "nick-bosa.php",
+      "games": 1,
+      "player_id": 18199,
+      "player_name": "Nick Bosa",
+      "points": 10.25,
+      "position_id": "DE",
+      "team_id": "SF",
+      "weeks": {
+        "1": 10.3
+      }
+    },
+    {
+      "average": 4,
+      "filename": "keion-white.php",
+      "games": 1,
+      "player_id": 25281,
+      "player_name": "Keion White",
+      "points": 4,
+      "position_id": "DE",
+      "team_id": "SF",
+      "weeks": {
+        "1": 4
+      }
+    },
+    {
+      "average": 0,
       "filename": "connor-otoole.php",
       "games": 1,
       "player_id": 27785,
@@ -50,6 +128,19 @@
       "team_id": "SEA",
       "weeks": {
         "1": 0
+      }
+    },
+    {
+      "average": 0.8,
+      "filename": "byron-young-edge.php",
+      "games": 1,
+      "player_id": 25449,
+      "player_name": "Byron Young",
+      "points": 0.75,
+      "position_id": "DE",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 0.8
       }
     }
   ],

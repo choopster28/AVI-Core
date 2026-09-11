@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 648.6
-- championship_lineup_c_avi_avg: 81.08
-- offensive_roster_c_avi_sum: 932.6
-- offensive_roster_c_avi_avg: 62.17
-- offensive_roster_d_avi_sum: 1036.2
-- offensive_roster_d_avi_avg: 69.08
+- championship_lineup_c_avi_sum: 647.2
+- championship_lineup_c_avi_avg: 80.90
+- offensive_roster_c_avi_sum: 938.2
+- offensive_roster_c_avi_avg: 62.55
+- offensive_roster_d_avi_sum: 1053.6
+- offensive_roster_d_avi_avg: 70.24
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Brock Purdy | C-AVI: 79.1 | D-AVI: 81.0
-- RB: D'Andre Swift | C-AVI: 78.0 | D-AVI: 81.7
-- RB: Zach Charbonnet | C-AVI: 50.2 | D-AVI: 72.1
-- WR: Amon-Ra St. Brown | C-AVI: 98.7 | D-AVI: 98.2
+- QB: Brock Purdy | C-AVI: 79.2 | D-AVI: 81.2
+- RB: D'Andre Swift | C-AVI: 78.2 | D-AVI: 82.5
+- RB: Zach Charbonnet | C-AVI: 49.5 | D-AVI: 70.1
+- WR: Amon-Ra St. Brown | C-AVI: 98.8 | D-AVI: 98.3
 - WR: Justin Jefferson | C-AVI: 97.8 | D-AVI: 98.4
-- TE: Dallas Goedert | C-AVI: 83.2 | D-AVI: 78.0
-- FLEX: Tee Higgins | C-AVI: 82.2 | D-AVI: 88.3
-- FLEX: Tucker Kraft | C-AVI: 79.4 | D-AVI: 86.3
+- TE: Dallas Goedert | C-AVI: 82.5 | D-AVI: 76.0
+- FLEX: Tee Higgins | C-AVI: 82.0 | D-AVI: 87.8
+- FLEX: Tucker Kraft | C-AVI: 79.2 | D-AVI: 85.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 79.1
-- Dynasty AVI (D-AVI, 0-100): 81.0
+- Championship AVI (C-AVI, 0-100): 79.2
+- Dynasty AVI (D-AVI, 0-100): 81.2
 - Projected PPR points: 310.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 47.8
-- Dynasty AVI (D-AVI, 0-100): 63.3
+- Championship AVI (C-AVI, 0-100): 47.9
+- Dynasty AVI (D-AVI, 0-100): 63.8
 - Projected PPR points: 253.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 78.0
-- Dynasty AVI (D-AVI, 0-100): 81.7
+- Championship AVI (C-AVI, 0-100): 78.2
+- Dynasty AVI (D-AVI, 0-100): 82.5
 - Projected PPR points: 224.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.2
-- Dynasty AVI (D-AVI, 0-100): 72.1
+- Championship AVI (C-AVI, 0-100): 49.5
+- Dynasty AVI (D-AVI, 0-100): 70.1
 - Projected PPR points: 116.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -121,26 +121,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 41.6
-- Dynasty AVI (D-AVI, 0-100): 52.5
+- Championship AVI (C-AVI, 0-100): 42.3
+- Dynasty AVI (D-AVI, 0-100): 54.8
 - Projected PPR points: 95.3
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Emanuel Wilson
-- Player name: Emanuel Wilson
-- Player ID: 11435
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: SEA
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 34.6
-- Dynasty AVI (D-AVI, 0-100): 46.7
-- Projected PPR points: 64.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -155,9 +138,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 34.5
-- Dynasty AVI (D-AVI, 0-100): 39.7
+- Championship AVI (C-AVI, 0-100): 37.0
+- Dynasty AVI (D-AVI, 0-100): 47.3
 - Projected PPR points: 83.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Emanuel Wilson
+- Player name: Emanuel Wilson
+- Player ID: 11435
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: SEA
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 35.6
+- Dynasty AVI (D-AVI, 0-100): 49.7
+- Projected PPR points: 64.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 30.0
-- Dynasty AVI (D-AVI, 0-100): 40.3
+- Championship AVI (C-AVI, 0-100): 30.8
+- Dynasty AVI (D-AVI, 0-100): 42.8
 - Projected PPR points: 43.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 98.7
-- Dynasty AVI (D-AVI, 0-100): 98.2
+- Championship AVI (C-AVI, 0-100): 98.8
+- Dynasty AVI (D-AVI, 0-100): 98.3
 - Projected PPR points: 333.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 82.2
-- Dynasty AVI (D-AVI, 0-100): 88.3
+- Championship AVI (C-AVI, 0-100): 82.0
+- Dynasty AVI (D-AVI, 0-100): 87.8
 - Projected PPR points: 220.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 53.1
-- Dynasty AVI (D-AVI, 0-100): 62.4
+- Championship AVI (C-AVI, 0-100): 54.7
+- Dynasty AVI (D-AVI, 0-100): 67.1
 - Projected PPR points: 162.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 34.0
-- Championship AVI (C-AVI, 0-100): 42.4
-- Dynasty AVI (D-AVI, 0-100): 47.3
+- Championship AVI (C-AVI, 0-100): 42.7
+- Dynasty AVI (D-AVI, 0-100): 48.2
 - Projected PPR points: 141.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 83.2
-- Dynasty AVI (D-AVI, 0-100): 78.0
+- Championship AVI (C-AVI, 0-100): 82.5
+- Dynasty AVI (D-AVI, 0-100): 76.0
 - Projected PPR points: 185.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 79.4
-- Dynasty AVI (D-AVI, 0-100): 86.3
+- Championship AVI (C-AVI, 0-100): 79.2
+- Dynasty AVI (D-AVI, 0-100): 85.6
 - Projected PPR points: 173.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

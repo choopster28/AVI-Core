@@ -16,12 +16,12 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-09-11T00:16:21.552558+00:00",
+  "generated_at_utc": "2026-09-11T16:25:56.401913+00:00",
   "in_season_transition": {
     "activation_policy": "Use only verified completed 2026 regular-season weeks; stale or partial player-points feeds do not activate the transition.",
     "completed_through_week": 0,
     "fantasypros_max_observed_week": 1,
-    "mapped_player_point_records": 19,
+    "mapped_player_point_records": 39,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 1,

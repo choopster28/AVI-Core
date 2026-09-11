@@ -3,166 +3,94 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Garrett Ball",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-10 23:39:18",
-      "created_formated": "Thu, Sep 10th 11:39pm UTC",
-      "desc": "Jordan Watkins will be inactive for the Niners game against the Rams on Thursday.",
-      "id": 607043,
-      "impact": "Watkins is buried on the depth chart, so this isn't totally surprising. His absence should have little impact on those ahead of him in the pecking order.",
-      "link": "https://www.fantasypros.com/nfl/news/607043/jordan-watkins-inactive-against-rams.php",
-      "player_id": 27486,
+      "created": "2026-09-11 16:07:28",
+      "created_formated": "Fri, Sep 11th 4:07pm UTC",
+      "desc": "Malik Nabers (knee) was seen warming up on the sidelines to prepare for Friday's practice according to Jordan Raanan.",
+      "id": 607135,
+      "impact": "Nabers has practiced fully the entire week for head coach John Harbaugh, putting the superstar wideout on track to suit up for Sunday's season opener against the Dallas Cowboys and providing a boost to a Giants offense looking to put a forgettable 2025-26 in the rearview mirror.",
+      "link": "https://www.fantasypros.com/nfl/news/607135/malik-nabers-knee-preparing-to-practice-friday.php",
+      "player_id": 25409,
       "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Jordan Watkins inactive against Rams"
+      "team_id": "NYG",
+      "title": "Malik Nabers (knee) preparing to practice Friday"
     },
     {
-      "author": "Garrett Ball",
+      "author": "Nate Miller",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-10 23:37:27",
-      "created_formated": "Thu, Sep 10th 11:37pm UTC",
-      "desc": "Max Klare has been ruled inactive against the Niners on Thursday.",
-      "id": 607042,
-      "impact": "Klare will join fellow rookies Ty Simpson and CJ Daniels on the sideline. The Rams have plenty of TE depth at their disposal, so Klare being a rookie inactive is hardly surprising.",
-      "link": "https://www.fantasypros.com/nfl/news/607042/max-klare-inactive-against-niners.php",
-      "player_id": 27993,
+      "created": "2026-09-11 16:02:26",
+      "created_formated": "Fri, Sep 11th 4:02pm UTC",
+      "desc": "Bobby Brown III (back) participated in Friday's practice and should be available for Sunday's season opener. ",
+      "id": 607134,
+      "impact": "Brown was limited at practice earlier in the week due to a back issue, but he looked good to go in Friday's session. Brown should be a starter up front for the Panthers' defense. He played in all 17 games last season, totaling 31 tackles with 0.5 sacks and one pass defended. ",
+      "link": "https://www.fantasypros.com/nfl/news/607134/bobby-brown-iii-back-participates-fridays-practice.php",
+      "player_id": 22768,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Max Klare inactive against Niners"
+      "team_id": "CAR",
+      "title": "Bobby Brown III (back) participates in Friday's practice"
     },
     {
-      "author": "Garrett Ball",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-10 23:35:53",
-      "created_formated": "Thu, Sep 10th 11:35pm UTC",
-      "desc": "CJ Daniels has been ruled inactive against the Niners on Thursday.",
-      "id": 607041,
-      "impact": "The rookie will join Ty Simpson and Max Klare on the sidelines as the Rams open up the season. He will look to find his way onto the field soon.",
-      "link": "https://www.fantasypros.com/nfl/news/607041/cj-daniels-inactive-against-niners-on-thursday.php",
-      "player_id": 28125,
+      "created": "2026-09-11 15:58:38",
+      "created_formated": "Fri, Sep 11th 3:58pm UTC",
+      "desc": "Dolphins head coach Jeff Hafley said he expects to have S Ronnie Harrison Jr. available for the opener on Sunday. ",
+      "id": 607133,
+      "impact": "Harrison has been limited in practice all week. He is on track to be good to go for Sunday's game against the Raiders. ",
+      "link": "https://www.fantasypros.com/nfl/news/607133/ronnie-harrison-jr-hamstring-expected-to-play-sunday.php",
+      "player_id": 17319,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "CJ Daniels inactive against Niners on Thursday"
+      "team_id": "MIA",
+      "title": "Ronnie Harrison Jr. (hamstring) expected to play Sunday "
     },
     {
-      "author": "Garrett Ball",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-10 23:34:28",
-      "created_formated": "Thu, Sep 10th 11:34pm UTC",
-      "desc": "Tutu Atwell will be inactive against the Niners on Thursday.",
-      "id": 607040,
-      "impact": "Atwell was recently traded to the Rams from Miami, joining his former team. He will need to wait another week to see the field.",
-      "link": "https://www.fantasypros.com/nfl/news/607040/tutu-atwell-inactive-against-niners.php",
-      "player_id": 20126,
+      "created": "2026-09-11 15:57:20",
+      "created_formated": "Fri, Sep 11th 3:57pm UTC",
+      "desc": "Dolphins head coach Jeff Hafley said he expects to have TE Will Kacmarek available for the opener on Sunday. ",
+      "id": 607132,
+      "impact": "Kacmarek has been limited in practice all week. He is on track to be good to go for Sunday's game against the Raiders. ",
+      "link": "https://www.fantasypros.com/nfl/news/607132/will-kacmarek-calf-expected-to-play-sunday.php",
+      "player_id": 28403,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Tutu Atwell inactive against Niners"
+      "team_id": "MIA",
+      "title": "Will Kacmarek (calf) expected to play Sunday "
     },
     {
-      "author": "Garrett Ball",
+      "author": "Nate Miller",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-10 23:33:14",
-      "created_formated": "Thu, Sep 10th 11:33pm UTC",
-      "desc": "Ty Simpson has been named the emergency third QB for the Rams on Thursday. Stetson Bennett will perform backup duties.",
-      "id": 607039,
-      "impact": "Simpson will need to develop more before getting his shot at being the primary backup. He was impressive in the preseason, but the Rams are opting to let the rookie sit a little longer before trusting him further.",
-      "link": "https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php",
-      "player_id": 25368,
+      "created": "2026-09-11 15:54:56",
+      "created_formated": "Fri, Sep 11th 3:54pm UTC",
+      "desc": "DJ Turner II (hamstring) took part in Friday's practice session. ",
+      "id": 607131,
+      "impact": "Turner has been bothered by a hamstring issue lately, but it looks promising that he will be good to go for Sunday's season opener. Turner played in all 17 games for the Bengals last season, recording 40 total tackles with two interceptions and two forced fumbles. ",
+      "link": "https://www.fantasypros.com/nfl/news/607131/dj-turner-ii-hamstring-practices-friday.php",
+      "player_id": 25262,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Ty Simpson out against Niners"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 23:31:13",
-      "created_formated": "Thu, Sep 10th 11:31pm UTC",
-      "desc": "Jeremiyah Love (ankle) was limited in practice on Thursday with an ankle injury.",
-      "id": 607038,
-      "impact": "Love is still hopeful to play for Week 1, and his involvement in practice is a good sign that he will do so. It will be interesting to see if Tyler Allgeier gets the first crack at things with Love having dealt with an injury, but don't be surprised if the Cardinals lean on their talented and explosive rookie.",
-      "link": "https://www.fantasypros.com/nfl/news/607038/jeremiyah-love-ankle-limited-practice-thursday.php",
-      "player_id": 25403,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Jeremiyah Love (ankle) limited in practice Thursday"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-09-10 23:26:41",
-      "created_formated": "Thu, Sep 10th 11:26pm UTC",
-      "desc": "A.J. Brown (ankle) is expected to miss at least four weeks with a high ankle sprain that he sustained early in the third quarter of the Patriots game against the Seahawks on Wednesday night.",
-      "id": 607037,
-      "impact": "It's a big blow to Brown's Fantasy stock to start the season. In his absence, expect Hunter Henry and Romeo Doubs to see more work. However, with Doubs was struggling to find snaps and catch the ball, it's possible that Demario Douglas could be a nice PPR sleeper.",
-      "link": "https://www.fantasypros.com/nfl/news/607037/aj-brown-ankle-expect-to-miss-least-four-weeks.php",
-      "player_id": 18218,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "A.J. Brown (ankle) expect to miss at least four weeks"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-10 23:22:08",
-      "created_formated": "Thu, Sep 10th 11:22pm UTC",
-      "desc": "Stetson Bennett IV has been named the primary backup for the Rams Week 1 game against the 49ers, with Ty Simpson as the emergency QB3.",
-      "id": 607036,
-      "impact": "Simpson still needs development so this doesn't come as much surprise. Bennett is a fine QB2, but hopefully he won't see the field unless it's a blowout.",
-      "link": "https://www.fantasypros.com/nfl/news/607036/stetson-bennett-iv-named-backup-stafford.php",
-      "player_id": 23927,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Stetson Bennett IV named backup for Stafford"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 22:32:46",
-      "created_formated": "Thu, Sep 10th 10:32pm UTC",
-      "desc": "Tua Tagovailoa (oblique) has been labeled day-to-day after suffering an oblique injury on Thursday during practice. Cooper Rush took first team snaps in his stead.",
-      "id": 607035,
-      "impact": "This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.",
-      "link": "https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php",
-      "player_id": 19198,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday"
+      "team_id": "CIN",
+      "title": "DJ Turner II (hamstring) practices Friday"
     },
     {
       "author": "Ari Koslow",
@@ -170,160 +98,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-09-10 21:19:47",
-      "created_formated": "Thu, Sep 10th 9:19pm UTC",
-      "desc": "Cooper Rush told reporters he took all the reps with the first-team in practice on Thursday. ",
-      "id": 607015,
-      "impact": "This comes after Tua Tagovailoa reportedly went down during individual drills as he was holding his back. This will remain a situation to monitor on Friday, but it looks like Rush could be starting on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/607015/cooper-rush-takes-first-team-reps-falcons-thursday.php",
-      "player_id": 16477,
+      "created": "2026-09-11 15:51:57",
+      "created_formated": "Fri, Sep 11th 3:51pm UTC",
+      "desc": "LB Mohamoud Diabate will be a game day elevation for the Titans on Sunday. ",
+      "id": 607129,
+      "impact": "Diabate will add depth in the linebacker room for the Titans in their season opener with Cedric Gray ruled out. ",
+      "link": "https://www.fantasypros.com/nfl/news/607129/mohamoud-diabate-to-be-elevated-sunday-by-titans.php",
+      "player_id": 25437,
       "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Cooper Rush takes first-team reps for Falcons Thursday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 21:14:54",
-      "created_formated": "Thu, Sep 10th 9:14pm UTC",
-      "desc": "Xavier Worthy (shoulder) was listed as a full participant at practice on Thursday.",
-      "id": 607012,
-      "impact": "To no surprise, Worthy seems to be over his shoulder injury and was able to practice in full on Thursday. He should be a full go for Week 1 but doesn't project to be a strong fantasy option in a matchup against the Broncos.",
-      "link": "https://www.fantasypros.com/nfl/news/607012/xavier-worthy-shoulder-listed-full-participant-thursday.php",
-      "player_id": 23019,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Xavier Worthy (shoulder) listed as full participant Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 21:13:25",
-      "created_formated": "Thu, Sep 10th 9:13pm UTC",
-      "desc": "Kenneth Walker III (foot) is off of the injury report ahead of Monday night's game against the Denver Broncos.",
-      "id": 607011,
-      "impact": "Walker was previously dealing with a foot injury of some kind, but he is over it now and is no longer listed on the team's injury report ahead of their Week 1 matchup against the Broncos. Fantasy managers should expect him to be highly involved on Monday night, although the tough matchup may hurt his ceiling from a fantasy perspective.",
-      "link": "https://www.fantasypros.com/nfl/news/607011/kenneth-walker-iii-foot-off-injury-report-monday.php",
-      "player_id": 23021,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Kenneth Walker III (foot) off injury report for Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 21:11:52",
-      "created_formated": "Thu, Sep 10th 9:11pm UTC",
-      "desc": "Trey Smith (hip) was a full participant at practice on Thursday.",
-      "id": 607010,
-      "impact": "Smith was battling through a hip injury earlier in the offseason, but he was a full participant at Thursday's practice and will likely be good to go for Week 1. His presence will be very necessary for Kansas City's offensive line ahead of a tough matchup against Denver's elite defense.",
-      "link": "https://www.fantasypros.com/nfl/news/607010/trey-smith-hip-full-participant-practice-thursday.php",
-      "player_id": 19241,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Trey Smith (hip) full participant at practice Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 21:08:54",
-      "created_formated": "Thu, Sep 10th 9:08pm UTC",
-      "desc": "Josh Simmons (back) did not take part in Kansas City's practice on Thursday.",
-      "id": 607008,
-      "impact": "Simmons is not expected to be available to play in Week 1, and he wasn't able to practice on Thursday, which is further confirmation of that report. Kahlil Benson is expected to be the starter in his likely absence, which is bad news for the Chiefs, as he is an inexperienced rookie facing up against one of the best defensive fronts in the entire league.",
-      "link": "https://www.fantasypros.com/nfl/news/607008/josh-simmons-back-doesnt-practice-thursday.php",
-      "player_id": 27026,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Josh Simmons (back) doesn't practice Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 21:05:52",
-      "created_formated": "Thu, Sep 10th 9:05pm UTC",
-      "desc": "Rashee Rice (knee) logged a full practice session on Thursday.",
-      "id": 607005,
-      "impact": "As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.",
-      "link": "https://www.fantasypros.com/nfl/news/607005/rashee-rice-knee-logs-full-practice-thursday.php",
-      "player_id": 23113,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Rashee Rice (knee) logs full practice Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 21:03:17",
-      "created_formated": "Thu, Sep 10th 9:03pm UTC",
-      "desc": "Patrick Mahomes II (knee) practiced in a full capacity on Thursday.",
-      "id": 607002,
-      "impact": "Mahomes was able to take part in Kansas City's first practice of the week on Thursday and wasn't limited in any way. It seems like the team is planning on him starting on Monday night, barring any unforeseen setbacks. His presence would be great news for the fantasy value of players like Rashee Rice and Travis Kelce in a matchup against a tough Denver defense.",
-      "link": "https://www.fantasypros.com/nfl/news/607002/patrick-mahomes-ii-knee-practices-full-thursday.php",
-      "player_id": 16413,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Patrick Mahomes II (knee) practices in full Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 21:00:51",
-      "created_formated": "Thu, Sep 10th 9:00pm UTC",
-      "desc": "Luke Schoonmaker (personal) missed Dallas' practice on Thursday.",
-      "id": 606999,
-      "impact": "Schoonmaker was absent from practice on Thursday due to what is being described as a personal issue of some kind. We should get more clarity regarding his status for Week 1 sometime after Friday's practice.",
-      "link": "https://www.fantasypros.com/nfl/news/606999/luke-schoonmaker-personal-misses-practice-thursday.php",
-      "player_id": 25267,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Luke Schoonmaker (personal) misses practice Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 20:38:52",
-      "created_formated": "Thu, Sep 10th 8:38pm UTC",
-      "desc": "Tee Higgins (foot) practiced in a full capacity again on Thursday.",
-      "id": 606988,
-      "impact": "The Bengals will likely have Higgins for their season opener on Sunday, as he has been a full participant at two-straight practices to start the week. Fantasy managers should feel confident starting him if he's fully cleared to play prior to kickoff against the Buccaneers.",
-      "link": "https://www.fantasypros.com/nfl/news/606988/tee-higgins-foot-practices-full-again-thursday.php",
-      "player_id": 19211,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Tee Higgins (foot) practices in full again Thursday"
+      "team_id": "TEN",
+      "title": "Mohamoud Diabate to be elevated Sunday by Titans"
     },
     {
       "author": "Ari Koslow",
@@ -332,34 +116,33 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-10 20:38:18",
-      "created_formated": "Thu, Sep 10th 8:38pm UTC",
-      "desc": "Billy Schrauth was a full participant in practice on Thursday. ",
-      "id": 606987,
-      "impact": "Schrauth is on track to be good to go for Sunday after back-to-back full practices. ",
-      "link": "https://www.fantasypros.com/nfl/news/606987/billy-schrauth-knee-logs-full-practice-thursday.php",
-      "player_id": 28274,
+      "created": "2026-09-11 15:49:44",
+      "created_formated": "Fri, Sep 11th 3:49pm UTC",
+      "desc": "Cedric Gray has been ruled out for Sunday's game against the Jets. ",
+      "id": 607128,
+      "impact": "Gray was placed on concussion protocol earlier this week. He will miss at least one game as a result. ",
+      "link": "https://www.fantasypros.com/nfl/news/607128/cedric-gray-concussion-ruled-out-sunday.php",
+      "player_id": 26168,
       "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Billy Schrauth (knee) logs full practice Thursday "
+      "team_id": "TEN",
+      "title": "Cedric Gray (concussion) ruled out Sunday "
     },
     {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-09-10 20:37:33",
-      "created_formated": "Thu, Sep 10th 8:37pm UTC",
-      "desc": "Ja'Marr Chase (knee) logged another full practice session on Thursday.",
-      "id": 606986,
-      "impact": "As expected, Chase was able to log yet another full practice session on Thursday. He is trending towards being a full go for the season opener on Sunday, assuming there are no unforeseen setbacks between now and then. He will be a top-tier fantasy option if active in Week 1 and beyond.",
-      "link": "https://www.fantasypros.com/nfl/news/606986/jamarr-chase-knee-logs-full-practice-thursday.php",
-      "player_id": 19788,
+      "created": "2026-09-11 15:47:40",
+      "created_formated": "Fri, Sep 11th 3:47pm UTC",
+      "desc": "The Browns have waived WR Jamari Thrash from injured reserve.",
+      "id": 607127,
+      "impact": "Thrash will figure to seek another opportunity early in the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/607127/jamari-thrash-waived-by-browns.php",
+      "player_id": 26162,
       "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Ja'Marr Chase (knee) logs full practice Thursday"
+      "team_id": "CLE",
+      "title": "Jamari Thrash waived by Browns"
     },
     {
       "author": "Ari Koslow",
@@ -368,88 +151,298 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-10 20:37:18",
-      "created_formated": "Thu, Sep 10th 8:37pm UTC",
-      "desc": "Rueben Bain Jr. was a full participant in practice on Thursday. ",
-      "id": 606985,
-      "impact": "Bain suffered an AC sprain two weeks ago. His return to a full practice on Thursday puts him on track to be good to go for Sunday's game against the Bengals. ",
-      "link": "https://www.fantasypros.com/nfl/news/606985/rueben-bain-jr-shoulder-logs-full-practice-thursday.php",
-      "player_id": 28772,
+      "created": "2026-09-11 15:43:11",
+      "created_formated": "Fri, Sep 11th 3:43pm UTC",
+      "desc": "Lions head coach Dan Campbell said he feels good about Derrick Moore's chances of playing on Sunday.",
+      "id": 607125,
+      "impact": "Moore has been limited in practice all week due to a hamstring injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/607125/derrick-moore-hamstring-expected-to-play-sunday.php",
+      "player_id": 27977,
       "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Rueben Bain Jr. (shoulder) logs full practice Thursday "
+      "team_id": "DET",
+      "title": "Derrick Moore (hamstring) expected to play Sunday "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
+        "News"
+      ],
+      "created": "2026-09-11 15:41:34",
+      "created_formated": "Fri, Sep 11th 3:41pm UTC",
+      "desc": "Lions head coach Dan Campbell said there is a good chance that Christian Mahogany starts at left guard on Sunday against the Saints. ",
+      "id": 607124,
+      "impact": "Mahogany was competing for the starting left guard job all offseason, which he won heading into Week 1. ",
+      "link": "https://www.fantasypros.com/nfl/news/607124/christian-mahogany-expected-to-start-left-guard-sunday.php",
+      "player_id": 25312,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Christian Mahogany expected to start at left guard Sunday "
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-10 20:35:44",
-      "created_formated": "Thu, Sep 10th 8:35pm UTC",
-      "desc": "Sean Tucker was listed as a limited participant in practice on Thursday. ",
-      "id": 606984,
-      "impact": "Tucker made his return after he was absent from practice on Wednesday. With one more limited session, he should be good to go for Sunday's season opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/606984/sean-tucker-hamstring-officially-limited-practice-thursday.php",
+      "created": "2026-09-11 15:40:00",
+      "created_formated": "Fri, Sep 11th 3:40pm UTC",
+      "desc": "Sean Tucker (hamstring) got in another practice session on Friday. ",
+      "id": 607123,
+      "impact": "Tucker has been dealing with a hamstring issue, but he looks ready for Sunday's season opener. Tucker played in all 17 games for the Buccaneers last season, averaging 3.7 yards on 86 carries with seven touchdowns. ",
+      "link": "https://www.fantasypros.com/nfl/news/607123/sean-tucker-hamstring-taking-part-practice-friday.php",
       "player_id": 23679,
       "sport_id": "NFL",
       "team_id": "TB",
-      "title": "Sean Tucker (hamstring) officially limited in practice Thursday "
+      "title": "Sean Tucker (hamstring) taking part in practice Friday"
     },
     {
-      "author": "Leo Sells",
+      "author": "Nate Miller",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-10 20:35:25",
-      "created_formated": "Thu, Sep 10th 8:35pm UTC",
-      "desc": "Alvin Kamara (knee) was listed as a limited participant at practice on Thursday.",
-      "id": 606983,
-      "impact": "Kamara continues to beat expectations with his injury timeline, participating in a second-straight practice again on Thursday. He remained limited, but there have been reports that he is trending towards playing in Week 1 of the season. If that's the case, that will be negative news for the fantasy value of Kendre Miller moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/606983/alvin-kamara-knee-listed-limited-again-thursday.php",
-      "player_id": 16421,
+      "created": "2026-09-11 15:37:18",
+      "created_formated": "Fri, Sep 11th 3:37pm UTC",
+      "desc": "Jalen McMillan (knee) was a full participant in Friday's practice session. ",
+      "id": 607122,
+      "impact": "After being limited by a knee issue on Thursday, McMillan showed no limitations on Friday. The third-year receiver is looking for a strong start after playing in only four games last season due to injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/607122/jalen-mcmillan-knee-practicing-full.php",
+      "player_id": 23179,
       "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Alvin Kamara (knee) listed as limited again Thursday"
+      "team_id": "TB",
+      "title": "Jalen McMillan (knee) practicing in full"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-11 15:30:39",
+      "created_formated": "Fri, Sep 11th 3:30pm UTC",
+      "desc": "Emeka Egbuka (toe) participates fully in Friday's practice session. ",
+      "id": 607121,
+      "impact": "It certainly seems that Egbuka will have no limitations for Sunday's season opener against the Bengals. The second-year wideout will lead the Buccaneers' receiving corps for quarterback Baker Mayfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/607121/emeka-egbuka-toe-practicing-again-friday.php",
+      "player_id": 23062,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Emeka Egbuka (toe) practicing again Friday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-11 15:28:52",
+      "created_formated": "Fri, Sep 11th 3:28pm UTC",
+      "desc": "Jonathon Brooks (groin) is in practice uniform today. This will mark his third consecutive day of practice.",
+      "id": 607120,
+      "impact": "Brooks has steadily improved since suffering the groin injury and looks like he is on his way to playing in Week 1. His workload might be lessened, as the team is looking to keep him healthy for the long term. However, while he might be tough to start, he's an interesting name to watch on opening week.",
+      "link": "https://www.fantasypros.com/nfl/news/607120/jonathon-brooks-groin-practicing-third-straight-day.php",
+      "player_id": 26148,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Jonathon Brooks (groin) practicing for third straight day"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-11 15:27:38",
+      "created_formated": "Fri, Sep 11th 3:27pm UTC",
+      "desc": "DaQuan Jones is expected to sign with the Patriots on Friday. ",
+      "id": 607119,
+      "impact": "Jones will give the Patriots some added strength on the defensive front heading into Week 2. The 12-year veteran played 12 games for the Bills last season, recording 22 total tackles, three sacks, and one forced fumble. ",
+      "link": "https://www.fantasypros.com/nfl/news/607119/daquan-jones-to-sign-with-patriots.php",
+      "player_id": 12241,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "DaQuan Jones to sign with Patriots"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-11 15:19:54",
+      "created_formated": "Fri, Sep 11th 3:19pm UTC",
+      "desc": "Joseph Ossai (foot) will not play in Week 1 against the Titans. ",
+      "id": 607118,
+      "impact": "Ossai had been considered week-to-week with his foot injury. Now, it's been confirmed that he will miss the season opener. Ossai was a free-agent acquisition this offseason for the Jets after recording five sacks in each of the past two seasons for the Bengals. ",
+      "link": "https://www.fantasypros.com/nfl/news/607118/joseph-ossai-foot-out-week-1.php",
+      "player_id": 22696,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Joseph Ossai (foot) out for Week 1"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-11 15:17:06",
+      "created_formated": "Fri, Sep 11th 3:17pm UTC",
+      "desc": "Tim Patrick (groin) won't be available for Sunday's season opener. ",
+      "id": 607117,
+      "impact": "Patrick has yet to return to practice, so it's no surprise that he will not play in Week 1. The veteran receiver signed with the Jets this offseason after catching 15 passes with three touchdowns over 16 games for the Jaguars last season. ",
+      "link": "https://www.fantasypros.com/nfl/news/607117/tim-patrick-groin-out-week-1.php",
+      "player_id": 16556,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Tim Patrick (groin) out for Week 1"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-11 15:14:17",
+      "created_formated": "Fri, Sep 11th 3:14pm UTC",
+      "desc": "Kene Nwangwu (back) has been listed as doubtful for Sunday's season opener. ",
+      "id": 607116,
+      "impact": "Nwangwu has been dealing with a back issue and will likely sit out Sunday's game in Tennessee. Nwangwu does most of his work on special teams for the Jets. He has returned five kicks for touchdowns over his five seasons, including one last year. ",
+      "link": "https://www.fantasypros.com/nfl/news/607116/kene-nwangwu-back-doubtful-week-1.php",
+      "player_id": 23249,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Kene Nwangwu (back) doubtful for Week 1"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-11 15:12:53",
+      "created_formated": "Fri, Sep 11th 3:12pm UTC",
+      "desc": "Jason Sanders will kick for the Jets on Sunday, rather than Blake Gruppe. Sanders gets a promotion from the practice squad.",
+      "id": 607115,
+      "impact": "Sanders lad got a chance in Miami in 2024, and has hit field goals at a near 85% clip. He should be a solid kicker for the Jets, but for fantasy it's not incredibly appealing given the questions surrounding the Jets offense.",
+      "link": "https://www.fantasypros.com/nfl/news/607115/jason-sanders-to-kick-jets-on-sunday.php",
+      "player_id": 17533,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Jason Sanders to kick for Jets on Sunday"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-11 15:10:08",
+      "created_formated": "Fri, Sep 11th 3:10pm UTC",
+      "desc": "D'Angelo Ponds (calf) is doubtful for Sunday's season opener against the Titans. ",
+      "id": 607114,
+      "impact": "Ponds has been trying to make his way back in time for his first NFL game, but it looks like he will have to wait at least one more week. Ponds was selected in the second round of this year's draft by the Jets after winning a national championship at Indiana last season. ",
+      "link": "https://www.fantasypros.com/nfl/news/607114/dangelo-ponds-calf-doubtful-sunday.php",
+      "player_id": 27992,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "D'Angelo Ponds (calf) doubtful for Sunday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-11 15:04:05",
+      "created_formated": "Fri, Sep 11th 3:04pm UTC",
+      "desc": "Jeremiyah Love (ankle) is expected to play on Sunday, per a report by Josh Weinfuss.",
+      "id": 607111,
+      "impact": "Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.",
+      "link": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php",
+      "player_id": 25403,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Jeremiyah Love (ankle) expected to play on Sunday"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-11 14:48:27",
+      "created_formated": "Fri, Sep 11th 2:48pm UTC",
+      "desc": "Brevyn Spann-Ford signed a three-year contract extension with the Cowboys on Thursday. ",
+      "id": 607110,
+      "impact": "After originally signing as an undrafted free agent, Spann-Ford has played in 17 games each of the last two seasons for the Cowboys. He's not been much of a pass catcher, but the 26-year-old tight end has excelled as a blocker and special-teams contributor. ",
+      "link": "https://www.fantasypros.com/nfl/news/607110/brevyn-spann-ford-inks-extension-with-cowboys.php",
+      "player_id": 26003,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Brevyn Spann-Ford inks extension with Cowboys"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-11 14:07:58",
+      "created_formated": "Fri, Sep 11th 2:07pm UTC",
+      "desc": "Jake Tonges (knee) exited Thursday's game early and will be further evaluated Friday. ",
+      "id": 607109,
+      "impact": "After Thursday's win, San Francisco head coach Kyle Shanahan said simply that it \"wasn't good,\" regarding Tonges' injury. The early reports suggest an MCL injury, but the 27-year-old tight end's status should become more clear on Friday. ",
+      "link": "https://www.fantasypros.com/nfl/news/607109/jake-tonges-knee-to-be-further-evaluated.php",
+      "player_id": 24778,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Jake Tonges (knee) to be further evaluated "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-09-10 20:34:35",
-      "created_formated": "Thu, Sep 10th 8:34pm UTC",
-      "desc": "Justin Skule remained limited in practice on Thursday. ",
-      "id": 606982,
-      "impact": "Skule has been limited back-to-back days to start the week. He should be good to go for Sunday with at least one more limited practice on Friday. ",
-      "link": "https://www.fantasypros.com/nfl/news/606982/justin-skule-oblique-limited-practice-thursday.php",
-      "player_id": 18551,
+      "created": "2026-09-11 06:25:28",
+      "created_formated": "Fri, Sep 11th 6:25am UTC",
+      "desc": "The Raiders waived OL Atonio Mafi. ",
+      "id": 607106,
+      "impact": "Mafi will seek another opportunity early in the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/607106/atonio-mafi-waived-by-raiders.php",
+      "player_id": 25526,
       "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Justin Skule (oblique) limited in practice Thursday "
+      "team_id": "FA",
+      "title": "Atonio Mafi waived by Raiders"
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-09-10 20:33:43",
-      "created_formated": "Thu, Sep 10th 8:33pm UTC",
-      "desc": "Christian Rozeboom was limited in practice on Thursday. ",
-      "id": 606980,
-      "impact": "Rozeboom has been limited back-to-back days to start the week. He should be good to go for Sunday with at least one more limited practice on Friday. ",
-      "link": "https://www.fantasypros.com/nfl/news/606980/christian-rozeboom-foot-limited-practice-thursday.php",
-      "player_id": 19713,
+      "created": "2026-09-11 06:24:36",
+      "created_formated": "Fri, Sep 11th 6:24am UTC",
+      "desc": "The Raiders claimed OL Bryce Cabeldue off waivers. ",
+      "id": 607105,
+      "impact": "Cabeldue was waived by the Seahawks. He will reunite with Klint Kubiak with Las Vegas. ",
+      "link": "https://www.fantasypros.com/nfl/news/607105/bryce-cabeldue-claimed-off-waivers-by-raiders.php",
+      "player_id": 27306,
       "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Christian Rozeboom (foot) limited in practice Thursday "
+      "team_id": "LV",
+      "title": "Bryce Cabeldue claimed off waivers by Raiders"
     }
   ],
   "public_api_limited": true,

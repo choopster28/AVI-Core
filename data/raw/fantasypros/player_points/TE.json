@@ -1,6 +1,58 @@
 {
   "players": [
     {
+      "average": 2.3,
+      "filename": "davis-allen.php",
+      "games": 1,
+      "player_id": 23761,
+      "player_name": "Davis Allen",
+      "points": 2.3,
+      "position_id": "TE",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 2.3
+      }
+    },
+    {
+      "average": 1.2,
+      "filename": "tyler-higbee.php",
+      "games": 1,
+      "player_id": 15623,
+      "player_name": "Tyler Higbee",
+      "points": 1.2,
+      "position_id": "TE",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 1.2
+      }
+    },
+    {
+      "average": 1.6,
+      "filename": "colby-parkinson.php",
+      "games": 1,
+      "player_id": 19372,
+      "player_name": "Colby Parkinson",
+      "points": 1.6,
+      "position_id": "TE",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 1.6
+      }
+    },
+    {
+      "average": 3.2,
+      "filename": "george-kittle.php",
+      "games": 1,
+      "player_id": 16499,
+      "player_name": "George Kittle",
+      "points": 3.2,
+      "position_id": "TE",
+      "team_id": "SF",
+      "weeks": {
+        "1": 3.2
+      }
+    },
+    {
       "average": 0,
       "filename": "eric-saubert.php",
       "games": 1,
@@ -24,6 +76,19 @@
       "team_id": "NE",
       "weeks": {
         "1": 5.6
+      }
+    },
+    {
+      "average": 3.9,
+      "filename": "luke-farrell.php",
+      "games": 1,
+      "player_id": 19501,
+      "player_name": "Luke Farrell",
+      "points": 3.9,
+      "position_id": "TE",
+      "team_id": "SF",
+      "weeks": {
+        "1": 3.9
       }
     },
     {
@@ -63,6 +128,19 @@
       "team_id": "SEA",
       "weeks": {
         "1": 3.3
+      }
+    },
+    {
+      "average": 0,
+      "filename": "terrance-ferguson.php",
+      "games": 1,
+      "player_id": 23091,
+      "player_name": "Terrance Ferguson",
+      "points": 0,
+      "position_id": "TE",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 0
       }
     }
   ],

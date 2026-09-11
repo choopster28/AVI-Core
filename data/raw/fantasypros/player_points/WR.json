@@ -1,6 +1,19 @@
 {
   "players": [
     {
+      "average": 12.4,
+      "filename": "puka-nacua.php",
+      "games": 1,
+      "player_id": 23180,
+      "player_name": "Puka Nacua",
+      "points": 12.4,
+      "position_id": "WR",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 12.4
+      }
+    },
+    {
       "average": 5.5,
       "filename": "cooper-kupp.php",
       "games": 1,
@@ -24,6 +37,19 @@
       "team_id": "NE",
       "weeks": {
         "1": 0
+      }
+    },
+    {
+      "average": 13,
+      "filename": "demarcus-robinson.php",
+      "games": 1,
+      "player_id": 15665,
+      "player_name": "Demarcus Robinson",
+      "points": 13,
+      "position_id": "WR",
+      "team_id": "SF",
+      "weeks": {
+        "1": 13
       }
     },
     {
@@ -53,6 +79,45 @@
       }
     },
     {
+      "average": 18,
+      "filename": "deebo-samuel.php",
+      "games": 1,
+      "player_id": 18244,
+      "player_name": "Deebo Samuel Sr.",
+      "points": 18,
+      "position_id": "WR",
+      "team_id": "SF",
+      "weeks": {
+        "1": 18
+      }
+    },
+    {
+      "average": 0,
+      "filename": "khadarel-hodge.php",
+      "games": 1,
+      "player_id": 18166,
+      "player_name": "KhaDarel Hodge",
+      "points": 0,
+      "position_id": "WR",
+      "team_id": "SF",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 1.8,
+      "filename": "jordan-whittington.php",
+      "games": 1,
+      "player_id": 23135,
+      "player_name": "Jordan Whittington",
+      "points": 1.8,
+      "position_id": "WR",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 1.8
+      }
+    },
+    {
       "average": 9.1,
       "filename": "mack-hollins.php",
       "games": 1,
@@ -76,6 +141,32 @@
       "team_id": "NE",
       "weeks": {
         "1": 7
+      }
+    },
+    {
+      "average": 0,
+      "filename": "xavier-smith.php",
+      "games": 1,
+      "player_id": 25627,
+      "player_name": "Xavier Smith",
+      "points": 0,
+      "position_id": "WR",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "jacob-cowing.php",
+      "games": 1,
+      "player_id": 25289,
+      "player_name": "Jacob Cowing",
+      "points": 0,
+      "position_id": "WR",
+      "team_id": "SF",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -105,6 +196,32 @@
       }
     },
     {
+      "average": 16.9,
+      "filename": "mike-evans.php",
+      "games": 1,
+      "player_id": 12119,
+      "player_name": "Mike Evans",
+      "points": 16.9,
+      "position_id": "WR",
+      "team_id": "SF",
+      "weeks": {
+        "1": 16.9
+      }
+    },
+    {
+      "average": 0,
+      "filename": "konata-mumpfield.php",
+      "games": 1,
+      "player_id": 27449,
+      "player_name": "Konata Mumpfield",
+      "points": 0,
+      "position_id": "WR",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 1.4,
       "filename": "rashid-shaheed.php",
       "games": 1,
@@ -115,6 +232,19 @@
       "team_id": "SEA",
       "weeks": {
         "1": 1.4
+      }
+    },
+    {
+      "average": 5.6,
+      "filename": "davante-adams.php",
+      "games": 1,
+      "player_id": 12123,
+      "player_name": "Davante Adams",
+      "points": 5.6,
+      "position_id": "WR",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 5.6
       }
     }
   ],

@@ -27,6 +27,32 @@
       }
     },
     {
+      "average": 1.4,
+      "filename": "stetson-bennett.php",
+      "games": 1,
+      "player_id": 23927,
+      "player_name": "Stetson Bennett IV",
+      "points": 1.42,
+      "position_id": "QB",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 1.4
+      }
+    },
+    {
+      "average": 5.1,
+      "filename": "matthew-stafford.php",
+      "games": 1,
+      "player_id": 9451,
+      "player_name": "Matthew Stafford",
+      "points": 5.1,
+      "position_id": "QB",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 5.1
+      }
+    },
+    {
       "average": 12.8,
       "filename": "drake-maye.php",
       "games": 1,
@@ -37,6 +63,19 @@
       "team_id": "NE",
       "weeks": {
         "1": 12.8
+      }
+    },
+    {
+      "average": 22.1,
+      "filename": "brock-purdy.php",
+      "games": 1,
+      "player_id": 19797,
+      "player_name": "Brock Purdy",
+      "points": 22.1,
+      "position_id": "QB",
+      "team_id": "SF",
+      "weeks": {
+        "1": 22.1
       }
     }
   ],

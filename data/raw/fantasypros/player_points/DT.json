@@ -53,6 +53,71 @@
       }
     },
     {
+      "average": 6.8,
+      "filename": "tyler-davis-dt.php",
+      "games": 1,
+      "player_id": 23756,
+      "player_name": "Tyler Davis",
+      "points": 6.75,
+      "position_id": "DT",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 6.8
+      }
+    },
+    {
+      "average": 2.3,
+      "filename": "cj-west.php",
+      "games": 1,
+      "player_id": 27274,
+      "player_name": "C.J. West",
+      "points": 2.25,
+      "position_id": "DT",
+      "team_id": "SF",
+      "weeks": {
+        "1": 2.3
+      }
+    },
+    {
+      "average": 1.5,
+      "filename": "james-thompson-jr.php",
+      "games": 1,
+      "player_id": 28559,
+      "player_name": "James Thompson Jr.",
+      "points": 1.5,
+      "position_id": "DT",
+      "team_id": "SF",
+      "weeks": {
+        "1": 1.5
+      }
+    },
+    {
+      "average": 6.8,
+      "filename": "kobie-turner.php",
+      "games": 1,
+      "player_id": 25283,
+      "player_name": "Kobie Turner",
+      "points": 6.75,
+      "position_id": "DT",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 6.8
+      }
+    },
+    {
+      "average": 2.3,
+      "filename": "braden-fiske.php",
+      "games": 1,
+      "player_id": 26195,
+      "player_name": "Braden Fiske",
+      "points": 2.25,
+      "position_id": "DT",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 2.3
+      }
+    },
+    {
       "average": 8.8,
       "filename": "dremont-jones.php",
       "games": 1,
@@ -66,6 +131,19 @@
       }
     },
     {
+      "average": 0.8,
+      "filename": "desjuan-johnson.php",
+      "games": 1,
+      "player_id": 25581,
+      "player_name": "Desjuan Johnson",
+      "points": 0.75,
+      "position_id": "DT",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 0.8
+      }
+    },
+    {
       "average": 1.5,
       "filename": "jarran-reed.php",
       "games": 1,
@@ -76,6 +154,19 @@
       "team_id": "SEA",
       "weeks": {
         "1": 1.5
+      }
+    },
+    {
+      "average": 0.8,
+      "filename": "ty-hamilton.php",
+      "games": 1,
+      "player_id": 27153,
+      "player_name": "Ty Hamilton",
+      "points": 0.75,
+      "position_id": "DT",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 0.8
       }
     },
     {

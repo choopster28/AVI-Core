@@ -27,6 +27,45 @@
       }
     },
     {
+      "average": 9.8,
+      "filename": "marques-sigle.php",
+      "games": 1,
+      "player_id": 27477,
+      "player_name": "Marques Sigle",
+      "points": 9.75,
+      "position_id": "S",
+      "team_id": "SF",
+      "weeks": {
+        "1": 9.8
+      }
+    },
+    {
+      "average": 4.5,
+      "filename": "jiayir-brown.php",
+      "games": 1,
+      "player_id": 25258,
+      "player_name": "Ji'Ayir Brown",
+      "points": 4.5,
+      "position_id": "S",
+      "team_id": "SF",
+      "weeks": {
+        "1": 4.5
+      }
+    },
+    {
+      "average": 0,
+      "filename": "ashtyn-davis.php",
+      "games": 1,
+      "player_id": 19232,
+      "player_name": "Ashtyn Davis",
+      "points": 0,
+      "position_id": "S",
+      "team_id": "SF",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 19,
       "filename": "julian-love.php",
       "games": 1,
@@ -40,6 +79,45 @@
       }
     },
     {
+      "average": 2.3,
+      "filename": "malik-mustapha.php",
+      "games": 1,
+      "player_id": 26326,
+      "player_name": "Malik Mustapha",
+      "points": 2.25,
+      "position_id": "S",
+      "team_id": "SF",
+      "weeks": {
+        "1": 2.3
+      }
+    },
+    {
+      "average": 22.3,
+      "filename": "quentin-lake.php",
+      "games": 1,
+      "player_id": 24302,
+      "player_name": "Quentin Lake",
+      "points": 22.25,
+      "position_id": "S",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 22.3
+      }
+    },
+    {
+      "average": 6,
+      "filename": "kamren-kinchens.php",
+      "games": 1,
+      "player_id": 26109,
+      "player_name": "Kamren Kinchens",
+      "points": 6,
+      "position_id": "S",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 6
+      }
+    },
+    {
       "average": 5.3,
       "filename": "kevin-byard.php",
       "games": 1,
@@ -50,6 +128,32 @@
       "team_id": "NE",
       "weeks": {
         "1": 5.3
+      }
+    },
+    {
+      "average": 5.3,
+      "filename": "jaylen-mccollough.php",
+      "games": 1,
+      "player_id": 26733,
+      "player_name": "Jaylen McCollough",
+      "points": 5.25,
+      "position_id": "S",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 5.3
+      }
+    },
+    {
+      "average": 3,
+      "filename": "kamren-curl.php",
+      "games": 1,
+      "player_id": 19459,
+      "player_name": "Kam Curl",
+      "points": 3,
+      "position_id": "S",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 3
       }
     },
     {

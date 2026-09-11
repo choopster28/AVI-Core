@@ -27,6 +27,45 @@
       }
     },
     {
+      "average": 15.5,
+      "filename": "kyren-williams.php",
+      "games": 1,
+      "player_id": 23059,
+      "player_name": "Kyren Williams",
+      "points": 15.5,
+      "position_id": "RB",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 15.5
+      }
+    },
+    {
+      "average": 3.4,
+      "filename": "ronnie-rivers.php",
+      "games": 1,
+      "player_id": 23986,
+      "player_name": "Ronnie Rivers",
+      "points": 3.4,
+      "position_id": "RB",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 3.4
+      }
+    },
+    {
+      "average": 8,
+      "filename": "kaelon-black.php",
+      "games": 1,
+      "player_id": 28401,
+      "player_name": "Kaelon Black",
+      "points": 8,
+      "position_id": "RB",
+      "team_id": "SF",
+      "weeks": {
+        "1": 8
+      }
+    },
+    {
       "average": 14.5,
       "filename": "rhamondre-stevenson.php",
       "games": 1,
@@ -37,6 +76,19 @@
       "team_id": "NE",
       "weeks": {
         "1": 14.5
+      }
+    },
+    {
+      "average": 5.4,
+      "filename": "blake-corum.php",
+      "games": 1,
+      "player_id": 23013,
+      "player_name": "Blake Corum",
+      "points": 5.4,
+      "position_id": "RB",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 5.4
       }
     },
     {
@@ -76,6 +128,19 @@
       "team_id": "NE",
       "weeks": {
         "1": 2.9
+      }
+    },
+    {
+      "average": 13.8,
+      "filename": "christian-mccaffrey.php",
+      "games": 1,
+      "player_id": 16393,
+      "player_name": "Christian McCaffrey",
+      "points": 13.8,
+      "position_id": "RB",
+      "team_id": "SF",
+      "weeks": {
+        "1": 13.8
       }
     }
   ],
