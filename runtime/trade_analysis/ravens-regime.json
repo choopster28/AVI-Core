@@ -1,5 +1,449 @@
 [
   {
+    "id": "mtxf6grk-e90e71b9",
+    "createdAt": 1789159234157,
+    "expiresAt": 1789591234157,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Southside Savages ↔ Ravens Regime",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Southside Savages",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Kyle Monangai",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 3rd · Ravens · Projected mid range (3.06–3.09)",
+          "assetType": "pick"
+        },
+        {
+          "name": "Isaiah Likely",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "TreVeyon Henderson",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · Southside · Projected mid range (2.06–2.09)",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The proposed transaction effectively addresses Southside Savages' primary roster weakness at tight end by acquiring Isaiah Likely (69.1 C-AVI) while securing starting RB depth with 24-year-old Kyle Monangai (57.4 C-AVI). In exchange, Southside sends TreVeyon Henderson (68.4 C-AVI, 85.2 D-AVI) and a 2027 2nd-round pick while receiving a 2027 3rd-round pick back. The trade net-upgrades Southside's starting lineup C-AVI by +3.1 points (+14.1 at TE, -11.0 at RB2), fulfilling the goal to Increase Championship Odds in this 16-team format. For Ravens Regime, receiving a 23-year-old centerpiece RB in Henderson plus a 2027 2nd offers strong foundational value for two rotational starters.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "TreVeyon Henderson",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 23,
+              "cavi": 68.4,
+              "davi": 85.2,
+              "publicMarket": 80,
+              "leagueMarket": 76.8
+            },
+            {
+              "name": "2027 2nd · Southside",
+              "assetType": "pick",
+              "owner": "Southside Savages",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 57.4,
+              "davi": 74.9,
+              "publicMarket": 60,
+              "leagueMarket": 62
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 26,
+              "cavi": 69.1,
+              "davi": 78.7,
+              "publicMarket": 72,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2027 3rd · Ravens",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Southside Savages",
+            "summary": "Southside Savages directly upgrades its lowest-scoring starting position (TE) with Isaiah Likely (+14.1 C-AVI upgrade over Chig Okonkwo) while maintaining solid RB2 production with Kyle Monangai. The net starting lineup C-AVI increases by +3.1 points for Southside. Ravens Regime secures the single highest-ceiling dynasty asset in 23-year-old TreVeyon Henderson (85.2 D-AVI) and upgrades draft capital from a 3rd to a 2nd."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Southside Savages",
+            "summary": "The proposed package is strategically sound and well-constructed for both Playoff Push contenders. Recommend submitting as structured."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Improves overall starting lineup C-AVI sum by +3.1 points while solving the primary starting TE vulnerability."
+            },
+            "championshipOutlook": {
+              "score": 20,
+              "summary": "Upgrades starting TE slot with Isaiah Likely (69.1 C-AVI), giving Southside a weekly positional advantage."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Trades away TreVeyon Henderson (85.2 D-AVI), slightly reducing top-end young RB dynasty value."
+            },
+            "lineupQuality": {
+              "score": 15,
+              "summary": "Eliminates weak starting TE slot (Okonkwo 55.0 C-AVI) while inserting Monangai (57.4 C-AVI) at RB2."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Acquires two weekly startable options (Likely, Monangai) to bolster roster depth in a 16-team format."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Downgrades future draft capital from a 2027 2nd to a 2027 3rd."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 15,
+              "summary": "Acquires elite 23-year-old dynasty RB TreVeyon Henderson and upgrades 2027 pick positioning."
+            },
+            "championshipOutlook": {
+              "score": -5,
+              "summary": "Upgrades RB2 with Henderson (+11.0 C-AVI over Monangai), but takes a slight FLEX depth hit by parting with Likely."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Pairs TreVeyon Henderson (85.2 D-AVI) with Lamar Jackson to solidify the long-term core."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Substantially boosts ceiling at RB2 with Henderson."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Reduces tight end depth behind Kyle Pitts and consolidates multi-starter flexibility into one elite piece."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Gains a 2027 2nd-round draft asset."
+            }
+          },
+          "explanation": "Southside Savages optimizes immediate starting lineup C-AVI efficiency by resolving TE scarcity, while Ravens Regime consolidates depth into an elite young dynasty RB in TreVeyon Henderson and upgraded draft capital."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Southside Savages gains +3.1 net C-AVI points across its 8 starting slots. Inserting Isaiah Likely (69.1 C-AVI) over Chig Okonkwo (55.0 C-AVI) yields a +14.1 gain, easily overcoming the -11.0 C-AVI drop from TreVeyon Henderson (68.4) to Kyle Monangai (57.4) at RB2.",
+          "sideADynastyImpact": "Southside relinquishes Henderson (85.2 D-AVI, 23.0yo) and a 2027 2nd (48.5 D-AVI) in exchange for Monangai (74.9 D-AVI), Likely (78.7 D-AVI), and a 2027 3rd (16.5 D-AVI), taking a minor net hit in long-term dynasty asset value to maximize immediate lineup balance.",
+          "sideARosterImpact": "Fills starting TE slot with a high-ceiling option, slides Okonkwo to bench/depth, and integrates Monangai directly into the RB2 slot alongside Travis Etienne.",
+          "sideBChampionshipImpact": "Ravens Regime upgrades RB2 with Henderson (+11.0 C-AVI over Monangai), but surrendering Likely moves KC Concepcion into FLEX1 and Jacory Croskey-Merritt into FLEX2, resulting in a minor -4.7 C-AVI change to starting lineup sum.",
+          "sideBDynastyImpact": "Ravens Regime acquires a premier 23-year-old running back in Henderson (85.2 D-AVI) and upgrades 2027 draft pick inventory from Round 3 to Round 2.",
+          "sideBRosterImpact": "Creates an elite RB tandem of Derrick Henry and TreVeyon Henderson, relying on Kyle Pitts as primary TE while elevating FLEX depth options.",
+          "valueAssessment": "A balanced, win-win transaction where Southside buys starting lineup balance and TE stabilization while Ravens Regime buys a high-ceiling dynasty cornerstone RB."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views Isaiah Likely as a major breakout candidate after securing a 3-year, $40M contract with the NY Giants, elevating his standing to a locked-in TE1. Kyle Monangai has demonstrated 1B production in Chicago, entering Week 1 healthy after returning to practice. TreVeyon Henderson remains a highly coveted young RB asset across dynasty communities.",
+          "aviVsMarket": "AVI model valuations align closely with market sentiment: Likely's move to NYG as a main weapon is reflected in his 69.1 C-AVI / 78.7 D-AVI, while Henderson's 85.2 D-AVI reflects his status as a top-tier young dynasty RB.",
+          "relevantContext": [
+            "Isaiah Likely signed a 3-year, $40M deal ($26M guaranteed) with New York, stepping into a primary receiving role.",
+            "Kyle Monangai returned to practice Sept 7 following a mild knee hyperextension and is ready for Week 1.",
+            "TreVeyon Henderson provides elite age-23 dynasty ceiling in 16-team formats."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is actively in Playoff Push mode and has historically been an active trader (17 completed trades). Mentomorii gets the chance to pair 23-year-old TreVeyon Henderson with Derrick Henry and gain a 2027 2nd pick.",
+          "packageFit": "Fits both teams' Playoff Push windows. Southside addresses TE scarcity; Ravens Regime consolidates secondary pieces into a flagship RB asset.",
+          "lineupReplacement": "Ravens Regime retains Kyle Pitts at TE1 and moves Jacory Croskey-Merritt/KC Concepcion into FLEX slots. Southside seamlessly replaces Henderson with Monangai at RB2.",
+          "competitiveWindowFit": "Both franchises remain in strong Playoff Push positions while balancing immediate lineup scoring and future liquidity.",
+          "positionalScarcity": "Tight end starter production is exceptionally scarce in 16-team PPR leagues. Securing Likely solves Southside's single biggest lineup weakness."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 20,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 88,
+          "classification": "Realistic",
+          "explanation": "Ravens Regime receives a premier 23-year-old dynasty RB in TreVeyon Henderson plus a 2027 2nd-round pick, giving them strong motivation to part with Monangai, Likely, and a 2027 3rd."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal directly advances Southside Savages' goal to Increase Championship Odds. Acquiring Isaiah Likely fills Southside's single biggest starting hole (TE, upgrading from Okonkwo's 55.0 C-AVI to Likely's 69.1 C-AVI). Kyle Monangai provides a reliable 24-year-old RB2 to step in for Henderson, yielding a net starting lineup C-AVI gain of +3.1 points. For Ravens Regime, receiving TreVeyon Henderson (85.2 D-AVI) and a 2027 2nd-round pick provides compelling blue-chip value for two depth/FLEX pieces.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "TreVeyon Henderson",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 23,
+              "cavi": 68.4,
+              "davi": 85.2,
+              "publicMarket": 80,
+              "leagueMarket": 76.8
+            },
+            {
+              "name": "2027 2nd · Southside",
+              "assetType": "pick",
+              "owner": "Southside Savages",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 57.4,
+              "davi": 74.9,
+              "publicMarket": 60,
+              "leagueMarket": 62
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 26,
+              "cavi": 69.1,
+              "davi": 78.7,
+              "publicMarket": 72,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2027 3rd · Ravens",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "whyUserShouldDoIt": "Fixes Southside's weakest starting slot (TE) by +14.1 C-AVI while maintaining solid RB2 starter output with Monangai, increasing total starting lineup C-AVI by +3.1 points.",
+          "whyOpponentMightAccept": "Ravens Regime secures the best dynasty asset in the trade (TreVeyon Henderson, 85.2 D-AVI) and upgrades 2027 draft capital from Round 3 to Round 2."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "TreVeyon Henderson",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 23,
+              "cavi": 68.4,
+              "davi": 85.2,
+              "publicMarket": 80,
+              "leagueMarket": 76.8
+            }
+          ],
+          "receive": [
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 57.4,
+              "davi": 74.9,
+              "publicMarket": 60,
+              "leagueMarket": 62
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 26,
+              "cavi": 69.1,
+              "davi": 78.7,
+              "publicMarket": 72,
+              "leagueMarket": 72
+            }
+          ],
+          "rationale": "If Ravens Regime hesitates on draft pick swaps, a direct player 2-for-1 swap preserves the core starting lineup benefits for both sides."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Isaiah Likely contract Ravens 2026",
+          "Kyle Monangai draft team 2025 2026",
+          "Kyle Monangai NFL 2026",
+          "Isaiah Likely news 2026 fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4dxldJPTALJ0pQ-qJJ09XFfN1rS_iHShlpow6ACibmxdxTezlmV4MSNlj0q4Xw-JGENSCtFTmHC6s-TbEyuLRwvwmaCCIWeGvna5NOru0FbM2pKkaY3fgNpu9BnTdt7UmkyFhf1JNl04xKO3t7EQJib7SjEM=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl6QJiN1p3EWu2_4GQXPIpU2Iro5ik6_gxNxmfCAlylcOZ-PB0YyKL6UY_sjUeiHjdZpI94HIzyHbEfZY11MXUUGohv5U_OxBUTKYWDCdcMNi-bi6tDsOskSiSZtGlSE4=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuovjwO8z0A2hAN9pSaRlHpY-x5Bt5vcCoDCCu2it4_UKh9OeM8pseqn29eaX9MVHONo9Sy3HeoeOgmcgpQEgtDPGtfeL8x0J-bn5om3g_jYuFcisJqLmsZYZWNp1teNxDVF41kEkUadUlpT2zBosYcpTqDBM54ZC3YILvaufDKN2CnEYddIVAOg9G5m_Ujw==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIRV4FbjNy4Ah6T8ykmZMu5liqi8wpRpf0xHfmjH_pF7z30550660KX7PAyqjQJlK2EwoOTLNyD_wLFvPcBghbKziqjtQdbdCq7McAVCmbazDL5MPgU9ridhrJeyphgIEa5yUcbC_NrWzHSgaEt4uciRef98BrtO8lcgzEk9Je7zFtHsrfslygJrsSpeHzYVfu1APNwdnuOPvD-BDXp8g=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQZ5Gqv2dMZ57wzzdSuc9GQuNuqBY0OQrdewnwmNEioNRrE3sHbIiik55z9KY0TEq_kEn3ms2LYSTRfW7gYbKM2N2d-KOTo8WWkxrQ4nL8mrXPxWCbFQI2PiVrZxLXeYTbAkGuvW-gQ00wzfS_TfpH4RmJ6gDyXkBVc7hCPefn6QOHysFhCA74iTvGk9xg7L8AO5qUnT0=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh3B6kLEIt04G5d32oW4qH9aG1yOU57sOmh51OSQ_cF2I32qmMtGriRY1dIQPgstYF1bYGYgzyy2uP-fYOpKFIp6oNj3kJM4B4AwTKa93SYZuWIZG8J2RM2CCqyTGjaGD3CVXQ5a2DSoXKQ_EbGlgktqLpDIALs7BQ9ZWPVHoNGA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF143aYNM0-b_27xwFklp3fo-pGr36UinKzN5iuczPakz5hATnZxGQaHRSkpSsDa-nmVHDWlC7iVlWqUnvhqdKsjdRrIVtuZIDjGEbYL96BbILivdZ98yLeYVkyMgUxhls=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw-9qdtraBRHdIx2nnD_tDWHTeP-dbqm3g7RLRVPKyeq_9j7z4MQMT7cW3mKJWwpKjOswYiyqlJMMKnyj2qTV4oI-sYl3cp2azcNIUNe1p-tq6iHRxf4X9aoAmYkGqk3SpR8tYymcormhYvCFYfMUDQk0dSW2y-bJVGlSyG_FA1Mf4mDGTDmaOYvsgLd0qdQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzOJR0vZ2uEDywMEnnsl2ttsn9uQ7K891f7A_aEnXTn0566b0ivml2Sj0QnONP4d7fJ1ctcVX0m2djq99yCRBPUwcwwM71Vgc8SN1tVRzkwXkGL2tAbm66dSQqEIUD4U7IgviD3QVoIaMEX9jiUo=",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfXwR4B1qv7_asCtwqBQYRZoO3hQ36XtZlDs9SWuwcVBB_sRcPggbRfgmGZ0SZMBJWMnSAf2fPJO6fq2yk1DyU4-TePCJazyQKWilfwHQ-FufzXeD_Vvrv-_FE7EZ6hA53Iv6jsY5wYtr2GEQQhUzzqu1dHiHQN_0d7BpAhXSi-g==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyh0Dius7ViNq9K4fQkupGxvL6GNOoBhKC8ZFDyRavQbH_IFeZ0Y1rVzhnDHsOsEiRaXdvvO8YY-yETCCdHd6ygjAxhIukrrGtV551Jr2QiX7ZCm7HmNBea9gQiFQMFsnHs1VYQWAVcu_1VQMcPdP4ZjyZ1R5fQuD6G62bbnmyaJ99fxwCgZcP",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYTF1ELLpZKJjCthInYkcjsFZUXUb1gNPMkTLibs7RHPVYl91J4_gZpRmzZNyQiQFbdWZpTbVWuUV7Un0m7Eum6iTBRsWd6UosQJ6FRVwno-JTY24k0UDrk8HUFKgg-Kw0tFm2FzWHVSzzc0gyHlWeuguOwT-WTMgW8hWsAwOCJ2hDZdHMTmC0mahqz0XWdwnhgcNUmLZy527GMQ==",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMmj4zsuDiu63ceXSwbSrfq7fbU1nhT5M2buufaG7e4MSHXqj8CET3dYJpk3nI4-o5s3MeKQzA81Xk8Ws2VhCpupB7RpFAzDjnLmUTNtE5hB_OXTZoubS-RgMEope-ppDsg27Gz7Y4BGzIuydrEXvznEXnAvjstwBlA0JlrVpp9rxAx2KigJSSivWFBqICouXYaX5K",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6xh9AanDrF1sROKpDMsXSn9I_IAn0LfgdPgRZukIcTMbTCb1B1kapisKyCYAJo2vGcbcx5ZUpFimFkOwMSsm1qpEJ-SGxkTLkB3nQZAt5xjIcC2ugLhM3Bauk_aR6fPZ8QlzyEC7unNJosr9IVda0Kpco-ds=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI_eObeC1nUQ0kebCfyjxan1opUupbhJDdfuIiZrXYhWPqIPrGSaKSsRwXbJ6x9Z-eqB8jcqBlJV6XNNiL3hIMJdCf4y816QJ6E0fpfflVELgWXBAUPNE2uTVFxRhmO_O-0X8ZnWDbu7aI1Uds0CYQkHlpHFhGzyrz9L9lf4Ui9qiJsPSU75EFeDS2oeXwQ8Q6UiAQxcJWD4SvqJvssaxhYzSohksjmRlGjt9tU8Bj0c9oBKQjOMJYpvA4MtuzYzViQ8F4nk2AgRZe8w==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGINNsepCh1i5ZkEkbDKvHS2uJtniDBzAIsU862Uk6vePDXiF6nxOOoxwVji8d9jY9lgInTSTVrnM3S7ikPEguhkJLo143Jhw4qxn9BpQjfSZu8_sum5zvjL5gRDW6qEn2bQgJapIyGoBi88zpXnw==",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7f999632c17dbcdb48bec6a9f067749f8fa76ccd",
+        "aviCoreCommittedAt": "2026-09-11T18:00:37Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 80803,
+        "groundedMarketChars": 2389,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mtxf3adh-a5b59763",
     "createdAt": 1789159044961,
     "expiresAt": 1789591044961,
