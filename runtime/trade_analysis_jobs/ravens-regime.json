@@ -27,9 +27,387 @@
       ]
     },
     "createdAt": 1789157426699,
-    "updatedAt": 1789157428036,
+    "updatedAt": 1789157480071,
     "expiresAt": 1789589426699,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This proposed offer sends Tucker Kraft (TE, GB) to Ravens Regime in exchange for tight end Isaiah Likely (TE, NYG) and running back Kyle Monangai (RB, CHI). For All Hail King Jesus, the transaction achieves the stated goal of balancing the roster by upgrading the starting RB2 slot from Zach Charbonnet (49.5 C-AVI) to Monangai (57.4 C-AVI) while preserving high-end tight end utility with Dallas Goedert (82.5 C-AVI) starting and Likely entering the FLEX rotation. For Ravens Regime—a fellow Playoff Push contender—consolidating two sub-70 C-AVI depth starters into an elite, younger TE/FLEX centerpiece in Kraft (+10.1 C-AVI FLEX upgrade over Likely) delivers a net +6.1 starting lineup C-AVI improvement, making this a mutually beneficial construction with high acceptance probability.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Tucker Kraft",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "TE",
+              "age": 25,
+              "cavi": 79.2,
+              "davi": 85.6,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 26,
+              "cavi": 69.1,
+              "davi": 78.7,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 57.4,
+              "davi": 74.9,
+              "publicMarket": 58,
+              "leagueMarket": 60
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Trading Tucker Kraft for Isaiah Likely and Kyle Monangai efficiently solves All Hail King Jesus's biggest structural bottleneck at RB2 while leaving starting TE Dallas Goedert intact. Ravens Regime gains the single best asset in Kraft, net-improving their starting FLEX slot by +10.1 C-AVI and overall starting lineup by +6.1 C-AVI."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "The baseline proposed package of Tucker Kraft for Isaiah Likely and Kyle Monangai is fully aligned with both organizations' competitive goals and should be transmitted directly as constructed."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Rebalances roster structure by resolving the fragile RB2 starter situation without compromising starting TE strength."
+            },
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Slighly adjusts FLEX C-AVI (-10.1) but gains +7.9 C-AVI at mandatory RB2, creating a more balanced 8-man weekly starter floor."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Exchanges one young tier-1 TE (25.0 yrs, 85.6 D-AVI) for two productive young assets (Likely 78.7 D-AVI, Monangai 74.9 D-AVI)."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Replaces Zach Charbonnet with Kyle Monangai at RB2 while Isaiah Likely slots into FLEX2 behind Goedert."
+            },
+            "depthResilience": {
+              "score": 60,
+              "summary": "Dramatically improves running back depth and injury protection across a 16-team league environment."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Converts concentrated tight end capital into two tradeable, startable assets at high-demand positions."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 55,
+              "summary": "Consolidates depth into a premier starting tight end asset that elevates current starting lineup score."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Improves overall weekly starting lineup C-AVI by +6.1 points by plugging Kraft into FLEX1."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Acquires a higher-ceiling young tight end centerpiece (85.6 D-AVI) to pair alongside Kyle Pitts."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "FLEX position jumps from 69.1 C-AVI (Likely) to 79.2 C-AVI (Kraft), easily overcoming the minor RB2 transition to Croskey-Merritt."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Slightly reduces RB depth but maintains Jacory Croskey-Merritt (53.4 C-AVI) and young developmental backs."
+            },
+            "flexibilityLiquidity": {
+              "score": 45,
+              "summary": "Gains an elite, highly liquid tight end asset with broad market demand."
+            }
+          },
+          "explanation": "All Hail King Jesus gains essential lineup balance and depth resilience at RB2, while Ravens Regime achieves significant starting lineup consolidation with a net +6.1 C-AVI gain in their quest to increase championship odds."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "All Hail King Jesus adjusts starting FLEX C-AVI from 79.2 (Kraft) to 69.1 (Likely) but upgrades RB2 from 49.5 (Charbonnet) to 57.4 (Monangai), stabilizing weekly starter output.",
+          "sideADynastyImpact": "Surrenders Kraft's 85.6 D-AVI but acquires a combined 153.6 D-AVI between Likely (78.7) and Monangai (74.9), expanding overall portfolio value.",
+          "sideARosterImpact": "Removes TE redundancy behind Dallas Goedert and provides crucial RB rotation insurance.",
+          "sideBChampionshipImpact": "Ravens Regime boosts starting FLEX C-AVI by +10.1 points with Kraft (79.2 over Likely's 69.1), while RB2 drops only -4.0 points moving to Jacory Croskey-Merritt (53.4 C-AVI), netting a +6.1 C-AVI starting advantage.",
+          "sideBDynastyImpact": "Secures an elite 25-year-old tight end (85.6 D-AVI) as a long-term core pillar.",
+          "sideBRosterImpact": "Consolidates two roster spots into an elite starting upgrade, freeing roster flexibility for a Playoff Push contender.",
+          "valueAssessment": "A classic 1-for-2 consolidation where asset value and positional needs match seamlessly for both organizations."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty sentiment views Tucker Kraft as a rising, highly efficient tight end option in Green Bay. Isaiah Likely's market value has surged following his 3-year, $40M contract with the New York Giants and clear TE1 role. Kyle Monangai is viewed as a high-floor rotational RB in Ben Johnson's Bears offense.",
+          "aviVsMarket": "AVI values Kraft's elite age-adjusted efficiency in full PPR (79.2 C-AVI), while public markets view Likely (70.0 public market) and Monangai (58.0 public market) as dynamic, startable pieces.",
+          "relevantContext": [
+            "Isaiah Likely signed a 3-year, $40M contract with the NY Giants in March 2026, stepping into an undisputed TE1 role.",
+            "Kyle Monangai returned to practice ahead of Week 1 following a camp knee hyperextension and forms a key early-down/short-yardage component in Chicago.",
+            "Tucker Kraft holds firm mid-TE1 consensus value following strong pass-catching expansion in Green Bay."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is actively seeking to increase championship odds. Adding Tucker Kraft directly improves their starting FLEX slot by +10.1 C-AVI over Isaiah Likely.",
+          "packageFit": "Consolidating two secondary pieces into an elite starter fits a Playoff Push contender's roster strategy perfectly.",
+          "lineupReplacement": "Ravens Regime seamlessly replaces Monangai at RB2 with Jacory Croskey-Merritt (53.4 C-AVI) and upgrades FLEX1 with Kraft (79.2 C-AVI).",
+          "competitiveWindowFit": "Both franchises are verified Playoff Push contenders; this trade delivers immediate starting lineup efficiency for both sides.",
+          "positionalScarcity": "Tight end starters with sub-26 age and 75+ C-AVI profiles carry high premium value in 16-team full PPR formats."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 17,
+            "lineupReplacement": 12,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 90,
+          "classification": "Highly Realistic",
+          "explanation": "The proposed offer passes every Market Reality validation check. Ravens Regime receives a net +6.1 C-AVI upgrade to their starting lineup while consolidating depth, making them highly likely to accept."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal directly achieves the user's goal to Balance Roster. Transmitting Tucker Kraft for Isaiah Likely and Kyle Monangai improves All Hail King Jesus's weakest starting position (RB2) while providing Ravens Regime with a clear starting lineup boost.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Tucker Kraft",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "TE",
+              "age": 25,
+              "cavi": 79.2,
+              "davi": 85.6,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "receive": [
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 26,
+              "cavi": 69.1,
+              "davi": 78.7,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 57.4,
+              "davi": 74.9,
+              "publicMarket": 58,
+              "leagueMarket": 60
+            }
+          ],
+          "whyUserShouldDoIt": "It solves the starting RB2 deficit (+7.9 C-AVI gain over Charbonnet) while keeping Dallas Goedert as TE1 and adding Isaiah Likely as a high-upside FLEX option.",
+          "whyOpponentMightAccept": "It provides a net +6.1 C-AVI improvement to their starting lineup and yields an elite 25-year-old tight end in Tucker Kraft."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Tucker Kraft",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "TE",
+              "age": 25,
+              "cavi": 79.2,
+              "davi": 85.6,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 Round 3 (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 15,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 26,
+              "cavi": 69.1,
+              "davi": 78.7,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 57.4,
+              "davi": 74.9,
+              "publicMarket": 58,
+              "leagueMarket": 60
+            }
+          ],
+          "rationale": "If Ravens Regime hesitates to surrender RB depth, adding a 2028 3rd round pick acts as a low-cost lubricant to guarantee immediate acceptance."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Isaiah Likely Ravens contract status 2026",
+          "Kyle Monangai football player",
+          "Isaiah Likely news 2026",
+          "Kyle Monangai NFL draft 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXa-JL0ip0uTATdFmV2ZvIj3laf1ZkVj10a-3XrY7sJEMIQv5PPyfvCMYPZIy99EDR5n4eRuI9eRn51bF0fLBgg3D2zHWBpQjTh6yy6kloMdRnRLomZdfZvi54tiG9tip7dUZwdEYszYd61zmjgzE=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPNw_GLPGEnqv5U8nneWXlUuolKZKvwhTwuBE5T0wjZ9nqPfGiNQrAxzUiGHbQh8bQZw7qnODHKgnkxnlIOQRsEsOlpSNw6ImBHlGEzccKEQUvXDT9dtpNxgtsrKeig4aniZdlVooVXwIDFv9bTCmNIvOF2R1PBespAtBE_LQ3MvliB7-ILD2v3SxrJnTr5MDFFtGe-lJ2NREX3s0=",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT21gwAunomiFBih6t5HFr210tcnpUG1fjQCYg3ZTJfXaonLSk_1FXp8SWcrZI1OPOguQOxAjSYNKpA5C_8-wLTgNtxv-_635Mtc63lkFrSuS5SKvS_sa4jdDCBz7n725cQn6DpUNL6QleM8V-czSolt0dUBMkOd46WjM9E5Y64vxe6wtkKjMJmg==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3VSw8JMoabLo9VgeyOiyrjAw_fSNFEXp1GNa7ldN0CVnb2FShzllwuNHVUJ1kSVDVALT-Rsy_3Sdm91SkjTrLbPRoioQt1BLQdyZNcOmYsEOixUDcrhm1esZY-dul3ogJocn1GsBVa09e03WOzqd9FjookPlzU1S8noqSzODkvCJJ8JQv8YprQu_GoeW0oGw=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8lmRQPcCYj4b9T-UqK51azdwmw1Ucq8m5tTBh9eGErW7yAy9vXKhvD4Ip6u-U4q7FWluuxUDUdv5wpkDIh0ADqMvW13dlywHO_4xifNlf10qWKbJEhSE9oDgKcj1HiCVOctnRooYw3vEQ_AeDDpkc6duIJg7lRKtZvQB23G533VhzHO1fdZ2rYM22NafLHvhK0hvb_EE5tgTDeYPh5MnojKmpGw-WzZnKh7JAtJI0sRNEqA==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2nIQElIl5OdjsERfnKcGWVYy4YEOYh_nOpOIcfnnQXYL0ft0ZRW1z988_55rlBMo6nuHZlqGaaUW1lxlR-2Fs_MgrVer23Gw35jsP8OtzwhCKZbXFdFH_yqEHB5SB9Ji608tmZTkDbKKjGi0Siw1_iAuCoAyTZKj7X_jsA8f1JxfHMJlUt7UxTeVPbYAhLz8h0IUJBA==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmMDou_H5LyfhA-U0iZPw_rdFY2cUmab31Gp-axW4VMbogXMxc9y9b7MWPGOzkqShYIaorrvyeY57UnShUIMCZv60l9QJlUHsqqk6FYqyhtQZiGmygbIZSXvWFesJujxPSEOL5Us39P7qRzsFvmTnWMhcRCcQiCtyZh1OcHz3_bhMEnrqBxr-3ktGCMOgWM7k4",
+            "title": "thelandryhat.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH14tOAuI6jQLS2U6NRc185i4hf8UcUGljJ8GdAoEWD0QXAjckU9IAPlVwtRWY9JxNd4eyzoZHBnGtNdUdPz7UbCHqMyMMDR0VyWSujPB0TLonwD1bAl__JSFIViekRY8Q_kVB_p5A2d1mZUvcWCdlEWKYSNpyraBFy-uHVGarHS0KVwAEMfuUuUIfiGOZm0ewvDjBkK-ihy0GTm1FYseYQPP4=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZt_AFg5itn9r8m_90IfQBMiM5VjnW5cqJz-jR2bZrTw_FZ0g_YU8bVwXEWk470RCKD21jkwhHmzXrJs76jFADsLCU_cRJvS_0cuGz_DKwM1BXx8GVadDz4Xj45Luls5_naFMzcsYhWefyTB-eE-D2BJ1uDbXV4bgCq-nXaFaOoyY=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGClJ4d1VF83oyLiJPDJjSVEpxt2_MD6zKulBk1Zxf14To23p1Q_x1FoxzWS2mrFH5dgrJbELv9c8MZldCd4MqchLgf2aIgJMVCtgWOfwsVWYNFW2CkWbGVaIYbUn8V0-Bz",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFZ40NlKYDn4fLL8W8RUorfcvUKc4_6gVeH-I7WhRPE-itgHVcC9a-b7pg73kTtu8_Q1lOMTnuxWzbYNxmcJcN7noHDl-MIMV-RlJFrKhVAa_sx0rDxet8mU-eKq2EM07U",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNu6Apf4EtD32aSutCIJf-G3dG1ZbkRYGqCCz6bXXm01GoLtKdsPtBKRWURC5SqRa9KgY1L1tI7XAvRizR2FaKltqB1C3mmD1L-KmluY7eKuL2MPcKWTC0OGcvZluoiBD1ifo5mX6oJNPfswCxmgBOj92odTdJujl5nrYTwxhZSDCZaIe2BQ==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlK22Q0b96XZB08rs7N-cTmxercDuOGV0im_Hb-21UoPXrbqdZvzUjzPn4_YuTo-oLEOA_N-zjEgb0XLbdoLdTY3LoCGixFxyA-hZTy4dvJ74RomBWMdpKdoOxPs7DEjKy",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmxg5ujHE7FaPK2vsZ15ltdvcyv4N2MMyovXDfUXkRwAJtFpskIYt9HE9T5bIjPcEmAu8XUo3OfvOFiBqSVnhRecxIULzsUlvD6yyHYRaLRh78Eku7XTRTEssO2Nz49aG5",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTxgOLZMqZ9EcjdYmq7GE_l3SrYCjshih48grkm7frh7C-PRUXEg1D63eE-CADvR8IrjsreVCrSdbpaaQheBTIv65-n4_7JTze5lgACA2F_IF8ZipczSrSM-t5OsU_2LmT2VfyN7lR_kaFSg0wwrzi74iMbq2M67oXXj0bB3poSrL9M89PnmZikkvDDnx7LB1saO0QbYd-nfTJl_8yr7N9",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJMp0kEBS1T9oSEOpJ5DToroIqy0cAAw6QNYNNanokNoNEfd-nuAFgC2FwYgd_5rfP7ucQj-FJfvzQK1WT6Fc5h6CIs4J12bAnUCggAeV2RiskfFWGdXJea6gkdV0ZW6lvlEIejxe_yP7eUX0kohp2Qxx9Q3HyUSCXo-iljCMUdnEc9jP0EemH_KIUndhuQvO82djddA==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQovUYqBbfRv17MQJQAQYRZskqJGlWxv0ghzgW12GHRsjclbmS_IHo4QER_GPaJ0A5NvDFaSQ7hDrnoVtFPYJgwFUTpAlYUeRCHWP8W8s0S-XrSbZwNe0PdlnSXNbl4mQjFGS_mWLYqzl85I3A-uJRdCo73S4=",
+            "title": "chicagobears.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7f999632c17dbcdb48bec6a9f067749f8fa76ccd",
+        "aviCoreCommittedAt": "2026-09-11T18:00:37Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 79914,
+        "groundedMarketChars": 2980,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mtxdwlbu-511b1c85",
