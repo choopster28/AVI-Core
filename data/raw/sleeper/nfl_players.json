@@ -55502,7 +55502,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1789142126924,
+    "news_updated": 1789145427304,
     "number": 25,
     "oddsjam_id": "84C4F05F8EFF",
     "opta_id": null,
@@ -57822,10 +57822,10 @@
     "hashtag": "#jalenmcmillan-NFL-TB-11",
     "height": "73",
     "high_school": "San Joaquin Memorial (CA)",
-    "injury_body_part": "Calf",
-    "injury_notes": null,
+    "injury_body_part": "Knee",
+    "injury_notes": "Soreness",
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "kalshi_id": "2a83e945-ae2a-4cde-8ed6-0798391479d9",
     "last_name": "McMillan",
     "metadata": {
@@ -66187,7 +66187,7 @@
     "injury_body_part": "Concussion",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "17904484-d469-4072-a20b-5fb997d72b79",
     "last_name": "Gray",
     "metadata": {
@@ -117825,7 +117825,7 @@
       "rookie_year": "2025",
       "source_id": "d7f54546-46ed-45c6-9ecc-b23c65ee6679"
     },
-    "news_updated": 1789140927513,
+    "news_updated": 1789145426891,
     "number": 2,
     "oddsjam_id": "93527AC8024DA07C",
     "opta_id": null,
@@ -119113,7 +119113,7 @@
       "rookie_year": "2025",
       "source_id": "b4848e19-5a52-49a3-8c6f-179fe308ff03"
     },
-    "news_updated": 1789080928221,
+    "news_updated": 1789145127344,
     "number": 22,
     "oddsjam_id": "15DB9017F739D3E5",
     "opta_id": null,
@@ -120947,7 +120947,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "kalshi_id": "73929f29-56fc-45a0-adad-93733656ba60",
     "last_name": "Stewart",
     "metadata": {
@@ -464036,7 +464036,7 @@
       "genius_id": "1031141",
       "rookie_year": "2018"
     },
-    "news_updated": 1789140326871,
+    "news_updated": 1789143626691,
     "number": 19,
     "oddsjam_id": "F89F55941E59",
     "opta_id": null,
@@ -512508,7 +512508,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1789083629209,
+    "news_updated": 1789145128513,
     "number": 1,
     "oddsjam_id": "828EC99117A1",
     "opta_id": null,
@@ -518401,7 +518401,7 @@
       "injury_override_regular_2025_7": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1789075828350,
+    "news_updated": 1789143927144,
     "number": 3,
     "oddsjam_id": "67FF12F3845C",
     "opta_id": null,
@@ -570643,7 +570643,7 @@
       "injury_override_regular_2024_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1789081228356,
+    "news_updated": 1789145428429,
     "number": 1,
     "oddsjam_id": "66B708A8FB24",
     "opta_id": null,
@@ -572911,7 +572911,7 @@
       "genius_id": "1006660",
       "rookie_year": "2020"
     },
-    "news_updated": 1789072822046,
+    "news_updated": 1789144827018,
     "number": 5,
     "oddsjam_id": "ADB581D238AD",
     "opta_id": null,
@@ -623295,7 +623295,7 @@
       "genius_id": "1080256",
       "rookie_year": "2021"
     },
-    "news_updated": 1789072822061,
+    "news_updated": 1789144526808,
     "number": 1,
     "oddsjam_id": "6062BDCD0B61",
     "opta_id": null,
@@ -719791,10 +719791,10 @@
     "hashtag": "#seantucker-NFL-TB-44",
     "height": "70",
     "high_school": "Calvert Hall College (MD)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": "Hamstring",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "kalshi_id": "dc8b84c4-fca1-4b21-a042-69f0cb346d78",
     "last_name": "Tucker",
     "metadata": {
