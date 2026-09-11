@@ -7120,6 +7120,31 @@
   {
     "active": true,
     "aliases": [
+      "Kendrick Law"
+    ],
+    "avi_id": "AVI-00013412",
+    "canonical_name": "Kendrick Law",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "DET",
+    "normalized_name": "kendrick law",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26969,
+      "fantasypros_id": "26044",
+      "nfl_id": null,
+      "rotowire_id": 19443,
+      "sleeper_id": "13412",
+      "sportradar_id": "b039bf78-853f-4e4f-a6bd-83d7f38748c3",
+      "sportsdata_player_id": "b039bf78-853f-4e4f-a6bd-83d7f38748c3"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Kene Nwangwu"
     ],
     "avi_id": "AVI-00007720",

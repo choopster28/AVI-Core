@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-09-10
+- Last updated from Sleeper exports: 2026-09-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -31,12 +31,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Justin Herbert | C-AVI: 72.2 | D-AVI: 82.6
-- RB: Chuba Hubbard | C-AVI: 63.1 | D-AVI: 74.2
+- RB: Chuba Hubbard | C-AVI: 63.2 | D-AVI: 74.2
 - RB: Jadarian Price | C-AVI: 62.1 | D-AVI: 79.9
 - WR: Alec Pierce | C-AVI: 70.9 | D-AVI: 81.3
 - WR: Michael Pittman | C-AVI: 67.2 | D-AVI: 77.1
 - TE: Oronde Gadsden | C-AVI: 52.6 | D-AVI: 70.7
-- FLEX: Jakobi Meyers | C-AVI: 63.3 | D-AVI: 72.5
+- FLEX: Jakobi Meyers | C-AVI: 63.2 | D-AVI: 72.5
 - FLEX: Wan'Dale Robinson | C-AVI: 62.7 | D-AVI: 77.7
 
 ## Current Roster — All Player Cards
@@ -70,7 +70,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 63.1
+- Championship AVI (C-AVI, 0-100): 63.2
 - Dynasty AVI (D-AVI, 0-100): 74.2
 - Projected PPR points: 175.8
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 63.3
+- Championship AVI (C-AVI, 0-100): 63.2
 - Dynasty AVI (D-AVI, 0-100): 72.5
 - Projected PPR points: 180.4
 - Category: offense

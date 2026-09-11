@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-09-10
+- Last updated from Sleeper exports: 2026-09-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 664.8
 - championship_lineup_c_avi_avg: 83.10
-- offensive_roster_c_avi_sum: 995.2
-- offensive_roster_c_avi_avg: 58.54
-- offensive_roster_d_avi_sum: 1197.9
-- offensive_roster_d_avi_avg: 70.46
+- offensive_roster_c_avi_sum: 995.5
+- offensive_roster_c_avi_avg: 58.56
+- offensive_roster_d_avi_sum: 1198.0
+- offensive_roster_d_avi_avg: 70.47
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 43.9
+- Championship AVI (C-AVI, 0-100): 44.0
 - Dynasty AVI (D-AVI, 0-100): 63.2
 - Projected PPR points: 84.6
 - Category: offense
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 36.7
+- Championship AVI (C-AVI, 0-100): 36.8
 - Dynasty AVI (D-AVI, 0-100): 60.9
 - Projected PPR points: 77.6
 - Category: offense
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 43.7
-- Dynasty AVI (D-AVI, 0-100): 52.8
+- Championship AVI (C-AVI, 0-100): 43.8
+- Dynasty AVI (D-AVI, 0-100): 52.9
 - Projected PPR points: 85.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

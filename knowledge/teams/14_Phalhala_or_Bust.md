@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1132141719354535936
 - Division: 3
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-09-10
+- Last updated from Sleeper exports: 2026-09-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 559.4
-- championship_lineup_c_avi_avg: 69.92
-- offensive_roster_c_avi_sum: 731.4
-- offensive_roster_c_avi_avg: 60.95
-- offensive_roster_d_avi_sum: 880.1
-- offensive_roster_d_avi_avg: 73.34
+- championship_lineup_c_avi_sum: 559.5
+- championship_lineup_c_avi_avg: 69.94
+- offensive_roster_c_avi_sum: 731.5
+- offensive_roster_c_avi_avg: 60.96
+- offensive_roster_d_avi_sum: 880.2
+- offensive_roster_d_avi_avg: 73.35
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: C.J. Stroud | C-AVI: 50.7 | D-AVI: 69.4
 - RB: Ashton Jeanty | C-AVI: 90.6 | D-AVI: 95.7
-- RB: Jaylen Warren | C-AVI: 70.5 | D-AVI: 77.9
+- RB: Jaylen Warren | C-AVI: 70.6 | D-AVI: 78.0
 - WR: Rome Odunze | C-AVI: 72.0 | D-AVI: 85.7
 - WR: Michael Wilson | C-AVI: 64.9 | D-AVI: 78.5
 - TE: Sam LaPorta | C-AVI: 91.8 | D-AVI: 87.4
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 70.5
-- Dynasty AVI (D-AVI, 0-100): 77.9
+- Championship AVI (C-AVI, 0-100): 70.6
+- Dynasty AVI (D-AVI, 0-100): 78.0
 - Projected PPR points: 199.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

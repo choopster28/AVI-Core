@@ -2773,6 +2773,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "26044",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Kendrick Law",
+    "position": "WR",
+    "sleeper_id": "13412"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23249",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NYJ",

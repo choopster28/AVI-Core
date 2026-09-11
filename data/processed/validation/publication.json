@@ -1,10 +1,10 @@
 {
-  "avi_generated_at_utc": "2026-09-10T21:52:23.574270+00:00",
-  "checked_at_utc": "2026-09-10T21:52:24.236577+00:00",
+  "avi_generated_at_utc": "2026-09-11T00:16:21.552558+00:00",
+  "checked_at_utc": "2026-09-11T00:16:22.205555+00:00",
   "counts": {
-    "avi_players": 479,
-    "player_lookup": 479,
-    "registry_players": 479,
+    "avi_players": 480,
+    "player_lookup": 480,
+    "registry_players": 480,
     "team_profiles": 16
   },
   "failures": [],

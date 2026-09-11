@@ -3,6 +3,168 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-10 23:39:18",
+      "created_formated": "Thu, Sep 10th 11:39pm UTC",
+      "desc": "Jordan Watkins will be inactive for the Niners game against the Rams on Thursday.",
+      "id": 607043,
+      "impact": "Watkins is buried on the depth chart, so this isn't totally surprising. His absence should have little impact on those ahead of him in the pecking order.",
+      "link": "https://www.fantasypros.com/nfl/news/607043/jordan-watkins-inactive-against-rams.php",
+      "player_id": 27486,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Jordan Watkins inactive against Rams"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-10 23:37:27",
+      "created_formated": "Thu, Sep 10th 11:37pm UTC",
+      "desc": "Max Klare has been ruled inactive against the Niners on Thursday.",
+      "id": 607042,
+      "impact": "Klare will join fellow rookies Ty Simpson and CJ Daniels on the sideline. The Rams have plenty of TE depth at their disposal, so Klare being a rookie inactive is hardly surprising.",
+      "link": "https://www.fantasypros.com/nfl/news/607042/max-klare-inactive-against-niners.php",
+      "player_id": 27993,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Max Klare inactive against Niners"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-10 23:35:53",
+      "created_formated": "Thu, Sep 10th 11:35pm UTC",
+      "desc": "CJ Daniels has been ruled inactive against the Niners on Thursday.",
+      "id": 607041,
+      "impact": "The rookie will join Ty Simpson and Max Klare on the sidelines as the Rams open up the season. He will look to find his way onto the field soon.",
+      "link": "https://www.fantasypros.com/nfl/news/607041/cj-daniels-inactive-against-niners-on-thursday.php",
+      "player_id": 28125,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "CJ Daniels inactive against Niners on Thursday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-10 23:34:28",
+      "created_formated": "Thu, Sep 10th 11:34pm UTC",
+      "desc": "Tutu Atwell will be inactive against the Niners on Thursday.",
+      "id": 607040,
+      "impact": "Atwell was recently traded to the Rams from Miami, joining his former team. He will need to wait another week to see the field.",
+      "link": "https://www.fantasypros.com/nfl/news/607040/tutu-atwell-inactive-against-niners.php",
+      "player_id": 20126,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Tutu Atwell inactive against Niners"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-10 23:33:14",
+      "created_formated": "Thu, Sep 10th 11:33pm UTC",
+      "desc": "Ty Simpson has been named the emergency third QB for the Rams on Thursday. Stetson Bennett will perform backup duties.",
+      "id": 607039,
+      "impact": "Simpson will need to develop more before getting his shot at being the primary backup. He was impressive in the preseason, but the Rams are opting to let the rookie sit a little longer before trusting him further.",
+      "link": "https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php",
+      "player_id": 25368,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Ty Simpson out against Niners"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-10 23:31:13",
+      "created_formated": "Thu, Sep 10th 11:31pm UTC",
+      "desc": "Jeremiyah Love (ankle) was limited in practice on Thursday with an ankle injury.",
+      "id": 607038,
+      "impact": "Love is still hopeful to play for Week 1, and his involvement in practice is a good sign that he will do so. It will be interesting to see if Tyler Allgeier gets the first crack at things with Love having dealt with an injury, but don't be surprised if the Cardinals lean on their talented and explosive rookie.",
+      "link": "https://www.fantasypros.com/nfl/news/607038/jeremiyah-love-ankle-limited-practice-thursday.php",
+      "player_id": 25403,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Jeremiyah Love (ankle) limited in practice Thursday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-09-10 23:26:41",
+      "created_formated": "Thu, Sep 10th 11:26pm UTC",
+      "desc": "A.J. Brown (ankle) is expected to miss at least four weeks with a high ankle sprain that he sustained early in the third quarter of the Patriots game against the Seahawks on Wednesday night.",
+      "id": 607037,
+      "impact": "It's a big blow to Brown's Fantasy stock to start the season. In his absence, expect Hunter Henry and Romeo Doubs to see more work. However, with Doubs was struggling to find snaps and catch the ball, it's possible that Demario Douglas could be a nice PPR sleeper.",
+      "link": "https://www.fantasypros.com/nfl/news/607037/aj-brown-ankle-expect-to-miss-least-four-weeks.php",
+      "player_id": 18218,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "A.J. Brown (ankle) expect to miss at least four weeks"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-10 23:22:08",
+      "created_formated": "Thu, Sep 10th 11:22pm UTC",
+      "desc": "Stetson Bennett IV has been named the primary backup for the Rams Week 1 game against the 49ers, with Ty Simpson as the emergency QB3.",
+      "id": 607036,
+      "impact": "Simpson still needs development so this doesn't come as much surprise. Bennett is a fine QB2, but hopefully he won't see the field unless it's a blowout.",
+      "link": "https://www.fantasypros.com/nfl/news/607036/stetson-bennett-iv-named-backup-stafford.php",
+      "player_id": 23927,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Stetson Bennett IV named backup for Stafford"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-10 22:32:46",
+      "created_formated": "Thu, Sep 10th 10:32pm UTC",
+      "desc": "Tua Tagovailoa (oblique) has been labeled day-to-day after suffering an oblique injury on Thursday during practice. Cooper Rush took first team snaps in his stead.",
+      "id": 607035,
+      "impact": "This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.",
+      "link": "https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php",
+      "player_id": 19198,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -288,168 +450,6 @@
       "sport_id": "NFL",
       "team_id": "TB",
       "title": "Christian Rozeboom (foot) limited in practice Thursday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 20:33:39",
-      "created_formated": "Thu, Sep 10th 8:33pm UTC",
-      "desc": "Audric Estime (thigh) was a non-participant at practice on Thursday.",
-      "id": 606979,
-      "impact": "The Saints held their second official practice of the week on Thursday, but Estime was again not able to participate with the team. It looks like he is going to be sidelined for Week 1, and it's unclear how much more time he will need before making his return to the lineup.",
-      "link": "https://www.fantasypros.com/nfl/news/606979/audric-estime-thigh-non-participant-thursday.php",
-      "player_id": 23054,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Audric Estime (thigh) non-participant Thursday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 20:32:15",
-      "created_formated": "Thu, Sep 10th 8:32pm UTC",
-      "desc": "Jalen McMillan was a limited participant in practice on Thursday. ",
-      "id": 606978,
-      "impact": "McMillan has now been limited back-to-back days. He should be good to go on Sunday with another limited session on Friday. ",
-      "link": "https://www.fantasypros.com/nfl/news/606978/jalen-mcmillan-knee-limited-practice-thursday.php",
-      "player_id": 23179,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Jalen McMillan (knee) limited in practice Thursday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 20:31:08",
-      "created_formated": "Thu, Sep 10th 8:31pm UTC",
-      "desc": "Emeka Egbuka remained a full participant in practice on Thursday. ",
-      "id": 606977,
-      "impact": "Egbuka has now posted back-to-back full practices, leaving him well on track to be good to go for Week 1. He is an upside WR2 heading into the season and could be part of one of the higher-scoring games of the week on Sunday against the Bengals. ",
-      "link": "https://www.fantasypros.com/nfl/news/606977/emeka-egbuka-toe-logs-another-full-practice-thursday.php",
-      "player_id": 23062,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Emeka Egbuka (toe) logs another full practice Thursday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 20:30:20",
-      "created_formated": "Thu, Sep 10th 8:30pm UTC",
-      "desc": "Breece Hall (groin) logged another full practice session on Thursday.",
-      "id": 606976,
-      "impact": "Hall has been a full participant in two-straight practices to start the week. He told reporters earlier that will be good to go for Week 1, so fantasy managers shouldn't have any real hesitations with starting him ahead of the first game of the season.",
-      "link": "https://www.fantasypros.com/nfl/news/606976/breece-hall-groin-logs-full-practice-thursday.php",
-      "player_id": 22982,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Breece Hall (groin) logs full practice Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 20:28:31",
-      "created_formated": "Thu, Sep 10th 8:28pm UTC",
-      "desc": "Tim Patrick (groin) missed New York's practice on Thursday.",
-      "id": 606975,
-      "impact": "It looks like the veteran wideout is going to miss this week's game, as he has been a non-participant at both of New York's practices to start the week. Look for Adonai Mitchell and rookie Omar Cooper Jr. to benefit from his absence if that's the case.",
-      "link": "https://www.fantasypros.com/nfl/news/606975/tim-patrick-groin-misses-practice-thursday.php",
-      "player_id": 16556,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Tim Patrick (groin) misses practice Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 20:26:17",
-      "created_formated": "Thu, Sep 10th 8:26pm UTC",
-      "desc": "LeQuint Allen Jr. (hip) was upgraded to a limited participant at practice on Thursday.",
-      "id": 606974,
-      "impact": "It was previously reported that Allen would be a game-time decision this weekend, and it looks like that may still be the case. He was upgraded to a limited participant on Thursday, which gives him a chance to play this weekend but doesn't strongly indicate that he will. If he's ruled out, look for Chris Rodriguez Jr. to benefit from his absence from a fantasy perspective.",
-      "link": "https://www.fantasypros.com/nfl/news/606974/lequint-allen-jr-hip-upgraded-to-limited-thursday.php",
-      "player_id": 27285,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "LeQuint Allen Jr. (hip) upgraded to limited Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 20:24:17",
-      "created_formated": "Thu, Sep 10th 8:24pm UTC",
-      "desc": "Jakobi Meyers (thumb) was limited at practice again on Thursday.",
-      "id": 606973,
-      "impact": "The veteran wideout was again limited on Thursday as he continues to recover from a thumb injury of some kind. He is already expected to play this weekend, although he may still be left with an injury designation heading into the weekend if he doesn't practice in full on Friday.",
-      "link": "https://www.fantasypros.com/nfl/news/606973/jakobi-meyers-thumb-limited-again-thursday.php",
-      "player_id": 18598,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Jakobi Meyers (thumb) limited again Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 20:22:24",
-      "created_formated": "Thu, Sep 10th 8:22pm UTC",
-      "desc": "Teven Jenkins (back) missed Cleveland's practice on Thursday.",
-      "id": 606972,
-      "impact": "Jenkins was downgraded to a non-participant on Thursday after being limited at practice on Wednesday. It seems like he is going to be sidelined in Week 1, which is bad news for an offense that already projects to be one of the NFL's worst over the course of the season.",
-      "link": "https://www.fantasypros.com/nfl/news/606972/teven-jenkins-back-misses-practice-thursday.php",
-      "player_id": 22755,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Teven Jenkins (back) misses practice Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-10 20:19:24",
-      "created_formated": "Thu, Sep 10th 8:19pm UTC",
-      "desc": "Zay Flowers (hamstring) was upgraded to a full participant at practice on Thursday.",
-      "id": 606971,
-      "impact": "Flowers has been dealing with a hamstring injury for a while, but it seems that he is finally over it, as he was upgraded to a full participant at practice on Thursday after being limited on Wednesday. He should be good to go in Week 1 and can be safely started in most league formats, especially PPR leagues.",
-      "link": "https://www.fantasypros.com/nfl/news/606971/zay-flowers-hamstring-upgraded-to-full-participant-thursday.php",
-      "player_id": 22916,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Zay Flowers (hamstring) upgraded to full participant Thursday"
     }
   ],
   "public_api_limited": true,
