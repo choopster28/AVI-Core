@@ -1,5 +1,420 @@
 [
   {
+    "id": "mtxf3adh-a5b59763",
+    "createdAt": 1789159044961,
+    "expiresAt": 1789591044961,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Southside Savages ↔ Ravens Regime",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Southside Savages",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Kyle Monangai",
+          "assetType": "player"
+        },
+        {
+          "name": "Isaiah Likely",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "TreVeyon Henderson",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "what if the offer is without the draft pick"
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Southside Savages evaluates an offer stripping out the 2027 2nd-round pick, proposing a straight player-for-players swap of TreVeyon Henderson for Kyle Monangai and Isaiah Likely. While this heavily favors Southside in raw value, it drops the acceptance probability for Ravens Regime since they lose draft capital compensation for downgrading their RB2 potential.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "TreVeyon Henderson",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 23,
+              "cavi": 68.4,
+              "davi": 85.2,
+              "publicMarket": 78,
+              "leagueMarket": 76.8
+            },
+            {
+              "name": "2027 Round 2 (Southside Savages)",
+              "assetType": "pick",
+              "owner": "Southside Savages",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 24,
+              "cavi": 57.4,
+              "davi": 74.9,
+              "publicMarket": 62,
+              "leagueMarket": 66.1
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "TE",
+              "age": 26,
+              "cavi": 69.1,
+              "davi": 78.7,
+              "publicMarket": 74,
+              "leagueMarket": 73.9
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A+",
+            "otherGrade": "C",
+            "userShare": 60,
+            "otherShare": 40,
+            "advantageFranchise": "Southside Savages",
+            "summary": "Without the 2027 2nd-round pick, Southside Savages secures a massive value win, acquiring both a major TE upgrade in Isaiah Likely and RB depth in Monangai while only surrendering TreVeyon Henderson."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 51,
+            "otherShare": 49,
+            "advantageFranchise": "Southside Savages",
+            "summary": "The original package including the 2027 2nd remains the optimal construction to bridge the value gap and secure Ravens Regime's agreement."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 55,
+              "summary": "Massive win in terms of positional value and liquidity retention by acquiring Likely and Monangai without giving up future draft capital."
+            },
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Directly plugs the tight end hole with Isaiah Likely without paying any draft premium."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Retains all future draft picks while acquiring two productive contributors in their prime."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Strong starting lineup upgrade at tight end."
+            },
+            "depthResilience": {
+              "score": 50,
+              "summary": "Solidifies flex and bench depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Retains all draft pick assets, maintaining maximum future flexibility."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -10,
+              "summary": "Accepts a downgrade in draft capital recovery, taking on Henderson for two solid pieces without getting the requested 2nd-round pick back."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Upgrades RB2 to Henderson, but under-compensated relative to the asset value sent out."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Adds Henderson but lacks the draft compensation to balance the loss of Likely's upside."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Modest upgrade at RB2."
+            },
+            "depthResilience": {
+              "score": -25,
+              "summary": "Depletes positional depth at tight end without gaining draft assets in return."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Fails to recover lost 2027 draft capital."
+            }
+          },
+          "explanation": "Removing the 2027 2nd-round pick heavily tilts the scales in favor of Southside Savages, making it a dream scenario for them but a tough pill to swallow for Ravens Regime."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "+3.1 net starting C-AVI gain by upgrading TE while shifting slightly down at RB2, entirely unencumbered by pick losses.",
+          "sideADynastyImpact": "Acquires two high-value assets while keeping 100% of future draft capital intact.",
+          "sideARosterImpact": "Solves the tight end weakness cleanly without sacrificing future draft inventory.",
+          "sideBChampionshipImpact": "Upgrades RB2 with Henderson, but misses out on the pick compensation needed to balance the trade in the eyes of an active GM.",
+          "sideBDynastyImpact": "Gains Henderson's high D-AVI but loses flexibility by not recouping draft capital.",
+          "sideBRosterImpact": "Clears the TE logjam behind Kyle Pitts but undervalues the package being sent out.",
+          "valueAssessment": "Without the 2027 pick, the trade heavily favors Southside Savages, significantly reducing acceptance probability from Ravens Regime."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Managers love acquiring proven producers without giving up draft picks, making a pickless offer extremely attractive to the buyer but less appealing to the seller.",
+          "aviVsMarket": "AVI shows that Likely and Henderson are close enough in value that removing the pick shifts the trade heavily toward the side acquiring two players for one elite piece.",
+          "relevantContext": [
+            "Mentomorii is an active trader who typically demands pick compensation when consolidating assets."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime wants an RB2 upgrade but also values draft capital recovery.",
+          "packageFit": "Henderson is a great target, but without a pick, the value balance is skewed.",
+          "lineupReplacement": "Kyle Pitts remains starting TE1, but Likely holds standalone value that warrants proper compensation.",
+          "competitiveWindowFit": "Both teams are pushing for the playoffs.",
+          "positionalScarcity": "16-team league scarcity makes starting tight ends like Likely valuable commodities."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 15,
+            "packageMatch": 10,
+            "lineupReplacement": 13,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 45,
+          "classification": "Unlikely",
+          "explanation": "Because Mentomorii is an active, sharp trader (17 completed trades), he is unlikely to accept a package for Isaiah Likely and Kyle Monangai that lacks the 2027 2nd-round pick sweetener to balance the deal."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Submitting the offer without the 2027 2nd-round pick drops acceptance probability into the 'Unlikely' range (45%). While great for Southside if it hits, Mentomorii will likely reject it. Re-adding the 2nd-round pick is recommended to get the deal done.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "TreVeyon Henderson",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 23,
+              "cavi": 68.4,
+              "davi": 85.2,
+              "publicMarket": 78,
+              "leagueMarket": 76.8
+            },
+            {
+              "name": "2027 Round 2 (Southside Savages)",
+              "assetType": "pick",
+              "owner": "Southside Savages",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 24,
+              "cavi": 57.4,
+              "davi": 74.9,
+              "publicMarket": 62,
+              "leagueMarket": 66.1
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "TE",
+              "age": 26,
+              "cavi": 69.1,
+              "davi": 78.7,
+              "publicMarket": 74,
+              "leagueMarket": 73.9
+            }
+          ],
+          "whyUserShouldDoIt": "Adding back the 2027 2nd-round pick bridges the valuation gap and ensures Ravens Regime actually accepts the proposal.",
+          "whyOpponentMightAccept": "Provides a young elite RB1/RB2 ceiling piece plus draft capital recovery."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "TreVeyon Henderson",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 23,
+              "cavi": 68.4,
+              "davi": 85.2,
+              "publicMarket": 78,
+              "leagueMarket": 76.8
+            }
+          ],
+          "receive": [
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 24,
+              "cavi": 57.4,
+              "davi": 74.9,
+              "publicMarket": 62,
+              "leagueMarket": 66.1
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "TE",
+              "age": 26,
+              "cavi": 69.1,
+              "davi": 78.7,
+              "publicMarket": 74,
+              "leagueMarket": 73.9
+            }
+          ],
+          "rationale": "This is the exact pickless offer requested. You can try sending it first to test the waters, but expect a counter or rejection from a savvy manager like Mentomorii."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Evaluated the trade package with the 2027 2nd-round pick removed. Determined that while it massively benefits Southside Savages in value, it drops acceptance probability with Ravens Regime into the unlikely range due to lack of draft compensation."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Isaiah Likely fantasy outlook 2026",
+          "Isaiah Likely contract news 2026 Ravens",
+          "Kyle Monangai NFL draft 2026 team news",
+          "Kyle Monangai football 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwvgpCjD5qtPld-jQc9mtkEtPOeLtyzoRiFKHxt8eQuJxA6vyEPHH4OFbk4ihOxEtF5wKQoFXlSLjCX8dgNT4mb2nqtZoWSPcEWV_d19VMweEC_hM7kJwjVzRVh7WGGWQ4bSQf5koDfgSKyXx6JKoyWE7jfgcX",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQX_oOrEhHQ5ci_ugcauA1QPRM9YhyrLsG3TvDf5zH5VLFSErLIWDUMfjiuqynzRQm8o7WsllVdHjiI6LFfdYWjVa7h6lc_xikO-M8fjpFQy_suWVnZ_9o8cR80BqvzlX",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaSKSQ98lP5vKLb9t_W4adoBgWyKyUAqeBmYsAD84r0T_9F7IVrfSU3xWWwPgniKnqeVQBLVLuvM-bpMpP2216-UXup1wJSvV-caayHH31K5RzO7DGpkr5XBXNw4RsSW_ePpHOvuRF9SSpNG_5gLUvP_mgn5Nt7wMEne3ZP1ANt6Ixkjfxiv_1hN8wIm-IbnA=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwGz70jtoVroQW7XxgU6tV2cwqYsCc1byy4JtKV06pqL4N6XaE55pIhlRCBxGtmjLvrbKynoA6HAE1J4Jau877inYTksElP8PjkkCWHgIqxX45XU10Q1ES2t2tqF7F6Rhd3aBtqaBIP7ABp_rhuoVc4oiHRaWk5oE6jM4OGZduaWA=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUZV-YGNG8HowJxIfeGLfuyu8OLedPEkM-tBotsMzl3u4WQEHtwvuO67NlYHIMzOecOuNPD8HrqJDedTvPo1wFGeS_YGOkzyuP__hFXz81fmvMzMPMMbaDy0-T3Rb-oKPfegitD98bmiwjug_vj4k86Mt5Ghn2ZgRhC242_GXpOULKTRlWxRANrKrMCZG6YsK9EaWhXse6nrX6iRif9U1p",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxcv7CUxcD11ZcXPskQOeYFl37dRFpfT3pILpTPHDHeEYO14vM0d_dkhu--_wtEBnLc3pES4Y3pQOAKPIhL0Sp7eLdtUaPvgtAHE7IqKvwMFO4FHEGlDznA180Tw5eoy89okOvMpi2xFihRDuqZOBzRWZ7RjvaV3gCu-D0lxneaoiXFXBkzs0idhpDdetTuhOrNZOd",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIvG3sy_kVbcc88uMnkkJTeq_8pBtIfH5SB1tcSaNJkdsFOVqcEoQFDnoNtc6UGTD0TXTm-YOoy1SqFbKJ4CJ5-AuVv4MV2_eQLff6LRBYIYDFI46fgQr3totTrp6G2bGBVGZ4MYLGxFsx682A1BRiUTNuG1Hb3iNtuXQ1FgiOptFIOYJ6qYNuRTeTVJP8JzoY-zs=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcJT6TDGetb5gm61e9Gco1vugzCHwEoHKl_mHtdK8JcyOSP26UeiQvHwyQ36shumaYrO3FTsGxjtPwdPff0OMd0BAP-bBudXNPS-10Jd4yURqOuluJ2pZ_l67LVG64hFfp0xbMKlAh5kMz_9_hWbH_5u1Fcbvbz3kaeAX2ogb_tnBvv5szS5IorfOQdvxTtEilpY5zlzio2dm8FpSd17RW4W7JvqWGIC_H_aF5a9A=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8PhOM4KAIp7CmwfKBjFqXjvB5VCDzLEp6F4okOWwQBL5F3Tbg7Z85MJeIrecUX7aatEtdzGh_aaWkMbpFVveLuo7DNhhVTn8HrNM-cSpRZUoO7SFjfF2eXzlSLJ1OUPumvK8mlSGoTPbBXSdrl5AJD6H59vTPPRr6i2BZIwlwQFbvND0VvWGA3_K1g3jXCWOJ2p0by2AN5wrwq3E=",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjX94QV4tGegmZ97_2vKOaQ1xwZ_NdthbK68D_LcujpOub1a7UOl6RpP3JkCbvFH4eaAtl2EmF_OBfnQNssWHNYFIL5K9qhNQfPuItxMofk5Ip2SJUjOPDnPdqFlM96WsSaVDD8-Gc6lQmj9Smmd0b",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoJPd1eBUtA5mvIAGuI8cN9o7GquASG8X21qA2oDoZvqyBVJSOxWsbceDH7BohY3gvRHx7b0ojnG11asmWAUyBKH5rVh9e9Y6Amor7T0LT68K6EtvlVd3EZ5MSZmZiu-EPJA72RpnM7d4L-5oewUBKPe470jLdyBO6FUASCQ_KLmhg-1pJ9OmWiA==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_B59jBdJ81l2N3cb6lr4IBvVPI-eoyYuaBTtF6vFL4q44Y5yhx97MtcqHVR02C60_OcRvrnYqA6VQlmPZL61pIfQLSec-ghbWUqAZJ_OJPsWFlayPoaoRPhTvWwRSmvZ4wf1fGSgt59RMfiqwwwAImlrzWU6VTpVrUt_YgFsSlBwztuMRGilAcolewlo8NQt-GynSsZdM",
+            "title": "gmenhq.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_14tgBKd6isKbqtXNDaGEsdP9utKKZUxhGox_B1M7xOTOTphAwGEKgDWaQkBeXicLNANxdu17ONIzkiHYRPaFXNSuuIeKht1tURAPC9_l5O0Se25Sids8cNorOfC-a4XmYWFZHT27FBw4DVL2Vxru4nKdd2eHKaaoek6tudEXbyEo07nA4xiP",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-J9KgRTj8_eiNloulAdShyg23i7-H3tXb3aIbBB-xEjkOgiOwmOgqt_JnF7evdLjYWg-TiFhg8_z_ezLYArMaGIqJcR2PMPv1LN4FY4GkBBwMpird52hL4qPLa4mXptL2NylRJOLhxvdPsTVK5fCyIlKVxOH_xh2ue1fipRCE-c3asyiQ5o276NvP8_6VuPYLbeXfPA==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEwtRzsqgO1wrxRCiZJZc05xnNSWQDxD6_sloi-Wc5Ew6b3mUjpIQniYbPauZyTwq-L6B5VDkQ7dEeM4tma3L4A_elazxcwJ7zVgmzlhxd9hKq124lMs_ky8uTXaQJI7DFzXTdYDcg_AgP6MCNuGZZQwEyhbvK2Gkca_7yVnbbY88=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7f999632c17dbcdb48bec6a9f067749f8fa76ccd",
+        "aviCoreCommittedAt": "2026-09-11T18:00:37Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 80803,
+        "groundedMarketChars": 3289,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mtxezyaj-c3f01adf",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "7f999632c17dbcdb48bec6a9f067749f8fa76ccd"
+      }
+    }
+  },
+  {
     "id": "mtxezyaj-c3f01adf",
     "createdAt": 1789158936349,
     "expiresAt": 1789590936349,
