@@ -1332,14 +1332,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
-## PLAYER LOOKUP: Malik Davis
-- Player name: Malik Davis
-- Player ID: 8800
-- Position: RB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
 ## PLAYER LOOKUP: Malik Nabers
 - Player name: Malik Nabers
 - Player ID: 11632
@@ -1611,6 +1603,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
+
+## PLAYER LOOKUP: Ray Davis
+- Player name: Ray Davis
+- Player ID: 11575
+- Position: RB
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Rhamondre Stevenson
 - Player name: Rhamondre Stevenson
@@ -2184,6 +2184,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 60.9
 - Availability: available
 
+## AVAILABLE PLAYER: Malik Davis
+- Player name: Malik Davis
+- Player ID: 8800
+- Position: RB
+- NFL team: DAL
+- Championship AVI (C-AVI, 0-100): 33.2
+- Dynasty AVI (D-AVI, 0-100): 42.3
+- Availability: available
+
 ## AVAILABLE PLAYER: Tyquan Thornton
 - Player name: Tyquan Thornton
 - Player ID: 8188
@@ -2398,15 +2407,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: PIT
 - Championship AVI (C-AVI, 0-100): 28.9
 - Dynasty AVI (D-AVI, 0-100): 49.1
-- Availability: available
-
-## AVAILABLE PLAYER: Ray Davis
-- Player name: Ray Davis
-- Player ID: 11575
-- Position: RB
-- NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 28.8
-- Dynasty AVI (D-AVI, 0-100): 49.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Austin Hooper
