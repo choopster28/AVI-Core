@@ -31,8 +31,384 @@
       ]
     },
     "createdAt": 1789157037306,
-    "updatedAt": 1789157038452,
+    "updatedAt": 1789157098085,
     "expiresAt": 1789589037306,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "All Hail King Jesus proposes sending starting RB D'Andre Swift to Ravens Regime in exchange for Jacory Croskey-Merritt, Kaytron Allen, and a 2028 2nd-round pick. While Ravens Regime would eagerly accept this trade to secure a prime RB1/RB2 anchor alongside Derrick Henry, the construction is strategically damaging for All Hail King Jesus. Giving up Swift (78.2 C-AVI) drops All Hail King Jesus's RB1 position down to Croskey-Merritt (53.4 C-AVI), creating a significant 24.8 C-AVI drop in its starting lineup during an active playoff push in a 16-team league. AVI recommends revising the offer to send bench receiver Deebo Samuel instead, or requiring high-upside WR Carnell Tate if Swift remains in the deal.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 78.2,
+              "davi": 82.5,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jacory Croskey-Merritt",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 53.4,
+              "davi": 70.3,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            },
+            {
+              "name": "Kaytron Allen",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.2,
+              "davi": 54.7,
+              "publicMarket": 35,
+              "leagueMarket": 30
+            },
+            {
+              "name": "2028 2nd (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C-",
+            "otherGrade": "A",
+            "userShare": 38,
+            "otherShare": 62,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Ravens Regime captures an elite starting RB in D'Andre Swift to pair with Derrick Henry, while All Hail King Jesus severely degrades its RB1 starting slot from Swift (78.2 C-AVI) to Croskey-Merritt (53.4 C-AVI) without gaining an active starting upgrade elsewhere."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even / Neutral",
+            "summary": "By revising the proposal to send bench WR Deebo Samuel (54.7 C-AVI) instead of Swift, All Hail King Jesus acquires needed RB backfield depth and future draft capital without compromising its core starting lineup."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -25,
+              "summary": "Downgrades the RB1 position for a contending roster without generating an immediate starting upgrade elsewhere."
+            },
+            "championshipOutlook": {
+              "score": -35,
+              "summary": "Trading away Swift's 224.8 projected PPR points reduces weekly scoring ceiling in a 16-team league."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Acquires younger committee running backs and a 2028 2nd-round draft pick."
+            },
+            "lineupQuality": {
+              "score": -40,
+              "summary": "RB1 drops from Swift (78.2 C-AVI) to Croskey-Merritt (53.4 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Adds two Washington Commanders RBs to insulate backfield depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Adds a 2028 2nd-round pick as trade currency."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 35,
+              "summary": "Secures an elite RB2 starter in Swift to maximize current championship push."
+            },
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Upgrades starting lineup C-AVI significantly at RB2 and FLEX."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Parts with a future 2nd-round pick and young depth assets."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Inserts D'Andre Swift into the active lineup, elevating weekly floor and ceiling."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Consolidates committee depth into a high-volume starter."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Expends active 2028 draft capital."
+            }
+          },
+          "explanation": "The transaction disproportionately benefits Ravens Regime by giving them a top-tier RB starter to solidify their playoff run, while All Hail King Jesus takes an unnecessary hit at RB1 that hurts its own championship odds."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "All Hail King Jesus experiences a significant drop in starting lineup strength, replacing Swift (78.2 C-AVI) with Croskey-Merritt (53.4 C-AVI) as its RB1.",
+          "sideADynastyImpact": "Gains minor long-term dynasty value across age-25 Croskey-Merritt (70.3 D-AVI), age-23 Allen (54.7 D-AVI), and a 2028 2nd-round pick (48.5 D-AVI).",
+          "sideARosterImpact": "Leaves All Hail King Jesus with an underpowered RB room featuring Croskey-Merritt and Zach Charbonnet as its primary options.",
+          "sideBChampionshipImpact": "Ravens Regime materially boosts its title odds by adding Swift (78.2 C-AVI) alongside Derrick Henry (92.7 C-AVI).",
+          "sideBDynastyImpact": "Slightly reduces future flexibility by sending out draft capital, but secures prime 27-year-old lead-back production.",
+          "sideBRosterImpact": "Solidifies mandatory starting slots and moves Kyle Monangai to a FLEX position.",
+          "valueAssessment": "Although raw summed AVI numbers appear balanced due to receiving multiple assets, the starting-lineup downgrade at RB1 makes this transaction net-negative for contender All Hail King Jesus."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus treats D'Andre Swift as a high-volume lead back in Chicago with guaranteed starter usage. Jacory Croskey-Merritt leads Washington's early-down rotation but exists in a multi-back committee alongside Rachaad White and Kaytron Allen.",
+          "aviVsMarket": "Market sentiment values Swift as a clear starter-level asset, whereas Croskey-Merritt and Kaytron Allen carry committee volatility.",
+          "relevantContext": [
+            "Jacory Croskey-Merritt is cleared for Week 1 but shares snaps in Washington.",
+            "Kaytron Allen is a 6th-round rookie backup in Washington's backfield.",
+            "D'Andre Swift is projected for 224.8 PPR points as Chicago's clear lead back."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is highly motivated to trade secondary depth and future picks for a proven starter like Swift to advance their Playoff Push.",
+          "packageFit": "The package offers depth and liquidity, but fails to replace the elite single-starter impact of D'Andre Swift.",
+          "lineupReplacement": "Ravens Regime easily replaces departing depth with Swift. All Hail King Jesus cannot adequately replace Swift's production with Croskey-Merritt.",
+          "competitiveWindowFit": "Ravens Regime advances its Playoff Push window. All Hail King Jesus undermines its Playoff Push by downgrading RB1.",
+          "positionalScarcity": "In a 16-team PPR league, RB1s with locked-in volume are extremely scarce and valuable."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 100,
+          "classification": "Highly Realistic",
+          "explanation": "Ravens Regime would accept this proposal with high probability as it provides a major starting RB upgrade for secondary depth and a future 2nd-round pick."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "While Ravens Regime would eagerly accept receiving D'Andre Swift, All Hail King Jesus takes an unnecessary hit at RB1 that harms its Playoff Push. To balance the roster effectively, All Hail King Jesus should offer Deebo Samuel instead of Swift for Croskey-Merritt, Allen, and the 2028 2nd, or demand additional starter quality if Swift is included.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Deebo Samuel",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 30,
+              "cavi": 54.7,
+              "davi": 67.1,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jacory Croskey-Merritt",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 53.4,
+              "davi": 70.3,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            },
+            {
+              "name": "Kaytron Allen",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.2,
+              "davi": 54.7,
+              "publicMarket": 35,
+              "leagueMarket": 30
+            },
+            {
+              "name": "2028 2nd (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48
+            }
+          ],
+          "whyUserShouldDoIt": "Trading Deebo Samuel (who sits on the bench behind St. Brown, Jefferson, and Higgins) allows All Hail King Jesus to acquire needed RB backfield depth and a 2028 2nd pick without surrendering starting RB1 D'Andre Swift.",
+          "whyOpponentMightAccept": "Ravens Regime acquires a proven starting-caliber WR/FLEX asset in Deebo Samuel to boost their weekly lineup floor and rebalance their roster."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 78.2,
+              "davi": 82.5,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "receive": [
+            {
+              "name": "Carnell Tate",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 21,
+              "cavi": 67,
+              "davi": 87.2,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Jacory Croskey-Merritt",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 53.4,
+              "davi": 70.3,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            },
+            {
+              "name": "2028 2nd (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48
+            }
+          ],
+          "rationale": "If All Hail King Jesus insists on moving Swift, adding high-upside receiver Carnell Tate alongside Croskey-Merritt and the 2028 2nd properly compensates for giving up a premier RB1."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jacory Croskey Merritt NFL draft team",
+          "Jacory Croskey Merritt football 2026",
+          "Kaytron Allen football 2026",
+          "Kaytron Allen NFL draft team"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuGNR-S_CEx8K7w6rtugIpfk654FjXMh4OJppZ8_ARGgSPCGybtYKTFs-5VRaqly2b1kWYwHejyJf9tlMUKcAxQQBWu0m1h3rXcgN3AhWNHJHzCjoxC2LpfCybvFdHj53VHSRLQ4NkA8cOTBdxVWxts4i1jAclcYbywhEjTEdOlqwFkXkuMHEzqmXSg2fwSuSIGkiuCWeFhl6ir_uTnXUJAg1ky5pZXCxou61hqP2tSGpHa1VM7SQ8O82WRBToY2HYLMBT",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIVJrK--2WChgFoN2FjcbB1ZuwpZSdL-cvk3UjrRuBiRMgWP8se-XMgy89fbQ8mgCQl8f52qnjvlDMDx4DhmIsIW_CnyeoQqIg25H9lmf5ARPb2dPL98v39ol44hZ8FNEm",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCbXeIHUSsQuX9IaosHXYgMipjQUaXVX8CSmKgddc4i6Nin1BL9--bqgm8AWpfUYB5fclc_9jFLmTOqCzcFYRwpXQqL7DJqjeyTHi3CDLqFWwmVddMuQLwnSuSJ0SK_Eke9lMcw-Lfy-3tBi_dKgfK6baJe-xciP_eO4KgPsCfOP0jfJ1QBt76kOy7SgOWf34jg6Q=",
+            "title": "commanders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5KP7Q3Oh-C8JJQkQGOW85O4RXja27ejyBEFWiNxCNGTY5msUcVo61BH3PiYj4mfvayf4GRBhg1VrbQKjus_6j7MYSD0K7_WtwTUkSz68hLN_7vvbANWAu-VNXGkjMdemC_rGtH6NL4jwn",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqmQ4U0UoFo0hBHGdX7R_fNI_XCpScWeOwBvBtEaUx-Omro6AnRZlwY6tlrclQJnHmjxk56__NFCV_mnN1gCgV7equ6k7qg5j60tf_HeFlpjIa5PZ6ABfdPJffG7TUnvxoNNh2Zpc3lUgus12pUmS9dEfEGYN5HdcUq39W0WUE",
+            "title": "commanders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEicXToobI7veM97WRazTq7jozQUCnRQCJiW9jBDu5W2K9FX9RbcrcchJ2vcGCzFlp1wlZRJeScZ_FBMjV7gNaerz4SLBkxfcydWngCy8sa1pbXm-ubHvvOLbBYPAgoN1_o",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8B-TrHatW7QcBexq3pkeUYae88KbzWbdaMhzdTqI-1fCZmEoGdbQvMZn-EqlwAmInx0EeN8f9GVketeSWXF6Af7MC_cCtxdxvQ4v09AVpYmcb8nfi8r-24KloRb68ZeEDN5814rdeKu1nfphLZMHm9H8ZdWs8Cbd-clZQXqonr1nwEiUdAbTGt5wRAf7EB1VGOV_X_j35PHNOHsfEYjk=",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzfRLbCYiLvVZ2aeAN2NnvohAKQF7BrvyEXpbNe0RkojqqOmgTDB3LRSbDaY_-z7MBlfo5HbvfSSSPe43lxNE078URfCr21K8YGXJHTFntxlAfZFqIjA04zniVQw0aogqq1ggGaNiVmrSWMG3XdRPLn0ThR0Lam84BY0ae_ez3u2O0puQGsQte7CAXTkoovGv4f_i6ySKFmziLaN86jR4gnyt3tjwtgg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAxhaMcePKLOniETDhnValEY1RqlLHF24GPKXUO34scmf21j1_MypTs7myiTxb-IZ2Nc-ie1hl3-uywRN1lzpN6GsnZz4c_BOyjC5-3jy4tROra4uumDpmHLIrdTCLmN-KpxCBZvl4f-Yrhs3xcH0ByR6wlNo6nww87li-b5VGqserkH0-DGqAQA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdaKeQMr20Zxt2Wf_lKLA48N0yn1srjIvL8Kf_pyhVAtwS-CWWUfF5llRsAONbRTCAIB1F2V_bpzw57nSbuWWPlxg4kVOnZZXICW_GsURZ5SX_4cFaT52s_wwnRGhgubSC",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWrOfRyNkdqtqnXGaNjQ85k-lwEaiQuuMnmoMZYx2ptI132rN2jlj8UoOJ6YDZ-Tj4LnWFDTbL6R169NXscqRkAL8jgQfiyipXFY45w09IxGsvJtjlZ9RLSCTfwmK-17koxNo6kYN0A1CYpjT9biap2Zqp66M9qHjF8Loh2B0uOJJpElvpoQ==",
+            "title": "nfl.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7f999632c17dbcdb48bec6a9f067749f8fa76ccd",
+        "aviCoreCommittedAt": "2026-09-11T18:00:37Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 79942,
+        "groundedMarketChars": 2114,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
