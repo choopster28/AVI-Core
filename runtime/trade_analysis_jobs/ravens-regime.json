@@ -1,5 +1,37 @@
 [
   {
+    "id": "mtxe4xsb-abc7f975",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Balance Roster",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Isaiah Likely",
+          "assetType": "player"
+        },
+        {
+          "name": "Kyle Monangai",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tucker Kraft",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1789157426699,
+    "updatedAt": 1789157426699,
+    "expiresAt": 1789589426699,
+    "status": "queued"
+  },
+  {
     "id": "mtxdwlbu-511b1c85",
     "phase": "initial",
     "mode": "propose_trade",
