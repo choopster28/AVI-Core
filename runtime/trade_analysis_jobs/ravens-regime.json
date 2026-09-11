@@ -1,5 +1,37 @@
 [
   {
+    "id": "mtxezyaj-c3f01adf",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Southside Savages",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Kyle Monangai",
+          "assetType": "player"
+        },
+        {
+          "name": "Isaiah Likely",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "TreVeyon Henderson",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1789158873691,
+    "updatedAt": 1789158873691,
+    "expiresAt": 1789590873691,
+    "status": "queued"
+  },
+  {
     "id": "mtxe4xsb-abc7f975",
     "phase": "initial",
     "mode": "propose_trade",
