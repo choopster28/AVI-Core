@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 665.0
-- championship_lineup_c_avi_avg: 83.12
-- offensive_roster_c_avi_sum: 1000.4
-- offensive_roster_c_avi_avg: 58.85
+- championship_lineup_c_avi_sum: 664.9
+- championship_lineup_c_avi_avg: 83.11
+- offensive_roster_c_avi_sum: 1000.1
+- offensive_roster_c_avi_avg: 58.83
 - offensive_roster_d_avi_sum: 1212.7
 - offensive_roster_d_avi_avg: 71.34
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Patrick Mahomes | C-AVI: 74.1 | D-AVI: 81.7
 - RB: Cam Skattebo | C-AVI: 81.5 | D-AVI: 84.2
-- RB: David Montgomery | C-AVI: 72.4 | D-AVI: 79.6
+- RB: David Montgomery | C-AVI: 72.3 | D-AVI: 79.6
 - WR: Jaxon Smith-Njigba | C-AVI: 98.8 | D-AVI: 99.4
 - WR: DeVonta Smith | C-AVI: 86.8 | D-AVI: 91.0
 - TE: Tyler Warren | C-AVI: 97.2 | D-AVI: 91.0
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 72.4
+- Championship AVI (C-AVI, 0-100): 72.3
 - Dynasty AVI (D-AVI, 0-100): 79.6
 - Projected PPR points: 203.1
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 42.1
+- Championship AVI (C-AVI, 0-100): 42.0
 - Dynasty AVI (D-AVI, 0-100): 63.7
 - Projected PPR points: 75.5
 - Category: offense
@@ -325,7 +325,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 45.3
+- Championship AVI (C-AVI, 0-100): 45.2
 - Dynasty AVI (D-AVI, 0-100): 57.3
 - Projected PPR points: 85.9
 - Category: offense

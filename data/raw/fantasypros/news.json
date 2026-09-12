@@ -3,6 +3,163 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 15:15:34",
+      "created_formated": "Sat, Sep 12th 3:15pm UTC",
+      "desc": "Michael Mayer has agreed to a three-year, $45 million deal with the Las Vegas Raiders.",
+      "id": 607334,
+      "impact": "Mayer is an all around contributor, making it well worth the investment for the Raiders. For fantasy, it means that he is behind Brock Bowers for the long term, but maybe the Raiders will employ more tight end sets so both can eat, as they are likely the two most talented pass catchers on the team at this point in time. Time will tell what his fantasy value will become.",
+      "link": "https://www.fantasypros.com/nfl/news/607334/michael-mayer-agrees-to-three-year-45-million-deal-with-raiders.php",
+      "player_id": 23056,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Michael Mayer agrees to a three-year, $45 million deal with Raiders"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-09-12 15:07:29",
+      "created_formated": "Sat, Sep 12th 3:07pm UTC",
+      "desc": "Tucker Kraft has agreed to a four-year, $75 million deal with the Green Bay Packers. The deal is worth up to $92 million.",
+      "id": 607333,
+      "impact": "Kraft was on his way to a massive season in 2025 before going down with a torn ACL. He gets his payday as the Packers lock in their emergeing star for the long haul.",
+      "link": "https://www.fantasypros.com/nfl/news/607333/tucker-kraft-signs-four-year-75-million-deal-with-packers.php",
+      "player_id": 25298,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Tucker Kraft signs four year, $75 million deal with Packers"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-12 07:08:48",
+      "created_formated": "Sat, Sep 12th 7:08am UTC",
+      "desc": "Josh Sweat is off the injury report and will play in Week 1 against the Chargers.",
+      "id": 607276,
+      "impact": "Sweat practiced fully on Friday. He appears to be fully healthy heading into the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/607276/josh-sweat-knee-off-injury-report-week-1.php",
+      "player_id": 17363,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Josh Sweat (knee) off injury report Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 07:07:24",
+      "created_formated": "Sat, Sep 12th 7:07am UTC",
+      "desc": "The Titans claimed OG Atonio Mafi off waivers.",
+      "id": 607275,
+      "impact": "Mafi was previously waived by the Raiders. He will add depth on the offensive line for Tennessee. ",
+      "link": "https://www.fantasypros.com/nfl/news/607275/atonio-mafi-claimed-off-waivers-by-titans.php",
+      "player_id": 25526,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Atonio Mafi claimed off waivers by Titans"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 07:06:20",
+      "created_formated": "Sat, Sep 12th 7:06am UTC",
+      "desc": "The Lions released DL Levi Onwuzurike.",
+      "id": 607274,
+      "impact": "Onwuzurike tore his ACL last offseason. He'll seek another opportunity early in the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/607274/levi-onwuzurike-released-by-lions.php",
+      "player_id": 22693,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Levi Onwuzurike released by Lions "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-12 07:05:11",
+      "created_formated": "Sat, Sep 12th 7:05am UTC",
+      "desc": "Saints RB Alvin Kamara will not have a \"huge role\" if he plays in Week 1 against the Lions.",
+      "id": 607273,
+      "impact": "Kamara was listed as questionable after he practiced fully on Friday. He'll be eased into the season if he is available. ",
+      "link": "https://www.fantasypros.com/nfl/news/607273/alvin-kamara-knee-not-expected-to-have-big-role-if-available-week-1.php",
+      "player_id": 16421,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Alvin Kamara (knee) not expected to have big role if available in Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 07:03:56",
+      "created_formated": "Sat, Sep 12th 7:03am UTC",
+      "desc": "The Vikings restructured CB Isaiah Rodgers' contract.",
+      "id": 607272,
+      "impact": "The move opens up cap space for Minnesota. ",
+      "link": "https://www.fantasypros.com/nfl/news/607272/isaiah-rodgers-sr-has-contract-restructured-by-vikings.php",
+      "player_id": 19821,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Isaiah Rodgers Sr. has contract restructured by Vikings"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 07:03:03",
+      "created_formated": "Sat, Sep 12th 7:03am UTC",
+      "desc": "The Giants' plan to elevate WR Braxton Berrios from the practice squad on Sunday. ",
+      "id": 607271,
+      "impact": "It is believed to be unrelated to the status of Malik Nabers. ",
+      "link": "https://www.fantasypros.com/nfl/news/607271/braxton-berrios-to-be-elevated-sunday.php",
+      "player_id": 17289,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Braxton Berrios to be elevated Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-12 01:30:54",
+      "created_formated": "Sat, Sep 12th 1:30am UTC",
+      "desc": "Cowboys running back Malik Davis is scheduled to have hip surgery on Saturday and be placed on injured reserve",
+      "id": 607241,
+      "impact": "Davis was injured in practice on Friday. He will miss at least the next four games. ",
+      "link": "https://www.fantasypros.com/nfl/news/607241/malik-davis-hip-to-undergo-surgery-be-placed-on-ir.php",
+      "player_id": 24205,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Malik Davis (hip) to undergo surgery, be placed on IR"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -289,168 +446,6 @@
       "sport_id": "NFL",
       "team_id": "JAC",
       "title": "LeQuint Allen Jr. (hip) officially questionable for Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:16:32",
-      "created_formated": "Fri, Sep 11th 8:16pm UTC",
-      "desc": "Devontez Walker is listed as questionable for Sunday's game against the Colts. ",
-      "id": 607217,
-      "impact": "Walker was limited in practice all week. He'll hold a depth role if he is cleared. ",
-      "link": "https://www.fantasypros.com/nfl/news/607217/devontez-walker-groin-listed-questionable-sunday.php",
-      "player_id": 26011,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Devontez Walker (groin) listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:15:30",
-      "created_formated": "Fri, Sep 11th 8:15pm UTC",
-      "desc": "Nnamdi Madubuike has been ruled out for Sunday's game against the Colts. ",
-      "id": 607215,
-      "impact": "Madubuike had his career threatened, but he was cleared this offseason to return. He'll figure to still be eased back by Baltimore. ",
-      "link": "https://www.fantasypros.com/nfl/news/607215/nnamdi-madubuike-neck-ruled-out-sunday.php",
-      "player_id": 19272,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Nnamdi Madubuike (neck) ruled out Sunday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:14:02",
-      "created_formated": "Fri, Sep 11th 8:14pm UTC",
-      "desc": "Keaton Mitchell (hamstring) is off of the injury report for Sunday's game against the Arizona Cardinals.",
-      "id": 607214,
-      "impact": "Mitchell has been dealing with a nagging hamstring injury for a while, but it appears he is finally over it, as he has received full clearance to suit up and play for the Chargers in their season opener. He will remain relegated to a depth role behind Omarion Hampton for the foreseeable future, however.",
-      "link": "https://www.fantasypros.com/nfl/news/607214/keaton-mitchell-hamstring-off-injury-report-sunday.php",
-      "player_id": 25360,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Keaton Mitchell (hamstring) off injury report for Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:13:57",
-      "created_formated": "Fri, Sep 11th 8:13pm UTC",
-      "desc": "Zay Flowers is off the injury report for Sunday's game against the Colts. ",
-      "id": 607213,
-      "impact": "Flowers missed some practice time in the past couple of weeks with a hamstring injury. He'll be a full-go heading into the season off a new contract. ",
-      "link": "https://www.fantasypros.com/nfl/news/607213/zay-flowers-hamstring-off-injury-report-sunday.php",
-      "player_id": 22916,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Zay Flowers (hamstring) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:12:48",
-      "created_formated": "Fri, Sep 11th 8:12pm UTC",
-      "desc": "Calais Campbell is off the injury report for Sunday's game against the Colts. ",
-      "id": 607211,
-      "impact": "Campbell will be a full-go for Sunday's season opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/607211/calais-campbell-rest-off-injury-report-sunday.php",
-      "player_id": 10585,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Calais Campbell (rest) off injury report Sunday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:12:12",
-      "created_formated": "Fri, Sep 11th 8:12pm UTC",
-      "desc": "Brenen Thompson (hip) is good to go for Sunday's game against the Arizona Cardinals.",
-      "id": 607210,
-      "impact": "Thompson has been cleared to play for Sunday's game, meaning that his hip injury isn't a very serious issue at this point. He isn't expected to be fantasy relevant for the foreseeable future, however.",
-      "link": "https://www.fantasypros.com/nfl/news/607210/brenen-thompson-hip-good-to-go-sunday.php",
-      "player_id": 28133,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Brenen Thompson (hip) good to go for Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:12:03",
-      "created_formated": "Fri, Sep 11th 8:12pm UTC",
-      "desc": "Teddye Buchanan has been ruled out for Sunday's game against the Colts. ",
-      "id": 607209,
-      "impact": "Buchanan was limited in practice all week. It won't be enough for him to be cleared for the season opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/607209/teddye-buchanan-knee-ruled-out-sunday.php",
-      "player_id": 27146,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Teddye Buchanan (knee) ruled out Sunday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:10:29",
-      "created_formated": "Fri, Sep 11th 8:10pm UTC",
-      "desc": "Jonathan Greenard (pec) won't play in Sunday's game against the Washington Commanders.",
-      "id": 607208,
-      "impact": "The veteran is going to be sidelined on Sunday. He's still recovering from an injury to his pec right now, and the team wants to give him all the time that he needs to rest and make a full recovery before playing. His absence will leave Philadelphia's defensive front slightly weaker than usual against the Commanders.",
-      "link": "https://www.fantasypros.com/nfl/news/607208/jonathan-greenard-pec-wont-play-sunday.php",
-      "player_id": 19276,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jonathan Greenard (pec) won't play Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:10:06",
-      "created_formated": "Fri, Sep 11th 8:10pm UTC",
-      "desc": "Malik Nabers is listed as questionable for Sunday's game against the Cowboys. ",
-      "id": 607207,
-      "impact": "The reports all week have suggested Nabers is expected to be good to go for Sunday's season opener. He should be on the favorable side of questionable going into the weekend. ",
-      "link": "https://www.fantasypros.com/nfl/news/607207/malik-nabers-knee-officially-questionable-sunday.php",
-      "player_id": 25409,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Malik Nabers (knee) officially questionable Sunday "
     }
   ],
   "public_api_limited": true,
