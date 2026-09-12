@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-09-11T16:25:56.401913+00:00",
+  "generated_at_utc": "2026-09-12T00:24:20.567382+00:00",
   "in_season_transition": {
     "activation_policy": "Use only verified completed 2026 regular-season weeks; stale or partial player-points feeds do not activate the transition.",
     "completed_through_week": 0,

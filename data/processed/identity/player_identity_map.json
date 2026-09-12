@@ -288,10 +288,10 @@
     "sleeper_id": "11058"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "24049",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "GB",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Bo Melton",
     "position": "WR",
     "sleeper_id": "8204"
