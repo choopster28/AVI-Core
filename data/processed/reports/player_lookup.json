@@ -286,7 +286,7 @@
       "player_name": "Malik Davis",
       "position": "RB",
       "sleeper_id": "8800",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -1486,7 +1486,7 @@
       "player_name": "Audric Estime",
       "position": "RB",
       "sleeper_id": "11579",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -1654,7 +1654,7 @@
       "player_name": "Tim Patrick",
       "position": "WR",
       "sleeper_id": "4351",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
