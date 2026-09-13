@@ -11230,7 +11230,7 @@
       "genius_id": "1398963",
       "rookie_year": "2023"
     },
-    "news_updated": 1789300551988,
+    "news_updated": 1789304452140,
     "number": 24,
     "oddsjam_id": "89E4D780D1E6",
     "opta_id": null,
@@ -289246,7 +289246,7 @@
       "genius_id": "835480",
       "rookie_year": "2015"
     },
-    "news_updated": 1789169715111,
+    "news_updated": 1789305352826,
     "number": 55,
     "oddsjam_id": "4836B4804C0C",
     "opta_id": null,
@@ -428485,10 +428485,10 @@
     "hashtag": "#cooperrush-NFL-ATL-13",
     "height": "75",
     "high_school": "Lansing Catholic (MI)",
-    "injury_body_part": "Back",
-    "injury_notes": "Spasms",
+    "injury_body_part": null,
+    "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "d3bf576d-a13a-4402-b462-6dcd8f1f771a",
     "last_name": "Rush",
     "metadata": {
@@ -521484,7 +521484,7 @@
       "genius_id": "1006877",
       "rookie_year": "2019"
     },
-    "news_updated": 1788969026741,
+    "news_updated": 1789304752349,
     "number": 98,
     "oddsjam_id": "B6E32051455C",
     "opta_id": null,
