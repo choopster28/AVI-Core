@@ -10952,7 +10952,7 @@
     },
     {
       "cbs_player_id": "26694658",
-      "player_bye_week": null,
+      "player_bye_week": "13",
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "jamon-dumas--johnson.php",
@@ -10965,7 +10965,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "J. Johnson",
-      "player_team_id": "FA",
+      "player_team_id": "BAL",
       "player_yahoo_id": "42239",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB292",

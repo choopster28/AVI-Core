@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-09-12T15:30:50.201828+00:00",
+  "generated_at_utc": "2026-09-13T00:04:45.551097+00:00",
   "in_season_transition": {
     "activation_policy": "Use only verified completed 2026 regular-season weeks; stale or partial player-points feeds do not activate the transition.",
     "completed_through_week": 0,
@@ -32,8 +32,8 @@
   "methodology_version": "2026.2",
   "player_points_active": false,
   "record_counts": {
-    "calculated_players": 480,
-    "registry_players": 480,
+    "calculated_players": 479,
+    "registry_players": 479,
     "unresolved_players": 0
   },
   "replacement_levels": {

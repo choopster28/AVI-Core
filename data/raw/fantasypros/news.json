@@ -1,7 +1,213 @@
 {
-  "count": 25,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-13 00:01:11",
+      "created_formated": "Sun, Sep 13th 12:01am UTC",
+      "desc": "The Lions restructured the contract of LT Penei Sewell. ",
+      "id": 607425,
+      "impact": "WR Amon-Ra St. Brown also had his contract restructured. The Lions created $35.68 million in cap space. ",
+      "link": "https://www.fantasypros.com/nfl/news/607425/penei-sewell-has-contract-restructured-by-lions.php",
+      "player_id": 19782,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Penei Sewell has contract restructured by Lions"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-13 00:00:41",
+      "created_formated": "Sun, Sep 13th 12:00am UTC",
+      "desc": "The Lions restructured the contract of WR Amon-Ra St. Brown. ",
+      "id": 607424,
+      "impact": "LT Penei Sewell also had his contract restructured. The Lions created $35.68 million in cap space. ",
+      "link": "https://www.fantasypros.com/nfl/news/607424/amon-ra-st-brown-has-contract-restructured-by-lions.php",
+      "player_id": 19799,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Amon-Ra St. Brown has contract restructured by Lions "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 23:59:28",
+      "created_formated": "Sat, Sep 12th 11:59pm UTC",
+      "desc": "The Titans elevated S Erick Hallett II for Week 1 against the Jets.",
+      "id": 607422,
+      "impact": "Hallett will add depth in the secondary for Tennessee on Sunday. ",
+      "link": "https://www.fantasypros.com/nfl/news/607422/erick-hallett-ii-elevated-week-1.php",
+      "player_id": 25503,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Erick Hallett II elevated for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 23:58:48",
+      "created_formated": "Sat, Sep 12th 11:58pm UTC",
+      "desc": "The Titans elevated LB Mohamoud Diabate for Week 1 against the Jets.",
+      "id": 607421,
+      "impact": "Diabate will add depth at linebacker for Tennessee. ",
+      "link": "https://www.fantasypros.com/nfl/news/607421/mohamoud-diabate-elevated-week-1.php",
+      "player_id": 25437,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Mohamoud Diabate elevated for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 23:57:42",
+      "created_formated": "Sat, Sep 12th 11:57pm UTC",
+      "desc": "The Bears elevated WR Kaden Davis for Week 1 against the Panthers.",
+      "id": 607420,
+      "impact": "It is unclear if this relates to the status of Rome Odunze, who is listed as questionable. Fantasy managers will want to monitor his status Sunday morning. ",
+      "link": "https://www.fantasypros.com/nfl/news/607420/kaden-davis-elevated-by-bears-week-1.php",
+      "player_id": 24815,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Kaden Davis elevated by Bears for Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-12 23:56:07",
+      "created_formated": "Sat, Sep 12th 11:56pm UTC",
+      "desc": "Falcons QB Cooper Rush experienced back spasms Saturday but is still expected to start in Week 1 against the Steelers.",
+      "id": 607418,
+      "impact": "Rush is getting the start with both Tua Tagovailoa and Michael Penix Jr. unavailable. Rush remains expected to play. ",
+      "link": "https://www.fantasypros.com/nfl/news/607418/cooper-rush-suffers-back-spasms-still-expected-to-start-sunday.php",
+      "player_id": 16477,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Cooper Rush suffers back spasms, still expected to start Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 23:53:53",
+      "created_formated": "Sat, Sep 12th 11:53pm UTC",
+      "desc": "The Texans and QB C.J. Stroud will pause contract discussion until after the 2026 season.",
+      "id": 607417,
+      "impact": "The two sides tried to come to an agreement on a deal before the season. Stroud will play out the final year of his rookie deal, minus the fifth-year option. ",
+      "link": "https://www.fantasypros.com/nfl/news/607417/cj-stroud-texans-pause-extension-talks.php",
+      "player_id": 23071,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "C.J. Stroud, Texans pause extension talks"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-12 20:29:23",
+      "created_formated": "Sat, Sep 12th 8:29pm UTC",
+      "desc": "Malik Davis (hip) has been placed on season-ending IR after undergoing surgery on his hip.",
+      "id": 607387,
+      "impact": "It's a tough blow to the veteran running back, who worked his way up the depth chart past two much younger and potentially more intriguing prospects. He will now focus on returning in 2027, but his road will be much harder, as he will be nearly 29 when next season rolls around.",
+      "link": "https://www.fantasypros.com/nfl/news/607387/malik-davis-hip-placed-on-season-ending-injured-reserve.php",
+      "player_id": 24205,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Malik Davis (hip) placed on season-ending injured reserve"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 20:23:14",
+      "created_formated": "Sat, Sep 12th 8:23pm UTC",
+      "desc": "Eli Stowers (quad) has been placed on IR due to a quad injury.",
+      "id": 607386,
+      "impact": "Stowers was already struggling throughout training camp, and this quad injury won't help matters. It's likely 2026 is going to be a redshirt year for him, focusing primarily on development for 2027.",
+      "link": "https://www.fantasypros.com/nfl/news/607386/eli-stowers-quad-placed-on-ir.php",
+      "player_id": 23144,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Eli Stowers (quad) placed on IR"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 20:20:46",
+      "created_formated": "Sat, Sep 12th 8:20pm UTC",
+      "desc": "Greg Dortch has been elevated to the Bills' active roster ahead of their game against the Texans.",
+      "id": 607385,
+      "impact": "Dortch will be a depth option, but he will likely see little work, as he is buried on the depth chart. He's been productive when given the opportunity in the past, but it will be hard to find that in Buffalo.",
+      "link": "https://www.fantasypros.com/nfl/news/607385/greg-dortch-elevated-from-practice-squad.php",
+      "player_id": 18585,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Greg Dortch elevated from practice squad"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 20:18:20",
+      "created_formated": "Sat, Sep 12th 8:18pm UTC",
+      "desc": "Frank Gore Jr. has been elevated from the Bills' practice squad ahead of their game against the Texans.",
+      "id": 607384,
+      "impact": "Gore will provide depth and likely see some snaps on special teams, but is unlikely to see any real action on offense given the running backs ahead of him on the depth chart.",
+      "link": "https://www.fantasypros.com/nfl/news/607384/frank-gore-jr-elevated-from-practice-squad.php",
+      "player_id": 25980,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Frank Gore Jr. elevated from practice squad"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-12 18:32:43",
+      "created_formated": "Sat, Sep 12th 6:32pm UTC",
+      "desc": "Israel Abanikanda has been signed to the active roster by the Dallas Cowboys the organization announced.",
+      "id": 607383,
+      "impact": "Abanikanda will be in the backfield mix for head coach Kurt Schottenheimer after Malik Davis was placed on injured reserve Saturday, with Javonte Williams remaining a dynamic RB1 option that will see as much volume as he can handle against the New York Giants Sunday night.",
+      "link": "https://www.fantasypros.com/nfl/news/607383/israel-abanikanda-signed-to-active-roster.php",
+      "player_id": 24352,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Israel Abanikanda signed to active roster"
+    },
     {
       "author": "Garrett Ball",
       "categories": [
@@ -148,24 +354,6 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-12 01:30:54",
-      "created_formated": "Sat, Sep 12th 1:30am UTC",
-      "desc": "Cowboys running back Malik Davis is scheduled to have hip surgery on Saturday and be placed on injured reserve",
-      "id": 607241,
-      "impact": "Davis was injured in practice on Friday. He will miss at least the next four games. ",
-      "link": "https://www.fantasypros.com/nfl/news/607241/malik-davis-hip-to-undergo-surgery-be-placed-on-ir.php",
-      "player_id": 24205,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Malik Davis (hip) to undergo surgery, be placed on IR"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
       "created": "2026-09-11 20:34:05",
       "created_formated": "Fri, Sep 11th 8:34pm UTC",
       "desc": "Sedrick Van Pran-Granger is off the injury report for Sunday's game against the Ravens. ",
@@ -230,222 +418,6 @@
       "sport_id": "NFL",
       "team_id": "IND",
       "title": "Drew Ogletree (neck) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:30:42",
-      "created_formated": "Fri, Sep 11th 8:30pm UTC",
-      "desc": "AJ Haulcy is off the injury report for Sunday's game against the Ravens. ",
-      "id": 607229,
-      "impact": "Haulcy was a full participant in practice. He'll be good to go for Sunday's season opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/607229/aj-haulcy-ankle-off-injury-report-sunday.php",
-      "player_id": 28069,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "AJ Haulcy (ankle) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:29:31",
-      "created_formated": "Fri, Sep 11th 8:29pm UTC",
-      "desc": "Charvarius Ward is off the injury report for Sunday's game against the Ravens. ",
-      "id": 607228,
-      "impact": "Ward was limited in practice on Friday. He will be good to go on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/607228/charvarius-ward-off-injury-report-sunday.php",
-      "player_id": 17763,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Charvarius Ward off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:27:48",
-      "created_formated": "Fri, Sep 11th 8:27pm UTC",
-      "desc": "Alec Pierce is off the injury report for Sunday's game against the Ravens. ",
-      "id": 607227,
-      "impact": "Pierce is not expected to face a snap count. He is fresh off his contract extension this offseason. ",
-      "link": "https://www.fantasypros.com/nfl/news/607227/alec-pierce-heel-off-injury-report-sunday.php",
-      "player_id": 23791,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Alec Pierce (heel) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:26:03",
-      "created_formated": "Fri, Sep 11th 8:26pm UTC",
-      "desc": "DeForest Buckner is off the injury report for Sunday's game against the Ravens. ",
-      "id": 607226,
-      "impact": "Buckner was eased in practice this week, including missing practice on Friday. He'll be good to go for Sunday's season opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/607226/deforest-buckner-off-injury-report-sunday.php",
-      "player_id": 15494,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "DeForest Buckner off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:24:49",
-      "created_formated": "Fri, Sep 11th 8:24pm UTC",
-      "desc": "Austin Ajiake is listed as questionable for Sunday's game against the Ravens. ",
-      "id": 607225,
-      "impact": "Ajiake was a late addition to the injury report on Friday. His status is up in the air on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/607225/austin-ajiake-hamstring-listed-questionable-sunday.php",
-      "player_id": 25480,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Austin Ajiake (hamstring) listed questionable Sunday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:24:36",
-      "created_formated": "Fri, Sep 11th 8:24pm UTC",
-      "desc": "Jeremiyah Love (ankle) is officially questionable for Sunday's game against the Los Angeles Chargers.",
-      "id": 607224,
-      "impact": "The rookie is officially being listed as questionable to play in Sunday's season opener. There have been a lot of optimistic reports surrounding his availability, so it looks more likely than not that he will suit up against the Chargers, although that decision won't be made until closer to game time. If he is ruled out, Tyler Allgeier will be primed for a massive workload in Week 1 in Love's absence.",
-      "link": "https://www.fantasypros.com/nfl/news/607224/jeremiyah-love-ankle-officially-questionable-sunday.php",
-      "player_id": 25403,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Jeremiyah Love (ankle) officially questionable for Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:23:16",
-      "created_formated": "Fri, Sep 11th 8:23pm UTC",
-      "desc": "Ashton Jeanty is off the injury report for Sunday's game against the Dolphins. ",
-      "id": 607223,
-      "impact": "Jeanty practiced in full all week. He should be good to go in his lead role to open the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/607223/ashton-jeanty-ankle-off-injury-report-sunday.php",
-      "player_id": 25989,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Ashton Jeanty (ankle) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:22:13",
-      "created_formated": "Fri, Sep 11th 8:22pm UTC",
-      "desc": "Seydou Traore is off the injury report for Sunday's game against the Raiders. ",
-      "id": 607222,
-      "impact": "Traore was a full participant in practice on Friday. He'll be good to go in his depth role to open the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/607222/seydou-traore-thumbachilles-off-injury-report-sunday.php",
-      "player_id": 28163,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Seydou Traore (thumb/Achilles) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:21:28",
-      "created_formated": "Fri, Sep 11th 8:21pm UTC",
-      "desc": "Dante Trader Jr. is off the injury report for Sunday's game against the Raiders. ",
-      "id": 607221,
-      "impact": "Trader was a full participant in practice on Friday. He'll be good to go in his depth role to open the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/607221/dante-trader-jr-hamstring-off-injury-report-sunday.php",
-      "player_id": 27090,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Dante Trader Jr. (hamstring) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:20:03",
-      "created_formated": "Fri, Sep 11th 8:20pm UTC",
-      "desc": "Will Kacmarek is off the injury report for Sunday's game against Raiders. ",
-      "id": 607220,
-      "impact": "Kacmarek is good to go as had been reported. ",
-      "link": "https://www.fantasypros.com/nfl/news/607220/will-kacmarek-calf-off-injury-report-sunday.php",
-      "player_id": 28403,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Will Kacmarek (calf) off injury report Sunday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:18:45",
-      "created_formated": "Fri, Sep 11th 8:18pm UTC",
-      "desc": "Jakobi Meyers (thumb) is good to go for Sunday's game against the Cleveland Browns.",
-      "id": 607219,
-      "impact": "As expected, Meyers carries no injury designation ahead of Sunday's season opener and will be available to play against the Browns. His presence is further competition for Parker Washington and Brian Thomas Jr. in a crowded Jacksonville WR room.",
-      "link": "https://www.fantasypros.com/nfl/news/607219/jakobi-meyers-thumb-good-to-go-sunday.php",
-      "player_id": 18598,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Jakobi Meyers (thumb) good to go for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:17:15",
-      "created_formated": "Fri, Sep 11th 8:17pm UTC",
-      "desc": "LeQuint Allen Jr. (hip) is officially questionable for Sunday's game against the Cleveland Browns.",
-      "id": 607218,
-      "impact": "Allen is uncertain to play on Sunday. He's still dealing with a hip injury of some kind, but he was able to take part in multiple practices this week, so he will have a real shot at suiting up against the Browns. Look for Chris Rodriguez Jr. to see more work if Allen is ruled out for the season opener.",
-      "link": "https://www.fantasypros.com/nfl/news/607218/lequint-allen-jr-hip-officially-questionable-sunday.php",
-      "player_id": 27285,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "LeQuint Allen Jr. (hip) officially questionable for Sunday"
     }
   ],
   "public_api_limited": true,

@@ -288,10 +288,10 @@
     "sleeper_id": "11058"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "24049",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "GB",
     "player_name": "Bo Melton",
     "position": "WR",
     "sleeper_id": "8204"
@@ -2770,15 +2770,6 @@
     "player_name": "Kendrick Bourne",
     "position": "WR",
     "sleeper_id": "4454"
-  },
-  {
-    "confidence": "verified",
-    "fantasypros_id": "26044",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DET",
-    "player_name": "Kendrick Law",
-    "position": "WR",
-    "sleeper_id": "13412"
   },
   {
     "confidence": "verified",

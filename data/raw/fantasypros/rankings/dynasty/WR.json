@@ -4291,7 +4291,7 @@
     {
       "cbs_player_id": "2870475",
       "player_age": "27",
-      "player_bye_week": null,
+      "player_bye_week": "11",
       "player_ecr_delta": null,
       "player_eligibility": "DB,WR",
       "player_filename": "bo-melton.php",
@@ -4304,7 +4304,7 @@
       "player_position_id": "WR",
       "player_positions": "WR",
       "player_short_name": "Bo Melton",
-      "player_team_id": "FA",
+      "player_team_id": "GB",
       "player_yahoo_id": "34185",
       "player_yahoo_positions": "WR",
       "pos_rank": "WR154",
