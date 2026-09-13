@@ -25,8 +25,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - championship_lineup_c_avi_avg: 61.91
 - offensive_roster_c_avi_sum: 884.7
 - offensive_roster_c_avi_avg: 55.29
-- offensive_roster_d_avi_sum: 1116.1
-- offensive_roster_d_avi_avg: 69.76
+- offensive_roster_d_avi_sum: 1115.8
+- offensive_roster_d_avi_avg: 69.74
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,8 +35,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: RJ Harvey | C-AVI: 60.0 | D-AVI: 76.5
 - WR: Mike Evans | C-AVI: 70.7 | D-AVI: 73.1
 - WR: Jordan Addison | C-AVI: 64.2 | D-AVI: 81.5
-- TE: Kenyon Sadiq | C-AVI: 60.1 | D-AVI: 79.6
-- FLEX: T.J. Hockenson | C-AVI: 58.1 | D-AVI: 69.9
+- TE: Kenyon Sadiq | C-AVI: 60.1 | D-AVI: 79.5
+- FLEX: T.J. Hockenson | C-AVI: 58.1 | D-AVI: 69.7
 - FLEX: Xavier Worthy | C-AVI: 57.9 | D-AVI: 75.1
 
 ## Current Roster — All Player Cards
@@ -292,7 +292,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 21.0
 - Championship AVI (C-AVI, 0-100): 60.1
-- Dynasty AVI (D-AVI, 0-100): 79.6
+- Dynasty AVI (D-AVI, 0-100): 79.5
 - Projected PPR points: 129.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -309,7 +309,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 29.0
 - Championship AVI (C-AVI, 0-100): 58.1
-- Dynasty AVI (D-AVI, 0-100): 69.9
+- Dynasty AVI (D-AVI, 0-100): 69.7
 - Projected PPR points: 139.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

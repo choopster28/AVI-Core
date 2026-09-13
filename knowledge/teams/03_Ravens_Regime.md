@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 614.1
-- championship_lineup_c_avi_avg: 76.76
-- offensive_roster_c_avi_sum: 997.0
-- offensive_roster_c_avi_avg: 55.39
-- offensive_roster_d_avi_sum: 1270.6
-- offensive_roster_d_avi_avg: 70.59
+- championship_lineup_c_avi_sum: 613.4
+- championship_lineup_c_avi_avg: 76.67
+- offensive_roster_c_avi_sum: 997.6
+- offensive_roster_c_avi_avg: 55.42
+- offensive_roster_d_avi_sum: 1272.4
+- offensive_roster_d_avi_avg: 70.69
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Zay Flowers | C-AVI: 91.6 | D-AVI: 92.8
 - WR: Carnell Tate | C-AVI: 67.0 | D-AVI: 87.2
 - TE: Kyle Pitts | C-AVI: 83.4 | D-AVI: 85.9
-- FLEX: Isaiah Likely | C-AVI: 69.0 | D-AVI: 78.6
+- FLEX: Isaiah Likely | C-AVI: 68.3 | D-AVI: 76.2
 - FLEX: KC Concepcion | C-AVI: 55.3 | D-AVI: 79.2
 
 ## Current Roster — All Player Cards
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 69.0
-- Dynasty AVI (D-AVI, 0-100): 78.6
+- Championship AVI (C-AVI, 0-100): 68.3
+- Dynasty AVI (D-AVI, 0-100): 76.2
 - Projected PPR points: 161.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -341,9 +341,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: CAR
 - Active: True
 - Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 44.0
-- Dynasty AVI (D-AVI, 0-100): 39.9
+- Age: 34.0
+- Championship AVI (C-AVI, 0-100): 45.3
+- Dynasty AVI (D-AVI, 0-100): 44.1
 - Projected PPR points: 115.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

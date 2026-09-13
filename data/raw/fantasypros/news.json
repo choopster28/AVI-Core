@@ -1,7 +1,333 @@
 {
-  "count": 24,
+  "count": 23,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 16:05:15",
+      "created_formated": "Sun, Sep 13th 4:05pm UTC",
+      "desc": "Ennis Rakestraw Jr. (leg) is inactive for Week 1 for the Detroit Lions against the New Orleans Saints.",
+      "id": 607599,
+      "impact": "Rakestraw Jr. will not suit while continuing to work through a lingering leg injury, leaving the Detroit secondary without another key option for head coach Dan Campbell against the Saints Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/607599/ennis-rakestraw-jr-leg-inactive-week-1.php",
+      "player_id": 26220,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Ennis Rakestraw Jr. (leg) inactive for Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 16:02:52",
+      "created_formated": "Sun, Sep 13th 4:02pm UTC",
+      "desc": "Derrick Moore (hamstring) is active for Week 1 for the Detroit Lions against the New Orleans Saints.",
+      "id": 607598,
+      "impact": "Moore is good to go after clearing through pregame activities without any issues, offering a boost to a Detroit front seven that will look to disrupt the New Orleans offense on a consistent basis Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/607598/derrick-moore-hamstring-active-week-1.php",
+      "player_id": 27977,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Derrick Moore (hamstring) active for Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 15:58:18",
+      "created_formated": "Sun, Sep 13th 3:58pm UTC",
+      "desc": "Jalen McMillan (knee) is inactive for Week 1 for the Tampa Bay Buccaneers against the Cincinnati Bengals.",
+      "id": 607597,
+      "impact": "McMillan will not suit up after being unable to clear through pregame activities due to the lingering knee injury, with Emeka Egbuka, Chris Godwin Jr, and Ted Hurst III to lead the Tampa Bay pass-catching group against the Bengals for head coach Todd Bowles.",
+      "link": "https://www.fantasypros.com/nfl/news/607597/jalen-mcmillan-knee-inactive-week-1.php",
+      "player_id": 23179,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Jalen McMillan (knee) inactive for Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 15:55:28",
+      "created_formated": "Sun, Sep 13th 3:55pm UTC",
+      "desc": "Sean Tucker (hamstring) is inactive for Week 1 for the Tampa Bay Buccaneers against the Cincinnati Bengals.",
+      "id": 607596,
+      "impact": "Tucker will be sidelined for the season opener after being unable to clear through pregame activities for head coach Todd Bowles. Bucky Irving and Kenneth Gainwell will lead the Tampa Bay backfield attack against a revamped Bengals defense Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/607596/sean-tucker-hamstring-inactive-week-1.php",
+      "player_id": 23679,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Sean Tucker (hamstring) inactive for Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 15:51:01",
+      "created_formated": "Sun, Sep 13th 3:51pm UTC",
+      "desc": "Devontez Walker (groin) is inactive for Week 1 for the Baltimore Ravens against the Indianapolis Colts according to Jamison Hensley.",
+      "id": 607595,
+      "impact": "Walker will not suit up after testing his injured groin during pregame activities for head coach Jesse Minter, with superstar Zay Flowers and rookie Ja'Kobi Lane to lead the Baltimore wideout group against the Colts in Week 1.",
+      "link": "https://www.fantasypros.com/nfl/news/607595/devontez-walker-groin-inactive-week-1.php",
+      "player_id": 26011,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Devontez Walker (groin) inactive for Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 15:46:23",
+      "created_formated": "Sun, Sep 13th 3:46pm UTC",
+      "desc": "Cooper Rush (back) is active for Week 1 for the Atlanta Falcons against the Pittsburgh Steelers.",
+      "id": 607594,
+      "impact": "Rush is good to go and will start behind center for new head coach Kevin Stefanski after experiencing back spasms Saturday. The veteran signal-caller will look to survive against an aggressive Pittsburgh defensive front, with running back Bijan Robinson, wideout Drake London, and tight end Kyle Pitts Sr. to be relied on heavily Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/607594/cooper-rush-back-active-week-1.php",
+      "player_id": 16477,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Cooper Rush (back) active for Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-09-13 15:41:38",
+      "created_formated": "Sun, Sep 13th 3:41pm UTC",
+      "desc": "Alvin Kamara (knee) is inactive for Week 1 for the New Orleans Saints against the Detroit Lions according to Nick Underhill.",
+      "id": 607593,
+      "impact": "Kamara will sit out the season opener while continuing to work through a knee injury for head coach Kellen Moore, with Travis Etienne Jr. to lead the New Orleans backfield attack and Kendre Miller to also receive touches against the Lions.",
+      "link": "https://www.fantasypros.com/nfl/news/607593/alvin-kamara-knee-inactive-week-1.php",
+      "player_id": 16421,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Alvin Kamara (knee) inactive for Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-09-13 15:37:00",
+      "created_formated": "Sun, Sep 13th 3:37pm UTC",
+      "desc": "Rome Odunze (calf) is officially active for Week 1 for the Chicago Bears against the Carolina Panthers.",
+      "id": 607592,
+      "impact": "Odunze is good to go after passing through pregame testing without any setbacks from the calf injury, offering head coach Ben Johnson another dynamic pass-catching option for quarterback Caleb Williams against the Panthers Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/607592/rome-odunze-calf-active-week-1.php",
+      "player_id": 25411,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Rome Odunze (calf) active for Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-09-13 15:20:35",
+      "created_formated": "Sun, Sep 13th 3:20pm UTC",
+      "desc": "Myles Garrett (knee) will undergo arthroscopic surgery and will be placed on injured reserve by the Los Angeles Rams according to Tom Pelissero.",
+      "id": 607588,
+      "impact": "Garrett was stifled in Thursday night's season opener while still being limited with the knee injury for head coach Sean McVay and will now miss at least the next four games.",
+      "link": "https://www.fantasypros.com/nfl/news/607588/myles-garrett-knee-to-undergo-surgery-placed-on-injured-reserve.php",
+      "player_id": 16370,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Myles Garrett (knee) to undergo surgery, placed on injured reserve"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 15:05:18",
+      "created_formated": "Sun, Sep 13th 3:05pm UTC",
+      "desc": "Alec Pierce (heel) will operate on a snap count in Week 1 for the Indianapolis Colts against the Baltimore Ravens according to Mike Garafolo.",
+      "id": 607583,
+      "impact": "Pierce is in line for 20-60 plays according to Garafolo as the wideout continues to work back towards full health after a late start to his preseason activities for the Colts. Tight end Tyler Warren alongside wideouts Keenan Allen and Josh Downs will likely see increased targets from quarterback Daniel Jones against the Ravens Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/607583/alec-pierce-heel-on-snap-count-week-1.php",
+      "player_id": 23791,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Alec Pierce (heel) on snap count for Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 14:55:01",
+      "created_formated": "Sun, Sep 13th 2:55pm UTC",
+      "desc": "Malik Nabers (knee) will be a game-time decision for the Week 1 contest between the New York Giants against the Dallas Cowboys Sunday night according to Adam Schefter.",
+      "id": 607579,
+      "impact": "Nabers continues to work back from a severe knee injury suffered during the 2025-26 season and could potentially leave head coach John Harbaugh without his top pass-catching option in a key Week 1 divisional matchup. Fantasy managers will need to have another option ready to plug into lineups whether it be in one of the earlier kickoff windows Sunday or an available option in the Monday night contest between the Kansas City Chiefs and Denver Broncos.",
+      "link": "https://www.fantasypros.com/nfl/news/607579/malik-nabers-knee-game-time-decision-week-1.php",
+      "player_id": 25409,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Malik Nabers (knee) game-time decision for Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 14:13:47",
+      "created_formated": "Sun, Sep 13th 2:13pm UTC",
+      "desc": "Joey Porter Jr. (back) is unlikely to play in Week 1 for the Pittsburgh Steelers against the Atlanta Falcons according to Adam Schefter.",
+      "id": 607575,
+      "impact": "Porter Jr. continues to work back from injury while also remaining in the middle of an ongoing contract dispute with the organization, with the possibility of a trade growing larger by the day according to Schefter. The cornerback will offer whomever he suits up for a solid option in the defensive backfield at some point.",
+      "link": "https://www.fantasypros.com/nfl/news/607575/joey-porter-jr-back-unlikely-to-play-week-1.php",
+      "player_id": 24705,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Joey Porter Jr. (back) unlikely to play in Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-13 14:09:21",
+      "created_formated": "Sun, Sep 13th 2:09pm UTC",
+      "desc": "Lamar Jackson will play without a contract extension to begin the season for the Baltimore Ravens according to Mike Garafolo.",
+      "id": 607573,
+      "impact": "Jackson is focused on football entering the 2026-27 season under a new Baltimore Ravens coaching staff, as the superstar quarterback is poised for another elite season behind center barring injury while also offering fantasy managers explosive production as a high-level QB1 in all formats with an intriguing Week 1 contest against the Indianapolis Colts ahead.",
+      "link": "https://www.fantasypros.com/nfl/news/607573/lamar-jackson-to-play-without-contract-extension-to-begin-season.php",
+      "player_id": 17233,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Lamar Jackson to play without contract extension to begin season"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 14:04:51",
+      "created_formated": "Sun, Sep 13th 2:04pm UTC",
+      "desc": "Michael Penix Jr. (knee) could be available to start at quarterback for the Atlanta Falcons in Week 2 or Week 3 according to Ian Rapoport.",
+      "id": 607572,
+      "impact": "Penix Jr. was cleared by the Falcons earlier in the week but continues to work back closer to 100% for head coach Kevin Stefanski. The second-year signal caller could seize control of the starting quarterback battle that free agent addition Tua Tagovailoa (back) won by default prior to being injured earlier in the week.",
+      "link": "https://www.fantasypros.com/nfl/news/607572/michael-penix-jr-knee-could-start-week-or-two-falcons.php",
+      "player_id": 22973,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Michael Penix Jr. (knee) could start in week or two for Falcons"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 13:57:02",
+      "created_formated": "Sun, Sep 13th 1:57pm UTC",
+      "desc": "A.J. Brown (ankle) is expected to miss at least six weeks for the New England Patriots according to Ian Rapoport.",
+      "id": 607571,
+      "impact": "Brown was placed on injured reserve after suffering the ankle injury in New England's Week 1 loss to the Seattle Seahawks Wednesday night, leaving head coach Mike Vrable without his top pass-catching option for the foreseeable future. In the wideout's absence Mack Hollins, Romeo Doubs, and DeMario Douglas will need to step up for quarterback Drake Maye early in the season.",
+      "link": "https://www.fantasypros.com/nfl/news/607571/aj-brown-ankle-out-least-six-weeks.php",
+      "player_id": 18218,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "A.J. Brown (ankle) out at least six weeks"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 13:53:51",
+      "created_formated": "Sun, Sep 13th 1:53pm UTC",
+      "desc": "De'Zhaun Stribling (ankle) will miss at least one month for the San Francisco 49ers according to Ian Rapoport.",
+      "id": 607570,
+      "impact": "Stribling leaves an already shorthanded 49ers receiving group even more undermanned early in the season after an impressive preseason for the rookie, with veteran Mike Evans now tasked with remaining healthy as the No. 1 wideout for quarterback Brock Purdy early in the season.",
+      "link": "https://www.fantasypros.com/nfl/news/607570/dezhaun-stribling-ankle-out-least-one-month.php",
+      "player_id": 28138,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "De'Zhaun Stribling (ankle) out at least one month"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 13:50:33",
+      "created_formated": "Sun, Sep 13th 1:50pm UTC",
+      "desc": "Sam Darnold suffered a glute injury in Wednesday's win over the New England Patriots according to Ian Rapoport.",
+      "id": 607568,
+      "impact": "Darnold was originally believed to have suffered a hip injury in the season-opening contest, but after further evaluation, the quarterback's hip checked out fine. Drew Lock remains in line to start behind center for head coach Mike McDonald while Darnold tends to his injury.",
+      "link": "https://www.fantasypros.com/nfl/news/607568/sam-darnold-suffered-glute-injury-wednesday.php",
+      "player_id": 17236,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Sam Darnold suffered glute injury Wednesday "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-13 11:30:15",
+      "created_formated": "Sun, Sep 13th 11:30am UTC",
+      "desc": "Jeremiyah Love (ankle) is expected to play against the Chargers on Sunday.",
+      "id": 607558,
+      "impact": "Love is currently listed as questionable, but barring a setback, looks like he will be good to go against the Chargers. While his talent is among the best in the league, his role might be limited as he continues to work his way back from injury. Expect closer to RB3 numbers with upside for much more.",
+      "link": "https://www.fantasypros.com/nfl/news/607558/jeremiyah-love-ankle-expected-to-play-on-sunday-against-chargers.php",
+      "player_id": 25403,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Jeremiyah Love (ankle) expected to play on Sunday against Chargers"
+    },
     {
       "author": "Ari Koslow",
       "categories": [
@@ -86,338 +412,6 @@
       "sport_id": "NFL",
       "team_id": "CHI",
       "title": "Kaden Davis elevated by Bears for Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-12 23:56:07",
-      "created_formated": "Sat, Sep 12th 11:56pm UTC",
-      "desc": "Falcons QB Cooper Rush experienced back spasms Saturday but is still expected to start in Week 1 against the Steelers.",
-      "id": 607418,
-      "impact": "Rush is getting the start with both Tua Tagovailoa and Michael Penix Jr. unavailable. Rush remains expected to play. ",
-      "link": "https://www.fantasypros.com/nfl/news/607418/cooper-rush-suffers-back-spasms-still-expected-to-start-sunday.php",
-      "player_id": 16477,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Cooper Rush suffers back spasms, still expected to start Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-12 23:53:53",
-      "created_formated": "Sat, Sep 12th 11:53pm UTC",
-      "desc": "The Texans and QB C.J. Stroud will pause contract discussion until after the 2026 season.",
-      "id": 607417,
-      "impact": "The two sides tried to come to an agreement on a deal before the season. Stroud will play out the final year of his rookie deal, minus the fifth-year option. ",
-      "link": "https://www.fantasypros.com/nfl/news/607417/cj-stroud-texans-pause-extension-talks.php",
-      "player_id": 23071,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "C.J. Stroud, Texans pause extension talks"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-12 20:29:23",
-      "created_formated": "Sat, Sep 12th 8:29pm UTC",
-      "desc": "Malik Davis (hip) has been placed on season-ending IR after undergoing surgery on his hip.",
-      "id": 607387,
-      "impact": "It's a tough blow to the veteran running back, who worked his way up the depth chart past two much younger and potentially more intriguing prospects. He will now focus on returning in 2027, but his road will be much harder, as he will be nearly 29 when next season rolls around.",
-      "link": "https://www.fantasypros.com/nfl/news/607387/malik-davis-hip-placed-on-season-ending-injured-reserve.php",
-      "player_id": 24205,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Malik Davis (hip) placed on season-ending injured reserve"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-12 20:23:14",
-      "created_formated": "Sat, Sep 12th 8:23pm UTC",
-      "desc": "Eli Stowers (quad) has been placed on IR due to a quad injury.",
-      "id": 607386,
-      "impact": "Stowers was already struggling throughout training camp, and this quad injury won't help matters. It's likely 2026 is going to be a redshirt year for him, focusing primarily on development for 2027.",
-      "link": "https://www.fantasypros.com/nfl/news/607386/eli-stowers-quad-placed-on-ir.php",
-      "player_id": 23144,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Eli Stowers (quad) placed on IR"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-12 20:20:46",
-      "created_formated": "Sat, Sep 12th 8:20pm UTC",
-      "desc": "Greg Dortch has been elevated to the Bills' active roster ahead of their game against the Texans.",
-      "id": 607385,
-      "impact": "Dortch will be a depth option, but he will likely see little work, as he is buried on the depth chart. He's been productive when given the opportunity in the past, but it will be hard to find that in Buffalo.",
-      "link": "https://www.fantasypros.com/nfl/news/607385/greg-dortch-elevated-from-practice-squad.php",
-      "player_id": 18585,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Greg Dortch elevated from practice squad"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-12 20:18:20",
-      "created_formated": "Sat, Sep 12th 8:18pm UTC",
-      "desc": "Frank Gore Jr. has been elevated from the Bills' practice squad ahead of their game against the Texans.",
-      "id": 607384,
-      "impact": "Gore will provide depth and likely see some snaps on special teams, but is unlikely to see any real action on offense given the running backs ahead of him on the depth chart.",
-      "link": "https://www.fantasypros.com/nfl/news/607384/frank-gore-jr-elevated-from-practice-squad.php",
-      "player_id": 25980,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Frank Gore Jr. elevated from practice squad"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-12 18:32:43",
-      "created_formated": "Sat, Sep 12th 6:32pm UTC",
-      "desc": "Israel Abanikanda has been signed to the active roster by the Dallas Cowboys the organization announced.",
-      "id": 607383,
-      "impact": "Abanikanda will be in the backfield mix for head coach Kurt Schottenheimer after Malik Davis was placed on injured reserve Saturday, with Javonte Williams remaining a dynamic RB1 option that will see as much volume as he can handle against the New York Giants Sunday night.",
-      "link": "https://www.fantasypros.com/nfl/news/607383/israel-abanikanda-signed-to-active-roster.php",
-      "player_id": 24352,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Israel Abanikanda signed to active roster"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-12 15:15:34",
-      "created_formated": "Sat, Sep 12th 3:15pm UTC",
-      "desc": "Michael Mayer has agreed to a three-year, $45 million deal with the Las Vegas Raiders.",
-      "id": 607334,
-      "impact": "Mayer is an all around contributor, making it well worth the investment for the Raiders. For fantasy, it means that he is behind Brock Bowers for the long term, but maybe the Raiders will employ more tight end sets so both can eat, as they are likely the two most talented pass catchers on the team at this point in time. Time will tell what his fantasy value will become.",
-      "link": "https://www.fantasypros.com/nfl/news/607334/michael-mayer-agrees-to-three-year-45-million-deal-with-raiders.php",
-      "player_id": 23056,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Michael Mayer agrees to a three-year, $45 million deal with Raiders"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Breaking"
-      ],
-      "created": "2026-09-12 15:07:29",
-      "created_formated": "Sat, Sep 12th 3:07pm UTC",
-      "desc": "Tucker Kraft has agreed to a four-year, $75 million deal with the Green Bay Packers. The deal is worth up to $92 million.",
-      "id": 607333,
-      "impact": "Kraft was on his way to a massive season in 2025 before going down with a torn ACL. He gets his payday as the Packers lock in their emergeing star for the long haul.",
-      "link": "https://www.fantasypros.com/nfl/news/607333/tucker-kraft-signs-four-year-75-million-deal-with-packers.php",
-      "player_id": 25298,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Tucker Kraft signs four year, $75 million deal with Packers"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-12 07:08:48",
-      "created_formated": "Sat, Sep 12th 7:08am UTC",
-      "desc": "Josh Sweat is off the injury report and will play in Week 1 against the Chargers.",
-      "id": 607276,
-      "impact": "Sweat practiced fully on Friday. He appears to be fully healthy heading into the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/607276/josh-sweat-knee-off-injury-report-week-1.php",
-      "player_id": 17363,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Josh Sweat (knee) off injury report Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-12 07:07:24",
-      "created_formated": "Sat, Sep 12th 7:07am UTC",
-      "desc": "The Titans claimed OG Atonio Mafi off waivers.",
-      "id": 607275,
-      "impact": "Mafi was previously waived by the Raiders. He will add depth on the offensive line for Tennessee. ",
-      "link": "https://www.fantasypros.com/nfl/news/607275/atonio-mafi-claimed-off-waivers-by-titans.php",
-      "player_id": 25526,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Atonio Mafi claimed off waivers by Titans"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-12 07:06:20",
-      "created_formated": "Sat, Sep 12th 7:06am UTC",
-      "desc": "The Lions released DL Levi Onwuzurike.",
-      "id": 607274,
-      "impact": "Onwuzurike tore his ACL last offseason. He'll seek another opportunity early in the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/607274/levi-onwuzurike-released-by-lions.php",
-      "player_id": 22693,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Levi Onwuzurike released by Lions "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-12 07:05:11",
-      "created_formated": "Sat, Sep 12th 7:05am UTC",
-      "desc": "Saints RB Alvin Kamara will not have a \"huge role\" if he plays in Week 1 against the Lions.",
-      "id": 607273,
-      "impact": "Kamara was listed as questionable after he practiced fully on Friday. He'll be eased into the season if he is available. ",
-      "link": "https://www.fantasypros.com/nfl/news/607273/alvin-kamara-knee-not-expected-to-have-big-role-if-available-week-1.php",
-      "player_id": 16421,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Alvin Kamara (knee) not expected to have big role if available in Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-12 07:03:56",
-      "created_formated": "Sat, Sep 12th 7:03am UTC",
-      "desc": "The Vikings restructured CB Isaiah Rodgers' contract.",
-      "id": 607272,
-      "impact": "The move opens up cap space for Minnesota. ",
-      "link": "https://www.fantasypros.com/nfl/news/607272/isaiah-rodgers-sr-has-contract-restructured-by-vikings.php",
-      "player_id": 19821,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Isaiah Rodgers Sr. has contract restructured by Vikings"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-12 07:03:03",
-      "created_formated": "Sat, Sep 12th 7:03am UTC",
-      "desc": "The Giants' plan to elevate WR Braxton Berrios from the practice squad on Sunday. ",
-      "id": 607271,
-      "impact": "It is believed to be unrelated to the status of Malik Nabers. ",
-      "link": "https://www.fantasypros.com/nfl/news/607271/braxton-berrios-to-be-elevated-sunday.php",
-      "player_id": 17289,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Braxton Berrios to be elevated Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:34:05",
-      "created_formated": "Fri, Sep 11th 8:34pm UTC",
-      "desc": "Sedrick Van Pran-Granger is off the injury report for Sunday's game against the Ravens. ",
-      "id": 607233,
-      "impact": "Pran-Granger was a full participant in practice. He'll be good to go for Sunday's season opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/607233/sedrick-van-pran-granger-illness-off-injury-report-sunday.php",
-      "player_id": 24739,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Sedrick Van Pran-Granger (illness) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:33:19",
-      "created_formated": "Fri, Sep 11th 8:33pm UTC",
-      "desc": "Grover Stewart is off the injury report for Sunday's game against the Ravens. ",
-      "id": 607232,
-      "impact": "Stewart was a full participant in practice. He'll be good to go for Sunday's season opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/607232/grover-stewart-off-injury-report-sunday.php",
-      "player_id": 16580,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Grover Stewart off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:32:29",
-      "created_formated": "Fri, Sep 11th 8:32pm UTC",
-      "desc": "Anthony Richardson Sr. is off the injury report for Sunday's game against the Ravens. ",
-      "id": 607231,
-      "impact": "Richardson will backup Daniel Jones to open the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/607231/anthony-richardson-sr-illness-off-injury-report-sunday.php",
-      "player_id": 24347,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Anthony Richardson Sr. (illness) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-11 20:31:39",
-      "created_formated": "Fri, Sep 11th 8:31pm UTC",
-      "desc": "Drew Ogletree is off the injury report for Sunday's game against the Ravens. ",
-      "id": 607230,
-      "impact": "Ogletree was a full participant in practice. He'll be good to go for Sunday's season opener. ",
-      "link": "https://www.fantasypros.com/nfl/news/607230/drew-ogletree-neck-off-injury-report-sunday.php",
-      "player_id": 24561,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Drew Ogletree (neck) off injury report Sunday "
     }
   ],
   "public_api_limited": true,
