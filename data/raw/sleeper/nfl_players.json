@@ -55379,7 +55379,7 @@
       "genius_id": "1463731",
       "rookie_year": "2024"
     },
-    "news_updated": 1789171514766,
+    "news_updated": 1789319754086,
     "number": 32,
     "oddsjam_id": "BB0614A43AA9",
     "opta_id": null,
@@ -114676,10 +114676,10 @@
     "hashtag": "#dylansampson-NFL-CLE-22",
     "height": "68",
     "high_school": "Dutchtown (LA)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "e5a674f6-63f7-4dab-9e1c-0d82f22ae4dd",
     "last_name": "Sampson",
     "metadata": {
@@ -114688,7 +114688,7 @@
       "rookie_year": "2025",
       "source_id": "85e2aed0-863f-11ec-8b4f-bfdcdbacd7ed"
     },
-    "news_updated": 1788830143882,
+    "news_updated": 1789320954925,
     "number": 22,
     "oddsjam_id": "636C1E9B510528E0",
     "opta_id": null,
@@ -119853,7 +119853,7 @@
       "rookie_year": "2025",
       "source_id": "0bcf17c0-89da-11ec-846d-43cbfaabacfd"
     },
-    "news_updated": 1789315853671,
+    "news_updated": 1789320055939,
     "number": 5,
     "oddsjam_id": "C7750F2F673141B4",
     "opta_id": null,
@@ -294324,7 +294324,7 @@
       "genius_id": "835484",
       "rookie_year": "2015"
     },
-    "news_updated": 1789317653670,
+    "news_updated": 1789318854490,
     "number": 88,
     "oddsjam_id": "0A3F18022F3C",
     "opta_id": null,
@@ -389204,7 +389204,7 @@
     "sport": "nfl",
     "sportradar_id": "a85a0ba9-674c-4f37-a944-474fc6cdf557",
     "stats_id": null,
-    "status": "Active",
+    "status": "Inactive",
     "swish_id": 835829,
     "team": "LAR",
     "team_abbr": null,
@@ -512655,7 +512655,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1789310753064,
+    "news_updated": 1789318253868,
     "number": 1,
     "oddsjam_id": "828EC99117A1",
     "opta_id": null,
@@ -572699,7 +572699,7 @@
       "genius_id": "1012460",
       "rookie_year": "2020"
     },
-    "news_updated": 1789219519102,
+    "news_updated": 1789318553896,
     "number": 10,
     "oddsjam_id": "8959F596AE5D",
     "opta_id": null,
@@ -663280,7 +663280,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2022"
     },
-    "news_updated": 1789177815338,
+    "news_updated": 1789320654455,
     "number": 9,
     "oddsjam_id": "AE6FD0191907",
     "opta_id": null,
