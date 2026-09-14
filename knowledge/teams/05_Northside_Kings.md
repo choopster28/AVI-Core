@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-09-13
+- Last updated from Sleeper exports: 2026-09-14
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -365,17 +365,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Chamarri Conner
-- Player name: Chamarri Conner
-- Player ID: 10949
+### PLAYER: Jalen Thompson
+- Player name: Jalen Thompson
+- Player ID: 6711
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
 - Position: DB
 - Fantasy positions: ['DB']
-- NFL team: KC
+- NFL team: DAL
 - Active: True
 - Status: Active
-- Age: 26.0
+- Age: 28.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
