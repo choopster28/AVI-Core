@@ -3,22 +3,220 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-14 17:48:14",
+      "created_formated": "Mon, Sep 14th 5:48pm UTC",
+      "desc": "Brian Thomas Jr. (shoulder) will be limited in practice this week, per HC Liam Coen. However, Coen noted that the reciever should be good to go against Denver.",
+      "id": 607921,
+      "impact": "It's great news for fantasy managers who were hoping to see more from BTJ before he exited early in what ended up being a blowout win. Thomas is looking to bounce back after a down sophomore season, but facing Denver while coming off of injury is a much harder task than facing Cleveland's secondary.",
+      "link": "https://www.fantasypros.com/nfl/news/607921/brian-thomas-jr-shoulder-will-be-limited-this-week-hopeful-denver.php",
+      "player_id": 23000,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Brian Thomas Jr. (shoulder) will be limited this week, hopeful for Denver"
+    },
+    {
+      "author": "Matthew Adam",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-14 11:01:26",
+      "created_formated": "Mon, Sep 14th 11:01am UTC",
+      "desc": "The Steelers D/ST allowed 13 points while scoring a touchdown, forcing two turnovers, and notching four sacks in a 20-13 win over the Falcons in Week 1. ",
+      "id": 607789,
+      "impact": "Pittsburgh took advantage of the Falcons being forced to start their third-string QB in Cooper Rush. T.J. Watt dominated the whole afternoon as he sealed the game with a 35-yard pick-six in the fourth quarter while also logging two sacks. The Steelers will have a tougher test in Week 2 against the Patriots. ",
+      "link": "https://www.fantasypros.com/nfl/news/607789/steelers-dst-scores-td-week-1-win.php",
+      "player_id": 8240,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Steelers D/ST scores TD in Week 1 win"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-14 16:49:09",
+      "created_formated": "Mon, Sep 14th 4:49pm UTC",
+      "desc": "Malik Hooker (arm) suffered a fracture in his forearm on Sunday and will consult specialists as to exactly how long he will be out.",
+      "id": 607920,
+      "impact": "Hooker left the Cowboys game against the Giants in the fourth quarter and did not return. With Hooker out, P.J. Locke is likely next in line for snaps.",
+      "link": "https://www.fantasypros.com/nfl/news/607920/malik-hooker-arm-suffers-fractured-forearm-out-several-weeks.php",
+      "player_id": 16373,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Malik Hooker (arm) suffers fractured forearm, out several weeks "
+    },
+    {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-09-14 00:07:07",
-      "created_formated": "Mon, Sep 14th 12:07am UTC",
-      "desc": "Caleb Williams completed 21-of-29 pass attempts for 269 yards and two touchdowns while also rushing 10 times for 65 yards and two touchdowns in a 59-37 Week 1 win over the Carolina Panthers.",
-      "id": 607690,
-      "impact": "Williams was electric behind center to begin the season for head coach Ben Johnson, recording multiple touchdowns through the air and on the ground in the win. The dual-threat quarterback will look to offer fantasy manager a dynamic option in a favorable Week 2 contest against the Minnesota Vikings.",
-      "link": "https://www.fantasypros.com/nfl/news/607690/caleb-williams-posts-four-touchdowns-week-1-win-over-panthers.php",
-      "player_id": 23084,
+      "created": "2026-09-14 16:33:02",
+      "created_formated": "Mon, Sep 14th 4:33pm UTC",
+      "desc": "The Colts D/ST forced one turnover (one fumble recovery) while also registering two sacks in a 41-23 loss to the Baltimore Ravens in Week 1.",
+      "id": 607917,
+      "impact": "The unit had no answers for a dynamic Ravens offense in the season opener, allowing 506 offensive yards highlighted by four rushing touchdowns in the win. The defense will be difficult to trust in Week 2 against a Kansas City Chiefs offense led by quarterback Patrick Mahomes and free-agent acquisition Kenneth Walker III.",
+      "link": "https://www.fantasypros.com/nfl/news/607917/colts-dst-shredded-week-1-loss.php",
+      "player_id": 8130,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Colts D/ST shredded in Week 1 loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-14 16:29:04",
+      "created_formated": "Mon, Sep 14th 4:29pm UTC",
+      "desc": "Spencer Shrader converted his only field goal attempt as well as two of his three extra point attempts to finish with five points in the Colts' 41-23 loss to the Baltimore Ravens in Week 1.",
+      "id": 607915,
+      "impact": "Shrader fell victim behind an underwhelming performance from the Indianapolis offense in the season opener. The kicker will hope for more opportunities in a difficult Week 2 contest against the Kansas City Chiefs.",
+      "link": "https://www.fantasypros.com/nfl/news/607915/spencer-shrader-misses-extra-point-week-1.php",
+      "player_id": 26763,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Spencer Shrader misses extra point in Week 1"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-14 16:26:23",
+      "created_formated": "Mon, Sep 14th 4:26pm UTC",
+      "desc": "Ben Brown (knee) will return to Patriots practice on Monday.",
+      "id": 607912,
+      "impact": "Brown missed the Patriots' season-opening loss to the Seahawks, but getting back to practice opens up the potential for his return in Week 2.",
+      "link": "https://www.fantasypros.com/nfl/news/607912/ben-brown-knee-will-return-to-practice-on-monday.php",
+      "player_id": 23871,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Ben Brown (knee) will return to practice on Monday"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-14 16:25:46",
+      "created_formated": "Mon, Sep 14th 4:25pm UTC",
+      "desc": "The Saints D/ST forced one turnover (one fumble recovery) while also recording one sack in a 31-30 loss to the Detroit Lions in Week 1.",
+      "id": 607911,
+      "impact": "The unit struggled to contain dynamic running back Jahmyr Gibbs, allowing 5.4 yards per carry to the electric running back. The defense faces another tough rushing attack from the Baltimore Ravens in Week 2.",
+      "link": "https://www.fantasypros.com/nfl/news/607911/saints-dst-quiet-week-1.php",
+      "player_id": 8190,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Saints D/ST quiet in Week 1"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-14 16:24:29",
+      "created_formated": "Mon, Sep 14th 4:24pm UTC",
+      "desc": "TreVeyon Henderson (ankle) is returning to practice on Monday.",
+      "id": 607909,
+      "impact": "Henderson missed the Patriots game against Seattle on Wednesday, but is hopefully going to make his return to the field for Week 2. Should he play, it will be interesting to see how things are divvied up between him and Rhamondre Stevenson. Stevenson wasn't particularly efficient at first glance, but looking deeper, he had to do a lot of work after contact, so his box score might not be as bad as thought.",
+      "link": "https://www.fantasypros.com/nfl/news/607909/treveyon-henderson-returning-to-practice-on-monday.php",
+      "player_id": 23065,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "TreVeyon Henderson returning to practice on Monday"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-14 16:23:19",
+      "created_formated": "Mon, Sep 14th 4:23pm UTC",
+      "desc": "Daniel Carlson converted all three of his extra point attempts as well as one of his two field goal attempts to finish with six points in the Saints' 31-30 loss to the Detroit Lions in Week 1.",
+      "id": 607907,
+      "impact": "Carlson was unable to convert on a 60-yard field goal on an otherwise solid season-opening performance. The kicker remains difficult to trust behind an inconsistent New Orleans offense, with a Week 2 contest against the Baltimore Ravens up next.",
+      "link": "https://www.fantasypros.com/nfl/news/607907/daniel-carlson-misses-field-goal-week-1.php",
+      "player_id": 17420,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Daniel Carlson misses field goal in Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-14 16:20:06",
+      "created_formated": "Mon, Sep 14th 4:20pm UTC",
+      "desc": "The Lions D/ST forced three turnovers (two interceptions, one fumble recovery) while also picking up five sacks in a 31-30 Week 1 win over the New Orleans Saints.",
+      "id": 607904,
+      "impact": "The unit escaped after allowing the Saints to come back from a 21-0 deficit in the second half, with New Orleans quarterback Tyler Shough overthrowing a potential game-winning two-point conversion in overtime. Fantasy managers will need to have another option available with a Week 2 matchup against the Buffalo Bills up next.",
+      "link": "https://www.fantasypros.com/nfl/news/607904/lions-dst-stands-tall-week-1-win.php",
+      "player_id": 8100,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Lions D/ST stands tall in Week 1 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-14 16:17:05",
+      "created_formated": "Mon, Sep 14th 4:17pm UTC",
+      "desc": "Jake Bates converted all four of his extra point attempts as well as his lone field goal attempt to finish with seven points in the Lions' 31-30 win over the New Orleans Saints in Week 1.",
+      "id": 607903,
+      "impact": "Bates made the most of his opportunities behind a Detroit offense that battled consistency issues in the season opener. The kicker should once again be in line for plenty of opportunities in what should be a high-scoring Week 2 matchup against the Buffalo Bills.",
+      "link": "https://www.fantasypros.com/nfl/news/607903/jake-bates-picks-up-seven-points-week-1.php",
+      "player_id": 26075,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Jake Bates picks up seven points in Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-14 16:14:18",
+      "created_formated": "Mon, Sep 14th 4:14pm UTC",
+      "desc": "The Bears D/ST forced two turnovers (one interception, one fumble recovery) while also registering two sacks in a 59-37 win over the Carolina Panthers in Week 1.",
+      "id": 607902,
+      "impact": "The unit struggled to stop the Carolina offense through the air, allowing over 350 passing yards and three passing touchdowns in the win. The unit will look to get back on track in a Week 2 divisional contest against the Minnesota Vikings.",
+      "link": "https://www.fantasypros.com/nfl/news/607902/bears-dst-torched-through-air-week-1.php",
+      "player_id": 8050,
       "sport_id": "NFL",
       "team_id": "CHI",
-      "title": "Caleb Williams posts four touchdowns in Week 1 win over Panthers"
+      "title": "Bears D/ST torched through air in Week 1"
     },
     {
       "author": "Chris Schommer",
@@ -27,16 +225,16 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-14 00:03:06",
-      "created_formated": "Mon, Sep 14th 12:03am UTC",
-      "desc": "Kyle Monangai rushed 10 times for 100 yards and one touchdown while also catching both of his targets for 24 yards in a 59-37 win over the Carolina Panthers in Week 1.",
-      "id": 607685,
-      "impact": "Monangai made the most of limited touches highlighted by a 61-yard rushing touchdown in the win. The second-year running back will look to take advantage of a risky Minnesota Vikings defense in Week 2 for fantasy managers.",
-      "link": "https://www.fantasypros.com/nfl/news/607685/kyle-monangai-reaches-100-yards-week-1-win.php",
-      "player_id": 27131,
+      "created": "2026-09-14 16:10:43",
+      "created_formated": "Mon, Sep 14th 4:10pm UTC",
+      "desc": "Cairo Santos converted his only field goal attempt as well as all eight of his extra point attempts to finish with 11 points in the Bears' 59-37 win over the Carolina Panthers in Week 1.",
+      "id": 607901,
+      "impact": "Santos benefited from a high-octane Chicago offensive attack, finishing with double-digit points in the win. The veteran kicker should continue to see plenty of opportunities as the season moves forward for fantasy managers, with a Week 2 contest against the Minnesota Vikings up next.",
+      "link": "https://www.fantasypros.com/nfl/news/607901/cairo-santos-perfect-week-1.php",
+      "player_id": 13731,
       "sport_id": "NFL",
       "team_id": "CHI",
-      "title": "Kyle Monangai reaches 100 yards in Week 1 win"
+      "title": "Cairo Santos perfect in Week 1"
     },
     {
       "author": "Chris Schommer",
@@ -45,16 +243,16 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-13 23:59:06",
-      "created_formated": "Sun, Sep 13th 11:59pm UTC",
-      "desc": "D'Andre Swift carried the ball 18 times for 124 rushing yards and three touchdowns while also catching his lone target for 10 yards in the Bears' 59-37 Week 1 win over the Carolina Panthers.",
-      "id": 607681,
-      "impact": "Swift led an impactful Chicago backfield attack in the season opener for head coach Ben Johnson, averaging 6.9 yards per carry in the win. The veteran running back will look to take advantage of another favorable matchup against the Minnesota Vikings in Week 2 for fantasy managers.",
-      "link": "https://www.fantasypros.com/nfl/news/607681/dandre-swift-rushes-three-touchdowns-week-1-win-over-panthers.php",
-      "player_id": 19210,
+      "created": "2026-09-14 16:07:29",
+      "created_formated": "Mon, Sep 14th 4:07pm UTC",
+      "desc": "The Panthers D/ST forced one turnover (one fumble recovery) while also recording two sacks in a 59-37 Week 1 loss to the Chicago Bears.",
+      "id": 607900,
+      "impact": "The unit did not have many answers for an explosive Chicago offense in the season opener, allowing eight total touchdowns on 592 offensive yards, with six of those scores coming on the ground in the loss. The unit will look to get back on track against an Atlanta Falcons offense that could be forced to once again start quarterback Cooper Rush in Week 2.",
+      "link": "https://www.fantasypros.com/nfl/news/607900/panthers-dst-dismal-week-1-loss.php",
+      "player_id": 8040,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "D'Andre Swift rushes for three touchdowns in Week 1 win over Panthers"
+      "team_id": "CAR",
+      "title": "Panthers D/ST dismal in Week 1 loss"
     },
     {
       "author": "Chris Schommer",
@@ -63,16 +261,16 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-13 23:51:07",
-      "created_formated": "Sun, Sep 13th 11:51pm UTC",
-      "desc": "Tyler Warren hauled in three of his five targets for 13 yards and one touchdown in a 41-23 Week 1 loss to the Baltimore Ravens.",
-      "id": 607678,
-      "impact": "Warren was mostly bottled up by a stiff Baltimore defense, averaging 4.3 yards per reception in the Week 1 loss. The tight end remains a primary pass-catching offense for head coach Shane Steichen ahead of a Week 2 contest against the Kansas City Chiefs.",
-      "link": "https://www.fantasypros.com/nfl/news/607678/tyler-warren-finds-end-zone-week-1-loss.php",
-      "player_id": 26434,
+      "created": "2026-09-14 16:04:20",
+      "created_formated": "Mon, Sep 14th 4:04pm UTC",
+      "desc": "Ryan Fitzgerald converted his lone field goal attempt as well as four of his five extra point attempts to finish with seven points in the Panthers' 59-37 loss to the Chicago Bears in Week 1.",
+      "id": 607899,
+      "impact": "Fitzgerald turned in a mostly solid performance, with the missed extra point the outlier. The kicker will look for more success in a Week 2 divisional contest against the Atlanta Falcons.",
+      "link": "https://www.fantasypros.com/nfl/news/607899/ryan-fitzgerald-misses-extra-point-week-1.php",
+      "player_id": 27261,
       "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Tyler Warren finds end zone in Week 1 loss"
+      "team_id": "CAR",
+      "title": "Ryan Fitzgerald misses extra point in Week 1"
     },
     {
       "author": "Chris Schommer",
@@ -81,72 +279,33 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-13 23:47:14",
-      "created_formated": "Sun, Sep 13th 11:47pm UTC",
-      "desc": "Jonathan Taylor carried the ball 19 times for 98 yards and two touchdowns while also catching three of his four targets for 23 yards in the Colts' 41-23 loss to the Baltimore Ravens in Week 1.",
-      "id": 607677,
-      "impact": "Taylor was the lone bright spot in an underwhelming Colts offense to begin the season, averaging 5.2 yards per carry in the loss. The superstar running back will look to remain an impactful backfield option in Week 2 against the Kansas City Chiefs.",
-      "link": "https://www.fantasypros.com/nfl/news/607677/jonathan-taylor-rushes-two-touchdowns-week-1-loss.php",
-      "player_id": 19217,
+      "created": "2026-09-14 16:01:05",
+      "created_formated": "Mon, Sep 14th 4:01pm UTC",
+      "desc": "The Dolphins D/ST recorded two interceptions while failing to pick up any sacks in a 27-13 loss to the Las Vegas Raiders in Week 1.",
+      "id": 607897,
+      "impact": "The unit mostly did its part in a losing effort, allowing less than 300 offensive yards on the day. Fantasy managers cannot trust the defense against a tough San Francisco 49ers offense in Week 2.",
+      "link": "https://www.fantasypros.com/nfl/news/607897/dolphins-dst-records-two-interceptions-week-1.php",
+      "player_id": 8160,
       "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Jonathan Taylor rushes for two touchdowns in Week 1 loss"
+      "team_id": "MIA",
+      "title": "Dolphins D/ST records two interceptions in Week 1"
     },
     {
-      "author": "Matthew Adam",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
-        "News",
-        "Results"
+        "News"
       ],
-      "created": "2026-09-13 22:30:44",
-      "created_formated": "Sun, Sep 13th 10:30pm UTC",
-      "desc": "The Titans D/ST allowed 23 points while failing to record a sack or a turnover in a 23-10 loss to the Jets in Week 1.",
-      "id": 607671,
-      "impact": "The Titans were unable to offer much resistance on defense in the lopsided loss. Things won't get any easier as they draw a tough Week 2 matchup against the Eagles. They will not be a recommended fantasy option for that contest.",
-      "link": "https://www.fantasypros.com/nfl/news/607671/titans-dst-struggles-against-jets-week-1.php",
-      "player_id": 8300,
+      "created": "2026-09-14 15:58:49",
+      "created_formated": "Mon, Sep 14th 3:58pm UTC",
+      "desc": "Dean Clark is expected to re-sign with the Jets practice squad. Minkah Fitzpatrick is banged up, so this move should help the teams depth.",
+      "id": 607896,
+      "impact": "Clark might see a call up if Fitzpatrick misses time, but don't expect the same level of production and expertise.",
+      "link": "https://www.fantasypros.com/nfl/news/607896/dean-clark-expected-to-sign-with-jets-practice-squad.php",
+      "player_id": 27692,
       "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Titans D/ST struggles against Jets in Week 1"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-09-13 22:54:39",
-      "created_formated": "Sun, Sep 13th 10:54pm UTC",
-      "desc": "Malik Nabers (knee) is officially active for Week 1 for the New York Giants against the Dallas Cowboys according to Mike Garafolo.",
-      "id": 607676,
-      "impact": "",
-      "link": "https://www.fantasypros.com/nfl/news/607676/malik-nabers-knee-active-week-1.php",
-      "player_id": 25409,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Malik Nabers (knee) active for Week 1"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-09-13 22:52:10",
-      "created_formated": "Sun, Sep 13th 10:52pm UTC",
-      "desc": "Ladd McConkey (undisclosed) exited early for the Los Angeles Chargers against the Arizona Cardinals Sunday.",
-      "id": 607675,
-      "impact": "McConkey headed to the medical tent after suffering an undisclosed injury, hauling in five of his seven targets for 82 yards and one touchdown for head coach Jim Harbaugh.",
-      "link": "https://www.fantasypros.com/nfl/news/607675/ladd-mcconkey-undisclosed-exits-early-sunday.php",
-      "player_id": 26122,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Ladd McConkey (undisclosed) exits early Sunday "
+      "team_id": "FA",
+      "title": "Dean Clark expected to sign with Jets practice squad"
     },
     {
       "author": "Chris Schommer",
@@ -155,16 +314,34 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-13 22:36:41",
-      "created_formated": "Sun, Sep 13th 10:36pm UTC",
-      "desc": "Seth McGowan caught his only target for no gain in the Colts' 41-23 loss to the Baltimore Ravens in Week 1.",
-      "id": 607674,
-      "impact": "McGowan was one of many options in the Indianapolis offense that failed to make an impact in the Week 1 loss and can remain off rosters in all formats ahead of a tough Week 2 contest against the Kansas City Chiefs.",
-      "link": "https://www.fantasypros.com/nfl/news/607674/seth-mcgowan-catches-one-pass-week-1.php",
-      "player_id": 23079,
+      "created": "2026-09-14 15:53:47",
+      "created_formated": "Mon, Sep 14th 3:53pm UTC",
+      "desc": "Riley Patterson converted his lone extra point attempt as well as two of his three field goal attempts to finish with seven points in the Dolphins' 27-13 loss to the Las Vegas Raiders in Week 1.",
+      "id": 607895,
+      "impact": "Patterson was unable to remain perfect for head coach Jeff Hafley, missing a field goal attempt late in the third quarter in the loss. The kicker will look to put his miss behind him, with a Week 2 contest against the San Francisco 49ers up next.",
+      "link": "https://www.fantasypros.com/nfl/news/607895/riley-patterson-misses-field-goal-week-1.php",
+      "player_id": 23370,
       "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Seth McGowan catches one pass in Week 1"
+      "team_id": "MIA",
+      "title": "Riley Patterson misses field goal in Week 1"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-14 15:29:27",
+      "created_formated": "Mon, Sep 14th 3:29pm UTC",
+      "desc": "Da'Shawn Hand (quad) suffered a torn quad injury against the Steelers on Sunday that will require surgery. He is likely out for the year but is looking for second opinions.",
+      "id": 607888,
+      "impact": "It's another blow to the Falcons who have lost Jalon Walker and James Pearce Jr. already. With Hand out, they'll have to bring in some free agent talent to bolster their ranks.",
+      "link": "https://www.fantasypros.com/nfl/news/607888/dashawn-hand-quad-suffers-torn-quad-will-miss-rest-season.php",
+      "player_id": 17348,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Da'Shawn Hand (quad) suffers torn quad, likely done for 2026"
     },
     {
       "author": "Chris Schommer",
@@ -173,16 +350,16 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-13 22:33:56",
-      "created_formated": "Sun, Sep 13th 10:33pm UTC",
-      "desc": "Ashton Dulin failed to haul in his lone target in the Colts' 41-23 loss to the Baltimore Ravens in Week 1.",
-      "id": 607673,
-      "impact": "Dulin was one of many pass-catchers who failed to find success in Week 1, with the wideout best left off rosters ahead of a tough Week 2 contest against the Kansas City Chiefs.",
-      "link": "https://www.fantasypros.com/nfl/news/607673/ashton-dulin-sees-one-target-week-1.php",
-      "player_id": 18656,
+      "created": "2026-09-14 15:48:55",
+      "created_formated": "Mon, Sep 14th 3:48pm UTC",
+      "desc": "The Raiders D/ST forced two turnovers (one interception, one fumble recovery) while also registering five sacks in a 27-13 win over the Dolphins in Week 1.",
+      "id": 607894,
+      "impact": "The unit took advantage of an underwhelming Miami offense throughout the contest, allowing less than 300 offensive yards in the win. the defense will look for more success against a Los Angeles Chargers offense that could be without wideout Ladd McConkey (chest) in Week 2.",
+      "link": "https://www.fantasypros.com/nfl/news/607894/raiders-dst-disruptive-week-1-win.php",
+      "player_id": 8220,
       "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Ashton Dulin sees one target in Week 1"
+      "team_id": "LV",
+      "title": "Raiders D/ST disruptive in Week 1 win"
     },
     {
       "author": "Chris Schommer",
@@ -191,34 +368,16 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-13 22:31:35",
-      "created_formated": "Sun, Sep 13th 10:31pm UTC",
-      "desc": "Laquon Treadwell failed to catch his only target in the Colts' 41-23 Week 1 loss to the Baltimore Ravens.",
-      "id": 607672,
-      "impact": "Treadwell operated as more of an afterthought in the Indianapolis passing attack for head coach Shane Steichen, with a difficult Week 2 contest against the Kansas City Chiefs up next.",
-      "link": "https://www.fantasypros.com/nfl/news/607672/laquon-treadwell-sees-one-target-week-1.php",
-      "player_id": 15495,
+      "created": "2026-09-14 15:46:04",
+      "created_formated": "Mon, Sep 14th 3:46pm UTC",
+      "desc": "Matt Gay converted both of his field goal attempts as well as all three of his extra point attempts to finish with nine points in the Raiders' 27-13 win over the Miami Dolphins in Week 1.",
+      "id": 607893,
+      "impact": "Gay took advantage of his opportunities despite a mixed performance from the Las Vegas offense in the season opener, converting all five of his kick attempts in the win. The kicker will look to remain a stable option moving forward, with a Week 2 contest against the Los Angeles Chargers up next.",
+      "link": "https://www.fantasypros.com/nfl/news/607893/matt-gay-racks-up-nine-points-week-1.php",
+      "player_id": 18545,
       "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Laquon Treadwell sees one target in Week 1"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-13 22:29:21",
-      "created_formated": "Sun, Sep 13th 10:29pm UTC",
-      "desc": "Joey Slye made a 42-yard field goal and added an extra point in a 23-10 loss to the Jets in Week 1.",
-      "id": 607670,
-      "impact": "Slye wasn't asked to do much in a game where the Titans struggled to move the ball. The veteran kicker will not be a strong fantasy option heading into Week 2 against the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/607670/joey-slye-makes-one-fg-week-1.php",
-      "player_id": 19028,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Joey Slye makes one FG in Week 1"
+      "team_id": "LV",
+      "title": "Matt Gay racks up nine points in Week 1"
     },
     {
       "author": "Chris Schommer",
@@ -227,106 +386,16 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-13 22:29:21",
-      "created_formated": "Sun, Sep 13th 10:29pm UTC",
-      "desc": "Drew Ogletree failed to catch his only target in the Colts' 41-23 loss to the Baltimore Ravens in Week 1.",
-      "id": 607669,
-      "impact": "Ogletree was one of many disappointing options in the Indianapolis offense in Week 1, with the tight end remaining best left off rosters in all formats ahead of a Week 2 contest against the Kansas City Chiefs.",
-      "link": "https://www.fantasypros.com/nfl/news/607669/drew-ogletree-sees-one-target-week-1.php",
-      "player_id": 24561,
+      "created": "2026-09-14 15:42:21",
+      "created_formated": "Mon, Sep 14th 3:42pm UTC",
+      "desc": "Kirk Cousins completed 21-of-30 pass attempts for 160 yards, three touchdowns, and two interceptions in the Raiders' 27-13 Week 1 win over the Miami Dolphins.",
+      "id": 607892,
+      "impact": "Cousins was unable to find much success downfield, averaging just 7.6 yards per completion in the win. the veteran signal-caller will look to minimize turnovers moving forward, with a Week 2 divisional matchup against the Los Angeles Chargers up next.",
+      "link": "https://www.fantasypros.com/nfl/news/607892/kirk-cousins-offers-mixed-results-week-1-win-over-dolphins.php",
+      "player_id": 11177,
       "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Drew Ogletree sees one target in Week 1"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-13 22:28:13",
-      "created_formated": "Sun, Sep 13th 10:28pm UTC",
-      "desc": "Gunnar Helm caught four of his five targets for 28 yards in a 23-10 loss to the Jets in Week 1.",
-      "id": 607668,
-      "impact": "Helm tied for second with four catches while finishing third on the team in receiving yards. The veteran tight end will be a TE3 heading into a Week 2 matchup against the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/607668/gunnar-helm-catches-four-passes-week-1.php",
-      "player_id": 27109,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Gunnar Helm catches four passes in Week 1"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-13 22:26:29",
-      "created_formated": "Sun, Sep 13th 10:26pm UTC",
-      "desc": "Elic Ayomanor caught one of his three targets for an 11-yard touchdown in a 23-10 loss to the Jets in Week 1.",
-      "id": 607667,
-      "impact": "Ayomanor was quiet for most of the afternoon until he pulled down his 11-yard touchdown in garbage time with 2:40 left in the game. The veteran wideout will be tough to trust as part of a below-average Tennessee passing attack going forward. The Titans will face the Eagles in Week 2.",
-      "link": "https://www.fantasypros.com/nfl/news/607667/elic-ayomanor-finds-end-zone-week-1.php",
-      "player_id": 27059,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Elic Ayomanor finds the end zone in Week 1"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-13 22:24:35",
-      "created_formated": "Sun, Sep 13th 10:24pm UTC",
-      "desc": "Calvin Ridley was not targeted in a 23-10 loss to the Jets in Week 1.",
-      "id": 607666,
-      "impact": "Ridley was on the field but did not record any stats in the lopsided loss to New York. The entire Titans offense struggled in the contest, but Ridley's lack of participation is still highly concerning going forward. He can be cut in shallow leagues heading into a Week 2 matchup against the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/607666/calvin-ridley-not-targeted-week-1.php",
-      "player_id": 17258,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Calvin Ridley not targeted in Week 1"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-13 22:21:02",
-      "created_formated": "Sun, Sep 13th 10:21pm UTC",
-      "desc": "Wan'Dale Robinson caught five of his six targets for 38 yards in a 23-10 loss to the Jets in Week 1.",
-      "id": 607665,
-      "impact": "Robinson tied for the team lead in targets and receiving yards while leading the way with his five catches. The entire Tennessee offense struggled to move the ball in Week 1, which cut into Robinson's final stats. He will look to bounce back as a decent flex option in PPR leagues heading into a Week 2 matchup against the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/607665/wandale-robninson-goes-38-yards-week-1.php",
-      "player_id": 22985,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Wan'Dale Robninson goes for 38 yards in Week 1"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-13 22:17:40",
-      "created_formated": "Sun, Sep 13th 10:17pm UTC",
-      "desc": "Carnell Tate caught four of his six targets for 38 yards in a 23-10 loss to the Jets in Week 1.",
-      "id": 607663,
-      "impact": "Tate tied for the team lead in targets and receiving yards while finishing second in receptions in his NFL debut. The rookie receiver will surely have bigger games going forward, as the entire Tennessee offense struggled in the season opener. Tate will be a low-end WR3 heading into a Week 2 matchup against the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/607663/carnell-tate-catches-four-passes-week-1.php",
-      "player_id": 26009,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Carnell Tate catches four passes in Week 1"
+      "team_id": "LV",
+      "title": "Kirk Cousins offers mixed results in Week 1 win over Dolphins"
     },
     {
       "author": "Chris Schommer",
@@ -335,34 +404,16 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-13 22:18:42",
-      "created_formated": "Sun, Sep 13th 10:18pm UTC",
-      "desc": "The Ravens D/ST recorded two sacks, one fumble recovery, and one interception in a Week 1 win over the Indianapolis Colts.",
-      "id": 607664,
-      "impact": "The defense stood tall in the season opener for first-year head coach Jesse Minter, allowing less than 275 offensive yards in the win. The unit will look to take advantage of a favorable Week 2 contest against the New Orleans Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/607664/ravens-dst-stifles-colts-week-1-win.php",
-      "player_id": 8020,
+      "created": "2026-09-14 15:38:08",
+      "created_formated": "Mon, Sep 14th 3:38pm UTC",
+      "desc": "Ashton Jeanty carried the ball 23 times for 102 yards while also hauling in all six of his targets for a team-leading 45 yards and two touchdowns in the Raiders' 27-13 Week 1 win over the Miami Dolphins.",
+      "id": 607891,
+      "impact": "Jeanty was dynamic out of the backfield in the season opener, leading the team in rushing and receiving yards in the win. the running back remains an elite RB1 option with PPR upside for fantasy managers ahead of a Week 2 matchup against the Los Angeles Chargers ahead.",
+      "link": "https://www.fantasypros.com/nfl/news/607891/ashton-jeany-leads-offense-week-1-win-over-dolphins.php",
+      "player_id": 25989,
       "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Ravens D/ST stifles Colts in Week 1 win"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-13 22:15:27",
-      "created_formated": "Sun, Sep 13th 10:15pm UTC",
-      "desc": "Tyjae Spears carried the ball three times for 12 yards and caught two of his four targets for 12 yards in a 23-10 loss to the Jets in Week 1.",
-      "id": 607662,
-      "impact": "Spears operated behind Tony Pollard, who had eight touches. It was not a great day for the Tennessee run game, as the Titans were playing from behind for the entire game. Spears at least drew an encouraging number of targets in the passing attack. He will be a low-end flex option heading into Week 2 against the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/607662/tyjae-spears-finishes-with-24-all-purpose-yards-week-1.php",
-      "player_id": 25323,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tyjae Spears finishes with 24 all-purpose yards in Week 1"
+      "team_id": "LV",
+      "title": "Ashton Jeanty leads offense in Week 1 win over Dolphins"
     },
     {
       "author": "Chris Schommer",
@@ -371,34 +422,16 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-13 22:15:07",
-      "created_formated": "Sun, Sep 13th 10:15pm UTC",
-      "desc": "Tyler Loop converted both of his field goal attempts as well as all five of his extra point attempts to finish with 11 points in a 41-23 Week 1 win over the Indianapolis Colts.",
-      "id": 607661,
-      "impact": "Loop capitalized on every opportunity for head coach Jesse Minter, finishing with a perfect stat line in the Week 1 win. The kicker will look to take advantage of another favorable matchup in Week 2 against the New Orleans Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/607661/tyler-loop-racks-up-11-points-week-1-win.php",
-      "player_id": 27534,
+      "created": "2026-09-14 15:35:29",
+      "created_formated": "Mon, Sep 14th 3:35pm UTC",
+      "desc": "Mike Washington Jr. carried the ball seven times for 41 yards in the Raiders' 27-13 Week 1 win over the Miami Dolphins.",
+      "id": 607890,
+      "impact": "Washington Jr. was impactful operating behind Ashton Jeanty in the Las Vegas backfield, averaging 5.9 yards per carry in the win. The running back will look to continue to offer impactful touches as the primary handcuff to Jeanty in the Las Vegas backfield moving forward, with a Week 2 divisional matchup against the Los Angeles Chargers up next.",
+      "link": "https://www.fantasypros.com/nfl/news/607890/mike-washington-jr-sees-seven-touches-week-1-win.php",
+      "player_id": 28108,
       "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Tyler Loop racks up 11 points in Week 1 win"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-13 22:13:25",
-      "created_formated": "Sun, Sep 13th 10:13pm UTC",
-      "desc": "Tony Pollard carried the ball seven times for 35 yards and lost one yard on his lone catch in a 23-10 loss to the Jets in Week 1.",
-      "id": 607660,
-      "impact": "Pollard was quiet with the Titans playing from behind for most of the game. On the bright side, the veteran running back led the backfield with Tyjae Spears getting just three carries. Pollard will look to bounce back as a high-end RB3 in Week 2 against the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/607660/tony-pollard-held-to-35-rushing-yards-week-1.php",
-      "player_id": 18705,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tony Pollard held to 35 rushing yards in Week 1"
+      "team_id": "LV",
+      "title": "Mike Washington Jr. sees seven touches in Week 1 win"
     },
     {
       "author": "Chris Schommer",
@@ -407,52 +440,16 @@
         "News",
         "Results"
       ],
-      "created": "2026-09-13 22:12:44",
-      "created_formated": "Sun, Sep 13th 10:12pm UTC",
-      "desc": "Derrick Henry carried the ball 24 times for 144 yards and three touchdowns while also hauling in his lone target for 19 yards in the Ravens' 41-23 Week 1 win over the Indianapolis Colts.",
-      "id": 607659,
-      "impact": "Henry capitalized on a sizeable workload out of the Baltimore backfield, averaging an impressive 6.0 yards per carry in the Week 1 win. The superstar running back remains locked in as a reliable RB1 ahead of a Week 2 matchup against the New Orleans Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/607659/derrick-henry-rushes-three-touchdowns-week-1-win-over-colts.php",
-      "player_id": 15514,
+      "created": "2026-09-14 15:31:44",
+      "created_formated": "Mon, Sep 14th 3:31pm UTC",
+      "desc": "Tre Tucker caught two of his four targets for 27 yards in the Raiders' 27-13 win over the Miami Dolphins in Week 1.",
+      "id": 607889,
+      "impact": "Tucker was one of six to catch at least one pass from Kirk Cousins in the season opener, averaging a team-high 13.5 yards per reception. The wideout remains one of many pass-catching options as part of a revamped Las Vegas offense, with a Week 2 contest against the Los Angeles Chargers up next.",
+      "link": "https://www.fantasypros.com/nfl/news/607889/tre-tucker-catches-two-passes-week-1.php",
+      "player_id": 25337,
       "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Derrick Henry rushes for three touchdowns in Week 1 win over Colts"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-13 22:10:31",
-      "created_formated": "Sun, Sep 13th 10:10pm UTC",
-      "desc": "Cam Ward completed 19 of his 32 passes for 140 yards and a touchdown while adding 21 yards on four carries in a 23-10 loss to the Jets in Week 1.",
-      "id": 607658,
-      "impact": "Ward struggled in the loss, averaging just 4.4 yards per attempt. His touchdown pass came in garbage time with the game out of reach on an 11-yard catch from Elic Ayomanor. Ward will be a low-end QB2 heading into a Week 2 home matchup against the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/607658/cam-ward-struggles-week-1-loss.php",
-      "player_id": 24755,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Cam Ward struggles in Week 1 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-13 22:09:49",
-      "created_formated": "Sun, Sep 13th 10:09pm UTC",
-      "desc": "Lamar Jackson completed 17-of-25 pass attempts for 324 yards and one touchdown while also rushing seven times for 40 yards, one touchdown, and one lost fumble in the Ravens' 41-23 Week 1 win over the Indianapolis Colts.",
-      "id": 607657,
-      "impact": "Jackson took advantage of a more explosive offensive playbook from first-year offensive coordinator Declan Doyle, accounting for touchdowns on the ground and through the air in the win. The superstar quarterback remains an elite QB1 option entering a Week 2 matchup against the New Orleans Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/607657/lamar-jackson-surpasses-300-passing-yards-week-1-win-over-colts.php",
-      "player_id": 17233,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Lamar Jackson surpasses 300 passing yards in Week 1 win over Colts"
+      "team_id": "LV",
+      "title": "Tre Tucker catches two passes in Week 1"
     }
   ],
   "public_api_limited": true,

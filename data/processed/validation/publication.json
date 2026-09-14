@@ -1,10 +1,10 @@
 {
-  "avi_generated_at_utc": "2026-09-14T00:18:08.890323+00:00",
-  "checked_at_utc": "2026-09-14T00:18:09.507969+00:00",
+  "avi_generated_at_utc": "2026-09-14T18:06:40.396280+00:00",
+  "checked_at_utc": "2026-09-14T18:06:41.032001+00:00",
   "counts": {
-    "avi_players": 480,
-    "player_lookup": 480,
-    "registry_players": 480,
+    "avi_players": 479,
+    "player_lookup": 479,
+    "registry_players": 479,
     "team_profiles": 16
   },
   "failures": [],
@@ -12,7 +12,7 @@
     "activation_policy": "Use only verified completed 2026 regular-season weeks; stale or partial player-points feeds do not activate the transition.",
     "completed_through_week": 0,
     "fantasypros_max_observed_week": 1,
-    "mapped_player_point_records": 238,
+    "mapped_player_point_records": 286,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 1,

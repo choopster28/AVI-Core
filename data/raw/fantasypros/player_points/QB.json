@@ -131,6 +131,19 @@
       }
     },
     {
+      "average": 26.6,
+      "filename": "jaxson-dart.php",
+      "games": 1,
+      "player_id": 23160,
+      "player_name": "Jaxson Dart",
+      "points": 26.6,
+      "position_id": "QB",
+      "team_id": "NYG",
+      "weeks": {
+        "1": 26.6
+      }
+    },
+    {
       "average": 17.7,
       "filename": "malik-willis.php",
       "games": 1,
@@ -180,6 +193,19 @@
       "team_id": "HOU",
       "weeks": {
         "1": 16.5
+      }
+    },
+    {
+      "average": 15.4,
+      "filename": "dak-prescott.php",
+      "games": 1,
+      "player_id": 15600,
+      "player_name": "Dak Prescott",
+      "points": 15.4,
+      "position_id": "QB",
+      "team_id": "DAL",
+      "weeks": {
+        "1": 15.4
       }
     },
     {
@@ -339,6 +365,19 @@
       }
     },
     {
+      "average": 0.6,
+      "filename": "kyler-murray.php",
+      "games": 1,
+      "player_id": 18600,
+      "player_name": "Kyler Murray",
+      "points": 0.62,
+      "position_id": "QB",
+      "team_id": "MIN",
+      "weeks": {
+        "1": 0.6
+      }
+    },
+    {
       "average": 25,
       "filename": "lamar-jackson.php",
       "games": 1,
@@ -349,6 +388,32 @@
       "team_id": "BAL",
       "weeks": {
         "1": 25
+      }
+    },
+    {
+      "average": 20.5,
+      "filename": "jordan-love.php",
+      "games": 1,
+      "player_id": 19246,
+      "player_name": "Jordan Love",
+      "points": 20.48,
+      "position_id": "QB",
+      "team_id": "GB",
+      "weeks": {
+        "1": 20.5
+      }
+    },
+    {
+      "average": 19.2,
+      "filename": "carson-wentz.php",
+      "games": 1,
+      "player_id": 15520,
+      "player_name": "Carson Wentz",
+      "points": 19.22,
+      "position_id": "QB",
+      "team_id": "MIN",
+      "weeks": {
+        "1": 19.2
       }
     },
     {
