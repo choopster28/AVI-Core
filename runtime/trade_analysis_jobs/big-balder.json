@@ -1,5 +1,39 @@
 [
   {
+    "id": "mu1p5suv-62f6d115",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "DMV Fantasy",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chris Godwin",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Goblins · Projected early range (2.01–2.05)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jalen Coker",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1789417807448,
+    "updatedAt": 1789417807448,
+    "expiresAt": 1789849807448,
+    "status": "queued"
+  },
+  {
     "id": "mu1p39wa-ad9b4e8d",
     "phase": "initial",
     "mode": "propose_trade",
