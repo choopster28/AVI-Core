@@ -29,9 +29,353 @@
       }
     },
     "createdAt": 1789417807448,
-    "updatedAt": 1789417808955,
+    "updatedAt": 1789417866767,
     "expiresAt": 1789849807448,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The submitted proposal has Big Balder Brand severely overpaying for Jalen Coker by surrendering veteran WR Chris Godwin alongside a high-value, early-projected 2027 2nd-round pick (Gringo's Goblins). As an Elite Contender with a explicit goal to Win Championship, Big Balder Brand would be sending away both the higher-producing current receiver (Godwin: 64.7 C-AVI, 181.4 projected PPR) and premium draft capital to acquire a young wide receiver (Coker: 51.4 C-AVI, 144.4 projected PPR) who does not break into Big Balder Brand's starting lineup. While DMV Fantasy would accept this windfall instantly, Big Balder Brand should NOT send this offer as constructed. AVI strongly recommends revising the offer to send the 2027 early 2nd pick straight up for Coker, preserving Godwin's crucial championship bench depth while leveraging draft capital to add young talent.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 64.7,
+              "davi": 74,
+              "publicMarket": 65,
+              "leagueMarket": 64.7
+            },
+            {
+              "name": "2027 2nd · Goblins · Projected early range (2.01–2.05)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 24,
+              "cavi": 51.4,
+              "davi": 70.8,
+              "publicMarket": 55,
+              "leagueMarket": 51.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "A",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "DMV Fantasy",
+            "summary": "Big Balder Brand pays a heavy premium for Jalen Coker by combining a proven 180+ PPR point veteran receiver in Chris Godwin with an early 2027 2nd pick (AVI 48.5). Big Balder Brand loses 13.3 C-AVI at receiver depth and burns liquid draft capital without making any upgrade to its optimal 8-man starting lineup."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By offering the 2027 2nd (Goblins) straight up for Jalen Coker, Big Balder Brand acquires a 24-year-old receiver without touching its active weekly roster or championship depth. Rebuilding DMV Fantasy receives early draft capital aligned with its long-term strategy."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Reduces high-floor receiver insurance behind starters A.J. Brown, Nico Collins, and Rashee Rice."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Acquires 24-year-old Coker but surrenders Godwin and an early 2027 2nd pick, leaving total portfolio value reduced."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Neither player enters Big Balder Brand's top 8 starting lineup (Daniels, Barkley, Hampton, A.J. Brown, Collins, McBride, Rice, Love)."
+            },
+            "depthResilience": {
+              "score": -30,
+              "summary": "Replaces top WR bench reserve Godwin (64.7 C-AVI) with Coker (51.4 C-AVI), leaving the team more vulnerable to starting WR injury."
+            },
+            "flexibilityLiquidity": {
+              "score": -40,
+              "summary": "Forfeits a valuable early 2027 2nd draft pick (AVI 48.5) that could be used for higher-impact in-season trades."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Negative transaction that depletes championship depth and sacrifices liquid pick capital for a net downgrade in current weekly value."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 20,
+              "summary": "Godwin immediately upgrades DMV Fantasy's starting WR slot over Coker (64.7 C-AVI vs 51.4 C-AVI)."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Gains an early 2027 2nd pick while taking on Godwin, who can be flipped for additional rebuild assets later."
+            },
+            "lineupQuality": {
+              "score": 15,
+              "summary": "Godwin steps in as DMV Fantasy's WR1, boosting projected starter points."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Adds veteran stability and extra pick assets to absorb roster variance."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Acquires a high-liquidity early 2027 2nd round pick."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Outstanding outcome for DMV Fantasy, acquiring a starting WR replacement plus an early 2nd pick for a 3rd-year receiver."
+            }
+          },
+          "explanation": "The trade creates a stark imbalance. Big Balder Brand suffers across depth resilience and flexibility by surrendering a superior player and an early 2nd pick. DMV Fantasy enjoys gains across both present starting production and long-term draft assets."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand takes a hit to current title defense odds by downgrading bench receiver depth from Godwin (64.7 C-AVI) to Coker (51.4 C-AVI). In a 16-team league, elite bench depth is a primary championship buffer.",
+          "sideADynastyImpact": "Dynasty asset value decreases. Giving up Godwin (74.0 D-AVI) and the early 2027 2nd (48.5 AVI) for Coker (70.8 D-AVI) results in a net dynasty value loss.",
+          "sideARosterImpact": "Roster composition loses key WR depth resilience and forfeits a top-35 draft asset, receiving a backup receiver in return.",
+          "sideBChampionshipImpact": "DMV Fantasy gains 13.3 C-AVI in its starting lineup by replacing Coker with Godwin at WR1.",
+          "sideBDynastyImpact": "DMV Fantasy advances its rebuild by adding a projected early 2027 2nd pick while maintaining starting receiver production.",
+          "sideBRosterImpact": "Strengthens DMV Fantasy's pick portfolio while providing an immediate starting upgrade.",
+          "valueAssessment": "Severe value asymmetry favoring DMV Fantasy. Side A surrenders 113.2 combined C-AVI/pick value to receive 51.4 C-AVI."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus heavily favors Side A's assets. Godwin remains a proven high-volume slot target with Baker Mayfield in Tampa Bay. While Jalen Coker's stock is surging following a Week 1 breakout (8 rec, 138 yds, 2 TD) and offseason contract extension, market valuation does not justify pairing Godwin with an early 2nd round pick to obtain Coker.",
+          "aviVsMarket": "AVI rates Godwin (64.7 C-AVI) notably higher in immediate projection than Coker (51.4 C-AVI). Public sentiment reflects high excitement around Coker's breakout, but objective full-season expectations and depth value strongly back Godwin.",
+          "relevantContext": [
+            "Chris Godwin recorded 4 receptions for 40 yards in Week 1, operating as the main slot option in Tampa Bay's Mayfield-led offense.",
+            "Jalen Coker exploded in Week 1 (8-138-2) but was placed in a protective boot on Monday with a minor ankle sprain, though expected to play in Week 2.",
+            "Godwin is 30.0 years old in his 10th NFL season; Coker is 24.0 years old entering his 3rd year after signing a 3-year extension with Carolina."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "DMV Fantasy is a Rebuilder focused on accumulating draft picks and young assets. They would be thrilled to accept an offer that gives them an early 2027 2nd pick alongside veteran starter Chris Godwin.",
+          "packageFit": "The package fits DMV Fantasy's timeline exceptionally well due to the inclusion of the early 2nd round pick, while giving them a veteran asset in Godwin who can either start or be re-traded.",
+          "lineupReplacement": "DMV Fantasy easily replaces Coker with Godwin in its starting WR1 slot, resulting in an immediate starting lineup upgrade.",
+          "competitiveWindowFit": "DMV Fantasy gains valuable rebuild capital. However, for Big Balder Brand (Elite Contender), giving away win-now depth and capital undermines its championship window.",
+          "positionalScarcity": "In a 16-team league, usable starting WRs and high-end FLEX reserves carry heavy leverage. Giving away two usable assets for one lesser bench asset is poor roster construction."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 95,
+          "classification": "Highly Realistic",
+          "explanation": "DMV Fantasy would accept this offer almost immediately because it is an overwhelming value win for them. However, high acceptance probability for the partner does not make it a good trade for the user."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Big Balder Brand should not submit this offer. Giving up Chris Godwin AND a projected early 2027 2nd pick for Jalen Coker is a massive overpay that weakens championship receiver depth and burns liquid draft capital. If Big Balder Brand wants to acquire Coker, the offer should be revised to send the 2027 2nd pick straight up.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2027 2nd · Goblins · Projected early range (2.01–2.05)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 24,
+              "cavi": 51.4,
+              "davi": 70.8,
+              "publicMarket": 55,
+              "leagueMarket": 51.4
+            }
+          ],
+          "whyUserShouldDoIt": "Big Balder Brand adds an ascending 24-year-old wide receiver without losing Chris Godwin or compromising weekly championship depth.",
+          "whyOpponentMightAccept": "Rebuilding DMV Fantasy receives a projected early 2nd-round pick (slots 2.01–2.05), securing premium future draft currency for an unheralded young receiver."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 64.7,
+              "davi": 74,
+              "publicMarket": 65,
+              "leagueMarket": 64.7
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 24,
+              "cavi": 51.4,
+              "davi": 70.8,
+              "publicMarket": 55,
+              "leagueMarket": 51.4
+            },
+            {
+              "name": "2027 2nd · DMV Fantasy",
+              "assetType": "pick",
+              "owner": "DMV Fantasy",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "If Big Balder Brand specifically wants to move Godwin's age off the roster, DMV Fantasy should be adding a 2nd-round pick on top of Coker to balance Godwin's superior current production."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jalen Coker fantasy outlook 2026",
+          "Jalen Coker news 2026 NFL",
+          "Chris Godwin news 2026 NFL",
+          "Chris Godwin fantasy outlook 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjRycmFSQZDQ5JdY0X-4DsJ7VulMahCenYb-Ct04zGqDbC9mMxTbGZhWzKTp98LnEUZX8w8Ua4waLV-3ZZSBNylY-UjJnpXXCweJOMKU85KibNaeOOAR8zd3Crs9ApRw-cScI45bSB-_DcnN83R12ER65fhjanOAvzIWJ-b3K8OuK4CME2UjGH",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIODMZn1ZeiiruYjjWslNLGNnUv-vKroBrqSsDiuVct7RqeWsd6Rx0gVfQ9QoNluIl8rMtLJ1tKsPXLl19ZwZ7TvOLY3D6IB5NJAMkfs0pIL_Z3iIBC5kBaT9vqomAfYbb3g01RwmlSoJmF5C67vJZVVB3C62kw7Xk9adKPY2a",
+            "title": "joebucsfan.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfmoGm4PDAJoGdeOgPJ6vDVS8-f2QWeI9B-E0wjk-Rs8o1jg_LMAgukwStr2puAoNvfmHXQS8R5t_xqzzUJprUMH5BWaeSc4_35wh91uo0OiohKVdbUdjaPg9O3TAzxXS5iNU2gd3SWVNzp-OhLdnFas_-lWLazBCpTlXm8_CBeA==",
+            "title": "footballguys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_OEjUHOceqyMp4Y-OffP5sjoT6d2DbrnYGnOsxShY6xYuzeY1qapn_e1W41HopNlNOzMr3tspgeFmEPCgOhVhwlIEK-KsCLYx7sVSwob07Bj8IxLBfTcV-hBIwjUE-bBcEXAhfoKdc0oycUh23Q==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH14L9hLz_XegYKlzDOYDtzY4TCVs2YlAoHg5ThqAuweQQr2_0MCoXtJGU361ml72CWv3KozFeOVanC4ylATN7Umv_pV1Y56ZX88bcfVXVaLyaf8GiE9ITvKL_jHWgb8alqDtXFrY-sPGl3EtWe8pmXUnooRZdWq5elFhfHoZOW9N9rynKMSOB_dTpQDLvgldoMLXHH4H2Ou7cpg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3Q8W5FssCf2SSmecsfnYwARDFIZI_iC54qWA0fQpTEiaqAv8QDv6DmJv3mKotVW-z5m-_NvbX4r8WeG3xgMoYDICWN320mZOMQelO5qOk5iwf_D0RxQVgmnoQD5KGXwCyFOhlOQ5ET83mx8Dt9LHCNv6ELdLFREUFJH55UTCJ8KvZAIyifXQNbEPwmGeDf12ia1kwNCiHogaUVCM-",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhLVFpMj8xNheN6NQd5p4_79N0nA4cMciY-NhEXfeVhea0zJrWGvjj6d0V4LVaghvy7m7DgC9f0Ja0Irz38mAKYnXW2ftU5GFM-whfHSvY_SFKCnRxxDsjRDFGMr-nq1sNQmomTXDLhH4pw6VxRbmFH00DBmW_-vP45FiYbHL--ZzXT99jD4TaaMowCbb-jcAO-MxY718opOw4QDXd4IoVNPCHoQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoL6OkrOTAcOD-FTMcMAHm3y4ffutgOEo3aihB9b71WLCKhRlApO9B3vp2sVKmABD5QpUBzAxdc10qgHOByu5ooh4AaI5M0y3zo6zjleCpvX-Gxlj7Zjq7bgUIL-wn0f5lpXR9JZnzHDBuMd6r8p0qFiw1YNEN3LQ-Y8lQo7172d3cIGcli-0=",
+            "title": "tixel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpWKTimSH4cSdeqIbQeNan8Lf7uyQ6wE5kTTpTBLEMcFLhV5B3vcsLlo5JEUYpcQOI74xglG5tNEO1LW39QyOtqnp8OxYbVh3EywJ4x1YIdoYnelj-dXjUYWJ20bUndz9F",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bgX6v6MYPeJQJ3CObKLfYDqKBGiMIk7oB5jBDU6n9UGVgQ_KyaghHgO19An0_wEONOvflKunv6akQg8CuFSH1gPBr_cdioziYKOb1ArnOpFVfLlF_ixRbnxYNKCDX4e98Wm4IAx9xCvoyTBhM4b5ZA5MuA==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO9LSrIFo3kUAU9AH0YSD11yrbVW9_COpBbnIwFO9jk5VvvxkewYahubvEJik5nysBJNnBtSP7KYihsHr6yLvUWo9gbdVKGO_t6yE3_io4UiX4Je_D6jxumPWSw4W7r20YcyDOZdOxrTe4Iu-8XFVIzGGbbTxxW26EeYYDmIqyMbY7HbeJW7fsktHyhUN8zP26SWCuyyORD-srMzB5GJfRRw==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF41X8vZRtFPQsjjZeelrZ5vuCYmBuUqc9IrjDQLqYaJOghXSUj6NWgV2AqVnzGynsLw2_pXnF3qgFKpPsR2bglaWxVHZnx97xEPiQOYIJCYFCZEIEcZ9qoJVdGgkzrRGUYHA7XO1qWXB45k8oJn1H_oVI5lYA5PRK4Xjr2rKpI-xhvqgpiSj-7RPYt6x6vSao_gBc5ohdzSV6kNhzYXzJ52dVgSvZ9qKZAmKEfuQRZNraEVQltBgmdKZw9uvWZnb5NMYo=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG46ee-PHX4ZXe--onB3TPN7A-61y4GiUiQsglhKizLEsBi7IM-O_jZEqWmgdXZECNoUi_GppMlHMTvUgvYEiwCEq4qK_HnbKupPCJHiZrEGmDTtCWhOn0NwA71ckpWUedwvk0sKaSKe7EKe_HiZciFMrDI1UQ9PsysHg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQGw3Azl7NIhZhjuYfO6zH_UqRNuT6IhKeCyZ23ZOHyneLmIaDjrlGQ7qAbZwv4sookERB_da9AdBx1DEiBhsuOMfswdynt4u4s0Y5uJqt8Z0iooblh8ACUlBLLUakR_bkJg6HbfyqlgwLAqn0FbvzVYUIqZXsI_GH4XSNsE34mm0Z2ciTW7XVa4KHKoThW4rPTpxFjf7R1KrJPll5RBDnuxUn3ON5wnTlskEH",
+            "title": "nfl.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "8dace4628b5501f371d075e554cef02e84369c52",
+        "aviCoreCommittedAt": "2026-09-14T20:22:06Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 84137,
+        "groundedMarketChars": 3316,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mu1p39wa-ad9b4e8d",
