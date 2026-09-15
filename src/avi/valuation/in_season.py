@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 import json
 
@@ -17,6 +18,7 @@ PLAYER_POINTS_ROOT = Path("data/raw/fantasypros/player_points")
 
 OFFENSIVE_POSITIONS = ("QB", "RB", "WR", "TE", "K")
 SLEEPER_STATE_URL = "https://api.sleeper.app/v1/state/nfl"
+ESPN_SCOREBOARD_URL = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard"
 TARGET_SEASON = 2026
 
 
@@ -27,11 +29,50 @@ def _float(value: Any) -> float | None:
         return None
 
 
-def _nfl_state() -> dict[str, Any]:
-    request = Request(SLEEPER_STATE_URL, headers={"User-Agent": "AVI-Core/2026.2"})
+def _get_json(url: str) -> dict[str, Any]:
+    request = Request(url, headers={"User-Agent": "AVI-Core/2026.2"})
     with urlopen(request, timeout=15) as response:
         payload = json.loads(response.read().decode("utf-8"))
     return payload if isinstance(payload, dict) else {}
+
+
+def _nfl_state() -> dict[str, Any]:
+    return _get_json(SLEEPER_STATE_URL)
+
+
+def _espn_week_complete(week: int) -> bool | None:
+    """Return True only when ESPN shows every regular-season game final.
+
+    This independently verifies week completion so AVI does not have to wait for
+    Sleeper's global NFL state to roll to the next week. None means the schedule
+    could not be verified and the caller should fall back to the conservative
+    Sleeper-state rule.
+    """
+    if week < 1 or week > 18:
+        return False
+
+    query = urlencode({"seasontype": 2, "week": week, "year": TARGET_SEASON})
+    try:
+        payload = _get_json(f"{ESPN_SCOREBOARD_URL}?{query}")
+    except Exception:
+        return None
+
+    events = payload.get("events")
+    if not isinstance(events, list) or len(events) < 12:
+        return None
+
+    completed = 0
+    for event in events:
+        if not isinstance(event, dict):
+            return None
+        status = event.get("status")
+        status_type = status.get("type") if isinstance(status, dict) else None
+        if not isinstance(status_type, dict):
+            return None
+        if status_type.get("completed") is True:
+            completed += 1
+
+    return completed == len(events)
 
 
 def _registry_by_fantasypros_id() -> dict[str, dict[str, Any]]:
@@ -100,7 +141,12 @@ def _load_current_points() -> tuple[dict[str, dict[str, Any]], int, int]:
     return by_avi, max_week, mapped_records
 
 
-def _fresh_completed_week_available(state: dict[str, Any], max_observed_week: int, mapped_records: int) -> tuple[bool, int]:
+def _fresh_completed_week_available(
+    state: dict[str, Any],
+    max_observed_week: int,
+    mapped_records: int,
+    current_week_complete: bool | None = None,
+) -> tuple[bool, int]:
     season = int(state.get("season") or 0)
     season_type = str(state.get("season_type") or "").lower()
     current_week = int(state.get("week") or 0)
@@ -114,12 +160,23 @@ def _fresh_completed_week_available(state: dict[str, Any], max_observed_week: in
         return False, 0
 
     if season_type == "regular":
-        # Only consume completed weeks. During Week 1 there are no completed 2026
-        # games yet. A stale prior-season payload with weeks through 17/18 also fails
-        # this test rather than being mistaken for current production.
-        completed_through = current_week - 1
-        fresh = completed_through >= 1 and 1 <= max_observed_week <= completed_through
-        return fresh, completed_through
+        # Reject impossible/stale feeds first. A prior-season payload extending
+        # through Week 17/18 must never be mistaken for current production.
+        if max_observed_week < 1 or max_observed_week > current_week:
+            completed_through = max(current_week - 1, 0)
+            return False, completed_through
+
+        # Normal path: Sleeper has already advanced to the next NFL week.
+        if max_observed_week <= current_week - 1:
+            return True, max_observed_week
+
+        # Same-week path: FantasyPros already contains this week's production but
+        # Sleeper has not rolled its global state yet. Activate as soon as an
+        # independent NFL schedule source confirms every game in the week is final.
+        if max_observed_week == current_week and current_week_complete is True:
+            return True, current_week
+
+        return False, max(current_week - 1, 0)
 
     # Postseason: all regular-season weeks are complete.
     return max_observed_week >= 1, max_observed_week
@@ -141,18 +198,31 @@ def _player_point_components(points: dict[str, dict[str, Any]]) -> dict[str, flo
 def apply_in_season_transition() -> dict[str, Any]:
     """Transition C-AVI globally from preseason to the approved in-season mix.
 
-    The base 2026.2 model already defines the in-season C-AVI weights as 10%
-    actual player points, 40% refreshed projections, 10% league context, 30%
-    public market, and 10% elite upside. This postprocessor activates that mix
-    only after a completed current-season week is verifiably present in the
-    FantasyPros player-points feed.
+    The base 2026.2 model defines the in-season C-AVI weights as 10% actual
+    player points, 40% refreshed projections, 10% league context, 30% public
+    market, and 10% elite upside. The transition activates immediately after a
+    completed current-season week is verified. Sleeper advancing to the next
+    week is accepted, but is no longer required: ESPN's NFL scoreboard can
+    independently confirm that all games in the current week are final.
     """
     if not AVI_PLAYERS_PATH.exists() or not AVI_MANIFEST_PATH.exists() or not REGISTRY_PATH.exists():
         return {"status": "skipped", "reason": "required AVI files unavailable"}
 
     state = _nfl_state()
     points, max_week, mapped_records = _load_current_points()
-    active, completed_through = _fresh_completed_week_available(state, max_week, mapped_records)
+
+    current_week_complete: bool | None = None
+    current_week = int(state.get("week") or 0)
+    season_type = str(state.get("season_type") or "").lower()
+    if season_type == "regular" and max_week == current_week and current_week >= 1:
+        current_week_complete = _espn_week_complete(current_week)
+
+    active, completed_through = _fresh_completed_week_available(
+        state,
+        max_week,
+        mapped_records,
+        current_week_complete=current_week_complete,
+    )
     manifest = read_json(AVI_MANIFEST_PATH)
     if not isinstance(manifest, dict):
         raise RuntimeError("AVI manifest must contain an object.")
@@ -165,7 +235,9 @@ def apply_in_season_transition() -> dict[str, Any]:
         "completed_through_week": completed_through,
         "fantasypros_max_observed_week": max_week,
         "mapped_player_point_records": mapped_records,
-        "activation_policy": "Use only verified completed 2026 regular-season weeks; stale or partial player-points feeds do not activate the transition.",
+        "current_week_schedule_complete": current_week_complete,
+        "completion_sources": ["Sleeper NFL state", "ESPN NFL scoreboard"],
+        "activation_policy": "Activate after a completed 2026 week is verified. Sleeper advancing to the next week or ESPN confirming every game final is sufficient; stale or partial player-points feeds never activate the transition.",
     }
 
     if not active:
