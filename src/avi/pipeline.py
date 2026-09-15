@@ -17,6 +17,10 @@ from avi.validation.source import (
     validate_fantasypros,
     validate_sleeper,
 )
+from avi.valuation.availability_adjustments import (
+    apply_injury_availability_adjustments,
+    recalculate_davi_from_final_cavi,
+)
 from avi.valuation.in_season import apply_in_season_transition
 from avi.valuation.risk_adjustments import apply_cavi_risk_adjustments
 
@@ -38,9 +42,9 @@ def run_daily_update(
     incomplete or invalid source data.
 
     C-AVI always flows through the same ordered valuation path:
-    base calculation -> verified in-season transition -> exceptional
-    current-season risk adjustments -> downstream reports -> publication
-    integrity validation.
+    base calculation -> verified in-season transition -> projection-aware
+    injury availability ceiling -> exceptional current-season risk adjustments
+    -> final D-AVI refresh -> downstream reports -> publication validation.
     """
     started_at = datetime.now(
         UTC
@@ -86,8 +90,16 @@ def run_daily_update(
             apply_in_season_transition,
         ),
         (
+            "apply_injury_availability_adjustments",
+            apply_injury_availability_adjustments,
+        ),
+        (
             "apply_cavi_risk_adjustments",
             apply_cavi_risk_adjustments,
+        ),
+        (
+            "recalculate_davi_from_final_cavi",
+            recalculate_davi_from_final_cavi,
         ),
         (
             "build_draft_pick_values",
