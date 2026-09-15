@@ -115,3 +115,66 @@ def test_inactive_players_are_excluded() -> None:
         lineup.slots[0].player["canonical_name"]
         == "Active QB"
     )
+
+
+def test_injured_reserve_player_is_not_a_projected_starter() -> None:
+    players = [
+        {
+            "avi_id": "wr-ir",
+            "canonical_name": "IR Star",
+            "position": "WR",
+            "c_avi": 90.0,
+            "c_avi_availability_adjustment": {
+                "reason_code": "injured_reserve",
+                "status": "ir inactive",
+                "adjusted_c_avi": 75.0,
+            },
+        },
+        {
+            "avi_id": "wr-healthy",
+            "canonical_name": "Healthy WR",
+            "position": "WR",
+            "c_avi": 68.0,
+        },
+    ]
+
+    lineup = build_championship_lineup(
+        players=players,
+        starter_counts={
+            "WR": 1,
+        },
+    )
+
+    assert len(lineup.slots) == 1
+    assert lineup.slots[0].player["canonical_name"] == "Healthy WR"
+
+
+def test_questionable_player_remains_projected_lineup_eligible() -> None:
+    players = [
+        {
+            "avi_id": "rb-q",
+            "canonical_name": "Questionable RB",
+            "position": "RB",
+            "c_avi": 80.0,
+            "c_avi_availability_adjustment": {
+                "reason_code": "questionable",
+                "status": "questionable",
+                "adjusted_c_avi": 80.0,
+            },
+        },
+        {
+            "avi_id": "rb-2",
+            "canonical_name": "Healthy RB",
+            "position": "RB",
+            "c_avi": 70.0,
+        },
+    ]
+
+    lineup = build_championship_lineup(
+        players=players,
+        starter_counts={
+            "RB": 1,
+        },
+    )
+
+    assert lineup.slots[0].player["canonical_name"] == "Questionable RB"
