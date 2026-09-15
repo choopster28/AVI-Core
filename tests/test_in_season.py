@@ -4,11 +4,23 @@ from avi.valuation.in_season import _fresh_completed_week_available, _player_poi
 def test_week_one_does_not_activate_before_completed_games():
     active, completed = _fresh_completed_week_available(
         {"season": "2026", "season_type": "regular", "week": 1},
-        max_observed_week=18,
+        max_observed_week=1,
         mapped_records=200,
+        current_week_complete=False,
     )
     assert active is False
     assert completed == 0
+
+
+def test_week_one_activates_as_soon_as_schedule_is_complete():
+    active, completed = _fresh_completed_week_available(
+        {"season": "2026", "season_type": "regular", "week": 1},
+        max_observed_week=1,
+        mapped_records=200,
+        current_week_complete=True,
+    )
+    assert active is True
+    assert completed == 1
 
 
 def test_stale_prior_season_points_never_activate_in_week_two():
@@ -29,6 +41,28 @@ def test_completed_week_one_activates_during_week_two():
     )
     assert active is True
     assert completed == 1
+
+
+def test_current_week_waits_if_schedule_completion_cannot_be_verified():
+    active, completed = _fresh_completed_week_available(
+        {"season": "2026", "season_type": "regular", "week": 2},
+        max_observed_week=2,
+        mapped_records=200,
+        current_week_complete=None,
+    )
+    assert active is False
+    assert completed == 1
+
+
+def test_current_week_two_activates_when_all_games_are_final():
+    active, completed = _fresh_completed_week_available(
+        {"season": "2026", "season_type": "regular", "week": 2},
+        max_observed_week=2,
+        mapped_records=200,
+        current_week_complete=True,
+    )
+    assert active is True
+    assert completed == 2
 
 
 def test_partial_feed_does_not_activate():
