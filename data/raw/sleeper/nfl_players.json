@@ -14736,10 +14736,10 @@
     "fantasy_positions": [
       "LB"
     ],
-    "first_name": "Robert",
-    "full_name": "Robert Beal",
+    "first_name": "Rob",
+    "full_name": "Rob Beal",
     "gsis_id": null,
-    "hashtag": "#robertbeal-NFL-MIA-51",
+    "hashtag": "#robbeal-NFL-MIA-51",
     "height": "76",
     "high_school": "Peachtree Ridge (GA)",
     "injury_body_part": null,
@@ -14765,8 +14765,8 @@
     "practice_participation": null,
     "rotowire_id": 16781,
     "rotoworld_id": null,
-    "search_first_name": "robert",
-    "search_full_name": "robertbeal",
+    "search_first_name": "rob",
+    "search_full_name": "robbeal",
     "search_last_name": "beal",
     "search_rank": 9999999,
     "sport": "nfl",
@@ -15073,7 +15073,7 @@
     "sport": "nfl",
     "sportradar_id": "b3523130-926a-4d1c-bfde-775975583398",
     "stats_id": null,
-    "status": "Active",
+    "status": "Inactive",
     "swish_id": 1172084,
     "team": "HOU",
     "team_abbr": null,
@@ -48776,7 +48776,7 @@
     "team": "DET",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "175",
+    "weight": "176",
     "yahoo_id": null,
     "years_exp": 3
   },
@@ -49252,7 +49252,7 @@
     "team": "GB",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "195",
+    "weight": "193",
     "yahoo_id": null,
     "years_exp": 3
   },
@@ -54172,7 +54172,7 @@
       "genius_id": "1463652",
       "rookie_year": "2024"
     },
-    "news_updated": 1789446309511,
+    "news_updated": 1789475713974,
     "number": 10,
     "oddsjam_id": "AC5A5CA4A398",
     "opta_id": null,
@@ -58253,7 +58253,7 @@
       "genius_id": "1463654",
       "rookie_year": "2024"
     },
-    "news_updated": 1789474514085,
+    "news_updated": 1789479912609,
     "number": 1,
     "oddsjam_id": "BE9B03378DEB",
     "opta_id": null,
@@ -58436,7 +58436,7 @@
       "genius_id": "1463733",
       "rookie_year": "2024"
     },
-    "news_updated": 1788469507396,
+    "news_updated": 1789476913954,
     "number": 11,
     "oddsjam_id": "63B7DC65FD9D",
     "opta_id": null,
@@ -116043,7 +116043,7 @@
       "rookie_year": "2025",
       "source_id": "94c3c50f-def5-4f33-9fca-807558d19c6e"
     },
-    "news_updated": 1789444509329,
+    "news_updated": 1789476313528,
     "number": 12,
     "oddsjam_id": "946284FA139C8D43",
     "opta_id": null,
@@ -116286,7 +116286,7 @@
       "rookie_year": "2025",
       "source_id": "e7af373f-e0f6-4e57-99f4-c7981087250e"
     },
-    "news_updated": 1789278348657,
+    "news_updated": 1789476913983,
     "number": 13,
     "oddsjam_id": "35DF24DDDDAB32DD",
     "opta_id": null,
@@ -149380,7 +149380,7 @@
     "first_name": "Brock",
     "full_name": "Brock Lampe",
     "gsis_id": null,
-    "hashtag": "#brocklampe-NFL-SEA-45",
+    "hashtag": "#brocklampe-NFL-BUF-45",
     "height": "73",
     "high_school": "Bradford (PA)",
     "injury_body_part": null,
@@ -149415,7 +149415,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": null,
-    "team": "SEA",
+    "team": "BUF",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "249",
@@ -173725,7 +173725,7 @@
       "rookie_year": "2026",
       "source_id": "fa469cc0-91e6-11ec-9587-0f8fa2cff168"
     },
-    "news_updated": 1789278048503,
+    "news_updated": 1789476313930,
     "number": 20,
     "oddsjam_id": null,
     "opta_id": null,
@@ -188178,7 +188178,7 @@
     "team": "HOU",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "310",
+    "weight": "318",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -205404,7 +205404,7 @@
     "team": "HOU",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "226",
+    "weight": "234",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -214261,7 +214261,7 @@
     "team": "GB",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "186",
+    "weight": "196",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -342899,7 +342899,7 @@
     "team": "BAL",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "257",
+    "weight": "261",
     "yahoo_id": 29328,
     "years_exp": 10
   },
@@ -370243,7 +370243,7 @@
       "genius_id": "942820",
       "rookie_year": "2016"
     },
-    "news_updated": 1787425825358,
+    "news_updated": 1789477514567,
     "number": 3,
     "oddsjam_id": "62EC7DE5A76E",
     "opta_id": null,
@@ -395178,7 +395178,7 @@
       "injury_override_regular_2024_15": "IR",
       "rookie_year": "2017"
     },
-    "news_updated": 1789307452642,
+    "news_updated": 1789476913969,
     "number": 1,
     "oddsjam_id": "96FE42308EDC",
     "opta_id": null,
@@ -400571,7 +400571,7 @@
       "genius_id": "999821",
       "rookie_year": "2017"
     },
-    "news_updated": 1789360861130,
+    "news_updated": 1789480512637,
     "number": 34,
     "oddsjam_id": "192F6515EE16",
     "opta_id": null,
@@ -452425,7 +452425,7 @@
       "genius_id": "1010757",
       "rookie_year": "2018"
     },
-    "news_updated": 1789429208578,
+    "news_updated": 1789480513358,
     "number": 14,
     "oddsjam_id": "C635DED129E7",
     "opta_id": null,
@@ -459281,7 +459281,7 @@
       "genius_id": "1009133",
       "rookie_year": "2018"
     },
-    "news_updated": 1789445109300,
+    "news_updated": 1789476313542,
     "number": 14,
     "oddsjam_id": "8EC2956310D2",
     "opta_id": null,
@@ -530771,7 +530771,7 @@
       "genius_id": "1005272",
       "rookie_year": "2019"
     },
-    "news_updated": 1789436108574,
+    "news_updated": 1789478412496,
     "number": 26,
     "oddsjam_id": "DDCECFDCCA3D",
     "opta_id": null,
@@ -573365,7 +573365,7 @@
       "injury_override_regular_2024_13": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1789444509319,
+    "news_updated": 1789476313561,
     "number": 27,
     "oddsjam_id": "7DF78280F623",
     "opta_id": null,
@@ -620974,7 +620974,7 @@
       "genius_id": "1081537",
       "rookie_year": "2021"
     },
-    "news_updated": 1789445408710,
+    "news_updated": 1789475713945,
     "number": 17,
     "oddsjam_id": "100F669A3109",
     "opta_id": null,
@@ -665984,7 +665984,7 @@
     "first_name": "Tyler",
     "full_name": "Tyler Goodson",
     "gsis_id": null,
-    "hashtag": "#tylergoodson-NFL-ATL-25",
+    "hashtag": "#tylergoodson-NFL-DAL-25",
     "height": "69",
     "high_school": "North Gwinnett (GA)",
     "injury_body_part": null,
@@ -666019,7 +666019,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 1168918,
-    "team": "ATL",
+    "team": "DAL",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "197",
@@ -685989,7 +685989,7 @@
     "team": "BAL",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "320",
+    "weight": "312",
     "yahoo_id": null,
     "years_exp": 4
   },
@@ -719105,7 +719105,7 @@
       "genius_id": "1398986",
       "rookie_year": "2023"
     },
-    "news_updated": 1789434610039,
+    "news_updated": 1789476913941,
     "number": 19,
     "oddsjam_id": "8CF89A8C53F6",
     "opta_id": null,
