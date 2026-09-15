@@ -74,6 +74,7 @@ jobs:
             data/processed/avi/manifest.json \
             data/processed/reports/player_lookup.json \
             data/processed/reports/team_profiles_manifest.json \
+            knowledge/03_AVI_Player_Current_Team_Lookup.md \
             knowledge/teams
 
           if git diff --cached --quiet; then
