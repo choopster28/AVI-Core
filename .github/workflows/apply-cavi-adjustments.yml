@@ -8,6 +8,7 @@ on:
     paths:
       - "data/manual/cavi_risk_adjustments.json"
       - "src/avi/valuation/in_season.py"
+      - "src/avi/valuation/availability_adjustments.py"
       - "src/avi/valuation/risk_adjustments.py"
       - ".github/workflows/apply-cavi-adjustments.yml"
 
@@ -43,16 +44,22 @@ jobs:
       - name: Run valuation tests
         run: python -m pytest -q
 
-      - name: Apply current valuation state and exceptional risk adjustments
+      - name: Apply current valuation state and availability/risk adjustments
         run: |
           python - <<'PY'
           from avi.valuation.in_season import apply_in_season_transition
+          from avi.valuation.availability_adjustments import (
+              apply_injury_availability_adjustments,
+              recalculate_davi_from_final_cavi,
+          )
           from avi.valuation.risk_adjustments import apply_cavi_risk_adjustments
           from avi.reports.team_profiles import build_team_profiles
           from avi.reports.player_lookup import build_player_lookup
 
           print("In-season transition:", apply_in_season_transition())
+          print("Injury availability:", apply_injury_availability_adjustments())
           print("Risk adjustments:", apply_cavi_risk_adjustments())
+          print("Final D-AVI refresh:", recalculate_davi_from_final_cavi())
           build_team_profiles()
           build_player_lookup()
           PY
