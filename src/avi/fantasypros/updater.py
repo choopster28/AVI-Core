@@ -13,10 +13,13 @@ from avi.fantasypros.checkpoint import (
     reset_checkpoint,
 )
 from avi.fantasypros.client import FantasyProsClient
-from avi.io import write_json
+from avi.identity.resolver import extract_fantasypros_players
+from avi.io import read_json, write_json
 
 
 RAW = Path("data/raw/fantasypros")
+MIN_FANTASYPROS_PLAYERS = 300
+MIN_OFFENSIVE_PLAYERS = 250
 
 POSITIONS = (
     "QB",
@@ -75,6 +78,78 @@ def download_dataset(
     return payload
 
 
+def _player_directory_counts(payload: Any) -> tuple[int, int]:
+    try:
+        players = extract_fantasypros_players(payload)
+    except Exception:
+        return 0, 0
+
+    offensive = [
+        player
+        for player in players
+        if player.get("position") in {"QB", "RB", "WR", "TE"}
+    ]
+    return len(players), len(offensive)
+
+
+def _player_directory_is_sane(payload: Any) -> bool:
+    total, offensive = _player_directory_counts(payload)
+    return total >= MIN_FANTASYPROS_PLAYERS and offensive >= MIN_OFFENSIVE_PLAYERS
+
+
+def _download_players_with_fallback(
+    *,
+    checkpoint: dict[str, Any],
+    client: FantasyProsClient,
+    warnings: list[str],
+) -> None:
+    """Refresh the FantasyPros player directory without destroying a known-good baseline.
+
+    FantasyPros can occasionally return a syntactically valid but empty/tiny player
+    directory. Identity resolution depends on this file, so an invalid response must
+    never overwrite the last verified directory. If the new response is implausible,
+    preserve a sane checked-in copy and continue the run with an explicit warning.
+    """
+    output_path = RAW / "players.json"
+    dataset_key = "players"
+
+    if is_completed(checkpoint, dataset_key) and output_path.exists():
+        print(f"Skipping completed dataset: {dataset_key}")
+        return
+
+    print(f"Downloading: {dataset_key}")
+    try:
+        payload = client.players()
+    except Exception:
+        mark_failed(checkpoint, dataset_key)
+        raise
+
+    total, offensive = _player_directory_counts(payload)
+    if _player_directory_is_sane(payload):
+        write_json(output_path, payload)
+        mark_completed(checkpoint, dataset_key)
+        return
+
+    fallback = read_json(output_path) if output_path.exists() else None
+    fallback_total, fallback_offensive = _player_directory_counts(fallback)
+    if fallback is not None and _player_directory_is_sane(fallback):
+        warning = (
+            "FantasyPros player directory refresh was implausibly small "
+            f"({total} total / {offensive} offensive); preserved last-known-good "
+            f"directory ({fallback_total} total / {fallback_offensive} offensive)."
+        )
+        warnings.append(warning)
+        print(f"WARNING: {warning}")
+        mark_completed(checkpoint, dataset_key)
+        return
+
+    mark_failed(checkpoint, dataset_key)
+    raise RuntimeError(
+        "FantasyPros player directory refresh is invalid and no sane fallback exists: "
+        f"{total} total / {offensive} offensive."
+    )
+
+
 def update(config: AviConfig) -> dict[str, Any]:
     client = FantasyProsClient(
         config.fantasypros_base_url,
@@ -97,11 +172,10 @@ def update(config: AviConfig) -> dict[str, Any]:
     )
     print()
 
-    download_dataset(
+    _download_players_with_fallback(
         checkpoint=checkpoint,
-        dataset_key="players",
-        output_path=RAW / "players.json",
-        downloader=client.players,
+        client=client,
+        warnings=warnings,
     )
 
     download_dataset(
