@@ -10,7 +10,7 @@ from avi.valuation.calculator import DAVIComponents, calculate_d_avi
 AVI_PLAYERS_PATH = Path("data/processed/avi/avi_players.json")
 AVI_MANIFEST_PATH = Path("data/processed/avi/manifest.json")
 REGISTRY_PATH = Path("data/processed/identity/avi_player_registry.json")
-SLEEPER_PLAYERS_PATH = Path("data/raw/nfl_players.json")
+SLEEPER_PLAYERS_PATH = Path("data/raw/sleeper/nfl_players.json")
 FANTASYPROS_INJURIES_PATH = Path("data/raw/fantasypros/injuries.json")
 
 FANTASY_CHAMPIONSHIP_END_WEEK = 17
@@ -141,13 +141,18 @@ def _expected_missed_weeks(state: dict[str, Any], current_week: int) -> tuple[fl
     if any(phrase in comment for phrase in ("season ending", "season-ending", "out for season", "remainder of the season", "miss the rest of the season")):
         return float(remaining), "season_ending"
 
-    hard_ir = any(token in status for token in ("injured reserve", " ir ", "reserve injured", "pup", "nfi"))
-    if status.strip() in {"ir", "pup", "nfi"}:
-        hard_ir = True
+    status_tokens = set(status.split())
+    hard_ir = (
+        "injured reserve" in status
+        or "reserve injured" in status
+        or "ir" in status_tokens
+        or "pup" in status_tokens
+        or "nfi" in status_tokens
+    )
     if hard_ir:
         return min(float(remaining), max(4.0, ir_weeks)), "injured_reserve"
 
-    if "out" in status:
+    if "out" in status_tokens or "out" in status:
         return min(1.0, float(remaining)), "out"
 
     fantasypros = state.get("fantasypros") if isinstance(state.get("fantasypros"), dict) else {}
