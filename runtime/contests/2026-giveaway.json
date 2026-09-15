@@ -250,7 +250,7 @@
     {
       "orgId": "rapid-valley",
       "orgName": "Rapid Valley Annihilation",
-      "updatedAt": "2026-08-17T13:41:34.419Z",
+      "updatedAt": "2026-09-15T17:20:18.401Z",
       "answers": [
         {
           "team": "Badland Banditos",
@@ -269,10 +269,11 @@
           "tiebreaker": "97"
         },
         {
-          "team": "Big Balder Brand",
-          "tiebreaker": "179"
+          "team": "All Hail King Jesus",
+          "tiebreaker": "40"
         }
-      ]
+      ],
+      "week2UpdatedAt": "2026-09-15T17:20:18.401Z"
     },
     {
       "orgId": "ravens-regime",
