@@ -1630,7 +1630,7 @@
       "player_name": "KeAndre Lambert-Smith",
       "position": "WR",
       "sleeper_id": "12670",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -4094,7 +4094,7 @@
       "position": "RB",
       "roster_id": 16,
       "sleeper_id": "12469",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
     },
