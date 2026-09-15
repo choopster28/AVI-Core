@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 622.8
-- championship_lineup_c_avi_avg: 77.85
+- championship_lineup_c_avi_sum: 581.0
+- championship_lineup_c_avi_avg: 72.62
 - offensive_roster_c_avi_sum: 913.5
 - offensive_roster_c_avi_avg: 57.09
 - offensive_roster_d_avi_sum: 1081.7
@@ -35,9 +35,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Bucky Irving | C-AVI: 77.9 | D-AVI: 84.7
 - WR: Ja'Marr Chase | C-AVI: 93.4 | D-AVI: 98.9
 - WR: Terry McLaurin | C-AVI: 70.8 | D-AVI: 79.9
-- TE: Brock Bowers | C-AVI: 89.2 | D-AVI: 91.9
+- TE: Cade Otton | C-AVI: 54.4 | D-AVI: 60.3
 - FLEX: Brian Thomas | C-AVI: 64.1 | D-AVI: 81.4
-- FLEX: Cade Otton | C-AVI: 54.4 | D-AVI: 60.3
+- FLEX: Tre Tucker | C-AVI: 47.4 | D-AVI: 63.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.

@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 644.4
-- championship_lineup_c_avi_avg: 80.55
+- championship_lineup_c_avi_sum: 634.0
+- championship_lineup_c_avi_avg: 79.25
 - offensive_roster_c_avi_sum: 941.8
 - offensive_roster_c_avi_avg: 62.79
 - offensive_roster_d_avi_sum: 1038.7
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 78.1 | D-AVI: 78.7
 - RB: D'Andre Swift | C-AVI: 80.3 | D-AVI: 83.0
-- RB: Zach Charbonnet | C-AVI: 46.0 | D-AVI: 70.0
+- RB: Chris Brooks | C-AVI: 35.6 | D-AVI: 41.8
 - WR: Amon-Ra St. Brown | C-AVI: 98.7 | D-AVI: 98.6
 - WR: Justin Jefferson | C-AVI: 97.7 | D-AVI: 98.0
 - TE: Dallas Goedert | C-AVI: 83.5 | D-AVI: 75.0

@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 613.5
-- championship_lineup_c_avi_avg: 76.69
+- championship_lineup_c_avi_sum: 578.0
+- championship_lineup_c_avi_avg: 72.25
 - offensive_roster_c_avi_sum: 986.2
 - offensive_roster_c_avi_avg: 54.79
 - offensive_roster_d_avi_sum: 1242.1
@@ -33,11 +33,11 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - QB: Lamar Jackson | C-AVI: 95.7 | D-AVI: 88.9
 - RB: Derrick Henry | C-AVI: 92.5 | D-AVI: 83.5
 - RB: Kyle Monangai | C-AVI: 61.6 | D-AVI: 75.6
-- WR: Zay Flowers | C-AVI: 91.8 | D-AVI: 92.4
 - WR: Carnell Tate | C-AVI: 67.9 | D-AVI: 88.1
+- WR: KC Concepcion | C-AVI: 56.8 | D-AVI: 77.8
 - TE: Kyle Pitts | C-AVI: 75.5 | D-AVI: 82.9
 - FLEX: Isaiah Likely | C-AVI: 71.7 | D-AVI: 74.8
-- FLEX: KC Concepcion | C-AVI: 56.8 | D-AVI: 77.8
+- FLEX: Jacory Croskey-Merritt | C-AVI: 56.3 | D-AVI: 69.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.

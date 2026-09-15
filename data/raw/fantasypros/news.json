@@ -3,6 +3,42 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 16:28:07",
+      "created_formated": "Tue, Sep 15th 4:28pm UTC",
+      "desc": "C.J. Stroud connected on 26-of-38 passes for 274 yards and two touchdowns in Sunday's 36-31 loss to the Bills. ",
+      "id": 608097,
+      "impact": "Stroud added 15 yards on a couple of carries and did not throw an interception in Sunday's season opener. He did lose a couple of fumbles, however, as the Texans took a loss in this Week 1 shootout. Still, this was an encouraging start for the third-year QB, and he's certainly at least going to be on the streaming radar for a Week 2 matchup with the Bengals. ",
+      "link": "https://www.fantasypros.com/nfl/news/608097/cj-stroud-plays-well-week-1-loss.php",
+      "player_id": 23071,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "C.J. Stroud plays well in Week 1 loss"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 16:24:21",
+      "created_formated": "Tue, Sep 15th 4:24pm UTC",
+      "desc": "Woody Marks rushed for 42 yards on nine carries and caught his only target for a two-yard loss in Sunday's 36-31 loss to the Bills. ",
+      "id": 608096,
+      "impact": "Marks was certainly involved in the offense behind new workhorse back David Montgomery on Sunday. Marks averaged close to 5.0 yards per carry on his nine attempts. He'll remain a useful handcuff to Montgomery for now. ",
+      "link": "https://www.fantasypros.com/nfl/news/608096/woody-marks-gets-10-touches-week-1.php",
+      "player_id": 27520,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Woody Marks gets 10 touches in Week 1"
+    },
+    {
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
@@ -413,40 +449,6 @@
       "sport_id": "NFL",
       "team_id": "BAL",
       "title": "T.J. Tampa Jr. (knee) to miss some time"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-15 15:12:30",
-      "created_formated": "Tue, Sep 15th 3:12pm UTC",
-      "desc": "The Bills released OL Nick Broeker. ",
-      "id": 608062,
-      "impact": "Broeker will seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/608062/nick-broeker-released-by-bills.php",
-      "player_id": 23481,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Nick Broeker released by Bills"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-15 15:11:32",
-      "created_formated": "Tue, Sep 15th 3:11pm UTC",
-      "desc": "The Bills signed FB Brock Lampe to their practice squad. ",
-      "id": 608061,
-      "impact": "Lampe will add depth for Buffalo. ",
-      "link": "https://www.fantasypros.com/nfl/news/608061/brock-lampe-signs-with-bills.php",
-      "player_id": 27738,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Brock Lampe signs with Bills"
     }
   ],
   "public_api_limited": true,

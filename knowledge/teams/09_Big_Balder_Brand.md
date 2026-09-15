@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 699.3
-- championship_lineup_c_avi_avg: 87.41
+- championship_lineup_c_avi_sum: 689.5
+- championship_lineup_c_avi_avg: 86.19
 - offensive_roster_c_avi_sum: 1095.1
 - offensive_roster_c_avi_avg: 68.44
 - offensive_roster_d_avi_sum: 1229.8
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Rashee Rice | C-AVI: 88.8 | D-AVI: 91.7
 - TE: Trey McBride | C-AVI: 99.2 | D-AVI: 92.7
 - FLEX: Jeremiyah Love | C-AVI: 83.9 | D-AVI: 93.7
-- FLEX: A.J. Brown | C-AVI: 75.0 | D-AVI: 86.2
+- FLEX: Chris Godwin | C-AVI: 65.2 | D-AVI: 73.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.

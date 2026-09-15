@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 588.3
-- championship_lineup_c_avi_avg: 73.54
+- championship_lineup_c_avi_sum: 547.7
+- championship_lineup_c_avi_avg: 68.46
 - offensive_roster_c_avi_sum: 757.7
 - offensive_roster_c_avi_avg: 58.28
 - offensive_roster_d_avi_sum: 913.4
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 90.9 | D-AVI: 90.8
 - RB: Travis Etienne | C-AVI: 82.5 | D-AVI: 84.6
-- RB: TreVeyon Henderson | C-AVI: 62.6 | D-AVI: 83.9
+- RB: Josh Jacobs | C-AVI: 22.0 | D-AVI: 71.1
 - WR: Tetairoa McMillan | C-AVI: 84.1 | D-AVI: 93.5
 - WR: Luther Burden | C-AVI: 76.7 | D-AVI: 86.8
 - TE: Chig Okonkwo | C-AVI: 56.1 | D-AVI: 70.0
