@@ -17,6 +17,21 @@ FLEX_ELIGIBLE_POSITIONS = {
     "TE",
 }
 
+HARD_UNAVAILABLE_REASON_CODES = {
+    "injured_reserve",
+    "season_ending",
+    "out",
+}
+
+HARD_UNAVAILABLE_STATUS_TOKENS = {
+    "ir",
+    "inactive",
+    "injured reserve",
+    "reserve injured",
+    "pup",
+    "nfi",
+}
+
 
 @dataclass(frozen=True)
 class LineupSlot:
@@ -43,6 +58,36 @@ def _player_c_avi(
         return float(value)
     except (TypeError, ValueError):
         return 0.0
+
+
+def _projected_lineup_available(
+    player: dict[str, Any],
+) -> bool:
+    """Return False for players who cannot currently contribute to a lineup.
+
+    Routine injury availability is published by the post-model availability
+    layer. Projected lineups must honor that state independently of the player's
+    C-AVI so an elite player on IR cannot remain a modeled starter simply because
+    his residual championship value is still higher than a healthy backup.
+
+    Questionable/doubtful players remain eligible unless the source explicitly
+    marks them hard-unavailable. Their uncertainty is already reflected in C-AVI.
+    """
+    raw_status = str(player.get("status") or "").strip().lower().replace("_", " ").replace("-", " ")
+    if raw_status in HARD_UNAVAILABLE_STATUS_TOKENS:
+        return False
+
+    availability = player.get("c_avi_availability_adjustment")
+    if isinstance(availability, dict):
+        reason_code = str(availability.get("reason_code") or "").strip().lower()
+        if reason_code in HARD_UNAVAILABLE_REASON_CODES:
+            return False
+
+        adjustment_status = str(availability.get("status") or "").strip().lower().replace("_", " ").replace("-", " ")
+        if any(token in adjustment_status for token in HARD_UNAVAILABLE_STATUS_TOKENS):
+            return False
+
+    return True
 
 
 def _sort_players(
@@ -134,15 +179,17 @@ def build_championship_lineup(
     Autobots league structure.
 
     Kicker and IDP slots are intentionally excluded from AVI lineup
-    valuation. Only QB, RB, WR, TE, and FLEX are considered.
+    valuation. Only QB, RB, WR, TE, and FLEX are considered. Players who are
+    currently hard-unavailable (IR, season-ending, inactive, etc.) are excluded
+    from projected starter selection while retaining their published C-AVI as an
+    asset value.
     """
     available = [
         player
         for player in players
         if player.get("position")
         in OFFENSIVE_POSITIONS
-        and player.get("status")
-        != "inactive"
+        and _projected_lineup_available(player)
     ]
 
     slots: list[LineupSlot] = []
