@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 713.8
-- championship_lineup_c_avi_avg: 89.22
-- offensive_roster_c_avi_sum: 1109.6
-- offensive_roster_c_avi_avg: 69.35
-- offensive_roster_d_avi_sum: 1233.0
-- offensive_roster_d_avi_avg: 77.06
+- championship_lineup_c_avi_sum: 699.3
+- championship_lineup_c_avi_avg: 87.41
+- offensive_roster_c_avi_sum: 1095.1
+- offensive_roster_c_avi_avg: 68.44
+- offensive_roster_d_avi_sum: 1229.8
+- offensive_roster_d_avi_avg: 76.86
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Saquon Barkley | C-AVI: 90.9 | D-AVI: 90.4
 - RB: Omarion Hampton | C-AVI: 86.5 | D-AVI: 93.2
 - WR: Nico Collins | C-AVI: 92.1 | D-AVI: 94.4
-- WR: A.J. Brown | C-AVI: 89.5 | D-AVI: 88.6
+- WR: Rashee Rice | C-AVI: 88.8 | D-AVI: 91.7
 - TE: Trey McBride | C-AVI: 99.2 | D-AVI: 92.7
-- FLEX: Rashee Rice | C-AVI: 88.8 | D-AVI: 92.5
 - FLEX: Jeremiyah Love | C-AVI: 83.9 | D-AVI: 93.7
+- FLEX: A.J. Brown | C-AVI: 75.0 | D-AVI: 86.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -195,23 +195,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: A.J. Brown
-- Player name: A.J. Brown
-- Player ID: 5859
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: NE
-- Active: True
-- Status: Inactive
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 89.5
-- Dynasty AVI (D-AVI, 0-100): 88.6
-- Projected PPR points: 265.8
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
 ### PLAYER: Rashee Rice
 - Player name: Rashee Rice
 - Player ID: 10229
@@ -224,8 +207,25 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 88.8
-- Dynasty AVI (D-AVI, 0-100): 92.5
+- Dynasty AVI (D-AVI, 0-100): 91.7
 - Projected PPR points: 274.1
+- Category: offense
+- Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: A.J. Brown
+- Player name: A.J. Brown
+- Player ID: 5859
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NE
+- Active: True
+- Status: Inactive
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 75.0
+- Dynasty AVI (D-AVI, 0-100): 86.2
+- Projected PPR points: 265.8
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 

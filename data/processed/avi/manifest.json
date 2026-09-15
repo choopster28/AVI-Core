@@ -32,6 +32,18 @@
     "nfl_week": 2,
     "status": "active"
   },
+  "injury_availability_adjustments": {
+    "championship_horizon_end_week": 17,
+    "current_week": 2,
+    "players_capped": 1,
+    "players_evaluated": 480,
+    "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
+    "sources": [
+      "Sleeper NFL player injury status",
+      "FantasyPros injuries"
+    ],
+    "status": "active"
+  },
   "league_id": "1312185568032997376",
   "methodology_status": "active_2026_2_in_season",
   "methodology_version": "2026.2",
