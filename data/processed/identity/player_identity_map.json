@@ -4329,9 +4329,9 @@
     "sleeper_id": "5133"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "22976",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "ATL",
     "player_name": "Tyler Goodson",
     "position": "RB",

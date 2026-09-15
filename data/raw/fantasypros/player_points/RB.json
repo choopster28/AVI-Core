@@ -27,6 +27,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "jonah-coleman.php",
+      "games": 1,
+      "player_id": 27320,
+      "player_name": "Jonah Coleman",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "DEN",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 0.9,
       "filename": "keaton-mitchell.php",
       "games": 1,
@@ -128,6 +141,19 @@
       "team_id": "PHI",
       "weeks": {
         "1": 0.3
+      }
+    },
+    {
+      "average": 34.1,
+      "filename": "kenneth-walker-rb.php",
+      "games": 1,
+      "player_id": 23021,
+      "player_name": "Kenneth Walker III",
+      "points": 34.1,
+      "position_id": "RB",
+      "team_id": "KC",
+      "weeks": {
+        "1": 34.1
       }
     },
     {
@@ -245,6 +271,19 @@
       "team_id": "LAC",
       "weeks": {
         "1": 8.3
+      }
+    },
+    {
+      "average": 0,
+      "filename": "tyler-goodson.php",
+      "games": 1,
+      "player_id": 22976,
+      "player_name": "Tyler Goodson",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "ATL",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -638,6 +677,19 @@
       }
     },
     {
+      "average": 3.6,
+      "filename": "jk-dobbins.php",
+      "games": 1,
+      "player_id": 19245,
+      "player_name": "J.K. Dobbins",
+      "points": 3.6,
+      "position_id": "RB",
+      "team_id": "DEN",
+      "weeks": {
+        "1": 3.6
+      }
+    },
+    {
       "average": 0.3,
       "filename": "ray-davis.php",
       "games": 1,
@@ -1002,6 +1054,19 @@
       }
     },
     {
+      "average": 8.8,
+      "filename": "emmett-johnson.php",
+      "games": 1,
+      "player_id": 28107,
+      "player_name": "Emmett Johnson",
+      "points": 8.8,
+      "position_id": "RB",
+      "team_id": "KC",
+      "weeks": {
+        "1": 8.8
+      }
+    },
+    {
       "average": 9,
       "filename": "tyler-allgeier.php",
       "games": 1,
@@ -1064,6 +1129,19 @@
       "team_id": "NYG",
       "weeks": {
         "1": -0.6
+      }
+    },
+    {
+      "average": 8.1,
+      "filename": "rj-harvey.php",
+      "games": 1,
+      "player_id": 27142,
+      "player_name": "RJ Harvey",
+      "points": 8.1,
+      "position_id": "RB",
+      "team_id": "DEN",
+      "weeks": {
+        "1": 8.1
       }
     },
     {

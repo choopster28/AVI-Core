@@ -11373,10 +11373,10 @@
     "avi_id": "AVI-00008207",
     "canonical_name": "Tyler Goodson",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
-    "nfl_team": "ATL",
+    "nfl_team": "DAL",
     "normalized_name": "tyler goodson",
     "position": "RB",
     "source_ids": {

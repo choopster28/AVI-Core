@@ -3,328 +3,147 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Chris Schommer",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-14 23:53:59",
-      "created_formated": "Mon, Sep 14th 11:53pm UTC",
-      "desc": "Patrick Mahomes II (knee) is active for Week 1 for the Kansas City Chiefs against the Denver Broncos.",
-      "id": 607997,
-      "impact": "Mahomes II cleared through every obstacle in his way in recovering from a late-season knee injury in 2025-26, as the dynamic signal-caller looks to lead a revamped Kansas City offense back to the postseason beginning with the Week 1 divisional matchup against a disruptive Denver defense Monday night.",
-      "link": "https://www.fantasypros.com/nfl/news/607997/patrick-mahomes-ii-knee-active-week-1.php",
-      "player_id": 16413,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Patrick Mahomes II (knee) active for Week 1"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:50:24",
-      "created_formated": "Mon, Sep 14th 11:50pm UTC",
-      "desc": "Xavier Worthy (shoulder) is active for Week 1 for the Kansas City Chiefs against the Denver Broncos.",
-      "id": 607996,
-      "impact": "Worthy will suit up after being able to practice throughout the week for head coach Andy Reid, joining fellow wideout Rashee Rice (knee) in offering quarterback Patrick Mahomes a full complement of weapons against a strong Denver defense Monday night.",
-      "link": "https://www.fantasypros.com/nfl/news/607996/xavier-worthy-shoulder-active-week-1.php",
-      "player_id": 23019,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Xavier Worthy (shoulder) active for Week 1"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:47:54",
-      "created_formated": "Mon, Sep 14th 11:47pm UTC",
-      "desc": "Rashee Rice (knee) is active for Week 1 for the Kansas City Chiefs against the Denver Broncos.",
-      "id": 607995,
-      "impact": "Rice will suit up after progressing throughout the practice week and not suffering any issues in pregame activities, providing quarterback Patrick Mahomes with all of his pass-catching weapons against the Broncos Monday night.",
-      "link": "https://www.fantasypros.com/nfl/news/607995/rashee-rice-knee-active-week-1.php",
-      "player_id": 23113,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Rashee Rice (knee) active for Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:32:22",
-      "created_formated": "Mon, Sep 14th 11:32pm UTC",
-      "desc": "The Seahawks say Sam Darnold has a \"very unique\" soft-tissue injury.",
-      "id": 607994,
-      "impact": "Darnold's hip joint is unaffected. It is considered a short-term injury, meaning likely less than four weeks with him avoiding injured reserve. ",
-      "link": "https://www.fantasypros.com/nfl/news/607994/sam-darnold-dealing-with-unique-soft-tissue-injury.php",
-      "player_id": 17236,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Sam Darnold dealing with 'unique' soft-tissue injury"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:16:25",
-      "created_formated": "Mon, Sep 14th 11:16pm UTC",
-      "desc": "T.J. Sanders was a limited participant on Monday's estimated practice report.",
-      "id": 607993,
-      "impact": "It is a short week for Buffalo playing on Thursday. Sanders will have to be monitored in practice the next couple of days. ",
-      "link": "https://www.fantasypros.com/nfl/news/607993/tj-sanders-knee-limited-practice-monday.php",
-      "player_id": 27032,
+      "created": "2026-09-15 15:33:49",
+      "created_formated": "Tue, Sep 15th 3:33pm UTC",
+      "desc": "DJ Moore caught 5 of 8 targets for 100 yards and a touchdown in the Bills' 36-31 win over the Texans.",
+      "id": 608071,
+      "impact": "Moore looked good and re-invigorated in this game, showing off some of his old self against a Houston defense that didn't look like its normal self. His touchdown was a bit fluky, as the defensive back solely made a play on the ball and failed do to so, leaving no one around Moore while he walked in for a score. But, fantasy managers won't be complaining. Next up for DJ are the Detroit Lions, who just allowed big days for Chris Olave and Devaughn Vele on Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/608071/dj-moore-goes-100-yards-win-over-houston.php",
+      "player_id": 17265,
       "sport_id": "NFL",
       "team_id": "BUF",
-      "title": "T.J. Sanders (knee) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:15:38",
-      "created_formated": "Mon, Sep 14th 11:15pm UTC",
-      "desc": "Ty Johnson was a limited participant on Monday's estimated practice report. ",
-      "id": 607992,
-      "impact": "It is a short week for Buffalo playing on Thursday. Johnson will have to be monitored in practice the next couple of days. ",
-      "link": "https://www.fantasypros.com/nfl/news/607992/ty-johnson-hamstring-limited-practice-monday.php",
-      "player_id": 18406,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Ty Johnson (hamstring) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:14:22",
-      "created_formated": "Mon, Sep 14th 11:14pm UTC",
-      "desc": "Jordan Hancock was a full participant on Monday's estimated practice report. ",
-      "id": 607991,
-      "impact": "Hancock should be good to go despite it being a short week for Buffalo. ",
-      "link": "https://www.fantasypros.com/nfl/news/607991/jordan-hancock-quad-logs-full-practice-monday.php",
-      "player_id": 27125,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Jordan Hancock (quad) logs full practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:13:43",
-      "created_formated": "Mon, Sep 14th 11:13pm UTC",
-      "desc": "Bradley Chubb was a full participant on Monday's estimated practice report. ",
-      "id": 607990,
-      "impact": "Chubb should be good to go despite it being a short week for Buffalo. ",
-      "link": "https://www.fantasypros.com/nfl/news/607990/bradley-chubb-thumb-logs-full-practice-monday.php",
-      "player_id": 17277,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Bradley Chubb (thumb) logs full practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:12:45",
-      "created_formated": "Mon, Sep 14th 11:12pm UTC",
-      "desc": "Cole Bishop was a full participant on Monday's estimated practice report. ",
-      "id": 607989,
-      "impact": "Bishop should be good to go on a short week despite dealing with multiple injuries. ",
-      "link": "https://www.fantasypros.com/nfl/news/607989/cole-bishop-kneegroin-logs-full-practice-monday.php",
-      "player_id": 26229,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Cole Bishop (knee/groin) logs full practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:11:38",
-      "created_formated": "Mon, Sep 14th 11:11pm UTC",
-      "desc": "Terrel Bernard was estimated as a limited participant in practice on Monday. ",
-      "id": 607988,
-      "impact": "Bernard is on the injury report with a calf issue. He is likely to play on Thursday against the Lions. ",
-      "link": "https://www.fantasypros.com/nfl/news/607988/terrel-bernard-calf-estimated-limited-practice-monday.php",
-      "player_id": 23772,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Terrel Bernard (calf) estimated as limited practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:06:34",
-      "created_formated": "Mon, Sep 14th 11:06pm UTC",
-      "desc": "Christian Mahogany was estimated as a non-participant in practice on Monday. ",
-      "id": 607984,
-      "impact": "Mahogany left Sunday's game early with a knee injury. His status is uncertain on a short week. ",
-      "link": "https://www.fantasypros.com/nfl/news/607984/christian-mahogany-knee-estimated-missing-practice-monday.php",
-      "player_id": 25312,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Christian Mahogany (hip) estimated as missing practice Monday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:09:53",
-      "created_formated": "Mon, Sep 14th 11:09pm UTC",
-      "desc": "Christian Izien was a full participant in Monday's estimated practice. ",
-      "id": 607987,
-      "impact": "Izien did not play in Week 1. He will have a chance to play on Thursday. ",
-      "link": "https://www.fantasypros.com/nfl/news/607987/christian-izien-groin-logs-full-practice-monday.php",
-      "player_id": 25867,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Christian Izien (groin) logs full practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:08:41",
-      "created_formated": "Mon, Sep 14th 11:08pm UTC",
-      "desc": "Juice Scruggs was estimated as a limited participant in practice on Monday. ",
-      "id": 607986,
-      "impact": "It is an estimated injury report. Detroit has a short week playing on Thursday against the Bills. ",
-      "link": "https://www.fantasypros.com/nfl/news/607986/juice-scruggs-knee-limited-practice-monday.php",
-      "player_id": 25448,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Juice Scruggs (knee) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:07:36",
-      "created_formated": "Mon, Sep 14th 11:07pm UTC",
-      "desc": "Blake Miller was estimated as a non-participant in practice on Monday. ",
-      "id": 607985,
-      "impact": "Miller is on the injury report with a knee issue. It is a short week for Detroit. ",
-      "link": "https://www.fantasypros.com/nfl/news/607985/blake-miller-knee-estimated-missing-practice-monday.php",
-      "player_id": 27069,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Blake Miller (knee) estimated as missing practice Monday "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:06:04",
-      "created_formated": "Mon, Sep 14th 11:06pm UTC",
-      "desc": "Trey Smith (hip) is active for Week 1 for the Kansas City Chiefs against the Denver Broncos.",
-      "id": 607983,
-      "impact": "Smith will suit up after increasing practice activity throughout the week, providing a boost to a Kansas City offensive line without tackle Josh Simmons (back) against a disruptive Denver defensive front Monday night.",
-      "link": "https://www.fantasypros.com/nfl/news/607983/trey-smith-hip-active-week-1.php",
-      "player_id": 19241,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Trey Smith (hip) active for Week 1"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 23:03:39",
-      "created_formated": "Mon, Sep 14th 11:03pm UTC",
-      "desc": "Josh Simmons (back) is inactive for Week 1 for the Kansas City Chiefs against the Denver Broncos.",
-      "id": 607982,
-      "impact": "Simmons will not suit up for the Monday night divisional matchup after struggling to practice throughout the week, with rookie Kahlil Benson set to protect quarterback Patrick Mahomes against an aggressive Denver defensive front Monday night.",
-      "link": "https://www.fantasypros.com/nfl/news/607982/josh-simmons-back-inactive-week-1.php",
-      "player_id": 27026,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Josh Simmons (back) inactive for Week 1"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 22:51:54",
-      "created_formated": "Mon, Sep 14th 10:51pm UTC",
-      "desc": "The Eagles placed OL Landon Dickerson on injured reserve. ",
-      "id": 607981,
-      "impact": "McLane notes that Dickerson had been playing with various ailments. He will miss at least the next four games. ",
-      "link": "https://www.fantasypros.com/nfl/news/607981/landon-dickerson-placed-on-ir.php",
-      "player_id": 20149,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Landon Dickerson placed on IR"
+      "title": "DJ Moore goes for 100 yards in win over Houston"
     },
     {
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-14 21:45:33",
-      "created_formated": "Mon, Sep 14th 9:45pm UTC",
-      "desc": "Isiah Pacheco (back/knee) is out for at least the next 12 weeks after undergoing surgery to remove a body that was pressing a nerve on his neck. The plan is to have him back in early December.",
-      "id": 607963,
-      "impact": "It's a tough blow to Pacheco, who was already struggling with a knee injury. He's droppable in all formats, as his handcuff status for 2026 is pretty much out the window.",
-      "link": "https://www.fantasypros.com/nfl/news/607963/isiah-pacheco-backknee-out-12-weeks-after-undergoing-back-surgery.php",
-      "player_id": 24333,
+      "created": "2026-09-15 15:29:36",
+      "created_formated": "Tue, Sep 15th 3:29pm UTC",
+      "desc": "Dalton Kincaid caught five of six targets for 130 yards in the Bills' 36-31 win over the Texans on Sunday.",
+      "id": 608070,
+      "impact": "Kincaid had arguably his best game as a pro, acheiving a career-high 130 receiving yards in what should have been tough sledding against Houston. He tied with Khalil Shakir for second in targets on the Bills, but vastly outproduced Shakir in yards. His downfield usage was encouraging, and it's a promising start to his fourth season. Now to see if it keeps up.",
+      "link": "https://www.fantasypros.com/nfl/news/608070/dalton-kincaid-has-breakout-game-against-texans.php",
+      "player_id": 25247,
       "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Isiah Pacheco (back/knee) out for 12 weeks after undergoing back surgery"
+      "team_id": "BUF",
+      "title": "Dalton Kincaid has breakout game against Texans"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 15:27:32",
+      "created_formated": "Tue, Sep 15th 3:27pm UTC",
+      "desc": "Ka'imi Fairbairn made his only field-goal try and all four of his PATs in Sunday's 36-31 loss to the Bills. ",
+      "id": 608069,
+      "impact": "Fairbairn showed off his powerful leg in Sunday's loss, nailing a 58-yard attempt to briefly give the Texans a one-point lead in the fourth quarter. The veteran has been kicking for the Texans since 2017 and remains one of the more reliable options in the league. ",
+      "link": "https://www.fantasypros.com/nfl/news/608069/kaimi-fairbairn-puts-seven-points-on-board.php",
+      "player_id": 15756,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Ka'imi Fairbairn puts seven points on the board"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 15:24:53",
+      "created_formated": "Tue, Sep 15th 3:24pm UTC",
+      "desc": "James Cook III ran 13 times for 57 yards and caught three of four targets for 12 yards in the Bills' 36-31 win over the Texans on Sunday.",
+      "id": 608068,
+      "impact": "Cook was fine on his touches and was saved by his three receptions in PPR formats, but it fantasy managers will be hoping for more. He's still a premium running back, and he will get his chance early this week as the Bills play the Lions on Thursday night.",
+      "link": "https://www.fantasypros.com/nfl/news/608068/james-cook-iii-goes-69-yards-big-win-over-texans.php",
+      "player_id": 22958,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "James Cook III goes for 69 yards in big win over Texans"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 15:23:07",
+      "created_formated": "Tue, Sep 15th 3:23pm UTC",
+      "desc": "The Texans D/ST allowed 36 points on 409 yards of total offense while coming up with two sacks and no takeaways in Sunday's loss to the Bills. ",
+      "id": 608067,
+      "impact": "The Texans should feature a solid defensive unit this season, but they ran into a potent Bills' offense in Week 1. Powered by QB Josh Allen, the Bills shredded the Texans' pass defense, totaling 334 yards and a couple of scores through the air. Houston did come up with a couple of sacks, but Allen mostly had his way. The Texans will face another top-tier QB when Joe Burrow and the Bengals visit Houston in Week 2. ",
+      "link": "https://www.fantasypros.com/nfl/news/608067/texans-defense-struggles-to-contain-bills-week-1.php",
+      "player_id": 8120,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Texans defense struggles to contain Bills in Week 1"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 15:21:38",
+      "created_formated": "Tue, Sep 15th 3:21pm UTC",
+      "desc": "Josh Allen completed 20-of-29 passes for 334 yards with two touchdowns with an additional 23 yards and two scores on the ground on six carries in the Bills' 36-31 win over the Texans on Sunday.",
+      "id": 608066,
+      "impact": "Allen was in complete control on Sunday, carving up what should have been a difficult Texans defense on his way to a four touchdown performance. He will have another nice matchup against Detroit on Thursday who just allowed a 30-point game to the Saints.",
+      "link": "https://www.fantasypros.com/nfl/news/608066/josh-allen-dismantles-houston-defense-big-win.php",
+      "player_id": 17298,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Josh Allen dismantles Houston defense in big win"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 15:16:57",
+      "created_formated": "Tue, Sep 15th 3:16pm UTC",
+      "desc": "The San Fransisco 49ers D/ST shut down the Rams offense on Thursday, allowing just seven points in their 27-7 rout of the Super Bowl favorites.",
+      "id": 608065,
+      "impact": "The Niners defensive totals were modest, with one interception and a fumble recovery, but were held without a sack. They just kept the Rams from moving the ball while not racking up much in the \"counting stats\" category. It's a good showing for the team, and a date with the Dolphins is on tap. They are a great DST option this week if available.",
+      "link": "https://www.fantasypros.com/nfl/news/608065/san-fransisco-49ers-dst-shuts-down-rams-win.php",
+      "player_id": 8270,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "San Fransisco 49ers D/ST shuts down Rams in win"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 15:15:12",
+      "created_formated": "Tue, Sep 15th 3:15pm UTC",
+      "desc": "Commanders DE Dorance Armstrong has officially been reinstated by the league following his Week 1 suspension. ",
+      "id": 608064,
+      "impact": "Armstrong will be back for Week 2 against the Cowboys. ",
+      "link": "https://www.fantasypros.com/nfl/news/608064/dorance-armstrong-jr-reinstated-from-suspension.php",
+      "player_id": 17315,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Dorance Armstrong Jr. reinstated from suspension "
     },
     {
       "author": "Ari Koslow",
@@ -333,70 +152,118 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-14 18:57:37",
-      "created_formated": "Mon, Sep 14th 6:57pm UTC",
-      "desc": "Vikings head coach O'Connell said RB Jordan Mason is being evaluated for a sore thumb. ",
-      "id": 607932,
-      "impact": "Mason came into the building on Monday with the injury. He is day-to-day for now after leading the backfield on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/607932/jordan-mason-being-evaluated-sore-thumb.php",
-      "player_id": 22969,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Jordan Mason being evaluated for sore thumb"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 20:51:34",
-      "created_formated": "Mon, Sep 14th 8:51pm UTC",
-      "desc": "Chargers WR Ladd McConkey is dealing a rib injury and he'll be monitored throughout the week.",
-      "id": 607958,
-      "impact": "McConkey was further evaluated on Monday for his injury. His status is uncertain heading into Week 2 against the Raiders. ",
-      "link": "https://www.fantasypros.com/nfl/news/607958/ladd-mcconkey-rib-to-be-monitored-this-week.php",
-      "player_id": 26122,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Ladd McConkey (rib) to be monitored this week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 20:13:00",
-      "created_formated": "Mon, Sep 14th 8:13pm UTC",
-      "desc": "Raiders head coach Klint Kubiak said Brock Bowers is day-to-day. ",
-      "id": 607944,
-      "impact": "Bowers did not play in Sunday's season opener after undergoing a meniscus trim. His status remains uncertain for Week 2. ",
-      "link": "https://www.fantasypros.com/nfl/news/607944/brock-bowers-knee-considered-day-to-day.php",
-      "player_id": 22955,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Brock Bowers (knee) considered day-to-day "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-14 19:07:18",
-      "created_formated": "Mon, Sep 14th 7:07pm UTC",
-      "desc": "Ravens coach Jesse Minter said WR Zay Flowers is considered day-to-day with a hamstring injury. ",
-      "id": 607939,
-      "impact": "It is a good sign after Flowers left Sunday's game early after a very strong first half. His status for Week 2 still remains uncertain. ",
-      "link": "https://www.fantasypros.com/nfl/news/607939/zay-flowers-hamstring-day-to-day.php",
-      "player_id": 22916,
+      "created": "2026-09-15 15:14:06",
+      "created_formated": "Tue, Sep 15th 3:14pm UTC",
+      "desc": "Ravens head coach Jesse Minter said T.J. Tampa could miss some time. ",
+      "id": 608063,
+      "impact": "The team is still gathering more information on a knee injury for Tampa. ",
+      "link": "https://www.fantasypros.com/nfl/news/608063/tj-tampa-jr-knee-to-miss-some-time.php",
+      "player_id": 26147,
       "sport_id": "NFL",
       "team_id": "BAL",
-      "title": "Zay Flowers (hamstring) considered day-to-day "
+      "title": "T.J. Tampa Jr. (knee) to miss some time"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 15:12:30",
+      "created_formated": "Tue, Sep 15th 3:12pm UTC",
+      "desc": "The Bills released OL Nick Broeker. ",
+      "id": 608062,
+      "impact": "Broeker will seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/608062/nick-broeker-released-by-bills.php",
+      "player_id": 23481,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Nick Broeker released by Bills"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 15:11:32",
+      "created_formated": "Tue, Sep 15th 3:11pm UTC",
+      "desc": "The Bills signed FB Brock Lampe to their practice squad. ",
+      "id": 608061,
+      "impact": "Lampe will add depth for Buffalo. ",
+      "link": "https://www.fantasypros.com/nfl/news/608061/brock-lampe-signs-with-bills.php",
+      "player_id": 27738,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Brock Lampe signs with Bills"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 15:08:13",
+      "created_formated": "Tue, Sep 15th 3:08pm UTC",
+      "desc": "The Seahawks signed G Evan Beerntsen to their practice squad. ",
+      "id": 608060,
+      "impact": "Beerntsen will add depth on the offensive line for Seattle. ",
+      "link": "https://www.fantasypros.com/nfl/news/608060/evan-beerntsen-signs-with-seahawks.php",
+      "player_id": 28495,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Evan Beerntsen signs with Seahawks "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 15:06:41",
+      "created_formated": "Tue, Sep 15th 3:06pm UTC",
+      "desc": "CB Cam Taylor-Britt returned to the Colts active roster after having one-game NFL suspension. ",
+      "id": 608059,
+      "impact": "Taylor-Britt will return after missing Sunday's season opener. ",
+      "link": "https://www.fantasypros.com/nfl/news/608059/cam-taylor-britt-returns-to-colts-active-roster.php",
+      "player_id": 24032,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Cam Taylor-Britt returns to Colts active roster"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 15:04:20",
+      "created_formated": "Tue, Sep 15th 3:04pm UTC",
+      "desc": "WR Bo Melton signed to the Packers' active roster.",
+      "id": 608058,
+      "impact": "Melton was released by Green Bay last week. He'll add depth to its wide receiver room. ",
+      "link": "https://www.fantasypros.com/nfl/news/608058/bo-melton-signs-with-packers-active-roster.php",
+      "player_id": 24049,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Bo Melton signs with Packers' active roster"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 15:02:37",
+      "created_formated": "Tue, Sep 15th 3:02pm UTC",
+      "desc": "LB Tyrel Dodson signed to the Panthers' active roster.",
+      "id": 608057,
+      "impact": "Dodson will add depth in the linebacker room for Carolina. ",
+      "link": "https://www.fantasypros.com/nfl/news/608057/tyrel-dodson-signs-with-panthers-active-roster.php",
+      "player_id": 18584,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Tyrel Dodson signs with Panthers active roster "
     },
     {
       "author": "Ari Koslow",
@@ -405,52 +272,179 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-14 19:05:23",
-      "created_formated": "Mon, Sep 14th 7:05pm UTC",
-      "desc": "Frankie Luvu suffered a groin injury in Sunday's loss against the Eagles. ",
-      "id": 607938,
-      "impact": "The status of Luvu will need to be monitored in practice throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/607938/frankie-luvu-suffers-groin-injury.php",
-      "player_id": 17963,
+      "created": "2026-09-15 15:00:56",
+      "created_formated": "Tue, Sep 15th 3:00pm UTC",
+      "desc": "Cowboys linebacker DeMarvion Overshown will miss 1-2 weeks with a hamstring injury. ",
+      "id": 608056,
+      "impact": "Overshown underwent an MRI that revealed his injury. He totaled seven tackles in Sunday's loss against the Giants. ",
+      "link": "https://www.fantasypros.com/nfl/news/608056/demarvion-overshown-hamstring-to-miss-1-2-weeks.php",
+      "player_id": 25314,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Frankie Luvu suffers groin injury"
+      "team_id": "DAL",
+      "title": "DeMarvion Overshown (hamstring) to miss 1-2 weeks"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-09-15 15:00:11",
+      "created_formated": "Tue, Sep 15th 3:00pm UTC",
+      "desc": "Sam Darnold (glute) is estimated to miss four weeks with a glute injury he sustained against the Patriots. ",
+      "id": 608055,
+      "impact": "With Darnold missing time, Drew Lock is the next man up. He was adequate against the Patriots, getting off to a rough start but finishing decently enough. He's a low end start in Superflex formats for those in need of a play.",
+      "link": "https://www.fantasypros.com/nfl/news/608055/sam-darnold-glute-estimated-to-return-four-weeks.php",
+      "player_id": 17236,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Sam Darnold (glute) estimated to return in four weeks"
+    },
+    {
+      "author": "Nate Miller",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-14 19:04:32",
-      "created_formated": "Mon, Sep 14th 7:04pm UTC",
-      "desc": "Jordan Magee is dealing with a hamstring injury from Sunday's loss against the Eagles. ",
-      "id": 607937,
-      "impact": "Magee pulled his hamstring trying to chase down Jalen Hurts on his long scramble in the fourth quarter. His status will need to be monitored in practice. ",
-      "link": "https://www.fantasypros.com/nfl/news/607937/jordan-magee-suffers-hamstring-injury.php",
-      "player_id": 26461,
+      "created": "2026-09-15 14:15:38",
+      "created_formated": "Tue, Sep 15th 2:15pm UTC",
+      "desc": "Omar Cooper Jr. is considered week-to-week after sustaining an ankle sprain in Sunday's game. ",
+      "id": 608053,
+      "impact": "Cooper had an MRI on Monday, which showed his ankle injury was not severe. The rookie first-rounder caught his only target for a 30-yard gain before exiting the Jets' Week 1 win over the Titans. He is probably a long shot to play in Week 2, but Cooper should return sometime in the next couple of weeks. ",
+      "link": "https://www.fantasypros.com/nfl/news/608053/omar-cooper-jr-ankle-considered-week-to-week.php",
+      "player_id": 28127,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jordan Magee suffers hamstring injury "
+      "team_id": "NYJ",
+      "title": "Omar Cooper Jr. (ankle) considered week-to-week"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-14 19:03:13",
-      "created_formated": "Mon, Sep 14th 7:03pm UTC",
-      "desc": "Falcons head coach Kevin Stefanski said RG Chris Lindstrom is in concussion protocol.",
-      "id": 607936,
-      "impact": "Lindstrom will have to clear all protocols later in the week to be available for Week 2. ",
-      "link": "https://www.fantasypros.com/nfl/news/607936/chris-lindstrom-placed-concussion-protocol.php",
-      "player_id": 18265,
+      "created": "2026-09-15 12:59:11",
+      "created_formated": "Tue, Sep 15th 12:59pm UTC",
+      "desc": "The Broncos' D/ST logged two sacks and one interception while allowing 31 points in Monday night's blowout loss to the Kansas City Chiefs.",
+      "id": 608050,
+      "impact": "Denver's defense is supposed to be among the best in the entire NFL, but they didn't look the part on Monday night. They allowed Patrick Mahomes II to lead Kansas City to 31 points on the night, despite the fact that this was his first game back from a major injury and was missing one of his starting tackles. This unit should return to elite form at some point this season, but they have a rocky schedule coming up for the next 4-6 weeks and should not be considered an elite fantasy option at the position for that stretch of games.",
+      "link": "https://www.fantasypros.com/nfl/news/608050/broncos-dst-dismal-loss-monday.php",
+      "player_id": 8090,
       "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Chris Lindstrom placed in concussion protocol "
+      "team_id": "DEN",
+      "title": "Broncos D/ST dismal in loss Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 12:55:59",
+      "created_formated": "Tue, Sep 15th 12:55pm UTC",
+      "desc": "Wil Lutz made his lone field-goal attempt and his lone extra-point attempt in Monday night's 31-10 loss to the Kansas City Chiefs.",
+      "id": 608049,
+      "impact": "Lutz did all that he could on Monday night, making both of his kicks in what turned out to be a blowout loss for the Broncos. He should return to being a decent fantasy option in games where the Broncos are able to move the ball more effectively moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/608049/wil-lutz-scores-four-points-loss-monday.php",
+      "player_id": 16026,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Wil Lutz scores four points in loss Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 12:54:18",
+      "created_formated": "Tue, Sep 15th 12:54pm UTC",
+      "desc": "Marvin Mims Jr. did not see a single offensive opportunity in Monday night's 31-10 loss to the Kansas City Chiefs.",
+      "id": 608048,
+      "impact": "There was a time where it looked like Mims had the potential to be a relevant fantasy option, but that ship has long sailed, which was confirmed by the zero opportunities he saw on Monday night. He didn't see even a single snap on offense, meaning that he should be considered entirely irrelevant for fantasy moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/608048/marvin-mims-jr-entirely-uninvolved-loss-monday.php",
+      "player_id": 23080,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Marvin Mims Jr. entirely uninvolved in loss Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 12:52:17",
+      "created_formated": "Tue, Sep 15th 12:52pm UTC",
+      "desc": "Troy Franklin failed to catch his lone target and had one rush for five yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
+      "id": 608047,
+      "impact": "It was no surprise that Franklin was uninvolved for the Broncos on Monday night, as their offense struggled heavily to get even their best players the ball against the Chiefs. He seems to be squarely behind at least three other wideouts on the depth chart at this point, however, which makes him irrelevant from a fantasy perspective until further notice.",
+      "link": "https://www.fantasypros.com/nfl/news/608047/troy-franklin-doesnt-contribute-loss-monday.php",
+      "player_id": 23092,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Troy Franklin doesn't contribute in loss Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 12:49:58",
+      "created_formated": "Tue, Sep 15th 12:49pm UTC",
+      "desc": "Evan Engram caught 4-f-5 targets for 43 yards and a touchdown in Monday night's 31-10 loss to the Kansas City Chiefs.",
+      "id": 608046,
+      "impact": "Engram was one of Denver's lone bright spots on offense on Monday night. He caught all but one of his targets against the Chiefs, including one that accounted for the Broncos' lone touchdown in this matchup. He isn't expected to be fantasy relevant moving forward, however, and should remain on the waiver wire in most leagues.",
+      "link": "https://www.fantasypros.com/nfl/news/608046/evan-engram-hauls-touchdown-monday.php",
+      "player_id": 16411,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Evan Engram hauls in touchdown Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 12:48:10",
+      "created_formated": "Tue, Sep 15th 12:48pm UTC",
+      "desc": "Pat Bryant caught 4-of-6 targets for 42 yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
+      "id": 608045,
+      "impact": "Bryant was one of the few Broncos who had a respectable showing on Monday night. He looked great at the start of the game but tapered off as it went on and as Denver continued to fall further and further behind on the scoreboard. He was the best out of Denver's receivers in this bad matchup, however, so the breakout potential seems to be there for the second-year wideout this season.",
+      "link": "https://www.fantasypros.com/nfl/news/608045/pat-bryant-leads-team-receiving-monday.php",
+      "player_id": 27211,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Pat Bryant leads team in receiving Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 12:43:10",
+      "created_formated": "Tue, Sep 15th 12:43pm UTC",
+      "desc": "Jonah Coleman did not see a single opportunity in Monday night's 31-10 loss to the Kansas City Chiefs.",
+      "id": 608044,
+      "impact": "There has been a lot of hype about the potential of the rookie over the course of the offseason, but he didn't see even a single opportunity in the three snaps he played in his NFL debut on Monday night. He will likely see involvement in more favorable matchups moving forward, but this start is very discouraging and indicates that he is squarely behind both J.K. Dobbins and RJ Harvey in the pecking order at this point.",
+      "link": "https://www.fantasypros.com/nfl/news/608044/jonah-coleman-without-attempt-nfl-debut-monday.php",
+      "player_id": 27320,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Jonah Coleman without attempt in NFL debut Monday"
     }
   ],
   "public_api_limited": true,

@@ -222,6 +222,19 @@
       }
     },
     {
+      "average": 0.8,
+      "filename": "khyiris-tonga.php",
+      "games": 1,
+      "player_id": 22767,
+      "player_name": "Khyiris Tonga",
+      "points": 0.75,
+      "position_id": "DT",
+      "team_id": "KC",
+      "weeks": {
+        "1": 0.8
+      }
+    },
+    {
       "average": 3,
       "filename": "jack-sawyer.php",
       "games": 1,
@@ -479,6 +492,19 @@
       "team_id": "LAR",
       "weeks": {
         "1": 6.8
+      }
+    },
+    {
+      "average": 0.8,
+      "filename": "marcus-harris-dt.php",
+      "games": 1,
+      "player_id": 26349,
+      "player_name": "Marcus Harris",
+      "points": 0.75,
+      "position_id": "DT",
+      "team_id": "KC",
+      "weeks": {
+        "1": 0.8
       }
     },
     {
@@ -820,6 +846,19 @@
       }
     },
     {
+      "average": 3,
+      "filename": "eyioma-uwazurike.php",
+      "games": 1,
+      "player_id": 23838,
+      "player_name": "Eyioma Uwazurike",
+      "points": 3,
+      "position_id": "DT",
+      "team_id": "DEN",
+      "weeks": {
+        "1": 3
+      }
+    },
+    {
       "average": 1.5,
       "filename": "james-thompson-jr.php",
       "games": 1,
@@ -843,6 +882,19 @@
       "team_id": "DET",
       "weeks": {
         "1": 3
+      }
+    },
+    {
+      "average": 10.8,
+      "filename": "dondrea-tillman.php",
+      "games": 1,
+      "player_id": 26979,
+      "player_name": "Dondrea Tillman",
+      "points": 10.75,
+      "position_id": "DT",
+      "team_id": "DEN",
+      "weeks": {
+        "1": 10.8
       }
     },
     {
@@ -934,6 +986,19 @@
       "team_id": "NYG",
       "weeks": {
         "1": 0.8
+      }
+    },
+    {
+      "average": 0,
+      "filename": "zacch-pickens.php",
+      "games": 1,
+      "player_id": 24737,
+      "player_name": "Zacch Pickens",
+      "points": 0,
+      "position_id": "DT",
+      "team_id": "ATL",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -1288,6 +1353,19 @@
       }
     },
     {
+      "average": 4.5,
+      "filename": "malcolm-roach.php",
+      "games": 1,
+      "player_id": 19536,
+      "player_name": "Malcolm Roach",
+      "points": 4.5,
+      "position_id": "DT",
+      "team_id": "DEN",
+      "weeks": {
+        "1": 4.5
+      }
+    },
+    {
       "average": 0.8,
       "filename": "albert-regis.php",
       "games": 1,
@@ -1366,6 +1444,19 @@
       }
     },
     {
+      "average": 0.8,
+      "filename": "ashton-gillotte.php",
+      "games": 1,
+      "player_id": 27039,
+      "player_name": "Ashton Gillotte",
+      "points": 0.75,
+      "position_id": "DT",
+      "team_id": "KC",
+      "weeks": {
+        "1": 0.8
+      }
+    },
+    {
       "average": 3.5,
       "filename": "jonathan-bullard.php",
       "games": 1,
@@ -1400,6 +1491,19 @@
       "points": 0.75,
       "position_id": "DT",
       "team_id": "LAR",
+      "weeks": {
+        "1": 0.8
+      }
+    },
+    {
+      "average": 0.8,
+      "filename": "dj-jones.php",
+      "games": 1,
+      "player_id": 16724,
+      "player_name": "D.J. Jones",
+      "points": 0.75,
+      "position_id": "DT",
+      "team_id": "DEN",
       "weeks": {
         "1": 0.8
       }
@@ -1561,6 +1665,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "jordan-van-den-berg.php",
+      "games": 1,
+      "player_id": 28506,
+      "player_name": "Jordan van den Berg",
+      "points": 0,
+      "position_id": "DT",
+      "team_id": "CHI",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 1.5,
       "filename": "adin-huntington.php",
       "games": 1,
@@ -1571,6 +1688,19 @@
       "team_id": "CLE",
       "weeks": {
         "1": 1.5
+      }
+    },
+    {
+      "average": 4.8,
+      "filename": "chris-jones-dl.php",
+      "games": 1,
+      "player_id": 15620,
+      "player_name": "Chris Jones",
+      "points": 4.75,
+      "position_id": "DT",
+      "team_id": "KC",
+      "weeks": {
+        "1": 4.8
       }
     },
     {
@@ -1649,6 +1779,19 @@
       "team_id": "ARI",
       "weeks": {
         "1": 9.5
+      }
+    },
+    {
+      "average": 3.8,
+      "filename": "peter-woods.php",
+      "games": 1,
+      "player_id": 27953,
+      "player_name": "Peter Woods",
+      "points": 3.75,
+      "position_id": "DT",
+      "team_id": "KC",
+      "weeks": {
+        "1": 3.8
       }
     },
     {

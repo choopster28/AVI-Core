@@ -144,6 +144,19 @@
       }
     },
     {
+      "average": 7,
+      "filename": "harrison-butker.php",
+      "games": 1,
+      "player_id": 16712,
+      "player_name": "Harrison Butker",
+      "points": 7,
+      "position_id": "K",
+      "team_id": "KC",
+      "weeks": {
+        "1": 7
+      }
+    },
+    {
       "average": 6,
       "filename": "drew-stevens.php",
       "games": 1,
@@ -310,6 +323,19 @@
       "team_id": "BUF",
       "weeks": {
         "1": 13
+      }
+    },
+    {
+      "average": 4,
+      "filename": "wil-lutz.php",
+      "games": 1,
+      "player_id": 16026,
+      "player_name": "Wil Lutz",
+      "points": 4,
+      "position_id": "K",
+      "team_id": "DEN",
+      "weeks": {
+        "1": 4
       }
     },
     {

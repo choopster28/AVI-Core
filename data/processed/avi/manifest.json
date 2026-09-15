@@ -2,8 +2,8 @@
   "c_avi_weights": {
     "elite_upside": 0.1,
     "league_context": 0.1,
-    "player_points": 0.0,
-    "projections": 0.5,
+    "player_points": 0.1,
+    "projections": 0.4,
     "public_market": 0.3
   },
   "d_avi_missing_component_policy": "Redistribute missing optional component weights proportionally across verified components.",
@@ -16,21 +16,26 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-09-15T00:44:38.614895+00:00",
+  "generated_at_utc": "2026-09-15T15:45:11.622935+00:00",
   "in_season_transition": {
-    "activation_policy": "Use only verified completed 2026 regular-season weeks; stale or partial player-points feeds do not activate the transition.",
-    "completed_through_week": 0,
+    "activation_policy": "Activate after a completed 2026 week is verified. Sleeper advancing to the next week or ESPN confirming every game final is sufficient; stale or partial player-points feeds never activate the transition.",
+    "completed_through_week": 1,
+    "completion_sources": [
+      "Sleeper NFL state",
+      "ESPN NFL scoreboard"
+    ],
+    "current_week_schedule_complete": null,
     "fantasypros_max_observed_week": 1,
-    "mapped_player_point_records": 286,
+    "mapped_player_point_records": 309,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
-    "nfl_week": 1,
-    "status": "waiting_for_completed_current_season_points"
+    "nfl_week": 2,
+    "status": "active"
   },
   "league_id": "1312185568032997376",
-  "methodology_status": "provisional_2026_2",
+  "methodology_status": "active_2026_2_in_season",
   "methodology_version": "2026.2",
-  "player_points_active": false,
+  "player_points_active": true,
   "record_counts": {
     "calculated_players": 480,
     "registry_players": 480,
@@ -74,6 +79,6 @@
     }
   },
   "season": 2026,
-  "season_phase": "preseason",
+  "season_phase": "regular_season",
   "status": "passed"
 }

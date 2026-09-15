@@ -27,6 +27,19 @@
       }
     },
     {
+      "average": 22.7,
+      "filename": "patrick-mahomes.php",
+      "games": 1,
+      "player_id": 16413,
+      "player_name": "Patrick Mahomes II",
+      "points": 22.66,
+      "position_id": "QB",
+      "team_id": "KC",
+      "weeks": {
+        "1": 22.7
+      }
+    },
+    {
       "average": 0.5,
       "filename": "sam-darnold.php",
       "games": 1,
@@ -440,6 +453,19 @@
       "team_id": "CAR",
       "weeks": {
         "1": 2.4
+      }
+    },
+    {
+      "average": 6.4,
+      "filename": "bo-nix.php",
+      "games": 1,
+      "player_id": 22910,
+      "player_name": "Bo Nix",
+      "points": 6.44,
+      "position_id": "QB",
+      "team_id": "DEN",
+      "weeks": {
+        "1": 6.4
       }
     },
     {
