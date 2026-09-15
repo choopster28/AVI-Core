@@ -1692,10 +1692,10 @@
     "sleeper_id": "12015"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "23798",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "NE",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Hassan Haskins",
     "position": "RB",
     "sleeper_id": "8123"
@@ -2773,6 +2773,15 @@
   },
   {
     "confidence": "verified",
+    "fantasypros_id": "26044",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "DET",
+    "player_name": "Kendrick Law",
+    "position": "WR",
+    "sleeper_id": "13412"
+  },
+  {
+    "confidence": "verified",
     "fantasypros_id": "23249",
     "match_method": "exact_name_position_unique",
     "nfl_team": "NYJ",
@@ -2961,10 +2970,10 @@
     "sleeper_id": "9510"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "18590",
-    "match_method": "exact_name_position_unique",
-    "nfl_team": "DEN",
+    "match_method": "exact_name_position",
+    "nfl_team": "FA",
     "player_name": "Lil'Jordan Humphrey",
     "position": "WR",
     "sleeper_id": "5938"
@@ -3501,10 +3510,10 @@
     "sleeper_id": "4046"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "22928",
-    "match_method": "exact_name_position",
-    "nfl_team": "FA",
+    "match_method": "exact_name_position_unique",
+    "nfl_team": "NYG",
     "player_name": "Phil Mafah",
     "position": "RB",
     "sleeper_id": "12738"

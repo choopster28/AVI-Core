@@ -4271,8 +4271,8 @@
     "avi_id": "AVI-00008123",
     "canonical_name": "Hassan Haskins",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "NE",
     "normalized_name": "hassan haskins",
@@ -7120,6 +7120,31 @@
   {
     "active": true,
     "aliases": [
+      "Kendrick Law"
+    ],
+    "avi_id": "AVI-00013412",
+    "canonical_name": "Kendrick Law",
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "nfl_team": "DET",
+    "normalized_name": "kendrick law",
+    "position": "WR",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26969,
+      "fantasypros_id": "26044",
+      "nfl_id": null,
+      "rotowire_id": 19443,
+      "sleeper_id": "13412",
+      "sportradar_id": "b039bf78-853f-4e4f-a6bd-83d7f38748c3",
+      "sportsdata_player_id": "b039bf78-853f-4e4f-a6bd-83d7f38748c3"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Kene Nwangwu"
     ],
     "avi_id": "AVI-00007720",
@@ -7655,8 +7680,8 @@
     "avi_id": "AVI-00005938",
     "canonical_name": "Lil'Jordan Humphrey",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "DEN",
     "normalized_name": "lil jordan humphrey",
@@ -9168,10 +9193,10 @@
     "avi_id": "AVI-00012738",
     "canonical_name": "Phil Mafah",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
-    "nfl_team": "FA",
+    "nfl_team": "NYG",
     "normalized_name": "phil mafah",
     "position": "RB",
     "source_ids": {

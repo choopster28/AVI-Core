@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-09-14
+- Last updated from Sleeper exports: 2026-09-15
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 517.8
-- championship_lineup_c_avi_avg: 64.72
-- offensive_roster_c_avi_sum: 775.5
+- championship_lineup_c_avi_sum: 517.7
+- championship_lineup_c_avi_avg: 64.71
+- offensive_roster_c_avi_sum: 775.4
 - offensive_roster_c_avi_avg: 55.39
 - offensive_roster_d_avi_sum: 1004.6
 - offensive_roster_d_avi_avg: 71.76
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Alec Pierce | C-AVI: 70.9 | D-AVI: 81.1
 - WR: Michael Pittman | C-AVI: 67.3 | D-AVI: 77.4
 - TE: Oronde Gadsden | C-AVI: 54.4 | D-AVI: 76.1
-- FLEX: Jakobi Meyers | C-AVI: 64.1 | D-AVI: 74.9
+- FLEX: Jakobi Meyers | C-AVI: 64.0 | D-AVI: 74.9
 - FLEX: Wan'Dale Robinson | C-AVI: 62.9 | D-AVI: 78.3
 
 ## Current Roster — All Player Cards
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 64.1
+- Championship AVI (C-AVI, 0-100): 64.0
 - Dynasty AVI (D-AVI, 0-100): 74.9
 - Projected PPR points: 180.4
 - Category: offense

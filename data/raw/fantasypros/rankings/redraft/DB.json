@@ -9303,7 +9303,7 @@
     },
     {
       "cbs_player_id": "3162490",
-      "player_bye_week": "13",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "johnathan-edwards.php",
@@ -9316,7 +9316,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "J. Edwards",
-      "player_team_id": "IND",
+      "player_team_id": "FA",
       "player_yahoo_id": "42425",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB167",

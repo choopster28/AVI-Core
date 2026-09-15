@@ -4795,7 +4795,7 @@
     {
       "cbs_player_id": "2246852",
       "player_age": "28",
-      "player_bye_week": "10",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "WR",
       "player_filename": "liljordan-humphrey.php",
@@ -4808,7 +4808,7 @@
       "player_position_id": "WR",
       "player_positions": "WR",
       "player_short_name": "L. Humphrey",
-      "player_team_id": "DEN",
+      "player_team_id": "FA",
       "player_yahoo_id": "32494",
       "player_yahoo_positions": "WR",
       "pos_rank": "WR172",

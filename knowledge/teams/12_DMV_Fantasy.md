@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1129546394534158336
 - Division: 4
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-09-14
+- Last updated from Sleeper exports: 2026-09-15
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 475.5
-- championship_lineup_c_avi_avg: 59.44
+- championship_lineup_c_avi_sum: 475.6
+- championship_lineup_c_avi_avg: 59.45
 - offensive_roster_c_avi_sum: 702.3
 - offensive_roster_c_avi_avg: 50.16
 - offensive_roster_d_avi_sum: 888.4
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Jalen Coker | C-AVI: 51.4 | D-AVI: 70.8
 - WR: Jauan Jennings | C-AVI: 45.5 | D-AVI: 62.3
 - TE: George Kittle | C-AVI: 89.4 | D-AVI: 82.2
-- FLEX: Brenton Strange | C-AVI: 61.8 | D-AVI: 75.5
+- FLEX: Brenton Strange | C-AVI: 61.9 | D-AVI: 75.5
 - FLEX: Cooper Kupp | C-AVI: 43.3 | D-AVI: 50.6
 
 ## Current Roster — All Player Cards
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 41.8
+- Championship AVI (C-AVI, 0-100): 41.7
 - Dynasty AVI (D-AVI, 0-100): 58.3
 - Projected PPR points: 79.5
 - Category: offense
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 61.8
+- Championship AVI (C-AVI, 0-100): 61.9
 - Dynasty AVI (D-AVI, 0-100): 75.5
 - Projected PPR points: 153.1
 - Category: offense
