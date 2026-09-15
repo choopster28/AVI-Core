@@ -4274,7 +4274,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "NE",
+    "nfl_team": "FA",
     "normalized_name": "hassan haskins",
     "position": "RB",
     "source_ids": {
@@ -7683,7 +7683,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "DEN",
+    "nfl_team": "FA",
     "normalized_name": "lil jordan humphrey",
     "position": "WR",
     "source_ids": {
