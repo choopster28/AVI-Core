@@ -21,20 +21,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 689.5
-- championship_lineup_c_avi_avg: 86.19
-- offensive_roster_c_avi_sum: 1095.1
-- offensive_roster_c_avi_avg: 68.44
-- offensive_roster_d_avi_sum: 1229.8
-- offensive_roster_d_avi_avg: 76.86
+- championship_lineup_c_avi_sum: 694.0
+- championship_lineup_c_avi_avg: 86.75
+- offensive_roster_c_avi_sum: 1099.6
+- offensive_roster_c_avi_avg: 68.72
+- offensive_roster_d_avi_sum: 1230.6
+- offensive_roster_d_avi_avg: 76.91
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 82.9 | D-AVI: 88.0
 - RB: Saquon Barkley | C-AVI: 90.9 | D-AVI: 90.4
 - RB: Omarion Hampton | C-AVI: 86.5 | D-AVI: 93.2
+- WR: Rashee Rice | C-AVI: 93.3 | D-AVI: 92.5
 - WR: Nico Collins | C-AVI: 92.1 | D-AVI: 94.4
-- WR: Rashee Rice | C-AVI: 88.8 | D-AVI: 91.7
 - TE: Trey McBride | C-AVI: 99.2 | D-AVI: 92.7
 - FLEX: Jeremiyah Love | C-AVI: 83.9 | D-AVI: 93.7
 - FLEX: Chris Godwin | C-AVI: 65.2 | D-AVI: 73.4
@@ -178,6 +178,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
+### PLAYER: Rashee Rice
+- Player name: Rashee Rice
+- Player ID: 10229
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 93.3
+- Dynasty AVI (D-AVI, 0-100): 92.5
+- Projected PPR points: 274.1
+- Category: offense
+- Valuation status: ACTIVE_2026_2_IN_SEASON
+
 ### PLAYER: Nico Collins
 - Player name: Nico Collins
 - Player ID: 7569
@@ -192,23 +209,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 92.1
 - Dynasty AVI (D-AVI, 0-100): 94.4
 - Projected PPR points: 250.0
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
-### PLAYER: Rashee Rice
-- Player name: Rashee Rice
-- Player ID: 10229
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: KC
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 88.8
-- Dynasty AVI (D-AVI, 0-100): 91.7
-- Projected PPR points: 274.1
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 

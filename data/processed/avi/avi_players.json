@@ -1307,7 +1307,7 @@
       "Rashee Rice"
     ],
     "avi_id": "AVI-00010229",
-    "c_avi": 88.8,
+    "c_avi": 93.3,
     "c_avi_risk_adjustment": {
       "amount": -4.5,
       "reason": "Current-season availability volatility from meaningful injury history plus off-field risk is not represented by the projection/ranking-only C-AVI inputs.",
@@ -1331,7 +1331,7 @@
       "public_market": 91.75182481751824,
       "redraft_market": 95.25547445255475
     },
-    "d_avi": 91.7,
+    "d_avi": 92.5,
     "in_season_player_points": {
       "completed_through_week": 1,
       "component_score": 72.5,
