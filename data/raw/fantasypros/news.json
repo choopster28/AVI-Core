@@ -3,6 +3,23 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 16:47:46",
+      "created_formated": "Tue, Sep 15th 4:47pm UTC",
+      "desc": "The Chiefs re-signed CB Melvin Smith Jr. to their practice squad. ",
+      "id": 608098,
+      "impact": "Smith spent part of last season with Kansas City before he was waived. ",
+      "link": "https://www.fantasypros.com/nfl/news/608098/melvin-smith-jr-re-signs-with-chiefs.php",
+      "player_id": 27840,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Melvin Smith Jr. re-signs with Chiefs "
+    },
+    {
       "author": "Nate Miller",
       "categories": [
         "Commentary",
@@ -431,24 +448,6 @@
       "sport_id": "NFL",
       "team_id": "WAS",
       "title": "Dorance Armstrong Jr. reinstated from suspension "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-15 15:14:06",
-      "created_formated": "Tue, Sep 15th 3:14pm UTC",
-      "desc": "Ravens head coach Jesse Minter said T.J. Tampa could miss some time. ",
-      "id": 608063,
-      "impact": "The team is still gathering more information on a knee injury for Tampa. ",
-      "link": "https://www.fantasypros.com/nfl/news/608063/tj-tampa-jr-knee-to-miss-some-time.php",
-      "player_id": 26147,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "T.J. Tampa Jr. (knee) to miss some time"
     }
   ],
   "public_api_limited": true,
