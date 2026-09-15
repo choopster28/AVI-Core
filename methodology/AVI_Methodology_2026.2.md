@@ -32,7 +32,15 @@ The transition applies to every supported offensive player, not selected players
 
 Current-season production is not consumed mid-week or from a stale prior-season payload. During the regular season, the player-points feed must contain at least one completed week, may not contain weeks beyond the latest completed NFL week, and must contain a minimum viable mapped player population. This prevents old or partial data from falsely activating the in-season model.
 
-Exceptional current-season availability risks that are not represented by public projections/rankings may receive a transparent post-model C-AVI risk adjustment. These adjustments must state the football-value reason and review trigger, are idempotent, and are applied before downstream team/player reports are generated.
+### Injury and availability adjustment
+
+Routine injuries are handled automatically after the refreshed in-season calculation and before exceptional manual risk adjustments. The availability layer reads current Sleeper injury status plus FantasyPros injury/timeline data and converts explicit missed-time signals into a championship-horizon availability ceiling through fantasy Week 17.
+
+The adjustment is deliberately projection-aware. It is a **ceiling, not a multiplier**. Refreshed projections, rankings, and actual production get the first opportunity to price the injury. The availability layer only reduces C-AVI when the calculated value still exceeds the maximum contribution supported by the player's verified remaining availability. If projections have already reduced C-AVI below that ceiling, the automatic injury adjustment is exactly zero. This prevents routine injuries from being double penalized.
+
+Examples of actionable signals include injured reserve/PUP/NFI, Out, Doubtful, Questionable with an available probability-of-playing estimate, explicit IR-week timelines, and season-ending language. IR without a more specific verified timeline uses a conservative four-week minimum absence. Every applied adjustment stores the pre-adjustment C-AVI, availability ceiling, estimated missed weeks, status/reason code, adjustment amount, and final C-AVI for auditability.
+
+Exceptional current-season availability risks that are not routine injury designations or are not represented by the automatic feeds may still receive a transparent manual C-AVI risk adjustment. These adjustments must state the football-value reason and review trigger, are idempotent, and are applied after the automatic injury layer.
 
 ## D-AVI
 
@@ -48,6 +56,8 @@ D-AVI measures long-term dynasty value in the Autobots non-Superflex league.
 | Health and availability outlook | 5% |
 | Long-term ceiling and trajectory | 5% |
 
+After all automatic availability and exceptional C-AVI risk adjustments are applied, D-AVI is recalculated from the final C-AVI. Because current C-AVI is only 10% of D-AVI, a normal short-term injury can materially reduce championship value without creating an equally large dynasty-value penalty.
+
 ## Verified-Input Policy
 
 Missing optional components do not receive invented neutral values.
@@ -62,11 +72,10 @@ The repository currently implements:
 - FantasyPros dynasty consensus as the verified dynasty-market score
 - continuous position-specific age and career-horizon curves
 - Autobots league-specific positional liquidity
-- current C-AVI
+- current C-AVI, including projection-aware current-season availability effects
 - a verified long-term ceiling blend
 
-Role security and health remain unavailable until verified source data is
-stored in the repository. Their weights are redistributed.
+Long-term role security and a standalone long-term health-outlook source remain unavailable until verified source data is stored in the repository. Their weights are redistributed. Current-season injury effects still reach D-AVI indirectly through its 10% current-C-AVI component.
 
 ## Removed Circular Inputs
 
