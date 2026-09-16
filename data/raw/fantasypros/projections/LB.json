@@ -1,5 +1,5 @@
 {
-  "count": "216",
+  "count": "217",
   "experts": [],
   "players": [
     {
@@ -2324,6 +2324,29 @@
         "points_ppr": 110.37
       },
       "team_id": "BUF"
+    },
+    {
+      "filename": "dorance-armstrong-jr.php",
+      "fpid": 17315,
+      "mflid": 13759,
+      "name": "Dorance Armstrong Jr.",
+      "position_id": "DL",
+      "stats": {
+        "def_assist": 17.52,
+        "def_ff": 0.91,
+        "def_fr": 0.59,
+        "def_int": 0.04,
+        "def_pd": 0.57,
+        "def_sack": 6.83,
+        "def_safety": 0,
+        "def_tackle": 41.4,
+        "def_td": 0.08,
+        "def_tlost": 0,
+        "points": 110.1,
+        "points_half": 110.1,
+        "points_ppr": 110.1
+      },
+      "team_id": "WAS"
     },
     {
       "filename": "kayvon-thibodeaux.php",

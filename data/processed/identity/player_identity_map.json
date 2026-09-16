@@ -2313,9 +2313,9 @@
     "sleeper_id": "6783"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "27294",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "CAR",
     "player_name": "Jimmy Horn Jr.",
     "position": "WR",

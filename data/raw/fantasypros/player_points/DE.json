@@ -79,6 +79,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "jowon-briggs.php",
+      "games": 1,
+      "player_id": 26485,
+      "player_name": "Jowon Briggs",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "NYJ",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 12,
       "filename": "felix-anudike-uzomah.php",
       "games": 1,
@@ -193,6 +206,32 @@
       "team_id": "GB",
       "weeks": {
         "1": 12.5
+      }
+    },
+    {
+      "average": 0,
+      "filename": "shelby-harris.php",
+      "games": 1,
+      "player_id": 12320,
+      "player_name": "Shelby Harris",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "NYG",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "zion-young.php",
+      "games": 1,
+      "player_id": 28091,
+      "player_name": "Zion Young",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "BAL",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -443,6 +482,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "truman-jones.php",
+      "games": 1,
+      "player_id": 25771,
+      "player_name": "Truman Jones",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "TEN",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 3.8,
       "filename": "sam-williams-dt.php",
       "games": 1,
@@ -469,6 +521,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "bj-green-ii.php",
+      "games": 1,
+      "player_id": 27679,
+      "player_name": "B.J. Green II",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "JAC",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 8.8,
       "filename": "derick-hall.php",
       "games": 1,
@@ -479,6 +544,19 @@
       "team_id": "SEA",
       "weeks": {
         "1": 8.8
+      }
+    },
+    {
+      "average": 0,
+      "filename": "chaz-chambliss.php",
+      "games": 1,
+      "player_id": 27656,
+      "player_name": "Chaz Chambliss",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "MIN",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -612,6 +690,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "dante-fowler.php",
+      "games": 1,
+      "player_id": 14020,
+      "player_name": "Dante Fowler Jr.",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "SEA",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 7.8,
       "filename": "jared-verse.php",
       "games": 1,
@@ -664,6 +755,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "solomon-thomas.php",
+      "games": 1,
+      "player_id": 16372,
+      "player_name": "Solomon Thomas",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "TEN",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 2.3,
       "filename": "nik-bonitto.php",
       "games": 1,
@@ -677,6 +781,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "ben-stille.php",
+      "games": 1,
+      "player_id": 23862,
+      "player_name": "Ben Stille",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "DET",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 0.8,
       "filename": "matt-dickerson.php",
       "games": 1,
@@ -687,6 +804,19 @@
       "team_id": "JAC",
       "weeks": {
         "1": 0.8
+      }
+    },
+    {
+      "average": 0,
+      "filename": "derrick-moore.php",
+      "games": 1,
+      "player_id": 27977,
+      "player_name": "Derrick Moore",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "DET",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -1106,6 +1236,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "quintayvious-hutchins.php",
+      "games": 1,
+      "player_id": 28505,
+      "player_name": "Quintayvious Hutchins",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "NE",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 8.8,
       "filename": "kentavius-street.php",
       "games": 1,
@@ -1116,6 +1259,19 @@
       "team_id": "CHI",
       "weeks": {
         "1": 8.8
+      }
+    },
+    {
+      "average": 0,
+      "filename": "bo-richter.php",
+      "games": 1,
+      "player_id": 26563,
+      "player_name": "Bo Richter",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "MIN",
+      "weeks": {
+        "1": 0
       }
     },
     {

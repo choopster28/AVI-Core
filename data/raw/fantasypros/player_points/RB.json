@@ -40,6 +40,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "lequint-allen-jr.php",
+      "games": 1,
+      "player_id": 27285,
+      "player_name": "LeQuint Allen Jr.",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "JAC",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 0.9,
       "filename": "keaton-mitchell.php",
       "games": 1,
@@ -209,6 +222,32 @@
       }
     },
     {
+      "average": 0,
+      "filename": "british-brooks.php",
+      "games": 1,
+      "player_id": 26748,
+      "player_name": "British Brooks",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "HOU",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "brashard-smith.php",
+      "games": 1,
+      "player_id": 27259,
+      "player_name": "Brashard Smith",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "KC",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 32.7,
       "filename": "ashton-jeanty.php",
       "games": 1,
@@ -282,6 +321,32 @@
       "points": 0,
       "position_id": "RB",
       "team_id": "DAL",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "ollie-gordon.php",
+      "games": 1,
+      "player_id": 25984,
+      "player_name": "Ollie Gordon II",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "MIA",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "reggie-gilliam.php",
+      "games": 1,
+      "player_id": 19844,
+      "player_name": "Reggie Gilliam",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "NE",
       "weeks": {
         "1": 0
       }
@@ -365,6 +430,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "zonovan-bam-knight.php",
+      "games": 1,
+      "player_id": 24901,
+      "player_name": "Bam Knight",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "ARI",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 0.7,
       "filename": "hunter-luepke.php",
       "games": 1,
@@ -414,6 +492,19 @@
       "team_id": "NO",
       "weeks": {
         "1": 9
+      }
+    },
+    {
+      "average": 0,
+      "filename": "kyle-juszczyk.php",
+      "games": 1,
+      "player_id": 11798,
+      "player_name": "Kyle Juszczyk",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "SF",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -518,6 +609,45 @@
       "team_id": "PIT",
       "weeks": {
         "1": 10.3
+      }
+    },
+    {
+      "average": 0,
+      "filename": "michael-burton.php",
+      "games": 1,
+      "player_id": 14191,
+      "player_name": "Michael Burton",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "CLE",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "isaiah-davis.php",
+      "games": 1,
+      "player_id": 25977,
+      "player_name": "Isaiah Davis",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "NYJ",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "julius-chestnut.php",
+      "games": 1,
+      "player_id": 24689,
+      "player_name": "Julius Chestnut",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "TEN",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -752,6 +882,19 @@
       "team_id": "MIN",
       "weeks": {
         "1": 11.9
+      }
+    },
+    {
+      "average": 0,
+      "filename": "andrew-beck.php",
+      "games": 1,
+      "player_id": 18748,
+      "player_name": "Andrew Beck",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "NYJ",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -1002,6 +1145,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "max-bredeson.php",
+      "games": 1,
+      "player_id": 28434,
+      "player_name": "Max Bredeson",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "MIN",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 2.8,
       "filename": "kenneth-gainwell.php",
       "games": 1,
@@ -1041,6 +1197,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "adam-prentice.php",
+      "games": 1,
+      "player_id": 23451,
+      "player_name": "Adam Prentice",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "DEN",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 8,
       "filename": "samaje-perine.php",
       "games": 1,
@@ -1064,6 +1233,19 @@
       "team_id": "KC",
       "weeks": {
         "1": 8.8
+      }
+    },
+    {
+      "average": 0,
+      "filename": "kimani-vidal.php",
+      "games": 1,
+      "player_id": 26355,
+      "player_name": "Kimani Vidal",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "LAC",
+      "weeks": {
+        "1": 0
       }
     },
     {

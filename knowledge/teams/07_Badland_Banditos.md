@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: IcebergSlim69
 - Owner ID: 737531831641128960
 - Division: 3
-- Waiver position: 16
+- Waiver position: 15
 - Last updated from Sleeper exports: 2026-09-16
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 585.1
-- championship_lineup_c_avi_avg: 73.14
-- offensive_roster_c_avi_sum: 936.4
-- offensive_roster_c_avi_avg: 58.52
-- offensive_roster_d_avi_sum: 1155.9
-- offensive_roster_d_avi_avg: 72.24
+- championship_lineup_c_avi_sum: 629.7
+- championship_lineup_c_avi_avg: 78.71
+- offensive_roster_c_avi_sum: 947.0
+- offensive_roster_c_avi_avg: 59.19
+- offensive_roster_d_avi_sum: 1127.1
+- offensive_roster_d_avi_avg: 70.44
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Joe Burrow | C-AVI: 82.0 | D-AVI: 85.8
+- QB: Joe Burrow | C-AVI: 82.6 | D-AVI: 86.7
 - RB: Kenneth Walker | C-AVI: 91.7 | D-AVI: 93.1
-- RB: Bucky Irving | C-AVI: 78.3 | D-AVI: 86.0
-- WR: Ja'Marr Chase | C-AVI: 93.4 | D-AVI: 98.9
-- WR: Terry McLaurin | C-AVI: 71.6 | D-AVI: 82.3
-- TE: Cade Otton | C-AVI: 54.9 | D-AVI: 62.1
-- FLEX: Brian Thomas | C-AVI: 64.7 | D-AVI: 83.3
-- FLEX: Jaylin Noel | C-AVI: 48.5 | D-AVI: 66.3
+- RB: Bucky Irving | C-AVI: 78.6 | D-AVI: 86.5
+- WR: Ja'Marr Chase | C-AVI: 93.9 | D-AVI: 99.0
+- WR: Terry McLaurin | C-AVI: 72.6 | D-AVI: 83.8
+- TE: Brock Bowers | C-AVI: 89.2 | D-AVI: 91.9
+- FLEX: Brian Thomas | C-AVI: 65.0 | D-AVI: 83.3
+- FLEX: Cade Otton | C-AVI: 56.1 | D-AVI: 63.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 82.0
-- Dynasty AVI (D-AVI, 0-100): 85.8
+- Championship AVI (C-AVI, 0-100): 82.6
+- Dynasty AVI (D-AVI, 0-100): 86.7
 - Projected PPR points: 313.7
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 48.3
-- Dynasty AVI (D-AVI, 0-100): 63.9
+- Championship AVI (C-AVI, 0-100): 48.5
+- Dynasty AVI (D-AVI, 0-100): 63.2
 - Projected PPR points: 272.6
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -104,43 +104,43 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 78.3
-- Dynasty AVI (D-AVI, 0-100): 86.0
+- Championship AVI (C-AVI, 0-100): 78.6
+- Dynasty AVI (D-AVI, 0-100): 86.5
 - Projected PPR points: 212.3
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Kimani Vidal
-- Player name: Kimani Vidal
-- Player ID: 11647
+### PLAYER: Devin Singletary
+- Player name: Devin Singletary
+- Player ID: 6130
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: LAC
+- NFL team: NYG
 - Active: True
 - Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 34.1
-- Dynasty AVI (D-AVI, 0-100): 54.9
-- Projected PPR points: 49.2
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 32.6
+- Dynasty AVI (D-AVI, 0-100): 41.8
+- Projected PPR points: 31.2
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Jacob Saylors
-- Player name: Jacob Saylors
-- Player ID: 11237
+### PLAYER: Kendre Miller
+- Player name: Kendre Miller
+- Player ID: 9757
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: DET
+- NFL team: NO
 - Active: True
 - Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 29.0
-- Dynasty AVI (D-AVI, 0-100): 56.2
-- Projected PPR points: 34.2
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 28.8
+- Dynasty AVI (D-AVI, 0-100): 46.3
+- Projected PPR points: 19.3
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 93.4
-- Dynasty AVI (D-AVI, 0-100): 98.9
+- Championship AVI (C-AVI, 0-100): 93.9
+- Dynasty AVI (D-AVI, 0-100): 99.0
 - Projected PPR points: 338.3
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 71.6
-- Dynasty AVI (D-AVI, 0-100): 82.3
+- Championship AVI (C-AVI, 0-100): 72.6
+- Dynasty AVI (D-AVI, 0-100): 83.8
 - Projected PPR points: 202.7
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 64.7
+- Championship AVI (C-AVI, 0-100): 65.0
 - Dynasty AVI (D-AVI, 0-100): 83.3
 - Projected PPR points: 173.4
 - Category: offense
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 48.5
-- Dynasty AVI (D-AVI, 0-100): 66.3
+- Championship AVI (C-AVI, 0-100): 49.3
+- Dynasty AVI (D-AVI, 0-100): 67.8
 - Projected PPR points: 115.5
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 48.1
-- Dynasty AVI (D-AVI, 0-100): 64.9
+- Championship AVI (C-AVI, 0-100): 48.4
+- Dynasty AVI (D-AVI, 0-100): 64.6
 - Projected PPR points: 128.1
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 45.3
-- Dynasty AVI (D-AVI, 0-100): 68.8
+- Championship AVI (C-AVI, 0-100): 45.4
+- Dynasty AVI (D-AVI, 0-100): 69.2
 - Projected PPR points: 133.2
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -257,26 +257,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 41.2
-- Dynasty AVI (D-AVI, 0-100): 58.3
+- Championship AVI (C-AVI, 0-100): 40.8
+- Dynasty AVI (D-AVI, 0-100): 56.9
 - Projected PPR points: 77.0
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Zavion Thomas
-- Player name: Zavion Thomas
-- Player ID: 13411
+### PLAYER: Demarcus Robinson
+- Player name: Demarcus Robinson
+- Player ID: 3286
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: CHI
+- NFL team: SF
 - Active: True
 - Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 16.1
-- Dynasty AVI (D-AVI, 0-100): 39.2
-- Projected PPR points: 21.9
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 23.5
+- Dynasty AVI (D-AVI, 0-100): 29.3
+- Projected PPR points: 40.4
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 54.9
-- Dynasty AVI (D-AVI, 0-100): 62.1
+- Championship AVI (C-AVI, 0-100): 56.1
+- Dynasty AVI (D-AVI, 0-100): 63.7
 - Projected PPR points: 124.7
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON

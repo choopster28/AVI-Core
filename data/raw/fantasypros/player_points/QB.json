@@ -170,6 +170,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "joe-flacco.php",
+      "games": 1,
+      "player_id": 9300,
+      "player_name": "Joe Flacco",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "CIN",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 24.7,
       "filename": "jalen-hurts.php",
       "games": 1,
@@ -336,6 +349,19 @@
       "team_id": "LV",
       "weeks": {
         "1": 15.8
+      }
+    },
+    {
+      "average": 0,
+      "filename": "justin-fields.php",
+      "games": 1,
+      "player_id": 19781,
+      "player_name": "Justin Fields",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "KC",
+      "weeks": {
+        "1": 0
       }
     },
     {

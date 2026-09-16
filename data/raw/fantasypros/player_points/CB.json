@@ -1,6 +1,19 @@
 {
   "players": [
     {
+      "average": 0,
+      "filename": "ameer-speed.php",
+      "games": 1,
+      "player_id": 25524,
+      "player_name": "Ameer Speed",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "DAL",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 6,
       "filename": "elijah-molden.php",
       "games": 1,
@@ -24,6 +37,19 @@
       "team_id": "PIT",
       "weeks": {
         "1": 1.5
+      }
+    },
+    {
+      "average": 0,
+      "filename": "kelee-ringo.php",
+      "games": 1,
+      "player_id": 24707,
+      "player_name": "Kelee Ringo",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "PHI",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -92,6 +118,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "emmanuel-forbes.php",
+      "games": 1,
+      "player_id": 25278,
+      "player_name": "Emmanuel Forbes Jr.",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 6.5,
       "filename": "mansoor-delane.php",
       "games": 1,
@@ -128,6 +167,19 @@
       "team_id": "JAC",
       "weeks": {
         "1": 1.5
+      }
+    },
+    {
+      "average": 0,
+      "filename": "christian-braswell.php",
+      "games": 1,
+      "player_id": 25502,
+      "player_name": "Christian Braswell",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "JAC",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -300,6 +352,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "marcellas-dial.php",
+      "games": 1,
+      "player_id": 26238,
+      "player_name": "Marcellas Dial Jr.",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "MIA",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 3.8,
       "filename": "carlton-davis.php",
       "games": 1,
@@ -310,6 +375,19 @@
       "team_id": "NE",
       "weeks": {
         "1": 3.8
+      }
+    },
+    {
+      "average": 0,
+      "filename": "erick-hallett.php",
+      "games": 1,
+      "player_id": 25503,
+      "player_name": "Erick Hallett II",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "TEN",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -456,6 +534,45 @@
       }
     },
     {
+      "average": 0,
+      "filename": "dangelo-ross.php",
+      "games": 1,
+      "player_id": 19039,
+      "player_name": "D'Angelo Ross",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "FA",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "josh-wallace.php",
+      "games": 1,
+      "player_id": 26373,
+      "player_name": "Josh Wallace",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "mekhi-blackmon.php",
+      "games": 1,
+      "player_id": 25513,
+      "player_name": "Mekhi Blackmon",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "CLE",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 17.5,
       "filename": "chris-johnson-cb-2.php",
       "games": 1,
@@ -505,6 +622,19 @@
       "team_id": "ARI",
       "weeks": {
         "1": 6
+      }
+    },
+    {
+      "average": 0,
+      "filename": "jonathan-jones.php",
+      "games": 1,
+      "player_id": 15692,
+      "player_name": "Jonathan Jones",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "PHI",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -573,6 +703,32 @@
       }
     },
     {
+      "average": 0,
+      "filename": "julian-neal.php",
+      "games": 1,
+      "player_id": 28188,
+      "player_name": "Julian Neal",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "SEA",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "chidobe-awuzie.php",
+      "games": 1,
+      "player_id": 16635,
+      "player_name": "Chidobe Awuzie",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "BAL",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 3.8,
       "filename": "max-melton.php",
       "games": 1,
@@ -583,6 +739,19 @@
       "team_id": "ARI",
       "weeks": {
         "1": 3.8
+      }
+    },
+    {
+      "average": 0,
+      "filename": "fabian-moreau.php",
+      "games": 1,
+      "player_id": 16653,
+      "player_name": "Fabian Moreau",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "WAS",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -717,6 +886,19 @@
     },
     {
       "average": 0,
+      "filename": "dj-ivey.php",
+      "games": 1,
+      "player_id": 25485,
+      "player_name": "DJ Ivey",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "CIN",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
       "filename": "ethan-bonner.php",
       "games": 1,
       "player_id": 25835,
@@ -724,6 +906,19 @@
       "points": 0,
       "position_id": "CB",
       "team_id": "MIA",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "channing-canada.php",
+      "games": 1,
+      "player_id": 28690,
+      "player_name": "Channing Canada",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "NE",
       "weeks": {
         "1": 0
       }
@@ -807,6 +1002,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "brandin-echols.php",
+      "games": 1,
+      "player_id": 23283,
+      "player_name": "Brandin Echols",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "PIT",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 6,
       "filename": "christian-benford.php",
       "games": 1,
@@ -817,6 +1025,19 @@
       "team_id": "BUF",
       "weeks": {
         "1": 6
+      }
+    },
+    {
+      "average": 0,
+      "filename": "jay-ward.php",
+      "games": 1,
+      "player_id": 25277,
+      "player_name": "Jay Ward",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "MIN",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -934,6 +1155,19 @@
       "team_id": "IND",
       "weeks": {
         "1": 1.5
+      }
+    },
+    {
+      "average": 0,
+      "filename": "ifeatu-melifonwu.php",
+      "games": 1,
+      "player_id": 22794,
+      "player_name": "Ifeatu Melifonwu",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "TB",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -1340,6 +1574,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "rodney-shelley.php",
+      "games": 1,
+      "player_id": 28541,
+      "player_name": "Rodney Shelley",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "LAC",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 3,
       "filename": "cj-henderson.php",
       "games": 1,
@@ -1470,6 +1717,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "jayden-price.php",
+      "games": 1,
+      "player_id": 26773,
+      "player_name": "Jayden Price",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "NO",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 3,
       "filename": "upton-stout.php",
       "games": 1,
@@ -1548,6 +1808,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "kalen-king.php",
+      "games": 1,
+      "player_id": 26101,
+      "player_name": "Kalen King",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "ARI",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
       "average": 10.8,
       "filename": "jalen-ramsey.php",
       "games": 1,
@@ -1571,6 +1844,19 @@
       "team_id": "JAC",
       "weeks": {
         "1": 5.5
+      }
+    },
+    {
+      "average": 0,
+      "filename": "christian-roland-wallace.php",
+      "games": 1,
+      "player_id": 26776,
+      "player_name": "Chris Roland-Wallace",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "KC",
+      "weeks": {
+        "1": 0
       }
     },
     {
@@ -1649,6 +1935,19 @@
       "team_id": "NO",
       "weeks": {
         "1": 9.8
+      }
+    },
+    {
+      "average": 0,
+      "filename": "charles-demmings.php",
+      "games": 1,
+      "player_id": 28217,
+      "player_name": "Charles Demmings",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "MIN",
+      "weeks": {
+        "1": 0
       }
     },
     {
