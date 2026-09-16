@@ -1882,7 +1882,7 @@
       "player_name": "Jerome Ford",
       "position": "RB",
       "sleeper_id": "8143",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -5030,7 +5030,7 @@
       "position": "RB",
       "roster_id": 14,
       "sleeper_id": "8408",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
     },
