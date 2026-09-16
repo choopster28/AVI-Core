@@ -556,6 +556,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
 
+## PLAYER LOOKUP: Demarcus Robinson
+- Player name: Demarcus Robinson
+- Player ID: 3286
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
 ## PLAYER LOOKUP: Denzel Boston
 - Player name: Denzel Boston
 - Player ID: 13346
@@ -819,6 +827,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
+
+## PLAYER LOOKUP: Jack Bech
+- Player name: Jack Bech
+- Player ID: 12483
+- Position: WR
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Jacoby Brissett
 - Player name: Jacoby Brissett
@@ -1940,14 +1956,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
-## PLAYER LOOKUP: Zavion Thomas
-- Player name: Zavion Thomas
-- Player ID: 13411
-- Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Zay Flowers
 - Player name: Zay Flowers
 - Player ID: 9997
@@ -1992,15 +2000,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: PIT
 - Championship AVI (C-AVI, 0-100): 43.9
 - Dynasty AVI (D-AVI, 0-100): 51.2
-- Availability: available
-
-## AVAILABLE PLAYER: Jack Bech
-- Player name: Jack Bech
-- Player ID: 12483
-- Position: WR
-- NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 43.2
-- Dynasty AVI (D-AVI, 0-100): 59.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Theo Johnson
@@ -2804,15 +2803,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 27.8
 - Availability: available
 
-## AVAILABLE PLAYER: Demarcus Robinson
-- Player name: Demarcus Robinson
-- Player ID: 3286
-- Position: WR
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 23.4
-- Dynasty AVI (D-AVI, 0-100): 29.3
-- Availability: available
-
 ## AVAILABLE PLAYER: Nick Westbrook-Ikhine
 - Player name: Nick Westbrook-Ikhine
 - Player ID: 7496
@@ -3261,6 +3251,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: GB
 - Championship AVI (C-AVI, 0-100): 16.1
 - Dynasty AVI (D-AVI, 0-100): 38.0
+- Availability: available
+
+## AVAILABLE PLAYER: Zavion Thomas
+- Player name: Zavion Thomas
+- Player ID: 13411
+- Position: WR
+- NFL team: CHI
+- Championship AVI (C-AVI, 0-100): 16.1
+- Dynasty AVI (D-AVI, 0-100): 39.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Devin Neal

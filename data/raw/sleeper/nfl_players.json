@@ -347065,14 +347065,14 @@
     "injury_body_part": "Knee - ACL",
     "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "Out",
+    "injury_status": "",
     "kalshi_id": "1caecb81-905f-4169-9def-8fa32589fbd0",
     "last_name": "Hill",
     "metadata": {
       "channel_id": "1113708734774800384",
       "genius_id": "941269",
-      "injury_override_regular_2026_0": "Active",
       "injury_override_regular_2026_1": "Active",
+      "injury_override_regular_2026_2": "Active",
       "rookie_year": "2016"
     },
     "news_updated": 1789069820372,
