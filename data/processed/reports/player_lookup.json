@@ -3,18 +3,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00007600",
-      "c_avi": 58.2,
-      "d_avi": 61.9,
-      "nfl_team": "PIT",
-      "player_name": "Pat Freiermuth",
-      "position": "TE",
-      "sleeper_id": "7600",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004066",
       "c_avi": 52.9,
       "d_avi": 55.8,
@@ -87,18 +75,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00001373",
-      "c_avi": 41.9,
-      "d_avi": 57.2,
-      "nfl_team": "NYJ",
-      "player_name": "Geno Smith",
-      "position": "QB",
-      "sleeper_id": "1373",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011627",
       "c_avi": 41.9,
       "d_avi": 64.1,
@@ -123,6 +99,30 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00002505",
+      "c_avi": 41.4,
+      "d_avi": 28.7,
+      "nfl_team": "CAR",
+      "player_name": "Darren Waller",
+      "position": "TE",
+      "sleeper_id": "2505",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00000096",
+      "c_avi": 40.7,
+      "d_avi": 51.5,
+      "nfl_team": "PIT",
+      "player_name": "Aaron Rodgers",
+      "position": "QB",
+      "sleeper_id": "96",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00004017",
       "c_avi": 39.9,
       "d_avi": 53.6,
@@ -142,6 +142,18 @@
       "player_name": "Noah Fant",
       "position": "TE",
       "sleeper_id": "5857",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00006768",
+      "c_avi": 38.9,
+      "d_avi": 58.1,
+      "nfl_team": "ATL",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "sleeper_id": "6768",
       "status": "Active"
     },
     {
@@ -214,18 +226,6 @@
       "player_name": "Shedeur Sanders",
       "position": "QB",
       "sleeper_id": "12524",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013421",
-      "c_avi": 36.4,
-      "d_avi": 55.2,
-      "nfl_team": "NE",
-      "player_name": "Eli Raridon",
-      "position": "TE",
-      "sleeper_id": "13421",
       "status": "Active"
     },
     {
@@ -310,6 +310,18 @@
       "player_name": "Bryce Lance",
       "position": "WR",
       "sleeper_id": "13420",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00011647",
+      "c_avi": 34.1,
+      "d_avi": 54.9,
+      "nfl_team": "LAC",
+      "player_name": "Kimani Vidal",
+      "position": "RB",
+      "sleeper_id": "11647",
       "status": "Active"
     },
     {
@@ -418,18 +430,6 @@
       "player_name": "Tyquan Thornton",
       "position": "WR",
       "sleeper_id": "8188",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00006130",
-      "c_avi": 31.9,
-      "d_avi": 40.2,
-      "nfl_team": "NYG",
-      "player_name": "Devin Singletary",
-      "position": "RB",
-      "sleeper_id": "6130",
       "status": "Active"
     },
     {
@@ -675,6 +675,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011237",
+      "c_avi": 29.0,
+      "d_avi": 56.2,
+      "nfl_team": "DET",
+      "player_name": "Jacob Saylors",
+      "position": "RB",
+      "sleeper_id": "11237",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008917",
       "c_avi": 28.8,
       "d_avi": 40.3,
@@ -723,18 +735,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00009757",
-      "c_avi": 28.1,
-      "d_avi": 45.2,
-      "nfl_team": "NO",
-      "player_name": "Kendre Miller",
-      "position": "RB",
-      "sleeper_id": "9757",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00013278",
       "c_avi": 28.1,
       "d_avi": 60.1,
@@ -754,18 +754,6 @@
       "player_name": "Marcus Mariota",
       "position": "QB",
       "sleeper_id": "2307",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013424",
-      "c_avi": 28.0,
-      "d_avi": 46.8,
-      "nfl_team": "IND",
-      "player_name": "Seth McGowan",
-      "position": "RB",
-      "sleeper_id": "13424",
       "status": "Active"
     },
     {
@@ -850,6 +838,18 @@
       "player_name": "Kevin Coleman",
       "position": "WR",
       "sleeper_id": "13338",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013347",
+      "c_avi": 26.4,
+      "d_avi": 54.7,
+      "nfl_team": "MIN",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "sleeper_id": "13347",
       "status": "Active"
     },
     {
@@ -2199,18 +2199,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00003161",
-      "c_avi": 0.0,
-      "d_avi": 1.0,
-      "nfl_team": "MIN",
-      "player_name": "Carson Wentz",
-      "position": "QB",
-      "sleeper_id": "3161",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00013595",
       "c_avi": 0.0,
       "d_avi": 0.0,
@@ -2846,8 +2834,8 @@
     }
   ],
   "counts": {
-    "available_players": 237,
-    "rostered_players": 243
+    "available_players": 236,
+    "rostered_players": 244
   },
   "rostered_players": [
     {
@@ -2897,22 +2885,6 @@
       "status": "Active",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00000096",
-      "c_avi": 40.7,
-      "d_avi": 51.5,
-      "nfl_team": "PIT",
-      "owner_id": "1129546394534158336",
-      "player_name": "Aaron Rodgers",
-      "position": "QB",
-      "roster_id": 12,
-      "sleeper_id": "96",
-      "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -3397,6 +3369,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00003161",
+      "c_avi": 0.0,
+      "d_avi": 1.0,
+      "nfl_team": "MIN",
+      "owner_id": "1129546394534158336",
+      "player_name": "Carson Wentz",
+      "position": "QB",
+      "roster_id": 12,
+      "sleeper_id": "3161",
+      "status": "Active",
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00006786",
       "c_avi": 96.8,
       "d_avi": 98.1,
@@ -3829,22 +3817,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00002505",
-      "c_avi": 41.4,
-      "d_avi": 28.7,
-      "nfl_team": "CAR",
-      "owner_id": "992908759074680832",
-      "player_name": "Darren Waller",
-      "position": "TE",
-      "roster_id": 3,
-      "sleeper_id": "2505",
-      "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00002133",
       "c_avi": 77.7,
       "d_avi": 81.3,
@@ -3973,22 +3945,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00013347",
-      "c_avi": 26.4,
-      "d_avi": 54.7,
-      "nfl_team": "MIN",
-      "owner_id": "992908759074680832",
-      "player_name": "Demond Claiborne",
-      "position": "RB",
-      "roster_id": 3,
-      "sleeper_id": "13347",
-      "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00013346",
       "c_avi": 56.1,
       "d_avi": 76.7,
@@ -4033,6 +3989,22 @@
       "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00006130",
+      "c_avi": 31.9,
+      "d_avi": 40.2,
+      "nfl_team": "NYG",
+      "owner_id": "737531831641128960",
+      "player_name": "Devin Singletary",
+      "position": "RB",
+      "roster_id": 7,
+      "sleeper_id": "6130",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,
@@ -4097,6 +4069,22 @@
       "status": "Inactive",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013421",
+      "c_avi": 36.4,
+      "d_avi": 55.2,
+      "nfl_team": "NE",
+      "owner_id": "992908759074680832",
+      "player_name": "Eli Raridon",
+      "position": "TE",
+      "roster_id": 3,
+      "sleeper_id": "13421",
+      "status": "Active",
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -4225,6 +4213,22 @@
       "status": "Active",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00001373",
+      "c_avi": 41.9,
+      "d_avi": 57.2,
+      "nfl_team": "NYJ",
+      "owner_id": "990097041671892992",
+      "player_name": "Geno Smith",
+      "position": "QB",
+      "roster_id": 15,
+      "sleeper_id": "1373",
+      "status": "Active",
+      "team_file": "15_Gringo_s_Goblins.md",
+      "team_name": "Gringo’s Goblins "
     },
     {
       "active": true,
@@ -4462,22 +4466,6 @@
       "position": "WR",
       "roster_id": 7,
       "sleeper_id": "7564",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011237",
-      "c_avi": 29.0,
-      "d_avi": 56.2,
-      "nfl_team": "DET",
-      "owner_id": "737531831641128960",
-      "player_name": "Jacob Saylors",
-      "position": "RB",
-      "roster_id": 7,
-      "sleeper_id": "11237",
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
@@ -5269,6 +5257,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00009757",
+      "c_avi": 28.1,
+      "d_avi": 45.2,
+      "nfl_team": "NO",
+      "owner_id": "737531831641128960",
+      "player_name": "Kendre Miller",
+      "position": "RB",
+      "roster_id": 7,
+      "sleeper_id": "9757",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00008151",
       "c_avi": 91.7,
       "d_avi": 93.1,
@@ -5345,22 +5349,6 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011647",
-      "c_avi": 34.1,
-      "d_avi": 54.9,
-      "nfl_team": "LAC",
-      "owner_id": "737531831641128960",
-      "player_name": "Kimani Vidal",
-      "position": "RB",
-      "roster_id": 7,
-      "sleeper_id": "11647",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
     },
     {
       "active": true,
@@ -5909,6 +5897,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00007600",
+      "c_avi": 58.2,
+      "d_avi": 61.9,
+      "nfl_team": "PIT",
+      "owner_id": "998253660243054592",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "roster_id": 13,
+      "sleeper_id": "7600",
+      "status": "Active",
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00004046",
       "c_avi": 74.8,
       "d_avi": 81.8,
@@ -6213,6 +6217,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00013424",
+      "c_avi": 28.0,
+      "d_avi": 46.8,
+      "nfl_team": "IND",
+      "owner_id": "992908759074680832",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "roster_id": 3,
+      "sleeper_id": "13424",
+      "status": "Active",
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00002449",
       "c_avi": 59.8,
       "d_avi": 66.9,
@@ -6497,22 +6517,6 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00006768",
-      "c_avi": 38.9,
-      "d_avi": 58.1,
-      "nfl_team": "ATL",
-      "owner_id": "990097041671892992",
-      "player_name": "Tua Tagovailoa",
-      "position": "QB",
-      "roster_id": 15,
-      "sleeper_id": "6768",
-      "status": "Active",
-      "team_file": "15_Gringo_s_Goblins.md",
-      "team_name": "Gringo’s Goblins "
     },
     {
       "active": true,
