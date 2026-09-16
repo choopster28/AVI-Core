@@ -3,451 +3,443 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-15 16:47:46",
-      "created_formated": "Tue, Sep 15th 4:47pm UTC",
-      "desc": "The Chiefs re-signed CB Melvin Smith Jr. to their practice squad. ",
-      "id": 608098,
-      "impact": "Smith spent part of last season with Kansas City before he was waived. ",
-      "link": "https://www.fantasypros.com/nfl/news/608098/melvin-smith-jr-re-signs-with-chiefs.php",
-      "player_id": 27840,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Melvin Smith Jr. re-signs with Chiefs "
-    },
-    {
-      "author": "Nate Miller",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-09-15 16:28:07",
-      "created_formated": "Tue, Sep 15th 4:28pm UTC",
-      "desc": "C.J. Stroud connected on 26-of-38 passes for 274 yards and two touchdowns in Sunday's 36-31 loss to the Bills. ",
-      "id": 608097,
-      "impact": "Stroud added 15 yards on a couple of carries and did not throw an interception in Sunday's season opener. He did lose a couple of fumbles, however, as the Texans took a loss in this Week 1 shootout. Still, this was an encouraging start for the third-year QB, and he's certainly at least going to be on the streaming radar for a Week 2 matchup with the Bengals. ",
-      "link": "https://www.fantasypros.com/nfl/news/608097/cj-stroud-plays-well-week-1-loss.php",
-      "player_id": 23071,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "C.J. Stroud plays well in Week 1 loss"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 16:24:21",
-      "created_formated": "Tue, Sep 15th 4:24pm UTC",
-      "desc": "Woody Marks rushed for 42 yards on nine carries and caught his only target for a two-yard loss in Sunday's 36-31 loss to the Bills. ",
-      "id": 608096,
-      "impact": "Marks was certainly involved in the offense behind new workhorse back David Montgomery on Sunday. Marks averaged close to 5.0 yards per carry on his nine attempts. He'll remain a useful handcuff to Montgomery for now. ",
-      "link": "https://www.fantasypros.com/nfl/news/608096/woody-marks-gets-10-touches-week-1.php",
-      "player_id": 27520,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Woody Marks gets 10 touches in Week 1"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 16:18:50",
-      "created_formated": "Tue, Sep 15th 4:18pm UTC",
-      "desc": "The Buffalo Bills D/ST had two fumble recoveries and three sacks against the Texans on Sunday in their 36-31 win.",
-      "id": 608095,
-      "impact": "Buffalo had a \"bend, don't break\" sort of game against Houston, especially in the final minutes. The Texans had worked their way down the field to try for a potential game winning touchdown, but a strip sack on Houston QB CJ Stroud sealed the deal for the Bills. Overall their performance was fine given the turnovers they forced, but not spectacular given the points given up. They'll face the Lions high powered offense on Thursday.",
-      "link": "https://www.fantasypros.com/nfl/news/608095/buffalo-bills-dst-comes-up-big-win-over-houston.php",
-      "player_id": 8030,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Buffalo Bills D/ST comes up big in win over Houston"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 16:15:13",
-      "created_formated": "Tue, Sep 15th 4:15pm UTC",
-      "desc": "Tyler Bass hit all three of his PATs and all three of his field goal attempts on his way to 12 kicking points in the Bills' 36-31 win over Houston.",
-      "id": 608094,
-      "impact": "Bass had himself a great week against the Texans defense, spurred by the amount of offense Josh Allen and the rest of the crew were getting. He should be a good value moving forward as part of this high-powered offense.",
-      "link": "https://www.fantasypros.com/nfl/news/608094/tyler-bass-has-big-week-win-over-houston.php",
-      "player_id": 19760,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Tyler Bass has big week in win over Houston"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-15 16:11:50",
-      "created_formated": "Tue, Sep 15th 4:11pm UTC",
-      "desc": "The Titans signed LB Jimmy Ciarlo to their practice squad. ",
-      "id": 608093,
-      "impact": "Ciarlo was previously with the Bills. He'll add depth in the linebacker room for Tennessee. ",
-      "link": "https://www.fantasypros.com/nfl/news/608093/jimmy-ciarlo-signs-with-titans.php",
-      "player_id": 26672,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jimmy Ciarlo signs with Titans "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 16:07:21",
-      "created_formated": "Tue, Sep 15th 4:07pm UTC",
-      "desc": "David Montgomery rushed for 60 yards and two scores on 20 carries, adding three receptions for 19 yards and another touchdown in Sunday's 36-31 loss to the Bills. ",
-      "id": 608092,
-      "impact": "Montgomery was given 23 touches in his debut with the Texans, as the veteran back was a focal point of the offense. Granted, he only averaged 3.0 yards per carry, but he found the end zone three times while being involved both on the ground and through the air.",
-      "link": "https://www.fantasypros.com/nfl/news/608092/david-montgomery-has-big-debut-texans.php",
-      "player_id": 18239,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "David Montgomery has big debut for Texans"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 16:02:55",
-      "created_formated": "Tue, Sep 15th 4:02pm UTC",
-      "desc": "Dawson Knox caught just one pass for seven yards in the Bills' 36-31 win over the Texans.",
-      "id": 608090,
-      "impact": "Knox is playing second fiddle to Dalton Kincaid in the tight end pecking order, and even further down in the overall order. He's not worth starting unless Kincaid misses time, and even then could be a bit iffy.",
-      "link": "https://www.fantasypros.com/nfl/news/608090/dawson-knox-uninvolved-win-over-texans.php",
-      "player_id": 18631,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Dawson Knox uninvolved in win over Texans"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 16:00:56",
-      "created_formated": "Tue, Sep 15th 4:00pm UTC",
-      "desc": "Ray Davis had a single carry for three yards in the Bills' 36-31 win over the Texans on Sunday. He also returned two kicks for 51 yards.",
-      "id": 608087,
-      "impact": "Davis is operating as the RB2 behind James Cook and one of the Bills primary special teams returners, which is a good sign of trust. While he didn't see much of anything on offense this week, should anything happen to Cook, Davis will be a high priority pickup.",
-      "link": "https://www.fantasypros.com/nfl/news/608087/ray-davis-sees-single-carry-win.php",
-      "player_id": 26191,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Ray Davis sees single carry in win"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:54:12",
-      "created_formated": "Tue, Sep 15th 3:54pm UTC",
-      "desc": "Nico Collins grabbed 7-of-10 targets for 75 yards and a touchdown in Sunday's 36-31 loss to the Bills. ",
-      "id": 608081,
-      "impact": "Nico Collins played his typical go-to role for QB C.J. Stroud on Sunday. Collins led the team in receptions, targets, and yards. He also found the end zone for the first time this season, hitting paydirt on a 12-yard play just before halftime. Collins is a WR1 for fantasy purposes. ",
-      "link": "https://www.fantasypros.com/nfl/news/608081/nico-collins-turns-strong-season-debut.php",
-      "player_id": 20130,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Nico Collins turns in strong season debut"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:53:34",
-      "created_formated": "Tue, Sep 15th 3:53pm UTC",
-      "desc": "Joshua Palmer caught one of two targets for 34 yards and a score in the Bills' 36-31 win over the Texans on Sunday.",
-      "id": 608080,
-      "impact": "Palmer's fantasy day was saved by the touchdown, but unless you have him in bestball formats, it didn't do your team much good. He's the fifth best target at best in Buffalo right now, so it will be slim pickings with the roster currently healthy.",
-      "link": "https://www.fantasypros.com/nfl/news/608080/joshua-palmer-snags-touchdown-win-over-houston.php",
-      "player_id": 22845,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Joshua Palmer snags touchdown in win over Houston"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:51:14",
-      "created_formated": "Tue, Sep 15th 3:51pm UTC",
-      "desc": "Kayshon Boutte caught 1-of-2 targets for 21 yards in Sunday's 36-31 loss to the Bills. ",
-      "id": 608078,
-      "impact": "Boutte was acquired from New England late in the preseason to shore up the Texans' wide receiver corps. His big-play potential is known from the last couple of years with the Patriots, but his targets were predictably limited in an offense that is still relatively new to him. Boutte is a wait-and-see bench stash in standard fantasy leagues. ",
-      "link": "https://www.fantasypros.com/nfl/news/608078/kayshon-boutte-makes-only-catch-texans-debut.php",
-      "player_id": 22989,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Kayshon Boutte makes only catch in Texans debut"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:50:13",
-      "created_formated": "Tue, Sep 15th 3:50pm UTC",
-      "desc": "Keon Coleman caught his only target for a yard in the Bills' 36-31 win over the Texans on Sunday.",
-      "id": 608076,
-      "impact": "Coleman was very quiet in a game where Josh Allen threw for over 300 yards. He's off of fantasy radars right now, and will need to show some signs of life before being brought back into fantasy lineups.",
-      "link": "https://www.fantasypros.com/nfl/news/608076/keon-coleman-quiet-big-win-over-houston.php",
-      "player_id": 26019,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Keon Coleman quiet in big win over Houston"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:46:43",
-      "created_formated": "Tue, Sep 15th 3:46pm UTC",
-      "desc": "Jaylin Noel hauled in both of his targets for 53 yards in Sunday's 36-31 loss to the Bills. ",
-      "id": 608075,
-      "impact": "Noel only got two looks from C.J. Stroud on Sunday, but he had the longest gain of the day with a 35-yard pickup. The second-year receiver out of Iowa State has big-play potential every week, but he may not see enough volume to move beyond being a boom-or-bust fantasy option. ",
-      "link": "https://www.fantasypros.com/nfl/news/608075/jaylin-noel-shows-big-play-ability-on-limited-targets.php",
-      "player_id": 27122,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Jaylin Noel shows big-play ability on limited targets"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:46:12",
-      "created_formated": "Tue, Sep 15th 3:46pm UTC",
-      "desc": "Khalil Shakir caught four of six targets for 50 yards in the Bills' 36-31 win over Houston on Sunday.",
-      "id": 608074,
-      "impact": "Shakir operated as Josh Allen's safety valve underneath with DJ Moore and Dalton Kincaid working over the top. That's been Shakir's role in the past, so don't expect it to stop any time soon. His upside is capped because of it, but he's a decent flex play in PPR formats if you need a solid floor.",
-      "link": "https://www.fantasypros.com/nfl/news/608074/khalil-shakir-goes-50-yards-win.php",
-      "player_id": 23748,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Khalil Shakir goes for 50 yards in win"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:43:23",
-      "created_formated": "Tue, Sep 15th 3:43pm UTC",
-      "desc": "Xavier Hutchinson caught 3-of-6 targets for 32 yards in Sunday's 36-31 loss to the Bills. ",
-      "id": 608073,
-      "impact": "Hutchinson saw the third-most targets from C.J. Stroud on Sunday. The Texans are looking for a No. 2 wide receiver to emerge behind Nico Collins, and though Hutchinson's upside may be limited, he might be the guy at the moment. The fourth-year pro hauled in 35 passes for 428 yards and three scores over 17 games last season. ",
-      "link": "https://www.fantasypros.com/nfl/news/608073/xavier-hutchinson-finishes-with-three-grabs-week-1.php",
-      "player_id": 25332,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Xavier Hutchinson finishes with three grabs in Week 1"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:36:49",
-      "created_formated": "Tue, Sep 15th 3:36pm UTC",
-      "desc": "Dalton Schultz secured 4-of-8 targets for 35 yards in Sunday's 36-31 loss to the Bills. ",
-      "id": 608072,
-      "impact": "Schultz caught a career-high 82 passes last season, and he remains a steady presence in the Texans' offense. The veteran tight end finished second on the team with eight targets, trailing only Nico Collins' 10. Schultz has a limited ceiling, but he's almost always on the TE streaming radar. ",
-      "link": "https://www.fantasypros.com/nfl/news/608072/dalton-schultz-hauls-four-passes.php",
-      "player_id": 17349,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Dalton Schultz hauls in four passes "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:33:49",
-      "created_formated": "Tue, Sep 15th 3:33pm UTC",
-      "desc": "DJ Moore caught 5 of 8 targets for 100 yards and a touchdown in the Bills' 36-31 win over the Texans.",
-      "id": 608071,
-      "impact": "Moore looked good and re-invigorated in this game, showing off some of his old self against a Houston defense that didn't look like its normal self. His touchdown was a bit fluky, as the defensive back solely made a play on the ball and failed do to so, leaving no one around Moore while he walked in for a score. But, fantasy managers won't be complaining. Next up for DJ are the Detroit Lions, who just allowed big days for Chris Olave and Devaughn Vele on Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/608071/dj-moore-goes-100-yards-win-over-houston.php",
-      "player_id": 17265,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "DJ Moore goes for 100 yards in win over Houston"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:29:36",
-      "created_formated": "Tue, Sep 15th 3:29pm UTC",
-      "desc": "Dalton Kincaid caught five of six targets for 130 yards in the Bills' 36-31 win over the Texans on Sunday.",
-      "id": 608070,
-      "impact": "Kincaid had arguably his best game as a pro, acheiving a career-high 130 receiving yards in what should have been tough sledding against Houston. He tied with Khalil Shakir for second in targets on the Bills, but vastly outproduced Shakir in yards. His downfield usage was encouraging, and it's a promising start to his fourth season. Now to see if it keeps up.",
-      "link": "https://www.fantasypros.com/nfl/news/608070/dalton-kincaid-has-breakout-game-against-texans.php",
-      "player_id": 25247,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Dalton Kincaid has breakout game against Texans"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:27:32",
-      "created_formated": "Tue, Sep 15th 3:27pm UTC",
-      "desc": "Ka'imi Fairbairn made his only field-goal try and all four of his PATs in Sunday's 36-31 loss to the Bills. ",
-      "id": 608069,
-      "impact": "Fairbairn showed off his powerful leg in Sunday's loss, nailing a 58-yard attempt to briefly give the Texans a one-point lead in the fourth quarter. The veteran has been kicking for the Texans since 2017 and remains one of the more reliable options in the league. ",
-      "link": "https://www.fantasypros.com/nfl/news/608069/kaimi-fairbairn-puts-seven-points-on-board.php",
-      "player_id": 15756,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Ka'imi Fairbairn puts seven points on the board"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:24:53",
-      "created_formated": "Tue, Sep 15th 3:24pm UTC",
-      "desc": "James Cook III ran 13 times for 57 yards and caught three of four targets for 12 yards in the Bills' 36-31 win over the Texans on Sunday.",
-      "id": 608068,
-      "impact": "Cook was fine on his touches and was saved by his three receptions in PPR formats, but it fantasy managers will be hoping for more. He's still a premium running back, and he will get his chance early this week as the Bills play the Lions on Thursday night.",
-      "link": "https://www.fantasypros.com/nfl/news/608068/james-cook-iii-goes-69-yards-big-win-over-texans.php",
-      "player_id": 22958,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "James Cook III goes for 69 yards in big win over Texans"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:23:07",
-      "created_formated": "Tue, Sep 15th 3:23pm UTC",
-      "desc": "The Texans D/ST allowed 36 points on 409 yards of total offense while coming up with two sacks and no takeaways in Sunday's loss to the Bills. ",
-      "id": 608067,
-      "impact": "The Texans should feature a solid defensive unit this season, but they ran into a potent Bills' offense in Week 1. Powered by QB Josh Allen, the Bills shredded the Texans' pass defense, totaling 334 yards and a couple of scores through the air. Houston did come up with a couple of sacks, but Allen mostly had his way. The Texans will face another top-tier QB when Joe Burrow and the Bengals visit Houston in Week 2. ",
-      "link": "https://www.fantasypros.com/nfl/news/608067/texans-defense-struggles-to-contain-bills-week-1.php",
-      "player_id": 8120,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Texans defense struggles to contain Bills in Week 1"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:21:38",
-      "created_formated": "Tue, Sep 15th 3:21pm UTC",
-      "desc": "Josh Allen completed 20-of-29 passes for 334 yards with two touchdowns with an additional 23 yards and two scores on the ground on six carries in the Bills' 36-31 win over the Texans on Sunday.",
-      "id": 608066,
-      "impact": "Allen was in complete control on Sunday, carving up what should have been a difficult Texans defense on his way to a four touchdown performance. He will have another nice matchup against Detroit on Thursday who just allowed a 30-point game to the Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/608066/josh-allen-dismantles-houston-defense-big-win.php",
-      "player_id": 17298,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Josh Allen dismantles Houston defense in big win"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-15 15:16:57",
-      "created_formated": "Tue, Sep 15th 3:16pm UTC",
-      "desc": "The San Fransisco 49ers D/ST shut down the Rams offense on Thursday, allowing just seven points in their 27-7 rout of the Super Bowl favorites.",
-      "id": 608065,
-      "impact": "The Niners defensive totals were modest, with one interception and a fumble recovery, but were held without a sack. They just kept the Rams from moving the ball while not racking up much in the \"counting stats\" category. It's a good showing for the team, and a date with the Dolphins is on tap. They are a great DST option this week if available.",
-      "link": "https://www.fantasypros.com/nfl/news/608065/san-fransisco-49ers-dst-shuts-down-rams-win.php",
-      "player_id": 8270,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "San Fransisco 49ers D/ST shuts down Rams in win"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-15 15:15:12",
-      "created_formated": "Tue, Sep 15th 3:15pm UTC",
-      "desc": "Commanders DE Dorance Armstrong has officially been reinstated by the league following his Week 1 suspension. ",
-      "id": 608064,
-      "impact": "Armstrong will be back for Week 2 against the Cowboys. ",
-      "link": "https://www.fantasypros.com/nfl/news/608064/dorance-armstrong-jr-reinstated-from-suspension.php",
-      "player_id": 17315,
+      "created": "2026-09-15 22:09:52",
+      "created_formated": "Tue, Sep 15th 10:09pm UTC",
+      "desc": "John Bates caught two of his three targets for 13 yards in the Commanders' 24-22 loss to the Philadelphia Eagles in Week 1.",
+      "id": 608211,
+      "impact": "Bates saw minimal involvement in a disappointing Washington passing attack, averaging just 6.5 yards per catch in the loss. The tight end can remain off rosters in all formats, with a Week 2 divisional contest against the Dallas Cowboys up next.",
+      "link": "https://www.fantasypros.com/nfl/news/608211/john-bates-catches-two-passes-week-1.php",
+      "player_id": 22833,
       "sport_id": "NFL",
       "team_id": "WAS",
-      "title": "Dorance Armstrong Jr. reinstated from suspension "
+      "title": "John Bates catches two passes in Week 1"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 22:07:03",
+      "created_formated": "Tue, Sep 15th 10:07pm UTC",
+      "desc": "Jalen Hurts completed 14-of-25 pass attempts for 203 yards and three touchdowns while also rushing seven times for 46 yards in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+      "id": 608210,
+      "impact": "Hurts made the most of an inconsistent season-opening performance behind center, averaging 14.5 yards per completion in the win. The quarterback will look to reward fantasy managers with more explosive dual-threat production in a favorable Week 2 matchup against the Tennessee Titans.",
+      "link": "https://www.fantasypros.com/nfl/news/608210/jalen-hurts-tosses-three-touchdowns-week-1-win-over-commanders.php",
+      "player_id": 19275,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Jalen Hurts tosses three touchdowns in Week 1 win over Commanders"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 22:04:15",
+      "created_formated": "Tue, Sep 15th 10:04pm UTC",
+      "desc": "Saquon Barkley carried the ball 15 times for 83 yards while also catching one of his two targets for a loss of three yards in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+      "id": 608209,
+      "impact": "Barkley made the most of what the Washington defense gave him, averaging 5.5 yards per carry in the win. The running back will look to offer fantasy managers a dynamic RB1 option in a favorable Week 2 matchup against the Tennessee Titans.",
+      "link": "https://www.fantasypros.com/nfl/news/608209/saquon-barkley-leads-backfield-attack-week-1-win-over-commanders.php",
+      "player_id": 17240,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Saquon Barkley leads backfield attack in Week 1 win over Commanders"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 21:56:20",
+      "created_formated": "Tue, Sep 15th 9:56pm UTC",
+      "desc": "Dontayvion Wicks hauled in two of his four targets for 73 yards and one touchdown in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+      "id": 608208,
+      "impact": "Wicks made the most of his modest target share in the season opener, averaging 36.5 yards per reception in the win. The wideout offers head coach Nick Sirianni another explosive pass-catching option moving forward, with a favorable Week 2 matchup against the Tennessee Titans up next.",
+      "link": "https://www.fantasypros.com/nfl/news/608208/dontayvion-wicks-finds-end-zone-week-1-win.php",
+      "player_id": 24354,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Dontayvion Wicks finds end zone in Week 1 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 21:52:02",
+      "created_formated": "Tue, Sep 15th 9:52pm UTC",
+      "desc": "Dallas Goedert hauled in four of his five targets for 77 yards and two touchdowns in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+      "id": 608205,
+      "impact": "Goedert made the most of his involvement in the Philadelphia passing attack in the season opener, leading the team in receiving yards in the win. The tight end offers fantasy managers a steady TE1 option entering a favorable Week 2 contest against the Tennessee Titans.",
+      "link": "https://www.fantasypros.com/nfl/news/608205/dallas-goedert-hauls-two-touchdowns-week-1-win-over-commanders.php",
+      "player_id": 17270,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Dallas Goedert hauls in two touchdowns in Week 1 win over Commanders"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 21:49:11",
+      "created_formated": "Tue, Sep 15th 9:49pm UTC",
+      "desc": "DeVonta Smith caught three of his six targets for 53 yards in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+      "id": 608203,
+      "impact": "The wideout was mostly held in check despite leading the team in targets, finishing behind tight end Dallas Goedert and No. 2 wideout Dontayvion Wicks in receiving yards on the win. The wideout remains one of the more explosive options in the Philadelphia passing attack, with an opportunity to get back on track against the Tennessee Titans in Week 2 up next.",
+      "link": "https://www.fantasypros.com/nfl/news/608203/devonta-smith-catches-three-passes-week-1-win.php",
+      "player_id": 19222,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "DeVonta Smith catches three passes in Week 1 win"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:49:11",
+      "created_formated": "Tue, Sep 15th 9:49pm UTC",
+      "desc": "The Packers hosted WR Nick Nash for a workout. ",
+      "id": 608204,
+      "impact": "Nash will compete to earn a depth role on the practice squad for Green Bay. ",
+      "link": "https://www.fantasypros.com/nfl/news/608204/nick-nash-works-out-packers.php",
+      "player_id": 27263,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Nick Nash works out for Packers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:47:45",
+      "created_formated": "Tue, Sep 15th 9:47pm UTC",
+      "desc": "The Jets worked out WR JuJu Smith-Schuster. ",
+      "id": 608201,
+      "impact": "Smith-Schuster was released by the Giants before the start of the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/608201/juju-smith-schuster-works-out-jets.php",
+      "player_id": 16427,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "JuJu Smith-Schuster works out for Jets"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-15 21:46:34",
+      "created_formated": "Tue, Sep 15th 9:46pm UTC",
+      "desc": "Ravens WR Ja'Kobi Lane is expected to undergo surgery in the coming days. ",
+      "id": 608200,
+      "impact": "Lane could undergo surgery as early as Wednesday. They are hopeful he'll only miss about one month. ",
+      "link": "https://www.fantasypros.com/nfl/news/608200/jakobi-lane-wrist-expected-to-undergo-surgery-miss-one-month.php",
+      "player_id": 27337,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Ja'Kobi Lane (wrist) expected to undergo surgery, miss one month"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 21:46:05",
+      "created_formated": "Tue, Sep 15th 9:46pm UTC",
+      "desc": "Makai Lemon caught three of his four targets for a loss of five yards on the Eagles' 24-22 win over the Washington Commanders in Week 1.",
+      "id": 608199,
+      "impact": "Lemon struggled to find any success in the season opener, as the pass-catcher was bottled up by the Commanders defense in the win. The wideout will look for more impactful output in a favorable Week 2 matchup against the Tennessee Titans.",
+      "link": "https://www.fantasypros.com/nfl/news/608199/makai-lemon-quiet-week-1.php",
+      "player_id": 25420,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Makai Lemon quiet in Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:44:54",
+      "created_formated": "Tue, Sep 15th 9:44pm UTC",
+      "desc": "The Broncos signed WR Lil'Jordan Humphrey to their active roster. ",
+      "id": 608198,
+      "impact": "Humphrey will add depth in the wide receiver room for Denver. ",
+      "link": "https://www.fantasypros.com/nfl/news/608198/liljordan-humphrey-signs-with-broncos.php",
+      "player_id": 18590,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Lil'Jordan Humphrey signs with Broncos "
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 21:42:18",
+      "created_formated": "Tue, Sep 15th 9:42pm UTC",
+      "desc": "Tank Bigsby rushed one time for three yards in the Eagles' 24-22 win over the Washington Commanders in Week 1.",
+      "id": 608196,
+      "impact": "Bigsby was more of an afterthought in the Philadelphia ground attack, finishing last on the team in carries. The running back remains more of a handcuff option for No. 1 running back Saquon Barkley ahead of a Week 2 contest against the Tennessee Titans.",
+      "link": "https://www.fantasypros.com/nfl/news/608196/tank-bigsby-sees-one-touch-week-1.php",
+      "player_id": 22908,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Tank Bigsby sees one touch in Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:42:07",
+      "created_formated": "Tue, Sep 15th 9:42pm UTC",
+      "desc": "The Colts signed CB Johnathan Edwards to the practice squad. ",
+      "id": 608195,
+      "impact": "Edwards will add depth in the secondary for Indianapolis. ",
+      "link": "https://www.fantasypros.com/nfl/news/608195/johnathan-edwards-signs-with-colts.php",
+      "player_id": 27841,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Johnathan Edwards signs with Colts"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:40:49",
+      "created_formated": "Tue, Sep 15th 9:40pm UTC",
+      "desc": "The Texans hosted free agent LB Kenneth Murray Jr. for a visit on Tuesday. ",
+      "id": 608194,
+      "impact": "Murray formerly spent time with the Chargers, Titans and Cowboys. ",
+      "link": "https://www.fantasypros.com/nfl/news/608194/kenneth-murray-jr-visits-texans.php",
+      "player_id": 19212,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Kenneth Murray Jr. visits Texans "
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 21:39:46",
+      "created_formated": "Tue, Sep 15th 9:39pm UTC",
+      "desc": "Will Shipley rushed twice for four yards while also catching his only target for eight yards in the Eagles' 24-22 win over the Washington Commanders in Week 1.",
+      "id": 608193,
+      "impact": "Shipley saw minimal involvement out of the backfield, with No. 1 running back Saquon Barkley out-touching him 16-3 in the win. The running back can remain off rosters until further notice, with a Week 2 contest against the Tennessee Titans up next.",
+      "link": "https://www.fantasypros.com/nfl/news/608193/will-shipley-sees-three-touches-week-1.php",
+      "player_id": 22930,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Will Shipley sees three touches in Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:38:52",
+      "created_formated": "Tue, Sep 15th 9:38pm UTC",
+      "desc": "The Jaguars signed OLB BJ Ojulari. ",
+      "id": 608192,
+      "impact": "Ojulari was formerly with the Cardinals. He lands a fresh start just at 24 years old. ",
+      "link": "https://www.fantasypros.com/nfl/news/608192/bj-ojulari-signs-with-jaguars.php",
+      "player_id": 24691,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "BJ Ojulari signs with Jaguars "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:37:20",
+      "created_formated": "Tue, Sep 15th 9:37pm UTC",
+      "desc": "The Steelers hosted OT Austin Deculus for a workout. ",
+      "id": 608191,
+      "impact": "Deculus was one of two offensive tackles hosted by Pittsburgh on Tuesday. ",
+      "link": "https://www.fantasypros.com/nfl/news/608191/austin-deculus-works-out-steelers.php",
+      "player_id": 24266,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Austin Deculus works out for Steelers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:36:39",
+      "created_formated": "Tue, Sep 15th 9:36pm UTC",
+      "desc": "The Steelers hosted OT Charlie Heck for a workout. ",
+      "id": 608190,
+      "impact": "Heck was one of two offensive tackles hosted by Pittsburgh on Tuesday. ",
+      "link": "https://www.fantasypros.com/nfl/news/608190/charlie-heck-works-out-steelers.php",
+      "player_id": 19591,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Charlie Heck works out for Steelers"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:30:20",
+      "created_formated": "Tue, Sep 15th 9:30pm UTC",
+      "desc": "The Panthers waived WR Jimmy Horn Jr.",
+      "id": 608189,
+      "impact": "Horn did not see one target in Week 1. He will look to land a fresh start with another team. ",
+      "link": "https://www.fantasypros.com/nfl/news/608189/jimmy-horn-jr-waived-by-panthers.php",
+      "player_id": 27294,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jimmy Horn Jr. waived by Panthers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:29:20",
+      "created_formated": "Tue, Sep 15th 9:29pm UTC",
+      "desc": "The Ravens released K Jake Moody from their practice squad.",
+      "id": 608188,
+      "impact": "Moody will look to compete with another team. ",
+      "link": "https://www.fantasypros.com/nfl/news/608188/jake-moody-released-by-ravens.php",
+      "player_id": 24009,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jake Moody released by Ravens"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-15 21:28:39",
+      "created_formated": "Tue, Sep 15th 9:28pm UTC",
+      "desc": "D.J. Reed Jr. was limited in practice on Tuesday. ",
+      "id": 608187,
+      "impact": "Reed was added to the injury report on Tuesday. He'll need to be monitored in practice on Wednesday ahead of Thursday's game against the Bills. ",
+      "link": "https://www.fantasypros.com/nfl/news/608187/dj-reed-jr-foot-limited-practice-tuesday.php",
+      "player_id": 17375,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "D.J. Reed Jr. (foot) limited in practice Tuesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-15 21:27:35",
+      "created_formated": "Tue, Sep 15th 9:27pm UTC",
+      "desc": "The Jets signed WR Tyler Johnson to their practice squad. ",
+      "id": 608186,
+      "impact": "Johnson will add depth in the wide receiver room with Omar Cooper week-to-week. ",
+      "link": "https://www.fantasypros.com/nfl/news/608186/tyler-johnson-signs-with-jets.php",
+      "player_id": 18633,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Tyler Johnson signs with Jets"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-15 21:26:32",
+      "created_formated": "Tue, Sep 15th 9:26pm UTC",
+      "desc": "Ty Johnson was limited in practice on Tuesday. ",
+      "id": 608185,
+      "impact": "Johnson was also listed as limited on Monday. He remains up in the air for Thursday's short week game against the Lions. ",
+      "link": "https://www.fantasypros.com/nfl/news/608185/ty-johnson-hamstring-limited-practice-tuesday.php",
+      "player_id": 18406,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Ty Johnson (hamstring) limited in practice Tuesday "
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-15 21:25:49",
+      "created_formated": "Tue, Sep 15th 9:25pm UTC",
+      "desc": "The Eagles D/ST registered one sack while failing to force any turnovers in a 24-22 win over the Washington Commanders in Week 1.",
+      "id": 608184,
+      "impact": "The unit left plenty to be desired in the season-opening win, allowing 296 offensive yards and three touchdowns on the day. The defense will look for more disruptive results for fantasy managers against an underwhelming Tennessee Titans offense in Week 2.",
+      "link": "https://www.fantasypros.com/nfl/news/608184/eagles-dst-registers-one-sack-week-1.php",
+      "player_id": 8230,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Eagles D/ST registers one sack in Week 1"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-15 21:25:28",
+      "created_formated": "Tue, Sep 15th 9:25pm UTC",
+      "desc": "The Chargers placed WR KeAndre Lambert-Smith on injured reserve. ",
+      "id": 608183,
+      "impact": "Lambert-Smith suffered the injury in the season opener. He will miss at least the next four games. ",
+      "link": "https://www.fantasypros.com/nfl/news/608183/keandre-lambert-smith-placed-on-ir.php",
+      "player_id": 24372,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "KeAndre Lambert-Smith placed on IR "
     }
   ],
   "public_api_limited": true,
