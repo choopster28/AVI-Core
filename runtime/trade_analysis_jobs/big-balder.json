@@ -1,5 +1,43 @@
 [
   {
+    "id": "mu4atb9f-ce92d235",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "DMV Fantasy",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2027 2nd · Goblins · Projected early range (2.01–2.05)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 2nd · Balder · Projected late range (2.10–2.16)",
+            "assetType": "pick"
+          },
+          {
+            "name": "Kayshon Boutte",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jalen Coker",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1789575108675,
+    "updatedAt": 1789575108675,
+    "expiresAt": 1790007108675,
+    "status": "queued"
+  },
+  {
     "id": "mu4aj8vu-12ab267d",
     "phase": "initial",
     "mode": "analyze_trade",
