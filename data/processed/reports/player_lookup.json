@@ -1090,7 +1090,7 @@
       "player_name": "Jake Tonges",
       "position": "TE",
       "sleeper_id": "8698",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -3878,7 +3878,7 @@
       "position": "WR",
       "roster_id": 1,
       "sleeper_id": "13417",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
     },
