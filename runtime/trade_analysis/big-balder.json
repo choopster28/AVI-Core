@@ -1,5 +1,406 @@
 [
   {
+    "id": "mu4atb9f-ce92d235",
+    "createdAt": 1789575169994,
+    "expiresAt": 1790007169994,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Big Balder Brand ↔ DMV Fantasy",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "DMV Fantasy",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2027 2nd · Goblins · Projected early range (2.01–2.05)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 2nd · Balder · Projected late range (2.10–2.16)",
+            "assetType": "pick"
+          },
+          {
+            "name": "Kayshon Boutte",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jalen Coker",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand's proposed offer to acquire Jalen Coker from DMV Fantasy is an overpay that unnecessarily drains future draft capital. While acquiring Coker (24yo WR, 58.1 C-AVI / 73.7 D-AVI) strengthens WR bench depth behind starters Rashee Rice, Nico Collins, and FLEX options Chris Godwin and Khalil Shakir, sending Kayshon Boutte alongside TWO 2nd-round picks (2027 Goblins early 2nd and 2028 Balder late 2nd) surrenders too much draft liquidity for a player who does not immediately enter Big Balder Brand's active starting eight lineup. Rebuilder DMV Fantasy would accept the submitted offer immediately, but AVI strongly recommends revising the offer by pulling back the 2028 2nd-round pick to preserve trade flexibility for the championship run.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2027 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "Kayshon Boutte",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 24,
+              "cavi": 48.4,
+              "davi": 66.7,
+              "publicMarket": 38,
+              "leagueMarket": 48.4
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 24,
+              "cavi": 58.1,
+              "davi": 73.7,
+              "publicMarket": 62,
+              "leagueMarket": 58.1
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "A",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "DMV Fantasy",
+            "summary": "Big Balder Brand overpays for Jalen Coker by giving up two 2nd-round picks alongside Kayshon Boutte. Coker adds quality WR bench depth, but because he does not crack Big Balder Brand's top starting eight over Chris Godwin (66.0 C-AVI) or Khalil Shakir (61.1 C-AVI), burning two 2nd-round picks severely weakens draft capital flexibility for an Elite Contender."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By removing the 2028 2nd-round pick and offering Kayshon Boutte plus the 2027 2nd (Goblins), Big Balder Brand acquires Jalen Coker at market value while retaining 2028 capital. DMV Fantasy still receives a strong rebuilding return consisting of an early 2027 2nd and a young receiver."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 5,
+              "summary": "Acquires Jalen Coker over Kayshon Boutte, raising bench WR floor and injury resilience behind Rice and Collins."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Gives up two 2nd-round picks and Boutte (163.7 total D-AVI) for Coker (73.7 D-AVI), resulting in a net long-term value drop."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Active starting eight offensive lineup remains unchanged as Chris Godwin (66.0 C-AVI) retains the FLEX2 spot ahead of Coker (58.1 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Coker provides dependable WR bench depth following his 8-catch Week 1 performance and contract extension."
+            },
+            "flexibilityLiquidity": {
+              "score": -45,
+              "summary": "Depletes future draft pick inventory by relinquishing 2nd-round picks in back-to-back draft classes."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Surrendering two 2nd-round draft picks for a non-starting bench WR piece reduces overall capital efficiency for an Elite Contender."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Slight decrease in immediate starting WR output, fully aligned with DMV Fantasy's verified Rebuild status."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Net gain of +90.0 D-AVI in asset accumulation across draft picks and young roster depth."
+            },
+            "lineupQuality": {
+              "score": -5,
+              "summary": "Boutte replaces Coker in active starting options with a moderate projection drop."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds multiple future draft picks to address roster needs during upcoming rookie drafts."
+            },
+            "flexibilityLiquidity": {
+              "score": 50,
+              "summary": "Acquires two valuable 2nd-round picks, providing significant trade currency and draft leverage."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Capitalizes on Coker's hot start to accumulate two 2nd-round picks and a young receiver for an ongoing rebuild."
+            }
+          },
+          "explanation": "The submitted transaction represents a distinct asset premium transfer from Big Balder Brand to DMV Fantasy. Big Balder Brand secures minor bench WR safety but sacrifices draft liquidity, while rebuilding DMV Fantasy lands draft capital."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand acquires Jalen Coker (58.1 C-AVI), who strengthens WR bench depth behind active starters Rashee Rice (93.7 C-AVI), Nico Collins (92.4 C-AVI), and FLEX options Chris Godwin (66.0 C-AVI) and Khalil Shakir (61.1 C-AVI). Lineup sum remains stable at 695.3 C-AVI.",
+          "sideADynastyImpact": "Big Balder Brand sends Boutte (66.7 D-AVI), 2027 2nd Goblins (48.5 D-AVI), and 2028 2nd Balder (48.5 D-AVI) totaling 163.7 D-AVI to receive Coker (73.7 D-AVI), creating a net D-AVI deficit of -90.0.",
+          "sideARosterImpact": "Upgrades bench WR depth from Boutte to Coker while emptying 2nd-round draft pick inventory in 2027 and 2028.",
+          "sideBChampionshipImpact": "DMV Fantasy sends Coker (58.1 C-AVI) and receives Boutte (48.4 C-AVI), shifting WR/FLEX duty to Antonio Williams and Cooper Kupp.",
+          "sideBDynastyImpact": "DMV Fantasy gains +90.0 D-AVI in long-term rebuild value by turning Coker into two 2nd-round picks and Boutte.",
+          "sideBRosterImpact": "Rebuilding roster turns a surging WR into draft capital and a young receiver prospect.",
+          "valueAssessment": "Submitted offer is a substantial overpay by Big Balder Brand for bench receiver depth."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus on Jalen Coker has surged following an 8-catch, 138-yard, 2-TD Week 1 performance and a 3-year extension with Carolina. Kayshon Boutte was traded to Houston in late August, where he operates as WR depth behind Nico Collins and Tank Dell.",
+          "aviVsMarket": "AVI rates Coker at 58.1 C-AVI / 73.7 D-AVI and Boutte at 48.4 C-AVI / 66.7 D-AVI. Public market consensus places Coker at ~60–65 and Boutte at ~35–40. Adding two 2nd-round picks heavily overpays the public market gap.",
+          "relevantContext": [
+            "Jalen Coker logged 9 targets and played 84% of snaps in Week 1 despite a minor ankle sprain (walking boot was precautionary).",
+            "Kayshon Boutte saw limited integration in his Houston debut (1 catch, 21 yards) following his trade from New England.",
+            "DMV Fantasy's goal is Rebuild, making future 2nd-round picks highly attractive target capital."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "DMV Fantasy is in full Rebuild mode and actively seeking future draft capital and young talent to build around.",
+          "packageFit": "The offer gives DMV two 2nd-round picks and a 24-year-old WR, directly matching their rebuilding objectives.",
+          "lineupReplacement": "DMV replaces Coker with Boutte in active WR slots while accumulating draft picks.",
+          "competitiveWindowFit": "DMV Fantasy accumulates 2027/2028 picks to support a multi-year rebuild; Big Balder Brand overspends capital that could be reserved for in-season starting upgrades.",
+          "positionalScarcity": "In a 16-team league, WR bench depth is valuable, but 2nd-round picks provide crucial in-season liquidity for contender moves."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 100,
+          "classification": "Highly Realistic",
+          "explanation": "DMV Fantasy would accept this offer quickly because Big Balder Brand is overpaying by including two 2nd-round picks for Jalen Coker."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The offer as submitted is an unnecessary overpay for Big Balder Brand. Jalen Coker is a solid WR depth addition for an Elite Contender, but giving up Kayshon Boutte PLUS two 2nd-round picks (2027 & 2028) wastes capital. BBB should revise the offer by pulling back the 2028 2nd-round pick and offering Boutte + 2027 2nd (Goblins), which remains a compelling and realistic deal for rebuilder DMV Fantasy.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2027 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "Kayshon Boutte",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 24,
+              "cavi": 48.4,
+              "davi": 66.7,
+              "publicMarket": 38,
+              "leagueMarket": 48.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 24,
+              "cavi": 58.1,
+              "davi": 73.7,
+              "publicMarket": 62,
+              "leagueMarket": 58.1
+            }
+          ],
+          "whyUserShouldDoIt": "Saves the 2028 2nd-round pick while still securing Jalen Coker to reinforce WR bench depth and championship injury resilience.",
+          "whyOpponentMightAccept": "DMV Fantasy is rebuilding and receives a projected early 2027 2nd-round pick alongside 24-year-old receiver Kayshon Boutte for Coker."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "Kayshon Boutte",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 24,
+              "cavi": 48.4,
+              "davi": 66.7,
+              "publicMarket": 38,
+              "leagueMarket": 48.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 24,
+              "cavi": 58.1,
+              "davi": 73.7,
+              "publicMarket": 62,
+              "leagueMarket": 58.1
+            }
+          ],
+          "rationale": "If Big Balder Brand prefers to keep the earlier 2027 2nd-round pick, substituting the 2028 2nd-round pick alongside Boutte still presents a fair trade for rebuilding DMV Fantasy."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Kayshon Boutte dynasty value 2026",
+          "Kayshon Boutte news 2026",
+          "Jalen Coker news 2026",
+          "Jalen Coker dynasty value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9dXsE4eK5BT_EIz9P3n27fX4VQV5QJfb4eRDtGBOJjV7XVcNyPz2ihUmbxX_BCmKnSAfPIEhbQK511kaT85PmHRaAAqXLedz8QjnWr9vT3-6JakSpPx1os4pQHCtYkFyFJ0zHpUC9z7jSrbb2qenyIW1WrdjdCT9L7WOUCzQn9p-rwhCmuQzisdyOV-lUNf06fFagA9-k",
+            "title": "as.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbO9mbOKp596B4QsfLv58HJ55MWT3iXapDILMa0hm_hyNXEDkjKTpMwpNfrucL7QsQBC8n1QceXp0wX8E3ZI6W7CBvMitpvdPCj_UDO6gC5g2mTYL1lvqXd0OxlD0hYmjv",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2gCaFCIOQaWNfK8sZsDEYjt4yxutPxAIyFu89L9zkEgQH6CLotAS8Leaved0HB7qZ3Z5KuKY3_O8SnIz6xP7dDpLvEwhLhQ7WGp6tc1BKfH2NUtTX6GJOmCPuvM-QFHtRYLc7gICJ_wS0pQgU3kU9yaGDq12EWLxCCjaUKkyIQi3v4D7dX7NmQYt6Ngn0SwP7NziiCBDdx1kXTXm2LDdq6xG7",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY3cMvPCeLpD-_WWoIPnJN6u__8mH9CiXHjXxs4CSDu0C9okRU2EKgimxEjcPj7pH6JuHTYrle3E8k4R_v3dSXBYD1aC8hHP7N9ZS3M--xjftt0i9wH2M0RZuR1Je_0IOssusBvWGFkjJ3fTmp3c4yG5mLD5S12PccJpECV93oLAz7XUpu_GPDtgvGsWxyALsgFkKSESLZH3g_j2G2fqqjIQfrTNOSpAbw",
+            "title": "musketfire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgIs3PjIHpoUKgNgJg06KxwSBX99RRNDx1a8TQfYje0QV_8UTAgNx3qWFh1bOSxX60pcxhxphUJztEObr7qWv05P6RbDfjLsuEOypc9NU3RTDMFSSkWVUoBkra7jtc4MX_0tbtYmyAsHtqPqQA0fLaZ7i4I-Dt9uQlZUx1tyFKrgOXYhPOZ9x8-d64M_PEzBOd_Q==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyH7DXQFgWBbCmineBcgAFzw9TnJ4RBueSe4zswIBi_UuUhT4RmLTAWJYqmbUwj1T886pjCtr1rjblmZD4c9MEBspyxt7W_MLpdXzlZPZ0fKZHwJb9nvhrAdChqbqK7O9RO2H0N2HyPeKUZI-GvN_xjOo-hPdOoelL4nKamUoH4OCl48GeEmqP9MkprwWkCrnVNNqf8mvf1Pe2kCfG_PeK",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCbNQI7PnR6JdtK11ZsIY5lcYUIzq17gT6JgCEjcTpNeCIVt80paBAEvv0BZnIVAKAxx_ZeX_dKBShKaQv_1cfLJRLNvibINuNuF3iAPu79coVYYAExGwrevGUi6yX2u7hTpv9n5kjY-cnaglQ4s7RK5gUfvOluCmH1iOY2-or0dDFJQ==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWpBVjlFTdvILeSb4oHboK3qFI3DMkexe_BT34Rw-c4tTBDMeBo_sc1t9Hx3bkpjlP9-sPjF3FAGa0XaMijsZ3ws5Rhe9Xfruts70eAvLjXPW-ys9qO-CsFbnYh_xxcbYOqoVeEo7FG-t3fmYHOmQfoHKcSVg6RPsxUUWmBkun",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAh6q3zByso_SomzuoyK6jyo9TW8vPJXpYkuuqZ225LkrKFxfYWH0THc1ztM9NDpoiJ_zp4l0X4iuBHrw6sM0THSxV3KzOCNsoAuk4jvyfxWOwFM_s4AcMLUlVaIj5larm2X7aQW80flg3Sjl2edqnghSvAuqp0L3CutTDR8sshS0jYdoRod5410WWHbhvf7mMq98RGlYhGKuVAM8=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgmUUEkKnTmq1RL7roS3khho0iLcuj3T7bIBtIzAcrvWpDvrMA-wfYVqpgf61r5GKdOHQsPoo5thXxgtIx8ivOmPESI8eIWLARNNdD3hD-l8k1FpBsfX-urjUIGQ-mp9OvzRX26WYrtaRomXoMq8cSOi84feYi8BU5yn1Nj_X0_YjH-aU1QfsYtpB2fDz_BpU9iWeYXTEtzKIXecw=",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH68oRO_Fbvdqvlv2jurnN0mj5UQAcJHcLbgfMjUcgE2_KSBRTB0IkV0qeoqS4K0cN_f3ISrXxHUCj2tuRDnqIPp3dGkKl-hDjzN2VN-4MzYmEoxrhHDNkJYq824HXwOnlVvaF2F6oEI2En7goa9PZcnJECiTGZF9gL412rSpSH7HONFmME6pCe7gSdDRFMaw1arJ-c-hSakBA7L1A=",
+            "title": "prizepicks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfHdOsK3Gmchb9ZCdR8Ngwy1iZlongr6WeIkh-VcsDyVRfWpwQhSN6rknaWwvbiOA0ubvEJhpQG6aS6-Vd8YFAz6rODezKwb0yfFJwYRbfjnV_9nGeMUDyP_Dq1-ykIoedEp6txsSz0qhQwbmBRh3sEaRJDeAe6jI6Zg32f3aZzgDr09vdQJE-Hph9V50TPASakO-zWUby9mhIKV6A7anY2CfQM1v6jsfFRQz6yXR_CFotZRPRTm2G5w==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeADWN8FvYG4yGfFcFhbqGGguumkhn79jtd8xJDx_qfVDG6DvZBnud5gVF4wW8lHj5wi-l7cwkx_1xcJYzdbRvTxv3idhx_l5tnkfqTfF2K3-kynpmK_l4tHepmdjFJiZYVeAiBfI=",
+            "title": "dynastynerds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDxJoLQPDQHjolaYFJ3LKoLk31iGmsHSKULgaFmFXtsqGSgGBEkA3069ryPvg4uWvedWR10z4MzuEaT_kxHpi8Z24b7hGqjJUrdSGDbgS-dFSLE1USVFUzxE62tjZH2hoK_bDpOIb8oc3PSb66I3qPOeA2s9TOLjWfqFNQtyUeH7GsGK5btXff4StlmH5nN_Tn_XI6s_7N33m9ZQYk",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "d7f807e35af3010f6d4cf9c5040047f4a8283d35",
+        "aviCoreCommittedAt": "2026-09-16T13:53:39Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 84297,
+        "groundedMarketChars": 3841,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mu4aj8vu-12ab267d",
     "createdAt": 1789574697073,
     "expiresAt": 1790006697073,
