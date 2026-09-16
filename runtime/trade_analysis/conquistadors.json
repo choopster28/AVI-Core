@@ -1,1 +1,351 @@
-[]
+[
+  {
+    "id": "mu3iamkr-73086561",
+    "createdAt": 1789527313757,
+    "expiresAt": 1789959313757,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Conquistadors ↔ Ravens Regime",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Harold Fannin",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Kyle Pitts",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Conquistadors (Champion Favorite) surrenders elite 22-year-old starting tight end Harold Fannin (91.4 C-AVI / 88.6 D-AVI) to Ravens Regime for 25-year-old tight end Kyle Pitts (75.8 C-AVI / 84.0 D-AVI) in a straight 1-for-1 player swap. This transaction severely damages Conquistadors' starting lineup strength (-15.6 C-AVI index) and dynasty foundation (-4.6 D-AVI, 3 years older) with zero offsetting draft capital or depth. While Ravens Regime would accept this proposal instantly, Conquistadors must DECLINE the deal.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Harold Fannin",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 22,
+              "cavi": 91.4,
+              "davi": 88.6,
+              "publicMarket": 89,
+              "leagueMarket": 90
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Kyle Pitts",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 25,
+              "cavi": 75.8,
+              "davi": 84,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D-",
+            "otherGrade": "A+",
+            "userShare": 20,
+            "otherShare": 80,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Conquistadors gives up an elite 22-year-old starting TE1 (Harold Fannin, 91.4 C-AVI) for a lower-tier 25-year-old TE1 (Kyle Pitts, 75.8 C-AVI) 1-for-1. The trade creates a net loss of -15.6 C-AVI in mandatory starting lineup score and -4.6 D-AVI in dynasty value, directly undermining Conquistadors' championship window for zero structural gain."
+          },
+          "recommended": {
+            "userGrade": "B",
+            "otherGrade": "B",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Conquistadors",
+            "summary": "Requiring Ravens Regime to attach a 2028 2nd-round pick (Gringo's Goblins, 48.5 Draft Pick AVI) alongside Kyle Pitts helps offset the 15.6 C-AVI starting TE index downgrade by adding liquid draft capital to Conquistadors' portfolio."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -70,
+              "summary": "Directly degrades starting TE slot strength from 91.4 to 75.8 C-AVI, weakening title odds for a Champion Favorite."
+            },
+            "dynastyOutlook": {
+              "score": -40,
+              "summary": "Downgrades from a 22-year-old rising TE1 to a 25-year-old TE1, losing 4.6 D-AVI points."
+            },
+            "lineupQuality": {
+              "score": -75,
+              "summary": "Mandatory tight end slot suffers a 15.6 C-AVI index drop in the active starting lineup."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Does not alter overall bench depth or roster flexibility."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "No draft picks or liquid assets are returned."
+            },
+            "overall": {
+              "score": -60,
+              "summary": "Severe net loss in mandatory starting score and dynasty foundation without receiving depth or draft assets."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 70,
+              "summary": "Upgrades starting TE slot from 75.8 to 91.4 C-AVI (+15.6), significantly boosting playoff projection."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Acquires an elite 22-year-old TE1 in Harold Fannin (88.6 D-AVI), extending long-term window."
+            },
+            "lineupQuality": {
+              "score": 75,
+              "summary": "Starting TE position index improves dramatically by +15.6 C-AVI."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Allows secondary tight ends like Isaiah Likely to function purely as FLEX/depth assets."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "No draft picks exchanged."
+            },
+            "overall": {
+              "score": 60,
+              "summary": "Massive unearned upgrade at starting TE while acquiring a younger dynasty cornerstone."
+            }
+          },
+          "explanation": "This deal represents an uncompensated asset transfer from Conquistadors to Ravens Regime. Conquistadors weakens its starting lineup and dynasty outlook with no offsetting benefit, while Ravens Regime gains a major starting lineup upgrade."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Negative. Conquistadors surrenders 15.6 C-AVI index points in its mandatory starting TE slot (Harold Fannin 91.4 -> Kyle Pitts 75.8), directly weakening its starting lineup strength.",
+          "sideADynastyImpact": "Negative. Moves from 22-year-old Harold Fannin (88.6 D-AVI) to 25-year-old Kyle Pitts (84.0 D-AVI), losing 3 years of youth and 4.6 D-AVI points.",
+          "sideARosterImpact": "Leaves the starting tight end position materially downgraded while keeping overall roster depth unchanged.",
+          "sideBChampionshipImpact": "Highly positive. Upgrades mandatory TE slot from 75.8 to 91.4 C-AVI (+15.6), advancing Ravens Regime's Playoff Push goal.",
+          "sideBDynastyImpact": "Positive. Secures a premier 22-year-old dynasty tight end in Harold Fannin (88.6 D-AVI).",
+          "sideBRosterImpact": "Solidifies mandatory TE slot with an elite asset and pushes secondary tight ends to depth roles.",
+          "valueAssessment": "Harold Fannin holds a clear advantage over Kyle Pitts in C-AVI (91.4 vs 75.8) and D-AVI (88.6 vs 84.0). A straight 1-for-1 player swap heavily favors Ravens Regime."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus prices Harold Fannin and Kyle Pitts in adjacent TE1 tiers, but Fannin's youth (22) and undisputed target projection in Cleveland give him higher current sentiment than Pitts (25), who faces target volatility alongside Drake London in Atlanta.",
+          "aviVsMarket": "AVI reflects Fannin's superior immediate projection (198.4 PPR points vs Pitts' 180.6) and youth advantage, rating Fannin 91.4 C-AVI / 88.6 D-AVI compared to Pitts' 75.8 C-AVI / 84.0 D-AVI.",
+          "relevantContext": [
+            "Harold Fannin enters his age-22 season as Cleveland's primary starting tight end with high target-earning efficiency.",
+            "Kyle Pitts remains a talented option in Atlanta, but his fantasy scoring historically spikes when Drake London is absent and regresses when London is active.",
+            "Conquistadors is competing in a 16-team league where elite TE production represents a major championship differentiator."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime (Mentomorii) would be extremely motivated to accept, securing an immediate +15.6 C-AVI upgrade at TE and a younger dynasty foundation without giving up extra assets.",
+          "packageFit": "Poor fit for Conquistadors. Swapping a top-tier TE for a lower-tier TE 1-for-1 fails to solve any roster need or yield depth/capital.",
+          "lineupReplacement": "Kyle Pitts replaces Harold Fannin in Conquistadors' TE slot, creating a net loss of 15.6 C-AVI index points in starting lineup capability.",
+          "competitiveWindowFit": "Misaligned with Conquistadors' 'Win Championship' goal. Voluntarily downgrading a starting slot directly hurts title odds.",
+          "positionalScarcity": "In a 16-team league, tight ends with 90+ C-AVI are scarce championship differentiators. Surrendering one for a 75.8 C-AVI player erodes positional advantage."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 100,
+          "classification": "Highly Realistic",
+          "explanation": "Ravens Regime would accept this trade immediately. Acquiring Harold Fannin for Kyle Pitts represents an unearned +15.6 C-AVI upgrade at TE while gaining 3 years in youth, perfectly matching their Playoff Push goal."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "Conquistadors must decline this offer. As a Champion Favorite with the goal of winning the championship in a 16-team league, trading away elite 22-year-old starting TE Harold Fannin (91.4 C-AVI / 88.6 D-AVI) for Kyle Pitts (75.8 C-AVI / 84.0 D-AVI) straight up represents an unjustified downgrade of -15.6 C-AVI in starting lineup strength index and -4.6 D-AVI in dynasty value. No draft capital or depth is returned to justify the loss.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Harold Fannin",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 22,
+              "cavi": 91.4,
+              "davi": 88.6,
+              "publicMarket": 89,
+              "leagueMarket": 90
+            }
+          ],
+          "receive": [
+            {
+              "name": "Kyle Pitts",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 25,
+              "cavi": 75.8,
+              "davi": 84,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": null,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "If Conquistadors prefers Kyle Pitts' long-term profile, securing a 2028 2nd-round pick compensates for the 15.6 C-AVI drop at starting tight end and adds valuable draft liquidity.",
+          "whyOpponentMightAccept": "Ravens Regime still receives the superior starting TE in Harold Fannin (+15.6 C-AVI), advancing their Playoff Push goal in exchange for a future 2nd-round pick."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Harold Fannin",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 22,
+              "cavi": 91.4,
+              "davi": 88.6,
+              "publicMarket": 89,
+              "leagueMarket": 90
+            }
+          ],
+          "receive": [
+            {
+              "name": "Kyle Pitts",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 25,
+              "cavi": 75.8,
+              "davi": 84,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Carnell Tate",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 21,
+              "cavi": 68.2,
+              "davi": 88.9,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            }
+          ],
+          "rationale": "Demanding young wide receiver Carnell Tate alongside Pitts provides usable FLEX depth (68.2 C-AVI / 88.9 D-AVI) to compensate for the tight end drop-off."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Kyle Pitts fantasy outlook 2026",
+          "Harold Fannin NFL draft 2025 2026 fantasy value"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy15Mv21_SooW1BX_DA8ziaiqxUjrdnCq0-G2IvD4NNSRErJW0n-U4Lqd97OAyAFrUqa8kpSxxebM3N8m-MgTc4mYdeXrWlzQiwcwFW1fjzvJnC3wR9JP4hOJKhce6wMhQ5r0Yu5_xM6APzdlZB1M=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiLKdb42CyNBjQslu7D9t4hohBcg4bRuX8l3-Ts5wFR_M9Z1_LVjOj7lsgoqdlt3BLpgadSh2ydJlt7wvXaVcmaLthC_V3LonqxdVe1DzBKVefD-UlegFtT4zmmoXAspV_uUPvGnyqKRQDRn7_RrDHcHnWI3Zzvtg585-eJdI=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF9fK7r8WEXZC9byTN2e6Fiwo6RLp5BZ5pFYSX3UfVvz1Gg8DCC897tVMGrCjNkgPyv0vp1fnEp1voB-OZGZUwaPEVGFoT6aZ5rvVhxVh6aKLosSqdW5ocOBNDZIt5wQvNPJop6vcMCekPFbPyjPChhcWiUslY2ail5xhYc_yQhjVir5RH_bV5gjT_E92-crjjbg==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7gX6ZVeMw_rbnSTqB3pK3iTKJnOF-oqiat706odfzyXlYQJh0Ab2I-22TcPPuNwXlOoj4RZ3wdfCXfNDTTfNShcXnX50pECYHBTG3IFChcYpbj9zu5k5LSsUXGgMiOFFFkUCMs7Gpzw==",
+            "title": "fantasycalc.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7uDuaaWqgxDb_k5Bda8VaBmpW0oQfRTaSGxxmbSBqbQuYXGasr6dTFKGKoADMbYijrrsUUr2RqKMYR175rOH6xOeVQ-dX00jbz29o5bZFea-PdlWDTq_NmyGdE0rtkRqVodAbsDdGUN9sUzLrx0EoAhQwFsCmjyw=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiKJc9hE-2IPv7XoqRVjlCQWP-BCJeLyjprsCybze4wZFQbjh4BB-vJ8GS3MCjf2akgJvCb3pskbYgeMU_zAoaSekopdyrV4nYRxRmAHma6w2KQAh255fWrDo23wwaEA==",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-As2fdQ1mVQ0hks2rrZ0uHT11laBIjp0OGbwrNuudgohv-IQArFChryuMAlJ11i_SDGeNCgipmtz5oYK1aMOXGLWBPQ0GE1wBZtwQLzNRYeMTuUexfVGpKma98QT73-Q=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg83hjx2LTGmUpmquBW5n341AppA-VCZFmhDranLJWqKZ2Kh1OFOGWABJnZI4TaK-4-FLpRGhRUbMbGCdnipZEql8lm5uge3YNtlOctb8wrWJdFAY1KwtRk6Xuq5BSQYNOJ-fyjvp1DhHwiA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsnfduk9j5YGUcZK2wI0zFKAB6XL4KnUH6b6Lr6Wqbwo3-SVC5XvP_WIPBX0cNsAhAauFbIWlkPDIkrnJv2M3lBVmOMMD8cipYI3gOaHc2YPMTjLu8bfM-p57b6eSNjvqRnsoZjbZEph3UQQju9YafLn1aBMgI2N-sfPg-W2FJBgcMW5BR2fKLeRXqnEVnpw==",
+            "title": "profootballnetwork.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a465fbeb6b9b420d5c733a494c191caa260d1331",
+        "aviCoreCommittedAt": "2026-09-16T02:25:19Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 83653,
+        "groundedMarketChars": 2921,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true
+      }
+    }
+  }
+]
