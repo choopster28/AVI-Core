@@ -412,14 +412,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
 
-## PLAYER LOOKUP: Cyrus Allen
-- Player name: Cyrus Allen
-- Player ID: 13413
-- Position: WR
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
-
 ## PLAYER LOOKUP: D'Andre Swift
 - Player name: D'Andre Swift
 - Player ID: 6790
@@ -1476,14 +1468,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
-## PLAYER LOOKUP: Najee Harris
-- Player name: Najee Harris
-- Player ID: 7528
-- Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
-
 ## PLAYER LOOKUP: Nicholas Singleton
 - Player name: Nicholas Singleton
 - Player ID: 13288
@@ -1603,6 +1587,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
+
+## PLAYER LOOKUP: Raheim Sanders
+- Player name: Raheim Sanders
+- Player ID: 12472
+- Position: RB
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Rashee Rice
 - Player name: Rashee Rice
@@ -1924,6 +1916,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
+## PLAYER LOOKUP: Xavier Hutchinson
+- Player name: Xavier Hutchinson
+- Player ID: 10218
+- Position: WR
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Xavier Legette
 - Player name: Xavier Legette
 - Player ID: 11626
@@ -2128,15 +2128,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 57.8
 - Availability: available
 
-## AVAILABLE PLAYER: Xavier Hutchinson
-- Player name: Xavier Hutchinson
-- Player ID: 10218
-- Position: WR
-- NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 36.2
-- Dynasty AVI (D-AVI, 0-100): 36.1
-- Availability: available
-
 ## AVAILABLE PLAYER: Kimani Vidal
 - Player name: Kimani Vidal
 - Player ID: 11647
@@ -2297,6 +2288,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 32.2
 - Dynasty AVI (D-AVI, 0-100): 45.3
+- Availability: available
+
+## AVAILABLE PLAYER: Najee Harris
+- Player name: Najee Harris
+- Player ID: 7528
+- Position: RB
+- NFL team: NYG
+- Championship AVI (C-AVI, 0-100): 32.1
+- Dynasty AVI (D-AVI, 0-100): 44.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Drew Sample
@@ -2495,6 +2495,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 28.9
 - Dynasty AVI (D-AVI, 0-100): 46.7
+- Availability: available
+
+## AVAILABLE PLAYER: Cyrus Allen
+- Player name: Cyrus Allen
+- Player ID: 13413
+- Position: WR
+- NFL team: KC
+- Championship AVI (C-AVI, 0-100): 28.4
+- Dynasty AVI (D-AVI, 0-100): 54.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Marquise Brown
@@ -3107,15 +3116,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: JAC
 - Championship AVI (C-AVI, 0-100): 19.3
 - Dynasty AVI (D-AVI, 0-100): 39.0
-- Availability: available
-
-## AVAILABLE PLAYER: Raheim Sanders
-- Player name: Raheim Sanders
-- Player ID: 12472
-- Position: RB
-- NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 19.3
-- Dynasty AVI (D-AVI, 0-100): 23.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Spencer Rattler

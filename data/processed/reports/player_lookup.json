@@ -219,18 +219,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00010218",
-      "c_avi": 36.2,
-      "d_avi": 36.1,
-      "nfl_team": "HOU",
-      "player_name": "Xavier Hutchinson",
-      "position": "WR",
-      "sleeper_id": "10218",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011647",
       "c_avi": 35.9,
       "d_avi": 56.6,
@@ -442,6 +430,18 @@
       "player_name": "Tyquan Thornton",
       "position": "WR",
       "sleeper_id": "8188",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00007528",
+      "c_avi": 32.1,
+      "d_avi": 44.5,
+      "nfl_team": "NYG",
+      "player_name": "Najee Harris",
+      "position": "RB",
+      "sleeper_id": "7528",
       "status": "Active"
     },
     {
@@ -706,6 +706,18 @@
       "player_name": "Justin Fields",
       "position": "QB",
       "sleeper_id": "7591",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013413",
+      "c_avi": 28.4,
+      "d_avi": 54.3,
+      "nfl_team": "KC",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "sleeper_id": "13413",
       "status": "Active"
     },
     {
@@ -1522,18 +1534,6 @@
       "player_name": "Josh Cameron",
       "position": "WR",
       "sleeper_id": "13394",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012472",
-      "c_avi": 19.3,
-      "d_avi": 23.4,
-      "nfl_team": "CLE",
-      "player_name": "Raheim Sanders",
-      "position": "RB",
-      "sleeper_id": "12472",
       "status": "Active"
     },
     {
@@ -3641,22 +3641,6 @@
       "status": "Active",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013413",
-      "c_avi": 28.4,
-      "d_avi": 54.3,
-      "nfl_team": "KC",
-      "owner_id": "986498458162970624",
-      "player_name": "Cyrus Allen",
-      "position": "WR",
-      "roster_id": 11,
-      "sleeper_id": "13413",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
@@ -5773,22 +5757,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00007528",
-      "c_avi": 32.1,
-      "d_avi": 44.5,
-      "nfl_team": "NYG",
-      "owner_id": "986498458162970624",
-      "player_name": "Najee Harris",
-      "position": "RB",
-      "roster_id": 11,
-      "sleeper_id": "7528",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00013288",
       "c_avi": 30.6,
       "d_avi": 61.7,
@@ -6025,6 +5993,22 @@
       "status": "Active",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012472",
+      "c_avi": 19.3,
+      "d_avi": 23.4,
+      "nfl_team": "CLE",
+      "owner_id": "986498458162970624",
+      "player_name": "Raheim Sanders",
+      "position": "RB",
+      "roster_id": 11,
+      "sleeper_id": "12472",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
@@ -6665,6 +6649,22 @@
       "status": "Active",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00010218",
+      "c_avi": 36.2,
+      "d_avi": 36.1,
+      "nfl_team": "HOU",
+      "owner_id": "986498458162970624",
+      "player_name": "Xavier Hutchinson",
+      "position": "WR",
+      "roster_id": 11,
+      "sleeper_id": "10218",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
