@@ -34967,7 +34967,7 @@
     "team": "KC",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "231",
+    "weight": "258",
     "yahoo_id": null,
     "years_exp": 3
   },
@@ -141991,7 +141991,7 @@
     "team": "NYJ",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "211",
+    "weight": "210",
     "yahoo_id": null,
     "years_exp": 1
   },
@@ -340067,7 +340067,7 @@
       "genius_id": "941690",
       "rookie_year": "2016"
     },
-    "news_updated": 1789053304920,
+    "news_updated": 1789652127883,
     "number": 85,
     "oddsjam_id": "A615AF6BB3D2",
     "opta_id": null,
@@ -383443,10 +383443,10 @@
     "hashtag": "#zachwood-NFL-NO-49",
     "height": "75",
     "high_school": "Rowlett (TX)",
-    "injury_body_part": null,
-    "injury_notes": null,
+    "injury_body_part": "Calf",
+    "injury_notes": "Strain",
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Out",
     "kalshi_id": "544e4d26-a081-45c8-927d-c17cd562b5d1",
     "last_name": "Wood",
     "metadata": {
@@ -623803,7 +623803,7 @@
       "injury_override_regular_2024_10": "Out",
       "rookie_year": "2021"
     },
-    "news_updated": 1789642227322,
+    "news_updated": 1789651227834,
     "number": 12,
     "oddsjam_id": "BF7307FF6714",
     "opta_id": null,
