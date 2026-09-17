@@ -32310,7 +32310,7 @@
       "genius_id": "1407989",
       "rookie_year": "2023"
     },
-    "news_updated": 1789605923496,
+    "news_updated": 1789626626386,
     "number": 39,
     "oddsjam_id": "555AF03162F4",
     "opta_id": null,
@@ -116596,7 +116596,7 @@
       "rookie_year": "2025",
       "source_id": "31e9d3d5-d1bb-4562-960f-51ae4f54b2c4"
     },
-    "news_updated": 1789611923559,
+    "news_updated": 1789626326755,
     "number": 15,
     "oddsjam_id": "A4FBB695165BC649",
     "opta_id": null,
@@ -123427,7 +123427,7 @@
       "rookie_year": "2025",
       "source_id": "f566c840-8504-11ec-9e7e-8150518d6298"
     },
-    "news_updated": 1789605623512,
+    "news_updated": 1789626326770,
     "number": 3,
     "oddsjam_id": "4C2FB085586B537F",
     "opta_id": null,
@@ -223527,7 +223527,7 @@
     "search_first_name": "maceo",
     "search_full_name": "maceobeard",
     "search_last_name": "beard",
-    "search_rank": null,
+    "search_rank": 9999999,
     "sport": "nfl",
     "sportradar_id": "68767330-b25a-11f1-91a3-95b51544c7de",
     "stats_id": null,
@@ -393467,7 +393467,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2017"
     },
-    "news_updated": 1789610123383,
+    "news_updated": 1789626626400,
     "number": 10,
     "oddsjam_id": "2AC02BEBA7DF",
     "opta_id": null,
@@ -670580,7 +670580,7 @@
       "genius_id": "1081518",
       "rookie_year": "2022"
     },
-    "news_updated": 1789089330541,
+    "news_updated": 1789626626412,
     "number": 29,
     "oddsjam_id": "75C1238D810C",
     "opta_id": null,

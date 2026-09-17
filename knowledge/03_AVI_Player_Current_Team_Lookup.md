@@ -28,6 +28,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
 
+## PLAYER LOOKUP: Aaron Rodgers
+- Player name: Aaron Rodgers
+- Player ID: 96
+- Position: QB
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
+
 ## PLAYER LOOKUP: Adam Randall
 - Player name: Adam Randall
 - Player ID: 13302
@@ -2036,15 +2044,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CAR
 - Championship AVI (C-AVI, 0-100): 42.1
 - Dynasty AVI (D-AVI, 0-100): 28.8
-- Availability: available
-
-## AVAILABLE PLAYER: Aaron Rodgers
-- Player name: Aaron Rodgers
-- Player ID: 96
-- Position: QB
-- NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 41.9
-- Dynasty AVI (D-AVI, 0-100): 54.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Deshaun Watson
