@@ -1,0 +1,287 @@
+[
+  {
+    "id": "mu4x0vo4-14a335d1",
+    "createdAt": 1789612476453,
+    "expiresAt": 1790044476453,
+    "mode": "improve_team",
+    "title": "Initial Improve My Team · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetPosition": "RB, TE, QB, WR",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. enters the 2026 campaign as an Elite Contender targeting immediate championship upside. With a core featuring Jaxon Smith-Njigba, Malik Nabers, and Tyler Warren, the roster has surplus wide receiver talent and draft assets that can be leveraged to acquire high-ceiling starting running backs and tier-one wide receivers. By capitalizing on publicly shopped trade-block assets like Amon-Ra St. Brown and De'Von Achane, Corgi Loaf can upgrade starting-lineup efficiency without sacrificing short-term competitive viability.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite young wide receiver foundation with Jaxon Smith-Njigba (C-AVI 98.6), DeVonta Smith (C-AVI 85.7), and Malik Nabers (C-AVI 81.7)",
+            "Top-tier tight end production behind rookie phenom Tyler Warren (C-AVI 95.6)",
+            "High draft capital liquidity with owned future 1st and 2nd round picks"
+          ],
+          "priorityNeeds": [
+            "Tier-1 elite running back upgrade to pair with Cam Skattebo",
+            "Elite starting FLEX scoring punch to maximize weekly ceiling",
+            "Long-term quarterback stability alongside Patrick Mahomes"
+          ],
+          "tradeableSurplus": [
+            "Starting-caliber wide receivers (DeVonta Smith, DJ Moore)",
+            "Veteran RB depth (David Montgomery)",
+            "2027 and 2028 draft capital"
+          ],
+          "constraintsApplied": [
+            "Starter-for-Starter Realism enforced (all traded player assets belong to the 16-team league-relative starter/FLEX pool)",
+            "Mandatory alignment with opponent organizational goals (Win Championship / Increase Championship Odds)",
+            "Trade block availability rules applied for confirmed available assets"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding franchises lacking immediate elite starter options matching Corgi Loaf's championship timeline",
+            "Positional misalignment where trade packages damaged trade partner starting lineup integrity"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Badland Banditos",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Kenneth Walker",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "RB",
+                "age": 25,
+                "cavi": 91.7,
+                "davi": 93.1,
+                "publicMarket": 90,
+                "leagueMarket": 91
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "DJ Moore",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 29,
+                "cavi": 76.7,
+                "davi": 84.1,
+                "publicMarket": 80,
+                "leagueMarket": 79
+              },
+              {
+                "name": "2027 Round 2 Pick (Corgi Loaf Baking Co.)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Surplus Depth for Feature RB",
+            "strategicGoal": "Strengthen RB Workhorse Depth",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 18,
+              "packageMatch": 16,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 74,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Kenneth Walker provides Kansas City lead-back volume and elite touchdown equity to solidify Corgi Loaf's championship starting lineup.",
+            "whyOpponentMightAccept": "Badland Banditos need starting wide receiver help to push into playoff contention. DJ Moore operating as Josh Allen's WR1 in Buffalo offers an immediate high-volume starter alongside a 2027 2nd-round pick.",
+            "championshipImpact": "Adds a proven lead running back with top-5 weekly positional ceiling.",
+            "dynastyImpact": "Secures a prime 25-year-old bell-cow RB tied to a high-scoring offense.",
+            "rosterImpact": "Converts WR depth surplus (DJ Moore) into starting RB strength.",
+            "publicMarketContext": "Kenneth Walker's market valuation has surged following his lead role in Kansas City; DJ Moore's value is rising as Buffalo's targeted WR1.",
+            "risks": [
+              "Walker's physical running style carries moderate injury risk over a full season."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer DJ Moore straight up or with a 3rd-round pick.",
+              "acceptableConcession": "Include the 2027 2nd-round pick to close the deal.",
+              "walkAwayPoint": "Walk away if Badland Banditos demand a 1st-round pick on top of DJ Moore."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "DeVonta Smith 2026 NFL fantasy",
+          "David Montgomery 2026 NFL fantasy",
+          "Devon Achane news 2026 NFL fantasy",
+          "Amon Ra St Brown 2026 NFL fantasy",
+          "Kenneth Walker III 2026 NFL fantasy",
+          "DJ Moore 2026 NFL fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp4T074F58VU8qxBEi1QZVTJ6QTZIpBt8VfvIhANYqOraKRilb7OL1k7kES9tT2fGrFRT0wT5SddGC6dXYAzzoLay928qufnLljOYKcw6coYlIcmN_y8kc2y1KdN8PdqkaeC1y5MKMBwK93WZKb1hzisvjvaR_U7yo1I8S46K5_PLaflNnz6BcGD47DrpKmSCRaFpmc-WgysCOV8ZCAQ==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFskaiXRnHUD70q6VtLhYdZue6mvJfpGV6HyUryyxjLGlAfOgHKIWcLyoWFJsrSNxIguEk3OWR-fPlNRGO4FzRkB4SYC8rJcdKR8svp9h2A5OqSXVpXr9C2HYMbN0KXiB42excpUCd2UY8oD0VJT_lxYu72LyLcEN6PozarcMRRgCiEL0oqkKJ6iszMeXlrmQsyLB7r",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42lkOfz-MQxcXJu4SEMrX93e-MWxpks8xHG92GIBfOuXxeRj4fQvuDMO4GvF4tE5p2I0yez_vLgdkaX2zE0qCmdAdK3ykkzwKVAFso9xsVcE51spfSf-pCMFvxqdVAt5nP3JEfN7D91GwSIKNCPyKxszud4Gp5nh-NjVJInrO6YwSmmONYn1757Xj8FscEpvLd_7LHSkt31CVdZxOGQVAkkrxX_eCag==",
+            "title": "phinphanatic.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUBi4YrzfWINWZqVZjtCO7sK9OumvYLpa3HElmXDXP9PHH6ujCscBftB02AvYlrRclhIq2eITRgBpascYtB5-5rn4_frNim3qD1bLMtUqK1pO3qsQwz9AgY__5Y48195Z16Ct58FvOjyIPfKDOFA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFMRNI8r1ffhl6Jht8mSlqBkdLC4KZCvh19-38EvG7-Jh_ikAb56kJUxlM6ov0kipm0oIY70rBXpUii0FeqcANpxyHAnSDQ3vABdzrSy8LlEVtmCqGQEd-9IelmkDsoE2DEdB4S_TFIHwAfsa1ITUH-gUeDX0_ZN9BQPhJW-kgS5GINV6seRXhDkjZpkjfGU7HqXRnK53iYN9Oag8CS-rwdCVzw8N4vw==",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK_BsTvCAEUU6WTc2qHa4amwN-yo580GmCuVLbI5d3Bcv2bBnc_GG8XGr5Psgrjnn94WsL6XiQ8A9UI4ivmutHI66psLWezlaCB2sx6UbvKICFikaAIiCzGI3k_uz7V4tNuORUjxwEvsrXPLUGNl3zVL-5TzHvfT0_psuWzXYS",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh137vqO_Cb8w5JZzYYjQpfVxiko5q4MsMppGML7aKF0ZPgBozgw7Urk13LLHNKXenT6y0hIpRus2tlBP7atylPYUQQ9er1kk9EeFU2FmVjtUA6KQG-uBPWnqAVpPorkR9",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwHb579Yc-FkTybdz-F2gnTJU__Xd9S2M4RnQON17cpL7uTWdaFCcU8PuxsjCPvYGsmEQ42okvmf5LmSIDG4cSl5R-re6QzrVOKIzNbqd1spC8ZoMZqZ5ezfsyj8c-pL7np6YxNMYgTIG6fhEwuylx9QxSkF1-26uNJfa9xdg5ccrqhMVqhvlYhCbHkM5yf-MJcdKqGrDtuTvQF9PqiqtpVuwlMm-g4Tc1kHy-syOZOURkmtc1s9aK",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPvRm-PExyY7pUrB-qCNT07mmQeAFqq0UQUKbEfVfARr6U4DdfcIfsxxZQCdqzi-lGr6B4k604tlpcEdLzNPmgZ8MavnuDexMiwmKRs2EkdcTA4Q0gWipPj2hylvPEcBbdgCiBDVlKAqs2B89khjN_U7hN0pP2Yjd8Kb_zi6olc8FVNo4CIGEiRJYrMz17DglJW1sBgTjsw30E-O2K5gTyL_oHI1rWmZz_qHE1fqec5Y6zukP1Ld_YRvOssaHC_3gMq-DjkO25U5fzwcE=",
+            "title": "rotoviz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXw6IxB17loQa1dsniXD8bUR5qkQhCI9yNu_j0MV9DxQHOgEJVBF7MPfkfoufeJmxIsyNXwMYV62VYkhqm3Rh8Ld21e7yDiM8qzF6v3MF4y7hwYSOTkujhwMBG4-kJrmU=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3f0hiR285rLXbxFJYxRBMA5rFKh_pJQNaUHc4FvwGToegsRfXN7CMGMhDf5h13LXsLP3DCsGz_rphpYxQHaUJ_Z8N4lmE4QJOd9rPNGOnTpVJMLhRBr_cx7hwuiVg91VjaDMihg2ZiMQNv5nQzlZxOmMPxbTtqRPvu6dWUDPm0WP",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_7-qXH0a-lPvi4Of_Ksq9-mL-Qa09gvlkvIeIWDgHZRb5MH4NdtpbAVEN28GH7n_tVLuk9iv96iT1txgmucLXJS32n7Ik1721cdNXJhoYMtSfdyGdFXc_pWiDPUvNd9sa5jeyp1QKDLPL9phpjedSm_ZITRwReZ1wrRYzdQ4-vq6c3hgt_0Yve3x8uY-NDIxLSKSo8TpW_L60Y7LT",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIuAEhmQAasprV66RtzqX3_yK7xvAOb1A8zb-xib9P_D3ma2iFHZgJzir4u6Em5wZq6hs1JLSu0hNKTsjhI-XYBLA9gwZFxZGDM__wgYqIZFgT30sSUwVeAZux0rKmyQVRVQKgzdUC78wHHDvex5q5Fg==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCqYIzYzQqHUjg4SluDQ-Kw-MCIGny7NoJs0_XwcDdAzTOJ4aem_uyRYYfYn-4cqpABeRGd-eTbc5Slj3K6xw0iTYUn8Ognaa-_wusYy5pcAXaK_TY-mHqQI8zTK6uRRcom-5-2j0sT9fKrHV_m3jqJsM7GDsPmepgI0zm3tFCOvti_5-u0r28HdpqraEqY0c=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwcLHGDUiNoNTaNL7nw0AmpX78bL5ODUNsgz3S-bgbTt8GBDFOD9UxFvJEujukl3RF73lf5oWxqPjbnh8oo8JpDVkNDMxuTWjPZCSNI3sxgM7LDoG6rfINV4I4rkbqnIzmwS_PYl5cXc3ZPn7TsiTLAvf83BqzjLFHSKY0GNb589lua4HVpfXz3Reva7lDZUhIGGqKGsY=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ_2HBgTl2ywXHHIncyTfe9H8tMnYph5mCqEnTorGU2QTiSm6cOetqsHW12kp2-2FZGb9wG-zZ3SwoASjyLsmf5KeTf8Rr9h86KJLgEawUaTdpi_sjNnZFENcGPasUDQ_03dEQ4mChd8jNE0z9HSafz19j",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDASLfmZ80RxMM4b4JFlVOCs9ddqr-nAZtaDOCtMGjm5lxSvTo5jdzQSztq1n3A8rVIXpPQPI1kGnp82eg2ptEs1rnXjSRfMuSTQSgQCudKlVEaE83ZrZ0YODYM5KjHN_E0YvQ8q2q7SgckfJD1yrCTMahwEUz1peZ03toXjRGVg5WDtyd3dykN2TxrwqblmP2jQtVSO6ZLL-XxMj_u6iUKIYi",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNBGaVN_HJ2NBERZcldvmiOFkaXCvq-Ybtc-nUKTL--EuQE1wme6YpN_4oBF673WmNryl94SLQWuWCHaz7cP_CycPP3K3jFhNAT0DQ4mMs9gRTtb2NlSxTSrs__knHwjsEvlFjPwL15zEB-ZoMSfwcUxXvOISg-cKkriz8rnVV60ieXtqA__G5_thoqoYTV2Jz_kwfz9LLz6aL8vmM2Jne5780Np4kSEubEw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk8RKPDqcUaV0GANOLSmDuKMVmOnwWyyvksGb8N2dwxa6OVLPI_7xlfpJX6rx5u8YoX0vN3xaCQ5FKLYayX9Iaq4daVVDEUsFS7L9sMAz74ZNmzlUpm3SRuO5N3MRpZLkVDSMlIV-copAEDFNqhmOeP-YSWd2QhYiO",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRSsRnrexNVp-eQ6nuZFawqp1F-OEs5ZirMW3WdgQROJ7eh5tTwmEp1oK471Kzjxsm6w9BO_MdzC2NucxE3jm8yA31dUPWR-zhqghH2q9_qbtsJNDbL1YUDZprJ5rmfzjMYIJIpaWM_TbMRU1vb2mbXrrxJH6soSDCIj320YSpdrlrl_Ej6sLoeiDKZZJ07gV4gvZi8rZ93oBlIqtbIRHSTIxn7J8=",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1HbD8OFBhz2yJq1pWDCMYXZ7N7amk-P2e8F0brPUeobN3bmJOgQ9F6CXsYmSSLJGIzdDXYPv7KXGMoZXCE7F6pA8X5tW9CZE1wBbgmjXR9dOGg2Cy5PtQhjbWwuZgf45HkJwe2yG3FUv5yEvz8GV-E7FlcRQiLHCailvVJ-JQpNNlQ1RoHVgI_BQaiPmUdyYkhLKjfLMiQOjJA4v6VA==",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "De'Von Achane",
+          "David Montgomery",
+          "Amon-Ra St. Brown",
+          "DeVonta Smith",
+          "Kenneth Walker",
+          "DJ Moore"
+        ],
+        "aviCoreCommitSha": "4529ddf94a2da0b77f87f153d3cea4c129669619",
+        "aviCoreCommittedAt": "2026-09-17T02:29:22Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 530539,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 245,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  }
+]
