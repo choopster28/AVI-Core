@@ -37,8 +37,8 @@
       }
     },
     "createdAt": 1789626786009,
-    "updatedAt": 1789626786009,
+    "updatedAt": 1789626786949,
     "expiresAt": 1790058786009,
-    "status": "queued"
+    "status": "running"
   }
 ]
