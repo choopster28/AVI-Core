@@ -1,5 +1,41 @@
 [
   {
+    "id": "mu4x6ebh-6fd7f8f1",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Garrett Wilson",
+          "assetType": "player"
+        },
+        {
+          "name": "Marvin Harrison",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · Mile High · Projected late range (1.10–1.16)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1789612670717,
+    "updatedAt": 1789612670717,
+    "expiresAt": 1790044670717,
+    "status": "queued"
+  },
+  {
     "id": "mu4x0vo4-14a335d1",
     "phase": "initial",
     "mode": "improve_team",
