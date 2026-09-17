@@ -80670,7 +80670,7 @@
       "genius_id": "1484072",
       "rookie_year": "2024"
     },
-    "news_updated": 1789107324439,
+    "news_updated": 1789663531134,
     "number": 88,
     "oddsjam_id": "870623DD84C4",
     "opta_id": null,
@@ -118441,7 +118441,7 @@
       "rookie_year": "2025",
       "source_id": "9815a22c-f1f6-43a9-b8f3-cae3b5d72850"
     },
-    "news_updated": 1789654828412,
+    "news_updated": 1789665932637,
     "number": 15,
     "oddsjam_id": "B08CF75417019210",
     "opta_id": null,
@@ -205380,7 +205380,7 @@
       "channel_id": "1354696574264938496",
       "rookie_year": "2026"
     },
-    "news_updated": 1789106724145,
+    "news_updated": 1789663531145,
     "number": 16,
     "oddsjam_id": null,
     "opta_id": null,
@@ -399857,7 +399857,7 @@
       "genius_id": "998859",
       "rookie_year": "2017"
     },
-    "news_updated": 1789602923139,
+    "news_updated": 1789665331140,
     "number": 91,
     "oddsjam_id": "E87FA4A4B031",
     "opta_id": null,
@@ -513619,7 +513619,7 @@
       "genius_id": "1013413",
       "rookie_year": "2019"
     },
-    "news_updated": 1789396503105,
+    "news_updated": 1789664129421,
     "number": 19,
     "oddsjam_id": "273E9A5C74E8",
     "opta_id": null,
@@ -516503,10 +516503,10 @@
     "hashtag": "#andyisabella-NFL-FA-7",
     "height": "69",
     "high_school": "Mayfield (OH)",
-    "injury_body_part": "Ankle",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "2563c288-f239-48d9-99c2-67c57550186d",
     "last_name": "Isabella",
     "metadata": {
@@ -570849,7 +570849,7 @@
       "injury_override_regular_2024_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1789577160447,
+    "news_updated": 1789665932608,
     "number": 1,
     "oddsjam_id": "66B708A8FB24",
     "opta_id": null,
@@ -574278,7 +574278,7 @@
       "injury_override_regular_2024_6": "Active",
       "rookie_year": "2020"
     },
-    "news_updated": 1789597223537,
+    "news_updated": 1789665629601,
     "number": 11,
     "oddsjam_id": "F9DF4252F1E4",
     "opta_id": null,
@@ -623803,7 +623803,7 @@
       "injury_override_regular_2024_10": "Out",
       "rookie_year": "2021"
     },
-    "news_updated": 1789662929782,
+    "news_updated": 1789663531160,
     "number": 12,
     "oddsjam_id": "BF7307FF6714",
     "opta_id": null,
@@ -666299,7 +666299,7 @@
       "genius_id": "1075524",
       "rookie_year": "2022"
     },
-    "news_updated": 1789663229999,
+    "news_updated": 1789665932621,
     "number": 85,
     "oddsjam_id": "06307AE899D5",
     "opta_id": null,
@@ -716284,7 +716284,7 @@
       "genius_id": "1399220",
       "rookie_year": "2023"
     },
-    "news_updated": 1789514154483,
+    "news_updated": 1789663531435,
     "number": 25,
     "oddsjam_id": "D66E3B13F3AC",
     "opta_id": null,
@@ -718137,7 +718137,7 @@
       "genius_id": "1399023",
       "rookie_year": "2023"
     },
-    "news_updated": 1789597223550,
+    "news_updated": 1789665631038,
     "number": 80,
     "oddsjam_id": "D688B79277E9",
     "opta_id": null,
@@ -723934,7 +723934,7 @@
       "genius_id": "1398595",
       "rookie_year": "2023"
     },
-    "news_updated": 1789593922996,
+    "news_updated": 1789665331148,
     "number": 4,
     "oddsjam_id": "F39E10BEE1F4",
     "opta_id": null,
