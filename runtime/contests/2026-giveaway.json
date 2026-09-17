@@ -250,6 +250,34 @@
       ]
     },
     {
+      "orgId": "mile-high",
+      "orgName": "Mile High Royal Lions",
+      "updatedAt": "2026-09-17T02:30:52.047Z",
+      "answers": [
+        {
+          "team": "",
+          "tiebreaker": ""
+        },
+        {
+          "team": "",
+          "tiebreaker": ""
+        },
+        {
+          "team": "",
+          "tiebreaker": ""
+        },
+        {
+          "team": "",
+          "tiebreaker": ""
+        },
+        {
+          "team": "Mile High Royal Lions",
+          "tiebreaker": "50"
+        }
+      ],
+      "week2UpdatedAt": "2026-09-17T02:30:52.047Z"
+    },
+    {
       "orgId": "rapid-valley",
       "orgName": "Rapid Valley Annihilation",
       "updatedAt": "2026-09-15T17:20:18.401Z",
