@@ -15002,7 +15002,7 @@
     },
     {
       "cbs_player_id": "3162190",
-      "player_bye_week": null,
+      "player_bye_week": "7",
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "austin-keys.php",
@@ -15015,7 +15015,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "A. Keys",
-      "player_team_id": "FA",
+      "player_team_id": "WAS",
       "player_yahoo_id": "42256",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB357",

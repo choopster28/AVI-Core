@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-09-16
+- Last updated from Sleeper exports: 2026-09-17
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 594.8
-- championship_lineup_c_avi_avg: 74.35
-- offensive_roster_c_avi_sum: 833.8
-- offensive_roster_c_avi_avg: 59.56
-- offensive_roster_d_avi_sum: 1014.4
-- offensive_roster_d_avi_avg: 72.46
+- championship_lineup_c_avi_sum: 595.7
+- championship_lineup_c_avi_avg: 74.46
+- offensive_roster_c_avi_sum: 836.1
+- offensive_roster_c_avi_avg: 59.72
+- offensive_roster_d_avi_sum: 1021.2
+- offensive_roster_d_avi_avg: 72.94
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: TreVeyon Henderson | C-AVI: 62.9 | D-AVI: 84.9
 - WR: Tetairoa McMillan | C-AVI: 84.3 | D-AVI: 93.7
 - WR: Luther Burden | C-AVI: 77.7 | D-AVI: 89.0
-- TE: Chig Okonkwo | C-AVI: 57.5 | D-AVI: 71.8
+- TE: Pat Freiermuth | C-AVI: 58.4 | D-AVI: 61.9
 - FLEX: Jaylen Waddle | C-AVI: 74.7 | D-AVI: 87.2
 - FLEX: Jayden Reed | C-AVI: 63.1 | D-AVI: 77.7
 
@@ -229,6 +229,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
+### PLAYER: Pat Freiermuth
+- Player name: Pat Freiermuth
+- Player ID: 7600
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: PIT
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 58.4
+- Dynasty AVI (D-AVI, 0-100): 61.9
+- Projected PPR points: 129.8
+- Category: offense
+- Valuation status: ACTIVE_2026_2_IN_SEASON
+
 ### PLAYER: Chig Okonkwo
 - Player name: Chig Okonkwo
 - Player ID: 8210
@@ -246,23 +263,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Pat Freiermuth
-- Player name: Pat Freiermuth
-- Player ID: 7600
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: PIT
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 57.4
-- Dynasty AVI (D-AVI, 0-100): 58.9
-- Projected PPR points: 129.8
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
 ### PLAYER: Colby Parkinson
 - Player name: Colby Parkinson
 - Player ID: 6865
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 43.2
-- Dynasty AVI (D-AVI, 0-100): 48.3
+- Championship AVI (C-AVI, 0-100): 44.5
+- Dynasty AVI (D-AVI, 0-100): 52.1
 - Projected PPR points: 88.8
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
