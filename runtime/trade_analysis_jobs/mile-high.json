@@ -31,9 +31,357 @@
       ]
     },
     "createdAt": 1789612670717,
-    "updatedAt": 1789612671706,
+    "updatedAt": 1789612743702,
     "expiresAt": 1790044670717,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. (Win Championship / Elite Contender) proposes trading Jaxon Smith-Njigba (WR, C-AVI 98.6 / D-AVI 99.4) to Mile High Royal Lions (Playoff Push) in exchange for Garrett Wilson (WR, C-AVI 87.5 / D-AVI 91.8), Marvin Harrison (WR, C-AVI 69.6 / D-AVI 85.4), and a 2028 1st-round pick. While the concept of trading JSN to diversify into two high-end wide receivers makes strategic sense for a 16-team contender, demanding Mile High's 2028 1st on top creates a significant overpay that Mile High is unlikely to accept (51% acceptance probability). AVI recommends revising the offer by removing the 2028 1st pick to create a balanced, highly realistic 2-for-1 transaction.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 24,
+              "cavi": 98.6,
+              "davi": 99.4,
+              "publicMarket": 98,
+              "leagueMarket": 98.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 87.5,
+              "davi": 91.8,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            },
+            {
+              "name": "Marvin Harrison",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 24,
+              "cavi": 69.6,
+              "davi": 85.4,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            },
+            {
+              "name": "2028 1st · Mile High · Projected late range (1.10–1.16)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "D+",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. receives substantial value by converting Jaxon Smith-Njigba into Garrett Wilson, Marvin Harrison, and a 2028 1st. While losing JSN causes an 11.1 C-AVI drop at WR1, Wilson steps in as a high-end WR1, Harrison adds premier WR depth in a 16-team league, and the 2028 1st adds championship liquidity. However, the package heavily overcharges Mile High Royal Lions."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "By removing the 2028 1st round pick, Corgi Loaf receives Garrett Wilson and Marvin Harrison straight up for JSN. Corgi Loaf gains high-floor WR depth and a top-tier starter without pricing Mile High out of negotiations."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Net positive portfolio expansion, acquiring two top-25 WRs and a future 1st for one elite asset."
+            },
+            "championshipOutlook": {
+              "score": -5,
+              "summary": "Slight WR1 ceiling decrease (JSN 98.6 to Wilson 87.5), offset by improved bench resilience."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Substantial dynasty value gain (+157.1 incoming D-AVI over JSN)."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "WR1 slot drops by 11.1 C-AVI."
+            },
+            "depthResilience": {
+              "score": 45,
+              "summary": "Significantly strengthens wide receiver depth across the roster."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Gains a highly liquid 2028 1st round draft pick."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -30,
+              "summary": "Consolidates into the league's premier wide receiver but severely overpays in total asset value."
+            },
+            "championshipOutlook": {
+              "score": 5,
+              "summary": "Upgrades starting WR ceiling with JSN (+11.1 C-AVI over Wilson)."
+            },
+            "dynastyOutlook": {
+              "score": -20,
+              "summary": "Acquires the #1 dynasty WR (99.4 D-AVI) but gives up 256.5 in total asset D-AVI."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Improves starting lineup WR ceiling."
+            },
+            "depthResilience": {
+              "score": -45,
+              "summary": "Depletes receiver depth, forcing Courtland Sutton into starting FLEX2 with no insurance."
+            },
+            "flexibilityLiquidity": {
+              "score": -40,
+              "summary": "Surrenders a 2028 1st round pick, limiting future trade options."
+            }
+          },
+          "explanation": "The submitted proposal skews heavily toward Corgi Loaf because demanding a 2028 1st on top of Wilson and Harrison overcharges Mile High. Removing the 1st balances both sides effectively."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf sends JSN (98.6 C-AVI) and receives Garrett Wilson (87.5 C-AVI) + Marvin Harrison (69.6 C-AVI). In the active lineup, Wilson replaces JSN at WR1 (-11.1 C-AVI), while Harrison provides high-end FLEX/depth protection.",
+          "sideADynastyImpact": "Corgi Loaf surrenders 99.4 D-AVI (JSN) and receives 91.8 (Wilson) + 85.4 (Harrison) + 79.3 (2028 1st) = 256.5 total D-AVI.",
+          "sideARosterImpact": "Reduces single-player concentration risk by splitting one elite cornerstone into two starting-caliber WRs plus future capital.",
+          "sideBChampionshipImpact": "Mile High receives JSN (98.6 C-AVI) while sending Wilson (87.5 C-AVI) and Harrison (69.6 C-AVI). Net starting lineup C-AVI increases slightly (+6.3) as Courtland Sutton enters FLEX2.",
+          "sideBDynastyImpact": "Acquires the top-ranked dynasty WR asset (99.4 D-AVI) but surrenders 256.5 total D-AVI in return.",
+          "sideBRosterImpact": "Enhances starting lineup ceiling at WR1 but drains wide receiver depth and future draft assets.",
+          "valueAssessment": "The submitted offer is tilted in favor of Corgi Loaf. While JSN commands a massive premium, requesting Wilson, Harrison, AND a 2028 1st exceeds reasonable consolidation market cost."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus ranks Jaxon Smith-Njigba as a top-3 overall dynasty WR following a strong opening stretch. Garrett Wilson is viewed as a high-end WR2 with upside now that he is healthy and commanding a 29% target share in NY. Marvin Harrison's public perception has experienced a slight dip following a quiet Week 1 (1 catch, 33 yards) amidst target competition in Arizona, making him a perceived buy-low dynasty asset.",
+          "aviVsMarket": "AVI's valuation of JSN (98.6 C-AVI / 99.4 D-AVI) matches public consensus. AVI values Garrett Wilson (87.5 C-AVI) higher than Marvin Harrison (69.6 C-AVI) due to immediate target share stability.",
+          "relevantContext": [
+            "JSN is currently the highest-valued dynasty wide receiver in 1QB PPR setups.",
+            "Garrett Wilson recovered from his 2025 knee injury and saw a 29% target share in Week 1 of 2026.",
+            "Marvin Harrison faced target competition from Michael Wilson and Trey McBride in Week 1, lowering his immediate redraft floor.",
+            "In 16-team deep leagues, two top-25 WRs hold substantial package value against single S-tier assets."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions (Playoff Push) want to consolidate talent into a dominant starting lineup around Jalen Hurts and Jahmyr Gibbs. Acquiring JSN gives them a true S-tier WR1, but paying two starting WRs AND a 2028 1st crosses their threshold.",
+          "packageFit": "The package gives Mile High a superstar WR1, but losing both Wilson and Harrison leaves Courtland Sutton as their FLEX2 with zero WR depth behind him.",
+          "lineupReplacement": "For Mile High, JSN upgrades Garrett Wilson at WR1 (+11.1 C-AVI). However, losing Harrison forces Courtland Sutton (64.8 C-AVI) into FLEX2.",
+          "competitiveWindowFit": "Mile High is in a Playoff Push window. Acquiring JSN fits their timeline, but surrendering a 2028 1st on top of two starting WRs limits their long-term flexibility without adding sufficient immediate weekly points.",
+          "positionalScarcity": "In a 16-team PPR league, WR depth is scarce. Trading two startable WRs for one leaves Mile High thin at receiver."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 18,
+            "opposingGmMotivation": 10,
+            "packageMatch": 9,
+            "lineupReplacement": 10,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 51,
+          "classification": "Stretch",
+          "explanation": "The submitted offer asks for too much asset value from Mile High Royal Lions. While Mile High is motivated to acquire JSN, surrendering Garrett Wilson, Marvin Harrison, AND a 2028 1st overpays significantly for consolidation."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "The submitted offer asks for too much asset value from Mile High Royal Lions. While Mile High is motivated to acquire JSN, surrendering Garrett Wilson, Marvin Harrison, AND a 2028 1st overpays significantly for consolidation.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 24,
+              "cavi": 98.6,
+              "davi": 99.4,
+              "publicMarket": 98,
+              "leagueMarket": 98.5
+            },
+            {
+              "name": "2028 Round 4 (Corgi Loaf Baking Co.)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 0,
+              "leagueMarket": 0
+            }
+          ],
+          "receive": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 87.5,
+              "davi": 91.8,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            },
+            {
+              "name": "Marvin Harrison",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 24,
+              "cavi": 69.6,
+              "davi": 85.4,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            },
+            {
+              "name": "2027 Round 2 (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "If Corgi Loaf insists on receiving draft capital alongside Wilson and Harrison, swapping the 2028 1st for a 2027 2nd (via All Hail King Jesus) bridges the value gap without breaking Mile High's negotiation threshold."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "The submitted offer asks for too much asset value from Mile High Royal Lions. While Mile High is motivated to acquire JSN, surrendering Garrett Wilson, Marvin Harrison, AND a 2028 1st overpays significantly for consolidation.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Mile High Royal Lions (Playoff Push) want to consolidate talent into a dominant starting lineup around Jalen Hurts and Jahmyr Gibbs. Acquiring JSN gives them a true S-tier WR1, but paying two starting WRs AND a 2028 1st crosses their threshold."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "The package gives Mile High a superstar WR1, but losing both Wilson and Harrison leaves Courtland Sutton as their FLEX2 with zero WR depth behind him."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Mile High is in a Playoff Push window. Acquiring JSN fits their timeline, but surrendering a 2028 1st on top of two starting WRs limits their long-term flexibility without adding sufficient immediate weekly points."
+            }
+          ],
+          "opponentPerspective": "Mile High Royal Lions (Playoff Push) want to consolidate talent into a dominant starting lineup around Jalen Hurts and Jahmyr Gibbs. Acquiring JSN gives them a true S-tier WR1, but paying two starting WRs AND a 2028 1st crosses their threshold.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "The package gives Mile High a superstar WR1, but losing both Wilson and Harrison leaves Courtland Sutton as their FLEX2 with zero WR depth behind him.",
+          "whatWouldNeedToChange": [
+            "Mile High Royal Lions (Playoff Push) want to consolidate talent into a dominant starting lineup around Jalen Hurts and Jahmyr Gibbs. Acquiring JSN gives them a true S-tier WR1, but paying two starting WRs AND a 2028 1st crosses their threshold.",
+            "The package gives Mile High a superstar WR1, but losing both Wilson and Harrison leaves Courtland Sutton as their FLEX2 with zero WR depth behind him.",
+            "Mile High is in a Playoff Push window. Acquiring JSN fits their timeline, but surrendering a 2028 1st on top of two starting WRs limits their long-term flexibility without adding sufficient immediate weekly points."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Marvin Harrison news 2026 fantasy football",
+          "Garrett Wilson news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrYYLXlyESgVkzLeEJIA5bAV3HB4f2EJe4dlL25YFezAo7FaVHSYkYpzS7_tiTSxlvggXRq0mL-s4JhVPgvU72KtOq4eJr0B9sdYSOr8WToVKCEkw43AApJF7VDmJ9DGP0un_-NpbwhA7_DjwKz5V99SClW7Kvpw==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq9DTXc3WO-JwvqbtkZZLYntC0Yho--h_Qjopj7a7_HcEbxnC9COaNXnj4zbIbbsfK3-2hz8ewdDPGlAb7Te85qFCWWW-qsPDwhwDu2M07rTvfEuW3nw79i-m20ShKF-IQesTmbLw-x94yxTypWwo=",
+            "title": "fantasysp.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhvUUfpu9STTD3vQDl0Ut7Ii_4joH_5oJ3Y8wpa-Clh4X0Gt2tlOwylOknXcITWUkQKvNccTlZToG0PVVz4TGcgp9iBWbilfQE0ROiMmOXUNSL8Snz81pdL5vADpJ4yj69N5H3g17s6tEkfojZI3c-5HO0qXtNS7SlWB9Oj1OtKzLLKthX6lsarJI2EA==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_h8nmoat4cNgH0DcDdgXDc2mYcVYehNGrZlfrCt9i0VSjKw9m0cuDK7FNtYE7WKfzLuEt5GwNiEe5TJD-aZcWIyf6l8CrZLF8lhF2Cwbrk56kuKpibQTdUqXB_JG9azDcxho9xBhk0RRQ06S94J5Q",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX-JzWbt4JSr-GAgkrs2FJh2yexTpMMRZL7nayh2H3W5I1KNLg-mq2O4thBIghANQRoDJtVhlPzFHrUoVSXMuLy9Go74x8ywy5AD6ArxkFRe9D6HkAMFwzcECFxjNsXw3FuLar61FHPk7D3NUr7iNVbTY2hvHs6h_sEDWD",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs--KHSx2bWAHUalDwS6xDeqyxroiH-qnI7dhL6bRhQtNRohcrwWABUY8D9x8K4CgHDwLHC_ns4dyr7KNA7ZyiBhbuAxLIvD4wX3m2I8y8DAGe7BmVDB_OIWkcCuztBXf1MfPB2evSBsnxna4JUlZiPyCyYo_I8sHuyBk5OlKjhpvrFOjHrS7tUvq16MQcNKL6F7buxHglMZLk7Lrr1A==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuLOGDXPNRV7n6WtpsGAWF3GOPS8Pl66hc3Ba8LUHMKPL37J4kUljP_OIMnRCr1c0u0IfwmS6tDMEHvXSmK604b399JjroLbCpFraWdZz6Bgm2_XBfZK85O-hk0zKFb0COLd8dixdHLG6KjudvAsB4dPf1XRwycxSklnp056AtUVkQAASOFqvH_TSRevy1Tm_3_lEqntPXrMgbk0SJZajvr3rJbg==",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB8PxC9JcWRzBF4YTbEbudB1CuzuuLAnam_f9kt0cZSMce_zn1l8hDAvhTY3sAye-soQ8jQpmcXblhY2znPc12GsA3Ulv8xVktK7irgwEokVts77PnCtFBdWo5oqnZS43M",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "4529ddf94a2da0b77f87f153d3cea4c129669619",
+        "aviCoreCommittedAt": "2026-09-17T02:29:22Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 84745,
+        "groundedMarketChars": 2716,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mu4x0vo4-14a335d1",
