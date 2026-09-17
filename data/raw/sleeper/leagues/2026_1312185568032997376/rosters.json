@@ -941,12 +941,12 @@
     "roster_id": 14,
     "settings": {
       "division": 3,
-      "fpts": 129,
+      "fpts": 130,
       "fpts_against": 110,
       "fpts_against_decimal": 76,
       "fpts_decimal": 96,
       "losses": 0,
-      "ppts": 138,
+      "ppts": 139,
       "ppts_decimal": 76,
       "ties": 0,
       "total_moves": 0,
@@ -1080,7 +1080,7 @@
     "settings": {
       "division": 1,
       "fpts": 110,
-      "fpts_against": 129,
+      "fpts_against": 130,
       "fpts_against_decimal": 96,
       "fpts_decimal": 76,
       "losses": 1,
