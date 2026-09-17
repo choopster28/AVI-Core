@@ -8,13 +8,13 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: nickas
 - Owner ID: 471824466389757952
 - Division: 1
-- Waiver position: 5
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-09-17
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 14
+- total_players: 21
+- offense: 15
 - kickers: 1
 - idp: 5
 - other: 0
@@ -23,20 +23,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 530.0
 - championship_lineup_c_avi_avg: 66.25
-- offensive_roster_c_avi_sum: 794.5
-- offensive_roster_c_avi_avg: 56.75
-- offensive_roster_d_avi_sum: 1021.7
-- offensive_roster_d_avi_avg: 72.98
+- offensive_roster_c_avi_sum: 836.3
+- offensive_roster_c_avi_avg: 55.75
+- offensive_roster_d_avi_sum: 1075.6
+- offensive_roster_d_avi_avg: 71.71
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Justin Herbert | C-AVI: 69.8 | D-AVI: 82.4
 - RB: Chuba Hubbard | C-AVI: 67.6 | D-AVI: 77.9
-- RB: Jadarian Price | C-AVI: 64.0 | D-AVI: 82.0
+- RB: Jadarian Price | C-AVI: 63.9 | D-AVI: 81.9
 - WR: Alec Pierce | C-AVI: 72.3 | D-AVI: 82.2
 - WR: Michael Pittman | C-AVI: 68.8 | D-AVI: 79.5
 - TE: Oronde Gadsden | C-AVI: 56.7 | D-AVI: 75.9
-- FLEX: Jakobi Meyers | C-AVI: 66.2 | D-AVI: 75.0
+- FLEX: Jakobi Meyers | C-AVI: 66.3 | D-AVI: 75.0
 - FLEX: Wan'Dale Robinson | C-AVI: 64.6 | D-AVI: 78.9
 
 ## Current Roster — All Player Cards
@@ -56,6 +56,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 69.8
 - Dynasty AVI (D-AVI, 0-100): 82.4
 - Projected PPR points: 303.4
+- Category: offense
+- Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: Aaron Rodgers
+- Player name: Aaron Rodgers
+- Player ID: 96
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: PIT
+- Active: True
+- Status: Active
+- Age: 42.0
+- Championship AVI (C-AVI, 0-100): 41.9
+- Dynasty AVI (D-AVI, 0-100): 54.0
+- Projected PPR points: 230.1
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
@@ -87,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 64.0
-- Dynasty AVI (D-AVI, 0-100): 82.0
+- Championship AVI (C-AVI, 0-100): 63.9
+- Dynasty AVI (D-AVI, 0-100): 81.9
 - Projected PPR points: 163.4
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -104,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 46.5
+- Championship AVI (C-AVI, 0-100): 46.4
 - Dynasty AVI (D-AVI, 0-100): 65.9
 - Projected PPR points: 88.4
 - Category: offense
@@ -189,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 66.2
+- Championship AVI (C-AVI, 0-100): 66.3
 - Dynasty AVI (D-AVI, 0-100): 75.0
 - Projected PPR points: 180.4
 - Category: offense

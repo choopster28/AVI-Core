@@ -833,16 +833,16 @@
       }
     },
     {
-      "average": 9.3,
+      "average": 10.8,
       "filename": "azareyeh-thomas.php",
       "games": 1,
       "player_id": 27085,
       "player_name": "Azareye'h Thomas",
-      "points": 9.25,
+      "points": 10.75,
       "position_id": "CB",
       "team_id": "NYJ",
       "weeks": {
-        "1": 9.3
+        "1": 10.8
       }
     },
     {
@@ -1743,16 +1743,16 @@
       }
     },
     {
-      "average": 0,
+      "average": 1.5,
       "filename": "brandon-stephens.php",
       "games": 1,
       "player_id": 14469,
       "player_name": "Brandon Stephens",
-      "points": 0,
+      "points": 1.5,
       "position_id": "CB",
       "team_id": "NYJ",
       "weeks": {
-        "1": 0
+        "1": 1.5
       }
     },
     {

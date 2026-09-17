@@ -8,13 +8,13 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: PIFYAF
 - Owner ID: 1132141719354535936
 - Division: 3
-- Waiver position: 6
+- Waiver position: 5
 - Last updated from Sleeper exports: 2026-09-17
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 12
+- total_players: 21
+- offense: 13
 - kickers: 1
 - idp: 7
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 567.1
 - championship_lineup_c_avi_avg: 70.89
-- offensive_roster_c_avi_sum: 743.5
-- offensive_roster_c_avi_avg: 61.96
-- offensive_roster_d_avi_sum: 899.0
-- offensive_roster_d_avi_avg: 74.92
+- offensive_roster_c_avi_sum: 770.1
+- offensive_roster_c_avi_avg: 59.24
+- offensive_roster_d_avi_sum: 954.2
+- offensive_roster_d_avi_avg: 73.40
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -141,6 +141,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 55.7
 - Dynasty AVI (D-AVI, 0-100): 69.6
 - Projected PPR points: 140.2
+- Category: offense
+- Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: Demond Claiborne
+- Player name: Demond Claiborne
+- Player ID: 13347
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: MIN
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 26.6
+- Dynasty AVI (D-AVI, 0-100): 55.2
+- Projected PPR points: 20.2
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 

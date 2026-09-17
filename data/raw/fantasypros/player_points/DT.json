@@ -924,16 +924,16 @@
       }
     },
     {
-      "average": 7,
+      "average": 7.8,
       "filename": "davon-godchaux.php",
       "games": 1,
       "player_id": 16513,
       "player_name": "Davon Godchaux",
-      "points": 7,
+      "points": 7.75,
       "position_id": "DT",
       "team_id": "NO",
       "weeks": {
-        "1": 7
+        "1": 7.8
       }
     },
     {
@@ -1509,16 +1509,16 @@
       }
     },
     {
-      "average": 6.3,
+      "average": 7,
       "filename": "quinnen-williams.php",
       "games": 1,
       "player_id": 18200,
       "player_name": "Quinnen Williams",
-      "points": 6.25,
+      "points": 7,
       "position_id": "DT",
       "team_id": "DAL",
       "weeks": {
-        "1": 6.3
+        "1": 7
       }
     },
     {
@@ -1782,16 +1782,16 @@
       }
     },
     {
-      "average": 3,
+      "average": 2.3,
       "filename": "kenny-clark.php",
       "games": 1,
       "player_id": 15535,
       "player_name": "Kenny Clark",
-      "points": 3,
+      "points": 2.25,
       "position_id": "DT",
       "team_id": "DAL",
       "weeks": {
-        "1": 3
+        "1": 2.3
       }
     },
     {

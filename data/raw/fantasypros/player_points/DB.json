@@ -833,16 +833,16 @@
       }
     },
     {
-      "average": 9.3,
+      "average": 10.8,
       "filename": "azareyeh-thomas.php",
       "games": 1,
       "player_id": 27085,
       "player_name": "Azareye'h Thomas",
-      "points": 9.25,
+      "points": 10.75,
       "position_id": "CB",
       "team_id": "NYJ",
       "weeks": {
-        "1": 9.3
+        "1": 10.8
       }
     },
     {
@@ -1743,16 +1743,16 @@
       }
     },
     {
-      "average": 0,
+      "average": 1.5,
       "filename": "brandon-stephens.php",
       "games": 1,
       "player_id": 14469,
       "player_name": "Brandon Stephens",
-      "points": 0,
+      "points": 1.5,
       "position_id": "CB",
       "team_id": "NYJ",
       "weeks": {
-        "1": 0
+        "1": 1.5
       }
     },
     {
@@ -2198,16 +2198,16 @@
       }
     },
     {
-      "average": 2.3,
+      "average": 3.8,
       "filename": "dane-belton.php",
       "games": 1,
       "player_id": 23914,
       "player_name": "Dane Belton",
-      "points": 2.25,
+      "points": 3.75,
       "position_id": "S",
       "team_id": "NYJ",
       "weeks": {
-        "1": 2.3
+        "1": 3.8
       }
     },
     {
@@ -2432,16 +2432,16 @@
       }
     },
     {
-      "average": 9,
+      "average": 7.5,
       "filename": "andre-cisco.php",
       "games": 1,
       "player_id": 22715,
       "player_name": "Andre Cisco",
-      "points": 9,
+      "points": 7.5,
       "position_id": "S",
       "team_id": "NYJ",
       "weeks": {
-        "1": 9
+        "1": 7.5
       }
     },
     {
@@ -3199,16 +3199,16 @@
       }
     },
     {
-      "average": 6,
+      "average": 5.3,
       "filename": "talanoa-hufanga.php",
       "games": 1,
       "player_id": 22817,
       "player_name": "Talanoa Hufanga",
-      "points": 6,
+      "points": 5.25,
       "position_id": "S",
       "team_id": "DEN",
       "weeks": {
-        "1": 6
+        "1": 5.3
       }
     },
     {

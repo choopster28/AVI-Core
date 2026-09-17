@@ -235,16 +235,16 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 6,
       "filename": "danny-stutsman.php",
       "games": 1,
       "player_id": 27031,
       "player_name": "Danny Stutsman",
-      "points": 6.75,
+      "points": 6,
       "position_id": "LB",
       "team_id": "NO",
       "weeks": {
-        "1": 6.8
+        "1": 6
       }
     },
     {
@@ -404,16 +404,16 @@
       }
     },
     {
-      "average": 18.5,
+      "average": 20,
       "filename": "roquan-smith.php",
       "games": 1,
       "player_id": 17311,
       "player_name": "Roquan Smith",
-      "points": 18.5,
+      "points": 20,
       "position_id": "LB",
       "team_id": "BAL",
       "weeks": {
-        "1": 18.5
+        "1": 20
       }
     },
     {
@@ -950,16 +950,16 @@
       }
     },
     {
-      "average": 17.8,
+      "average": 17,
       "filename": "payton-wilson.php",
       "games": 1,
       "player_id": 26183,
       "player_name": "Payton Wilson",
-      "points": 17.75,
+      "points": 17,
       "position_id": "LB",
       "team_id": "PIT",
       "weeks": {
-        "1": 17.8
+        "1": 17
       }
     },
     {
@@ -1431,16 +1431,16 @@
       }
     },
     {
-      "average": 15,
+      "average": 15.8,
       "filename": "alex-singleton.php",
       "games": 1,
       "player_id": 14399,
       "player_name": "Alex Singleton",
-      "points": 15,
+      "points": 15.75,
       "position_id": "LB",
       "team_id": "DEN",
       "weeks": {
-        "1": 15
+        "1": 15.8
       }
     },
     {
@@ -1873,16 +1873,16 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 7.5,
       "filename": "patrick-queen.php",
       "games": 1,
       "player_id": 19421,
       "player_name": "Patrick Queen",
-      "points": 6.75,
+      "points": 7.5,
       "position_id": "LB",
       "team_id": "PIT",
       "weeks": {
-        "1": 6.8
+        "1": 7.5
       }
     },
     {

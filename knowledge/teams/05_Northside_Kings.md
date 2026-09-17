@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: srsmith95
 - Owner ID: 872351659366539264
 - Division: 1
-- Waiver position: 7
+- Waiver position: 6
 - Last updated from Sleeper exports: 2026-09-17
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,8 +23,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 511.9
 - championship_lineup_c_avi_avg: 63.99
-- offensive_roster_c_avi_sum: 908.9
-- offensive_roster_c_avi_avg: 56.81
+- offensive_roster_c_avi_sum: 908.8
+- offensive_roster_c_avi_avg: 56.80
 - offensive_roster_d_avi_sum: 1138.1
 - offensive_roster_d_avi_avg: 71.13
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 48.9
+- Championship AVI (C-AVI, 0-100): 48.8
 - Dynasty AVI (D-AVI, 0-100): 58.7
 - Projected PPR points: 132.6
 - Category: offense

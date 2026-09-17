@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: awang1900
 - Owner ID: 986498458162970624
 - Division: 3
-- Waiver position: 8
+- Waiver position: 7
 - Last updated from Sleeper exports: 2026-09-17
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 670.8
 - championship_lineup_c_avi_avg: 83.85
-- offensive_roster_c_avi_sum: 1014.3
-- offensive_roster_c_avi_avg: 59.66
-- offensive_roster_d_avi_sum: 1227.3
-- offensive_roster_d_avi_avg: 72.19
+- offensive_roster_c_avi_sum: 1009.0
+- offensive_roster_c_avi_avg: 59.35
+- offensive_roster_d_avi_sum: 1187.9
+- offensive_roster_d_avi_avg: 69.88
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 44.9
+- Championship AVI (C-AVI, 0-100): 44.8
 - Dynasty AVI (D-AVI, 0-100): 60.3
 - Projected PPR points: 84.6
 - Category: offense
@@ -144,23 +144,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Najee Harris
-- Player name: Najee Harris
-- Player ID: 7528
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: NYG
-- Active: True
-- Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): 32.1
-- Dynasty AVI (D-AVI, 0-100): 44.5
-- Projected PPR points: 74.5
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
 ### PLAYER: Kaleb Johnson
 - Player name: Kaleb Johnson
 - Player ID: 12504
@@ -172,9 +155,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 23.1
+- Championship AVI (C-AVI, 0-100): 23.0
 - Dynasty AVI (D-AVI, 0-100): 49.1
 - Projected PPR points: 14.5
+- Category: offense
+- Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: Raheim Sanders
+- Player name: Raheim Sanders
+- Player ID: 12472
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: CLE
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 19.2
+- Dynasty AVI (D-AVI, 0-100): 23.3
+- Projected PPR points: 19.9
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
@@ -263,20 +263,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Cyrus Allen
-- Player name: Cyrus Allen
-- Player ID: 13413
+### PLAYER: Xavier Hutchinson
+- Player name: Xavier Hutchinson
+- Player ID: 10218
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: KC
+- NFL team: HOU
 - Active: True
 - Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 28.4
-- Dynasty AVI (D-AVI, 0-100): 54.3
-- Projected PPR points: 52.7
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 36.2
+- Dynasty AVI (D-AVI, 0-100): 36.1
+- Projected PPR points: 102.0
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
@@ -331,34 +331,34 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Eddy Pineiro
-- Player name: Eddy Pineiro
-- Player ID: 5189
+### PLAYER: Matt Gay
+- Player name: Matt Gay
+- Player ID: 6083
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: K
 - Fantasy positions: ['K']
-- NFL team: SF
+- NFL team: LV
 - Active: True
 - Status: Active
-- Age: 31.0
+- Age: 32.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Jeffery Simmons
-- Player name: Jeffery Simmons
-- Player ID: 6125
+### PLAYER: Donovan Ezeiruaku
+- Player name: Donovan Ezeiruaku
+- Player ID: 12556
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: DL
-- Fantasy positions: ['DL']
-- NFL team: TEN
+- Fantasy positions: ['DL', 'LB']
+- NFL team: DAL
 - Active: True
 - Status: Active
-- Age: 29.0
+- Age: 22.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
