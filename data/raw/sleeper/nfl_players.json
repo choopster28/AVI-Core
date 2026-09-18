@@ -9294,7 +9294,7 @@
       "genius_id": "1398587",
       "rookie_year": "2023"
     },
-    "news_updated": 1789684833836,
+    "news_updated": 1789751748393,
     "number": 90,
     "oddsjam_id": "CBA595C823CB",
     "opta_id": null,
@@ -11230,7 +11230,7 @@
       "genius_id": "1398963",
       "rookie_year": "2023"
     },
-    "news_updated": 1789688433215,
+    "news_updated": 1789753246811,
     "number": 24,
     "oddsjam_id": "89E4D780D1E6",
     "opta_id": null,
@@ -53864,7 +53864,7 @@
     "injury_body_part": "Knee - ACL",
     "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "56edcd6a-cd8c-4fb8-957e-9356d3880c44",
     "last_name": "Penix",
     "metadata": {
@@ -53872,7 +53872,7 @@
       "genius_id": "1463663",
       "rookie_year": "2024"
     },
-    "news_updated": 1789674632301,
+    "news_updated": 1789753247109,
     "number": 9,
     "oddsjam_id": "4CC573CF0E13",
     "opta_id": null,
@@ -56944,7 +56944,7 @@
       "injury_override_regular_2025_7": "Out",
       "rookie_year": "2024"
     },
-    "news_updated": 1789686333785,
+    "news_updated": 1789752346436,
     "number": 89,
     "oddsjam_id": "890CB831F75E",
     "opta_id": null,
@@ -57834,7 +57834,7 @@
       "injury_override_regular_2025_1": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1789675832969,
+    "news_updated": 1789753546608,
     "number": 11,
     "oddsjam_id": "E4EB05AD5052",
     "opta_id": null,
@@ -59702,7 +59702,7 @@
       "genius_id": "1482873",
       "rookie_year": "2024"
     },
-    "news_updated": 1789749946836,
+    "news_updated": 1789751748364,
     "number": 18,
     "oddsjam_id": "043907CFE56D",
     "opta_id": null,
@@ -60850,7 +60850,7 @@
     "injury_body_part": "Concussion",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "d4b52295-b0ba-40de-9cba-95275c67ec2c",
     "last_name": "Robinson",
     "metadata": {
@@ -65395,10 +65395,10 @@
     "hashtag": "#tjtampa-NFL-BAL-27",
     "height": "73",
     "high_school": "Lakewood (FL)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "18b55bed-9cd5-47b7-9992-8bfc093c0503",
     "last_name": "Tampa",
     "metadata": {
@@ -126848,7 +126848,7 @@
       "genius_id": "1500212",
       "rookie_year": "2025"
     },
-    "news_updated": 1789687832824,
+    "news_updated": 1789752648299,
     "number": 33,
     "oddsjam_id": "50D3055A655AA64C",
     "opta_id": null,
@@ -191110,7 +191110,7 @@
       "genius_id": "1746654",
       "rookie_year": "2026"
     },
-    "news_updated": 1789587643603,
+    "news_updated": 1789752648279,
     "number": 18,
     "oddsjam_id": null,
     "opta_id": null,
@@ -459945,7 +459945,7 @@
       "genius_id": "1015272",
       "rookie_year": "2018"
     },
-    "news_updated": 1789677032860,
+    "news_updated": 1789751748379,
     "number": 7,
     "oddsjam_id": "026F1C5B93B8",
     "opta_id": null,
@@ -494521,7 +494521,7 @@
       "genius_id": "1025572",
       "rookie_year": "2018"
     },
-    "news_updated": 1789746347601,
+    "news_updated": 1789751148035,
     "number": 4,
     "oddsjam_id": "E289D4D2A830",
     "opta_id": null,
@@ -512050,7 +512050,7 @@
       "genius_id": "1013859",
       "rookie_year": "2019"
     },
-    "news_updated": 1789745147373,
+    "news_updated": 1789752647062,
     "number": 1,
     "oddsjam_id": "4E6A6983DF4F",
     "opta_id": null,
@@ -570841,7 +570841,7 @@
     "injury_body_part": "Oblique",
     "injury_notes": "Strain",
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "105c848c-bdb3-411d-a2a4-67c71683b6b2",
     "last_name": "Tagovailoa",
     "metadata": {
@@ -570850,7 +570850,7 @@
       "injury_override_regular_2024_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1789748746516,
+    "news_updated": 1789753547389,
     "number": 1,
     "oddsjam_id": "66B708A8FB24",
     "opta_id": null,
@@ -571026,7 +571026,7 @@
       "injury_override_regular_2025_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1789750547805,
+    "news_updated": 1789751146362,
     "number": 9,
     "oddsjam_id": "26DF8843FD11",
     "opta_id": null,
@@ -630090,7 +630090,7 @@
       "genius_id": "1077807",
       "rookie_year": "2021"
     },
-    "news_updated": 1789687233061,
+    "news_updated": 1789752648624,
     "number": 7,
     "oddsjam_id": "AEB532B9AE50",
     "opta_id": null,
@@ -666292,7 +666292,7 @@
     "injury_body_part": "Hamstring",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "320ff933-d015-48c1-bc6f-13058dc633f8",
     "last_name": "Okonkwo",
     "metadata": {
@@ -666300,7 +666300,7 @@
       "genius_id": "1075524",
       "rookie_year": "2022"
     },
-    "news_updated": 1789746347634,
+    "news_updated": 1789752946528,
     "number": 85,
     "oddsjam_id": "06307AE899D5",
     "opta_id": null,
