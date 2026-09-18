@@ -59691,10 +59691,10 @@
     "hashtag": "#jalencoker-NFL-CAR-18",
     "height": "75",
     "high_school": "Potomac Falls (VA)",
-    "injury_body_part": "Ankle",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "85b609a0-24c7-42cf-b829-0980f7fcae2a",
     "last_name": "Coker",
     "metadata": {
@@ -59702,7 +59702,7 @@
       "genius_id": "1482873",
       "rookie_year": "2024"
     },
-    "news_updated": 1789747545760,
+    "news_updated": 1789749946836,
     "number": 18,
     "oddsjam_id": "043907CFE56D",
     "opta_id": null,
@@ -428556,7 +428556,7 @@
       "genius_id": "999716",
       "rookie_year": "2017"
     },
-    "news_updated": 1789674632279,
+    "news_updated": 1789749947785,
     "number": 13,
     "oddsjam_id": "57772FA91C9A",
     "opta_id": null,
@@ -494511,9 +494511,9 @@
     "height": "75",
     "high_school": "Tafuna (ASM)",
     "injury_body_part": "Groin",
-    "injury_notes": null,
+    "injury_notes": "Strain",
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "e71f8b2b-08fc-4678-9026-e9a4bdaeb05e",
     "last_name": "Luvu",
     "metadata": {
@@ -549356,7 +549356,7 @@
     "injury_body_part": "Ankle",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "09806ef7-0f79-4291-abfe-f97ae15bdb8f",
     "last_name": "Dulin",
     "metadata": {
@@ -570850,7 +570850,7 @@
       "injury_override_regular_2024_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1789687232252,
+    "news_updated": 1789748746516,
     "number": 1,
     "oddsjam_id": "66B708A8FB24",
     "opta_id": null,
@@ -571026,7 +571026,7 @@
       "injury_override_regular_2025_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1789746646068,
+    "news_updated": 1789750547805,
     "number": 9,
     "oddsjam_id": "26DF8843FD11",
     "opta_id": null,
@@ -622780,7 +622780,7 @@
       "genius_id": "1079616",
       "rookie_year": "2021"
     },
-    "news_updated": 1789380302935,
+    "news_updated": 1789748145958,
     "number": 8,
     "oddsjam_id": "BD527CDCA6B3",
     "opta_id": null,
@@ -633839,7 +633839,7 @@
     "injury_body_part": "Back",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "f3bdd5b4-bb45-4d20-ba56-a6e87992ad68",
     "last_name": "Brown",
     "metadata": {
@@ -661708,7 +661708,7 @@
       "genius_id": "1079211",
       "rookie_year": "2022"
     },
-    "news_updated": 1789747846366,
+    "news_updated": 1789749045924,
     "number": 14,
     "oddsjam_id": "1FEBF6F68F3D",
     "opta_id": null,
@@ -723935,7 +723935,7 @@
       "genius_id": "1398595",
       "rookie_year": "2023"
     },
-    "news_updated": 1789678832801,
+    "news_updated": 1789749348230,
     "number": 4,
     "oddsjam_id": "F39E10BEE1F4",
     "opta_id": null,
