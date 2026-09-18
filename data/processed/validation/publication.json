@@ -1,6 +1,6 @@
 {
-  "avi_generated_at_utc": "2026-09-18T00:26:57.637232+00:00",
-  "checked_at_utc": "2026-09-18T00:26:58.601124+00:00",
+  "avi_generated_at_utc": "2026-09-18T16:22:28.966571+00:00",
+  "checked_at_utc": "2026-09-18T16:22:29.882383+00:00",
   "counts": {
     "avi_players": 480,
     "player_lookup": 480,
@@ -16,12 +16,12 @@
       "ESPN NFL scoreboard"
     ],
     "current_week_schedule_complete": null,
-    "fantasypros_max_observed_week": 1,
+    "fantasypros_max_observed_week": 2,
     "mapped_player_point_records": 343,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 2,
-    "status": "active"
+    "status": "waiting_for_completed_current_season_points"
   },
   "status": "passed"
 }

@@ -2,8 +2,8 @@
   "c_avi_weights": {
     "elite_upside": 0.1,
     "league_context": 0.1,
-    "player_points": 0.1,
-    "projections": 0.4,
+    "player_points": 0.0,
+    "projections": 0.5,
     "public_market": 0.3
   },
   "d_avi_missing_component_policy": "Redistribute missing optional component weights proportionally across verified components.",
@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-09-18T00:26:57.637232+00:00",
+  "generated_at_utc": "2026-09-18T16:22:28.966571+00:00",
   "in_season_transition": {
     "activation_policy": "Activate after a completed 2026 week is verified. Sleeper advancing to the next week or ESPN confirming every game final is sufficient; stale or partial player-points feeds never activate the transition.",
     "completed_through_week": 1,
@@ -25,29 +25,22 @@
       "ESPN NFL scoreboard"
     ],
     "current_week_schedule_complete": null,
-    "fantasypros_max_observed_week": 1,
+    "fantasypros_max_observed_week": 2,
     "mapped_player_point_records": 343,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 2,
-    "status": "active"
+    "status": "waiting_for_completed_current_season_points"
   },
   "injury_availability_adjustments": {
-    "championship_horizon_end_week": 17,
-    "current_week": 2,
-    "players_capped": 1,
-    "players_evaluated": 480,
-    "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
-    "sources": [
-      "Sleeper NFL player injury status",
-      "FantasyPros injuries"
-    ],
-    "status": "active"
+    "policy": "Projection-aware C-AVI ceiling; never multiply an already injury-adjusted projection.",
+    "reason": "regular-season availability window is not active",
+    "status": "inactive"
   },
   "league_id": "1312185568032997376",
-  "methodology_status": "active_2026_2_in_season",
+  "methodology_status": "provisional_2026_2",
   "methodology_version": "2026.2",
-  "player_points_active": true,
+  "player_points_active": false,
   "record_counts": {
     "calculated_players": 480,
     "registry_players": 480,
@@ -91,6 +84,6 @@
     }
   },
   "season": 2026,
-  "season_phase": "regular_season",
+  "season_phase": "preseason",
   "status": "passed"
 }
