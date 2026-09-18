@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-09-17
+- Last updated from Sleeper exports: 2026-09-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 697.6
 - championship_lineup_c_avi_avg: 87.20
-- offensive_roster_c_avi_sum: 1161.3
-- offensive_roster_c_avi_avg: 68.31
-- offensive_roster_d_avi_sum: 1332.0
-- offensive_roster_d_avi_avg: 78.35
+- offensive_roster_c_avi_sum: 1129.8
+- offensive_roster_c_avi_avg: 66.46
+- offensive_roster_d_avi_sum: 1308.5
+- offensive_roster_d_avi_avg: 76.97
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -161,23 +161,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Ray Davis
-- Player name: Ray Davis
-- Player ID: 11575
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: BUF
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 31.5
-- Dynasty AVI (D-AVI, 0-100): 54.6
-- Projected PPR points: 24.9
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
 ### PLAYER: Rashee Rice
 - Player name: Rashee Rice
 - Player ID: 10229
@@ -296,6 +279,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 84.6
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: Tyreek Hill
+- Player name: Tyreek Hill
+- Player ID: 3321
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: None
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 31.1
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Trey McBride
 - Player name: Trey McBride

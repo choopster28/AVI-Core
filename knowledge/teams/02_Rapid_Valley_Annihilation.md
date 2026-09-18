@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-09-17
+- Last updated from Sleeper exports: 2026-09-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 538.1
-- championship_lineup_c_avi_avg: 67.26
-- offensive_roster_c_avi_sum: 872.6
-- offensive_roster_c_avi_avg: 54.54
+- championship_lineup_c_avi_sum: 538.2
+- championship_lineup_c_avi_avg: 67.28
+- offensive_roster_c_avi_sum: 872.8
+- offensive_roster_c_avi_avg: 54.55
 - offensive_roster_d_avi_sum: 1153.0
 - offensive_roster_d_avi_avg: 72.06
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Quentin Johnston | C-AVI: 60.1 | D-AVI: 75.8
 - WR: Denzel Boston | C-AVI: 56.1 | D-AVI: 76.3
 - TE: Colston Loveland | C-AVI: 89.4 | D-AVI: 90.5
-- FLEX: Blake Corum | C-AVI: 55.4 | D-AVI: 74.9
+- FLEX: Blake Corum | C-AVI: 55.5 | D-AVI: 74.9
 - FLEX: AJ Barner | C-AVI: 54.6 | D-AVI: 68.4
 
 ## Current Roster — All Player Cards
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 55.4
+- Championship AVI (C-AVI, 0-100): 55.5
 - Dynasty AVI (D-AVI, 0-100): 74.9
 - Projected PPR points: 134.2
 - Category: offense
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 34.4
+- Championship AVI (C-AVI, 0-100): 34.5
 - Dynasty AVI (D-AVI, 0-100): 53.5
 - Projected PPR points: 59.1
 - Category: offense
