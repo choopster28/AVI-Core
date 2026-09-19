@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-09-18
+- Last updated from Sleeper exports: 2026-09-19
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 666.7
-- championship_lineup_c_avi_avg: 83.34
-- offensive_roster_c_avi_sum: 989.0
-- offensive_roster_c_avi_avg: 58.18
-- offensive_roster_d_avi_sum: 1184.7
-- offensive_roster_d_avi_avg: 69.69
+- championship_lineup_c_avi_sum: 666.9
+- championship_lineup_c_avi_avg: 83.36
+- offensive_roster_c_avi_sum: 989.8
+- offensive_roster_c_avi_avg: 58.22
+- offensive_roster_d_avi_sum: 1185.2
+- offensive_roster_d_avi_avg: 69.72
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Patrick Mahomes | C-AVI: 74.0 | D-AVI: 81.6
-- RB: Cam Skattebo | C-AVI: 81.7 | D-AVI: 84.9
+- QB: Patrick Mahomes | C-AVI: 74.4 | D-AVI: 82.7
+- RB: Cam Skattebo | C-AVI: 81.6 | D-AVI: 84.4
 - RB: David Montgomery | C-AVI: 72.8 | D-AVI: 81.0
-- WR: Jaxon Smith-Njigba | C-AVI: 98.9 | D-AVI: 99.4
+- WR: Jaxon Smith-Njigba | C-AVI: 98.7 | D-AVI: 99.1
 - WR: DeVonta Smith | C-AVI: 87.3 | D-AVI: 92.7
 - TE: Tyler Warren | C-AVI: 97.3 | D-AVI: 91.1
 - FLEX: Malik Nabers | C-AVI: 80.7 | D-AVI: 93.9
-- FLEX: DJ Moore | C-AVI: 74.0 | D-AVI: 83.6
+- FLEX: DJ Moore | C-AVI: 74.1 | D-AVI: 83.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 74.0
-- Dynasty AVI (D-AVI, 0-100): 81.6
+- Championship AVI (C-AVI, 0-100): 74.4
+- Dynasty AVI (D-AVI, 0-100): 82.7
 - Projected PPR points: 305.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 54.8
-- Dynasty AVI (D-AVI, 0-100): 70.6
+- Championship AVI (C-AVI, 0-100): 55.1
+- Dynasty AVI (D-AVI, 0-100): 71.5
 - Projected PPR points: 279.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 81.7
-- Dynasty AVI (D-AVI, 0-100): 84.9
+- Championship AVI (C-AVI, 0-100): 81.6
+- Dynasty AVI (D-AVI, 0-100): 84.4
 - Projected PPR points: 233.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -110,23 +110,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Mike Washington
-- Player name: Mike Washington
-- Player ID: 13305
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: LV
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 42.9
-- Dynasty AVI (D-AVI, 0-100): 59.9
-- Projected PPR points: 84.6
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
 ### PLAYER: Tyrone Tracy
 - Player name: Tyrone Tracy
 - Player ID: 11655
@@ -138,9 +121,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 42.8
+- Championship AVI (C-AVI, 0-100): 42.9
 - Dynasty AVI (D-AVI, 0-100): 66.2
 - Projected PPR points: 75.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Mike Washington
+- Player name: Mike Washington
+- Player ID: 13305
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: LV
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 42.4
+- Dynasty AVI (D-AVI, 0-100): 58.4
+- Projected PPR points: 84.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 22.5
-- Dynasty AVI (D-AVI, 0-100): 49.0
+- Championship AVI (C-AVI, 0-100): 22.8
+- Dynasty AVI (D-AVI, 0-100): 49.5
 - Projected PPR points: 14.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 14.5
+- Championship AVI (C-AVI, 0-100): 14.6
 - Dynasty AVI (D-AVI, 0-100): 22.6
 - Projected PPR points: 19.9
 - Category: offense
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 98.9
-- Dynasty AVI (D-AVI, 0-100): 99.4
+- Championship AVI (C-AVI, 0-100): 98.7
+- Dynasty AVI (D-AVI, 0-100): 99.1
 - Projected PPR points: 324.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 74.0
+- Championship AVI (C-AVI, 0-100): 74.1
 - Dynasty AVI (D-AVI, 0-100): 83.6
 - Projected PPR points: 199.4
 - Category: offense
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 36.2
-- Dynasty AVI (D-AVI, 0-100): 59.2
+- Championship AVI (C-AVI, 0-100): 35.4
+- Dynasty AVI (D-AVI, 0-100): 56.7
 - Projected PPR points: 77.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 29.8
-- Dynasty AVI (D-AVI, 0-100): 56.6
+- Championship AVI (C-AVI, 0-100): 30.8
+- Dynasty AVI (D-AVI, 0-100): 59.4
 - Projected PPR points: 54.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -325,7 +325,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 45.0
+- Championship AVI (C-AVI, 0-100): 45.1
 - Dynasty AVI (D-AVI, 0-100): 56.7
 - Projected PPR points: 85.9
 - Category: offense
