@@ -1707,18 +1707,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00013411",
-      "c_avi": 16.7,
-      "d_avi": 39.7,
-      "nfl_team": "CHI",
-      "player_name": "Zavion Thomas",
-      "position": "WR",
-      "sleeper_id": "13411",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012541",
       "c_avi": 16.0,
       "d_avi": 41.9,
@@ -2798,8 +2786,8 @@
     }
   ],
   "counts": {
-    "available_players": 233,
-    "rostered_players": 247
+    "available_players": 232,
+    "rostered_players": 248
   },
   "rostered_players": [
     {
@@ -6737,6 +6725,22 @@
       "status": "Active",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013411",
+      "c_avi": 16.7,
+      "d_avi": 39.7,
+      "nfl_team": "CHI",
+      "owner_id": "1178861684281753600",
+      "player_name": "Zavion Thomas",
+      "position": "WR",
+      "roster_id": 2,
+      "sleeper_id": "13411",
+      "status": "Active",
+      "team_file": "02_Rapid_Valley_Annihilation.md",
+      "team_name": "Rapid Valley Annihilation"
     },
     {
       "active": true,

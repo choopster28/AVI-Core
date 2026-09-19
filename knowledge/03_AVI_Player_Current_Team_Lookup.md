@@ -1972,6 +1972,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
+## PLAYER LOOKUP: Zavion Thomas
+- Player name: Zavion Thomas
+- Player ID: 13411
+- Position: WR
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
+
 ## PLAYER LOOKUP: Zay Flowers
 - Player name: Zay Flowers
 - Player ID: 9997
@@ -3258,15 +3266,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: GB
 - Championship AVI (C-AVI, 0-100): 16.9
 - Dynasty AVI (D-AVI, 0-100): 38.4
-- Availability: available
-
-## AVAILABLE PLAYER: Zavion Thomas
-- Player name: Zavion Thomas
-- Player ID: 13411
-- Position: WR
-- NFL team: CHI
-- Championship AVI (C-AVI, 0-100): 16.7
-- Dynasty AVI (D-AVI, 0-100): 39.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Dont'e Thornton
