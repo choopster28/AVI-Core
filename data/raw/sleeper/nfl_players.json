@@ -4685,7 +4685,7 @@
       "genius_id": "1077383",
       "rookie_year": "2023"
     },
-    "news_updated": 1788402935623,
+    "news_updated": 1789837239069,
     "number": 13,
     "oddsjam_id": "C0CCC7EF4ED5",
     "opta_id": null,
@@ -67532,7 +67532,7 @@
       "genius_id": "1463991",
       "rookie_year": "2024"
     },
-    "news_updated": 1788313524684,
+    "news_updated": 1789836039468,
     "number": 6,
     "oddsjam_id": "6A241803B996",
     "opta_id": null,
@@ -69111,7 +69111,7 @@
       "genius_id": "1464142",
       "rookie_year": "2024"
     },
-    "news_updated": 1789359959921,
+    "news_updated": 1789836338869,
     "number": 39,
     "oddsjam_id": "2E10774CEDB0",
     "opta_id": null,
@@ -116472,7 +116472,7 @@
       "rookie_year": "2025",
       "source_id": "b25ba780-89c0-11ec-9eae-b94e7e2a33e8"
     },
-    "news_updated": 1789436708474,
+    "news_updated": 1789836638895,
     "number": 0,
     "oddsjam_id": "6FD40ABCB29E289F",
     "opta_id": null,
@@ -168890,7 +168890,7 @@
       "rookie_year": "2026",
       "source_id": "e14eaaf0-8e80-11ec-8d02-85ead82574a9"
     },
-    "news_updated": 1789742745262,
+    "news_updated": 1789838446343,
     "number": 17,
     "oddsjam_id": null,
     "opta_id": null,
@@ -169014,7 +169014,7 @@
       "rookie_year": "2026",
       "source_id": "6975fac0-86cd-11ec-91b7-bfe197069085"
     },
-    "news_updated": 1789835140502,
+    "news_updated": 1789836338871,
     "number": 11,
     "oddsjam_id": null,
     "opta_id": null,
@@ -173849,7 +173849,7 @@
       "rookie_year": "2026",
       "source_id": "c915add0-8921-11ec-a1ad-e7bb44b6038f"
     },
-    "news_updated": 1789765248194,
+    "news_updated": 1789838139153,
     "number": 21,
     "oddsjam_id": null,
     "opta_id": null,
@@ -428556,7 +428556,7 @@
       "genius_id": "999716",
       "rookie_year": "2017"
     },
-    "news_updated": 1789754147325,
+    "news_updated": 1789836638891,
     "number": 13,
     "oddsjam_id": "57772FA91C9A",
     "opta_id": null,
@@ -518608,7 +518608,7 @@
       "injury_override_regular_2025_7": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1789833940601,
+    "news_updated": 1789835438719,
     "number": 3,
     "oddsjam_id": "67FF12F3845C",
     "opta_id": null,
@@ -574145,10 +574145,10 @@
     "hashtag": "#noahigbinoghene-NFL-CLE-20",
     "height": "71",
     "high_school": "Hewitt-Trussville (AL)",
-    "injury_body_part": null,
+    "injury_body_part": "Hand",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "3602b95f-d103-4229-9b31-4411deaf0b2f",
     "last_name": "Igbinoghene",
     "metadata": {
@@ -574267,10 +574267,10 @@
     "hashtag": "#michaelpittman-NFL-PIT-11",
     "height": "76",
     "high_school": "Oaks Christian (CA)",
-    "injury_body_part": "Foot",
+    "injury_body_part": "Ankle",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "c2e3cdbe-f918-4ad7-aa40-4dbac188cb6a",
     "last_name": "Pittman",
     "metadata": {
@@ -574279,7 +574279,7 @@
       "injury_override_regular_2024_6": "Active",
       "rookie_year": "2020"
     },
-    "news_updated": 1789826737987,
+    "news_updated": 1789838447455,
     "number": 11,
     "oddsjam_id": "F9DF4252F1E4",
     "opta_id": null,
