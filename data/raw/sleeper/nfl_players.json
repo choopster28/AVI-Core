@@ -8009,7 +8009,7 @@
     "injury_body_part": "Personal",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "d2c6fc7e-8b26-4e9b-a170-bd3ac0422d18",
     "last_name": "O'Connell",
     "metadata": {
@@ -8017,7 +8017,7 @@
       "genius_id": "1074056",
       "rookie_year": "2023"
     },
-    "news_updated": 1789833940614,
+    "news_updated": 1789854047875,
     "number": 12,
     "oddsjam_id": "031D6CADF278",
     "opta_id": null,
@@ -14269,7 +14269,7 @@
       "genius_id": "1399067",
       "rookie_year": "2023"
     },
-    "news_updated": 1789783250959,
+    "news_updated": 1789853747942,
     "number": 75,
     "oddsjam_id": "0379A84779B2",
     "opta_id": null,
@@ -65406,7 +65406,7 @@
       "genius_id": "1463666",
       "rookie_year": "2024"
     },
-    "news_updated": 1789779650497,
+    "news_updated": 1789853447769,
     "number": 27,
     "oddsjam_id": "A984C5CF8BA9",
     "opta_id": null,
@@ -461349,7 +461349,7 @@
     "sport": "nfl",
     "sportradar_id": "eacc232b-701d-4a67-9ce5-61b9b931fd42",
     "stats_id": 747990,
-    "status": "Inactive",
+    "status": "Active",
     "swish_id": 747990,
     "team": "SF",
     "team_abbr": null,
@@ -723935,7 +723935,7 @@
       "genius_id": "1398595",
       "rookie_year": "2023"
     },
-    "news_updated": 1789848948317,
+    "news_updated": 1789856447568,
     "number": 4,
     "oddsjam_id": "F39E10BEE1F4",
     "opta_id": null,
