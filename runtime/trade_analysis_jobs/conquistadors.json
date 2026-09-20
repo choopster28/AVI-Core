@@ -18,9 +18,311 @@
       "foundationAssets": []
     },
     "createdAt": 1789925787523,
-    "updatedAt": 1789925788595,
+    "updatedAt": 1789925838843,
     "expiresAt": 1790357787523,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "To acquire 23-year-old developmental tight end Terrance Ferguson from Lightskin Legends ✊🏽, Conquistadors can leverage their TE depth by offering veteran tight end Juwan Johnson alongside a 2028 3rd-round pick. This proposal directly serves Lightskin Legends' stated goal to 'Increase Championship Odds' by providing an immediate 2026 starting tight end upgrade (Juwan Johnson: 60.2 C-AVI, 152.8 proj PPR pts vs. Ferguson: 55.7 C-AVI, 117.5 proj PPR pts), while Conquistadors (Champion Favorite) pivot bench depth into a younger dynasty tight end asset behind elite starter Harold Fannin without compromising current starting lineup power.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 30,
+              "cavi": 60.2,
+              "davi": 72.2,
+              "publicMarket": 60,
+              "leagueMarket": 62
+            },
+            {
+              "name": "2028 Round 3 (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 18,
+              "leagueMarket": 20
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Terrance Ferguson",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "TE",
+              "age": 23,
+              "cavi": 55.7,
+              "davi": 72,
+              "publicMarket": 58,
+              "leagueMarket": 62
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Conquistadors",
+            "summary": "Conquistadors capitalize on bench surplus to youth-insulate their tight end position behind Harold Fannin. Lightskin Legends receives a win-now tight end upgrade for their playoff push plus future pick equity."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 22,
+              "summary": "Conquistadors secure a 23-year-old 2nd-round NFL draft TE without sacrificing a single starting lineup point."
+            },
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Starting lineup is completely untouched as Harold Fannin remains anchored at TE1."
+            },
+            "dynastyOutlook": {
+              "score": 32,
+              "summary": "Gains a 7-year age advantage at TE backup, creating long-term positional insulation."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "No change to top 8 starting C-AVI projection."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Maintains robust TE depth while transitioning from a 30-year-old veteran to a high-upside sophomore."
+            },
+            "flexibilityLiquidity": {
+              "score": -5,
+              "summary": "Surrenders a minor late 3rd-round draft asset."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 18,
+              "summary": "Lightskin Legends upgrades immediate weekly TE scoring output while capturing draft liquidity."
+            },
+            "championshipOutlook": {
+              "score": 22,
+              "summary": "Directly boosts starting lineup output for a Playoff Push franchise."
+            },
+            "dynastyOutlook": {
+              "score": -12,
+              "summary": "Gives up 7 years of youth at tight end for immediate veteran production."
+            },
+            "lineupQuality": {
+              "score": 18,
+              "summary": "TE position upgrades from 55.7 C-AVI (Ferguson) to 60.2 C-AVI (Juwan Johnson)."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Juwan Johnson provides a more established weekly target floor in New Orleans."
+            },
+            "flexibilityLiquidity": {
+              "score": 12,
+              "summary": "Adds a 2028 3rd-round pick to offset the age variance."
+            }
+          },
+          "explanation": "This transaction represents a classic win-win alignment where a Champion Favorite converts bench age into dynasty upside while a Playoff Push contender gains immediate starting lineup improvement."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Neutral immediate impact. Conquistadors maintain their top-tier championship starting score (752.0 C-AVI sum) led by Harold Fannin (95.6 C-AVI).",
+          "sideADynastyImpact": "Positive dynasty trajectory. Swapping a 30-year-old backup TE (Johnson) for a 23-year-old high-athleticism TE (Ferguson) lowers roster age profile.",
+          "sideARosterImpact": "Strengthens TE development behind Fannin while trimming an aged bench piece.",
+          "sideBChampionshipImpact": "Positive current impact. Lightskin Legends gains +4.5 C-AVI at starting TE, increasing projected PPR output from 117.5 to 152.8 pts.",
+          "sideBDynastyImpact": "Modest dynasty sacrifice in age, offset by receiving a 2028 3rd-round pick.",
+          "sideBRosterImpact": "Solves starting TE consistency for 2026 playoff contention.",
+          "valueAssessment": "Fair market trade. Juwan Johnson (60.2 C-AVI / 72.2 D-AVI) + 2028 3rd (16.5 AVI) = 76.7 combined C-AVI for Terrance Ferguson (55.7 C-AVI / 72.0 D-AVI)."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Terrance Ferguson remains a popular dynasty buy-low candidate based on 2nd-round draft capital and athleticism, but his 2026 redraft/contender value is muted by a crowded Rams tight end rotation under Sean McVay.",
+          "aviVsMarket": "Public market rates Ferguson primarily on 2-year horizon dynasty upside (~58-62 market value), matching AVI's D-AVI of 72.0, while his current C-AVI (55.7) correctly reflects limited 2026 target volume.",
+          "relevantContext": [
+            "Ferguson played under 53% of snaps in Week 1 of 2026, rotating with Colby Parkinson and Davis Allen.",
+            "Juwan Johnson retains top TE target duties in New Orleans, providing higher immediate weekly floor."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Lightskin Legends needs immediate starting points to secure a playoff spot and advance their 'Increase Championship Odds' goal.",
+          "packageFit": "Supplies a direct positional upgrade at TE (Johnson) plus pick compensation, preventing any lineup hole.",
+          "lineupReplacement": "Seamless replacement: Juwan Johnson steps straight into Lightskin Legends' starting TE slot with higher projected 2026 output.",
+          "competitiveWindowFit": "Fits Lightskin Legends' Playoff Push timeline by maximizing current-season weekly scoring.",
+          "positionalScarcity": "Tight end starter output is scarce in 16-team full PPR; converting a rotational sophomore into an established starter fits market needs."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 94,
+          "classification": "Highly Realistic",
+          "explanation": "High trade likelihood because the offer directly upgrades Lightskin Legends' starting TE slot for their 2026 playoff push while supplying a 2028 pick to compensate for Ferguson's age."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal effectively leverages Conquistadors' TE surplus to purchase long-term TE succession without hurting 2026 championship odds, while offering Lightskin Legends a compelling win-now upgrade that fits their Playoff Push mandate.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 30,
+              "cavi": 60.2,
+              "davi": 72.2,
+              "publicMarket": 60,
+              "leagueMarket": 62
+            },
+            {
+              "name": "2028 Round 3 (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 18,
+              "leagueMarket": 20
+            }
+          ],
+          "receive": [
+            {
+              "name": "Terrance Ferguson",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "TE",
+              "age": 23,
+              "cavi": 55.7,
+              "davi": 72,
+              "publicMarket": 58,
+              "leagueMarket": 62
+            }
+          ],
+          "whyUserShouldDoIt": "You turn a 30-year-old bench TE into a 23-year-old TE with 2nd-round NFL draft pedigree behind Harold Fannin, maintaining 100% of your starting lineup power.",
+          "whyOpponentMightAccept": "Lightskin Legends immediately upgrades their starting TE position for their 2026 playoff run (+4.5 C-AVI boost) and gains future draft pick equity."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Matthew Golden",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 23,
+              "cavi": 56.5,
+              "davi": 75.6,
+              "publicMarket": 62,
+              "leagueMarket": 65
+            }
+          ],
+          "receive": [
+            {
+              "name": "Terrance Ferguson",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "TE",
+              "age": 23,
+              "cavi": 55.7,
+              "davi": 72,
+              "publicMarket": 58,
+              "leagueMarket": 62
+            }
+          ],
+          "rationale": "If Lightskin Legends prefers young wide receiver talent for their WR3 slot (where Matthew Golden's 56.5 C-AVI upgrades Rashod Bateman's 44.4 C-AVI), a straight player swap offers equal 23-year-old dynasty value."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Terrance Ferguson NFL draft current team 2026",
+          "Terrance Ferguson football player"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBz6NF4RIzMYhufYl0oYw3tzZFBPPGmoNbgiXZRZ5oENN8CB7GS80QNTJRxNkg3bZ5_IcoDkzyYmR1QDlGTedQbqsOFUyCJ6JKCjTA_jTBKJzgxTNmRdW6V-3a11srrdBaeTz0ZGVvYDEif3LrlhMhsZrGcYUZ94c=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH31Vs43czmCRb5r8eAhvcO0FZRCidyZ9_hUD7W1CpuLaq3zhiNEAuagswQradtAcrwJ41Nad-JqGN8COUL2VtlSMdoDy6YKyVrH9-xmVmb0xRr8zkzS-uCE-ygvf0eGAB-ziLYn-XvOE6IvgUryWkT74cRMVeJT_E2dhntL_kz",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQ5DMjTeFNIROsmvSfRmp1zn8yczJgyIf8XHUWq8LoVI-BZ1JbSWJzXUWwqOXeIVib-vTK1RCS-9WvD0E5-OP5u2zJX5JOkP0KKnwYZFyoR87lOfgmeLC89ETUJ6YZg7LYTovOrweFQr0n2FCR9mo23pHkYQkh9ltWVTCwHTbZ7iNUGI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaS6EI2MX6MHLMgZe_wORi2LqjrxkRCyuXNj-88NFBhO1a5BQLCSRu5dJGs7I1chpO1nnZwZZ8VmTAG_GqOrMLmHpHiCLnZoszKEgOK2IjZ90h84ZWIZuqLPFCrjRg1xHt6ugTo0ev1fkBMiV7qe_HjUDc",
+            "title": "therams.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk7TVkCOuF5oOi75S0Z2ZprRwJ-YoN6vzGVoc0PpOscYHCtUMs-iXVH7DO79f1xWxKnaSumpCLjsXp_K9gM7SaOxoB5aqRwCCG1GkuneXrF-FPLClK72kWDwMq0zqjcjI=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWtR_YzMHdks2P-A9KYnwR2aLi9gD40guq5oYN2bzX-CK_jzrf6OhSb4cWUHAV_5A5-BsjKeAdg-7XHisQP2VCQhSwf7dZXYIYo90686h6qlow1OW3545muECXkKE_Auo=",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "985c742a0e0efab0f9758a0739bd4fde3e06be63",
+        "aviCoreCommittedAt": "2026-09-20T16:53:56Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 79449,
+        "groundedMarketChars": 2130,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mu3iamkr-73086561",
