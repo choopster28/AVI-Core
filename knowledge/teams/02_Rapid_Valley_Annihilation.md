@@ -9,28 +9,28 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-09-19
+- Last updated from Sleeper exports: 2026-09-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 16
+- total_players: 22
+- offense: 17
 - kickers: 1
 - idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 534.5
-- championship_lineup_c_avi_avg: 66.81
-- offensive_roster_c_avi_sum: 861.6
-- offensive_roster_c_avi_avg: 53.85
-- offensive_roster_d_avi_sum: 1147.0
-- offensive_roster_d_avi_avg: 71.69
+- championship_lineup_c_avi_sum: 534.4
+- championship_lineup_c_avi_avg: 66.80
+- offensive_roster_c_avi_sum: 878.3
+- offensive_roster_c_avi_avg: 51.66
+- offensive_roster_d_avi_sum: 1186.7
+- offensive_roster_d_avi_avg: 69.81
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Caleb Williams | C-AVI: 71.9 | D-AVI: 84.1
+- QB: Caleb Williams | C-AVI: 71.8 | D-AVI: 84.1
 - RB: Quinshon Judkins | C-AVI: 76.0 | D-AVI: 86.5
 - RB: Rhamondre Stevenson | C-AVI: 70.1 | D-AVI: 78.1
 - WR: Quentin Johnston | C-AVI: 60.8 | D-AVI: 75.6
@@ -53,7 +53,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 71.9
+- Championship AVI (C-AVI, 0-100): 71.8
 - Dynasty AVI (D-AVI, 0-100): 84.1
 - Projected PPR points: 303.2
 - Category: offense
@@ -170,7 +170,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['WR']
 - NFL team: NYJ
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 47.2
 - Dynasty AVI (D-AVI, 0-100): 71.1
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 40.6
+- Championship AVI (C-AVI, 0-100): 40.7
 - Dynasty AVI (D-AVI, 0-100): 63.5
 - Projected PPR points: 90.1
 - Category: offense
@@ -260,6 +260,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 34.1
 - Dynasty AVI (D-AVI, 0-100): 58.1
 - Projected PPR points: 73.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Zavion Thomas
+- Player name: Zavion Thomas
+- Player ID: 13411
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CHI
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 16.7
+- Dynasty AVI (D-AVI, 0-100): 39.7
+- Projected PPR points: 21.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

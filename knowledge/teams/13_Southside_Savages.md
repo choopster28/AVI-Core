@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-09-19
+- Last updated from Sleeper exports: 2026-09-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 608.6
-- championship_lineup_c_avi_avg: 76.08
-- offensive_roster_c_avi_sum: 846.9
+- championship_lineup_c_avi_sum: 608.5
+- championship_lineup_c_avi_avg: 76.06
+- offensive_roster_c_avi_sum: 846.8
 - offensive_roster_c_avi_avg: 60.49
-- offensive_roster_d_avi_sum: 1027.7
-- offensive_roster_d_avi_avg: 73.41
+- offensive_roster_d_avi_sum: 1027.6
+- offensive_roster_d_avi_avg: 73.40
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Drake Maye | C-AVI: 97.8 | D-AVI: 92.2
+- QB: Drake Maye | C-AVI: 97.7 | D-AVI: 92.2
 - RB: Travis Etienne | C-AVI: 82.9 | D-AVI: 86.5
 - RB: TreVeyon Henderson | C-AVI: 68.6 | D-AVI: 85.9
 - WR: Tetairoa McMillan | C-AVI: 84.4 | D-AVI: 93.7
@@ -53,7 +53,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 97.8
+- Championship AVI (C-AVI, 0-100): 97.7
 - Dynasty AVI (D-AVI, 0-100): 92.2
 - Projected PPR points: 324.9
 - Category: offense
@@ -71,7 +71,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 51.4
-- Dynasty AVI (D-AVI, 0-100): 68.8
+- Dynasty AVI (D-AVI, 0-100): 68.7
 - Projected PPR points: 270.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

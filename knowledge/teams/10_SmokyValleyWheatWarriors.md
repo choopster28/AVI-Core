@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 308805697879937024
 - Division: 2
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-09-19
+- Last updated from Sleeper exports: 2026-09-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 670.4
-- championship_lineup_c_avi_avg: 83.80
-- offensive_roster_c_avi_sum: 920.7
-- offensive_roster_c_avi_avg: 65.76
-- offensive_roster_d_avi_sum: 1082.5
-- offensive_roster_d_avi_avg: 77.32
+- championship_lineup_c_avi_sum: 670.3
+- championship_lineup_c_avi_avg: 83.79
+- offensive_roster_c_avi_sum: 920.5
+- offensive_roster_c_avi_avg: 65.75
+- offensive_roster_d_avi_sum: 1082.3
+- offensive_roster_d_avi_avg: 77.31
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Trevor Lawrence | C-AVI: 81.7 | D-AVI: 83.6
+- QB: Trevor Lawrence | C-AVI: 81.6 | D-AVI: 83.6
 - RB: Christian McCaffrey | C-AVI: 97.2 | D-AVI: 92.9
 - RB: James Cook | C-AVI: 94.7 | D-AVI: 96.2
 - WR: CeeDee Lamb | C-AVI: 98.3 | D-AVI: 98.7
@@ -53,7 +53,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 81.7
+- Championship AVI (C-AVI, 0-100): 81.6
 - Dynasty AVI (D-AVI, 0-100): 83.6
 - Projected PPR points: 311.7
 - Category: offense
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 61.8
-- Dynasty AVI (D-AVI, 0-100): 71.7
+- Championship AVI (C-AVI, 0-100): 61.7
+- Dynasty AVI (D-AVI, 0-100): 71.5
 - Projected PPR points: 298.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

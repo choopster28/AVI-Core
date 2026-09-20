@@ -1,7 +1,403 @@
 {
-  "count": 25,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Matthew Adam",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-14 11:01:26",
+      "created_formated": "Mon, Sep 14th 11:01am UTC",
+      "desc": "The Steelers D/ST allowed 13 points while scoring a touchdown, forcing two turnovers, and notching four sacks in a 20-13 win over the Falcons in Week 1. ",
+      "id": 607789,
+      "impact": "Pittsburgh took advantage of the Falcons being forced to start their third-string QB in Cooper Rush. T.J. Watt dominated the whole afternoon as he sealed the game with a 35-yard pick-six in the fourth quarter while also logging two sacks. The Steelers will have a tougher test in Week 2 against the Patriots. ",
+      "link": "https://www.fantasypros.com/nfl/news/607789/steelers-dst-scores-td-week-1-win.php",
+      "player_id": 8240,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Steelers D/ST scores TD in Week 1 win"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 20:25:05",
+      "created_formated": "Sat, Sep 19th 8:25pm UTC",
+      "desc": "Greg Newsome II (rib) was a full participant at Saturday's practice session. ",
+      "id": 609110,
+      "impact": "Newsome has been limited by a rib injury at practice earlier this week, but he was a full go Saturday and carries no injury designation for Monday's matchup with the Rams.",
+      "link": "https://www.fantasypros.com/nfl/news/609110/greg-newsome-ii-rib-practices-full.php",
+      "player_id": 23238,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Greg Newsome II (rib) practices in full"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-09-19 20:10:49",
+      "created_formated": "Sat, Sep 19th 8:10pm UTC",
+      "desc": "Zay Flowers (hamstring) has been downgraded to out against the New Orleans Saints.",
+      "id": 609109,
+      "impact": "With Flowers out, Mark Andrews will become the primary target for Lamar Jackson. Rashod Bateman will be the Ravens top receiver on the depth chart, but it would be extremely hard to start him, given the amount of routes he run for just one target last week. Rookie Elijah Sarratt could be an interesting watch if called up, but it's best to start Andrews and move on.",
+      "link": "https://www.fantasypros.com/nfl/news/609109/zay-flowers-hamstring-put-against-saints.php",
+      "player_id": 22916,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Zay Flowers (hamstring) out against Saints"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 20:05:02",
+      "created_formated": "Sat, Sep 19th 8:05pm UTC",
+      "desc": "Eddy Pineiro (illness) will kick for the 49ers in Week 2's matchup with the Dolphins. ",
+      "id": 609108,
+      "impact": "Pineiro has missed practice all week due to being under the weather, but the veteran kicker will be ready to go Sunday. Pineiro hit 2-of-3 field goals and all three of his PATs in Week 1. ",
+      "link": "https://www.fantasypros.com/nfl/news/609108/eddy-pineiro-illness-ready-to-go-sundays-game.php",
+      "player_id": 17575,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Eddy Pineiro (illness) ready to go for Sunday's game"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-19 19:59:32",
+      "created_formated": "Sat, Sep 19th 7:59pm UTC",
+      "desc": "Lewis Bond has been elevated to the Texans' roster for Sunday's game against the Bengals. ",
+      "id": 609107,
+      "impact": "A sixth-round pick for the Texans in this year's draft, Bond is set to make his NFL debut when he steps on the field Sunday. The Texans are lacking some depth at wide receiver right now, with go-to guy Nico Collins (hamstring) ruled out. ",
+      "link": "https://www.fantasypros.com/nfl/news/609107/lewis-bond-elevated-week-2.php",
+      "player_id": 28144,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Lewis Bond elevated for Week 2"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 19:11:24",
+      "created_formated": "Sat, Sep 19th 7:11pm UTC",
+      "desc": "Javon Hargrave (knee, concussion) has been ruled out for Sunday. ",
+      "id": 609106,
+      "impact": "Hargrave will not be available for Sunday's matchup with the Jets, as he is dealing with multiple issues. Jonathan Ford and Chris McClellan will likely see more snaps on defense. ",
+      "link": "https://www.fantasypros.com/nfl/news/609106/javon-hargrave-knee-concussion-will-not-play-sunday.php",
+      "player_id": 15628,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Javon Hargrave (knee, concussion) will not play Sunday"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 19:07:35",
+      "created_formated": "Sat, Sep 19th 7:07pm UTC",
+      "desc": "Lukas Van Ness (concussion) is expected to be on the field Sunday. ",
+      "id": 609105,
+      "impact": "Van Ness has cleared the concussion protocol and should be in action against the Jets in Week 2. The fourth-year pro recorded four tackles and a sack against the Vikings in Week 1. ",
+      "link": "https://www.fantasypros.com/nfl/news/609105/lukas-van-ness-concussion-likely-to-go-week-2.php",
+      "player_id": 25291,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Lukas Van Ness (concussion) likely to go in Week 2"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 19:04:17",
+      "created_formated": "Sat, Sep 19th 7:04pm UTC",
+      "desc": "Carlton Davis III (neck) will not be available for Week 2's matchup against the Steelers. ",
+      "id": 609104,
+      "impact": "Davis did not practice this week due to a neck issue. The veteran corner will take a seat on Sunday, as Charles Woods will likely step into more snaps on defense. Davis will try to be back for Week 3. ",
+      "link": "https://www.fantasypros.com/nfl/news/609104/carlton-davis-iii-neck-wont-play-sunday.php",
+      "player_id": 17318,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Carlton Davis III (neck) won't play Sunday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 18:55:24",
+      "created_formated": "Sat, Sep 19th 6:55pm UTC",
+      "desc": "Puka Nacua (hip) did not practice on Saturday and is now labeled questionable for Monday night against the Giants.",
+      "id": 609103,
+      "impact": "Nacua has now missed two practices in a row with a hip issue, and that does not bode well for his status on game day. Fantasy managers will need to have contingency plans ready in case he sits. Davante Adams is next up for targets, but Colby Parkinson and Terrance Ferguson could see more looks. Konata Mumpfield is likely next up behind Puka with Jordan Whittington also questionable.",
+      "link": "https://www.fantasypros.com/nfl/news/609103/puka-nacua-hip-questionable-monday-night.php",
+      "player_id": 23180,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Puka Nacua (hip) questionable for Monday night"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 17:19:04",
+      "created_formated": "Sat, Sep 19th 5:19pm UTC",
+      "desc": "Michael Pittman Jr. (foot) has been ruled out for Week 2 for the Pittsburgh Steelers according to Mike Garafolo.",
+      "id": 609087,
+      "impact": "Pittman Jr. will be sidelined after struggling to reach the practice field for head coach Mike McCarthy, with Roman Wilson and Germie Bernard in line for increased roles behind No. 1 wideout DK Metcalf against the Patriots Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/609087/michael-pittman-jr-foot-ruled-out-sunday.php",
+      "player_id": 19278,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Michael Pittman Jr. (foot) ruled out Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:23:39",
+      "created_formated": "Sat, Sep 19th 4:23pm UTC",
+      "desc": "Omar Cooper Jr. (ankle) has been placed on injured reserve and will be sidelined for at least four weeks.",
+      "id": 609086,
+      "impact": "The Jets are placing their first-round rookie on injured reserve after he suffered an ankle injury in his NFL debut last week. He is going to miss at least four weeks as a result, but he's not expected to be out much beyond that. Adonai Mitchell and Kenyon Sadiq will both see increased opportunities in his absence for the next few weeks at least.",
+      "link": "https://www.fantasypros.com/nfl/news/609086/omar-cooper-jr-ankle-placed-on-injured-reserve.php",
+      "player_id": 28127,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Omar Cooper Jr. (ankle) placed on injured reserve"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:21:08",
+      "created_formated": "Sat, Sep 19th 4:21pm UTC",
+      "desc": "Kene Nwangwu (back) won't play in Sunday's game against the Green Bay Packers.",
+      "id": 609085,
+      "impact": "Nwangwu missed New York's season opener last week due to injury, and he is now set to miss another game on Sunday due to a back issue that he's dealing with. His absence won't have much of an impact on New York's offense, as he is relegated to more of a special teams role for the Jets.",
+      "link": "https://www.fantasypros.com/nfl/news/609085/kene-nwangwu-back-wont-play-sunday.php",
+      "player_id": 23249,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Kene Nwangwu (back) won't play Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:19:09",
+      "created_formated": "Sat, Sep 19th 4:19pm UTC",
+      "desc": "Will McDonald IV (ankle) is officially questionable for Sunday's game against the Green Bay Packers.",
+      "id": 609084,
+      "impact": "McDonald will officially carry a questionable tag for Sunday's game after suffering a minor ankle injury during the week. It looks like he will be cleared to play in time, however, as HC Aaron Glenn told reporters that the veteran edge rusher should be available to play against the Packers.",
+      "link": "https://www.fantasypros.com/nfl/news/609084/will-mcdonald-iv-ankle-officially-questionable-sunday.php",
+      "player_id": 25254,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Will McDonald IV (ankle) officially questionable for Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:15:35",
+      "created_formated": "Sat, Sep 19th 4:15pm UTC",
+      "desc": "Troy Franklin (knee) will be good to go for Sunday's game against the Jacksonville Jaguars.",
+      "id": 609083,
+      "impact": "Franklin found himself on the injury report earlier in the week due to a knee issue, but he was able to practice in full all week and will be good to go for Sunday's game against the Jaguars. He isn't expected to be fantasy relevant for the foreseeable future, however.",
+      "link": "https://www.fantasypros.com/nfl/news/609083/troy-franklin-knee-good-to-go-sunday.php",
+      "player_id": 23092,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Troy Franklin (knee) good to go for Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:14:09",
+      "created_formated": "Sat, Sep 19th 4:14pm UTC",
+      "desc": "Marvin Mims Jr. (foot) will be unavailable for Sunday's game against the Jacksonville Jaguars.",
+      "id": 609082,
+      "impact": "Mims is going to be sidelined in Week 2 after recently suffering a foot injury of some kind. He wasn't very involved on Denver's offense in the season opener, so his absence isn't expected to make much of an impact from a fantasy perspective.",
+      "link": "https://www.fantasypros.com/nfl/news/609082/marvin-mims-jr-foot-unavailable-sunday.php",
+      "player_id": 23080,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Marvin Mims Jr. (foot) unavailable for Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:12:16",
+      "created_formated": "Sat, Sep 19th 4:12pm UTC",
+      "desc": "RJ Harvey (hamstring) is officially questionable to play in Sunday's game against the Jacksonville Jaguars.",
+      "id": 609081,
+      "impact": "Harvey will go into the weekend with a questionable tag after missing practice earlier in the week due to a hamstring injury. It looks like he's trending towards playing on Sunday, but if he's ruled out ahead of game time, fantasy managers should expect rookie Jonah Coleman to see increased opportunities against Jacksonville in his absence.",
+      "link": "https://www.fantasypros.com/nfl/news/609081/rj-harvey-hamstring-officially-questionable-sunday.php",
+      "player_id": 27142,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "RJ Harvey (hamstring) officially questionable for Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:09:31",
+      "created_formated": "Sat, Sep 19th 4:09pm UTC",
+      "desc": "Brian Thomas Jr. (shoulder) has been cleared to play in Sunday's game against the Denver Broncos.",
+      "id": 609080,
+      "impact": "Thomas suffered a shoulder injury during the team's season opener last week, but he was able to practice all week and won't miss any time because of it. He has been cleared to play on Sunday and should continue to contribute in his usual capacity for the Jaguars for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/609080/brian-thomas-jr-shoulder-cleared-to-play-sunday.php",
+      "player_id": 23000,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Brian Thomas Jr. (shoulder) cleared to play Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:08:12",
+      "created_formated": "Sat, Sep 19th 4:08pm UTC",
+      "desc": "Cole Van Lanen (knee) is off of the injury report for Sunday's game against the Denver Broncos.",
+      "id": 609079,
+      "impact": "Van Lanen's knee injury is nothing more than a minor issue at this point and won't stop him from playing on Sunday. Jacksonville's offensive line should be at full strength in Week 2, which is good news ahead of a tough matchup against Denver's stout defensive front.",
+      "link": "https://www.fantasypros.com/nfl/news/609079/cole-van-lanen-knee-off-injury-report-sunday.php",
+      "player_id": 22878,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Cole Van Lanen (knee) off injury report for Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:06:23",
+      "created_formated": "Sat, Sep 19th 4:06pm UTC",
+      "desc": "Foyesade Oluokun (wrist) will play in Sunday's game against the Denver Broncos.",
+      "id": 609078,
+      "impact": "Jacksonville has cleared Oluokun to play in their matchup against Denver on Sunday. That's good news for the team, as he is one of their key defenders and will be needed in what projects to be a close matchup in Week 2.",
+      "link": "https://www.fantasypros.com/nfl/news/609078/foyesade-oluokun-wrist-will-play-sunday.php",
+      "player_id": 17607,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Foyesade Oluokun (wrist) will play Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:04:36",
+      "created_formated": "Sat, Sep 19th 4:04pm UTC",
+      "desc": "LeQuint Allen Jr. (hip) is set to play in Sunday's game against the Denver Broncos.",
+      "id": 609077,
+      "impact": "To no surprise, Allen has received full clearance and will again be available to play on Sunday. Fantasy managers shouldn't expect him to get much work behind Bhayshul Tuten and Chris Rodriguez Jr. in this matchup, however.",
+      "link": "https://www.fantasypros.com/nfl/news/609077/lequint-allen-jr-hip-set-to-play-sunday.php",
+      "player_id": 27285,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "LeQuint Allen Jr. (hip) set to play Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:02:57",
+      "created_formated": "Sat, Sep 19th 4:02pm UTC",
+      "desc": "Jakobi Meyers (wrist) will be good to go for Sunday's game against the Denver Broncos.",
+      "id": 609076,
+      "impact": "Meyers was on the injury report all week due to a lingering wrist issue, but he is going to be good to go and will play in Sunday's game against the Broncos. Fantasy managers shouldn't trust in his week-to-week consistency at this point in the season, however, especially in what projects to be a tough matchup.",
+      "link": "https://www.fantasypros.com/nfl/news/609076/jakobi-meyers-wrist-good-to-go-sunday.php",
+      "player_id": 18598,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Jakobi Meyers (wrist) good to go for Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-19 16:00:39",
+      "created_formated": "Sat, Sep 19th 4:00pm UTC",
+      "desc": "Aidan O'Connell (personal) is listed as questionable to play in Sunday's game against the Los Angeles Chargers.",
+      "id": 609075,
+      "impact": "O'Connell may not be able to play on Sunday due to a personal issue of some kind that he's managing right now. He is currently Las Vegas' QB3, however, so his absence wouldn't have a notable impact on their lineup.",
+      "link": "https://www.fantasypros.com/nfl/news/609075/aidan-oconnell-personal-listed-questionable-sunday.php",
+      "player_id": 24330,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Aidan O'Connell (personal) listed questionable for Sunday"
+    },
     {
       "author": "Nate Miller",
       "categories": [
@@ -26,24 +422,6 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-19 04:32:28",
-      "created_formated": "Sat, Sep 19th 4:32am UTC",
-      "desc": "Lukas Van Ness (concussion) is questionable for Sunday's game against the New York Jets.",
-      "id": 608972,
-      "impact": "The Packers are uncertain whether or not Van Ness will play on Sunday, as he has yet receive full clearance from the NFL's concussion protocols. His absence would mean a weaker defensive front this week in a matchup against Breece Hall and the Jets.",
-      "link": "https://www.fantasypros.com/nfl/news/608972/lukas-van-ness-concussion-questionable-sunday.php",
-      "player_id": 25291,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Lukas Van Ness (concussion) questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
       "created": "2026-09-19 04:30:26",
       "created_formated": "Sat, Sep 19th 4:30am UTC",
       "desc": "Zach Bako-Bewele (knee) is listed as questionable to play in Sunday's game against the New York Jets.",
@@ -54,401 +432,6 @@
       "sport_id": "NFL",
       "team_id": "GB",
       "title": "Zach Bako-Bewele (knee) listed questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:27:44",
-      "created_formated": "Sat, Sep 19th 4:27am UTC",
-      "desc": "Aaron Banks (knee) is officially questionable for Sunday's game against the New York Jets.",
-      "id": 608970,
-      "impact": "Banks has yet to make his season debut due to a knee injury, and it's threatening to leave him sidelined for another game on Sunday. Green Bay is dealing with multiple offensive line injuries right now, so they could be weaker than usual against the Jets this week.",
-      "link": "https://www.fantasypros.com/nfl/news/608970/aaron-banks-knee-officially-questionable-sunday.php",
-      "player_id": 22804,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Aaron Banks (knee) officially questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:25:32",
-      "created_formated": "Sat, Sep 19th 4:25am UTC",
-      "desc": "Max Melton (ankle) is considered questionable for Sunday's game against the Seattle Seahawks.",
-      "id": 608969,
-      "impact": "The Cardinals may be without a key defender on Sunday, as Melton is considered questionable to play due to his ankle injury. His absence would make life easier for Drew Lock, Jaxon Smith-Njigba, and Seattle's offense as a whole this week.",
-      "link": "https://www.fantasypros.com/nfl/news/608969/max-melton-ankle-considered-questionable-sunday.php",
-      "player_id": 25366,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Max Melton (ankle) considered questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:23:12",
-      "created_formated": "Sat, Sep 19th 4:23am UTC",
-      "desc": "Tory Horton (hamstring) is without an injury designation for Sunday's game against the Arizona Cardinals.",
-      "id": 608968,
-      "impact": "There was never much doubt surrounding Horton's availability for Week 2, but he has now received official clearance and will be available to suit up against the Cardinals. Fantasy managers shouldn't have high expectations for him for the foreseeable future, however.",
-      "link": "https://www.fantasypros.com/nfl/news/608968/tory-horton-hamstring-without-injury-designation-sunday.php",
-      "player_id": 26022,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Tory Horton (hamstring) without injury designation for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:21:18",
-      "created_formated": "Sat, Sep 19th 4:21am UTC",
-      "desc": "Cooper Kupp (back) is off of the injury report for Sunday's game against the Arizona Cardinals.",
-      "id": 608967,
-      "impact": "The veteran wideout was limited at practice earlier in the week due to a back injury, but he is over it now and carries no injury designation heading into the weekend. He doesn't project to be a good fantasy option in this matchup, however, especially with Drew Lock set to start at quarterback for the Seahawks this week.",
-      "link": "https://www.fantasypros.com/nfl/news/608967/cooper-kupp-back-off-injury-report-sunday.php",
-      "player_id": 16433,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Cooper Kupp (back) off injury report for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:19:27",
-      "created_formated": "Sat, Sep 19th 4:19am UTC",
-      "desc": "Nick Emmanwori (ankle/hip) is officially questionable for Sunday's game against the Arizona Cardinals.",
-      "id": 608966,
-      "impact": "Emmanwori was not able to play in Seattle's season opener last week, but he may make his season debut on Sunday, as he is officially considered questionable to play at this point. His return would provide a nice boost to this already-elite defense in a divisional matchup against the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/608966/nick-emmanwori-anklehip-officially-questionable-sunday.php",
-      "player_id": 27053,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Nick Emmanwori (ankle/hip) officially questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:17:11",
-      "created_formated": "Sat, Sep 19th 4:17am UTC",
-      "desc": "Jordan Whittington (quad) was added to the injury report as a non-participant on Friday.",
-      "id": 608965,
-      "impact": "Whittington is at risk of being sidelined in Week 2 after missing Friday's practice due to a quad injury of some kind. Puka Nacua (hip) is also at risk of being sidelined now, so fantasy managers should pay close attention to updates about the health of these two receivers prior to Monday night's game.",
-      "link": "https://www.fantasypros.com/nfl/news/608965/jordan-whittington-quad-added-to-injury-report-friday.php",
-      "player_id": 23135,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Jordan Whittington (quad) added to injury report Friday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:15:18",
-      "created_formated": "Sat, Sep 19th 4:15am UTC",
-      "desc": "Puka Nacua (hip) was added to the injury report as a non-participant at practice on Friday.",
-      "id": 608964,
-      "impact": "Nacua is a new addition to the injury report, being listed with a hip injury of some kind that left him sidelined from practice on Friday. This is a situation that fantasy managers should be closely monitoring heading into the weekend because it could lead to him being limited or sidelined against the Giants on Monday night, which would be devastating for many managers relying on him for a big game at the end of the week.",
-      "link": "https://www.fantasypros.com/nfl/news/608964/puka-nacua-hip-doesnt-practice-friday.php",
-      "player_id": 23180,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Puka Nacua (hip) doesn't practice Friday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:12:45",
-      "created_formated": "Sat, Sep 19th 4:12am UTC",
-      "desc": "Eddy Pineiro (illness) is uncertain to play in Sunday's game against the Miami Dolphins.",
-      "id": 608963,
-      "impact": "The veteran kicker is officially considered questionable to play heading into the weekend. He is dealing with a mildly serious illness right now that has left him sidelined from practice all week, and it's unclear whether or not he will be ready to go in time for the team's matchup against the Dolphins, which would make them need to determine who will take his place prior to kickoff.",
-      "link": "https://www.fantasypros.com/nfl/news/608963/eddy-pineiro-illness-uncertain-to-play-sunday.php",
-      "player_id": 17575,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Eddy Pineiro (illness) uncertain to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:10:41",
-      "created_formated": "Sat, Sep 19th 4:10am UTC",
-      "desc": "Kaelon Black (groin) is questionable to play in Sunday's game against the Miami Dolphins.",
-      "id": 608962,
-      "impact": "The rookie was added to the injury report due to a groin issue on Thursday and will officially be questionable to play in Sunday's game against the Dolphins. He was quite involved in San Francisco's season opener last week, so his absence would likely lead to Christian McCaffrey seeing a supermajority of touches for the team in Week 2.",
-      "link": "https://www.fantasypros.com/nfl/news/608962/kaelon-black-groin-questionable-to-play-sunday.php",
-      "player_id": 28401,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kaelon Black (groin) questionable to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:08:40",
-      "created_formated": "Sat, Sep 19th 4:08am UTC",
-      "desc": "Kyle Juszczyk (finger) will be available for Sunday's game against the Miami Dolphins.",
-      "id": 608961,
-      "impact": "The 49ers will have their star fullback for Sunday's game against Miami. He won't have any fantasy relevance himself but should help open things up for RB Christian McCaffrey in this favorable matchup.",
-      "link": "https://www.fantasypros.com/nfl/news/608961/kyle-juszczyk-finger-available-sunday.php",
-      "player_id": 11798,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kyle Juszczyk (finger) available for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-19 04:07:22",
-      "created_formated": "Sat, Sep 19th 4:07am UTC",
-      "desc": "George Kittle (Achilles) will be good to go for Sunday's game against the Miami Dolphins.",
-      "id": 608960,
-      "impact": "As expected, Kittle carries no injury designation heading into the weekend and will be available to play against the Dolphins. It seems likely that he will continue to be limited in some capacity, though it looks like the 49ers are planning on ramping his workload up more and more each week moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/608960/george-kittle-achilles-good-to-go-sunday.php",
-      "player_id": 16499,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "George Kittle (Achilles) good to go for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-18 20:43:47",
-      "created_formated": "Fri, Sep 18th 8:43pm UTC",
-      "desc": "Alec Pierce (heel) will be good to go for Sunday night's game against the Kansas City Chiefs.",
-      "id": 608939,
-      "impact": "Pierce missed Indianapolis' practice on Thursday, but it looks like that was just for injury maintenance, as he was back and a full participant for them at practice on Friday. He carries no injury designation heading into the weekend and will play on Sunday night, although it remains quite possible that he will continue to have minor limitations while the team ramps his workload back up.",
-      "link": "https://www.fantasypros.com/nfl/news/608939/alec-pierce-heel-good-to-go-sunday.php",
-      "player_id": 23791,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Alec Pierce (heel) good to go for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-18 20:41:23",
-      "created_formated": "Fri, Sep 18th 8:41pm UTC",
-      "desc": "Anthony Richardson Sr. (groin) will be active for Sunday night's game against the Kansas City Chiefs.",
-      "id": 608938,
-      "impact": "Richardson is going to be active for the Colts on Sunday night, so his groin injury is likely considered nothing more than a minor issue at this point. He will continue to serve as the QB2 for this team behind Daniel Jones.",
-      "link": "https://www.fantasypros.com/nfl/news/608938/anthony-richardson-sr-groin-active-week-2.php",
-      "player_id": 24347,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Anthony Richardson Sr. (groin) active for Week 2"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-18 20:39:39",
-      "created_formated": "Fri, Sep 18th 8:39pm UTC",
-      "desc": "Cooper DeJean (calf/abdomen) is set to play in Sunday's game against the Tennessee Titans.",
-      "id": 608937,
-      "impact": "Neither of DeJean's injuries are serious at this point and he goes into the weekend without an injury designation. He will continue to play a big role on Philadelphia's defense moving forward, assuming he suffers no setbacks with his recovery.",
-      "link": "https://www.fantasypros.com/nfl/news/608937/cooper-dejean-calfabdomen-set-to-play-sunday.php",
-      "player_id": 26103,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Cooper DeJean (calf/abdomen) set to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-18 20:38:09",
-      "created_formated": "Fri, Sep 18th 8:38pm UTC",
-      "desc": "Jonathan Greenard (pec) won't play play in Sunday's game against the Tennessee Titans.",
-      "id": 608936,
-      "impact": "The veteran edge rusher is going to be out this week, despite taking part at practice all week. He should return to the lineup and provide a nice boost to Philly's pass rush sometime in the near future.",
-      "link": "https://www.fantasypros.com/nfl/news/608936/jonathan-greenard-pec-wont-play-sunday.php",
-      "player_id": 19276,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jonathan Greenard (pec) won't play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-18 20:36:57",
-      "created_formated": "Fri, Sep 18th 8:36pm UTC",
-      "desc": "Jalen Carter (wrist) will be available to play in Sunday's game against the Tennessee Titans.",
-      "id": 608935,
-      "impact": "Philadelphia's defense gets some good news ahead of Sunday's game, with Carter receiving full clearance to play against the Titans. He should continue to be a game-wrecker in what projects to be an easy matchup against Tennessee's low-powered offense.",
-      "link": "https://www.fantasypros.com/nfl/news/608935/jalen-carter-wrist-available-to-play-sunday.php",
-      "player_id": 24703,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jalen Carter (wrist) available to play Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-06-17 06:35:07",
-      "created_formated": "Wed, Jun 17th 6:35am UTC",
-      "desc": "The Jets signed fourth-round DL Darrell Jackson Jr. to his rookie deal.",
-      "id": 591720,
-      "impact": "Jackson will compete for an immediate role on the Jets defensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/591720/darrell-jackson-jr-signs-rookie-deal-with-jets.php",
-      "player_id": 28475,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Darrell Jackson Jr. signs rookie deal with Jets"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-18 20:33:59",
-      "created_formated": "Fri, Sep 18th 8:33pm UTC",
-      "desc": "Daron Payne (knee) has been cleared to play in Sunday's game against the Dallas Cowboys.",
-      "id": 608933,
-      "impact": "Payne now has full clearance to play in Sunday's game against the Cowboys, which was to be expected after he was upgraded to a full participant at practice on Thursday. Look for his presence to make a positive impact on Washington's defensive front in this matchup and beyond.",
-      "link": "https://www.fantasypros.com/nfl/news/608933/daron-payne-knee-cleared-to-play-sunday.php",
-      "player_id": 17281,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Daron Payne (knee) cleared to play Sunday"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-18 20:32:49",
-      "created_formated": "Fri, Sep 18th 8:32pm UTC",
-      "desc": "Ladd McConkey (ribs) is questionable for Sunday's game against the Raiders due to a rib injury.",
-      "id": 608932,
-      "impact": "McConkey was a DNP Wednesday and Thursday but got back on the practice field Friday. His chances to play are more on the slim side, but if he plays, you need to start him against this Raiders defense. If he sits, Quentin Johnston and Tre Harris are next in line for targets.",
-      "link": "https://www.fantasypros.com/nfl/news/608932/ladd-mcconkey-ribs-questionable-sunday.php",
-      "player_id": 26122,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Ladd McConkey (ribs) questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-18 20:32:13",
-      "created_formated": "Fri, Sep 18th 8:32pm UTC",
-      "desc": "Javon Kinlaw (back) is officially questionable for Sunday's game against the Cowboys.",
-      "id": 608931,
-      "impact": "Kinlaw returned to practice on Friday and will officially be questionable to play in Washington's matchup against Dallas on Sunday. Their defensive front will be a little short on depth if he is ruled out ahead of kickoff for this game.",
-      "link": "https://www.fantasypros.com/nfl/news/608931/javon-kinlaw-back-officially-questionable-sunday.php",
-      "player_id": 19206,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Javon Kinlaw (back) officially questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-18 20:30:39",
-      "created_formated": "Fri, Sep 18th 8:30pm UTC",
-      "desc": "Odafe Oweh (calf) will be available to play in Sunday's game against the Dallas Cowboys.",
-      "id": 608929,
-      "impact": "As expected, Oweh is going to be available to play through his minor calf injury on Sunday. The team will need him to step up and help anchor down the defensive front in what projects to be a tough matchup against the Cowboys.",
-      "link": "https://www.fantasypros.com/nfl/news/608929/odafe-oweh-calf-available-to-play-sunday.php",
-      "player_id": 22714,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Odafe Oweh (calf) available to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-18 20:29:28",
-      "created_formated": "Fri, Sep 18th 8:29pm UTC",
-      "desc": "Jaylin Lane (groin) is good to go for Sunday's game against the Dallas Cowboys.",
-      "id": 608928,
-      "impact": "A groin injury left Lane limited at practice all week, but it's not a serious issue and won't affect his availability for Sunday's game against Dallas. He doesn't project to be fantasy relevant for the foreseeable future, however.",
-      "link": "https://www.fantasypros.com/nfl/news/608928/jaylin-lane-groin-good-to-go-sunday.php",
-      "player_id": 27454,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jaylin Lane (groin) good to go for Sunday"
     }
   ],
   "public_api_limited": true,

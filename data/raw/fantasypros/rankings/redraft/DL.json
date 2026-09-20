@@ -9046,7 +9046,7 @@
     },
     {
       "cbs_player_id": "3122449",
-      "player_bye_week": null,
+      "player_bye_week": "7",
       "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "ricky-barber.php",
@@ -9059,7 +9059,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "R. Barber",
-      "player_team_id": "FA",
+      "player_team_id": "WAS",
       "player_yahoo_id": "42147",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT153",
