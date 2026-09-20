@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 734.4
-- championship_lineup_c_avi_avg: 91.80
-- offensive_roster_c_avi_sum: 1148.5
-- offensive_roster_c_avi_avg: 67.56
-- offensive_roster_d_avi_sum: 1312.8
-- offensive_roster_d_avi_avg: 77.22
+- championship_lineup_c_avi_sum: 733.4
+- championship_lineup_c_avi_avg: 91.67
+- offensive_roster_c_avi_sum: 1146.2
+- offensive_roster_c_avi_avg: 67.42
+- offensive_roster_d_avi_sum: 1306.1
+- offensive_roster_d_avi_avg: 76.83
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jayden Daniels | C-AVI: 85.1 | D-AVI: 88.9
+- QB: Jayden Daniels | C-AVI: 84.1 | D-AVI: 85.9
 - RB: Saquon Barkley | C-AVI: 94.1 | D-AVI: 91.8
 - RB: Omarion Hampton | C-AVI: 88.5 | D-AVI: 93.0
 - WR: Rashee Rice | C-AVI: 96.2 | D-AVI: 94.0
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 85.1
-- Dynasty AVI (D-AVI, 0-100): 88.9
+- Championship AVI (C-AVI, 0-100): 84.1
+- Dynasty AVI (D-AVI, 0-100): 85.9
 - Projected PPR points: 312.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 56.6
-- Dynasty AVI (D-AVI, 0-100): 73.7
+- Championship AVI (C-AVI, 0-100): 55.4
+- Dynasty AVI (D-AVI, 0-100): 70.0
 - Projected PPR points: 285.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 42.1
+- Championship AVI (C-AVI, 0-100): 42.0
 - Dynasty AVI (D-AVI, 0-100): 60.7
 - Projected PPR points: 79.5
 - Category: offense

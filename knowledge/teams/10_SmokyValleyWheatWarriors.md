@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 670.3
-- championship_lineup_c_avi_avg: 83.79
-- offensive_roster_c_avi_sum: 920.5
-- offensive_roster_c_avi_avg: 65.75
-- offensive_roster_d_avi_sum: 1082.3
-- offensive_roster_d_avi_avg: 77.31
+- championship_lineup_c_avi_sum: 669.8
+- championship_lineup_c_avi_avg: 83.72
+- offensive_roster_c_avi_sum: 918.3
+- offensive_roster_c_avi_avg: 65.59
+- offensive_roster_d_avi_sum: 1075.4
+- offensive_roster_d_avi_avg: 76.81
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Trevor Lawrence | C-AVI: 81.6 | D-AVI: 83.6
+- QB: Trevor Lawrence | C-AVI: 81.1 | D-AVI: 82.0
 - RB: Christian McCaffrey | C-AVI: 97.2 | D-AVI: 92.9
 - RB: James Cook | C-AVI: 94.7 | D-AVI: 96.2
 - WR: CeeDee Lamb | C-AVI: 98.3 | D-AVI: 98.7
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 81.6
-- Dynasty AVI (D-AVI, 0-100): 83.6
+- Championship AVI (C-AVI, 0-100): 81.1
+- Dynasty AVI (D-AVI, 0-100): 82.0
 - Projected PPR points: 311.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 61.7
-- Dynasty AVI (D-AVI, 0-100): 71.5
+- Championship AVI (C-AVI, 0-100): 60.0
+- Dynasty AVI (D-AVI, 0-100): 66.2
 - Projected PPR points: 298.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
