@@ -2357,10 +2357,10 @@
     "hashtag": "#jaydenreed-NFL-GB-11",
     "height": "71",
     "high_school": "Naperville Central (IL)",
-    "injury_body_part": null,
+    "injury_body_part": "Neck",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Out",
     "kalshi_id": "510e8ca5-a6b7-4af5-b4d7-e3cee687dfe7",
     "last_name": "Reed",
     "metadata": {
@@ -2368,7 +2368,7 @@
       "genius_id": "1074928",
       "rookie_year": "2023"
     },
-    "news_updated": 1789699833572,
+    "news_updated": 1789926057150,
     "number": 11,
     "oddsjam_id": "1EDF7EE1BA66",
     "opta_id": null,
@@ -64185,10 +64185,10 @@
     "hashtag": "#tyronhopper-NFL-GB-59",
     "height": "74",
     "high_school": "Roswell (GA)",
-    "injury_body_part": null,
+    "injury_body_part": "Eye",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "82481fdd-4eab-4ae9-ae7f-8e23ac7fd3ee",
     "last_name": "Hopper",
     "metadata": {
@@ -76284,7 +76284,7 @@
       "genius_id": "1483775",
       "rookie_year": "2024"
     },
-    "news_updated": 1724983506662,
+    "news_updated": 1789923056193,
     "number": 44,
     "oddsjam_id": "83A559786E2E",
     "opta_id": null,
@@ -117154,7 +117154,7 @@
       "rookie_year": "2025",
       "source_id": "3992e590-8f40-11ec-9f33-1965c9c46e44"
     },
-    "news_updated": 1789700433642,
+    "news_updated": 1789923955631,
     "number": 26,
     "oddsjam_id": "31DA4D7ACB326276",
     "opta_id": null,
@@ -119119,7 +119119,7 @@
       "rookie_year": "2025",
       "source_id": "b4848e19-5a52-49a3-8c6f-179fe308ff03"
     },
-    "news_updated": 1789832438465,
+    "news_updated": 1789924855699,
     "number": 22,
     "oddsjam_id": "15DB9017F739D3E5",
     "opta_id": null,
@@ -276388,7 +276388,7 @@
       "genius_id": "796993",
       "rookie_year": "2014"
     },
-    "news_updated": 1789846246655,
+    "news_updated": 1789924555698,
     "number": 99,
     "oddsjam_id": "A52CB8FA55E6",
     "opta_id": null,
@@ -336732,7 +336732,7 @@
       "genius_id": "940764",
       "rookie_year": "2016"
     },
-    "news_updated": 1789779950414,
+    "news_updated": 1789923355996,
     "number": 79,
     "oddsjam_id": "BE6699F6933C",
     "opta_id": null,
@@ -343739,7 +343739,7 @@
       "genius_id": "940762",
       "rookie_year": "2016"
     },
-    "news_updated": 1789785050505,
+    "news_updated": 1789923055543,
     "number": 17,
     "oddsjam_id": "04F44BA5A812",
     "opta_id": null,
@@ -447578,10 +447578,10 @@
     "hashtag": "#saquonbarkley-NFL-PHI-26",
     "height": "72",
     "high_school": "Whitehall (PA)",
-    "injury_body_part": null,
+    "injury_body_part": "Arm",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "e29c0914-7743-4abc-af67-b38a4f1cb5eb",
     "last_name": "Barkley",
     "metadata": {
@@ -447589,7 +447589,7 @@
       "genius_id": "1007964",
       "rookie_year": "2018"
     },
-    "news_updated": 1789658728667,
+    "news_updated": 1789925457258,
     "number": 26,
     "oddsjam_id": "08F1CFA81F52",
     "opta_id": null,
@@ -575506,10 +575506,10 @@
     "hashtag": "#ajterrell-NFL-ATL-24",
     "height": "73",
     "high_school": "Westlake (GA)",
-    "injury_body_part": null,
+    "injury_body_part": "Groin",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "521dea87-5153-41c8-8041-094978e85806",
     "last_name": "Terrell",
     "metadata": {
@@ -575517,7 +575517,7 @@
       "genius_id": "1006667",
       "rookie_year": "2020"
     },
-    "news_updated": 1789919155579,
+    "news_updated": 1789926056698,
     "number": 24,
     "oddsjam_id": "D4041553FB3B",
     "opta_id": null,
@@ -578107,7 +578107,7 @@
       "genius_id": "1006981",
       "rookie_year": "2020"
     },
-    "news_updated": 1789780850652,
+    "news_updated": 1789923056209,
     "number": 74,
     "oddsjam_id": "EF228C8050A7",
     "opta_id": null,
@@ -621254,7 +621254,7 @@
       "genius_id": "1014953",
       "rookie_year": "2021"
     },
-    "news_updated": 1789341957713,
+    "news_updated": 1789926055815,
     "number": 23,
     "oddsjam_id": "4D6EEDE67321",
     "opta_id": null,
@@ -671649,7 +671649,7 @@
       "genius_id": "577806",
       "rookie_year": "2011"
     },
-    "news_updated": 1787976042564,
+    "news_updated": 1789923355992,
     "number": 14,
     "oddsjam_id": "0A6134E0E378",
     "opta_id": null,
@@ -683273,10 +683273,10 @@
     "hashtag": "#zachbakobewele-NFL-GB-50",
     "height": "76",
     "high_school": "Catholic (LA)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Out",
     "kalshi_id": "4d901cd8-d37f-4d5d-99bf-e404bcbf2687",
     "last_name": "Bako-Bewele",
     "metadata": {
@@ -683284,7 +683284,7 @@
       "genius_id": "1007601",
       "rookie_year": "2022"
     },
-    "news_updated": 1789781150765,
+    "news_updated": 1789925756742,
     "number": 50,
     "oddsjam_id": "A7C614131214",
     "opta_id": null,
@@ -703951,7 +703951,7 @@
       "genius_id": "1076131",
       "rookie_year": "2022"
     },
-    "news_updated": 1788827744722,
+    "news_updated": 1789923056209,
     "number": 77,
     "oddsjam_id": "E4C6DF321E80",
     "opta_id": null,
