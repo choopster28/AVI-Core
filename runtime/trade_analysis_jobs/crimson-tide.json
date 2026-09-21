@@ -1,5 +1,27 @@
 [
   {
+    "id": "mubtnahh-5d5621ff",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "assetsToShop": [
+        {
+          "name": "Chuba Hubbard",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1790030003669,
+    "updatedAt": 1790030003669,
+    "expiresAt": 1790462003669,
+    "status": "queued"
+  },
+  {
     "id": "mubt46jx-78dc938a",
     "phase": "initial",
     "mode": "analyze_trade",
