@@ -1,5 +1,39 @@
 [
   {
+    "id": "mubt46jx-78dc938a",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Raheim Sanders",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 1st · King Jesus · Projected late range (1.10–1.16)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1790029112109,
+    "updatedAt": 1790029112109,
+    "expiresAt": 1790461112109,
+    "status": "queued"
+  },
+  {
     "id": "mubsz7pt-c8ba3a55",
     "phase": "initial",
     "mode": "analyze_trade",
