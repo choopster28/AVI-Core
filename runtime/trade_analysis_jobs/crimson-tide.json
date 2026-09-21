@@ -17,9 +17,330 @@
       "maxResults": 3
     },
     "createdAt": 1790030003669,
-    "updatedAt": 1790030004909,
+    "updatedAt": 1790030063391,
     "expiresAt": 1790462003669,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "As a rebuilding franchise, Crimson Tide Pods' optimal strategic move is shopping veteran RB Chuba Hubbard during his current peak-volume window (Carolina lead back with Jonathon Brooks sidelined). Hubbard's strong early-2026 usage provides immediate RB2/FLEX starting value for championship contenders. We have identified three premier contending trade partners—Conquistadors, Smoky Valley Wheat Warriors, and Mile High Royal Lions—each holding a 'Win Championship' organizational goal and seeking backfield insurance, where swapping Hubbard for a future 2nd-round draft pick represents a highly realistic win-win transaction.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Accumulated future 1st-round draft capital across 2027–2029",
+            "Young core offensive nucleus (Justin Herbert, Wan'Dale Robinson, Oronde Gadsden)"
+          ],
+          "priorityNeeds": [
+            "Convert aging/bridge RB production into appreciating future draft picks",
+            "Optimize draft position while building a multi-year championship window"
+          ],
+          "tradeableSurplus": [
+            "Chuba Hubbard (CAR RB, Age 27, C-AVI: 64.3, D-AVI: 77.8)"
+          ],
+          "constraintsApplied": [
+            "User Goal: Rebuild (Prioritize long-term D-AVI and pick liquidity)",
+            "Target Goals: Evaluated against Win Championship contenders seeking active lineup depth",
+            "Starter-for-Starter / Player Caliber Standards: Pure player-for-pick sell trade"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Eliminated rebuilding and retooling franchises (DMV Fantasy, Rapid Valley Annihilation, Northside Kings) who do not require short-term veteran RB production",
+            "Eliminated middle-tier teams lacking uncommitted mid-round pick assets or active backfield roster needs",
+            "Prioritized elite contenders with verified 'Win Championship' mandates where adding a high-floor starter directly boosts playoff odds without surrendering roster assets"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Conquistadors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "2027 Round 2 (Northside Kings)",
+                "assetType": "pick",
+                "owner": "Conquistadors",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "RB",
+                "age": 27,
+                "cavi": 64.3,
+                "davi": 77.8,
+                "publicMarket": 72,
+                "leagueMarket": 77.8
+              }
+            ],
+            "scenarioType": "Veteran Cash-Out for Future Capital",
+            "strategicGoal": "Sell short-term RB production to a championship favorite to secure a premium 2027 2nd-round pick.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 24,
+              "packageMatch": 19,
+              "lineupReplacement": 15,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 98,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Hubbard's long-term dynasty horizon is limited by his age curve and backfield competition in Carolina. Converting a 27-year-old running back into a liquid 2027 2nd-round pick aligns perfectly with your Rebuild goal while removing short-term points from your bench.",
+            "whyOpponentMightAccept": "The Conquistadors (Win Championship) boast an elite core (Bijan Robinson, De'Von Achane, Breece Hall) but require reliable RB insurance for a championship run. Adding Hubbard gives them a high-floor starter/FLEX option for a reasonable draft-capital cost without disrupting their active starting roster.",
+            "championshipImpact": "Slight decrease in current-season points, which benefits your rebuild position for higher rookie draft slots.",
+            "dynastyImpact": "Positive. Acquires an appreciating 2027 2nd-round draft pick with full liquidity.",
+            "rosterImpact": "Frees a roster spot and removes expiring veteran RB value from a rebuilding roster.",
+            "publicMarketContext": "Public consensus views Hubbard as a prime sell-high candidate due to Jonathon Brooks' injury and Dave Canales' run-heavy scheme favoring Hubbard as a captain and pass-blocker.",
+            "risks": [
+              "Hubbard sustains top-15 RB production for the full 2026 season",
+              "2027 2nd-round pick lands in the late portion of the round"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Chuba Hubbard straight up for the 2027 2nd (Northside Kings). Highlight Hubbard's immediate pass-blocking lock and week-to-week RB2 volume.",
+              "acceptableConcession": "Throw in a 2027 4th-round pick or FAAB sweetener if the counterparty requests minor filler.",
+              "walkAwayPoint": "Do not accept anything less than a 2nd-round pick equivalent in 2027 or 2028 draft capital."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Smoky Valley Wheat Warriors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "2027 Round 2 (Conquistadors)",
+                "assetType": "pick",
+                "owner": "Smoky Valley Wheat Warriors",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "RB",
+                "age": 27,
+                "cavi": 64.3,
+                "davi": 77.8,
+                "publicMarket": 72,
+                "leagueMarket": 77.8
+              }
+            ],
+            "scenarioType": "Contender Depth Fortification",
+            "strategicGoal": "Target an Elite Contender in need of RB depth behind Christian McCaffrey and James Cook.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 15,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 96,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Captures full market value for Hubbard before Jonathon Brooks returns to split touches, securing a 2027 2nd-round pick from an elite contender.",
+            "whyOpponentMightAccept": "Smoky Valley Wheat Warriors (Win Championship) rely heavily on Christian McCaffrey (age 30) and James Cook. Hubbard provides crucial injury insurance and immediate FLEX usability for a team pushing for a title.",
+            "championshipImpact": "Neutral to beneficial for Rebuild goals by lowering unneeded active C-AVI.",
+            "dynastyImpact": "Positive long-term value capture into 2027 draft assets.",
+            "rosterImpact": "Streamlines backfield roster management toward younger prospects.",
+            "publicMarketContext": "Hubbard's market tier is currently elevated across KeepTradeCut and FantasyPros, making him an easy plug-and-play target for contenders.",
+            "risks": [
+              "Smoky Valley Wheat Warriors prefer to hold draft picks for trade-deadline moves"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Hubbard for 2027 2nd (Conquistadors). Emphasize Hubbard's goal-line role and floor stability.",
+              "acceptableConcession": "Include a late future pick swap (e.g., send 2027 4th, receive 2027 3rd) if needed to push it over the line.",
+              "walkAwayPoint": "Reject offers consisting solely of 3rd-round picks or roster clutter."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Mile High Royal Lions",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "2028 Round 2 (Mile High Royal Lions)",
+                "assetType": "pick",
+                "owner": "Mile High Royal Lions",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "RB",
+                "age": 27,
+                "cavi": 64.3,
+                "davi": 77.8,
+                "publicMarket": 72,
+                "leagueMarket": 77.8
+              }
+            ],
+            "scenarioType": "Future Pick Acquisition",
+            "strategicGoal": "Acquire 2028 2nd-round draft capital from a championship contender with thin RB depth behind Jahmyr Gibbs.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 15,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 95,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Extends your draft pick pipeline into 2028 while cashing out on a peak volume window for a 27-year-old running back.",
+            "whyOpponentMightAccept": "Mile High Royal Lions (Win Championship) have Jahmyr Gibbs as a superstar anchor, but J.K. Dobbins represents their only other top-60 RB. Hubbard gives them immediate starting-caliber RB depth for a deep championship run.",
+            "championshipImpact": "Aligns active roster points with a multi-year rebuild window.",
+            "dynastyImpact": "Adds valuable future draft capital to the team's long-term rebuild chest.",
+            "rosterImpact": "Opens roster space for ongoing waiver/rookie developmental stashes.",
+            "publicMarketContext": "Hubbard's captaincy and pass-blocking role guarantee high snap counts in Carolina, making him an ideal target for top contenders short on RB depth.",
+            "risks": [
+              "2028 pick is further out on the dynasty timeline than 2027 capital"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Chuba Hubbard for the 2028 2nd-round pick. Stress the immediate upgrade Hubbard provides over secondary options like Jonah Coleman.",
+              "acceptableConcession": "Accept a conditional 2027 3rd + 2028 3rd package if a 2nd-round pick is strictly off the table.",
+              "walkAwayPoint": "Walk away if the return does not deliver equivalent 2nd-round market value."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chuba Hubbard contract status fantasy dynasty 2026",
+          "Chuba Hubbard news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbGGOqMY7pbyVRsCx07cLTjF99Sxl1BI_Zv-DWFf458Y61PShGLTxCohRi_F3J_0TUkACBDYAzzPjr1oL4n56NA9yDnt6BqnaD7k8rNlPd_OMR-pElc2UOERTVoRRwkY7wju9QdTe9ks6sL9azLMDoY2KD4lXhnTdkG_-0-Uxk9IpsK4SERoYGbkazmO9CZigFK6Q5Mx4vuOJUkOOCInbNEQM0Mr2e",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENk8YGCViEBCgiI2T4LGkiQdHlTNQvlv3ZViMJjTPP1Gj39JpcUJ--ZAcr-ilsc0HSB1y0OadbI3NBLok0bJHqw9EywYPfU0U3fbXiYL6Xk5A6V97j2gvldXfZ-ZjdPdJi1SBA8N8NuTgDEYTph28DFOywxtedVSrytUIEUWHfQfHcNMTctS2_CY_WW6zxeFgjcpGLNFrLQABnL0jMnSY3jbqmF4IjtgtyxF5kFWIrVigxAYw=",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM61D0pW6vulVNzCRbOUma79ogl9vbBp1AAHj0DsZiFySp6Qj-bvG-nygIIMTMj6y-KAtwQcxgYRLzs2PBdlW_ay3BVgaHz6YkOq779ldC2yLLxtSnGWmuCyM-M21bqvZsDceQxP1lErf-TicM8LfQUiKCoIsrpa4fVGStYENwwly2Kqmeej_-7TJavnUdV9hYJ0v0",
+            "title": "catcrave.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJk0F6Mj_7gjekS7B4RXacIpk1BOaYGidxASBAamSWH6YcfDCWHRboJf3aw7fUN67H0GiDFrjH2Ld862G6S3QV5uk9R7vnVoWapJ_7OvC06dVCD1s2sT9sqKB6auQDQE2S2aeABFxgCz0kxVD1ZKqIVB7jSOm8",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFds4w6CpJ7N7IFogW1E-SG4fkW9f3MvtdtFjTgZLakbJRyk70jHiw_JbdsNvQsKV0Rpvr7F4RhoVXxMBgzDMGf2h75pPTWimptvlt1ARWE4LlU36IfMBs5M7Tj3XBWjEjWZbAwpmij9PDpMdhWILqPEgiYT8VqOczhMZyH826CZP9IuLg7rrc3SNwqA8jNu8JuA9q7QMXEgye4_Awqcdjcor0on-YoGkFtbCWL5yPkNA2ea7XAJGkYKdKj4pmaaggAYxvAc1ib1TaH8a2kY88YgJI=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaF_Z-0-98GESK4ssDMhOyRovBgnwiqgtELhuMHdbJB9Zw-F1PW6XB5ilF7jjRPIv8aa6yE6thMCMlwisTdU5ro_fzgaAAuGh7eJ_uYk_sddvnKvDPCu4RyYwDg4xclwj84x4Bg7mM5Iyo4E6fYFpTAEXSNcoXLRBQenSzTlCULrsfRfrGjP5nwuPzbv3HI-PRQOITRfrGPT-xzvgFiMY=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3vvmdJzb415npCoKmKdSq0GEda0tSPZRdmBjzDcjj5xNnFV5sZRyZLd2v43yctKmQuZlZHy2Jr6ex2UaP-fszkTnwIBkMR6ZOh9NA17mLhIcGbOtL6FNXfy2A51-4c8ZCMZB8_CAeRTtvWdogZWM=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKkTHi6CPVd70dCiSEj0xVvvQF_ss5xobZw8b5oWXbAUKAYr1A8HYOeN7njQfXGi81PBcl5K0ma1Mrd04hEjyJtNLnHGNXdO0dyhhRJpIQP5ZcLL56duIxnUE-AHubBKtFmdOaN6DuuklOY4evBw==",
+            "title": "sportspyder.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Chuba Hubbard"
+        ],
+        "aviCoreCommitSha": "2cede9c7242d8994bd8cd8d0d00f5dddf328fed3",
+        "aviCoreCommittedAt": "2026-09-21T21:25:31Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 531008,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mubt46jx-78dc938a",
