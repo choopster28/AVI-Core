@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 990097041671892992
 - Division: 4
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-09-20
+- Last updated from Sleeper exports: 2026-09-21
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 560.4
-- championship_lineup_c_avi_avg: 70.05
-- offensive_roster_c_avi_sum: 887.3
-- offensive_roster_c_avi_avg: 59.15
+- championship_lineup_c_avi_sum: 560.5
+- championship_lineup_c_avi_avg: 70.06
+- offensive_roster_c_avi_sum: 887.4
+- offensive_roster_c_avi_avg: 59.16
 - offensive_roster_d_avi_sum: 1093.1
 - offensive_roster_d_avi_avg: 72.87
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 59.5 | D-AVI: 76.6
 - RB: Kyren Williams | C-AVI: 80.8 | D-AVI: 88.5
-- RB: Aaron Jones | C-AVI: 58.0 | D-AVI: 66.5
+- RB: Aaron Jones | C-AVI: 58.1 | D-AVI: 66.5
 - WR: Emeka Egbuka | C-AVI: 83.0 | D-AVI: 93.1
 - WR: Jameson Williams | C-AVI: 79.8 | D-AVI: 86.8
 - TE: Jake Ferguson | C-AVI: 67.5 | D-AVI: 79.2
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 58.0
+- Championship AVI (C-AVI, 0-100): 58.1
 - Dynasty AVI (D-AVI, 0-100): 66.5
 - Projected PPR points: 169.2
 - Category: offense

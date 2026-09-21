@@ -1,400 +1,456 @@
 {
-  "count": 22,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:56:38",
-      "created_formated": "Sun, Sep 20th 3:56pm UTC",
-      "desc": "Trey Hendrickson (finger) is active for Week 2 for the Baltimore Ravens against the New Orleans Saints.",
-      "id": 609237,
-      "impact": "Hendrickson will suit up and play with a cast on the injured hand, boosting a Baltimore defensive line that will look to disrupt New Orleans quarterback Tyler Shough early and often in the Week 2 matchup.",
-      "link": "https://www.fantasypros.com/nfl/news/609237/trey-hendrickson-finger-active-week-2.php",
-      "player_id": 16719,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Trey Hendrickson (finger) active for Week 2"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:51:33",
-      "created_formated": "Sun, Sep 20th 3:51pm UTC",
-      "desc": "Blake Cashman (wrist) is active for Week 2 for the Minnesota Vikings against the Chicago Bears.",
-      "id": 609236,
-      "impact": "Cashman will suit up after progressing throughout the week managing the injured wrist, boosting a Minnesota defense tasked with attempting to slow down a high-powered Bears offense in the divisional matchup.",
-      "link": "https://www.fantasypros.com/nfl/news/609236/blake-cashman-wrist-active-week-2.php",
-      "player_id": 18421,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Blake Cashman (wrist) active for Week 2"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:49:30",
-      "created_formated": "Sun, Sep 20th 3:49pm UTC",
-      "desc": "Andrew Van Ginkel (chest) is active for Week 2 for the Minnesota Vikings against the Chicago Bears.",
-      "id": 609235,
-      "impact": "Van Ginkel passed through pregame activities without any issues, boosting a Minnesota defense that will look to contain a high-powered Bears offense in the divisional clash Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/609235/andrew-van-ginkel-chest-active-week-2.php",
-      "player_id": 18573,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Andrew Van Ginkel (chest) active for Week 2"
-    },
-    {
       "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:48:14",
-      "created_formated": "Sun, Sep 20th 3:48pm UTC",
-      "desc": "Falcons QB Tua Tagovailoa (oblique) is officially inactive for Week 2.",
-      "id": 609234,
-      "impact": "Tagovailoa was considered doubtful to play Sunday against the Panthers. Cooper Rush will draw his second straight start, with Jack Strand serving as QB2 for the Falcons. ",
-      "link": "https://www.fantasypros.com/nfl/news/609234/tua-tagovailoa-oblique-officially-inactive-week-2.php",
-      "player_id": 19198,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Tua Tagovailoa (oblique) officially inactive for Week 2 "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:47:05",
-      "created_formated": "Sun, Sep 20th 3:47pm UTC",
-      "desc": "Brian O'Neill (knee) is active for Week 2 for the Minnesota Vikings against the Chicago Bears.",
-      "id": 609233,
-      "impact": "O'Neill will suit up after not suffering any setbacks during pregame warmups, boosting a Minnesota offensive line that will look to keep quarterback Carson Wentz upright against an aggressive Chicago defensive front Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/609233/brian-oneill-knee-active-week-2.php",
-      "player_id": 17353,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Brian O'Neill (knee) active for Week 2"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:45:32",
-      "created_formated": "Sun, Sep 20th 3:45pm UTC",
-      "desc": "Saints WR Chris Olave (hamstring) is officially active for a Week 2 matchup with the Ravens.",
-      "id": 609232,
-      "impact": "Olave was a late addition to the injury report this week and was listed as questionable to play in Week 2. He immediately becomes the top pass catching option for QB Tyler Shough and the Saints. ",
-      "link": "https://www.fantasypros.com/nfl/news/609232/chris-olave-hamstring-officially-active-week-2.php",
-      "player_id": 20111,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Chris Olave (hamstring) officially active for Week 2"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:43:40",
-      "created_formated": "Sun, Sep 20th 3:43pm UTC",
-      "desc": "Buccaneers RB Sean Tucker (hamstring) is officially active for Week 2.",
-      "id": 609231,
-      "impact": "Tucker was forced to sit out Week 1 due to a hamstring injury. He should mix into the running back rotation with Bucky Irving and Kenny Gainwell against Cleveland. ",
-      "link": "https://www.fantasypros.com/nfl/news/609231/sean-tucker-hamstring-officially-active-week-2.php",
-      "player_id": 23679,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Sean Tucker (hamstring) officially active for Week 2 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:42:00",
-      "created_formated": "Sun, Sep 20th 3:42pm UTC",
-      "desc": "Browns DB Tyson Campbell (ankle) is officially active for Week 2.",
-      "id": 609230,
-      "impact": "Campbell was listed a questionable to play against Tampa Bay, but he will suit up for the Browns in Week 2. This gives the Browns' defense Campbell and Denzel Ward to deal with Tampa Bay's WR group. ",
-      "link": "https://www.fantasypros.com/nfl/news/609230/tyson-campbell-ankle-officially-active-week-2.php",
-      "player_id": 22706,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Tyson Campbell (ankle) officially active for Week 2"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:41:11",
-      "created_formated": "Sun, Sep 20th 3:41pm UTC",
-      "desc": "Lukas Van Ness (concussion) is active for Week 2 for the Green Bay Packers against the New York Jets.",
-      "id": 609229,
-      "impact": "Van Ness was able to clear through concussion protocols throughout the week to get the green light Sunday, boosting a Green Bay defensive front that will look to put pressure on Jets signal caller Geno Smith early and often in the Week 2 matchup.",
-      "link": "https://www.fantasypros.com/nfl/news/609229/lukas-van-ness-concussion-active-week-2.php",
-      "player_id": 25291,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Lukas Van Ness (concussion) active for Week 2"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:39:15",
-      "created_formated": "Sun, Sep 20th 3:39pm UTC",
-      "desc": "Buccaneers WR Jalen McMillan (knee) is officially active for Week 2. ",
-      "id": 609228,
-      "impact": "McMillan has been dealing with a knee injury dating back to the offseason and is expected to be on a snap count this week. Fantasy managers should likely find another option until McMillan is 100%. ",
-      "link": "https://www.fantasypros.com/nfl/news/609228/jalen-mcmillan-knee-officially-active-week-2.php",
-      "player_id": 23179,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Jalen McMillan (knee) officially active for Week 2 "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:38:35",
-      "created_formated": "Sun, Sep 20th 3:38pm UTC",
-      "desc": "Zach Bako-Bewele (knee) is active for Week 2 for the Green Bay Packers against the New York Jets.",
-      "id": 609227,
-      "impact": "Bako-Bewele is good to go after passing through pregame activities without any issues, joining Aaron Banks (knee) to boost a Green Bay offensive line after a forgettable Week 1 performance.",
-      "link": "https://www.fantasypros.com/nfl/news/609227/zach-bako-bewele-knee-active-week-2.php",
-      "player_id": 24244,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Zach Bako-Bewele (knee) active for Week 2"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:35:54",
-      "created_formated": "Sun, Sep 20th 3:35pm UTC",
-      "desc": "Aaron Banks (knee) is active for Week 2 for the Green Bay Packers against the New York Jets.",
-      "id": 609226,
-      "impact": "Banks will suit up after entering the weekend carrying a questionable designation, boosting a Green Bay offensive line that will look to put a dismal Week 1 performance in the rearview mirror against the Jets Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/609226/aaron-banks-knee-active-week-2.php",
-      "player_id": 22804,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Aaron Banks (knee) active for Week 2"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-20 15:35:46",
-      "created_formated": "Sun, Sep 20th 3:35pm UTC",
-      "desc": "Jets CB D'Angelo Ponds is officially inactive for the Jets' Week 2 matchup with Green Bay.",
-      "id": 609225,
-      "impact": "Ponds was rumored to make his 2026 debut this week, but is a healthy scratch this weekend. He will have to wait at least one more week before making his debut. ",
-      "link": "https://www.fantasypros.com/nfl/news/609225/dangelo-ponds-officially-inactive-week-2.php",
-      "player_id": 27992,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "D'Angelo Ponds officially inactive for Week 2 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-20 15:32:44",
-      "created_formated": "Sun, Sep 20th 3:32pm UTC",
-      "desc": "Saints RB Kendre Miller is officially inactive for the Saints' Week 2 matchup with Baltimore.  ",
-      "id": 609224,
-      "impact": "Miller was not listed on the injury report this week and is a healthy inactive. Alvin Kamara (knee) makes his return to the lineup for the Saints. ",
-      "link": "https://www.fantasypros.com/nfl/news/609224/kendre-miller-officially-inactive-week-2.php",
-      "player_id": 24360,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Kendre Miller officially inactive for Week 2 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-20 15:29:21",
-      "created_formated": "Sun, Sep 20th 3:29pm UTC",
-      "desc": "Bengals QB Joe Burrow (back) will start for the Bengals in their Week 2 matchup with the Texans. ",
-      "id": 609223,
-      "impact": "Head coach Zac Taylor stated that \"he feels good\" and is \"ready to go.\" Fantasy managers should expect Burrow to not be limited in his play Sunday, barring him reaggravating his back injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/609223/joe-burrow-back-will-start-sunday.php",
-      "player_id": 19196,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Joe Burrow (back) will start Sunday"
-    },
-    {
-      "author": "Matthew Adam",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-09-14 11:01:26",
-      "created_formated": "Mon, Sep 14th 11:01am UTC",
-      "desc": "The Steelers D/ST allowed 13 points while scoring a touchdown, forcing two turnovers, and notching four sacks in a 20-13 win over the Falcons in Week 1. ",
-      "id": 607789,
-      "impact": "Pittsburgh took advantage of the Falcons being forced to start their third-string QB in Cooper Rush. T.J. Watt dominated the whole afternoon as he sealed the game with a 35-yard pick-six in the fourth quarter while also logging two sacks. The Steelers will have a tougher test in Week 2 against the Patriots. ",
-      "link": "https://www.fantasypros.com/nfl/news/607789/steelers-dst-scores-td-week-1-win.php",
+      "created": "2026-09-21 00:13:41",
+      "created_formated": "Mon, Sep 21st 12:13am UTC",
+      "desc": "The Steelers D/ST allowed 14 points, 208 passing yards, and 136 rushing yards in the 20-3 loss to the Patriots. ",
+      "id": 609312,
+      "impact": "The Steelers' defense did tally an interception, a fumble recovery, and three sacks in the losing effort Sunday. The Steelers' defense will be at home against a strong Bengals' offense in Week 3. ",
+      "link": "https://www.fantasypros.com/nfl/news/609312/steelers-dst-allows-14-points-week-2-loss.php",
       "player_id": 8240,
       "sport_id": "NFL",
       "team_id": "PIT",
-      "title": "Steelers D/ST scores TD in Week 1 win"
+      "title": "Steelers D/ST allows 14 points in Week 2 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-21 00:11:29",
+      "created_formated": "Mon, Sep 21st 12:11am UTC",
+      "desc": "Chris Boswell connected on 1-of-2 field goals in the Steelers 20-3 loss to the Patriots. ",
+      "id": 609311,
+      "impact": "Boswell connected on a 56-yard field goal and missed from 57-yards out in the first quarter. There were reports prior to the game that Boswell was struggling with kicks in pregame warmups, but both his miss and connection were from 55+ yards. Boswell and the Steelers will take on the Bengals at home in Week 3. ",
+      "link": "https://www.fantasypros.com/nfl/news/609311/chris-boswell-misses-fg-attempt-week-2-loss.php",
+      "player_id": 13029,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Chris Boswell misses a FG attempt in Week 2 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-21 00:08:48",
+      "created_formated": "Mon, Sep 21st 12:08am UTC",
+      "desc": "Steelers TE Pat Freiermuth caught 4-of-5 targets for 32 yards and rushed once for two yards in the Steelers 20-3 loss to the Patriots. ",
+      "id": 609310,
+      "impact": "Freiermuth has logged five targets in both games this season and appears to have built a rapport with Aaron Rodgers. With Michael Pittman dealing with an ankle injury, the veteran tight end could be a solid option heading into a Week 3 matchup with the Bengals. ",
+      "link": "https://www.fantasypros.com/nfl/news/609310/pat-freiermuth-hauls-four-passes-week-2.php",
+      "player_id": 20163,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Pat Freiermuth hauls in four passes in Week 2 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-21 00:06:29",
+      "created_formated": "Mon, Sep 21st 12:06am UTC",
+      "desc": "Steelers WR Germie Bernard caught 4-of-8 targets for 35 yards in the Steelers' 20-3 loss to the Patriots. ",
+      "id": 609309,
+      "impact": "Bernard saw an increase in playing time with Michael Pittman (ankle) unavailable for Week 2. The rookie wide receiver did have a key drop that lead to a Patriots interception. Bernard will look to build on this performance in Week 3 against the Bengals. ",
+      "link": "https://www.fantasypros.com/nfl/news/609309/germie-bernard-leads-team-receiving-yards-week-2.php",
+      "player_id": 26039,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Germie Bernard leads team in receiving yards in Week 2 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-21 00:02:13",
+      "created_formated": "Mon, Sep 21st 12:02am UTC",
+      "desc": "Steelers WR Roman Wilson caught 5-of-6 targets for 28 yards in the Steelers' 20-3 loss to the Patriots. ",
+      "id": 609308,
+      "impact": "Wilson has now seen six targets in both games this season and should continue to see an increase in usage as long as Michael Pittman is dealing with an ankle injury. Wilson's five receptions lead the team, but the Steelers' passing attack really failed to get anything consistent going. Wilson and the Steelers will take on the Bengals at home in Week 3. ",
+      "link": "https://www.fantasypros.com/nfl/news/609308/roman-wilson-hauls-five-passes-week-2-loss.php",
+      "player_id": 28896,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Roman Wilson hauls in five passes in Week 2 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:59:31",
+      "created_formated": "Sun, Sep 20th 11:59pm UTC",
+      "desc": "Steelers WR DK Metcalf caught 4-of-9 targets for 27 yards in a 20-3 loss to the Patriots. ",
+      "id": 609307,
+      "impact": "Metcalf was shadowed by Patriots DB Christian Gonzalez for the majority of the game, limiting his production and forcing Aaron Rodgers to look elsewhere. Metcalf has lead the team in targets in the first two games, so the target volume is encouraging, fantasy managers are just waiting for it to result in more production. Metcalf and the Steelers will take on the Bengals in Week 3. ",
+      "link": "https://www.fantasypros.com/nfl/news/609307/dk-metcalf-leads-team-targets-week-2-loss.php",
+      "player_id": 18219,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "DK Metcalf leads team in targets in Week 2 loss "
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-20 14:25:32",
-      "created_formated": "Sun, Sep 20th 2:25pm UTC",
-      "desc": "Brock Bowers (knee) is not expected to play in Week 2 for the Las Vegas Raiders against the Los Angeles Chargers according to Ian Rapoport.",
-      "id": 609210,
-      "impact": "Bowers could return as soon as Week 3 for the Raiders according to Rapoport, with Michael Mayer in line for increased touches again in Week 2 against the Chargers.",
-      "link": "https://www.fantasypros.com/nfl/news/609210/brock-bowers-knee-not-expected-to-play-sunday.php",
-      "player_id": 22955,
+      "created": "2026-09-20 23:57:47",
+      "created_formated": "Sun, Sep 20th 11:57pm UTC",
+      "desc": "Jordan Love completed 16-of-29 pass attempts for 145 yards and two touchdowns in the Packers' 20-17 Week 2 win over the New York Jets.",
+      "id": 609306,
+      "impact": "Love continues a solid start to the season as part of a Green Bay offense battling inconsistency early on, throwing two touchdowns in each of the first two games. The quarterback will look for more sizeable success for fantasy managers in a favorable Week 3 matchup against the Atlanta Falcons.",
+      "link": "https://www.fantasypros.com/nfl/news/609306/jordan-love-tosses-two-touchdowns-week-2-win-over-jets.php",
+      "player_id": 19246,
       "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Brock Bowers (knee) not expected to play Sunday"
+      "team_id": "GB",
+      "title": "Jordan Love tosses two touchdowns in Week 2 win over Jets"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-20 14:22:09",
-      "created_formated": "Sun, Sep 20th 2:22pm UTC",
-      "desc": "Sam Darnold (glute) is progressing quicker than expected from his Week 1 injury for the Seattle Seahawks according to Ian Rapoport.",
-      "id": 609209,
-      "impact": "Darnold has made significant progress in hopes of returning sooner than late for the Seahawks, remaining week-to-week currently. Drew Lock will continue to start behind center in his absence.",
-      "link": "https://www.fantasypros.com/nfl/news/609209/sam-darnold-glute-improving-quicker-expected.php",
-      "player_id": 17236,
+      "created": "2026-09-20 23:55:08",
+      "created_formated": "Sun, Sep 20th 11:55pm UTC",
+      "desc": "Christian Watson hauled in four of his team-high 11 targets for 41 yards and one touchdown in the Packers' 20-17 Week 2 win over the New York Jets.",
+      "id": 609305,
+      "impact": "Watson has been impactful as part of an inconsistent Green Bay offense to begin the season, catching one or more touchdowns on eight or more targets in each of the first two games. The wideout offers fantasy managers one of the few stable options in an underperforming Packer offense ahead of a favorable Week 3 matchup against the Atlanta Falcons.",
+      "link": "https://www.fantasypros.com/nfl/news/609305/christian-watson-finds-end-zone-week-2-win-over-jets.php",
+      "player_id": 23886,
       "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Sam Darnold (glute) progressing quicker than expected "
+      "team_id": "GB",
+      "title": "Christian Watson finds end zone in Week 2 win over Jets"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:53:18",
+      "created_formated": "Sun, Sep 20th 11:53pm UTC",
+      "desc": "Steelers RB Rico Dowdle rushed for 22 yards on seven carries and caught both of his targets for 22 yards in the Steelers' 20-3 loss to the Patriots. ",
+      "id": 609304,
+      "impact": "Dowdle suffered the toe injury in the second quarter but was cleared to return after the half. He was later ruled out with the same injury, so he may have reaggravated it in the second half.  If Dowdle is unable to suit up in Week 3, Jaylen Warren will be the primary running back against the Bengals. ",
+      "link": "https://www.fantasypros.com/nfl/news/609304/rico-dowdle-toe-finishes-with-nine-touches-week-2-loss.php",
+      "player_id": 19647,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Rico Dowdle (toe) finishes with nine touches in Week 2 loss"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-20 13:53:10",
-      "created_formated": "Sun, Sep 20th 1:53pm UTC",
-      "desc": "Chris Jones (calf) is expected to play for the Kansas City Chiefs against the Indianapolis Colts Sunday night according to Ian Rapoport.",
-      "id": 609201,
-      "impact": "Jones will test the injured calf during pregame activities for the Chiefs and barring any setbacks will offer head coach Andy Reid a disruptive interior option against an Indianapolis offense that will likely attempt to establish the run early with Star running back Jonathan Taylor Sunday night.",
-      "link": "https://www.fantasypros.com/nfl/news/609201/chris-jones-calf-expected-to-play-sunday.php",
-      "player_id": 15620,
+      "created": "2026-09-20 23:52:16",
+      "created_formated": "Sun, Sep 20th 11:52pm UTC",
+      "desc": "MarShawn Lloyd rushed six times for 20 yards while also hauling in both of his targets for six yards and one touchdown in the Packers' 20-17 Week 2 win over the New York Jets.",
+      "id": 609303,
+      "impact": "Lloyd has underwhelmed despite increased touches out of the Green Bay backfield to begin the season, finishing with less than 40 rushing yards in each of the first two games. The running back remains a risky option as part of a running back group leaving a lot to be desired, with a Week 3 contest against the Atlanta Falcons up next.",
+      "link": "https://www.fantasypros.com/nfl/news/609303/marshawn-lloyd-catches-touchdown-quiet-week-2-performance.php",
+      "player_id": 23118,
       "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Chris Jones (calf) expected to play Sunday"
+      "team_id": "GB",
+      "title": "MarShawn Lloyd catches touchdown in quiet Week 2 performance"
     },
     {
-      "author": "Garrett Ball",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-20 11:20:49",
-      "created_formated": "Sun, Sep 20th 11:20am UTC",
-      "desc": "Michael Penix Jr. (knee) is nearing a return to play and could make his debut next Thursday against the Packers.",
-      "id": 609166,
-      "impact": "The Falcons will be starting Cooper Rush once again in Week 2, but Penix's return to the lineup would be a big boost to the Falcons' pass catchers. Penix has been edging ever closer to returning, and despite Tua Tagovailoa being named starter by default, he will likely start as soon as he is physically able.",
-      "link": "https://www.fantasypros.com/nfl/news/609166/michael-penix-jr-knee-could-make-his-debut-thursday-against-packers.php",
-      "player_id": 22973,
+      "created": "2026-09-20 23:51:25",
+      "created_formated": "Sun, Sep 20th 11:51pm UTC",
+      "desc": "Steelers RB Jaylen Warren rushed for 43 yards on 11 carries in the Steelers' 20-3 loss to the Patriots. He caught 2-of-4 targets for 34 yards. ",
+      "id": 609302,
+      "impact": "Warren saw the majority of the work after Rico Dowdle was ruled out with a toe injury. If Dowdle is unable to play in Week 3, Warren would be expected to handle the bulk of the work against a Bengals' defense that looked strong in a win over Houston. ",
+      "link": "https://www.fantasypros.com/nfl/news/609302/jaylen-warren-tallies-13-touches-week-2-loss.php",
+      "player_id": 24209,
       "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Michael Penix Jr. (knee) could make his debut Thursday against Packers"
+      "team_id": "PIT",
+      "title": "Jaylen Warren tallies 13 touches in Week 2 loss"
     },
     {
-      "author": "Garrett Ball",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-20 11:11:59",
-      "created_formated": "Sun, Sep 20th 11:11am UTC",
-      "desc": "RJ Harvey (hamstring) is unlikely to play against the Jaguars on Sunday due to a hamstring injury.",
-      "id": 609164,
-      "impact": "If Harvey sits, JK Dobbins will once again be the primary rusher and it will open up touches for Jonah Coleman, as he is a capable pass catcher. Dobbins is worth starting this week, and Coleman could be an interesting start in deeper formats.",
-      "link": "https://www.fantasypros.com/nfl/news/609164/rj-harvey-hamstring-unlikely-to-play-against-jags.php",
-      "player_id": 27142,
+      "created": "2026-09-20 23:48:48",
+      "created_formated": "Sun, Sep 20th 11:48pm UTC",
+      "desc": "Matthew Golden hauled in four of his six targets for a team-high 58 yards in the Packers' 20-17 Week 2 win over the New York Jets.",
+      "id": 609301,
+      "impact": "Golden has been one of the few bright spots in an underperforming Packers offense to begin the season, recording four or more receptions for over 50 receiving yards in each of the first two contests. The wideout will look for another impactful performance in a favorable Week 3 matchup against the Atlanta Falcons.",
+      "link": "https://www.fantasypros.com/nfl/news/609301/matthew-golden-leads-pass-catchers-week-2-win-over-jets.php",
+      "player_id": 26024,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "RJ Harvey (hamstring) unlikely to play against Jags"
+      "team_id": "GB",
+      "title": "Matthew Golden leads pass-catchers in Week 2 win over Jets"
     },
     {
-      "author": "Garrett Ball",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-20 11:07:02",
-      "created_formated": "Sun, Sep 20th 11:07am UTC",
-      "desc": "Kaelon Black (groin) is expected to play on Sunday against the Dolphins.",
-      "id": 609163,
-      "impact": "If Black plays it seems unlikely he'll have the 50-50 split with Christian McCaffrey he had last time out, and likely will play a more complementary role. However, if the Niners do get up big, he could see a decent amount of touches, so he could be flex-worthy in deep formats.",
-      "link": "https://www.fantasypros.com/nfl/news/609163/kaelon-black-groin-expected-to-play-on-sunday.php",
-      "player_id": 28401,
+      "created": "2026-09-20 23:47:40",
+      "created_formated": "Sun, Sep 20th 11:47pm UTC",
+      "desc": "Steelers QB Aaron Rodgers completed 23-of-39 passes for 187 yards and one interception in the Steelers' 20-3 loss to the Patriots. He added five rushing yards in the loss.",
+      "id": 609300,
+      "impact": "Rodgers also fumbled twice in the game, including one that lead to a Patriots' defensive touchdown. The veteran spread the ball around Sunday, completing passes to eight different wide receivers in the loss. Rodgers and the Steelers will face a rebuilt Bengals' defense that looked impressive against Houston in Week 2.  ",
+      "link": "https://www.fantasypros.com/nfl/news/609300/aaron-rodgers-struggles-week-2-loss.php",
+      "player_id": 9001,
       "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kaelon Black (groin) expected to play on Sunday"
+      "team_id": "PIT",
+      "title": "Aaron Rodgers struggles in Week 2 loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:45:47",
+      "created_formated": "Sun, Sep 20th 11:45pm UTC",
+      "desc": "Tucker Kraft caught two of his three targets for 15 yards in the Packers' 20-17 Week 2 win over the New York Jets.",
+      "id": 609299,
+      "impact": "Kraft was unable to make a significant impact as part of an underwhelming Green Bay passing attack, finishing with less than four receptions in each of the first two games. The tight end will look to get back on track for fantasy managers against the Atlanta Falcons in Week 3.",
+      "link": "https://www.fantasypros.com/nfl/news/609299/tucker-kraft-quiet-week-2-win.php",
+      "player_id": 25298,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Tucker Kraft quiet in Week 2 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:44:13",
+      "created_formated": "Sun, Sep 20th 11:44pm UTC",
+      "desc": "The Patriots D/ST allowed three points, 187 passing yards, and 91 rushing yards in a 20-3 win over the Steelers. ",
+      "id": 609298,
+      "impact": "The defense tallied four sacks, one interception, and one fumble that resulted in a 19-yard touchdown return by Elijah Ponder. The defense did a great job limiting Rodgers to underneath throws and holding the Steelers' running game to 4.0 yards per carry on 23 attempts. The Patriots' defense will take on the Jaguars on the road in Week 3. ",
+      "link": "https://www.fantasypros.com/nfl/news/609298/patriots-dst-allows-three-points-week-2-win.php",
+      "player_id": 8180,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Patriots D/ST allows three points in Week 2 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:41:39",
+      "created_formated": "Sun, Sep 20th 11:41pm UTC",
+      "desc": "Patriots K Andy Borregales connected on 2-of-3 field goals and 2-of-2 extra points in the Patriots' 20-3 win over the Steelers. ",
+      "id": 609297,
+      "impact": "Borregales connected on field goal attempts from 30 and 45 yards out, while missing from 47-yards out. The second-year kicker should continue to see plenty of field goal opportunities until the passing attack can find consistency.  ",
+      "link": "https://www.fantasypros.com/nfl/news/609297/andy-borregales-connects-on-two-field-goals-week-2-win.php",
+      "player_id": 27291,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Andy Borregales connects on two field goals in Week 2 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:38:25",
+      "created_formated": "Sun, Sep 20th 11:38pm UTC",
+      "desc": "Chris Brooks rushed four times for 11 yards while also catching one of his two targets for 15 yards in the Packers' 20-17 win over the New York Jets in Week 2.",
+      "id": 609296,
+      "impact": "Brooks has struggled to make an impact out of the backfield to begin the season, finishing with less than 30 offensive yards in each of the first two games. The running back is difficult to trust as part of an underwhelming Green Bay backfield to begin the season, with a Week 3 contest against the Atlanta Falcons up next.",
+      "link": "https://www.fantasypros.com/nfl/news/609296/chris-brooks-sees-five-touches-week-2.php",
+      "player_id": 25823,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Chris Brooks sees five touches in Week 2"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:37:58",
+      "created_formated": "Sun, Sep 20th 11:37pm UTC",
+      "desc": "Patriots TE Eli Raridon caught his lone target for 30 yards in the Patriots' 20-3 win over the Steelers.",
+      "id": 609295,
+      "impact": "Rairdon exited the game after the reception and was originally listed as questionable to return. The rookie tight end remained out of the game and fantasy managers will want to monitor his status heading into a Week 3 matchup with Jacksonville. ",
+      "link": "https://www.fantasypros.com/nfl/news/609295/eli-raridon-limited-week-2-due-to-thigh-injury.php",
+      "player_id": 28154,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Eli Raridon limited in Week 2 due to a thigh injury "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:36:25",
+      "created_formated": "Sun, Sep 20th 11:36pm UTC",
+      "desc": "Patriots TE Hunter Henry caught 3-of-5 targets for 40 yards in the Patriots' 20-3 win over the Steelers. ",
+      "id": 609294,
+      "impact": "Henry led the team in targets and was tied with Romeo Doubs for the team lead in receptions. Henry should continue to see a steady volume with A.J. Brown on injured reserve. The veteran tight end will head to Jacksonville for a Week 3 matchup with the Jaguars. ",
+      "link": "https://www.fantasypros.com/nfl/news/609294/hunter-henry-hauls-three-passes-week-2-win.php",
+      "player_id": 15561,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Hunter Henry hauls in three passes in Week 2 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:35:35",
+      "created_formated": "Sun, Sep 20th 11:35pm UTC",
+      "desc": "Kaleb Johnson rushed eight times for 32 yards in the Packers' 20-17 Week 2 win over the New York Jets.",
+      "id": 609293,
+      "impact": "Johnson made the most of modest involvement in his first game action of the season, averaging 4.0 yards per carry in the win. The running back could be in line for an increased workload as part of a difficult Green Bay backfield for fantasy managers to trust, with a Week 3 contest against the Atlanta Falcons up next.",
+      "link": "https://www.fantasypros.com/nfl/news/609293/kaleb-johnson-leads-ground-attack-week-2-win.php",
+      "player_id": 27165,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Kaleb Johnson leads ground attack in Week 2 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:33:51",
+      "created_formated": "Sun, Sep 20th 11:33pm UTC",
+      "desc": "Patriots WR Mack Hollins caught both of his targets for 18 yards in the Patriots' 20-3 win over the Steelers. ",
+      "id": 609292,
+      "impact": "Hollins saw his target numbers drop from Week 1, but the passing attack struggled as a whole again. Hollins has a great rapport with QB Drake Maye, which should lead to a potential in increased chances until A.J. Brown returns from injured reserve. Hollins and the Patriots will travel to Jacksonville in Week 3. ",
+      "link": "https://www.fantasypros.com/nfl/news/609292/mack-hollins-hauls-two-passes-week-2-win.php",
+      "player_id": 16489,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Mack Hollins hauls in two passes in Week 2 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:32:34",
+      "created_formated": "Sun, Sep 20th 11:32pm UTC",
+      "desc": "Skyy Moore caught two of his three targets for six yards in the Packers' 20-17 win over the New York Jets in Week 2.",
+      "id": 609291,
+      "impact": "Moore has struggled to make an impact in the Green Bay passing attack to begin the season, recording three targets or less in each of the first two games. The wideout can remains off rosters in all formats ahead of a Week 3 clash with the Atlanta Falcons.",
+      "link": "https://www.fantasypros.com/nfl/news/609291/skyy-moore-catches-two-passes-week-2.php",
+      "player_id": 23905,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Skyy Moore catches two passes in Week 2"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:30:23",
+      "created_formated": "Sun, Sep 20th 11:30pm UTC",
+      "desc": "Bo Melton failed to catch his only target in the Packers' 20-17 win over the New York Jets in Week 2.",
+      "id": 609290,
+      "impact": "Melton saw minimal involvement as part of an underwhelming Green Bay passing attack, finishing last on the team in targets in the win. The wideout can remain off rosters in all formats ahead of a Week 3 contest against the Atlanta Falcons.",
+      "link": "https://www.fantasypros.com/nfl/news/609290/bo-melton-sees-one-target-week-2.php",
+      "player_id": 24049,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Bo Melton sees one target in Week 2"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:30:10",
+      "created_formated": "Sun, Sep 20th 11:30pm UTC",
+      "desc": "Patriots WR DeMario Douglas caught 1-of-2 targets for nine yards in the Patriots' 20-3 win over the Steelers. ",
+      "id": 609289,
+      "impact": "Douglas saw his target number drop significantly from Week 1, which is a major concern considering A.J. Brown is injured. Douglas is streaming option at best considering the Patriots' passing attack has struggled to open the season.  ",
+      "link": "https://www.fantasypros.com/nfl/news/609289/demario-douglas-held-to-one-reception-week-2.php",
+      "player_id": 25304,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "DeMario Douglas held to one reception in Week 2 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-20 23:27:38",
+      "created_formated": "Sun, Sep 20th 11:27pm UTC",
+      "desc": "Patriots WR Romeo Doubs caught 3-of-4 targets for 96 yards in the Patriots' 20-3 win over the Steelers. ",
+      "id": 609287,
+      "impact": "Doubs had a rough Week 1 but bounced back to lead the Patriots' wide receivers in yardage in Week 2, including an impressive 63-yard reception. With A.J. Brown on injured reserve, Doubs has the opportunity to lead the Patriots' wide receiver room until he returns. Doubs and the Patriots will travel to Jacksonville in Week 3. ",
+      "link": "https://www.fantasypros.com/nfl/news/609287/romeo-doubs-rebounds-after-tough-week-1.php",
+      "player_id": 23794,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Romeo Doubs rebounds after a tough Week 1 "
     }
   ],
   "public_api_limited": true,

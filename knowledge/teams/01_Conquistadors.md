@@ -9,12 +9,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-09-20
+- Last updated from Sleeper exports: 2026-09-21
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 17
+- total_players: 22
+- offense: 18
 - kickers: 1
 - idp: 3
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 752.0
 - championship_lineup_c_avi_avg: 94.00
-- offensive_roster_c_avi_sum: 1135.2
-- offensive_roster_c_avi_avg: 66.78
-- offensive_roster_d_avi_sum: 1276.3
-- offensive_roster_d_avi_avg: 75.08
+- offensive_roster_c_avi_sum: 1154.7
+- offensive_roster_c_avi_avg: 64.15
+- offensive_roster_d_avi_sum: 1329.9
+- offensive_roster_d_avi_avg: 73.88
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 48.6
+- Championship AVI (C-AVI, 0-100): 48.7
 - Dynasty AVI (D-AVI, 0-100): 64.0
 - Projected PPR points: 128.8
 - Category: offense
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 41.0
+- Championship AVI (C-AVI, 0-100): 41.1
 - Dynasty AVI (D-AVI, 0-100): 52.4
 - Projected PPR points: 88.6
 - Category: offense
@@ -277,6 +277,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 38.8
 - Dynasty AVI (D-AVI, 0-100): 49.2
 - Projected PPR points: 99.9
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Xavier Smith
+- Player name: Xavier Smith
+- Player ID: 11168
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: LAR
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 19.3
+- Dynasty AVI (D-AVI, 0-100): 53.6
+- Projected PPR points: 25.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

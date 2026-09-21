@@ -14,16 +14,17 @@
       }
     },
     {
-      "average": 10.5,
+      "average": 9.1,
       "filename": "demario-davis.php",
-      "games": 1,
+      "games": 2,
       "player_id": 11293,
       "player_name": "Demario Davis",
-      "points": 10.5,
+      "points": 18.25,
       "position_id": "LB",
       "team_id": "NYJ",
       "weeks": {
-        "1": 10.5
+        "1": 10.5,
+        "2": 7.8
       }
     },
     {
@@ -40,29 +41,31 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 2.8,
       "filename": "kyle-van-noy.php",
-      "games": 1,
+      "games": 2,
       "player_id": 12171,
       "player_name": "Kyle Van Noy",
-      "points": 1.5,
+      "points": 5.5,
       "position_id": "LB",
       "team_id": "MIN",
       "weeks": {
-        "1": 1.5
+        "1": 1.5,
+        "2": 4
       }
     },
     {
-      "average": 20,
+      "average": 14.1,
       "filename": "zadarius-smith.php",
-      "games": 1,
+      "games": 2,
       "player_id": 14060,
       "player_name": "Za'Darius Smith",
-      "points": 20,
+      "points": 28.25,
       "position_id": "LB",
       "team_id": "ATL",
       "weeks": {
-        "1": 20
+        "1": 20,
+        "2": 8.3
       }
     },
     {
@@ -159,14 +162,15 @@
     {
       "average": 0,
       "filename": "andrew-depaola.php",
-      "games": 1,
+      "games": 2,
       "player_id": 15392,
       "player_name": "Andrew DePaola",
       "points": 0,
       "position_id": "LB",
       "team_id": "MIN",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -222,29 +226,31 @@
       }
     },
     {
-      "average": 34,
+      "average": 23.5,
       "filename": "tj-watt.php",
-      "games": 1,
+      "games": 2,
       "player_id": 16469,
       "player_name": "T.J. Watt",
-      "points": 34,
+      "points": 47,
       "position_id": "LB",
       "team_id": "PIT",
       "weeks": {
-        "1": 34
+        "1": 34,
+        "2": 13
       }
     },
     {
-      "average": 3.8,
+      "average": 5.6,
       "filename": "eric-wilson.php",
-      "games": 1,
+      "games": 2,
       "player_id": 16691,
       "player_name": "Eric Wilson",
-      "points": 3.75,
+      "points": 11.25,
       "position_id": "LB",
       "team_id": "MIN",
       "weeks": {
-        "1": 3.8
+        "1": 3.8,
+        "2": 7.5
       }
     },
     {
@@ -261,29 +267,31 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 2.1,
       "filename": "samson-ebukam.php",
-      "games": 1,
+      "games": 2,
       "player_id": 16734,
       "player_name": "Samson Ebukam",
-      "points": 0.75,
+      "points": 4.25,
       "position_id": "LB",
       "team_id": "ATL",
       "weeks": {
-        "1": 0.8
+        "1": 0.8,
+        "2": 3.5
       }
     },
     {
       "average": 0,
       "filename": "thomas-hennessy.php",
-      "games": 1,
+      "games": 2,
       "player_id": 16847,
       "player_name": "Thomas Hennessy",
       "points": 0,
       "position_id": "LB",
       "team_id": "NYJ",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -301,16 +309,17 @@
       }
     },
     {
-      "average": 20,
+      "average": 13.8,
       "filename": "roquan-smith.php",
-      "games": 1,
+      "games": 2,
       "player_id": 17311,
       "player_name": "Roquan Smith",
-      "points": 20,
+      "points": 27.5,
       "position_id": "LB",
       "team_id": "BAL",
       "weeks": {
-        "1": 20
+        "1": 20,
+        "2": 7.5
       }
     },
     {
@@ -366,29 +375,31 @@
       }
     },
     {
-      "average": 4.5,
+      "average": 5.6,
       "filename": "zaire-franklin.php",
-      "games": 1,
+      "games": 2,
       "player_id": 17563,
       "player_name": "Zaire Franklin",
-      "points": 4.5,
+      "points": 11.25,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
-        "1": 4.5
+        "1": 4.5,
+        "2": 6.8
       }
     },
     {
       "average": 0,
       "filename": "oren-burks.php",
-      "games": 1,
+      "games": 2,
       "player_id": 17590,
       "player_name": "Oren Burks",
       "points": 0,
       "position_id": "LB",
       "team_id": "CIN",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -418,16 +429,17 @@
       }
     },
     {
-      "average": 0,
+      "average": 4,
       "filename": "jake-martin.php",
-      "games": 1,
+      "games": 2,
       "player_id": 17629,
       "player_name": "Jacob Martin",
-      "points": 0,
+      "points": 8,
       "position_id": "LB",
       "team_id": "TEN",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 8
       }
     },
     {
@@ -470,29 +482,31 @@
       }
     },
     {
-      "average": 11.3,
+      "average": 9,
       "filename": "robert-spillane.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18103,
       "player_name": "Robert Spillane",
-      "points": 11.25,
+      "points": 18,
       "position_id": "LB",
       "team_id": "NE",
       "weeks": {
-        "1": 11.3
+        "1": 11.3,
+        "2": 6.8
       }
     },
     {
-      "average": 0,
+      "average": 0.4,
       "filename": "josh-woods.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18140,
       "player_name": "Josh Woods",
-      "points": 0,
+      "points": 0.75,
       "position_id": "LB",
       "team_id": "ATL",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0.8
       }
     },
     {
@@ -523,16 +537,17 @@
       }
     },
     {
-      "average": 10,
+      "average": 9.6,
       "filename": "devin-bush.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18237,
       "player_name": "Devin Bush Jr.",
-      "points": 10,
+      "points": 19.25,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
-        "1": 10
+        "1": 10,
+        "2": 9.3
       }
     },
     {
@@ -549,16 +564,17 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 2.6,
       "filename": "tj-edwards.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18281,
       "player_name": "T.J. Edwards",
-      "points": 0.75,
+      "points": 5.25,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
-        "1": 0.8
+        "1": 0.8,
+        "2": 4.5
       }
     },
     {
@@ -575,16 +591,17 @@
       }
     },
     {
-      "average": 12.3,
+      "average": 12.9,
       "filename": "azeez-al-shaair.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18361,
       "player_name": "Azeez Al-Shaair",
-      "points": 12.25,
+      "points": 25.75,
       "position_id": "LB",
       "team_id": "HOU",
       "weeks": {
-        "1": 12.3
+        "1": 12.3,
+        "2": 13.5
       }
     },
     {
@@ -603,14 +620,15 @@
     {
       "average": 16,
       "filename": "blake-cashman.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18421,
       "player_name": "Blake Cashman",
-      "points": 16,
+      "points": 32,
       "position_id": "LB",
       "team_id": "MIN",
       "weeks": {
-        "1": 16
+        "1": 16,
+        "2": 16
       }
     },
     {
@@ -640,42 +658,45 @@
       }
     },
     {
-      "average": 3,
+      "average": 3.8,
       "filename": "cody-barton.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18542,
       "player_name": "Cody Barton",
-      "points": 3,
+      "points": 7.5,
       "position_id": "LB",
       "team_id": "TEN",
       "weeks": {
-        "1": 3
+        "1": 3,
+        "2": 4.5
       }
     },
     {
-      "average": 20.3,
+      "average": 15.6,
       "filename": "andrew-van-ginkel.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18573,
       "player_name": "Andrew Van Ginkel",
-      "points": 20.25,
+      "points": 31.25,
       "position_id": "LB",
       "team_id": "MIN",
       "weeks": {
-        "1": 20.3
+        "1": 20.3,
+        "2": 11
       }
     },
     {
-      "average": 13.3,
+      "average": 15.5,
       "filename": "bobby-okereke.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18678,
       "player_name": "Bobby Okereke",
-      "points": 13.25,
+      "points": 31,
       "position_id": "LB",
       "team_id": "CAR",
       "weeks": {
-        "1": 13.3
+        "1": 13.3,
+        "2": 17.8
       }
     },
     {
@@ -692,42 +713,45 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 0.4,
       "filename": "cole-holcomb.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18709,
       "player_name": "Cole Holcomb",
       "points": 0.75,
       "position_id": "LB",
       "team_id": "PIT",
       "weeks": {
-        "1": 0.8
+        "1": 0.8,
+        "2": 0
       }
     },
     {
-      "average": 10.5,
+      "average": 10.3,
       "filename": "kaden-elliss.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18716,
       "player_name": "Kaden Elliss",
-      "points": 10.5,
+      "points": 20.5,
       "position_id": "LB",
       "team_id": "NO",
       "weeks": {
-        "1": 10.5
+        "1": 10.5,
+        "2": 10
       }
     },
     {
       "average": 0,
       "filename": "joe-giles-harris.php",
-      "games": 1,
+      "games": 2,
       "player_id": 18765,
       "player_name": "Joe Giles-Harris",
       "points": 0,
       "position_id": "LB",
       "team_id": "CIN",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -796,16 +820,17 @@
       }
     },
     {
-      "average": 19.8,
+      "average": 13.4,
       "filename": "zack-baun.php",
-      "games": 1,
+      "games": 2,
       "player_id": 19238,
       "player_name": "Zack Baun",
-      "points": 19.75,
+      "points": 26.75,
       "position_id": "LB",
       "team_id": "PHI",
       "weeks": {
-        "1": 19.8
+        "1": 19.8,
+        "2": 7
       }
     },
     {
@@ -835,16 +860,17 @@
       }
     },
     {
-      "average": 0,
+      "average": 1.5,
       "filename": "anfernee-jennings.php",
-      "games": 1,
+      "games": 2,
       "player_id": 19288,
       "player_name": "Anfernee Jennings",
-      "points": 0,
+      "points": 3,
       "position_id": "LB",
       "team_id": "NO",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 3
       }
     },
     {
@@ -874,16 +900,17 @@
       }
     },
     {
-      "average": 16.8,
+      "average": 15.5,
       "filename": "alex-highsmith.php",
-      "games": 1,
+      "games": 2,
       "player_id": 19316,
       "player_name": "Alex Highsmith",
-      "points": 16.75,
+      "points": 31,
       "position_id": "LB",
       "team_id": "PIT",
       "weeks": {
-        "1": 16.8
+        "1": 16.8,
+        "2": 14.3
       }
     },
     {
@@ -900,16 +927,17 @@
       }
     },
     {
-      "average": 7.5,
+      "average": 7.8,
       "filename": "patrick-queen.php",
-      "games": 1,
+      "games": 2,
       "player_id": 19421,
       "player_name": "Patrick Queen",
-      "points": 7.5,
+      "points": 15.5,
       "position_id": "LB",
       "team_id": "PIT",
       "weeks": {
-        "1": 7.5
+        "1": 7.5,
+        "2": 8
       }
     },
     {
@@ -994,14 +1022,15 @@
     {
       "average": 0,
       "filename": "jeremiah-trotter.php",
-      "games": 1,
+      "games": 2,
       "player_id": 20632,
       "player_name": "Jeremiah Trotter Jr.",
       "points": 0,
       "position_id": "LB",
       "team_id": "PHI",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -1070,42 +1099,45 @@
       }
     },
     {
-      "average": 6,
+      "average": 4.1,
       "filename": "brenton-cox.php",
-      "games": 1,
+      "games": 2,
       "player_id": 22748,
       "player_name": "Brenton Cox Jr.",
-      "points": 6,
+      "points": 8.25,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
-        "1": 6
+        "1": 6,
+        "2": 2.3
       }
     },
     {
-      "average": 11.5,
+      "average": 16.1,
       "filename": "pete-werner.php",
-      "games": 1,
+      "games": 2,
       "player_id": 22809,
       "player_name": "Pete Werner",
-      "points": 11.5,
+      "points": 32.25,
       "position_id": "LB",
       "team_id": "NO",
       "weeks": {
-        "1": 11.5
+        "1": 11.5,
+        "2": 20.8
       }
     },
     {
-      "average": 4.5,
+      "average": 7.6,
       "filename": "jamien-sherwood.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23194,
       "player_name": "Jamien Sherwood",
-      "points": 4.5,
+      "points": 15.25,
       "position_id": "LB",
       "team_id": "NYJ",
       "weeks": {
-        "1": 4.5
+        "1": 4.5,
+        "2": 10.8
       }
     },
     {
@@ -1122,16 +1154,17 @@
       }
     },
     {
-      "average": 14,
+      "average": 8.1,
       "filename": "divine-deablo.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23208,
       "player_name": "Divine Deablo",
-      "points": 14,
+      "points": 16.25,
       "position_id": "LB",
       "team_id": "ATL",
       "weeks": {
-        "1": 14
+        "1": 14,
+        "2": 2.3
       }
     },
     {
@@ -1164,27 +1197,29 @@
     {
       "average": 0,
       "filename": "nick-niemann.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23271,
       "player_name": "Nick Niemann",
       "points": 0,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
       "average": 0,
       "filename": "isaiah-mcduffie.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23292,
       "player_name": "Isaiah McDuffie",
       "points": 0,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -1201,16 +1236,17 @@
       }
     },
     {
-      "average": 5.3,
+      "average": 15,
       "filename": "christian-elliss.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23367,
       "player_name": "Christian Elliss",
-      "points": 5.25,
+      "points": 30,
       "position_id": "LB",
       "team_id": "NE",
       "weeks": {
-        "1": 5.3
+        "1": 5.3,
+        "2": 24.8
       }
     },
     {
@@ -1253,16 +1289,17 @@
       }
     },
     {
-      "average": 16.5,
+      "average": 29,
       "filename": "devin-lloyd.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23710,
       "player_name": "Devin Lloyd",
-      "points": 16.5,
+      "points": 58,
       "position_id": "LB",
       "team_id": "CAR",
       "weeks": {
-        "1": 16.5
+        "1": 16.5,
+        "2": 41.5
       }
     },
     {
@@ -1306,16 +1343,17 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 1.9,
       "filename": "dmarco-jackson.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23806,
       "player_name": "D'Marco Jackson",
-      "points": 1.5,
+      "points": 3.75,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
-        "1": 1.5
+        "1": 1.5,
+        "2": 2.3
       }
     },
     {
@@ -1348,14 +1386,15 @@
     {
       "average": 0,
       "filename": "jack-sanborn.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23841,
       "player_name": "Jack Sanborn",
       "points": 0,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -1398,16 +1437,17 @@
       }
     },
     {
-      "average": 0,
+      "average": 1.9,
       "filename": "jake-hansen.php",
-      "games": 1,
+      "games": 2,
       "player_id": 24004,
       "player_name": "Jake Hansen",
-      "points": 0,
+      "points": 3.75,
       "position_id": "LB",
       "team_id": "HOU",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 3.8
       }
     },
     {
@@ -1502,16 +1542,17 @@
       }
     },
     {
-      "average": 10.3,
+      "average": 10.5,
       "filename": "trenton-simpson.php",
-      "games": 1,
+      "games": 2,
       "player_id": 24716,
       "player_name": "Trenton Simpson",
-      "points": 10.25,
+      "points": 21,
       "position_id": "LB",
       "team_id": "BAL",
       "weeks": {
-        "1": 10.3
+        "1": 10.3,
+        "2": 10.8
       }
     },
     {
@@ -1594,16 +1635,17 @@
       }
     },
     {
-      "average": 4,
+      "average": 3.1,
       "filename": "ivan-pace-jr.php",
-      "games": 1,
+      "games": 2,
       "player_id": 25452,
       "player_name": "Ivan Pace Jr.",
-      "points": 4,
+      "points": 6.25,
       "position_id": "LB",
       "team_id": "MIN",
       "weeks": {
-        "1": 4
+        "1": 4,
+        "2": 2.3
       }
     },
     {
@@ -1621,29 +1663,31 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.8,
       "filename": "yasir-abdullah.php",
-      "games": 1,
+      "games": 2,
       "player_id": 25455,
       "player_name": "Yasir Abdullah",
-      "points": 0,
+      "points": 1.5,
       "position_id": "LB",
       "team_id": "ATL",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 1.5
       }
     },
     {
-      "average": 2.3,
+      "average": 11,
       "filename": "nick-herbig.php",
-      "games": 1,
+      "games": 2,
       "player_id": 25464,
       "player_name": "Nick Herbig",
-      "points": 2.25,
+      "points": 22,
       "position_id": "LB",
       "team_id": "PIT",
       "weeks": {
-        "1": 2.3
+        "1": 2.3,
+        "2": 19.8
       }
     },
     {
@@ -1739,16 +1783,17 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 1.5,
       "filename": "thomas-incoom.php",
-      "games": 1,
+      "games": 2,
       "player_id": 25878,
       "player_name": "Thomas Incoom",
-      "points": 0.75,
+      "points": 3,
       "position_id": "LB",
       "team_id": "CAR",
       "weeks": {
-        "1": 0.8
+        "1": 0.8,
+        "2": 2.3
       }
     },
     {
@@ -1765,42 +1810,45 @@
       }
     },
     {
-      "average": 18.3,
+      "average": 13,
       "filename": "barrett-carter.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26108,
       "player_name": "Barrett Carter",
-      "points": 18.25,
+      "points": 26,
       "position_id": "LB",
       "team_id": "CIN",
       "weeks": {
-        "1": 18.3
+        "1": 18.3,
+        "2": 7.8
       }
     },
     {
       "average": 0,
       "filename": "smael-mondon-jr.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26114,
       "player_name": "Smael Mondon Jr.",
       "points": 0,
       "position_id": "LB",
       "team_id": "PHI",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
-      "average": 18.8,
+      "average": 20.4,
       "filename": "edgerrin-cooper.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26137,
       "player_name": "Edgerrin Cooper",
-      "points": 18.75,
+      "points": 40.75,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
-        "1": 18.8
+        "1": 18.8,
+        "2": 22
       }
     },
     {
@@ -1831,16 +1879,17 @@
       }
     },
     {
-      "average": 0,
+      "average": 8.4,
       "filename": "cedric-johnson.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26174,
       "player_name": "Cedric Johnson",
-      "points": 0,
+      "points": 16.75,
       "position_id": "LB",
       "team_id": "CIN",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 16.8
       }
     },
     {
@@ -1857,55 +1906,59 @@
       }
     },
     {
-      "average": 17,
+      "average": 15.1,
       "filename": "payton-wilson.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26183,
       "player_name": "Payton Wilson",
-      "points": 17,
+      "points": 30.25,
       "position_id": "LB",
       "team_id": "PIT",
       "weeks": {
-        "1": 17
+        "1": 17,
+        "2": 13.3
       }
     },
     {
-      "average": 2.3,
+      "average": 5.1,
       "filename": "austin-booker.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26313,
       "player_name": "Austin Booker",
-      "points": 2.25,
+      "points": 10.25,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
-        "1": 2.3
+        "1": 2.3,
+        "2": 8
       }
     },
     {
-      "average": 3,
+      "average": 6.5,
       "filename": "jalyx-hunt.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26337,
       "player_name": "Jalyx Hunt",
-      "points": 3,
+      "points": 13,
       "position_id": "LB",
       "team_id": "PHI",
       "weeks": {
-        "1": 3
+        "1": 3,
+        "2": 10
       }
     },
     {
-      "average": 2.3,
+      "average": 1.5,
       "filename": "braiden-mcgregor.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26339,
       "player_name": "Braiden McGregor",
-      "points": 2.25,
+      "points": 3,
       "position_id": "LB",
       "team_id": "NYJ",
       "weeks": {
-        "1": 2.3
+        "1": 2.3,
+        "2": 0.8
       }
     },
     {
@@ -1950,14 +2003,15 @@
     {
       "average": 0,
       "filename": "darius-muasau.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26482,
       "player_name": "Darius Muasau",
       "points": 0,
       "position_id": "LB",
       "team_id": "NE",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -2026,55 +2080,59 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 1.1,
       "filename": "harold-perkins-jr.php",
-      "games": 1,
+      "games": 2,
       "player_id": 27021,
       "player_name": "Harold Perkins Jr.",
-      "points": 1.5,
+      "points": 2.25,
       "position_id": "LB",
       "team_id": "ATL",
       "weeks": {
-        "1": 1.5
+        "1": 1.5,
+        "2": 0.8
+      }
+    },
+    {
+      "average": 3.8,
+      "filename": "danny-stutsman.php",
+      "games": 2,
+      "player_id": 27031,
+      "player_name": "Danny Stutsman",
+      "points": 7.5,
+      "position_id": "LB",
+      "team_id": "NO",
+      "weeks": {
+        "1": 6,
+        "2": 1.5
       }
     },
     {
       "average": 6,
-      "filename": "danny-stutsman.php",
-      "games": 1,
-      "player_id": 27031,
-      "player_name": "Danny Stutsman",
-      "points": 6,
-      "position_id": "LB",
-      "team_id": "NO",
-      "weeks": {
-        "1": 6
-      }
-    },
-    {
-      "average": 0,
       "filename": "mike-green-dt.php",
-      "games": 1,
+      "games": 2,
       "player_id": 27042,
       "player_name": "Mike Green",
-      "points": 0,
+      "points": 12,
       "position_id": "LB",
       "team_id": "BAL",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 12
       }
     },
     {
-      "average": 17,
+      "average": 16.5,
       "filename": "jihaad-campbell.php",
-      "games": 1,
+      "games": 2,
       "player_id": 27051,
       "player_name": "Jihaad Campbell",
-      "points": 17,
+      "points": 33,
       "position_id": "LB",
       "team_id": "PHI",
       "weeks": {
-        "1": 17
+        "1": 17,
+        "2": 16
       }
     },
     {
@@ -2106,14 +2164,15 @@
     {
       "average": 0,
       "filename": "jay-higgins.php",
-      "games": 1,
+      "games": 2,
       "player_id": 27121,
       "player_name": "Jay Higgins IV",
       "points": 0,
       "position_id": "LB",
       "team_id": "BAL",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -2195,16 +2254,17 @@
       }
     },
     {
-      "average": 19,
+      "average": 15.5,
       "filename": "demetrius-knight-jr.php",
-      "games": 1,
+      "games": 2,
       "player_id": 27299,
       "player_name": "Demetrius Knight Jr.",
-      "points": 19,
+      "points": 31,
       "position_id": "LB",
       "team_id": "CIN",
       "weeks": {
-        "1": 19
+        "1": 19,
+        "2": 12
       }
     },
     {
@@ -2352,29 +2412,31 @@
       }
     },
     {
-      "average": 16.5,
+      "average": 14.3,
       "filename": "anthony-hill-jr.php",
-      "games": 1,
+      "games": 2,
       "player_id": 27954,
       "player_name": "Anthony Hill Jr.",
-      "points": 16.5,
+      "points": 28.5,
       "position_id": "LB",
       "team_id": "TEN",
       "weeks": {
-        "1": 16.5
+        "1": 16.5,
+        "2": 12
       }
     },
     {
-      "average": 13.5,
+      "average": 11.1,
       "filename": "gabe-jacas.php",
-      "games": 1,
+      "games": 2,
       "player_id": 27959,
       "player_name": "Gabe Jacas",
-      "points": 13.5,
+      "points": 22.25,
       "position_id": "LB",
       "team_id": "NE",
       "weeks": {
-        "1": 13.5
+        "1": 13.5,
+        "2": 8.8
       }
     },
     {
@@ -2419,14 +2481,15 @@
     {
       "average": 0,
       "filename": "jake-golday.php",
-      "games": 1,
+      "games": 2,
       "player_id": 28181,
       "player_name": "Jake Golday",
       "points": 0,
       "position_id": "LB",
       "team_id": "MIN",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -2563,14 +2626,15 @@
     {
       "average": 0,
       "filename": "namdi-obiazor.php",
-      "games": 1,
+      "games": 2,
       "player_id": 28484,
       "player_name": "Namdi Obiazor",
       "points": 0,
       "position_id": "LB",
       "team_id": "NE",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "2": 0
       }
     },
     {
@@ -2623,6 +2687,97 @@
       "team_id": "MIA",
       "weeks": {
         "1": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "troy-reeder.php",
+      "games": 1,
+      "player_id": 18905,
+      "player_name": "Troy Reeder",
+      "points": 0,
+      "position_id": "LB",
+      "team_id": "NYJ",
+      "weeks": {
+        "2": 0
+      }
+    },
+    {
+      "average": 1.5,
+      "filename": "christian-harris.php",
+      "games": 1,
+      "player_id": 23470,
+      "player_name": "Christian Harris",
+      "points": 1.5,
+      "position_id": "LB",
+      "team_id": "ATL",
+      "weeks": {
+        "2": 1.5
+      }
+    },
+    {
+      "average": 7.8,
+      "filename": "cedric-gray.php",
+      "games": 1,
+      "player_id": 26168,
+      "player_name": "Cedric Gray",
+      "points": 7.75,
+      "position_id": "LB",
+      "team_id": "TEN",
+      "weeks": {
+        "2": 7.8
+      }
+    },
+    {
+      "average": 0,
+      "filename": "tyron-hopper.php",
+      "games": 1,
+      "player_id": 26204,
+      "player_name": "Ty'Ron Hopper",
+      "points": 0,
+      "position_id": "LB",
+      "team_id": "GB",
+      "weeks": {
+        "2": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "jamal-hill.php",
+      "games": 1,
+      "player_id": 26480,
+      "player_name": "Jamal Hill",
+      "points": 0,
+      "position_id": "LB",
+      "team_id": "HOU",
+      "weeks": {
+        "2": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "aiden-fisher.php",
+      "games": 1,
+      "player_id": 28243,
+      "player_name": "Aiden Fisher",
+      "points": 0,
+      "position_id": "LB",
+      "team_id": "HOU",
+      "weeks": {
+        "2": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "erick-hunter.php",
+      "games": 1,
+      "player_id": 28635,
+      "player_name": "Erick Hunter",
+      "points": 0,
+      "position_id": "LB",
+      "team_id": "NE",
+      "weeks": {
+        "2": 0
       }
     }
   ],

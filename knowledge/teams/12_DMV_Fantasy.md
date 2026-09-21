@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1129546394534158336
 - Division: 4
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-09-20
+- Last updated from Sleeper exports: 2026-09-21
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 478.3
-- championship_lineup_c_avi_avg: 59.79
-- offensive_roster_c_avi_sum: 672.5
+- championship_lineup_c_avi_sum: 478.4
+- championship_lineup_c_avi_avg: 59.80
+- offensive_roster_c_avi_sum: 672.6
 - offensive_roster_c_avi_avg: 48.04
 - offensive_roster_d_avi_sum: 874.1
 - offensive_roster_d_avi_avg: 62.44
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jaxson Dart | C-AVI: 65.7 | D-AVI: 75.5
 - RB: Tony Pollard | C-AVI: 64.6 | D-AVI: 75.0
-- RB: Rachaad White | C-AVI: 54.8 | D-AVI: 70.1
+- RB: Rachaad White | C-AVI: 54.9 | D-AVI: 70.1
 - WR: Jalen Coker | C-AVI: 52.3 | D-AVI: 73.4
 - WR: Cooper Kupp | C-AVI: 44.6 | D-AVI: 54.4
 - TE: George Kittle | C-AVI: 89.7 | D-AVI: 83.3
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 54.8
+- Championship AVI (C-AVI, 0-100): 54.9
 - Dynasty AVI (D-AVI, 0-100): 70.1
 - Projected PPR points: 152.6
 - Category: offense

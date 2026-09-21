@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-09-20
+- Last updated from Sleeper exports: 2026-09-21
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 499.1
-- championship_lineup_c_avi_avg: 62.39
-- offensive_roster_c_avi_sum: 890.7
+- championship_lineup_c_avi_sum: 499.2
+- championship_lineup_c_avi_avg: 62.40
+- offensive_roster_c_avi_sum: 890.8
 - offensive_roster_c_avi_avg: 55.67
-- offensive_roster_d_avi_sum: 1134.1
-- offensive_roster_d_avi_avg: 70.88
+- offensive_roster_d_avi_sum: 1134.2
+- offensive_roster_d_avi_avg: 70.89
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jordan Love | C-AVI: 54.9 | D-AVI: 72.4
 - RB: Bhayshul Tuten | C-AVI: 69.1 | D-AVI: 81.2
-- RB: RJ Harvey | C-AVI: 60.3 | D-AVI: 77.4
+- RB: RJ Harvey | C-AVI: 60.4 | D-AVI: 77.5
 - WR: Mike Evans | C-AVI: 73.0 | D-AVI: 80.1
 - WR: Jordan Addison | C-AVI: 64.1 | D-AVI: 81.2
 - TE: Kenyon Sadiq | C-AVI: 60.0 | D-AVI: 79.0
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 60.3
-- Dynasty AVI (D-AVI, 0-100): 77.4
+- Championship AVI (C-AVI, 0-100): 60.4
+- Dynasty AVI (D-AVI, 0-100): 77.5
 - Projected PPR points: 162.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-09-20
+- Last updated from Sleeper exports: 2026-09-21
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -303,7 +303,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
 - Position: DL
-- Fantasy positions: ['DL']
+- Fantasy positions: ['DL', 'LB']
 - NFL team: BUF
 - Active: True
 - Status: Active
