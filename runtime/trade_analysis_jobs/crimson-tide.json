@@ -29,9 +29,308 @@
       }
     },
     "createdAt": 1790028880337,
-    "updatedAt": 1790028881369,
+    "updatedAt": 1790028926236,
     "expiresAt": 1790460880337,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This transaction represents a classic rebuild win for Crimson Tide Pods, trading away 27-year-old running back Chuba Hubbard at peak market valuation following his locked-in volume in Carolina. In return, Crimson Tide Pods acquires a premium liquid future asset in a 2028 1st-round draft pick (D-AVI 79.3) alongside 23-year-old developmental back Kaleb Johnson (D-AVI 48.5). For Corgi Loaf Baking Co., who is actively pushing for a championship run, surrendering a distant pick and bench stash to secure high-volume RB depth behind Cam Skattebo and David Montgomery directly aligns with their win-now mandate. The move nets Crimson Tide Pods a +50.0 long-term D-AVI surplus, providing excellent rebuild leverage without sacrificing structural flexibility.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 27,
+              "cavi": 64.3,
+              "davi": 77.8,
+              "publicMarket": 65,
+              "leagueMarket": 64.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Kaleb Johnson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 23,
+              "cavi": 22.3,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 22.3
+            },
+            {
+              "name": "2028 1st (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods accomplishes its primary organizational goal of accumulating long-term value by turning a 27-year-old RB into a 2028 1st-round pick and a 23-year-old upside project. Corgi Loaf Baking Co. gains immediate starting-lineup and FLEX flexibility for its playoff push."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "AVI endorses the submitted transaction as submitted. The structure delivers ideal strategic symmetry: Crimson Tide Pods maximizes the selling window on Chuba Hubbard while Corgi Loaf Baking Co. pays a reasonable premium for win-now production."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Trades away current weekly points (Chuba Hubbard's 64.3 C-AVI), directly assisting rebuilder draft positioning."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Substantially enriches the long-term asset base with 2028 draft capital and a 23-year-old running back stash."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Temporarily weakens the current active starting lineup by removing a starting RB2/FLEX option."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Exchanges current backfield touches for Kaleb Johnson's multi-year upside in Green Bay."
+            },
+            "flexibilityLiquidity": {
+              "score": 85,
+              "summary": "Gains a highly liquid 2028 1st-round draft pick that can be held or re-traded during the rebuild."
+            },
+            "overall": {
+              "score": 16,
+              "summary": "Nets a +50.0 D-AVI gain and a liquid future 1st-round pick while divesting an aging veteran RB."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Enhances weekly scoring ceiling and lineup stability during a playoff push."
+            },
+            "dynastyOutlook": {
+              "score": -45,
+              "summary": "Surrenders a future 1st-round pick and a young RB prospect."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Immediately inserts Chuba Hubbard into a high-leverage RB2 or FLEX position."
+            },
+            "depthResilience": {
+              "score": 50,
+              "summary": "Protects against potential injuries to Cam Skattebo or David Montgomery during the stretch run."
+            },
+            "flexibilityLiquidity": {
+              "score": -50,
+              "summary": "Reduces future draft pick liquidity by sending out a 2028 1st."
+            },
+            "overall": {
+              "score": -16,
+              "summary": "Acquires secure starting RB volume to boost championship odds at the cost of long-term draft capital."
+            }
+          },
+          "explanation": "Crimson Tide Pods trades short-term scoring for major long-term asset growth and liquidity, advancing their rebuild agenda. Corgi Loaf Baking Co. pays a future pick to fortify their starting roster and injury resilience for a title push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods surrenders 64.3 C-AVI in Chuba Hubbard while taking back 22.3 C-AVI in Kaleb Johnson (-42.0 immediate C-AVI net). For a verified rebuilder, this reduction in immediate scoring aligns with strategic positioning for higher draft picks.",
+          "sideADynastyImpact": "Crimson Tide Pods acquires 127.8 total D-AVI (Kaleb Johnson's 48.5 + 2028 1st's 79.3) while parting with 77.8 D-AVI in Chuba Hubbard, yielding a substantial net gain of +50.0 D-AVI.",
+          "sideARosterImpact": "Removes a 27-year-old starter from the active RB group, replacing him with a 23-year-old backfield stash in Green Bay and adding prime draft capital to the war chest.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. gains +42.0 net C-AVI, adding a dependable RB2/FLEX starter in Chuba Hubbard (175.8 projected PPR points) to strengthen their playoff push.",
+          "sideBDynastyImpact": "Corgi Loaf Baking Co. surrenders -50.0 net D-AVI, converting long-term liquidity into win-now scoring power.",
+          "sideBRosterImpact": "Consolidates bench depth into a reliable starting asset alongside Cam Skattebo and David Montgomery.",
+          "valueAssessment": "The trade is well-balanced across timelines: the rebuilder gains significant dynasty surplus (+50.0 D-AVI), while the contender gains significant championship surplus (+42.0 C-AVI)."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty markets classify Chuba Hubbard as a high-volume win-now asset whose value is heightened by Carolina's backfield health dynamics. Kaleb Johnson is viewed as a Year 2 buy-low upside project following his trade to Green Bay, while future 1st-round picks remain high-demand currency.",
+          "aviVsMarket": "AVI mirrors public consensus: Hubbard holds strong current weekly utility, but his long-term value pales in comparison to a liquid future 1st-round pick plus a young developmental running back.",
+          "relevantContext": [
+            "Chuba Hubbard is locked into heavy early-down work and pass protection in Carolina.",
+            "Kaleb Johnson flashed in Week 2 for Green Bay (8 carries, 32 yards) after being acquired from Pittsburgh, showing ascending role potential.",
+            "Future 1st-round draft picks carry universal market liquidity in 16-team dynasty leagues."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. has a proven track record as an active manager focused on making a playoff push. Acquiring Chuba Hubbard fortifies their RB room with high-volume production.",
+          "packageFit": "The trade fits both managers' needs precisely: Corgi Loaf converts a distant pick into immediate points, while Crimson Tide Pods secures a 1st-round pick and youth.",
+          "lineupReplacement": "Corgi Loaf easily replaces Kaleb Johnson on their bench, while Crimson Tide Pods shifts starting slots toward young upside pieces during their rebuild.",
+          "competitiveWindowFit": "Perfect alignment with both organizational goals: Crimson Tide Pods builds for 2027+, while Corgi Loaf maximizes 2026 title odds.",
+          "positionalScarcity": "Running back volume is highly scarce in a 16-team PPR format, making Hubbard valuable to a contender and allowing Crimson Tide Pods to demand a 1st-round pick return."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 96,
+          "classification": "Highly Realistic",
+          "explanation": "Corgi Loaf Baking Co. is aggressively motivated to increase championship odds and has completed 24 trades in league history. Offering them starting RB volume in exchange for a distant 1st and a bench RB fits their proven front-office tendencies."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "This deal is a textbook rebuild maneuver. Capitalize on Chuba Hubbard's peak volume to lock in a 2028 1st-round pick and a 23-year-old running back project in Kaleb Johnson.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 27,
+              "cavi": 64.3,
+              "davi": 77.8,
+              "publicMarket": 65,
+              "leagueMarket": 64.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Kaleb Johnson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 23,
+              "cavi": 22.3,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 22.3
+            },
+            {
+              "name": "2028 1st (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "You turn a 27-year-old running back into a future 1st-round draft pick and a young upside backfield asset, capturing a +50.0 D-AVI long-term value profit.",
+          "whyOpponentMightAccept": "Corgi Loaf Baking Co. gains a high-volume starting RB in Chuba Hubbard to bolster their playoff push without surrendering active starting assets."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Kaleb Johnson NFL draft 2025 2026",
+          "Chuba Hubbard news 2026",
+          "Kaleb Johnson football team"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc_LDYvML2osbg2v8J_N1ZVz5XIJ_hVr0GpLjjR3Dq7RzM6WLlayIEuyfnqEflzddjiOU7Q870w9IQSt5aDcfWiin-VKF56RmTPHASopRsp5px75t5iFD4vrlC8zKEOIASdG1hiWjs1HF-QRW733A8W8PgcicHXEdIcwavoWn5WU1M0I0LyXthY59NKuLwb7JBKUd1EJeoVT1nEpBGycY=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzmi0As4TyVuvfw6I2H1_vn0B6mMhSPUUMaVZqzSBU2BnQZA3zDUoXoyEMdaXpwe2xmmwaSBW981sqjyNKPJ19R_MsP1tV4J_7B9yibRRUcmhpj0WIChO8tWLikbuJHCK0eQ_7GfinAdyaCA6rEhPR448nQzK5QTjADvNd9XdaaWPMW5DUUx2PAMNtCiU7PRTYkIxu8e5IB_OKqx-4an61gpA1Z9rO",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFeNH-TQyVQXgzbQ26LER_kNmKBziGuKSo_aIWo0ZETWyKFx6Vs4nZKf44qtF6KaQ9VlWH1myRpnFADR-tGLIkcyrUxL0gKSvXjWu_1PHu5qXbpGdvE7n74vAia7bH71O_-YEcNAybpeBMhFM8fDfuonn86fCPJ2_d5Yx2EtrfdlEM3HozMDZYqXyVTB5G3UuglIMXUBQZbYC75js6xESgCbW29Rg9JlL4SsRZTsqXHg67fE8=",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzCKBrxhs0JdpSFl0cN2HTHOJRoQEGgajTxSPWqUuKuaJ7enm4T7qg-YgA8sicDVjkruqhr8J76UDVy3XsjuHZsZzhsldf5cEz6BL3UXFhujdGFhVyLNw5i4Sj4X7KS08uEaMtt7FWMKd_u6USMmwT-HA-dS_iytlWq_SZl3orxKxQ0Fmmo_uunJay46NVwzowalHhriC2PmAEqJUG",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGugcldmvLJsECTB9nWCMGSbx_dWfPJfp9SKsGBq7KHq6ztaP9Jop43g2SiEvsqM546llTsSzFU5VX_rIkL53EA1P_joZeWr4QaMFJY-qRpDsCSj2AEbmayE9qpjzQ3PB3j1Yf1710JIrxlMic_5qjIhO_yc_St35Y0DBeMemwpfrUWAIi3xYBWyvkoB17Nw21enzEd",
+            "title": "catcrave.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIHzOXtv5Zje8PF9I92lxVOSWH2QinMKGbnHen-dQwL1YsYNRZCRr3A3CXiAInm_DlJZByDClOES9zy50YX1E5ykbOVVqAv93Atm-tQqIhOdR0vFKec0l9gyCsZXas0dnbNBIkXfZTN1aU2i4McV60WIvhRiInna1sYlZF3ldigA==",
+            "title": "packers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVNU8alNE3rAoOpG8HGkwj0HVhLyaxillPZjz8BGWONnlnlv85qXwFbIbqd8r-Gw_zKFu1ChxjmhBQIXPSiwL1J5XDWtHYDZPNXXY4skl27Js8FY95-K9MgFejZC4Ux6o",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB5pEo_GzTEpVBqWdVNHG1u4Dd1dAbQJPbOMvf1xOIDBsvae0TB4zrtnnQeT6NU-EF3IPJBNsx5RdlKiz_HZ9MOvMAUwcL6ssQy4s1PT273qc65pAKtBqM4E7cPGAqigdNH2TIYjZomuPFPHfTHKWYlrFWtOlYZbr-ss6BRc7iB3zw1Psxr4rN9n28TSXeffxe-wOqM6dQB_Zr2kxGWJ7dfxEgv1s=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtqrjyF-pn5g338yu93VLUyAHdoOUWDwKT9DM64PqXx5dndzvaHqqlmpNK6-rfprB0UK9-PM0jwDN_fJWIHxO2YW2-WHInDsDBRbAqgZ9QmwrIv-wwX5aSjKUsho5UO78g",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe-0EGY21VIX95aO1jQTWc2URaLHVVkEq1SFokknQ3Lra34yO_okjWo31mAdbEf7FI_ntfX72aspoeYsguIJcmXHKDqc3aDrW-QjV0i3EmYQFRNSH2C0hvvtcBn6aSCso7bvtqp9YaecEEjy5OcHvB8fy6a0I3ANIFRQtfIlqb5uHZ0KgRc51NdQoK3gqKpQ_Yrg==",
+            "title": "packers.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "2cede9c7242d8994bd8cd8d0d00f5dddf328fed3",
+        "aviCoreCommittedAt": "2026-09-21T21:25:31Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 87978,
+        "groundedMarketChars": 2914,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mubsv087-93231a2d",
