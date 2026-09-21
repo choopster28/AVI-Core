@@ -29,9 +29,309 @@
       }
     },
     "createdAt": 1790028684007,
-    "updatedAt": 1790028685236,
+    "updatedAt": 1790028732914,
     "expiresAt": 1790460684007,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This transaction represents an ideal rebuild maneuver for Crimson Tide Pods. By trading 27-year-old running back Chuba Hubbard while his volume is high, Crimson Tide Pods secures a 2028 1st-round draft pick (79.3 D-AVI) alongside young depth back Raheim Sanders. While outgoing C-AVI drops short-term starting lineup points, acquiring future draft capital perfectly aligns with Crimson Tide Pods' explicit Rebuild goal, making this a clear endorsement for the user.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 27,
+              "cavi": 64.3,
+              "davi": 77.8,
+              "publicMarket": 60,
+              "leagueMarket": 65
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2028 1st (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Raheim Sanders",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 14.5,
+              "davi": 22.6,
+              "publicMarket": 20,
+              "leagueMarket": 22
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "C+",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods successfully liquidates a 27-year-old running back into a premium 2028 1st-round pick and a young backfield hold in Raheim Sanders. Corgi Loaf Baking Co. secures high-volume RB depth for its playoff run, but pays a steep future price for a player who functions as an RB3/FLEX option on their roster behind Cam Skattebo and David Montgomery."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "C+",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Accept the offer as constructed. The return of a 2028 1st-round pick provides high future optionality and dynasty appreciation that far outweighs losing current RB production during a rebuild."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -18,
+              "summary": "Removes Chuba Hubbard from the active starting lineup, lowering immediate weekly projection ceiling."
+            },
+            "dynastyOutlook": {
+              "score": 52,
+              "summary": "Captures a 2028 1st-round pick (79.3 D-AVI) while converting an aging RB asset before potential workload decline."
+            },
+            "lineupQuality": {
+              "score": -22,
+              "summary": "Forces a bench running back like Chris Rodriguez into the RB2 slot alongside Jadarian Price."
+            },
+            "depthResilience": {
+              "score": 8,
+              "summary": "Adds Raheim Sanders as a young handcuff following Dylan Sampson's IR stint in Cleveland."
+            },
+            "flexibilityLiquidity": {
+              "score": 65,
+              "summary": "Gains a highly liquid future 1st-round pick that can be held through the rebuild or bundled in future moves."
+            },
+            "overall": {
+              "score": 24,
+              "summary": "Substantial portfolio upgrade for a rebuilding team, shifting short-term running back points into long-term draft liquidity and asset upside."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Bolsters backfield depth behind Cam Skattebo and David Montgomery for the stretch run."
+            },
+            "dynastyOutlook": {
+              "score": -28,
+              "summary": "Surrenders a 2028 1st-round draft pick for a 27-year-old running back."
+            },
+            "lineupQuality": {
+              "score": 4,
+              "summary": "Hubbard does not displace Skattebo (81.6 C-AVI) or Montgomery (72.6 C-AVI) in the starting RB slots, serving instead as FLEX/depth insurance."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Significantly strengthens RB depth behind top starters."
+            },
+            "flexibilityLiquidity": {
+              "score": -35,
+              "summary": "Reduces future draft capital liquidity by sending out a 2028 1st-round pick."
+            },
+            "overall": {
+              "score": -24,
+              "summary": "Slight net asset loss in long-term dynasty value, but gains reliable running back depth and injury insurance for a championship push."
+            }
+          },
+          "explanation": "Crimson Tide Pods accomplishes its goal of converting short-term veteran production into premium draft capital. Corgi Loaf Baking Co. sacrifices future draft currency to shore up backfield depth for a Playoff Push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods forfeits 64.3 C-AVI from Chuba Hubbard, shifting Chris Rodriguez (45.2 C-AVI) into the active starting RB2 slot.",
+          "sideADynastyImpact": "Dynasty portfolio improves markedly by adding 79.3 D-AVI (2028 1st) and 22.6 D-AVI (Raheim Sanders) while trading 77.8 D-AVI (Hubbard), netting +24.1 D-AVI.",
+          "sideARosterImpact": "Fills a bench slot with Raheim Sanders while adding premium draft capital to the future asset sheet.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. adds 64.3 C-AVI in Chuba Hubbard, giving them high-end RB depth behind Skattebo (81.6 C-AVI) and Montgomery (72.6 C-AVI).",
+          "sideBDynastyImpact": "Corgi Loaf surrenders 79.3 D-AVI in future pick capital to secure short-term RB security.",
+          "sideBRosterImpact": "Enhances backfield depth and protects against injury to primary starting RBs.",
+          "valueAssessment": "Clear strategic value win for Crimson Tide Pods based on organizational alignment (Rebuild)."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views Chuba Hubbard as a high-touch floor play whose value peaks during the season when contender injuries strike. Raheim Sanders has seen elevated speculative interest due to Cleveland backfield injuries.",
+          "aviVsMarket": "AVI values the 2028 1st at 79.3, aligning closely with public consensus where future 1st-round picks consistently outvalue 27-year-old RB3/FLEX pieces.",
+          "relevantContext": [
+            "Chuba Hubbard maintains a dominant touch share in Carolina's offense.",
+            "Raheim Sanders has stepped into expanded backup and third-down duties in Cleveland following Dylan Sampson's IR placement.",
+            "Future 1st-round picks serve as liquid dynasty assets for rebuilding franchises."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is executing a Playoff Push and seeking reliable RB depth to protect their championship window.",
+          "packageFit": "The package addresses Corgi Loaf's desire for immediate RB stability, though paying a 1st-round pick for a non-starting RB represents a steep price.",
+          "lineupReplacement": "Corgi Loaf does not lose any starting lineup piece (Sanders is a bench asset). Crimson Tide Pods replaces Hubbard with internal bench options.",
+          "competitiveWindowFit": "Directly advances Crimson Tide Pods' Rebuild horizon while giving Corgi Loaf immediate depth for their Playoff Push.",
+          "positionalScarcity": "Running back depth in a 16-team full PPR league carries substantial trade leverage."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 12,
+            "packageMatch": 10,
+            "lineupReplacement": 15,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 72,
+          "classification": "Realistic",
+          "explanation": "Corgi Loaf Baking Co. may weigh paying a 1st-round pick for RB depth, but as a Playoff Push contender with a history of aggressive trading, securing proven backfield touch volume makes this a realistic proposition."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "As a rebuilding franchise, securing a future 1st-round pick (79.3 D-AVI) for a 27-year-old running back is an optimal outcome. The trade converts short-term points into long-term liquidity and appreciating assets.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 27,
+              "cavi": 64.3,
+              "davi": 77.8,
+              "publicMarket": 60,
+              "leagueMarket": 65
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 1st (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Raheim Sanders",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 14.5,
+              "davi": 22.6,
+              "publicMarket": 20,
+              "leagueMarket": 22
+            }
+          ],
+          "whyUserShouldDoIt": "You acquire a premium future 1st-round pick while cashing in on a 27-year-old RB during a rebuild year.",
+          "whyOpponentMightAccept": "Corgi Loaf secures proven running back volume and insurance to solidify their backfield for a Playoff Push."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Raheim Sanders draft NFL 2026",
+          "Chuba Hubbard fantasy value dynasty 2026",
+          "Chuba Hubbard news 2026",
+          "Raheim Sanders NFL 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCC13a4epobv3RwOrA_3jkVcMsC3unf_dFHyTexemRCcj41LBbUK-Zz94g-_VbQ72u_CmRE6SBiwIOZQCSvnsZph693_mvQwc-d3OkVkYU2Xxt-jU4dI0xDoNOrDU-o2beMHCze1Q2LqV-6Rkxe0jwVbghRCa0V2E5YjzSaB6FPLzNidSHcfv8y0hd5W_xHatM55YE",
+            "title": "catcrave.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa2WyTd_iyf4U5_bgKeGb0qsE0TN8p1TERT3EjC3MXdrdp0lTLgY27FIdJLcSxYlZOaDStnJbW7p3rknuM_CEBUqUfgLRAAyah08WU5XhzGLlmvKxh1Wxvhc80A4FYyErztPB_UrfyOBcxa2lLfsxVVi4Ojt9RMZo8s8CpbsP7QyNM5-OszxXwIHq3G2K5E3-eAVsPc7257KC3npvNoCXirHaneiwxmbt5oe7zkuaPaNaZWqY=",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt0U_mnHRU6Fm0tfEYn05jbfo4PANYRNdoRnGmSSc6O65upLDkZEer-LM84zMxnLGyr-hom9evHvhazgmNIJD9h3_2BSOPEuuuYlzgJlG2bdRIwIxTtT4O4eBwOQnB2pJgStWij_VPs8YmlfRIgSElDboxUyNYrokr96E71_b4Z4GzZnBhTaOkzeMx4KBpCRWmW64GxEhcyrfhQ7br",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKjSOJtG4gVJR-kv7JGYbfHOGxG9Fdfsz7tsZtQHymRN4sA7TZ05PLRL8GZQO_s418TQf4JNCQx1Th-nwM6Mj6_qSvNsAptjoZ9VSKppEiKsbFOggJuHpTURaJPtbeUKfN3l-X8q_CeMFfclxHN7xi0y8VLkJ2QRabzHjOmnmM",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBXN4tKV2a-4D1Lfvh-wPxlyJct5KgGWdyFThGMBNLnaRXKbmIyGeXpjunqGtVMdp3I-jkh0wW29ePeQWRmLQAJY-OWh2dCf5730rFGU8EE9kzhVtGUIn3uIvNNKM5irsYi59U5vItxZAkC-D7Hg7ICjTwTNvs",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwj5hLSZrers30wjDybB_O1KwHcbTNmOAjGzqrv2PzxovbX8qh8cQPT0qVM8YdpYXLR1lC7nQAavXCl94pO4Do7VW3VQyuZpuNBSt7rgzpcpliSZ3zmrfI_3z7dWrFe4JHF-kGxoH4Te9NAkVW",
+            "title": "fantasytradetarget.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmck2Nc9vW8cxzcQZ_kKMqt5o-v2hetka7K50gErnuztmgDNHW0gVGfNHQLbuZZ3MxkgwVZhu35iw8HLZtXhNqLlhH4zQ9SEhzgwEHuZPyh6AMMvPAaSTMAY35OOgzmW1M7W3a3l9cwo6m-HDQoCegwa7FZdr1GQ==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJLqvuX5vI0xZq48StloXPSyoDBslP6MIHWFyRIys4pv3slAd9su24CxrgWCUJSZD9D6rcl9qkCxew2kIXZXoic-MMxZBa4aILmJHcy_nAMY16iTGIy4qXCvT3Zx75KwKPfo3lZtTTDhYUc3P5NPBKn0wHToFCmXuGUUPZXduzSJ3BoBHeALbrcvp6ZzBUC5wjFB-zdF66AkTgwMCpmT8B",
+            "title": "brownszone.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO8v-R5-tECvzb67U6Lch1_gnrsNLpE7KoruWRyaErFoH61qgxolZBXbRFEoPVqURBb-A6qT7ecmkoPPSqOAzsQ2jrCo6Cpe0pFqrGIaanuO81n4f6qNJCL-r1A-B98_8CzY0wzlkgP2QQWU-8zBUNSZrsW9SPgQk2UgghQg4lfj04N9hHNzxAuoBN6Qxg98YX92wEeugyG6fPRzfVwcDwwLFr",
+            "title": "clevelandbrowns.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH380ft0IEk4CjRtFcdL8UZHALsXtVj736SPAiy3GjdOv8JrqF8Lc-FqBopHaNDGQ0F8wDfvA8RmEmhFmoTgV0qR-OIeuQhrnEjjZWwBBprFPlRgPOtHy9qBYqAHgXk74KElg==",
+            "title": "wikipedia.org"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "2cede9c7242d8994bd8cd8d0d00f5dddf328fed3",
+        "aviCoreCommittedAt": "2026-09-21T21:25:31Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 87981,
+        "groundedMarketChars": 2844,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mubsmrjc-1232db5e",
