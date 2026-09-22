@@ -39,8 +39,459 @@
       ]
     },
     "createdAt": 1790086200117,
-    "updatedAt": 1790086201585,
+    "updatedAt": 1790086272755,
     "expiresAt": 1790518200117,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The Conquistadors propose sending RB De'Von Achane and TE Harold Fannin to Ravens Regime in exchange for RB Derrick Henry, TE Kyle Pitts, RB Jacory Croskey-Merritt, and RB Kaytron Allen. For a retooling Ravens Regime franchise, acquiring two elite young dynasty studs in Achane (24.0) and Fannin (22.0) while divesting 32-year-old Derrick Henry and a volatile Kyle Pitts aligns perfectly with their organizational goal, boosting their starting lineup C-AVI at both RB1 and TE. For the Conquistadors, while trading away concentrated youth lowers starting lineup C-AVI slightly (-15.6 points), it successfully accomplishes the user's objective to 'Balance Roster' by capturing immediate win-now rushing production in Henry, securing the entire Washington backfield (JCM + Kaytron) for injury resilience, and maintaining a top-tier TE option in Pitts.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.3,
+              "publicMarket": 95,
+              "leagueMarket": 96.5
+            },
+            {
+              "name": "Harold Fannin",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 22,
+              "cavi": 95.4,
+              "davi": 87.3,
+              "publicMarket": 92,
+              "leagueMarket": 90
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.5,
+              "davi": 87.4,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            },
+            {
+              "name": "Kyle Pitts",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "TE",
+              "age": 25,
+              "cavi": 83.7,
+              "davi": 86.8,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "Jacory Croskey-Merritt",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 25,
+              "cavi": 53.7,
+              "davi": 71.3,
+              "publicMarket": 65,
+              "leagueMarket": 60
+            },
+            {
+              "name": "Kaytron Allen",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 23,
+              "cavi": 31,
+              "davi": 59.8,
+              "publicMarket": 50,
+              "leagueMarket": 45
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "A",
+            "userShare": 46,
+            "otherShare": 54,
+            "advantageFranchise": "Ravens Regime ",
+            "summary": "Ravens Regime secures an exceptional retooling trade, turning an aging RB1 (Henry) and secondary pieces into two cornerstone young talents (Achane and Fannin). Conquistadors sacrifice young upside but successfully diversify their roster, acquiring Henry's massive 2026 scoring, Pitts, and complete command of the Washington backfield."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 20,
+              "summary": "Conquistadors trade concentrated elite youth for depth resilience and win-now backfield insulation."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Derrick Henry provides elite weekly ceiling alongside Bijan Robinson, offsetting the minor C-AVI hit at TE."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Surrendering 24-year-old Achane and 22-year-old Fannin reduces long-term positional ceiling."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Starting 8 C-AVI drops slightly from 751.4 to 735.8 as Pitts replaces Fannin and Henry replaces Achane."
+            },
+            "depthResilience": {
+              "score": 65,
+              "summary": "Acquiring Jacory Croskey-Merritt and Kaytron Allen locks down the entire Washington backfield, providing vital RB depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Receiving four rosterable assets provides multiple future package levers compared to two static pieces."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 45,
+              "summary": "Ravens Regime executes a textbook retooling trade, acquiring two elite young cornerstones."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Starting lineup C-AVI increases as Achane (97.4) upgrades Henry (93.5) and Fannin (95.4) upgrades Pitts (83.7)."
+            },
+            "dynastyOutlook": {
+              "score": 75,
+              "summary": "Pivoting 32-year-old Henry into Achane (24.0) and Fannin (22.0) dramatically elevates long-term franchise trajectory."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Upgrades starting RB1 and starting TE slots simultaneously with high-upside young producers."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Consolidates four roster assets into two high-end starters, thinning bench depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Gains two of the most liquid young assets in 16-team dynasty formats."
+            }
+          },
+          "explanation": "This transaction represents a classic win-win retool trade. Ravens Regime gains significant dynasty value (+75) and immediate starting lineup score (+25) by selling high on 32-year-old Henry. Conquistadors accept a small starting lineup downgrade (-10) in exchange for dramatic depth resilience (+65) and backfield security."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Conquistadors' starting lineup shifts from Achane (97.4 C-AVI) and Fannin (95.4 C-AVI) to Henry (93.5 C-AVI) and Pitts (83.7 C-AVI). Henry is coming off a dominant start to 2026 (144 yards, 3 TDs in Week 1; TD in Week 2) and provides immediate title-contender scoring.",
+          "sideADynastyImpact": "Conquistadors surrender significant long-term dynasty value by moving 24-year-old Achane (96.3 D-AVI) and 22-year-old Fannin (87.3 D-AVI), taking on age risk with Henry (32.0).",
+          "sideARosterImpact": "Conquistadors successfully balance their top-heavy roster by securing both Jacory Croskey-Merritt and Kaytron Allen, giving them total control over Washington's backfield and high-floor RB depth behind Bijan Robinson and Breece Hall.",
+          "sideBChampionshipImpact": "Ravens Regime improves its immediate starting lineup efficiency, replacing Henry with Achane at RB1 (+3.9 C-AVI) and Pitts with Fannin at TE (+11.7 C-AVI).",
+          "sideBDynastyImpact": "Dramatically enhances Ravens Regime's retooling timeline by acquiring two core dynasty studs under age 25.",
+          "sideBRosterImpact": "Consolidates bench depth into high-impact starters, freeing up two roster spots for stashes.",
+          "valueAssessment": "On raw C-AVI, Conquistadors receive +69.1 cumulative C-AVI across 4 assets versus 2, while Ravens Regime receives the two highest-value individual dynasty assets in the trade."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Derrick Henry continues to command elite redraft/win-now trade value despite being 32, following dominant early 2026 usage in Baltimore. Kyle Pitts remains a high-upside dynasty target playing on the franchise tag in Atlanta. Jacory Croskey-Merritt has emerged as Washington's primary back, with rookie Kaytron Allen serving as his direct handcuff. De'Von Achane and Harold Fannin are viewed as top-tier young dynasty dynasty cornerstones.",
+          "aviVsMarket": "Public market heavily discounts Henry due to his age (32), but AVI reflects his elite 2026 championship output (93.5 C-AVI). Fannin's AVI (95.4 C-AVI) reflects his instant breakout role in Cleveland.",
+          "relevantContext": [
+            "Derrick Henry logged 144 rushing yards and 3 TDs in Week 1 of 2026, confirming elite volume in Baltimore.",
+            "Kyle Pitts is playing on a $16M franchise tag in Atlanta, presenting strong buy-low dynasty upside.",
+            "Jacory Croskey-Merritt leads Washington's backfield touches, while rookie 6th-rounder Kaytron Allen provides immediate handcuff protection."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is actively Retooling. Selling a 32-year-old running back for a 24-year-old RB1 and a 22-year-old TE1 fits their exact organizational roadmap.",
+          "packageFit": "The package directly solves Ravens Regime's need for young core cornerstone pieces while satisfying Conquistadors' desire for backfield depth and roster balance.",
+          "lineupReplacement": "Ravens Regime replaces Henry with Achane and Pitts with Fannin, actually upgrading both starting slots pre-to-post trade.",
+          "competitiveWindowFit": "Perfect fit for both teams: Conquistadors maintain a Champion Favorite starting lineup while adding depth; Ravens Regime accelerates its Retooling timeline.",
+          "positionalScarcity": "16-team dynasty formats make starting-caliber RB depth and elite TEs premium commodities."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 81,
+          "classification": "Realistic",
+          "explanation": "Ravens Regime has overwhelming motivation to accept this offer. As a Retooling team, receiving 24-year-old Achane and 22-year-old Fannin for 32-year-old Henry, Pitts, and backup RBs upgrades their starting lineup while providing massive long-term dynasty value. All market reality criteria pass."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal achieves the user's explicit objective to 'Balance Roster' in a 16-team league by converting concentrated youth into win-now scoring (Derrick Henry), tight end stability (Kyle Pitts), and total backfield handcuff control over Washington (JCM + Kaytron Allen). With an 81% Market Reality acceptance score, Ravens Regime is highly likely to accept.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.3,
+              "publicMarket": 95,
+              "leagueMarket": 96.5
+            },
+            {
+              "name": "Harold Fannin",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 22,
+              "cavi": 95.4,
+              "davi": 87.3,
+              "publicMarket": 92,
+              "leagueMarket": 90
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.5,
+              "davi": 87.4,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            },
+            {
+              "name": "Kyle Pitts",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "TE",
+              "age": 25,
+              "cavi": 83.7,
+              "davi": 86.8,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "Jacory Croskey-Merritt",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 25,
+              "cavi": 53.7,
+              "davi": 71.3,
+              "publicMarket": 65,
+              "leagueMarket": 60
+            },
+            {
+              "name": "Kaytron Allen",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 23,
+              "cavi": 31,
+              "davi": 59.8,
+              "publicMarket": 50,
+              "leagueMarket": 45
+            }
+          ],
+          "whyUserShouldDoIt": "You diversify your top-heavy roster into four usable assets, capturing Derrick Henry's elite win-now scoring while securing full depth and insurance across Washington's backfield behind Bijan Robinson and Breece Hall.",
+          "whyOpponentMightAccept": "Ravens Regime is Retooling and gets two premier young cornerstones (Achane, 24; Fannin, 22) while upgrading their active starting lineup at both RB1 and TE."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 97.4,
+              "davi": 96.3,
+              "publicMarket": 95,
+              "leagueMarket": 96.5
+            },
+            {
+              "name": "Harold Fannin",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 22,
+              "cavi": 95.4,
+              "davi": 87.3,
+              "publicMarket": 92,
+              "leagueMarket": 90
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.5,
+              "davi": 87.4,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            },
+            {
+              "name": "Kyle Pitts",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "TE",
+              "age": 25,
+              "cavi": 83.7,
+              "davi": 86.8,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "Jacory Croskey-Merritt",
+              "assetType": "player",
+              "owner": "Ravens Regime ",
+              "position": "RB",
+              "age": 25,
+              "cavi": 53.7,
+              "davi": 71.3,
+              "publicMarket": 65,
+              "leagueMarket": 60
+            },
+            {
+              "name": "2028 Round 2 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime ",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 50
+            }
+          ],
+          "rationale": "If Ravens Regime prefers to hold rookie Kaytron Allen, swapping Allen for a future 2028 2nd-round pick preserves equal asset value for Conquistadors while adding future trade liquidity."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Kaytron Allen football 2026 NFL draft or college",
+          "Derrick Henry news 2026 NFL",
+          "Jacory Croskey Merritt football",
+          "Kyle Pitts news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHREwoZf4YogSu7sNNQjJqbvuZl8IxRzMTj9G1rwf1Xmb1PTA8V-UEyGO8hoOSAHl1n27nPLqIQcaIaiKReEwIb_k3WNq-ii2hMrojuXo52j9OPesykzG4lOXK56TDh6zFOkw_DltBlnaCpTH39zCfBquAY4VLNPjFgmpyqS4pTIsslkQVIKtlDjZ0W9_nuLmYjPXUBcJHWnt4rCw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfOnWdvFYWTDq2p_4DNkSzY4mOt9XypcYKoKK1wflWGoPXoHMyLgIio8WxFhWahoWE2PzW17wzafDYDOG1lUCUuADrKGjPqhGaImDTVlDMl-fMtuiRo11UJbquGmONrD8CpvpMBOskQNtmxLeIlAQ43VE_RUOzDPAJu6IfmMMeFWarvnGV7HQUzOGhJCaMmKvuVz900ji6jw6g8wP0y4wrpbiY_jun6Gk2TYvR",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHxWylniWtsoGBHmZgKfesOwt1LTZd6HyCxiinGZDAT9J8jdBwodPZrvV4_OcNvHP2bJYUMRxjSQfymFAVj9sLDllhjDwD-fnjn47iAHP4jIvWG2zWr-pi9A1aIWRauDy34-BR8kz0Aw==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwUi_men9pxpJVJUkoH4qhGEH4qdbOysxqF_QUccoAooCbHcogSTOaJPSAf3ov2ITLd0B5LJGGDVN050lo21C7YzDSITnQS1olpbRQQopKRl5P3AQk5AeHnjyB-KQcFFR1Ev_sGM0dMCOG",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVJGxPGDUraSTDpJk38ejcqMlgCFyj1vh9pFTZQTUA_kzAYFJck7d6ah6l57uy48qA0V6s_fNkulJZpJqaYBt7C6r09rISr2f2qYTNyRbLrg4iSyHUJpDo507ui6XhRf_KoeMKgpVtt_0ODpQKusHiduqVJmpcRQQWJioYzGEXHML4Zuol",
+            "title": "arizonawildcats.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeQB93cNPaCHwIiES_gmjcNoWQO32ohgbTiGlMs3HO7_MksRx_KhA0XMYGYM_H11sbQL0eQstY9tEOiEITlMXpaRIbrmaidc_NeuVpyMjF2-EiTsFtDnWs5pcGAjzyufEXbZi7WxDcticwdyCPRSwOAtFigJzqVD2ZL324t1KT62kKKf9leJ5o36MLANmgrqKoK1VhWY09M_sTceB1MNFegy-Wm_1wU2sLy0BC0hLXZHAW-sGslE1y827ORw==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjBrw4RsCYygkSI-0QBT1d5O3b5B74eMjI_v2O7kuOKCgDx8PkA7cYqmTIhvEb1VYlrpST_lG48GO9GHDOadNcHIfobTAj6erYbfAAiwnFgiMaF7WqlX0tDeNL74ketorM",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRClO8eJ_GbLyGV-x4qgWo0tjbwMChqzJLMpmttMr5W3nWmaqNnu5C-1sMT2fJJ_lVRHaVWF61mYIkbG8VMyiUmrxNWfXQlamhacypP_MbCgfvrzzJsIf3pt0B53pAfYbhN2_gDzWmzTOANKEZZPzGqz4K8o5T1F8vgMKX5m6oRsYTPFbB9TCsq5WLx4NavA==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8tDM4MZauZVpRVfb9T3Ow_VMxxAKlo4J3dJcwFQBKs8qvlfANEiqO03VUmdPlGzj0q-xeApc979i13m_5pWXjULV5nMDBHTSDxiexrz6yC-6N_R_xc-J2f2YzmTSi20FzoTRb3pf-0sjQWNf82o8-hsBKHQ3M2uxo3v3L5XLQaxMiqd_2Id0n10i-UCoAKIPGD-tpwgDmnZcga2hOrOUJBq03Mk1kvW0eFh_83uMMrEYQie1KskDe5A4EWbrVg7VDzg==",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeWgi3HSZ6IAXyhvjAa5S0Yj097iL8W0P4CODb5ngLMRYn1A8ZBwUviPv-x91P3biZqYO0v6a1-m_rnw4JNN02e0ha8G2ruU9XV01CbvlZ_zelnWYh_JtUC4an_Lg0EjcMn86eGmgYpUhaFJA6b_W8xb0XufkZbztdVIYIqL2i",
+            "title": "commanders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWO4aONiSWIQBS04AqaHnB2Y-NRuQXa2uHIhqYAQ1GjHjHEOSbfwT_AHyJKMVb6EszlBPvJY6tQzIh3aoUbziZU2kWvQIrk5lZdbr7UwC2qstI3n1pW7AjfsbSEcEROdR85Di0LpyoIIdGdxz-GcbqGzxh6g==",
+            "title": "nfldraftbuzz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVWsC7UsYJb5qxZjjqGMg18MAjvbz6Wr-vZ6iJ4WlDU-zDJ4T_8WjlNBKQznkGsUpvPQjODCMX6Z2WHK4Z2VEohKAdccxz2XcAo_WTO2T28Zg3awwpxCLT0FvWGg56Hp0fB1qWrIqq14BZTjPWZf8rv5UfUcZayLOmzA==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVn_jcIxx0UqQrKMzzEVgw01JzOfvWuIceOHnnKCxwQXDNmsrgJCDSVaquLKK9kAkqaWQqQjO7CNeqwSTNOEuQjmJ4Yi2eIeDYqg54-SBcXomd6_F13gy-o5WvVM6tke3BBuaFmJpvu6AOdyQyxYC_rB94WqLFPUf2mXszbA1KdKGaVfxXRsQa52OY83DWCWAX4pk96rj0qX2V22Nh",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz26WPXU0jTZOREw7NbR7T3lDOD8lnUdiDoWtUlo3wTZZ-htxnr1pLQUsW7nZdo69Ki-Q8KfcgNiOm0FkdGdcGfpG7FJ3mpUKSOpvtgXEcQjsW6vCogGqD9YkTtPguYUGIUo00DdcxUqOubIMTtqHX4XhBpcGrUlrEPKUQKVkTIFDjwOtj",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhtpwF51rMXp9kH_jomSNUuvixwYL7KMzhA9KbxFTx0fCueBFrs27gPiYCh3PLQSl6l1esz7uuBLUG9YtGB37BqjO5TYMiZvznK0V0ZLFkOJ1elxRfAkWil7mVpcQlS7ceZGp-sHBaIE5G8OwfjnxVmu5LVVPtLEkesSRozyXR6harAY6GhDJKpJyENcZUM0hK",
+            "title": "thefantasyfootballers.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "74aea74bea904b398fddf71ed45279b894d1a905",
+        "aviCoreCommittedAt": "2026-09-22T13:47:08Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 84940,
+        "groundedMarketChars": 3384,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
