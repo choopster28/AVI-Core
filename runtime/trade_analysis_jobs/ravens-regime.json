@@ -23,9 +23,330 @@
       ]
     },
     "createdAt": 1790113768181,
-    "updatedAt": 1790113769893,
+    "updatedAt": 1790113858001,
     "expiresAt": 1790545768181,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Ravens Regime's proposed straight-up offer of Isaiah Likely for Kenyon Sadiq lowers 2026 starting FLEX production (-11.0 C-AVI) for a roster that already features Kyle Pitts at TE1, directly contradicting its 'Increase Championship Odds' goal. However, revising the offer into a 2-for-2 transaction—sending Likely and a 2028 2nd-round pick for Sadiq and veteran WR Stefon Diggs—creates a mutually beneficial structure. Ravens Regime gains immediate starting WR/FLEX scoring (Diggs, 164.6 projected PPR pts) to protect 2026 title odds while acquiring Sadiq's elite long-term TE ceiling, while retooling Northside Kings offloads a 32-year-old receiver to gain future pick capital and a prime 26-year-old TE starter.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 26,
+              "cavi": 73.3,
+              "davi": 80.3,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Kenyon Sadiq",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "TE",
+              "age": 21,
+              "cavi": 62.3,
+              "davi": 77.1,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C-",
+            "otherGrade": "B-",
+            "userShare": 38,
+            "otherShare": 62,
+            "advantageFranchise": "Northside Kings",
+            "summary": "Straight-up swap surrenders starting FLEX production (-11.0 C-AVI, -31.1 PPR points) for a contender that already rosters Kyle Pitts, directly degrading short-term championship odds."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Adding Stefon Diggs and a 2028 2nd-round pick preserves 2026 starting FLEX points for Ravens Regime while supplying retooling Northside Kings with draft liquidity and a prime 26-year-old TE."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -15,
+              "summary": "Submitted trade reduces immediate starting FLEX production and lowers 2026 win-now score."
+            },
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Loses 161.0 projected PPR points at FLEX for a lower-projecting rookie TE (129.9 PPR pts)."
+            },
+            "dynastyOutlook": {
+              "score": 10,
+              "summary": "Acquires a 21-year-old 1st-round athletic TE prospect in Sadiq."
+            },
+            "lineupQuality": {
+              "score": -20,
+              "summary": "Starting FLEX slot drops from 73.3 C-AVI to 62.3 C-AVI."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Decreases proven TE/FLEX depth behind Kyle Pitts."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Neutral draft capital effect."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 15,
+              "summary": "Gains an immediate starter at TE with higher current C-AVI and D-AVI."
+            },
+            "championshipOutlook": {
+              "score": 20,
+              "summary": "Upgrades starting TE slot from 62.3 C-AVI to 73.3 C-AVI."
+            },
+            "dynastyOutlook": {
+              "score": -5,
+              "summary": "Swaps 21-year-old rookie TE for 26-year-old prime TE."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "TE position gains +11.0 C-AVI and +31.1 projected PPR points."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds proven receiving depth alongside TJ Hockenson."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Neutral draft capital effect."
+            }
+          },
+          "explanation": "The submitted 1-for-1 trade transfers immediate scoring value to Northside Kings while degrading Ravens Regime's FLEX production, creating a negative overall impact for a win-now contender."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Ravens Regime suffers a -11.0 C-AVI drop in its active FLEX slot, reducing 2026 projected PPR points by 31.1.",
+          "sideADynastyImpact": "Gains 5 years of age flexibility at TE (21 vs 26), but D-AVI changes minimally from 80.3 to 77.1.",
+          "sideARosterImpact": "Leaves Kyle Pitts as the sole proven TE producer while moving Sadiq into a bench/FLEX role.",
+          "sideBChampionshipImpact": "Northside Kings boosts TE C-AVI from 62.3 to 73.3, improving weekly projection by +31.1 PPR points.",
+          "sideBDynastyImpact": "Acquires a 26-year-old TE with an 80.3 D-AVI rating, providing immediate high-end starter stability.",
+          "sideBRosterImpact": "Strengthens TE starter quality above TJ Hockenson and solidifies weekly lineup baseline.",
+          "valueAssessment": "Isaiah Likely holds higher current C-AVI (73.3 vs 62.3) and D-AVI (80.3 vs 77.1) due to proven NFL production and prime age (26), making a straight-up deal value-negative for Ravens Regime."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty market views Kenyon Sadiq as a high-upside 1st-round rookie draft pick with elite physical traits (4.39 40-yard dash), while Isaiah Likely is viewed as a surging 26-year-old TE starter in NYG.",
+          "aviVsMarket": "Public dynasty consensus often places a premium on Sadiq's rookie hype and raw traits, whereas AVI grounds valuation in proven target share and 2026 projections where Likely leads 161.0 to 129.9 PPR points.",
+          "relevantContext": [
+            "Kenyon Sadiq was selected 16th overall by NYJ in the 2026 NFL Draft after running a 4.39 40-yard dash.",
+            "Isaiah Likely is 26 years old and projected for 161.0 PPR points as a primary receiving option.",
+            "Rookie TEs historically face learning curves, creating redraft volatility for win-now contenders."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Northside Kings is retooling and open to optimizing roster construction, but trading a 21-year-old 1st-round TE straight up requires an offer that matches their retooling timeline.",
+          "packageFit": "A 1-for-1 TE swap is redundant for Ravens Regime (who already rosters Kyle Pitts) and incomplete for Northside Kings without pick capital.",
+          "lineupReplacement": "Northside Kings easily replaces Sadiq with Likely at TE, while Ravens Regime downgrades FLEX production.",
+          "competitiveWindowFit": "Ravens Regime is in a Playoff Push window; surrendering current points hurts 2026 title odds.",
+          "positionalScarcity": "TE scarcity in a 16-team PPR league makes proven 160+ PPR point producers like Likely valuable starting assets."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 12,
+            "packageMatch": 12,
+            "lineupReplacement": 15,
+            "competitiveWindow": 6
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 65,
+          "classification": "Stretch",
+          "explanation": "Kenyon Sadiq is unlisted on the public trade block (Unknown availability). Northside Kings is retooling and unlikely to accept a straight 1-for-1 TE swap without draft capital or package adjustments that fit their roster timeline."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Kenyon Sadiq is unlisted on the public trade block (Unknown availability). Northside Kings is retooling and unlikely to accept a straight 1-for-1 TE swap without draft capital or package adjustments that fit their roster timeline.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 26,
+              "cavi": 73.3,
+              "davi": 80.3,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ],
+          "receive": [
+            {
+              "name": "Kenyon Sadiq",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "TE",
+              "age": 21,
+              "cavi": 62.3,
+              "davi": 77.1,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2028 Round 2 (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Northside Kings",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "If Northside Kings prefers to keep Diggs, receiving Sadiq plus a 2028 2nd-round pick compensates Ravens Regime for the C-AVI loss at FLEX and provides draft liquidity to address WR/RB starting depth separately."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Kenyon Sadiq is unlisted on the public trade block (Unknown availability). Northside Kings is retooling and unlikely to accept a straight 1-for-1 TE swap without draft capital or package adjustments that fit their roster timeline.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Northside Kings is retooling and open to optimizing roster construction, but trading a 21-year-old 1st-round TE straight up requires an offer that matches their retooling timeline."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "A 1-for-1 TE swap is redundant for Ravens Regime (who already rosters Kyle Pitts) and incomplete for Northside Kings without pick capital."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Ravens Regime is in a Playoff Push window; surrendering current points hurts 2026 title odds."
+            }
+          ],
+          "opponentPerspective": "Northside Kings is retooling and open to optimizing roster construction, but trading a 21-year-old 1st-round TE straight up requires an offer that matches their retooling timeline.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "A 1-for-1 TE swap is redundant for Ravens Regime (who already rosters Kyle Pitts) and incomplete for Northside Kings without pick capital.",
+          "whatWouldNeedToChange": [
+            "Northside Kings is retooling and open to optimizing roster construction, but trading a 21-year-old 1st-round TE straight up requires an offer that matches their retooling timeline.",
+            "A 1-for-1 TE swap is redundant for Ravens Regime (who already rosters Kyle Pitts) and incomplete for Northside Kings without pick capital.",
+            "Ravens Regime is in a Playoff Push window; surrendering current points hurts 2026 title odds."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Kenyon Sadiq scouting report news",
+          "Kenyon Sadiq NFL draft team",
+          "Kenyon Sadiq football",
+          "Kenyon Sadiq 2026 fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM-1ysgwwfboSyl-cqYQjIw792E9vBUTfgg4Wwwcg0tasQwaWQcQqLaD7zoGo1FU7zREn0KLhHcPi3U4CLyOB1KT1bTfvkHSVsRuyjvch-x3f6hE4pI7uu6-wytTiUsqproJy52UrM50fKMVD4w7J-Rx_e",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECEEdyTAz0lPMfHiYl8PMztgVTnluaT3VSXfOU8XXuLvyIYqMdhJdpLiJhPyCzuMAc1FMocOn3qyIHkrq3T9Gbn6glRAIxIMqZGvI_HOtnFLdbgJ49H5r_KluIBEcW-GY=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhhZOfwVrnWmTRpUyD7dtOl5ynFwP9DpINiq6c87ED1QSgMDSaHHXt0M_MOp5J_gLOCwcFeF4Uj1kzPw-XCEpWAvqxW7EXEYur7bBf5DLpgwlX3JDrmvtic69EQboftoUlV8ji21eDGfuCBKsfyzejHZkXZyGPQt1lRTp1-zEcdQpqH3y587cATiWwCD4JO9MGCyHyrMbLWzTb88sy5qe19Q==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmAh393Qpc7lAcn71PHoQ-GVf3L1MRK5qXScbrVWnyGUKCsgHCG4quseaDAVWQd6hh6jR7IQSIVPVgyqZT3r-Zew4dIZj5eSitxJ3Yj4_wFqE47leo5PBUn1QcjTGlKAzlmoO3hnfzEtNkbwQRxxIFSZFC",
+            "title": "goducks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhljSJwKcOuYvUKIAbvs6UV5FIlw0cYAt2xFTeQtVbyJ2dH_-wmyDFsex70dsJNXYv7ebrBJGUVRf6OWumE6C38GiG3ib8poawk88k4yCPCSDs-FhP9p9qD1ItgRqvZJjuKwfrn8NVv4yJ",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT-SPyUH5WRpbmAorFVHfawx1UG1yS9wu5nhchVi9C055xETYsUnSl4io17ZASbLt7P-UOo-17d-E4y7MLEoNdLntDwQ6OSqSYf1brkGAm8gS9YVC2hwgshhT1CNlNnL5L5qvqj-ndVpqWm8c2LJH0_YKtsLcUV1wBbr9LmGpUvNu24LAO6N2TmhWSlALZmj2PpYeg",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqgvXxHo9goow2Xpn8CIiERCrV_xncsoz-8hdVU_pJr1JrI1CP7ZSWssu5X8nl7YmoI9UdOteIpOOeZ4l2OkmIl4eiu03cnA7OwsMrJ-QPfrvTXCsrpKhotViTWNlhA3N3tqw0WX58Z63IvBypFQNY",
+            "title": "nfldraftbuzz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE_lNkxOeXrRlNxonyNH8FoBV4eulC3JYClaJDxKxzJMqzJq57MbvXQ7MsbkNRKoSt3VrjgQKPH0SOkl2pwQwSrZ2kIWLLFyNoOWWpBA15qa7VJyOp5DRRNrKTksRaaiZlconHu-_avI4AATzPhxVGKHhUqAfKoNu8sJPoUiDs8aRHwL4rJigPltpcjyIdCMr9Q4wMSHFIDdQ=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ1VYOpbR8gtsl66e3aDYhshCw6C4hnGIKR_6qzZpdGIypdhVUhcMmNuEiyEI02t-AN6-ycxYlVlfFlJpFtB3vLwCfZvw-YNV3kA6EsILj8MpIOSodNX2mp7lCx2GpF_-6047k3m-EgwZGABBx0-OyS3pTuc2FSdHVAM-ru6inIeF8l_o4QU32TiRK6M3f0kNWFDdv8SlG0CM=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1drg1opmQ8s3iSuRy1VfgBqFvxUyM0tYy4JspAhYSPnc-BSmgA-n-IX3CAs73B-fwCYNr8kULRGt5IUMXA4n5gXrtnSh29cjNcEoFBESNd1sYDcQF-zUtQc3i7-WSai2UycikRVNQ6NTOJ287Vc-VD88arQjJPTmnNNU=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkCnAo3PXrlV9mv4-1vgtP3w4_QxBlMdlp6HKDVw1qKPVsXjM_jFpGxH_p2IWvc2TSO0NKZsSbH6vQ25HVhPn3jryxLchbFj3EY3km6Z-Bzy2V42TGWPStz5fr40NNi7jAvXMoiEapWc5m_ihF2NBLrKIVZJ5fVbA-Zkg5jygvAA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAvTo1TSaR1rBUlv-RDO5hs9e6b9K77L_EYmquGBNMcxin_qZQx8oat5dRfNW6J40y5xCM2DAheWWU0kuR3fdKpt8yzsNHpSAteMwBNELB_ABodyOB6RC9CFTRc7fkGG7NdgxbVtVPizSiktd7nnC--bKMMkNXhJAyGRzxUoc=",
+            "title": "newyorkjets.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "e81e49a7fd591867d5f2dcc34566efefab5b3664",
+        "aviCoreCommittedAt": "2026-09-22T18:25:34Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82310,
+        "groundedMarketChars": 2056,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mucu8q9o-3b23d451",
