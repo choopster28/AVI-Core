@@ -39,9 +39,403 @@
       ]
     },
     "createdAt": 1790091470076,
-    "updatedAt": 1790091471362,
+    "updatedAt": 1790091543320,
     "expiresAt": 1790523470076,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand proposes trading RB Jeremiyah Love and RB Tyler Allgeier to Ravens Regime in exchange for RB Derrick Henry, TE Kyle Pitts, RB Jacory Croskey-Merritt, and RB Kaytron Allen. While Big Balder Brand seeks to increase championship odds during a Playoff Push, this submitted 4-for-2 demand is heavily unbalanced against retooling Ravens Regime, surrendering 261.9 C-AVI and 305.3 D-AVI for only 131.8 C-AVI and 159.7 D-AVI. Asking Ravens Regime to give up starting RB1 Derrick Henry AND starting TE1 Kyle Pitts alongside backfield depth creates catastrophic starting holes at TE and RB. AVI recommends revising the offer to send Jeremiyah Love and Tyler Allgeier for Derrick Henry and Jacory Croskey-Merritt, creating an ideal win-win transaction aligned with both franchises' strategic goals.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 83.6,
+              "davi": 92.4,
+              "publicMarket": 88,
+              "leagueMarket": 88
+            },
+            {
+              "name": "Tyler Allgeier",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 26,
+              "cavi": 48.2,
+              "davi": 67.3,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.5,
+              "davi": 87.4,
+              "publicMarket": 90,
+              "leagueMarket": 90
+            },
+            {
+              "name": "Kyle Pitts",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 25,
+              "cavi": 83.7,
+              "davi": 86.8,
+              "publicMarket": 82,
+              "leagueMarket": 82
+            },
+            {
+              "name": "Jacory Croskey-Merritt",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 53.7,
+              "davi": 71.3,
+              "publicMarket": 62,
+              "leagueMarket": 62
+            },
+            {
+              "name": "Kaytron Allen",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 23,
+              "cavi": 31,
+              "davi": 59.8,
+              "publicMarket": 45,
+              "leagueMarket": 45
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D+",
+            "otherGrade": "F",
+            "userShare": 85,
+            "otherShare": 15,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted proposal is extremely lopsided. Big Balder Brand asks for four startable assets (including two primary positional anchors) while offering only two running backs. Ravens Regime suffers a massive deficit in total C-AVI (-130.1) and total D-AVI (-145.6), making acceptance impossible."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Revising the package to send Jeremiyah Love and Tyler Allgeier for Derrick Henry and Jacory Croskey-Merritt aligns both franchises' organizational goals. Big Balder Brand secures a high-volume RB1 in Henry for an immediate championship run, while retooling Ravens Regime secures a 21-year-old cornerstone RB in Jeremiyah Love."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -35,
+              "summary": "Submitting an unrealistic four-for-two overreach stalls negotiations and fails Market Reality checks."
+            },
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Fails to execute a realistic transaction that improves starting lineup output until the proposal is restructured."
+            },
+            "dynastyOutlook": {
+              "score": 10,
+              "summary": "Targets strong overall assets, but demands far too much value relative to assets offered."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Does not achieve immediate starting lineup improvement as currently constructed."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Consolidates demands without offering adequate counter-value to establish trade dialogue."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Ties up trade assets in an unviable proposal that will be rejected by the trade partner."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -75,
+              "summary": "Ravens Regime suffers a severe loss in total lineup output, losing starting RB1 Derrick Henry and starting TE1 Kyle Pitts."
+            },
+            "championshipOutlook": {
+              "score": -80,
+              "summary": "Dramatically reduces weekly scoring capability by surrendering 261.9 C-AVI for 131.8 C-AVI."
+            },
+            "dynastyOutlook": {
+              "score": -40,
+              "summary": "Surrenders 305.3 total D-AVI across four players while receiving only 159.7 D-AVI."
+            },
+            "lineupQuality": {
+              "score": -85,
+              "summary": "Creates critical starting holes at TE1 (Kyle Pitts) and RB1 (Derrick Henry)."
+            },
+            "depthResilience": {
+              "score": -60,
+              "summary": "Strips backfield depth by losing Jacory Croskey-Merritt and Kaytron Allen."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Consolidates four usable assets into two without receiving premium draft capital or equivalent value."
+            }
+          },
+          "explanation": "The submitted offer is completely unviable for Ravens Regime. Big Balder Brand must revise the request to target a realistic subset of assets—specifically Derrick Henry and Jacory Croskey-Merritt—to make the trade mutually beneficial."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand would gain +130.1 C-AVI if accepted, adding Derrick Henry (93.5 C-AVI) to partner with Saquon Barkley at RB, plus Kyle Pitts (83.7 C-AVI) and Jacory Croskey-Merritt (53.7 C-AVI) for FLEX/depth.",
+          "sideADynastyImpact": "Gains +145.6 D-AVI, acquiring young assets in Pitts (25.0), Croskey-Merritt (25.0), and Allen (23.0) alongside Derrick Henry.",
+          "sideARosterImpact": "Significantly strengthens RB and TE depth, giving Big Balder Brand an elite championship baseline in a 16-team format.",
+          "sideBChampionshipImpact": "Ravens Regime loses -130.1 C-AVI, stripping away top weekly starters Derrick Henry (278.4 projected points) and Kyle Pitts (180.6 projected points).",
+          "sideBDynastyImpact": "Gains 21-year-old Jeremiyah Love (92.4 D-AVI), providing a premier long-term dynasty RB anchor, but loses -145.6 net D-AVI overall.",
+          "sideBRosterImpact": "Leaves a massive hole at starting TE (forcing Isaiah Likely into TE1) and guts RB depth down to Kyle Monangai and Jeremiyah Love.",
+          "valueAssessment": "Extremely lopsided in favor of Big Balder Brand (+130.1 C-AVI / +145.6 D-AVI). Requires immediate revision to achieve realistic market probability."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Derrick Henry continues to deliver elite RB1 fantasy production for Baltimore (4 TDs in first 2 games of 2026). Kyle Pitts secured a 3-year extension with Atlanta and gets Michael Penix Jr. back at QB in Week 3. Jacory Croskey-Merritt has seized the primary early-down workload in Washington (16 carries in Week 1), while Kaytron Allen is a developmental rookie runner.",
+          "aviVsMarket": "Public market consensus treats Derrick Henry as a win-now elite RB1, Kyle Pitts as a high-upside dynasty TE1 bouncing back from early QB turbulence, and Jeremiyah Love as an elite 21-year-old dynasty cornerstone asset.",
+          "relevantContext": [
+            "Derrick Henry remains a top-tier weekly fantasy starter with heavy goal-line usage in Baltimore.",
+            "Michael Penix Jr. returning to start for Atlanta in Week 3 provides an immediate boost to Kyle Pitts' fantasy output.",
+            "Jacory Croskey-Merritt has established clear command of Washington's lead early-down rushing role.",
+            "Jeremiyah Love is a premier 21-year-old dynasty running back asset with elite multi-year trajectory."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is in Retooling mode. While they are motivated to trade 32-year-old Derrick Henry for young dynasty talent like Jeremiyah Love, they have zero motivation to give up starting TE Kyle Pitts and backfield depth without receiving additional high-value assets.",
+          "packageFit": "The submitted offer fails package fit. Surrendering four assets for two creates severe structural imbalance for Ravens Regime.",
+          "lineupReplacement": "Lineup replacement fails completely for Ravens Regime in the submitted proposal. Moving both Henry and Pitts leaves critical holes at RB1 and TE1.",
+          "competitiveWindowFit": "Big Balder Brand is in a Playoff Push window and needs immediate scoring. Ravens Regime is Retooling and wants young dynasty anchors. Jeremiyah Love fits Ravens Regime's retool, but the target package must be scaled down.",
+          "positionalScarcity": "In a 16-team PPR league, high-volume starting RBs and TE1s are extraordinarily scarce."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 3,
+            "lineupReplacement": 2,
+            "competitiveWindow": 3
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 28,
+          "classification": "Impossible",
+          "explanation": "Ravens Regime will immediately reject the offer as constructed. Giving up starting RB1 Derrick Henry, starting TE1 Kyle Pitts, and backfield depth for Jeremiyah Love and Tyler Allgeier creates unacceptable starting lineup holes at TE and RB."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Ravens Regime will immediately reject the offer as constructed. Giving up starting RB1 Derrick Henry, starting TE1 Kyle Pitts, and backfield depth for Jeremiyah Love and Tyler Allgeier creates unacceptable starting lineup holes at TE and RB.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 83.6,
+              "davi": 92.4,
+              "publicMarket": 88,
+              "leagueMarket": 88
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 65.9,
+              "davi": 77.6,
+              "publicMarket": 68,
+              "leagueMarket": 68
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.5,
+              "davi": 87.4,
+              "publicMarket": 90,
+              "leagueMarket": 90
+            },
+            {
+              "name": "Kyle Pitts",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 25,
+              "cavi": 83.7,
+              "davi": 86.8,
+              "publicMarket": 82,
+              "leagueMarket": 82
+            }
+          ],
+          "rationale": "If Big Balder Brand insists on acquiring Kyle Pitts alongside Derrick Henry, including WR Chris Godwin gives Ravens Regime a proven starting WR to replace lost production while acquiring Jeremiyah Love."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Ravens Regime will immediately reject the offer as constructed. Giving up starting RB1 Derrick Henry, starting TE1 Kyle Pitts, and backfield depth for Jeremiyah Love and Tyler Allgeier creates unacceptable starting lineup holes at TE and RB.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Ravens Regime is in Retooling mode. While they are motivated to trade 32-year-old Derrick Henry for young dynasty talent like Jeremiyah Love, they have zero motivation to give up starting TE Kyle Pitts and backfield depth without receiving additional high-value assets."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "The submitted offer fails package fit. Surrendering four assets for two creates severe structural imbalance for Ravens Regime."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Lineup replacement fails completely for Ravens Regime in the submitted proposal. Moving both Henry and Pitts leaves critical holes at RB1 and TE1."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Big Balder Brand is in a Playoff Push window and needs immediate scoring. Ravens Regime is Retooling and wants young dynasty anchors. Jeremiyah Love fits Ravens Regime's retool, but the target package must be scaled down."
+            }
+          ],
+          "opponentPerspective": "Ravens Regime is in Retooling mode. While they are motivated to trade 32-year-old Derrick Henry for young dynasty talent like Jeremiyah Love, they have zero motivation to give up starting TE Kyle Pitts and backfield depth without receiving additional high-value assets.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "The submitted offer fails package fit. Surrendering four assets for two creates severe structural imbalance for Ravens Regime.",
+          "whatWouldNeedToChange": [
+            "Ravens Regime is in Retooling mode. While they are motivated to trade 32-year-old Derrick Henry for young dynasty talent like Jeremiyah Love, they have zero motivation to give up starting TE Kyle Pitts and backfield depth without receiving additional high-value assets.",
+            "The submitted offer fails package fit. Surrendering four assets for two creates severe structural imbalance for Ravens Regime.",
+            "Lineup replacement fails completely for Ravens Regime in the submitted proposal. Moving both Henry and Pitts leaves critical holes at RB1 and TE1.",
+            "Big Balder Brand is in a Playoff Push window and needs immediate scoring. Ravens Regime is Retooling and wants young dynasty anchors. Jeremiyah Love fits Ravens Regime's retool, but the target package must be scaled down."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Kyle Pitts news 2026",
+          "Derrick Henry news 2026",
+          "Jacory Croskey Merritt NFL 2026",
+          "Kaytron Allen NFL draft 2026 2025"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRt0f7Nhmv8yTO5aLnFNs0cv-Q0_zHMlBY1ogJgiOIMFtk7srIQTaNW9dL6ruDKT46uRTZe2DF0nx_00UrxwKkJUwKjdy-QrDfveRyZyWMMUc9Id1ZLuMkJt1cvWuwqS0aHaM3A8NP5Nbu2ho9u2ft",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5M0YptPRaPXeXlylXXWaIUdceCQyExB1FZaIRo-wpo4TCCx2NaRT0G6DlaVycwWqlp4I2uJZQuKOO-pu7GQ0QwaWBCI8At6_I1FCH-dm6t_VfIuJrgq-gSX4pC0_RaM6dsnvESy9JWB9G0f9ovctYW7ReXHQLXawFVGXHZoF-3AbZIQKosGbQfCg_k8isdDQ31WzsWjk=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFccROqHOWIsGktGKFYyj4zSdielA4u6gP4d0aG02c27J1kE9eOLivgYMSgf9tApAOs0cxFfJY5so4UhyVWLcZC3BqhsuLtWSitR3NxL5AiDWLFbrOllLeTO6Ls-BTt2XU=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF__Ma2HvNme3KO2T6nNnOZ5ECuca9iG0WZvrCfuBzAUyv7BLH1HluFNNAbZI4sfRXC4hd9xGAawGCaNEZY_t5urABecsXfxkGXqGtyJu0q2IPm69Tck1nVALFC0Y2qIwFw6tX3ZKCa",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXrEIE1KvpDYXITzkVx3ow2SDkV37AN8QTXulkGOA7p7zquYx6HTXiHxsquMRKvXXw9vOkqLP-SrAAEZAxTXI-Mo8CDK3I4gSFAiGjsakGIml7me0hKHff9gtZzcPRd4fr_VyrtLpgXC2h2uglJt5Xq6ilcF_fssOc_ZknoHLRBZZWL-Exno3CGkUWgsYl",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg92Y0OCyz0KhuZugSI03lQVsnADs3JHWa74FrcvNCmfkMiF5uWmhhsuBvpMP7e1ztE8cINoa3dUM2vQ47ACBLLoezLrL8yqYJlo0Are72hooKMORltztRa2oQKlviLgZSrdkK",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5G-yToXEg-0V-zNwwVSoAFjejKA1q0alrM35rwyr4-4XTs7EFn1NNJCgSXoGFElZjed-NObeZp-8fs4W6LQ1hQyd0L5DZdbuKoW2kQ63IiM2AnZG2AjFABDQGYQS7JouD0hh3KXdR3P1zGmJoFTi-joNFGin03vWpLiyX4dsj-1D0ia8rkMz0JbelqbBo",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN5vt3RVcxV22Yhd2CWPhVdlB-DJaqOKYCODCyA7kk5M48Z9F1XFoz1EP9g52RYIHn7GEK1zmmZSr2Au2hi15uDzt5gXoKGqad6HSfDUhEbe7NTY64s4IGAqbnhvybFX7Ux5NBw7ncy1I=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6sMHOyxf3b6eAxBaAKQyF3t0MKFEqbfnnrhGoFhUcsu3zqq7eTRsw9_VeLzs8bDaF_yZZRYylPftRUYZjzfMHQBpmhgTu4CCacsA_1raW5fGYneNtHgMKa9EAr4_TNlk=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsdVaQTVPa1PVJfaUfoe4hA-9CIBdjZi0GhQSnwj7reVCvFQy-TBrjzLanpfEg25AAv9JSLYV8Cf0c44mkSTBAGndqN_Oq8g_aPgyVoTqgWuBVY2HpSmcgjIDK4BruVCKiyV9AdCOd4T4iNgxd3GSA4uyL-GBXyYtA87DhHZjyzhZAKvg8wFyV",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg2uzHNUh6ih4WdVHN81LIloGZgcp8HjSM5bJZY5D85JaHyoGZeyJDis7KnbRO1TWMYXVuHlflSmtZKvOsrmU0t-DDNsEEDMU7H40kUMprzy2GU_MngdD1lqzS-txotxlAfvGrdwAUvnp0-PeLGFSnp7_tPQ9utFrQxfLkn89HP9ep0xOg8zelMEACo2jt",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3PY1cCCMcwiw0cr9-N8KS_SNYE2wzYQqWb8I19hUNVvWIMmF31_4l0f-7krc0WuyGnzvb2zxJYv_o3-mavf6ifAK0PBCPcwA2bxq29xmCcrdv1dX0vAQt0OxUxGrGHSe_qk46pEh1XM3PTKIznE6wyphQsxhpty4dLjYPfCc=",
+            "title": "commanders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt8uSwwAWq-DpCVGvdao-sPu0vEhifhzZG_NeTFnQJg5-EvTfDT3bNus6EHFqO_NNrQj0oglrvF5j08T0U7VQoKvmDJtXvtiiRdfJGoTPoVR38LZIaFphfjCTDNZlacNyPbkDcbdah7RCPdL-UGziEtCyF",
+            "title": "nfldraftbuzz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWf6l_QKxwOUQXN7WADYSnGWSaS56kVUhcapraE4Yak1dvaa-KoP30nQCIdAtG7OCqSSgZ5fTN03faXlgxVvyOhLKQwH6bAl_Dtr5UZecaYkxrI0CHK2wzdf_DE72kCJUGC45ofYkkBbCSbOKPDJ-3MlB70_PHI4rOVMJN",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnN5DX5k0a62pR46dJkLz347CjT4wT8tYEoZIRVQhEfyum0jYQCbruIq1F8tVXCItTfSwAulZI1oeVLHOMUczJYAohqRR-EJbabxZ4Xfx_JVJicLcsjFK-Gw4nEbKaIgI=",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "74aea74bea904b398fddf71ed45279b894d1a905",
+        "aviCoreCommittedAt": "2026-09-22T13:47:08Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 85428,
+        "groundedMarketChars": 3258,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mucr9ogm-188ac273",
