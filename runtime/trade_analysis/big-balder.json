@@ -1,5 +1,434 @@
 [
   {
+    "id": "muct9l7a-fdd2c517",
+    "createdAt": 1790089910023,
+    "expiresAt": 1790521910023,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Ravens Regime",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Ravens Regime",
+      "goal": "Retool",
+      "assetsToShop": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Derrick Henry (32, C-AVI: 93.5, D-AVI: 87.4) remains an elite fantasy RB1 with heavy win-now impact for title contenders. As a retooling franchise, Ravens Regime can capitalize on championship favorites (Conquistadors, SmokyValleyWheatWarriors, Mile High Royal Lions) who need premium backfield firepower to win in 2026. By shopping Henry, you can extract starter-caliber receiver assets alongside future 1st-round pick capital to jumpstart your retooling window without sacrificing long-term flexibility.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Retool",
+          "strengths": [
+            "Elite franchise quarterback foundation anchored by Lamar Jackson (98.1 C-AVI)",
+            "High-end young receiving core led by Zay Flowers (91.3 C-AVI) and Kyle Pitts (83.7 C-AVI)",
+            "Premier win-now RB asset in Derrick Henry driving top-tier market leverage"
+          ],
+          "priorityNeeds": [
+            "Young starting-caliber depth at WR and RB to align with a 2-3 year contention window",
+            "Accumulation of future 1st-round draft picks to maintain roster liquidity"
+          ],
+          "tradeableSurplus": [
+            "Derrick Henry (RB, 32 years old, highly productive veteran on a retooling roster)"
+          ],
+          "constraintsApplied": [
+            "Retool goal: Target high-upside young starters and liquid future draft capital",
+            "Starter-for-starter realism: All incoming assets must belong to the league-relative starter/FLEX pool",
+            "Trade Partner Alignment: Match Derrick Henry exclusively to 'Win Championship' contenders who need immediate lineup upgrades"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding and Retooling teams (Crimson Tide Pods, Rapid Valley Annihilation, DMV Fantasy, Gringo's Goblins, Phalhala or Bust) eliminated due to mismatch with 32-year-old RB acquisition window",
+            "Playoff Push teams lacking available 1st-round draft capital (Big Balder Brand) eliminated from primary candidate construction",
+            "Contenders with set elite RB rooms and restricted trade liquidity (All Hail King Jesus, Corgi Loaf Baking Co.) eliminated to prioritize maximum return value"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Conquistadors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Matthew Golden",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "WR",
+                "age": 23,
+                "cavi": 56.3,
+                "davi": 74.9,
+                "publicMarket": 68,
+                "leagueMarket": 70
+              },
+              {
+                "name": "2029 Round 1 (Conquistadors)",
+                "assetType": "pick",
+                "owner": "Conquistadors",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 79.3,
+                "publicMarket": 79,
+                "leagueMarket": 79
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Derrick Henry",
+                "assetType": "player",
+                "owner": "Ravens Regime ",
+                "position": "RB",
+                "age": 32,
+                "cavi": 93.5,
+                "davi": 87.4,
+                "publicMarket": 88,
+                "leagueMarket": 90
+              }
+            ],
+            "scenarioType": "Veteran Production for Youth & Draft Capital",
+            "strategicGoal": "Convert aging RB1 production into ascending 2nd-year WR Matthew Golden and a future 1st-round pick.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 24,
+              "packageMatch": 18,
+              "lineupReplacement": 14,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 96,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Ravens Regime successfully liquidates a 32-year-old running back at peak C-AVI value. Matthew Golden provides immediate FLEX/WR3 starting production with high Year-2 growth potential, while the 2029 1st-round pick adds premier long-term asset value.",
+            "whyOpponentMightAccept": "Conquistadors is in full 'Win Championship' mode. Adding Derrick Henry alongside Bijan Robinson and De'Von Achane creates an unbeatable RB corps, directly maximizing their 2026 title defense odds.",
+            "championshipImpact": "Slight short-term C-AVI reduction at RB, balanced by securing a startable WR and preparing the roster for sustained post-2026 contention.",
+            "dynastyImpact": "Extremely positive. Swaps an aging asset nearing the end of his career arc for a 23-year-old wide receiver and a highly liquid 1st-round draft pick.",
+            "rosterImpact": "Opens up a starting RB slot for internal youth (Kyle Monangai / Jacory Croskey-Merritt) while boosting WR/FLEX depth with Matthew Golden.",
+            "publicMarketContext": "Derrick Henry remains a top redraft/contender RB target. Matthew Golden's target share in Green Bay is expanding rapidly in his second season.",
+            "risks": [
+              "Matthew Golden's volume in a crowded Green Bay receiving group could fluctuate week-to-week",
+              "2029 1st-round pick is distant and requires patience to yield on-field results"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Derrick Henry straight for Matthew Golden and 2029 1st-round pick, highlighting Henry's league-winning ceiling for their championship run.",
+              "acceptableConcession": "Throw in a 2028 3rd-round pick or late pick sweetener if Conquistadors hesitates on surrendering the 1st.",
+              "walkAwayPoint": "Walk away if Conquistadors refuses to include the 1st-round draft pick or tries to substitute Golden with an unstartable bench player."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "SmokyValleyWheatWarriors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Josh Downs",
+                "assetType": "player",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": "WR",
+                "age": 25,
+                "cavi": 58,
+                "davi": 77.9,
+                "publicMarket": 72,
+                "leagueMarket": 75
+              },
+              {
+                "name": "2028 Round 1 (SmokyValleyWheatWarriors)",
+                "assetType": "pick",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 79.3,
+                "publicMarket": 79,
+                "leagueMarket": 79
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Derrick Henry",
+                "assetType": "player",
+                "owner": "Ravens Regime ",
+                "position": "RB",
+                "age": 32,
+                "cavi": 93.5,
+                "davi": 87.4,
+                "publicMarket": 88,
+                "leagueMarket": 90
+              }
+            ],
+            "scenarioType": "Star for Young Starter & Draft Capital",
+            "strategicGoal": "Acquire high-volume slot WR Josh Downs and a 2028 1st-round pick from an Elite Contender.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 94,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Josh Downs (25) brings proven target demand and PPR floor to your WR/FLEX rotation. Pairing him with a 2028 1st gives Ravens Regime premium retooling assets.",
+            "whyOpponentMightAccept": "SmokyValleyWheatWarriors (Elite Contender) pairs Derrick Henry with Christian McCaffrey and James Cook, forming the most lethal RB trio in Autobots history to secure the title.",
+            "championshipImpact": "Improves WR target depth and PPR weekly floor while reallocating RB volume to younger backfield options.",
+            "dynastyImpact": "Extends competitive longevity by converting 32-year-old production into a 25-year-old starter and a future 1st.",
+            "rosterImpact": "Strengthens WR3/FLEX reliability with Josh Downs and secures draft capital to retool RB in future drafts.",
+            "publicMarketContext": "Josh Downs' target volume is spiking due to Colts receiver injuries. Henry is viewed across the public market as a elite championship push piece.",
+            "risks": [
+              "Colts quarterback play consistency could impact Downs' weekly ceiling",
+              "2028 1st-round pick slot will likely be late in the round given opponent's contender status"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Derrick Henry for Josh Downs and 2028 1st, emphasizing Henry's immediate upgrade over their current RB flex options.",
+              "acceptableConcession": "Accept a conditional pick swap or add a 2027 3rd-round pick to close the deal.",
+              "walkAwayPoint": "Walk away if the 1st-round pick is removed from the package."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Mile High Royal Lions",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Courtland Sutton",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "WR",
+                "age": 30,
+                "cavi": 67.5,
+                "davi": 79.3,
+                "publicMarket": 70,
+                "leagueMarket": 72
+              },
+              {
+                "name": "2028 Round 1 (Mile High Royal Lions)",
+                "assetType": "pick",
+                "owner": "Mile High Royal Lions",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 79.3,
+                "publicMarket": 79,
+                "leagueMarket": 79
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Derrick Henry",
+                "assetType": "player",
+                "owner": "Ravens Regime ",
+                "position": "RB",
+                "age": 32,
+                "cavi": 93.5,
+                "davi": 87.4,
+                "publicMarket": 88,
+                "leagueMarket": 90
+              }
+            ],
+            "scenarioType": "Starter Depth & Draft Capital Trade",
+            "strategicGoal": "Land proven WR2 Courtland Sutton and a 2028 1st-round pick to fortify starting lineup production.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 22,
+              "packageMatch": 17,
+              "lineupReplacement": 14,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 93,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Courtland Sutton provides 186.0 projected PPR points (WR25 league-wide), giving you an immediate high-end WR/FLEX starter while harvesting a 2028 1st-round pick.",
+            "whyOpponentMightAccept": "Mile High Royal Lions relies on J.K. Dobbins (61.1 C-AVI) behind Jahmyr Gibbs. Adding Derrick Henry fills their sole roster weakness and cements their championship push.",
+            "championshipImpact": "Maintains high lineup C-AVI competitiveness through Sutton's target volume while retooling backfield age.",
+            "dynastyImpact": "Gains a valuable 2028 1st-round pick while acquiring a reliable wide receiver anchor.",
+            "rosterImpact": "Immediately slots Courtland Sutton into the starting WR/FLEX lineup.",
+            "publicMarketContext": "Sutton continues to dominate Broncos wideout targets. Henry's market remains ultra-premium among contending front offices.",
+            "risks": [
+              "Sutton (30) is an older WR asset, making the 2028 1st the primary long-term driver of the deal"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Derrick Henry for Courtland Sutton and 2028 1st, highlighting Sutton's surplus status on their stacked WR roster.",
+              "acceptableConcession": "Offer to swap 3rd-round picks in 2027 if they require slight value balancing.",
+              "walkAwayPoint": "Walk away if Sutton is downgraded to a non-starting backup player or if the 1st-round pick is removed."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Matthew Golden football",
+          "Matthew Golden NFL draft current team 2026",
+          "Derrick Henry NFL 2026 team stats contract",
+          "Josh Downs NFL 2026 news injury role",
+          "Baker Mayfield NFL 2026 team contract news"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_bS635_rcpa8mZdUt8dm3L0txFgPd1m30ssxg0VJxAKp8iq_bDAhf-3zBvCQZ-4GzixjdEync0Wd2kwuMdJs2EIceS2-PHyWYLfjpHaqkFjJYdZ_9eOPyqDk03UF_-OxwCQ==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn4L2kdEwksAPub9B0YhXAXh3V1K6O_j07fTxDSoe7VANFEt5VdyEJ0A0YbELGen1Ifpr20HL_CYRXUF4i-GSxN5e7M9qOiCeE32Wi7ue00PZhQ4Nn1kjNaiQtrkCb_7Ey",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcaWPGOHZ0mYiWpUNAoQF0EM4y_9mnS_Ck3-9HMvGDGjdudD9Qrhcbgs7uVmwp9zUdXfBRcsBPLRiKy0cxIWVsZWjqXjsU00TQRYybpORk5K6vb0UeTafjRW3aGClX66fp",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLpYfmGdhSpDHXKpCgWjlCFpQO8jcv1pf0CRWiJuGVwYDFFYUxECZ1isDX4l5huS06JhNrQ3O0vmqPvPtbOrLs_LUDL0OLvn5NMysjowthy9SDilBTu1bkPLU92LgaM1FTiqHOsdbZjZBO0ZiJNNFn_-KCP6KPppG9wGtdkfNRSSlEtytQHlf5LSBnPY6YrTdA9o43nYVqzT57MCFJ7nAqNQsf",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1HyvhEsRLey-nWBiLTOhf0HeQy2DFdSsMLn23R7hELG7CI3PiJrRtr-3cInzv5IxrvD7LFdiYKlC822HNGt-i3K8QVYMHYOsESmDrKHcrgMN-kd3LT8s7dPR5Yw8RHAGaZt6L_PYLWqSI9QmhVhWeuWUWpL4IZdhjsln7LcVq8BC7djRJ_tO8FKa3-7ODZA==",
+            "title": "twsn.net"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSAddpPdm5-3zDMy8iSc49VYfO_7KyTLBXzJEZMyL_6_NP5qs_l2P6TVYI_9Bgliq9_t6XxH_qtSAj3me3zRzzOekBuSqboHU-uXx42Fkri4aLXKL7xN0mLKfLSMKvP_F_xUEp1lc14W8UHXCH_HrXyJScC2BKImDWXMh6w5pNiw==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgWs8o382XxqTc29rAv5Y_S8Gc848AcAXecbp6DJeG5kSy3pTcFxkAPsY0Yt8NAZVYKtIfDJUlEDBACH7SmnfMPsqhD8I3gB-KFsijkkxUWmJ1K-QLnrVZzpH2v3Len9L8nOmpRYoX5dWAWCo6YzLK38n-bB4W2tdH5jTIjos0zHBtvQOKW0hTdjrCqyz6C9wSUue5r-A75ldZENHQfg==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkp_MuPae5DTt4BXKGp_J7w60-aDJAYc7s6EoUeygb2IM0sozjWCcnlJO2NmWKtCSHWdRzu3yJlG98LOYVOX5ZJYp9Z9am5aN2fr6de3ZVNjbb8vF-FZfF91i-kUIaZKnW",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYj9o4wN5GCHFP_JpPx08vlEa3KjpDqqrl_rTtSrAEVA52bhU9Ho0-F1lG3LbJpyZF3Xia6R3T4fq-s6RXS3FwkqN6vFlsn_WrrD8mR7mj8lkJiMFNDOAGfIL425A795v4O9YNVg-Ey3Zj2-9SKN1svrOj7j3Dag==",
+            "title": "statmuse.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdacXHlD46M5o0BuBL7d5-D4UwixiILT96qXr4QV1AC9zIIPlgbhN__FXsF-BbnaoD4oKIKTD00I0OMwHXap4FGyEG-mZRjoiofcWpYCL_72CIOZfz-sfvayMdk0CXPEi-HLToKyz39kzWxSm033Hk",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8Quf2Hi96Gnplqx-E7v0amV_I4fvyCX-GFJcd1pm-BCqVGvAbtX2ORbNdLwbATleS_V_DE06MIdtTIPMgCHwF1qFRN6ws5Gv-0GV-VcIIUvm8PEpI_VTPGAAq8x32gyfpjuxqhoAOSPNauJ05gpwrJrsGVGfDPOymzknFj7PzrjxRVA=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhf5KpqD4GgyyMRKnzbubSg7gZFy38gcmhSbwMONBvJfPQBpr5KfQunUhn8lfvv_H8MU6C4Ntka0Vb17vV_2DUGSbarUpuG1jVkfGS2KPgfcG1nabDqw2ApkacMkr2vuJZbl76fE69c0CihtRbclZO3mol83rrBYLrVj0Aa8Rr0vCHH1iAnKn1gVM=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7CJ_72ImnkcUaqP4Vnn7oWy-LYXqXbiszPUWaU9llREBJi4uoDrtDSu_S6wlwmPeUJegvIws-WP0kA5LkQXqZHtIyMr1nQsykyK6nqukVuEuGezDie7eIdCwY1K3-4g-7Ni0v2hvZFb1pVrtoap3bULKxRJpXnfimqsW9vwDSw5psT6aDUUryyI-s5vorygb0dWJ5DWXAdPH43eP1Kg==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtjJxucSRAvz9jcIhcbtI61tAVH1Hc7gQcV4hn6Kwke1XQScgRF9rk-egpemI6n4hm9Fw5zX8GQJK-LSlpH4UeauJneo9YN8YLtm2aR1Y11UE4oPUKbzEOtawDVLu4K5XmICQ7n9i4ETYU2bBG6YAssx9B6XhiAGs9IjuuPJw2tVrP5XSVkNSDx_GguUZ2c5F5f0pMbcC06HiiCmRD_Pdn3kyT6KNselJrvl6pjZAdm3WmDF6iwrg=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFztxeZbv7Qc-dLI8HDOQr7tQNzX8NRamVYBp6FGu7p8obuhW9-Y8rge0iYsJAqgkjjk0ekHJIpDnvuGMx4AhMBnWkJUlIZC4VwCp1cbjJY56BsSVboKqiWKhq16bg55sbfB9WH1UigNHUzASCMOY4aOI7mF7i2-hzOuYfo9hLJC5epXEEM41rd4sypImV6N-xLneAg-czRCkH9vMQWC1BpM6o=",
+            "title": "thepewterplank.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaOy7eLhPjsU_XzhQuBNI05nmn7ncuIZaLXNRFPPskpMh8vi_umvm5smWYFtI_AnAgBPRTQr5emFrT8a464_RZsIXYTHhw4PvpiT6U_MzQfnX7MEE1Q97hui1SUxeXEkemDGEIQtiV1l6u8f-BlhK01JD1DD3_K6ACumXkCPrdSXNfPMECNqosxoRvP1IiqpIM9Mhf_aM5B4A=",
+            "title": "thepewterplank.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw9FLwr2bfs-gGTsvlGY8r4DX9ftwJgc_YS8gqBXGZbTkx5rb62FwTMFDfRFlCIRBCtYKuxJ7E-Rpu4qPb-3CgtujobCudiI0jFV-GfD0D_tOaeLBbmGpZaXA-dPE4tB4ZwTtjBM6tONdLi38EmZ38v0a8ZzoNRX8w8iMwLYv2L0hc2u5u18LGLHe1_eo5HIYLRegkVswR",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA67D2SO7hxLZKuMztwirOAHMjrTE9fWpJyc_ZQFuuNlKvu9h5dTwOFiIhlv1hFIprCTmiWNwx8E0341Nk-th0vp8oLHWrZVTPGA99hNRiYSsw7P8MhARCXuBGpzJg8UjZKb2QQ8PSOq4Dn3pD2PWSOU-AaPArZSgsPS5bG-KrUGsP_hryn-CRj7QIPLMR7EvOxnLayhk=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtcdyJoxYjIeKfsfTDzV-eLhwBSOMuR1oIJkz7IG6e2qd9D8juW3wEWfypJQ3V2HD-fchXszzjxByRejWNST90f71t8UmeDgZjO7KR9i7mqdwzxttjZg_rPudC1ppn9UeP7GEPilzbYjmPsr9B4NqBWQVCpB145WdalqXH2sNr0XSdFPl6fitq4T8v9ZI=",
+            "title": "iheart.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF224dFZ0cWnhbn-Jz5W2BKxoj6ueZ6Pe4TPRuZzopT6aW3pCi_u2ue_E8bl5gDqiBeQeKi5HP3sn5Nfxu0l9PWxd0q76zpjvzhYeUNo--EuVrL8kjG7YB03otNXn_haDancJ4gvH0oIng-zlLawpk5mTiSx2qK-9Sti0YwRmo2sD6Dwtqq_GVz9yf9rHQd2rpOOWDkCXHWxeHBjxopaaC8MfwiVlX5RMkG2w==",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Matthew Golden",
+          "Derrick Henry",
+          "Baker Mayfield",
+          "Josh Downs"
+        ],
+        "aviCoreCommitSha": "74aea74bea904b398fddf71ed45279b894d1a905",
+        "aviCoreCommittedAt": "2026-09-22T13:47:08Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 531472,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "muc1nx0d-9f20e769",
     "createdAt": 1790043534048,
     "expiresAt": 1790475534048,
