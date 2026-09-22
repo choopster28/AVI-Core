@@ -337,16 +337,17 @@
       }
     },
     {
-      "average": 1,
+      "average": 2.5,
       "filename": "harrison-mevis.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26638,
       "player_name": "Harrison Mevis",
-      "points": 1,
+      "points": 5,
       "position_id": "K",
       "team_id": "LAR",
       "weeks": {
-        "1": 1
+        "1": 1,
+        "2": 4
       }
     },
     {
@@ -420,16 +421,17 @@
       }
     },
     {
-      "average": 4,
+      "average": 6,
       "filename": "dominic-zvada.php",
-      "games": 1,
+      "games": 2,
       "player_id": 28176,
       "player_name": "Dominic Zvada",
-      "points": 4,
+      "points": 12,
       "position_id": "K",
       "team_id": "NYG",
       "weeks": {
-        "1": 4
+        "1": 4,
+        "2": 8
       }
     },
     {

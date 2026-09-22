@@ -28,16 +28,17 @@
       }
     },
     {
-      "average": 5.1,
+      "average": 16.5,
       "filename": "matthew-stafford.php",
-      "games": 1,
+      "games": 2,
       "player_id": 9451,
       "player_name": "Matthew Stafford",
-      "points": 5.1,
+      "points": 33.08,
       "position_id": "QB",
       "team_id": "LAR",
       "weeks": {
-        "1": 5.1
+        "1": 5.1,
+        "2": 28
       }
     },
     {
@@ -485,16 +486,17 @@
       }
     },
     {
-      "average": 26.6,
+      "average": 13.7,
       "filename": "jaxson-dart.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23160,
       "player_name": "Jaxson Dart",
-      "points": 26.6,
+      "points": 27.400000000000002,
       "position_id": "QB",
       "team_id": "NYG",
       "weeks": {
-        "1": 26.6
+        "1": 26.6,
+        "2": 0.8
       }
     },
     {
@@ -552,6 +554,19 @@
       }
     },
     {
+      "average": 3.5,
+      "filename": "jameis-winston.php",
+      "games": 1,
+      "player_id": 13891,
+      "player_name": "Jameis Winston",
+      "points": 3.54,
+      "position_id": "QB",
+      "team_id": "NYG",
+      "weeks": {
+        "2": 3.5
+      }
+    },
+    {
       "average": 0.3,
       "filename": "mason-rudolph.php",
       "games": 1,
@@ -562,6 +577,19 @@
       "team_id": "PIT",
       "weeks": {
         "2": 0.3
+      }
+    },
+    {
+      "average": 0,
+      "filename": "tyler-huntley.php",
+      "games": 1,
+      "player_id": 19297,
+      "player_name": "Tyler Huntley",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "BAL",
+      "weeks": {
+        "2": 0
       }
     },
     {
@@ -578,6 +606,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "sam-hartman.php",
+      "games": 1,
+      "player_id": 24340,
+      "player_name": "Sam Hartman",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "WAS",
+      "weeks": {
+        "2": 0
+      }
+    },
+    {
       "average": 2.2,
       "filename": "tyson-bagent.php",
       "games": 1,
@@ -588,6 +629,19 @@
       "team_id": "CHI",
       "weeks": {
         "2": 2.2
+      }
+    },
+    {
+      "average": 0,
+      "filename": "taylen-green.php",
+      "games": 1,
+      "player_id": 28094,
+      "player_name": "Taylen Green",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "CLE",
+      "weeks": {
+        "2": 0
       }
     },
     {
