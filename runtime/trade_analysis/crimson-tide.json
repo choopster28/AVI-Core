@@ -1,5 +1,269 @@
 [
   {
+    "id": "mubwy9rr-53f92700",
+    "createdAt": 1790035636852,
+    "expiresAt": 1790467636852,
+    "mode": "improve_team",
+    "title": "Initial Improve My Team · Crimson Tide Pods",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods is executing a textbook dynasty rebuild built around young cornerstone franchise QB Justin Herbert and an extraordinary chest of five 2027 1st-round draft picks. By converting surplus veteran starters (Michael Pittman, Chuba Hubbard, Jakobi Meyers) alongside select draft capital, Crimson Tide Pods can target premium ascending cornerstones (Amon-Ra St. Brown, De'Von Achane, Jordan Addison) from contenders and retooling franchises that need immediate lineup-level starter production.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Elite draft capital chest containing five 2027 1st-round picks (orig3, orig4, orig10, orig12, orig16)",
+            "Franchise anchor QB in Justin Herbert (D-AVI 83.3)"
+          ],
+          "priorityNeeds": [
+            "S-tier elite young WR1 anchor",
+            "Dynamic young RB1 with multi-year dynasty runway",
+            "High-upside developmental TE depth"
+          ],
+          "tradeableSurplus": [
+            "Productive veteran wide receivers (Michael Pittman, Jakobi Meyers)",
+            "Volume starting running back (Chuba Hubbard)",
+            "Multiple future non-native 2027 1st-round draft picks"
+          ],
+          "constraintsApplied": [
+            "Starter-for-starter trade realism enforced across all player components",
+            "Two-organization strategic goal alignment validated against trade partners",
+            "Draft capital leveraged exclusively to acquire young, high-D-AVI cornerstones"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Contending franchises unwilling to part with young core starters without receiving comparable immediate lineup replacement",
+            "Fellow rebuilding teams unaligned on trading away under-25 WR/RB assets for draft pick packages"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Northside Kings",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Jordan Addison",
+                "assetType": "player",
+                "owner": "Northside Kings",
+                "position": "WR",
+                "age": 24,
+                "cavi": 64.3,
+                "davi": 81.9,
+                "publicMarket": 80,
+                "leagueMarket": 81.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jakobi Meyers",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 29,
+                "cavi": 64.2,
+                "davi": 75.3,
+                "publicMarket": 70,
+                "leagueMarket": 68
+              },
+              {
+                "name": "2027 Round 2 (Lightskin Legends)",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Age-Curve Pivot",
+            "strategicGoal": "Pivot veteran production into a 24-year-old ascending receiver without surrendering first-round draft capital.",
+            "scoring": {
+              "availability": 18,
+              "opposingGmMotivation": 21,
+              "packageMatch": 18,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 80,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Jordan Addison (24 years old, D-AVI 81.9) provides a young receiver with major upside. Trading 29-year-old Jakobi Meyers shaves 5 years off your receiver core while keeping all five of your 2027 1st-round draft picks intact.",
+            "whyOpponentMightAccept": "Northside Kings is in a Retooling window. Jakobi Meyers (C-AVI 64.2, 180.4 projected PPR points) delivers virtually identical current-season scoring to Addison (C-AVI 64.3, 174.8 projected PPR points), while adding a 2027 2nd-round pick gives them extra draft ammo for their retool.",
+            "championshipImpact": "Neutral immediate C-AVI impact while aligning with a multi-year rebuild window.",
+            "dynastyImpact": "Gains 5 years of age longevity and +6.6 D-AVI upgrade.",
+            "rosterImpact": "Provides a reliable WR2/WR3 building block alongside Alec Pierce and Wan'Dale Robinson.",
+            "publicMarketContext": "Addison remains a highly regarded young separator in Minnesota. Meyers continues to be a steady chain-mover in Jacksonville.",
+            "risks": [
+              "Addison operates as the WR2 in Minnesota behind Justin Jefferson",
+              "Meyers maintains high target floor in PPR formats"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Jakobi Meyers + 2027 3rd (Corgi Loaf Baking Co.).",
+              "acceptableConcession": "Upgrade the 3rd to 2027 2nd (Lightskin Legends).",
+              "walkAwayPoint": "Walk away if Northside Kings demand a 2027 1st-round pick."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Devon Achane 2026 news injury fantasy",
+          "Jaxon Smith Njigba 2026 news breakout fantasy",
+          "Amon Ra St Brown news 2026 injury contract fantasy",
+          "Michael Pittman 2026 news status fantasy",
+          "Chuba Hubbard 2026 news contract fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIwsX9k5rt692yHlqAF-W9RuGVDpvo9_LMBDKmWlSYT79fD72w6DMOmnfzqqoeOXT5puqTOteuDSfiFYQ8nZLvCLWuQOGOEeH-6cEZhDqXUmLf9Q-nrz4G98hUOPMZKxJltDC_fxnGCPJKd_3V9MFUUaiVsZfWPu90mQ==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqClales_AhXihsKz22KQR0RFaTUugBrPxrVnbvGP363ABK0fct3hd360Zz9m44eBKr6FBfgj34uc8DwgnzqG2YnIP47atAX0dovghKoWqgmtRBfFsf0nN_wy8GXBQ_ly9_6os4K2utNfhGyoJHmqd038GjJFjZqKdFWw12XZFX-d7VVQEo26FMZ7THYfoXZX3BR4jcwkxu_0nByu28L0HselsFQ1JS9J-MVV9yT5ycDJ747d9svm61Q==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFYVlxJkmGuOb3a8KPSBbVT-f-5Ty7W-T0ibsNpovWGo3Eetuc3nemaKY-rJYaZko6R8SDJF0X9qfcLr4Rlby56Zrr8DHKaFFY1Rq1G5XDamQb5Gf-lqqA0pDDzRKCqc4-lT2nV-Di9nr_pFkUgW1cPoLgY8olGccPzyo7EFwnQvpJewaxVfFwZXIBXxYazKu8",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhKnZWdGnquk6ttad1oDMGG5P2B5xXd-dFW4or2-NOTVpU2X3j38KBF1qcE-cz7pStUIVicOuu-8Q1bcgoc7xrp5hxFiHWh2rEq7smjJyhuIDMpnz-6ObkYoQDOU9l5UUkKREpwRdnH2wYKfnPllXFQ8PF6z5YtptzUFeMgWpmUnEIsbpe7vDlrqmfa_hd",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2-MAfcR3bFMUer0Fr5ogk4O_dG_CBUKKEGDVve5L8lEbVrHqmAIQqg8ot4TW79wsm4qV8x_umNkFcIh6sx4i5Pc3N3n7ERnSjIQ612_gqQq12KCrhaFe93pCfWou11fMqgOD29Vd8CM51qEIR0abNuUun3zjH2dIabeYpAbNpcNtzf76k7KM-kf8YLz8V3f9X20ena8Ce0Am3UxW4USin7qc=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKq8PoX23p9vr7i_gkbIDq2TcuFnrH1DibZGs5_ZymiRHmJcCZwdT0G4jI0CoDDlmL7IlDKjNk64Boj2j0J_ZKsKBtHyBVAN3rtjhsVFuV2UvqqhUf63qRv24rnGTmjtZEMPc5EeFtvf_d5WTgBpf4bFQvm3kn3A==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJjLg0Jfvd9vZ65E_xJiCUrZHBOFoy5nLf-SXsSRM4bhctWYCEU4WmjRJaUDDgWNBEe6Nr68FQvrGwAQwKP7oiyd8wsxquWYhJxOLpVbUrHRrSUFczSHhZiNerAIz3yvQHMEh7Tf_wYedSZ6i9hGgih7RRNk3aiOxnMuvGb9xWimFoCjXQib3cYxh1uk3iL42G5rCgmN6YZjsVGAhe0wPUht4OdNgw",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuiC_kFjyglfbuup2f9EtSfsiey1ddxIKs2FrXwehlQCvgDgp8XrdTsHdvyyeZnyyNZA8kfXc4cUxCeUDkFxCHo4NPuJU37AlLO-zO6UWgPYkPe3JK8WG7g0dgvibEVxAoG433l1p3va9qKt9faBJAdKdTgF7AX1QSeRVqjL4wfM6UdhnjzSG7YVDt7s8mpg6AUtlI8_nP7BXmd26uE0Mllbs=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkTSFU6kZ1FsyxVfdxBbSGGk1HXoJuT8JnUnavP9_xElHRn5-ofjW9iaMFtfKT9j4bEZ5ym7bMB_wBqtd6CkeXp7zg7iFgHicXHgZg8mLflORTQbpeyjiy6LNkeV4IhmnNnpBXbTQuwpo897C9KyGpt3tbYIF1MqaGypsjG0cHh3_1YvMcBbuhSOqQLycR-WNU1c1PnISelphaZLjPLbi2_9M=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEky2-i3HEvZi-uFSAG-kXe_QHMQmPZDwxftl1zn57JeVMrR2l48Ydglp_2zvFH7dpnzJ28Iix8-WRqQeoENVrWEkKFIFlv0JfPUsX0TtJA-2P_cns8luWPL3DNNXnevRxAA1_UMsnrTKibeb0QwGrtYalumMg77fEGTQoUefxRCUTs0Y0pJkdqEFoXUuhic_RYGD-7sdjB6JmTeoj4654xsXicvF9ESl8=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGSKzFpK9hxXtQw92JHyZ21jwIysHR9ajaR-KjfMjpdub71un2YBfh8QBmgNdiG2376zZOEcdkuO4okf00KW6rEp-cUOGZVJHS6-ZRvv8rT-HMj0p2q7TAyFtRZA5ALoyvWHkFGRpsyNCpusWDNoL_KO_G0MSCjsz9SikQs_qqyIuZkdo6LM5cVPvSsqu90n_iVuLDJA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_fzoR-2yJhvAEe9wP4W44sqAHnog75KwPurgbEoz8RqUK_ZtcCWgZlNvBaAM_bsfja4oeV9hIvIIaE6yceHyoCoTdW5Xt_p2-ggqhLk43sYieKrgvpY6HvrN-AQ4kDsVtFLEXkbopB1HQaHDGgqGRkxAyTMJxwySrDPg=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9Nz7Ogis6EMz-PXjrAdv1FhusGSIA0KVW3V312XPmOLQ3Fio-si6ncNIyJWfGy4th_VvaWB7kly3AGKkroRbV7cnwvXiU6mAWlJvk77HAGt6eGX39MXFqwBhB226_-eil9XcFSG-vSX0JOmvqv4F80Z817D3G-SjZW4mh9RxVlYEkyzkkbzZeGhvb4Gpabvnn_7wzd32WNsPIBBoXorHTsquSJUCR",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOkvl48wiZO9JZPOyY_kx0WVGJGzMHy57p7ESUucYVQgQw7puT3LVwWld-UxgwluuvSvnIvk-PLv91nswEZNbC3eNxln4HURhBSWNsgJx0KwZ5MSfnZJTXDoHQk0Q_ETPbIFD89l36bCmm3_zsdhhGX_sK33UReDm48AnvT7pIU5_oMc0voZnqT3_TERGbH8Fyd6Q1Uh-U5elgpQ2x",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_D51y07yrsdhxJmLN_SoMrZK6CRGq2DyJSmGaH7iMUYrMY0ehslP-mVEeG2qaprORYLc_47RbLouJP9_CQUoJ_grbK7BSUPlfE8dtFOrZ5tl6LXJdpH7dWggY5zI3xC3WOk6TRd4FaFGDTZ_Zc9cH7HShD1E",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrPDghFBUzGFHvCumdrXAbXLOAu-OV5Lvy3WHObFZBa5E-8_sdRG_Utkz8BuskXQbttXmFtvxjoR02PcFBzlvyr9tHxOIU6h9AFnE9UWf30j58cdP6Kwmg6RxRKbAkd4K6MYr1Jd0cwoGVN7wjdMIwZVEnpEtkqIKxUclpa2udTbPxFzAp38CERKYa6q4ZztCpOX6tC4c4tg==",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "Michael Pittman",
+          "Jaxon Smith-Njigba",
+          "Jakobi Meyers",
+          "De'Von Achane",
+          "Chuba Hubbard"
+        ],
+        "aviCoreCommitSha": "2cede9c7242d8994bd8cd8d0d00f5dddf328fed3",
+        "aviCoreCommittedAt": "2026-09-21T21:25:31Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 531008,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mubtvmrt-e50bfe5b",
     "createdAt": 1790030444701,
     "expiresAt": 1790462444701,
