@@ -1,5 +1,35 @@
 [
   {
+    "id": "mucuzqys-4287b15f",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Cam Skattebo",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Derrick Henry",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1790092730693,
+    "updatedAt": 1790092730693,
+    "expiresAt": 1790524730693,
+    "status": "queued"
+  },
+  {
     "id": "mucu0oxj-5ea95a6b",
     "phase": "initial",
     "mode": "analyze_trade",
