@@ -25,9 +25,291 @@
       }
     },
     "createdAt": 1790092730693,
-    "updatedAt": 1790092731967,
+    "updatedAt": 1790092774081,
     "expiresAt": 1790524730693,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This proposed 1-for-1 swap is a textbook win-win transaction aligned with both organizations' verified competitive trajectories. Corgi Loaf Baking Co., an Elite Contender with a explicit 'Win Championship' goal, sends 24-year-old Cam Skattebo to acquire 32-year-old Derrick Henry. Henry immediately elevates Corgi Loaf's starting RB1 position by +11.9 C-AVI points, securing elite goal-line equity and elite weekly scoring ceiling in Baltimore's offense. Conversely, Ravens Regime is in a 'Retool' phase; trading away an aging veteran back for a 24-year-old bellcow starter in Skattebo seamlessly de-ages their backfield by eight years without leaving a starting hole. AVI strongly endorses accepting this trade as constructed.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 81.6,
+              "davi": 84.4,
+              "publicMarket": 83,
+              "leagueMarket": 82.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.5,
+              "davi": 87.4,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. maximizes its championship window by upgrading from Cam Skattebo (C-AVI 81.6) to Derrick Henry (C-AVI 93.5), adding +11.9 C-AVI directly to its active starting lineup. While Corgi Loaf sacrifices eight years of age, the immediate point output aligns perfectly with a Win Championship goal. Ravens Regime gains significant dynasty longevity for a retooling timeline."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted construction is optimal as-is. No package adjustments are required because the transaction directly satisfies both teams' verified strategic goals."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 65,
+              "summary": "Acquiring an S-tier goal-line back in Baltimore significantly increases weekly ceiling and championship odds."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Surrenders an age-24 core back for an age-32 veteran, shortening long-term positional longevity."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Replaces Skattebo with Henry at RB1, increasing starting lineup C-AVI sum from 666.6 to 678.5 (+11.9)."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Maintains solid RB depth with David Montgomery, Chuba Hubbard, and Tyrone Tracy remaining intact."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Neutral draft capital and asset liquidity impact."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Substantial net positive. Direct championship upgrade at starting RB1 accelerates 2026 title probability."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Modest decrease in immediate 2026 weekly point projection at RB1."
+            },
+            "dynastyOutlook": {
+              "score": 60,
+              "summary": "Extends long-term positional window by trading a 32-year-old running back for a 24-year-old lead back."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Direct starting RB1 swap results in a minor immediate C-AVI stepdown from 93.5 to 81.6."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Preserves current RB depth structure without creating a newly exposed roster hole."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Increases trade asset value and long-term liquidity by holding a 24-year-old RB1."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Strong strategic retooling outcome. De-ages starting backfield by eight years while securing a locked-in core starter."
+            }
+          },
+          "explanation": "This transaction aligns perfectly with both team contexts. Corgi Loaf Baking Co. trades future age for immediate championship points, while Ravens Regime successfully executes a retooling maneuver by converting an aging superstar into a long-term starter."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. receives an immediate +11.9 C-AVI boost to its starting RB1 slot. Derrick Henry's 93.5 C-AVI reflects elite touchdown equity in Baltimore's run-heavy scheme, providing prime weekly scoring for a championship push.",
+          "sideADynastyImpact": "D-AVI shifts marginally from Skattebo (84.4) to Henry (87.4). While Henry retains strong dynasty market value, Corgi Loaf absorbs age risk by moving from a 24-year-old to a 32-year-old back.",
+          "sideARosterImpact": "Henry slotting into RB1 keeps David Montgomery as a strong RB2 and leaves Chuba Hubbard as high-end FLEX/bench depth, fortifying roster resilience.",
+          "sideBChampionshipImpact": "Ravens Regime absorbs a short-term C-AVI reduction of 11.9 points at RB1, moving from Henry (93.5) to Skattebo (81.6).",
+          "sideBDynastyImpact": "Major strategic win for a Retooling franchise. Skattebo (age 24.0, D-AVI 84.4) secures multi-year starter stability, aligning with Ravens Regime's window.",
+          "sideBRosterImpact": "Skattebo immediately plugs into the RB1 slot alongside Kyle Monangai, preserving lineup structure without needing secondary positional fixes.",
+          "valueAssessment": "A balanced trade where Corgi Loaf captures high-impact 2026 championship ceiling and Ravens Regime captures multi-year age relief."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty sentiment values Derrick Henry as an elite redraft and win-now titan who continues to defy age curves in Baltimore. Cam Skattebo is valued as an energetic second-year lead back with long-term dynasty appeal but slightly higher weekly variance.",
+          "aviVsMarket": "AVI's C-AVI model strongly favors Henry (93.5 vs. 81.6) due to projected PPR points (278.4 vs. 233.5) and high-leverage red-zone usage, whereas public dynasty market charts rank Skattebo slightly closer in value due to his eight-year age advantage.",
+          "relevantContext": [
+            "Derrick Henry has scored 4 touchdowns across the first two weeks of the 2026 season, demonstrating dominant goal-line volume.",
+            "Cam Skattebo has locked down primary early-down duties for the NY Giants following his rookie recovery, logging 81 yards and a TD in Week 1.",
+            "Corgi Loaf Baking Co. is an Elite Contender aiming for the title, making immediate points significantly more valuable than long-term age preservation."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is officially Retooling. Moving a 32-year-old running back for a 24-year-old locked-in starter is the ideal front-office move for their trajectory.",
+          "packageFit": "Clean 1-for-1 positional swap that fulfills both managers' needs without requiring complex pick fillers.",
+          "lineupReplacement": "Skattebo seamlessly fills the vacant RB1 slot on Ravens Regime's active roster.",
+          "competitiveWindowFit": "Direct alignment: Corgi Loaf accelerates its 2026 title push; Ravens Regime extends its multi-year contention window.",
+          "positionalScarcity": "In a 16-team league, obtaining a locked-in 20+ touch weekly RB like Henry provides a definitive competitive edge."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 94,
+          "classification": "Highly Realistic",
+          "explanation": "Ravens Regime is retooling and receives a 24-year-old starter at the exact position surrendered, avoiding any lineup gap. Acceptance probability is exceptionally high."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "For an Elite Contender whose sole objective is 'Win Championship', exchanging Cam Skattebo for Derrick Henry is a high-leverage move. Henry provides a massive +11.9 C-AVI upgrade to your starting lineup, adding elite weekly floor and goal-line upside. Because the deal fits the opponent's Retooling goal just as cleanly, it is both realistic to execute and strategically decisive for your title chase.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 81.6,
+              "davi": 84.4,
+              "publicMarket": 83,
+              "leagueMarket": 82.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 93.5,
+              "davi": 87.4,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ],
+          "whyUserShouldDoIt": "Upgrades your starting RB1 slot by +11.9 C-AVI points immediately, securing elite goal-line production for your 2026 championship run.",
+          "whyOpponentMightAccept": "Acquires a 24-year-old lead running back to anchor their backfield for years to come, perfectly matching their Retooling organizational goal."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Cam Skattebo NFL draft team",
+          "Cam Skattebo news 2026",
+          "Derrick Henry news 2026",
+          "Derrick Henry Ravens contract 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB0P2Y1ZZ6K08j97qyhJbxMcGzXhbBP1xnlZ4hskUbS5lEbvj0_5T61GvAqHKQIxaB-b0akOvjz2YoSLWlSI_rKVWWCgAsex0CDGYIPUh9So2h_z8Y4Zrz3QzrBT3027KJ",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjGLf0zonbmzDbfzd-sQSZN4ixy9wSnyC9nC5LaVoA_3h602Hve6eZZlXC8EsTW9LRu8AIYQjSmwN8kN0wTe6dwcmX6vLJnXOAk6JHrl8RBYWGhskXys1mdjbShsfwCJwY",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJg_Gdemgk6l9pv0iRUYlsa4wCTVd1kNSRuDYiVf5Fg1OJcI3kL_2nwcRAx7IRKTttOjTeFvrJw9BvBAqiDcjB0CkvBhLJQ8XFvcWsCtVKBngKa3vAMHaYRh-E0Gz-JT-kZcFApt1v7-fB2hzq5zWw9DdXGd28S-fTk-HmyGpWSRk_f_83aHfGeONKdtnaMti3p0qQ1EQw",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfK293cK6hqWA0bm2cpSM0gpse6KhthQKZL1ijvnmQF3dL45YuPqfgSkeZunC24sa5g7pBkusuG44Y-0TxU3VrY24eQfCV_ehsZAebb3SZPMmWdc6AYD2Vt29oivUhalbZUJyEsOC_TgyvA9i666P2wY36OGivEqOVhZ8fDU90bU8ZDxNMYgum",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE802VTFI5UJVImLONsq5FRXBGPslaOYBLEAm-ml61zXkvOESR3wfns7f6i1hMF19Bvi0Nqgd49_atgeJ-vIUzQLu1cpWQzyYerCDOg2rn5aTt_kjG51s3BY6-4CPvaDssVxrsIHdghOLVFkt3heAc3Ew==",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuWrw84YWe0_HtkZKtSIV22HyBMhBKg--ILhtjwTcVmslSx86YwVL3NfzvVYKvqO3ifxoJVnvZKk6vHG9Gc_5uFoPnvZ4wCZD4ZcsgQnEjwIEaf42e_C4BKlc8qTzh8xyE0-2fzQE7iw==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdHo9RH-VerGOliJA_DIVpN0ry7rVNoR0AK0leTZmV8iFItD4dOn-5PhKGpCkm_I6qbh9vlQzhip9siQ3X23Mbnyd1S-t251ylMXb274pdLdw_ZFS_yxLcGF8In7PWIKZMLU2P2ywI1zKrP9vGVJc1zg4_KDm-7hHS1n8VkDs70wouW8J0H7wm91kAtiGaLE4yFKpJj4c0IbJ5-A==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl_hxQ_rWI2tStSfoGZzAudR8PsD6mOaD5SgShBds85cIKOVRgOUciche7mTIBcasEPjHMrxuO_NFKYNhu0fiHgKOF6JTwqQYMBTOsVdr2v6BLPuW4TP3ak85rNwmzx819_722cWv2heBIXNjYrbpkhX0DGRBOWpJeBjJEccwQUeNNG3Z4ozpmfQSG8q-TwXWhYlEnsbvmkQ7boh_OgvnaFqc=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWnzIOQIQ9dmMTcUXmVDQZ7Pxha_Df5xnJ5gURldDPCI06GTQOqKlWvy5-9-0a_kPmmMGSVVyiljRbDO_CYhDYcs6XvRq28hRsMVm-enEgQeG-O_myZxj2ifnPbn3cuvldUtgSbRe-RYuWl0Jv1jfk69X6IfhmrUJH9exy22upW-LMjryiTIK9Bog3E8xhpha",
+            "title": "tixel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-9CGn1C90uhOwLqMWn5Lxx0uzrGkQNrmaggeXOBjZk5VyOX0nR6q0bWDunIBEcLC2aEFWcpjFi8RL3JbD3_fVaCkluRyb2RYBP9RiaZ3L3ZjvwwqYz5bthK0zXvGzkK7csLEQGeQ468HKDvEeVWXssYnrKCjEDgj_vEUVCRJ5Zuv5mA9uqDMcINF6t4upYSLI_jp9G1lBwGqf_Gs=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmvMrltN0bRV6-9IkanMoThYvf18XjCP5_21wjXuccZQwSh6gWghxGFK0NiLt5hJzYwtowUsBYOuYV_JSCNdEykalMz2qWd6rUGhyj6CIiOMI2sOYC2A4xXmsrM0To2bIqcW6xCoAWu80FDPH2LtyR0acYFdWi8PnX-1qCZBrMFA==",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "74aea74bea904b398fddf71ed45279b894d1a905",
+        "aviCoreCommittedAt": "2026-09-22T13:47:08Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86574,
+        "groundedMarketChars": 2577,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mucu0oxj-5ea95a6b",
