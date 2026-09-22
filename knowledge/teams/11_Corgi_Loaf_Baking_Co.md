@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-09-21
+- Last updated from Sleeper exports: 2026-09-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 666.8
-- championship_lineup_c_avi_avg: 83.35
-- offensive_roster_c_avi_sum: 987.1
-- offensive_roster_c_avi_avg: 58.06
-- offensive_roster_d_avi_sum: 1178.3
-- offensive_roster_d_avi_avg: 69.31
+- championship_lineup_c_avi_sum: 666.6
+- championship_lineup_c_avi_avg: 83.33
+- offensive_roster_c_avi_sum: 1037.1
+- offensive_roster_c_avi_avg: 61.01
+- offensive_roster_d_avi_sum: 1233.7
+- offensive_roster_d_avi_avg: 72.57
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: DeVonta Smith | C-AVI: 87.4 | D-AVI: 93.0
 - TE: Tyler Warren | C-AVI: 97.3 | D-AVI: 91.1
 - FLEX: Malik Nabers | C-AVI: 80.6 | D-AVI: 93.6
-- FLEX: DJ Moore | C-AVI: 74.1 | D-AVI: 83.6
+- FLEX: DJ Moore | C-AVI: 73.9 | D-AVI: 83.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -110,6 +110,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
+### PLAYER: Chuba Hubbard
+- Player name: Chuba Hubbard
+- Player ID: 7594
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 64.3
+- Dynasty AVI (D-AVI, 0-100): 77.8
+- Projected PPR points: 175.8
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
 ### PLAYER: Tyrone Tracy
 - Player name: Tyrone Tracy
 - Player ID: 11655
@@ -121,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 43.5
-- Dynasty AVI (D-AVI, 0-100): 68.2
+- Championship AVI (C-AVI, 0-100): 43.7
+- Dynasty AVI (D-AVI, 0-100): 68.7
 - Projected PPR points: 75.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -138,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 41.0
+- Championship AVI (C-AVI, 0-100): 41.1
 - Dynasty AVI (D-AVI, 0-100): 54.3
 - Projected PPR points: 84.6
 - Category: offense
@@ -155,26 +172,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 22.3
+- Championship AVI (C-AVI, 0-100): 22.4
 - Dynasty AVI (D-AVI, 0-100): 48.5
 - Projected PPR points: 14.5
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Raheim Sanders
-- Player name: Raheim Sanders
-- Player ID: 12472
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: CLE
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 14.5
-- Dynasty AVI (D-AVI, 0-100): 22.6
-- Projected PPR points: 19.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 74.1
-- Dynasty AVI (D-AVI, 0-100): 83.6
+- Championship AVI (C-AVI, 0-100): 73.9
+- Dynasty AVI (D-AVI, 0-100): 83.3
 - Projected PPR points: 199.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

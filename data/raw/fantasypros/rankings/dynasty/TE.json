@@ -1771,7 +1771,7 @@
     {
       "cbs_player_id": "1685963",
       "player_age": "35",
-      "player_bye_week": null,
+      "player_bye_week": "10",
       "player_ecr_delta": null,
       "player_eligibility": "TE",
       "player_filename": "zach-ertz.php",
@@ -1784,7 +1784,7 @@
       "player_position_id": "TE",
       "player_positions": "TE",
       "player_short_name": "Z. Ertz",
-      "player_team_id": "FA",
+      "player_team_id": "PHI",
       "player_yahoo_id": "26658",
       "player_yahoo_positions": "TE",
       "pos_rank": "TE64",

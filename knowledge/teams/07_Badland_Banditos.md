@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-09-21
+- Last updated from Sleeper exports: 2026-09-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,17 +21,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 646.7
-- championship_lineup_c_avi_avg: 80.84
-- offensive_roster_c_avi_sum: 941.6
-- offensive_roster_c_avi_avg: 58.85
+- championship_lineup_c_avi_sum: 646.8
+- championship_lineup_c_avi_avg: 80.85
+- offensive_roster_c_avi_sum: 941.7
+- offensive_roster_c_avi_avg: 58.86
 - offensive_roster_d_avi_sum: 1131.7
 - offensive_roster_d_avi_avg: 70.73
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Joe Burrow | C-AVI: 86.6 | D-AVI: 87.7
-- RB: Kenneth Walker | C-AVI: 90.7 | D-AVI: 93.0
+- RB: Kenneth Walker | C-AVI: 90.8 | D-AVI: 93.0
 - RB: Bucky Irving | C-AVI: 76.9 | D-AVI: 86.2
 - WR: Ja'Marr Chase | C-AVI: 99.9 | D-AVI: 100.0
 - WR: Terry McLaurin | C-AVI: 75.6 | D-AVI: 84.9
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 90.7
+- Championship AVI (C-AVI, 0-100): 90.8
 - Dynasty AVI (D-AVI, 0-100): 93.0
 - Projected PPR points: 257.0
 - Category: offense

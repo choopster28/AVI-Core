@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-09-21
+- Last updated from Sleeper exports: 2026-09-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -25,16 +25,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - championship_lineup_c_avi_avg: 62.31
 - offensive_roster_c_avi_sum: 889.8
 - offensive_roster_c_avi_avg: 55.61
-- offensive_roster_d_avi_sum: 1132.1
-- offensive_roster_d_avi_avg: 70.76
+- offensive_roster_d_avi_sum: 1131.8
+- offensive_roster_d_avi_avg: 70.74
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jordan Love | C-AVI: 55.5 | D-AVI: 74.3
 - RB: Bhayshul Tuten | C-AVI: 69.1 | D-AVI: 81.2
-- RB: RJ Harvey | C-AVI: 59.8 | D-AVI: 75.9
+- RB: RJ Harvey | C-AVI: 59.9 | D-AVI: 75.9
 - WR: Mike Evans | C-AVI: 72.8 | D-AVI: 79.4
-- WR: Jordan Addison | C-AVI: 64.3 | D-AVI: 81.9
+- WR: Jordan Addison | C-AVI: 64.2 | D-AVI: 81.6
 - TE: Kenyon Sadiq | C-AVI: 59.7 | D-AVI: 78.3
 - FLEX: Xavier Worthy | C-AVI: 59.0 | D-AVI: 78.5
 - FLEX: T.J. Hockenson | C-AVI: 58.3 | D-AVI: 70.4
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 59.8
+- Championship AVI (C-AVI, 0-100): 59.9
 - Dynasty AVI (D-AVI, 0-100): 75.9
 - Projected PPR points: 162.4
 - Category: offense
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 64.3
-- Dynasty AVI (D-AVI, 0-100): 81.9
+- Championship AVI (C-AVI, 0-100): 64.2
+- Dynasty AVI (D-AVI, 0-100): 81.6
 - Projected PPR points: 174.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-09-21
+- Last updated from Sleeper exports: 2026-09-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 751.4
 - championship_lineup_c_avi_avg: 93.92
-- offensive_roster_c_avi_sum: 1155.6
-- offensive_roster_c_avi_avg: 64.20
-- offensive_roster_d_avi_sum: 1333.8
-- offensive_roster_d_avi_avg: 74.10
+- offensive_roster_c_avi_sum: 1155.7
+- offensive_roster_c_avi_avg: 64.21
+- offensive_roster_d_avi_sum: 1321.7
+- offensive_roster_d_avi_avg: 73.43
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 40.9
+- Championship AVI (C-AVI, 0-100): 40.8
 - Dynasty AVI (D-AVI, 0-100): 51.9
 - Projected PPR points: 88.6
 - Category: offense
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 56.2
-- Dynasty AVI (D-AVI, 0-100): 74.6
+- Championship AVI (C-AVI, 0-100): 56.3
+- Dynasty AVI (D-AVI, 0-100): 74.9
 - Projected PPR points: 159.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -280,9 +280,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
-### PLAYER: Xavier Smith
-- Player name: Xavier Smith
-- Player ID: 11168
+### PLAYER: Konata Mumpfield
+- Player name: Konata Mumpfield
+- Player ID: 12718
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: WR
@@ -290,10 +290,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: LAR
 - Active: True
 - Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 19.3
-- Dynasty AVI (D-AVI, 0-100): 53.6
-- Projected PPR points: 25.7
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 19.4
+- Dynasty AVI (D-AVI, 0-100): 41.2
+- Projected PPR points: 29.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -307,7 +307,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: CAR
 - Active: True
 - Status: Inactive
-- Age: 22.0
+- Age: 23.0
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 38.9
 - Projected PPR points: None

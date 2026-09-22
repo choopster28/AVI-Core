@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-21T21:25:29.249412+00:00",
+  "generated_at_utc": "2026-09-22T00:56:16.187471+00:00",
   "statistics": {
-    "owner_trade_participations": 163,
+    "owner_trade_participations": 165,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -46,9 +46,8 @@
         "team_name": "Corgi Loaf Baking Co. "
       },
       {
-        "partner_count": 2,
+        "partner_count": 3,
         "partners": [
-          "Conquistadors",
           "Corgi Loaf Baking Co. "
         ],
         "roster_id": 16,
@@ -147,18 +146,18 @@
         "by_season": {
           "2024": 7,
           "2025": 4,
-          "2026": 13
+          "2026": 14
         },
         "firsts_in": 6,
-        "firsts_out": 7,
+        "firsts_out": 8,
         "owner_display_name": "awang1900",
         "picks_in": 8,
-        "picks_out": 12,
-        "players_in": 36,
-        "players_out": 36,
+        "picks_out": 13,
+        "players_in": 37,
+        "players_out": 37,
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. ",
-        "total": 24
+        "total": 25
       },
       {
         "by_season": {
@@ -281,18 +280,18 @@
       {
         "by_season": {
           "2025": 1,
-          "2026": 6
+          "2026": 7
         },
-        "firsts_in": 4,
+        "firsts_in": 5,
         "firsts_out": 0,
         "owner_display_name": "nickas",
-        "picks_in": 8,
+        "picks_in": 9,
         "picks_out": 2,
-        "players_in": 12,
-        "players_out": 10,
+        "players_in": 13,
+        "players_out": 11,
         "roster_id": 16,
         "team_name": "Crimson Tide Pods",
-        "total": 7
+        "total": 8
       },
       {
         "by_season": {
@@ -409,10 +408,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 38
+      "2026": 39
     },
-    "two_team_trades": 80,
-    "unique_completed_trades": 81
+    "two_team_trades": 81,
+    "unique_completed_trades": 82
   },
   "trades": [
     {
@@ -5972,6 +5971,74 @@
       ],
       "transaction_id": "1401283482868592640",
       "week": 1
+    },
+    {
+      "created_at_utc": "2026-09-21T22:10:14.473000+00:00",
+      "created_timestamp_ms": 1790028614473,
+      "roster_ids": [
+        11,
+        16
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "7594",
+              "player_name": "Chuba Hubbard"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12472",
+              "player_name": "Raheim Sanders"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        },
+        {
+          "owner_display_name": "nickas",
+          "owner_id": "471824466389757952",
+          "picks_received": [
+            {
+              "original_roster_id": 8,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "12472",
+              "player_name": "Raheim Sanders"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7594",
+              "player_name": "Chuba Hubbard"
+            }
+          ],
+          "roster_id": 16,
+          "season": 2026,
+          "team_name": "Crimson Tide Pods"
+        }
+      ],
+      "transaction_id": "1407885687583154176",
+      "week": 2
     }
   ]
 }
