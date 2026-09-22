@@ -1,5 +1,50 @@
 [
   {
+    "id": "mucr9ogm-188ac273",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Balance Roster",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        },
+        {
+          "name": "Jacory Croskey-Merritt",
+          "assetType": "player"
+        },
+        {
+          "name": "Kaytron Allen",
+          "assetType": "player"
+        },
+        {
+          "name": "Kyle Pitts",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        },
+        {
+          "name": "Harold Fannin",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "is ravens regime giving out too much?"
+    },
+    "createdAt": 1790086475696,
+    "updatedAt": 1790086475696,
+    "expiresAt": 1790518475696,
+    "status": "queued"
+  },
+  {
     "id": "mucr3rxx-b8295c2c",
     "phase": "initial",
     "mode": "propose_trade",
