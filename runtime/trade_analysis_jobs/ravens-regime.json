@@ -1,5 +1,33 @@
 [
   {
+    "id": "mud7inlh-c3eda3f9",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Northside Kings",
+      "targetAssets": [
+        {
+          "name": "Kenyon Sadiq",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Isaiah Likely",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1790113768181,
+    "updatedAt": 1790113768181,
+    "expiresAt": 1790545768181,
+    "status": "queued"
+  },
+  {
     "id": "mucu8q9o-3b23d451",
     "phase": "initial",
     "mode": "propose_trade",
