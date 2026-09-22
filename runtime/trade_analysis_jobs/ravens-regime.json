@@ -1,5 +1,49 @@
 [
   {
+    "id": "mucu8q9o-3b23d451",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Add Dynasty Value",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        },
+        {
+          "name": "Kyle Pitts",
+          "assetType": "player"
+        },
+        {
+          "name": "Jacory Croskey-Merritt",
+          "assetType": "player"
+        },
+        {
+          "name": "Kaytron Allen",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jeremiyah Love",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyler Allgeier",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1790091470076,
+    "updatedAt": 1790091470076,
+    "expiresAt": 1790523470076,
+    "status": "queued"
+  },
+  {
     "id": "mucr9ogm-188ac273",
     "phase": "final",
     "mode": "propose_trade",
