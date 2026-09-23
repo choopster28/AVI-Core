@@ -2639,7 +2639,7 @@
     {
       "cbs_player_id": "26713577",
       "player_age": "23",
-      "player_bye_week": "8",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "audric-estime.php",
@@ -2652,7 +2652,7 @@
       "player_position_id": "RB",
       "player_positions": "RB",
       "player_short_name": "A. Estime",
-      "player_team_id": "NO",
+      "player_team_id": "FA",
       "player_yahoo_id": "41019",
       "player_yahoo_positions": "RB",
       "pos_rank": "RB95",

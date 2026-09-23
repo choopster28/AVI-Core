@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-09-22
+- Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,17 +21,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 505.5
-- championship_lineup_c_avi_avg: 63.19
-- offensive_roster_c_avi_sum: 912.4
-- offensive_roster_c_avi_avg: 57.02
+- championship_lineup_c_avi_sum: 505.6
+- championship_lineup_c_avi_avg: 63.20
+- offensive_roster_c_avi_sum: 912.5
+- offensive_roster_c_avi_avg: 57.03
 - offensive_roster_d_avi_sum: 1127.0
 - offensive_roster_d_avi_avg: 70.44
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jordan Love | C-AVI: 58.1 | D-AVI: 73.6
-- RB: Bhayshul Tuten | C-AVI: 71.1 | D-AVI: 81.1
+- RB: Bhayshul Tuten | C-AVI: 71.2 | D-AVI: 81.1
 - RB: Kenny Gainwell | C-AVI: 56.4 | D-AVI: 71.1
 - WR: Mike Evans | C-AVI: 74.0 | D-AVI: 78.1
 - WR: Jordan Addison | C-AVI: 61.5 | D-AVI: 79.9
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 71.1
+- Championship AVI (C-AVI, 0-100): 71.2
 - Dynasty AVI (D-AVI, 0-100): 81.1
 - Projected PPR points: 188.3
 - Category: offense

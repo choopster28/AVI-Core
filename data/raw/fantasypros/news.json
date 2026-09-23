@@ -1,438 +1,442 @@
 {
-  "count": 24,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
+        "News"
+      ],
+      "created": "2026-09-23 00:19:27",
+      "created_formated": "Wed, Sep 23rd 12:19am UTC",
+      "desc": "The Chargers signed TE Hayden Rucci off the Jaguars' practice squad.",
+      "id": 609911,
+      "impact": "Rucci is a depth addition for the Chargers with David Njoku and Charlie Kolar placed on injured reserve. ",
+      "link": "https://www.fantasypros.com/nfl/news/609911/hayden-rucci-signed-by-chargers.php",
+      "player_id": 26946,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Hayden Rucci signed by Chargers"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-22 16:28:47",
-      "created_formated": "Tue, Sep 22nd 4:28pm UTC",
-      "desc": "Arian Smith is expected to miss time with a knee injury. ",
-      "id": 609818,
-      "impact": "It is unclear how serious the injury is for Smith. ",
-      "link": "https://www.fantasypros.com/nfl/news/609818/arian-smith-knee-expected-to-miss-time.php",
+      "created": "2026-09-23 00:18:29",
+      "created_formated": "Wed, Sep 23rd 12:18am UTC",
+      "desc": "The Patriots placed Mike Onwenu on injured reserve.",
+      "id": 609910,
+      "impact": "Onwenu went down this past Sunday against the Steelers. He will miss at least four games. ",
+      "link": "https://www.fantasypros.com/nfl/news/609910/mike-onwenu-ankle-placed-on-ir.php",
+      "player_id": 19382,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Mike Onwenu (ankle) placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-23 00:17:15",
+      "created_formated": "Wed, Sep 23rd 12:17am UTC",
+      "desc": "The Lions signed S Bishop Fitzgerald off the Steelers' practice squad.",
+      "id": 609909,
+      "impact": "Fitzgerald will add depth in the secondary for Detroit. ",
+      "link": "https://www.fantasypros.com/nfl/news/609909/bishop-fitzgerald-signs-with-lions.php",
+      "player_id": 28265,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Bishop Fitzgerald signs with Lions "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-23 00:15:54",
+      "created_formated": "Wed, Sep 23rd 12:15am UTC",
+      "desc": "Chargers TE Charlie Kolar is undergoing surgery and plans to return in four weeks.",
+      "id": 609908,
+      "impact": "Kolar will aim to return in late October. ",
+      "link": "https://www.fantasypros.com/nfl/news/609908/charlie-kolar-forearm-to-undergo-surgery-miss-least-four-weeks.php",
+      "player_id": 22756,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Charlie Kolar (forearm) to undergo surgery, miss at least four weeks"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-23 00:14:43",
+      "created_formated": "Wed, Sep 23rd 12:14am UTC",
+      "desc": "Anthony Belton was limited in practice on Tuesday. ",
+      "id": 609907,
+      "impact": "Belton is Green Bay's new starting right tackle with Zach Bako-Bewele done for the season. His status will need to be monitored in practice on Wednesday. ",
+      "link": "https://www.fantasypros.com/nfl/news/609907/anthony-belton-elbow-limited-practice.php",
+      "player_id": 26200,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Anthony Belton (elbow) limited in practice "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-23 00:13:26",
+      "created_formated": "Wed, Sep 23rd 12:13am UTC",
+      "desc": "Packers coach Matt LaFleur said \"it's way too early\" to determine whether WR Jayden Reed resumes playing this season.",
+      "id": 609906,
+      "impact": "LaFleur clarified it was a neck injury for Reed as reports have continued to go back-and-forth between a neck and back injury. Reed is back in Green Bay and is going through a series of tests.",
+      "link": "https://www.fantasypros.com/nfl/news/609906/jayden-reed-neck-uncertain-on-returning-this-season.php",
+      "player_id": 23020,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Jayden Reed (neck) uncertain on returning this season"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-23 00:11:11",
+      "created_formated": "Wed, Sep 23rd 12:11am UTC",
+      "desc": "The Lions released LB Joe Bachie.",
+      "id": 609905,
+      "impact": "Bachie will seek another opportunity. He has not seen the field this season. ",
+      "link": "https://www.fantasypros.com/nfl/news/609905/joe-bachie-released-by-lions.php",
+      "player_id": 19331,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Joe Bachie released by Lions"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-23 00:09:53",
+      "created_formated": "Wed, Sep 23rd 12:09am UTC",
+      "desc": "Sam Darnold reportedly \"has a chance\" to return in Week 3 against the Commanders.",
+      "id": 609904,
+      "impact": "Darnold is expected to return to practice this week. Drew Lock is still likely to start another game, but it is a positive report on Darnold nonetheless. ",
+      "link": "https://www.fantasypros.com/nfl/news/609904/sam-darnold-glute-has-chance-to-return-week-3.php",
+      "player_id": 17236,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Sam Darnold (glute) 'has a chance' to return in Week 3"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-23 00:07:05",
+      "created_formated": "Wed, Sep 23rd 12:07am UTC",
+      "desc": "Brock Bowers is reportedly \"expected\" to return this week. ",
+      "id": 609903,
+      "impact": "It was previously reported that Bowers was expected to practice this week after he returned to practice last Friday. His status will need to be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/609903/brock-bowers-knee-expected-to-return-week-3.php",
+      "player_id": 22955,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Brock Bowers (knee) 'expected' to return in Week 3 "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-22 22:30:52",
+      "created_formated": "Tue, Sep 22nd 10:30pm UTC",
+      "desc": "Steelers RB Rico Dowdle is considered day-to-day with a toe injury. ",
+      "id": 609890,
+      "impact": "Dowdle was carted to the locker room on Sunday with the injury. He checked out \"relatively OK\" following tests. ",
+      "link": "https://www.fantasypros.com/nfl/news/609890/rico-dowdle-toe-day-to-day.php",
+      "player_id": 19647,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Rico Dowdle (toe) day-to-day "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-22 22:29:37",
+      "created_formated": "Tue, Sep 22nd 10:29pm UTC",
+      "desc": "Jets TE Mason Taylor is week-to-week with a thumb injury. ",
+      "id": 609889,
+      "impact": "Taylor will likely be sidelined this week for the Jets. ",
+      "link": "https://www.fantasypros.com/nfl/news/609889/mason-taylor-thumb-week-to-week.php",
+      "player_id": 26005,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Mason Taylor (thumb) week-to-week "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 22:16:44",
+      "created_formated": "Tue, Sep 22nd 10:16pm UTC",
+      "desc": "The 49ers signed WR Brandin Cooks to their practice squad. ",
+      "id": 609888,
+      "impact": "Cooks will be entering year 13 in the NFL. He'll add depth in the wide receiver room for San Francisco. ",
+      "link": "https://www.fantasypros.com/nfl/news/609888/brandin-cooks-signs-with-49ers-practice-squad.php",
+      "player_id": 12122,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Brandin Cooks signs with 49ers practice squad "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-22 20:48:41",
+      "created_formated": "Tue, Sep 22nd 8:48pm UTC",
+      "desc": "Brian Robinson Jr. was a full participant in practice on Tuesday. ",
+      "id": 609859,
+      "impact": "Robinson is dealing with an ankle injury. He is on track to be good to go in his backup role on Thursday against the Packers. ",
+      "link": "https://www.fantasypros.com/nfl/news/609859/brian-robinson-jr-ankle-logs-full-practice-tuesday.php",
+      "player_id": 20094,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Brian Robinson Jr. (ankle) logs full practice Tuesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-22 20:47:25",
+      "created_formated": "Tue, Sep 22nd 8:47pm UTC",
+      "desc": "Tua Tagovailoa was a full participant in practice on Tuesday. ",
+      "id": 609858,
+      "impact": "Tagovailoa has missd the first two weeks of the season due to an oblique injury. Michael Penix Jr. was already named the starter, so Tagovailoa would figure to back him up if he is cleared. ",
+      "link": "https://www.fantasypros.com/nfl/news/609858/tua-tagovailoa-oblique-logs-full-practice-tuesday.php",
+      "player_id": 19198,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Tua Tagovailoa (oblique) logs full practice Tuesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 20:43:50",
+      "created_formated": "Tue, Sep 22nd 8:43pm UTC",
+      "desc": "The Vikings signed four-time Pro Bowl P Johnny Hekker. ",
+      "id": 609857,
+      "impact": "Hekker is back with the team after being released in August.",
+      "link": "https://www.fantasypros.com/nfl/news/609857/johnny-hekker-signs-with-vikings.php",
+      "player_id": 11422,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Johnny Hekker signs with Vikings "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 20:42:46",
+      "created_formated": "Tue, Sep 22nd 8:42pm UTC",
+      "desc": "The Steelers signed DB Darius Rush to their practice squad. ",
+      "id": 609856,
+      "impact": "Rush will add depth in the secondary for Pittsburgh. ",
+      "link": "https://www.fantasypros.com/nfl/news/609856/darius-rush-signs-with-steelers-practice-squad.php",
+      "player_id": 25456,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Darius Rush signs with Steelers practice squad "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 20:41:50",
+      "created_formated": "Tue, Sep 22nd 8:41pm UTC",
+      "desc": "The Steelers signed WR Isaiah Hodgins to their practice squad. ",
+      "id": 609855,
+      "impact": "Hodgins will add depth in the wide receiver room with Pittsburgh. ",
+      "link": "https://www.fantasypros.com/nfl/news/609855/isaiah-hodgins-signs-with-steelers-practice-squad.php",
+      "player_id": 19375,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Isaiah Hodgins signs with Steelers practice squad "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 20:40:37",
+      "created_formated": "Tue, Sep 22nd 8:40pm UTC",
+      "desc": "The Saints signed LS Cal Adomitis off the Dolphins practice squad.",
+      "id": 609854,
+      "impact": "Adomitis will add depth at long snapper for New Orleans. ",
+      "link": "https://www.fantasypros.com/nfl/news/609854/cal-adomitis-signs-with-saints.php",
+      "player_id": 24846,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Cal Adomitis signs with Saints "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 20:38:33",
+      "created_formated": "Tue, Sep 22nd 8:38pm UTC",
+      "desc": "The Vikings signed RB Jaret Patterson to their practice squad. ",
+      "id": 609853,
+      "impact": "Patterson was with the Chargers last season. He'll add depth in the backfield for Minnesota. ",
+      "link": "https://www.fantasypros.com/nfl/news/609853/jaret-patterson-signs-with-vikings.php",
+      "player_id": 20155,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jaret Patterson signs with Vikings"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 20:36:31",
+      "created_formated": "Tue, Sep 22nd 8:36pm UTC",
+      "desc": "The Bears brought back Nick McCloud to their practice squad. ",
+      "id": 609852,
+      "impact": "McCloud played in 15 games for them last season and started in four.",
+      "link": "https://www.fantasypros.com/nfl/news/609852/nick-mccloud-returns-to-bears.php",
+      "player_id": 23412,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Nick McCloud returns to Bears"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-22 20:35:23",
+      "created_formated": "Tue, Sep 22nd 8:35pm UTC",
+      "desc": "Jordan Love told reporters that his elbow injury is a non-issue for Week 3 against the Falcons. ",
+      "id": 609851,
+      "impact": "Love said discomfort in his elbow went away before Jets game ended. He indicated the elbow is a non-issue for the Falcons game, even on a short week.",
+      "link": "https://www.fantasypros.com/nfl/news/609851/jordan-love-says-elbow-is-non-issue-week-3.php",
+      "player_id": 19246,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Jordan Love says elbow is non-issue for Week 3"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 20:33:40",
+      "created_formated": "Tue, Sep 22nd 8:33pm UTC",
+      "desc": "The Panthers signed WR Ihmir Smith-Marsette to their practice squad. ",
+      "id": 609850,
+      "impact": "Smith-Marsette will add depth at wide receiver and on special teams for Carolina. ",
+      "link": "https://www.fantasypros.com/nfl/news/609850/ihmir-smith-marsette-signs-with-panthers.php",
+      "player_id": 20116,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Ihmir Smith-Marsette signs with Panthers "
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 20:30:47",
+      "created_formated": "Tue, Sep 22nd 8:30pm UTC",
+      "desc": "Marcelino McCrary-Ball (ankle) has been placed on injured reserve and will be out for at least four weeks.",
+      "id": 609849,
+      "impact": "The Jets have placed several players on injured reserve this week, including McCrary-Ball, who will now miss at least four weeks due to an ankle injury. His absence shouldn't have a big impact on the team for the foreseeable future, however.",
+      "link": "https://www.fantasypros.com/nfl/news/609849/marcelino-mccrary-ball-ankle-placed-on-injured-reserve.php",
+      "player_id": 24642,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Marcelino McCrary-Ball (ankle) placed on injured reserve"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 20:28:17",
+      "created_formated": "Tue, Sep 22nd 8:28pm UTC",
+      "desc": "David Onyemata (groin) has been placed on injured reserve, knocking him out for the next four weeks at least.",
+      "id": 609848,
+      "impact": "The Jets are losing a key starter on their defensive line. Onyemata suffered a groin injury in Week 2 and now lands on injured reserve, which guarantees an absence of at least six weeks for him. New York's defensive front will look weaker without him for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/609848/david-onyemata-groin-lands-on-injured-reserve.php",
+      "player_id": 15662,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "David Onyemata (groin) lands on injured reserve"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-22 20:25:48",
+      "created_formated": "Tue, Sep 22nd 8:25pm UTC",
+      "desc": "Arian Smith (knee) has been placed on injured reserve and will be sidelined for at least the next four weeks.",
+      "id": 609847,
+      "impact": "Smith recently suffered a knee injury and finds himself on injured reserve as a result. He will be sidelined for at least the next four weeks as a result, but his absence isn't expected to have a big impact on New York's offense.",
+      "link": "https://www.fantasypros.com/nfl/news/609847/arian-smith-knee-placed-on-injured-reserve.php",
       "player_id": 22965,
       "sport_id": "NFL",
       "team_id": "NYJ",
-      "title": "Arian Smith (knee) expected to miss time"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-22 16:09:58",
-      "created_formated": "Tue, Sep 22nd 4:09pm UTC",
-      "desc": "Giants head coach John Harbaugh said Brian Burns sustained a low ankle sprain in Week 2 against the Rams.",
-      "id": 609817,
-      "impact": "Burns suffered the sprain in the fourth quarter of Monday's blowout loss. He was diagnosed with a low ankle sprain. His status is uncertain for Week 3. ",
-      "link": "https://www.fantasypros.com/nfl/news/609817/brian-burns-suffers-low-ankle-sprain.php",
-      "player_id": 18223,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Brian Burns suffers low ankle sprain"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-22 16:07:47",
-      "created_formated": "Tue, Sep 22nd 4:07pm UTC",
-      "desc": "Rams head coach Sean McVay said he's \"not sure\" if Puka Nacua will play in Week 3.  ",
-      "id": 609816,
-      "impact": "McVay said he's \"hopeful\" Nacua will be able to suit up against Denver next week. If he remains sidelined, Davante Adams and Terrance Ferguson would remain in bigger roles. ",
-      "link": "https://www.fantasypros.com/nfl/news/609816/puka-nacua-hip-uncertain-week-3.php",
-      "player_id": 23180,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Puka Nacua (hip) uncertain for Week 3"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-22 01:15:36",
-      "created_formated": "Tue, Sep 22nd 1:15am UTC",
-      "desc": "Malik Nabers (shoulder) has returned to the Giants game against the Rams on Monday.",
-      "id": 609701,
-      "impact": "Nabers was initially questionable to return with a shoulder injury that appeared to put him in a lot of pain. However, it seems to be just a stinger, and he's back on the field. It's worth keeping an eye on though, as another hit could put him right back out.",
-      "link": "https://www.fantasypros.com/nfl/news/609701/malik-nabers-shoulder-returns-to-monday-night-football.php",
-      "player_id": 25409,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Malik Nabers (shoulder) returns to Monday Night Football"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-22 14:27:05",
-      "created_formated": "Tue, Sep 22nd 2:27pm UTC",
-      "desc": "Will Johnson (neck) could miss the remainder of the season. ",
-      "id": 609815,
-      "impact": "Johnson went down with a neck injury during Sunday's loss to the Seahawks. The second-year corner has already recorded eight tackles and a fumble recovery in two games this season. Kei'Trel Clark will likely see a significant boost in playing time with Johnson down. ",
-      "link": "https://www.fantasypros.com/nfl/news/609815/will-johnson-neck-could-miss-rest-season.php",
-      "player_id": 27009,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Will Johnson (neck) could miss rest of season "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:31:06",
-      "created_formated": "Tue, Sep 22nd 12:31pm UTC",
-      "desc": "The Giants' D/ST logged one sack, one interception, and one fumble recovery while allowing 28 points in Monday night's loss to the Los Angeles Rams.",
-      "id": 609814,
-      "impact": "New York's defense struggled on Monday night. They allowed 28 points over the course of the game, despite actually forcing a couple turnovers to help their offense out. This unit should not be started moving forward, even with a relatively easy schedule coming down the pipe for them.",
-      "link": "https://www.fantasypros.com/nfl/news/609814/giants-dst-allows-28-points-loss-monday.php",
-      "player_id": 8200,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Giants D/ST allows 28 points in loss Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:29:12",
-      "created_formated": "Tue, Sep 22nd 12:29pm UTC",
-      "desc": "Dominic Zvada made both of his field-goal attempts in Monday night's 28-6 loss to the Los Angeles Rams.",
-      "id": 609813,
-      "impact": "Zvada scored New York's only points on Monday night, accounting for all six of their points with his two made field goals. He has looked pretty good through the first two games of the season, although he doesn't project to be a good fantasy option at the position anytime soon.",
-      "link": "https://www.fantasypros.com/nfl/news/609813/dominic-zvada-scores-six-points-loss-monday.php",
-      "player_id": 28176,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Dominic Zvada scores six points in loss Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:27:08",
-      "created_formated": "Tue, Sep 22nd 12:27pm UTC",
-      "desc": "Tyrone Tracy Jr. did not see a single carry or target in Monday night's 28-6 loss to the Los Angeles Rams.",
-      "id": 609812,
-      "impact": "New York seems to have phased Tracy out of the offense altogether, as he was relegated to just special teams against the Rams and saw no opportunities on offense. Najee Harris worked in and saw four touches on the night, so it looks like the 26-year old may have lost his spot as a depth piece in the backfield.",
-      "link": "https://www.fantasypros.com/nfl/news/609812/tyrone-tracy-jr-held-without-touch-monday.php",
-      "player_id": 22980,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Tyrone Tracy Jr. held without a touch Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:24:29",
-      "created_formated": "Tue, Sep 22nd 12:24pm UTC",
-      "desc": "Najee Harris rushed the ball four times for six yards in Monday night's 28-6 loss to the Los Angeles Rams.",
-      "id": 609811,
-      "impact": "Harris wasn't able to accomplish anything on the box score on Monday night, but it looks like he is starting to get involved on New York's offense. He saw the second-most carries out of anyone on the team, although he wasn't able to do much with them. It looks like he may be overtaking Tyrone Tracy Jr. in this backfield, who himself didn't see a single opportunity on offense against the Rams.",
-      "link": "https://www.fantasypros.com/nfl/news/609811/najee-harris-sees-four-carries-loss-monday.php",
-      "player_id": 19302,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Najee Harris sees four carries in loss Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:21:42",
-      "created_formated": "Tue, Sep 22nd 12:21pm UTC",
-      "desc": "Darnell Mooney hauled in 2-of-3 targets for 48 yards in Monday night's 28-6 loss to the Los Angeles Rams.",
-      "id": 609810,
-      "impact": "The veteran was technically the team's leader in receiving yards on Monday night, but he did it with just 48 over the course of the game, which still left him with a poor fantasy total. He shouldn't be rostered in most league formats for the foreseeable future.",
-      "link": "https://www.fantasypros.com/nfl/news/609810/darnell-mooney-leads-team-receiving-monday.php",
-      "player_id": 19810,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Darnell Mooney leads team in receiving Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:20:06",
-      "created_formated": "Tue, Sep 22nd 12:20pm UTC",
-      "desc": "Devin Singletary rushed the ball three times for nine yards and failed to catch his lone target in Monday's 28-6 loss to the Los Angeles Rams.",
-      "id": 609809,
-      "impact": "Singletary involvement was minimal on Monday, as he saw just three touches over the course of the game. He wasn't able to do much with those touches, and it was less than ideal to see Najee Harris come in and out-touch him in this matchup. He is off of the fantasy radar moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/609809/devin-singletary-non-factor-monday.php",
-      "player_id": 18280,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Devin Singletary a non-factor Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:18:15",
-      "created_formated": "Tue, Sep 22nd 12:18pm UTC",
-      "desc": "Malachi Fields hauled in 2-of-6 targets for 30 yards in Monday night's 28-6 loss to the Los Angeles Rams.",
-      "id": 609808,
-      "impact": "The Giants were trying to get the rookie wideout the ball on Monday night, but he was only able to haul in two out of his six targets over the course of the game. He finished with just 30 yards and isn't expected to get much better over the next couple of weeks with QB Jaxson Dart (knee) seemingly set to miss some time for New York.",
-      "link": "https://www.fantasypros.com/nfl/news/609808/malachi-fields-hauls-two-passes-monday.php",
-      "player_id": 27994,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Malachi Fields hauls in two passes Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:16:06",
-      "created_formated": "Tue, Sep 22nd 12:16pm UTC",
-      "desc": "Jameis Winston completed 11-of-27 passing attempts for 111 yards and an interception in Monday night's 28-6 loss to the Los Angeles Rams.",
-      "id": 609807,
-      "impact": "The veteran quarterback came into the game when Jaxson Dart left with a knee injury. Winston didn't look good against the Rams, finishing with just over 100 scoreless yards in a blowout loss. It looks like Jaxson Dart is going to miss a bit of time with a sprained MCL, leaving Winston as the short-term starter for New York, which will be less than ideal for most of the fantasy options on their roster.",
-      "link": "https://www.fantasypros.com/nfl/news/609807/jameis-winston-underwhelms-loss-monday.php",
-      "player_id": 13891,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Jameis Winston underwhelms in loss Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:13:28",
-      "created_formated": "Tue, Sep 22nd 12:13pm UTC",
-      "desc": "Isaiah Likely hauled in 5-of-10 targets for 33 yards in Monday night's 28-6 loss to the Los Angeles Rams.",
-      "id": 609806,
-      "impact": "Likely didn't put up great numbers on Monday night, finishing with just 33 yards in a loss to the Rams. He was still the most targeted player on the team by far, however, which is a good sign that he will bounce back and return to form sometime in the near future. His bounce back may be delayed is Jaxson Dart (knee) has to miss time for the Giants.",
-      "link": "https://www.fantasypros.com/nfl/news/609806/isaiah-likely-hauls-five-passes-monday.php",
-      "player_id": 23781,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Isaiah Likely hauls in five passes Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:11:07",
-      "created_formated": "Tue, Sep 22nd 12:11pm UTC",
-      "desc": "Cam Skattebo rushed the ball 12 times for 36 yards and caught four passes for 19 yards in Monday night's 28-6 loss to the Los Angeles Rams.",
-      "id": 609805,
-      "impact": "Skattebo was pretty well bottled up on Monday night. He was only able to rush for 36 yards at an inefficient clip of 3.0 yards per carry, and he didn't add much in the passing game outside of four receptions. New York's offense as a whole was a mess with injuries in this game, but the young running back will have ample opportunities to bounce back with matchups against the Titans and Cardinals coming up over the next two weeks.",
-      "link": "https://www.fantasypros.com/nfl/news/609805/cam-skattebo-inefficient-loss-monday.php",
-      "player_id": 27166,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Cam Skattebo inefficient in loss Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:05:56",
-      "created_formated": "Tue, Sep 22nd 12:05pm UTC",
-      "desc": "The Rams' D/ST logged two sacks and an interception while allowing just six points in Monday night's blowout win over the New York Giants.",
-      "id": 609803,
-      "impact": "Los Angeles' defense looked good on Monday night. They held the Giants' offense to just six points on the night, but that was also aided by the multiple key injuries that New York suffered over the course of the night. This unit can be started in a matchup against the Broncos next week, although that is by no means an easy game for them.",
-      "link": "https://www.fantasypros.com/nfl/news/609803/rams-dst-plays-well-win-monday.php",
-      "player_id": 8280,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Rams D/ST plays well in win Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:03:11",
-      "created_formated": "Tue, Sep 22nd 12:03pm UTC",
-      "desc": "Harrison Mevis went 4-for-4 on his extra-point attempts but missed his lone field-goal attempt in Monday night's 28-6 win over the New York Giants.",
-      "id": 609802,
-      "impact": "Mevis missed a field goal late in Monday night's game, but luckily for him, it wasn't very consequential with Los Angeles already being up several scores. He should return to being a solid fantasy option at the position somewhat soon.",
-      "link": "https://www.fantasypros.com/nfl/news/609802/harrison-mevis-misses-kick-win-monday.php",
-      "player_id": 26638,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Harrison Mevis misses kick in win Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 12:01:30",
-      "created_formated": "Tue, Sep 22nd 12:01pm UTC",
-      "desc": "Tutu Atwell caught 1-of-2 targets for 19 yards in Monday night's 28-6 win over the New York Giants.",
-      "id": 609801,
-      "impact": "The veteran wideout wasn't able to capitalize on the absence of Puka Nacua (hip) on Monday night, hauling in just one pass over the course of the night. He remains off of the fantasy radar for the foreseeable future.",
-      "link": "https://www.fantasypros.com/nfl/news/609801/tutu-atwell-held-to-one-catch-monday.php",
-      "player_id": 20126,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Tutu Atwell held to one catch Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 11:59:55",
-      "created_formated": "Tue, Sep 22nd 11:59am UTC",
-      "desc": "Colby Parkinson caught two passes for 15 yards in Monday night's 28-6 win over the New York Giants.",
-      "id": 609800,
-      "impact": "Parkinson wasn't much of a factor on Monday night, totaling just 15 yards over the course of the team's blowout win. It seems that Terrance Ferguson is clearly surpassing him as a receiving threat, which would render Parkinson entirely irrelevant from a fantasy standpoint moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/609800/colby-parkinson-quiet-win-monday.php",
-      "player_id": 19372,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Colby Parkinson quiet in win Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 11:58:12",
-      "created_formated": "Tue, Sep 22nd 11:58am UTC",
-      "desc": "Terrance Ferguson caught 6-of-9 targets for 54 yards and a touchdown in Monday night's 28-6 win over the New York Giants.",
-      "id": 609799,
-      "impact": "Ferguson looked great on Monday night. He saw more work than usual with Puka Nacua (hip) out of the lineup for Los Angeles, and he was able to capitalize by putting up 54 yards and scoring a touchdown against the Giants. He has shown his talent and could continue to have week-to-week upside moving forward, although good games will be hard to predict when Nacua makes his return to the lineup.",
-      "link": "https://www.fantasypros.com/nfl/news/609799/terrance-ferguson-plays-well-win-monday.php",
-      "player_id": 23091,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Terrance Ferguson plays well in win Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 11:55:53",
-      "created_formated": "Tue, Sep 22nd 11:55am UTC",
-      "desc": "Blake Corum rushed the ball 12 times for 79 yards and caught one pass for 13 yards in Monday night's 28-6 win over the New York Giants.",
-      "id": 609798,
-      "impact": "Los Angeles' offense looked great on Monday night, and Corum was no exception to that. He put up 92 total yards on just 13 opportunities, although he wasn't able to get into the endzone to put the capstone on that. The Rams' backfield is a situation to continue monitoring, with Corum and Kyren Williams each seeing the same amount of carries in this blowout win.",
-      "link": "https://www.fantasypros.com/nfl/news/609798/blake-corum-totals-92-yards-win-monday.php",
-      "player_id": 23013,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Blake Corum totals 92 yards in win Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 11:53:35",
-      "created_formated": "Tue, Sep 22nd 11:53am UTC",
-      "desc": "Davante Adams hauled in 8-of-10 targets for 195 yards and two touchdowns in Monday night's 28-6 win over the New York Giants.",
-      "id": 609797,
-      "impact": "Adams had one of his best games as a Ram on Monday night. He put up nearly 200 receiving yards in this blowout win over the Giants, and he was also able to get into the end zone on two separate occasions. He really stepped up in the absence of Puka Nacua (hip), so if he misses more time, fantasy managers should continue to view Adams as a can't-miss option any given week that he's the team's undisputed WR1.",
-      "link": "https://www.fantasypros.com/nfl/news/609797/davante-adams-dominant-win-monday.php",
-      "player_id": 12123,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Davante Adams dominant in win Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 11:51:31",
-      "created_formated": "Tue, Sep 22nd 11:51am UTC",
-      "desc": "Kyren Williams rushed the ball 12 times for 85 yards and caught two passes for 12 yards and a touchdown in Monday night's 28-6 win over the New York Giants.",
-      "id": 609796,
-      "impact": "Williams had a productive night on Monday. He led the team in rushing and fell just three yards shy of the 100-total yards mark over the course of the game, and he was also able to haul in a touchdown to put the cherry on top. Concerns still exist for his season-long outlook, though, with Blake Corum seeing just one less touch on the night and seemingly only getting better and better.",
-      "link": "https://www.fantasypros.com/nfl/news/609796/kyren-williams-finds-end-zone-monday.php",
-      "player_id": 23059,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Kyren Williams finds end zone Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-22 11:49:09",
-      "created_formated": "Tue, Sep 22nd 11:49am UTC",
-      "desc": "Matthew Stafford completed 22-of-31 passing attempts for 327 yards, four touchdowns, and one interception in Monday night's 28-6 win over the New York Giants.",
-      "id": 609795,
-      "impact": "The reigning MVP had a great bounce-back game on Monday night after a disappointing season opener last week. He scored four touchdowns against the Giants and limited his mistakes overall, helping lead Los Angeles to a blowout win over New York. The only questions for him moving forward will be consistency and the health of his wideouts, with Puka Nacua (hip) currently out of the lineup for the Rams.",
-      "link": "https://www.fantasypros.com/nfl/news/609795/matthew-stafford-tosses-four-touchdowns-win-monday.php",
-      "player_id": 9451,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Matthew Stafford tosses four touchdowns in win Monday"
+      "title": "Arian Smith (knee) placed on injured reserve"
     }
   ],
   "public_api_limited": true,
