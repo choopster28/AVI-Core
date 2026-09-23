@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Choopski
 - Owner ID: 863881053000011776
 - Division: 1
-- Waiver position: 2
+- Waiver position: 11
 - Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 639.9
-- championship_lineup_c_avi_avg: 79.99
-- offensive_roster_c_avi_sum: 1126.1
-- offensive_roster_c_avi_avg: 66.24
-- offensive_roster_d_avi_sum: 1285.2
-- offensive_roster_d_avi_avg: 75.60
+- championship_lineup_c_avi_sum: 696.8
+- championship_lineup_c_avi_avg: 87.10
+- offensive_roster_c_avi_sum: 1167.7
+- offensive_roster_c_avi_avg: 68.69
+- offensive_roster_d_avi_sum: 1307.6
+- offensive_roster_d_avi_avg: 76.92
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Baker Mayfield | C-AVI: 56.1 | D-AVI: 71.8
+- QB: Jayden Daniels | C-AVI: 82.9 | D-AVI: 87.5
 - RB: Saquon Barkley | C-AVI: 90.6 | D-AVI: 91.0
 - RB: Omarion Hampton | C-AVI: 88.5 | D-AVI: 93.3
 - WR: Rashee Rice | C-AVI: 94.2 | D-AVI: 92.5
-- WR: Chris Godwin | C-AVI: 66.7 | D-AVI: 75.4
+- WR: Nico Collins | C-AVI: 90.6 | D-AVI: 94.5
 - TE: Trey McBride | C-AVI: 99.4 | D-AVI: 92.8
 - FLEX: Jeremiyah Love | C-AVI: 83.9 | D-AVI: 93.3
-- FLEX: Khalil Shakir | C-AVI: 60.5 | D-AVI: 71.6
+- FLEX: Chris Godwin | C-AVI: 66.7 | D-AVI: 75.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -73,6 +73,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 56.1
 - Dynasty AVI (D-AVI, 0-100): 71.8
 - Projected PPR points: 285.5
+- Category: offense
+- Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: Kirk Cousins
+- Player name: Kirk Cousins
+- Player ID: 1166
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: LV
+- Active: True
+- Status: Active
+- Age: 38.0
+- Championship AVI (C-AVI, 0-100): 41.6
+- Dynasty AVI (D-AVI, 0-100): 52.5
+- Projected PPR points: 62.7
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
@@ -279,23 +296,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 84.6
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
-
-### PLAYER: Tyreek Hill
-- Player name: Tyreek Hill
-- Player ID: 3321
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: None
-- Active: True
-- Status: Active
-- Age: 31.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 30.1
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Trey McBride
 - Player name: Trey McBride

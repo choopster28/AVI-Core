@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: IcebergSlim69
 - Owner ID: 737531831641128960
 - Division: 3
-- Waiver position: 14
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 596.5
-- championship_lineup_c_avi_avg: 74.56
-- offensive_roster_c_avi_sum: 947.4
-- offensive_roster_c_avi_avg: 59.21
-- offensive_roster_d_avi_sum: 1099.8
-- offensive_roster_d_avi_avg: 68.74
+- championship_lineup_c_avi_sum: 634.8
+- championship_lineup_c_avi_avg: 79.35
+- offensive_roster_c_avi_sum: 939.2
+- offensive_roster_c_avi_avg: 58.70
+- offensive_roster_d_avi_sum: 1108.2
+- offensive_roster_d_avi_avg: 69.26
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,9 +35,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Bucky Irving | C-AVI: 78.7 | D-AVI: 86.2
 - WR: Ja'Marr Chase | C-AVI: 98.9 | D-AVI: 99.8
 - WR: Terry McLaurin | C-AVI: 73.2 | D-AVI: 83.0
-- TE: Cade Otton | C-AVI: 53.9 | D-AVI: 55.9
+- TE: Brock Bowers | C-AVI: 89.2 | D-AVI: 91.9
 - FLEX: Brian Thomas | C-AVI: 65.3 | D-AVI: 82.6
-- FLEX: Tre Tucker | C-AVI: 50.9 | D-AVI: 60.6
+- FLEX: Cade Otton | C-AVI: 53.9 | D-AVI: 55.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -127,20 +127,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Kendre Miller
-- Player name: Kendre Miller
-- Player ID: 9757
+### PLAYER: Tyler Badie
+- Player name: Tyler Badie
+- Player ID: 8208
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: NO
+- NFL team: DEN
 - Active: True
 - Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 26.3
-- Dynasty AVI (D-AVI, 0-100): 43.9
-- Projected PPR points: 19.3
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 13.8
+- Dynasty AVI (D-AVI, 0-100): 25.4
+- Projected PPR points: 9.5
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
@@ -263,9 +263,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Demarcus Robinson
-- Player name: Demarcus Robinson
-- Player ID: 3286
+### PLAYER: Brandin Cooks
+- Player name: Brandin Cooks
+- Player ID: 2197
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Position: WR
@@ -274,9 +274,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 23.1
-- Dynasty AVI (D-AVI, 0-100): 29.9
-- Projected PPR points: 40.4
+- Championship AVI (C-AVI, 0-100): 27.4
+- Dynasty AVI (D-AVI, 0-100): 56.8
+- Projected PPR points: 96.0
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 

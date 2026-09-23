@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: FuzzyRaptor
 - Owner ID: 1178861684281753600
 - Division: 2
-- Waiver position: 11
+- Waiver position: 5
 - Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 462.4
-- championship_lineup_c_avi_avg: 66.06
+- championship_lineup_c_avi_sum: 536.5
+- championship_lineup_c_avi_avg: 67.06
 - offensive_roster_c_avi_sum: 883.9
 - offensive_roster_c_avi_avg: 51.99
 - offensive_roster_d_avi_sum: 1165.1
@@ -30,6 +30,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
+- QB: Caleb Williams | C-AVI: 74.1 | D-AVI: 83.9
 - RB: Quinshon Judkins | C-AVI: 76.3 | D-AVI: 86.3
 - RB: Rhamondre Stevenson | C-AVI: 70.0 | D-AVI: 75.0
 - WR: Quentin Johnston | C-AVI: 59.8 | D-AVI: 75.9

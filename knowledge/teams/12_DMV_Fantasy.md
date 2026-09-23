@@ -8,23 +8,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: TacticsNoob
 - Owner ID: 1129546394534158336
 - Division: 4
-- Waiver position: 13
+- Waiver position: 9
 - Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 13
+- total_players: 21
+- offense: 14
 - kickers: 2
 - idp: 5
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 421.4
-- championship_lineup_c_avi_avg: 60.20
-- offensive_roster_c_avi_sum: 644.0
-- offensive_roster_c_avi_avg: 49.54
+- championship_lineup_c_avi_sum: 421.2
+- championship_lineup_c_avi_avg: 60.17
+- offensive_roster_c_avi_sum: 643.8
+- offensive_roster_c_avi_avg: 49.52
 - offensive_roster_d_avi_sum: 802.8
 - offensive_roster_d_avi_avg: 61.75
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -35,8 +35,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Jalen Coker | C-AVI: 57.1 | D-AVI: 71.4
 - WR: Antonio Williams | C-AVI: 45.3 | D-AVI: 68.0
 - TE: George Kittle | C-AVI: 88.7 | D-AVI: 82.1
-- FLEX: Brenton Strange | C-AVI: 63.0 | D-AVI: 73.1
-- FLEX: Cooper Kupp | C-AVI: 45.0 | D-AVI: 52.8
+- FLEX: Brenton Strange | C-AVI: 62.9 | D-AVI: 73.1
+- FLEX: Cooper Kupp | C-AVI: 44.9 | D-AVI: 52.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -74,6 +74,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: Drew Lock
+- Player name: Drew Lock
+- Player ID: 5854
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: SEA
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: offense
+- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Tony Pollard
 - Player name: Tony Pollard
@@ -171,7 +188,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 45.0
+- Championship AVI (C-AVI, 0-100): 44.9
 - Dynasty AVI (D-AVI, 0-100): 52.8
 - Projected PPR points: 143.0
 - Category: offense
@@ -256,7 +273,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 63.0
+- Championship AVI (C-AVI, 0-100): 62.9
 - Dynasty AVI (D-AVI, 0-100): 73.1
 - Projected PPR points: 153.1
 - Category: offense

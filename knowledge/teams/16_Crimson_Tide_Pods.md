@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: nickas
 - Owner ID: 471824466389757952
 - Division: 1
-- Waiver position: 16
+- Waiver position: 8
 - Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 459.1
-- championship_lineup_c_avi_avg: 57.39
-- offensive_roster_c_avi_sum: 780.9
-- offensive_roster_c_avi_avg: 52.06
-- offensive_roster_d_avi_sum: 1009.8
-- offensive_roster_d_avi_avg: 67.32
+- championship_lineup_c_avi_sum: 480.0
+- championship_lineup_c_avi_avg: 60.00
+- offensive_roster_c_avi_sum: 780.7
+- offensive_roster_c_avi_avg: 52.05
+- offensive_roster_d_avi_sum: 1009.7
+- offensive_roster_d_avi_avg: 67.31
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Justin Herbert | C-AVI: 70.2 | D-AVI: 82.5
 - RB: Jadarian Price | C-AVI: 64.1 | D-AVI: 81.6
 - RB: Chris Rodriguez | C-AVI: 45.5 | D-AVI: 63.4
+- WR: Michael Pittman | C-AVI: 65.9 | D-AVI: 77.6
 - WR: Jakobi Meyers | C-AVI: 65.2 | D-AVI: 74.1
-- WR: Wan'Dale Robinson | C-AVI: 62.9 | D-AVI: 78.3
 - TE: Oronde Gadsden | C-AVI: 55.5 | D-AVI: 68.9
+- FLEX: Wan'Dale Robinson | C-AVI: 62.9 | D-AVI: 78.3
 - FLEX: Gunnar Helm | C-AVI: 50.7 | D-AVI: 61.2
-- FLEX: Germie Bernard | C-AVI: 45.0 | D-AVI: 67.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 21.5
-- Dynasty AVI (D-AVI, 0-100): 32.5
+- Championship AVI (C-AVI, 0-100): 21.3
+- Dynasty AVI (D-AVI, 0-100): 32.4
 - Projected PPR points: 19.9
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON

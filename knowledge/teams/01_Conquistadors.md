@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Thecan
 - Owner ID: 736993578450030592
 - Division: 1
-- Waiver position: 8
+- Waiver position: 14
 - Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -18,26 +18,26 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - kickers: 1
 - idp: 3
 - other: 0
-- keepers: 2
+- keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 710.2
-- championship_lineup_c_avi_avg: 88.78
-- offensive_roster_c_avi_sum: 1158.6
-- offensive_roster_c_avi_avg: 64.37
-- offensive_roster_d_avi_sum: 1302.8
-- offensive_roster_d_avi_avg: 72.38
+- championship_lineup_c_avi_sum: 742.1
+- championship_lineup_c_avi_avg: 92.76
+- offensive_roster_c_avi_sum: 1141.4
+- offensive_roster_c_avi_avg: 63.41
+- offensive_roster_d_avi_sum: 1286.7
+- offensive_roster_d_avi_avg: 71.48
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Josh Allen | C-AVI: 99.6 | D-AVI: 93.3
 - RB: Bijan Robinson | C-AVI: 98.7 | D-AVI: 98.0
 - RB: De'Von Achane | C-AVI: 95.8 | D-AVI: 96.5
+- WR: Puka Nacua | C-AVI: 95.0 | D-AVI: 98.4
 - WR: George Pickens | C-AVI: 90.5 | D-AVI: 94.2
-- WR: Ladd McConkey | C-AVI: 82.2 | D-AVI: 91.2
 - TE: Harold Fannin | C-AVI: 92.5 | D-AVI: 85.5
 - FLEX: Breece Hall | C-AVI: 87.8 | D-AVI: 91.2
-- FLEX: Juwan Johnson | C-AVI: 63.1 | D-AVI: 68.8
+- FLEX: Ladd McConkey | C-AVI: 82.2 | D-AVI: 91.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 39.7
+- Championship AVI (C-AVI, 0-100): 39.8
 - Dynasty AVI (D-AVI, 0-100): 43.8
 - Projected PPR points: 89.8
 - Category: offense
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 93.3
-- Dynasty AVI (D-AVI, 0-100): 98.1
+- Championship AVI (C-AVI, 0-100): 95.0
+- Dynasty AVI (D-AVI, 0-100): 98.4
 - Projected PPR points: 338.3
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -280,23 +280,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Konata Mumpfield
-- Player name: Konata Mumpfield
-- Player ID: 12718
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: LAR
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 19.0
-- Dynasty AVI (D-AVI, 0-100): 35.3
-- Projected PPR points: 29.4
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
 ### PLAYER: Chris Brazzell
 - Player name: Chris Brazzell
 - Player ID: 13353
@@ -347,6 +330,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 152.8
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: Zach Ertz
+- Player name: Zach Ertz
+- Player ID: 1339
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 35.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 18.9
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Ka'imi Fairbairn
 - Player name: Ka'imi Fairbairn
@@ -399,17 +399,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Kam Curl
-- Player name: Kam Curl
-- Player ID: 7136
+### PLAYER: Dax Hill
+- Player name: Dax Hill
+- Player ID: 8286
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: DB
 - Fantasy positions: ['DB']
-- NFL team: LAR
+- NFL team: CIN
 - Active: True
 - Status: Active
-- Age: 27.0
+- Age: 25.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

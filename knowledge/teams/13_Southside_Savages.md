@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: GGEZGoNext
 - Owner ID: 998253660243054592
 - Division: 2
-- Waiver position: 10
+- Waiver position: 4
 - Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 2
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 585.6
-- championship_lineup_c_avi_avg: 73.20
+- championship_lineup_c_avi_sum: 602.2
+- championship_lineup_c_avi_avg: 75.28
 - offensive_roster_c_avi_sum: 836.6
 - offensive_roster_c_avi_avg: 59.76
 - offensive_roster_d_avi_sum: 1000.6
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Jaylen Waddle | C-AVI: 79.8 | D-AVI: 87.8
 - TE: Pat Freiermuth | C-AVI: 55.3 | D-AVI: 54.5
 - FLEX: Luther Burden | C-AVI: 77.0 | D-AVI: 88.4
-- FLEX: Colby Parkinson | C-AVI: 44.6 | D-AVI: 48.1
+- FLEX: Jayden Reed | C-AVI: 61.2 | D-AVI: 74.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.

@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Hofer51
 - Owner ID: 736994691492519936
 - Division: 4
-- Waiver position: 3
+- Waiver position: 13
 - Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 642.4
-- championship_lineup_c_avi_avg: 80.30
-- offensive_roster_c_avi_sum: 955.9
-- offensive_roster_c_avi_avg: 63.73
-- offensive_roster_d_avi_sum: 1065.4
-- offensive_roster_d_avi_avg: 71.03
+- championship_lineup_c_avi_sum: 641.1
+- championship_lineup_c_avi_avg: 80.14
+- offensive_roster_c_avi_sum: 962.4
+- offensive_roster_c_avi_avg: 64.16
+- offensive_roster_d_avi_sum: 1044.0
+- offensive_roster_d_avi_avg: 69.60
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 81.0 | D-AVI: 81.6
 - RB: D'Andre Swift | C-AVI: 80.6 | D-AVI: 83.6
-- RB: Emanuel Wilson | C-AVI: 38.5 | D-AVI: 50.9
+- RB: Chris Brooks | C-AVI: 37.2 | D-AVI: 44.3
 - WR: Amon-Ra St. Brown | C-AVI: 98.9 | D-AVI: 98.7
 - WR: Justin Jefferson | C-AVI: 97.4 | D-AVI: 98.0
 - TE: Dallas Goedert | C-AVI: 84.2 | D-AVI: 78.5
@@ -124,23 +124,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 39.4
 - Dynasty AVI (D-AVI, 0-100): 55.9
 - Projected PPR points: 95.3
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
-### PLAYER: Emanuel Wilson
-- Player name: Emanuel Wilson
-- Player ID: 11435
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: SEA
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 38.5
-- Dynasty AVI (D-AVI, 0-100): 50.9
-- Projected PPR points: 64.7
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
@@ -294,6 +277,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 78.9
 - Dynasty AVI (D-AVI, 0-100): 85.9
 - Projected PPR points: 173.8
+- Category: offense
+- Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: Darren Waller
+- Player name: Darren Waller
+- Player ID: 2505
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 34.0
+- Championship AVI (C-AVI, 0-100): 45.0
+- Dynasty AVI (D-AVI, 0-100): 29.5
+- Projected PPR points: 115.8
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 

@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: MadDawgMatt
 - Owner ID: 872509429436829696
 - Division: 2
-- Waiver position: 9
+- Waiver position: 12
 - Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 612.3
 - championship_lineup_c_avi_avg: 76.54
-- offensive_roster_c_avi_sum: 869.2
-- offensive_roster_c_avi_avg: 57.95
-- offensive_roster_d_avi_sum: 987.4
-- offensive_roster_d_avi_avg: 65.83
+- offensive_roster_c_avi_sum: 866.4
+- offensive_roster_c_avi_avg: 57.76
+- offensive_roster_d_avi_sum: 984.5
+- offensive_roster_d_avi_avg: 65.63
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -246,20 +246,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Odell Beckham
-- Player name: Odell Beckham
-- Player ID: 2078
+### PLAYER: Darius Cooper
+- Player name: Darius Cooper
+- Player ID: 13150
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: NYG
+- NFL team: PHI
 - Active: True
 - Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 21.8
-- Dynasty AVI (D-AVI, 0-100): 55.7
-- Projected PPR points: 23.9
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 19.0
+- Dynasty AVI (D-AVI, 0-100): 52.8
+- Projected PPR points: 8.5
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 

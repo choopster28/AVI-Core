@@ -189,9 +189,9 @@
     "sleeper_id": "12527"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "23054",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "NO",
     "player_name": "Audric Estime",
     "position": "RB",

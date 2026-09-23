@@ -385,7 +385,7 @@
       "player_name": "D'Angelo Ross",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "CLE",
       "weeks": {
         "1": 0
       }
@@ -3353,16 +3353,17 @@
       }
     },
     {
-      "average": 6,
+      "average": 3,
       "filename": "kamren-kinchens.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26109,
       "player_name": "Kamren Kinchens",
       "points": 6,
       "position_id": "S",
       "team_id": "LAR",
       "weeks": {
-        "1": 6
+        "1": 6,
+        "2": 0
       }
     },
     {

@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: awang1900
 - Owner ID: 986498458162970624
 - Division: 3
-- Waiver position: 7
+- Waiver position: 15
 - Last updated from Sleeper exports: 2026-09-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 664.5
-- championship_lineup_c_avi_avg: 83.06
-- offensive_roster_c_avi_sum: 1058.8
-- offensive_roster_c_avi_avg: 62.28
-- offensive_roster_d_avi_sum: 1235.4
-- offensive_roster_d_avi_avg: 72.67
+- championship_lineup_c_avi_sum: 671.6
+- championship_lineup_c_avi_avg: 83.95
+- offensive_roster_c_avi_sum: 1049.9
+- offensive_roster_c_avi_avg: 61.76
+- offensive_roster_d_avi_sum: 1238.4
+- offensive_roster_d_avi_avg: 72.85
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: DeVonta Smith | C-AVI: 87.8 | D-AVI: 91.3
 - TE: Tyler Warren | C-AVI: 96.2 | D-AVI: 90.5
 - FLEX: Malik Nabers | C-AVI: 79.9 | D-AVI: 93.6
-- FLEX: Chuba Hubbard | C-AVI: 67.7 | D-AVI: 77.3
+- FLEX: DJ Moore | C-AVI: 74.8 | D-AVI: 82.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -263,20 +263,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Xavier Hutchinson
-- Player name: Xavier Hutchinson
-- Player ID: 10218
+### PLAYER: Darius Slayton
+- Player name: Darius Slayton
+- Player ID: 6149
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: HOU
+- NFL team: IND
 - Active: True
 - Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 37.8
-- Dynasty AVI (D-AVI, 0-100): 39.9
-- Projected PPR points: 102.0
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 28.9
+- Dynasty AVI (D-AVI, 0-100): 42.9
+- Projected PPR points: 82.5
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
@@ -348,48 +348,48 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Donovan Ezeiruaku
-- Player name: Donovan Ezeiruaku
-- Player ID: 12556
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: DL
-- Fantasy positions: ['DL', 'LB']
-- NFL team: DAL
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Arvell Reese
-- Player name: Arvell Reese
-- Player ID: 13377
+### PLAYER: Derrick Barnes
+- Player name: Derrick Barnes
+- Player ID: 7726
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: LB
 - Fantasy positions: ['DL', 'LB']
-- NFL team: NYG
+- NFL team: DET
 - Active: True
 - Status: Active
-- Age: 21.0
+- Age: 27.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Xavier McKinney
-- Player name: Xavier McKinney
-- Player ID: 6788
+### PLAYER: Devin Lloyd
+- Player name: Devin Lloyd
+- Player ID: 8329
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Amani Hooker
+- Player name: Amani Hooker
+- Player ID: 5908
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: DB
 - Fantasy positions: ['DB']
-- NFL team: GB
+- NFL team: TEN
 - Active: True
 - Status: Active
 - Age: 28.0

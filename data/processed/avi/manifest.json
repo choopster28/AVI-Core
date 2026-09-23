@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-09-23T00:41:12.101162+00:00",
+  "generated_at_utc": "2026-09-23T16:50:26.172141+00:00",
   "in_season_transition": {
     "activation_policy": "Activate after a completed 2026 week is verified. Sleeper advancing to the next week or ESPN confirming every game final is sufficient; stale or partial player-points feeds never activate the transition.",
     "completed_through_week": 2,
@@ -35,7 +35,7 @@
   "injury_availability_adjustments": {
     "championship_horizon_end_week": 17,
     "current_week": 3,
-    "players_capped": 2,
+    "players_capped": 1,
     "players_evaluated": 480,
     "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
     "sources": [
