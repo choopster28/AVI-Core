@@ -55491,10 +55491,10 @@
     "hashtag": "#jonathonbrooks-NFL-CAR-25",
     "height": "72",
     "high_school": "Hallettsville (TX)",
-    "injury_body_part": "Groin",
-    "injury_notes": null,
+    "injury_body_part": "Abdomen",
+    "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "Doubtful",
+    "injury_status": "IR",
     "kalshi_id": "95ba8f44-f54d-41b8-a093-216358b72aac",
     "last_name": "Brooks",
     "metadata": {
@@ -55503,7 +55503,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1790165113794,
+    "news_updated": 1790169314772,
     "number": 25,
     "oddsjam_id": "84C4F05F8EFF",
     "opta_id": null,
@@ -434414,7 +434414,7 @@
       "channel_id": "1113708700519919616",
       "rookie_year": "2017"
     },
-    "news_updated": 1790165413696,
+    "news_updated": 1790169615619,
     "number": 30,
     "oddsjam_id": "2F6FF24424FC",
     "opta_id": null,
@@ -673460,7 +673460,7 @@
       "genius_id": "1013755",
       "rookie_year": "2022"
     },
-    "news_updated": 1790123710065,
+    "news_updated": 1790170815821,
     "number": 72,
     "oddsjam_id": "1F3161451B37",
     "opta_id": null,
