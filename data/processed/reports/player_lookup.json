@@ -370,7 +370,7 @@
       "player_name": "Andrei Iosivas",
       "position": "WR",
       "sleeper_id": "10226",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -2886,7 +2886,7 @@
       "position": "WR",
       "roster_id": 16,
       "sleeper_id": "8142",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
     },
