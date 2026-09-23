@@ -1,5 +1,43 @@
 [
   {
+    "id": "muebbhtb-c4f5f88c",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Big Balder Brand",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Shough",
+            "assetType": "player"
+          },
+          {
+            "name": "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1790180618735,
+    "updatedAt": 1790180618735,
+    "expiresAt": 1790612618735,
+    "status": "queued"
+  },
+  {
     "id": "mucuzqys-4287b15f",
     "phase": "initial",
     "mode": "analyze_trade",
