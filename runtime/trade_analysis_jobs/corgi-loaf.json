@@ -33,9 +33,382 @@
       }
     },
     "createdAt": 1790180618735,
-    "updatedAt": 1790180620150,
+    "updatedAt": 1790180681439,
     "expiresAt": 1790612618735,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. (Win Championship) proposes sending Tyler Warren, Tyler Shough, and a 2029 1st-round pick to Big Balder Brand (Win Championship) for Trey McBride. While Trey McBride (99.4 C-AVI) is an elite tight end, Tyler Warren (96.2 C-AVI, 24.0 yrs) is already a cornerstone TE1. Surrendering a 2029 1st-round pick and starting-caliber QB depth in Tyler Shough for a marginal +3.2 C-AVI upgrade at tight end represents a severe value drain and unnecessary capital expenditure for a championship contender.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "TE",
+              "age": 24,
+              "cavi": 96.2,
+              "davi": 90.5,
+              "publicMarket": 88,
+              "leagueMarket": 92
+            },
+            {
+              "name": "Tyler Shough",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "QB",
+              "age": 26,
+              "cavi": 59.2,
+              "davi": 70,
+              "publicMarket": 55,
+              "leagueMarket": 62
+            },
+            {
+              "name": "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 99.4,
+              "davi": 92.8,
+              "publicMarket": 96,
+              "leagueMarket": 98
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D",
+            "otherGrade": "A",
+            "userShare": 20,
+            "otherShare": 80,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Corgi Loaf Baking Co. surrenders major future draft capital (2029 1st) and valuable QB depth (Tyler Shough) to secure a minimal +3.2 C-AVI upgrade at tight end. Big Balder Brand secures a massive net value advantage (+135.3 C-AVI / +147.0 D-AVI) while seamlessly replacing Trey McBride with another 24-year-old elite tight end in Tyler Warren."
+          },
+          "recommended": {
+            "userGrade": "B",
+            "otherGrade": "B",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "If Corgi Loaf Baking Co. wants to pursue Trey McBride, the offer should remove the 2029 1st pick and Tyler Shough, offering Tyler Warren plus a 2029 2nd-round pick instead. Even then, trading elite TE for elite TE remains a low-utility maneuver."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 5,
+              "summary": "Provides a minor +3.2 C-AVI boost at TE, but erodes depth and liquidity."
+            },
+            "dynastyOutlook": {
+              "score": -50,
+              "summary": "Surrenders a 2029 1st and young QB Shough for a slightly older TE (McBride, 26 vs Warren, 24)."
+            },
+            "lineupQuality": {
+              "score": 5,
+              "summary": "Microscopic upgrade at TE1 from Warren (96.2) to McBride (99.4)."
+            },
+            "depthResilience": {
+              "score": -35,
+              "summary": "Depletes quarterback backup depth behind Patrick Mahomes in a 16-team league."
+            },
+            "flexibilityLiquidity": {
+              "score": -60,
+              "summary": "Burns a valuable 2029 1st-round draft asset."
+            },
+            "overall": {
+              "score": -60,
+              "summary": "Substantial capital drain for a negligible starting lineup uptick."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -2,
+              "summary": "Negligible TE drop from McBride (99.4) to Warren (96.2)."
+            },
+            "dynastyOutlook": {
+              "score": 60,
+              "summary": "Gains a 2029 1st pick, 26-year-old QB Shough, and a 24-year-old cornerstone TE."
+            },
+            "lineupQuality": {
+              "score": -2,
+              "summary": "Tyler Warren slots directly into McBride's starting role."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Adds Tyler Shough to bolster QB depth behind Jayden Daniels and Baker Mayfield."
+            },
+            "flexibilityLiquidity": {
+              "score": 65,
+              "summary": "Injects a prime 2029 1st-round asset into their portfolio."
+            },
+            "overall": {
+              "score": 60,
+              "summary": "Captures premium draft capital and QB depth without losing TE elite status."
+            }
+          },
+          "explanation": "Big Balder Brand wins the trade decisively. Corgi overpays heavily for an incremental TE move, whereas Big Balder Brand adds valuable draft currency and QB depth without leaving the championship conversation at TE."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi gains +3.2 C-AVI at starting TE (McBride 99.4 vs Warren 96.2). However, losing Tyler Shough (59.2 C-AVI) reduces QB depth behind Patrick Mahomes.",
+          "sideADynastyImpact": "Net negative dynasty impact (-147.0 D-AVI). Corgi sends away 24-year-old Tyler Warren (90.5 D-AVI), 26-year-old QB Tyler Shough (70.0 D-AVI), and a 2029 1st (79.3 D-AVI) for 26-year-old Trey McBride (92.8 D-AVI).",
+          "sideARosterImpact": "Exchanges starting TE Tyler Warren for Trey McBride; depletes active QB bench strength and forfeits 2029 1st draft pick.",
+          "sideBChampionshipImpact": "Big Balder Brand sees a minor -3.2 C-AVI change at TE (McBride 99.4 to Warren 96.2), keeping their starting offensive score virtually intact.",
+          "sideBDynastyImpact": "Net positive dynasty impact (+147.0 D-AVI). Big Balder Brand receives a younger elite TE in Warren, a starting QB in Shough, and a 2029 1st.",
+          "sideBRosterImpact": "Replaces McBride with Warren as starting TE, adds Shough as QB depth, and adds a 2029 1st pick.",
+          "valueAssessment": "The submitted package heavily overpays for lateral tier-swapping. A 2029 1st pick and a starting QB are far too steep a price for a 3.2 C-AVI gain."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Consensus dynasty markets rate Trey McBride as the overall TE1/TE2 alongside Brock Bowers. Tyler Warren is consensus TE4 and rising rapidly. Tyler Shough's market value has surged following a strong start to the season in New Orleans.",
+          "aviVsMarket": "Public sentiment recognizes McBride's elite target share in Arizona, but also values 1st-round picks and emerging QBs like Shough highly. AVI correctly identifies that Warren's 96.2 C-AVI makes paying a 1st + Shough on top unviable for Corgi.",
+          "relevantContext": [
+            "McBride is locked in as a top-2 dynasty TE with massive target volume in Arizona.",
+            "Tyler Warren operates as an elite receiving focal point in Indianapolis at just 24 years old.",
+            "Tyler Shough has posted strong early-season metrics in New Orleans, increasing his value in 16-team formats."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Big Balder Brand (Win Championship) is heavily motivated to accept because they preserve elite TE output while picking up a 1st-round pick and QB depth.",
+          "packageFit": "The package fits Big Balder Brand extremely well, delivering both immediate starting usability (Warren) and long-term asset liquidity.",
+          "lineupReplacement": "Tyler Warren directly replaces Trey McBride in Big Balder Brand's starting TE position with virtually no weekly dropoff.",
+          "competitiveWindowFit": "Both franchises are Elite Contenders. Big Balder Brand enhances its window sustainability, whereas Corgi drains assets needlessly.",
+          "positionalScarcity": "Tight end is scarce, but Corgi already possesses an S-tier option in Warren (96.2 C-AVI), removing any positional necessity for McBride."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 23,
+            "packageMatch": 19,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 82,
+          "classification": "Realistic",
+          "explanation": "Big Balder Brand is highly likely to accept this submitted construction. Replacing Trey McBride with Tyler Warren preserves elite starting TE play while netting a 2029 1st-round pick and QB depth in Tyler Shough."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "As Corgi Loaf Baking Co., your goal is to Win Championship. Tyler Warren (96.2 C-AVI, 24.0 yrs) is already a young cornerstone TE1. Trading Warren, starting-caliber QB depth (Tyler Shough), and a 2029 1st for Trey McBride (99.4 C-AVI) represents an overpay for a minimal +3.2 C-AVI starting lineup upgrade. Retaining your 2029 1st and QB depth provides significantly better championship resilience in a 16-team league.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "TE",
+              "age": 24,
+              "cavi": 96.2,
+              "davi": 90.5,
+              "publicMarket": 88,
+              "leagueMarket": 92
+            },
+            {
+              "name": "2029 Round 2 (Corgi Loaf Baking Co.)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48
+            }
+          ],
+          "receive": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 99.4,
+              "davi": 92.8,
+              "publicMarket": 96,
+              "leagueMarket": 98
+            }
+          ],
+          "whyUserShouldDoIt": "Protects your 2029 1st-round pick and QB depth while offering a reasonable 2nd-round pick sweetener to upgrade TE1.",
+          "whyOpponentMightAccept": "Big Balder Brand gets a younger TE1 in Warren (24 yrs) and adds draft pick compensation without requiring Corgi to gut essential roster depth."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "TE",
+              "age": 24,
+              "cavi": 96.2,
+              "davi": 90.5,
+              "publicMarket": 88,
+              "leagueMarket": 92
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 27,
+              "cavi": 67.7,
+              "davi": 77.3,
+              "publicMarket": 65,
+              "leagueMarket": 68
+            }
+          ],
+          "receive": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 99.4,
+              "davi": 92.8,
+              "publicMarket": 96,
+              "leagueMarket": 98
+            }
+          ],
+          "rationale": "Offers Big Balder Brand usable RB depth with Chuba Hubbard while keeping Corgi's future 1st-round pick intact."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Trey McBride fantasy value 2026",
+          "Tyler Warren NFL draft 2025 2026 fantasy value",
+          "Tyler Shough NFL team 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyzQWB3usY6fCGhhU1KDUUY7biII7ZN-BxEDsKByIiPAsSpol2OimoOIk9edpNiWO3dn_i2SSrZPcmf2gp9vLAUYRQYacMuT8jr5jXBLUx8SvWyqIZUkiyDWeIMqwCJ0q49xFpJ-jTdtI32i0TUKZnzDPKRhZ7f8J3gQ==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8pUzAJdfi27zTohTVo35YeBdZSEHRBWL6WC9WnXpmojFqIfgpCdwZ_iUelAMJyyqxOrnBHRvsferCq5bq8k1PBLpMBn5TAZs46D5IidjEbBoQ-o1NR1DNNY0efSlstjQ9xLAxL8fEDxuOLvandISxS8htqI7prknH2GvGvgi7K5ApAOJXuVxXVDuzEJ4cWMt5QVI=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtUZVQBZRtevF3MFQOD3iaAGpp3rQbtQUOBRJ-UpPOdQypAOOArmLC7Fdp9aOlt7rHl3s4sy8SD0-yWnATYOihepFgPs_n1HZfj0A3NshZqfrk09ZHkgauFPCxefelmgo0r1tpHx1P_f-HWf156leDhzYscFrlmtOTTxlZ1fuvw38Wzha9HdCYrMjZU5IDEU4fmTbppUO5LnD2mCNo5g==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgxyUnGDxFIQUijbOgIpOOLzPNxoBWYriePVkRx6nw14J3HmPNnx1mAXZvD6JAPdJIZKfdLslZ_DcrC_ocl_co_Cm8PSB--okf1vHoK7IjGnTNNno4MQVqaZOtVh6FoMqOAe_LainMvh44Q3bg",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuxklLtKkXmfXrx_Y-KkcD9V2Y31iYyQGy_fMhTOCzYeJZiet2g6V0gZG4gbBYd-st9SHXc2aHjWHasNQ_yfjfAWV3LVQTSOtmwd7NkSoo3tnk1FBoAjuZ6o0NMJ-SqZWzVwbD91S2",
+            "title": "fantasycalc.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHWzz0j8H2qKSHxKOcPnBwVI7LdbQc_QdjIGBABUNUgEc0VEPvChnRMM0qclolH92HDVXCl_pFsAXgIYKn0Id7Mj_h-ePR_d-nokRXa1rNA_tAltJ2JBrbGdevTWUZUdA=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq_Thoo1g0PwOWqyDZ19aa36yTTczLvzNfHLs_0bF2J30EZtziUbX1m2fyKikw9JkOdW5JIYA870kKbYUCzjK-GelX-97GTVHIdDz7KvJkNL9lxYX4bxsaW97VJ7ijiNM=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcOV9VF8vHzXFzwY3KJe-A7FwbUEuvrDdBPOZo9bOmS3t4FPr3qnbD1FTpIr4-VohUDnVNIX_yC_GI-sA_OMrojY7ugmm4Ths4VCMf7otfIw6CdbfnWVodxOnAU4NcZk3Ku7DrumHPjAzTAl0I6JQ8kCM-nBZGxUrvA3h4TvwRgOWVGvdFHTiRFfWyY5PakG5svZFpA54l02RAaRE7taFOgz7WvN9y5Ipem0GgzKA=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOWEsZM5f2ydMFmE64BSNPjCjXpMeqtedezu2b5D-o4uklUUoAHLKBQqhWI4KK7_9V22BiOVWUDrz_KnVwOyBDYpbgbvYv6ODSkOIupSI8hsp-ZdxcJXH9IylV0dxCxsDGwGApK7xBaGqe5BX2wqPh59X_dnLqe_FFXtqEBk81DOGfCQ==",
+            "title": "fansided.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEWnV4HuPYILWYNno_LYXnboky4RAnswA7KsD_rBoSvHfuKM9Krsrfgpomn2kGYS1uJDT_PTCncfnW0cuk9RQfrFGh45PfOoVuLgkwwaC2GuL4BhkMemObGdCbxEN5p9ZGupgV3BiKprZu6wx9rxQS-7h7XxXglk1_re6bLp_14qSwtTlW2qQdnlSwaO85Hj_crH03s2Q1NmixLy3g",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPgwaP6KDNur8HFGLuEyWjLKktbgMgoV70rtc-NP_UvDf0JF9X5iB_3Es5RtDVJPtlLYpTOSFzWuuT2fN6qEvV3_1xkD6-q4GgLnQ2qektnm9hy-1ABoHNjSvVPd64BvnPlKAR8njOxwLHqKgq4CnimC-6HPl_EHBHYYtoodzrB622cLisB6fwUSXMHZGWZ3BQyuZeLZpXcg==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8XRI8MGL4jTOqU_i9aBY6WXIxNa0A50V0wQaTWIvVNgwPq-LXHHfPg0mZ7E5CDlFKDWo78iAXs20qP-TK5HsgjpnqYo_UgTr6juyEg3ZLlEnT_nG7pq8YMgllySMA1BLATkNA7OwuvRRVIaer1Sx_GfshPDcltUmSMg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8MEK_PkVHOBJ9uwApZ-wF1KlrifDd-JKkGzRRG0ywogOn3cxV9Fywt1TnmnNocCoFt1QWiokH6wXukgxB3I333kQvhb7QquUQ67Auxn6s2sHfazMQFivv2JVP81ONukDhMIqnd2XcbJlFarLyej9yy6PywXb5HWccVaqxN_iboymqBFVZuGT9BPx6NE3",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3qicWM_-0Vw7VwiZ0YZrQzKo1gscsWtJsRG7X4CWkAvOPeaXXY1e8RfVLZ5p0BUMNQTnjJri4rESRJzrm32GgHmwjjt-zXFm-QNkzzBi_3BBSc0xiYE5DY_IvUHGQXyZdf8k58W5VNiDWpYXD3A4Z4pSsj0sh2MOPNUTlCube2lCSaYBU3UE8qaQ=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIQIRs276BX6PHVcm3TCuy2iLFZvKX82LNkxcjDD9h-pc0C5LxQake0eMol9wRvfim8DuOvudzCnDSU687zGFLXDgxOpmXSVPeHZItXEiLhMlELZBnCKZX1-YqygK9qmEeJnfF2TEmBrh9M0W9_FTEgRklO2NGSbPFRJBYq4MskZ_dVfGfAWt2feORwFo=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE86Uz0TI3yTEuZ5ncGvfIEkGJFU04q_clOFCdMUNVyZXQiElIw0Ot0qLUXnm2mB8jrTBrXh8Sua1rwx5dxDChfyQZZdWSTaHw5uKPBl1LCY9QBYyowu212GrXACpAbl7WL_RLiM4qqHT0xlw==",
+            "title": "fantasytradetarget.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "8d46aa0aedb252ea9b84f2898df0fd72e4e6ee04",
+        "aviCoreCommittedAt": "2026-09-23T13:58:16Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 87970,
+        "groundedMarketChars": 2900,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mucuzqys-4287b15f",
