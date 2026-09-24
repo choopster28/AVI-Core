@@ -1,5 +1,315 @@
 [
   {
+    "id": "muf5kjoj-5ca5e191",
+    "createdAt": 1790231492583,
+    "expiresAt": 1790663492583,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Crimson Tide Pods ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "Patrick Mahomes",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Although Patrick Mahomes is explicitly listed on the Autobots league trade block (granting full 30/30 availability credit), constructing an acquisition proposal from Crimson Tide Pods (Rebuilding) to Corgi Loaf Baking Co. (Win Championship / Elite Contender) reveals a fundamental dual-goal impasse. Corgi Loaf is actively chasing a championship and cannot surrender its elite starting QB without creating a major lineup hole at QB1 (forcing reliance on Tyler Shough), while Crimson Tide Pods' rebuild directive prohibits spending prime future picks or young assets on a 31-year-old quarterback—especially when 28-year-old Justin Herbert is already on the roster.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Patrick Mahomes",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "QB",
+              "age": 31,
+              "cavi": 76.9,
+              "davi": 82.2,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Justin Herbert",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "QB",
+              "age": 28,
+              "cavi": 70.2,
+              "davi": 82.5,
+              "publicMarket": 75,
+              "leagueMarket": 76
+            },
+            {
+              "name": "2027 Round 1 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D",
+            "otherGrade": "D",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "None",
+            "summary": "No transaction can be constructed that satisfies both organizations' stated goals. Acquiring Patrick Mahomes forces a Rebuilder to surrender critical future assets for an aging QB, while trading Mahomes severely damages an Elite Contender's current-season title odds."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -20,
+              "summary": "Acquiring a 31-year-old QB consumes vital rebuilding capital without advancing long-term championship strategy."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Provides a minor QB upgrade over Justin Herbert, but offers no functional value to a non-contending roster."
+            },
+            "dynastyOutlook": {
+              "score": -30,
+              "summary": "Depletes premium future 1st-round draft picks required to complete a multi-year rebuild."
+            },
+            "lineupQuality": {
+              "score": 5,
+              "summary": "Slight marginal gain at single-QB slot."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Reduces draft capital flexibility needed to accumulate core depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Converts liquid 2027 1st-round capital into a 31-year-old non-liquid quarterback."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -25,
+              "summary": "Trading away starting QB Patrick Mahomes harms Corgi Loaf's 2026 title push."
+            },
+            "championshipOutlook": {
+              "score": -35,
+              "summary": "Downgrades starting QB production in an active championship window."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Picks up a younger starting QB (Herbert, age 28) plus future 1st-round capital."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Lowers weekly projected starting lineup points during a championship chase."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds pick capital flexibility."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Increases overall draft capital assets."
+            }
+          },
+          "explanation": "The transaction fails both franchises strategically: Crimson Tide Pods loses liquidity and youth, while Corgi Loaf Baking Co. weakens its active championship starting lineup."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Minimal practical benefit for a rebuilder; Patrick Mahomes' elite weekly floor is wasted on a roster not competing for the 2026 championship.",
+          "sideADynastyImpact": "Negative dynasty impact; surrendering premier future 1st-round picks or younger foundation assets for a 31-year-old QB contradicts rebuilding principles.",
+          "sideARosterImpact": "Creates quarterback redundancy alongside 28-year-old Justin Herbert while draining draft flexibility.",
+          "sideBChampionshipImpact": "Direct harm to 2026 title odds; moving Mahomes weakens Corgi Loaf's single-QB starting slot.",
+          "sideBDynastyImpact": "Provides long-term age rejuvenation if Herbert is returned, but does not offset the short-term competitive loss.",
+          "sideBRosterImpact": "Leaves Corgi Loaf vulnerable at QB1 during an active title pursuit.",
+          "valueAssessment": "Even if paper values balance, positional dynamics and opposing organizational goal constraints render any proposal unviable."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Patrick Mahomes remains an elite dynasty quarterback asset in public market sentiment, backed by a strong 2-0 start in 2026 and complete recovery from his December 2025 knee injury.",
+          "aviVsMarket": "AVI valuation closely matches public consensus: Mahomes holds premium 1QB value (76.9 C-AVI / 82.2 D-AVI), commanding high acquisition costs across all dynasty formats.",
+          "relevantContext": [
+            "Mahomes is fully healthy and playing without restrictions after his 2025 knee reconstruction.",
+            "Locked into Kansas City through 2033, ensuring unrivaled long-term job security.",
+            "Public dynasty market sentiment dictates that contenders rarely sell Mahomes without receiving an elite starting replacement back."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is an Elite Contender with a 671.6 C-AVI starting lineup focused on winning the 2026 championship. Although Mahomes is listed on the trade block, Corgi Loaf will not accept an offer that degrades immediate weekly QB scoring.",
+          "packageFit": "Crimson Tide Pods' primary trade assets (draft picks and secondary receivers) do not provide the immediate high-ceiling weekly points required by a championship contender.",
+          "lineupReplacement": "Unless Corgi Loaf receives a top-tier replacement QB like Justin Herbert, trading Mahomes leaves them with Tyler Shough (59.2 C-AVI) at QB1, failing mandatory lineup replacement.",
+          "competitiveWindowFit": "Direct strategic conflict: Corgi Loaf is in Win Championship mode and requires maximum weekly output, whereas Crimson Tide Pods is in Rebuild mode and must accumulate young assets.",
+          "positionalScarcity": "In a 16-team 1QB league, elite starting quarterbacks provide irreplaceable baseline stability for championship contenders."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 5,
+            "packageMatch": 8,
+            "lineupReplacement": 5,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 50,
+          "classification": "Stretch",
+          "explanation": "Patrick Mahomes receives full 30/30 availability credit due to his confirmed trade-block listing. However, Corgi Loaf Baking Co.'s strategic mandate as an Elite Contender aiming to Win Championship prevents them from accepting any package that weakens QB1. Concurrently, Crimson Tide Pods cannot justify spending rebuild assets on a 31-year-old QB."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Patrick Mahomes receives full 30/30 availability credit due to his confirmed trade-block listing. However, Corgi Loaf Baking Co.'s strategic mandate as an Elite Contender aiming to Win Championship prevents them from accepting any package that weakens QB1. Concurrently, Crimson Tide Pods cannot justify spending rebuild assets on a 31-year-old QB.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Patrick Mahomes receives full 30/30 availability credit due to his confirmed trade-block listing. However, Corgi Loaf Baking Co.'s strategic mandate as an Elite Contender aiming to Win Championship prevents them from accepting any package that weakens QB1. Concurrently, Crimson Tide Pods cannot justify spending rebuild assets on a 31-year-old QB.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Corgi Loaf Baking Co. is an Elite Contender with a 671.6 C-AVI starting lineup focused on winning the 2026 championship. Although Mahomes is listed on the trade block, Corgi Loaf will not accept an offer that degrades immediate weekly QB scoring."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Crimson Tide Pods' primary trade assets (draft picks and secondary receivers) do not provide the immediate high-ceiling weekly points required by a championship contender."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Unless Corgi Loaf receives a top-tier replacement QB like Justin Herbert, trading Mahomes leaves them with Tyler Shough (59.2 C-AVI) at QB1, failing mandatory lineup replacement."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Direct strategic conflict: Corgi Loaf is in Win Championship mode and requires maximum weekly output, whereas Crimson Tide Pods is in Rebuild mode and must accumulate young assets."
+            }
+          ],
+          "opponentPerspective": "Corgi Loaf Baking Co. is an Elite Contender with a 671.6 C-AVI starting lineup focused on winning the 2026 championship. Although Mahomes is listed on the trade block, Corgi Loaf will not accept an offer that degrades immediate weekly QB scoring.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Crimson Tide Pods' primary trade assets (draft picks and secondary receivers) do not provide the immediate high-ceiling weekly points required by a championship contender.",
+          "whatWouldNeedToChange": [
+            "Corgi Loaf Baking Co. is an Elite Contender with a 671.6 C-AVI starting lineup focused on winning the 2026 championship. Although Mahomes is listed on the trade block, Corgi Loaf will not accept an offer that degrades immediate weekly QB scoring.",
+            "Crimson Tide Pods' primary trade assets (draft picks and secondary receivers) do not provide the immediate high-ceiling weekly points required by a championship contender.",
+            "Unless Corgi Loaf receives a top-tier replacement QB like Justin Herbert, trading Mahomes leaves them with Tyler Shough (59.2 C-AVI) at QB1, failing mandatory lineup replacement.",
+            "Direct strategic conflict: Corgi Loaf is in Win Championship mode and requires maximum weekly output, whereas Crimson Tide Pods is in Rebuild mode and must accumulate young assets."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Patrick Mahomes injury update 2026",
+          "Patrick Mahomes news 2026",
+          "Patrick Mahomes dynasty value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2CxlrWrVZHLNwOn0nMqLWm23ZNqXrdKAGNiAxyYcgHrgNg5KFBddCTR9gWAciZWK7es-BNRwzNKQMYK-xaIsn2t342oyAOSM8aRS3ELpCUmI0rMqVAAL2PAzbkqy0rp1YpQiIEucyLMu6sQ3Jd5PquE__o_CkkApX_-J4bpNAG9ZL3wpHDJdC5GHwtdpUwkiHjSA8oHEw6wL8V8XUnA1qNACYBdsuAF_eTa2HVI2FG2rBhZWWF5V-emy1w-AV",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_TL2pGiYJb6olOGHjipNVZ1hes_YoVcZ-RPRg2raiaJpF0BginxouVDtZeJrwcGzS4gyOImTPlf5q8Xb2Axr3A3eJ9GdYBlBIRm-vzBgrD7UuVvVwZEJ59Y9ZZN0TJoWqh6tWb_Hrh-hqc3qUsnDXZtZMPdQuvFQ=",
+            "title": "lastwordonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuVa-FhhtaVa1sx8utCOXNn69c3XbZCHw9ZjOJBGhZ0Lr_KugzcOuwdAafkxtfLC-p2fjLwPn8o13MvenpoF9tAjU_wTf4G9oHZhJFboVJGvpiYhi9vPWJOuSY-HQsKrRIxX_cISCgWj5li7l9VUUayi95e43dqlpHLr7V3vmGereqocVolUGjzPdUQbBn-4McZ-S13qYJRglFhP-evn5WhMc=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6wn_pYNTXDdkFeHyfYOWeRzpV-6sNKy7vpL9_dpdhS97imyVoph7lYcgpqkP_MG23e-5a9Xarb0AdCEuURWMm1J32f0Ifeby7Y27dKjGO5G_J-zXywLtcQtCv_2xsLBzix-24vW78iFWgraQMsWyUAg3RGBFRSg3INuqs8BGYV2YG_pjXTCOlAlNWk1AKPgT135MGZESaAXJLEQC7vZibMOQrvGmSw196UtNb0Q==",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwP0aWqWOvRuI7KSPZR_ckUdASyr3_ZOYLQZAW9uS1zU1HeGKnbqtGw2Pc_-uQNpMogXj1pCJqtXDYFMNBlZqWdhwcvUe7UgD0x-Q1eS72lx0MhPkJZbUqgIRzb6UQptU5NhEPs8yos1mOI3kXjvVqEEUelz4PszkTJMvz9w==",
+            "title": "chiefs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX12r22Ywgz5-Yhw_6H3gGmIb2-EiqQMPXi0KZm1Tno7T8nV6qzq0uJPhGBEJbrvseS81KZA5u3WSAAVYPeH8d8UprPcLTKg8sWEbpxB-O7efowwCOSNddHkUuXrvrhJ5jrFAe8QEgRHjkBq2gLGwOUHmOq9ZgoaiuLI4i96CA08XL9jmi4bxu7AVClHzugL8Ny3zvVL7xmPkiHfsJf-0qkCBa",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6JEYL6XSGPTbFzxCr0cJwPjFMN6SRNrWB-ND-gUVH-klBztA4BmquMkSwQrlJjxc84jmWMFUxKN5aqQB2qVfnXgO6yl4O3D78xwqqgPsWj1FmzlFfZXBOblkqZvKI7mvqrOlRqXcpJvx50TqeFuqzpNCKRowLuFMDAN_NMd819S_daqrYrWz4IIcPL2rISNePTktsnlsFjY0C_A==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWnjR-sCSBJNB2cfkM8BOh1blJd5moagXIKqPqVxsc8JC3gtC3ijwMysM-ca6wMMuTviZySYpiSkMkyWFzzy_0VGD04Q6WPHIgwazYz8L_xG1kuXU4j_B7N4pg5dvIcnITWtjipORR0dUvLd9UA3yjR9MPZR4gMDs3uZhz0x4mtzFaDhdAHwwA4Dk=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU_vSu4PEImbY2qeTQ-p6Rq-qvWwpZ_O2bcnSOH3SZd_M9NM_UQcidDh4Csxd8a0tYqMiX1gdcuywOh3MfRA1_OlwV2mcz1EECEG9BpNIbH0OTSQqnD1BL2-7BEldugaVzdXJzqIINhwlkwH4y6dmunHrS6w21p-TTkQ==",
+            "title": "keeptradecut.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSxkiv_Gem_d_dITDGb8NugiMJp_63_aLQk6sDIxNoQf7S2sKbcYDdmpsFwyweK27hIFfMQLPr6oQUH0Jccpvnp1CXQnc_Dt6W3l33BGlOGU9f988WhrTwwUF_Elgju9HgIWxsVy_7Ww==",
+            "title": "fantasycalc.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrnaSz94mic76aVCg36e3LdDNb-eYrDdZFrWGaLRVYNAuWVFZM-zCTceJGPhuHL6zjoz2G_EAYM_2bber0sK11rTVd7hw5vxLiEYSgGEn5L4fpmnBxZXHVf4hWMAYjKHao6sUg2q2HPkimkPujxNij4U9AxGjgBDNJKi_PjK8hR2SOTFGZi_j4Zt3_44vudnKE9jieTlyLloD2KYht5JZpoZce",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG--ZyQvVdof7aNpey-NrZ9NwagD4dgi3bDqhDVr9GABCqdekIOfILLEjUQ6mvSii_PldVRAYSRR6kjl5b-dLRbopatKrbdGu8NtrXl-3TSVVjBrt_gKPmr-IVZ97_hpUPoXF_y1dptX7_A0d2ffKW_pV_cyKeLfOBb6jgQ86nx_qHFOa30UIu7pV9lGT2zxIVZ_fg3zhD53lCBwfIsBr1dAo7bu8NYPX_EXJCsNrFubj60ddp8U2GETKthD9fM",
+            "title": "facebook.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c5550d23d13e87f521b27a3bb898b8176533d997",
+        "aviCoreCommittedAt": "2026-09-24T06:19:53Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88128,
+        "groundedMarketChars": 2008,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mubwy9rr-53f92700",
     "createdAt": 1790035636852,
     "expiresAt": 1790467636852,
