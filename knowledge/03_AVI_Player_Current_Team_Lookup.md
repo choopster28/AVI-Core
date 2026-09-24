@@ -540,14 +540,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
-## PLAYER LOOKUP: David Njoku
-- Player name: David Njoku
-- Player ID: 4033
-- Position: TE
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Team file: 15_Gringo_s_Goblins.md
-
 ## PLAYER LOOKUP: De'Von Achane
 - Player name: De'Von Achane
 - Player ID: 9226
@@ -708,6 +700,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
+## PLAYER LOOKUP: Evan Engram
+- Player name: Evan Engram
+- Player ID: 4066
+- Position: TE
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
+
 ## PLAYER LOOKUP: Fernando Mendoza
 - Player name: Fernando Mendoza
 - Player ID: 13269
@@ -811,14 +811,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
-
-## PLAYER LOOKUP: Isiah Pacheco
-- Player name: Isiah Pacheco
-- Player ID: 8205
-- Position: RB
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Team file: 08_All_Hail_King_Jesus.md
 
 ## PLAYER LOOKUP: J.J. McCarthy
 - Player name: J.J. McCarthy
@@ -1348,6 +1340,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
 
+## PLAYER LOOKUP: Mack Hollins
+- Player name: Mack Hollins
+- Player ID: 4177
+- Position: WR
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
+
 ## PLAYER LOOKUP: Makai Lemon
 - Player name: Makai Lemon
 - Player ID: 13294
@@ -1844,14 +1844,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
-## PLAYER LOOKUP: Tre' Harris
-- Player name: Tre' Harris
-- Player ID: 12509
-- Position: WR
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Team file: 15_Gringo_s_Goblins.md
-
 ## PLAYER LOOKUP: TreVeyon Henderson
 - Player name: TreVeyon Henderson
 - Player ID: 12529
@@ -1998,13 +1990,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 
 ## Available Player Board
 
-## AVAILABLE PLAYER: Evan Engram
-- Player name: Evan Engram
-- Player ID: 4066
+## AVAILABLE PLAYER: David Njoku
+- Player name: David Njoku
+- Player ID: 4033
 - Position: TE
-- NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 49.0
-- Dynasty AVI (D-AVI, 0-100): 47.2
+- NFL team: LAC
+- Championship AVI (C-AVI, 0-100): 49.2
+- Dynasty AVI (D-AVI, 0-100): 54.1
+- Availability: available
+
+## AVAILABLE PLAYER: Tre' Harris
+- Player name: Tre' Harris
+- Player ID: 12509
+- Position: WR
+- NFL team: LAC
+- Championship AVI (C-AVI, 0-100): 47.1
+- Dynasty AVI (D-AVI, 0-100): 67.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Calvin Ridley
@@ -2086,6 +2087,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYG
 - Championship AVI (C-AVI, 0-100): 40.7
 - Dynasty AVI (D-AVI, 0-100): 49.9
+- Availability: available
+
+## AVAILABLE PLAYER: Isiah Pacheco
+- Player name: Isiah Pacheco
+- Player ID: 8205
+- Position: RB
+- NFL team: DET
+- Championship AVI (C-AVI, 0-100): 39.4
+- Dynasty AVI (D-AVI, 0-100): 55.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Tua Tagovailoa
@@ -2545,15 +2555,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CAR
 - Championship AVI (C-AVI, 0-100): 28.7
 - Dynasty AVI (D-AVI, 0-100): 41.6
-- Availability: available
-
-## AVAILABLE PLAYER: Mack Hollins
-- Player name: Mack Hollins
-- Player ID: 4177
-- Position: WR
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 28.7
-- Dynasty AVI (D-AVI, 0-100): 39.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Max Klare

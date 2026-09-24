@@ -3,13 +3,25 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00004066",
-      "c_avi": 49.0,
-      "d_avi": 47.2,
-      "nfl_team": "DEN",
-      "player_name": "Evan Engram",
+      "avi_id": "AVI-00004033",
+      "c_avi": 49.2,
+      "d_avi": 54.1,
+      "nfl_team": "LAC",
+      "player_name": "David Njoku",
       "position": "TE",
-      "sleeper_id": "4066",
+      "sleeper_id": "4033",
+      "status": "Inactive"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012509",
+      "c_avi": 47.1,
+      "d_avi": 67.0,
+      "nfl_team": "LAC",
+      "player_name": "Tre' Harris",
+      "position": "WR",
+      "sleeper_id": "12509",
       "status": "Active"
     },
     {
@@ -119,6 +131,18 @@
       "position": "TE",
       "sleeper_id": "11597",
       "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00008205",
+      "c_avi": 39.4,
+      "d_avi": 55.9,
+      "nfl_team": "DET",
+      "player_name": "Isiah Pacheco",
+      "position": "RB",
+      "sleeper_id": "8205",
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -730,18 +754,6 @@
       "player_name": "Ja'Tavion Sanders",
       "position": "TE",
       "sleeper_id": "11600",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00004177",
-      "c_avi": 28.7,
-      "d_avi": 39.3,
-      "nfl_team": "NE",
-      "player_name": "Mack Hollins",
-      "position": "WR",
-      "sleeper_id": "4177",
       "status": "Active"
     },
     {
@@ -2774,8 +2786,8 @@
     }
   ],
   "counts": {
-    "available_players": 231,
-    "rostered_players": 249
+    "available_players": 232,
+    "rostered_players": 248
   },
   "rostered_players": [
     {
@@ -3853,22 +3865,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00004033",
-      "c_avi": 49.2,
-      "d_avi": 54.1,
-      "nfl_team": "LAC",
-      "owner_id": "990097041671892992",
-      "player_name": "David Njoku",
-      "position": "TE",
-      "roster_id": 15,
-      "sleeper_id": "4033",
-      "status": "Inactive",
-      "team_file": "15_Gringo_s_Goblins.md",
-      "team_name": "Gringo’s Goblins "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00009226",
       "c_avi": 95.8,
       "d_avi": 96.5,
@@ -4189,6 +4185,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00004066",
+      "c_avi": 49.0,
+      "d_avi": 47.2,
+      "nfl_team": "DEN",
+      "owner_id": "990097041671892992",
+      "player_name": "Evan Engram",
+      "position": "TE",
+      "roster_id": 15,
+      "sleeper_id": "4066",
+      "status": "Active",
+      "team_file": "15_Gringo_s_Goblins.md",
+      "team_name": "Gringo’s Goblins "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00013269",
       "c_avi": 43.0,
       "d_avi": 68.4,
@@ -4393,22 +4405,6 @@
       "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00008205",
-      "c_avi": 39.4,
-      "d_avi": 55.9,
-      "nfl_team": "DET",
-      "owner_id": "736994691492519936",
-      "player_name": "Isiah Pacheco",
-      "position": "RB",
-      "roster_id": 8,
-      "sleeper_id": "8205",
-      "status": "Inactive",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,
@@ -5469,6 +5465,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00004177",
+      "c_avi": 28.7,
+      "d_avi": 39.3,
+      "nfl_team": "NE",
+      "owner_id": "990097041671892992",
+      "player_name": "Mack Hollins",
+      "position": "WR",
+      "roster_id": 15,
+      "sleeper_id": "4177",
+      "status": "Active",
+      "team_file": "15_Gringo_s_Goblins.md",
+      "team_name": "Gringo’s Goblins "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00013294",
       "c_avi": 56.5,
       "d_avi": 82.6,
@@ -6457,22 +6469,6 @@
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012509",
-      "c_avi": 47.1,
-      "d_avi": 67.0,
-      "nfl_team": "LAC",
-      "owner_id": "990097041671892992",
-      "player_name": "Tre' Harris",
-      "position": "WR",
-      "roster_id": 15,
-      "sleeper_id": "12509",
-      "status": "Active",
-      "team_file": "15_Gringo_s_Goblins.md",
-      "team_name": "Gringo’s Goblins "
     },
     {
       "active": true,
