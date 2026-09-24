@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-09-23
+- Last updated from Sleeper exports: 2026-09-24
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 696.8
-- championship_lineup_c_avi_avg: 87.10
-- offensive_roster_c_avi_sum: 1167.7
-- offensive_roster_c_avi_avg: 68.69
-- offensive_roster_d_avi_sum: 1307.6
-- offensive_roster_d_avi_avg: 76.92
+- championship_lineup_c_avi_sum: 670.0
+- championship_lineup_c_avi_avg: 83.75
+- offensive_roster_c_avi_sum: 1168.3
+- offensive_roster_c_avi_avg: 68.72
+- offensive_roster_d_avi_sum: 1309.4
+- offensive_roster_d_avi_avg: 77.02
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jayden Daniels | C-AVI: 82.9 | D-AVI: 87.5
+- QB: Baker Mayfield | C-AVI: 56.1 | D-AVI: 71.8
 - RB: Saquon Barkley | C-AVI: 90.6 | D-AVI: 91.0
 - RB: Omarion Hampton | C-AVI: 88.5 | D-AVI: 93.3
 - WR: Rashee Rice | C-AVI: 94.2 | D-AVI: 92.5
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 53.6
-- Dynasty AVI (D-AVI, 0-100): 56.8
+- Championship AVI (C-AVI, 0-100): 54.2
+- Dynasty AVI (D-AVI, 0-100): 58.6
 - Projected PPR points: 137.9
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -382,17 +382,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Nick Cross
-- Player name: Nick Cross
-- Player ID: 8392
+### PLAYER: Cole Bishop
+- Player name: Cole Bishop
+- Player ID: 11682
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: DB
 - Fantasy positions: ['DB']
-- NFL team: WAS
+- NFL team: BUF
 - Active: True
 - Status: Active
-- Age: 25.0
+- Age: 23.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

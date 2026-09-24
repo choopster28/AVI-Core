@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-09-23
+- Last updated from Sleeper exports: 2026-09-24
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 612.3
-- championship_lineup_c_avi_avg: 76.54
-- offensive_roster_c_avi_sum: 866.4
-- offensive_roster_c_avi_avg: 57.76
-- offensive_roster_d_avi_sum: 984.5
-- offensive_roster_d_avi_avg: 65.63
+- championship_lineup_c_avi_sum: 612.6
+- championship_lineup_c_avi_avg: 76.58
+- offensive_roster_c_avi_sum: 866.5
+- offensive_roster_c_avi_avg: 57.77
+- offensive_roster_d_avi_sum: 985.2
+- offensive_roster_d_avi_avg: 65.68
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Chase Brown | C-AVI: 95.0 | D-AVI: 93.3
 - WR: Parker Washington | C-AVI: 75.5 | D-AVI: 83.7
 - WR: DK Metcalf | C-AVI: 71.1 | D-AVI: 81.1
-- TE: Terrance Ferguson | C-AVI: 57.6 | D-AVI: 66.8
+- TE: Terrance Ferguson | C-AVI: 57.9 | D-AVI: 67.7
 - FLEX: Javonte Williams | C-AVI: 83.1 | D-AVI: 86.7
 - FLEX: Mike Gesicki | C-AVI: 46.9 | D-AVI: 40.1
 
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 19.0
-- Dynasty AVI (D-AVI, 0-100): 52.8
+- Championship AVI (C-AVI, 0-100): 18.8
+- Dynasty AVI (D-AVI, 0-100): 52.6
 - Projected PPR points: 8.5
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 57.6
-- Dynasty AVI (D-AVI, 0-100): 66.8
+- Championship AVI (C-AVI, 0-100): 57.9
+- Dynasty AVI (D-AVI, 0-100): 67.7
 - Projected PPR points: 117.5
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON

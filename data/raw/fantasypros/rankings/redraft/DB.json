@@ -14077,7 +14077,7 @@
     },
     {
       "cbs_player_id": "2251374",
-      "player_bye_week": "11",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "myles-bryant.php",
@@ -14090,7 +14090,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "M. Bryant",
-      "player_team_id": "CLE",
+      "player_team_id": "FA",
       "player_yahoo_id": "33319",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB256",

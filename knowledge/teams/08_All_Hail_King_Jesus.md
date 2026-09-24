@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-09-23
+- Last updated from Sleeper exports: 2026-09-24
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 641.1
-- championship_lineup_c_avi_avg: 80.14
-- offensive_roster_c_avi_sum: 962.4
-- offensive_roster_c_avi_avg: 64.16
-- offensive_roster_d_avi_sum: 1044.0
-- offensive_roster_d_avi_avg: 69.60
+- championship_lineup_c_avi_sum: 640.8
+- championship_lineup_c_avi_avg: 80.10
+- offensive_roster_c_avi_sum: 962.1
+- offensive_roster_c_avi_avg: 64.14
+- offensive_roster_d_avi_sum: 1043.1
+- offensive_roster_d_avi_avg: 69.54
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Justin Jefferson | C-AVI: 97.4 | D-AVI: 98.0
 - TE: Dallas Goedert | C-AVI: 84.2 | D-AVI: 78.5
 - FLEX: Tee Higgins | C-AVI: 82.9 | D-AVI: 88.9
-- FLEX: Tucker Kraft | C-AVI: 78.9 | D-AVI: 85.9
+- FLEX: Tucker Kraft | C-AVI: 78.6 | D-AVI: 85.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 78.9
-- Dynasty AVI (D-AVI, 0-100): 85.9
+- Championship AVI (C-AVI, 0-100): 78.6
+- Dynasty AVI (D-AVI, 0-100): 85.0
 - Projected PPR points: 173.8
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
