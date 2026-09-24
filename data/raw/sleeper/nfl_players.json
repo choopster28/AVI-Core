@@ -11230,7 +11230,7 @@
       "genius_id": "1398963",
       "rookie_year": "2023"
     },
-    "news_updated": 1790206832148,
+    "news_updated": 1790268939085,
     "number": 24,
     "oddsjam_id": "89E4D780D1E6",
     "opta_id": null,
@@ -130060,7 +130060,7 @@
     "first_name": "Robert",
     "full_name": "Robert Longerbeam",
     "gsis_id": null,
-    "hashtag": "#robertlongerbeam-NFL-ATL-38",
+    "hashtag": "#robertlongerbeam-NFL-ATL-37",
     "height": "71",
     "high_school": "T.C. Williams (VA)",
     "injury_body_part": null,
@@ -130075,7 +130075,7 @@
       "rookie_year": "2025"
     },
     "news_updated": 1790180117569,
-    "number": 38,
+    "number": 37,
     "oddsjam_id": "7F58DB710ED2D2E9",
     "opta_id": null,
     "pandascore_id": null,
@@ -130098,7 +130098,7 @@
     "team": "ATL",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "175",
+    "weight": "178",
     "yahoo_id": null,
     "years_exp": 1
   },
@@ -141461,7 +141461,7 @@
   },
   "12865": {
     "active": true,
-    "age": 24,
+    "age": 25,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2001-09-09",
@@ -141478,7 +141478,7 @@
     "first_name": "AJ",
     "full_name": "AJ Henning",
     "gsis_id": null,
-    "hashtag": "#ajhenning-NFL-FA-88",
+    "hashtag": "#ajhenning-NFL-MIA-88",
     "height": "70",
     "high_school": "Lincoln-Way East (IL)",
     "injury_body_part": null,
@@ -141513,7 +141513,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": null,
-    "team": null,
+    "team": "MIA",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "190",
@@ -223595,7 +223595,7 @@
     "full_name": "Maceo Beard",
     "gsis_id": null,
     "hashtag": "#maceobeard-NFL-MIN-36",
-    "height": "75",
+    "height": "73",
     "high_school": null,
     "injury_body_part": null,
     "injury_notes": null,
@@ -223632,7 +223632,7 @@
     "team": "MIN",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "205",
+    "weight": "206",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -336668,7 +336668,7 @@
       "genius_id": "941443",
       "rookie_year": "2016"
     },
-    "news_updated": 1788999047855,
+    "news_updated": 1790268939056,
     "number": 5,
     "oddsjam_id": "8E32844927E7",
     "opta_id": null,
@@ -362826,7 +362826,7 @@
     "first_name": "Austin",
     "full_name": "Austin Johnson",
     "gsis_id": "00-0032763",
-    "hashtag": "#austinjohnson-NFL-BUF-99",
+    "hashtag": "#austinjohnson-NFL-BUF-93",
     "height": "76",
     "high_school": "St. Augustine Prep (NJ)",
     "injury_body_part": null,
@@ -362841,7 +362841,7 @@
       "rookie_year": "2016"
     },
     "news_updated": 1790231134905,
-    "number": 99,
+    "number": 93,
     "oddsjam_id": "724378F75B48",
     "opta_id": null,
     "pandascore_id": null,
@@ -400015,7 +400015,7 @@
       "genius_id": "998859",
       "rookie_year": "2017"
     },
-    "news_updated": 1790196918564,
+    "news_updated": 1790269539244,
     "number": 91,
     "oddsjam_id": "E87FA4A4B031",
     "opta_id": null,
@@ -419156,7 +419156,7 @@
     "team": "PHI",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "190",
+    "weight": "179",
     "yahoo_id": 30669,
     "years_exp": 9
   },
@@ -447650,7 +447650,7 @@
       "genius_id": "1007964",
       "rookie_year": "2018"
     },
-    "news_updated": 1790003104240,
+    "news_updated": 1790269539256,
     "number": 26,
     "oddsjam_id": "08F1CFA81F52",
     "opta_id": null,
@@ -512328,7 +512328,7 @@
       "injury_override_regular_2025_12": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1789667729683,
+    "news_updated": 1790270437513,
     "number": 8,
     "oddsjam_id": "0614F08B6121",
     "opta_id": null,
@@ -512873,7 +512873,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1789318253868,
+    "news_updated": 1790268637406,
     "number": 1,
     "oddsjam_id": "828EC99117A1",
     "opta_id": null,
@@ -518703,7 +518703,7 @@
       "genius_id": "1015278",
       "rookie_year": "2019"
     },
-    "news_updated": 1790207432240,
+    "news_updated": 1790268939071,
     "number": 35,
     "oddsjam_id": "33CBE5D5DD72",
     "opta_id": null,
@@ -574437,7 +574437,7 @@
       "injury_override_regular_2024_6": "Active",
       "rookie_year": "2020"
     },
-    "news_updated": 1790194818349,
+    "news_updated": 1790270437514,
     "number": 11,
     "oddsjam_id": "F9DF4252F1E4",
     "opta_id": null,
@@ -587993,7 +587993,7 @@
       "injury_override_regular_2026_3": "Questionable",
       "rookie_year": "2020"
     },
-    "news_updated": 1790194217465,
+    "news_updated": 1790269837452,
     "number": 13,
     "oddsjam_id": "F8EB1DB18219",
     "opta_id": null,
@@ -623842,7 +623842,7 @@
       "genius_id": "1085741",
       "rookie_year": "2021"
     },
-    "news_updated": 1789971002238,
+    "news_updated": 1790268637411,
     "number": 1,
     "oddsjam_id": "CB96A0691E08",
     "opta_id": null,
@@ -623965,7 +623965,7 @@
       "injury_override_regular_2024_10": "Out",
       "rookie_year": "2021"
     },
-    "news_updated": 1790267738539,
+    "news_updated": 1790269237266,
     "number": 12,
     "oddsjam_id": "BF7307FF6714",
     "opta_id": null,
@@ -650717,7 +650717,7 @@
     "team": "CHI",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "190",
+    "weight": "191",
     "yahoo_id": null,
     "years_exp": 5
   },
@@ -662236,7 +662236,7 @@
       "genius_id": "1343228",
       "rookie_year": "2022"
     },
-    "news_updated": 1789742746839,
+    "news_updated": 1790268637440,
     "number": 1,
     "oddsjam_id": "CD981F59AB0B",
     "opta_id": null,
@@ -666462,7 +666462,7 @@
       "genius_id": "1075524",
       "rookie_year": "2022"
     },
-    "news_updated": 1790268338997,
+    "news_updated": 1790270737462,
     "number": 85,
     "oddsjam_id": "06307AE899D5",
     "opta_id": null,
@@ -667611,7 +667611,7 @@
       "genius_id": "1358027",
       "rookie_year": "2022"
     },
-    "news_updated": 1790196617004,
+    "news_updated": 1790268939116,
     "number": 30,
     "oddsjam_id": "536A370A900F",
     "opta_id": null,
@@ -701300,7 +701300,7 @@
     "full_name": "Benton Whitley",
     "gsis_id": null,
     "hashtag": "#bentonwhitley-NFL-NE-61",
-    "height": "76",
+    "height": "75",
     "high_school": "Minnechaug Regional (MA)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -724099,7 +724099,7 @@
       "genius_id": "1398595",
       "rookie_year": "2023"
     },
-    "news_updated": 1790260536472,
+    "news_updated": 1790271318763,
     "number": 4,
     "oddsjam_id": "F39E10BEE1F4",
     "opta_id": null,
