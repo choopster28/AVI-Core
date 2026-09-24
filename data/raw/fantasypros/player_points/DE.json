@@ -111,17 +111,17 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 1.9,
       "filename": "solomon-thomas.php",
       "games": 2,
       "player_id": 16372,
       "player_name": "Solomon Thomas",
-      "points": 3,
+      "points": 3.75,
       "position_id": "DE",
       "team_id": "TEN",
       "weeks": {
         "1": 0,
-        "2": 3
+        "2": 3.8
       }
     },
     {
@@ -419,17 +419,17 @@
       }
     },
     {
-      "average": 6.5,
+      "average": 5.8,
       "filename": "josh-uche.php",
       "games": 2,
       "player_id": 19257,
       "player_name": "Josh Uche",
-      "points": 13,
+      "points": 11.5,
       "position_id": "DE",
       "team_id": "MIA",
       "weeks": {
         "1": 3.8,
-        "2": 9.3
+        "2": 7.8
       }
     },
     {

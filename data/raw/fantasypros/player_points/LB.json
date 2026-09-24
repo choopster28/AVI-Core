@@ -1329,17 +1329,17 @@
       }
     },
     {
-      "average": 20,
+      "average": 19.3,
       "filename": "nakobe-dean.php",
       "games": 2,
       "player_id": 23702,
       "player_name": "Nakobe Dean",
-      "points": 40,
+      "points": 38.5,
       "position_id": "LB",
       "team_id": "LV",
       "weeks": {
         "1": 21.3,
-        "2": 18.8
+        "2": 17.3
       }
     },
     {
@@ -2510,17 +2510,17 @@
       }
     },
     {
-      "average": 14.3,
+      "average": 13.9,
       "filename": "anthony-hill-jr.php",
       "games": 2,
       "player_id": 27954,
       "player_name": "Anthony Hill Jr.",
-      "points": 28.5,
+      "points": 27.75,
       "position_id": "LB",
       "team_id": "TEN",
       "weeks": {
         "1": 16.5,
-        "2": 12
+        "2": 11.3
       }
     },
     {

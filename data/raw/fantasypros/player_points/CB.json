@@ -419,17 +419,17 @@
       }
     },
     {
-      "average": 4.9,
+      "average": 4.1,
       "filename": "aj-terrell.php",
       "games": 2,
       "player_id": 19224,
       "player_name": "A.J. Terrell Jr.",
-      "points": 9.75,
+      "points": 8.25,
       "position_id": "CB",
       "team_id": "ATL",
       "weeks": {
         "1": 6.8,
-        "2": 3
+        "2": 1.5
       }
     },
     {
@@ -1172,17 +1172,17 @@
       }
     },
     {
-      "average": 5,
+      "average": 5.8,
       "filename": "julius-brents.php",
       "games": 2,
       "player_id": 25285,
       "player_name": "JuJu Brents",
-      "points": 10,
+      "points": 11.5,
       "position_id": "CB",
       "team_id": "MIA",
       "weeks": {
         "1": 7.8,
-        "2": 2.3
+        "2": 3.8
       }
     },
     {
@@ -2424,16 +2424,16 @@
       }
     },
     {
-      "average": 2.3,
+      "average": 3.8,
       "filename": "jermod-mccoy.php",
       "games": 1,
       "player_id": 27956,
       "player_name": "Jermod McCoy",
-      "points": 2.25,
+      "points": 3.75,
       "position_id": "CB",
       "team_id": "LV",
       "weeks": {
-        "2": 2.3
+        "2": 3.8
       }
     },
     {

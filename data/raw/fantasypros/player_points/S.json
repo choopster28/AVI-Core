@@ -166,17 +166,17 @@
       }
     },
     {
-      "average": 7.1,
+      "average": 7.5,
       "filename": "jessie-bates-iii.php",
       "games": 2,
       "player_id": 17544,
       "player_name": "Jessie Bates III",
-      "points": 14.25,
+      "points": 15,
       "position_id": "S",
       "team_id": "ATL",
       "weeks": {
         "1": 6.8,
-        "2": 7.5
+        "2": 8.3
       }
     },
     {
@@ -1311,17 +1311,17 @@
       }
     },
     {
-      "average": 9.1,
+      "average": 8.8,
       "filename": "xavier-watts.php",
       "games": 2,
       "player_id": 27067,
       "player_name": "Xavier Watts",
-      "points": 18.25,
+      "points": 17.5,
       "position_id": "S",
       "team_id": "ATL",
       "weeks": {
         "1": 4.5,
-        "2": 13.8
+        "2": 13
       }
     },
     {
