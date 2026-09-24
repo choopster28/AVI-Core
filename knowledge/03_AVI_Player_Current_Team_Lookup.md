@@ -316,14 +316,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
 
-## PLAYER LOOKUP: Chimere Dike
-- Player name: Chimere Dike
-- Player ID: 12540
-- Position: WR
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Team file: 10_SmokyValleyWheatWarriors.md
-
 ## PLAYER LOOKUP: Chris Bell
 - Player name: Chris Bell
 - Player ID: 13311
@@ -683,6 +675,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
+
+## PLAYER LOOKUP: Emanuel Wilson
+- Player name: Emanuel Wilson
+- Player ID: 11435
+- Position: RB
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Emeka Egbuka
 - Player name: Emeka Egbuka
@@ -1139,14 +1139,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
-
-## PLAYER LOOKUP: Justice Hill
-- Player name: Justice Hill
-- Player ID: 5995
-- Position: RB
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Justin Herbert
 - Player name: Justin Herbert
@@ -1916,6 +1908,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
+## PLAYER LOOKUP: Tyreek Hill
+- Player name: Tyreek Hill
+- Player ID: 3321
+- Position: WR
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Team file: 10_SmokyValleyWheatWarriors.md
+
 ## PLAYER LOOKUP: Tyrone Tracy
 - Player name: Tyrone Tracy
 - Player ID: 11655
@@ -2089,6 +2089,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 49.9
 - Availability: available
 
+## AVAILABLE PLAYER: Justice Hill
+- Player name: Justice Hill
+- Player ID: 5995
+- Position: RB
+- NFL team: BAL
+- Championship AVI (C-AVI, 0-100): 39.7
+- Dynasty AVI (D-AVI, 0-100): 43.8
+- Availability: available
+
 ## AVAILABLE PLAYER: Isiah Pacheco
 - Player name: Isiah Pacheco
 - Player ID: 8205
@@ -2123,15 +2132,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: DEN
 - Championship AVI (C-AVI, 0-100): 38.5
 - Dynasty AVI (D-AVI, 0-100): 50.0
-- Availability: available
-
-## AVAILABLE PLAYER: Emanuel Wilson
-- Player name: Emanuel Wilson
-- Player ID: 11435
-- Position: RB
-- NFL team: SEA
-- Championship AVI (C-AVI, 0-100): 38.5
-- Dynasty AVI (D-AVI, 0-100): 50.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Noah Gray
@@ -2366,6 +2366,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CAR
 - Championship AVI (C-AVI, 0-100): 32.3
 - Dynasty AVI (D-AVI, 0-100): 30.5
+- Availability: available
+
+## AVAILABLE PLAYER: Chimere Dike
+- Player name: Chimere Dike
+- Player ID: 12540
+- Position: WR
+- NFL team: TEN
+- Championship AVI (C-AVI, 0-100): 32.3
+- Dynasty AVI (D-AVI, 0-100): 53.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Foster Moreau
@@ -4049,15 +4058,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 5.3
-- Availability: available
-
-## AVAILABLE PLAYER: Tyreek Hill
-- Player name: Tyreek Hill
-- Player ID: 3321
-- Position: WR
-- NFL team: FA
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 30.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Xavier Restrepo

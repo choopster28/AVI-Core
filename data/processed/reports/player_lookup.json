@@ -135,6 +135,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00005995",
+      "c_avi": 39.7,
+      "d_avi": 43.8,
+      "nfl_team": "BAL",
+      "player_name": "Justice Hill",
+      "position": "RB",
+      "sleeper_id": "5995",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008205",
       "c_avi": 39.4,
       "d_avi": 55.9,
@@ -178,18 +190,6 @@
       "player_name": "Adam Trautman",
       "position": "TE",
       "sleeper_id": "6869",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011435",
-      "c_avi": 38.5,
-      "d_avi": 50.9,
-      "nfl_team": "SEA",
-      "player_name": "Emanuel Wilson",
-      "position": "RB",
-      "sleeper_id": "11435",
       "status": "Active"
     },
     {
@@ -502,6 +502,18 @@
       "player_name": "AJ Dillon",
       "position": "RB",
       "sleeper_id": "6828",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012540",
+      "c_avi": 32.3,
+      "d_avi": 53.9,
+      "nfl_team": "TEN",
+      "player_name": "Chimere Dike",
+      "position": "WR",
+      "sleeper_id": "12540",
       "status": "Active"
     },
     {
@@ -2751,18 +2763,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00003321",
-      "c_avi": 0.0,
-      "d_avi": 30.1,
-      "nfl_team": "FA",
-      "player_name": "Tyreek Hill",
-      "position": "WR",
-      "sleeper_id": "3321",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012520",
       "c_avi": 0.0,
       "d_avi": 0.0,
@@ -3413,22 +3413,6 @@
       "status": "Active",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012540",
-      "c_avi": 32.3,
-      "d_avi": 53.9,
-      "nfl_team": "TEN",
-      "owner_id": "308805697879937024",
-      "player_name": "Chimere Dike",
-      "position": "WR",
-      "roster_id": 10,
-      "sleeper_id": "12540",
-      "status": "Active",
-      "team_file": "10_SmokyValleyWheatWarriors.md",
-      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,
@@ -4149,6 +4133,22 @@
       "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011435",
+      "c_avi": 38.5,
+      "d_avi": 50.9,
+      "nfl_team": "SEA",
+      "owner_id": "736993578450030592",
+      "player_name": "Emanuel Wilson",
+      "position": "RB",
+      "roster_id": 1,
+      "sleeper_id": "11435",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -5061,22 +5061,6 @@
       "status": "Active",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00005995",
-      "c_avi": 39.7,
-      "d_avi": 43.8,
-      "nfl_team": "BAL",
-      "owner_id": "736993578450030592",
-      "player_name": "Justice Hill",
-      "position": "RB",
-      "roster_id": 1,
-      "sleeper_id": "5995",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -6613,6 +6597,22 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00003321",
+      "c_avi": 0.0,
+      "d_avi": 30.1,
+      "nfl_team": "FA",
+      "owner_id": "308805697879937024",
+      "player_name": "Tyreek Hill",
+      "position": "WR",
+      "roster_id": 10,
+      "sleeper_id": "3321",
+      "status": "Active",
+      "team_file": "10_SmokyValleyWheatWarriors.md",
+      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,
