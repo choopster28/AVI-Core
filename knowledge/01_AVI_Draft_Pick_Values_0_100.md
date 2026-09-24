@@ -650,8 +650,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Lightskin Legends ✊🏽
 - Original roster ID: 6
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd

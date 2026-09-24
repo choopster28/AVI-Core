@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-24T22:34:39.403292+00:00",
+  "generated_at_utc": "2026-09-24T23:41:12.423585+00:00",
   "statistics": {
-    "owner_trade_participations": 169,
+    "owner_trade_participations": 171,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -72,13 +72,9 @@
         "team_name": "Gringo’s Goblins "
       },
       {
-        "partner_count": 1,
+        "partner_count": 2,
         "partners": [
-          "Conquistadors",
-          "Northside Kings ",
-          "SmokyValleyWheatWarriors",
-          "Corgi Loaf Baking Co. ",
-          "Crimson Tide Pods"
+          "Conquistadors"
         ],
         "roster_id": 6,
         "team_name": "Lightskin Legends ✊🏽"
@@ -180,18 +176,18 @@
         "by_season": {
           "2024": 6,
           "2025": 2,
-          "2026": 11
+          "2026": 12
         },
         "firsts_in": 3,
         "firsts_out": 5,
         "owner_display_name": "Thecan",
-        "picks_in": 7,
+        "picks_in": 8,
         "picks_out": 11,
         "players_in": 18,
-        "players_out": 20,
+        "players_out": 21,
         "roster_id": 1,
         "team_name": "Conquistadors",
-        "total": 19
+        "total": 20
       },
       {
         "by_season": {
@@ -311,6 +307,23 @@
       },
       {
         "by_season": {
+          "2024": 2,
+          "2025": 3,
+          "2026": 1
+        },
+        "firsts_in": 0,
+        "firsts_out": 0,
+        "owner_display_name": "MadDawgMatt",
+        "picks_in": 1,
+        "picks_out": 3,
+        "players_in": 6,
+        "players_out": 3,
+        "roster_id": 6,
+        "team_name": "Lightskin Legends ✊🏽",
+        "total": 6
+      },
+      {
+        "by_season": {
           "2025": 3,
           "2026": 3
         },
@@ -324,22 +337,6 @@
         "roster_id": 2,
         "team_name": "Rapid Valley Annihilation",
         "total": 6
-      },
-      {
-        "by_season": {
-          "2024": 2,
-          "2025": 3
-        },
-        "firsts_in": 0,
-        "firsts_out": 0,
-        "owner_display_name": "MadDawgMatt",
-        "picks_in": 1,
-        "picks_out": 2,
-        "players_in": 5,
-        "players_out": 3,
-        "roster_id": 6,
-        "team_name": "Lightskin Legends ✊🏽",
-        "total": 5
       },
       {
         "by_season": {
@@ -408,10 +405,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 41
+      "2026": 42
     },
-    "two_team_trades": 83,
-    "unique_completed_trades": 84
+    "two_team_trades": 84,
+    "unique_completed_trades": 85
   },
   "trades": [
     {
@@ -6210,6 +6207,64 @@
         }
       ],
       "transaction_id": "1408970327253372928",
+      "week": 3
+    },
+    {
+      "created_at_utc": "2026-09-24T22:48:18.911000+00:00",
+      "created_timestamp_ms": 1790290098911,
+      "roster_ids": [
+        1,
+        6
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 6,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "13353",
+              "player_name": "Chris Brazzell"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "MadDawgMatt",
+          "owner_id": "872509429436829696",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 6,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "13353",
+              "player_name": "Chris Brazzell"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 6,
+          "season": 2026,
+          "team_name": "Lightskin Legends ✊🏽"
+        }
+      ],
+      "transaction_id": "1408982432811589632",
       "week": 3
     }
   ]

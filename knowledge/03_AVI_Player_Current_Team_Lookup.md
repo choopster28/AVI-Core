@@ -328,9 +328,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Chris Brazzell
 - Player ID: 13353
 - Position: WR
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Chris Brooks
 - Player name: Chris Brooks
