@@ -1,5 +1,28 @@
 [
   {
+    "id": "muf5kjoj-5ca5e191",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "Patrick Mahomes",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1790231429539,
+    "updatedAt": 1790231429539,
+    "expiresAt": 1790663429539,
+    "status": "queued"
+  },
+  {
     "id": "mubwy9rr-53f92700",
     "phase": "initial",
     "mode": "improve_team",
