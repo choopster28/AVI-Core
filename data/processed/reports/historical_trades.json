@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-24T18:45:14.382271+00:00",
+  "generated_at_utc": "2026-09-24T22:34:39.403292+00:00",
   "statistics": {
-    "owner_trade_participations": 167,
+    "owner_trade_participations": 169,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -180,35 +180,35 @@
         "by_season": {
           "2024": 6,
           "2025": 2,
-          "2026": 10
+          "2026": 11
         },
         "firsts_in": 3,
         "firsts_out": 5,
         "owner_display_name": "Thecan",
-        "picks_in": 6,
-        "picks_out": 10,
-        "players_in": 16,
-        "players_out": 18,
+        "picks_in": 7,
+        "picks_out": 11,
+        "players_in": 18,
+        "players_out": 20,
         "roster_id": 1,
         "team_name": "Conquistadors",
-        "total": 18
+        "total": 19
       },
       {
         "by_season": {
           "2024": 3,
           "2025": 3,
-          "2026": 12
+          "2026": 13
         },
         "firsts_in": 2,
         "firsts_out": 4,
         "owner_display_name": "Mentomorii",
-        "picks_in": 4,
-        "picks_out": 5,
-        "players_in": 17,
-        "players_out": 23,
+        "picks_in": 5,
+        "picks_out": 6,
+        "players_in": 19,
+        "players_out": 25,
         "roster_id": 3,
         "team_name": "Ravens Regime ",
-        "total": 18
+        "total": 19
       },
       {
         "by_season": {
@@ -408,10 +408,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 40
+      "2026": 41
     },
-    "two_team_trades": 82,
-    "unique_completed_trades": 83
+    "two_team_trades": 83,
+    "unique_completed_trades": 84
   },
   "trades": [
     {
@@ -6114,6 +6114,102 @@
         }
       ],
       "transaction_id": "1408697725586825216",
+      "week": 3
+    },
+    {
+      "created_at_utc": "2026-09-24T22:00:12.722000+00:00",
+      "created_timestamp_ms": 1790287212722,
+      "roster_ids": [
+        1,
+        3
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [
+            {
+              "original_roster_id": 3,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "13424",
+              "player_name": "Seth McGowan"
+            },
+            {
+              "player_id": "8131",
+              "player_name": "Isaiah Likely"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7002",
+              "player_name": "Juwan Johnson"
+            },
+            {
+              "player_id": "9508",
+              "player_name": "Tyjae Spears"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 3,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "7002",
+              "player_name": "Juwan Johnson"
+            },
+            {
+              "player_id": "9508",
+              "player_name": "Tyjae Spears"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "13424",
+              "player_name": "Seth McGowan"
+            },
+            {
+              "player_id": "8131",
+              "player_name": "Isaiah Likely"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        }
+      ],
+      "transaction_id": "1408970327253372928",
       "week": 3
     }
   ]

@@ -816,9 +816,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Isaiah Likely
 - Player ID: 8131
 - Position: TE
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: J.J. McCarthy
 - Player name: J.J. McCarthy
@@ -1168,9 +1168,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Juwan Johnson
 - Player ID: 7002
 - Position: TE
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: KC Concepcion
 - Player name: KC Concepcion
@@ -1728,9 +1728,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Seth McGowan
 - Player ID: 13424
 - Position: RB
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Stefon Diggs
 - Player name: Stefon Diggs
@@ -1872,9 +1872,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Tyjae Spears
 - Player ID: 9508
 - Position: RB
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Tyler Allgeier
 - Player name: Tyler Allgeier

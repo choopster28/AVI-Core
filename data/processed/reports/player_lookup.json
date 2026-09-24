@@ -4413,14 +4413,14 @@
       "c_avi": 73.0,
       "d_avi": 79.3,
       "nfl_team": "NYG",
-      "owner_id": "992908759074680832",
+      "owner_id": "736993578450030592",
       "player_name": "Isaiah Likely",
       "position": "TE",
-      "roster_id": 3,
+      "roster_id": 1,
       "sleeper_id": "8131",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -4770,7 +4770,7 @@
       "position": "QB",
       "roster_id": 12,
       "sleeper_id": "12508",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
     },
@@ -5117,14 +5117,14 @@
       "c_avi": 63.4,
       "d_avi": 69.7,
       "nfl_team": "NO",
-      "owner_id": "736993578450030592",
+      "owner_id": "992908759074680832",
       "player_name": "Juwan Johnson",
       "position": "TE",
-      "roster_id": 1,
+      "roster_id": 3,
       "sleeper_id": "7002",
       "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -6237,14 +6237,14 @@
       "c_avi": 21.6,
       "d_avi": 27.1,
       "nfl_team": "IND",
-      "owner_id": "992908759074680832",
+      "owner_id": "736993578450030592",
       "player_name": "Seth McGowan",
       "position": "RB",
-      "roster_id": 3,
+      "roster_id": 1,
       "sleeper_id": "13424",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -6525,14 +6525,14 @@
       "c_avi": 50.0,
       "d_avi": 60.2,
       "nfl_team": "TEN",
-      "owner_id": "736993578450030592",
+      "owner_id": "992908759074680832",
       "player_name": "Tyjae Spears",
       "position": "RB",
-      "roster_id": 1,
+      "roster_id": 3,
       "sleeper_id": "9508",
       "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
