@@ -596,6 +596,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
 
+## PLAYER LOOKUP: Deshaun Watson
+- Player name: Deshaun Watson
+- Player ID: 4017
+- Position: QB
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
+
 ## PLAYER LOOKUP: Devaughn Vele
 - Player name: Devaughn Vele
 - Player ID: 11834
@@ -864,9 +872,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jacory Croskey-Merritt
 - Player ID: 12533
 - Position: RB
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: Jadarian Price
 - Player name: Jadarian Price
@@ -1200,9 +1208,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Kaytron Allen
 - Player ID: 13405
 - Position: RB
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: Keaton Mitchell
 - Player name: Keaton Mitchell
@@ -1800,17 +1808,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Tony Pollard
 - Player ID: 5967
 - Position: RB
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Team file: 12_DMV_Fantasy.md
-
-## PLAYER LOOKUP: Tory Horton
-- Player name: Tory Horton
-- Player ID: 12497
-- Position: WR
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
-- Team file: 02_Rapid_Valley_Annihilation.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Travis Etienne
 - Player name: Travis Etienne
@@ -2024,15 +2024,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYJ
 - Championship AVI (C-AVI, 0-100): 44.1
 - Dynasty AVI (D-AVI, 0-100): 54.9
-- Availability: available
-
-## AVAILABLE PLAYER: Deshaun Watson
-- Player name: Deshaun Watson
-- Player ID: 4017
-- Position: QB
-- NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 43.6
-- Dynasty AVI (D-AVI, 0-100): 54.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Tommy Tremble
@@ -2375,6 +2366,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: TEN
 - Championship AVI (C-AVI, 0-100): 32.3
 - Dynasty AVI (D-AVI, 0-100): 53.9
+- Availability: available
+
+## AVAILABLE PLAYER: Tory Horton
+- Player name: Tory Horton
+- Player ID: 12497
+- Position: WR
+- NFL team: SEA
+- Championship AVI (C-AVI, 0-100): 32.3
+- Dynasty AVI (D-AVI, 0-100): 55.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Foster Moreau

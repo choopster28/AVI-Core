@@ -51,18 +51,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00004017",
-      "c_avi": 43.6,
-      "d_avi": 54.5,
-      "nfl_team": "CLE",
-      "player_name": "Deshaun Watson",
-      "position": "QB",
-      "sleeper_id": "4017",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00007694",
       "c_avi": 43.3,
       "d_avi": 52.9,
@@ -514,6 +502,18 @@
       "player_name": "Chimere Dike",
       "position": "WR",
       "sleeper_id": "12540",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012497",
+      "c_avi": 32.3,
+      "d_avi": 55.6,
+      "nfl_team": "SEA",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "sleeper_id": "12497",
       "status": "Active"
     },
     {
@@ -3977,6 +3977,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00004017",
+      "c_avi": 43.6,
+      "d_avi": 54.5,
+      "nfl_team": "CLE",
+      "owner_id": "1178861684281753600",
+      "player_name": "Deshaun Watson",
+      "position": "QB",
+      "roster_id": 2,
+      "sleeper_id": "4017",
+      "status": "Active",
+      "team_file": "02_Rapid_Valley_Annihilation.md",
+      "team_name": "Rapid Valley Annihilation"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00011834",
       "c_avi": 44.8,
       "d_avi": 50.4,
@@ -4509,14 +4525,14 @@
       "c_avi": 56.4,
       "d_avi": 70.0,
       "nfl_team": "WAS",
-      "owner_id": "992908759074680832",
+      "owner_id": "1129546394534158336",
       "player_name": "Jacory Croskey-Merritt",
       "position": "RB",
-      "roster_id": 3,
+      "roster_id": 12,
       "sleeper_id": "12533",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -5181,14 +5197,14 @@
       "c_avi": 32.9,
       "d_avi": 59.2,
       "nfl_team": "WAS",
-      "owner_id": "992908759074680832",
+      "owner_id": "1129546394534158336",
       "player_name": "Kaytron Allen",
       "position": "RB",
-      "roster_id": 3,
+      "roster_id": 12,
       "sleeper_id": "13405",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -6381,30 +6397,14 @@
       "c_avi": 64.2,
       "d_avi": 73.3,
       "nfl_team": "TEN",
-      "owner_id": "1129546394534158336",
+      "owner_id": "992908759074680832",
       "player_name": "Tony Pollard",
       "position": "RB",
-      "roster_id": 12,
+      "roster_id": 3,
       "sleeper_id": "5967",
       "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012497",
-      "c_avi": 32.3,
-      "d_avi": 55.6,
-      "nfl_team": "SEA",
-      "owner_id": "1178861684281753600",
-      "player_name": "Tory Horton",
-      "position": "WR",
-      "roster_id": 2,
-      "sleeper_id": "12497",
-      "status": "Active",
-      "team_file": "02_Rapid_Valley_Annihilation.md",
-      "team_name": "Rapid Valley Annihilation"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,

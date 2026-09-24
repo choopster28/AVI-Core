@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-24T12:47:56.910281+00:00",
+  "generated_at_utc": "2026-09-24T13:54:46.618543+00:00",
   "statistics": {
-    "owner_trade_participations": 165,
+    "owner_trade_participations": 167,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -197,35 +197,35 @@
         "by_season": {
           "2024": 3,
           "2025": 3,
-          "2026": 11
+          "2026": 12
         },
         "firsts_in": 2,
         "firsts_out": 4,
         "owner_display_name": "Mentomorii",
-        "picks_in": 3,
+        "picks_in": 4,
         "picks_out": 5,
-        "players_in": 16,
-        "players_out": 21,
+        "players_in": 17,
+        "players_out": 23,
         "roster_id": 3,
         "team_name": "Ravens Regime ",
-        "total": 17
+        "total": 18
       },
       {
         "by_season": {
           "2024": 5,
           "2025": 2,
-          "2026": 8
+          "2026": 9
         },
         "firsts_in": 7,
         "firsts_out": 2,
         "owner_display_name": "TacticsNoob",
         "picks_in": 13,
-        "picks_out": 3,
-        "players_in": 21,
-        "players_out": 18,
+        "picks_out": 4,
+        "players_in": 23,
+        "players_out": 19,
         "roster_id": 12,
         "team_name": "DMV Fantasy",
-        "total": 15
+        "total": 16
       },
       {
         "by_season": {
@@ -408,10 +408,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 39
+      "2026": 40
     },
-    "two_team_trades": 81,
-    "unique_completed_trades": 82
+    "two_team_trades": 82,
+    "unique_completed_trades": 83
   },
   "trades": [
     {
@@ -6039,6 +6039,82 @@
       ],
       "transaction_id": "1407885687583154176",
       "week": 2
+    },
+    {
+      "created_at_utc": "2026-09-24T03:56:59.420000+00:00",
+      "created_timestamp_ms": 1790222219420,
+      "roster_ids": [
+        3,
+        12
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "5967",
+              "player_name": "Tony Pollard"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12533",
+              "player_name": "Jacory Croskey-Merritt"
+            },
+            {
+              "player_id": "13405",
+              "player_name": "Kaytron Allen"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "TacticsNoob",
+          "owner_id": "1129546394534158336",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12533",
+              "player_name": "Jacory Croskey-Merritt"
+            },
+            {
+              "player_id": "13405",
+              "player_name": "Kaytron Allen"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5967",
+              "player_name": "Tony Pollard"
+            }
+          ],
+          "roster_id": 12,
+          "season": 2026,
+          "team_name": "DMV Fantasy"
+        }
+      ],
+      "transaction_id": "1408697725586825216",
+      "week": 3
     }
   ]
 }
