@@ -219,18 +219,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00005995",
-      "c_avi": 36.9,
-      "d_avi": 35.2,
-      "nfl_team": "BAL",
-      "player_name": "Justice Hill",
-      "position": "RB",
-      "sleeper_id": "5995",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00007891",
       "c_avi": 36.4,
       "d_avi": 48.9,
@@ -2786,8 +2774,8 @@
     }
   ],
   "counts": {
-    "available_players": 232,
-    "rostered_players": 248
+    "available_players": 231,
+    "rostered_players": 249
   },
   "rostered_players": [
     {
@@ -5077,6 +5065,22 @@
       "status": "Active",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00005995",
+      "c_avi": 36.9,
+      "d_avi": 35.2,
+      "nfl_team": "BAL",
+      "owner_id": "992908759074680832",
+      "player_name": "Justice Hill",
+      "position": "RB",
+      "roster_id": 3,
+      "sleeper_id": "5995",
+      "status": "Active",
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
