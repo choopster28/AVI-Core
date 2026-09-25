@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-09-24T17:06:39.379487+00:00",
+  "generated_at_utc": "2026-09-25T00:38:19.729384+00:00",
   "in_season_transition": {
     "activation_policy": "Activate after a completed 2026 week is verified. Sleeper advancing to the next week or ESPN confirming every game final is sufficient; stale or partial player-points feeds never activate the transition.",
     "completed_through_week": 2,

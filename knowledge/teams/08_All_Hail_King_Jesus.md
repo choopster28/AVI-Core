@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-09-24
+- Last updated from Sleeper exports: 2026-09-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,8 +23,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 633.0
 - championship_lineup_c_avi_avg: 79.12
-- offensive_roster_c_avi_sum: 894.2
-- offensive_roster_c_avi_avg: 63.87
+- offensive_roster_c_avi_sum: 894.4
+- offensive_roster_c_avi_avg: 63.89
 - offensive_roster_d_avi_sum: 900.4
 - offensive_roster_d_avi_avg: 64.31
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 43.4
+- Championship AVI (C-AVI, 0-100): 43.5
 - Dynasty AVI (D-AVI, 0-100): 62.2
 - Projected PPR points: 116.8
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 27.0
+- Championship AVI (C-AVI, 0-100): 27.1
 - Dynasty AVI (D-AVI, 0-100): 26.3
 - Projected PPR points: 43.5
 - Category: offense

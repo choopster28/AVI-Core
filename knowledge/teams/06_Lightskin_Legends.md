@@ -9,12 +9,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 16
-- Last updated from Sleeper exports: 2026-09-24
+- Last updated from Sleeper exports: 2026-09-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 15
+- total_players: 21
+- offense: 16
 - kickers: 1
 - idp: 4
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 604.6
 - championship_lineup_c_avi_avg: 75.58
-- offensive_roster_c_avi_sum: 862.1
-- offensive_roster_c_avi_avg: 57.47
-- offensive_roster_d_avi_sum: 978.1
-- offensive_roster_d_avi_avg: 65.21
+- offensive_roster_c_avi_sum: 861.8
+- offensive_roster_c_avi_avg: 53.86
+- offensive_roster_d_avi_sum: 993.6
+- offensive_roster_d_avi_avg: 62.10
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 33.2
-- Dynasty AVI (D-AVI, 0-100): 61.1
+- Championship AVI (C-AVI, 0-100): 33.1
+- Dynasty AVI (D-AVI, 0-100): 61.0
 - Projected PPR points: 58.2
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
@@ -257,11 +257,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 19.0
-- Dynasty AVI (D-AVI, 0-100): 52.8
+- Championship AVI (C-AVI, 0-100): 18.8
+- Dynasty AVI (D-AVI, 0-100): 52.6
 - Projected PPR points: 8.5
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: Chris Brazzell
+- Player name: Chris Brazzell
+- Player ID: 13353
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CAR
+- Active: True
+- Status: Inactive
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 15.8
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Terrance Ferguson
 - Player name: Terrance Ferguson

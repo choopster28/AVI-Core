@@ -9,12 +9,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-09-24
+- Last updated from Sleeper exports: 2026-09-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
-- offense: 18
+- total_players: 21
+- offense: 17
 - kickers: 1
 - idp: 3
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 740.0
 - championship_lineup_c_avi_avg: 92.50
-- offensive_roster_c_avi_sum: 1111.1
-- offensive_roster_c_avi_avg: 61.73
-- offensive_roster_d_avi_sum: 1185.3
-- offensive_roster_d_avi_avg: 65.85
+- offensive_roster_c_avi_sum: 1092.4
+- offensive_roster_c_avi_avg: 64.26
+- offensive_roster_d_avi_sum: 1146.0
+- offensive_roster_d_avi_avg: 67.41
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -127,23 +127,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Tyjae Spears
-- Player name: Tyjae Spears
-- Player ID: 9508
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: TEN
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.0
-- Dynasty AVI (D-AVI, 0-100): 60.2
-- Projected PPR points: 128.8
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
 ### PLAYER: Kaelon Black
 - Player name: Kaelon Black
 - Player ID: 13414
@@ -172,9 +155,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 36.7
+- Championship AVI (C-AVI, 0-100): 36.8
 - Dynasty AVI (D-AVI, 0-100): 45.7
 - Projected PPR points: 64.7
+- Category: offense
+- Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: Seth McGowan
+- Player name: Seth McGowan
+- Player ID: 13424
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: IND
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 21.6
+- Dynasty AVI (D-AVI, 0-100): 27.1
+- Projected PPR points: 26.9
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
@@ -280,23 +280,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Chris Brazzell
-- Player name: Chris Brazzell
-- Player ID: 13353
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CAR
-- Active: True
-- Status: Inactive
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 15.8
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
 ### PLAYER: Harold Fannin
 - Player name: Harold Fannin
 - Player ID: 12506
@@ -314,20 +297,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 
-### PLAYER: Juwan Johnson
-- Player name: Juwan Johnson
-- Player ID: 7002
+### PLAYER: Isaiah Likely
+- Player name: Isaiah Likely
+- Player ID: 8131
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: TE
 - Fantasy positions: ['TE']
-- NFL team: NO
+- NFL team: NYG
 - Active: True
 - Status: Active
-- Age: 30.0
-- Championship AVI (C-AVI, 0-100): 63.4
-- Dynasty AVI (D-AVI, 0-100): 69.7
-- Projected PPR points: 152.8
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 73.0
+- Dynasty AVI (D-AVI, 0-100): 79.3
+- Projected PPR points: 161.0
 - Category: offense
 - Valuation status: ACTIVE_2026_2_IN_SEASON
 

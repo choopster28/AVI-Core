@@ -9477,7 +9477,7 @@
       "genius_id": "1398583",
       "rookie_year": "2023"
     },
-    "news_updated": 1789774850039,
+    "news_updated": 1790292646755,
     "number": 98,
     "oddsjam_id": "4B2082447D12",
     "opta_id": null,
@@ -55084,7 +55084,7 @@
       "genius_id": "1463977",
       "rookie_year": "2024"
     },
-    "news_updated": 1790132111010,
+    "news_updated": 1790293246619,
     "number": 28,
     "oddsjam_id": "CDD1580AE7C2",
     "opta_id": null,
@@ -86659,10 +86659,10 @@
     "hashtag": "#georgeholani-NFL-SEA-36",
     "height": "71",
     "high_school": "St. John Bosco (CA)",
-    "injury_body_part": "Knee",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "f710b516-32b8-4cc7-ae91-8427e5d5c209",
     "last_name": "Holani",
     "metadata": {
@@ -86670,7 +86670,7 @@
       "genius_id": "1484031",
       "rookie_year": "2024"
     },
-    "news_updated": 1790221233821,
+    "news_updated": 1790293247589,
     "number": 36,
     "oddsjam_id": "DA55D4DF610A",
     "opta_id": null,
@@ -115913,10 +115913,10 @@
     "hashtag": "#terranceferguson-NFL-LAR-18",
     "height": "77",
     "high_school": "Heritage (CO)",
-    "injury_body_part": "Ankle",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "1a0afee2-86ef-4d7b-9f13-75efbb5b7100",
     "last_name": "Ferguson",
     "metadata": {
@@ -115925,7 +115925,7 @@
       "rookie_year": "2025",
       "source_id": "c0821d6e-e31d-4ccc-b006-9837720c7d6f"
     },
-    "news_updated": 1790222434580,
+    "news_updated": 1790293846645,
     "number": 18,
     "oddsjam_id": "ED3F438D7ED21C58",
     "opta_id": null,
@@ -116048,7 +116048,7 @@
       "rookie_year": "2025",
       "source_id": "94c3c50f-def5-4f33-9fca-807558d19c6e"
     },
-    "news_updated": 1790284545650,
+    "news_updated": 1790292647461,
     "number": 12,
     "oddsjam_id": "946284FA139C8D43",
     "opta_id": null,
@@ -117154,7 +117154,7 @@
       "rookie_year": "2025",
       "source_id": "3992e590-8f40-11ec-9f33-1965c9c46e44"
     },
-    "news_updated": 1790124610100,
+    "news_updated": 1790294446361,
     "number": 26,
     "oddsjam_id": "31DA4D7ACB326276",
     "opta_id": null,
@@ -120624,7 +120624,7 @@
   },
   "12556": {
     "active": true,
-    "age": 22,
+    "age": 23,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2003-09-25",
@@ -123980,7 +123980,7 @@
       "rookie_year": "2025",
       "source_id": "2d8835e8-4cb7-40f1-aa82-58b3e54e435a"
     },
-    "news_updated": 1789919755438,
+    "news_updated": 1790292946806,
     "number": 24,
     "oddsjam_id": "7A2A8D85518AB689",
     "opta_id": null,
@@ -126425,7 +126425,7 @@
       "genius_id": "1487692",
       "rookie_year": "2025"
     },
-    "news_updated": 1790281821085,
+    "news_updated": 1790293246616,
     "number": 40,
     "oddsjam_id": "507BF25AFECB5E4C",
     "opta_id": null,
@@ -169701,7 +169701,7 @@
       "rookie_year": "2026",
       "source_id": "0d044fc0-8953-11ec-a69b-29b9a26b6a2e"
     },
-    "news_updated": 1790289645492,
+    "news_updated": 1790293247604,
     "number": 8,
     "oddsjam_id": null,
     "opta_id": null,
@@ -173742,7 +173742,7 @@
       "rookie_year": "2026",
       "source_id": "fa469cc0-91e6-11ec-9587-0f8fa2cff168"
     },
-    "news_updated": 1790284545648,
+    "news_updated": 1790292946811,
     "number": 20,
     "oddsjam_id": null,
     "opta_id": null,
@@ -274449,7 +274449,7 @@
   },
   "2197": {
     "active": true,
-    "age": 32,
+    "age": 33,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1993-09-25",
@@ -275753,7 +275753,7 @@
       "injury_override_regular_2025_4": "Out",
       "rookie_year": "2014"
     },
-    "news_updated": 1790284245674,
+    "news_updated": 1790293246628,
     "number": 5,
     "oddsjam_id": "4CE26B1D3BB5",
     "opta_id": null,
@@ -343798,7 +343798,7 @@
       "genius_id": "940762",
       "rookie_year": "2016"
     },
-    "news_updated": 1790281521271,
+    "news_updated": 1790294146730,
     "number": 17,
     "oddsjam_id": "04F44BA5A812",
     "opta_id": null,
@@ -393613,10 +393613,10 @@
     "hashtag": "#cooperkupp-NFL-SEA-10",
     "height": "73",
     "high_school": "Davis (WA)",
-    "injury_body_part": "Back",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "72f6844d-ea52-4f3e-8442-77b27307b8d8",
     "last_name": "Kupp",
     "metadata": {
@@ -393625,7 +393625,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2017"
     },
-    "news_updated": 1790221834089,
+    "news_updated": 1790293247568,
     "number": 10,
     "oddsjam_id": "2AC02BEBA7DF",
     "opta_id": null,
@@ -452643,7 +452643,7 @@
       "genius_id": "1010757",
       "rookie_year": "2018"
     },
-    "news_updated": 1790280320025,
+    "news_updated": 1790293247620,
     "number": 14,
     "oddsjam_id": "C635DED129E7",
     "opta_id": null,
@@ -510116,10 +510116,10 @@
     "hashtag": "#nickbosa-NFL-SF-97",
     "height": "76",
     "high_school": "St. Thomas Aquinas (FL)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "61d074ff-2a5f-4da9-8410-8886dca1f8c4",
     "last_name": "Bosa",
     "metadata": {
@@ -579906,7 +579906,7 @@
       "genius_id": "1012154",
       "rookie_year": "2020"
     },
-    "news_updated": 1789775150077,
+    "news_updated": 1790293546721,
     "number": 52,
     "oddsjam_id": "D54C68B09B90",
     "opta_id": null,
@@ -633887,7 +633887,7 @@
       "genius_id": "1016002",
       "rookie_year": "2021"
     },
-    "news_updated": 1790288447044,
+    "news_updated": 1790295307496,
     "number": 3,
     "oddsjam_id": "15B723FE7479",
     "opta_id": null,
@@ -643967,10 +643967,10 @@
     "hashtag": "#alaricjackson-NFL-LAR-77",
     "height": "79",
     "high_school": "Renaissance (MI)",
-    "injury_body_part": "Knee",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "1fdcd7c6-7c00-4459-a0b4-7fb9814146c3",
     "last_name": "Jackson",
     "metadata": {
@@ -661542,7 +661542,7 @@
   },
   "8138": {
     "active": true,
-    "age": 26,
+    "age": 27,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1999-09-25",
@@ -701883,7 +701883,7 @@
   },
   "8755": {
     "active": true,
-    "age": 27,
+    "age": 28,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1998-09-25",
@@ -719329,7 +719329,7 @@
       "genius_id": "1398986",
       "rookie_year": "2023"
     },
-    "news_updated": 1790206832178,
+    "news_updated": 1790292647443,
     "number": 19,
     "oddsjam_id": "8CF89A8C53F6",
     "opta_id": null,
@@ -719479,7 +719479,7 @@
   },
   "9497": {
     "active": true,
-    "age": 24,
+    "age": 25,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "2001-09-25",
