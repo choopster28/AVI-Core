@@ -305,17 +305,18 @@
       }
     },
     {
-      "average": 17.1,
+      "average": 17.9,
       "filename": "jordan-love.php",
-      "games": 2,
+      "games": 3,
       "player_id": 19246,
       "player_name": "Jordan Love",
-      "points": 34.28,
+      "points": 53.760000000000005,
       "position_id": "QB",
       "team_id": "GB",
       "weeks": {
         "1": 20.5,
-        "2": 13.8
+        "2": 13.8,
+        "3": 19.5
       }
     },
     {
@@ -655,6 +656,19 @@
       "team_id": "ATL",
       "weeks": {
         "2": 1
+      }
+    },
+    {
+      "average": 15,
+      "filename": "michael-penix-jr.php",
+      "games": 1,
+      "player_id": 22973,
+      "player_name": "Michael Penix Jr.",
+      "points": 15.04,
+      "position_id": "QB",
+      "team_id": "ATL",
+      "weeks": {
+        "3": 15
       }
     }
   ],

@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 527.7
-- championship_lineup_c_avi_avg: 65.96
-- offensive_roster_c_avi_sum: 860.7
-- offensive_roster_c_avi_avg: 50.63
-- offensive_roster_d_avi_sum: 1059.1
-- offensive_roster_d_avi_avg: 62.30
+- championship_lineup_c_avi_sum: 524.9
+- championship_lineup_c_avi_avg: 65.61
+- offensive_roster_c_avi_sum: 843.7
+- offensive_roster_c_avi_avg: 49.63
+- offensive_roster_d_avi_sum: 1062.0
+- offensive_roster_d_avi_avg: 62.47
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Caleb Williams | C-AVI: 73.0 | D-AVI: 80.3
-- RB: Quinshon Judkins | C-AVI: 76.1 | D-AVI: 85.6
-- RB: Rhamondre Stevenson | C-AVI: 69.4 | D-AVI: 73.0
-- WR: Quentin Johnston | C-AVI: 56.7 | D-AVI: 66.5
-- WR: Denzel Boston | C-AVI: 53.5 | D-AVI: 66.0
-- TE: Colston Loveland | C-AVI: 89.4 | D-AVI: 90.2
-- FLEX: Blake Corum | C-AVI: 55.6 | D-AVI: 71.2
-- FLEX: AJ Barner | C-AVI: 54.0 | D-AVI: 63.6
+- QB: Caleb Williams | C-AVI: 70.5 | D-AVI: 79.9
+- RB: Quinshon Judkins | C-AVI: 75.7 | D-AVI: 85.6
+- RB: Rhamondre Stevenson | C-AVI: 68.4 | D-AVI: 72.9
+- WR: Quentin Johnston | C-AVI: 57.9 | D-AVI: 66.7
+- WR: Denzel Boston | C-AVI: 48.0 | D-AVI: 65.1
+- TE: Colston Loveland | C-AVI: 98.1 | D-AVI: 91.9
+- FLEX: AJ Barner | C-AVI: 53.9 | D-AVI: 69.0
+- FLEX: Blake Corum | C-AVI: 52.4 | D-AVI: 70.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 73.0
-- Dynasty AVI (D-AVI, 0-100): 80.3
+- Championship AVI (C-AVI, 0-100): 70.5
+- Dynasty AVI (D-AVI, 0-100): 79.9
 - Projected PPR points: 303.2
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Deshaun Watson
 - Player name: Deshaun Watson
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 35.5
-- Dynasty AVI (D-AVI, 0-100): 29.7
+- Championship AVI (C-AVI, 0-100): 31.0
+- Dynasty AVI (D-AVI, 0-100): 29.0
 - Projected PPR points: 158.0
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Quinshon Judkins
 - Player name: Quinshon Judkins
@@ -87,11 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 76.1
+- Championship AVI (C-AVI, 0-100): 75.7
 - Dynasty AVI (D-AVI, 0-100): 85.6
 - Projected PPR points: 209.4
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Rhamondre Stevenson
 - Player name: Rhamondre Stevenson
@@ -104,11 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 69.4
-- Dynasty AVI (D-AVI, 0-100): 73.0
+- Championship AVI (C-AVI, 0-100): 68.4
+- Dynasty AVI (D-AVI, 0-100): 72.9
 - Projected PPR points: 198.2
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Blake Corum
 - Player name: Blake Corum
@@ -121,11 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 55.6
-- Dynasty AVI (D-AVI, 0-100): 71.2
+- Championship AVI (C-AVI, 0-100): 52.4
+- Dynasty AVI (D-AVI, 0-100): 70.7
 - Projected PPR points: 134.2
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Jaylen Wright
 - Player name: Jaylen Wright
@@ -138,11 +138,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 33.3
-- Dynasty AVI (D-AVI, 0-100): 43.8
+- Championship AVI (C-AVI, 0-100): 33.7
+- Dynasty AVI (D-AVI, 0-100): 43.9
 - Projected PPR points: 59.1
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Quentin Johnston
 - Player name: Quentin Johnston
@@ -155,11 +155,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 56.7
-- Dynasty AVI (D-AVI, 0-100): 66.5
+- Championship AVI (C-AVI, 0-100): 57.9
+- Dynasty AVI (D-AVI, 0-100): 66.7
 - Projected PPR points: 170.7
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Denzel Boston
 - Player name: Denzel Boston
@@ -172,28 +172,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 53.5
-- Dynasty AVI (D-AVI, 0-100): 66.0
+- Championship AVI (C-AVI, 0-100): 48.0
+- Dynasty AVI (D-AVI, 0-100): 65.1
 - Projected PPR points: 134.5
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
-### PLAYER: Adonai Mitchell
-- Player name: Adonai Mitchell
-- Player ID: 11625
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: NYJ
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 45.8
-- Dynasty AVI (D-AVI, 0-100): 58.3
-- Projected PPR points: 94.6
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Omar Cooper
 - Player name: Omar Cooper
@@ -206,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 44.4
-- Dynasty AVI (D-AVI, 0-100): 63.3
+- Championship AVI (C-AVI, 0-100): 44.7
+- Dynasty AVI (D-AVI, 0-100): 63.4
 - Projected PPR points: 106.8
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Chris Bell
 - Player name: Chris Bell
@@ -223,11 +206,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 42.1
-- Dynasty AVI (D-AVI, 0-100): 56.8
+- Championship AVI (C-AVI, 0-100): 42.6
+- Dynasty AVI (D-AVI, 0-100): 56.9
 - Projected PPR points: 108.3
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Adonai Mitchell
+- Player name: Adonai Mitchell
+- Player ID: 11625
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 40.9
+- Dynasty AVI (D-AVI, 0-100): 57.5
+- Projected PPR points: 94.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Elic Ayomanor
 - Player name: Elic Ayomanor
@@ -240,11 +240,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 40.3
-- Dynasty AVI (D-AVI, 0-100): 49.6
+- Championship AVI (C-AVI, 0-100): 35.9
+- Dynasty AVI (D-AVI, 0-100): 48.9
 - Projected PPR points: 90.1
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Ted Hurst
 - Player name: Ted Hurst
@@ -257,11 +257,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 29.4
-- Dynasty AVI (D-AVI, 0-100): 34.1
+- Championship AVI (C-AVI, 0-100): 26.1
+- Dynasty AVI (D-AVI, 0-100): 33.5
 - Projected PPR points: 73.0
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Zavion Thomas
 - Player name: Zavion Thomas
@@ -274,11 +274,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 22.1
-- Dynasty AVI (D-AVI, 0-100): 56.1
+- Championship AVI (C-AVI, 0-100): 21.8
+- Dynasty AVI (D-AVI, 0-100): 56.0
 - Projected PPR points: 21.9
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Colston Loveland
 - Player name: Colston Loveland
@@ -291,11 +291,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 89.4
-- Dynasty AVI (D-AVI, 0-100): 90.2
+- Championship AVI (C-AVI, 0-100): 98.1
+- Dynasty AVI (D-AVI, 0-100): 91.9
 - Projected PPR points: 210.9
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: AJ Barner
 - Player name: AJ Barner
@@ -308,11 +308,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 54.0
-- Dynasty AVI (D-AVI, 0-100): 63.6
+- Championship AVI (C-AVI, 0-100): 53.9
+- Dynasty AVI (D-AVI, 0-100): 69.0
 - Projected PPR points: 112.5
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Eli Stowers
 - Player name: Eli Stowers
@@ -325,11 +325,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 40.1
-- Dynasty AVI (D-AVI, 0-100): 71.0
+- Championship AVI (C-AVI, 0-100): 42.1
+- Dynasty AVI (D-AVI, 0-100): 71.1
 - Projected PPR points: 49.6
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: PROVISIONAL_2026_2
 
 ### PLAYER: Cameron Dicker
 - Player name: Cameron Dicker

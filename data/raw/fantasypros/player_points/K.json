@@ -1,17 +1,18 @@
 {
   "players": [
     {
-      "average": 7,
+      "average": 8,
       "filename": "nick-folk.php",
-      "games": 2,
+      "games": 3,
       "player_id": 9491,
       "player_name": "Nick Folk",
-      "points": 14,
+      "points": 24,
       "position_id": "K",
       "team_id": "ATL",
       "weeks": {
         "1": 10,
-        "2": 4
+        "2": 4,
+        "3": 10
       }
     },
     {
@@ -435,17 +436,18 @@
       }
     },
     {
-      "average": 10.5,
+      "average": 7.7,
       "filename": "trey-smack.php",
-      "games": 2,
+      "games": 3,
       "player_id": 28507,
       "player_name": "Trey Smack",
-      "points": 21,
+      "points": 23,
       "position_id": "K",
       "team_id": "GB",
       "weeks": {
         "1": 13,
-        "2": 8
+        "2": 8,
+        "3": 2
       }
     }
   ],

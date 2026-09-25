@@ -57,17 +57,18 @@
       }
     },
     {
-      "average": 14.1,
+      "average": 9.7,
       "filename": "zadarius-smith.php",
-      "games": 2,
+      "games": 3,
       "player_id": 14060,
       "player_name": "Za'Darius Smith",
-      "points": 28.25,
+      "points": 29,
       "position_id": "LB",
       "team_id": "ATL",
       "weeks": {
         "1": 20,
-        "2": 8.3
+        "2": 8.3,
+        "3": 0.8
       }
     },
     {
@@ -393,17 +394,18 @@
       }
     },
     {
-      "average": 5.6,
+      "average": 7.8,
       "filename": "zaire-franklin.php",
-      "games": 2,
+      "games": 3,
       "player_id": 17563,
       "player_name": "Zaire Franklin",
-      "points": 11.25,
+      "points": 23.5,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
         "1": 4.5,
-        "2": 6.8
+        "2": 6.8,
+        "3": 12.3
       }
     },
     {
@@ -518,9 +520,9 @@
       }
     },
     {
-      "average": 0.4,
+      "average": 0.3,
       "filename": "josh-woods.php",
-      "games": 2,
+      "games": 3,
       "player_id": 18140,
       "player_name": "Josh Woods",
       "points": 0.75,
@@ -528,7 +530,8 @@
       "team_id": "ATL",
       "weeks": {
         "1": 0,
-        "2": 0.8
+        "2": 0.8,
+        "3": 0
       }
     },
     {
@@ -1147,17 +1150,18 @@
       }
     },
     {
-      "average": 4.1,
+      "average": 4.8,
       "filename": "brenton-cox.php",
-      "games": 2,
+      "games": 3,
       "player_id": 22748,
       "player_name": "Brenton Cox Jr.",
-      "points": 8.25,
+      "points": 14.5,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
         "1": 6,
-        "2": 2.3
+        "2": 2.3,
+        "3": 6.3
       }
     },
     {
@@ -1203,17 +1207,18 @@
       }
     },
     {
-      "average": 8.1,
+      "average": 6.7,
       "filename": "divine-deablo.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23208,
       "player_name": "Divine Deablo",
-      "points": 16.25,
+      "points": 20,
       "position_id": "LB",
       "team_id": "ATL",
       "weeks": {
         "1": 14,
-        "2": 2.3
+        "2": 2.3,
+        "3": 3.8
       }
     },
     {
@@ -1247,7 +1252,7 @@
     {
       "average": 0,
       "filename": "nick-niemann.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23271,
       "player_name": "Nick Niemann",
       "points": 0,
@@ -1255,21 +1260,23 @@
       "team_id": "GB",
       "weeks": {
         "1": 0,
-        "2": 0
+        "2": 0,
+        "3": 0
       }
     },
     {
-      "average": 0,
+      "average": 1.8,
       "filename": "isaiah-mcduffie.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23292,
       "player_name": "Isaiah McDuffie",
-      "points": 0,
+      "points": 5.5,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
         "1": 0,
-        "2": 0
+        "2": 0,
+        "3": 5.5
       }
     },
     {
@@ -1911,17 +1918,18 @@
       }
     },
     {
-      "average": 20.4,
+      "average": 16.4,
       "filename": "edgerrin-cooper.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26137,
       "player_name": "Edgerrin Cooper",
-      "points": 40.75,
+      "points": 49.25,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
         "1": 18.8,
-        "2": 22
+        "2": 22,
+        "3": 8.5
       }
     },
     {
@@ -2161,17 +2169,18 @@
       }
     },
     {
-      "average": 1.1,
+      "average": 2,
       "filename": "harold-perkins-jr.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27021,
       "player_name": "Harold Perkins Jr.",
-      "points": 2.25,
+      "points": 6,
       "position_id": "LB",
       "team_id": "ATL",
       "weeks": {
         "1": 1.5,
-        "2": 0.8
+        "2": 0.8,
+        "3": 3.8
       }
     },
     {
@@ -2880,16 +2889,17 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 0.8,
       "filename": "christian-harris.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23470,
       "player_name": "Christian Harris",
       "points": 1.5,
       "position_id": "LB",
       "team_id": "ATL",
       "weeks": {
-        "2": 1.5
+        "2": 1.5,
+        "3": 0
       }
     },
     {
@@ -2934,14 +2944,15 @@
     {
       "average": 0,
       "filename": "tyron-hopper.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26204,
       "player_name": "Ty'Ron Hopper",
       "points": 0,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
-        "2": 0
+        "2": 0,
+        "3": 0
       }
     },
     {

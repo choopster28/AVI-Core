@@ -363,17 +363,18 @@
       }
     },
     {
-      "average": 1.4,
+      "average": 1.9,
       "filename": "olamide-zaccheaus.php",
-      "games": 2,
+      "games": 3,
       "player_id": 18864,
       "player_name": "Olamide Zaccheaus",
-      "points": 2.8,
+      "points": 5.699999999999999,
       "position_id": "WR",
       "team_id": "ATL",
       "weeks": {
         "1": 1.5,
-        "2": 1.3
+        "2": 1.3,
+        "3": 2.9
       }
     },
     {
@@ -640,17 +641,18 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 1.2,
       "filename": "chris-blair.php",
-      "games": 2,
+      "games": 3,
       "player_id": 22684,
       "player_name": "Chris Blair",
-      "points": 1.6,
+      "points": 3.6,
       "position_id": "WR",
       "team_id": "ATL",
       "weeks": {
         "1": 0,
-        "2": 1.6
+        "2": 1.6,
+        "3": 2
       }
     },
     {
@@ -918,17 +920,18 @@
       }
     },
     {
-      "average": 3,
+      "average": 2.7,
       "filename": "jahan-dotson.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23101,
       "player_name": "Jahan Dotson",
-      "points": 6,
+      "points": 8.1,
       "position_id": "WR",
       "team_id": "ATL",
       "weeks": {
         "1": 2.9,
-        "2": 3.1
+        "2": 3.1,
+        "3": 2.1
       }
     },
     {
@@ -1001,17 +1004,18 @@
       }
     },
     {
-      "average": 7.2,
+      "average": 14.3,
       "filename": "drake-london.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23163,
       "player_name": "Drake London",
-      "points": 14.4,
+      "points": 42.8,
       "position_id": "WR",
       "team_id": "ATL",
       "weeks": {
         "1": 5.5,
-        "2": 8.9
+        "2": 8.9,
+        "3": 28.4
       }
     },
     {
@@ -1098,31 +1102,33 @@
       }
     },
     {
-      "average": 23.4,
+      "average": 23.1,
       "filename": "christian-watson.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23886,
       "player_name": "Christian Watson",
-      "points": 46.800000000000004,
+      "points": 69.4,
       "position_id": "WR",
       "team_id": "GB",
       "weeks": {
         "1": 32.7,
-        "2": 14.1
+        "2": 14.1,
+        "3": 22.6
       }
     },
     {
-      "average": 1.3,
+      "average": 2.9,
       "filename": "skyy-moore.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23905,
       "player_name": "Skyy Moore",
-      "points": 2.6,
+      "points": 8.7,
       "position_id": "WR",
       "team_id": "GB",
       "weeks": {
         "1": 0,
-        "2": 2.6
+        "2": 2.6,
+        "3": 6.1
       }
     },
     {
@@ -1140,9 +1146,9 @@
       }
     },
     {
-      "average": 1,
+      "average": 0.7,
       "filename": "bo-melton.php",
-      "games": 2,
+      "games": 3,
       "player_id": 24049,
       "player_name": "Bo Melton",
       "points": 2,
@@ -1150,7 +1156,8 @@
       "team_id": "GB",
       "weeks": {
         "1": 2,
-        "2": 0
+        "2": 0,
+        "3": 0
       }
     },
     {
@@ -1488,15 +1495,16 @@
     {
       "average": 1.7,
       "filename": "zachariah-branch.php",
-      "games": 2,
+      "games": 3,
       "player_id": 25419,
       "player_name": "Zachariah Branch",
-      "points": 3.4,
+      "points": 5.1,
       "position_id": "WR",
       "team_id": "ATL",
       "weeks": {
         "1": 0,
-        "2": 3.4
+        "2": 3.4,
+        "3": 1.7
       }
     },
     {
@@ -1654,17 +1662,18 @@
       }
     },
     {
-      "average": 12.7,
+      "average": 15.4,
       "filename": "matthew-golden.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26024,
       "player_name": "Matthew Golden",
-      "points": 25.3,
+      "points": 46.3,
       "position_id": "WR",
       "team_id": "GB",
       "weeks": {
         "1": 15.5,
-        "2": 9.8
+        "2": 9.8,
+        "3": 21
       }
     },
     {
@@ -2507,16 +2516,17 @@
       }
     },
     {
-      "average": 0,
+      "average": 2.6,
       "filename": "jmichael-sturdivant.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26139,
       "player_name": "J. Michael Sturdivant",
-      "points": 0,
+      "points": 5.2,
       "position_id": "WR",
       "team_id": "GB",
       "weeks": {
-        "2": 0
+        "2": 0,
+        "3": 5.2
       }
     },
     {

@@ -337,17 +337,18 @@
       }
     },
     {
-      "average": 5.9,
+      "average": 7.6,
       "filename": "brian-robinson-jr.php",
-      "games": 2,
+      "games": 3,
       "player_id": 20094,
       "player_name": "Brian Robinson Jr.",
-      "points": 11.799999999999999,
+      "points": 22.799999999999997,
       "position_id": "RB",
       "team_id": "ATL",
       "weeks": {
         "1": 3.1,
-        "2": 8.7
+        "2": 8.7,
+        "3": 11
       }
     },
     {
@@ -587,31 +588,33 @@
       }
     },
     {
-      "average": 6.2,
+      "average": 5.4,
       "filename": "marshawn-lloyd.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23118,
       "player_name": "MarShawn Lloyd",
-      "points": 12.3,
+      "points": 16.1,
       "position_id": "RB",
       "team_id": "GB",
       "weeks": {
         "1": 3.7,
-        "2": 8.6
+        "2": 8.6,
+        "3": 3.8
       }
     },
     {
-      "average": 21.2,
+      "average": 25.9,
       "filename": "bijan-robinson.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23133,
       "player_name": "Bijan Robinson",
-      "points": 42.4,
+      "points": 77.69999999999999,
       "position_id": "RB",
       "team_id": "ATL",
       "weeks": {
         "1": 31.3,
-        "2": 11.1
+        "2": 11.1,
+        "3": 35.3
       }
     },
     {
@@ -936,17 +939,18 @@
       }
     },
     {
-      "average": 3.3,
+      "average": 2.6,
       "filename": "christopher-brooks.php",
-      "games": 2,
+      "games": 3,
       "player_id": 25823,
       "player_name": "Chris Brooks",
-      "points": 6.5,
+      "points": 7.9,
       "position_id": "RB",
       "team_id": "GB",
       "weeks": {
         "1": 2.9,
-        "2": 3.6
+        "2": 3.6,
+        "3": 1.4
       }
     },
     {
@@ -1214,17 +1218,18 @@
       }
     },
     {
-      "average": 1.6,
+      "average": 1.9,
       "filename": "kaleb-johnson-rb.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27165,
       "player_name": "Kaleb Johnson",
-      "points": 3.2,
+      "points": 5.800000000000001,
       "position_id": "RB",
       "team_id": "GB",
       "weeks": {
         "1": 0,
-        "2": 3.2
+        "2": 3.2,
+        "3": 2.6
       }
     },
     {
