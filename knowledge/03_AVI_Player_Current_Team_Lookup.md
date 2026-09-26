@@ -1236,6 +1236,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
 
+## PLAYER LOOKUP: Kendre Miller
+- Player name: Kendre Miller
+- Player ID: 9757
+- Position: RB
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
 ## PLAYER LOOKUP: Kendrick Bourne
 - Player name: Kendrick Bourne
 - Player ID: 4454
@@ -1891,14 +1899,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
-
-## PLAYER LOOKUP: Tyler Badie
-- Player name: Tyler Badie
-- Player ID: 8208
-- Position: RB
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: Tyler Shough
 - Player name: Tyler Shough
@@ -3006,15 +3006,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 25.4
 - Availability: available
 
-## AVAILABLE PLAYER: Kendre Miller
-- Player name: Kendre Miller
-- Player ID: 9757
-- Position: RB
-- NFL team: NO
-- Championship AVI (C-AVI, 0-100): 20.8
-- Dynasty AVI (D-AVI, 0-100): 38.7
-- Availability: available
-
 ## AVAILABLE PLAYER: Jimmy Horn
 - Player name: Jimmy Horn
 - Player ID: 12523
@@ -3265,6 +3256,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: SF
 - Championship AVI (C-AVI, 0-100): 16.3
 - Dynasty AVI (D-AVI, 0-100): 31.6
+- Availability: available
+
+## AVAILABLE PLAYER: Tyler Badie
+- Player name: Tyler Badie
+- Player ID: 8208
+- Position: RB
+- NFL team: DEN
+- Championship AVI (C-AVI, 0-100): 16.2
+- Dynasty AVI (D-AVI, 0-100): 48.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Kaden Wetjen
