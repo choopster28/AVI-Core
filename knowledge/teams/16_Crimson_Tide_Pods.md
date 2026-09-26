@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-09-25
+- Last updated from Sleeper exports: 2026-09-26
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 485.9
 - championship_lineup_c_avi_avg: 60.74
-- offensive_roster_c_avi_sum: 731.9
-- offensive_roster_c_avi_avg: 48.79
-- offensive_roster_d_avi_sum: 899.9
-- offensive_roster_d_avi_avg: 59.99
+- offensive_roster_c_avi_sum: 732.3
+- offensive_roster_c_avi_avg: 48.82
+- offensive_roster_d_avi_sum: 900.2
+- offensive_roster_d_avi_avg: 60.01
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -120,7 +120,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: JAX
 - Active: True
 - Status: Active
-- Age: 26.0
+- Age: 27.0
 - Championship AVI (C-AVI, 0-100): 42.5
 - Dynasty AVI (D-AVI, 0-100): 55.0
 - Projected PPR points: 88.4
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 22.6
-- Dynasty AVI (D-AVI, 0-100): 52.4
+- Championship AVI (C-AVI, 0-100): 23.0
+- Dynasty AVI (D-AVI, 0-100): 52.7
 - Projected PPR points: 19.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

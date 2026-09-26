@@ -11841,7 +11841,7 @@
     },
     {
       "cbs_player_id": "3126255",
-      "player_bye_week": "6",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "jacob-roberts.php",
@@ -11854,7 +11854,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "J. Roberts",
-      "player_team_id": "MIN",
+      "player_team_id": "FA",
       "player_yahoo_id": "41374",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB315",

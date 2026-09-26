@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-09-25
+- Last updated from Sleeper exports: 2026-09-26
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 658.6
-- championship_lineup_c_avi_avg: 82.33
-- offensive_roster_c_avi_sum: 1001.8
-- offensive_roster_c_avi_avg: 58.93
+- championship_lineup_c_avi_sum: 658.7
+- championship_lineup_c_avi_avg: 82.34
+- offensive_roster_c_avi_sum: 1002.3
+- offensive_roster_c_avi_avg: 58.96
 - offensive_roster_d_avi_sum: 1141.5
 - offensive_roster_d_avi_avg: 67.15
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Patrick Mahomes | C-AVI: 72.7 | D-AVI: 77.6
 - RB: Cam Skattebo | C-AVI: 80.9 | D-AVI: 82.3
-- RB: David Montgomery | C-AVI: 71.3 | D-AVI: 76.6
+- RB: David Montgomery | C-AVI: 71.4 | D-AVI: 76.6
 - WR: Jaxon Smith-Njigba | C-AVI: 98.8 | D-AVI: 99.2
 - WR: DeVonta Smith | C-AVI: 85.7 | D-AVI: 87.8
 - TE: Tyler Warren | C-AVI: 97.2 | D-AVI: 90.9
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 71.3
+- Championship AVI (C-AVI, 0-100): 71.4
 - Dynasty AVI (D-AVI, 0-100): 76.6
 - Projected PPR points: 203.1
 - Category: offense
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 63.1
+- Championship AVI (C-AVI, 0-100): 63.2
 - Dynasty AVI (D-AVI, 0-100): 74.2
 - Projected PPR points: 175.8
 - Category: offense
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 39.4
+- Championship AVI (C-AVI, 0-100): 39.5
 - Dynasty AVI (D-AVI, 0-100): 49.4
 - Projected PPR points: 84.6
 - Category: offense
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 21.6
+- Championship AVI (C-AVI, 0-100): 21.7
 - Dynasty AVI (D-AVI, 0-100): 46.3
 - Projected PPR points: 14.5
 - Category: offense
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 24.0
+- Championship AVI (C-AVI, 0-100): 24.1
 - Dynasty AVI (D-AVI, 0-100): 38.7
 - Projected PPR points: 54.1
 - Category: offense
@@ -348,6 +348,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
+### PLAYER: Demetrius Knight
+- Player name: Demetrius Knight
+- Player ID: 12617
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: CIN
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: Derrick Barnes
 - Player name: Derrick Barnes
 - Player ID: 7726
@@ -356,23 +373,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Position: LB
 - Fantasy positions: ['DL', 'LB']
 - NFL team: DET
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Devin Lloyd
-- Player name: Devin Lloyd
-- Player ID: 8329
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: LB
-- Fantasy positions: ['LB']
-- NFL team: CAR
 - Active: True
 - Status: Active
 - Age: 27.0

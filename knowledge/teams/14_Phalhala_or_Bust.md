@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1132141719354535936
 - Division: 3
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-09-25
+- Last updated from Sleeper exports: 2026-09-26
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 549.4
-- championship_lineup_c_avi_avg: 68.67
-- offensive_roster_c_avi_sum: 727.0
-- offensive_roster_c_avi_avg: 55.92
+- championship_lineup_c_avi_sum: 549.5
+- championship_lineup_c_avi_avg: 68.69
+- offensive_roster_c_avi_sum: 727.1
+- offensive_roster_c_avi_avg: 55.93
 - offensive_roster_d_avi_sum: 836.6
 - offensive_roster_d_avi_avg: 64.35
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Ashton Jeanty | C-AVI: 90.6 | D-AVI: 95.5
 - RB: Jaylen Warren | C-AVI: 70.2 | D-AVI: 77.0
 - WR: Rome Odunze | C-AVI: 70.8 | D-AVI: 82.1
-- WR: Michael Wilson | C-AVI: 63.0 | D-AVI: 72.8
+- WR: Michael Wilson | C-AVI: 63.1 | D-AVI: 72.8
 - TE: Sam LaPorta | C-AVI: 91.9 | D-AVI: 87.6
 - FLEX: Hunter Henry | C-AVI: 62.4 | D-AVI: 67.1
 - FLEX: Makai Lemon | C-AVI: 56.0 | D-AVI: 78.5
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 63.0
+- Championship AVI (C-AVI, 0-100): 63.1
 - Dynasty AVI (D-AVI, 0-100): 72.8
 - Projected PPR points: 178.3
 - Category: offense
