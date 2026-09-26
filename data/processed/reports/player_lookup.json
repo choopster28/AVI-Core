@@ -994,7 +994,7 @@
       "player_name": "Demarcus Robinson",
       "position": "WR",
       "sleeper_id": "3286",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -4918,7 +4918,7 @@
       "position": "RB",
       "roster_id": 4,
       "sleeper_id": "13345",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
     },
