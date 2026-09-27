@@ -21,17 +21,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 730.8
-- championship_lineup_c_avi_avg: 91.35
-- offensive_roster_c_avi_sum: 1163.9
-- offensive_roster_c_avi_avg: 68.46
-- offensive_roster_d_avi_sum: 1270.6
-- offensive_roster_d_avi_avg: 74.74
+- championship_lineup_c_avi_sum: 730.7
+- championship_lineup_c_avi_avg: 91.34
+- offensive_roster_c_avi_sum: 1163.1
+- offensive_roster_c_avi_avg: 68.42
+- offensive_roster_d_avi_sum: 1268.4
+- offensive_roster_d_avi_avg: 74.61
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 83.7 | D-AVI: 84.5
-- RB: Saquon Barkley | C-AVI: 93.7 | D-AVI: 90.5
+- RB: Saquon Barkley | C-AVI: 93.6 | D-AVI: 90.5
 - RB: Omarion Hampton | C-AVI: 88.1 | D-AVI: 91.6
 - WR: A.J. Brown | C-AVI: 95.1 | D-AVI: 91.9
 - WR: Rashee Rice | C-AVI: 95.1 | D-AVI: 90.7
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 93.7
+- Championship AVI (C-AVI, 0-100): 93.6
 - Dynasty AVI (D-AVI, 0-100): 90.5
 - Projected PPR points: 274.2
 - Category: offense
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 57.8
-- Dynasty AVI (D-AVI, 0-100): 69.1
+- Championship AVI (C-AVI, 0-100): 58.0
+- Dynasty AVI (D-AVI, 0-100): 69.6
 - Projected PPR points: 169.6
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 52.8
-- Dynasty AVI (D-AVI, 0-100): 56.7
+- Championship AVI (C-AVI, 0-100): 51.9
+- Dynasty AVI (D-AVI, 0-100): 54.0
 - Projected PPR points: 137.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

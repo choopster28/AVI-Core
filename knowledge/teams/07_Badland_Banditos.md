@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 640.8
-- championship_lineup_c_avi_avg: 80.10
-- offensive_roster_c_avi_sum: 935.5
-- offensive_roster_c_avi_avg: 58.47
-- offensive_roster_d_avi_sum: 1099.2
-- offensive_roster_d_avi_avg: 68.70
+- championship_lineup_c_avi_sum: 641.4
+- championship_lineup_c_avi_avg: 80.17
+- offensive_roster_c_avi_sum: 935.8
+- offensive_roster_c_avi_avg: 58.49
+- offensive_roster_d_avi_sum: 1100.8
+- offensive_roster_d_avi_avg: 68.80
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Terry McLaurin | C-AVI: 74.3 | D-AVI: 80.9
 - TE: Brock Bowers | C-AVI: 98.8 | D-AVI: 92.7
 - FLEX: Brian Thomas | C-AVI: 63.2 | D-AVI: 79.8
-- FLEX: Cade Otton | C-AVI: 51.1 | D-AVI: 55.5
+- FLEX: Cade Otton | C-AVI: 51.7 | D-AVI: 57.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 30.7
-- Dynasty AVI (D-AVI, 0-100): 58.2
+- Championship AVI (C-AVI, 0-100): 30.4
+- Dynasty AVI (D-AVI, 0-100): 58.0
 - Projected PPR points: 96.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 51.1
-- Dynasty AVI (D-AVI, 0-100): 55.5
+- Championship AVI (C-AVI, 0-100): 51.7
+- Dynasty AVI (D-AVI, 0-100): 57.3
 - Projected PPR points: 124.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

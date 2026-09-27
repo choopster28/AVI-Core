@@ -35,8 +35,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: James Cook | C-AVI: 94.6 | D-AVI: 95.9
 - WR: CeeDee Lamb | C-AVI: 98.0 | D-AVI: 97.9
 - WR: Chris Olave | C-AVI: 94.8 | D-AVI: 95.2
-- TE: Mark Andrews | C-AVI: 73.3 | D-AVI: 72.9
-- FLEX: Dalton Kincaid | C-AVI: 67.1 | D-AVI: 83.3
+- TE: Mark Andrews | C-AVI: 73.6 | D-AVI: 73.8
+- FLEX: Dalton Kincaid | C-AVI: 66.8 | D-AVI: 82.4
 - FLEX: Rico Dowdle | C-AVI: 61.3 | D-AVI: 71.4
 
 ## Current Roster — All Player Cards
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 73.3
-- Dynasty AVI (D-AVI, 0-100): 72.9
+- Championship AVI (C-AVI, 0-100): 73.6
+- Dynasty AVI (D-AVI, 0-100): 73.8
 - Projected PPR points: 172.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 67.1
-- Dynasty AVI (D-AVI, 0-100): 83.3
+- Championship AVI (C-AVI, 0-100): 66.8
+- Dynasty AVI (D-AVI, 0-100): 82.4
 - Projected PPR points: 156.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -331,6 +331,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
+### PLAYER: Jaishawn Barham
+- Player name: Jaishawn Barham
+- Player ID: 13381
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: LB
+- Fantasy positions: ['DL', 'LB']
+- NFL team: DAL
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: Nick Bolton
 - Player name: Nick Bolton
 - Player ID: 7648
@@ -342,23 +359,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Rashan Gary
-- Player name: Rashan Gary
-- Player ID: 5839
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Position: LB
-- Fantasy positions: ['DL', 'LB']
-- NFL team: DAL
-- Active: True
-- Status: Active
-- Age: 28.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
