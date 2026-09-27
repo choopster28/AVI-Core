@@ -3,6 +3,133 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-26 21:42:08",
+      "created_formated": "Sat, Sep 26th 9:42pm UTC",
+      "desc": "The Packers signed G Laken Tomlinson.",
+      "id": 610849,
+      "impact": "Tomlinson will add depth to a banged up Packers offensive line. ",
+      "link": "https://www.fantasypros.com/nfl/news/610849/laken-tomlinson-signs-with-packers.php",
+      "player_id": 14043,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Laken Tomlinson signs with Packers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-26 21:41:09",
+      "created_formated": "Sat, Sep 26th 9:41pm UTC",
+      "desc": "The Cowboys placed S P.J. Locke on injured reserve.",
+      "id": 610848,
+      "impact": "Locke will miss at least the next four games. ",
+      "link": "https://www.fantasypros.com/nfl/news/610848/pj-locke-foot-placed-on-ir.php",
+      "player_id": 18781,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "P.J. Locke (foot) placed on IR "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-26 21:40:17",
+      "created_formated": "Sat, Sep 26th 9:40pm UTC",
+      "desc": "Caleb Williams has been ruled out for Monday's game against the Eagles. ",
+      "id": 610847,
+      "impact": "Williams was never expected to play this week after going down with his injury last week. It will be Tyson Bagent or Case Keenum starting on Monday. ",
+      "link": "https://www.fantasypros.com/nfl/news/610847/caleb-williams-hamstring-ruled-out-monday.php",
+      "player_id": 23084,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Caleb Williams (hamstring) ruled out Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-26 21:39:10",
+      "created_formated": "Sat, Sep 26th 9:39pm UTC",
+      "desc": "The Broncos placed RB Jonah Coleman on injured reserve.",
+      "id": 610846,
+      "impact": "Coleman had already been ruled out for this week's game. He will now miss at least the next four games. J.K. Dobbins and RJ Harvey will continue to lead the Broncos backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/610846/jonah-coleman-ankle-placed-on-ir.php",
+      "player_id": 27320,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Jonah Coleman (ankle) placed on IR"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-09-26 20:24:20",
+      "created_formated": "Sat, Sep 26th 8:24pm UTC",
+      "desc": "DeVonta Smith (hamstring) is off of the injury report and cleared to play for the Philadelphia Eagles against the Chicago Bears Monday night.",
+      "id": 610845,
+      "impact": "Smith is good to go for head coach Nick Sirianni after logging practice sessions on back-to-back days to end the week while battling a lingering hamstring injury, offering quarterback Jalen Hurts is primary pass-catching target against a shaky Bears secondary Monday night.",
+      "link": "https://www.fantasypros.com/nfl/news/610845/devonta-smith-hamstring-cleared-week-3.php",
+      "player_id": 19222,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "DeVonta Smith (hamstring) cleared for Week 3"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-09-26 20:20:02",
+      "created_formated": "Sat, Sep 26th 8:20pm UTC",
+      "desc": "Saquon Barkley (stinger) is off of the injury report and cleared to play for the Philadelphia Eagles against the Chicago Bears Monday night according to Mike Garafolo.",
+      "id": 610844,
+      "impact": "Barkley is good to go after logging full practice sessions to end the week for head coach Nick Sirianni, boosting a Philadelphia rushing attack that will look to take advantage of a susceptible Bears defense Monday night.",
+      "link": "https://www.fantasypros.com/nfl/news/610844/saquon-barkley-stinger-off-injury-eagles.php",
+      "player_id": 17240,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Saquon Barkley (stinger) off injury report for Eagles"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-26 17:48:42",
+      "created_formated": "Sat, Sep 26th 5:48pm UTC",
+      "desc": "Bears head coach Ben Johnson told reporters QB Tyson Bagent will practice Saturday.",
+      "id": 610827,
+      "impact": "Bagent has not officially cleared protocol, but he has cleared the necessary steps to practice. He still has a chance to play on Monday against the Eagles. ",
+      "link": "https://www.fantasypros.com/nfl/news/610827/tyson-bagent-concussion-cleared-to-practice-saturday.php",
+      "player_id": 25321,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Tyson Bagent (concussion) cleared to practice Saturday "
+    },
+    {
       "author": "Leo Sells",
       "categories": [
         "Commentary",
@@ -325,132 +452,6 @@
       "sport_id": "NFL",
       "team_id": "LAR",
       "title": "Kamren Kinchens (hamstring) doubtful to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-25 21:41:54",
-      "created_formated": "Fri, Sep 25th 9:41pm UTC",
-      "desc": "Terrance Ferguson (ankle) is good to go for Sunday's game against the Denver Broncos.",
-      "id": 610689,
-      "impact": "As expected, Ferguson has been cleared to play for Week 3 after logging a full practice on both Thursday and Friday. He shouldn't have any limitations and is expected to be a viable fantasy option this week with Puka Nacua (hip) likely to be sidelined against the Broncos.",
-      "link": "https://www.fantasypros.com/nfl/news/610689/terrance-ferguson-ankle-good-to-go-sunday.php",
-      "player_id": 23091,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Terrance Ferguson (ankle) good to go for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-25 21:40:09",
-      "created_formated": "Fri, Sep 25th 9:40pm UTC",
-      "desc": "Alaric Jackson (knee) has been cleared to play in Sunday night's game against the Denver Broncos.",
-      "id": 610686,
-      "impact": "The Rams got some good news on Friday, as Jackson received full clearance to play in Week 3. His presence will be needed for the team in what projects to be a tough matchup against the Denver Broncos this week.",
-      "link": "https://www.fantasypros.com/nfl/news/610686/alaric-jackson-knee-cleared-to-play-sunday.php",
-      "player_id": 19284,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Alaric Jackson (knee) cleared to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-25 21:37:29",
-      "created_formated": "Fri, Sep 25th 9:37pm UTC",
-      "desc": "Demarcus Robinson (ankle) is unavailable for Sunday's game against the Arizona Cardinals.",
-      "id": 610681,
-      "impact": "The veteran wideout is going to miss this week's game. He's managing an ankle injury of some kind right now, and it's still unclear whether or not he will need to miss more time beyond this game. Mike Evans (hip) is also uncertain to play, so Deebo Samuel Jr. and George Kittle will both be primed for a lot of work against Arizona this week.",
-      "link": "https://www.fantasypros.com/nfl/news/610681/demarcus-robinson-ankle-unavailable-sunday.php",
-      "player_id": 15665,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Demarcus Robinson (ankle) unavailable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-25 21:35:28",
-      "created_formated": "Fri, Sep 25th 9:35pm UTC",
-      "desc": "Mike Evans (hip) is questionable to play in Sunday's game against the Arizona Cardinals.",
-      "id": 610678,
-      "impact": "The veteran wideout may be sidelined this week, as he is officially questionable to play due to a hip injury that he's dealing with. If he is ruled out prior to the start of the game, expect George Kittle and Deebo Samuel Sr. to have a lot of involvement against the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/610678/mike-evans-hip-questionable-to-play-sunday.php",
-      "player_id": 12119,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mike Evans (hip) questionable to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-25 21:33:29",
-      "created_formated": "Fri, Sep 25th 9:33pm UTC",
-      "desc": "Garrett Williams (Achilles) is set to make his season debut in Sunday's game against the San Francisco 49ers.",
-      "id": 610675,
-      "impact": "The Cardinals will be getting Williams back this weekend after he missed the first two games due to an Achilles issue. His presence should help the defense out this week, especially if Max Melton (toe) is ruled out prior to game time.",
-      "link": "https://www.fantasypros.com/nfl/news/610675/garrett-williams-achilles-set-to-make-season-debut-sunday.php",
-      "player_id": 23855,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Garrett Williams (Achilles) set to make season debut Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-25 21:31:33",
-      "created_formated": "Fri, Sep 25th 9:31pm UTC",
-      "desc": "Max Melton (toe) is listed questionable for Sunday's game against the San Francisco 49ers.",
-      "id": 610674,
-      "impact": "Melton is uncertain to play this weekend due to a toe injury that he is currently battling with. He may very well be ruled out for Week 3, and if he is, Arizona's defense will be even weaker than usual in a tough matchup against the 49ers.",
-      "link": "https://www.fantasypros.com/nfl/news/610674/max-melton-toe-listed-questionable-sunday.php",
-      "player_id": 25366,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Max Melton (toe) listed questionable Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-25 21:13:44",
-      "created_formated": "Fri, Sep 25th 9:13pm UTC",
-      "desc": "RJ Harvey (hamstring) will play in Sunday night's game against the Los Angeles Rams.",
-      "id": 610671,
-      "impact": "Harvey is set to make his return to the field in Week 3 after being sidelined for one game due to a hamstring issue. He should see a full workload against the Rams this week, especially with rookie Jonah Coleman (ankle) set to be sidelined in that matchup.",
-      "link": "https://www.fantasypros.com/nfl/news/610671/rj-harvey-hamstring-will-play-sunday.php",
-      "player_id": 27142,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "RJ Harvey (hamstring) will play Sunday"
     }
   ],
   "public_api_limited": true,

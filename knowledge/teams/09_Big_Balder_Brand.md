@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-09-26
+- Last updated from Sleeper exports: 2026-09-27
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 730.7
-- championship_lineup_c_avi_avg: 91.34
-- offensive_roster_c_avi_sum: 1163.8
+- championship_lineup_c_avi_sum: 730.8
+- championship_lineup_c_avi_avg: 91.35
+- offensive_roster_c_avi_sum: 1163.9
 - offensive_roster_c_avi_avg: 68.46
 - offensive_roster_d_avi_sum: 1270.6
 - offensive_roster_d_avi_avg: 74.74
@@ -31,7 +31,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 83.7 | D-AVI: 84.5
-- RB: Saquon Barkley | C-AVI: 93.6 | D-AVI: 90.5
+- RB: Saquon Barkley | C-AVI: 93.7 | D-AVI: 90.5
 - RB: Omarion Hampton | C-AVI: 88.1 | D-AVI: 91.6
 - WR: A.J. Brown | C-AVI: 95.1 | D-AVI: 91.9
 - WR: Rashee Rice | C-AVI: 95.1 | D-AVI: 90.7
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 93.6
+- Championship AVI (C-AVI, 0-100): 93.7
 - Dynasty AVI (D-AVI, 0-100): 90.5
 - Projected PPR points: 274.2
 - Category: offense

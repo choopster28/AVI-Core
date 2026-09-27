@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 308805697879937024
 - Division: 2
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-09-26
+- Last updated from Sleeper exports: 2026-09-27
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 666.8
-- championship_lineup_c_avi_avg: 83.35
-- offensive_roster_c_avi_sum: 875.0
-- offensive_roster_c_avi_avg: 62.50
-- offensive_roster_d_avi_sum: 1007.6
-- offensive_roster_d_avi_avg: 71.97
+- championship_lineup_c_avi_sum: 667.1
+- championship_lineup_c_avi_avg: 83.39
+- offensive_roster_c_avi_sum: 875.3
+- offensive_roster_c_avi_avg: 62.52
+- offensive_roster_d_avi_sum: 1008.5
+- offensive_roster_d_avi_avg: 72.04
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: CeeDee Lamb | C-AVI: 98.0 | D-AVI: 97.9
 - WR: Chris Olave | C-AVI: 94.8 | D-AVI: 95.2
 - TE: Mark Andrews | C-AVI: 73.3 | D-AVI: 72.9
-- FLEX: Dalton Kincaid | C-AVI: 66.8 | D-AVI: 82.4
+- FLEX: Dalton Kincaid | C-AVI: 67.1 | D-AVI: 83.3
 - FLEX: Rico Dowdle | C-AVI: 61.3 | D-AVI: 71.4
 
 ## Current Roster — All Player Cards
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 66.8
-- Dynasty AVI (D-AVI, 0-100): 82.4
+- Championship AVI (C-AVI, 0-100): 67.1
+- Dynasty AVI (D-AVI, 0-100): 83.3
 - Projected PPR points: 156.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

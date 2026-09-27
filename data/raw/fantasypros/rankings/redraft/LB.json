@@ -6012,7 +6012,7 @@
     },
     {
       "cbs_player_id": "3122142",
-      "player_bye_week": "9",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "owen-pappoe.php",
@@ -6025,7 +6025,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "O. Pappoe",
-      "player_team_id": "TEN",
+      "player_team_id": "FA",
       "player_yahoo_id": "40200",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB189",
