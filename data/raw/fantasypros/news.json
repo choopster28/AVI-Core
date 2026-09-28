@@ -3,455 +3,453 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Jesse Garcia",
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 18:38:59",
+      "created_formated": "Mon, Sep 28th 6:38pm UTC",
+      "desc": "Jalen McMillan is having an MRI on his left knee.",
+      "id": 611304,
+      "impact": "McMillan suffered a knee injury in the first quarter of Sunday's loss to the Vikings. He remains off the fantasy radar in his current role when he is healthy. ",
+      "link": "https://www.fantasypros.com/nfl/news/611304/jalen-mcmillan-knee-to-undergo-mri.php",
+      "player_id": 23179,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Jalen McMillan (knee) to undergo MRI"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 18:37:50",
+      "created_formated": "Mon, Sep 28th 6:37pm UTC",
+      "desc": "Cowboys EVP Stephen Jones said Jalen Thompson will miss \"four-plus weeks.\"",
+      "id": 611303,
+      "impact": "Thompson will be placed on injured reserve. He remains without a clear timetable to return. ",
+      "link": "https://www.fantasypros.com/nfl/news/611303/jalen-thompson-hamstring-to-miss-least-four-weeks.php",
+      "player_id": 19108,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Jalen Thompson (hamstring) to miss at least four weeks"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 18:36:14",
+      "created_formated": "Mon, Sep 28th 6:36pm UTC",
+      "desc": "Panthers coach Dave Canales said Bryce Young (leg) will undergo imaging \"just to make sure\" on Monday.",
+      "id": 611302,
+      "impact": "Young took a cleat to the leg, but he was able to finish Sunday's game against the Browns. It doesn't appear to be anything too serious, but it's still worth monitoring. ",
+      "link": "https://www.fantasypros.com/nfl/news/611302/bryce-young-leg-to-undergo-imaging.php",
+      "player_id": 22900,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Bryce Young (leg) to undergo imaging "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 18:34:23",
+      "created_formated": "Mon, Sep 28th 6:34pm UTC",
+      "desc": "Vikings TE Josh Oliver will undergo surgery to repair a torn biceps.",
+      "id": 611301,
+      "impact": "It's likely a season-ending injury for Oliver. He was primarily a blocking tight end for Minnesota. ",
+      "link": "https://www.fantasypros.com/nfl/news/611301/josh-oliver-to-undergo-surgery-to-repair-torn-biceps.php",
+      "player_id": 18487,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Josh Oliver to undergo surgery to repair torn biceps "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 18:32:28",
+      "created_formated": "Mon, Sep 28th 6:32pm UTC",
+      "desc": "Packers head coach Matt LaFleur said Micah Parsons will not practice this week.",
+      "id": 611300,
+      "impact": "Parsons is not ready to return to the field quite yet. LaFleur said that Parsons has not suffered any setbacks in his recovery. His 21-day practice window can be opened at any point. ",
+      "link": "https://www.fantasypros.com/nfl/news/611300/micah-parsons-knee-will-not-practice-this-week.php",
+      "player_id": 19784,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Micah Parsons (knee) will not practice this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 18:29:23",
+      "created_formated": "Mon, Sep 28th 6:29pm UTC",
+      "desc": "Panthers CB Jaycee Horn suffered a torn quad and is out indefinitely.",
+      "id": 611299,
+      "impact": "Horn will seek a second opinion, but he's headed for the Injured Reserve. There is some concern he could be out for the season, a brutal loss for the Panthers defense. ",
+      "link": "https://www.fantasypros.com/nfl/news/611299/jaycee-horn-suffers-torn-quad-out-indefinitely.php",
+      "player_id": 22701,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Jaycee Horn suffers torn quad, out indefinitely"
+    },
+    {
+      "author": "Matthew Adam",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-09-28 00:49:13",
-      "created_formated": "Mon, Sep 28th 12:49am UTC",
-      "desc": "Jake Bates connected on his lone field goal attempt and all four of his extra point attempts in a 31-24 win over the Jets.",
-      "id": 611040,
-      "impact": "Bates was perfect after each touchdown and made his lone field goal from 30-yards out to open the scoring in the second quarter. Bates has yet to miss a kick this season and will take his perfect season on the road to Carolina in Week 4. ",
-      "link": "https://www.fantasypros.com/nfl/news/611040/jake-bates-perfect-week-3-win.php",
-      "player_id": 26075,
+      "created": "2026-09-28 11:04:18",
+      "created_formated": "Mon, Sep 28th 11:04am UTC",
+      "desc": "The Cowboys D/ST allowed 34 points while failing to record a sack or force any turnovers in a 34-31 loss to the Ravens in Brazil in Week 3. ",
+      "id": 611182,
+      "impact": "Dallas couldn't slow down Lamar Jackson or Derrick Henry in the high-scoring loss in Rio de Janeiro. The Cowboys will look to bounce back in Week 4 in a much more favorable matchup against the Texans. ",
+      "link": "https://www.fantasypros.com/nfl/news/611182/cowboys-dst-struggles-week-3-loss.php",
+      "player_id": 8080,
       "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jake Bates perfect in Week 3 win"
+      "team_id": "DAL",
+      "title": "Cowboys D/ST struggles in Week 3 loss"
     },
     {
-      "author": "Jesse Garcia",
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-28 17:05:56",
+      "created_formated": "Mon, Sep 28th 5:05pm UTC",
+      "desc": "Jalon Daniels is set to be Tampa Bay's starting quarterback for the next three weeks at least.",
+      "id": 611298,
+      "impact": "Daniels, an undrafted rookie out of Kansas, is set to be Tampa Bay's starting quarterback with Baker Mayfield (thumb) expected to miss a minimum of three weeks. He is unlikely to have any fantasy value himself, and it remains to be seen if he will play well enough to support the fantasy value of Bucky Irving and Emeka Egbuka over the next few weeks, but he will have a good opportunity to prove himself in an easy matchup against Green Bay's struggling defense in Week 4.",
+      "link": "https://www.fantasypros.com/nfl/news/611298/jalon-daniels-set-to-be-starter-tampa-bay.php",
+      "player_id": 26060,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Jalon Daniels set to be starter for Tampa Bay"
+    },
+    {
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-09-28 00:47:10",
-      "created_formated": "Mon, Sep 28th 12:47am UTC",
-      "desc": "Sam LaPorta caught 3-of-4 targets for 44 yards in a 31-24 win over the Jets. ",
-      "id": 611039,
-      "impact": "LaPorta saw the bulk of the targets go to Amon-Ra St. Brown and Jahmyr Gibbs in the win over the Jets. Fantasy managers will hope that LaPorta can become more involved against the Panthers in Week 4. ",
-      "link": "https://www.fantasypros.com/nfl/news/611039/sam-laporta-tallies-three-receptions-week-3.php",
-      "player_id": 22978,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Sam LaPorta tallies three receptions in Week 3 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:45:33",
-      "created_formated": "Mon, Sep 28th 12:45am UTC",
-      "desc": "Isaac TeSlaa caught 3-of-3 targets for 66 yards in a 31-24 win over the Jets.",
-      "id": 611038,
-      "impact": "TeSlaa led the team in receiving yardage despite the limited volume. His three receptions and 66 yards both are season highs for the 24-year-old, and he will look to build on this performance in a road matchup against Carolina. ",
-      "link": "https://www.fantasypros.com/nfl/news/611038/isaac-teslaa-hauls-three-passes-week-3.php",
-      "player_id": 27446,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Isaac TeSlaa hauls in three passes in Week 3 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:44:10",
-      "created_formated": "Mon, Sep 28th 12:44am UTC",
-      "desc": "Jameson Williams caught 4-of-4 targets for 49 yards in a 31-24 win over the Jets.",
-      "id": 611037,
-      "impact": "Williams took a back seat in the offense Sunday with Amon-Ra St. Brown and Jahmyr Gibbs dominating the targets against the Jets. Williams will look to become more involved in the offense in a Week 4 matchup with the Panthers. ",
-      "link": "https://www.fantasypros.com/nfl/news/611037/jameson-williams-hauls-four-passes-week-3-win.php",
-      "player_id": 23677,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jameson Williams hauls in four passes in Week 3 win"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:42:40",
-      "created_formated": "Mon, Sep 28th 12:42am UTC",
-      "desc": "Amon-Ra St. Brown caught 4-of-8 targets for 19 yards and a touchdown in a 31-24 win over the Jets. ",
-      "id": 611036,
-      "impact": "St. Brown was not able to capitalize on his eight targets, but was able to help salvage the day with a touchdown in the second quarter. St. Brown now has five touchdowns through the first three games of the season and will look to build on a strong start to the season against the Panthers in Week 4. ",
-      "link": "https://www.fantasypros.com/nfl/news/611036/amon-ra-st-brown-finds-end-zone-week-3-win.php",
-      "player_id": 19799,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Amon-Ra St. Brown finds the end zone in Week 3 win"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:39:58",
-      "created_formated": "Mon, Sep 28th 12:39am UTC",
-      "desc": "Jahmyr Gibbs rushed for 99 yards and two touchdowns on 20 carries in a 31-24 win over the Jets. He caught 7-of-8 targets for 65 yards and a touchdown. ",
-      "id": 611035,
-      "impact": "Gibbs continues to impress this season, tallying six touchdowns in his first three games of the season. He caught an 11-yard pass in the fourth quarter to put the Lions on top of the Jets to seal the win. Gibbs and the Lions will take on the Panthers in Week 4. ",
-      "link": "https://www.fantasypros.com/nfl/news/611035/jahmyr-gibbs-tallies-three-touchdowns-week-3-win.php",
-      "player_id": 22968,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jahmyr Gibbs tallies three touchdowns in Week 3 win"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:37:36",
-      "created_formated": "Mon, Sep 28th 12:37am UTC",
-      "desc": "Jared Goff completed 25-of-32 passes for 269 yards and two touchdowns in a 31-24 win over the Jets. He also rushed for six yards on four carries. ",
-      "id": 611034,
-      "impact": "Goff found Amon-Ra St. Brown and Jahmyr Gibbs through the air to help pace the Lions to a home win over the Jets. Goff has yet to throw an interception this year and has three straight multi-touchdown games to open the season. The Lions will take on the Panthers on the road in Week 4. ",
-      "link": "https://www.fantasypros.com/nfl/news/611034/jared-goff-tosses-two-touchdowns-week-3.php",
-      "player_id": 15501,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jared Goff tosses two touchdowns in Week 3 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:35:39",
-      "created_formated": "Mon, Sep 28th 12:35am UTC",
-      "desc": "The Jets D/ST allowed 31 points, 269 passing yards, and 131 rushing yards in a 31-24 loss to the Lions.",
-      "id": 611033,
-      "impact": "The Jets' defense tallied two sacks of Jared Goff, but failed to force a turnover in the loss. They may have an easier matchup in Week 4 with Caleb Williams (hamstring) unlikely to play for the Bears. ",
-      "link": "https://www.fantasypros.com/nfl/news/611033/jets-dst-allows-31-points-week-3-loss.php",
-      "player_id": 8210,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Jets D/ST allows 31 points in Week 3 loss"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:34:15",
-      "created_formated": "Mon, Sep 28th 12:34am UTC",
-      "desc": "Jason Sanders made his lone field goal attempt and his lone extra point attempt in a 31-24 loss to the Lions.",
-      "id": 611032,
-      "impact": "Sanders connected on a 42-yard field goal attempt in the third quarter. This was Sanders' third straight elevation from the practice squad, so the team will have to sign him to the active roster if they want him to remain the kicker in Week 4 against the Bears. ",
-      "link": "https://www.fantasypros.com/nfl/news/611032/jason-sanders-perfect-week-3-loss.php",
-      "player_id": 17533,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Jason Sanders perfect in Week 3 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:29:27",
-      "created_formated": "Mon, Sep 28th 12:29am UTC",
-      "desc": "Harrison Butker converted all three of his extra point attempts while missing 1-of-2 field goal attempts to finish with six points in the Chiefs' 24-10 win over the Miami Dolphins in Week 3.",
-      "id": 611031,
-      "impact": "Butker continues a solid start to the season, recording six or more points in each of the first three contests. The kicker remains one of the more stable options in all formats behind a revamped Kansas City offense for head coach Andy Reid, with a Week 4 contest against the Las Vegas Raiders up next.",
-      "link": "https://www.fantasypros.com/nfl/news/611031/harrison-butker-misses-field-goal-week-3.php",
-      "player_id": 16712,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Harrison Butker misses field goal in Week 3"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:25:08",
-      "created_formated": "Mon, Sep 28th 12:25am UTC",
-      "desc": "Ollie Gordon II carried the ball 17 times for 41 yards and one touchdown while also hauling in all three of his targets for 14 yards in the Dolphins' 24-10 Week 3 loss to the Kansas City Chiefs.",
-      "id": 611030,
-      "impact": "Gordon II took advantage of increased touches with De'Von Achane (knee) exiting early for head coach Jeff Hafley, posting more than three touches for the first time in three contests Sunday. The running back is in line to take over a No. 1 running back role with Achane expected to be sidelined for a significant amount of time according to Hafley, with a tough Week 4 matchup against the Minnesota Vikings up next.",
-      "link": "https://www.fantasypros.com/nfl/news/611030/ollie-gordon-ii-reaches-end-zone-week-3-loss-to-chiefs.php",
-      "player_id": 25984,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Ollie Gordon II reaches end zone in Week 3 loss to Chiefs"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:23:03",
-      "created_formated": "Mon, Sep 28th 12:23am UTC",
-      "desc": "Jeremy Ruckert caught all five of his targets for 39 yards and a touchdown in a 31-24 loss to the Lions.",
-      "id": 611029,
-      "impact": "Ruckert caught a four-yard pass early in the fourth quarter for his first touchdown of the season. The 26-year-old will likely continue to serve as the second tight end as long as Mason Taylor (thumb) is forced to miss time. ",
-      "link": "https://www.fantasypros.com/nfl/news/611029/jeremy-ruckert-finds-end-zone-week-3.php",
-      "player_id": 23742,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Jeremy Ruckert finds the end zone in Week 3 "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:21:40",
-      "created_formated": "Mon, Sep 28th 12:21am UTC",
-      "desc": "Malik Willis completed 20-of-36 pass attempts for 210 yards and one interception while also rushing nine times for a team-leading 56 yards in the Dolphins' 24-10 loss to the Kansas City Chiefs in Week 3.",
-      "id": 611028,
-      "impact": "Willis has struggled to make an impact behind center early on, passing for less than 230 yards in each of the first three contests. The quarterback's only value remains from a rushing standpoint in a disappointing Dolphins offense for head coach Jeff Hafley, with a Week 4 matchup against a tough Minnesota Vikings defense up next.",
-      "link": "https://www.fantasypros.com/nfl/news/611028/malik-willis-struggles-week-3-loss-to-chiefs.php",
-      "player_id": 23499,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Malik Willis struggles in Week 3 loss to Chiefs"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:18:07",
-      "created_formated": "Mon, Sep 28th 12:18am UTC",
-      "desc": "Malik Washington hauled in five of his team-high 10 targets for 56 yards while also rushing twice for five yards in the Dolphins' 24-10 Week 3 loss to the Kansas City Chiefs.",
-      "id": 611027,
-      "impact": "Washington has made the most of steady involvement as part of an underwhelming Miami passing attack, posting over 40 receiving yards in each of the first three games. The wideout remains another risky option in a disappointing Dolphins offense to this point, with a Week 4 contest against a disruptive Minnesota Vikings defense up next.",
-      "link": "https://www.fantasypros.com/nfl/news/611027/malik-washington-sees-seven-touches-week-3-loss-to-chiefs.php",
-      "player_id": 26314,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Malik Washington sees seven touches in Week 3 loss to Chiefs"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:14:06",
-      "created_formated": "Mon, Sep 28th 12:14am UTC",
-      "desc": "Chris Bell hauled in four of his seven targets for 67 yards in the Dolphins' 24-10 Week 3 loss to the Kansas City Chiefs.",
-      "id": 611026,
-      "impact": "Bell found a way to make an impact, finishing with more than one reception for the first time in three contests Sunday. The wideout remains one of many pass-catchers difficult to trust in the Dolphins offense early on, with a Week 4 matchup against the Minnesota Vikings up next.",
-      "link": "https://www.fantasypros.com/nfl/news/611026/chris-bell-leads-pass-catchers-week-3-loss-to-chiefs.php",
-      "player_id": 26038,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Chris Bell leads pass-catchers in Week 3 loss to Chiefs"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:11:28",
-      "created_formated": "Mon, Sep 28th 12:11am UTC",
-      "desc": "Greg Dulcich caught five of his seven targets for 55 yards in the Dolphins' 24-10 loss to the Kansas City Chiefs in Week 3.",
-      "id": 611025,
-      "impact": "Dulcich has struggled to make an impact in the Miami offense early in the season, finishing with less than 20 receiving yards in two of three contests. The tight end remains one of many risky pass-catching options held back by an underwhelming Dolphins offense to this point, with a Week 4 matchup against the Minnesota Vikings up next.",
-      "link": "https://www.fantasypros.com/nfl/news/611025/greg-dulcich-catches-five-passes-week-3-loss.php",
-      "player_id": 23153,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Greg Dulcich catches five passes in Week 3 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:07:30",
-      "created_formated": "Mon, Sep 28th 12:07am UTC",
-      "desc": "Kevin Coleman Jr. caught one of his four targets for three yards in the Dolphins' 24-10 loss to the Kansas City Chiefs in Week 3.",
-      "id": 611024,
-      "impact": "Coleman Jr. has been minimally involved in the Miami offense to begin the season, recording a catch for the first time in three contests. The wideout remains one of many underwhelming options in a dismal Dolphins offense to begin the season, with a Week 4 contest against the Minnesota Vikings up next.",
-      "link": "https://www.fantasypros.com/nfl/news/611024/kevin-coleman-jr-catches-one-pass-week-3.php",
-      "player_id": 28067,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Kevin Coleman Jr. catches one pass in Week 3"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:04:19",
-      "created_formated": "Mon, Sep 28th 12:04am UTC",
-      "desc": "Ryan Miller caught two of his three targets for 15 yards in the Dolphins' 24-10 loss to the Kansas City Chiefs in Week 3.",
-      "id": 611023,
-      "impact": "Miller has seen minimal involvement in the Miami offense to begin the season, recording three targets or less in each of the first three contests. The wideout remains best left off rosters in all formats ahead of a Week 4 contest against the Minnesota Vikings.",
-      "link": "https://www.fantasypros.com/nfl/news/611023/ryan-miller-quiet-week-3.php",
-      "player_id": 25857,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Ryan Miller quiet in Week 3"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 00:00:50",
-      "created_formated": "Mon, Sep 28th 12:00am UTC",
-      "desc": "Riley Patterson converted his lone field goal attempt as well as his only extra point attempt to finish with four points in the Dolphins' 24-10 loss to the Kansas City Chiefs in Week 3.",
-      "id": 611022,
-      "impact": "Patterson has made the most of his opportunities behind an inconsistent Miami offense to begin the season, recording four or more points in each of the first three contests. The kicker remains difficult to trust behind an offense that will likely be without superstar running back De'Von Achane (knee), with a Week 4 contest against the Minnesota Vikings up next.",
-      "link": "https://www.fantasypros.com/nfl/news/611022/riley-patterson-perfect-week-3.php",
-      "player_id": 23370,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Riley Patterson perfect in Week 3"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-27 23:51:47",
-      "created_formated": "Sun, Sep 27th 11:51pm UTC",
-      "desc": "Kenyon Sadiq caught 7-of-8 targets for 105 yards and a touchdown in a 31-24 loss to the Jets.",
-      "id": 611021,
-      "impact": "Sadiq caught his first NFL touchdown pass on a great catch in the second quarter as he stretched out to haul in the pass in the end zone. The rookie tight end was second on the team in receptions, yards, and targets, just behind Garrett Wilson. Sadiq and the Jets will take on the Bears on the road in Week 4. ",
-      "link": "https://www.fantasypros.com/nfl/news/611021/kenyon-sadiq-finds-end-zone-week-3-loss.php",
-      "player_id": 26055,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Kenyon Sadiq finds the end zone in Week 3 loss"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-27 23:50:05",
-      "created_formated": "Sun, Sep 27th 11:50pm UTC",
-      "desc": "Isaiah Williams caught 1-of-2 targets for 21 yards in a 31-24 loss to the Lions.",
-      "id": 611020,
-      "impact": "Williams saw a big drop in his target share after logging six targets in Week 2. The performance is disappointing considering the Jets were without Adonai Mitchell. Williams and the Jets will look to bounce back against the Bears in Week 4.  ",
-      "link": "https://www.fantasypros.com/nfl/news/611020/isaiah-williams-hauls-one-pass-week-3-loss.php",
-      "player_id": 26379,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Isaiah Williams hauls in one pass in Week 3 loss"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-27 23:48:30",
-      "created_formated": "Sun, Sep 27th 11:48pm UTC",
-      "desc": "Garrett Wilson caught 10-of-13 targets for 107 yards and a touchdown in a 31-24 loss to the Lions.",
-      "id": 611019,
-      "impact": "Wilson caught a 24-yard strike from Geno Smith in the fourth quarter to tie the game. Fantasy managers will want to monitor Wilson's status early in the week as he did exit with an injury on the final drive. Wilson and the Jets will take on the Bears in Week 4.  ",
-      "link": "https://www.fantasypros.com/nfl/news/611019/garrett-wilson-hauls-10-passes-week-3-loss.php",
-      "player_id": 23072,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Garrett Wilson hauls in 10 passes in Week 3 loss"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-27 23:42:06",
-      "created_formated": "Sun, Sep 27th 11:42pm UTC",
-      "desc": "Braelon Allen rushed for 14 yards on four carries in the 31-24 loss to the Lions. He caught all three of his targets for three yards. ",
-      "id": 611018,
-      "impact": "Allen continued to see limited work Sunday, but he could be in line for more touches in Week 4 if Breece Hall (thigh) misses time. Hall was injured late in the game and will likely undergo testing Monday to determine the severity of the injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/611018/braelon-allen-tallies-seven-touches-week-3.php",
-      "player_id": 24346,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Braelon Allen tallies seven touches in Week 3 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-27 23:39:55",
-      "created_formated": "Sun, Sep 27th 11:39pm UTC",
-      "desc": "Geno Smith completed 31-of-37 passes for 321 yards and three touchdowns in a 31-24 loss to the Lions. He added 12 rushing yards on two carries. ",
-      "id": 611017,
-      "impact": "Smith was excellent in a near upset of the Lions on the road. The veteran fumbled late in the fourth quarter, which allowed the Lions to seal the win. Smith was able to connect with Garrett Wilson, Kenyon Sadiq, and Jeremy Ruckert on his three touchdown passes. The Jets will head to Chicago to take on the Bears in Week 4. ",
-      "link": "https://www.fantasypros.com/nfl/news/611017/geno-smith-tosses-three-touchdown-week-3-loss.php",
-      "player_id": 11687,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Geno Smith tosses three touchdown in Week 3 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-09-27 23:22:29",
-      "created_formated": "Sun, Sep 27th 11:22pm UTC",
-      "desc": "Baker Mayfield (thumb) exited Sunday's contest between the Tampa Bay Buccaneers and Minnesota Vikings with an apparent thumb injury according to Rick Stroud.",
-      "id": 611016,
-      "impact": "Mayfield headed to the locker room after suffering the injury late in the fourth quarter, completing 17-of-34 pass attempts for 217 yards, one touchdown, and one interception prior to exiting. Jalon Daniels takes over behind center for head coach Todd Bowles.",
-      "link": "https://www.fantasypros.com/nfl/news/611016/baker-mayfield-thumb-exits-early-sunday.php",
+      "created": "2026-09-28 17:02:40",
+      "created_formated": "Mon, Sep 28th 5:02pm UTC",
+      "desc": "Baker Mayfield (thumb) is expected to be sidelined for around three weeks.",
+      "id": 611297,
+      "impact": "Mayfield underwent an MRI on his thumb after Sunday's loss to the Vikings, and the results indicated that he will need to miss around three weeks while he recovers. The team is going to start undrafted rookie Jalon Daniels in his absence, which is likely bad news for the fantasy value of Emeka Egbuka, Bucky Irving, and Tampa Bay's entire offense for the next few weeks.",
+      "link": "https://www.fantasypros.com/nfl/news/611297/baker-mayfield-thumb-expected-to-miss-three-weeks.php",
       "player_id": 17237,
       "sport_id": "NFL",
       "team_id": "TB",
-      "title": "Baker Mayfield (thumb) exits early Sunday "
+      "title": "Baker Mayfield (thumb) expected to miss three weeks"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:57:23",
+      "created_formated": "Mon, Sep 28th 4:57pm UTC",
+      "desc": "The Patriots' D/ST logged one sack and one interception while allowing 35 points in Sunday's blowout loss at the hands of the Jacksonville Jaguars.",
+      "id": 611296,
+      "impact": "New England's defense was terrible on Sunday. They allowed Jacksonville to score 35 points over the course of the afternoon, and they weren't able to make any big plays to help out their own offense. This unit should not be started for the foreseeable future, especially with a tough matchup against the Bills coming up next week.",
+      "link": "https://www.fantasypros.com/nfl/news/611296/patriots-dst-dismal-blowout-loss-sunday.php",
+      "player_id": 8180,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Patriots D/ST dismal in blowout loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:55:22",
+      "created_formated": "Mon, Sep 28th 4:55pm UTC",
+      "desc": "Andy Borregales went 2-for-3 on his field-goal attempts in Sunday's 35-6 loss to the Jacksonville Jaguars.",
+      "id": 611295,
+      "impact": "Borregales didn't have a great game on Sunday, missing one of his three field-goal attempts in the team's blowout loss at the hands of the Jaguars. If he continues to play bad, his job could be in jeopardy at some point in the season.",
+      "link": "https://www.fantasypros.com/nfl/news/611295/andy-borregales-misses-field-goal-loss-sunday.php",
+      "player_id": 27291,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Andy Borregales misses field goal in loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:53:53",
+      "created_formated": "Mon, Sep 28th 4:53pm UTC",
+      "desc": "Kyle Williams caught 1-of-3 targets for 34 yards in Sunday's 35-6 blowout loss to the Jacksonville Jaguars.",
+      "id": 611294,
+      "impact": "The young wideout got on the field on Sunday and was able to haul in one 34-yard pass against the Jaguars, but he wasn't able to do anything else in the team's blowout loss. It's nice to see him actually on the field for New England, but he doesn't project to have any fantasy value for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/611294/kyle-williams-held-to-one-catch-sunday.php",
+      "player_id": 27487,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Kyle Williams held to one catch Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:52:04",
+      "created_formated": "Mon, Sep 28th 4:52pm UTC",
+      "desc": "DeMario Douglas caught 1-of-5 targets for 38 yards in Sunday's 35-6 loss to the Jacksonville Jaguars.",
+      "id": 611293,
+      "impact": "Douglas had a tough time connecting with QB Drake Maye on Sunday, catching just one of his five targets for a 38-yard gain. He will continue to see a solid amount of targets on a week-to-week basis moving forward but carries very little fantasy upside for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/611293/demario-douglas-catches-one-pass-loss-sunday.php",
+      "player_id": 25304,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "DeMario Douglas catches one pass in loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:50:18",
+      "created_formated": "Mon, Sep 28th 4:50pm UTC",
+      "desc": "Mack Hollins hauled in 6-of-9 targets for 87 yards in Sunday's 35-6 blowout loss to the Jacksonville Jaguars.",
+      "id": 611292,
+      "impact": "Hollins was one of the lone bright spots for the Patriots on Sunday. He led the team in targets, receptions, and receiving yards against the Jaguars, but that wasn't enough to even keep things close against the Jaguars. He will continue to play a big role for the Patriots moving forward but shouldn't be trusted as a fantasy option at this point in the season.",
+      "link": "https://www.fantasypros.com/nfl/news/611292/mack-hollins-leads-team-receiving-sunday.php",
+      "player_id": 16489,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Mack Hollins leads team in receiving Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:48:37",
+      "created_formated": "Mon, Sep 28th 4:48pm UTC",
+      "desc": "Hunter Henry caught 1-of-2 targets for just five yards in Sunday's 35-6 loss to the Jacksonville Jaguars.",
+      "id": 611291,
+      "impact": "The veteran tight end wasn't able to contribute for the Patriots on Sunday. He finished with just one five-yard catch against the Jaguars, which left him with a very poor fantasy total. He can't be trusted as a streaming option in most leagues moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/611291/hunter-henry-non-factor-loss-sunday.php",
+      "player_id": 15561,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Hunter Henry a non-factor in loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:46:54",
+      "created_formated": "Mon, Sep 28th 4:46pm UTC",
+      "desc": "Romeo Doubs caught 3-of-4 targets for 49 yards in Sunday's 35-6 loss to the Jacksonville Jaguars.",
+      "id": 611290,
+      "impact": "Doubs looked good with nearly 100 yards in Week 2, but he didn't find the same success this week, catching just three passes for 49 scoreless yards in a blowout loss to the Jaguars. He isn't a reliable fantasy option at this point in the season and shouldn't be started in most leagues, even if he continues to have decent upside on a week-to-week basis.",
+      "link": "https://www.fantasypros.com/nfl/news/611290/romeo-doubs-underwhelming-loss-sunday.php",
+      "player_id": 23794,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Romeo Doubs underwhelming in loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:45:00",
+      "created_formated": "Mon, Sep 28th 4:45pm UTC",
+      "desc": "Rhamondre Stevenson rushed the ball seven times for 22 yards and caught three passes for 16 yards in Sunday's 35-6 loss to the Jacksonville Jaguars.",
+      "id": 611289,
+      "impact": "Stevenson was ineffective for the Patriots on Sunday. He was only able to contribute 22 yards on the ground, and he wasn't able to do much through the air either in their blowout loss to the Jaguars. He shouldn't be started in most fantasy leagues for the foreseeable future, especially with TreVeyon Henderson seeing more carries than him this week.",
+      "link": "https://www.fantasypros.com/nfl/news/611289/rhamondre-stevenson-inefficient-loss-sunday.php",
+      "player_id": 22726,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Rhamondre Stevenson inefficient in loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:43:01",
+      "created_formated": "Mon, Sep 28th 4:43pm UTC",
+      "desc": "TreVeyon Henderson rushed the ball eight times for 23 yards and caught one pass for six yards in Sunday's 35-6 loss to the Jacksonville Jaguars.",
+      "id": 611288,
+      "impact": "New England's offense wasn't able to get anything going on Sunday, and Henderson was no exception to that. He totaled just 29 yards on nine opportunities against the Jaguars, which burned any fantasy managers who started him in this matchup. He should not be started in most leagues until New England figures out their offensive issues.",
+      "link": "https://www.fantasypros.com/nfl/news/611288/treveyon-henderson-totals-29-yards-loss-sunday.php",
+      "player_id": 23065,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "TreVeyon Henderson totals 29 yards in loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:41:02",
+      "created_formated": "Mon, Sep 28th 4:41pm UTC",
+      "desc": "Drake Maye completed 14-of-25 passing attempts for 199 yards and two interceptions while adding 18 yards and a lost fumble on the ground in Sunday's 35-6 loss to the Jacksonville Jaguars.",
+      "id": 611287,
+      "impact": "Maye's nightmare start to the season continued on Sunday. He lost three turnovers over the course of the afternoon and was only able to lead the Patriots to six points in a blowout loss to the Jaguars. He is unstartable at this point in the season, and fantasy managers should be avoiding most of the fantasy options on New England's offense until they can figure things out.",
+      "link": "https://www.fantasypros.com/nfl/news/611287/drake-maye-loses-three-turnovers-blowout-loss-sunday.php",
+      "player_id": 23046,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Drake Maye loses three turnovers in blowout loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:37:39",
+      "created_formated": "Mon, Sep 28th 4:37pm UTC",
+      "desc": "The Jaguars' D/ST logged three sacks, two interceptions, and one fumble recovery while allowing just six points in Sunday's blowout win over the New England Patriots.",
+      "id": 611286,
+      "impact": "Jacksonville's defense absolutely shut down the Patriots' offense on Sunday. They allowed just six points over the course of the afternoon and were able to log a number of big plays to help out their own offense. This unit has a tough matchup coming up against the Bengals next week, however, so they may not be worth starting despite their great performance this week.",
+      "link": "https://www.fantasypros.com/nfl/news/611286/jaguars-dst-stellar-blowout-win-sunday.php",
+      "player_id": 8140,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Jaguars D/ST stellar in blowout win Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:34:51",
+      "created_formated": "Mon, Sep 28th 4:34pm UTC",
+      "desc": "Cam Little made all five of his extra-point attempts and missed his lone field-goal attempt from 70 yards out in Sunday's 35-6 win over the New England Patriots.",
+      "id": 611285,
+      "impact": "Little ended up with just five points on Sunday, which is a little disappointing considering how easily scoring came to the Jaguars against New England. He also barely missed one kick from what would have been an NFL record 70-yards out, which further hurt his fantasy total in this matchup. He should bounce back in the near future.",
+      "link": "https://www.fantasypros.com/nfl/news/611285/cam-little-totals-five-points-win-sunday.php",
+      "player_id": 26475,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Cam Little totals five points in win Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:32:11",
+      "created_formated": "Mon, Sep 28th 4:32pm UTC",
+      "desc": "Chris Rodriguez Jr. rushed the ball eight times for 37 times and a touchdown in Sunday's 35-6 blowout win over the New England Patriots.",
+      "id": 611284,
+      "impact": "Rodriguez was clearly the RB2 for the Jaguars on Sunday, but he was still able to contribute quite effectively for them with 37 yards and a touchdown on just eight carries. Still, his current workload won't be enough to offer any sustained fantasy success anytime soon.",
+      "link": "https://www.fantasypros.com/nfl/news/611284/chris-rodriguez-jr-finds-end-zone-sunday.php",
+      "player_id": 22986,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Chris Rodriguez Jr. finds end zone Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:30:20",
+      "created_formated": "Mon, Sep 28th 4:30pm UTC",
+      "desc": "Brenton Strange caught 3-of-5 targets for 32 yards in Sunday's 35-6 blowout win over the New England Patriots.",
+      "id": 611283,
+      "impact": "Strange was a solid contributor for the Jaguars on Sunday, hauling in three passes en route to a big win over the Patriots. Still, he isn't a strong fantasy option and shouldn't be considered startable for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/611283/brenton-strange-catches-three-passes-sunday.php",
+      "player_id": 25345,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Brenton Strange catches three passes Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:28:58",
+      "created_formated": "Mon, Sep 28th 4:28pm UTC",
+      "desc": "Jakobi Meyers caught 7-of-8 targets for 64 yards and a touchdown in Sunday's 35-6 blowout win over the New England Patriots.",
+      "id": 611282,
+      "impact": "Meyers had a fantastic game against his former team on Sunday. He led the team in targets, receptions, and receiving yards over the course of the afternoon and was also able to score a touchdown, which was the cherry on top. This was a good game for the veteran, but fantasy managers shouldn't expect him to put up numbers like this week-in and week-out moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/611282/jakobi-meyers-leads-team-receiving-sunday.php",
+      "player_id": 18598,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Jakobi Meyers leads team in receiving Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 16:26:14",
+      "created_formated": "Mon, Sep 28th 4:26pm UTC",
+      "desc": "Brian Thomas Jr. caught one pass for eight yards in Sunday's 35-6 blowout win over the New England Patriots.",
+      "id": 611281,
+      "impact": "Thomas was a complete non-factor on Sunday. He caught just one pass over the course of the afternoon, and he was only able to turn that into eight yards on a day that Jacksonville's offense had no trouble scoring and moving the ball. He still has some potential given his talent, but he hasn't been productive for a while and shouldn't be started for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/611281/brian-thomas-jr-quiet-blowout-win-sunday.php",
+      "player_id": 23000,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Brian Thomas Jr. quiet in blowout win Sunday"
     }
   ],
   "public_api_limited": true,

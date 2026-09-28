@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 672.1
-- championship_lineup_c_avi_avg: 84.01
-- offensive_roster_c_avi_sum: 1003.6
-- offensive_roster_c_avi_avg: 62.73
+- championship_lineup_c_avi_sum: 672.2
+- championship_lineup_c_avi_avg: 84.03
+- offensive_roster_c_avi_sum: 1003.8
+- offensive_roster_c_avi_avg: 62.74
 - offensive_roster_d_avi_sum: 1116.2
 - offensive_roster_d_avi_avg: 69.76
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Garrett Wilson | C-AVI: 87.7 | D-AVI: 92.0
 - TE: Travis Kelce | C-AVI: 82.8 | D-AVI: 74.0
 - FLEX: Davante Adams | C-AVI: 80.1 | D-AVI: 80.0
-- FLEX: Marvin Harrison | C-AVI: 69.6 | D-AVI: 80.7
+- FLEX: Marvin Harrison | C-AVI: 69.7 | D-AVI: 80.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 69.6
+- Championship AVI (C-AVI, 0-100): 69.7
 - Dynasty AVI (D-AVI, 0-100): 80.7
 - Projected PPR points: 190.9
 - Category: offense
@@ -308,7 +308,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 56.9
+- Championship AVI (C-AVI, 0-100): 57.0
 - Dynasty AVI (D-AVI, 0-100): 64.3
 - Projected PPR points: 142.4
 - Category: offense

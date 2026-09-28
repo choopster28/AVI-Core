@@ -311,17 +311,18 @@
       }
     },
     {
-      "average": 1.1,
+      "average": 1,
       "filename": "dj-jones.php",
-      "games": 2,
+      "games": 3,
       "player_id": 16724,
       "player_name": "D.J. Jones",
-      "points": 2.25,
+      "points": 3,
       "position_id": "DT",
       "team_id": "DEN",
       "weeks": {
         "1": 0.8,
-        "2": 1.5
+        "2": 1.5,
+        "3": 0.8
       }
     },
     {
@@ -413,17 +414,18 @@
       }
     },
     {
-      "average": 1.9,
+      "average": 3.3,
       "filename": "poona-ford.php",
-      "games": 2,
+      "games": 3,
       "player_id": 17381,
       "player_name": "Poona Ford",
-      "points": 3.75,
+      "points": 9.75,
       "position_id": "DT",
       "team_id": "LAR",
       "weeks": {
         "1": 0,
-        "2": 3.8
+        "2": 3.8,
+        "3": 6
       }
     },
     {
@@ -735,17 +737,18 @@
       }
     },
     {
-      "average": 9.4,
+      "average": 9.1,
       "filename": "malcolm-roach.php",
-      "games": 2,
+      "games": 3,
       "player_id": 19536,
       "player_name": "Malcolm Roach",
-      "points": 18.75,
+      "points": 27.25,
       "position_id": "DT",
       "team_id": "DEN",
       "weeks": {
         "1": 4.5,
-        "2": 14.3
+        "2": 14.3,
+        "3": 8.5
       }
     },
     {
@@ -970,17 +973,18 @@
       }
     },
     {
-      "average": 3.4,
+      "average": 2.5,
       "filename": "tyler-davis-dt.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23756,
       "player_name": "Tyler Davis",
-      "points": 6.75,
+      "points": 7.5,
       "position_id": "DT",
       "team_id": "LAR",
       "weeks": {
         "1": 6.8,
-        "2": 0
+        "2": 0,
+        "3": 0.8
       }
     },
     {
@@ -1043,17 +1047,18 @@
       }
     },
     {
-      "average": 2.3,
+      "average": 4.2,
       "filename": "eyioma-uwazurike.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23838,
       "player_name": "Eyioma Uwazurike",
-      "points": 4.5,
+      "points": 12.5,
       "position_id": "DT",
       "team_id": "DEN",
       "weeks": {
         "1": 3,
-        "2": 1.5
+        "2": 1.5,
+        "3": 8
       }
     },
     {
@@ -1230,17 +1235,18 @@
       }
     },
     {
-      "average": 5.3,
+      "average": 6,
       "filename": "kobie-turner.php",
-      "games": 2,
+      "games": 3,
       "player_id": 25283,
       "player_name": "Kobie Turner",
-      "points": 10.5,
+      "points": 18,
       "position_id": "DT",
       "team_id": "LAR",
       "weeks": {
         "1": 6.8,
-        "2": 3.8
+        "2": 3.8,
+        "3": 7.5
       }
     },
     {
@@ -1290,15 +1296,16 @@
     {
       "average": 0.8,
       "filename": "desjuan-johnson.php",
-      "games": 2,
+      "games": 3,
       "player_id": 25581,
       "player_name": "Desjuan Johnson",
-      "points": 1.5,
+      "points": 2.25,
       "position_id": "DT",
       "team_id": "LAR",
       "weeks": {
         "1": 0.8,
-        "2": 0.8
+        "2": 0.8,
+        "3": 0.8
       }
     },
     {
@@ -1504,17 +1511,18 @@
       }
     },
     {
-      "average": 1.1,
+      "average": 1.8,
       "filename": "braden-fiske.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26195,
       "player_name": "Braden Fiske",
-      "points": 2.25,
+      "points": 5.25,
       "position_id": "DT",
       "team_id": "LAR",
       "weeks": {
         "1": 2.3,
-        "2": 0
+        "2": 0,
+        "3": 3
       }
     },
     {
@@ -1664,9 +1672,9 @@
       }
     },
     {
-      "average": 5.8,
+      "average": 3.8,
       "filename": "dondrea-tillman.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26979,
       "player_name": "Dondrea Tillman",
       "points": 11.5,
@@ -1674,7 +1682,8 @@
       "team_id": "DEN",
       "weeks": {
         "1": 10.8,
-        "2": 0.8
+        "2": 0.8,
+        "3": 0
       }
     },
     {
@@ -1840,17 +1849,18 @@
       }
     },
     {
-      "average": 0.4,
+      "average": 1.3,
       "filename": "ty-hamilton.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27153,
       "player_name": "Ty Hamilton",
-      "points": 0.75,
+      "points": 3.75,
       "position_id": "DT",
       "team_id": "LAR",
       "weeks": {
         "1": 0.8,
-        "2": 0
+        "2": 0,
+        "3": 3
       }
     },
     {
@@ -2351,30 +2361,32 @@
       }
     },
     {
-      "average": 2.8,
+      "average": 2.3,
       "filename": "wesley-bailey.php",
-      "games": 2,
+      "games": 3,
       "player_id": 28668,
       "player_name": "Wesley Bailey",
-      "points": 5.5,
+      "points": 7,
       "position_id": "DT",
       "team_id": "LAR",
       "weeks": {
         "1": 0,
-        "2": 5.5
+        "2": 5.5,
+        "3": 1.5
       }
     },
     {
-      "average": 5.5,
+      "average": 3.1,
       "filename": "aaron-donald.php",
-      "games": 1,
+      "games": 2,
       "player_id": 12205,
       "player_name": "Aaron Donald",
-      "points": 5.5,
+      "points": 6.25,
       "position_id": "DT",
       "team_id": "LAR",
       "weeks": {
-        "2": 5.5
+        "2": 5.5,
+        "3": 0.8
       }
     },
     {

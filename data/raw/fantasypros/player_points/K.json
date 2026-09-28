@@ -75,17 +75,18 @@
       }
     },
     {
-      "average": 6.5,
+      "average": 5,
       "filename": "wil-lutz.php",
-      "games": 2,
+      "games": 3,
       "player_id": 16026,
       "player_name": "Wil Lutz",
-      "points": 13,
+      "points": 15,
       "position_id": "K",
       "team_id": "DEN",
       "weeks": {
         "1": 4,
-        "2": 9
+        "2": 9,
+        "3": 2
       }
     },
     {
@@ -118,17 +119,18 @@
       }
     },
     {
-      "average": 9.5,
+      "average": 7.3,
       "filename": "daniel-carlson.php",
-      "games": 2,
+      "games": 3,
       "player_id": 17420,
       "player_name": "Daniel Carlson",
-      "points": 19,
+      "points": 22,
       "position_id": "K",
       "team_id": "NO",
       "weeks": {
         "1": 6,
-        "2": 13
+        "2": 13,
+        "3": 3
       }
     },
     {
@@ -162,17 +164,18 @@
       }
     },
     {
-      "average": 9,
+      "average": 10,
       "filename": "matt-gay.php",
-      "games": 2,
+      "games": 3,
       "player_id": 18545,
       "player_name": "Matt Gay",
-      "points": 18,
+      "points": 30,
       "position_id": "K",
       "team_id": "LV",
       "weeks": {
         "1": 10,
-        "2": 8
+        "2": 8,
+        "3": 12
       }
     },
     {
@@ -296,17 +299,18 @@
       }
     },
     {
-      "average": 9,
+      "average": 9.7,
       "filename": "brandon-aubrey.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26068,
       "player_name": "Brandon Aubrey",
-      "points": 18,
+      "points": 29,
       "position_id": "K",
       "team_id": "DAL",
       "weeks": {
         "1": 2,
-        "2": 16
+        "2": 16,
+        "3": 11
       }
     },
     {
@@ -355,17 +359,18 @@
       }
     },
     {
-      "average": 2.5,
+      "average": 7,
       "filename": "harrison-mevis.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26638,
       "player_name": "Harrison Mevis",
-      "points": 5,
+      "points": 21,
       "position_id": "K",
       "team_id": "LAR",
       "weeks": {
         "1": 1,
-        "2": 4
+        "2": 4,
+        "3": 16
       }
     },
     {
@@ -414,17 +419,18 @@
       }
     },
     {
-      "average": 10,
+      "average": 10.7,
       "filename": "tyler-loop.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27534,
       "player_name": "Tyler Loop",
-      "points": 20,
+      "points": 32,
       "position_id": "K",
       "team_id": "BAL",
       "weeks": {
         "1": 14,
-        "2": 6
+        "2": 6,
+        "3": 12
       }
     },
     {

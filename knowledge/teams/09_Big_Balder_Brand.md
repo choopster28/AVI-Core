@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 730.8
-- championship_lineup_c_avi_avg: 91.35
-- offensive_roster_c_avi_sum: 1163.2
+- championship_lineup_c_avi_sum: 730.7
+- championship_lineup_c_avi_avg: 91.34
+- offensive_roster_c_avi_sum: 1163.1
 - offensive_roster_c_avi_avg: 68.42
 - offensive_roster_d_avi_sum: 1268.4
 - offensive_roster_d_avi_avg: 74.61
@@ -31,7 +31,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 83.7 | D-AVI: 84.5
-- RB: Saquon Barkley | C-AVI: 93.7 | D-AVI: 90.5
+- RB: Saquon Barkley | C-AVI: 93.6 | D-AVI: 90.5
 - RB: Omarion Hampton | C-AVI: 88.1 | D-AVI: 91.6
 - WR: A.J. Brown | C-AVI: 95.1 | D-AVI: 91.9
 - WR: Rashee Rice | C-AVI: 95.1 | D-AVI: 90.7
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 93.7
+- Championship AVI (C-AVI, 0-100): 93.6
 - Dynasty AVI (D-AVI, 0-100): 90.5
 - Projected PPR points: 274.2
 - Category: offense

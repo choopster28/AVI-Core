@@ -1791,9 +1791,9 @@
     "sleeper_id": "13348"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "23018",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "MIN",
     "player_name": "J.J. McCarthy",
     "position": "QB",

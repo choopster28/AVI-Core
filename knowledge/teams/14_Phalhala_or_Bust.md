@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 555.8
-- championship_lineup_c_avi_avg: 69.47
-- offensive_roster_c_avi_sum: 749.7
-- offensive_roster_c_avi_avg: 57.67
+- championship_lineup_c_avi_sum: 555.7
+- championship_lineup_c_avi_avg: 69.46
+- offensive_roster_c_avi_sum: 749.5
+- offensive_roster_c_avi_avg: 57.65
 - offensive_roster_d_avi_sum: 904.5
 - offensive_roster_d_avi_avg: 69.58
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Ashton Jeanty | C-AVI: 90.6 | D-AVI: 95.6
 - RB: Jaylen Warren | C-AVI: 70.6 | D-AVI: 78.0
 - WR: Rome Odunze | C-AVI: 71.2 | D-AVI: 83.1
-- WR: Michael Wilson | C-AVI: 64.5 | D-AVI: 77.1
+- WR: Michael Wilson | C-AVI: 64.4 | D-AVI: 77.1
 - TE: Sam LaPorta | C-AVI: 91.7 | D-AVI: 86.9
 - FLEX: Hunter Henry | C-AVI: 62.1 | D-AVI: 66.2
 - FLEX: Makai Lemon | C-AVI: 56.8 | D-AVI: 80.9
@@ -83,7 +83,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Current owner roster ID: 14
 - Position: QB
 - Fantasy positions: ['QB']
-- NFL team: MIN
+- NFL team: NYG
 - Active: True
 - Status: Active
 - Age: 23.0
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 23.8
+- Championship AVI (C-AVI, 0-100): 23.7
 - Dynasty AVI (D-AVI, 0-100): 42.7
 - Projected PPR points: 20.2
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 64.5
+- Championship AVI (C-AVI, 0-100): 64.4
 - Dynasty AVI (D-AVI, 0-100): 77.1
 - Projected PPR points: 178.3
 - Category: offense
