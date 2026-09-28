@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 16
-- Last updated from Sleeper exports: 2026-09-27
+- Last updated from Sleeper exports: 2026-09-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Derrick Henry | C-AVI: 93.1 | D-AVI: 86.3
 - RB: Tony Pollard | C-AVI: 63.4 | D-AVI: 71.3
 - WR: Zay Flowers | C-AVI: 91.3 | D-AVI: 92.0
-- WR: Carnell Tate | C-AVI: 67.0 | D-AVI: 87.2
+- WR: Carnell Tate | C-AVI: 67.1 | D-AVI: 87.2
 - TE: Kyle Pitts | C-AVI: 82.8 | D-AVI: 84.2
 - FLEX: Juwan Johnson | C-AVI: 58.8 | D-AVI: 68.1
-- FLEX: Kyle Monangai | C-AVI: 57.0 | D-AVI: 73.4
+- FLEX: Kyle Monangai | C-AVI: 56.9 | D-AVI: 73.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 57.0
+- Championship AVI (C-AVI, 0-100): 56.9
 - Dynasty AVI (D-AVI, 0-100): 73.4
 - Projected PPR points: 155.3
 - Category: offense
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 67.0
+- Championship AVI (C-AVI, 0-100): 67.1
 - Dynasty AVI (D-AVI, 0-100): 87.2
 - Projected PPR points: 175.4
 - Category: offense

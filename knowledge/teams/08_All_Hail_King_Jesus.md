@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-09-27
+- Last updated from Sleeper exports: 2026-09-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 646.0
-- championship_lineup_c_avi_avg: 80.75
-- offensive_roster_c_avi_sum: 890.2
+- championship_lineup_c_avi_sum: 646.1
+- championship_lineup_c_avi_avg: 80.76
+- offensive_roster_c_avi_sum: 890.3
 - offensive_roster_c_avi_avg: 63.59
-- offensive_roster_d_avi_sum: 945.6
-- offensive_roster_d_avi_avg: 67.54
+- offensive_roster_d_avi_sum: 945.7
+- offensive_roster_d_avi_avg: 67.55
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 78.8 | D-AVI: 79.9
 - RB: D'Andre Swift | C-AVI: 78.0 | D-AVI: 81.9
-- RB: Zach Charbonnet | C-AVI: 48.7 | D-AVI: 67.6
+- RB: Zach Charbonnet | C-AVI: 48.8 | D-AVI: 67.7
 - WR: Amon-Ra St. Brown | C-AVI: 99.0 | D-AVI: 99.0
 - WR: Justin Jefferson | C-AVI: 97.3 | D-AVI: 96.9
 - TE: Dallas Goedert | C-AVI: 83.3 | D-AVI: 78.4
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 48.7
-- Dynasty AVI (D-AVI, 0-100): 67.6
+- Championship AVI (C-AVI, 0-100): 48.8
+- Dynasty AVI (D-AVI, 0-100): 67.7
 - Projected PPR points: 116.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2

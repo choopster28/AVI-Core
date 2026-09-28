@@ -1,5 +1,5 @@
 {
-  "count": 22,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
@@ -7,215 +7,432 @@
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-27 15:57:15",
-      "created_formated": "Sun, Sep 27th 3:57pm UTC",
-      "desc": "Panthers WR Jalen Coker (ankle) is officially active for Week 3. ",
-      "id": 610954,
-      "impact": "Coker was considered questionable after suffering an ankle injury in Week 2. With Xavier Legette inactive, Coker and Tetairoa McMillan should see plenty of targets against Cleveland. ",
-      "link": "https://www.fantasypros.com/nfl/news/610954/jalen-coker-ankle-officially-active-week-3.php",
-      "player_id": 26403,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Jalen Coker (ankle) officially active for Week 3"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 15:55:36",
-      "created_formated": "Sun, Sep 27th 3:55pm UTC",
-      "desc": "Jaylen Wright (stinger/foot) is inactive for Week 3 for the Miami Dolphins against the Kansas City Chiefs.",
-      "id": 610952,
-      "impact": "Wright will sit out after being unable to make enough progress throughout the week to suit up, as Ollie Gordon II will see increased touches behind No. 1 running back De'Von Achane against a stout Chiefs defense Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/610952/jaylen-wright-stingerfoot-inactive-week-3.php",
-      "player_id": 25987,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Jaylen Wright (stinger/foot) inactive for Week 3"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 15:55:45",
-      "created_formated": "Sun, Sep 27th 3:55pm UTC",
-      "desc": "Panthers WR Xavier Legette (knee) is officially inactive for a Week 3 matchup with the Browns. ",
-      "id": 610953,
-      "impact": "Legette was a late add to the Panthers' injury report on Thursday and was limited on Friday. Brycen Tremayne and John Metchie will see increased playing time behind Tetairoa McMillan and Jalen Coker.",
-      "link": "https://www.fantasypros.com/nfl/news/610953/xavier-legette-knee-officially-inactive-week-3.php",
-      "player_id": 26136,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Xavier Legette (knee) officially inactive for Week 3 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 15:52:32",
-      "created_formated": "Sun, Sep 27th 3:52pm UTC",
-      "desc": "Steelers DB Joey Porter Jr. (back) is officially inactive for a Week 3 matchup with the Bengals. ",
-      "id": 610950,
-      "impact": "Porter was listed as questionable to play and will now have to wait at least one more week to make his season debut. This is a big boost for the Bengals' offense as the Steelers will be without a key piece of their secondary. ",
-      "link": "https://www.fantasypros.com/nfl/news/610950/joey-porter-jr-back-officially-inactive-week-3.php",
-      "player_id": 24705,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Joey Porter Jr. (back) officially inactive for Week 3"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 15:51:21",
-      "created_formated": "Sun, Sep 27th 3:51pm UTC",
-      "desc": "Christian Mahogany (hip) is active for Week 3 for the Detroit Lions against the New York Jets.",
-      "id": 610949,
-      "impact": "Mahogany will take the field after being sidelined in Week 2 for head coach Dan Campbell, joining rookie Blake Miller (knee) in returning to a Detroit offensive line that will look to keep quarterback Jared Goff clean against the Jets Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/610949/christian-mahogany-hip-active-week-3.php",
-      "player_id": 25312,
+      "created": "2026-09-28 00:49:13",
+      "created_formated": "Mon, Sep 28th 12:49am UTC",
+      "desc": "Jake Bates connected on his lone field goal attempt and all four of his extra point attempts in a 31-24 win over the Jets.",
+      "id": 611040,
+      "impact": "Bates was perfect after each touchdown and made his lone field goal from 30-yards out to open the scoring in the second quarter. Bates has yet to miss a kick this season and will take his perfect season on the road to Carolina in Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/611040/jake-bates-perfect-week-3-win.php",
+      "player_id": 26075,
       "sport_id": "NFL",
       "team_id": "DET",
-      "title": "Christian Mahogany (hip) active for Week 3"
+      "title": "Jake Bates perfect in Week 3 win"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-27 15:48:54",
-      "created_formated": "Sun, Sep 27th 3:48pm UTC",
-      "desc": "Blake Miller (knee) is active for Week 3 for the Detroit Lions against the New York Jets.",
-      "id": 610948,
-      "impact": "Miller is good to go after progressing throughout the practice week, boosting a Detroit offensive line that will look to keep quarterback Jared Goff upright against the Jets defense Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/610948/blake-miller-knee-active-week-3.php",
-      "player_id": 27069,
+      "created": "2026-09-28 00:47:10",
+      "created_formated": "Mon, Sep 28th 12:47am UTC",
+      "desc": "Sam LaPorta caught 3-of-4 targets for 44 yards in a 31-24 win over the Jets. ",
+      "id": 611039,
+      "impact": "LaPorta saw the bulk of the targets go to Amon-Ra St. Brown and Jahmyr Gibbs in the win over the Jets. Fantasy managers will hope that LaPorta can become more involved against the Panthers in Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/611039/sam-laporta-tallies-three-receptions-week-3.php",
+      "player_id": 22978,
       "sport_id": "NFL",
       "team_id": "DET",
-      "title": "Blake Miller (knee) active for Week 3"
+      "title": "Sam LaPorta tallies three receptions in Week 3 "
     },
     {
       "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-27 15:48:31",
-      "created_formated": "Sun, Sep 27th 3:48pm UTC",
-      "desc": "Steelers RB Jaylen Warren (shoulder) is officially active for a Week 3 matchup with the Bengals. ",
-      "id": 610947,
-      "impact": "Warren was limited in practice throughout the week but will play and start against the Bengals. With Rico Dowdle (toe) inactive, Warren could be in line for a workhorse role in Week 3. ",
-      "link": "https://www.fantasypros.com/nfl/news/610947/jaylen-warren-shoulder-officially-active-week-3.php",
-      "player_id": 24209,
+      "created": "2026-09-28 00:45:33",
+      "created_formated": "Mon, Sep 28th 12:45am UTC",
+      "desc": "Isaac TeSlaa caught 3-of-3 targets for 66 yards in a 31-24 win over the Jets.",
+      "id": 611038,
+      "impact": "TeSlaa led the team in receiving yardage despite the limited volume. His three receptions and 66 yards both are season highs for the 24-year-old, and he will look to build on this performance in a road matchup against Carolina. ",
+      "link": "https://www.fantasypros.com/nfl/news/611038/isaac-teslaa-hauls-three-passes-week-3.php",
+      "player_id": 27446,
       "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Jaylen Warren (shoulder) officially active for Week 3 "
+      "team_id": "DET",
+      "title": "Isaac TeSlaa hauls in three passes in Week 3 "
     },
     {
       "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-27 15:46:06",
-      "created_formated": "Sun, Sep 27th 3:46pm UTC",
-      "desc": "Browns DB Tyson Campbell (ankle/hip) is officially inactive for a Week 3 matchup with Carolina.",
-      "id": 610946,
-      "impact": "Campbell was considered as questionable this week, but was dealing with multiple injuries and will not be available against the Panthers. Noah Igbinoghene and Mekhi Blackmon should see additional playing time with Campbell out. ",
-      "link": "https://www.fantasypros.com/nfl/news/610946/tyson-campbell-anklehip-officially-inactive-week-3.php",
-      "player_id": 22706,
+      "created": "2026-09-28 00:44:10",
+      "created_formated": "Mon, Sep 28th 12:44am UTC",
+      "desc": "Jameson Williams caught 4-of-4 targets for 49 yards in a 31-24 win over the Jets.",
+      "id": 611037,
+      "impact": "Williams took a back seat in the offense Sunday with Amon-Ra St. Brown and Jahmyr Gibbs dominating the targets against the Jets. Williams will look to become more involved in the offense in a Week 4 matchup with the Panthers. ",
+      "link": "https://www.fantasypros.com/nfl/news/611037/jameson-williams-hauls-four-passes-week-3-win.php",
+      "player_id": 23677,
       "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Tyson Campbell (ankle/hip) officially inactive for Week 3 "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 15:43:40",
-      "created_formated": "Sun, Sep 27th 3:43pm UTC",
-      "desc": "Ed Oliver (hip) is active for Week 3 for the Buffalo Bills against the Los Angeles Chargers according to Cameron Wolfe.",
-      "id": 610945,
-      "impact": "Oliver takes the field after clearing through pregame activities without any setbacks, boosting a Buffalo front seven that will look to disrupt a Chargers offense still looking for some consistency entering the Week 3 contest.",
-      "link": "https://www.fantasypros.com/nfl/news/610945/ed-oliver-hip-active-week-3.php",
-      "player_id": 18202,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Ed Oliver (hip) active for Week 3"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-27 15:43:24",
-      "created_formated": "Sun, Sep 27th 3:43pm UTC",
-      "desc": "Giants RB Devin Singletary is officially inactive for a Week 3 matchup with the Titans. ",
-      "id": 610944,
-      "impact": "Singletary is a healthy inactive for the Giants after averaging just 2.8 yards per carry in the first two games. Najee Harris will serve as the primary backup to Cam Skattebo. ",
-      "link": "https://www.fantasypros.com/nfl/news/610944/devin-singletary-officially-inactive-week-3.php",
-      "player_id": 18280,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Devin Singletary officially inactive for Week 3"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 15:41:14",
-      "created_formated": "Sun, Sep 27th 3:41pm UTC",
-      "desc": "Keon Coleman (ankle) is active for Week 3 for the Buffalo Bills against the Los Angeles Chargers according to Cameron Wolfe.",
-      "id": 610943,
-      "impact": "Coleman will suit up after passing through pregame activities without any issues, joining fellow wideout DJ Moore (shoulder) in returning to a Buffalo passing attack that will look to make some noise against the Chargers Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/610943/keon-coleman-ankle-active-week-3.php",
-      "player_id": 26019,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Keon Coleman (ankle) active for Week 3"
+      "team_id": "DET",
+      "title": "Jameson Williams hauls in four passes in Week 3 win"
     },
     {
       "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-27 15:40:21",
-      "created_formated": "Sun, Sep 27th 3:40pm UTC",
-      "desc": "Jets WR Adonai Mitchell (finger) is officially inactive for Week 3.",
-      "id": 610942,
-      "impact": "Mitchell was listed as questionable to play against the Lions after suffering the injury in practice Thursday. Isaiah Williams will likely see an increased role with Mitchell sidelined. ",
-      "link": "https://www.fantasypros.com/nfl/news/610942/adonai-mitchell-finger-officially-inactive-week-3.php",
-      "player_id": 24357,
+      "created": "2026-09-28 00:42:40",
+      "created_formated": "Mon, Sep 28th 12:42am UTC",
+      "desc": "Amon-Ra St. Brown caught 4-of-8 targets for 19 yards and a touchdown in a 31-24 win over the Jets. ",
+      "id": 611036,
+      "impact": "St. Brown was not able to capitalize on his eight targets, but was able to help salvage the day with a touchdown in the second quarter. St. Brown now has five touchdowns through the first three games of the season and will look to build on a strong start to the season against the Panthers in Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/611036/amon-ra-st-brown-finds-end-zone-week-3-win.php",
+      "player_id": 19799,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Amon-Ra St. Brown finds the end zone in Week 3 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:39:58",
+      "created_formated": "Mon, Sep 28th 12:39am UTC",
+      "desc": "Jahmyr Gibbs rushed for 99 yards and two touchdowns on 20 carries in a 31-24 win over the Jets. He caught 7-of-8 targets for 65 yards and a touchdown. ",
+      "id": 611035,
+      "impact": "Gibbs continues to impress this season, tallying six touchdowns in his first three games of the season. He caught an 11-yard pass in the fourth quarter to put the Lions on top of the Jets to seal the win. Gibbs and the Lions will take on the Panthers in Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/611035/jahmyr-gibbs-tallies-three-touchdowns-week-3-win.php",
+      "player_id": 22968,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Jahmyr Gibbs tallies three touchdowns in Week 3 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:37:36",
+      "created_formated": "Mon, Sep 28th 12:37am UTC",
+      "desc": "Jared Goff completed 25-of-32 passes for 269 yards and two touchdowns in a 31-24 win over the Jets. He also rushed for six yards on four carries. ",
+      "id": 611034,
+      "impact": "Goff found Amon-Ra St. Brown and Jahmyr Gibbs through the air to help pace the Lions to a home win over the Jets. Goff has yet to throw an interception this year and has three straight multi-touchdown games to open the season. The Lions will take on the Panthers on the road in Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/611034/jared-goff-tosses-two-touchdowns-week-3.php",
+      "player_id": 15501,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Jared Goff tosses two touchdowns in Week 3 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:35:39",
+      "created_formated": "Mon, Sep 28th 12:35am UTC",
+      "desc": "The Jets D/ST allowed 31 points, 269 passing yards, and 131 rushing yards in a 31-24 loss to the Lions.",
+      "id": 611033,
+      "impact": "The Jets' defense tallied two sacks of Jared Goff, but failed to force a turnover in the loss. They may have an easier matchup in Week 4 with Caleb Williams (hamstring) unlikely to play for the Bears. ",
+      "link": "https://www.fantasypros.com/nfl/news/611033/jets-dst-allows-31-points-week-3-loss.php",
+      "player_id": 8210,
       "sport_id": "NFL",
       "team_id": "NYJ",
-      "title": "Adonai Mitchell (finger) officially inactive for Week 3"
+      "title": "Jets D/ST allows 31 points in Week 3 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:34:15",
+      "created_formated": "Mon, Sep 28th 12:34am UTC",
+      "desc": "Jason Sanders made his lone field goal attempt and his lone extra point attempt in a 31-24 loss to the Lions.",
+      "id": 611032,
+      "impact": "Sanders connected on a 42-yard field goal attempt in the third quarter. This was Sanders' third straight elevation from the practice squad, so the team will have to sign him to the active roster if they want him to remain the kicker in Week 4 against the Bears. ",
+      "link": "https://www.fantasypros.com/nfl/news/611032/jason-sanders-perfect-week-3-loss.php",
+      "player_id": 17533,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Jason Sanders perfect in Week 3 loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:29:27",
+      "created_formated": "Mon, Sep 28th 12:29am UTC",
+      "desc": "Harrison Butker converted all three of his extra point attempts while missing 1-of-2 field goal attempts to finish with six points in the Chiefs' 24-10 win over the Miami Dolphins in Week 3.",
+      "id": 611031,
+      "impact": "Butker continues a solid start to the season, recording six or more points in each of the first three contests. The kicker remains one of the more stable options in all formats behind a revamped Kansas City offense for head coach Andy Reid, with a Week 4 contest against the Las Vegas Raiders up next.",
+      "link": "https://www.fantasypros.com/nfl/news/611031/harrison-butker-misses-field-goal-week-3.php",
+      "player_id": 16712,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "Harrison Butker misses field goal in Week 3"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:25:08",
+      "created_formated": "Mon, Sep 28th 12:25am UTC",
+      "desc": "Ollie Gordon II carried the ball 17 times for 41 yards and one touchdown while also hauling in all three of his targets for 14 yards in the Dolphins' 24-10 Week 3 loss to the Kansas City Chiefs.",
+      "id": 611030,
+      "impact": "Gordon II took advantage of increased touches with De'Von Achane (knee) exiting early for head coach Jeff Hafley, posting more than three touches for the first time in three contests Sunday. The running back is in line to take over a No. 1 running back role with Achane expected to be sidelined for a significant amount of time according to Hafley, with a tough Week 4 matchup against the Minnesota Vikings up next.",
+      "link": "https://www.fantasypros.com/nfl/news/611030/ollie-gordon-ii-reaches-end-zone-week-3-loss-to-chiefs.php",
+      "player_id": 25984,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Ollie Gordon II reaches end zone in Week 3 loss to Chiefs"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:23:03",
+      "created_formated": "Mon, Sep 28th 12:23am UTC",
+      "desc": "Jeremy Ruckert caught all five of his targets for 39 yards and a touchdown in a 31-24 loss to the Lions.",
+      "id": 611029,
+      "impact": "Ruckert caught a four-yard pass early in the fourth quarter for his first touchdown of the season. The 26-year-old will likely continue to serve as the second tight end as long as Mason Taylor (thumb) is forced to miss time. ",
+      "link": "https://www.fantasypros.com/nfl/news/611029/jeremy-ruckert-finds-end-zone-week-3.php",
+      "player_id": 23742,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Jeremy Ruckert finds the end zone in Week 3 "
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:21:40",
+      "created_formated": "Mon, Sep 28th 12:21am UTC",
+      "desc": "Malik Willis completed 20-of-36 pass attempts for 210 yards and one interception while also rushing nine times for a team-leading 56 yards in the Dolphins' 24-10 loss to the Kansas City Chiefs in Week 3.",
+      "id": 611028,
+      "impact": "Willis has struggled to make an impact behind center early on, passing for less than 230 yards in each of the first three contests. The quarterback's only value remains from a rushing standpoint in a disappointing Dolphins offense for head coach Jeff Hafley, with a Week 4 matchup against a tough Minnesota Vikings defense up next.",
+      "link": "https://www.fantasypros.com/nfl/news/611028/malik-willis-struggles-week-3-loss-to-chiefs.php",
+      "player_id": 23499,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Malik Willis struggles in Week 3 loss to Chiefs"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:18:07",
+      "created_formated": "Mon, Sep 28th 12:18am UTC",
+      "desc": "Malik Washington hauled in five of his team-high 10 targets for 56 yards while also rushing twice for five yards in the Dolphins' 24-10 Week 3 loss to the Kansas City Chiefs.",
+      "id": 611027,
+      "impact": "Washington has made the most of steady involvement as part of an underwhelming Miami passing attack, posting over 40 receiving yards in each of the first three games. The wideout remains another risky option in a disappointing Dolphins offense to this point, with a Week 4 contest against a disruptive Minnesota Vikings defense up next.",
+      "link": "https://www.fantasypros.com/nfl/news/611027/malik-washington-sees-seven-touches-week-3-loss-to-chiefs.php",
+      "player_id": 26314,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Malik Washington sees seven touches in Week 3 loss to Chiefs"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:14:06",
+      "created_formated": "Mon, Sep 28th 12:14am UTC",
+      "desc": "Chris Bell hauled in four of his seven targets for 67 yards in the Dolphins' 24-10 Week 3 loss to the Kansas City Chiefs.",
+      "id": 611026,
+      "impact": "Bell found a way to make an impact, finishing with more than one reception for the first time in three contests Sunday. The wideout remains one of many pass-catchers difficult to trust in the Dolphins offense early on, with a Week 4 matchup against the Minnesota Vikings up next.",
+      "link": "https://www.fantasypros.com/nfl/news/611026/chris-bell-leads-pass-catchers-week-3-loss-to-chiefs.php",
+      "player_id": 26038,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Chris Bell leads pass-catchers in Week 3 loss to Chiefs"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:11:28",
+      "created_formated": "Mon, Sep 28th 12:11am UTC",
+      "desc": "Greg Dulcich caught five of his seven targets for 55 yards in the Dolphins' 24-10 loss to the Kansas City Chiefs in Week 3.",
+      "id": 611025,
+      "impact": "Dulcich has struggled to make an impact in the Miami offense early in the season, finishing with less than 20 receiving yards in two of three contests. The tight end remains one of many risky pass-catching options held back by an underwhelming Dolphins offense to this point, with a Week 4 matchup against the Minnesota Vikings up next.",
+      "link": "https://www.fantasypros.com/nfl/news/611025/greg-dulcich-catches-five-passes-week-3-loss.php",
+      "player_id": 23153,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Greg Dulcich catches five passes in Week 3 loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:07:30",
+      "created_formated": "Mon, Sep 28th 12:07am UTC",
+      "desc": "Kevin Coleman Jr. caught one of his four targets for three yards in the Dolphins' 24-10 loss to the Kansas City Chiefs in Week 3.",
+      "id": 611024,
+      "impact": "Coleman Jr. has been minimally involved in the Miami offense to begin the season, recording a catch for the first time in three contests. The wideout remains one of many underwhelming options in a dismal Dolphins offense to begin the season, with a Week 4 contest against the Minnesota Vikings up next.",
+      "link": "https://www.fantasypros.com/nfl/news/611024/kevin-coleman-jr-catches-one-pass-week-3.php",
+      "player_id": 28067,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Kevin Coleman Jr. catches one pass in Week 3"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:04:19",
+      "created_formated": "Mon, Sep 28th 12:04am UTC",
+      "desc": "Ryan Miller caught two of his three targets for 15 yards in the Dolphins' 24-10 loss to the Kansas City Chiefs in Week 3.",
+      "id": 611023,
+      "impact": "Miller has seen minimal involvement in the Miami offense to begin the season, recording three targets or less in each of the first three contests. The wideout remains best left off rosters in all formats ahead of a Week 4 contest against the Minnesota Vikings.",
+      "link": "https://www.fantasypros.com/nfl/news/611023/ryan-miller-quiet-week-3.php",
+      "player_id": 25857,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Ryan Miller quiet in Week 3"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-28 00:00:50",
+      "created_formated": "Mon, Sep 28th 12:00am UTC",
+      "desc": "Riley Patterson converted his lone field goal attempt as well as his only extra point attempt to finish with four points in the Dolphins' 24-10 loss to the Kansas City Chiefs in Week 3.",
+      "id": 611022,
+      "impact": "Patterson has made the most of his opportunities behind an inconsistent Miami offense to begin the season, recording four or more points in each of the first three contests. The kicker remains difficult to trust behind an offense that will likely be without superstar running back De'Von Achane (knee), with a Week 4 contest against the Minnesota Vikings up next.",
+      "link": "https://www.fantasypros.com/nfl/news/611022/riley-patterson-perfect-week-3.php",
+      "player_id": 23370,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Riley Patterson perfect in Week 3"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-27 23:51:47",
+      "created_formated": "Sun, Sep 27th 11:51pm UTC",
+      "desc": "Kenyon Sadiq caught 7-of-8 targets for 105 yards and a touchdown in a 31-24 loss to the Jets.",
+      "id": 611021,
+      "impact": "Sadiq caught his first NFL touchdown pass on a great catch in the second quarter as he stretched out to haul in the pass in the end zone. The rookie tight end was second on the team in receptions, yards, and targets, just behind Garrett Wilson. Sadiq and the Jets will take on the Bears on the road in Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/611021/kenyon-sadiq-finds-end-zone-week-3-loss.php",
+      "player_id": 26055,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Kenyon Sadiq finds the end zone in Week 3 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-27 23:50:05",
+      "created_formated": "Sun, Sep 27th 11:50pm UTC",
+      "desc": "Isaiah Williams caught 1-of-2 targets for 21 yards in a 31-24 loss to the Lions.",
+      "id": 611020,
+      "impact": "Williams saw a big drop in his target share after logging six targets in Week 2. The performance is disappointing considering the Jets were without Adonai Mitchell. Williams and the Jets will look to bounce back against the Bears in Week 4.  ",
+      "link": "https://www.fantasypros.com/nfl/news/611020/isaiah-williams-hauls-one-pass-week-3-loss.php",
+      "player_id": 26379,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Isaiah Williams hauls in one pass in Week 3 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-27 23:48:30",
+      "created_formated": "Sun, Sep 27th 11:48pm UTC",
+      "desc": "Garrett Wilson caught 10-of-13 targets for 107 yards and a touchdown in a 31-24 loss to the Lions.",
+      "id": 611019,
+      "impact": "Wilson caught a 24-yard strike from Geno Smith in the fourth quarter to tie the game. Fantasy managers will want to monitor Wilson's status early in the week as he did exit with an injury on the final drive. Wilson and the Jets will take on the Bears in Week 4.  ",
+      "link": "https://www.fantasypros.com/nfl/news/611019/garrett-wilson-hauls-10-passes-week-3-loss.php",
+      "player_id": 23072,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Garrett Wilson hauls in 10 passes in Week 3 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-27 23:42:06",
+      "created_formated": "Sun, Sep 27th 11:42pm UTC",
+      "desc": "Braelon Allen rushed for 14 yards on four carries in the 31-24 loss to the Lions. He caught all three of his targets for three yards. ",
+      "id": 611018,
+      "impact": "Allen continued to see limited work Sunday, but he could be in line for more touches in Week 4 if Breece Hall (thigh) misses time. Hall was injured late in the game and will likely undergo testing Monday to determine the severity of the injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/611018/braelon-allen-tallies-seven-touches-week-3.php",
+      "player_id": 24346,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Braelon Allen tallies seven touches in Week 3 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-09-27 23:39:55",
+      "created_formated": "Sun, Sep 27th 11:39pm UTC",
+      "desc": "Geno Smith completed 31-of-37 passes for 321 yards and three touchdowns in a 31-24 loss to the Lions. He added 12 rushing yards on two carries. ",
+      "id": 611017,
+      "impact": "Smith was excellent in a near upset of the Lions on the road. The veteran fumbled late in the fourth quarter, which allowed the Lions to seal the win. Smith was able to connect with Garrett Wilson, Kenyon Sadiq, and Jeremy Ruckert on his three touchdown passes. The Jets will head to Chicago to take on the Bears in Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/611017/geno-smith-tosses-three-touchdown-week-3-loss.php",
+      "player_id": 11687,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Geno Smith tosses three touchdown in Week 3 loss"
     },
     {
       "author": "Chris Schommer",
@@ -225,177 +442,16 @@
         "Injury",
         "Breaking"
       ],
-      "created": "2026-09-27 15:37:38",
-      "created_formated": "Sun, Sep 27th 3:37pm UTC",
-      "desc": "DJ Moore (shoulder) is officially active for Week 3 for the Buffalo Bills against the Los Angeles Chargers according to Ian Rapoport.",
-      "id": 610941,
-      "impact": "Moore is good to go after not battling any setbacks during pregame activities, boosting a Buffalo passing attack that will look to push the envelope against the Chargers Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/610941/dj-moore-shoulder-active-week-3.php",
-      "player_id": 17265,
+      "created": "2026-09-27 23:22:29",
+      "created_formated": "Sun, Sep 27th 11:22pm UTC",
+      "desc": "Baker Mayfield (thumb) exited Sunday's contest between the Tampa Bay Buccaneers and Minnesota Vikings with an apparent thumb injury according to Rick Stroud.",
+      "id": 611016,
+      "impact": "Mayfield headed to the locker room after suffering the injury late in the fourth quarter, completing 17-of-34 pass attempts for 217 yards, one touchdown, and one interception prior to exiting. Jalon Daniels takes over behind center for head coach Todd Bowles.",
+      "link": "https://www.fantasypros.com/nfl/news/611016/baker-mayfield-thumb-exits-early-sunday.php",
+      "player_id": 17237,
       "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "DJ Moore (shoulder) active for Week 3"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 15:36:36",
-      "created_formated": "Sun, Sep 27th 3:36pm UTC",
-      "desc": "Patriots TE Eli Raridon (thigh) is officially inactive for a Week 3 matchup with the Jaguars.",
-      "id": 610940,
-      "impact": "Raridon injured his thigh in Week 2 and was considered questionable to play Sunday. With Raridon out, Hunter Henry should see even more playing time against Jacksonville. ",
-      "link": "https://www.fantasypros.com/nfl/news/610940/eli-raridon-thigh-officially-inactive-week-3.php",
-      "player_id": 28154,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Eli Raridon (thigh) officially inactive for Week 3 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 15:34:19",
-      "created_formated": "Sun, Sep 27th 3:34pm UTC",
-      "desc": "Titans RB Tyjae Spears (ankle) is officially active for a Week 3 matchup with the Giants.",
-      "id": 610939,
-      "impact": "Spears was listed as questionable to play Sunday, but was able to return and practice Friday. He should be expected to split time with Tony Pollard against the Giants. ",
-      "link": "https://www.fantasypros.com/nfl/news/610939/tyjae-spears-ankle-officially-active-week-3.php",
-      "player_id": 25323,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tyjae Spears (ankle) officially active for Week 3 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 15:31:25",
-      "created_formated": "Sun, Sep 27th 3:31pm UTC",
-      "desc": "Giants DE Brian Burns (ankle) is officially active for a Week 3 matchup with the Titans.",
-      "id": 610938,
-      "impact": "Burns did not practice at all this week after suffering a sprained ankle Monday night against the Rams. His ability to play against Tennessee will provide the Giants' defense with a big boost in their pass rush. ",
-      "link": "https://www.fantasypros.com/nfl/news/610938/brian-burns-ankle-officially-active-week-3.php",
-      "player_id": 18223,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Brian Burns (ankle) officially active for Week 3 "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 11:48:28",
-      "created_formated": "Sun, Sep 27th 11:48am UTC",
-      "desc": "Brock Bowers (knee) is expected to play on Sunday against the Saints barring a surprise setback.",
-      "id": 610900,
-      "impact": "Bowers has been out for the first two weeks of the season after undergoing a meniscus trim surgery, but it looks like he will be back for Sunday. Start him in all formats, but temper expectations as he could start off a little slow.",
-      "link": "https://www.fantasypros.com/nfl/news/610900/brock-bowers-knee-expected-to-play-on-sunday.php",
-      "player_id": 22955,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Brock Bowers (knee) expected to play on Sunday"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-27 11:35:37",
-      "created_formated": "Sun, Sep 27th 11:35am UTC",
-      "desc": "Michael Pittman Jr. (foot) is expected to play on Sunday against the Bengals after being considered questionable with a foot injury.",
-      "id": 610897,
-      "impact": "Pittman should give Aaron Rodgers a reliable possession receiver over the middle of the field, opening things up for the offense. Germie Bernard tried to play that role last week, but didn't quite have the same fluidity as Pittman. He should be a decent WR3 with upside.",
-      "link": "https://www.fantasypros.com/nfl/news/610897/michael-pittman-jr-foot-expected-to-play-on-sunday-against-cincy.php",
-      "player_id": 19278,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Michael Pittman Jr. (foot) expected to play on Sunday against Cincy"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-26 21:42:08",
-      "created_formated": "Sat, Sep 26th 9:42pm UTC",
-      "desc": "The Packers signed G Laken Tomlinson.",
-      "id": 610849,
-      "impact": "Tomlinson will add depth to a banged up Packers offensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/610849/laken-tomlinson-signs-with-packers.php",
-      "player_id": 14043,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Laken Tomlinson signs with Packers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-26 21:41:09",
-      "created_formated": "Sat, Sep 26th 9:41pm UTC",
-      "desc": "The Cowboys placed S P.J. Locke on injured reserve.",
-      "id": 610848,
-      "impact": "Locke will miss at least the next four games. ",
-      "link": "https://www.fantasypros.com/nfl/news/610848/pj-locke-foot-placed-on-ir.php",
-      "player_id": 18781,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "P.J. Locke (foot) placed on IR "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-26 21:40:17",
-      "created_formated": "Sat, Sep 26th 9:40pm UTC",
-      "desc": "Caleb Williams has been ruled out for Monday's game against the Eagles. ",
-      "id": 610847,
-      "impact": "Williams was never expected to play this week after going down with his injury last week. It will be Tyson Bagent or Case Keenum starting on Monday. ",
-      "link": "https://www.fantasypros.com/nfl/news/610847/caleb-williams-hamstring-ruled-out-monday.php",
-      "player_id": 23084,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Caleb Williams (hamstring) ruled out Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-26 21:39:10",
-      "created_formated": "Sat, Sep 26th 9:39pm UTC",
-      "desc": "The Broncos placed RB Jonah Coleman on injured reserve.",
-      "id": 610846,
-      "impact": "Coleman had already been ruled out for this week's game. He will now miss at least the next four games. J.K. Dobbins and RJ Harvey will continue to lead the Broncos backfield. ",
-      "link": "https://www.fantasypros.com/nfl/news/610846/jonah-coleman-ankle-placed-on-ir.php",
-      "player_id": 27320,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Jonah Coleman (ankle) placed on IR"
+      "team_id": "TB",
+      "title": "Baker Mayfield (thumb) exits early Sunday "
     }
   ],
   "public_api_limited": true,
