@@ -122,19 +122,31 @@ def _load_current_points() -> tuple[dict[str, dict[str, Any]], int, int]:
                     except (TypeError, ValueError):
                         pass
 
-            points = _float(record.get("points"))
+            season_points = _float(record.get("points"))
             games = _float(record.get("games"))
-            if points is None:
-                points = 0.0
+            average = _float(record.get("average"))
+            if season_points is None:
+                season_points = 0.0
             if games is None:
                 games = 0.0
+            if average is None:
+                average = season_points / games if games > 0 else 0.0
+
+            weekly_values: list[float] = []
+            if isinstance(weeks, dict):
+                for raw_value in weeks.values():
+                    value = _float(raw_value)
+                    if value is not None:
+                        weekly_values.append(value)
 
             avi_id = str(registry_player.get("avi_id"))
             by_avi[avi_id] = {
                 "avi_id": avi_id,
                 "position": str(registry_player.get("position") or position).upper(),
-                "raw_points": points,
+                "raw_points": average,
+                "season_points": season_points,
                 "games": games,
+                "weekly_ceiling": max(weekly_values) if weekly_values else 0.0,
             }
             mapped_records += 1
 
@@ -183,6 +195,7 @@ def _fresh_completed_week_available(
 
 
 def _player_point_components(points: dict[str, dict[str, Any]]) -> dict[str, float]:
+    """Score actual season production by PPR points per game within position."""
     fields: dict[str, list[float]] = {}
     for record in points.values():
         fields.setdefault(record["position"], []).append(float(record["raw_points"]))
@@ -195,11 +208,25 @@ def _player_point_components(points: dict[str, dict[str, Any]]) -> dict[str, flo
     return result
 
 
+def _weekly_ceiling_components(points: dict[str, dict[str, Any]]) -> dict[str, float]:
+    """Score each player's best completed-week PPR output within position."""
+    fields: dict[str, list[float]] = {}
+    for record in points.values():
+        fields.setdefault(record["position"], []).append(float(record.get("weekly_ceiling") or 0.0))
+
+    result: dict[str, float] = {}
+    for avi_id, record in points.items():
+        field = fields.get(record["position"], [])
+        if field:
+            result[avi_id] = round(percentile_score(float(record.get("weekly_ceiling") or 0.0), field), 1)
+    return result
+
+
 def apply_in_season_transition() -> dict[str, Any]:
     """Transition C-AVI globally from preseason to the approved in-season mix.
 
-    The base 2026.2 model defines the in-season C-AVI weights as 10% actual
-    player points, 40% refreshed projections, 10% league context, 30% public
+    The 2026.3 model defines the in-season C-AVI weights as 25% actual
+    player production, 30% refreshed projections, 10% league context, 25% public
     market, and 10% elite upside. The transition activates immediately after a
     completed current-season week is verified. Sleeper advancing to the next
     week is accepted, but is no longer required: ESPN's NFL scoreboard can
@@ -249,6 +276,7 @@ def apply_in_season_transition() -> dict[str, Any]:
         raise RuntimeError("AVI players file must contain a list.")
 
     point_components = _player_point_components(points)
+    weekly_ceiling_components = _weekly_ceiling_components(points)
     changed = 0
     for player in players:
         if not isinstance(player, dict):
@@ -265,8 +293,9 @@ def apply_in_season_transition() -> dict[str, Any]:
         projection = _float(components.get("projection"))
         context = _float(components.get("league_context"))
         market = _float(components.get("public_market"))
-        upside = _float(components.get("elite_upside"))
-        if None in {projection, context, market, upside}:
+        existing_upside = _float(components.get("elite_upside"))
+        upside = weekly_ceiling_components.get(avi_id, existing_upside if existing_upside is not None else 0.0)
+        if None in {projection, context, market}:
             continue
 
         new_cavi = calculate_c_avi(
@@ -282,10 +311,14 @@ def apply_in_season_transition() -> dict[str, Any]:
         player["c_avi"] = new_cavi
         components["player_points"] = actual_component
         point_record = points.get(avi_id)
+        components["elite_upside"] = upside
         player["in_season_player_points"] = {
-            "raw_points": round(float(point_record["raw_points"]), 2) if point_record else 0.0,
+            "ppr_points_per_game": round(float(point_record["raw_points"]), 2) if point_record else 0.0,
+            "season_points": round(float(point_record.get("season_points") or 0.0), 2) if point_record else 0.0,
             "games": int(float(point_record["games"])) if point_record else 0,
             "component_score": actual_component,
+            "weekly_ceiling_points": round(float(point_record.get("weekly_ceiling") or 0.0), 2) if point_record else 0.0,
+            "weekly_ceiling_component": upside,
             "completed_through_week": completed_through,
             "source": "FantasyPros current-season player points",
         }
@@ -310,17 +343,18 @@ def apply_in_season_transition() -> dict[str, Any]:
             )
         )
         player["season_phase"] = "regular_season"
-        player["methodology_status"] = "active_2026_2_in_season"
+        player["methodology_status"] = "active_2026_3_in_season"
         changed += 1
 
     manifest["season_phase"] = "regular_season"
     manifest["player_points_active"] = True
-    manifest["methodology_status"] = "active_2026_2_in_season"
+    manifest["methodology_status"] = "active_2026_3_in_season"
+    manifest["methodology_version"] = "2026.3"
     manifest["c_avi_weights"] = {
-        "player_points": 0.10,
-        "projections": 0.40,
+        "player_points": 0.25,
+        "projections": 0.30,
         "league_context": 0.10,
-        "public_market": 0.30,
+        "public_market": 0.25,
         "elite_upside": 0.10,
     }
 
