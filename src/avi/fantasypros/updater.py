@@ -320,7 +320,7 @@ def update(config: AviConfig) -> dict[str, Any]:
         "player_points": {
             "collected": True,
             "preseason_weight": 0.0,
-            "in_season_weight": 0.10,
+            "in_season_weight": 0.25,
             "currently_used_in_c_avi": False,
         },
         "warnings": warnings,
