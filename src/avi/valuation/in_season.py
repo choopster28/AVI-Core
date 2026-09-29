@@ -30,7 +30,7 @@ def _float(value: Any) -> float | None:
 
 
 def _get_json(url: str) -> dict[str, Any]:
-    request = Request(url, headers={"User-Agent": "AVI-Core/2026.2"})
+    request = Request(url, headers={"User-Agent": "AVI-Core/2026.3"})
     with urlopen(request, timeout=15) as response:
         payload = json.loads(response.read().decode("utf-8"))
     return payload if isinstance(payload, dict) else {}
