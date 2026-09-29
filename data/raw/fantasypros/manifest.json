@@ -1,10 +1,10 @@
 {
-  "downloaded_at_utc": "2026-09-29T18:05:26.445606+00:00",
+  "downloaded_at_utc": "2026-09-29T20:10:25.496215+00:00",
   "methodology_version": "2026.2",
   "player_points": {
     "collected": true,
     "currently_used_in_c_avi": false,
-    "in_season_weight": 0.1,
+    "in_season_weight": 0.25,
     "preseason_weight": 0.0
   },
   "request_budget": {
@@ -13,7 +13,7 @@
   },
   "scoring": "PPR",
   "season": 2026,
-  "snapshot_id": "2026-09-29T18-05-26Z",
+  "snapshot_id": "2026-09-29T20-10-25Z",
   "status": "passed",
   "warnings": [
     "FantasyPros player directory refresh was implausibly small (0 total / 0 offensive); preserved last-known-good directory (522 total / 489 offensive)."

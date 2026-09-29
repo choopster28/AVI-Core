@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 528.8
-- championship_lineup_c_avi_avg: 66.10
-- offensive_roster_c_avi_sum: 939.9
-- offensive_roster_c_avi_avg: 58.74
-- offensive_roster_d_avi_sum: 1072.7
-- offensive_roster_d_avi_avg: 67.04
+- championship_lineup_c_avi_sum: 559.8
+- championship_lineup_c_avi_avg: 69.97
+- offensive_roster_c_avi_sum: 1029.0
+- offensive_roster_c_avi_avg: 64.31
+- offensive_roster_d_avi_sum: 1087.4
+- offensive_roster_d_avi_avg: 67.96
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jordan Love | C-AVI: 58.6 | D-AVI: 70.9
-- RB: Bhayshul Tuten | C-AVI: 75.0 | D-AVI: 79.7
-- RB: RJ Harvey | C-AVI: 65.1 | D-AVI: 75.3
-- WR: Stefon Diggs | C-AVI: 68.2 | D-AVI: 67.0
-- WR: Jordan Addison | C-AVI: 66.7 | D-AVI: 77.4
-- TE: Kenyon Sadiq | C-AVI: 71.6 | D-AVI: 80.4
-- FLEX: T.J. Hockenson | C-AVI: 63.4 | D-AVI: 66.2
-- FLEX: Xavier Worthy | C-AVI: 60.2 | D-AVI: 71.5
+- QB: Jordan Love | C-AVI: 60.4 | D-AVI: 71.2
+- RB: Bhayshul Tuten | C-AVI: 78.5 | D-AVI: 80.3
+- RB: RJ Harvey | C-AVI: 69.6 | D-AVI: 76.0
+- WR: Stefon Diggs | C-AVI: 75.6 | D-AVI: 68.2
+- WR: Jordan Addison | C-AVI: 71.5 | D-AVI: 78.2
+- TE: Kenyon Sadiq | C-AVI: 72.0 | D-AVI: 80.5
+- FLEX: T.J. Hockenson | C-AVI: 66.2 | D-AVI: 66.7
+- FLEX: Xavier Worthy | C-AVI: 66.0 | D-AVI: 72.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 58.6
-- Dynasty AVI (D-AVI, 0-100): 70.9
+- Championship AVI (C-AVI, 0-100): 60.4
+- Dynasty AVI (D-AVI, 0-100): 71.2
 - Projected PPR points: 277.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 57.0
-- Dynasty AVI (D-AVI, 0-100): 67.0
+- Championship AVI (C-AVI, 0-100): 59.1
+- Dynasty AVI (D-AVI, 0-100): 67.3
 - Projected PPR points: 274.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 75.0
-- Dynasty AVI (D-AVI, 0-100): 79.7
+- Championship AVI (C-AVI, 0-100): 78.5
+- Dynasty AVI (D-AVI, 0-100): 80.3
 - Projected PPR points: 188.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -104,26 +104,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 65.1
-- Dynasty AVI (D-AVI, 0-100): 75.3
+- Championship AVI (C-AVI, 0-100): 69.6
+- Dynasty AVI (D-AVI, 0-100): 76.0
 - Projected PPR points: 162.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Kenny Gainwell
-- Player name: Kenny Gainwell
-- Player ID: 7567
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: TB
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 51.0
-- Dynasty AVI (D-AVI, 0-100): 66.9
-- Projected PPR points: 154.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -138,9 +121,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 49.8
-- Dynasty AVI (D-AVI, 0-100): 52.3
+- Championship AVI (C-AVI, 0-100): 58.6
+- Dynasty AVI (D-AVI, 0-100): 53.7
 - Projected PPR points: 132.6
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Kenny Gainwell
+- Player name: Kenny Gainwell
+- Player ID: 7567
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: TB
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 56.8
+- Dynasty AVI (D-AVI, 0-100): 67.9
+- Projected PPR points: 154.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 76.1
-- Dynasty AVI (D-AVI, 0-100): 77.3
+- Championship AVI (C-AVI, 0-100): 80.7
+- Dynasty AVI (D-AVI, 0-100): 78.1
 - Projected PPR points: 199.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 68.2
-- Dynasty AVI (D-AVI, 0-100): 67.0
+- Championship AVI (C-AVI, 0-100): 75.6
+- Dynasty AVI (D-AVI, 0-100): 68.2
 - Projected PPR points: 164.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 66.7
-- Dynasty AVI (D-AVI, 0-100): 77.4
+- Championship AVI (C-AVI, 0-100): 71.5
+- Dynasty AVI (D-AVI, 0-100): 78.2
 - Projected PPR points: 174.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 60.2
-- Dynasty AVI (D-AVI, 0-100): 71.5
+- Championship AVI (C-AVI, 0-100): 66.0
+- Dynasty AVI (D-AVI, 0-100): 72.5
 - Projected PPR points: 164.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.1
-- Dynasty AVI (D-AVI, 0-100): 49.2
+- Championship AVI (C-AVI, 0-100): 60.3
+- Dynasty AVI (D-AVI, 0-100): 50.9
 - Projected PPR points: 115.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,26 +240,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 47.1
-- Dynasty AVI (D-AVI, 0-100): 59.9
+- Championship AVI (C-AVI, 0-100): 55.0
+- Dynasty AVI (D-AVI, 0-100): 61.2
 - Projected PPR points: 153.2
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jerry Jeudy
-- Player name: Jerry Jeudy
-- Player ID: 6783
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CLE
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 40.8
-- Dynasty AVI (D-AVI, 0-100): 57.1
-- Projected PPR points: 149.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -274,9 +257,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 39.2
-- Dynasty AVI (D-AVI, 0-100): 54.6
+- Championship AVI (C-AVI, 0-100): 49.8
+- Dynasty AVI (D-AVI, 0-100): 56.3
 - Projected PPR points: 70.9
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Jerry Jeudy
+- Player name: Jerry Jeudy
+- Player ID: 6783
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CLE
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 48.9
+- Dynasty AVI (D-AVI, 0-100): 58.4
+- Projected PPR points: 149.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 71.6
-- Dynasty AVI (D-AVI, 0-100): 80.4
+- Championship AVI (C-AVI, 0-100): 72.0
+- Dynasty AVI (D-AVI, 0-100): 80.5
 - Projected PPR points: 129.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 63.4
-- Dynasty AVI (D-AVI, 0-100): 66.2
+- Championship AVI (C-AVI, 0-100): 66.2
+- Dynasty AVI (D-AVI, 0-100): 66.7
 - Projected PPR points: 139.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

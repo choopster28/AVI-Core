@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 432.6
-- championship_lineup_c_avi_avg: 61.80
-- offensive_roster_c_avi_sum: 694.4
-- offensive_roster_c_avi_avg: 49.60
-- offensive_roster_d_avi_sum: 818.5
-- offensive_roster_d_avi_avg: 58.46
+- championship_lineup_c_avi_sum: 468.7
+- championship_lineup_c_avi_avg: 66.96
+- offensive_roster_c_avi_sum: 774.7
+- offensive_roster_c_avi_avg: 55.34
+- offensive_roster_d_avi_sum: 831.9
+- offensive_roster_d_avi_avg: 59.42
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- RB: Rachaad White | C-AVI: 62.5 | D-AVI: 66.4
-- RB: Jacory Croskey-Merritt | C-AVI: 59.5 | D-AVI: 67.6
-- WR: Antonio Williams | C-AVI: 51.4 | D-AVI: 65.6
-- WR: Cooper Kupp | C-AVI: 51.4 | D-AVI: 47.9
-- TE: George Kittle | C-AVI: 91.3 | D-AVI: 82.5
-- FLEX: Brenton Strange | C-AVI: 65.3 | D-AVI: 75.2
-- FLEX: Keaton Mitchell | C-AVI: 51.2 | D-AVI: 58.8
+- RB: Rachaad White | C-AVI: 68.4 | D-AVI: 67.4
+- RB: Jacory Croskey-Merritt | C-AVI: 65.2 | D-AVI: 68.6
+- WR: Cooper Kupp | C-AVI: 61.0 | D-AVI: 49.5
+- WR: Antonio Williams | C-AVI: 58.9 | D-AVI: 66.8
+- TE: George Kittle | C-AVI: 89.7 | D-AVI: 82.3
+- FLEX: Brenton Strange | C-AVI: 66.4 | D-AVI: 75.4
+- FLEX: Keaton Mitchell | C-AVI: 59.1 | D-AVI: 60.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -52,7 +52,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 61.9
+- Championship AVI (C-AVI, 0-100): 62.2
 - Dynasty AVI (D-AVI, 0-100): 74.7
 - Projected PPR points: 300.7
 - Category: offense
@@ -103,8 +103,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 62.5
-- Dynasty AVI (D-AVI, 0-100): 66.4
+- Championship AVI (C-AVI, 0-100): 68.4
+- Dynasty AVI (D-AVI, 0-100): 67.4
 - Projected PPR points: 152.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -120,8 +120,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 59.5
-- Dynasty AVI (D-AVI, 0-100): 67.6
+- Championship AVI (C-AVI, 0-100): 65.2
+- Dynasty AVI (D-AVI, 0-100): 68.6
 - Projected PPR points: 146.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -137,8 +137,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 51.2
-- Dynasty AVI (D-AVI, 0-100): 58.8
+- Championship AVI (C-AVI, 0-100): 59.1
+- Dynasty AVI (D-AVI, 0-100): 60.1
 - Projected PPR points: 79.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -154,8 +154,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 30.2
-- Dynasty AVI (D-AVI, 0-100): 53.0
+- Championship AVI (C-AVI, 0-100): 39.3
+- Dynasty AVI (D-AVI, 0-100): 54.5
 - Projected PPR points: 22.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -171,26 +171,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 68.7
-- Dynasty AVI (D-AVI, 0-100): 76.0
+- Championship AVI (C-AVI, 0-100): 74.6
+- Dynasty AVI (D-AVI, 0-100): 77.0
 - Projected PPR points: 144.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Antonio Williams
-- Player name: Antonio Williams
-- Player ID: 13301
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: WAS
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 51.4
-- Dynasty AVI (D-AVI, 0-100): 65.6
-- Projected PPR points: 82.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -205,9 +188,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 51.4
-- Dynasty AVI (D-AVI, 0-100): 47.9
+- Championship AVI (C-AVI, 0-100): 61.0
+- Dynasty AVI (D-AVI, 0-100): 49.5
 - Projected PPR points: 143.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Antonio Williams
+- Player name: Antonio Williams
+- Player ID: 13301
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: WAS
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 58.9
+- Dynasty AVI (D-AVI, 0-100): 66.8
+- Projected PPR points: 82.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -222,8 +222,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 40.6
-- Dynasty AVI (D-AVI, 0-100): 54.1
+- Championship AVI (C-AVI, 0-100): 50.3
+- Dynasty AVI (D-AVI, 0-100): 55.7
 - Projected PPR points: 78.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -239,8 +239,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 35.9
-- Dynasty AVI (D-AVI, 0-100): 56.6
+- Championship AVI (C-AVI, 0-100): 44.4
+- Dynasty AVI (D-AVI, 0-100): 58.0
 - Projected PPR points: 118.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -256,8 +256,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 24.5
-- Dynasty AVI (D-AVI, 0-100): 40.1
+- Championship AVI (C-AVI, 0-100): 35.2
+- Dynasty AVI (D-AVI, 0-100): 41.9
 - Projected PPR points: 86.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -273,8 +273,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 91.3
-- Dynasty AVI (D-AVI, 0-100): 82.5
+- Championship AVI (C-AVI, 0-100): 89.7
+- Dynasty AVI (D-AVI, 0-100): 82.3
 - Projected PPR points: 192.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -290,8 +290,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 65.3
-- Dynasty AVI (D-AVI, 0-100): 75.2
+- Championship AVI (C-AVI, 0-100): 66.4
+- Dynasty AVI (D-AVI, 0-100): 75.4
 - Projected PPR points: 153.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

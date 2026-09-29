@@ -53,7 +53,7 @@
       "player_name": "Odell Beckham Jr.",
       "points": 0,
       "position_id": "WR",
-      "team_id": "NYG",
+      "team_id": "FA",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -2879,7 +2879,7 @@
       "player_name": "Ke'Shawn Williams",
       "points": -2,
       "position_id": "WR",
-      "team_id": "CIN",
+      "team_id": "FA",
       "weeks": {
         "3": -2
       }
