@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-09-28
+- Last updated from Sleeper exports: 2026-09-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 646.0
-- championship_lineup_c_avi_avg: 80.75
-- offensive_roster_c_avi_sum: 890.2
-- offensive_roster_c_avi_avg: 63.59
-- offensive_roster_d_avi_sum: 945.6
-- offensive_roster_d_avi_avg: 67.54
+- championship_lineup_c_avi_sum: 646.1
+- championship_lineup_c_avi_avg: 80.76
+- offensive_roster_c_avi_sum: 901.2
+- offensive_roster_c_avi_avg: 64.37
+- offensive_roster_d_avi_sum: 977.1
+- offensive_roster_d_avi_avg: 69.79
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 78.8 | D-AVI: 79.9
-- RB: D'Andre Swift | C-AVI: 78.0 | D-AVI: 81.9
-- RB: Zach Charbonnet | C-AVI: 48.7 | D-AVI: 67.6
+- RB: D'Andre Swift | C-AVI: 78.1 | D-AVI: 82.1
+- RB: Zach Charbonnet | C-AVI: 48.7 | D-AVI: 67.5
 - WR: Amon-Ra St. Brown | C-AVI: 99.0 | D-AVI: 99.0
 - WR: Justin Jefferson | C-AVI: 97.3 | D-AVI: 96.9
 - TE: Dallas Goedert | C-AVI: 83.3 | D-AVI: 78.4
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 78.0
-- Dynasty AVI (D-AVI, 0-100): 81.9
+- Championship AVI (C-AVI, 0-100): 78.1
+- Dynasty AVI (D-AVI, 0-100): 82.1
 - Projected PPR points: 224.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -105,25 +105,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 48.7
-- Dynasty AVI (D-AVI, 0-100): 67.6
+- Dynasty AVI (D-AVI, 0-100): 67.5
 - Projected PPR points: 116.8
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Chris Brooks
-- Player name: Chris Brooks
-- Player ID: 11370
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 35.4
-- Dynasty AVI (D-AVI, 0-100): 42.3
-- Projected PPR points: 83.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 
@@ -138,9 +121,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 25.6
-- Dynasty AVI (D-AVI, 0-100): 26.9
+- Championship AVI (C-AVI, 0-100): 37.7
+- Dynasty AVI (D-AVI, 0-100): 62.0
 - Projected PPR points: 43.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_2
+
+### PLAYER: Chris Brooks
+- Player name: Chris Brooks
+- Player ID: 11370
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 34.2
+- Dynasty AVI (D-AVI, 0-100): 38.6
+- Projected PPR points: 83.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
 

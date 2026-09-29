@@ -3,22 +3,41 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-09-28 14:37:58",
+      "created_formated": "Mon, Sep 28th 2:37pm UTC",
+      "desc": "De'Von Achane (knee) suffered a season ending torn ACL against the Chiefs.",
+      "id": 611244,
+      "impact": "Achane went down early in the Dolphins contest against Kansas City, with Ollie Gordon filling in as the primary rusher in his absence. Gordon is now a primary pickup for fantasy, and Jaylen Wright is worth a pickup as well.",
+      "link": "https://www.fantasypros.com/nfl/news/611244/devon-achane-knee-suffers-season-ending-torn-acl.php",
+      "player_id": 23136,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "De'Von Achane (knee) suffers season-ending torn ACL"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-28 18:38:59",
-      "created_formated": "Mon, Sep 28th 6:38pm UTC",
-      "desc": "Jalen McMillan is having an MRI on his left knee.",
-      "id": 611304,
-      "impact": "McMillan suffered a knee injury in the first quarter of Sunday's loss to the Vikings. He remains off the fantasy radar in his current role when he is healthy. ",
-      "link": "https://www.fantasypros.com/nfl/news/611304/jalen-mcmillan-knee-to-undergo-mri.php",
+      "created": "2026-09-28 23:32:19",
+      "created_formated": "Mon, Sep 28th 11:32pm UTC",
+      "desc": "Buccaneers WR Jalen McMillan is believed to have suffered re-aggravation of injury from camp and will receive a second opinion. ",
+      "id": 611371,
+      "impact": "McMillan suffered the initial injury in camp to his left knee. It appears he will miss an extended period of time. There should be an update on his status later in the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/611371/jalen-mcmillan-knee-to-seek-second-opinion.php",
       "player_id": 23179,
       "sport_id": "NFL",
       "team_id": "TB",
-      "title": "Jalen McMillan (knee) to undergo MRI"
+      "title": "Jalen McMillan (knee) to seek second opinion "
     },
     {
       "author": "Ari Koslow",
@@ -27,16 +46,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-28 18:37:50",
-      "created_formated": "Mon, Sep 28th 6:37pm UTC",
-      "desc": "Cowboys EVP Stephen Jones said Jalen Thompson will miss \"four-plus weeks.\"",
-      "id": 611303,
-      "impact": "Thompson will be placed on injured reserve. He remains without a clear timetable to return. ",
-      "link": "https://www.fantasypros.com/nfl/news/611303/jalen-thompson-hamstring-to-miss-least-four-weeks.php",
-      "player_id": 19108,
+      "created": "2026-09-28 23:19:14",
+      "created_formated": "Mon, Sep 28th 11:19pm UTC",
+      "desc": "Rico Dowdle is listed as a DNP on Monday's estimated practice report. ",
+      "id": 611370,
+      "impact": "Dowdle was sidelined this past week. He is likely to remain sidelined for the Steelers on a short week against the Browns. Jaylen Warren would remain the clear lead back for Pittsburgh. ",
+      "link": "https://www.fantasypros.com/nfl/news/611370/rico-dowdle-toe-listed-dnp-on-mondays-estimated-practice-report.php",
+      "player_id": 19647,
       "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Jalen Thompson (hamstring) to miss at least four weeks"
+      "team_id": "PIT",
+      "title": "Rico Dowdle (toe) listed as 'DNP' on Monday's estimated practice report"
     },
     {
       "author": "Ari Koslow",
@@ -45,16 +64,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-28 18:36:14",
-      "created_formated": "Mon, Sep 28th 6:36pm UTC",
-      "desc": "Panthers coach Dave Canales said Bryce Young (leg) will undergo imaging \"just to make sure\" on Monday.",
-      "id": 611302,
-      "impact": "Young took a cleat to the leg, but he was able to finish Sunday's game against the Browns. It doesn't appear to be anything too serious, but it's still worth monitoring. ",
-      "link": "https://www.fantasypros.com/nfl/news/611302/bryce-young-leg-to-undergo-imaging.php",
-      "player_id": 22900,
+      "created": "2026-09-28 23:17:51",
+      "created_formated": "Mon, Sep 28th 11:17pm UTC",
+      "desc": "Browns OL Elgton Jenkins was listed as \"DNP\" on Monday's estimated practice report.",
+      "id": 611369,
+      "impact": "It is a short week for Cleveland playing its division rival Steelers on Thursday. The status of Jenkins will need to be monitored the next couple of days. ",
+      "link": "https://www.fantasypros.com/nfl/news/611369/elgton-jenkins-concussion-listed-dnp-on-mondays-practice-report.php",
+      "player_id": 18242,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Bryce Young (leg) to undergo imaging "
+      "team_id": "CLE",
+      "title": "Elgton Jenkins (concussion) listed as DNP on Monday's practice report"
     },
     {
       "author": "Ari Koslow",
@@ -63,16 +82,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-28 18:34:23",
-      "created_formated": "Mon, Sep 28th 6:34pm UTC",
-      "desc": "Vikings TE Josh Oliver will undergo surgery to repair a torn biceps.",
-      "id": 611301,
-      "impact": "It's likely a season-ending injury for Oliver. He was primarily a blocking tight end for Minnesota. ",
-      "link": "https://www.fantasypros.com/nfl/news/611301/josh-oliver-to-undergo-surgery-to-repair-torn-biceps.php",
-      "player_id": 18487,
+      "created": "2026-09-28 23:15:48",
+      "created_formated": "Mon, Sep 28th 11:15pm UTC",
+      "desc": "Browns OL Teven Jenkins was listed as \"DNP\" on Monday's estimated practice report.",
+      "id": 611368,
+      "impact": "It is a short week for Cleveland playing its division rival Steelers on Thursday. The status of Jenkins will need to be monitored the next couple of days. ",
+      "link": "https://www.fantasypros.com/nfl/news/611368/teven-jenkins-back-listed-dnp-on-mondays-estimated-practice-report.php",
+      "player_id": 22755,
       "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Josh Oliver to undergo surgery to repair torn biceps "
+      "team_id": "CLE",
+      "title": "Teven Jenkins (back) listed as DNP on Monday's estimated practice report"
     },
     {
       "author": "Ari Koslow",
@@ -81,16 +100,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-28 18:32:28",
-      "created_formated": "Mon, Sep 28th 6:32pm UTC",
-      "desc": "Packers head coach Matt LaFleur said Micah Parsons will not practice this week.",
-      "id": 611300,
-      "impact": "Parsons is not ready to return to the field quite yet. LaFleur said that Parsons has not suffered any setbacks in his recovery. His 21-day practice window can be opened at any point. ",
-      "link": "https://www.fantasypros.com/nfl/news/611300/micah-parsons-knee-will-not-practice-this-week.php",
-      "player_id": 19784,
+      "created": "2026-09-28 23:15:02",
+      "created_formated": "Mon, Sep 28th 11:15pm UTC",
+      "desc": "Rams TE Colby Parkinson is considered day-to-day with an AC sprain. ",
+      "id": 611367,
+      "impact": "Parkinson suffered the injury in Sunday's loss against the Broncos. Terrance Ferguson is also likely to miss Week 4 due to an ankle injury. Tyler Higbee could be in line for an increased role for the Rams. ",
+      "link": "https://www.fantasypros.com/nfl/news/611367/colby-parkinson-ac-sprain-considered-day-to-day.php",
+      "player_id": 19372,
       "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Micah Parsons (knee) will not practice this week"
+      "team_id": "LAR",
+      "title": "Colby Parkinson (AC sprain) considered day-to-day "
     },
     {
       "author": "Ari Koslow",
@@ -99,16 +118,140 @@
         "News",
         "Injury"
       ],
-      "created": "2026-09-28 18:29:23",
-      "created_formated": "Mon, Sep 28th 6:29pm UTC",
-      "desc": "Panthers CB Jaycee Horn suffered a torn quad and is out indefinitely.",
-      "id": 611299,
-      "impact": "Horn will seek a second opinion, but he's headed for the Injured Reserve. There is some concern he could be out for the season, a brutal loss for the Panthers defense. ",
-      "link": "https://www.fantasypros.com/nfl/news/611299/jaycee-horn-suffers-torn-quad-out-indefinitely.php",
-      "player_id": 22701,
+      "created": "2026-09-28 23:12:48",
+      "created_formated": "Mon, Sep 28th 11:12pm UTC",
+      "desc": "Rams head coach Sean McVay said TE Terrance Ferguson will likely miss Week 4 against the Eagles.",
+      "id": 611366,
+      "impact": "Ferguson left Sunday's game against the Broncos. He did return, but then left again after making one catch. With Colby Parkinson also banged up, Tyler Higbee could be in line for a bigger role. ",
+      "link": "https://www.fantasypros.com/nfl/news/611366/terrance-ferguson-ankle-to-likely-miss-week-4.php",
+      "player_id": 23091,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Jaycee Horn suffers torn quad, out indefinitely"
+      "team_id": "LAR",
+      "title": "Terrance Ferguson (ankle) to likely miss Week 4"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 23:08:49",
+      "created_formated": "Mon, Sep 28th 11:08pm UTC",
+      "desc": "Tyson Bagent (concussion) is active for the Chicago Bears against the Philadelphia Eagles according to Ian Rapoport.",
+      "id": 611365,
+      "impact": "Bagent will suit up after clearing through concussion protocol at the end of last week, likely backing up veteran signal-caller Case Keenum against the Eagles for head coach Ben Johnson Monday night.",
+      "link": "https://www.fantasypros.com/nfl/news/611365/tyson-bagent-concussion-active-week-3.php",
+      "player_id": 25321,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Tyson Bagent (concussion) active for Week 3"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 22:28:48",
+      "created_formated": "Mon, Sep 28th 10:28pm UTC",
+      "desc": "Rams head coach Sean McVay said he was \"hopeful\" WR Puka Nacua will be able to play in Week 4 against the Eagles.",
+      "id": 611360,
+      "impact": "Adam Schefter reported Sunday morning that the Rams do not believe surgery will be needed, but it's still on the table. Nacua will need to be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/611360/puka-nacua-groin-hopeful-to-play-week-4.php",
+      "player_id": 23180,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Puka Nacua (groin) 'hopeful' to play in Week 4"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 22:07:30",
+      "created_formated": "Mon, Sep 28th 10:07pm UTC",
+      "desc": "Steelers CB Brandin Echols has entered the league's concussion protocol.",
+      "id": 611353,
+      "impact": "Echols was injured in Week 3's win over the Bengals. He will almost certainly be sidelined this week with the Steelers playing on Thursday against the Browns. ",
+      "link": "https://www.fantasypros.com/nfl/news/611353/brandin-echols-placed-concussion-protocol.php",
+      "player_id": 23283,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Brandin Echols placed in concussion protocol "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 22:06:18",
+      "created_formated": "Mon, Sep 28th 10:06pm UTC",
+      "desc": "Steelers DB Jalen Ramsey was spotted in a sling at Monday's practice.",
+      "id": 611351,
+      "impact": "It appears to be a new injury for Ramsey. His status will need to be monitored in practice ahead of Thursday's game against the Browns. ",
+      "link": "https://www.fantasypros.com/nfl/news/611351/jalen-ramsey-wrist-seen-sling-during-practice-monday.php",
+      "player_id": 15491,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Jalen Ramsey (wrist) seen in sling during practice Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 22:04:28",
+      "created_formated": "Mon, Sep 28th 10:04pm UTC",
+      "desc": "Titans OG Fernando Carmona \"will miss a few weeks\" after suffering a sprained ankle in Week 3's loss to the Giants.",
+      "id": 611350,
+      "impact": "Carmona, a fifth-round rookie, has started all three games for the Titans. He was injured on the first offensive snap of Sunday's loss and will miss some time as a result. ",
+      "link": "https://www.fantasypros.com/nfl/news/611350/fernando-carmona-jr-ankle-to-miss-few-weeks.php",
+      "player_id": 28476,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Fernando Carmona Jr. (ankle) to miss a few weeks"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-28 22:02:59",
+      "created_formated": "Mon, Sep 28th 10:02pm UTC",
+      "desc": "The Bills activated DT Phidarian Mathis from the reserve/suspended list.",
+      "id": 611348,
+      "impact": "Mathis has finished serving out his three-game suspension for violating the league's substance abuse policy. He could make his season debut in Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/611348/phidarian-mathis-activated-by-bills.php",
+      "player_id": 23735,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Phidarian Mathis activated by Bills"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-28 22:01:52",
+      "created_formated": "Mon, Sep 28th 10:01pm UTC",
+      "desc": "Dolphins coach Jeff Hafley said all running backs on the roster are \"going to have their roles.\"",
+      "id": 611347,
+      "impact": "Gordon remains the most likely player to lead the backfield, but Jaylen Wright will figure to have a role when he is healthy. Gordon can be viewed as a borderline RB2 for now. ",
+      "link": "https://www.fantasypros.com/nfl/news/611347/ollie-gordon-ii-all-rbs-on-dolphins-are-going-to-have-their-roles.php",
+      "player_id": 25984,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Ollie Gordon II: All RBs on Dolphins 'are going to have their roles'"
     },
     {
       "author": "Matthew Adam",
@@ -129,327 +272,182 @@
       "title": "Cowboys D/ST struggles in Week 3 loss"
     },
     {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-28 17:05:56",
-      "created_formated": "Mon, Sep 28th 5:05pm UTC",
-      "desc": "Jalon Daniels is set to be Tampa Bay's starting quarterback for the next three weeks at least.",
-      "id": 611298,
-      "impact": "Daniels, an undrafted rookie out of Kansas, is set to be Tampa Bay's starting quarterback with Baker Mayfield (thumb) expected to miss a minimum of three weeks. He is unlikely to have any fantasy value himself, and it remains to be seen if he will play well enough to support the fantasy value of Bucky Irving and Emeka Egbuka over the next few weeks, but he will have a good opportunity to prove himself in an easy matchup against Green Bay's struggling defense in Week 4.",
-      "link": "https://www.fantasypros.com/nfl/news/611298/jalon-daniels-set-to-be-starter-tampa-bay.php",
-      "player_id": 26060,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Jalon Daniels set to be starter for Tampa Bay"
-    },
-    {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-28 17:02:40",
-      "created_formated": "Mon, Sep 28th 5:02pm UTC",
-      "desc": "Baker Mayfield (thumb) is expected to be sidelined for around three weeks.",
-      "id": 611297,
-      "impact": "Mayfield underwent an MRI on his thumb after Sunday's loss to the Vikings, and the results indicated that he will need to miss around three weeks while he recovers. The team is going to start undrafted rookie Jalon Daniels in his absence, which is likely bad news for the fantasy value of Emeka Egbuka, Bucky Irving, and Tampa Bay's entire offense for the next few weeks.",
-      "link": "https://www.fantasypros.com/nfl/news/611297/baker-mayfield-thumb-expected-to-miss-three-weeks.php",
-      "player_id": 17237,
+      "created": "2026-09-28 21:13:21",
+      "created_formated": "Mon, Sep 28th 9:13pm UTC",
+      "desc": "49ers coach Kyle Shanahan said he hopes that Romello Height is back against the Broncos.",
+      "id": 611340,
+      "impact": "Height was sidelined this past week after going down with a hand injury. His status will need to be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/611340/romello-height-hand-hopeful-to-return-week-4.php",
+      "player_id": 28052,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Romello Height (hand) hopeful to return in Week 4"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 21:11:57",
+      "created_formated": "Mon, Sep 28th 9:11pm UTC",
+      "desc": "49ers LB Dre Greenlaw will be monitored in practice this week. ",
+      "id": 611339,
+      "impact": "Greenlaw suffered the injury in Sunday's win over the Cardinals. His status is up in the air heading into Week 4 against the Broncos. ",
+      "link": "https://www.fantasypros.com/nfl/news/611339/dre-greenlaw-quad-to-be-monitored-this-week.php",
+      "player_id": 18310,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Dre Greenlaw (quad) to be monitored this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 21:10:38",
+      "created_formated": "Mon, Sep 28th 9:10pm UTC",
+      "desc": "49ers LT Trent Williams will be monitored in practice this week. ",
+      "id": 611338,
+      "impact": "Williams was carted off the field from Sunday's win over the Cardinals. He appears to have avoided a serious injury, but his status is up in the air for Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/611338/trent-williams-stinger-to-be-monitored-this-week.php",
+      "player_id": 15315,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Trent Williams (stinger) to be monitored this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-28 21:07:07",
+      "created_formated": "Mon, Sep 28th 9:07pm UTC",
+      "desc": "The Giants waived QB Jake Haener. ",
+      "id": 611337,
+      "impact": "This is the corresponding move to the Giants trading for J.J. McCarthy. Haener is expected to re-sign with the Giants practice squad. ",
+      "link": "https://www.fantasypros.com/nfl/news/611337/jake-haener-waived-by-giants.php",
+      "player_id": 24728,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jake Haener waived by Giants "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 21:03:16",
+      "created_formated": "Mon, Sep 28th 9:03pm UTC",
+      "desc": "Raiders head coach Klint Kubiak said WR Jack Bech is expected to be out for a \"little bit\" with a fractured forearm.",
+      "id": 611336,
+      "impact": "Kubiak added that the team has yet to make a roster decision. He could be placed on injured reserve. ",
+      "link": "https://www.fantasypros.com/nfl/news/611336/jack-bech-forearm-to-miss-some-time.php",
+      "player_id": 27224,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Jack Bech (forearm) to miss some time"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-09-28 20:59:04",
+      "created_formated": "Mon, Sep 28th 8:59pm UTC",
+      "desc": "The Eagles elevated TE Zach Ertz from their practice squad for Monday's game against the Bears. ",
+      "id": 611335,
+      "impact": "Ertz returned to the Eagles last week after Dallas Goedert (knee) went down. Ertz should be involved, but he's a wait-and-see for now for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/611335/zach-ertz-elevated-from-eagles-practice-squad-monday.php",
+      "player_id": 11689,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Zach Ertz elevated from Eagles practice squad Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 20:47:55",
+      "created_formated": "Mon, Sep 28th 8:47pm UTC",
+      "desc": "49ers WR Mike Evans is considered day-to-day with a rib strain. ",
+      "id": 611332,
+      "impact": "It is a positive update for Evans after he was carted off the field during Sunday's win over the Cardinals. His status remains up in the air for Week 4, but it appears he avoided anything too serious.  ",
+      "link": "https://www.fantasypros.com/nfl/news/611332/mike-evans-rib-considered-day-to-day.php",
+      "player_id": 12119,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Mike Evans (rib) considered day-to-day "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-28 20:33:03",
+      "created_formated": "Mon, Sep 28th 8:33pm UTC",
+      "desc": "Buccaneers coach Todd Bowles said Bucky Irving \"is not on the team's injury report\" after Week 3.",
+      "id": 611324,
+      "impact": "Irving spent the majority of the fourth quarter on Sunday on the sideline. It was unclear if it was related to an injury, but it appears it wasn't. He should be back in his lead role in Week 4. ",
+      "link": "https://www.fantasypros.com/nfl/news/611324/bucky-irving-not-on-injury-report-after-week-3.php",
+      "player_id": 25981,
       "sport_id": "NFL",
       "team_id": "TB",
-      "title": "Baker Mayfield (thumb) expected to miss three weeks"
+      "title": "Bucky Irving 'not on injury report' after Week 3"
     },
     {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-09-28 16:57:23",
-      "created_formated": "Mon, Sep 28th 4:57pm UTC",
-      "desc": "The Patriots' D/ST logged one sack and one interception while allowing 35 points in Sunday's blowout loss at the hands of the Jacksonville Jaguars.",
-      "id": 611296,
-      "impact": "New England's defense was terrible on Sunday. They allowed Jacksonville to score 35 points over the course of the afternoon, and they weren't able to make any big plays to help out their own offense. This unit should not be started for the foreseeable future, especially with a tough matchup against the Bills coming up next week.",
-      "link": "https://www.fantasypros.com/nfl/news/611296/patriots-dst-dismal-blowout-loss-sunday.php",
-      "player_id": 8180,
+      "created": "2026-09-28 20:31:07",
+      "created_formated": "Mon, Sep 28th 8:31pm UTC",
+      "desc": "Saints coach Kellen Moore said Travis Etienne Jr. \"will miss time.\" ",
+      "id": 611323,
+      "impact": "Etienne does not hold a clear timetable to return. Alvin Kamara should take on a bigger role in the Saints backfield with Kendre Miller also taking on a bigger role behind him. ",
+      "link": "https://www.fantasypros.com/nfl/news/611323/travis-etienne-jr-hamstring-to-miss-extended-time.php",
+      "player_id": 19231,
       "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Patriots D/ST dismal in blowout loss Sunday"
+      "team_id": "NO",
+      "title": "Travis Etienne Jr. (hamstring) to miss extended time"
     },
     {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-09-28 16:55:22",
-      "created_formated": "Mon, Sep 28th 4:55pm UTC",
-      "desc": "Andy Borregales went 2-for-3 on his field-goal attempts in Sunday's 35-6 loss to the Jacksonville Jaguars.",
-      "id": 611295,
-      "impact": "Borregales didn't have a great game on Sunday, missing one of his three field-goal attempts in the team's blowout loss at the hands of the Jaguars. If he continues to play bad, his job could be in jeopardy at some point in the season.",
-      "link": "https://www.fantasypros.com/nfl/news/611295/andy-borregales-misses-field-goal-loss-sunday.php",
-      "player_id": 27291,
+      "created": "2026-09-28 20:29:36",
+      "created_formated": "Mon, Sep 28th 8:29pm UTC",
+      "desc": "Commanders coach Dan Quinn said Jayden Daniels will travel with the team to London and practice in \"some capacity this week.\"",
+      "id": 611322,
+      "impact": "Daniels was not placed on injured reserve, meaning he is expected to miss less than four weeks. He is unlikely to return this week, but a return in Week 5 or 6 could be in play. ",
+      "link": "https://www.fantasypros.com/nfl/news/611322/jayden-daniels-elbow-to-practice-this-week.php",
+      "player_id": 22902,
       "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Andy Borregales misses field goal in loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:53:53",
-      "created_formated": "Mon, Sep 28th 4:53pm UTC",
-      "desc": "Kyle Williams caught 1-of-3 targets for 34 yards in Sunday's 35-6 blowout loss to the Jacksonville Jaguars.",
-      "id": 611294,
-      "impact": "The young wideout got on the field on Sunday and was able to haul in one 34-yard pass against the Jaguars, but he wasn't able to do anything else in the team's blowout loss. It's nice to see him actually on the field for New England, but he doesn't project to have any fantasy value for the foreseeable future.",
-      "link": "https://www.fantasypros.com/nfl/news/611294/kyle-williams-held-to-one-catch-sunday.php",
-      "player_id": 27487,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Kyle Williams held to one catch Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:52:04",
-      "created_formated": "Mon, Sep 28th 4:52pm UTC",
-      "desc": "DeMario Douglas caught 1-of-5 targets for 38 yards in Sunday's 35-6 loss to the Jacksonville Jaguars.",
-      "id": 611293,
-      "impact": "Douglas had a tough time connecting with QB Drake Maye on Sunday, catching just one of his five targets for a 38-yard gain. He will continue to see a solid amount of targets on a week-to-week basis moving forward but carries very little fantasy upside for the foreseeable future.",
-      "link": "https://www.fantasypros.com/nfl/news/611293/demario-douglas-catches-one-pass-loss-sunday.php",
-      "player_id": 25304,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "DeMario Douglas catches one pass in loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:50:18",
-      "created_formated": "Mon, Sep 28th 4:50pm UTC",
-      "desc": "Mack Hollins hauled in 6-of-9 targets for 87 yards in Sunday's 35-6 blowout loss to the Jacksonville Jaguars.",
-      "id": 611292,
-      "impact": "Hollins was one of the lone bright spots for the Patriots on Sunday. He led the team in targets, receptions, and receiving yards against the Jaguars, but that wasn't enough to even keep things close against the Jaguars. He will continue to play a big role for the Patriots moving forward but shouldn't be trusted as a fantasy option at this point in the season.",
-      "link": "https://www.fantasypros.com/nfl/news/611292/mack-hollins-leads-team-receiving-sunday.php",
-      "player_id": 16489,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Mack Hollins leads team in receiving Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:48:37",
-      "created_formated": "Mon, Sep 28th 4:48pm UTC",
-      "desc": "Hunter Henry caught 1-of-2 targets for just five yards in Sunday's 35-6 loss to the Jacksonville Jaguars.",
-      "id": 611291,
-      "impact": "The veteran tight end wasn't able to contribute for the Patriots on Sunday. He finished with just one five-yard catch against the Jaguars, which left him with a very poor fantasy total. He can't be trusted as a streaming option in most leagues moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/611291/hunter-henry-non-factor-loss-sunday.php",
-      "player_id": 15561,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Hunter Henry a non-factor in loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:46:54",
-      "created_formated": "Mon, Sep 28th 4:46pm UTC",
-      "desc": "Romeo Doubs caught 3-of-4 targets for 49 yards in Sunday's 35-6 loss to the Jacksonville Jaguars.",
-      "id": 611290,
-      "impact": "Doubs looked good with nearly 100 yards in Week 2, but he didn't find the same success this week, catching just three passes for 49 scoreless yards in a blowout loss to the Jaguars. He isn't a reliable fantasy option at this point in the season and shouldn't be started in most leagues, even if he continues to have decent upside on a week-to-week basis.",
-      "link": "https://www.fantasypros.com/nfl/news/611290/romeo-doubs-underwhelming-loss-sunday.php",
-      "player_id": 23794,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Romeo Doubs underwhelming in loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:45:00",
-      "created_formated": "Mon, Sep 28th 4:45pm UTC",
-      "desc": "Rhamondre Stevenson rushed the ball seven times for 22 yards and caught three passes for 16 yards in Sunday's 35-6 loss to the Jacksonville Jaguars.",
-      "id": 611289,
-      "impact": "Stevenson was ineffective for the Patriots on Sunday. He was only able to contribute 22 yards on the ground, and he wasn't able to do much through the air either in their blowout loss to the Jaguars. He shouldn't be started in most fantasy leagues for the foreseeable future, especially with TreVeyon Henderson seeing more carries than him this week.",
-      "link": "https://www.fantasypros.com/nfl/news/611289/rhamondre-stevenson-inefficient-loss-sunday.php",
-      "player_id": 22726,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Rhamondre Stevenson inefficient in loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:43:01",
-      "created_formated": "Mon, Sep 28th 4:43pm UTC",
-      "desc": "TreVeyon Henderson rushed the ball eight times for 23 yards and caught one pass for six yards in Sunday's 35-6 loss to the Jacksonville Jaguars.",
-      "id": 611288,
-      "impact": "New England's offense wasn't able to get anything going on Sunday, and Henderson was no exception to that. He totaled just 29 yards on nine opportunities against the Jaguars, which burned any fantasy managers who started him in this matchup. He should not be started in most leagues until New England figures out their offensive issues.",
-      "link": "https://www.fantasypros.com/nfl/news/611288/treveyon-henderson-totals-29-yards-loss-sunday.php",
-      "player_id": 23065,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "TreVeyon Henderson totals 29 yards in loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:41:02",
-      "created_formated": "Mon, Sep 28th 4:41pm UTC",
-      "desc": "Drake Maye completed 14-of-25 passing attempts for 199 yards and two interceptions while adding 18 yards and a lost fumble on the ground in Sunday's 35-6 loss to the Jacksonville Jaguars.",
-      "id": 611287,
-      "impact": "Maye's nightmare start to the season continued on Sunday. He lost three turnovers over the course of the afternoon and was only able to lead the Patriots to six points in a blowout loss to the Jaguars. He is unstartable at this point in the season, and fantasy managers should be avoiding most of the fantasy options on New England's offense until they can figure things out.",
-      "link": "https://www.fantasypros.com/nfl/news/611287/drake-maye-loses-three-turnovers-blowout-loss-sunday.php",
-      "player_id": 23046,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Drake Maye loses three turnovers in blowout loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:37:39",
-      "created_formated": "Mon, Sep 28th 4:37pm UTC",
-      "desc": "The Jaguars' D/ST logged three sacks, two interceptions, and one fumble recovery while allowing just six points in Sunday's blowout win over the New England Patriots.",
-      "id": 611286,
-      "impact": "Jacksonville's defense absolutely shut down the Patriots' offense on Sunday. They allowed just six points over the course of the afternoon and were able to log a number of big plays to help out their own offense. This unit has a tough matchup coming up against the Bengals next week, however, so they may not be worth starting despite their great performance this week.",
-      "link": "https://www.fantasypros.com/nfl/news/611286/jaguars-dst-stellar-blowout-win-sunday.php",
-      "player_id": 8140,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Jaguars D/ST stellar in blowout win Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:34:51",
-      "created_formated": "Mon, Sep 28th 4:34pm UTC",
-      "desc": "Cam Little made all five of his extra-point attempts and missed his lone field-goal attempt from 70 yards out in Sunday's 35-6 win over the New England Patriots.",
-      "id": 611285,
-      "impact": "Little ended up with just five points on Sunday, which is a little disappointing considering how easily scoring came to the Jaguars against New England. He also barely missed one kick from what would have been an NFL record 70-yards out, which further hurt his fantasy total in this matchup. He should bounce back in the near future.",
-      "link": "https://www.fantasypros.com/nfl/news/611285/cam-little-totals-five-points-win-sunday.php",
-      "player_id": 26475,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Cam Little totals five points in win Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:32:11",
-      "created_formated": "Mon, Sep 28th 4:32pm UTC",
-      "desc": "Chris Rodriguez Jr. rushed the ball eight times for 37 times and a touchdown in Sunday's 35-6 blowout win over the New England Patriots.",
-      "id": 611284,
-      "impact": "Rodriguez was clearly the RB2 for the Jaguars on Sunday, but he was still able to contribute quite effectively for them with 37 yards and a touchdown on just eight carries. Still, his current workload won't be enough to offer any sustained fantasy success anytime soon.",
-      "link": "https://www.fantasypros.com/nfl/news/611284/chris-rodriguez-jr-finds-end-zone-sunday.php",
-      "player_id": 22986,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Chris Rodriguez Jr. finds end zone Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:30:20",
-      "created_formated": "Mon, Sep 28th 4:30pm UTC",
-      "desc": "Brenton Strange caught 3-of-5 targets for 32 yards in Sunday's 35-6 blowout win over the New England Patriots.",
-      "id": 611283,
-      "impact": "Strange was a solid contributor for the Jaguars on Sunday, hauling in three passes en route to a big win over the Patriots. Still, he isn't a strong fantasy option and shouldn't be considered startable for the foreseeable future.",
-      "link": "https://www.fantasypros.com/nfl/news/611283/brenton-strange-catches-three-passes-sunday.php",
-      "player_id": 25345,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Brenton Strange catches three passes Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:28:58",
-      "created_formated": "Mon, Sep 28th 4:28pm UTC",
-      "desc": "Jakobi Meyers caught 7-of-8 targets for 64 yards and a touchdown in Sunday's 35-6 blowout win over the New England Patriots.",
-      "id": 611282,
-      "impact": "Meyers had a fantastic game against his former team on Sunday. He led the team in targets, receptions, and receiving yards over the course of the afternoon and was also able to score a touchdown, which was the cherry on top. This was a good game for the veteran, but fantasy managers shouldn't expect him to put up numbers like this week-in and week-out moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/611282/jakobi-meyers-leads-team-receiving-sunday.php",
-      "player_id": 18598,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Jakobi Meyers leads team in receiving Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-09-28 16:26:14",
-      "created_formated": "Mon, Sep 28th 4:26pm UTC",
-      "desc": "Brian Thomas Jr. caught one pass for eight yards in Sunday's 35-6 blowout win over the New England Patriots.",
-      "id": 611281,
-      "impact": "Thomas was a complete non-factor on Sunday. He caught just one pass over the course of the afternoon, and he was only able to turn that into eight yards on a day that Jacksonville's offense had no trouble scoring and moving the ball. He still has some potential given his talent, but he hasn't been productive for a while and shouldn't be started for the foreseeable future.",
-      "link": "https://www.fantasypros.com/nfl/news/611281/brian-thomas-jr-quiet-blowout-win-sunday.php",
-      "player_id": 23000,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Brian Thomas Jr. quiet in blowout win Sunday"
+      "team_id": "WAS",
+      "title": "Jayden Daniels (elbow) to practice this week"
     }
   ],
   "public_api_limited": true,

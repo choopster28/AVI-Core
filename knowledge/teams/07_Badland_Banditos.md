@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-09-28
+- Last updated from Sleeper exports: 2026-09-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 641.4
-- championship_lineup_c_avi_avg: 80.17
-- offensive_roster_c_avi_sum: 935.8
-- offensive_roster_c_avi_avg: 58.49
-- offensive_roster_d_avi_sum: 1100.8
-- offensive_roster_d_avi_avg: 68.80
+- championship_lineup_c_avi_sum: 642.4
+- championship_lineup_c_avi_avg: 80.30
+- offensive_roster_c_avi_sum: 936.2
+- offensive_roster_c_avi_avg: 58.51
+- offensive_roster_d_avi_sum: 1101.3
+- offensive_roster_d_avi_avg: 68.83
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Joe Burrow | C-AVI: 86.9 | D-AVI: 88.7
-- RB: Kenneth Walker | C-AVI: 90.7 | D-AVI: 92.7
-- RB: Bucky Irving | C-AVI: 75.9 | D-AVI: 83.2
+- RB: Kenneth Walker | C-AVI: 91.2 | D-AVI: 94.5
+- RB: Bucky Irving | C-AVI: 76.4 | D-AVI: 84.7
 - WR: Ja'Marr Chase | C-AVI: 99.9 | D-AVI: 100.0
 - WR: Terry McLaurin | C-AVI: 74.3 | D-AVI: 80.9
 - TE: Brock Bowers | C-AVI: 98.8 | D-AVI: 92.7
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 90.7
-- Dynasty AVI (D-AVI, 0-100): 92.7
+- Championship AVI (C-AVI, 0-100): 91.2
+- Dynasty AVI (D-AVI, 0-100): 94.5
 - Projected PPR points: 257.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 75.9
-- Dynasty AVI (D-AVI, 0-100): 83.2
+- Championship AVI (C-AVI, 0-100): 76.4
+- Dynasty AVI (D-AVI, 0-100): 84.7
 - Projected PPR points: 212.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 23.7
-- Dynasty AVI (D-AVI, 0-100): 32.3
+- Championship AVI (C-AVI, 0-100): 23.3
+- Dynasty AVI (D-AVI, 0-100): 30.9
 - Projected PPR points: 31.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 21.6
-- Dynasty AVI (D-AVI, 0-100): 41.1
+- Championship AVI (C-AVI, 0-100): 21.1
+- Dynasty AVI (D-AVI, 0-100): 39.5
 - Projected PPR points: 19.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 30.4
-- Dynasty AVI (D-AVI, 0-100): 58.0
+- Championship AVI (C-AVI, 0-100): 30.7
+- Dynasty AVI (D-AVI, 0-100): 58.2
 - Projected PPR points: 96.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_2
