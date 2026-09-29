@@ -41,7 +41,7 @@ jobs:
 
       AVI_SEASON: "2026"
       AVI_SCORING: "PPR"
-      AVI_METHODOLOGY_VERSION: "2026.2"
+      AVI_METHODOLOGY_VERSION: "2026.3"
 
     steps:
       - name: Check out latest AVI Core main
