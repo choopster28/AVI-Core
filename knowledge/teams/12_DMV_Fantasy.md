@@ -21,23 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 457.9
-- championship_lineup_c_avi_avg: 57.24
-- offensive_roster_c_avi_sum: 632.5
-- offensive_roster_c_avi_avg: 45.18
-- offensive_roster_d_avi_sum: 799.6
-- offensive_roster_d_avi_avg: 57.11
+- championship_lineup_c_avi_sum: 398.5
+- championship_lineup_c_avi_avg: 56.93
+- offensive_roster_c_avi_sum: 659.5
+- offensive_roster_c_avi_avg: 47.11
+- offensive_roster_d_avi_sum: 812.6
+- offensive_roster_d_avi_avg: 58.04
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jaxson Dart | C-AVI: 65.6 | D-AVI: 75.3
-- RB: Rachaad White | C-AVI: 52.5 | D-AVI: 62.8
-- RB: Jacory Croskey-Merritt | C-AVI: 51.7 | D-AVI: 65.1
-- WR: Jalen Coker | C-AVI: 51.7 | D-AVI: 71.5
-- WR: Jauan Jennings | C-AVI: 43.0 | D-AVI: 54.8
-- TE: George Kittle | C-AVI: 89.4 | D-AVI: 82.2
-- FLEX: Brenton Strange | C-AVI: 61.5 | D-AVI: 74.5
-- FLEX: Cooper Kupp | C-AVI: 42.5 | D-AVI: 48.1
+- RB: Rachaad White | C-AVI: 56.4 | D-AVI: 65.4
+- RB: Jacory Croskey-Merritt | C-AVI: 55.2 | D-AVI: 66.9
+- WR: Cooper Kupp | C-AVI: 45.0 | D-AVI: 46.8
+- WR: Antonio Williams | C-AVI: 43.1 | D-AVI: 64.2
+- TE: George Kittle | C-AVI: 90.0 | D-AVI: 82.3
+- FLEX: Brenton Strange | C-AVI: 63.6 | D-AVI: 74.9
+- FLEX: Keaton Mitchell | C-AVI: 45.2 | D-AVI: 57.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +52,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 65.6
-- Dynasty AVI (D-AVI, 0-100): 75.3
+- Championship AVI (C-AVI, 0-100): 63.2
+- Dynasty AVI (D-AVI, 0-100): 74.9
 - Projected PPR points: 300.7
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Carson Wentz
 - Player name: Carson Wentz
@@ -104,11 +103,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 52.5
-- Dynasty AVI (D-AVI, 0-100): 62.8
+- Championship AVI (C-AVI, 0-100): 56.4
+- Dynasty AVI (D-AVI, 0-100): 65.4
 - Projected PPR points: 152.6
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Jacory Croskey-Merritt
 - Player name: Jacory Croskey-Merritt
@@ -121,11 +120,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 51.7
-- Dynasty AVI (D-AVI, 0-100): 65.1
+- Championship AVI (C-AVI, 0-100): 55.2
+- Dynasty AVI (D-AVI, 0-100): 66.9
 - Projected PPR points: 146.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Keaton Mitchell
 - Player name: Keaton Mitchell
@@ -138,11 +137,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 40.2
-- Dynasty AVI (D-AVI, 0-100): 53.6
+- Championship AVI (C-AVI, 0-100): 45.2
+- Dynasty AVI (D-AVI, 0-100): 57.8
 - Projected PPR points: 79.5
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Kaytron Allen
 - Player name: Kaytron Allen
@@ -155,11 +154,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 27.3
-- Dynasty AVI (D-AVI, 0-100): 48.5
+- Championship AVI (C-AVI, 0-100): 30.3
+- Dynasty AVI (D-AVI, 0-100): 53.0
 - Projected PPR points: 22.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Jalen Coker
 - Player name: Jalen Coker
@@ -172,28 +171,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 51.7
-- Dynasty AVI (D-AVI, 0-100): 71.5
+- Championship AVI (C-AVI, 0-100): 57.8
+- Dynasty AVI (D-AVI, 0-100): 74.2
 - Projected PPR points: 144.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
-
-### PLAYER: Jauan Jennings
-- Player name: Jauan Jennings
-- Player ID: 7049
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: MIN
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 43.0
-- Dynasty AVI (D-AVI, 0-100): 54.8
-- Projected PPR points: 118.9
-- Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Cooper Kupp
 - Player name: Cooper Kupp
@@ -206,11 +188,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 42.5
-- Dynasty AVI (D-AVI, 0-100): 48.1
+- Championship AVI (C-AVI, 0-100): 45.0
+- Dynasty AVI (D-AVI, 0-100): 46.8
 - Projected PPR points: 143.0
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Antonio Williams
 - Player name: Antonio Williams
@@ -223,11 +205,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 38.6
-- Dynasty AVI (D-AVI, 0-100): 63.8
+- Championship AVI (C-AVI, 0-100): 43.1
+- Dynasty AVI (D-AVI, 0-100): 64.2
 - Projected PPR points: 82.0
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
+
+### PLAYER: Jauan Jennings
+- Player name: Jauan Jennings
+- Player ID: 7049
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: MIN
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 42.2
+- Dynasty AVI (D-AVI, 0-100): 57.6
+- Projected PPR points: 118.9
+- Category: offense
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Isaac TeSlaa
 - Player name: Isaac TeSlaa
@@ -240,11 +239,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 35.0
-- Dynasty AVI (D-AVI, 0-100): 54.4
+- Championship AVI (C-AVI, 0-100): 37.1
+- Dynasty AVI (D-AVI, 0-100): 53.5
 - Projected PPR points: 78.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Marvin Mims
 - Player name: Marvin Mims
@@ -257,11 +256,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 33.5
-- Dynasty AVI (D-AVI, 0-100): 45.0
+- Championship AVI (C-AVI, 0-100): 30.4
+- Dynasty AVI (D-AVI, 0-100): 41.1
 - Projected PPR points: 86.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: George Kittle
 - Player name: George Kittle
@@ -274,11 +273,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 89.4
-- Dynasty AVI (D-AVI, 0-100): 82.2
+- Championship AVI (C-AVI, 0-100): 90.0
+- Dynasty AVI (D-AVI, 0-100): 82.3
 - Projected PPR points: 192.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Brenton Strange
 - Player name: Brenton Strange
@@ -291,11 +290,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 61.5
-- Dynasty AVI (D-AVI, 0-100): 74.5
+- Championship AVI (C-AVI, 0-100): 63.6
+- Dynasty AVI (D-AVI, 0-100): 74.9
 - Projected PPR points: 153.1
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Harrison Mevis
 - Player name: Harrison Mevis

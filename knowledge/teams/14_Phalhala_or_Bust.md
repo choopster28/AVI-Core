@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 555.8
-- championship_lineup_c_avi_avg: 69.47
-- offensive_roster_c_avi_sum: 748.5
-- offensive_roster_c_avi_avg: 57.58
-- offensive_roster_d_avi_sum: 901.4
-- offensive_roster_d_avi_avg: 69.34
+- championship_lineup_c_avi_sum: 563.2
+- championship_lineup_c_avi_avg: 70.40
+- offensive_roster_c_avi_sum: 754.9
+- offensive_roster_c_avi_avg: 58.07
+- offensive_roster_d_avi_sum: 906.8
+- offensive_roster_d_avi_avg: 69.75
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: C.J. Stroud | C-AVI: 48.3 | D-AVI: 61.8
-- RB: Ashton Jeanty | C-AVI: 90.6 | D-AVI: 95.6
-- RB: Jaylen Warren | C-AVI: 70.6 | D-AVI: 78.1
-- WR: Rome Odunze | C-AVI: 71.2 | D-AVI: 83.1
-- WR: Michael Wilson | C-AVI: 64.5 | D-AVI: 77.1
-- TE: Sam LaPorta | C-AVI: 91.7 | D-AVI: 86.9
-- FLEX: Hunter Henry | C-AVI: 62.1 | D-AVI: 66.2
-- FLEX: Makai Lemon | C-AVI: 56.8 | D-AVI: 80.9
+- QB: C.J. Stroud | C-AVI: 50.6 | D-AVI: 63.1
+- RB: Ashton Jeanty | C-AVI: 91.2 | D-AVI: 95.7
+- RB: Jaylen Warren | C-AVI: 72.3 | D-AVI: 77.6
+- WR: Rome Odunze | C-AVI: 71.3 | D-AVI: 83.1
+- WR: Michael Wilson | C-AVI: 67.3 | D-AVI: 76.8
+- TE: Sam LaPorta | C-AVI: 91.6 | D-AVI: 87.8
+- FLEX: Hunter Henry | C-AVI: 62.4 | D-AVI: 65.4
+- FLEX: Makai Lemon | C-AVI: 56.5 | D-AVI: 80.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 48.3
-- Dynasty AVI (D-AVI, 0-100): 61.8
+- Championship AVI (C-AVI, 0-100): 50.6
+- Dynasty AVI (D-AVI, 0-100): 63.1
 - Projected PPR points: 261.0
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Fernando Mendoza
 - Player name: Fernando Mendoza
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 44.8
-- Dynasty AVI (D-AVI, 0-100): 65.6
+- Championship AVI (C-AVI, 0-100): 41.2
+- Dynasty AVI (D-AVI, 0-100): 63.2
 - Projected PPR points: 170.5
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: J.J. McCarthy
 - Player name: J.J. McCarthy
@@ -87,11 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 33.3
-- Dynasty AVI (D-AVI, 0-100): 53.3
+- Championship AVI (C-AVI, 0-100): 29.9
+- Dynasty AVI (D-AVI, 0-100): 48.2
 - Projected PPR points: 10.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Ashton Jeanty
 - Player name: Ashton Jeanty
@@ -104,11 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 90.6
-- Dynasty AVI (D-AVI, 0-100): 95.6
+- Championship AVI (C-AVI, 0-100): 91.2
+- Dynasty AVI (D-AVI, 0-100): 95.7
 - Projected PPR points: 253.7
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Jaylen Warren
 - Player name: Jaylen Warren
@@ -121,11 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 70.6
-- Dynasty AVI (D-AVI, 0-100): 78.1
+- Championship AVI (C-AVI, 0-100): 72.3
+- Dynasty AVI (D-AVI, 0-100): 77.6
 - Projected PPR points: 199.5
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Jordan Mason
 - Player name: Jordan Mason
@@ -138,11 +138,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 50.0
-- Dynasty AVI (D-AVI, 0-100): 62.9
+- Championship AVI (C-AVI, 0-100): 51.7
+- Dynasty AVI (D-AVI, 0-100): 65.7
 - Projected PPR points: 140.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Demond Claiborne
 - Player name: Demond Claiborne
@@ -155,11 +155,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 23.4
-- Dynasty AVI (D-AVI, 0-100): 41.7
+- Championship AVI (C-AVI, 0-100): 25.5
+- Dynasty AVI (D-AVI, 0-100): 46.2
 - Projected PPR points: 20.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Rome Odunze
 - Player name: Rome Odunze
@@ -172,11 +172,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 71.2
+- Championship AVI (C-AVI, 0-100): 71.3
 - Dynasty AVI (D-AVI, 0-100): 83.1
 - Projected PPR points: 193.1
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Michael Wilson
 - Player name: Michael Wilson
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 64.5
-- Dynasty AVI (D-AVI, 0-100): 77.1
+- Championship AVI (C-AVI, 0-100): 67.3
+- Dynasty AVI (D-AVI, 0-100): 76.8
 - Projected PPR points: 178.3
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Makai Lemon
 - Player name: Makai Lemon
@@ -206,11 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 56.8
-- Dynasty AVI (D-AVI, 0-100): 80.9
+- Championship AVI (C-AVI, 0-100): 56.5
+- Dynasty AVI (D-AVI, 0-100): 80.4
 - Projected PPR points: 153.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Jalen Nailor
 - Player name: Jalen Nailor
@@ -223,11 +223,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 41.2
-- Dynasty AVI (D-AVI, 0-100): 48.2
+- Championship AVI (C-AVI, 0-100): 43.4
+- Dynasty AVI (D-AVI, 0-100): 53.6
 - Projected PPR points: 119.0
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Sam LaPorta
 - Player name: Sam LaPorta
@@ -240,11 +240,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 91.7
-- Dynasty AVI (D-AVI, 0-100): 86.9
+- Championship AVI (C-AVI, 0-100): 91.6
+- Dynasty AVI (D-AVI, 0-100): 87.8
 - Projected PPR points: 192.6
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Hunter Henry
 - Player name: Hunter Henry
@@ -257,11 +257,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 62.1
-- Dynasty AVI (D-AVI, 0-100): 66.2
+- Championship AVI (C-AVI, 0-100): 62.4
+- Dynasty AVI (D-AVI, 0-100): 65.4
 - Projected PPR points: 158.1
 - Category: offense
-- Valuation status: PROVISIONAL_2026_2
+- Valuation status: ACTIVE_2026_2_IN_SEASON
 
 ### PLAYER: Harrison Butker
 - Player name: Harrison Butker

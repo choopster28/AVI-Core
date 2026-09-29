@@ -31,17 +31,18 @@
       }
     },
     {
-      "average": 8.5,
+      "average": 9,
       "filename": "cairo-santos.php",
-      "games": 2,
+      "games": 3,
       "player_id": 13731,
       "player_name": "Cairo Santos",
-      "points": 17,
+      "points": 27,
       "position_id": "K",
       "team_id": "CHI",
       "weeks": {
         "1": 12,
-        "2": 5
+        "2": 5,
+        "3": 10
       }
     },
     {
@@ -90,17 +91,18 @@
       }
     },
     {
-      "average": 7,
+      "average": 5,
       "filename": "jake-elliott.php",
-      "games": 2,
+      "games": 3,
       "player_id": 16540,
       "player_name": "Jake Elliott",
-      "points": 14,
+      "points": 15,
       "position_id": "K",
       "team_id": "PHI",
       "weeks": {
         "1": 6,
-        "2": 8
+        "2": 8,
+        "3": 1
       }
     },
     {

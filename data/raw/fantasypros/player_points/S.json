@@ -237,7 +237,7 @@
     {
       "average": 0,
       "filename": "jonathan-owens.php",
-      "games": 2,
+      "games": 3,
       "player_id": 17903,
       "player_name": "Jonathan Owens",
       "points": 0,
@@ -245,7 +245,8 @@
       "team_id": "IND",
       "weeks": {
         "1": 0,
-        "2": 0
+        "2": 0,
+        "3": 0
       }
     },
     {
@@ -277,17 +278,18 @@
       }
     },
     {
-      "average": 5.6,
+      "average": 6,
       "filename": "marcus-epps.php",
-      "games": 2,
+      "games": 3,
       "player_id": 18575,
       "player_name": "Marcus Epps",
-      "points": 11.25,
+      "points": 18,
       "position_id": "S",
       "team_id": "PHI",
       "weeks": {
         "1": 9,
-        "2": 2.3
+        "2": 2.3,
+        "3": 6.8
       }
     },
     {
@@ -442,7 +444,7 @@
     {
       "average": 0,
       "filename": "terrell-burgess.php",
-      "games": 2,
+      "games": 3,
       "player_id": 19279,
       "player_name": "Terrell Burgess",
       "points": 0,
@@ -450,7 +452,8 @@
       "team_id": "TEN",
       "weeks": {
         "1": 0,
-        "2": 0
+        "2": 0,
+        "3": 0
       }
     },
     {
@@ -679,17 +682,18 @@
       }
     },
     {
-      "average": 0,
+      "average": 1.8,
       "filename": "michael-carter-s.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23265,
       "player_name": "Michael Carter II",
-      "points": 0,
+      "points": 5.25,
       "position_id": "S",
       "team_id": "PHI",
       "weeks": {
         "1": 0,
-        "2": 0
+        "2": 0,
+        "3": 5.3
       }
     },
     {
@@ -887,17 +891,18 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.8,
       "filename": "elijah-hicks.php",
-      "games": 2,
+      "games": 3,
       "player_id": 24577,
       "player_name": "Elijah Hicks",
-      "points": 0,
+      "points": 2.25,
       "position_id": "S",
       "team_id": "CHI",
       "weeks": {
         "1": 0,
-        "2": 0
+        "2": 0,
+        "3": 2.3
       }
     },
     {
@@ -918,14 +923,15 @@
     {
       "average": 0,
       "filename": "tristin-mccollum.php",
-      "games": 1,
+      "games": 2,
       "player_id": 24591,
       "player_name": "Tristin McCollum",
       "points": 0,
       "position_id": "S",
       "team_id": "LV",
       "weeks": {
-        "1": 0
+        "1": 0,
+        "3": 0
       }
     },
     {
@@ -1049,7 +1055,7 @@
     {
       "average": 0,
       "filename": "demarcco-hellams.php",
-      "games": 2,
+      "games": 3,
       "player_id": 25476,
       "player_name": "DeMarcco Hellams",
       "points": 0,
@@ -1057,7 +1063,8 @@
       "team_id": "ATL",
       "weeks": {
         "1": 0,
-        "2": 0
+        "2": 0,
+        "3": 0
       }
     },
     {
@@ -1240,7 +1247,7 @@
     {
       "average": 0,
       "filename": "kitan-oladapo.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26320,
       "player_name": "Kitan Oladapo",
       "points": 0,
@@ -1248,7 +1255,8 @@
       "team_id": "GB",
       "weeks": {
         "1": 0,
-        "2": 0
+        "2": 0,
+        "3": 0
       }
     },
     {
@@ -1311,9 +1319,9 @@
       }
     },
     {
-      "average": 0.4,
+      "average": 0.3,
       "filename": "julius-wood.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26696,
       "player_name": "Julius Wood",
       "points": 0.75,
@@ -1321,7 +1329,8 @@
       "team_id": "MIA",
       "weeks": {
         "1": 0,
-        "2": 0.8
+        "2": 0.8,
+        "3": 0
       }
     },
     {
@@ -1414,17 +1423,18 @@
       }
     },
     {
-      "average": 3.8,
+      "average": 5.8,
       "filename": "andrew-mukuba.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27081,
       "player_name": "Andrew Mukuba",
-      "points": 7.5,
+      "points": 17.25,
       "position_id": "S",
       "team_id": "PHI",
       "weeks": {
         "1": 1.5,
-        "2": 6
+        "2": 6,
+        "3": 9.8
       }
     },
     {
@@ -1577,7 +1587,7 @@
     {
       "average": 0,
       "filename": "donovan-mcmillon.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27584,
       "player_name": "Donovan McMillon",
       "points": 0,
@@ -1585,7 +1595,8 @@
       "team_id": "CLE",
       "weeks": {
         "1": 0,
-        "2": 0
+        "2": 0,
+        "3": 0
       }
     },
     {
@@ -1619,17 +1630,18 @@
       }
     },
     {
-      "average": 10.5,
+      "average": 11.7,
       "filename": "dillon-thieneman.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27967,
       "player_name": "Dillon Thieneman",
-      "points": 21,
+      "points": 35,
       "position_id": "S",
       "team_id": "CHI",
       "weeks": {
         "1": 12,
-        "2": 9
+        "2": 9,
+        "3": 14
       }
     },
     {
@@ -1768,16 +1780,17 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 5.4,
       "filename": "xavier-woods.php",
-      "games": 1,
+      "games": 2,
       "player_id": 16637,
       "player_name": "Xavier Woods",
-      "points": 1.5,
+      "points": 10.75,
       "position_id": "S",
       "team_id": "CHI",
       "weeks": {
-        "2": 1.5
+        "2": 1.5,
+        "3": 9.3
       }
     },
     {
@@ -1926,6 +1939,32 @@
       "team_id": "ATL",
       "weeks": {
         "3": 4.5
+      }
+    },
+    {
+      "average": 0,
+      "filename": "maxen-hook.php",
+      "games": 1,
+      "player_id": 27244,
+      "player_name": "Maxen Hook",
+      "points": 0,
+      "position_id": "S",
+      "team_id": "SEA",
+      "weeks": {
+        "3": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "major-burns.php",
+      "games": 1,
+      "player_id": 27559,
+      "player_name": "Major Burns",
+      "points": 0,
+      "position_id": "S",
+      "team_id": "MIA",
+      "weeks": {
+        "3": 0
       }
     }
   ],

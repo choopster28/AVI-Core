@@ -337,17 +337,18 @@
       }
     },
     {
-      "average": 21.4,
+      "average": 18.8,
       "filename": "jalen-hurts.php",
-      "games": 2,
+      "games": 3,
       "player_id": 19275,
       "player_name": "Jalen Hurts",
-      "points": 42.879999999999995,
+      "points": 56.49999999999999,
       "position_id": "QB",
       "team_id": "PHI",
       "weeks": {
         "1": 24.7,
-        "2": 18.2
+        "2": 18.2,
+        "3": 13.6
       }
     },
     {
@@ -687,6 +688,32 @@
       }
     },
     {
+      "average": -1,
+      "filename": "andy-dalton.php",
+      "games": 1,
+      "player_id": 9907,
+      "player_name": "Andy Dalton",
+      "points": -1,
+      "position_id": "QB",
+      "team_id": "PHI",
+      "weeks": {
+        "3": -1
+      }
+    },
+    {
+      "average": 24.5,
+      "filename": "case-keenum.php",
+      "games": 1,
+      "player_id": 11425,
+      "player_name": "Case Keenum",
+      "points": 24.48,
+      "position_id": "QB",
+      "team_id": "CHI",
+      "weeks": {
+        "3": 24.5
+      }
+    },
+    {
       "average": 15,
       "filename": "michael-penix-jr.php",
       "games": 1,
@@ -697,6 +724,32 @@
       "team_id": "ATL",
       "weeks": {
         "3": 15
+      }
+    },
+    {
+      "average": 0,
+      "filename": "quinn-ewers.php",
+      "games": 1,
+      "player_id": 23680,
+      "player_name": "Quinn Ewers",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "JAC",
+      "weeks": {
+        "3": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "ty-simpson.php",
+      "games": 1,
+      "player_id": 25368,
+      "player_name": "Ty Simpson",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "LAR",
+      "weeks": {
+        "3": 0
       }
     },
     {
