@@ -566,6 +566,7 @@ def build_market_score(
     dynasty_score: float | None,
     redraft_score: float | None,
 ) -> float | None:
+    """Current-season market signal: prioritize redraft over dynasty."""
     if (
         dynasty_score is None
         and redraft_score is None
@@ -579,31 +580,32 @@ def build_market_score(
         return dynasty_score
 
     return clamp(
-        (
-            2.0 * dynasty_score
-            + redraft_score
-        )
-        / 3.0
+        0.80 * redraft_score
+        + 0.20 * dynasty_score
     )
 
 
 def build_context_score(
-    projection_score: float,
-    projection_percentile: float,
+    position_liquidity: float,
 ) -> float:
-    return clamp(
-        0.60 * projection_score
-        + 0.40 * projection_percentile
-    )
+    """Autobots-format scarcity signal independent from player projections."""
+    return clamp(position_liquidity)
 
 
 def build_upside_score(
-    projection_score: float,
+    redraft_score: float | None,
     market_score: float,
 ) -> float:
+    """Preseason top-tail championship upside; in season this is replaced by weekly ceiling."""
+    source = (
+        redraft_score
+        if redraft_score is not None
+        else market_score
+    )
     return clamp(
-        0.70 * projection_score
-        + 0.30 * market_score
+        100.0
+        * max(source - 70.0, 0.0)
+        / 30.0
     )
 
 
@@ -811,13 +813,27 @@ def build_avi_players() -> dict[str, Any]:
         else:
             continue
 
+        position_liquidity = (
+            calculate_position_liquidity(
+                position=position,
+                team_count=(
+                    league.team_count
+                ),
+                starter_demand=(
+                    replacement_levels.starter_demand
+                ),
+                flex_allocations=(
+                    replacement_levels.flex_allocations
+                ),
+            )
+        )
+
         context_score = build_context_score(
-            projection_component,
-            projection_percentile,
+            position_liquidity,
         )
 
         upside_score = build_upside_score(
-            projection_component,
+            redraft_score,
             market_score,
         )
 
@@ -929,7 +945,7 @@ def build_avi_players() -> dict[str, Any]:
             {
                 **player,
                 "methodology_status": (
-                    "provisional_2026_2"
+                    "provisional_2026_3"
                 ),
                 "season_phase": "preseason",
                 "c_avi": c_avi,
@@ -981,9 +997,9 @@ def build_avi_players() -> dict[str, Any]:
     now = datetime.now(UTC)
 
     manifest = {
-        "methodology_version": "2026.2",
+        "methodology_version": "2026.3",
         "methodology_status": (
-            "provisional_2026_2"
+            "provisional_2026_3"
         ),
         "generated_at_utc": (
             now.isoformat()
@@ -1079,7 +1095,7 @@ def build_avi_players() -> dict[str, Any]:
         "Player points active: False"
     )
     print(
-        "D-AVI methodology: 2026.2"
+        "D-AVI methodology: 2026.3"
     )
 
     return manifest
