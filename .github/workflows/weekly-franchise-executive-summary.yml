@@ -2,23 +2,6 @@ name: Weekly Franchise Executive Summaries
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "generate_weekly_executive_summary.py"
-      - "generate_weekly_executive_summary_filtered.py"
-      - "finalize_franchise_summaries.py"
-      - "scripts/patch-latest-trade-impact.py"
-      - "scripts/reconcile-franchise-summary-consistency.py"
-      - ".github/workflows/weekly-franchise-executive-summary.yml"
-      - "knowledge/teams/**"
-      - "knowledge/02_AVI_Historical_Trades.md"
-      - "data/raw/sleeper/**/rosters.json"
-      - "data/raw/sleeper/**/transactions.json"
-      - "data/raw/sleeper/**/traded_picks.json"
-      - "data/processed/reports/draft_pick_values.json"
-      - "data/processed/reports/historical_trades.json"
   schedule:
     - cron: "0 17 * * 3"
     - cron: "0 18 * * 3"
@@ -27,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: weekly-franchise-executive-summaries
+  group: avi-data-updates
   cancel-in-progress: false
 
 jobs:
@@ -35,9 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Check out repository
+      - name: Check out latest AVI Core main
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Set up Python
