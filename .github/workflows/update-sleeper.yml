@@ -6,6 +6,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: avi-data-updates
+  cancel-in-progress: false
+
 jobs:
   manual-sleeper-update:
     runs-on: ubuntu-latest
@@ -23,13 +27,19 @@ jobs:
 
       AVI_SEASON: "2026"
       AVI_SCORING: "PPR"
-      AVI_METHODOLOGY_VERSION: "2026.1"
+      AVI_METHODOLOGY_VERSION: "2026.2"
 
     steps:
-      - name: Check out AVI Core
+      - name: Check out latest AVI Core main
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
+
+      - name: Sync latest main before manual Sleeper refresh
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
 
       - name: Set up Python
         uses: actions/setup-python@v5
