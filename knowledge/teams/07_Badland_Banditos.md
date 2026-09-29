@@ -23,21 +23,21 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 644.2
 - championship_lineup_c_avi_avg: 80.53
-- offensive_roster_c_avi_sum: 947.4
-- offensive_roster_c_avi_avg: 59.21
-- offensive_roster_d_avi_sum: 1091.8
-- offensive_roster_d_avi_avg: 68.24
+- offensive_roster_c_avi_sum: 973.9
+- offensive_roster_c_avi_avg: 60.87
+- offensive_roster_d_avi_sum: 1095.1
+- offensive_roster_d_avi_avg: 68.44
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Joe Burrow | C-AVI: 86.0 | D-AVI: 89.5
-- RB: Kenneth Walker | C-AVI: 91.4 | D-AVI: 92.2
-- RB: Bucky Irving | C-AVI: 77.7 | D-AVI: 84.0
-- WR: Ja'Marr Chase | C-AVI: 99.4 | D-AVI: 99.9
-- WR: Terry McLaurin | C-AVI: 75.3 | D-AVI: 81.5
-- TE: Brock Bowers | C-AVI: 97.1 | D-AVI: 93.2
-- FLEX: Brian Thomas | C-AVI: 63.1 | D-AVI: 79.3
-- FLEX: Cade Otton | C-AVI: 54.2 | D-AVI: 56.0
+- QB: Joe Burrow | C-AVI: 80.3 | D-AVI: 88.6
+- RB: Kenneth Walker | C-AVI: 93.3 | D-AVI: 92.5
+- RB: Bucky Irving | C-AVI: 80.2 | D-AVI: 84.4
+- WR: Ja'Marr Chase | C-AVI: 97.7 | D-AVI: 99.6
+- WR: Terry McLaurin | C-AVI: 76.4 | D-AVI: 81.6
+- TE: Brock Bowers | C-AVI: 99.1 | D-AVI: 93.6
+- FLEX: Brian Thomas | C-AVI: 58.6 | D-AVI: 78.6
+- FLEX: Tre Tucker | C-AVI: 58.6 | D-AVI: 54.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 86.0
-- Dynasty AVI (D-AVI, 0-100): 89.5
+- Championship AVI (C-AVI, 0-100): 80.3
+- Dynasty AVI (D-AVI, 0-100): 88.6
 - Projected PPR points: 313.7
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Daniel Jones
 - Player name: Daniel Jones
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 48.9
-- Dynasty AVI (D-AVI, 0-100): 59.3
+- Championship AVI (C-AVI, 0-100): 42.8
+- Dynasty AVI (D-AVI, 0-100): 58.2
 - Projected PPR points: 272.6
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Kenneth Walker
 - Player name: Kenneth Walker
@@ -87,11 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 91.4
-- Dynasty AVI (D-AVI, 0-100): 92.2
+- Championship AVI (C-AVI, 0-100): 93.3
+- Dynasty AVI (D-AVI, 0-100): 92.5
 - Projected PPR points: 257.0
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Bucky Irving
 - Player name: Bucky Irving
@@ -104,11 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 77.7
-- Dynasty AVI (D-AVI, 0-100): 84.0
+- Championship AVI (C-AVI, 0-100): 80.2
+- Dynasty AVI (D-AVI, 0-100): 84.4
 - Projected PPR points: 212.3
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Devin Singletary
 - Player name: Devin Singletary
@@ -121,11 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 26.5
-- Dynasty AVI (D-AVI, 0-100): 29.9
+- Championship AVI (C-AVI, 0-100): 39.1
+- Dynasty AVI (D-AVI, 0-100): 32.0
 - Projected PPR points: 31.2
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Kendre Miller
 - Player name: Kendre Miller
@@ -138,11 +138,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 23.2
-- Dynasty AVI (D-AVI, 0-100): 34.5
+- Championship AVI (C-AVI, 0-100): 34.7
+- Dynasty AVI (D-AVI, 0-100): 36.4
 - Projected PPR points: 19.3
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Ja'Marr Chase
 - Player name: Ja'Marr Chase
@@ -155,11 +155,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 99.4
-- Dynasty AVI (D-AVI, 0-100): 99.9
+- Championship AVI (C-AVI, 0-100): 97.7
+- Dynasty AVI (D-AVI, 0-100): 99.6
 - Projected PPR points: 338.3
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Terry McLaurin
 - Player name: Terry McLaurin
@@ -172,11 +172,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 75.3
-- Dynasty AVI (D-AVI, 0-100): 81.5
+- Championship AVI (C-AVI, 0-100): 76.4
+- Dynasty AVI (D-AVI, 0-100): 81.6
 - Projected PPR points: 202.7
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Brian Thomas
 - Player name: Brian Thomas
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 63.1
-- Dynasty AVI (D-AVI, 0-100): 79.3
+- Championship AVI (C-AVI, 0-100): 58.6
+- Dynasty AVI (D-AVI, 0-100): 78.6
 - Projected PPR points: 173.4
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Tre Tucker
 - Player name: Tre Tucker
@@ -206,45 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 47.8
-- Dynasty AVI (D-AVI, 0-100): 52.7
+- Championship AVI (C-AVI, 0-100): 58.6
+- Dynasty AVI (D-AVI, 0-100): 54.5
 - Projected PPR points: 128.1
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
-### PLAYER: Jaylin Noel
-- Player name: Jaylin Noel
-- Player ID: 12536
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: HOU
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 45.7
-- Dynasty AVI (D-AVI, 0-100): 59.0
-- Projected PPR points: 115.5
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
-
-### PLAYER: Jalen McMillan
-- Player name: Jalen McMillan
-- Player ID: 11618
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: TB
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 44.4
-- Dynasty AVI (D-AVI, 0-100): 63.9
-- Projected PPR points: 133.2
-- Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Caleb Douglas
 - Player name: Caleb Douglas
@@ -257,11 +223,45 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 39.3
-- Dynasty AVI (D-AVI, 0-100): 60.1
+- Championship AVI (C-AVI, 0-100): 49.7
+- Dynasty AVI (D-AVI, 0-100): 61.8
 - Projected PPR points: 77.0
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Jaylin Noel
+- Player name: Jaylin Noel
+- Player ID: 12536
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: HOU
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 47.1
+- Dynasty AVI (D-AVI, 0-100): 59.3
+- Projected PPR points: 115.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Jalen McMillan
+- Player name: Jalen McMillan
+- Player ID: 11618
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TB
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 34.9
+- Dynasty AVI (D-AVI, 0-100): 62.3
+- Projected PPR points: 133.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Brandin Cooks
 - Player name: Brandin Cooks
@@ -274,11 +274,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 27.4
-- Dynasty AVI (D-AVI, 0-100): 56.8
+- Championship AVI (C-AVI, 0-100): 23.0
+- Dynasty AVI (D-AVI, 0-100): 55.0
 - Projected PPR points: 96.0
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Jayden Higgins
 - Player name: Jayden Higgins
@@ -308,11 +308,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 97.1
-- Dynasty AVI (D-AVI, 0-100): 93.2
+- Championship AVI (C-AVI, 0-100): 99.1
+- Dynasty AVI (D-AVI, 0-100): 93.6
 - Projected PPR points: 239.4
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Cade Otton
 - Player name: Cade Otton
@@ -325,11 +325,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 54.2
-- Dynasty AVI (D-AVI, 0-100): 56.0
+- Championship AVI (C-AVI, 0-100): 58.4
+- Dynasty AVI (D-AVI, 0-100): 56.7
 - Projected PPR points: 124.7
 - Category: offense
-- Valuation status: ACTIVE_2026_2_IN_SEASON
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Chase McLaughlin
 - Player name: Chase McLaughlin

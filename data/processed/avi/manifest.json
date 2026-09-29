@@ -2,9 +2,9 @@
   "c_avi_weights": {
     "elite_upside": 0.1,
     "league_context": 0.1,
-    "player_points": 0.1,
-    "projections": 0.4,
-    "public_market": 0.3
+    "player_points": 0.25,
+    "projections": 0.3,
+    "public_market": 0.25
   },
   "d_avi_missing_component_policy": "Redistribute missing optional component weights proportionally across verified components.",
   "d_avi_weights": {
@@ -35,7 +35,7 @@
   "injury_availability_adjustments": {
     "championship_horizon_end_week": 17,
     "current_week": 4,
-    "players_capped": 5,
+    "players_capped": 4,
     "players_evaluated": 480,
     "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
     "sources": [
@@ -45,8 +45,8 @@
     "status": "active"
   },
   "league_id": "1312185568032997376",
-  "methodology_status": "active_2026_2_in_season",
-  "methodology_version": "2026.2",
+  "methodology_status": "active_2026_3_in_season",
+  "methodology_version": "2026.3",
   "player_points_active": true,
   "record_counts": {
     "calculated_players": 480,
