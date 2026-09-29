@@ -16,8 +16,8 @@ def test_preseason_points_do_not_affect_c_avi() -> None:
 def test_in_season_points_affect_c_avi() -> None:
     low_points = CAVIComponents(0, 80, 80, 80, 80)
     high_points = CAVIComponents(100, 80, 80, 80, 80)
-    assert calculate_c_avi(low_points, True) == 72.0
-    assert calculate_c_avi(high_points, True) == 82.0
+    assert calculate_c_avi(low_points, True) == 60.0
+    assert calculate_c_avi(high_points, True) == 85.0
 
 
 def test_d_avi_weights() -> None:
