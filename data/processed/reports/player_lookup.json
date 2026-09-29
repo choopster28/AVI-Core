@@ -2007,6 +2007,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013533",
+      "c_avi": 10.2,
+      "d_avi": 26.0,
+      "nfl_team": "NO",
+      "player_name": "Barion Brown",
+      "position": "WR",
+      "sleeper_id": "13533",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012476",
       "c_avi": 9.6,
       "d_avi": 27.4,
@@ -2774,8 +2786,8 @@
     }
   ],
   "counts": {
-    "available_players": 231,
-    "rostered_players": 249
+    "available_players": 232,
+    "rostered_players": 248
   },
   "rostered_players": [
     {
@@ -2969,22 +2981,6 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013533",
-      "c_avi": 10.2,
-      "d_avi": 26.0,
-      "nfl_team": "NO",
-      "owner_id": "736992907139158016",
-      "player_name": "Barion Brown",
-      "position": "WR",
-      "roster_id": 4,
-      "sleeper_id": "13533",
-      "status": "Active",
-      "team_file": "04_Mile_High_Royal_Lions.md",
-      "team_name": "Mile High Royal Lions"
     },
     {
       "active": true,

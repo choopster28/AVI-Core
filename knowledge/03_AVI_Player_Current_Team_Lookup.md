@@ -100,14 +100,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
-## PLAYER LOOKUP: Barion Brown
-- Player name: Barion Brown
-- Player ID: 13533
-- Position: WR
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Team file: 04_Mile_High_Royal_Lions.md
-
 ## PLAYER LOOKUP: Bhayshul Tuten
 - Player name: Bhayshul Tuten
 - Player ID: 12490
@@ -3499,6 +3491,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: MIN
 - Championship AVI (C-AVI, 0-100): 10.5
 - Dynasty AVI (D-AVI, 0-100): 30.0
+- Availability: available
+
+## AVAILABLE PLAYER: Barion Brown
+- Player name: Barion Brown
+- Player ID: 13533
+- Position: WR
+- NFL team: NO
+- Championship AVI (C-AVI, 0-100): 10.2
+- Dynasty AVI (D-AVI, 0-100): 26.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Devin Neal
