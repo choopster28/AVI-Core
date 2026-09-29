@@ -29,40 +29,55 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Enforce Wednesday 11 AM Mountain Time
+      - name: Decide whether this week's summary is already published
         id: local_time
         shell: bash
         run: |
           python - <<'PY'
-          from datetime import datetime
-          from zoneinfo import ZoneInfo
+          import json
           import os
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
 
           now = datetime.now(ZoneInfo("America/Denver"))
-          allowed = now.weekday() == 2 and now.hour == 11
+          manual = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+          manifest = Path("knowledge/franchise_summaries/manifest.json")
+          published_today = False
+          if manifest.exists():
+              try:
+                  generated = json.loads(manifest.read_text(encoding="utf-8")).get("generated_at")
+                  if generated:
+                      published_today = datetime.fromisoformat(generated).astimezone(ZoneInfo("America/Denver")).date() == now.date()
+              except Exception:
+                  pass
+
+          allowed = manual or (now.weekday() == 2 and not published_today)
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
               handle.write(f"allowed={'true' if allowed else 'false'}\n")
-          print(f"Mountain time: {now.isoformat()} | allowed={allowed}")
+          print(f"Mountain time: {now.isoformat()} | manual={manual} | published_today={published_today} | allowed={allowed}")
           PY
+        env:
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
 
       - name: Apply verified latest-trade logic
-        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        if: steps.local_time.outputs.allowed == 'true'
         run: python scripts/patch-latest-trade-impact.py
 
       - name: Generate all 16 franchise summaries
-        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        if: steps.local_time.outputs.allowed == 'true'
         run: python generate_weekly_executive_summary_filtered.py
 
       - name: Finalize canonical dynasty and live roster data
-        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        if: steps.local_time.outputs.allowed == 'true'
         run: python finalize_franchise_summaries.py
 
       - name: Reconcile every summary to current ownership and power neighbors
-        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        if: steps.local_time.outputs.allowed == 'true'
         run: python scripts/reconcile-franchise-summary-consistency.py
 
       - name: Verify all franchise summaries
-        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        if: steps.local_time.outputs.allowed == 'true'
         run: |
           python - <<'PY'
           import json
@@ -214,7 +229,7 @@ jobs:
           PY
 
       - name: Commit refreshed source and summaries
-        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || steps.local_time.outputs.allowed == 'true'
+        if: steps.local_time.outputs.allowed == 'true'
         shell: bash
         run: |
           git config user.name "AVI-Automation"
