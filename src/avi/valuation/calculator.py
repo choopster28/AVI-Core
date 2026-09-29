@@ -42,10 +42,10 @@ def calculate_c_avi(
 ) -> float:
     if player_points_active:
         value = (
-            0.10 * components.player_points
-            + 0.40 * components.projections
+            0.25 * components.player_points
+            + 0.30 * components.projections
             + 0.10 * components.league_context
-            + 0.30 * components.public_market
+            + 0.25 * components.public_market
             + 0.10 * components.elite_upside
         )
     else:
