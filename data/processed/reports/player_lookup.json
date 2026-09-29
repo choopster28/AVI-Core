@@ -442,7 +442,7 @@
       "player_name": "Josh Oliver",
       "position": "TE",
       "sleeper_id": "5973",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -1930,7 +1930,7 @@
       "player_name": "Devin Neal",
       "position": "RB",
       "sleeper_id": "12476",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
