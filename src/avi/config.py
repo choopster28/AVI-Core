@@ -117,7 +117,7 @@ def load_config() -> AviConfig:
         avi_scoring=scoring,
         methodology_version=os.getenv(
             "AVI_METHODOLOGY_VERSION",
-            "2026.1",
+            "2026.3",
         ).strip(),
         regular_season_start_week=_int(
             "AVI_REGULAR_SEASON_START_WEEK",
