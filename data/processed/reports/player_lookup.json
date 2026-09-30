@@ -51,18 +51,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00008188",
-      "c_avi": 53.5,
-      "d_avi": 61.5,
-      "nfl_team": "KC",
-      "player_name": "Tyquan Thornton",
-      "position": "WR",
-      "sleeper_id": "8188",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00006826",
       "c_avi": 53.0,
       "d_avi": 61.3,
@@ -106,6 +94,18 @@
       "player_name": "Samaje Perine",
       "position": "RB",
       "sleeper_id": "4147",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00007090",
+      "c_avi": 51.2,
+      "d_avi": 63.9,
+      "nfl_team": "NYG",
+      "player_name": "Darnell Mooney",
+      "position": "WR",
+      "sleeper_id": "7090",
       "status": "Active"
     },
     {
@@ -874,18 +874,6 @@
       "player_name": "Chimere Dike",
       "position": "WR",
       "sleeper_id": "12540",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011571",
-      "c_avi": 34.0,
-      "d_avi": 64.1,
-      "nfl_team": "NYJ",
-      "player_name": "Isaiah Davis",
-      "position": "RB",
-      "sleeper_id": "11571",
       "status": "Active"
     },
     {
@@ -2786,8 +2774,8 @@
     }
   ],
   "counts": {
-    "available_players": 232,
-    "rostered_players": 248
+    "available_players": 231,
+    "rostered_players": 249
   },
   "rostered_players": [
     {
@@ -3645,14 +3633,14 @@
       "c_avi": 74.7,
       "d_avi": 83.2,
       "nfl_team": "PIT",
-      "owner_id": "872509429436829696",
+      "owner_id": "998253660243054592",
       "player_name": "DK Metcalf",
       "position": "WR",
-      "roster_id": 6,
+      "roster_id": 13,
       "sleeper_id": "5846",
       "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
     },
     {
       "active": true,
@@ -3749,22 +3737,6 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00007090",
-      "c_avi": 51.2,
-      "d_avi": 63.9,
-      "nfl_team": "NYG",
-      "owner_id": "872509429436829696",
-      "player_name": "Darnell Mooney",
-      "position": "WR",
-      "roster_id": 6,
-      "sleeper_id": "7090",
-      "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -4109,14 +4081,14 @@
       "c_avi": 50.0,
       "d_avi": 69.1,
       "nfl_team": "SEA",
-      "owner_id": "736993578450030592",
+      "owner_id": "998253660243054592",
       "player_name": "Emanuel Wilson",
       "position": "RB",
-      "roster_id": 1,
+      "roster_id": 13,
       "sleeper_id": "11435",
       "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
     },
     {
       "active": true,
@@ -4357,6 +4329,22 @@
       "status": "Active",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011571",
+      "c_avi": 34.0,
+      "d_avi": 64.1,
+      "nfl_team": "NYJ",
+      "owner_id": "736993578450030592",
+      "player_name": "Isaiah Davis",
+      "position": "RB",
+      "roster_id": 1,
+      "sleeper_id": "11571",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -4749,14 +4737,14 @@
       "c_avi": 82.9,
       "d_avi": 90.3,
       "nfl_team": "DEN",
-      "owner_id": "998253660243054592",
+      "owner_id": "872509429436829696",
       "player_name": "Jaylen Waddle",
       "position": "WR",
-      "roster_id": 13,
+      "roster_id": 6,
       "sleeper_id": "7526",
       "status": "Active",
-      "team_file": "13_Southside_Savages.md",
-      "team_name": "Southside Savages"
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -4877,14 +4865,14 @@
       "c_avi": 96.6,
       "d_avi": 96.5,
       "nfl_team": "IND",
-      "owner_id": "872509429436829696",
+      "owner_id": "736993578450030592",
       "player_name": "Jonathan Taylor",
       "position": "RB",
-      "roster_id": 6,
+      "roster_id": 1,
       "sleeper_id": "6813",
       "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -5405,14 +5393,14 @@
       "c_avi": 84.3,
       "d_avi": 91.4,
       "nfl_team": "LAC",
-      "owner_id": "736993578450030592",
+      "owner_id": "872509429436829696",
       "player_name": "Ladd McConkey",
       "position": "WR",
-      "roster_id": 1,
+      "roster_id": 6,
       "sleeper_id": "11635",
       "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -6397,14 +6385,14 @@
       "c_avi": 83.3,
       "d_avi": 89.0,
       "nfl_team": "NO",
-      "owner_id": "998253660243054592",
+      "owner_id": "872509429436829696",
       "player_name": "Travis Etienne",
       "position": "RB",
-      "roster_id": 13,
+      "roster_id": 6,
       "sleeper_id": "7543",
       "status": "Active",
-      "team_file": "13_Southside_Savages.md",
-      "team_name": "Southside Savages"
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -6613,6 +6601,22 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00008188",
+      "c_avi": 53.5,
+      "d_avi": 61.5,
+      "nfl_team": "KC",
+      "owner_id": "737531831641128960",
+      "player_name": "Tyquan Thornton",
+      "position": "WR",
+      "roster_id": 7,
+      "sleeper_id": "8188",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,

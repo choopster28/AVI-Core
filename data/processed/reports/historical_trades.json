@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-30T18:01:13.303958+00:00",
+  "generated_at_utc": "2026-09-30T20:53:54.598995+00:00",
   "statistics": {
-    "owner_trade_participations": 173,
+    "owner_trade_participations": 176,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -72,7 +72,7 @@
         "team_name": "Gringo’s Goblins "
       },
       {
-        "partner_count": 2,
+        "partner_count": 3,
         "partners": [
           "Conquistadors"
         ],
@@ -131,7 +131,9 @@
       {
         "partner_count": 1,
         "partners": [
-          "Ravens Regime "
+          "Conquistadors",
+          "Ravens Regime ",
+          "Lightskin Legends ✊🏽"
         ],
         "roster_id": 13,
         "team_name": "Southside Savages"
@@ -157,6 +159,23 @@
       },
       {
         "by_season": {
+          "2024": 6,
+          "2025": 2,
+          "2026": 13
+        },
+        "firsts_in": 3,
+        "firsts_out": 6,
+        "owner_display_name": "Thecan",
+        "picks_in": 8,
+        "picks_out": 17,
+        "players_in": 19,
+        "players_out": 23,
+        "roster_id": 1,
+        "team_name": "Conquistadors",
+        "total": 21
+      },
+      {
+        "by_season": {
           "2024": 7,
           "2025": 2,
           "2026": 11
@@ -170,23 +189,6 @@
         "players_out": 32,
         "roster_id": 9,
         "team_name": "Big Balder Brand",
-        "total": 20
-      },
-      {
-        "by_season": {
-          "2024": 6,
-          "2025": 2,
-          "2026": 12
-        },
-        "firsts_in": 3,
-        "firsts_out": 5,
-        "owner_display_name": "Thecan",
-        "picks_in": 8,
-        "picks_out": 11,
-        "players_in": 18,
-        "players_out": 21,
-        "roster_id": 1,
-        "team_name": "Conquistadors",
         "total": 20
       },
       {
@@ -291,6 +293,23 @@
       },
       {
         "by_season": {
+          "2024": 2,
+          "2025": 3,
+          "2026": 2
+        },
+        "firsts_in": 0,
+        "firsts_out": 0,
+        "owner_display_name": "MadDawgMatt",
+        "picks_in": 1,
+        "picks_out": 3,
+        "players_in": 9,
+        "players_out": 5,
+        "roster_id": 6,
+        "team_name": "Lightskin Legends ✊🏽",
+        "total": 7
+      },
+      {
+        "by_season": {
           "2025": 4,
           "2026": 2
         },
@@ -303,23 +322,6 @@
         "players_out": 5,
         "roster_id": 8,
         "team_name": "All Hail King Jesus",
-        "total": 6
-      },
-      {
-        "by_season": {
-          "2024": 2,
-          "2025": 3,
-          "2026": 1
-        },
-        "firsts_in": 0,
-        "firsts_out": 0,
-        "owner_display_name": "MadDawgMatt",
-        "picks_in": 1,
-        "picks_out": 3,
-        "players_in": 6,
-        "players_out": 3,
-        "roster_id": 6,
-        "team_name": "Lightskin Legends ✊🏽",
         "total": 6
       },
       {
@@ -372,6 +374,22 @@
       },
       {
         "by_season": {
+          "2025": 1,
+          "2026": 1
+        },
+        "firsts_in": 1,
+        "firsts_out": 0,
+        "owner_display_name": "GGEZGoNext",
+        "picks_in": 6,
+        "picks_out": 0,
+        "players_in": 3,
+        "players_out": 2,
+        "roster_id": 13,
+        "team_name": "Southside Savages",
+        "total": 2
+      },
+      {
+        "by_season": {
           "2026": 1
         },
         "firsts_in": 0,
@@ -384,31 +402,16 @@
         "roster_id": 14,
         "team_name": "Phalhala or Bust",
         "total": 1
-      },
-      {
-        "by_season": {
-          "2025": 1
-        },
-        "firsts_in": 0,
-        "firsts_out": 0,
-        "owner_display_name": "GGEZGoNext",
-        "picks_in": 0,
-        "picks_out": 0,
-        "players_in": 1,
-        "players_out": 0,
-        "roster_id": 13,
-        "team_name": "Southside Savages",
-        "total": 1
       }
     ],
-    "three_team_trades": 1,
+    "three_team_trades": 2,
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 43
+      "2026": 44
     },
     "two_team_trades": 85,
-    "unique_completed_trades": 86
+    "unique_completed_trades": 87
   },
   "trades": [
     {
@@ -6324,6 +6327,170 @@
       ],
       "transaction_id": "1410419901381775360",
       "week": 3
+    },
+    {
+      "created_at_utc": "2026-09-30T19:31:11.041000+00:00",
+      "created_timestamp_ms": 1790796671041,
+      "roster_ids": [
+        1,
+        6,
+        13
+      ],
+      "season": 2026,
+      "team_count": 3,
+      "teams": [
+        {
+          "owner_display_name": "Thecan",
+          "owner_id": "736993578450030592",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2029"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2029"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2029"
+            },
+            {
+              "original_roster_id": 3,
+              "round": 3,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "6813",
+              "player_name": "Jonathan Taylor"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11435",
+              "player_name": "Emanuel Wilson"
+            },
+            {
+              "player_id": "11635",
+              "player_name": "Ladd McConkey"
+            }
+          ],
+          "roster_id": 1,
+          "season": 2026,
+          "team_name": "Conquistadors"
+        },
+        {
+          "owner_display_name": "MadDawgMatt",
+          "owner_id": "872509429436829696",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "11635",
+              "player_name": "Ladd McConkey"
+            },
+            {
+              "player_id": "7526",
+              "player_name": "Jaylen Waddle"
+            },
+            {
+              "player_id": "7543",
+              "player_name": "Travis Etienne"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5846",
+              "player_name": "DK Metcalf"
+            },
+            {
+              "player_id": "6813",
+              "player_name": "Jonathan Taylor"
+            }
+          ],
+          "roster_id": 6,
+          "season": 2026,
+          "team_name": "Lightskin Legends ✊🏽"
+        },
+        {
+          "owner_display_name": "GGEZGoNext",
+          "owner_id": "998253660243054592",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 1,
+              "season": "2029"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2029"
+            },
+            {
+              "original_roster_id": 1,
+              "round": 3,
+              "season": "2029"
+            },
+            {
+              "original_roster_id": 3,
+              "round": 3,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 5,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "11435",
+              "player_name": "Emanuel Wilson"
+            },
+            {
+              "player_id": "5846",
+              "player_name": "DK Metcalf"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7526",
+              "player_name": "Jaylen Waddle"
+            },
+            {
+              "player_id": "7543",
+              "player_name": "Travis Etienne"
+            }
+          ],
+          "roster_id": 13,
+          "season": 2026,
+          "team_name": "Southside Savages"
+        }
+      ],
+      "transaction_id": "1411107150322741248",
+      "week": 4
     }
   ]
 }

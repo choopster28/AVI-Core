@@ -254,8 +254,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Northside Kings
 - Original roster ID: 5
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
@@ -422,8 +422,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Ravens Regime
 - Original roster ID: 3
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
@@ -4238,8 +4238,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Conquistadors
 - Original roster ID: 1
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
@@ -7694,8 +7694,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Conquistadors
 - Original roster ID: 1
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
@@ -7886,8 +7886,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Conquistadors
 - Original roster ID: 1
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
@@ -8078,8 +8078,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Conquistadors
 - Original roster ID: 1
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd

@@ -17,36 +17,36 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **86**
-- Owner trade participations: **173**
+- Unique completed trades: **87**
+- Owner trade participations: **176**
 - Two-team trades: **85**
-- Three-team trades: **1**
+- Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **43**
+- 2026 completed trades: **44**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-09-28T22:00:18.125000+00:00**
+- Latest verified trade: **2026-09-30T19:31:11.041000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Corgi Loaf Baking Co.  | awang1900 | **25** | 7 | 4 | 14 | 37 | 37 | 8 | 13 | 6 | 8 |
-| 2 | Big Balder Brand | Choopski | **20** | 7 | 2 | 11 | 30 | 32 | 3 | 7 | 1 | 4 |
-| 3 | Conquistadors | Thecan | **20** | 6 | 2 | 12 | 18 | 21 | 8 | 11 | 3 | 5 |
+| 2 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
+| 3 | Big Balder Brand | Choopski | **20** | 7 | 2 | 11 | 30 | 32 | 3 | 7 | 1 | 4 |
 | 4 | Ravens Regime  | Mentomorii | **20** | 3 | 3 | 14 | 20 | 25 | 5 | 7 | 2 | 4 |
 | 5 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
 | 6 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 5 | 3 | 2 | 2 |
 | 7 | Badland Banditos  | IcebergSlim69 | **10** | 4 | 4 | 2 | 10 | 11 | 3 | 4 | 1 | 1 |
 | 8 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
 | 9 | Crimson Tide Pods | nickas | **8** | 0 | 1 | 7 | 13 | 11 | 9 | 2 | 5 | 0 |
-| 10 | All Hail King Jesus | Hofer51 | **6** | 0 | 4 | 2 | 8 | 5 | 0 | 8 | 0 | 3 |
-| 11 | Lightskin Legends ✊🏽 | MadDawgMatt | **6** | 2 | 3 | 1 | 6 | 3 | 1 | 3 | 0 | 0 |
+| 10 | Lightskin Legends ✊🏽 | MadDawgMatt | **7** | 2 | 3 | 2 | 9 | 5 | 1 | 3 | 0 | 0 |
+| 11 | All Hail King Jesus | Hofer51 | **6** | 0 | 4 | 2 | 8 | 5 | 0 | 8 | 0 | 3 |
 | 12 | Rapid Valley Annihilation | FuzzyRaptor | **6** | 0 | 3 | 3 | 9 | 10 | 6 | 1 | 2 | 0 |
 | 13 | SmokyValleyWheatWarriors | AlexPete6800 | **5** | 2 | 2 | 1 | 1 | 3 | 3 | 3 | 0 | 1 |
 | 14 | Gringo’s Goblins  | Burnfaze | **3** | 0 | 0 | 3 | 7 | 7 | 2 | 2 | 2 | 0 |
-| 15 | Phalhala or Bust | PIFYAF | **1** | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
-| 16 | Southside Savages | GGEZGoNext | **1** | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Southside Savages | GGEZGoNext | **2** | 0 | 1 | 1 | 3 | 2 | 6 | 0 | 1 | 0 |
+| 16 | Phalhala or Bust | PIFYAF | **1** | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
 
 ## Trade-Partner Matrix
 
@@ -60,16 +60,40 @@
 | Crimson Tide Pods | Corgi Loaf Baking Co.  | 3 |
 | DMV Fantasy | Big Balder Brand | 7 |
 | Gringo’s Goblins  | Ravens Regime , Big Balder Brand, Corgi Loaf Baking Co.  | 1 |
-| Lightskin Legends ✊🏽 | Conquistadors | 2 |
+| Lightskin Legends ✊🏽 | Conquistadors | 3 |
 | Mile High Royal Lions | Northside Kings , All Hail King Jesus | 2 |
 | Northside Kings  | Conquistadors | 5 |
 | Phalhala or Bust | Ravens Regime  | 1 |
 | Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 4 |
 | Ravens Regime  | Corgi Loaf Baking Co.  | 4 |
 | SmokyValleyWheatWarriors | Conquistadors | 3 |
-| Southside Savages | Ravens Regime  | 1 |
+| Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1411107150322741248
+- Season: 2026
+- Week: 4
+- Created at UTC: 2026-09-30T19:31:11.041000+00:00
+- Teams involved: 3
+
+#### Conquistadors (Thecan)
+- Players received: Jonathan Taylor
+- Players sent: Emanuel Wilson, Ladd McConkey
+- Picks received: None
+- Picks sent: 2028 Round 3 (original roster 1), 2029 Round 1 (original roster 1), 2029 Round 2 (original roster 1), 2029 Round 3 (original roster 1), 2027 Round 3 (original roster 3), 2027 Round 2 (original roster 5)
+
+#### Lightskin Legends ✊🏽 (MadDawgMatt)
+- Players received: Ladd McConkey, Jaylen Waddle, Travis Etienne
+- Players sent: DK Metcalf, Jonathan Taylor
+- Picks received: None
+- Picks sent: None
+
+#### Southside Savages (GGEZGoNext)
+- Players received: Emanuel Wilson, DK Metcalf
+- Players sent: Jaylen Waddle, Travis Etienne
+- Picks received: 2028 Round 3 (original roster 1), 2029 Round 1 (original roster 1), 2029 Round 2 (original roster 1), 2029 Round 3 (original roster 1), 2027 Round 3 (original roster 3), 2027 Round 2 (original roster 5)
+- Picks sent: None
 
 ### TRADE: 1410419901381775360
 - Season: 2026

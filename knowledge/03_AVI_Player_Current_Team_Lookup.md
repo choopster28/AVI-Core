@@ -432,9 +432,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: DK Metcalf
 - Player ID: 5846
 - Position: WR
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Team file: 06_Lightskin_Legends.md
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Team file: 13_Southside_Savages.md
 
 ## PLAYER LOOKUP: Dak Prescott
 - Player name: Dak Prescott
@@ -483,14 +483,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
-
-## PLAYER LOOKUP: Darnell Mooney
-- Player name: Darnell Mooney
-- Player ID: 7090
-- Position: WR
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Darren Waller
 - Player name: Darren Waller
@@ -664,9 +656,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Emanuel Wilson
 - Player ID: 11435
 - Position: RB
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Team file: 13_Southside_Savages.md
 
 ## PLAYER LOOKUP: Emeka Egbuka
 - Player name: Emeka Egbuka
@@ -787,6 +779,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
+
+## PLAYER LOOKUP: Isaiah Davis
+- Player name: Isaiah Davis
+- Player ID: 11571
+- Position: RB
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Isaiah Likely
 - Player name: Isaiah Likely
@@ -984,9 +984,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jaylen Waddle
 - Player ID: 7526
 - Position: WR
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Team file: 13_Southside_Savages.md
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Jaylen Warren
 - Player name: Jaylen Warren
@@ -1048,9 +1048,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jonathan Taylor
 - Player ID: 6813
 - Position: RB
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Team file: 06_Lightskin_Legends.md
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Jonathon Brooks
 - Player name: Jonathon Brooks
@@ -1312,9 +1312,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Ladd McConkey
 - Player ID: 11635
 - Position: WR
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Lamar Jackson
 - Player name: Lamar Jackson
@@ -1808,9 +1808,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Travis Etienne
 - Player ID: 7543
 - Position: RB
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Team file: 13_Southside_Savages.md
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Travis Kelce
 - Player name: Travis Kelce
@@ -1915,6 +1915,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
+
+## PLAYER LOOKUP: Tyquan Thornton
+- Player name: Tyquan Thornton
+- Player ID: 8188
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: Tyreek Hill
 - Player name: Tyreek Hill
@@ -2026,15 +2034,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 64.3
 - Availability: available
 
-## AVAILABLE PLAYER: Tyquan Thornton
-- Player name: Tyquan Thornton
-- Player ID: 8188
-- Position: WR
-- NFL team: KC
-- Championship AVI (C-AVI, 0-100): 53.5
-- Dynasty AVI (D-AVI, 0-100): 61.5
-- Availability: available
-
 ## AVAILABLE PLAYER: Cole Kmet
 - Player name: Cole Kmet
 - Player ID: 6826
@@ -2069,6 +2068,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CIN
 - Championship AVI (C-AVI, 0-100): 51.5
 - Dynasty AVI (D-AVI, 0-100): 64.3
+- Availability: available
+
+## AVAILABLE PLAYER: Darnell Mooney
+- Player name: Darnell Mooney
+- Player ID: 7090
+- Position: WR
+- NFL team: NYG
+- Championship AVI (C-AVI, 0-100): 51.2
+- Dynasty AVI (D-AVI, 0-100): 63.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Joshua Palmer
@@ -2645,15 +2653,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: TEN
 - Championship AVI (C-AVI, 0-100): 34.0
 - Dynasty AVI (D-AVI, 0-100): 59.3
-- Availability: available
-
-## AVAILABLE PLAYER: Isaiah Davis
-- Player name: Isaiah Davis
-- Player ID: 11571
-- Position: RB
-- NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 34.0
-- Dynasty AVI (D-AVI, 0-100): 64.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Malik Benson
