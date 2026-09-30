@@ -4,35 +4,35 @@
   "franchise_name": "Gringo\u2019s Goblins",
   "roster_id": 15,
   "owner_display_name": "Burnfaze",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Gringo\u2019s Goblins: Preseason Front Office Brief",
-  "executive_summary": "Gringo\u2019s Goblins is projected #11 of 16 with a 575.90 projected-starting-lineup C-AVI total, led by Emeka Egbuka, Kyren Williams, and Jameson Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "headline": "Gringo\u2019s Goblins: Weekly Front Office Brief",
+  "executive_summary": "Gringo\u2019s Goblins is projected #10 of 16 with a 606.20 projected-starting-lineup C-AVI total, led by Kyren Williams, Christian Watson, and Emeka Egbuka. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 11,
+    "rank": 10,
     "league_size": 16,
-    "score": 575.9,
+    "score": 606.2,
     "team_above": {
-      "name": "Lightskin Legends \u270a\ud83c\udffd",
-      "rank": 10,
-      "score": 591.7,
-      "gap": 15.800000000000068
+      "name": "Ravens Regime",
+      "rank": 9,
+      "score": 658.6,
+      "gap": 52.39999999999998
     },
     "team_below": {
       "name": "Phalhala or Bust",
-      "rank": 12,
-      "score": 549.8,
-      "gap": 26.100000000000023
+      "rank": 11,
+      "score": 593.6,
+      "gap": 12.600000000000023
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 5,
+    "rank": 8,
     "league_size": 16,
-    "score": 2200.1,
-    "player_d_avi": 1123.6,
+    "score": 2249.4,
+    "player_d_avi": 1172.9,
     "future_pick_d_avi": 1076.5,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Romeo Doubs's 56.4 C-AVI baseline; a replacement near 72.2 C-AVI would directly attack the 15.80-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
+    "Raise the QB slot above Bo Nix's 62.2 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 52.40-point projected gap to Ravens Regime."
   ],
   "rival_below": {
     "franchise_name": "Phalhala or Bust",
-    "projected_rank": 12,
-    "projected_score": 549.8,
+    "projected_rank": 11,
+    "projected_score": 593.6,
     "latest_trade": {
       "transaction_id": "1356901536596242432",
       "created_at": "2026-05-04T05:37:25.638000+00:00",
@@ -70,12 +70,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #11 of 16 at 575.90 lineup C-AVI. Lightskin Legends \u270a\ud83c\udffd is immediately above at 591.70, a gap of 15.80. Phalhala or Bust is immediately behind at 549.80."
+      "body": "Projected #10 of 16 at 606.20 lineup C-AVI. Ravens Regime is immediately above at 658.60, a gap of 52.40. Phalhala or Bust is immediately behind at 593.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Emeka Egbuka (85.3), Kyren Williams (83.5), and Jameson Williams (79.9)."
+      "body": "The three highest C-AVI starters are Kyren Williams (86.8), Christian Watson (86.4), and Emeka Egbuka (82.1)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,9 +85,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Romeo Doubs's 56.4 C-AVI baseline; a replacement near 72.2 C-AVI would directly attack the 15.80-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
+      "body": "Raise the QB slot above Bo Nix's 62.2 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 52.40-point projected gap to Ravens Regime.",
       "items": [
-        "Raise the FLEX slot above Romeo Doubs's 56.4 C-AVI baseline; a replacement near 72.2 C-AVI would directly attack the 15.80-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
+        "Raise the QB slot above Bo Nix's 62.2 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 52.40-point projected gap to Ravens Regime."
       ]
     },
     {
@@ -98,17 +98,27 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Romeo Doubs is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 56.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Bo Nix is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 62.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 15 offensive players on the current Sleeper-owned roster are marked Active."
+      "body": "Current Sleeper-owned roster has 14 active offensive players; non-active: Jonathon Brooks."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
       "body": "Verified current future draft capital contributes 1076.5 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
@@ -116,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/15_Gringo_s_Goblins.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

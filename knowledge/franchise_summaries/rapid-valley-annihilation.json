@@ -4,35 +4,35 @@
   "franchise_name": "Rapid Valley Annihilation",
   "roster_id": 2,
   "owner_display_name": "FuzzyRaptor",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Rapid Valley Annihilation: Preseason Front Office Brief",
-  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 535.20 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "headline": "Rapid Valley Annihilation: Weekly Front Office Brief",
+  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 572.90 projected-starting-lineup C-AVI total, led by Caleb Williams, Quinshon Judkins, and Colston Loveland. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 13,
     "league_size": 16,
-    "score": 535.2,
+    "score": 572.9,
     "team_above": {
-      "name": "Phalhala or Bust",
+      "name": "Northside Kings",
       "rank": 12,
-      "score": 549.8,
-      "gap": 14.599999999999909
+      "score": 578.3,
+      "gap": 5.399999999999977
     },
     "team_below": {
-      "name": "DMV Fantasy",
+      "name": "Southside Savages",
       "rank": 14,
-      "score": 533.4,
-      "gap": 1.8000000000000682
+      "score": 566.5,
+      "gap": 6.399999999999977
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 2,
+    "rank": 1,
     "league_size": 16,
-    "score": 2508.2,
-    "player_d_avi": 1185.7,
+    "score": 2629.4,
+    "player_d_avi": 1306.9,
     "future_pick_d_avi": 1322.5,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 67.1 C-AVI would directly attack the 14.60-point projected gap to Phalhala or Bust."
+    "Raise the FLEX slot above Blake Corum's 63.6 C-AVI baseline; a replacement near 69.0 C-AVI would directly attack the 5.40-point projected gap to Northside Kings."
   ],
   "rival_below": {
-    "franchise_name": "DMV Fantasy",
+    "franchise_name": "Southside Savages",
     "projected_rank": 14,
-    "projected_score": 533.4,
+    "projected_score": 566.5,
     "latest_trade": {
-      "transaction_id": "1396908520204410880",
-      "created_at": "2026-08-22T15:10:53.824000+00:00",
+      "transaction_id": "1411107150322741248",
+      "created_at": "2026-09-30T19:31:11.041000+00:00",
       "type": "trade",
-      "summary": "On August 22, DMV Fantasy completed a trade with Badland Banditos and acquired 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos) and sent Terry McLaurin.",
+      "summary": "On September 30, Southside Savages completed a trade with Conquistadors, Lightskin Legends \u270a\ud83c\udffd and acquired Emanuel Wilson, DK Metcalf, 2028 Round 3 (Conquistadors), 2029 Round 1 (Conquistadors), 2029 Round 2 (Conquistadors), 2029 Round 3 (Conquistadors), 2027 Round 3 (Ravens Regime), 2027 Round 2 (Northside Kings) and sent Jaylen Waddle, Travis Etienne.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1396908520204410880",
-      "created_at": "2026-08-22T15:10:53.824000+00:00",
+      "transaction_id": "1411107150322741248",
+      "created_at": "2026-09-30T19:31:11.041000+00:00",
       "type": "trade",
-      "summary": "On August 22, DMV Fantasy completed a trade with Badland Banditos and acquired 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos) and sent Terry McLaurin.",
+      "summary": "On September 30, Southside Savages completed a trade with Conquistadors, Lightskin Legends \u270a\ud83c\udffd and acquired Emanuel Wilson, DK Metcalf, 2028 Round 3 (Conquistadors), 2029 Round 1 (Conquistadors), 2029 Round 2 (Conquistadors), 2029 Round 3 (Conquistadors), 2027 Round 3 (Ravens Regime), 2027 Round 2 (Northside Kings) and sent Jaylen Waddle, Travis Etienne.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 22, DMV Fantasy completed a trade with Badland Banditos and acquired 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos) and sent Terry McLaurin."
+    "summary": "On September 30, Southside Savages completed a trade with Conquistadors, Lightskin Legends \u270a\ud83c\udffd and acquired Emanuel Wilson, DK Metcalf, 2028 Round 3 (Conquistadors), 2029 Round 1 (Conquistadors), 2029 Round 2 (Conquistadors), 2029 Round 3 (Conquistadors), 2027 Round 3 (Ravens Regime), 2027 Round 2 (Northside Kings) and sent Jaylen Waddle, Travis Etienne."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #13 of 16 at 535.20 lineup C-AVI. Phalhala or Bust is immediately above at 549.80, a gap of 14.60. DMV Fantasy is immediately behind at 533.40."
+      "body": "Projected #13 of 16 at 572.90 lineup C-AVI. Northside Kings is immediately above at 578.30, a gap of 5.40. Southside Savages is immediately behind at 566.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Colston Loveland (98.1), Quinshon Judkins (75.9), and Caleb Williams (73.6)."
+      "body": "The three highest C-AVI starters are Caleb Williams (79.6), Quinshon Judkins (76.9), and Colston Loveland (76.3)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,30 +85,40 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 67.1 C-AVI would directly attack the 14.60-point projected gap to Phalhala or Bust.",
+      "body": "Raise the FLEX slot above Blake Corum's 63.6 C-AVI baseline; a replacement near 69.0 C-AVI would directly attack the 5.40-point projected gap to Northside Kings.",
       "items": [
-        "Raise the FLEX slot above Blake Corum's 52.5 C-AVI baseline; a replacement near 67.1 C-AVI would directly attack the 14.60-point projected gap to Phalhala or Bust."
+        "Raise the FLEX slot above Blake Corum's 63.6 C-AVI baseline; a replacement near 69.0 C-AVI would directly attack the 5.40-point projected gap to Northside Kings."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 22, DMV Fantasy completed a trade with Badland Banditos and acquired 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos) and sent Terry McLaurin."
+      "body": "On September 30, Southside Savages completed a trade with Conquistadors, Lightskin Legends \u270a\ud83c\udffd and acquired Emanuel Wilson, DK Metcalf, 2028 Round 3 (Conquistadors), 2029 Round 1 (Conquistadors), 2029 Round 2 (Conquistadors), 2029 Round 3 (Conquistadors), 2027 Round 3 (Ravens Regime), 2027 Round 2 (Northside Kings) and sent Jaylen Waddle, Travis Etienne."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Blake Corum is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 52.5. Any acquisition should clear that exact lineup threshold."
+      "body": "Blake Corum is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 63.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 16 offensive players on the current Sleeper-owned roster are marked Active."
+      "body": "Current Sleeper-owned roster has 15 active offensive players; non-active: Omar Cooper, Eli Stowers."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
       "body": "Verified current future draft capital contributes 1322.5 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
@@ -117,7 +127,7 @@
       "AVI-Core/knowledge/teams/02_Rapid_Valley_Annihilation.md",
       "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

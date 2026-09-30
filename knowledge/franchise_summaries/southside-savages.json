@@ -4,119 +4,130 @@
   "franchise_name": "Southside Savages",
   "roster_id": 13,
   "owner_display_name": "GGEZGoNext",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Southside Savages: Preseason Front Office Brief",
-  "executive_summary": "Southside Savages is projected #8 of 16 with a 633.40 projected-starting-lineup C-AVI total, led by Drake Maye, Tetairoa McMillan, and Josh Jacobs. The immediate priority is improving the TE slot without weakening that core.",
+  "headline": "Southside Savages: Weekly Front Office Brief",
+  "executive_summary": "Southside Savages is projected #14 of 16 with a 566.50 projected-starting-lineup C-AVI total, led by Tetairoa McMillan, Luther Burden, and DK Metcalf. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 8,
+    "rank": 14,
     "league_size": 16,
-    "score": 633.4,
+    "score": 566.5,
     "team_above": {
-      "name": "All Hail King Jesus",
-      "rank": 7,
-      "score": 648.6,
-      "gap": 15.200000000000045
+      "name": "Rapid Valley Annihilation",
+      "rank": 13,
+      "score": 572.9,
+      "gap": 6.399999999999977
     },
     "team_below": {
-      "name": "Ravens Regime",
-      "rank": 9,
-      "score": 627.1,
-      "gap": 6.2999999999999545
+      "name": "Crimson Tide Pods",
+      "rank": 15,
+      "score": 526.6,
+      "gap": 39.89999999999998
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 15,
+    "rank": 4,
     "league_size": 16,
-    "score": 1968.9,
-    "player_d_avi": 961.0,
-    "future_pick_d_avi": 1007.9,
+    "score": 2284.6,
+    "player_d_avi": 1047.4,
+    "future_pick_d_avi": 1237.2,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1283906516683853824",
-    "created_at": "2025-10-14T19:21:16.708000+00:00",
+    "transaction_id": "1411107150322741248",
+    "created_at": "2026-09-30T19:31:11.041000+00:00",
     "type": "trade",
-    "summary": "On October 14, Southside Savages completed a trade with Ravens Regime and acquired Tetairoa McMillan and sent 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages).",
-    "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
+    "summary": "On September 30, Southside Savages completed a trade with Conquistadors, Lightskin Legends \u270a\ud83c\udffd and acquired Emanuel Wilson, DK Metcalf, 2028 Round 3 (Conquistadors), 2029 Round 1 (Conquistadors), 2029 Round 2 (Conquistadors), 2029 Round 3 (Conquistadors), 2027 Round 3 (Ravens Regime), 2027 Round 2 (Northside Kings) and sent Jaylen Waddle, Travis Etienne.",
+    "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Chig Okonkwo's 56.3 C-AVI baseline; a replacement near 71.5 C-AVI would directly attack the 15.20-point projected gap to All Hail King Jesus."
+    "Raise the RB slot above Ty Johnson's 57.2 C-AVI baseline; a replacement near 63.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation."
   ],
   "rival_below": {
-    "franchise_name": "Ravens Regime",
-    "projected_rank": 9,
-    "projected_score": 627.1,
+    "franchise_name": "Crimson Tide Pods",
+    "projected_rank": 15,
+    "projected_score": 526.6,
     "latest_trade": {
-      "transaction_id": "1394538418473545728",
-      "created_at": "2026-08-16T02:12:57.536000+00:00",
+      "transaction_id": "1407885687583154176",
+      "created_at": "2026-09-21T22:10:14.473000+00:00",
       "type": "trade",
-      "summary": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams.",
+      "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1394538418473545728",
-      "created_at": "2026-08-16T02:12:57.536000+00:00",
+      "transaction_id": "1407885687583154176",
+      "created_at": "2026-09-21T22:10:14.473000+00:00",
       "type": "trade",
-      "summary": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams.",
+      "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams."
+    "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #8 of 16 at 633.40 lineup C-AVI. All Hail King Jesus is immediately above at 648.60, a gap of 15.20. Ravens Regime is immediately behind at 627.10."
+      "body": "Projected #14 of 16 at 566.50 lineup C-AVI. Rapid Valley Annihilation is immediately above at 572.90, a gap of 6.40. Crimson Tide Pods is immediately behind at 526.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Drake Maye (97.5), Tetairoa McMillan (87.1), and Josh Jacobs (85.0)."
+      "body": "The three highest C-AVI starters are Tetairoa McMillan (83.2), Luther Burden (82.6), and DK Metcalf (74.7)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On October 14, Southside Savages completed a trade with Ravens Regime and acquired Tetairoa McMillan and sent 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages)."
+      "body": "On September 30, Southside Savages completed a trade with Conquistadors, Lightskin Legends \u270a\ud83c\udffd and acquired Emanuel Wilson, DK Metcalf, 2028 Round 3 (Conquistadors), 2029 Round 1 (Conquistadors), 2029 Round 2 (Conquistadors), 2029 Round 3 (Conquistadors), 2027 Round 3 (Ravens Regime), 2027 Round 2 (Northside Kings) and sent Jaylen Waddle, Travis Etienne."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Chig Okonkwo's 56.3 C-AVI baseline; a replacement near 71.5 C-AVI would directly attack the 15.20-point projected gap to All Hail King Jesus.",
+      "body": "Raise the RB slot above Ty Johnson's 57.2 C-AVI baseline; a replacement near 63.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation.",
       "items": [
-        "Raise the TE slot above Chig Okonkwo's 56.3 C-AVI baseline; a replacement near 71.5 C-AVI would directly attack the 15.20-point projected gap to All Hail King Jesus."
+        "Raise the RB slot above Ty Johnson's 57.2 C-AVI baseline; a replacement near 63.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 15, Ravens Regime completed a trade with Mile High Royal Lions and acquired KC Concepcion and sent Davante Adams."
+      "body": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Chig Okonkwo is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 56.3. Any acquisition should clear that exact lineup threshold."
+      "body": "Ty Johnson is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 57.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 12 offensive players on the current Sleeper-owned roster are marked Active."
+      "body": "Current Sleeper-owned roster has 13 active offensive players; non-active: Jayden Reed."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified current future draft capital contributes 1007.9 D-AVI to the franchise's dynasty total."
+      "body": "Verified current future draft capital contributes 1237.2 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
     "policy": "AVI-Core current Sleeper ownership + AVI valuation data",
     "files": [
-      "AVI-Core/knowledge/teams/13_Southside_Savages.md"
+      "AVI-Core/knowledge/teams/13_Southside_Savages.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

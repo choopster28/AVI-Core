@@ -4,35 +4,35 @@
   "franchise_name": "Badland Banditos",
   "roster_id": 7,
   "owner_display_name": "IcebergSlim69",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Badland Banditos: Preseason Front Office Brief",
-  "executive_summary": "Badland Banditos is projected #6 of 16 with a 652.50 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
+  "headline": "Badland Banditos: Weekly Front Office Brief",
+  "executive_summary": "Badland Banditos is projected #8 of 16 with a 661.60 projected-starting-lineup C-AVI total, led by Ja'Marr Chase, Brock Bowers, and Kenneth Walker. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 6,
+    "rank": 8,
     "league_size": 16,
-    "score": 652.5,
+    "score": 661.6,
     "team_above": {
-      "name": "SmokyValleyWheatWarriors",
-      "rank": 5,
-      "score": 666.2,
-      "gap": 13.700000000000045
+      "name": "Lightskin Legends \u270a\ud83c\udffd",
+      "rank": 7,
+      "score": 662.4,
+      "gap": 0.7999999999999545
     },
     "team_below": {
-      "name": "All Hail King Jesus",
-      "rank": 7,
-      "score": 648.6,
-      "gap": 3.8999999999999773
+      "name": "Ravens Regime",
+      "rank": 9,
+      "score": 658.6,
+      "gap": 3.0
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 7,
+    "rank": 9,
     "league_size": 16,
-    "score": 2129.8,
-    "player_d_avi": 1181.9,
+    "score": 2161.7,
+    "player_d_avi": 1213.8,
     "future_pick_d_avi": 947.9,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Cade Otton's 54.4 C-AVI baseline; a replacement near 68.1 C-AVI would directly attack the 13.70-point projected gap to SmokyValleyWheatWarriors."
+    "Raise the FLEX slot above Brian Thomas's 63.7 C-AVI baseline; a replacement near 64.5 C-AVI would directly attack the 0.80-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
   ],
   "rival_below": {
-    "franchise_name": "All Hail King Jesus",
-    "projected_rank": 7,
-    "projected_score": 648.6,
+    "franchise_name": "Ravens Regime",
+    "projected_rank": 9,
+    "projected_score": 658.6,
     "latest_trade": {
-      "transaction_id": "1394122256442986496",
-      "created_at": "2026-08-14T22:39:16.777000+00:00",
+      "transaction_id": "1410419901381775360",
+      "created_at": "2026-09-28T22:00:18.125000+00:00",
       "type": "trade",
-      "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus).",
+      "summary": "On September 28, Ravens Regime completed a trade with DMV Fantasy and acquired George Kittle and sent 2027 Round 2 (Ravens Regime).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1394122256442986496",
-      "created_at": "2026-08-14T22:39:16.777000+00:00",
+      "transaction_id": "1410419901381775360",
+      "created_at": "2026-09-28T22:00:18.125000+00:00",
       "type": "trade",
-      "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus).",
+      "summary": "On September 28, Ravens Regime completed a trade with DMV Fantasy and acquired George Kittle and sent 2027 Round 2 (Ravens Regime).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus)."
+    "summary": "On September 28, Ravens Regime completed a trade with DMV Fantasy and acquired George Kittle and sent 2027 Round 2 (Ravens Regime)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #6 of 16 at 652.50 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 666.20, a gap of 13.70. All Hail King Jesus is immediately behind at 648.60."
+      "body": "Projected #8 of 16 at 661.60 lineup C-AVI. Lightskin Legends \u270a\ud83c\udffd is immediately above at 662.40, a gap of 0.80. Ravens Regime is immediately behind at 658.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ja'Marr Chase (99.6), Brock Bowers (99.2), and Kenneth Walker (90.5)."
+      "body": "The three highest C-AVI starters are Ja'Marr Chase (97.7), Brock Bowers (95.3), and Kenneth Walker (94.2)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,39 +85,48 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Cade Otton's 54.4 C-AVI baseline; a replacement near 68.1 C-AVI would directly attack the 13.70-point projected gap to SmokyValleyWheatWarriors.",
+      "body": "Raise the FLEX slot above Brian Thomas's 63.7 C-AVI baseline; a replacement near 64.5 C-AVI would directly attack the 0.80-point projected gap to Lightskin Legends \u270a\ud83c\udffd.",
       "items": [
-        "Raise the FLEX slot above Cade Otton's 54.4 C-AVI baseline; a replacement near 68.1 C-AVI would directly attack the 13.70-point projected gap to SmokyValleyWheatWarriors."
+        "Raise the FLEX slot above Brian Thomas's 63.7 C-AVI baseline; a replacement near 64.5 C-AVI would directly attack the 0.80-point projected gap to Lightskin Legends \u270a\ud83c\udffd."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus)."
+      "body": "On September 28, Ravens Regime completed a trade with DMV Fantasy and acquired George Kittle and sent 2027 Round 2 (Ravens Regime)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Cade Otton is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 54.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Brian Thomas is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 63.7. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "Current Sleeper-owned roster has 16 active offensive players; non-active: Jayden Higgins."
+      "body": "Current Sleeper-owned roster has 15 active offensive players; non-active: Jalen McMillan, Jayden Higgins."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
       "body": "Verified current future draft capital contributes 947.9 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
     "policy": "AVI-Core current Sleeper ownership + AVI valuation data",
     "files": [
-      "AVI-Core/knowledge/teams/07_Badland_Banditos.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/07_Badland_Banditos.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

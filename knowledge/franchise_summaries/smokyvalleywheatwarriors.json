@@ -4,111 +4,121 @@
   "franchise_name": "SmokyValleyWheatWarriors",
   "roster_id": 10,
   "owner_display_name": "AlexPete6800",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "SmokyValleyWheatWarriors: Preseason Front Office Brief",
-  "executive_summary": "SmokyValleyWheatWarriors is projected #5 of 16 with a 666.20 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Christian McCaffrey, and Chris Olave. The immediate priority is improving the FLEX slot without weakening that core.",
+  "headline": "SmokyValleyWheatWarriors: Weekly Front Office Brief",
+  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 684.10 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Chris Olave, and Christian McCaffrey. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 5,
+    "rank": 4,
     "league_size": 16,
-    "score": 666.2,
+    "score": 684.1,
     "team_above": {
       "name": "Corgi Loaf Baking Co.",
-      "rank": 4,
-      "score": 673.8,
-      "gap": 7.599999999999909
+      "rank": 3,
+      "score": 684.6,
+      "gap": 0.5
     },
     "team_below": {
-      "name": "Badland Banditos",
-      "rank": 6,
-      "score": 652.5,
-      "gap": 13.700000000000045
+      "name": "Big Balder Brand",
+      "rank": 5,
+      "score": 680.8,
+      "gap": 3.300000000000068
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 12,
+    "rank": 10,
     "league_size": 16,
-    "score": 2020.7,
-    "player_d_avi": 1044.1,
+    "score": 2113.5,
+    "player_d_avi": 1136.9,
     "future_pick_d_avi": 976.6,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1288899605622165504",
-    "created_at": "2025-10-28T14:02:01.879000+00:00",
+    "transaction_id": "1401283482868592640",
+    "created_at": "2026-09-03T16:55:26.206000+00:00",
     "type": "trade",
-    "summary": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte.",
-    "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
+    "summary": "On September 3, SmokyValleyWheatWarriors completed a trade with Conquistadors and acquired 2027 Round 15 (SmokyValleyWheatWarriors) and sent 2027 Round 15 (Conquistadors).",
+    "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 69.6 C-AVI would directly attack the 7.60-point projected gap to Corgi Loaf Baking Co.."
+    "Raise the FLEX slot above Josh Downs's 71.5 C-AVI baseline; a replacement near 72.0 C-AVI would directly attack the 0.50-point projected gap to Corgi Loaf Baking Co.."
   ],
   "rival_below": {
-    "franchise_name": "Badland Banditos",
-    "projected_rank": 6,
-    "projected_score": 652.5,
+    "franchise_name": "Big Balder Brand",
+    "projected_rank": 5,
+    "projected_score": 680.8,
     "latest_trade": {
-      "transaction_id": "1396908520204410880",
-      "created_at": "2026-08-22T15:10:53.824000+00:00",
+      "transaction_id": "1394506115831586816",
+      "created_at": "2026-08-16T00:04:35.987000+00:00",
       "type": "trade",
-      "summary": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos).",
+      "summary": "On August 15, Big Balder Brand completed a trade with DMV Fantasy and acquired Jayden Daniels, Khalil Shakir and sent Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1396908520204410880",
-      "created_at": "2026-08-22T15:10:53.824000+00:00",
+      "transaction_id": "1394506115831586816",
+      "created_at": "2026-08-16T00:04:35.987000+00:00",
       "type": "trade",
-      "summary": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos).",
+      "summary": "On August 15, Big Balder Brand completed a trade with DMV Fantasy and acquired Jayden Daniels, Khalil Shakir and sent Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos)."
+    "summary": "On August 15, Big Balder Brand completed a trade with DMV Fantasy and acquired Jayden Daniels, Khalil Shakir and sent Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #5 of 16 at 666.20 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 673.80, a gap of 7.60. Badland Banditos is immediately behind at 652.50."
+      "body": "Projected #4 of 16 at 684.10 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 684.60, a gap of 0.50. Big Balder Brand is immediately behind at 680.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are CeeDee Lamb (97.6), Christian McCaffrey (96.8), and Chris Olave (95.4)."
+      "body": "The three highest C-AVI starters are CeeDee Lamb (98.4), Chris Olave (96.5), and Christian McCaffrey (96.1)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte."
+      "body": "On September 3, SmokyValleyWheatWarriors completed a trade with Conquistadors and acquired 2027 Round 15 (SmokyValleyWheatWarriors) and sent 2027 Round 15 (Conquistadors)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 69.6 C-AVI would directly attack the 7.60-point projected gap to Corgi Loaf Baking Co..",
+      "body": "Raise the FLEX slot above Josh Downs's 71.5 C-AVI baseline; a replacement near 72.0 C-AVI would directly attack the 0.50-point projected gap to Corgi Loaf Baking Co..",
       "items": [
-        "Raise the FLEX slot above Rico Dowdle's 62.0 C-AVI baseline; a replacement near 69.6 C-AVI would directly attack the 7.60-point projected gap to Corgi Loaf Baking Co.."
+        "Raise the FLEX slot above Josh Downs's 71.5 C-AVI baseline; a replacement near 72.0 C-AVI would directly attack the 0.50-point projected gap to Corgi Loaf Baking Co.."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos)."
+      "body": "On August 15, Big Balder Brand completed a trade with DMV Fantasy and acquired Jayden Daniels, Khalil Shakir and sent Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Rico Dowdle is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 62.0. Any acquisition should clear that exact lineup threshold."
+      "body": "Josh Downs is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 71.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "Current Sleeper-owned roster has 15 active offensive players; non-active: Ricky Pearsall."
+      "body": "Current Sleeper-owned roster has 16 active offensive players; non-active: Ricky Pearsall."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
       "body": "Verified current future draft capital contributes 976.6 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
@@ -116,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/10_SmokyValleyWheatWarriors.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

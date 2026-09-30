@@ -4,35 +4,35 @@
   "franchise_name": "Mile High Royal Lions",
   "roster_id": 4,
   "owner_display_name": "shawnh56",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Mile High Royal Lions: Preseason Front Office Brief",
-  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 676.70 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Jalen Hurts. The immediate priority is improving the RB slot without weakening that core.",
+  "headline": "Mile High Royal Lions: Weekly Front Office Brief",
+  "executive_summary": "Mile High Royal Lions is projected #2 of 16 with a 685.30 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Garrett Wilson. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 3,
+    "rank": 2,
     "league_size": 16,
-    "score": 676.7,
+    "score": 685.3,
     "team_above": {
       "name": "Conquistadors",
-      "rank": 2,
-      "score": 726.4,
-      "gap": 49.69999999999993
+      "rank": 1,
+      "score": 728.8,
+      "gap": 43.5
     },
     "team_below": {
       "name": "Corgi Loaf Baking Co.",
-      "rank": 4,
-      "score": 673.8,
-      "gap": 2.900000000000091
+      "rank": 3,
+      "score": 684.6,
+      "gap": 0.6999999999999318
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 6,
+    "rank": 7,
     "league_size": 16,
-    "score": 2154.5,
-    "player_d_avi": 1155.9,
+    "score": 2254.3,
+    "player_d_avi": 1255.7,
     "future_pick_d_avi": 998.6,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above J.K. Dobbins's 59.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 49.70-point projected gap to Conquistadors."
+    "Raise the RB slot above J.K. Dobbins's 62.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.50-point projected gap to Conquistadors."
   ],
   "rival_below": {
     "franchise_name": "Corgi Loaf Baking Co.",
-    "projected_rank": 4,
-    "projected_score": 673.8,
+    "projected_rank": 3,
+    "projected_score": 684.6,
     "latest_trade": {
-      "transaction_id": "1398169552570863616",
-      "created_at": "2026-08-26T02:41:47.368000+00:00",
+      "transaction_id": "1407885687583154176",
+      "created_at": "2026-09-21T22:10:14.473000+00:00",
       "type": "trade",
-      "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy).",
+      "summary": "On September 21, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Chuba Hubbard and sent Raheim Sanders, 2028 Round 1 (All Hail King Jesus).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1398169552570863616",
-      "created_at": "2026-08-26T02:41:47.368000+00:00",
+      "transaction_id": "1407885687583154176",
+      "created_at": "2026-09-21T22:10:14.473000+00:00",
       "type": "trade",
-      "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy).",
+      "summary": "On September 21, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Chuba Hubbard and sent Raheim Sanders, 2028 Round 1 (All Hail King Jesus).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy)."
+    "summary": "On September 21, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Chuba Hubbard and sent Raheim Sanders, 2028 Round 1 (All Hail King Jesus)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #3 of 16 at 676.70 lineup C-AVI. Conquistadors is immediately above at 726.40, a gap of 49.70. Corgi Loaf Baking Co. is immediately behind at 673.80."
+      "body": "Projected #2 of 16 at 685.30 lineup C-AVI. Conquistadors is immediately above at 728.80, a gap of 43.50. Corgi Loaf Baking Co. is immediately behind at 684.60."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jahmyr Gibbs (99.7), Drake London (97.8), and Jalen Hurts (92.5)."
+      "body": "The three highest C-AVI starters are Jahmyr Gibbs (99.0), Drake London (95.1), and Garrett Wilson (92.1)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,30 +85,40 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above J.K. Dobbins's 59.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 49.70-point projected gap to Conquistadors.",
+      "body": "Raise the RB slot above J.K. Dobbins's 62.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.50-point projected gap to Conquistadors.",
       "items": [
-        "Raise the RB slot above J.K. Dobbins's 59.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 49.70-point projected gap to Conquistadors."
+        "Raise the RB slot above J.K. Dobbins's 62.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 43.50-point projected gap to Conquistadors."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy)."
+      "body": "On September 21, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Chuba Hubbard and sent Raheim Sanders, 2028 Round 1 (All Hail King Jesus)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "J.K. Dobbins is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 59.6. Any acquisition should clear that exact lineup threshold."
+      "body": "J.K. Dobbins is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 62.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 15 offensive players on the current Sleeper-owned roster are marked Active."
+      "body": "Current Sleeper-owned roster has 16 active offensive players; non-active: Jonah Coleman."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
       "body": "Verified current future draft capital contributes 998.6 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
@@ -116,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/04_Mile_High_Royal_Lions.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

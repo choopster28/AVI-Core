@@ -4,30 +4,35 @@
   "franchise_name": "Northside Kings",
   "roster_id": 5,
   "owner_display_name": "srsmith95",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Northside Kings: Preseason Front Office Brief",
-  "executive_summary": "Northside Kings is projected #16 of 16 with a 492.60 projected-starting-lineup C-AVI total, led by Mike Evans, Bhayshul Tuten, and Jordan Addison. The immediate priority is improving the QB slot without weakening that core.",
+  "headline": "Northside Kings: Weekly Front Office Brief",
+  "executive_summary": "Northside Kings is projected #12 of 16 with a 578.30 projected-starting-lineup C-AVI total, led by Mike Evans, Bhayshul Tuten, and Stefon Diggs. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 16,
+    "rank": 12,
     "league_size": 16,
-    "score": 492.6,
+    "score": 578.3,
     "team_above": {
-      "name": "Crimson Tide Pods",
-      "rank": 15,
-      "score": 517.9,
-      "gap": 25.299999999999955
+      "name": "Phalhala or Bust",
+      "rank": 11,
+      "score": 593.6,
+      "gap": 15.300000000000068
     },
-    "team_below": null,
+    "team_below": {
+      "name": "Rapid Valley Annihilation",
+      "rank": 13,
+      "score": 572.9,
+      "gap": 5.399999999999977
+    },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 4,
+    "rank": 5,
     "league_size": 16,
-    "score": 2215.0,
-    "player_d_avi": 1169.1,
+    "score": 2270.1,
+    "player_d_avi": 1224.2,
     "future_pick_d_avi": 1045.9,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -39,19 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the QB slot above Jordan Love's 52.2 C-AVI baseline; a replacement near 77.5 C-AVI would directly attack the 25.30-point projected gap to Crimson Tide Pods."
+    "Raise the QB slot above Jordan Love's 60.6 C-AVI baseline; a replacement near 75.9 C-AVI would directly attack the 15.30-point projected gap to Phalhala or Bust."
   ],
-  "rival_below": null,
+  "rival_below": {
+    "franchise_name": "Rapid Valley Annihilation",
+    "projected_rank": 13,
+    "projected_score": 572.9,
+    "latest_trade": {
+      "transaction_id": "1387232278626713600",
+      "created_at": "2026-07-26T22:20:58.055000+00:00",
+      "type": "trade",
+      "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation).",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "latest_activity": {
+      "transaction_id": "1387232278626713600",
+      "created_at": "2026-07-26T22:20:58.055000+00:00",
+      "type": "trade",
+      "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation).",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation)."
+  },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #16 of 16 at 492.60 lineup C-AVI. Crimson Tide Pods is immediately above at 517.90, a gap of 25.30."
+      "body": "Projected #12 of 16 at 578.30 lineup C-AVI. Phalhala or Bust is immediately above at 593.60, a gap of 15.30. Rapid Valley Annihilation is immediately behind at 572.90."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Mike Evans (73.5), Bhayshul Tuten (72.2), and Jordan Addison (61.5)."
+      "body": "The three highest C-AVI starters are Mike Evans (81.1), Bhayshul Tuten (79.1), and Stefon Diggs (76.4)."
     },
     {
       "id": "latest-trade-impact",
@@ -61,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above Jordan Love's 52.2 C-AVI baseline; a replacement near 77.5 C-AVI would directly attack the 25.30-point projected gap to Crimson Tide Pods.",
+      "body": "Raise the QB slot above Jordan Love's 60.6 C-AVI baseline; a replacement near 75.9 C-AVI would directly attack the 15.30-point projected gap to Phalhala or Bust.",
       "items": [
-        "Raise the QB slot above Jordan Love's 52.2 C-AVI baseline; a replacement near 77.5 C-AVI would directly attack the 25.30-point projected gap to Crimson Tide Pods."
+        "Raise the QB slot above Jordan Love's 60.6 C-AVI baseline; a replacement near 75.9 C-AVI would directly attack the 15.30-point projected gap to Phalhala or Bust."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "This franchise is currently projected last, so there is no team immediately beneath it."
+      "body": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jordan Love is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 52.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Jordan Love is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 60.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -85,6 +109,16 @@
       "id": "draft-assets",
       "title": "Draft Assets",
       "body": "Verified current future draft capital contributes 1045.9 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
@@ -92,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/05_Northside_Kings.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

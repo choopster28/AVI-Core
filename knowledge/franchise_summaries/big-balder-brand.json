@@ -4,30 +4,35 @@
   "franchise_name": "Big Balder Brand",
   "roster_id": 9,
   "owner_display_name": "Choopski",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Big Balder Brand: Preseason Front Office Brief",
-  "executive_summary": "Big Balder Brand is projected #1 of 16 with a 747.80 projected-starting-lineup C-AVI total, led by Trey McBride, Jayden Daniels, and Rashee Rice. The immediate priority is improving the FLEX slot without weakening that core.",
+  "headline": "Big Balder Brand: Weekly Front Office Brief",
+  "executive_summary": "Big Balder Brand is projected #5 of 16 with a 680.80 projected-starting-lineup C-AVI total, led by Trey McBride, Nico Collins, and Rashee Rice. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 1,
+    "rank": 5,
     "league_size": 16,
-    "score": 747.8,
-    "team_above": null,
+    "score": 680.8,
+    "team_above": {
+      "name": "SmokyValleyWheatWarriors",
+      "rank": 4,
+      "score": 684.1,
+      "gap": 3.300000000000068
+    },
     "team_below": {
-      "name": "Conquistadors",
-      "rank": 2,
-      "score": 726.4,
-      "gap": 21.399999999999977
+      "name": "All Hail King Jesus",
+      "rank": 6,
+      "score": 665.1,
+      "gap": 15.699999999999932
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 14,
+    "rank": 11,
     "league_size": 16,
-    "score": 1974.7,
-    "player_d_avi": 1232.7,
+    "score": 2099.5,
+    "player_d_avi": 1357.5,
     "future_pick_d_avi": 742.0,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -39,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.3 C-AVI."
+    "Raise the FLEX slot above A.J. Brown's 71.4 C-AVI baseline; a replacement near 74.7 C-AVI would directly attack the 3.30-point projected gap to SmokyValleyWheatWarriors."
   ],
   "rival_below": {
-    "franchise_name": "Conquistadors",
-    "projected_rank": 2,
-    "projected_score": 726.4,
+    "franchise_name": "All Hail King Jesus",
+    "projected_rank": 6,
+    "projected_score": 665.1,
     "latest_trade": {
-      "transaction_id": "1390168785905782784",
-      "created_at": "2026-08-04T00:49:35.949000+00:00",
+      "transaction_id": "1394122256442986496",
+      "created_at": "2026-08-14T22:39:16.777000+00:00",
       "type": "trade",
-      "summary": "On August 3, Conquistadors completed a trade with Crimson Tide Pods and acquired De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings) and sent Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions).",
+      "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1390168785905782784",
-      "created_at": "2026-08-04T00:49:35.949000+00:00",
+      "transaction_id": "1394122256442986496",
+      "created_at": "2026-08-14T22:39:16.777000+00:00",
       "type": "trade",
-      "summary": "On August 3, Conquistadors completed a trade with Crimson Tide Pods and acquired De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings) and sent Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions).",
+      "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 3, Conquistadors completed a trade with Crimson Tide Pods and acquired De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings) and sent Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions)."
+    "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #1 of 16 at 747.80 lineup C-AVI. Conquistadors is immediately behind at 726.40."
+      "body": "Projected #5 of 16 at 680.80 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 684.10, a gap of 3.30. All Hail King Jesus is immediately behind at 665.10."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Trey McBride (99.5), Jayden Daniels (95.9), and Rashee Rice (95.7)."
+      "body": "The three highest C-AVI starters are Trey McBride (94.9), Nico Collins (93.9), and Rashee Rice (91.7)."
     },
     {
       "id": "latest-trade-impact",
@@ -80,30 +85,40 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.3 C-AVI.",
+      "body": "Raise the FLEX slot above A.J. Brown's 71.4 C-AVI baseline; a replacement near 74.7 C-AVI would directly attack the 3.30-point projected gap to SmokyValleyWheatWarriors.",
       "items": [
-        "Protect the league-leading projection and avoid replacing Omarion Hampton unless the incoming option clearly exceeds 89.3 C-AVI."
+        "Raise the FLEX slot above A.J. Brown's 71.4 C-AVI baseline; a replacement near 74.7 C-AVI would directly attack the 3.30-point projected gap to SmokyValleyWheatWarriors."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 3, Conquistadors completed a trade with Crimson Tide Pods and acquired De'Zhaun Stribling, Tyjae Spears, 2027 Round 2 (Northside Kings) and sent Ray Davis, Germie Bernard, 2027 Round 1 (Mile High Royal Lions)."
+      "body": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Omarion Hampton is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 89.3. Any acquisition should clear that exact lineup threshold."
+      "body": "A.J. Brown is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 71.4. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 15 offensive players on the current Sleeper-owned roster are marked Active."
+      "body": "Current Sleeper-owned roster has 16 active offensive players; non-active: A.J. Brown."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
       "body": "Verified current future draft capital contributes 742.0 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
@@ -111,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/09_Big_Balder_Brand.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

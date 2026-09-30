@@ -4,35 +4,35 @@
   "franchise_name": "All Hail King Jesus",
   "roster_id": 8,
   "owner_display_name": "Hofer51",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "All Hail King Jesus: Preseason Front Office Brief",
-  "executive_summary": "All Hail King Jesus is projected #7 of 16 with a 648.60 projected-starting-lineup C-AVI total, led by Amon-Ra St. Brown, Justin Jefferson, and Tucker Kraft. The immediate priority is improving the RB slot without weakening that core.",
+  "headline": "All Hail King Jesus: Weekly Front Office Brief",
+  "executive_summary": "All Hail King Jesus is projected #6 of 16 with a 665.10 projected-starting-lineup C-AVI total, led by Amon-Ra St. Brown, Justin Jefferson, and Tee Higgins. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 7,
+    "rank": 6,
     "league_size": 16,
-    "score": 648.6,
+    "score": 665.1,
     "team_above": {
-      "name": "Badland Banditos",
-      "rank": 6,
-      "score": 652.5,
-      "gap": 3.8999999999999773
+      "name": "Big Balder Brand",
+      "rank": 5,
+      "score": 680.8,
+      "gap": 15.699999999999932
     },
     "team_below": {
-      "name": "Southside Savages",
-      "rank": 8,
-      "score": 633.4,
-      "gap": 15.200000000000045
+      "name": "Lightskin Legends \u270a\ud83c\udffd",
+      "rank": 7,
+      "score": 662.4,
+      "gap": 2.7000000000000455
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 16,
     "league_size": 16,
-    "score": 1628.9,
-    "player_d_avi": 1008.9,
+    "score": 1728.1,
+    "player_d_avi": 1108.1,
     "future_pick_d_avi": 620.0,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Zach Charbonnet's 51.1 C-AVI baseline; a replacement near 55.0 C-AVI would directly attack the 3.90-point projected gap to Badland Banditos."
+    "Raise the RB slot above George Holani's 52.6 C-AVI baseline; a replacement near 68.3 C-AVI would directly attack the 15.70-point projected gap to Big Balder Brand."
   ],
   "rival_below": {
-    "franchise_name": "Southside Savages",
-    "projected_rank": 8,
-    "projected_score": 633.4,
+    "franchise_name": "Lightskin Legends \u270a\ud83c\udffd",
+    "projected_rank": 7,
+    "projected_score": 662.4,
     "latest_trade": {
-      "transaction_id": "1283906516683853824",
-      "created_at": "2025-10-14T19:21:16.708000+00:00",
+      "transaction_id": "1411107150322741248",
+      "created_at": "2026-09-30T19:31:11.041000+00:00",
       "type": "trade",
-      "summary": "On October 14, Southside Savages completed a trade with Ravens Regime and acquired Tetairoa McMillan and sent 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages).",
-      "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
+      "summary": "On September 30, Lightskin Legends \u270a\ud83c\udffd completed a trade with Conquistadors, Southside Savages and acquired Ladd McConkey, Jaylen Waddle, Travis Etienne and sent DK Metcalf, Jonathan Taylor.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1283906516683853824",
-      "created_at": "2025-10-14T19:21:16.708000+00:00",
+      "transaction_id": "1411107150322741248",
+      "created_at": "2026-09-30T19:31:11.041000+00:00",
       "type": "trade",
-      "summary": "On October 14, Southside Savages completed a trade with Ravens Regime and acquired Tetairoa McMillan and sent 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages).",
-      "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
+      "summary": "On September 30, Lightskin Legends \u270a\ud83c\udffd completed a trade with Conquistadors, Southside Savages and acquired Ladd McConkey, Jaylen Waddle, Travis Etienne and sent DK Metcalf, Jonathan Taylor.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On October 14, Southside Savages completed a trade with Ravens Regime and acquired Tetairoa McMillan and sent 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages)."
+    "summary": "On September 30, Lightskin Legends \u270a\ud83c\udffd completed a trade with Conquistadors, Southside Savages and acquired Ladd McConkey, Jaylen Waddle, Travis Etienne and sent DK Metcalf, Jonathan Taylor."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #7 of 16 at 648.60 lineup C-AVI. Badland Banditos is immediately above at 652.50, a gap of 3.90. Southside Savages is immediately behind at 633.40."
+      "body": "Projected #6 of 16 at 665.10 lineup C-AVI. Big Balder Brand is immediately above at 680.80, a gap of 15.70. Lightskin Legends \u270a\ud83c\udffd is immediately behind at 662.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Amon-Ra St. Brown (98.6), Justin Jefferson (97.3), and Tucker Kraft (82.8)."
+      "body": "The three highest C-AVI starters are Amon-Ra St. Brown (99.0), Justin Jefferson (95.9), and Tee Higgins (87.5)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,30 +85,40 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Zach Charbonnet's 51.1 C-AVI baseline; a replacement near 55.0 C-AVI would directly attack the 3.90-point projected gap to Badland Banditos.",
+      "body": "Raise the RB slot above George Holani's 52.6 C-AVI baseline; a replacement near 68.3 C-AVI would directly attack the 15.70-point projected gap to Big Balder Brand.",
       "items": [
-        "Raise the RB slot above Zach Charbonnet's 51.1 C-AVI baseline; a replacement near 55.0 C-AVI would directly attack the 3.90-point projected gap to Badland Banditos."
+        "Raise the RB slot above George Holani's 52.6 C-AVI baseline; a replacement near 68.3 C-AVI would directly attack the 15.70-point projected gap to Big Balder Brand."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On October 14, Southside Savages completed a trade with Ravens Regime and acquired Tetairoa McMillan and sent 2026 Round 1 (Southside Savages), 2026 Round 2 (Southside Savages)."
+      "body": "On September 30, Lightskin Legends \u270a\ud83c\udffd completed a trade with Conquistadors, Southside Savages and acquired Ladd McConkey, Jaylen Waddle, Travis Etienne and sent DK Metcalf, Jonathan Taylor."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Zach Charbonnet is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 51.1. Any acquisition should clear that exact lineup threshold."
+      "body": "George Holani is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 52.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 13 offensive players on the current Sleeper-owned roster are marked Active."
+      "body": "All 14 offensive players on the current Sleeper-owned roster are marked Active."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
       "body": "Verified current future draft capital contributes 620.0 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
@@ -116,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/08_All_Hail_King_Jesus.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

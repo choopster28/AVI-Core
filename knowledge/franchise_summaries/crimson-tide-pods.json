@@ -4,111 +4,121 @@
   "franchise_name": "Crimson Tide Pods",
   "roster_id": 16,
   "owner_display_name": "nickas",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Crimson Tide Pods: Preseason Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #15 of 16 with a 517.90 projected-starting-lineup C-AVI total, led by Justin Herbert, Alec Pierce, and Michael Pittman. The immediate priority is improving the TE slot without weakening that core.",
+  "headline": "Crimson Tide Pods: Weekly Front Office Brief",
+  "executive_summary": "Crimson Tide Pods is projected #15 of 16 with a 526.60 projected-starting-lineup C-AVI total, led by Jakobi Meyers, Wan'Dale Robinson, and Alec Pierce. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
     "rank": 15,
     "league_size": 16,
-    "score": 517.9,
+    "score": 526.6,
     "team_above": {
-      "name": "DMV Fantasy",
+      "name": "Southside Savages",
       "rank": 14,
-      "score": 533.4,
-      "gap": 15.5
+      "score": 566.5,
+      "gap": 39.89999999999998
     },
     "team_below": {
-      "name": "Northside Kings",
+      "name": "DMV Fantasy",
       "rank": 16,
-      "score": 492.6,
-      "gap": 25.299999999999955
+      "score": 521.5,
+      "gap": 5.100000000000023
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 1,
+    "rank": 2,
     "league_size": 16,
-    "score": 2533.5,
-    "player_d_avi": 1118.4,
-    "future_pick_d_avi": 1415.1,
+    "score": 2612.4,
+    "player_d_avi": 1118.0,
+    "future_pick_d_avi": 1494.4,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1398169552570863616",
-    "created_at": "2026-08-26T02:41:47.368000+00:00",
+    "transaction_id": "1407885687583154176",
+    "created_at": "2026-09-21T22:10:14.473000+00:00",
     "type": "trade",
-    "summary": "On August 25, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy) and sent Ray Davis, Kimani Vidal, DeVonta Smith.",
+    "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard.",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Gunnar Helm's 52.7 C-AVI baseline; a replacement near 68.2 C-AVI would directly attack the 15.50-point projected gap to DMV Fantasy."
+    "Raise the RB slot above Chris Rodriguez's 56.3 C-AVI baseline; a replacement near 96.2 C-AVI would directly attack the 39.90-point projected gap to Southside Savages."
   ],
   "rival_below": {
-    "franchise_name": "Northside Kings",
+    "franchise_name": "DMV Fantasy",
     "projected_rank": 16,
-    "projected_score": 492.6,
+    "projected_score": 521.5,
     "latest_trade": {
-      "transaction_id": "1383224827728367616",
-      "created_at": "2026-07-15T20:56:47.307000+00:00",
+      "transaction_id": "1410419901381775360",
+      "created_at": "2026-09-28T22:00:18.125000+00:00",
       "type": "trade",
-      "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
+      "summary": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1383224827728367616",
-      "created_at": "2026-07-15T20:56:47.307000+00:00",
+      "transaction_id": "1410419901381775360",
+      "created_at": "2026-09-28T22:00:18.125000+00:00",
       "type": "trade",
-      "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
+      "summary": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
+    "summary": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #15 of 16 at 517.90 lineup C-AVI. DMV Fantasy is immediately above at 533.40, a gap of 15.50. Northside Kings is immediately behind at 492.60."
+      "body": "Projected #15 of 16 at 526.60 lineup C-AVI. Southside Savages is immediately above at 566.50, a gap of 39.90. DMV Fantasy is immediately behind at 521.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Justin Herbert (71.1), Alec Pierce (70.0), and Michael Pittman (68.3)."
+      "body": "The three highest C-AVI starters are Jakobi Meyers (76.2), Wan'Dale Robinson (73.7), and Alec Pierce (69.9)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On August 25, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy) and sent Ray Davis, Kimani Vidal, DeVonta Smith."
+      "body": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Gunnar Helm's 52.7 C-AVI baseline; a replacement near 68.2 C-AVI would directly attack the 15.50-point projected gap to DMV Fantasy.",
+      "body": "Raise the RB slot above Chris Rodriguez's 56.3 C-AVI baseline; a replacement near 96.2 C-AVI would directly attack the 39.90-point projected gap to Southside Savages.",
       "items": [
-        "Raise the TE slot above Gunnar Helm's 52.7 C-AVI baseline; a replacement near 68.2 C-AVI would directly attack the 15.50-point projected gap to DMV Fantasy."
+        "Raise the RB slot above Chris Rodriguez's 56.3 C-AVI baseline; a replacement near 96.2 C-AVI would directly attack the 39.90-point projected gap to Southside Savages."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
+      "body": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Gunnar Helm is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 52.7. Any acquisition should clear that exact lineup threshold."
+      "body": "Chris Rodriguez is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 56.3. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 15 offensive players on the current Sleeper-owned roster are marked Active."
+      "body": "Current Sleeper-owned roster has 13 active offensive players; non-active: Dylan Sampson, Alec Pierce."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified current future draft capital contributes 1415.1 D-AVI to the franchise's dynasty total."
+      "body": "Verified current future draft capital contributes 1494.4 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
@@ -116,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/16_Crimson_Tide_Pods.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

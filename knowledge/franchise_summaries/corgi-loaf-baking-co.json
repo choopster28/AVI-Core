@@ -4,111 +4,121 @@
   "franchise_name": "Corgi Loaf Baking Co.",
   "roster_id": 11,
   "owner_display_name": "awang1900",
-  "season_phase": "preseason",
-  "reporting_period": "Week of August 26, 2026",
-  "generated_at": "2026-08-26T08:37:26.848138-06:00",
+  "season_phase": "regular_season",
+  "reporting_period": "Week of September 30, 2026",
+  "generated_at": "2026-09-30T15:22:08.704335-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
-  "headline": "Corgi Loaf Baking Co.: Preseason Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #4 of 16 with a 673.80 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and Malik Nabers. The immediate priority is improving the RB slot without weakening that core.",
+  "headline": "Corgi Loaf Baking Co.: Weekly Front Office Brief",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #3 of 16 with a 684.60 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, DeVonta Smith, and Tyler Warren. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 4,
+    "rank": 3,
     "league_size": 16,
-    "score": 673.8,
+    "score": 684.6,
     "team_above": {
       "name": "Mile High Royal Lions",
-      "rank": 3,
-      "score": 676.7,
-      "gap": 2.900000000000091
+      "rank": 2,
+      "score": 685.3,
+      "gap": 0.6999999999999318
     },
     "team_below": {
       "name": "SmokyValleyWheatWarriors",
-      "rank": 5,
-      "score": 666.2,
-      "gap": 7.599999999999909
+      "rank": 4,
+      "score": 684.1,
+      "gap": 0.5
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 11,
+    "rank": 12,
     "league_size": 16,
-    "score": 2021.0,
-    "player_d_avi": 1216.4,
-    "future_pick_d_avi": 804.6,
+    "score": 2081.5,
+    "player_d_avi": 1356.2,
+    "future_pick_d_avi": 725.3,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1398169552570863616",
-    "created_at": "2026-08-26T02:41:47.368000+00:00",
+    "transaction_id": "1407885687583154176",
+    "created_at": "2026-09-21T22:10:14.473000+00:00",
     "type": "trade",
-    "summary": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy).",
+    "summary": "On September 21, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Chuba Hubbard and sent Raheim Sanders, 2028 Round 1 (All Hail King Jesus).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above David Montgomery's 68.9 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 2.90-point projected gap to Mile High Royal Lions."
+    "Raise the QB slot above Patrick Mahomes's 78.2 C-AVI baseline; a replacement near 78.9 C-AVI would directly attack the 0.70-point projected gap to Mile High Royal Lions."
   ],
   "rival_below": {
     "franchise_name": "SmokyValleyWheatWarriors",
-    "projected_rank": 5,
-    "projected_score": 666.2,
+    "projected_rank": 4,
+    "projected_score": 684.1,
     "latest_trade": {
-      "transaction_id": "1288899605622165504",
-      "created_at": "2025-10-28T14:02:01.879000+00:00",
+      "transaction_id": "1401283482868592640",
+      "created_at": "2026-09-03T16:55:26.206000+00:00",
       "type": "trade",
-      "summary": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte.",
-      "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
+      "summary": "On September 3, SmokyValleyWheatWarriors completed a trade with Conquistadors and acquired 2027 Round 15 (SmokyValleyWheatWarriors) and sent 2027 Round 15 (Conquistadors).",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1288899605622165504",
-      "created_at": "2025-10-28T14:02:01.879000+00:00",
+      "transaction_id": "1401283482868592640",
+      "created_at": "2026-09-03T16:55:26.206000+00:00",
       "type": "trade",
-      "summary": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte.",
-      "source_file": "data/raw/sleeper/leagues/2025_1180085325538877440/transactions.json"
+      "summary": "On September 3, SmokyValleyWheatWarriors completed a trade with Conquistadors and acquired 2027 Round 15 (SmokyValleyWheatWarriors) and sent 2027 Round 15 (Conquistadors).",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte."
+    "summary": "On September 3, SmokyValleyWheatWarriors completed a trade with Conquistadors and acquired 2027 Round 15 (SmokyValleyWheatWarriors) and sent 2027 Round 15 (Conquistadors)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #4 of 16 at 673.80 lineup C-AVI. Mile High Royal Lions is immediately above at 676.70, a gap of 2.90. SmokyValleyWheatWarriors is immediately behind at 666.20."
+      "body": "Projected #3 of 16 at 684.60 lineup C-AVI. Mile High Royal Lions is immediately above at 685.30, a gap of 0.70. SmokyValleyWheatWarriors is immediately behind at 684.10."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.1), Tyler Warren (97.3), and Malik Nabers (89.5)."
+      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.3), DeVonta Smith (91.3), and Tyler Warren (90.0)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On August 25, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Ray Davis, Kimani Vidal, DeVonta Smith and sent Dylan Sampson, Emmett Johnson, Wan'Dale Robinson, 2027 Round 1 (DMV Fantasy)."
+      "body": "On September 21, Corgi Loaf Baking Co. completed a trade with Crimson Tide Pods and acquired Chuba Hubbard and sent Raheim Sanders, 2028 Round 1 (All Hail King Jesus)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above David Montgomery's 68.9 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 2.90-point projected gap to Mile High Royal Lions.",
+      "body": "Raise the QB slot above Patrick Mahomes's 78.2 C-AVI baseline; a replacement near 78.9 C-AVI would directly attack the 0.70-point projected gap to Mile High Royal Lions.",
       "items": [
-        "Raise the RB slot above David Montgomery's 68.9 C-AVI baseline; a replacement near 71.8 C-AVI would directly attack the 2.90-point projected gap to Mile High Royal Lions."
+        "Raise the QB slot above Patrick Mahomes's 78.2 C-AVI baseline; a replacement near 78.9 C-AVI would directly attack the 0.70-point projected gap to Mile High Royal Lions."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On October 28, SmokyValleyWheatWarriors completed a trade with Lightskin Legends \u270a\ud83c\udffd and acquired 2026 Round 3 (Conquistadors), 2027 Round 2 (Conquistadors) and sent Kayshon Boutte."
+      "body": "On September 3, SmokyValleyWheatWarriors completed a trade with Conquistadors and acquired 2027 Round 15 (SmokyValleyWheatWarriors) and sent 2027 Round 15 (Conquistadors)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "David Montgomery is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 68.9. Any acquisition should clear that exact lineup threshold."
+      "body": "Patrick Mahomes is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 78.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "All 16 offensive players on the current Sleeper-owned roster are marked Active."
+      "body": "Current Sleeper-owned roster has 16 active offensive players; non-active: Tank Dell."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified current future draft capital contributes 804.6 D-AVI to the franchise's dynasty total."
+      "body": "Verified current future draft capital contributes 725.3 D-AVI to the franchise's dynasty total."
+    },
+    {
+      "id": "matchup-recap",
+      "title": "Matchup Recap",
+      "body": "Not published: no completed weekly matchup section exists in the approved knowledge files."
+    },
+    {
+      "id": "standings",
+      "title": "Standings and Playoff Position",
+      "body": "Not published: no current standings section exists in the approved knowledge files."
     }
   ],
   "source": {
@@ -116,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md"
     ],
-    "source_last_updated": "2026-08-25",
+    "source_last_updated": "2026-09-30",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
