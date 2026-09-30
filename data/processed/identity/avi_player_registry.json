@@ -512,7 +512,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "NO",
+    "nfl_team": "MIN",
     "normalized_name": "audric estime",
     "position": "RB",
     "source_ids": {
@@ -5850,7 +5850,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "MIN",
+    "nfl_team": "FA",
     "normalized_name": "jerome ford",
     "position": "RB",
     "source_ids": {
@@ -8914,8 +8914,8 @@
     "avi_id": "AVI-00002078",
     "canonical_name": "Odell Beckham",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "NYG",
     "normalized_name": "odell beckham",

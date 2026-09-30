@@ -8,35 +8,35 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: TacticsNoob
 - Owner ID: 1129546394534158336
 - Division: 4
-- Waiver position: 7
+- Waiver position: 15
 - Last updated from Sleeper exports: 2026-09-30
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
-- offense: 15
+- total_players: 21
+- offense: 14
 - kickers: 2
 - idp: 5
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 469.8
-- championship_lineup_c_avi_avg: 67.11
-- offensive_roster_c_avi_sum: 776.8
-- offensive_roster_c_avi_avg: 55.49
-- offensive_roster_d_avi_sum: 853.1
-- offensive_roster_d_avi_avg: 60.94
+- championship_lineup_c_avi_sum: 459.1
+- championship_lineup_c_avi_avg: 65.59
+- offensive_roster_c_avi_sum: 676.6
+- offensive_roster_c_avi_avg: 56.38
+- offensive_roster_d_avi_sum: 826.2
+- offensive_roster_d_avi_avg: 68.85
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- RB: Rachaad White | C-AVI: 68.4 | D-AVI: 66.6
-- RB: Jacory Croskey-Merritt | C-AVI: 65.4 | D-AVI: 70.6
-- WR: Cooper Kupp | C-AVI: 61.0 | D-AVI: 49.2
-- WR: Antonio Williams | C-AVI: 59.2 | D-AVI: 69.7
-- TE: George Kittle | C-AVI: 89.9 | D-AVI: 84.4
-- FLEX: Brenton Strange | C-AVI: 66.6 | D-AVI: 76.2
-- FLEX: Keaton Mitchell | C-AVI: 59.3 | D-AVI: 63.5
+- RB: Rachaad White | C-AVI: 69.4 | D-AVI: 80.6
+- RB: Jacory Croskey-Merritt | C-AVI: 66.2 | D-AVI: 81.9
+- WR: Jalen Coker | C-AVI: 75.1 | D-AVI: 82.7
+- WR: Cooper Kupp | C-AVI: 61.9 | D-AVI: 61.5
+- TE: Brenton Strange | C-AVI: 66.7 | D-AVI: 79.6
+- FLEX: Keaton Mitchell | C-AVI: 60.2 | D-AVI: 74.2
+- FLEX: Antonio Williams | C-AVI: 59.6 | D-AVI: 75.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,7 +53,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 62.4
-- Dynasty AVI (D-AVI, 0-100): 76.7
+- Dynasty AVI (D-AVI, 0-100): 77.1
 - Projected PPR points: 300.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -70,10 +70,27 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 33.0
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.9
+- Dynasty AVI (D-AVI, 0-100): 22.7
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: Case Keenum
+- Player name: Case Keenum
+- Player ID: 1737
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: CHI
+- Active: True
+- Status: Active
+- Age: 38.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: offense
+- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Drew Lock
 - Player name: Drew Lock
@@ -103,8 +120,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 68.4
-- Dynasty AVI (D-AVI, 0-100): 66.6
+- Championship AVI (C-AVI, 0-100): 69.4
+- Dynasty AVI (D-AVI, 0-100): 80.6
 - Projected PPR points: 152.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -120,8 +137,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 65.4
-- Dynasty AVI (D-AVI, 0-100): 70.6
+- Championship AVI (C-AVI, 0-100): 66.2
+- Dynasty AVI (D-AVI, 0-100): 81.9
 - Projected PPR points: 146.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -137,26 +154,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 59.3
-- Dynasty AVI (D-AVI, 0-100): 63.5
+- Championship AVI (C-AVI, 0-100): 60.2
+- Dynasty AVI (D-AVI, 0-100): 74.2
 - Projected PPR points: 79.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Kaytron Allen
-- Player name: Kaytron Allen
-- Player ID: 13405
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: WAS
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 39.3
-- Dynasty AVI (D-AVI, 0-100): 52.8
-- Projected PPR points: 22.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -171,8 +171,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 74.8
-- Dynasty AVI (D-AVI, 0-100): 79.4
+- Championship AVI (C-AVI, 0-100): 75.1
+- Dynasty AVI (D-AVI, 0-100): 82.7
 - Projected PPR points: 144.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -188,8 +188,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 61.0
-- Dynasty AVI (D-AVI, 0-100): 49.2
+- Championship AVI (C-AVI, 0-100): 61.9
+- Dynasty AVI (D-AVI, 0-100): 61.5
 - Projected PPR points: 143.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -205,8 +205,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 59.2
-- Dynasty AVI (D-AVI, 0-100): 69.7
+- Championship AVI (C-AVI, 0-100): 59.6
+- Dynasty AVI (D-AVI, 0-100): 75.7
 - Projected PPR points: 82.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -222,8 +222,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 50.5
-- Dynasty AVI (D-AVI, 0-100): 58.0
+- Championship AVI (C-AVI, 0-100): 51.2
+- Dynasty AVI (D-AVI, 0-100): 66.8
 - Projected PPR points: 78.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -239,43 +239,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 44.5
-- Dynasty AVI (D-AVI, 0-100): 58.9
+- Championship AVI (C-AVI, 0-100): 45.1
+- Dynasty AVI (D-AVI, 0-100): 67.0
 - Projected PPR points: 118.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Marvin Mims
-- Player name: Marvin Mims
-- Player ID: 9494
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 35.5
-- Dynasty AVI (D-AVI, 0-100): 46.2
-- Projected PPR points: 86.8
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: George Kittle
-- Player name: George Kittle
-- Player ID: 4217
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: SF
-- Active: True
-- Status: Active
-- Age: 32.0
-- Championship AVI (C-AVI, 0-100): 89.9
-- Dynasty AVI (D-AVI, 0-100): 84.4
-- Projected PPR points: 192.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -290,9 +256,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 66.6
-- Dynasty AVI (D-AVI, 0-100): 76.2
+- Championship AVI (C-AVI, 0-100): 66.7
+- Dynasty AVI (D-AVI, 0-100): 79.6
 - Projected PPR points: 153.1
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Tyler Higbee
+- Player name: Tyler Higbee
+- Player ID: 3271
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: LAR
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 58.8
+- Dynasty AVI (D-AVI, 0-100): 56.4
+- Projected PPR points: 64.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -364,14 +347,14 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Nik Bonitto
-- Player name: Nik Bonitto
-- Player ID: 8280
+### PLAYER: Terrel Bernard
+- Player name: Terrel Bernard
+- Player ID: 8311
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
 - Position: LB
-- Fantasy positions: ['DL', 'LB']
-- NFL team: DEN
+- Fantasy positions: ['LB']
+- NFL team: BUF
 - Active: True
 - Status: Active
 - Age: 27.0

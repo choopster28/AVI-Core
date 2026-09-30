@@ -279,9 +279,9 @@
     "sleeper_id": "11586"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "25533",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "NYJ",
     "player_name": "Blake Grupe",
     "position": "K",
@@ -3411,9 +3411,9 @@
     "sleeper_id": "13437"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "12127",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "NYG",
     "player_name": "Odell Beckham Jr.",
     "position": "WR",

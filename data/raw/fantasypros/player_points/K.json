@@ -481,7 +481,7 @@
       }
     }
   ],
-  "public_api_limited": true,
+  "public_api": true,
   "scoring": "PPR",
   "season": "2026",
   "tier": "premium"

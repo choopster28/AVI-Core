@@ -4673,7 +4673,7 @@
     }
   ],
   "positions": "DL",
-  "public_api_limited": true,
+  "public_api": true,
   "scoring": "STD",
   "season": "2026",
   "tier": "premium",

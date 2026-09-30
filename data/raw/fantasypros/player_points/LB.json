@@ -31,18 +31,18 @@
       }
     },
     {
-      "average": 9.5,
+      "average": 8.2,
       "filename": "khalil-mack.php",
       "games": 3,
       "player_id": 12169,
       "player_name": "Khalil Mack",
-      "points": 28.5,
+      "points": 24.5,
       "position_id": "LB",
       "team_id": "LAC",
       "weeks": {
         "1": 4.8,
         "2": 10.3,
-        "3": 13.5
+        "3": 9.5
       }
     },
     {
@@ -1783,18 +1783,18 @@
       }
     },
     {
-      "average": 11.7,
+      "average": 11.4,
       "filename": "daiyanhenley.php",
       "games": 3,
       "player_id": 25436,
       "player_name": "Daiyan Henley",
-      "points": 35,
+      "points": 34.25,
       "position_id": "LB",
       "team_id": "LAC",
       "weeks": {
         "1": 9.5,
         "2": 2.3,
-        "3": 23.3
+        "3": 22.5
       }
     },
     {
@@ -3380,7 +3380,7 @@
       }
     }
   ],
-  "public_api_limited": true,
+  "public_api": true,
   "scoring": "PPR",
   "season": "2026",
   "tier": "premium"
