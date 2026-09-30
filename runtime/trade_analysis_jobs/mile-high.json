@@ -27,8 +27,307 @@
       ]
     },
     "createdAt": 1790733370020,
-    "updatedAt": 1790733371181,
+    "updatedAt": 1790733423465,
     "expiresAt": 1791165370020,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Mile High Royal Lions leverages wide receiver bench depth in Marvin Harrison (age 24.0, 63.9 C-AVI) and Pat Bryant (age 23.0, 57.8 C-AVI) to target DK Metcalf (age 28.0, 74.3 C-AVI) from Lightskin Legends. In a 16-team full PPR league, converting non-starting bench pieces into an established weekly FLEX starter directly enhances Mile High's 'Win Championship' window. For Lightskin Legends (Playoff Push), this offer provides two young wideouts to reset their receiving age profile while adding depth, creating a realistic win-win trade path.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Marvin Harrison",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 24,
+              "cavi": 63.9,
+              "davi": 77.5,
+              "publicMarket": 65,
+              "leagueMarket": 68
+            },
+            {
+              "name": "Pat Bryant",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 23,
+              "cavi": 57.8,
+              "davi": 61.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            }
+          ],
+          "sideB": [
+            {
+              "name": "DK Metcalf",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "WR",
+              "age": 28,
+              "cavi": 74.3,
+              "davi": 78.1,
+              "publicMarket": 70,
+              "leagueMarket": 75
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "Mile High Royal Lions successfully converts non-starting bench depth into DK Metcalf to boost their starting FLEX2 ceiling for a championship run. Lightskin Legends adds two young wideouts to improve dynasty longevity while staying competitive."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "Sending Marvin Harrison and Pat Bryant for DK Metcalf satisfies both teams' organizational goals, giving Mile High starting lineup improvement and Lightskin Legends youth depth."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 35,
+              "summary": "Net positive trade converting bench depth into an upgraded weekly FLEX starter for a Champion Favorite."
+            },
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Directly upgrades FLEX2 from Dalton Schultz (73.9 C-AVI) / Courtland Sutton (65.8 C-AVI) to DK Metcalf (74.3 C-AVI)."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Surrenders young receivers (Harrison age 24, Bryant age 23) for a 28-year-old receiver in his prime."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Increases overall 8-man starting lineup C-AVI ceiling."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Slightly reduces WR depth, but starting lineup power is heavily prioritized for a championship push."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Preserves all future draft capital while consolidating player roster spots."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Gains two young WR assets to build long-term depth while remaining in playoff contention."
+            },
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Slight C-AVI drop moving from Metcalf (74.3) to Marvin Harrison (63.9) at WR2."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Adds 24-year-old Marvin Harrison (77.5 D-AVI) and 23-year-old Pat Bryant (61.5 D-AVI)."
+            },
+            "lineupQuality": {
+              "score": -5,
+              "summary": "Minor starter drop offset by improved FLEX and depth options."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Pat Bryant immediately upgrades WR bench depth over lower-tier options."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Gains roster versatility with two young upside receiving assets."
+            }
+          },
+          "explanation": "Mile High Royal Lions improves starting lineup ceiling by adding DK Metcalf at FLEX2, while Lightskin Legends picks up two young wideouts to refresh their roster age profile without dropping out of playoff contention."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Mile High Royal Lions gains +10.4 C-AVI in positional ceiling by inserting DK Metcalf (74.3 C-AVI) at FLEX2 over Dalton Schultz (73.9 C-AVI) or Courtland Sutton (65.8 C-AVI).",
+          "sideADynastyImpact": "Surrenders 139.0 total D-AVI across Harrison (77.5 D-AVI) and Bryant (61.5 D-AVI) for Metcalf's 78.1 D-AVI, sacrificing bench longevity for immediate starting impact.",
+          "sideARosterImpact": "Consolidates two bench wide receivers into one active weekly starter, freeing up a roster spot.",
+          "sideBChampionshipImpact": "Lightskin Legends takes a minor C-AVI step down from Metcalf (74.3) to Harrison (63.9) or Bateman (64.6), maintaining a competitive lineup for their Playoff Push.",
+          "sideBDynastyImpact": "Gains +60.9 net D-AVI, lowering their average wide receiver age while acquiring Marvin Harrison (77.5 D-AVI) as a core dynasty piece.",
+          "sideBRosterImpact": "Fills two WR slots with age-24 and age-23 receivers, instantly upgrading bench depth behind Parker Washington.",
+          "valueAssessment": "Fair win-win transaction where Mile High Royal Lions pays a youth premium to secure immediate starting power, while Lightskin Legends adds young receiving depth."
+        },
+        "publicMarketAnalysis": {
+          "summary": "DK Metcalf is currently valued around the WR40-45 tier in public dynasty consensus due to Pittsburgh's offensive pacing and early-season drops, making him an accessible trade target for a package of young upside receivers.",
+          "aviVsMarket": "AVI evaluates Metcalf as a strong C-AVI asset (74.3) ideal for a contender's FLEX, whereas public market sentiment has dipped slightly due to team context, creating a favorable acquisition window.",
+          "relevantContext": [
+            "Metcalf signed a 4-year extension with Pittsburgh and restructured his contract in August 2026 to clear salary cap space.",
+            "Commanded a ~25% target share early in 2026, preserving high weekly fantasy volume despite efficiency variance.",
+            "Marvin Harrison (24yo) and Pat Bryant (23yo) hold appealing dynasty age profiles for a retooling/playoff-push franchise."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Lightskin Legends (Playoff Push) gets younger at receiver while improving roster depth with 24-year-old Marvin Harrison and 23-year-old Pat Bryant.",
+          "packageFit": "Strong fit; trades one starting receiver for a younger former 1st-round dynasty asset plus immediate WR depth.",
+          "lineupReplacement": "Marvin Harrison (63.9 C-AVI) or Rashod Bateman (64.6 C-AVI) steps into the starting lineup at WR2/FLEX.",
+          "competitiveWindowFit": "Aligns with Lightskin Legends' Playoff Push by keeping their starting lineup viable while extending their competitive window.",
+          "positionalScarcity": "Wide receiver starting volume is crucial in 16-team PPR leagues, making Metcalf's heavy target share valuable for a Champion Favorite."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 18,
+            "packageMatch": 16,
+            "lineupReplacement": 11,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 73,
+          "classification": "Realistic",
+          "explanation": "Metcalf's status on the trade block is unlisted/unknown, but Lightskin Legends receives two promising young receivers in Marvin Harrison and Pat Bryant that improve their long-term trajectory while keeping them competitive in their Playoff Push."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal effectively utilizes Mile High Royal Lions' bench receiver depth (Marvin Harrison and Pat Bryant) to acquire DK Metcalf, strengthening FLEX2 firepower for a 'Win Championship' run while offering Lightskin Legends a realistic, youth-oriented package.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Marvin Harrison",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 24,
+              "cavi": 63.9,
+              "davi": 77.5,
+              "publicMarket": 65,
+              "leagueMarket": 68
+            },
+            {
+              "name": "Pat Bryant",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 23,
+              "cavi": 57.8,
+              "davi": 61.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            }
+          ],
+          "receive": [
+            {
+              "name": "DK Metcalf",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "WR",
+              "age": 28,
+              "cavi": 74.3,
+              "davi": 78.1,
+              "publicMarket": 70,
+              "leagueMarket": 75
+            }
+          ],
+          "whyUserShouldDoIt": "Upgrades your starting FLEX2 position with DK Metcalf (74.3 C-AVI) while using non-starting bench wide receivers.",
+          "whyOpponentMightAccept": "Lightskin Legends acquires two young receivers (age 24 and 23) in Marvin Harrison and Pat Bryant, building long-term WR depth while remaining in playoff push status."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "DK Metcalf fantasy value 2026 dynasty",
+          "DK Metcalf news 2026 NFL",
+          "DK Metcalf current team contract 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_SEmeg0dDihKz_cg3tV0O-PWZq0k9qvig84ZrTVJnn_Y3iHTbXJewwfoGbc1gNpWq0R_qth_cp7TXx658ta27L2RP0k52MbeH82nEAFaI5u6c33xiqWnkB8_oIA-NWTLRvVIGFujJZ3vw5t5cVAuHHHfvxRmQRvKfRykUZk07Mpd_JUA5vsPROLdq0Z61ba_4pUj4vPthfk5AclBq4ysgUY2D",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGiecG3HuW5FR1UIT0TZ2nh_rY2sGPL4hb1G_NfHDg1pgLC8VMUWxthMX2EQ_9fh8J-ldxASHxoRCZarhoCzKBaZJmEVu4hb70StZbacIAF6kpHSRb7Dd2Ndlu29ZmxTueZ0988C4vVcMfz_rqtqYDbF-NKE_y9KBeP21iSl73n-viyhkMOy05VE4sAY8Bg9L33rSwPpsLNWGVX-qNx-B5DloY0IpLJbKOTArJp608fl1WTE_l9jcd-TZ5VdoBdw==",
+            "title": "ndtv.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqkT351BD8csc2_S-wZNPAkHZKp7d0WvhvUCkmUcc0kKbivgq60LOhrf23GNBGB0Ao_fN2xhkue1tzv9GV3mzEQDkqntwOkFBXumDnfWi8gRcfrpGX9knUMRm_sqW3nP95AJolxY-3sHQfWBM_zrfi-uJIjYzckFeYrzzHlanjFAGc7buIyNizsJIcsoyaPL-UZPxKOuId8l9_JHVKVlZX2SWU611n5XXZ0LXVBAnzhg==",
+            "title": "stillcurtain.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb9Nbgp0V9EQxF2y8V-rIMwq5YgYUVhMLljUFZF26Yd-Uz1T-XbkYFjRKQvqHI_mq36VbZWiKaDHqeAvpS48pJM5N1ADrVXcuzzBe-uu8mXStegXqluLsTtduuQBHVII5GTa8cz7iHT9G66E6TgW-e66mlLIPTlJYtq4GHX8Ka93MAK9xJLQAAl1ORX3Ibx16OjdGJ-pUIoumwFKF_",
+            "title": "steelersdepot.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtKqh-0NdtnUuX7EsAQUIfuz-jsRyTdK5uIkk_P6xcH2hrXZ3NUVzkC_gtrcDzrikESR-RiWWY2mcXyH8DFgIF29q-cdyDdULnFbxVLIEaGFa8H0ogEPBo9YorkO9OVhATQ1ZOOQSUQeg5dKVmrVefY3dm1W_rTPkxR8yR5tjODHwOKezZT-Z4t1UwZbo=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgBLkqvPlsU4oqx1k-r9pcfNmB3lwfT_BS59zf5g8vHwdH2zyiVbMXTd9z4-u6WOMk__i75VT68xfxnigiOyWWjPoncxiIPtmvnvd2GbfZJjCsusv0lvQnz6ISgkrGN_fXnUy9q6uWeQUOGBbtXAxP5bLntJOi_P53B7ZyhZSssMxJ-se-QtqYQf05QoOIqB8SzmSt2yX1f2Q=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFbivOkUv61NY679djrYcmiUf1-55AduBhg8b05ALlcxBvg9nNDKoQe2nxawn4Hpc3dACPTo71TSDLmd7-01nnbmQrLZujxykgXTeclVBS68_zwp902vJ54vNNzDQNxnfVYnOKDLHVq-Gj5-RblcYiVz2iVtedU6-bISNeXTXlBamHePyPucKzfoA=",
+            "title": "iheart.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmidfGEwJzmGE2N5xjJyFyscrJRiIusVdaL8qN2UlrYL2M89egvreTcKgNZmJo46EJzoU8Z3rWkAx4ZixeZP-s0ugWatkU-wVAVXbzKTEL6EJT6ZTRRmfKxNFRD4bm195JTQk3sCvlCjs6DzUF5zeWQChFky-d8YQkxHCfUj2e6HP4jCWqi9tVoh3LxfmEXghN4-C_LgPfFotqSJUs3NO2-u-hzuGYoetwDW__o8HIFkL7h2vXJuRSg9QtYKcmZ9wZvA==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNrdEHB-piZYjU1lWaPBUPxPam39iAAZ4aApeGD5Jrkt2Z1TVTfmiUqELqMVpv3saPKxJ_MdJoc3UT0VYWNoTYu2N-0nz-uJPEBYfGcoGRwhw2L-ZXGuEUd0RL8ZPaLTgVsTVDgkwvScORayqsyuAW8PgJ2FfqAw==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMZh164oSArD17mSQqUuIASB9eWI0t0AiINAIrBVGY-roVe0w96IbhhryhsSyEgeilSotdeu65Qs16QPwQOX1a_SXvORMJDht8MPUgN1Zns_gvnq-XLdsHuj3WltEhwaIYRRzIJmzTc4-Z7BEZgTw2Fcy8XbJZ7DVQ0xYZi5sZQeFVfO8x1w==",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "1fefbd0f667025b4ccdfdc30affd6679342dc127",
+        "aviCoreCommittedAt": "2026-09-30T01:22:51Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 78185,
+        "groundedMarketChars": 2938,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
