@@ -3,18 +3,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012509",
-      "c_avi": 61.4,
-      "d_avi": 65.2,
-      "nfl_team": "LAC",
-      "player_name": "Tre' Harris",
-      "position": "WR",
-      "sleeper_id": "12509",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004033",
       "c_avi": 60.3,
       "d_avi": 65.2,
@@ -27,18 +15,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00003634",
-      "c_avi": 59.5,
-      "d_avi": 71.7,
-      "nfl_team": "CHI",
-      "player_name": "Kalif Raymond",
-      "position": "WR",
-      "sleeper_id": "3634",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00005857",
       "c_avi": 59.4,
       "d_avi": 44.1,
@@ -46,18 +22,6 @@
       "player_name": "Noah Fant",
       "position": "TE",
       "sleeper_id": "5857",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00003271",
-      "c_avi": 58.2,
-      "d_avi": 49.1,
-      "nfl_team": "LAR",
-      "player_name": "Tyler Higbee",
-      "position": "TE",
-      "sleeper_id": "3271",
       "status": "Active"
     },
     {
@@ -82,6 +46,18 @@
       "player_name": "Darnell Washington",
       "position": "TE",
       "sleeper_id": "9479",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012499",
+      "c_avi": 53.5,
+      "d_avi": 54.7,
+      "nfl_team": "TEN",
+      "player_name": "Elic Ayomanor",
+      "position": "WR",
+      "sleeper_id": "12499",
       "status": "Active"
     },
     {
@@ -142,18 +118,6 @@
       "player_name": "Dawson Knox",
       "position": "TE",
       "sleeper_id": "5906",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012495",
-      "c_avi": 49.8,
-      "d_avi": 51.2,
-      "nfl_team": "MIA",
-      "player_name": "Ollie Gordon",
-      "position": "RB",
-      "sleeper_id": "12495",
       "status": "Active"
     },
     {
@@ -483,6 +447,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013405",
+      "c_avi": 39.3,
+      "d_avi": 52.8,
+      "nfl_team": "WAS",
+      "player_name": "Kaytron Allen",
+      "position": "RB",
+      "sleeper_id": "13405",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011577",
       "c_avi": 39.3,
       "d_avi": 42.4,
@@ -754,6 +730,18 @@
       "player_name": "Sione Vaki",
       "position": "RB",
       "sleeper_id": "11729",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00009494",
+      "c_avi": 35.5,
+      "d_avi": 46.2,
+      "nfl_team": "DEN",
+      "player_name": "Marvin Mims",
+      "position": "WR",
+      "sleeper_id": "9494",
       "status": "Active"
     },
     {
@@ -1210,6 +1198,18 @@
       "player_name": "Justin Fields",
       "position": "QB",
       "sleeper_id": "7591",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013411",
+      "c_avi": 29.8,
+      "d_avi": 39.8,
+      "nfl_team": "CHI",
+      "player_name": "Zavion Thomas",
+      "position": "WR",
+      "sleeper_id": "13411",
       "status": "Active"
     },
     {
@@ -4105,22 +4105,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00012499",
-      "c_avi": 53.5,
-      "d_avi": 54.7,
-      "nfl_team": "TEN",
-      "owner_id": "1178861684281753600",
-      "player_name": "Elic Ayomanor",
-      "position": "WR",
-      "roster_id": 2,
-      "sleeper_id": "12499",
-      "status": "Active",
-      "team_file": "02_Rapid_Valley_Annihilation.md",
-      "team_name": "Rapid Valley Annihilation"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00013268",
       "c_avi": 26.8,
       "d_avi": 51.1,
@@ -5177,6 +5161,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00003634",
+      "c_avi": 59.5,
+      "d_avi": 71.7,
+      "nfl_team": "CHI",
+      "owner_id": "308805697879937024",
+      "player_name": "Kalif Raymond",
+      "position": "WR",
+      "roster_id": 10,
+      "sleeper_id": "3634",
+      "status": "Active",
+      "team_file": "10_SmokyValleyWheatWarriors.md",
+      "team_name": "SmokyValleyWheatWarriors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00009504",
       "c_avi": 54.4,
       "d_avi": 61.8,
@@ -5189,22 +5189,6 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013405",
-      "c_avi": 39.3,
-      "d_avi": 52.8,
-      "nfl_team": "WAS",
-      "owner_id": "1129546394534158336",
-      "player_name": "Kaytron Allen",
-      "position": "RB",
-      "roster_id": 12,
-      "sleeper_id": "13405",
-      "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -5641,22 +5625,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00009494",
-      "c_avi": 35.5,
-      "d_avi": 46.2,
-      "nfl_team": "DEN",
-      "owner_id": "1129546394534158336",
-      "player_name": "Marvin Mims",
-      "position": "WR",
-      "roster_id": 12,
-      "sleeper_id": "9494",
-      "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00012501",
       "c_avi": 74.8,
       "d_avi": 78.4,
@@ -5829,6 +5797,22 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012495",
+      "c_avi": 49.8,
+      "d_avi": 51.2,
+      "nfl_team": "MIA",
+      "owner_id": "1178861684281753600",
+      "player_name": "Ollie Gordon",
+      "position": "RB",
+      "roster_id": 2,
+      "sleeper_id": "12495",
+      "status": "Active",
+      "team_file": "02_Rapid_Valley_Annihilation.md",
+      "team_name": "Rapid Valley Annihilation"
     },
     {
       "active": true,
@@ -6114,7 +6098,7 @@
       "position": "RB",
       "roster_id": 10,
       "sleeper_id": "7021",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
     },
@@ -6473,6 +6457,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012509",
+      "c_avi": 61.4,
+      "d_avi": 65.2,
+      "nfl_team": "LAC",
+      "owner_id": "1178861684281753600",
+      "player_name": "Tre' Harris",
+      "position": "WR",
+      "roster_id": 2,
+      "sleeper_id": "12509",
+      "status": "Active",
+      "team_file": "02_Rapid_Valley_Annihilation.md",
+      "team_name": "Rapid Valley Annihilation"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00012529",
       "c_avi": 73.3,
       "d_avi": 83.8,
@@ -6565,6 +6565,22 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00003271",
+      "c_avi": 58.2,
+      "d_avi": 49.1,
+      "nfl_team": "LAR",
+      "owner_id": "1129546394534158336",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "roster_id": 12,
+      "sleeper_id": "3271",
+      "status": "Active",
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -6725,22 +6741,6 @@
       "status": "Active",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013411",
-      "c_avi": 29.8,
-      "d_avi": 39.8,
-      "nfl_team": "CHI",
-      "owner_id": "1178861684281753600",
-      "player_name": "Zavion Thomas",
-      "position": "WR",
-      "roster_id": 2,
-      "sleeper_id": "13411",
-      "status": "Active",
-      "team_file": "02_Rapid_Valley_Annihilation.md",
-      "team_name": "Rapid Valley Annihilation"
     },
     {
       "active": true,
