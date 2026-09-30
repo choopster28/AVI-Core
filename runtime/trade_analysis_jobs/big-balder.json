@@ -49,8 +49,476 @@
       }
     },
     "createdAt": 1790803595677,
-    "updatedAt": 1790803597109,
+    "updatedAt": 1790803671707,
     "expiresAt": 1791235595677,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand's proposed offer to acquire Jaxon Smith-Njigba, DJ Moore, David Montgomery, and a 2029 1st pick surrenders far too much premium talent in WR Nico Collins, WR Rashee Rice, and 21-year-old rookie RB Jeremiyah Love. While JSN is the premier fantasy WR asset in the league, giving up two alpha WRs and a franchise cornerstone RB results in a net decrease of 9.7 starting lineup C-AVI points (from 678.9 to 669.2) and ages the roster significantly. Corgi Loaf Baking Co. would accept this submitted offer immediately, but Big Balder Brand should revise the proposal to consolidate WR depth without gutting its core dynasty foundation.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 93.9,
+              "davi": 95.5,
+              "publicMarket": 94,
+              "leagueMarket": 93.9
+            },
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 91.7,
+              "davi": 91.1,
+              "publicMarket": 91.5,
+              "leagueMarket": 91.7
+            },
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 86.9,
+              "davi": 95,
+              "publicMarket": 92,
+              "leagueMarket": 86.9
+            },
+            {
+              "name": "Tyler Allgeier",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 26,
+              "cavi": 59.9,
+              "davi": 77.6,
+              "publicMarket": 65,
+              "leagueMarket": 59.9
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.3,
+              "davi": 99.6,
+              "publicMarket": 99.5,
+              "leagueMarket": 99.3
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 81.7,
+              "davi": 87.6,
+              "publicMarket": 83,
+              "leagueMarket": 81.7
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 81.8,
+              "davi": 87.5,
+              "publicMarket": 82.5,
+              "leagueMarket": 81.8
+            },
+            {
+              "name": "2029 1st · King Jesus · Projected mid range (1.06–1.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "A",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Big Balder Brand overpays heavily by giving up Nico Collins, Rashee Rice, and Jeremiyah Love. Although acquiring JSN is an elite move, taking back DJ Moore and David Montgomery while losing Love hurts starting lineup C-AVI (-9.7 points) and severely ages the roster."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Consolidates WR depth by packaging Nico Collins, Chris Godwin, and a 2027 2nd round pick for Jaxon Smith-Njigba. Secures the elite WR1 overall asset without sacrificing Rashee Rice or Jeremiyah Love."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Starting lineup C-AVI drops from 678.9 to 669.2 across the 8 offensive starting slots."
+            },
+            "dynastyOutlook": {
+              "score": -40,
+              "summary": "Gives away 21-year-old Love and 26-year-old Rice while receiving 29-year-olds Moore and Montgomery."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "Upgrades WR1 with JSN (+5.4 C-AVI over Collins), but downgrades WR2 (-10.0 C-AVI) and RB2/FLEX (-5.1 C-AVI)."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Loses depth quality by surrendering Allgeier (Love's direct handcuff) and weakening WR bench."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Adds a liquid 2029 1st round pick, though it offers zero 2026 lineup utility."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Big Balder Brand loses net starting lineup power and sacrifices key elite young assets in Love and Rice."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 60,
+              "summary": "Boosts starting C-AVI sum from 684.6 to 694.3, strengthening their championship defense."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Acquires Jeremiyah Love (21), Rashee Rice (26), and Nico Collins (27) for aging veterans."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Fills WR1 smoothly with Collins while turning FLEX1 into Rashee Rice and RB into Jeremiyah Love."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Gains startable high-ceiling depth across RB and WR positions."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Outlays a future 2029 1st round draft asset."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Corgi Loaf Baking Co. gains massive starting lineup C-AVI and secures a prime youth injection."
+            }
+          },
+          "explanation": "The submitted transaction is highly lopsided in favor of Corgi Loaf Baking Co. Big Balder Brand takes a material hit to both immediate starting lineup C-AVI (-9.7) and long-term dynasty age structure, making 'Revise Offer' the necessary strategic path."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's starting lineup C-AVI drops from 678.9 to 669.2. While JSN (99.3 C-AVI) provides a top-tier upgrade at WR1 over Collins (93.9), the drop from Rice (91.7) to Moore (81.7) at WR2 and Love (86.9) to Montgomery (81.8) at RB2/FLEX damages overall weekly scoring.",
+          "sideADynastyImpact": "Dynasty asset value suffers significantly. Giving up 21-year-old elite rookie Jeremiyah Love (95.0 D-AVI) and 26-year-old Rashee Rice (91.1 D-AVI) for 29-year-old veterans DJ Moore and David Montgomery erodes Big Balder Brand's long-term competitive window.",
+          "sideARosterImpact": "Roster composition becomes older and less flexible. The 2029 1st adds capital, but does not compensate for the loss of young positional ceiling.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. increases starting lineup C-AVI from 684.6 to 694.3 (+9.7 C-AVI). Replacing JSN with Collins (93.9), upgrading FLEX1 with Rashee Rice (91.7), and upgrading RB with Jeremiyah Love (86.9) dramatically elevates title odds.",
+          "sideBDynastyImpact": "Dynasty portfolio improves tremendously. Corgi Loaf trades away aging pieces and future capital to lock down three blue-chip starters aged 21 to 27.",
+          "sideBRosterImpact": "Creates an elite, young offensive nucleus while maintaining complete championship lineup depth.",
+          "valueAssessment": "On raw market value, JSN is worth a massive premium, but packaging Nico Collins, Rashee Rice, and Jeremiyah Love together represents a substantial overpay by Big Balder Brand."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Jaxon Smith-Njigba as an untouchable WR1 overall asset given his historic 2026 breakout (34.7 PPR PPG). However, Jeremiyah Love is valued as a top-3 dynasty rookie RB following his 26-touch surge in Arizona, and Rashee Rice remains a high-volume WR1/2 centerpiece.",
+          "aviVsMarket": "Public market values JSN at peak hyper-tier status, but AVI's whole-roster model penalizes Big Balder Brand for surrendering three premier top-20 dynasty assets in a single deal in a deep 16-team league.",
+          "relevantContext": [
+            "JSN leads all NFL wide receivers in PPR PPG (34.7) with 120+ yards and a TD in every game.",
+            "Jeremiyah Love handled 26 touches in Week 3, cementing control of Arizona's backfield over Tyler Allgeier.",
+            "Nico Collins returned to practice ahead of Week 4 after a minor hamstring strain.",
+            "DJ Moore and David Montgomery are both 29-year-old solid starters but carry declining dynasty trade value."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. (Win Championship goal) would be thrilled to execute this deal. It upgrades their starting lineup C-AVI by +9.7 points and injects elite youth.",
+          "packageFit": "The submitted package heavily favors Corgi Loaf by giving them multiple elite starters for one superstar and aging depth.",
+          "lineupReplacement": "Corgi Loaf easily replaces JSN with Nico Collins at WR1 and uses Rashee Rice to drastically upgrade FLEX1.",
+          "competitiveWindowFit": "Directly enhances Corgi Loaf's championship window while weakening Big Balder Brand's playoff push.",
+          "positionalScarcity": "In a 16-team format, elite young RBs like 21-year-old Jeremiyah Love are scarce assets that should not be traded alongside two alpha WRs."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 100,
+          "classification": "Highly Realistic",
+          "explanation": "Corgi Loaf Baking Co. would accept the submitted offer immediately because JSN is publicly listed on the Autobots trade block and the return package delivers an overwhelming windfall of immediate starters (+9.7 starting C-AVI) and elite youth."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Targeting Jaxon Smith-Njigba is a strong strategic objective, as JSN is publicly available on the trade block and represents the premier WR in fantasy. However, paying Nico Collins, Rashee Rice, AND Jeremiyah Love simultaneously is an extreme overpay that reduces Big Balder Brand's starting lineup strength (-9.7 C-AVI) and guts its young RB foundation. Big Balder Brand should revise the proposal to send Nico Collins, Chris Godwin, and a 2027 2nd round pick instead.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 93.9,
+              "davi": 95.5,
+              "publicMarket": 94,
+              "leagueMarket": 93.9
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 69.5,
+              "davi": 77.5,
+              "publicMarket": 72,
+              "leagueMarket": 69.5
+            },
+            {
+              "name": "2027 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.3,
+              "davi": 99.6,
+              "publicMarket": 99.5,
+              "leagueMarket": 99.3
+            }
+          ],
+          "whyUserShouldDoIt": "Secures the WR1 overall asset Jaxon Smith-Njigba without giving up Rashee Rice or Jeremiyah Love. Preserves starting C-AVI (678.4) while pairing JSN with Rashee Rice at WR and keeping the elite young backfield intact.",
+          "whyOpponentMightAccept": "Provides Corgi Loaf with an elite WR1 replacement in Nico Collins, a proven FLEX starter in Chris Godwin, and draft capital, fulfilling their requirement to stay in championship contention while moving JSN."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 91.7,
+              "davi": 91.1,
+              "publicMarket": 91.5,
+              "leagueMarket": 91.7
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 83.3,
+              "davi": 91.9,
+              "publicMarket": 86,
+              "leagueMarket": 83.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.3,
+              "davi": 99.6,
+              "publicMarket": 99.5,
+              "leagueMarket": 99.3
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 81.8,
+              "davi": 87.5,
+              "publicMarket": 82.5,
+              "leagueMarket": 81.8
+            }
+          ],
+          "rationale": "Gives Corgi Loaf an elite RB upgrade in Saquon Barkley alongside Rashee Rice, while Big Balder Brand acquires JSN and maintains RB depth with Montgomery."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba 2026 fantasy football",
+          "Rashee Rice news 2026 fantasy football",
+          "Nico Collins news 2026 fantasy football",
+          "Jeremiyah Love football 2026 NFL draft or college",
+          "Tyler Allgeier 2026 news NFL",
+          "David Montgomery 2026 fantasy football",
+          "DJ Moore 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYRrg3ReEsE6Bq7nMUXL0QeAo21GG4zrjZCHN3Kmp81R98S6OA16UHmPQsWrZOw_YoKM1z5u9BtBTKE1wcfeu8B9YhbmAKKstZIOiHA_bWkaSX4XkRou1SG9sYYa2Q0WiNaSi0jlD_NLMEbXsoJkb_MBcFPFwdpRJ4vrLh62X3bPk7f_TtCMa1rz8EAfElPg==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW1xqPLj9HNuCOG2i3SuilCGsR1hHDLid4ENhkAtR1qQkTQ0ly-ze0ILjYrG1kJDgH321JcAgV8Wp4HPpTcOuL7VZvhcjv9hODWdKAvE0YUMqAYP8p1W6zDKVp06XGCn33Jgdwv-wVvBwc6VdQg0rHCq1o1TA=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZPAkuAVrxL6o64wfWpdfdUvcLRWoo0PEXHePX8R1_1RXVnIZdYCE4HyLeBGzdUAHcMlDcmuOXDo4X1C-JijSkDK10ZL_lVkPxtIfyQliv2ZiEu7mXDrOLTg9wB1Frmqw24Ln6_IaoGgX3sqx-U8w12KXeDbxHJZNzzriq0Q8rN1r27xMRY8Nc8W7Fob0ElFDyQuSumQkQgiDC18FQfIw2WYjC",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvCkVbHPPByBaQUtKbd_ZEchPnRKP_zwS6J1IcG8ON0I90cvOqI4zvQ9Gfd-CWjvUuRbcS6A06QcGUuskQ7i3RWml9THOs930dsOPsyt8jgkTSksfWTAz6XEs0J5bkyCejes_6eJRW-csqf-ISqcHrIzorqe1VoJCu3Q9Kq1EBoTEJU_cngyB8ShPcbp11qe4FCgUNJMoC1xeiZtr2esYD4xqmqnmQ5ksU",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEghwNHoiof-_GJI56GoeLkcAyBgi9aSkYgAFJwLFHwde64dNOGnDrBP_JnkPoWolMu7zzPnBkhsNZNKDQ3zdFZPberVUSpmUroz-3Y1DFzM1wl0YaydaWIH1r98Tavr50ykxUnx8k3uNSW2DN6DmJCibIY2LjGUWxib3J-Z6ul0_ot5BVp_Y4_hNiJpOMQ9nUKHPwDEKW8IiBerA==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcAAmSex6JEHU58TVhfpY4B5DColsw2GTJ_T6zgC7fm_4HqWDjMKOjUchttVBrdQFhsjqhLPcp0fDWE7A33f57f7f6kta-4oyXg1TIqDdEq682N-GtiID-NDdgcV94gjqCFGW3HO9nfgXyeNWFzeaKMaSNujeF7OtiOhdbDj1Vxatr9CrC1yAIvOVFzTyie8x3ZCGcTRsGrRpO3Q==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN6n9LlWWZ1Yhl8s0wCgWTOLtrXOmqOWJ5K2eWetirF-W_5pdb8wsZQ5Y1ONlihsYAHQAGmGQedTC8D616XFS-4halLm9U0fnIc4MECPTr6Jj_cXNqC_KSigeX2J_-Jz_NKI4GqvoX2Tly7KMb5EjBPoRqtQ==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEFYv-8TN283QsF1pZDFQH1uUI8VAzYLGZdSoSZX060AGiKSrhztfsCAASphhU5GAGdQsn4vb0LJ7T-L5p-O6_DbBnvc8e3m4sDtLJqbwpI2UvFts0BjL4spS25HvKMmJL",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQUK1gtYqa9S7narer2T1p_89DB4sDQHRsA9Np3H8ZH4_w43VJZHvWUDzFNjVauwHK30Z4istfMnRzjKMdcbFoJoSr_geNeIUpgdBHe1MdAdp4ZG8S7KDYI0KNDdv_VRSwYTLTp6hB1eZobgiQVn8fHwv_huXwDVhppiHnlX1oRfFCKFpnR6UE",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdxChEpt7JR5TEKfa4L-5IiCFhCpP0h44uFA_hHf4eJPfajOBvzJtlwHN5tRuY3XYMA3lThUw3D9GmXTOIBiTL2K8T962PHYFQ4YAMocPSsfbYt3BvM3nAPyFpb3ojXlezrVtb_1uxwNJgQ_nDoiXj8S47QI1uvkWL1Je8eS5VVRyObbvTNsCKMrkq9778JmrGOdQp27wwITJZuYcYMWbkq8fKXuvI",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjjz_Qh-S_TvYzZq0OjZK7m5IDLrYCqf1PlmV7dodSuubX2t7S2f3IQNkPSsHtgeQhYglfh22VTLIrkA0et0k-vFBe3zo9UKg70LBkZm10jcSSWFTOH_brRC5Amcy9ReUb5eibbZ0h5sGWmOXHFSOV5v3qooHV11Gcqv8aHtCG1zABXitJQ7QFnmP-a_E=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo2-FTt8LEmRopK-v6bxEMlXGSx6jTwRsH5LIVbjF1vWsfWzLlu2GXlVOzRY16gB9ZMX0qOEeqB_DZ_f8nn3riGo2DdUF7FVmTsCHHclZJW6roEnA-tD0N0vLYbHvoT3llRm2zKhIifB3_n2_w7yRqk_qh",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYYj_wLCnPybfCQOzVELRQdRyjdWhLqbh9AhUsEvf7qcuE1mZEF8QG76loEwfPqlbPQCy9EH__SK29HA6rtho6CpKO841eCktEx69mZl670_x4qpO3fW09h7PE74OVuze_R4qKvQgjOYb-J_oZX21eC9RAQdIYNasxltTk5ue7NJvxGYbHz3LCTaiaT597NbrQMVeWTm4CkJ4haKjUaV1TF5oApAEYrTSqIyDamnkR2GY=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdFACirFlPsfKIyVFa2jf9yFy301ouaiQAKAD8wGHbGKXbauSyra0SAx-aKcqRODDH1o_nDV-N2-IbTDAQrDoFI7KpC8Ajt-r7M3_hGQ_aP5_2x2N2RsdAbPk9PA6l5F3Yw10XZyiCyvAnI_As2yRqyZ4RjQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa2F5oSF5VTPmV3oRMNQrP3KAhs6hgSHMhb98K1qWhMp0AxCGJsbiz_TMJZv0OwZAKoAXW5KWwwp1IRFMZ_y92Ov-mnU8lgJrlDBHQ2QaezH8aQVOmEevLTenX49JrPBdDoN0KN5WiWnX_xl16Co6qY-28ibO1",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzOF8dVg9gd7PtboyNOExzXXlg1EOYGeRz4AmD6bCvLz0YIKIGK8H4MiP-JvKDhG9rEzdnhBZKJXjYq_RBw_ClWxQ0ColFhJRtiitXg_v9JHrJwB6Kgf0ZJAb37e0gRec=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEdXrhq2jk-P18YuGb9Mx7DStvykqSDMtmptQ8fv53qxwBMKwrSru_EIkasw4EH23UZLW1u2k8zsYgFqORcDoansXQ0II2uTinqt2K5a8KXhdd9oSHAlcFViL-erTvv-jJISBRzSv7LuZuJ-XjQYMg895dqCOCnWdtAGH0if2xEKQGqMNh-R9rSdVuB4lXH-eWBI1s",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExsOUopQLQW8ZFaksmg1mTZI54KMpIz-YKD6rdabkyG6nizQuoSEW26RrlDF4NYXkHrAariGLc_tw906-ld9UowWnVF3SkaFgO1XsnWQPW2sVRgK8A9FUvbMrw5fC_m5ApX_QeiTg8wdKMysDkkGTrGqK6fRQOEDNGX9idUHaTVhzRB8Ay2YV-FoZCLqYns9Bx0qJA6Pex6A==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl8NlG1dcnL1hF2BOelWaIPIOoAtxoZ1R9FGR_rAhmOz0tvlvX_2iMenM63cE1LJ88iXDm3TTISFqWrnb25kvQHI_WFjQ052ACqfoslrH-8-vP731tDHUmc94KDsH6an4=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGChR86BSPrNWfPuGb1UGX74fXdT7COJooQGq-RDDw-df-4H9d2BZQoZ7gRCu4mY2PvTKTI51Nu7sIKT2kI5Obn5_4Ai0XiQJ9hFWgk2Ypw3VC65F3aWomExdGTgX4tjlaYf43CEiti8cjV1luDGFqwFs2kO4K_9MF7Dp44cqB7TTrlyqH3NYqIdp96MWTMNEQiokmWGSm9AOtKHiREHblz",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF977CUjuhW6wFVZxccB-rSsaR72chvgUCcaDYA1RGXVR0lzYPD6npaXD5qf0IXPCAnFCA0Vl4zOsjOjxejuHOiCzoprk9rNhacwCNKlEWw5_sdGkv9frK4U90u2hMuxfPk",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmw0z37wUkvnwuw_FHanUmXdBUq2CkQyzOIjNb31Pl0Vl1Y3BYgpzZ04k9luZ0AXcE6XGnHcl77T0ySqWFEJaxvlD4QSHsByFdrcNeaO-V5FFDpVHGmkdraLs9VhFrfNYcoY8gIDj5jO2e6tGHl7NHd5QPaZCsK9-yjx6n80vHVtya1Q_kZUPQjLczVaYj4ZWYNJ8_yWiF5dvLDXnC1lkMpO10yiLcPqzjHco=",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "38f6d4bf4cea9c25a1fee881b128fd1f2e159a79",
+        "aviCoreCommittedAt": "2026-09-30T21:22:09Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 90228,
+        "groundedMarketChars": 3679,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
