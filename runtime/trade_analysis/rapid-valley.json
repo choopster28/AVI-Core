@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "id": "muo44ht1-1a8da240",
+    "createdAt": 1790773251323,
+    "expiresAt": 1791205251323,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Rapid Valley Annihilation",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Rebuild",
+      "assetsToShop": [
+        {
+          "name": "Ollie Gordon",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Market Reality evaluation for shopping Ollie Gordon on behalf of Rapid Valley Annihilation produced zero viable trade recommendations. Per AVI-Core authoritative roster exports, Ollie Gordon is not listed on Rapid Valley Annihilation's active 22-man roster, nor does he currently occupy a league-relative starter/FLEX tier. Under strict AVI trade realism and Data Authority protocols, unowned or non-starter assets cannot be used as trade centerpieces to manufacture starter-level returns or future premium capital.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Retool",
+          "strengths": [
+            "Young quarterback depth led by Caleb Williams (C-AVI 79.6, D-AVI 84.9)",
+            "High-upside youth foundation at tight end (Colston Loveland, C-AVI 76.3) and running back (Quinshon Judkins, C-AVI 76.4)"
+          ],
+          "priorityNeeds": [
+            "Verification of asset roster eligibility prior to initiating market shop requests",
+            "Accumulation of premium 2027/2028 draft capital and established league-relative starter WRs"
+          ],
+          "tradeableSurplus": [
+            "Rhamondre Stevenson (C-AVI 74.9, D-AVI 74.5)",
+            "Deshaun Watson (C-AVI 53.9, D-AVI 57.2)"
+          ],
+          "constraintsApplied": [
+            "Enforced Data Authority: Asset shop requests must exist on user's verified Sleeper roster file",
+            "Enforced Starter-for-Starter Realism: Outgoing and incoming player components in shop_assets must belong to the league-relative starter/FLEX pool",
+            "Enforced Two-Organization Goals: Trade partner acceptances aligned with verified organizational status"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 15,
+          "eliminationReasons": [
+            "Asset Roster Discrepancy: Ollie Gordon is not currently present on Rapid Valley Annihilation's authoritative 22-man Sleeper roster file.",
+            "Starter-Caliber Realism Gate: Unranked/non-starter players cannot be paired or shopped to acquire starting-caliber assets or future 1st/2nd-round picks.",
+            "Opposing GM Motivation Failure: Opposing front offices will not surrender starter-caliber players or top-60 draft assets for unverified roster assets."
+          ]
+        },
+        "opportunities": [],
+        "noDealExplanation": {
+          "summary": "No realistic trade packages could be constructed for Ollie Gordon under current Autobots Market Reality parameters.",
+          "primaryObstacles": [
+            "Ollie Gordon does not appear on Rapid Valley Annihilation's verified Sleeper roster file.",
+            "Autobots trade realism rules prohibit manufacturing starter-level trade returns or premium picks using non-starter/unowned roster assets."
+          ],
+          "userConstraintImpact": "Strict adherence to Data Authority and league-relative starter qualifications prevents low-tier or unowned assets from generating invalid market proposals.",
+          "closestPathToDeal": "To execute a successful Rebuild/Retool shop request, select verified starting-caliber surplus from Rapid Valley Annihilation's official roster—such as veteran RB Rhamondre Stevenson (C-AVI 74.9) or TE AJ Barner (C-AVI 64.7)—to target rebuilders holding excess 2027 1st/2nd-round draft capital."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "TreVeyon Henderson NFL draft 2026 fantasy dynasty",
+          "Jaxson Dart NFL draft 2026 fantasy dynasty",
+          "Dylan Sampson NFL draft 2026 fantasy dynasty",
+          "Ollie Gordon NFL draft 2026 fantasy dynasty"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXUl2_PwrKNEelmpxoUgL8I18X5AANLvNQDRzVx0zYwweCGulG-3ul6FI9CKduiFHhViHszfqO1H-TeJE95LPSwc8ZmgegZue9sqXCgRbnS5HAgPXJpGlshIiEtOchclx147isuCAVo-WAiYQqcZXltSsTLdYsUat5-s_IWiEIiJ5jVMbLVGqvu9JT-WSZrnkaMVZD-8NIRoWj7cAX2vBunxRu90Zq8jIHbPltmHq2too=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa5JblkQNEzO3RYgpdkOujDDd-MhWMux5Xw686eRIXREdue2pxqgnJ7jSkTPsaSbqjsWuwT5dHZJ28zlbgIlbbdVuCw2uCpoJvHY0NxZVm-bA5zJNmtI-jpztImFw1OXnjwVY7GdfdbQwIfeC0yKPMax09a1pfNOhM2pwURve1ND5FrFvJybUyijncgffEtwZNjze9L9I=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiOsn8icCnCpe9Lfgx-nn4AVfJY3ZWiURFauDfnK-dcrheHNlJHpKVUSlV78rmI8UQdkoxSrEeyqjXm7riOaN0tYoaXiMkYxSSf7JIhz0b7nOOqmc6qCB6GpyUV01M2pkkRupG2d0rz4ckqZoCeLZzHO8iEcFtbrXDN1DRXH5ETR5uZ0UkrvnDpUGkaFNBDgRbSlpTWQdCVQ==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ6of7JoG-MADb1Y8XuhdslgO0_abODab3JcO6Nb0_p8GL83eYRU88aPKrBRna1qLIb37swzoeBhF412FDFBHkgYJNyPZjAqw9_OVtcO9dCa9u7zna7nri8IZms7s7HLifeD4OARInOpenv9PzjnUgeDruHs-R55JLT1XOQWcBWaYViEIp11i0SEX_Y0h0F7C4SkkhJ3i7WopcwdbjQg==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvneSHpX_dnUItrB6e-vd_zM8WQJ5-YKSHfmqcypB-jfeSt7EwB-ONw-wh8IbTG4I3m6iVzPtktyD_sz_mIRK3vrZnv7iDsj5b6ppWoNBDAbOHquHuQ_8C3Cpv4D4gDERh",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqHeKtzvlbRAtqF51lUPj5FfzBD_rLHcBNkfuoz7xa6dVjuJtYGuSZ0LNljxewSjrk43Cuu6CxBhPnMYDAtRbQ55LyORuFPPEvc8Hg7liP6boz9PcJQvW3TZhrLR6F_UaC5vX1K0xH0pLCFFp5Sjd40-msT6ZpqBz6wAmRy1pE8EaGLdCohc9BUWSZdAJmQv-PBz1ZycUpzM0k",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6f4YSx_oLz7KyKZQlWLpfAuXLFAGTdb-zrdYXxUMgt_jJ1xsfcGCk5C_kgkczMlpxBgqo9IooooyG52ulzljKUf04Jd0sB4zpa0-kRd3YUI10LlWRsYMgu7630te8WvbU1y4z-jEQJWamQ2__iqJ4RvgSYtGJHILD6jDJ4_Jnu6aNsitABc2zKoQ0hDyFAAp49kGzC_c=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSQ0gkwZyEdanAJkCe2d5k5T7KdV69z1R6oyyOjFF7EsMbCSbC4tN-khZW-pbgNBRexxV4HHrXbA8SWn8AwQRpQUT86JtPKGNP6qHKKlf-BkEDiL909OlyaFH6IB2hKowMt66lRFd2Di_O-2uxAbaEWdrNyOif_UiAZjK9Lu2vYg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERCq377M2gzYuM0Fh60HbMyyUQYwvFkQiBjMsEK4EsJAM0V1FpW8-Zp6oqaHZPhQKWEbvOfO7khKEsQUpMlnABRHDsYnbxcfnu_1Lm0Q-2iS42M6t6-9UeKTuZpMUgK0tWRadwkMKNqZEISKXq3gfYdMDn54X8rFCUCg1Xdp4zBsn6vdIcYCVCqqeNKieJPxzyOAEapt_b",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgFhJ9U-AbKPdh53lPYrEx_bVcOkF9kHD6X3hK25jSvP3v0-FWT2fy1yLX0udI7XZt6af4AYkBJpQgB8DcvSP-SDJZbH_50HgFLhdBNTRFwiQVJ9dJsFdt4GMNbD_Grp0SqyMmNn67Jx8j6PifTQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFX8PknqOamN854fh-gylU80T5P9SycyvTTT1kXSWtpSo2OJKfZym97kmygU8sihqReGBQuS2q0OzRRdrla2zhrJNnZs80KPLGEWbmqNN1HZdJ8aHAAk_iKZ36M5WafBdoQRLYrEpyj9SGf4d35mAdHWJaHdou2NuYb8RLzUWhluK4UoDahWXDIP2Da5oRk3aW-MIoNzwh-yktndpvAyA=",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIhEy4xLY8HYLljbS9fjQUG1DzdBKhaZ6CANr-7vrll6iTabUdECcg8iWI7hQkif2I_9j0t9reCfaJHYJhq918v1LypaLT8XgjafwCpx17YzRYy99-yPQiVsrHozFU-dPTTKgdDdfjgd496EiS_ck35b8SWOM7WFTMfq9zxMn3JK9g01bUbasEALJK1lnvh4BLN6DM_XqDe2k=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHXb8j54ugA-67787gBa96Gtst7kBOP3nK-qA2WJK7aDHSV9aJNFpuIeZBBYTSIDxmNDrGEqHyfkpeZ-bk90Qx_XUH497lnE2gZd5VFAo3Hcu91MgdWQSz85yA_ouVFyFhwJGdzOVqg0i5XBrIltvR4BZK56fs8QFhr4Q3dZRrW6kHLSoDaG0UbSkL3UKk8C3QBctVg7M9guu8xn2pwnrmkCm8",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Dylan Sampson",
+          "Ollie Gordon",
+          "Jaxson Dart",
+          "TreVeyon Henderson",
+          "OllieGordon"
+        ],
+        "aviCoreCommitSha": "578be5416921a42e88f09528d1d441527c9e3c4f",
+        "aviCoreCommittedAt": "2026-09-30T11:36:07Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 533688,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 248,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  }
+]
