@@ -1,5 +1,63 @@
 [
   {
+    "id": "muoikhm7-fab15172",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Southside Savages",
+      "goal": "Rebuild",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jaylen Waddle",
+            "assetType": "player"
+          },
+          {
+            "name": "Travis Etienne",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Emanuel Wilson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Northside · Projected early range (2.01–2.05)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 3rd · Ravens · Projected mid range (3.06–3.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 3rd · Conquistadors · Projected late range (3.10–3.16)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2029 1st · Conquistadors · Projected late range (1.10–1.16)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2029 2nd · Conquistadors · Projected late range (2.10–2.16)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2029 3rd · Conquistadors · Projected late range (3.10–3.16)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1790797457455,
+    "updatedAt": 1790797457455,
+    "expiresAt": 1791229457455,
+    "status": "queued"
+  },
+  {
     "id": "muo9aw87-0e507964",
     "phase": "initial",
     "mode": "analyze_trade",
