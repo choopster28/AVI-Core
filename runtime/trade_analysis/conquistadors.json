@@ -1,1 +1,438 @@
-[]
+[
+  {
+    "id": "muo8umla-c8f0e7eb",
+    "createdAt": 1790781203638,
+    "expiresAt": 1791213203638,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Conquistadors ↔ Southside Savages",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Conquistadors",
+      "goal": "Win Championship",
+      "targetTeam": "Southside Savages",
+      "targetAssets": [
+        {
+          "name": "Jaylen Waddle",
+          "assetType": "player"
+        },
+        {
+          "name": "Travis Etienne",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Conquistadors (Champion Favorite) propose a targeted 4-for-2 acquisition package to Southside Savages (Rebuilder) for Jaylen Waddle and Travis Etienne. By offering 23-year-old WR Matthew Golden, 23-year-old WR De'Zhaun Stribling, a 2029 1st-round pick, and a 2027 2nd-round pick (via Northside Kings), Conquistadors convert future draft liquidity and young depth into immediate starting FLEX scoring with Waddle and elite stretch-run RB depth in Etienne (currently nursing a hamstring injury). This trade perfectly aligns with Southside Savages' rebuilding timeline by liquidating 27-year-old veterans for high-upside young receivers and prime draft capital.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Matthew Golden",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 23,
+              "cavi": 74.8,
+              "davi": 78.4,
+              "publicMarket": 72,
+              "leagueMarket": 74.8
+            },
+            {
+              "name": "De'Zhaun Stribling",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 23,
+              "cavi": 45.9,
+              "davi": 70,
+              "publicMarket": 50,
+              "leagueMarket": 55
+            },
+            {
+              "name": "2029 Round 1 Pick",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2027 Round 2 Pick (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.7,
+              "davi": 87.6,
+              "publicMarket": 78,
+              "leagueMarket": 82.7
+            },
+            {
+              "name": "Travis Etienne",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 27,
+              "cavi": 82.7,
+              "davi": 81.5,
+              "publicMarket": 72,
+              "leagueMarket": 77
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Conquistadors",
+            "summary": "Conquistadors successfully convert non-essential young pieces and future draft capital into proven core starters. Jaylen Waddle immediately upgrades the active FLEX slot over Matthew Golden, while Travis Etienne provides high-upside RB depth once recovered from his hamstring injury. Southside Savages gain two 23-year-old receivers and core rebuilding draft capital."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Conquistadors",
+            "summary": "This proposal balances immediate championship payoff for Conquistadors with ideal multi-year rebuilding assets for Southside Savages. Both front offices advance their stated organizational goals."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 65,
+              "summary": "Materially enhances immediate championship floor and ceiling by securing Jaylen Waddle for starting FLEX duty and Travis Etienne for late-season backfield depth."
+            },
+            "championshipOutlook": {
+              "score": 75,
+              "summary": "Jaylen Waddle immediately elevates active weekly scoring, while Travis Etienne offers premium championship insurance once cleared from his hamstring injury."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Gives up long-term picks (2029 1st, 2027 2nd) and young receivers Matthew Golden and De'Zhaun Stribling."
+            },
+            "lineupQuality": {
+              "score": 70,
+              "summary": "Replaces Matthew Golden (C-AVI 74.8) in the active lineup with Jaylen Waddle (C-AVI 82.7), raising total starting lineup score."
+            },
+            "depthResilience": {
+              "score": 50,
+              "summary": "Adds Travis Etienne to a championship backfield containing Bijan Robinson and Breece Hall once Etienne completes hamstring rehabilitation."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Reduces draft capital reserves and young WR developmental roster slots."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 55,
+              "summary": "Successfully converts 27-year-old veterans into core rebuilding assets aligned with a multi-year window."
+            },
+            "championshipOutlook": {
+              "score": -45,
+              "summary": "Reduces immediate 2026 weekly scoring potential, aligning with Rebuild objectives."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Gains 23-year-old WR Matthew Golden, 23-year-old WR De'Zhaun Stribling, a 2029 1st-round pick, and a 2027 2nd-round pick."
+            },
+            "lineupQuality": {
+              "score": -35,
+              "summary": "Shifts target share toward younger talent including Tetairoa McMillan, Luther Burden, and Matthew Golden."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Expands youthful WR bench depth with multiple 23-year-old prospects."
+            },
+            "flexibilityLiquidity": {
+              "score": 75,
+              "summary": "Dramatically increases draft pick liquidity and trade flexibility with premium future picks."
+            }
+          },
+          "explanation": "Conquistadors capitalize on their championship window by acquiring two high-tier producers, while Southside Savages embrace a textbook rebuild by acquiring youth and premium future draft capital."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Jaylen Waddle (C-AVI 82.7) provides an immediate starting lineup upgrade at FLEX over Matthew Golden (C-AVI 74.8). Travis Etienne (C-AVI 82.7) offers elite late-season RB depth once cleared from his current hamstring injury.",
+          "sideADynastyImpact": "Conquistadors trade away long-term capital in a 2029 1st (AVI 79.3) and 2027 2nd (AVI 48.5), plus 23-year-old WRs Matthew Golden (D-AVI 78.4) and De'Zhaun Stribling (D-AVI 70.0), shifting value directly into win-now prime assets.",
+          "sideARosterImpact": "Consolidates depth into upper-tier starting talent, creating an offense led by Josh Allen, Bijan Robinson, Breece Hall, Puka Nacua, George Pickens, Ladd McConkey, Harold Fannin, and Jaylen Waddle.",
+          "sideBChampionshipImpact": "Southside Savages reduce current weekly scoring by moving Waddle and Etienne, aligning with their declared Rebuild phase.",
+          "sideBDynastyImpact": "Injects substantial long-term value with two 23-year-old wide receivers alongside a 2029 1st-round pick and a 2027 2nd-round pick.",
+          "sideBRosterImpact": "Clears 27-year-old veterans to give primary workload to young cornerstones Tetairoa McMillan, Luther Burden, TreVeyon Henderson, and incoming Matthew Golden.",
+          "valueAssessment": "Fair, mutually beneficial transaction that honors positional scarcity and team-lifecycle goals for both organizations."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty sentiment values Jaylen Waddle as a high-upside WR2 in Denver's offense. Travis Etienne's short-term trade market is discounted due to a Week 3 hamstring injury that rules him out for Week 4 and forces an extended absence, creating an ideal buying window for a contender with existing starting backfield depth.",
+          "aviVsMarket": "AVI values Waddle (C-AVI 82.7) and Etienne (C-AVI 82.7) as dynamic starters. Public consensus reflects a temporary injury discount on Etienne, allowing Conquistadors to acquire both veterans without surrendering any core starting pieces.",
+          "relevantContext": [
+            "Jaylen Waddle's post-game walking boot was precautionary; official reporting confirms he is fine as Denver's top perimeter weapon.",
+            "Travis Etienne suffered a hamstring injury in Week 3, ruled out for Week 4, and will miss extended time, dampening his immediate redraft utility but preserving his late-season asset value.",
+            "Southside Savages' Rebuild goal makes moving 27-year-old veterans logical before age-curve depreciation."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Southside Savages are in an explicit Rebuild phase and are motivated to trade 27-year-old veterans for age-aligned prospects (Golden, Stribling) and premium future picks (2029 1st, 2027 2nd).",
+          "packageFit": "The 4-for-2 offer directly solves Southside Savages' strategic need for draft liquidity and young wide receiver prospects.",
+          "lineupReplacement": "Southside Savages cleanly replace Waddle with Matthew Golden alongside Tetairoa McMillan and Luther Burden, while TreVeyon Henderson commands their backfield.",
+          "competitiveWindowFit": "Ideal window alignment: Conquistadors maximize 2026 title odds, while Southside Savages accumulate foundation pieces for 2027-2029.",
+          "positionalScarcity": "In a 16-team league, securing both a top-flight WR and a starting-caliber RB without giving up core stars (Allen, Bijan, Breece, Puka, Pickens) represents superior asset management."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 22,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 84,
+          "classification": "Realistic",
+          "explanation": "Southside Savages' Rebuild status strongly supports liquidating 27-year-old veterans for young receivers and premium picks. With all validations passed and an 84% acceptance probability, this proposal represents a realistic transaction."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal satisfies Conquistadors' 'Win Championship' goal by adding Jaylen Waddle as an immediate starting WR/FLEX upgrade and Travis Etienne as late-season RB playoff depth, while giving Southside Savages an attractive rebuilding package of Matthew Golden, De'Zhaun Stribling, a 2029 1st, and a 2027 2nd.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Matthew Golden",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 23,
+              "cavi": 74.8,
+              "davi": 78.4,
+              "publicMarket": 72,
+              "leagueMarket": 74.8
+            },
+            {
+              "name": "De'Zhaun Stribling",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 23,
+              "cavi": 45.9,
+              "davi": 70,
+              "publicMarket": 50,
+              "leagueMarket": 55
+            },
+            {
+              "name": "2029 Round 1 Pick",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2027 Round 2 Pick (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.7,
+              "davi": 87.6,
+              "publicMarket": 78,
+              "leagueMarket": 82.7
+            },
+            {
+              "name": "Travis Etienne",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 27,
+              "cavi": 82.7,
+              "davi": 81.5,
+              "publicMarket": 72,
+              "leagueMarket": 77
+            }
+          ],
+          "whyUserShouldDoIt": "Upgrades your starting FLEX slot immediately with Jaylen Waddle and secures high-upside RB stash depth in Travis Etienne for the fantasy playoffs without surrendering any core starters (Allen, Bijan, Breece, Puka, Pickens, McConkey, Fannin).",
+          "whyOpponentMightAccept": "Southside Savages are rebuilding. Receiving two 23-year-old receivers (Golden, Stribling) plus a 2029 1st and 2027 2nd for two 27-year-old veterans aligns perfectly with their multi-year timeline."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Matthew Golden",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 23,
+              "cavi": 74.8,
+              "davi": 78.4,
+              "publicMarket": 72,
+              "leagueMarket": 74.8
+            },
+            {
+              "name": "2029 Round 1 Pick",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2027 Round 2 Pick (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.7,
+              "davi": 87.6,
+              "publicMarket": 78,
+              "leagueMarket": 82.7
+            }
+          ],
+          "rationale": "If Southside Savages prefers to hold Travis Etienne through his hamstring recovery, pivoting to a single-target acquisition for Jaylen Waddle isolates the immediate WR/FLEX upgrade while preserving De'Zhaun Stribling."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Travis Etienne fantasy value 2026",
+          "Travis Etienne news 2026 NFL",
+          "Jaylen Waddle news 2026 NFL",
+          "Jaylen Waddle fantasy value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE-MLwjbmZ3tU42p9OS-3JcVjHcLoR14FbFYBfvmXCjhIHWJmJkWPJC8UBEFGZuEM6_GMqI4-Ka8M116PUFD0b7WAeB5qoVUyxlOqG1UGqXwbPzyn7GasbJF7-Zi-U0iqaxc8rPcC1qUbscLNLffVYS3E=",
+            "title": "gamedai.app"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdCZO7TS5IelnmoN9wb7fLXAfNKuqZa3o8ljrIyl1sH3SPT5EG3bK3tTxholD00j_S2I_ghJeleuGhJNbXf3B3Ls7IObBqQy8KyuMAe-NtF1_wVWg1w72RT--iY3DZZgE4KbEZvVkF0gXY_zKi-85g39RRwkP6pvu9-wZ4nlnCd5mA0iAasEXoYzwicWx0O9zoenr6O41BC6JjR_Qj",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjav4YTd1TQ_J-rxwfnD8SIcOwdIPng6hx9g3lL5tFqzj0vWrMdYtEl5U3FXDtCBifGFku3J6jL36vhhlCzo2srXlJzBDfblike6pnzs86PKW8qRPldli-c70N1xAC8yKRfUafEsKSYki2lKEUvUOj7bY3L3Dc4HW-VWxYRYwQbowGF2k1pYY3ig==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiMJ5esXnMLsdt7zIq7s3m0oH7kxAw4NJlkKr4j3toDdYp8EeiwebVzKyFgvTv5HxM4KEXlkB0PfX_720EaHPL27wfYfEMI0PXispQmf_Ro_HDppZ-TpsE0P912CMwKzcln0ste_a5bNzxwKJoyIDh4SuY4cHl14I9rXKPMAY9G7a9fHZKcSEWXpAq15ijVm1PhQW1PiDh_PlvRaGDSEDDW5D9Ddw=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvd0wytsvXstHGSlLrjLA1HylmMnT1i6YPZcuSMSltQcwJaRSvsx6ii6iozAl_lN3Wx9YDUvLZZ3k3Hz2lLSxiFcQ4W5qRSOMfLpdd94nmps4otxcz7cLOJq6zG3nYC0iy8x7el51dSj5LHkDL3jkE1-L4usgobgIrDf6eD9TMO2dU76FnOn0EdmNmyyxM7Zz-Jj7aWGhTnpACtAK5cXBO",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGnLaMf9wbakEjgpflEfsYE_PYBmNO-SD9zl5BugESNhdJzkdceOyzOC_W1BALUY1Gwo5tMpuWCptTOqWxK1XywyN9sFYLp-jhDJ9OEXdfJWSRjt6qBGSCZg76UK1Cqq5b4794w9rv37jFdZ17fcV5OnYVw9m2KzOhMgkJuzvFV-0ceyLRNCXwSKg41_ECeAap_in_pc-4cqHWOw==",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFEGt7zF0_l4kf6dEUuiO_h7fSU22o6N3ryCNSMdJ3Xsl0PERrAsIR4Bvf32qSg1hI86obtCXxTd3uz7jwtcb0q40H3FWDC59f8dIbDXhld-8qdm3V3ik70V_9exv7GVHztL82QTBmu2jP4TAzX-nwCLXFRWBXMcjJ-XZf3j13BC6V0uLoiSTu9RHhmOdmRFOaUEAE-UyHtHMSm-XyaK3vBVpq3F_zaUgS3yY=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa4kqjQiXuMvZ9Y4MacES-KdEdSRUhc5qzQjsAnYCD-miBEQhlagB-cozt2j10YN3GRBkwFCEVhsaybnzFSNFNkLZyyqnBZuUss4N_Ama7vJuueGDMIXtIW8jd9MrCqZYmSoMmRTDrWUP9iDr3e0MXdF7kwszeOiMvafYJROyH1L-r",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyumRdhjhefcd2nzmLoKXVm_-Yr6flAAV89wGlCXsBxzGC_SEAKGxRvw0cvPJBeK1rKXFiPElbgxidYoBiNDdoio4m5DLIEa1KeSDKQn8aXuawF1e3uHUhfomhxZnsoSCiQwTozFaeKc9sA1y-rJiHEe-vaXJgMVH-w-yultuPB4_cojs09db0xMUpvi1KjX4zTlFdvnDxc4XT9NwV1b4rHLU3f7L99jqZ",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "ed5ce239062e013baa9238bed677e7097e411093",
+        "aviCoreCommittedAt": "2026-09-30T13:59:06Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 81129,
+        "groundedMarketChars": 2226,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  }
+]
