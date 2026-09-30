@@ -999,18 +999,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00013264",
-      "c_avi": 32.1,
-      "d_avi": 32.7,
-      "nfl_team": "CIN",
-      "player_name": "Dohnte Meyers",
-      "position": "WR",
-      "sleeper_id": "13264",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00007587",
       "c_avi": 31.9,
       "d_avi": 24.7,
@@ -1774,7 +1762,7 @@
       "player_name": "Audric Estime",
       "position": "RB",
       "sleeper_id": "11579",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -2798,8 +2786,8 @@
     }
   ],
   "counts": {
-    "available_players": 233,
-    "rostered_players": 247
+    "available_players": 232,
+    "rostered_players": 248
   },
   "rostered_players": [
     {
@@ -4005,6 +3993,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00013264",
+      "c_avi": 32.1,
+      "d_avi": 32.7,
+      "nfl_team": "CIN",
+      "owner_id": "736993578450030592",
+      "player_name": "Dohnte Meyers",
+      "position": "WR",
+      "roster_id": 1,
+      "sleeper_id": "13264",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00009486",
       "c_avi": 65.0,
       "d_avi": 65.3,
@@ -4574,7 +4578,7 @@
       "position": "WR",
       "roster_id": 7,
       "sleeper_id": "11618",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
     },
@@ -4734,7 +4738,7 @@
       "position": "WR",
       "roster_id": 13,
       "sleeper_id": "10222",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
     },

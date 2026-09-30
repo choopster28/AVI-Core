@@ -604,6 +604,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
+## PLAYER LOOKUP: Dohnte Meyers
+- Player name: Dohnte Meyers
+- Player ID: 13264
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
+
 ## PLAYER LOOKUP: Dontayvion Wicks
 - Player name: Dontayvion Wicks
 - Player ID: 9486
@@ -2727,15 +2735,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 32.3
 - Dynasty AVI (D-AVI, 0-100): 50.0
-- Availability: available
-
-## AVAILABLE PLAYER: Dohnte Meyers
-- Player name: Dohnte Meyers
-- Player ID: 13264
-- Position: WR
-- NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 32.1
-- Dynasty AVI (D-AVI, 0-100): 32.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Dyami Brown
