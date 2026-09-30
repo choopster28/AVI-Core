@@ -324,14 +324,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
 
-## PLAYER LOOKUP: Chris Brooks
-- Player name: Chris Brooks
-- Player ID: 11370
-- Position: RB
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Team file: 08_All_Hail_King_Jesus.md
-
 ## PLAYER LOOKUP: Chris Godwin
 - Player name: Chris Godwin
 - Player ID: 4037
@@ -2158,6 +2150,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: SEA
 - Championship AVI (C-AVI, 0-100): 47.0
 - Dynasty AVI (D-AVI, 0-100): 59.4
+- Availability: available
+
+## AVAILABLE PLAYER: Chris Brooks
+- Player name: Chris Brooks
+- Player ID: 11370
+- Position: RB
+- NFL team: GB
+- Championship AVI (C-AVI, 0-100): 46.9
+- Dynasty AVI (D-AVI, 0-100): 67.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Charlie Kolar

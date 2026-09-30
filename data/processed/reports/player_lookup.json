@@ -219,6 +219,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011370",
+      "c_avi": 46.9,
+      "d_avi": 67.3,
+      "nfl_team": "GB",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "sleeper_id": "11370",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008127",
       "c_avi": 46.4,
       "d_avi": 59.4,
@@ -2774,8 +2786,8 @@
     }
   ],
   "counts": {
-    "available_players": 231,
-    "rostered_players": 249
+    "available_players": 232,
+    "rostered_players": 248
   },
   "rostered_players": [
     {
@@ -3417,22 +3429,6 @@
       "status": "Inactive",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011370",
-      "c_avi": 46.9,
-      "d_avi": 67.3,
-      "nfl_team": "GB",
-      "owner_id": "736994691492519936",
-      "player_name": "Chris Brooks",
-      "position": "RB",
-      "roster_id": 8,
-      "sleeper_id": "11370",
-      "status": "Active",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,
