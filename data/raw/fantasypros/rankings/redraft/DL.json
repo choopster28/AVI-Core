@@ -11505,7 +11505,7 @@
     },
     {
       "cbs_player_id": "2864785",
-      "player_bye_week": "7",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "phidarian-mathis-dl.php",
@@ -11518,7 +11518,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "P. Mathis",
-      "player_team_id": "BUF",
+      "player_team_id": "FA",
       "player_yahoo_id": "34002",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT204",

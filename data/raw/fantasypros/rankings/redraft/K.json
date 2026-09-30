@@ -681,7 +681,7 @@
     },
     {
       "cbs_player_id": "2876348",
-      "player_bye_week": "13",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "K",
       "player_filename": "blake-grupe.php",
@@ -694,7 +694,7 @@
       "player_position_id": "K",
       "player_positions": "K",
       "player_short_name": "B. Grupe",
-      "player_team_id": "NYJ",
+      "player_team_id": "FA",
       "player_yahoo_id": "40296",
       "player_yahoo_positions": "K",
       "pos_rank": "K26",

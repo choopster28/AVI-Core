@@ -537,7 +537,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "FA",
+    "nfl_team": "WAS",
     "normalized_name": "austin ekeler",
     "position": "RB",
     "source_ids": {
@@ -3118,7 +3118,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "FA",
+    "nfl_team": "MIN",
     "normalized_name": "devin neal",
     "position": "RB",
     "source_ids": {
