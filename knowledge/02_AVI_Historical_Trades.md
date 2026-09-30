@@ -17,15 +17,15 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **85**
-- Owner trade participations: **171**
-- Two-team trades: **84**
+- Unique completed trades: **86**
+- Owner trade participations: **173**
+- Two-team trades: **85**
 - Three-team trades: **1**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **42**
+- 2026 completed trades: **43**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-09-24T22:48:18.911000+00:00**
+- Latest verified trade: **2026-09-28T22:00:18.125000+00:00**
 
 ## Trades by Owner
 
@@ -34,8 +34,8 @@
 | 1 | Corgi Loaf Baking Co.  | awang1900 | **25** | 7 | 4 | 14 | 37 | 37 | 8 | 13 | 6 | 8 |
 | 2 | Big Balder Brand | Choopski | **20** | 7 | 2 | 11 | 30 | 32 | 3 | 7 | 1 | 4 |
 | 3 | Conquistadors | Thecan | **20** | 6 | 2 | 12 | 18 | 21 | 8 | 11 | 3 | 5 |
-| 4 | Ravens Regime  | Mentomorii | **19** | 3 | 3 | 13 | 19 | 25 | 5 | 6 | 2 | 4 |
-| 5 | DMV Fantasy | TacticsNoob | **16** | 5 | 2 | 9 | 23 | 19 | 13 | 4 | 7 | 2 |
+| 4 | Ravens Regime  | Mentomorii | **20** | 3 | 3 | 14 | 20 | 25 | 5 | 7 | 2 | 4 |
+| 5 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
 | 6 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 5 | 3 | 2 | 2 |
 | 7 | Badland Banditos  | IcebergSlim69 | **10** | 4 | 4 | 2 | 10 | 11 | 3 | 4 | 1 | 1 |
 | 8 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
@@ -70,6 +70,24 @@
 | Southside Savages | Ravens Regime  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1410419901381775360
+- Season: 2026
+- Week: 3
+- Created at UTC: 2026-09-28T22:00:18.125000+00:00
+- Teams involved: 2
+
+#### Ravens Regime  (Mentomorii)
+- Players received: George Kittle
+- Players sent: None
+- Picks received: None
+- Picks sent: 2027 Round 2 (original roster 3)
+
+#### DMV Fantasy (TacticsNoob)
+- Players received: None
+- Players sent: George Kittle
+- Picks received: 2027 Round 2 (original roster 3)
+- Picks sent: None
 
 ### TRADE: 1408982432811589632
 - Season: 2026

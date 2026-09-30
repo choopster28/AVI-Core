@@ -15,25 +15,13 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00005857",
-      "c_avi": 59.4,
-      "d_avi": 44.1,
-      "nfl_team": "NO",
-      "player_name": "Noah Fant",
+      "avi_id": "AVI-00008210",
+      "c_avi": 55.8,
+      "d_avi": 69.0,
+      "nfl_team": "WAS",
+      "player_name": "Chig Okonkwo",
       "position": "TE",
-      "sleeper_id": "5857",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00006039",
-      "c_avi": 55.2,
-      "d_avi": 39.3,
-      "nfl_team": "BUF",
-      "player_name": "Ty Johnson",
-      "position": "RB",
-      "sleeper_id": "6039",
+      "sleeper_id": "8210",
       "status": "Active"
     },
     {
@@ -87,14 +75,14 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00010218",
-      "c_avi": 52.4,
-      "d_avi": 39.4,
-      "nfl_team": "HOU",
-      "player_name": "Xavier Hutchinson",
+      "avi_id": "AVI-00012483",
+      "c_avi": 51.8,
+      "d_avi": 51.6,
+      "nfl_team": "LVR",
+      "player_name": "Jack Bech",
       "position": "WR",
-      "sleeper_id": "10218",
-      "status": "Active"
+      "sleeper_id": "12483",
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -178,18 +166,6 @@
       "player_name": "Tommy Tremble",
       "position": "TE",
       "sleeper_id": "7694",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012718",
-      "c_avi": 47.8,
-      "d_avi": 42.2,
-      "nfl_team": "LAR",
-      "player_name": "Konata Mumpfield",
-      "position": "WR",
-      "sleeper_id": "12718",
       "status": "Active"
     },
     {
@@ -286,6 +262,18 @@
       "player_name": "Noah Gray",
       "position": "TE",
       "sleeper_id": "7828",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00002307",
+      "c_avi": 43.3,
+      "d_avi": 47.0,
+      "nfl_team": "WAS",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "sleeper_id": "2307",
       "status": "Active"
     },
     {
@@ -754,6 +742,18 @@
       "player_name": "Jalen Tolbert",
       "position": "WR",
       "sleeper_id": "8117",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013150",
+      "c_avi": 35.3,
+      "d_avi": 59.2,
+      "nfl_team": "PHI",
+      "player_name": "Darius Cooper",
+      "position": "WR",
+      "sleeper_id": "13150",
       "status": "Active"
     },
     {
@@ -1426,6 +1426,18 @@
       "player_name": "Barion Brown",
       "position": "WR",
       "sleeper_id": "13533",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013268",
+      "c_avi": 26.8,
+      "d_avi": 51.1,
+      "nfl_team": "BAL",
+      "player_name": "Elijah Sarratt",
+      "position": "WR",
+      "sleeper_id": "13268",
       "status": "Active"
     },
     {
@@ -2139,18 +2151,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00004663",
-      "c_avi": 0.0,
-      "d_avi": 0.0,
-      "nfl_team": "WAS",
-      "player_name": "Austin Ekeler",
-      "position": "RB",
-      "sleeper_id": "4663",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00013270",
       "c_avi": 0.0,
       "d_avi": 17.8,
@@ -2775,6 +2775,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00001339",
+      "c_avi": 0.0,
+      "d_avi": 21.7,
+      "nfl_team": "PHI",
+      "player_name": "Zach Ertz",
+      "position": "TE",
+      "sleeper_id": "1339",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008139",
       "c_avi": 0.0,
       "d_avi": 0.0,
@@ -2786,8 +2798,8 @@
     }
   ],
   "counts": {
-    "available_players": 232,
-    "rostered_players": 248
+    "available_players": 233,
+    "rostered_players": 247
   },
   "rostered_players": [
     {
@@ -2965,6 +2977,22 @@
       "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00004663",
+      "c_avi": 0.0,
+      "d_avi": 0.0,
+      "nfl_team": "WAS",
+      "owner_id": "736993578450030592",
+      "player_name": "Austin Ekeler",
+      "position": "RB",
+      "roster_id": 1,
+      "sleeper_id": "4663",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -3385,22 +3413,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00008210",
-      "c_avi": 55.8,
-      "d_avi": 69.0,
-      "nfl_team": "WAS",
-      "owner_id": "998253660243054592",
-      "player_name": "Chig Okonkwo",
-      "position": "TE",
-      "roster_id": 13,
-      "sleeper_id": "8210",
-      "status": "Active",
-      "team_file": "13_Southside_Savages.md",
-      "team_name": "Southside Savages"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00013311",
       "c_avi": 55.1,
       "d_avi": 67.7,
@@ -3733,22 +3745,6 @@
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013150",
-      "c_avi": 35.3,
-      "d_avi": 59.2,
-      "nfl_team": "PHI",
-      "owner_id": "872509429436829696",
-      "player_name": "Darius Cooper",
-      "position": "WR",
-      "roster_id": 6,
-      "sleeper_id": "13150",
-      "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -4105,22 +4101,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00013268",
-      "c_avi": 26.8,
-      "d_avi": 51.1,
-      "nfl_team": "BAL",
-      "owner_id": "992908759074680832",
-      "player_name": "Elijah Sarratt",
-      "position": "WR",
-      "roster_id": 3,
-      "sleeper_id": "13268",
-      "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00011435",
       "c_avi": 48.5,
       "d_avi": 49.6,
@@ -4253,14 +4233,14 @@
       "c_avi": 89.9,
       "d_avi": 84.4,
       "nfl_team": "SF",
-      "owner_id": "1129546394534158336",
+      "owner_id": "992908759074680832",
       "player_name": "George Kittle",
       "position": "TE",
-      "roster_id": 12,
+      "roster_id": 3,
       "sleeper_id": "4217",
       "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -4453,22 +4433,6 @@
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012483",
-      "c_avi": 51.8,
-      "d_avi": 51.6,
-      "nfl_team": "LVR",
-      "owner_id": "863881053000011776",
-      "player_name": "Jack Bech",
-      "position": "WR",
-      "roster_id": 9,
-      "sleeper_id": "12483",
-      "status": "Inactive",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -5353,6 +5317,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012718",
+      "c_avi": 47.8,
+      "d_avi": 42.2,
+      "nfl_team": "LAR",
+      "owner_id": "863881053000011776",
+      "player_name": "Konata Mumpfield",
+      "position": "WR",
+      "roster_id": 9,
+      "sleeper_id": "12718",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00012534",
       "c_avi": 70.6,
       "d_avi": 75.0,
@@ -5577,22 +5557,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00002307",
-      "c_avi": 43.3,
-      "d_avi": 47.0,
-      "nfl_team": "WAS",
-      "owner_id": "736992907139158016",
-      "player_name": "Marcus Mariota",
-      "position": "QB",
-      "roster_id": 4,
-      "sleeper_id": "2307",
-      "status": "Active",
-      "team_file": "04_Mile_High_Royal_Lions.md",
-      "team_name": "Mile High Royal Lions"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00005012",
       "c_avi": 74.7,
       "d_avi": 76.0,
@@ -5797,6 +5761,22 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00005857",
+      "c_avi": 59.4,
+      "d_avi": 44.1,
+      "nfl_team": "NO",
+      "owner_id": "736992907139158016",
+      "player_name": "Noah Fant",
+      "position": "TE",
+      "roster_id": 4,
+      "sleeper_id": "5857",
+      "status": "Active",
+      "team_file": "04_Mile_High_Royal_Lions.md",
+      "team_name": "Mile High Royal Lions"
     },
     {
       "active": true,
@@ -6537,6 +6517,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00006039",
+      "c_avi": 55.2,
+      "d_avi": 39.3,
+      "nfl_team": "BUF",
+      "owner_id": "998253660243054592",
+      "player_name": "Ty Johnson",
+      "position": "RB",
+      "roster_id": 13,
+      "sleeper_id": "6039",
+      "status": "Active",
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00009508",
       "c_avi": 56.7,
       "d_avi": 61.6,
@@ -6681,6 +6677,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00010218",
+      "c_avi": 52.4,
+      "d_avi": 39.4,
+      "nfl_team": "HOU",
+      "owner_id": "736992907139158016",
+      "player_name": "Xavier Hutchinson",
+      "position": "WR",
+      "roster_id": 4,
+      "sleeper_id": "10218",
+      "status": "Active",
+      "team_file": "04_Mile_High_Royal_Lions.md",
+      "team_name": "Mile High Royal Lions"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00011624",
       "c_avi": 66.1,
       "d_avi": 73.9,
@@ -6709,22 +6721,6 @@
       "status": "Active",
       "team_file": "08_All_Hail_King_Jesus.md",
       "team_name": "All Hail King Jesus"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00001339",
-      "c_avi": 0.0,
-      "d_avi": 21.7,
-      "nfl_team": "PHI",
-      "owner_id": "736993578450030592",
-      "player_name": "Zach Ertz",
-      "position": "TE",
-      "roster_id": 1,
-      "sleeper_id": "1339",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
     },
     {
       "active": true,
