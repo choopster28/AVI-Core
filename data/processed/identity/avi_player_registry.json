@@ -8683,31 +8683,6 @@
   {
     "active": true,
     "aliases": [
-      "Mitchell Tinsley"
-    ],
-    "avi_id": "AVI-00011068",
-    "canonical_name": "Mitchell Tinsley",
-    "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
-    },
-    "nfl_team": "CIN",
-    "normalized_name": "mitchell tinsley",
-    "position": "WR",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24342,
-      "fantasypros_id": "24370",
-      "nfl_id": "2571650",
-      "rotowire_id": 16834,
-      "sleeper_id": "11068",
-      "sportradar_id": "0ac39560-e760-11ed-ad1e-4d786886cff5",
-      "sportsdata_player_id": "0ac39560-e760-11ed-ad1e-4d786886cff5"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Najee Harris"
     ],
     "avi_id": "AVI-00007528",

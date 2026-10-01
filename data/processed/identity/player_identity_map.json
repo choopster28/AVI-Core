@@ -3321,15 +3321,6 @@
     "sleeper_id": "12473"
   },
   {
-    "confidence": "review",
-    "fantasypros_id": "24370",
-    "match_method": "exact_name_position",
-    "nfl_team": "HOU",
-    "player_name": "Mitchell Tinsley",
-    "position": "WR",
-    "sleeper_id": "11068"
-  },
-  {
     "confidence": "verified",
     "fantasypros_id": "19302",
     "match_method": "exact_name_position_unique",

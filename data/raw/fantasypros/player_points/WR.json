@@ -2824,7 +2824,7 @@
       "filename": "jalen-morenocropper.php",
       "games": 1,
       "player_id": 25359,
-      "player_name": "Jalen Moreno-Cropper",
+      "player_name": "Jalen Cropper",
       "points": 0,
       "position_id": "WR",
       "team_id": "NO",
@@ -2879,7 +2879,7 @@
       "player_name": "Ke'Shawn Williams",
       "points": -2,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "CIN",
       "weeks": {
         "3": -2
       }

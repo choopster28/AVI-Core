@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-09-30
+- Last updated from Sleeper exports: 2026-10-01
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 716.5
-- championship_lineup_c_avi_avg: 89.56
-- offensive_roster_c_avi_sum: 1206.6
-- offensive_roster_c_avi_avg: 67.03
-- offensive_roster_d_avi_sum: 1408.7
-- offensive_roster_d_avi_avg: 78.26
+- championship_lineup_c_avi_sum: 728.8
+- championship_lineup_c_avi_avg: 91.10
+- offensive_roster_c_avi_sum: 1202.6
+- offensive_roster_c_avi_avg: 66.81
+- offensive_roster_d_avi_sum: 1409.4
+- offensive_roster_d_avi_avg: 78.30
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Josh Allen | C-AVI: 95.5 | D-AVI: 92.6
 - RB: Bijan Robinson | C-AVI: 98.1 | D-AVI: 98.1
-- RB: Breece Hall | C-AVI: 88.5 | D-AVI: 93.9
+- RB: Jonathan Taylor | C-AVI: 96.6 | D-AVI: 96.5
 - WR: Puka Nacua | C-AVI: 92.1 | D-AVI: 98.1
 - WR: George Pickens | C-AVI: 88.2 | D-AVI: 94.9
 - TE: Harold Fannin | C-AVI: 90.5 | D-AVI: 88.9
-- FLEX: Ladd McConkey | C-AVI: 84.3 | D-AVI: 91.4
+- FLEX: Breece Hall | C-AVI: 88.5 | D-AVI: 93.9
 - FLEX: Isaiah Likely | C-AVI: 79.3 | D-AVI: 84.2
 
 ## Current Roster — All Player Cards
@@ -71,7 +71,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 33.0
 - Championship AVI (C-AVI, 0-100): 56.9
-- Dynasty AVI (D-AVI, 0-100): 61.2
+- Dynasty AVI (D-AVI, 0-100): 61.9
 - Projected PPR points: 238.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -90,6 +90,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 98.1
 - Dynasty AVI (D-AVI, 0-100): 98.1
 - Projected PPR points: 353.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Jonathan Taylor
+- Player name: Jonathan Taylor
+- Player ID: 6813
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: IND
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 96.6
+- Dynasty AVI (D-AVI, 0-100): 96.5
+- Projected PPR points: 309.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -138,26 +155,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 52.9
+- Championship AVI (C-AVI, 0-100): 52.8
 - Dynasty AVI (D-AVI, 0-100): 71.4
 - Projected PPR points: 88.6
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Emanuel Wilson
-- Player name: Emanuel Wilson
-- Player ID: 11435
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: SEA
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 50.0
-- Dynasty AVI (D-AVI, 0-100): 69.1
-- Projected PPR points: 64.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -175,6 +175,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 38.1
 - Dynasty AVI (D-AVI, 0-100): 67.1
 - Projected PPR points: 26.9
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Isaiah Davis
+- Player name: Isaiah Davis
+- Player ID: 11571
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 34.0
+- Dynasty AVI (D-AVI, 0-100): 64.1
+- Projected PPR points: 41.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -226,23 +243,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 88.2
 - Dynasty AVI (D-AVI, 0-100): 94.9
 - Projected PPR points: 252.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Ladd McConkey
-- Player name: Ladd McConkey
-- Player ID: 11635
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 84.3
-- Dynasty AVI (D-AVI, 0-100): 91.4
-- Projected PPR points: 212.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 32.9
-- Dynasty AVI (D-AVI, 0-100): 41.2
+- Championship AVI (C-AVI, 0-100): 32.7
+- Dynasty AVI (D-AVI, 0-100): 41.1
 - Projected PPR points: 10.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

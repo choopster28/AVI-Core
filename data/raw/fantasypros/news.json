@@ -3,449 +3,454 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Ari Koslow",
+      "author": "Matthew Adam",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-09-30 17:54:30",
-      "created_formated": "Wed, Sep 30th 5:54pm UTC",
-      "desc": "Zay Flowers practiced on Wednesday. ",
-      "id": 611553,
-      "impact": "Flowers returned from a hamstring injury last week. It appears he didn't suffer any setbacks in his return. ",
-      "link": "https://www.fantasypros.com/nfl/news/611553/zay-flowers-hamstring-practices-wednesday.php",
-      "player_id": 22916,
+      "created": "2026-09-28 11:04:18",
+      "created_formated": "Mon, Sep 28th 11:04am UTC",
+      "desc": "The Cowboys D/ST allowed 34 points while failing to record a sack or force any turnovers in a 34-31 loss to the Ravens in Brazil in Week 3. ",
+      "id": 611182,
+      "impact": "Dallas couldn't slow down Lamar Jackson or Derrick Henry in the high-scoring loss in Rio de Janeiro. The Cowboys will look to bounce back in Week 4 in a much more favorable matchup against the Texans. ",
+      "link": "https://www.fantasypros.com/nfl/news/611182/cowboys-dst-struggles-week-3-loss.php",
+      "player_id": 8080,
       "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Zay Flowers (hamstring) practices Wednesday "
+      "team_id": "DAL",
+      "title": "Cowboys D/ST struggles in Week 3 loss"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-30 17:52:43",
-      "created_formated": "Wed, Sep 30th 5:52pm UTC",
-      "desc": "Ronnie Stanley was back at practice on Wednesday. ",
-      "id": 611552,
-      "impact": "Stanley was sidelined last week for the Ravens. His presence at practice is a positive sign for his return this week. ",
-      "link": "https://www.fantasypros.com/nfl/news/611552/ronnie-stanley-toe-returns-to-practice-wednesday.php",
-      "player_id": 15490,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Ronnie Stanley (toe) returns to practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:51:10",
-      "created_formated": "Wed, Sep 30th 5:51pm UTC",
-      "desc": "Trey Hendrickson is not practicing on Wednesday. ",
-      "id": 611551,
-      "impact": "Hendrickson continues to play through a finger injury. His status will need to be monitored in practice the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/611551/trey-hendrickson-finger-not-practicing-wednesday.php",
-      "player_id": 16719,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Trey Hendrickson (finger) not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:49:14",
-      "created_formated": "Wed, Sep 30th 5:49pm UTC",
-      "desc": "Lamar Jackson was not present at practice on Wednesday. ",
-      "id": 611550,
-      "impact": "It is unclear what the reason why is. Jackson's status will need to be monitored when the injury report is released. ",
-      "link": "https://www.fantasypros.com/nfl/news/611550/lamar-jackson-not-practicing-wednesday.php",
-      "player_id": 17233,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Lamar Jackson not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:42:56",
-      "created_formated": "Wed, Sep 30th 5:42pm UTC",
-      "desc": "Kenyon Sadiq will be limited in practice on Wednesday. ",
-      "id": 611549,
-      "impact": "Sadiq is coming off a career best performance this past week. He should remain in a bigger role if Adonai Mitchell (finger) misses another game. ",
-      "link": "https://www.fantasypros.com/nfl/news/611549/kenyon-sadiq-to-be-limited-practice-wednesday.php",
-      "player_id": 26055,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Kenyon Sadiq to be limited in practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:41:17",
-      "created_formated": "Wed, Sep 30th 5:41pm UTC",
-      "desc": "Tyjae Spears is not practicing on Wednesday. ",
-      "id": 611548,
-      "impact": "Spears and Tony Pollard will both be sidelined from practice to begin the week. They'll need to be monitored in practice on Thursday ahead of Week 4 against the Ravens. ",
-      "link": "https://www.fantasypros.com/nfl/news/611548/tyjae-spears-not-practicing-wednesday.php",
-      "player_id": 25323,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tyjae Spears not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:40:39",
-      "created_formated": "Wed, Sep 30th 5:40pm UTC",
-      "desc": "Tony Pollard is not practicing on Wednesday. ",
-      "id": 611547,
-      "impact": "Pollard and Tyjae Spears will both be sidelined from practice to begin the week. They'll need to be monitored in practice on Thursday ahead of Week 4 against the Ravens. ",
-      "link": "https://www.fantasypros.com/nfl/news/611547/tony-pollard-will-not-practice-wednesday.php",
-      "player_id": 18705,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tony Pollard will not practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:28:52",
-      "created_formated": "Wed, Sep 30th 5:28pm UTC",
-      "desc": "Jets head coach Aaron Glenn said there's a \"good chance\" Minkah Fitzpatrick plays on Sunday. ",
-      "id": 611546,
-      "impact": "Fitzpatrick should return to practice this week. His status will need to be monitored on the injury report. ",
-      "link": "https://www.fantasypros.com/nfl/news/611546/minkah-fitzpatrick-groin-expected-to-return-week-4.php",
-      "player_id": 17278,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Minkah Fitzpatrick (groin) expected to return in Week 4"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:27:18",
-      "created_formated": "Wed, Sep 30th 5:27pm UTC",
-      "desc": "Dylan Parham will not practice on Wednesday. ",
-      "id": 611545,
-      "impact": "Parham is considered week-to-week. ",
-      "link": "https://www.fantasypros.com/nfl/news/611545/dylan-parham-not-practicing-wednesday.php",
-      "player_id": 23775,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Dylan Parham not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:26:16",
-      "created_formated": "Wed, Sep 30th 5:26pm UTC",
-      "desc": "Adonai Mitchell will remain sidelined from practice on Wednesday. ",
-      "id": 611544,
-      "impact": "Jets head coach Aaron Glenn said Mitchell is considered week-to-week. He is likely to sit this Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/611544/adonai-mitchell-finger-not-practicing-wednesday.php",
-      "player_id": 24357,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Adonai Mitchell (finger) not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:24:55",
-      "created_formated": "Wed, Sep 30th 5:24pm UTC",
-      "desc": "Breece Hall will be sidelined from practice on Wednesday. ",
-      "id": 611543,
-      "impact": "Jets head coach Aaron Glenn said Hall is considered week-to-week. He is likely to sit this Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/611543/breece-hall-quad-not-practicing-wednesday.php",
-      "player_id": 22982,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Breece Hall (quad) not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:22:41",
-      "created_formated": "Wed, Sep 30th 5:22pm UTC",
-      "desc": "Mason Taylor will remain sidelined from practice on Wednesday. ",
-      "id": 611542,
-      "impact": "Jets head coach Aaron Glenn said Taylor is considered week-to-week. He is likely to sit this Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/611542/mason-taylor-thumb-not-practicing-wednesday.php",
-      "player_id": 26005,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Mason Taylor (thumb) not practicing Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 17:03:36",
-      "created_formated": "Wed, Sep 30th 5:03pm UTC",
-      "desc": "Jaylen Wright was limited during practice Wednesday.",
-      "id": 611539,
-      "impact": "Wright was sidelined last week. When he is healthy, he'll figure to step into a committee with Ollie Gordon with De'Von Achane (knee) out for the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/611539/jaylen-wright-foot-limited-practice-wednesday.php",
-      "player_id": 25987,
+      "created": "2026-09-30 22:19:16",
+      "created_formated": "Wed, Sep 30th 10:19pm UTC",
+      "desc": "Chris Bell (knee) was listed as a limited participant at practice on Wednesday.",
+      "id": 611630,
+      "impact": "The rookie was limited to start the practice week on Wednesday due to a knee issue. It seems unlikely to affect his availability for Week 4, however, and he seems primed to see more work against the Vikings with Caleb Douglas (ankle) trending towards missing another game for Miami.",
+      "link": "https://www.fantasypros.com/nfl/news/611630/chris-bell-knee-listed-limited-wednesday.php",
+      "player_id": 26038,
       "sport_id": "NFL",
       "team_id": "MIA",
-      "title": "Jaylen Wright (foot) limited in practice Wednesday "
+      "title": "Chris Bell (knee) listed as limited Wednesday"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-30 17:02:10",
-      "created_formated": "Wed, Sep 30th 5:02pm UTC",
-      "desc": "Caleb Douglas did not practice on Wednesday. ",
-      "id": 611538,
-      "impact": "Douglas did not play last week and he seems likely to miss another game. Malik Washington and Chris Bell would continue to see more run. ",
-      "link": "https://www.fantasypros.com/nfl/news/611538/caleb-douglas-ankle-misses-practice-wednesday.php",
-      "player_id": 28135,
+      "created": "2026-09-30 22:16:21",
+      "created_formated": "Wed, Sep 30th 10:16pm UTC",
+      "desc": "Blake Cashman (elbow) was limited at practice on Wednesday.",
+      "id": 611629,
+      "impact": "Cashman is now dealing with an elbow injury of some kind and was limited at Wednesday's practice as a result. He seems likely to play through it in Week 4, but we won't know his status for sure until later on in the week.",
+      "link": "https://www.fantasypros.com/nfl/news/611629/blake-cashman-elbow-limited-wednesday.php",
+      "player_id": 18421,
       "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Caleb Douglas (ankle) misses practice Wednesday "
+      "team_id": "MIN",
+      "title": "Blake Cashman (elbow) limited Wednesday"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-30 17:00:37",
-      "created_formated": "Wed, Sep 30th 5:00pm UTC",
-      "desc": "The Panthers placed CB Jaycee Horn on injured reserve. ",
-      "id": 611537,
-      "impact": "Horn suffered a quad tear in Week 3's loss to Cleveland. He could miss most of the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/611537/jaycee-horn-quad-placed-on-ir.php",
-      "player_id": 22701,
+      "created": "2026-09-30 22:14:33",
+      "created_formated": "Wed, Sep 30th 10:14pm UTC",
+      "desc": "Justin Jefferson (ankle) did not take part in Minnesota's practice on Wednesday.",
+      "id": 611628,
+      "impact": "Jefferson suffered an ankle injury in Week 3 and was not able to practice on Wednesday as a result. He will reportedly have a chance to play in Week 4, so fantasy managers should continue to closely monitor updates about his health throughout the rest of the week to see whether or not that will be the case.",
+      "link": "https://www.fantasypros.com/nfl/news/611628/justin-jefferson-ankle-doesnt-practice-wednesday.php",
+      "player_id": 19236,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Jaycee Horn (quad) placed on IR"
+      "team_id": "MIN",
+      "title": "Justin Jefferson (ankle) doesn't practice Wednesday"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-30 16:59:23",
-      "created_formated": "Wed, Sep 30th 4:59pm UTC",
-      "desc": "The Panthers placed CB Mike Jackson Sr. on injured reserve. ",
-      "id": 611536,
-      "impact": "Jackson will miss at least the next four weeks with a groin injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/611536/mike-jackson-sr-groin-placed-on-ir.php",
-      "player_id": 18637,
+      "created": "2026-09-30 22:13:01",
+      "created_formated": "Wed, Sep 30th 10:13pm UTC",
+      "desc": "Jackson Powers-Johnson (groin) missed Las Vegas' practice on Wednesday.",
+      "id": 611627,
+      "impact": "The Raiders may be without their starting guard in Week 4. Powers-Johnson is currently dealing with a groin issue and was unable to practice on Wednesday as a result. His absence would be less than ideal this week ahead of a tough matchup against Kansas City's defense.",
+      "link": "https://www.fantasypros.com/nfl/news/611627/jackson-powers-johnson-groin-misses-practice-wednesday.php",
+      "player_id": 26227,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Mike Jackson Sr. (groin) placed on IR"
+      "team_id": "LV",
+      "title": "Jackson Powers-Johnson (groin) misses practice Wednesday"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-30 16:57:50",
-      "created_formated": "Wed, Sep 30th 4:57pm UTC",
-      "desc": "Commanders head coach Dan Quinn said Rachaad White is receiving treatment for his shoulder injury.",
-      "id": 611535,
-      "impact": "It is unclear if it will impact the status of White heading into Week 4. Jacory Croskey-Merritt could see more work with Austin Ekeler still uncertain to make his Commanders debut. ",
-      "link": "https://www.fantasypros.com/nfl/news/611535/rachaad-white-receiving-treatment-shoulder-injury.php",
-      "player_id": 23891,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Rachaad White receiving treatment for shoulder injury"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 16:56:05",
-      "created_formated": "Wed, Sep 30th 4:56pm UTC",
-      "desc": "Commanders head coach Dan Quinn said Jayden Daniels will be limited in Wednesday's practice.",
-      "id": 611534,
-      "impact": "Daniels will practice in some fashion this week. He remains unlikely to return this Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/611534/jayden-daniels-elbow-to-be-limited-practice-wednesday.php",
-      "player_id": 22902,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jayden Daniels (elbow) to be limited in practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-09-30 16:52:35",
-      "created_formated": "Wed, Sep 30th 4:52pm UTC",
-      "desc": "Josh Simmons is expected to remain sidelined from practice on Wednesday. ",
-      "id": 611533,
-      "impact": "Simmons is continuing to work his way back from a back injury. He is expected to be the lone player not to practice for Kansas City. ",
-      "link": "https://www.fantasypros.com/nfl/news/611533/josh-simmons-back-not-practicing-wednesday.php",
-      "player_id": 27026,
+      "created": "2026-09-30 22:04:08",
+      "created_formated": "Wed, Sep 30th 10:04pm UTC",
+      "desc": "Chamarri Conner (knee) practiced in a full capacity on Wednesday.",
+      "id": 611626,
+      "impact": "Conner was sidelined due to a knee injury in Week 3, but it looks like he's about ready to make his return to the lineup this week, as he was able to log a full practice session on Wednesday. Kansas City's defense will see a nice boost if he's back in the lineup against the Raiders.",
+      "link": "https://www.fantasypros.com/nfl/news/611626/chamarri-conner-knee-practices-full-wednesday.php",
+      "player_id": 25509,
       "sport_id": "NFL",
       "team_id": "KC",
-      "title": "Josh Simmons (back) not practicing Wednesday "
+      "title": "Chamarri Conner (knee) practices in full Wednesday"
     },
     {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-30 16:43:19",
-      "created_formated": "Wed, Sep 30th 4:43pm UTC",
-      "desc": "The Texans released Bryce Oliver from their practice squad. ",
-      "id": 611532,
-      "impact": "Oliver will seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/611532/bryce-oliver-released-by-texans.php",
-      "player_id": 26588,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Bryce Oliver released by Texans"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-30 16:42:43",
-      "created_formated": "Wed, Sep 30th 4:42pm UTC",
-      "desc": "The Texans signed WR Treyvhon Saunders to their practice squad. ",
-      "id": 611531,
-      "impact": "Saunders will add depth in the wide receiver room for Houston. ",
-      "link": "https://www.fantasypros.com/nfl/news/611531/treyvhon-saunders-signs-with-texans.php",
-      "player_id": 28715,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Treyvhon Saunders signs with Texans "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-30 16:41:54",
-      "created_formated": "Wed, Sep 30th 4:41pm UTC",
-      "desc": "The Texans signed LB Caleb Johnson to their practice squad. ",
-      "id": 611530,
-      "impact": "Johnson will add depth in the linebacker room for Houston. ",
-      "link": "https://www.fantasypros.com/nfl/news/611530/caleb-johnson-signs-with-texans.php",
-      "player_id": 26088,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Caleb Johnson signs with Texans"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-30 16:41:08",
-      "created_formated": "Wed, Sep 30th 4:41pm UTC",
-      "desc": "The Texans signed DL Aaron Graves to their practice squad. ",
-      "id": 611529,
-      "impact": "Graves will add depth on the defensive line for Houston. ",
-      "link": "https://www.fantasypros.com/nfl/news/611529/aaron-graves-signs-with-texans.php",
-      "player_id": 28257,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Aaron Graves signs with Texans"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-09-30 16:40:04",
-      "created_formated": "Wed, Sep 30th 4:40pm UTC",
-      "desc": "The Texans signed DE Chris Braswell to their 53-man roster. ",
-      "id": 611528,
-      "impact": "Braswell will add depth on the defensive line for Houston. ",
-      "link": "https://www.fantasypros.com/nfl/news/611528/chris-braswell-signs-with-texans-53-man-roster.php",
-      "player_id": 26193,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Chris Braswell signs with Texans' 53-man roster"
-    },
-    {
-      "author": "Ari Koslow",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-09-30 16:39:04",
-      "created_formated": "Wed, Sep 30th 4:39pm UTC",
-      "desc": "The Texans placed Mario Edwards Jr. on injured reserve. ",
-      "id": 611527,
-      "impact": "Edwards is expected to be out for the season with a torn ACL. ",
-      "link": "https://www.fantasypros.com/nfl/news/611527/mario-edwards-jr-knee-placed-on-ir.php",
-      "player_id": 14055,
+      "created": "2026-09-30 22:02:16",
+      "created_formated": "Wed, Sep 30th 10:02pm UTC",
+      "desc": "L'Jarius Sneed (knee) was listed as a limited participant at practice on Wednesday.",
+      "id": 611625,
+      "impact": "Sneed was able to practice in a limited fashion on Wednesday, as he is currently managing a lingering knee issue of some kind. He should be available to play in Week 4, however, assuming he doesn't suffer a setback throughout the week.",
+      "link": "https://www.fantasypros.com/nfl/news/611625/ljarius-sneed-knee-listed-limited-wednesday.php",
+      "player_id": 19671,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "L'Jarius Sneed (knee) listed as limited Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:59:30",
+      "created_formated": "Wed, Sep 30th 9:59pm UTC",
+      "desc": "Ed Ingram (groin) logged a limited practice session on Wednesday.",
+      "id": 611624,
+      "impact": "The veteran was sidelined last week due to a groin injury of some kind, but he was able to practice in a limited fashion on Wednesday and seems to have a chance to make his return in Week 4. That would be great news for Houston's offensive front ahead of a matchup against Dallas this week.",
+      "link": "https://www.fantasypros.com/nfl/news/611624/ed-ingram-groin-logs-limited-practice-wednesday.php",
+      "player_id": 23810,
       "sport_id": "NFL",
       "team_id": "HOU",
-      "title": "Mario Edwards Jr. (knee) placed on IR"
+      "title": "Ed Ingram (groin) logs limited practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:57:16",
+      "created_formated": "Wed, Sep 30th 9:57pm UTC",
+      "desc": "Trent Brown (illness/knee/wrist) was absent from practice on Wednesday.",
+      "id": 611623,
+      "impact": "The veteran was not able to practice for the Texans on Wednesday. His main issue seems to be an illness right now, as he played through his other two listed injuries last week. He seems likely to play in Week 4, which is good news for Houston's offense ahead of a matchup against the Cowboys.",
+      "link": "https://www.fantasypros.com/nfl/news/611623/trent-brown-illnesskneewrist-absent-from-practice-wednesday.php",
+      "player_id": 15435,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Trent Brown (illness/knee/wrist) absent from practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:54:04",
+      "created_formated": "Wed, Sep 30th 9:54pm UTC",
+      "desc": "Will Anderson Jr. (ankle) was a limited participant at practice on Wednesday.",
+      "id": 611622,
+      "impact": "Anderson was left limited at Wednesday's practice due to an ankle injury that he's managing. It doesn't seem like a major issue at this point, however, and it seems unlikely to leave him with an injury designation heading into the weekend.",
+      "link": "https://www.fantasypros.com/nfl/news/611622/will-anderson-jr-ankle-limited-participant-wednesday.php",
+      "player_id": 24717,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Will Anderson Jr. (ankle) limited participant Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:52:14",
+      "created_formated": "Wed, Sep 30th 9:52pm UTC",
+      "desc": "Nico Collins (hamstring) was limited at Houston's practice on Wednesday.",
+      "id": 611620,
+      "impact": "The star wideout was able to practice in a limited fashion on Wednesday. He has been sidelined for the last two games due to a nagging hamstring injury, but he seems to be trending towards making his return to the lineup in Week 4. Fantasy managers shouldn't hesitate to start him this week if he's cleared to play heading into the weekend.",
+      "link": "https://www.fantasypros.com/nfl/news/611620/nico-collins-hamstring-limited-practice-wednesday.php",
+      "player_id": 20130,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Nico Collins (hamstring) limited at practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:50:06",
+      "created_formated": "Wed, Sep 30th 9:50pm UTC",
+      "desc": "Drake Maye (shoulder) practiced in a full capacity on Wednesday.",
+      "id": 611618,
+      "impact": "Maye is featured on New England's injury report to start the week. He's managing a minor shoulder injury right now, but he told reporters that it hasn't affected his throwing up to this point. Fantasy managers shouldn't be starting him this week, even if he wasn't on the injury report in any capacity.",
+      "link": "https://www.fantasypros.com/nfl/news/611618/drake-maye-shoulder-practices-full-wednesday.php",
+      "player_id": 23046,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Drake Maye (shoulder) practices in full Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:45:13",
+      "created_formated": "Wed, Sep 30th 9:45pm UTC",
+      "desc": "Dre'Mont Jones (shoulder) was a limited participant at practice on Wednesday.",
+      "id": 611617,
+      "impact": "The veteran was sidelined last week due to a shoulder injury, but it looks like he will have a chance to make his return to the lineup in Week 4, as he was limited at practice to start the week on Wednesday. His return would be significant for New England's defense, as he is currently their top pass rusher.",
+      "link": "https://www.fantasypros.com/nfl/news/611617/dremont-jones-shoulder-limited-participant-wednesday.php",
+      "player_id": 18212,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Dre'Mont Jones (shoulder) limited participant Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:42:51",
+      "created_formated": "Wed, Sep 30th 9:42pm UTC",
+      "desc": "Christian Barmore (shoulder) missed New England's practice on Wednesday.",
+      "id": 611616,
+      "impact": "The big man is currently battling a shoulder injury and wasn't able to practice on Wednesday as a result. If it causes him to miss any time, that will be bad news for a New England defense that struggled to get a stop last week.",
+      "link": "https://www.fantasypros.com/nfl/news/611616/christian-barmore-shoulder-misses-practice-wednesday.php",
+      "player_id": 22691,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Christian Barmore (shoulder) misses practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:40:51",
+      "created_formated": "Wed, Sep 30th 9:40pm UTC",
+      "desc": "Craig Woodson (shoulder) was a limited participant at practice on Wednesday.",
+      "id": 611615,
+      "impact": "Woodson missed last week's game due to a shoulder injury, but he was able to participate in Wednesday's practice and seems to be trending the right way for Week 4. His presence will be important in New England's secondary this week ahead of a tough matchup against the Bills.",
+      "link": "https://www.fantasypros.com/nfl/news/611615/craig-woodson-shoulder-limited-wednesday.php",
+      "player_id": 27242,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Craig Woodson (shoulder) limited Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:38:17",
+      "created_formated": "Wed, Sep 30th 9:38pm UTC",
+      "desc": "Christian Gonzalez (shoulder) did not take part in New England's practice on Wednesday.",
+      "id": 611614,
+      "impact": "Gonzalez is a new addition to New England's injury report, being listed with a shoulder injury that left him sidelined at practice on Wednesday. This could just be a load management move from the team early on in the week, but if it's a real issue for the star cornerback, that will be bad timing ahead of a very difficult matchup against Josh Allen and the Bills this week.",
+      "link": "https://www.fantasypros.com/nfl/news/611614/christian-gonzalez-shoulder-doesnt-practice-wednesday.php",
+      "player_id": 25238,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Christian Gonzalez (shoulder) doesn't practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:36:01",
+      "created_formated": "Wed, Sep 30th 9:36pm UTC",
+      "desc": "Eli Raridon (thigh) was a limited participant at practice on Wednesday.",
+      "id": 611613,
+      "impact": "The rookie missed last week's game due to a thigh issue, and he starts out this week limited at practice due to the same issue. It could leave him sidelined again in Week 4, but we won't know his official status until sometime later on in the week.",
+      "link": "https://www.fantasypros.com/nfl/news/611613/eli-raridon-thigh-limited-practice-wednesday.php",
+      "player_id": 28154,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Eli Raridon (thigh) limited at practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:32:34",
+      "created_formated": "Wed, Sep 30th 9:32pm UTC",
+      "desc": "Ed Oliver (hip) is off of Buffalo's injury report heading into Week 4.",
+      "id": 611612,
+      "impact": "Oliver suffered a hip injury and missed a bit of time because of it, but he is now off of the injury report entirely and will be good to go in Week 4. He will continue to play a big role on Buffalo's defense moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/611612/ed-oliver-hip-off-injury-report-week-4.php",
+      "player_id": 18202,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Ed Oliver (hip) off injury report for Week 4"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:25:50",
+      "created_formated": "Wed, Sep 30th 9:25pm UTC",
+      "desc": "DJ Moore (shoulder) was a limited participant at practice on Wednesday.",
+      "id": 611611,
+      "impact": "Moore was left limited at Wednesday's practice due to a nagging shoulder issue that has been bothering him for multiple weeks. This seems to just be an injury management move on the part of the team, however, so fantasy managers should expect him to play in Week 4 at this point.",
+      "link": "https://www.fantasypros.com/nfl/news/611611/dj-moore-shoulder-limited-practice-wednesday.php",
+      "player_id": 17265,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "DJ Moore (shoulder) limited at practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:20:58",
+      "created_formated": "Wed, Sep 30th 9:20pm UTC",
+      "desc": "Keon Coleman (ankle) did not take part in Buffalo's practice on Wednesday.",
+      "id": 611610,
+      "impact": "Coleman is a new addition to Buffalo's injury report, being listed with an ankle issue that left him sidelined at practice on Wednesday. It could affect his availability for Week 4, but we won't know for sure until later on in the week.",
+      "link": "https://www.fantasypros.com/nfl/news/611610/keon-coleman-ankle-doesnt-practice-wednesday.php",
+      "player_id": 26019,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Keon Coleman (ankle) doesn't practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:17:59",
+      "created_formated": "Wed, Sep 30th 9:17pm UTC",
+      "desc": "Josh Allen is without an injury designation ahead of Week 4's matchup against the New England Patriots.",
+      "id": 611609,
+      "impact": "There was some concern that Allen suffered a minor injury of some kind in last week's win over the Chargers, but that's not the case and he carries no injury designation heading into Week 4. He should be a full go and remains a top-tier fantasy option moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/611609/josh-allen-without-injury-designation-week-4.php",
+      "player_id": 17298,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Josh Allen without injury designation for Week 4"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:14:44",
+      "created_formated": "Wed, Sep 30th 9:14pm UTC",
+      "desc": "Christian Watson carries no injury designation and will be good to go for Week 4's matchup against the Tampa Bay Buccaneers.",
+      "id": 611608,
+      "impact": "There was some public concern when Watson seemed to favor one of his legs towards the end of last Thursday's game, but he is not listed on Green Bay's injury report for Week 4 and should be a full go against the Buccaneers. He remains a must-start fantasy option as often as he is healthy and on the field moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/611608/christian-watson-good-to-go-week-4.php",
+      "player_id": 23886,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Christian Watson good to go for Week 4"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:12:12",
+      "created_formated": "Wed, Sep 30th 9:12pm UTC",
+      "desc": "Lukas Van Ness (shoulder) was a limited participant at practice on Wednesday.",
+      "id": 611607,
+      "impact": "Van Ness is now dealing with a shoulder injury of some kind that left him limited at practice on Wednesday. He seems likely to play through it in Week 4, however, which is good news for the Packers ahead of a favorable matchup against the Buccaneers this week.",
+      "link": "https://www.fantasypros.com/nfl/news/611607/lukas-van-ness-shoulder-limited-wednesday.php",
+      "player_id": 25291,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Lukas Van Ness (shoulder) limited Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:09:33",
+      "created_formated": "Wed, Sep 30th 9:09pm UTC",
+      "desc": "Aaron Banks (knee/toe) was sidelined at Green Bay's practice on Wednesday.",
+      "id": 611606,
+      "impact": "Banks has already been sidelined for most of the season due to injury, and he's not trending the right way for Week 4 either. He's still dealing with a couple of different injuries and may miss another game as a result. Green Bay's offensive line has really struggled to start the year, and another absence from the veteran wouldn't help them to turn that around this week.",
+      "link": "https://www.fantasypros.com/nfl/news/611606/aaron-banks-kneetoe-sidelined-practice-wednesday.php",
+      "player_id": 22804,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Aaron Banks (knee/toe) sidelined at practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-09-30 21:06:57",
+      "created_formated": "Wed, Sep 30th 9:06pm UTC",
+      "desc": "Josiah Trotter (shoulder) logged a limited practice session on Wednesday.",
+      "id": 611605,
+      "impact": "The rookie was able to log a limited practice session on Wednesday after missing last week's game due to a shoulder injury. He may be able to make his return to the lineup in Week 4, but we won't know for sure until later on in the week.",
+      "link": "https://www.fantasypros.com/nfl/news/611605/josiah-trotter-shoulder-logs-limited-practice-wednesday.php",
+      "player_id": 28077,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Josiah Trotter (shoulder) logs limited practice Wednesday"
     }
   ],
   "public_api": true,

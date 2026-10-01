@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-09-30T18:01:12.675037+00:00",
+  "generated_at_utc": "2026-10-01T01:22:14.450467+00:00",
   "in_season_transition": {
     "activation_policy": "Activate after a completed 2026 week is verified. Sleeper advancing to the next week or ESPN confirming every game final is sufficient; stale or partial player-points feeds never activate the transition.",
     "completed_through_week": 3,
@@ -36,7 +36,7 @@
     "championship_horizon_end_week": 17,
     "current_week": 4,
     "players_capped": 2,
-    "players_evaluated": 480,
+    "players_evaluated": 479,
     "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
     "sources": [
       "Sleeper NFL player injury status",
@@ -49,8 +49,8 @@
   "methodology_version": "2026.3",
   "player_points_active": true,
   "record_counts": {
-    "calculated_players": 480,
-    "registry_players": 480,
+    "calculated_players": 479,
+    "registry_players": 479,
     "unresolved_players": 0
   },
   "replacement_levels": {

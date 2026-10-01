@@ -9,12 +9,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-09-30
+- Last updated from Sleeper exports: 2026-10-01
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 14
+- total_players: 20
+- offense: 13
 - kickers: 1
 - idp: 6
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 665.1
 - championship_lineup_c_avi_avg: 83.14
-- offensive_roster_c_avi_sum: 1024.3
-- offensive_roster_c_avi_avg: 73.16
-- offensive_roster_d_avi_sum: 1108.1
-- offensive_roster_d_avi_avg: 79.15
+- offensive_roster_c_avi_sum: 977.7
+- offensive_roster_c_avi_avg: 75.21
+- offensive_roster_d_avi_sum: 1042.4
+- offensive_roster_d_avi_avg: 80.18
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -110,23 +110,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Chris Brooks
-- Player name: Chris Brooks
-- Player ID: 11370
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 46.9
-- Dynasty AVI (D-AVI, 0-100): 67.3
-- Projected PPR points: 83.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Zach Charbonnet
 - Player name: Zach Charbonnet
 - Player ID: 9753
@@ -138,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 39.8
+- Championship AVI (C-AVI, 0-100): 39.9
 - Dynasty AVI (D-AVI, 0-100): 77.9
 - Projected PPR points: 116.8
 - Category: offense
@@ -274,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 34.0
-- Championship AVI (C-AVI, 0-100): 65.9
-- Dynasty AVI (D-AVI, 0-100): 60.6
+- Championship AVI (C-AVI, 0-100): 66.1
+- Dynasty AVI (D-AVI, 0-100): 62.2
 - Projected PPR points: 115.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
