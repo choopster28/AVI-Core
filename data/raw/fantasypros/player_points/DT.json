@@ -253,18 +253,18 @@
       }
     },
     {
-      "average": 9.3,
+      "average": 9.5,
       "filename": "jonathan-allen.php",
       "games": 3,
       "player_id": 16371,
       "player_name": "Jonathan Allen",
-      "points": 27.75,
+      "points": 28.5,
       "position_id": "DT",
       "team_id": "CIN",
       "weeks": {
         "1": 10.3,
         "2": 16,
-        "3": 1.5
+        "3": 2.3
       }
     },
     {
@@ -2537,16 +2537,16 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 1.5,
       "filename": "kevin-givens.php",
       "games": 1,
       "player_id": 18879,
       "player_name": "Kevin Givens",
-      "points": 0.75,
+      "points": 1.5,
       "position_id": "DT",
       "team_id": "SF",
       "weeks": {
-        "3": 0.8
+        "3": 1.5
       }
     },
     {

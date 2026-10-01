@@ -279,9 +279,9 @@
     "sleeper_id": "11586"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "25533",
-    "match_method": "exact_name_position",
+    "match_method": "exact_name_position_unique",
     "nfl_team": "NYJ",
     "player_name": "Blake Grupe",
     "position": "K",

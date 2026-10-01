@@ -1144,18 +1144,18 @@
       }
     },
     {
-      "average": 5.7,
+      "average": 5.2,
       "filename": "laiatu-latu.php",
       "games": 3,
       "player_id": 26096,
       "player_name": "Laiatu Latu",
-      "points": 17,
+      "points": 15.5,
       "position_id": "DE",
       "team_id": "IND",
       "weeks": {
         "1": 9.5,
         "2": 4.5,
-        "3": 3
+        "3": 1.5
       }
     },
     {
@@ -1379,18 +1379,18 @@
       }
     },
     {
-      "average": 1,
+      "average": 0.8,
       "filename": "cashius-howell.php",
       "games": 3,
       "player_id": 28017,
       "player_name": "Cashius Howell",
-      "points": 3,
+      "points": 2.25,
       "position_id": "DE",
       "team_id": "CIN",
       "weeks": {
         "1": 0,
         "2": 0.8,
-        "3": 2.3
+        "3": 1.5
       }
     },
     {

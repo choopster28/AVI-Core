@@ -31,18 +31,18 @@
       }
     },
     {
-      "average": 3,
+      "average": 2.8,
       "filename": "eric-murray.php",
       "games": 3,
       "player_id": 15653,
       "player_name": "Eric Murray",
-      "points": 9,
+      "points": 8.25,
       "position_id": "CB",
       "team_id": "JAC",
       "weeks": {
         "1": 1.5,
         "2": 3,
-        "3": 4.5
+        "3": 3.8
       }
     },
     {
@@ -136,18 +136,18 @@
       }
     },
     {
-      "average": 8.4,
+      "average": 7.9,
       "filename": "denzel-ward.php",
       "games": 3,
       "player_id": 17314,
       "player_name": "Denzel Ward",
-      "points": 25.25,
+      "points": 23.75,
       "position_id": "CB",
       "team_id": "CLE",
       "weeks": {
         "1": 8.5,
         "2": 10.8,
-        "3": 6
+        "3": 4.5
       }
     },
     {
@@ -1021,18 +1021,18 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 7.1,
       "filename": "daron-bland.php",
       "games": 3,
       "player_id": 24551,
       "player_name": "DaRon Bland",
-      "points": 20.5,
+      "points": 21.25,
       "position_id": "CB",
       "team_id": "DAL",
       "weeks": {
         "1": 8.3,
         "2": 8.3,
-        "3": 4
+        "3": 4.8
       }
     },
     {
@@ -2554,7 +2554,7 @@
       "player_name": "Jordan Clark",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "NYJ",
       "weeks": {
         "2": 0,
         "3": 0

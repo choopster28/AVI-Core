@@ -405,18 +405,18 @@
       }
     },
     {
-      "average": 16.4,
+      "average": 16.2,
       "filename": "fred-warner.php",
       "games": 3,
       "player_id": 17526,
       "player_name": "Fred Warner",
-      "points": 49.25,
+      "points": 48.5,
       "position_id": "LB",
       "team_id": "SF",
       "weeks": {
         "1": 17.5,
         "2": 10.5,
-        "3": 21.3
+        "3": 20.5
       }
     },
     {
@@ -2183,18 +2183,18 @@
       }
     },
     {
-      "average": 2.8,
+      "average": 3.3,
       "filename": "jaylon-carlies.php",
       "games": 3,
       "player_id": 26465,
       "player_name": "Jaylon Carlies",
-      "points": 8.25,
+      "points": 9.75,
       "position_id": "LB",
       "team_id": "IND",
       "weeks": {
         "1": 0,
         "2": 6.8,
-        "3": 1.5
+        "3": 3
       }
     },
     {
@@ -3374,7 +3374,7 @@
       "player_name": "Maema Njongmeta",
       "points": 0,
       "position_id": "LB",
-      "team_id": "FA",
+      "team_id": "CAR",
       "weeks": {
         "3": 0
       }
