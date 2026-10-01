@@ -471,18 +471,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00011608",
-      "c_avi": 40.2,
-      "d_avi": 62.0,
-      "nfl_team": "NYJ",
-      "player_name": "Isaiah Williams",
-      "position": "WR",
-      "sleeper_id": "11608",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012505",
       "c_avi": 40.1,
       "d_avi": 53.7,
@@ -2774,8 +2762,8 @@
     }
   ],
   "counts": {
-    "available_players": 231,
-    "rostered_players": 248
+    "available_players": 230,
+    "rostered_players": 249
   },
   "rostered_players": [
     {
@@ -4345,6 +4333,22 @@
       "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011608",
+      "c_avi": 40.2,
+      "d_avi": 62.0,
+      "nfl_team": "NYJ",
+      "owner_id": "998253660243054592",
+      "player_name": "Isaiah Williams",
+      "position": "WR",
+      "roster_id": 13,
+      "sleeper_id": "11608",
+      "status": "Active",
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
     },
     {
       "active": true,
