@@ -300,6 +300,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
 
+## PLAYER LOOKUP: Chig Okonkwo
+- Player name: Chig Okonkwo
+- Player ID: 8210
+- Position: TE
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
+
 ## PLAYER LOOKUP: Chris Bell
 - Player name: Chris Bell
 - Player ID: 13311
@@ -2005,15 +2013,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Team file: 03_Ravens_Regime.md
 
 ## Available Player Board
-
-## AVAILABLE PLAYER: Chig Okonkwo
-- Player name: Chig Okonkwo
-- Player ID: 8210
-- Position: TE
-- NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 60.3
-- Dynasty AVI (D-AVI, 0-100): 75.7
-- Availability: available
 
 ## AVAILABLE PLAYER: Kayshon Boutte
 - Player name: Kayshon Boutte

@@ -3,18 +3,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00008210",
-      "c_avi": 60.3,
-      "d_avi": 75.7,
-      "nfl_team": "WAS",
-      "player_name": "Chig Okonkwo",
-      "position": "TE",
-      "sleeper_id": "8210",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00009504",
       "c_avi": 54.5,
       "d_avi": 70.9,
@@ -2750,8 +2738,8 @@
     }
   ],
   "counts": {
-    "available_players": 229,
-    "rostered_players": 250
+    "available_players": 228,
+    "rostered_players": 251
   },
   "rostered_players": [
     {
@@ -3345,6 +3333,22 @@
       "status": "Active",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00008210",
+      "c_avi": 60.3,
+      "d_avi": 75.7,
+      "nfl_team": "WAS",
+      "owner_id": "1129546394534158336",
+      "player_name": "Chig Okonkwo",
+      "position": "TE",
+      "roster_id": 12,
+      "sleeper_id": "8210",
+      "status": "Active",
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -6318,7 +6322,7 @@
       "position": "TE",
       "roster_id": 6,
       "sleeper_id": "12487",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
     },
