@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 684.6
-- championship_lineup_c_avi_avg: 85.58
-- offensive_roster_c_avi_sum: 1141.0
-- offensive_roster_c_avi_avg: 67.12
-- offensive_roster_d_avi_sum: 1355.7
-- offensive_roster_d_avi_avg: 79.75
+- championship_lineup_c_avi_sum: 673.3
+- championship_lineup_c_avi_avg: 84.16
+- offensive_roster_c_avi_sum: 1091.8
+- offensive_roster_c_avi_avg: 64.22
+- offensive_roster_d_avi_sum: 1347.6
+- offensive_roster_d_avi_avg: 79.27
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Patrick Mahomes | C-AVI: 78.2 | D-AVI: 84.3
-- RB: Cam Skattebo | C-AVI: 83.4 | D-AVI: 89.3
-- RB: David Montgomery | C-AVI: 81.8 | D-AVI: 87.5
-- WR: Jaxon Smith-Njigba | C-AVI: 99.3 | D-AVI: 99.6
-- WR: DeVonta Smith | C-AVI: 91.3 | D-AVI: 93.4
-- TE: Tyler Warren | C-AVI: 90.0 | D-AVI: 90.9
-- FLEX: DJ Moore | C-AVI: 81.7 | D-AVI: 87.6
-- FLEX: Chuba Hubbard | C-AVI: 78.9 | D-AVI: 86.4
+- QB: Patrick Mahomes | C-AVI: 71.8 | D-AVI: 83.3
+- RB: Cam Skattebo | C-AVI: 82.4 | D-AVI: 89.1
+- RB: David Montgomery | C-AVI: 75.7 | D-AVI: 86.5
+- WR: Jaxon Smith-Njigba | C-AVI: 98.7 | D-AVI: 99.5
+- WR: DeVonta Smith | C-AVI: 89.1 | D-AVI: 93.1
+- TE: Tyler Warren | C-AVI: 93.9 | D-AVI: 91.6
+- FLEX: Malik Nabers | C-AVI: 83.4 | D-AVI: 94.9
+- FLEX: DJ Moore | C-AVI: 78.3 | D-AVI: 87.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 78.2
-- Dynasty AVI (D-AVI, 0-100): 84.3
+- Championship AVI (C-AVI, 0-100): 71.8
+- Dynasty AVI (D-AVI, 0-100): 83.3
 - Projected PPR points: 305.8
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Tyler Shough
 - Player name: Tyler Shough
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 69.6
-- Dynasty AVI (D-AVI, 0-100): 76.4
+- Championship AVI (C-AVI, 0-100): 55.9
+- Dynasty AVI (D-AVI, 0-100): 74.1
 - Projected PPR points: 279.6
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Cam Skattebo
 - Player name: Cam Skattebo
@@ -87,11 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 83.4
-- Dynasty AVI (D-AVI, 0-100): 89.3
+- Championship AVI (C-AVI, 0-100): 82.4
+- Dynasty AVI (D-AVI, 0-100): 89.1
 - Projected PPR points: 233.5
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: David Montgomery
 - Player name: David Montgomery
@@ -104,11 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 81.8
-- Dynasty AVI (D-AVI, 0-100): 87.5
+- Championship AVI (C-AVI, 0-100): 75.7
+- Dynasty AVI (D-AVI, 0-100): 86.5
 - Projected PPR points: 203.1
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Chuba Hubbard
 - Player name: Chuba Hubbard
@@ -121,11 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 78.9
-- Dynasty AVI (D-AVI, 0-100): 86.4
+- Championship AVI (C-AVI, 0-100): 66.3
+- Dynasty AVI (D-AVI, 0-100): 84.3
 - Projected PPR points: 175.8
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Mike Washington
 - Player name: Mike Washington
@@ -138,28 +138,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 58.4
-- Dynasty AVI (D-AVI, 0-100): 77.8
+- Championship AVI (C-AVI, 0-100): 49.2
+- Dynasty AVI (D-AVI, 0-100): 76.3
 - Projected PPR points: 84.6
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Kaleb Johnson
-- Player name: Kaleb Johnson
-- Player ID: 12504
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 40.0
-- Dynasty AVI (D-AVI, 0-100): 70.4
-- Projected PPR points: 14.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Tyrone Tracy
 - Player name: Tyrone Tracy
@@ -172,11 +155,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 37.8
-- Dynasty AVI (D-AVI, 0-100): 71.3
+- Championship AVI (C-AVI, 0-100): 45.2
+- Dynasty AVI (D-AVI, 0-100): 72.5
 - Projected PPR points: 75.5
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
+
+### PLAYER: Kaleb Johnson
+- Player name: Kaleb Johnson
+- Player ID: 12504
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 32.6
+- Dynasty AVI (D-AVI, 0-100): 69.2
+- Projected PPR points: 14.5
+- Category: offense
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Jaxon Smith-Njigba
 - Player name: Jaxon Smith-Njigba
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 99.3
-- Dynasty AVI (D-AVI, 0-100): 99.6
+- Championship AVI (C-AVI, 0-100): 98.7
+- Dynasty AVI (D-AVI, 0-100): 99.5
 - Projected PPR points: 324.2
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: DeVonta Smith
 - Player name: DeVonta Smith
@@ -206,28 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 91.3
-- Dynasty AVI (D-AVI, 0-100): 93.4
+- Championship AVI (C-AVI, 0-100): 89.1
+- Dynasty AVI (D-AVI, 0-100): 93.1
 - Projected PPR points: 234.2
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: DJ Moore
-- Player name: DJ Moore
-- Player ID: 4983
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: BUF
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 81.7
-- Dynasty AVI (D-AVI, 0-100): 87.6
-- Projected PPR points: 199.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Malik Nabers
 - Player name: Malik Nabers
@@ -240,11 +223,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 77.3
-- Dynasty AVI (D-AVI, 0-100): 93.9
+- Championship AVI (C-AVI, 0-100): 83.4
+- Dynasty AVI (D-AVI, 0-100): 94.9
 - Projected PPR points: 209.2
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
+
+### PLAYER: DJ Moore
+- Player name: DJ Moore
+- Player ID: 4983
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: BUF
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 78.3
+- Dynasty AVI (D-AVI, 0-100): 87.0
+- Projected PPR points: 199.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Malachi Fields
 - Player name: Malachi Fields
@@ -257,11 +257,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 48.4
-- Dynasty AVI (D-AVI, 0-100): 68.3
+- Championship AVI (C-AVI, 0-100): 43.0
+- Dynasty AVI (D-AVI, 0-100): 67.4
 - Projected PPR points: 77.6
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Darius Slayton
 - Player name: Darius Slayton
@@ -274,11 +274,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 32.5
-- Dynasty AVI (D-AVI, 0-100): 54.5
+- Championship AVI (C-AVI, 0-100): 40.4
+- Dynasty AVI (D-AVI, 0-100): 55.8
 - Projected PPR points: 82.5
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Tank Dell
 - Player name: Tank Dell
@@ -291,11 +291,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 30.4
-- Dynasty AVI (D-AVI, 0-100): 55.9
+- Championship AVI (C-AVI, 0-100): 36.6
+- Dynasty AVI (D-AVI, 0-100): 56.9
 - Projected PPR points: 54.1
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Tyler Warren
 - Player name: Tyler Warren
@@ -308,11 +308,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 90.0
-- Dynasty AVI (D-AVI, 0-100): 90.9
+- Championship AVI (C-AVI, 0-100): 93.9
+- Dynasty AVI (D-AVI, 0-100): 91.6
 - Projected PPR points: 200.8
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Michael Mayer
 - Player name: Michael Mayer
@@ -325,11 +325,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 62.0
-- Dynasty AVI (D-AVI, 0-100): 68.2
+- Championship AVI (C-AVI, 0-100): 49.3
+- Dynasty AVI (D-AVI, 0-100): 66.1
 - Projected PPR points: 85.9
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Matt Gay
 - Player name: Matt Gay

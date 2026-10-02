@@ -16,18 +16,19 @@
       }
     },
     {
-      "average": 9.2,
+      "average": 7.3,
       "filename": "jalen-ramsey.php",
-      "games": 3,
+      "games": 4,
       "player_id": 15491,
       "player_name": "Jalen Ramsey",
-      "points": 27.5,
+      "points": 29,
       "position_id": "CB",
       "team_id": "PIT",
       "weeks": {
         "1": 10.8,
         "2": 5.3,
-        "3": 11.5
+        "3": 11.5,
+        "4": 1.5
       }
     },
     {
@@ -136,18 +137,19 @@
       }
     },
     {
-      "average": 7.9,
+      "average": 8.9,
       "filename": "denzel-ward.php",
-      "games": 3,
+      "games": 4,
       "player_id": 17314,
       "player_name": "Denzel Ward",
-      "points": 23.75,
+      "points": 35.5,
       "position_id": "CB",
       "team_id": "CLE",
       "weeks": {
         "1": 8.5,
         "2": 10.8,
-        "3": 4.5
+        "3": 4.5,
+        "4": 11.8
       }
     },
     {
@@ -359,18 +361,19 @@
       }
     },
     {
-      "average": 8.4,
+      "average": 6.9,
       "filename": "jamel-dean.php",
-      "games": 3,
+      "games": 4,
       "player_id": 18583,
       "player_name": "Jamel Dean",
-      "points": 25.25,
+      "points": 27.5,
       "position_id": "CB",
       "team_id": "PIT",
       "weeks": {
         "1": 10,
         "2": 7.8,
-        "3": 7.5
+        "3": 7.5,
+        "4": 2.3
       }
     },
     {
@@ -593,17 +596,18 @@
       }
     },
     {
-      "average": 8.4,
+      "average": 9.3,
       "filename": "tyson-campbell.php",
-      "games": 2,
+      "games": 3,
       "player_id": 22706,
       "player_name": "Tyson Campbell",
-      "points": 16.75,
+      "points": 28,
       "position_id": "CB",
       "team_id": "CLE",
       "weeks": {
         "1": 7.5,
-        "2": 9.3
+        "2": 9.3,
+        "4": 11.3
       }
     },
     {
@@ -710,18 +714,19 @@
       }
     },
     {
-      "average": 4.3,
+      "average": 4.5,
       "filename": "asante-samuel-jr.php",
-      "games": 3,
+      "games": 4,
       "player_id": 23240,
       "player_name": "Asante Samuel Jr.",
-      "points": 12.75,
+      "points": 18,
       "position_id": "CB",
       "team_id": "PIT",
       "weeks": {
         "1": 1.5,
         "2": 7.5,
-        "3": 3.8
+        "3": 3.8,
+        "4": 5.3
       }
     },
     {
@@ -1378,18 +1383,19 @@
       }
     },
     {
-      "average": 5.5,
+      "average": 4.5,
       "filename": "mekhi-blackmon.php",
-      "games": 3,
+      "games": 4,
       "player_id": 25513,
       "player_name": "Mekhi Blackmon",
-      "points": 16.5,
+      "points": 18,
       "position_id": "CB",
       "team_id": "CLE",
       "weeks": {
         "1": 0,
         "2": 4.5,
-        "3": 12
+        "3": 12,
+        "4": 1.5
       }
     },
     {
@@ -1686,18 +1692,19 @@
       }
     },
     {
-      "average": 6.9,
+      "average": 6.1,
       "filename": "myles-harden.php",
-      "games": 3,
+      "games": 4,
       "player_id": 26347,
       "player_name": "Myles Harden",
-      "points": 20.75,
+      "points": 24.5,
       "position_id": "CB",
       "team_id": "CLE",
       "weeks": {
         "1": 2.3,
         "2": 13.3,
-        "3": 5.3
+        "3": 5.3,
+        "4": 3.8
       }
     },
     {
@@ -1953,18 +1960,19 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 2.6,
       "filename": "daylen-everette.php",
-      "games": 3,
+      "games": 4,
       "player_id": 27092,
       "player_name": "Daylen Everette",
-      "points": 4.5,
+      "points": 10.5,
       "position_id": "CB",
       "team_id": "PIT",
       "weeks": {
         "1": 1.5,
         "2": 0,
-        "3": 3
+        "3": 3,
+        "4": 6
       }
     },
     {

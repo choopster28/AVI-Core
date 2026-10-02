@@ -1,18 +1,19 @@
 {
   "players": [
     {
-      "average": 13.7,
+      "average": 16.3,
       "filename": "aaron-rodgers.php",
-      "games": 3,
+      "games": 4,
       "player_id": 9001,
       "player_name": "Aaron Rodgers",
-      "points": 41.2,
+      "points": 65.16,
       "position_id": "QB",
       "team_id": "PIT",
       "weeks": {
         "1": 12.5,
         "2": 5,
-        "3": 23.7
+        "3": 23.7,
+        "4": 24
       }
     },
     {
@@ -133,18 +134,19 @@
       }
     },
     {
-      "average": 18.3,
+      "average": 17.2,
       "filename": "deshaun-watson.php",
-      "games": 3,
+      "games": 4,
       "player_id": 16398,
       "player_name": "Deshaun Watson",
-      "points": 54.980000000000004,
+      "points": 68.9,
       "position_id": "QB",
       "team_id": "CLE",
       "weeks": {
         "1": 15,
         "2": 19.7,
-        "3": 20.3
+        "3": 20.3,
+        "4": 13.9
       }
     },
     {

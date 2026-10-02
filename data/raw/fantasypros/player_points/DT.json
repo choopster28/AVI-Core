@@ -1,18 +1,19 @@
 {
   "players": [
     {
-      "average": 4.5,
+      "average": 6.3,
       "filename": "cameron-heyward.php",
-      "games": 3,
+      "games": 4,
       "player_id": 9862,
       "player_name": "Cameron Heyward",
-      "points": 13.5,
+      "points": 25,
       "position_id": "DT",
       "team_id": "PIT",
       "weeks": {
         "1": 8.3,
         "2": 3.8,
-        "3": 1.5
+        "3": 1.5,
+        "4": 11.5
       }
     },
     {
@@ -135,18 +136,19 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 4.5,
       "filename": "maliek-collins.php",
-      "games": 3,
+      "games": 4,
       "player_id": 15533,
       "player_name": "Maliek Collins",
-      "points": 4.5,
+      "points": 18,
       "position_id": "DT",
       "team_id": "CLE",
       "weeks": {
         "1": 0,
         "2": 2.3,
-        "3": 2.3
+        "3": 2.3,
+        "4": 13.5
       }
     },
     {
@@ -488,18 +490,19 @@
       }
     },
     {
-      "average": 3.4,
+      "average": 2.9,
       "filename": "sebastian-joseph.php",
-      "games": 3,
+      "games": 4,
       "player_id": 17621,
       "player_name": "Sebastian Joseph-Day",
-      "points": 10.25,
+      "points": 11.75,
       "position_id": "DT",
       "team_id": "PIT",
       "weeks": {
         "1": 2.3,
         "2": 4,
-        "3": 4
+        "3": 4,
+        "4": 1.5
       }
     },
     {
@@ -1261,33 +1264,35 @@
       }
     },
     {
-      "average": 7.3,
+      "average": 8.1,
       "filename": "isaiah-mcguire.php",
-      "games": 3,
+      "games": 4,
       "player_id": 25299,
       "player_name": "Isaiah McGuire",
-      "points": 22,
+      "points": 32.25,
       "position_id": "DT",
       "team_id": "CLE",
       "weeks": {
         "1": 1.5,
         "2": 7.8,
-        "3": 12.8
+        "3": 12.8,
+        "4": 10.3
       }
     },
     {
-      "average": 2,
+      "average": 2.4,
       "filename": "keeanu-benton.php",
-      "games": 3,
+      "games": 4,
       "player_id": 25432,
       "player_name": "Keeanu Benton",
-      "points": 6,
+      "points": 9.75,
       "position_id": "DT",
       "team_id": "PIT",
       "weeks": {
         "1": 3.8,
         "2": 2.3,
-        "3": 0
+        "3": 0,
+        "4": 3.8
       }
     },
     {
@@ -1408,18 +1413,19 @@
       }
     },
     {
-      "average": 1,
+      "average": 1.3,
       "filename": "jack-sawyer.php",
-      "games": 3,
+      "games": 4,
       "player_id": 26115,
       "player_name": "Jack Sawyer",
-      "points": 3,
+      "points": 5.25,
       "position_id": "DT",
       "team_id": "PIT",
       "weeks": {
         "1": 3,
         "2": 0,
-        "3": 0
+        "3": 0,
+        "4": 2.3
       }
     },
     {
@@ -1683,7 +1689,7 @@
       "player_name": "Carl Jones Jr.",
       "points": 0,
       "position_id": "DT",
-      "team_id": "FA",
+      "team_id": "BAL",
       "weeks": {
         "1": 0,
         "2": 0
@@ -1929,18 +1935,19 @@
       }
     },
     {
-      "average": 1.3,
+      "average": 2.3,
       "filename": "yahya-black.php",
-      "games": 3,
+      "games": 4,
       "player_id": 27196,
       "player_name": "Yahya Black",
-      "points": 3.75,
+      "points": 9,
       "position_id": "DT",
       "team_id": "PIT",
       "weeks": {
         "1": 0,
         "2": 0,
-        "3": 3.8
+        "3": 3.8,
+        "4": 5.3
       }
     },
     {
@@ -2121,18 +2128,19 @@
       }
     },
     {
-      "average": 1,
+      "average": 3.1,
       "filename": "adin-huntington.php",
-      "games": 3,
+      "games": 4,
       "player_id": 27588,
       "player_name": "Adin Huntington",
-      "points": 3,
+      "points": 12.5,
       "position_id": "DT",
       "team_id": "CLE",
       "weeks": {
         "1": 1.5,
         "2": 0.8,
-        "3": 0.8
+        "3": 0.8,
+        "4": 9.5
       }
     },
     {
@@ -2437,7 +2445,7 @@
       "player_name": "Josh Tupou",
       "points": 0,
       "position_id": "DT",
-      "team_id": "FA",
+      "team_id": "NYG",
       "weeks": {
         "2": 0
       }
@@ -2628,16 +2636,17 @@
       }
     },
     {
-      "average": 3.8,
+      "average": 5.9,
       "filename": "michael-hall.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26456,
       "player_name": "Mike Hall Jr.",
-      "points": 3.75,
+      "points": 11.75,
       "position_id": "DT",
       "team_id": "CLE",
       "weeks": {
-        "3": 3.8
+        "3": 3.8,
+        "4": 8
       }
     },
     {

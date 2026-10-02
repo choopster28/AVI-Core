@@ -16,18 +16,19 @@
       }
     },
     {
-      "average": 9,
+      "average": 7.8,
       "filename": "chris-boswell.php",
-      "games": 3,
+      "games": 4,
       "player_id": 13029,
       "player_name": "Chris Boswell",
-      "points": 27,
+      "points": 31,
       "position_id": "K",
       "team_id": "PIT",
       "weeks": {
         "1": 9,
         "2": 5,
-        "3": 13
+        "3": 13,
+        "4": 4
       }
     },
     {
@@ -286,18 +287,19 @@
       }
     },
     {
-      "average": 8.7,
+      "average": 9.5,
       "filename": "andre-szmyt.php",
-      "games": 3,
+      "games": 4,
       "player_id": 25713,
       "player_name": "Andre Szmyt",
-      "points": 26,
+      "points": 38,
       "position_id": "K",
       "team_id": "CLE",
       "weeks": {
         "1": 4,
         "2": 13,
-        "3": 9
+        "3": 9,
+        "4": 12
       }
     },
     {

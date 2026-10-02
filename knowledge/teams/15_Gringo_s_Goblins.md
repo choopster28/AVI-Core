@@ -13,31 +13,31 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 15
+- total_players: 21
+- offense: 16
 - kickers: 1
 - idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 606.6
-- championship_lineup_c_avi_avg: 75.83
-- offensive_roster_c_avi_sum: 1020.5
-- offensive_roster_c_avi_avg: 68.03
-- offensive_roster_d_avi_sum: 1169.2
-- offensive_roster_d_avi_avg: 77.95
+- championship_lineup_c_avi_sum: 579.4
+- championship_lineup_c_avi_avg: 72.42
+- offensive_roster_c_avi_sum: 969.1
+- offensive_roster_c_avi_avg: 60.57
+- offensive_roster_d_avi_sum: 1215.0
+- offensive_roster_d_avi_avg: 75.94
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Bo Nix | C-AVI: 62.2 | D-AVI: 76.7
-- RB: Kyren Williams | C-AVI: 86.8 | D-AVI: 92.7
-- RB: Aaron Jones | C-AVI: 72.2 | D-AVI: 79.6
-- WR: Christian Watson | C-AVI: 86.4 | D-AVI: 91.5
-- WR: Emeka Egbuka | C-AVI: 82.1 | D-AVI: 92.6
-- TE: Jake Ferguson | C-AVI: 74.4 | D-AVI: 81.1
-- FLEX: Jameson Williams | C-AVI: 76.5 | D-AVI: 88.7
-- FLEX: Romeo Doubs | C-AVI: 66.0 | D-AVI: 79.8
+- QB: Bo Nix | C-AVI: 61.6 | D-AVI: 76.6
+- RB: Kyren Williams | C-AVI: 82.0 | D-AVI: 91.9
+- RB: Aaron Jones | C-AVI: 61.6 | D-AVI: 77.9
+- WR: Emeka Egbuka | C-AVI: 83.9 | D-AVI: 92.9
+- WR: Jameson Williams | C-AVI: 81.8 | D-AVI: 89.6
+- TE: Jake Ferguson | C-AVI: 68.9 | D-AVI: 80.2
+- FLEX: Christian Watson | C-AVI: 76.9 | D-AVI: 89.9
+- FLEX: Romeo Doubs | C-AVI: 62.7 | D-AVI: 79.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 62.2
-- Dynasty AVI (D-AVI, 0-100): 76.7
+- Championship AVI (C-AVI, 0-100): 61.6
+- Dynasty AVI (D-AVI, 0-100): 76.6
 - Projected PPR points: 295.5
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Geno Smith
 - Player name: Geno Smith
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 35.0
-- Championship AVI (C-AVI, 0-100): 56.9
-- Dynasty AVI (D-AVI, 0-100): 63.3
+- Championship AVI (C-AVI, 0-100): 45.7
+- Dynasty AVI (D-AVI, 0-100): 61.4
 - Projected PPR points: 230.6
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Kyren Williams
 - Player name: Kyren Williams
@@ -87,11 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 86.8
-- Dynasty AVI (D-AVI, 0-100): 92.7
+- Championship AVI (C-AVI, 0-100): 82.0
+- Dynasty AVI (D-AVI, 0-100): 91.9
 - Projected PPR points: 226.0
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Aaron Jones
 - Player name: Aaron Jones
@@ -104,11 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 72.2
-- Dynasty AVI (D-AVI, 0-100): 79.6
+- Championship AVI (C-AVI, 0-100): 61.6
+- Dynasty AVI (D-AVI, 0-100): 77.9
 - Projected PPR points: 169.2
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Jonathon Brooks
 - Player name: Jonathon Brooks
@@ -121,11 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 60.0
+- Championship AVI (C-AVI, 0-100): 59.9
 - Dynasty AVI (D-AVI, 0-100): 79.5
 - Projected PPR points: 145.6
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Alvin Kamara
 - Player name: Alvin Kamara
@@ -138,11 +138,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 58.5
-- Dynasty AVI (D-AVI, 0-100): 71.9
+- Championship AVI (C-AVI, 0-100): 50.7
+- Dynasty AVI (D-AVI, 0-100): 70.6
 - Projected PPR points: 117.2
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Braelon Allen
 - Player name: Braelon Allen
@@ -155,28 +155,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 57.5
-- Dynasty AVI (D-AVI, 0-100): 76.9
+- Championship AVI (C-AVI, 0-100): 48.5
+- Dynasty AVI (D-AVI, 0-100): 75.4
 - Projected PPR points: 94.4
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
-### PLAYER: Christian Watson
-- Player name: Christian Watson
-- Player ID: 8167
+### PLAYER: Samaje Perine
+- Player name: Samaje Perine
+- Player ID: 4147
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: GB
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: CIN
 - Active: True
 - Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 86.4
-- Dynasty AVI (D-AVI, 0-100): 91.5
-- Projected PPR points: 197.0
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 44.0
+- Dynasty AVI (D-AVI, 0-100): 61.6
+- Projected PPR points: 86.5
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Emeka Egbuka
 - Player name: Emeka Egbuka
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 82.1
-- Dynasty AVI (D-AVI, 0-100): 92.6
+- Championship AVI (C-AVI, 0-100): 83.9
+- Dynasty AVI (D-AVI, 0-100): 92.9
 - Projected PPR points: 218.5
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Jameson Williams
 - Player name: Jameson Williams
@@ -206,11 +206,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 76.5
-- Dynasty AVI (D-AVI, 0-100): 88.7
+- Championship AVI (C-AVI, 0-100): 81.8
+- Dynasty AVI (D-AVI, 0-100): 89.6
 - Projected PPR points: 215.0
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
+
+### PLAYER: Christian Watson
+- Player name: Christian Watson
+- Player ID: 8167
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 76.9
+- Dynasty AVI (D-AVI, 0-100): 89.9
+- Projected PPR points: 197.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Romeo Doubs
 - Player name: Romeo Doubs
@@ -223,11 +240,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 66.0
-- Dynasty AVI (D-AVI, 0-100): 79.8
+- Championship AVI (C-AVI, 0-100): 62.7
+- Dynasty AVI (D-AVI, 0-100): 79.2
 - Projected PPR points: 165.9
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Dontayvion Wicks
 - Player name: Dontayvion Wicks
@@ -240,11 +257,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 65.6
-- Dynasty AVI (D-AVI, 0-100): 72.8
+- Championship AVI (C-AVI, 0-100): 50.6
+- Dynasty AVI (D-AVI, 0-100): 70.3
 - Projected PPR points: 96.3
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Mack Hollins
 - Player name: Mack Hollins
@@ -257,11 +274,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 54.9
-- Dynasty AVI (D-AVI, 0-100): 58.8
+- Championship AVI (C-AVI, 0-100): 36.3
+- Dynasty AVI (D-AVI, 0-100): 55.7
 - Projected PPR points: 62.7
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Jake Ferguson
 - Player name: Jake Ferguson
@@ -274,11 +291,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 74.4
-- Dynasty AVI (D-AVI, 0-100): 81.1
+- Championship AVI (C-AVI, 0-100): 68.9
+- Dynasty AVI (D-AVI, 0-100): 80.2
 - Projected PPR points: 158.7
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Evan Engram
 - Player name: Evan Engram
@@ -291,11 +308,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 60.5
-- Dynasty AVI (D-AVI, 0-100): 63.3
+- Championship AVI (C-AVI, 0-100): 54.0
+- Dynasty AVI (D-AVI, 0-100): 62.3
 - Projected PPR points: 108.2
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Brandon Aubrey
 - Player name: Brandon Aubrey
