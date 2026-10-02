@@ -284,14 +284,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
 
-## PLAYER LOOKUP: Carson Wentz
-- Player name: Carson Wentz
-- Player ID: 3161
-- Position: QB
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Team file: 12_DMV_Fantasy.md
-
 ## PLAYER LOOKUP: CeeDee Lamb
 - Player name: CeeDee Lamb
 - Player ID: 6786
@@ -1180,14 +1172,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
-## PLAYER LOOKUP: Kayshon Boutte
-- Player name: Kayshon Boutte
-- Player ID: 9504
-- Position: WR
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
 ## PLAYER LOOKUP: Keaton Mitchell
 - Player name: Keaton Mitchell
 - Player ID: 9511
@@ -1388,6 +1372,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
 
+## PLAYER LOOKUP: Marcus Mariota
+- Player name: Marcus Mariota
+- Player ID: 2307
+- Position: QB
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
+
 ## PLAYER LOOKUP: Mark Andrews
 - Player name: Mark Andrews
 - Player ID: 5012
@@ -1475,6 +1467,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
+
+## PLAYER LOOKUP: Najee Harris
+- Player name: Najee Harris
+- Player ID: 7528
+- Position: RB
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Nicholas Singleton
 - Player name: Nicholas Singleton
@@ -1707,6 +1707,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
+
+## PLAYER LOOKUP: Samaje Perine
+- Player name: Samaje Perine
+- Player ID: 4147
+- Position: RB
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
 
 ## PLAYER LOOKUP: Saquon Barkley
 - Player name: Saquon Barkley
@@ -2025,6 +2033,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 64.5
 - Availability: available
 
+## AVAILABLE PLAYER: Kayshon Boutte
+- Player name: Kayshon Boutte
+- Player ID: 9504
+- Position: WR
+- NFL team: HOU
+- Championship AVI (C-AVI, 0-100): 55.1
+- Dynasty AVI (D-AVI, 0-100): 71.0
+- Availability: available
+
 ## AVAILABLE PLAYER: Elic Ayomanor
 - Player name: Elic Ayomanor
 - Player ID: 12499
@@ -2059,15 +2076,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: BUF
 - Championship AVI (C-AVI, 0-100): 51.4
 - Dynasty AVI (D-AVI, 0-100): 54.7
-- Availability: available
-
-## AVAILABLE PLAYER: Samaje Perine
-- Player name: Samaje Perine
-- Player ID: 4147
-- Position: RB
-- NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 51.4
-- Dynasty AVI (D-AVI, 0-100): 62.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Darnell Mooney
@@ -2131,15 +2139,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ATL
 - Championship AVI (C-AVI, 0-100): 48.6
 - Dynasty AVI (D-AVI, 0-100): 47.6
-- Availability: available
-
-## AVAILABLE PLAYER: Najee Harris
-- Player name: Najee Harris
-- Player ID: 7528
-- Position: RB
-- NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 47.9
-- Dynasty AVI (D-AVI, 0-100): 67.1
 - Availability: available
 
 ## AVAILABLE PLAYER: John Metchie
@@ -2239,15 +2238,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ATL
 - Championship AVI (C-AVI, 0-100): 43.6
 - Dynasty AVI (D-AVI, 0-100): 53.9
-- Availability: available
-
-## AVAILABLE PLAYER: Marcus Mariota
-- Player name: Marcus Mariota
-- Player ID: 2307
-- Position: QB
-- NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 43.6
-- Dynasty AVI (D-AVI, 0-100): 50.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Bryce Lance
@@ -3607,6 +3597,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 40.9
+- Availability: available
+
+## AVAILABLE PLAYER: Carson Wentz
+- Player name: Carson Wentz
+- Player ID: 3161
+- Position: QB
+- NFL team: MIN
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 22.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Cash Jones

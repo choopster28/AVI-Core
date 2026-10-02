@@ -39,6 +39,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00009504",
+      "c_avi": 55.1,
+      "d_avi": 71.0,
+      "nfl_team": "HOU",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "sleeper_id": "9504",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012499",
       "c_avi": 54.1,
       "d_avi": 63.1,
@@ -82,18 +94,6 @@
       "player_name": "Dawson Knox",
       "position": "TE",
       "sleeper_id": "5906",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00004147",
-      "c_avi": 51.4,
-      "d_avi": 62.9,
-      "nfl_team": "CIN",
-      "player_name": "Samaje Perine",
-      "position": "RB",
-      "sleeper_id": "4147",
       "status": "Active"
     },
     {
@@ -183,18 +183,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00007528",
-      "c_avi": 47.9,
-      "d_avi": 67.1,
-      "nfl_team": "NYG",
-      "player_name": "Najee Harris",
-      "position": "RB",
-      "sleeper_id": "7528",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008147",
       "c_avi": 47.2,
       "d_avi": 49.8,
@@ -238,7 +226,7 @@
       "player_name": "Charlie Kolar",
       "position": "TE",
       "sleeper_id": "8127",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -322,18 +310,6 @@
       "player_name": "Jahan Dotson",
       "position": "WR",
       "sleeper_id": "8119",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00002307",
-      "c_avi": 43.6,
-      "d_avi": 50.7,
-      "nfl_team": "WAS",
-      "player_name": "Marcus Mariota",
-      "position": "QB",
-      "sleeper_id": "2307",
       "status": "Active"
     },
     {
@@ -2151,6 +2127,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00003161",
+      "c_avi": 0.0,
+      "d_avi": 22.7,
+      "nfl_team": "MIN",
+      "player_name": "Carson Wentz",
+      "position": "QB",
+      "sleeper_id": "3161",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00013595",
       "c_avi": 0.0,
       "d_avi": 0.0,
@@ -2762,8 +2750,8 @@
     }
   ],
   "counts": {
-    "available_players": 230,
-    "rostered_players": 249
+    "available_players": 229,
+    "rostered_players": 250
   },
   "rostered_players": [
     {
@@ -3325,22 +3313,6 @@
       "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00003161",
-      "c_avi": 0.0,
-      "d_avi": 22.7,
-      "nfl_team": "MIN",
-      "owner_id": "1129546394534158336",
-      "player_name": "Carson Wentz",
-      "position": "QB",
-      "roster_id": 12,
-      "sleeper_id": "3161",
-      "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -5121,22 +5093,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00009504",
-      "c_avi": 55.1,
-      "d_avi": 71.0,
-      "nfl_team": "HOU",
-      "owner_id": "863881053000011776",
-      "player_name": "Kayshon Boutte",
-      "position": "WR",
-      "roster_id": 9,
-      "sleeper_id": "9504",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00009511",
       "c_avi": 60.1,
       "d_avi": 73.4,
@@ -5537,6 +5493,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00002307",
+      "c_avi": 43.6,
+      "d_avi": 50.7,
+      "nfl_team": "WAS",
+      "owner_id": "1129546394534158336",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "roster_id": 12,
+      "sleeper_id": "2307",
+      "status": "Active",
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00005012",
       "c_avi": 74.9,
       "d_avi": 78.4,
@@ -5709,6 +5681,22 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00007528",
+      "c_avi": 47.9,
+      "d_avi": 67.1,
+      "nfl_team": "NYG",
+      "owner_id": "863881053000011776",
+      "player_name": "Najee Harris",
+      "position": "RB",
+      "roster_id": 9,
+      "sleeper_id": "7528",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -6173,6 +6161,22 @@
       "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00004147",
+      "c_avi": 51.4,
+      "d_avi": 62.9,
+      "nfl_team": "CIN",
+      "owner_id": "990097041671892992",
+      "player_name": "Samaje Perine",
+      "position": "RB",
+      "roster_id": 15,
+      "sleeper_id": "4147",
+      "status": "Active",
+      "team_file": "15_Gringo_s_Goblins.md",
+      "team_name": "Gringo’s Goblins "
     },
     {
       "active": true,
