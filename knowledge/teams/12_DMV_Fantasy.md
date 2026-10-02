@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1129546394534158336
 - Division: 4
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-10-01
+- Last updated from Sleeper exports: 2026-10-02
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 459.0
-- championship_lineup_c_avi_avg: 65.57
-- offensive_roster_c_avi_sum: 676.3
-- offensive_roster_c_avi_avg: 56.36
+- championship_lineup_c_avi_sum: 459.2
+- championship_lineup_c_avi_avg: 65.60
+- offensive_roster_c_avi_sum: 676.5
+- offensive_roster_c_avi_avg: 56.38
 - offensive_roster_d_avi_sum: 820.9
 - offensive_roster_d_avi_avg: 68.41
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -33,8 +33,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Rachaad White | C-AVI: 69.4 | D-AVI: 80.3
 - RB: Jacory Croskey-Merritt | C-AVI: 66.3 | D-AVI: 82.5
 - WR: Jalen Coker | C-AVI: 75.1 | D-AVI: 82.7
-- WR: Cooper Kupp | C-AVI: 61.7 | D-AVI: 59.5
-- TE: Brenton Strange | C-AVI: 66.7 | D-AVI: 78.6
+- WR: Cooper Kupp | C-AVI: 61.8 | D-AVI: 59.5
+- TE: Brenton Strange | C-AVI: 66.8 | D-AVI: 78.6
 - FLEX: Keaton Mitchell | C-AVI: 60.1 | D-AVI: 73.4
 - FLEX: Antonio Williams | C-AVI: 59.7 | D-AVI: 76.3
 
@@ -188,7 +188,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 61.7
+- Championship AVI (C-AVI, 0-100): 61.8
 - Dynasty AVI (D-AVI, 0-100): 59.5
 - Projected PPR points: 143.0
 - Category: offense
@@ -256,7 +256,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 66.7
+- Championship AVI (C-AVI, 0-100): 66.8
 - Dynasty AVI (D-AVI, 0-100): 78.6
 - Projected PPR points: 153.1
 - Category: offense

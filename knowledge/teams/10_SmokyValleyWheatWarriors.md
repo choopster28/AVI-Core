@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 308805697879937024
 - Division: 2
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-10-01
+- Last updated from Sleeper exports: 2026-10-02
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 684.3
-- championship_lineup_c_avi_avg: 85.54
+- championship_lineup_c_avi_sum: 684.2
+- championship_lineup_c_avi_avg: 85.53
 - offensive_roster_c_avi_sum: 980.8
 - offensive_roster_c_avi_avg: 65.39
 - offensive_roster_d_avi_sum: 1135.2
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Chris Olave | C-AVI: 96.5 | D-AVI: 97.0
 - TE: Dalton Kincaid | C-AVI: 77.3 | D-AVI: 84.7
 - FLEX: Mark Andrews | C-AVI: 74.9 | D-AVI: 78.4
-- FLEX: Josh Downs | C-AVI: 71.6 | D-AVI: 82.9
+- FLEX: Josh Downs | C-AVI: 71.5 | D-AVI: 82.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 71.6
+- Championship AVI (C-AVI, 0-100): 71.5
 - Dynasty AVI (D-AVI, 0-100): 82.9
 - Projected PPR points: 159.3
 - Category: offense
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 58.0
+- Championship AVI (C-AVI, 0-100): 58.1
 - Dynasty AVI (D-AVI, 0-100): 42.9
 - Projected PPR points: 53.2
 - Category: offense

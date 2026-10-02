@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-10-01
+- Last updated from Sleeper exports: 2026-10-02
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,17 +23,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 665.2
 - championship_lineup_c_avi_avg: 83.15
-- offensive_roster_c_avi_sum: 977.5
-- offensive_roster_c_avi_avg: 75.19
-- offensive_roster_d_avi_sum: 1041.7
-- offensive_roster_d_avi_avg: 80.13
+- offensive_roster_c_avi_sum: 977.6
+- offensive_roster_c_avi_avg: 75.20
+- offensive_roster_d_avi_sum: 1042.1
+- offensive_roster_d_avi_avg: 80.16
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 84.2 | D-AVI: 83.5
 - RB: D'Andre Swift | C-AVI: 87.3 | D-AVI: 90.0
 - RB: George Holani | C-AVI: 52.7 | D-AVI: 63.3
-- WR: Amon-Ra St. Brown | C-AVI: 99.0 | D-AVI: 98.9
+- WR: Amon-Ra St. Brown | C-AVI: 99.0 | D-AVI: 99.2
 - WR: Justin Jefferson | C-AVI: 96.0 | D-AVI: 98.1
 - TE: Dallas Goedert | C-AVI: 84.1 | D-AVI: 79.9
 - FLEX: Tee Higgins | C-AVI: 87.5 | D-AVI: 91.2
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 39.8
-- Dynasty AVI (D-AVI, 0-100): 77.6
+- Championship AVI (C-AVI, 0-100): 39.9
+- Dynasty AVI (D-AVI, 0-100): 77.7
 - Projected PPR points: 116.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -139,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 99.0
-- Dynasty AVI (D-AVI, 0-100): 98.9
+- Dynasty AVI (D-AVI, 0-100): 99.2
 - Projected PPR points: 333.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

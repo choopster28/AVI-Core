@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-10-01
+- Last updated from Sleeper exports: 2026-10-02
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 685.3
-- championship_lineup_c_avi_avg: 85.66
-- offensive_roster_c_avi_sum: 1164.4
-- offensive_roster_c_avi_avg: 72.78
-- offensive_roster_d_avi_sum: 1253.2
-- offensive_roster_d_avi_avg: 78.33
+- championship_lineup_c_avi_sum: 685.2
+- championship_lineup_c_avi_avg: 85.65
+- offensive_roster_c_avi_sum: 1164.3
+- offensive_roster_c_avi_avg: 72.77
+- offensive_roster_d_avi_sum: 1253.1
+- offensive_roster_d_avi_avg: 78.32
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Garrett Wilson | C-AVI: 92.0 | D-AVI: 94.2
 - TE: Travis Kelce | C-AVI: 87.9 | D-AVI: 80.0
 - FLEX: Davante Adams | C-AVI: 90.1 | D-AVI: 85.6
-- FLEX: Dalton Schultz | C-AVI: 74.8 | D-AVI: 75.1
+- FLEX: Dalton Schultz | C-AVI: 74.7 | D-AVI: 75.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 74.8
-- Dynasty AVI (D-AVI, 0-100): 75.1
+- Championship AVI (C-AVI, 0-100): 74.7
+- Dynasty AVI (D-AVI, 0-100): 75.0
 - Projected PPR points: 142.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
