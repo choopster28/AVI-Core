@@ -3,18 +3,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00009504",
-      "c_avi": 54.5,
-      "d_avi": 70.6,
-      "nfl_team": "HOU",
-      "player_name": "Kayshon Boutte",
-      "position": "WR",
-      "sleeper_id": "9504",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004033",
       "c_avi": 53.0,
       "d_avi": 65.8,
@@ -850,6 +838,18 @@
       "player_name": "Luke Musgrave",
       "position": "TE",
       "sleeper_id": "9481",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00010235",
+      "c_avi": 33.2,
+      "d_avi": 48.3,
+      "nfl_team": "CHI",
+      "player_name": "Roschon Johnson",
+      "position": "RB",
+      "sleeper_id": "10235",
       "status": "Active"
     },
     {
@@ -1990,7 +1990,7 @@
       "player_name": "British Brooks",
       "position": "RB",
       "sleeper_id": "12171",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -5101,6 +5101,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00009504",
+      "c_avi": 54.5,
+      "d_avi": 70.6,
+      "nfl_team": "HOU",
+      "owner_id": "998253660243054592",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "roster_id": 13,
+      "sleeper_id": "9504",
+      "status": "Active",
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00009511",
       "c_avi": 48.2,
       "d_avi": 70.3,
@@ -6105,22 +6121,6 @@
       "status": "Active",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00010235",
-      "c_avi": 33.2,
-      "d_avi": 48.3,
-      "nfl_team": "CHI",
-      "owner_id": "998253660243054592",
-      "player_name": "Roschon Johnson",
-      "position": "RB",
-      "roster_id": 13,
-      "sleeper_id": "10235",
-      "status": "Active",
-      "team_file": "13_Southside_Savages.md",
-      "team_name": "Southside Savages"
     },
     {
       "active": true,

@@ -1188,6 +1188,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
+## PLAYER LOOKUP: Kayshon Boutte
+- Player name: Kayshon Boutte
+- Player ID: 9504
+- Position: WR
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Team file: 13_Southside_Savages.md
+
 ## PLAYER LOOKUP: Keaton Mitchell
 - Player name: Keaton Mitchell
 - Player ID: 9511
@@ -1692,14 +1700,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
 
-## PLAYER LOOKUP: Roschon Johnson
-- Player name: Roschon Johnson
-- Player ID: 10235
-- Position: RB
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Team file: 13_Southside_Savages.md
-
 ## PLAYER LOOKUP: Ryan Flournoy
 - Player name: Ryan Flournoy
 - Player ID: 11783
@@ -2021,15 +2021,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Team file: 03_Ravens_Regime.md
 
 ## Available Player Board
-
-## AVAILABLE PLAYER: Kayshon Boutte
-- Player name: Kayshon Boutte
-- Player ID: 9504
-- Position: WR
-- NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 54.5
-- Dynasty AVI (D-AVI, 0-100): 70.6
-- Availability: available
 
 ## AVAILABLE PLAYER: David Njoku
 - Player name: David Njoku
@@ -2659,6 +2650,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: GB
 - Championship AVI (C-AVI, 0-100): 33.4
 - Dynasty AVI (D-AVI, 0-100): 46.4
+- Availability: available
+
+## AVAILABLE PLAYER: Roschon Johnson
+- Player name: Roschon Johnson
+- Player ID: 10235
+- Position: RB
+- NFL team: CHI
+- Championship AVI (C-AVI, 0-100): 33.2
+- Dynasty AVI (D-AVI, 0-100): 48.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Max Klare
