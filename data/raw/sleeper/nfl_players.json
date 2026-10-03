@@ -33808,7 +33808,7 @@
       "genius_id": "1407983",
       "rookie_year": "2023"
     },
-    "news_updated": 1791036019755,
+    "news_updated": 1791048635265,
     "number": 17,
     "oddsjam_id": "D0AC4E7EAE45",
     "opta_id": null,
@@ -54720,7 +54720,7 @@
       "genius_id": "1464096",
       "rookie_year": "2024"
     },
-    "news_updated": 1790879434704,
+    "news_updated": 1791049535354,
     "number": 32,
     "oddsjam_id": "D6F26D313E49",
     "opta_id": null,
@@ -109912,7 +109912,7 @@
       "genius_id": "1467334",
       "rookie_year": "2024"
     },
-    "news_updated": 1735579816995,
+    "news_updated": 1791049535877,
     "number": 44,
     "oddsjam_id": "ACB64C3615B0",
     "opta_id": null,
@@ -459502,7 +459502,7 @@
       "genius_id": "1009133",
       "rookie_year": "2018"
     },
-    "news_updated": 1790990716031,
+    "news_updated": 1791050735441,
     "number": 14,
     "oddsjam_id": "8EC2956310D2",
     "opta_id": null,
@@ -512753,7 +512753,7 @@
       "genius_id": "1007047",
       "rookie_year": "2019"
     },
-    "news_updated": 1791008417557,
+    "news_updated": 1791051036013,
     "number": 87,
     "oddsjam_id": "5DBEF40572D3",
     "opta_id": null,
@@ -516485,7 +516485,7 @@
     "injury_body_part": "Ankle",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "dae9d88a-422c-43b5-8503-d275af94e013",
     "last_name": "Granderson",
     "metadata": {
@@ -541450,7 +541450,7 @@
     "injury_body_part": "Calf",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "2578419e-c408-48e6-967a-6a17d1964bf3",
     "last_name": "Elliss",
     "metadata": {
@@ -576357,7 +576357,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "1f6da827-86bd-4cf3-953c-66b44bc28ad0",
     "last_name": "Jennings",
     "metadata": {
