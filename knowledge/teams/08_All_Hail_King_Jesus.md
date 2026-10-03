@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Hofer51
 - Owner ID: 736994691492519936
 - Division: 4
-- Waiver position: 7
+- Waiver position: 6
 - Last updated from Sleeper exports: 2026-10-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 652.0
-- championship_lineup_c_avi_avg: 81.50
-- offensive_roster_c_avi_sum: 905.6
-- offensive_roster_c_avi_avg: 69.66
-- offensive_roster_d_avi_sum: 1021.1
-- offensive_roster_d_avi_avg: 78.55
+- championship_lineup_c_avi_sum: 651.9
+- championship_lineup_c_avi_avg: 81.49
+- offensive_roster_c_avi_sum: 905.5
+- offensive_roster_c_avi_avg: 69.65
+- offensive_roster_d_avi_sum: 1021.6
+- offensive_roster_d_avi_avg: 78.58
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Brock Purdy | C-AVI: 77.3 | D-AVI: 82.3
+- QB: Brock Purdy | C-AVI: 77.3 | D-AVI: 82.2
 - RB: D'Andre Swift | C-AVI: 80.5 | D-AVI: 86.8
-- RB: Zach Charbonnet | C-AVI: 50.8 | D-AVI: 76.7
+- RB: Zach Charbonnet | C-AVI: 50.7 | D-AVI: 76.7
 - WR: Amon-Ra St. Brown | C-AVI: 99.1 | D-AVI: 99.2
 - WR: Justin Jefferson | C-AVI: 97.8 | D-AVI: 97.8
 - TE: Dallas Goedert | C-AVI: 82.6 | D-AVI: 79.6
@@ -54,7 +54,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 77.3
-- Dynasty AVI (D-AVI, 0-100): 82.3
+- Dynasty AVI (D-AVI, 0-100): 82.2
 - Projected PPR points: 310.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -71,7 +71,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 49.5
-- Dynasty AVI (D-AVI, 0-100): 69.3
+- Dynasty AVI (D-AVI, 0-100): 69.9
 - Projected PPR points: 253.5
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.8
+- Championship AVI (C-AVI, 0-100): 50.7
 - Dynasty AVI (D-AVI, 0-100): 76.7
 - Projected PPR points: 116.8
 - Category: offense

@@ -4500,9 +4500,9 @@
     "sleeper_id": "12520"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "25627",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "LAR",
     "player_name": "Xavier Smith",
     "position": "WR",

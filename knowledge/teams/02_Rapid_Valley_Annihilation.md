@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: FuzzyRaptor
 - Owner ID: 1178861684281753600
 - Division: 2
-- Waiver position: 14
+- Waiver position: 13
 - Last updated from Sleeper exports: 2026-10-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 554.4
 - championship_lineup_c_avi_avg: 69.30
-- offensive_roster_c_avi_sum: 962.0
-- offensive_roster_c_avi_avg: 56.59
-- offensive_roster_d_avi_sum: 1284.2
-- offensive_roster_d_avi_avg: 75.54
+- offensive_roster_c_avi_sum: 961.7
+- offensive_roster_c_avi_avg: 56.57
+- offensive_roster_d_avi_sum: 1283.9
+- offensive_roster_d_avi_avg: 75.52
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 40.3
-- Dynasty AVI (D-AVI, 0-100): 56.1
+- Championship AVI (C-AVI, 0-100): 40.2
+- Dynasty AVI (D-AVI, 0-100): 55.8
 - Projected PPR points: 158.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 42.3
+- Championship AVI (C-AVI, 0-100): 42.2
 - Dynasty AVI (D-AVI, 0-100): 64.5
 - Projected PPR points: 59.1
 - Category: offense
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 36.9
+- Championship AVI (C-AVI, 0-100): 36.8
 - Dynasty AVI (D-AVI, 0-100): 64.7
 - Projected PPR points: 28.2
 - Category: offense

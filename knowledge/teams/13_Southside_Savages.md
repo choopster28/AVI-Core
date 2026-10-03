@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: GGEZGoNext
 - Owner ID: 998253660243054592
 - Division: 2
-- Waiver position: 2
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-10-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 568.4
-- championship_lineup_c_avi_avg: 71.05
-- offensive_roster_c_avi_sum: 839.7
-- offensive_roster_c_avi_avg: 55.98
-- offensive_roster_d_avi_sum: 1073.2
-- offensive_roster_d_avi_avg: 71.55
+- championship_lineup_c_avi_sum: 568.3
+- championship_lineup_c_avi_avg: 71.04
+- offensive_roster_c_avi_sum: 860.8
+- offensive_roster_c_avi_avg: 57.39
+- offensive_roster_d_avi_sum: 1095.1
+- offensive_roster_d_avi_avg: 73.01
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Drake Maye | C-AVI: 93.6 | D-AVI: 90.8
+- QB: Drake Maye | C-AVI: 93.6 | D-AVI: 90.7
 - RB: TreVeyon Henderson | C-AVI: 69.6 | D-AVI: 88.4
-- RB: Emanuel Wilson | C-AVI: 41.4 | D-AVI: 60.4
+- RB: Emanuel Wilson | C-AVI: 41.3 | D-AVI: 60.4
 - WR: Tetairoa McMillan | C-AVI: 85.2 | D-AVI: 94.3
 - WR: Luther Burden | C-AVI: 79.9 | D-AVI: 90.8
 - TE: Pat Freiermuth | C-AVI: 57.9 | D-AVI: 69.5
@@ -54,7 +54,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 93.6
-- Dynasty AVI (D-AVI, 0-100): 90.8
+- Dynasty AVI (D-AVI, 0-100): 90.7
 - Projected PPR points: 324.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -71,7 +71,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 52.6
-- Dynasty AVI (D-AVI, 0-100): 65.6
+- Dynasty AVI (D-AVI, 0-100): 65.4
 - Projected PPR points: 270.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 41.4
+- Championship AVI (C-AVI, 0-100): 41.3
 - Dynasty AVI (D-AVI, 0-100): 60.4
 - Projected PPR points: 64.7
 - Category: offense
@@ -121,26 +121,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 41.2
-- Dynasty AVI (D-AVI, 0-100): 54.3
+- Championship AVI (C-AVI, 0-100): 41.1
+- Dynasty AVI (D-AVI, 0-100): 54.2
 - Projected PPR points: 77.9
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: Roschon Johnson
-- Player name: Roschon Johnson
-- Player ID: 10235
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: CHI
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 33.2
-- Dynasty AVI (D-AVI, 0-100): 48.3
-- Projected PPR points: 34.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
 
@@ -226,6 +209,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 66.8
 - Dynasty AVI (D-AVI, 0-100): 77.8
 - Projected PPR points: 175.4
+- Category: offense
+- Valuation status: PROVISIONAL_2026_3
+
+### PLAYER: Kayshon Boutte
+- Player name: Kayshon Boutte
+- Player ID: 9504
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: HOU
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 54.5
+- Dynasty AVI (D-AVI, 0-100): 70.6
+- Projected PPR points: 136.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
 
