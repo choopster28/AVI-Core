@@ -1650,7 +1650,7 @@
       "player_name": "Xavier Smith",
       "points": 0,
       "position_id": "WR",
-      "team_id": "LAR",
+      "team_id": "FA",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -2582,7 +2582,7 @@
       "player_name": "Lil'Jordan Humphrey",
       "points": 0,
       "position_id": "WR",
-      "team_id": "DEN",
+      "team_id": "FA",
       "weeks": {
         "2": 0
       }
