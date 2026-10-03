@@ -142,7 +142,7 @@
       "player_name": "Xavier Legette",
       "position": "WR",
       "sleeper_id": "11626",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -1563,18 +1563,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012496",
-      "c_avi": 26.0,
-      "d_avi": 45.9,
-      "nfl_team": "MIN",
-      "player_name": "Tai Felton",
-      "position": "WR",
-      "sleeper_id": "12496",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00007610",
       "c_avi": 26.0,
       "d_avi": 34.1,
@@ -2726,8 +2714,8 @@
     }
   ],
   "counts": {
-    "available_players": 227,
-    "rostered_players": 252
+    "available_players": 226,
+    "rostered_players": 253
   },
   "rostered_players": [
     {
@@ -4438,7 +4426,7 @@
       "position": "RB",
       "roster_id": 16,
       "sleeper_id": "13286",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
     },
@@ -6249,6 +6237,22 @@
       "status": "Active",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012496",
+      "c_avi": 26.0,
+      "d_avi": 45.9,
+      "nfl_team": "MIN",
+      "owner_id": "471824466389757952",
+      "player_name": "Tai Felton",
+      "position": "WR",
+      "roster_id": 16,
+      "sleeper_id": "12496",
+      "status": "Active",
+      "team_file": "16_Crimson_Tide_Pods.md",
+      "team_name": "Crimson Tide Pods"
     },
     {
       "active": true,

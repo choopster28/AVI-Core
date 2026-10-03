@@ -1764,6 +1764,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
 
+## PLAYER LOOKUP: Tai Felton
+- Player name: Tai Felton
+- Player ID: 12496
+- Position: WR
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
+
 ## PLAYER LOOKUP: Tank Bigsby
 - Player name: Tank Bigsby
 - Player ID: 9225
@@ -3190,15 +3198,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ARI
 - Championship AVI (C-AVI, 0-100): 26.2
 - Dynasty AVI (D-AVI, 0-100): 46.4
-- Availability: available
-
-## AVAILABLE PLAYER: Tai Felton
-- Player name: Tai Felton
-- Player ID: 12496
-- Position: WR
-- NFL team: MIN
-- Championship AVI (C-AVI, 0-100): 26.0
-- Dynasty AVI (D-AVI, 0-100): 45.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Trey Lance
