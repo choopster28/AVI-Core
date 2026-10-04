@@ -1,5 +1,43 @@
 [
   {
+    "id": "mutgf62a-46f6d14f",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Khalil Shakir",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          },
+          {
+            "name": "Malik Nabers",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1791096180850,
+    "updatedAt": 1791096180850,
+    "expiresAt": 1791528180850,
+    "status": "queued"
+  },
+  {
     "id": "mutgce7e-c3f8c7f5",
     "phase": "initial",
     "mode": "shop_assets",
