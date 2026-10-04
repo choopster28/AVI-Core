@@ -1,5 +1,39 @@
 [
   {
+    "id": "mutz1mcm-ab61c2b5",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Northside Kings",
+      "goal": "Rebuild",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Bhayshul Tuten",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 2nd · King Jesus · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 3rd · King Jesus · Projected mid range (3.06–3.09)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1791127461478,
+    "updatedAt": 1791127461478,
+    "expiresAt": 1791559461478,
+    "status": "queued"
+  },
+  {
     "id": "mungevfn-960c4b1b",
     "phase": "initial",
     "mode": "propose_trade",
