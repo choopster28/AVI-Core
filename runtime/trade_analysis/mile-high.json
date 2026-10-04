@@ -1,5 +1,363 @@
 [
   {
+    "id": "mutz1mcm-ab61c2b5",
+    "createdAt": 1791127516057,
+    "expiresAt": 1791559516057,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Northside Kings ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Northside Kings",
+      "goal": "Rebuild",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Bhayshul Tuten",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 2nd · King Jesus · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 3rd · King Jesus · Projected mid range (3.06–3.09)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Northside Kings (Rebuild) is proposing to send 23-year-old starting RB Bhayshul Tuten (C-AVI: 72.0, D-AVI: 87.9) to Mile High Royal Lions (Win Championship) for a 2027 2nd-round pick and a 2027 3rd-round pick. While liquidating a running back for future capital aligns with a rebuilding timeline, the submitted price is a significant underpay. Tuten is a young, high-volume starting back in Jacksonville with elite efficiency metrics whose dynasty value commands a 1st-round pick. Mile High Royal Lions would eagerly accept this deal as constructed, but Northside Kings should revise the offer to demand Mile High's 2028 1st-round pick plus secondary capital.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Northside Kings ",
+              "position": "RB",
+              "age": 23,
+              "cavi": 72,
+              "davi": 87.9,
+              "publicMarket": 75,
+              "leagueMarket": 87.9
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2027 2nd · King Jesus · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2027 3rd · King Jesus · Projected mid range (3.06–3.09)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "A",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "The submitted offer heavily favors Mile High Royal Lions. Giving up an 87.9 D-AVI 23-year-old starting RB for 65.0 combined D-AVI in secondary draft picks represents a net loss of 22.9 dynasty value points for Northside Kings. A 2nd and 3rd round pick carry low odds of producing a player of Tuten's caliber."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Northside Kings",
+            "summary": "Revising the offer to receive Mile High Royal Lions' 2028 1st-round pick and 2027 3rd-round pick (95.8 total pick AVI) properly values Tuten as a cornerstone asset. Mile High Royal Lions gets a starting RB to cement their title push, while Northside Kings acquires a premium future 1st-round pick."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Removes Northside Kings' top scoring RB (72.0 C-AVI), forcing lower-ceiling depth into starting roles."
+            },
+            "dynastyOutlook": {
+              "score": -30,
+              "summary": "Net loss of 22.9 D-AVI. Rebuilding teams should accumulate high-ceiling assets rather than trading young starters for mid-round picks."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Weakens RB1 slot significantly; incoming 2027 draft picks provide zero immediate lineup contribution."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Reduces backfield depth to RJ Harvey, Kenny Gainwell, and MarShawn Lloyd."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Slightly increases future draft capital flexibility with an additional 2nd and 3rd round pick."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Surrenders a 23-year-old starting RB for sub-market pick compensation, creating a major hole in the backfield without securing a 1st-round pick."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Massively enhances title odds by adding a 72.0 C-AVI starting RB alongside Jahmyr Gibbs."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Gains a 23-year-old core offensive weapon (87.9 D-AVI) while only giving up secondary draft capital."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Immediately inserts Tuten into starting RB2 or FLEX slot, boosting weekly scoring ceiling."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Provides elite backfield insurance behind Jahmyr Gibbs and J.K. Dobbins in a 16-team league."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Gives up secondary 2027 draft picks, slightly reducing future trade currency."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Acquires a young, high-volume starting RB for a contender to fortify their championship run at a discount."
+            }
+          },
+          "explanation": "The submitted construction damages Northside Kings' portfolio by selling a premier 23-year-old RB for secondary picks. Mile High Royal Lions realizes a substantial net benefit across all competitive and lineup categories."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Reduces immediate lineup scoring by removing starting RB Bhayshul Tuten (72.0 C-AVI, 188.3 projected PPR points).",
+          "sideADynastyImpact": "Net loss of 22.9 D-AVI points. Surrenders an 87.9 D-AVI young running back for a 48.5 D-AVI 2nd and 16.5 D-AVI 3rd.",
+          "sideARosterImpact": "Leaves RJ Harvey as the primary remaining young back, leaving a noticeable void in the starting lineup.",
+          "sideBChampionshipImpact": "Significantly strengthens Mile High Royal Lions' championship pursuit by securing a high-touch starting RB (72.0 C-AVI).",
+          "sideBDynastyImpact": "Extremely positive dynasty trade for Mile High, converting 65.0 D-AVI in secondary pick capital into an 87.9 D-AVI foundational starter.",
+          "sideBRosterImpact": "Solves Mile High's thin RB depth behind Jahmyr Gibbs and J.K. Dobbins without subtracting a single active starter from their roster.",
+          "valueAssessment": "The proposed package is heavily skewed in favor of Mile High Royal Lions. In 16-team dynasty leagues, a 23-year-old starting RB commands a future 1st-round pick."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus values Bhayshul Tuten around RB23 overall, firmly inside the late 1st to early 2nd rookie pick valuation range. Trading him for a mid/late 2nd plus a 3rd is viewed as a substantial discount.",
+          "aviVsMarket": "AVI values Tuten at 87.9 D-AVI, matching public consensus that he is a rising sophomore starter in Jacksonville worth a premium draft pick.",
+          "relevantContext": [
+            "Tuten is 23 years old and serves as Jacksonville's primary early-down and goal-line running back.",
+            "In 16-team leagues, starting running backs with guaranteed workload carry immense trade value.",
+            "Mid-to-late 2nd and 3rd round picks carry low historical hit rates for replacing starting fantasy production."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions is an Elite Contender looking to win a championship. They have strong starters but sparse RB depth behind Gibbs and Dobbins, making them extremely eager to acquire Tuten.",
+          "packageFit": "The strategic motive for Northside Kings (trading an RB for draft picks during a rebuild) is sound, but the package quantity/tier is inadequate.",
+          "lineupReplacement": "Northside Kings cannot replace Tuten's weekly production internally without demoting FLEX efficiency. Mile High gains an immediate high-end starter.",
+          "competitiveWindowFit": "Fits Mile High's championship push perfectly. Northside Kings should demand 2028 1st-round capital to properly advance their rebuilding timeline.",
+          "positionalScarcity": "Starting NFL running backs are scarce in a 16-team format. Selling a 23-year-old starter for non-1st-round capital mismanages positional scarcity."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 100,
+          "classification": "Highly Realistic",
+          "explanation": "Mile High Royal Lions would accept this offer immediately, as it fills their primary roster need with a 23-year-old starting RB for below-market draft capital."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Trading Bhayshul Tuten fits Northside Kings' Rebuild goal, but selling a 23-year-old starting RB (87.9 D-AVI) for a 2027 2nd and 3rd is a major value loss. AVI recommends revising the offer to request Mile High Royal Lions' 2028 1st-round pick and 2027 3rd-round pick instead.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Northside Kings ",
+              "position": "RB",
+              "age": 23,
+              "cavi": 72,
+              "davi": 87.9,
+              "publicMarket": 75,
+              "leagueMarket": 87.9
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 Round 1 (Mile High Royal Lions)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2027 3rd · King Jesus · Projected mid range (3.06–3.09)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "whyUserShouldDoIt": "Secures a high-value 2028 1st-round pick (79.3 D-AVI) to serve as a true cornerstone for the rebuild, aligning asset age and draft capital with Northside Kings' long-term timeline.",
+          "whyOpponentMightAccept": "Mile High Royal Lions is in Win Championship mode and desperately needs RB depth to safeguard their title push. Trading a 2028 1st pick two years away for a 23-year-old starting RB in 2026 is a standard championship move."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Northside Kings ",
+              "position": "RB",
+              "age": 23,
+              "cavi": 72,
+              "davi": 87.9,
+              "publicMarket": 75,
+              "leagueMarket": 87.9
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 Round 1 (Mile High Royal Lions)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "A clean 1-for-1 swap exchanging Bhayshul Tuten for Mile High Royal Lions' 2028 1st-round pick. Provides Mile High with an immediate starting RB while securing a premier rebuild asset for Northside Kings."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Bhayshul Tuten draft NFL team",
+          "Bhayshul Tuten NFL",
+          "Bhayshul Tuten fantasy news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjvWi1UcjHfTcq3ysQtQuFu72JsVn2VkZnEjpvEOx_EP1rQ23c2nrsprvEm3pyQaqO5T-I8hk1U5BWh49ZJS2yWCYGkRJzha30nQ4cO4WuX2iI38WDEyuyvJyQYfA5Cem7pA==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTd-1Aznbu9hxmTST4QyUVITbYuSl5oqMi8XCh_BKxpy7z4ncH9svFe1wLCU9T9JiYLd3oZszXT835thrk3aFLEFQUDjkQr0LxjiEJCFdoOr51m95sBa34_OeTDytixd4s49-fFB5MjivIXpyenfDZHg==",
+            "title": "jaguars.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjMQYry8xFVj2tcVmXHzPGAfbfdUMfBmb09SYey9aIwJsS6FPgdWaMLP29sDevYJ4uEO_nGrbwSjAv0LaXXWFMXT6BBqr_ii_pudM50cXmxRGCEcf6mBJcH7Z7MTRomkM16Gr91c8ifQZCkd0bmG_i2YFjnt2pPw==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGiB1GcztlbFw4kQvfRUymf8904DvspTPV5fk28uvRdmSyyC7FD9jMMB3KBpdxuqvZ3w6uUeSaiEuyuWkyiaVvklSwcGmDZEhSlm8bDVYRD30IxOn3gfeyxLgOHQ6PEnmrb48EvsVPC2aWp7zpSpil3l0FCSj_XCquHIXCvrEGHuwOQuhf7-WpcoSS7aiJIi6jubVfakFxjIYiDybv",
+            "title": "jaguars.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmSyXJNwuh6WPe034wfl5dHTptmFN5j6Ka4VE9UJTTDJYMoBnKSbP7-MH4M10B8ELIml8Xg5zipIqApYuUA_QW8Gv3Z9mR_FXO9a5nYYcVVdGrpG03em0UMlMJgeavNcZVoo45TFW6t0NqDkELi07LReXXMkRC3FXetED8679j1ZfTpcWBE4qXnMxDpLYet1s3rX3KIUG8Na2wzK9KqcTJ-5fp",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtzpPiRoKqoucrEQj9fIh8_nVctRp43uXkufO8NI7aY7dhKw_0T9XpWs01RIMFyj3fO8Id1ArdU1iattmtxWuMAp4DaxrtMvGJk-qYsT97b82Kkp65wah_bduz_wrcZ-9NTMxRAjX1vD6UsfBWAUpTs4Va3yzbS1r8Mxr_56mIUmSbg93_n1QWbbJEZeg1rvwlVBsDWlUFhGy0Bw==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE564y1tYbQA0auH5WpOoQVoQ9IhYetYNVtm8zxPn4cyyRkBHQTBP7YcA7r9Xf6YhNz1xZgC4DhkuD_m7sMCFOQXZU0pP8b1gORl3sn2SG9Jx7clPI85TC4Fib0H7J1y13wujouu5avH5bHfhnM4c6KrHXgbe3J7sTS5YJoNp-mYGN8tBEcM6sQnN-fOm5X-bVnxqBqhkOnamXv3w==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuipaEWMtmNa8_Bt2fxS7_-Hzu01LZkb21Q5Jqlz2_u5mn2cpSqhwUSgs1xCVP5BYPfE6XqqqtlTk9UrrvohN-C8Pgwl6KzSIhMUQJZPqI2M0enM9bRm7z-Xd7fdJEG0ktbsw_GCo_LsPa2jpI2rFA",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIRQQKEUhpBaSIQzm9H4Zx0g_60NdFUgWj-tdwdfbPSgkGuA-kkThajnGXrkYSxJQTdjywdIevmZ0ru6qJUasNpAXqtn-N_VzOXP3uRJusKjqk4IdiGEMrYzJpWUUKs0lUmmA_Syg9ThKWZJpnV6i2KAEAbNiNhuqRvHmrKycFuPkYgpCmTRiJuBLTB0iwgXksv5ICWMKaoJLkjvRn_g==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKh1edASm7eMZ3y5he_zJkFjFKVLikjEx-j-mopogkg9gogFKppSveYq6TlvD9-NU-nqQsdpOyDE8nxxkhb7UVXYSkBvQKGMGN0wNQkpIhGyYfPpCGfAvdUiSeY3Wv6YvGc8FMGsWW33kpOYN2_0Y6RlSmf5MCPYCjjmSjR98DJcEEIg28qu8=",
+            "title": "nfl.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c62d8991dea634113bd52930a63c622d6808c3ad",
+        "aviCoreCommittedAt": "2026-10-04T11:32:17Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 80433,
+        "groundedMarketChars": 2427,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mungevfn-960c4b1b",
     "createdAt": 1790733424537,
     "expiresAt": 1791165424537,
