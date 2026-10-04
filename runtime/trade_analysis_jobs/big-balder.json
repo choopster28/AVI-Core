@@ -1,5 +1,47 @@
 [
   {
+    "id": "mutgkmdo-e7eacf5d",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Khalil Shakir",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Goblins · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          },
+          {
+            "name": "Malik Nabers",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1791096435276,
+    "updatedAt": 1791096435276,
+    "expiresAt": 1791528435276,
+    "status": "queued"
+  },
+  {
     "id": "mutgf62a-46f6d14f",
     "phase": "initial",
     "mode": "analyze_trade",
