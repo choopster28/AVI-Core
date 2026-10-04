@@ -18,9 +18,327 @@
       "maxResults": 3
     },
     "createdAt": 1791096051434,
-    "updatedAt": 1791096052532,
+    "updatedAt": 1791096112015,
     "expiresAt": 1791528051434,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Win Championship) enters the trade market looking to leverage elite tight end surplus in Trey McBride (C-AVI: 96.0, D-AVI: 92.5). Targeting Corgi Loaf Baking Co. (Increase Championship Odds) creates an ideal trade pairing. Corgi Loaf possesses ascending star tight end Tyler Warren alongside elite receiving assets like Jaxon Smith-Njigba and DeVonta Smith. By packaging McBride with mid-tier draft capital or complementary depth, Big Balder Brand can re-allocate elite value into starting wide receiver or running back power without surrendering top-tier tight end production.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite positional anchor at TE with Trey McBride (C-AVI: 96.0)",
+            "High-ceiling dual-threat QB play with Jayden Daniels (C-AVI: 82.5)",
+            "Stacked offensive foundation with Saquon Barkley, A.J. Brown, Rashee Rice, and Nico Collins"
+          ],
+          "priorityNeeds": [
+            "Optimizing surplus elite tight end value into starting WR/RB firepower",
+            "Maximizing current-year roster concentration for a championship push"
+          ],
+          "tradeableSurplus": [
+            "Trey McBride (Elite positional surplus)"
+          ],
+          "constraintsApplied": [
+            "Target team scoped strictly to Corgi Loaf Baking Co.",
+            "Every candidate player must belong to the league-relative starter/FLEX pool",
+            "Package must advance both Big Balder Brand's 'Win Championship' goal and Corgi Loaf Baking Co.'s 'Increase Championship Odds' goal"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 1,
+          "managersEliminated": 0,
+          "eliminationReasons": []
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Tyler Warren",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "TE",
+                "age": 24,
+                "cavi": 93.8,
+                "davi": 91,
+                "publicMarket": 88,
+                "leagueMarket": 93.8
+              },
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 27,
+                "cavi": 89.1,
+                "davi": 92.8,
+                "publicMarket": 90,
+                "leagueMarket": 89.1
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Trey McBride",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "TE",
+                "age": 26,
+                "cavi": 96,
+                "davi": 92.5,
+                "publicMarket": 95,
+                "leagueMarket": 96
+              },
+              {
+                "name": "2027 Round 2 Pick",
+                "assetType": "pick",
+                "owner": "Big Balder Brand",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Tier-Down Roster Re-allocation",
+            "strategicGoal": "Acquire high-end WR starter quality while preserving TE1-level output with ascending star Tyler Warren.",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 88,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "You capture an elite WR2/WR1 crossover asset in DeVonta Smith (C-AVI: 89.1) while taking only a minimal hit at tight end by stepping into Tyler Warren (C-AVI: 93.8). This increases your net starting lineup weekly output.",
+            "whyOpponentMightAccept": "Corgi Loaf Baking Co. acquires the undisputed premier tight end in dynasty fantasy football in Trey McBride, raising their positional ceiling while netting future draft equity in the 2027 second-rounder.",
+            "championshipImpact": "Increases overall weekly starting lineup projection by inserting DeVonta Smith directly into the FLEX/WR rotation while keeping tight end scoring near peak levels.",
+            "dynastyImpact": "Nets two cornerstone-tier young players (Warren age 24, Smith age 27) in exchange for one elite TE and a secondary draft pick.",
+            "rosterImpact": "Improves starting lineup depth and protects against injury at receiver without sacrificing tight end dominance.",
+            "publicMarketContext": "Trey McBride commands the highest market premium at TE across dynasty formats. Public consensus views Tyler Warren as a fast-rising sophomore TE1 and DeVonta Smith as a locked-in high-end WR2.",
+            "risks": [
+              "Tyler Warren experiencing sophomore regression relative to McBride's historic target share floor."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Trey McBride straight up for Tyler Warren and DeVonta Smith, emphasizing McBride's status as the absolute TE1.",
+              "acceptableConcession": "Include the 2027 2nd-round pick (orig Gringo's Goblins) to bridge the valuation gap and seal agreement.",
+              "walkAwayPoint": "If Corgi Loaf demands a 2027 or 2028 1st-round pick on top of McBride, walk away."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Tyler Warren",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "TE",
+                "age": 24,
+                "cavi": 93.8,
+                "davi": 91,
+                "publicMarket": 88,
+                "leagueMarket": 93.8
+              },
+              {
+                "name": "Cam Skattebo",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 24,
+                "cavi": 82.5,
+                "davi": 89.9,
+                "publicMarket": 85,
+                "leagueMarket": 82.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Trey McBride",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "TE",
+                "age": 26,
+                "cavi": 96,
+                "davi": 92.5,
+                "publicMarket": 95,
+                "leagueMarket": 96
+              },
+              {
+                "name": "Khalil Shakir",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 26,
+                "cavi": 62.7,
+                "davi": 74.9,
+                "publicMarket": 68,
+                "leagueMarket": 62.7
+              }
+            ],
+            "scenarioType": "Starter Positional Re-balance",
+            "strategicGoal": "Swap TE1 for ascending TE2 while bolstering running back starter/FLEX depth with rookie standout Cam Skattebo.",
+            "scoring": {
+              "availability": 23,
+              "opposingGmMotivation": 20,
+              "packageMatch": 17,
+              "lineupReplacement": 13,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 81,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "You bolster your running back room with high-volume rookie Cam Skattebo (C-AVI: 82.5) while maintaining an elite TE starter in Tyler Warren.",
+            "whyOpponentMightAccept": "Corgi Loaf Baking Co. upgrades from Warren to McBride at tight end while obtaining dependable wide receiver depth in Khalil Shakir.",
+            "championshipImpact": "Protects championship odds by adding starting RB insulation behind Saquon Barkley and Omarion Hampton.",
+            "dynastyImpact": "Adds two high-value 24-year-old dynasty starters in Warren and Skattebo.",
+            "rosterImpact": "Strengthens RB depth without causing any significant drop-off at tight end.",
+            "publicMarketContext": "Cam Skattebo has emerged as a focal point in the Giants offense, driving up his market appeal. Tyler Warren's target volume reinforces his high dynasty floor.",
+            "risks": [
+              "Skattebo experiencing rookie workload volatility late in the season."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Trey McBride and Khalil Shakir for Tyler Warren and Cam Skattebo.",
+              "acceptableConcession": "Include a future 3rd-round pick if Corgi Loaf seeks extra draft incentive.",
+              "walkAwayPoint": "Walk away if Corgi Loaf insists on receiving a 1st-round pick or higher-tier WR like Rashee Rice."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba 2026 season stats news fantasy",
+          "Tyler Warren news 2026 NFL fantasy",
+          "Trey McBride 2026 stats news fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-6a7eo1UKmCGivOp6qfXT2gRaF56x2BVpsQKC-y3AGzCXyn2VOZc_RS55lfPeS1vD52xC24Ze1LvDup337RzUTt2HyEySPVsE7zazXLGsOTHaNFnXsvMKUYw66GVG-4TtBwUB4IRse6BNPxlpc2ilMZwBw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw_0k-0mFC78PGthnaVvOMxbEUlYaqv-bvw5SISyMpuhTO4C_XK60FBW3CscDH5QDy1jMzXCBRV1M4Nq7LFk68MKxUZJu6feIoiHJnSPzds-GHPcbrrVj_lYxFGZ05q2aU7HoImXeSBhSQ8AHPC_qkMvtXpraVMGVOl-oJ-MuAgLRMUOgPcjOFCDhdsi8JkPlbGlzCgyPNn0ui1A==",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1JFu1Y3p5lO5kAfTBG9VECFLzAgRgA2h1cfyqocac-97wFjtq-brhaWXpopbvGOr7qKguyy2dxAdOwr5EJ5CySlgHnorkCVG_fiOdyuPQlDT6wPxo-YKB_5Xo2qP0CvJPatW5IbpRhPsfoEL-goRCInWP6XRkqSXrc6A=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6TAwXZ-uXc_ypRFRSocxuCcjSRfeab5JCEens-h6t5SsuJ_XQwfCs6PxOL3KLGTbyJNwyFrQQPX1ROTvOW3-4hoQkvreQhEdJojsx2Ta9JCjmC0XCkhrNtb7cvYXFEHOlm8n6Sw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI68mCF1C2OWWCi3xbmyv752FvtWEzMnNnQK6z-Jvksfcj2DsEsjqQsr21tOSuxalxNrkkFjG2Yf59Onvx25dUgksPKrfOHNl85Y2WMugZynPH7WRqCLrOb9e41RzR7ogsdX2O_W3SeHqN8_FCjIRP",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCCB65WoVT9u88oxHQi34lBi36CHhofnLC32vjcvCPf4Nyn3WfSRMpJ1ZC4gt9BC7dmoUENY1y9DPX6e5Q-AbN9eiR2elRsn_q0pigrV_IfKjpnZzSmCD6qk6bMMig5t3BbJwxrfr5xewknCU=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhAb6bB5dBB4s7VaBwuSaoyEQSTXExerv6YmSnKXfFFG2XCCwfMM93OmIUOHeG9_En5Bm_duMmPy1VAWRI3PPYWipYKCwQyKC9mgPdyxDKN6PLvaW4y4mgaGlJp78wCSnr59GP4mXR",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8TBzBybmyAOFpIdqzCR7lFApxrzxXqcy63GQokP-81ZK2VweBcKd3qKc-EUCShqY310gCaJNH6oBwCNNRWu3ihBFkmYkg04bL4JBTV1ua0r0owASCnttG3LGWBrbjrV5MD8RTTJVRqG4KxcwqwihYajJ4jJ4yKHU8Hpq3p8bhrRXMa4tGFFE=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcpDkMJS-jyVPTFncGODGDd3fEGa3S4R86W6Xwdq1XPQ1277Q7sKNaqPZG3eOyfM_SWzbHTtVwr9vVGEJvzh7b7Bp9SQix-3qP2hbN_1LF_dN8ov6U8cc8TraDHQmA1k_naXforG-viLM4xZkJ3833bAHTVpjuAW0BX_GmbYEzIw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfHyK4IkK_Xigpnypli2nOWCIid6neQvpAOS9wc248u0J-jKm2QH6nlLA-rR4hkz1UScZ1TwHkflUtorGazHFH0Ns_u-73vBzD7xfO0Jh4Yv9by1DVFA2T8l1FbZSuzWdyjnsqVv5EZY_AmsXnO3mUC0_mS-yvRywoB8w=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgCOmwoGBt9qHfohjHiBIIdP5va_joRVbN43uQrTOX2DlndzKGxenW4aoGiwGOLz6wZpogFd0McyNPy2SOn7XOosGD_u3uZPqZVARp7YgDFbia_WGIGfAmhfCZgRe1FxuydXUQcolKU8OU5ayBQkICyufrjw==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGNzC6p7ek4TEQAGvnTrJRAL2BpFzkSUkhZSkaORDu75-P_d6B4Yhx0oDEXdjcg8nDKjk7BxkA6zIHldg3fkHev5WM2d93JY4IonWebystJlRNjAp0CzjKuhxjlMW9Ss3jwU-rrGaAU62aTsaLgHScL37705c=",
+            "title": "fantasyfootballcalculator.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Tyler Warren",
+          "Jaxon Smith-Njigba",
+          "Trey McBride"
+        ],
+        "aviCoreCommitSha": "0232f7cabddf03ecdaae24071d5d2d10df6aa20d",
+        "aviCoreCommittedAt": "2026-10-04T03:27:12Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 537350,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "muom81wd-d12aee90",
