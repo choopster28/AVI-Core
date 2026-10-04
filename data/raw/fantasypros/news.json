@@ -3,6 +3,59 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-03 22:44:13",
+      "created_formated": "Sat, Oct 3rd 10:44pm UTC",
+      "desc": "The Panthers elevated WR Ja'Seem Reed from the practice squad.",
+      "id": 611993,
+      "impact": "This move puts into question the status of WR Jalen Coker, who remains listed as questionable. ",
+      "link": "https://www.fantasypros.com/nfl/news/611993/jaseem-reed-elevated-from-panthers-practice-squad.php",
+      "player_id": 27896,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Ja'seem Reed elevated from Panthers practice squad"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-03 22:43:17",
+      "created_formated": "Sat, Oct 3rd 10:43pm UTC",
+      "desc": "The Panthers placed WR Xavier Legette on injured reserve.",
+      "id": 611992,
+      "impact": "Legette was already ruled out for Week 4. He remains off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/611992/xavier-legette-knee-placed-on-ir.php",
+      "player_id": 26136,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Xavier Legette (knee) placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-03 22:41:20",
+      "created_formated": "Sat, Oct 3rd 10:41pm UTC",
+      "desc": "The Seahawks placed RB Jadarian Price on injured reserve.",
+      "id": 611991,
+      "impact": "Price aggravated a chest injury during Wednesday's practice. He will now miss at least four games. Emanuel Wilson and George Holani will lead the backfield with Zach Charbonnet returning as early as next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/611991/jadarian-price-chest-placed-on-ir.php",
+      "player_id": 27329,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Jadarian Price (chest) placed on IR"
+    },
+    {
       "author": "Nate Miller",
       "categories": [
         "Commentary",
@@ -397,60 +450,6 @@
       "sport_id": "NFL",
       "team_id": "LAC",
       "title": "Derwin James Jr. (hamstring) listed questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-02 21:22:39",
-      "created_formated": "Fri, Oct 2nd 9:22pm UTC",
-      "desc": "Keaton Mitchell (ankle) is without an injury designation for Sunday's game against the Seattle Seahawks.",
-      "id": 611955,
-      "impact": "The veteran is going to be good to go on Sunday, despite being listed on the injury report throughout the week due to an ankle issue. He will continue to play second fiddle behind Omarion Hampton on this offense, although his exact snap share remains worth keeping an eye on this week.",
-      "link": "https://www.fantasypros.com/nfl/news/611955/keaton-mitchell-ankle-without-injury-designation-sunday.php",
-      "player_id": 25360,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Keaton Mitchell (ankle) without injury designation for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-02 21:21:12",
-      "created_formated": "Fri, Oct 2nd 9:21pm UTC",
-      "desc": "Brenen Thompson (quad) will be unavailable for Sunday's game against the Seattle Seahawks.",
-      "id": 611954,
-      "impact": "Thompson is not going to be available to play on Sunday due to the quad injury that he's dealing with. The Chargers are set to be thinner than usual at the wideout position this week, especially if Ladd McConkey (foot) is also ruled out for this matchup against Seattle.",
-      "link": "https://www.fantasypros.com/nfl/news/611954/brenen-thompson-quad-unavailable-sunday.php",
-      "player_id": 28133,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Brenen Thompson (quad) unavailable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-02 21:19:49",
-      "created_formated": "Fri, Oct 2nd 9:19pm UTC",
-      "desc": "Charlie Kolar (arm) won't play in Sunday's game against the Seattle Seahawks.",
-      "id": 611953,
-      "impact": "The veteran is going to be sidelined for another game on Sunday as he continues to recover from an arm injury. Fantasy managers should continue to expect increased snaps for Oronde Gadsden II until Kolar is back in the lineup.",
-      "link": "https://www.fantasypros.com/nfl/news/611953/charlie-kolar-arm-wont-play-sunday.php",
-      "player_id": 22756,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Charlie Kolar (arm) won't play Sunday"
     }
   ],
   "public_api": true,
