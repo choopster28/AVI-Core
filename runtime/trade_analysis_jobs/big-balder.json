@@ -1,5 +1,28 @@
 [
   {
+    "id": "mutgce7e-c3f8c7f5",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "assetsToShop": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1791096051434,
+    "updatedAt": 1791096051434,
+    "expiresAt": 1791528051434,
+    "status": "queued"
+  },
+  {
     "id": "muom81wd-d12aee90",
     "phase": "initial",
     "mode": "analyze_trade",
