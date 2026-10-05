@@ -1,203 +1,41 @@
 {
-  "count": 22,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-04 15:45:26",
-      "created_formated": "Sun, Oct 4th 3:45pm UTC",
-      "desc": "Jets TE Kenyon Sadiq (back) is officially active for a Week 4 matchup with the Bears.",
-      "id": 612029,
-      "impact": "Sadiq was limited in each practice session this week but has been cleared to play Sunday. The rookie should see plenty of opportunities with WR Adonai Mitchell and RB Breece Hall both inactive Sunday.  ",
-      "link": "https://www.fantasypros.com/nfl/news/612029/kenyon-sadiq-back-officially-active-week-4.php",
-      "player_id": 26055,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Kenyon Sadiq (back) officially active for Week 4"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-04 15:43:31",
-      "created_formated": "Sun, Oct 4th 3:43pm UTC",
-      "desc": "Patriots TE Eli Raridon (thigh) is officially active for a Week 4 matchup with the Bills.",
-      "id": 612028,
-      "impact": "Raridon missed Week 3 with a thigh injury that he suffered in Week 2, but is good to go for key divisional matchup with the Bills. The rookie tight end should continue to rotate in behind veteran Hunter Henry. ",
-      "link": "https://www.fantasypros.com/nfl/news/612028/eli-raridon-thigh-officially-active-week-4.php",
-      "player_id": 28154,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Eli Raridon (thigh) officially active for Week 4"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-04 15:41:21",
-      "created_formated": "Sun, Oct 4th 3:41pm UTC",
-      "desc": "Ravens WR Chris Moore (ankle) is officially inactive for a Week 4 matchup with the Titans.",
-      "id": 612027,
-      "impact": "Moore was limited in each session of practice this week and was considered questionable to play Sunday. The Ravens will likely turn to Devontez Walker to serve as a replacement for Moore in the lineup. ",
-      "link": "https://www.fantasypros.com/nfl/news/612027/chris-moore-ankle-officially-inactive-week-4.php",
-      "player_id": 15654,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Chris Moore (ankle) officially inactive for Week 4 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-04 15:39:28",
-      "created_formated": "Sun, Oct 4th 3:39pm UTC",
-      "desc": "Ravens WR Zay Flowers (hamstring) is officially active for a Week 4 matchup with the Titans. ",
-      "id": 612026,
-      "impact": "Flowers was tagged as questionable after being limited in practice twice this week. Fantasy managers should expect the Ravens' WR1 to see his usual share of targets against a struggling Titans' team. ",
-      "link": "https://www.fantasypros.com/nfl/news/612026/zay-flowers-hamstring-officially-active-week-4.php",
-      "player_id": 22916,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Zay Flowers (hamstring) officially active for Week 4 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-04 15:37:40",
-      "created_formated": "Sun, Oct 4th 3:37pm UTC",
-      "desc": "Eagles OT Lane Johnson (personal) is officially inactive for Week 4.",
-      "id": 612025,
-      "impact": "Johnson was a late add to the injury report and tagged as questionable Sunday. With both Lane and Fred Johnson out, the Eagles are very thin on the bench at offensive tackle against the Rams. ",
-      "link": "https://www.fantasypros.com/nfl/news/612025/lane-johnson-personal-officially-inactive-week-4.php",
-      "player_id": 15290,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Lane Johnson (personal) officially inactive for Week 4"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-04 15:35:50",
-      "created_formated": "Sun, Oct 4th 3:35pm UTC",
-      "desc": "Bills RB Ray Davis (hamstring) is officially active for a Week 4 matchup with the Patriots.",
-      "id": 612024,
-      "impact": "Davis was a mid-week addition to the injury report and was questionable to play Sunday. Davis and Ty Johnson will continue to backup James Cook in a divisional matchup with New England. ",
-      "link": "https://www.fantasypros.com/nfl/news/612024/ray-davis-hamstring-officially-active-week-4.php",
-      "player_id": 26191,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Ray Davis (hamstring) officially active for Week 4"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-04 15:33:54",
-      "created_formated": "Sun, Oct 4th 3:33pm UTC",
-      "desc": "Titans RB Tyjae Spears (ankle) is officially active for a Week 4 matchup with the Ravens. ",
-      "id": 612023,
-      "impact": "Spears was listed as questionable to play Sunday, but his full practice Friday was encouraging. He will work with Tony Pollard out of the Titans' backfield in a tough matchup against Baltimore. ",
-      "link": "https://www.fantasypros.com/nfl/news/612023/tyjae-spears-ankle-officially-active-week-4.php",
-      "player_id": 25323,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tyjae Spears (ankle) officially active for Week 4 "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-04 15:20:00",
-      "created_formated": "Sun, Oct 4th 3:20pm UTC",
-      "desc": "Marcus Mariota (knee) has been ruled out for the remainder of the Week 4 contest between the Washington Commanders and Indianapolis Colts.",
-      "id": 612021,
-      "impact": "Mariota will not return after suffering a right knee injury on a first-quarter sack, with rookie Athan Kaliakmanis taking over under center against the Colts for head coach Dan Quinn.",
-      "link": "https://www.fantasypros.com/nfl/news/612021/marcus-mariota-knee-ruled-out-sunday.php",
-      "player_id": 13890,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Marcus Mariota (knee) ruled out Sunday "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-04 14:24:33",
-      "created_formated": "Sun, Oct 4th 2:24pm UTC",
-      "desc": "Puka Nacua (groin) is expected to receive a full workload for the Los Angeles Rams against the Philadelphia Eagles Sunday according to Adam Schefter.",
-      "id": 612020,
-      "impact": "Nacua has missed the last games due to groin and hip injuries, but seems poised for a return to a major role in the Los Angeles passing attack barring any setbacks for head coach Sean McVay against the Eagles Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/612020/puka-nacua-groin-planning-on-full-workload-sunday.php",
-      "player_id": 23180,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Puka Nacua (groin) planning on full workload Sunday "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-04 13:42:27",
-      "created_formated": "Sun, Oct 4th 1:42pm UTC",
-      "desc": "Baker Mayfield (thumb) is expected to miss between three and six weeks according to Adam Schefter.",
-      "id": 612018,
-      "impact": "Mayfield's timeline remains dependent on the quarterback's ability to grip the football according to Schefter, suffering the injury in Week 3. Rookie signal caller Jalon Daniels will start behind center for head coach Todd Bowles beginning in Week 4 against the Green Bay Packers.",
-      "link": "https://www.fantasypros.com/nfl/news/612018/baker-mayfield-thumb-to-miss-extended-time.php",
-      "player_id": 17237,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Baker Mayfield (thumb) to miss extended time"
-    },
-    {
-      "author": "Chris Schommer",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News"
       ],
-      "created": "2026-10-04 13:11:46",
-      "created_formated": "Sun, Oct 4th 1:11pm UTC",
-      "desc": "Austin Ekeler is active for Week 4 for the Washington Commanders against the Indianapolis Colts according to John Keim.",
-      "id": 612017,
-      "impact": "Ekeler will suit up after being unable being signed to the active roster earlier in the week, with the veteran running back looking to make an impact out of the Washington backfield behind Jacory Croskey-Merritt and Kaytron Allen with Rachaad White sidelined for head coach Dan Quinn against the Colts.",
-      "link": "https://www.fantasypros.com/nfl/news/612017/austin-ekeler-active-week-4.php",
-      "player_id": 16483,
+      "created": "2026-10-04 23:14:21",
+      "created_formated": "Sun, Oct 4th 11:14pm UTC",
+      "desc": "Devin White (healthy scratch) is inactive for the Lions game against the Panthers.",
+      "id": 612094,
+      "impact": "White used to be a tackling machine, but has struggled to find the field over the last few years. He has had limited snaps for Detroit over the first two weeks, but will now be inactive for the second straight week.",
+      "link": "https://www.fantasypros.com/nfl/news/612094/devin-white-healthy-scratch-inactive-against-panthers.php",
+      "player_id": 18204,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Austin Ekeler active for Week 4"
+      "team_id": "DET",
+      "title": "Devin White (healthy scratch) inactive against Panthers"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-04 21:14:41",
+      "created_formated": "Sun, Oct 4th 9:14pm UTC",
+      "desc": "Chiefs WR Rashee Rice is questionable to return against the Raiders with a hamstring injury. ",
+      "id": 612059,
+      "impact": "Rice suffered the injury after a reception and hobbled off the field. Fantasy managers should expect the team to provide an update after halftime. ",
+      "link": "https://www.fantasypros.com/nfl/news/612059/rashee-rice-hamstring-questionable-to-return.php",
+      "player_id": 23113,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "Rashee Rice (hamstring) questionable to return"
     },
     {
       "author": "Garrett Ball",
@@ -222,180 +60,397 @@
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Injury",
+        "Breaking"
       ],
-      "created": "2026-10-04 12:23:01",
-      "created_formated": "Sun, Oct 4th 12:23pm UTC",
-      "desc": "Jalen Coker (quad) who is listed as questionable due to a quad injury, is unlikely to play Sunday against the Lions.",
-      "id": 612015,
-      "impact": "If Coker sits, Tetairoa McMillan and Darren Waller are priority starts against a weak Lions secondary in a game that profiles as a shootout. Brycen Tremayne is another name to watch in deeper leagues, as he will likely see an aexpanded role if Coker does in fact sit.",
-      "link": "https://www.fantasypros.com/nfl/news/612015/jalen-coker-quad-unlikely-to-play-on-sunday.php",
+      "created": "2026-10-04 23:03:35",
+      "created_formated": "Sun, Oct 4th 11:03pm UTC",
+      "desc": "Jalen Coker (quad) is inactive for the Panthers game against the Lions on Sunday night.",
+      "id": 612093,
+      "impact": "With Coker out due to his quad injury, Tetairoa McMillan and Darren Waller will operate as the primary one-two for the Carolina passing game. Brycen Tremayne is a sneaky flex start as he will operate as the Panthers WR2.",
+      "link": "https://www.fantasypros.com/nfl/news/612093/jalen-coker-quad-inactive-on-sunday-against-lions.php",
       "player_id": 26403,
       "sport_id": "NFL",
       "team_id": "CAR",
-      "title": "Jalen Coker (quad) unlikely to play on Sunday"
+      "title": "Jalen Coker (quad) inactive on Sunday against Lions"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-04 12:14:43",
-      "created_formated": "Sun, Oct 4th 12:14pm UTC",
-      "desc": "Ashton Dulin (ankle) is active for Week 4 for the Indianapolis Colts against the Washington Commanders.",
-      "id": 612014,
-      "impact": "Dulin will take the field after logging full practice sessions Thursday and Friday while carrying a questionable designation into the weekend, poised for an uptick in snaps with Keenan Allen ruled out earlier for the Week 4 contest for head coach Shane Steichen.",
-      "link": "https://www.fantasypros.com/nfl/news/612014/ashton-dulin-ankle-active-week-4.php",
-      "player_id": 18656,
+      "created": "2026-10-04 22:44:45",
+      "created_formated": "Sun, Oct 4th 10:44pm UTC",
+      "desc": "The Bills D/ST allowed 269 passing yards, 143 rushing yards, and 29 points in the loss to the Patriots. ",
+      "id": 612092,
+      "impact": "The Bills' defense tallied one sack, one interception, and one fumble recovery in the loss Sunday. Despite the two turnovers, the Bills could not stop a late comeback by Drake Maye in the Patriots. The Bills will travel to Los Angeles to take on the Rams in Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612092/bills-dst-allows-29-points-week-4-loss.php",
+      "player_id": 8030,
       "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Ashton Dulin (ankle) active for Week 4"
+      "team_id": "BUF",
+      "title": "Bills D/ST allows 29 points in Week 4 loss"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-10-04 12:08:17",
-      "created_formated": "Sun, Oct 4th 12:08pm UTC",
-      "desc": "Terry McLaurin (hamstring) is officially inactive for Week 4 for the Washington Commanders against the Indianapolis Colts according to Ian Rapoport.",
-      "id": 612013,
-      "impact": "McLaurin will not suit up after being unable to progress throughout the week from a hamstring injury suffered in Week 3. Veteran Stefon Diggs slides into a WR1 role for head coach Dan Quinn, with Antonio Williams also expected to see increased targets against the Colts Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/612013/terry-mclaurin-hamstring-inactive-week-4.php",
-      "player_id": 18466,
+      "created": "2026-10-04 22:42:48",
+      "created_formated": "Sun, Oct 4th 10:42pm UTC",
+      "desc": "Tyler Bass connected on both of his field goal attempts and both extra point attempts in the loss to the Patriots. ",
+      "id": 612091,
+      "impact": "Bass connected on field goal attempts of 27 and 38 yard field goals in the loss to New England. Bass is 6-for-6 on field goal attempts and has missed on extra point so far this season. Bass and the Bills will head on the road to take on the Rams in Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612091/tyler-bass-perfect-week-4.php",
+      "player_id": 19760,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Terry McLaurin (hamstring) inactive for Week 4"
+      "team_id": "BUF",
+      "title": "Tyler Bass perfect in Week 4 "
     },
     {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-03 22:44:13",
-      "created_formated": "Sat, Oct 3rd 10:44pm UTC",
-      "desc": "The Panthers elevated WR Ja'Seem Reed from the practice squad.",
-      "id": 611993,
-      "impact": "This move puts into question the status of WR Jalen Coker, who remains listed as questionable. ",
-      "link": "https://www.fantasypros.com/nfl/news/611993/jaseem-reed-elevated-from-panthers-practice-squad.php",
-      "player_id": 27896,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Ja'seem Reed elevated from Panthers practice squad"
-    },
-    {
-      "author": "Ari Koslow",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-03 22:43:17",
-      "created_formated": "Sat, Oct 3rd 10:43pm UTC",
-      "desc": "The Panthers placed WR Xavier Legette on injured reserve.",
-      "id": 611992,
-      "impact": "Legette was already ruled out for Week 4. He remains off the fantasy radar. ",
-      "link": "https://www.fantasypros.com/nfl/news/611992/xavier-legette-knee-placed-on-ir.php",
-      "player_id": 26136,
+      "created": "2026-10-04 22:41:07",
+      "created_formated": "Sun, Oct 4th 10:41pm UTC",
+      "desc": "Dalton Kincaid caught 1-of-2 targets for seven yards in the loss to the Patriots. ",
+      "id": 612090,
+      "impact": "Kincaid set new season lows in all receiving metrics in the loss Sunday. Fantasy managers will hope that Kincaid bounces back in a Week 5 matchup against the Rams.  ",
+      "link": "https://www.fantasypros.com/nfl/news/612090/dalton-kincaid-quiet-week-4.php",
+      "player_id": 25247,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Xavier Legette (knee) placed on IR"
+      "team_id": "BUF",
+      "title": "Dalton Kincaid quiet in Week 4 "
     },
     {
-      "author": "Ari Koslow",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-03 22:41:20",
-      "created_formated": "Sat, Oct 3rd 10:41pm UTC",
-      "desc": "The Seahawks placed RB Jadarian Price on injured reserve.",
-      "id": 611991,
-      "impact": "Price aggravated a chest injury during Wednesday's practice. He will now miss at least four games. Emanuel Wilson and George Holani will lead the backfield with Zach Charbonnet returning as early as next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/611991/jadarian-price-chest-placed-on-ir.php",
-      "player_id": 27329,
+      "created": "2026-10-04 22:38:51",
+      "created_formated": "Sun, Oct 4th 10:38pm UTC",
+      "desc": "Keon Coleman caught 6-of-7 targets for 116 yards and a touchdown in the loss to the Patriots. ",
+      "id": 612089,
+      "impact": "Coleman found the end zone for the first time this season on a 34-yard touchdown reception in the fourth quarter. Coleman set a new season high in yardage and targets in the loss Sunday. Fantasy managers could see Coleman become a bigger part of the offense heading into Week 5 after this performance. ",
+      "link": "https://www.fantasypros.com/nfl/news/612089/keon-coleman-hauls-touchdown-week-4.php",
+      "player_id": 26019,
       "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Jadarian Price (chest) placed on IR"
+      "team_id": "BUF",
+      "title": "Keon Coleman hauls in a touchdown in Week 4 "
     },
     {
-      "author": "Nate Miller",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-10-03 15:22:34",
-      "created_formated": "Sat, Oct 3rd 3:22pm UTC",
-      "desc": "Keenan Allen (groin) has been ruled out for Sunday's game against the Commanders. ",
-      "id": 611990,
-      "impact": "Allen has been listed as questionable on Friday, but the veteran will indeed sit out Sunday's game. With both Allen and Alec Pierce out of action, the Colts are very thin at wide receiver. Look for Josh Downs and tight end Tyler Warren to be heavily targeted by QB Daniel Jones. Veterans Laquon Treadwell and Darius Slayton could be in the mix as well. ",
-      "link": "https://www.fantasypros.com/nfl/news/611990/keenan-allen-groin-out-week-4.php",
-      "player_id": 11616,
+      "created": "2026-10-04 22:36:36",
+      "created_formated": "Sun, Oct 4th 10:36pm UTC",
+      "desc": "Khalil Shakir caught 7-of-8 targets for 82 yards in the Bills loss to the Patriots. ",
+      "id": 612088,
+      "impact": "Shakir led the team in receptions and targets in the loss Sunday. All three marks are new season highs for Shakir, a potential positive sign for fantasy managers that have rostered him in a tough season. Shakir and the Bills will take on the Rams in Week 5.  ",
+      "link": "https://www.fantasypros.com/nfl/news/612088/khalil-shakir-hauls-seven-passes-week-4.php",
+      "player_id": 23748,
       "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Keenan Allen (groin) out for Week 4"
+      "team_id": "BUF",
+      "title": "Khalil Shakir hauls in seven passes in Week 4 "
     },
     {
-      "author": "Nate Miller",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-03 15:17:35",
-      "created_formated": "Sat, Oct 3rd 3:17pm UTC",
-      "desc": "Justin Jefferson (ankle) optimistic about returning in Week 5. ",
-      "id": 611989,
-      "impact": "Jefferson has already been ruled out for Week 4, but the Vikings are planning to try to get him back on the field for Week 5's matchup with the Saints. Jefferson is still rehabbing his injured ankle this weekend and hopes to return to the practice field next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/611989/justin-jefferson-ankle-aiming-week-5-return.php",
-      "player_id": 19236,
+      "created": "2026-10-04 22:35:01",
+      "created_formated": "Sun, Oct 4th 10:35pm UTC",
+      "desc": "Ty Johnson rushed for three yards on one carry in the loss to the Patriots. He caught both of his targets for nine yards.",
+      "id": 612087,
+      "impact": "Johnson continues to operate as the change of pace back, but has limited fantasy value right now. Fantasy managers can leave Johnson on the waiver wire heading into a matchup with the Rams. ",
+      "link": "https://www.fantasypros.com/nfl/news/612087/ty-johnson-sees-three-touches-week-4.php",
+      "player_id": 18406,
       "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Justin Jefferson (ankle) aiming for Week 5 return "
+      "team_id": "BUF",
+      "title": "Ty Johnson sees three touches in Week 4 "
     },
     {
-      "author": "Ari Koslow",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-03 06:00:19",
-      "created_formated": "Sat, Oct 3rd 6:00am UTC",
-      "desc": "Aaron Donald is reportedly dealing with a \"mild\" back injury.",
-      "id": 611987,
-      "impact": "Donald can be considered as week-to-week for now. ",
-      "link": "https://www.fantasypros.com/nfl/news/611987/aaron-donald-dealing-with-mild-back-injury.php",
-      "player_id": 12205,
+      "created": "2026-10-04 22:34:05",
+      "created_formated": "Sun, Oct 4th 10:34pm UTC",
+      "desc": "James Cook III rushed for 75 yards and a touchdown on 12 carries in the loss to the Patriots. He caught both of his targets for eight yards.",
+      "id": 612086,
+      "impact": "Cook averaged 6.3 yards per carry on his 12 carries, providing the Bills with an incredibly efficient effort. Despite the strong performance, his 12 rushing attempts are a new season low. Cook and the Bills will take on the Rams in Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612086/james-cook-iii-finds-end-zone-week-4.php",
+      "player_id": 22958,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Aaron Donald dealing with 'mild' back injury"
+      "team_id": "BUF",
+      "title": "James Cook III finds the end zone in Week 4 "
     },
     {
-      "author": "Ari Koslow",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
-        "News"
+        "News",
+        "Results"
       ],
-      "created": "2026-10-03 05:59:23",
-      "created_formated": "Sat, Oct 3rd 5:59am UTC",
-      "desc": "QB Tyson Bagent is expected to start for the Bears in Week 4 against the Jets.",
-      "id": 611986,
-      "impact": "It is a bit surprising following a big performance for Case Keenum last week. Bagent took the majority of first-team reps this week. The announcement should be made official this weekend. ",
-      "link": "https://www.fantasypros.com/nfl/news/611986/tyson-bagent-expected-to-start-week-4-bears.php",
-      "player_id": 25321,
+      "created": "2026-10-04 22:32:20",
+      "created_formated": "Sun, Oct 4th 10:32pm UTC",
+      "desc": "Josh Allen completed 23-of-33 passes for 254 yards, one touchdown, and one interception in the loss to the Patriots. He rushed for four yards and a touchdown on five carries.",
+      "id": 612085,
+      "impact": "Allen turned in a solid day Sunday, including a touchdown pass to Keon Coleman late in the game. Allen was without DJ Moore, who left the game in the first half with a shoulder injury. His interception late in the game ended up a comeback and handed the Bills their first loss of the season. Allen and the Bills will travel to Los Angeles to take on the Rams in Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612085/josh-allen-accounts-two-touchdowns-week-4-loss.php",
+      "player_id": 17298,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Tyson Bagent expected to start in Week 4 for Bears"
+      "team_id": "BUF",
+      "title": "Josh Allen accounts for two touchdowns in Week 4 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:29:59",
+      "created_formated": "Sun, Oct 4th 10:29pm UTC",
+      "desc": "The Patriots D/ST allowed 253 passing yards, 91 rushing yards, and 26 points in a win over the Bills.",
+      "id": 612084,
+      "impact": "The Patriots' defense tallied one sack, one fumble recovery, and one interception in the win Sunday. The interception was on the final drive for the Bills, helping the Patriots seal their second win of the season. The Patriots will take on the Raiders in Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612084/patriots-dst-allows-26-points-week-4-win.php",
+      "player_id": 8180,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Patriots D/ST allows 26 points in Week 4 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:28:37",
+      "created_formated": "Sun, Oct 4th 10:28pm UTC",
+      "desc": "Andy Borregales made all three of his extra point attempts in the Patriots win over the Bills.",
+      "id": 612083,
+      "impact": "Borregales was not called upon to attempt any field goals in the win Sunday. The second-year kicker is 5-for-7 on field goal attempts and 6-for-6 on extra point attempts so far this season.",
+      "link": "https://www.fantasypros.com/nfl/news/612083/andy-borregales-perfect-week-4-win.php",
+      "player_id": 27291,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Andy Borregales perfect in Week 4 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:26:54",
+      "created_formated": "Sun, Oct 4th 10:26pm UTC",
+      "desc": "Hunter Henry caught all five of his targets for 62 yards in the Patriots win over the Bills.",
+      "id": 612082,
+      "impact": "Henry led the team in receiving yards, and caught the pass to seal the win late in the fourth quarter. His five receptions and 62 yards mark new season highs for the veteran. Henry will look to build on this performance against the Raiders in Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612082/hunter-henry-hauls-five-passes-week-4-win.php",
+      "player_id": 15561,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Hunter Henry hauls in five passes in Week 4 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:25:21",
+      "created_formated": "Sun, Oct 4th 10:25pm UTC",
+      "desc": "Efton Chism III caught 2-of-4 targets for 42 yards and a touchdown in the Patriots win over the Bills. ",
+      "id": 612081,
+      "impact": "Chism made an impressive 23-yard touchdown reception late in the fourth quarter to give the Patriots the lead and the win Sunday. His two receptions and 42 yards establish new season highs, but Chism could be asked to do more in Week 5 if Mack Hollins (calf) is unable to suit up against Las Vegas. ",
+      "link": "https://www.fantasypros.com/nfl/news/612081/efton-chism-iii-finds-end-zone-week-4-win.php",
+      "player_id": 27445,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Efton Chism III finds the end zone in Week 4 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:23:41",
+      "created_formated": "Sun, Oct 4th 10:23pm UTC",
+      "desc": "DeMario Douglas caught 2-of-3 targets for 15 yards in the Patriots win over the Bills.",
+      "id": 612080,
+      "impact": "Douglas continues to see limited targets in the Patriots' offense. Fantasy managers should feel comfortable leaving him on the waiver wire heading into Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612080/demario-douglas-held-to-two-receptions-week-4.php",
+      "player_id": 25304,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "DeMario Douglas held to two receptions in Week 4 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:22:13",
+      "created_formated": "Sun, Oct 4th 10:22pm UTC",
+      "desc": "Mack Hollins caught 3-of-4 targets for 53 yards in the Patriots win over the Bills.",
+      "id": 612079,
+      "impact": "Hollins continues to excel in his role as a chain mover, but the veteran did exit the game with a calf injury. Fantasy managers will want to monitor his status heading into a Week 5 matchup with the Raiders. ",
+      "link": "https://www.fantasypros.com/nfl/news/612079/mack-hollins-hauls-three-passes-week-4-win.php",
+      "player_id": 16489,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Mack Hollins hauls in three passes in Week 4 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:20:41",
+      "created_formated": "Sun, Oct 4th 10:20pm UTC",
+      "desc": "Romeo Doubs caught 6-of-9 targets for 58 yards and two touchdowns in the Patriots win over the Bills. ",
+      "id": 612078,
+      "impact": "Doubs caught passes of two and 14 yards to account for two of Drake Maye's three touchdown passes on the day. This was easily Doubs' best day as a Patriot. Fantasy managers should expect Doubs to continue to see plenty of targets heading into a Week 5 matchup with Las Vegas. ",
+      "link": "https://www.fantasypros.com/nfl/news/612078/romeo-doubs-hauls-two-touchdowns-week-4-win.php",
+      "player_id": 23794,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Romeo Doubs hauls in two touchdowns in Week 4 win "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:18:42",
+      "created_formated": "Sun, Oct 4th 10:18pm UTC",
+      "desc": "TreVeyon Henderson rushed for 42 yards on 14 carries in the Patriots win over the Bills. He did not record a reception on his two targets. ",
+      "id": 612077,
+      "impact": "Henderson saw just one more carry that Rhamondre Stevenson, but failed to do much on his 14 touches. Fantasy managers should expect Stevenson and Henderson to continue to split time in the backfield in Week 5 against Las Vegas. ",
+      "link": "https://www.fantasypros.com/nfl/news/612077/treveyon-henderson-sees-14-touches-week-4-win.php",
+      "player_id": 23065,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "TreVeyon Henderson sees 14 touches in Week 4 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:17:26",
+      "created_formated": "Sun, Oct 4th 10:17pm UTC",
+      "desc": "Rhamondre Stevenson rushed for 47 yards and a touchdown on 13 carries in the Patriots win over the Bills. He caught 3-of-5 targets for 27 yards. ",
+      "id": 612076,
+      "impact": "Stevenson found the end zone on a one-yard plunge in the second-quarter. Stevenson and TreVeyon Henderson split time in the backfield, and fantasy managers should expect more of the same against the Raiders in Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612076/rhamondre-stevenson-sees-16-touches-week-4-win.php",
+      "player_id": 22726,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Rhamondre Stevenson sees 16 touches in Week 4 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:15:07",
+      "created_formated": "Sun, Oct 4th 10:15pm UTC",
+      "desc": "Drake Maye completed 22-of-37 passes for 269 yards, three touchdowns, and one interception in the win over the Bills. He added 54 rushing yards on eight carries, while losing one fumble. ",
+      "id": 612075,
+      "impact": "Maye led the Patriots to a comeback win on the road against the Bills, despite struggling again with some turnovers. The former first-round pick was able to find Efton Chism on a 23-yard pass to give the team the lead with under two minutes remaining. He will look to build on this performance against the Raiders in Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612075/drake-maye-tosses-three-touchdowns-week-4-win.php",
+      "player_id": 23046,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Drake Maye tosses three touchdowns in Week 4 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:11:37",
+      "created_formated": "Sun, Oct 4th 10:11pm UTC",
+      "desc": "The Ravens D/ST allowed 222 passing yards, 85 rushing yards, and 18 points in a win over the Titans. ",
+      "id": 612074,
+      "impact": "The Ravens' defense tallied one, one interception, and one fumble recovery in the win. The Titans' offense was finally able to start breaking through in the second half, but the game appeared well in hand at that point. The Ravens will travel to Atlanta in Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612074/ravens-dst-allows-18-points-week-4-win.php",
+      "player_id": 8020,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Ravens D/ST allows 18 points in Week 4 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:09:59",
+      "created_formated": "Sun, Oct 4th 10:09pm UTC",
+      "desc": "Tyler Loop made 1-of-2 field goal attempts and 3-of-3 extra point attempts in the Ravens win over the Titans. ",
+      "id": 612073,
+      "impact": "Loop connected on a 64-yard field goal attempt to close out the first half. He would later miss a 40-yard attempt late in the fourth quarter. Loop is 6-for-8 so far on field goal attempts this season. ",
+      "link": "https://www.fantasypros.com/nfl/news/612073/tyler-loop-makes-64-yard-field-goal-week-4-win.php",
+      "player_id": 27534,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Tyler Loop makes 64-yard field goal in Week 4 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-04 22:07:51",
+      "created_formated": "Sun, Oct 4th 10:07pm UTC",
+      "desc": "Mark Andrews caught 5-of-6 targets for 27 yards and a touchdown in the Ravens win over the Titans. ",
+      "id": 612072,
+      "impact": "Andrews caught a three-yard touchdown pass late in the second quarter to extend the Ravens' lead. This marked the veteran's first trip to the end zone this season. Andrews will look to build on this performance against the Falcons in Week 5. ",
+      "link": "https://www.fantasypros.com/nfl/news/612072/mark-andrews-finds-end-zone-week-4-win.php",
+      "player_id": 17269,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Mark Andrews finds the end zone in Week 4 win "
     }
   ],
   "public_api": true,

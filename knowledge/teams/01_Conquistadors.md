@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-10-04
+- Last updated from Sleeper exports: 2026-10-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 760.8
-- championship_lineup_c_avi_avg: 95.10
+- championship_lineup_c_avi_sum: 760.9
+- championship_lineup_c_avi_avg: 95.11
 - offensive_roster_c_avi_sum: 1193.4
 - offensive_roster_c_avi_avg: 66.30
 - offensive_roster_d_avi_sum: 1428.7
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Puka Nacua | C-AVI: 99.5 | D-AVI: 99.4
 - WR: George Pickens | C-AVI: 93.4 | D-AVI: 96.1
 - TE: Harold Fannin | C-AVI: 93.0 | D-AVI: 90.6
-- FLEX: De'Von Achane | C-AVI: 96.0 | D-AVI: 95.5
+- FLEX: De'Von Achane | C-AVI: 96.1 | D-AVI: 95.5
 - FLEX: Breece Hall | C-AVI: 87.4 | D-AVI: 93.9
 
 ## Current Roster — All Player Cards
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 96.0
+- Championship AVI (C-AVI, 0-100): 96.1
 - Dynasty AVI (D-AVI, 0-100): 95.5
 - Projected PPR points: 300.6
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 35.8
+- Championship AVI (C-AVI, 0-100): 35.9
 - Dynasty AVI (D-AVI, 0-100): 65.6
 - Projected PPR points: 26.9
 - Category: offense
@@ -308,7 +308,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 24.1
+- Championship AVI (C-AVI, 0-100): 23.9
 - Dynasty AVI (D-AVI, 0-100): 49.9
 - Projected PPR points: 10.2
 - Category: offense

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1129546394534158336
 - Division: 4
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-10-04
+- Last updated from Sleeper exports: 2026-10-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 468.0
-- championship_lineup_c_avi_avg: 58.50
-- offensive_roster_c_avi_sum: 680.8
-- offensive_roster_c_avi_avg: 52.37
-- offensive_roster_d_avi_sum: 932.8
-- offensive_roster_d_avi_avg: 71.75
+- championship_lineup_c_avi_sum: 468.7
+- championship_lineup_c_avi_avg: 58.59
+- offensive_roster_c_avi_sum: 681.2
+- offensive_roster_c_avi_avg: 52.40
+- offensive_roster_d_avi_sum: 932.9
+- offensive_roster_d_avi_avg: 71.76
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jaxson Dart | C-AVI: 66.6 | D-AVI: 77.7
-- RB: Rachaad White | C-AVI: 59.0 | D-AVI: 79.4
+- RB: Rachaad White | C-AVI: 59.1 | D-AVI: 79.4
 - RB: Jacory Croskey-Merritt | C-AVI: 57.7 | D-AVI: 81.0
 - WR: Jalen Coker | C-AVI: 58.0 | D-AVI: 82.7
 - WR: Jauan Jennings | C-AVI: 51.9 | D-AVI: 70.1
-- TE: Brenton Strange | C-AVI: 64.0 | D-AVI: 79.1
+- TE: Brenton Strange | C-AVI: 64.4 | D-AVI: 79.1
 - FLEX: Chig Okonkwo | C-AVI: 60.4 | D-AVI: 76.9
-- FLEX: Cooper Kupp | C-AVI: 50.4 | D-AVI: 64.3
+- FLEX: Cooper Kupp | C-AVI: 50.6 | D-AVI: 64.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 59.0
+- Championship AVI (C-AVI, 0-100): 59.1
 - Dynasty AVI (D-AVI, 0-100): 79.4
 - Projected PPR points: 152.6
 - Category: offense
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 48.6
+- Championship AVI (C-AVI, 0-100): 48.3
 - Dynasty AVI (D-AVI, 0-100): 71.4
 - Projected PPR points: 79.5
 - Category: offense
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 50.4
-- Dynasty AVI (D-AVI, 0-100): 64.3
+- Championship AVI (C-AVI, 0-100): 50.6
+- Dynasty AVI (D-AVI, 0-100): 64.4
 - Projected PPR points: 143.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 64.0
+- Championship AVI (C-AVI, 0-100): 64.4
 - Dynasty AVI (D-AVI, 0-100): 79.1
 - Projected PPR points: 153.1
 - Category: offense

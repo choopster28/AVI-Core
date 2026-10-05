@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-10-04
+- Last updated from Sleeper exports: 2026-10-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 525.9
-- championship_lineup_c_avi_avg: 65.74
-- offensive_roster_c_avi_sum: 864.8
-- offensive_roster_c_avi_avg: 54.05
+- championship_lineup_c_avi_sum: 526.1
+- championship_lineup_c_avi_avg: 65.76
+- offensive_roster_c_avi_sum: 865.5
+- offensive_roster_c_avi_avg: 54.09
 - offensive_roster_d_avi_sum: 1183.8
 - offensive_roster_d_avi_avg: 73.99
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Justin Herbert | C-AVI: 72.2 | D-AVI: 80.3
-- RB: Jadarian Price | C-AVI: 66.7 | D-AVI: 85.8
-- RB: Dylan Sampson | C-AVI: 52.1 | D-AVI: 75.0
+- RB: Jadarian Price | C-AVI: 66.8 | D-AVI: 85.8
+- RB: Dylan Sampson | C-AVI: 52.2 | D-AVI: 75.0
 - WR: Alec Pierce | C-AVI: 72.7 | D-AVI: 85.7
 - WR: Michael Pittman | C-AVI: 71.9 | D-AVI: 81.5
 - TE: Oronde Gadsden | C-AVI: 55.3 | D-AVI: 76.3
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 66.7
+- Championship AVI (C-AVI, 0-100): 66.8
 - Dynasty AVI (D-AVI, 0-100): 85.8
 - Projected PPR points: 163.4
 - Category: offense
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 52.1
+- Championship AVI (C-AVI, 0-100): 52.2
 - Dynasty AVI (D-AVI, 0-100): 75.0
 - Projected PPR points: 109.1
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 41.0
+- Championship AVI (C-AVI, 0-100): 41.1
 - Dynasty AVI (D-AVI, 0-100): 76.4
 - Projected PPR points: 28.3
 - Category: offense
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 29.2
+- Championship AVI (C-AVI, 0-100): 29.5
 - Dynasty AVI (D-AVI, 0-100): 59.1
 - Projected PPR points: 19.9
 - Category: offense
@@ -188,7 +188,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: PIT
 - Active: True
 - Status: Active
-- Age: 28.0
+- Age: 29.0
 - Championship AVI (C-AVI, 0-100): 71.9
 - Dynasty AVI (D-AVI, 0-100): 81.5
 - Projected PPR points: 186.6
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 26.6
+- Championship AVI (C-AVI, 0-100): 26.7
 - Dynasty AVI (D-AVI, 0-100): 53.0
 - Projected PPR points: 21.9
 - Category: offense
