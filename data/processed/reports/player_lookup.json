@@ -303,6 +303,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00005857",
+      "c_avi": 41.3,
+      "d_avi": 56.3,
+      "nfl_team": "NO",
+      "player_name": "Noah Fant",
+      "position": "TE",
+      "sleeper_id": "5857",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012467",
       "c_avi": 41.2,
       "d_avi": 66.5,
@@ -2362,18 +2374,6 @@
       "player_name": "Jermaine Burton",
       "position": "WR",
       "sleeper_id": "11640",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00004018",
-      "c_avi": 0.0,
-      "d_avi": 39.9,
-      "nfl_team": "FA",
-      "player_name": "Joe Mixon",
-      "position": "RB",
-      "sleeper_id": "4018",
       "status": "Active"
     },
     {
@@ -4801,6 +4801,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00004018",
+      "c_avi": 0.0,
+      "d_avi": 39.9,
+      "nfl_team": "FA",
+      "owner_id": "736992907139158016",
+      "player_name": "Joe Mixon",
+      "position": "RB",
+      "roster_id": 4,
+      "sleeper_id": "4018",
+      "status": "Active",
+      "team_file": "04_Mile_High_Royal_Lions.md",
+      "team_name": "Mile High Royal Lions"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00013345",
       "c_avi": 47.5,
       "d_avi": 79.4,
@@ -5745,22 +5761,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00005857",
-      "c_avi": 41.3,
-      "d_avi": 56.3,
-      "nfl_team": "NO",
-      "owner_id": "736992907139158016",
-      "player_name": "Noah Fant",
-      "position": "TE",
-      "roster_id": 4,
-      "sleeper_id": "5857",
-      "status": "Active",
-      "team_file": "04_Mile_High_Royal_Lions.md",
-      "team_name": "Mile High Royal Lions"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00012495",
       "c_avi": 37.4,
       "d_avi": 70.6,
@@ -6266,7 +6266,7 @@
       "position": "RB",
       "roster_id": 9,
       "sleeper_id": "9225",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
     },

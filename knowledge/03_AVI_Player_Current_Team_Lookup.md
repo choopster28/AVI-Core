@@ -1044,6 +1044,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
+## PLAYER LOOKUP: Joe Mixon
+- Player name: Joe Mixon
+- Player ID: 4018
+- Position: RB
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
+
 ## PLAYER LOOKUP: Jonah Coleman
 - Player name: Jonah Coleman
 - Player ID: 13345
@@ -1515,14 +1523,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
-
-## PLAYER LOOKUP: Noah Fant
-- Player name: Noah Fant
-- Player ID: 5857
-- Position: TE
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Team file: 04_Mile_High_Royal_Lions.md
 
 ## PLAYER LOOKUP: Ollie Gordon
 - Player name: Ollie Gordon
@@ -2253,6 +2253,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ARI
 - Championship AVI (C-AVI, 0-100): 41.4
 - Dynasty AVI (D-AVI, 0-100): 65.7
+- Availability: available
+
+## AVAILABLE PLAYER: Noah Fant
+- Player name: Noah Fant
+- Player ID: 5857
+- Position: TE
+- NFL team: NO
+- Championship AVI (C-AVI, 0-100): 41.3
+- Dynasty AVI (D-AVI, 0-100): 56.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Jordan James
@@ -3801,15 +3810,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 23.4
-- Availability: available
-
-## AVAILABLE PLAYER: Joe Mixon
-- Player name: Joe Mixon
-- Player ID: 4018
-- Position: RB
-- NFL team: FA
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 39.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Jordan Watkins
