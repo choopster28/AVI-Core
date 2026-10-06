@@ -1,6 +1,6 @@
 {
-  "avi_generated_at_utc": "2026-10-06T02:23:44.908457+00:00",
-  "checked_at_utc": "2026-10-06T02:23:45.828556+00:00",
+  "avi_generated_at_utc": "2026-10-06T18:20:56.494078+00:00",
+  "checked_at_utc": "2026-10-06T18:20:57.570808+00:00",
   "counts": {
     "avi_players": 479,
     "player_lookup": 479,
@@ -10,18 +10,18 @@
   "failures": [],
   "in_season_transition": {
     "activation_policy": "Activate after a completed 2026 week is verified. Sleeper advancing to the next week or ESPN confirming every game final is sufficient; stale or partial player-points feeds never activate the transition.",
-    "completed_through_week": 3,
+    "completed_through_week": 4,
     "completion_sources": [
       "Sleeper NFL state",
       "ESPN NFL scoreboard"
     ],
-    "current_week_schedule_complete": false,
+    "current_week_schedule_complete": null,
     "fantasypros_max_observed_week": 4,
     "mapped_player_point_records": 390,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
-    "nfl_week": 4,
-    "status": "waiting_for_completed_current_season_points"
+    "nfl_week": 5,
+    "status": "active"
   },
   "status": "passed"
 }

@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 525.2
-- championship_lineup_c_avi_avg: 65.65
-- offensive_roster_c_avi_sum: 863.3
-- offensive_roster_c_avi_avg: 53.96
-- offensive_roster_d_avi_sum: 1159.6
-- offensive_roster_d_avi_avg: 72.47
+- championship_lineup_c_avi_sum: 493.9
+- championship_lineup_c_avi_avg: 61.74
+- offensive_roster_c_avi_sum: 885.1
+- offensive_roster_c_avi_avg: 55.32
+- offensive_roster_d_avi_sum: 1133.8
+- offensive_roster_d_avi_avg: 70.86
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Justin Herbert | C-AVI: 72.2 | D-AVI: 80.3
-- RB: Jadarian Price | C-AVI: 66.8 | D-AVI: 85.8
-- RB: Dylan Sampson | C-AVI: 52.2 | D-AVI: 75.0
-- WR: Alec Pierce | C-AVI: 72.6 | D-AVI: 84.5
-- WR: Michael Pittman | C-AVI: 71.5 | D-AVI: 77.8
-- TE: Oronde Gadsden | C-AVI: 55.3 | D-AVI: 76.3
-- FLEX: Jakobi Meyers | C-AVI: 67.6 | D-AVI: 79.7
-- FLEX: Wan'Dale Robinson | C-AVI: 67.0 | D-AVI: 80.6
+- QB: Justin Herbert | C-AVI: 58.8 | D-AVI: 78.0
+- RB: Chris Rodriguez | C-AVI: 58.2 | D-AVI: 71.4
+- RB: Emmett Johnson | C-AVI: 49.4 | D-AVI: 74.6
+- WR: Jakobi Meyers | C-AVI: 74.5 | D-AVI: 80.5
+- WR: Wan'Dale Robinson | C-AVI: 73.3 | D-AVI: 81.7
+- TE: Oronde Gadsden | C-AVI: 59.5 | D-AVI: 76.3
+- FLEX: Michael Pittman | C-AVI: 65.2 | D-AVI: 77.4
+- FLEX: Gunnar Helm | C-AVI: 55.0 | D-AVI: 69.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 72.2
-- Dynasty AVI (D-AVI, 0-100): 80.3
+- Championship AVI (C-AVI, 0-100): 58.8
+- Dynasty AVI (D-AVI, 0-100): 78.0
 - Projected PPR points: 303.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Aaron Rodgers
 - Player name: Aaron Rodgers
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 42.0
-- Championship AVI (C-AVI, 0-100): 45.3
-- Dynasty AVI (D-AVI, 0-100): 56.8
+- Championship AVI (C-AVI, 0-100): 54.0
+- Dynasty AVI (D-AVI, 0-100): 58.2
 - Projected PPR points: 230.1
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Jadarian Price
 - Player name: Jadarian Price
@@ -87,28 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 66.8
-- Dynasty AVI (D-AVI, 0-100): 85.8
+- Championship AVI (C-AVI, 0-100): 62.5
+- Dynasty AVI (D-AVI, 0-100): 83.6
 - Projected PPR points: 163.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: Dylan Sampson
-- Player name: Dylan Sampson
-- Player ID: 12469
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: CLE
-- Active: True
-- Status: Inactive
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 52.2
-- Dynasty AVI (D-AVI, 0-100): 75.0
-- Projected PPR points: 109.1
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Chris Rodriguez
 - Player name: Chris Rodriguez
@@ -121,11 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 51.4
-- Dynasty AVI (D-AVI, 0-100): 75.3
+- Championship AVI (C-AVI, 0-100): 58.2
+- Dynasty AVI (D-AVI, 0-100): 71.4
 - Projected PPR points: 88.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Emmett Johnson
 - Player name: Emmett Johnson
@@ -138,11 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 41.1
-- Dynasty AVI (D-AVI, 0-100): 76.4
+- Championship AVI (C-AVI, 0-100): 49.4
+- Dynasty AVI (D-AVI, 0-100): 74.6
 - Projected PPR points: 28.3
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Raheim Sanders
 - Player name: Raheim Sanders
@@ -155,45 +138,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 29.5
-- Dynasty AVI (D-AVI, 0-100): 59.1
+- Championship AVI (C-AVI, 0-100): 42.5
+- Dynasty AVI (D-AVI, 0-100): 53.2
 - Projected PPR points: 19.9
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Alec Pierce
-- Player name: Alec Pierce
-- Player ID: 8142
+### PLAYER: Dylan Sampson
+- Player name: Dylan Sampson
+- Player ID: 12469
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: IND
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: CLE
 - Active: True
 - Status: Inactive
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 72.6
-- Dynasty AVI (D-AVI, 0-100): 84.5
-- Projected PPR points: 195.0
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 41.4
+- Dynasty AVI (D-AVI, 0-100): 68.0
+- Projected PPR points: 109.1
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: Michael Pittman
-- Player name: Michael Pittman
-- Player ID: 6819
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: PIT
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 71.5
-- Dynasty AVI (D-AVI, 0-100): 77.8
-- Projected PPR points: 186.6
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Jakobi Meyers
 - Player name: Jakobi Meyers
@@ -206,11 +172,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 67.6
-- Dynasty AVI (D-AVI, 0-100): 79.7
+- Championship AVI (C-AVI, 0-100): 74.5
+- Dynasty AVI (D-AVI, 0-100): 80.5
 - Projected PPR points: 180.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Wan'Dale Robinson
 - Player name: Wan'Dale Robinson
@@ -223,11 +189,45 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 67.0
-- Dynasty AVI (D-AVI, 0-100): 80.6
+- Championship AVI (C-AVI, 0-100): 73.3
+- Dynasty AVI (D-AVI, 0-100): 81.7
 - Projected PPR points: 173.9
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Alec Pierce
+- Player name: Alec Pierce
+- Player ID: 8142
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: IND
+- Active: True
+- Status: Inactive
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 68.6
+- Dynasty AVI (D-AVI, 0-100): 83.8
+- Projected PPR points: 195.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Michael Pittman
+- Player name: Michael Pittman
+- Player ID: 6819
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: PIT
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 65.2
+- Dynasty AVI (D-AVI, 0-100): 77.4
+- Projected PPR points: 186.6
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Germie Bernard
 - Player name: Germie Bernard
@@ -240,11 +240,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 46.5
-- Dynasty AVI (D-AVI, 0-100): 68.7
+- Championship AVI (C-AVI, 0-100): 49.3
+- Dynasty AVI (D-AVI, 0-100): 67.2
 - Projected PPR points: 98.5
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Zachariah Branch
 - Player name: Zachariah Branch
@@ -257,11 +257,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 43.2
-- Dynasty AVI (D-AVI, 0-100): 66.2
+- Championship AVI (C-AVI, 0-100): 43.7
+- Dynasty AVI (D-AVI, 0-100): 64.6
 - Projected PPR points: 80.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Tai Felton
 - Player name: Tai Felton
@@ -274,11 +274,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 26.0
-- Dynasty AVI (D-AVI, 0-100): 45.1
+- Championship AVI (C-AVI, 0-100): 29.2
+- Dynasty AVI (D-AVI, 0-100): 45.7
 - Projected PPR points: 21.9
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Oronde Gadsden
 - Player name: Oronde Gadsden
@@ -291,11 +291,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 55.3
+- Championship AVI (C-AVI, 0-100): 59.5
 - Dynasty AVI (D-AVI, 0-100): 76.3
 - Projected PPR points: 106.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Gunnar Helm
 - Player name: Gunnar Helm
@@ -308,11 +308,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 55.1
-- Dynasty AVI (D-AVI, 0-100): 72.0
+- Championship AVI (C-AVI, 0-100): 55.0
+- Dynasty AVI (D-AVI, 0-100): 69.6
 - Projected PPR points: 92.3
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Tyler Bass
 - Player name: Tyler Bass

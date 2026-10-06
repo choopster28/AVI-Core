@@ -1,18 +1,19 @@
 {
   "players": [
     {
-      "average": 8,
+      "average": 8.3,
       "filename": "nick-folk.php",
-      "games": 3,
+      "games": 4,
       "player_id": 9491,
       "player_name": "Nick Folk",
-      "points": 24,
+      "points": 33,
       "position_id": "K",
       "team_id": "ATL",
       "weeks": {
         "1": 10,
         "2": 4,
-        "3": 10
+        "3": 10,
+        "4": 9
       }
     },
     {
@@ -128,18 +129,19 @@
       }
     },
     {
-      "average": 7.3,
+      "average": 7,
       "filename": "daniel-carlson.php",
-      "games": 3,
+      "games": 4,
       "player_id": 17420,
       "player_name": "Daniel Carlson",
-      "points": 22,
+      "points": 28,
       "position_id": "K",
       "team_id": "NO",
       "weeks": {
         "1": 6,
         "2": 13,
-        "3": 3
+        "3": 3,
+        "4": 6
       }
     },
     {

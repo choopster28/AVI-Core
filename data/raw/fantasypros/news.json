@@ -6,19 +6,18 @@
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-06 00:54:13",
-      "created_formated": "Tue, Oct 6th 12:54am UTC",
-      "desc": "Saquon Barkley is considered week-to-week with his hamstring injury. ",
-      "id": 612417,
-      "impact": "It is not believed to be a serious injury, but Barkley will likely be sidelined in Week 5 against the Jaguars. ",
-      "link": "https://www.fantasypros.com/nfl/news/612417/saquon-barkley-hamstring-considered-week-to-week.php",
-      "player_id": 17240,
+      "created": "2026-10-06 18:07:44",
+      "created_formated": "Tue, Oct 6th 6:07pm UTC",
+      "desc": "The Seahawks decided not to sign Joe Mixon following his physical. ",
+      "id": 612478,
+      "impact": "Mixon missed all of last season with a foot injury. The Seahawks will move forward with Emanuel Wilson and George Holani leading their backfield until Zach Charbonnet and Jadarian Price return. ",
+      "link": "https://www.fantasypros.com/nfl/news/612478/joe-mixon-not-signing-with-seahawks-after-physical.php",
+      "player_id": 16420,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Saquon Barkley (hamstring) considered week-to-week "
+      "team_id": "SEA",
+      "title": "Joe Mixon not signing with Seahawks after physical "
     },
     {
       "author": "Ari Koslow",
@@ -27,16 +26,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-05 23:35:44",
-      "created_formated": "Mon, Oct 5th 11:35pm UTC",
-      "desc": "Commanders head coach Dan Quinn confirmed that WR Jaylin Lane will be out for the season. ",
-      "id": 612416,
-      "impact": "Lane suffered a fractured and dislocated ankle on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/612416/jaylin-lane-ankle-confirmed-to-be-out-season.php",
-      "player_id": 27454,
+      "created": "2026-10-06 18:04:47",
+      "created_formated": "Tue, Oct 6th 6:04pm UTC",
+      "desc": "Ravens TE Durham Smythe is out for the season with a torn Achilles.",
+      "id": 612477,
+      "impact": "Smythe underwent an MRI that confirmed the injury. He was in his first season with Baltimore. ",
+      "link": "https://www.fantasypros.com/nfl/news/612477/durham-smythe-out-season-with-torn-achilles.php",
+      "player_id": 17508,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jaylin Lane (ankle) confirmed to be out for season "
+      "team_id": "BAL",
+      "title": "Durham Smythe out for season with torn Achilles "
     },
     {
       "author": "Ari Koslow",
@@ -45,322 +44,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-05 23:34:38",
-      "created_formated": "Mon, Oct 5th 11:34pm UTC",
-      "desc": "Commanders head coach Dan Quinn said Marcus Mariota doesn't have a timetable for his return.",
-      "id": 612415,
-      "impact": "Mariota is week-to-week with an MCL sprain. ",
-      "link": "https://www.fantasypros.com/nfl/news/612415/marcus-mariota-mcl-without-timetable-to-return.php",
-      "player_id": 13890,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Marcus Mariota (MCL) without timetable to return"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:33:38",
-      "created_formated": "Mon, Oct 5th 11:33pm UTC",
-      "desc": "Commanders head coach Dan Quinn said  the goal is for Jayden Daniels to return in Week 5. ",
-      "id": 612414,
-      "impact": "Daniels is slated to return to practice this week. His status will need to be monitored throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/612414/jayden-daniels-elbow-hopeful-to-return-week-5.php",
-      "player_id": 22902,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jayden Daniels (elbow) hopeful to return in Week 5"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:31:59",
-      "created_formated": "Mon, Oct 5th 11:31pm UTC",
-      "desc": "Cardinals head coach Mike LaFleur said Jeremiyah Love was dealing with an ankle injury on Sunday. ",
-      "id": 612413,
-      "impact": "LaFleur clarified that Love's discomfort in Sunday's game is not the same ankle from the sprain he suffered in the preseason. His status will need to be monitored in practice this week. ",
-      "link": "https://www.fantasypros.com/nfl/news/612413/jeremiyah-love-dealt-with-ankle-injury-sunday.php",
-      "player_id": 25403,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Jeremiyah Love dealt with ankle injury Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:28:43",
-      "created_formated": "Mon, Oct 5th 11:28pm UTC",
-      "desc": "49ers head coach Kyle Shanahan said Mykel Williams is hopeful to return in Week 5 against the Seahawks. ",
-      "id": 612412,
-      "impact": "Williams will work in more this week with hope to have him available on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/612412/mykel-williams-knee-hopeful-to-return-week-5.php",
-      "player_id": 27013,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mykel Williams (knee) hopeful to return in Week 5"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:26:25",
-      "created_formated": "Mon, Oct 5th 11:26pm UTC",
-      "desc": "James Thompson Jr. is not expected to return in Week 5 against the Seahawks. ",
-      "id": 612411,
-      "impact": "Thompson remains week-to-week. ",
-      "link": "https://www.fantasypros.com/nfl/news/612411/james-thompson-jr-ankle-unlikely-to-return-week-5.php",
-      "player_id": 28559,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "James Thompson Jr. (ankle) unlikely to return in Week 5"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:24:11",
-      "created_formated": "Mon, Oct 5th 11:24pm UTC",
-      "desc": "49ers head coach Kyle Shanahan said Nick Bosa is unlikely to return in Week 5 against the Seahawks. ",
-      "id": 612410,
-      "impact": "Bosa has avoided injured reserve. He remains week-to-week. ",
-      "link": "https://www.fantasypros.com/nfl/news/612410/nick-bosa-calf-unlikely-to-return-week-5.php",
-      "player_id": 18199,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Nick Bosa (calf) unlikely to return in Week 5"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:22:49",
-      "created_formated": "Mon, Oct 5th 11:22pm UTC",
-      "desc": "Chargers head coach Jim Harbaugh said Derwin James Jr. is week-to-week. ",
-      "id": 612409,
-      "impact": "James was ruled out for Sunday's game against the Seahawks. He will likely miss at least one more game in Week 5 against the Broncos. ",
-      "link": "https://www.fantasypros.com/nfl/news/612409/derwin-james-jr-hamstring-week-to-week.php",
-      "player_id": 17310,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Derwin James Jr. (hamstring) week-to-week "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:21:38",
-      "created_formated": "Mon, Oct 5th 11:21pm UTC",
-      "desc": "Chargers head coach Jim Harbaugh said WR Ladd McConkey is week-to-week. ",
-      "id": 612408,
-      "impact": "McConkey tried to play through the injury on Sunday, but he wound up leaving the game early. He'll likely miss Week 5. ",
-      "link": "https://www.fantasypros.com/nfl/news/612408/ladd-mcconkey-foot-week-to-week.php",
-      "player_id": 26122,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Ladd McConkey (foot) week-to-week "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:18:44",
-      "created_formated": "Mon, Oct 5th 11:18pm UTC",
-      "desc": "Rueben Bain Jr. was a full participant on Monday's estimated practice report. ",
-      "id": 612407,
-      "impact": "Bain is on track to return for Thursday's game against the Cowboys. ",
-      "link": "https://www.fantasypros.com/nfl/news/612407/rueben-bain-jr-groinshoulder-logs-full-practice-monday.php",
-      "player_id": 28772,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Rueben Bain Jr. (groin/shoulder) logs full practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:17:39",
-      "created_formated": "Mon, Oct 5th 11:17pm UTC",
-      "desc": "Josiah Trotter was limited in practice on Monday's estimated report. ",
-      "id": 612406,
-      "impact": "Trotter should be good to go for Thursday's game against the Cowboys. ",
-      "link": "https://www.fantasypros.com/nfl/news/612406/josiah-trotter-knee-limited-practice-monday.php",
-      "player_id": 28077,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Josiah Trotter (knee) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:15:50",
-      "created_formated": "Mon, Oct 5th 11:15pm UTC",
-      "desc": "Ko Kieft was limited on Monday's estimated practice report. ",
-      "id": 612405,
-      "impact": "Kieft remains off the fantasy radar when he is healthy. ",
-      "link": "https://www.fantasypros.com/nfl/news/612405/ko-kieft-elbow-limited-practice-monday.php",
-      "player_id": 24568,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Ko Kieft (elbow) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:10:48",
-      "created_formated": "Mon, Oct 5th 11:10pm UTC",
-      "desc": "Benjamin Morrison was listed as a DNP on Monday's estimated practice report. ",
-      "id": 612404,
-      "impact": "Morrison remains up in the air to return on a short week for Tampa Bay. ",
-      "link": "https://www.fantasypros.com/nfl/news/612404/benjamin-morrison-quad-misses-practice-monday.php",
-      "player_id": 27019,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Benjamin Morrison (quad) misses practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:08:27",
-      "created_formated": "Mon, Oct 5th 11:08pm UTC",
-      "desc": "Baker Mayfield did not practice on Monday. ",
-      "id": 612403,
-      "impact": "Mayfield remains unlikely to return in Week 5 against the Cowboys. ",
-      "link": "https://www.fantasypros.com/nfl/news/612403/baker-mayfield-thumb-misses-practice-monday.php",
-      "player_id": 17237,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Baker Mayfield (thumb) misses practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:05:15",
-      "created_formated": "Mon, Oct 5th 11:05pm UTC",
-      "desc": "Joey Porter Jr. was listed as a full participant on Monday's estimated practice report. ",
-      "id": 612402,
-      "impact": "Porter should be good to go in his second game with the Cowboys. ",
-      "link": "https://www.fantasypros.com/nfl/news/612402/joey-porter-jr-ankle-logs-full-practice-monday.php",
-      "player_id": 24705,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Joey Porter Jr. (ankle) logs full practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:04:17",
-      "created_formated": "Mon, Oct 5th 11:04pm UTC",
-      "desc": "CeeDee Lamb was listed as a full participant on Monday's estimated practice report. ",
-      "id": 612401,
-      "impact": "Lamb will remain a locked and loaded WR1 for Thursday's game against the Buccaneers. ",
-      "link": "https://www.fantasypros.com/nfl/news/612401/ceedee-lamb-thigh-logs-full-practice-monday.php",
-      "player_id": 19202,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "CeeDee Lamb (thigh) logs full practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:03:23",
-      "created_formated": "Mon, Oct 5th 11:03pm UTC",
-      "desc": "Tyler Goodson was listed as a full participant on Monday's estimated practice report. ",
-      "id": 612400,
-      "impact": "Goodson should remain in his reserve role behind Javonte Williams in the Cowboys backfield. ",
-      "link": "https://www.fantasypros.com/nfl/news/612400/tyler-goodson-ankle-logs-full-practice-monday.php",
-      "player_id": 22976,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Tyler Goodson (ankle) logs full practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:02:05",
-      "created_formated": "Mon, Oct 5th 11:02pm UTC",
-      "desc": "Tyler Smith was listed as limited on Monday's estimated injury report. ",
-      "id": 612399,
-      "impact": "Smith was designated to return to practice. He will have a chance to return for Thursday's game against the Buccaneers. ",
-      "link": "https://www.fantasypros.com/nfl/news/612399/tyler-smith-thumb-limited-practice-monday.php",
-      "player_id": 24187,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Tyler Smith (thumb) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-05 23:00:52",
-      "created_formated": "Mon, Oct 5th 11:00pm UTC",
-      "desc": "DeMarvion Overshown was listed as a DNP on Monday's estimated injury report. ",
-      "id": 612398,
-      "impact": "Overshown remains hopeful to be ready for Thursday's game against the Buccaneers. His status will need to be monitored in practice on Tuesday. ",
-      "link": "https://www.fantasypros.com/nfl/news/612398/demarvion-overshown-hamstring-dnp-estimated-practice-monday.php",
+      "created": "2026-10-06 17:23:08",
+      "created_formated": "Tue, Oct 6th 5:23pm UTC",
+      "desc": "Cowboys LB DeMarvion Overshown is a \"long shot\" to play Thursday against the Bucs. ",
+      "id": 612470,
+      "impact": "Overshown is continuing to work his way back from a hamstring injury. He could return for Week 6. ",
+      "link": "https://www.fantasypros.com/nfl/news/612470/demarvion-overshown-hamstring-unlikely-to-return-thursday.php",
       "player_id": 25314,
       "sport_id": "NFL",
       "team_id": "DAL",
-      "title": "DeMarvion Overshown (hamstring) DNP in estimated practice Monday"
+      "title": "DeMarvion Overshown (hamstring) unlikely to return Thursday "
     },
     {
       "author": "Ari Koslow",
@@ -368,16 +61,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-10-05 22:09:24",
-      "created_formated": "Mon, Oct 5th 10:09pm UTC",
-      "desc": "Joe Mixon is signing with the Seahawks after a workout on Monday. ",
-      "id": 612397,
-      "impact": "Mixon officially makes his return to the NFL.  The Seahawks have a clear opening with Jadarian Price on IR and Zach Charbonnet working his way back from an ACL injury. He'll be worth a stash for fantasy managers. This could hurt the value of Emmanuel Wilson coming off a big game on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/612397/joe-mixon-signs-with-seahawks.php",
-      "player_id": 16420,
+      "created": "2026-10-06 17:21:03",
+      "created_formated": "Tue, Oct 6th 5:21pm UTC",
+      "desc": "The Bears signed veteran WR Scotty Miller to their practice squad.",
+      "id": 612469,
+      "impact": "Miller will add depth in the Bears wide receiver room. He'll remain off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/612469/scotty-miller-signs-with-bears-practice-squad.php",
+      "player_id": 18714,
       "sport_id": "NFL",
       "team_id": "FA",
-      "title": "Joe Mixon signs with Seahawks "
+      "title": "Scotty Miller signs with Bears practice squad "
     },
     {
       "author": "Ari Koslow",
@@ -386,16 +79,50 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-05 22:05:15",
-      "created_formated": "Mon, Oct 5th 10:05pm UTC",
-      "desc": "Cardinals head coach Mike LaFleur said Paris Johnson Jr. tore his bicep and will miss the rest of the season. ",
-      "id": 612396,
-      "impact": "It is a brutal break for Johnson and the Cardinals offensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/612396/paris-johnson-jr-torn-bicep-out-season.php",
-      "player_id": 24712,
+      "created": "2026-10-06 17:19:37",
+      "created_formated": "Tue, Oct 6th 5:19pm UTC",
+      "desc": "Tyler Smith will practice again on Tuesday. ",
+      "id": 612468,
+      "impact": "Smith was designated to return from injured reserve on Monday. He remains hopeful to return on Thursday against the Bucs. ",
+      "link": "https://www.fantasypros.com/nfl/news/612468/tyler-smith-thumb-to-practice-tuesday.php",
+      "player_id": 24187,
       "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Paris Johnson Jr. (torn bicep) out for season"
+      "team_id": "DAL",
+      "title": "Tyler Smith (thumb) to practice Tuesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-06 17:17:58",
+      "created_formated": "Tue, Oct 6th 5:17pm UTC",
+      "desc": "The Texans signed RB Deuce Vaughn to their practice squad. ",
+      "id": 612467,
+      "impact": "Vaugh was previously with the Cowboys. He'll hold a depth role in the Texans backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/612467/deuce-vaughn-signs-with-texans-practice-squad.php",
+      "player_id": 22984,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Deuce Vaughn signs with Texans practice squad "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-06 17:16:31",
+      "created_formated": "Tue, Oct 6th 5:16pm UTC",
+      "desc": "The Broncos worked out WR Jamari Thrash. ",
+      "id": 612466,
+      "impact": "Thrash had 10 catches for 107 yards with the Browns last year. He would hold a depth role in the Broncos wide receiver room. ",
+      "link": "https://www.fantasypros.com/nfl/news/612466/jamari-thrash-works-out-broncos.php",
+      "player_id": 26162,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jamari Thrash works out for Broncos"
     },
     {
       "author": "Ari Koslow",
@@ -404,16 +131,33 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-05 21:21:51",
-      "created_formated": "Mon, Oct 5th 9:21pm UTC",
-      "desc": "Eagles RB Tank Bigsby suffered an injury on Sunday and will be placed on injured reserve. ",
-      "id": 612371,
-      "impact": "Bigsby now requires core muscle surgery to repair his injury. He is expected to miss at least 5-to-6 weeks. ",
-      "link": "https://www.fantasypros.com/nfl/news/612371/tank-bigsby-core-to-be-placed-on-ir.php",
-      "player_id": 22908,
+      "created": "2026-10-06 16:36:30",
+      "created_formated": "Tue, Oct 6th 4:36pm UTC",
+      "desc": "The Eagles are hopeful to have Quinyon Mitchell back this week. ",
+      "id": 612465,
+      "impact": "Mitchell is working his way back from a knee injury. His status will need to be monitored in practice this week. ",
+      "link": "https://www.fantasypros.com/nfl/news/612465/quinyon-mitchell-knee-hopeful-to-play-this-week.php",
+      "player_id": 26106,
       "sport_id": "NFL",
       "team_id": "PHI",
-      "title": "Tank Bigsby (core) to be placed on IR"
+      "title": "Quinyon Mitchell (knee) hopeful to play this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-06 16:32:48",
+      "created_formated": "Tue, Oct 6th 4:32pm UTC",
+      "desc": "The Rams signed veteran ILB Eric Kendricks to their practice squad.",
+      "id": 612464,
+      "impact": "Kendricks will add depth in the linebacker room for the Rams. ",
+      "link": "https://www.fantasypros.com/nfl/news/612464/eric-kendricks-signs-with-rams-practice-squad.php",
+      "player_id": 14026,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Eric Kendricks signs with Rams practice squad "
     },
     {
       "author": "Ari Koslow",
@@ -422,16 +166,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-05 20:40:04",
-      "created_formated": "Mon, Oct 5th 8:40pm UTC",
-      "desc": "Rams head coach Sean McVay said he is hopeful Aaron Donald will return in Week 5 against the Bills. ",
-      "id": 612354,
-      "impact": "The Rams play Buffalo on Monday, so Donald will have an extra day to get healthy. His status will need to be monitored in practice the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/612354/aaron-donald-back-hopeful-to-return-week-5.php",
-      "player_id": 12205,
+      "created": "2026-10-06 16:27:33",
+      "created_formated": "Tue, Oct 6th 4:27pm UTC",
+      "desc": "Falcons head coach Kevin Stefanski did not have an update on the status of Za'Darius Smith.",
+      "id": 612463,
+      "impact": "Smith was placed in concussion protocol. His status will need to be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/612463/zadarius-smith-concussion-without-update-on-status.php",
+      "player_id": 14060,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Aaron Donald (back) hopeful to return in Week 5"
+      "team_id": "ATL",
+      "title": "Za'Darius Smith (concussion) without update on status "
     },
     {
       "author": "Ari Koslow",
@@ -440,16 +184,267 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-05 20:38:08",
-      "created_formated": "Mon, Oct 5th 8:38pm UTC",
-      "desc": "Bears head coach Ben Johnson said RB Kyle Monangai is day-to-day with his thumb injury. ",
-      "id": 612353,
-      "impact": "Monangai is coming off a huge performance in Sunday's win over the Jets. His status will need to be monitored in practice throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/612353/kyle-monangai-thumb-day-to-day.php",
-      "player_id": 27131,
+      "created": "2026-10-06 16:26:15",
+      "created_formated": "Tue, Oct 6th 4:26pm UTC",
+      "desc": "Falcons head coach Kevin Stefanski did not have an update on the status of Jake Matthews.  ",
+      "id": 612462,
+      "impact": "Matthews suffered a groin injury. His status will need to be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/612462/jake-matthews-groin-without-update-on-status.php",
+      "player_id": 15401,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Kyle Monangai (thumb) day-to-day "
+      "team_id": "ATL",
+      "title": "Jake Matthews (groin) without update on status "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-06 16:23:30",
+      "created_formated": "Tue, Oct 6th 4:23pm UTC",
+      "desc": "The Buccaneers signed CB Brandon Johnson to their practice squad. ",
+      "id": 612461,
+      "impact": "Johnson spent last year with the Eagles. He'll add depth in the secondary for Tampa Bay.  ",
+      "link": "https://www.fantasypros.com/nfl/news/612461/brandon-johnson-signs-with-bucs-practice-squad.php",
+      "player_id": 27655,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Brandon Johnson signs with Bucs practice squad "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-06 16:21:27",
+      "created_formated": "Tue, Oct 6th 4:21pm UTC",
+      "desc": "The Packers hosted Cobee Bryant for a workout on Tuesday. ",
+      "id": 612460,
+      "impact": "Bryant made the Falcons team as an undrafted free agent last year. He recently worked out for the 49ers as well.",
+      "link": "https://www.fantasypros.com/nfl/news/612460/cobee-bryant-works-out-packers.php",
+      "player_id": 27087,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Cobee Bryant works out for Packers "
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-06 14:43:58",
+      "created_formated": "Tue, Oct 6th 2:43pm UTC",
+      "desc": "Arden Key (hamstring) is expected to miss 3-4 weeks. ",
+      "id": 612459,
+      "impact": "Key left Sunday's win over the Commanders with a hamstring injury. Now, it's been confirmed that the veteran pass rushers will miss the next few weeks. Jaylahn Tuimoloau and Caden Curry should see increased snaps. ",
+      "link": "https://www.fantasypros.com/nfl/news/612459/arden-key-hamstring-to-miss-few-weeks.php",
+      "player_id": 17279,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Arden Key (hamstring) to miss a few weeks "
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-10-06 13:35:44",
+      "created_formated": "Tue, Oct 6th 1:35pm UTC",
+      "desc": "Lamar Jackson (ankle) has only an outside chance of playing Sunday against the Falcons.",
+      "id": 612458,
+      "impact": "Jackson sustained a sprained ankle in Week 4's win over the Titans. Now, the two-time MVP's status is uncertain for the next few weeks. The Ravens have not officially ruled him out for this Sunday's game, but the chances of him playing seem very thin. Tyler Huntley would be set to step in at quarter in Jackson's stead. ",
+      "link": "https://www.fantasypros.com/nfl/news/612458/lamar-jackson-ankle-unlikely-to-play-week-5.php",
+      "player_id": 17233,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Lamar Jackson (ankle) unlikely to play in Week 5"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-06 12:30:20",
+      "created_formated": "Tue, Oct 6th 12:30pm UTC",
+      "desc": "The Saints' D/ST logged just one sack and allowed 45 points in Monday night's blowout loss to the Atlanta Falcons.",
+      "id": 612457,
+      "impact": "New Orleans' defense looked bad on Monday night. They allowed Atlanta to run all over them and score a whopping 45 points over the course of the night, and they weren't able to log any big plays to help out their own offense. This unit has been bad over the start of the season and should not be started at all moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/612457/saints-dst-dismal-blowout-loss-monday.php",
+      "player_id": 8190,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Saints D/ST dismal in blowout loss Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-06 12:28:40",
+      "created_formated": "Tue, Oct 6th 12:28pm UTC",
+      "desc": "Daniel Carlson went 3-for-3 on his extra-point attempts and 1-for-2 on his field-goal attempts in Monday night's 45-24 loss to the Atlanta Falcons.",
+      "id": 612456,
+      "impact": "Carlson didn't have a great night on Monday. He missed one of his two field-goal attempts against the Falcons, although the Saints went on to lost by 21 points, so it wasn't a particularly consequential miss in the end. Still, fantasy managers shouldn't trust playing him for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/612456/daniel-carlson-misses-kick-loss-monday.php",
+      "player_id": 17420,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Daniel Carlson misses kick in loss Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-06 12:25:21",
+      "created_formated": "Tue, Oct 6th 12:25pm UTC",
+      "desc": "Kendre Miller rushed the ball six times for just nine yards and lost a fumble in Monday night's 45-24 loss to the Atlanta Falcons.",
+      "id": 612455,
+      "impact": "Miller had a bad game on Monday night. He totaled just 19 yards on the ground and through the air against the Falcons, and he also lost a costly fumble, which further hurt his fantasy total. He should not be started in any fantasy league formats moving forward, especially with Alvin Kamara still seeing the bulk of the work in New Orleans' backfield right now. ",
+      "link": "https://www.fantasypros.com/nfl/news/612455/kendre-miller-struggles-loss-monday.php",
+      "player_id": 24360,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Kendre Miller struggles in loss Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-06 12:23:07",
+      "created_formated": "Tue, Oct 6th 12:23pm UTC",
+      "desc": "Juwan Johnson hauled in 6-of-8 targets for 59 yards in Monday night's 45-24 loss to the Atlanta Falcons.",
+      "id": 612454,
+      "impact": "The veteran tight end had a nice outing on Monday night. He finished with six receptions for 59 yards over the course of the game, although he wasn't able to get into the end zone at all, which left him with a mediocre fantasy total. He will continue to be a reliable week-to-week option until Jordyn Tyson (hamstring) is available to make his debut for the Saints.",
+      "link": "https://www.fantasypros.com/nfl/news/612454/juwan-johnson-hauls-six-passes-monday.php",
+      "player_id": 19562,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Juwan Johnson hauls in six passes Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-06 12:21:18",
+      "created_formated": "Tue, Oct 6th 12:21pm UTC",
+      "desc": "Alvin Kamara rushed the ball seven times for 23 yards and two touchdowns while adding five receptions for 35 yards on the ground in Monday's 45-24 loss to the Atlanta Falcons.",
+      "id": 612453,
+      "impact": "Kamara suffered an injury of some kind in the middle of Monday night's game, but he was able to return and finish out the contest. He ended up finishing with a good fantasy total thanks to his two touchdowns and five receptions on the night, though he wasn't where the team needed him to be in terms of efficiency. He will continue to be a worthwhile fantasy asset for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/612453/alvin-kamara-scores-twice-loss-monday.php",
+      "player_id": 16421,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Alvin Kamara scores twice in loss Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-06 12:18:28",
+      "created_formated": "Tue, Oct 6th 12:18pm UTC",
+      "desc": "Devaughn Vele caught 6-of-9 targets for 54 yards and a touchdown in Monday night's 45-24 loss to the Atlanta Falcons.",
+      "id": 612452,
+      "impact": "Vele's strong start to the season continued on Monday night. He caught six passes for 54 yards over the course of the game, one of which he was able to take to the house for a touchdown. He will continue to have solid week-to-week upside until Jordyn Tyson (hamstring) is back in the lineup for the Saints.",
+      "link": "https://www.fantasypros.com/nfl/news/612452/devaughn-vele-finds-end-zone-monday.php",
+      "player_id": 26409,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Devaughn Vele finds end zone Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-06 12:16:46",
+      "created_formated": "Tue, Oct 6th 12:16pm UTC",
+      "desc": "Chris Olave caught 8-of-12 targets for 116 yards in Monday night's 45-24 loss to the Atlanta Falcons.",
+      "id": 612451,
+      "impact": "Olave was a bright spot for the Saints on Monday, leading the team in targets, receptions, and receiving yards in their loss to the Falcons. It briefly looked like he suffered a lower-body injury at the end of the game, but it sounds like he will be just fine, although it would still be smart for fantasy managers to monitor his status at practice throughout the week.",
+      "link": "https://www.fantasypros.com/nfl/news/612451/chris-olave-leads-team-receiving-monday.php",
+      "player_id": 20111,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Chris Olave leads team in receiving Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-06 12:14:24",
+      "created_formated": "Tue, Oct 6th 12:14pm UTC",
+      "desc": "Tyler Shough completed 30-of-48 passing attempts for 286 yards and a touchdown in Monday night's 45-24 loss to the Atlanta Falcons.",
+      "id": 612450,
+      "impact": "New Orleans had a rough game on Monday night, suffering a blowout loss at the hands of their divisional rivals at home. Shough was personally able to have an okay game, however, logging close to 300 total yards and taking good care of the ball over the course of the night. Fantasy managers probably aren't satisfied with his output in this game, but he should bounce back and return to having high value sometime within the next game or two.",
+      "link": "https://www.fantasypros.com/nfl/news/612450/tyler-shough-throws-286-yards-loss-monday.php",
+      "player_id": 23096,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Tyler Shough throws for 286 yards in loss Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-06 12:11:22",
+      "created_formated": "Tue, Oct 6th 12:11pm UTC",
+      "desc": "The Falcons' D/ST logged two sacks and one fumble recovery while allowing 24 points in Monday's win over the New Orleans Saints.",
+      "id": 612449,
+      "impact": "Atlanta's offense looked phenomenal on Monday night, but their defense wasn't as dominant. They allowed 24 points over the course of the night and weren't able to log many game-altering plays to help out their own offense. This unit should not be started in a tough matchup against the Ravens next week.",
+      "link": "https://www.fantasypros.com/nfl/news/612449/falcons-dst-allows-24-points-monday.php",
+      "player_id": 8010,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Falcons D/ST allows 24 points Monday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-06 12:08:00",
+      "created_formated": "Tue, Oct 6th 12:08pm UTC",
+      "desc": "Nick Folk went 6-for-6 on his extra-point attempts and made his lone field-goal attempt in Monday's 45-24 win over the New Orleans Saints.",
+      "id": 612448,
+      "impact": "The veteran played well on Monday, knocking down all seven of his attempted kick en route to a blowout win over the Saints. Atlanta's offense has looked great over the past couple of weeks, so Folk could be considered a decent starting option if he proves he can still be consistent at this point in his career.",
+      "link": "https://www.fantasypros.com/nfl/news/612448/nick-folk-scores-nine-points-monday.php",
+      "player_id": 9491,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Nick Folk scores nine points Monday"
     }
   ],
   "public_api": true,

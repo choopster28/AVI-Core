@@ -521,18 +521,19 @@
       }
     },
     {
-      "average": 24.1,
+      "average": 22.1,
       "filename": "tyler-shough.php",
-      "games": 3,
+      "games": 4,
       "player_id": 23096,
       "player_name": "Tyler Shough",
-      "points": 72.38,
+      "points": 88.32,
       "position_id": "QB",
       "team_id": "NO",
       "weeks": {
         "1": 25.2,
         "2": 22.4,
-        "3": 24.8
+        "3": 24.8,
+        "4": 15.9
       }
     },
     {
@@ -731,29 +732,31 @@
       }
     },
     {
-      "average": 24.5,
+      "average": 12.2,
       "filename": "case-keenum.php",
-      "games": 1,
+      "games": 2,
       "player_id": 11425,
       "player_name": "Case Keenum",
       "points": 24.48,
       "position_id": "QB",
       "team_id": "CHI",
       "weeks": {
-        "3": 24.5
+        "3": 24.5,
+        "4": 0
       }
     },
     {
-      "average": 15,
+      "average": 13.9,
       "filename": "michael-penix-jr.php",
-      "games": 1,
+      "games": 2,
       "player_id": 22973,
       "player_name": "Michael Penix Jr.",
-      "points": 15.04,
+      "points": 27.759999999999998,
       "position_id": "QB",
       "team_id": "ATL",
       "weeks": {
-        "3": 15
+        "3": 15,
+        "4": 12.7
       }
     },
     {

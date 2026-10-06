@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 760.9
-- championship_lineup_c_avi_avg: 95.11
-- offensive_roster_c_avi_sum: 1191.7
-- offensive_roster_c_avi_avg: 66.21
-- offensive_roster_d_avi_sum: 1409.2
-- offensive_roster_d_avi_avg: 78.29
+- championship_lineup_c_avi_sum: 720.1
+- championship_lineup_c_avi_avg: 90.01
+- offensive_roster_c_avi_sum: 1210.7
+- offensive_roster_c_avi_avg: 67.26
+- offensive_roster_d_avi_sum: 1382.8
+- offensive_roster_d_avi_avg: 76.82
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Josh Allen | C-AVI: 95.7 | D-AVI: 92.6
-- RB: Bijan Robinson | C-AVI: 98.5 | D-AVI: 98.2
-- RB: Jonathan Taylor | C-AVI: 97.3 | D-AVI: 96.6
-- WR: Puka Nacua | C-AVI: 99.5 | D-AVI: 99.3
-- WR: George Pickens | C-AVI: 93.4 | D-AVI: 95.7
-- TE: Harold Fannin | C-AVI: 93.0 | D-AVI: 90.6
-- FLEX: De'Von Achane | C-AVI: 96.1 | D-AVI: 95.5
-- FLEX: Breece Hall | C-AVI: 87.4 | D-AVI: 93.9
+- QB: Josh Allen | C-AVI: 95.5 | D-AVI: 92.6
+- RB: Bijan Robinson | C-AVI: 98.0 | D-AVI: 98.0
+- RB: Jonathan Taylor | C-AVI: 96.2 | D-AVI: 95.9
+- WR: Puka Nacua | C-AVI: 97.9 | D-AVI: 99.1
+- WR: George Pickens | C-AVI: 86.9 | D-AVI: 94.7
+- TE: Harold Fannin | C-AVI: 91.2 | D-AVI: 89.5
+- FLEX: Isaiah Likely | C-AVI: 79.9 | D-AVI: 83.1
+- FLEX: Matthew Golden | C-AVI: 74.5 | D-AVI: 81.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 95.7
+- Championship AVI (C-AVI, 0-100): 95.5
 - Dynasty AVI (D-AVI, 0-100): 92.6
 - Projected PPR points: 367.1
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Jacoby Brissett
 - Player name: Jacoby Brissett
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 47.6
-- Dynasty AVI (D-AVI, 0-100): 60.1
+- Championship AVI (C-AVI, 0-100): 55.3
+- Dynasty AVI (D-AVI, 0-100): 61.4
 - Projected PPR points: 238.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Bijan Robinson
 - Player name: Bijan Robinson
@@ -87,11 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 98.5
-- Dynasty AVI (D-AVI, 0-100): 98.2
+- Championship AVI (C-AVI, 0-100): 98.0
+- Dynasty AVI (D-AVI, 0-100): 98.0
 - Projected PPR points: 353.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Jonathan Taylor
 - Player name: Jonathan Taylor
@@ -104,28 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 97.3
-- Dynasty AVI (D-AVI, 0-100): 96.6
+- Championship AVI (C-AVI, 0-100): 96.2
+- Dynasty AVI (D-AVI, 0-100): 95.9
 - Projected PPR points: 309.3
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: De'Von Achane
-- Player name: De'Von Achane
-- Player ID: 9226
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: MIA
-- Active: True
-- Status: Inactive
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 96.1
-- Dynasty AVI (D-AVI, 0-100): 95.5
-- Projected PPR points: 300.6
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Breece Hall
 - Player name: Breece Hall
@@ -138,11 +121,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 87.4
-- Dynasty AVI (D-AVI, 0-100): 93.9
+- Championship AVI (C-AVI, 0-100): 87.7
+- Dynasty AVI (D-AVI, 0-100): 92.9
 - Projected PPR points: 246.5
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: De'Von Achane
+- Player name: De'Von Achane
+- Player ID: 9226
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: MIA
+- Active: True
+- Status: Inactive
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 69.2
+- Dynasty AVI (D-AVI, 0-100): 90.6
+- Projected PPR points: 300.6
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Kaelon Black
 - Player name: Kaelon Black
@@ -155,28 +155,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 46.8
-- Dynasty AVI (D-AVI, 0-100): 71.5
+- Championship AVI (C-AVI, 0-100): 51.4
+- Dynasty AVI (D-AVI, 0-100): 72.1
 - Projected PPR points: 88.6
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: Isaiah Davis
-- Player name: Isaiah Davis
-- Player ID: 11571
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: NYJ
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 38.9
-- Dynasty AVI (D-AVI, 0-100): 65.4
-- Projected PPR points: 41.3
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Seth McGowan
 - Player name: Seth McGowan
@@ -189,11 +172,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 35.9
-- Dynasty AVI (D-AVI, 0-100): 65.6
+- Championship AVI (C-AVI, 0-100): 40.6
+- Dynasty AVI (D-AVI, 0-100): 60.3
 - Projected PPR points: 26.9
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Isaiah Davis
+- Player name: Isaiah Davis
+- Player ID: 11571
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 33.3
+- Dynasty AVI (D-AVI, 0-100): 58.2
+- Projected PPR points: 41.3
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Austin Ekeler
 - Player name: Austin Ekeler
@@ -207,7 +207,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 40.2
+- Dynasty AVI (D-AVI, 0-100): 28.2
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
@@ -223,11 +223,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 99.5
-- Dynasty AVI (D-AVI, 0-100): 99.3
+- Championship AVI (C-AVI, 0-100): 97.9
+- Dynasty AVI (D-AVI, 0-100): 99.1
 - Projected PPR points: 338.3
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: George Pickens
 - Player name: George Pickens
@@ -240,11 +240,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 93.4
-- Dynasty AVI (D-AVI, 0-100): 95.7
+- Championship AVI (C-AVI, 0-100): 86.9
+- Dynasty AVI (D-AVI, 0-100): 94.7
 - Projected PPR points: 252.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Matthew Golden
 - Player name: Matthew Golden
@@ -257,28 +257,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 60.9
-- Dynasty AVI (D-AVI, 0-100): 79.9
+- Championship AVI (C-AVI, 0-100): 74.5
+- Dynasty AVI (D-AVI, 0-100): 81.9
 - Projected PPR points: 159.0
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: De'Zhaun Stribling
-- Player name: De'Zhaun Stribling
-- Player ID: 13417
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: SF
-- Active: True
-- Status: Inactive
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 60.3
-- Dynasty AVI (D-AVI, 0-100): 75.7
-- Projected PPR points: 157.9
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Devaughn Vele
 - Player name: Devaughn Vele
@@ -291,11 +274,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 46.5
-- Dynasty AVI (D-AVI, 0-100): 64.1
+- Championship AVI (C-AVI, 0-100): 66.4
+- Dynasty AVI (D-AVI, 0-100): 66.9
 - Projected PPR points: 99.9
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: De'Zhaun Stribling
+- Player name: De'Zhaun Stribling
+- Player ID: 13417
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: SF
+- Active: True
+- Status: Inactive
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 45.9
+- Dynasty AVI (D-AVI, 0-100): 73.1
+- Projected PPR points: 157.9
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Dohnte Meyers
 - Player name: Dohnte Meyers
@@ -308,11 +308,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 23.1
-- Dynasty AVI (D-AVI, 0-100): 41.4
+- Championship AVI (C-AVI, 0-100): 40.8
+- Dynasty AVI (D-AVI, 0-100): 44.3
 - Projected PPR points: 10.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Harold Fannin
 - Player name: Harold Fannin
@@ -325,11 +325,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 93.0
-- Dynasty AVI (D-AVI, 0-100): 90.6
+- Championship AVI (C-AVI, 0-100): 91.2
+- Dynasty AVI (D-AVI, 0-100): 89.5
 - Projected PPR points: 198.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Isaiah Likely
 - Player name: Isaiah Likely
@@ -342,11 +342,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 70.8
-- Dynasty AVI (D-AVI, 0-100): 82.9
+- Championship AVI (C-AVI, 0-100): 79.9
+- Dynasty AVI (D-AVI, 0-100): 83.1
 - Projected PPR points: 161.0
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Ka'imi Fairbairn
 - Player name: Ka'imi Fairbairn

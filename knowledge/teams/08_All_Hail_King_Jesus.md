@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 652.4
-- championship_lineup_c_avi_avg: 81.55
-- offensive_roster_c_avi_sum: 907.0
-- offensive_roster_c_avi_avg: 69.77
-- offensive_roster_d_avi_sum: 1037.2
-- offensive_roster_d_avi_avg: 79.78
+- championship_lineup_c_avi_sum: 622.8
+- championship_lineup_c_avi_avg: 77.85
+- offensive_roster_c_avi_sum: 973.3
+- offensive_roster_c_avi_avg: 74.87
+- offensive_roster_d_avi_sum: 1030.2
+- offensive_roster_d_avi_avg: 79.25
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Brock Purdy | C-AVI: 77.4 | D-AVI: 83.0
-- RB: D'Andre Swift | C-AVI: 80.7 | D-AVI: 88.7
-- RB: Zach Charbonnet | C-AVI: 51.0 | D-AVI: 79.2
-- WR: Amon-Ra St. Brown | C-AVI: 99.0 | D-AVI: 98.9
-- WR: Justin Jefferson | C-AVI: 97.8 | D-AVI: 98.1
-- TE: Dallas Goedert | C-AVI: 82.6 | D-AVI: 79.9
-- FLEX: Tee Higgins | C-AVI: 84.6 | D-AVI: 90.7
-- FLEX: Tucker Kraft | C-AVI: 79.3 | D-AVI: 87.0
+- QB: Brock Purdy | C-AVI: 84.3 | D-AVI: 84.1
+- RB: D'Andre Swift | C-AVI: 85.9 | D-AVI: 87.6
+- RB: George Holani | C-AVI: 50.5 | D-AVI: 61.4
+- WR: Amon-Ra St. Brown | C-AVI: 98.7 | D-AVI: 98.9
+- WR: Tee Higgins | C-AVI: 88.9 | D-AVI: 90.8
+- TE: Tucker Kraft | C-AVI: 76.9 | D-AVI: 86.8
+- FLEX: Deebo Samuel | C-AVI: 72.9 | D-AVI: 72.2
+- FLEX: Darren Waller | C-AVI: 64.7 | D-AVI: 59.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 77.4
-- Dynasty AVI (D-AVI, 0-100): 83.0
+- Championship AVI (C-AVI, 0-100): 84.3
+- Dynasty AVI (D-AVI, 0-100): 84.1
 - Projected PPR points: 310.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Bryce Young
 - Player name: Bryce Young
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 49.5
-- Dynasty AVI (D-AVI, 0-100): 69.9
+- Championship AVI (C-AVI, 0-100): 68.9
+- Dynasty AVI (D-AVI, 0-100): 73.1
 - Projected PPR points: 253.5
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: D'Andre Swift
 - Player name: D'Andre Swift
@@ -87,28 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 80.7
-- Dynasty AVI (D-AVI, 0-100): 88.7
+- Championship AVI (C-AVI, 0-100): 85.9
+- Dynasty AVI (D-AVI, 0-100): 87.6
 - Projected PPR points: 224.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: Zach Charbonnet
-- Player name: Zach Charbonnet
-- Player ID: 9753
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: SEA
-- Active: True
-- Status: Inactive
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 51.0
-- Dynasty AVI (D-AVI, 0-100): 79.2
-- Projected PPR points: 116.8
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: George Holani
 - Player name: George Holani
@@ -121,11 +104,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 40.6
-- Dynasty AVI (D-AVI, 0-100): 66.0
+- Championship AVI (C-AVI, 0-100): 50.5
+- Dynasty AVI (D-AVI, 0-100): 61.4
 - Projected PPR points: 43.5
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Zach Charbonnet
+- Player name: Zach Charbonnet
+- Player ID: 9753
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: SEA
+- Active: True
+- Status: Inactive
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 39.6
+- Dynasty AVI (D-AVI, 0-100): 75.0
+- Projected PPR points: 116.8
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Amon-Ra St. Brown
 - Player name: Amon-Ra St. Brown
@@ -138,11 +138,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 99.0
+- Championship AVI (C-AVI, 0-100): 98.7
 - Dynasty AVI (D-AVI, 0-100): 98.9
 - Projected PPR points: 333.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Justin Jefferson
 - Player name: Justin Jefferson
@@ -155,11 +155,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 97.8
-- Dynasty AVI (D-AVI, 0-100): 98.1
+- Championship AVI (C-AVI, 0-100): 92.3
+- Dynasty AVI (D-AVI, 0-100): 97.2
 - Projected PPR points: 273.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Tee Higgins
 - Player name: Tee Higgins
@@ -172,11 +172,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 84.6
-- Dynasty AVI (D-AVI, 0-100): 90.7
+- Championship AVI (C-AVI, 0-100): 88.9
+- Dynasty AVI (D-AVI, 0-100): 90.8
 - Projected PPR points: 220.6
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Deebo Samuel
 - Player name: Deebo Samuel
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 59.8
-- Dynasty AVI (D-AVI, 0-100): 72.6
+- Championship AVI (C-AVI, 0-100): 72.9
+- Dynasty AVI (D-AVI, 0-100): 72.2
 - Projected PPR points: 162.7
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Keenan Allen
 - Player name: Keenan Allen
@@ -206,11 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 34.0
-- Championship AVI (C-AVI, 0-100): 52.2
-- Dynasty AVI (D-AVI, 0-100): 61.8
+- Championship AVI (C-AVI, 0-100): 64.8
+- Dynasty AVI (D-AVI, 0-100): 63.9
 - Projected PPR points: 141.6
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Dallas Goedert
 - Player name: Dallas Goedert
@@ -223,11 +223,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 82.6
-- Dynasty AVI (D-AVI, 0-100): 79.9
+- Championship AVI (C-AVI, 0-100): 84.9
+- Dynasty AVI (D-AVI, 0-100): 79.3
 - Projected PPR points: 185.1
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Tucker Kraft
 - Player name: Tucker Kraft
@@ -240,11 +240,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 79.3
-- Dynasty AVI (D-AVI, 0-100): 87.0
+- Championship AVI (C-AVI, 0-100): 76.9
+- Dynasty AVI (D-AVI, 0-100): 86.8
 - Projected PPR points: 173.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Darren Waller
 - Player name: Darren Waller
@@ -257,11 +257,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 34.0
-- Championship AVI (C-AVI, 0-100): 52.5
-- Dynasty AVI (D-AVI, 0-100): 61.4
+- Championship AVI (C-AVI, 0-100): 64.7
+- Dynasty AVI (D-AVI, 0-100): 59.9
 - Projected PPR points: 115.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Tyler Loop
 - Player name: Tyler Loop
