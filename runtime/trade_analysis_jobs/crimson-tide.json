@@ -1,5 +1,28 @@
 [
   {
+    "id": "mux72agp-2703ed10",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "KC Concepcion",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1791322328186,
+    "updatedAt": 1791322328186,
+    "expiresAt": 1791754328186,
+    "status": "queued"
+  },
+  {
     "id": "mux6w10i-c68c9969",
     "phase": "initial",
     "mode": "propose_trade",
