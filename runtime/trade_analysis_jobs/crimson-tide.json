@@ -18,9 +18,338 @@
       "foundationAssets": []
     },
     "createdAt": 1791322036002,
-    "updatedAt": 1791322037348,
+    "updatedAt": 1791322080720,
     "expiresAt": 1791754036002,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods (Rebuild) targets rookie receiver KC Concepcion from Ravens Regime (Playoff Push / Increase Championship Odds). By offering veteran wide receiver Jakobi Meyers (C-AVI 74.5) alongside a 2027 2nd-round pick, Crimson Tide Pods delivers an immediate scoring upgrade to Ravens Regime's 2026 championship lineup while successfully securing a 22-year-old 1st-round NFL draft pick with high long-term dynasty trajectory (D-AVI 83.7).",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 74.5,
+              "davi": 80.5,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            },
+            {
+              "name": "2027 Round 2 Pick (Lightskin Legends)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "KC Concepcion",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 22,
+              "cavi": 63.5,
+              "davi": 83.7,
+              "publicMarket": 78,
+              "leagueMarket": 82
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "This offer aligns both organizational goals perfectly. Crimson Tide Pods converts 29-year-old Jakobi Meyers and mid-tier draft capital into a 22-year-old cornerstone receiver for the rebuild. Ravens Regime gets a proven high-volume starter who increases their 2026 title odds immediately, plus a valuable 2027 2nd pick."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "The proposed package of Jakobi Meyers + 2027 2nd for KC Concepcion represents the optimal win-win construction between a rebuilder and a playoff contender."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Significantly advances the long-term rebuild by securing a high-ceiling 22-year-old receiver."
+            },
+            "championshipOutlook": {
+              "score": -8,
+              "summary": "Slight drop in immediate 2026 points, which is fully acceptable for a rebuilding roster."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Acquires an 83.7 D-AVI rookie receiver entering his prime production window."
+            },
+            "lineupQuality": {
+              "score": -5,
+              "summary": "Replaces 29-year-old Jakobi Meyers with 22-year-old KC Concepcion in the starting lineup."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Maintains solid young receiver core alongside Wan'Dale Robinson and Michael Pittman."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Uses one of several 2027 2nd-round picks to close the deal."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 35,
+              "summary": "Directly boosts 2026 championship push while maintaining draft liquidity."
+            },
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Gains an immediate +11.0 C-AVI upgrade at WR/FLEX for the 2026 title run."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Trades youth for immediate production, cushioned by acquiring a 2027 2nd pick."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Upgrades starting WR3/FLEX slot with Jakobi Meyers' high PPR volume."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds a proven veteran who insulates the starting lineup against injuries."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Adds a valuable 2027 2nd-round draft asset."
+            }
+          },
+          "explanation": "Crimson Tide Pods trades win-now points (Meyers) and draft capital for long-term dynasty value (Concepcion). Ravens Regime receives immediate starter production to maximize their 2026 Playoff Push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods incurs a negligible 2026 C-AVI decrease (-11.0 C-AVI diff between Meyers and Concepcion), which has zero negative consequence for a rebuilding franchise.",
+          "sideADynastyImpact": "D-AVI increases by +3.2 in player asset quality while converting a 29-year-old aging asset into a 22-year-old 1st-round NFL pick with high target command in Cleveland.",
+          "sideARosterImpact": "Positions Concepcion alongside Wan'Dale Robinson, Alec Pierce, and Germie Bernard as the foundation of the rebuilt receiving corps.",
+          "sideBChampionshipImpact": "Ravens Regime immediately improves 2026 starting lineup production by replacing Concepcion (63.5 C-AVI) with Meyers (74.5 C-AVI).",
+          "sideBDynastyImpact": "Exchanges long-term youth for immediate championship odds, mitigated by receiving a 2027 2nd-round pick (48.5 D-AVI).",
+          "sideBRosterImpact": "Strengthens WR3/FLEX reliability behind Zay Flowers and Carnell Tate for the upcoming playoff run.",
+          "valueAssessment": "Balanced cross-goal trade structure where C-AVI flows to the contender and D-AVI/youth flows to the rebuilder."
+        },
+        "publicMarketAnalysis": {
+          "summary": "KC Concepcion was selected 24th overall in the 2026 NFL Draft by Cleveland. While commanding a high target share early in his rookie season, his box score efficiency has been bottlenecked by team offensive struggles, making him a prime buy target for rebuilding fantasy managers.",
+          "aviVsMarket": "Public market rates Concepcion high on draft capital and volume potential (D-AVI 83.7). Jakobi Meyers remains an undervalued public market PPG contributor who consistently produces top-24 WR weeks.",
+          "relevantContext": [
+            "Concepcion leads Cleveland in early rookie targets but averages lower yards per catch, creating a temporary buying window.",
+            "Meyers continues to operate as a reliable target in Jacksonville with high PPR floor.",
+            "Ravens Regime manager Mentomorii is focused on Playoff Push / Increasing Championship Odds."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mentomorii (Ravens Regime) is actively pushing for a championship and needs reliable weekly starters over developing rookies.",
+          "packageFit": "Jakobi Meyers gives Ravens Regime an established WR who scores points right now, plus a 2027 2nd pick for future flexibility.",
+          "lineupReplacement": "Jakobi Meyers seamlessly replaces Concepcion in Ravens Regime's starting WR3/FLEX slot, providing an immediate performance upgrade.",
+          "competitiveWindowFit": "Directly supports Ravens Regime's stated goal to 'Increase Championship Odds' during the 2026 season.",
+          "positionalScarcity": "In a 16-team league, reliable PPR WRs with 12+ PPR point floors are highly coveted by playoff contenders."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 85,
+          "classification": "Realistic",
+          "explanation": "Because KC Concepcion's availability is unlisted, standard unknown availability rules apply (non-veto). The proposed offer directly solves Ravens Regime's goal to Increase Championship Odds by supplying an immediate starter in Jakobi Meyers plus draft capital, creating an 85% acceptance probability."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal perfectly intersects Crimson Tide Pods' Rebuild goal with Ravens Regime's Playoff Push goal. It converts a 29-year-old veteran receiver and a secondary draft pick into a premier 22-year-old receiving prospect.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 74.5,
+              "davi": 80.5,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            },
+            {
+              "name": "2027 Round 2 Pick (Lightskin Legends)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "KC Concepcion",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 22,
+              "cavi": 63.5,
+              "davi": 83.7,
+              "publicMarket": 78,
+              "leagueMarket": 82
+            }
+          ],
+          "whyUserShouldDoIt": "You capitalize on Concepcion's early-season efficiency lull to acquire a 22-year-old 1st-round receiver while offloading a 29-year-old veteran who does not match your rebuild timeline.",
+          "whyOpponentMightAccept": "Ravens Regime gets an immediate +11.0 C-AVI upgrade in their starting WR/FLEX spot for the 2026 title run, plus an extra 2027 2nd-round pick."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Wan'Dale Robinson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 25,
+              "cavi": 73.3,
+              "davi": 81.7,
+              "publicMarket": 70,
+              "leagueMarket": 73
+            },
+            {
+              "name": "2027 Round 3 Pick (Corgi Loaf)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "KC Concepcion",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 22,
+              "cavi": 63.5,
+              "davi": 83.7,
+              "publicMarket": 78,
+              "leagueMarket": 82
+            }
+          ],
+          "rationale": "If Ravens Regime prefers a slightly younger receiver (Wan'Dale Robinson, age 25, C-AVI 73.3), you can offer Wan'Dale with a lighter pick sweetener (2027 3rd) to accomplish the same structural objective."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "KC Concepcion college football news",
+          "KC Concepcion NFL draft team news status"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Yj-FXgrm8dxgNeJ7Pt2bAgwO81IPu3e47aT4QOPcde4Qhz0n7Owv0efTL-w0g5nYNQx8OHeWyEYlVVgqEZADvxHZwomqnj_IMemeNcBIbnGq4qDDLwGQUYHAHhBaGnrtqz45HtpE",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkbUzejo9DQRQgg1tOhB7m2kPZjpvB0l6Qx2Fufk0GlCa7s9yhjzlVhQPgehRFrDMuD21Jq5olpfgi4mMmfhFW-yjKfmARt7ZpIViccaRmSgRrmtwPW2TPF_-Xz9Y0Y5Ay6qcdpuy1Bg4=",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-7W_B9BAKG13ffNCdRncYuDaKlD0WhYpmYDaeJyfNKBRV60laj6BN-T17Ax0YSfX0h9I_PWqDhpARtU9mn69CqUGlROb2I3x_9RvQarWwb54_TNGCx9kU2v2K-6PtAIRGjqI3f5oQAHyMnQsFwv3vSHJdwwYzoPF2PM0e_Vlf",
+            "title": "nfldraftbuzz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzDneQALOHo3JpF6pKEOEIyjLsntv55bC6RfFQJSgs0g2I77WRZp48juTuBMR56HO39FraPvzQ_SFpWwTcsny__m-FevEd-KVqIuaxMvtNslb5yZhFMTo7JW9ye87D2I5j6LGdc4O69SKGkA5zwp_uMWwitjAW1008Y4Pdy7PlJTYHlqvEzIVKSYMkcPufT-CTFSl-Gm__aikh5oGhUIrQFkJGJUxkWRsjXOXnmg==",
+            "title": "dawgpounddaily.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEx4-63tiGc649XF1Y3XbvYloZInaeAYSZCWdZPGsfn7coYdY9DGghez94RQ-nparae09j8zoSdb3_GePZCW0vVy5-BNc-mdWu7HZjhxQKUbJ_J2rHiRqcTv56qa4rKKbSy3whm9nTt17OWxR_Rq6oqytFbsqb4Uqv_5GN8nt6lWhYCyB2TVVMm_w=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLR_Prh_uR4X0hjd1EJwdHFrPV95R83HSokOc4F5CsKtIO_S1sVVTgmAYoUstxGOuLpy5tE9vtuOYfOfi-JhZtM5z37dOk476L_xEDv6O2Hp_Q2REURIWasdfzdMBjy7RJEzdAbSV-wQEvXXLKGo2ilnRLLKl4iTe-CNwnyMa5nRIokrT08Zbz4s4=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRT6CI0QaY5pn7Do8cm8Ednq_Es4Ted_5nx8XJ2pp7KnMjiiltS_g6swHd2hK0KxVQBJoWrlNo2KaCLxwfL8pwlDhu68YhLm9ECQXEKyz--DoqrcZnY1PEXvqYPvTZeejAuzpfIOqEMqQXqU5SSyZjo0nevVAQUkSQrQaD6vGhi2Zh6SZ8T2aQ5Rx4uXVkPT0D1Q921KdH4TIHBBU0oxM=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxQo0aN03Bb0rPXj8eJJ0qY3j77Ugyzr2sydYTvSGeeUL3AI11sfaAf2O_tw4wh7bouXrob84QYAFFs1iR6FXSKVLBeeoTNoF-JTnLLHA-7cT4DSJT0CDftJvhnopP4Z0v7agVqHV-WKx3Izg0wFS49MLObpwEmKh0D6hdFhNHfERSq31mvdaStvskGCZZN-ILNfAr0fn0_UX7",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "738753983ee8e3d2550df9933c39ea645a59f9c9",
+        "aviCoreCommittedAt": "2026-10-06T19:54:50Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88429,
+        "groundedMarketChars": 2753,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mux6su51-139751ba",
