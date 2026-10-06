@@ -1,5 +1,47 @@
 [
   {
+    "id": "muwszjqr-1275c0de",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Rapid Valley Annihilation",
+      "trade": {
+        "sideA": [
+          {
+            "name": "DJ Moore",
+            "assetType": "player"
+          },
+          {
+            "name": "David Montgomery",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 1st · Northside · Projected early range (1.01–1.05)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Quinshon Judkins",
+            "assetType": "player"
+          },
+          {
+            "name": "Denzel Boston",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1791298685620,
+    "updatedAt": 1791298685620,
+    "expiresAt": 1791730685620,
+    "status": "queued"
+  },
+  {
     "id": "muwsno7c-387ab386",
     "phase": "initial",
     "mode": "analyze_trade",
