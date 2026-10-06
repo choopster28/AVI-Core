@@ -1,1 +1,360 @@
-[]
+[
+  {
+    "id": "mux6nxa3-2c0045bb",
+    "createdAt": 1791321722909,
+    "expiresAt": 1791753722909,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Crimson Tide Pods ↔ Ravens Regime",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2027 2nd · Lightskin · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 2nd · Corgi Loaf · Projected late range (2.10–2.16)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "KC Concepcion",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods (Rebuild) is proposing two 2nd-round draft picks (2027 2nd Lightskin and 2028 2nd Corgi Loaf) to Ravens Regime (Playoff Push) for rookie wide receiver KC Concepcion. From the sending user's perspective, acquiring a 22-year-old NFL 1st-round draft pick wide receiver with an 83.7 D-AVI for two non-1st-round future draft picks is a significant dynasty value win. However, Ravens Regime's primary goal is to Increase Championship Odds. Receiving two distant 2nd-round picks offers zero immediate scoring help and degrades their active WR/FLEX depth. Because Ravens Regime has a low probability of accepting this submitted offer as constructed (48% Acceptance Probability / Unlikely), AVI recommends revising the offer by sending a 2027 1st-round pick (e.g., 2027 1st DMV Fantasy) or bundling a 2nd-round pick with a win-now starter like Michael Pittman to create a viable transaction.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2027 2nd (Lightskin Legends)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 2nd (Corgi Loaf Baking Co.)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "KC Concepcion",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 22,
+              "cavi": 63.5,
+              "davi": 83.7,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "C-",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "The submitted offer strongly favors Crimson Tide Pods. Securing KC Concepcion (D-AVI 83.7) without relinquishing a 1st-round pick is an exceptional rebuilding acquisition. However, for Ravens Regime, surrendering a key young wide receiver for two non-1st-round picks provides no immediate lineup help for their Playoff Push and underpays for Concepcion's dynasty profile."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Revising the offer to send a 2027 1st-round pick (DMV Fantasy) for KC Concepcion establishes true market equality. Crimson Tide Pods leverages one of its five 2027 1st-round picks to secure an elite young WR cornerstone, while Ravens Regime receives premium draft liquidity that matches Concepcion's valuation."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Slight boost to current scoring capability via Concepcion's 63.5 C-AVI, adding startable WR/FLEX talent."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Substantial long-term dynasty boost by acquiring an 83.7 D-AVI cornerstone player."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Enhances starting WR/FLEX depth alongside Jakobi Meyers, Wan'Dale Robinson, and Michael Pittman."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Strengthens weekly offensive bench resilience with a high-volume rookie receiver."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Slight reduction in future mid-round draft pick flexibility."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Net positive portfolio upgrade for a rebuilding team by converting two secondary picks into a 22-year-old 1st-round NFL wide receiver."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Hurts short-term championship odds by subtracting a 63.5 C-AVI active wide receiver without adding immediate points."
+            },
+            "dynastyOutlook": {
+              "score": -30,
+              "summary": "Loses a premium 22-year-old wide receiver asset (83.7 D-AVI) for two lower-tier 2nd-round draft picks."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Reduces WR/FLEX rotation strength behind Zay Flowers and Carnell Tate."
+            },
+            "depthResilience": {
+              "score": -25,
+              "summary": "Exposes the offensive bench to heightened injury risk by removing key receiver depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Adds two future 2nd-round draft picks to the trade arsenal."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Negative overall impact for a contending team trading away active receiver depth for non-immediate assets."
+            }
+          },
+          "explanation": "The trade creates a clear divergence in organizational outcomes. Crimson Tide Pods gains significant long-term dynasty power by turning secondary picks into a high-ceiling 22-year-old wide receiver. Conversely, Ravens Regime suffers a blow to both current lineup depth and overall asset quality, making the submitted deal problematic for their Playoff Push goals."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods improves its C-AVI sum by +63.5, providing immediate WR3/FLEX startability without subtracting any active roster production.",
+          "sideADynastyImpact": "D-AVI increases materially as Crimson Tide Pods adds an 83.7 D-AVI asset while parting with two picks valued at 48.5 D-AVI each.",
+          "sideARosterImpact": "Concepcion immediately slots into the WR/FLEX rotation, providing age relief and elite target-earning ceiling.",
+          "sideBChampionshipImpact": "Ravens Regime loses 63.5 C-AVI from its active bench/FLEX rotation, directly lowering immediate championship depth.",
+          "sideBDynastyImpact": "Ravens Regime loses a net -35.2 D-AVI differential between Concepcion and the incoming 2nd-round picks.",
+          "sideBRosterImpact": "Leaves Ravens Regime thinner at WR behind Zay Flowers and Carnell Tate, forcing reliance on deeper bench stashes.",
+          "valueAssessment": "On raw market value, two 2nd-round draft picks fall short of a 1st-round NFL wide receiver. In dynasty fantasy football, bundling secondary picks rarely satisfies a seller surrendering a blue-chip young talent."
+        },
+        "publicMarketAnalysis": {
+          "summary": "KC Concepcion was selected 24th overall in the 20th 2026 NFL Draft by the Cleveland Browns. He has earned an immediate high target share as a rookie, establishing himself as an elite short-area separator and YAC generator. Consensus dynasty rankings place him in the WR30–WR41 range, where he is universally valued as a mid-to-high 1st-round dynasty rookie pick.",
+          "aviVsMarket": "AVI rates Concepcion at 63.5 C-AVI and 83.7 D-AVI. Public dynasty consensus aligns closely, pricing Concepcion as a premium young asset worth significantly more than two mid-to-late 2nd-round draft picks.",
+          "relevantContext": [
+            "Selected 24th overall in the 1st round of the 2026 NFL Draft by Cleveland.",
+            "Tied for the team lead in receptions through his first month of NFL games.",
+            "Consensus top-35 dynasty wide receiver across public platforms.",
+            "Prime long-term fit for rebuilding rosters due to 1st-round draft capital and 22.0 age."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is currently pursuing a Playoff Push to Increase Championship Odds. Their front office is focused on accumulating starting power and championship depth rather than stock-piling secondary future picks.",
+          "packageFit": "Two 2nd-round draft picks (2027 mid and 2028 late) fail to address Ravens Regime's immediate competitive needs or match Concepcion's market value.",
+          "lineupReplacement": "Trading Concepcion removes active WR/FLEX depth without supplying a replacement starter or bench producer.",
+          "competitiveWindowFit": "Distant 2nd-round draft picks do not support a 2026 championship push.",
+          "positionalScarcity": "In a 16-team full PPR league, young wide receivers with 1st-round NFL draft capital and high target volume command premium compensation."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 8,
+            "packageMatch": 10,
+            "lineupReplacement": 10,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 48,
+          "classification": "Unlikely",
+          "explanation": "Ravens Regime is in a Playoff Push and has minimal incentive to trade away an active 22-year-old receiver depth piece for two future 2nd-round picks that offer zero current points."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "While acquiring KC Concepcion for two 2nd-round picks is a great value win for Crimson Tide Pods (User Grade: A-), the offer has an Acceptance Probability of 48% (Unlikely) because it contradicts Ravens Regime's Playoff Push goals. To successfully land Concepcion, Crimson Tide Pods should revise the package by offering a 2027 1st-round pick or pairing a 2nd-round pick with a win-now starter.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2027 1st (DMV Fantasy)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "KC Concepcion",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 22,
+              "cavi": 63.5,
+              "davi": 83.7,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            }
+          ],
+          "whyUserShouldDoIt": "Crimson Tide Pods currently owns five 2027 1st-round draft picks. Using one 2027 1st to secure a proven 1st-round NFL rookie wide receiver eliminates draft risk while solidifying a core wide receiver for the rebuild.",
+          "whyOpponentMightAccept": "Ravens Regime secures a liquid, premium 2027 1st-round draft pick that can be re-traded in-season for immediate championship upgrades or kept as top-tier franchise value."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "2027 2nd (Lightskin Legends)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "Michael Pittman",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 65.2,
+              "davi": 77.4,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            }
+          ],
+          "receive": [
+            {
+              "name": "KC Concepcion",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 22,
+              "cavi": 63.5,
+              "davi": 83.7,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            }
+          ],
+          "rationale": "Provides Ravens Regime with an immediate starting wide receiver in Michael Pittman (65.2 C-AVI) to power their Playoff Push plus a 2027 2nd, while Crimson Tide Pods gets seven years younger at receiver by acquiring Concepcion."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "KC Concepcion football player college NFL draft 2026 2027",
+          "KC Concepcion news fantasy dynasty"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoSDQ_mqB_5bVxsLPIX55LUmCvgEEEyaQZzAK0Q26ZSWFnDiTezLHbLZwNSfAUH0qkApaYe_CuftEuClvtFFsO9JsfrrHzovq5GOnEzl_kSDX5PqdvZ6yAFoT7AEtZfk5kTWkiiZkvbKK-mHENlfTO_U4wTQ==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEshUuNp4tksEIMEQrFf6zrZrosnSBO9W0j4CYrPqNnDut0dUBKGzPaPaPyGMp8X3i04VDUMYoTJs3-B_iHR0yBOq0KijPW2NCl9qkZa98rr4ina6KEawp-72576jmsz9ax3xrREYhqFYohupdZXMlJ1DvK9iuJMas6_NkfvL12G36-AAZ_lpMPS2uOPaDcQ6tYDHVvkfmEAAfWvgC7xBJ6tQ==",
+            "title": "12thman.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP4QPcLeh2_dzbTpYNUY3RCHNM_W_NNZ_amdOiS6UT85t8ydL628Sd6_X7HLglZg7wAKAg0tQ0HmlwxLO7QdpHLo67aUnCmKSCmaj_R4kFn1TMCQ_NQtAKB03xCmpYZgYGSYqujJhrCeCe5wulNrmtFs6iKm9yv5j-4A010Zo=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-YhC7_TfCeX55c8Ptygl5seQ4FT_ttuFSwI2aWN4sbjNBUsEHbquRdR_Alaj-IrAKDF07boRP3F1V-F4L1PZ_duhjcdZp5H3JZWWBe0jI2-FruRAvxrTOXADAUCfpFnovWeirGvaN5Z0ZhIs8udcVdCeH5ZDZGSSa",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEVAbtTEBeutuLUSOqbjguoJ3w14ZoPykosfORC4X9Rb0DXTbj4GGJ72sJqqWGzd5KFq1PeIb2RFJnuH_nACStqo82CUdCXteyDg8DlO7q4HxaoJ-iALibhRY5gZn4iriHoNKW0LiBOPt227HZHssMgA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENQgDm95tKpvvWnwoW2ilfW3yJWO5iDeRdZZz0OtEfDrHvZHOB-cmifwTzgm3QErVDSbK5szp4a5JbPP-9Im1c4Cx4WOxaKCFm_fQehDGTF3tQiaHIDYm4o4-qKOg3X1jAFOfxH614",
+            "title": "dynastynerds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNbV3L5kSXAirpdaUAqwb_TBeMPKlBtOdRcvydnHzU8jaNAw2VhQu-v_3ib3oeRAS2aD5ikcZTdo5TvwGbbc3CMi3A8gURuImFzdnHL5rsbrQYXnjF3Y9tbqj0lDQdhL4=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGU10FRhxYABtP5XCXOq5UKSLzn6EAzlH0bgBPjjZlkJ7ZmFqmlh7-pgyqLbATIfSt0hLJHHPNnXPfuu3c7qASBFFieLHD3MDV8d_g_moxwlEqh6C9_sKI02yfoJVzAMceXcDRjQWsIepgc6oToFiw8PVSVSBC0vZdOsN-HsKoy7-_sTsf",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA1HfYHN4vOqiz-oz4Xn5_OAZVdaH3rDJa3H9y14ZwLtyaH6Sqgwh5SpcT2unlw7mbTqOVrEvdOdN5t0261K0SobPTFiwTcgymJy6jKt8GqWkK6hIkakYPNasDhN-kHBaxkclzmHSkqpYpGxlaxBjL7hRGQAoN0zS_uezlbzof-EkT4CeMXCnzZfiMwwLE3x0M5Pyfft0c2bTf",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtFLLNNu1XH9fcnHlyDjpt_fkn0_Fyj9fwaR3zobSAHLG3gOZ9uV9awWAD8LsoQnfaGoJiAjDkS1O6FuXf2aI9fbMLFM3A8aT_2pxLPZbytxSotePAO4oAfmt1OM32n-TMkVkKtItv4h-XALtx1XRKPN4yLyx8WWhfzyjtraXALzLbbnB2aoj8O30KhPseGKVrHqgDOgXdiocic525Ivk=",
+            "title": "profootballnetwork.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "738753983ee8e3d2550df9933c39ea645a59f9c9",
+        "aviCoreCommittedAt": "2026-10-06T19:54:50Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88429,
+        "groundedMarketChars": 2112,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  }
+]
