@@ -1,5 +1,349 @@
 [
   {
+    "id": "mux6su51-139751ba",
+    "createdAt": 1791321956272,
+    "expiresAt": 1791753956272,
+    "mode": "improve_team",
+    "title": "Initial Improve My Team · Crimson Tide Pods",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods is uniquely positioned in its Rebuild cycle with five future 1st-round picks through 2029 and significant liquid draft flexibility. By leveraging this capital surplus alongside productive, starter-caliber receivers like Jakobi Meyers, Wan'Dale Robinson, and Alec Pierce, the franchise can target elite young core assets across the league. In particular, targeting confirmed trade-block cornerstones (Amon-Ra St. Brown, De'Von Achane) and ascending alpha wideouts (Ladd McConkey) provides the highest D-AVI accumulation without compromising trade realism.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Massive war chest of future draft capital including extra 2027 and 2028 1st-round picks",
+            "Multiple league-relative starter/FLEX-caliber wide receivers with solid trade liquidity",
+            "Clean long-term roster construction unencumbered by aging, high-salary contracts"
+          ],
+          "priorityNeeds": [
+            "Elite franchise cornerstone playmakers at WR and RB to anchor the future starting lineup",
+            "High D-AVI core assets (D-AVI > 90.0) that appreciate over a 2-5 year timeline",
+            "Consolidation of depth pieces and picks into elite blue-chip talents"
+          ],
+          "tradeableSurplus": [
+            "Surplus future 1st-round draft picks (2027 Ravens Regime 1st, 2027 Mile High Royal Lions 1st, 2028 All Hail King Jesus 1st)",
+            "Productive veteran/starter receivers (Jakobi Meyers, Wan'Dale Robinson, Alec Pierce)"
+          ],
+          "constraintsApplied": [
+            "User organizational goal: Rebuild",
+            "Mandatory two-organization goal validation for every trade partner",
+            "Starter-for-starter realism (all player assets sent belong to league-relative starter/FLEX pool)",
+            "Strict injury protocol applied to De'Von Achane (no active 2026 scoring credited to buyer)"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding or Retooling franchises unwilling to part with young core cornerstones for pick-heavy packages",
+            "Championship contenders unwilling to surrender healthy S-tier assets without receiving equal top-tier active production in return",
+            "Roster depth constraints or lack of alignment with seller organizational goals"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Conquistadors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "De'Von Achane",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "RB",
+                "age": 24,
+                "cavi": 69.2,
+                "davi": 90.6,
+                "publicMarket": 82,
+                "leagueMarket": 85
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jakobi Meyers",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 29,
+                "cavi": 74.5,
+                "davi": 80.5,
+                "publicMarket": 72,
+                "leagueMarket": 74
+              },
+              {
+                "name": "2027 Round 1 (Mile High Royal Lions)",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Contender Production Buy-Low",
+            "strategicGoal": "Acquire an elite 24-year-old dynasty RB on IR from a championship contender who urgently needs active 2026 lineup points.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 24,
+              "packageMatch": 18,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 95,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "As a Rebuilding team, Crimson Tide Pods does not require 2026 scoring. Acquiring De'Von Achane (D-AVI 90.6) while he recovers on IR converts a 29-year-old WR and draft capital into a foundational, explosive 24-year-old RB centerpiece for 2027 and beyond.",
+            "whyOpponentMightAccept": "Conquistadors is a 'Win Championship' favorite whose championship odds are hurt by Achane's season-ending injury. Receiving Jakobi Meyers provides immediate startable WR2/FLEX production (180.4 projected PPR points) alongside a premium 2027 1st-round pick.",
+            "championshipImpact": "Crimson Tide Pods defers immediate 2026 points, perfectly aligning with a Rebuild stance while securing top-tier 2027 championship upside.",
+            "dynastyImpact": "Adds a 90.6 D-AVI tier-one running back to anchor the team's long-term offensive core.",
+            "rosterImpact": "Clears a veteran WR spot while locking in an elite long-term RB asset.",
+            "publicMarketContext": "Public market consensus treats Achane as a premier dynasty hold due to his elite speed and dual-threat profile, creating a prime buy-low opportunity while he is sidelined.",
+            "risks": [
+              "Achane's return timetable from knee injury extends into early 2027 training camp",
+              "Loss of a 2027 1st-round pick reduces draft-night flexibility"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Jakobi Meyers and a 2027 2nd-round pick, highlighting the immediate active points Meyers brings to their title push.",
+              "acceptableConcession": "Upgrade the pick component to the 2027 1st (Mile High Royal Lions) as structured.",
+              "walkAwayPoint": "Walk away if Conquistadors demands multiple 1st-round picks in addition to active starter receivers."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Lightskin Legends ✊🏽",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Ladd McConkey",
+                "assetType": "player",
+                "owner": "Lightskin Legends ✊🏽",
+                "position": "WR",
+                "age": 24,
+                "cavi": 80,
+                "davi": 90.7,
+                "publicMarket": 86,
+                "leagueMarket": 85
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Wan'Dale Robinson",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 25,
+                "cavi": 73.3,
+                "davi": 81.7,
+                "publicMarket": 76,
+                "leagueMarket": 75
+              },
+              {
+                "name": "2027 Round 1 (Crimson Tide Pods)",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Young Core Upgrade",
+            "strategicGoal": "Upgrade from a slot/gadget starter to a 24-year-old WR1 focal point (D-AVI 90.7) by pairing current PPR production with a future 1st.",
+            "scoring": {
+              "availability": 18,
+              "opposingGmMotivation": 20,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 78,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "McConkey is a 90.7 D-AVI high-ceiling target monster in an ascending passing offense. Trading Wan'Dale Robinson plus a 2027 1st converts depth and capital into an elite young starter.",
+            "whyOpponentMightAccept": "Lightskin Legends ✊🏽 gets Wan'Dale Robinson (C-AVI 73.3, projected 173.9 PPR points) to preserve immediate starting lineup scoring while gaining a premium 2027 1st-round pick for future flexibility.",
+            "championshipImpact": "Significantly raises the team's long-term scoring ceiling.",
+            "dynastyImpact": "Secures an ascending 24-year-old wide receiver with 90+ D-AVI.",
+            "rosterImpact": "Upgrades starting WR slot quality without losing structural depth.",
+            "publicMarketContext": "Public market sentiment on McConkey is extremely high due to his focal role in the Chargers passing game and strong separation metrics.",
+            "risks": [
+              "Trading the team's own 2027 1st pick gives away potentially early draft positioning if the rebuild extends"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Wan'Dale Robinson and a 2027 2nd-round pick.",
+              "acceptableConcession": "Include the 2027 1st (Crimson Tide Pods) if McConkey is made fully available.",
+              "walkAwayPoint": "Walk away if opponent demands an additional 1st-round pick or secondary starter."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "De Von Achane news 2026",
+          "Jaxon Smith Njigba news 2026",
+          "Alec Pierce news 2026",
+          "Christian Watson news 2026",
+          "Jakobi Meyers news 2026",
+          "Wan Dale Robinson news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo6Yee2m8rC_03tV9zzEKSmxPiG86XJIHrtI5kCKlsjLdKQyZ0wQgTMykrDCDEnOrUqZbyLY7MaNH4ixR8wHcGPsALdXe1TSM7ExiES8mNY892rPReR4R1MbJkDpWO7d8VFA-HHuwF2s6NB4wRLICe1alIXhcGV_l2NurUmOGJ3MiDMPw8JraQaTJ0-m-hM2TeFGlhFP-CWHMq90FPKYMBZXEDzB6K51E2kujVb85pwl0hQTOb4DV3S-wkU_AdIhpBGLm4rpV6Rg==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc-UBCBiyVMQ5DKKSjaTyI-niAQR54Z_PhCxjjIyAk_ZOO-TM5bd0Qp_Y0IFTeQAGu6r-dNH4IxcL9rO_MAqho7-fFkn5UEQwfk4V42mT0pI-D2mGzJW3YUizNCAj3DCp2eCv5NECb4WpPsRlgjwP_2bTQIJh2OarsJM9lgM6L15Ukog3e9Unkoz3DIQ==",
+            "title": "heraldnet.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6MmvVhILdP-ULzI8mzbv2Gas9jTSMBOspz1fJC7wsEagheh76-ZOpf6KtdnDgJDjjVl_4LdS7GeuVsBQ0NNlvfsdV06PSBjdcD9qHzTxePX3BCBpJztt_FycmurMVRa6s6j7orSyBZCO8vzq5y8ojRE-Hf8s0jPxr7aJxCDBFf7YM7hQ7iB6Mfset",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNUgCXLOtcjHu7_7uajWskmpwPC5QLq7ncG7qPv0odnNiX4gw6jbftmiziENcGZDjI8tnREOSfURsorS_whcPGh-_sGp5UaQ5ts2fEP54AhsDGFKEBHSKKvROrDsyAg5BEqpikRNL4yjGm5IFGnzk5ZtrjN6OAu0ZjuVHww_GLHqA=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3y6CGcIc2XfLr2JbiFa_O2ELyA9mhf2MbDeVvsh9r-H8mVntZMHL5ARkVNuhhPBi5qnOji05YitM0rdgh0j6WzynT8tHqV-WGMMoYVp3FjZC6rjbsg1UX9ujMM_3OsIwSRnKne1zy5nEW0qPTDNp1ZNVWAOm2fnE0ZS7p7sKzlVOW6YzHwsLPgyhvUHayZBXU4EL63ZZXd_ESb4Jbo98UIMkOPnXUv9m4lzlcp4_R",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Hle1cV8J1ovXSsOCJEsdpcjMcq-2VzVNzT3Cw9wiSDJMN2E1FTIXLimvSEaiHPcvUTXpvMTk8Cl87kD_uwhn-Vgl1gNqnklzJ2KoPcQKjpqD7wIqbTX57DBgyuAvveUMJLUofxcNB3I5l5a8wbDwsKjREGTtbfBNPXTiLnXfuhLnYp8=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUPo3oC1X_hN74SO3CCNCLShnHuJ2ZZUKMC-2OtFpNOzuRIBs_X3R7gYo1a3fu4VAMT4iASojpw35AHUOypypBAsQ3s5au75kIlQlMpo8ecovd_hBfCWqk5FxSuMJRzjwkqhXmvJvZ_c00NA==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ6bWA6ZHmyuzDwpXbjEVuFGB-yJ3nS_1JHu7Jdh_2Ix8fH2PzjV4z-BqrBzo2zyoTW-RlNfqAg9MEFcn8X5YZrXvQE17hsUUIzNHxZVEhBVCosHKYL0hkEenEIcyxfRHge1Pniv3cwdIIhnRGeIqwgxqOe-q0kHzdhOWFeomwM1jmUTzT_RYwz5d9TE2ioW3J8UhRbZ1Zo4PD5d4FvNtd",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpZ1NwNRNGtRS7qVttze_cWxwE7BcxmKfEp5bvwH8DrJP6HfxLffCDOpFhOJKndk0KBGMWY9_9ibFckLI8cKx09qZZAPZjEIzMzBUZN0FBdnwDpnauJIw6yVIOkaZVjVwOyp4H3NWaC5qCxwHlr12GSwR1WX1K__-nNnO67ggo4LrLTMlGYg8EmvCgyJHr83XqexozPMzMvmuZrRpuMpMlW-79",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJr5o_v6F00q625frITxcMV2wCa4DOLyf2UoPBAetBahmTlMAZJqi7Y9SVZ_tPR00MqQoUVC8SXS7mwizV8ijopHHTC5CEAs31OnPvpGZa0EOBFk_SBcHPTjIN-XpGzblO0pq6Uk1e0eRxPBKAUhrdUAl-8MzqRjfPX7gRTMiZ42-gKJ1C05Egg-4yhGCOP9r7lWzL2skG15bUElkIl5EMP6fW921HSw==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyfMxuIQ-8bnwa0I2kYZwofKkIYL_53HRT6YQnPZrKsfmn9S27hy2Vv79R87HjZs8lEoVwFNl_STJxvHhqW_WQmG4MtJIHLls7Bqf__UsWpAUc3FB50kiVMBstc9ycqaxPvPWJOJhotEM3Leluj4gUzNO0htk=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwCN5gdDZt7gUVtg_78ztT2YFmdnrg4l3OXrFzNPfDine4JMLOuq2SnV666aQVZERsBX-NtJh0m2-xua1fL-c_9U0k6zB7YSwsJko1BRjffyxgR5pHygZIo94U-5VQiFm33yRY2YZjCpAhq00QiWyj4QiFgKPPjFV9VSuWpj8bWw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPP4050eoznNJl-rdlp_hlL9TwvfLByPx9FOdSyIiG8n3-U7_v8FSxipAHD-4jrBRd6MDP-r9FEoffSCGFbZBa5K6iRJPXwUM183o8Wz9YySZV4IjFpTDe4JGGhcDc_9HUwDcooL7IUKPpoAIbnIgqojFXNQx38w45qMe_QlogSXwuimw8kUHsqfAQkXH_QDcHorlI4-AQN_5sOIen-lwmxBGNodEd0qN-qmao",
+            "title": "blackandteal.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa87h0x60TeKxcbkoYvurkHbkArayi47UNw0loUsKN7xsRqmwMfbtPLVX1lDa9z6KWVPk4XoF1sJ8QFmaI1bqydOWOq_YCMQtu081rwFaN2qMuY8im_nvvM1EGNtSvx5cxOGkzJDk3qcvPq1G7RBDaUtxPZJ4X3NkgkLb23en0fShzwKLc5wBWb0aUxttjy1PWfwqa_d6OA2Jg14otB-I0ByOu2nd-SgUn5xZihpIqaTHNFUUyH8U0xmpex8D1fPO2iidUsWCrVA==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGenI8SliJkBaYzNUQvUhw9mY1YBWhPpsGm4rbVXAa_-b-q3oLVNei9zo1jN66W1g0OY0X3SQOw0BOB94U7zkxQWwY2mEp1gSS-IU7yUtrZYtXMUvy8-NRixaHXS7ELrclF32M__erh",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpy0RW0P6i27TtPj8EkWK1LIDLpkeUuK7a1qu0rO8bxyYFNPM3eiZLbZEWP_uq_gfjqARx9_ZqMjp-dU0TKzsdDNpXPBAoE_Hz8q6JktUQdOSaA1Bu-fYhPGzn9w25HIzXit8OUiCEVeQyJF9LD3KVHVkBUOTBjK8-yx2y44Bjk_6nuzmtLwGBUgDgMspFHxe3yq1MO3s4_MQqzL31LUFL",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpB2EBGLl9XLCoPeU4k1T1ZB0NO3SpDpGyWij0oVuQlBwumw8VtlcKSKMgpfbYU7IgiXzU8K4HBERmTLcGiSmiC8OKgERGb7MCSM9x8dSUP3G8OgX18M6762y43o1faV4464NHph91ADSIVJcW-pXXAvD9rCdtfLUXzPsmk-LSFOlQEW55fWH4NvUDqH4zVjo0IUn1-z4dZtng6D_qVwhe5a7ZtTKC_L0=",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Jaxon Smith-Njigba",
+          "Alec Pierce",
+          "De'Von Achane",
+          "Jakobi Meyers",
+          "Christian Watson",
+          "Wan'Dale Robinson"
+        ],
+        "aviCoreCommitSha": "738753983ee8e3d2550df9933c39ea645a59f9c9",
+        "aviCoreCommittedAt": "2026-10-06T19:54:50Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 539088,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mux6nxa3-2c0045bb",
     "createdAt": 1791321722909,
     "expiresAt": 1791753722909,
