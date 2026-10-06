@@ -3902,8 +3902,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Northside Kings
 - Original roster ID: 5
-- Current owner team: Northside Kings
-- Current owner roster ID: 5
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
@@ -7778,8 +7778,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: All Hail King Jesus
 - Original roster ID: 8
-- Current owner team: Corgi Loaf Baking Co.
-- Current owner roster ID: 11
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
@@ -8006,8 +8006,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Corgi Loaf Baking Co.
 - Original roster ID: 11
-- Current owner team: Corgi Loaf Baking Co.
-- Current owner roster ID: 11
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd

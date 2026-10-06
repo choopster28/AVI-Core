@@ -17,26 +17,26 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **87**
-- Owner trade participations: **176**
-- Two-team trades: **85**
+- Unique completed trades: **88**
+- Owner trade participations: **178**
+- Two-team trades: **86**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **44**
+- 2026 completed trades: **45**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-09-30T19:31:11.041000+00:00**
+- Latest verified trade: **2026-10-02T03:00:31.400000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co.  | awang1900 | **25** | 7 | 4 | 14 | 37 | 37 | 8 | 13 | 6 | 8 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **26** | 7 | 4 | 15 | 37 | 37 | 9 | 15 | 7 | 9 |
 | 2 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 3 | Big Balder Brand | Choopski | **20** | 7 | 2 | 11 | 30 | 32 | 3 | 7 | 1 | 4 |
 | 4 | Ravens Regime  | Mentomorii | **20** | 3 | 3 | 14 | 20 | 25 | 5 | 7 | 2 | 4 |
 | 5 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
-| 6 | Northside Kings  | srsmith95 | **15** | 6 | 5 | 4 | 17 | 12 | 5 | 3 | 2 | 2 |
+| 6 | Northside Kings  | srsmith95 | **16** | 6 | 5 | 5 | 17 | 12 | 7 | 4 | 3 | 3 |
 | 7 | Badland Banditos  | IcebergSlim69 | **10** | 4 | 4 | 2 | 10 | 11 | 3 | 4 | 1 | 1 |
 | 8 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
 | 9 | Crimson Tide Pods | nickas | **8** | 0 | 1 | 7 | 13 | 11 | 9 | 2 | 5 | 0 |
@@ -70,6 +70,24 @@
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1411582618125762560
+- Season: 2026
+- Week: 4
+- Created at UTC: 2026-10-02T03:00:31.400000+00:00
+- Teams involved: 2
+
+#### Northside Kings  (srsmith95)
+- Players received: None
+- Players sent: None
+- Picks received: 2029 Round 2 (original roster 11), 2029 Round 1 (original roster 8)
+- Picks sent: 2028 Round 1 (original roster 5)
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: None
+- Players sent: None
+- Picks received: 2028 Round 1 (original roster 5)
+- Picks sent: 2029 Round 2 (original roster 11), 2029 Round 1 (original roster 8)
 
 ### TRADE: 1411107150322741248
 - Season: 2026

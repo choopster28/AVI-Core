@@ -335,18 +335,19 @@
       }
     },
     {
-      "average": 7,
+      "average": 9.8,
       "filename": "jake-bates.php",
-      "games": 3,
+      "games": 4,
       "player_id": 26075,
       "player_name": "Jake Bates",
-      "points": 21,
+      "points": 39,
       "position_id": "K",
       "team_id": "DET",
       "weeks": {
         "1": 7,
         "2": 7,
-        "3": 7
+        "3": 7,
+        "4": 18
       }
     },
     {
@@ -414,18 +415,19 @@
       }
     },
     {
-      "average": 11,
+      "average": 10.5,
       "filename": "ryan-fitzgerald.php",
-      "games": 3,
+      "games": 4,
       "player_id": 27261,
       "player_name": "Ryan Fitzgerald",
-      "points": 33,
+      "points": 42,
       "position_id": "K",
       "team_id": "CAR",
       "weeks": {
         "1": 8,
         "2": 10,
-        "3": 15
+        "3": 15,
+        "4": 9
       }
     },
     {

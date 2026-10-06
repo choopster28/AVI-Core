@@ -5,7 +5,7 @@
     2028,
     2029
   ],
-  "generated_at_utc": "2026-10-05T22:47:59.039969+00:00",
+  "generated_at_utc": "2026-10-06T02:23:45.259344+00:00",
   "league_id": "1312185568032997376",
   "max_rounds": 20,
   "ownership_source": "Sleeper traded_picks + native original ownership",
@@ -4549,8 +4549,8 @@
     },
     {
       "avi_category": "Premium Starter",
-      "current_owner_roster_id": 5,
-      "current_owner_team": "Northside Kings",
+      "current_owner_roster_id": 11,
+      "current_owner_team": "Corgi Loaf Baking Co.",
       "draft_pick_avi": 79.3,
       "original_roster_id": 5,
       "original_team": "Northside Kings",
@@ -9071,8 +9071,8 @@
     },
     {
       "avi_category": "Premium Starter",
-      "current_owner_roster_id": 11,
-      "current_owner_team": "Corgi Loaf Baking Co.",
+      "current_owner_roster_id": 5,
+      "current_owner_team": "Northside Kings",
       "draft_pick_avi": 79.3,
       "original_roster_id": 8,
       "original_team": "All Hail King Jesus",
@@ -9337,8 +9337,8 @@
     },
     {
       "avi_category": "Rosterable Depth / Upside Stash",
-      "current_owner_roster_id": 11,
-      "current_owner_team": "Corgi Loaf Baking Co.",
+      "current_owner_roster_id": 5,
+      "current_owner_team": "Northside Kings",
       "draft_pick_avi": 48.5,
       "original_roster_id": 11,
       "original_team": "Corgi Loaf Baking Co.",

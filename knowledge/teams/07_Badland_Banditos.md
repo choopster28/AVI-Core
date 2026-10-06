@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-10-05
+- Last updated from Sleeper exports: 2026-10-06
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 654.2
-- championship_lineup_c_avi_avg: 81.78
-- offensive_roster_c_avi_sum: 1050.8
-- offensive_roster_c_avi_avg: 61.81
-- offensive_roster_d_avi_sum: 1290.7
-- offensive_roster_d_avi_avg: 75.92
+- championship_lineup_c_avi_sum: 653.9
+- championship_lineup_c_avi_avg: 81.74
+- offensive_roster_c_avi_sum: 1047.9
+- offensive_roster_c_avi_avg: 61.64
+- offensive_roster_d_avi_sum: 1259.2
+- offensive_roster_d_avi_avg: 74.07
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,9 +34,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Kenneth Walker | C-AVI: 91.0 | D-AVI: 95.8
 - RB: Bucky Irving | C-AVI: 78.4 | D-AVI: 89.5
 - WR: Ja'Marr Chase | C-AVI: 99.9 | D-AVI: 100.0
-- WR: Terry McLaurin | C-AVI: 79.0 | D-AVI: 87.6
+- WR: Terry McLaurin | C-AVI: 78.9 | D-AVI: 86.0
 - TE: Brock Bowers | C-AVI: 95.0 | D-AVI: 92.9
-- FLEX: Brian Thomas | C-AVI: 68.2 | D-AVI: 85.7
+- FLEX: Brian Thomas | C-AVI: 68.0 | D-AVI: 83.9
 - FLEX: Cade Otton | C-AVI: 57.8 | D-AVI: 68.9
 
 ## Current Roster — All Player Cards
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 79.0
-- Dynasty AVI (D-AVI, 0-100): 87.6
+- Championship AVI (C-AVI, 0-100): 78.9
+- Dynasty AVI (D-AVI, 0-100): 86.0
 - Projected PPR points: 202.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 68.2
-- Dynasty AVI (D-AVI, 0-100): 85.7
+- Championship AVI (C-AVI, 0-100): 68.0
+- Dynasty AVI (D-AVI, 0-100): 83.9
 - Projected PPR points: 173.4
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 54.1
-- Dynasty AVI (D-AVI, 0-100): 71.4
+- Championship AVI (C-AVI, 0-100): 53.8
+- Dynasty AVI (D-AVI, 0-100): 68.6
 - Projected PPR points: 128.1
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 53.6
-- Dynasty AVI (D-AVI, 0-100): 70.9
+- Championship AVI (C-AVI, 0-100): 53.3
+- Dynasty AVI (D-AVI, 0-100): 67.7
 - Projected PPR points: 133.2
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -240,26 +240,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 49.8
-- Dynasty AVI (D-AVI, 0-100): 70.9
+- Championship AVI (C-AVI, 0-100): 49.6
+- Dynasty AVI (D-AVI, 0-100): 69.0
 - Projected PPR points: 115.5
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: Tyquan Thornton
-- Player name: Tyquan Thornton
-- Player ID: 8188
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: KC
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 42.5
-- Dynasty AVI (D-AVI, 0-100): 60.1
-- Projected PPR points: 83.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
 
@@ -274,9 +257,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 42.3
-- Dynasty AVI (D-AVI, 0-100): 71.8
+- Championship AVI (C-AVI, 0-100): 42.0
+- Dynasty AVI (D-AVI, 0-100): 68.3
 - Projected PPR points: 77.0
+- Category: offense
+- Valuation status: PROVISIONAL_2026_3
+
+### PLAYER: Tyquan Thornton
+- Player name: Tyquan Thornton
+- Player ID: 8188
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 41.8
+- Dynasty AVI (D-AVI, 0-100): 52.8
+- Projected PPR points: 83.8
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
 
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 34.4
-- Dynasty AVI (D-AVI, 0-100): 47.9
+- Championship AVI (C-AVI, 0-100): 33.6
+- Dynasty AVI (D-AVI, 0-100): 38.5
 - Projected PPR points: 96.0
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3

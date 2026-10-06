@@ -6002,7 +6002,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "FA",
+    "nfl_team": "SEA",
     "normalized_name": "joe mixon",
     "position": "RB",
     "source_ids": {
@@ -9645,10 +9645,10 @@
     "avi_id": "AVI-00013418",
     "canonical_name": "Robert Henry",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
-    "nfl_team": "WAS",
+    "nfl_team": "SEA",
     "normalized_name": "robert henry",
     "position": "RB",
     "source_ids": {
