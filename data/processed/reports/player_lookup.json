@@ -87,18 +87,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00011647",
-      "c_avi": 50.8,
-      "d_avi": 69.2,
-      "nfl_team": "LAC",
-      "player_name": "Kimani Vidal",
-      "position": "RB",
-      "sleeper_id": "11647",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008119",
       "c_avi": 50.6,
       "d_avi": 53.2,
@@ -1378,18 +1366,6 @@
       "player_name": "Lil'Jordan Humphrey",
       "position": "WR",
       "sleeper_id": "5938",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00002078",
-      "c_avi": 27.4,
-      "d_avi": 57.9,
-      "nfl_team": "NYG",
-      "player_name": "Odell Beckham",
-      "position": "WR",
-      "sleeper_id": "2078",
       "status": "Active"
     },
     {
@@ -2714,8 +2690,8 @@
     }
   ],
   "counts": {
-    "available_players": 226,
-    "rostered_players": 253
+    "available_players": 224,
+    "rostered_players": 255
   },
   "rostered_players": [
     {
@@ -5249,6 +5225,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00011647",
+      "c_avi": 50.8,
+      "d_avi": 69.2,
+      "nfl_team": "LAC",
+      "owner_id": "736994691492519936",
+      "player_name": "Kimani Vidal",
+      "position": "RB",
+      "roster_id": 8,
+      "sleeper_id": "11647",
+      "status": "Active",
+      "team_file": "08_All_Hail_King_Jesus.md",
+      "team_name": "All Hail King Jesus"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00001166",
       "c_avi": 57.0,
       "d_avi": 62.2,
@@ -5741,6 +5733,22 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00002078",
+      "c_avi": 27.4,
+      "d_avi": 57.9,
+      "nfl_team": "NYG",
+      "owner_id": "736994691492519936",
+      "player_name": "Odell Beckham",
+      "position": "WR",
+      "roster_id": 8,
+      "sleeper_id": "2078",
+      "status": "Active",
+      "team_file": "08_All_Hail_King_Jesus.md",
+      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,
