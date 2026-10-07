@@ -17,9 +17,331 @@
       "maxResults": 3
     },
     "createdAt": 1791346422873,
-    "updatedAt": 1791346424321,
+    "updatedAt": 1791346511793,
     "expiresAt": 1791778422873,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods is actively shopping its 2027 1st-round draft pick (originating from Ravens Regime, projected in the late 1.10–1.16 range, AVI 79.3) as part of an aggressive Rebuild strategy. In a 16-team league, a late future 1st-round pick carries strong liquidity but limited single-asset leverage for S-tier cornerstones. By packaging this pick with legitimate starter-caliber wide receiver depth (such as Jakobi Meyers or Wan'Dale Robinson), Crimson Tide Pods can target contending or retooling franchises to acquire high-ceiling 21-to-24-year-old wide receiver building blocks like Carnell Tate, Emeka Egbuka, or Jordan Addison. Across 15 rival franchises evaluated under strict Market Reality standards, 3 realistic opportunities emerged with acceptance probabilities above 80%.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Extensive future draft capital hoard across 2027 and 2028 initial rounds",
+            "Roster flexibility to package startable veterans with picks for premium young cornerstones"
+          ],
+          "priorityNeeds": [
+            "Acquiring high-ceiling 21-to-24-year-old core Dynasty wide receivers",
+            "Consolidating secondary assets into long-term franchise anchors"
+          ],
+          "tradeableSurplus": [
+            "2027 1st · Ravens · Projected late range (1.10–1.16) [AVI: 79.3]",
+            "Dependable starter-caliber veteran receivers (Jakobi Meyers, Wan'Dale Robinson)"
+          ],
+          "constraintsApplied": [
+            "Strict Rebuild goal alignment emphasizing Dynasty AVI (D-AVI) over short-term C-AVI",
+            "Enforced Two-Organization Goal alignment ensuring opponents' Playoff Push or Retool goals are satisfied",
+            "Enforced starter-caliber realism gate (no true bench clutter included in trades)"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "S-tier cornerstone owners (e.g. Jaxon Smith-Njigba, Amon-Ra St. Brown) required near-peer elite player centerpieces rather than late 1st-round draft capital and depth",
+            "Rebuilding peers (e.g. DMV Fantasy, Rapid Valley Annihilation) are accumulating picks themselves and unwilling to surrender young core pieces",
+            "Contenders unwilling to liquidate starting talent without receiving immediate tier-1 replacement production"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Carnell Tate",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "WR",
+                "age": 21,
+                "cavi": 78,
+                "davi": 90.9,
+                "publicMarket": 85,
+                "leagueMarket": 88
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "2027 1st · Ravens · Projected late range (1.10–1.16)",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 80,
+                "leagueMarket": 80
+              },
+              {
+                "name": "Jakobi Meyers",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 29,
+                "cavi": 74.5,
+                "davi": 80.5,
+                "publicMarket": 75,
+                "leagueMarket": 76
+              }
+            ],
+            "scenarioType": "Pick-plus-Starter for Young Dynasty Cornerstone",
+            "strategicGoal": "Convert a late future 1st and a 29-year-old veteran into a 21-year-old high-ceiling dynasty wide receiver centerpiece.",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 88,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Carnell Tate is a 21-year-old high-ceiling wide receiver with elite breakout potential (90.9 D-AVI). Moving an aging Jakobi Meyers and a late 1st pick perfectly aligns with Crimson Tide Pods' rebuild timeline while securing a foundational receiver for the next 5+ years.",
+            "whyOpponentMightAccept": "Ravens Regime is in a Playoff Push window. Re-acquiring their own original 2027 1st-round pick restores draft flexibility, while Jakobi Meyers gives them an immediate startable WR3/FLEX producer (180.4 projected PPR points) to boost their current championship odds.",
+            "championshipImpact": "Accepts a minor immediate C-AVI dip (-3.5 C-AVI) to unlock massive long-term dynasty upside.",
+            "dynastyImpact": "Adds +10.4 D-AVI improvement at the WR position, securing a 21-year-old core asset.",
+            "rosterImpact": "Replaces 29-year-old Jakobi Meyers with 21-year-old Carnell Tate, dramatically lowering average roster age.",
+            "publicMarketContext": "Public market consensus views Carnell Tate as an ascending sophomore asset whose market value will spike upon full target consolidation. Meyers is viewed as a high-floor win-now rental.",
+            "risks": [
+              "Carnell Tate's target share could take time to fully materialize if Tennessee's passing volume fluctuates.",
+              "Surrendering draft capital reduces future pick flexibility."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer the 2027 1st (Ravens) and Jakobi Meyers straight up for Carnell Tate, emphasizing that Ravens Regime gets full control of its native 1st back while gaining an active starter for its playoff run.",
+              "acceptableConcession": "Throw in a 2027 3rd-round pick (Crimson Tide Pods) if needed to close the deal.",
+              "walkAwayPoint": "Walk away if Ravens Regime demands an additional 2nd-round pick or a younger asset like Wan'Dale Robinson."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Gringo’s Goblins",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Emeka Egbuka",
+                "assetType": "player",
+                "owner": "Gringo’s Goblins",
+                "position": "WR",
+                "age": 23,
+                "cavi": 78,
+                "davi": 91.9,
+                "publicMarket": 86,
+                "leagueMarket": 88
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "2027 1st · Ravens · Projected late range (1.10–1.16)",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 80,
+                "leagueMarket": 80
+              },
+              {
+                "name": "Wan'Dale Robinson",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 25,
+                "cavi": 73.3,
+                "davi": 81.7,
+                "publicMarket": 76,
+                "leagueMarket": 77
+              }
+            ],
+            "scenarioType": "Pick-plus-Starter Consolidation for Elite Young WR",
+            "strategicGoal": "Acquire a 23-year-old wide receiver anchor (91.9 D-AVI) to build around for the next competitive cycle.",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Emeka Egbuka is an elite 23-year-old draft-capital wide receiver with a 91.9 D-AVI. Trading a late 1st pick and a slot receiver in Wan'Dale Robinson consolidates depth into an undisputed cornerstone.",
+            "whyOpponentMightAccept": "Gringo's Goblins is pushing to Increase Championship Odds. Wan'Dale Robinson provides strong, reliable PPR floor production (173.9 projected PPR points) while adding a 2027 1st-round pick to reload their overall asset pool.",
+            "championshipImpact": "Slight current C-AVI gain (+4.7 C-AVI), giving Crimson Tide Pods immediate starter quality alongside long-term stability.",
+            "dynastyImpact": "Gains +10.2 D-AVI improvement, locking in a premium young talent.",
+            "rosterImpact": "Consolidates depth into a top-tier young receiver who instantly becomes Crimson Tide Pods' WR1.",
+            "publicMarketContext": "Public sentiment on Egbuka is high due to his first-round NFL draft pedigree and heavy target share in Tampa Bay. Wan'Dale Robinson is valued as a steady PPR compiler.",
+            "risks": [
+              "Egbuka's competition for targets in Tampa Bay could cap week-to-week ceiling.",
+              "Wan'Dale Robinson's target volume in Tennessee makes him a reliable starting option surrendered."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer the 2027 1st (Ravens) and Wan'Dale Robinson for Emeka Egbuka, pointing out that Robinson's slot volume maintains their weekly scoring floor for a playoff run.",
+              "acceptableConcession": "Include a future 3rd-round pick if Gringo's Goblins requests additional pick compensation.",
+              "walkAwayPoint": "Walk away if forced to include an additional 2nd-round pick or a higher-tier player."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Devon Achane 2026",
+          "Amon Ra St Brown 2026",
+          "Jaxon Smith Njigba news 2026",
+          "Wandale Robinson 2026",
+          "Chris Rodriguez 2026 news football",
+          "Christian Watson 2026 news football",
+          "Jakobi Meyers 2026 news football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPuMIz3rYjA7lHDDXpMt2OFHhkXPNnVBbOGnQmul6am3-tgktw10l8QDGHz013XVzINwlrmN6w4LDd1aqPhrTVlGc5_ifwKj0auvthKS5djqIYj3QyZZMLq8yzSB9h5cGgqR0bOG83Gnrml8UdxsT1qbeiXHdfXn3o67niO0paA4Y=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5DPZgyuw6VAYIN9HE47PDLAez8nlJ0f3jiQJ7veXy6wSCDMWTeryUfqNelatxgXKXcjWojLvMoQN162PMpCLxaFOqBrGZIRSUotgtlm665Iy--Ys7KshxO6Zn9Cqg3p_y2wjNSx0Xh0txikMuwWJ4EtFmpZwXeYv8c-TeJbZCWYNrgT_vhtWHY4TsrbcJe_UNwDAvfw==",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5nuBRrXVReNFZxB8EzOVLWaFwcxiAIDsxprH0v1q5nl7zRSy9loBYD5gru4z5q0kbqs_9tWCTSEVWrhhQj-H41mNE9FNJbDq1w-wS-u4_d0vAkHcdiXt76us5nw_bypQ7CMqawZs6qrZUDSA2TXIzdawAHWP3Ps63tyGpy7UgzSIwL4BqXOedS_Q=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMBKr3kwf9G3sryC2iBwIcJ3MnANfwbHXDlw0185xNizudECjXXnEAF79okzxrIRu8jYF4w4O8NMi6p34Rno6TPEarox8-ikEpjK5646KiVVR1P2HnPk9QXwjpKZdtHAbZKuSb3NYdcvjY0kVFdkQQ5hSGmkk-WElg4kW2oRMxm4SnFdQ=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKeXMkM0YWFoY22ZzRu4GXHCeKEaIJx8v2IWxm4fmxK2OJj3KSQ_WAOAYq4vfjx8Kul_1rfwkBb67Nr7p-PT69CU0o_CIzKYJ73uSUkqDRQC4FJWf5yd_aZO-AVg1916nVnyVdmMN5aKK_lQ==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL-dbwELf0hLskiYV-p3ayEFkOPNgY2566HhfXy-BiapfnjgxyMkOWXN_PfaOpmP4E8az6hWhbPSAVqiL0fWP68iTeAPwI6wFB6Y_JDNGnZEzwCQ2mvrbt74mJ1JXSwe1iNXIFsB-fpvMIJyRM53gJZxe1Q2z7pNu5FNsCrt5aGcgLVbgkhx7n2WQSUfPjtfevH8HpAsRx6JblJY3857H4",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpn0nMTz0iZNiPifA-KTji-IVLMChlWwe7JkWh4E1m9rs7WkRQH9-dS-mcFoHPYyQGAyvDMvLeL4GRLiTmlhBbKyswwkLDKPItOoGDOJDgA6ONEptpFBSHY2rypLElcmdU9siQ7KT7pBsYsfmvkiQ03xq_SQb05fsThSlSFvfBZA==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEArAi-61kiFf9quOlndR2b-n5AaaCjLX_p92dfXjGLAuVUfNOyYufPJVM1Ynsh_F6ZlIUkG3ioy7rYZWiKeddR2rb3v7bwdI70HVHn22Ka5STVaGaqXXHE0RfsKuLeeDnyVL2KtUYcPerWKXxLRQR8QiT1MTmRJAEbfMp-foe8wo8AXrakmAbgA5OMJw==",
+            "title": "realgm.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwgmkcYVvkgnI6Kp1wR0Je_TEvv_BwYuSveP0PqFE3sTwXK3JszOqUlMG4fNZcZfO6AfgZ55318gLa-dR1SQZQFRazaihDW5idGlTXGSQiHtNeeBMZ-kHMwFNELct1eAkRygcEEiNgm2DZjTtnjEU-kxDyygF7Sb8JnG9TLAgp61BDdN4=",
+            "title": "establishtherun.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrRelOpQnIcx-Y42i2e4v9Ooc9LPGTrad-PfZkFBeJbcMONrjC7K6OHFf2CkoJPupkf6bMVYsNRwBPMxTUydQevYff0HgNUOTKKzWY5WwQ3XRBL3zHdme-qcw-EAUj2Eh4VcrqakDr1Fs1_R6qKn3S76e2Nh56gPt-mQ2K4q-gl48gPE_43po691t_TyAYahcofdzkWqqITitgSbONfVsC4oxdsnYf1jg=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaGtI_XBYUtxoHOkQpT3OXjp8E1NONqEst7kGIvSQ2i5MpPlz_t9-grxH5ZLWZqXG_DaeYjen_RC-z8o5H0LYf9k-RqqSDBYVF36-vXeMdjAoMkqdSEjbTCsAkgKMnWjX_-Gjl42Xuj38l9vVwGCIRav62mdldIuPBT4bKH8aXiROPWJnUDW3reh4haTUPQgwfPaC2oGPF_etFvYy4aSNMq0rGIqHhIJA=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgvy1NgZFieMZna770pHKlpmjAFa5-FQA92PgpesFEFoQK3plhP9kV28wkbcFJuOVEGnAWzxGS1ORojQtitmPQmvXDlIOzqB2MFd-0fOKGSJ7cY7MqRZ7u3UutojN586beYk-Hi2y51EK0TSLulbYs9SIwM0LaKzagcELDrXL4l8fr4vU73rM8FeUOivmgo9sSjsIglo28j5zjnhAC",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAn-0xt9UmsiLFY5oCb75V7964MlI0UeDxVAqvCABAiA4g32zjUKiGM-xApPaDATkh3y6s-68FKb7QKB4xIdzCdaD5uXpuD7KPWy85G5CIihHQBFEhvjn-ksDWIfWvZAokPz9FDlgA9U1pGb-e7osA8iGuGi1Z",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeSyAfbUYbVI-wsUKD4hi-IKNqLzDnNhvJRnT-7qg09OctVShFNn2Mi9hiHk7B2gH_VdgyOqVPU2QrBuWs29Pxwu_FtQ9Ld2wujg8tNcdhh4INy14IGS64EPy6YoWke-w7GGVgGCTIkMQnl0vmC10L-HIZ4OT2Pp5wmesVsT8y-XXEEc2-gA==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED0qQxVzvoAdyk1TCKRiW_DEQdRWqD3X0lzHer8BWjKD_Orxex65SB52VTluY4bPNM5OME46Girqg75tUBZs34h2N4UkV2339BAuhJ8R-vsQhD6YHy8bjT-e5hm2P9PsK9DTTpSe1dEiElRYLpCWpPUuwvd92qmPSmKMmvs6clkpzECaak5nVUWAUw-6S3Ri-aEb8VgYspC6ptZ1mFEGq0KY1pTMs=",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Jaxon Smith-Njigba",
+          "Wan'Dale Robinson",
+          "Amon-Ra St. Brown",
+          "Jakobi Meyers",
+          "De'Von Achane",
+          "Chris Rodriguez",
+          "Christian Watson"
+        ],
+        "aviCoreCommitSha": "9aa9e75766bad1a19a2a31e983e81bf14d70f783",
+        "aviCoreCommittedAt": "2026-10-07T01:39:25Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 539092,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mux72agp-2703ed10",
