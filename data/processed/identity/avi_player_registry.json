@@ -5249,7 +5249,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "FA",
+    "nfl_team": "ATL",
     "normalized_name": "jam miller",
     "position": "RB",
     "source_ids": {
@@ -6002,7 +6002,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "SEA",
+    "nfl_team": "FA",
     "normalized_name": "joe mixon",
     "position": "RB",
     "source_ids": {

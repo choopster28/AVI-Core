@@ -1431,7 +1431,7 @@
       "player_name": "Christian Braswell",
       "points": 0,
       "position_id": "CB",
-      "team_id": "JAC",
+      "team_id": "FA",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -4682,7 +4682,7 @@
       "player_name": "AJ Finley",
       "points": 3.75,
       "position_id": "S",
-      "team_id": "SEA",
+      "team_id": "FA",
       "weeks": {
         "2": 0,
         "3": 3.8,
@@ -5029,7 +5029,7 @@
       "player_name": "Robert Rochell",
       "points": 0,
       "position_id": "CB",
-      "team_id": "CAR",
+      "team_id": "FA",
       "weeks": {
         "4": 0
       }
