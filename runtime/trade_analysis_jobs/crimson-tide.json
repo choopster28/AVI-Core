@@ -1,5 +1,27 @@
 [
   {
+    "id": "muxleq1l-26dccc6d",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "assetsToShop": [
+        {
+          "name": "2027 1st · Ravens · Projected late range (1.10–1.16)",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1791346422873,
+    "updatedAt": 1791346422873,
+    "expiresAt": 1791778422873,
+    "status": "queued"
+  },
+  {
     "id": "mux72agp-2703ed10",
     "phase": "initial",
     "mode": "propose_trade",
