@@ -1297,19 +1297,19 @@
       }
     },
     {
-      "average": 4.4,
+      "average": 5,
       "filename": "brenton-cox.php",
       "games": 4,
       "player_id": 22748,
       "player_name": "Brenton Cox Jr.",
-      "points": 17.5,
+      "points": 20,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
         "1": 6,
         "2": 2.3,
         "3": 6.3,
-        "4": 3
+        "4": 5.5
       }
     },
     {
@@ -3639,6 +3639,19 @@
       "points": 0,
       "position_id": "LB",
       "team_id": "CAR",
+      "weeks": {
+        "4": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "mikail-kamara.php",
+      "games": 1,
+      "player_id": 28019,
+      "player_name": "Mikail Kamara",
+      "points": 0,
+      "position_id": "LB",
+      "team_id": "SF",
       "weeks": {
         "4": 0
       }

@@ -1880,6 +1880,19 @@
       "weeks": {
         "4": 0
       }
+    },
+    {
+      "average": 0,
+      "filename": "cash-jones.php",
+      "games": 1,
+      "player_id": 28124,
+      "player_name": "Cash Jones",
+      "points": 0,
+      "position_id": "RB",
+      "team_id": "FA",
+      "weeks": {
+        "4": 0
+      }
     }
   ],
   "public_api": true,

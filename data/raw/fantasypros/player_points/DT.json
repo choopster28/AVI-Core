@@ -2926,6 +2926,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "alfred-collins.php",
+      "games": 1,
+      "player_id": 27079,
+      "player_name": "Alfred Collins",
+      "points": 0,
+      "position_id": "DT",
+      "team_id": "SF",
+      "weeks": {
+        "4": 0
+      }
+    },
+    {
       "average": 5.3,
       "filename": "fadil-diggs.php",
       "games": 1,

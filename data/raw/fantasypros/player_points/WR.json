@@ -55,7 +55,7 @@
       "player_name": "Odell Beckham Jr.",
       "points": 0,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "MIN",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -3142,7 +3142,7 @@
       "player_name": "Jeshaun Jones",
       "points": 0,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "MIN",
       "weeks": {
         "4": 0
       }
