@@ -5,34 +5,34 @@
   "roster_id": 10,
   "owner_display_name": "AlexPete6800",
   "season_phase": "regular_season",
-  "reporting_period": "Week of September 30, 2026",
-  "generated_at": "2026-09-30T15:22:08.704335-06:00",
+  "reporting_period": "Week of October 7, 2026",
+  "generated_at": "2026-10-07T15:54:52.015118-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "SmokyValleyWheatWarriors: Weekly Front Office Brief",
-  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 684.10 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Chris Olave, and Christian McCaffrey. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "SmokyValleyWheatWarriors is projected #4 of 16 with a 674.80 projected-starting-lineup C-AVI total, led by CeeDee Lamb, Chris Olave, and Christian McCaffrey. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 4,
     "league_size": 16,
-    "score": 684.1,
+    "score": 674.8,
     "team_above": {
-      "name": "Corgi Loaf Baking Co.",
+      "name": "Mile High Royal Lions",
       "rank": 3,
-      "score": 684.6,
-      "gap": 0.5
+      "score": 676.7,
+      "gap": 1.900000000000091
     },
     "team_below": {
       "name": "Big Balder Brand",
       "rank": 5,
-      "score": 680.8,
-      "gap": 3.300000000000068
+      "score": 669.7,
+      "gap": 5.099999999999909
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 10,
+    "rank": 11,
     "league_size": 16,
-    "score": 2113.5,
-    "player_d_avi": 1136.9,
+    "score": 2045.5,
+    "player_d_avi": 1068.9,
     "future_pick_d_avi": 976.6,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Josh Downs's 71.5 C-AVI baseline; a replacement near 72.0 C-AVI would directly attack the 0.50-point projected gap to Corgi Loaf Baking Co.."
+    "Raise the FLEX slot above Josh Downs's 68.6 C-AVI baseline; a replacement near 70.5 C-AVI would directly attack the 1.90-point projected gap to Mile High Royal Lions."
   ],
   "rival_below": {
     "franchise_name": "Big Balder Brand",
     "projected_rank": 5,
-    "projected_score": 680.8,
+    "projected_score": 669.7,
     "latest_trade": {
       "transaction_id": "1394506115831586816",
       "created_at": "2026-08-16T00:04:35.987000+00:00",
@@ -70,12 +70,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #4 of 16 at 684.10 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 684.60, a gap of 0.50. Big Balder Brand is immediately behind at 680.80."
+      "body": "Projected #4 of 16 at 674.80 lineup C-AVI. Mile High Royal Lions is immediately above at 676.70, a gap of 1.90. Big Balder Brand is immediately behind at 669.70."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are CeeDee Lamb (98.4), Chris Olave (96.5), and Christian McCaffrey (96.1)."
+      "body": "The three highest C-AVI starters are CeeDee Lamb (98.6), Chris Olave (96.2), and Christian McCaffrey (94.5)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,9 +85,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Josh Downs's 71.5 C-AVI baseline; a replacement near 72.0 C-AVI would directly attack the 0.50-point projected gap to Corgi Loaf Baking Co..",
+      "body": "Raise the FLEX slot above Josh Downs's 68.6 C-AVI baseline; a replacement near 70.5 C-AVI would directly attack the 1.90-point projected gap to Mile High Royal Lions.",
       "items": [
-        "Raise the FLEX slot above Josh Downs's 71.5 C-AVI baseline; a replacement near 72.0 C-AVI would directly attack the 0.50-point projected gap to Corgi Loaf Baking Co.."
+        "Raise the FLEX slot above Josh Downs's 68.6 C-AVI baseline; a replacement near 70.5 C-AVI would directly attack the 1.90-point projected gap to Mile High Royal Lions."
       ]
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Josh Downs is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 71.5. Any acquisition should clear that exact lineup threshold."
+      "body": "Josh Downs is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 68.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -126,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/10_SmokyValleyWheatWarriors.md"
     ],
-    "source_last_updated": "2026-09-30",
+    "source_last_updated": "2026-10-07",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

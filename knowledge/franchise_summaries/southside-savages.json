@@ -5,34 +5,34 @@
   "roster_id": 13,
   "owner_display_name": "GGEZGoNext",
   "season_phase": "regular_season",
-  "reporting_period": "Week of September 30, 2026",
-  "generated_at": "2026-09-30T15:22:08.704335-06:00",
+  "reporting_period": "Week of October 7, 2026",
+  "generated_at": "2026-10-07T15:54:52.015118-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Weekly Front Office Brief",
-  "executive_summary": "Southside Savages is projected #14 of 16 with a 566.50 projected-starting-lineup C-AVI total, led by Tetairoa McMillan, Luther Burden, and DK Metcalf. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Southside Savages is projected #12 of 16 with a 579.50 projected-starting-lineup C-AVI total, led by Tetairoa McMillan, Luther Burden, and Drake Maye. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 14,
+    "rank": 12,
     "league_size": 16,
-    "score": 566.5,
+    "score": 579.5,
     "team_above": {
-      "name": "Rapid Valley Annihilation",
-      "rank": 13,
-      "score": 572.9,
-      "gap": 6.399999999999977
+      "name": "Phalhala or Bust",
+      "rank": 11,
+      "score": 605.6,
+      "gap": 26.100000000000023
     },
     "team_below": {
-      "name": "Crimson Tide Pods",
-      "rank": 15,
-      "score": 526.6,
-      "gap": 39.89999999999998
+      "name": "Northside Kings",
+      "rank": 13,
+      "score": 579.3,
+      "gap": 0.20000000000004547
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 4,
+    "rank": 7,
     "league_size": 16,
-    "score": 2284.6,
-    "player_d_avi": 1047.4,
+    "score": 2150.6,
+    "player_d_avi": 913.4,
     "future_pick_d_avi": 1237.2,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Ty Johnson's 57.2 C-AVI baseline; a replacement near 63.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation."
+    "Raise the RB slot above Emanuel Wilson's 57.1 C-AVI baseline; a replacement near 83.2 C-AVI would directly attack the 26.10-point projected gap to Phalhala or Bust."
   ],
   "rival_below": {
-    "franchise_name": "Crimson Tide Pods",
-    "projected_rank": 15,
-    "projected_score": 526.6,
+    "franchise_name": "Northside Kings",
+    "projected_rank": 13,
+    "projected_score": 579.3,
     "latest_trade": {
-      "transaction_id": "1407885687583154176",
-      "created_at": "2026-09-21T22:10:14.473000+00:00",
+      "transaction_id": "1411582618125762560",
+      "created_at": "2026-10-02T03:00:31.400000+00:00",
       "type": "trade",
-      "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard.",
+      "summary": "On October 1, Northside Kings completed a trade with Corgi Loaf Baking Co. and acquired 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus) and sent 2028 Round 1 (Northside Kings).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1407885687583154176",
-      "created_at": "2026-09-21T22:10:14.473000+00:00",
+      "transaction_id": "1411582618125762560",
+      "created_at": "2026-10-02T03:00:31.400000+00:00",
       "type": "trade",
-      "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard.",
+      "summary": "On October 1, Northside Kings completed a trade with Corgi Loaf Baking Co. and acquired 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus) and sent 2028 Round 1 (Northside Kings).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard."
+    "summary": "On October 1, Northside Kings completed a trade with Corgi Loaf Baking Co. and acquired 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus) and sent 2028 Round 1 (Northside Kings)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 566.50 lineup C-AVI. Rapid Valley Annihilation is immediately above at 572.90, a gap of 6.40. Crimson Tide Pods is immediately behind at 526.60."
+      "body": "Projected #12 of 16 at 579.50 lineup C-AVI. Phalhala or Bust is immediately above at 605.60, a gap of 26.10. Northside Kings is immediately behind at 579.30."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Tetairoa McMillan (83.2), Luther Burden (82.6), and DK Metcalf (74.7)."
+      "body": "The three highest C-AVI starters are Tetairoa McMillan (90.7), Luther Burden (82.7), and Drake Maye (77.8)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Ty Johnson's 57.2 C-AVI baseline; a replacement near 63.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation.",
+      "body": "Raise the RB slot above Emanuel Wilson's 57.1 C-AVI baseline; a replacement near 83.2 C-AVI would directly attack the 26.10-point projected gap to Phalhala or Bust.",
       "items": [
-        "Raise the RB slot above Ty Johnson's 57.2 C-AVI baseline; a replacement near 63.6 C-AVI would directly attack the 6.40-point projected gap to Rapid Valley Annihilation."
+        "Raise the RB slot above Emanuel Wilson's 57.1 C-AVI baseline; a replacement near 83.2 C-AVI would directly attack the 26.10-point projected gap to Phalhala or Bust."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard."
+      "body": "On October 1, Northside Kings completed a trade with Corgi Loaf Baking Co. and acquired 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus) and sent 2028 Round 1 (Northside Kings)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Ty Johnson is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 57.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Emanuel Wilson is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 57.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -124,10 +124,9 @@
   "source": {
     "policy": "AVI-Core current Sleeper ownership + AVI valuation data",
     "files": [
-      "AVI-Core/knowledge/teams/13_Southside_Savages.md",
-      "knowledge/02_AVI_Historical_Trades.md"
+      "AVI-Core/knowledge/teams/13_Southside_Savages.md"
     ],
-    "source_last_updated": "2026-09-30",
+    "source_last_updated": "2026-10-07",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

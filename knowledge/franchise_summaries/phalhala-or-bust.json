@@ -5,34 +5,34 @@
   "roster_id": 14,
   "owner_display_name": "PIFYAF",
   "season_phase": "regular_season",
-  "reporting_period": "Week of September 30, 2026",
-  "generated_at": "2026-09-30T15:22:08.704335-06:00",
+  "reporting_period": "Week of October 7, 2026",
+  "generated_at": "2026-10-07T15:54:52.015118-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Phalhala or Bust: Weekly Front Office Brief",
-  "executive_summary": "Phalhala or Bust is projected #11 of 16 with a 593.60 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Jaylen Warren. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Phalhala or Bust is projected #11 of 16 with a 605.60 projected-starting-lineup C-AVI total, led by Ashton Jeanty, Sam LaPorta, and Jaylen Warren. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
     "rank": 11,
     "league_size": 16,
-    "score": 593.6,
+    "score": 605.6,
     "team_above": {
       "name": "Gringo\u2019s Goblins",
       "rank": 10,
-      "score": 606.2,
-      "gap": 12.600000000000023
+      "score": 610.4,
+      "gap": 4.7999999999999545
     },
     "team_below": {
-      "name": "Northside Kings",
+      "name": "Southside Savages",
       "rank": 12,
-      "score": 578.3,
-      "gap": 15.300000000000068
+      "score": 579.5,
+      "gap": 26.100000000000023
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 14,
+    "rank": 13,
     "league_size": 16,
-    "score": 2011.6,
-    "player_d_avi": 1003.7,
+    "score": 1948.9,
+    "player_d_avi": 941.0,
     "future_pick_d_avi": 1007.9,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the QB slot above C.J. Stroud's 53.4 C-AVI baseline; a replacement near 66.0 C-AVI would directly attack the 12.60-point projected gap to Gringo\u2019s Goblins."
+    "Raise the QB slot above C.J. Stroud's 59.0 C-AVI baseline; a replacement near 63.8 C-AVI would directly attack the 4.80-point projected gap to Gringo\u2019s Goblins."
   ],
   "rival_below": {
-    "franchise_name": "Northside Kings",
+    "franchise_name": "Southside Savages",
     "projected_rank": 12,
-    "projected_score": 578.3,
+    "projected_score": 579.5,
     "latest_trade": {
-      "transaction_id": "1383224827728367616",
-      "created_at": "2026-07-15T20:56:47.307000+00:00",
+      "transaction_id": "1411107150322741248",
+      "created_at": "2026-09-30T19:31:11.041000+00:00",
       "type": "trade",
-      "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
+      "summary": "On September 30, Southside Savages completed a trade with Conquistadors, Lightskin Legends \u270a\ud83c\udffd and acquired Emanuel Wilson, DK Metcalf, 2028 Round 3 (Conquistadors), 2029 Round 1 (Conquistadors), 2029 Round 2 (Conquistadors), 2029 Round 3 (Conquistadors), 2027 Round 3 (Ravens Regime), 2027 Round 2 (Northside Kings) and sent Jaylen Waddle, Travis Etienne.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1383224827728367616",
-      "created_at": "2026-07-15T20:56:47.307000+00:00",
+      "transaction_id": "1411107150322741248",
+      "created_at": "2026-09-30T19:31:11.041000+00:00",
       "type": "trade",
-      "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren.",
+      "summary": "On September 30, Southside Savages completed a trade with Conquistadors, Lightskin Legends \u270a\ud83c\udffd and acquired Emanuel Wilson, DK Metcalf, 2028 Round 3 (Conquistadors), 2029 Round 1 (Conquistadors), 2029 Round 2 (Conquistadors), 2029 Round 3 (Conquistadors), 2027 Round 3 (Ravens Regime), 2027 Round 2 (Northside Kings) and sent Jaylen Waddle, Travis Etienne.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
+    "summary": "On September 30, Southside Savages completed a trade with Conquistadors, Lightskin Legends \u270a\ud83c\udffd and acquired Emanuel Wilson, DK Metcalf, 2028 Round 3 (Conquistadors), 2029 Round 1 (Conquistadors), 2029 Round 2 (Conquistadors), 2029 Round 3 (Conquistadors), 2027 Round 3 (Ravens Regime), 2027 Round 2 (Northside Kings) and sent Jaylen Waddle, Travis Etienne."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #11 of 16 at 593.60 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 606.20, a gap of 12.60. Northside Kings is immediately behind at 578.30."
+      "body": "Projected #11 of 16 at 605.60 lineup C-AVI. Gringo\u2019s Goblins is immediately above at 610.40, a gap of 4.80. Southside Savages is immediately behind at 579.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Ashton Jeanty (92.1), Sam LaPorta (86.3), and Jaylen Warren (80.4)."
+      "body": "The three highest C-AVI starters are Ashton Jeanty (91.7), Sam LaPorta (89.2), and Jaylen Warren (79.5)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above C.J. Stroud's 53.4 C-AVI baseline; a replacement near 66.0 C-AVI would directly attack the 12.60-point projected gap to Gringo\u2019s Goblins.",
+      "body": "Raise the QB slot above C.J. Stroud's 59.0 C-AVI baseline; a replacement near 63.8 C-AVI would directly attack the 4.80-point projected gap to Gringo\u2019s Goblins.",
       "items": [
-        "Raise the QB slot above C.J. Stroud's 53.4 C-AVI baseline; a replacement near 66.0 C-AVI would directly attack the 12.60-point projected gap to Gringo\u2019s Goblins."
+        "Raise the QB slot above C.J. Stroud's 59.0 C-AVI baseline; a replacement near 63.8 C-AVI would directly attack the 4.80-point projected gap to Gringo\u2019s Goblins."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 15, Northside Kings completed a trade with Ravens Regime and acquired RJ Harvey, Bhayshul Tuten, 2026 Round 2 (Rapid Valley Annihilation) and sent Tyler Warren."
+      "body": "On September 30, Southside Savages completed a trade with Conquistadors, Lightskin Legends \u270a\ud83c\udffd and acquired Emanuel Wilson, DK Metcalf, 2028 Round 3 (Conquistadors), 2029 Round 1 (Conquistadors), 2029 Round 2 (Conquistadors), 2029 Round 3 (Conquistadors), 2027 Round 3 (Ravens Regime), 2027 Round 2 (Northside Kings) and sent Jaylen Waddle, Travis Etienne."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "C.J. Stroud is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 53.4. Any acquisition should clear that exact lineup threshold."
+      "body": "C.J. Stroud is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 59.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -124,9 +124,10 @@
   "source": {
     "policy": "AVI-Core current Sleeper ownership + AVI valuation data",
     "files": [
-      "AVI-Core/knowledge/teams/14_Phalhala_or_Bust.md"
+      "AVI-Core/knowledge/teams/14_Phalhala_or_Bust.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-09-30",
+    "source_last_updated": "2026-10-07",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

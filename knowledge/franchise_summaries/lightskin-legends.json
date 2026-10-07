@@ -5,34 +5,34 @@
   "roster_id": 6,
   "owner_display_name": "MadDawgMatt",
   "season_phase": "regular_season",
-  "reporting_period": "Week of September 30, 2026",
-  "generated_at": "2026-09-30T15:22:08.704335-06:00",
+  "reporting_period": "Week of October 7, 2026",
+  "generated_at": "2026-10-07T15:54:52.015118-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Lightskin Legends \u270a\ud83c\udffd: Weekly Front Office Brief",
-  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #7 of 16 with a 662.40 projected-starting-lineup C-AVI total, led by Chase Brown, Javonte Williams, and Ladd McConkey. The immediate priority is improving the TE slot without weakening that core.",
+  "executive_summary": "Lightskin Legends \u270a\ud83c\udffd is projected #9 of 16 with a 642.30 projected-starting-lineup C-AVI total, led by Chase Brown, Javonte Williams, and Dak Prescott. The immediate priority is improving the TE slot without weakening that core.",
   "projected_power": {
-    "rank": 7,
+    "rank": 9,
     "league_size": 16,
-    "score": 662.4,
+    "score": 642.3,
     "team_above": {
-      "name": "All Hail King Jesus",
-      "rank": 6,
-      "score": 665.1,
-      "gap": 2.7000000000000455
-    },
-    "team_below": {
       "name": "Badland Banditos",
       "rank": 8,
-      "score": 661.6,
-      "gap": 0.7999999999999545
+      "score": 660.9,
+      "gap": 18.600000000000023
+    },
+    "team_below": {
+      "name": "Gringo\u2019s Goblins",
+      "rank": 10,
+      "score": 610.4,
+      "gap": 31.899999999999977
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 13,
+    "rank": 10,
     "league_size": 16,
-    "score": 2054.7,
-    "player_d_avi": 1110.8,
+    "score": 2049.2,
+    "player_d_avi": 1105.3,
     "future_pick_d_avi": 943.9,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the TE slot above Mike Gesicki's 64.9 C-AVI baseline; a replacement near 67.6 C-AVI would directly attack the 2.70-point projected gap to All Hail King Jesus."
+    "Raise the TE slot above Mike Gesicki's 64.6 C-AVI baseline; a replacement near 83.2 C-AVI would directly attack the 18.60-point projected gap to Badland Banditos."
   ],
   "rival_below": {
-    "franchise_name": "Badland Banditos",
-    "projected_rank": 8,
-    "projected_score": 661.6,
+    "franchise_name": "Gringo\u2019s Goblins",
+    "projected_rank": 10,
+    "projected_score": 610.4,
     "latest_trade": {
-      "transaction_id": "1396908520204410880",
-      "created_at": "2026-08-22T15:10:53.824000+00:00",
+      "transaction_id": "1394413143647592448",
+      "created_at": "2026-08-15T17:55:09.691000+00:00",
       "type": "trade",
-      "summary": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos).",
+      "summary": "On August 15, Gringo\u2019s Goblins completed a trade with Corgi Loaf Baking Co. and acquired Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.) and sent David Montgomery, Tank Dell.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1396908520204410880",
-      "created_at": "2026-08-22T15:10:53.824000+00:00",
+      "transaction_id": "1394413143647592448",
+      "created_at": "2026-08-15T17:55:09.691000+00:00",
       "type": "trade",
-      "summary": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos).",
+      "summary": "On August 15, Gringo\u2019s Goblins completed a trade with Corgi Loaf Baking Co. and acquired Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.) and sent David Montgomery, Tank Dell.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos)."
+    "summary": "On August 15, Gringo\u2019s Goblins completed a trade with Corgi Loaf Baking Co. and acquired Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.) and sent David Montgomery, Tank Dell."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #7 of 16 at 662.40 lineup C-AVI. All Hail King Jesus is immediately above at 665.10, a gap of 2.70. Badland Banditos is immediately behind at 661.60."
+      "body": "Projected #9 of 16 at 642.30 lineup C-AVI. Badland Banditos is immediately above at 660.90, a gap of 18.60. Gringo\u2019s Goblins is immediately behind at 610.40."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Chase Brown (91.7), Javonte Williams (87.8), and Ladd McConkey (84.3)."
+      "body": "The three highest C-AVI starters are Chase Brown (92.2), Javonte Williams (88.3), and Dak Prescott (83.4)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,25 +85,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the TE slot above Mike Gesicki's 64.9 C-AVI baseline; a replacement near 67.6 C-AVI would directly attack the 2.70-point projected gap to All Hail King Jesus.",
+      "body": "Raise the TE slot above Mike Gesicki's 64.6 C-AVI baseline; a replacement near 83.2 C-AVI would directly attack the 18.60-point projected gap to Badland Banditos.",
       "items": [
-        "Raise the TE slot above Mike Gesicki's 64.9 C-AVI baseline; a replacement near 67.6 C-AVI would directly attack the 2.70-point projected gap to All Hail King Jesus."
+        "Raise the TE slot above Mike Gesicki's 64.6 C-AVI baseline; a replacement near 83.2 C-AVI would directly attack the 18.60-point projected gap to Badland Banditos."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos)."
+      "body": "On August 15, Gringo\u2019s Goblins completed a trade with Corgi Loaf Baking Co. and acquired Aaron Jones, Christian Watson, 2029 Round 1 (Corgi Loaf Baking Co.) and sent David Montgomery, Tank Dell."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Mike Gesicki is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 64.9. Any acquisition should clear that exact lineup threshold."
+      "body": "Mike Gesicki is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 64.6. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "Current Sleeper-owned roster has 15 active offensive players; non-active: Chris Brazzell."
+      "body": "Current Sleeper-owned roster has 14 active offensive players; non-active: Terrance Ferguson, Chris Brazzell, Travis Etienne."
     },
     {
       "id": "draft-assets",
@@ -126,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/06_Lightskin_Legends.md"
     ],
-    "source_last_updated": "2026-09-30",
+    "source_last_updated": "2026-10-07",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
