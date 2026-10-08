@@ -544,19 +544,19 @@
       }
     },
     {
-      "average": 3.3,
+      "average": 3.6,
       "filename": "dennis-gardeck.php",
       "games": 4,
       "player_id": 17906,
       "player_name": "Dennis Gardeck",
-      "points": 13,
+      "points": 14.5,
       "position_id": "LB",
       "team_id": "JAC",
       "weeks": {
         "1": 2.3,
         "2": 8.5,
         "3": 2.3,
-        "4": 0
+        "4": 1.5
       }
     },
     {
@@ -1297,19 +1297,19 @@
       }
     },
     {
-      "average": 5,
+      "average": 5.2,
       "filename": "brenton-cox.php",
       "games": 4,
       "player_id": 22748,
       "player_name": "Brenton Cox Jr.",
-      "points": 20,
+      "points": 20.75,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
         "1": 6,
         "2": 2.3,
         "3": 6.3,
-        "4": 5.5
+        "4": 6.3
       }
     },
     {
@@ -1329,19 +1329,19 @@
       }
     },
     {
-      "average": 11.4,
+      "average": 11.1,
       "filename": "jamien-sherwood.php",
       "games": 4,
       "player_id": 23194,
       "player_name": "Jamien Sherwood",
-      "points": 45.75,
+      "points": 44.25,
       "position_id": "LB",
       "team_id": "NYJ",
       "weeks": {
         "1": 4.5,
         "2": 10.8,
         "3": 11.5,
-        "4": 19
+        "4": 17.5
       }
     },
     {
@@ -1871,35 +1871,35 @@
       }
     },
     {
-      "average": 11,
+      "average": 10.6,
       "filename": "jack-campbell.php",
       "games": 4,
       "player_id": 25435,
       "player_name": "Jack Campbell",
-      "points": 44,
+      "points": 42.5,
       "position_id": "LB",
       "team_id": "DET",
       "weeks": {
         "1": 11.5,
         "2": 6,
         "3": 11.5,
-        "4": 15
+        "4": 13.5
       }
     },
     {
-      "average": 10.9,
+      "average": 10.7,
       "filename": "daiyanhenley.php",
       "games": 4,
       "player_id": 25436,
       "player_name": "Daiyan Henley",
-      "points": 43.5,
+      "points": 42.75,
       "position_id": "LB",
       "team_id": "LAC",
       "weeks": {
         "1": 9.5,
         "2": 2.3,
         "3": 22.5,
-        "4": 9.3
+        "4": 8.5
       }
     },
     {
@@ -2074,19 +2074,19 @@
       }
     },
     {
-      "average": 1.9,
+      "average": 2.3,
       "filename": "trevor-nowaske.php",
       "games": 4,
       "player_id": 25793,
       "player_name": "Trevor Nowaske",
-      "points": 7.5,
+      "points": 9,
       "position_id": "LB",
       "team_id": "DET",
       "weeks": {
         "1": 0,
         "2": 0,
         "3": 6,
-        "4": 1.5
+        "4": 3
       }
     },
     {

@@ -79,19 +79,19 @@
       }
     },
     {
-      "average": 11.9,
+      "average": 12.3,
       "filename": "chuck-clark.php",
       "games": 4,
       "player_id": 16558,
       "player_name": "Chuck Clark",
-      "points": 47.75,
+      "points": 49.25,
       "position_id": "S",
       "team_id": "DET",
       "weeks": {
         "1": 10.3,
         "2": 11.3,
         "3": 18,
-        "4": 8.3
+        "4": 9.8
       }
     },
     {
@@ -1237,19 +1237,19 @@
       }
     },
     {
-      "average": 8.4,
+      "average": 8.3,
       "filename": "javon-bullard.php",
       "games": 4,
       "player_id": 26121,
       "player_name": "Javon Bullard",
-      "points": 33.75,
+      "points": 33,
       "position_id": "S",
       "team_id": "GB",
       "weeks": {
         "1": 1.5,
         "2": 17,
         "3": 10,
-        "4": 5.3
+        "4": 4.5
       }
     },
     {

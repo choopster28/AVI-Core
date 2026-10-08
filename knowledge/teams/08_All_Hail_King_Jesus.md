@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Hofer51
 - Owner ID: 736994691492519936
 - Division: 4
-- Waiver position: 6
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-10-08
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 662.2
-- championship_lineup_c_avi_avg: 82.78
-- offensive_roster_c_avi_sum: 1049.1
-- offensive_roster_c_avi_avg: 69.94
-- offensive_roster_d_avi_sum: 1101.0
-- offensive_roster_d_avi_avg: 73.40
+- championship_lineup_c_avi_sum: 660.9
+- championship_lineup_c_avi_avg: 82.61
+- offensive_roster_c_avi_sum: 1047.7
+- offensive_roster_c_avi_avg: 69.85
+- offensive_roster_d_avi_sum: 1077.0
+- offensive_roster_d_avi_avg: 71.80
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 84.2 | D-AVI: 83.5
-- RB: D'Andre Swift | C-AVI: 85.6 | D-AVI: 82.7
-- RB: George Holani | C-AVI: 49.1 | D-AVI: 41.0
-- WR: Amon-Ra St. Brown | C-AVI: 98.7 | D-AVI: 99.2
-- WR: Justin Jefferson | C-AVI: 93.7 | D-AVI: 97.1
-- TE: Dallas Goedert | C-AVI: 85.0 | D-AVI: 80.5
-- FLEX: Tee Higgins | C-AVI: 89.0 | D-AVI: 91.7
-- FLEX: Tucker Kraft | C-AVI: 76.9 | D-AVI: 86.8
+- RB: D'Andre Swift | C-AVI: 85.4 | D-AVI: 80.8
+- RB: Kimani Vidal | C-AVI: 49.0 | D-AVI: 43.8
+- WR: Amon-Ra St. Brown | C-AVI: 98.7 | D-AVI: 98.9
+- WR: Justin Jefferson | C-AVI: 93.8 | D-AVI: 97.5
+- TE: Dallas Goedert | C-AVI: 84.3 | D-AVI: 71.6
+- FLEX: Tee Higgins | C-AVI: 88.9 | D-AVI: 91.1
+- FLEX: Tucker Kraft | C-AVI: 76.6 | D-AVI: 83.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -87,26 +87,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 85.6
-- Dynasty AVI (D-AVI, 0-100): 82.7
+- Championship AVI (C-AVI, 0-100): 85.4
+- Dynasty AVI (D-AVI, 0-100): 80.8
 - Projected PPR points: 224.8
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: George Holani
-- Player name: George Holani
-- Player ID: 12048
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: SEA
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 49.1
-- Dynasty AVI (D-AVI, 0-100): 41.0
-- Projected PPR points: 43.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -121,9 +104,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 49.1
-- Dynasty AVI (D-AVI, 0-100): 44.3
+- Championship AVI (C-AVI, 0-100): 49.0
+- Dynasty AVI (D-AVI, 0-100): 43.8
 - Projected PPR points: 49.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: George Holani
+- Player name: George Holani
+- Player ID: 12048
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: SEA
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 48.0
+- Dynasty AVI (D-AVI, 0-100): 27.5
+- Projected PPR points: 43.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 38.9
-- Dynasty AVI (D-AVI, 0-100): 64.8
+- Championship AVI (C-AVI, 0-100): 38.7
+- Dynasty AVI (D-AVI, 0-100): 63.8
 - Projected PPR points: 116.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -156,7 +156,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 98.7
-- Dynasty AVI (D-AVI, 0-100): 99.2
+- Dynasty AVI (D-AVI, 0-100): 98.9
 - Projected PPR points: 333.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 93.7
-- Dynasty AVI (D-AVI, 0-100): 97.1
+- Championship AVI (C-AVI, 0-100): 93.8
+- Dynasty AVI (D-AVI, 0-100): 97.5
 - Projected PPR points: 273.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 89.0
-- Dynasty AVI (D-AVI, 0-100): 91.7
+- Championship AVI (C-AVI, 0-100): 88.9
+- Dynasty AVI (D-AVI, 0-100): 91.1
 - Projected PPR points: 220.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 73.0
-- Dynasty AVI (D-AVI, 0-100): 73.4
+- Championship AVI (C-AVI, 0-100): 73.1
+- Dynasty AVI (D-AVI, 0-100): 74.0
 - Projected PPR points: 162.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -224,7 +224,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 34.0
 - Championship AVI (C-AVI, 0-100): 65.0
-- Dynasty AVI (D-AVI, 0-100): 66.1
+- Dynasty AVI (D-AVI, 0-100): 65.8
 - Projected PPR points: 141.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 85.0
-- Dynasty AVI (D-AVI, 0-100): 80.5
+- Championship AVI (C-AVI, 0-100): 84.3
+- Dynasty AVI (D-AVI, 0-100): 71.6
 - Projected PPR points: 185.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 76.9
-- Dynasty AVI (D-AVI, 0-100): 86.8
+- Championship AVI (C-AVI, 0-100): 76.6
+- Dynasty AVI (D-AVI, 0-100): 83.4
 - Projected PPR points: 173.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 34.0
-- Championship AVI (C-AVI, 0-100): 64.6
-- Dynasty AVI (D-AVI, 0-100): 58.8
+- Championship AVI (C-AVI, 0-100): 65.7
+- Dynasty AVI (D-AVI, 0-100): 64.2
 - Projected PPR points: 115.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -314,23 +314,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Josh Hines-Allen
-- Player name: Josh Hines-Allen
-- Player ID: 5840
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: DL
-- Fantasy positions: ['DL', 'LB']
-- NFL team: JAX
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
 ### PLAYER: Will Anderson
 - Player name: Will Anderson
 - Player ID: 10892
@@ -342,6 +325,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Derrick Barnes
+- Player name: Derrick Barnes
+- Player ID: 7726
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: LB
+- Fantasy positions: ['DL', 'LB']
+- NFL team: DET
+- Active: True
+- Status: Active
+- Age: 27.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
