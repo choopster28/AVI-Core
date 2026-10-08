@@ -1,5 +1,357 @@
 [
   {
+    "id": "mv06ijg7-274d4dec",
+    "createdAt": 1791502821001,
+    "expiresAt": 1791934821001,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Big Balder Brand ↔ Northside Kings",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Northside Kings",
+      "targetAssets": [
+        {
+          "name": "Bhayshul Tuten",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [],
+      "personalContext": "Unfortunately, because of all of my injuries Shakir and Allgeier are starters for me for the next week or two, so moving two starting pieces for just one right now is pretty hard to justify… Is there a way to only give up one starter or get two players in return from him as well?"
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "To address Big Balder Brand's immediate roster constraints—where injuries force current starters Khalil Shakir and Tyler Allgeier into active lineups for the next week or two—AVI refines the trade structure to prevent parting with two vital starting pieces simultaneously for a single player. Instead of the initial 3-for-1 package, AVI proposes streamlining the trade to send just one starting-caliber piece plus draft capital, or targeting an additional complementary asset from Northside Kings to preserve BBB's short-term lineup depth during the immediate push.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Khalil Shakir",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 66.3,
+              "davi": 77.6,
+              "publicMarket": 68,
+              "leagueMarket": 70
+            },
+            {
+              "name": "2027 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "RB",
+              "age": 23,
+              "cavi": 77.6,
+              "davi": 79.7,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand scales back the initial 3-for-1 offer to respect immediate injury constraints, offering Khalil Shakir and a 2nd-round pick for Bhayshul Tuten. This avoids depleting active weekly starters while still securing a premier 23-year-old lead back."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By restructuring to a leaner package that protects BBB's immediate starting depth during the injury crunch, Big Balder Brand acquires Tuten without creating a temporary starting void at WR/FLEX."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 40,
+              "summary": "Acquires young feature back Bhayshul Tuten while protecting immediate starting lineup depth by retaining Tyler Allgeier during the injury crunch."
+            },
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Balances the Playoff Push by upgrading FLEX2 without creating an immediate short-term hole in active weekly starting requirements."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Consolidates a rising asset (Shakir) and a 2nd-round pick into a high-upside 23-year-old feature back."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Upgrades the active roster ceiling without forcing a compromised starting lineup configuration over the next two weeks."
+            },
+            "depthResilience": {
+              "score": -5,
+              "summary": "Minimizes the immediate bench/starting depth hit by retaining Allgeier to cover current injuries."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders a 2027 2nd-round draft pick to finalize the deal."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Retooling objective is partially met via a young core WR and draft capital, though lacking the immediate RB replacement found in the original 3-for-1 proposal."
+            },
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Accepts a greater short-term scoring hit at RB by moving Tuten without receiving an immediate starting RB back."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Acquires high-dynasty assets in Shakir and a 2nd-round pick."
+            },
+            "lineupQuality": {
+              "score": -20,
+              "summary": "Creates a temporary starting void at RB that Northside Kings would need to fill via internal depth or waivers."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Adds a startable WR and a draft pick, broadening long-term flexibility."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Adds 2027 draft capital."
+            }
+          },
+          "explanation": "Refining the trade package to account for Big Balder Brand's current injury-driven starting requirements prevents a temporary roster crisis while still fulfilling the long-term championship objective."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand secures Bhayshul Tuten without prematurely stripping away active starting depth needed to weather the current injury window.",
+          "sideADynastyImpact": "Maintains elite long-term ceiling by adding Tuten alongside Hampton and Love while keeping Allgeier as insurance.",
+          "sideARosterImpact": "Protects immediate weekly scoring by keeping Allgeier active while upgrading the long-term FLEX rotation with Tuten.",
+          "sideBChampionshipImpact": "Northside Kings takes a larger immediate C-AVI hit at RB by not receiving Allgeier in return, requiring adjustments to their retooling strategy.",
+          "sideBDynastyImpact": "Acquires Khalil Shakir (77.6 D-AVI) and a 2027 2nd-round pick.",
+          "sideBRosterImpact": "Acquires a high-upside receiver but leaves an open starting requirement at RB.",
+          "valueAssessment": "Slight value deficit for Northside Kings compared to the 3-for-1 package, but balanced by the high upside of Shakir and draft capital."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Bhayshul Tuten remains a high-demand target in Jacksonville with locked-in weekly volume.",
+          "aviVsMarket": "AVI values Tuten at 77.6 C-AVI / 79.7 D-AVI, aligning closely with market consensus.",
+          "relevantContext": [
+            "Tuten's locked-in role makes him an ideal cornerstone for BBB's championship push.",
+            "Shakir continues to command a reliable target share in Buffalo, maintaining strong public market value."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Northside Kings is in Retool mode and values young roster pieces like Shakir and draft capital, though losing the immediate RB replacement makes this a tougher sell.",
+          "packageFit": "Streamlined to 2-for-1 to protect user injury constraints.",
+          "lineupReplacement": "Northside Kings would need to look to internal depth (such as RJ Harvey) to absorb the loss of Allgeier's inclusion.",
+          "competitiveWindowFit": "Maintains alignment with Northside Kings' retooling timeline while addressing BBB's immediate roster constraints.",
+          "positionalScarcity": "Feature RBs remain exceptionally scarce in a 16-team league."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 18,
+            "packageMatch": 14,
+            "lineupReplacement": 10,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 68,
+          "classification": "Stretch",
+          "explanation": "Because the streamlined package removes Tyler Allgeier (the immediate starting RB replacement for Northside Kings), acceptance probability drops to a Stretch (68%) as Northside Kings would absorb an uncompensated immediate scoring loss at running back."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "To respect Big Balder Brand's injury constraints and protect active starting requirements for the next week or two, AVI revises the offer to a leaner 2-for-1 package (Shakir + 2nd round pick for Tuten). While acceptance probability drops slightly because Northside Kings loses the immediate RB replacement piece, this construction protects BBB's short-term lineup integrity.",
+          "confidence": "Medium"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Khalil Shakir",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 66.3,
+              "davi": 77.6,
+              "publicMarket": 68,
+              "leagueMarket": 70
+            },
+            {
+              "name": "2027 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "RB",
+              "age": 23,
+              "cavi": 77.6,
+              "davi": 79.7,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "whyUserShouldDoIt": "Acquires elite young upside at running back while retaining Tyler Allgeier to cover active injury gaps over the next week or two.",
+          "whyOpponentMightAccept": "Provides a high-dynasty asset in Khalil Shakir and 2027 draft capital that fits their retooling timeline."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Tyler Allgeier",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 26,
+              "cavi": 61.7,
+              "davi": 64.3,
+              "publicMarket": 58,
+              "leagueMarket": 60
+            },
+            {
+              "name": "2027 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "RB",
+              "age": 23,
+              "cavi": 77.6,
+              "davi": 79.7,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "rationale": "If BBB prefers to retain Shakir during the injury crunch, substituting Allgeier provides Northside Kings with their immediate RB replacement, though value would likely need to be bridged with an additional minor asset."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "User noted that current injuries force Khalil Shakir and Tyler Allgeier into active starting lineups for the next week or two, making it difficult to justify moving two starting pieces for a single player. AVI restructured the recommendation into a leaner package (Shakir + 2nd-round pick) to protect short-term starting requirements while still pursuing Tuten."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Bhayshul Tuten news",
+          "Bhayshul Tuten NFL 2026",
+          "Bhayshul Tuten football draft 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiIwnP8mvLDVsAofEFn-TM7tSOOvNXept4xU0HfsyGv0G-euh8ZmQoheoBixVMTsBz0HipIjSVeQOSQRguWbJgxc0cr4c0e0N85m0ixiP87t1i7CWTaLIYGVlHjPwJ_nOVTW_HPz3waQuVf1nDz_1UBHPwX7QPSJ37AIsFlInTA4qyY2gTKe0SpUsHQfYaQY-WQu8W4wg=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZgFOgMyjLQYoa1gbM5u47ymF8sitDVUObrZhszNPN7AKaQoKR9qI6JkvH74NX_6cVv_xYgIVxwUM3s4Co1yEvztIk3BQJhcBdwtCvR9ltbYWSCdl9_oKaT7mMG336uZB6WtrC3UhfxZOxMx7Z5EsQH1pClnkQAvQ8znM3de2FF-8khVRMKHdFhKNwfr1KOnunZfNY0RmVTqeJ3BU=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2pt9lTXfT6Ii9Qiiupmv4ZbLKStor11L1vB5J2k6ODeC4_SVSO82r2zrc-Wp_kd3UuijF8u93g6UllgG-H4Sz55S8of8iLNPAQ_YZwf70UwTk_P8h6rgNzeqz6zcuXfE=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE9Yh72U6TQONCiwJQi-x0cJcXofYBIi0OezcG2V3UnecFEHXt5f8TKtwQgHwXF1vUrIq5n9MSE42MlXH2qH6NMRXHtJpgGASt52xQlIgrei_0fISGkSX1IJ75049bFGr73cpQjtX4Is_nV8lcZciy12dBL2fFGxvdXV0gZzEW2Nv3JpRtZFWiP9Fr",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW1AKRLv8hQJ5PaqnXuRi78GNbsfulr7il7MuND271XikF3lYAC0yfe9aHizIYN-3MaGeHUIec3h4tvSYQH_oWpvT2aG_TWO-lwc3mYtE1zW-x_jgxNDAJs2oNyuMdMldEC1dv3GWkx2jVTAy1didmpR3Xt2EGHuMK11MMN08siJhfVX_y7vpUxLvax3wrFmMNELdwRxbCeRXtHgcAR3T30Ay4mKSVp6V2",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKARPgPC5d45jNKKYZ8M9k7MV3uVOB6rMjL64SQZsdX2uYXCjT1POOihgfXjjzkKlqJP6BlACCe0jvyvkVRZUX-MXwzKPtZL8Wza2b_c8ARK5QH7EvKzkHe7yL8XXk2-CMvAkBwh7rkXlJvombYyGfhy7TL0GsyfrKm3-tpJSmFeWNTi6NMPQykHaYd_tVv5Vn7knkmIQJ0N8zuYlftg==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIFTrQcPta16YH4OpCSPsCYYxH_Nvma_fWn1_rBpnWH_x3KaSZuz7fZJp0t2QA64N0zL02NamWX_Cqhxq7lIbsvwBbsTNLm6mnFubf2PDDJjWDhEKJOpROqRyuHnR3pcryOGMyRZ3FIj6e5aE_d88C622t-fRTXGGK9bXsRDYFgVDwvA4nzFbvBJkly4CGUTRBQcHwTsSxGESCQCvSIf2z",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b5314752f0a0fafc5f1dce3215a747da7765bd63",
+        "aviCoreCommittedAt": "2026-10-08T19:20:14Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 83813,
+        "groundedMarketChars": 2504,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mv05yw0j-9db80164",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "b5314752f0a0fafc5f1dce3215a747da7765bd63"
+      }
+    }
+  },
+  {
     "id": "mv05yw0j-9db80164",
     "createdAt": 1791501948711,
     "expiresAt": 1791933948711,
