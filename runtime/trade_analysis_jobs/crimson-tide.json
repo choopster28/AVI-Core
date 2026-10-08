@@ -1,5 +1,39 @@
 [
   {
+    "id": "muzp36tb-bd3576d3",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jakobi Meyers",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Lightskin · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2028 1st · Northside · Projected early range (1.01–1.05)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1791473535551,
+    "updatedAt": 1791473535551,
+    "expiresAt": 1791905535551,
+    "status": "queued"
+  },
+  {
     "id": "muzovzao-fe903cf9",
     "phase": "initial",
     "mode": "propose_trade",
