@@ -1,5 +1,28 @@
 [
   {
+    "id": "muzovzao-fe903cf9",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "2028 1st · Northside · Projected early range (1.01–1.05)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1791473199216,
+    "updatedAt": 1791473199216,
+    "expiresAt": 1791905199216,
+    "status": "queued"
+  },
+  {
     "id": "muxleq1l-26dccc6d",
     "phase": "initial",
     "mode": "shop_assets",
