@@ -39,6 +39,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00003634",
+      "c_avi": 55.7,
+      "d_avi": 41.7,
+      "nfl_team": "CHI",
+      "player_name": "Kalif Raymond",
+      "position": "WR",
+      "sleeper_id": "3634",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00005906",
       "c_avi": 51.9,
       "d_avi": 57.5,
@@ -2702,8 +2714,8 @@
     }
   ],
   "counts": {
-    "available_players": 225,
-    "rostered_players": 254
+    "available_players": 226,
+    "rostered_players": 253
   },
   "rostered_players": [
     {
@@ -5073,22 +5085,6 @@
       "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00003634",
-      "c_avi": 55.7,
-      "d_avi": 41.7,
-      "nfl_team": "CHI",
-      "owner_id": "308805697879937024",
-      "player_name": "Kalif Raymond",
-      "position": "WR",
-      "roster_id": 10,
-      "sleeper_id": "3634",
-      "status": "Active",
-      "team_file": "10_SmokyValleyWheatWarriors.md",
-      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,

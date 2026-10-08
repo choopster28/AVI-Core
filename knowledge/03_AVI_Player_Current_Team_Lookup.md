@@ -1188,14 +1188,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
-## PLAYER LOOKUP: Kalif Raymond
-- Player name: Kalif Raymond
-- Player ID: 3634
-- Position: WR
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Team file: 10_SmokyValleyWheatWarriors.md
-
 ## PLAYER LOOKUP: Kayshon Boutte
 - Player name: Kayshon Boutte
 - Player ID: 9504
@@ -2063,6 +2055,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 57.7
 - Dynasty AVI (D-AVI, 0-100): 22.0
+- Availability: available
+
+## AVAILABLE PLAYER: Kalif Raymond
+- Player name: Kalif Raymond
+- Player ID: 3634
+- Position: WR
+- NFL team: CHI
+- Championship AVI (C-AVI, 0-100): 55.7
+- Dynasty AVI (D-AVI, 0-100): 41.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Dawson Knox
