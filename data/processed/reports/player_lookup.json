@@ -243,6 +243,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011627",
+      "c_avi": 44.8,
+      "d_avi": 63.3,
+      "nfl_team": "DEN",
+      "player_name": "Troy Franklin",
+      "position": "WR",
+      "sleeper_id": "11627",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011370",
       "c_avi": 44.5,
       "d_avi": 28.3,
@@ -262,18 +274,6 @@
       "player_name": "Elijah Higgins",
       "position": "TE",
       "sleeper_id": "10231",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011608",
-      "c_avi": 44.4,
-      "d_avi": 63.7,
-      "nfl_team": "NYJ",
-      "player_name": "Isaiah Williams",
-      "position": "WR",
-      "sleeper_id": "11608",
       "status": "Active"
     },
     {
@@ -4297,6 +4297,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00011608",
+      "c_avi": 44.4,
+      "d_avi": 63.7,
+      "nfl_team": "NYJ",
+      "owner_id": "737531831641128960",
+      "player_name": "Isaiah Williams",
+      "position": "WR",
+      "roster_id": 7,
+      "sleeper_id": "11608",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00011565",
       "c_avi": 28.5,
       "d_avi": 56.0,
@@ -6485,22 +6501,6 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011627",
-      "c_avi": 44.8,
-      "d_avi": 63.3,
-      "nfl_team": "DEN",
-      "owner_id": "737531831641128960",
-      "player_name": "Troy Franklin",
-      "position": "WR",
-      "roster_id": 7,
-      "sleeper_id": "11627",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
     },
     {
       "active": true,

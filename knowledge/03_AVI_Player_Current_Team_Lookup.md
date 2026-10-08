@@ -804,6 +804,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
+## PLAYER LOOKUP: Isaiah Williams
+- Player name: Isaiah Williams
+- Player ID: 11608
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
 ## PLAYER LOOKUP: J.J. McCarthy
 - Player name: J.J. McCarthy
 - Player ID: 11565
@@ -1900,14 +1908,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
-## PLAYER LOOKUP: Troy Franklin
-- Player name: Troy Franklin
-- Player ID: 11627
-- Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Tucker Kraft
 - Player name: Tucker Kraft
 - Player ID: 9484
@@ -2226,6 +2226,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 56.5
 - Availability: available
 
+## AVAILABLE PLAYER: Troy Franklin
+- Player name: Troy Franklin
+- Player ID: 11627
+- Position: WR
+- NFL team: DEN
+- Championship AVI (C-AVI, 0-100): 44.8
+- Dynasty AVI (D-AVI, 0-100): 63.3
+- Availability: available
+
 ## AVAILABLE PLAYER: Chris Brooks
 - Player name: Chris Brooks
 - Player ID: 11370
@@ -2242,15 +2251,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ARI
 - Championship AVI (C-AVI, 0-100): 44.4
 - Dynasty AVI (D-AVI, 0-100): 42.4
-- Availability: available
-
-## AVAILABLE PLAYER: Isaiah Williams
-- Player name: Isaiah Williams
-- Player ID: 11608
-- Position: WR
-- NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 44.4
-- Dynasty AVI (D-AVI, 0-100): 63.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Jonnu Smith
