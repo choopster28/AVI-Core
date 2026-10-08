@@ -1972,14 +1972,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
-## PLAYER LOOKUP: Tyrone Tracy
-- Player name: Tyrone Tracy
-- Player ID: 11655
-- Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
-
 ## PLAYER LOOKUP: Wan'Dale Robinson
 - Player name: Wan'Dale Robinson
 - Player ID: 8126
@@ -2584,6 +2576,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: DEN
 - Championship AVI (C-AVI, 0-100): 36.2
 - Dynasty AVI (D-AVI, 0-100): 58.0
+- Availability: available
+
+## AVAILABLE PLAYER: Tyrone Tracy
+- Player name: Tyrone Tracy
+- Player ID: 11655
+- Position: RB
+- NFL team: NYG
+- Championship AVI (C-AVI, 0-100): 36.1
+- Dynasty AVI (D-AVI, 0-100): 51.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Will Kacmarek

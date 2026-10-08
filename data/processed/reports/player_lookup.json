@@ -723,6 +723,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011655",
+      "c_avi": 36.1,
+      "d_avi": 51.2,
+      "nfl_team": "NYG",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "sleeper_id": "11655",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00013434",
       "c_avi": 36.1,
       "d_avi": 44.6,
@@ -2690,8 +2702,8 @@
     }
   ],
   "counts": {
-    "available_players": 224,
-    "rostered_players": 255
+    "available_players": 225,
+    "rostered_players": 254
   },
   "rostered_players": [
     {
@@ -6629,22 +6641,6 @@
       "status": "Active",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011655",
-      "c_avi": 36.1,
-      "d_avi": 51.2,
-      "nfl_team": "NYG",
-      "owner_id": "986498458162970624",
-      "player_name": "Tyrone Tracy",
-      "position": "RB",
-      "roster_id": 11,
-      "sleeper_id": "11655",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
