@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-10-07
+- Last updated from Sleeper exports: 2026-10-08
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 660.9
-- championship_lineup_c_avi_avg: 82.61
-- offensive_roster_c_avi_sum: 1092.1
-- offensive_roster_c_avi_avg: 64.24
-- offensive_roster_d_avi_sum: 1202.9
-- offensive_roster_d_avi_avg: 70.76
+- championship_lineup_c_avi_sum: 660.8
+- championship_lineup_c_avi_avg: 82.60
+- offensive_roster_c_avi_sum: 1093.4
+- offensive_roster_c_avi_avg: 64.32
+- offensive_roster_d_avi_sum: 1217.2
+- offensive_roster_d_avi_avg: 71.60
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Ja'Marr Chase | C-AVI: 96.6 | D-AVI: 99.4
 - WR: Terry McLaurin | C-AVI: 79.7 | D-AVI: 85.9
 - TE: Brock Bowers | C-AVI: 95.3 | D-AVI: 92.9
-- FLEX: Tre Tucker | C-AVI: 68.4 | D-AVI: 70.6
+- FLEX: Tre Tucker | C-AVI: 68.3 | D-AVI: 70.6
 - FLEX: Brian Thomas | C-AVI: 65.7 | D-AVI: 83.9
 
 ## Current Roster — All Player Cards
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 43.2
+- Championship AVI (C-AVI, 0-100): 43.3
 - Dynasty AVI (D-AVI, 0-100): 40.3
 - Projected PPR points: 19.3
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 68.4
+- Championship AVI (C-AVI, 0-100): 68.3
 - Dynasty AVI (D-AVI, 0-100): 70.6
 - Projected PPR points: 128.1
 - Category: offense
@@ -205,7 +205,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: JAX
 - Active: True
 - Status: Active
-- Age: 23.0
+- Age: 24.0
 - Championship AVI (C-AVI, 0-100): 65.7
 - Dynasty AVI (D-AVI, 0-100): 83.9
 - Projected PPR points: 173.4
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 28.5
+- Championship AVI (C-AVI, 0-100): 28.7
 - Dynasty AVI (D-AVI, 0-100): 38.8
 - Projected PPR points: 96.0
 - Category: offense
@@ -342,8 +342,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 61.3
-- Dynasty AVI (D-AVI, 0-100): 56.4
+- Championship AVI (C-AVI, 0-100): 62.4
+- Dynasty AVI (D-AVI, 0-100): 70.7
 - Projected PPR points: 124.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

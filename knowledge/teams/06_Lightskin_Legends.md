@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-10-07
+- Last updated from Sleeper exports: 2026-10-08
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 635.7
-- championship_lineup_c_avi_avg: 79.46
-- offensive_roster_c_avi_sum: 1057.2
-- offensive_roster_c_avi_avg: 66.08
-- offensive_roster_d_avi_sum: 1105.3
-- offensive_roster_d_avi_avg: 69.08
+- championship_lineup_c_avi_sum: 637.1
+- championship_lineup_c_avi_avg: 79.64
+- offensive_roster_c_avi_sum: 1061.2
+- offensive_roster_c_avi_avg: 66.33
+- offensive_roster_d_avi_sum: 1156.5
+- offensive_roster_d_avi_avg: 72.28
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Javonte Williams | C-AVI: 88.3 | D-AVI: 85.2
 - WR: Jaylen Waddle | C-AVI: 83.2 | D-AVI: 89.4
 - WR: Parker Washington | C-AVI: 81.4 | D-AVI: 90.6
-- TE: Mike Gesicki | C-AVI: 64.6 | D-AVI: 45.0
+- TE: Mike Gesicki | C-AVI: 66.0 | D-AVI: 62.7
 - FLEX: Ladd McConkey | C-AVI: 80.0 | D-AVI: 90.4
 - FLEX: Rashod Bateman | C-AVI: 62.6 | D-AVI: 63.6
 
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 64.6
-- Dynasty AVI (D-AVI, 0-100): 45.0
+- Championship AVI (C-AVI, 0-100): 66.0
+- Dynasty AVI (D-AVI, 0-100): 62.7
 - Projected PPR points: 109.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 64.0
-- Dynasty AVI (D-AVI, 0-100): 71.9
+- Championship AVI (C-AVI, 0-100): 64.5
+- Dynasty AVI (D-AVI, 0-100): 78.5
 - Projected PPR points: 117.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 56.1
-- Dynasty AVI (D-AVI, 0-100): 35.9
+- Championship AVI (C-AVI, 0-100): 58.2
+- Dynasty AVI (D-AVI, 0-100): 62.8
 - Projected PPR points: 84.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

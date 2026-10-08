@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-10-07
+- Last updated from Sleeper exports: 2026-10-08
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 548.8
-- championship_lineup_c_avi_avg: 68.60
-- offensive_roster_c_avi_sum: 1034.4
-- offensive_roster_c_avi_avg: 60.85
-- offensive_roster_d_avi_sum: 1210.4
-- offensive_roster_d_avi_avg: 71.20
+- championship_lineup_c_avi_sum: 550.0
+- championship_lineup_c_avi_avg: 68.75
+- offensive_roster_c_avi_sum: 1036.4
+- offensive_roster_c_avi_avg: 60.96
+- offensive_roster_d_avi_sum: 1234.7
+- offensive_roster_d_avi_avg: 72.63
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,8 +35,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Rhamondre Stevenson | C-AVI: 75.6 | D-AVI: 73.0
 - WR: Denzel Boston | C-AVI: 71.2 | D-AVI: 84.6
 - WR: Adonai Mitchell | C-AVI: 63.4 | D-AVI: 75.9
-- TE: Colston Loveland | C-AVI: 81.8 | D-AVI: 87.4
-- FLEX: AJ Barner | C-AVI: 61.2 | D-AVI: 60.6
+- TE: Colston Loveland | C-AVI: 82.0 | D-AVI: 89.6
+- FLEX: AJ Barner | C-AVI: 62.2 | D-AVI: 73.8
 - FLEX: Blake Corum | C-AVI: 61.2 | D-AVI: 72.4
 
 ## Current Roster — All Player Cards
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 53.7
-- Dynasty AVI (D-AVI, 0-100): 48.0
+- Championship AVI (C-AVI, 0-100): 53.8
+- Dynasty AVI (D-AVI, 0-100): 48.1
 - Projected PPR points: 28.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -188,7 +188,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: NYJ
 - Active: True
 - Status: Active
-- Age: 23.0
+- Age: 24.0
 - Championship AVI (C-AVI, 0-100): 63.4
 - Dynasty AVI (D-AVI, 0-100): 75.9
 - Projected PPR points: 94.6
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 81.8
-- Dynasty AVI (D-AVI, 0-100): 87.4
+- Championship AVI (C-AVI, 0-100): 82.0
+- Dynasty AVI (D-AVI, 0-100): 89.6
 - Projected PPR points: 210.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 61.2
-- Dynasty AVI (D-AVI, 0-100): 60.6
+- Championship AVI (C-AVI, 0-100): 62.2
+- Dynasty AVI (D-AVI, 0-100): 73.8
 - Projected PPR points: 112.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 36.2
-- Dynasty AVI (D-AVI, 0-100): 65.6
+- Championship AVI (C-AVI, 0-100): 36.9
+- Dynasty AVI (D-AVI, 0-100): 74.4
 - Projected PPR points: 49.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
