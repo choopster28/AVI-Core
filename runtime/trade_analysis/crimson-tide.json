@@ -1,5 +1,353 @@
 [
   {
+    "id": "muzovzao-fe903cf9",
+    "createdAt": 1791473267494,
+    "expiresAt": 1791905267494,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Crimson Tide Pods ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "2028 1st · Northside · Projected early range (1.01–1.05)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "To acquire Corgi Loaf Baking Co.'s 2028 1st-round pick (originated by Northside Kings, projected early range 1.01–1.05 with a 79.3 D-AVI), Crimson Tide Pods (Rebuild) should send veteran wide receiver Jakobi Meyers (74.4 C-AVI / 79.4 D-AVI) and running back Chris Rodriguez (57.5 C-AVI / 60.1 D-AVI). Corgi Loaf Baking Co. operates as an Elite Contender in full Win Championship mode; while their top eight starting slots are elite, their bench WR and RB depth behind DJ Moore and Mike Washington is dangerously thin in a 16-team league. This proposed 2-for-1 package fortifies Corgi Loaf's weekly FLEX floor and bench resilience without sacrificing any active starters, while allowing Crimson Tide Pods to sell off win-now veterans in exchange for a liquid, premium future 1st-round asset that aligns perfectly with a rebuild timeline.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 74.4,
+              "davi": 79.4,
+              "publicMarket": 74.4,
+              "leagueMarket": 74.4
+            },
+            {
+              "name": "Chris Rodriguez",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 27,
+              "cavi": 57.5,
+              "davi": 60.1,
+              "publicMarket": 57.5,
+              "leagueMarket": 57.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2028 Round 1 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods captures a massive long-term strategic advantage by converting two aging veteran producers (age-29 WR and age-27 RB) into a projected early 2028 1st-round pick (79.3 D-AVI). For Corgi Loaf Baking Co., giving up distant draft capital yields immediate high-end WR4/FLEX insurance (Meyers, 74.4 C-AVI) and reliable RB depth (Rodriguez, 57.5 C-AVI) to secure their championship run without altering their starting lineup."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "This offer aligns both organizational goals perfectly: Crimson Tide Pods accumulates core rebuilding currency while Corgi Loaf Baking Co. insulates their starting lineup against injuries during a championship title push."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 40,
+              "summary": "Material long-term portfolio win for Crimson Tide Pods, trading short-term points for high-tier draft capital."
+            },
+            "championshipOutlook": {
+              "score": -15,
+              "summary": "Modest reduction in 2026 immediate weekly scoring by departing with two active lineup contributors."
+            },
+            "dynastyOutlook": {
+              "score": 50,
+              "summary": "Substantial gain in long-term dynasty value by securing a projected early 2028 1st-round pick."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Vacates Jakobi Meyers from WR1 and Chris Rodriguez from RB1 in the short term."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Slightly reduces active veteran depth while opening starting snaps for younger rostered talent."
+            },
+            "flexibilityLiquidity": {
+              "score": 45,
+              "summary": "Adds a highly liquid, premium 1st-round pick to Crimson Tide Pods' future asset vault."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Net positive move for Corgi Loaf Baking Co., solidifying championship depth without hurting active starters."
+            },
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Dramatically improves title odds by fortifying crucial WR and RB depth positions."
+            },
+            "dynastyOutlook": {
+              "score": -20,
+              "summary": "Surrenders a premium draft asset two seasons away."
+            },
+            "lineupQuality": {
+              "score": 5,
+              "summary": "Maintains an elite starting lineup (JSN, DeVonta Smith, Nabers, Warren, Skattebo, Montgomery) while raising bench floor."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Provides critical protection against injuries in a deep 16-team fantasy landscape."
+            },
+            "flexibilityLiquidity": {
+              "score": -25,
+              "summary": "Reduces future draft pick inventory in 2028."
+            }
+          },
+          "explanation": "Crimson Tide Pods trades present weekly production for future ceiling and draft liquidity, advancing their rebuild goal. Corgi Loaf Baking Co. converts distant future capital into immediate championship resilience."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Slight reduction in immediate weekly scoring capacity, accelerating the franchise's strategic pivot toward a draft-focused rebuild.",
+          "sideADynastyImpact": "Significant long-term boost; acquiring a 79.3 D-AVI early 1st-round pick provides foundational capital.",
+          "sideARosterImpact": "Frees starting WR/RB snaps for younger developmental assets like Germie Bernard, Zachariah Branch, and Raheim Sanders.",
+          "sideBChampionshipImpact": "Directly enhances 2026 title window by acquiring a WR with 74.4 C-AVI and an RB with 57.5 C-AVI.",
+          "sideBDynastyImpact": "Acceptable sacrifice of long-term pick liquidity to maximize current championship window.",
+          "sideBRosterImpact": "Solves depth shortages behind starting WRs and RBs without forcing active starters into backup roles.",
+          "valueAssessment": "Highly coherent 2-for-1 trade where total production sent (131.9 C-AVI / 139.5 D-AVI across two assets) commands a premium projected early future 1st (79.3 D-AVI)."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In public market consensus (KeepTradeCut, FantasyPros), Jakobi Meyers retains solid veteran trade value as a target-earning WR, while Chris Rodriguez holds key handcuff/depth value. Early future 1st-round picks command high market premiums, but contending managers regularly trade 2-year-out picks for immediate multi-positional depth.",
+          "aviVsMarket": "AVI places extra value on active depth in a 16-team format. Public markets often underestimate the fragility of a top-heavy contender's bench, making this deal mutually beneficial in AVI model logic.",
+          "relevantContext": [
+            "16-team league scoring amplifies the marginal utility of startable WRs and RBs.",
+            "Corgi Loaf Baking Co. holds an Elite Contender status and zero active starting holes.",
+            "Future picks in 2028 have zero weekly 2026 fantasy point utility for a championship runner."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "As an Elite Contender targeting a championship, Corgi Loaf Baking Co. wants to protect their starting core from injury disasters without sacrificing starting players.",
+          "packageFit": "Fits Corgi Loaf's exact bench needs: Jakobi Meyers becomes their primary WR reserve/FLEX option, and Chris Rodriguez upgrades their RB depth behind Skattebo, Montgomery, and Hubbard.",
+          "lineupReplacement": "Flawless lineup replacement: Corgi Loaf loses 0 starting lineup points today because draft picks generate zero 2026 points.",
+          "competitiveWindowFit": "Perfect alignment; Corgi Loaf trades from 2028 liquidity to win in 2026, while Crimson Tide Pods trades 2026 points to build for 2028.",
+          "positionalScarcity": "High positional scarcity at RB and WR in a 16-team, full PPR league structure."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 95,
+          "classification": "Highly Realistic",
+          "explanation": "Corgi Loaf Baking Co. is actively competing for a championship and historically active in trades. Giving up a 2028 1st pick that does not assist their 2026 starting lineup to gain two immediate high-floor depth pieces is a standard, realistic contender move."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Crimson Tide Pods should submit this proposal immediately. Sending Jakobi Meyers and Chris Rodriguez to Corgi Loaf Baking Co. for their 2028 1st-round pick (Northside Kings) achieves an optimal strategic outcome for a rebuilding franchise by securing an elite draft asset while liquidating veteran producers.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 74.4,
+              "davi": 79.4,
+              "publicMarket": 74.4,
+              "leagueMarket": 74.4
+            },
+            {
+              "name": "Chris Rodriguez",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 27,
+              "cavi": 57.5,
+              "davi": 60.1,
+              "publicMarket": 57.5,
+              "leagueMarket": 57.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 Round 1 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "You turn two non-essential veteran players (ages 29 and 27) into a premium early 2028 1st-round pick (79.3 D-AVI), accelerating your rebuild timeline and boosting your long-term draft capital.",
+          "whyOpponentMightAccept": "Corgi Loaf Baking Co. gets proven starting-caliber WR/RB depth to insure their championship run without losing any active points from their current starting lineup."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 74.4,
+              "davi": 79.4,
+              "publicMarket": 74.4,
+              "leagueMarket": 74.4
+            },
+            {
+              "name": "2027 Round 2 (Lightskin Legends ✊🏽)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 Round 1 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "If Corgi Loaf Baking Co. prefers draft capital flexibility over RB depth, swapping Jakobi Meyers and a 2027 2nd-round pick for the 2028 1st pick provides an alternative path to complete the transaction."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "dynasty fantasy football trade market 2026",
+          "nfl news october 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCmdALMeOB-SiRewzeVRQa51WHLj0qpyM4toxKi0J67iPHTWa8SnU-lK5lByWlVNmLFA0kRNVpnHzEGIyBXoaO50JJ1AcMEXY2wF4mZ8wXMYk_nHPavBTGWwDJfD3rD7jA-rXhpf5ETUWIvjg4bYo=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBeHX-pTeWzqe68ZyfG_9y7SxrVohvgV5k_owEyir9V7MeHDCS3l2rEjNds0I59uj5TaAlpdiCNbdDYLat1i3iLHev364K8RriPvgta0Ld875yud35S8_N0JpDOTtWRrd53RQUMFlAt-o5YKC6kxQX62X8wMmzs8iuKyz2nwkiVtOIa7r3-yEG5Q2KJ9Ny2kGJkO5v-80t47PvLK3leouns58=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDiMilVNS6jgw6sqdVTK5OgZMR44ILWmvsxS-0oInFzP8IbTD3jRIgPdQ9h8hCy8lqelWzlcx88beFsYUH12Hl1Z-AZyt2o_LMdLrVtKaqj3lej9lIEBmvVJ7D_8eSEV4qGJUC8pbUMm6HfcixIUSz4utLZAw09Io=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS8Q-s_X6u8CeBilmx3mMJbZD6ZnZwi6xjbLgeWQHyTCBIoQiXelCwcIV_4VuwEC3-lYSbQgfRdkDZr1PCNTZ-zrMCB40sYWSWNdui0yDB8jPgQL8uoIR4CQB3c6-Iw5qM",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg-qU74cJRiQ8Hc8k8PQZ9u9FreRLxLrSv3uq_d7FrjwO4MFmUzm_CKUeb9DpI7JsnGHfMMeGMVGpub4UYOVFmzAs31_QL_BChw5hVbqaVJtXa5OoWNDfoZknh7xWXfVnBIIEq5JU_-eS3HxX9FRXrrdAuD5xXNDLC29KgMdb1_adb5Dna9C2X",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvKyZcAJ50fKtlh-69UEpuKd1tPEjVjVHOnDk6WQe_SiTE4asHhtpFADyMg2swMROyaF5WkgWU1WE6uCw_Ybe-9fHBrZxjf4DkUzVGd6_vBSbbwP06KGtkiVM7vTZQbQkPM_eT-mEuDxIZTS9njSCWzQf9gfyLigiUUlRFwWx5hXVgwzzLneJXtA==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjteuHZP_vjw1ttzCxILqii8BGzGWfSiIomQAGi2EUjE36fe9_40F6btkvoKKL-yXPH4NDtXnMbgiwl1kV4FECr8PaJPj9APZOoEfA4AoBArRmTkslxkZ7IUuzHBjyKl_c6s6oy-VLNW0x6dpWk8hcfiQyQXp8o-q44ovptSzA4BZGEi7MK8MlWLVgb0JiynJtAb0zdowJ3Q==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSChDEEkhED2LhvaijpsRwXnbPnKMZYK-nSN_2dHWyP4wxwTvX-j2j6X0iyocsKvPEKX_9eMuutngbJVYEdiXEujipUOg96WH8ut0nlFbmBTto1hRzHwvK4BJSxo00UQT3xND1DHz0h0hf6An3fvknD5zhmxrgak4Jk_KqgWqWGjyt5cDLY24BAlZKxmkY25NxrE-TDgc1_TVtB-wovunb78gnLo3HMkqVi2fmTi8OvWqXaW1dciHy49A3F86uVCLPVB-ZvdwP0Gl29FOQ9WPYbQ==",
+            "title": "facebook.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "2b7fc28eeeb971f66cf19c7741a365d517eea45a",
+        "aviCoreCommittedAt": "2026-10-08T11:30:34Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+        ],
+        "contextChars": 88040,
+        "groundedMarketChars": 1621,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "muxleq1l-26dccc6d",
     "createdAt": 1791346512789,
     "expiresAt": 1791778512789,
