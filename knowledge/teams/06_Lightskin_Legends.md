@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 634.2
-- championship_lineup_c_avi_avg: 79.28
-- offensive_roster_c_avi_sum: 1052.3
-- offensive_roster_c_avi_avg: 65.77
-- offensive_roster_d_avi_sum: 1024.8
-- offensive_roster_d_avi_avg: 64.05
+- championship_lineup_c_avi_sum: 643.9
+- championship_lineup_c_avi_avg: 80.49
+- offensive_roster_c_avi_sum: 947.2
+- offensive_roster_c_avi_avg: 59.20
+- offensive_roster_d_avi_sum: 1002.6
+- offensive_roster_d_avi_avg: 62.66
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Dak Prescott | C-AVI: 83.4 | D-AVI: 80.8
-- RB: Chase Brown | C-AVI: 92.2 | D-AVI: 90.7
-- RB: Javonte Williams | C-AVI: 88.2 | D-AVI: 83.4
-- WR: Jaylen Waddle | C-AVI: 83.0 | D-AVI: 86.3
-- WR: Parker Washington | C-AVI: 81.1 | D-AVI: 86.2
-- TE: Mike Gesicki | C-AVI: 64.3 | D-AVI: 41.3
-- FLEX: Ladd McConkey | C-AVI: 79.9 | D-AVI: 89.2
-- FLEX: Rashod Bateman | C-AVI: 62.1 | D-AVI: 56.8
+- QB: Dak Prescott | C-AVI: 83.1 | D-AVI: 77.8
+- RB: Chase Brown | C-AVI: 95.7 | D-AVI: 91.3
+- RB: Javonte Williams | C-AVI: 83.0 | D-AVI: 82.5
+- WR: Ladd McConkey | C-AVI: 82.9 | D-AVI: 89.7
+- WR: Jaylen Waddle | C-AVI: 82.0 | D-AVI: 86.2
+- TE: Terrance Ferguson | C-AVI: 57.9 | D-AVI: 68.2
+- FLEX: Travis Etienne | C-AVI: 82.8 | D-AVI: 79.9
+- FLEX: Parker Washington | C-AVI: 76.5 | D-AVI: 85.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,11 +53,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 83.4
-- Dynasty AVI (D-AVI, 0-100): 80.8
+- Championship AVI (C-AVI, 0-100): 83.1
+- Dynasty AVI (D-AVI, 0-100): 77.8
 - Projected PPR points: 315.8
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Jared Goff
 - Player name: Jared Goff
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 71.2
-- Dynasty AVI (D-AVI, 0-100): 75.3
+- Championship AVI (C-AVI, 0-100): 59.1
+- Dynasty AVI (D-AVI, 0-100): 71.4
 - Projected PPR points: 293.1
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Chase Brown
 - Player name: Chase Brown
@@ -87,11 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 92.2
-- Dynasty AVI (D-AVI, 0-100): 90.7
+- Championship AVI (C-AVI, 0-100): 95.7
+- Dynasty AVI (D-AVI, 0-100): 91.3
 - Projected PPR points: 285.8
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Javonte Williams
 - Player name: Javonte Williams
@@ -104,11 +104,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 88.2
-- Dynasty AVI (D-AVI, 0-100): 83.4
+- Championship AVI (C-AVI, 0-100): 83.0
+- Dynasty AVI (D-AVI, 0-100): 82.5
 - Projected PPR points: 233.2
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Travis Etienne
 - Player name: Travis Etienne
@@ -121,45 +121,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 69.2
-- Dynasty AVI (D-AVI, 0-100): 77.6
+- Championship AVI (C-AVI, 0-100): 82.8
+- Dynasty AVI (D-AVI, 0-100): 79.9
 - Projected PPR points: 234.2
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jaylen Waddle
-- Player name: Jaylen Waddle
-- Player ID: 7526
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 83.0
-- Dynasty AVI (D-AVI, 0-100): 86.3
-- Projected PPR points: 209.3
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Parker Washington
-- Player name: Parker Washington
-- Player ID: 9487
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: JAX
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 81.1
-- Dynasty AVI (D-AVI, 0-100): 86.2
-- Projected PPR points: 196.6
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Ladd McConkey
 - Player name: Ladd McConkey
@@ -172,11 +138,45 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 79.9
-- Dynasty AVI (D-AVI, 0-100): 89.2
+- Championship AVI (C-AVI, 0-100): 82.9
+- Dynasty AVI (D-AVI, 0-100): 89.7
 - Projected PPR points: 212.9
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
+
+### PLAYER: Jaylen Waddle
+- Player name: Jaylen Waddle
+- Player ID: 7526
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: DEN
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 82.0
+- Dynasty AVI (D-AVI, 0-100): 86.2
+- Projected PPR points: 209.3
+- Category: offense
+- Valuation status: PROVISIONAL_2026_3
+
+### PLAYER: Parker Washington
+- Player name: Parker Washington
+- Player ID: 9487
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: JAX
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 76.5
+- Dynasty AVI (D-AVI, 0-100): 85.5
+- Projected PPR points: 196.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Rashod Bateman
 - Player name: Rashod Bateman
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 62.1
-- Dynasty AVI (D-AVI, 0-100): 56.8
+- Championship AVI (C-AVI, 0-100): 48.4
+- Dynasty AVI (D-AVI, 0-100): 54.5
 - Projected PPR points: 123.7
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Keon Coleman
 - Player name: Keon Coleman
@@ -206,11 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 58.6
-- Dynasty AVI (D-AVI, 0-100): 54.8
+- Championship AVI (C-AVI, 0-100): 37.3
+- Dynasty AVI (D-AVI, 0-100): 51.2
 - Projected PPR points: 62.9
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Roman Wilson
 - Player name: Roman Wilson
@@ -223,11 +223,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 54.5
-- Dynasty AVI (D-AVI, 0-100): 48.7
+- Championship AVI (C-AVI, 0-100): 32.8
+- Dynasty AVI (D-AVI, 0-100): 45.1
 - Projected PPR points: 58.2
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Kendrick Bourne
 - Player name: Kendrick Bourne
@@ -240,11 +240,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 45.1
-- Dynasty AVI (D-AVI, 0-100): 27.9
+- Championship AVI (C-AVI, 0-100): 31.2
+- Dynasty AVI (D-AVI, 0-100): 25.6
 - Projected PPR points: 52.1
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Chris Brazzell
 - Player name: Chris Brazzell
@@ -280,23 +280,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: NOT_IN_AVI_OUTPUT
 
-### PLAYER: Mike Gesicki
-- Player name: Mike Gesicki
-- Player ID: 4993
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: CIN
-- Active: True
-- Status: Active
-- Age: 31.0
-- Championship AVI (C-AVI, 0-100): 64.3
-- Dynasty AVI (D-AVI, 0-100): 41.3
-- Projected PPR points: 109.6
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Terrance Ferguson
 - Player name: Terrance Ferguson
 - Player ID: 12487
@@ -308,11 +291,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 63.8
-- Dynasty AVI (D-AVI, 0-100): 69.1
+- Championship AVI (C-AVI, 0-100): 57.9
+- Dynasty AVI (D-AVI, 0-100): 68.2
 - Projected PPR points: 117.5
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
+
+### PLAYER: Mike Gesicki
+- Player name: Mike Gesicki
+- Player ID: 4993
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: CIN
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 50.0
+- Dynasty AVI (D-AVI, 0-100): 38.9
+- Projected PPR points: 109.6
+- Category: offense
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Darnell Washington
 - Player name: Darnell Washington
@@ -325,11 +325,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 55.7
-- Dynasty AVI (D-AVI, 0-100): 30.8
+- Championship AVI (C-AVI, 0-100): 44.5
+- Dynasty AVI (D-AVI, 0-100): 28.9
 - Projected PPR points: 84.7
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: PROVISIONAL_2026_3
 
 ### PLAYER: Nick Folk
 - Player name: Nick Folk

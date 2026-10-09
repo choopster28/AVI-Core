@@ -305,19 +305,20 @@
       }
     },
     {
-      "average": 7.3,
+      "average": 8,
       "filename": "alex-anzalone.php",
-      "games": 4,
+      "games": 5,
       "player_id": 16720,
       "player_name": "Alex Anzalone",
-      "points": 29,
+      "points": 40,
       "position_id": "LB",
       "team_id": "TB",
       "weeks": {
         "1": 6.8,
         "2": 7.5,
         "3": 11.8,
-        "4": 3
+        "4": 3,
+        "5": 11
       }
     },
     {
@@ -620,19 +621,20 @@
       }
     },
     {
-      "average": 4.3,
+      "average": 4.9,
       "filename": "rashan-gary.php",
-      "games": 4,
+      "games": 5,
       "player_id": 18209,
       "player_name": "Rashan Gary",
-      "points": 17,
+      "points": 24.5,
       "position_id": "LB",
       "team_id": "DAL",
       "weeks": {
         "1": 2.3,
         "2": 3.8,
         "3": 1.5,
-        "4": 9.5
+        "4": 9.5,
+        "5": 7.5
       }
     },
     {
@@ -1996,19 +1998,20 @@
       }
     },
     {
-      "average": 10.1,
+      "average": 11,
       "filename": "dee-winters.php",
-      "games": 4,
+      "games": 5,
       "player_id": 25579,
       "player_name": "Dee Winters",
-      "points": 40.5,
+      "points": 55,
       "position_id": "LB",
       "team_id": "DAL",
       "weeks": {
         "1": 8.5,
         "2": 18.5,
         "3": 8.3,
-        "4": 5.3
+        "4": 5.3,
+        "5": 14.5
       }
     },
     {
@@ -2499,19 +2502,20 @@
       }
     },
     {
-      "average": 5.8,
+      "average": 4.8,
       "filename": "david-walker.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27091,
       "player_name": "David Walker",
-      "points": 23,
+      "points": 23.75,
       "position_id": "LB",
       "team_id": "TB",
       "weeks": {
         "1": 0,
         "2": 8,
         "3": 12,
-        "4": 3
+        "4": 3,
+        "5": 0.8
       }
     },
     {
@@ -2595,19 +2599,20 @@
       }
     },
     {
-      "average": 1.1,
+      "average": 1.7,
       "filename": "shemar-james.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27260,
       "player_name": "Shemar James",
-      "points": 4.5,
+      "points": 8.25,
       "position_id": "LB",
       "team_id": "DAL",
       "weeks": {
         "1": 0,
         "2": 3,
         "3": 0,
-        "4": 1.5
+        "4": 1.5,
+        "5": 3.8
       }
     },
     {
@@ -2896,18 +2901,19 @@
       }
     },
     {
-      "average": 18.4,
+      "average": 16.7,
       "filename": "josiah-trotter.php",
-      "games": 3,
+      "games": 4,
       "player_id": 28077,
       "player_name": "Josiah Trotter",
-      "points": 55.25,
+      "points": 66.75,
       "position_id": "LB",
       "team_id": "TB",
       "weeks": {
         "1": 31.3,
         "2": 12,
-        "4": 12
+        "4": 12,
+        "5": 11.5
       }
     },
     {
@@ -2959,19 +2965,20 @@
       }
     },
     {
-      "average": 9.7,
+      "average": 9.1,
       "filename": "jaishawn-barham.php",
-      "games": 4,
+      "games": 5,
       "player_id": 28200,
       "player_name": "Jaishawn Barham",
-      "points": 38.75,
+      "points": 45.5,
       "position_id": "LB",
       "team_id": "DAL",
       "weeks": {
         "1": 9.3,
         "2": 14.8,
         "3": 13.3,
-        "4": 1.5
+        "4": 1.5,
+        "5": 6.8
       }
     },
     {
@@ -3208,18 +3215,19 @@
       }
     },
     {
-      "average": 2.3,
+      "average": 2.1,
       "filename": "christian-rozeboom.php",
-      "games": 3,
+      "games": 4,
       "player_id": 19713,
       "player_name": "Christian Rozeboom",
-      "points": 7,
+      "points": 8.5,
       "position_id": "LB",
       "team_id": "TB",
       "weeks": {
         "2": 0,
         "3": 3,
-        "4": 4
+        "4": 4,
+        "5": 1.5
       }
     },
     {
@@ -3395,18 +3403,19 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.2,
       "filename": "justin-barron.php",
-      "games": 3,
+      "games": 4,
       "player_id": 27642,
       "player_name": "Justin Barron",
-      "points": 0,
+      "points": 0.75,
       "position_id": "LB",
       "team_id": "DAL",
       "weeks": {
         "2": 0,
         "3": 0,
-        "4": 0
+        "4": 0,
+        "5": 0.8
       }
     },
     {

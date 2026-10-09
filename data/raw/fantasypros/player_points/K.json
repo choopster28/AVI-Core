@@ -209,19 +209,20 @@
       }
     },
     {
-      "average": 10.3,
+      "average": 9.6,
       "filename": "chase-mclaughlin.php",
-      "games": 4,
+      "games": 5,
       "player_id": 19058,
       "player_name": "Chase McLaughlin",
-      "points": 41,
+      "points": 48,
       "position_id": "K",
       "team_id": "TB",
       "weeks": {
         "1": 11,
         "2": 16,
         "3": 12,
-        "4": 2
+        "4": 2,
+        "5": 7
       }
     },
     {
@@ -321,19 +322,20 @@
       }
     },
     {
-      "average": 10.3,
+      "average": 9.2,
       "filename": "brandon-aubrey.php",
-      "games": 4,
+      "games": 5,
       "player_id": 26068,
       "player_name": "Brandon Aubrey",
-      "points": 41,
+      "points": 46,
       "position_id": "K",
       "team_id": "DAL",
       "weeks": {
         "1": 2,
         "2": 16,
         "3": 11,
-        "4": 12
+        "4": 12,
+        "5": 5
       }
     },
     {

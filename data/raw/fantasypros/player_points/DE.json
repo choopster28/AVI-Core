@@ -1065,19 +1065,20 @@
       }
     },
     {
-      "average": 4.1,
+      "average": 4.7,
       "filename": "yaya-diaby.php",
-      "games": 4,
+      "games": 5,
       "player_id": 25264,
       "player_name": "Yaya Diaby",
-      "points": 16.25,
+      "points": 23.5,
       "position_id": "DE",
       "team_id": "TB",
       "weeks": {
         "1": 4,
         "2": 7,
         "3": 3,
-        "4": 2.3
+        "4": 2.3,
+        "5": 7.3
       }
     },
     {
@@ -1304,19 +1305,20 @@
       }
     },
     {
-      "average": 7.8,
+      "average": 7.4,
       "filename": "donovan-ezeiruaku.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27033,
       "player_name": "Donovan Ezeiruaku",
-      "points": 31,
+      "points": 37,
       "position_id": "DE",
       "team_id": "DAL",
       "weeks": {
         "1": 19,
         "2": 3.8,
         "3": 5.3,
-        "4": 3
+        "4": 3,
+        "5": 6
       }
     },
     {
@@ -1538,19 +1540,20 @@
       }
     },
     {
-      "average": 2.4,
+      "average": 4,
       "filename": "malachi-lawrence.php",
-      "games": 4,
+      "games": 5,
       "player_id": 28203,
       "player_name": "Malachi Lawrence",
-      "points": 9.75,
+      "points": 20,
       "position_id": "DE",
       "team_id": "DAL",
       "weeks": {
         "1": 5.3,
         "2": 1.5,
         "3": 1.5,
-        "4": 1.5
+        "4": 1.5,
+        "5": 10.3
       }
     },
     {
@@ -1600,17 +1603,18 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 1,
       "filename": "rueben-bain.php",
-      "games": 2,
+      "games": 3,
       "player_id": 28772,
       "player_name": "Rueben Bain Jr.",
-      "points": 1.5,
+      "points": 3,
       "position_id": "DE",
       "team_id": "TB",
       "weeks": {
         "1": 1.5,
-        "2": 0
+        "2": 0,
+        "5": 1.5
       }
     },
     {

@@ -108,19 +108,20 @@
       }
     },
     {
-      "average": 20.6,
+      "average": 19.4,
       "filename": "dak-prescott.php",
-      "games": 4,
+      "games": 5,
       "player_id": 15600,
       "player_name": "Dak Prescott",
-      "points": 82.20000000000002,
+      "points": 96.84000000000002,
       "position_id": "QB",
       "team_id": "DAL",
       "weeks": {
         "1": 15.4,
         "2": 29.8,
         "3": 18.9,
-        "4": 18.1
+        "4": 18.1,
+        "5": 14.6
       }
     },
     {
@@ -812,17 +813,18 @@
       }
     },
     {
-      "average": 6.7,
+      "average": 9.1,
       "filename": "jalon-daniels.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26060,
       "player_name": "Jalon Daniels",
-      "points": 13.32,
+      "points": 27.18,
       "position_id": "QB",
       "team_id": "TB",
       "weeks": {
         "3": -0.1,
-        "4": 13.4
+        "4": 13.4,
+        "5": 13.9
       }
     },
     {

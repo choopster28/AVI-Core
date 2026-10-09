@@ -3767,8 +3767,8 @@
     "avi_id": "AVI-00011199",
     "canonical_name": "Emari Demercado",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "DAL",
     "normalized_name": "emari demercado",
@@ -6950,8 +6950,8 @@
     "avi_id": "AVI-00013405",
     "canonical_name": "Kaytron Allen",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "WAS",
     "normalized_name": "kaytron allen",

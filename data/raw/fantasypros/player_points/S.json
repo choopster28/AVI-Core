@@ -35,7 +35,7 @@
     {
       "average": 0,
       "filename": "miles-killebrew.php",
-      "games": 4,
+      "games": 5,
       "player_id": 15588,
       "player_name": "Miles Killebrew",
       "points": 0,
@@ -45,7 +45,8 @@
         "1": 0,
         "2": 0,
         "3": 0,
-        "4": 0
+        "4": 0,
+        "5": 0
       }
     },
     {
@@ -65,17 +66,18 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 6.5,
       "filename": "malik-hooker.php",
-      "games": 2,
+      "games": 3,
       "player_id": 16373,
       "player_name": "Malik Hooker",
-      "points": 13.5,
+      "points": 19.5,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
         "1": 1.5,
-        "4": 12
+        "4": 12,
+        "5": 6
       }
     },
     {
@@ -816,19 +818,20 @@
       }
     },
     {
-      "average": 9.6,
+      "average": 8.8,
       "filename": "tykee-smith.php",
-      "games": 4,
+      "games": 5,
       "player_id": 23751,
       "player_name": "Tykee Smith",
-      "points": 38.5,
+      "points": 43.75,
       "position_id": "S",
       "team_id": "TB",
       "weeks": {
         "1": 6.8,
         "2": 14.3,
         "3": 6,
-        "4": 11.5
+        "4": 11.5,
+        "5": 5.3
       }
     },
     {
@@ -1016,19 +1019,20 @@
       }
     },
     {
-      "average": 4.3,
+      "average": 4.5,
       "filename": "markquese-ball.php",
-      "games": 4,
+      "games": 5,
       "player_id": 24864,
       "player_name": "Markquese Bell",
-      "points": 17.25,
+      "points": 22.5,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
         "1": 0,
         "2": 7.5,
         "3": 9.8,
-        "4": 0
+        "4": 0,
+        "5": 5.3
       }
     },
     {
@@ -1709,19 +1713,20 @@
       }
     },
     {
-      "average": 9.1,
+      "average": 7.9,
       "filename": "caleb-downs.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27950,
       "player_name": "Caleb Downs",
-      "points": 36.5,
+      "points": 39.5,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
         "1": 16.3,
         "2": 9.8,
         "3": 3.8,
-        "4": 6.8
+        "4": 6.8,
+        "5": 3
       }
     },
     {
@@ -2139,14 +2144,15 @@
     {
       "average": 0,
       "filename": "juanyeh-thomas.php",
-      "games": 1,
+      "games": 2,
       "player_id": 24865,
       "player_name": "Juanyeh Thomas",
       "points": 0,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
-        "4": 0
+        "4": 0,
+        "5": 0
       }
     },
     {

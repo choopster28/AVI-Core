@@ -112,19 +112,20 @@
       }
     },
     {
-      "average": 7,
+      "average": 5.8,
       "filename": "a-shawn-robinson.php",
-      "games": 4,
+      "games": 5,
       "player_id": 15503,
       "player_name": "A'Shawn Robinson",
-      "points": 28,
+      "points": 28.75,
       "position_id": "DT",
       "team_id": "TB",
       "weeks": {
         "1": 6,
         "2": 11.8,
         "3": 8.8,
-        "4": 1.5
+        "4": 1.5,
+        "5": 0.8
       }
     },
     {
@@ -159,19 +160,20 @@
       }
     },
     {
-      "average": 2.8,
+      "average": 2.4,
       "filename": "kenny-clark.php",
-      "games": 4,
+      "games": 5,
       "player_id": 15535,
       "player_name": "Kenny Clark",
-      "points": 11.25,
+      "points": 12,
       "position_id": "DT",
       "team_id": "DAL",
       "weeks": {
         "1": 2.3,
         "2": 3,
         "3": 2.3,
-        "4": 3.8
+        "4": 3.8,
+        "5": 0.8
       }
     },
     {
@@ -378,19 +380,20 @@
       }
     },
     {
-      "average": 2.4,
+      "average": 2.6,
       "filename": "tevita-tuliakiono-tuipulotu-mosese-vahae-fehoko-faletau-vea.php",
-      "games": 4,
+      "games": 5,
       "player_id": 17322,
       "player_name": "Vita Vea",
-      "points": 9.75,
+      "points": 12.75,
       "position_id": "DT",
       "team_id": "TB",
       "weeks": {
         "1": 0,
         "2": 1.5,
         "3": 6.8,
-        "4": 1.5
+        "4": 1.5,
+        "5": 3
       }
     },
     {
@@ -532,19 +535,20 @@
       }
     },
     {
-      "average": 8.3,
+      "average": 6.9,
       "filename": "quinnen-williams.php",
-      "games": 4,
+      "games": 5,
       "player_id": 18200,
       "player_name": "Quinnen Williams",
-      "points": 33,
+      "points": 34.5,
       "position_id": "DT",
       "team_id": "DAL",
       "weeks": {
         "1": 7,
         "2": 7,
         "3": 5.5,
-        "4": 13.5
+        "4": 13.5,
+        "5": 1.5
       }
     },
     {
@@ -1153,33 +1157,35 @@
     {
       "average": 1.1,
       "filename": "calijah-kancey.php",
-      "games": 4,
+      "games": 5,
       "player_id": 23865,
       "player_name": "Calijah Kancey",
-      "points": 4.5,
+      "points": 5.25,
       "position_id": "DT",
       "team_id": "TB",
       "weeks": {
         "1": 0,
         "2": 1.5,
         "3": 3,
-        "4": 0
+        "4": 0,
+        "5": 0.8
       }
     },
     {
-      "average": 3.8,
+      "average": 5.2,
       "filename": "otito-ogbonnia.php",
-      "games": 4,
+      "games": 5,
       "player_id": 23900,
       "player_name": "Otito Ogbonnia",
-      "points": 15,
+      "points": 26,
       "position_id": "DT",
       "team_id": "DAL",
       "weeks": {
         "1": 4.5,
         "2": 0,
         "3": 8.3,
-        "4": 2.3
+        "4": 2.3,
+        "5": 11
       }
     },
     {
@@ -1885,19 +1891,20 @@
       }
     },
     {
-      "average": 1.9,
+      "average": 1.8,
       "filename": "lt-overton.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27040,
       "player_name": "LT Overton",
-      "points": 7.5,
+      "points": 9,
       "position_id": "DT",
       "team_id": "DAL",
       "weeks": {
         "1": 2.3,
         "2": 1.5,
         "3": 2.3,
-        "4": 1.5
+        "4": 1.5,
+        "5": 1.5
       }
     },
     {
