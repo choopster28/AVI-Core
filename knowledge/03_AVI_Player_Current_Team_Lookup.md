@@ -532,14 +532,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
-## PLAYER LOOKUP: DeMario Douglas
-- Player name: DeMario Douglas
-- Player ID: 9501
-- Position: WR
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Team file: 13_Southside_Savages.md
-
 ## PLAYER LOOKUP: DeVonta Smith
 - Player name: DeVonta Smith
 - Player ID: 7525
@@ -651,6 +643,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
+
+## PLAYER LOOKUP: Efton Chism
+- Player name: Efton Chism
+- Player ID: 12542
+- Position: WR
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Team file: 13_Southside_Savages.md
 
 ## PLAYER LOOKUP: Eli Raridon
 - Player name: Eli Raridon
@@ -2210,6 +2210,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 53.5
 - Availability: available
 
+## AVAILABLE PLAYER: DeMario Douglas
+- Player name: DeMario Douglas
+- Player ID: 9501
+- Position: WR
+- NFL team: NE
+- Championship AVI (C-AVI, 0-100): 45.6
+- Dynasty AVI (D-AVI, 0-100): 42.2
+- Availability: available
+
 ## AVAILABLE PLAYER: Joshua Palmer
 - Player name: Joshua Palmer
 - Player ID: 7670
@@ -2406,15 +2415,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: IND
 - Championship AVI (C-AVI, 0-100): 38.0
 - Dynasty AVI (D-AVI, 0-100): 62.2
-- Availability: available
-
-## AVAILABLE PLAYER: Efton Chism
-- Player name: Efton Chism
-- Player ID: 12542
-- Position: WR
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 38.0
-- Dynasty AVI (D-AVI, 0-100): 60.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Kaytron Allen

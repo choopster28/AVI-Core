@@ -243,6 +243,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00009501",
+      "c_avi": 45.6,
+      "d_avi": 42.2,
+      "nfl_team": "NE",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "sleeper_id": "9501",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00007670",
       "c_avi": 45.5,
       "d_avi": 35.6,
@@ -502,18 +514,6 @@
       "player_name": "Ashton Dulin",
       "position": "WR",
       "sleeper_id": "6427",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012542",
-      "c_avi": 38.0,
-      "d_avi": 60.8,
-      "nfl_team": "NE",
-      "player_name": "Efton Chism",
-      "position": "WR",
-      "sleeper_id": "12542",
       "status": "Active"
     },
     {
@@ -3777,22 +3777,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00009501",
-      "c_avi": 45.6,
-      "d_avi": 42.2,
-      "nfl_team": "NE",
-      "owner_id": "998253660243054592",
-      "player_name": "DeMario Douglas",
-      "position": "WR",
-      "roster_id": 13,
-      "sleeper_id": "9501",
-      "status": "Active",
-      "team_file": "13_Southside_Savages.md",
-      "team_name": "Southside Savages"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00007525",
       "c_avi": 90.9,
       "d_avi": 90.9,
@@ -4013,6 +3997,22 @@
       "status": "Inactive",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012542",
+      "c_avi": 38.0,
+      "d_avi": 60.8,
+      "nfl_team": "NE",
+      "owner_id": "998253660243054592",
+      "player_name": "Efton Chism",
+      "position": "WR",
+      "roster_id": 13,
+      "sleeper_id": "12542",
+      "status": "Active",
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
     },
     {
       "active": true,
