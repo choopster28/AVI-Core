@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1132141719354535936
 - Division: 3
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-10-08
+- Last updated from Sleeper exports: 2026-10-09
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 595.1
-- championship_lineup_c_avi_avg: 74.39
-- offensive_roster_c_avi_sum: 809.3
-- offensive_roster_c_avi_avg: 62.25
-- offensive_roster_d_avi_sum: 932.8
-- offensive_roster_d_avi_avg: 71.75
+- championship_lineup_c_avi_sum: 594.4
+- championship_lineup_c_avi_avg: 74.30
+- offensive_roster_c_avi_sum: 807.8
+- offensive_roster_c_avi_avg: 62.14
+- offensive_roster_d_avi_sum: 911.9
+- offensive_roster_d_avi_avg: 70.15
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: C.J. Stroud | C-AVI: 59.0 | D-AVI: 69.5
 - RB: Ashton Jeanty | C-AVI: 91.7 | D-AVI: 95.6
 - RB: Jaylen Warren | C-AVI: 79.5 | D-AVI: 77.5
-- WR: Michael Wilson | C-AVI: 79.1 | D-AVI: 85.1
-- WR: Rome Odunze | C-AVI: 75.4 | D-AVI: 86.7
+- WR: Michael Wilson | C-AVI: 78.9 | D-AVI: 81.4
+- WR: Rome Odunze | C-AVI: 75.1 | D-AVI: 83.1
 - TE: Sam LaPorta | C-AVI: 89.1 | D-AVI: 85.0
 - FLEX: Hunter Henry | C-AVI: 65.0 | D-AVI: 58.6
-- FLEX: Makai Lemon | C-AVI: 56.3 | D-AVI: 83.4
+- FLEX: Makai Lemon | C-AVI: 56.1 | D-AVI: 80.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -154,7 +154,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: MIN
 - Active: True
 - Status: Active
-- Age: 22.0
+- Age: 23.0
 - Championship AVI (C-AVI, 0-100): 34.7
 - Dynasty AVI (D-AVI, 0-100): 45.0
 - Projected PPR points: 20.2
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 79.1
-- Dynasty AVI (D-AVI, 0-100): 85.1
+- Championship AVI (C-AVI, 0-100): 78.9
+- Dynasty AVI (D-AVI, 0-100): 81.4
 - Projected PPR points: 178.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 75.4
-- Dynasty AVI (D-AVI, 0-100): 86.7
+- Championship AVI (C-AVI, 0-100): 75.1
+- Dynasty AVI (D-AVI, 0-100): 83.1
 - Projected PPR points: 193.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 56.3
-- Dynasty AVI (D-AVI, 0-100): 83.4
+- Championship AVI (C-AVI, 0-100): 56.1
+- Dynasty AVI (D-AVI, 0-100): 80.5
 - Projected PPR points: 153.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 49.2
-- Dynasty AVI (D-AVI, 0-100): 61.0
+- Championship AVI (C-AVI, 0-100): 48.4
+- Dynasty AVI (D-AVI, 0-100): 50.3
 - Projected PPR points: 119.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -263,17 +263,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Harrison Butker
-- Player name: Harrison Butker
-- Player ID: 4227
+### PLAYER: Trey Smack
+- Player name: Trey Smack
+- Player ID: 13545
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
 - Position: K
 - Fantasy positions: ['K']
-- NFL team: KC
+- NFL team: GB
 - Active: True
 - Status: Active
-- Age: 31.0
+- Age: 23.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

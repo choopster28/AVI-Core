@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-10-08
+- Last updated from Sleeper exports: 2026-10-09
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 669.5
-- championship_lineup_c_avi_avg: 83.69
-- offensive_roster_c_avi_sum: 1175.0
-- offensive_roster_c_avi_avg: 69.12
-- offensive_roster_d_avi_sum: 1260.5
-- offensive_roster_d_avi_avg: 74.15
+- championship_lineup_c_avi_sum: 678.0
+- championship_lineup_c_avi_avg: 84.75
+- offensive_roster_c_avi_sum: 1184.8
+- offensive_roster_c_avi_avg: 69.69
+- offensive_roster_d_avi_sum: 1239.0
+- offensive_roster_d_avi_avg: 72.88
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 71.3 | D-AVI: 84.3
 - RB: Omarion Hampton | C-AVI: 85.3 | D-AVI: 90.5
 - RB: Jeremiyah Love | C-AVI: 85.1 | D-AVI: 93.6
-- WR: Nico Collins | C-AVI: 95.2 | D-AVI: 96.0
-- WR: Rashee Rice | C-AVI: 87.7 | D-AVI: 91.8
+- WR: Nico Collins | C-AVI: 95.1 | D-AVI: 94.7
+- WR: Rashee Rice | C-AVI: 87.6 | D-AVI: 90.0
 - TE: Trey McBride | C-AVI: 94.8 | D-AVI: 91.8
 - FLEX: Saquon Barkley | C-AVI: 81.1 | D-AVI: 85.4
-- FLEX: Chris Godwin | C-AVI: 69.0 | D-AVI: 78.6
+- FLEX: Bhayshul Tuten | C-AVI: 77.7 | D-AVI: 79.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -144,6 +144,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Bhayshul Tuten
+- Player name: Bhayshul Tuten
+- Player ID: 12490
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: JAX
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 77.7
+- Dynasty AVI (D-AVI, 0-100): 79.8
+- Projected PPR points: 188.3
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Tyler Allgeier
 - Player name: Tyler Allgeier
 - Player ID: 8132
@@ -206,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 95.2
-- Dynasty AVI (D-AVI, 0-100): 96.0
+- Championship AVI (C-AVI, 0-100): 95.1
+- Dynasty AVI (D-AVI, 0-100): 94.7
 - Projected PPR points: 250.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 87.7
-- Dynasty AVI (D-AVI, 0-100): 91.8
+- Championship AVI (C-AVI, 0-100): 87.6
+- Dynasty AVI (D-AVI, 0-100): 90.0
 - Projected PPR points: 274.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -241,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 29.0
 - Championship AVI (C-AVI, 0-100): 69.2
-- Dynasty AVI (D-AVI, 0-100): 88.2
+- Dynasty AVI (D-AVI, 0-100): 86.5
 - Projected PPR points: 265.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,26 +274,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 69.0
-- Dynasty AVI (D-AVI, 0-100): 78.6
+- Championship AVI (C-AVI, 0-100): 68.5
+- Dynasty AVI (D-AVI, 0-100): 72.2
 - Projected PPR points: 181.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Khalil Shakir
-- Player name: Khalil Shakir
-- Player ID: 8134
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: BUF
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 66.3
-- Dynasty AVI (D-AVI, 0-100): 77.6
-- Projected PPR points: 169.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 45.9
-- Dynasty AVI (D-AVI, 0-100): 54.8
+- Championship AVI (C-AVI, 0-100): 45.0
+- Dynasty AVI (D-AVI, 0-100): 42.3
 - Projected PPR points: 29.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-10-08
+- Last updated from Sleeper exports: 2026-10-09
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,20 +21,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 732.5
-- championship_lineup_c_avi_avg: 91.56
-- offensive_roster_c_avi_sum: 1205.5
-- offensive_roster_c_avi_avg: 66.97
-- offensive_roster_d_avi_sum: 1290.7
-- offensive_roster_d_avi_avg: 71.71
+- championship_lineup_c_avi_sum: 732.3
+- championship_lineup_c_avi_avg: 91.54
+- offensive_roster_c_avi_sum: 1200.8
+- offensive_roster_c_avi_avg: 66.71
+- offensive_roster_d_avi_sum: 1233.2
+- offensive_roster_d_avi_avg: 68.51
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Josh Allen | C-AVI: 95.5 | D-AVI: 92.6
 - RB: Bijan Robinson | C-AVI: 98.1 | D-AVI: 98.4
 - RB: Jonathan Taylor | C-AVI: 96.1 | D-AVI: 94.0
-- WR: Puka Nacua | C-AVI: 97.9 | D-AVI: 99.1
-- WR: George Pickens | C-AVI: 86.8 | D-AVI: 94.4
+- WR: Puka Nacua | C-AVI: 97.8 | D-AVI: 98.8
+- WR: George Pickens | C-AVI: 86.7 | D-AVI: 92.9
 - TE: Harold Fannin | C-AVI: 91.1 | D-AVI: 87.7
 - FLEX: Breece Hall | C-AVI: 87.5 | D-AVI: 90.1
 - FLEX: Isaiah Likely | C-AVI: 79.5 | D-AVI: 77.9
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 49.1
+- Championship AVI (C-AVI, 0-100): 49.0
 - Dynasty AVI (D-AVI, 0-100): 40.0
 - Projected PPR points: 88.6
 - Category: offense
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 97.9
-- Dynasty AVI (D-AVI, 0-100): 99.1
+- Championship AVI (C-AVI, 0-100): 97.8
+- Dynasty AVI (D-AVI, 0-100): 98.8
 - Projected PPR points: 338.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 86.8
-- Dynasty AVI (D-AVI, 0-100): 94.4
+- Championship AVI (C-AVI, 0-100): 86.7
+- Dynasty AVI (D-AVI, 0-100): 92.9
 - Projected PPR points: 252.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 74.5
-- Dynasty AVI (D-AVI, 0-100): 82.5
+- Championship AVI (C-AVI, 0-100): 74.0
+- Dynasty AVI (D-AVI, 0-100): 76.5
 - Projected PPR points: 159.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 66.5
-- Dynasty AVI (D-AVI, 0-100): 69.0
+- Championship AVI (C-AVI, 0-100): 65.7
+- Dynasty AVI (D-AVI, 0-100): 57.7
 - Projected PPR points: 99.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 46.0
-- Dynasty AVI (D-AVI, 0-100): 75.2
+- Championship AVI (C-AVI, 0-100): 45.4
+- Dynasty AVI (D-AVI, 0-100): 67.5
 - Projected PPR points: 157.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 40.9
-- Dynasty AVI (D-AVI, 0-100): 46.0
+- Championship AVI (C-AVI, 0-100): 39.5
+- Dynasty AVI (D-AVI, 0-100): 30.4
 - Projected PPR points: 10.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 32.8
-- Dynasty AVI (D-AVI, 0-100): 60.8
+- Championship AVI (C-AVI, 0-100): 31.7
+- Dynasty AVI (D-AVI, 0-100): 45.7
 - Projected PPR points: 52.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -399,14 +399,14 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Dax Hill
-- Player name: Dax Hill
-- Player ID: 8286
+### PLAYER: Jevón Holland
+- Player name: Jevón Holland
+- Player ID: 7666
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: DB
 - Fantasy positions: ['DB']
-- NFL team: CIN
+- NFL team: NYG
 - Active: True
 - Status: Active
 - Age: 26.0

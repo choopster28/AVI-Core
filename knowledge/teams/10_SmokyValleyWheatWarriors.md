@@ -9,35 +9,35 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 308805697879937024
 - Division: 2
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-10-08
+- Last updated from Sleeper exports: 2026-10-09
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 21
-- offense: 17
+- offense: 16
 - kickers: 1
-- idp: 3
+- idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 674.7
-- championship_lineup_c_avi_avg: 84.34
-- offensive_roster_c_avi_sum: 969.9
-- offensive_roster_c_avi_avg: 64.66
-- offensive_roster_d_avi_sum: 1072.2
-- offensive_roster_d_avi_avg: 71.48
+- championship_lineup_c_avi_sum: 674.1
+- championship_lineup_c_avi_avg: 84.26
+- offensive_roster_c_avi_sum: 913.8
+- offensive_roster_c_avi_avg: 65.27
+- offensive_roster_d_avi_sum: 989.8
+- offensive_roster_d_avi_avg: 70.70
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Trevor Lawrence | C-AVI: 75.0 | D-AVI: 82.7
 - RB: Christian McCaffrey | C-AVI: 94.5 | D-AVI: 88.4
 - RB: James Cook | C-AVI: 92.5 | D-AVI: 94.6
-- WR: CeeDee Lamb | C-AVI: 98.6 | D-AVI: 98.6
-- WR: Chris Olave | C-AVI: 96.2 | D-AVI: 96.6
+- WR: CeeDee Lamb | C-AVI: 98.6 | D-AVI: 98.0
+- WR: Chris Olave | C-AVI: 96.1 | D-AVI: 95.5
 - TE: Dalton Kincaid | C-AVI: 75.0 | D-AVI: 80.3
 - FLEX: Mark Andrews | C-AVI: 74.4 | D-AVI: 68.4
-- FLEX: Josh Downs | C-AVI: 68.5 | D-AVI: 82.4
+- FLEX: Josh Downs | C-AVI: 68.0 | D-AVI: 77.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 64.4
+- Championship AVI (C-AVI, 0-100): 64.5
 - Dynasty AVI (D-AVI, 0-100): 54.6
 - Projected PPR points: 85.5
 - Category: offense
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 61.7
+- Championship AVI (C-AVI, 0-100): 61.8
 - Dynasty AVI (D-AVI, 0-100): 66.4
 - Projected PPR points: 131.5
 - Category: offense
@@ -190,7 +190,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 98.6
-- Dynasty AVI (D-AVI, 0-100): 98.6
+- Dynasty AVI (D-AVI, 0-100): 98.0
 - Projected PPR points: 285.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 96.2
-- Dynasty AVI (D-AVI, 0-100): 96.6
+- Championship AVI (C-AVI, 0-100): 96.1
+- Dynasty AVI (D-AVI, 0-100): 95.5
 - Projected PPR points: 261.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,26 +223,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 68.5
-- Dynasty AVI (D-AVI, 0-100): 82.4
+- Championship AVI (C-AVI, 0-100): 68.0
+- Dynasty AVI (D-AVI, 0-100): 77.2
 - Projected PPR points: 159.3
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Kalif Raymond
-- Player name: Kalif Raymond
-- Player ID: 3634
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CHI
-- Active: True
-- Status: Active
-- Age: 32.0
-- Championship AVI (C-AVI, 0-100): 55.7
-- Dynasty AVI (D-AVI, 0-100): 41.7
-- Projected PPR points: 53.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -258,7 +241,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 41.2
+- Dynasty AVI (D-AVI, 0-100): 28.0
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
@@ -275,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 39.4
+- Dynasty AVI (D-AVI, 0-100): 18.8
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
@@ -359,6 +342,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Nate Landman
+- Player name: Nate Landman
+- Player ID: 8659
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: LAR
+- Active: True
+- Status: Active
+- Age: 27.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

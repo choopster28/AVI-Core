@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-10-08
+- Last updated from Sleeper exports: 2026-10-09
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 578.6
-- championship_lineup_c_avi_avg: 72.33
-- offensive_roster_c_avi_sum: 1050.5
-- offensive_roster_c_avi_avg: 65.66
-- offensive_roster_d_avi_sum: 1147.5
-- offensive_roster_d_avi_avg: 71.72
+- championship_lineup_c_avi_sum: 561.9
+- championship_lineup_c_avi_avg: 70.24
+- offensive_roster_c_avi_sum: 1033.8
+- offensive_roster_c_avi_avg: 64.61
+- offensive_roster_d_avi_sum: 1072.4
+- offensive_roster_d_avi_avg: 67.03
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jordan Love | C-AVI: 60.7 | D-AVI: 74.2
-- RB: Bhayshul Tuten | C-AVI: 77.6 | D-AVI: 79.7
 - RB: RJ Harvey | C-AVI: 72.9 | D-AVI: 73.2
-- WR: Mike Evans | C-AVI: 80.8 | D-AVI: 83.4
-- WR: Stefon Diggs | C-AVI: 74.8 | D-AVI: 72.6
+- RB: Kenny Gainwell | C-AVI: 62.3 | D-AVI: 64.0
+- WR: Mike Evans | C-AVI: 80.4 | D-AVI: 77.5
+- WR: Stefon Diggs | C-AVI: 74.1 | D-AVI: 63.3
 - TE: T.J. Hockenson | C-AVI: 71.7 | D-AVI: 63.9
-- FLEX: Jordan Addison | C-AVI: 71.1 | D-AVI: 84.5
+- FLEX: Jordan Addison | C-AVI: 70.8 | D-AVI: 80.4
 - FLEX: Kenyon Sadiq | C-AVI: 69.0 | D-AVI: 77.9
 
 ## Current Roster — All Player Cards
@@ -73,23 +73,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 58.5
 - Dynasty AVI (D-AVI, 0-100): 70.2
 - Projected PPR points: 274.6
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Bhayshul Tuten
-- Player name: Bhayshul Tuten
-- Player ID: 12490
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: JAX
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 77.6
-- Dynasty AVI (D-AVI, 0-100): 79.7
-- Projected PPR points: 188.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -138,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 60.0
+- Championship AVI (C-AVI, 0-100): 60.1
 - Dynasty AVI (D-AVI, 0-100): 48.7
 - Projected PPR points: 132.6
 - Category: offense
@@ -155,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 80.8
-- Dynasty AVI (D-AVI, 0-100): 83.4
+- Championship AVI (C-AVI, 0-100): 80.4
+- Dynasty AVI (D-AVI, 0-100): 77.5
 - Projected PPR points: 199.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -172,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 74.8
-- Dynasty AVI (D-AVI, 0-100): 72.6
+- Championship AVI (C-AVI, 0-100): 74.1
+- Dynasty AVI (D-AVI, 0-100): 63.3
 - Projected PPR points: 164.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -189,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 71.1
-- Dynasty AVI (D-AVI, 0-100): 84.5
+- Championship AVI (C-AVI, 0-100): 70.8
+- Dynasty AVI (D-AVI, 0-100): 80.4
 - Projected PPR points: 174.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,9 +189,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 66.3
-- Dynasty AVI (D-AVI, 0-100): 80.1
+- Championship AVI (C-AVI, 0-100): 65.9
+- Dynasty AVI (D-AVI, 0-100): 74.8
 - Projected PPR points: 164.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Khalil Shakir
+- Player name: Khalil Shakir
+- Player ID: 8134
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: BUF
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 65.7
+- Dynasty AVI (D-AVI, 0-100): 70.7
+- Projected PPR points: 169.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 61.7
-- Dynasty AVI (D-AVI, 0-100): 69.7
+- Championship AVI (C-AVI, 0-100): 60.9
+- Dynasty AVI (D-AVI, 0-100): 59.0
 - Projected PPR points: 115.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 60.4
-- Dynasty AVI (D-AVI, 0-100): 72.0
+- Championship AVI (C-AVI, 0-100): 59.8
+- Dynasty AVI (D-AVI, 0-100): 63.2
 - Projected PPR points: 153.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 51.8
-- Dynasty AVI (D-AVI, 0-100): 67.9
+- Championship AVI (C-AVI, 0-100): 51.1
+- Dynasty AVI (D-AVI, 0-100): 58.4
 - Projected PPR points: 149.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 50.9
-- Dynasty AVI (D-AVI, 0-100): 65.5
+- Championship AVI (C-AVI, 0-100): 49.9
+- Dynasty AVI (D-AVI, 0-100): 53.0
 - Projected PPR points: 70.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
