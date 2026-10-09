@@ -374,8 +374,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Gringo’s Goblins
 - Original roster ID: 15
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
+- Current owner team: Northside Kings
+- Current owner roster ID: 5
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd

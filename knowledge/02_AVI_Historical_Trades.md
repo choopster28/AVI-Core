@@ -17,26 +17,26 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **88**
-- Owner trade participations: **178**
-- Two-team trades: **86**
+- Unique completed trades: **89**
+- Owner trade participations: **180**
+- Two-team trades: **87**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **45**
+- 2026 completed trades: **46**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-10-02T03:00:31.400000+00:00**
+- Latest verified trade: **2026-10-08T23:45:04.423000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Corgi Loaf Baking Co.  | awang1900 | **26** | 7 | 4 | 15 | 37 | 37 | 9 | 15 | 7 | 9 |
-| 2 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
-| 3 | Big Balder Brand | Choopski | **20** | 7 | 2 | 11 | 30 | 32 | 3 | 7 | 1 | 4 |
+| 2 | Big Balder Brand | Choopski | **21** | 7 | 2 | 12 | 31 | 33 | 3 | 8 | 1 | 4 |
+| 3 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 4 | Ravens Regime  | Mentomorii | **20** | 3 | 3 | 14 | 20 | 25 | 5 | 7 | 2 | 4 |
 | 5 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
-| 6 | Northside Kings  | srsmith95 | **16** | 6 | 5 | 5 | 17 | 12 | 7 | 4 | 3 | 3 |
+| 6 | Northside Kings  | srsmith95 | **17** | 6 | 5 | 6 | 18 | 13 | 8 | 4 | 3 | 3 |
 | 7 | Badland Banditos  | IcebergSlim69 | **10** | 4 | 4 | 2 | 10 | 11 | 3 | 4 | 1 | 1 |
 | 8 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
 | 9 | Crimson Tide Pods | nickas | **8** | 0 | 1 | 7 | 13 | 11 | 9 | 2 | 5 | 0 |
@@ -70,6 +70,24 @@
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1414070146678448128
+- Season: 2026
+- Week: 5
+- Created at UTC: 2026-10-08T23:45:04.423000+00:00
+- Teams involved: 2
+
+#### Northside Kings  (srsmith95)
+- Players received: Khalil Shakir
+- Players sent: Bhayshul Tuten
+- Picks received: 2027 Round 2 (original roster 15)
+- Picks sent: None
+
+#### Big Balder Brand (Choopski)
+- Players received: Bhayshul Tuten
+- Players sent: Khalil Shakir
+- Picks received: None
+- Picks sent: 2027 Round 2 (original roster 15)
 
 ### TRADE: 1411582618125762560
 - Season: 2026

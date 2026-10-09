@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-08T23:49:12.922982+00:00",
+  "generated_at_utc": "2026-10-09T00:50:54.187230+00:00",
   "statistics": {
-    "owner_trade_participations": 178,
+    "owner_trade_participations": 180,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -159,6 +159,23 @@
       },
       {
         "by_season": {
+          "2024": 7,
+          "2025": 2,
+          "2026": 12
+        },
+        "firsts_in": 1,
+        "firsts_out": 4,
+        "owner_display_name": "Choopski",
+        "picks_in": 3,
+        "picks_out": 8,
+        "players_in": 31,
+        "players_out": 33,
+        "roster_id": 9,
+        "team_name": "Big Balder Brand",
+        "total": 21
+      },
+      {
+        "by_season": {
           "2024": 6,
           "2025": 2,
           "2026": 13
@@ -173,23 +190,6 @@
         "roster_id": 1,
         "team_name": "Conquistadors",
         "total": 21
-      },
-      {
-        "by_season": {
-          "2024": 7,
-          "2025": 2,
-          "2026": 11
-        },
-        "firsts_in": 1,
-        "firsts_out": 4,
-        "owner_display_name": "Choopski",
-        "picks_in": 3,
-        "picks_out": 7,
-        "players_in": 30,
-        "players_out": 32,
-        "roster_id": 9,
-        "team_name": "Big Balder Brand",
-        "total": 20
       },
       {
         "by_season": {
@@ -229,18 +229,18 @@
         "by_season": {
           "2024": 6,
           "2025": 5,
-          "2026": 5
+          "2026": 6
         },
         "firsts_in": 3,
         "firsts_out": 3,
         "owner_display_name": "srsmith95",
-        "picks_in": 7,
+        "picks_in": 8,
         "picks_out": 4,
-        "players_in": 17,
-        "players_out": 12,
+        "players_in": 18,
+        "players_out": 13,
         "roster_id": 5,
         "team_name": "Northside Kings ",
-        "total": 16
+        "total": 17
       },
       {
         "by_season": {
@@ -408,10 +408,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 45
+      "2026": 46
     },
-    "two_team_trades": 86,
-    "unique_completed_trades": 88
+    "two_team_trades": 87,
+    "unique_completed_trades": 89
   },
   "trades": [
     {
@@ -6561,6 +6561,74 @@
       ],
       "transaction_id": "1411582618125762560",
       "week": 4
+    },
+    {
+      "created_at_utc": "2026-10-08T23:45:04.423000+00:00",
+      "created_timestamp_ms": 1791503104423,
+      "roster_ids": [
+        5,
+        9
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 15,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "8134",
+              "player_name": "Khalil Shakir"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12490",
+              "player_name": "Bhayshul Tuten"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2026,
+          "team_name": "Northside Kings "
+        },
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 15,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "12490",
+              "player_name": "Bhayshul Tuten"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8134",
+              "player_name": "Khalil Shakir"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        }
+      ],
+      "transaction_id": "1414070146678448128",
+      "week": 5
     }
   ]
 }

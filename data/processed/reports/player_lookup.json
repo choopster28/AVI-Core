@@ -2933,14 +2933,14 @@
       "c_avi": 77.6,
       "d_avi": 79.7,
       "nfl_team": "JAC",
-      "owner_id": "872351659366539264",
+      "owner_id": "863881053000011776",
       "player_name": "Bhayshul Tuten",
       "position": "RB",
-      "roster_id": 5,
+      "roster_id": 9,
       "sleeper_id": "12490",
       "status": "Active",
-      "team_file": "05_Northside_Kings.md",
-      "team_name": "Northside Kings "
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -5237,14 +5237,14 @@
       "c_avi": 66.3,
       "d_avi": 77.6,
       "nfl_team": "BUF",
-      "owner_id": "863881053000011776",
+      "owner_id": "872351659366539264",
       "player_name": "Khalil Shakir",
       "position": "WR",
-      "roster_id": 9,
+      "roster_id": 5,
       "sleeper_id": "8134",
       "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
+      "team_file": "05_Northside_Kings.md",
+      "team_name": "Northside Kings "
     },
     {
       "active": true,

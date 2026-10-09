@@ -112,9 +112,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Bhayshul Tuten
 - Player ID: 12490
 - Position: RB
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Team file: 05_Northside_Kings.md
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Bijan Robinson
 - Player name: Bijan Robinson
@@ -1264,9 +1264,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Khalil Shakir
 - Player ID: 8134
 - Position: WR
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Team file: 05_Northside_Kings.md
 
 ## PLAYER LOOKUP: Kimani Vidal
 - Player name: Kimani Vidal
