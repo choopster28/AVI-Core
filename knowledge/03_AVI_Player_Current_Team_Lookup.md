@@ -476,14 +476,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
-## PLAYER LOOKUP: Darius Cooper
-- Player name: Darius Cooper
-- Player ID: 13150
-- Position: WR
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
-
 ## PLAYER LOOKUP: Darnell Washington
 - Player name: Darnell Washington
 - Player ID: 9479
@@ -1195,6 +1187,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
+
+## PLAYER LOOKUP: Kaytron Allen
+- Player name: Kaytron Allen
+- Player ID: 13405
+- Position: RB
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Keaton Mitchell
 - Player name: Keaton Mitchell
@@ -2525,15 +2525,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 21.4
 - Availability: available
 
-## AVAILABLE PLAYER: Kaytron Allen
-- Player name: Kaytron Allen
-- Player ID: 13405
-- Position: RB
-- NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 35.1
-- Dynasty AVI (D-AVI, 0-100): 50.5
-- Availability: available
-
 ## AVAILABLE PLAYER: Daniel Bellinger
 - Player name: Daniel Bellinger
 - Player ID: 8225
@@ -3396,6 +3387,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: DAL
 - Championship AVI (C-AVI, 0-100): 22.8
 - Dynasty AVI (D-AVI, 0-100): 39.6
+- Availability: available
+
+## AVAILABLE PLAYER: Darius Cooper
+- Player name: Darius Cooper
+- Player ID: 13150
+- Position: WR
+- NFL team: PHI
+- Championship AVI (C-AVI, 0-100): 22.5
+- Dynasty AVI (D-AVI, 0-100): 54.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Bo Melton

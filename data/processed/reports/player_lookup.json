@@ -663,18 +663,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00013405",
-      "c_avi": 35.1,
-      "d_avi": 50.5,
-      "nfl_team": "WAS",
-      "player_name": "Kaytron Allen",
-      "position": "RB",
-      "sleeper_id": "13405",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008225",
       "c_avi": 34.9,
       "d_avi": 48.8,
@@ -1822,6 +1810,18 @@
       "player_name": "Sam Howell",
       "position": "QB",
       "sleeper_id": "8162",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013150",
+      "c_avi": 22.5,
+      "d_avi": 54.2,
+      "nfl_team": "PHI",
+      "player_name": "Darius Cooper",
+      "position": "WR",
+      "sleeper_id": "13150",
       "status": "Active"
     },
     {
@@ -3665,22 +3665,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00013150",
-      "c_avi": 22.5,
-      "d_avi": 54.2,
-      "nfl_team": "PHI",
-      "owner_id": "986498458162970624",
-      "player_name": "Darius Cooper",
-      "position": "WR",
-      "roster_id": 11,
-      "sleeper_id": "13150",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00009479",
       "c_avi": 44.5,
       "d_avi": 28.9,
@@ -5105,6 +5089,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00013405",
+      "c_avi": 35.1,
+      "d_avi": 50.5,
+      "nfl_team": "WAS",
+      "owner_id": "986498458162970624",
+      "player_name": "Kaytron Allen",
+      "position": "RB",
+      "roster_id": 11,
+      "sleeper_id": "13405",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00009511",
       "c_avi": 46.8,
       "d_avi": 52.3,
@@ -5866,7 +5866,7 @@
       "position": "WR",
       "roster_id": 4,
       "sleeper_id": "12492",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
     },
