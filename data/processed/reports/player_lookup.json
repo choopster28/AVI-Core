@@ -51,6 +51,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00004039",
+      "c_avi": 48.8,
+      "d_avi": 47.6,
+      "nfl_team": "SEA",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "sleeper_id": "4039",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00006826",
       "c_avi": 45.5,
       "d_avi": 58.5,
@@ -1294,7 +1306,7 @@
       "player_name": "Trey Lance",
       "position": "QB",
       "sleeper_id": "7610",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -1827,18 +1839,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00013150",
-      "c_avi": 22.5,
-      "d_avi": 54.2,
-      "nfl_team": "PHI",
-      "player_name": "Darius Cooper",
-      "position": "WR",
-      "sleeper_id": "13150",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008204",
       "c_avi": 22.2,
       "d_avi": 53.6,
@@ -1894,7 +1894,7 @@
       "player_name": "Reggie Gilliam",
       "position": "RB",
       "sleeper_id": "7204",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -3477,22 +3477,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00004039",
-      "c_avi": 48.8,
-      "d_avi": 47.6,
-      "nfl_team": "SEA",
-      "owner_id": "1129546394534158336",
-      "player_name": "Cooper Kupp",
-      "position": "WR",
-      "roster_id": 12,
-      "sleeper_id": "4039",
-      "status": "Active",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00005045",
       "c_avi": 70.4,
       "d_avi": 72.6,
@@ -3649,6 +3633,22 @@
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013150",
+      "c_avi": 22.5,
+      "d_avi": 54.2,
+      "nfl_team": "PHI",
+      "owner_id": "1129546394534158336",
+      "player_name": "Darius Cooper",
+      "position": "WR",
+      "roster_id": 12,
+      "sleeper_id": "13150",
+      "status": "Active",
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -5422,7 +5422,7 @@
       "position": "WR",
       "roster_id": 15,
       "sleeper_id": "4177",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
     },

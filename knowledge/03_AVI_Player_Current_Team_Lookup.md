@@ -388,14 +388,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
 
-## PLAYER LOOKUP: Cooper Kupp
-- Player name: Cooper Kupp
-- Player ID: 4039
-- Position: WR
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Team file: 12_DMV_Fantasy.md
-
 ## PLAYER LOOKUP: Courtland Sutton
 - Player name: Courtland Sutton
 - Player ID: 5045
@@ -475,6 +467,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
+
+## PLAYER LOOKUP: Darius Cooper
+- Player name: Darius Cooper
+- Player ID: 13150
+- Position: WR
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Team file: 12_DMV_Fantasy.md
 
 ## PLAYER LOOKUP: Darnell Washington
 - Player name: Darnell Washington
@@ -2074,6 +2074,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 64.4
 - Availability: available
 
+## AVAILABLE PLAYER: Cooper Kupp
+- Player name: Cooper Kupp
+- Player ID: 4039
+- Position: WR
+- NFL team: SEA
+- Championship AVI (C-AVI, 0-100): 48.8
+- Dynasty AVI (D-AVI, 0-100): 47.6
+- Availability: available
+
 ## AVAILABLE PLAYER: Cole Kmet
 - Player name: Cole Kmet
 - Player ID: 6826
@@ -3404,15 +3413,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: DAL
 - Championship AVI (C-AVI, 0-100): 22.6
 - Dynasty AVI (D-AVI, 0-100): 39.5
-- Availability: available
-
-## AVAILABLE PLAYER: Darius Cooper
-- Player name: Darius Cooper
-- Player ID: 13150
-- Position: WR
-- NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 22.5
-- Dynasty AVI (D-AVI, 0-100): 54.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Bo Melton
