@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 566.6
-- championship_lineup_c_avi_avg: 70.83
-- offensive_roster_c_avi_sum: 815.7
-- offensive_roster_c_avi_avg: 58.26
-- offensive_roster_d_avi_sum: 1007.7
-- offensive_roster_d_avi_avg: 71.98
+- championship_lineup_c_avi_sum: 564.4
+- championship_lineup_c_avi_avg: 70.55
+- offensive_roster_c_avi_sum: 810.3
+- offensive_roster_c_avi_avg: 57.88
+- offensive_roster_d_avi_sum: 950.4
+- offensive_roster_d_avi_avg: 67.89
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Drake Maye | C-AVI: 93.6 | D-AVI: 90.8
-- RB: TreVeyon Henderson | C-AVI: 69.6 | D-AVI: 88.0
-- RB: Emanuel Wilson | C-AVI: 41.5 | D-AVI: 61.5
+- QB: Drake Maye | C-AVI: 93.4 | D-AVI: 88.8
+- RB: TreVeyon Henderson | C-AVI: 69.1 | D-AVI: 83.5
+- RB: Emanuel Wilson | C-AVI: 40.0 | D-AVI: 46.2
 - WR: Tetairoa McMillan | C-AVI: 85.1 | D-AVI: 93.5
 - WR: Luther Burden | C-AVI: 79.6 | D-AVI: 87.3
 - TE: Pat Freiermuth | C-AVI: 57.6 | D-AVI: 66.8
-- FLEX: DK Metcalf | C-AVI: 73.6 | D-AVI: 78.7
+- FLEX: DK Metcalf | C-AVI: 73.6 | D-AVI: 78.3
 - FLEX: Jayden Reed | C-AVI: 66.0 | D-AVI: 69.6
 
 ## Current Roster — All Player Cards
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 93.6
-- Dynasty AVI (D-AVI, 0-100): 90.8
+- Championship AVI (C-AVI, 0-100): 93.4
+- Dynasty AVI (D-AVI, 0-100): 88.8
 - Projected PPR points: 324.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 52.6
-- Dynasty AVI (D-AVI, 0-100): 65.6
+- Championship AVI (C-AVI, 0-100): 51.8
+- Dynasty AVI (D-AVI, 0-100): 55.4
 - Projected PPR points: 270.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 69.6
-- Dynasty AVI (D-AVI, 0-100): 88.0
+- Championship AVI (C-AVI, 0-100): 69.1
+- Dynasty AVI (D-AVI, 0-100): 83.5
 - Projected PPR points: 179.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 41.5
-- Dynasty AVI (D-AVI, 0-100): 61.5
+- Championship AVI (C-AVI, 0-100): 40.0
+- Dynasty AVI (D-AVI, 0-100): 46.2
 - Projected PPR points: 64.7
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 41.0
-- Dynasty AVI (D-AVI, 0-100): 52.1
+- Championship AVI (C-AVI, 0-100): 39.1
+- Dynasty AVI (D-AVI, 0-100): 32.3
 - Projected PPR points: 77.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 25.6
-- Dynasty AVI (D-AVI, 0-100): 74.4
+- Championship AVI (C-AVI, 0-100): 25.1
+- Dynasty AVI (D-AVI, 0-100): 69.3
 - Projected PPR points: 141.3
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3
@@ -190,7 +190,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 73.6
-- Dynasty AVI (D-AVI, 0-100): 78.7
+- Dynasty AVI (D-AVI, 0-100): 78.3
 - Projected PPR points: 193.9
 - Category: offense
 - Valuation status: PROVISIONAL_2026_3

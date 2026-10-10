@@ -1,7 +1,241 @@
 {
-  "count": 23,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-10 15:57:00",
+      "created_formated": "Sat, Oct 10th 3:57pm UTC",
+      "desc": "Darius Slayton has been ruled out for Sunday's game against the Steelers. ",
+      "id": 613174,
+      "impact": "Slayton had been listed as questionable. His absence won't impact the Colts offense for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/613174/darius-slayton-knee-ruled-out-sunday.php",
+      "player_id": 18706,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Darius Slayton (knee) ruled out Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-10-10 15:53:22",
+      "created_formated": "Sat, Oct 10th 3:53pm UTC",
+      "desc": "The Cardinals are finalizing a deal to trade WR Marvin Harrison Jr.",
+      "id": 613173,
+      "impact": "The Cardinals informed Harrison this morning that he will be inactive for Sunday's game against the Lions as the details of the trade are finalized. It remains unclear as of now where he will be traded. ",
+      "link": "https://www.fantasypros.com/nfl/news/613173/marvin-harrison-jr-cardinals-finalizing-trade.php",
+      "player_id": 23064,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Marvin Harrison Jr: Cardinals finalizing trade"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-10 05:08:44",
+      "created_formated": "Sat, Oct 10th 5:08am UTC",
+      "desc": "ESPN's Jeremy Fowler reports that Justin Jefferson plans to play in Week 5 against the Saints, but the team \"has to see how he feels on Saturday.\"",
+      "id": 613149,
+      "impact": "We should know by the end of Saturday if Jefferson will be good to go on Sunday. He will be a WR1 play if he is good to go. ",
+      "link": "https://www.fantasypros.com/nfl/news/613149/justin-jefferson-ankle-plans-to-play-sunday-to-see-how-he-feels-saturday.php",
+      "player_id": 19236,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Justin Jefferson (ankle) plans to play Sunday, to see how he feels Saturday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-10 05:06:55",
+      "created_formated": "Sat, Oct 10th 5:06am UTC",
+      "desc": "NFL Network's Ian Rapoport reports that Jayden Daniels is not \"100 percent\" healthy yet.",
+      "id": 613148,
+      "impact": "Daniels is still slated to play on Sunday against the Giants, but re-injury risk is a bit of a concern. ",
+      "link": "https://www.fantasypros.com/nfl/news/613148/jayden-daniels-elbow-still-not-100-percent-healthy.php",
+      "player_id": 22902,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Jayden Daniels (elbow) still not '100 percent' healthy "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-10 05:05:22",
+      "created_formated": "Sat, Oct 10th 5:05am UTC",
+      "desc": "Cowboys coach Brian Schottenheimer said LT Tyler Guyton's back injury is not considered serious.",
+      "id": 613147,
+      "impact": "Guyton left Thursday's game late. He is day-to-day heading into next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/613147/tyler-guyton-back-not-dealing-with-serious-injury.php",
+      "player_id": 26123,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Tyler Guyton (back) not dealing with serious injury"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-10 05:03:34",
+      "created_formated": "Sat, Oct 10th 5:03am UTC",
+      "desc": "Nick Bosa told reporters it is \"pretty darn likely\" he plays in Week 6 against the Commanders. ",
+      "id": 613146,
+      "impact": "Bosa will miss his third straight game on Sunday. He should be back next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/613146/nick-bosa-kneecalf-to-likely-return-week-6.php",
+      "player_id": 18199,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Nick Bosa (knee/calf) to likely return in Week 6"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-10 04:59:46",
+      "created_formated": "Sat, Oct 10th 4:59am UTC",
+      "desc": "Seahawks coach Mike Macdonald said Seattle's Week 6 Thursday Night Football game against the Broncos makes Zach Charbonnet's ramp-up \"tricky.\"",
+      "id": 613145,
+      "impact": "Charbonnet has been limited since returning to practice, but a short week in Week 6 makes a return then tricky. It sounds like Week 7 against the Chiefs is more likely when he returns. ",
+      "link": "https://www.fantasypros.com/nfl/news/613145/zach-charbonnet-knee-uncertain-week-6.php",
+      "player_id": 23152,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Zach Charbonnet (knee) uncertain for Week 6"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-10 04:57:21",
+      "created_formated": "Sat, Oct 10th 4:57am UTC",
+      "desc": "The Ravens reportedly \"do not know\" whether Lamar Jackson will play in Week 6 against the Browns.",
+      "id": 613144,
+      "impact": "Jackson remains week-to-week after he was ruled out for this Sunday. Tyler Huntley could be seeing more than one start. ",
+      "link": "https://www.fantasypros.com/nfl/news/613144/lamar-jackson-ankle-uncertain-week-6.php",
+      "player_id": 17233,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Lamar Jackson (ankle) uncertain for Week 6"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-10 02:11:18",
+      "created_formated": "Sat, Oct 10th 2:11am UTC",
+      "desc": "The Tampa Bay Buccaneers D/ST racked up two interceptions and a fumble recovery in the Buccaneers' 24-16 win over the Cowboys on Thursday.",
+      "id": 613143,
+      "impact": "The Bucs' defense was pliable on the Cowboys' first drive of the game, but stiffened significantly after that. They did give up a touchdown in the fourth quarter, but managed to make a crucial interception when Dallas was attempting to force overtime. It was a much better showing than we previously had seen from Tampa's defense, but don't call it a comeback just yet.",
+      "link": "https://www.fantasypros.com/nfl/news/613143/tampa-bay-buccaneers-dst-contain-cowboys-win.php",
+      "player_id": 8290,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Tampa Bay Buccaneers D/ST contain Cowboys in win"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-10 02:05:08",
+      "created_formated": "Sat, Oct 10th 2:05am UTC",
+      "desc": "Chase McLaughlin hit all three of his PATs and his lone field goal attempt in the Bucs' 24-16 win over the Cowboys on Thursday.",
+      "id": 613142,
+      "impact": "McLaughlin bounced back from a down week against the Packers, but the offense was also able to move the ball much more effectively against the hapless Dallas defense, giving McLaughlin more chances than he had previously. He's been perfect on the season so far, going 10-for-10 on Field Goals and 10-for-10 on PATs. He should continue to be a solid kicker for those in need.",
+      "link": "https://www.fantasypros.com/nfl/news/613142/chase-mclaughlin-has-solid-night-win.php",
+      "player_id": 19058,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Chase McLaughlin has solid night in win"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-10 02:00:56",
+      "created_formated": "Sat, Oct 10th 2:00am UTC",
+      "desc": "The Dallas Cowboys D/ST managed a single sack on Thursday in the team's 24-16 loss to Tampa Bay. No other meaningful stats were recorded.",
+      "id": 613141,
+      "impact": "This is the state of the Dallas defense, allowing a rookie QB in his second start to lead multiple scoring drives and go up by as many as 14 points, while also getting just one sack and no turnovers. It's been a bad showing by the Dallas defense that began the year showing promise of improvement thanks to offseason additions and draft picks. But it appears another long road is ahead for the team this season, which will have to be carried by its offense.",
+      "link": "https://www.fantasypros.com/nfl/news/613141/dallas-cowboys-dst-run-over-thursday-night.php",
+      "player_id": 8080,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Dallas Cowboys D/ST run over Thursday night"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-10 01:58:05",
+      "created_formated": "Sat, Oct 10th 1:58am UTC",
+      "desc": "Brandon Aubrey hit his only PAT and field goal attempts in the Cowboys' 24-16 loss to the Bucs on Thursday.",
+      "id": 613140,
+      "impact": "Aubrey was hindered by a Dallas offense that sputtered badly after their first drive, failing to do much more in the first half before a field goal. After that, the team was in catch-up mode, and Aubrey didn't see the field again. Better days will come for the star kicker.",
+      "link": "https://www.fantasypros.com/nfl/news/613140/brandon-aubrey-kick-four-points-loss.php",
+      "player_id": 26068,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Brandon Aubrey kick for four points in loss"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-10 01:54:43",
+      "created_formated": "Sat, Oct 10th 1:54am UTC",
+      "desc": "Jake Ferguson caught three of six targets for 19 yards in the Cowboys' 24-16 loss to Tampa Bay on Thursday.",
+      "id": 613139,
+      "impact": "Ferguson had a critical drop on the Cowboys' final drive as they were trying to tie the game, failing to catch a pass and instead bobbling it straight up and into the arms of LB Alex Anzalone. It was a tough night for the veteran, but better days will come.",
+      "link": "https://www.fantasypros.com/nfl/news/613139/jake-ferguson-has-critical-drop-loss-to-bucs.php",
+      "player_id": 22718,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Jake Ferguson has critical drop in loss to Bucs"
+    },
     {
       "author": "Ari Koslow",
       "categories": [
@@ -189,24 +423,6 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-09 21:53:10",
-      "created_formated": "Fri, Oct 9th 9:53pm UTC",
-      "desc": "Nick Bosa has been ruled out for Sunday's game against the Seahawks. ",
-      "id": 613128,
-      "impact": "Bosa is hopeful to return in Week 6 against the Commanders. ",
-      "link": "https://www.fantasypros.com/nfl/news/613128/nick-bosa-kneecalf-ruled-out-sunday.php",
-      "player_id": 18199,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Nick Bosa (knee/calf) ruled out Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
       "created": "2026-10-09 21:51:59",
       "created_formated": "Fri, Oct 9th 9:51pm UTC",
       "desc": "Mike Evans is off the injury report for Sunday's game against the Seahawks. ",
@@ -217,204 +433,6 @@
       "sport_id": "NFL",
       "team_id": "SF",
       "title": "Mike Evans (ribs) off injury report Sunday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 20:26:31",
-      "created_formated": "Fri, Oct 9th 8:26pm UTC",
-      "desc": "Keenan Allen (groin) is officially questionable for Sunday's game against the Pittsburgh Steelers.",
-      "id": 613097,
-      "impact": "Allen is still dealing with a groin injury and will be questionable to play heading into the weekend. If he's ruled out ahead of game time, fantasy managers should expect more work for Darius Slayton (knee) against the Steelers this week.",
-      "link": "https://www.fantasypros.com/nfl/news/613097/keenan-allen-groin-officially-questionable-friday.php",
-      "player_id": 11616,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Keenan Allen (groin) officially questionable for Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:18:55",
-      "created_formated": "Fri, Oct 9th 9:18pm UTC",
-      "desc": "The Raiders will not activate Dont'e Thornton Jr. this week. ",
-      "id": 613126,
-      "impact": "Thornton was able to return to practice. He remains week-to-week. ",
-      "link": "https://www.fantasypros.com/nfl/news/613126/donte-thornton-jr-hamstring-will-not-be-activated-sunday.php",
-      "player_id": 27288,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Dont'e Thornton Jr. (hamstring) will not be activated Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:18:00",
-      "created_formated": "Fri, Oct 9th 9:18pm UTC",
-      "desc": "Jalen Nailor has been ruled out for Sunday's game against the Patriots. ",
-      "id": 613125,
-      "impact": "Nailor will remain sidelined in concussion protocol. ",
-      "link": "https://www.fantasypros.com/nfl/news/613125/jalen-nailor-concussion-ruled-out-sunday.php",
-      "player_id": 24177,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Jalen Nailor (concussion) ruled out Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:17:05",
-      "created_formated": "Fri, Oct 9th 9:17pm UTC",
-      "desc": "Channing Canada has been ruled out for Sunday's game against the Raiders. ",
-      "id": 613124,
-      "impact": "Canada is one of four defensive backs ruled out for the Patriots on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613124/channing-canada-ruled-out-sunday.php",
-      "player_id": 28690,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Channing Canada ruled out Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:16:29",
-      "created_formated": "Fri, Oct 9th 9:16pm UTC",
-      "desc": "Karon Prunty has been ruled out for Sunday's game against the Raiders. ",
-      "id": 613123,
-      "impact": "Prunty is one of four defensive backs ruled out for the Patriots on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613123/karon-prunty-ruled-out-sunday.php",
-      "player_id": 28470,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Karon Prunty ruled out Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:15:09",
-      "created_formated": "Fri, Oct 9th 9:15pm UTC",
-      "desc": "Divine Deablo is listed as questionable for Sunday's game against the Ravens. ",
-      "id": 613122,
-      "impact": "Deablo was limited in practice on Thursday and Friday. He should be on the favorable side of questionable. ",
-      "link": "https://www.fantasypros.com/nfl/news/613122/divine-deablo-hamstring-listed-questionable-sunday.php",
-      "player_id": 23208,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Divine Deablo (hamstring) listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:13:57",
-      "created_formated": "Fri, Oct 9th 9:13pm UTC",
-      "desc": "Za'Darius Smith is listed as questionable for Sunday's game against the Ravens. ",
-      "id": 613121,
-      "impact": "Smith returned to a limited practice on Friday. He will have to clear all protocols by Saturday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613121/zadarius-smith-concussion-listed-questionable-sunday.php",
-      "player_id": 14060,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Za'Darius Smith (concussion) listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:12:59",
-      "created_formated": "Fri, Oct 9th 9:12pm UTC",
-      "desc": "Samson Ebukam is listed as questionable for Sunday's game against the Ravens. ",
-      "id": 613120,
-      "impact": "Ebukam was limited in practice on Thursday and Friday. He should be on the favorable side of questionable. ",
-      "link": "https://www.fantasypros.com/nfl/news/613120/samson-ebukam-hamstring-listed-questionable-sunday.php",
-      "player_id": 16734,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Samson Ebukam (hamstring) listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:11:52",
-      "created_formated": "Fri, Oct 9th 9:11pm UTC",
-      "desc": "Jake Matthews is listed as questionable for Sunday's game against the Ravens. ",
-      "id": 613119,
-      "impact": "Matthews status will need to be monitored closer to kickoff. ",
-      "link": "https://www.fantasypros.com/nfl/news/613119/jake-matthews-groin-listed-questionable-sunday.php",
-      "player_id": 15401,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Jake Matthews (groin) listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 20:48:34",
-      "created_formated": "Fri, Oct 9th 8:48pm UTC",
-      "desc": "Trey Lance is listed as doubtful for Sunday's game against the Broncos. ",
-      "id": 613116,
-      "impact": "The Chargers will likely be without their backup quarterback on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613116/trey-lance-groin-listed-doubtful-sunday.php",
-      "player_id": 20082,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Trey Lance (groin) listed doubtful Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 20:47:43",
-      "created_formated": "Fri, Oct 9th 8:47pm UTC",
-      "desc": "Charlie Kolar is listed as questionable for Sunday's game against the Broncos. ",
-      "id": 613115,
-      "impact": "Kolar remains off the fantasy radar if he is cleared for Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613115/charlie-kolar-arm-listed-questionable-sunday.php",
-      "player_id": 22756,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Charlie Kolar (arm) listed questionable Sunday "
     }
   ],
   "public_api": true,
