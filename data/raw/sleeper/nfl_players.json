@@ -66506,7 +66506,7 @@
       "genius_id": "1464100",
       "rookie_year": "2024"
     },
-    "news_updated": 1791690609985,
+    "news_updated": 1791738317021,
     "number": 53,
     "oddsjam_id": "7313200BA7A0",
     "opta_id": null,
@@ -71295,7 +71295,7 @@
       "genius_id": "1074189",
       "rookie_year": "2024"
     },
-    "news_updated": 1791690910071,
+    "news_updated": 1791738017125,
     "number": 65,
     "oddsjam_id": "146EB33B5817",
     "opta_id": null,
@@ -100497,7 +100497,7 @@
       "genius_id": "1483126",
       "rookie_year": "2024"
     },
-    "news_updated": 1791132045946,
+    "news_updated": 1791737716856,
     "number": 47,
     "oddsjam_id": "4388C911B97C",
     "opta_id": null,
@@ -107275,7 +107275,7 @@
       "genius_id": "1484076",
       "rookie_year": "2024"
     },
-    "news_updated": 1791590157714,
+    "news_updated": 1791737716859,
     "number": 88,
     "oddsjam_id": "5AFBF0A6180B",
     "opta_id": null,
@@ -116480,7 +116480,7 @@
       "rookie_year": "2025",
       "source_id": "b25ba780-89c0-11ec-9eae-b94e7e2a33e8"
     },
-    "news_updated": 1791639903654,
+    "news_updated": 1791737716313,
     "number": 0,
     "oddsjam_id": "6FD40ABCB29E289F",
     "opta_id": null,
@@ -122806,10 +122806,10 @@
     "hashtag": "#kevinwinston-NFL-TEN-23",
     "height": "74",
     "high_school": "DeMatha Catholic (MD)",
-    "injury_body_part": null,
+    "injury_body_part": "Quadriceps",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "aeeb1e20-c663-4b41-9bfb-ddc576ba3e4e",
     "last_name": "Winston",
     "metadata": {
@@ -122818,7 +122818,7 @@
       "rookie_year": "2025",
       "source_id": "7109d740-1299-11ed-b0e2-afe29f0c2b36"
     },
-    "news_updated": 1791130545743,
+    "news_updated": 1791739517307,
     "number": 23,
     "oddsjam_id": "04705D691FE9FA5F",
     "opta_id": null,
@@ -124908,7 +124908,7 @@
       "genius_id": "1505126",
       "rookie_year": "2025"
     },
-    "news_updated": 1785548136880,
+    "news_updated": 1791738317023,
     "number": 91,
     "oddsjam_id": "179510D4255C0F58",
     "opta_id": null,
@@ -159346,7 +159346,7 @@
       "genius_id": "1498010",
       "rookie_year": "2025"
     },
-    "news_updated": 1791171315862,
+    "news_updated": 1791737716922,
     "number": 42,
     "oddsjam_id": "91F0E49C71CBF353",
     "opta_id": null,
@@ -169831,7 +169831,7 @@
       "rookie_year": "2026",
       "source_id": "303e7840-8524-11ec-a04c-517659d186b2"
     },
-    "news_updated": 1791669306789,
+    "news_updated": 1791737716888,
     "number": 32,
     "oddsjam_id": null,
     "opta_id": null,
@@ -184881,7 +184881,7 @@
       "genius_id": "1499887",
       "rookie_year": "2026"
     },
-    "news_updated": 1791690610017,
+    "news_updated": 1791738317056,
     "number": 36,
     "oddsjam_id": null,
     "opta_id": null,
@@ -405442,7 +405442,7 @@
       "genius_id": "999472",
       "rookie_year": "2017"
     },
-    "news_updated": 1791629701970,
+    "news_updated": 1791738917268,
     "number": 85,
     "oddsjam_id": "42D0413964E3",
     "opta_id": null,
@@ -459636,7 +459636,7 @@
       "genius_id": "1026847",
       "rookie_year": "2018"
     },
-    "news_updated": 1791597358684,
+    "news_updated": 1791737716909,
     "number": 75,
     "oddsjam_id": "083A6FBC2937",
     "opta_id": null,
@@ -511908,10 +511908,10 @@
     "hashtag": "#tjhockenson-NFL-MIN-87",
     "height": "77",
     "high_school": "Chariton (IA)",
-    "injury_body_part": null,
+    "injury_body_part": "Head",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "a470c622-ee15-43a1-971a-68ed960e4f9f",
     "last_name": "Hockenson",
     "metadata": {
@@ -511919,7 +511919,7 @@
       "genius_id": "1006960",
       "rookie_year": "2019"
     },
-    "news_updated": 1791580255895,
+    "news_updated": 1791739818705,
     "number": 87,
     "oddsjam_id": "B33E7A0D7428",
     "opta_id": null,
@@ -605217,7 +605217,7 @@
     "first_name": "Chris",
     "full_name": "Chris Williams",
     "gsis_id": null,
-    "hashtag": "#chriswilliams-NFL-CLE-53",
+    "hashtag": "#chriswilliams-NFL-CLE-61",
     "height": "74",
     "high_school": "Lafayette (NY)",
     "injury_body_part": null,
@@ -605232,7 +605232,7 @@
       "rookie_year": "2020"
     },
     "news_updated": 1789500962042,
-    "number": 53,
+    "number": 61,
     "oddsjam_id": "022844598D61",
     "opta_id": null,
     "pandascore_id": null,

@@ -1,437 +1,388 @@
 {
-  "count": 24,
+  "count": 21,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Ari Koslow",
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-11 17:29:40",
+      "created_formated": "Sun, Oct 11th 5:29pm UTC",
+      "desc": "The Vikings have ruled out TE T.J. Hockenson for the remainder of the game against the Saints with a concussion. ",
+      "id": 613228,
+      "impact": "Hockenson went into the medical tent after his last reception and was quickly ruled out for the remainder of the game. He will finish the game with seven receiving yards on one reception. Gavin Bartholomew will serve as the primary tight end for the remainder of the game. ",
+      "link": "https://www.fantasypros.com/nfl/news/613228/tj-hockenson-concussion-ruled-out.php",
+      "player_id": 18290,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "T.J. Hockenson (concussion) ruled out "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-11 15:04:47",
+      "created_formated": "Sun, Oct 11th 3:04pm UTC",
+      "desc": "Eagles RB Will Shipley is questionable to return against the Jaguars with a foot injury. ",
+      "id": 613213,
+      "impact": "Shipley was injured on his last carry and went to the locker room for further evaluation. Dameon Pierce will handle the bulk of the carries with Shipley questionable to return. ",
+      "link": "https://www.fantasypros.com/nfl/news/613213/will-shipley-foot-questionable-to-return.php",
+      "player_id": 22930,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Will Shipley (foot) questionable to return "
+    },
+    {
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News"
       ],
-      "created": "2026-10-10 19:25:50",
-      "created_formated": "Sat, Oct 10th 7:25pm UTC",
-      "desc": "The Vikings will elevate WR Odell Beckham Jr. from their practice squad for Sunday's game against the Saints. ",
-      "id": 613176,
-      "impact": "Beckham signed with Minnesota earlier this week. He will remain off the fantasy radar. ",
-      "link": "https://www.fantasypros.com/nfl/news/613176/odell-beckham-jr-to-be-elevated-by-vikings-sunday.php",
+      "created": "2026-10-11 16:04:07",
+      "created_formated": "Sun, Oct 11th 4:04pm UTC",
+      "desc": "J.J. McCarthy is active for Week 5 for the New York Giants against the Washington Commanders according to Jordan Raanan.",
+      "id": 613227,
+      "impact": "McCarthy will serve as the backup quarterback for head coach John Harbaugh, with Jameis Winston once against starting under center in Week 5 against the Commanders.",
+      "link": "https://www.fantasypros.com/nfl/news/613227/jj-mccarthy-active-week-5.php",
+      "player_id": 23018,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "J.J. McCarthy active for Week 5"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-11 15:55:27",
+      "created_formated": "Sun, Oct 11th 3:55pm UTC",
+      "desc": "Odell Beckham Jr. is inactive for Week 5 for the Minnesota Vikings against the New Orleans Saints according to Tom Pelissero.",
+      "id": 613225,
+      "impact": "Beckham Jr. will not suit up after being elevated from the practice squad, joining Jordan Addison (hamstring) on the sidelines, while Justin Jefferson (ankle) and Jauan Jennings operate as the top two wideouts against the Saints for head coach Kevin O'Connell Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/613225/odell-beckham-jr-inactive-week-5.php",
       "player_id": 12127,
       "sport_id": "NFL",
       "team_id": "MIN",
-      "title": "Odell Beckham Jr. to be elevated by Vikings Sunday "
+      "title": "Odell Beckham Jr. inactive for Week 5"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-10-10 15:57:00",
-      "created_formated": "Sat, Oct 10th 3:57pm UTC",
-      "desc": "Darius Slayton has been ruled out for Sunday's game against the Steelers. ",
-      "id": 613174,
-      "impact": "Slayton had been listed as questionable. His absence won't impact the Colts offense for fantasy managers. ",
-      "link": "https://www.fantasypros.com/nfl/news/613174/darius-slayton-knee-ruled-out-sunday.php",
-      "player_id": 18706,
+      "created": "2026-10-11 15:51:04",
+      "created_formated": "Sun, Oct 11th 3:51pm UTC",
+      "desc": "Caleb Williams (hamstring) is inactive for Week 5 for the Chicago Bears against the Green Bay Packers.",
+      "id": 613224,
+      "impact": "Williams will sit out once again for head coach Ben Johnson in hopes of returning in Week 6, with Tyson Bagent once against behind center against the Packers Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/613224/caleb-williams-hamstring-inactive-week-5.php",
+      "player_id": 23084,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Caleb Williams (hamstring) inactive for Week 5"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-11 15:49:32",
+      "created_formated": "Sun, Oct 11th 3:49pm UTC",
+      "desc": "Colts WR Keenan Allen (groin) is officially active for a Week 5 matchup with the Steelers.",
+      "id": 613223,
+      "impact": "Allen continues to deal with a nagging groin injury, but is cleared to suit up against Pittsburgh. With Allen active, Darius Slayton is a healthy inactive. ",
+      "link": "https://www.fantasypros.com/nfl/news/613223/keenan-allen-groin-officially-active-week-5.php",
+      "player_id": 11616,
       "sport_id": "NFL",
       "team_id": "IND",
-      "title": "Darius Slayton (knee) ruled out Sunday "
+      "title": "Keenan Allen (groin) officially active for Week 5 "
     },
     {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
+        "Injury",
         "Breaking"
       ],
-      "created": "2026-10-10 15:53:22",
-      "created_formated": "Sat, Oct 10th 3:53pm UTC",
-      "desc": "The Cardinals are finalizing a deal to trade WR Marvin Harrison Jr.",
-      "id": 613173,
-      "impact": "The Cardinals informed Harrison this morning that he will be inactive for Sunday's game against the Lions as the details of the trade are finalized. It remains unclear as of now where he will be traded. ",
-      "link": "https://www.fantasypros.com/nfl/news/613173/marvin-harrison-jr-cardinals-finalizing-trade.php",
-      "player_id": 23064,
+      "created": "2026-10-11 15:48:11",
+      "created_formated": "Sun, Oct 11th 3:48pm UTC",
+      "desc": "Alvin Kamara (back) is active for Week 5 for the New Orleans Saints against the Minnesota Vikings according to James Palmer.",
+      "id": 613222,
+      "impact": "Kamara is good to go after passing through pregame tests on his back, boosting a New Orleans backfield attack that faces a stiff test against an aggressive Minnesota defensive front Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/613222/alvin-kamara-back-active-week-5.php",
+      "player_id": 16421,
       "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Marvin Harrison Jr: Cardinals finalizing trade"
+      "team_id": "NO",
+      "title": "Alvin Kamara (back) active for Week 5"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-10-10 05:08:44",
-      "created_formated": "Sat, Oct 10th 5:08am UTC",
-      "desc": "ESPN's Jeremy Fowler reports that Justin Jefferson plans to play in Week 5 against the Saints, but the team \"has to see how he feels on Saturday.\"",
-      "id": 613149,
-      "impact": "We should know by the end of Saturday if Jefferson will be good to go on Sunday. He will be a WR1 play if he is good to go. ",
-      "link": "https://www.fantasypros.com/nfl/news/613149/justin-jefferson-ankle-plans-to-play-sunday-to-see-how-he-feels-saturday.php",
+      "created": "2026-10-11 15:46:51",
+      "created_formated": "Sun, Oct 11th 3:46pm UTC",
+      "desc": "Dolphins WR Caleb Douglas (ankle) is officially inactive for a Week 5 matchup with the Bengals.",
+      "id": 613221,
+      "impact": "Douglas was considered a long shot to play Sunday as he continues to recover from an ankle injury. Jalen Tolbert will likely see an increase in playing time with Douglas sidelined. ",
+      "link": "https://www.fantasypros.com/nfl/news/613221/caleb-douglas-ankle-officially-inactive-week-5.php",
+      "player_id": 28135,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Caleb Douglas (ankle) officially inactive for Week 5 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-11 15:42:28",
+      "created_formated": "Sun, Oct 11th 3:42pm UTC",
+      "desc": "Steelers RB Rico Dowdle (toe) is officially inactive for a Week 5 matchup with the Colts.",
+      "id": 613220,
+      "impact": "Dowdle was considered questionable to play, but will miss another week with a toe injury he suffered in Week 2. Jaylen Warren should receive the bulk of the carries against the Colts.",
+      "link": "https://www.fantasypros.com/nfl/news/613220/rico-dowdle-toe-officially-inactive-week-5.php",
+      "player_id": 19647,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Rico Dowdle (toe) officially inactive for Week 5 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-11 15:40:39",
+      "created_formated": "Sun, Oct 11th 3:40pm UTC",
+      "desc": "Patriots RB Rhamondre Stevenson (knee) is officially active for a Week 5 matchup with the Raiders.",
+      "id": 613219,
+      "impact": "Stevenson was rolled up on late in the Patriots' win last week, but appears to be good to go against Las Vegas in Week 5. Fantasy managers should expect the Patriots to continue to operate a split backfield with Stevenson and TreVeyon Henderson.",
+      "link": "https://www.fantasypros.com/nfl/news/613219/rhamondre-stevenson-knee-officially-active-week-5.php",
+      "player_id": 22726,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Rhamondre Stevenson (knee) officially active for Week 5  "
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-10-11 15:38:24",
+      "created_formated": "Sun, Oct 11th 3:38pm UTC",
+      "desc": "Ashton Jeanty (foot/ankle) is active for Week 5 for the Las Vegas Raiders against the New England Patriots according to Ian Rapoport.",
+      "id": 613218,
+      "impact": "Jeanty is good to go after testing his injured foot and ankle during pregame warmups, offering head coach Klint Kubiak is dynamic backfield option against the Patriots Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/613218/ashton-jeanty-footankle-active-week-5.php",
+      "player_id": 25989,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Ashton Jeanty (foot/ankle) active for Week 5"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-11 15:37:01",
+      "created_formated": "Sun, Oct 11th 3:37pm UTC",
+      "desc": "Commanders WR Terry McLaurin (hamstring) is officially active for a Week 5 matchup with the Giants. ",
+      "id": 613217,
+      "impact": "McLaurin was considered a game-time decision, but he was cleared to play after pregame warmups. The Commanders are without Stefon Diggs (hamstring) so McLaurin's return to the lineup will be a much needed boost. ",
+      "link": "https://www.fantasypros.com/nfl/news/613217/terry-mclaurin-hamstring-officially-active-week-5.php",
+      "player_id": 18466,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Terry McLaurin (hamstring) officially active for Week 5 "
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-10-11 15:34:53",
+      "created_formated": "Sun, Oct 11th 3:34pm UTC",
+      "desc": "Jordan Addison (hamstring) is inactive for Week 5 for the Minnesota Vikings against the New Orleans Saints according to Tom Pelissero.",
+      "id": 613216,
+      "impact": "Addison will not suit up after struggling to progress throughout the week for head coach Kevin O'Connell, while No. 1 wideout Justin Jefferson (ankle) is good to go for the Week 5 contest against the Saints.",
+      "link": "https://www.fantasypros.com/nfl/news/613216/jordan-addison-hamstring-inactive-week-5.php",
+      "player_id": 23107,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Jordan Addison (hamstring) inactive for Week 5"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-11 15:34:36",
+      "created_formated": "Sun, Oct 11th 3:34pm UTC",
+      "desc": "Titans WR Carnell Tate (back) is officially active for a Week 5 matchup with Houston. ",
+      "id": 613215,
+      "impact": "Tate was considered questionable after being limited in practice Thursday and Friday. He will suit up and provide the Titans with their best option at wide receiver against Houston. ",
+      "link": "https://www.fantasypros.com/nfl/news/613215/carnell-tate-back-officially-active-week-5.php",
+      "player_id": 26009,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Carnell Tate (back) officially active for Week 5"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-10-11 15:32:29",
+      "created_formated": "Sun, Oct 11th 3:32pm UTC",
+      "desc": "Justin Jefferson (ankle) is officially active for the Minnesota Vikings against the New Orleans Saints according to Tom Pelissero.",
+      "id": 613214,
+      "impact": "Jefferson is good to go after not experiencing any issues in pregame activities for head coach Kevin O'Connell, and is is in line for a sizeable workload with Jordan Addison sidelined against the Saints.",
+      "link": "https://www.fantasypros.com/nfl/news/613214/justin-jefferson-ankle-active-week-5.php",
       "player_id": 19236,
       "sport_id": "NFL",
       "team_id": "MIN",
-      "title": "Justin Jefferson (ankle) plans to play Sunday, to see how he feels Saturday"
+      "title": "Justin Jefferson (ankle) active for Week 5"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Injury",
+        "Breaking"
       ],
-      "created": "2026-10-10 05:06:55",
-      "created_formated": "Sat, Oct 10th 5:06am UTC",
-      "desc": "NFL Network's Ian Rapoport reports that Jayden Daniels is not \"100 percent\" healthy yet.",
-      "id": 613148,
-      "impact": "Daniels is still slated to play on Sunday against the Giants, but re-injury risk is a bit of a concern. ",
-      "link": "https://www.fantasypros.com/nfl/news/613148/jayden-daniels-elbow-still-not-100-percent-healthy.php",
-      "player_id": 22902,
+      "created": "2026-10-11 14:35:56",
+      "created_formated": "Sun, Oct 11th 2:35pm UTC",
+      "desc": "Ja'Marr Chase (concussion) is cleared to play for the Cincinnati Bengals against the Miami Dolphins Sunday.",
+      "id": 613212,
+      "impact": "Chase was able to clear through concussion protocols ahead of the Week 5 contest, offering quarterback Joe Burrow both of his explosive pass-catching options along with Tee Higgins (groin/neck) against the Dolphins Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/613212/jamarr-chase-concussion-to-play-sunday.php",
+      "player_id": 19788,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jayden Daniels (elbow) still not '100 percent' healthy "
+      "team_id": "CIN",
+      "title": "Ja'Marr Chase (concussion) to play Sunday"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Injury",
+        "Breaking"
       ],
-      "created": "2026-10-10 05:05:22",
-      "created_formated": "Sat, Oct 10th 5:05am UTC",
-      "desc": "Cowboys coach Brian Schottenheimer said LT Tyler Guyton's back injury is not considered serious.",
-      "id": 613147,
-      "impact": "Guyton left Thursday's game late. He is day-to-day heading into next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/613147/tyler-guyton-back-not-dealing-with-serious-injury.php",
-      "player_id": 26123,
+      "created": "2026-10-11 14:33:19",
+      "created_formated": "Sun, Oct 11th 2:33pm UTC",
+      "desc": "Tee Higgins (groin/neck) will play for the Cincinnati Bengals against the Miami Dolphins Sunday according to Adam Schefter.",
+      "id": 613211,
+      "impact": "Higgins is good to go after entering the weekend with a questionable designation, joining Ja'Marr Chase (concussion) back in the Cincinnati passing attack against the Dolphins Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/613211/tee-higgins-groinneck-will-play-sunday.php",
+      "player_id": 19211,
       "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Tyler Guyton (back) not dealing with serious injury"
+      "team_id": "CIN",
+      "title": "Tee Higgins (groin/neck) will play Sunday"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-10-10 05:03:34",
-      "created_formated": "Sat, Oct 10th 5:03am UTC",
-      "desc": "Nick Bosa told reporters it is \"pretty darn likely\" he plays in Week 6 against the Commanders. ",
-      "id": 613146,
-      "impact": "Bosa will miss his third straight game on Sunday. He should be back next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/613146/nick-bosa-kneecalf-to-likely-return-week-6.php",
-      "player_id": 18199,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Nick Bosa (knee/calf) to likely return in Week 6"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-10 04:59:46",
-      "created_formated": "Sat, Oct 10th 4:59am UTC",
-      "desc": "Seahawks coach Mike Macdonald said Seattle's Week 6 Thursday Night Football game against the Broncos makes Zach Charbonnet's ramp-up \"tricky.\"",
-      "id": 613145,
-      "impact": "Charbonnet has been limited since returning to practice, but a short week in Week 6 makes a return then tricky. It sounds like Week 7 against the Chiefs is more likely when he returns. ",
-      "link": "https://www.fantasypros.com/nfl/news/613145/zach-charbonnet-knee-uncertain-week-6.php",
-      "player_id": 23152,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Zach Charbonnet (knee) uncertain for Week 6"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-10 04:57:21",
-      "created_formated": "Sat, Oct 10th 4:57am UTC",
-      "desc": "The Ravens reportedly \"do not know\" whether Lamar Jackson will play in Week 6 against the Browns.",
-      "id": 613144,
-      "impact": "Jackson remains week-to-week after he was ruled out for this Sunday. Tyler Huntley could be seeing more than one start. ",
-      "link": "https://www.fantasypros.com/nfl/news/613144/lamar-jackson-ankle-uncertain-week-6.php",
-      "player_id": 17233,
+      "created": "2026-10-11 12:12:49",
+      "created_formated": "Sun, Oct 11th 12:12pm UTC",
+      "desc": "Zay Flowers (foot) is expected to play on Sunday against the Falcons and push through his foot injury.",
+      "id": 613204,
+      "impact": "If Flowers suits up, he will provide backup QB Tyler Huntley with a more than capable target downfield in a Ravens passing attack that lacks much punch behind him. He will be needed to prevent the offense from being one-dimensional, especially with the Falcons offense picking up steam since the return of Michael Penix.",
+      "link": "https://www.fantasypros.com/nfl/news/613204/zay-flowers-foot-expected-to-play-on-sunday.php",
+      "player_id": 22916,
       "sport_id": "NFL",
       "team_id": "BAL",
-      "title": "Lamar Jackson (ankle) uncertain for Week 6"
+      "title": "Zay Flowers (foot) expected to play on Sunday"
     },
     {
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-10-10 02:11:18",
-      "created_formated": "Sat, Oct 10th 2:11am UTC",
-      "desc": "The Tampa Bay Buccaneers D/ST racked up two interceptions and a fumble recovery in the Buccaneers' 24-16 win over the Cowboys on Thursday.",
-      "id": 613143,
-      "impact": "The Bucs' defense was pliable on the Cowboys' first drive of the game, but stiffened significantly after that. They did give up a touchdown in the fourth quarter, but managed to make a crucial interception when Dallas was attempting to force overtime. It was a much better showing than we previously had seen from Tampa's defense, but don't call it a comeback just yet.",
-      "link": "https://www.fantasypros.com/nfl/news/613143/tampa-bay-buccaneers-dst-contain-cowboys-win.php",
-      "player_id": 8290,
+      "created": "2026-10-11 12:04:19",
+      "created_formated": "Sun, Oct 11th 12:04pm UTC",
+      "desc": "Ladd McConkey (foot) is not expected to play on Sunday against Denver due to a foot injury.",
+      "id": 613198,
+      "impact": "It's a tough blow to the Chargers' chances of winning if Ladd sits, as they are already down Quentin Johnston. Tre Harris is the next man up for LA, and he could see a decent amount of work and be a flex-worthy option, especially with Denver missing two of their top corners this week.",
+      "link": "https://www.fantasypros.com/nfl/news/613198/ladd-mcconkey-foot-not-expected-to-play-against-denver.php",
+      "player_id": 26122,
       "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Tampa Bay Buccaneers D/ST contain Cowboys in win"
+      "team_id": "LAC",
+      "title": "Ladd McConkey (foot) not expected to play against Denver"
     },
     {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-10 02:05:08",
-      "created_formated": "Sat, Oct 10th 2:05am UTC",
-      "desc": "Chase McLaughlin hit all three of his PATs and his lone field goal attempt in the Bucs' 24-16 win over the Cowboys on Thursday.",
-      "id": 613142,
-      "impact": "McLaughlin bounced back from a down week against the Packers, but the offense was also able to move the ball much more effectively against the hapless Dallas defense, giving McLaughlin more chances than he had previously. He's been perfect on the season so far, going 10-for-10 on Field Goals and 10-for-10 on PATs. He should continue to be a solid kicker for those in need.",
-      "link": "https://www.fantasypros.com/nfl/news/613142/chase-mclaughlin-has-solid-night-win.php",
-      "player_id": 19058,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Chase McLaughlin has solid night in win"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-10 02:00:56",
-      "created_formated": "Sat, Oct 10th 2:00am UTC",
-      "desc": "The Dallas Cowboys D/ST managed a single sack on Thursday in the team's 24-16 loss to Tampa Bay. No other meaningful stats were recorded.",
-      "id": 613141,
-      "impact": "This is the state of the Dallas defense, allowing a rookie QB in his second start to lead multiple scoring drives and go up by as many as 14 points, while also getting just one sack and no turnovers. It's been a bad showing by the Dallas defense that began the year showing promise of improvement thanks to offseason additions and draft picks. But it appears another long road is ahead for the team this season, which will have to be carried by its offense.",
-      "link": "https://www.fantasypros.com/nfl/news/613141/dallas-cowboys-dst-run-over-thursday-night.php",
-      "player_id": 8080,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Dallas Cowboys D/ST run over Thursday night"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-10 01:58:05",
-      "created_formated": "Sat, Oct 10th 1:58am UTC",
-      "desc": "Brandon Aubrey hit his only PAT and field goal attempts in the Cowboys' 24-16 loss to the Bucs on Thursday.",
-      "id": 613140,
-      "impact": "Aubrey was hindered by a Dallas offense that sputtered badly after their first drive, failing to do much more in the first half before a field goal. After that, the team was in catch-up mode, and Aubrey didn't see the field again. Better days will come for the star kicker.",
-      "link": "https://www.fantasypros.com/nfl/news/613140/brandon-aubrey-kick-four-points-loss.php",
-      "player_id": 26068,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Brandon Aubrey kick for four points in loss"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-10 01:54:43",
-      "created_formated": "Sat, Oct 10th 1:54am UTC",
-      "desc": "Jake Ferguson caught three of six targets for 19 yards in the Cowboys' 24-16 loss to Tampa Bay on Thursday.",
-      "id": 613139,
-      "impact": "Ferguson had a critical drop on the Cowboys' final drive as they were trying to tie the game, failing to catch a pass and instead bobbling it straight up and into the arms of LB Alex Anzalone. It was a tough night for the veteran, but better days will come.",
-      "link": "https://www.fantasypros.com/nfl/news/613139/jake-ferguson-has-critical-drop-loss-to-bucs.php",
-      "player_id": 22718,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Jake Ferguson has critical drop in loss to Bucs"
-    },
-    {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-10-09 23:38:01",
-      "created_formated": "Fri, Oct 9th 11:38pm UTC",
-      "desc": "Colby Parkinson was a full participant in practice on Friday. ",
-      "id": 613138,
-      "impact": "Parkinson is on track to be good to go. He is off the fantasy radar in his current role. ",
-      "link": "https://www.fantasypros.com/nfl/news/613138/colby-parkinson-kneeshoulder-logs-full-practice-friday.php",
-      "player_id": 19372,
+      "created": "2026-10-11 12:07:53",
+      "created_formated": "Sun, Oct 11th 12:07pm UTC",
+      "desc": "Jonathan Greenard (ankle) is inactive for Week 5 for the Philadelphia Eagles against the Jacksonville Jaguars.",
+      "id": 613202,
+      "impact": "Greenard was unable to pass through pregame warmups enough to get the green light to suit up for head coach Nick Sirianni, leaving the Philadelphia defensive front shorthanded against the Jaguars Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/613202/jonathan-greenard-ankle-inactive-week-5.php",
+      "player_id": 19276,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Colby Parkinson (knee/shoulder) logs full practice Friday "
+      "team_id": "PHI",
+      "title": "Jonathan Greenard (ankle) inactive for Week 5"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-10-09 23:36:58",
-      "created_formated": "Fri, Oct 9th 11:36pm UTC",
-      "desc": "Aaron Donald was a full participant in practice on Friday. ",
-      "id": 613137,
-      "impact": "Donald is well on track to return on Monday against the Bills. ",
-      "link": "https://www.fantasypros.com/nfl/news/613137/aaron-donald-back-logs-full-practice-friday.php",
-      "player_id": 12205,
+      "created": "2026-10-11 12:05:23",
+      "created_formated": "Sun, Oct 11th 12:05pm UTC",
+      "desc": "Hollywood Brown (ankle) is inactive for Week 5 for the Philadelphia Eagles against the Jacksonville Jaguars.",
+      "id": 613199,
+      "impact": "Brown joins fellow wideout Devonta Smith and running back Saquon Barkley on the sidelines for head coach Nick Sirianni, leaving Makai Lemon and Dontayvion Wicks as the primary pass-catching options against the Jaguars Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/613199/hollywood-brown-ankle-inactive-week-5.php",
+      "player_id": 18226,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Aaron Donald (back) logs full practice Friday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 23:36:10",
-      "created_formated": "Fri, Oct 9th 11:36pm UTC",
-      "desc": "Joshua Palmer was added to the injury report with a shoulder issue on Friday. ",
-      "id": 613136,
-      "impact": "Palmer is a late addition to the injury report. He remains off the fantasy radar. ",
-      "link": "https://www.fantasypros.com/nfl/news/613136/joshua-palmer-shoulder-added-to-injury-report.php",
-      "player_id": 22845,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Joshua Palmer (shoulder) added to injury report "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 23:35:29",
-      "created_formated": "Fri, Oct 9th 11:35pm UTC",
-      "desc": "DJ Moore did not practice on Friday. ",
-      "id": 613135,
-      "impact": "Moore will likely have to practice in some capacity on Saturday to have a chance to play on Monday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613135/dj-moore-shoulder-misses-practice-friday.php",
-      "player_id": 17265,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "DJ Moore (shoulder) misses practice Friday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 23:34:36",
-      "created_formated": "Fri, Oct 9th 11:34pm UTC",
-      "desc": "Kaelon Black is off the injury report for Sunday's game against the Seahawks. ",
-      "id": 613134,
-      "impact": "Black will remain a change-of-pace role alongside Christian McCaffrey. ",
-      "link": "https://www.fantasypros.com/nfl/news/613134/kaelon-black-illness-off-injury-report-sunday.php",
-      "player_id": 28401,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kaelon Black (illness) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 23:33:08",
-      "created_formated": "Fri, Oct 9th 11:33pm UTC",
-      "desc": "Isaiah Likely is off the injury report for Sunday's game against the Commanders. ",
-      "id": 613133,
-      "impact": "Likely hauled in seven passes last week. He remains a borderline TE1/TE2 play for fantasy managers. ",
-      "link": "https://www.fantasypros.com/nfl/news/613133/isaiah-likely-kneegroin-off-injury-report-sunday.php",
-      "player_id": 23781,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Isaiah Likely (knee/groin) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:55:49",
-      "created_formated": "Fri, Oct 9th 9:55pm UTC",
-      "desc": "Jeremiyah Love is off the injury report for Sunday's game against the Lions. ",
-      "id": 613132,
-      "impact": "Love is officially good to go as expected. He will be an RB2 play for fantasy managers. ",
-      "link": "https://www.fantasypros.com/nfl/news/613132/jeremiyah-love-ankle-off-injury-report-sunday.php",
-      "player_id": 25403,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Jeremiyah Love (ankle) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:55:07",
-      "created_formated": "Fri, Oct 9th 9:55pm UTC",
-      "desc": "Walter Nolen III is listed as questionable for Sunday's game against the Lions. ",
-      "id": 613131,
-      "impact": "Nolen should be on the favorable side of questionable heading into Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613131/walter-nolen-iii-calf-listed-questionable-sunday.php",
-      "player_id": 27030,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Walter Nolen III (calf) listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:54:02",
-      "created_formated": "Fri, Oct 9th 9:54pm UTC",
-      "desc": "Mykel Williams is listed as questionable for Sunday's game against the Seahawks. ",
-      "id": 613130,
-      "impact": "Williams is expected to return for the first time since tearing his ACL in Week 9 of last season. ",
-      "link": "https://www.fantasypros.com/nfl/news/613130/mykel-williams-knee-listed-questionable-sunday.php",
-      "player_id": 27013,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mykel Williams (knee) listed questionable Sunday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:53:19",
-      "created_formated": "Fri, Oct 9th 9:53pm UTC",
-      "desc": "Pat Bryant (ankle) is being placed on injured reserve and will be out for the next four weeks at least.",
-      "id": 613129,
-      "impact": "Bryant recently suffered an ankle injury, and it is serious enough that the team is placing him on short-term injured reserve. That means that he will be sidelined for the next four weeks at least, but it sounds like he's expected to make his return sometime not too long after that. Troy Franklin and Courtland Sutton are both likely to see more work for the Broncos for the foreseeable future in his absence.",
-      "link": "https://www.fantasypros.com/nfl/news/613129/pat-bryant-ankle-placed-on-injured-reserve.php",
-      "player_id": 27211,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Pat Bryant (ankle) placed on injured reserve"
+      "team_id": "PHI",
+      "title": "Hollywood Brown (ankle) inactive for Week 5"
     }
   ],
   "public_api": true,
