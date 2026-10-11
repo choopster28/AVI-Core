@@ -6,6 +6,23 @@
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
+        "News"
+      ],
+      "created": "2026-10-10 19:25:50",
+      "created_formated": "Sat, Oct 10th 7:25pm UTC",
+      "desc": "The Vikings will elevate WR Odell Beckham Jr. from their practice squad for Sunday's game against the Saints. ",
+      "id": 613176,
+      "impact": "Beckham signed with Minnesota earlier this week. He will remain off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/613176/odell-beckham-jr-to-be-elevated-by-vikings-sunday.php",
+      "player_id": 12127,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Odell Beckham Jr. to be elevated by Vikings Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
         "News",
         "Injury"
       ],
@@ -415,24 +432,6 @@
       "sport_id": "NFL",
       "team_id": "DEN",
       "title": "Pat Bryant (ankle) placed on injured reserve"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-09 21:51:59",
-      "created_formated": "Fri, Oct 9th 9:51pm UTC",
-      "desc": "Mike Evans is off the injury report for Sunday's game against the Seahawks. ",
-      "id": 613127,
-      "impact": "Evans returned to practice on Friday. He will be a WR2 play for fantasy managers. ",
-      "link": "https://www.fantasypros.com/nfl/news/613127/mike-evans-ribs-off-injury-report-sunday.php",
-      "player_id": 12119,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mike Evans (ribs) off injury report Sunday "
     }
   ],
   "public_api": true,

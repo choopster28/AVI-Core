@@ -504,7 +504,7 @@
       "player_name": "Ogbo Okoronkwo",
       "points": 7,
       "position_id": "LB",
-      "team_id": "FA",
+      "team_id": "SF",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -3595,7 +3595,7 @@
       "player_name": "Matthew Judon",
       "points": 1.5,
       "position_id": "LB",
-      "team_id": "SF",
+      "team_id": "FA",
       "weeks": {
         "4": 1.5
       }
