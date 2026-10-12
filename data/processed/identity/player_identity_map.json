@@ -3141,9 +3141,9 @@
     "sleeper_id": "5086"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "23064",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "ARI",
     "player_name": "Marvin Harrison Jr.",
     "position": "WR",

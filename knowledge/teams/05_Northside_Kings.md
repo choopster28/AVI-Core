@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-10-11
+- Last updated from Sleeper exports: 2026-10-12
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 507.6
-- championship_lineup_c_avi_avg: 63.45
-- offensive_roster_c_avi_sum: 937.5
-- offensive_roster_c_avi_avg: 58.59
+- championship_lineup_c_avi_sum: 507.7
+- championship_lineup_c_avi_avg: 63.46
+- offensive_roster_c_avi_sum: 937.7
+- offensive_roster_c_avi_avg: 58.61
 - offensive_roster_d_avi_sum: 1060.1
 - offensive_roster_d_avi_avg: 66.26
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jordan Love | C-AVI: 55.9 | D-AVI: 68.5
 - RB: RJ Harvey | C-AVI: 62.5 | D-AVI: 70.8
-- RB: Kenny Gainwell | C-AVI: 60.1 | D-AVI: 66.5
+- RB: Kenny Gainwell | C-AVI: 60.2 | D-AVI: 66.5
 - WR: Mike Evans | C-AVI: 76.4 | D-AVI: 76.8
 - WR: Jordan Addison | C-AVI: 66.3 | D-AVI: 79.2
 - TE: T.J. Hockenson | C-AVI: 61.3 | D-AVI: 73.3
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 60.1
+- Championship AVI (C-AVI, 0-100): 60.2
 - Dynasty AVI (D-AVI, 0-100): 66.5
 - Projected PPR points: 154.2
 - Category: offense
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 54.0
+- Championship AVI (C-AVI, 0-100): 54.1
 - Dynasty AVI (D-AVI, 0-100): 46.4
 - Projected PPR points: 132.6
 - Category: offense

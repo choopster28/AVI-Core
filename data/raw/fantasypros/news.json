@@ -1,388 +1,456 @@
 {
-  "count": 21,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-11 17:29:40",
-      "created_formated": "Sun, Oct 11th 5:29pm UTC",
-      "desc": "The Vikings have ruled out TE T.J. Hockenson for the remainder of the game against the Saints with a concussion. ",
-      "id": 613228,
-      "impact": "Hockenson went into the medical tent after his last reception and was quickly ruled out for the remainder of the game. He will finish the game with seven receiving yards on one reception. Gavin Bartholomew will serve as the primary tight end for the remainder of the game. ",
-      "link": "https://www.fantasypros.com/nfl/news/613228/tj-hockenson-concussion-ruled-out.php",
-      "player_id": 18290,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "T.J. Hockenson (concussion) ruled out "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-11 15:04:47",
-      "created_formated": "Sun, Oct 11th 3:04pm UTC",
-      "desc": "Eagles RB Will Shipley is questionable to return against the Jaguars with a foot injury. ",
-      "id": 613213,
-      "impact": "Shipley was injured on his last carry and went to the locker room for further evaluation. Dameon Pierce will handle the bulk of the carries with Shipley questionable to return. ",
-      "link": "https://www.fantasypros.com/nfl/news/613213/will-shipley-foot-questionable-to-return.php",
-      "player_id": 22930,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Will Shipley (foot) questionable to return "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-11 16:04:07",
-      "created_formated": "Sun, Oct 11th 4:04pm UTC",
-      "desc": "J.J. McCarthy is active for Week 5 for the New York Giants against the Washington Commanders according to Jordan Raanan.",
-      "id": 613227,
-      "impact": "McCarthy will serve as the backup quarterback for head coach John Harbaugh, with Jameis Winston once against starting under center in Week 5 against the Commanders.",
-      "link": "https://www.fantasypros.com/nfl/news/613227/jj-mccarthy-active-week-5.php",
-      "player_id": 23018,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "J.J. McCarthy active for Week 5"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-11 15:55:27",
-      "created_formated": "Sun, Oct 11th 3:55pm UTC",
-      "desc": "Odell Beckham Jr. is inactive for Week 5 for the Minnesota Vikings against the New Orleans Saints according to Tom Pelissero.",
-      "id": 613225,
-      "impact": "Beckham Jr. will not suit up after being elevated from the practice squad, joining Jordan Addison (hamstring) on the sidelines, while Justin Jefferson (ankle) and Jauan Jennings operate as the top two wideouts against the Saints for head coach Kevin O'Connell Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/613225/odell-beckham-jr-inactive-week-5.php",
-      "player_id": 12127,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Odell Beckham Jr. inactive for Week 5"
-    },
-    {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-11 15:51:04",
-      "created_formated": "Sun, Oct 11th 3:51pm UTC",
-      "desc": "Caleb Williams (hamstring) is inactive for Week 5 for the Chicago Bears against the Green Bay Packers.",
-      "id": 613224,
-      "impact": "Williams will sit out once again for head coach Ben Johnson in hopes of returning in Week 6, with Tyson Bagent once against behind center against the Packers Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/613224/caleb-williams-hamstring-inactive-week-5.php",
-      "player_id": 23084,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Caleb Williams (hamstring) inactive for Week 5"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-11 15:49:32",
-      "created_formated": "Sun, Oct 11th 3:49pm UTC",
-      "desc": "Colts WR Keenan Allen (groin) is officially active for a Week 5 matchup with the Steelers.",
-      "id": 613223,
-      "impact": "Allen continues to deal with a nagging groin injury, but is cleared to suit up against Pittsburgh. With Allen active, Darius Slayton is a healthy inactive. ",
-      "link": "https://www.fantasypros.com/nfl/news/613223/keenan-allen-groin-officially-active-week-5.php",
-      "player_id": 11616,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Keenan Allen (groin) officially active for Week 5 "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-10-11 15:48:11",
-      "created_formated": "Sun, Oct 11th 3:48pm UTC",
-      "desc": "Alvin Kamara (back) is active for Week 5 for the New Orleans Saints against the Minnesota Vikings according to James Palmer.",
-      "id": 613222,
-      "impact": "Kamara is good to go after passing through pregame tests on his back, boosting a New Orleans backfield attack that faces a stiff test against an aggressive Minnesota defensive front Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/613222/alvin-kamara-back-active-week-5.php",
-      "player_id": 16421,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Alvin Kamara (back) active for Week 5"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-11 15:46:51",
-      "created_formated": "Sun, Oct 11th 3:46pm UTC",
-      "desc": "Dolphins WR Caleb Douglas (ankle) is officially inactive for a Week 5 matchup with the Bengals.",
-      "id": 613221,
-      "impact": "Douglas was considered a long shot to play Sunday as he continues to recover from an ankle injury. Jalen Tolbert will likely see an increase in playing time with Douglas sidelined. ",
-      "link": "https://www.fantasypros.com/nfl/news/613221/caleb-douglas-ankle-officially-inactive-week-5.php",
-      "player_id": 28135,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Caleb Douglas (ankle) officially inactive for Week 5 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-11 15:42:28",
-      "created_formated": "Sun, Oct 11th 3:42pm UTC",
-      "desc": "Steelers RB Rico Dowdle (toe) is officially inactive for a Week 5 matchup with the Colts.",
-      "id": 613220,
-      "impact": "Dowdle was considered questionable to play, but will miss another week with a toe injury he suffered in Week 2. Jaylen Warren should receive the bulk of the carries against the Colts.",
-      "link": "https://www.fantasypros.com/nfl/news/613220/rico-dowdle-toe-officially-inactive-week-5.php",
-      "player_id": 19647,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Rico Dowdle (toe) officially inactive for Week 5 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-11 15:40:39",
-      "created_formated": "Sun, Oct 11th 3:40pm UTC",
-      "desc": "Patriots RB Rhamondre Stevenson (knee) is officially active for a Week 5 matchup with the Raiders.",
-      "id": 613219,
-      "impact": "Stevenson was rolled up on late in the Patriots' win last week, but appears to be good to go against Las Vegas in Week 5. Fantasy managers should expect the Patriots to continue to operate a split backfield with Stevenson and TreVeyon Henderson.",
-      "link": "https://www.fantasypros.com/nfl/news/613219/rhamondre-stevenson-knee-officially-active-week-5.php",
-      "player_id": 22726,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Rhamondre Stevenson (knee) officially active for Week 5  "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-10-11 15:38:24",
-      "created_formated": "Sun, Oct 11th 3:38pm UTC",
-      "desc": "Ashton Jeanty (foot/ankle) is active for Week 5 for the Las Vegas Raiders against the New England Patriots according to Ian Rapoport.",
-      "id": 613218,
-      "impact": "Jeanty is good to go after testing his injured foot and ankle during pregame warmups, offering head coach Klint Kubiak is dynamic backfield option against the Patriots Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/613218/ashton-jeanty-footankle-active-week-5.php",
-      "player_id": 25989,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Ashton Jeanty (foot/ankle) active for Week 5"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-11 15:37:01",
-      "created_formated": "Sun, Oct 11th 3:37pm UTC",
-      "desc": "Commanders WR Terry McLaurin (hamstring) is officially active for a Week 5 matchup with the Giants. ",
-      "id": 613217,
-      "impact": "McLaurin was considered a game-time decision, but he was cleared to play after pregame warmups. The Commanders are without Stefon Diggs (hamstring) so McLaurin's return to the lineup will be a much needed boost. ",
-      "link": "https://www.fantasypros.com/nfl/news/613217/terry-mclaurin-hamstring-officially-active-week-5.php",
-      "player_id": 18466,
+      "created": "2026-10-12 01:20:50",
+      "created_formated": "Mon, Oct 12th 1:20am UTC",
+      "desc": "Chig Okonkwo caught four of his team-high six targets for 60 yards in the Commanders' 27-27 Week 5 tie with the New York Giants.",
+      "id": 613349,
+      "impact": "Okonkwo was impactful in the rain-soaked Week 5 contest for head coach Dan Quinn, recording over 50 receiving yards for the first time in his three contests. The tight end remains another risky pass-catching option in all formats ahead of a Week 6 contest against the San Francisco 49ers.",
+      "link": "https://www.fantasypros.com/nfl/news/613349/chig-okonkwo-catches-four-passes-week-5-tie.php",
+      "player_id": 23982,
       "sport_id": "NFL",
       "team_id": "WAS",
-      "title": "Terry McLaurin (hamstring) officially active for Week 5 "
+      "title": "Chig Okonkwo catches four passes in Week 5 tie"
+    },
+    {
+      "author": "Matthew Adam",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 01:20:00",
+      "created_formated": "Mon, Oct 12th 1:20am UTC",
+      "desc": "Tim Patrick caught two of his three targets for 26 yards in a 17-12 win over the Browns in Week 5.",
+      "id": 613348,
+      "impact": "After being activated from injured reserve earlier in the week after recovering from a groin injury, Patrick finished second on the Jets in receiving in the close win. He will not be a strong fantasy option heading into Week 6 against the Patriots.",
+      "link": "https://www.fantasypros.com/nfl/news/613348/tim-patrick-catches-two-passes-week-5.php",
+      "player_id": 16556,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Tim Patrick catches two passes in Week 5"
+    },
+    {
+      "author": "Matthew Adam",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 01:18:04",
+      "created_formated": "Mon, Oct 12th 1:18am UTC",
+      "desc": "Isaiah Williams caught one of his two targets for a 16-yard gain in a 17-12 win over the Browns in Week 5.",
+      "id": 613347,
+      "impact": "Williams was quiet in the close win, hauling in just one pass. With Garrett Wilson accounting for 104 of the team's 182 passing yards, there wasn't much else to go around to the other pass-catchers. Williams will be a low-end flex against the Patriots in Week 6.",
+      "link": "https://www.fantasypros.com/nfl/news/613347/isaiah-williams-catches-one-pass-week-5.php",
+      "player_id": 26379,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Isaiah Williams catches one pass in Week 5"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-10-11 15:34:53",
-      "created_formated": "Sun, Oct 11th 3:34pm UTC",
-      "desc": "Jordan Addison (hamstring) is inactive for Week 5 for the Minnesota Vikings against the New Orleans Saints according to Tom Pelissero.",
-      "id": 613216,
-      "impact": "Addison will not suit up after struggling to progress throughout the week for head coach Kevin O'Connell, while No. 1 wideout Justin Jefferson (ankle) is good to go for the Week 5 contest against the Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/613216/jordan-addison-hamstring-inactive-week-5.php",
-      "player_id": 23107,
+      "created": "2026-10-12 01:17:35",
+      "created_formated": "Mon, Oct 12th 1:17am UTC",
+      "desc": "Treylon Burks caught two of his five targets for 26 yards in the Commanders' 27-27 tie against the New York Giants in Week 5.",
+      "id": 613346,
+      "impact": "Burks remains one of many non-factors in the Washington passing attack to begin the season, finishing with under 50 receiving yards in each of his four contests. The wideout can be left off rosters in all formats ahead of a Week 6 contest against the San Francisco 49ers.",
+      "link": "https://www.fantasypros.com/nfl/news/613346/treylon-burks-quiet-week-5.php",
+      "player_id": 22905,
       "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Jordan Addison (hamstring) inactive for Week 5"
+      "team_id": "WAS",
+      "title": "Treylon Burks quiet in Week 5"
     },
     {
-      "author": "Jesse Garcia",
+      "author": "Matthew Adam",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 01:15:45",
+      "created_formated": "Mon, Oct 12th 1:15am UTC",
+      "desc": "Garrett Wilson caught seven of his 11 targets for 104 yards and one touchdown in a 17-12 win over the Browns in Week 5.",
+      "id": 613345,
+      "impact": "Wilson easily paced the Jets in receiving, hauling in 104 of the team's 182 passing yards in the close win. He found the end zone on a 32-yard strike from Geno Smith in the first quarter. Wilson has now caught 31 passes for 374 yards and three touchdowns across five games. He will be on the WR1/WR2 borderline in Week 6 against the Patriots.",
+      "link": "https://www.fantasypros.com/nfl/news/613345/garrett-wilson-finds-end-zone-week-5.php",
+      "player_id": 23072,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Garrett Wilson finds the end zone in Week 5"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 01:14:41",
+      "created_formated": "Mon, Oct 12th 1:14am UTC",
+      "desc": "Dyami Brown caught one of his two targets for two yards in the Commanders' 27-27 tie with the New York Giants in Week 5.",
+      "id": 613344,
+      "impact": "Brown has struggled to make a consistent impact to begin the season, finishing with less than five receiving yards in three of five contests. The wideout can remain off rosters in all formats ahead of a Week 6 contest against the San Francisco 49ers.",
+      "link": "https://www.fantasypros.com/nfl/news/613344/dyami-brown-catches-pass-week-5.php",
+      "player_id": 20113,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Dyami Brown catches pass in Week 5"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 01:12:01",
+      "created_formated": "Mon, Oct 12th 1:12am UTC",
+      "desc": "John Bates caught his only target for one yard in the Commanders' 27-27 tie against the New York Giants in Week 5.",
+      "id": 613343,
+      "impact": "Bates has seen minimal involvement in the Washington offense of late, recording one target or less in each of the last four contests. The tight end can remain off rosters in all formats ahead of a Week 6 contest against the San Francisco 49ers.",
+      "link": "https://www.fantasypros.com/nfl/news/613343/john-bates-catches-only-target-week-5.php",
+      "player_id": 22833,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "John Bates catches only target in Week 5"
+    },
+    {
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-10-11 15:34:36",
-      "created_formated": "Sun, Oct 11th 3:34pm UTC",
-      "desc": "Titans WR Carnell Tate (back) is officially active for a Week 5 matchup with Houston. ",
-      "id": 613215,
-      "impact": "Tate was considered questionable after being limited in practice Thursday and Friday. He will suit up and provide the Titans with their best option at wide receiver against Houston. ",
-      "link": "https://www.fantasypros.com/nfl/news/613215/carnell-tate-back-officially-active-week-5.php",
-      "player_id": 26009,
+      "created": "2026-10-11 17:55:59",
+      "created_formated": "Sun, Oct 11th 5:55pm UTC",
+      "desc": "KC Concepcion (head) has been ruled out  for the remainder of the Browns game against the Jets on Sunday after a dirty hit from Minkah Fitzpatrick.",
+      "id": 613230,
+      "impact": "Fitzpatrick had ripped off KC's helmet previously before targeting his head while the rookie was making a grab. He most certainly has a concussion, and will likely be questionable for next weeks game. Denzel Boston will headline the Browns receiver group with KC out, with Jerry Jeudy seeing additional snaps.",
+      "link": "https://www.fantasypros.com/nfl/news/613230/kc-concepcion-head-ruled-out-remainder-sunday.php",
+      "player_id": 27331,
       "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Carnell Tate (back) officially active for Week 5"
+      "team_id": "CLE",
+      "title": "KC Concepcion (head) ruled out for remainder of Sunday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-10-11 20:27:08",
+      "created_formated": "Sun, Oct 11th 8:27pm UTC",
+      "desc": "Marvin Harrison Jr. has been traded to the Houston Texans, per a report that came out after the Texans win over the Titans.",
+      "id": 613255,
+      "impact": "Harrison had worn out his welcome in Arizona, and will now be reunited with his college QB. He will look to rebuild his value with his new team, and hopefully provide a viable No.2 target behind Nico Collins. As for the likes of Jaylin Noel, Xavier Hutchinson, Tank Dell, and the injured Jayden Higgins, this will certainly cap their ceilings.",
+      "link": "https://www.fantasypros.com/nfl/news/613255/marvin-harrison-jr-headed-to-houston.php",
+      "player_id": 23064,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Marvin Harrison Jr. headed to Houston"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-10-11 15:32:29",
-      "created_formated": "Sun, Oct 11th 3:32pm UTC",
-      "desc": "Justin Jefferson (ankle) is officially active for the Minnesota Vikings against the New Orleans Saints according to Tom Pelissero.",
-      "id": 613214,
-      "impact": "Jefferson is good to go after not experiencing any issues in pregame activities for head coach Kevin O'Connell, and is is in line for a sizeable workload with Jordan Addison sidelined against the Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/613214/justin-jefferson-ankle-active-week-5.php",
+      "created": "2026-10-12 00:29:27",
+      "created_formated": "Mon, Oct 12th 12:29am UTC",
+      "desc": "Will Reichard converted both of his extra point attempts as well as all three of his field goal attempts to finish with 11 points in the Vikings' 23-13 win over the New Orleans Saints in Week 5.",
+      "id": 613342,
+      "impact": "Reichard continues a dynamic start to the season for head coach Kevin O'Connell, racking up seven or more points in each of the first five games. The kicker remains one of the more dynamic options in associated formats as Minnesota enters a Week 6 bye.",
+      "link": "https://www.fantasypros.com/nfl/news/613342/will-reichard-racks-up-11-points-week-5-win.php",
+      "player_id": 26341,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Will Reichard racks up 11 points in Week 5 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 00:26:28",
+      "created_formated": "Mon, Oct 12th 12:26am UTC",
+      "desc": "Kyler Murray completed 24-of-30 pass attempts for 229 yards and one touchdown while also rushing 10 times for 51 yards in the Vikings' 23-13 Week 5 win over the New Orleans Saints.",
+      "id": 613341,
+      "impact": "Murray has struggled to make an impact behind center early in the season for head coach Kevin O'Connell, passing for less than 250 yards in each of his four contests. The dual-threat signal caller remains difficult for fantasy managers to trust as the Vikings enter their bye week.",
+      "link": "https://www.fantasypros.com/nfl/news/613341/kyler-murray-steady-week-5-win-over-saints.php",
+      "player_id": 18600,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Kyler Murray steady in Week 5 win over Saints"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 00:23:28",
+      "created_formated": "Mon, Oct 12th 12:23am UTC",
+      "desc": "Aaron Jones Sr. carried the ball 25 times for 113 yards and one touchdown while also hauling in all three of his targets for four yards in the Vikings' 23-13 Week 5 win over the New Orleans Saints.",
+      "id": 613340,
+      "impact": "Jones Sr. has been impactful out of the Minnesota backfield of late, surpassing 90 offensive yards in each of the last four games. The veteran running back offers head coach Kevin O'Connell one of the few reliable offensive options as the Vikings enter their Week 6 bye.",
+      "link": "https://www.fantasypros.com/nfl/news/613340/aaron-jones-sr-leads-ground-attack-week-5-win-over-saints.php",
+      "player_id": 16673,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Aaron Jones Sr. leads ground attack in Week 5 win over Saints"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 00:23:06",
+      "created_formated": "Mon, Oct 12th 12:23am UTC",
+      "desc": "Josh Downs caught three of six targets for 47 yards in the Colts' 34-22 loss to the Steelers on Sunday.",
+      "id": 613339,
+      "impact": "Downs had a couple of chances to make his day a little more palatable, but failed to make a catch in some tightly contested spots. Why Downs was targeted fewer times than Laquon Treadwell, who had less success, is a mystery. If it's any comfort, Downs looked to be regularly open and beating his man; Jones was just not finding him.",
+      "link": "https://www.fantasypros.com/nfl/news/613339/josh-downs-goes-47-yards-loss.php",
+      "player_id": 24706,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Josh Downs goes for 47 yards in loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 00:20:12",
+      "created_formated": "Mon, Oct 12th 12:20am UTC",
+      "desc": "Justin Jefferson hauled in six of his seven targets for a team-leading 79 yards and one touchdown in the Vikings' 23-13 Week 5 win over the New Orleans Saints.",
+      "id": 613338,
+      "impact": "Jefferson has offered mixed results in the Minnesota passing attack to begin the season, reaching the end zone in two of his four contests. The wideout enters the Week 6 bye as one of many inconsistent offensive options for head coach Kevin O'Connell.",
+      "link": "https://www.fantasypros.com/nfl/news/613338/justin-jefferson-finds-end-zone-week-5-win-over-saints.php",
       "player_id": 19236,
       "sport_id": "NFL",
       "team_id": "MIN",
-      "title": "Justin Jefferson (ankle) active for Week 5"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-10-11 14:35:56",
-      "created_formated": "Sun, Oct 11th 2:35pm UTC",
-      "desc": "Ja'Marr Chase (concussion) is cleared to play for the Cincinnati Bengals against the Miami Dolphins Sunday.",
-      "id": 613212,
-      "impact": "Chase was able to clear through concussion protocols ahead of the Week 5 contest, offering quarterback Joe Burrow both of his explosive pass-catching options along with Tee Higgins (groin/neck) against the Dolphins Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/613212/jamarr-chase-concussion-to-play-sunday.php",
-      "player_id": 19788,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Ja'Marr Chase (concussion) to play Sunday"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-10-11 14:33:19",
-      "created_formated": "Sun, Oct 11th 2:33pm UTC",
-      "desc": "Tee Higgins (groin/neck) will play for the Cincinnati Bengals against the Miami Dolphins Sunday according to Adam Schefter.",
-      "id": 613211,
-      "impact": "Higgins is good to go after entering the weekend with a questionable designation, joining Ja'Marr Chase (concussion) back in the Cincinnati passing attack against the Dolphins Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/613211/tee-higgins-groinneck-will-play-sunday.php",
-      "player_id": 19211,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Tee Higgins (groin/neck) will play Sunday"
+      "title": "Justin Jefferson finds end zone in Week 5 win over Saints"
     },
     {
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-11 12:12:49",
-      "created_formated": "Sun, Oct 11th 12:12pm UTC",
-      "desc": "Zay Flowers (foot) is expected to play on Sunday against the Falcons and push through his foot injury.",
-      "id": 613204,
-      "impact": "If Flowers suits up, he will provide backup QB Tyler Huntley with a more than capable target downfield in a Ravens passing attack that lacks much punch behind him. He will be needed to prevent the offense from being one-dimensional, especially with the Falcons offense picking up steam since the return of Michael Penix.",
-      "link": "https://www.fantasypros.com/nfl/news/613204/zay-flowers-foot-expected-to-play-on-sunday.php",
-      "player_id": 22916,
+      "created": "2026-10-12 00:17:22",
+      "created_formated": "Mon, Oct 12th 12:17am UTC",
+      "desc": "Tyler Warren caught seven of nine targets for 83 yards and ran once for a one-yard score in the Colts' 34-22 loss to Pittsburgh.",
+      "id": 613336,
+      "impact": "Warren was one of the few bright spots for the Colts offense on a day when the offense stalled often, getting the team's only touchdown on a rush, and nearly doubling the yardage total of the second-highest receiver. The Colts have lacked explosiveness with Alec Pierce out, and that has caused all to suffer, including Warren. However, he's still getting it done thanks to volume, and should be a fine play most weeks.",
+      "link": "https://www.fantasypros.com/nfl/news/613336/tyler-warren-snags-nine-passes-loss.php",
+      "player_id": 26434,
       "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Zay Flowers (foot) expected to play on Sunday"
+      "team_id": "IND",
+      "title": "Tyler Warren snags seven passes in loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 00:17:39",
+      "created_formated": "Mon, Oct 12th 12:17am UTC",
+      "desc": "Jauan Jennings failed to catch his lone target in the Vikings' 23-13 Week 5 win over the New Orleans Saints.",
+      "id": 613337,
+      "impact": "Jennings has been a non-factor in the Minnesota passing attack to begin the season, finishing with two targets or less in each of his four games. The wideout can remain off rosters in all formats as the Vikings enter their bye week.",
+      "link": "https://www.fantasypros.com/nfl/news/613337/jauan-jennings-sees-one-target-week-5.php",
+      "player_id": 19590,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Jauan Jennings sees one target in Week 5"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 00:15:28",
+      "created_formated": "Mon, Oct 12th 12:15am UTC",
+      "desc": "Demond Claiborne caught his only target for six yards in the Vikings' 23-13 win over the New Orleans Saints in Week 5.",
+      "id": 613335,
+      "impact": "Claiborne has made minimal impact out of the Minnesota backfield to this point, recording three touches or less in each of his four games. The running back remains a non-factor in all formats ahead of a Week 6 bye for the Vikings.",
+      "link": "https://www.fantasypros.com/nfl/news/613335/demond-claiborne-quiet-week-5.php",
+      "player_id": 28084,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Demond Claiborne quiet in Week 5"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 00:13:25",
+      "created_formated": "Mon, Oct 12th 12:13am UTC",
+      "desc": "DeeJay Dallas caught his only target for 11 yards in the Vikings' 23-13 win over the New Orleans Saints in Week 5.",
+      "id": 613334,
+      "impact": "Dallas remains an afterthought out of the Minnesota backfield, recording two touches or less in each of the first five games. The running back remains best left off rosters in all formats as the Vikings enter the Week 6 bye.",
+      "link": "https://www.fantasypros.com/nfl/news/613334/deejay-dallas-catches-only-target-week-5.php",
+      "player_id": 19521,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "DeeJay Dallas catches only target in Week 5"
     },
     {
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-11 12:04:19",
-      "created_formated": "Sun, Oct 11th 12:04pm UTC",
-      "desc": "Ladd McConkey (foot) is not expected to play on Sunday against Denver due to a foot injury.",
-      "id": 613198,
-      "impact": "It's a tough blow to the Chargers' chances of winning if Ladd sits, as they are already down Quentin Johnston. Tre Harris is the next man up for LA, and he could see a decent amount of work and be a flex-worthy option, especially with Denver missing two of their top corners this week.",
-      "link": "https://www.fantasypros.com/nfl/news/613198/ladd-mcconkey-foot-not-expected-to-play-against-denver.php",
-      "player_id": 26122,
+      "created": "2026-10-12 00:13:06",
+      "created_formated": "Mon, Oct 12th 12:13am UTC",
+      "desc": "Daniel Jones completed 24 of 44 passes for 267 yards in the Colts' 34-22 loss to the Steelers on Sunday. He also ran three times for four yards.",
+      "id": 613333,
+      "impact": "Jones has not had a great start to this season; whether or not that's due to his continued recovery from his Achilles injury is uncertain. The Colts couldn't sustain drives for most of the game, relying mainly on field goals, which is not a great sign of offensive success. He simply hasn't been the same player he was in 2025, and that's hurting the team.",
+      "link": "https://www.fantasypros.com/nfl/news/613333/daniel-jones-throws-267-yards-loss.php",
+      "player_id": 18232,
       "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Ladd McConkey (foot) not expected to play against Denver"
+      "team_id": "IND",
+      "title": "Daniel Jones throws for 267 yards in loss"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-11 12:07:53",
-      "created_formated": "Sun, Oct 11th 12:07pm UTC",
-      "desc": "Jonathan Greenard (ankle) is inactive for Week 5 for the Philadelphia Eagles against the Jacksonville Jaguars.",
-      "id": 613202,
-      "impact": "Greenard was unable to pass through pregame warmups enough to get the green light to suit up for head coach Nick Sirianni, leaving the Philadelphia defensive front shorthanded against the Jaguars Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/613202/jonathan-greenard-ankle-inactive-week-5.php",
-      "player_id": 19276,
+      "created": "2026-10-12 00:11:12",
+      "created_formated": "Mon, Oct 12th 12:11am UTC",
+      "desc": "Tai Felton caught two of his three targets for 27 yards in the Vikings' 23-13 win over the New Orleans Saints in Week 5.",
+      "id": 613332,
+      "impact": "Felton has been minimally involved in the Minnesota offense to begin the season, finishing under 30 receiving yards in each of the first five games. The wideout can remain off rosters in all formats as the team enters a Week 6 bye.",
+      "link": "https://www.fantasypros.com/nfl/news/613332/tai-felton-quiet-week-5.php",
+      "player_id": 27182,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jonathan Greenard (ankle) inactive for Week 5"
+      "team_id": "MIN",
+      "title": "Tai Felton quiet in Week 5"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-11 12:05:23",
-      "created_formated": "Sun, Oct 11th 12:05pm UTC",
-      "desc": "Hollywood Brown (ankle) is inactive for Week 5 for the Philadelphia Eagles against the Jacksonville Jaguars.",
-      "id": 613199,
-      "impact": "Brown joins fellow wideout Devonta Smith and running back Saquon Barkley on the sidelines for head coach Nick Sirianni, leaving Makai Lemon and Dontayvion Wicks as the primary pass-catching options against the Jaguars Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/613199/hollywood-brown-ankle-inactive-week-5.php",
-      "player_id": 18226,
+      "created": "2026-10-12 00:09:03",
+      "created_formated": "Mon, Oct 12th 12:09am UTC",
+      "desc": "Myles Price caught three of his four targets for 20 yards with one fumble lost in the Vikings' 23-13 win over the New Orleans Saints in Week 5.",
+      "id": 613331,
+      "impact": "Price has struggled to make an impact for head coach Kevin O'Connell, finishing with less than 30 receiving yards in each of his four contests. The pass-catcher can remain off rosters in all formats as the Vikings enter a Week 6 bye.",
+      "link": "https://www.fantasypros.com/nfl/news/613331/myles-price-catches-three-passes-week-5.php",
+      "player_id": 27805,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Hollywood Brown (ankle) inactive for Week 5"
+      "team_id": "MIN",
+      "title": "Myles Price catches three passes in Week 5"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 00:05:44",
+      "created_formated": "Mon, Oct 12th 12:05am UTC",
+      "desc": "Jonathan Taylor ran 15 times for 45 yards and caught three of four targets for 37 yards in the Colts' 34-22 loss to the Steelers on Sunday.",
+      "id": 613330,
+      "impact": "Taylor was largely bottled up by the Steelers' run defense, finding little running room outside of a 20-yard run near the end of the game. He had a nice catch-and-run in the receiving game, but those were his two explosive plays in the game. He will hope for better results next week against the Titans.",
+      "link": "https://www.fantasypros.com/nfl/news/613330/jonathan-taylor-limited-loss-to-steelers.php",
+      "player_id": 19217,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Jonathan Taylor limited in loss to Steelers"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 00:04:37",
+      "created_formated": "Mon, Oct 12th 12:04am UTC",
+      "desc": "Gavin Bartholomew caught five of his six targets for 33 yards in the Vikings' 23-13 win over the New Orleans Saints in Week 5.",
+      "id": 613329,
+      "impact": "Bartholomew took advantage of the concussion suffered by T.J. Hockenson early in the contest, finishing second in targets and receiving yards in the win. The tight end's value remains tied to the health of No. 1 T.J. Hockenson as the Vikings enter a Week 6 bye.",
+      "link": "https://www.fantasypros.com/nfl/news/613329/gavin-bartholomew-catches-five-passes-week-5-win.php",
+      "player_id": 26002,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Gavin Bartholomew catches five passes in Week 5 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-12 00:01:51",
+      "created_formated": "Mon, Oct 12th 12:01am UTC",
+      "desc": "Jeshaun Jones caught his only target for 32 yards in the Vikings' 23-13 win over the New Orleans Saints in Week 5.",
+      "id": 613328,
+      "impact": "Jones has been minimally involved in the Minnesota offense since being activated, seeing his first target in two contests in Sunday's win. The wideout can remain off rosters in all formats as the Vikings enter a Week 6 bye.",
+      "link": "https://www.fantasypros.com/nfl/news/613328/jeshaun-jones-catches-only-target-week-5.php",
+      "player_id": 26423,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Jeshaun Jones catches only target in Week 5"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-11 23:56:56",
+      "created_formated": "Sun, Oct 11th 11:56pm UTC",
+      "desc": "Evan Engram caught all four of his targets for 55 yards in Sunday's 23-17 win over the Chargers. ",
+      "id": 613327,
+      "impact": "Engram bounced back Sunday from a string of games in which he produced very little for the Broncos offense. The veteran tight end led the team in receptions and yards, going over the 50-yard mark for the first time this season. It's a positive step, but the Broncos passing game is still suspect and Engram remains a lower-end TE for fantasy purposes at the moment. ",
+      "link": "https://www.fantasypros.com/nfl/news/613327/evan-engram-leads-broncos-receiving-sunday.php",
+      "player_id": 16411,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Evan Engram leads the Broncos in receiving Sunday "
     }
   ],
   "public_api": true,
