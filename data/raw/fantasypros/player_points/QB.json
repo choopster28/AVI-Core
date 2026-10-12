@@ -664,17 +664,18 @@
       }
     },
     {
-      "average": 2.1,
+      "average": 9.4,
       "filename": "tyler-huntley.php",
-      "games": 2,
+      "games": 3,
       "player_id": 19297,
       "player_name": "Tyler Huntley",
-      "points": 4.12,
+      "points": 28.16,
       "position_id": "QB",
       "team_id": "BAL",
       "weeks": {
         "2": 0,
-        "4": 4.1
+        "4": 4.1,
+        "5": 24
       }
     },
     {
@@ -773,17 +774,18 @@
       }
     },
     {
-      "average": 13.9,
+      "average": 14.1,
       "filename": "michael-penix-jr.php",
-      "games": 2,
+      "games": 3,
       "player_id": 22973,
       "player_name": "Michael Penix Jr.",
-      "points": 27.759999999999998,
+      "points": 42.16,
       "position_id": "QB",
       "team_id": "ATL",
       "weeks": {
         "3": 15,
-        "4": 12.7
+        "4": 12.7,
+        "5": 14.4
       }
     },
     {
@@ -877,6 +879,19 @@
       "team_id": "GB",
       "weeks": {
         "5": -0.2
+      }
+    },
+    {
+      "average": 0.4,
+      "filename": "tua-tagovailoa.php",
+      "games": 1,
+      "player_id": 19198,
+      "player_name": "Tua Tagovailoa",
+      "points": 0.36,
+      "position_id": "QB",
+      "team_id": "ATL",
+      "weeks": {
+        "5": 0.4
       }
     },
     {

@@ -1,19 +1,20 @@
 {
   "players": [
     {
-      "average": 8.3,
+      "average": 9,
       "filename": "nick-folk.php",
-      "games": 4,
+      "games": 5,
       "player_id": 9491,
       "player_name": "Nick Folk",
-      "points": 33,
+      "points": 45,
       "position_id": "K",
       "team_id": "ATL",
       "weeks": {
         "1": 10,
         "2": 4,
         "3": 10,
-        "4": 9
+        "4": 9,
+        "5": 12
       }
     },
     {
@@ -51,19 +52,20 @@
       }
     },
     {
-      "average": 7.3,
+      "average": 10.4,
       "filename": "jason-myers.php",
-      "games": 4,
+      "games": 5,
       "player_id": 14003,
       "player_name": "Jason Myers",
-      "points": 29,
+      "points": 52,
       "position_id": "K",
       "team_id": "SEA",
       "weeks": {
         "1": 7,
         "2": 7,
         "3": 9,
-        "4": 6
+        "4": 6,
+        "5": 23
       }
     },
     {
@@ -84,19 +86,20 @@
       }
     },
     {
-      "average": 6,
+      "average": 7,
       "filename": "wil-lutz.php",
-      "games": 4,
+      "games": 5,
       "player_id": 16026,
       "player_name": "Wil Lutz",
-      "points": 24,
+      "points": 35,
       "position_id": "K",
       "team_id": "DEN",
       "weeks": {
         "1": 4,
         "2": 9,
         "3": 2,
-        "4": 9
+        "4": 9,
+        "5": 11
       }
     },
     {
@@ -167,19 +170,20 @@
       }
     },
     {
-      "average": 7.5,
+      "average": 7.4,
       "filename": "eddy-pineiro.php",
-      "games": 4,
+      "games": 5,
       "player_id": 17575,
       "player_name": "Eddy Pineiro",
-      "points": 30,
+      "points": 37,
       "position_id": "K",
       "team_id": "SF",
       "weeks": {
         "1": 11,
         "2": 5,
         "3": 8,
-        "4": 6
+        "4": 6,
+        "5": 7
       }
     },
     {
@@ -284,35 +288,37 @@
       }
     },
     {
-      "average": 6.5,
+      "average": 6.4,
       "filename": "cameron-dicker.php",
-      "games": 4,
+      "games": 5,
       "player_id": 23901,
       "player_name": "Cameron Dicker",
-      "points": 26,
+      "points": 32,
       "position_id": "K",
       "team_id": "LAC",
       "weeks": {
         "1": 2,
         "2": 2,
         "3": 10,
-        "4": 12
+        "4": 12,
+        "5": 6
       }
     },
     {
-      "average": 9.8,
+      "average": 8.4,
       "filename": "chad-ryland.php",
-      "games": 4,
+      "games": 5,
       "player_id": 25354,
       "player_name": "Chad Ryland",
-      "points": 39,
+      "points": 42,
       "position_id": "K",
       "team_id": "ARI",
       "weeks": {
         "1": 16,
         "2": 1,
         "3": 14,
-        "4": 8
+        "4": 8,
+        "5": 3
       }
     },
     {
@@ -352,17 +358,18 @@
     {
       "average": 9.8,
       "filename": "jake-bates.php",
-      "games": 4,
+      "games": 5,
       "player_id": 26075,
       "player_name": "Jake Bates",
-      "points": 39,
+      "points": 49,
       "position_id": "K",
       "team_id": "DET",
       "weeks": {
         "1": 7,
         "2": 7,
         "3": 7,
-        "4": 18
+        "4": 18,
+        "5": 10
       }
     },
     {
@@ -466,19 +473,20 @@
       }
     },
     {
-      "average": 10,
+      "average": 10.8,
       "filename": "tyler-loop.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27534,
       "player_name": "Tyler Loop",
-      "points": 40,
+      "points": 54,
       "position_id": "K",
       "team_id": "BAL",
       "weeks": {
         "1": 14,
         "2": 6,
         "3": 12,
-        "4": 8
+        "4": 8,
+        "5": 14
       }
     },
     {

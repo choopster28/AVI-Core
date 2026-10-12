@@ -258,19 +258,20 @@
       }
     },
     {
-      "average": 9.7,
+      "average": 8.7,
       "filename": "mark-andrews.php",
-      "games": 4,
+      "games": 5,
       "player_id": 17269,
       "player_name": "Mark Andrews",
-      "points": 38.900000000000006,
+      "points": 43.7,
       "position_id": "TE",
       "team_id": "BAL",
       "weeks": {
         "1": 8.9,
         "2": 10.9,
         "3": 5.4,
-        "4": 13.7
+        "4": 13.7,
+        "5": 4.8
       }
     },
     {
@@ -596,19 +597,20 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.5,
       "filename": "charlie-woerner.php",
-      "games": 4,
+      "games": 5,
       "player_id": 19665,
       "player_name": "Charlie Woerner",
-      "points": 0,
+      "points": 2.3,
       "position_id": "TE",
       "team_id": "ATL",
       "weeks": {
         "1": 0,
         "2": 0,
         "3": 0,
-        "4": 0
+        "4": 0,
+        "5": 2.3
       }
     },
     {
@@ -660,19 +662,20 @@
       }
     },
     {
-      "average": 2.9,
+      "average": 5.4,
       "filename": "kyle-pitts.php",
-      "games": 4,
+      "games": 5,
       "player_id": 20164,
       "player_name": "Kyle Pitts Sr.",
-      "points": 11.7,
+      "points": 26.9,
       "position_id": "TE",
       "team_id": "ATL",
       "weeks": {
         "1": 0,
         "2": 2.5,
         "3": 1.5,
-        "4": 7.7
+        "4": 7.7,
+        "5": 15.2
       }
     },
     {
@@ -1138,7 +1141,7 @@
     {
       "average": 0,
       "filename": "nick-muse.php",
-      "games": 4,
+      "games": 5,
       "player_id": 24239,
       "player_name": "Nick Muse",
       "points": 0,
@@ -1148,7 +1151,8 @@
         "1": 0,
         "2": 0,
         "3": 0,
-        "4": 0
+        "4": 0,
+        "5": 0
       }
     },
     {
@@ -1694,19 +1698,20 @@
       }
     },
     {
-      "average": 0.6,
+      "average": 1.4,
       "filename": "josh-cuevas.php",
-      "games": 4,
+      "games": 5,
       "player_id": 28155,
       "player_name": "Josh Cuevas",
-      "points": 2.4,
+      "points": 7,
       "position_id": "TE",
       "team_id": "BAL",
       "weeks": {
         "1": 0,
         "2": 0,
         "3": 2.4,
-        "4": 0
+        "4": 0,
+        "5": 4.6
       }
     },
     {
