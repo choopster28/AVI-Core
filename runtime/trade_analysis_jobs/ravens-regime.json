@@ -23,8 +23,338 @@
       ]
     },
     "createdAt": 1791895053761,
-    "updatedAt": 1791895055221,
+    "updatedAt": 1791895110918,
     "expiresAt": 1792327053761,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Ravens Regime proposes acquiring 25-year-old slot receiver Josh Downs from SmokyValleyWheatWarriors using 30-year-old tight end Juwan Johnson as the core foundation asset. For Ravens Regime, this move breaks up a redundant triple-TE lineup construction (Kittle, Pitts, Johnson) and adds crucial young WR depth behind Zay Flowers and Carnell Tate. With the addition of a 2028 2nd-round pick as a trade sweetener, the package provides SmokyValley with TE depth insurance behind Mark Andrews and liquid draft capital while keeping SmokyValley's starting lineup completely intact.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 30,
+              "cavi": 64.3,
+              "davi": 77.1,
+              "publicMarket": 50,
+              "leagueMarket": 60
+            },
+            {
+              "name": "2028 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Josh Downs",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 63,
+              "davi": 75.5,
+              "publicMarket": 55,
+              "leagueMarket": 63
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "The proposed deal leverages TE depth to acquire a younger, high-floor WR3 in Josh Downs. While Juwan Johnson carries a slightly higher current C-AVI (64.3 vs 63.0), Downs (age 25) offers superior age-curve stability and positional diversification for Ravens Regime."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Offering Juwan Johnson alongside a 2028 2nd-round pick provides sufficient value for SmokyValley to part with their WR depth without disrupting either contender's primary starting lineup."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 35,
+              "summary": "Ravens Regime improves long-term roster balance and WR depth while shedding age at FLEX."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Slight sideways move in immediate starting score (-1.3 C-AVI), but significantly improves WR rotation flexibility."
+            },
+            "dynastyOutlook": {
+              "score": 45,
+              "summary": "Acquires a 25-year-old route-running slot receiver entering his prime while moving off a 30-year-old TE3."
+            },
+            "lineupQuality": {
+              "score": 5,
+              "summary": "Replaces Juwan Johnson at FLEX2 with Josh Downs, maintaining starting lineup competitiveness."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Reduces dependency on starting three TEs simultaneously and bolsters thin WR active depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Surrenders a 2028 2nd-round pick to lock in the player target."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 20,
+              "summary": "SmokyValleyWheatWarriors gains TE insurance and future draft capital without touching their starting 8."
+            },
+            "championshipOutlook": {
+              "score": 5,
+              "summary": "Preserves starting lineup intact (Lawrence, McCaffrey, Cook, Lamb, Olave, Andrews, Kincaid, Dowdle)."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Adds a 2028 2nd-round draft pick while adding veteran TE depth."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "No change to SmokyValley's starting lineup."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Provides TE insurance behind 31-year-old Mark Andrews."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Gains an extra 2028 2nd-round pick to use in future trade negotiations."
+            }
+          },
+          "explanation": "Both franchises are competitive contenders. The trade transfers surplus TE depth from Ravens Regime to SmokyValley while transferring secondary WR depth and draft capital, benefiting both roster structures without harming either team's title run."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Ravens Regime's starting lineup C-AVI changes from 652.2 to 650.9. The micro-dip (-1.3 C-AVI) is outweighed by structural roster alignment, replacing a third starting TE with a true WR option.",
+          "sideADynastyImpact": "Dynasty asset health improves by trading a 30-year-old TE (Juwan Johnson, 77.1 D-AVI) for a 25-year-old WR (Josh Downs, 75.5 D-AVI) whose primary dynasty value is sustained PPR target volume.",
+          "sideARosterImpact": "Eliminates triple-TE lineup vulnerability (Kittle, Pitts, Johnson) and establishes reliable active WR depth behind Zay Flowers and Carnell Tate.",
+          "sideBChampionshipImpact": "SmokyValley's starting lineup remains unchanged at 673.3 C-AVI as Josh Downs currently resides on their bench behind CeeDee Lamb and Chris Olave.",
+          "sideBDynastyImpact": "SmokyValley converts bench WR depth into a starting-caliber TE depth piece and a liquid 2028 2nd-round draft pick.",
+          "sideBRosterImpact": "Gives SmokyValley reliable TE coverage behind Mark Andrews and Dalton Kincaid.",
+          "valueAssessment": "Fair and balanced transaction in a 16-team league where positional depth holds heightened value."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views Josh Downs as a solid WR3/4 PPR volume option with strong route-running indicators, currently constrained by Indianapolis passing environment. Juwan Johnson is valued as a mid-tier TE2 with touchdown upside.",
+          "aviVsMarket": "AVI values Josh Downs at 63.0 C-AVI / 75.5 D-AVI, closely matching public dynasty consensus (WR35-40 range). Juwan Johnson's 64.3 C-AVI reflects his role in the Saints passing attack.",
+          "relevantContext": [
+            "Josh Downs operates as the primary slot receiver in Indianapolis with consistent route participation.",
+            "Downs is age 25 and entering the final year of his rookie contract.",
+            "Ravens Regime currently starts three TEs in their default lineup, creating clear motivation to convert TE depth into WR depth."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "SmokyValley is an Elite Contender (673.3 starting C-AVI). Moving bench receiver Josh Downs for TE depth and draft capital allows them to keep their championship starting 8 intact while accumulating future liquidity.",
+          "packageFit": "Juwan Johnson gives SmokyValley a active TE option, while the 2028 2nd-round pick bridges the age gap between Johnson (30) and Downs (25).",
+          "lineupReplacement": "Josh Downs is currently SmokyValley's WR3/bench option. His departure does not create a hole in SmokyValley's starting lineup.",
+          "competitiveWindowFit": "Both franchises are in championship push windows; neither team sacrifices immediate starting production.",
+          "positionalScarcity": "In a 16-team full PPR format, startable WRs and TEs both command high depth premiums."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 18,
+            "packageMatch": 17,
+            "lineupReplacement": 13,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 77,
+          "classification": "Realistic",
+          "explanation": "Josh Downs is not explicitly listed on the trade block, but his status as SmokyValley's bench WR3 makes him accessible for a fair proposal containing TE depth and a 2nd-round pick."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Proposing Juwan Johnson and a 2028 2nd-round pick for Josh Downs addresses Ravens Regime's roster structural imbalance, lowers starting lineup age, and provides valuable WR depth while offering SmokyValley a fair return.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 30,
+              "cavi": 64.3,
+              "davi": 77.1,
+              "publicMarket": 50,
+              "leagueMarket": 60
+            },
+            {
+              "name": "2028 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Downs",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 63,
+              "davi": 75.5,
+              "publicMarket": 55,
+              "leagueMarket": 63
+            }
+          ],
+          "whyUserShouldDoIt": "Diversifies Ravens Regime's lineup away from starting three tight ends (Kittle, Pitts, Johnson), adds a 25-year-old PPR slot receiver in Josh Downs, and strengthens WR depth behind Zay Flowers.",
+          "whyOpponentMightAccept": "SmokyValley adds TE depth in Juwan Johnson behind Mark Andrews and secures a liquid 2028 2nd-round pick without losing any production from their starting lineup."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 30,
+              "cavi": 64.3,
+              "davi": 77.1,
+              "publicMarket": 50,
+              "leagueMarket": 60
+            },
+            {
+              "name": "2028 Round 3 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 15,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Downs",
+              "assetType": "player",
+              "owner": "SmokyValleyWheatWarriors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 63,
+              "davi": 75.5,
+              "publicMarket": 55,
+              "leagueMarket": 63
+            }
+          ],
+          "rationale": "An opening probe using a 2028 3rd-round pick instead of a 2nd-round pick to test whether SmokyValley values Juwan Johnson's immediate TE depth enough to take a lighter draft asset."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Josh Downs fantasy value 2026",
+          "Josh Downs news 2026 NFL",
+          "Josh Downs current team stats contract"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7asTg6HDnwyjw1Kd9RjubULWgfCqrG2eP5thJltY2xVBnU2QYcXm-CWMkgguPvEXRpg3CHBsjdgb8fVX39lXfO_iGCcP7lkky3NVJ8geRRrFKUR5qDJWFyUW1mgjP5bOQAmygEEoyVXfAs0zWWK4qFSXXWo_7ZCsotE6LcVqz0sKtrMGf3Uu3zJ3d57qUEFu5XLpqhzh23py2",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqyY5I9nsuk7iWaZmOwZA00uieJLlQJ6bQj1yl2uU1vgh0Pb5jUvyv6wRUYdh1QZqKT4WKLvmV7eSHPOfKkLQB8zlxam0ywM2VyKwOmJd6uoZrHnKk55n-zQSpIGNCir3L2Zs1hzjY3k_WIAVFHA_gVxxc1DTihltv_8TyUlw=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgdD5OaPxqMplXFdDBKVHeJDdz7ohjGBzttN8nSY7vH88XqkmGWxbPRqMNXzX5tJ59H6VSw5sc2P6jUnauVlgDuZkKeUJNZCrAocavYIdvLc05kOCRrmbXYVK3gY_u-HOt0ms9BE2rgNCU8i4iZkE=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF47_LMFck63lEbsGAjDp8s1ZL9a0qMNJMhDMsHPVni5_779kvuNyAvH2upuygAwCKnexzEbD9qBVJWf-Db8re_9AMuLgLylp6ktn1nvnJUvuqC3VBvGJ-LtXKzY-xom-zChEW4Y4jtvvAkTn9_Gcp5JUI3KsnCKuGjPz2wp26rDb3NqvGH5pue1UYmI1Cx3RQz7cmKZZoNU9QTCmyBiVC0fVUL37OV7A==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExRFlWzy2AeT1qaFGOjekRpiR0qN2zfZDQ5eWo3_a_Tr9LQm3U60vRNsihwEnvd9fB1pXZrISswgOxQF2jcXKrs7Ss60k_PuGGckfrhN134OBFBsRnVioP1YhXSWaQ6yM2kvk7-IRXAiO6k9s=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN4h6MRNwo_8hWesS76lTi1C1b_1EGG19BuipqIcWTsQCEGQkqXDmKz_1pUhe3_V0FQAXuLCnnNqHGJFtD3zZ2uvqm-cd621_wZ9ZPptCHCCU9BCJcx9RhxJj4wEsgCnX8rU5hmaiqks6FlcmT",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWugoMWpe7x5FAAav3SlmmyqHDiua1VdRLULrNDEmLmR66P3H6mrzBo8N9mKBB0s1s2KWyKGDhXtwTStevICMZ9pYOBgUXApnvW1as1uwfuuiRq7ov6en-196UTnKy",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr1zi8QeYd0EwSatiAAftEBBeVgLcHbq2Rx9RWrxUSQsKqWafNK-joTgpTrXcDWt1A_FqJQ61PsQV5UHOadvNFLxMpUCMWDse_qFivilt-bQG_PNkdIVVD2r7R3x1CdiIS",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a9a3dcbd7a6a01cd0351a0c35a971d61cdeac5b8",
+        "aviCoreCommittedAt": "2026-10-13T11:59:28Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 83950,
+        "groundedMarketChars": 2771,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
