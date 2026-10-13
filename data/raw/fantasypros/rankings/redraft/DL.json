@@ -11528,7 +11528,7 @@
     },
     {
       "cbs_player_id": "2180090",
-      "player_bye_week": "7",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "mike-danna.php",
@@ -11541,7 +11541,7 @@
       "player_position_id": "DE",
       "player_positions": "DE",
       "player_short_name": "M. Danna",
-      "player_team_id": "BUF",
+      "player_team_id": "FA",
       "player_yahoo_id": "32847",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DE142",

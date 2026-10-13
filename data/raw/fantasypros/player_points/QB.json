@@ -1,6 +1,23 @@
 {
   "players": [
     {
+      "average": 10.3,
+      "filename": "daniel-jones.php",
+      "games": 5,
+      "player_id": 18232,
+      "player_name": "Daniel Jones",
+      "points": 51.339999999999996,
+      "position_id": "QB",
+      "team_id": "IND",
+      "weeks": {
+        "1": 10,
+        "2": 12.4,
+        "3": 8.9,
+        "4": 8.9,
+        "5": 11.1
+      }
+    },
+    {
       "average": 17.4,
       "filename": "aaron-rodgers.php",
       "games": 5,
@@ -18,151 +35,6 @@
       }
     },
     {
-      "average": 0,
-      "filename": "joe-flacco.php",
-      "games": 1,
-      "player_id": 9300,
-      "player_name": "Joe Flacco",
-      "points": 0,
-      "position_id": "QB",
-      "team_id": "CIN",
-      "weeks": {
-        "1": 0
-      }
-    },
-    {
-      "average": 16.9,
-      "filename": "matthew-stafford.php",
-      "games": 4,
-      "player_id": 9451,
-      "player_name": "Matthew Stafford",
-      "points": 67.66,
-      "position_id": "QB",
-      "team_id": "LAR",
-      "weeks": {
-        "1": 5.1,
-        "2": 28,
-        "3": 22.9,
-        "4": 11.7
-      }
-    },
-    {
-      "average": 19.3,
-      "filename": "kirk-cousins.php",
-      "games": 5,
-      "player_id": 11177,
-      "player_name": "Kirk Cousins",
-      "points": 96.56,
-      "position_id": "QB",
-      "team_id": "LV",
-      "weeks": {
-        "1": 15.8,
-        "2": 21.2,
-        "3": 22.2,
-        "4": 23.6,
-        "5": 13.7
-      }
-    },
-    {
-      "average": 13.9,
-      "filename": "geno-smith.php",
-      "games": 5,
-      "player_id": 11687,
-      "player_name": "Geno Smith",
-      "points": 69.66,
-      "position_id": "QB",
-      "team_id": "NYJ",
-      "weeks": {
-        "1": 9.3,
-        "2": 15.6,
-        "3": 26,
-        "4": 8.8,
-        "5": 10
-      }
-    },
-    {
-      "average": 23,
-      "filename": "jared-goff.php",
-      "games": 5,
-      "player_id": 15501,
-      "player_name": "Jared Goff",
-      "points": 115,
-      "position_id": "QB",
-      "team_id": "DET",
-      "weeks": {
-        "1": 16.4,
-        "2": 29.8,
-        "3": 19.4,
-        "4": 20.5,
-        "5": 28.9
-      }
-    },
-    {
-      "average": 12.8,
-      "filename": "carson-wentz.php",
-      "games": 2,
-      "player_id": 15520,
-      "player_name": "Carson Wentz",
-      "points": 25.54,
-      "position_id": "QB",
-      "team_id": "MIN",
-      "weeks": {
-        "1": 19.2,
-        "2": 6.3
-      }
-    },
-    {
-      "average": 19.4,
-      "filename": "dak-prescott.php",
-      "games": 5,
-      "player_id": 15600,
-      "player_name": "Dak Prescott",
-      "points": 96.84000000000002,
-      "position_id": "QB",
-      "team_id": "DAL",
-      "weeks": {
-        "1": 15.4,
-        "2": 29.8,
-        "3": 18.9,
-        "4": 18.1,
-        "5": 14.6
-      }
-    },
-    {
-      "average": 17.9,
-      "filename": "jacoby-brissett.php",
-      "games": 5,
-      "player_id": 15642,
-      "player_name": "Jacoby Brissett",
-      "points": 89.3,
-      "position_id": "QB",
-      "team_id": "ARI",
-      "weeks": {
-        "1": 16.5,
-        "2": 7.5,
-        "3": 25.6,
-        "4": 13.4,
-        "5": 26.3
-      }
-    },
-    {
-      "average": 16.2,
-      "filename": "deshaun-watson.php",
-      "games": 5,
-      "player_id": 16398,
-      "player_name": "Deshaun Watson",
-      "points": 81.10000000000001,
-      "position_id": "QB",
-      "team_id": "CLE",
-      "weeks": {
-        "1": 15,
-        "2": 19.7,
-        "3": 20.3,
-        "4": 13.9,
-        "5": 12.2
-      }
-    },
-    {
       "average": 21.4,
       "filename": "patrick-mahomes.php",
       "games": 4,
@@ -176,49 +48,6 @@
         "2": 29,
         "3": 16.9,
         "4": 17
-      }
-    },
-    {
-      "average": 4.6,
-      "filename": "cooper-rush.php",
-      "games": 2,
-      "player_id": 16477,
-      "player_name": "Cooper Rush",
-      "points": 9.16,
-      "position_id": "QB",
-      "team_id": "ATL",
-      "weeks": {
-        "1": 7.7,
-        "2": 1.4
-      }
-    },
-    {
-      "average": -0.3,
-      "filename": "nick-mullens.php",
-      "games": 1,
-      "player_id": 16726,
-      "player_name": "Nick Mullens",
-      "points": -0.3,
-      "position_id": "QB",
-      "team_id": "JAC",
-      "weeks": {
-        "1": -0.3
-      }
-    },
-    {
-      "average": 20,
-      "filename": "lamar-jackson.php",
-      "games": 4,
-      "player_id": 17233,
-      "player_name": "Lamar Jackson",
-      "points": 80.08,
-      "position_id": "QB",
-      "team_id": "BAL",
-      "weeks": {
-        "1": 25,
-        "2": 15.8,
-        "3": 20.4,
-        "4": 18.9
       }
     },
     {
@@ -253,86 +82,6 @@
       }
     },
     {
-      "average": 28.9,
-      "filename": "josh-allen-qb.php",
-      "games": 4,
-      "player_id": 17298,
-      "player_name": "Josh Allen",
-      "points": 115.46,
-      "position_id": "QB",
-      "team_id": "BUF",
-      "weeks": {
-        "1": 35.7,
-        "2": 40.8,
-        "3": 19.5,
-        "4": 19.5
-      }
-    },
-    {
-      "average": 17.1,
-      "filename": "drew-lock.php",
-      "games": 2,
-      "player_id": 18225,
-      "player_name": "Drew Lock",
-      "points": 34.18,
-      "position_id": "QB",
-      "team_id": "SEA",
-      "weeks": {
-        "1": 12.8,
-        "2": 21.4
-      }
-    },
-    {
-      "average": 10.3,
-      "filename": "daniel-jones.php",
-      "games": 5,
-      "player_id": 18232,
-      "player_name": "Daniel Jones",
-      "points": 51.339999999999996,
-      "position_id": "QB",
-      "team_id": "IND",
-      "weeks": {
-        "1": 10,
-        "2": 12.4,
-        "3": 8.9,
-        "4": 8.9,
-        "5": 11.1
-      }
-    },
-    {
-      "average": 10.4,
-      "filename": "kyler-murray.php",
-      "games": 4,
-      "player_id": 18600,
-      "player_name": "Kyler Murray",
-      "points": 41.78,
-      "position_id": "QB",
-      "team_id": "MIN",
-      "weeks": {
-        "1": 0.6,
-        "3": 11.4,
-        "4": 11.5,
-        "5": 18.3
-      }
-    },
-    {
-      "average": 12.1,
-      "filename": "justin-herbert.php",
-      "games": 5,
-      "player_id": 18635,
-      "player_name": "Justin Herbert",
-      "points": 60.68000000000001,
-      "position_id": "QB",
-      "team_id": "LAC",
-      "weeks": {
-        "1": 14.3,
-        "2": 9.9,
-        "3": 13.7,
-        "4": 11.6,
-        "5": 11.2
-      }
-    },
-    {
       "average": 20.8,
       "filename": "joe-burrow.php",
       "games": 5,
@@ -350,98 +99,19 @@
       }
     },
     {
-      "average": 18.6,
-      "filename": "jordan-love.php",
-      "games": 5,
-      "player_id": 19246,
-      "player_name": "Jordan Love",
-      "points": 93.12,
+      "average": 28.9,
+      "filename": "josh-allen-qb.php",
+      "games": 4,
+      "player_id": 17298,
+      "player_name": "Josh Allen",
+      "points": 115.46,
       "position_id": "QB",
-      "team_id": "GB",
+      "team_id": "BUF",
       "weeks": {
-        "1": 20.5,
-        "2": 13.8,
+        "1": 35.7,
+        "2": 40.8,
         "3": 19.5,
-        "4": 14.1,
-        "5": 25.3
-      }
-    },
-    {
-      "average": 16.6,
-      "filename": "jalen-hurts.php",
-      "games": 5,
-      "player_id": 19275,
-      "player_name": "Jalen Hurts",
-      "points": 83.02,
-      "position_id": "QB",
-      "team_id": "PHI",
-      "weeks": {
-        "1": 24.7,
-        "2": 18.2,
-        "3": 13.6,
-        "4": 13.5,
-        "5": 13
-      }
-    },
-    {
-      "average": 18,
-      "filename": "trevor-lawrence.php",
-      "games": 5,
-      "player_id": 19780,
-      "player_name": "Trevor Lawrence",
-      "points": 89.86,
-      "position_id": "QB",
-      "team_id": "JAC",
-      "weeks": {
-        "1": 26.1,
-        "2": 7.2,
-        "3": 20.8,
-        "4": 13.1,
-        "5": 22.7
-      }
-    },
-    {
-      "average": 0,
-      "filename": "justin-fields.php",
-      "games": 1,
-      "player_id": 19781,
-      "player_name": "Justin Fields",
-      "points": 0,
-      "position_id": "QB",
-      "team_id": "KC",
-      "weeks": {
-        "1": 0
-      }
-    },
-    {
-      "average": 23.7,
-      "filename": "brock-purdy.php",
-      "games": 5,
-      "player_id": 19797,
-      "player_name": "Brock Purdy",
-      "points": 118.64,
-      "position_id": "QB",
-      "team_id": "SF",
-      "weeks": {
-        "1": 22.1,
-        "2": 28.5,
-        "3": 31.3,
-        "4": 19.6,
-        "5": 17.2
-      }
-    },
-    {
-      "average": 1,
-      "filename": "kenny-pickett.php",
-      "games": 2,
-      "player_id": 22722,
-      "player_name": "Kenny Pickett",
-      "points": 2,
-      "position_id": "QB",
-      "team_id": "CAR",
-      "weeks": {
-        "1": 2.4,
-        "2": -0.4
+        "4": 19.5
       }
     },
     {
@@ -461,69 +131,34 @@
       }
     },
     {
-      "average": 21.6,
-      "filename": "jayden-daniels.php",
-      "games": 3,
-      "player_id": 22902,
-      "player_name": "Jayden Daniels",
-      "points": 64.66,
+      "average": 12.9,
+      "filename": "cam-ward.php",
+      "games": 5,
+      "player_id": 24755,
+      "player_name": "Cam Ward",
+      "points": 64.74,
       "position_id": "QB",
-      "team_id": "WAS",
+      "team_id": "TEN",
       "weeks": {
-        "1": 17.7,
-        "2": 14.7,
-        "5": 32.3
+        "1": 11.7,
+        "2": 20,
+        "3": 10.4,
+        "4": 16.6,
+        "5": 6
       }
     },
     {
-      "average": 13.6,
-      "filename": "bo-nix.php",
-      "games": 5,
-      "player_id": 22910,
-      "player_name": "Bo Nix",
-      "points": 68.18,
+      "average": 4.6,
+      "filename": "cooper-rush.php",
+      "games": 2,
+      "player_id": 16477,
+      "player_name": "Cooper Rush",
+      "points": 9.16,
       "position_id": "QB",
-      "team_id": "DEN",
+      "team_id": "ATL",
       "weeks": {
-        "1": 6.4,
-        "2": 15.1,
-        "3": 25.1,
-        "4": 13.6,
-        "5": 7.9
-      }
-    },
-    {
-      "average": 18.8,
-      "filename": "drake-maye.php",
-      "games": 5,
-      "player_id": 23046,
-      "player_name": "Drake Maye",
-      "points": 94.22,
-      "position_id": "QB",
-      "team_id": "NE",
-      "weeks": {
-        "1": 12.8,
-        "2": 9,
-        "3": 5.8,
-        "4": 27.2,
-        "5": 39.5
-      }
-    },
-    {
-      "average": 17.8,
-      "filename": "cj-stroud.php",
-      "games": 5,
-      "player_id": 23071,
-      "player_name": "C.J. Stroud",
-      "points": 89.18,
-      "position_id": "QB",
-      "team_id": "HOU",
-      "weeks": {
-        "1": 16.5,
-        "2": 17,
-        "3": 11.7,
-        "4": 23.1,
-        "5": 20.9
+        "1": 7.7,
+        "2": 1.4
       }
     },
     {
@@ -538,23 +173,6 @@
       "weeks": {
         "1": 37.3,
         "2": 8.7
-      }
-    },
-    {
-      "average": 18,
-      "filename": "tyler-shough.php",
-      "games": 5,
-      "player_id": 23096,
-      "player_name": "Tyler Shough",
-      "points": 90.16,
-      "position_id": "QB",
-      "team_id": "NO",
-      "weeks": {
-        "1": 25.2,
-        "2": 22.4,
-        "3": 24.8,
-        "4": 15.9,
-        "5": 1.8
       }
     },
     {
@@ -589,6 +207,114 @@
       }
     },
     {
+      "average": 0,
+      "filename": "joe-flacco.php",
+      "games": 1,
+      "player_id": 9300,
+      "player_name": "Joe Flacco",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "CIN",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 16.6,
+      "filename": "jalen-hurts.php",
+      "games": 5,
+      "player_id": 19275,
+      "player_name": "Jalen Hurts",
+      "points": 83.02,
+      "position_id": "QB",
+      "team_id": "PHI",
+      "weeks": {
+        "1": 24.7,
+        "2": 18.2,
+        "3": 13.6,
+        "4": 13.5,
+        "5": 13
+      }
+    },
+    {
+      "average": -0.3,
+      "filename": "nick-mullens.php",
+      "games": 1,
+      "player_id": 16726,
+      "player_name": "Nick Mullens",
+      "points": -0.3,
+      "position_id": "QB",
+      "team_id": "JAC",
+      "weeks": {
+        "1": -0.3
+      }
+    },
+    {
+      "average": 17.8,
+      "filename": "cj-stroud.php",
+      "games": 5,
+      "player_id": 23071,
+      "player_name": "C.J. Stroud",
+      "points": 89.18,
+      "position_id": "QB",
+      "team_id": "HOU",
+      "weeks": {
+        "1": 16.5,
+        "2": 17,
+        "3": 11.7,
+        "4": 23.1,
+        "5": 20.9
+      }
+    },
+    {
+      "average": 19.4,
+      "filename": "dak-prescott.php",
+      "games": 5,
+      "player_id": 15600,
+      "player_name": "Dak Prescott",
+      "points": 96.84000000000002,
+      "position_id": "QB",
+      "team_id": "DAL",
+      "weeks": {
+        "1": 15.4,
+        "2": 29.8,
+        "3": 18.9,
+        "4": 18.1,
+        "5": 14.6
+      }
+    },
+    {
+      "average": 17.1,
+      "filename": "drew-lock.php",
+      "games": 2,
+      "player_id": 18225,
+      "player_name": "Drew Lock",
+      "points": 34.18,
+      "position_id": "QB",
+      "team_id": "SEA",
+      "weeks": {
+        "1": 12.8,
+        "2": 21.4
+      }
+    },
+    {
+      "average": 18,
+      "filename": "tyler-shough.php",
+      "games": 5,
+      "player_id": 23096,
+      "player_name": "Tyler Shough",
+      "points": 90.16,
+      "position_id": "QB",
+      "team_id": "NO",
+      "weeks": {
+        "1": 25.2,
+        "2": 22.4,
+        "3": 24.8,
+        "4": 15.9,
+        "5": 1.8
+      }
+    },
+    {
       "average": 1.4,
       "filename": "stetson-bennett.php",
       "games": 1,
@@ -602,20 +328,333 @@
       }
     },
     {
-      "average": 12.9,
-      "filename": "cam-ward.php",
+      "average": 18,
+      "filename": "trevor-lawrence.php",
       "games": 5,
-      "player_id": 24755,
-      "player_name": "Cam Ward",
-      "points": 64.74,
+      "player_id": 19780,
+      "player_name": "Trevor Lawrence",
+      "points": 89.86,
       "position_id": "QB",
-      "team_id": "TEN",
+      "team_id": "JAC",
       "weeks": {
-        "1": 11.7,
-        "2": 20,
-        "3": 10.4,
-        "4": 16.6,
-        "5": 6
+        "1": 26.1,
+        "2": 7.2,
+        "3": 20.8,
+        "4": 13.1,
+        "5": 22.7
+      }
+    },
+    {
+      "average": 23,
+      "filename": "jared-goff.php",
+      "games": 5,
+      "player_id": 15501,
+      "player_name": "Jared Goff",
+      "points": 115,
+      "position_id": "QB",
+      "team_id": "DET",
+      "weeks": {
+        "1": 16.4,
+        "2": 29.8,
+        "3": 19.4,
+        "4": 20.5,
+        "5": 28.9
+      }
+    },
+    {
+      "average": 17.9,
+      "filename": "jacoby-brissett.php",
+      "games": 5,
+      "player_id": 15642,
+      "player_name": "Jacoby Brissett",
+      "points": 89.3,
+      "position_id": "QB",
+      "team_id": "ARI",
+      "weeks": {
+        "1": 16.5,
+        "2": 7.5,
+        "3": 25.6,
+        "4": 13.4,
+        "5": 26.3
+      }
+    },
+    {
+      "average": 16.9,
+      "filename": "matthew-stafford.php",
+      "games": 4,
+      "player_id": 9451,
+      "player_name": "Matthew Stafford",
+      "points": 67.66,
+      "position_id": "QB",
+      "team_id": "LAR",
+      "weeks": {
+        "1": 5.1,
+        "2": 28,
+        "3": 22.9,
+        "4": 11.7
+      }
+    },
+    {
+      "average": 21.6,
+      "filename": "jayden-daniels.php",
+      "games": 3,
+      "player_id": 22902,
+      "player_name": "Jayden Daniels",
+      "points": 64.66,
+      "position_id": "QB",
+      "team_id": "WAS",
+      "weeks": {
+        "1": 17.7,
+        "2": 14.7,
+        "5": 32.3
+      }
+    },
+    {
+      "average": 19.3,
+      "filename": "kirk-cousins.php",
+      "games": 5,
+      "player_id": 11177,
+      "player_name": "Kirk Cousins",
+      "points": 96.56,
+      "position_id": "QB",
+      "team_id": "LV",
+      "weeks": {
+        "1": 15.8,
+        "2": 21.2,
+        "3": 22.2,
+        "4": 23.6,
+        "5": 13.7
+      }
+    },
+    {
+      "average": 0,
+      "filename": "justin-fields.php",
+      "games": 1,
+      "player_id": 19781,
+      "player_name": "Justin Fields",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "KC",
+      "weeks": {
+        "1": 0
+      }
+    },
+    {
+      "average": 13.9,
+      "filename": "geno-smith.php",
+      "games": 5,
+      "player_id": 11687,
+      "player_name": "Geno Smith",
+      "points": 69.66,
+      "position_id": "QB",
+      "team_id": "NYJ",
+      "weeks": {
+        "1": 9.3,
+        "2": 15.6,
+        "3": 26,
+        "4": 8.8,
+        "5": 10
+      }
+    },
+    {
+      "average": 18.8,
+      "filename": "drake-maye.php",
+      "games": 5,
+      "player_id": 23046,
+      "player_name": "Drake Maye",
+      "points": 94.22,
+      "position_id": "QB",
+      "team_id": "NE",
+      "weeks": {
+        "1": 12.8,
+        "2": 9,
+        "3": 5.8,
+        "4": 27.2,
+        "5": 39.5
+      }
+    },
+    {
+      "average": 23.7,
+      "filename": "brock-purdy.php",
+      "games": 5,
+      "player_id": 19797,
+      "player_name": "Brock Purdy",
+      "points": 118.64,
+      "position_id": "QB",
+      "team_id": "SF",
+      "weeks": {
+        "1": 22.1,
+        "2": 28.5,
+        "3": 31.3,
+        "4": 19.6,
+        "5": 17.2
+      }
+    },
+    {
+      "average": 10.4,
+      "filename": "kyler-murray.php",
+      "games": 4,
+      "player_id": 18600,
+      "player_name": "Kyler Murray",
+      "points": 41.78,
+      "position_id": "QB",
+      "team_id": "MIN",
+      "weeks": {
+        "1": 0.6,
+        "3": 11.4,
+        "4": 11.5,
+        "5": 18.3
+      }
+    },
+    {
+      "average": 20,
+      "filename": "lamar-jackson.php",
+      "games": 4,
+      "player_id": 17233,
+      "player_name": "Lamar Jackson",
+      "points": 80.08,
+      "position_id": "QB",
+      "team_id": "BAL",
+      "weeks": {
+        "1": 25,
+        "2": 15.8,
+        "3": 20.4,
+        "4": 18.9
+      }
+    },
+    {
+      "average": 18.6,
+      "filename": "jordan-love.php",
+      "games": 5,
+      "player_id": 19246,
+      "player_name": "Jordan Love",
+      "points": 93.12,
+      "position_id": "QB",
+      "team_id": "GB",
+      "weeks": {
+        "1": 20.5,
+        "2": 13.8,
+        "3": 19.5,
+        "4": 14.1,
+        "5": 25.3
+      }
+    },
+    {
+      "average": 12.8,
+      "filename": "carson-wentz.php",
+      "games": 2,
+      "player_id": 15520,
+      "player_name": "Carson Wentz",
+      "points": 25.54,
+      "position_id": "QB",
+      "team_id": "MIN",
+      "weeks": {
+        "1": 19.2,
+        "2": 6.3
+      }
+    },
+    {
+      "average": 16.2,
+      "filename": "deshaun-watson.php",
+      "games": 5,
+      "player_id": 16398,
+      "player_name": "Deshaun Watson",
+      "points": 81.10000000000001,
+      "position_id": "QB",
+      "team_id": "CLE",
+      "weeks": {
+        "1": 15,
+        "2": 19.7,
+        "3": 20.3,
+        "4": 13.9,
+        "5": 12.2
+      }
+    },
+    {
+      "average": 1,
+      "filename": "kenny-pickett.php",
+      "games": 2,
+      "player_id": 22722,
+      "player_name": "Kenny Pickett",
+      "points": 2,
+      "position_id": "QB",
+      "team_id": "CAR",
+      "weeks": {
+        "1": 2.4,
+        "2": -0.4
+      }
+    },
+    {
+      "average": 13.6,
+      "filename": "bo-nix.php",
+      "games": 5,
+      "player_id": 22910,
+      "player_name": "Bo Nix",
+      "points": 68.18,
+      "position_id": "QB",
+      "team_id": "DEN",
+      "weeks": {
+        "1": 6.4,
+        "2": 15.1,
+        "3": 25.1,
+        "4": 13.6,
+        "5": 7.9
+      }
+    },
+    {
+      "average": 12.1,
+      "filename": "justin-herbert.php",
+      "games": 5,
+      "player_id": 18635,
+      "player_name": "Justin Herbert",
+      "points": 60.68000000000001,
+      "position_id": "QB",
+      "team_id": "LAC",
+      "weeks": {
+        "1": 14.3,
+        "2": 9.9,
+        "3": 13.7,
+        "4": 11.6,
+        "5": 11.2
+      }
+    },
+    {
+      "average": 0,
+      "filename": "taylen-green.php",
+      "games": 1,
+      "player_id": 28094,
+      "player_name": "Taylen Green",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "CLE",
+      "weeks": {
+        "2": 0
+      }
+    },
+    {
+      "average": -0.2,
+      "filename": "mac-jones.php",
+      "games": 1,
+      "player_id": 20156,
+      "player_name": "Mac Jones",
+      "points": -0.2,
+      "position_id": "QB",
+      "team_id": "SF",
+      "weeks": {
+        "2": -0.2
+      }
+    },
+    {
+      "average": 1,
+      "filename": "jack-strand.php",
+      "games": 1,
+      "player_id": 28428,
+      "player_name": "Jack Strand",
+      "points": 0.96,
+      "position_id": "QB",
+      "team_id": "ATL",
+      "weeks": {
+        "2": 1
       }
     },
     {
@@ -634,36 +673,6 @@
       }
     },
     {
-      "average": 13.9,
-      "filename": "jameis-winston.php",
-      "games": 4,
-      "player_id": 13891,
-      "player_name": "Jameis Winston",
-      "points": 55.4,
-      "position_id": "QB",
-      "team_id": "NYG",
-      "weeks": {
-        "2": 3.5,
-        "3": 6.1,
-        "4": 20,
-        "5": 25.7
-      }
-    },
-    {
-      "average": 0,
-      "filename": "mason-rudolph.php",
-      "games": 2,
-      "player_id": 17234,
-      "player_name": "Mason Rudolph",
-      "points": 0.09999999999999998,
-      "position_id": "QB",
-      "team_id": "PIT",
-      "weeks": {
-        "2": 0.3,
-        "5": -0.2
-      }
-    },
-    {
       "average": 9.4,
       "filename": "tyler-huntley.php",
       "games": 3,
@@ -676,19 +685,6 @@
         "2": 0,
         "4": 4.1,
         "5": 24
-      }
-    },
-    {
-      "average": -0.2,
-      "filename": "mac-jones.php",
-      "games": 1,
-      "player_id": 20156,
-      "player_name": "Mac Jones",
-      "points": -0.2,
-      "position_id": "QB",
-      "team_id": "SF",
-      "weeks": {
-        "2": -0.2
       }
     },
     {
@@ -721,41 +717,32 @@
     },
     {
       "average": 0,
-      "filename": "taylen-green.php",
-      "games": 1,
-      "player_id": 28094,
-      "player_name": "Taylen Green",
-      "points": 0,
+      "filename": "mason-rudolph.php",
+      "games": 2,
+      "player_id": 17234,
+      "player_name": "Mason Rudolph",
+      "points": 0.09999999999999998,
       "position_id": "QB",
-      "team_id": "CLE",
+      "team_id": "PIT",
       "weeks": {
-        "2": 0
+        "2": 0.3,
+        "5": -0.2
       }
     },
     {
-      "average": 1,
-      "filename": "jack-strand.php",
-      "games": 1,
-      "player_id": 28428,
-      "player_name": "Jack Strand",
-      "points": 0.96,
+      "average": 13.9,
+      "filename": "jameis-winston.php",
+      "games": 4,
+      "player_id": 13891,
+      "player_name": "Jameis Winston",
+      "points": 55.4,
       "position_id": "QB",
-      "team_id": "ATL",
+      "team_id": "NYG",
       "weeks": {
-        "2": 1
-      }
-    },
-    {
-      "average": -1,
-      "filename": "andy-dalton.php",
-      "games": 1,
-      "player_id": 9907,
-      "player_name": "Andy Dalton",
-      "points": -1,
-      "position_id": "QB",
-      "team_id": "FA",
-      "weeks": {
-        "3": -1
+        "2": 3.5,
+        "3": 6.1,
+        "4": 20,
+        "5": 25.7
       }
     },
     {
@@ -774,29 +761,14 @@
       }
     },
     {
-      "average": 14.1,
-      "filename": "michael-penix-jr.php",
-      "games": 3,
-      "player_id": 22973,
-      "player_name": "Michael Penix Jr.",
-      "points": 42.16,
-      "position_id": "QB",
-      "team_id": "ATL",
-      "weeks": {
-        "3": 15,
-        "4": 12.7,
-        "5": 14.4
-      }
-    },
-    {
       "average": 0,
-      "filename": "quinn-ewers.php",
+      "filename": "shedeur-sanders.php",
       "games": 1,
-      "player_id": 23680,
-      "player_name": "Quinn Ewers",
+      "player_id": 25968,
+      "player_name": "Shedeur Sanders",
       "points": 0,
       "position_id": "QB",
-      "team_id": "JAC",
+      "team_id": "CLE",
       "weeks": {
         "3": 0
       }
@@ -810,32 +782,6 @@
       "points": 0,
       "position_id": "QB",
       "team_id": "LAR",
-      "weeks": {
-        "3": 0
-      }
-    },
-    {
-      "average": 1.4,
-      "filename": "tommy-devito.php",
-      "games": 1,
-      "player_id": 25746,
-      "player_name": "Tommy DeVito",
-      "points": 1.4,
-      "position_id": "QB",
-      "team_id": "NE",
-      "weeks": {
-        "3": 1.4
-      }
-    },
-    {
-      "average": 0,
-      "filename": "shedeur-sanders.php",
-      "games": 1,
-      "player_id": 25968,
-      "player_name": "Shedeur Sanders",
-      "points": 0,
-      "position_id": "QB",
-      "team_id": "CLE",
       "weeks": {
         "3": 0
       }
@@ -856,6 +802,60 @@
       }
     },
     {
+      "average": 14.1,
+      "filename": "michael-penix-jr.php",
+      "games": 3,
+      "player_id": 22973,
+      "player_name": "Michael Penix Jr.",
+      "points": 42.16,
+      "position_id": "QB",
+      "team_id": "ATL",
+      "weeks": {
+        "3": 15,
+        "4": 12.7,
+        "5": 14.4
+      }
+    },
+    {
+      "average": 1.4,
+      "filename": "tommy-devito.php",
+      "games": 1,
+      "player_id": 25746,
+      "player_name": "Tommy DeVito",
+      "points": 1.4,
+      "position_id": "QB",
+      "team_id": "NE",
+      "weeks": {
+        "3": 1.4
+      }
+    },
+    {
+      "average": -1,
+      "filename": "andy-dalton.php",
+      "games": 1,
+      "player_id": 9907,
+      "player_name": "Andy Dalton",
+      "points": -1,
+      "position_id": "QB",
+      "team_id": "FA",
+      "weeks": {
+        "3": -1
+      }
+    },
+    {
+      "average": 0,
+      "filename": "quinn-ewers.php",
+      "games": 1,
+      "player_id": 23680,
+      "player_name": "Quinn Ewers",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "JAC",
+      "weeks": {
+        "3": 0
+      }
+    },
+    {
       "average": 12,
       "filename": "athan-kaliakmanis.php",
       "games": 1,
@@ -866,19 +866,6 @@
       "team_id": "WAS",
       "weeks": {
         "4": 12
-      }
-    },
-    {
-      "average": -0.2,
-      "filename": "tyrod-taylor.php",
-      "games": 1,
-      "player_id": 10007,
-      "player_name": "Tyrod Taylor",
-      "points": -0.2,
-      "position_id": "QB",
-      "team_id": "GB",
-      "weeks": {
-        "5": -0.2
       }
     },
     {
@@ -905,6 +892,19 @@
       "team_id": "NYG",
       "weeks": {
         "5": 0.2
+      }
+    },
+    {
+      "average": -0.2,
+      "filename": "tyrod-taylor.php",
+      "games": 1,
+      "player_id": 10007,
+      "player_name": "Tyrod Taylor",
+      "points": -0.2,
+      "position_id": "QB",
+      "team_id": "GB",
+      "weeks": {
+        "5": -0.2
       }
     },
     {

@@ -3648,34 +3648,6 @@
       "team_id": "FA"
     },
     {
-      "filename": "chris-collier.php",
-      "fpid": 26597,
-      "mflid": 16810,
-      "name": "Chris Collier",
-      "position_id": "RB",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "rec_rec": 0,
-        "rec_tds": 0,
-        "rec_yds": 0,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "rush_att": 0,
-        "rush_tds": 0,
-        "rush_yds": 0,
-        "rush_yds_100": 0,
-        "rush_yds_200": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "LV"
-    },
-    {
       "filename": "deejay-dallas.php",
       "fpid": 19521,
       "mflid": 14815,
@@ -3702,6 +3674,34 @@
         "scrimage_yards_200": 0
       },
       "team_id": "MIN"
+    },
+    {
+      "filename": "chris-collier.php",
+      "fpid": 26597,
+      "mflid": 16810,
+      "name": "Chris Collier",
+      "position_id": "RB",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "rush_att": 0,
+        "rush_tds": 0,
+        "rush_yds": 0,
+        "rush_yds_100": 0,
+        "rush_yds_200": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "LV"
     }
   ],
   "positions": "RB",
