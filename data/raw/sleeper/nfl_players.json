@@ -8674,7 +8674,7 @@
     "injury_body_part": "Knee",
     "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "kalshi_id": "7d4be136-34df-4530-8653-a781d61fee71",
     "last_name": "Harrison",
     "metadata": {
@@ -54544,7 +54544,7 @@
       "rookie_year": "2025",
       "source_id": "3df08eca-e08d-408e-8962-652af5369b6c"
     },
-    "news_updated": 1788318925633,
+    "news_updated": 1791921949118,
     "number": 31,
     "oddsjam_id": "73328DFC5CD31977",
     "opta_id": null,
@@ -119430,7 +119430,7 @@
       "rookie_year": "2025",
       "source_id": "06150a7a-3af6-408f-a8ee-7bf3650565ed"
     },
-    "news_updated": 1791678908500,
+    "news_updated": 1791921348915,
     "number": 15,
     "oddsjam_id": "3C39E01DD312B9B3",
     "opta_id": null,
@@ -129227,7 +129227,7 @@
       "genius_id": "1516544",
       "rookie_year": "2025"
     },
-    "news_updated": 1791909048747,
+    "news_updated": 1791921349835,
     "number": 99,
     "oddsjam_id": "42622E04B5EB0EF3",
     "opta_id": null,
@@ -462215,7 +462215,7 @@
       "genius_id": "1003947",
       "rookie_year": "2018"
     },
-    "news_updated": 1790542856615,
+    "news_updated": 1791921648532,
     "number": 13,
     "oddsjam_id": "F7ACFEF9CC25",
     "opta_id": null,
@@ -575055,7 +575055,7 @@
       "genius_id": "1015480",
       "rookie_year": "2020"
     },
-    "news_updated": 1791234028546,
+    "news_updated": 1791921950892,
     "number": 28,
     "oddsjam_id": "0ECCBDDAB564",
     "opta_id": null,
@@ -628137,7 +628137,7 @@
       "injury_override_off_2026_1": "IR",
       "rookie_year": "2021"
     },
-    "news_updated": 1791825604410,
+    "news_updated": 1791921950877,
     "number": 5,
     "oddsjam_id": "DD955A224195",
     "opta_id": null,
@@ -632090,7 +632090,7 @@
       "genius_id": "1079181",
       "rookie_year": "2021"
     },
-    "news_updated": 1791258940814,
+    "news_updated": 1791921349822,
     "number": 82,
     "oddsjam_id": "C2C604CCB3D4",
     "opta_id": null,
@@ -684501,10 +684501,10 @@
     "hashtag": "#jamareesalyer-NFL-FA-69",
     "height": "76",
     "high_school": "Pace Academy (GA)",
-    "injury_body_part": "Knee",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "93c164f9-adf5-4d80-b52c-0cfec79fc8d6",
     "last_name": "Salyer",
     "metadata": {
