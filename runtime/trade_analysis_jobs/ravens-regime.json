@@ -1,5 +1,34 @@
 [
   {
+    "id": "mv6o45je-b565486f",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Win Championship",
+      "targetTeam": "Smoky Valley Wheat Warriors",
+      "targetAssets": [
+        {
+          "name": "Josh Downs",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Juwan Johnson",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "why does ravens regime have to add a second round pick?"
+    },
+    "createdAt": 1791895164329,
+    "updatedAt": 1791895164329,
+    "expiresAt": 1792327164329,
+    "status": "queued"
+  },
+  {
     "id": "mv6o1sch-06ddce38",
     "phase": "initial",
     "mode": "propose_trade",
