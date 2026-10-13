@@ -6,18 +6,36 @@
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 19:11:41",
+      "created_formated": "Tue, Oct 13th 7:11pm UTC",
+      "desc": "Panthers OL Damien Lewis was at practice on Tuesday. ",
+      "id": 613672,
+      "impact": "Lewis is working his way back from an ankle injury. His status will need to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/613672/damien-lewis-elbow-practice-tuesday.php",
+      "player_id": 19371,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Damien Lewis (elbow) at practice Tuesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
         "News"
       ],
-      "created": "2026-10-12 23:11:13",
-      "created_formated": "Mon, Oct 12th 11:11pm UTC",
-      "desc": "The Cardinals are expected to have the discussion of moving QB Carson Beck to the backup role. ",
-      "id": 613590,
-      "impact": "Beck has been the emergency quarterback for Arizona. Gardner Minshew has been the backup behind Jacoby Brissett. ",
-      "link": "https://www.fantasypros.com/nfl/news/613590/carson-beck-cardinals-to-discuss-moving-beck-to-active-roster.php",
-      "player_id": 22953,
+      "created": "2026-10-13 18:54:14",
+      "created_formated": "Tue, Oct 13th 6:54pm UTC",
+      "desc": "Veteran LB Germaine Pratt has re-signed with Colts.",
+      "id": 613671,
+      "impact": "Pratt will join the Colts practice squad. ",
+      "link": "https://www.fantasypros.com/nfl/news/613671/germaine-pratt-re-signs-with-colts.php",
+      "player_id": 18291,
       "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Carson Beck: Cardinals to discuss moving rookie to active roster"
+      "team_id": "FA",
+      "title": "Germaine Pratt re-signs with Colts"
     },
     {
       "author": "Ari Koslow",
@@ -26,425 +44,404 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-12 23:08:44",
-      "created_formated": "Mon, Oct 12th 11:08pm UTC",
-      "desc": "Chargers head coach Jim Harbaugh said Ladd McConkey was only available in an emergency scenario in Sunday's game against the Broncos. ",
-      "id": 613589,
-      "impact": "McConkey was active, but he did not play a snap. He'll need to be monitored in practice this week. ",
-      "link": "https://www.fantasypros.com/nfl/news/613589/ladd-mcconkey-foot-was-active-sunday-did-not-play-snap.php",
+      "created": "2026-10-13 18:50:01",
+      "created_formated": "Tue, Oct 13th 6:50pm UTC",
+      "desc": "Chargers coach Jim Harbaugh said that Ladd McConkey is \"working back in this week.\"",
+      "id": 613670,
+      "impact": "McConkey was active this past week, but he did not see the field. His status will need to be monitored the rest of this week. ",
+      "link": "https://www.fantasypros.com/nfl/news/613670/ladd-mcconkey-foot-working-back-this-week.php",
       "player_id": 26122,
       "sport_id": "NFL",
       "team_id": "LAC",
-      "title": "Ladd McConkey (foot) was active Sunday, did not play a snap "
+      "title": "Ladd McConkey (foot) 'working back this week'"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 18:48:34",
+      "created_formated": "Tue, Oct 13th 6:48pm UTC",
+      "desc": "Chargers coach Jim Harbaugh said Quentin Johnston will \"probably be limited this week like last for the practice.\"",
+      "id": 613669,
+      "impact": "\"We'll see where he's at the end of the week,\" Harbaugh said. Johnston will have a chance to return in Week 6. ",
+      "link": "https://www.fantasypros.com/nfl/news/613669/quentin-johnston-chest-expected-to-be-limited-practice.php",
+      "player_id": 23123,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Quentin Johnston (chest) expected to be limited in practice "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 18:47:28",
+      "created_formated": "Tue, Oct 13th 6:47pm UTC",
+      "desc": "Chargers coach Jim Harbaugh said Tre' Harris is \"more of a week-to-week [thing].\"",
+      "id": 613668,
+      "impact": "Harris will likely be targeting a return in Week 8 following the Chargers bye. ",
+      "link": "https://www.fantasypros.com/nfl/news/613668/tre-harris-hamstring-considered-week-to-week.php",
+      "player_id": 26215,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Tre' Harris (hamstring) considered week-to-week "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 18:45:42",
+      "created_formated": "Tue, Oct 13th 6:45pm UTC",
+      "desc": "Chargers coach Jim Harbaugh said OT Joe Alt will see a specialist.",
+      "id": 613667,
+      "impact": "Alt remains week-to-week. ",
+      "link": "https://www.fantasypros.com/nfl/news/613667/joe-alt-neck-to-visit-specialist.php",
+      "player_id": 26094,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Joe Alt (neck) to visit specialist "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-13 18:44:22",
+      "created_formated": "Tue, Oct 13th 6:44pm UTC",
+      "desc": "NFL Network's Ian Rapoport reports Jauan Jennings \"would be a name for me to keep an eye on\" for the 49ers.",
+      "id": 613666,
+      "impact": "Jennings has been disappointing to start the season with the Vikings. A reunion with the 49ers could be a possibility as their wide receiver room remains banged up. ",
+      "link": "https://www.fantasypros.com/nfl/news/613666/jauan-jennings-49ers-team-to-monitor.php",
+      "player_id": 19590,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Jauan Jennings: 49ers team to monitor "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-13 18:41:53",
+      "created_formated": "Tue, Oct 13th 6:41pm UTC",
+      "desc": "The Cowboys are expected to re-sign RB Emari Demercado.",
+      "id": 613665,
+      "impact": "Demercado had been competing with Tyler Goodson for the backup role. He will remain off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/613665/emari-demercado-expected-to-re-sign-with-cowboys.php",
+      "player_id": 25654,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Emari Demercado expected to re-sign with Cowboys "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 18:40:22",
+      "created_formated": "Tue, Oct 13th 6:40pm UTC",
+      "desc": "Panthers coach Dave Canales said Jalen Coker is \"on track\" to play in Carolina's Week 6 game against the Eagles.",
+      "id": 613664,
+      "impact": "This confirms a previous report from Monday. He was spotted practicing on Tuesday. ",
+      "link": "https://www.fantasypros.com/nfl/news/613664/jalen-coker-quad-remains-on-track-to-return-week-6.php",
+      "player_id": 26403,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Jalen Coker (quad) remains on track to return in Week 6"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-13 18:38:08",
+      "created_formated": "Tue, Oct 13th 6:38pm UTC",
+      "desc": "The Browns are reportedly seeking a third or fourth-round pick for WR Jerry Jeudy.",
+      "id": 613663,
+      "impact": "Jordan Schultz reported he's not sure they'll be able to get it. Jeudy will be a player to monitor closer to the trade deadline. ",
+      "link": "https://www.fantasypros.com/nfl/news/613663/jerry-jeudy-could-be-traded-by-browns.php",
+      "player_id": 19201,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Jerry Jeudy could be traded by Browns"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-13 17:31:01",
+      "created_formated": "Tue, Oct 13th 5:31pm UTC",
+      "desc": "The Rams signed kicker Blake Grupe off the Jets practice squad.",
+      "id": 613662,
+      "impact": "Grupe will get an opportunity with the Rams with Harrison Mevis released. ",
+      "link": "https://www.fantasypros.com/nfl/news/613662/blake-grupe-signed-by-rams.php",
+      "player_id": 25533,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Blake Grupe signed by Rams"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-13 17:29:37",
+      "created_formated": "Tue, Oct 13th 5:29pm UTC",
+      "desc": "The Rams released kicker Harrison Mevis.",
+      "id": 613661,
+      "impact": "Mevis missed two field goals in Monday's loss against the Bills. The Rams signed Blake Grupe off the Jets practice squad as the corresponding move. ",
+      "link": "https://www.fantasypros.com/nfl/news/613661/harrison-mevis-released-by-rams.php",
+      "player_id": 26638,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Harrison Mevis released by Rams"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 16:30:08",
+      "created_formated": "Tue, Oct 13th 4:30pm UTC",
+      "desc": "The Panthers placed DT Cam Jackson on injured reserve with a shoulder injury. ",
+      "id": 613660,
+      "impact": "Jackson will be sidelined for at least the next four weeks. ",
+      "link": "https://www.fantasypros.com/nfl/news/613660/cam-jackson-shoulder-placed-on-ir.php",
+      "player_id": 27521,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Cam Jackson (shoulder) placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 16:28:43",
+      "created_formated": "Tue, Oct 13th 4:28pm UTC",
+      "desc": "The Panthers have opened the practice window for Trevor Etienne. ",
+      "id": 613659,
+      "impact": "Etienne missed the start of the season due to an ankle injury he suffered in the preseason. He will have 21 days to officially be activated by Carolina. ",
+      "link": "https://www.fantasypros.com/nfl/news/613659/trevor-etienne-ankle-has-practice-window-opened.php",
+      "player_id": 25393,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Trevor Etienne (ankle) has practice window opened "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 16:27:44",
+      "created_formated": "Tue, Oct 13th 4:27pm UTC",
+      "desc": "The Panthers have opened the practice window for Tershawn Wharton. ",
+      "id": 613658,
+      "impact": "Wharton missed the start of the season due to a neck injury. He will have 21 days to officially be activated by Carolina. ",
+      "link": "https://www.fantasypros.com/nfl/news/613658/tershawn-wharton-neck-has-practice-window-opened.php",
+      "player_id": 19649,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Tershawn Wharton (neck) has practice window opened "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 16:27:06",
+      "created_formated": "Tue, Oct 13th 4:27pm UTC",
+      "desc": "The Panthers have opened the practice window for Taylor Moton. ",
+      "id": 613657,
+      "impact": "Moton missed the start of the season due to a blood clot. He will have 21 days to officially be activated by Carolina. ",
+      "link": "https://www.fantasypros.com/nfl/news/613657/taylor-moton-blood-clot-has-practice-window-opened.php",
+      "player_id": 16710,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Taylor Moton (blood clot) has practice window opened"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 16:13:09",
+      "created_formated": "Tue, Oct 13th 4:13pm UTC",
+      "desc": "Patriots LT Will Campbell avoided a major knee injury Sunday and is considered week-to-week.",
+      "id": 613656,
+      "impact": "It is positive news for Campbell and the Patriots. He will likely miss at least one game, but he shouldn't miss too much time. ",
+      "link": "https://www.fantasypros.com/nfl/news/613656/will-campbell-knee-considered-week-to-week.php",
+      "player_id": 27011,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Will Campbell (knee) considered week-to-week "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-13 16:10:09",
+      "created_formated": "Tue, Oct 13th 4:10pm UTC",
+      "desc": "The Panthers released LB Cam Gill. ",
+      "id": 613655,
+      "impact": "Gill will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/613655/cam-gill-released-by-panthers.php",
+      "player_id": 19635,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Cam Gill released by Panthers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-13 16:09:09",
+      "created_formated": "Tue, Oct 13th 4:09pm UTC",
+      "desc": "The Panthers signed CB Robert Rochell. ",
+      "id": 613654,
+      "impact": "Rochell was with Carolina last year and earlier this season. ",
+      "link": "https://www.fantasypros.com/nfl/news/613654/robert-rochell-signs-with-panthers.php",
+      "player_id": 22848,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Robert Rochell signs with Panthers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-13 16:06:59",
+      "created_formated": "Tue, Oct 13th 4:06pm UTC",
+      "desc": "Eagles defensive coordinator Vic Fangio said that it would be \"miraculous\" if Jalyx Hunt is able to play against the Panthers in Week 6.",
+      "id": 613653,
+      "impact": "Hunt left last Sunday's game with knee and ankle injuries. He is likely to miss at least one game. ",
+      "link": "https://www.fantasypros.com/nfl/news/613653/jalyx-hunt-kneeankle-unlikely-to-play-week-6.php",
+      "player_id": 26337,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Jalyx Hunt (knee/ankle) unlikely to play in Week 6"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-13 15:21:31",
+      "created_formated": "Tue, Oct 13th 3:21pm UTC",
+      "desc": "Kaevon Merriweather has been signed from the practice squad to the Jaguars' active roster.",
+      "id": 613652,
+      "impact": "Merriweather saw in-game action for the first time this season in the Jaguars' Week 5 win over the Eagles. The veteran defensive back played in his familiar special-teams role and saw about a third of the snaps on defense with safety Eric Murray (concussion) sidelined. ",
+      "link": "https://www.fantasypros.com/nfl/news/613652/kaevon-merriweather-joins-jaguars-roster.php",
+      "player_id": 25869,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Kaevon Merriweather joins Jaguars roster"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-13 15:13:18",
+      "created_formated": "Tue, Oct 13th 3:13pm UTC",
+      "desc": "Devin Neal has signed with the Commanders.",
+      "id": 613651,
+      "impact": "Neal will initially join Washington's practice squad to provide depth at running back. The second-year pro was released by the Vikings last week. After being selected in the sixth round of last year's NFL Draft, Neal played in 10 games for the Saints last season, rushing for over 200 yards and a couple of touchdowns on 57 carries. He also displayed pass-catching ability, securing 17 of 19 targets for 104 yards. ",
+      "link": "https://www.fantasypros.com/nfl/news/613651/devin-neal-signs-with-commanders.php",
+      "player_id": 23682,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Devin Neal signs with Commanders "
+    },
+    {
+      "author": "Nate Miller",
       "categories": [
         "Commentary",
         "News",
         "Injury",
         "Breaking"
       ],
-      "created": "2026-10-12 22:52:51",
-      "created_formated": "Mon, Oct 12th 10:52pm UTC",
-      "desc": "DJ Moore (shoulder) is officially inactive for Week 5 for the Buffalo Bills against the Los Angeles Rams.",
-      "id": 613588,
-      "impact": "Moore will not suit up after being unable to progress through pregame activities while entering Monday night with a questionable designation, leaving quarterback Josh Allen without his top pass-catching option against the Rams. Khalil Shakir should command more targets in the wideout's absence Monday night.",
-      "link": "https://www.fantasypros.com/nfl/news/613588/dj-moore-shoulder-inactive-week-5.php",
-      "player_id": 17265,
+      "created": "2026-10-13 14:36:40",
+      "created_formated": "Tue, Oct 13th 2:36pm UTC",
+      "desc": "TreVeyon Henderson will miss multiple weeks due to a high-ankle sprain. ",
+      "id": 613650,
+      "impact": "Henderson left Sunday's game early and was reevaluated Monday. On a positive note, the young running back will not require surgery, but he is going to miss some games. Veteran Rhamondre Stevenson will take over as the ball carrier in Henderson's absence. ",
+      "link": "https://www.fantasypros.com/nfl/news/613650/treveyon-henderson-ankle-to-miss-multiple-weeks.php",
+      "player_id": 23065,
       "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "DJ Moore (shoulder) inactive for Week 5"
+      "team_id": "NE",
+      "title": "TreVeyon Henderson (ankle) to miss multiple weeks "
     },
     {
-      "author": "Ari Koslow",
+      "author": "Nate Miller",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-10-12 21:53:25",
-      "created_formated": "Mon, Oct 12th 9:53pm UTC",
-      "desc": "The Bengals placed LB Swayze Bozeman on the Reserved/Injured list.",
-      "id": 613587,
-      "impact": "Cincinnati claimed LB Jack Kiser off waivers as the corresponding move. ",
-      "link": "https://www.fantasypros.com/nfl/news/613587/swayze-bozeman-placed-on-ir.php",
-      "player_id": 26817,
+      "created": "2026-10-13 14:26:06",
+      "created_formated": "Tue, Oct 13th 2:26pm UTC",
+      "desc": "Tanner Hudson (pectoral) will miss the rest of the season. ",
+      "id": 613649,
+      "impact": "After hauling in his first touchdown pass of the campaign in Week 5, Hudson is dealing with a torn pectoral that will force him out for the remainder of the season. Erick All Jr. saw an uptick in snaps after Hudson left Sunday's game. ",
+      "link": "https://www.fantasypros.com/nfl/news/613649/tanner-hudson-pectoral-to-miss-rest-season.php",
+      "player_id": 17826,
       "sport_id": "NFL",
       "team_id": "CIN",
-      "title": "Swayze Bozeman placed on IR"
+      "title": "Tanner Hudson (pectoral) to miss rest of the season "
     },
     {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-12 21:52:32",
-      "created_formated": "Mon, Oct 12th 9:52pm UTC",
-      "desc": "The Bengals claimed Jack Kiser off waivers from the Jaguars. ",
-      "id": 613586,
-      "impact": "Kiser will add depth at linebacker for Cincinnati. ",
-      "link": "https://www.fantasypros.com/nfl/news/613586/jack-kiser-claimed-off-waivers-by-bengals.php",
-      "player_id": 27243,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Jack Kiser claimed off waivers by Bengals"
-    },
-    {
-      "author": "Ari Koslow",
+      "author": "Matthew Adam",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-12 21:50:59",
-      "created_formated": "Mon, Oct 12th 9:50pm UTC",
-      "desc": "Ravens OLB Trey Hendrickson is looking to return for Sunday's game at the Browns.",
-      "id": 613585,
-      "impact": "Hendrickson has missed the past two games after having finger surgery. \"I think Trey will be chomping at the bit to be ready to roll this week,\" Ravens coach Jesse Minter said.",
-      "link": "https://www.fantasypros.com/nfl/news/613585/trey-hendrickson-finger-targeting-return-week-6.php",
-      "player_id": 16719,
+      "created": "2026-10-13 10:14:32",
+      "created_formated": "Tue, Oct 13th 10:14am UTC",
+      "desc": "The Rams D/ST allowed 37 points while notching one sack and forcing two turnovers in a 37-34 overtime loss to the Bills in Week 5.",
+      "id": 613645,
+      "impact": "Los Angeles had a tough time slowing the Bills offense, especially on the ground as Buffalo racked up 234 rushing yards. The Rams did recover a James Cook fumble in overtime. The Rams will look to bounce back against the Cardinals in Week 6.",
+      "link": "https://www.fantasypros.com/nfl/news/613645/rams-dst-allows-37-points-ot-loss.php",
+      "player_id": 8280,
       "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Trey Hendrickson (finger) targeting return in Week 6"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-12 21:49:39",
-      "created_formated": "Mon, Oct 12th 9:49pm UTC",
-      "desc": "The Raiders signed veteran LS Jacob Bobenmoyer.",
-      "id": 613584,
-      "impact": "Bobenmoyer will be the new long snapper for the Raiders. ",
-      "link": "https://www.fantasypros.com/nfl/news/613584/jacob-bobenmoyer-signs-with-raiders.php",
-      "player_id": 18812,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Jacob Bobenmoyer signs with Raiders "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-12 21:48:36",
-      "created_formated": "Mon, Oct 12th 9:48pm UTC",
-      "desc": "The Bills released Mike Danna. ",
-      "id": 613583,
-      "impact": "Danna will figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/613583/mike-danna-released-by-bills.php",
-      "player_id": 19550,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Mike Danna released by Bills"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-12 21:47:20",
-      "created_formated": "Mon, Oct 12th 9:47pm UTC",
-      "desc": "The Raiders signed Jamari Thrash to the practice squad. ",
-      "id": 613582,
-      "impact": "Thrash will add depth in the Raiders wide receiver room. ",
-      "link": "https://www.fantasypros.com/nfl/news/613582/jamari-thrash-signs-with-raiders.php",
-      "player_id": 26162,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Jamari Thrash signs with Raiders "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:46:30",
-      "created_formated": "Mon, Oct 12th 9:46pm UTC",
-      "desc": "The Raiders placed WR Tyler Scott on the practice squad injured list. ",
-      "id": 613581,
-      "impact": "Las Vegas signed Jamari Thrash as the corresponding move. ",
-      "link": "https://www.fantasypros.com/nfl/news/613581/tyler-scott-placed-on-practice-squad-injured-list.php",
-      "player_id": 25442,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Tyler Scott placed on practice squad injured list"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-12 21:45:18",
-      "created_formated": "Mon, Oct 12th 9:45pm UTC",
-      "desc": "The Giants signed DE Dawuane Smoot to the practice squad.",
-      "id": 613580,
-      "impact": "Smoot played eight of his nine NFL seasons in Jacksonville. He will add depth on the defensive line for the Giants. ",
-      "link": "https://www.fantasypros.com/nfl/news/613580/dawuane-smoot-signs-with-giants.php",
-      "player_id": 16587,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Dawuane Smoot signs with Giants "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-12 21:27:04",
-      "created_formated": "Mon, Oct 12th 9:27pm UTC",
-      "desc": "The Vikings worked out veteran WR JuJu Smith-Schuster on Monday. ",
-      "id": 613579,
-      "impact": "Smith-Schuster was released by the Giants before the start of the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/613579/juju-smith-schuster-works-out-vikings.php",
-      "player_id": 16427,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "JuJu Smith-Schuster works out for Vikings"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:23:20",
-      "created_formated": "Mon, Oct 12th 9:23pm UTC",
-      "desc": "Sai'vion Jones was listed as a limited practice on Monday's estimated practice report. ",
-      "id": 613578,
-      "impact": "Jones will have a chance to be good to go on Thursday against the Seahawks. ",
-      "link": "https://www.fantasypros.com/nfl/news/613578/saivion-jones-shoulder-limited-on-estimated-injury-report.php",
-      "player_id": 27281,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Sai'vion Jones (shoulder) limited on estimated injury report "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:22:09",
-      "created_formated": "Mon, Oct 12th 9:22pm UTC",
-      "desc": "Riley Moss was listed as \"DNP\" on Monday's estimated practice report. ",
-      "id": 613577,
-      "impact": "It is a short week for Denver against the Seahawks on Thursday. Moss will need to be monitored in practice on Tuesday and Wednesday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613577/riley-moss-ribs-listed-dnp-on-estimated-practice-report.php",
-      "player_id": 25459,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Riley Moss (ribs) listed as DNP on estimated practice report "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:21:17",
-      "created_formated": "Mon, Oct 12th 9:21pm UTC",
-      "desc": "Pat Surtain II was listed as \"DNP\" on Monday's estimated practice report. ",
-      "id": 613576,
-      "impact": "It is a short week for Denver against the Seahawks on Thursday. Surtain will need to be monitored in practice on Tuesday and Wednesday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613576/pat-surtain-ii-ankle-listed-dnp-on-estimated-practice-report.php",
-      "player_id": 23609,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Pat Surtain II (ankle) listed as DNP on estimated practice report"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:20:23",
-      "created_formated": "Mon, Oct 12th 9:20pm UTC",
-      "desc": "Talanoa Hufanga was listed as \"DNP\" on Monday's estimated practice report. ",
-      "id": 613575,
-      "impact": "It is a short week for Denver against the Seahawks on Thursday. Hufanga will need to be monitored in practice on Tuesday and Wednesday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613575/talanoa-hufanga-ankle-listed-dnp-on-estimated-practice-report.php",
-      "player_id": 22817,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Talanoa Hufanga (ankle) listed as DNP on estimated practice report "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:17:16",
-      "created_formated": "Mon, Oct 12th 9:17pm UTC",
-      "desc": "George Holani was a full participant on Monday's estimated practice report. ",
-      "id": 613574,
-      "impact": "Holani will figure to remain in his usual role for one more week with Zach Charbonnet missing one more game. He remains off the fantasy radar. ",
-      "link": "https://www.fantasypros.com/nfl/news/613574/george-holani-ribsknee-fully-practices-on-estimated-practice-report.php",
-      "player_id": 22915,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "George Holani (ribs/knee) fully practices on estimated practice report "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:14:38",
-      "created_formated": "Mon, Oct 12th 9:14pm UTC",
-      "desc": "Irvin Charles was listed as a full participant on Monday's estimated practice report. ",
-      "id": 613573,
-      "impact": "Charles has a chance to officially be activated by Seattle for Thursday's game against the Broncos. ",
-      "link": "https://www.fantasypros.com/nfl/news/613573/irvin-charles-knee-listed-full-participant-on-estimated-practice-repor.php",
-      "player_id": 24904,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Irvin Charles (knee) full participant on estimated practice report"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:13:49",
-      "created_formated": "Mon, Oct 12th 9:13pm UTC",
-      "desc": "Drake Thomas was listed as a \"DNP\" on Monday's estimated injury report. ",
-      "id": 613572,
-      "impact": "The status of Thomas is uncertain for Thursday's game against the Broncos on a short week for Seattle.  ",
-      "link": "https://www.fantasypros.com/nfl/news/613572/drake-thomas-ankle-dnp-on-estimated-practice-report-monday.php",
-      "player_id": 25905,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Drake Thomas (ankle) 'DNP' on estimated practice report Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:12:58",
-      "created_formated": "Mon, Oct 12th 9:12pm UTC",
-      "desc": "Chazz Surratt was listed as a \"DNP\" on Monday's estimated injury report. ",
-      "id": 613571,
-      "impact": "Surratt's status is uncertain for Thursday's game against the Broncos on a short week for Seattle.  ",
-      "link": "https://www.fantasypros.com/nfl/news/613571/chazz-surratt-calf-dnp-estimated-practice-monday.php",
-      "player_id": 22717,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Chazz Surratt (calf) DNP in estimated practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:11:14",
-      "created_formated": "Mon, Oct 12th 9:11pm UTC",
-      "desc": "Leonard Williams was listed as being limited on Monday's estimated injury report. ",
-      "id": 613570,
-      "impact": "Williams was playing through an ankle injury on Sunday that he suffered in Week 4. It is a short week for Seattle, but he should still be good to go for Thursday's game against the Broncos. ",
-      "link": "https://www.fantasypros.com/nfl/news/613570/leonard-williams-ankle-limited-on-estimated-injury-report-monday.php",
-      "player_id": 13892,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Leonard Williams (ankle) limited on estimated injury report Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 21:09:33",
-      "created_formated": "Mon, Oct 12th 9:09pm UTC",
-      "desc": "Jaxon Smith-Njigba was listed as a limited participant on Monday's estimated injury report. ",
-      "id": 613569,
-      "impact": "Smith-Njigba missed some time in Sunday's game after he twisted his ankle, but he was able to finish the game. He should be good to go on Thursday against the Broncos. ",
-      "link": "https://www.fantasypros.com/nfl/news/613569/jaxon-smith-njigba-ankle-limited-on-estimated-injury-report-monday.php",
-      "player_id": 23070,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Jaxon Smith-Njigba (ankle) limited on estimated injury report Monday"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-11 17:55:59",
-      "created_formated": "Sun, Oct 11th 5:55pm UTC",
-      "desc": "KC Concepcion (head) has been ruled out  for the remainder of the Browns game against the Jets on Sunday after a dirty hit from Minkah Fitzpatrick.",
-      "id": 613230,
-      "impact": "Fitzpatrick had ripped off KC's helmet previously before targeting his head while the rookie was making a grab. He most certainly has a concussion, and will likely be questionable for next weeks game. Denzel Boston will headline the Browns receiver group with KC out, with Jerry Jeudy seeing additional snaps.",
-      "link": "https://www.fantasypros.com/nfl/news/613230/kc-concepcion-head-ruled-out-remainder-sunday.php",
-      "player_id": 27331,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "KC Concepcion (head) ruled out for remainder of Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 20:46:10",
-      "created_formated": "Mon, Oct 12th 8:46pm UTC",
-      "desc": "49ers head coach Kyle Shanahan said James Thompson Jr. has a chance to return in Week 6 against the Commanders. ",
-      "id": 613568,
-      "impact": "Thompson will need to be monitored in Pfaadt throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/613568/james-thompson-jr-ankle-could-return-week-6.php",
-      "player_id": 28559,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "James Thompson Jr. (ankle) could return in Week 6"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-12 20:45:22",
-      "created_formated": "Mon, Oct 12th 8:45pm UTC",
-      "desc": "49ers head coach Kyle Shanahan said Kyle Juszczyk has a chance to return in Week 6 against the Commanders. ",
-      "id": 613567,
-      "impact": "Juszczyk will need to be monitored in Pfaadt throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/613567/kyle-juszczyk-knee-hopeful-to-return-week-6.php",
-      "player_id": 11798,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kyle Juszczyk (knee) hopeful to return in Week 6"
+      "team_id": "LAR",
+      "title": "Rams D/ST allows 37 points in OT loss"
     }
   ],
   "public_api": true,

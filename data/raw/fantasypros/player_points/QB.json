@@ -99,19 +99,20 @@
       }
     },
     {
-      "average": 28.9,
+      "average": 29.4,
       "filename": "josh-allen-qb.php",
-      "games": 4,
+      "games": 5,
       "player_id": 17298,
       "player_name": "Josh Allen",
-      "points": 115.46,
+      "points": 146.95999999999998,
       "position_id": "QB",
       "team_id": "BUF",
       "weeks": {
         "1": 35.7,
         "2": 40.8,
         "3": 19.5,
-        "4": 19.5
+        "4": 19.5,
+        "5": 31.5
       }
     },
     {
@@ -379,19 +380,20 @@
       }
     },
     {
-      "average": 16.9,
+      "average": 19,
       "filename": "matthew-stafford.php",
-      "games": 4,
+      "games": 5,
       "player_id": 9451,
       "player_name": "Matthew Stafford",
-      "points": 67.66,
+      "points": 94.97999999999999,
       "position_id": "QB",
       "team_id": "LAR",
       "weeks": {
         "1": 5.1,
         "2": 28,
         "3": 22.9,
-        "4": 11.7
+        "4": 11.7,
+        "5": 27.3
       }
     },
     {
@@ -869,6 +871,19 @@
       }
     },
     {
+      "average": 0,
+      "filename": "joshua-dobbs.php",
+      "games": 1,
+      "player_id": 16417,
+      "player_name": "Joshua Dobbs",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "DET",
+      "weeks": {
+        "5": 0
+      }
+    },
+    {
       "average": 0.4,
       "filename": "tua-tagovailoa.php",
       "games": 1,
@@ -918,6 +933,19 @@
       "team_id": "LV",
       "weeks": {
         "5": 2.2
+      }
+    },
+    {
+      "average": 0,
+      "filename": "cole-payton.php",
+      "games": 1,
+      "player_id": 28302,
+      "player_name": "Cole Payton",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "PHI",
+      "weeks": {
+        "5": 0
       }
     }
   ],

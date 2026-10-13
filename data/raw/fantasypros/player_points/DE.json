@@ -67,9 +67,9 @@
       }
     },
     {
-      "average": 1.1,
+      "average": 0.9,
       "filename": "al-quadin-muhammad.php",
-      "games": 4,
+      "games": 5,
       "player_id": 16715,
       "player_name": "Al-Quadin Muhammad",
       "points": 4.5,
@@ -79,7 +79,8 @@
         "1": 1.5,
         "2": 0,
         "3": 2.3,
-        "4": 0.8
+        "4": 0.8,
+        "5": 0
       }
     },
     {
@@ -146,19 +147,20 @@
       }
     },
     {
-      "average": 2.1,
+      "average": 3.6,
       "filename": "josaiah-stewart.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27034,
       "player_name": "Josaiah Stewart",
-      "points": 8.25,
+      "points": 17.75,
       "position_id": "DE",
       "team_id": "LAR",
       "weeks": {
         "1": 5.3,
         "2": 0.8,
         "3": 1.5,
-        "4": 0.8
+        "4": 0.8,
+        "5": 9.5
       }
     },
     {
@@ -414,9 +416,9 @@
       }
     },
     {
-      "average": 2.1,
+      "average": 1.7,
       "filename": "derek-barnett.php",
-      "games": 4,
+      "games": 5,
       "player_id": 16386,
       "player_name": "Derek Barnett",
       "points": 8.5,
@@ -426,7 +428,8 @@
         "1": 0,
         "2": 5.5,
         "3": 3,
-        "4": 0
+        "4": 0,
+        "5": 0
       }
     },
     {
@@ -871,9 +874,9 @@
       }
     },
     {
-      "average": 0.4,
+      "average": 0.3,
       "filename": "dante-fowler.php",
-      "games": 4,
+      "games": 5,
       "player_id": 14020,
       "player_name": "Dante Fowler Jr.",
       "points": 1.5,
@@ -883,7 +886,8 @@
         "1": 0,
         "2": 0,
         "3": 0,
-        "4": 1.5
+        "4": 1.5,
+        "5": 0
       }
     },
     {
@@ -1001,9 +1005,9 @@
       }
     },
     {
-      "average": 1.1,
+      "average": 0.9,
       "filename": "matt-dickerson.php",
-      "games": 4,
+      "games": 5,
       "player_id": 17715,
       "player_name": "Matt Dickerson",
       "points": 4.5,
@@ -1013,7 +1017,8 @@
         "1": 0.8,
         "2": 0,
         "3": 3.8,
-        "4": 0
+        "4": 0,
+        "5": 0
       }
     },
     {
@@ -1119,9 +1124,9 @@
       }
     },
     {
-      "average": 3.3,
+      "average": 2.7,
       "filename": "anthony-nelson.php",
-      "games": 4,
+      "games": 5,
       "player_id": 18644,
       "player_name": "Anthony Nelson",
       "points": 13.25,
@@ -1131,7 +1136,8 @@
         "1": 2.3,
         "2": 1.5,
         "3": 8,
-        "4": 1.5
+        "4": 1.5,
+        "5": 0
       }
     },
     {
@@ -1280,9 +1286,9 @@
       }
     },
     {
-      "average": 2,
+      "average": 1.3,
       "filename": "connor-otoole.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27785,
       "player_name": "Connor O'Toole",
       "points": 4,
@@ -1290,7 +1296,8 @@
       "team_id": "SEA",
       "weeks": {
         "1": 0,
-        "4": 4
+        "4": 4,
+        "5": 0
       }
     },
     {
@@ -1343,19 +1350,20 @@
       }
     },
     {
-      "average": 21.3,
+      "average": 17.2,
       "filename": "gregory-rousseau.php",
-      "games": 4,
+      "games": 5,
       "player_id": 19787,
       "player_name": "Greg Rousseau",
-      "points": 85.25,
+      "points": 86,
       "position_id": "DE",
       "team_id": "BUF",
       "weeks": {
         "1": 28.5,
         "2": 21.5,
         "3": 27.8,
-        "4": 7.5
+        "4": 7.5,
+        "5": 0.8
       }
     },
     {
@@ -1393,19 +1401,20 @@
       }
     },
     {
-      "average": 10.7,
+      "average": 9.8,
       "filename": "byron-young-edge.php",
-      "games": 4,
+      "games": 5,
       "player_id": 25449,
       "player_name": "Byron Young",
-      "points": 42.75,
+      "points": 49,
       "position_id": "DE",
       "team_id": "LAR",
       "weeks": {
         "1": 0.8,
         "2": 12.5,
         "3": 3,
-        "4": 26.5
+        "4": 26.5,
+        "5": 6.3
       }
     },
     {
@@ -1442,7 +1451,7 @@
     {
       "average": 0,
       "filename": "chris-rumph-de.php",
-      "games": 4,
+      "games": 5,
       "player_id": 23252,
       "player_name": "Chris Rumph II",
       "points": 0,
@@ -1452,7 +1461,8 @@
         "1": 0,
         "2": 0,
         "3": 0,
-        "4": 0
+        "4": 0,
+        "5": 0
       }
     },
     {
@@ -1656,9 +1666,9 @@
       }
     },
     {
-      "average": 4.6,
+      "average": 3.7,
       "filename": "myles-murphy.php",
-      "games": 4,
+      "games": 5,
       "player_id": 24709,
       "player_name": "Myles Murphy",
       "points": 18.5,
@@ -1668,7 +1678,8 @@
         "1": 8.3,
         "2": 1.5,
         "3": 0,
-        "4": 8.8
+        "4": 8.8,
+        "5": 0
       }
     },
     {
@@ -1716,9 +1727,9 @@
       }
     },
     {
-      "average": 0.5,
+      "average": 0.4,
       "filename": "tyrus-wheat.php",
-      "games": 3,
+      "games": 4,
       "player_id": 25943,
       "player_name": "Tyrus Wheat",
       "points": 1.5,
@@ -1727,7 +1738,8 @@
       "weeks": {
         "2": 1.5,
         "3": 0,
-        "4": 0
+        "4": 0,
+        "5": 0
       }
     },
     {
@@ -1806,9 +1818,9 @@
       }
     },
     {
-      "average": 0.9,
+      "average": 0.7,
       "filename": "bryan-thomas-jr.php",
-      "games": 3,
+      "games": 4,
       "player_id": 28544,
       "player_name": "Bryan Thomas Jr.",
       "points": 2.75,
@@ -1817,13 +1829,14 @@
       "weeks": {
         "2": 0,
         "3": 2.8,
-        "4": 0
+        "4": 0,
+        "5": 0
       }
     },
     {
       "average": 0,
       "filename": "andre-jones.php",
-      "games": 2,
+      "games": 3,
       "player_id": 25594,
       "player_name": "Andre Jones Jr.",
       "points": 0,
@@ -1831,7 +1844,8 @@
       "team_id": "MIA",
       "weeks": {
         "3": 0,
-        "4": 0
+        "4": 0,
+        "5": 0
       }
     },
     {
@@ -1877,9 +1891,9 @@
       }
     },
     {
-      "average": 5.3,
+      "average": 3.5,
       "filename": "joseph-ossai.php",
-      "games": 2,
+      "games": 3,
       "player_id": 22696,
       "player_name": "Joseph Ossai",
       "points": 10.5,
@@ -1887,7 +1901,8 @@
       "team_id": "NYJ",
       "weeks": {
         "3": 1.5,
-        "4": 9
+        "4": 9,
+        "5": 0
       }
     },
     {
@@ -1941,6 +1956,19 @@
       "team_id": "CLE",
       "weeks": {
         "5": 9.5
+      }
+    },
+    {
+      "average": 0,
+      "filename": "drake-jackson-edge.php",
+      "games": 1,
+      "player_id": 24274,
+      "player_name": "Drake Jackson",
+      "points": 0,
+      "position_id": "DE",
+      "team_id": "ATL",
+      "weeks": {
+        "5": 0
       }
     }
   ],

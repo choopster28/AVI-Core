@@ -238,19 +238,20 @@
       }
     },
     {
-      "average": 7,
+      "average": 6.4,
       "filename": "harrison-mevis.php",
-      "games": 4,
+      "games": 5,
       "player_id": 26638,
       "player_name": "Harrison Mevis",
-      "points": 28,
+      "points": 32,
       "position_id": "K",
-      "team_id": "LAR",
+      "team_id": "FA",
       "weeks": {
         "1": 1,
         "2": 4,
         "3": 16,
-        "4": 7
+        "4": 7,
+        "5": 4
       }
     },
     {
@@ -406,19 +407,20 @@
       }
     },
     {
-      "average": 8,
+      "average": 9,
       "filename": "tyler-bass.php",
-      "games": 4,
+      "games": 5,
       "player_id": 19760,
       "player_name": "Tyler Bass",
-      "points": 32,
+      "points": 45,
       "position_id": "K",
       "team_id": "BUF",
       "weeks": {
         "1": 13,
         "2": 5,
         "3": 6,
-        "4": 8
+        "4": 8,
+        "5": 13
       }
     },
     {

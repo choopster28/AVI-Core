@@ -279,9 +279,9 @@
     "sleeper_id": "11586"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "25533",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "NYJ",
     "player_name": "Blake Grupe",
     "position": "K",
@@ -1485,9 +1485,9 @@
     "sleeper_id": "11435"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "25654",
-    "match_method": "exact_name_position",
+    "match_method": "exact_name_position_unique",
     "nfl_team": "DAL",
     "player_name": "Emari Demercado",
     "position": "RB",
@@ -2115,9 +2115,9 @@
     "sleeper_id": "3163"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "24335",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "MIA",
     "player_name": "Jarquez Hunter",
     "position": "RB",

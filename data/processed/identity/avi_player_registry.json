@@ -512,7 +512,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "MIN",
+    "nfl_team": "CLE",
     "normalized_name": "audric estime",
     "position": "RB",
     "source_ids": {
@@ -3118,7 +3118,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "FA",
+    "nfl_team": "WAS",
     "normalized_name": "devin neal",
     "position": "RB",
     "source_ids": {
@@ -3767,8 +3767,8 @@
     "avi_id": "AVI-00011199",
     "canonical_name": "Emari Demercado",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
     "nfl_team": "DAL",
     "normalized_name": "emari demercado",
@@ -5397,8 +5397,8 @@
     "avi_id": "AVI-00011569",
     "canonical_name": "Jarquez Hunter",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "MIA",
     "normalized_name": "jarquez hunter",
