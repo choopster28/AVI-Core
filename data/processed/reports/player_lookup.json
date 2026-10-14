@@ -51,6 +51,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00009479",
+      "c_avi": 56.5,
+      "d_avi": 62.5,
+      "nfl_team": "PIT",
+      "player_name": "Darnell Washington",
+      "position": "TE",
+      "sleeper_id": "9479",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00003634",
       "c_avi": 55.8,
       "d_avi": 70.2,
@@ -63,18 +75,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00009501",
-      "c_avi": 55.0,
-      "d_avi": 36.1,
-      "nfl_team": "NE",
-      "player_name": "DeMario Douglas",
-      "position": "WR",
-      "sleeper_id": "9501",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008119",
       "c_avi": 52.7,
       "d_avi": 70.8,
@@ -82,6 +82,18 @@
       "player_name": "Jahan Dotson",
       "position": "WR",
       "sleeper_id": "8119",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00011630",
+      "c_avi": 51.7,
+      "d_avi": 68.5,
+      "nfl_team": "PIT",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "sleeper_id": "11630",
       "status": "Active"
     },
     {
@@ -303,18 +315,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00002306",
-      "c_avi": 44.3,
-      "d_avi": 37.9,
-      "nfl_team": "NYG",
-      "player_name": "Jameis Winston",
-      "position": "QB",
-      "sleeper_id": "2306",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011655",
       "c_avi": 44.2,
       "d_avi": 59.6,
@@ -495,18 +495,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00011439",
-      "c_avi": 40.2,
-      "d_avi": 27.3,
-      "nfl_team": "CLE",
-      "player_name": "Jaleel McLaughlin",
-      "position": "RB",
-      "sleeper_id": "11439",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00013420",
       "c_avi": 40.1,
       "d_avi": 64.9,
@@ -562,6 +550,18 @@
       "player_name": "Ray Davis",
       "position": "RB",
       "sleeper_id": "11575",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00011577",
+      "c_avi": 39.5,
+      "d_avi": 30.6,
+      "nfl_team": "PHI",
+      "player_name": "Will Shipley",
+      "position": "RB",
+      "sleeper_id": "11577",
       "status": "Active"
     },
     {
@@ -1175,18 +1175,6 @@
       "position": "WR",
       "sleeper_id": "13477",
       "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00004950",
-      "c_avi": 30.3,
-      "d_avi": 35.9,
-      "nfl_team": "SF",
-      "player_name": "Christian Kirk",
-      "position": "WR",
-      "sleeper_id": "4950",
-      "status": "Inactive"
     },
     {
       "active": true,
@@ -2067,6 +2055,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00004663",
+      "c_avi": 0.0,
+      "d_avi": 0.0,
+      "nfl_team": "WAS",
+      "player_name": "Austin Ekeler",
+      "position": "RB",
+      "sleeper_id": "4663",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00013270",
       "c_avi": 0.0,
       "d_avi": 0.0,
@@ -2122,18 +2122,6 @@
       "player_name": "Cedric Tillman",
       "position": "WR",
       "sleeper_id": "10444",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00008129",
-      "c_avi": 0.0,
-      "d_avi": 0.0,
-      "nfl_team": "PHI",
-      "player_name": "Dameon Pierce",
-      "position": "RB",
-      "sleeper_id": "8129",
       "status": "Active"
     },
     {
@@ -2702,8 +2690,8 @@
     }
   ],
   "counts": {
-    "available_players": 225,
-    "rostered_players": 254
+    "available_players": 224,
+    "rostered_players": 255
   },
   "rostered_players": [
     {
@@ -2881,22 +2869,6 @@
       "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00004663",
-      "c_avi": 0.0,
-      "d_avi": 0.0,
-      "nfl_team": "WAS",
-      "owner_id": "736993578450030592",
-      "player_name": "Austin Ekeler",
-      "position": "RB",
-      "roster_id": 1,
-      "sleeper_id": "4663",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -3397,6 +3369,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00004950",
+      "c_avi": 30.3,
+      "d_avi": 35.9,
+      "nfl_team": "SF",
+      "owner_id": "736993578450030592",
+      "player_name": "Christian Kirk",
+      "position": "WR",
+      "roster_id": 1,
+      "sleeper_id": "4950",
+      "status": "Inactive",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00004034",
       "c_avi": 94.4,
       "d_avi": 90.9,
@@ -3621,6 +3609,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00008129",
+      "c_avi": 0.0,
+      "d_avi": 0.0,
+      "nfl_team": "PHI",
+      "owner_id": "872509429436829696",
+      "player_name": "Dameon Pierce",
+      "position": "RB",
+      "roster_id": 6,
+      "sleeper_id": "8129",
+      "status": "Active",
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00005870",
       "c_avi": 45.8,
       "d_avi": 53.4,
@@ -3649,22 +3653,6 @@
       "status": "Active",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00009479",
-      "c_avi": 56.5,
-      "d_avi": 62.5,
-      "nfl_team": "PIT",
-      "owner_id": "872509429436829696",
-      "player_name": "Darnell Washington",
-      "position": "TE",
-      "roster_id": 6,
-      "sleeper_id": "9479",
-      "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -3745,6 +3733,22 @@
       "status": "Inactive",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00009501",
+      "c_avi": 55.0,
+      "d_avi": 36.1,
+      "nfl_team": "NE",
+      "owner_id": "872509429436829696",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "roster_id": 6,
+      "sleeper_id": "9501",
+      "status": "Active",
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -4469,6 +4473,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00011439",
+      "c_avi": 40.2,
+      "d_avi": 27.3,
+      "nfl_team": "CLE",
+      "owner_id": "986498458162970624",
+      "player_name": "Jaleel McLaughlin",
+      "position": "RB",
+      "roster_id": 11,
+      "sleeper_id": "11439",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00011646",
       "c_avi": 74.0,
       "d_avi": 69.3,
@@ -4529,6 +4549,22 @@
       "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00002306",
+      "c_avi": 44.3,
+      "d_avi": 37.9,
+      "nfl_team": "NYG",
+      "owner_id": "872509429436829696",
+      "player_name": "Jameis Winston",
+      "position": "QB",
+      "roster_id": 6,
+      "sleeper_id": "2306",
+      "status": "Active",
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -6085,22 +6121,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00011630",
-      "c_avi": 51.7,
-      "d_avi": 68.5,
-      "nfl_team": "PIT",
-      "owner_id": "872509429436829696",
-      "player_name": "Roman Wilson",
-      "position": "WR",
-      "roster_id": 6,
-      "sleeper_id": "11630",
-      "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00011620",
       "c_avi": 73.8,
       "d_avi": 83.0,
@@ -6657,22 +6677,6 @@
       "status": "Active",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011577",
-      "c_avi": 39.5,
-      "d_avi": 30.6,
-      "nfl_team": "PHI",
-      "owner_id": "986498458162970624",
-      "player_name": "Will Shipley",
-      "position": "RB",
-      "roster_id": 11,
-      "sleeper_id": "11577",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
