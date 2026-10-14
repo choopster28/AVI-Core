@@ -14,19 +14,19 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Roster Counts
 - total_players: 22
-- offense: 18
+- offense: 17
 - kickers: 1
-- idp: 3
+- idp: 4
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 674.9
-- championship_lineup_c_avi_avg: 84.36
-- offensive_roster_c_avi_sum: 1226.0
-- offensive_roster_c_avi_avg: 68.11
-- offensive_roster_d_avi_sum: 1311.1
-- offensive_roster_d_avi_avg: 72.84
+- championship_lineup_c_avi_sum: 687.8
+- championship_lineup_c_avi_avg: 85.97
+- offensive_roster_c_avi_sum: 1181.7
+- offensive_roster_c_avi_avg: 69.51
+- offensive_roster_d_avi_sum: 1245.8
+- offensive_roster_d_avi_avg: 73.28
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Nico Collins | C-AVI: 94.7 | D-AVI: 94.1
 - WR: Rashee Rice | C-AVI: 87.6 | D-AVI: 91.1
 - TE: Trey McBride | C-AVI: 94.8 | D-AVI: 92.3
+- FLEX: Saquon Barkley | C-AVI: 80.3 | D-AVI: 85.9
 - FLEX: Bhayshul Tuten | C-AVI: 77.3 | D-AVI: 79.9
-- FLEX: Chris Godwin | C-AVI: 67.4 | D-AVI: 68.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 60.1
+- Championship AVI (C-AVI, 0-100): 60.0
 - Dynasty AVI (D-AVI, 0-100): 68.1
 - Projected PPR points: 99.7
 - Category: offense
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 52.5
-- Dynasty AVI (D-AVI, 0-100): 54.1
+- Championship AVI (C-AVI, 0-100): 52.4
+- Dynasty AVI (D-AVI, 0-100): 54.0
 - Projected PPR points: 79.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 45.1
-- Dynasty AVI (D-AVI, 0-100): 39.6
+- Championship AVI (C-AVI, 0-100): 45.0
+- Dynasty AVI (D-AVI, 0-100): 39.5
 - Projected PPR points: 74.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 37.5
-- Dynasty AVI (D-AVI, 0-100): 49.0
+- Championship AVI (C-AVI, 0-100): 37.3
+- Dynasty AVI (D-AVI, 0-100): 48.9
 - Projected PPR points: 14.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -297,23 +297,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Konata Mumpfield
-- Player name: Konata Mumpfield
-- Player ID: 12718
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: LAR
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 43.8
-- Dynasty AVI (D-AVI, 0-100): 65.0
-- Projected PPR points: 29.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Trey McBride
 - Player name: Trey McBride
 - Player ID: 8130
@@ -365,17 +348,34 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Cameron Heyward
-- Player name: Cameron Heyward
-- Player ID: 843
+### PLAYER: DeForest Buckner
+- Player name: DeForest Buckner
+- Player ID: 3172
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: DL
 - Fantasy positions: ['DL']
-- NFL team: PIT
+- NFL team: IND
 - Active: True
 - Status: Active
-- Age: 37.0
+- Age: 32.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Azeez Al-Shaair
+- Player name: Azeez Al-Shaair
+- Player ID: 6485
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: HOU
+- Active: True
+- Status: Active
+- Age: 29.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
@@ -399,14 +399,14 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Kamari Lassiter
-- Player name: Kamari Lassiter
-- Player ID: 11685
+### PLAYER: Cole Bishop
+- Player name: Cole Bishop
+- Player ID: 11682
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: DB
 - Fantasy positions: ['DB']
-- NFL team: HOU
+- NFL team: BUF
 - Active: True
 - Status: Active
 - Age: 23.0

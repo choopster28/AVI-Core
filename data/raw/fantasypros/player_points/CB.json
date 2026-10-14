@@ -3248,6 +3248,19 @@
     },
     {
       "average": 0,
+      "filename": "rejzohn-wright.php",
+      "games": 1,
+      "player_id": 25785,
+      "player_name": "Rejzohn Wright",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "NO",
+      "weeks": {
+        "5": 0
+      }
+    },
+    {
+      "average": 0,
       "filename": "art-green.php",
       "games": 1,
       "player_id": 25877,

@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 473.1
-- championship_lineup_c_avi_avg: 67.59
+- championship_lineup_c_avi_sum: 551.9
+- championship_lineup_c_avi_avg: 68.99
 - offensive_roster_c_avi_sum: 1035.7
 - offensive_roster_c_avi_avg: 64.73
 - offensive_roster_d_avi_sum: 1014.0
@@ -34,9 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: RJ Harvey | C-AVI: 70.9 | D-AVI: 72.2
 - RB: MarShawn Lloyd | C-AVI: 63.3 | D-AVI: 48.0
 - WR: Mike Evans | C-AVI: 82.7 | D-AVI: 73.2
-- WR: Khalil Shakir | C-AVI: 65.8 | D-AVI: 65.7
+- WR: Stefon Diggs | C-AVI: 72.9 | D-AVI: 52.2
+- TE: Kenyon Sadiq | C-AVI: 67.8 | D-AVI: 82.4
+- FLEX: Khalil Shakir | C-AVI: 65.8 | D-AVI: 65.7
 - FLEX: Xavier Worthy | C-AVI: 65.5 | D-AVI: 71.8
-- FLEX: Kenny Gainwell | C-AVI: 61.9 | D-AVI: 66.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.

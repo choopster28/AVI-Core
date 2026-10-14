@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Hofer51
 - Owner ID: 736994691492519936
 - Division: 4
-- Waiver position: 15
+- Waiver position: 11
 - Last updated from Sleeper exports: 2026-10-14
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,8 +23,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 664.5
 - championship_lineup_c_avi_avg: 83.06
-- offensive_roster_c_avi_sum: 1044.3
-- offensive_roster_c_avi_avg: 69.62
+- offensive_roster_c_avi_sum: 1044.1
+- offensive_roster_c_avi_avg: 69.61
 - offensive_roster_d_avi_sum: 1030.5
 - offensive_roster_d_avi_avg: 68.70
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 47.9
+- Championship AVI (C-AVI, 0-100): 47.8
 - Dynasty AVI (D-AVI, 0-100): 29.8
 - Projected PPR points: 43.5
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 38.6
+- Championship AVI (C-AVI, 0-100): 38.5
 - Dynasty AVI (D-AVI, 0-100): 61.4
 - Projected PPR points: 116.8
 - Category: offense

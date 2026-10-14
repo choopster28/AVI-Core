@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: MadDawgMatt
 - Owner ID: 872509429436829696
 - Division: 2
-- Waiver position: 11
+- Waiver position: 13
 - Last updated from Sleeper exports: 2026-10-14
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 636.5
-- championship_lineup_c_avi_avg: 79.56
-- offensive_roster_c_avi_sum: 1055.2
-- offensive_roster_c_avi_avg: 65.95
-- offensive_roster_d_avi_sum: 1110.7
-- offensive_roster_d_avi_avg: 69.42
+- championship_lineup_c_avi_sum: 636.4
+- championship_lineup_c_avi_avg: 79.55
+- offensive_roster_c_avi_sum: 1046.2
+- offensive_roster_c_avi_avg: 61.54
+- offensive_roster_d_avi_sum: 1053.6
+- offensive_roster_d_avi_avg: 61.98
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Jaylen Waddle | C-AVI: 81.5 | D-AVI: 83.6
 - TE: Mike Gesicki | C-AVI: 66.3 | D-AVI: 62.7
 - FLEX: Ladd McConkey | C-AVI: 80.1 | D-AVI: 87.0
-- FLEX: Rashod Bateman | C-AVI: 62.3 | D-AVI: 48.0
+- FLEX: Rashod Bateman | C-AVI: 62.2 | D-AVI: 47.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -73,6 +73,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 71.7
 - Dynasty AVI (D-AVI, 0-100): 72.3
 - Projected PPR points: 293.1
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Jameis Winston
+- Player name: Jameis Winston
+- Player ID: 2306
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 32.0
+- Championship AVI (C-AVI, 0-100): 44.3
+- Dynasty AVI (D-AVI, 0-100): 37.9
+- Projected PPR points: 9.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -126,6 +143,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 234.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Dameon Pierce
+- Player name: Dameon Pierce
+- Player ID: 8129
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Parker Washington
 - Player name: Parker Washington
@@ -189,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 62.3
-- Dynasty AVI (D-AVI, 0-100): 48.0
+- Championship AVI (C-AVI, 0-100): 62.2
+- Dynasty AVI (D-AVI, 0-100): 47.9
 - Projected PPR points: 123.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -212,20 +246,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Roman Wilson
-- Player name: Roman Wilson
-- Player ID: 11630
+### PLAYER: DeMario Douglas
+- Player name: DeMario Douglas
+- Player ID: 9501
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: PIT
+- NFL team: NE
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 51.7
-- Dynasty AVI (D-AVI, 0-100): 68.5
-- Projected PPR points: 58.2
+- Championship AVI (C-AVI, 0-100): 55.0
+- Dynasty AVI (D-AVI, 0-100): 36.1
+- Projected PPR points: 89.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -263,23 +297,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
 
-### PLAYER: Skyy Moore
-- Player name: Skyy Moore
-- Player ID: 8168
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: offense
-- Valuation status: NOT_IN_AVI_OUTPUT
-
 ### PLAYER: Mike Gesicki
 - Player name: Mike Gesicki
 - Player ID: 4993
@@ -311,23 +328,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 64.3
 - Dynasty AVI (D-AVI, 0-100): 79.0
 - Projected PPR points: 117.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Darnell Washington
-- Player name: Darnell Washington
-- Player ID: 9479
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: PIT
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 56.5
-- Dynasty AVI (D-AVI, 0-100): 62.5
-- Projected PPR points: 84.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

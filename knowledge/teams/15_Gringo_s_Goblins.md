@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 612.6
-- championship_lineup_c_avi_avg: 76.58
-- offensive_roster_c_avi_sum: 1099.5
+- championship_lineup_c_avi_sum: 612.5
+- championship_lineup_c_avi_avg: 76.56
+- offensive_roster_c_avi_sum: 1099.6
 - offensive_roster_c_avi_avg: 64.68
-- offensive_roster_d_avi_sum: 1075.4
+- offensive_roster_d_avi_sum: 1075.5
 - offensive_roster_d_avi_avg: 63.26
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 58.3 | D-AVI: 71.2
 - RB: Kyren Williams | C-AVI: 88.4 | D-AVI: 87.9
-- RB: Aaron Jones | C-AVI: 72.6 | D-AVI: 63.7
+- RB: Aaron Jones | C-AVI: 72.5 | D-AVI: 63.7
 - WR: Christian Watson | C-AVI: 85.7 | D-AVI: 82.5
 - WR: Emeka Egbuka | C-AVI: 83.3 | D-AVI: 90.2
 - TE: Jake Ferguson | C-AVI: 71.7 | D-AVI: 81.2
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 72.6
+- Championship AVI (C-AVI, 0-100): 72.5
 - Dynasty AVI (D-AVI, 0-100): 63.7
 - Projected PPR points: 169.2
 - Category: offense
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 24.1
-- Dynasty AVI (D-AVI, 0-100): 49.2
+- Championship AVI (C-AVI, 0-100): 24.2
+- Dynasty AVI (D-AVI, 0-100): 49.3
 - Projected PPR points: 0.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 50.8
+- Championship AVI (C-AVI, 0-100): 50.9
 - Dynasty AVI (D-AVI, 0-100): 29.8
 - Projected PPR points: 62.7
 - Category: offense

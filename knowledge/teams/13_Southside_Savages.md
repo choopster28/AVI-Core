@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: GGEZGoNext
 - Owner ID: 998253660243054592
 - Division: 2
-- Waiver position: 12
+- Waiver position: 10
 - Last updated from Sleeper exports: 2026-10-14
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 573.2
-- championship_lineup_c_avi_avg: 71.65
-- offensive_roster_c_avi_sum: 851.6
-- offensive_roster_c_avi_avg: 60.83
+- championship_lineup_c_avi_sum: 589.9
+- championship_lineup_c_avi_avg: 73.74
+- offensive_roster_c_avi_sum: 851.5
+- offensive_roster_c_avi_avg: 60.82
 - offensive_roster_d_avi_sum: 943.7
 - offensive_roster_d_avi_avg: 67.41
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 87.9 | D-AVI: 89.0
+- RB: TreVeyon Henderson | C-AVI: 69.3 | D-AVI: 83.5
 - RB: Emanuel Wilson | C-AVI: 60.1 | D-AVI: 49.6
-- RB: Ty Johnson | C-AVI: 52.6 | D-AVI: 34.5
 - WR: Tetairoa McMillan | C-AVI: 90.4 | D-AVI: 93.6
 - WR: Luther Burden | C-AVI: 81.7 | D-AVI: 85.6
 - TE: Pat Freiermuth | C-AVI: 70.4 | D-AVI: 68.9
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 13.3
+- Championship AVI (C-AVI, 0-100): 13.2
 - Dynasty AVI (D-AVI, 0-100): 67.3
 - Projected PPR points: 141.3
 - Category: offense

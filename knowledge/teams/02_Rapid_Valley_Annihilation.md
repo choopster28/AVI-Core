@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 542.2
-- championship_lineup_c_avi_avg: 67.78
-- offensive_roster_c_avi_sum: 1021.4
-- offensive_roster_c_avi_avg: 60.08
+- championship_lineup_c_avi_sum: 577.9
+- championship_lineup_c_avi_avg: 72.24
+- offensive_roster_c_avi_sum: 1021.2
+- offensive_roster_c_avi_avg: 60.07
 - offensive_roster_d_avi_sum: 1109.6
 - offensive_roster_d_avi_avg: 65.27
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Deshaun Watson | C-AVI: 49.1 | D-AVI: 48.0
+- QB: Caleb Williams | C-AVI: 79.8 | D-AVI: 84.2
 - RB: Quinshon Judkins | C-AVI: 80.6 | D-AVI: 87.0
 - RB: Rhamondre Stevenson | C-AVI: 77.8 | D-AVI: 74.4
 - WR: Denzel Boston | C-AVI: 70.2 | D-AVI: 74.3
-- WR: Tre' Harris | C-AVI: 57.7 | D-AVI: 53.8
+- WR: Adonai Mitchell | C-AVI: 62.8 | D-AVI: 60.9
 - TE: Colston Loveland | C-AVI: 80.1 | D-AVI: 89.3
-- FLEX: Blake Corum | C-AVI: 64.6 | D-AVI: 72.7
+- FLEX: Blake Corum | C-AVI: 64.5 | D-AVI: 72.7
 - FLEX: AJ Barner | C-AVI: 62.1 | D-AVI: 73.8
 
 ## Current Roster — All Player Cards
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 64.6
+- Championship AVI (C-AVI, 0-100): 64.5
 - Dynasty AVI (D-AVI, 0-100): 72.7
 - Projected PPR points: 134.2
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 54.9
+- Championship AVI (C-AVI, 0-100): 54.8
 - Dynasty AVI (D-AVI, 0-100): 49.0
 - Projected PPR points: 28.2
 - Category: offense

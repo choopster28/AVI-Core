@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 677.6
-- championship_lineup_c_avi_avg: 84.70
-- offensive_roster_c_avi_sum: 1091.1
-- offensive_roster_c_avi_avg: 68.19
-- offensive_roster_d_avi_sum: 1113.9
-- offensive_roster_d_avi_avg: 69.62
+- championship_lineup_c_avi_sum: 677.7
+- championship_lineup_c_avi_avg: 84.71
+- offensive_roster_c_avi_sum: 1124.7
+- offensive_roster_c_avi_avg: 70.29
+- offensive_roster_d_avi_sum: 1170.1
+- offensive_roster_d_avi_avg: 73.13
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Garrett Wilson | C-AVI: 90.9 | D-AVI: 90.2
 - TE: Travis Kelce | C-AVI: 86.5 | D-AVI: 79.8
 - FLEX: Davante Adams | C-AVI: 88.9 | D-AVI: 77.2
-- FLEX: Dalton Schultz | C-AVI: 71.3 | D-AVI: 71.8
+- FLEX: Dalton Schultz | C-AVI: 71.4 | D-AVI: 71.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -138,28 +138,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 58.4
+- Championship AVI (C-AVI, 0-100): 58.3
 - Dynasty AVI (D-AVI, 0-100): 68.7
 - Projected PPR points: 49.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Joe Mixon
-- Player name: Joe Mixon
-- Player ID: 4018
+### PLAYER: Corey Kiner
+- Player name: Corey Kiner
+- Player ID: 12491
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: None
+- NFL team: NE
 - Active: True
 - Status: Active
-- Age: 30.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Projected PPR points: None
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 33.5
+- Dynasty AVI (D-AVI, 0-100): 56.2
+- Projected PPR points: 15.1
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Drake London
 - Player name: Drake London
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 64.5
+- Championship AVI (C-AVI, 0-100): 64.6
 - Dynasty AVI (D-AVI, 0-100): 78.3
 - Projected PPR points: 190.9
 - Category: offense
@@ -325,7 +325,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 71.3
+- Championship AVI (C-AVI, 0-100): 71.4
 - Dynasty AVI (D-AVI, 0-100): 71.8
 - Projected PPR points: 142.4
 - Category: offense

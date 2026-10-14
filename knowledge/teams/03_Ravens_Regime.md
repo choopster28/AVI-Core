@@ -14,27 +14,27 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Roster Counts
 - total_players: 22
-- offense: 18
-- kickers: 1
+- offense: 17
+- kickers: 2
 - idp: 3
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 622.0
-- championship_lineup_c_avi_avg: 77.75
-- offensive_roster_c_avi_sum: 1152.1
-- offensive_roster_c_avi_avg: 64.01
-- offensive_roster_d_avi_sum: 1250.2
-- offensive_roster_d_avi_avg: 69.46
+- championship_lineup_c_avi_sum: 662.3
+- championship_lineup_c_avi_avg: 82.79
+- offensive_roster_c_avi_sum: 1099.9
+- offensive_roster_c_avi_avg: 64.70
+- offensive_roster_d_avi_sum: 1212.3
+- offensive_roster_d_avi_avg: 71.31
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Cam Ward | C-AVI: 49.0 | D-AVI: 57.1
+- QB: Lamar Jackson | C-AVI: 86.6 | D-AVI: 89.9
 - RB: Derrick Henry | C-AVI: 94.9 | D-AVI: 84.6
-- RB: Tony Pollard | C-AVI: 70.5 | D-AVI: 71.1
+- RB: Kyle Monangai | C-AVI: 73.3 | D-AVI: 75.0
 - WR: Zay Flowers | C-AVI: 93.2 | D-AVI: 88.7
-- WR: Carnell Tate | C-AVI: 75.3 | D-AVI: 87.2
+- WR: Carnell Tate | C-AVI: 75.2 | D-AVI: 87.1
 - TE: George Kittle | C-AVI: 90.0 | D-AVI: 85.9
 - FLEX: Kyle Pitts | C-AVI: 74.6 | D-AVI: 84.0
 - FLEX: Juwan Johnson | C-AVI: 74.5 | D-AVI: 78.8
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 73.2
+- Championship AVI (C-AVI, 0-100): 73.3
 - Dynasty AVI (D-AVI, 0-100): 75.0
 - Projected PPR points: 155.3
 - Category: offense
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 70.5
+- Championship AVI (C-AVI, 0-100): 70.4
 - Dynasty AVI (D-AVI, 0-100): 71.1
 - Projected PPR points: 179.0
 - Category: offense
@@ -141,23 +141,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 57.4
 - Dynasty AVI (D-AVI, 0-100): 61.4
 - Projected PPR points: 128.8
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Justice Hill
-- Player name: Justice Hill
-- Player ID: 5995
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: BAL
-- Active: True
-- Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): 51.9
-- Dynasty AVI (D-AVI, 0-100): 37.7
-- Projected PPR points: 89.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -223,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 75.3
-- Dynasty AVI (D-AVI, 0-100): 87.2
+- Championship AVI (C-AVI, 0-100): 75.2
+- Dynasty AVI (D-AVI, 0-100): 87.1
 - Projected PPR points: 175.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 44.0
-- Dynasty AVI (D-AVI, 0-100): 75.7
+- Championship AVI (C-AVI, 0-100): 43.8
+- Dynasty AVI (D-AVI, 0-100): 75.6
 - Projected PPR points: 135.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -359,6 +342,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Jason Myers
+- Player name: Jason Myers
+- Player ID: 2747
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: SEA
+- Active: True
+- Status: Active
+- Age: 35.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: IcebergSlim69
 - Owner ID: 737531831641128960
 - Division: 3
-- Waiver position: 14
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-10-14
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,8 +23,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 661.5
 - championship_lineup_c_avi_avg: 82.69
-- offensive_roster_c_avi_sum: 1102.8
-- offensive_roster_c_avi_avg: 64.87
+- offensive_roster_c_avi_sum: 1102.7
+- offensive_roster_c_avi_avg: 64.86
 - offensive_roster_d_avi_sum: 1161.7
 - offensive_roster_d_avi_avg: 68.34
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 43.4
-- Dynasty AVI (D-AVI, 0-100): 63.3
+- Championship AVI (C-AVI, 0-100): 43.5
+- Dynasty AVI (D-AVI, 0-100): 63.4
 - Projected PPR points: 19.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 38.9
-- Dynasty AVI (D-AVI, 0-100): 61.4
+- Championship AVI (C-AVI, 0-100): 38.7
+- Dynasty AVI (D-AVI, 0-100): 61.3
 - Projected PPR points: 96.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -365,23 +365,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Jordyn Brooks
-- Player name: Jordyn Brooks
-- Player ID: 6949
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: LB
-- Fantasy positions: ['LB']
-- NFL team: MIA
-- Active: True
-- Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
 ### PLAYER: T.J. Watt
 - Player name: T.J. Watt
 - Player ID: 4070
@@ -393,6 +376,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Tremaine Edmunds
+- Player name: Tremaine Edmunds
+- Player ID: 4968
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 28.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

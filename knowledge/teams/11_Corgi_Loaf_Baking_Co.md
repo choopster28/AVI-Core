@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: awang1900
 - Owner ID: 986498458162970624
 - Division: 3
-- Waiver position: 13
+- Waiver position: 15
 - Last updated from Sleeper exports: 2026-10-14
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 628.3
-- championship_lineup_c_avi_avg: 78.54
-- offensive_roster_c_avi_sum: 1093.9
-- offensive_roster_c_avi_avg: 68.37
-- offensive_roster_d_avi_sum: 1123.3
-- offensive_roster_d_avi_avg: 70.21
+- championship_lineup_c_avi_sum: 682.7
+- championship_lineup_c_avi_avg: 85.34
+- offensive_roster_c_avi_sum: 1094.3
+- offensive_roster_c_avi_avg: 68.39
+- offensive_roster_d_avi_sum: 1119.9
+- offensive_roster_d_avi_avg: 69.99
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Cam Skattebo | C-AVI: 81.6 | D-AVI: 82.4
 - RB: Chuba Hubbard | C-AVI: 78.7 | D-AVI: 77.4
 - WR: Jaxon Smith-Njigba | C-AVI: 98.3 | D-AVI: 99.7
-- WR: Malik Nabers | C-AVI: 86.8 | D-AVI: 93.3
+- WR: DeVonta Smith | C-AVI: 90.5 | D-AVI: 88.5
 - TE: Tyler Warren | C-AVI: 91.4 | D-AVI: 90.6
-- FLEX: Michael Mayer | C-AVI: 61.4 | D-AVI: 65.5
-- FLEX: Mike Washington | C-AVI: 52.6 | D-AVI: 51.6
+- FLEX: Malik Nabers | C-AVI: 86.8 | D-AVI: 93.3
+- FLEX: David Montgomery | C-AVI: 77.9 | D-AVI: 77.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -138,26 +138,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 52.6
+- Championship AVI (C-AVI, 0-100): 52.5
 - Dynasty AVI (D-AVI, 0-100): 51.6
 - Projected PPR points: 84.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Will Shipley
-- Player name: Will Shipley
-- Player ID: 11577
+### PLAYER: Jaleel McLaughlin
+- Player name: Jaleel McLaughlin
+- Player ID: 11439
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: PHI
+- NFL team: CLE
 - Active: True
 - Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 39.5
-- Dynasty AVI (D-AVI, 0-100): 30.6
-- Projected PPR points: 20.0
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 40.1
+- Dynasty AVI (D-AVI, 0-100): 27.2
+- Projected PPR points: 43.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 37.2
+- Championship AVI (C-AVI, 0-100): 37.1
 - Dynasty AVI (D-AVI, 0-100): 50.4
 - Projected PPR points: 22.2
 - Category: offense
