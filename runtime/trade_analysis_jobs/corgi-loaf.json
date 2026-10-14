@@ -29,9 +29,316 @@
       }
     },
     "createdAt": 1792017246374,
-    "updatedAt": 1792017247634,
+    "updatedAt": 1792017308409,
     "expiresAt": 1792449246374,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. (Elite Contender) is considering sending its highest-value remaining draft asset—a projected early 2028 1st (Northside Kings, projected 1.01–1.05)—to Rapid Valley Annihilation (Retooling) for 28-year-old RB Rhamondre Stevenson and a projected early 2027 2nd. While Stevenson is experiencing a short-term touch boost in New England due to TreVeyon Henderson's high-ankle sprain, his 77.8 C-AVI does not provide a meaningful starting lineup upgrade over Corgi Loaf's existing FLEX options (David Montgomery 77.9, DJ Moore 77.5). Trading away Corgi Loaf's sole remaining 1st-round pick for non-starting RB depth severely compromises the franchise's trade liquidity without increasing its championship odds.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2028 1st (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 28,
+              "cavi": 77.8,
+              "davi": 74.4,
+              "publicMarket": 75,
+              "leagueMarket": 77
+            },
+            {
+              "name": "2027 2nd (Rapid Valley Annihilation)",
+              "assetType": "pick",
+              "owner": "Rapid Valley Annihilation",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D+",
+            "otherGrade": "A",
+            "userShare": 35,
+            "otherShare": 65,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "This deal is heavily advantageous for Rapid Valley Annihilation. Rapid Valley liquidates a 28-year-old running back to secure a high-ceiling projected early 2028 1st (1.01–1.05 range). Corgi Loaf surrenders its last remaining premier draft chip for an aging depth piece who does not enter its optimal starting lineup."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "By re-allocating the projected early 2028 1st toward 22-year-old RB Quinshon Judkins instead of Stevenson, Corgi Loaf secures a genuine starting lineup upgrade at RB1/RB2 (80.6 C-AVI / 87.0 D-AVI) that boosts both immediate championship odds and long-term dynasty foundation."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Stevenson (77.8 C-AVI) sits behind or equals Montgomery (77.9) and Moore (77.5), offering zero starting lineup boost."
+            },
+            "dynastyOutlook": {
+              "score": -40,
+              "summary": "Trading a projected early 1st (1.01–1.05) for a 28-year-old RB and a 2nd round pick damages long-term value."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Optimal active lineup C-AVI remains unchanged at 682.7."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Adds usable RB depth behind Skattebo, Hubbard, and Montgomery."
+            },
+            "flexibilityLiquidity": {
+              "score": -50,
+              "summary": "Depletes Corgi Loaf's only remaining 1st-round draft pick across 2027 and 2028."
+            },
+            "overall": {
+              "score": -30,
+              "summary": "Corgi Loaf loses premium draft capital and flexibility without improving its active starting eight."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Loses starting RB production in the short term."
+            },
+            "dynastyOutlook": {
+              "score": 60,
+              "summary": "Gains a projected early 2028 1st pick to cornerstone their retooling process."
+            },
+            "lineupQuality": {
+              "score": -20,
+              "summary": "RB2 drops from Stevenson (77.8) to Blake Corum (64.5)."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Reduces backfield depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 50,
+              "summary": "Acquires liquid, highly tradeable 1st-round draft capital."
+            },
+            "overall": {
+              "score": 30,
+              "summary": "Rapid Valley executes an ideal retool transaction by converting an aging RB into a premier early 1st pick."
+            }
+          },
+          "explanation": "Corgi Loaf already owns deep FLEX depth in David Montgomery (77.9 C-AVI) and DJ Moore (77.5 C-AVI). Adding Stevenson (77.8 C-AVI) creates a lateral roster move while costing Corgi Loaf its single remaining high-end draft asset. Rapid Valley gains substantial dynasty value aligning with its retool goal."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Neutral to negative. Stevenson's 77.8 C-AVI is marginally behind David Montgomery (77.9 C-AVI) and virtually equal to DJ Moore (77.5 C-AVI). It does not improve Corgi Loaf's optimal 8-man starting score of 682.7.",
+          "sideADynastyImpact": "Negative. Corgi Loaf parts with a 79.3 D-AVI pick (projected top 5 pick) and receives 74.4 D-AVI (Stevenson, age 28) plus 48.5 D-AVI (2027 2nd).",
+          "sideARosterImpact": "Increases RB bench depth, but strips the roster of trade currency needed for mid-season championship moves.",
+          "sideBChampionshipImpact": "Decreases starting lineup score by 13.3 C-AVI points, shifting Blake Corum (64.5) into RB2.",
+          "sideBDynastyImpact": "Highly positive. Converts aging production into a prime 2028 1st round asset (79.3 D-AVI).",
+          "sideBRosterImpact": "Opens an RB starting slot while reinforcing draft asset capital for the retool window.",
+          "valueAssessment": "Asset value totals favor Corgi Loaf (+47.0 combined AVI received vs 79.3 sent), but raw asset totals mask a severe structural loss: liquid top-tier capital sacrificed for bench depth on a contender."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Rhamondre Stevenson's market value is temporarily elevated due to TreVeyon Henderson's high-ankle sprain, positioning Stevenson as a high-volume RB1/RB2 in the immediate 2–4 week window. However, consensus dynasty valuation treats Stevenson as a classic 28-year-old win-now asset with limited multi-year holding appeal.",
+          "aviVsMarket": "AVI rates Stevenson at 77.8 C-AVI / 74.4 D-AVI, closely matching public consensus. Public market values an early 2028 1st significantly higher than a 28yo RB plus a future 2nd.",
+          "relevantContext": [
+            "TreVeyon Henderson's high-ankle sprain expands Stevenson's short-term volume in New England.",
+            "Stevenson is 28.0 years old, near the traditional dynasty apex drop-off for RBs.",
+            "Corgi Loaf has already traded away its 2027 1st, 2nd, and 3rd picks, making the 2028 1st (Northside) its last premier draft chip."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Rapid Valley is Retooling and motivated to convert 28-year-old veterans into early draft capital.",
+          "packageFit": "Strong for Rapid Valley; poor for Corgi Loaf. Corgi Loaf pays elite capital for non-starting depth.",
+          "lineupReplacement": "Rapid Valley drops to Blake Corum at RB2, acceptable for a retooling franchise.",
+          "competitiveWindowFit": "Fits Rapid Valley's Retooling timeline perfectly. Conflicts with Corgi Loaf's need for starting lineup impact when spending early 1st-round capital.",
+          "positionalScarcity": "RB depth is valuable in a 16-team league, but Corgi Loaf already owns Skattebo, Hubbard, and Montgomery."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 95,
+          "classification": "Highly Realistic",
+          "explanation": "Rapid Valley Annihilation would almost certainly accept this offer if sent, as acquiring a projected early 2028 1st for Rhamondre Stevenson aligns seamlessly with their Retool goal."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "Corgi Loaf should DECLINE this proposed offer. Paying a projected early 2028 1st (Northside, 1.01–1.05 range)—Corgi Loaf's sole remaining premier draft asset—for Rhamondre Stevenson (77.8 C-AVI) provides zero improvement to Corgi Loaf's active starting lineup. Stevenson does not score higher than David Montgomery (77.9 C-AVI) or DJ Moore (77.5 C-AVI) in Corgi Loaf's FLEX slots. Preserving elite draft liquidity for a higher-impact starter is vital for Corgi Loaf's championship path.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2028 1st (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Quinshon Judkins",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 80.6,
+              "davi": 87,
+              "publicMarket": 82,
+              "leagueMarket": 84
+            }
+          ],
+          "whyUserShouldDoIt": "If Corgi Loaf decides to spend its prized 2028 1st (Northside), targeting 22-year-old Quinshon Judkins (80.6 C-AVI / 87.0 D-AVI) yields an immediate starting RB upgrade over Chuba Hubbard and locks in a elite long-term dynasty cornerstone.",
+          "whyOpponentMightAccept": "Rapid Valley (Retooling) secures a projected top-5 draft pick in 2028 to accelerate its roster overhaul while reallocating RB touches to its younger backfield pieces."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 77.9,
+              "davi": 77,
+              "publicMarket": 75,
+              "leagueMarket": 76
+            },
+            {
+              "name": "2027 Round 4 (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 0,
+              "leagueMarket": 0
+            }
+          ],
+          "receive": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 28,
+              "cavi": 77.8,
+              "davi": 74.4,
+              "publicMarket": 75,
+              "leagueMarket": 77
+            }
+          ],
+          "rationale": "If Corgi Loaf specifically desires Stevenson's short-term touch surge during Henderson's absence without giving up premium draft capital, a lateral veteran RB swap preserves Corgi Loaf's 2028 1st for bigger moves."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Rhamondre Stevenson fantasy outlook 2026",
+          "Rhamondre Stevenson news 2026",
+          "Rhamondre Stevenson current team NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGddUwSslRmU4aX-UDyv98bWfJOouFYwsvAO5P1pRxzWHo9JhNvItifaXj4L-4XfzmOrvdcYW8OClcWzUs0ObJ7KhDKgWwqDujzNESDQBfV7x5xbnCdvYIT7dO89qEBwM0Vcd5-ACAd3V33cNKNWHtXVzNkGo625S7DUm2aei4XQwM2WSgFe0vIgXbRvC0DnkABEg8zts8WRLTv2WvNbCwXBw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO1X_vKtzR_yhg2HVtbQpGOYZe_yoD4NxPbf-ZM0O4OHjIN5sMlz3YDy7kx9tOMgKrb2vQq-gs-ITUsBNxmlLXMnZcsgGhSoCNG15_5UXI9PiLQEFyppw9kahVSTMbwZg-jBkS2uKR",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJW-fPQwUqKL2_tpjCNsHLCzcSgIqt_OdUOLaN-UcNeM0-w5en2pqy1hvAS-_LNCaHsYNGnUn4SyVb_1yDwJh4n5fI-CZvS-Biiar4djwBtf8EU9WKMYtS4KvC3gCqmSJEVEVtK_dGbnGP3Pi9l4CViWrWkcbQDF3zNCNh74IpU9zIxhtp18i_68qnlOHEP2X_mLW8RM1uquuUDcezrFJzOpIElmlx5w==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHevFcXAXw_6ftkI_4z5Csup5Pj8L1wUhzif7kP2q70T0V3HYN_UC7YWyGDcJpYPdpaJWwtKZc6YI-tCoiucTXkNrdVaxIj7-8QrhVHqkcjE6ij_xHIVkiBXn4197ikT9AounUnLV3TrDREJ_aZ7j6UfBbTMhCV1Sk-x6GJsw0ttfUdWfI9MJIPPpnv2o-67MQt4unJMNlY4EtJ1wxaOu1aBtg=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-I_L3UeMSvt_d0Ulb7owrpAKm2dV3rZAQW0tyUunJwcn_kICIsit4jiLo5uLYKAWVFL4hmdmJSZFC8DhEDPUacqZ-QBpR1WIox-malTsN1zGJStJ3Z85SNgpDoLGe6pXZKUC1DMz3bhXLGGGZTc-m5X_3GBAo59u9DzgyyL6h-mYKOutDKbPlcJLHOE39kwiH7PhSOPGa_BUZAv1TtI=",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "3021748fe4774890702f6b7810aeb66a5e9ee38f",
+        "aviCoreCommittedAt": "2026-10-14T22:25:47Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 87134,
+        "groundedMarketChars": 1929,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mv8oo6kv-0c7b6cde",
