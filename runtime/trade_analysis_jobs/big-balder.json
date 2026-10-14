@@ -1,5 +1,40 @@
 [
   {
+    "id": "mv8p3r8t-f5dfd232",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Rapid Valley Annihilation",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2028 1st · Northside · Projected early range (1.01–1.05)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Rapid Valley · Projected early range (2.01–2.05)",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "personalContext": "“2028 1st is projected 1.01-1.03. 2027 2nd is projected 2.02-2.04”"
+    },
+    "createdAt": 1792017757804,
+    "updatedAt": 1792017757804,
+    "expiresAt": 1792449757804,
+    "status": "queued"
+  },
+  {
     "id": "mv8oymtw-becd9d08",
     "phase": "initial",
     "mode": "analyze_trade",
