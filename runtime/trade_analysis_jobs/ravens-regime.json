@@ -1,5 +1,49 @@
 [
   {
+    "id": "mv8oaqkn-2aefb13c",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Northside Kings",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        },
+        {
+          "name": "Nicholas Singleton",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 4th · Conquistadors · Projected late range (4.10–4.16)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Mike Evans",
+          "assetType": "player"
+        },
+        {
+          "name": "Kenny Gainwell",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1792016403719,
+    "updatedAt": 1792016403719,
+    "expiresAt": 1792448403719,
+    "status": "queued"
+  },
+  {
     "id": "mv6o45je-b565486f",
     "phase": "final",
     "mode": "propose_trade",
