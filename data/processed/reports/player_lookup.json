@@ -87,6 +87,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00005995",
+      "c_avi": 51.9,
+      "d_avi": 37.7,
+      "nfl_team": "BAL",
+      "player_name": "Justice Hill",
+      "position": "RB",
+      "sleeper_id": "5995",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011630",
       "c_avi": 51.7,
       "d_avi": 68.5,
@@ -1175,6 +1187,18 @@
       "position": "WR",
       "sleeper_id": "13477",
       "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00004950",
+      "c_avi": 30.3,
+      "d_avi": 35.9,
+      "nfl_team": "SF",
+      "player_name": "Christian Kirk",
+      "position": "WR",
+      "sleeper_id": "4950",
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -2690,8 +2714,8 @@
     }
   ],
   "counts": {
-    "available_players": 224,
-    "rostered_players": 255
+    "available_players": 226,
+    "rostered_players": 253
   },
   "rostered_players": [
     {
@@ -3365,22 +3389,6 @@
       "status": "Active",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00004950",
-      "c_avi": 30.3,
-      "d_avi": 35.9,
-      "nfl_team": "SF",
-      "owner_id": "736993578450030592",
-      "player_name": "Christian Kirk",
-      "position": "WR",
-      "roster_id": 1,
-      "sleeper_id": "4950",
-      "status": "Inactive",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -4997,22 +5005,6 @@
       "status": "Active",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00005995",
-      "c_avi": 51.9,
-      "d_avi": 37.7,
-      "nfl_team": "BAL",
-      "owner_id": "992908759074680832",
-      "player_name": "Justice Hill",
-      "position": "RB",
-      "roster_id": 3,
-      "sleeper_id": "5995",
-      "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
     },
     {
       "active": true,

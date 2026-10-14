@@ -340,14 +340,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
-## PLAYER LOOKUP: Christian Kirk
-- Player name: Christian Kirk
-- Player ID: 4950
-- Position: WR
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
-
 ## PLAYER LOOKUP: Christian McCaffrey
 - Player name: Christian McCaffrey
 - Player ID: 4034
@@ -1155,14 +1147,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
-
-## PLAYER LOOKUP: Justice Hill
-- Player name: Justice Hill
-- Player ID: 5995
-- Position: RB
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Justin Herbert
 - Player name: Justin Herbert
@@ -2109,6 +2093,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 70.8
 - Availability: available
 
+## AVAILABLE PLAYER: Justice Hill
+- Player name: Justice Hill
+- Player ID: 5995
+- Position: RB
+- NFL team: BAL
+- Championship AVI (C-AVI, 0-100): 51.9
+- Dynasty AVI (D-AVI, 0-100): 37.7
+- Availability: available
+
 ## AVAILABLE PLAYER: Roman Wilson
 - Player name: Roman Wilson
 - Player ID: 11630
@@ -2926,6 +2919,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CIN
 - Championship AVI (C-AVI, 0-100): 30.5
 - Dynasty AVI (D-AVI, 0-100): 59.2
+- Availability: available
+
+## AVAILABLE PLAYER: Christian Kirk
+- Player name: Christian Kirk
+- Player ID: 4950
+- Position: WR
+- NFL team: SF
+- Championship AVI (C-AVI, 0-100): 30.3
+- Dynasty AVI (D-AVI, 0-100): 35.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Ja'Tavion Sanders
