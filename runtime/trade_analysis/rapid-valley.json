@@ -1,1 +1,336 @@
-[]
+[
+  {
+    "id": "mv7d70fb-d31e1535",
+    "createdAt": 1791937354347,
+    "expiresAt": 1792369354347,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Rapid Valley Annihilation ↔ Ravens Regime",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Retool",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Blake Corum",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Juwan Johnson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 4th · Conquistadors · Projected late range (4.10–4.16)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Rapid Valley Annihilation (Retooling) is proposing sending 25-year-old running back Blake Corum (64.5 C-AVI / 72.7 D-AVI) to playoff contender Ravens Regime for 30-year-old tight end Juwan Johnson (74.5 C-AVI / 78.8 D-AVI) and a late 2027 4th-round draft pick. Although Johnson offers a slight immediate C-AVI increase (+10.0), acquiring an aging tight end when Rapid Valley Annihilation already features 22-year-old cornerstone Colston Loveland (80.1 C-AVI / 89.3 D-AVI) directly contradicts RVA's retool strategy. Furthermore, trading away Corum severely diminishes RVA's running back depth while a 4th-round pick provides zero meaningful draft equity (0.0 AVI). AVI strongly advises declining this proposal and pivoting toward acquiring future 2nd-round draft capital from Ravens Regime instead.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Blake Corum",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 25,
+              "cavi": 64.5,
+              "davi": 72.7,
+              "publicMarket": 62,
+              "leagueMarket": 64.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 30,
+              "cavi": 74.5,
+              "davi": 78.8,
+              "publicMarket": 70,
+              "leagueMarket": 74.5
+            },
+            {
+              "name": "2027 4th · Conquistadors · Projected late range (4.10–4.16)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 0,
+              "leagueMarket": 0
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D+",
+            "otherGrade": "B",
+            "userShare": 35,
+            "otherShare": 65,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Rapid Valley Annihilation surrenders a 25-year-old running back asset with contingent upside (Blake Corum) for a 30-year-old tight end (Juwan Johnson) and a zero-value draft pick. For a retooling franchise with Colston Loveland already locked in as the long-term TE starter, acquiring aging TE depth degrades roster age structure and strips RB depth without securing useful draft equity."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "Pivoting from an aging tight end to future 2nd-round draft capital (2028 2nd via Gringo's Goblins) directly aligns with Rapid Valley Annihilation's retool goal while supplying Ravens Regime with valuable running back depth for their playoff push."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 5,
+              "summary": "Slight current-year C-AVI boost in FLEX output from Juwan Johnson (+10.0 C-AVI over Corum), though offset by RB depth depletion."
+            },
+            "dynastyOutlook": {
+              "score": -45,
+              "summary": "Exchanging a 25-year-old RB for a 30-year-old TE degrades dynasty asset lifecycle for a retooling roster."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Juwan Johnson temporarily upgrades FLEX2 over AJ Barner and Tre' Harris."
+            },
+            "depthResilience": {
+              "score": -30,
+              "summary": "Exposes RB depth behind Quinshon Judkins and Rhamondre Stevenson, leaving Ollie Gordon as top RB backup."
+            },
+            "flexibilityLiquidity": {
+              "score": -25,
+              "summary": "Juwan Johnson's market at age 30 is narrow; a 2027 4th-round pick adds zero trade liquidity."
+            },
+            "overall": {
+              "score": -30,
+              "summary": "Net loss in long-term asset trajectory and positional balance by acquiring a 30-year-old TE behind Colston Loveland."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -5,
+              "summary": "Minor C-AVI shift if Johnson was starting, but Tony Pollard easily slides into FLEX2."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Acquires a 25-year-old RB handcuff asset for an expiring 30-year-old TE."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Starting lineup remains strong with George Kittle at TE and Kyle Pitts/Tony Pollard in FLEX slots."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Solidifies RB insurance behind Derrick Henry and Tony Pollard."
+            },
+            "flexibilityLiquidity": {
+              "score": -5,
+              "summary": "Surrenders a minor draft pick asset (2027 4th)."
+            },
+            "overall": {
+              "score": 30,
+              "summary": "Gains young RB depth behind 32-year-old Derrick Henry while surrendering surplus TE depth."
+            }
+          },
+          "explanation": "The visual impact demonstrates why Rapid Valley Annihilation should decline the submitted construction. While Juwan Johnson provides a modest current-year FLEX boost (+10 score), the transaction severely harms RVA's dynasty outlook (-45) and depth resilience (-30) by taking back an aging asset at a non-need position."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Rapid Valley Annihilation gains +10.0 C-AVI in raw player swap (Johnson 74.5 vs Corum 64.5), slightly improving potential FLEX scoring.",
+          "sideADynastyImpact": "Net negative dynasty impact. Trading 25.0-year-old Blake Corum (72.7 D-AVI) for 30.0-year-old Juwan Johnson (78.8 D-AVI) degrades long-term roster lifecycle.",
+          "sideARosterImpact": "Leaves RVA thin at RB (Judkins, Stevenson, Gordon) while creating a logjam at TE behind starter Colston Loveland (80.1 C-AVI) and AJ Barner (62.1 C-AVI).",
+          "sideBChampionshipImpact": "Ravens Regime absorbs a minor C-AVI drop (-10.0) from Johnson to Corum, but preserves George Kittle (90.0) and Kyle Pitts (74.6) at TE.",
+          "sideBDynastyImpact": "Gains a 25-year-old RB asset (72.7 D-AVI) with high-end handcuff upside in exchange for a 30-year-old TE.",
+          "sideBRosterImpact": "Clears TE roster congestion while bolstering RB depth behind Derrick Henry (32.0) and Tony Pollard (29.0).",
+          "valueAssessment": "Raw C-AVI favors Side B on paper (+10.0), but total portfolio dynamics heavily favor Ravens Regime due to age curve, positional need, and roster fit."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Blake Corum as a premier handcuff with contingent upside in Los Angeles, while Juwan Johnson is seen as a solid age-30 fantasy TE receiving steady targets in New Orleans.",
+          "aviVsMarket": "AVI metrics heavily weight age and positional longevity in dynasty (D-AVI), accurately penalizing Johnson's 30-year-old profile relative to public redraft value, while treating Corum's upside as a valuable hold for retooling rosters.",
+          "relevantContext": [
+            "Blake Corum snap share remains restricted behind Kyren Williams, limiting immediate standalone value to high-end handcuff status.",
+            "Juwan Johnson enjoys steady target share in New Orleans, providing a top-12 TE weekly baseline.",
+            "2027 4th-round picks carry virtually zero market trade currency in 16-team dynasty formats."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime operates in a Playoff Push window. They possess George Kittle (90.0 C-AVI) and Kyle Pitts (74.6 C-AVI) at TE, making Juwan Johnson expendable for RB insurance behind Derrick Henry.",
+          "packageFit": "Juwan Johnson fits a win-now team needing TE production, but fits poorly on a retooling team that already owns 22-year-old Colston Loveland.",
+          "lineupReplacement": "Ravens Regime easily replaces Johnson with Kyle Pitts/Tony Pollard in FLEX, while RVA creates an immediate RB depth vacuum.",
+          "competitiveWindowFit": "Ravens Regime advances their championship window by securing RB depth. RVA sets back their retooling window by acquiring a 30-year-old TE.",
+          "positionalScarcity": "RB depth in a 16-team league is exceptionally scarce; trading young RB depth for an age-30 TE dilutes RVA's asset equity."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 18,
+            "packageMatch": 15,
+            "lineupReplacement": 13,
+            "competitiveWindow": 7
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 68,
+          "classification": "Stretch",
+          "explanation": "Ravens Regime would evaluate receiving Blake Corum for Juwan Johnson due to their TE surplus and RB depth needs. However, the proposal fails to satisfy Rapid Valley Annihilation's retooling objectives."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "Rapid Valley Annihilation should decline this proposal. While Juwan Johnson carries a higher immediate C-AVI (74.5 vs 64.5), trading 25-year-old RB Blake Corum for a 30-year-old TE when RVA already holds 22-year-old cornerstone Colston Loveland directly undermines RVA's retooling strategy. A 2027 4th-round pick provides zero draft equity (0.0 AVI). RVA should instead demand future draft picks (such as a 2028 2nd) to build long-term draft liquidity.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Blake Corum",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 25,
+              "cavi": 64.5,
+              "davi": 72.7,
+              "publicMarket": 62,
+              "leagueMarket": 64.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 Round 2 (Gringo’s Goblins)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "Securing a 2028 2nd-round pick gives Rapid Valley Annihilation liquid draft currency for their retool, eliminating the mismatch of taking back a 30-year-old TE at a position where Colston Loveland is the clear long-term starter.",
+          "whyOpponentMightAccept": "Ravens Regime acquires high-upside RB insurance (Blake Corum) for their playoff run without surrendering core starting talent or 1st-round draft capital."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Blake Corum",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 25,
+              "cavi": 64.5,
+              "davi": 72.7,
+              "publicMarket": 62,
+              "leagueMarket": 64.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "KC Concepcion",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 22,
+              "cavi": 61.9,
+              "davi": 78.9,
+              "publicMarket": 65,
+              "leagueMarket": 61.9
+            }
+          ],
+          "rationale": "If Ravens Regime refuses to part with draft capital, targeting 22-year-old WR KC Concepcion (78.9 D-AVI) swaps Corum for a young wide receiver asset that fits RVA's retool timeline."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Juwan Johnson news 2026 NFL fantasy",
+          "Blake Corum news 2026 NFL fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHexZ9bX9cXLQDdKl967l6yMLMXkMwno3MQpS_GJhqci-Kb7y5yFLHZBLUF6r_syt3Vft-mzJrpNctpoj8pcXXqYi09V3K0uNEfSsStwDSqzMhbWwShUJPDd7FY7vXhgLMhcKSlRp3IsLD74p3f8Z7GK_M_xAbSJd29pC6sVqobtzfA5WlXsp0iZzr-BjkO0wtgyJE4mQADxtBetdfTADLzRhFoy-dsstkoOA==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEIxAfGpxL69m-ZlaCLJVIhpfJoQLogotf5g6Y-2VcTbOPx8ywa1ufjZEbyRXMhAKuNZ-3KFvK6x6iwdWobTp9TI-fnj9unil0NDexr92J2XLNyXERgdWBQ6Wr_xvESscNdeal7_sxO-fjcyBDB70w4XCnTw==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX_F7q9l2jA5zX8w_jfYZiXekffHPiwbtZIAJrDOYJxll7J4fmnFa9xZaKOla4Y7adbcMFQ2-uc1CPev_r80hoDHoITIGuUzK1wGZpNmyCAmCAb6w_WcIdukD_RNPC8WykDasDklqXGirGUVtyUYUoaGlD0wXM19WT4_0GY8ELtXq0GQdGDz7bIBQilfciV0v0MYg3DduVj9FCy_oH_Q==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG76cXOMMVCmGWgPEO5rbGee4aD027pE-vFjPF4kUT1pfBSooHsyXHmzKlYQhw1kxuI8T1sumat-GrjllHr6NMJhSxuFifqOns0rzi8wRWg0eOAl-p6oNyCikBXoNTxAOsHXFhkgALe4mA_MZ_3",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuVW7YaZQCWoHLVPA7TCLo9uiZyK4Cvk-vzKNrlos2OnrEpThQFMkMyu-Yk3plQ_0ed84deiT6fPPDwcsoV8JmgtNJ7B9nel8gaXEArqQ2gj5w-k6bxTcyMrx1vHqBdfzQVak_NhRwtc2MfRi1KlOqot9gDMEG",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6XA17f07-g-nWd2qZkNWuAePuD6j4N3VY9nVri9amrDysX76OKP5Vz78hHHGCBPFcmYBPkRnrV3RHWzwrsmSG8T6X-x16JN-n8cSWBc5QDjiFUVwCCy8YJsYDwEXIDwRgu3cr3lmC_7OPkKRdmrypxKC9VEKNSqp5sA5OrSD2G4dD_uqrzKexhg==",
+            "title": "bettoringreen.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi7tQP11LF6qZUlaLsim-1KAXQ0T8oROZzJFrtFae3RUxpdhqh6W4pSO7zlKpxR2LWXpy6NKrFIR4ZDPh7RGFHlaMiBrGuiYiVxotWAVtiiRkOvnhE234268QmNn5H__qh7zntC8RvBBTHuXep0DI1pGcWbAiUaZDq6h0oQb95qlMIbmiHrS7h9l7z1UWVC1tnJBUlBGg7wAfcxTH4",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "0bd528c902afa8bca0de733163e8506f45712828",
+        "aviCoreCommittedAt": "2026-10-14T00:02:29Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 87766,
+        "groundedMarketChars": 2675,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  }
+]
