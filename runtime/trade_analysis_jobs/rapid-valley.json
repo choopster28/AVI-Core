@@ -1,5 +1,43 @@
 [
   {
+    "id": "mv8nkxci-ac42d5ce",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Retool",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Rapid Valley · Projected early range (2.01–2.05)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2028 1st · Northside · Projected early range (1.01–1.05)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 4th · King Jesus · Projected mid range (4.06–4.09)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1792015199442,
+    "updatedAt": 1792015199442,
+    "expiresAt": 1792447199442,
+    "status": "queued"
+  },
+  {
     "id": "mv83tr09-3b654e12",
     "phase": "initial",
     "mode": "analyze_trade",
