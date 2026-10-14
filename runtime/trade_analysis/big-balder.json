@@ -1,5 +1,348 @@
 [
   {
+    "id": "mv8bog24-cb1fcb31",
+    "createdAt": 1791995224360,
+    "expiresAt": 1792427224360,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Big Balder Brand ↔ Ravens Regime",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "George Kittle",
+          "assetType": "player"
+        },
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "I have zero wins in five losses… Even though my roster is strong on paper, I have had so many injuries this season that I essentially need to win seven or eight of my next nine weeks have a chance of the playoffs"
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Reflecting Big Balder Brand's urgent reality of zero wins and five losses, trading away foundational dynasty tight end Trey McBride becomes an unsustainable risk despite the win-now goal. Because Big Balder Brand must win 7 to 9 upcoming weeks just to salvage a playoff berth, mortgaging long-term cornerstone depth for aging win-now assets (Derrick Henry and George Kittle) creates a fatal margin for error if injuries persist. Consequently, the recommended trade construction is revised to preserve Trey McBride while acquiring win-now RB floor and depth through alternative non-core asset combinations, or standing pat to protect the asset base.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.3,
+              "publicMarket": 93,
+              "leagueMarket": 94
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 80.3,
+              "davi": 85.9,
+              "publicMarket": 82,
+              "leagueMarket": 83
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 94.9,
+              "davi": 84.6,
+              "publicMarket": 92,
+              "leagueMarket": 93
+            },
+            {
+              "name": "George Kittle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 33,
+              "cavi": 90,
+              "davi": 85.9,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C+",
+            "otherGrade": "B+",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "When factoring in Big Balder Brand's 0-5 record and severe injury attrition, giving up 26-year-old elite asset Trey McBride for aging 30+ veterans introduces unacceptable downside risk. If the win streak required to make playoffs fails, BBB is left stripped of its cornerstone asset."
+          },
+          "recommended": {
+            "userGrade": "B",
+            "otherGrade": "B",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even",
+            "summary": "By retaining Trey McBride and shifting focus to minor depth acquisitions or pivoting to a retool stance, Big Balder Brand protects its long-term equity while avoiding catastrophic downside during an injury-plagued 0-5 start."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -10,
+              "summary": "Adopting personal context (0-5 record, heavy injury toll) makes a blockbuster win-now trade too risky; roster stabilization is required."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Modest weekly gains are outweighed by the immediate fragility of an 0-5 hole."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Retaining Trey McBride preserves elite positional scarcity and roster floor."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Maintains existing injury-depleted weekly baseline without risking future capital."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Injury history across the roster demands keeping elite multi-year assets rather than consolidating into aging veterans."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Preserves maximum flexibility to evaluate whether to punt the season or make smaller targeted moves."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 20,
+              "summary": "Ravens Regime benefits from the initial offer's long-term value, but deal probability drops due to BBB's record shift."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Maintains competitive standing."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Retains strong interest in acquiring elite young pieces if talks resume."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Solid baseline."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Stable depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Maintains current asset valuation."
+            }
+          },
+          "explanation": "Factoring in the user's 0-5 start and heavy injury burden shifts the strategic calculus from aggressive championship consolidation to risk management and preservation of elite youth."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's 0-5 record and extensive injuries mean that adding Henry and Kittle still leaves a narrow margin for error, requiring 7-8 wins out of 9 weeks.",
+          "sideADynastyImpact": "Preserving Trey McBride protects multi-year asset value, ensuring the franchise remains elite even if the 2026 redshirt scenario manifests.",
+          "sideARosterImpact": "Maintains overall roster youth and protects against further injury-induced value collapse.",
+          "sideBChampionshipImpact": "Ravens Regime continues its playoff push with stable veteran production.",
+          "sideBDynastyImpact": "Acquiring McBride remains an ideal long-term goal for Ravens Regime if BBB chooses to deal him later under better record conditions.",
+          "sideBRosterImpact": "No immediate roster changes occur under the revised conservative stance.",
+          "valueAssessment": "Valuations remain fair on paper, but team context and record make the transaction inadvisable."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Dynasty managers starting 0-5 with high injury variance are strongly advised against trading elite 26-year-old cornerstone assets for 32/33-year-old producers.",
+          "aviVsMarket": "AVI correctly adapts market valuation to account for real-world manager records and win-streak probabilities.",
+          "relevantContext": [
+            "Teams starting 0-5 facing a 7-2 or 8-1 run requirement face under a 10% historical playoff probability.",
+            "Consolidating youth into aging players during a lost season destroys franchise equity."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime remains open to acquiring elite youth like Trey McBride, but Big Balder Brand's new context alters negotiation leverage.",
+          "packageFit": "The original package is too rich for a team sitting at 0-5.",
+          "lineupReplacement": "Maintains status quo.",
+          "competitiveWindowFit": "BBB's window for 2026 is rapidly closing; caution is warranted.",
+          "positionalScarcity": "Retaining McBride ensures BBB keeps a top-2 tight end advantage."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 15,
+            "packageMatch": 10,
+            "lineupReplacement": 10,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 45,
+          "classification": "Unlikely",
+          "explanation": "Given Big Balder Brand's 0-5 record and severe injury attrition, executing a win-now blockbuster for aging assets is counterproductive. The team's immediate priority must shift to risk mitigation."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "With an 0-5 record and heavy injury accumulation, committing to a win-now blockbuster giving up 26-year-old Trey McBride for Derrick Henry and George Kittle carries unacceptable risk. You need to protect your elite youth unless an offer overwhelmingly favors your long-term survival or your injury luck immediately reverses.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "User Roster Record and Injury Attrition (0-5 Start)",
+          "summary": "Sitting at 0-5 with significant injuries means needing an 7-2 or 8-1 stretch run, making a high-stakes win-now trade too risky. Trading away a 26-year-old elite tight end for 32/33-year-old veterans compromises your franchise if the win streak falls short.",
+          "failedFactors": [
+            {
+              "factor": "userConstraint",
+              "explanation": "An 0-5 record and injury-depleted roster create too narrow a margin for error to mortgage long-term assets."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "The 2026 championship window is severely compromised by the current record and injury toll."
+            }
+          ],
+          "opponentPerspective": "Ravens Regime would gladly accept Trey McBride, but BBB cannot afford to surrender its prime dynasty assets right now.",
+          "userConstraintImpact": "Forces a conservative posture, prioritizing asset preservation over aggressive win-now consolidation.",
+          "closestPathToDeal": "Wait for health to return and secure consecutive wins before attempting major win-now upgrades, or pivot to acquiring younger upside assets.",
+          "whatWouldNeedToChange": [
+            "String together 2-3 wins to stabilize the 0-5 start.",
+            "Get injured key contributors back into the starting lineup.",
+            "Target younger or cheaper depth pieces rather than parting with Trey McBride."
+          ]
+        },
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered the user's 0-5 record, heavy injury burden, and the daunting requirement to win 7-8 of the next 9 weeks. This shifted the recommendation from an aggressive 'Offer' to a conservative 'Decline' to protect 26-year-old cornerstone Trey McBride against catastrophic downside."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Derrick Henry current team contract status 2026",
+          "Derrick Henry news 2026 NFL fantasy",
+          "George Kittle news 2026 NFL fantasy",
+          "George Kittle current team contract status 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpqBNICj9JhRQPEUdO11G-3XA3zDB0nmapfDoO8KxV_6ifRfkoPwo0ITQmMYybzA5ma-JJ8pkQTxYBq9_NYVEM7FltQFxmjia-VvF9hdbzSZbewMe3MnC8_sZ4Lgu72n0JNm_C-VNSrjOimBYdmGWDI8U-5YW7QOPLTPffSy1K-6rKJ0JPCZxniAPt4BcAfOfB1hj7Dmh8kd6ISDXaM0sQNJjmPagjPs7vszTTkg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZlHZCsDrYkojEHAsO8Y9sATEd4ABEr-QCP11ygu8kkh3YUJKMDRuM6fkH7zDeYUczeMXTDOO91_MLvuvQh2QJYepeT8mTdZwX2Pq74Iwi1JYZkwN2FxjFNIgF17ujHckK-c9nVbWQAw2kEIq6RXgc16fg76iX",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2w8AilqJoZkfeRzbb_yEBaRAwLXOALSFoHMLefMK3BQ-uUy_6Xm5ihpuRAKiGx1x0PGS19jxIBsN5aI4Akw9Sp28LnWBnSUuCrhf4MpUbtd3X1-dBcmy9bHUbvToY-wIX2IapwomLh5ge93wqY2S4f9WTBOiicbk5kIbGnDjoLYoEzOvRzsbrseH5g0v44drsMlcZ20qqI7UHFzOOOvjEDXTvQTlfdNpSWXYaJvwH",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFl6npR2Tc-KZGOzn7ic6jGboLQxzldWXHa68d0l5dtoKh99rabvaZrcmU-x39FMGOoshN-qRH3mF1viRrNIvFeP5sGdVs-2xHtfz8I43GHV5VQRvB57RueyBzVZgHaIIqJyFkksd9jPiE_7aBmVJ8p_MiJ0SntuJezNxJ4tLWuynF0aMD2cH5bFCWA6vMtlHAp1_vkv2ywsJu0hnrflvHuWPA9i51FbNssdwZ6E4PDcc_--dnqopgukLkoK5MbRqJ1GIenQdGMw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHnugjQLRB4d7rze6n5OUQFaSs-h0PdxDvEMwohqCPx9g8tuf2NAvR5ZUJpxJaOWr1DSY3JQeqRk5U14JZM7QhtLeW13H-7QCTXdEVX0yC36zFRzD5B0coi-KZGmR3SYLqOv6q1X00UP3YVmuPy020hhmnNDg0V4e-j9QrRKybnctUulU=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJIihPO5EvIkqE9rS_GxN_Ue9kY5Ma8SeSe-N9Oqukh9T7QOKQCK_b-Y2PqCLvyuujSwqI_dQ1jqiyV3NgVqKuFXuSi423y50hy5gJmzEh8ptx0kIH1w8LakFla50OdHYX",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwQ7ILuIdtncOFkE-FSV-6lv8pgXS4uF_evCeS5oQ0iRSYyvwz7dv8lyp_1X26P1aEQboJHhv5wIDNxdFhtiiXwH1t8rIfPgJ9mHw7ZmD-HZGK7oqaYa8A1a2rvdRnh1i9nAzdVsnWosroM-VHUDY=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwMAz1BPvtGTM8OPj4rjO87qm9Rvz6cHSqB5VqG6KAQVk4kmuMkoMXaGQhjg9B3YS-jRBaG3khobq-R80j2uZCpZ9ztsGvdFMwWIEKzahI7JJIHrBRVgaKtMVqPBW7JY_LaBp88sVbeCqLiiwVGXZkDKo77mWvKbZ_ruCzd6TqUi-eR34_MIAd1Y3YTBb2Oll2BZC-wknrEkZ4qP-CVp5JJv6Iw0ibM_CKtgnSQ_mbgre1nFYvG_XXCYpBOpBisdIqlSIsrSV9KPL4HfGjuX2nIFdIbsB7sNN_PjI9jm73EGP3h136TWV4nV144y_Jf2RWjmYo",
+            "title": "indiatimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtCsk63cZRu7LzA2El8AjbFWbcB84p16hc3TZiP5vULHespc-DbrcEawgNyiO1yYgqjJ1nkJfUptcvHXFfXy3mszDVE0Kys3DCVLwPXVpiIaH5krv_UfKiMJ2QXJC64qAYbiZiEq1HmJ40BpB75x7Hc2u26uwhhQmlW7K8UylwBlDI-BybfWYBq7vFDISt66B7gbduy8cZ",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGqN3JqGmyngdxB79YfSKQupmbgA6Y5mlr1JIlGOSk2LVl6EvVJtB-EgBy4apD8jCCNIwp3EHaoeYaBVH4ZM11lwGjVnOx0ACZHildOM8-aMWx0XoWDaUkjZvshA9rCX2Z0c1fxk5IBwpWpPImuByqZHOEXfbdfWUj5M2kUfrlyYyAlkN_sYbDmg==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV17x4NJvnpz8IG2ExzuTUtuVbQ4BFMMPQYrFp_uG8m1ojp3QDN4zPBNjAYmhhdLaa_MCUYtRzswb3pGtIhiwnqu4xXblipXWzNM3DhhoVTsTovKYTQy_bl44Ut_ZNDk5GzEeGoDO0NRE9COkkeGWCxsh--akoRzvnog==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOAt9ZuZ6YTphmh53riLKNLplPCE0wjJEHe4y1H8llygzcErjWYgNmm8-r1-CPeB8pd9tyDLkYfkT3y1nwlThtJ2GNu_Lc7VRbv1gpNOXBd1Lb0Ol21gdSDU3Wv5qP6O7q1w9vqj7Rca557BuNoI-2nhaxc-UqS6EllLL4",
+            "title": "49ers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC6Ry1MhZsrSKWXNu_3jB6XEhnz_m7IdNzFmBbXLalwViHTH_11dFJ0ZJ87QfdQQM-QNOuf4k8767lAvNNs8d5gqM31lrhpW-5_ExIK5WPOljYhR5OTUNf7vaYKS4b8Afh6H9cspum4TijG7g1g5R4bga1fSYCWc0mALPgrRUdCncvGob0SrPdyw==",
+            "title": "ninernoise.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9f2SIhUcB8TcsemFNxJr5JEqMiFYtSPz3fuPTdpbrhUy0RGExkiW5U2KAEEqhczMt_lgt3wVU2CLp_h2wpxszVqcAQL8j66V6qg-gbsylEAtO-O8zWXPypJYjmLv31ETW",
+            "title": "wikipedia.org"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c0e513df3e3798df726033dce60df76196ca4b86",
+        "aviCoreCommittedAt": "2026-10-14T14:12:26Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86526,
+        "groundedMarketChars": 3425,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mv8blzyn-b16b72b2",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "c0e513df3e3798df726033dce60df76196ca4b86"
+      }
+    }
+  },
+  {
     "id": "mv8blzyn-b16b72b2",
     "createdAt": 1791995143353,
     "expiresAt": 1792427143353,
