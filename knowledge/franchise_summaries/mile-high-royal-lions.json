@@ -5,34 +5,34 @@
   "roster_id": 4,
   "owner_display_name": "shawnh56",
   "season_phase": "regular_season",
-  "reporting_period": "Week of October 7, 2026",
-  "generated_at": "2026-10-07T15:54:52.015118-06:00",
+  "reporting_period": "Week of October 14, 2026",
+  "generated_at": "2026-10-14T14:33:11.068297-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Mile High Royal Lions: Weekly Front Office Brief",
-  "executive_summary": "Mile High Royal Lions is projected #3 of 16 with a 676.70 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Garrett Wilson. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Mile High Royal Lions is projected #4 of 16 with a 677.70 projected-starting-lineup C-AVI total, led by Jahmyr Gibbs, Drake London, and Garrett Wilson. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 3,
+    "rank": 4,
     "league_size": 16,
-    "score": 676.7,
+    "score": 677.7,
     "team_above": {
       "name": "Corgi Loaf Baking Co.",
-      "rank": 2,
-      "score": 679.5,
-      "gap": 2.7999999999999545
+      "rank": 3,
+      "score": 682.7,
+      "gap": 5.0
     },
     "team_below": {
       "name": "SmokyValleyWheatWarriors",
-      "rank": 4,
-      "score": 674.8,
-      "gap": 1.900000000000091
+      "rank": 5,
+      "score": 672.9,
+      "gap": 4.800000000000068
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 8,
+    "rank": 5,
     "league_size": 16,
-    "score": 2138.1,
-    "player_d_avi": 1139.5,
+    "score": 2168.7,
+    "player_d_avi": 1170.1,
     "future_pick_d_avi": 998.6,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above J.K. Dobbins's 63.1 C-AVI baseline; a replacement near 65.9 C-AVI would directly attack the 2.80-point projected gap to Corgi Loaf Baking Co.."
+    "Raise the RB slot above J.K. Dobbins's 67.5 C-AVI baseline; a replacement near 72.5 C-AVI would directly attack the 5.00-point projected gap to Corgi Loaf Baking Co.."
   ],
   "rival_below": {
     "franchise_name": "SmokyValleyWheatWarriors",
-    "projected_rank": 4,
-    "projected_score": 674.8,
+    "projected_rank": 5,
+    "projected_score": 672.9,
     "latest_trade": {
       "transaction_id": "1401283482868592640",
       "created_at": "2026-09-03T16:55:26.206000+00:00",
@@ -70,12 +70,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #3 of 16 at 676.70 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 679.50, a gap of 2.80. SmokyValleyWheatWarriors is immediately behind at 674.80."
+      "body": "Projected #4 of 16 at 677.70 lineup C-AVI. Corgi Loaf Baking Co. is immediately above at 682.70, a gap of 5.00. SmokyValleyWheatWarriors is immediately behind at 672.90."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jahmyr Gibbs (99.0), Drake London (95.1), and Garrett Wilson (91.0)."
+      "body": "The three highest C-AVI starters are Jahmyr Gibbs (99.0), Drake London (94.9), and Garrett Wilson (90.9)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,9 +85,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above J.K. Dobbins's 63.1 C-AVI baseline; a replacement near 65.9 C-AVI would directly attack the 2.80-point projected gap to Corgi Loaf Baking Co..",
+      "body": "Raise the RB slot above J.K. Dobbins's 67.5 C-AVI baseline; a replacement near 72.5 C-AVI would directly attack the 5.00-point projected gap to Corgi Loaf Baking Co..",
       "items": [
-        "Raise the RB slot above J.K. Dobbins's 63.1 C-AVI baseline; a replacement near 65.9 C-AVI would directly attack the 2.80-point projected gap to Corgi Loaf Baking Co.."
+        "Raise the RB slot above J.K. Dobbins's 67.5 C-AVI baseline; a replacement near 72.5 C-AVI would directly attack the 5.00-point projected gap to Corgi Loaf Baking Co.."
       ]
     },
     {
@@ -98,12 +98,12 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "J.K. Dobbins is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 63.1. Any acquisition should clear that exact lineup threshold."
+      "body": "J.K. Dobbins is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 67.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "Current Sleeper-owned roster has 16 active offensive players; non-active: Jonah Coleman."
+      "body": "Current Sleeper-owned roster has 15 active offensive players; non-active: Pat Bryant, Jonah Coleman."
     },
     {
       "id": "draft-assets",
@@ -126,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/04_Mile_High_Royal_Lions.md"
     ],
-    "source_last_updated": "2026-10-07",
+    "source_last_updated": "2026-10-14",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

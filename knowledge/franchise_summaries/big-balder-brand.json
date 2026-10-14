@@ -5,110 +5,110 @@
   "roster_id": 9,
   "owner_display_name": "Choopski",
   "season_phase": "regular_season",
-  "reporting_period": "Week of October 7, 2026",
-  "generated_at": "2026-10-07T15:54:52.015118-06:00",
+  "reporting_period": "Week of October 14, 2026",
+  "generated_at": "2026-10-14T14:33:11.068297-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Big Balder Brand: Weekly Front Office Brief",
-  "executive_summary": "Big Balder Brand is projected #5 of 16 with a 669.70 projected-starting-lineup C-AVI total, led by Nico Collins, Trey McBride, and Rashee Rice. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Big Balder Brand is projected #2 of 16 with a 687.80 projected-starting-lineup C-AVI total, led by Trey McBride, Nico Collins, and Rashee Rice. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 5,
+    "rank": 2,
     "league_size": 16,
-    "score": 669.7,
+    "score": 687.8,
     "team_above": {
-      "name": "SmokyValleyWheatWarriors",
-      "rank": 4,
-      "score": 674.8,
-      "gap": 5.099999999999909
+      "name": "Conquistadors",
+      "rank": 1,
+      "score": 738.8,
+      "gap": 51.0
     },
     "team_below": {
-      "name": "Ravens Regime",
-      "rank": 6,
-      "score": 662.9,
-      "gap": 6.800000000000068
+      "name": "Corgi Loaf Baking Co.",
+      "rank": 3,
+      "score": 682.7,
+      "gap": 5.099999999999909
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 12,
     "league_size": 16,
-    "score": 1994.9,
-    "player_d_avi": 1252.9,
-    "future_pick_d_avi": 742.0,
+    "score": 1939.8,
+    "player_d_avi": 1245.8,
+    "future_pick_d_avi": 694.0,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1394506115831586816",
-    "created_at": "2026-08-16T00:04:35.987000+00:00",
+    "transaction_id": "1414070146678448128",
+    "created_at": "2026-10-08T23:45:04.423000+00:00",
     "type": "trade",
-    "summary": "On August 15, Big Balder Brand completed a trade with DMV Fantasy and acquired Jayden Daniels, Khalil Shakir and sent Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand).",
+    "summary": "On October 8, Big Balder Brand completed a trade with Northside Kings and acquired Bhayshul Tuten and sent Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins).",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above A.J. Brown's 69.2 C-AVI baseline; a replacement near 74.3 C-AVI would directly attack the 5.10-point projected gap to SmokyValleyWheatWarriors."
+    "Raise the FLEX slot above Bhayshul Tuten's 77.3 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 51.00-point projected gap to Conquistadors."
   ],
   "rival_below": {
-    "franchise_name": "Ravens Regime",
-    "projected_rank": 6,
-    "projected_score": 662.9,
+    "franchise_name": "Corgi Loaf Baking Co.",
+    "projected_rank": 3,
+    "projected_score": 682.7,
     "latest_trade": {
-      "transaction_id": "1410419901381775360",
-      "created_at": "2026-09-28T22:00:18.125000+00:00",
+      "transaction_id": "1411582618125762560",
+      "created_at": "2026-10-02T03:00:31.400000+00:00",
       "type": "trade",
-      "summary": "On September 28, Ravens Regime completed a trade with DMV Fantasy and acquired George Kittle and sent 2027 Round 2 (Ravens Regime).",
+      "summary": "On October 1, Corgi Loaf Baking Co. completed a trade with Northside Kings and acquired 2028 Round 1 (Northside Kings) and sent 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1410419901381775360",
-      "created_at": "2026-09-28T22:00:18.125000+00:00",
+      "transaction_id": "1411582618125762560",
+      "created_at": "2026-10-02T03:00:31.400000+00:00",
       "type": "trade",
-      "summary": "On September 28, Ravens Regime completed a trade with DMV Fantasy and acquired George Kittle and sent 2027 Round 2 (Ravens Regime).",
+      "summary": "On October 1, Corgi Loaf Baking Co. completed a trade with Northside Kings and acquired 2028 Round 1 (Northside Kings) and sent 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On September 28, Ravens Regime completed a trade with DMV Fantasy and acquired George Kittle and sent 2027 Round 2 (Ravens Regime)."
+    "summary": "On October 1, Corgi Loaf Baking Co. completed a trade with Northside Kings and acquired 2028 Round 1 (Northside Kings) and sent 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #5 of 16 at 669.70 lineup C-AVI. SmokyValleyWheatWarriors is immediately above at 674.80, a gap of 5.10. Ravens Regime is immediately behind at 662.90."
+      "body": "Projected #2 of 16 at 687.80 lineup C-AVI. Conquistadors is immediately above at 738.80, a gap of 51.00. Corgi Loaf Baking Co. is immediately behind at 682.70."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Nico Collins (95.2), Trey McBride (94.8), and Rashee Rice (87.7)."
+      "body": "The three highest C-AVI starters are Trey McBride (94.8), Nico Collins (94.7), and Rashee Rice (87.6)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On August 15, Big Balder Brand completed a trade with DMV Fantasy and acquired Jayden Daniels, Khalil Shakir and sent Jalen Coker, Jaxson Dart, 2027 Round 2 (DMV Fantasy), 2029 Round 1 (Big Balder Brand)."
+      "body": "On October 8, Big Balder Brand completed a trade with Northside Kings and acquired Bhayshul Tuten and sent Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins)."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above A.J. Brown's 69.2 C-AVI baseline; a replacement near 74.3 C-AVI would directly attack the 5.10-point projected gap to SmokyValleyWheatWarriors.",
+      "body": "Raise the FLEX slot above Bhayshul Tuten's 77.3 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 51.00-point projected gap to Conquistadors.",
       "items": [
-        "Raise the FLEX slot above A.J. Brown's 69.2 C-AVI baseline; a replacement near 74.3 C-AVI would directly attack the 5.10-point projected gap to SmokyValleyWheatWarriors."
+        "Raise the FLEX slot above Bhayshul Tuten's 77.3 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 51.00-point projected gap to Conquistadors."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On September 28, Ravens Regime completed a trade with DMV Fantasy and acquired George Kittle and sent 2027 Round 2 (Ravens Regime)."
+      "body": "On October 1, Corgi Loaf Baking Co. completed a trade with Northside Kings and acquired 2028 Round 1 (Northside Kings) and sent 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "A.J. Brown is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 69.2. Any acquisition should clear that exact lineup threshold."
+      "body": "Bhayshul Tuten is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 77.3. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "Current Sleeper-owned roster has 16 active offensive players; non-active: A.J. Brown, Tank Bigsby."
+      "body": "Current Sleeper-owned roster has 15 active offensive players; non-active: A.J. Brown, Tank Bigsby."
     },
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified current future draft capital contributes 742.0 D-AVI to the franchise's dynasty total."
+      "body": "Verified current future draft capital contributes 694.0 D-AVI to the franchise's dynasty total."
     },
     {
       "id": "matchup-recap",
@@ -126,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/09_Big_Balder_Brand.md"
     ],
-    "source_last_updated": "2026-10-07",
+    "source_last_updated": "2026-10-14",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

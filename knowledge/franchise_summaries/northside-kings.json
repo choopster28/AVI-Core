@@ -5,100 +5,100 @@
   "roster_id": 5,
   "owner_display_name": "srsmith95",
   "season_phase": "regular_season",
-  "reporting_period": "Week of October 7, 2026",
-  "generated_at": "2026-10-07T15:54:52.015118-06:00",
+  "reporting_period": "Week of October 14, 2026",
+  "generated_at": "2026-10-14T14:33:11.068297-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Northside Kings: Weekly Front Office Brief",
-  "executive_summary": "Northside Kings is projected #13 of 16 with a 579.30 projected-starting-lineup C-AVI total, led by Mike Evans, Bhayshul Tuten, and Stefon Diggs. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Northside Kings is projected #14 of 16 with a 561.90 projected-starting-lineup C-AVI total, led by Mike Evans, Stefon Diggs, and T.J. Hockenson. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 13,
+    "rank": 14,
     "league_size": 16,
-    "score": 579.3,
+    "score": 561.9,
     "team_above": {
-      "name": "Southside Savages",
-      "rank": 12,
-      "score": 579.5,
-      "gap": 0.20000000000004547
+      "name": "Rapid Valley Annihilation",
+      "rank": 13,
+      "score": 577.9,
+      "gap": 16.0
     },
     "team_below": {
-      "name": "Rapid Valley Annihilation",
-      "rank": 14,
-      "score": 575.4,
-      "gap": 3.8999999999999773
+      "name": "DMV Fantasy",
+      "rank": 15,
+      "score": 515.5,
+      "gap": 46.39999999999998
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 5,
+    "rank": 7,
     "league_size": 16,
-    "score": 2240.0,
-    "player_d_avi": 1158.1,
-    "future_pick_d_avi": 1081.9,
+    "score": 2143.9,
+    "player_d_avi": 1014.0,
+    "future_pick_d_avi": 1129.9,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
   "latest_trade": {
-    "transaction_id": "1411582618125762560",
-    "created_at": "2026-10-02T03:00:31.400000+00:00",
+    "transaction_id": "1414070146678448128",
+    "created_at": "2026-10-08T23:45:04.423000+00:00",
     "type": "trade",
-    "summary": "On October 1, Northside Kings completed a trade with Corgi Loaf Baking Co. and acquired 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus) and sent 2028 Round 1 (Northside Kings).",
+    "summary": "On October 8, Northside Kings completed a trade with Big Balder Brand and acquired Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins) and sent Bhayshul Tuten.",
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the QB slot above Jordan Love's 60.7 C-AVI baseline; a replacement near 60.9 C-AVI would directly attack the 0.20-point projected gap to Southside Savages."
+    "Raise the QB slot above Jordan Love's 63.0 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 16.00-point projected gap to Rapid Valley Annihilation."
   ],
   "rival_below": {
-    "franchise_name": "Rapid Valley Annihilation",
-    "projected_rank": 14,
-    "projected_score": 575.4,
+    "franchise_name": "DMV Fantasy",
+    "projected_rank": 15,
+    "projected_score": 515.5,
     "latest_trade": {
-      "transaction_id": "1387232278626713600",
-      "created_at": "2026-07-26T22:20:58.055000+00:00",
+      "transaction_id": "1410419901381775360",
+      "created_at": "2026-09-28T22:00:18.125000+00:00",
       "type": "trade",
-      "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation).",
+      "summary": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1387232278626713600",
-      "created_at": "2026-07-26T22:20:58.055000+00:00",
+      "transaction_id": "1410419901381775360",
+      "created_at": "2026-09-28T22:00:18.125000+00:00",
       "type": "trade",
-      "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation).",
+      "summary": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation)."
+    "summary": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #13 of 16 at 579.30 lineup C-AVI. Southside Savages is immediately above at 579.50, a gap of 0.20. Rapid Valley Annihilation is immediately behind at 575.40."
+      "body": "Projected #14 of 16 at 561.90 lineup C-AVI. Rapid Valley Annihilation is immediately above at 577.90, a gap of 16.00. DMV Fantasy is immediately behind at 515.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Mike Evans (80.8), Bhayshul Tuten (77.8), and Stefon Diggs (75.1)."
+      "body": "The three highest C-AVI starters are Mike Evans (82.7), Stefon Diggs (72.9), and T.J. Hockenson (71.0)."
     },
     {
       "id": "latest-trade-impact",
       "title": "Latest Trade Impact",
-      "body": "On October 1, Northside Kings completed a trade with Corgi Loaf Baking Co. and acquired 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus) and sent 2028 Round 1 (Northside Kings)."
+      "body": "On October 8, Northside Kings completed a trade with Big Balder Brand and acquired Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins) and sent Bhayshul Tuten."
     },
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above Jordan Love's 60.7 C-AVI baseline; a replacement near 60.9 C-AVI would directly attack the 0.20-point projected gap to Southside Savages.",
+      "body": "Raise the QB slot above Jordan Love's 63.0 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 16.00-point projected gap to Rapid Valley Annihilation.",
       "items": [
-        "Raise the QB slot above Jordan Love's 60.7 C-AVI baseline; a replacement near 60.9 C-AVI would directly attack the 0.20-point projected gap to Southside Savages."
+        "Raise the QB slot above Jordan Love's 63.0 C-AVI baseline; a replacement near 79.0 C-AVI would directly attack the 16.00-point projected gap to Rapid Valley Annihilation."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation)."
+      "body": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Jordan Love is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 60.7. Any acquisition should clear that exact lineup threshold."
+      "body": "Jordan Love is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 63.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -108,7 +108,7 @@
     {
       "id": "draft-assets",
       "title": "Draft Assets",
-      "body": "Verified current future draft capital contributes 1081.9 D-AVI to the franchise's dynasty total."
+      "body": "Verified current future draft capital contributes 1129.9 D-AVI to the franchise's dynasty total."
     },
     {
       "id": "matchup-recap",
@@ -126,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/05_Northside_Kings.md"
     ],
-    "source_last_updated": "2026-10-07",
+    "source_last_updated": "2026-10-14",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

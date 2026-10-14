@@ -5,29 +5,29 @@
   "roster_id": 1,
   "owner_display_name": "Thecan",
   "season_phase": "regular_season",
-  "reporting_period": "Week of October 7, 2026",
-  "generated_at": "2026-10-07T15:54:52.015118-06:00",
+  "reporting_period": "Week of October 14, 2026",
+  "generated_at": "2026-10-14T14:33:11.068297-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Conquistadors: Weekly Front Office Brief",
-  "executive_summary": "Conquistadors is projected #1 of 16 with a 732.40 projected-starting-lineup C-AVI total, led by Bijan Robinson, Puka Nacua, and Jonathan Taylor. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Conquistadors is projected #1 of 16 with a 738.80 projected-starting-lineup C-AVI total, led by Puka Nacua, Bijan Robinson, and Jonathan Taylor. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 1,
     "league_size": 16,
-    "score": 732.4,
+    "score": 738.8,
     "team_above": null,
     "team_below": {
-      "name": "Corgi Loaf Baking Co.",
+      "name": "Big Balder Brand",
       "rank": 2,
-      "score": 679.5,
-      "gap": 52.89999999999998
+      "score": 687.8,
+      "gap": 51.0
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 15,
     "league_size": 16,
-    "score": 1882.5,
-    "player_d_avi": 1304.5,
+    "score": 1781.1,
+    "player_d_avi": 1203.1,
     "future_pick_d_avi": 578.0,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -39,38 +39,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Protect the league-leading projection and avoid replacing Isaiah Likely unless the incoming option clearly exceeds 79.5 C-AVI."
+    "Protect the league-leading projection and avoid replacing Isaiah Likely unless the incoming option clearly exceeds 80.9 C-AVI."
   ],
   "rival_below": {
-    "franchise_name": "Corgi Loaf Baking Co.",
+    "franchise_name": "Big Balder Brand",
     "projected_rank": 2,
-    "projected_score": 679.5,
+    "projected_score": 687.8,
     "latest_trade": {
-      "transaction_id": "1411582618125762560",
-      "created_at": "2026-10-02T03:00:31.400000+00:00",
+      "transaction_id": "1414070146678448128",
+      "created_at": "2026-10-08T23:45:04.423000+00:00",
       "type": "trade",
-      "summary": "On October 1, Corgi Loaf Baking Co. completed a trade with Northside Kings and acquired 2028 Round 1 (Northside Kings) and sent 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus).",
+      "summary": "On October 8, Big Balder Brand completed a trade with Northside Kings and acquired Bhayshul Tuten and sent Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1411582618125762560",
-      "created_at": "2026-10-02T03:00:31.400000+00:00",
+      "transaction_id": "1414070146678448128",
+      "created_at": "2026-10-08T23:45:04.423000+00:00",
       "type": "trade",
-      "summary": "On October 1, Corgi Loaf Baking Co. completed a trade with Northside Kings and acquired 2028 Round 1 (Northside Kings) and sent 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus).",
+      "summary": "On October 8, Big Balder Brand completed a trade with Northside Kings and acquired Bhayshul Tuten and sent Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On October 1, Corgi Loaf Baking Co. completed a trade with Northside Kings and acquired 2028 Round 1 (Northside Kings) and sent 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus)."
+    "summary": "On October 8, Big Balder Brand completed a trade with Northside Kings and acquired Bhayshul Tuten and sent Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #1 of 16 at 732.40 lineup C-AVI. Corgi Loaf Baking Co. is immediately behind at 679.50."
+      "body": "Projected #1 of 16 at 738.80 lineup C-AVI. Big Balder Brand is immediately behind at 687.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Bijan Robinson (98.0), Puka Nacua (97.8), and Jonathan Taylor (96.1)."
+      "body": "The three highest C-AVI starters are Puka Nacua (99.2), Bijan Robinson (98.0), and Jonathan Taylor (95.8)."
     },
     {
       "id": "latest-trade-impact",
@@ -80,25 +80,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Protect the league-leading projection and avoid replacing Isaiah Likely unless the incoming option clearly exceeds 79.5 C-AVI.",
+      "body": "Protect the league-leading projection and avoid replacing Isaiah Likely unless the incoming option clearly exceeds 80.9 C-AVI.",
       "items": [
-        "Protect the league-leading projection and avoid replacing Isaiah Likely unless the incoming option clearly exceeds 79.5 C-AVI."
+        "Protect the league-leading projection and avoid replacing Isaiah Likely unless the incoming option clearly exceeds 80.9 C-AVI."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On October 1, Corgi Loaf Baking Co. completed a trade with Northside Kings and acquired 2028 Round 1 (Northside Kings) and sent 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus)."
+      "body": "On October 8, Big Balder Brand completed a trade with Northside Kings and acquired Bhayshul Tuten and sent Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Isaiah Likely is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 79.5. Any acquisition should clear that exact lineup threshold."
+      "body": "Isaiah Likely is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 80.9. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "Current Sleeper-owned roster has 16 active offensive players; non-active: De'Zhaun Stribling, De'Von Achane."
+      "body": "Current Sleeper-owned roster has 15 active offensive players; non-active: De'Zhaun Stribling, De'Von Achane."
     },
     {
       "id": "draft-assets",
@@ -121,7 +121,7 @@
     "files": [
       "AVI-Core/knowledge/teams/01_Conquistadors.md"
     ],
-    "source_last_updated": "2026-10-07",
+    "source_last_updated": "2026-10-14",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

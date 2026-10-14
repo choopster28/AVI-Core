@@ -5,34 +5,34 @@
   "roster_id": 11,
   "owner_display_name": "awang1900",
   "season_phase": "regular_season",
-  "reporting_period": "Week of October 7, 2026",
-  "generated_at": "2026-10-07T15:54:52.015118-06:00",
+  "reporting_period": "Week of October 14, 2026",
+  "generated_at": "2026-10-14T14:33:11.068297-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Corgi Loaf Baking Co.: Weekly Front Office Brief",
-  "executive_summary": "Corgi Loaf Baking Co. is projected #2 of 16 with a 679.50 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, DeVonta Smith, and Tyler Warren. The immediate priority is improving the QB slot without weakening that core.",
+  "executive_summary": "Corgi Loaf Baking Co. is projected #3 of 16 with a 682.70 projected-starting-lineup C-AVI total, led by Jaxon Smith-Njigba, Tyler Warren, and DeVonta Smith. The immediate priority is improving the QB slot without weakening that core.",
   "projected_power": {
-    "rank": 2,
+    "rank": 3,
     "league_size": 16,
-    "score": 679.5,
+    "score": 682.7,
     "team_above": {
-      "name": "Conquistadors",
-      "rank": 1,
-      "score": 732.4,
-      "gap": 52.89999999999998
+      "name": "Big Balder Brand",
+      "rank": 2,
+      "score": 687.8,
+      "gap": 5.099999999999909
     },
     "team_below": {
       "name": "Mile High Royal Lions",
-      "rank": 3,
-      "score": 676.7,
-      "gap": 2.7999999999999545
+      "rank": 4,
+      "score": 677.7,
+      "gap": 5.0
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 14,
     "league_size": 16,
-    "score": 1940.7,
-    "player_d_avi": 1251.4,
+    "score": 1809.2,
+    "player_d_avi": 1119.9,
     "future_pick_d_avi": 689.3,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,12 +44,12 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the QB slot above Patrick Mahomes's 77.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 52.90-point projected gap to Conquistadors."
+    "Raise the QB slot above Patrick Mahomes's 77.5 C-AVI baseline; a replacement near 82.6 C-AVI would directly attack the 5.10-point projected gap to Big Balder Brand."
   ],
   "rival_below": {
     "franchise_name": "Mile High Royal Lions",
-    "projected_rank": 3,
-    "projected_score": 676.7,
+    "projected_rank": 4,
+    "projected_score": 677.7,
     "latest_trade": {
       "transaction_id": "1394538418473545728",
       "created_at": "2026-08-16T02:12:57.536000+00:00",
@@ -70,12 +70,12 @@
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #2 of 16 at 679.50 lineup C-AVI. Conquistadors is immediately above at 732.40, a gap of 52.90. Mile High Royal Lions is immediately behind at 676.70."
+      "body": "Projected #3 of 16 at 682.70 lineup C-AVI. Big Balder Brand is immediately above at 687.80, a gap of 5.10. Mile High Royal Lions is immediately behind at 677.70."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (99.2), DeVonta Smith (91.1), and Tyler Warren (89.0)."
+      "body": "The three highest C-AVI starters are Jaxon Smith-Njigba (98.3), Tyler Warren (91.4), and DeVonta Smith (90.5)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,9 +85,9 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the QB slot above Patrick Mahomes's 77.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 52.90-point projected gap to Conquistadors.",
+      "body": "Raise the QB slot above Patrick Mahomes's 77.5 C-AVI baseline; a replacement near 82.6 C-AVI would directly attack the 5.10-point projected gap to Big Balder Brand.",
       "items": [
-        "Raise the QB slot above Patrick Mahomes's 77.6 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 52.90-point projected gap to Conquistadors."
+        "Raise the QB slot above Patrick Mahomes's 77.5 C-AVI baseline; a replacement near 82.6 C-AVI would directly attack the 5.10-point projected gap to Big Balder Brand."
       ]
     },
     {
@@ -98,12 +98,12 @@
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Patrick Mahomes is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 77.6. Any acquisition should clear that exact lineup threshold."
+      "body": "Patrick Mahomes is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 77.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "Current Sleeper-owned roster has 16 active offensive players; non-active: Tank Dell."
+      "body": "Current Sleeper-owned roster has 15 active offensive players; non-active: Tank Dell."
     },
     {
       "id": "draft-assets",
@@ -126,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/11_Corgi_Loaf_Baking_Co.md"
     ],
-    "source_last_updated": "2026-10-07",
+    "source_last_updated": "2026-10-14",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

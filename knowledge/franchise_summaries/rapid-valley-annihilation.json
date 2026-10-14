@@ -5,34 +5,34 @@
   "roster_id": 2,
   "owner_display_name": "FuzzyRaptor",
   "season_phase": "regular_season",
-  "reporting_period": "Week of October 7, 2026",
-  "generated_at": "2026-10-07T15:54:52.015118-06:00",
+  "reporting_period": "Week of October 14, 2026",
+  "generated_at": "2026-10-14T14:33:11.068297-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Rapid Valley Annihilation: Weekly Front Office Brief",
-  "executive_summary": "Rapid Valley Annihilation is projected #14 of 16 with a 575.40 projected-starting-lineup C-AVI total, led by Colston Loveland, Quinshon Judkins, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Rapid Valley Annihilation is projected #13 of 16 with a 577.90 projected-starting-lineup C-AVI total, led by Quinshon Judkins, Colston Loveland, and Caleb Williams. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
-    "rank": 14,
+    "rank": 13,
     "league_size": 16,
-    "score": 575.4,
+    "score": 577.9,
     "team_above": {
-      "name": "Northside Kings",
-      "rank": 13,
-      "score": 579.3,
-      "gap": 3.8999999999999773
+      "name": "Southside Savages",
+      "rank": 12,
+      "score": 592.6,
+      "gap": 14.700000000000045
     },
     "team_below": {
-      "name": "Crimson Tide Pods",
-      "rank": 15,
-      "score": 518.9,
-      "gap": 56.5
+      "name": "Northside Kings",
+      "rank": 14,
+      "score": 561.9,
+      "gap": 16.0
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 2,
     "league_size": 16,
-    "score": 2532.9,
-    "player_d_avi": 1210.4,
+    "score": 2432.1,
+    "player_d_avi": 1109.6,
     "future_pick_d_avi": 1322.5,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Blake Corum's 61.2 C-AVI baseline; a replacement near 65.1 C-AVI would directly attack the 3.90-point projected gap to Northside Kings."
+    "Raise the FLEX slot above AJ Barner's 62.1 C-AVI baseline; a replacement near 76.8 C-AVI would directly attack the 14.70-point projected gap to Southside Savages."
   ],
   "rival_below": {
-    "franchise_name": "Crimson Tide Pods",
-    "projected_rank": 15,
-    "projected_score": 518.9,
+    "franchise_name": "Northside Kings",
+    "projected_rank": 14,
+    "projected_score": 561.9,
     "latest_trade": {
-      "transaction_id": "1407885687583154176",
-      "created_at": "2026-09-21T22:10:14.473000+00:00",
+      "transaction_id": "1414070146678448128",
+      "created_at": "2026-10-08T23:45:04.423000+00:00",
       "type": "trade",
-      "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard.",
+      "summary": "On October 8, Northside Kings completed a trade with Big Balder Brand and acquired Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins) and sent Bhayshul Tuten.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1407885687583154176",
-      "created_at": "2026-09-21T22:10:14.473000+00:00",
+      "transaction_id": "1414070146678448128",
+      "created_at": "2026-10-08T23:45:04.423000+00:00",
       "type": "trade",
-      "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard.",
+      "summary": "On October 8, Northside Kings completed a trade with Big Balder Brand and acquired Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins) and sent Bhayshul Tuten.",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard."
+    "summary": "On October 8, Northside Kings completed a trade with Big Balder Brand and acquired Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins) and sent Bhayshul Tuten."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #14 of 16 at 575.40 lineup C-AVI. Northside Kings is immediately above at 579.30, a gap of 3.90. Crimson Tide Pods is immediately behind at 518.90."
+      "body": "Projected #13 of 16 at 577.90 lineup C-AVI. Southside Savages is immediately above at 592.60, a gap of 14.70. Northside Kings is immediately behind at 561.90."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Colston Loveland (81.8), Quinshon Judkins (80.8), and Caleb Williams (80.2)."
+      "body": "The three highest C-AVI starters are Quinshon Judkins (80.6), Colston Loveland (80.1), and Caleb Williams (79.8)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Blake Corum's 61.2 C-AVI baseline; a replacement near 65.1 C-AVI would directly attack the 3.90-point projected gap to Northside Kings.",
+      "body": "Raise the FLEX slot above AJ Barner's 62.1 C-AVI baseline; a replacement near 76.8 C-AVI would directly attack the 14.70-point projected gap to Southside Savages.",
       "items": [
-        "Raise the FLEX slot above Blake Corum's 61.2 C-AVI baseline; a replacement near 65.1 C-AVI would directly attack the 3.90-point projected gap to Northside Kings."
+        "Raise the FLEX slot above AJ Barner's 62.1 C-AVI baseline; a replacement near 76.8 C-AVI would directly attack the 14.70-point projected gap to Southside Savages."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard."
+      "body": "On October 8, Northside Kings completed a trade with Big Balder Brand and acquired Khalil Shakir, 2027 Round 2 (Gringo\u2019s Goblins) and sent Bhayshul Tuten."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Blake Corum is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 61.2. Any acquisition should clear that exact lineup threshold."
+      "body": "AJ Barner is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 62.1. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -124,9 +124,10 @@
   "source": {
     "policy": "AVI-Core current Sleeper ownership + AVI valuation data",
     "files": [
-      "AVI-Core/knowledge/teams/02_Rapid_Valley_Annihilation.md"
+      "AVI-Core/knowledge/teams/02_Rapid_Valley_Annihilation.md",
+      "knowledge/02_AVI_Historical_Trades.md"
     ],
-    "source_last_updated": "2026-10-07",
+    "source_last_updated": "2026-10-14",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

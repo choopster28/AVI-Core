@@ -5,34 +5,29 @@
   "roster_id": 16,
   "owner_display_name": "nickas",
   "season_phase": "regular_season",
-  "reporting_period": "Week of October 7, 2026",
-  "generated_at": "2026-10-07T15:54:52.015118-06:00",
+  "reporting_period": "Week of October 14, 2026",
+  "generated_at": "2026-10-14T14:33:11.068297-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Crimson Tide Pods: Weekly Front Office Brief",
-  "executive_summary": "Crimson Tide Pods is projected #15 of 16 with a 518.90 projected-starting-lineup C-AVI total, led by Jakobi Meyers, Wan'Dale Robinson, and Alec Pierce. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Crimson Tide Pods is projected #16 of 16 with a 509.70 projected-starting-lineup C-AVI total, led by Wan'Dale Robinson, Jakobi Meyers, and Alec Pierce. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 15,
+    "rank": 16,
     "league_size": 16,
-    "score": 518.9,
+    "score": 509.7,
     "team_above": {
-      "name": "Rapid Valley Annihilation",
-      "rank": 14,
-      "score": 575.4,
-      "gap": 56.5
-    },
-    "team_below": {
       "name": "DMV Fantasy",
-      "rank": 16,
-      "score": 512.1,
-      "gap": 6.7999999999999545
+      "rank": 15,
+      "score": 515.5,
+      "gap": 5.800000000000011
     },
+    "team_below": null,
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 1,
     "league_size": 16,
-    "score": 2548.1,
-    "player_d_avi": 1053.7,
+    "score": 2493.6,
+    "player_d_avi": 999.2,
     "future_pick_d_avi": 1494.4,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +39,19 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Chris Rodriguez's 57.4 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.50-point projected gap to Rapid Valley Annihilation."
+    "Raise the RB slot above Chris Rodriguez's 55.2 C-AVI baseline; a replacement near 61.0 C-AVI would directly attack the 5.80-point projected gap to DMV Fantasy."
   ],
-  "rival_below": {
-    "franchise_name": "DMV Fantasy",
-    "projected_rank": 16,
-    "projected_score": 512.1,
-    "latest_trade": {
-      "transaction_id": "1410419901381775360",
-      "created_at": "2026-09-28T22:00:18.125000+00:00",
-      "type": "trade",
-      "summary": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
-    "latest_activity": {
-      "transaction_id": "1410419901381775360",
-      "created_at": "2026-09-28T22:00:18.125000+00:00",
-      "type": "trade",
-      "summary": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle.",
-      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
-    },
-    "summary": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle."
-  },
+  "rival_below": null,
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #15 of 16 at 518.90 lineup C-AVI. Rapid Valley Annihilation is immediately above at 575.40, a gap of 56.50. DMV Fantasy is immediately behind at 512.10."
+      "body": "Projected #16 of 16 at 509.70 lineup C-AVI. DMV Fantasy is immediately above at 515.50, a gap of 5.80."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jakobi Meyers (74.4), Wan'Dale Robinson (73.3), and Alec Pierce (68.5)."
+      "body": "The three highest C-AVI starters are Wan'Dale Robinson (73.1), Jakobi Meyers (72.1), and Alec Pierce (66.7)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,25 +61,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Chris Rodriguez's 57.4 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.50-point projected gap to Rapid Valley Annihilation.",
+      "body": "Raise the RB slot above Chris Rodriguez's 55.2 C-AVI baseline; a replacement near 61.0 C-AVI would directly attack the 5.80-point projected gap to DMV Fantasy.",
       "items": [
-        "Raise the RB slot above Chris Rodriguez's 57.4 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 56.50-point projected gap to Rapid Valley Annihilation."
+        "Raise the RB slot above Chris Rodriguez's 55.2 C-AVI baseline; a replacement near 61.0 C-AVI would directly attack the 5.80-point projected gap to DMV Fantasy."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On September 28, DMV Fantasy completed a trade with Ravens Regime and acquired 2027 Round 2 (Ravens Regime) and sent George Kittle."
+      "body": "This franchise is currently projected last, so there is no team immediately beneath it."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Chris Rodriguez is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 57.4. Any acquisition should clear that exact lineup threshold."
+      "body": "Chris Rodriguez is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 55.2. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "Current Sleeper-owned roster has 13 active offensive players; non-active: Dylan Sampson, Jadarian Price, Alec Pierce."
+      "body": "Current Sleeper-owned roster has 11 active offensive players; non-active: Dylan Sampson, Raheim Sanders, Jadarian Price, Michael Pittman, Alec Pierce."
     },
     {
       "id": "draft-assets",
@@ -126,7 +102,7 @@
     "files": [
       "AVI-Core/knowledge/teams/16_Crimson_Tide_Pods.md"
     ],
-    "source_last_updated": "2026-10-07",
+    "source_last_updated": "2026-10-14",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

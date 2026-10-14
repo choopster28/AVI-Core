@@ -5,34 +5,34 @@
   "roster_id": 13,
   "owner_display_name": "GGEZGoNext",
   "season_phase": "regular_season",
-  "reporting_period": "Week of October 7, 2026",
-  "generated_at": "2026-10-07T15:54:52.015118-06:00",
+  "reporting_period": "Week of October 14, 2026",
+  "generated_at": "2026-10-14T14:33:11.068297-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Southside Savages: Weekly Front Office Brief",
-  "executive_summary": "Southside Savages is projected #12 of 16 with a 579.50 projected-starting-lineup C-AVI total, led by Tetairoa McMillan, Luther Burden, and Drake Maye. The immediate priority is improving the RB slot without weakening that core.",
+  "executive_summary": "Southside Savages is projected #12 of 16 with a 592.60 projected-starting-lineup C-AVI total, led by Tetairoa McMillan, Drake Maye, and Luther Burden. The immediate priority is improving the FLEX slot without weakening that core.",
   "projected_power": {
     "rank": 12,
     "league_size": 16,
-    "score": 579.5,
+    "score": 592.6,
     "team_above": {
       "name": "Phalhala or Bust",
       "rank": 11,
-      "score": 605.6,
-      "gap": 26.100000000000023
+      "score": 606.8,
+      "gap": 14.199999999999932
     },
     "team_below": {
-      "name": "Northside Kings",
+      "name": "Rapid Valley Annihilation",
       "rank": 13,
-      "score": 579.3,
-      "gap": 0.20000000000004547
+      "score": 577.9,
+      "gap": 14.700000000000045
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
-    "rank": 7,
+    "rank": 4,
     "league_size": 16,
-    "score": 2150.6,
-    "player_d_avi": 913.4,
+    "score": 2180.9,
+    "player_d_avi": 943.7,
     "future_pick_d_avi": 1237.2,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the RB slot above Emanuel Wilson's 57.1 C-AVI baseline; a replacement near 83.2 C-AVI would directly attack the 26.10-point projected gap to Phalhala or Bust."
+    "Raise the FLEX slot above Jayden Reed's 57.0 C-AVI baseline; a replacement near 71.2 C-AVI would directly attack the 14.20-point projected gap to Phalhala or Bust."
   ],
   "rival_below": {
-    "franchise_name": "Northside Kings",
+    "franchise_name": "Rapid Valley Annihilation",
     "projected_rank": 13,
-    "projected_score": 579.3,
+    "projected_score": 577.9,
     "latest_trade": {
-      "transaction_id": "1411582618125762560",
-      "created_at": "2026-10-02T03:00:31.400000+00:00",
+      "transaction_id": "1387232278626713600",
+      "created_at": "2026-07-26T22:20:58.055000+00:00",
       "type": "trade",
-      "summary": "On October 1, Northside Kings completed a trade with Corgi Loaf Baking Co. and acquired 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus) and sent 2028 Round 1 (Northside Kings).",
+      "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1411582618125762560",
-      "created_at": "2026-10-02T03:00:31.400000+00:00",
+      "transaction_id": "1387232278626713600",
+      "created_at": "2026-07-26T22:20:58.055000+00:00",
       "type": "trade",
-      "summary": "On October 1, Northside Kings completed a trade with Corgi Loaf Baking Co. and acquired 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus) and sent 2028 Round 1 (Northside Kings).",
+      "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On October 1, Northside Kings completed a trade with Corgi Loaf Baking Co. and acquired 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus) and sent 2028 Round 1 (Northside Kings)."
+    "summary": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #12 of 16 at 579.50 lineup C-AVI. Phalhala or Bust is immediately above at 605.60, a gap of 26.10. Northside Kings is immediately behind at 579.30."
+      "body": "Projected #12 of 16 at 592.60 lineup C-AVI. Phalhala or Bust is immediately above at 606.80, a gap of 14.20. Rapid Valley Annihilation is immediately behind at 577.90."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Tetairoa McMillan (90.7), Luther Burden (82.7), and Drake Maye (77.8)."
+      "body": "The three highest C-AVI starters are Tetairoa McMillan (90.4), Drake Maye (87.9), and Luther Burden (81.7)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the RB slot above Emanuel Wilson's 57.1 C-AVI baseline; a replacement near 83.2 C-AVI would directly attack the 26.10-point projected gap to Phalhala or Bust.",
+      "body": "Raise the FLEX slot above Jayden Reed's 57.0 C-AVI baseline; a replacement near 71.2 C-AVI would directly attack the 14.20-point projected gap to Phalhala or Bust.",
       "items": [
-        "Raise the RB slot above Emanuel Wilson's 57.1 C-AVI baseline; a replacement near 83.2 C-AVI would directly attack the 26.10-point projected gap to Phalhala or Bust."
+        "Raise the FLEX slot above Jayden Reed's 57.0 C-AVI baseline; a replacement near 71.2 C-AVI would directly attack the 14.20-point projected gap to Phalhala or Bust."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On October 1, Northside Kings completed a trade with Corgi Loaf Baking Co. and acquired 2029 Round 2 (Corgi Loaf Baking Co.), 2029 Round 1 (All Hail King Jesus) and sent 2028 Round 1 (Northside Kings)."
+      "body": "On July 26, Rapid Valley Annihilation completed a trade with Corgi Loaf Baking Co. and acquired 2026 Round 1 (Ravens Regime) and sent Wan'Dale Robinson, 2026 Round 3 (Rapid Valley Annihilation)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Emanuel Wilson is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 57.1. Any acquisition should clear that exact lineup threshold."
+      "body": "Jayden Reed is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 57.0. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -126,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/13_Southside_Savages.md"
     ],
-    "source_last_updated": "2026-10-07",
+    "source_last_updated": "2026-10-14",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

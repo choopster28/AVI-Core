@@ -5,34 +5,34 @@
   "roster_id": 3,
   "owner_display_name": "Mentomorii",
   "season_phase": "regular_season",
-  "reporting_period": "Week of October 7, 2026",
-  "generated_at": "2026-10-07T15:54:52.015118-06:00",
+  "reporting_period": "Week of October 14, 2026",
+  "generated_at": "2026-10-14T14:33:11.068297-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "Ravens Regime: Weekly Front Office Brief",
-  "executive_summary": "Ravens Regime is projected #6 of 16 with a 662.90 projected-starting-lineup C-AVI total, led by Derrick Henry, Zay Flowers, and George Kittle. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "Ravens Regime is projected #7 of 16 with a 662.30 projected-starting-lineup C-AVI total, led by Derrick Henry, Zay Flowers, and George Kittle. The immediate priority is improving the RB slot without weakening that core.",
   "projected_power": {
-    "rank": 6,
+    "rank": 7,
     "league_size": 16,
-    "score": 662.9,
+    "score": 662.3,
     "team_above": {
-      "name": "Big Balder Brand",
-      "rank": 5,
-      "score": 669.7,
-      "gap": 6.800000000000068
+      "name": "All Hail King Jesus",
+      "rank": 6,
+      "score": 664.5,
+      "gap": 2.2000000000000455
     },
     "team_below": {
-      "name": "All Hail King Jesus",
-      "rank": 7,
-      "score": 661.0,
-      "gap": 1.8999999999999773
+      "name": "Badland Banditos",
+      "rank": 8,
+      "score": 661.5,
+      "gap": 0.7999999999999545
     },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 9,
     "league_size": 16,
-    "score": 2099.9,
-    "player_d_avi": 1268.6,
+    "score": 2043.6,
+    "player_d_avi": 1212.3,
     "future_pick_d_avi": 831.3,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -44,38 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Tony Pollard's 71.1 C-AVI baseline; a replacement near 77.9 C-AVI would directly attack the 6.80-point projected gap to Big Balder Brand."
+    "Raise the RB slot above Kyle Monangai's 73.3 C-AVI baseline; a replacement near 75.5 C-AVI would directly attack the 2.20-point projected gap to All Hail King Jesus."
   ],
   "rival_below": {
-    "franchise_name": "All Hail King Jesus",
-    "projected_rank": 7,
-    "projected_score": 661.0,
+    "franchise_name": "Badland Banditos",
+    "projected_rank": 8,
+    "projected_score": 661.5,
     "latest_trade": {
-      "transaction_id": "1394122256442986496",
-      "created_at": "2026-08-14T22:39:16.777000+00:00",
+      "transaction_id": "1396908520204410880",
+      "created_at": "2026-08-22T15:10:53.824000+00:00",
       "type": "trade",
-      "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus).",
+      "summary": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
     "latest_activity": {
-      "transaction_id": "1394122256442986496",
-      "created_at": "2026-08-14T22:39:16.777000+00:00",
+      "transaction_id": "1396908520204410880",
+      "created_at": "2026-08-22T15:10:53.824000+00:00",
       "type": "trade",
-      "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus).",
+      "summary": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos).",
       "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
     },
-    "summary": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus)."
+    "summary": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos)."
   },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #6 of 16 at 662.90 lineup C-AVI. Big Balder Brand is immediately above at 669.70, a gap of 6.80. All Hail King Jesus is immediately behind at 661.00."
+      "body": "Projected #7 of 16 at 662.30 lineup C-AVI. All Hail King Jesus is immediately above at 664.50, a gap of 2.20. Badland Banditos is immediately behind at 661.50."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Derrick Henry (94.9), Zay Flowers (94.1), and George Kittle (90.3)."
+      "body": "The three highest C-AVI starters are Derrick Henry (94.9), Zay Flowers (93.2), and George Kittle (90.0)."
     },
     {
       "id": "latest-trade-impact",
@@ -85,25 +85,25 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Tony Pollard's 71.1 C-AVI baseline; a replacement near 77.9 C-AVI would directly attack the 6.80-point projected gap to Big Balder Brand.",
+      "body": "Raise the RB slot above Kyle Monangai's 73.3 C-AVI baseline; a replacement near 75.5 C-AVI would directly attack the 2.20-point projected gap to All Hail King Jesus.",
       "items": [
-        "Raise the FLEX slot above Tony Pollard's 71.1 C-AVI baseline; a replacement near 77.9 C-AVI would directly attack the 6.80-point projected gap to Big Balder Brand."
+        "Raise the RB slot above Kyle Monangai's 73.3 C-AVI baseline; a replacement near 75.5 C-AVI would directly attack the 2.20-point projected gap to All Hail King Jesus."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "On August 14, All Hail King Jesus completed a trade with Corgi Loaf Baking Co. and acquired D'Andre Swift, Justin Jefferson and sent Aaron Jones, Jaxon Smith-Njigba, 2027 Round 4 (All Hail King Jesus), 2027 Round 5 (All Hail King Jesus), 2028 Round 1 (All Hail King Jesus), 2029 Round 1 (All Hail King Jesus)."
+      "body": "On August 22, Badland Banditos completed a trade with DMV Fantasy and acquired Terry McLaurin and sent 2027 Round 3 (Crimson Tide Pods), 2028 Round 1 (Badland Banditos)."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Tony Pollard is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 71.1. Any acquisition should clear that exact lineup threshold."
+      "body": "Kyle Monangai is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 73.3. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
       "title": "Availability",
-      "body": "Current Sleeper-owned roster has 15 active offensive players; non-active: Jordyn Tyson, Ja'Kobi Lane, Adam Randall."
+      "body": "Current Sleeper-owned roster has 14 active offensive players; non-active: Jordyn Tyson, Ja'Kobi Lane, Adam Randall."
     },
     {
       "id": "draft-assets",
@@ -126,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/03_Ravens_Regime.md"
     ],
-    "source_last_updated": "2026-10-07",
+    "source_last_updated": "2026-10-14",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",

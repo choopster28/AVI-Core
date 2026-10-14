@@ -5,29 +5,34 @@
   "roster_id": 12,
   "owner_display_name": "TacticsNoob",
   "season_phase": "regular_season",
-  "reporting_period": "Week of October 7, 2026",
-  "generated_at": "2026-10-07T15:54:52.015118-06:00",
+  "reporting_period": "Week of October 14, 2026",
+  "generated_at": "2026-10-14T14:33:11.068297-06:00",
   "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
   "headline": "DMV Fantasy: Weekly Front Office Brief",
-  "executive_summary": "DMV Fantasy is projected #16 of 16 with a 512.10 projected-starting-lineup C-AVI total, led by Jalen Coker, Brenton Strange, and Rachaad White. The immediate priority is improving the FLEX slot without weakening that core.",
+  "executive_summary": "DMV Fantasy is projected #15 of 16 with a 515.50 projected-starting-lineup C-AVI total, led by Jalen Coker, Brenton Strange, and Jacory Croskey-Merritt. The immediate priority is improving the WR slot without weakening that core.",
   "projected_power": {
-    "rank": 16,
+    "rank": 15,
     "league_size": 16,
-    "score": 512.1,
+    "score": 515.5,
     "team_above": {
-      "name": "Crimson Tide Pods",
-      "rank": 15,
-      "score": 518.9,
-      "gap": 6.7999999999999545
+      "name": "Northside Kings",
+      "rank": 14,
+      "score": 561.9,
+      "gap": 46.39999999999998
     },
-    "team_below": null,
+    "team_below": {
+      "name": "Crimson Tide Pods",
+      "rank": 16,
+      "score": 509.7,
+      "gap": 5.800000000000011
+    },
     "method": "Canonical Autobots HQ 2026 Power ladder: sum of the best verified 1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
   },
   "dynasty_power": {
     "rank": 3,
     "league_size": 16,
-    "score": 2404.0,
-    "player_d_avi": 825.6,
+    "score": 2363.7,
+    "player_d_avi": 785.3,
     "future_pick_d_avi": 1578.4,
     "method": "Canonical Autobots HQ D-AVI ladder: current Sleeper-owned roster D-AVI plus reconstructed live 2027+ ownership valued with the shared projected draft-pick curve"
   },
@@ -39,19 +44,38 @@
     "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
   },
   "gap_closing_moves": [
-    "Raise the FLEX slot above Antonio Williams's 57.1 C-AVI baseline; a replacement near 63.9 C-AVI would directly attack the 6.80-point projected gap to Crimson Tide Pods."
+    "Raise the WR slot above Antonio Williams's 55.5 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 46.40-point projected gap to Northside Kings."
   ],
-  "rival_below": null,
+  "rival_below": {
+    "franchise_name": "Crimson Tide Pods",
+    "projected_rank": 16,
+    "projected_score": 509.7,
+    "latest_trade": {
+      "transaction_id": "1407885687583154176",
+      "created_at": "2026-09-21T22:10:14.473000+00:00",
+      "type": "trade",
+      "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "latest_activity": {
+      "transaction_id": "1407885687583154176",
+      "created_at": "2026-09-21T22:10:14.473000+00:00",
+      "type": "trade",
+      "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard.",
+      "source_file": "data/raw/sleeper/leagues/2026_1312185568032997376/transactions.json"
+    },
+    "summary": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard."
+  },
   "sections": [
     {
       "id": "projected-power",
       "title": "Projected Power Position",
-      "body": "Projected #16 of 16 at 512.10 lineup C-AVI. Crimson Tide Pods is immediately above at 518.90, a gap of 6.80."
+      "body": "Projected #15 of 16 at 515.50 lineup C-AVI. Northside Kings is immediately above at 561.90, a gap of 46.40. Crimson Tide Pods is immediately behind at 509.70."
     },
     {
       "id": "competitive-core",
       "title": "Competitive Core",
-      "body": "The three highest C-AVI starters are Jalen Coker (75.0), Brenton Strange (68.3), and Rachaad White (66.9)."
+      "body": "The three highest C-AVI starters are Jalen Coker (74.0), Brenton Strange (71.3), and Jacory Croskey-Merritt (65.6)."
     },
     {
       "id": "latest-trade-impact",
@@ -61,20 +85,20 @@
     {
       "id": "close-the-gap",
       "title": "Moves to Close the Gap",
-      "body": "Raise the FLEX slot above Antonio Williams's 57.1 C-AVI baseline; a replacement near 63.9 C-AVI would directly attack the 6.80-point projected gap to Crimson Tide Pods.",
+      "body": "Raise the WR slot above Antonio Williams's 55.5 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 46.40-point projected gap to Northside Kings.",
       "items": [
-        "Raise the FLEX slot above Antonio Williams's 57.1 C-AVI baseline; a replacement near 63.9 C-AVI would directly attack the 6.80-point projected gap to Crimson Tide Pods."
+        "Raise the WR slot above Antonio Williams's 55.5 C-AVI baseline; a replacement near 100.0 C-AVI would directly attack the 46.40-point projected gap to Northside Kings."
       ]
     },
     {
       "id": "rival-watch",
       "title": "Rival Watch",
-      "body": "This franchise is currently projected last, so there is no team immediately beneath it."
+      "body": "On September 21, Crimson Tide Pods completed a trade with Corgi Loaf Baking Co. and acquired Raheim Sanders, 2028 Round 1 (All Hail King Jesus) and sent Chuba Hubbard."
     },
     {
       "id": "lineup-pressure-point",
       "title": "Lineup Pressure Point",
-      "body": "Antonio Williams is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 57.1. Any acquisition should clear that exact lineup threshold."
+      "body": "Antonio Williams is the lowest C-AVI starter in the current verified Sleeper-owned lineup at 55.5. Any acquisition should clear that exact lineup threshold."
     },
     {
       "id": "availability",
@@ -102,7 +126,7 @@
     "files": [
       "AVI-Core/knowledge/teams/12_DMV_Fantasy.md"
     ],
-    "source_last_updated": "2026-10-07",
+    "source_last_updated": "2026-10-14",
     "external_sources_used": false,
     "conversation_context_used": false,
     "roster_ownership_source": "data/raw/sleeper/leagues/2026_1312185568032997376/rosters.json",
