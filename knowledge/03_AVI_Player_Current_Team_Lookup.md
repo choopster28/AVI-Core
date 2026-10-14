@@ -1196,6 +1196,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
+## PLAYER LOOKUP: Kalif Raymond
+- Player name: Kalif Raymond
+- Player ID: 3634
+- Position: WR
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
+
 ## PLAYER LOOKUP: Kayshon Boutte
 - Player name: Kayshon Boutte
 - Player ID: 9504
@@ -2065,15 +2073,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: SEA
 - Championship AVI (C-AVI, 0-100): 56.4
 - Dynasty AVI (D-AVI, 0-100): 41.8
-- Availability: available
-
-## AVAILABLE PLAYER: Kalif Raymond
-- Player name: Kalif Raymond
-- Player ID: 3634
-- Position: WR
-- NFL team: CHI
-- Championship AVI (C-AVI, 0-100): 55.7
-- Dynasty AVI (D-AVI, 0-100): 70.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Jahan Dotson
