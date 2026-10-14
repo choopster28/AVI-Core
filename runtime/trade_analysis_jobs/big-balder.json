@@ -41,9 +41,466 @@
       }
     },
     "createdAt": 1792016280258,
-    "updatedAt": 1792016281588,
+    "updatedAt": 1792016395599,
     "expiresAt": 1792448280258,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand executes a decisive win-now and dynasty trade by acquiring Malik Nabers, Tyler Warren, and Chuba Hubbard in exchange for Trey McBride, Bhayshul Tuten, and A.J. Brown. By capitalizing on A.J. Brown's current inactive status (high-ankle sprain / IR return window), Big Balder Brand increases its active starting lineup C-AVI from 687.8 to 693.9 (+6.1 C-AVI) and total offensive portfolio C-AVI by +18.1, directly advancing its organizational goal to Win Championship while simultaneously slashing core WR age.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.3,
+              "publicMarket": 95,
+              "leagueMarket": 95
+            },
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 77.3,
+              "davi": 79.9,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            },
+            {
+              "name": "A.J. Brown",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 29,
+              "cavi": 66.7,
+              "davi": 86,
+              "publicMarket": 82,
+              "leagueMarket": 82
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "TE",
+              "age": 24,
+              "cavi": 91.4,
+              "davi": 90.6,
+              "publicMarket": 91,
+              "leagueMarket": 91
+            },
+            {
+              "name": "Malik Nabers",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "WR",
+              "age": 23,
+              "cavi": 86.8,
+              "davi": 93.3,
+              "publicMarket": 94,
+              "leagueMarket": 94
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 27,
+              "cavi": 78.7,
+              "davi": 77.4,
+              "publicMarket": 77,
+              "leagueMarket": 77
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "D+",
+            "userShare": 68,
+            "otherShare": 32,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand achieves a major win by turning inactive WR A.J. Brown into 23-year-old superstar Malik Nabers, raising active starting lineup C-AVI by +6.1 while maintaining elite TE production with 24-year-old Tyler Warren."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "D+",
+            "userShare": 68,
+            "otherShare": 32,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "AVI strongly advises Big Balder Brand to accept or attempt this deal as constructed. It improves active starting power, adds elite young receiving talent, and enhances overall championship odds."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 75,
+              "summary": "Active starting lineup C-AVI increases from 687.8 to 693.9 (+6.1), immediately strengthening weekly scoring ceiling."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Adding 23-year-old Malik Nabers and 24-year-old Tyler Warren significantly lowers core offensive age."
+            },
+            "lineupQuality": {
+              "score": 70,
+              "summary": "Malik Nabers instantly slots into FLEX1 (86.8 C-AVI), shifting Saquon Barkley to FLEX2 and elevating overall lineup depth."
+            },
+            "depthResilience": {
+              "score": 60,
+              "summary": "Chuba Hubbard provides high-volume backfield depth behind Omarion Hampton, Jeremiyah Love, and Saquon Barkley."
+            },
+            "flexibilityLiquidity": {
+              "score": 55,
+              "summary": "Securing young premier assets like Nabers and Warren enhances future roster trade flexibility."
+            },
+            "overall": {
+              "score": 36,
+              "summary": "Exceptional overall return powered by acquiring Malik Nabers and Tyler Warren while offloading an inactive receiver."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -60,
+              "summary": "Active starting lineup C-AVI drops from 682.7 to 675.4 (-7.3), directly harming immediate title contention."
+            },
+            "dynastyOutlook": {
+              "score": -50,
+              "summary": "Losing 23-year-old Malik Nabers and 24-year-old Tyler Warren significantly degrades long-term nucleus stability."
+            },
+            "lineupQuality": {
+              "score": -55,
+              "summary": "Slight upgrade at TE (+3.4 C-AVI with McBride) is heavily negated by forced FLEX replacement with DJ Moore/Bhayshul Tuten."
+            },
+            "depthResilience": {
+              "score": -30,
+              "summary": "Bhayshul Tuten is a solid young back, but losing Chuba Hubbard's workhorse touches weakens current RB depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -25,
+              "summary": "Trey McBride is a premier cornerstone asset, but losing Nabers and Warren reduces top-tier young trade chips."
+            },
+            "overall": {
+              "score": -36,
+              "summary": "Severe net downgrade for an Elite Contender surrendering two cornerstone under-25 stars for an inactive receiver."
+            }
+          },
+          "explanation": "The trade strongly favors Big Balder Brand across both championship and dynasty dimensions. Big Balder Brand improves active starting lineup power (+6.1 C-AVI) and total offensive portfolio value (+18.1 C-AVI), while Corgi Loaf Baking Co. incurs an immediate lineup drop (-7.3 C-AVI) and parts with two elite under-25 core assets."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand increases active starting lineup C-AVI from 687.8 to 693.9 (+6.1 C-AVI) and total offensive roster C-AVI by +18.1, directly advancing their goal to Win Championship.",
+          "sideADynastyImpact": "Net D-AVI increases by +3.1 (261.3 incoming vs 258.2 outgoing), while dramatically rejuvenating core age at WR (29.0 down to 23.0) and TE (26.0 down to 24.0).",
+          "sideARosterImpact": "Replaces inactive A.J. Brown with active elite WR Malik Nabers in FLEX, transitions seamlessly from Trey McBride to Tyler Warren at TE, and adds Chuba Hubbard for robust RB depth.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. suffers an immediate -7.3 drop in active starting lineup C-AVI (682.7 down to 675.4) due to A.J. Brown's current inactive IR-return status.",
+          "sideBDynastyImpact": "Net D-AVI decreases slightly while surrendering two premier under-25 cornerstone assets in Malik Nabers and Tyler Warren.",
+          "sideBRosterImpact": "Creates an immediate starting vacancy at FLEX that forces DJ Moore or Bhayshul Tuten into the starting 8 while A.J. Brown remains sidelined.",
+          "valueAssessment": "Big Balder Brand receives 256.9 C-AVI and 261.3 D-AVI while giving up 238.8 C-AVI and 258.2 D-AVI, netting +18.1 C-AVI and +3.1 D-AVI."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty market consensus considers Malik Nabers an S-tier, near-untouchable dynasty WR and Tyler Warren an ascending young TE1. A.J. Brown is currently designated to return from IR following a high-ankle sprain.",
+          "aviVsMarket": "AVI reflects A.J. Brown's current inactive status via a reduced C-AVI (66.7), whereas public dynasty markets retain his higher long-term benchmark (82.0). Malik Nabers' public market value (94.0) outpaces his current C-AVI (86.8) as his snap count has fully normalized to 90%.",
+          "relevantContext": [
+            "A.J. Brown's 21-day practice window was opened on October 14, 2026, but he remains inactive for immediate starting lineups.",
+            "Malik Nabers has completely put early-season knee management behind him, commanding elite target shares in New York.",
+            "Trey McBride is the consensus dynasty TE1 with double-digit target games pacing above 100 receptions.",
+            "Tyler Warren is operating as an elite young TE1 in Indianapolis with heavy red-zone and rushing usage."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is an Elite Contender aiming to Win Championship. They lack any logical motivation to surrender two elite under-25 stars (Nabers, Warren) for an inactive receiver and a marginal TE upgrade.",
+          "packageFit": "The package offers Trey McBride at TE, but fails to replace the massive production loss at WR/FLEX while A.J. Brown is inactive.",
+          "lineupReplacement": "Corgi Loaf cannot adequately replace Malik Nabers; inserting DJ Moore or Bhayshul Tuten results in a net drop of -7.3 active C-AVI.",
+          "competitiveWindowFit": "As an Elite Contender, taking an active starting lineup penalty during the season directly damages Corgi Loaf's championship path.",
+          "positionalScarcity": "Tight end is highly scarce and McBride is the consensus TE1, but Tyler Warren is already performing as an elite TE1 (91.4 C-AVI), making the TE upgrade (+3.4 C-AVI) far too small to offset the loss at FLEX."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 5,
+            "packageMatch": 6,
+            "lineupReplacement": 0,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 41,
+          "classification": "Unlikely",
+          "explanation": "Corgi Loaf Baking Co. is an Elite Contender focused on winning the championship. Accepting this proposal results in an immediate active starting lineup drop of -7.3 C-AVI while A.J. Brown is inactive. Furthermore, surrendering two core under-25 stars in Malik Nabers (23) and Tyler Warren (24) severely compromises Corgi Loaf's present and future outlook. Consequently, Corgi Loaf is highly unlikely to accept as constructed."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "From Big Balder Brand's perspective, this trade is an exceptional outcome. It directly fulfills the user's goal to Win Championship by boosting active starting lineup C-AVI from 687.8 to 693.9 (+6.1 C-AVI), adding +18.1 in total offensive C-AVI, and securing 23-year-old superstar Malik Nabers to replace inactive WR A.J. Brown while preserving top-tier TE production with Tyler Warren.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.3,
+              "publicMarket": 95,
+              "leagueMarket": 95
+            },
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 77.3,
+              "davi": 79.9,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            },
+            {
+              "name": "A.J. Brown",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 29,
+              "cavi": 66.7,
+              "davi": 86,
+              "publicMarket": 82,
+              "leagueMarket": 82
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "TE",
+              "age": 24,
+              "cavi": 91.4,
+              "davi": 90.6,
+              "publicMarket": 91,
+              "leagueMarket": 91
+            },
+            {
+              "name": "Malik Nabers",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "WR",
+              "age": 23,
+              "cavi": 86.8,
+              "davi": 93.3,
+              "publicMarket": 94,
+              "leagueMarket": 94
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 27,
+              "cavi": 78.7,
+              "davi": 77.4,
+              "publicMarket": 77,
+              "leagueMarket": 77
+            }
+          ],
+          "whyUserShouldDoIt": "You improve your active starting lineup C-AVI by +6.1, replace inactive A.J. Brown with elite 23-year-old Malik Nabers, and maintain TE1 tier play with 24-year-old Tyler Warren.",
+          "whyOpponentMightAccept": "If Corgi Loaf strongly prioritizes obtaining the consensus TE1 in Trey McBride and is willing to wait on A.J. Brown's return from IR, they secure elite long-term ceiling at TE and WR."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.3,
+              "publicMarket": 95,
+              "leagueMarket": 95
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 67.4,
+              "davi": 68.2,
+              "publicMarket": 70,
+              "leagueMarket": 70
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 80.3,
+              "davi": 85.9,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "TE",
+              "age": 24,
+              "cavi": 91.4,
+              "davi": 90.6,
+              "publicMarket": 91,
+              "leagueMarket": 91
+            },
+            {
+              "name": "Malik Nabers",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "WR",
+              "age": 23,
+              "cavi": 86.8,
+              "davi": 93.3,
+              "publicMarket": 94,
+              "leagueMarket": 94
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 27,
+              "cavi": 78.7,
+              "davi": 77.4,
+              "publicMarket": 77,
+              "leagueMarket": 77
+            }
+          ],
+          "rationale": "If Corgi Loaf rejects due to A.J. Brown's inactive injury status, offering active starting producers like Chris Godwin and Saquon Barkley provides Corgi Loaf with immediate starting points to preserve their lineup quality."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "AJ Brown news 2026 fantasy football",
+          "Trey McBride news 2026 fantasy football",
+          "Bhayshul Tuten NFL 2026",
+          "Tyler Warren NFL 2026 fantasy football",
+          "Malik Nabers news 2026 fantasy football",
+          "Chuba Hubbard news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkLq3mcWLTJstLahsj0v9kuHgNd595UicS0Lo0zJTnGN1NZzmVEkq3l9btP3hdBb9jvW0WN6MqP22iJvXKMLcwEdzWVcedFmzI4xmU1Tnc_gdfgb4GQH7Prc79ASb1ihmDsp1BBXRT_jL8t5UC3RRNToCtoYOtoGFhEnsv6sEDPCs94BE=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC5UjtEFVCnemsmaWreLuSG2uIyVzfwf39wl8oHpstIFop5EXocmDRpGotm-F6HNVxM-afyMMFXQh7qg99HP02R5Qs9BC7NWMrKMKJO-VLCw3yU4HN-msYpwrU-Cq-P0YMxuyNCzdql3Bdq8Lmzt7vm6sp-Yv6AA5d5bPz-eqleZ97EzgNdXY3hrBez44wWeGN",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECqvN6l7AVSlPB4G_-6nBQ3sx35pYnjwwIxuVEtzXtyFWrn4--E9gZ4UCdr4jsTCrCGOfo0gQNil_jKldg9UdqjOKZwnalbddjgYgbaxrTMThLCAf_IPryphPXgK5fau1t5V9R_Zwh-Xx412D8lxaQopiiLFk-3bZvy922tVmoyWEphiqBG6B1Ae19eS7GKHsr-Va9Y2oJl-9h-lfcwbfsiRasJOVS6Yrr_wosmx0Egj6wkdNP49Lgsp6lFlNI",
+            "title": "jaguars.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN-PMSwtcYQn24nGskrpGoNeor_HY03WTPqX1uq1m30SyjcPSV81Ok2Hlo9whhNM9IsPC2Erqd7ZO6i1Tln0GreSrFnVrh_hWHvbmmVZWXAfLWO4t3d6MD1RULRfl7x7SKdH2yUAXyXkB_OT7P16tBeLAymiDqwR8EqMS38O3CleGcAXguMaX73l1O4lI8DaMk",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsNbDY-2ukTlZMSgxiYioE-31HL-VC4G1g1yUV57RG3cds9xtN-Qh-JYklt7Ko_nBDjRfHMtVzA7-T4TG-Xbi--5jjCFNdkvAH9CaGnMdMER42dEN2lmK_u5BFCsVn1L8_OLECVgO8zjK3_43VKc5pVWwU9niKShm1E2NRkp_-alAdUnEsyr_xEPNC7BXf3yxCE8R33zx8K4js3e2ejeKwdg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD7Djwwm2v6Fg-gx-U-58YfrL3-0OZYSEuDFBAcCEuPyyG3NtjbUNZngb0rul8aXMMV9j0y_5NthUQCi5iJuYJ4rWzXLDsYFNqkff9WaidCZOLWCF4gBmIRtuPU3OIjQdiR1q_YszW4kXAChhWCSSmWjq_PoqLk578hQiQd1EMeVSk3z685atpmLPUqOmT",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9Y8jD2hauarC1naot3iQ38wJH7J5iPfrODlSThdaJyFiIz8Qwi6MT7vPa54WFWIZ89LN7RIaHYlr5HMkuTO5rR5BC19GOuvSTfFGmvdyuQrcqIE7vLKDDYfmFP4s1GfLtOkd05zi5KlUB0VGkoGJfMIM8EraCgRzKeK317d_KR5gSBN4OEoFtkGrFomQgdZ0ES3224yzUot1V9T2gOTMQ_kK41uKXaVWR5gvHWos-QrTgpdIQHo6ubjbEC7U9DNOz-MklPDA=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe4v1Ybwq7-Dckb8QCk84S8BlQc1l3lrS91uFrgiw2PlRu3wT_Ybd4mJL2LxBidG1c7lmpiT3X6rEQANEKA2h2re1IHZTYzlVSjDPUGVcxKdiNJ8QonPSiKTkS0_daQLHWvRzenBJrXO4LiM8vIFP-Us2I__odW-TtRtE85jBZ",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3NpXqZx6Tfi4EVIO1WVBAt6IDRx8ke7mMrIW5do6KEZ9bsBi0bXpyz7vP3k9oyunauJx_jonTaJvxPzkLpf_2iWDuWTJxmkjgwcFiXvJuwOEdzeO7Y_ZaBmOX71Zdk2w=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqvbTPqHv3uQtrOmV-zP36UblxVjDYWry1mOZXG8ybZAlR_i26KA_72oGMKVexvISbTAz8qMuRkg1iw2JHXVkG4FI0i3aXT75pPQ4dlct9Go-nRx-LMfooM4fxo0cczOzM0e11gXKNiCndDeZonasuoDCX7ngi0B5R3n9gpDCwLv-n-oFZwKVkTSZamObps0U=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtQM7hYYgVPHVNaqvPEWTBRtttoTuR-yRo4gOdldVonenhtfsz4D_snmrUkqJ1IcBwHTv_xuelUdp5I9HQ2j4vjX5usBqwfyqtSH1HpYO7A0GtAmG7tosvGLBq8TCoYBYqHNzGKjn_RAAYxbsCMyNyAU2xEA==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG-kKROubHY4zxd7mwJyORYqng-zbOdWC6GV-V2cbeP0kBIRzj2_vaa-wlSPuSnbs6fy7nBWfdqBY5SoSiV-VHdKTgFPZqQeXxiK-6uuHo7PBl9QUwdyRQsvW7EAbyd0rUlr5FKsUUeshNK8hAgsRUPsfog9ORpABRnZg5nnKpmWEOHIN2J62y1STdTR-8wypfel7CH4l54Pxo53PLTpFPyirmtYI=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMmpBF8lO_Vze9nCAVpjC1ipCmooZLZNUDbqqx5Z_nfS6FtUXhSztkK8MvutEOC1i2JFJ-VCIYDZalrsowi4HtK_nsSSCYkVX3s88AlCkOcyKtHVnRdylwgTA-vQIjuz7mYOYH_G7uV2nl-6n6zHol66okqu8=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHANLth0LH6uhw_lp9csETxSCI-WebwXvaNir4OoGM3zGG8r-TgI9ZVWrVE2O5zG50qsRYrtMCktLMpVQgLZUxblzjLO82TgYb8f2uhL6KZPqzZw6PtdDNzLUh3ZMp6b1cvu3eu4GdXGyQ5vBtlF76FEyFn",
+            "title": "facebook.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "cc01a4638fde69c9942c56abdb586018b9e5b781",
+        "aviCoreCommittedAt": "2026-10-14T20:33:11Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 89879,
+        "groundedMarketChars": 3484,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true
+      }
+    }
   },
   {
     "id": "mv8o4lr3-00f651b3",
