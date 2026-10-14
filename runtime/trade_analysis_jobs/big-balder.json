@@ -1,5 +1,52 @@
 [
   {
+    "id": "mv8obgx3-426ece5d",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Bhayshul Tuten",
+            "assetType": "player"
+          },
+          {
+            "name": "A.J. Brown",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          },
+          {
+            "name": "Malik Nabers",
+            "assetType": "player"
+          },
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ]
+      },
+      "personalContext": "Assume AJ brown goes back to healthy full production, and his avi becomes that 87.5-90 true value that he is"
+    },
+    "createdAt": 1792016437970,
+    "updatedAt": 1792016437970,
+    "expiresAt": 1792448437970,
+    "status": "queued"
+  },
+  {
     "id": "mv8o83b6-5cd8bdb7",
     "phase": "initial",
     "mode": "analyze_trade",
