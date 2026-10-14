@@ -39,9 +39,437 @@
       ]
     },
     "createdAt": 1792016403719,
-    "updatedAt": 1792016404984,
+    "updatedAt": 1792016470027,
     "expiresAt": 1792448403719,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This proposal creates an exceptional strategic match between Northside Kings and Ravens Regime. By packaging Mike Evans and Kenny Gainwell for Tennessee's complete running back committee—Tony Pollard, Tyjae Spears, and rookie Nicholas Singleton—plus a 2027 4th pick, Northside Kings acquires total backfield stability (+18.3 C-AVI net gain) and long-term youth (+47.6 D-AVI net gain). Meanwhile, championship-contender Ravens Regime secures an elite WR starter in Mike Evans (82.7 C-AVI) to maximize their 2026 title window.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Mike Evans",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 33,
+              "cavi": 82.7,
+              "davi": 73.2,
+              "publicMarket": 75,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Kenny Gainwell",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "RB",
+              "age": 27,
+              "cavi": 61.9,
+              "davi": 66.8,
+              "publicMarket": 55,
+              "leagueMarket": 60
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 71.1,
+              "publicMarket": 65,
+              "leagueMarket": 68
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 57.4,
+              "davi": 61.4,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Nicholas Singleton",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 22,
+              "cavi": 35.1,
+              "davi": 55.1,
+              "publicMarket": 45,
+              "leagueMarket": 45
+            },
+            {
+              "name": "2027 Round 4 (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 10,
+              "leagueMarket": 10
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Northside Kings",
+            "summary": "Northside Kings secures complete control of the Tennessee Titans backfield with Tony Pollard (70.4 C-AVI) and Tyjae Spears (57.4 C-AVI), while stashing 22-year-old rookie Nicholas Singleton (55.1 D-AVI). In exchange, playoff contender Ravens Regime receives S-tier starting receiver Mike Evans (82.7 C-AVI) to boost their weekly PPR scoring ceiling."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Northside Kings",
+            "summary": "The submitted offer is fully endorsed by AVI as a high-probability, high-value proposal for both franchises."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Net positive portfolio gain in both C-AVI (+18.3) and D-AVI (+47.6), fortifying RB depth while maintaining strong WR starting quality."
+            },
+            "championshipOutlook": {
+              "score": 20,
+              "summary": "Tony Pollard (70.4) and Tyjae Spears (57.4) immediately stabilize RB2/FLEX positions alongside RJ Harvey."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Transfers age risk from 33-year-old Mike Evans into multiple younger running backs, including 22-year-old developmental talent Nicholas Singleton."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Slight WR top-end reduction is fully counterbalanced by substantial RB2 and FLEX starting upgrades."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Monopolizing the Tennessee backfield provides unmatched positional insurance against injuries."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Adds tradeable RB assets and extra draft capital to future inventory."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 20,
+              "summary": "Acquires an elite WR starter to maximize immediate championship odds while preserving baseline RB depth."
+            },
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Mike Evans (82.7 C-AVI) significantly elevates Ravens Regime's starting lineup ceiling for a 2026 title run."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Slight WR age increase by adding 33-year-old Evans, aligned with an aggressive win-now mandate."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Mike Evans steps directly into WR2/FLEX, outscoring Carnell Tate and Juwan Johnson."
+            },
+            "depthResilience": {
+              "score": -5,
+              "summary": "Consolidates secondary RB depth into a top-tier starting receiver."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Converts committee depth into a high-impact starting asset."
+            }
+          },
+          "explanation": "Both franchises achieve their primary goals: Ravens Regime gains elite starting power for a championship push, while Northside Kings converts an aging receiver into comprehensive backfield control and youth."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Generates a net +18.3 C-AVI gain by replacing Kenny Gainwell with Tony Pollard (70.4) and Tyjae Spears (57.4) across RB2 and FLEX positions.",
+          "sideADynastyImpact": "Delivers a net +47.6 D-AVI boost by trading 33-year-old Mike Evans for 22-year-old Nicholas Singleton and younger RB depth.",
+          "sideARosterImpact": "Solves RB depth behind RJ Harvey while relying on Stefon Diggs, Jordan Addison, Khalil Shakir, and Xavier Worthy at WR.",
+          "sideBChampionshipImpact": "Acquires Mike Evans (82.7 C-AVI), elevating Ravens Regime's starting PPR score significantly.",
+          "sideBDynastyImpact": "Exchanges future depth for immediate championship firepower.",
+          "sideBRosterImpact": "Upgrades starting WR2/FLEX while keeping Derrick Henry and Kyle Monangai atop the RB depth chart.",
+          "valueAssessment": "A balanced, mutually beneficial exchange where total AVI strongly aligns with both teams' competitive windows."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Mike Evans continues as a high-demand WR1/2 for contenders, while Tony Pollard and Tyjae Spears share Tennessee's backfield workload in a dual RB2/FLEX capacity.",
+          "aviVsMarket": "AVI values Evans appropriately higher in C-AVI due to his high target volume, matching public contender demand.",
+          "relevantContext": [
+            "Tony Pollard remains Tennessee's lead rusher, while Tyjae Spears operates as the primary pass-catching back.",
+            "Nicholas Singleton represents a high-upside developmental rookie stash with elite athletic tools.",
+            "Mike Evans remains an essential high-volume target for fantasy contenders."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is actively seeking immediate lineup upgrades to maximize their 2026 championship push.",
+          "packageFit": "Mike Evans satisfies Ravens Regime's desire for an S-tier starter, while Kenny Gainwell maintains baseline RB depth.",
+          "lineupReplacement": "Ravens Regime retains Derrick Henry and Kyle Monangai as primary RBs, seamlessly absorbing the loss of Pollard.",
+          "competitiveWindowFit": "Perfect alignment: Contender acquires a veteran star; retooler/rebuilder secures depth and youth.",
+          "positionalScarcity": "In a 16-team league, securing an entire backfield committee eliminates positional risk at RB."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 22,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 84,
+          "classification": "Realistic",
+          "explanation": "Ravens Regime is in Playoff Push status and receives a premier WR starter in Mike Evans while giving up secondary RB depth."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "The trade aligns with both team goals: Northside Kings locks down the full Tennessee backfield and acquires youth, while Ravens Regime gains a game-changing starter for their title push.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Mike Evans",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 33,
+              "cavi": 82.7,
+              "davi": 73.2,
+              "publicMarket": 75,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Kenny Gainwell",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "RB",
+              "age": 27,
+              "cavi": 61.9,
+              "davi": 66.8,
+              "publicMarket": 55,
+              "leagueMarket": 60
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 71.1,
+              "publicMarket": 65,
+              "leagueMarket": 68
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 57.4,
+              "davi": 61.4,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Nicholas Singleton",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 22,
+              "cavi": 35.1,
+              "davi": 55.1,
+              "publicMarket": 45,
+              "leagueMarket": 45
+            },
+            {
+              "name": "2027 Round 4 (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 10,
+              "leagueMarket": 10
+            }
+          ],
+          "whyUserShouldDoIt": "You acquire full backfield control in Tennessee, gaining Pollard and Spears for immediate RB2/FLEX starting production while stashing 22-year-old Nicholas Singleton.",
+          "whyOpponentMightAccept": "Ravens Regime adds S-tier receiver Mike Evans (82.7 C-AVI) directly to their starting lineup, bolstering their championship odds while maintaining RB depth with Gainwell."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Mike Evans",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 33,
+              "cavi": 82.7,
+              "davi": 73.2,
+              "publicMarket": 75,
+              "leagueMarket": 75
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 70.4,
+              "davi": 71.1,
+              "publicMarket": 65,
+              "leagueMarket": 68
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 57.4,
+              "davi": 61.4,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Nicholas Singleton",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 22,
+              "cavi": 35.1,
+              "davi": 55.1,
+              "publicMarket": 45,
+              "leagueMarket": 45
+            }
+          ],
+          "rationale": "A streamlined player-for-player package excluding Gainwell and the 4th round pick, providing a simpler baseline offer if the opponent prefers to keep draft capital."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Nicholas Singleton NFL draft 2026 running back",
+          "Tony Pollard news 2026 NFL",
+          "Tyjae Spears news 2026 NFL",
+          "Nicholas Singleton college football 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlEY3zBFO5OTDdJwxgtGCkk6uY1wpW6-pk9HeTDZ3LxVAweAC8SfrfyJujccUxRLJ1DO4TEagPq54zoykX2uXrzmLp2GvTiiTg-rP3huVkeDtRkSFt8oBHrWw7NdXX-5NwrujH_fw=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDYM3k3JErEjHDy7475JGcZHdbDjowBe21eUia8GfhFkfEsu2ZV--d7RlPxqjWXSCZpGhZ0M08NO3U7UojerCbFmvuLmf2Y-bdaw_ZCVrMzxVH407-8hqcfF-nljR1o4wzSrZUMkE8fUG08M0UVvrT3tDgY7_SAyXwCtAigUqh-FA-NWpV",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiKZ9OgA_0eubtGQ8nwS2Ac-whpWoI2GbKkuoEbl5HO35-sWXol3pgClUm42X_S2OTgpEMajDIUwDUiJlykTziTUx7uHLqdrz8L8xbLCsXRi9JdSOPmgj1yuaVQSuwnbf_5WMh4XQNQI00By7MT2cHeOnccbeejJcNEFd7owtIpM1_HYxQQR0D_17mFlpp7xEiBB_A95y3w2rvHTNaRA==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXZPAtml6--lxYOwBfyLMVJ93mPTVQluyalq_ovXstk3yZ0HNNyRAQoIoxYR3vWoyT8web-0Ffdqk0CK3_vUcnQ7IL0sBghIO7NHsD2s1Wbmjr8xJnn2oCrw3ctKFpInkWLiyPj6wRVhqAOkI08y2dRI5XtYxE2XD57wAyzpORT0hYpdx3LqWZH-QRiwWADmnR-LYQXQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN0d26WHI9aIyZzos4Rw3JXwmV_jmDf9f-nheEvai4u3oTiyrgAsGESxxUs-Dh6qBOAYz9VNcxpBNbm2TU54KXxBSGNC7UNOSxJFwxbiKqcg_8Y0lMGDDgqun9iiEAuL9eu4dH7lDomBx9GZMT4EnHp-Lbg4odzUvpDjnflE1YOdZP4wuJe3eI8LP1TdiqDJYFBKACBccw4T0ZsDTPtQ-AYZDPESn2-5rw",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd5AY7E2PW9zn0Gi_ozIQw-nhjTDIT-MY9ucG4hEkwra2vkctwdeuNunbUifCQaHgM2AHlw9ywqiBnO54XZrjdpYR2tepLndlOnPf9Fe4Fc4HMc3FD16_iO6Qe5yZBj09HFaKImgdK0InV1SJ9gMu87rrgeZy5B_S4GWYaQXZwk9KAixgIKX9sBgYBJsp_2AXG",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjjzwyzWUn05GulSeOWdWgloDOV2BDnrZCBsZh4byJwAK0cePdjbTJdOWgSZDQ4VwB5TXlAYSQPydBLQUXd4QynlJ3uupqN3QRQveS26gGH52gTrWw0bZLxTw5UFRpHDlXoYllFaRAXWqOaErmcj3rkUxBHRYvXpHUGsDTFtMoLbh1zimHcEyFNEHabG2Y0GbiiXVWtgooPQqjGGup6YYaud44hbJWrhtDnpuIvuDHkDOPj6zYbSXyL0M=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0Fl0vSG64WCRxLBc5lzHrasoOZEj_ojsaXf8_5B9dpq6oaECs3EcaJCt3P3L-vB_FGJMRGJeTurLnG3A3PQ8x86DUp8rYDSuuAsOLz2sTtNZP7Xmu8t7PoawUSPVbWUusj9tFBcSvTLjKrD3a2dvvirK9IDMWo89t-sX1gPbosFof2BjgwNO8B1QDnIcRCwfz",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm1N6DbtY2L759SIxalrfgCZ3r1ZRxELGwa6mNiEiV4N5x38FdX5hIYLLKifzedosrSt531vfLjyf2ivJ0XGdTH1PGJ5Ud9ql4SwkbdgHUrWF25CsUFI8nFIulcGbKZCg7x0pA6PLuVZqpsg_E5RznK2Epwg==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZmAbZFGA2Hs5riDBsNIPLlESHPYxrypDSue4V67OOb9AK-frHOwYxssHSMmct9zcGyYsp7Q1vAH3uEtjaARKfljpWNIW_z28IgssV0BiJIM9X8VkiroQazp49sV5q-a8z_8gq4bmy4RX1_QdKPX3k2Ha28rtCJ_-UaBb97RXRAweLw2NiPfjEGXO_24C2ww==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3YMyOxnWY8gyNFF0LRn2B6Arbv1RvXQQkPUIRLhGRMO1TtCUeKzHxV7fIaoTDTJCINl54Jxe-kt9PGm4_hASmTxJarqlmEtEmShk3Yb096GQWw8mjcvwiTV6tzW8ot_D_NDLjDI1XrGB-8oxuqiBRDde1Uh2_mof6hpRM",
+            "title": "tennesseetitans.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR0i8lhZnQEAm2TnDqEWFqQw4HVcKlfqvpSt7ILMwL2T2vwCA_-Af4nxa5ssFyBcvH15Hn0VkbGAPx3cTDU0tUgJx3fQHwF516qCMz-CcivdWVxN5YVcU0vz4v5mFbEfA=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHTxlSGS4aEYGqqQ3ObJ2ztoO__g44QoD7NeBm_VDDGHyQVs5Sx6falkZq2J36rz7VgJ5NaEpYeaJ-J3Xg8IVQf1hvPYE2Mo8iXSN3uDrwQYpeurMFuJHaZsuERVYNyWwUym7_mnBpwDNmAYcHNT9aeBcIa2NGCSMHZGyyaAOSkNzYQA==",
+            "title": "dynastyfootballfactory.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "cc01a4638fde69c9942c56abdb586018b9e5b781",
+        "aviCoreCommittedAt": "2026-10-14T20:33:11Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86510,
+        "groundedMarketChars": 2991,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mv6o45je-b565486f",
