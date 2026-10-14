@@ -687,6 +687,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013405",
+      "c_avi": 37.1,
+      "d_avi": 50.4,
+      "nfl_team": "MIA",
+      "player_name": "Kaytron Allen",
+      "position": "RB",
+      "sleeper_id": "13405",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00004351",
       "c_avi": 37.1,
       "d_avi": 61.1,
@@ -2714,8 +2726,8 @@
     }
   ],
   "counts": {
-    "available_players": 226,
-    "rostered_players": 253
+    "available_players": 227,
+    "rostered_players": 252
   },
   "rostered_players": [
     {
@@ -5137,22 +5149,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00013405",
-      "c_avi": 37.1,
-      "d_avi": 50.4,
-      "nfl_team": "MIA",
-      "owner_id": "986498458162970624",
-      "player_name": "Kaytron Allen",
-      "position": "RB",
-      "roster_id": 11,
-      "sleeper_id": "13405",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00009511",
       "c_avi": 57.6,
       "d_avi": 53.7,
@@ -6085,14 +6081,14 @@
       "c_avi": 77.8,
       "d_avi": 74.4,
       "nfl_team": "NE",
-      "owner_id": "1178861684281753600",
+      "owner_id": "986498458162970624",
       "player_name": "Rhamondre Stevenson",
       "position": "RB",
-      "roster_id": 2,
+      "roster_id": 11,
       "sleeper_id": "7611",
       "status": "Active",
-      "team_file": "02_Rapid_Valley_Annihilation.md",
-      "team_name": "Rapid Valley Annihilation"
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,

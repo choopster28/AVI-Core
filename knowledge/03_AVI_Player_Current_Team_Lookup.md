@@ -1212,14 +1212,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
 
-## PLAYER LOOKUP: Kaytron Allen
-- Player name: Kaytron Allen
-- Player ID: 13405
-- Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
-
 ## PLAYER LOOKUP: Keaton Mitchell
 - Player name: Keaton Mitchell
 - Player ID: 9511
@@ -1688,9 +1680,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Rhamondre Stevenson
 - Player ID: 7611
 - Position: RB
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
-- Team file: 02_Rapid_Valley_Annihilation.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Rico Dowdle
 - Player name: Rico Dowdle
@@ -2541,6 +2533,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: IND
 - Championship AVI (C-AVI, 0-100): 37.4
 - Dynasty AVI (D-AVI, 0-100): 62.0
+- Availability: available
+
+## AVAILABLE PLAYER: Kaytron Allen
+- Player name: Kaytron Allen
+- Player ID: 13405
+- Position: RB
+- NFL team: MIA
+- Championship AVI (C-AVI, 0-100): 37.1
+- Dynasty AVI (D-AVI, 0-100): 50.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Tim Patrick

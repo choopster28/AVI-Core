@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-14T22:25:45.369496+00:00",
+  "generated_at_utc": "2026-10-14T23:33:10.459886+00:00",
   "statistics": {
-    "owner_trade_participations": 180,
+    "owner_trade_participations": 182,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -36,11 +36,9 @@
         "team_name": "Conquistadors"
       },
       {
-        "partner_count": 4,
+        "partner_count": 5,
         "partners": [
-          "Rapid Valley Annihilation",
-          "Ravens Regime ",
-          "Big Balder Brand"
+          "Rapid Valley Annihilation"
         ],
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. "
@@ -105,7 +103,7 @@
         "team_name": "Phalhala or Bust"
       },
       {
-        "partner_count": 4,
+        "partner_count": 5,
         "partners": [
           "Corgi Loaf Baking Co. "
         ],
@@ -144,18 +142,18 @@
         "by_season": {
           "2024": 7,
           "2025": 4,
-          "2026": 15
+          "2026": 16
         },
         "firsts_in": 7,
-        "firsts_out": 9,
+        "firsts_out": 10,
         "owner_display_name": "awang1900",
-        "picks_in": 9,
-        "picks_out": 15,
-        "players_in": 37,
+        "picks_in": 10,
+        "picks_out": 16,
+        "players_in": 38,
         "players_out": 37,
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. ",
-        "total": 26
+        "total": 27
       },
       {
         "by_season": {
@@ -310,6 +308,22 @@
       },
       {
         "by_season": {
+          "2025": 3,
+          "2026": 4
+        },
+        "firsts_in": 3,
+        "firsts_out": 0,
+        "owner_display_name": "FuzzyRaptor",
+        "picks_in": 7,
+        "picks_out": 2,
+        "players_in": 9,
+        "players_out": 11,
+        "roster_id": 2,
+        "team_name": "Rapid Valley Annihilation",
+        "total": 7
+      },
+      {
+        "by_season": {
           "2025": 4,
           "2026": 2
         },
@@ -322,22 +336,6 @@
         "players_out": 5,
         "roster_id": 8,
         "team_name": "All Hail King Jesus",
-        "total": 6
-      },
-      {
-        "by_season": {
-          "2025": 3,
-          "2026": 3
-        },
-        "firsts_in": 2,
-        "firsts_out": 0,
-        "owner_display_name": "FuzzyRaptor",
-        "picks_in": 6,
-        "picks_out": 1,
-        "players_in": 9,
-        "players_out": 10,
-        "roster_id": 2,
-        "team_name": "Rapid Valley Annihilation",
         "total": 6
       },
       {
@@ -408,10 +406,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 46
+      "2026": 47
     },
-    "two_team_trades": 87,
-    "unique_completed_trades": 89
+    "two_team_trades": 88,
+    "unique_completed_trades": 90
   },
   "trades": [
     {
@@ -6629,6 +6627,76 @@
       ],
       "transaction_id": "1414070146678448128",
       "week": 5
+    },
+    {
+      "created_at_utc": "2026-10-14T22:33:22.559000+00:00",
+      "created_timestamp_ms": 1792017202559,
+      "roster_ids": [
+        2,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "FuzzyRaptor",
+          "owner_id": "1178861684281753600",
+          "picks_received": [
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "7611",
+              "player_name": "Rhamondre Stevenson"
+            }
+          ],
+          "roster_id": 2,
+          "season": 2026,
+          "team_name": "Rapid Valley Annihilation"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 5,
+              "round": 1,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "7611",
+              "player_name": "Rhamondre Stevenson"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1416226430550884352",
+      "week": 6
     }
   ]
 }
