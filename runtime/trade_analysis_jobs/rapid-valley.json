@@ -1,5 +1,22 @@
 [
   {
+    "id": "mv7i356n-73584363",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Retool",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "createdAt": 1791945505535,
+    "updatedAt": 1791945505535,
+    "expiresAt": 1792377505535,
+    "status": "queued"
+  },
+  {
     "id": "mv7d70fb-d31e1535",
     "phase": "initial",
     "mode": "analyze_trade",
