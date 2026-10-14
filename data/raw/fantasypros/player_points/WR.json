@@ -72,7 +72,7 @@
       "player_name": "Chris Moore",
       "points": 15.3,
       "position_id": "WR",
-      "team_id": "BAL",
+      "team_id": "FA",
       "weeks": {
         "1": 6.3,
         "2": 1.6,
@@ -443,7 +443,7 @@
       "player_name": "Jared Wayne",
       "points": 10.5,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "MIA",
       "weeks": {
         "1": 2.2,
         "2": 5.3,
@@ -2699,7 +2699,7 @@
       "player_name": "Ryan Miller",
       "points": 18.2,
       "position_id": "WR",
-      "team_id": "MIA",
+      "team_id": "FA",
       "weeks": {
         "1": 0,
         "2": 14.7,

@@ -4274,7 +4274,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "FA",
+    "nfl_team": "NE",
     "normalized_name": "hassan haskins",
     "position": "RB",
     "source_ids": {
@@ -4949,7 +4949,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "FA",
+    "nfl_team": "LAC",
     "normalized_name": "jake browning",
     "position": "QB",
     "source_ids": {

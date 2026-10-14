@@ -1757,7 +1757,7 @@
       "player_name": "Decamerion Richardson",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "NO",
       "weeks": {
         "1": 0,
         "3": 0
@@ -2154,7 +2154,7 @@
       "player_name": "Jayden Price",
       "points": 0,
       "position_id": "CB",
-      "team_id": "NO",
+      "team_id": "FA",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -5294,7 +5294,7 @@
       "player_name": "Shaun Wade",
       "points": 0,
       "position_id": "CB",
-      "team_id": "PHI",
+      "team_id": "FA",
       "weeks": {
         "4": 0
       }
@@ -5415,7 +5415,7 @@
       "player_name": "Jalen Mills",
       "points": 3.75,
       "position_id": "S",
-      "team_id": "DET",
+      "team_id": "FA",
       "weeks": {
         "4": 1.5,
         "5": 2.3
@@ -5563,7 +5563,7 @@
       "player_name": "Anthony Kendall",
       "points": 2.25,
       "position_id": "CB",
-      "team_id": "BUF",
+      "team_id": "FA",
       "weeks": {
         "5": 2.3
       }

@@ -1615,7 +1615,7 @@
     {
       "cbs_player_id": "2130964",
       "player_age": "30",
-      "player_bye_week": null,
+      "player_bye_week": "13",
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "germaine-pratt.php",
@@ -1628,7 +1628,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "G. Pratt",
-      "player_team_id": "FA",
+      "player_team_id": "IND",
       "player_yahoo_id": "31904",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB54",
