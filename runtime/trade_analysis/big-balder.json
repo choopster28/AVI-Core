@@ -1,1 +1,419 @@
-[]
+[
+  {
+    "id": "mv8blzyn-b16b72b2",
+    "createdAt": 1791995143353,
+    "expiresAt": 1792427143353,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Big Balder Brand ↔ Ravens Regime",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "George Kittle",
+          "assetType": "player"
+        },
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "To acquire elite win-now cornerstones Derrick Henry and George Kittle from Ravens Regime, Big Balder Brand must construct a package that directly preserves Ravens Regime's starting lineup integrity while providing a major long-term dynasty upgrade. Offering Trey McBride paired with Saquon Barkley solves Ravens Regime's tight end age curve by delivering a 26-year-old elite tight end (McBride) and a proven high-floor RB1 replacement (Barkley). For Big Balder Brand, this trade converts dynasty horizon into immediate weekly championship horsepower, boosting starting lineup C-AVI by +9.8 points and cementing an elite 16-team fantasy championship core.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.3,
+              "publicMarket": 93,
+              "leagueMarket": 94
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 80.3,
+              "davi": 85.9,
+              "publicMarket": 82,
+              "leagueMarket": 83
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 94.9,
+              "davi": 84.6,
+              "publicMarket": 92,
+              "leagueMarket": 93
+            },
+            {
+              "name": "George Kittle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 33,
+              "cavi": 90,
+              "davi": 85.9,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand maximizes current-year championship output by capturing Derrick Henry (94.9 C-AVI) and George Kittle (90.0 C-AVI). While surrendering Trey McBride (94.8 C-AVI, 92.3 D-AVI) drops TE youth, receiving Henry creates a dominant RB trio alongside Omarion Hampton and Jeremiyah Love. Ravens Regime gains significant dynasty longevity in McBride (age 26) and receives Saquon Barkley to immediately fill Henry's starting running back role."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "This proposal aligns both organizational objectives. Big Balder Brand pushes all chips in for the 2026 title with Henry and Kittle, while Ravens Regime fortifies its core long-term with McBride and Barkley without dropping out of playoff contention."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Material net positive for Big Balder Brand's immediate 2026 title run, exchanging multi-year TE longevity for immediate weekly scoring supremacy."
+            },
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Massive boost in weekly ceiling. Derrick Henry adds elite high-volume RB1 production while Kittle preserves top-3 TE weekly ceiling."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Modest reduction in multi-year horizon by moving 26-year-old Trey McBride for 33-year-old George Kittle and 32-year-old Derrick Henry."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Net starting lineup C-AVI improves by +9.8 points across the 8 offensive starting slots."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Retains strong RB/WR bench depth with Omarion Hampton, Jeremiyah Love, Bhayshul Tuten, and Chris Godwin."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Preserves existing draft pick structure while locking in elite veteran production."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 35,
+              "summary": "Strategic win for Ravens Regime, acquiring a cornerstone dynasty tight end while remaining fully competitive in 2026."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Slight current-year ceiling dip from Henry to Barkley, but overall weekly competitiveness is fully preserved."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Huge long-term gain securing Trey McBride (age 26, 92.3 D-AVI) as a multi-year positional pillar."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "McBride immediately slots into TE1 with 94.8 C-AVI, offsetting Kittle's departure while Barkley stabilizes RB1."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Maintains solid starting depth with Kyle Monangai, Tony Pollard, and Zay Flowers."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Improves overall roster trade value and youth profile for future front-office flexibility."
+            }
+          },
+          "explanation": "This transaction represents a classic win-win trade fit in a 16-team dynasty league: Big Balder Brand consolidates maximum weekly points for a championship run, while Ravens Regime rejuvenates its roster age profile without sacrificing playoff eligibility."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand elevates its starting lineup C-AVI from 674.9 to 684.7. Derrick Henry (94.9 C-AVI) gives BBB a premier weekly RB anchor, pushing Jeremiyah Love and Bhayshul Tuten into high-upside FLEX roles.",
+          "sideADynastyImpact": "D-AVI decreases slightly due to trading 26-year-old Trey McBride (92.3 D-AVI), but BBB accepts this trade-off to maximize its explicit 'Win Championship' goal window.",
+          "sideARosterImpact": "Roster depth remains elite. BBB maintains a formidable RB rotation (Henry, Hampton, Love, Tuten) and strong WR options (Collins, Rice, Godwin).",
+          "sideBChampionshipImpact": "Ravens Regime retains high starting competitiveness (McBride 94.8 C-AVI replaces Kittle 90.0 C-AVI; Barkley 80.3 C-AVI replaces Henry 94.9 C-AVI).",
+          "sideBDynastyImpact": "Ravens Regime achieves a massive dynasty upgrade, locking down Trey McBride (26) to pair with Zay Flowers (26) and Carnell Tate (21).",
+          "sideBRosterImpact": "Solves Ravens Regime's aging TE room while maintaining starting RB volume with Barkley alongside Monangai and Pollard.",
+          "valueAssessment": "Fair market exchange. The age premium of Trey McBride bridges the C-AVI gap between Derrick Henry and Saquon Barkley."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus values Trey McBride as a top-2 dynasty tight end due to youth and target share in Arizona. Derrick Henry and George Kittle command immense win-now redraft/dynasty value for contenders despite age.",
+          "aviVsMarket": "AVI accurately reflects Henry's dominant 2026 efficiency (RB4 overall in PPR) and Kittle's post-surgery elite target involvement, while preserving McBride's elite dynasty tier.",
+          "relevantContext": [
+            "Derrick Henry leads NFL in inside-the-10 carry share and averages 22.8 PPR PPG in 2026.",
+            "George Kittle has commanded a 22%+ target share in San Francisco upon full return to action.",
+            "Trey McBride maintains elite target share (25%+) as Arizona's focal passing option."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime wants to increase championship odds while addressing veteran age exposure. Acquiring Trey McBride secures a top-tier TE for the next 5+ years.",
+          "packageFit": "Solves Ravens Regime's long-term TE position while replacing Derrick Henry's starter snaps with Saquon Barkley.",
+          "lineupReplacement": "Barkley directly steps in as Ravens Regime's RB1, while McBride replaces Kittle at TE1.",
+          "competitiveWindowFit": "Maintains Ravens Regime's 'Playoff Push' status while extending their competitive window significantly.",
+          "positionalScarcity": "Tight end positional advantage in a 16-team league is extremely scarce; exchanging elite TEs makes the deal viable."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 91,
+          "classification": "Highly Realistic",
+          "explanation": "With full availability credit applied under league rules and complete lineup replacement provided via Saquon Barkley and Trey McBride, Ravens Regime receives compelling motivation to finalize this offer."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Proposing Trey McBride and Saquon Barkley for Derrick Henry and George Kittle directly advances Big Balder Brand's 'Win Championship' goal by improving starting lineup C-AVI by +9.8 points while presenting Ravens Regime with an offer aligned with their goal to increase championship odds and improve dynasty duration.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.3,
+              "publicMarket": 93,
+              "leagueMarket": 94
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 80.3,
+              "davi": 85.9,
+              "publicMarket": 82,
+              "leagueMarket": 83
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 94.9,
+              "davi": 84.6,
+              "publicMarket": 92,
+              "leagueMarket": 93
+            },
+            {
+              "name": "George Kittle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 33,
+              "cavi": 90,
+              "davi": 85.9,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            }
+          ],
+          "whyUserShouldDoIt": "It immediately strengthens your starting lineup for the 2026 title push, adding high-volume RB1 production in Derrick Henry while maintaining top-tier TE output with George Kittle.",
+          "whyOpponentMightAccept": "Ravens Regime secures 26-year-old cornerstone Trey McBride without surrendering their 2026 playoff competitiveness, replacing Henry with high-floor starter Saquon Barkley."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.3,
+              "publicMarket": 93,
+              "leagueMarket": 94
+            },
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 77.3,
+              "davi": 79.9,
+              "publicMarket": 76,
+              "leagueMarket": 78
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 94.9,
+              "davi": 84.6,
+              "publicMarket": 92,
+              "leagueMarket": 93
+            },
+            {
+              "name": "George Kittle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 33,
+              "cavi": 90,
+              "davi": 85.9,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            }
+          ],
+          "rationale": "If Big Balder Brand prefers to retain Saquon Barkley, substituting 23-year-old Bhayshul Tuten offers Ravens Regime an even younger running back asset alongside Trey McBride."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Derrick Henry current team contract status 2026",
+          "Derrick Henry news 2026 NFL fantasy",
+          "George Kittle news 2026 NFL fantasy",
+          "George Kittle current team contract status 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpqBNICj9JhRQPEUdO11G-3XA3zDB0nmapfDoO8KxV_6ifRfkoPwo0ITQmMYybzA5ma-JJ8pkQTxYBq9_NYVEM7FltQFxmjia-VvF9hdbzSZbewMe3MnC8_sZ4Lgu72n0JNm_C-VNSrjOimBYdmGWDI8U-5YW7QOPLTPffSy1K-6rKJ0JPCZxniAPt4BcAfOfB1hj7Dmh8kd6ISDXaM0sQNJjmPagjPs7vszTTkg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZlHZCsDrYkojEHAsO8Y9sATEd4ABEr-QCP11ygu8kkh3YUJKMDRuM6fkH7zDeYUczeMXTDOO91_MLvuvQh2QJYepeT8mTdZwX2Pq74Iwi1JYZkwN2FxjFNIgF17ujHckK-c9nVbWQAw2kEIq6RXgc16fg76iX",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2w8AilqJoZkfeRzbb_yEBaRAwLXOALSFoHMLefMK3BQ-uUy_6Xm5ihpuRAKiGx1x0PGS19jxIBsN5aI4Akw9Sp28LnWBnSUuCrhf4MpUbtd3X1-dBcmy9bHUbvToY-wIX2IapwomLh5ge93wqY2S4f9WTBOiicbk5kIbGnDjoLYoEzOvRzsbrseH5g0v44drsMlcZ20qqI7UHFzOOOvjEDXTvQTlfdNpSWXYaJvwH",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFl6npR2Tc-KZGOzn7ic6jGboLQxzldWXHa68d0l5dtoKh99rabvaZrcmU-x39FMGOoshN-qRH3mF1viRrNIvFeP5sGdVs-2xHtfz8I43GHV5VQRvB57RueyBzVZgHaIIqJyFkksd9jPiE_7aBmVJ8p_MiJ0SntuJezNxJ4tLWuynF0aMD2cH5bFCWA6vMtlHAp1_vkv2ywsJu0hnrflvHuWPA9i51FbNssdwZ6E4PDcc_--dnqopgukLkoK5MbRqJ1GIenQdGMw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHnugjQLRB4d7rze6n5OUQFaSs-h0PdxDvEMwohqCPx9g8tuf2NAvR5ZUJpxJaOWr1DSY3JQeqRk5U14JZM7QhtLeW13H-7QCTXdEVX0yC36zFRzD5B0coi-KZGmR3SYLqOv6q1X00UP3YVmuPy020hhmnNDg0V4e-j9QrRKybnctUulU=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJIihPO5EvIkqE9rS_GxN_Ue9kY5Ma8SeSe-N9Oqukh9T7QOKQCK_b-Y2PqCLvyuujSwqI_dQ1jqiyV3NgVqKuFXuSi423y50hy5gJmzEh8ptx0kIH1w8LakFla50OdHYX",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwQ7ILuIdtncOFkE-FSV-6lv8pgXS4uF_evCeS5oQ0iRSYyvwz7dv8lyp_1X26P1aEQboJHhv5wIDNxdFhtiiXwH1t8rIfPgJ9mHw7ZmD-HZGK7oqaYa8A1a2rvdRnh1i9nAzdVsnWosroM-VHUDY=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwMAz1BPvtGTM8OPj4rjO87qm9Rvz6cHSqB5VqG6KAQVk4kmuMkoMXaGQhjg9B3YS-jRBaG3khobq-R80j2uZCpZ9ztsGvdFMwWIEKzahI7JJIHrBRVgaKtMVqPBW7JY_LaBp88sVbeCqLiiwVGXZkDKo77mWvKbZ_ruCzd6TqUi-eR34_MIAd1Y3YTBb2Oll2BZC-wknrEkZ4qP-CVp5JJv6Iw0ibM_CKtgnSQ_mbgre1nFYvG_XXCYpBOpBisdIqlSIsrSV9KPL4HfGjuX2nIFdIbsB7sNN_PjI9jm73EGP3h136TWV4nV144y_Jf2RWjmYo",
+            "title": "indiatimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtCsk63cZRu7LzA2El8AjbFWbcB84p16hc3TZiP5vULHespc-DbrcEawgNyiO1yYgqjJ1nkJfUptcvHXFfXy3mszDVE0Kys3DCVLwPXVpiIaH5krv_UfKiMJ2QXJC64qAYbiZiEq1HmJ40BpB75x7Hc2u26uwhhQmlW7K8UylwBlDI-BybfWYBq7vFDISt66B7gbduy8cZ",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGqN3JqGmyngdxB79YfSKQupmbgA6Y5mlr1JIlGOSk2LVl6EvVJtB-EgBy4apD8jCCNIwp3EHaoeYaBVH4ZM11lwGjVnOx0ACZHildOM8-aMWx0XoWDaUkjZvshA9rCX2Z0c1fxk5IBwpWpPImuByqZHOEXfbdfWUj5M2kUfrlyYyAlkN_sYbDmg==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV17x4NJvnpz8IG2ExzuTUtuVbQ4BFMMPQYrFp_uG8m1ojp3QDN4zPBNjAYmhhdLaa_MCUYtRzswb3pGtIhiwnqu4xXblipXWzNM3DhhoVTsTovKYTQy_bl44Ut_ZNDk5GzEeGoDO0NRE9COkkeGWCxsh--akoRzvnog==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOAt9ZuZ6YTphmh53riLKNLplPCE0wjJEHe4y1H8llygzcErjWYgNmm8-r1-CPeB8pd9tyDLkYfkT3y1nwlThtJ2GNu_Lc7VRbv1gpNOXBd1Lb0Ol21gdSDU3Wv5qP6O7q1w9vqj7Rca557BuNoI-2nhaxc-UqS6EllLL4",
+            "title": "49ers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC6Ry1MhZsrSKWXNu_3jB6XEhnz_m7IdNzFmBbXLalwViHTH_11dFJ0ZJ87QfdQQM-QNOuf4k8767lAvNNs8d5gqM31lrhpW-5_ExIK5WPOljYhR5OTUNf7vaYKS4b8Afh6H9cspum4TijG7g1g5R4bga1fSYCWc0mALPgrRUdCncvGob0SrPdyw==",
+            "title": "ninernoise.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9f2SIhUcB8TcsemFNxJr5JEqMiFYtSPz3fuPTdpbrhUy0RGExkiW5U2KAEEqhczMt_lgt3wVU2CLp_h2wpxszVqcAQL8j66V6qg-gbsylEAtO-O8zWXPypJYjmLv31ETW",
+            "title": "wikipedia.org"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c0e513df3e3798df726033dce60df76196ca4b86",
+        "aviCoreCommittedAt": "2026-10-14T14:12:26Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86526,
+        "groundedMarketChars": 3425,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  }
+]
