@@ -1,5 +1,389 @@
 [
   {
+    "id": "mv8o4lr3-00f651b3",
+    "createdAt": 1792016183195,
+    "expiresAt": 1792448183195,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Big Balder Brand ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          },
+          {
+            "name": "Malik Nabers",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand proposes trading elite TE Trey McBride to Corgi Loaf Baking Co. in exchange for rising star TE Tyler Warren and elite young WR Malik Nabers. For Big Balder Brand, this is an overwhelming strategic win, boosting starting lineup C-AVI from 687.8 to 693.9 by slotting Nabers into FLEX2 while absorbing only a minor drop from McBride (94.8 C-AVI) to Warren (91.4 C-AVI). However, from Corgi Loaf's perspective as an Elite Contender, surrendering both Warren and Nabers severely damages their starting lineup C-AVI (dropping from 682.7 to 676.8) and bench depth. Market Reality rates acceptance probability at 46% (Unlikely) because Corgi Loaf takes a major loss in overall value and lineup integrity.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.3,
+              "publicMarket": 95,
+              "leagueMarket": 94.8
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "TE",
+              "age": 24,
+              "cavi": 91.4,
+              "davi": 90.6,
+              "publicMarket": 89,
+              "leagueMarket": 91.4
+            },
+            {
+              "name": "Malik Nabers",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 23,
+              "cavi": 86.8,
+              "davi": 93.3,
+              "publicMarket": 92,
+              "leagueMarket": 86.8
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A+",
+            "otherGrade": "D",
+            "userShare": 82,
+            "otherShare": 18,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand gains massive overall value and immediate lineup production, upgrading FLEX2 from Bhayshul Tuten (77.3 C-AVI) to Malik Nabers (86.8 C-AVI) while minimally downgrading at TE from Trey McBride (94.8) to Tyler Warren (91.4). Corgi Loaf suffers a net starting lineup C-AVI drop (-5.9) and loses long-term dynasty flexibility."
+          },
+          "recommended": {
+            "userGrade": "A+",
+            "otherGrade": "D",
+            "userShare": 82,
+            "otherShare": 18,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "AVI endorses this deal as submitted for Big Balder Brand. If this deal is available on the table, accept immediately."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 75,
+              "summary": "Improves starting lineup C-AVI sum by +6.1 points, elevating FLEX2 ceiling with Malik Nabers."
+            },
+            "dynastyOutlook": {
+              "score": 85,
+              "summary": "Acquires two younger elite cornerstones (24yo Warren, 23yo Nabers) for 26yo McBride."
+            },
+            "lineupQuality": {
+              "score": 80,
+              "summary": "Upgrades FLEX2 slot significantly while retaining top-tier TE production."
+            },
+            "depthResilience": {
+              "score": 70,
+              "summary": "Adds premium WR depth to insulate against potential injuries."
+            },
+            "flexibilityLiquidity": {
+              "score": 65,
+              "summary": "Splits concentrated asset into two liquid, highly tradeable young stars."
+            },
+            "overall": {
+              "score": 64,
+              "summary": "Substantial gain in overall roster value, starting lineup power, and long-term dynasty flexibility."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -60,
+              "summary": "Starting lineup C-AVI sum drops from 682.7 to 676.8."
+            },
+            "dynastyOutlook": {
+              "score": -75,
+              "summary": "Surrenders two premier young dynamos for a single elite TE."
+            },
+            "lineupQuality": {
+              "score": -65,
+              "summary": "Loses WR1/FLEX engine Malik Nabers and forces DJ Moore into starting lineup."
+            },
+            "depthResilience": {
+              "score": -70,
+              "summary": "Severely drains offensive depth for a championship contender."
+            },
+            "flexibilityLiquidity": {
+              "score": -50,
+              "summary": "Consolidates two liquid blue-chip assets into one."
+            },
+            "overall": {
+              "score": -64,
+              "summary": "Material loss in starting lineup strength, depth, and total asset value."
+            }
+          },
+          "explanation": "Big Balder Brand gains significant starting lineup C-AVI (+6.1) and dynasty value (+8.8 D-AVI), while Corgi Loaf Baking Co. suffers lineup degradation (-5.9 C-AVI) and asset loss."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand increases starting lineup C-AVI from 687.8 to 693.9 (+6.1 points). Malik Nabers (86.8 C-AVI) upgrades FLEX2 over Bhayshul Tuten (77.3 C-AVI), while Tyler Warren (91.4 C-AVI) minimizes the loss of Trey McBride (94.8 C-AVI).",
+          "sideADynastyImpact": "Gains significant dynasty equity (+8.8 net D-AVI change), acquiring 24-year-old Warren and 23-year-old Nabers while parting with 26-year-old McBride.",
+          "sideARosterImpact": "Consolidates TE surplus into elite FLEX depth without creating any roster holes.",
+          "sideBChampionshipImpact": "Corgi Loaf's starting lineup C-AVI drops from 682.7 to 676.8 (-5.9 points), as upgrading at TE (+3.4 C-AVI) does not offset losing Nabers from FLEX and forced reliance on DJ Moore.",
+          "sideBDynastyImpact": "Surrenders two premium young offensive dynamos (Warren + Nabers) for a single elite TE, shrinking dynasty flexibility.",
+          "sideBRosterImpact": "Creates a starting FLEX hole and drains WR depth for a championship contender.",
+          "valueAssessment": "The package value heavily favors Big Balder Brand (82% to 18% share). McBride is elite, but returning both Warren and Nabers is an extreme premium."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus heavily favors receiving Tyler Warren and Malik Nabers over Trey McBride. While McBride is red-hot following 5 straight 10+ target games, Nabers just posted a 20-target explosion in Week 5, confirming his elite WR1 status post-injury recovery. Warren is a Pro Bowl sophomore TE locked into high-volume target share.",
+          "aviVsMarket": "Public market values Warren + Nabers as a massive overpay for McBride. AVI reflects a similar outcome, noting a +6.1 starting lineup C-AVI gain for Big Balder Brand.",
+          "relevantContext": [
+            "Trey McBride leads all TEs in target share through Week 5 2026.",
+            "Malik Nabers commanded 20 targets and caught 11 passes for 121 yards and 1 TD in Week 5.",
+            "Tyler Warren maintains high-end TE1 production in his sophomore season for Indianapolis."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf is an Elite Contender focused on winning the championship. They have no incentive to gut their starting lineup C-AVI to acquire McBride when they already own Warren.",
+          "packageFit": "Poor fit for Corgi Loaf. Giving up two top-tier starting assets for one marginal TE upgrade damages their title push.",
+          "lineupReplacement": "Corgi Loaf replaces Nabers with DJ Moore (77.5 C-AVI) in FLEX, resulting in a net starting lineup downgrade.",
+          "competitiveWindowFit": "Big Balder Brand extends its championship window and youth core. Corgi Loaf harms its current championship odds.",
+          "positionalScarcity": "TE scarcity is high, but Warren (91.4 C-AVI) already provides top-tier TE production, making McBride redundant at this acquisition cost."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 5,
+            "packageMatch": 4,
+            "lineupReplacement": 5,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 46,
+          "classification": "Unlikely",
+          "explanation": "While availability checks pass, Corgi Loaf would reject this proposal because surrendering both Tyler Warren and Malik Nabers creates an unnecessary starting lineup downgrade (-5.9 C-AVI) for a championship contender."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "This transaction is an ideal championship and dynasty upgrade for Big Balder Brand. You replace TE1 Trey McBride (94.8 C-AVI) with TE2 Tyler Warren (91.4 C-AVI, two years younger) and gain Malik Nabers (86.8 C-AVI, 93.3 D-AVI) to displace Bhayshul Tuten (77.3 C-AVI) in FLEX2. Net starting lineup C-AVI improves by +6.1 points. While Corgi Loaf is unlikely to accept this offer as constructed (46% Market Reality probability) due to creating a severe lineup hole, Big Balder Brand should accept without hesitation if offered.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.3,
+              "publicMarket": 95,
+              "leagueMarket": 94.8
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "TE",
+              "age": 24,
+              "cavi": 91.4,
+              "davi": 90.6,
+              "publicMarket": 89,
+              "leagueMarket": 91.4
+            },
+            {
+              "name": "Malik Nabers",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 23,
+              "cavi": 86.8,
+              "davi": 93.3,
+              "publicMarket": 92,
+              "leagueMarket": 86.8
+            }
+          ],
+          "whyUserShouldDoIt": "You secure two cornerstone offensive assets, upgrade your weekly FLEX score, and preserve top-tier TE production while de-aging your roster.",
+          "whyOpponentMightAccept": "Corgi Loaf acquires the consensus overall TE1 in Trey McBride, but would be heavily overpaying and weakening their starting lineup."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.3,
+              "publicMarket": 95,
+              "leagueMarket": 94.8
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 67.4,
+              "davi": 68.2,
+              "publicMarket": 68,
+              "leagueMarket": 67.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "TE",
+              "age": 24,
+              "cavi": 91.4,
+              "davi": 90.6,
+              "publicMarket": 89,
+              "leagueMarket": 91.4
+            },
+            {
+              "name": "Malik Nabers",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 23,
+              "cavi": 86.8,
+              "davi": 93.3,
+              "publicMarket": 92,
+              "leagueMarket": 86.8
+            }
+          ],
+          "rationale": "Adding Chris Godwin (67.4 C-AVI) provides Corgi Loaf with a startable WR replacement to fill the starting slot left vacant by Malik Nabers, making the deal far more palatable for a championship contender."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tyler Warren NFL draft 2025 2026 tight end",
+          "Trey McBride news 2026 fantasy football",
+          "Malik Nabers news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs05miXRiYJQCiexelWF8JheM_uGjOQdkKe-O_fCftuL-9Sa8nS6EDQqc_MSOAU_N_4T-A-2GEJ2Ev6sl1Ao7fu2atTiophj2WFdnoIHFHSuPPy9BGAQs3THFJvQF9z89XO0537ly77nN4hLXVq7BhRbYkFwc-H8Sh0wbZQfbWBLyqbeRaECzbRHVXARXQvpd-",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHVLd2vWQ8KGtDBVEyjW0xckFmOVbfq3-Jr3BkInC6woTfa8OwGq-Z06GYHOfZxRFKkdCtlZIpaYd8ckA8KmuvFdeYp4gdz8X8KiUQNbd84U2o7dPJLsU62KnSqE7CaMFuFZGrm8LnePWJwBAp_tbi7k7-KcsAuUb2wE5KCx1DaPhXyB4=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj6rjMrDFAzEJNPL4ygIPmTyo7XvHa7oRHlbOyCw4kMSnb-nneEelhEcVF1Qofyt5oDVJg_ntaHrE9mRnQduoGjvD3Dj4KyzoYV9JLQ_fG4V0AM9sBOU-KvSlfhJx5MlUGpb1dEEH3mS4Vw3fp5Ez2z3n12CtVIF1d6ikGyiEDdtVfPEYzfhwW6PBf-Ps=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2MWCZaNR0hbgtAp3KYvvuIuIvVwooON1Gw6IaK1vHj8_1V3ac11YxvqEddPNqCSuUJT1-z_BXSCGNRNt1uNKaBYvyonpQQ0q3weH6lw3vcO8FsoEqu3eC1sDk_77oA7XHq2MaQT_2Ae5_Piu57HFiGXcLfv5xnmWhrODRwmi4LOsRFVd5VzxtXZtx0BFQr-ocvmTpuGEFEKf6MksbOJKE6DgiALJX",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG18sf6C52I_PkI0IdHbYTwQMvtk-5yPop61CHfCFpN178vccGVNzi98sD9VT18n_z-p-Y5xXEPPshvvaGBfGwIvyus-9JTkfx0eVyO_41g7Iux-WcisEFSCAIbCOldrQ==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF99n53uRexd0nqevl2AdkOBJELgDWDFfGilUxdT3aigt2zOO9sBjh3A9gZ-rMP_BXceMz8P0e7X4Ph4Wdo11UqDfSB2g3sNyTMJb4roVApfthGGGdTN8NdLFbYRbUQLRxrSH-1KUKFsZBKuYE=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ2VIQzUowH0zymjp9-i8ct-3FWRmDl5GceJ5uoKQjVbE31T7dGKN4vAAR-KnHFRn-v6lNV2SOxWiv08pfutml5Q4MOLUUs7pVH7ycLQXkuKzn_b0XCJCZDRzlUX6qHqszD1aaIMjBfWctZOoBC6efXPtP-ilksVuTqJvknuoCFRaf3JRb0y0HTonJxO3iRNqBrQdPIse9atHIwpM3ijVQlg==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsIOhyhRU9oDsszQPjSdz_9p-PmutH8kP9-gFOkZuWp1srZ_ddZjkGmE_9QkB0dLPqlMwQa-4yBNmtEDMbFkUScLmHqbuOEzmLO2PfHdlSEh6kx-YUHGNOt6QqX4Q2xsY=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgRPQ9S5uGACPCePTmVQG4cZR1pcinWPu40EPFUS9palxdKX1fZmWqGK2dgHruqahqccUjXIFioxywNMG6lGxB7FUgkDaw05jdu7Qlq4yDunJz0_unOi0QiSiAqjEYGDAPtFcz-Rj_0BFhZKQwb_8KheZbng==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGdNY-R_Oa91Fk9wqH8mIuwcOC5p7_B1rXEOegVC5EfukZxATrFVQ7GWdc-4SHS2gjC-Jd2W0aZ-EgTgxW5_CgQCt7TK8K12a5RsKQqoXsjnyGkY-qFdSaPyEPdu0dM-BCaHroW8IbS_7KQp0oygVbjqNTHnrKVf5GCo_UjX0klDCEUlG2oxT3Y5cBXFQUJp3t7mFSn05plv7hp2F4L00oGeCfsF8=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-hcf8v7Zs-llaIy3ZzIRHnP5NtOojJN29WGQlwPUuZEQiI4q2Rg_k6f9Fh-WD_eP4AJBCQF2aew-oisoPcRpPsmqTj95QS3b0Pu5l6EbK95TRqhBqG5TMK3bnczQbWiI=",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "cc01a4638fde69c9942c56abdb586018b9e5b781",
+        "aviCoreCommittedAt": "2026-10-14T20:33:11Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88247,
+        "groundedMarketChars": 2740,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mv8bog24-cb1fcb31",
     "createdAt": 1791995224360,
     "expiresAt": 1792427224360,
