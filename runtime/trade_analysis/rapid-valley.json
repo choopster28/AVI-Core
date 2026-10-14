@@ -1,5 +1,399 @@
 [
   {
+    "id": "mv83tr09-3b654e12",
+    "createdAt": 1791982072719,
+    "expiresAt": 1792414072719,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Rapid Valley Annihilation ↔ Badland Banditos",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Retool",
+      "targetTeam": "Badland Banditos",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Kendre Miller",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 2nd · Badlands · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 3rd · Badlands · Projected mid range (3.06–3.09)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "In this 16-team dynasty league, Rapid Valley Annihilation (Retooling) proposes sending 28-year-old starting RB Rhamondre Stevenson (C-AVI: 77.8, D-AVI: 74.4) to championship contender Badland Banditos (Playoff Push) in exchange for Kendre Miller (C-AVI: 44.9, D-AVI: 42.8), a projected mid-2028 2nd-round pick (AVI: 48.5), and a projected mid-2028 3rd-round pick (AVI: 16.5). While offloading a 28-year-old running back aligns with Rapid Valley's retooling objective, accepting a backup RB with significant durability history alongside distant 2nd- and 3rd-round capital severely undersells a high-volume starting RB in a scarce 16-team format. Badland Banditos would gain a immediate starting FLEX upgrade (+15.4 starting lineup C-AVI) without surrendering any current starter or premium draft capital. Rapid Valley should Revise Offer to target Badland Banditos' 2027 1st-round draft capital instead.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 28,
+              "cavi": 77.8,
+              "davi": 74.4,
+              "publicMarket": 76.5,
+              "leagueMarket": 77.8
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Kendre Miller",
+              "assetType": "player",
+              "owner": "Badland Banditos ",
+              "position": "RB",
+              "age": 24,
+              "cavi": 44.9,
+              "davi": 42.8,
+              "publicMarket": 45,
+              "leagueMarket": 44.9
+            },
+            {
+              "name": "2028 2nd · Badlands · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Badland Banditos ",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 3rd · Badlands · Projected mid range (3.06–3.09)",
+              "assetType": "pick",
+              "owner": "Badland Banditos ",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16,
+              "leagueMarket": 16.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "A",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "Badland Banditos",
+            "summary": "Rapid Valley surrenders a reliable starting RB1/RB2 in a 16-team league for low-ceiling backup depth (Kendre Miller) and non-premium picks two years in the future. Badland Banditos captures a significant starting lineup boost for minimal asset cost."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "By substituting the fluff package of Miller and late picks for a 2027 1st-round pick, Rapid Valley secures a high-value, liquid retooling cornerstone while Badland Banditos receives the RB/FLEX push required for their title push."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -35,
+              "summary": "Immediate loss of starting RB Rhamondre Stevenson drops starting lineup C-AVI by 19.3 points as Quentin Johnston moves into FLEX2."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Offloading a 28-year-old RB is structurally correct, but Kendre Miller (42.8 D-AVI) and 2028 day-two/three picks fail to meaningful move the needle."
+            },
+            "lineupQuality": {
+              "score": -40,
+              "summary": "Forces Blake Corum into mandatory RB2 and downgrades FLEX2 to bench-level WR depth."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds two future draft selections and an additional body at RB, slightly widening bench depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Gains modest trade liquidity via 2028 2nd and 3rd round draft selections."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Net negative return for Rapid Valley due to forfeiting starting production without gaining a primary dynasty cornerstone or 1st-round pick."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Stevenson slots directly into FLEX1 (77.8 C-AVI), driving a net +15.4 starting lineup score increase."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Slight long-term age trade-off absorbing a 28-year-old RB for a 24-year-old RB and future picks."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "Pushes Tre Tucker to FLEX2 and eliminates lower-tier bench starts in key matchups."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Acquires robust RB insurance behind Kenneth Walker and Bucky Irving."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Expends 2028 day-two/three draft picks, slightly trimming future draft capital."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Major strategic win for Badland Banditos, strengthening their championship push while preserving core starters and 1st-round picks."
+            }
+          },
+          "explanation": "The trade heavily favors Badland Banditos. They convert non-starting bench pieces and distant secondary picks into a starting FLEX running back who boosts their championship odds. Rapid Valley achieves the objective of moving an aging RB, but receives an inadequate return package."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Rapid Valley's starting lineup drops -19.3 C-AVI points. Blake Corum shifts from FLEX1 to starting RB2, and Quentin Johnston (58.5 C-AVI) enters the starting lineup at FLEX2.",
+          "sideADynastyImpact": "Net D-AVI gain is minor (+33.4 total nominal D-AVI across picks/players), but lacks the concentrated quality of a 1st-round pick or young cornerstone.",
+          "sideARosterImpact": "Depletes active running back starting depth, leaving Quinshon Judkins and Blake Corum as the sole reliable weekly starters.",
+          "sideBChampionshipImpact": "Badland Banditos gains +15.4 C-AVI in starting lineup strength. Stevenson (77.8 C-AVI) takes FLEX1, pushing Tre Tucker to FLEX2 and elevating overall lineup ceiling.",
+          "sideBDynastyImpact": "Surrenders minor long-term draft assets (2028 2nd and 3rd) and a speculative RB for immediate win-now production.",
+          "sideBRosterImpact": "Strengthens active backfield rotation behind Kenneth Walker and Bucky Irving without disturbing starting WR or TE assets.",
+          "valueAssessment": "Rhamondre Stevenson (C-AVI: 77.8 / D-AVI: 74.4) commands a premium in 16-team formats where starting RBs are scarce. The combined package of Kendre Miller (44.9 C-AVI), a 2028 2nd (48.5 AVI), and a 2028 3rd (16.5 AVI) dilutes value into quantity rather than quality."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Rhamondre Stevenson as an immediate short-term high-volume option whose value is enhanced by New England backfield injuries, making him an ideal sell-high candidate for retooling rosters. Kendre Miller remains a volatile speculative dynasty hold due to recurring injuries and efficiency struggles in New Orleans.",
+          "aviVsMarket": "AVI rates Stevenson (77.8 C-AVI) accurately as a valuable starter in deep 16-team leagues. Public market sentiment aligns with moving off 28-year-old RBs during a retool, but recognizes that a package of distant 2nd/3rd picks is insufficient return for a volume starter.",
+          "relevantContext": [
+            "Stevenson is 28.0 years old and holding primary backfield duties in New England.",
+            "Kendre Miller (24.0 years old) has struggled with efficiency (under 3.0 YPC) and lingering injury concerns, remaining behind Alvin Kamara and Travis Etienne Jr.",
+            "In a 16-team format, starting running backs carry a significant scarcity premium compared to shallow formats."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Badland Banditos is in Playoff Push mode (HQ Status) seeking to maximize championship odds. Adding Stevenson strengthens their FLEX position significantly.",
+          "packageFit": "Badland Banditos easily absorbs this cost because it uses depth pieces (Kendre Miller) and future day-two/three picks without sacrificing 2027/2028 1st-round selections.",
+          "lineupReplacement": "Badland Banditos loses no starting production since Kendre Miller sits on their bench.",
+          "competitiveWindowFit": "Perfect fit for Badland Banditos' championship push. Suboptimal for Rapid Valley unless converted into a 2027 1st-round selection.",
+          "positionalScarcity": "High. In a 16-team league starting 2 RBs and 2 FLEX slots, reliable starting running backs are premium trade currency."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 96,
+          "classification": "Highly Realistic",
+          "explanation": "Badland Banditos would gladly accept this submitted offer immediately, as it provides a major starting lineup boost for non-essential bench assets and distant picks."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "While selling 28-year-old Rhamondre Stevenson aligns with Rapid Valley's Retool goal, the submitted return package (Kendre Miller + 2028 2nd + 2028 3rd) underpays for a starting running back in a 16-team league. Rapid Valley should capitalize on Badland Banditos' contender status by demanding a 2027 1st-round draft pick instead.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 28,
+              "cavi": 77.8,
+              "davi": 74.4,
+              "publicMarket": 76.5,
+              "leagueMarket": 77.8
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 Round 1 (Badland Banditos)",
+              "assetType": "pick",
+              "owner": "Badland Banditos ",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "Secures a high-value, liquid 2027 1st-round pick (AVI: 79.3) for an aging running back, directly advancing Rapid Valley's retool strategy with premium capital.",
+          "whyOpponentMightAccept": "Badland Banditos holds two 2027 1st-round picks (their own + All Hail King Jesus). Surrendering one 1st-round pick to lock in an elite FLEX starter (Stevenson) significantly enhances their championship window."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 28,
+              "cavi": 77.8,
+              "davi": 74.4,
+              "publicMarket": 76.5,
+              "leagueMarket": 77.8
+            }
+          ],
+          "receive": [
+            {
+              "name": "Kendre Miller",
+              "assetType": "player",
+              "owner": "Badland Banditos ",
+              "position": "RB",
+              "age": 24,
+              "cavi": 44.9,
+              "davi": 42.8,
+              "publicMarket": 45,
+              "leagueMarket": 44.9
+            },
+            {
+              "name": "2027 Round 1 (Badland Banditos)",
+              "assetType": "pick",
+              "owner": "Badland Banditos ",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "If Rapid Valley wants to keep Kendre Miller as a young lottery ticket RB depth piece, pairing Miller with a 2027 1st-round pick represents full fair market compensation for Stevenson."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Kendre Miller current team 2026",
+          "Rhamondre Stevenson current team 2026",
+          "Rhamondre Stevenson news 2026",
+          "Kendre Miller news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVs5kNc5DEhQbbIHh8_hn--yoxAgnsS-TClW81scRC1l7VHaASdsKWJlM7S08w4aJYQiDHS6D-9I3-eP_qZWXeZxhT1tHThNU1wdMLdCV9yfut9wEE0RH3CerMH8KBYPIRp1QlNeWhA1TQzDmkcxBCnBU5MiFyBf7PwaobVd9Hzb21WqcqJp4=",
+            "title": "clnsmedia.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7flLMge9nxmZ0KmnwZSmOapkxnNKjDkGPVcdZrKaCkNMqGZor3xmoJtxxCOVunQqqjG9jzi4_bh01e77V9eVdNuwKPrc2Q2Snaqq5fIAOVK50IXSRbFONT36U_sUB_OwzLxn3_0Ql7n-2fvtS-xQBD_tN0NPt",
+            "title": "patriots.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERauICPeoQOEKbrT5KkTWaChbFOPZzr0DqMlc5ciS1-tElYIb4Gc4rCAg4gK7tv9zDr_vHxOK5TcMxe_yUoUi0h1esoVJ-b6XEojPeTwhiXm9YpORGHi5bZOYmUzq4DJSo9hkkxBUyEccJEZ5OvLJlLCBJ8MoMYj8lpQdnmmdaQKJ4ggO1ITIV9_IwmUrMILzED-4YLX9NzLiaaa71kg==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDPuYgsI2RW2L5tqlyX3WudR_YpW11QvH2XyeZiSFRQjnShRT4gjTm9s8Q-tuAE_Wmt2Xf57dbVXO0v82R_xDGHP2Rbxw2ZzTSDXBUdrdbU-Lm1IBG64U9NSqk-whC_vUoI-a0V67LCUlxVYdV",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXU0DD4_OpaDo8CpAxtbc0a6Q19Wai1frA13XwhB86DWBXQlxsp8dPwsExSjOVpeyCDKNs-ig9MfGU5jlhxJ__Q-T2T8Xv198mehwG_EchJLRLtKoJrsCdKPEgq9yRRczh5nmhpcRDpPIMOS3dK8p-4w5VNPIMnbyu0C9IOmfmKAnz7fk3PlbPabutmQfZuEk5Bi4vnJz8W-GwOQ7ah-Kgjk27X14eli8T7w==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQfxxyAo9CeBHeahaSaz41N8a0ksNZJxzoXaFzgu1GMT2f5WOSvQEoUwsipR_mUW3j9yYWcsjL_mibdB9LB9VxaCd8xEtLd_aNZUNnwhQzvW2hTAOQ0WeovkJtVlxR2UncbX5junWgppTNLqEbHO3ctUYXPKz4dW6-FmxGrxqcagD0JXWkM5aqLucZqvMQ0Nhbu-M9de2jQvAvYvJND8sDhIcKoAj_JUtYJ_gQWHiqPZaisbxu-L8Wj-bwqKNDLw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU7cYDTByNSgWuPfNaMDIKUn6hNc8tYPgVXFJ3gxydEGyQfdelm9hSwgzL-9xMIj6kWrVtzTyXAF2_dbAW1IBxvHrzE5XLLFNH08n0CTnAht4JL42K3cM8GavpgSaBAhd37c7W59u9xGUPM9VNwm4ZPEs7Wct0lIRB37pKrmG4c_M5oIb5dXhdOZ_LDdoHFQOcnpyRmaTNdQwIt7Db6dX4OpevylcU",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaPBcxW1368tQdsshlWLtumupw9BHlKTkqbLv0Ob7LVYzqkyqc5PbRfiUnuX9sapE3si0HNy9U-DR5d403Ray-epGcQwduKxpL8xFkVZR7iR8eI5zuF7dCTyLdI6X1xyD6vPc-Rww=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDjoEQ_qO9F5v8WA6y0EAPebJy_ICJnA8cwteWRUZUMpF7JmRoKz_3n33xfUFqF19awQ4jMBmbaGqRU3TMnwy3DO1kVa-hTEi8UbpTTXsZc8UvFr8Sa5DVyvwQfbxzXckUbdLLFj6KNRGLLehgK2WnerRERMzXQEFTq5LbAQ==",
+            "title": "neworleanssaints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqoTl8SQ9BZFiidTKJw9bEAn-Uv8JYeDJqj4uZtP2UkxyU5wg453ycY3eOSdIuaKg_WkaMI3klIP0n5DRBexWsRG6kNR5VXuv40Hh-hHmlakVYJUYxeQqunNxhPCm7MDsxzQ5ri5y1WzsfN4JDKaCsq7zjWuCD_Zy3X1KYHosrJcdp8BALjKsiPKVXj5yAjN-5knK-h_LT_QFsD0E97oFANvSHwgxBJeLkNhbz17wbRGTnlNZsJgwp",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbxaRW-nSZI94ZsPz9DRVsaeDO-PiN83DFqlLWaA8I4pHDha2RySKHU90_Rljfky-tmZFtlSsVn74qQVR84c1XDVPqyR7PiPUdu4IGum1NLZhtxUkqWkfs4Q_hkxFnqT-jojcF-u7mzRNMywtXNQmPHg==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4sHNAEN8emXG_st925tAFcnHVascTiRZzncPZQTF4FrVXUeD9PHnpgEI5G0ZdI9NMazFDZqMpi4ZSiNFcFvor4kHwEwDqdPwl8uZLWOc5i3ktGF8alvlopXWMbyN33n_mw7XF06CKG9oqjWdkhYulCHKZ-1Z9mps=",
+            "title": "neworleanssaints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtH1P1aTEViuQIo9HPj8HaDKUVinNyEhdhhmUwd7iGCY4kURfQSpuHibfaHfDrCj9Fk6OiFgDXMlWPXu2rvj-dKH_LIIyXTiYxbBYkBnTQvSa89b2Ygii4dpOOMY2ripEQr5ZhjdeMDNw04tIMRQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4sCblkgD769yYetCCnkg_bFxhJuiYIk3v3XfnLq5aSNecfNZuFM8PUTuxsAllK2-KuMpuYi7PFO2kBV2Mg0UZ7K8aPpxM6zvCyjBTMKrfHIJCBn0o6WwACdQN0dXIgMxTK8tZFJvYS5MRp5hu6MvdFmmpfN2GlNFBjaHyktq7_24YezjyiFZjD2cGcxFHzaXl0icgnTl1fw==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL-gkWmtmFbwWwIQf_AocekL7cd-lZf8rjbylBzR1A9hl-OgIDJOVse4sk59dz-1JzEEzK9wjRCDUOGDvrXI3ToAL_zkE9LdHqcJs5tv76ugfW-hpmWDltxErQ-l_0I00=",
+            "title": "wikipedia.org"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7d0e5887b5a1a2bb55604472c989dc712d9d631f",
+        "aviCoreCommittedAt": "2026-10-14T08:12:48Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 83188,
+        "groundedMarketChars": 2502,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mv7i356n-73584363",
     "createdAt": 1791945577296,
     "expiresAt": 1792377577296,
