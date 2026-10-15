@@ -1,5 +1,337 @@
 [
   {
+    "id": "mva30y3o-a2206ccd",
+    "createdAt": 1792101658170,
+    "expiresAt": 1792533658170,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Corgi Loaf Baking Co. ↔ Northside Kings",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Northside Kings",
+      "trade": {
+        "sideA": [
+          {
+            "name": "David Montgomery",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Stefon Diggs",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. (Elite Contender, goal: Win Championship) proposes sending RB David Montgomery and a 2027 2nd-round pick to Northside Kings (Rebuilder) for WR Stefon Diggs. This trade is strategically sound for Northside Kings but severely disadvantageous for Corgi Loaf. Stefon Diggs (32 years old, 74.7 C-AVI) does not crack Corgi Loaf's elite starting wide receiver group (Jaxon Smith-Njigba, DeVonta Smith, Malik Nabers, DJ Moore) or top FLEX options, meaning Corgi Loaf would be trading away a productive, higher-value starting RB (David Montgomery, 78.5 C-AVI) and premium draft capital for a bench asset. Corgi Loaf should decline this submitted proposal and instead offer draft capital alone (such as the 2027 2nd) if interested in adding Diggs as veteran depth.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 78.5,
+              "davi": 84.7,
+              "publicMarket": 78.5,
+              "leagueMarket": 78.5
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Stefon Diggs",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 32,
+              "cavi": 74.7,
+              "davi": 75.4,
+              "publicMarket": 74.7,
+              "leagueMarket": 74.7
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D",
+            "otherGrade": "A",
+            "userShare": 25,
+            "otherShare": 75,
+            "advantageFranchise": "Northside Kings",
+            "summary": "The submitted offer requires Corgi Loaf Baking Co. to overpay significantly. Corgi Loaf gives up a higher-value, younger RB and a top-50 rookie pick for a 32-year-old WR who would fail to make Corgi Loaf's active starting lineup. Northside Kings gains major rebuild assets for an aging veteran."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Sending only the 2027 2nd-round pick for Stefon Diggs allows Corgi Loaf to preserve crucial running back depth while acquiring a high-upside WR depth piece for their championship run. Northside Kings achieves their rebuilding objective by converting an aging WR into future capital."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Losing David Montgomery reduces starting FLEX options and damages RB injury resilience during a championship push."
+            },
+            "dynastyOutlook": {
+              "score": -30,
+              "summary": "Trading a 29-year-old RB and a 2027 2nd for a 32-year-old WR results in net aging and loss of future liquidity."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Diggs (74.7 C-AVI) ranks below Corgi Loaf's existing FLEX starters (Nabers 87.0, Montgomery 78.5, Stevenson 78.4, DJ Moore 78.2)."
+            },
+            "depthResilience": {
+              "score": -30,
+              "summary": "Trims RB depth down to Skattebo, Hubbard, and Stevenson, leaving the roster fragile to backfield injuries."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders a valuable 2027 2nd-round pick that could be better deployed for mid-season target acquisitions."
+            },
+            "overall": {
+              "score": -50,
+              "summary": "Corgi Loaf suffers a substantial loss in total asset equity and positional balance without gaining a starting upgrade."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Acquires starting RB production in David Montgomery, though Northside Kings' verified goal is rebuilding."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Gains a mid-2nd pick and a re-tradable RB asset for an aging wideout."
+            },
+            "lineupQuality": {
+              "score": 15,
+              "summary": "Montgomery immediately slots into Northside Kings' starting lineup at RB."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Improves overall RB stability and adds draft equity."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Adds 2027 draft capital to fuel the rebuilding process."
+            },
+            "overall": {
+              "score": 50,
+              "summary": "Northside Kings receives massive value in return for a 32-year-old wide receiver."
+            }
+          },
+          "explanation": "This trade harms Corgi Loaf's championship portfolio by draining RB depth and draft capital for an asset (Diggs) who does not upgrade their starting 8 offensive slots. Northside Kings reaps a significant windfall by converting a 32-year-old WR into two valuable assets."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Negative. Corgi Loaf weakens its FLEX/RB depth. Montgomery (78.5 C-AVI) is currently a startable FLEX2 or prime RB depth, whereas Diggs (74.7 C-AVI) sits behind JSN (99.2), DeVonta Smith (90.8), Malik Nabers (87.0), and DJ Moore (78.2) on Corgi Loaf's WR depth chart.",
+          "sideADynastyImpact": "Negative. Giving up a 2027 2nd-round pick (48.5 AVI) and a 29-year-old RB (84.7 D-AVI) for a 32-year-old WR (75.4 D-AVI) loses 57.8 total D-AVI points.",
+          "sideARosterImpact": "Creates an unnecessary hole in RB depth, leaving Corgi Loaf reliant on Cam Skattebo, Chuba Hubbard, and Rhamondre Stevenson without a primary safety net.",
+          "sideBChampionshipImpact": "Positive immediate production gain (+3.8 C-AVI differential on player swap alone plus pick equity).",
+          "sideBDynastyImpact": "Extremely positive for a rebuilder (+57.8 D-AVI net addition including the 2027 2nd).",
+          "sideBRosterImpact": "Bolsters Northside Kings' weak RB room (RJ Harvey, MarShawn Lloyd) with Montgomery while netting a 2027 2nd.",
+          "valueAssessment": "The submitted construction is heavily slanted toward Northside Kings (75/25 advantage). Corgi Loaf is giving up both the superior current player (Montgomery) and draft capital for a older player with a lower C-AVI."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty sentiment values 32-year-old Stefon Diggs as a short-term veteran rental piece. David Montgomery is valued as a mid-tier starting RB in Houston, though currently managing a week-to-week groin injury with Woody Marks pressuring backfield touches. However, in deep 16-team fantasy leagues, starting RBs carry far higher market premium than 32-year-old WRs on 1-year contracts.",
+          "aviVsMarket": "AVI and public consensus agree that 32-year-old WRs lose market value rapidly. Surrendering a 2027 2nd on top of a starting RB for Diggs is widely viewed across public dynasty market benchmarks as a severe overpay.",
+          "relevantContext": [
+            "David Montgomery (groin) is week-to-week; short-term availability is limited, but long-term RB2/FLEX utility remains solid.",
+            "Stefon Diggs (hamstring) missed Week 5 and is questionable for Week 6 on a 1-year Washington deal.",
+            "Corgi Loaf already possesses four WRs with higher C-AVI than Stefon Diggs."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Northside Kings is in Rebuild mode and actively seeking youth and draft capital. They would accept this submitted trade immediately.",
+          "packageFit": "Poor strategic fit for Corgi Loaf. Corgi Loaf needs RB depth and high-ceiling starters, not a 5th wide receiver.",
+          "lineupReplacement": "Northside Kings easily replaces Diggs in their lineup with Jordan Addison or Khalil Shakir, while upgrading RB. Corgi Loaf replaces Montgomery with Rhamondre Stevenson at FLEX but weakens RB bench security.",
+          "competitiveWindowFit": "Fails competitive window logic for Corgi Loaf. A contender should not trade starting depth + draft capital for a bench piece.",
+          "positionalScarcity": "In a 16-team PPR league, usable starting RBs are significantly scarcer and more valuable than veteran WR depth."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 15,
+            "lineupReplacement": 12,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 92,
+          "classification": "Highly Realistic",
+          "explanation": "Northside Kings would accept this submitted offer almost immediately because it heavily favors them as a rebuilder. However, 'realistic acceptance by opponent' does not make it a good trade for Corgi Loaf Baking Co."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "Corgi Loaf Baking Co. should DECLINE this trade. David Montgomery (78.5 C-AVI) has higher current and long-term value than Stefon Diggs (74.7 C-AVI, age 32). Adding a 2027 2nd-round pick on top for a wide receiver who does not enter Corgi Loaf's starting lineup damages both current championship depth and future flexibility.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Stefon Diggs",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 32,
+              "cavi": 74.7,
+              "davi": 75.4,
+              "publicMarket": 74.7,
+              "leagueMarket": 74.7
+            }
+          ],
+          "whyUserShouldDoIt": "Acquires Stefon Diggs as elite WR/FLEX bench depth for the championship push without surrendering any starting RB assets or roster depth.",
+          "whyOpponentMightAccept": "Northside Kings is a verified rebuilder. Cashing in 32-year-old Stefon Diggs for a top-50 2027 draft pick directly furthers their long-term rebuilding objective."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Stefon Diggs fantasy outlook 2026",
+          "David Montgomery fantasy outlook 2026",
+          "David Montgomery news 2026 NFL",
+          "Stefon Diggs news 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtV-9X19rA0iYmXORVtZcTAjg3x_s1HZeIknpTBDN8Aqw_DYY6_G7Hk99QrspiKV6GK5o18NblXb8CsNl72pfbl2ayh0ykSs7yN2mEHT1lxrjhRVcwb_Ns4inwUUHMciqp6TXyVuJSUuvSVxlxKz6TctMwKHvPw9hVvddsg7-TsvVYyxPJnwGnGrnH7NYYV_2eYvp_xWy8OAG_vB9FkLWO0Gs=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES2ENHlK0ul9SFfq3LlCfyz9XHX-u9Rti4eu_OJFDuzb6l-tAYH4seSqbf66GtXLxePsXwfMsf7voA7v7Vc9lIHNGWKihbIP49Ah8hRU4rwGnzvEEoKyUtQSoKYPGUVtZfH8zIemPMZRekmASlitrSvkdcNQ==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErWakn2Yl8aFyZ8qeX85nqmvdiIa2e7EPird-JpYL0J9uAZ-VIGKYJe91fTLSGxg-hZKENtpJh3c22v5zNdw0vJWZwJDDN37OyMPqRHk41CrNjo6SHY-q-vdvK3JRdenfZbRQN-PzSGBtQX8wLtW7BYajfKCBvp9M-0a9XrQKVYT3PAw2LHqi7NYWhtABxIULPZ3GaxZyI2OU7",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWoVza4pC3OnmDroYNMauwyxrHyt9HcapdyWqdez3Ecc0unFW0MDSfpqr_b_5ZvlJTx-ZVM_8HZw8y8gs1rB1UXQVT3F2eklJACqPQ-SmwrhXxXFy1Nl0Tcxp_6JKGRZeAanqSCNcwvlme_Q6fY4Wbm1bP3QzKdT89T29ipbSLk7y5fpP0U0P6SQag09QNU6hY549iWN7qtmqq",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8k4dFxW5ZVqm5HS5YiTMg4dTfkYhinN5v_vAVuQc8NJfpb0eNZiWI0-YEiHU2mK7AY9YfPEHH8_Jw-ygvQc5G9cVqdNU0VakNHSLsElS2qXIgbLr0KcOXZ9lqzI49M5WrC6Zg7tZK5DzYgegI6nC6T-sJs98kHN5xDE6rmfFTY9MYorB-v99lZImc0vGiavbBKvAyhOFuGg==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtuWPxaBo0di9gMtim7PLxgi_D1l07tU6MxoqNMGpkOWzf4vsCKkUvmAxd9E2ZTtuXyhnYFV62JJ6_MyNh_RwYZnjq9Js3oDAE99hYTL5LhG_DCJiEXljUpO1gIx_wvcEgLVoBT5mKScgb3CCN9hXDcyl6NSMZcLjzpQzxp5PClHHZlK6zUhzyEl6gXbITa3tvcjZwtWPwH2hAlx7oPkIQXhcJrJuBjaia5tVmqA==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhCmopvo4ibpEqYE0gnZBzmcfKL2Q4n1i_q8YH3JCaPDwYejwS0LyE37jEmS2UIufy3Ece3CVIPIn8SKqPUyEcPyvt35xrm5jZiPHciK-hy_8PMwTjZebiA3wCP_XHfczHDjXvy_8rhFrhIO6z3geoGpqH53dLg5iN1RWDrh37gsojl8rpXOUGYdBK3zfU-4H3qt8=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxJIsgE5SUG5rpp7pliqSpYK-yAbtaGt3Q7pJnpVkQTPhqeczGZ_ZXXuuMFWhRnzPnDqt2BKOJS2x4nIrKy2GMqzcxP22JPJio_qBiUAcDTTYronhObuQkV68kVqEUboaXqsBR-LNXDddeWS41Q9lO3aE7RWZNqO0Vi-yo34GNGGGj",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjB8NpcQiILva2FommyL9fdySakL9FjUhXtX7QQF3oLdC7dIq4bGY7pmk5sMhf8LbVpKP_nfZM23hHArJuNrZIfjeU-A-B-Wjs2QVMLZJUJMyAH58sV3mN3Thko62av_e9PeI4A7ZU55BtO1l7AYGkZlMv0yBqMQvC8ObGimqiiRsxYq6ByqT3E2y4i9RY8PjFtAnwh55z3bdviaOnPsuhdSpK7DkhyLnqFXc=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwvjFKkRWjYgvUpq8Fp5ghnSB3UjA7P1zEu5l15L-h55Ma_m29BoF61EQBsNmguxsqisFqtAlFq8sASeLo6uiwJkIhJpbTnwL9PHtPkG2jiIDraQteqFo1RL7eSKDmrffcFobi_cUZBzziRavR5oLEMwILWMjpDx4H6q3aFqEyDrez62Np48EKB2V-cQ_NnDNuhaoLhpUOlw3l",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHFxgFNJ1y7GA4PEPsTxXeU1ntmCrgz46HtUYSRUVshNLWGy4QNi8IKx-JIfVf0JfCaSk0aRwYb-Z1nTfAMfvuG_LTKpZ6WbXSXSFHUK37CrB2llsWKd8FBTn-8AsH_EbXUFYQHVY6GaLfb3TslLsJMAuzCt4cbxMpHyIeOPi_nGDpYwRqflxnyMwdW2mnM0z3s5bwLDU5TqTlKHgHQQ2O-fB7UaJ_",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFykIqpMH8cljFYE5CNrZ9lnbGBJ_GCVlNIV-BR-_VN5t3piHlmLii-iCIM3HrJnE__Ede_6fWFc0vgOzYAnYL_d6_yKuoP9fgumJ0w_mk-7efdhCqAOhuh4TIrgrH0kwHlrANfGoaSSTi5rSJ7ojVNm0Xc7kgTONvPBpvSU9JQgg==",
+            "title": "commanders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv8GPjIGk1BXWoTvoBJJfl-BgPPaxnpe3rL9Z1MF4caBwfWXKEr1ZZMIPTnRVrDidbLGcReTIjRAfhJegvo6ajsGzgYZrYCc5KrncbgpPxwwdu64INIjoLINqU18rBnM-g",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "2a79142a154176ff9042fb677c596d0548cd539d",
+        "aviCoreCommittedAt": "2026-10-15T18:46:47Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 87218,
+        "groundedMarketChars": 3197,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mv9x3kci-4c53b21f",
     "createdAt": 1792091713822,
     "expiresAt": 1792523713822,
