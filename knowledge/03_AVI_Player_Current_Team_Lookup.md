@@ -484,6 +484,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
 
+## PLAYER LOOKUP: Darnell Washington
+- Player name: Darnell Washington
+- Player ID: 9479
+- Position: TE
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
+
 ## PLAYER LOOKUP: Darren Waller
 - Player name: Darren Waller
 - Player ID: 2505
@@ -2064,15 +2072,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 57.6
 - Dynasty AVI (D-AVI, 0-100): 56.1
-- Availability: available
-
-## AVAILABLE PLAYER: Darnell Washington
-- Player name: Darnell Washington
-- Player ID: 9479
-- Position: TE
-- NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 56.5
-- Dynasty AVI (D-AVI, 0-100): 62.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Justice Hill
