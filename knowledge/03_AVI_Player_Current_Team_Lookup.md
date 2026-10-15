@@ -1692,6 +1692,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
+## PLAYER LOOKUP: Roman Wilson
+- Player name: Roman Wilson
+- Player ID: 11630
+- Position: WR
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
+
 ## PLAYER LOOKUP: Rome Odunze
 - Player name: Rome Odunze
 - Player ID: 11620
@@ -2137,15 +2145,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: SF
 - Championship AVI (C-AVI, 0-100): 49.3
 - Dynasty AVI (D-AVI, 0-100): 44.6
-- Availability: available
-
-## AVAILABLE PLAYER: Roman Wilson
-- Player name: Roman Wilson
-- Player ID: 11630
-- Position: WR
-- NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 49.0
-- Dynasty AVI (D-AVI, 0-100): 25.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Dawson Knox
