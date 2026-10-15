@@ -1,5 +1,337 @@
 [
   {
+    "id": "mva4a2ei-07a6b44a",
+    "createdAt": 1792103813281,
+    "expiresAt": 1792535813281,
+    "mode": "improve_team",
+    "title": "Initial Improve My Team · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. enters the market as an Elite Contender pursuing a 2026 Championship. Having deployed all 2027, 2028, and 2029 1st-round draft picks in prior transactions, Corgi Loaf's acquisition strategy relies on player-centric packages leveraging quarterback surplus (Patrick Mahomes, publicly available on the trade block) and startable skill-position depth. Across 15 evaluated rival front offices, three highly realistic trade opportunities emerge that directly satisfy both Corgi Loaf's title push and the strategic goals of the target trade partners.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Elite Contender / Championship Window",
+          "strengths": [
+            "Elite wide receiver cornerstone core (Jaxon Smith-Njigba 99.2 C-AVI, DeVonta Smith 90.8 C-AVI, Malik Nabers 87.0 C-AVI)",
+            "High-upside young TE foundation (Tyler Warren 91.4 C-AVI)",
+            "Deep pool of startable RB2/FLEX options (Cam Skattebo, Chuba Hubbard, David Montgomery, Rhamondre Stevenson)"
+          ],
+          "priorityNeeds": [
+            "S-tier WR/FLEX point-ceiling upgrade to secure title odds",
+            "High-efficiency RB starting upgrade"
+          ],
+          "tradeableSurplus": [
+            "Patrick Mahomes (QB, 77.7 C-AVI, confirmed publicly available on Autobots trade block)",
+            "Depth WR/RB starters (DJ Moore, David Montgomery, Chuba Hubbard, Rhamondre Stevenson)",
+            "2027 Round 2 Draft Capital (Badland Banditos original)"
+          ],
+          "constraintsApplied": [
+            "Win Championship buyer goal enforced: incoming assets must provide immediate, high-ceiling 2026 starter productivity.",
+            "Hard Injury Rule: De'Von Achane (Conquistadors) is inactive with a season-ending ACL injury and cannot fulfill immediate 2026 active lineup needs.",
+            "Starter-for-Starter Realism: Every player involved in trade packages must belong to the league-relative starter/FLEX pool.",
+            "Draft Pick Constraints: Corgi Loaf owns no 2027, 2028, or 2029 1st-round draft capital."
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Conquistadors (Win Championship): De'Von Achane is listed on the Autobots trade block but is hard-unavailable due to a season-ending ACL injury, making him ineligible for immediate 2026 championship lineup needs.",
+            "Crimson Tide Pods (Rebuild): Active roster lacks top-tier active RB/WR/TE starters matching Corgi Loaf's high-ceiling title criteria.",
+            "DMV Fantasy (Rebuild): Roster lacks high-impact active starters exceeding Corgi Loaf's current lineup threshold.",
+            "Gringo's Goblins (Retool): Retool asking prices for Kyren Williams and Emeka Egbuka require 1st-round draft capital that Corgi Loaf does not possess."
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Northside Kings",
+            "targetGoal": "Rebuild",
+            "targetAssets": [
+              {
+                "name": "Mike Evans",
+                "assetType": "player",
+                "owner": "Northside Kings",
+                "position": "WR",
+                "age": 33,
+                "cavi": 83.5,
+                "davi": 83.8,
+                "publicMarket": 80,
+                "leagueMarket": 80
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 27,
+                "cavi": 79.2,
+                "davi": 84.9,
+                "publicMarket": 80,
+                "leagueMarket": 80
+              },
+              {
+                "name": "2027 Round 2 Pick (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 50
+              }
+            ],
+            "scenarioType": "Veteran Win-Now Acquisition",
+            "strategicGoal": "Acquire high-performing veteran wide receiver production for the 2026 playoff stretch.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Mike Evans brings 83.5 C-AVI scoring and proven red-zone efficiency, providing Corgi Loaf with immediate WR/FLEX starting fire-power.",
+            "whyOpponentMightAccept": "Northside Kings is in explicit Rebuild mode. Trading away a 33-year-old veteran receiver for a 27-year-old starting RB (Chuba Hubbard, 79.2 C-AVI) plus a 2027 2nd-round pick aligns perfectly with their rebuilding timeline.",
+            "championshipImpact": "Injects immediate veteran scoring ceiling into Corgi Loaf's 2026 playoff lineup.",
+            "dynastyImpact": "Accepts short-term age risk at WR in exchange for maxing out 2026 championship odds.",
+            "rosterImpact": "Capitalizes on RB surplus (Cam Skattebo, David Montgomery, Rhamondre Stevenson remain) to bolster WR depth.",
+            "publicMarketContext": "Mike Evans remains a potent touchdown-scoring WR2/WR3 in redraft, while Chuba Hubbard commands high volume in Carolina.",
+            "risks": [
+              "Age cliff risk on Mike Evans beyond the 2026 season.",
+              "Reduces backfield depth resilience."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Chuba Hubbard and a 2027 4th-round pick for Mike Evans.",
+              "acceptableConcession": "Upgrade the pick offer to the 2027 2nd-round pick (Badland Banditos original).",
+              "walkAwayPoint": "Walk away if Northside Kings request additional 2028/2029 2nd-round picks or top young assets."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Phalhala or Bust",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Jaylen Warren",
+                "assetType": "player",
+                "owner": "Phalhala or Bust",
+                "position": "RB",
+                "age": 27,
+                "cavi": 83.4,
+                "davi": 86.2,
+                "publicMarket": 82,
+                "leagueMarket": 82
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Patrick Mahomes",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "QB",
+                "age": 31,
+                "cavi": 77.7,
+                "davi": 85.1,
+                "publicMarket": 80,
+                "leagueMarket": 80
+              },
+              {
+                "name": "David Montgomery",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 78.5,
+                "davi": 84.7,
+                "publicMarket": 80,
+                "leagueMarket": 80
+              }
+            ],
+            "scenarioType": "Positional Need & QB Pillar Swap",
+            "strategicGoal": "Upgrade RB starting ceiling with Jaylen Warren's dual-threat production.",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 22,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 80,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Jaylen Warren offers 83.4 C-AVI / 86.2 D-AVI dual-threat scoring in Pittsburgh's backfield, elevating Corgi Loaf's starting RB efficiency.",
+            "whyOpponentMightAccept": "Phalhala or Bust is Retooling and has a glaring weakness at QB (relying on C.J. Stroud 57.4 C-AVI and Fernando Mendoza 41.7 C-AVI). Patrick Mahomes gives them a elite QB foundation, while David Montgomery (78.5 C-AVI) maintains their starting RB depth alongside Ashton Jeanty.",
+            "championshipImpact": "Solidifies RB2/FLEX scoring tier with Warren's high PPR floor and ceiling.",
+            "dynastyImpact": "Slightly lowers QB asset tier while gaining a 27-year-old prime RB asset.",
+            "rosterImpact": "Leverages QB surplus to acquire starting RB production.",
+            "publicMarketContext": "Jaylen Warren continues to command high passing-game target share in Pittsburgh, making him a high-floor PPR RB2.",
+            "risks": [
+              "Trading Patrick Mahomes limits QB depth if Tyler Shough experiences instability.",
+              "Jaylen Warren shares touch distribution in Pittsburgh."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Patrick Mahomes for Jaylen Warren straight up, emphasizing their immediate QB need.",
+              "acceptableConcession": "Include David Montgomery to provide immediate RB starting replacement.",
+              "walkAwayPoint": "Walk away if Phalhala or Bust demands additional draft picks or Tyler Warren."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba 2026 breakout fantasy",
+          "Amon Ra St Brown 2026 fantasy news",
+          "De Von Achane news 2026 injury fantasy",
+          "Patrick Mahomes 2026 stats news fantasy",
+          "Christian Watson 2026 fantasy news injury"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKYoPJzAnwKIbwQmR_awvBaUCZb4q4CLXVPa66dCTZYI4ItUNYoLxbnkTSEc6cLa28AMQQRWDEh_y4TjGQgcwyQcocTg4gkSZGSp74983O0CUHX_P0TH4GSgNtfCkHQ8mhBr5s0poaGdCR4Wm4w-LPzFAMizYf",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXa5DMg44A0AarIGVV-3O5N7EAve3TOyr5xyXA4vwO_7AF9jExnUmVGV5DAJwCSk0XrGHXJcftBSjlvZGJ1qOLNXUnUlkVPKKLzAKrJtEyuqlePvD3qekcbEXcZIEUOgPNMdN5ZMbVNFQsnhAlQ1IRHz4gIAb_LQBghUuH_1bTATmsaKVrSykDqXyPo4K91LSIun7miKzH3L8TnorfbTKvDmfIeGO5PDc=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg5bNIuQ7a_IWbBTgxLEcx4SONnO1-qt7QYVtsARshOsLNRTnTsnGWZPmIWHF23rrIyH7V2LgbbHsENLmIBem_Xm3CbP37RVyQCzyyw0IxFtLeq15RHIeQY-rx63LqQXcwxXdnSnuavnPzoxnnvA7dObjoCbzQK7a5HA==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo1wF57KDNAhQGbl05ZG2juNJtAjCNik74y4qzemZ87WaI2ihMfjt1Zh-roEpn4u2JcHWnhs5f-OIzaXfYeAHe0xm-Iaq1K5sPaN6TFCG686kxFHpCHM2UxNyIg6KVthLL5YBjk0ZA21463qODmud_AVIMZJW3GvEdS-q8Iy5Ogol9JZYQ_bc2z307JgaTn-PwoY5X",
+            "title": "fantasypoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEteLKVVAlOAifH170Swoa-foNzCNpxLX5tK7vxxkDjz4YfE2w2CSqOHFMQq3QQDRUaJGmv54lnG_zV9fLvAnxTYgoRnKhT_NKyRl5IoD0jnegFY8WMGfrxPIWB77D5apbxCaRsF6aCJbx6PhhvCworeB78LfpDKByAFCa5",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlkp72iVbKLXP80D62vYEVWpFQCF4lOMjg9QAs0TPh69Ni1clLCJ1VF93BAKM9y6c1rCFREMWpuwesOlChthcRYkqlJPWJIeVGcOE_apYKXjp2IrLqS9QQNFNizv7MzqkHj9_m_UhnHRktJw2KO5oW-DRO9KxcSBY3vmIMHw==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlGtFF1bhF6F1LlpatqNzQNgv8-8iAfKRIxFcRsv6v3EnausUPgKReV1Xaetg8zgL1vx94VwRmhS0GPyVv0Ulm0pR4jr3RXKrvyHCH6or6RYplg9nDlBYQ0SHk5R25DmcW",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRHl7axX9AfV23NopYIZoJMEOs92EyAk3Zuw0gHqlM3lQJ3mPO7_1UXIdqCamJsoDw3xjkvxr0C0jjYwCBeHX6YRZdPdgvZSf3XqBAduAYlU4Oxckkb4KlEfpB3ydmWaozPGl_1DyOeL6JDPqoFIwUZSjMwsmIR5c7cqyFKKsbUuRmOsndtg==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsar87wNfuZCPUeagSN8-pkiqYujmk2jUprDp_YqOjsJhsXvUsubC3si879kTtSVinyIM4EYKNZNe17IHnVGFTozHdfT_dcA2C2C8CorfcgCnKKB44Lw4r7pk0is3DQPKGqC1KhUPXgPjwTSfCG7AZFphnk5QM7gUsSJWylQtUse0LL1WWO2BtX7gd3xeMfQ==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-bHFaRv8QK2_x23uU1ENoIisfJNqZjSCI2MS5ZPqJjAL6AQtTwYte0W6qwFOwsMzbEzHzJyBdk17Kna0fhbQHNDa9nZiV3ZT2TpWsBlJ1lKs10-R2bMOryu6qvJUmXKDj6vAoyPuoRZBo7beYmp608jTFYGjeYe8APTF0QSaFn2Tfw53xEUnxwngp-a_S5vavGeJLL6xpTVWPMVIEEoi5i8HBwKnE-PSipEZ_hEKHAc2yjmmkMHEPsAp0tOe2aqCc9ASLJGXTf6jx5g==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGndhj9jUhKL_xIe6956jMWOkNpI68oRiPzvqcl4Mp5s6msuPanDLXbtoNKyWDd54OrNZZsB5NBwmjlEy_qo5M0IYRa3VZdZDRDXKQQt-FKxhs7VnAOtRN_hNz7l1BaL5IvALjK8YCHFpq_HhPn_2elHluFvsEtWY_Ep72cnJCn_ra0VnCDlx8T4lG2GGTUcdEQ1T4=",
+            "title": "packers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnotoEWEsKKP1X9VOAVI5HnP86Wu4-Q1RGESeGV1SUSeQeChaEJnjIaQaOAIAZwfd-EoQLLyIs8Y6kB7CWJIgSsW7dgo-PkCBdbZfCq8g8o4yyZh3LK9KR9bBXNaScxmnwtETiwT2ajoQoYJSYghxScgTFaDEojJ2E2N_-qTpOAIRcoS92tcEltLp6JW0TuTwk3iXX",
+            "title": "fantasypoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxt69yGazEqyN5wtzBkav9hpWkTxn9OAQb1Gj0HVZ_F8hbV7xC-nSfXQKn1zdyi22AoJ7r18mOs4DAL28KhpQVs6bTxZAMzxYLvztoVQITQ_QxoMRmqWZFz065Z4Vc7o-Tzzl8WUZwSCE5aLScwJMDK8E9zF_z72WSC0YdcEbfUeFeeRK90cPUAv3sezXrEdMz7TBstgKXE9Jn6b-9z-QRQg==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdXOKqV5GDLKC-70FppPKh1_hiLRPmjHxnLBuQlQ5nMuwycwY7Zl_5Iczj6BRBW-CJI83D_1izn-puXDleY1orthzx_oGX1WQty6tFe1yPK4d57-g3z8oWtqPuUqIzLMdvmHdWAEjhFMfGb_ehjkd0YZ4KRaxHCDuCTFBu3Sf_TnPhKKbba3ZFfHjQrWfJQQ==",
+            "title": "facebook.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "De'Von Achane",
+          "Amon-Ra St. Brown",
+          "Patrick Mahomes",
+          "Jaxon Smith-Njigba",
+          "Christian Watson"
+        ],
+        "aviCoreCommitSha": "ffe791cb98ff866e070f138713b8f1d35cca2f4f",
+        "aviCoreCommittedAt": "2026-10-15T22:32:02Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 541765,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 254,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mva30y3o-a2206ccd",
     "createdAt": 1792101658170,
     "expiresAt": 1792533658170,
