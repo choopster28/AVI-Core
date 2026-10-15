@@ -1,5 +1,39 @@
 [
   {
+    "id": "mv9q0u48-43caa641",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+          "assetType": "pick"
+        },
+        {
+          "name": "Cam Skattebo",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1792079767160,
+    "updatedAt": 1792079767160,
+    "expiresAt": 1792511767160,
+    "status": "queued"
+  },
+  {
     "id": "mv9pz1ds-f7ed0698",
     "phase": "initial",
     "mode": "shop_assets",
