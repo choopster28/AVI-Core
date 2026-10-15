@@ -1,5 +1,45 @@
 [
   {
+    "id": "mv9pdv0b-571a6ce0",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Win Championship",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Marvin Harrison",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        },
+        {
+          "name": "Nicholas Singleton",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 4th · Conquistadors · Projected late range (4.10–4.16)",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "createdAt": 1792078695227,
+    "updatedAt": 1792078695227,
+    "expiresAt": 1792510695227,
+    "status": "queued"
+  },
+  {
     "id": "mv8oaqkn-2aefb13c",
     "phase": "initial",
     "mode": "propose_trade",
