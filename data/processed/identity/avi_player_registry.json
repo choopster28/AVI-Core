@@ -5400,7 +5400,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "MIA",
+    "nfl_team": "NO",
     "normalized_name": "jarquez hunter",
     "position": "RB",
     "source_ids": {
@@ -5850,7 +5850,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "FA",
+    "nfl_team": "ARI",
     "normalized_name": "jerome ford",
     "position": "RB",
     "source_ids": {

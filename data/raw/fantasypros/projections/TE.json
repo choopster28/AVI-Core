@@ -2860,10 +2860,10 @@
       "team_id": "GB"
     },
     {
-      "filename": "jelani-woods.php",
-      "fpid": 23829,
-      "mflid": 15840,
-      "name": "Jelani Woods",
+      "filename": "cj-dippre.php",
+      "fpid": 27251,
+      "mflid": 17281,
+      "name": "CJ Dippre",
       "position_id": "TE",
       "stats": {
         "2pt_tds": 0,
@@ -2880,36 +2880,13 @@
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "NYJ"
+      "team_id": "TB"
     },
     {
-      "filename": "cole-turner.php",
-      "fpid": 23727,
-      "mflid": 15803,
-      "name": "Cole Turner",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "rec_rec": 0,
-        "rec_tds": 0,
-        "rec_yds": 0,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "MIA"
-    },
-    {
-      "filename": "joe-royer.php",
-      "fpid": 27312,
-      "mflid": 17566,
-      "name": "Joe Royer",
+      "filename": "devin-culp.php",
+      "fpid": 26440,
+      "mflid": 16796,
+      "name": "Devin Culp",
       "position_id": "TE",
       "stats": {
         "2pt_tds": 0,
@@ -2952,10 +2929,10 @@
       "team_id": "SF"
     },
     {
-      "filename": "devin-culp.php",
-      "fpid": 26440,
-      "mflid": 16796,
-      "name": "Devin Culp",
+      "filename": "joe-royer.php",
+      "fpid": 27312,
+      "mflid": 17566,
+      "name": "Joe Royer",
       "position_id": "TE",
       "stats": {
         "2pt_tds": 0,
@@ -2975,10 +2952,10 @@
       "team_id": "CLE"
     },
     {
-      "filename": "cj-dippre.php",
-      "fpid": 27251,
-      "mflid": 17281,
-      "name": "CJ Dippre",
+      "filename": "cole-turner.php",
+      "fpid": 23727,
+      "mflid": 15803,
+      "name": "Cole Turner",
       "position_id": "TE",
       "stats": {
         "2pt_tds": 0,
@@ -2995,7 +2972,30 @@
         "scrimage_yards_100": 0,
         "scrimage_yards_200": 0
       },
-      "team_id": "TB"
+      "team_id": "MIA"
+    },
+    {
+      "filename": "jelani-woods.php",
+      "fpid": 23829,
+      "mflid": 15840,
+      "name": "Jelani Woods",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "NYJ"
     }
   ],
   "positions": "TE",
