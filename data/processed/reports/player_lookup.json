@@ -75,6 +75,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00004892",
+      "c_avi": 51.1,
+      "d_avi": 65.3,
+      "nfl_team": "TB",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "sleeper_id": "4892",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00006826",
       "c_avi": 50.7,
       "d_avi": 59.3,
@@ -454,18 +466,6 @@
       "player_name": "Foster Moreau",
       "position": "TE",
       "sleeper_id": "5985",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011575",
-      "c_avi": 40.8,
-      "d_avi": 62.4,
-      "nfl_team": "BUF",
-      "player_name": "Ray Davis",
-      "position": "RB",
-      "sleeper_id": "11575",
       "status": "Active"
     },
     {
@@ -2881,22 +2881,6 @@
       "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00004892",
-      "c_avi": 51.1,
-      "d_avi": 65.3,
-      "nfl_team": "TB",
-      "owner_id": "863881053000011776",
-      "player_name": "Baker Mayfield",
-      "position": "QB",
-      "roster_id": 9,
-      "sleeper_id": "4892",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -6065,6 +6049,22 @@
       "status": "Active",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011575",
+      "c_avi": 40.8,
+      "d_avi": 62.4,
+      "nfl_team": "BUF",
+      "owner_id": "863881053000011776",
+      "player_name": "Ray Davis",
+      "position": "RB",
+      "roster_id": 9,
+      "sleeper_id": "11575",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,

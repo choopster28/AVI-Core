@@ -92,14 +92,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
 
-## PLAYER LOOKUP: Baker Mayfield
-- Player name: Baker Mayfield
-- Player ID: 4892
-- Position: QB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
 ## PLAYER LOOKUP: Bhayshul Tuten
 - Player name: Bhayshul Tuten
 - Player ID: 12490
@@ -1684,6 +1676,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
 
+## PLAYER LOOKUP: Ray Davis
+- Player name: Ray Davis
+- Player ID: 11575
+- Position: RB
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
 ## PLAYER LOOKUP: Rhamondre Stevenson
 - Player name: Rhamondre Stevenson
 - Player ID: 7611
@@ -2092,6 +2092,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 49.0
 - Availability: available
 
+## AVAILABLE PLAYER: Baker Mayfield
+- Player name: Baker Mayfield
+- Player ID: 4892
+- Position: QB
+- NFL team: TB
+- Championship AVI (C-AVI, 0-100): 51.1
+- Dynasty AVI (D-AVI, 0-100): 65.3
+- Availability: available
+
 ## AVAILABLE PLAYER: Cole Kmet
 - Player name: Cole Kmet
 - Player ID: 6826
@@ -2378,15 +2387,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: HOU
 - Championship AVI (C-AVI, 0-100): 40.8
 - Dynasty AVI (D-AVI, 0-100): 42.7
-- Availability: available
-
-## AVAILABLE PLAYER: Ray Davis
-- Player name: Ray Davis
-- Player ID: 11575
-- Position: RB
-- NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 40.8
-- Dynasty AVI (D-AVI, 0-100): 62.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Roschon Johnson
