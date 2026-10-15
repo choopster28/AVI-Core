@@ -1,5 +1,188 @@
 [
   {
+    "id": "mv9pz1ds-f7ed0698",
+    "createdAt": 1792079727801,
+    "expiresAt": 1792511727801,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "An exhaustive Market Reality v2 evaluation was conducted across all 15 potential trade partners in the Autobots League for Corgi Loaf Baking Co.'s offered package of David Montgomery, Rhamondre Stevenson, and a 2027 2nd-round pick. Based on strict front-office trade realism, manager motivation filters, structural alignment with opponent organizational goals, and starter-for-starter trade constraints, there are currently ZERO trade opportunities that meet the required 70% acceptance probability threshold. Rebuilders reject aging 28/29-year-old RBs, contenders refuse to surrender startable studs for depth pieces while Montgomery deals with a groin injury, and retooling teams avoid taking on depreciating running back windows.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Elite Contender",
+          "strengths": [
+            "Elite pass-catching cornerstone core featuring Jaxon Smith-Njigba (C-AVI: 99.2), DeVonta Smith (C-AVI: 90.8), and Malik Nabers (C-AVI: 86.9)",
+            "Top-tier quarterback anchor with Patrick Mahomes (C-AVI: 77.7)",
+            "Elite tight end production led by Tyler Warren (C-AVI: 91.4)"
+          ],
+          "priorityNeeds": [
+            "Consolidate multiple mid-tier running back assets into a true high-ceiling elite starter",
+            "Preserve current championship win odds while acquiring premium liquidity"
+          ],
+          "tradeableSurplus": [
+            "David Montgomery (RB, C-AVI: 77.9, Age 29)",
+            "Rhamondre Stevenson (RB, C-AVI: 78.0, Age 28)",
+            "2027 2nd · Badlands · Projected mid range (Pick AVI: 48.5)"
+          ],
+          "constraintsApplied": [
+            "User organizational goal: Win Championship (HQ status: Elite Contender)",
+            "Trade Realism / Starter-for-Starter Gate: Depth-for-Star quantity packages cannot acquire S-tier/starter-caliber assets without a credible centerpiece anchor",
+            "Market Reality v2 Elimination Rule: Require Acceptance Probability >= 70% and 100% validation pass rate"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 15,
+          "eliminationReasons": [
+            "Rebuilding Teams (Crimson Tide Pods, Northside Kings, DMV Fantasy): Eliminated due to organizational goal conflict. Rebuilders prioritize 1st-round draft capital and young prospects under age 24. They refuse to absorb 28- and 29-year-old running backs (Stevenson, Montgomery) whose dynasty values face immediate cliff risk.",
+            "Contending / Championship Push Teams (Conquistadors, Big Balder Brand, Mile High Royal Lions, Badland Banditos, Ravens Regime, All Hail King Jesus, Lightskin Legends, Smoky Valley Wheat Warriors): Eliminated due to package match and lineup replacement rules. Contenders holding starting-caliber wide receivers or running backs will not downgrade active starting lineups to take back two age-28+ RBs (one currently sidelined with a week-to-week groin injury) plus a mid-2nd pick.",
+            "Retooling Teams (Phalhala or Bust, Rapid Valley Annihilation, Southside Savages, Gringo's Goblins): Eliminated due to age-curve mismatch. Retooling franchises seek appreciating core assets; taking on Montgomery and Stevenson directly contradicts a retooling mandate."
+          ]
+        },
+        "opportunities": [],
+        "noDealExplanation": {
+          "summary": "Based on current Market Reality, there are no realistic acquisition targets for this package.",
+          "primaryObstacles": [
+            "Structural Mismatch with Rebuilders: Rebuilders will not exchange premium starting talent for two running backs entering their age-28 (Stevenson) and age-29 (Montgomery) seasons.",
+            "Injury and Efficiency Friction: David Montgomery's current week-to-week groin injury, paired with depressed rushing efficiency (2.4 YPC since Week 1) and backup Woody Marks taking touches, reduces immediate market demand among contenders.",
+            "Lack of a Starter Centerpiece Anchor: In a 16-team league format, trading for a league-relative starting-caliber asset requires giving up a comparable starting-caliber centerpiece asset. Combining two older RB2/FLEX depth options and a future 2nd-round pick creates a 'quantity-for-quality' offer that fails opposing GM motivation checks."
+          ],
+          "userConstraintImpact": "As an Elite Contender aiming to Win Championship, trading active RB depth for future picks would harm your title run, while trying to use depth RBs to buy an upgraded starter fails because rival contenders and rebuilders both reject the package profile.",
+          "closestPathToDeal": "To complete a deal that lands a true starting upgrade, anchor your offer with a premium 1st-round draft pick or one of your elite wide receivers, or hold David Montgomery until he returns from his groin injury and produces a clean string of productive games to restore his immediate market value."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Rhamondre Stevenson current team 2026",
+          "Rhamondre Stevenson news 2026 NFL",
+          "David Montgomery news 2026 NFL",
+          "David Montgomery current team 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwZolagpeJsV9nwV8WTKfhVVA9L7HfkaxudiUJ0Bre3P2VeCeaQjHIIU90z__6SNIIqM5_AmhLF7msN5sE9-qkW0CUzUu-y9kA-Ip9A4EkliBLgKX03jtVYTb5wQfH2s8pCnYolCgq9edeCPNr8VNPQhWaKBT0xN8lb8hj0AEn93DOb8egNkwkVcGbyAyh8Galc09IyCYEPg==",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1vdpfSpZkXTJZAZWXqi1Rne-vILjAf6Cr-mzTWv1PxxFjjkYpCTorcFgbmWorN6jMql5AxZenaKbWrvVPeBK8Ke4N09QG97vh4lWJ9VtYGWcXhV03r_cfOhC1zIgAJVy77nE=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS9mPVCwKfP3t9IROMY2F61A-lDth1yyjeu6k32LLPyB7nFPxaJh_h7qTehhLuTK9Fci496mDRPHyBi3mPmXWeyECeXd4VUho9KgRoMpHa3KLPhMIaXFdrmKUA6NSHE8_tV5CCckw-Xs_uypc3F7AgX9riqfUxtKTxiTLrWw==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqnG8YfbXVTYyW4q1zwEzo8ScefMZGhhgz-hpUK0M4AiKxwvtLTZAQHRs3Cyq1nWqqMnuTxdWxCBDF4L-LtYd2JIPH2IQjAQQeIBnYZtOH0NSresS-ajJ9IpUCLwZr0xTUjetF_OyQCrT8XQpg7jc_IJTHKvTgAh2O2QftUknjJB2jwlaGjF9_BfydRiDVTudOE7AMHPwgEvYs",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi7B7eBs1_yvOtkJTxTaccciG-CPrwj8cLIj0QI7pXdIjpZytlMWCj12dZ83uJnMrzj5SUZcYwqhK5nHyiLVvVE7gN7SJwZOAbU-E-rnvP3j_qXM5z7R1q4WDKyUDi2bPPk_8SNVbsGQwXE0DMsZCKyvPY2J8ECILZo4O1aDjPb20_cOQFITc=",
+            "title": "houstontexans.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1heLzfFwZvLTqwvuI2PA3wo4ZTAlyIF3q0NW3S5WhZoqM_Ut3fTAwN8RW1Vp2S7nR9d7vqqFZe9NcT_4Rnfdu5YP-Q1prEToVnkvQbhS1IGfdR-Os7XTjJxfK_UhdB0afjqoW1OnoQe65PYdr6-ZW7fR3iAd2_0YTBPaizXpYpwaqKVd5rJgQ3HFkn_jAcFUCANdMXN1dhlX6fadKxAPu9XY=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHArMPgN3_xXPUiYaSIpa0kd8Nl_PIPA4FEhXU1yDbNkDzsBMm4Bhvj8d5hZf4ge0Qaom3mdReYVx_GUBtAGaO7SXZskX2gImSLHNzi_j3l6iZ9Y8Mcv9Q5KA7ZzMgYCLbl26RenSB2TL39uP7VrXYb9kDKup-ut6CljX4gIEwRglccRGEX7VzFbMoMz4heFb4lULXYGOzn-Ksa_Q86rCykcQ==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHamobDqq-y6E7guaMn_4GBIuSOL8qjc1FvUG_MkWVKpGkWvE40zMB_FpXYakh80xeC2oof2nUvKYTvj2yD9qau43XymbZturSw7bqxcLmRfT5olY4ECf28tcUI4kGxAEfpnG3YZperimN8ZGRFKVuEyOIDhsInLRuiBLmVfNgHOu1-DfS09-0xZnvm8QXMRRZSiriprKVdWJRpwdRKnvaJH5hrJLo=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjWS9EK8lwgsI8cwTwa41f0eTdZe4KMG_NEZTyF9v8UGauc96o3BgMy66xkkdHMhJgdI_ALNohmqeipcbKSizVCfyaVVco3lIK0rf7pYLGhKPzlYAjzrE7AOmgo1K-2yU9GfIwHG6eR9Wa0FNSdDiSNee3Z_9Hq10=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8I4gYts3ocuR0hBQxsT_pZLzDBIKtxI2vKph0cfUXLCUwovk9jZlJX-bYRB49gVD9VjPQ9tXXdv9j-p_xDEVZoFYR16NR5-b-4XPyCZUXi_GlmV6HzHsBUutBh8WeHkFqqAfWYyP",
+            "title": "wikipedia.org"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "David Montgomery",
+          "Rhamondre Stevenson"
+        ],
+        "aviCoreCommitSha": "ff58548730f87aeb02f5c946a9d5fbfe3129020b",
+        "aviCoreCommittedAt": "2026-10-15T13:48:23Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 541304,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 252,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mv9os098-ed76a2ae",
     "createdAt": 1792077734598,
     "expiresAt": 1792509734598,
