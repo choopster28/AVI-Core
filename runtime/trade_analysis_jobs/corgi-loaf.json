@@ -1,5 +1,43 @@
 [
   {
+    "id": "mv9os098-ed76a2ae",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Lightskin Legends",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "David Montgomery",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Chase Brown",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1792077675597,
+    "updatedAt": 1792077675597,
+    "expiresAt": 1792509675597,
+    "status": "queued"
+  },
+  {
     "id": "mv9oph30-add62275",
     "phase": "initial",
     "mode": "analyze_trade",
