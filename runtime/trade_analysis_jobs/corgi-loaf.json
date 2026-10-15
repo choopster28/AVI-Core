@@ -1,5 +1,22 @@
 [
   {
+    "id": "mva4a2ei-07a6b44a",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "createdAt": 1792103712426,
+    "updatedAt": 1792103712426,
+    "expiresAt": 1792535712426,
+    "status": "queued"
+  },
+  {
     "id": "mva30y3o-a2206ccd",
     "phase": "initial",
     "mode": "analyze_trade",
