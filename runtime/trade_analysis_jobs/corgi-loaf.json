@@ -33,9 +33,401 @@
       }
     },
     "createdAt": 1792077675597,
-    "updatedAt": 1792077677251,
+    "updatedAt": 1792077733398,
     "expiresAt": 1792509675597,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. (Elite Contender, Win Championship) consolidates two veteran depth running backs—Rhamondre Stevenson (78.0 C-AVI) and David Montgomery (77.9 C-AVI)—along with a 2027 2nd-round pick (48.5 D-AVI) to acquire 26-year-old RB1 Chase Brown (91.6 C-AVI / 91.4 D-AVI). In this 16-team league, securing a workhorse RB1 of Brown's caliber elevates Corgi's starting lineup average from 85.55 to 87.24 C-AVI, creating an elite starting core (Mahomes, Chase Brown, Skattebo, JSN, DeVonta Smith, Tyler Warren, Nabers, Chuba Hubbard). While Corgi surrenders bench RB depth, the immediate upgrade to peak championship ceiling makes this a clear, high-priority win.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 28,
+              "cavi": 78,
+              "davi": 76.3,
+              "publicMarket": 75,
+              "leagueMarket": 76
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 29,
+              "cavi": 77.9,
+              "davi": 77.5,
+              "publicMarket": 70,
+              "leagueMarket": 75
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 91.6,
+              "davi": 91.4,
+              "publicMarket": 90,
+              "leagueMarket": 91
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. secures an elite, young workhorse RB1 in Chase Brown by packaging two older bench RBs and a future 2nd. This transaction significantly enhances Corgi's championship starting ceiling without losing any of its core weekly starters."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "AVI endorses executing the submitted proposal as-is. Corgi acquires an S-tier starter while providing Lightskin Legends with crucial starter depth and draft capital."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 65,
+              "summary": "Dramatically boosts weekly starting lineup ceiling and average C-AVI in an 8-starter 16-team format."
+            },
+            "dynastyOutlook": {
+              "score": 50,
+              "summary": "Consolidates two older RBs (ages 28 and 29) into a 26-year-old cornerstone running back."
+            },
+            "lineupQuality": {
+              "score": 70,
+              "summary": "Chase Brown instantly becomes Corgi's RB1, pushing Chuba Hubbard or DJ Moore to FLEX2."
+            },
+            "depthResilience": {
+              "score": -35,
+              "summary": "Reduces backfield depth behind Skattebo and Hubbard, leaving Mike Washington as primary reserve."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders a 2027 2nd-round pick from Badland Banditos."
+            },
+            "overall": {
+              "score": 16,
+              "summary": "Material net gain driven by securing a tier-1 starting RB to lead the backfield during a championship run."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Loses peak talent in Chase Brown, but upgrades FLEX2 from Rashod Bateman (63.9) to David Montgomery (77.9)."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Gives up the younger, higher-value dynasty asset in Chase Brown for older RB production."
+            },
+            "lineupQuality": {
+              "score": 5,
+              "summary": "Net starting 8 production remains stable as Stevenson steps into RB2 and Montgomery takes over FLEX2."
+            },
+            "depthResilience": {
+              "score": 45,
+              "summary": "Adds two startable running backs, addressing a major depth void across starting FLEX slots."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Gains a mid-2nd round pick in 2027 to rebuild trade capital."
+            },
+            "overall": {
+              "score": -16,
+              "summary": "Slight net positive for a Playoff Push team needing to patch starting lineup depth."
+            }
+          },
+          "explanation": "Corgi Loaf Baking Co. wins this trade on concentration of high-end value, acquiring Chase Brown to complete an elite starting unit. Lightskin Legends improves its depth resilience and FLEX lineup floor while adding future liquidity."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Chase Brown (91.6 C-AVI) pairs with Cam Skattebo (81.5) to form a premier RB tandem. Pushing Chuba Hubbard to FLEX2 improves Corgi's weekly lineup average to 87.24 C-AVI.",
+          "sideADynastyImpact": "Corgi exchanges two aging RBs (Stevenson age 28, Montgomery age 29) and a 2nd-round pick for a 26-year-old RB1 with a strong multi-year window.",
+          "sideARosterImpact": "Strengthens the top 8 starting slots while narrowing backfield depth to Mike Washington and Jaleel McLaughlin.",
+          "sideBChampionshipImpact": "Lightskin Legends loses its top RB1, but Stevenson (78.0) and Montgomery (77.9) immediately upgrade their RB2 and FLEX2 positions over Rashod Bateman (63.9).",
+          "sideBDynastyImpact": "Trades a premier dynasty asset for immediate volume and a 2027 2nd-round pick.",
+          "sideBRosterImpact": "Transforms a top-heavy roster into a more balanced 8-starter lineup for a Playoff Push.",
+          "valueAssessment": "Fair value transaction where Corgi pays a 3-for-1 premium package of usable starter depth to acquire an elite cornerstone RB."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market sentiment heavily favors Chase Brown as a high-volume RB1 in Cincinnati's high-powered offense, despite a Week 6 bye and Samaje Perine taking minor early-down snaps. Rhamondre Stevenson's public stock is rising due to TreVeyon Henderson's ankle injury in New England, while David Montgomery's short-term market value is dampened by a week-to-week groin injury and the emergence of Woody Marks in Houston.",
+          "aviVsMarket": "AVI values Chase Brown at 91.6 C-AVI, closely aligned with market consensus as a top-10 dynasty RB. Stevenson (78.0) and Montgomery (77.9) are properly valued as mid-tier RB2s whose sum reflects significant package value.",
+          "relevantContext": [
+            "Chase Brown leads all NFL running backs in total touches through Week 5, retaining elite pass-catching volume.",
+            "Rhamondre Stevenson commands an expanded workload with TreVeyon Henderson sidelined.",
+            "David Montgomery is dealing with a week-to-week groin injury, making him a temporary bench risk for contenders needing immediate points."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Lightskin Legends is categorized as Playoff Push. Their starting lineup currently features Rashod Bateman (63.9 C-AVI) at FLEX2. Acquiring two starting-caliber RBs upgrades their weak FLEX slot immediately.",
+          "packageFit": "The package solves Lightskin Legends' lack of usable starter depth while giving them a 2027 2nd-round pick to re-tool.",
+          "lineupReplacement": "Rhamondre Stevenson replaces Chase Brown at RB2, while David Montgomery replaces Rashod Bateman at FLEX2, preserving total starting points.",
+          "competitiveWindowFit": "Fits Lightskin Legends' Playoff Push objective by maintaining overall weekly scoring power and adding roster depth.",
+          "positionalScarcity": "In a 16-team league, high-volume starting RBs like Chase Brown are exceedingly scarce. Trading two bench RBs for one elite starter is a textbook championship move."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 21,
+            "packageMatch": 18,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 92,
+          "classification": "Highly Realistic",
+          "explanation": "Lightskin Legends receives two legitimate starting RBs to improve their weak FLEX2 spot plus a 2027 2nd-round pick, making them highly likely to accept this offer."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "This deal allows Corgi Loaf Baking Co. to convert non-starting bench depth (Stevenson and an injured Montgomery) along with a future 2nd into a 26-year-old elite RB1 in Chase Brown. Brown immediately elevates Corgi's starting lineup ceiling for a Championship run without sacrificing any core weekly starters.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 28,
+              "cavi": 78,
+              "davi": 76.3,
+              "publicMarket": 75,
+              "leagueMarket": 76
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 29,
+              "cavi": 77.9,
+              "davi": 77.5,
+              "publicMarket": 70,
+              "leagueMarket": 75
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 91.6,
+              "davi": 91.4,
+              "publicMarket": 90,
+              "leagueMarket": 91
+            }
+          ],
+          "whyUserShouldDoIt": "Secures an elite RB1 (91.6 C-AVI) to pair with Cam Skattebo and Chuba Hubbard, establishing the top starting offensive lineup in the league.",
+          "whyOpponentMightAccept": "Lightskin Legends upgrades their starting FLEX2 slot from Rashod Bateman (63.9 C-AVI) to David Montgomery (77.9 C-AVI) while picking up a 2027 2nd-round pick."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 28,
+              "cavi": 78,
+              "davi": 76.3,
+              "publicMarket": 75,
+              "leagueMarket": 76
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 29,
+              "cavi": 77.9,
+              "davi": 77.5,
+              "publicMarket": 70,
+              "leagueMarket": 75
+            },
+            {
+              "name": "2029 3rd (Corgi Loaf Baking Co.)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 91.6,
+              "davi": 91.4,
+              "publicMarket": 90,
+              "leagueMarket": 91
+            }
+          ],
+          "rationale": "If Corgi prefers to preserve the 2027 2nd-round pick, substituting a 3rd-round pick tests whether Lightskin Legends will still move Chase Brown based purely on the starter depth provided by Stevenson and Montgomery."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Rhamondre Stevenson David Montgomery Chase Brown fantasy 2026",
+          "David Montgomery news 2026",
+          "Rhamondre Stevenson news 2026",
+          "Chase Brown news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHBLUVG31DOUMJWNZL0m_jVZMm2xDvIG2N3N1T4UM5jDyFPdqyuuSUCFiaa-PoLUx_tu_kzEohg61AfO0AzygcUb3qsfRdgd95fKQ7z3O2Yr8SJzmcm0zBH1_M-E0RIgquB_77LEdz2SenGDuzUw-ze4f0nNxACXc4kJtqdjIf9jB5a-pw6pMyQrAdLIcV8OQPJv1oBH0TGLdsJyrG1q7hNKnKfnC-Ug==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-eazO_d7mVQt7_LKmoUdHA-1r_dfEipF-GgY_K5JsAXML8yOJ4jtdud4lYHzvit_JSxZmmVmEmddQ7NSLWQQyGCQbIaj7bZJ2ZFtf_gQAJRPDuYTpNKSVo87puwXZa2oo1bWZUHCBqrMrGFAbdr_gtkjzrxBblRUoGCxObYLmRqSMVyr2aZ5BySCy8FEikRXkIMbw1z8vyPwIc7BPGvwi2j0=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGp1g8hfkLbS37WhKxHuoi08OSkKYJkqtgQxOtQLczR0w_NIlAFVCOFsBqfN-tMO2Z1w3ZwMICGXsa3ldbifJ40ewQXvcz4ou_zpsC0N2YHoQpc-z4Cf9MBm9neVV_gw_9U1WUPJw1AebIE0zBbw==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsBLvyo_ndygEYQvik0GiNIhuMOO3uBWVvQp56EsRdSaTAmAzpZG5KW_WNPn_8vcD7jbGG-Wv2TjNPdZa4bY6zd_Z6AGZyy5bWN1rDLjs-yXoKxJaprMnVpBqZl5_-G6zX_yfIWlK7oPLrhSwCvmlAaGKuV_owr34601V7",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfZ31jegCEsyK-6I8Mf8QP4uCHNPt_LmsHBTfKdoI_8ANyUfgrVsa9x9Vev12VHFk4HFF-urtIN_ZsKxs9kDvE04g_1usyfR3lsC4AdvK_-0q9f-WcPYxN9vD8Me1Dl0kh0-2FL17LqRjACPT1XgalC9pUZGI=",
+            "title": "fantraxhq.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWLkOAop4fHIcUwbY2O7lYt5AnMm-cxHHxbu8YJhPm_AhJIrXPIEfw_mKB5sa2u0YU6P8rRpqRmhBND8mlyafX-aOstJt6NayY9prkSLSHM4eNAjSMfGNyO4FXdDPLIQ0sgt3ON6HYeKpaBeDh",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh0hVvP04oM3D3mRd1JcLBckpwNi3-UwTrTYdOiqXX1ojp2hTfP8_gLNZgwBzWKDXFiuYlAnVG1f1gG14bjy765jYy30WK07VcOKpb_8HdzeSiFQBC-uvf3n2o_-eCPy6NBm8O1va7ewEZEe8ozgArzYK4mMoxjNaf40vuWJTZZoFAfrhQ-l29zRdd14YqZIJkywzJM02iz7w1",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoghL9A_P_3qdshw_z_oDeBcrnRPgZLTVKuC27no92auo9R20IIj1DxOVPRE_Fw05usWeYsVl4I4lFtmrEYoKtzAsqafBxFuxoafHw3xx7D6fNlN6in3tEs1-9uHsva578n02Vj65YDi5a-dU9nEa1LMcZiylDP7-Et81LYrAFZlD9hYF4iRSOwCol62cBiSBvgoXWfv-iyKiCkeb7v-f5cw==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5K6PEpBqadWaL3UFQSUQYHsonK4YEwefElG3yFxSZ9lfY4tRSlD8Qo9ZJzNDIm4VpPC147z-1ilAOE17OpAmtz8fqAKEmhgBM8w4SYy4slFGzsr-UeROFF18O8Eg4sg88e1nbB4G0YNpjfbxKcvWHTT_6Yxwvo4KhY8w8c55OUk96SY7qZqnlV2kZLQqdM0_9HWZZDxbKoHir",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_Dy_mdzkBXK8NP9oKpJD1Fq60RLtM5PVIYHJ6rDdd_x4N3ST6MqCdaqOoPcjp84EXle-YZPDL7op5nPc1FPDuCdBBcOofVOIZLjQPJuVaQsdy-1BqiOBGMUBXd5fZWxdHy3_hXiPUWknNXgkYcydyLu083DX07usDwLNOV0NWOQ==",
+            "title": "nfltraderumors.co"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBviTxJcAZ1pzOlqMEl5rsMMSYbRJ37YKRq4GSsqnD13gd107rPQE0U9Cfo_WDwunOVkYDe6zvtoAe8ggMIiIJI46tRTgD94RtYOi5i_oaiIPNbqlKmS04hXA2uF8R",
+            "title": "instagram.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLZEYKUFEZWrccADFGZZ3jWwaLbDcqKuCOS6wYfLeQdyreRC55VRxqSpRUIDDpMPCY_x2j8TpmyNEy0B9zJ1qlOCU-dcQCvJwYt_wcINmuVeWg--rmSs2AMhTKfUBePK_o1scgKHiwdbn4EE8T0bfy8yt38t6Zd_x4E6Dm58TMgoYvPRZ3KyA0o5xHBXop",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp2WeHdCk8vwpIgRN4JbJLTCUicYsYSvIr777pMt7j_9mRn99pyLQ3rIE-E_3jPErG2gV4J_ihF0avxmFJgEANYgZPdSqI1JhrmFiZN122v_R4nCPXd58moZIzSsInAEQYiHHzl9sG3E3slFniPABeRupEP-t6jDhXIGBY7n86ikQKjkF4cM8=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm2J4AP-Ny2lNTshn_Zsxx5kjZVBx2f1a8rJptNIsgGamnYbsVPQoNBLuVbgjpkPow39j9Cx3wJ4ondTn7tZlqHDQqQzZzh-s7Nmr1oh_5L-F8CZuLL6S6wYGmZHq5bJyfbPfOutuCrz-TIihX0UDXGxMA_RuClhab9pZ1Kx3hibddZVAXUF0fHbZG4WOCDBXHYjDXeR4=",
+            "title": "bengals.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtzaV2Avr7A4wXmHS8zU_8DXcYg321qFcvTB_kPCZqEx9fcAEJD6j4ifBOP9KbnZCfHYJGXsYTwul-LW3nEZAqqezAsgqwV5YFInSVASuBhJ9HwezOMT4sZaawKjpUANTUSqFJ0Dl3QmX7oDx7U2Pis096I7LtKl8LmvtpreGWYz2NKLOZ2L1cH6l2EJESt3B8HUESOGdscIqXYkvyEWLo",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "ff58548730f87aeb02f5c946a9d5fbfe3129020b",
+        "aviCoreCommittedAt": "2026-10-15T13:48:23Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 87028,
+        "groundedMarketChars": 4096,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mv9oph30-add62275",
