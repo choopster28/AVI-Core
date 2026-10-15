@@ -9,16 +9,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-14 23:15:02",
-      "created_formated": "Wed, Oct 14th 11:15pm UTC",
-      "desc": "Chazz Surratt has been ruled out for Thursday's game against the Broncos.",
-      "id": 613938,
-      "impact": "Surratt is unable to go on a short week for Seattle.  ",
-      "link": "https://www.fantasypros.com/nfl/news/613938/chazz-surratt-calf-ruled-out-thursday.php",
-      "player_id": 22717,
+      "created": "2026-10-15 16:49:26",
+      "created_formated": "Thu, Oct 15th 4:49pm UTC",
+      "desc": "Steelers head coach Mike McCarthy said Keeanu Benton is scheduled to return to practice on Thursday. ",
+      "id": 614031,
+      "impact": "Benton missed practice to open the week on Wednesday. ",
+      "link": "https://www.fantasypros.com/nfl/news/614031/keeanu-benton-ankle-expected-to-practice-thursday.php",
+      "player_id": 25432,
       "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Chazz Surratt (calf) ruled out Thursday "
+      "team_id": "PIT",
+      "title": "Keeanu Benton (ankle) expected to practice Thursday "
     },
     {
       "author": "Ari Koslow",
@@ -27,16 +27,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-14 23:14:11",
-      "created_formated": "Wed, Oct 14th 11:14pm UTC",
-      "desc": "Drake Thomas has been ruled out for Thursday's game against the Broncos. ",
-      "id": 613937,
-      "impact": "Thomas is unable to go on a short week. Tyrice Knight will start for Thomas. ",
-      "link": "https://www.fantasypros.com/nfl/news/613937/drake-thomas-ankle-ruled-out-thursday.php",
-      "player_id": 25905,
+      "created": "2026-10-15 16:46:59",
+      "created_formated": "Thu, Oct 15th 4:46pm UTC",
+      "desc": "SirVocea Dennis practiced on Thursday. ",
+      "id": 614030,
+      "impact": "Dennis is on track to be good to go for Sunday's game against the Steelers. ",
+      "link": "https://www.fantasypros.com/nfl/news/614030/sirvocea-dennis-footankle-practice-thursday.php",
+      "player_id": 23990,
       "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Drake Thomas (ankle) ruled out Thursday "
+      "team_id": "TB",
+      "title": "SirVocea Dennis (foot/ankle) at practice Thursday "
     },
     {
       "author": "Ari Koslow",
@@ -45,16 +45,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-14 23:13:13",
-      "created_formated": "Wed, Oct 14th 11:13pm UTC",
-      "desc": "Zach Charbonnet has been ruled out for Thursday's game against the Broncos.",
-      "id": 613936,
-      "impact": "Charbonnet remains hopeful to make his season debut next week against the Chiefs. ",
-      "link": "https://www.fantasypros.com/nfl/news/613936/zach-charbonnet-knee-ruled-out-thursday.php",
-      "player_id": 23152,
+      "created": "2026-10-15 16:46:20",
+      "created_formated": "Thu, Oct 15th 4:46pm UTC",
+      "desc": "Benjamin Morrison was at practice on Thursday. ",
+      "id": 614029,
+      "impact": "Morrison is on track to be good to go for Sunday's game against the Steelers. ",
+      "link": "https://www.fantasypros.com/nfl/news/614029/benjamin-morrison-quad-practices-thursday.php",
+      "player_id": 27019,
       "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Zach Charbonnet (knee) ruled out for Thursday"
+      "team_id": "TB",
+      "title": "Benjamin Morrison (quad) practices Thursday "
     },
     {
       "author": "Ari Koslow",
@@ -63,16 +63,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-14 23:11:30",
-      "created_formated": "Wed, Oct 14th 11:11pm UTC",
-      "desc": "Riley Moss is listed as questionable for Thursday's game against the Seahawks. ",
-      "id": 613935,
-      "impact": "Moss was limited in practice all week. Pat Surtain II and Talanoa Hufanga were both ruled out. ",
-      "link": "https://www.fantasypros.com/nfl/news/613935/riley-moss-ribs-listed-questionable-thursday.php",
-      "player_id": 25459,
+      "created": "2026-10-15 16:44:43",
+      "created_formated": "Thu, Oct 15th 4:44pm UTC",
+      "desc": "Ayden Garnes was back at practice on Thursday. ",
+      "id": 614028,
+      "impact": "Garnes missed practice to start the week due to an ankle injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/614028/ayden-garnes-ankle-back-practice-thursday.php",
+      "player_id": 28812,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Riley Moss (ribs) listed questionable for Thursday"
+      "team_id": "TB",
+      "title": "Ayden Garnes (ankle) back at practice Thursday "
     },
     {
       "author": "Ari Koslow",
@@ -81,16 +81,33 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-14 23:09:33",
-      "created_formated": "Wed, Oct 14th 11:09pm UTC",
-      "desc": "Caleb Williams was a full participant in practice on Wednesday. ",
-      "id": 613934,
-      "impact": "This confirms what Ben Johnson told reporters earlier in the day on Wednesday. Williams will have a chance to return for Sunday's game against the Falcons. ",
-      "link": "https://www.fantasypros.com/nfl/news/613934/caleb-williams-hamstring-officially-logs-full-practice-wednesday.php",
-      "player_id": 23084,
+      "created": "2026-10-15 16:43:35",
+      "created_formated": "Thu, Oct 15th 4:43pm UTC",
+      "desc": "Antoine Winfield Jr. remained absent from practice on Thursday. ",
+      "id": 614027,
+      "impact": "Winfield remains likely to sit on Sunday against the Buccaneers. ",
+      "link": "https://www.fantasypros.com/nfl/news/614027/antoine-winfield-jr-rib-still-not-practicing-thursday.php",
+      "player_id": 19266,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Caleb Williams (hamstring) officially logs full practice Wednesday "
+      "team_id": "TB",
+      "title": "Antoine Winfield Jr. (rib) still not practicing Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-15 16:41:58",
+      "created_formated": "Thu, Oct 15th 4:41pm UTC",
+      "desc": "Jalon Daniels is expected to start on Sunday against the Steelers. ",
+      "id": 614026,
+      "impact": "Baker Mayfield has yet to resume throwing. Daniels will remain a QB2 play for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/614026/jalon-daniels-expected-to-start-week-6.php",
+      "player_id": 26060,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Jalon Daniels expected to start in Week 6"
     },
     {
       "author": "Ari Koslow",
@@ -99,16 +116,50 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-14 23:08:32",
-      "created_formated": "Wed, Oct 14th 11:08pm UTC",
-      "desc": "Kyler Gordon was a full participant in practice on Wednesday. ",
-      "id": 613933,
-      "impact": "Gordon will have a chance to be activated from the PUP list for Sunday's game against the Falcons. ",
-      "link": "https://www.fantasypros.com/nfl/news/613933/kyler-gordon-calf-logs-full-practice-wednesday.php",
-      "player_id": 23765,
+      "created": "2026-10-15 16:34:40",
+      "created_formated": "Thu, Oct 15th 4:34pm UTC",
+      "desc": "Packers coach Matt LaFleur said Keisean Nixon is expected to return to practice on Thursday. ",
+      "id": 614024,
+      "impact": "Nixon is working his way back from a groin injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/614024/keisean-nixon-groin-back-practice-thursday.php",
+      "player_id": 18495,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Kyler Gordon (calf) logs full practice Wednesday "
+      "team_id": "GB",
+      "title": "Keisean Nixon (groin) back at practice Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-15 16:28:30",
+      "created_formated": "Thu, Oct 15th 4:28pm UTC",
+      "desc": "The Texans re-signed Chris Braswell. ",
+      "id": 614023,
+      "impact": "Braswell will return to the Texans practice squad in a depth role. ",
+      "link": "https://www.fantasypros.com/nfl/news/614023/chris-braswell-re-signs-with-texans.php",
+      "player_id": 26193,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Chris Braswell re-signs with Texans "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-15 16:27:35",
+      "created_formated": "Thu, Oct 15th 4:27pm UTC",
+      "desc": "The Texans released LB Kenneth Murray Jr.",
+      "id": 614022,
+      "impact": "Murray will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/614022/kenneth-murray-jr-released-by-texans.php",
+      "player_id": 19212,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Kenneth Murray Jr. released by Texans "
     },
     {
       "author": "Ari Koslow",
@@ -117,16 +168,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-14 23:07:29",
-      "created_formated": "Wed, Oct 14th 11:07pm UTC",
-      "desc": "Tyrique Stevenson Sr. was limited in practice on Wednesday. ",
-      "id": 613932,
-      "impact": "Stevenson is on track to be good to go for Sunday's game against the Falcons. ",
-      "link": "https://www.fantasypros.com/nfl/news/613932/tyrique-stevenson-sr-hip-limited-practice-wednesday.php",
-      "player_id": 25263,
+      "created": "2026-10-15 16:25:57",
+      "created_formated": "Thu, Oct 15th 4:25pm UTC",
+      "desc": "Trent Brown returned to practice on Thursday. ",
+      "id": 614021,
+      "impact": "Brown missed practice to start the week on Wednesday. He should be good to go for Sunday's game against the Jaguars. ",
+      "link": "https://www.fantasypros.com/nfl/news/614021/trent-brown-knee-back-practice-thursday.php",
+      "player_id": 15435,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Tyrique Stevenson Sr. (hip) limited in practice Wednesday "
+      "team_id": "HOU",
+      "title": "Trent Brown (knee) back at practice Thursday "
     },
     {
       "author": "Ari Koslow",
@@ -135,16 +186,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-14 23:06:09",
-      "created_formated": "Wed, Oct 14th 11:06pm UTC",
-      "desc": "Kyle Monangai did not practice on Wednesday. ",
-      "id": 613931,
-      "impact": "Monangai is likely to miss at least one more game. He remains week-to-week. ",
-      "link": "https://www.fantasypros.com/nfl/news/613931/kyle-monangai-thumbtoe-misses-practice-wednesday.php",
-      "player_id": 27131,
+      "created": "2026-10-15 16:23:50",
+      "created_formated": "Thu, Oct 15th 4:23pm UTC",
+      "desc": "The Commanders have opened the 21-day practice window for LB Jordan Magee.",
+      "id": 614020,
+      "impact": "Magee will have the next few weeks to be activated. ",
+      "link": "https://www.fantasypros.com/nfl/news/614020/jordan-magee-hamstring-has-practice-window-opened.php",
+      "player_id": 26461,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Kyle Monangai (thumb/toe) misses practice Wednesday "
+      "team_id": "WAS",
+      "title": "Jordan Magee (hamstring) has practice window opened "
     },
     {
       "author": "Ari Koslow",
@@ -153,16 +204,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-14 23:05:20",
-      "created_formated": "Wed, Oct 14th 11:05pm UTC",
-      "desc": "Keyshaun Elliott did not practice on Wednesday. ",
-      "id": 613930,
-      "impact": "Elliott is dealing with a quad injury. He'll need to be monitored in practice on Thursday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613930/keyshaun-elliott-quad-misses-practice-wednesday.php",
-      "player_id": 28433,
+      "created": "2026-10-15 16:20:47",
+      "created_formated": "Thu, Oct 15th 4:20pm UTC",
+      "desc": "Alec Pierce is reportedly no longer wearing a cast but is not close to a return.",
+      "id": 614019,
+      "impact": "Pierce went on injured reserve with a heel injury after Week 2. He has his first chance to return in the Colts' Week 7 game against the Vikings.",
+      "link": "https://www.fantasypros.com/nfl/news/614019/alec-pierce-heel-out-cast-not-close-to-returning.php",
+      "player_id": 23791,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Keyshaun Elliott (quad) misses practice Wednesday "
+      "team_id": "IND",
+      "title": "Alec Pierce (heel) out of cast, not close to returning"
     },
     {
       "author": "Ari Koslow",
@@ -171,16 +222,34 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-14 23:04:33",
-      "created_formated": "Wed, Oct 14th 11:04pm UTC",
-      "desc": "T.J. Edwards did not practice on Wednesday. ",
-      "id": 613929,
-      "impact": "Edwards is dealing with a hamstring injury. He'll need to be monitored in practice on Thursday. ",
-      "link": "https://www.fantasypros.com/nfl/news/613929/tj-edwards-hamstring-misses-practice-wednesday.php",
-      "player_id": 18281,
+      "created": "2026-10-15 16:18:35",
+      "created_formated": "Thu, Oct 15th 4:18pm UTC",
+      "desc": "Sean Tucker was back at practice on Thursday. ",
+      "id": 614018,
+      "impact": "Tucker missed practice to open the week on Wednesday. He remains off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/614018/sean-tucker-quad-returns-to-practice-thursday.php",
+      "player_id": 23679,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "T.J. Edwards (hamstring) misses practice Wednesday "
+      "team_id": "TB",
+      "title": "Sean Tucker (quad) returns to practice Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-15 16:17:21",
+      "created_formated": "Thu, Oct 15th 4:17pm UTC",
+      "desc": "Baker Mayfield did not practice on Thursday. ",
+      "id": 614017,
+      "impact": "Mayfield has yet to resume throwing. He remains week-to-week. ",
+      "link": "https://www.fantasypros.com/nfl/news/614017/baker-mayfield-thumb-misses-practice-thursday.php",
+      "player_id": 17237,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Baker Mayfield (thumb) misses practice Thursday "
     },
     {
       "author": "Garrett Ball",
@@ -204,253 +273,171 @@
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-14 22:55:53",
-      "created_formated": "Wed, Oct 14th 10:55pm UTC",
-      "desc": "Andrew Mukuba was a full participant in practice on Wednesday. ",
-      "id": 613928,
-      "impact": "Mukuba is on track to be good to go for Sunday's game against the Panthers. ",
-      "link": "https://www.fantasypros.com/nfl/news/613928/andrew-mukuba-shoulder-logs-full-practice-wednesday.php",
-      "player_id": 27081,
+      "created": "2026-10-15 05:35:44",
+      "created_formated": "Thu, Oct 15th 5:35am UTC",
+      "desc": "The Dolphins signed QB Brady Cook. ",
+      "id": 614010,
+      "impact": "Cook will add depth in the quarterback room for Miami. ",
+      "link": "https://www.fantasypros.com/nfl/news/614010/brady-cook-signs-with-dolphins.php",
+      "player_id": 27161,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Andrew Mukuba (shoulder) logs full practice Wednesday "
+      "team_id": "MIA",
+      "title": "Brady Cook signs with Dolphins "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-14 22:55:00",
-      "created_formated": "Wed, Oct 14th 10:55pm UTC",
-      "desc": "Fred Johnson was a full participant in practice on Wednesday. ",
-      "id": 613927,
-      "impact": "Johnson is on track to be good to go for Sunday's game against the Panthers. ",
-      "link": "https://www.fantasypros.com/nfl/news/613927/fred-johnson-knee-logs-full-practice-wednesday.php",
-      "player_id": 18360,
+      "created": "2026-10-15 05:34:33",
+      "created_formated": "Thu, Oct 15th 5:34am UTC",
+      "desc": "The Chargers re-signed WR/returner Luke Grimm to the practice squad. ",
+      "id": 614009,
+      "impact": "Grimm will return to a depth role. ",
+      "link": "https://www.fantasypros.com/nfl/news/614009/luke-grimm-re-signs-with-chargers.php",
+      "player_id": 27601,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Fred Johnson (knee) logs full practice Wednesday "
+      "team_id": "LAC",
+      "title": "Luke Grimm re-signs with Chargers "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-14 22:53:49",
-      "created_formated": "Wed, Oct 14th 10:53pm UTC",
-      "desc": "Jalen Hurts was a full participant in practice on Wednesday. ",
-      "id": 613926,
-      "impact": "Hurts fantasy value will largely be dependant on the health of DeVonta Smith and Saquon Barkley. He is a risky start for fantasy managers as of now given his recent struggles. ",
-      "link": "https://www.fantasypros.com/nfl/news/613926/jalen-hurts-calf-logs-full-practice-wednesday.php",
-      "player_id": 19275,
+      "created": "2026-10-15 05:33:26",
+      "created_formated": "Thu, Oct 15th 5:33am UTC",
+      "desc": "The Dolphins waived Ryan Miller. ",
+      "id": 614008,
+      "impact": "Miller will seek another opportunity with another team. ",
+      "link": "https://www.fantasypros.com/nfl/news/614008/ryan-miller-waived-by-dolphins.php",
+      "player_id": 15024,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jalen Hurts (calf) logs full practice Wednesday "
+      "team_id": "FA",
+      "title": "Ryan Miller waived by Dolphins"
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-14 22:50:06",
-      "created_formated": "Wed, Oct 14th 10:50pm UTC",
-      "desc": "Jalen Carter was a full participant in practice on Wednesday. ",
-      "id": 613925,
-      "impact": "Carter will be a full-go for Sunday's game against the Panthers. ",
-      "link": "https://www.fantasypros.com/nfl/news/613925/jalen-carter-wrist-logs-full-practice-wednesday.php",
-      "player_id": 24703,
+      "created": "2026-10-15 05:31:28",
+      "created_formated": "Thu, Oct 15th 5:31am UTC",
+      "desc": "The Jets released Tyler Johnson",
+      "id": 614007,
+      "impact": "Johnson will seek another opportunity with another team. ",
+      "link": "https://www.fantasypros.com/nfl/news/614007/tyler-johnson-released-by-jets.php",
+      "player_id": 24279,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jalen Carter (wrist) logs full practice Wednesday "
+      "team_id": "FA",
+      "title": "Tyler Johnson released by Jets"
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-14 22:49:05",
-      "created_formated": "Wed, Oct 14th 10:49pm UTC",
-      "desc": "Jihaad Campbell was a full participant in practice on Wednesday. ",
-      "id": 613924,
-      "impact": "Campbell is on track to be a full-go for Wednesday's game against the Panthers. ",
-      "link": "https://www.fantasypros.com/nfl/news/613924/jihaad-campbell-kneewrist-logs-full-practice-wednesday.php",
-      "player_id": 27051,
+      "created": "2026-10-15 05:30:33",
+      "created_formated": "Thu, Oct 15th 5:30am UTC",
+      "desc": "The Saints released Trey Palmer.  ",
+      "id": 614006,
+      "impact": "Palmer will seek another opportunity with another team. ",
+      "link": "https://www.fantasypros.com/nfl/news/614006/trey-palmer-released-by-saints.php",
+      "player_id": 25331,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jihaad Campbell (knee/wrist) logs full practice Wednesday "
+      "team_id": "FA",
+      "title": "Trey Palmer released by Saints "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-14 22:48:11",
-      "created_formated": "Wed, Oct 14th 10:48pm UTC",
-      "desc": "Zack Baun was a full participant in practice on Wednesday. ",
-      "id": 613923,
-      "impact": "Baun is on track to be a full-go for Sunday's game against the Panthers. ",
-      "link": "https://www.fantasypros.com/nfl/news/613923/zack-baun-shoulder-logs-full-practice-wednesday.php",
-      "player_id": 19238,
+      "created": "2026-10-15 05:29:44",
+      "created_formated": "Thu, Oct 15th 5:29am UTC",
+      "desc": "The Rams released Jamie Sheriff. ",
+      "id": 614005,
+      "impact": "Sheriff will seek another opportunity with another team. ",
+      "link": "https://www.fantasypros.com/nfl/news/614005/jamie-sheriff-released-by-rams.php",
+      "player_id": 26987,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Zack Baun (shoulder) logs full practice Wednesday "
+      "team_id": "FA",
+      "title": "Jamie Sheriff released by Rams"
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-14 22:45:44",
-      "created_formated": "Wed, Oct 14th 10:45pm UTC",
-      "desc": "Dontayvion Wicks was limited in practice on Wednesday. ",
-      "id": 613922,
-      "impact": "Wicks is on the injury report with a hamstring issue. He should be good to go for Sunday's game against the Panthers. ",
-      "link": "https://www.fantasypros.com/nfl/news/613922/dontayvion-wicks-hamstring-limited-practice-wednesday.php",
-      "player_id": 24354,
+      "created": "2026-10-15 05:29:07",
+      "created_formated": "Thu, Oct 15th 5:29am UTC",
+      "desc": "The Lions released Jalen Mills.  ",
+      "id": 614004,
+      "impact": "Mills will seek another opportunity with another team. ",
+      "link": "https://www.fantasypros.com/nfl/news/614004/jalen-mills-released-by-lions.php",
+      "player_id": 15556,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Dontayvion Wicks (hamstring) limited in practice Wednesday "
+      "team_id": "FA",
+      "title": "Jalen Mills released by Lions"
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-14 22:44:47",
-      "created_formated": "Wed, Oct 14th 10:44pm UTC",
-      "desc": "Eli Stowers was limited in practice on Wednesday. ",
-      "id": 613921,
-      "impact": "Stowers had his practice window opened on Wednesday. His status is up in the air to return this weekend. ",
-      "link": "https://www.fantasypros.com/nfl/news/613921/eli-stowers-quad-limited-practice-wednesday.php",
-      "player_id": 23144,
+      "created": "2026-10-15 05:28:13",
+      "created_formated": "Thu, Oct 15th 5:28am UTC",
+      "desc": "The Cowboys released Alex Austin. ",
+      "id": 614003,
+      "impact": "Austin will seek another opportunity with another team. ",
+      "link": "https://www.fantasypros.com/nfl/news/614003/alex-austin-released-by-cowboys.php",
+      "player_id": 25479,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Eli Stowers (quad) limited in practice Wednesday "
+      "team_id": "FA",
+      "title": "Alex Austin released by Cowboys "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-14 22:44:02",
-      "created_formated": "Wed, Oct 14th 10:44pm UTC",
-      "desc": "Tyler Steen was limited in practice on Wednesday. ",
-      "id": 613920,
-      "impact": "Steen will need to be monitored in practice the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/613920/tyler-steen-shoulder-limited-practice-wednesday.php",
-      "player_id": 25301,
+      "created": "2026-10-15 05:27:11",
+      "created_formated": "Thu, Oct 15th 5:27am UTC",
+      "desc": "The Cardinals released Jay Toia. ",
+      "id": 614002,
+      "impact": "Toia will seek another opportunity with another team. ",
+      "link": "https://www.fantasypros.com/nfl/news/614002/jay-toia-released-by-cardinals.php",
+      "player_id": 27229,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Tyler Steen (shoulder) limited in practice Wednesday "
+      "team_id": "FA",
+      "title": "Jay Toia released by Cardinals "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-14 22:43:19",
-      "created_formated": "Wed, Oct 14th 10:43pm UTC",
-      "desc": "Jonathan Greenard was limited in practice on Wednesday. ",
-      "id": 613919,
-      "impact": "Greenard will need to be monitored in practice the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/613919/jonathan-greenard-ankle-limited-practice-wednesday.php",
-      "player_id": 19276,
+      "created": "2026-10-15 05:26:35",
+      "created_formated": "Thu, Oct 15th 5:26am UTC",
+      "desc": "The Cardinals released Eugene Asante. ",
+      "id": 614001,
+      "impact": "Asante will seek another opportunity with another team. ",
+      "link": "https://www.fantasypros.com/nfl/news/614001/eugene-asante-released-by-cardinals.php",
+      "player_id": 27271,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jonathan Greenard (ankle) limited in practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-14 22:42:40",
-      "created_formated": "Wed, Oct 14th 10:42pm UTC",
-      "desc": "Marcus Epps was limited in practice on Wednesday. ",
-      "id": 613918,
-      "impact": "Epps will need to be monitored in practice the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/613918/marcus-epps-groin-limited-practice-wednesday.php",
-      "player_id": 18575,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Marcus Epps (groin) limited in practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-14 22:41:28",
-      "created_formated": "Wed, Oct 14th 10:41pm UTC",
-      "desc": "Landon Dickerson was limited in practice on Wednesday. ",
-      "id": 613917,
-      "impact": "Dickerson had his practice window opened on Wednesday. His status is up in the air to return this weekend. ",
-      "link": "https://www.fantasypros.com/nfl/news/613917/landon-dickerson-knee-limited-practice-wednesday.php",
-      "player_id": 20149,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Landon Dickerson (knee) limited in practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-14 22:40:47",
-      "created_formated": "Wed, Oct 14th 10:40pm UTC",
-      "desc": "Grant Calcaterra is limited in practice on Wednesday. ",
-      "id": 613916,
-      "impact": "Calcaterra had his practice window opened on Wednesday. His status is up in the air to return this weekend. ",
-      "link": "https://www.fantasypros.com/nfl/news/613916/grant-calcaterra-back-limited-practice-wednesday.php",
-      "player_id": 24180,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Grant Calcaterra (back) limited in practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-14 22:40:04",
-      "created_formated": "Wed, Oct 14th 10:40pm UTC",
-      "desc": "Hollywood Brown was limited in practice on Wednesday. ",
-      "id": 613915,
-      "impact": "Brown is continuing to work his way back from an ankle injury. He remains off the fantasy radar when he is healthy. ",
-      "link": "https://www.fantasypros.com/nfl/news/613915/hollywood-brown-ankle-limited-practice-wednesday.php",
-      "player_id": 18226,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Hollywood Brown (ankle) limited in practice Wednesday "
+      "team_id": "FA",
+      "title": "Eugene Asante released by Cardinals "
     }
   ],
   "public_api": true,

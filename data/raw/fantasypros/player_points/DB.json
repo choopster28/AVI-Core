@@ -936,12 +936,12 @@
       }
     },
     {
-      "average": 4.8,
+      "average": 4.6,
       "filename": "jaquan-mcmillian.php",
       "games": 5,
       "player_id": 24819,
       "player_name": "Ja'Quan McMillian",
-      "points": 23.75,
+      "points": 23,
       "position_id": "CB",
       "team_id": "DEN",
       "weeks": {
@@ -949,7 +949,7 @@
         "2": 6.8,
         "3": 0,
         "4": 0.8,
-        "5": 13.3
+        "5": 12.5
       }
     },
     {

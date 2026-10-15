@@ -169,6 +169,7 @@
     "metadata": {
       "allow_pn": "on",
       "allow_sms": "on",
+      "archived": "off",
       "avatar": "https://sleepercdn.com/uploads/68f8f48250066b4d82cff718a21616aa.jpg",
       "mention_pn": "on",
       "team_name": "Corgi Loaf Baking Co. "

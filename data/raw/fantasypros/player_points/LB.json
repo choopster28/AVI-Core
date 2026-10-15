@@ -1805,12 +1805,12 @@
       }
     },
     {
-      "average": 13.5,
+      "average": 13.6,
       "filename": "alex-singleton.php",
       "games": 5,
       "player_id": 14399,
       "player_name": "Alex Singleton",
-      "points": 67.25,
+      "points": 68,
       "position_id": "LB",
       "team_id": "DEN",
       "weeks": {
@@ -1818,7 +1818,7 @@
         "2": 12,
         "3": 9.8,
         "4": 18.3,
-        "5": 11.5
+        "5": 12.3
       }
     },
     {
@@ -2478,12 +2478,12 @@
       }
     },
     {
-      "average": 2.3,
+      "average": 2.1,
       "filename": "jonah-elliss.php",
       "games": 5,
       "player_id": 26157,
       "player_name": "Jonah Elliss",
-      "points": 11.25,
+      "points": 10.5,
       "position_id": "LB",
       "team_id": "DEN",
       "weeks": {
@@ -2491,7 +2491,7 @@
         "2": 4.5,
         "3": 3.8,
         "4": 0.8,
-        "5": 1.5
+        "5": 0.8
       }
     },
     {
@@ -3638,7 +3638,7 @@
       "player_name": "Troy Reeder",
       "points": 0,
       "position_id": "LB",
-      "team_id": "FA",
+      "team_id": "NYJ",
       "weeks": {
         "2": 0,
         "3": 0,

@@ -1234,12 +1234,12 @@
       }
     },
     {
-      "average": 3.7,
+      "average": 3.9,
       "filename": "eyioma-uwazurike.php",
       "games": 5,
       "player_id": 23838,
       "player_name": "Eyioma Uwazurike",
-      "points": 18.5,
+      "points": 19.25,
       "position_id": "DT",
       "team_id": "DEN",
       "weeks": {
@@ -1247,7 +1247,7 @@
         "2": 1.5,
         "3": 8,
         "4": 1.5,
-        "5": 4.5
+        "5": 5.3
       }
     },
     {
@@ -2422,12 +2422,12 @@
       }
     },
     {
-      "average": 4.6,
+      "average": 4.5,
       "filename": "adin-huntington.php",
       "games": 5,
       "player_id": 27588,
       "player_name": "Adin Huntington",
-      "points": 23,
+      "points": 22.25,
       "position_id": "DT",
       "team_id": "CLE",
       "weeks": {
@@ -2435,7 +2435,7 @@
         "2": 0.8,
         "3": 0.8,
         "4": 9.5,
-        "5": 10.5
+        "5": 9.8
       }
     },
     {
