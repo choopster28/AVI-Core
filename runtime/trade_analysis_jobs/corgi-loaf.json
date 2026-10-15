@@ -33,9 +33,354 @@
       }
     },
     "createdAt": 1792091651778,
-    "updatedAt": 1792091653436,
+    "updatedAt": 1792091712617,
     "expiresAt": 1792523651778,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The submitted proposal has Corgi Loaf Baking Co. sending DeVonta Smith and a 2027 2nd-round pick to DMV Fantasy for Jalen Coker and a projected early-to-mid 2027 1st-round pick. While this trade represents a net positive asset value and dynasty liquidity gain (+15.1 total C-AVI, +21.0 total D-AVI) for Corgi Loaf, it slightly lowers Corgi's starting WR2 ceiling from DeVonta Smith (90.8 C-AVI) to DJ Moore (78.2 C-AVI) or Jalen Coker (75.1 C-AVI). More critically, DMV Fantasy is a confirmed Rebuilding franchise whose proven market tendency is hoarding future 1st-round picks and selling aging veterans. Asking a rebuilder to surrender a projected early 2027 1st-round pick and a 24-year-old ascending WR for a 27-year-old receiver and a 2nd-round pick creates a severe strategic misalignment for DMV Fantasy, making rejection highly probable as constructed.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 90.8,
+              "davi": 93.3,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 24,
+              "cavi": 75.1,
+              "davi": 83.5,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            },
+            {
+              "name": "2027 1st · Northside · Projected early range (1.01–1.05)",
+              "assetType": "pick",
+              "owner": "DMV Fantasy",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "For Corgi Loaf Baking Co., acquiring a projected early 2027 1st-round pick and a 24-year-old starter in Jalen Coker while giving up DeVonta Smith and a 2nd-round pick is a strong portfolio upgrade (+15.1 net C-AVI, +21.0 net D-AVI). However, the starting WR2 slot drops from DeVonta Smith (90.8 C-AVI) to DJ Moore (78.2 C-AVI), slightly dampening immediate weekly ceiling. For DMV Fantasy, giving away a crown-jewel 2027 1st-round pick as a rebuilding franchise severely violates their strategic roadmap."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Revising the ask from DMV Fantasy's 2027 1st to a pair of 2027 2nd-round picks alongside Jalen Coker preserves a realistic trade path. DMV Fantasy keeps their valuable 1st-round draft capital intact while acquiring a proven 27-year-old WR1/2 in DeVonta Smith, and Corgi Loaf gains young WR depth (Coker) and multi-pick draft liquidity without provoking an instant rejection."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Trading away DeVonta Smith (90.8 C-AVI) forces DJ Moore (78.2 C-AVI) or Jalen Coker (75.1 C-AVI) into the active WR2 lineup slot, modestly lowering top-tier weekly projection."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Acquiring a projected early 2027 1st-round pick (79.3 D-AVI) and 24-year-old Jalen Coker significantly improves multi-year roster flexibility."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "The active 8-player starting lineup C-AVI average shifts down slightly as DJ Moore replaces DeVonta Smith at WR2."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adding Jalen Coker creates strong WR depth alongside DJ Moore and Tank Dell to insulate against future injuries."
+            },
+            "flexibilityLiquidity": {
+              "score": 45,
+              "summary": "Upgrading a 2027 2nd-round pick into a high-leverage 2027 1st-round pick provides maximum in-season trade currency."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Net gain in total roster asset value and premium draft capital, offset slightly by a minor reduction in starting WR ceiling."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "DeVonta Smith instantly becomes DMV's highest-rated wide receiver and primary option."
+            },
+            "dynastyOutlook": {
+              "score": -40,
+              "summary": "Surrendering a 2027 1st-round pick and a 24-year-old receiver damages long-term rebuilding timeline."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "DeVonta Smith upgrades DMV's starting WR slot over Jalen Coker by +15.7 C-AVI points."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Losing Coker reduces young upside depth behind Antonio Williams and Isaac TeSlaa."
+            },
+            "flexibilityLiquidity": {
+              "score": -50,
+              "summary": "Depletes DMV's prized 2027 1st-round draft pick inventory, severely limiting future trade flexibility."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Material loss of future rebuild assets and draft capital for a rebuilding franchise."
+            }
+          },
+          "explanation": "This visualization reflects Corgi Loaf Baking Co.'s balance between immediate starting lineup ceiling and long-term asset accumulation, contrasted with DMV Fantasy's strategic setback of spending 1st-round draft capital during an active rebuild."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. gives up 90.8 C-AVI in DeVonta Smith and 48.5 C-AVI in a 2027 2nd (139.3 total C-AVI outgoing) while receiving 75.1 C-AVI in Jalen Coker and 79.3 C-AVI in a 2027 1st (154.4 total C-AVI incoming). Net C-AVI change: +15.1. While net asset value rises, replacing DeVonta Smith in the starting WR2 slot with DJ Moore (78.2 C-AVI) or Jalen Coker (75.1 C-AVI) results in a -12.6 to -15.7 C-AVI drop in starting lineup production.",
+          "sideADynastyImpact": "Corgi Loaf sends out 93.3 D-AVI (Smith) and 48.5 D-AVI (2027 2nd) for 83.5 D-AVI (Coker) and 79.3 D-AVI (2027 1st). Net D-AVI change: +21.0. This significantly enhances dynasty flexibility and age profile.",
+          "sideARosterImpact": "Corgi Loaf's starting offensive lineup shifts to: QB Mahomes (77.7), RB Skattebo (82.0), RB Hubbard (79.2), WR1 JSN (99.2), WR2 DJ Moore (78.2), TE Tyler Warren (91.4), FLEX1 Malik Nabers (87.0), FLEX2 David Montgomery (78.5). Jalen Coker joins the bench as WR3 depth.",
+          "sideBChampionshipImpact": "DMV Fantasy receives DeVonta Smith (90.8 C-AVI) and a 2027 2nd (48.5 C-AVI) while sending out Jalen Coker (75.1 C-AVI) and a 2027 1st (79.3 C-AVI). Net C-AVI change: -15.1.",
+          "sideBDynastyImpact": "DMV Fantasy net D-AVI change: -21.0. DMV surrenders a young 24-year-old wideout and a premium 2027 1st-round draft asset.",
+          "sideBRosterImpact": "DeVonta Smith becomes DMV's WR1 ahead of Antonio Williams (56.5 C-AVI) and Isaac TeSlaa (52.2 C-AVI), but DMV's bench WR depth and future pick cache are depleted.",
+          "valueAssessment": "On raw index valuation, Corgi Loaf wins the asset exchange by +15.1 C-AVI and +21.0 D-AVI. However, the trade fails package realism and opponent motivation checks for DMV Fantasy."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views DeVonta Smith as a high-end WR2/WR1 borderline asset whose current short-term market value is slightly depressed due to lingering hamstring and toe injuries along with Jalen Hurts' temporary absence. Jalen Coker is viewed across fantasy platforms as an ascending 24-year-old WR2/3 in Carolina returning to full health ahead of Week 6.",
+          "aviVsMarket": "AVI rates DeVonta Smith (90.8 C-AVI / 93.3 D-AVI) and Jalen Coker (75.1 C-AVI / 83.5 D-AVI) in close alignment with public market consensus. Market valuation heavily penalizes rebuilders who trade away projected early 1st-round draft picks for 27-year-old wide receivers.",
+          "relevantContext": [
+            "DeVonta Smith (PHI) missed Weeks 4–5 with a hamstring injury and added a toe injury in Week 6 practice, making his immediate availability uncertain.",
+            "Jalen Coker (CAR) returned to a full practice participant ahead of Week 6 and is set to resume his locked-in WR2 role opposite Tetairoa McMillan.",
+            "DMV Fantasy's historical trade ledger demonstrates a clear tendency to hoard 1st-round picks (owning five future 1sts) and sell veterans rather than buy them."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "DMV Fantasy is a confirmed Rebuilder (HQ Status: Rebuilder). Their primary front-office directive is accumulating young assets and 1st-round draft capital. They have zero incentive to trade away a projected early 2027 1st-round pick and a 24-year-old wide receiver for a 27-year-old veteran.",
+          "packageFit": "The package fit is poor for DMV Fantasy. It asks a rebuilding team to act like a buyer by giving up premier draft capital for immediate production.",
+          "lineupReplacement": "DeVonta Smith would replace Jalen Coker in DMV's WR slot, upgrading their lineup on paper, but immediate lineup scoring is secondary to DMV's multi-year draft strategy.",
+          "competitiveWindowFit": "Severe mismatch for DMV Fantasy's competitive window. Rebuilding franchises must hold onto 1st-round picks to rebuild their core.",
+          "positionalScarcity": "In a 16-team PPR format, starting wide receivers carry significant value, making DeVonta Smith highly desirable for contenders, but less relevant as a buy candidate for rebuilders at the cost of a 1st-round pick."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 8,
+            "lineupReplacement": 10,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 40,
+          "classification": "Unlikely",
+          "explanation": "DMV Fantasy score: 40/100 (Unlikely). DMV Fantasy is actively rebuilding and historically hoards 1st-round picks (as demonstrated by trading Breece Hall and Terry McLaurin for 1st-round picks). DMV will not accept a trade that requires them to surrender a 2027 1st-round pick and a 24-year-old receiver for a 27-year-old receiver."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "While the submitted offer is highly favorable for Corgi Loaf Baking Co. on paper (+15.1 net C-AVI, +21.0 net D-AVI, and acquiring a 2027 1st), DMV Fantasy will almost certainly decline it. DMV Fantasy is in a confirmed rebuild and will not trade a projected early 2027 1st-round pick for DeVonta Smith. To make a realistic transaction, Corgi Loaf should adjust the proposed draft pick package so that DMV retains their 2027 1st.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 90.8,
+              "davi": 93.3,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 24,
+              "cavi": 75.1,
+              "davi": 83.5,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            },
+            {
+              "name": "2027 2nd · Ravens Regime · Projected mid range (2.03–2.06)",
+              "assetType": "pick",
+              "owner": "DMV Fantasy",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2027 2nd · DMV Fantasy · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "DMV Fantasy",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf adds young wide receiver depth in Jalen Coker (24.0 yrs, 75.1 C-AVI) and nets an additional 2027 2nd-round pick in draft capital liquidity, while re-allocating starting WR2 responsibilities to DJ Moore (78.2 C-AVI) or Coker.",
+          "whyOpponentMightAccept": "DMV Fantasy upgrades their top receiver slot to DeVonta Smith (90.8 C-AVI) without surrendering their prized 2027 1st-round draft pick, maintaining their core rebuilding goal while using surplus 2nd-round picks."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jalen Coker fantasy outlook 2026",
+          "Jalen Coker NFL news 2026",
+          "DeVonta Smith news 2026",
+          "DeVonta Smith fantasy outlook 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkm3OaP4vXo6t-upvC750PmhChvMt5dfFTSXFx-F6vLqlkJR5IIUmlTJiCJ4SO2UJZb_essZF_FUKsTsi3st3xmYzOWcIpeUIdDdyzclBh7XpJDAMwKlU1XpbJ0MG4v4PBAkd4r1G_pSH0e18Klm825jzwnNMmGpAtUwPn_jLvJKTf-sPduiUY",
+            "title": "allphly.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr5rPttk1YSRvcvkjiEDnVEs1Pkxz0237FxVQjt6NGOwFYMo_F_l-tPsMGbLJuKvoIAbyZ1Pe-3nz4rBBSzuehHCwYFL68NarPD9BDbNz-IbPi9YSqI9GDLZje-XxuCtD8urvPCOCG65-ld7DutAy5DP41wWnPk2dtLevkHzu2gXztgEELL5yh70HktVSLUBfE1_7r9oLvJOnpuw4cpcS7_U2u",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzGO5VzVFOhtdqmTfxPOBZa96puX03L9-MrKLXHLR9azr_yvibEKWXOumdsvnkrmnXIJFsvWoXFifsUK95keSyVinSza14ebuahUe-nrFWN7h3c7ywypQlh_kuSY6nk3f8hTR1Pj-gL-2sgVKVTIaR7NL-kM1sLsMyp3Qd4lFCWgvdF1JHmDJCIFIEeJkEh1TpnXQ=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjUZXErdDthHdaSX6-JpyjAyZIGqCrLOlKRrs9a5zTUOMDdSA10VMdJ1JWzvOhok7ulGq9jDQVjS47fVaNMg57nxW5_CXhb-IJOIkHBn65qqqMMK-M_LiOUXu499J5WEiwpCbXcJP4l05_bt_JizE0pi_JRpbBI8kYUv7KCiZHglq9Sb_9x5xNIxIXYepk7_AOko8=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3udsJUniwX2bUKIlQ_Vt59DL_fV_kOGMYhONpFbriF3OELMpmiv6InyjMn6UZcDuazfVpfFb7JAqmmVUoPGC4tUl5pNJ9YvDCnctlAN9iVlYcS8q4Mhmd3U9HnCAEQKkCQLesxePyhpdBs36z7cxqWXTXL9gKfwYE5P8_w85gRTtMM-7xJZQ=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6kl5QRRWvQ3qWVLMc5ZWKAuxRAOTa4lxQy0BZ_DG_n2Uon7yUSm875WTgDRoTIEjMvvc-_V5T2phHV1L1-9M06ovZJtsHqBQ8AkFXc0dqPBcYJAE49mV9Eejht6Dg4Y5HFgWQrbi7A5SmlyWX6lJ1zCu1Pc1kgTbHrbzwmu3lw4iIY4sY0AzM6j-5Cgc06eOB_OYC6mixwXS3n0NBhuUWdVaVYWCJw84=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtirOUu5QXrXe9ogagyqjWox5jkszp0dWkubEasjjl29nKXuXZHRx3cYmzUnbUXwiawTjB0o5i3ZMBTWBByV2WmLvMAvKJFqW7YWz1K-hqk5LUH2oGIlYv9wBvbGq2MWFGSrzQyx1nzXyI8J5484Lt4p3BQopd",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_HRJ_wIc9czgYhXo4YioBA4h8tj9NZN-uUEBdQsKJwyv0SeiBPExHof23Qw4f3eVZNjnKMXjlJ6mg3D5cdhmE0S34NTTs4Y2fopNkYmoPF6_kFugoVIRj1eVHchb-t79apsMqweM=",
+            "title": "draftpunk.net"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_Va1ucS1Ulm4cPtgSvHRGdzsjIrPds74ZISykRRtQzjhAL-F6i4Hnk2EkGeV94BxlRqIT-GKeTdhp5xdLVTM7WR35_8pGPJrK0l5vOD7gCPKKRvpArdpqDlK8d7gk9iLDv0iDkEcFnY7ib4xi8Rpq",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLLApeAxH2TCOH4ir5FFp7JFFCFzrwHkuZvme9iTuvWBswG_YAZsHU9wjrCZ50eYJaYjNVmJ60xR26CaNSe5vPb6zgEP7oNJw8Q1xQoo2hg57czwW0DAa2rGdUEysLv16IoUvOzj3u_MuaRe1FUDGFQVbfY-TT8Aw3YETVNHLaJ64GVSJj450=",
+            "title": "bettoringreen.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGmSaKONMB6g66FbdcdhZ4Le8dx9s-lMbG0omHvn3RRTkADn6_nQbP2vcJDHxRepz4oUFMFKEBRR7hR5eaqHAReH2HTBtPEyy9aZdZlLu0gEfe8NtS6hrGwh79L_OVEkZ1",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeYHy23LGsV_uuEPBtjNEsPhdzCXC_3cgiQBQgB-qjF8lu0P86_Zjcmr--wU4YxQRwdG8cV7FRsZO3MSGKAp1_e7dFzbeFoo43qGOG7ZEbD_4chERuLr1F_NWzwf2w4xLnVu8wzDQfOWMR330U4RdSdXXE3o6pIP27v_giPdQtd32BOg1fxGNmEFj8esE=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyiHVHThcpIK_auvLsYY-SEui1MMP2SwMbHZxXX08rr5-XH3y0p6RxML7VquxiSHu0E_wsUDHIyxQYz1TGsAY-AVyL9VDbnse8jhg2f3q99sYOk-_gMqyQZRfAVjU43ciTFzdXY0idnQyhAKGlniUHTQquEecYy9TMfdKFn2OBsa3Yme1yxtN36D-3xqv4atT3n7r_kZBzDkx4P5Or9xubs69-_GZTorMygw==",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "2a79142a154176ff9042fb677c596d0548cd539d",
+        "aviCoreCommittedAt": "2026-10-15T18:46:47Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 91533,
+        "groundedMarketChars": 2342,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mv9q0u48-43caa641",
