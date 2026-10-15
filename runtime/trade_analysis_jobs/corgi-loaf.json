@@ -29,9 +29,251 @@
       "maxResults": 3
     },
     "createdAt": 1792079767160,
-    "updatedAt": 1792079768667,
+    "updatedAt": 1792079818163,
     "expiresAt": 1792511767160,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "As an Elite Contender in 'Win Championship' mode, Corgi Loaf Baking Co. possesses exceptional receiver and tight end core assets, backed by strong depth at running back (Cam Skattebo, David Montgomery, Rhamondre Stevenson). By leveraging this surplus RB depth and active draft capital, Corgi Loaf can target high-volume RB1 upgrades across the league to maximize starting lineup firepower for a championship run while offering trade partners immediate startable depth or upside.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite young WR room led by Jaxon Smith-Njigba (99.2 C-AVI), DeVonta Smith (90.8 C-AVI), and Malik Nabers (86.9 C-AVI)",
+            "High-caliber TE centerpiece in Tyler Warren (91.4 C-AVI)",
+            "Deep pool of starting-caliber RBs (Skattebo, Stevenson, Montgomery, Hubbard)"
+          ],
+          "priorityNeeds": [
+            "Consolidating RB depth into a top-tier anchor RB1 for playoff leverage"
+          ],
+          "tradeableSurplus": [
+            "Cam Skattebo (81.5 C-AVI)",
+            "Rhamondre Stevenson (78.0 C-AVI)",
+            "David Montgomery (77.9 C-AVI)",
+            "2027 2nd Round Pick (Badland Banditos)"
+          ],
+          "constraintsApplied": [
+            "Enforced Two-Organization Goal Alignment for all trade partners",
+            "Gated all trade candidates through 16-team starter-caliber pool checks",
+            "Incorporated public injury context for David Montgomery (week-to-week groin issue)"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding franchises (DMV Fantasy, Crimson Tide Pods, Northside Kings) required premium early 1st-round draft capital rather than veteran RB depth",
+            "Retooling teams lacked eligible starter-for-starter RB assets matching user target profiles"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Big Balder Brand",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Omarion Hampton",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 23,
+                "cavi": 85,
+                "davi": 90.5,
+                "publicMarket": 84,
+                "leagueMarket": 86
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "David Montgomery",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 77.9,
+                "davi": 77.5,
+                "publicMarket": 74,
+                "leagueMarket": 76
+              },
+              {
+                "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Youth & Ceiling Upgrade at RB",
+            "strategicGoal": "Pivot veteran RB volume and draft capital into a younger, high-upside championship back in Omarion Hampton.",
+            "scoring": {
+              "availability": 18,
+              "opposingGmMotivation": 19,
+              "packageMatch": 16,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 72,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Omarion Hampton provides 23-year-old high-upside rushing talent in a run-heavy Chargers scheme, boosting both current championship ceiling and long-term dynasty longevity.",
+            "whyOpponentMightAccept": "Big Balder Brand ('Win Championship') holds strong RB starting options (Saquon, Jeremiyah Love, Hampton) and gets a productive veteran in Montgomery plus a valuable 2027 2nd-round pick to reload liquidity while remaining fully competitive.",
+            "championshipImpact": "Upgrades long-term RB ceiling without losing active lineup viability.",
+            "dynastyImpact": "Gains a 23-year-old anchor RB (90.5 D-AVI) while moving a 29-year-old veteran.",
+            "rosterImpact": "Clears a 2027 2nd pick while improving RB age curve.",
+            "publicMarketContext": "Hampton has had minor lower-body ailments early in 2026, making Big Balder Brand open to adding immediate depth and future draft flexibility.",
+            "risks": [
+              "Montgomery's week-to-week groin injury requires clear negotiation framing.",
+              "Hampton's touch efficiency has fluctuated during scheme adjustments."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Montgomery and the 2027 2nd pick for Hampton, highlighting Montgomery's high touchdown floor once healthy.",
+              "acceptableConcession": "Swap Montgomery for Rhamondre Stevenson if Big Balder Brand prefers healthier immediate RB availability.",
+              "walkAwayPoint": "Walk away if Big Balder demands a 1st-round draft pick in addition to Montgomery/Stevenson."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Kenneth Walker fantasy news 2026",
+          "Cam Skattebo NFL draft 2025 2026 stats",
+          "Omarion Hampton NFL draft 2025 2026 stats",
+          "David Montgomery fantasy news 2026",
+          "James Cook fantasy news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW1LXZ7sR7jYsJTWj1UuXKIZcHtGdgongUUYKSoVomZKVyYgQC5K-elz6AGax8oHTm8KyBbcjKJFCPWvBu7GvZEi-1Fnbwvls85xpuw9ZozRHCoe6AymSzkehBY6uynKLxYFpSLWLzhSVJpFDU4feINHiz",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpFshJD25w3aAAndLQUOSy2lnikEq6zkUbXp_8hcKrNZ02qNJo4AkREc7X_GqFlNmo9NUPitq5zcGCglOARNyoUFFSupbAZgGJbS5nXNWCWYRIgNCwL40Dvv2JQjpIqWzVIYJqLUHlkW2oyDp28Eim8Qd9E98q_kwiDQ==",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjCewihv8VkZuGkepxCLOiel5aag2ybhtDDp_QGG5ZUUDh_biivruwElnhtjf6RmdunPBJpqUVfrW9jRqcjVDknnZQzO-R49wCIAg-5NeVV7w-gTa0zLKE0BRaK6FqwT8vJU4-OkEZ979q_zlV2RaJyGbsLW3hGum92gMfh2DNepREuL4gIPlXU1Sw5ZOd8RDKOn6lxpadkv7D7542B-JOad3wlPYqaA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF29R-PfuiZ_MRBg7DTS7vIOc3BIOfPhjA9_e5syMlGGJ2e6JEK1GkcpwVTbuaujqpOTny_UG6IE76-TvNR2UmJdNfPl2HltZnL-1VhACtKSwBbP8V2w31UPYxxuf3pJMhWCnPeJb7tx96f46ssro6505e7OO0KrncbaRVJRWBNChSKzegt",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJg4WD-E1NGbvB4fdcRvGz66Twfpj64E5SG80NoIjT0HpzaT6vyY-0YSU0POYNcexJznVR7ZNf-mxqHT74gRS2MA4sXLfvO9eklv9mj1UNbLvHYTQJER2WpzJFo5sLNWsrH4vvEeqJdaAlGcYZMeVg9rCpukHMcDCWQ2nuGKICQMKcxuQYP03QsdEkz6qDhMXK49yQ7eTsQVUOmk4DXF77Tsjbu1ZqhJvSZv-Hdg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGSEsY0eZiXyTHceNrLVhV7jw1Sgnf-pqjSyNJr8NcypEm1ORBBohm2iKqqtOoerUCaZIM7ewM67_a8DYf-BR-x8oXUS71j_tlbah5nt0EfbONOWKo3srMAjd_Po5xZJ6ZNddAlwtCrZsnMboimA==",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgHLoGbEogEK84f-U-PsChlyaiRvsz2M5m4dr2sbS_FUE3nglqzhHAn7XMHGuV9xbU8Y00jLHvg14St5j7E1aPaVacJXB0r_irJywZuGqfQaMuS31PG1jT7TTHytpVcnIj65tm8zuzQQ-hjg==",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGaSV98NRajDx_b660kmE8CPEKrQjHCzAbDtsvCRf5G1CJvDUXqHV4QTmtmEjXrJGVTLBLcxqTwwaVOOWuDpWR5ogUf3H9tFTy4DErKn5bR2ENgkBoNX_X14ScapNGQzx7bnv9o9RYRTWTUg_awdejsFvDgA==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMrSJQSZx8u5xoPJFA9wMa-wnJf-ldpObYfJFBkbO1imcboG9NsR7evFyWFaGXC1UGy-WYJG5Q1MNwIs8icDqnGLUPeYNP3RnckduFnnAqdOzv5SJC3IVDQBDPnlkQM8M7QvQsmOIKorc6wjtH_s-kGeA=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMGYSIfRzQ6K_2IiiOKcku1J2Y_CUfVZhRo14vAgHwI0WKo9cX_2HryxXMJeqITxmbqGGG3gce2Lo6MtiPhnsTTqD3qGYp6qaCSTEBinpVQcSmZI6-iaNW4G0gk1lOtFqDRrSgHl1mvg==",
+            "title": "draftlabnfl.app"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBI4vv6VutKWV4V3_5ntI-BsntbACNBxeH4uBmukDVCeFlMBYtt4K7F-1hHtv3i5J2pFPMdDfDeKuZmNGkk84Av58ZVawY10qxZ7tyJOHcZDGaYo_k_NHxD_5XsucgEYFitkxKIEgwmMBaJ_VubiDf3g==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAiMtVML2lh-Nb9URTE8PqABS15I3jhjeQBlLgNDzd6koZd_8zr6QH7glVwM73567YfgOfoKa1jabH2vkH1fKmbOM_3TysqhgKq5k3CePChHcipvhCEw-iXUx_p8v5bM6YTt1QaGvMK3eJN8hzt-A7ghC6oKgm72l0mHPoRXWlOgFw1-qeWIyu6oCSs_kzV9lfzOveNEoUyzyr",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSBLwRfzWl9hxZYIa1zkQfaBVlGo6G3bYLvyZtEJld2ZRBPRs8z7OfNolkXCZPCayzq4CGkOkYukqdaE3YvDkVQ8Ed1RC6QkM_T1vp_wNRDUj4sxXkZ7yoAJdvWyEttsDAjuAWg0lIJ80EOIRMfgT9CNXTHDb93NRGm68F8nFlwPaDbZWlKoqKYteUvuShnR6Vq3cZs3c=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCBP7LEIqbNr1WoJuLhgvPR7-x5abnE6gVHfnqTF24q6kcski2IRO2q_186zEa_KEyyVh80M6jSKe5bgTpufJdH14lYaWoPU-6gkjST3u9vVX_abkeq_A2Q1HV39vtk46kJRLD7KpOYRjp5dP0EGXC7joKgUGSKghcBEf1cnhtZJi8tIpVeBZ6g1LG7hQns9OAs4z4sPrE-2vGL7gDWsi6BViMVP24wy6Ly8-MMx89MkTdO-gjZ92j013XSrjQJyEJX_m2s4oZ-7Ma",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Omarion Hampton",
+          "David Montgomery",
+          "Kenneth Walker",
+          "Rhamondre Stevenson",
+          "Cam Skattebo",
+          "James Cook"
+        ],
+        "aviCoreCommitSha": "ff58548730f87aeb02f5c946a9d5fbfe3129020b",
+        "aviCoreCommittedAt": "2026-10-15T13:48:23Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 541304,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 252,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mv9pz1ds-f7ed0698",
