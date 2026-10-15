@@ -1,5 +1,39 @@
 [
   {
+    "id": "mva30y3o-a2206ccd",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Northside Kings",
+      "trade": {
+        "sideA": [
+          {
+            "name": "David Montgomery",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Stefon Diggs",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1792101607333,
+    "updatedAt": 1792101607333,
+    "expiresAt": 1792533607333,
+    "status": "queued"
+  },
+  {
     "id": "mv9x3kci-4c53b21f",
     "phase": "initial",
     "mode": "analyze_trade",
