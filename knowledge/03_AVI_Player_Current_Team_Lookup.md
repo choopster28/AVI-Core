@@ -932,6 +932,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
 
+## PLAYER LOOKUP: Jalen Royals
+- Player name: Jalen Royals
+- Player ID: 12505
+- Position: WR
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
 ## PLAYER LOOKUP: Jameis Winston
 - Player name: Jameis Winston
 - Player ID: 2306
@@ -1051,14 +1059,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
-
-## PLAYER LOOKUP: Jerry Jeudy
-- Player name: Jerry Jeudy
-- Player ID: 6783
-- Position: WR
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Team file: 05_Northside_Kings.md
 
 ## PLAYER LOOKUP: Joe Burrow
 - Player name: Joe Burrow
@@ -1676,14 +1676,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
 
-## PLAYER LOOKUP: Ray Davis
-- Player name: Ray Davis
-- Player ID: 11575
-- Position: RB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
 ## PLAYER LOOKUP: Rhamondre Stevenson
 - Player name: Rhamondre Stevenson
 - Player ID: 7611
@@ -2083,6 +2075,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 57.9
 - Availability: available
 
+## AVAILABLE PLAYER: Jerry Jeudy
+- Player name: Jerry Jeudy
+- Player ID: 6783
+- Position: WR
+- NFL team: CLE
+- Championship AVI (C-AVI, 0-100): 51.9
+- Dynasty AVI (D-AVI, 0-100): 67.9
+- Availability: available
+
 ## AVAILABLE PLAYER: Jahan Dotson
 - Player name: Jahan Dotson
 - Player ID: 8119
@@ -2389,6 +2390,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 42.7
 - Availability: available
 
+## AVAILABLE PLAYER: Ray Davis
+- Player name: Ray Davis
+- Player ID: 11575
+- Position: RB
+- NFL team: BUF
+- Championship AVI (C-AVI, 0-100): 40.8
+- Dynasty AVI (D-AVI, 0-100): 62.4
+- Availability: available
+
 ## AVAILABLE PLAYER: Roschon Johnson
 - Player name: Roschon Johnson
 - Player ID: 10235
@@ -2567,15 +2577,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: WAS
 - Championship AVI (C-AVI, 0-100): 37.1
 - Dynasty AVI (D-AVI, 0-100): 46.3
-- Availability: available
-
-## AVAILABLE PLAYER: Jalen Royals
-- Player name: Jalen Royals
-- Player ID: 12505
-- Position: WR
-- NFL team: KC
-- Championship AVI (C-AVI, 0-100): 36.9
-- Dynasty AVI (D-AVI, 0-100): 51.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Brashard Smith

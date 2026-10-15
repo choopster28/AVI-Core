@@ -63,6 +63,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00006783",
+      "c_avi": 51.9,
+      "d_avi": 67.9,
+      "nfl_team": "CLE",
+      "player_name": "Jerry Jeudy",
+      "position": "WR",
+      "sleeper_id": "6783",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008119",
       "c_avi": 51.5,
       "d_avi": 49.0,
@@ -471,6 +483,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011575",
+      "c_avi": 40.8,
+      "d_avi": 62.4,
+      "nfl_team": "BUF",
+      "player_name": "Ray Davis",
+      "position": "RB",
+      "sleeper_id": "11575",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00010235",
       "c_avi": 40.6,
       "d_avi": 49.9,
@@ -706,18 +730,6 @@
       "player_name": "Dyami Brown",
       "position": "WR",
       "sleeper_id": "7587",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012505",
-      "c_avi": 36.9,
-      "d_avi": 51.9,
-      "nfl_team": "KC",
-      "player_name": "Jalen Royals",
-      "position": "WR",
-      "sleeper_id": "12505",
       "status": "Active"
     },
     {
@@ -2702,8 +2714,8 @@
     }
   ],
   "counts": {
-    "available_players": 225,
-    "rostered_players": 254
+    "available_players": 226,
+    "rostered_players": 253
   },
   "rostered_players": [
     {
@@ -4565,6 +4577,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012505",
+      "c_avi": 36.9,
+      "d_avi": 51.9,
+      "nfl_team": "KC",
+      "owner_id": "863881053000011776",
+      "player_name": "Jalen Royals",
+      "position": "WR",
+      "roster_id": 9,
+      "sleeper_id": "12505",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00002306",
       "c_avi": 45.1,
       "d_avi": 48.0,
@@ -4801,22 +4829,6 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00006783",
-      "c_avi": 51.9,
-      "d_avi": 67.9,
-      "nfl_team": "CLE",
-      "owner_id": "872351659366539264",
-      "player_name": "Jerry Jeudy",
-      "position": "WR",
-      "roster_id": 5,
-      "sleeper_id": "6783",
-      "status": "Active",
-      "team_file": "05_Northside_Kings.md",
-      "team_name": "Northside Kings "
     },
     {
       "active": true,
@@ -6049,22 +6061,6 @@
       "status": "Active",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011575",
-      "c_avi": 40.8,
-      "d_avi": 62.4,
-      "nfl_team": "BUF",
-      "owner_id": "863881053000011776",
-      "player_name": "Ray Davis",
-      "position": "RB",
-      "roster_id": 9,
-      "sleeper_id": "11575",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
