@@ -1,5 +1,43 @@
 [
   {
+    "id": "mv9x3kci-4c53b21f",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "DMV Fantasy",
+      "trade": {
+        "sideA": [
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jalen Coker",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · Northside · Projected early range (1.01–1.05)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1792091651778,
+    "updatedAt": 1792091651778,
+    "expiresAt": 1792523651778,
+    "status": "queued"
+  },
+  {
     "id": "mv9q0u48-43caa641",
     "phase": "initial",
     "mode": "shop_assets",
