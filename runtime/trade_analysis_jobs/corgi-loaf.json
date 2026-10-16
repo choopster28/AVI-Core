@@ -1,5 +1,39 @@
 [
   {
+    "id": "mvacbfio-2213d50f",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Mike Washington",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "George Kittle",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1792117213008,
+    "updatedAt": 1792117213008,
+    "expiresAt": 1792549213008,
+    "status": "queued"
+  },
+  {
     "id": "mvac1f2f-f47cfd72",
     "phase": "initial",
     "mode": "analyze_trade",
