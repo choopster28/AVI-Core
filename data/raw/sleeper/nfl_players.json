@@ -455302,7 +455302,7 @@
       "genius_id": "1008102",
       "rookie_year": "2018"
     },
-    "news_updated": 1792185942455,
+    "news_updated": 1792187736421,
     "number": 2,
     "oddsjam_id": "9D6ED1CC6CA2",
     "opta_id": null,
@@ -524925,10 +524925,10 @@
     "hashtag": "#tyjohnson-NFL-BUF-26",
     "height": "70",
     "high_school": "Fort Hill (MD)",
-    "injury_body_part": "Hamstring",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "a2f1b838-3ddb-43f5-b1ff-aca7c57d9c5d",
     "last_name": "Johnson",
     "metadata": {
@@ -524936,7 +524936,7 @@
       "genius_id": "1008109",
       "rookie_year": "2019"
     },
-    "news_updated": 1792125335797,
+    "news_updated": 1792188337160,
     "number": 26,
     "oddsjam_id": "C315B63E625D",
     "opta_id": null,
@@ -573476,7 +573476,7 @@
       "genius_id": "1005917",
       "rookie_year": "2020"
     },
-    "news_updated": 1792084249387,
+    "news_updated": 1792187736420,
     "number": 10,
     "oddsjam_id": "E7BCA7FF5B4A",
     "opta_id": null,
@@ -630506,7 +630506,7 @@
       "genius_id": "1016267",
       "rookie_year": "2021"
     },
-    "news_updated": 1792125636012,
+    "news_updated": 1792188337158,
     "number": 5,
     "oddsjam_id": "B419ABE05C62",
     "opta_id": null,
@@ -663518,7 +663518,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2022"
     },
-    "news_updated": 1791758719617,
+    "news_updated": 1792188336672,
     "number": 9,
     "oddsjam_id": "AE6FD0191907",
     "opta_id": null,
@@ -664410,10 +664410,10 @@
     "hashtag": "#jalennailor-NFL-LV-9",
     "height": "72",
     "high_school": "Bishop Gorman (NV)",
-    "injury_body_part": "Concussion",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "5cf8a98b-2ee4-4ffc-971e-2e6c4c34ff00",
     "last_name": "Nailor",
     "metadata": {

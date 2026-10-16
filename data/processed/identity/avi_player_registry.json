@@ -5974,10 +5974,10 @@
     "avi_id": "AVI-00011557",
     "canonical_name": "Joe Milton",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
-    "nfl_team": "DAL",
+    "nfl_team": "PHI",
     "normalized_name": "joe milton",
     "position": "QB",
     "source_ids": {

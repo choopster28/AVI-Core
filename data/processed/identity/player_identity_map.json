@@ -2340,9 +2340,9 @@
     "sleeper_id": "19"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "25967",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "DAL",
     "player_name": "Joe Milton III",
     "position": "QB",

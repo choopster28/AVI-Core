@@ -21,20 +21,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 433.3
-- championship_lineup_c_avi_avg: 54.16
-- offensive_roster_c_avi_sum: 784.5
-- offensive_roster_c_avi_avg: 43.58
-- offensive_roster_d_avi_sum: 1107.8
-- offensive_roster_d_avi_avg: 61.54
+- championship_lineup_c_avi_sum: 433.4
+- championship_lineup_c_avi_avg: 54.17
+- offensive_roster_c_avi_sum: 784.9
+- offensive_roster_c_avi_avg: 43.61
+- offensive_roster_d_avi_sum: 1112.1
+- offensive_roster_d_avi_avg: 61.78
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 71.4 | D-AVI: 83.1
 - RB: Quinshon Judkins | C-AVI: 72.0 | D-AVI: 85.5
 - RB: Ollie Gordon | C-AVI: 43.4 | D-AVI: 50.9
-- WR: Denzel Boston | C-AVI: 63.1 | D-AVI: 80.3
-- WR: Quentin Johnston | C-AVI: 45.7 | D-AVI: 69.0
+- WR: Denzel Boston | C-AVI: 63.1 | D-AVI: 79.9
+- WR: Quentin Johnston | C-AVI: 45.8 | D-AVI: 68.7
 - TE: Colston Loveland | C-AVI: 60.4 | D-AVI: 84.5
 - FLEX: AJ Barner | C-AVI: 39.2 | D-AVI: 63.1
 - FLEX: Chris Bell | C-AVI: 38.1 | D-AVI: 67.6
@@ -156,7 +156,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 63.1
-- Dynasty AVI (D-AVI, 0-100): 80.3
+- Dynasty AVI (D-AVI, 0-100): 79.9
 - Projected PPR points: 134.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -173,7 +173,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 46.7
-- Dynasty AVI (D-AVI, 0-100): 65.8
+- Dynasty AVI (D-AVI, 0-100): 65.4
 - Projected PPR points: 94.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 45.7
-- Dynasty AVI (D-AVI, 0-100): 69.0
+- Championship AVI (C-AVI, 0-100): 45.8
+- Dynasty AVI (D-AVI, 0-100): 68.7
 - Projected PPR points: 170.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 38.5
-- Dynasty AVI (D-AVI, 0-100): 68.9
+- Championship AVI (C-AVI, 0-100): 38.4
+- Dynasty AVI (D-AVI, 0-100): 68.1
 - Projected PPR points: 106.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 33.6
-- Dynasty AVI (D-AVI, 0-100): 37.9
+- Championship AVI (C-AVI, 0-100): 33.7
+- Dynasty AVI (D-AVI, 0-100): 38.8
 - Projected PPR points: 58.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 32.6
-- Dynasty AVI (D-AVI, 0-100): 56.3
+- Championship AVI (C-AVI, 0-100): 32.9
+- Dynasty AVI (D-AVI, 0-100): 61.2
 - Projected PPR points: 73.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -292,7 +292,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 23.2
-- Dynasty AVI (D-AVI, 0-100): 28.3
+- Dynasty AVI (D-AVI, 0-100): 28.7
 - Projected PPR points: 21.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
