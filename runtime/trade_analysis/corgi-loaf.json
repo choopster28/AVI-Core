@@ -1,5 +1,375 @@
 [
   {
+    "id": "mvacbfio-2213d50f",
+    "createdAt": 1792117270638,
+    "expiresAt": 1792549270638,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Corgi Loaf Baking Co. ↔ Ravens Regime",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Mike Washington",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "George Kittle",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co.'s proposed offer of Mike Washington and a 2027 2nd-round pick for George Kittle represents an extreme value win for Corgi's 'Win Championship' goal, but it stands virtually zero chance of acceptance by Ravens Regime. Ravens Regime is currently in a 'Playoff Push' (Goal: Increase Championship Odds) and cannot afford to move an elite starting tight end in Kittle (89.8 C-AVI) for a backup running back and a future draft pick. To execute this trade concept and secure Kittle to boost weekly FLEX scoring, Corgi Loaf Baking Co. must revise the package to include a legitimate starting asset, such as DJ Moore or David Montgomery.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Mike Washington",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 53.1,
+              "davi": 57.9,
+              "publicMarket": 45,
+              "leagueMarket": 50
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "George Kittle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 33,
+              "cavi": 89.8,
+              "davi": 83.3,
+              "publicMarket": 85,
+              "leagueMarket": 88
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "F",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "For Corgi Loaf Baking Co., this submitted offer is an immense strategic win, acquiring top-tier TE1 George Kittle (89.8 C-AVI) to slot into FLEX for bench RB depth and a future 2nd. For Ravens Regime, however, it is a non-starter that strips away elite starting production during a playoff push."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Revising the offer to send DJ Moore (77.9 C-AVI) alongside the 2027 2nd for George Kittle provides Ravens Regime with a starting WR2 upgrade to stay competitive while still giving Corgi a massive starting FLEX upgrade in Kittle."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 80,
+              "summary": "Upgrades weekly FLEX starting ceiling from 77.9 C-AVI (DJ Moore) to 89.8 C-AVI (Kittle)."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Slight sacrifice in youth profile by acquiring a 33-year-old tight end."
+            },
+            "lineupQuality": {
+              "score": 75,
+              "summary": "Improves overall 8-man offensive starting lineup C-AVI average."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Parts with backup RB depth in Mike Washington."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders a 2027 2nd-round draft pick."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Acquires elite TE/FLEX scoring in George Kittle to maximize championship win probability."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -85,
+              "summary": "Cripples playoff push by forcing Kyle Pitts (74.3 C-AVI) into TE and creating a FLEX deficit."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Gains young backup RB Mike Washington (57.9 D-AVI) and future 2nd-round pick."
+            },
+            "lineupQuality": {
+              "score": -80,
+              "summary": "Creates a significant net loss in weekly starting lineup points."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds developmental RB depth behind Derrick Henry and Kyle Monangai."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Adds 2027 2nd-round draft capital."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Severely damages immediate starting lineup by surrendering elite TE George Kittle without starting replacement."
+            }
+          },
+          "explanation": "The submitted construction heavily favors Corgi Loaf Baking Co. by delivering an elite starting asset at minimal cost, while crippling Ravens Regime's starting lineup during an active playoff push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "+11.9 C-AVI net improvement in starting lineup by replacing DJ Moore (77.9 C-AVI) with George Kittle (89.8 C-AVI) at FLEX.",
+          "sideADynastyImpact": "Minor long-term age trade-off acquiring a 33-year-old elite TE, but perfectly aligned with 'Win Championship' window.",
+          "sideARosterImpact": "Creates an elite dual-TE starting nucleus (Tyler Warren + George Kittle) while sacrificing bench RB depth and draft liquidity.",
+          "sideBChampionshipImpact": "-15.5 C-AVI drop in starting TE slot as Kyle Pitts (74.3 C-AVI) takes over for Kittle, with zero starting replacement returned.",
+          "sideBDynastyImpact": "Adds 23-year-old Mike Washington (57.9 D-AVI) and a 2027 2nd-round draft pick (48.5 D-AVI).",
+          "sideBRosterImpact": "Leaves a massive hole in starting lineup quality and adds non-starting RB depth.",
+          "valueAssessment": "Grossly imbalanced trade in terms of current championship impact. Kittle's 89.8 C-AVI vastly outweighs Washington's 53.1 C-AVI and the 48.5 Draft Pick AVI."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views George Kittle as an elite win-now TE1 performing at a top-tier level post-Achilles recovery. Mike Washington Jr. is viewed as a developmental 4th-round rookie backup behind Ashton Jeanty with minimal immediate fantasy value.",
+          "aviVsMarket": "AVI is aligned with the public market: Kittle is valued as an elite high-impact starter (89.8 C-AVI), while Washington is a speculative bench stash (53.1 C-AVI).",
+          "relevantContext": [
+            "George Kittle has played 90%+ of snaps in recent weeks and remains Brock Purdy's top target.",
+            "Mike Washington Jr. is strictly a backup/handcuff behind Ashton Jeanty in Las Vegas.",
+            "Ravens Regime is in a 'Playoff Push' and cannot move premier starting assets for non-starting depth."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime's goal is 'Increase Championship Odds' (Playoff Push). They have no incentive to trade an elite starting TE for bench depth.",
+          "packageFit": "The submitted offer fails to provide a starting-caliber replacement for Ravens Regime at any position.",
+          "lineupReplacement": "Kyle Pitts (74.3 C-AVI) steps into TE1, but losing Kittle creates a net loss in weekly starting lineup scoring.",
+          "competitiveWindowFit": "Ravens Regime is competing in 2026; future 2nd-round picks do not improve immediate playoff win odds.",
+          "positionalScarcity": "Elite TE production is extremely scarce in a 16-team league, requiring premium compensation."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 5,
+            "packageMatch": 5,
+            "lineupReplacement": 3,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 45,
+          "classification": "Unlikely",
+          "explanation": "While George Kittle is open for discussion, Ravens Regime will reject any offer that degrades their starting lineup during a Playoff Push. Mike Washington and a 2nd-round pick do not provide starting production."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The submitted offer is an extreme lowball that will be rejected immediately by a playoff-pushing opponent. To successfully acquire George Kittle and fortify your FLEX position for a championship run, you must revise the offer by including a starting WR like DJ Moore.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 77.9,
+              "davi": 82.5,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "George Kittle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 33,
+              "cavi": 89.8,
+              "davi": 83.3,
+              "publicMarket": 85,
+              "leagueMarket": 88
+            }
+          ],
+          "whyUserShouldDoIt": "Upgrades your starting FLEX spot from DJ Moore (77.9 C-AVI) to George Kittle (89.8 C-AVI), giving you two elite TEs (Warren & Kittle) in a 16-team full PPR league while keeping your elite WR duo (JSN & DeVonta Smith) intact.",
+          "whyOpponentMightAccept": "Provides Ravens Regime with an immediate starting WR2 upgrade in DJ Moore (77.9 C-AVI) to replace Carnell Tate (75.4 C-AVI) while shifting Kyle Pitts (74.3 C-AVI) into TE, maintaining their Playoff Push competitiveness and adding a 2027 2nd."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 77.9,
+              "davi": 77.1,
+              "publicMarket": 75,
+              "leagueMarket": 77
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "George Kittle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 33,
+              "cavi": 89.8,
+              "davi": 83.3,
+              "publicMarket": 85,
+              "leagueMarket": 88
+            }
+          ],
+          "rationale": "If Ravens Regime prefers running back help, David Montgomery provides an immediate RB2 upgrade over Kyle Monangai (73.3 C-AVI), maintaining their Playoff Push while sending draft capital."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "George Kittle injury update 2026",
+          "Mike Washington football player",
+          "Mike Washington NFL fantasy football 2026",
+          "George Kittle news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1GDfSyzo4jDqJdUT7dJXiLvLyQ5dMkX27bG6CpanvzYF1amgUnJ7zemDO2udXe6YAhNvrb73mCyb4QB5KtXmGVveJkPJy43MBG__vxvv18RmaCGMKeZymt4B1IfS_WYSSPB6OCwjcVfaZUlwXLnEm93qlQuCQmZ6ba137xZkkVv3G7AfBYF-U6PqkuOnLzQ==",
+            "title": "49ers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs5D5QZTjvSZCohvPLMs9Qn6ijn994KJOZfLvxIRufpUpXYlrEpYMZbaMqIdE7TrWmPVE784wmCIEO6exEUkAVPSVlH5ni4FbfvAEe56gKwDbe15jbKYzvDA6PNKPkF9eqdHhqRWZrTA==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEANHvGBO9qMcdTZf8tsS0kaE_qvOxxkKF35gErz8MFCeXaOpgU-XVVDX9pFPQFk09UGc5rwe35ue1R19EqeT9LtICBw2o4iv4wHmsgUnIREC0kbvk1oUyaMomBveNTzNnoFZ9w3erf-mPQ6kn4CaIUuK2EitvW0RPqAcVQpF0pNn2HDmeJzKlG",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8WCq4E-kZDsoh0-QNGIdvFypiG353D8LNGLIDW1ap1oTbxcDmDqvPTTYTJsUgeh_COccJ4J3MC44AoLiAqxpT0UmqHCTBW1g9YnQvhzqqu1he_b2DBVwQjDLOTDczDvxZdOFzRdPNIHYAnnTKXP6Lks-jZOCLu8e-QEIC-jmYqZBKDqYVeZC3t56lzjx96L0=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh2tHhfjptZf88shFtGsiIB97W-EuJRjudyuZsQHvMwZ6V3gaub4w07PsHUDpECOQj3ql5ZgA8Db-mxTVbBFCSQLOF_3zQRRFOhSgJhHrfNfcccJvngD4FfNx3ib1sBmKrX6ITjhqjnOhlScpsngQMy5RHH-BCHrlDIhEBb42J68k_dYsxU60-rbxjyJ6lLpObS-8Z8WrHHMnNmZKvqaMJrc3U",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSMer9BjVf5nsAWnSZiwa6odIsOQTsXRO-VWyse6Znbu3qnzTOk5eXpI-1ScamivnNQJxhuQQV8JFQFi0Mwb0h_d4cLH9pIMAuLr8dmv2CHWzSMFVtT0TKa0i_hCGE_vmcIJUOBP_Bee60qcNxUcYM3JiI7hE=",
+            "title": "raiders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKWzkCRxOm0U9wBAF6eNzY_Afl80g89oEgA9ioE_uSdzzj8Agif4uqo7lxT__t7LM3BNl0kRvKtyo1UWV62qjtgIm9aTR0VhRN1zyXTYnA-3_yKOVhIuW3a8fcqO50kY9Gh0UyGevUJYgddPBaFqWWYMNtsw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvSiEPZVa-7lIGtl8n0_Nxbz0W-R7dORq4AKQXJNrtHmh2JBGwejU4gvB7NfUeGOtoZxIzldnlklDkpvSqk1RJL3i_Afi7i-VOYSfe3SmbcfCOIgM-lt3rD7GU1ql8Jjia36fqiOZNvm9Ryrg_eJ3fpwUfYy0AGPbc9tT9asdgqocDPipfNz6_HAAJ6qnvM5xNJABREkbs0Iqc0FbyTOwRnGgm0T_lXw_N-s_WBmj42wl2sxulN1voNJysGKJTQDkvfG_mNdlj3Iv1J4sE",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGogkwE5opK59erWdZizoaok2Ujyv_zKK30_G-_75sm0AmZWhw1sRg46mUW6vDf6Y6xvA8WR5A8cCCjPG7PtNkv_BlDCKBx6aJTFpI2Zub668r32pf9K-hXCkrYBf4_Dtcw",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6IHVMEXaS6Eumj_6te8Gv5F32fxjijwhztkut5Yq0M6cDh51MQtW_RI17q4RU4O7A5Usu37OhNKLMTR3Bukr3HrrrqJ-VkiR6T1n3K6U5fTuVgqQLZvg3oGRbQqKOhTFh0A_6pYZzhG3pKjO-D5QPiXUrOC5A3xHtm5Md4jdHpS9TG4B5HswVxSPrnrsMG0wcojnOKrJ1CpMV",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b02a5e6ab4c54d682d503c857e642c2defc765e8",
+        "aviCoreCommittedAt": "2026-10-16T02:18:24Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88907,
+        "groundedMarketChars": 2943,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mvac1f2f-f47cfd72",
     "createdAt": 1792116795842,
     "expiresAt": 1792548795842,
