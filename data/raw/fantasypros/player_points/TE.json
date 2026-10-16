@@ -597,9 +597,9 @@
       }
     },
     {
-      "average": 1.7,
+      "average": 1.4,
       "filename": "eric-saubert.php",
-      "games": 5,
+      "games": 6,
       "player_id": 16706,
       "player_name": "Eric Saubert",
       "points": 8.3,
@@ -610,7 +610,8 @@
         "2": 0,
         "3": 8.3,
         "4": 0,
-        "5": 0
+        "5": 0,
+        "6": 0
       }
     },
     {
@@ -1507,9 +1508,9 @@
       }
     },
     {
-      "average": 1.4,
+      "average": 1.2,
       "filename": "brady-russell.php",
-      "games": 5,
+      "games": 6,
       "player_id": 25731,
       "player_name": "Brady Russell",
       "points": 7,
@@ -1520,7 +1521,8 @@
         "2": 0,
         "3": 3,
         "4": 0,
-        "5": 0
+        "5": 0,
+        "6": 0
       }
     },
     {
@@ -1654,12 +1656,12 @@
       }
     },
     {
-      "average": 5.6,
+      "average": 5.2,
       "filename": "evan-engram.php",
-      "games": 5,
+      "games": 6,
       "player_id": 16411,
       "player_name": "Evan Engram",
-      "points": 28.1,
+      "points": 31.400000000000002,
       "position_id": "TE",
       "team_id": "DEN",
       "weeks": {
@@ -1667,7 +1669,8 @@
         "2": 2.7,
         "3": 0,
         "4": 1.6,
-        "5": 9.5
+        "5": 9.5,
+        "6": 3.3
       }
     },
     {
@@ -1703,12 +1706,12 @@
       }
     },
     {
-      "average": 6.1,
+      "average": 5.8,
       "filename": "aj-barner.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26335,
       "player_name": "AJ Barner",
-      "points": 30.3,
+      "points": 34.9,
       "position_id": "TE",
       "team_id": "SEA",
       "weeks": {
@@ -1716,7 +1719,8 @@
         "2": 7.9,
         "3": 11.9,
         "4": 2.2,
-        "5": 5
+        "5": 5,
+        "6": 4.6
       }
     },
     {

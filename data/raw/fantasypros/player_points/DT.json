@@ -412,12 +412,12 @@
       }
     },
     {
-      "average": 8.4,
+      "average": 8.5,
       "filename": "leonard-williams.php",
-      "games": 5,
+      "games": 6,
       "player_id": 13892,
       "player_name": "Leonard Williams",
-      "points": 41.75,
+      "points": 51,
       "position_id": "DT",
       "team_id": "SEA",
       "weeks": {
@@ -425,7 +425,8 @@
         "2": 16.5,
         "3": 12.8,
         "4": 0,
-        "5": 0.8
+        "5": 0.8,
+        "6": 9.3
       }
     },
     {
@@ -774,19 +775,20 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.5,
       "filename": "saivion-jones.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27281,
       "player_name": "Sai'vion Jones",
-      "points": 0,
+      "points": 2.25,
       "position_id": "DT",
       "team_id": "DEN",
       "weeks": {
         "1": 0,
         "2": 0,
         "4": 0,
-        "5": 0
+        "5": 0,
+        "6": 2.3
       }
     },
     {
@@ -1234,12 +1236,12 @@
       }
     },
     {
-      "average": 3.9,
+      "average": 3.5,
       "filename": "eyioma-uwazurike.php",
-      "games": 5,
+      "games": 6,
       "player_id": 23838,
       "player_name": "Eyioma Uwazurike",
-      "points": 19.25,
+      "points": 20.75,
       "position_id": "DT",
       "team_id": "DEN",
       "weeks": {
@@ -1247,7 +1249,8 @@
         "2": 1.5,
         "3": 8,
         "4": 1.5,
-        "5": 5.3
+        "5": 5.3,
+        "6": 1.5
       }
     },
     {
@@ -1282,19 +1285,20 @@
       }
     },
     {
-      "average": 4.8,
+      "average": 4,
       "filename": "dondrea-tillman.php",
-      "games": 4,
+      "games": 5,
       "player_id": 26979,
       "player_name": "Dondrea Tillman",
-      "points": 19.25,
+      "points": 20,
       "position_id": "DT",
       "team_id": "DEN",
       "weeks": {
         "1": 10.8,
         "2": 0.8,
         "3": 0,
-        "5": 7.8
+        "5": 7.8,
+        "6": 0.8
       }
     },
     {
@@ -1930,12 +1934,12 @@
       }
     },
     {
-      "average": 7.1,
+      "average": 6.4,
       "filename": "malcolm-roach.php",
-      "games": 5,
+      "games": 6,
       "player_id": 19536,
       "player_name": "Malcolm Roach",
-      "points": 35.5,
+      "points": 38.25,
       "position_id": "DT",
       "team_id": "DEN",
       "weeks": {
@@ -1943,7 +1947,8 @@
         "2": 14.3,
         "3": 8.5,
         "4": 5.3,
-        "5": 3
+        "5": 3,
+        "6": 2.8
       }
     },
     {
@@ -2158,12 +2163,12 @@
       }
     },
     {
-      "average": 4.5,
+      "average": 4.7,
       "filename": "dj-jones.php",
-      "games": 5,
+      "games": 6,
       "player_id": 16724,
       "player_name": "D.J. Jones",
-      "points": 22.5,
+      "points": 28,
       "position_id": "DT",
       "team_id": "DEN",
       "weeks": {
@@ -2171,7 +2176,8 @@
         "2": 1.5,
         "3": 0.8,
         "4": 5.3,
-        "5": 14.3
+        "5": 14.3,
+        "6": 5.5
       }
     },
     {
@@ -2242,12 +2248,12 @@
       }
     },
     {
-      "average": 9.1,
+      "average": 8.1,
       "filename": "byron-murphy-ii.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26221,
       "player_name": "Byron Murphy II",
-      "points": 45.5,
+      "points": 48.5,
       "position_id": "DT",
       "team_id": "SEA",
       "weeks": {
@@ -2255,7 +2261,8 @@
         "2": 1.5,
         "3": 6.8,
         "4": 8,
-        "5": 23.8
+        "5": 23.8,
+        "6": 3
       }
     },
     {

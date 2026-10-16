@@ -3,58 +3,40 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Garrett Ball",
+      "author": "Nate Miller",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-15 23:33:14",
-      "created_formated": "Thu, Oct 15th 11:33pm UTC",
-      "desc": "Riley Moss (ribs) is active for the Broncos on Thursday night against the Seahawks.",
-      "id": 614121,
-      "impact": "Moss was initially questionable for the contest, but he will play and reinforce the Broncos secondary. He will try to step up in Pat Surtain's absence, but gets a tough assignment in JSN and company.",
-      "link": "https://www.fantasypros.com/nfl/news/614121/riley-moss-ribs-active-on-thursday-night.php",
-      "player_id": 25459,
+      "created": "2026-10-16 15:22:51",
+      "created_formated": "Fri, Oct 16th 3:22pm UTC",
+      "desc": "Joe Milton III signed with the Eagles on Friday. ",
+      "id": 614231,
+      "impact": "Milton has been on the Cowboys' practice squad all season to this point. The sixth-round draft pick from 2024 appeared in four games for the Cowboys last season, completing 15 of 24 passes for 183 yards with one touchdown and two interceptions. Milton brings some dual-threat potential, as he also rushed for 50 yards on five carries last season. With Jalen Hurts' health status completely up in the air due to a blood clot in his calf, the Eagles now have a QB trio consisting of Milton along with Sunday's presumed starter Tanner McKee and rookie Cole Payton. ",
+      "link": "https://www.fantasypros.com/nfl/news/614231/joe-milton-iii-signs-with-eagles.php",
+      "player_id": 25967,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Riley Moss (ribs) active on Thursday night"
+      "team_id": "DAL",
+      "title": "Joe Milton III signs with Eagles "
     },
     {
-      "author": "Garrett Ball",
+      "author": "Nate Miller",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Injury",
+        "Breaking"
       ],
-      "created": "2026-10-15 23:16:06",
-      "created_formated": "Thu, Oct 15th 11:16pm UTC",
-      "desc": "George Holani is active for Seattle's Thursday Night Football game against the Broncos.",
-      "id": 614120,
-      "impact": "Holani was able to get back from a rib injury after missing the past several weeks. He will split the backfield workload with Emanuel Wilson, but Wilson is the better fantasy option, with Holani being primarily a third down back with little upside.",
-      "link": "https://www.fantasypros.com/nfl/news/614120/george-holani-active-thursday-night-football.php",
-      "player_id": 22915,
+      "created": "2026-10-16 15:06:28",
+      "created_formated": "Fri, Oct 16th 3:06pm UTC",
+      "desc": "Omar Cooper Jr. (ankle) will return for the Jets on Sunday against the Patriots. ",
+      "id": 614230,
+      "impact": "Cooper has not played since he was knocked out of the Jets' season opener with a sprained ankle. The first-round rookie has returned to limited practice sessions this week, and it was announced Friday morning that he's ready for in-game action. With Adonai Mitchell (finger) remaining out this week, Cooper should slot right in behind Garrett Wilson at wide receiver for the Jets. However, there is certainly a chance that Cooper is eased back into the mix as far as total snaps go. ",
+      "link": "https://www.fantasypros.com/nfl/news/614230/omar-cooper-jr-ankle-to-return-week-6.php",
+      "player_id": 28127,
       "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "George Holani active for Thursday Night Football"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-14 22:27:56",
-      "created_formated": "Wed, Oct 14th 10:27pm UTC",
-      "desc": "Pat Surtain II (ankle) has been ruled out for the Broncos contest against the Seahawks on Thursday due to an ankle injury.",
-      "id": 613909,
-      "impact": "Surtain will miss yet another game, but with the Bronco's having a mini bye week, hopefully he can return for Week 7. Denver will have to make it work without him.",
-      "link": "https://www.fantasypros.com/nfl/news/613909/pat-surtain-ii-ankle-out-thursday-night-against-seattle.php",
-      "player_id": 23609,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Pat Surtain II (ankle) out for Thursday night against Seattle"
+      "team_id": "NYJ",
+      "title": "Omar Cooper Jr. (ankle) to return in Week 6"
     },
     {
       "author": "Nate Miller",
@@ -63,16 +45,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 21:57:56",
-      "created_formated": "Thu, Oct 15th 9:57pm UTC",
-      "desc": "Tank Dell (knee) will not play in Sunday's matchup against the Jaguars. ",
-      "id": 614119,
-      "impact": "There was some thought that Dell would finally make his long-awaited return for the Texans on Sunday. Instead, even after practicing in full on Wednesday, he will remain behind as the team travels to London. Dell seems likely to play in Week 7 against the Giants. ",
-      "link": "https://www.fantasypros.com/nfl/news/614119/tank-dell-knee-will-not-return-week-6.php",
-      "player_id": 25361,
+      "created": "2026-10-16 14:54:53",
+      "created_formated": "Fri, Oct 16th 2:54pm UTC",
+      "desc": "Adonai Mitchell (finger) has been ruled out for Sunday's game against the Patriots. ",
+      "id": 614228,
+      "impact": "Mitchell will miss his fourth consecutive game this week. Rookie first-rounder Omar Cooper Jr. (ankle), veteran Tim Patrick, and Isaiah Williams should slot in behind Garrett Wilson in the WR pecking order for the Jets on Sunday. ",
+      "link": "https://www.fantasypros.com/nfl/news/614228/adonai-mitchell-finger-out-week-6.php",
+      "player_id": 24357,
       "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Tank Dell (knee) will not return in Week 6"
+      "team_id": "NYJ",
+      "title": "Adonai Mitchell (finger) out for Week 6"
     },
     {
       "author": "Nate Miller",
@@ -81,16 +63,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 21:55:03",
-      "created_formated": "Thu, Oct 15th 9:55pm UTC",
-      "desc": "David Montgomery (groin) will not play against the Jaguars on Sunday. ",
-      "id": 614118,
-      "impact": "As expected, Montgomery will not play in Sunday's divisional matchup in London. The veteran back has not practiced this week due to a groin injury and will cede the lead RB role to Woody Marks.",
-      "link": "https://www.fantasypros.com/nfl/news/614118/david-montgomery-groin-out-week-6.php",
-      "player_id": 18239,
+      "created": "2026-10-16 14:57:20",
+      "created_formated": "Fri, Oct 16th 2:57pm UTC",
+      "desc": "Breece Hall (quad) will not play in Sunday's game against the Patriots. ",
+      "id": 614229,
+      "impact": "Hall will miss a third straight game due to a quad injury. Braelon Allen will shoulder the load out of the Jets' backfield once again in Week 6. ",
+      "link": "https://www.fantasypros.com/nfl/news/614229/breece-hall-quad-officially-ruled-out-week-6.php",
+      "player_id": 22982,
       "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "David Montgomery (groin) out for Week 6"
+      "team_id": "NYJ",
+      "title": "Breece Hall (quad) officially ruled out for Week 6 "
     },
     {
       "author": "Nate Miller",
@@ -99,52 +81,34 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 21:52:37",
-      "created_formated": "Thu, Oct 15th 9:52pm UTC",
-      "desc": "Jalen Pitre (shoulder) will not play in Sunday's game against the Jaguars. ",
-      "id": 614117,
-      "impact": "Pitre will remain behind as the Texans travel to London to face the division-rival Jaguars. Kamari Ramsey is likely to see an uptick in snaps. ",
-      "link": "https://www.fantasypros.com/nfl/news/614117/jalen-pitre-shoulder-to-miss-week-6.php",
-      "player_id": 23721,
+      "created": "2026-10-16 14:49:59",
+      "created_formated": "Fri, Oct 16th 2:49pm UTC",
+      "desc": "Kenyon Sadiq (concussion) practices in full Friday. ",
+      "id": 614227,
+      "impact": "Sadiq looks to be finishing up his time in the league's concussion protocol on Friday. The rookie tight end is expected to play Sunday against the Patriots. ",
+      "link": "https://www.fantasypros.com/nfl/news/614227/kenyon-sadiq-concussion-looks-good-to-go-week-6.php",
+      "player_id": 26055,
       "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Jalen Pitre (shoulder) to miss Week 6"
+      "team_id": "NYJ",
+      "title": "Kenyon Sadiq (concussion) looks good to go for Week 6"
     },
     {
-      "author": "Leo Sells",
+      "author": "Nate Miller",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 21:14:59",
-      "created_formated": "Thu, Oct 15th 9:14pm UTC",
-      "desc": "Rico Dowdle (toe) was upgraded to a full participant at practice on Thursday.",
-      "id": 614116,
-      "impact": "The veteran running back was able to practice in a full capacity on Thursday after being limited by a toe injury on Wednesday. He should be available to play in Week 6 and will likely be an involved RB2 for the Steelers behind Jaylen Warren moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/614116/rico-dowdle-toe-upgraded-to-full-participant-thursday.php",
-      "player_id": 19647,
+      "created": "2026-10-16 13:47:40",
+      "created_formated": "Fri, Oct 16th 1:47pm UTC",
+      "desc": "A.J. Brown (ankle) is trending toward playing on Sunday against the Jets. ",
+      "id": 614226,
+      "impact": "Brown has gotten in limited practice sessions each of the last two days. He has not played since being knocked out of the season opener due to a high-ankle sprain.  ",
+      "link": "https://www.fantasypros.com/nfl/news/614226/aj-brown-ankle-trending-toward-playing-week-6.php",
+      "player_id": 18218,
       "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Rico Dowdle (toe) upgraded to full participant Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-15 21:13:13",
-      "created_formated": "Thu, Oct 15th 9:13pm UTC",
-      "desc": "Jalen Ramsey (wrist) returned to practice as a limited participant on Thursday.",
-      "id": 614115,
-      "impact": "Ramsey has been playing through a wrist injury for a while, so it was no surprise to see him sidelined at Pittsburgh's first practice of the week on Wednesday. He made his return to practice on Thursday and should be good to go for Week 6, barring setbacks.",
-      "link": "https://www.fantasypros.com/nfl/news/614115/jalen-ramsey-wrist-returns-to-practice-thursday.php",
-      "player_id": 15491,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Jalen Ramsey (wrist) returns to practice Thursday"
+      "team_id": "NE",
+      "title": "A.J. Brown (ankle) trending toward playing in Week 6"
     },
     {
       "author": "Nate Miller",
@@ -152,70 +116,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-10-15 21:12:31",
-      "created_formated": "Thu, Oct 15th 9:12pm UTC",
-      "desc": "DeAndre Carter has signed to join the Lions' practice squad. ",
-      "id": 614114,
-      "impact": "Carter has yet to play this season after he was released by the Browns in late August. The veteran appeared in four games for the Browns last season, returning six punts and 11 kickoffs while playing solely on special teams. ",
-      "link": "https://www.fantasypros.com/nfl/news/614114/deandre-carter-signs-with-lions.php",
-      "player_id": 14103,
+      "created": "2026-10-16 13:41:30",
+      "created_formated": "Fri, Oct 16th 1:41pm UTC",
+      "desc": "Darius Slayton was released by the Colts on Friday. ",
+      "id": 614225,
+      "impact": "After being released by the Giants just before the season began, Slayton signed with the Colts in late September. The veteran receiver never got into a game for the Colts and has now been cut loose again. Slayton will now try to find another new team.",
+      "link": "https://www.fantasypros.com/nfl/news/614225/darius-slayton-released-by-colts.php",
+      "player_id": 18706,
       "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "DeAndre Carter signs with Lions"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-15 21:11:16",
-      "created_formated": "Thu, Oct 15th 9:11pm UTC",
-      "desc": "David Sills V (hamstring) practiced in a full capacity on Thursday.",
-      "id": 614113,
-      "impact": "Sills recently had his 21-day practice window opened and has been a full participant at practice all week so far. Fantasy managers shouldn't expect him to be a relevant fantasy option moving forward, however, even when he's back to full health.",
-      "link": "https://www.fantasypros.com/nfl/news/614113/david-sills-v-hamstring-practices-full-thursday.php",
-      "player_id": 18566,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "David Sills V (hamstring) practices in full Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-15 21:09:50",
-      "created_formated": "Thu, Oct 15th 9:09pm UTC",
-      "desc": "Tristan Wirfs (knee) logged another full practice session on Thursday.",
-      "id": 614112,
-      "impact": "Wirfs has been a full participant at practice all week so far, so it looks like he's going to be available to play in Week 6. His expected presence is great news for Tampa Bay's offense as they prepare for a tough matchup against the Steelers this week.",
-      "link": "https://www.fantasypros.com/nfl/news/614112/tristan-wirfs-knee-logs-full-practice-thursday.php",
-      "player_id": 19208,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Tristan Wirfs (knee) logs full practice Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-15 21:07:42",
-      "created_formated": "Thu, Oct 15th 9:07pm UTC",
-      "desc": "Sean Tucker (quad) was officially limited at practice on Thursday.",
-      "id": 614111,
-      "impact": "Tucker was able to return to practice in a limited fashion on Thursday after being sidelined by a quad injury on Wednesday. This is a good sign that he will play in Week 6, but we won't know his official status until after practice on Friday.",
-      "link": "https://www.fantasypros.com/nfl/news/614111/sean-tucker-quad-officially-limited-thursday.php",
-      "player_id": 23679,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Sean Tucker (quad) officially limited Thursday"
+      "team_id": "IND",
+      "title": "Darius Slayton released by Colts"
     },
     {
       "author": "Nate Miller",
@@ -224,16 +134,173 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 21:06:13",
-      "created_formated": "Thu, Oct 15th 9:06pm UTC",
-      "desc": "Rashee Rice (hamstring) did not practice on Thursday. ",
-      "id": 614110,
-      "impact": "Rice has missed practice each of the past two days due to a hamstring issue. Rice sustained the injury in Week 4, and his status for Sunday's game certainly seems in question. Jalen Royals stands to see an uptick in snaps if Rice sits. ",
-      "link": "https://www.fantasypros.com/nfl/news/614110/rashee-rice-hamstring-sits-out-thursdays-practice.php",
-      "player_id": 23113,
+      "created": "2026-10-16 13:37:27",
+      "created_formated": "Fri, Oct 16th 1:37pm UTC",
+      "desc": "Eric Murray (concussion) is trending toward being active for Sunday's game against the Texans. ",
+      "id": 614224,
+      "impact": "Head coach Liam Coen said Friday morning that he feels \"more confident\" about Murray being able to play in Week 6. Murray missed Week 5's win against the Eagles. If he cannot go Sunday, Rayuan Lane would be in line to start again. ",
+      "link": "https://www.fantasypros.com/nfl/news/614224/eric-murray-concussion-trending-toward-playing-sunday.php",
+      "player_id": 15653,
       "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Rashee Rice (hamstring) sits out Thursday's practice"
+      "team_id": "JAC",
+      "title": "Eric Murray (concussion) trending toward playing Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-16 06:16:00",
+      "created_formated": "Fri, Oct 16th 6:16am UTC",
+      "desc": "The Texans opened the practice window of Henry To'oTo'o. ",
+      "id": 614205,
+      "impact": "To'oTo'o will have 21 days to officially be activated by Houston. ",
+      "link": "https://www.fantasypros.com/nfl/news/614205/henry-tootoo-shoulder-has-practice-window-opened.php",
+      "player_id": 23766,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Henry To'oTo'o (shoulder) has practice window opened "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-16 06:14:51",
+      "created_formated": "Fri, Oct 16th 6:14am UTC",
+      "desc": "The Giants signed OL Josh Gesky to the practice squad.",
+      "id": 614204,
+      "impact": "Gesky will add depth on the offensive line for the Giants. ",
+      "link": "https://www.fantasypros.com/nfl/news/614204/josh-gesky-signs-with-giants.php",
+      "player_id": 28641,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Josh Gesky signs with Giants "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-16 06:13:53",
+      "created_formated": "Fri, Oct 16th 6:13am UTC",
+      "desc": "The Cardinals promoted TE Shawn Bowman to their 53-man roster. ",
+      "id": 614203,
+      "impact": "Bowman will add depth in the tight end room for Arizona. ",
+      "link": "https://www.fantasypros.com/nfl/news/614203/shawn-bowman-promoted-to-53-man-roster.php",
+      "player_id": 26785,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Shawn Bowman promoted to 53-man roster "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-16 06:13:03",
+      "created_formated": "Fri, Oct 16th 6:13am UTC",
+      "desc": "The Cardinals opened the practice window of Kitan Crawford. ",
+      "id": 614202,
+      "impact": "Crawford will have 21 days to officially be activated. ",
+      "link": "https://www.fantasypros.com/nfl/news/614202/kitan-crawford-ankle-has-practice-window-opened.php",
+      "player_id": 27474,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Kitan Crawford (ankle) has practice window opened"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-16 06:12:04",
+      "created_formated": "Fri, Oct 16th 6:12am UTC",
+      "desc": "The Seahawks moved WR Irvin Charles to their practice squad. ",
+      "id": 614201,
+      "impact": "Charles was activated from injured reserve this week. ",
+      "link": "https://www.fantasypros.com/nfl/news/614201/irvin-charles-moved-to-seahawks-practice-squad.php",
+      "player_id": 24904,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Irvin Charles moved to Seahawks practice squad "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-16 06:10:56",
+      "created_formated": "Fri, Oct 16th 6:10am UTC",
+      "desc": "The Seahawks signed RB Velus Jones Jr. to their 53-man roster. ",
+      "id": 614200,
+      "impact": "Jones will add depth in the backfield for Seattle. ",
+      "link": "https://www.fantasypros.com/nfl/news/614200/velus-jones-jr-signs-with-seahawks-53-man-roster.php",
+      "player_id": 24214,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Velus Jones Jr. signs with Seahawks 53-man roster "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-16 06:09:45",
+      "created_formated": "Fri, Oct 16th 6:09am UTC",
+      "desc": "The NFL has reduced Rams LT Alaric Jackson's two-game suspension to one game. ",
+      "id": 614199,
+      "impact": "Jackson will only miss Sunday's game against the Cardinals. ",
+      "link": "https://www.fantasypros.com/nfl/news/614199/alaric-jackson-has-suspension-reduced-to-one-game.php",
+      "player_id": 19284,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Alaric Jackson has suspension reduced to one game"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-16 06:08:44",
+      "created_formated": "Fri, Oct 16th 6:08am UTC",
+      "desc": "49ers head coach Kyle Shanahan said Demarcus Robinson will not return before the bye in Week 8. ",
+      "id": 614198,
+      "impact": "Robinson remains off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/614198/demarcus-robinson-ankle-will-not-return-before-bye-week.php",
+      "player_id": 15665,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Demarcus Robinson (ankle) will not return before bye week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-16 06:04:07",
+      "created_formated": "Fri, Oct 16th 6:04am UTC",
+      "desc": "49ers head coach Kyle Shanahan said Deebo Samuel would be an IR consideration but they're going to hold off because of the bye in Week 8.",
+      "id": 614197,
+      "impact": "Samuel will likely remain sidelined through the bye week for San Francisco. He is week-to-week. ",
+      "link": "https://www.fantasypros.com/nfl/news/614197/deebo-samuel-sr-hamstring-expected-to-avoid-ir.php",
+      "player_id": 18244,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Deebo Samuel Sr. (hamstring) expected to avoid IR"
     },
     {
       "author": "Leo Sells",
@@ -242,16 +309,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 21:01:23",
-      "created_formated": "Thu, Oct 15th 9:01pm UTC",
-      "desc": "Tyjae Spears (knee) was downgraded to a non-participant at practice on Thursday.",
-      "id": 614109,
-      "impact": "Spears was limited at Wednesday's practice due to a knee issue, but he was downgraded to a non-participant on Thursday. It's still unclear if this was simply a load management move on the part of the team or if this is a real issue for him, so fantasy managers should keep close tabs on his status heading into the weekend and expect more work for Tony Pollard if Spears is ruled out for Week 6.",
-      "link": "https://www.fantasypros.com/nfl/news/614109/tyjae-spears-knee-downgraded-to-non-participant-thursday.php",
-      "player_id": 25323,
+      "created": "2026-10-16 04:52:51",
+      "created_formated": "Fri, Oct 16th 4:52am UTC",
+      "desc": "Brenen Thompson (quad) was limited at practice again on Thursday.",
+      "id": 614196,
+      "impact": "To no surprise, Thompson was again limited on Thursday as he continues to manage a quad injury. If he plays in Week 6, he may see more opportunities than usual with Ladd McConkey (foot) and Quentin Johnston (chest) uncertain to play against the Chiefs.",
+      "link": "https://www.fantasypros.com/nfl/news/614196/brenen-thompson-quad-limited-again-thursday.php",
+      "player_id": 28133,
       "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tyjae Spears (knee) downgraded to non-participant Thursday"
+      "team_id": "LAC",
+      "title": "Brenen Thompson (quad) limited again Thursday"
     },
     {
       "author": "Leo Sells",
@@ -260,16 +327,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 20:58:58",
-      "created_formated": "Thu, Oct 15th 8:58pm UTC",
-      "desc": "Tony Pollard (rest) returned to practice as a full participant on Thursday.",
-      "id": 614108,
-      "impact": "Pollard was given the day off on Wednesday as a veteran rest day, and he was able to make his return to practice as a full participant on Thursday. He should be good to go for Week 6 and will be primed for more work than usual if Tyjae Spears (knee) is limited or sidelined against the Colts on Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/614108/tony-pollard-rest-returns-to-practice-thursday.php",
-      "player_id": 18705,
+      "created": "2026-10-16 04:51:38",
+      "created_formated": "Fri, Oct 16th 4:51am UTC",
+      "desc": "Marquez Valdes-Scantling (rib) was upgraded to a full participant at practice on Thursday.",
+      "id": 614195,
+      "impact": "The veteran was upgraded to a full participant at practice on Thursday after being limited on Wednesday due to a rib injury. He should play in Week 6 and will see more work than usual with the high number of injuries that Los Angeles is dealing with to their wideouts right now.",
+      "link": "https://www.fantasypros.com/nfl/news/614195/marquez-valdes-scantling-rib-upgraded-to-full-participant-thursday.php",
+      "player_id": 17528,
       "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tony Pollard (rest) returns to practice Thursday"
+      "team_id": "LAC",
+      "title": "Marquez Valdes-Scantling (rib) upgraded to full participant Thursday"
     },
     {
       "author": "Leo Sells",
@@ -278,16 +345,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 20:57:12",
-      "created_formated": "Thu, Oct 15th 8:57pm UTC",
-      "desc": "Amani Hooker (concussion) was upgraded to a full participant at practice on Thursday.",
-      "id": 614107,
-      "impact": "Hooker was upgraded to a full participant at practice on Thursday after being limited on Wednesday, so it looks like he is very close to fully clearing the NFL's concussion protocols. He should be available to play in Week 6, which is good news for Tennessee's secondary ahead of a matchup against the Colts.",
-      "link": "https://www.fantasypros.com/nfl/news/614107/amani-hooker-concussion-upgraded-to-full-participant-thursday.php",
-      "player_id": 18589,
+      "created": "2026-10-16 04:50:04",
+      "created_formated": "Fri, Oct 16th 4:50am UTC",
+      "desc": "KeAndre Lambert-Smith (hamstring) was limited at practice on Thursday.",
+      "id": 614194,
+      "impact": "Lambert-Smith continues to work his way back from a hamstring injury and was limited at practice again on Thursday. He remains off of the fantasy radar moving forward, however.",
+      "link": "https://www.fantasypros.com/nfl/news/614194/keandre-lambert-smith-hamstring-limited-thursday.php",
+      "player_id": 24372,
       "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Amani Hooker (concussion) upgraded to full participant Thursday"
+      "team_id": "LAC",
+      "title": "KeAndre Lambert-Smith (hamstring) limited Thursday"
     },
     {
       "author": "Leo Sells",
@@ -296,16 +363,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 20:55:36",
-      "created_formated": "Thu, Oct 15th 8:55pm UTC",
-      "desc": "David Martin-Robinson (hamstring) was limited for another practice on Thursday.",
-      "id": 614106,
-      "impact": "Martin-Robinson's hamstring injury left him limited for another practice on Thursday. It seems likely that he will play through it in Week 6, but we won't know for sure until after practice on Friday.",
-      "link": "https://www.fantasypros.com/nfl/news/614106/david-martin-robinson-hamstring-limited-again-thursday.php",
-      "player_id": 26922,
+      "created": "2026-10-16 04:48:59",
+      "created_formated": "Fri, Oct 16th 4:48am UTC",
+      "desc": "Charlie Kolar (arm) practiced in a full capacity on Thursday.",
+      "id": 614193,
+      "impact": "The veteran tight end practiced in a full capacity for a second-straight day on Thursday, indicating that he's nearly fully healthy at this point. He should play in Week 6 but doesn't project to be fantasy relevant moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/614193/charlie-kolar-arm-practices-full-thursday.php",
+      "player_id": 22756,
       "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "David Martin-Robinson (hamstring) limited again Thursday"
+      "team_id": "LAC",
+      "title": "Charlie Kolar (arm) practices in full Thursday"
     },
     {
       "author": "Leo Sells",
@@ -314,16 +381,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 20:53:24",
-      "created_formated": "Thu, Oct 15th 8:53pm UTC",
-      "desc": "Dylan Parham (knee) was a non-participant at practice again on Thursday.",
-      "id": 614105,
-      "impact": "Parham wasn't able to practice again on Thursday, which comes as no surprise, as he is still dealing with his knee injury. He seems likely to be sidelined in Week 6, which is less than ideal for New York's offense ahead of a matchup against the Patriots' defense.",
-      "link": "https://www.fantasypros.com/nfl/news/614105/dylan-parham-knee-non-participant-thursday.php",
-      "player_id": 23775,
+      "created": "2026-10-16 04:47:49",
+      "created_formated": "Fri, Oct 16th 4:47am UTC",
+      "desc": "Derwin James Jr. (hamstring) was absent from another practice session on Thursday.",
+      "id": 614192,
+      "impact": "James wasn't able to practice on Thursday, making it unlikely that he will suit up and play in Week 6. Los Angeles' secondary will be significantly weaker if he's ruled out for this matchup against the Chiefs.",
+      "link": "https://www.fantasypros.com/nfl/news/614192/derwin-james-jr-hamstring-absent-from-practice-thursday.php",
+      "player_id": 17310,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Dylan Parham (knee) a non-participant Thursday"
+      "team_id": "LAC",
+      "title": "Derwin James Jr. (hamstring) absent from practice Thursday"
     },
     {
       "author": "Leo Sells",
@@ -332,16 +399,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 20:50:59",
-      "created_formated": "Thu, Oct 15th 8:50pm UTC",
-      "desc": "Kenyon Sadiq (concussion) was limited at practice again on Thursday.",
-      "id": 614104,
-      "impact": "The rookie is at risk of being sidelined on Sunday. He's still going through the NFL's concussion protocols and remained limited for another practice on Thursday as a result. If he's unable to play, look for Mason Taylor to again serve as New York's top tight end in his absence.",
-      "link": "https://www.fantasypros.com/nfl/news/614104/kenyon-sadiq-concussion-limited-again-thursday.php",
-      "player_id": 26055,
+      "created": "2026-10-16 04:46:24",
+      "created_formated": "Fri, Oct 16th 4:46am UTC",
+      "desc": "Quentin Johnston (chest) was listed as a limited participant at practice on Thursday.",
+      "id": 614191,
+      "impact": "Johnston's chest injury continues to linger and left him limited for another practice session on Thursday. Fantasy managers shouldn't expect much production out of him this week, even if he's cleared to play heading into the weekend.",
+      "link": "https://www.fantasypros.com/nfl/news/614191/quentin-johnston-chest-listed-limited-thursday.php",
+      "player_id": 23123,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Kenyon Sadiq (concussion) limited again Thursday"
+      "team_id": "LAC",
+      "title": "Quentin Johnston (chest) listed as limited Thursday"
     },
     {
       "author": "Leo Sells",
@@ -350,16 +417,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 20:49:15",
-      "created_formated": "Thu, Oct 15th 8:49pm UTC",
-      "desc": "Omar Cooper Jr. (ankle) logged a limited practice session on Thursday.",
-      "id": 614103,
-      "impact": "The rookie was able to participate in Thursday's practice in a limited fashion. He is drawing close to a return from the ankle injury that left him on injured reserve, but it's still unclear whether or not his return will come in time for Sunday's divisional matchup against the Patriots.",
-      "link": "https://www.fantasypros.com/nfl/news/614103/omar-cooper-jr-ankle-logs-limited-practice-thursday.php",
-      "player_id": 28127,
+      "created": "2026-10-16 04:44:59",
+      "created_formated": "Fri, Oct 16th 4:44am UTC",
+      "desc": "Tre' Harris (hamstring) missed Los Angeles' practice on Thursday.",
+      "id": 614190,
+      "impact": "Harris wasn't able to practice on Thursday due to a hamstring injury, which left him sidelined on Wednesday as well. It looks like he's trending towards being sidelined in Week 6, which is bad news for the Chargers with Ladd McConkey (foot) also uncertain to play.",
+      "link": "https://www.fantasypros.com/nfl/news/614190/tre-harris-hamstring-misses-practice-thursday.php",
+      "player_id": 26215,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Omar Cooper Jr. (ankle) logs limited practice Thursday"
+      "team_id": "LAC",
+      "title": "Tre' Harris (hamstring) misses practice Thursday"
     },
     {
       "author": "Leo Sells",
@@ -368,88 +435,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-15 20:48:00",
-      "created_formated": "Thu, Oct 15th 8:48pm UTC",
-      "desc": "Joseph Ossai (ankle) missed another practice session on Thursday.",
-      "id": 614102,
-      "impact": "Ossai missed another practice session on Thursday due to the ankle injury that he's recovering from. He may very well be sidelined in Week 6, which would leave New York's defensive front weaker than usual ahead of a big divisional matchup against the Patriots.",
-      "link": "https://www.fantasypros.com/nfl/news/614102/joseph-ossai-ankle-misses-another-practice-thursday.php",
-      "player_id": 22696,
+      "created": "2026-10-16 04:43:48",
+      "created_formated": "Fri, Oct 16th 4:43am UTC",
+      "desc": "Ladd McConkey (foot) was limited at practice again on Thursday.",
+      "id": 614189,
+      "impact": "McConkey was limited for another practice on Thursday, which comes as no surprise, considering that he is uncertain to play in Week 6 due to his foot issue. Friday's injury report should tell us much more about his official injury status heading into the weekend.",
+      "link": "https://www.fantasypros.com/nfl/news/614189/ladd-mcconkey-foot-limited-again-thursday.php",
+      "player_id": 26122,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Joseph Ossai (ankle) misses another practice Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-15 20:46:39",
-      "created_formated": "Thu, Oct 15th 8:46pm UTC",
-      "desc": "Adonai Mitchell (finger) did not take part in New York's practice on Thursday.",
-      "id": 614101,
-      "impact": "Mitchell was again a non-participant at practice on Thursday as he continues to recover from a finger injury. He will almost certainly be sidelined again in Week 6, but the potential return of rookie \tOmar Cooper Jr. (ankle) could help to offset the effects of Mitchell's likely absence.",
-      "link": "https://www.fantasypros.com/nfl/news/614101/adonai-mitchell-finger-doesnt-practice-thursday.php",
-      "player_id": 24357,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Adonai Mitchell (finger) doesn't practice Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-15 20:44:57",
-      "created_formated": "Thu, Oct 15th 8:44pm UTC",
-      "desc": "Breece Hall (quad) was officially a non-participant at practice again on Thursday.",
-      "id": 614100,
-      "impact": "Hall was seen working with trainers off to the side at practice on Thursday, but he wasn't able to take part in any official drills and ended up being a non-participant. Fantasy managers should expect him to be sidelined for at least one more game, which will lead to more work for Braelon Allen against the Patriots.",
-      "link": "https://www.fantasypros.com/nfl/news/614100/breece-hall-quad-officially-non-participant-thursday.php",
-      "player_id": 22982,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Breece Hall (quad) officially a non-participant Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-15 20:43:06",
-      "created_formated": "Thu, Oct 15th 8:43pm UTC",
-      "desc": "Christian Gonzalez (shoulder) was upgraded to a full participant at practice on Thursday.",
-      "id": 614099,
-      "impact": "New England's star cornerback seems likely to play in Week 6. He was upgraded to a full participant on Thursday after being limited by a shoulder issue on Wednesday, and he told reporters earlier in the week that he will be good to play. New England's defense will greatly benefit from the likely return of their star cornerback in a divisional matchup against the Jets this week.",
-      "link": "https://www.fantasypros.com/nfl/news/614099/christian-gonzalez-shoulder-upgraded-to-full-participant-thursday.php",
-      "player_id": 25238,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Christian Gonzalez (shoulder) upgraded to full participant Thursday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-15 20:41:31",
-      "created_formated": "Thu, Oct 15th 8:41pm UTC",
-      "desc": "Carlton Davis III (neck) was a non-participant at practice on Thursday.",
-      "id": 614098,
-      "impact": "The veteran cornerback wasn't able to practice again on Thursday, as he is still dealing with a neck injury that left him sidelined last week. He seems likely to be sidelined again in Week 6, but we won't know for sure for at least another day.",
-      "link": "https://www.fantasypros.com/nfl/news/614098/carlton-davis-iii-neck-non-participant-thursday.php",
-      "player_id": 17318,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Carlton Davis III (neck) a non-participant Thursday"
+      "team_id": "LAC",
+      "title": "Ladd McConkey (foot) limited again Thursday"
     }
   ],
   "public_api": true,

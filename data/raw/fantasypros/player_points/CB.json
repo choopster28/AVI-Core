@@ -114,12 +114,12 @@
       }
     },
     {
-      "average": 5.8,
+      "average": 5,
       "filename": "nehemiah-pritchett.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26322,
       "player_name": "Nehemiah Pritchett",
-      "points": 28.75,
+      "points": 30.25,
       "position_id": "CB",
       "team_id": "SEA",
       "weeks": {
@@ -127,7 +127,8 @@
         "2": 0.8,
         "3": 2.3,
         "4": 3,
-        "5": 6.5
+        "5": 6.5,
+        "6": 1.5
       }
     },
     {
@@ -788,12 +789,12 @@
       }
     },
     {
-      "average": 8,
+      "average": 7.5,
       "filename": "josh-jobe.php",
-      "games": 5,
+      "games": 6,
       "player_id": 22720,
       "player_name": "Josh Jobe",
-      "points": 40,
+      "points": 45.25,
       "position_id": "CB",
       "team_id": "SEA",
       "weeks": {
@@ -801,7 +802,8 @@
         "2": 1.5,
         "3": 7.5,
         "4": 3.8,
-        "5": 10
+        "5": 10,
+        "6": 5.3
       }
     },
     {
@@ -936,12 +938,12 @@
       }
     },
     {
-      "average": 4.6,
+      "average": 7.5,
       "filename": "jaquan-mcmillian.php",
-      "games": 5,
+      "games": 6,
       "player_id": 24819,
       "player_name": "Ja'Quan McMillian",
-      "points": 23,
+      "points": 45,
       "position_id": "CB",
       "team_id": "DEN",
       "weeks": {
@@ -949,7 +951,8 @@
         "2": 6.8,
         "3": 0,
         "4": 0.8,
-        "5": 12.5
+        "5": 12.5,
+        "6": 22
       }
     },
     {
@@ -1193,12 +1196,12 @@
       }
     },
     {
-      "average": 4.3,
+      "average": 5.2,
       "filename": "jahdae-barron.php",
-      "games": 5,
+      "games": 6,
       "player_id": 27063,
       "player_name": "Jahdae Barron",
-      "points": 21.25,
+      "points": 31,
       "position_id": "CB",
       "team_id": "DEN",
       "weeks": {
@@ -1206,7 +1209,8 @@
         "2": 0,
         "3": 4,
         "4": 4.5,
-        "5": 8.3
+        "5": 8.3,
+        "6": 9.8
       }
     },
     {
@@ -1503,19 +1507,20 @@
       }
     },
     {
-      "average": 8,
+      "average": 6.7,
       "filename": "riley-moss.php",
-      "games": 4,
+      "games": 5,
       "player_id": 25459,
       "player_name": "Riley Moss",
-      "points": 32,
+      "points": 33.5,
       "position_id": "CB",
       "team_id": "DEN",
       "weeks": {
         "1": 9,
         "2": 12.5,
         "3": 8.3,
-        "4": 2.3
+        "4": 2.3,
+        "6": 1.5
       }
     },
     {
@@ -2558,12 +2563,12 @@
       }
     },
     {
-      "average": 2.6,
+      "average": 4.9,
       "filename": "kris-abrams-draine.php",
-      "games": 5,
+      "games": 6,
       "player_id": 24744,
       "player_name": "Kris Abrams-Draine",
-      "points": 13,
+      "points": 29.25,
       "position_id": "CB",
       "team_id": "DEN",
       "weeks": {
@@ -2571,7 +2576,8 @@
         "2": 0,
         "3": 0,
         "4": 4.5,
-        "5": 8.5
+        "5": 8.5,
+        "6": 16.3
       }
     },
     {
@@ -2609,12 +2615,12 @@
       }
     },
     {
-      "average": 9.6,
+      "average": 9.4,
       "filename": "devon-witherspoon.php",
-      "games": 5,
+      "games": 6,
       "player_id": 25243,
       "player_name": "Devon Witherspoon",
-      "points": 48,
+      "points": 56.25,
       "position_id": "CB",
       "team_id": "SEA",
       "weeks": {
@@ -2622,7 +2628,8 @@
         "2": 11.5,
         "3": 8.3,
         "4": 15.3,
-        "5": 9.3
+        "5": 9.3,
+        "6": 8.3
       }
     },
     {
@@ -3020,17 +3027,18 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.5,
       "filename": "trevon-diggs.php",
-      "games": 2,
+      "games": 3,
       "player_id": 18287,
       "player_name": "Trevon Diggs",
-      "points": 0,
+      "points": 1.5,
       "position_id": "CB",
       "team_id": "SEA",
       "weeks": {
         "4": 0,
-        "5": 0
+        "5": 0,
+        "6": 1.5
       }
     },
     {
@@ -3301,14 +3309,15 @@
     {
       "average": 0,
       "filename": "sean-fresch.php",
-      "games": 1,
+      "games": 2,
       "player_id": 29406,
       "player_name": "Sean Fresch Jr.",
       "points": 0,
       "position_id": "CB",
       "team_id": "DEN",
       "weeks": {
-        "5": 0
+        "5": 0,
+        "6": 0
       }
     },
     {

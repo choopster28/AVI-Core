@@ -51,19 +51,20 @@
       }
     },
     {
-      "average": 13.7,
+      "average": 13.6,
       "filename": "sam-darnold.php",
-      "games": 4,
+      "games": 5,
       "player_id": 17236,
       "player_name": "Sam Darnold",
-      "points": 54.8,
+      "points": 67.82,
       "position_id": "QB",
       "team_id": "SEA",
       "weeks": {
         "1": 0.5,
         "3": 29.7,
         "4": 14.3,
-        "5": 10.3
+        "5": 10.3,
+        "6": 13
       }
     },
     {
@@ -587,12 +588,12 @@
       }
     },
     {
-      "average": 13.6,
+      "average": 12.1,
       "filename": "bo-nix.php",
-      "games": 5,
+      "games": 6,
       "player_id": 22910,
       "player_name": "Bo Nix",
-      "points": 68.18,
+      "points": 72.66000000000001,
       "position_id": "QB",
       "team_id": "DEN",
       "weeks": {
@@ -600,7 +601,8 @@
         "2": 15.1,
         "3": 25.1,
         "4": 13.6,
-        "5": 7.9
+        "5": 7.9,
+        "6": 4.5
       }
     },
     {

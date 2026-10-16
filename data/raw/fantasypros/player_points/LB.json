@@ -3,7 +3,7 @@
     {
       "average": 0,
       "filename": "patrick-oconnell.php",
-      "games": 5,
+      "games": 6,
       "player_id": 25687,
       "player_name": "Patrick O'Connell",
       "points": 0,
@@ -14,7 +14,8 @@
         "2": 0,
         "3": 0,
         "4": 0,
-        "5": 0
+        "5": 0,
+        "6": 0
       }
     },
     {
@@ -667,12 +668,12 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 5.9,
       "filename": "uchenna-nwosu.php",
-      "games": 5,
+      "games": 6,
       "player_id": 17448,
       "player_name": "Uchenna Nwosu",
-      "points": 34,
+      "points": 35.5,
       "position_id": "LB",
       "team_id": "SEA",
       "weeks": {
@@ -680,7 +681,8 @@
         "2": 0.8,
         "3": 3,
         "4": 14.3,
-        "5": 5.3
+        "5": 5.3,
+        "6": 1.5
       }
     },
     {
@@ -715,12 +717,12 @@
       }
     },
     {
-      "average": 15.9,
+      "average": 16.1,
       "filename": "ernest-jones.php",
-      "games": 5,
+      "games": 6,
       "player_id": 23245,
       "player_name": "Ernest Jones IV",
-      "points": 79.5,
+      "points": 96.5,
       "position_id": "LB",
       "team_id": "SEA",
       "weeks": {
@@ -728,7 +730,8 @@
         "2": 9,
         "3": 9.8,
         "4": 26.5,
-        "5": 18.5
+        "5": 18.5,
+        "6": 17
       }
     },
     {
@@ -1805,12 +1808,12 @@
       }
     },
     {
-      "average": 13.6,
+      "average": 13.9,
       "filename": "alex-singleton.php",
-      "games": 5,
+      "games": 6,
       "player_id": 14399,
       "player_name": "Alex Singleton",
-      "points": 68,
+      "points": 83.25,
       "position_id": "LB",
       "team_id": "DEN",
       "weeks": {
@@ -1818,7 +1821,8 @@
         "2": 12,
         "3": 9.8,
         "4": 18.3,
-        "5": 12.3
+        "5": 12.3,
+        "6": 15.3
       }
     },
     {
@@ -1873,12 +1877,12 @@
       }
     },
     {
-      "average": 5.8,
+      "average": 6.6,
       "filename": "quandarrius-robinson.php",
-      "games": 5,
+      "games": 6,
       "player_id": 27519,
       "player_name": "Que Robinson",
-      "points": 28.75,
+      "points": 39.75,
       "position_id": "LB",
       "team_id": "DEN",
       "weeks": {
@@ -1886,7 +1890,8 @@
         "2": 8.8,
         "3": 3.8,
         "4": 2.3,
-        "5": 11
+        "5": 11,
+        "6": 11
       }
     },
     {
@@ -2478,12 +2483,12 @@
       }
     },
     {
-      "average": 2.1,
+      "average": 3.5,
       "filename": "jonah-elliss.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26157,
       "player_name": "Jonah Elliss",
-      "points": 10.5,
+      "points": 20.75,
       "position_id": "LB",
       "team_id": "DEN",
       "weeks": {
@@ -2491,7 +2496,8 @@
         "2": 4.5,
         "3": 3.8,
         "4": 0.8,
-        "5": 0.8
+        "5": 0.8,
+        "6": 10.3
       }
     },
     {
@@ -2676,12 +2682,12 @@
       }
     },
     {
-      "average": 0,
+      "average": 1.5,
       "filename": "tyrice-knight.php",
-      "games": 5,
+      "games": 6,
       "player_id": 24112,
       "player_name": "Tyrice Knight",
-      "points": 0,
+      "points": 9,
       "position_id": "LB",
       "team_id": "SEA",
       "weeks": {
@@ -2689,7 +2695,8 @@
         "2": 0,
         "3": 0,
         "4": 0,
-        "5": 0
+        "5": 0,
+        "6": 9
       }
     },
     {
@@ -3180,12 +3187,12 @@
       }
     },
     {
-      "average": 8.4,
+      "average": 8.8,
       "filename": "justin-strnad.php",
-      "games": 5,
+      "games": 6,
       "player_id": 19520,
       "player_name": "Justin Strnad",
-      "points": 42,
+      "points": 52.5,
       "position_id": "LB",
       "team_id": "DEN",
       "weeks": {
@@ -3193,7 +3200,8 @@
         "2": 10,
         "3": 10,
         "4": 5.3,
-        "5": 13.8
+        "5": 13.8,
+        "6": 10.5
       }
     },
     {
@@ -3674,18 +3682,19 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.2,
       "filename": "mike-morris.php",
-      "games": 3,
+      "games": 4,
       "player_id": 25454,
       "player_name": "Mike Morris",
-      "points": 0,
+      "points": 0.75,
       "position_id": "LB",
       "team_id": "SEA",
       "weeks": {
         "3": 0,
         "4": 0,
-        "5": 0
+        "5": 0,
+        "6": 0.8
       }
     },
     {
@@ -3929,6 +3938,19 @@
       "team_id": "WAS",
       "weeks": {
         "5": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "jimmy-ciarlo.php",
+      "games": 1,
+      "player_id": 26672,
+      "player_name": "Jimmy Ciarlo",
+      "points": 0,
+      "position_id": "LB",
+      "team_id": "SEA",
+      "weeks": {
+        "6": 0
       }
     }
   ],

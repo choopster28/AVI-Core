@@ -272,12 +272,12 @@
       }
     },
     {
-      "average": 10.4,
+      "average": 10,
       "filename": "jason-myers.php",
-      "games": 5,
+      "games": 6,
       "player_id": 14003,
       "player_name": "Jason Myers",
-      "points": 52,
+      "points": 60,
       "position_id": "K",
       "team_id": "SEA",
       "weeks": {
@@ -285,7 +285,8 @@
         "2": 7,
         "3": 9,
         "4": 6,
-        "5": 23
+        "5": 23,
+        "6": 8
       }
     },
     {
@@ -426,10 +427,10 @@
     {
       "average": 7,
       "filename": "wil-lutz.php",
-      "games": 5,
+      "games": 6,
       "player_id": 16026,
       "player_name": "Wil Lutz",
-      "points": 35,
+      "points": 42,
       "position_id": "K",
       "team_id": "DEN",
       "weeks": {
@@ -437,7 +438,8 @@
         "2": 9,
         "3": 2,
         "4": 9,
-        "5": 11
+        "5": 11,
+        "6": 7
       }
     },
     {
