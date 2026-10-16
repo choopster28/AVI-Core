@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-16T02:18:22.710978+00:00",
+  "generated_at_utc": "2026-10-16T05:59:56.429995+00:00",
   "statistics": {
-    "owner_trade_participations": 182,
+    "owner_trade_participations": 188,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -157,6 +157,23 @@
       },
       {
         "by_season": {
+          "2024": 3,
+          "2025": 3,
+          "2026": 16
+        },
+        "firsts_in": 2,
+        "firsts_out": 4,
+        "owner_display_name": "Mentomorii",
+        "picks_in": 6,
+        "picks_out": 10,
+        "players_in": 22,
+        "players_out": 26,
+        "roster_id": 3,
+        "team_name": "Ravens Regime ",
+        "total": 22
+      },
+      {
+        "by_season": {
           "2024": 7,
           "2025": 2,
           "2026": 12
@@ -188,23 +205,6 @@
         "roster_id": 1,
         "team_name": "Conquistadors",
         "total": 21
-      },
-      {
-        "by_season": {
-          "2024": 3,
-          "2025": 3,
-          "2026": 14
-        },
-        "firsts_in": 2,
-        "firsts_out": 4,
-        "owner_display_name": "Mentomorii",
-        "picks_in": 5,
-        "picks_out": 7,
-        "players_in": 20,
-        "players_out": 25,
-        "roster_id": 3,
-        "team_name": "Ravens Regime ",
-        "total": 20
       },
       {
         "by_season": {
@@ -276,17 +276,33 @@
       {
         "by_season": {
           "2025": 1,
-          "2026": 7
+          "2026": 8
         },
         "firsts_in": 5,
         "firsts_out": 0,
         "owner_display_name": "nickas",
-        "picks_in": 9,
+        "picks_in": 11,
         "picks_out": 2,
-        "players_in": 13,
-        "players_out": 11,
+        "players_in": 14,
+        "players_out": 12,
         "roster_id": 16,
         "team_name": "Crimson Tide Pods",
+        "total": 9
+      },
+      {
+        "by_season": {
+          "2025": 3,
+          "2026": 5
+        },
+        "firsts_in": 3,
+        "firsts_out": 0,
+        "owner_display_name": "FuzzyRaptor",
+        "picks_in": 9,
+        "picks_out": 2,
+        "players_in": 9,
+        "players_out": 12,
+        "roster_id": 2,
+        "team_name": "Rapid Valley Annihilation",
         "total": 8
       },
       {
@@ -308,18 +324,19 @@
       },
       {
         "by_season": {
-          "2025": 3,
-          "2026": 4
+          "2024": 2,
+          "2025": 2,
+          "2026": 3
         },
-        "firsts_in": 3,
-        "firsts_out": 0,
-        "owner_display_name": "FuzzyRaptor",
-        "picks_in": 7,
-        "picks_out": 2,
-        "players_in": 9,
-        "players_out": 11,
-        "roster_id": 2,
-        "team_name": "Rapid Valley Annihilation",
+        "firsts_in": 0,
+        "firsts_out": 1,
+        "owner_display_name": "AlexPete6800",
+        "picks_in": 4,
+        "picks_out": 6,
+        "players_in": 3,
+        "players_out": 5,
+        "roster_id": 10,
+        "team_name": "SmokyValleyWheatWarriors",
         "total": 7
       },
       {
@@ -337,23 +354,6 @@
         "roster_id": 8,
         "team_name": "All Hail King Jesus",
         "total": 6
-      },
-      {
-        "by_season": {
-          "2024": 2,
-          "2025": 2,
-          "2026": 1
-        },
-        "firsts_in": 0,
-        "firsts_out": 1,
-        "owner_display_name": "AlexPete6800",
-        "picks_in": 3,
-        "picks_out": 3,
-        "players_in": 1,
-        "players_out": 3,
-        "roster_id": 10,
-        "team_name": "SmokyValleyWheatWarriors",
-        "total": 5
       },
       {
         "by_season": {
@@ -406,10 +406,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 47
+      "2026": 50
     },
-    "two_team_trades": 88,
-    "unique_completed_trades": 90
+    "two_team_trades": 91,
+    "unique_completed_trades": 93
   },
   "trades": [
     {
@@ -6696,6 +6696,232 @@
         }
       ],
       "transaction_id": "1416226430550884352",
+      "week": 6
+    },
+    {
+      "created_at_utc": "2026-10-16T02:31:10.610000+00:00",
+      "created_timestamp_ms": 1792117870610,
+      "roster_ids": [
+        3,
+        10
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [
+            {
+              "original_roster_id": 10,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "9500",
+              "player_name": "Josh Downs"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4217",
+              "player_name": "George Kittle"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "AlexPete6800",
+          "owner_id": "308805697879937024",
+          "picks_received": [
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 10,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "4217",
+              "player_name": "George Kittle"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "9500",
+              "player_name": "Josh Downs"
+            }
+          ],
+          "roster_id": 10,
+          "season": 2026,
+          "team_name": "SmokyValleyWheatWarriors"
+        }
+      ],
+      "transaction_id": "1416648662955622400",
+      "week": 6
+    },
+    {
+      "created_at_utc": "2026-10-16T02:36:19.115000+00:00",
+      "created_timestamp_ms": 1792118179115,
+      "roster_ids": [
+        2,
+        3
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "FuzzyRaptor",
+          "owner_id": "1178861684281753600",
+          "picks_received": [
+            {
+              "original_roster_id": 10,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 15,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "11586",
+              "player_name": "Blake Corum"
+            }
+          ],
+          "roster_id": 2,
+          "season": 2026,
+          "team_name": "Rapid Valley Annihilation"
+        },
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 10,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 15,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11586",
+              "player_name": "Blake Corum"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        }
+      ],
+      "transaction_id": "1416649956923596800",
+      "week": 6
+    },
+    {
+      "created_at_utc": "2026-10-16T02:44:40.332000+00:00",
+      "created_timestamp_ms": 1792118680332,
+      "roster_ids": [
+        10,
+        16
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "AlexPete6800",
+          "owner_id": "308805697879937024",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 10,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "8126",
+              "player_name": "Wan'Dale Robinson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "10236",
+              "player_name": "Dalton Kincaid"
+            }
+          ],
+          "roster_id": 10,
+          "season": 2026,
+          "team_name": "SmokyValleyWheatWarriors"
+        },
+        {
+          "owner_display_name": "nickas",
+          "owner_id": "471824466389757952",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 2,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 10,
+              "round": 3,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "10236",
+              "player_name": "Dalton Kincaid"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "8126",
+              "player_name": "Wan'Dale Robinson"
+            }
+          ],
+          "roster_id": 16,
+          "season": 2026,
+          "team_name": "Crimson Tide Pods"
+        }
+      ],
+      "transaction_id": "1416652059175825408",
       "week": 6
     }
   ]

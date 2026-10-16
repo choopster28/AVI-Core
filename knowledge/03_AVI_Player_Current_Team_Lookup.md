@@ -112,9 +112,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Blake Corum
 - Player ID: 11586
 - Position: RB
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
-- Team file: 02_Rapid_Valley_Annihilation.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Bo Nix
 - Player name: Bo Nix
@@ -440,9 +440,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Dalton Kincaid
 - Player ID: 10236
 - Position: TE
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Team file: 10_SmokyValleyWheatWarriors.md
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Dalton Schultz
 - Player name: Dalton Schultz
@@ -736,9 +736,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: George Kittle
 - Player ID: 4217
 - Position: TE
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Team file: 10_SmokyValleyWheatWarriors.md
 
 ## PLAYER LOOKUP: George Pickens
 - Player name: George Pickens
@@ -1136,9 +1136,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Josh Downs
 - Player ID: 9500
 - Position: WR
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Team file: 10_SmokyValleyWheatWarriors.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Josh Jacobs
 - Player name: Josh Jacobs
@@ -1147,6 +1147,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
+
+## PLAYER LOOKUP: Justice Hill
+- Player name: Justice Hill
+- Player ID: 5995
+- Position: RB
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
 
 ## PLAYER LOOKUP: Justin Herbert
 - Player name: Justin Herbert
@@ -1515,14 +1523,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
-
-## PLAYER LOOKUP: Nicholas Singleton
-- Player name: Nicholas Singleton
-- Player ID: 13288
-- Position: RB
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Nico Collins
 - Player name: Nico Collins
@@ -1976,9 +1976,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Wan'Dale Robinson
 - Player ID: 8126
 - Position: WR
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Team file: 16_Crimson_Tide_Pods.md
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Team file: 10_SmokyValleyWheatWarriors.md
 
 ## PLAYER LOOKUP: Woody Marks
 - Player name: Woody Marks
@@ -2019,6 +2019,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
+
+## PLAYER LOOKUP: Zavion Thomas
+- Player name: Zavion Thomas
+- Player ID: 13411
+- Position: WR
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
 
 ## PLAYER LOOKUP: Zay Flowers
 - Player name: Zay Flowers
@@ -2064,15 +2072,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 55.8
 - Dynasty AVI (D-AVI, 0-100): 32.5
-- Availability: available
-
-## AVAILABLE PLAYER: Justice Hill
-- Player name: Justice Hill
-- Player ID: 5995
-- Position: RB
-- NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 51.9
-- Dynasty AVI (D-AVI, 0-100): 36.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Baker Mayfield
@@ -2651,6 +2650,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 48.3
 - Availability: available
 
+## AVAILABLE PLAYER: Nicholas Singleton
+- Player name: Nicholas Singleton
+- Player ID: 13288
+- Position: RB
+- NFL team: TEN
+- Championship AVI (C-AVI, 0-100): 35.2
+- Dynasty AVI (D-AVI, 0-100): 56.1
+- Availability: available
+
 ## AVAILABLE PLAYER: Brashard Smith
 - Player name: Brashard Smith
 - Player ID: 12455
@@ -2991,15 +2999,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: WAS
 - Championship AVI (C-AVI, 0-100): 29.1
 - Dynasty AVI (D-AVI, 0-100): 47.0
-- Availability: available
-
-## AVAILABLE PLAYER: Zavion Thomas
-- Player name: Zavion Thomas
-- Player ID: 13411
-- Position: WR
-- NFL team: CHI
-- Championship AVI (C-AVI, 0-100): 28.9
-- Dynasty AVI (D-AVI, 0-100): 29.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Colbie Young

@@ -51,18 +51,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00005995",
-      "c_avi": 51.9,
-      "d_avi": 36.8,
-      "nfl_team": "BAL",
-      "player_name": "Justice Hill",
-      "position": "RB",
-      "sleeper_id": "5995",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004892",
       "c_avi": 51.2,
       "d_avi": 66.4,
@@ -831,6 +819,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013288",
+      "c_avi": 35.2,
+      "d_avi": 56.1,
+      "nfl_team": "TEN",
+      "player_name": "Nicholas Singleton",
+      "position": "RB",
+      "sleeper_id": "13288",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012455",
       "c_avi": 34.9,
       "d_avi": 40.1,
@@ -1282,18 +1282,6 @@
       "player_name": "Ben Sinnott",
       "position": "TE",
       "sleeper_id": "11596",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013411",
-      "c_avi": 28.9,
-      "d_avi": 29.2,
-      "nfl_team": "CHI",
-      "player_name": "Zavion Thomas",
-      "position": "WR",
-      "sleeper_id": "13411",
       "status": "Active"
     },
     {
@@ -2714,8 +2702,8 @@
     }
   ],
   "counts": {
-    "available_players": 226,
-    "rostered_players": 253
+    "available_players": 225,
+    "rostered_players": 254
   },
   "rostered_players": [
     {
@@ -2933,14 +2921,14 @@
       "c_avi": 64.7,
       "d_avi": 74.7,
       "nfl_team": "LAR",
-      "owner_id": "1178861684281753600",
+      "owner_id": "992908759074680832",
       "player_name": "Blake Corum",
       "position": "RB",
-      "roster_id": 2,
+      "roster_id": 3,
       "sleeper_id": "11586",
       "status": "Active",
-      "team_file": "02_Rapid_Valley_Annihilation.md",
-      "team_name": "Rapid Valley Annihilation"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -3589,14 +3577,14 @@
       "c_avi": 74.3,
       "d_avi": 83.7,
       "nfl_team": "BUF",
-      "owner_id": "308805697879937024",
+      "owner_id": "471824466389757952",
       "player_name": "Dalton Kincaid",
       "position": "TE",
-      "roster_id": 10,
+      "roster_id": 16,
       "sleeper_id": "10236",
       "status": "Active",
-      "team_file": "10_SmokyValleyWheatWarriors.md",
-      "team_name": "SmokyValleyWheatWarriors"
+      "team_file": "16_Crimson_Tide_Pods.md",
+      "team_name": "Crimson Tide Pods"
     },
     {
       "active": true,
@@ -4181,14 +4169,14 @@
       "c_avi": 89.8,
       "d_avi": 83.3,
       "nfl_team": "SF",
-      "owner_id": "992908759074680832",
+      "owner_id": "308805697879937024",
       "player_name": "George Kittle",
       "position": "TE",
-      "roster_id": 3,
+      "roster_id": 10,
       "sleeper_id": "4217",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "10_SmokyValleyWheatWarriors.md",
+      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,
@@ -4981,14 +4969,14 @@
       "c_avi": 67.3,
       "d_avi": 77.2,
       "nfl_team": "IND",
-      "owner_id": "308805697879937024",
+      "owner_id": "992908759074680832",
       "player_name": "Josh Downs",
       "position": "WR",
-      "roster_id": 10,
+      "roster_id": 3,
       "sleeper_id": "9500",
       "status": "Active",
-      "team_file": "10_SmokyValleyWheatWarriors.md",
-      "team_name": "SmokyValleyWheatWarriors"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -5005,6 +4993,22 @@
       "status": "Active",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00005995",
+      "c_avi": 51.9,
+      "d_avi": 36.8,
+      "nfl_team": "BAL",
+      "owner_id": "1178861684281753600",
+      "player_name": "Justice Hill",
+      "position": "RB",
+      "roster_id": 2,
+      "sleeper_id": "5995",
+      "status": "Active",
+      "team_file": "02_Rapid_Valley_Annihilation.md",
+      "team_name": "Rapid Valley Annihilation"
     },
     {
       "active": true,
@@ -5741,22 +5745,6 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013288",
-      "c_avi": 35.2,
-      "d_avi": 56.1,
-      "nfl_team": "TEN",
-      "owner_id": "992908759074680832",
-      "player_name": "Nicholas Singleton",
-      "position": "RB",
-      "roster_id": 3,
-      "sleeper_id": "13288",
-      "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -6661,14 +6649,14 @@
       "c_avi": 73.4,
       "d_avi": 76.5,
       "nfl_team": "TEN",
-      "owner_id": "471824466389757952",
+      "owner_id": "308805697879937024",
       "player_name": "Wan'Dale Robinson",
       "position": "WR",
-      "roster_id": 16,
+      "roster_id": 10,
       "sleeper_id": "8126",
       "status": "Active",
-      "team_file": "16_Crimson_Tide_Pods.md",
-      "team_name": "Crimson Tide Pods"
+      "team_file": "10_SmokyValleyWheatWarriors.md",
+      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,
@@ -6749,6 +6737,22 @@
       "status": "Active",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013411",
+      "c_avi": 28.9,
+      "d_avi": 29.2,
+      "nfl_team": "CHI",
+      "owner_id": "1178861684281753600",
+      "player_name": "Zavion Thomas",
+      "position": "WR",
+      "roster_id": 2,
+      "sleeper_id": "13411",
+      "status": "Active",
+      "team_file": "02_Rapid_Valley_Annihilation.md",
+      "team_name": "Rapid Valley Annihilation"
     },
     {
       "active": true,

@@ -17,33 +17,33 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **90**
-- Owner trade participations: **182**
-- Two-team trades: **88**
+- Unique completed trades: **93**
+- Owner trade participations: **188**
+- Two-team trades: **91**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **47**
+- 2026 completed trades: **50**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-10-14T22:33:22.559000+00:00**
+- Latest verified trade: **2026-10-16T02:44:40.332000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Corgi Loaf Baking Co.  | awang1900 | **27** | 7 | 4 | 16 | 38 | 37 | 10 | 16 | 7 | 10 |
-| 2 | Big Balder Brand | Choopski | **21** | 7 | 2 | 12 | 31 | 33 | 3 | 8 | 1 | 4 |
-| 3 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
-| 4 | Ravens Regime  | Mentomorii | **20** | 3 | 3 | 14 | 20 | 25 | 5 | 7 | 2 | 4 |
+| 2 | Ravens Regime  | Mentomorii | **22** | 3 | 3 | 16 | 22 | 26 | 6 | 10 | 2 | 4 |
+| 3 | Big Balder Brand | Choopski | **21** | 7 | 2 | 12 | 31 | 33 | 3 | 8 | 1 | 4 |
+| 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 5 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
 | 6 | Northside Kings  | srsmith95 | **17** | 6 | 5 | 6 | 18 | 13 | 8 | 4 | 3 | 3 |
 | 7 | Badland Banditos  | IcebergSlim69 | **10** | 4 | 4 | 2 | 10 | 11 | 3 | 4 | 1 | 1 |
 | 8 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
-| 9 | Crimson Tide Pods | nickas | **8** | 0 | 1 | 7 | 13 | 11 | 9 | 2 | 5 | 0 |
-| 10 | Lightskin Legends ✊🏽 | MadDawgMatt | **7** | 2 | 3 | 2 | 9 | 5 | 1 | 3 | 0 | 0 |
-| 11 | Rapid Valley Annihilation | FuzzyRaptor | **7** | 0 | 3 | 4 | 9 | 11 | 7 | 2 | 3 | 0 |
-| 12 | All Hail King Jesus | Hofer51 | **6** | 0 | 4 | 2 | 8 | 5 | 0 | 8 | 0 | 3 |
-| 13 | SmokyValleyWheatWarriors | AlexPete6800 | **5** | 2 | 2 | 1 | 1 | 3 | 3 | 3 | 0 | 1 |
+| 9 | Crimson Tide Pods | nickas | **9** | 0 | 1 | 8 | 14 | 12 | 11 | 2 | 5 | 0 |
+| 10 | Rapid Valley Annihilation | FuzzyRaptor | **8** | 0 | 3 | 5 | 9 | 12 | 9 | 2 | 3 | 0 |
+| 11 | Lightskin Legends ✊🏽 | MadDawgMatt | **7** | 2 | 3 | 2 | 9 | 5 | 1 | 3 | 0 | 0 |
+| 12 | SmokyValleyWheatWarriors | AlexPete6800 | **7** | 2 | 2 | 3 | 3 | 5 | 4 | 6 | 0 | 1 |
+| 13 | All Hail King Jesus | Hofer51 | **6** | 0 | 4 | 2 | 8 | 5 | 0 | 8 | 0 | 3 |
 | 14 | Gringo’s Goblins  | Burnfaze | **3** | 0 | 0 | 3 | 7 | 7 | 2 | 2 | 2 | 0 |
 | 15 | Southside Savages | GGEZGoNext | **2** | 0 | 1 | 1 | 3 | 2 | 6 | 0 | 1 | 0 |
 | 16 | Phalhala or Bust | PIFYAF | **1** | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
@@ -70,6 +70,60 @@
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1416652059175825408
+- Season: 2026
+- Week: 6
+- Created at UTC: 2026-10-16T02:44:40.332000+00:00
+- Teams involved: 2
+
+#### SmokyValleyWheatWarriors (AlexPete6800)
+- Players received: Wan'Dale Robinson
+- Players sent: Dalton Kincaid
+- Picks received: None
+- Picks sent: 2027 Round 2 (original roster 1), 2027 Round 3 (original roster 10)
+
+#### Crimson Tide Pods (nickas)
+- Players received: Dalton Kincaid
+- Players sent: Wan'Dale Robinson
+- Picks received: 2027 Round 2 (original roster 1), 2027 Round 3 (original roster 10)
+- Picks sent: None
+
+### TRADE: 1416649956923596800
+- Season: 2026
+- Week: 6
+- Created at UTC: 2026-10-16T02:36:19.115000+00:00
+- Teams involved: 2
+
+#### Rapid Valley Annihilation (FuzzyRaptor)
+- Players received: None
+- Players sent: Blake Corum
+- Picks received: 2027 Round 2 (original roster 10), 2028 Round 2 (original roster 15)
+- Picks sent: None
+
+#### Ravens Regime  (Mentomorii)
+- Players received: Blake Corum
+- Players sent: None
+- Picks received: None
+- Picks sent: 2027 Round 2 (original roster 10), 2028 Round 2 (original roster 15)
+
+### TRADE: 1416648662955622400
+- Season: 2026
+- Week: 6
+- Created at UTC: 2026-10-16T02:31:10.610000+00:00
+- Teams involved: 2
+
+#### Ravens Regime  (Mentomorii)
+- Players received: Josh Downs
+- Players sent: George Kittle
+- Picks received: 2027 Round 2 (original roster 10)
+- Picks sent: 2028 Round 2 (original roster 3)
+
+#### SmokyValleyWheatWarriors (AlexPete6800)
+- Players received: George Kittle
+- Players sent: Josh Downs
+- Picks received: 2028 Round 2 (original roster 3)
+- Picks sent: 2027 Round 2 (original roster 10)
 
 ### TRADE: 1416226430550884352
 - Season: 2026
