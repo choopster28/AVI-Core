@@ -8,7 +8,6 @@ import json
 
 from avi.io import read_json, write_json
 from avi.valuation.calculator import CAVIComponents, DAVIComponents, calculate_c_avi, calculate_d_avi
-from avi.valuation.scaling import percentile_score
 
 
 AVI_PLAYERS_PATH = Path("data/processed/avi/avi_players.json")
@@ -20,6 +19,18 @@ OFFENSIVE_POSITIONS = ("QB", "RB", "WR", "TE", "K")
 SLEEPER_STATE_URL = "https://api.sleeper.app/v1/state/nfl"
 ESPN_SCOREBOARD_URL = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard"
 TARGET_SEASON = 2026
+
+# C-AVI should compare fantasy-relevant players against other fantasy-relevant
+# players, not against the entire NFL depth chart. These pools are intentionally
+# wider than a 16-team starting lineup so productive bench/flex options still
+# retain meaningful value without deep reserves inflating the top end.
+FANTASY_RELEVANT_POOL = {
+    "QB": 24,
+    "RB": 48,
+    "WR": 64,
+    "TE": 24,
+    "K": 16,
+}
 
 
 def _float(value: Any) -> float | None:
@@ -41,13 +52,7 @@ def _nfl_state() -> dict[str, Any]:
 
 
 def _espn_week_complete(week: int) -> bool | None:
-    """Return True only when ESPN shows every regular-season game final.
-
-    This independently verifies week completion so AVI does not have to wait for
-    Sleeper's global NFL state to roll to the next week. None means the schedule
-    could not be verified and the caller should fall back to the conservative
-    Sleeper-state rule.
-    """
+    """Return True only when ESPN shows every regular-season game final."""
     if week < 1 or week > 18:
         return False
 
@@ -114,30 +119,25 @@ def _load_current_points() -> tuple[dict[str, dict[str, Any]], int, int]:
             if not registry_player:
                 continue
 
+            parsed_weeks: dict[int, float] = {}
             weeks = record.get("weeks")
             if isinstance(weeks, dict):
-                for raw_week in weeks:
+                for raw_week, raw_value in weeks.items():
                     try:
-                        max_week = max(max_week, int(raw_week))
+                        week = int(raw_week)
                     except (TypeError, ValueError):
-                        pass
+                        continue
+                    value = _float(raw_value)
+                    if value is None:
+                        continue
+                    parsed_weeks[week] = value
+                    max_week = max(max_week, week)
 
-            season_points = _float(record.get("points"))
-            games = _float(record.get("games"))
+            season_points = _float(record.get("points")) or 0.0
+            games = _float(record.get("games")) or 0.0
             average = _float(record.get("average"))
-            if season_points is None:
-                season_points = 0.0
-            if games is None:
-                games = 0.0
             if average is None:
                 average = season_points / games if games > 0 else 0.0
-
-            weekly_values: list[float] = []
-            if isinstance(weeks, dict):
-                for raw_value in weeks.values():
-                    value = _float(raw_value)
-                    if value is not None:
-                        weekly_values.append(value)
 
             avi_id = str(registry_player.get("avi_id"))
             by_avi[avi_id] = {
@@ -146,7 +146,8 @@ def _load_current_points() -> tuple[dict[str, dict[str, Any]], int, int]:
                 "raw_points": average,
                 "season_points": season_points,
                 "games": games,
-                "weekly_ceiling": max(weekly_values) if weekly_values else 0.0,
+                "weekly_ceiling": max(parsed_weeks.values()) if parsed_weeks else 0.0,
+                "weeks": parsed_weeks,
             }
             mapped_records += 1
 
@@ -165,73 +166,111 @@ def _fresh_completed_week_available(
 
     if season != TARGET_SEASON or season_type not in {"regular", "post"} or current_week < 1:
         return False, 0
-
-    # Do not activate on a tiny/partial response. The AVI registry normally maps
-    # hundreds of offensive players, so this threshold is intentionally modest.
     if mapped_records < 40:
         return False, 0
 
     if season_type == "regular":
-        # Reject impossible/stale feeds first. A prior-season payload extending
-        # through Week 17/18 must never be mistaken for current production.
         if max_observed_week < 1 or max_observed_week > current_week:
             completed_through = max(current_week - 1, 0)
             return False, completed_through
 
-        # Normal path: Sleeper has already advanced to the next NFL week.
         if max_observed_week <= current_week - 1:
             return True, max_observed_week
 
-        # Same-week path: FantasyPros already contains this week's production but
-        # Sleeper has not rolled its global state yet. Activate as soon as an
-        # independent NFL schedule source confirms every game in the week is final.
         if max_observed_week == current_week and current_week_complete is True:
             return True, current_week
 
-        return False, max(current_week - 1, 0)
+        # FantasyPros can begin publishing Thursday/Sunday production before the
+        # NFL week is complete. Do not disable the entire in-season model because
+        # a partial current week exists; simply ignore that week and retain all
+        # verified production through the prior completed week.
+        completed_through = max(current_week - 1, 0)
+        return completed_through >= 1, completed_through
 
-    # Postseason: all regular-season weeks are complete.
     return max_observed_week >= 1, max_observed_week
 
 
-def _player_point_components(points: dict[str, dict[str, Any]]) -> dict[str, float]:
-    """Score actual season production by PPR points per game within position."""
-    fields: dict[str, list[float]] = {}
-    for record in points.values():
-        fields.setdefault(record["position"], []).append(float(record["raw_points"]))
+def _completed_points(
+    points: dict[str, dict[str, Any]], completed_through: int
+) -> dict[str, dict[str, Any]]:
+    """Trim the FantasyPros feed to verified completed weeks only."""
+    result: dict[str, dict[str, Any]] = {}
+    for avi_id, record in points.items():
+        raw_weeks = record.get("weeks")
+        weeks = raw_weeks if isinstance(raw_weeks, dict) else {}
+        completed = {
+            int(week): float(value)
+            for week, value in weeks.items()
+            if int(week) <= completed_through
+        }
+        season_points = sum(completed.values())
+        games = len(completed)
+        average = season_points / games if games else 0.0
+        result[avi_id] = {
+            **record,
+            "weeks": completed,
+            "raw_points": average,
+            "season_points": season_points,
+            "games": float(games),
+            "weekly_ceiling": max(completed.values()) if completed else 0.0,
+        }
+    return result
+
+
+def _rank_scores(records: dict[str, dict[str, Any]], field_name: str) -> dict[str, float]:
+    """Rank a metric within each position's fantasy-relevant pool."""
+    by_position: dict[str, list[tuple[str, float]]] = {}
+    for avi_id, record in records.items():
+        position = str(record.get("position") or "").upper()
+        value = _float(record.get(field_name))
+        if position not in FANTASY_RELEVANT_POOL or value is None:
+            continue
+        by_position.setdefault(position, []).append((avi_id, float(value)))
 
     result: dict[str, float] = {}
-    for avi_id, record in points.items():
-        field = fields.get(record["position"], [])
-        if field:
-            result[avi_id] = round(percentile_score(float(record["raw_points"]), field), 1)
+    for position, entries in by_position.items():
+        entries.sort(key=lambda item: item[1], reverse=True)
+        pool_size = min(FANTASY_RELEVANT_POOL[position], len(entries))
+        if pool_size <= 1:
+            for avi_id, _ in entries:
+                result[avi_id] = 100.0 if pool_size == 1 else 0.0
+            continue
+
+        index = 0
+        while index < len(entries):
+            value = entries[index][1]
+            end = index
+            while end + 1 < len(entries) and entries[end + 1][1] == value:
+                end += 1
+            average_rank = ((index + 1) + (end + 1)) / 2.0
+            score = 0.0 if average_rank > pool_size else 100.0 * (pool_size - average_rank) / (pool_size - 1)
+            score = round(max(0.0, min(100.0, score)), 1)
+            for tied_index in range(index, end + 1):
+                result[entries[tied_index][0]] = score
+            index = end + 1
+
+    return result
+
+
+def _player_point_components(points: dict[str, dict[str, Any]]) -> dict[str, float]:
+    """Blend PPR/game and season production inside a fantasy-relevant pool."""
+    ppg = _rank_scores(points, "raw_points")
+    total = _rank_scores(points, "season_points")
+    result: dict[str, float] = {}
+    for avi_id in points:
+        ppg_score = ppg.get(avi_id, 0.0)
+        total_score = total.get(avi_id, 0.0)
+        result[avi_id] = round(0.70 * ppg_score + 0.30 * total_score, 1)
     return result
 
 
 def _weekly_ceiling_components(points: dict[str, dict[str, Any]]) -> dict[str, float]:
-    """Score each player's best completed-week PPR output within position."""
-    fields: dict[str, list[float]] = {}
-    for record in points.values():
-        fields.setdefault(record["position"], []).append(float(record.get("weekly_ceiling") or 0.0))
-
-    result: dict[str, float] = {}
-    for avi_id, record in points.items():
-        field = fields.get(record["position"], [])
-        if field:
-            result[avi_id] = round(percentile_score(float(record.get("weekly_ceiling") or 0.0), field), 1)
-    return result
+    """Score demonstrated weekly ceiling inside the fantasy-relevant pool."""
+    return _rank_scores(points, "weekly_ceiling")
 
 
 def apply_in_season_transition() -> dict[str, Any]:
-    """Transition C-AVI globally from preseason to the approved in-season mix.
-
-    The 2026.3 model defines the in-season C-AVI weights as 25% actual
-    player production, 30% refreshed projections, 10% league context, 25% public
-    market, and 10% elite upside. The transition activates immediately after a
-    completed current-season week is verified. Sleeper advancing to the next
-    week is accepted, but is no longer required: ESPN's NFL scoreboard can
-    independently confirm that all games in the current week are final.
-    """
+    """Transition C-AVI globally from preseason to the approved in-season mix."""
     if not AVI_PLAYERS_PATH.exists() or not AVI_MANIFEST_PATH.exists() or not REGISTRY_PATH.exists():
         return {"status": "skipped", "reason": "required AVI files unavailable"}
 
@@ -264,7 +303,7 @@ def apply_in_season_transition() -> dict[str, Any]:
         "mapped_player_point_records": mapped_records,
         "current_week_schedule_complete": current_week_complete,
         "completion_sources": ["Sleeper NFL state", "ESPN NFL scoreboard"],
-        "activation_policy": "Activate after a completed 2026 week is verified. Sleeper advancing to the next week or ESPN confirming every game final is sufficient; stale or partial player-points feeds never activate the transition.",
+        "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     }
 
     if not active:
@@ -275,8 +314,9 @@ def apply_in_season_transition() -> dict[str, Any]:
     if not isinstance(players, list):
         raise RuntimeError("AVI players file must contain a list.")
 
-    point_components = _player_point_components(points)
-    weekly_ceiling_components = _weekly_ceiling_components(points)
+    completed_points = _completed_points(points, completed_through)
+    point_components = _player_point_components(completed_points)
+    weekly_ceiling_components = _weekly_ceiling_components(completed_points)
     changed = 0
     for player in players:
         if not isinstance(player, dict):
@@ -310,7 +350,7 @@ def apply_in_season_transition() -> dict[str, Any]:
         )
         player["c_avi"] = new_cavi
         components["player_points"] = actual_component
-        point_record = points.get(avi_id)
+        point_record = completed_points.get(avi_id)
         components["elite_upside"] = upside
         player["in_season_player_points"] = {
             "ppr_points_per_game": round(float(point_record["raw_points"]), 2) if point_record else 0.0,
@@ -356,6 +396,11 @@ def apply_in_season_transition() -> dict[str, Any]:
         "league_context": 0.10,
         "public_market": 0.25,
         "elite_upside": 0.10,
+    }
+    manifest["production_component_policy"] = {
+        "player_points": "70% PPR points/game rank + 30% season-points rank within a fantasy-relevant positional pool",
+        "weekly_ceiling": "best completed-week PPR rank within the same fantasy-relevant positional pool",
+        "fantasy_relevant_pool": FANTASY_RELEVANT_POOL,
     }
 
     write_json(AVI_PLAYERS_PATH, players)
