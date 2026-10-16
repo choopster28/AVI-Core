@@ -15,18 +15,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00006783",
-      "c_avi": 53.3,
-      "d_avi": 58.8,
-      "nfl_team": "CLE",
-      "player_name": "Jerry Jeudy",
-      "position": "WR",
-      "sleeper_id": "6783",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004033",
       "c_avi": 52.3,
       "d_avi": 58.4,
@@ -279,6 +267,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00009501",
+      "c_avi": 40.5,
+      "d_avi": 44.7,
+      "nfl_team": "NE",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "sleeper_id": "9501",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008119",
       "c_avi": 40.4,
       "d_avi": 35.9,
@@ -443,18 +443,6 @@
       "position": "RB",
       "sleeper_id": "9506",
       "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00004950",
-      "c_avi": 38.0,
-      "d_avi": 43.7,
-      "nfl_team": "SF",
-      "player_name": "Christian Kirk",
-      "position": "WR",
-      "sleeper_id": "4950",
-      "status": "Inactive"
     },
     {
       "active": true,
@@ -1138,7 +1126,7 @@
       "player_name": "Will Shipley",
       "position": "RB",
       "sleeper_id": "11577",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -2702,8 +2690,8 @@
     }
   ],
   "counts": {
-    "available_players": 225,
-    "rostered_players": 254
+    "available_players": 224,
+    "rostered_players": 255
   },
   "rostered_players": [
     {
@@ -3365,6 +3353,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00004950",
+      "c_avi": 38.0,
+      "d_avi": 43.7,
+      "nfl_team": "SF",
+      "owner_id": "736993578450030592",
+      "player_name": "Christian Kirk",
+      "position": "WR",
+      "roster_id": 1,
+      "sleeper_id": "4950",
+      "status": "Inactive",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00004034",
       "c_avi": 97.3,
       "d_avi": 91.2,
@@ -3745,22 +3749,6 @@
       "status": "Inactive",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00009501",
-      "c_avi": 40.5,
-      "d_avi": 44.7,
-      "nfl_team": "NE",
-      "owner_id": "872509429436829696",
-      "player_name": "DeMario Douglas",
-      "position": "WR",
-      "roster_id": 6,
-      "sleeper_id": "9501",
-      "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -4805,6 +4793,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00006783",
+      "c_avi": 53.3,
+      "d_avi": 58.8,
+      "nfl_team": "CLE",
+      "owner_id": "872509429436829696",
+      "player_name": "Jerry Jeudy",
+      "position": "WR",
+      "roster_id": 6,
+      "sleeper_id": "6783",
+      "status": "Active",
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00006770",
       "c_avi": 85.0,
       "d_avi": 88.6,
@@ -5406,7 +5410,7 @@
       "position": "QB",
       "roster_id": 3,
       "sleeper_id": "4881",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
     },

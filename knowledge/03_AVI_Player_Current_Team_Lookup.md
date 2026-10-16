@@ -332,6 +332,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
+## PLAYER LOOKUP: Christian Kirk
+- Player name: Christian Kirk
+- Player ID: 4950
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
+
 ## PLAYER LOOKUP: Christian McCaffrey
 - Player name: Christian McCaffrey
 - Player ID: 4034
@@ -523,14 +531,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
-
-## PLAYER LOOKUP: DeMario Douglas
-- Player name: DeMario Douglas
-- Player ID: 9501
-- Position: WR
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: DeVonta Smith
 - Player name: DeVonta Smith
@@ -1051,6 +1051,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
+
+## PLAYER LOOKUP: Jerry Jeudy
+- Player name: Jerry Jeudy
+- Player ID: 6783
+- Position: WR
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Joe Burrow
 - Player name: Joe Burrow
@@ -2047,15 +2055,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 67.3
 - Availability: available
 
-## AVAILABLE PLAYER: Jerry Jeudy
-- Player name: Jerry Jeudy
-- Player ID: 6783
-- Position: WR
-- NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 53.3
-- Dynasty AVI (D-AVI, 0-100): 58.8
-- Availability: available
-
 ## AVAILABLE PLAYER: David Njoku
 - Player name: David Njoku
 - Player ID: 4033
@@ -2245,6 +2244,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 40.3
 - Availability: available
 
+## AVAILABLE PLAYER: DeMario Douglas
+- Player name: DeMario Douglas
+- Player ID: 9501
+- Position: WR
+- NFL team: NE
+- Championship AVI (C-AVI, 0-100): 40.5
+- Dynasty AVI (D-AVI, 0-100): 44.7
+- Availability: available
+
 ## AVAILABLE PLAYER: Jahan Dotson
 - Player name: Jahan Dotson
 - Player ID: 8119
@@ -2369,15 +2377,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: TB
 - Championship AVI (C-AVI, 0-100): 38.4
 - Dynasty AVI (D-AVI, 0-100): 45.4
-- Availability: available
-
-## AVAILABLE PLAYER: Christian Kirk
-- Player name: Christian Kirk
-- Player ID: 4950
-- Position: WR
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 38.0
-- Dynasty AVI (D-AVI, 0-100): 43.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Jonnu Smith
