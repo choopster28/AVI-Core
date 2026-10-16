@@ -1,5 +1,5 @@
 {
-  "downloaded_at_utc": "2026-10-15T16:54:24.720524+00:00",
+  "downloaded_at_utc": "2026-10-16T00:30:03.398255+00:00",
   "methodology_version": "2026.3",
   "player_points": {
     "collected": true,
@@ -13,7 +13,7 @@
   },
   "scoring": "PPR",
   "season": 2026,
-  "snapshot_id": "2026-10-15T16-54-24Z",
+  "snapshot_id": "2026-10-16T00-30-03Z",
   "status": "passed",
   "warnings": [
     "FantasyPros player directory refresh was implausibly small (0 total / 0 offensive); preserved last-known-good directory (522 total / 489 offensive)."
