@@ -2,9 +2,9 @@
   "c_avi_weights": {
     "elite_upside": 0.1,
     "league_context": 0.1,
-    "player_points": 0.0,
-    "projections": 0.5,
-    "public_market": 0.3
+    "player_points": 0.25,
+    "projections": 0.3,
+    "public_market": 0.25
   },
   "d_avi_missing_component_policy": "Redistribute missing optional component weights proportionally across verified components.",
   "d_avi_weights": {
@@ -18,7 +18,7 @@
   },
   "generated_at_utc": "2026-10-16T16:35:22.475203+00:00",
   "in_season_transition": {
-    "activation_policy": "Activate after a completed 2026 week is verified. Sleeper advancing to the next week or ESPN confirming every game final is sufficient; stale or partial player-points feeds never activate the transition.",
+    "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 5,
     "completion_sources": [
       "Sleeper NFL state",
@@ -30,17 +30,35 @@
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 6,
-    "status": "waiting_for_completed_current_season_points"
+    "status": "active"
   },
   "injury_availability_adjustments": {
-    "policy": "Projection-aware C-AVI ceiling; never multiply an already injury-adjusted projection.",
-    "reason": "regular-season availability window is not active",
-    "status": "inactive"
+    "championship_horizon_end_week": 17,
+    "current_week": 6,
+    "players_capped": 1,
+    "players_evaluated": 479,
+    "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
+    "sources": [
+      "Sleeper NFL player injury status",
+      "FantasyPros injuries"
+    ],
+    "status": "active"
   },
   "league_id": "1312185568032997376",
-  "methodology_status": "provisional_2026_3",
+  "methodology_status": "active_2026_3_in_season",
   "methodology_version": "2026.3",
-  "player_points_active": false,
+  "player_points_active": true,
+  "production_component_policy": {
+    "fantasy_relevant_pool": {
+      "K": 16,
+      "QB": 24,
+      "RB": 48,
+      "TE": 24,
+      "WR": 64
+    },
+    "player_points": "70% PPR points/game rank + 30% season-points rank within a fantasy-relevant positional pool",
+    "weekly_ceiling": "best completed-week PPR rank within the same fantasy-relevant positional pool"
+  },
   "record_counts": {
     "calculated_players": 479,
     "registry_players": 479,
@@ -84,6 +102,6 @@
     }
   },
   "season": 2026,
-  "season_phase": "preseason",
+  "season_phase": "regular_season",
   "status": "passed"
 }

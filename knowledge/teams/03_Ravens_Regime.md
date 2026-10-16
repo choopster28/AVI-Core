@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 627.0
-- championship_lineup_c_avi_avg: 78.38
-- offensive_roster_c_avi_sum: 1075.9
-- offensive_roster_c_avi_avg: 63.29
-- offensive_roster_d_avi_sum: 1247.2
-- offensive_roster_d_avi_avg: 73.36
+- championship_lineup_c_avi_sum: 508.1
+- championship_lineup_c_avi_avg: 63.51
+- offensive_roster_c_avi_sum: 917.7
+- offensive_roster_c_avi_avg: 53.98
+- offensive_roster_d_avi_sum: 1221.0
+- offensive_roster_d_avi_avg: 71.82
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Lamar Jackson | C-AVI: 94.6 | D-AVI: 91.5
-- RB: Derrick Henry | C-AVI: 93.1 | D-AVI: 85.7
-- RB: Tony Pollard | C-AVI: 67.4 | D-AVI: 72.0
-- WR: Zay Flowers | C-AVI: 92.2 | D-AVI: 94.4
-- WR: Carnell Tate | C-AVI: 70.2 | D-AVI: 88.0
-- TE: Kyle Pitts | C-AVI: 82.3 | D-AVI: 79.9
-- FLEX: Juwan Johnson | C-AVI: 63.9 | D-AVI: 73.4
-- FLEX: Josh Downs | C-AVI: 63.3 | D-AVI: 76.6
+- QB: Cam Ward | C-AVI: 35.5 | D-AVI: 59.3
+- RB: Derrick Henry | C-AVI: 93.9 | D-AVI: 85.9
+- RB: Tony Pollard | C-AVI: 55.7 | D-AVI: 70.0
+- WR: Zay Flowers | C-AVI: 90.1 | D-AVI: 94.1
+- WR: Carnell Tate | C-AVI: 62.7 | D-AVI: 86.8
+- TE: Juwan Johnson | C-AVI: 66.8 | D-AVI: 73.9
+- FLEX: Kyle Pitts | C-AVI: 53.1 | D-AVI: 75.1
+- FLEX: Josh Downs | C-AVI: 50.3 | D-AVI: 74.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -51,13 +51,13 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['QB']
 - NFL team: BAL
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 94.6
-- Dynasty AVI (D-AVI, 0-100): 91.5
+- Championship AVI (C-AVI, 0-100): 74.6
+- Dynasty AVI (D-AVI, 0-100): 88.2
 - Projected PPR points: 328.1
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Cam Ward
 - Player name: Cam Ward
@@ -70,11 +70,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 48.2
-- Dynasty AVI (D-AVI, 0-100): 61.4
+- Championship AVI (C-AVI, 0-100): 35.5
+- Dynasty AVI (D-AVI, 0-100): 59.3
 - Projected PPR points: 231.1
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Derrick Henry
 - Player name: Derrick Henry
@@ -87,28 +87,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 93.1
-- Dynasty AVI (D-AVI, 0-100): 85.7
+- Championship AVI (C-AVI, 0-100): 93.9
+- Dynasty AVI (D-AVI, 0-100): 85.9
 - Projected PPR points: 278.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: Tony Pollard
-- Player name: Tony Pollard
-- Player ID: 5967
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: TEN
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 67.4
-- Dynasty AVI (D-AVI, 0-100): 72.0
-- Projected PPR points: 179.0
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Kyle Monangai
 - Player name: Kyle Monangai
@@ -121,11 +104,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 58.8
-- Dynasty AVI (D-AVI, 0-100): 74.3
+- Championship AVI (C-AVI, 0-100): 67.0
+- Dynasty AVI (D-AVI, 0-100): 75.7
 - Projected PPR points: 155.3
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Tony Pollard
+- Player name: Tony Pollard
+- Player ID: 5967
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 55.7
+- Dynasty AVI (D-AVI, 0-100): 70.0
+- Projected PPR points: 179.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Blake Corum
 - Player name: Blake Corum
@@ -138,11 +138,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 57.0
-- Dynasty AVI (D-AVI, 0-100): 72.6
+- Championship AVI (C-AVI, 0-100): 49.3
+- Dynasty AVI (D-AVI, 0-100): 71.4
 - Projected PPR points: 134.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Tyjae Spears
 - Player name: Tyjae Spears
@@ -155,11 +155,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 52.1
-- Dynasty AVI (D-AVI, 0-100): 60.6
+- Championship AVI (C-AVI, 0-100): 39.1
+- Dynasty AVI (D-AVI, 0-100): 58.4
 - Projected PPR points: 128.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Adam Randall
 - Player name: Adam Randall
@@ -172,11 +172,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 34.1
-- Dynasty AVI (D-AVI, 0-100): 33.0
+- Championship AVI (C-AVI, 0-100): 27.4
+- Dynasty AVI (D-AVI, 0-100): 31.8
 - Projected PPR points: 38.5
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Zay Flowers
 - Player name: Zay Flowers
@@ -189,11 +189,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 92.2
-- Dynasty AVI (D-AVI, 0-100): 94.4
+- Championship AVI (C-AVI, 0-100): 90.1
+- Dynasty AVI (D-AVI, 0-100): 94.1
 - Projected PPR points: 252.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Carnell Tate
 - Player name: Carnell Tate
@@ -206,11 +206,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 70.2
-- Dynasty AVI (D-AVI, 0-100): 88.0
+- Championship AVI (C-AVI, 0-100): 62.7
+- Dynasty AVI (D-AVI, 0-100): 86.8
 - Projected PPR points: 175.4
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Josh Downs
 - Player name: Josh Downs
@@ -223,28 +223,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 63.3
-- Dynasty AVI (D-AVI, 0-100): 76.6
+- Championship AVI (C-AVI, 0-100): 50.3
+- Dynasty AVI (D-AVI, 0-100): 74.4
 - Projected PPR points: 159.3
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: KC Concepcion
-- Player name: KC Concepcion
-- Player ID: 13298
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CLE
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 59.7
-- Dynasty AVI (D-AVI, 0-100): 80.2
-- Projected PPR points: 151.3
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Jordyn Tyson
 - Player name: Jordyn Tyson
@@ -257,11 +240,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 55.5
-- Dynasty AVI (D-AVI, 0-100): 81.4
+- Championship AVI (C-AVI, 0-100): 44.1
+- Dynasty AVI (D-AVI, 0-100): 79.5
 - Projected PPR points: 135.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: KC Concepcion
+- Player name: KC Concepcion
+- Player ID: 13298
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: CLE
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 43.0
+- Dynasty AVI (D-AVI, 0-100): 77.4
+- Projected PPR points: 151.3
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Ja'Kobi Lane
 - Player name: Ja'Kobi Lane
@@ -274,28 +274,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 47.3
-- Dynasty AVI (D-AVI, 0-100): 64.6
+- Championship AVI (C-AVI, 0-100): 36.6
+- Dynasty AVI (D-AVI, 0-100): 62.8
 - Projected PPR points: 93.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
-
-### PLAYER: Kyle Pitts
-- Player name: Kyle Pitts
-- Player ID: 7553
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: ATL
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 82.3
-- Dynasty AVI (D-AVI, 0-100): 79.9
-- Projected PPR points: 180.6
-- Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Juwan Johnson
 - Player name: Juwan Johnson
@@ -308,11 +291,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 63.9
-- Dynasty AVI (D-AVI, 0-100): 73.4
+- Championship AVI (C-AVI, 0-100): 66.8
+- Dynasty AVI (D-AVI, 0-100): 73.9
 - Projected PPR points: 152.8
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Kyle Pitts
+- Player name: Kyle Pitts
+- Player ID: 7553
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: ATL
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 53.1
+- Dynasty AVI (D-AVI, 0-100): 75.1
+- Projected PPR points: 180.6
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Eli Raridon
 - Player name: Eli Raridon
@@ -325,11 +325,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 36.2
-- Dynasty AVI (D-AVI, 0-100): 57.6
+- Championship AVI (C-AVI, 0-100): 28.5
+- Dynasty AVI (D-AVI, 0-100): 56.3
 - Projected PPR points: 37.2
 - Category: offense
-- Valuation status: PROVISIONAL_2026_3
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Evan McPherson
 - Player name: Evan McPherson
