@@ -1,5 +1,344 @@
 [
   {
+    "id": "mva9m3ss-23db0f69",
+    "createdAt": 1792112719204,
+    "expiresAt": 1792544719204,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Rapid Valley Annihilation ↔ Ravens Regime",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Retool",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Blake Corum",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2028 2nd · Ravens · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 2nd · Goblins · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Rapid Valley Annihilation proposes sending Blake Corum to Ravens Regime in exchange for two 2028 2nd-round draft picks (Ravens and Goblins). From Rapid Valley's retooling perspective, acquiring multiple 2nd-round picks for a back-up RB is strong asset accumulation, even though it temporarily leaves Ollie Gordon as RB2. However, for Ravens Regime—a playoff contender already boasting Derrick Henry, Kyle Monangai, Tony Pollard, and Tyjae Spears—Blake Corum does not enter the starting lineup or immediate FLEX rotation. Expecting a contender to surrender two top-50 future picks for bench RB depth represents an overask that is unlikely to be accepted. AVI recommends revising the offer to a single 2028 2nd-round pick to establish a realistic, market-aligned proposal.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Blake Corum",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 25,
+              "cavi": 64.7,
+              "davi": 74.7,
+              "publicMarket": 52,
+              "leagueMarket": 65
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2028 2nd · Ravens · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 2nd · Goblins · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "Rapid Valley Annihilation receives substantial value by netting two 2028 2nd-round picks for Blake Corum, perfectly matching their retooling timeline despite taking a minor temporary hit at starting RB2. However, the offer heavily disfavors Ravens Regime, who pays a premium price for an RB who would sit as their RB4 behind Derrick Henry, Kyle Monangai, and Tony Pollard without upgrading their starting 8."
+          },
+          "recommended": {
+            "userGrade": "B",
+            "otherGrade": "B",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Rapid Valley Annihilation",
+            "summary": "Revising the ask to a single 2028 2nd-round pick (2028 2nd · Ravens) creates a fair transaction where Rapid Valley secures desirable draft capital for a backup RB, while Ravens Regime gains hand-off RB depth at a market-appropriate price."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Downgrades starting RB2 from Blake Corum (64.7 C-AVI) to Ollie Gordon (55.2 C-AVI), slightly lowering short-term weekly projections."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Adds two 2028 2nd-round picks, bolstering the long-term draft inventory for the franchise's ongoing retool."
+            },
+            "lineupQuality": {
+              "score": -12,
+              "summary": "Removes Corum from the starting lineup, requiring Ollie Gordon or Jaylen Wright to assume starting RB2 duties."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Thins running back bench depth behind Quinshon Judkins."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Significantly expands future trading liquidity and draft assets with two additional 2nd-round picks."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Net positive portfolio gain for Rapid Valley Annihilation by capitalizing on Corum's value for future draft capital, though immediate RB starting strength takes a modest step back."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Zero immediate starting lineup impact; Corum sits behind Derrick Henry, Kyle Monangai, and Tony Pollard on the depth chart."
+            },
+            "dynastyOutlook": {
+              "score": -25,
+              "summary": "Drains two future top-50 draft picks without securing a long-term starter or high-impact cornerstone asset."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Starting lineup remains entirely unchanged (Lamar Jackson, Derrick Henry, Kyle Monangai, Zay Flowers, Carnell Tate, George Kittle, Kyle Pitts, Juwan Johnson)."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Provides extra running back insurance behind Derrick Henry and Kyle Monangai."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Depletes future round-two draft assets, limiting in-season trading leverage."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Net negative move for Ravens Regime, surrendering two 2nd-round picks for a player who does not Crack their starting lineup."
+            }
+          },
+          "explanation": "Rapid Valley Annihilation improves overall dynasty liquidity at the expense of minor short-term RB depth. Ravens Regime loses significant future draft flexibility while gaining an RB who offers no immediate starting utility for their playoff push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Rapid Valley Annihilation experiences a minor short-term C-AVI drop (-9.5) as starting RB2 moves from Blake Corum (64.7 C-AVI) to Ollie Gordon (55.2 C-AVI). In a retooling year, this trade-off is strategically acceptable.",
+          "sideADynastyImpact": "D-AVI increases through the acquisition of two 2028 2nd-round draft picks (48.5 D-AVI each), converting a back-up running back into liquid future draft assets.",
+          "sideARosterImpact": "Thins the RB room, shifting Ollie Gordon and Jaylen Wright into primary backup roles behind Quinshon Judkins.",
+          "sideBChampionshipImpact": "Zero starting C-AVI improvement for Ravens Regime. Corum's 64.7 C-AVI lags behind starting RBs Derrick Henry (95.0) and Kyle Monangai (73.3), as well as FLEX options Kittle (89.8), Pitts (74.3), Juwan Johnson (74.2), and Pollard (70.6).",
+          "sideBDynastyImpact": "Depletes 2028 draft inventory by relinquishing two 2nd-round picks for a non-starting backup back.",
+          "sideBRosterImpact": "Adds depth behind Derrick Henry and Kyle Monangai, but creates a roster logjam alongside Tony Pollard and Tyjae Spears.",
+          "valueAssessment": "Asset value favors Rapid Valley Annihilation. Two 2nd-round draft picks outweigh the individual market value of a clear RB2 handcuff like Blake Corum."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In public dynasty markets, Blake Corum is valued as a high-end handcuff / mid-to-low RB3 (dynasty RB30–RB36) whose upside is contingent on Kyren Williams' health. A single mid-2nd round pick is the consensus market price for Corum.",
+          "aviVsMarket": "AVI values Corum at 64.7 C-AVI / 74.7 D-AVI, aligning closely with public consensus. The ask of TWO 2nd-round picks represents a ~150% market valuation over current consensus.",
+          "relevantContext": [
+            "Corum is averaging 4.8 YPC in Los Angeles but remains firmly behind Kyren Williams in snap share.",
+            "Ravens Regime already owns deep RB depth (Derrick Henry, Kyle Monangai, Tony Pollard, Tyjae Spears).",
+            "Public consensus prices handcuff RBs like Corum at a single future 2nd-round pick."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is in a 'Playoff Push' window. Their motivation is focused on starting lineup upgrades or high-ceiling difference makers. Acquiring an RB depth piece behind Henry, Monangai, and Pollard is low priority.",
+          "packageFit": "Two 2nd-round picks is an overask for an unproven handcuff RB. Ravens Regime would likely reject spending two top-50 picks for bench insurance.",
+          "lineupReplacement": "Corum does not displace any current starter on Ravens Regime's roster.",
+          "competitiveWindowFit": "Surrendering multiple 2nd-round picks for a non-starting backup RB weakens Ravens Regime's future flexibility without boosting their 2026 title odds.",
+          "positionalScarcity": "While RB depth is valued in a 16-team league, Ravens Regime already possesses four usable running backs, diluting the scarcity urgency for Corum on their specific roster."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 8,
+            "packageMatch": 7,
+            "lineupReplacement": 0,
+            "competitiveWindow": 3
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 48,
+          "classification": "Unlikely",
+          "explanation": "While Blake Corum is available for trade, Ravens Regime has no structural need to overpay for a backup running back. With Derrick Henry, Kyle Monangai, and Tony Pollard on their roster, Corum does not start for Ravens Regime. Expecting a contender to surrender two 2028 2nd-round picks for an RB4 depth piece fails Manager Motivation, Package Match, Lineup Replacement, and Competitive Window checks."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Cashing out Blake Corum for draft capital aligns with Rapid Valley Annihilation's retooling goal. However, asking Ravens Regime for TWO 2nd-round picks is unrealistic given Ravens' existing RB depth and contender focus. Revising the request to a single 2028 2nd-round pick (2028 2nd · Ravens) makes the proposal fair, market-aligned, and far more likely to be accepted.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Blake Corum",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 25,
+              "cavi": 64.7,
+              "davi": 74.7,
+              "publicMarket": 52,
+              "leagueMarket": 65
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 2nd · Ravens · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "Secures a fair 2nd-round pick for a 25-year-old backup RB, advancing your retooling strategy without pricing yourself out of negotiations.",
+          "whyOpponentMightAccept": "Acquires high-upside RB depth behind Derrick Henry and Kyle Monangai at a standard, fair-market cost of a single future 2nd-round pick."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Blake Corum",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 25,
+              "cavi": 64.7,
+              "davi": 74.7,
+              "publicMarket": 52,
+              "leagueMarket": 65
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 2nd · Goblins · Projected mid range (2.06–2.09)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "Targeting the Goblins' 2028 2nd-round pick instead of Ravens' own pick provides identical pick-tier value for your retool."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Blake Corum Rams depth chart 2026",
+          "Blake Corum news 2026",
+          "Blake Corum dynasty value fantasy football 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFFXmt2xuY-U1yq8bo8MWlrxDnxzIUbCm2-f_ONf5H6RqQG7HI5XlMFV_DB8h4x99Hd64OafvXxzQSqhuT26hqetiaDLaPczYDCMfOGrjE4sJhYwxjtyTgMVD7vhtbxgp7fEpPijffWHG8TivbZs71ypZzmVuvT55f4LfFWZb8Rp2oH-PtGbI=",
+            "title": "usatoday.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOZPVS32khviMN2zMAAUVgG0Zq5DGUILH__hiCH418ZQzBeMnIHJqbcCT0KcN6CfNfdgwSKPpN4JwMI0vU3rJ_Bpox1Y-Z9PP5aY_TinMJowFJnk2uolqRNwyCjouyXjLUUvv51Pihle4aJEIkpf4ziS6Yp0GQ9CjKjhWIc9kDNc7qiqkamDgP1nttn6g=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_FXMwSl1R5-rpNH-RRqxOzIixJD9XJ_QtfLJ0GWVlVTz7_2KmxUA1FUzYkVcGphZCysvb3yJMhb6eBjUsMluRbssTFuRfPuYrY7fp3yLLyKXFw9UCU2og9Mtl4KeMfFjnWUgjSg==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFISC6LFX5mYYR_NiOpoccAHVNEOZZ1cdsRqi6PvRH6jLuUnEh8cGRloQYtkunHS9Vd9JGz-v8sJVOGStdRJPHXmevuPHcmTuRmoQLiZgxpH5guMoBGDg8qBDYhQP8BgkkkfHL8YowZKzlJXxlg6eSgK-sw-AYcV7CZeXSKA-pEu_z2r-b8",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeRtcOBZMi_WwmyOFhL2C1jYzBcudcTKSPMridEVnwdSYvnLt6AXbHEhKjsB5goH_v3GIUNsI4pbUNXrXPI79stX1QAMP6Scor20ojMBO0xWc0FHdDLMbfnibqi6O7ELxcrHWF-Ndaz4uhLHh_lT-BUGDQ2qumlmBOFcE0ED0yHpxLkho=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9P1-hKMPzO1unAJ1vc5zrmDIm2PINQz7pAOsEVz8haL-rPsGFTCtpLf7Cny153ApIjwoTYYa0ZpBrg29SYtdmUOGQHpJpoefT5gZGh3RiN3c8UYb7Vp1ui7o5XSqIDxTmQ7J5MMKD_xtbHnLtXv2myYNLnxY3xaPfueaRSWxnWDQYsce5ata2YphiAdkiYgxSiNmz8BR3k9AUlOk=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEelo1hkVEIIw8qrJgYWqcjvnUcjh2W1qOdO4SqKrIVzLdAefH-4v404dWiOh96Vah2vZ6QLRJ1YeAN1Ubn4RoKHkAiUqWdYBrtt8ms4k6Czz30h1w404tlMI2n0igHMuqGI2NEN3wQct-LeBHunA2o-_h84TiYCRkIU_Hxytj3mfvcGij700EBaA2A",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkzffSLG9q_BxTx7REdgYpQsk2dNgwT9_jb2MoU9Who4-L1JlbYADbYkAJobEymCgmPd06GYxOcE8DaZLvmfeMzne0UhbFywWB073c9iLtNCYYX7lXjtSRzKLKXj9XQQ==",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7278fed5a341ad6b7fbce0b6ee233b2daa37bd86",
+        "aviCoreCommittedAt": "2026-10-16T00:30:07Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 87695,
+        "groundedMarketChars": 1688,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mv8out92-09e46892",
     "createdAt": 1792017391332,
     "expiresAt": 1792449391332,
