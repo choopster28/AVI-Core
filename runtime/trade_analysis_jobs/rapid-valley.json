@@ -1,5 +1,39 @@
 [
   {
+    "id": "mva9m3ss-23db0f69",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Rapid Valley Annihilation",
+      "goal": "Retool",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Blake Corum",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2028 2nd · Ravens · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 2nd · Goblins · Projected mid range (2.06–2.09)",
+            "assetType": "pick"
+          }
+        ]
+      }
+    },
+    "createdAt": 1792112672188,
+    "updatedAt": 1792112672188,
+    "expiresAt": 1792544672188,
+    "status": "queued"
+  },
+  {
     "id": "mv8out92-09e46892",
     "phase": "initial",
     "mode": "analyze_trade",
