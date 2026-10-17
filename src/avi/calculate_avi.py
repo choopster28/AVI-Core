@@ -557,6 +557,7 @@ def calculate_projection_scores(
                     )
                 ),
                 "component_score": component,
+                "source": player.get("projection_source", "fantasypros"),
             }
 
     return scores
@@ -951,6 +952,14 @@ def build_avi_players() -> dict[str, Any]:
                 "c_avi": c_avi,
                 "d_avi": d_avi,
                 "projection": projection,
+                "data_sources": {
+                    "projection": projection.get("source", "fantasypros") if isinstance(projection, dict) else "unavailable",
+                    "redraft_market": "fantasypros",
+                    "dynasty_market": "fantasypros",
+                    "news": "fantasypros",
+                    "injury": "sleeper_preferred_fantasypros_fallback",
+                    "production": "pending_completed_week_transition",
+                },
                 "components": {
                     "projection": (
                         projection_component
