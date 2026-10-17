@@ -2265,7 +2265,7 @@
     "sport": "nfl",
     "sportradar_id": "5d4a5e4f-7c74-4b4c-b8e5-33bb831e3057",
     "stats_id": null,
-    "status": "Inactive",
+    "status": "Active",
     "swish_id": 1121873,
     "team": "IND",
     "team_abbr": null,
@@ -58981,7 +58981,7 @@
       "genius_id": "1463651",
       "rookie_year": "2024"
     },
-    "news_updated": 1792183241550,
+    "news_updated": 1792255845099,
     "number": 15,
     "oddsjam_id": "756F5E81CF21",
     "opta_id": null,
@@ -59767,7 +59767,7 @@
       "genius_id": "1464108",
       "rookie_year": "2024"
     },
-    "news_updated": 1791914147560,
+    "news_updated": 1792255545252,
     "number": 28,
     "oddsjam_id": "0AC65EBD1FE6",
     "opta_id": null,
@@ -71165,7 +71165,7 @@
     "injury_body_part": "Pectoral",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "a72e9b3c-3f09-4317-a0b8-0f595d935404",
     "last_name": "Jean-Baptiste",
     "metadata": {
@@ -116356,7 +116356,7 @@
       "rookie_year": "2025",
       "source_id": "53043fac-4bd3-4c20-8b72-b33f9da5ba60"
     },
-    "news_updated": 1791807928587,
+    "news_updated": 1792256445102,
     "number": 86,
     "oddsjam_id": "7B199EFCFEA900D6",
     "opta_id": null,
@@ -116728,7 +116728,7 @@
       "rookie_year": "2025",
       "source_id": "518e2210-8949-11ec-b2b8-adecafc94fa4"
     },
-    "news_updated": 1791945933887,
+    "news_updated": 1792257345408,
     "number": 5,
     "oddsjam_id": "29F5CB23C3B9DBA7",
     "opta_id": null,
@@ -117033,7 +117033,7 @@
       "rookie_year": "2025",
       "source_id": "231e3d24-a5eb-42d3-9cae-b1a2f92a86c9"
     },
-    "news_updated": 1791851105531,
+    "news_updated": 1792257345417,
     "number": 84,
     "oddsjam_id": "66B28B7BD1BA0685",
     "opta_id": null,
@@ -117345,7 +117345,7 @@
       "rookie_year": "2025",
       "source_id": "655f27c0-91f6-11ec-9587-0f8fa2cff168"
     },
-    "news_updated": 1792010407446,
+    "news_updated": 1792255545256,
     "number": 8,
     "oddsjam_id": "E3451FFC31D3D886",
     "opta_id": null,
@@ -119113,7 +119113,7 @@
     "injury_body_part": "Groin",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "fe3a96c3-bd0a-4f61-b31d-8e3244388909",
     "last_name": "Croskey-Merritt",
     "metadata": {
@@ -119122,7 +119122,7 @@
       "rookie_year": "2025",
       "source_id": "b4848e19-5a52-49a3-8c6f-179fe308ff03"
     },
-    "news_updated": 1792251044942,
+    "news_updated": 1792256745209,
     "number": 22,
     "oddsjam_id": "15DB9017F739D3E5",
     "opta_id": null,
@@ -169035,7 +169035,7 @@
       "rookie_year": "2026",
       "source_id": "6975fac0-86cd-11ec-91b7-bfe197069085"
     },
-    "news_updated": 1792253144786,
+    "news_updated": 1792256145756,
     "number": 11,
     "oddsjam_id": null,
     "opta_id": null,
@@ -170198,7 +170198,7 @@
       "rookie_year": "2026",
       "source_id": "6567cbc0-9eaf-11ed-b23c-b1b7c283bdf7"
     },
-    "news_updated": 1792251944956,
+    "news_updated": 1792254344884,
     "number": 6,
     "oddsjam_id": null,
     "opta_id": null,
@@ -206614,7 +206614,7 @@
       "genius_id": "1485451",
       "rookie_year": "2026"
     },
-    "news_updated": 1791819928642,
+    "news_updated": 1792254044902,
     "number": 34,
     "oddsjam_id": null,
     "opta_id": null,
@@ -281596,7 +281596,7 @@
     "injury_body_part": "Knee - MCL",
     "injury_notes": "Sprain",
     "injury_start_date": null,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "kalshi_id": "d7ccd15c-adc1-4730-8f60-360d9739168b",
     "last_name": "Mariota",
     "metadata": {
@@ -281604,7 +281604,7 @@
       "genius_id": "835718",
       "rookie_year": "2015"
     },
-    "news_updated": 1792111533513,
+    "news_updated": 1792256445610,
     "number": 8,
     "oddsjam_id": "F69E8724A59D",
     "opta_id": null,
@@ -347306,7 +347306,7 @@
       "injury_override_regular_2026_6": "Active",
       "rookie_year": "2016"
     },
-    "news_updated": 1792003508315,
+    "news_updated": 1792257345383,
     "number": 10,
     "oddsjam_id": "E207E864C191",
     "opta_id": null,
@@ -512029,10 +512029,10 @@
     "hashtag": "#dkmetcalf-NFL-PIT-4",
     "height": "76",
     "high_school": "Oxford (MS)",
-    "injury_body_part": "Illness",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "b7ce0d2b-ad08-4335-896f-242ff44d6204",
     "last_name": "Metcalf",
     "metadata": {
@@ -512040,7 +512040,7 @@
       "genius_id": "1014088",
       "rookie_year": "2019"
     },
-    "news_updated": 1792245943952,
+    "news_updated": 1792255546501,
     "number": 4,
     "oddsjam_id": "08359C9C433B",
     "opta_id": null,
@@ -517932,7 +517932,7 @@
     "injury_body_part": "Groin",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "744873dc-f50c-4064-a975-82778c43dff2",
     "last_name": "Omenihu",
     "metadata": {
@@ -554035,7 +554035,7 @@
       "genius_id": "164643",
       "rookie_year": "2007"
     },
-    "news_updated": 1791825903291,
+    "news_updated": 1792256145059,
     "number": 6,
     "oddsjam_id": "194672B0A0A5",
     "opta_id": null,
@@ -572932,7 +572932,7 @@
       "genius_id": "1012460",
       "rookie_year": "2020"
     },
-    "news_updated": 1792011608476,
+    "news_updated": 1792255245010,
     "number": 10,
     "oddsjam_id": "8959F596AE5D",
     "opta_id": null,
@@ -625830,10 +625830,10 @@
     "hashtag": "#patfreiermuth-NFL-PIT-88",
     "height": "77",
     "high_school": "Brooks School (MA)",
-    "injury_body_part": null,
+    "injury_body_part": "Calf",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "ae9dfc4d-a5f7-4147-ac72-ce7a52c277b4",
     "last_name": "Freiermuth",
     "metadata": {
@@ -625841,7 +625841,7 @@
       "genius_id": "1077902",
       "rookie_year": "2021"
     },
-    "news_updated": 1792201538338,
+    "news_updated": 1792256445135,
     "number": 88,
     "oddsjam_id": "81427E8B8D7A",
     "opta_id": null,
@@ -660324,7 +660324,7 @@
       "genius_id": "1077900",
       "rookie_year": "2022"
     },
-    "news_updated": 1791943233688,
+    "news_updated": 1792256745213,
     "number": 4,
     "oddsjam_id": "440F4701CDD2",
     "opta_id": null,
@@ -667322,7 +667322,7 @@
       "genius_id": "1010767",
       "rookie_year": "2022"
     },
-    "news_updated": 1792131636620,
+    "news_updated": 1792254045363,
     "number": 33,
     "oddsjam_id": "CFF3066AAA73",
     "opta_id": null,
@@ -719345,7 +719345,7 @@
       "genius_id": "1398986",
       "rookie_year": "2023"
     },
-    "news_updated": 1791654304939,
+    "news_updated": 1792254345338,
     "number": 19,
     "oddsjam_id": "8CF89A8C53F6",
     "opta_id": null,
@@ -720552,7 +720552,7 @@
       "genius_id": "1400569",
       "rookie_year": "2023"
     },
-    "news_updated": 1791912947536,
+    "news_updated": 1792255845101,
     "number": 34,
     "oddsjam_id": "5222B174E30D",
     "opta_id": null,
@@ -722251,7 +722251,7 @@
       "genius_id": "1398594",
       "rookie_year": "2023"
     },
-    "news_updated": 1792184741763,
+    "news_updated": 1792256145060,
     "number": 1,
     "oddsjam_id": "4756EE52951F",
     "opta_id": null,
