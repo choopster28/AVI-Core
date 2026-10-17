@@ -62,10 +62,17 @@ def update_sleeper_valuation_sources() -> dict[str, Any]:
     """Cache usable Sleeper feeds; absent feeds explicitly leave FantasyPros in control."""
     session = requests.Session()
     status: dict[str, Any] = {"status": "passed", "season": SEASON, "feeds": {}}
-    # Fetch completed and current weeks independently. The in-season calculation
-    # filters partial weeks using the same completed-week verification as FantasyPros.
+    # Do not make eighteen unnecessary HTTP requests during early season.
+    # NFL state is the same canonical clock used by the in-season transition.
+    try:
+        state = session.get(f"{BASE}/state/nfl", timeout=15)
+        state.raise_for_status()
+        week = int(state.json().get("week") or 1)
+        current_week = max(1, min(18, week))
+    except (requests.RequestException, ValueError, TypeError, AttributeError):
+        current_week = 18  # conservative coverage when league clock is unavailable
     for kind in ("stats", "projections"):
-        weeks = range(1, 19) if kind == "stats" else (None,)
+        weeks = range(1, current_week + 1) if kind == "stats" else (None,)
         for week in weeks:
             key = f"{kind}_week_{week}" if week is not None else "projections_season"
             url = f"{BASE}/{kind}/nfl/regular/{SEASON}"
