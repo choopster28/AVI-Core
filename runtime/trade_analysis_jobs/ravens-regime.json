@@ -1,5 +1,41 @@
 [
   {
+    "id": "mvbsqf15-f6de2141",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Northside Kings",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Josh Downs",
+          "assetType": "player"
+        },
+        {
+          "name": "Juwan Johnson",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 4th · Conquistadors · Projected late range (4.10–4.16)",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Mike Evans",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1792205252249,
+    "updatedAt": 1792205252249,
+    "expiresAt": 1792637252249,
+    "status": "queued"
+  },
+  {
     "id": "mv9pgpmp-8ab4aa07",
     "phase": "final",
     "mode": "propose_trade",
