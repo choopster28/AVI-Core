@@ -87,23 +87,33 @@ def _load_injury_state() -> dict[str, dict[str, Any]]:
     return merged
 
 
+def _sleeper_actionable(state: dict[str, Any]) -> bool:
+    sleeper = state.get("sleeper") if isinstance(state.get("sleeper"), dict) else {}
+    designation = _norm(sleeper.get("injury_status"))
+    roster = _norm(sleeper.get("status"))
+    return bool(designation) or roster in {"ir", "pup", "nfi", "out", "injured reserve", "reserve injured"}
+
+
+def _status_source(state: dict[str, Any]) -> str:
+    return "sleeper" if _sleeper_actionable(state) else "fantasypros"
+
+
 def _status_text(state: dict[str, Any]) -> str:
+    """Sleeper's actionable designation supersedes a conflicting FantasyPros status."""
     sleeper = state.get("sleeper") if isinstance(state.get("sleeper"), dict) else {}
     fantasypros = state.get("fantasypros") if isinstance(state.get("fantasypros"), dict) else {}
-    pieces = [
-        sleeper.get("injury_status"),
-        sleeper.get("status"),
-        fantasypros.get("status"),
-        fantasypros.get("status_short"),
-        fantasypros.get("injury_type"),
-        fantasypros.get("practice_report_injury_type"),
-    ]
-    return " ".join(_norm(piece) for piece in pieces if piece)
+    if _sleeper_actionable(state):
+        return " ".join(_norm(v) for v in (sleeper.get("injury_status"), sleeper.get("status")) if v)
+    return " ".join(_norm(v) for v in (
+        fantasypros.get("status"), fantasypros.get("status_short"),
+    ) if v)
 
 
 def _comment_text(state: dict[str, Any]) -> str:
+    # FantasyPros can supplement a non-conflicting Sleeper designation,
+    # but a stale season-ending comment must not override Sleeper's current status.
     fantasypros = state.get("fantasypros") if isinstance(state.get("fantasypros"), dict) else {}
-    return _norm(fantasypros.get("comment"))
+    return "" if _sleeper_actionable(state) else _norm(fantasypros.get("comment"))
 
 
 def _future_ir_weeks(state: dict[str, Any], current_week: int) -> float:
@@ -261,6 +271,7 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
             "championship_horizon_end_week": FANTASY_CHAMPIONSHIP_END_WEEK,
             "reason_code": reason_code,
             "status": status_text,
+            "status_source": _status_source(state),
             "projection_aware": True,
             "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
         }
@@ -291,6 +302,7 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
         "players_capped": len(applied),
         "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
         "sources": ["Sleeper NFL player injury status", "FantasyPros injuries"],
+        "source_priority": ["sleeper_actionable_designation", "fantasypros_fallback"],
     }
 
     write_json(AVI_PLAYERS_PATH, players)
