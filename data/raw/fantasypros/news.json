@@ -9,6 +9,61 @@
         "News",
         "Injury"
       ],
+      "created": "2026-10-17 20:45:47",
+      "created_formated": "Sat, Oct 17th 8:45pm UTC",
+      "desc": "Ja'Kobi Lane (wrist) has been activated from IR, clearing the way for him to return against Cleveland.",
+      "id": 614435,
+      "impact": "Lane has been out since fracturing his wrist in Week 1, so it will be interesting to see what his snap counts and route shares look like after the IR stint. The team praised him all offseason and focused on him during his brief playing time in Week 1, so hopefully he will be able to find himself a decent role as the WR2 of the offense.",
+      "link": "https://www.fantasypros.com/nfl/news/614435/jakobi-lane.php",
+      "player_id": 27337,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Ja'Kobi Lane (wrist) activated off of IR, will play against Cleveland"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-10-17 20:37:57",
+      "created_formated": "Sat, Oct 17th 8:37pm UTC",
+      "desc": "Caleb Williams (hamstring) is the starter for the Bears on Sunday against the Falcons. After a few weeks' absence, the franchise QB is back.",
+      "id": 614434,
+      "impact": "Williams was initially questionable to play, but the Bears are now planning on getting him back in the lineup after a week of practice where he took starter reps. It will be interesting to see Caleb in a more \"regular\" game and how it affects the pass catchers, who have only played with Caleb in one normal game, and even that \"normal\" game saw copious amounts of production from the running backs. ",
+      "link": "https://www.fantasypros.com/nfl/news/614434/caleb-williams-hamstring-starting-bears-sunday.php",
+      "player_id": 23084,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Caleb Williams (hamstring) starting for the Bears Sunday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-10-17 20:31:15",
+      "created_formated": "Sat, Oct 17th 8:31pm UTC",
+      "desc": "Jalen Hurts (blood clot) has been placed on IR due to a blood clot.",
+      "id": 614433,
+      "impact": "At first the Eagles were not going to place him on IR, but after further consultations, they have decided to make that move. Tanner McKee will start in his place for at least the next four games, with Carolina on tap tomorrow. All the pass catchers will likely see a downtick in production, but should still be usable if McKee is halfway decent.",
+      "link": "https://www.fantasypros.com/nfl/news/614433/jalen-hurts-blood-clot-placed-on-ir.php",
+      "player_id": 19275,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Jalen Hurts (blood clot) placed on IR"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
       "created": "2026-10-17 13:18:11",
       "created_formated": "Sat, Oct 17th 1:18pm UTC",
       "desc": "A.J. Brown (ankle) is expected to be activated from IR on Saturday and play on Sunday against the Jets.",
@@ -19,6 +74,42 @@
       "sport_id": "NFL",
       "team_id": "NE",
       "title": "A.J. Brown (ankle) likely to be activated from IR on Saturday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 16:41:39",
+      "created_formated": "Sat, Oct 17th 4:41pm UTC",
+      "desc": "Pat Freiermuth has been added to the injury report as questionable for Sunday's game against the Buccaneers. ",
+      "id": 614432,
+      "impact": "Freiermuth was a late addition to the injury report with a calf injury. His status will need to be monitored Sunday morning. ",
+      "link": "https://www.fantasypros.com/nfl/news/614432/pat-freiermuth-calf-now-questionable-sunday.php",
+      "player_id": 20163,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Pat Freiermuth (calf) now questionable Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 16:40:25",
+      "created_formated": "Sat, Oct 17th 4:40pm UTC",
+      "desc": "DK Metcalf is off the injury report for Sunday's game against the Buccaneers. ",
+      "id": 614431,
+      "impact": "Metcalf had been listed as questionable with an illness. He'll be good to go with the Steelers wide receiver room depleted. ",
+      "link": "https://www.fantasypros.com/nfl/news/614431/dk-metcalf-illness-off-injury-report-sunday.php",
+      "player_id": 18219,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "DK Metcalf (illness) off injury report Sunday "
     },
     {
       "author": "Ari Koslow",
@@ -360,96 +451,6 @@
       "sport_id": "NFL",
       "team_id": "CLE",
       "title": "Denzel Boston (foot) good to go for Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 21:07:20",
-      "created_formated": "Fri, Oct 16th 9:07pm UTC",
-      "desc": "Tyler Higbee is off the injury report for Sunday's game against the Cardinals. ",
-      "id": 614382,
-      "impact": "Higbee will be good to go despite not practicing on Friday. ",
-      "link": "https://www.fantasypros.com/nfl/news/614382/tyler-higbee-off-injury-report-sunday.php",
-      "player_id": 15623,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Tyler Higbee off injury report Sunday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 21:06:47",
-      "created_formated": "Fri, Oct 16th 9:06pm UTC",
-      "desc": "Andrew Vorhees (foot) is questionable for Sunday's game against the Cleveland Browns.",
-      "id": 614381,
-      "impact": "Vorhees is uncertain to play on Sunday, as he's still dealing with a foot issue of some kind. If he's sidelined, the interior of Baltimore's offensive line will be weakened with Cam Jurgens (concussion) also out and Emery Jones Jr. (ankle) questionable for Week 6.",
-      "link": "https://www.fantasypros.com/nfl/news/614381/andrew-vorhees-foot-questionable-week-6.php",
-      "player_id": 23836,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Andrew Vorhees (foot) questionable for Week 6"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 21:06:30",
-      "created_formated": "Fri, Oct 16th 9:06pm UTC",
-      "desc": "Davis Allen is off the injury report for Sunday's game against the Cardinals. ",
-      "id": 614380,
-      "impact": "Allen remains off the fantasy radar. ",
-      "link": "https://www.fantasypros.com/nfl/news/614380/davis-allen-foot-off-injury-report-sunday.php",
-      "player_id": 23761,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Davis Allen (foot) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 21:05:52",
-      "created_formated": "Fri, Oct 16th 9:05pm UTC",
-      "desc": "Kam Curl is listed as questionable for Sunday's game against the Cardinals. ",
-      "id": 614379,
-      "impact": "Curl did not practice on Friday. His status will need to be monitored closer to kickoff. ",
-      "link": "https://www.fantasypros.com/nfl/news/614379/kam-curl-ankle-listed-questionable-sunday.php",
-      "player_id": 19459,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Kam Curl (ankle) listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 21:04:02",
-      "created_formated": "Fri, Oct 16th 9:04pm UTC",
-      "desc": "Blake Gillikin is listed as questionable for Sunday's game against the Rams. ",
-      "id": 614378,
-      "impact": "Gillikin was added to the injury report on Friday. ",
-      "link": "https://www.fantasypros.com/nfl/news/614378/blake-gillikin-back-listed-questionable-sunday.php",
-      "player_id": 19720,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Blake Gillikin (back) listed questionable Sunday "
     }
   ],
   "public_api": true,

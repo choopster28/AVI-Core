@@ -1,6 +1,6 @@
 {
-  "avi_generated_at_utc": "2026-10-17T15:29:45.783766+00:00",
-  "checked_at_utc": "2026-10-17T15:29:47.123525+00:00",
+  "avi_generated_at_utc": "2026-10-17T21:51:11.692647+00:00",
+  "checked_at_utc": "2026-10-17T21:51:12.894700+00:00",
   "counts": {
     "avi_players": 479,
     "player_lookup": 479,
@@ -21,6 +21,10 @@
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 6,
+    "production_source_priority": [
+      "sleeper",
+      "fantasypros"
+    ],
     "status": "active"
   },
   "status": "passed"
