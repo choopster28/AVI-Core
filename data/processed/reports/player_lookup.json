@@ -1414,7 +1414,7 @@
       "player_name": "Savion Williams",
       "position": "WR",
       "sleeper_id": "12482",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -4350,7 +4350,7 @@
       "position": "WR",
       "roster_id": 3,
       "sleeper_id": "13293",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
     },
@@ -4510,7 +4510,7 @@
       "position": "QB",
       "roster_id": 4,
       "sleeper_id": "6904",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
     },
