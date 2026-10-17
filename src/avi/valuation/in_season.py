@@ -379,6 +379,7 @@ def apply_in_season_transition() -> dict[str, Any]:
         components["player_points"] = actual_component
         point_record = completed_points.get(avi_id)
         components["elite_upside"] = upside
+        player.setdefault("data_sources", {})["production"] = point_record.get("production_source", "fantasypros") if point_record else "unavailable"
         player["in_season_player_points"] = {
             "ppr_points_per_game": round(float(point_record["raw_points"]), 2) if point_record else 0.0,
             "season_points": round(float(point_record.get("season_points") or 0.0), 2) if point_record else 0.0,
