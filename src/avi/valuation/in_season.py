@@ -7,6 +7,7 @@ from urllib.request import Request, urlopen
 import json
 
 from avi.io import read_json, write_json
+from avi.sleeper.valuation_sources import load_sleeper_weekly_points
 from avi.valuation.calculator import CAVIComponents, DAVIComponents, calculate_c_avi, calculate_d_avi
 
 
@@ -214,6 +215,31 @@ def _completed_points(
             "games": float(games),
             "weekly_ceiling": max(completed.values()) if completed else 0.0,
         }
+    # Sleeper takes precedence independently for each completed player/week.
+    # A missing Sleeper player/week retains the FantasyPros observation.
+    registry = read_json(REGISTRY_PATH)
+    sleeper_to_avi = {
+        str(row["source_ids"]["sleeper_id"]): str(row["avi_id"])
+        for row in registry
+        if isinstance(row, dict) and isinstance(row.get("source_ids"), dict)
+        and row["source_ids"].get("sleeper_id") is not None
+    } if isinstance(registry, list) else {}
+    sleeper_points = load_sleeper_weekly_points(completed_through)
+    for sleeper_id, weekly in sleeper_points.items():
+        avi_id = sleeper_to_avi.get(sleeper_id)
+        if not avi_id or avi_id not in result:
+            continue
+        original = result[avi_id]
+        merged = dict(original["weeks"])
+        merged.update(weekly)
+        original["weeks"] = merged
+        original["season_points"] = sum(merged.values())
+        original["games"] = float(len(merged))
+        original["raw_points"] = original["season_points"] / len(merged) if merged else 0.0
+        original["weekly_ceiling"] = max(merged.values()) if merged else 0.0
+        original["production_source"] = "sleeper" if len(weekly) == len(merged) else "mixed_sleeper_fantasypros"
+    for original in result.values():
+        original.setdefault("production_source", "fantasypros")
     return result
 
 
@@ -303,6 +329,7 @@ def apply_in_season_transition() -> dict[str, Any]:
         "mapped_player_point_records": mapped_records,
         "current_week_schedule_complete": current_week_complete,
         "completion_sources": ["Sleeper NFL state", "ESPN NFL scoreboard"],
+        "production_source_priority": ["sleeper", "fantasypros"],
         "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     }
 
@@ -360,7 +387,7 @@ def apply_in_season_transition() -> dict[str, Any]:
             "weekly_ceiling_points": round(float(point_record.get("weekly_ceiling") or 0.0), 2) if point_record else 0.0,
             "weekly_ceiling_component": upside,
             "completed_through_week": completed_through,
-            "source": "FantasyPros current-season player points",
+            "source": point_record.get("production_source", "fantasypros") if point_record else "unavailable",
         }
 
         d_components = {
