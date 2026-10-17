@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 16
-- Last updated from Sleeper exports: 2026-10-16
+- Last updated from Sleeper exports: 2026-10-17
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 565.0
-- championship_lineup_c_avi_avg: 70.62
+- championship_lineup_c_avi_sum: 565.1
+- championship_lineup_c_avi_avg: 70.64
 - offensive_roster_c_avi_sum: 919.7
 - offensive_roster_c_avi_avg: 51.09
 - offensive_roster_d_avi_sum: 1102.3
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Jaylen Waddle | C-AVI: 70.6 | D-AVI: 85.9
 - TE: Mike Gesicki | C-AVI: 52.7 | D-AVI: 49.2
 - FLEX: Ladd McConkey | C-AVI: 63.6 | D-AVI: 85.5
-- FLEX: Rashod Bateman | C-AVI: 49.3 | D-AVI: 56.4
+- FLEX: Rashod Bateman | C-AVI: 49.4 | D-AVI: 56.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 49.3
+- Championship AVI (C-AVI, 0-100): 49.4
 - Dynasty AVI (D-AVI, 0-100): 56.4
 - Projected PPR points: 123.7
 - Category: offense
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 47.8
+- Championship AVI (C-AVI, 0-100): 47.7
 - Dynasty AVI (D-AVI, 0-100): 52.3
 - Projected PPR points: 62.9
 - Category: offense

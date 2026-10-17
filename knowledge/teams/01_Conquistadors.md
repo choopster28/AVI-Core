@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-10-16
+- Last updated from Sleeper exports: 2026-10-17
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,7 +23,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 697.2
 - championship_lineup_c_avi_avg: 87.15
-- offensive_roster_c_avi_sum: 1129.7
+- offensive_roster_c_avi_sum: 1129.6
 - offensive_roster_c_avi_avg: 62.76
 - offensive_roster_d_avi_sum: 1288.6
 - offensive_roster_d_avi_avg: 71.59
@@ -154,8 +154,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: SF
 - Active: True
 - Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 34.9
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 34.8
 - Dynasty AVI (D-AVI, 0-100): 47.0
 - Projected PPR points: 88.6
 - Category: offense
