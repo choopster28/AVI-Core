@@ -3,6 +3,240 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 13:18:11",
+      "created_formated": "Sat, Oct 17th 1:18pm UTC",
+      "desc": "A.J. Brown (ankle) is expected to be activated from IR on Saturday and play on Sunday against the Jets.",
+      "id": 614430,
+      "impact": "After a four game stint on IR with an ankle sprain, it looks like Brown will return. The Patriots receiver room has been a revolving door of production, with Romeo Doubs, Kyle Williams, and Efton Chism all seeing some sort of success with AJB out. Browns return will likely put Williams and Chism back in limited roles, but Doubs should still she the field fairly consistently.",
+      "link": "https://www.fantasypros.com/nfl/news/614430/aj-brown-ankle-likely-to-be-activated-from-ir-on-saturday.php",
+      "player_id": 18218,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "A.J. Brown (ankle) likely to be activated from IR on Saturday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:19:30",
+      "created_formated": "Sat, Oct 17th 5:19am UTC",
+      "desc": "Mykel Williams was limited in practice on Friday. ",
+      "id": 614400,
+      "impact": "Williams will need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614400/mykel-williams-knee-limited-practice-friday.php",
+      "player_id": 27013,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Mykel Williams (knee) limited in practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:18:34",
+      "created_formated": "Sat, Oct 17th 5:18am UTC",
+      "desc": "James Thompson Jr. was officially limited in practice on Friday. ",
+      "id": 614399,
+      "impact": "Thompson will need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614399/james-thompson-jr-ankle-limited-practice-friday.php",
+      "player_id": 28559,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "James Thompson Jr. (ankle) limited in practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:17:51",
+      "created_formated": "Sat, Oct 17th 5:17am UTC",
+      "desc": "Upton Stout was limited in practice on Friday. ",
+      "id": 614398,
+      "impact": "Stout will need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614398/upton-stout-shoulder-limited-practice-friday.php",
+      "player_id": 27246,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Upton Stout (shoulder) limited in practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:17:01",
+      "created_formated": "Sat, Oct 17th 5:17am UTC",
+      "desc": "Siran Neal was limited in practice on Friday. ",
+      "id": 614397,
+      "impact": "Neal will need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614397/siran-neal-neck-limited-practice-friday.php",
+      "player_id": 17531,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Siran Neal (neck) limited in practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:16:15",
+      "created_formated": "Sat, Oct 17th 5:16am UTC",
+      "desc": "Colton McKivitz was limited in practice on Friday. ",
+      "id": 614396,
+      "impact": "McKivitz will need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614396/colton-mckivitz-illness-limited-practice-friday.php",
+      "player_id": 19576,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Colton McKivitz (illness) limited in practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:15:21",
+      "created_formated": "Sat, Oct 17th 5:15am UTC",
+      "desc": "Christian Kirk was limited in practice on Friday. ",
+      "id": 614395,
+      "impact": "Kirk will have a chance to be activated for Monday's game against the Commanders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614395/christian-kirk-calf-limited-practice-friday.php",
+      "player_id": 17268,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Christian Kirk (calf) limited in practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:14:07",
+      "created_formated": "Sat, Oct 17th 5:14am UTC",
+      "desc": "Garret Wallow missed practice on Friday. ",
+      "id": 614394,
+      "impact": "Wallow remains week-to-week. ",
+      "link": "https://www.fantasypros.com/nfl/news/614394/garret-wallow-hamstring-does-not-practice-friday.php",
+      "player_id": 23206,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Garret Wallow (hamstring) does not practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:13:19",
+      "created_formated": "Sat, Oct 17th 5:13am UTC",
+      "desc": "Marques Sigle missed practice on Friday. ",
+      "id": 614393,
+      "impact": "Sigle will need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614393/marques-sigle-ankle-does-not-practice-friday.php",
+      "player_id": 27477,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Marques Sigle (ankle) does not practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:12:26",
+      "created_formated": "Sat, Oct 17th 5:12am UTC",
+      "desc": "Deebo Samuel Sr. did not practice on Friday. ",
+      "id": 614392,
+      "impact": "Samuel is likely to miss at least one game. He remains week-to-week. ",
+      "link": "https://www.fantasypros.com/nfl/news/614392/deebo-samuel-sr-hamstring-misses-practice-friday.php",
+      "player_id": 18244,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Deebo Samuel Sr. (hamstring) misses practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:11:31",
+      "created_formated": "Sat, Oct 17th 5:11am UTC",
+      "desc": "Gracen Halton did not practice on Friday. ",
+      "id": 614391,
+      "impact": "Halton will need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614391/gracen-halton-quad-misses-practice-friday.php",
+      "player_id": 28234,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Gracen Halton (quad) misses practice Friday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-17 05:10:40",
+      "created_formated": "Sat, Oct 17th 5:10am UTC",
+      "desc": "Mike Evans did not practice on Friday. ",
+      "id": 614390,
+      "impact": "Evans missed his second straight day of practice. He'll need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614390/mike-evans-ribsachilles-misses-practice-friday.php",
+      "player_id": 12119,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Mike Evans (ribs/Achilles) misses practice Friday "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-16 17:18:34",
+      "created_formated": "Fri, Oct 16th 5:18pm UTC",
+      "desc": "Michael Penix Jr. (ribs) is off of the Falcons injury report and will play on Sunday against the Bears.",
+      "id": 614248,
+      "impact": "Penix was on the injury report most of the week with a ribs injury but looks good to go against the Bears. He doesn't have a super high ceiling, and he's hovered around low-end QB2 territory since returning from injury, but against the Bears soft defense, he could put up a usable performance this week.",
+      "link": "https://www.fantasypros.com/nfl/news/614248/michael-penix-jr-ribs-off-injury-report-will-play-sunday.php",
+      "player_id": 22973,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Michael Penix Jr. (ribs) off injury report, will play Sunday"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -216,240 +450,6 @@
       "sport_id": "NFL",
       "team_id": "ARI",
       "title": "Blake Gillikin (back) listed questionable Sunday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 21:03:14",
-      "created_formated": "Fri, Oct 16th 9:03pm UTC",
-      "desc": "John Simpson (groin) will be active for Sunday's game against the Cleveland Browns.",
-      "id": 614377,
-      "impact": "The veteran lineman will be available to play on Sunday, despite being a non-participant at Thursday's practice due to his groin issue. He should continue to be a solid starter for the Ravens moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/614377/john-simpson-groin-active-sunday.php",
-      "player_id": 19244,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "John Simpson (groin) active for Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 21:03:01",
-      "created_formated": "Fri, Oct 16th 9:03pm UTC",
-      "desc": "Kitan Crawford is listed as questionable for Sunday's game against the Rams. ",
-      "id": 614376,
-      "impact": "Crawford will have a chance to be activated from injured reserve on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/614376/kitan-crawford-ankle-listed-questionable-sunday.php",
-      "player_id": 27474,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Kitan Crawford (ankle) listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 21:02:10",
-      "created_formated": "Fri, Oct 16th 9:02pm UTC",
-      "desc": "Zaven Collins is listed as questionable for Sunday's game against the Rams. ",
-      "id": 614375,
-      "impact": "Collins was added to the injury report for Friday. His status is uncertain for Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/614375/zaven-collins-hip-listed-questionable-sunday.php",
-      "player_id": 22698,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Zaven Collins (hip) listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 21:01:10",
-      "created_formated": "Fri, Oct 16th 9:01pm UTC",
-      "desc": "Budda Baker is listed as questionable for Sunday's game against the Rams. ",
-      "id": 614374,
-      "impact": "Baker did not practice on Wednesday or Friday this week. His status will need to be monitored closer to kickoff. ",
-      "link": "https://www.fantasypros.com/nfl/news/614374/budda-baker-restgroin-listed-questionable-sunday.php",
-      "player_id": 16733,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Budda Baker (rest/groin) listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 20:59:52",
-      "created_formated": "Fri, Oct 16th 8:59pm UTC",
-      "desc": "Andrew Wingard has been ruled out for Sunday's game against the Rams. ",
-      "id": 614373,
-      "impact": "Wingard remained sidelined from practice all week. ",
-      "link": "https://www.fantasypros.com/nfl/news/614373/andrew-wingard-knee-ruled-out-sunday.php",
-      "player_id": 18576,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Andrew Wingard (knee) ruled out Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 20:58:31",
-      "created_formated": "Fri, Oct 16th 8:58pm UTC",
-      "desc": "Wydett Williams Jr. has been ruled out for Sunday's game against the Rams. ",
-      "id": 614372,
-      "impact": "Williams will be sidelined in concussion protocol. ",
-      "link": "https://www.fantasypros.com/nfl/news/614372/wydett-williams-jr-concussion-ruled-out-sunday.php",
-      "player_id": 28569,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Wydett Williams Jr. (concussion) ruled out Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 20:56:23",
-      "created_formated": "Fri, Oct 16th 8:56pm UTC",
-      "desc": "Ja'Marcus Ingram is listed as questionable for Sunday's game against the Jaguars. ",
-      "id": 614371,
-      "impact": "Ingram will be a game-time decision on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/614371/jamarcus-ingram-listed-questionable-sunday.php",
-      "player_id": 24940,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Ja'Marcus Ingram listed questionable Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 20:55:29",
-      "created_formated": "Fri, Oct 16th 8:55pm UTC",
-      "desc": "Henry To'oTo'o is listed as questionable for Sunday's game against the Jaguars. ",
-      "id": 614370,
-      "impact": "To'oTo'o had his practice window opened this week. He'll be a game-time decision on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/614370/henry-tootoo-shoulder-listed-questionable-sunday.php",
-      "player_id": 23766,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Henry To'oTo'o (shoulder) listed questionable Sunday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 20:55:25",
-      "created_formated": "Fri, Oct 16th 8:55pm UTC",
-      "desc": "Ja'Kobi Lane (wrist) is officially questionable for Sunday's game against the Cleveland Browns.",
-      "id": 614369,
-      "impact": "The rookie will have a chance to make his return to the field after missing several games while on injured reserve. The team will make a determination about his availability closer to game time, and fantasy managers should temper expectations for him this week, especially with QB Lamar Jackson (ankle) set to be sidelined against Cleveland.",
-      "link": "https://www.fantasypros.com/nfl/news/614369/jakobi-lane-wrist-officially-questionable-sunday.php",
-      "player_id": 27337,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Ja'Kobi Lane (wrist) officially questionable for Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 20:53:24",
-      "created_formated": "Fri, Oct 16th 8:53pm UTC",
-      "desc": "Romello Height did not practice on Friday. ",
-      "id": 614368,
-      "impact": "Height remains uncertain for Monday's game against the Commanders. ",
-      "link": "https://www.fantasypros.com/nfl/news/614368/romello-height-hand-not-practicing-friday.php",
-      "player_id": 28052,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Romello Height (hand) not practicing Friday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 20:52:26",
-      "created_formated": "Fri, Oct 16th 8:52pm UTC",
-      "desc": "James Thompson Jr. was at practice on Friday. ",
-      "id": 614367,
-      "impact": "Thompson is on track to return from his ankle injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/614367/james-thompson-jr-ankle-practices-friday.php",
-      "player_id": 28559,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "James Thompson Jr. (ankle) practices Friday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 20:51:29",
-      "created_formated": "Fri, Oct 16th 8:51pm UTC",
-      "desc": "Nick Bosa remained absent from practice on Friday. ",
-      "id": 614366,
-      "impact": "Bosa will need to practice in some capacity on Saturday to have a chance to return for Monday's game against the Commanders. ",
-      "link": "https://www.fantasypros.com/nfl/news/614366/nick-bosa-kneecalf-not-practicing-friday.php",
-      "player_id": 18199,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Nick Bosa (knee/calf) not practicing Friday "
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-16 20:51:28",
-      "created_formated": "Fri, Oct 16th 8:51pm UTC",
-      "desc": "Roger Rosengarten (knee) has been cleared to play in Sunday's game against the Cleveland Browns.",
-      "id": 614365,
-      "impact": "Baltimore will have their starting right tackle on Sunday, as Rosengarten has been cleared to play, despite still dealing with a knee issue. Their offensive line will be at close to full health this week, except for Cam Jurgens (concussion) being sidelined.",
-      "link": "https://www.fantasypros.com/nfl/news/614365/roger-rosengarten-knee-cleared-to-play-sunday.php",
-      "player_id": 26319,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Roger Rosengarten (knee) cleared to play Sunday"
     }
   ],
   "public_api": true,

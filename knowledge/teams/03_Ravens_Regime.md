@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 508.0
-- championship_lineup_c_avi_avg: 63.50
-- offensive_roster_c_avi_sum: 917.8
+- championship_lineup_c_avi_sum: 508.1
+- championship_lineup_c_avi_avg: 63.51
+- offensive_roster_c_avi_sum: 917.9
 - offensive_roster_c_avi_avg: 53.99
-- offensive_roster_d_avi_sum: 1219.2
-- offensive_roster_d_avi_avg: 71.72
+- offensive_roster_d_avi_sum: 1219.1
+- offensive_roster_d_avi_avg: 71.71
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Carnell Tate | C-AVI: 62.7 | D-AVI: 86.4
 - TE: Juwan Johnson | C-AVI: 66.8 | D-AVI: 73.9
 - FLEX: Kyle Pitts | C-AVI: 53.1 | D-AVI: 75.1
-- FLEX: Josh Downs | C-AVI: 50.2 | D-AVI: 74.0
+- FLEX: Josh Downs | C-AVI: 50.3 | D-AVI: 74.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 66.9
+- Championship AVI (C-AVI, 0-100): 67.0
 - Dynasty AVI (D-AVI, 0-100): 75.7
 - Projected PPR points: 155.3
 - Category: offense
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 27.5
-- Dynasty AVI (D-AVI, 0-100): 31.9
+- Championship AVI (C-AVI, 0-100): 27.4
+- Dynasty AVI (D-AVI, 0-100): 31.8
 - Projected PPR points: 38.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.2
+- Championship AVI (C-AVI, 0-100): 50.3
 - Dynasty AVI (D-AVI, 0-100): 74.0
 - Projected PPR points: 159.3
 - Category: offense
