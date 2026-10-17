@@ -12,6 +12,7 @@ from avi.reports.historical_trades import build_historical_trades
 from avi.reports.player_lookup import build_player_lookup
 from avi.reports.team_profiles import build_team_profiles
 from avi.sleeper.updater import update as update_sleeper
+from avi.sleeper.valuation_sources import update_sleeper_valuation_sources
 from avi.validation.publication import validate_publication
 from avi.validation.source import (
     validate_fantasypros,
@@ -72,6 +73,10 @@ def run_daily_update(
         (
             "validate_fantasypros",
             validate_fantasypros,
+        ),
+        (
+            "update_sleeper_valuation_sources",
+            update_sleeper_valuation_sources,
         ),
         (
             "build_identities",
