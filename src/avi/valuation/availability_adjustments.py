@@ -251,6 +251,7 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
         except (TypeError, ValueError):
             continue
 
+        player.setdefault("data_sources", {})["injury"] = _status_source(state)
         expected_missed, reason_code = _expected_missed_weeks(state, current_week)
         evaluated += 1
         if expected_missed <= 0:
