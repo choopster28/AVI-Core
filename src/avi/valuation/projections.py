@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import Any
 
 from avi.io import read_json
+from avi.sleeper.valuation_sources import load_sleeper_season_projections
 
 
 FANTASYPROS_PROJECTIONS_ROOT = Path(
@@ -102,6 +103,7 @@ def load_position_projections(
         load_registry_by_fantasypros_id()
     )
 
+    sleeper_projections = load_sleeper_season_projections()
     normalized: list[dict[str, Any]] = []
 
     for record in raw_players:
@@ -120,7 +122,9 @@ def load_position_projections(
         if registry_player is None:
             continue
 
-        projected_points = extract_ppr_projection(
+        sleeper_id = registry_player.get('source_ids', {}).get('sleeper_id')
+        sleeper_points = sleeper_projections.get(str(sleeper_id)) if sleeper_id is not None else None
+        projected_points = sleeper_points if sleeper_points is not None else extract_ppr_projection(
             record
         )
 
@@ -145,6 +149,7 @@ def load_position_projections(
                 "projected_ppr_points": (
                     projected_points
                 ),
+                "projection_source": "sleeper" if sleeper_points is not None else "fantasypros",
             }
         )
 
