@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-10-17T21:51:11.692647+00:00",
+  "generated_at_utc": "2026-10-17T21:55:11.704096+00:00",
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 5,
@@ -42,6 +42,10 @@
     "players_capped": 1,
     "players_evaluated": 479,
     "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
+    "source_priority": [
+      "sleeper_actionable_designation",
+      "fantasypros_fallback"
+    ],
     "sources": [
       "Sleeper NFL player injury status",
       "FantasyPros injuries"
@@ -70,9 +74,9 @@
   },
   "replacement_levels": {
     "flex_allocations": {
-      "RB": 6,
-      "TE": 2,
-      "WR": 24
+      "RB": 5,
+      "TE": 5,
+      "WR": 22
     },
     "replacement_ranks": {
       "DB": 16,
@@ -80,19 +84,19 @@
       "K": 16,
       "LB": 16,
       "QB": 16,
-      "RB": 38,
-      "TE": 18,
-      "WR": 56
+      "RB": 37,
+      "TE": 21,
+      "WR": 54
     },
     "replacement_values": {
       "DB": 0.0,
       "DL": 0.0,
       "K": 0.0,
       "LB": 0.0,
-      "QB": 295.49,
-      "RB": 145.63,
-      "TE": 152.75,
-      "WR": 149.24
+      "QB": 283.06,
+      "RB": 144.1,
+      "TE": 141.8,
+      "WR": 155.7
     },
     "starter_demand": {
       "DB": 16,

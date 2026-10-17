@@ -1,0 +1,34 @@
+{
+  "feeds": {
+    "projections_season": {
+      "status": "sleeper",
+      "valid_players": 1454
+    },
+    "stats_week_1": {
+      "status": "sleeper",
+      "valid_players": 388
+    },
+    "stats_week_2": {
+      "status": "sleeper",
+      "valid_players": 396
+    },
+    "stats_week_3": {
+      "status": "sleeper",
+      "valid_players": 396
+    },
+    "stats_week_4": {
+      "status": "sleeper",
+      "valid_players": 388
+    },
+    "stats_week_5": {
+      "status": "sleeper",
+      "valid_players": 369
+    },
+    "stats_week_6": {
+      "reason": "ValueError",
+      "status": "fantasypros_fallback"
+    }
+  },
+  "season": 2026,
+  "status": "passed"
+}

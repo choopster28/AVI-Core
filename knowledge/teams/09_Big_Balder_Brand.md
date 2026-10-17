@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 556.4
-- championship_lineup_c_avi_avg: 69.55
-- offensive_roster_c_avi_sum: 943.1
-- offensive_roster_c_avi_avg: 58.94
-- offensive_roster_d_avi_sum: 1189.8
-- offensive_roster_d_avi_avg: 74.36
+- championship_lineup_c_avi_sum: 547.2
+- championship_lineup_c_avi_avg: 68.40
+- offensive_roster_c_avi_sum: 928.5
+- offensive_roster_c_avi_avg: 58.03
+- offensive_roster_d_avi_sum: 1185.3
+- offensive_roster_d_avi_avg: 74.08
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jayden Daniels | C-AVI: 75.6 | D-AVI: 83.2
-- RB: Omarion Hampton | C-AVI: 73.6 | D-AVI: 88.7
-- RB: Bhayshul Tuten | C-AVI: 68.7 | D-AVI: 81.9
-- WR: Nico Collins | C-AVI: 91.1 | D-AVI: 94.5
-- WR: A.J. Brown | C-AVI: 63.0 | D-AVI: 85.7
-- TE: Trey McBride | C-AVI: 92.7 | D-AVI: 91.9
-- FLEX: Chris Godwin | C-AVI: 49.8 | D-AVI: 70.6
-- FLEX: Tyler Allgeier | C-AVI: 41.9 | D-AVI: 66.7
+- QB: Jayden Daniels | C-AVI: 79.0 | D-AVI: 84.1
+- RB: Omarion Hampton | C-AVI: 74.8 | D-AVI: 88.8
+- RB: Bhayshul Tuten | C-AVI: 68.3 | D-AVI: 81.6
+- WR: Nico Collins | C-AVI: 93.5 | D-AVI: 95.2
+- WR: Chris Godwin | C-AVI: 48.7 | D-AVI: 70.3
+- TE: Trey McBride | C-AVI: 93.1 | D-AVI: 92.6
+- FLEX: A.J. Brown | C-AVI: 48.3 | D-AVI: 81.7
+- FLEX: Tyler Allgeier | C-AVI: 41.5 | D-AVI: 66.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,9 +53,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 75.6
-- Dynasty AVI (D-AVI, 0-100): 83.2
-- Projected PPR points: 312.6
+- Championship AVI (C-AVI, 0-100): 79.0
+- Dynasty AVI (D-AVI, 0-100): 84.1
+- Projected PPR points: 308.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -70,26 +70,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 38.0
-- Championship AVI (C-AVI, 0-100): 45.8
+- Championship AVI (C-AVI, 0-100): 45.5
 - Dynasty AVI (D-AVI, 0-100): 50.1
-- Projected PPR points: 62.7
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jeremiyah Love
-- Player name: Jeremiyah Love
-- Player ID: 13287
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: ARI
-- Active: True
-- Status: Active
-- Age: 21.0
-- Championship AVI (C-AVI, 0-100): 74.3
-- Dynasty AVI (D-AVI, 0-100): 91.2
-- Projected PPR points: 231.7
+- Projected PPR points: 39.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -104,9 +87,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 73.6
-- Dynasty AVI (D-AVI, 0-100): 88.7
-- Projected PPR points: 248.5
+- Championship AVI (C-AVI, 0-100): 74.8
+- Dynasty AVI (D-AVI, 0-100): 88.8
+- Projected PPR points: 242.9
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Jeremiyah Love
+- Player name: Jeremiyah Love
+- Player ID: 13287
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: ARI
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 74.2
+- Dynasty AVI (D-AVI, 0-100): 90.9
+- Projected PPR points: 211.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -121,9 +121,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 68.7
-- Dynasty AVI (D-AVI, 0-100): 81.9
-- Projected PPR points: 188.3
+- Championship AVI (C-AVI, 0-100): 68.3
+- Dynasty AVI (D-AVI, 0-100): 81.6
+- Projected PPR points: 174.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -138,9 +138,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 61.3
-- Dynasty AVI (D-AVI, 0-100): 84.3
-- Projected PPR points: 274.2
+- Championship AVI (C-AVI, 0-100): 60.4
+- Dynasty AVI (D-AVI, 0-100): 83.9
+- Projected PPR points: 246.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -155,9 +155,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 41.9
-- Dynasty AVI (D-AVI, 0-100): 66.7
-- Projected PPR points: 99.7
+- Championship AVI (C-AVI, 0-100): 41.5
+- Dynasty AVI (D-AVI, 0-100): 66.4
+- Projected PPR points: 77.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -172,26 +172,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 35.6
-- Dynasty AVI (D-AVI, 0-100): 56.1
-- Projected PPR points: 79.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Najee Harris
-- Player name: Najee Harris
-- Player ID: 7528
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: NYG
-- Active: True
-- Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): 32.5
-- Dynasty AVI (D-AVI, 0-100): 45.2
-- Projected PPR points: 74.5
+- Championship AVI (C-AVI, 0-100): 35.9
+- Dynasty AVI (D-AVI, 0-100): 56.0
+- Projected PPR points: 65.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -206,9 +189,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 26.6
-- Dynasty AVI (D-AVI, 0-100): 52.4
-- Projected PPR points: 14.5
+- Championship AVI (C-AVI, 0-100): 30.1
+- Dynasty AVI (D-AVI, 0-100): 53.1
+- Projected PPR points: 32.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Najee Harris
+- Player name: Najee Harris
+- Player ID: 7528
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 28.7
+- Dynasty AVI (D-AVI, 0-100): 43.9
+- Projected PPR points: 26.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -223,9 +223,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 91.1
-- Dynasty AVI (D-AVI, 0-100): 94.5
-- Projected PPR points: 250.0
+- Championship AVI (C-AVI, 0-100): 93.5
+- Dynasty AVI (D-AVI, 0-100): 95.2
+- Projected PPR points: 262.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -240,26 +240,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 70.9
-- Dynasty AVI (D-AVI, 0-100): 86.7
-- Projected PPR points: 274.1
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: A.J. Brown
-- Player name: A.J. Brown
-- Player ID: 5859
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: NE
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 63.0
-- Dynasty AVI (D-AVI, 0-100): 85.7
-- Projected PPR points: 265.8
+- Championship AVI (C-AVI, 0-100): 68.0
+- Dynasty AVI (D-AVI, 0-100): 85.9
+- Projected PPR points: 229.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -274,9 +257,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 49.8
-- Dynasty AVI (D-AVI, 0-100): 70.6
-- Projected PPR points: 181.4
+- Championship AVI (C-AVI, 0-100): 48.7
+- Dynasty AVI (D-AVI, 0-100): 70.3
+- Projected PPR points: 173.6
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: A.J. Brown
+- Player name: A.J. Brown
+- Player ID: 5859
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NE
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 48.3
+- Dynasty AVI (D-AVI, 0-100): 81.7
+- Projected PPR points: 167.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -291,9 +291,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 92.7
-- Dynasty AVI (D-AVI, 0-100): 91.9
-- Projected PPR points: 260.4
+- Championship AVI (C-AVI, 0-100): 93.1
+- Dynasty AVI (D-AVI, 0-100): 92.6
+- Projected PPR points: 234.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -308,9 +308,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 39.7
-- Dynasty AVI (D-AVI, 0-100): 60.6
-- Projected PPR points: 137.9
+- Championship AVI (C-AVI, 0-100): 38.5
+- Dynasty AVI (D-AVI, 0-100): 60.8
+- Projected PPR points: 110.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
