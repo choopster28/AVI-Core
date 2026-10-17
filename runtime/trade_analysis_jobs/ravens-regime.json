@@ -31,9 +31,386 @@
       ]
     },
     "createdAt": 1792205252249,
-    "updatedAt": 1792205253747,
+    "updatedAt": 1792205314860,
     "expiresAt": 1792637252249,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Northside Kings proposes sending 33-year-old WR Mike Evans (77.9 C-AVI) to Ravens Regime in exchange for 25-year-old WR Josh Downs (50.2 C-AVI), 30-year-old TE Juwan Johnson (66.8 C-AVI), and a 2027 4th-round draft pick. This trade effectively leverages Evans' peak win-now value to fill a starting TE gap with Juwan Johnson while adding startable WR depth in Downs. For Ravens Regime, acquiring Evans creates an elite WR pairing with Zay Flowers while cleanly transitioning starting TE duties to Kyle Pitts. Market Reality evaluates this offer as Highly Realistic (94% acceptance probability) and recommends submitting the offer directly.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Mike Evans",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 33,
+              "cavi": 77.9,
+              "davi": 78.1,
+              "publicMarket": 75,
+              "leagueMarket": 77.9
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Josh Downs",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 25,
+              "cavi": 50.2,
+              "davi": 74,
+              "publicMarket": 68,
+              "leagueMarket": 50.2
+            },
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 30,
+              "cavi": 66.8,
+              "davi": 73.9,
+              "publicMarket": 65,
+              "leagueMarket": 66.8
+            },
+            {
+              "name": "2027 4th · Conquistadors · Projected late range (4.10–4.16)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 10,
+              "leagueMarket": 0
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Northside Kings",
+            "summary": "Northside Kings capitalizes on Mike Evans' high championship value (77.9 C-AVI) to secure an immediate TE1 upgrade in Juwan Johnson (66.8 C-AVI) and youthful WR depth in Josh Downs (74.0 D-AVI). Ravens Regime acquires an elite starting WR anchor to pair with Zay Flowers."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Northside Kings",
+            "summary": "The proposed package is well-balanced, realistic, and directly addresses Northside Kings' TE position while utilizing Ravens Regime's highest available 2027 pick asset."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Positive overall portfolio improvement that addresses TE starting slot while acquiring a younger WR depth piece."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "A minor drop in WR ceiling from losing Evans is offset by gaining TE1 stability with Juwan Johnson over Hockenson/Sadiq."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Trading a 33-year-old veteran WR for a 25-year-old slot receiver and a 30-year-old TE adds +69.8 net D-AVI."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Juwan Johnson immediately steps into TE1, allowing Stefon Diggs and Jordan Addison to handle WR duties."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Josh Downs provides a high-floor PPR WR/FLEX option to protect against injuries."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Splits concentrated veteran value into two startable offensive pieces plus a future dart throw pick."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 20,
+              "summary": "Gains an elite WR starting asset in Mike Evans to bolster top-line championship scoring."
+            },
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Mike Evans (77.9 C-AVI) significantly improves weekly WR2/FLEX ceiling alongside Zay Flowers."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Gives up 25-year-old Josh Downs for 33-year-old Mike Evans, tilting portfolio slightly toward immediate win-now production."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Mike Evans upgrades WR2 over Carnell Tate, while Kyle Pitts smoothly transitions to starting TE."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Surrenders receiver and tight end depth from the bench."
+            },
+            "flexibilityLiquidity": {
+              "score": -5,
+              "summary": "Parts with two startable assets and their highest remaining 2027 draft pick."
+            }
+          },
+          "explanation": "Both retooling franchises achieve clear strategic goals: Northside Kings builds depth and fixes tight end, while Ravens Regime concentrates depth into top-tier starting WR firepower."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Northside Kings sends 77.9 C-AVI (Evans) and receives 117.0 total C-AVI (Johnson 66.8 + Downs 50.2). Juwan Johnson elevates Northside Kings' TE slot above T.J. Hockenson (58.4) and Kenyon Sadiq (48.0).",
+          "sideADynastyImpact": "Northside Kings sends 78.1 D-AVI and receives 147.9 D-AVI, netting a +69.8 D-AVI increase while reducing the overall age profile of its WR/TE core.",
+          "sideARosterImpact": "Johnson assumes TE1 duties, while Downs joins Diggs, Addison, Shakir, and Worthy in the WR/FLEX rotation.",
+          "sideBChampionshipImpact": "Ravens Regime gains Mike Evans (77.9 C-AVI), giving them two elite WRs (Zay Flowers 90.1 + Evans 77.9) and sliding Carnell Tate (62.7) to FLEX1.",
+          "sideBDynastyImpact": "Ravens Regime converts 147.9 D-AVI across two players into 78.1 D-AVI in Evans, committing to immediate top-end lineup production.",
+          "sideBRosterImpact": "Mike Evans slots into WR2, Kyle Pitts (53.1 C-AVI) moves to TE1, and Carnell Tate occupies FLEX1.",
+          "valueAssessment": "Northside Kings holds the total C-AVI and D-AVI advantage, while Ravens Regime receives the single highest-value asset in Mike Evans."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Mike Evans remains a high-end WR2 in PPR redraft formats with steady target volume. Josh Downs is fully healthy following minor Week 6 rest/hamstring tags and continues as the Colts' primary slot receiver. Juwan Johnson has consolidated TE1 targets in New Orleans with strong touchdown frequency.",
+          "aviVsMarket": "Public market consensus values Josh Downs slightly higher due to his age (25), whereas AVI reflects Mike Evans' heavy current PPR scoring projections.",
+          "relevantContext": [
+            "Mike Evans maintains top-tier PPR target projection and red-zone leverage.",
+            "Josh Downs is fully active for Week 6 and functions as a high-floor PPR slot option.",
+            "Juwan Johnson has established clear TE1 dominance in the Saints' offense over Noah Fant."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is in Retool mode and benefits from turning depth TE Juwan Johnson and slot receiver Josh Downs into elite WR starter Mike Evans.",
+          "packageFit": "Complements both rosters: Northside Kings addresses TE starting quality and WR depth, while Ravens Regime concentrates asset value into a premier starting receiver.",
+          "lineupReplacement": "Ravens Regime easily fills TE with Kyle Pitts (53.1 C-AVI), while Northside Kings replaces Evans' starting slot via Diggs/Addison and Juwan Johnson at TE.",
+          "competitiveWindowFit": "Both franchises are in Retool mode; the move aligns short-term weekly starting power with mid-term roster balance.",
+          "positionalScarcity": "Tight end scoring is scarce in 16-team full PPR; acquiring TE1 producer Juwan Johnson provides a meaningful baseline upgrade."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 94,
+          "classification": "Highly Realistic",
+          "explanation": "Ravens Regime has an immediate need for elite WR production, holds Kyle Pitts to absorb Johnson's exit at TE, and surrenders depth pieces alongside their highest available 2027 pick (4th round)."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal strategically sells 33-year-old Mike Evans to gain a starting TE upgrade in Juwan Johnson and startable WR depth in Josh Downs, improving overall portfolio resilience while advancing Northside Kings' retooling goals.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Mike Evans",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 33,
+              "cavi": 77.9,
+              "davi": 78.1,
+              "publicMarket": 75,
+              "leagueMarket": 77.9
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Downs",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 25,
+              "cavi": 50.2,
+              "davi": 74,
+              "publicMarket": 68,
+              "leagueMarket": 50.2
+            },
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 30,
+              "cavi": 66.8,
+              "davi": 73.9,
+              "publicMarket": 65,
+              "leagueMarket": 66.8
+            },
+            {
+              "name": "2027 4th · Conquistadors · Projected late range (4.10–4.16)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 10,
+              "leagueMarket": 0
+            }
+          ],
+          "whyUserShouldDoIt": "Secures an immediate TE1 upgrade with Juwan Johnson (66.8 C-AVI) and adds 25-year-old WR depth in Josh Downs, maximizing the return on 33-year-old Mike Evans.",
+          "whyOpponentMightAccept": "Acquires an elite WR anchor in Mike Evans (77.9 C-AVI) to pair with Zay Flowers, relying on existing TE depth (Kyle Pitts) to make the move seamless."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Mike Evans",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 33,
+              "cavi": 77.9,
+              "davi": 78.1,
+              "publicMarket": 75,
+              "leagueMarket": 77.9
+            },
+            {
+              "name": "2027 Round 3 (Northside Kings)",
+              "assetType": "pick",
+              "owner": "Northside Kings",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 20,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Downs",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 25,
+              "cavi": 50.2,
+              "davi": 74,
+              "publicMarket": 68,
+              "leagueMarket": 50.2
+            },
+            {
+              "name": "Juwan Johnson",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "TE",
+              "age": 30,
+              "cavi": 66.8,
+              "davi": 73.9,
+              "publicMarket": 65,
+              "leagueMarket": 66.8
+            },
+            {
+              "name": "2028 Round 3 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 20,
+              "leagueMarket": 16.5
+            }
+          ],
+          "rationale": "If Ravens Regime seeks a mid-round pick exchange rather than giving up a 2027 pick, swapping future 3rd-round selections maintains the core player swap while adjusting draft capital timing."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Juwan Johnson news 2026 NFL fantasy",
+          "Josh Downs news 2026 NFL fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFgmdQm75mFA18xP2hUlizVo3-axpaRdM1rJCGrp9DauLZ2a2Pz_ykQ7NzMqFY919L6YuK9zsQYPay2av5nWao63HxO_2t50KbhY6p-6OkgAKUbVQqgkTTX1krUGFZndOKWIb1a01ilNfbNbWFi0bNRm8UhOQVBIgfCpRBcRrp2-fQoWFcDFGWKA==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY2Jwf3riFCv7e5M8Dc2o_thq9BIB5lekgfh_GKesqoldZ0PsS-7ne1a6_azg4DIFKEmUcJ9zSCpRxMek_wBI-0bE9h0ebhUuNxUJ-dRtAEwRKaqhaSbwoXb1ciYp7xJuHWE9PlDURCH3l5KCt49z8VANC3IYZfSHIMiGs0WnuSdlm1qadvD8iHnuWQu1fzWwjIF6860vSGpdx",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfU7JBa8HTSJd08hm3BZkK6oV-ZvJ1kbBcGVX6OMYb_9ePqIh4aa6NaVFd9VCouxbvOO7hU2MUzdRScPgumdy1O0OlylOczWwz5UGAEdvvGKOnGF8F9EAGg89HKUTM56h_D6dQKnbBroVAkZjt8xCYtUxcqVESRDzWZLhL71T6wtG5f9BGnx-57Xi3Lw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdz_8aTPrHCitnyTxRvdlptOH70c442qgHp6bG_oy-8xlLlbdiiUNHquNn36KoLudcG8Z5t6Wlsb6zGVlJhEYB6LCujzIcDRxVvHteiTZ4BhtUGjN5T9l_RrKUev6nksRU40T2ygUOhPbTcxMRgCjiqk5uJ3kll1S6SaJuDLmKddAjiMLFZcEZBo71amCaAbIVJJA4FyC9ihsmcA==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhHPrA0MOaY6jOHRwK5-22QCGw9-z28nSFEduldDQl1-HatyyBmiPOikQ0k6uTQxpQuai3HcDjdQ5cwr41zpJe9U0qwwjbBakEcn9cLigHYnbQ-LId1fEng8DTWWNvSZrcTs4fB3aFks0n7bc=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvCyhwfdJa_XvNrzfxl5KUWL9Q36bUd976RYUZfA1GwiSQOdmbrROZkNMde92aPSQ7kqqwJlSn800OLUK5f2BjY5fcGEfOkJLNOJuC5m40_EVDmH2186mhQrM6u-Yw7JU_",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyVwRSGdN-MMCqtO4mJ7-c4RXmbOc-GvHp-fo_7mCxJR0K9zN9BYGnev8Af0uCw3_U_eG0tmWvZju2XA-S2PkrTPzdwAhOF0Z4XnyzNJo4mYpknu38B2OJTq_zDLotSlkP_Lxbor45s0u0V5P49CBdjCllsG6V",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBxzSF7EQObIXBckz36_oFnHmBCQLfF3IZgpVPiclrgEFGe09_UMQsYteJj5-jxByfMmGg2Oo-qsYX3GnJUwI5H4m2bxuIZrX43z7IVui9MLBz-0I7BULT3yEIM7oiQ3Dx0wmUJUkE9z7L5qNCBYKMuzA5EKJ4cj0fc2pXZMMOO3wdL3HPgp30xw==",
+            "title": "bettoringreen.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXdtZyCJb-hWOvO8AdSuYMXc2Cq2D-Hs30D_qxe5vGJTXGeC2cPY9mmcYbnve-vPghkfOd3umlpD-agIVwqMtZjps8v7N5dQQOT4s5w0tpROEMDXwWfrMrr3dcbfnZUBSw",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "f51a1e31a11b24262a4fdfbc64787167ea1cb78b",
+        "aviCoreCommittedAt": "2026-10-17T02:11:01Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86270,
+        "groundedMarketChars": 2494,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mv9pgpmp-8ab4aa07",
