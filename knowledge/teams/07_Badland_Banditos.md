@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 615.3
-- championship_lineup_c_avi_avg: 76.91
-- offensive_roster_c_avi_sum: 912.1
+- championship_lineup_c_avi_sum: 615.2
+- championship_lineup_c_avi_avg: 76.90
+- offensive_roster_c_avi_sum: 912.0
 - offensive_roster_c_avi_avg: 53.65
 - offensive_roster_d_avi_sum: 1186.6
 - offensive_roster_d_avi_avg: 69.80
@@ -31,7 +31,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Joe Burrow | C-AVI: 77.7 | D-AVI: 87.3
-- RB: Kenneth Walker | C-AVI: 93.4 | D-AVI: 95.6
+- RB: Kenneth Walker | C-AVI: 93.3 | D-AVI: 95.6
 - RB: Bucky Irving | C-AVI: 78.7 | D-AVI: 86.7
 - WR: Ja'Marr Chase | C-AVI: 91.9 | D-AVI: 98.6
 - WR: Terry McLaurin | C-AVI: 70.1 | D-AVI: 81.5
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 93.4
+- Championship AVI (C-AVI, 0-100): 93.3
 - Dynasty AVI (D-AVI, 0-100): 95.6
 - Projected PPR points: 244.0
 - Category: offense

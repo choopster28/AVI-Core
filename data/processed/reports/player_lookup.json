@@ -315,18 +315,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00006149",
-      "c_avi": 32.0,
-      "d_avi": 44.7,
-      "nfl_team": "FA",
-      "player_name": "Darius Slayton",
-      "position": "WR",
-      "sleeper_id": "6149",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00013319",
       "c_avi": 32.0,
       "d_avi": 61.1,
@@ -334,6 +322,18 @@
       "player_name": "Oscar Delp",
       "position": "TE",
       "sleeper_id": "13319",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00006149",
+      "c_avi": 31.9,
+      "d_avi": 44.7,
+      "nfl_team": "FA",
+      "player_name": "Darius Slayton",
+      "position": "WR",
+      "sleeper_id": "6149",
       "status": "Active"
     },
     {
@@ -472,7 +472,7 @@
       "active": true,
       "availability": "available",
       "avi_id": "AVI-00013402",
-      "c_avi": 30.9,
+      "c_avi": 31.0,
       "d_avi": 50.2,
       "nfl_team": "BUF",
       "player_name": "Skyler Bell",
@@ -771,6 +771,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013380",
+      "c_avi": 27.8,
+      "d_avi": 45.2,
+      "nfl_team": "LAC",
+      "player_name": "Brenen Thompson",
+      "position": "WR",
+      "sleeper_id": "13380",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012467",
       "c_avi": 27.8,
       "d_avi": 42.8,
@@ -778,18 +790,6 @@
       "player_name": "Jordan James",
       "position": "RB",
       "sleeper_id": "12467",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013380",
-      "c_avi": 27.7,
-      "d_avi": 45.1,
-      "nfl_team": "LAC",
-      "player_name": "Brenen Thompson",
-      "position": "WR",
-      "sleeper_id": "13380",
       "status": "Active"
     },
     {
@@ -832,7 +832,7 @@
       "active": true,
       "availability": "available",
       "avi_id": "AVI-00013533",
-      "c_avi": 27.3,
+      "c_avi": 27.2,
       "d_avi": 37.9,
       "nfl_team": "NO",
       "player_name": "Barion Brown",
@@ -975,18 +975,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00008135",
-      "c_avi": 26.3,
-      "d_avi": 35.0,
-      "nfl_team": "WAS",
-      "player_name": "Treylon Burks",
-      "position": "WR",
-      "sleeper_id": "8135",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011596",
       "c_avi": 26.2,
       "d_avi": 55.3,
@@ -1042,6 +1030,18 @@
       "player_name": "Sam Roush",
       "position": "TE",
       "sleeper_id": "13322",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00008135",
+      "c_avi": 26.1,
+      "d_avi": 34.9,
+      "nfl_team": "WAS",
+      "player_name": "Treylon Burks",
+      "position": "WR",
+      "sleeper_id": "8135",
       "status": "Active"
     },
     {
@@ -1287,6 +1287,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011650",
+      "c_avi": 23.6,
+      "d_avi": 38.6,
+      "nfl_team": "WAS",
+      "player_name": "Luke McCaffrey",
+      "position": "WR",
+      "sleeper_id": "11650",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00006011",
       "c_avi": 23.5,
       "d_avi": 16.3,
@@ -1294,18 +1306,6 @@
       "player_name": "Gardner Minshew",
       "position": "QB",
       "sleeper_id": "6011",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011650",
-      "c_avi": 23.5,
-      "d_avi": 38.6,
-      "nfl_team": "WAS",
-      "player_name": "Luke McCaffrey",
-      "position": "WR",
-      "sleeper_id": "11650",
       "status": "Active"
     },
     {
@@ -1384,7 +1384,7 @@
       "active": true,
       "availability": "available",
       "avi_id": "AVI-00011623",
-      "c_avi": 22.7,
+      "c_avi": 22.8,
       "d_avi": 39.2,
       "nfl_team": "LAR",
       "player_name": "Jordan Whittington",
@@ -2742,7 +2742,7 @@
       "active": true,
       "availability": "rostered",
       "avi_id": "AVI-00004199",
-      "c_avi": 62.0,
+      "c_avi": 61.9,
       "d_avi": 66.9,
       "nfl_team": "MIN",
       "owner_id": "990097041671892992",
@@ -5206,7 +5206,7 @@
       "active": true,
       "availability": "rostered",
       "avi_id": "AVI-00008151",
-      "c_avi": 93.4,
+      "c_avi": 93.3,
       "d_avi": 95.6,
       "nfl_team": "KC",
       "owner_id": "737531831641128960",
@@ -5318,7 +5318,7 @@
       "active": true,
       "availability": "rostered",
       "avi_id": "AVI-00012534",
-      "c_avi": 67.5,
+      "c_avi": 67.6,
       "d_avi": 77.4,
       "nfl_team": "CHI",
       "owner_id": "992908759074680832",
@@ -5814,7 +5814,7 @@
       "active": true,
       "availability": "rostered",
       "avi_id": "AVI-00012507",
-      "c_avi": 74.8,
+      "c_avi": 75.0,
       "d_avi": 88.8,
       "nfl_team": "LAC",
       "owner_id": "863881053000011776",

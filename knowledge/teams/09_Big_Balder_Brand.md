@@ -21,17 +21,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 547.3
-- championship_lineup_c_avi_avg: 68.41
-- offensive_roster_c_avi_sum: 928.7
-- offensive_roster_c_avi_avg: 58.04
+- championship_lineup_c_avi_sum: 547.5
+- championship_lineup_c_avi_avg: 68.44
+- offensive_roster_c_avi_sum: 928.9
+- offensive_roster_c_avi_avg: 58.06
 - offensive_roster_d_avi_sum: 1185.3
 - offensive_roster_d_avi_avg: 74.08
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 79.0 | D-AVI: 84.1
-- RB: Omarion Hampton | C-AVI: 74.8 | D-AVI: 88.8
+- RB: Omarion Hampton | C-AVI: 75.0 | D-AVI: 88.8
 - RB: Bhayshul Tuten | C-AVI: 68.4 | D-AVI: 81.6
 - WR: Nico Collins | C-AVI: 93.5 | D-AVI: 95.2
 - WR: Chris Godwin | C-AVI: 48.7 | D-AVI: 70.3
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 74.8
+- Championship AVI (C-AVI, 0-100): 75.0
 - Dynasty AVI (D-AVI, 0-100): 88.8
 - Projected PPR points: 242.9
 - Category: offense
