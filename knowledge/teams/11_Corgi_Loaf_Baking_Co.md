@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 625.8
-- championship_lineup_c_avi_avg: 78.22
-- offensive_roster_c_avi_sum: 975.8
-- offensive_roster_c_avi_avg: 60.99
-- offensive_roster_d_avi_sum: 1182.0
-- offensive_roster_d_avi_avg: 73.88
+- championship_lineup_c_avi_sum: 582.9
+- championship_lineup_c_avi_avg: 72.86
+- offensive_roster_c_avi_sum: 975.6
+- offensive_roster_c_avi_avg: 60.98
+- offensive_roster_d_avi_sum: 1181.9
+- offensive_roster_d_avi_avg: 73.87
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Cam Skattebo | C-AVI: 67.5 | D-AVI: 80.2
 - WR: Jaxon Smith-Njigba | C-AVI: 99.3 | D-AVI: 99.5
 - WR: Malik Nabers | C-AVI: 87.7 | D-AVI: 95.2
-- TE: Tyler Warren | C-AVI: 83.9 | D-AVI: 90.3
+- TE: Michael Mayer | C-AVI: 41.0 | D-AVI: 61.7
 - FLEX: DeVonta Smith | C-AVI: 84.6 | D-AVI: 90.9
 - FLEX: Rhamondre Stevenson | C-AVI: 66.6 | D-AVI: 74.9
 
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 37.9
-- Dynasty AVI (D-AVI, 0-100): 57.6
+- Championship AVI (C-AVI, 0-100): 37.8
+- Dynasty AVI (D-AVI, 0-100): 57.5
 - Projected PPR points: 97.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 22.2
+- Championship AVI (C-AVI, 0-100): 22.1
 - Dynasty AVI (D-AVI, 0-100): 31.6
 - Projected PPR points: 7.5
 - Category: offense
