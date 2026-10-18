@@ -351,7 +351,7 @@ def build_summary(team: dict, above: dict | None, below: dict | None, ledger: li
     actions = gap_actions(team, above)
     draft_body = "Verified draft assets: " + "; ".join(team["draft_assets"]) + "." if team["draft_assets"] else "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     health_body = f"The current team file flags {', '.join(unavailable)} outside Active status." if unavailable else f"All {active_count} offensive players in the current team file are marked Active."
-    rank_body = f"Projected #{team['projected_rank']} of 16 at {team['projected_score']:.2f} weighted power points."
+    rank_body = f"2026 Power Rank #{team['projected_rank']} of 16 at {team['projected_score']:.2f} weighted points (60% record, 32% optimal starters, 8% full roster)."
     if above:
         rank_body += f" {above['team_name']} is immediately above at {above['projected_score']:.2f}, a gap of {above_gap:.2f}."
     if below:
