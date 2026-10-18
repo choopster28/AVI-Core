@@ -6,6 +6,9 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from team_profiles import load_current_sleeper_directory
+from avi.reports.power_rankings_2026 import rank_2026_teams
+
 ROOT = Path(__file__).resolve().parents[1]
 KNOWLEDGE = ROOT / "knowledge"
 TEAMS = KNOWLEDGE / "teams"
@@ -348,7 +351,7 @@ def build_summary(team: dict, above: dict | None, below: dict | None, ledger: li
     actions = gap_actions(team, above)
     draft_body = "Verified draft assets: " + "; ".join(team["draft_assets"]) + "." if team["draft_assets"] else "No franchise-owned pick card was found in the approved draft-pick knowledge file."
     health_body = f"The current team file flags {', '.join(unavailable)} outside Active status." if unavailable else f"All {active_count} offensive players in the current team file are marked Active."
-    rank_body = f"Projected #{team['projected_rank']} of 16 at {team['projected_score']:.2f} lineup C-AVI."
+    rank_body = f"2026 Power Rank #{team['projected_rank']} of 16 at {team['projected_score']:.2f} weighted points (60% record, 32% optimal starters, 8% full roster)."
     if above:
         rank_body += f" {above['team_name']} is immediately above at {above['projected_score']:.2f}, a gap of {above_gap:.2f}."
     if below:
@@ -387,14 +390,15 @@ def build_summary(team: dict, above: dict | None, below: dict | None, ledger: li
         "generated_at": now.isoformat(),
         "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
         "headline": f"{team['team_name']}: {'Preseason' if phase == 'preseason' else 'Weekly'} Front Office Brief",
-        "executive_summary": f"{team['team_name']} is projected #{team['projected_rank']} of 16 with a {team['projected_score']:.2f} projected-starting-lineup C-AVI total, led by {anchors[0]['player']}, {anchors[1]['player']}, and {anchors[2]['player']}. The immediate priority is improving the {pressure['slot']} slot without weakening that core.",
+        "executive_summary": f"{team['team_name']} is projected #{team['projected_rank']} of 16 with a {team['projected_score']:.2f} weighted 2026 power points, led by {anchors[0]['player']}, {anchors[1]['player']}, and {anchors[2]['player']}. The immediate priority is improving the {pressure['slot']} slot without weakening that core.",
         "projected_power": {
             "rank": team["projected_rank"],
             "league_size": 16,
             "score": team["projected_score"],
             "team_above": {"name": above["team_name"], "rank": above["projected_rank"], "score": above["projected_score"], "gap": above_gap} if above else None,
             "team_below": {"name": below["team_name"], "rank": below["projected_rank"], "score": below["projected_score"], "gap": max(0.0, team["projected_score"] - below["projected_score"])} if below else None,
-            "method": "Sum of the eight verified projected starters' C-AVI values from all 16 AVI-Core team files",
+            "method": "2026: 60% verified record, 32% optimal lineup C-AVI, 8% full offensive roster C-AVI",
+            "components": team.get("power_components"),
         },
         "dynasty_power": {
             "rank": team["dynasty_rank"],
@@ -425,9 +429,45 @@ def main() -> None:
 
     ledger = parse_historical_trades()
     teams = [parse_team(path) for path in team_paths]
-    ranked = sorted(teams, key=lambda team: (team["projected_score"], team["dynasty_score"], team["team_name"]), reverse=True)
-    for index, team in enumerate(ranked, start=1):
-        team["projected_rank"] = index
+    _, sleeper_rosters, _ = load_current_sleeper_directory()
+    roster_settings = {}
+    for roster in sleeper_rosters:
+        roster_id = int(roster["roster_id"])
+        if roster_id in roster_settings:
+            raise RuntimeError(f"Duplicate Sleeper roster {roster_id}")
+        roster_settings[roster_id] = roster.get("settings") or {}
+    if set(roster_settings) != {team["roster_id"] for team in teams}:
+        raise RuntimeError("Sleeper roster IDs do not match all 16 AVI teams")
+    inputs = []
+    for team in teams:
+        settings = roster_settings[team["roster_id"]]
+        lineup = team["lineup"]
+        offensive = [
+            player for player in team["players"]
+            if player.get("Position") in {"QB", "RB", "WR", "TE"}
+        ]
+        values = [
+            number(player.get("Championship AVI (C-AVI, 0-100)"), -1)
+            for player in offensive
+        ]
+        if not lineup or not values or any(value < 0 for value in values):
+            raise RuntimeError(f"Unverified lineup or roster C-AVI for {team['team_name']}")
+        inputs.append({
+            "roster_id": team["roster_id"],
+            "team_name": team["team_name"],
+            "wins": settings.get("wins"),
+            "losses": settings.get("losses"),
+            "ties": settings.get("ties", 0),
+            "projected_starters_c_avi": sum(p["c_avi"] for p in lineup) / len(lineup),
+            "entire_roster_c_avi": sum(values) / len(values),
+        })
+    results = rank_2026_teams(inputs)
+    by_id = {team["roster_id"]: team for team in teams}
+    ranked = [by_id[result["roster_id"]] for result in results]
+    for result, team in zip(results, ranked):
+        team["projected_rank"] = result["rank"]
+        team["projected_score"] = result["power_score"]
+        team["power_components"] = result
 
     dynasty_ranked = sorted(teams, key=lambda team: (team["dynasty_score"], team["projected_score"], team["team_name"]), reverse=True)
     for index, team in enumerate(dynasty_ranked, start=1):
@@ -448,7 +488,7 @@ def main() -> None:
         "refresh_schedule": "Wednesdays at 11:00 AM America/Denver",
         "source_policy": "AVI-Core/knowledge only",
         "franchise_count": len(written),
-        "projected_power_method": "Verified projected-starting-lineup C-AVI total",
+        "projected_power_method": "2026: 60% record + 32% optimal starters C-AVI + 8% full offensive roster C-AVI",
         "files": sorted(written),
     }
     (OUTPUT / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")

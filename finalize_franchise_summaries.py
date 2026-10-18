@@ -340,7 +340,7 @@ def refresh_live_summary_fields(
     ranking = sorted(
         by_roster,
         key=lambda roster_id: (
-            live[roster_id]["projected_score"],
+            number((by_roster[roster_id].get("projected_power") or {}).get("score")),
             live[roster_id]["player_d_avi"],
             str(by_roster[roster_id].get("franchise_name") or ""),
         ),
@@ -358,9 +358,9 @@ def refresh_live_summary_fields(
         below_id = ranking[index + 1] if index + 1 < len(ranking) else None
         above_summary = by_roster.get(above_id) if above_id else None
         below_summary = by_roster.get(below_id) if below_id else None
-        above_score = live[above_id]["projected_score"] if above_id else None
-        below_score = live[below_id]["projected_score"] if below_id else None
-        score = facts["projected_score"]
+        above_score = number((by_roster[above_id].get("projected_power") or {}).get("score")) if above_id else None
+        below_score = number((by_roster[below_id].get("projected_power") or {}).get("score")) if below_id else None
+        score = number((summary.get("projected_power") or {}).get("score"))
         gap = max(0.0, (above_score or score) - score)
 
         actions: list[str] = []
@@ -382,15 +382,17 @@ def refresh_live_summary_fields(
         summary["schema_version"] = max(int(summary.get("schema_version") or 0), 10)
         summary["executive_summary"] = (
             f"{summary['franchise_name']} is projected #{rank} of 16 with a "
-            f"{score:.2f} projected-starting-lineup C-AVI total, led by "
+            f"{score:.2f} weighted 2026 power points, led by "
             f"{anchors[0]['player']}, {anchors[1]['player']}, and {anchors[2]['player']}. "
             f"The immediate priority is improving the {pressure['slot']} slot "
             "without weakening that core."
         )
+        original_components = (summary.get("projected_power") or {}).get("components")
         summary["projected_power"] = {
             "rank": rank,
             "league_size": EXPECTED_FRANCHISE_COUNT,
             "score": score,
+            "components": original_components,
             "team_above": (
                 {
                     "name": above_summary["franchise_name"],
@@ -412,14 +414,14 @@ def refresh_live_summary_fields(
                 else None
             ),
             "method": (
-                "Canonical Autobots HQ 2026 Power ladder: sum of the best verified "
-                "1QB/2RB/2WR/1TE/2FLEX lineup from current Sleeper roster ownership"
+                "2026: 60% verified record, 32% optimal starters C-AVI, "
+                "8% complete offensive roster C-AVI"
             ),
         }
         summary["gap_closing_moves"] = actions
 
         sections = section_map(summary)
-        rank_body = f"Projected #{rank} of 16 at {score:.2f} lineup C-AVI."
+        rank_body = f"2026 Power Rank #{rank} of 16 at {score:.2f} weighted power points."
         if above_summary and above_score is not None:
             rank_body += (
                 f" {above_summary['franchise_name']} is immediately above at "
@@ -589,8 +591,8 @@ def main() -> None:
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     manifest["schema_version"] = max(int(manifest.get("schema_version") or 0), 10)
     manifest["projected_power_method"] = (
-        "Canonical Autobots HQ 2026 Power ladder using current Sleeper roster "
-        "ownership and the best 1QB/2RB/2WR/1TE/2FLEX C-AVI lineup"
+        "2026: 60% verified record + 32% optimal starters C-AVI "
+        "+ 8% full offensive roster C-AVI"
     )
     manifest["dynasty_power_method"] = (
         "Current Sleeper-owned roster D-AVI plus reconstructed live 2027+ "
