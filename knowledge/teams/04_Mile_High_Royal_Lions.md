@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 4
-- Last updated from Sleeper exports: 2026-10-17
+- Last updated from Sleeper exports: 2026-10-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 608.8
-- championship_lineup_c_avi_avg: 76.10
-- offensive_roster_c_avi_sum: 935.5
-- offensive_roster_c_avi_avg: 58.47
+- championship_lineup_c_avi_sum: 608.7
+- championship_lineup_c_avi_avg: 76.09
+- offensive_roster_c_avi_sum: 935.3
+- offensive_roster_c_avi_avg: 58.46
 - offensive_roster_d_avi_sum: 1127.0
 - offensive_roster_d_avi_avg: 70.44
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Garrett Wilson | C-AVI: 87.4 | D-AVI: 92.3
 - TE: Travis Kelce | C-AVI: 77.5 | D-AVI: 77.9
 - FLEX: Davante Adams | C-AVI: 83.3 | D-AVI: 80.8
-- FLEX: Dalton Schultz | C-AVI: 61.5 | D-AVI: 69.5
+- FLEX: Dalton Schultz | C-AVI: 61.4 | D-AVI: 69.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 50.4
+- Championship AVI (C-AVI, 0-100): 50.3
 - Dynasty AVI (D-AVI, 0-100): 76.7
 - Projected PPR points: 186.2
 - Category: offense
@@ -325,7 +325,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 61.5
+- Championship AVI (C-AVI, 0-100): 61.4
 - Dynasty AVI (D-AVI, 0-100): 69.5
 - Projected PPR points: 150.9
 - Category: offense

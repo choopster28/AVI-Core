@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 990097041671892992
 - Division: 4
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-10-17
+- Last updated from Sleeper exports: 2026-10-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 543.5
-- championship_lineup_c_avi_avg: 67.94
+- championship_lineup_c_avi_sum: 543.6
+- championship_lineup_c_avi_avg: 67.95
 - offensive_roster_c_avi_sum: 890.2
 - offensive_roster_c_avi_avg: 52.36
 - offensive_roster_d_avi_sum: 1126.9
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 50.5 | D-AVI: 73.1
 - RB: Kyren Williams | C-AVI: 87.0 | D-AVI: 89.9
-- RB: Aaron Jones | C-AVI: 61.9 | D-AVI: 66.9
+- RB: Aaron Jones | C-AVI: 62.0 | D-AVI: 66.9
 - WR: Christian Watson | C-AVI: 87.3 | D-AVI: 89.8
 - WR: Emeka Egbuka | C-AVI: 74.3 | D-AVI: 90.5
 - TE: Jake Ferguson | C-AVI: 53.8 | D-AVI: 76.1
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 61.9
+- Championship AVI (C-AVI, 0-100): 62.0
 - Dynasty AVI (D-AVI, 0-100): 66.9
 - Projected PPR points: 137.1
 - Category: offense
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 33.9
+- Championship AVI (C-AVI, 0-100): 33.8
 - Dynasty AVI (D-AVI, 0-100): 45.2
 - Projected PPR points: 57.6
 - Category: offense

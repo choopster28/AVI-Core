@@ -9896,7 +9896,7 @@
     },
     {
       "cbs_player_id": "2966868",
-      "player_bye_week": "9",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "S,CB",
       "player_filename": "erick-hallett.php",
@@ -9909,7 +9909,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "E. Hallett II",
-      "player_team_id": "TEN",
+      "player_team_id": "FA",
       "player_yahoo_id": "40210",
       "player_yahoo_positions": "S,CB",
       "pos_rank": "CB177",

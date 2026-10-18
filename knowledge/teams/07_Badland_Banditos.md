@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-10-17
+- Last updated from Sleeper exports: 2026-10-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 615.4
-- championship_lineup_c_avi_avg: 76.92
+- championship_lineup_c_avi_sum: 615.3
+- championship_lineup_c_avi_avg: 76.91
 - offensive_roster_c_avi_sum: 912.1
 - offensive_roster_c_avi_avg: 53.65
-- offensive_roster_d_avi_sum: 1186.5
-- offensive_roster_d_avi_avg: 69.79
+- offensive_roster_d_avi_sum: 1186.6
+- offensive_roster_d_avi_avg: 69.80
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Ja'Marr Chase | C-AVI: 91.9 | D-AVI: 98.6
 - WR: Terry McLaurin | C-AVI: 70.1 | D-AVI: 81.5
 - TE: Brock Bowers | C-AVI: 94.3 | D-AVI: 93.4
-- FLEX: Tre Tucker | C-AVI: 57.8 | D-AVI: 63.2
+- FLEX: Tre Tucker | C-AVI: 57.7 | D-AVI: 63.2
 - FLEX: Brian Thomas | C-AVI: 51.5 | D-AVI: 77.7
 
 ## Current Roster — All Player Cards
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 57.8
+- Championship AVI (C-AVI, 0-100): 57.7
 - Dynasty AVI (D-AVI, 0-100): 63.2
 - Projected PPR points: 125.9
 - Category: offense
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 26.1
-- Dynasty AVI (D-AVI, 0-100): 57.0
+- Championship AVI (C-AVI, 0-100): 26.0
+- Dynasty AVI (D-AVI, 0-100): 56.9
 - Projected PPR points: 31.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 19.5
-- Dynasty AVI (D-AVI, 0-100): 51.9
+- Championship AVI (C-AVI, 0-100): 19.7
+- Dynasty AVI (D-AVI, 0-100): 52.1
 - Projected PPR points: 28.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
