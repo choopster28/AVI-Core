@@ -31,8 +31,309 @@
       ]
     },
     "createdAt": 1792444502762,
-    "updatedAt": 1792444504504,
+    "updatedAt": 1792444558039,
     "expiresAt": 1792876502762,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Mile High Royal Lions ('Playoff Push', goal: Increase Championship Odds) attempted to build a trade proposal targeting Badland Banditos ('Elite Contender', goal: Win Championship) for wide receivers Brian Thomas and Jaylin Noel using a foundation of late 2027 3rd and 4th round picks. This proposal represents an insurmountable strategic and value mismatch. Brian Thomas currently serves as the starting FLEX2 in Badland Banditos' championship lineup, while Jaylin Noel provides vital young wide receiver depth. Surrendering a starting contributor and top young depth for Day 3 draft capital directly sabotages Badland Banditos' verified goal of winning a championship. Furthermore, Mile High lacks a package modification that would satisfy Badland Banditos without simultaneously damaging Mile High's own starting lineup and 2026 championship odds.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2027 3rd (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            },
+            {
+              "name": "2027 4th (Mile High Royal Lions)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 0,
+              "leagueMarket": 0
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Brian Thomas",
+              "assetType": "player",
+              "owner": "Badland Banditos ",
+              "position": "WR",
+              "age": 24,
+              "cavi": 51.5,
+              "davi": 77.7,
+              "publicMarket": 75,
+              "leagueMarket": 77.7
+            },
+            {
+              "name": "Jaylin Noel",
+              "assetType": "player",
+              "owner": "Badland Banditos ",
+              "position": "WR",
+              "age": 24,
+              "cavi": 41.4,
+              "davi": 62.1,
+              "publicMarket": 60,
+              "leagueMarket": 62.1
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "F",
+            "otherGrade": "F",
+            "userShare": 95,
+            "otherShare": 5,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "The proposed foundation offers 16.5 total C-AVI / 16.5 D-AVI in late draft capital in exchange for 92.9 C-AVI / 139.8 D-AVI in young wide receiver assets. In a 16-team league, offering late-round dart throws for a starting FLEX option and a top young rotation wide receiver is completely non-viable for an Elite Contender."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 0,
+              "summary": "No deal executed; roster structure remains unchanged."
+            },
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "No active starters gained."
+            },
+            "dynastyOutlook": {
+              "score": 0,
+              "summary": "Draft capital and youth profile remain static."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Starting 8 offensive slots unaffected."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Bench depth unchanged."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Retains all 2027 draft assets."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -85,
+              "summary": "Submitted foundation severely cripples starting lineup and WR depth."
+            },
+            "championshipOutlook": {
+              "score": -80,
+              "summary": "Removes starting FLEX2 option (Brian Thomas) without adding any immediate scoring."
+            },
+            "dynastyOutlook": {
+              "score": -65,
+              "summary": "Surrenders two 24-year-old wide receivers with high long-term ceiling for Day 3 draft picks."
+            },
+            "lineupQuality": {
+              "score": -75,
+              "summary": "Forces Badland Banditos to drop to low-tier bench options at FLEX2."
+            },
+            "depthResilience": {
+              "score": -70,
+              "summary": "Eliminates key wide receiver depth in a deep 16-team league."
+            },
+            "flexibilityLiquidity": {
+              "score": 5,
+              "summary": "Gains minor future late-round pick currency."
+            }
+          },
+          "explanation": "If executed as proposed, Badland Banditos would experience catastrophic lineup and roster damage while Mile High Royal Lions would acquire massive value for negligible draft capital. Because Badland Banditos is an Elite Contender focused strictly on winning the championship, they will not consider this construction."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Mile High Royal Lions would add Brian Thomas (51.5 C-AVI) and Jaylin Noel (41.4 C-AVI) to boost FLEX depth, but the package offered is completely unrealistic.",
+          "sideADynastyImpact": "Mile High acquires two 24-year-old wide receivers with strong dynasty trajectories (77.7 and 62.1 D-AVI).",
+          "sideARosterImpact": "Significantly strengthens wide receiver depth and FLEX options without sacrificing any rostered players.",
+          "sideBChampionshipImpact": "Badland Banditos loses starting FLEX2 contributor Brian Thomas (51.5 C-AVI), directly lowering their weekly scoring ceiling in their championship season.",
+          "sideBDynastyImpact": "Surrenders 139.8 total D-AVI in young wide receiver assets for 16.5 D-AVI in late pick capital.",
+          "sideBRosterImpact": "Creates an immediate hole at starting FLEX2 and strips depth behind Ja'Marr Chase and Terry McLaurin.",
+          "valueAssessment": "The submitted offer presents an extreme value disparity of +76.4 C-AVI and +123.3 D-AVI in favor of Mile High Royal Lions."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Brian Thomas as a talented 2nd-year WR navigating volatile usage in Jacksonville, maintaining significant dynasty trade value as a high-upside WR3/FLEX. Jaylin Noel is recognized as an ascending slot/explosive playmaker in Houston's high-powered offense with rising weekly efficiency.",
+          "aviVsMarket": "Public market dynasty valuations heavily favor young upside WRs over mid-to-late round rookie picks, aligning with AVI's valuation.",
+          "relevantContext": [
+            "Brian Thomas Jr. is a former top rookie draft pick possessing high dynasty ceiling despite short-term offense struggles in Jacksonville.",
+            "Jaylin Noel has demonstrated strong per-target efficiency in Houston, making him an ideal young depth asset in deep 16-team leagues.",
+            "Late 3rd and 4th round rookie picks carry a low historical hit rate in 16-team dynasty formats."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Badland Banditos has zero motivation to trade away starting lineup pieces or young talent for non-contributing late draft picks while competing for a title.",
+          "packageFit": "A 2027 3rd and 2027 4th round pick offer zero utility to a championship contender's 2026 roster.",
+          "lineupReplacement": "Trading Brian Thomas forces Badland Banditos to start lower-tier bench pieces like Caleb Douglas or Devin Singletary at FLEX2, creating an unaddressed starting lineup flaw.",
+          "competitiveWindowFit": "Badland Banditos is an Elite Contender whose goal is Win Championship; selling active production for Day 3 future picks directly opposes their competitive window.",
+          "positionalScarcity": "In a 16-team league, usable starting WR/FLEX players are highly scarce and command premium returns."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 0,
+            "packageMatch": 0,
+            "lineupReplacement": 0,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 30,
+          "classification": "Unlikely",
+          "explanation": "Badland Banditos will reject this offer immediately. Brian Thomas is an active starter in their championship lineup and Jaylin Noel is their premier young WR depth. Offering late picks to an Elite Contender for starting assets fails manager motivation, package match, lineup replacement, and competitive window alignment."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Badland Banditos will reject this offer immediately. Brian Thomas is an active starter in their championship lineup and Jaylin Noel is their premier young WR depth. Offering late picks to an Elite Contender for starting assets fails manager motivation, package match, lineup replacement, and competitive window alignment.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Badland Banditos will reject this offer immediately. Brian Thomas is an active starter in their championship lineup and Jaylin Noel is their premier young WR depth. Offering late picks to an Elite Contender for starting assets fails manager motivation, package match, lineup replacement, and competitive window alignment.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Badland Banditos has zero motivation to trade away starting lineup pieces or young talent for non-contributing late draft picks while competing for a title."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "A 2027 3rd and 2027 4th round pick offer zero utility to a championship contender's 2026 roster."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Trading Brian Thomas forces Badland Banditos to start lower-tier bench pieces like Caleb Douglas or Devin Singletary at FLEX2, creating an unaddressed starting lineup flaw."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Badland Banditos is an Elite Contender whose goal is Win Championship; selling active production for Day 3 future picks directly opposes their competitive window."
+            }
+          ],
+          "opponentPerspective": "Badland Banditos has zero motivation to trade away starting lineup pieces or young talent for non-contributing late draft picks while competing for a title.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "A 2027 3rd and 2027 4th round pick offer zero utility to a championship contender's 2026 roster.",
+          "whatWouldNeedToChange": [
+            "Badland Banditos has zero motivation to trade away starting lineup pieces or young talent for non-contributing late draft picks while competing for a title.",
+            "A 2027 3rd and 2027 4th round pick offer zero utility to a championship contender's 2026 roster.",
+            "Trading Brian Thomas forces Badland Banditos to start lower-tier bench pieces like Caleb Douglas or Devin Singletary at FLEX2, creating an unaddressed starting lineup flaw.",
+            "Badland Banditos is an Elite Contender whose goal is Win Championship; selling active production for Day 3 future picks directly opposes their competitive window."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaylin Noel football team",
+          "Brian Thomas Jr fantasy news 2026",
+          "Jaylin Noel NFL draft 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNlbm-H8b7E3SjRPZxj4FZ6CZyt-EuS3OBpnmbhSg2RdRZlShBxb1ktWZyD_NHVFa_IQDCrNwT0F-VA12AjBeKM3mwkkUuzDgdQVbyY5w7N6aUl-mmoRNNq-PenlSuMHFNrWPnCeaJQac83bWI3zGtX7iMYbT8q8TiJPlC4TSVSu6Q7Q==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEak2rn49LoLRtzjdPh_QEJHWBJy3RpMLSHn41AFhMn1WIdW5ofcHscWLy9SpjhLjG9OtzE0PxbF2iUe_adNqUU_bU6Xz4iuowUGmxcfwH3rp7a54H6N9QdLKGIS54RpQz6k5FCwCWtc9D0C3FO1xW0BLkwLpKDLc5oruTQgUM=",
+            "title": "facebook.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHlDVa7wO94BeCe-hif6t3aIgrb7S3q1zdQsmMwfCqVyfZI8qQiJK7pZSJ6ZZ73YSIkLVJpoNMtrzfilpPcDkJUC5t9Nq05uOmytReGJzcbwU2_kkc_hqgTAlgLjwEO54T_U-zvWCWLO4_VrNnBswcs6Ff3psqW6IBOsPxqGEOnK8YNuSjX1M2KZhOBQ==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFftTuzBZCVK7GBNFjx89OBlDPFoGisE088E2-HOQr8S6We-dUW9XRXXxn3PvDSc-7F8qsxCjwRQcMyK8mhoNllEjdHF16J8xSEhw92xMVVhvT4LyLfvEKp12TL5SUPljueBpB8QXYQ94Jl4ZPzECU=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqKPWNiykq9QlXkApkB0k9-sbnSm5LB6JGhK-1LRRjQOPls-40D0jPR6rI5HJay0bNp7G2nhjZY1Vpf0t1xxVADqyuaSsWO6t_oNGGZhZVoOykWLCoa-ikMyzsNkYEEegvj8wpg6vH3ngvrpAe6xHPOv_TBcMK-4TauPj_2XT9CjCKa9Y2huxX6-JAPjr5YNdyVRB00W0gHS7eFC7suek=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHzfWaO728JMvtcg2TE3N_qXs5FtNhrV8vDEyf-0ZDbO6Y8a2hw5B-0Ioed5i1LBspekpLHVdq_mgd2cqCeJ9r7_5OHhfBAKeuA9J8MAluTiHPwyRogDQeM6QuZJqp483cOV_gkR0glGHZVx4hRYGJLVelKSPaAdOsUZUAkyNi_rcSAQi5EvKMJo6Gn2WdYs_zSmWfKkOHRoHE_TQLTK_Ab2Y=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPI44UahojHj_8UCqkAbOG_czSsFz1_vXAyZBC2tdAKPH6bGzHA6nyG4X6n4zZV8ujYNBgqK33u281C6nEWnZ9t8DJlGKEYrvRfBKLSdyBX6idAWmotzgru01oBJkTZE0r8NXBHw0yfKd5CbERMih3b4TDKtFrCHFrJGOrwqXcboYvky8WO24fij9q_98YDYxJjcFf4AaKmD0pyaldCR5BPZpX1rCq40li",
+            "title": "fansided.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO2YUF5SK4ruGd7p7SF6Y0yGifGsxJYtzbDtbT539S5HkwLSQaR1HFl1hbFQGdjfKKGx96G5AFPe2HOmARm5kMDdMacQd1Ad7k7iraeTtfKLRwc1lgeaDW-EvYWbSGrrvR58nckohzlZxD1fx9sBRYQluSentagbFG7yQe1cP7VvoNZ-ZeRVwE_sLVxyHv7yXqzjbbTsjjDbuf6b0WlOEW1SnBY0IV-sKkzf7YIcri9JCqukczWBICnL7LjZT9MtIRY4toOPZMjEk4o2yKMLNbM0P4y-ejhqYrXGzwpFOeus8GfxTxjkYCJlxiNfLk3Upy",
+            "title": "thegazette.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoZEmAHbtmV8yYDqRDMwGEID0BQsfPaTrxp3mRGaxCpoIULlnNSceJeMScUX_S6qpVj-PCkr1sQKZyWHxXMNccImFtEE-H6oB0MXCFbMXUIRf5Nj7OpT_eXE_U6D-drFRev9O4inFftJCE8j1x3y6r_Bm-uUCu0jj5kimBqwkq8vE7X9GkyfTmCw==",
+            "title": "houstontexans.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi4aZDS6kT_cJCIuH4oBeBJ7FnTk8dvVTpXjlUWnZuSSAZ6BqeQXMlC196JiUahqFgdBqijXmGOkg6MvLnZF_610FJNACuNAMuT_V_bDBqkCOJGXSjpxQ8oVlbBwLENVW05rGRMm7Jnt_iFCiZv5aG6XPBVw==",
+            "title": "houstontexans.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOCTiPfwpqtGBy5ONq_iZD7LWrRpXDn3ZY0UPbWtKZoDY1lA_IqwsIlaEk1qe9gPwYkQO9Hfhgkq87gXZPTir27kHYDM0mdJYCyHka9ZGUfTQvGoARqoGlwcAKzzwb8v4RitUTcWMeOQ8zl7MiuoAF3anMXzwIGdAdA4F4shQbQ_-n9P72-aUrkxmIzzFwhTSTRXvi718TNJY=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHpCuR5D0fgWtyAcrt18N9IncHN2MY3_3-RNjy8aWT1CHfwxvFVBssGD3xETau1APOyKArIbqJQOJxnoqjY69Kvnjix8K_b6wVaftfX54ilVyZligFrVgeq8JaIs5nGyHDcnT4EDkU7gnn0VFAYXak0EtfLnexGJ-qIUjc3IzMpimo9_vrKRs8mP0mu1C8IGE-gMDagSzswhNBJdE=",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "709b6b85bfcde083ee1dcc0a1351ebbeb73692a6",
+        "aviCoreCommittedAt": "2026-10-19T21:10:51Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 79876,
+        "groundedMarketChars": 2400,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
