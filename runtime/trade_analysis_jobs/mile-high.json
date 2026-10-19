@@ -12,9 +12,274 @@
       "maxResults": 3
     },
     "createdAt": 1792444705830,
-    "updatedAt": 1792444707323,
+    "updatedAt": 1792444788103,
     "expiresAt": 1792876705830,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Mile High Royal Lions enter the trade market in Playoff Push status aiming to boost immediate championship odds at RB and TE. Backed by elite assets like Jahmyr Gibbs, Drake London, and Garrett Wilson, the Royal Lions possess ample offensive starter depth and future draft capital (including their native 2028 and 2029 1st-round picks and 2027/2028 2nd-round picks) to acquire elite immediate starting production. Market analysis identifies strong opportunities with retooling and rebuilding trade partners willing to exchange premier active starters like Derrick Henry, Jaylen Warren, and Sam LaPorta for young starter-caliber wideouts and high-value future draft assets.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite offensive anchors in Jahmyr Gibbs (99.0 C-AVI), Drake London (90.3 C-AVI), and Garrett Wilson (87.4 C-AVI)",
+            "High-volume veteran receiving power with Davante Adams (83.3 C-AVI) and Courtland Sutton (47.4 C-AVI)",
+            "Deep draft capital inventory including 2028 1st, 2029 1st, and multiple 2027/2028 2nd-round picks"
+          ],
+          "priorityNeeds": [
+            "High-floor RB starter/depth to pair with Jahmyr Gibbs and bolster championship lineup consistency over J.K. Dobbins (49.7 C-AVI)",
+            "Elite TE production and depth to complement Travis Kelce (77.5 C-AVI) and secure long-term positional advantage"
+          ],
+          "tradeableSurplus": [
+            "Starting-caliber WR depth (Marvin Harrison, Courtland Sutton)",
+            "TE depth with starter baseline (Dalton Schultz)",
+            "2028 and 2029 1st-round draft capital and 2027/2028 2nd-round picks"
+          ],
+          "constraintsApplied": [
+            "All trade recommendations must improve user's immediate championship odds (Playoff Push window)",
+            "Target positions strictly restricted to RB and TE",
+            "Starter-for-starter realism enforced across all candidate constructions",
+            "Target team organizational goals strictly respected for every transaction"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Eliminated Win Championship contenders unwilling to part with active starting RBs/TEs without receiving equal positional production",
+            "Eliminated teams lacking starter-caliber RB or TE surplus that fits Mile High Royal Lions' target profile",
+            "Eliminated candidate deals involving currently inactive/hard-unavailable assets for immediate active lineup needs"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Ravens Regime ",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Derrick Henry",
+                "assetType": "player",
+                "owner": "Ravens Regime ",
+                "position": "RB",
+                "age": 32,
+                "cavi": 92.5,
+                "davi": 84,
+                "publicMarket": 85,
+                "leagueMarket": 85
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Marvin Harrison",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "WR",
+                "age": 24,
+                "cavi": 50.4,
+                "davi": 76.7,
+                "publicMarket": 75,
+                "leagueMarket": 75
+              },
+              {
+                "name": "2028 Round 1 (Mile High Royal Lions)",
+                "assetType": "pick",
+                "owner": "Mile High Royal Lions",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Star Acquisition",
+            "strategicGoal": "Acquire elite, active RB1 production to create a championship-winning RB pairing alongside Jahmyr Gibbs.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Adding Derrick Henry (92.5 C-AVI) instantly forms the most dominant RB tandem in the league alongside Jahmyr Gibbs (99.0 C-AVI), drastically raising weekly projected scoring and playoff ceiling.",
+            "whyOpponentMightAccept": "Ravens Regime is in Retool mode; pivoting off a 32-year-old running back for 24-year-old starter Marvin Harrison (76.7 D-AVI) and a premium 2028 1st-round pick aligns perfectly with their multi-year retooling timeline.",
+            "championshipImpact": "Substantially increases immediate title odds by replacing J.K. Dobbins (49.7 C-AVI) in the starting lineup with elite RB1 volume.",
+            "dynastyImpact": "Surrenders a young WR and future 1st, but preserves core dynasty cornerstones Gibbs, London, and Wilson.",
+            "rosterImpact": "Establishes top-tier RB startable depth while maintaining deep WR starting depth with London, Wilson, and Adams.",
+            "publicMarketContext": "Henry continues to produce high-end RB1 numbers in Baltimore, making his short-term redraft value sky-high for contenders.",
+            "risks": [
+              "Age curve risk on 32-year-old Derrick Henry",
+              "Loss of future 1st-round draft flexibility"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Marvin Harrison + 2028 2nd-round pick for Derrick Henry.",
+              "acceptableConcession": "Upgrade the pick component to 2028 1st-round pick as modeled.",
+              "walkAwayPoint": "Walk away if opponent demands additional starting receivers like Davante Adams or multiple 1st-round picks."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Brock Bowers news 2026",
+          "Breece Hall news 2026",
+          "Quinshon Judkins news 2026",
+          "Sam LaPorta news 2026",
+          "Harold Fannin NFL 2026",
+          "Isaiah Likely news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEqHqXDVplRiF5AraMSORpKOAuavn_FNp-WLd3A8huT2F8_C7FrTxCeTH2Z7ZcDbAEBUPLxftUkMAeNR2KuQeVkPTcKmr42ZY4i4GSHeGgP8i6UQ_ci6WNzmCIjlCdeHivnUzou4Ei-Qp3lnGptSdVaxrgpcyOgnncMVeTTzbngmO1l3vgvf8yAe4GyjmIaCKMUBUgNZKNh-gFeni7RKGWdkg42dc26A==",
+            "title": "washingtontimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7w2tl3XsBfffYi-suKit-4rSxZo9_ZltZZEa5jnAn8IVZy0E3jjZeZNI514UppyleICw90SgpA1DFRetUxyrbbg_MFRHMdheuvd6vmV8lm5q6YzH2mwUPFNMut-2k8NFny0ZRQmIMI1Euvtl7a3w5JJrvuOnuua5A6-SWVI2W602o6dUjvKEIVY3F8_YG3T01W-pXDyrFhX47Ew==",
+            "title": "clevelandbrowns.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYLt4512JQL7fxSSyvJ2s477x0N-ABBDgYRSd8g2gwfJjZRGYwSUSq_4V4x7WRDOJMerC7MGKyDnCCK7lKxd_FTTWO-akMOwRyn-OPidOQeDRfZn2UAbUkjDVKn43JE2bZbR28qtvMA8VpqLJ2uZseSjsx5kcvztI7NbNUzZVEVsU6hKpxr3f0ngotpmSTQvFCl86HRScSVB0=",
+            "title": "brownsnation.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFsk5P3Oggfc3cYl5mvACPgr8XI9dke4rBIR509W_SfQ5NKNz30GyLtapahDkkYFzqsaVYBuISpSY-8fk7wg3iLjkXpgXqGAQvozbtqlipE5UoWIR9ommft1TTbLv6qwJe4PmomtHfri5M5DijTa6yo3vYDYx3nzR2yXPJqgwsvAJ2RXJ9yGAKT4Z4Z5DYZI4Gl21PYGnjDyaBwBHsPa99Kqb20WvN24mNyuRC",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5CJ5ZCaCxGqA1Vb-gvS5uKMj8_qczfiGvCDJwQ-YzcznQTdcwUlJYKDEDxPkNexv-Q9du6svbt40UxzXK4k897rwdbDllH59IwD7QHR6Oz9CruKE-M1Yttf9iYDWzFdiAKdGX2ZNJq-p9vDw5xwSqjWYVie3GtkYQx1jnPog5m9s8usBN-KB_hB7V0k5gFBt0PIbgpi9tIr9BlCO3aw==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUZWE9v7ZQIWADWOmMDJEv2444lbPf5S0pnI34BLCW4xNJpGyf3wj6lDRCC0bzi5Ne9xpiiZHWVLI2vjPYeJCerTyoJUr5avWAjDhSECbE8rhNMNW0aSmfS9P9cRLmxWRzak0XIdWeh9iUzaueWuymCkR7Bps33P9leKULxBGJc0F_SejZ-N2zvbiUlzJOtKacmE04PNW7A8ei1JmVY1_J1nXWPjMZueA-nw==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExN_2K1bSVMV6rWpApsWHcsbL5raSVQu3FT55bOt-dfDSwhH8UW413JpepSOx7JeuwJbYgqYeJEFvXAUgbJVYyRMhto53XB-5xkN2zSaUXLH75z8GNl60ce2ze_WbBExsWPQ-O5x1i1L_2apoXrJi5lRTooe9nYAuK938J0SNGuKdfZuZPGsYOuhcYpDSDGkmmYttdacpPeZ-rwa7Adw==",
+            "title": "thejetpress.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLnkHqw_8-kr0UWkL57Mbj8oTbJBTWr5JVxyyKWdLmfD9-1DCrUzwklo5EF_STimdfok3Y-tJHYr4YDDNQmeVHDurokzyL-kLJQOBdrx8ibpOMNfpE06bStTECAyV0ufu_NCfFVR660xQp6z-o3FgGwEAIpXg-9uRMsQB1",
+            "title": "jetsxfactor.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE94mt8qW3rv7mmZe9y2Fma0SkpiX2Qn8yWYeHDC2jsLlemyYVdeJeOibPKxRh184uJA0JcNSDjmC4XixiS03WJympg0q6A-odf-4eym0EysNB1WNENt6Olaz-GTx1Bm9sBCTG_Ihfm5llEjlYbUA261iFKECQJseRD1Q2qDeJkx4tAQW3RpC7o5_KNJ1L8btcaAQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETxc6DV1dGQ3XUUAFDuuUEIs6mz42nu8XVz9SDAwQeRJr3nK2tjbct4erYe1C0CiFqRlU0jBPFD9eHeLsPu-ZrgKPzT7Ij7DnoFZpyhki07VrOFaPLnJdPvEpuwFVHvIFy",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRWcNQWg5XYlWW8fpqDNlqPr6sCRMvLHE99AKLGyimRNNPNtapvNqwoampxzM4EKoCsZhYS_H1tZGq-songjAi9tmFFnD0qTI0EVhxt2ijBgZI49kSmLMTQQH5_pck6_uzgorZiSX0ASko5qvFM-c12NFvqwScMsY=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqX8JvqFjyFktmmjwP437RnKM3Mi4X3IhxsGxdKd1jg-UaUf6ARFcdjV6FJlEvBWGKKl9_E-AgIqBT47ZvDdVC6SWr3Gr3c1SCqPnBoZT_RhT9qrUoUKvHW7bIMuj9ymcZI8hMxHxRFlkyBrI2YEQpXLvMipcF92OZ91aJgTgrCgzoJbAEqp3pOZlpZJJG7P2AXPkCbrMAe0HhKs7IVDwyXlZ5",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZhKFlhJoFliATMvIUe9Rk-i9nkykYpXNhZpy0epxVkkeP6_VzRhBpwRRKn3Ndr53oyRnkUlE2as-PpSY69W6K0b_c3gWSF8RWXwbEqP6eUMYGVe5U1Q1u2OQgQ16DvEsQS9iSBhFZV49IcFCmNyjQoGjC7gel6drDub-u6duNpDULCDiX6QUrQ-9SicgbKRRCZvoPRjurrkEMJsccXfTD3G0cPJbm7A==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzN16xpxB0X63aD61CyP2qpaseEg5pgVC5cr8VyEMvjb5_Fcb-kphcORpgnTrYJWBSLtiW2LDgcdSafqpCDlyfoTTVv5dLy533Lt8UG7DtMakddEKHvFDKuKDGtx9d2zHobH8x9GQc_x_rQoN4tze74w==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPKGBy0sUax7GbfUmM59jLU5M-zCyg2m7kW0QNyJgifH32lAcvoQXt5AjP7op-lBKujLTLfu4tHkNui9aFveEWNU_1gw2R7J2f9EnDZRze6haC2R_WGqSKWJI8jinFxP47B-rh6a9uZJ6rg1uaBe0y4HpEtucyC2VDjtIhBrWhlFmbubuUeAbA-ocZFWLGYk2eDaQ=",
+            "title": "gmenhq.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbF5tSrg046kj8x5DTrzeLJJD85NasH-kUS0RQ5G8fMQu3yGuwC2T0D07EhNxIkbG3aGlyFQkSvafNCmOrHLipHJdeY2SUaSARaxXbdXWUDPagW7NukXP_GCQREblrdYwmcigUwSNSG2aXU2N7GLCoNnn8I3y-o1k76paoBM3HcKwx7dzgYimeS7PO8wHSmah7kN4=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyox-xA7gqAt9rSvXRs5hhfNsKf1KOTgHnuR2tNMUNyL2l8N_7tQEI5uBQWmNzQzmsvcqyWO_wfT6Q1gUovEDIAq9nw1o-yOmoRcr3d9mRhhKfpk3EuAZjT38Mp7W2bQGQK8HHzs2-",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx6-K-Drhw_pVxeOc2RRQ1ell2bUhb19T2qJeS_-Z35RIV3ETdWn3rWBFWFcqJGgZlUhraXvSnq1Hv7X8yldqFmqQQQiAsYOP_BrHgWW8Rj3rHWt4AL4-rLeScsFxOsAMRwfxW5UmluX94fkCDtIoBM0wOdyDP8p8ARbuzuzC9iqW3wjCdEI_2v8Zj5yxkC6sO81nUnO7j2VPtSfLiPXi6_xU0KosImN8K-ZHea6ApC2c=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERAn0FMx2nyEwBf_4scqU6TWHOwwznQZakttz7Bo3EVXLR3ou7tPoqj1bVMYiICbv0rOiHLtN8m7Juf_JPuCq69_ghiPXeAx14iSCCgCyv9-NyCyQ_IoYsBBKsNLUGCp6xYfT5WaM4uRkBGrCKs8nDxW-wAodPt8HOevjIQ9uI7ZlpVTd6X2x2Er5Y7Ds4sdhupA5CggU6HQPkiGrFtaIVDJZzy2cf8fc=",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Quinshon Judkins",
+          "Breece Hall",
+          "Sam LaPorta",
+          "Isaiah Likely",
+          "Brock Bowers",
+          "Harold Fannin"
+        ],
+        "aviCoreCommitSha": "709b6b85bfcde083ee1dcc0a1351ebbeb73692a6",
+        "aviCoreCommittedAt": "2026-10-19T21:10:51Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542903,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 254,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mvfr6dwq-43972e47",
