@@ -16,9 +16,9 @@
       }
     },
     {
-      "average": 2.4,
+      "average": 2,
       "filename": "isaiah-pola-mao.php",
-      "games": 5,
+      "games": 6,
       "player_id": 23939,
       "player_name": "Isaiah Pola-Mao",
       "points": 12,
@@ -29,7 +29,8 @@
         "2": 3.8,
         "3": 8.3,
         "4": 0,
-        "5": 0
+        "5": 0,
+        "6": 0
       }
     },
     {
@@ -123,12 +124,12 @@
       }
     },
     {
-      "average": 8.6,
+      "average": 9.1,
       "filename": "javon-bullard.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26121,
       "player_name": "Javon Bullard",
-      "points": 42.75,
+      "points": 54.75,
       "position_id": "S",
       "team_id": "GB",
       "weeks": {
@@ -136,7 +137,8 @@
         "2": 17,
         "3": 10,
         "4": 4.5,
-        "5": 9.8
+        "5": 9.8,
+        "6": 12
       }
     },
     {
@@ -509,12 +511,12 @@
       }
     },
     {
-      "average": 2.3,
+      "average": 2.9,
       "filename": "damar-hamlin.php",
-      "games": 5,
+      "games": 6,
       "player_id": 23189,
       "player_name": "Damar Hamlin",
-      "points": 11.25,
+      "points": 17.25,
       "position_id": "S",
       "team_id": "BUF",
       "weeks": {
@@ -522,7 +524,8 @@
         "2": 0.8,
         "3": 1.5,
         "4": 1.5,
-        "5": 6
+        "5": 6,
+        "6": 6
       }
     },
     {
@@ -560,18 +563,19 @@
       }
     },
     {
-      "average": 6.5,
+      "average": 5.8,
       "filename": "malik-hooker.php",
-      "games": 3,
+      "games": 4,
       "player_id": 16373,
       "player_name": "Malik Hooker",
-      "points": 19.5,
+      "points": 23.25,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
         "1": 1.5,
         "4": 12,
-        "5": 6
+        "5": 6,
+        "6": 3.8
       }
     },
     {
@@ -809,12 +813,12 @@
       }
     },
     {
-      "average": 4.5,
+      "average": 4.9,
       "filename": "markquese-ball.php",
-      "games": 5,
+      "games": 6,
       "player_id": 24864,
       "player_name": "Markquese Bell",
-      "points": 22.5,
+      "points": 29.25,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
@@ -822,7 +826,8 @@
         "2": 7.5,
         "3": 9.8,
         "4": 0,
-        "5": 5.3
+        "5": 5.3,
+        "6": 6.8
       }
     },
     {
@@ -894,12 +899,12 @@
       }
     },
     {
-      "average": 11.7,
+      "average": 12.1,
       "filename": "jeremy-chinn.php",
-      "games": 5,
+      "games": 6,
       "player_id": 19429,
       "player_name": "Jeremy Chinn",
-      "points": 58.25,
+      "points": 72.5,
       "position_id": "S",
       "team_id": "LV",
       "weeks": {
@@ -907,7 +912,8 @@
         "2": 8.5,
         "3": 21.8,
         "4": 6,
-        "5": 11.3
+        "5": 11.3,
+        "6": 14.3
       }
     },
     {
@@ -928,12 +934,12 @@
       }
     },
     {
-      "average": 7.8,
+      "average": 6.7,
       "filename": "chauncey-gardner-johnson.php",
-      "games": 5,
+      "games": 6,
       "player_id": 18649,
       "player_name": "C.J. Gardner-Johnson",
-      "points": 38.75,
+      "points": 40.25,
       "position_id": "S",
       "team_id": "BUF",
       "weeks": {
@@ -941,7 +947,8 @@
         "2": 1.5,
         "3": 14,
         "4": 4.5,
-        "5": 8.3
+        "5": 8.3,
+        "6": 1.5
       }
     },
     {
@@ -1219,12 +1226,12 @@
       }
     },
     {
-      "average": 15.3,
+      "average": 15.2,
       "filename": "evan-williams.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26131,
       "player_name": "Evan Williams",
-      "points": 76.5,
+      "points": 91.25,
       "position_id": "S",
       "team_id": "GB",
       "weeks": {
@@ -1232,16 +1239,17 @@
         "2": 16.8,
         "3": 10.5,
         "4": 22,
-        "5": 17.5
+        "5": 17.5,
+        "6": 14.8
       }
     },
     {
-      "average": 8.6,
+      "average": 8.9,
       "filename": "cole-bishop.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26229,
       "player_name": "Cole Bishop",
-      "points": 42.75,
+      "points": 53.25,
       "position_id": "S",
       "team_id": "BUF",
       "weeks": {
@@ -1249,7 +1257,8 @@
         "2": 8.3,
         "3": 6.8,
         "4": 8.3,
-        "5": 12.8
+        "5": 12.8,
+        "6": 10.5
       }
     },
     {
@@ -1681,12 +1690,12 @@
       }
     },
     {
-      "average": 7.9,
+      "average": 8.8,
       "filename": "caleb-downs.php",
-      "games": 5,
+      "games": 6,
       "player_id": 27950,
       "player_name": "Caleb Downs",
-      "points": 39.5,
+      "points": 53,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
@@ -1694,7 +1703,8 @@
         "2": 9.8,
         "3": 3.8,
         "4": 6.8,
-        "5": 3
+        "5": 3,
+        "6": 13.5
       }
     },
     {
@@ -1836,12 +1846,12 @@
       }
     },
     {
-      "average": 9.7,
+      "average": 8.7,
       "filename": "xavier-mckinney.php",
-      "games": 5,
+      "games": 6,
       "player_id": 19216,
       "player_name": "Xavier McKinney",
-      "points": 48.5,
+      "points": 52.25,
       "position_id": "S",
       "team_id": "GB",
       "weeks": {
@@ -1849,7 +1859,8 @@
         "2": 4.5,
         "3": 13.3,
         "4": 11.8,
-        "5": 14.5
+        "5": 14.5,
+        "6": 3.8
       }
     },
     {
@@ -2320,17 +2331,18 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.3,
       "filename": "juanyeh-thomas.php",
-      "games": 2,
+      "games": 3,
       "player_id": 24865,
       "player_name": "Juanyeh Thomas",
-      "points": 0,
+      "points": 0.75,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
         "4": 0,
-        "5": 0
+        "5": 0,
+        "6": 0.8
       }
     },
     {
@@ -2417,14 +2429,15 @@
     {
       "average": 0,
       "filename": "jalon-kilgore.php",
-      "games": 1,
+      "games": 2,
       "player_id": 27963,
       "player_name": "Jalon Kilgore",
       "points": 0,
       "position_id": "S",
       "team_id": "BUF",
       "weeks": {
-        "5": 0
+        "5": 0,
+        "6": 0
       }
     },
     {

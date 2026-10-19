@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 401.0
-- championship_lineup_c_avi_avg: 50.12
-- offensive_roster_c_avi_sum: 796.2
-- offensive_roster_c_avi_avg: 44.23
-- offensive_roster_d_avi_sum: 1141.0
-- offensive_roster_d_avi_avg: 63.39
+- championship_lineup_c_avi_sum: 401.1
+- championship_lineup_c_avi_avg: 50.14
+- offensive_roster_c_avi_sum: 796.7
+- offensive_roster_c_avi_avg: 44.26
+- offensive_roster_d_avi_sum: 1146.6
+- offensive_roster_d_avi_avg: 63.70
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Caleb Williams | C-AVI: 74.9 | D-AVI: 84.6
+- QB: Caleb Williams | C-AVI: 74.9 | D-AVI: 85.2
 - RB: Ollie Gordon | C-AVI: 42.0 | D-AVI: 51.1
-- RB: Justice Hill | C-AVI: 33.7 | D-AVI: 40.8
+- RB: Justice Hill | C-AVI: 33.8 | D-AVI: 40.9
 - WR: Denzel Boston | C-AVI: 63.9 | D-AVI: 81.1
 - WR: Quentin Johnston | C-AVI: 44.1 | D-AVI: 68.5
 - TE: Colston Loveland | C-AVI: 60.8 | D-AVI: 85.9
@@ -54,7 +54,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 74.9
-- Dynasty AVI (D-AVI, 0-100): 84.6
+- Dynasty AVI (D-AVI, 0-100): 85.2
 - Projected PPR points: 299.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 35.1
-- Dynasty AVI (D-AVI, 0-100): 51.2
+- Championship AVI (C-AVI, 0-100): 35.5
+- Dynasty AVI (D-AVI, 0-100): 56.1
 - Projected PPR points: 102.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 33.7
-- Dynasty AVI (D-AVI, 0-100): 40.8
+- Championship AVI (C-AVI, 0-100): 33.8
+- Dynasty AVI (D-AVI, 0-100): 40.9
 - Projected PPR points: 67.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

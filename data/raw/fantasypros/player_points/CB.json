@@ -1,12 +1,12 @@
 {
   "players": [
     {
-      "average": 1.4,
+      "average": 1.8,
       "filename": "ameer-speed.php",
-      "games": 5,
+      "games": 6,
       "player_id": 25524,
       "player_name": "Ameer Speed",
-      "points": 6.75,
+      "points": 10.5,
       "position_id": "CB",
       "team_id": "DAL",
       "weeks": {
@@ -14,7 +14,8 @@
         "2": 0,
         "3": 0,
         "4": 2.3,
-        "5": 4.5
+        "5": 4.5,
+        "6": 3.8
       }
     },
     {
@@ -570,12 +571,12 @@
       }
     },
     {
-      "average": 4,
+      "average": 4.2,
       "filename": "shavon-revel-jr.php",
-      "games": 5,
+      "games": 6,
       "player_id": 27024,
       "player_name": "Shavon Revel Jr.",
-      "points": 19.75,
+      "points": 25,
       "position_id": "CB",
       "team_id": "DAL",
       "weeks": {
@@ -583,7 +584,8 @@
         "2": 6,
         "3": 6,
         "4": 0,
-        "5": 2.3
+        "5": 2.3,
+        "6": 5.3
       }
     },
     {
@@ -861,12 +863,12 @@
       }
     },
     {
-      "average": 7,
+      "average": 7.5,
       "filename": "daron-bland.php",
-      "games": 5,
+      "games": 6,
       "player_id": 24551,
       "player_name": "DaRon Bland",
-      "points": 34.75,
+      "points": 44.75,
       "position_id": "CB",
       "team_id": "DAL",
       "weeks": {
@@ -874,7 +876,8 @@
         "2": 8.3,
         "3": 4.8,
         "4": 4.5,
-        "5": 9
+        "5": 9,
+        "6": 10
       }
     },
     {
@@ -1957,7 +1960,7 @@
     {
       "average": 0.3,
       "filename": "kamal-hadden.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26171,
       "player_name": "Kamal Hadden",
       "points": 1.5,
@@ -1968,7 +1971,8 @@
         "2": 0,
         "3": 0,
         "4": 0,
-        "5": 1.5
+        "5": 1.5,
+        "6": 0
       }
     },
     {
@@ -2059,28 +2063,29 @@
       }
     },
     {
-      "average": 0.4,
+      "average": 1.7,
       "filename": "carrington-valentine.php",
-      "games": 4,
+      "games": 5,
       "player_id": 25493,
       "player_name": "Carrington Valentine",
-      "points": 1.5,
+      "points": 8.25,
       "position_id": "CB",
       "team_id": "GB",
       "weeks": {
         "1": 0,
         "2": 0,
         "4": 1.5,
-        "5": 0
+        "5": 0,
+        "6": 6.8
       }
     },
     {
-      "average": 7.6,
+      "average": 8.6,
       "filename": "brandon-cisse.php",
-      "games": 5,
+      "games": 6,
       "player_id": 28075,
       "player_name": "Brandon Cisse",
-      "points": 37.75,
+      "points": 51.75,
       "position_id": "CB",
       "team_id": "GB",
       "weeks": {
@@ -2088,7 +2093,8 @@
         "2": 7.3,
         "3": 8.3,
         "4": 8.3,
-        "5": 11
+        "5": 11,
+        "6": 14
       }
     },
     {
@@ -2573,10 +2579,10 @@
     {
       "average": 11.8,
       "filename": "keisean-nixon.php",
-      "games": 5,
+      "games": 6,
       "player_id": 18495,
       "player_name": "Keisean Nixon",
-      "points": 58.75,
+      "points": 70.75,
       "position_id": "CB",
       "team_id": "GB",
       "weeks": {
@@ -2584,7 +2590,8 @@
         "2": 9.8,
         "3": 6.8,
         "4": 13.8,
-        "5": 11.5
+        "5": 11.5,
+        "6": 12
       }
     },
     {
@@ -3304,16 +3311,17 @@
       }
     },
     {
-      "average": 0,
+      "average": 5,
       "filename": "joey-porter-jr.php",
-      "games": 1,
+      "games": 2,
       "player_id": 24705,
       "player_name": "Joey Porter Jr.",
-      "points": 0,
+      "points": 10,
       "position_id": "CB",
       "team_id": "DAL",
       "weeks": {
-        "4": 0
+        "4": 0,
+        "6": 10
       }
     },
     {

@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 507.8
-- championship_lineup_c_avi_avg: 63.48
-- offensive_roster_c_avi_sum: 697.2
-- offensive_roster_c_avi_avg: 49.80
-- offensive_roster_d_avi_sum: 926.6
-- offensive_roster_d_avi_avg: 66.19
+- championship_lineup_c_avi_sum: 507.9
+- championship_lineup_c_avi_avg: 63.49
+- offensive_roster_c_avi_sum: 697.4
+- offensive_roster_c_avi_avg: 49.81
+- offensive_roster_d_avi_sum: 929.8
+- offensive_roster_d_avi_avg: 66.41
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Drake Maye | C-AVI: 82.8 | D-AVI: 87.7
+- QB: Drake Maye | C-AVI: 82.9 | D-AVI: 88.9
 - RB: Emanuel Wilson | C-AVI: 51.0 | D-AVI: 48.9
 - RB: TreVeyon Henderson | C-AVI: 49.9 | D-AVI: 78.8
 - WR: Tetairoa McMillan | C-AVI: 89.0 | D-AVI: 94.7
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 82.8
-- Dynasty AVI (D-AVI, 0-100): 87.7
+- Championship AVI (C-AVI, 0-100): 82.9
+- Dynasty AVI (D-AVI, 0-100): 88.9
 - Projected PPR points: 320.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 37.4
-- Dynasty AVI (D-AVI, 0-100): 60.1
+- Championship AVI (C-AVI, 0-100): 37.6
+- Dynasty AVI (D-AVI, 0-100): 62.1
 - Projected PPR points: 270.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 13.3
+- Championship AVI (C-AVI, 0-100): 13.2
 - Dynasty AVI (D-AVI, 0-100): 66.2
 - Projected PPR points: 139.4
 - Category: offense

@@ -37,19 +37,20 @@
       }
     },
     {
-      "average": 21.4,
+      "average": 19.4,
       "filename": "patrick-mahomes.php",
-      "games": 4,
+      "games": 5,
       "player_id": 16413,
       "player_name": "Patrick Mahomes II",
-      "points": 85.58,
+      "points": 97.06,
       "position_id": "QB",
       "team_id": "KC",
       "weeks": {
         "1": 22.7,
         "2": 29,
         "3": 16.9,
-        "4": 17
+        "4": 17,
+        "6": 11.5
       }
     },
     {
@@ -102,12 +103,12 @@
       }
     },
     {
-      "average": 29.4,
+      "average": 27.5,
       "filename": "josh-allen-qb.php",
-      "games": 5,
+      "games": 6,
       "player_id": 17298,
       "player_name": "Josh Allen",
-      "points": 146.95999999999998,
+      "points": 165.26,
       "position_id": "QB",
       "team_id": "BUF",
       "weeks": {
@@ -115,7 +116,8 @@
         "2": 40.8,
         "3": 19.5,
         "4": 19.5,
-        "5": 31.5
+        "5": 31.5,
+        "6": 18.3
       }
     },
     {
@@ -161,7 +163,7 @@
       "player_name": "Cooper Rush",
       "points": 9.16,
       "position_id": "QB",
-      "team_id": "ATL",
+      "team_id": "FA",
       "weeks": {
         "1": 7.7,
         "2": 1.4
@@ -275,12 +277,12 @@
       }
     },
     {
-      "average": 19.4,
+      "average": 18.3,
       "filename": "dak-prescott.php",
-      "games": 5,
+      "games": 6,
       "player_id": 15600,
       "player_name": "Dak Prescott",
-      "points": 96.84000000000002,
+      "points": 109.86000000000001,
       "position_id": "QB",
       "team_id": "DAL",
       "weeks": {
@@ -288,7 +290,8 @@
         "2": 29.8,
         "3": 18.9,
         "4": 18.1,
-        "5": 14.6
+        "5": 14.6,
+        "6": 13
       }
     },
     {
@@ -372,12 +375,12 @@
       }
     },
     {
-      "average": 17.9,
+      "average": 16.2,
       "filename": "jacoby-brissett.php",
-      "games": 5,
+      "games": 6,
       "player_id": 15642,
       "player_name": "Jacoby Brissett",
-      "points": 89.3,
+      "points": 97.22,
       "position_id": "QB",
       "team_id": "ARI",
       "weeks": {
@@ -385,16 +388,17 @@
         "2": 7.5,
         "3": 25.6,
         "4": 13.4,
-        "5": 26.3
+        "5": 26.3,
+        "6": 7.9
       }
     },
     {
-      "average": 19,
+      "average": 18.6,
       "filename": "matthew-stafford.php",
-      "games": 5,
+      "games": 6,
       "player_id": 9451,
       "player_name": "Matthew Stafford",
-      "points": 94.97999999999999,
+      "points": 111.85999999999999,
       "position_id": "QB",
       "team_id": "LAR",
       "weeks": {
@@ -402,7 +406,8 @@
         "2": 28,
         "3": 22.9,
         "4": 11.7,
-        "5": 27.3
+        "5": 27.3,
+        "6": 16.9
       }
     },
     {
@@ -423,10 +428,10 @@
     {
       "average": 19.3,
       "filename": "kirk-cousins.php",
-      "games": 5,
+      "games": 6,
       "player_id": 11177,
       "player_name": "Kirk Cousins",
-      "points": 96.56,
+      "points": 116.08,
       "position_id": "QB",
       "team_id": "LV",
       "weeks": {
@@ -434,7 +439,8 @@
         "2": 21.2,
         "3": 22.2,
         "4": 23.6,
-        "5": 13.7
+        "5": 13.7,
+        "6": 19.5
       }
     },
     {
@@ -536,12 +542,12 @@
       }
     },
     {
-      "average": 18.6,
+      "average": 19.1,
       "filename": "jordan-love.php",
-      "games": 5,
+      "games": 6,
       "player_id": 19246,
       "player_name": "Jordan Love",
-      "points": 93.12,
+      "points": 114.36,
       "position_id": "QB",
       "team_id": "GB",
       "weeks": {
@@ -549,7 +555,8 @@
         "2": 13.8,
         "3": 19.5,
         "4": 14.1,
-        "5": 25.3
+        "5": 25.3,
+        "6": 21.2
       }
     },
     {
@@ -617,12 +624,12 @@
       }
     },
     {
-      "average": 12.1,
+      "average": 11.7,
       "filename": "justin-herbert.php",
-      "games": 5,
+      "games": 6,
       "player_id": 18635,
       "player_name": "Justin Herbert",
-      "points": 60.68000000000001,
+      "points": 70.44000000000001,
       "position_id": "QB",
       "team_id": "LAC",
       "weeks": {
@@ -630,7 +637,8 @@
         "2": 9.9,
         "3": 13.7,
         "4": 11.6,
-        "5": 11.2
+        "5": 11.2,
+        "6": 9.8
       }
     },
     {
@@ -856,7 +864,7 @@
       "player_name": "Andy Dalton",
       "points": -1,
       "position_id": "QB",
-      "team_id": "FA",
+      "team_id": "ATL",
       "weeks": {
         "3": -1
       }
