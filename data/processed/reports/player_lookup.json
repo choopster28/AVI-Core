@@ -1630,7 +1630,7 @@
       "player_name": "Jeremy McNichols",
       "position": "RB",
       "sleeper_id": "4219",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -4398,7 +4398,7 @@
       "position": "RB",
       "roster_id": 12,
       "sleeper_id": "12533",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
     },
@@ -6126,7 +6126,7 @@
       "position": "WR",
       "roster_id": 15,
       "sleeper_id": "8121",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
     },
